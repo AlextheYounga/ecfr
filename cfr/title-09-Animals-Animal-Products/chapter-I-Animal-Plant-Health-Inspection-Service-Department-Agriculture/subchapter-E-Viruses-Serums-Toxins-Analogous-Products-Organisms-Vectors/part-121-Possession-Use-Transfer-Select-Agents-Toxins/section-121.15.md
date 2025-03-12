@@ -1,5 +1,7 @@
 ##### § 121.15 Training. #####
 
+Link to an amendment published at 82 FR 6209, Jan. 19, 2017.
+
 (a) An individual or entity required to register under this part must provide information and training on biosafety, security (including security awareness), and incident response to:
 
 (1) Each individual with access approval from the HHS Secretary or Administrator before that individual has such access to select agents and toxins. The training must address the particular needs of the individual, the work they will do, and the risks posed by the select agents or toxins; and

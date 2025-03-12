@@ -1,5 +1,7 @@
 ##### § 73.9 Responsible Official. #####
 
+Link to an amendment published at 82 FR 6292, January 19, 2017.
+
 (a) An individual or entity required to register under this part must designate an individual to be the Responsible Official. The Responsible Official must:
 
 (1) Be approved by the HHS Secretary or Administrator following a security risk assessment by the Attorney General,

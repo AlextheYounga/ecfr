@@ -30,10 +30,10 @@
 
 (ii) The fine is imposed as of a specified date, and in a specified amount.
 
-(3) If the institution or servicer requests a hearing by the time specified in paragraph (b)(1)(iii) of this section, the designated department official sets the date and the place. The date is at least 15 days after the designated department official receives the request.
+(3) If the institution or servicer requests a hearing by the time specified in paragraph (b)(1)(iii) of this section, the designated department official transmits the request for hearing and response to the Office of Hearings and Appeals, which sets the date and the place. The date is at least 15 days after the designated department official receives the request.
 
-(4) A hearing official conducts a hearing in accordance with § 668.88.
+(4) A hearing official conducts a hearing in accordance with § 668.89.
 
 (c) *Expedited proceedings.* With the approval of the hearing official and the consent of the designated department official and the institution or servicer, any time schedule specified in this section may be shortened.
 
-(Authority: 20 U.S.C. 1094)[59 FR 22446, Apr. 29, 1994, as amended at 67 FR 69655, Nov. 18, 2002]
+(Authority: 20 U.S.C. 1094)[59 FR 22446, Apr. 29, 1994, as amended at 67 FR 69655, Nov. 18, 2002; 82 FR 6257, Jan. 19, 2017]

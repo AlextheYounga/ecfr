@@ -1,13 +1,11 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
-Link to an amendment published at 82 FR 4723, Jan. 13, 2017.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (DEC 2016)
+Offeror Representations and Certifications - Commercial Items (JAN 2017)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically via the System for Award Management (SAM) Web site located at *https://www.sam.gov/portal*.
-If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (t) of this provision.
+If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (u) of this provision.
 
 (a) *Definitions.* As used in this provision -
 
@@ -219,7 +217,7 @@ By a court order issued on October 24, 2016, the following definitions in this p
 
 (2) The offeror has completed the annual representations and certifications electronically via the SAM website accessed through *http://www.acquisition.gov.* After reviewing the SAM database information, the offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications - Commercial Items, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs \_\_\_\_\_.
 
-[*Offeror to identify the applicable paragraphs at (c) through (t) of this provision that the offeror has completed for the purposes of this solicitation only, if any.*
+[*Offeror to identify the applicable paragraphs at (c) through (u) of this provision that the offeror has completed for the purposes of this solicitation only, if any.*
 
 *These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer.*
 
@@ -603,6 +601,12 @@ By a court order issued on October 24, 2016, this paragraph (s) is enjoined inde
 (iii) A publicly accessible Web site includes the Offeror's own Web site or a recognized, third-party greenhouse gas emissions reporting program.
 
 (3) If the Offeror checked “does” in paragraphs (t)(2)(i) or (t)(2)(ii) of this provision, respectively, the Offeror shall provide the publicly accessible Web site(s) where greenhouse gas emissions and/or reduction goals are reported.
+
+(u)(1) In accordance with section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions), Government agencies are not permitted to use appropriated (or otherwise made available) funds for contracts with an entity that requires employees or subcontractors of such entity seeking to report waste, fraud, or abuse to sign internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting such waste, fraud, or abuse to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information.
+
+(2) The prohibition in paragraph (u)(1) of this provision does not contravene requirements applicable to Standard Form 312 (Classified Information Nondisclosure Agreement), Form 4414 (Sensitive Compartmented Information Nondisclosure Agreement), or any other form issued by a Federal department or agency governing the nondisclosure of classified information.
+
+(3) *Representation.* By submission of its offer, the Offeror represents that it will not require its employees or subcontractors to sign or comply with internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting waste, fraud, or abuse related to the performance of a Government contract to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information (*e.g.,* agency Office of the Inspector General).
 
 (End of provision)
 

@@ -1,8 +1,6 @@
 ##### § 10.804 Declaration. #####
 
-Link to an amendment published at 81 FR 93014, Dec. 20, 2016.
-
-(a) *Contents.* An importer who claims preferential tariff treatment for a good under the BFTA must submit to CBP, at the request of the port director, a declaration setting forth all pertinent information concerning the growth, production, or manufacture of the good. A declaration submitted to CBP under this paragraph:
+(a) *Contents.* An importer who claims preferential tariff treatment for a good under the BFTA must submit, at the request of the Center director, a declaration setting forth all pertinent information concerning the growth, production, or manufacture of the good. A declaration submitted under this paragraph:
 
 (1) Need not be in a prescribed format but must be in writing or must be transmitted electronically pursuant to any electronic means authorized by CBP for that purpose;
 
@@ -48,4 +46,4 @@ This document consists of \_\_\_ pages, including all attachments.”
 
 (2) Multiple importations of identical goods into the United States that occur within a specified blanket period, not exceeding 12 months, set out in the declaration. For purposes of this paragraph, “identical goods” means goods that are the same in all respects relevant to the production that qualifies the goods for preferential tariff treatment.
 
-[CBP Dec. 07-81, 72 FR 58515, Oct. 16, 2007, as amended by CBP 08-28, 73 FR 42681, July 23, 2008]
+[CBP Dec. 07-81, 72 FR 58515, Oct. 16, 2007, as amended by CBP 08-28, 73 FR 42681, July 23, 2008; CBP Dec. 16-26, 81 FR 93014, Dec. 20, 2016]

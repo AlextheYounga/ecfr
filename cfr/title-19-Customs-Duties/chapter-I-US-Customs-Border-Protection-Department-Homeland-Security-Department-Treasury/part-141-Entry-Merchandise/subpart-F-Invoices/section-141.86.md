@@ -22,7 +22,7 @@
 
 (10) The country of origin of the merchandise; and,
 
-(11) All goods or services furnished for the production of the merchandise (e.g., assists such as dies, molds, tools, engineering work) not included in the invoice price. However, goods or services furnished in the United States are excluded. Annual reports for goods and services, when approved by the port director, will be accepted as proof that the goods or services were provided.
+(11) All goods or services furnished for the production of the merchandise (e.g., assists such as dies, molds, tools, engineering work) not included in the invoice price. However, goods or services furnished in the United States are excluded. Annual reports for goods and services, when approved by the Center director, will be accepted as proof that the goods or services were provided.
 
 (b) *Nonpurchased merchandise shipped by other than manufacturer.* Each invoice of imported merchandise shipped to a person in the United States by a person other than the manufacturer and otherwise than pursuant to a purchase or agreement to purchase must set forth the time when, the place where, the person from whom such merchandise was purchased, and the price paid therefor in the currency of the purchase, stating whether gold, silver, or paper.
 
@@ -36,7 +36,7 @@
 
 (g) *Discounts.* Each invoice must set forth in detail, for each class or kind of merchandise, every discount from list or other base price which has been or may be allowed in fixing each purchase price or value.
 
-(h) *Numbering of invoices and pages* - (1) *Invoices.* Except when electronic invoice data are transmitted to CBP under the provisions of part 143 of this chapter, when more than one invoice is included in the same entry, each invoice with its attachments must be numbered consecutively by the importer on the bottom of the face of each page, beginning with No. 1.
+(h) *Numbering of invoices and pages*—(1) *Invoices.* Except when electronic invoice data are transmitted to CBP under the provisions of part 143 of this chapter, when more than one invoice is included in the same entry, each invoice with its attachments must be numbered consecutively by the importer on the bottom of the face of each page, beginning with No. 1.
 
 (2) *Pages.* Except when electronic invoice data are transmitted to CBP under the provisions of part 143 of this chapter, if the invoice or invoices filed with one entry consist of more than two pages, each page must be numbered consecutively by the importer on the bottom of the face of each page, with the page numbering beginning with No. 1 for the first page of the first invoice and continuing in a single series of numbers through all the invoices and attachments included in one entry.
 

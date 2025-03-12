@@ -1,5 +1,7 @@
 ##### § 71.33 Persons: Isolation and surveillance. #####
 
+Link to an amendment published at 82 FR 6976, January 19, 2017.
+
 (a) Persons held in isolation under this subpart may be held in facilities suitable for isolation and treatment.
 
 (b) The Director may require isolation where surveillance is authorized in this subpart whenever the Director considers the risk of transmission of infection to be exceptionally serious.

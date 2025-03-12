@@ -36,7 +36,7 @@
 
 (iv) Provided that any processing not described in this paragraph (a)(13) conforms to the rules set forth in paragraph (b) of this section.
 
-(b) *Dyeing, printing, finishing and other operations* - (1) *Dyeing, printing and finishing operations.* Dyeing, printing, and finishing operations may be performed on any yarn, fabric, or knit-to-shape or other component used in the production of any article described under paragraph (a) of this section without affecting the eligibility of the article for preferential treatment, provided that the operation is performed in the United States or in a CBTPA beneficiary country and not in any other country and subject to the following additional conditions:
+(b) *Dyeing, printing, finishing and other operations*—(1) *Dyeing, printing and finishing operations.* Dyeing, printing, and finishing operations may be performed on any yarn, fabric, or knit-to-shape or other component used in the production of any article described under paragraph (a) of this section without affecting the eligibility of the article for preferential treatment, provided that the operation is performed in the United States or in a CBTPA beneficiary country and not in any other country and subject to the following additional conditions:
 
 (i) In the case of an article described in paragraph (a)(1), (a)(2), (a)(3), (a)(12), or (a)(13) of this section that is entered on or after September 1, 2002, and that contains a knitted or crocheted or woven fabric, or a knitted or crocheted or woven fabric component produced from fabric, that was wholly formed in the United States from yarns wholly formed in the United States, any dyeing, printing, or finishing of that knitted or crocheted or woven fabric or component must have been carried out in the United States; and
 
@@ -44,7 +44,7 @@
 
 (2) *Other operations.* An article described under paragraph (a) of this section that is otherwise eligible for preferential treatment will not be disqualified from receiving that treatment by virtue of having undergone one or more operations such as embroidering, stone-washing, enzyme-washing, acid washing, perma-pressing, oven-baking, bleaching, garment-dyeing or screen printing, provided that the operation is performed in the United States or in a CBTPA beneficiary country and not in any other country. However, in the case of assembled luggage described in paragraph (a)(10) of this section, an operation may be performed in a CBTPA beneficiary country without affecting the eligibility of the article for preferential treatment only if it is incidental to the assembly process within the meaning of § 10.16.
 
-(c) *Special rules for certain component materials* - (1) *Foreign findings, trimmings, interlinings, fibers and yarns* - (i) *General.* An article otherwise described under paragraph (a) of this section will not be ineligible for the preferential treatment referred to in § 10.221 because the article contains:
+(c) *Special rules for certain component materials*—(1) *Foreign findings, trimmings, interlinings, fibers and yarns*—(i) *General.* An article otherwise described under paragraph (a) of this section will not be ineligible for the preferential treatment referred to in § 10.221 because the article contains:
 
 (A) Findings and trimmings of foreign origin, if the value of those findings and trimmings does not exceed 25 percent of the cost of the components of the assembled article. For purposes of this section “findings and trimmings” include, but are not limited to, hooks and eyes, snaps, buttons, “bow buds,” decorative lace trim, elastic strips (but only if they are each less than 1 inch in width and are used in the production of brassieres), zippers (including zipper tapes), labels, and sewing thread except in the case of an article described in paragraph (a)(3) or (a)(12) of this section;
 
@@ -80,7 +80,7 @@
 
 (i) Remained under the control of the customs authority of the intermediate country;
 
-(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the port director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
+(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the Center director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
 
 (iii) Were not subjected to operations other than loading or unloading, and other activities necessary to preserve the articles in good condition.
 

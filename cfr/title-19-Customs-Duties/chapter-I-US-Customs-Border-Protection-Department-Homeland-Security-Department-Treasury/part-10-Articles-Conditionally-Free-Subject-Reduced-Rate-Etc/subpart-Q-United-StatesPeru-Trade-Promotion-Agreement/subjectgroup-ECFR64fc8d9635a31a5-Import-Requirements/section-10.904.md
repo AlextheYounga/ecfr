@@ -1,6 +1,6 @@
 ##### § 10.904 Certification. #####
 
-(a) *General.* An importer who makes a claim under § 10.903(b) of this subpart based on a certification by the importer, exporter, or producer that the good is originating must submit, at the request of the port director, a copy of the certification. The certification:
+(a) *General.* An importer who makes a claim under § 10.903(b) of this subpart based on a certification by the importer, exporter, or producer that the good is originating must submit, at the request of the Center director, a copy of the certification. The certification:
 
 (1) Need not be in a prescribed format but must be in writing or must be transmitted electronically pursuant to any electronic means authorized by CBP for that purpose;
 
@@ -32,7 +32,7 @@ This document consists of \_\_\_\_ pages, including all attachments.
 
 (b) *Responsible official or agent.* The certification provided for in paragraph (a) of this section must be signed and dated by a responsible official of the importer, exporter, or producer, or by the importer's, exporter's, or producer's authorized agent having knowledge of the relevant facts.
 
-(c) *Language.* The certification provided for in paragraph (a) of this section must be completed in either the English or Spanish language. In the latter case, the port director may require the importer to submit an English translation of the certification.
+(c) *Language.* The certification provided for in paragraph (a) of this section must be completed in either the English or Spanish language. In the latter case, the Center director may require the importer to submit an English translation of the certification.
 
 (d) *Certification by the exporter or producer.* A certification may be prepared by the exporter or producer of the good on the basis of:
 

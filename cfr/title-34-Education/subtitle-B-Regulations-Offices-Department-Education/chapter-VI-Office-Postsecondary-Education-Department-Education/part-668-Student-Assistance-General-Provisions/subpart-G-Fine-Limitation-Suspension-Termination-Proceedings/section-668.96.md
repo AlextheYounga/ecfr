@@ -1,29 +1,23 @@
-##### § 668.96 Reinstatement after termination. #####
+##### § 668.96 Reimbursements, refunds, and offsets. #####
 
-(a)(1) An institution whose participation in a Title IV, HEA program has been terminated may file a request for reinstatement of that participation.
+(a) In an action to fine an institution or servicer, or to limit, suspend, or terminate the participation of an institution or the eligibility of a servicer, the designated department official, hearing official, or Secretary may require an institution or third-party servicer to take reasonable and appropriate corrective action to remedy the institution's or servicer's violation, as applicable, of any statutory provision of or applicable to Title IV of the HEA, any regulatory provision prescribed under that statutory authority, or any applicable special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA.
 
-(2) A third-party servicer whose eligibility to contract with any institution to administer any aspect of the institution's participation in a Title IV, HEA program has been terminated may file a request for reinstatement of that eligibility.
+(b) The corrective action under paragraph (a) of this section may include payment of any funds to the Secretary, or to designated recipients, that the institution or servicer, as applicable, improperly received, withheld, disbursed, or caused to be disbursed. Corrective action may, for example, relate to—
 
-(b) An institution whose participation has been terminated or a third-party servicer whose eligibility has been terminated may request reinstatement only after the later of the expiration of -
+(1) With respect to the Federal Stafford Loan, Federal PLUS, and Federal SLS programs—
 
-(1) Eighteen months from the effective date of the termination; or
+(i) Ineligible interest benefits, special allowances, or other claims paid by the Secretary; and
 
-(2) A debarment or suspension under Executive Order 12549 (3 CFR, 1986 Comp., p. 189) or the Federal Acquisition Regulations, 48 CFR part 9, subpart 9.4.
+(ii) Discounts, premiums, or excess interest paid in violation of 34 CFR part 682; and
 
-(c) To be reinstated, an institution or third-party servicer must submit its request for reinstatement in writing to the Secretary and must -
+(2) With respect to all Title IV, HEA programs—
 
-(1) Demonstrate to the Secretary's satisfaction that it has corrected the violation or violations on which its termination was based, including payment in full to the Secretary or to other recipients of funds that the institution or servicer, as applicable, has improperly received, withheld, disbursed, or caused to be disbursed;
+(i) Refunds or returns of title IV, HEA program funds required under program regulations when a student withdraws.
 
-(2) Meet all applicable requirements of this part; and
+(ii) Any grants, work-study assistance, or loans made in violation of program regulations.
 
-(3) In the case of an institution, enter into a new program participation agreement with the Secretary.
+(c) If any final decision in any action under this subpart requires an institution or third-party servicer to reimburse or make any other payment to the Secretary, the Secretary may offset these claims against any benefits or claims due to the institution or servicer.
 
-(d) The Secretary, within 60 days of receiving the reinstatement request -
+(d) If an institution's violation in paragraph (a) of this section results from an administrative, accounting, or recordkeeping error, and that error was not part of a pattern of error, and there is no evidence of fraud or misconduct related to the error, the Secretary permits the institution to correct or cure the error. If the institution corrects or cures the error, the Secretary does not limit, suspend, terminate, or fine the institution for that error.
 
-(1) Grants the request;
-
-(2) Denies the request; or
-
-(3) Grants the request subject to a limitation or limitations.
-
-(Approved by the Office of Management and Budget under control number 1840-0537)(Authority: 20 U.S.C. 1094; E.O. 12549 (3 CFR, 1986 Comp., p. 189), 12689 (3 CFR, 1989 Comp., p. 235))[59 FR 22451, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994]
+(Authority: 20 U.S.C. 1094 and 1099c-1)[59 FR 22451, Apr. 29, 1994, as amended at 64 FR 58619, Oct. 29, 1999; 64 FR 59042, Nov. 1, 1999; Redsignated and amended at 82 FR 6257, 6259, Jan. 19, 2017]

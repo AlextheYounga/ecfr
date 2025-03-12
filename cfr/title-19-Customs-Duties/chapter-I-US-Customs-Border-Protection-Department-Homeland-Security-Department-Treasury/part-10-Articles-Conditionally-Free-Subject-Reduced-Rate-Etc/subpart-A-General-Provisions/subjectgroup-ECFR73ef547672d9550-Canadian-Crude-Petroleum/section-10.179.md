@@ -10,7 +10,7 @@
 
 (b) The provisions of this section may be applied to:
 
-(1) Liquidated or reliquidated entries if the required certification is filed with the director of the port where the original entry was made on or before the 180th day after the date of entry; and
+(1) Liquidated or reliquidated entries if the required certification is filed with CBP, either at the port of entry or electronically on or before the 180th day after the date of entry; and
 
 (2) Articles entered, or withdrawn from warehouse, for consumption, pursuant to a commercial exchange agreement.
 

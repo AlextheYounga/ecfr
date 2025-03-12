@@ -1,6 +1,6 @@
 ##### § 173.2 Transactions which may be reviewed and corrected. #####
 
-The port director may review transactions for correctness, and take appropriate action under his general authority to correct errors, including those in appraisement where appropriate, at the time of:
+The Center director may review transactions for correctness, and take appropriate action under his general authority to correct errors, including those in appraisement where appropriate, at the time of:
 
 (a) Liquidation of an entry;
 

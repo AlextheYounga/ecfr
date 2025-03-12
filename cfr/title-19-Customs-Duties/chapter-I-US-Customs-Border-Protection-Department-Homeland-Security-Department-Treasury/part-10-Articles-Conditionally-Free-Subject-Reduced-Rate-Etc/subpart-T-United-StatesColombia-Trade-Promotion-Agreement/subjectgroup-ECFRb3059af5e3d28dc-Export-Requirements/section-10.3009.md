@@ -4,7 +4,7 @@
 
 (b) *Notification of errors in certification.* Any person who completes and issues a certification for a good exported from the United States to Colombia and who has reason to believe that the certification contains or is based on incorrect information must promptly notify every person to whom the certification was provided of any change that could affect the accuracy or validity of the certification. Notification of an incorrect certification must also be given either in writing or via an authorized electronic data interchange system to CBP specifying the correction (*see* §§ 10.3032 and 10.3033).
 
-(c) *Maintenance of records* - (1) *General.* Any person who completes and issues a certification for a good exported from the United States to Colombia must maintain, for a period of at least five years after the date the certification was issued, all records and supporting documents relating to the origin of a good for which the certification was issued, including the certification or copies thereof and records and documents associated with:
+(c) *Maintenance of records*—(1) *General.* Any person who completes and issues a certification for a good exported from the United States to Colombia must maintain, for a period of at least five years after the date the certification was issued, all records and supporting documents relating to the origin of a good for which the certification was issued, including the certification or copies thereof and records and documents associated with:
 
 (i) The purchase, cost, and value of, and payment for, the good;
 
@@ -14,4 +14,4 @@
 
 (2) *Method of maintenance.* The records referred to in paragraph (c) of this section must be maintained as provided in § 163.5 of this chapter.
 
-(3) *Availability of records.* For purposes of determining compliance with the provisions of this part, the records required to be maintained under this section must be stored and made available for examination and inspection by the port director or other appropriate CBP officer in the same manner as provided in Part 163 of this chapter.
+(3) *Availability of records.* For purposes of determining compliance with the provisions of this part, the records required to be maintained under this section must be stored and made available for examination and inspection by the Center director or other appropriate CBP officer in the same manner as provided in part 163 of this chapter.

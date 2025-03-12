@@ -1,10 +1,8 @@
 ##### § 163.1 Definitions. #####
 
-Link to an amendment published at 81 FR 93024, December 20, 2016.
-
 When used in this part, the following terms shall have the meaning indicated:
 
-(a) *Records* - (1) *In general.* The term “records” means any information made or normally kept in the ordinary course of business that pertains to any activity listed in paragraph (a)(2) of this section. The term includes any information required for the entry of merchandise (the (a)(1)(A) list) and other information pertaining to, or from which is derived, any information element set forth in a collection of information required by the Tariff Act of 1930, as amended, in connection with any activity listed in paragraph (a)(2) of this section. The term includes, but is not limited to, the following: Statements; declarations; documents; electronically generated or machine readable data; electronically stored or transmitted information or data; books; papers; correspondence; accounts; financial accounting data; technical data; computer programs necessary to retrieve information in a usable form; and entry records (contained in the (a)(1)(A) list).
+(a) *Records*—(1) *In general.* The term “records” means any information made or normally kept in the ordinary course of business that pertains to any activity listed in paragraph (a)(2) of this section. The term includes any information required for the entry of merchandise (the (a)(1)(A) list) and other information pertaining to, or from which is derived, any information element set forth in a collection of information required by the Tariff Act of 1930, as amended, in connection with any activity listed in paragraph (a)(2) of this section. The term includes, but is not limited to, the following: Statements; declarations; documents; electronically generated or machine readable data; electronically stored or transmitted information or data; books; papers; correspondence; accounts; financial accounting data; technical data; computer programs necessary to retrieve information in a usable form; and entry records (contained in the (a)(1)(A) list).
 
 (2) *Activities.* The following are activities for purposes of paragraph (a)(1) of this section:
 
@@ -20,7 +18,7 @@ When used in this part, the following terms shall have the meaning indicated:
 
 (vi) The completion and signature of a Chile FTA certification of origin and any other supporting documentation pursuant to the United States-Chile Free Trade Agreement.
 
-(vii) The maintenance of any documentation that the importer may have in support of a claim for preferential tariff treatment under the United States-Singapore Free Trade Agreement (SFTA), including a SFTA importer's supporting statement if previously required by the port director.
+(vii) The maintenance of any documentation that the importer may have in support of a claim for preferential tariff treatment under the United States-Singapore Free Trade Agreement (SFTA), including a SFTA importer's supporting statement if previously required by the port director or Center director before January 19, 2017, or the Center director on or after January 19, 2017.
 
 (viii) The maintenance of any documentation that the importer may have in support of a claim for preferential tariff treatment under the United States-Jordan Free Trade Agreement (US-JFTA), including a US-JFTA declaration.
 
@@ -72,4 +70,4 @@ When used in this part, the following terms shall have the meaning indicated:
 
 (k) *Third-party recordkeeper.* “Third-party recordkeeper” means any attorney, any accountant or any customs broker other than a customs broker who is the importer of record on an entry.
 
-[T.D. 98-56, 63 FR 32946, June 16, 1998]Editorial Note:For Federal Register citations affecting § 163.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 98-56, 63 FR 32946, June 16, 1998]Editorial Note:For Federal Register citations affecting § 163.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

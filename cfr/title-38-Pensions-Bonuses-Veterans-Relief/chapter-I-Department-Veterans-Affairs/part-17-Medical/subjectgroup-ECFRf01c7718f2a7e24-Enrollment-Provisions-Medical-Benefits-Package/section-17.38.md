@@ -68,7 +68,7 @@
 
 (1) Abortions and abortion counseling.
 
-(2) In vitro fertilization.
+(2) In vitro fertilization. Note: See § 17.380.
 
 (3) Drugs, biologicals, and medical devices not approved by the Food and Drug Administration unless the treating medical facility is conducting formal clinical trials under an Investigational Device Exemption (IDE) or an Investigational New Drug (IND) application, or the drugs, biologicals, or medical devices are prescribed under a compassionate use exemption.
 
@@ -78,4 +78,4 @@
 
 (6) Membership in spas and health clubs.
 
-(Authority 38 U.S.C. 101, 501, 1701, 1705, 1710, 1710A, 1721, 1722, 1782, 1786)[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011]
+[64 FR 54217, Oct. 6, 1999, as amended at 67 FR 35039, May 17, 2002; 73 FR 36798, June 30, 2008; 75 FR 54030, Sept. 3, 2010; 76 FR 11339, Mar. 2, 1011; 76 FR 26172, May 5, 2011; 76 FR 78571, Dec. 19, 2011; 82 FR 6275, Jan. 19, 2017]

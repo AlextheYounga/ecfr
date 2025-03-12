@@ -1,7 +1,5 @@
 ##### 52.204-7 System for Award Management. #####
 
-Link to an amendment published at 81 FR 71384, October 17, 2016.
-
 As prescribed in 4.1105(a)(1), use the following provision.
 
 System for Award Manangement (OCT 2016)

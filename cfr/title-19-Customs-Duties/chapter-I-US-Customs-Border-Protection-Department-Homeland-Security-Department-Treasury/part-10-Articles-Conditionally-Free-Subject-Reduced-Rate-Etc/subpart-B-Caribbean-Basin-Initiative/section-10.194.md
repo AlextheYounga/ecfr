@@ -1,5 +1,5 @@
 ##### § 10.194 Evidence of direct shipment. #####
 
-(a) *Documents constituting evidence of direct shipment.* The port director may require that appropriate shipping papers, invoices, or other documents be submitted within 60 days of the date of entry as evidence that the articles were “imported directly”, as that term is defined in § 10.193. Any evidence of direct shipment required shall be subject to such verification as deemed necessary by the port director.
+(a) *Documents constituting evidence of direct shipment.* The Center director may require that appropriate shipping papers, invoices, or other documents be submitted within 60 days of the date of entry as evidence that the articles were “imported directly”, as that term is defined in § 10.193. Any evidence of direct shipment required shall be subject to such verification as deemed necessary by the Center director.
 
-(b) *Waiver of evidence of direct shipment.* The port director may waive the submission of evidence of direct shipment when otherwise satisfied, taking into consideration the kind and value of the merchandise, that the merchandise was, in fact, imported directly and that it otherwise clearly qualifies for treatment under the CBI.
+(b) *Waiver of evidence of direct shipment.* The Center director may waive the submission of evidence of direct shipment when otherwise satisfied, taking into consideration the kind and value of the merchandise, that the merchandise was, in fact, imported directly and that it otherwise clearly qualifies for treatment under the CBI.

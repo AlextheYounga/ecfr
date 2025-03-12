@@ -1,10 +1,8 @@
 ##### § 144.41 Entry for rewarehouse. #####
 
-Link to an amendment published at 81 FR 93020, December 20, 2016.
-
 (a) *Applicability.* When merchandise which has been withdrawn from warehouse for transportation to another port has arrived at the port of destination, it may be entered for rewarehouse by the consignee named in the withdrawal.
 
-(b) *Form of entry.* An entry for rewarehouse shall be made in duplicate on Customs Form 7501, or its electronic equivalent, and shall contain all of the statistical information as provided in § 141.61(e) of this chapter. The port director may require an extra copy or copies of Customs Form 7501, or its electronic equivalent, annotated “PERMIT,” for use in connection with the delivery of the merchandise to the warehouse. No declaration is required on the entry.
+(h) *Protest.* A protest may be filed with CBP, either at the port of entry or electronically, against a liquidation made under § 159.7(a) or (b) of this chapter, or against a refusal to liquidate pursuant to said sections. In all other cases, any protest shall be filed against the original warehouse entry.
 
 (c) *Combining separate shipments.* (1) Separate shipments consigned to the same consignee and received under separate withdrawals for transportation may be combined into one rewarehouse entry if the warehouse withdrawals are from the same original warehouse entry.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 81 FR 93020, December 20, 2016.
 
 (h) *Protest.* A protest may be filed at the port where the rewarehouse entry is made against a liquidation made at that port under § 159.7 (a) or (b) of this chapter, or against a refusal of the director of that port to liquidate pursuant to said sections. In all other cases, any protest shall be filed against the original warehouse entry.
 
-[T.D. 73-175, 38 FR 17464, July 2, 1973, as amended by T.D. 82-204, 47 FR 49376, Nov. 1, 1982; T.D. 84-129, 49 FR 23168, June 5, 1984; T.D. 84-213, 49 FR 41185, Oct. 19, 1984; T.D. 97-19, 62 FR 15842, Apr. 3, 1997; T.D. 98-74, 64 FR 15303, Mar. 31, 1999; CBP Dec. 15-14, 80 FR 61290, Oct. 13, 2015]
+[T.D. 73-175, 38 FR 17464, July 2, 1973, as amended by T.D. 82-204, 47 FR 49376, Nov. 1, 1982; T.D. 84-129, 49 FR 23168, June 5, 1984; T.D. 84-213, 49 FR 41185, Oct. 19, 1984; T.D. 97-19, 62 FR 15842, Apr. 3, 1997; T.D. 98-74, 64 FR 15303, Mar. 31, 1999; CBP Dec. 15-14, 80 FR 61290, Oct. 13, 2015; CBP Dec. No. 16-26, 81 FR 93020, Dec. 20, 2016]

@@ -1,7 +1,5 @@
 ##### § 450.306 Scope of the metropolitan transportation planning process. #####
 
-Link to an amendment published at 81 FR 93470, December 20, 2016.
-
 (a) To accomplish the objectives in § 450.300 and § 450.306(b), metropolitan planning organizations designated under § 450.310, in cooperation with the State and public transportation operators, shall develop long-range transportation plans and TIPs through a performance-driven, outcome-based approach to planning for metropolitan areas of the State.
 
 (b) The metropolitan transportation planning process shall be continuous, cooperative, and comprehensive, and provide for consideration and implementation of projects, strategies, and services that will address the following factors:
@@ -56,6 +54,8 @@ Link to an amendment published at 81 FR 93470, December 20, 2016.
 
 (viii) Other State transportation plans and transportation processes required as part of a performance-based program.
 
+(5) In MPAs in which multiple MPOs have been designated, the MPOs shall jointly establish, for the MPA, the performance targets that address performance measures or standards established under 23 CFR part 490 (where applicable), 49 U.S.C. 5326(c) and 49 U.S.C. 5329(d).
+
 (e) The failure to consider any factor specified in paragraph (b) or (d) of this section shall not be reviewable by any court under title 23 U.S.C., 49 U.S.C. Chapter 53, subchapter II of title 5, U.S.C. Chapter 5, or title 5 U.S.C. Chapter 7 in any matter affecting a metropolitan transportation plan, TIP, a project or strategy, or the certification of a metropolitan transportation planning process.
 
 (f) An MPO shall carry out the metropolitan transportation planning process in coordination with the statewide transportation planning process required by 23 U.S.C. 135 and 49 U.S.C. 5304.
@@ -64,4 +64,6 @@ Link to an amendment published at 81 FR 93470, December 20, 2016.
 
 (h) Preparation of the coordinated public transit-human services transportation plan, as required by 49 U.S.C. 5310, should be coordinated and consistent with the metropolitan transportation planning process.
 
-(i) In an urbanized area not designated as a TMA that is an air quality attainment area, the MPO(s) may propose and submit to the FHWA and the FTA for approval a procedure for developing an abbreviated metropolitan transportation plan and TIP. In developing proposed simplified planning procedures, consideration shall be given to whether the abbreviated metropolitan transportation plan and TIP will achieve the purposes of 23 U.S.C. 134, 49 U.S.C. 5303, and this part, taking into account the complexity of the transportation problems in the area. The MPO shall develop simplified procedures in cooperation with the State(s) and public transportation operator(s).
+(i) In an UZA not designated as a TMA that is an air quality attainment area, the MPO(s) may propose and submit to the FHWA and the FTA for approval a procedure for developing an abbreviated metropolitan transportation plan and TIP. In developing proposed simplified planning procedures, consideration shall be given to whether the abbreviated metropolitan transportation plan and TIP will achieve the purposes of 23 U.S.C. 134, 49 U.S.C. 5303, and this part, taking into account the complexity of the transportation problems in the area. The MPO(s) shall develop simplified procedures in cooperation with the State(s) and public transportation operator(s).
+
+[81 FR 34135, May 27, 2016, as amended at 81 FR 93470, Dec. 20, 2016]

@@ -6,19 +6,17 @@
 
 (c) *Limitation on initial adjustment.* The initial adjustment of civil monetary penalty pursuant to § 269.3 may not exceed 150 percent of such penalty.
 
-(d) *Inflation adjustment.* Maximum civil monetary penalties within the jurisdiction of the Department are adjusted for inflation as follows:
+(d) Inflation adjustment. Maximum civil monetary penalties within the jurisdiction of the Department are adjusted for inflation as follows:
 
-|                        United States Code                        |                                Civil monetary penalty description                                 |Maximum penalty amount as of 10/23/96|New adjusted maximum  <br/>penalty amount|
-|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------|
-|National Defense Authorization Act for FY 2005, 10 U.S.C 113, note|            Unauthorized Activities Directed at or Possession of Sunken Military Craft             |     Not Applicable<sup>1</sup>      |                $124,588                 |
-|                       10 U.S.C. 1094(c)(1)                       |                                 Unlawful Provision of Health Care                                 |               $5,500                |                 10,940                  |
-|                        10 U.S.C. 1102(k)                         |                              Wrongful Disclosure - Medical Records:                               |                                     |                                         |
-|                                                                  |                                           First Offense                                           |                3,300                |                  6,469                  |
-|                                                                  |                                        Subsequent Offense                                         |               22,000                |                 43,126                  |
-|                       10 U.S.C. 2674(c)(2)                       |Violation of the Pentagon Reservation Operation and Parking of Motor Vehicles Rules and Regulations|     Not Applicable<sup>1</sup>      |                  1,782                  |
-|                       31 U.S.C. 3802(a)(1)                       |                                  Violation Involving False Claim                                  |                5,500                |                 10,781                  |
-|                       31 U.S.C. 3802(a)(2)                       |                                Violation Involving False Statement                                |                5,500                |                 10,781                  |
+|                        United States Code                        |                             Civil Monetary Penalty  <br/>Description                              |Maximum Penalty Amount as of 05/26/16|New Adjusted Maximum Penalty Amount|
+|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------|
+|National Defense Authorization Act for FY 2005, 10 U.S.C 113, note|            Unauthorized Activities Directed at or Possession of Sunken Military Craft             |              $124,588               |              126,626              |
+|                       10 U.S.C. 1094(c)(1)                       |                                 Unlawful Provision of Health Care                                 |               10,940                |              11,119               |
+|                        10 U.S.C. 1102(k)                         |                               Wrongful Disclosure - Medical Records                               |                                     |                                   |
+|                                                                  |                                           First Offense                                           |                6,469                |               6,575               |
+|                                                                  |                                        Subsequent Offense                                         |               43,126                |              43,832               |
+|                       10 U.S.C. 2674(c)(2)                       |Violation of the Pentagon Reservation Operation and Parking of Motor Vehicles Rules and Regulations|                1,782                |               1,811               |
+|                       31 U.S.C. 3802(a)(1)                       |                                  Violation Involving False Claim                                  |               10,781                |              10,957               |
+|                       31 U.S.C. 3802(a)(2)                       |                                Violation Involving False Statement                                |               10,781                |              10,957               |
 
-<sup>1</sup> Penalties were not identified in the 1996 publication of this chart and/or were not established by statute or regulation in 1996.
-
-[81 FR 33391, May 26, 2016]
+[81 FR 33391, May 26, 2016, as amended at 82 FR 6249, Jan. 19, 2017]

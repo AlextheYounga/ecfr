@@ -1,6 +1,6 @@
 ##### § 10.764 Declaration. #####
 
-(a) *Contents.* An importer who claims preferential tariff treatment for a good under the MFTA must submit to CBP, at the request of the port director, a declaration setting forth all pertinent information concerning the growth, production, or manufacture of the good. A declaration submitted to CBP under this paragraph:
+(a) *Contents.* An importer who claims preferential tariff treatment for a good under the MFTA must submit to CBP, at the request of the Center director, a declaration setting forth all pertinent information concerning the growth, production, or manufacture of the good. A declaration submitted to CBP under this paragraph:
 
 (1) Need not be in a prescribed format but must be in writing or must be transmitted electronically pursuant to any electronic means authorized by CBP for that purpose;
 

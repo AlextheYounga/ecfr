@@ -1,6 +1,6 @@
 ##### § 10.441 Filing procedures. #####
 
-(a) *Place of filing.* A post-importation claim for a refund under § 10.440 of this subpart must be filed with the director of the port at which the entry covering the good was filed.
+(a) *Place of filing.* A post-importation claim for a refund under § 10.440 of this subpart must be filed with CBP, either at the port of entry or electronically.
 
 (b) *Contents of claim.* A post-importation claim for a refund must be filed by presentation of the following:
 

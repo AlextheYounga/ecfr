@@ -1,7 +1,5 @@
 ##### § 5.100 Definitions. #####
 
-Link to an amendment published at 81 FR 92635, Dec. 20, 2016.
-
 The following definitions apply to this part and also in other regulations, as noted:
 
 *1937 Act* means the United States Housing Act of 1937 (42 U.S.C. 1437 *et seq.*)
@@ -9,6 +7,8 @@ The following definitions apply to this part and also in other regulations, as n
 *ADA* means the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 *et seq.*).
 
 *ALJ* means an administrative law judge appointed to HUD pursuant to 5 U.S.C. 3105 or detailed to HUD pursuant to 5 U.S.C. 3344.
+
+*Broadband infrastructure* means cables, fiber optics, wiring, or other permanent (integral to the structure) infrastructure, including wireless infrastructure, that is capable of providing access to Internet connections in individual housing units, and that meets the definition of “advanced telecommunications capability” determined by the Federal Communications Commission under section 706 of the Telecommunications Act of 1996 (47 U.S.C. 1302).
 
 *Covered person,* for purposes of 24 CFR 5, subpart I, and parts 966 and 982, means a tenant, any member of the tenant's household, a guest or another person under the tenant's control.
 
@@ -94,8 +94,14 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Sexual orientation* means one's emotional or physical attraction to the same and/or opposite sex (*e.g.,* homosexuality, heterosexuality, or bisexuality).
 
+*Substantial rehabilitation,* for the purposes of determining when installation of broadband infrastructure is required as part of substantial rehabilitation of multifamily rental housing, unless otherwise defined by a program, means work that involves:
+
+(1) Significant work on the electrical system of the multifamily rental housing. “Significant work” means complete replacement of the electrical system or other work for which the pre-construction cost estimate is equal to or greater than 75 percent of the cost of replacing the entire electrical system. In the case of multifamily rental housing with multiple buildings with more than 4 units, “entire system” refers to the electrical system of the building undergoing rehabilitation; or
+
+(2) Rehabilitation of the multifamily rental housing in which the pre-construction estimated cost of the rehabilitation is equal to or greater than 75 percent of the total estimated cost of replacing the multifamily rental housing after the rehabilitation is complete. In the case of multifamily rental housing with multiple buildings with more than 4 units, the replacement cost must be the replacement cost of the building undergoing rehabilitation.
+
 *URA* means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4201-4655).
 
 *Violent criminal activity* means any criminal activity that has as one of its elements the use, attempted use, or threatened use of physical force substantial enough to cause, or be reasonably likely to cause, serious bodily injury or property damage.
 
-[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016; 81 FR 90657, Dec. 14, 2016]
+[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016; 81 FR 90657, Dec. 14, 2016; 81 FR 92635, Dec. 20, 2016]

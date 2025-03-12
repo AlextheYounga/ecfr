@@ -1,6 +1,6 @@
 ##### § 10.227 Verification and justification of claim for preferential treatment. #####
 
-(a) *Verification by Customs.* A claim for preferential treatment made under § 10.225, including any statements or other information contained on a Certificate of Origin submitted to Customs under § 10.226, will be subject to whatever verification the port director deems necessary. In the event that the port director for any reason is prevented from verifying the claim, the port director may deny the claim for preferential treatment. A verification of a claim for preferential treatment may involve, but need not be limited to, a review of:
+(a) *Verification by Customs.* A claim for preferential treatment made under § 10.225, including any statements or other information contained on a Certificate of Origin submitted to Customs under § 10.226, will be subject to whatever verification the Center director deems necessary. In the event that the Center director for any reason is prevented from verifying the claim, the Center director may deny the claim for preferential treatment. A verification of a claim for preferential treatment may involve, but need not be limited to, a review of:
 
 (1) All records required to be made, kept, and made available to Customs by the importer or any other person under part 163 of this chapter;
 

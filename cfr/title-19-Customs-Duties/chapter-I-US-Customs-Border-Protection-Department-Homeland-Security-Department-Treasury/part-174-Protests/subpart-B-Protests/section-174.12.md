@@ -18,7 +18,7 @@
 
 (c) *Identity of filer.* The identity of the person filing the protest or his agent, or attorney shall be noted on the protest. This may be accomplished through a signature which is handwritten in ink, stamped, typed, facsimile, telefax, or by electronic certification in CBP Automated Commercial Environment (ACE) or any other CBP-authorized electronic data interchange system. If the person filing the protest is not the importer of record or consignee, the filer shall include his address and importer number, if any.
 
-(d) *Place of filing.* Protests shall be filed with the port director whose decision is protested.
+(d) *Place of filing.* Protests shall be filed with CBP, either at the port of entry or electronically.
 
 (e) *Time of filing.* Protests must be filed, in accordance with section 514, Tariff Act of 1930, as amended (19 U.S.C. 1514), within 90 days of a decision relating to an entry made before December 18, 2004, or within 180 days of a decision relating to an entry made on or after December 18, 2004, after any of the following:
 
@@ -32,4 +32,4 @@
 
 (g) *Return of fifth copy.* If a fifth copy of the protest is presented for the purpose of having recorded thereon the date of its receipt and the protest number assigned thereto, such information shall be recorded thereon and the fifth copy shall be returned to the person filing the protest.
 
-[T.D. 70-181, 35 FR 13429, Aug. 22, 1970]Editorial Note:For Federal Register citations affecting § 174.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 70-181, 35 FR 13429, Aug. 22, 1970]Editorial Note:For Federal Register citations affecting § 174.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

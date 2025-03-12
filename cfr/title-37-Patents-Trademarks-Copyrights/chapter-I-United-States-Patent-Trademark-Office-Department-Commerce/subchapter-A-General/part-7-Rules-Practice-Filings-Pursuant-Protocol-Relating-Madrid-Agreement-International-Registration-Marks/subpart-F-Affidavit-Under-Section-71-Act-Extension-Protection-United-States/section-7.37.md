@@ -1,5 +1,7 @@
 ##### § 7.37 Requirements for a complete affidavit or declaration of use in commerce or excusable nonuse. #####
 
+Link to an amendment published at 82 FR 6265, January 19, 2017.
+
 A complete affidavit or declaration under section 71 of the Act must:
 
 (a) Be filed by the holder of the international registration within the period set forth in § 7.36(b);

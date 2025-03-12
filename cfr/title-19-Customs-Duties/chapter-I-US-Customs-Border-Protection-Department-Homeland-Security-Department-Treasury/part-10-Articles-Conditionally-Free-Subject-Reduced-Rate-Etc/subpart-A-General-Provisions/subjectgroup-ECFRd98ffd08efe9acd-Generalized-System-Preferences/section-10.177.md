@@ -6,7 +6,7 @@
 
 (2) Substantially transformed in the beneficiary developing country into a new and different article of commerce.
 
-(b) *Questionable origin.* When the origin of an article either is not ascertainable or not satisfactorily demonstrated to the port director, the article shall not be considered to have been produced in the beneficiary developing country.
+(b) *Questionable origin.* When the origin of an article either is not ascertainable or not satisfactorily demonstrated to the Center director, the article shall not be considered to have been produced in the beneficiary developing country.
 
 (c) *Determination of cost or value of materials produced in the beneficiary developing country.* (1) The cost or value of materials produced in the beneficiary developing country includes:
 

@@ -1,7 +1,5 @@
 ##### § 2.15 What is multitrack processing and how does it affect your request? #####
 
-Link to an amendment published at 81 FR 92694, Dec. 20, 2016.
-
 (a) Bureaus use processing tracks to distinguish simple requests from more complex ones on the basis of the estimated number of workdays needed to process the request.
 
 (b) In determining the number of workdays needed to process the request, the bureau considers factors such as the number of pages involved in processing the request or the need for consultations.
@@ -22,4 +20,6 @@ Link to an amendment published at 81 FR 92694, Dec. 20, 2016.
 
 (f) The use of multitrack processing does not alter the statutory deadline for a bureau to determine whether to comply with your FOIA request (see § 2.16 of this part).
 
-[77 FR 76902, Dec. 31, 2012, as amended at 81 FR 11128, Mar. 3, 2016]
+(g) You may track the status of your request, including its estimated processing completion date, at *https://foia.doi.gov/requeststatus/.*
+
+[77 FR 76902, Dec. 31, 2012, as amended at 81 FR 11128, Mar. 3, 2016; 81 FR 92694, Dec. 20, 2016]

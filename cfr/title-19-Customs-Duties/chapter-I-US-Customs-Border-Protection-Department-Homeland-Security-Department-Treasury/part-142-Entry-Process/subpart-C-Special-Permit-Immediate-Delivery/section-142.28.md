@@ -1,6 +1,6 @@
 ##### § 142.28 Withdrawal or entry summary not required for prohibited merchandise. #####
 
-(a) *Exportation or destruction of prohibited merchandise.* If merchandise released under a special permit for immediate delivery later is found to be prohibited, the port director shall demand its recall in accordance with § 141.113 of this chapter (applicable to the recall of merchandise released from Customs custody), and withdrawal or entry summary documentation and the deposit of estimated duties, if any, shall not be required provided:
+(a) *Exportation or destruction of prohibited merchandise.* If merchandise released under a special permit for immediate delivery later is found to be prohibited, an authorized CBP official shall demand its recall in accordance with § 141.113 of this chapter (applicable to the recall of merchandise released from Customs custody), and withdrawal or entry summary documentation and the deposit of estimated duties, if any, shall not be required provided:
 
 (1) The merchandise is exported or destroyed under Customs supervision within the time limit for entry specified in § 142.23, or
 

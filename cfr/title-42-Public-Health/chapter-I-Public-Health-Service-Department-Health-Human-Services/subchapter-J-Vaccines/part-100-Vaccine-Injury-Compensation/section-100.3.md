@@ -1,5 +1,7 @@
 ##### § 100.3 Vaccine injury table. #####
 
+Link to an amendment published at 82 FR 6299, January 19, 2017.
+
 (a) In accordance with section 312(b) of the National Childhood Vaccine Injury Act of 1986, title III of Pub. L. 99-660, 100 Stat. 3779 (42 U.S.C. 300aa-1 note) and section 2114(c) of the Public Health Service Act (42 U.S.C. 300aa-14(c)), the following is a table of vaccines, the injuries, disabilities, illnesses, conditions, and deaths resulting from the administration of such vaccines, and the time period in which the first symptom or manifestation of onset or of the significant aggravation of such injuries, disabilities, illnesses, conditions, and deaths is to occur after vaccine administration for purposes of receiving compensation under the Program:
 
 Vaccine Injury Table

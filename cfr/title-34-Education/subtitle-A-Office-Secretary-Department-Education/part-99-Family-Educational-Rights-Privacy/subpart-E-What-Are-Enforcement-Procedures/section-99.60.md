@@ -1,5 +1,7 @@
 ##### § 99.60 What functions has the Secretary delegated to the Office and to the Office of Administrative Law Judges? #####
 
+Link to an amendment published at 82 FR 6253, January 19, 2017.
+
 (a) For the purposes of this subpart, *Office* means the Family Policy Compliance Office, U.S. Department of Education.
 
 (b) The Secretary designates the Office to:

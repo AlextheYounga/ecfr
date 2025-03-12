@@ -1,5 +1,7 @@
 ##### § 14.627 Definitions. #####
 
+Link to an amendment published at 82 FR 6272, January 19, 2017.
+
 As used in regulations on representation of VA claimants:
 
 (a) *Accreditation* means the authority granted by VA to representatives, agents, and attorneys to assist claimants in the preparation, presentation, and prosecution of claims for VA benefits.

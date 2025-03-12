@@ -1,6 +1,6 @@
 ##### § 668.83 Emergency action. #####
 
-(a) Under an emergency action, the Secretary may -
+(a) Under an emergency action, the Secretary may—
 
 (1) Withhold Title IV, HEA program funds from a participating institution or its students, or from a third-party servicer, as applicable;
 
@@ -18,27 +18,27 @@
 
 (3) The notice states the grounds on which the emergency action is based, the consequences of the emergency action, and that the institution or servicer, as applicable, may request an opportunity to show cause why the emergency action is unwarranted.
 
-(c)(1) An initiating official takes emergency action against an institution or third-party servicer only if that official -
+(c)(1) An initiating official takes emergency action against an institution or third-party servicer only if that official—
 
 (i) Receives information, determined by the official to be reliable, that the institution or servicer, as applicable, is violating any statutory provision of or applicable to Title IV of the HEA, any regulatory provision prescribed under that statutory authority, or any applicable special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA;
 
 (ii) Determines that immediate action is necessary to prevent misuse of Title IV, HEA program funds; and
 
-(iii) Determines that the likelihood of loss from that misuse outweighs the importance of awaiting completion of any proceeding that may be initiated to limit, suspend, or terminate, as applicable -
+(iii) Determines that the likelihood of loss from that misuse outweighs the importance of awaiting completion of any proceeding that may be initiated to limit, suspend, or terminate, as applicable—
 
 (A) The participation of the institution in one or more Title IV, HEA programs; or
 
 (B) The eligibility of the servicer to contract with any institution to administer any aspect of the institution's participation in a Title IV, HEA program.
 
-(2) Examples of violations of a Title IV, HEA program requirement that cause misuse and the likely loss of Title IV, HEA program funds include -
+(2) Examples of violations of a Title IV, HEA program requirement that cause misuse and the likely loss of Title IV, HEA program funds include—
 
-(i) Causing the commitment, disbursement, or delivery by any party of Title IV, HEA program funds in an amount that exceeds -
+(i) Causing the commitment, disbursement, or delivery by any party of Title IV, HEA program funds in an amount that exceeds—
 
 (A) The amount for which students are eligible; or
 
 (B) The amount of principal, interest, or special allowance payments that would have been payable to the holder of a Federal Stafford or Federal PLUS loan if a refund allocable to that loan had been made in the amount and at the time required;
 
-(ii) Using, offering to make available, or causing the use or availability of Title IV, HEA program funds for educational services if -
+(ii) Using, offering to make available, or causing the use or availability of Title IV, HEA program funds for educational services if—
 
 (A) The institution, servicer, or agents of the institution or servicer have made a substantial misrepresentation as described in §§ 668.72, 668.73, or 668.74 related to those services;
 
@@ -46,13 +46,13 @@
 
 (C) The institution, or servicer, as applicable, lacks the administrative or financial ability to make all required payments under § 668.22; and
 
-(iii) Engaging in fraud involving the administration of a Title IV, HEA program. Examples of fraud include -
+(iii) Engaging in fraud involving the administration of a Title IV, HEA program. Examples of fraud include—
 
 (A) Falsification of any document received from a student or pertaining to a student's eligibility for assistance under a Title IV, HEA program;
 
 (B) Falsification, including false certifications, of any document submitted by the institution or servicer to the Secretary;
 
-(C) Falsification, including false certifications, of any document used for or pertaining to -
+(C) Falsification, including false certifications, of any document used for or pertaining to—
 
 (*1*) The legal authority of an institution to provide postsecondary education in the State in which the institution is located; or
 
@@ -66,13 +66,13 @@
 
 (3) If the Secretary begins an emergency action against a third-party servicer, the Secretary may also begin an emergency action against any institution under whose contract a third-party servicer commits the violation.
 
-(d)(1) Except as provided in paragraph (d)(2) of this section, after an emergency action becomes effective, an institution or third-party servicer, as applicable, may not -
+(d)(1) Except as provided in paragraph (d)(2) of this section, after an emergency action becomes effective, an institution or third-party servicer, as applicable, may not—
 
 (i) Make or increase awards or make other commitments of aid to a student under the applicable Title IV, HEA program;
 
 (ii) Disburse either program funds, institutional funds, or other funds as assistance to a student under that Title IV, HEA program;
 
-(iii) In the case of an emergency action pertaining to participation in the Federal Stafford Loan or Federal PLUS programs -
+(iii) In the case of an emergency action pertaining to participation in the Federal Stafford Loan or Federal PLUS programs—
 
 (A) Certify an application for a loan under that program;
 
@@ -90,7 +90,7 @@
 
 (3) The show-cause official may limit the time and manner in which argument and evidence may be presented in order to avoid unnecessary delay or the presentation of immaterial, irrelevant, or repetitious matter.
 
-(4) The institution or servicer, as applicable, has the burden of persuading the show-cause official that the emergency action imposed by the notice is unwarranted or should be modified because -
+(4) The institution or servicer, as applicable, has the burden of persuading the show-cause official that the emergency action imposed by the notice is unwarranted or should be modified because—
 
 (i) The grounds stated in the notice did not, or no longer, exist;
 
@@ -102,7 +102,7 @@
 
 (6) The show-cause official notifies the institution or servicer, as applicable, of that official's determination promptly after the completion of the show-cause meeting or, if no meeting is requested, after the official receives all the material submitted by the institution in opposition to the emergency action. In the case of a notice to a third-party servicer, the official also notifies each institution that contracts with the servicer of that determination. The show-cause official may explain that determination by adopting or modifying the statement of reasons provided in the notice of emergency action.
 
-(f)(1) An emergency action does not extend more than 30 days after initiated unless the Secretary initiates a limitation, suspension, or termination proceeding under this part or under 34 CFR part 600 against the institution or servicer, as applicable, within that 30-day period, in which case the emergency action continues until a final decision is issued in that proceeding, as provided in § 668.90(c), as applicable.
+(f)(1) An emergency action does not extend more than 30 days after initiated unless the Secretary initiates a limitation, suspension, or termination proceeding under this part or under 34 CFR part 600 against the institution or servicer, as applicable, within that 30-day period, in which case the emergency action continues until a final decision is issued in that proceeding, as provided in § 668.91(c), as applicable.
 
 (2) Until a final decision is issued by the Secretary in a proceeding described in paragraph (f)(1) of this section, any action affecting the emergency action is at the sole discretion of the initiating official, or, if a show- cause proceeding is conducted, the show-cause official.
 
@@ -110,4 +110,4 @@
 
 (g) The expiration of an emergency action, or its modification or revocation by the show-cause official, does not bar subsequent emergency action on a ground other than one specifically identified in the notice imposing the prior emergency action. Separate grounds may include violation of an agreement or limitation imposed or resulting from the prior emergency action.
 
-(Authority: 20 U.S.C. 1094)[59 FR 22445, Apr. 29, 1994, as amended at 60 FR 34432, June 30, 1995; 63 FR 40626, July 29, 1998; 64 FR 59042, Nov. 1, 1999]
+(Authority: 20 U.S.C. 1094)[59 FR 22445, Apr. 29, 1994, as amended at 60 FR 34432, June 30, 1995; 63 FR 40626, July 29, 1998; 64 FR 59042, Nov. 1, 1999; 82 FR 6257, Jan. 19, 2017]

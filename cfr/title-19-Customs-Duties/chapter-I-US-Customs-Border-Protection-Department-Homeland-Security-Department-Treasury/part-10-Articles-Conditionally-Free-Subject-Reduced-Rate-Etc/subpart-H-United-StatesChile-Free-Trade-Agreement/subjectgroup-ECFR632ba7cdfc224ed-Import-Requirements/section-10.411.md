@@ -1,6 +1,6 @@
 ##### § 10.411 Certification of origin or other information. #####
 
-(a) *Contents.* An importer who claims preferential tariff treatment on a good must submit, at the request of the port director, a certification of origin or other information demonstrating that the good qualifies as originating. A certification or other information submitted to CBP under this paragraph:
+(a) *Contents.* An importer who claims preferential tariff treatment on a good must submit, at the request of the Center director, a certification of origin or other information demonstrating that the good qualifies as originating. A certification or other information submitted to CBP under this paragraph:
 
 (1) Need not be in a prescribed format but must be in writing or must be transmitted electronically pursuant to any electronic means authorized by CBP for that purpose;
 
@@ -36,7 +36,7 @@ This document consists of \_\_ pages, including all attachments.”
 
 (2) Knowledge of the exporter or importer that the good qualifies as an originating good.
 
-(d) *Language.* The certification or other information submitted under paragraph (a) of this section must be completed either in the English or Spanish language. If the certification or other information is completed in Spanish, the importer must also provide to the port director, upon request, a written English translation of the certification or other information.
+(d) *Language.* The certification or other information submitted under paragraph (a) of this section must be completed either in the English or Spanish language. If the certification or other information is completed in Spanish, the importer must also provide to the Center director, upon request, a written English translation of the certification or other information.
 
 (e) *Applicability of certification.* A certification may be applicable to:
 

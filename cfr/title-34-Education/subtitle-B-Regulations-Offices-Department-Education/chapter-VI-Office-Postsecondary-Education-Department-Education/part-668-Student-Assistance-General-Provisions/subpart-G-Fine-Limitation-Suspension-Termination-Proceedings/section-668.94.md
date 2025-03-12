@@ -1,17 +1,25 @@
-##### § 668.94 Termination. #####
+##### § 668.94 Limitation. #####
 
-(a) *A termination* - (1) Ends an institution's participation in a Title IV, HEA program or ends a third-party servicer's eligibility to contract with any institution to administer any aspect of the institution's participation in a Title IV, HEA program;
+Link to an amendment published at 81 FR 76072, November 1, 2016.
 
-(2) Ends the authority of a third-party servicer to administer any aspect of any institution's participation in that program;
+A limitation may include, as appropriate to the Title IV, HEA program in question -
 
-(3) Prohibits an institution or third-party servicer, as applicable, or the Secretary from making or increasing awards under that program;
+(a) A limit on the number or percentage of students enrolled in an institution who may receive Title IV, HEA program funds;
 
-(4) Prohibits an institution or third-party servicer, as applicable, from making any other new commitments of funds under that program; and
+(b) A limit, for a stated period of time, on the percentage of an institution's total receipts from tuition and fees derived from Title IV, HEA program funds;
 
-(5) If an institution's participation in the Federal Stafford Loan Program or Federal PLUS programs has been terminated, prohibits further guarantee commitments by the Secretary for loans under that program to students to attend that institution, and, if the institution is a lender under that program, prohibits further disbursements by the institution (whether or not guarantee commitments have been issued by the Secretary or a guaranty agency for those disbursements).
+(c) A limit on the number or size of institutions with which a third-party servicer may contract;
 
-(b) After its participation in a Title IV, HEA program has been terminated, an institution may disburse or deliver funds under that Title IV, HEA program to students enrolled at the institution only in accordance with § 668.26 and with any additional requirements imposed under this part.
+(d) A limit on the number of borrower or loan accounts that a third-party servicer may service under a contract with an institution;
 
-(c) If a third-party servicer's eligibility is terminated, the servicer must return to each institution that contracts with the servicer any funds received by the servicer under the applicable Title IV, HEA program on behalf of the institution or the institution's students or otherwise dispose of those funds under instructions from the Secretary. The servicer also must return to each institution that contracts with the servicer all records pertaining to the servicer's administration of that program on behalf of that institution.
+(e) A limit on the responsibilities that a third-party servicer may perform under a contract with an institution;
 
-(Authority: 20 U.S.C. 1094)[59 FR 22450, Apr. 29, 1994, as amended at 63 FR 40626, July 29, 1998]
+(f) A requirement for a third-party servicer to perform additional responsibilities under a contract with an institution;
+
+(g) A requirement that an institution obtain surety, in a specified amount, to assure its ability to meet its financial obligations to students who receive Title IV, HEA program funds;
+
+(h) A requirement that a third-party servicer obtain surety, in a specified amount, to assure the servicer's ability to meet the servicer's financial obligations under a contract; or
+
+(i) Other conditions as may be determined by the Secretary to be reasonable and appropriate.
+
+(Authority: 20 U.S.C. 1094)[59 FR 22450, Apr. 29, 1994. Redesignated at 82 FR 6257, Jan. 17, 2017]

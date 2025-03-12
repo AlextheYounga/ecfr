@@ -1,3 +1,3 @@
 ##### § 10.309 Verification of documentation. #####
 
-Any evidence of country of origin or of direct shipment submitted in support of a preference under the Agreement shall be subject to such verification as the appropriate Customs official may deem necessary. If the U.S. importer or U.S. exporter or their agent does not provide the information requested by the appropriate Customs officer, the port director may refuse to grant the claim for preference, in addition to other available sanctions.
+Any evidence of country of origin or of direct shipment submitted in support of a preference under the Agreement shall be subject to such verification as the appropriate Customs official may deem necessary. If the U.S. importer or U.S. exporter or their agent does not provide the information requested by the appropriate Customs officer, the Center director may refuse to grant the claim for preference, in addition to other available sanctions.

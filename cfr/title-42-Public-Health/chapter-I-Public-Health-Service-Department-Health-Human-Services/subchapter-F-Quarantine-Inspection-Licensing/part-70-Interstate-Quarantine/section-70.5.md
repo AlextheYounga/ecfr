@@ -1,5 +1,7 @@
 ##### § 70.5 Certain communicable diseases; special requirements. #####
 
+Link to an amendment published at 82 FR 6970, January 19, 2017.
+
 The following provisions are applicable with respect to any person who is in the communicable period of cholera, plague, smallpox, typhus or yellow fever, or who, having been exposed to any such disease, is in the incubation period thereof:
 
 (a) *Requirements relating to travelers.* (1) No such person shall travel from one State or possession to another, or on a conveyance engaged in interstate traffic, without a written permit of the Surgeon General or his/her authorized representative.

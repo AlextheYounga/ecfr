@@ -20,7 +20,7 @@
 
 (2) CBP Form 7501 or CBP Form 3311, or their electronic equivalent, (as appropriate, *see* § 142.11) may serve as both the entry and the entry summary documentation if the additional documentation set forth in paragraphs (a)(2), (3), (4) and (5) of this section and § 142.16(b) is filed.
 
-(c) *Extra copies.* The port director may require additional copies of the documentation.
+(c) *Extra copies.* The CBP may require additional copies of the documentation.
 
 (d) *Electronic format.* The entry documentation identified in this section may be submitted to CBP in either a paper or, where appropriate, an electronic format.
 

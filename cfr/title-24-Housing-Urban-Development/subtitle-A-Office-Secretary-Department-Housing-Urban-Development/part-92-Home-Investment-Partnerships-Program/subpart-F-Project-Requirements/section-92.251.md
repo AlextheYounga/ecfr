@@ -1,10 +1,8 @@
 ##### § 92.251 Property standards. #####
 
-Link to an amendment published at 81 FR 92635, Dec. 20, 2016.
-
 (a) *New construction projects.* (1) *State and local codes, ordinances, and zoning requirements.* Housing that is newly constructed with HOME funds must meet all applicable State and local codes, ordinances, and zoning requirements. HOME-assisted new construction projects must meet State or local residential and building codes, as applicable or, in the absence of a State or local building code, the International Residential Code or International Building Code (as applicable to the type of housing) of the International Code Council. The housing must meet the applicable requirements upon project completion.
 
-(2) *HUD requirements.* All new construction projects must also meet the requirements described in paragraphs (a)(2)(i) through (v) of this section:
+(2) *HUD requirements.* All new construction projects must also meet the requirements described in this paragraph:
 
 (i) *Accessibility.* The housing must meet the accessibility requirements of 24 CFR part 8, which implements Section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and Titles II and III of the Americans with Disabilities Act (42 U.S.C. 12131-12189) implemented at 28 CFR parts 35 and 36, as applicable. Covered multifamily dwellings, as defined at 24 CFR 100.201, must also meet the design and construction requirements at 24 CFR 100.205, which implements the Fair Housing Act (42 U.S.C. 3601-3619).
 
@@ -15,6 +13,12 @@ Link to an amendment published at 81 FR 92635, Dec. 20, 2016.
 (iv) *Written cost estimates, construction contracts and construction documents.* The participating jurisdiction must ensure the construction contract(s) and construction documents describe the work to be undertaken in adequate detail so that inspections can be conducted. The participating jurisdiction must review and approve written cost estimates for construction and determining that costs are reasonable.
 
 (v) *Construction progress inspections.* The participating jurisdiction must conduct progress and final inspections of construction to ensure that work is done in accordance with the applicable codes, the construction contract, and construction documents.
+
+(vi) *Broadband infrastructure.* For new commitments made after January 19, 2017 for a new construction housing project of a building with more than 4 rental units, the construction must include installation of broadband infrastructure, as this term is defined in 24 CFR 5.100, except where the participating jurisdiction determines and, in accordance with § 92.508(a)(3)(iv), documents the determination that:
+
+(A) The location of the new construction makes installation of broadband infrastructure infeasible; or
+
+(B) The cost of installing the infrastructure would result in a fundamental alteration in the nature of its program or activity or in an undue financial burden.
 
 (b) *Rehabilitation projects.* All rehabilitation that is performed using HOME funds must meet the requirements of this paragraph (b).
 
@@ -37,6 +41,14 @@ Link to an amendment published at 81 FR 92635, Dec. 20, 2016.
 (viii) *Uniform Physical Condition Standards.* The standards of the participating jurisdiction must be such that, upon completion, the HOME-assisted project and units will be decent, safe, sanitary, and in good repair as described in 24 CFR 5.703. HUD will establish the minimum deficiencies that must be corrected under the participating jurisdiction's rehabilitation standards based on inspectable items and inspected areas from HUD-prescribed physical inspection procedures (Uniform Physical Conditions Standards) pursuant to 24 CFR 5.705.
 
 (ix) *Capital Needs Assessments.* For multifamily rental housing projects of 26 or more total units, the participating jurisdiction must determine all work that will be performed in the rehabilitation of the housing and the long-term physical needs of the project through a capital needs assessment of the project.
+
+(x) *Broadband infrastructure.* For new commitments made after January 19, 2017 for a substantial rehabilitation project of a building with more than 4 rental units, any substantial rehabilitation, as defined in 24 CFR 5.100, must provide for installation of broadband infrastructure, as this term is also defined in 24 CFR 5.100, except where the participating jurisdiction determines and, in accordance with § 92.508(a)(3)(iv), documents the determination that:
+
+(A) The location of the substantial rehabilitation makes installation of broadband infrastructure infeasible;
+
+(B) The cost of installing broadband infrastructure would result in a fundamental alteration in the nature of its program or activity or in an undue financial burden; or
+
+(C) The structure of the housing to be substantially rehabilitated makes installation of broadband infrastructure infeasible.
 
 (2) *Construction documents and cost estimates.* The participating jurisdiction must ensure that the work to be undertaken will meet the participating jurisdiction's rehabilitation standards. The construction documents (i.e., written scope of work to be performed) must be in sufficient detail to establish the basis for a uniform inspection of the housing to determine compliance with the participating jurisdiction's standards. The participating jurisdiction must review and approve a written cost estimate for rehabilitation after determining that costs are reasonable.
 
@@ -68,4 +80,4 @@ Link to an amendment published at 81 FR 92635, Dec. 20, 2016.
 
 (5) *Inspection procedures.* The participating jurisdiction must establish written inspection procedures inspections. The procedures must include detailed inspection checklists, description of how and by whom inspections will be carried out, and procedures for training and certifying qualified inspectors. The procedures must also describe how frequently the property will be inspected, consistent with this section, § 92.209, and § 92.504(d).
 
-[78 FR 44670, July 24, 2013]
+[78 FR 44670, July 24, 2013, as amended at 81 FR 92635, Dec. 20, 2016]

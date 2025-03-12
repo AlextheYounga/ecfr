@@ -1,6 +1,6 @@
 ##### § 143.23 Form of entry. #####
 
-Except for the types of merchandise listed below which may be entered on the forms indicated, merchandise to be entered informally must be entered on a CBP Form 368 or 368A, (serially numbered) or CBP Form 7501, or its electronic equivalent or, if authorized by the port director, upon the presentation of a commercial invoice which contains the following declaration, signed by the importer or his agent:
+Except for the types of merchandise listed below which may be entered on the forms indicated, merchandise to be entered informally must be entered on a CBP Form 368 or 368A, (serially numbered) or CBP Form 7501, or its electronic equivalent or, if authorized by the Center director, upon the presentation of a commercial invoice which contains the following declaration, signed by the importer or his agent:
 
 I declare that the information on this invoice is accurate to the best of my knowledge and belief; that the invoice quantities are true and correct manifest quantities; and that I have not received and do not know of any invoice other than this one.
 
@@ -51,4 +51,4 @@ shipment of merchandise that qualifies for informal entry under 19 U.S.C. 1498 m
 
 (7) Value.
 
-[T.D. 73-175, 38 FR 17463, July 2, 1973]Editorial Note:For Federal Register citations affecting § 143.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 73-175, 38 FR 17463, July 2, 1973]Editorial Note:For Federal Register citations affecting § 143.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

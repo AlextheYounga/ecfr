@@ -1,7 +1,5 @@
 ##### § 570.204 Special activities by Community-Based Development Organizations (CBDOs). #####
 
-Link to an amendment published at 81 FR 92636, December 20, 2016.
-
 (a) *Eligible activities.* The recipient may provide CDBG funds as grants or loans to any CBDO qualified under this section to carry out a neighborhood revitalization, community economic development, or energy conservation project. The funded project activities may include those listed as eligible under this subpart, and, except as described in paragraph (b) of this section, activities not otherwise listed as eligible under this subpart. For purposes of qualifying as a project under paragraphs (a)(1), (a)(2), and (a)(3) of this section, the funded activity or activities may be considered either alone or in concert with other project activities either being carried out or for which funding has been committed. For purposes of this section:
 
 (1) Neighborhood revitalization project includes activities of sufficient size and scope to have an impact on the decline of a geographic location within the jurisdiction of a unit of general local government (but not the entire jurisdiction) designated in comprehensive plans, ordinances, or other local documents as a neighborhood, village, or similar geographical designation; or the entire jurisdiction of a unit of general local government which is under 25,000 population;
@@ -11,6 +9,14 @@ Link to an amendment published at 81 FR 92636, December 20, 2016.
 (3) Energy conservation project includes activities that address energy conservation, principally for the benefit of the residents of the recipient's jurisdiction; and
 
 (4) To carry out a project means that the CBDO undertakes the funded activities directly or through contract with an entity other than the grantee, or through the provision of financial assistance for activities in which it retains a direct and controlling involvement and responsibilities.
+
+(5) Any new construction or substantial rehabilitation, as substantial rehabilitation is defined by 24 CFR 5.100, of a building with more than 4 rental units, for which CDBG funds are first obligated by the recipient on or after April 19, 2017, must include installation of broadband infrastructure, as this term is also defined in 24 CFR 5.100, except where the recipient determines and, in accordance with § 570.506, documents the determination that:
+
+(i) The location of the new construction or substantial rehabilitation makes installation of broadband infrastructure infeasible;
+
+(ii) The cost of installing broadband infrastructure would result in a fundamental alteration in the nature of its program or activity or in an undue financial burden; or
+
+(iii) The structure of the housing to be substantially rehabilitated makes installation of broadband infrastructure infeasible.
 
 (b) *Ineligible activities.* Notwithstanding that CBDOs may carry out activities that are not otherwise eligible under this subpart, this section does not authorize:
 
@@ -54,4 +60,4 @@ Link to an amendment published at 81 FR 92636, December 20, 2016.
 
 (3) A CBDO that does not qualify under paragraph (c)(1) or (2) of this section may also be determined to qualify as an eligible entity under this section if the recipient demonstrates to the satisfaction of HUD, through the provision of information regarding the organization's charter and by-laws, that the organization is sufficiently similar in purpose, function, and scope to those entities qualifying under paragraph (c)(1) or (2) of this section.
 
-[60 FR 1944, Jan. 5, 1995, as amended at 71 FR 30035, May 24, 2006]
+[60 FR 1944, Jan. 5, 1995, as amended at 71 FR 30035, May 24, 2006; 81 FR 92636, Dec. 20, 2016]

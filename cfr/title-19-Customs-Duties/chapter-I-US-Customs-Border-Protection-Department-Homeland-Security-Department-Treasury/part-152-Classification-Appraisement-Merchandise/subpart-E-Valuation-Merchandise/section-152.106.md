@@ -36,7 +36,7 @@ The merchandise should be appraised under computed value, using the company's pr
 
 (ii) The foreign producer refuses to provide, or is legally prevented from providing, that information.
 
-(2) If information other than that supplied by or on behalf of the producer is used to determine computed value, the port director shall inform the importer, upon written request, of:
+(2) If information other than that supplied by or on behalf of the producer is used to determine computed value, the Center director shall inform the importer, upon written request, of:
 
 (i) The source of the information,
 

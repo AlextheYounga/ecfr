@@ -1,5 +1,7 @@
 ##### § 14.635 Office space and facilities. #####
 
+Link to an amendment published at 82 FR 6272, January 19, 2017.
+
 The Secretary may furnish office space and facilities, if available, in buildings owned or occupied by the Department of Veterans Affairs, for the use of paid full-time representatives of recognized national organizations, and for employees of recognized State organizations who are accredited to national organizations, for purposes of assisting claimants in the preparation, presentation, and prosecution of claims for Department of Veterans Affairs benefits.
 
 (a) Request for office space should be made by an appropriate official of the organization to the Director of the Department of Veterans Affairs facility in which space is desired and should set forth:

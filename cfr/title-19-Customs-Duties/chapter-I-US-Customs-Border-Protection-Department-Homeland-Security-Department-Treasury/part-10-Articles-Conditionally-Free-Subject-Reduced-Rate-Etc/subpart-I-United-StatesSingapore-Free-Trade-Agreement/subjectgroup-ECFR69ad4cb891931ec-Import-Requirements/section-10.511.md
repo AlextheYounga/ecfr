@@ -1,6 +1,6 @@
 ##### § 10.511 Supporting statement. #####
 
-(a) *Contents.* An importer who makes a claim under § 10.510(a) of this subpart must submit, at the request of the port director, a statement setting forth the reasons that the good qualifies as an originating good, including pertinent cost and manufacturing data. A statement submitted to CBP under this paragraph:
+(a) *Contents.* An importer who makes a claim under § 10.510(a) of this subpart must submit, at the request of the Center director, a statement setting forth the reasons that the good qualifies as an originating good, including pertinent cost and manufacturing data. A statement submitted to CBP under this paragraph:
 
 (1) Need not be in a prescribed format but must be in writing or must be transmitted electronically pursuant to any electronic means authorized by CBP for that purpose;
 

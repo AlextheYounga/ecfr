@@ -1,6 +1,6 @@
 ##### § 10.470 Verification and justification of claim for preferential tariff treatment. #####
 
-(a) *Verification.* A claim for preferential tariff treatment made under § 10.410 or § 10.442 of this subpart, including any statements or other information submitted to CBP in support of the claim, will be subject to such verification as the port director deems necessary. In the event that the port director is provided with insufficient information to verify or substantiate the claim, the port director may deny the claim for preferential tariff treatment. A verification of a claim for preferential treatment may involve, but is not limited to, a review of:
+(a) *Verification.* A claim for preferential tariff treatment made under § 10.410 or § 10.442 of this subpart, including any statements or other information submitted to CBP in support of the claim, will be subject to such verification as the Center director deems necessary. In the event that the Center director is provided with insufficient information to verify or substantiate the claim, the Center director may deny the claim for preferential tariff treatment. A verification of a claim for preferential treatment may involve, but is not limited to, a review of:
 
 (1) All records required to be made, kept, and made available to CBP by the importer or any other person under part 163 of this chapter;
 

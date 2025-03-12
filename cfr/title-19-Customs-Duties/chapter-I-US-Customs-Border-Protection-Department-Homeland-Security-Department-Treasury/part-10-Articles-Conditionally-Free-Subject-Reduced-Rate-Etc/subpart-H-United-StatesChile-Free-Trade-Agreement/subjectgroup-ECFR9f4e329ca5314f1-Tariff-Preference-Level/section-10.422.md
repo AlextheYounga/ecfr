@@ -1,6 +1,6 @@
 ##### § 10.422 Submission of certificate of eligibility. #####
 
-(a) *Contents.* An importer who claims preferential tariff treatment on a non-originating cotton or man-made fiber fabric or apparel good must submit, at the request of the port director, a certificate of eligibility containing information demonstrating that the good satisfies the requirements for entry under the applicable TPL, as set forth in § 10.421 of this subpart. A certificate of eligibility submitted to CBP under this section:
+(a) *Contents.* An importer who claims preferential tariff treatment on a non-originating cotton or man-made fiber fabric or apparel good must submit, at the request of the Center director, a certificate of eligibility containing information demonstrating that the good satisfies the requirements for entry under the applicable TPL, as set forth in § 10.421 of this subpart. A certificate of eligibility submitted to CBP under this section:
 
 (1) Need not be in a prescribed format but must be in writing or must be transmitted electronically pursuant to any electronic means authorized by CBP for that purpose;
 
@@ -36,7 +36,7 @@ This document consists of \_\_ pages, including all attachments.”
 
 (b) *Responsible official or agent.* The certificate of eligibility required to be submitted under this section must be signed and dated by a responsible official of the importer or by the importer's authorized agent having knowledge of the relevant facts.
 
-(c) *Language.* The certificate of eligibility must be completed either in the English or Spanish language. If the certificate is completed in Spanish, the importer must also provide to the port director, upon request, a written English translation of the certificate;
+(c) *Language.* The certificate of eligibility must be completed either in the English or Spanish language. If the certificate is completed in Spanish, the importer must also provide to the Center director, upon request, a written English translation of the certificate;
 
 (d) *Applicability of certificate of eligibility.* A certificate of eligibility may be applicable to:
 

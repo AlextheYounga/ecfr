@@ -1,11 +1,9 @@
 ##### § 174.30 Notice of denial of protest. #####
 
-Link to an amendment published at 81 FR 93025, December 20, 2016.
-
 (a) *Issuance of notice.* Notice of denial of a protest shall be mailed to any person filing a protest or his agent in all cases other than those in which accelerated disposition was requested and in which no action has been taken within 30 days after the date of mailing of the request. The notice shall include a statement of the reasons for the denial, as well as a statement informing the protesting party of the right to file a civil action contesting the denial of the protest under section 514, Tariff Act of 1930, as amended (19 U.S.C. 1514). For purposes of section 515(a), Tariff Act of 1930, as amended (19 U.S.C. 1515(a)), the date appearing on such notice shall be deemed the date on which such notice was mailed.
 
-(b) *Substitution of persons designated to receive notice.* The importer of record or consignee may give notice to the port director instructing that notice of denial of any protest involving merchandise imported in his name or on his behalf shall be mailed to a person other than the person filing such protest or the designee of such person. Such notice of substitution shall be filed in quadruplicate and shall identify the protest by number and date of receipt. Notice of denial of a protest shall be mailed to the substituted person so designated only if the notice of substitution is received by the port director prior to a denial by him of such protest.
+(b) *Substitution of persons designated to receive notice.* The importer of record or consignee may give notice to CBP, either at the port of entry or electronically, instructing that notice of denial of any protest involving merchandise imported in his name or on his behalf shall be mailed to a person other than the person filing such protest or the designee of such person. Such notice of substitution shall be filed in quadruplicate and shall identify the protest by number and date of receipt. Notice of denial of a protest shall be mailed to the substituted person so designated only if the notice of substitution is received by the CBP prior to a denial by him of such protest.
 
-(c) *Notification of payment of increased duties.* The port director shall note on the notice of denial of a protest the payment of all liquidated duties, charges, or exactions, if he has actual knowledge of such payment at the time that the protest is denied.
+(c) *Notification of payment of increased duties.* The Center director shall note on the notice of denial of a protest the payment of all liquidated duties, charges, or exactions, if he has actual knowledge of such payment at the time that the protest is denied.
 
-[T.D. 70-181, 35 FR 13429, Aug. 22, 1970, as amended by T.D. 80-271, 45 FR 75642, Nov. 17, 1980]
+[T.D. 70-181, 35 FR 13429, Aug. 22, 1970, as amended by T.D. 80-271, 45 FR 75642, Nov. 17, 1980; CBP Dec. No. 16-26, 81 FR 93025, Dec. 20, 2016]

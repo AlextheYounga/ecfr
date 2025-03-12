@@ -1,5 +1,7 @@
 ##### § 73.12 Biosafety. #####
 
+Link to an amendment published at 82 FR 6293, January 19, 2017.
+
 (a) An individual or entity required to register under this part must develop and implement a written biosafety plan that is commensurate with the risk of the select agent or toxin, given its intended use. The biosafety plan must contain sufficient information and documentation to describe the biosafety and containment procedures for the select agent or toxin, including any animals (including arthropods) or plants intentionally or accidentally exposed to or infected with a select agent.
 
 (b) The biosafety and containment procedures must be sufficient to contain the select agent or toxin (e.g., physical structure and features of the entity, and operational and procedural safeguards).

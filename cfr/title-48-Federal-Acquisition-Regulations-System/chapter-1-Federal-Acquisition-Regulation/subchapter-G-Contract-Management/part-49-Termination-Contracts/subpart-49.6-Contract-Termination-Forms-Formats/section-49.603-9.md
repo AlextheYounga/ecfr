@@ -10,4 +10,4 @@
 
 (2) The Contractor releases and forever discharges the Government from all liability and from all existing and future claims and demands that it may have under this contract, insofar as it pertains to the contract, for the items described in subparagraph (1) above.\*
 
-[*\*When payment is due the Government, reverse the words Government and Contractor in subparagraphs (b)(1) and (b)(2).*](End of agreement)
+[*\*When payment is due the Government, reverse the words Government* and *Contractor* in subparagraphs (b)(1) and (b)(2).](End of agreement)

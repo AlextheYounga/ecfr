@@ -8,7 +8,7 @@
 
 (2) Subject to the exceptions specified in § 10.709(b) of this subpart, substantially transformed in the United States into a new and different article of commerce that has a new name, character, or use, which is then used in Jordan in the production or manufacture of a new or different article of commerce that is imported into the United States. Except where the context otherwise requires, the examples set forth in § 10.196(a) of this part will apply for purposes of this paragraph.
 
-(c) *Cost or value of materials* - (1) *Materials produced in Jordan defined.* For purposes of paragraph (a) of this section, the words “materials produced in Jordan” refer to those materials incorporated into a good that are either:
+(c) *Cost or value of materials*—(1) *Materials produced in Jordan defined.* For purposes of paragraph (a) of this section, the words “materials produced in Jordan” refer to those materials incorporated into a good that are either:
 
 (i) Wholly the growth, product, or manufacture of Jordan; or
 
@@ -32,9 +32,9 @@
 
 (C) Freight, insurance, packing, and all other costs incurred in transporting the material to the manufacturer's plant.
 
-(iii) If the pertinent information needed to compute the cost or value of a material is not available, the port director may ascertain or estimate the value thereof using all reasonable ways and means at his or her disposal.
+(iii) If the pertinent information needed to compute the cost or value of a material is not available, the Center director may ascertain or estimate the value thereof using all reasonable ways and means at his or her disposal.
 
-(d) *Direct costs of processing operations* - (1) *Items included.* For purposes of paragraph (a) of this section, the words “direct costs of processing operations” mean those costs either directly incurred in, or which can be reasonably allocated to, the growth, production, manufacture, or assembly of the specific goods under consideration. Such costs include, but are not limited to the following, to the extent that they are includable in the appraised value of the imported goods:
+(d) *Direct costs of processing operations*—(1) *Items included.* For purposes of paragraph (a) of this section, the words “direct costs of processing operations” mean those costs either directly incurred in, or which can be reasonably allocated to, the growth, production, manufacture, or assembly of the specific goods under consideration. Such costs include, but are not limited to the following, to the extent that they are includable in the appraised value of the imported goods:
 
 (i) All actual labor costs involved in the growth, production, manufacture, or assembly of the specific goods, including fringe benefits, on-the-job training, and the cost of engineering, supervisory, quality control, and similar personnel;
 

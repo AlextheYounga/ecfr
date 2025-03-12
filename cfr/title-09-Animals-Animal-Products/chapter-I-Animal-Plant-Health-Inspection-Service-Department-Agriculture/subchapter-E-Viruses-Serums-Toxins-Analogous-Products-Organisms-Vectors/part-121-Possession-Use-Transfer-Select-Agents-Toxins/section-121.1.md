@@ -1,5 +1,7 @@
 ##### § 121.1 Definitions. #####
 
+Link to an amendment published at 82 FR 6206, Jan. 19, 2017.
+
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the U.S. Department of Agriculture.

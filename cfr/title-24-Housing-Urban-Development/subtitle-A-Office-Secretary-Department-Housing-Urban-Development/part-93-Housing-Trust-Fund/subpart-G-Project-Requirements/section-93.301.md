@@ -1,10 +1,8 @@
 ##### § 93.301 Property standards. #####
 
-Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
-
 (a) *New construction projects.* (1) State and local codes, ordinances, and zoning requirements. Housing that is newly constructed with HTF funds must meet all applicable State and local codes, ordinances, and zoning requirements. HTF-assisted new construction projects must meet State or local residential and building codes, as applicable or, in the absence of a State or local building code, the International Residential Code or International Building Code (as applicable to the type of housing) of the International Code Council. The housing must meet the applicable requirements upon project completion.
 
-(2) *HUD requirements.* All new construction projects must also meet the requirements described in paragraphs (a)(2)(i) through (v) of this section:
+(2) *HUD requirements.* All new construction projects must also meet the requirements described in this paragraph:
 
 (i) *Accessibility.* The housing must meet the accessibility requirements of 24 CFR part 8, which implements section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and Titles II and III of the Americans with Disabilities Act (42 U.S.C. 12131-12189) implemented at 28 CFR parts 35 and 36, as applicable. “Covered multifamily dwellings,” as defined at 24 CFR 100.201, must also meet the design and construction requirements at 24 CFR 100.205, which implements the Fair Housing Act (42 U.S.C. 3601-3619).
 
@@ -15,6 +13,12 @@ Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
 (iv) *Written cost estimates, construction contracts, and construction documents.* The grantee must ensure the construction contract(s) and construction documents describe the work to be undertaken in adequate detail so that inspections can be conducted. The grantee must review and approve written cost estimates for construction and determine that costs are reasonable.
 
 (v) *Construction progress inspections.* The grantee must conduct progress and final inspections of construction to ensure that work is done in accordance with the applicable codes, the construction contract, and construction documents.
+
+(vi) *Broadband infrastructure.* For new commitments made after January 19, 2017 for a new construction housing project of a building with more than 4 rental units, the construction must include installation of broadband infrastructure, as this term is defined in 24 CFR 5.100, except where the grantee determines and, in accordance with § 93.407(a)(2)(iv), documents the determination that:
+
+(A) The location of the new construction makes installation of broadband infrastructure infeasible; or
+
+(B) The cost of installing broadband infrastructure would result in a fundamental alteration in the nature of its program or activity or in an undue financial burden.
 
 (b) *Rehabilitation projects.* All rehabilitation that is performed using HTF funds must meet the requirements of this paragraph (b).
 
@@ -38,6 +42,14 @@ Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
 
 (ix) *Capital Needs Assessments.* For multifamily rental housing projects of 26 or more total units, the grantee must determine all work that will be performed in the rehabilitation of the housing and the long-term physical needs of the project through a capital needs assessment of the project.
 
+(x) *Broadband infrastructure.* For new commitments made after January 19, 2017 for a substantial rehabilitation project of a building with more than 4 rental units, any substantial rehabilitation, as defined in 24 CFR 5.100, must provide for installation of broadband infrastructure, as this term is also defined in 24 CFR 5.100, except where the grantee determines and, in accordance with § 93.407(a)(2)(iv), documents the determination that:
+
+(A) The location of the substantial rehabilitation makes installation of broadband infrastructure infeasible;
+
+(B) The cost of installing broadband infrastructure would result in a fundamental alteration in the nature of its program or activity or in an undue financial burden; or
+
+(C) The structure of the housing to be substantially rehabilitated makes installation of broadband infrastructure infeasible.
+
 (2) *Construction documents and cost estimates.* The grantee must ensure that the work to be undertaken will meet the grantee's rehabilitation standards. The construction documents (*i.e.,* written scope of work to be performed) must be in sufficient detail to establish the basis for a uniform inspection of the housing to determine compliance with the grantee's standards. The grantee must review and approve a written cost estimate for rehabilitation after determining that costs are reasonable.
 
 (3) *Frequency of inspections.* The grantee must conduct an initial property inspection to identify the deficiencies that must be addressed. The grantee must conduct progress and final inspections to determine that work was done in accordance with work write-ups.
@@ -50,7 +62,7 @@ Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
 
 (d) *Manufactured housing.* Construction of all manufactured housing (including manufactured housing that replaces an existing substandard unit under the definition of “reconstruction”) must meet the Manufactured Home Construction and Safety Standards codified at 24 CFR part 3280. These standards preempt State and local codes which are not identical to the Federal standards for the new construction of manufactured housing. The grantees providing HTF funds to assist manufactured housing units must comply with applicable State and local laws or codes. In the absence of such laws or codes, the installation must comply with the manufacturer's written instructions for installation of manufactured housing units. All new manufactured housing and all manufactured housing that replaces an existing substandard unit under the definition of “reconstruction” must be on a permanent foundation that meets the requirements for foundation systems as set forth in 24 CFR 203.43f(c)(i). All new manufactured housing (and all manufactured housing that replaces an existing substandard unit under the definition of “reconstruction”) must, at the time of project completion, be connected to permanent utility hook-ups and be located on land that is owned by the manufactured housing unit owner or land for which the manufactured housing owner has a lease for a period at least equal to the applicable period of affordability. In HTF-funded rehabilitation of existing manufactured housing the foundation and anchoring must meet all applicable State and local codes, ordinances, and requirements or in the absence of local or State codes, the Model Manufactured Home Installation Standards at 24 CFR part 3285. Manufactured housing that is rehabilitated using HTF funds must meet the property standards requirements in paragraph (b) of this section, as applicable. The grantee must document this compliance in accordance with inspection procedures that the grantee has established pursuant to § 92.301, as applicable.
 
-(e) *Ongoing property condition standards: Rental housing* - (1) *Ongoing property standards.* The grantee must establish property standards for rental housing (including manufactured housing) that apply throughout the affordability period. The standards must ensure that owners maintain the housing as decent, safe, and sanitary housing in good repair. The grantee's description of its property standards must be in sufficient detail to establish the basis for a uniform inspection of HTF rental projects. The grantee's ongoing property standards must address each of the following:
+(e) *Ongoing property condition standards: Rental housing*—(1) *Ongoing property standards.* The grantee must establish property standards for rental housing (including manufactured housing) that apply throughout the affordability period. The standards must ensure that owners maintain the housing as decent, safe, and sanitary housing in good repair. The grantee's description of its property standards must be in sufficient detail to establish the basis for a uniform inspection of HTF rental projects. The grantee's ongoing property standards must address each of the following:
 
 (i) At a minimum, the grantee's ongoing property standards must include all inspectable items and inspectable areas specified by HUD based on the HUD physical inspection procedures (Uniform Physical Condition Standards (UPCS)) prescribed by HUD pursuant to 24 CFR 5.705.
 
@@ -64,7 +76,7 @@ Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
 
 (4) *Inspection procedures.* The grantee must establish written inspection procedures. The procedures must include detailed inspection checklists, description of how and by whom inspections will be carried out, and procedures for training and certifying qualified inspectors. The procedures must also describe how frequently the property will be inspected, consistent with section § 93.404(d).
 
-(f) *Environmental provisions* - (1) *New construction projects environmental requirements* - (i) *Historic preservation* - (A) *Standards.* The project activities (including demolition) must not be performed on properties that are either listed in or determined eligible for listing in the National Register of Historic Places, unless the project activities meet the *Secretary of the Interior's Standards for Rehabilitation,* either as certified through the Federal and/or State historic rehabilitation tax credit programs or as verified by someone that meets the relevant *Secretary of the Interior's Professional Qualification Standards;*
+(f) *Environmental provisions*—(1) *New construction projects environmental requirements*—(i) *Historic preservation*—(A) *Standards.* The project activities (including demolition) must not be performed on properties that are either listed in or determined eligible for listing in the National Register of Historic Places, unless the project activities meet the *Secretary of the Interior's Standards for Rehabilitation,* either as certified through the Federal and/or State historic rehabilitation tax credit programs or as verified by someone that meets the relevant *Secretary of the Interior's Professional Qualification Standards;*
 
 (B) *Archaeological resources.* If archaeological resources or human remains are discovered on the project site during construction, the grantee must consult with affected tribes and/or descendant communities and comply with the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001-3013), State law and/or local ordinance (*e.g.,* State unmarked burial law).
 
@@ -118,7 +130,7 @@ Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
 
 (xiv) *Sole-source aquifers.* Project activities should avoid sites and activities that have the potential to contaminate sole source aquifer areas (SSAs). EPA defines a sole or principal source aquifer as an aquifer that supplies at least 50 percent of the drinking water consumed in the area overlying the aquifer. If the project overlies an SSA, EPA must review the project. EPA review is designed to reduce the risk of ground water contamination that could pose a health hazard to those who use it.
 
-(2) *Rehabilitation projects environmental requirements* - (i) *Historic preservation.* (A) The project activities (including demolition) must not be performed on properties that are either listed in or determined eligible for listing in the National Register of Historic Places, unless the project activities meet the *Secretary of the Interior's Standards for Rehabilitation,* either as certified through the Federal and/or State historic rehabilitation tax credit programs or as verified by someone that meets the relevant *Secretary of the Interior's Professional Qualification Standards;*
+(2) *Rehabilitation projects environmental requirements*—(i) *Historic preservation.* (A) The project activities (including demolition) must not be performed on properties that are either listed in or determined eligible for listing in the National Register of Historic Places, unless the project activities meet the *Secretary of the Interior's Standards for Rehabilitation,* either as certified through the Federal and/or State historic rehabilitation tax credit programs or as verified by someone that meets the relevant *Secretary of the Interior's Professional Qualification Standards;*
 
 (B) *Archaeological resources.* If archaeological resources or human remains are discovered on the project site during construction or rehabilitation, the grantee must consult with affected tribes and/or descendant communities and comply with the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001-3013), State law, and/or local ordinance (*e.g.,* State unmarked burial law).
 
@@ -148,11 +160,11 @@ Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
 
 (ix) *Contamination.* All properties assisted with HTF funds must be free of hazardous materials, contamination, toxic chemicals and gases, and radioactive substances, where a hazard could affect the health and safety of occupants or conflict with the intended use of the property:
 
-(A) All proposed multifamily (more than four housing units) HTF project activities require a Phase I Environmental Site Assessment (ESA - ASTM). If the Phase I ESA identifies recognized environmental concerns (RECs), a Phase II (ESA-ASTM) will be required. ASTM reports shall be prepared in accordance with the most current ASTM standard. Single family housing does not require a Phase I ESA.
+(A) All proposed multifamily (more than four housing units) HTF project activities require a Phase I Environmental Site Assessment (ESA—ASTM). If the Phase I ESA identifies recognized environmental concerns (RECs), a Phase II (ESA-ASTM) will be required. ASTM reports shall be prepared in accordance with the most current ASTM standard. Single family housing does not require a Phase I ESA.
 
 (B) HTF projects must avoid sites located within 0.25 miles of a Superfund or CERCLIS (Comprehensive Environmental Response, Compensation, and Liability Information System) site or other contaminated site reported to Federal, State, or local authorities without a statement in writing from EPA or the appropriate State agency that there is no hazard that could affect the health and safety of the occupants or conflict with the intended utilization of the property.
 
-(x) *Noise* - (A) *Internal noise levels.* All activities will be developed to ensure an interior noise level of no more than45 decibels (dB).
+(x) *Noise*—(A) *Internal noise levels.* All activities will be developed to ensure an interior noise level of no more than45 decibels (dB).
 
 (B) [Reserved].
 
@@ -173,3 +185,5 @@ Link to an amendment published at 81 FR 92636, Dec. 20, 2016.
 (ii) If under paragraph (f)(3)(i)(A) or paragraph (B) of this section, the property does not meet these standards, with the exception of the noise standards in paragraph (f)(2) of this section, HTF funds cannot be used to acquire the property.
 
 (4) *Manufactured housing environmental requirements.* Manufactured housing is subject to the environmental standards in paragraph (f)(1) of this section for new construction or paragraph (f)(2) of this section for rehabilitation, as applicable. If an existing property does not meet these standards, HTF funds cannot be used to acquire the property unless it is rehabilitated to meet the standards in paragraph (f)(2), as applicable, with the exception of noise standards in paragraph (f)(2)(x).
+
+[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 92636, Dec. 20, 2016]

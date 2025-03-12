@@ -1,5 +1,7 @@
 ##### § 70.1 General definitions. #####
 
+Link to an amendment published at 82 FR 6968, January 19, 2017.
+
 As used in this part, terms shall have the following meaning:
 
 *CDC* means the Centers for Disease Control and Prevention, Department of Health and Human Services.

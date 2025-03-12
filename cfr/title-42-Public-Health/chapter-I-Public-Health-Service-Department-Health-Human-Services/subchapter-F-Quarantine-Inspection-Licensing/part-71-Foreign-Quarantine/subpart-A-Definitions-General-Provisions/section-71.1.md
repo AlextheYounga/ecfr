@@ -1,5 +1,7 @@
 ##### § 71.1 Scope and definitions. #####
 
+Link to an amendment published at 82 FR 6973, January 19, 2017.
+
 (a) The provisions of this part contain the regulations to prevent the introduction, transmission, and spread of communicable disease from foreign countries into the States or territories (also known as possessions) of the United States. Regulations pertaining to preventing the interstate spread of communicable diseases are contained in 21 CFR parts 1240 and 1250 and 42 CFR part 70.
 
 (b) As used in this part the term:

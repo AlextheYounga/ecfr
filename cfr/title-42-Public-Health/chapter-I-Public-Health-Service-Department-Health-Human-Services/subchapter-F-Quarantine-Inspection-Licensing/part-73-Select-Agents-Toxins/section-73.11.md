@@ -1,5 +1,7 @@
 ##### § 73.11 Security. #####
 
+Link to an amendment published at 82 FR 6293, January 19, 2017.
+
 (a) An individual or entity required to register under this part must develop and implement a written security plan. The security plan must be sufficient to safeguard the select agent or toxin against unauthorized access, theft, loss, or release.
 
 (b) The security plan must be designed according to a site-specific risk assessment and must provide graded protection in accordance with the risk of the select agent or toxin, given its intended use. A current security plan must be submitted for initial registration, renewal of registration, or when requested.

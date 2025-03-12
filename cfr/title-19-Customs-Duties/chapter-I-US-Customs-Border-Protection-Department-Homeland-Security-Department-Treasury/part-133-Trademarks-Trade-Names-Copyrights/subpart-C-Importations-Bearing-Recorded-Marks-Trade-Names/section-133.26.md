@@ -1,7 +1,5 @@
 ##### § 133.26 Demand for redelivery of released merchandise. #####
 
-Link to an amendment published at 81 FR 93018, Dec. 20, 2016.
+If it is determined that merchandise which has been released from CBP custody is subject to the restrictions of § 133.21, § 133.22 or § 133.23 of this subpart, an authorized CBP official shall promptly make demand for the redelivery of the merchandise under the terms of the bond on CBP Form 301, containing the bond conditions set forth in § 113.62 of this chapter, in accordance with § 141.113 of this chapter. If the merchandise is not redelivered to CBP custody, a claim for liquidated damages shall be made in accordance with § 141.113(h) of this chapter.
 
-If it is determined that merchandise which has been released from CBP custody is subject to the restrictions of § 133.21, § 133.22 or § 133.23 of this subpart, the port director shall promptly make demand for the redelivery of the merchandise under the terms of the bond on CBP Form 301, containing the bond conditions set forth in § 113.62 of this chapter, in accordance with § 141.113 of this chapter. If the merchandise is not redelivered to CBP custody, a claim for liquidated damages shall be made in accordance with § 141.113(h) of this chapter.
-
-[T.D. 72-266, 37 FR 20678, Oct. 3, 1972, as amended by T.D. 99-64, 64 FR 43266, Aug. 10, 1999; CBP Dec. 12-10, 77 FR 24380, Apr. 24, 2012]
+[T.D. 72-266, 37 FR 20678, Oct. 3, 1972, as amended by T.D. 99-64, 64 FR 43266, Aug. 10, 1999; CBP Dec. 12-10, 77 FR 24380, Apr. 24, 2012; CBP Dec. 16-26, 81 FR 93018, Dec. 20, 2016]

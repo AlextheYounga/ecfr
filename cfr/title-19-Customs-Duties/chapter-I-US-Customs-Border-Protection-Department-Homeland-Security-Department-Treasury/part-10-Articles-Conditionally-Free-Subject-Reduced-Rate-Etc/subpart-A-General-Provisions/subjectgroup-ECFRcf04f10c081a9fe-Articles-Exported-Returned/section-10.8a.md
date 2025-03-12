@@ -24,6 +24,6 @@ I declare that the \_\_\_\_\_\_\_\_\_\_\_ (Description of articles) were previou
 
 (Date) (Signature)(Address) (Title)
 
-(c) If the port director concerned is reasonably satisfied because of the nature of the articles or production of other evidence that the requirements of subheading 9801.00.25, Harmonized Tariff Schedule of the United States, and the related section and additional U.S. notes have been met, he may waive the production of the documents provided for in paragraph (b) of this section.
+(c) If the Center director concerned is reasonably satisfied because of the nature of the articles or production of other evidence that the requirements of subheading 9801.00.25, Harmonized Tariff Schedule of the United States, and the related section and additional U.S. notes have been met, he may waive the production of the documents provided for in paragraph (b) of this section.
 
 [T.D. 72-221, 37 FR 17469, Aug. 29, 1972, as amended by T.D. 89-1, 53 FR 51247, Dec. 21, 1988]

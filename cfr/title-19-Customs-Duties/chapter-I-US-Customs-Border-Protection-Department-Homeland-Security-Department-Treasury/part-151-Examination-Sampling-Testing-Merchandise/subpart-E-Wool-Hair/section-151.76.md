@@ -1,11 +1,9 @@
 ##### § 151.76 Grading of wool. #####
 
-Link to an amendment published at 81 FR 93022, December 20, 2016.
+(a) *Examination for grade.* The Center director shall cause wool dutiable at a rate per clean kilogram to be examined for grade. The standards for determining grades of wool shall be those which are established from time to time by the Secretary of Agriculture pursuant to law and which are in effect on the date of importation of the wool, as provided by Chapter 51, Additional U.S. Note 2, Harmonized Tariff Schedule of the United States (19 U.S.C. 1202).
 
-(a) *Examination for grade.* The port director shall cause wool dutiable at a rate per clean kilogram to be examined for grade. The standards for determining grades of wool shall be those which are established from time to time by the Secretary of Agriculture pursuant to law and which are in effect on the date of importation of the wool, as provided by Chapter 51, Additional U.S. Note 2, Harmonized Tariff Schedule of the United States (19 U.S.C. 1202).
+(b) *Notification to importer.* If classification of the wool at the grade or grades determined on the basis of the examination will result in the assessment of duty at a rate higher than the rate provided for wool of the grade stated in the entry, the Center director shall promptly notify the importer by mail.
 
-(b) *Notification to importer.* If classification of the wool at the grade or grades determined on the basis of the examination will result in the assessment of duty at a rate higher than the rate provided for wool of the grade stated in the entry, the port director shall promptly notify the importer by mail.
+(c) *Importer's request for reexamination.* If the importer is dissatisfied with the port director's or Center director's findings as to the grade or grades of the wool, made before January 19, 2017, or the Center director's findings as to the grade or grades of wool made on or after January 19, 2017, he may, within 14 calendar days after the date of mailing of the notice of the port director's or Center director's findings, file in duplicate a written request with the Center director for another determination of grade or grades, stating the reason for the request. Notice of the Center director's findings on the basis of the reexamination of the wool shall be mailed to the importer.
 
-(c) *Importer's request for reexamination.* If the importer is dissatisfied with the port director's findings as to the grade or grades of the wool, he may, within 14 calendar days after the date of mailing of the notice of the port director's findings, file in duplicate a written request for another determination of grade or grades, stating the reason for the request. Notice of the port director's findings on the basis of the reexamination of the wool shall be mailed to the importer.
-
-[T.D. 73-175, 38 FR 17470, July 2, 1973, as amended by T.D. 89-1, 53 FR 51269, Dec. 21, 1988]
+[T.D. 73-175, 38 FR 17470, July 2, 1973, as amended by T.D. 89-1, 53 FR 51269, Dec. 21, 1988; CBP Dec. No. 16-26, 81 FR 93021, Dec. 20, 2016]

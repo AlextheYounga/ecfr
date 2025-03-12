@@ -1,5 +1,7 @@
 ##### § 121.4 Overlap select agents and toxins. #####
 
+Link to an amendment published at 82 FR 6207, Jan. 19, 2017.
+
 (a) Except as provided in paragraphs (d) and (e) of this section, the Administrator has determined that the biological agents and toxins listed in this section have the potential to pose a severe threat to public health and safety, to animal health, or to animal products. The select agents and toxins marked with an asterisk (\*) are designated as Tier 1 select agents and toxins and are subject to additional requirements as listed in this part.
 
 (b) Overlap select agents and toxins: \**Bacillus anthracis;**Bacillus anthracis* (Pasteur strain); *Brucella abortus;**Brucella melitensis;**Brucella suis;* \**Burkholderia mallei;* \**Burkholderia pseudomallei;* Hendra virus; Nipah virus; Rift Valley fever virus; Venezuelan equine encephalitis virus.

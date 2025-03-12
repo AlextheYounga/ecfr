@@ -1,7 +1,5 @@
 ##### § 570.506 Records to be maintained. #####
 
-Link to an amendment published at 81 FR 92637, December 20, 2016.
-
 Each recipient shall establish and maintain sufficient records to enable the Secretary to determine whether the recipient has met the requirements of this part. At a minimum, the following records are needed:
 
 (a) Records providing a full description of each activity assisted (or being assisted) with CDBG funds, including its location (if the activity has a geographical locus), the amount of CDBG funds budgeted, obligated and expended for the activity, and the provision in subpart C under which it is eligible.
@@ -120,7 +118,9 @@ Each recipient shall establish and maintain sufficient records to enable the Sec
 
 (iv) Evidence confirming that other financial resources to alleviate the need were not available.
 
-(c) Records that demonstrate that the recipient has made the determinations required as a condition of eligibility of certain activities, as prescribed in §§ 570.201(f), 570.201(i)(2), 570.201(p), 570.201(q), 570.202(b)(3), 570.206(f), 570.209, 570.210, and 570.309.
+(c)(1) Records that demonstrate that the recipient has made the determinations required as a condition of eligibility of certain activities, as prescribed in §§ 570.201(f), 570.201(i)(2), 570.201(p), 570.201(q), 570.202(b)(3), 570.206(f), 570.209, 570.210, and 570.309.
+
+(2) Where applicable, records which either demonstrate compliance with the requirements of § 570.202(g) or § 570.204(a)(5) or document the State's or State's grant recipient's basis for an exception to the requirements of those paragraphs.
 
 (d) Records which demonstrate compliance with § 570.503(b)(7) or § 570.505 regarding any change of use of real property acquired or improved with CDBG assistance.
 
@@ -150,4 +150,4 @@ Each recipient shall establish and maintain sufficient records to enable the Sec
 
 (j) Records required to be maintained in accordance with other applicable laws and regulations set forth in subpart K of this part.
 
-(Approved by the Office of Management and Budget under control number 2506-0077)[53 FR 34454, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 60 FR 1916, 1953, Jan. 5, 1995; 60 FR 56915, Nov. 9, 1995; 61 FR 18674, Apr. 29, 1996; 64 FR 38813, July 19, 1999; 70 FR 76370, Dec. 23, 2005; 80 FR 42368, July 16, 2015; 80 FR 69873, Nov. 12, 2015]
+(Approved by the Office of Management and Budget under control number 2506-0077)[53 FR 34454, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 60 FR 1916, 1953, Jan. 5, 1995; 60 FR 56915, Nov. 9, 1995; 61 FR 18674, Apr. 29, 1996; 64 FR 38813, July 19, 1999; 70 FR 76370, Dec. 23, 2005; 80 FR 42368, July 16, 2015; 80 FR 69873, Nov. 12, 2015; 81 FR 92637, Dec. 20, 2016]

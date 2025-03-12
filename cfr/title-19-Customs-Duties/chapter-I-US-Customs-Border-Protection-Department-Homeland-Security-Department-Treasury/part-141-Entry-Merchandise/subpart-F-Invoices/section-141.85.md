@@ -22,7 +22,7 @@ The prices, or in the case of consigned goods the values, given below are true a
 
 (e) Knowledge of the market in the United States (if U.S. Value) (\_) \_\_\_\_\_\_.
 
-(f) Advices of the Port Director (\_) \_\_\_\_\_\_.
+(f) Advice by CBP (\_) \_\_\_\_\_\_.
 
 (g) Other (\_) \_\_\_\_\_\_.
 
@@ -47,6 +47,6 @@ Check which of the charges below are, and which are not included in the prices l
 
 Country of origin \_\_\_\_\_\_\_\_\_\_\_\_.
 
-If any other invoice is received, I will immediately file it with the Port Director.
+If any other invoice is received, I will immediately file it with an authorized CBP officer.
 
 (Signature of personmaking invoice)(Title and firm name)Date[T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 85-39, 50 FR 9612, Mar. 11, 1985]

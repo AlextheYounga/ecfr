@@ -1,6 +1,6 @@
 ##### § 142.17 One entry summary for multiple entries. #####
 
-(a) *Requirements.* Except as provided in paragraph (b) of this section, the port director may permit the filing of one entry summary for merchandise the subject of separate entries if:
+(a) *Requirements.* Except as provided in paragraph (b) of this section, the Center director may permit the filing of one entry summary for merchandise the subject of separate entries if:
 
 (1) The merchandise has the same country of exportation, and the same country of origin,
 

@@ -1,5 +1,7 @@
 ##### § 73.14 Incident response. #####
 
+Link to an amendment published at 82 FR 6293, January 19, 2017.
+
 (a) An individual or entity required to register under this part must develop and implement a written incident response plan based upon a site specific risk assessment.2 The incident response plan must be coordinated with any entity-wide plans, kept in the workplace, and available to employees for review.
 
 2 Nothing in this section is meant to supersede or preempt incident response requirements imposed by other statutes or regulations.

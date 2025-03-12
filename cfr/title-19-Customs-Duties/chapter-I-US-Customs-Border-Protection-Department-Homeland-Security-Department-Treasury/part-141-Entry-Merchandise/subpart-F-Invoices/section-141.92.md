@@ -1,6 +1,6 @@
 ##### § 141.92 Waiver of invoice requirements. #####
 
-(a) *When waiver may be granted.* The port director may waive production of a required invoice when he is satisfied that either:
+(a) *When waiver may be granted.* CBP may waive production of a required invoice when he is satisfied that either:
 
 (1) The importer cannot by reason of conditions beyond his control furnish a complete and accurate invoice; or
 
@@ -14,7 +14,7 @@
 
 (3) An executed pro forma invoice in accordance with § 141.85; and
 
-(4) Any other information required by the port director for either appraisement or classification of the merchandise, or for statistical purposes.
+(4) Any other information required by the Center director for either appraisement or classification of the merchandise, or for statistical purposes.
 
 (c) *Satisfaction of bond liability.* The liability under the bond on Customs Form 301, containing the bond conditions set forth in § 113.62 of this chapter for the production of a correct invoice shall be deemed satisfied when a waiver has been granted pursuant to this section.
 

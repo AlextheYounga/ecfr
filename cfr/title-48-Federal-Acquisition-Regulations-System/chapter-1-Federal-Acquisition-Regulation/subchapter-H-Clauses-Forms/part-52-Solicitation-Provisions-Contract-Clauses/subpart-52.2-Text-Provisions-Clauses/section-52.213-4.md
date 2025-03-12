@@ -1,7 +1,5 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 81 FR 93480, December 20, 2016.Link to an amendment published at 82 FR 4723, Jan. 13, 2017.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JAN 2017)
@@ -10,17 +8,19 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (1) The clauses listed below implement provisions of law or Executive order:
 
-(i) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
+(i) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-(ii) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+(ii) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-(iii) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+(iii) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(iv) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+(iv) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
 
-(v) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+(v) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-(vi) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77, 108-78 (19 U.S.C. 3805 note).
+(vi) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(vii) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Pub. L. 108-77, 108-78 (19 U.S.C. 3805 note).
 
 (2) Listed below are additional clauses that apply:
 

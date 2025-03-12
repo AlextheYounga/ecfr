@@ -1,6 +1,6 @@
 ##### § 10.2011 Filing procedures. #####
 
-(a) *Place of filing.* A post-importation claim for a refund must be filed with the director of the port at which the entry covering the good was filed. The post-importation claim may be filed by paper or by the method specified for equivalent reporting via an authorized electronic data interchange system.
+(a) *Place of filing.* A post-importation claim for a refund must be filed with CBP, either at the port of entry or electronically. The post-importation claim may be filed by paper or by the method specified for equivalent reporting via an authorized electronic data interchange system.
 
 (b) *Contents of claim.* A post-importation claim for a refund must be filed by presentation of the following:
 

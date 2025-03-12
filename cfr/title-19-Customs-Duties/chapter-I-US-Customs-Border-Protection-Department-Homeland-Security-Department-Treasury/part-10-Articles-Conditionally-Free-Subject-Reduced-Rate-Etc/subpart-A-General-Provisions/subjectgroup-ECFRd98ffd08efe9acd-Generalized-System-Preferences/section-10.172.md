@@ -1,5 +1,5 @@
 ##### § 10.172 Claim for exemption from duty under the Generalized System of Preferences. #####
 
-A claim for an exemption from duty on the ground that the Generalized System of Preferences applies shall be allowed by the port director only if he is satisfied that the requirements set forth in this section and §§ 10.173 through 10.178 have been met. If duty-free treatment is claimed at the time of entry, a written claim shall be filed on the entry document by placing the symbol “A” as a prefix to the subheading of the Harmonized Tariff Schedule of the United States for each article for which such treatment is claimed.
+A claim for an exemption from duty on the ground that the Generalized System of Preferences applies shall be allowed by the Center director only if he is satisfied that the requirements set forth in this section and §§ 10.173 through 10.178 have been met. If duty-free treatment is claimed at the time of entry, a written claim shall be filed on the entry document by placing the symbol “A” as a prefix to the subheading of the Harmonized Tariff Schedule of the United States for each article for which such treatment is claimed.
 
 [T.D. 76-2, 40 FR 60048, Dec. 31, 1975, as amended by T.D. 77-36, 42 FR 5041, Jan. 27, 1977; T.D. 89-1, 53 FR 51252, Dec. 21, 1988; T.D. 94-47, 59 FR 25569, May 17, 1994; T.D. 99-27, 64 FR 13675, Mar. 22, 1999]

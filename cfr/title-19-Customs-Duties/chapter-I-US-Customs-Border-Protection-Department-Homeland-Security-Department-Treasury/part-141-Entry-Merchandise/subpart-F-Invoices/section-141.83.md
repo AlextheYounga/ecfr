@@ -4,7 +4,7 @@
 
 (c) *Commercial invoice.* (1) A commercial invoice shall be filed for each shipment of merchandise not exempted by paragraph (d) of this section. The commercial invoice shall be prepared in the manner customary in the trade, contain the information required by §§ 141.86 through 141.89, and substantiate the statistical information required by § 141.61(e) to be given on the entry, entry summary, or withdrawal documentation.
 
-(2) The port director may accept a copy of a required commercial invoice in place of the original. A copy, other than a photostatic or photographic copy, shall contain a declaration by the foreign seller, the shipper, or the importer that it is a true copy.
+(2) CBP may accept a copy of a required commercial invoice in place of the original. A copy, other than a photostatic or photographic copy, shall contain a declaration by the foreign seller, the shipper, or the importer that it is a true copy.
 
 (d) *Commercial invoice not required.* A commercial invoice shall not be required in connection with the filing of the entry, entry summary, or withdrawal documentation for merchandise listed in this paragraph. The importer, however, shall present any invoice, memorandum invoice, or bill pertaining to the merchandise which may be in his possession or available to him. If no invoice or bill is available, a pro forma (or substitute) invoice, as provided for in § 141.85, shall be filed, and shall contain information adequate for the examination of merchandise and the determination of duties, and information and documentation which verify the information required for statistical purposes by § 141.61(e). The merchandise subject to the foregoing requirements is as follows:
 
@@ -36,4 +36,4 @@
 
 (15) Screenings contained in bulk importations of grain or seeds.
 
-[T.D. 73-175, 38 FR 17447, July 2, 1973]Editorial Note:For Federal Register citations affecting § 141.83, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 73-175, 38 FR 17447, July 2, 1973]Editorial Note:For Federal Register citations affecting § 141.83, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

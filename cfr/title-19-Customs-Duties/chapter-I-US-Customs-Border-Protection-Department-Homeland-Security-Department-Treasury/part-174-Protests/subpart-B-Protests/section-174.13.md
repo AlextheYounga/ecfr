@@ -20,8 +20,8 @@
 
 (9) A declaration, to the best of the protestant's knowledge, as to whether the entry is the subject of drawback, or whether the entry has been referenced on a certificate of delivery or certificate of manufacture and delivery so as to enable a party to make such entry the subject of drawback (see §§ 181.50(b) and 191.81(b) of this chapter).
 
-(b) *Multiple entries.* A single protest may be filed with respect to more than one entry at any port if all such entries involve the same protesting party, and if the same category of merchandise and a decision or decisions common to all entries are the subject of the protest. In such circumstances, the entry numbers, dates of entry, and dates of liquidation of all such entries should be set forth as an attachment to the protest.
+(b) *Multiple entries.* A single protest may be filed with respect to more than one entry with CBP, either at any port or electronically if all such entries involve the same protesting party, and if the same category of merchandise and a decision or decisions common to all entries are the subject of the protest. In such circumstances, the entry numbers, dates of entry, and dates of liquidation of all such entries should be set forth as an attachment to the protest.
 
-(c) *Optional designation for refunds.* If desired by the importer/consignee the statement “any refunds with respect to the entry under protest shall be mailed to the importer/consignee in care of \_\_\_\_\_\_\_\_\_\_\_\_”
+(c) *Optional designation for refunds.* If desired by the importer/consignee the statement “any refunds with respect to the entry under protest shall be mailed to the importer/consignee in care of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_”
 
 (Name and Address of Agent)may be appended to the protest. This designation supersedes any existing designation previously authorized on Customs Form 4811.[T.D. 70-181, 35 FR 13429, Aug. 22, 1970, as amended by T.D. 80-271, 45 FR 75642, Nov. 17, 1980; T.D. 98-16, 63 FR 11005, Mar. 5, 1998; T.D. 99-64, 64 FR 43267, Aug. 10, 1999]

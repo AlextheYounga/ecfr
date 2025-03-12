@@ -1,6 +1,6 @@
 ##### § 10.884 Declaration. #####
 
-(a) *General.* An importer who claims preferential tariff treatment on a non-originating cotton or man-made fiber good specified in § 10.882 of this subpart must submit, at the request of the port director, a declaration supporting such a claim for preferential tariff treatment that sets forth all pertinent information concerning the production of the good, including:
+(a) *General.* An importer who claims preferential tariff treatment on a non-originating cotton or man-made fiber good specified in § 10.882 of this subpart must submit, at the request of the Center director, a declaration supporting such a claim for preferential tariff treatment that sets forth all pertinent information concerning the production of the good, including:
 
 (1) A description of the good, quantity, invoice numbers, and bills of lading;
 

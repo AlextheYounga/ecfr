@@ -6,8 +6,8 @@
 
 I, \_\_\_\_, do hereby declare that I am the producer, seller, shipper or importer of certain works of art, namely \_\_\_\_ covered by the annexed invoice dated \_\_\_\_; that any sculptures or statuary included in that invoice are the original works or models or one of the first twelve castings, replicas, or reproductions made from the sculptor's original work or model; and that any etchings, engravings, woodcuts, lithographs, or prints made by other hand-transfer processes included in that invoice were printed by hand from hand-etched, hand-drawn, or hand-engraved plates, stones, or blocks.
 
-(c) The port director may waive the declaration requirement set forth in paragraph (b) of this section.
+(c) The Center director may waive the declaration requirement set forth in paragraph (b) of this section.
 
-(d) Artists' proof etchings, engravings, woodcuts, lithographs, or prints made by other hand-transfer processes should bear the genuine signature or mark of the artist as evidence of their authenticity. In the absence of such a signature or mark, other evidence shall be required which will establish the authenticity of the work to the satisfaction of the port director.
+(d) Artists' proof etchings, engravings, woodcuts, lithographs, or prints made by other hand-transfer processes should bear the genuine signature or mark of the artist as evidence of their authenticity. In the absence of such a signature or mark, other evidence shall be required which will establish the authenticity of the work to the satisfaction of the Center director.
 
 [T.D. 94-3, 58 FR 68742, Dec. 29, 1993, as amended by CBP Dec. 15-14, 80 FR 61284, Oct. 13, 2015]

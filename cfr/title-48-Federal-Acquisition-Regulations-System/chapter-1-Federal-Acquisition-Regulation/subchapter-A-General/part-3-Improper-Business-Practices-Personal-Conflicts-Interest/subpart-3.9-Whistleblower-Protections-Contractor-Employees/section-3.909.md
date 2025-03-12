@@ -1,3 +1,1 @@
-##### 3.909 Contract clause. #####
-
-Link to an amendment published at 82 FR 4721, Jan. 13, 2017.
+##### 3.909 Prohibition on providing funds to an entity that requires certain internal confidentiality agreements or statements. #####

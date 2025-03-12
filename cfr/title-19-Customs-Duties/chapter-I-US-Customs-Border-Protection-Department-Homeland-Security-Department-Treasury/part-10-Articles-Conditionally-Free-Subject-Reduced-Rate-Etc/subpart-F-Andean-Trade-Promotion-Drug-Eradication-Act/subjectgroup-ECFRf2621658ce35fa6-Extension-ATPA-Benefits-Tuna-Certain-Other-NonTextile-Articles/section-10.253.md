@@ -24,11 +24,11 @@
 
 (i) Remained under the control of the customs authority of the intermediate country;
 
-(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the port director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
+(ii) Did not enter into the commerce of the intermediate country except for the purpose of sale other than at retail, and the Center director is satisfied that the importation results from the original commercial transaction between the importer and the producer or the producer's sales agent; and
 
 (iii) Were not subjected to operations other than loading or unloading, and other activities necessary to preserve the articles in good condition.
 
-(c) *Country of origin criteria* - (1) *General.* Except as otherwise provided in paragraph (c)(2) of this section, an article described in paragraph (a)(2) of this section may be eligible for preferential treatment if the article is either:
+(c) *Country of origin criteria*—(1) *General.* Except as otherwise provided in paragraph (c)(2) of this section, an article described in paragraph (a)(2) of this section may be eligible for preferential treatment if the article is either:
 
 (i) Wholly the growth, product, or manufacture of an ATPDEA beneficiary country; or
 
@@ -36,13 +36,13 @@
 
 (2) *Exceptions.* No article will be eligible for preferential treatment by virtue of having merely undergone simple (as opposed to complex or meaningful) combining or packaging operations, or mere dilution with water or mere dilution with another substance that does not materially alter the characteristics of the article. The principles and examples set forth in § 10.195(a)(2) will apply equally for purposes of this paragraph.
 
-(d) *Value content requirement* - (1) *General.* An article may be eligible for preferential treatment only if the sum of the cost or value of the materials produced in an ATPDEA beneficiary country or countries, plus the direct costs of processing operations performed in an ATPDEA beneficiary country or countries, is not less than 35 percent of the appraised value of the article at the time it is entered.
+(d) *Value content requirement*—(1) *General.* An article may be eligible for preferential treatment only if the sum of the cost or value of the materials produced in an ATPDEA beneficiary country or countries, plus the direct costs of processing operations performed in an ATPDEA beneficiary country or countries, is not less than 35 percent of the appraised value of the article at the time it is entered.
 
 (2) *Commonwealth of Puerto Rico, U.S. Virgin Islands and CBI beneficiary countries.* For the specific purpose of determining the percentage referred to in paragraph (d)(1) of this section, the term “ATPDEA beneficiary country” includes the Commonwealth of Puerto Rico, the U.S. Virgin Islands, and any CBI beneficiary country as defined in § 10.191(b)(1). Any cost or value of materials or direct costs of processing operations attributable to the Virgin Islands or any CBI beneficiary country must be included in the article prior to its final exportation to the United States from an ATPDEA beneficiary country as defined in § 10.252.
 
 (3) *Materials produced in the United States.* For purposes of determining the percentage referred to in paragraph (d)(1) of this section, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered may be attributed to the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico). The principles set forth in paragraph (d)(4)(i) of this section will apply in determining whether a material is “produced in the customs territory of the United States” for purposes of this paragraph.
 
-(4) *Cost or value of materials* - (i) *“Materials produced in an ATPDEA beneficiary country or countries” defined.* For purposes of paragraph (d)(1) of this section, the words “materials produced in an ATPDEA beneficiary country or countries” refer to those materials incorporated in an article which are either:
+(4) *Cost or value of materials*—(i) *“Materials produced in an ATPDEA beneficiary country or countries” defined.* For purposes of paragraph (d)(1) of this section, the words “materials produced in an ATPDEA beneficiary country or countries” refer to those materials incorporated in an article which are either:
 
 (A) Wholly the growth, product, or manufacture of an ATPDEA beneficiary country or two or more ATPDEA beneficiary countries; or
 
@@ -68,7 +68,7 @@
 
 (*3*) Freight, insurance, packing, and all other costs incurred in transporting the material to the manufacturer's plant.
 
-(5) *Direct costs of processing operations* - (i) *Items included.* For purposes of paragraph (d)(1) of this section, the words “direct costs of processing operations” mean those costs either directly incurred in, or which can be reasonably allocated to, the growth, production, manufacture, or assembly of the specific merchandise under consideration. Those costs include, but are not limited to the following, to the extent that they are includable in the appraised value of the imported merchandise:
+(5) *Direct costs of processing operations*—(i) *Items included.* For purposes of paragraph (d)(1) of this section, the words “direct costs of processing operations” mean those costs either directly incurred in, or which can be reasonably allocated to, the growth, production, manufacture, or assembly of the specific merchandise under consideration. Those costs include, but are not limited to the following, to the extent that they are includable in the appraised value of the imported merchandise:
 
 (A) All actual labor costs involved in the growth, production, manufacture, or assembly of the specific merchandise, including fringe benefits, on-the-job training, and the cost of engineering, supervisory, quality control, and similar personnel;
 

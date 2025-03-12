@@ -1,5 +1,7 @@
 ##### § 73.5 Exemptions for HHS select agents and toxins. #####
 
+Link to an amendment published at 82 FR 6292, January 19, 2017.
+
 (a) Clinical or diagnostic laboratories and other entities that possess, use, or transfer a HHS select agent or toxin that is contained in a specimen presented for diagnosis or verification will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
 (1) Unless directed otherwise by the HHS Secretary, within seven calendar days after identification, the select agent or toxin is transferred in accordance with § 73.16 or destroyed on-site by a recognized sterilization or inactivation process,

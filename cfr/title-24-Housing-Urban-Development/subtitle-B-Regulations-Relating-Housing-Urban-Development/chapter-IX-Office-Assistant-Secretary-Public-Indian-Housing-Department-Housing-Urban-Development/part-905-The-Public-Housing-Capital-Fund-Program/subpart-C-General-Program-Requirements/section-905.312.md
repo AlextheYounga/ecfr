@@ -1,7 +1,5 @@
 ##### § 905.312 Design and construction. #####
 
-Link to an amendment published at 81 FR 92639, December 20, 2016.
-
 The PHA shall meet the following design and construction standards, as applicable, for all development and modernization.
 
 (a) Physical structures shall be designed, constructed, and equipped to be consistent with the neighborhoods they occupy; meet contemporary standards of modest design, comfort, and livability (see also § 905.202(c) of this part); promote security; promote energy conservation; and be attractive so as to harmonize with the community.
@@ -27,3 +25,13 @@ The PHA shall meet the following design and construction standards, as applicabl
 (3) Cost-effective energy conservation measures, identified in the PHA's most recently updated energy audit.
 
 (d) Pursuant to the Energy Policy Act of 2005, in purchasing appliances, PHAs shall purchase appliances that are Energy Star products or Federal Energy Management Program designed products, unless the PHA determines that the purchase of these appliances is not cost effective.
+
+(e) *Broadband infrastructure.* Any new construction or substantial rehabilitation, as substantial rehabilitation is defined in 24 CFR 5.100, of a building with more than 4 rental units and funded by a grant awarded or Capital Funds allocated after January 19, 2017 must include installation of broadband infrastructure, as this term is also defined in 24 CFR 5.100, except where the PHA determines and, in accordance with § 905.326, documents the determination that:
+
+(1) The location of the new construction or substantial rehabilitation makes installation of broadband infrastructure infeasible;
+
+(2) The cost of installing broadband infrastructure would result in a fundamental alteration in the nature of its program or activity or in an undue financial burden; or
+
+(3) The structure of the housing to be rehabilitated makes installation of broadband infrastructure infeasible.
+
+[78 FR 63773, Oct. 24, 2013, as amended at 81 FR 92639, Dec. 20, 2016]

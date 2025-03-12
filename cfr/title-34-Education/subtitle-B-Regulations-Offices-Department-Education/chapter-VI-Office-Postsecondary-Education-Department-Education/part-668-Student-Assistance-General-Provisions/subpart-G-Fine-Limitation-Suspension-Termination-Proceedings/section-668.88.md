@@ -1,25 +1,33 @@
-##### § 668.88 Hearing. #####
+##### § 668.88 Prehearing conference and motion practice. #####
 
-(a) A hearing is an orderly presentation of arguments and evidence conducted by a hearing official.
+(a) A hearing official may convene a prehearing conference if he or she thinks that the conference would be useful, or if the conference is requested by—
 
-(b) If the hearing official, the designated department official who brought a proceeding against an institution or third-party servicer under this subpart, and the institution or servicer, as applicable, agree, the hearing process may be expedited. Procedures to expedite the hearing process may include, but are not limited to, the following -
+(1) The designated department official who brought a proceeding against an institution or third-party servicer under this subpart; or
 
-(1) A restriction on the number or length of submissions;
+(2) The institution or servicer, as applicable.
 
-(2) The conduct of the hearing by telephone conference call;
+(b) The purpose of a prehearing conference is to allow the parties to settle or narrow the dispute.
 
-(3) A stipulation by the parties to facts and legal authorities not in dispute; or
+(c) If the hearing official, the designated department official, and the institution, or servicer, as applicable, agree, a prehearing conference may consist of—
 
-(4) A review limited to the written record.
+(1) A conference telephone call;
 
-(c)(1) The formal rules of evidence and procedures applicable to proceedings in a court of law are not applicable. However, discussions of settlement between the parties or the terms of settlement offers are not admissible.
+(2) An informal meeting; or
 
-(2) The designated department official has the burden of persuasion in any fine, suspension, limitation or termination proceeding under this subpart.
+(3) The submission and exchange of written material.
 
-(3) Discovery, as provided for under the Federal Rules of Civil Procedure, is not permitted.
+(d) A non-dispositive motion shall be made, if at all, consistent with any procedures set forth by the hearing official. In the absence of such procedures, non-dispositive motions shall be permitted, and responses to such motions shall be permitted though not required.
 
-(4) The hearing official accepts only evidence that is relevant and material to the proceeding and is not unduly repetitious.
+(e)(1) A party may make a motion for summary disposition asserting that the undisputed facts, admissions, affidavits, stipulations, documentary evidence, matters as to which official notice may be taken, and any other evidentiary materials properly submitted in connection with a motion for summary disposition establish that—
 
-(d) The designated department official makes a transcribed record of the proceeding and makes one copy of the record available to the institution or servicer.
+(i) There is no genuine issue as to any material fact; and
 
-(Authority: 20 U.S.C. 1094)[51 FR 43325, Dec. 1, 1986, as amended at 57 FR 47753, 47754, Oct. 19, 1992; 57 FR 60034, Dec. 17, 1992; 59 FR 22448, Apr. 29, 1994]
+(ii) The moving party is entitled to a decision in its favor as a matter of law.
+
+(2) A motion for summary disposition must be accompanied by a statement of the material facts as to which the moving party contends there is no genuine issue. Such motion must be supported by evidence that the moving party contends support his or her position. The motion must be accompanied by a brief containing the points and authorities supporting the motion.
+
+Any party may oppose such a motion by filing a response setting forth those material facts as to which he or she contends a genuine dispute exists. Such response must be supported by evidence of the same type as may be submitted in support of a motion for summary disposition and a brief containing the points and authorities in support of the contention that summary disposition would be inappropriate.
+
+(f) A motion under consideration by the Secretary or the hearing official shall not stay proceedings before the hearing official unless the Secretary or the hearing official, as appropriate, so orders.
+
+(Authority: 20 U.S.C. 1094)[82 FR 6258, Jan. 19, 2017]

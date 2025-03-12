@@ -2,7 +2,7 @@
 
 (a) *Maintenance of records.* Each importer claiming preferential tariff treatment for an article under § 10.235 must maintain in the United States, in accordance with the provisions of part 163 of this chapter, all records relating to the importation of the article. Those records must include the original Certificate of Origin referred to in § 10.235(a) and any other relevant documents or other records as specified in § 163.1(a) of this chapter.
 
-(b) *Submission of Certificate.* An importer who claims preferential tariff treatment on an article under § 10.235(a) must provide, at the request of the port director, a copy of the Certificate of Origin pertaining to the article. A Certificate of Origin submitted to CBP under this paragraph:
+(b) *Submission of Certificate.* An importer who claims preferential tariff treatment on an article under § 10.235(a) must provide, at the request of the Center director, a copy of the Certificate of Origin pertaining to the article. A Certificate of Origin submitted to CBP under this paragraph:
 
 (1) Must be on CBP Form 450, including privately-printed copies of that Form, or, as an alternative to CBP Form 450, in an approved computerized format or other medium or format as is approved by the Office of International Trade, U.S. Customs and Border Protection, Washington, DC 20229. An alternative format must contain the same information and certification set forth on CBP Form 450;
 
@@ -16,15 +16,15 @@
 
 (ii) Multiple importations of identical articles into the United States that occur within a specified period, not to exceed 12 months, set out in the Certificate by the exporter.
 
-(c) *Correction and nonacceptance of Certificate.* If the port director determines that a Certificate of Origin is illegible or defective or has not been completed in accordance with paragraph (b) of this section, the importer will be given a period of not less than five working days to submit a corrected Certificate. A Certificate will not be accepted in connection with subsequent importations during a period referred to in paragraph (b)(4)(ii) of this section if the port director determined that a previously imported identical article covered by the Certificate did not qualify for preferential treatment.
+(c) *Correction and nonacceptance of Certificate.* If the Center director determines that a Certificate of Origin is illegible or defective or has not been completed in accordance with paragraph (b) of this section, the importer will be given a period of not less than five working days to submit a corrected Certificate. A Certificate will not be accepted in connection with subsequent importations during a period referred to in paragraph (b)(4)(ii) of this section if the Center director determined that a previously imported identical article covered by the Certificate did not qualify for preferential treatment.
 
-(d) *Certificate not required* - (1) *General.* Except as otherwise provided in paragraph (d)(2) of this section, an importer is not required to have a Certificate of Origin in his possession for:
+(d) *Certificate not required*—(1) *General.* Except as otherwise provided in paragraph (d)(2) of this section, an importer is not required to have a Certificate of Origin in his possession for:
 
-(i) An importation of an article for which the port director has in writing waived the requirement for a Certificate of Origin because the port director is otherwise satisfied that the article qualifies for preferential tariff treatment;
+(i) An importation of an article for which the Center director has in writing waived the requirement for a Certificate of Origin because the Center director is otherwise satisfied that the article qualifies for preferential tariff treatment;
 
 (ii) A non-commercial importation of an article; or
 
-(iii) A commercial importation of an article whose value does not exceed US$2,500, provided that, unless waived by the port director, the producer, exporter, importer or authorized agent includes on, or attaches to, the invoice or other document accompanying the shipment the following signed statement:
+(iii) A commercial importation of an article whose value does not exceed US$2,500, provided that, unless waived by the Center director, the producer, exporter, importer or authorized agent includes on, or attaches to, the invoice or other document accompanying the shipment the following signed statement:
 
 I hereby certify that the article covered by this shipment qualifies for preferential tariff treatment under the CBTPA.
 
@@ -32,4 +32,4 @@ Check One:
 
 ( ) Producer( ) Exporter( ) Importer( ) AgentNameTitleAddressSignature and Date
 
-(2) *Exception.* If the port director determines that an importation described in paragraph (d)(1) of this section forms part of a series of importations that may reasonably be considered to have been undertaken or arranged for the purpose of avoiding a Certificate of Origin requirement under §§ 10.234 through 10.236, the port director will notify the importer in writing that for that importation the importer must have in his possession a valid Certificate of Origin to support the claim for preferential tariff treatment. The importer will have 30 calendar days from the date of the written notice to obtain a valid Certificate of Origin, and a failure to timely obtain the Certificate of Origin will result in denial of the claim for preferential tariff treatment. For purposes of this paragraph, a “series of importations” means two or more entries covering articles arriving on the same day from the same exporter and consigned to the same person.
+(2) *Exception.* If the Center director determines that an importation described in paragraph (d)(1) of this section forms part of a series of importations that may reasonably be considered to have been undertaken or arranged for the purpose of avoiding a Certificate of Origin requirement under §§ 10.234 through 10.236, the Center director will notify the importer in writing that for that importation the importer must have in his possession a valid Certificate of Origin to support the claim for preferential tariff treatment. The importer will have 30 calendar days from the date of the written notice to obtain a valid Certificate of Origin, and a failure to timely obtain the Certificate of Origin will result in denial of the claim for preferential tariff treatment. For purposes of this paragraph, a “series of importations” means two or more entries covering articles arriving on the same day from the same exporter and consigned to the same person.

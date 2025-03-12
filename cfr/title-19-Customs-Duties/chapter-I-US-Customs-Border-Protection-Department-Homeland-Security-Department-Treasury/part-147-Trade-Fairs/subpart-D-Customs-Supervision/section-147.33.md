@@ -1,5 +1,5 @@
 ##### § 147.33 Reimbursement by fair operator. #####
 
-Link to an amendment published at 81 FR 93021, December 20, 2016.
+All actual and necessary charges for labor, services, and other expenses in connection with the entry, examination, appraisement, custody, abandonment, destruction, or release of articles entered under the regulations of this part, together with the necessary charges for salaries of Customs officers and employees in connection with the accounting for, custody of, and supervision over, such articles, shall be reimbursed by the fair operator to the Government, payment to be made to CBP, either at the port of entry or electronically, on the port director's or Center director's demand made before January 19, 2017 or on the Center director's demand made on or after January 19, 2017, for deposit to the appropriation from which paid.
 
-All actual and necessary charges for labor, services, and other expenses in connection with the entry, examination, appraisement, custody, abandonment, destruction, or release of articles entered under the regulations of this part, together with the necessary charges for salaries of Customs officers and employees in connection with the accounting for, custody of, and supervision over, such articles, shall be reimbursed by the fair operator to the Government, payment to be made on demand to the port director for deposit to the appropriation from which paid.
+[CBP Dec. No. 16-26, 81 FR 93021, Dec. 20, 2016]

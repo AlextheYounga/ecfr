@@ -1,8 +1,6 @@
 ##### § 10.864 Declaration. #####
 
-Link to an amendment published at 81 FR 93014, Dec. 20, 2016.
-
-(a) *Contents.* An importer who claims preferential tariff treatment for a good under the OFTA must submit to CBP, at the request of the port director, a declaration setting forth all pertinent information concerning the growth, production, or manufacture of the good. A declaration submitted to CBP under this paragraph:
+(a) *Contents.* An importer who claims preferential tariff treatment for a good under the OFTA must submit, at the request of the Center director, a declaration setting forth all pertinent information concerning the growth, production, or manufacture of the good. A declaration submitted under this paragraph:
 
 (1) Need not be in a prescribed format but must be in writing or must be transmitted electronically pursuant to any electronic means authorized by CBP for that purpose;
 
@@ -45,3 +43,5 @@ This document consists of \_\_\_ pages, including all attachments.”
 (1) A single importation of a good into the United States, including a single shipment that results in the filing of one or more entries and a series of shipments that results in the filing of one entry; or
 
 (2) Multiple importations of identical goods into the United States that occur within a specified blanket period, not exceeding 12 months, set out in the declaration. For purposes of this paragraph, “identical goods” means goods that are the same in all respects relevant to the production that qualifies the goods for preferential tariff treatment.
+
+[CBP Dec. 11-01, 76 FR 701, Jan. 6, 2011, as amended by CBP Dec. 16-26, 81 FR 93014, Dec. 20, 2016]

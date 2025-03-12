@@ -1,5 +1,7 @@
 ##### § 121.5 Exemptions for VS select agents and toxins. #####
 
+Link to an amendment published at 82 FR 6208, Jan. 19, 2017.
+
 (a) Diagnostic laboratories and other entities that possess, use, or transfer a VS select agent or toxin that is contained in a specimen presented for diagnosis or verification will be exempt from the requirements of this part for such agent or toxin contained in the specimen, provided that:
 
 (1) Unless directed otherwise by the Administrator, within 7 calendar days after identification, the agent or toxin is transferred in accordance with § 121.16 or destroyed on-site by a recognized sterilization or inactivation process;

@@ -1,5 +1,7 @@
 ##### § 14.628 Recognition of organizations. #####
 
+Link to an amendment published at 82 FR 6272, January 19, 2017.
+
 Authorized officers of an organization may request recognition by letter to the Secretary of Veterans Affairs.
 
 (a) *National organization.* An organization may be recognized as a national organization if:

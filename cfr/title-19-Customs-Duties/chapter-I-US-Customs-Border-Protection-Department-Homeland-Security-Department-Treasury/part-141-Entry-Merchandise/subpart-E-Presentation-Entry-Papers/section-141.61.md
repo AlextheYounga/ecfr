@@ -36,17 +36,17 @@
 
 (C) The charges (aggregate cost of freight, insurance and all other charges), must be listed on CBP Form 7501 in column 33. The charges must be listed on CBP Form 7519, or its electronic equivalent in the rate column.
 
-(2) *Responsibility.* The person filing the form is responsible for providing the information required by paragraph (e)(1) of this section. If the information required by subparagraph General Statistical Note 1(a)(xiv)(xvii), HTSUS, cannot be obtained readily, the person filing the form must provide reasonable estimates of the required information. The acceptance of an estimate for a particular transaction does not relieve the person filing the form from obtaining the necessary information for similar future transactions. The port director may require additional documentation to substantiate the statistical information required by paragraph (e)(1) of this section. The importer must give an appropriate bond for the production of the required documentation, as follows:
+(2) *Responsibility.* The person filing the form is responsible for providing the information required by paragraph (e)(1) of this section. If the information required by subparagraph General Statistical Note 1(a)(xiv)(xvii), HTSUS, cannot be obtained readily, the person filing the form must provide reasonable estimates of the required information. The acceptance of an estimate for a particular transaction does not relieve the person filing the form from obtaining the necessary information for similar future transactions. The Center director may require additional documentation to substantiate the statistical information required by paragraph (e)(1) of this section. The importer must give an appropriate bond for the production of the required documentation, as follows:
 
 (i) Except for merchandise entered for warehouse, the documentation must be produced within 50 days after the entry summary (or the entry, if there is no entry summary) is required to be filed.
 
 (ii) If merchandise is entered for warehouse, the documentation must be produced within 2 months after the date of withdrawal, except that if an invoice is part of the documentation, the invoice must be produced within 50 days after the entry summary for warehouse is required to be filed.
 
-The port director may grant a reasonable extension of time to produce the required documentation for good cause shown. (See § 141.91(d) for bond requirements relating to failure to produce an invoice.)
+The Center director may grant a reasonable extension of time to produce the required documentation for good cause shown. (See § 141.91(d) for bond requirements relating to failure to produce an invoice.)
 
 (3) *Estimates of statistical information.* When the person filing the form estimates any of the values or charges, as provided for in General Statistical Note 1(b)(ii), HTSUS, except Canadian rail and truck charges, he must place either “(estimate)”, “(est)”, or (“E”) after the amount of each value or charge.
 
-(4) *Rejection of form.* The port director will reject a form for failure to provide required statistical information if the information is omitted or if the information provided clearly appears on its face, or is known to the CBP officer, to be erroneous.
+(4) *Rejection of form.* The Center director will reject a form for failure to provide required statistical information if the information is omitted or if the information provided clearly appears on its face, or is known to the CBP officer, to be erroneous.
 
 (5) *Penalty procedures; when not invoked.* Penalty procedures relating to erroneous statistical information will not be invoked against any person who in good faith attempts to comply with the statistical requirements of the General Statistical Note, HTSUS.
 

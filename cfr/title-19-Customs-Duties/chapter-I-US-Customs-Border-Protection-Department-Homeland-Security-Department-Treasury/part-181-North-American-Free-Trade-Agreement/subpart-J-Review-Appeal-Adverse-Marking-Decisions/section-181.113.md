@@ -1,6 +1,6 @@
 ##### § 181.113 Request for basis of adverse marking decision. #####
 
-(a) *Request; form and filing.* The exporter or producer of the merchandise which is the subject of an adverse marking decision may request a statement concerning the basis for the decision by filing a typewritten request, in English, with the port director who issued the decision. The request should be on letterhead paper in the form of a letter and clearly designated as a “Request for Basis of Adverse Marking Decision” and shall be signed by the exporter, producer or his authorized agent. The provisions of § 174.3 of this chapter shall apply for purposes of signature by a person other than the principal.
+(a) *Request; form and filing.* The exporter or producer of the merchandise which is the subject of an adverse marking decision may request a statement concerning the basis for the decision by filing a typewritten request, in English, with CBP, either at the port of entry or electronically. The request should be on letterhead paper in the form of a letter and clearly designated as a “Request for Basis of Adverse Marking Decision” and shall be signed by the exporter, producer or his authorized agent. The provisions of § 174.3 of this chapter shall apply for purposes of signature by a person other than the principal.
 
 (b) *Content.* The Request for Basis of Adverse Marking Decision letter shall set forth the following information:
 

@@ -1,7 +1,5 @@
 ##### § 570.202 Eligible rehabilitation and preservation activities. #####
 
-Link to an amendment published at 81 FR 92636, December 20, 2016.
-
 (a) *Types of buildings and improvements eligible for rehabilitation assistance.* CDBG funds may be used to finance the rehabilitation of:
 
 (1) Privately owned buildings and improvements for residential purposes; improvements to a single-family residential property which is also used as a place of business, which are required in order to operate the business, need not be considered to be rehabilitation of a commercial or industrial building, if the improvements also provide general benefit to the residential occupants of the building;
@@ -52,4 +50,12 @@ Link to an amendment published at 81 FR 92636, December 20, 2016.
 
 (f) *Lead-based paint activities.* Lead-based paint activities pursuant to § 570.608.
 
-[53 FR 34439, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 60 FR 1944, Jan. 5, 1995; 60 FR 56911, Nov. 9, 1995; 64 FR 50225, Sept. 15, 1999; 71 FR 30035, May 24, 2006]
+(g) *Broadband infrastructure.* Any substantial rehabilitation, as substantial rehabilitation is defined by 24 CFR 5.100, of a building with more than 4 rental units, for which CDBG funds are first obligated by the recipient on or after April 19, 2017, must include installation of broadband infrastructure, as this term is also defined in 24 CFR 5.100, except where the recipient determines and, in accordance with § 570.506, documents the determination that:
+
+(1) The location of the substantial rehabilitation makes installation of broadband infrastructure infeasible;
+
+(2) The cost of installing broadband infrastructure would result in a fundamental alteration in the nature of its program or activity or in an undue financial burden; or
+
+(3) The structure of the housing to be substantially rehabilitated makes installation of broadband infrastructure infeasible.
+
+[53 FR 34439, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 60 FR 1944, Jan. 5, 1995; 60 FR 56911, Nov. 9, 1995; 64 FR 50225, Sept. 15, 1999; 71 FR 30035, May 24, 2006; 82 FR 92636, Dec. 20, 2016]

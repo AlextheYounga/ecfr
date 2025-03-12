@@ -1,6 +1,6 @@
 ##### § 141.52 Separate entries for different portions. #####
 
-If the port director is satisfied that there will be no prejudice to: Import admissibility enforcement efforts; the revenue; and the efficient conduct of Customs business, separate entries may be made for different portions of all merchandise arriving on one vessel or vehicle and consigned to one consignee under any of the following circumstances:
+If the Center director is satisfied that there will be no prejudice to: Import admissibility enforcement efforts; the revenue; and the efficient conduct of Customs business, separate entries may be made for different portions of all merchandise arriving on one vessel or vehicle and consigned to one consignee under any of the following circumstances:
 
 (a) Each portion of a consolidated shipment addressed to one consignee for various ultimate consignees may be entered separately under the procedure set forth in § 141.54.
 
@@ -18,6 +18,6 @@ If the port director is satisfied that there will be no prejudice to: Import adm
 
 (h) The consignment consists of different importations which arrived under a consolidated entry for immediate transportation made pursuant to § 18.11(g) of this chapter.
 
-(i) A special application is submitted to the Commissioner of Customs with the recommendation of the port director concerned and is approved by the Commissioner.
+(i) A special application is submitted to the Commissioner of Customs with the recommendation of the Center director concerned and is approved by the Commissioner.
 
 [T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 84-171, 49 FR 31253, Aug. 3, 1984; T.D. 84-213, 49 FR 41184, Oct. 19, 1984; T.D. 85-38, 50 FR 8723, Mar. 5, 1985]

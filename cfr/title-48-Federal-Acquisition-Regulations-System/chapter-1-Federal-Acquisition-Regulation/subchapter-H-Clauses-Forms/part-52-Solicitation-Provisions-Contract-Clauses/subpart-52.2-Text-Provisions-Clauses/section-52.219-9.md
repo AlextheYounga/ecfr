@@ -1,10 +1,8 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 81 FR 93488, December 20, 2016.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (NOV 2016)
+Small Business Subcontracting Plan (JAN 2017)
 
 (a) This clause does not apply to small business concerns.
 
@@ -24,9 +22,13 @@ Small Business Subcontracting Plan (NOV 2016)
 
 *Master subcontracting plan* means a subcontracting plan that contains all the required elements of an individual subcontracting plan, except goals, and may be incorporated into individual subcontracting plans, provided the master subcontracting plan has been approved.
 
+*Reduced payment* means a payment that is for less than the amount agreed upon in a subcontract in accordance with its terms and conditions, for supplies and services for which the Government has paid the prime contractor.
+
 *Subcontract* means any agreement (other than one involving an employer-employee relationship) entered into by a Federal Government prime Contractor or subcontractor calling for supplies or services required for performance of the contract or subcontract.
 
 *Total contract dollars* means the final anticipated dollar value, including the dollar value of all options.
+
+*Untimely payment* means a payment to a subcontractor that is more than 90 days past due under the terms and conditions of a subcontract for supplies and services for which the Government has paid the prime contractor.
 
 (d) The Offeror's subcontracting plan shall include the following:
 
@@ -187,6 +189,8 @@ Small Business Subcontracting Plan (NOV 2016)
 
 (14) Assurances that the Contractor will not prohibit a subcontractor from discussing with the Contracting Officer any material matter pertaining to payment to or utilization of a subcontractor.
 
+(15) Assurances that the offeror will pay its small business subcontractors on time and in accordance with the terms and conditions of the underlying subcontract, and notify the contracting officer when the prime contractor makes either a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
+
 (e) In order to effectively implement this plan to the extent consistent with efficient contract performance, the Contractor shall perform the following functions:
 
 (1) Assist small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns by arranging solicitations, time for the preparation of bids, quantities, specifications, and delivery schedules so as to facilitate the participation by such concerns. Where the Contractor's lists of potential small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business subcontractors are excessively long, reasonable effort shall be made to give all such small business concerns an opportunity to compete over a period of time.
@@ -273,7 +277,7 @@ Small Business Subcontracting Plan (NOV 2016)
 
 (c)(1) Proposals submitted in response to this solicitation shall include a subcontracting plan that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Offeror is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. Failure to submit and negotiate a subcontracting plan shall make the Offeror ineligible for award of a contract.
 
-*Alternate III (Nov 2016).* As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause;
+*Alternate III (JAN 2017).* As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
 
 (d)(10) Assurances that the Offeror will -
 
@@ -321,7 +325,7 @@ Small Business Subcontracting Plan (NOV 2016)
 
 (D) The authority to acknowledge or reject SSRs for commercial plans resides with the Contracting Officer who approved the commercial plan.
 
-*Alternate IV* (Nov 2016). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
+*Alternate IV* (JAN 2017). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
 
 (c)(1) The Contractor, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Contractor is submitting an individual subcontracting plan, the plan shall separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be incorporated into the contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. The subcontracting plan does not apply retroactively.
 
@@ -472,5 +476,7 @@ Small Business Subcontracting Plan (NOV 2016)
 (13) Assurances that the Contractor will provide the Contracting Officer with a written explanation if the Contractor fails to acquire articles, equipment, supplies, services or materials or obtain the performance of construction work as described in (d)(12) of this clause. This written explanation must be submitted to the Contracting Officer within 30 days of contract completion.
 
 (14) Assurances that the Contractor will not prohibit a subcontractor from discussing with the contracting officer any material matter pertaining to the payment to or utilization of a subcontractor.
+
+(15) Assurances that the offeror will pay its small business subcontractors on time and in accordance with the terms and conditions of the underlying subcontract, and notify the contracting officer when the prime contractor makes either a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
 
 [48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 52.219-9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

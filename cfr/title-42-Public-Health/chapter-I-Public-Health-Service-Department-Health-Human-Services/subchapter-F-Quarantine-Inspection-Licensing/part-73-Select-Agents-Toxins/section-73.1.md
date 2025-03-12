@@ -1,5 +1,7 @@
 ##### § 73.1 Definitions. #####
 
+Link to an amendment published at 82 FR 6290, January 19, 2017.
+
 For purposes of this part:
 
 *Administrator* means the Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.

@@ -1,18 +1,18 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 81 FR 72738, October 21, 2016.Link to an amendment published at 81 FR 93480, December 20, 2016.Link to an amendment published at 81 FR 93488, December 20, 2016.Link to an amendment published at 82 FR 4723, Jan. 13, 2017.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
 Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JAN 2017)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
-(1) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
+(1) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-(2) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+(2) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
 
-(3) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Public Laws 108-77 and 108-78 (19 U.S.C. 3805 note)).
+(3) 52.233-3, Protest After Award (AUG 1996) (31 U.S.C. 3553).
+
+(4) 52.233-4, Applicable Law for Breach of Contract Claim (OCT 2004) (Public Laws 108-77 and 108-78 (19 U.S.C. 3805 note)).
 
 (b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: [Contracting Officer check as appropriate.]
 
@@ -60,7 +60,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_\_ (16) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (Nov 2016) (15 U.S.C. 637(d)(4)).
+\_\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (JAN 2017) (15 U.S.C. 637(d)(4)).
 
 \_\_\_ (ii) Alternate I (Nov 2016) of 52.219-9.
 
@@ -142,9 +142,13 @@ By a court order issued on October 24, 2016, 52.222-59 is enjoined indefinitely 
 
 \_\_\_ (46) 52.223-21, Foams (June, 2016) (E.O. 13693).
 
-\_\_\_(47) 52.225-1, Buy American - Supplies (**MAY 2014**) (41 U.S.C. chapter 83).
+\_\_\_ (47)(i) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
-\_\_\_(48)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (**MAY 2014**) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+\_\_\_ (ii) Alternate I (JAN 2017) of 52.224-3.
+
+\_\_\_(48) 52.225-1, Buy American - Supplies (**MAY 2014**) (41 U.S.C. chapter 83).
+
+\_\_\_(49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (**MAY 2014**) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
 
 \_\_\_(ii) Alternate I (**MAY 2014**) of 52.225-3.
 
@@ -152,29 +156,29 @@ By a court order issued on October 24, 2016, 52.222-59 is enjoined indefinitely 
 
 \_\_\_(iv) Alternate III (**MAY 2014**) of 52.225-3.
 
-\_ (49) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note). (49) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
+\_ (50) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note). (49) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
-\_\_\_(50) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+\_\_\_(51) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-\_ (51) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+\_ (52) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
-\_\_\_(52) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (NOV 2007) (42 U.S.C. 5150).
+\_\_\_(53) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (NOV 2007) (42 U.S.C. 5150).
 
-\_\_\_(53) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007) (42 U.S.C. 5150).
+\_\_\_(54) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007) (42 U.S.C. 5150).
 
-\_\_\_(54) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
+\_\_\_(55) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
 
-\_\_ (55) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
+\_\_ (56) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
 
-\_\_ (56) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (JUL 2013) (31 U.S.C. 3332).
+\_\_ (57) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (JUL 2013) (31 U.S.C. 3332).
 
-\_\_ (57) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
+\_\_ (58) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
 
-\_\_ (58) 52.232-36, Payment by Third Party (MAY 2014) (31 U.S.C. 3332).
+\_\_ (59) 52.232-36, Payment by Third Party (MAY 2014) (31 U.S.C. 3332).
 
-\_\_\_(59) 52.239-1, Privacy or Security Safeguards (AUG 1996) (5 U.S.C. 552a).
+\_\_ (60) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(12)).
 
-\_\_\_(60)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
+\_\_\_(61)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
 
 \_\_\_(ii) *Alternate I* (APR 2003) of 52.247-64.
 
@@ -214,52 +218,58 @@ By a court order issued on October 24, 2016, 52.222-59 is enjoined indefinitely 
 
 (i) 52.203-13, Contractor Code of Business Ethics and Conduct (Oct 2015) (41 U.S.C. 3509).
 
-(ii) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities.
+(ii) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
+
+(iii) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities.
 If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
-(iii) 52.222-17, Nondisplacement of Qualified Workers (MAY 2014) (E.O. 13495). Flow down required in accordance with paragraph (l) of FAR clause 52.222-17.
+(iv) 52.222-17, Nondisplacement of Qualified Workers (MAY 2014) (E.O. 13495). Flow down required in accordance with paragraph (l) of FAR clause 52.222-17.
 
-(iv) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+(v) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(v) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+(vi) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
 
-(vi) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
+(vii) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
 
-(vii) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
+(viii) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
 
-(viii) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
+(ix) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
 
-(ix) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
+(x) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
 
-(x) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
+(xi) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
 
-(xi) \_\_(A) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
+(xii) \_\_(A) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
 
 \_\_(B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-(xii) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(xiii) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(xiii) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(xiv) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(xiv) 52.222-54, Employment Eligibility Verification (Oct 2015) (E. O. 12989).
+(xv) 52.222-54, Employment Eligibility Verification (Oct 2015) (E. O. 12989).
 
-(xv) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
+(xvi) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
 
-(xvi) 52.222-59, Compliance with Labor Laws (Executive Order 13673) (OCT 2016) (Applies at $50 million for solicitations and resultant contracts issued from October 25, 2016 through April 24, 2017; applies at $500,000 for solicitations and resultant contracts issued after April 24, 2017).
+(xvii) 52.222-59, Compliance with Labor Laws (Executive Order 13673) (OCT 2016) (Applies at $50 million for solicitations and resultant contracts issued from October 25, 2016 through April 24, 2017; applies at $500,000 for solicitations and resultant contracts issued after April 24, 2017).
 
-Note to paragraph (e)(1)(xvi):
+Note to paragraph (e)(1)(xvii):
 
 By a court order issued on October 24, 2016, 52.222-59 is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
 
-(xvii) 52.222-60, Paycheck Transparency (Executive Order 13673) (OCT 2016)).
+(xviii) 52.222-60, Paycheck Transparency (Executive Order 13673) (OCT 2016)).
 
-(xviii) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
+(xix) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
-(xix) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(xx)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
-(xx) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
+(B) Alternate I (JAN 2017) of 52.224-3.
 
-(xxi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xxi) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+
+(xxii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
+
+(xxii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor May include in its subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.
 
@@ -324,9 +334,13 @@ By a court order issued on October 24, 2016, 52.222-59 is enjoined indefinitely 
 
 (R) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
-(S) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
+(S)(1) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
-(T) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+(2) Alternate I (JAN 2017) of 52.224-3.
+
+(T) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
+
+(U) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 [60 FR 48255, Sept. 18, 1995]Editorial Notes:1. For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
 

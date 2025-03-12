@@ -1,5 +1,7 @@
 ##### § 121.8 Denial, revocation, or suspension of registration. #####
 
+Link to an amendment published at 82 FR 6208, Jan. 19, 2017.
+
 (a) An application may be denied or a certificate of registration revoked or suspended if:
 
 (1) The individual or entity, the responsible official, or an individual who owns or controls the entity is within any of the categories described in 18 U.S.C. 175b;

@@ -1,7 +1,5 @@
 ##### 19.704 Subcontracting plan requirements. #####
 
-Link to an amendment published at 81 FR 93486, December 20, 2016.
-
 (a) Each subcontracting plan under 19.301-2(e) and 19.702(a)(1), (2), and (3) shall include -
 
 (1) Separate percentage goals for using small business (including ANCs and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including ANCs and Indian tribes) and women-owned small business concerns as subcontractors;
@@ -50,9 +48,11 @@ Link to an amendment published at 81 FR 93486, December 20, 2016.
 
 (ii) The offeror used the small business concern's pricing or cost information or technical expertise in preparing the bid or proposal, where there is written evidence of an intent or understanding that the small business concern will be awarded a subcontract for the related work if the offeror is awarded the contract;
 
-(13) Assurances that the contractor will provide the contracting officer with a written explanation if the contractor fails to acquire articles, equipment, supplies, services or materials or obtain the performance of construction work as described in (a)(12) of this section. This written explanation will be submitted to the contracting officer within 30 days of contract completion; and
+(13) Assurances that the contractor will provide the contracting officer with a written explanation if the contractor fails to acquire articles, equipment, supplies, services or materials or obtain the performance of construction work as described in (a)(12) of this section. This written explanation will be submitted to the contracting officer within 30 days of contract completion;
 
-(14) Assurances that the contractor will not prohibit a subcontractor from discussing with the contracting officer any material matter pertaining to payment to or utilization of a subcontractor.
+(14) Assurances that the contractor will not prohibit a subcontractor from discussing with the contracting officer any material matter pertaining to payment to or utilization of a subcontractor; and
+
+(15) Assurances that the offeror will pay its small business subcontractors on time and in accordance with the terms and conditions of the subcontract, and notify the contracting officer if the offeror pays a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
 
 (b) Contractors may establish, on a plant or division-wide basis, a master subcontractingplan (see 19.701) that contains all the elements required by the clause at 52.219-9, Small Business Subcontracting Plan, except goals. Master subcontracting plans shall be effective for a 3-year period after approval by the contracting officer; however, it is incumbent upon contractors to maintain and update master subcontracting plans. Changes required to update master subcontracting plans are not effective until approved by the contracting officer. A master subcontracting plan, when incorporated in an individual plan, shall apply to that contract throughout the life of the contract.
 

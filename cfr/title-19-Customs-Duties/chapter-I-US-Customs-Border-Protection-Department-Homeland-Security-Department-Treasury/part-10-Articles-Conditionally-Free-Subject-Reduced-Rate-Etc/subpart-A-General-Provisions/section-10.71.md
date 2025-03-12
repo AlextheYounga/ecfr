@@ -4,7 +4,7 @@
 
 (b) Charges against the bond shall be canceled only upon the production of the required evidence or on payment of duties.
 
-(c) In cases where the pedigree certificate and evidence of transfer of ownership have been presented in accordance with the regulations of the Department of Agriculture, the importer, if he so elects, may, in lieu of giving a bond, deposit estimated duties and file a stipulation with the port director within 10 days after the date of entry to produce the declaration and certificate of pure breeding within 6 months from the date of entry, whereupon the liquidation of the entry shall be suspended. (See § 113.42 of this chapter.)
+(c) In cases where the pedigree certificate and evidence of transfer of ownership have been presented in accordance with the regulations of the Department of Agriculture, the importer, if he so elects, may, in lieu of giving a bond, deposit estimated duties and file a stipulation with CBP, either at the port of entry or electronicallywithin 10 days after the date of entry to produce the declaration and certificate of pure breeding within 6 months from the date of entry, whereupon the liquidation of the entry shall be suspended. (See § 113.42 of this chapter.)
 
 (d) If the pedigree certificate and evidence of transfer of ownership were not presented in accordance with such regulations of the Department of Agriculture, a deposit of estimated duties, in addition to the regular entry bond, shall be required.
 

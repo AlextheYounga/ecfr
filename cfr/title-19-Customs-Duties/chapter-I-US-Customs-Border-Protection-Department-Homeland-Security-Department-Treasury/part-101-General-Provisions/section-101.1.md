@@ -1,12 +1,14 @@
 ##### § 101.1 Definitions. #####
 
-Link to an amendment published at 81 FR 93016, Dec. 20, 2016.
-
 As used in this chapter, the following terms shall have the meanings indicated unless either the context in which they are used requires a different meaning or a different definition is prescribed for a particular part or portion thereof:
 
 *Business day.* A “business day” means a weekday (Monday through Friday), excluding national holidays as specified in § 101.6(a).
 
 *CBP.* The term “CBP” means U.S. Customs and Border Protection.
+
+*Center director.* The term “Center director” means the person who manages their designated Center and is responsible for certain trade decisions and functions concerning that Center and the importers that are processed by that Center.
+
+*Centers of Excellence and Expertise* or *Centers*. The terms “Centers of Excellence and Expertise” or “Centers” refer to national CBP offices that are responsible for performing certain trade functions and making certain determinations as set forth in particular regulatory provisions regarding importations by importers that are considered by CBP to be in the industry sector, regardless of the ports of entry at which the importations occur. Industry sectors are categorized by the Harmonized Tariff Schedule of the United States (HTSUS) numbers representing an industry sector. The list of HTSUS numbers will be published in a Federal Register document and any change made to that list will be announced in a subsequent Federal Register document.
 
 *Commissioner* or *Commissioner of Customs.* The terms “Commissioner” or “Commissioner of Customs” mean Commissioner of U.S. Customs and Border Protection.
 
@@ -40,7 +42,9 @@ As used in this chapter, the following terms shall have the meanings indicated u
 
 (4) The transferee of the merchandise, if the right to withdraw merchandise in a bonded warehouse has been transferred in accordance with subpart C of part 144 of this chapter.
 
-*Port* and *port of entry.* The terms “port” and “port of entry” refer to any place designated by Executive Order of the President, by order of the Secretary of the Treasury, or by Act of Congress, at which a Customs officer is authorized to accept entries of merchandise to collect duties, and to enforce the various provisions of the Customs and navigation laws. The terms “port” and “port of entry” incorporate the geographical area under the jurisdiction of a port director. (The Customs ports in the Virgin Islands, although under the jurisdiction of the Secretary of the Treasury, have their own Customs laws (48 U.S.C. 1406(i)). These ports, therefore, are outside the Customs territory of the United States and the ports thereof are not “ports of entry” within the meaning of these regulations).
+*Port* and *port of entry*. The terms “port” and “port of entry” refer to any place designated by Executive Order of the President, by order of the Secretary of the Treasury, or by Act of Congress, at which a U.S. Customs and Border Protection (“CBP”) officer is authorized to accept entries of merchandise to collect duties, and to enforce the various provisions of the customs and navigation laws. The terms “port” and “port of entry” incorporate the geographical area under the jurisdiction of a port director. (The customs ports in the Virgin Islands, although under the jurisdiction of the Secretary of the Treasury, have their own customs laws (48 U.S.C. 1406(i)). These ports, therefore, are outside the customs territory of the United States and the ports thereof are not “ports of entry” within the meaning of these regulations).
+
+*Port director*. The term “port director” means the person who has jurisdiction within the geographical boundaries of their port of entry unless the regulations provide that particular trade functions or determinations are exclusively within the purview of a Center Director or other CBP personnel.
 
 *Principal field officer.* A “principal field officer” is an officer in the field service whose immediate supervisor is located at Customs Service Headquarters.
 
@@ -48,4 +52,4 @@ As used in this chapter, the following terms shall have the meanings indicated u
 
 *Shipment.* “Shipment” means the merchandise described on the bill of lading or other document used to file or support entry, or in the oral declaration when applicable.
 
-[T.D. 77-241, 42 FR 54937, Oct. 12, 1977, as amended by T.D. 84-213, 49 FR 41170, Oct. 19, 1984; 49 FR 44867, Nov. 9, 1984; T.D. 94-51, 59 FR 30294, June 13, 1994; T.D. 95-77, 60 FR 50011, Sept. 27, 1995; T.D. 99-57, 64 FR 40987, July 28, 1999; CBP Dec. 15-15, 80 FR 70162, Nov. 13, 2015]
+[T.D. 77-241, 42 FR 54937, Oct. 12, 1977, as amended by T.D. 84-213, 49 FR 41170, Oct. 19, 1984; 49 FR 44867, Nov. 9, 1984; T.D. 94-51, 59 FR 30294, June 13, 1994; T.D. 95-77, 60 FR 50011, Sept. 27, 1995; T.D. 99-57, 64 FR 40987, July 28, 1999; CBP Dec. 15-15, 80 FR 70162, Nov. 13, 2015; CBP Dec. 16-26, 81 FR 93016, Dec. 20, 2016]

@@ -1,7 +1,5 @@
 ##### 42.1502 Policy. #####
 
-Link to an amendment published at 81 FR 93486, December 20, 2016.
-
 (a) *General.* Past performance evaluations shall be prepared at least annually and at the time the work under a contract or order is completed. Past performance evaluations are required for contracts and orders as specified in paragraphs (b) through (f) of this section, including contracts and orders performed outside the United States. These evaluations are generally for the entity, division, or unit that performed the contract or order. Past performance information shall be entered into CPARS, the Governmentwide evaluation reporting tool for all past performance reports on contracts and orders. Instructions for submitting evaluations into CPARS are available at *http://www.cpars.gov/.*
 
 (b) *Contracts.* Except as provided in paragraphs (e), (f), and (h) of this section, agencies shall prepare evaluations of contractor performance for each contract (as defined in FAR part 2) that exceeds the simplified acquisition threshold and for each order that exceeds the simplified acquisition threshold. Agencies are required to prepare an evaluation if a modification to the contract causes the dollar amount to exceed the simplified acquisition threshold.
@@ -14,7 +12,25 @@ Link to an amendment published at 81 FR 93486, December 20, 2016.
 
 (f) Past performance evaluations shall be prepared for each architect-engineer services contract of $35,000 or more, and for each architect-engineer services contract that is terminated for default regardless of contract value. Past performance evaluations may also be prepared for architect-engineer services contracts below $35,000.
 
-(g) Past performance evaluations shall include an assessment of contractor performance against, and efforts to achieve, the goals identified in the small business subcontracting plan when the contract includes the clause at 52.219-9, Small Business Subcontracting Plan.
+(g) Past performance evaluations shall include an assessment of the contractor's -
+
+(1) Performance against, and efforts to achieve, the goals identified in the small business subcontracting plan when the contract includes the clause at 52.219-9, Small Business Subcontracting Plan; and
+
+(2) Reduced or untimely payments (as defined in 19.701), made to small business subcontractors, determined by the contracting officer to be unjustified. The contracting officer shall -
+
+(i) Consider and evaluate a contractor's written explanation for a reduced or an untimely payment when determining whether the reduced or untimely payment is justified; and
+
+(ii) Determine that a history of unjustified reduced or untimely payments has occurred when the contractor has reported three or more occasions of unjustified reduced or untimely payments under a single contract within a 12-month period (see 42.1503(h)(1)(vi) and the evaluation ratings in Table 42-2). The following payment or nonpayment situations are not considered to be unjustified:
+
+(A) There is a contract dispute on performance.
+
+(B) A partial payment is made for amounts not in dispute.
+
+(C) A payment is reduced due to past overpayments.
+
+(D) There is an administrative mistake.
+
+(E) Late performance by the subcontractor leads to later payment by the prime contractor.
 
 (h) Agencies shall not evaluate performance for contracts awarded under Subpart 8.7.
 
@@ -30,4 +46,4 @@ Note to paragraph (j):
 
 By a court order issued on October 24, 2016, this paragraph (j) is enjoined indefinitely as of the date of the order. The enjoined paragraph will become effective immediately if the court terminates the injunction. At that time, DoD, GSA, and NASA will publish a document in the Federal Register advising the public of the termination of the injunction.
 
-[74 FR 31560, July 1, 2009, as amended at 75 FR 53134, Aug. 30, 2010; 75 FR 60260, Sept. 29, 2010; 78 FR 46788, Aug. 1, 2013; 80 FR 26427, May 7, 2015; 80 FR 38298, July 2, 2015; 81 FR 58644, Aug. 25, 2016; 81 FR 91640, Dec. 16, 2016]
+[74 FR 31560, July 1, 2009, as amended at 75 FR 53134, Aug. 30, 2010; 75 FR 60260, Sept. 29, 2010; 78 FR 46788, Aug. 1, 2013; 80 FR 26427, May 7, 2015; 80 FR 38298, July 2, 2015; 81 FR 58644, Aug. 25, 2016; 81 FR 91640, Dec. 16, 2016; 81 FR 93486, Dec. 20, 2016]

@@ -1,7 +1,5 @@
 ##### § 2510.3-2 Employee pension benefit plan. #####
 
-Link to an amendment published at 81 FR 92653, December 20, 2016.
-
 (a) *General.* This section clarifies the terms “employee pension benefit plan” and “pension plan” for purposes of title I of the Act and this chapter by setting forth safe harbors under which certain specific plans, funds and programs would not constitute employee pension benefit plans when the conditions of this section are satisfied. The safe harbors in this section should not be read as implicitly indicating the Department's views on the possible scope of section 3(2). To the extent that these plans, funds and programs constitute employee welfare benefit plans within the meaning of section 3(1) of the Act and § 2510.3-1 of this part, they will be covered under title I; however, they will not be subject to parts 2 and 3 of title I of the Act.
 
 (b) *Severance pay plans.* (1) For purposes of title I of the Act and this chapter, an arrangement shall not be deemed to constitute an employee pension benefit plan or pension plan solely by reason of the payment of severance benefits on account of the termination of an employee's service, provided that:
@@ -150,19 +148,19 @@ Link to an amendment published at 81 FR 92653, December 20, 2016.
 
 July 1980: 247.8August 1980: 249.4September 1980: 251.7October 1980: 253.9November 1980: 256.2Example (1)(a).E is an employer. R received monthly benefits of $600 under a straight-life annuity under E's defined benefit pension plan after R retired from E and entered pay status on July 1, 1980. The amount that E may pay to R as supplemental payments under a welfare rather than pension plan with respect to the months of July through September of 1980 is computed as follows:SPF for July 1980:![](/graphics/ec21oc91.040.gif)SPF for August 1980:![](/graphics/ec21oc91.041.gif)SPF for September 1980:![](/graphics/ec21oc91.042.gif)No supplemental payment may be made to R as a welfare plan payment with respect to July 1980, the month of retirement. The $3.87 that may be paid with respect to August 1980 may be paid at any time after August 31, 1980. The $9.44 that may be paid with respect to September 1980 may be paid at any time after September 30, 1980.Example (1)(b).S is the beneficiary of R. Because R received pension benefits under a straight-life annuity, S will receive no survivor annuity from E after R's death. S thus will have no PBA after R's death and will not be eligible to receive any supplemental payments from E based on S's PBA. To the extent, however, that R did not receive supplemental payments from E to the maximum limit allowable under paragraph (g)(1), any amounts not paid to R may be cumulated and paid to S after R's death.Example (2)(a).E is an employer. Q received monthly benefits of $500 in the form of a joint and survivor annuity under E's defined benefit pension plan since retirement from E on July 1, 1980. The amount that E may pay to Q as welfare rather than pension plan payments with respect to the months of July through September of 1980 is computed as follows:SPF for July 1980:![](/graphics/ec21oc91.043.gif)SPF for August 1980:![](/graphics/ec21oc91.044.gif)SPF for September 1980:![](/graphics/ec21oc91.045.gif)No supplemental payment may be made as a welfare plan payment with respect to July 1980, the month of retirement. The $3.23 that may be paid with respect to August 1980 may be paid at any time after August 31, 1980. The $7.87 that may be paid with respect to September 1980 may be paid at any time after September 30, 1980.Example (2)(b).Q dies on October 15, 1980 without having received any supplemental payments from E. T is the beneficiary of Q. E pays T a survivor's annuity of $300 beginning in November of 1980. The amount payable to T as a survivor annuity under the plan has not been increased since Q began to receive pension benefits. Thus, T's PBA is $300. The amount that E may pay to T as welfare rather than pension plan payments with respect to the months of July through November 1980 is computed as follows:SPF for July 1980 = $0.00SPF for August 1980 = $3.23SPF for September 1980 = $7.87SPF for October 1980:![](/graphics/ec21oc91.046.gif)(Note that T's “b” is equal to Q's “b”.)SPF for November 1980:![](/graphics/ec21oc91.047.gif)Total that may be paid to TThe maximum E may pay T with respect to the months of July through November 1980 as welfare rather than pension plan payments is the sum of those months' SPFs, which is $33.58.Example (3).Assume the same facts as in Example (1)(a), except that R elected to receive a lump-sum distribution rather than a straight-life annuity. If R is unmarried on July 1, 1980, R's PBA is $600 for the remainder of R's life. If R is married to S on July 1, 1980, the PBAs of R and S are based on the annuity that would have been paid under an election to receive a joint and survivor annuity. See paragraph (g)(3)(ii)(A)(*1*) of this section.
 
-(h) *Certain State savings programs.* (1) For purposes of title I of the Act and this chapter, the terms “employee pension benefit plan” and “pension plan” shall not include an individual retirement plan (as defined in 26 U.S.C. 7701(a)(37)) established and maintained pursuant to a State payroll deduction savings program, provided that:
+(h) *Certain governmental payroll deduction savings programs.* (1) For purposes of title I of the Act and this chapter, the terms “employee pension benefit plan” and “pension plan” shall not include an individual retirement plan (as defined in 26 U.S.C. 7701(a)(37)) established and maintained pursuant to a payroll deduction savings program of a State or qualified political subdivision of a State, provided that:
 
-(i) The program is specifically established pursuant to State law;
+(i) The program is specifically established pursuant to State or qualified political subdivision law;
 
-(ii) The program is implemented and administered by the State establishing the program (or by a governmental agency or instrumentality of the State), which is responsible for investing the employee savings or for selecting investment alternatives for employees to choose;
+(ii) The program is implemented and administered by the State or qualified political subdivision establishing the program (or by a governmental agency or instrumentality of either), which is responsible for investing the employee savings or for selecting investment alternatives for employees to choose;
 
-(iii) The State (or governmental agency or instrumentality of the State) assumes responsibility for the security of payroll deductions and employee savings;
+(iii) The State or qualified political subdivision (or governmental agency or instrumentality of either) assumes responsibility for the security of payroll deductions and employee savings, including by requiring that amounts withheld from wages by the employer be transmitted to the program promptly and by providing an enforcement mechanism to assure compliance with this requirement;
 
-(iv) The State (or governmental agency or instrumentality of the State) adopts measures to ensure that employees are notified of their rights under the program, and creates a mechanism for enforcement of those rights;
+(iv) The State or qualified political subdivision (or governmental agency or instrumentality of either) adopts measures to ensure that employees are notified of their rights under the program, and creates a mechanism for enforcement of those rights;
 
 (v) Participation in the program is voluntary for employees;
 
-(vi) All rights of the employee, former employee, or beneficiary under the program are enforceable only by the employee, former employee, or beneficiary, an authorized representative of such a person, or by the State (or governmental agency or instrumentality of the State);
+(vi) All rights of the employee, former employee, or beneficiary under the program are enforceable only by the employee, former employee, or beneficiary, an authorized representative of such a person, or by the State or qualified political subdivision (or governmental agency or instrumentality of either);
 
 (vii) The involvement of the employer is limited to the following:
 
@@ -170,26 +168,40 @@ July 1980: 247.8August 1980: 249.4September 1980: 251.7October 1980: 253.9Novemb
 
 (B) Providing notice to the employees and maintaining records regarding the employer's collection and remittance of payments under the program;
 
-(C) Providing information to the State (or governmental agency or instrumentality of the State) necessary to facilitate the operation of the program; and
+(C) Providing information to the State or qualified political subdivision (or governmental agency or instrumentality of either) necessary to facilitate the operation of the program; and
 
-(D) Distributing program information to employees from the State (or governmental agency or instrumentality of the State) and permitting the State (or governmental agency or instrumentality of the State) to publicize the program to employees;
+(D) Distributing program information to employees from the State or qualified political subdivision (or governmental agency or instrumentality of either) and permitting the State or qualified political subdivision (or governmental agency or instrumentality of either) to publicize the program to employees;
 
 (viii) The employer contributes no funds to the program and provides no bonus or other monetary incentive to employees to participate in the program;
 
-(ix) The employer's participation in the program is required by State law;
+(ix) The employer's participation in the program is required by State or qualified political subdivision law;
 
 (x) The employer has no discretionary authority, control, or responsibility under the program; and
 
-(xi) The employer receives no direct or indirect consideration in the form of cash or otherwise, other than consideration (including tax incentives and credits) received directly from the State (or governmental agency or instrumentality of the State) that does not exceed an amount that reasonably approximates the employer's (or a typical employer's) costs under the program.
+(xi) The employer receives no direct or indirect consideration in the form of cash or otherwise, other than consideration (including tax incentives and credits) received directly from the State or qualified political subdivision (or governmental agency or instrumentality of either) that does not exceed an amount that reasonably approximates the employer's (or a typical employer's) costs under the program.
 
-(2) A State savings program will not fail to satisfy the provisions of paragraph (h)(1) of this section merely because the program -
+(2) A payroll deduction savings program will not fail to satisfy the provisions of paragraph (h)(1) of this section merely because the program -
 
 (i) Is directed toward those employers that do not offer some other workplace savings arrangement;
 
-(ii) Utilizes one or more service or investment providers to operate and administer the program, provided that the State (or governmental agency or instrumentality of the State) retains full responsibility for the operation and administration of the program; or
+(ii) Utilizes one or more service or investment providers to operate and administer the program, provided that the State or qualified political subdivision (or the governmental agency or instrumentality of either) retains full responsibility for the operation and administration of the program; or
 
-(iii) Treats employees as having automatically elected payroll deductions in an amount or percentage of compensation, including any automatic increases in such amount or percentage, unless the employee specifically elects not to have such deductions made (or specifically elects to have the deductions made in a different amount or percentage of compensation allowed by the program), provided that the employee is given adequate advance notice of the right to make such elections and provided, further, that a program may also satisfy this paragraph (h) without requiring or otherwise providing for automatic elections such as those described in this paragraph (h)(2)(iii).
+(iii) Treats employees as having automatically elected payroll deductions in an amount or percentage of compensation, including any automatic increases in such amount or percentage, unless the employee specifically elects not to have such deductions made (or specifically elects to have the deductions made in a different amount or percentage of compensation allowed by the program), provided that the employee is given adequate advance notice of the right to make such elections, and provided, further, that a program may also satisfy this paragraph (h) without requiring or otherwise providing for automatic elections such as those described in this paragraph (h)(2)(iii).
 
-(3) For purposes of this section, the term State shall have the same meaning as defined in section 3(10) of the Act.
+(3) For purposes of this paragraph (h), the term “State” shall have the same meaning as defined in section 3(10) of the Act.
 
-[40 FR 34530, Aug. 15, 1975, as amended at 44 FR 11763, Mar. 2, 1979; 44 FR 23527, Apr. 20, 1979; 47 FR 50240, Nov. 5, 1982; 47 FR 56847, Dec. 21, 1982; 81 FR 59476, Aug. 30, 2016]
+(4) For purposes of this paragraph (h), the term “qualified political subdivision” means any governmental unit of a State, including a city, county, or similar governmental body, that -
+
+(i) Has the authority, implicit or explicit, under State law to require employers' participation in the program as described in paragraph (h)(1)(ix) of this section; and
+
+(ii) At the time of the enactment of the political subdivision's payroll deduction savings program:
+
+(A) Has a population equal to or greater than the population of the least populated State (excluding the District of Columbia and territories listed in section 3(10) of the Act);
+
+(B) Has no geographic overlap with any other political subdivision that has enacted a mandatory payroll deduction savings program for private-sector employees and is not located in a State that has enacted such a program statewide; and
+
+(C) Has implemented and administers a plan, fund, or program that provides retirement income to its employees, or results in a deferral of income by its employees for periods extending to the termination of covered employment or beyond.
+
+(5) For purposes of paragraph (h)(1)(iii) of this section, amounts withheld from an employee's wages by the employer are deemed to be transmitted promptly if such amounts are transmitted to the program as of the earliest date on which such contributions can reasonably be segregated from the employer's general assets, but in no event later than the last day of the month following the month in which such amounts would otherwise have been payable to the employee in cash.
+
+[40 FR 34530, Aug. 15, 1975, as amended at 44 FR 11763, Mar. 2, 1979; 44 FR 23527, Apr. 20, 1979; 47 FR 50240, Nov. 5, 1982; 47 FR 56847, Dec. 21, 1982; 81 FR 59476, Aug. 30, 2016; 81 FR 92653, Dec. 20, 2016]

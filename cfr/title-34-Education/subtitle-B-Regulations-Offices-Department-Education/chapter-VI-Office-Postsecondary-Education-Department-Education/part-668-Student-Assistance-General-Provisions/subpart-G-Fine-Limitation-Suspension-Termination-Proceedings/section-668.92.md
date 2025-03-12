@@ -1,39 +1,39 @@
-##### § 668.92 Fines. #####
+##### § 668.92 Filing of requests for hearings and appeals; confirmation of mailing and receipt dates. #####
 
-(a) In determining the amount of a fine, the designated department official, hearing official, and Secretary take into account -
+(a) *Filing of request for hearing, show-cause opportunity, or appeal.* (1)(i) A request by an institution or third-party servicer for a hearing or show-cause opportunity, or other material submitted by an institution or third-party servicer in response to a notice of proposed action under this subpart, must be filed with the designated department official by hand-delivery, mail, or facsimile transmission.
 
-(1) (i) The gravity of an institution's or third-party servicer's violation or failure to carry out the relevant statutory provision, regulatory provision, special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA; or
+(ii) An appeal to the Secretary by a party must be filed with the designated department official by hand-delivery, mail, facsimile transmission, or by use of the Office of Hearings and Appeals Electronic Filing System (OES).
 
-(ii) The gravity of the institution's or servicer's misrepresentation;
+(2) Documents filed by facsimile transmission must be transmitted to the designated department official identified, either in the notice initiating the action, or, for an appeal, in instructions provided by the hearing official, as the individual responsible to receive them. A party filing a document by facsimile transmission must confirm that a complete and legible copy of the document was received by the Department of Education, and may be required by the designated department official to provide a hard copy of the document.
 
-(2) The size of the institution;
+(3) The Secretary discourages the use of facsimile transmission for documents longer than five pages.
 
-(3) The size of the servicer's business, including the number of institutions and students served by the servicer;
+(4)(i) A party may file an appeal to the Secretary, and any other pleading or other document submitted in a proceeding under this subpart, by use of the Office of Hearings and Appeals Electronic Filing System (OES), by hand-delivery, by mail, or by facsimile transmission.
 
-(4) In the case of a violation by a third-party servicer, the extent to which the servicer can document that the institution contributed to that violation; and
+(ii) A party must serve a copy on the other party of any pleading or other document it files, including an appeal to the Secretary, in a proceeding under this subpart. A party must do so by certified mail, return receipt requested; by hand-delivery; or, if agreed upon by the parties, service may also be made by use of the OES or any other means agreed to by the parties.
 
-(5) For purposes of assessing a fine on a third-party servicer, the extent to which -
+(iii) A party who agrees to receive a document by any means other than service by certified mail, return receipt requested or hand-delivery may limit that agreement to one or more particular documents.
 
-(i) Violations are caused by repeated mechanical systemic unintentional errors. The Secretary counts the total of violations caused by a repeated mechanical systemic unintentional error as a single violation, unless the servicer has been cited for a similar violation previously and had failed to make the appropriate corrections to the system; and
+(iv) A party who agrees to service of a document through the OES thereby agrees that the notice of such filing provided to the party by the OES suffices to meet any obligation of the filing party under these regulations to provide a copy of that document.
 
-(ii) The financial loss of Title IV, HEA program funds was attributable to a repeated mechanical systemic unintentional error.
+(5) Documents filed using the OES must be transmitted to the designated department official identified in instructions provided by the hearing official as the individual responsible to receive them. A party filing a document using the OES must ensure that the party has received an electronic confirmation that the document was accepted and approved for filing by the OES, and may be required by the designated department official to provide a hard copy of the document.
 
-(b) In determining the gravity of the institution's or servicer's violation, failure, or misrepresentation under paragraph (a) of this section, the designated department official, hearing official, and Secretary take into account the amount of any liability owed by the institution and any third-party servicer that contracts with the institution, and the number of students affected as a result of that violation, failure, or misrepresentation on -
+(6) Electronic documents must be formatted in Adobe Portable Document Format (PDF). To use PDF you must have Adobe Acrobat Reader, which is available free at *www.adobe.com.*
 
-(1) Improperly expended or unspent Title IV, HEA program funds received by the institution or servicer, as applicable; or
+(b) *Confirmation of mailing and receipt dates.* (1) The mailing date of a notice from a designated department official initiating an action under this subpart is the date evidenced on the original receipt of mailing from the U.S. Postal Service.
 
-(2) Required refunds, including the treatment of title IV, HEA program funds when a student withdraws under § 668.22.
+(2) The date on which a request for a show-cause opportunity, a request for a hearing, other material submitted in response to a notice of action under this subpart, a decision by a hearing official, or a notice of appeal is received is, as applicable—
 
-(c) Upon the request of the institution or third-party servicer, the Secretary may compromise the fine.
+(i) The date of receipt evidenced on the original receipt for a document sent by certified mail.
 
-(d)(1) Notwithstanding any other provision of statute or regulation, any individual described in paragraph (d)(2) of this section, in addition to other penalties provided by law, is liable to the Secretary for amounts that should have been refunded or returned under § 668.22 of the title IV program funds not returned, to the same extent with respect to those funds that such an individual would be liable as a responsible person for a penalty under section 6672(a) of Internal Revenue Code of 1986 with respect to the nonpayment of taxes.
+(ii) The date following the date recorded by the delivery service as the date material was sent for a document sent by next-day delivery service.
 
-(2) The individual subject to the penalty described in paragraph (d)(1) is any individual who -
+(iii) The date a document sent by regular mail is recorded, according to the regular business practice of the office receiving the document, as received.
 
-(i) The Secretary determines, in accordance with § 668.174(c), exercises substantial control over an institution participating in, or seeking to participate in, a program under this title;
+(iv) The date a document sent by facsimile transmission is recorded as received by the facsimile equipment that receives the transmission.
 
-(ii) Is required under § 668.22 to return title IV program funds to a lender or to the Secretary on behalf of a student or borrower, or was required under § 668.22 in effect on June 30, 2000 to return title IV program funds to a lender or to the Secretary on behalf of a student or borrower; and
+(v) The date a document sent electronically via the OES is recorded as received by the OES as indicated in the confirmation of receipt email for E-filing.
 
-(iii) Willfully fails to return those funds or willfully attempts in any manner to evade that payment.
+(c) *Refusals.* If an institution or third-party servicer refuses to accept a notice mailed under this subpart, the Secretary considers the notice as being received on the date that the institution or servicer refuses to accept the notice.
 
-(Authority: 20 U.S.C. 1094 and 1099c)[59 FR 22450, Apr. 29, 1994, as amended at 64 FR 58618, Oct. 29, 1999; 64 FR 59042, Nov. 1, 1999]
+(Authority: 20 U.S.C. 1094)[51 FR 43325, Dec. 1, 1986, as amended at 58 FR 13345, Mar. 10, 1993; 59 FR 22450, Apr. 29, 1994; 78 FR 48050, Aug. 7, 2013. Redesignated at 82 FR 6257, Jan. 19, 2017]

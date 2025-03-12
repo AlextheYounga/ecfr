@@ -50,8 +50,6 @@ The greatest number of units sold at a price is 80; therefore, the unit price in
 
 (3) *Interpretative note 3.* Various quantities are sold to unrelated persons at various prices:
 
-(i) Sales
-
 |Sale quantity|Unit price|
 |-------------|----------|
 |  40 units   |   $100   |
@@ -62,8 +60,6 @@ The greatest number of units sold at a price is 80; therefore, the unit price in
 |  35 units   |    90    |
 |   5 units   |   100    |
 
-(ii) Totals
-
 |Total quantity sold|Unit price|
 |-------------------|----------|
 |        65         |   $90    |
@@ -73,9 +69,9 @@ The greatest number of units sold at a price is 80; therefore, the unit price in
 
 In this example, the greatest number of units sold at a particular price is 65; therefore, the unit price in the greatest aggregate quantity is $90.
 
-(i) *Further processing* - (1) *Quantified data.* If merchandise has undergone further processing after its importation into the United States and the importer elects the method specified in paragraph (c)(3) of this section, deductions made for the value added by that processing will be based on objective and quantifiable data relating to the cost of the work performed. Accepted industry formulas, recipes, methods of construction, and other industry practices would form the basis for the deduction. That deduction also will reflect amounts for spoilage, waste, or scrap derived from the further processing.
+(i) *Further processing*—(1) *Quantified data.* If merchandise has undergone further processing after its importation into the United States and the importer elects the method specified in paragraph (c)(3) of this section, deductions made for the value added by that processing will be based on objective and quantifiable data relating to the cost of the work performed. Accepted industry formulas, recipes, methods of construction, and other industry practices would form the basis for the deduction. That deduction also will reflect amounts for spoilage, waste, or scrap derived from the further processing.
 
-(2) *Loss of identity.* If the imported merchandise loses its identity as a result of further processing, the method specified in paragraph (c)(3) of this section will not be applicable unless the value added by the processing can be determined accurately without unreasonable difficulty for either importers or Customs. If the imported merchandise maintains its identity but forms a minor element of the merchandise sold in the United States, the use of paragraph (c)(3) of this section will be unjustified. The port director shall review each case involving these issues on its merits.
+(2) *Loss of identity.* If the imported merchandise loses its identity as a result of further processing, the method specified in paragraph (c)(3) of this section will not be applicable unless the value added by the processing can be determined accurately without unreasonable difficulty for either importers or Customs. If the imported merchandise maintains its identity but forms a minor element of the merchandise sold in the United States, the use of paragraph (c)(3) of this section will be unjustified. The Center director shall review each case involving these issues on its merits.
 
 Example.A foreign shipper sells merchandise to a related U.S. importer. The foreign shipper does not sell to any unrelated person. The transaction between the foreign shipper and the U.S. importer is determined to have been affected by the relationship. There is no identical or similar merchandise from the same country of production. The U.S. importer further processes the product and sells the finished product to an unrelated buyer in the U.S. within 180 days of the date of importation. No assists from the unrelated U.S. buyer are involved, and the type of processing involved can be accurately costed.
 

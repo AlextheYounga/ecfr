@@ -1,8 +1,6 @@
 ##### § 132.12 Procedure on opening of potentially filled quotas. #####
 
-Link to an amendment published at 81 FR 93017, Dec. 20, 2016.
-
-(a) *Preliminary review before opening.* When it is anticipated that a quota will be filled at the opening of the quota period, entry summaries for consumption, or withdrawals for consumption, with estimated duties attached, shall not be presented before 12 noon Eastern Standard Time in all time zones. However, an entry summary for consumption, or withdrawal for consumption, for merchandise which has arrived within the Customs territory of the United States may be submitted for preliminary review without deposit of estimated duties within a time period before the opening approved by the port director. Submission of these documents before opening will not accord the merchandise quota priority or status.
+(a) *Preliminary review before opening.* When it is anticipated that a quota will be filled at the opening of the quota period, entry summaries for consumption, or withdrawals for consumption, with estimated duties attached, shall not be presented before 12 noon Eastern Standard Time in all time zones. However, an entry summary for consumption, or withdrawal for consumption, for merchandise which has arrived within the Customs territory of the United States may be submitted for preliminary review without deposit of estimated duties within a time period before the opening approved by the Center director. Submission of these documents before opening will not accord the merchandise quota priority or status.
 
 (b) *Simultaneous presentation.* Special arrangements shall be made so that all entry summaries for consumption, or withdrawals for consumption, for quota merchandise may be presented at the exact moment of the opening of the quota in all time zones. All importers prepared to present entry summaries for consumption, or withdrawals for consumption, when the quota opens shall be given equal opportunity to do so. All entry summaries for consumption, or withdrawals for consumption, presented in proper form (including those submitted for review before opening of the quota period if accompanied by the deposit of estimated duties) shall be considered to have been presented simultaneously.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 81 FR 93017, Dec. 20, 2016.
 
 (ii) The importer takes delivery of the merchandise within 15 working days after release is authorized.
 
-[T.D. 79-221, 44 FR 46814, Aug. 9, 1979]
+[T.D. 79-221, 44 FR 46814, Aug. 9, 1979, as amended by CBP Dec. 16-26, 81 FR 93017, Dec. 20, 2016]

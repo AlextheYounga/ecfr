@@ -1,7 +1,5 @@
 ##### 19.701 Definitions. #####
 
-Link to an amendment published at 81 FR 93485, December 20, 2016.
-
 As used in this subpart -
 
 *Alaska Native Corporation (ANC)* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C.A. 1601, *et seq.*) and which is considered a minority and economically disadvantaged concern under the criteria at 43 U.S.C. 1626(e)(1). This definition also includes ANC direct and indirect subsidiary corporations, joint ventures, and partnerships that meet the requirements of 43 U.S.C. 1626(e)(2).
@@ -18,8 +16,12 @@ As used in this subpart -
 
 *Master subcontracting plan* means a subcontracting plan that contains all the required elements of an individual subcontracting plan, except goals, and may be incorporated into individual subcontracting plans, provided the master subcontracting plan has been approved.
 
+*Reduced Payment* means a payment that is for less than the amount agreed upon in a subcontract in accordance with its terms and conditions, for supplies and services for which the Government has paid the prime contractor.
+
 *Subcontract* means any agreement (other than one involving an employer-employee relationship) entered into by a Government prime contractor or subcontractor calling for supplies and/or services required for performance of the contract, contract modification, or subcontract.
 
 *Total contract dollars* means the final anticipated dollar value, including the dollar value of all options.
 
-[63 FR 34064, June 22, 1998, as amended at 66 FR 2130, Jan. 10, 2001; 72 FR 46348, Aug. 17, 2007; 73 FR 21781, Apr. 22, 2008; 81 FR 45843, July 14, 2016]
+*Untimely Payment* means a payment to a subcontractor that is more than 90 days past due under the terms and conditions of a subcontract for supplies and services for which the Government has paid the prime contractor.
+
+[63 FR 34064, June 22, 1998, as amended at 66 FR 2130, Jan. 10, 2001; 72 FR 46348, Aug. 17, 2007; 73 FR 21781, Apr. 22, 2008; 81 FR 45843, July 14, 2016; 81 FR 93485, Dec. 20, 2016]

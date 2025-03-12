@@ -1,5 +1,7 @@
 ##### § 121.12 Biosafety. #####
 
+Link to an amendment published at 82 FR 6209, Jan. 19, 2017.
+
 (a) An individual or entity required to register under this part must develop and implement a written biosafety plan that is commensurate with the risk of the select agent or toxin, given its intended use.9 The biosafety plan must contain sufficient information and documentation to describe the biosafety and containment procedures for the select agent or toxin, including any animals (including arthropods) or plants intentionally or accidentally exposed to or infected with a select agent.
 
 9 Technical assistance and guidance may be obtained by contacting APHIS.

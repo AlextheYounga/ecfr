@@ -22,10 +22,10 @@ Notwithstanding any other provisions of this part, fresh (chilled or frozen) bee
 
 (h) The meat has not been in contact with meat from regions other than those listed in § 94.1(a).
 
-(i) The meat came from bovine carcasses that were allowed to maturate at 40 to 50 °F (4 to 10 °C) for a minimum of 24 hours after slaughter and that reached a pH below 6.0 in the loin muscle at the end of the maturation period. Measurements for pH must be taken at the middle of both *longissimus dorsi* muscles. Any carcass in which the pH does not reach less than 6.0 may be allowed to maturate an additional 24 hours and be retested, and, if the carcass still has not reached a pH of less than 6.0 after 48 hours, the meat from the carcass may not be exported to the United States.
+(i) The meat came fromcarcasses that were allowed to maturate at 40 to 50 °F (4 to 10 °C) for a minimum of 24 hours after slaughter and that reached a pH below 6.0 in the loin muscle at the end of the maturation period. Measurements for pH must be taken at the middle of both *longissimus dorsi* muscles. Any carcass in which the pH does not reach less than 6.0 may be allowed to maturate an additional 24 hours and be retested, and, if the carcass still has not reached a pH of less than 6.0 after 48 hours, the meat from the carcass may not be exported to the United States.
 
 (j) An authorized veterinary official of the government of the exporting region certifies on the foreign meat inspection certificate that the above conditions have been met.
 
 (k) The establishment in which the bovines and sheep are slaughtered allows periodic on-site evaluation and subsequent inspection of its facilities, records, and operations by an APHIS representative.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0372, 0579-0414, and 0579-0428)[80 FR 37952, July 2, 2015]
+(Approved by the Office of Management and Budget under control numbers 0579-0372, 0579-0414, and 0579-0428)[80 FR 37952, July 2, 2015; 82 FR 6212, Jan. 19, 2017]

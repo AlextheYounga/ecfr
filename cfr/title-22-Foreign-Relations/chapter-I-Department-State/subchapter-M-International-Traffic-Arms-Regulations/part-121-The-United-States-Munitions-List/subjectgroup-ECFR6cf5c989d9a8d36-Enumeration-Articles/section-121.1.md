@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 80 FR 78131, December 16, 2015.
+Link to an amendment published at 80 FR 78131, Dec. 16, 2015.
 
 (a) *U.S. Munitions List.* In this part, articles, services, and related technical data are designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML). Changes in designations are published in the Federal Register. Paragraphs (a)(1) through (3) of this section describe or explain the elements of a USML category:
 
@@ -2688,7 +2688,7 @@ Parts, components, accessories, attachments, equipment, or systems that are comm
 
 (2) Space-qualified optics (*i.e.,* lens, mirror or membrane) having one of the following:
 
-(i) Active properties (*e.g.,* adaptive, deformable) with a largest lateral clear aperture dimension greater than 0.35m; or
+(i) Active properties (e.g., adaptive, deformable) with a largest lateral clear aperture dimension greater than 0.35m; or
 
 (ii) A largest lateral clear aperture dimension greater than 0.50m;
 
@@ -2726,7 +2726,7 @@ Parts, components, accessories, attachments, equipment, or systems that are comm
 
 (iv) Electric (Plasma/Ion) propulsion systems that provide a thrust greater than 300 milli-Newtons and a specific impulse greater than 1,500 sec; or that operate at an input power of more than 15kW;
 
-(12) Thrusters (*e.g.,* spacecraft or rocket engines) using bi-propellants or mono-propellant that provide greater than 150 lbf (*i.e.,* 667.23 N) vacuum thrust (MT for rocket motors or engines having a total impulse capacity equal to or greater than 8.41 × 10⁁5 newton seconds);
+(12) Thrusters (e.g., spacecraft or rocket engines) using bi-propellants or mono-propellant that provide greater than 150 lbf (*i.e.,* 667.23 N) vacuum thrust (MT for rocket motors or engines having a total impulse capacity equal to or greater than 8.41 × 10⁁5 newton seconds);
 
 (13) Control moment gyroscope (CMG) specially designed for spacecraft;
 
@@ -3046,4 +3046,4 @@ Category XXI - Articles, Technical Data, and Defense Services Not Otherwise Enum
 
 [58 FR 39287, July 22, 1993]Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
 
-2 At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.
+2 At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.

@@ -1,5 +1,7 @@
 ##### § 121.17 Records. #####
 
+Link to an amendment published at 82 FR 6210, Jan. 19, 2017.
+
 (a) An individual or entity required to register under this part must maintain complete records relating to the activities covered by this part. Such records must include:
 
 (1) An accurate, current inventory for each select agent (including viral genetic elements, recombinant and/or synthetic nucleic acids, and organisms containing recombinant and/or synthetic nucleic acids) held in long-term storage (placement in a system designed to ensure viability for future use, such as in a freezer or lyophilized materials), including:

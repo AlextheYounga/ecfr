@@ -1,5 +1,7 @@
 ##### § 73.7 Registration and related security risk assessments. #####
 
+Link to an amendment published at 82 FR 6292, January 19, 2017.
+
 (a) Unless exempted under § 73.5, an individual or entity shall not possess, use, or transfer any HHS select agent or toxin without a certificate of registration issued by the HHS Secretary. Unless exempted under § 73.6 or 9 CFR part 121.6, an individual or entity shall not possess, use, or transfer overlap select agents or toxins, without a certificate of registration issued by the HHS Secretary and Administrator.
 
 (b) As a condition of registration, each entity must designate an individual to be its Responsible Official. While most registrants are likely to be entities, in the event that an individual applies for and is granted a certificate of registration, the individual will be considered the Responsible Official.
