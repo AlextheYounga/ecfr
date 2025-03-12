@@ -1,8 +1,6 @@
 ##### § 653.501 Requirements for processing clearance orders. #####
 
-Link to an amendment published at 85 FR 628, Jan. 6, 2020.
-
-(a) *Assessment of need.* No ES office or SWA may place a job order seeking workers to perform farmwork into intrastate or interstate clearance unless:
+(a) *Assessment of need.* No ES office or SWA official may place a job order seeking workers to perform farmwork into intrastate or interstate clearance unless:
 
 (1) The ES office and employer have attempted and have not been able to obtain sufficient workers within the local labor market area; or
 
@@ -62,7 +60,7 @@ Link to an amendment published at 85 FR 628, Jan. 6, 2020.
 
 (vi) The availability of no cost or public housing which meets the Federal standards and which is sufficient to house the specified number of workers requested through the clearance system. This assurance must cover the availability of housing for only those workers, and when applicable, family members who are not reasonably able to return to their residence in the same day.
 
-(vii) Outreach workers must have reasonable access to the workers in the conduct of outreach activities pursuant to § 653.107.
+(vii) Outreach staff must have reasonable access to the workers in the conduct of outreach activities pursuant to § 653.107.
 
 (viii) The job order contains all the material terms and conditions of the job. The employer must assure this by signing the following statement in the clearance order: “This clearance order describes the actual terms and conditions of the employment being offered by me and contains all the material terms and conditions of the job.”
 
@@ -88,16 +86,18 @@ Link to an amendment published at 85 FR 628, Jan. 6, 2020.
 
 (5) If the worker referred through the clearance system contacts an ES office (in any State) other than the order holding office, that ES office must assist the referred worker in contacting the order holding office on a timely basis. Such assistance must include, if necessary, contacting the order holding office by telephone or other timely means on behalf of the worker referred through the clearance system.
 
-(6) ES office staff must assist all farmworkers, upon request in their native language, to understand the terms and conditions of employment set forth in intrastate and interstate clearance orders and must provide such workers with checklists in their native language showing wage payment schedules, working conditions, and other material specifications of the clearance order.
+(6) ES staff must assist all farmworkers, upon request in their native language, to understand the terms and conditions of employment set forth in intrastate and interstate clearance orders and must provide such workers with checklists in their native language showing wage payment schedules, working conditions, and other material specifications of the clearance order.
 
 (7) If an order holding office learns that a crop is maturing earlier than expected or that other material factors, including weather conditions and recruitment levels have changed since the date the clearance order was accepted, the SWA must contact immediately the applicant holding office which must inform immediately crews and families scheduled to report to the job site of the changed circumstances and must adjust arrangements on behalf of such crews and families.
 
 (8) When there is a delay in the date of need, SWAs must document notifications by employers and contacts by individual farmworkers or crew leaders on behalf of farmworkers or family heads on behalf of farmworker family members to verify the date of need.
 
-(9) If weather conditions, over-recruitment, or other conditions have eliminated the scheduled job opportunities, the SWAs involved must make every effort to place the workers in alternate job opportunities as soon as possible, especially if the worker(s) is/(are) already en-route or at the job site. ES office staff must keep records of actions under this section.
+(9) If weather conditions, over-recruitment, or other conditions have eliminated the scheduled job opportunities, the SWAs involved must make every effort to place the workers in alternate job opportunities as soon as possible, especially if the worker(s) is/are already en route or at the job site. ES staff must keep records of actions under this section.
 
 (10) Applicant-holding offices must provide workers referred on clearance orders with a checklist summarizing wages, working conditions and other material specifications in the clearance order. Such checklists, where necessary, must be in the workers' native language. The checklist must include language notifying the worker that a copy of the original clearance order is available upon request. SWAs must use a standard checklist format provided by the Department (such as in Form WH516 or a successor form).
 
 (11) The applicant-holding office must give each referred worker a copy of the list of worker's rights described in the Department's ARS Handbook.
 
 (12) If the labor supply SWA accepts a clearance order, the SWA must actively recruit workers for referral. In the event a potential labor supply SWA rejects a clearance order, the reasons for rejection must be documented and submitted to the Regional Administrator having jurisdiction over the SWA. The Regional Administrator will examine the reasons for rejection, and, if the Regional Administrator agrees, will inform the Regional Administrator with jurisdiction over the order-holding SWA of the rejection and the reasons. If the Regional Administrator who receives the notification of rejection does not concur with the reasons for rejection, that Regional Administrator will inform the National Monitor Advocate, who, in consultation with the appropriate ETA higher authority, will make a final determination on the acceptance or rejection of the order.
+
+[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020]

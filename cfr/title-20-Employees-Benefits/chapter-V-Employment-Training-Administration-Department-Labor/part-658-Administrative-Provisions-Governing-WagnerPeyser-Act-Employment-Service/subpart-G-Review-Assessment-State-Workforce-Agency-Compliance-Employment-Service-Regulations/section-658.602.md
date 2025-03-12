@@ -1,7 +1,5 @@
 ##### § 658.602 Employment and Training Administration National Office responsibility. #####
 
-Link to an amendment published at 85 FR 629, Jan. 6, 2020.
-
 The ETA National Office must:
 
 (a) Monitor ETA Regional Offices' operations under ES regulations;
@@ -54,7 +52,7 @@ The ETA National Office must:
 
 (k) The NMA must review the activities of the State/Federal monitoring system as it applies to services to MSFWs and the Complaint System including the effectiveness of the regional monitoring function in each region and must recommend any appropriate changes in the operation of the system. The NMA's findings and recommendations must be fully set forth in the Annual Report.
 
-(l) If the NMA finds the effectiveness of any RMA has been substantially impeded by the Regional Administrator or other regional office official, he/she must, if unable to resolve such problems informally, report and recommend appropriate actions directly to the OWI Administrator. If the NMA receives information that the effectiveness of any SMA has been substantially impeded by the State Administrator or other State or Federal ES official, he/she must, in the absence of a satisfactory informal resolution at the regional level, report and recommend appropriate actions directly to the OWI Administrator.
+(l) If the NMA finds the effectiveness of any RMA has been substantially impeded by the Regional Administrator or other regional office official, he/she must, if unable to resolve such problems informally, report and recommend appropriate actions directly to the OWI Administrator. If the NMA receives information that the effectiveness of any SMA has been substantially impeded by the State Administrator, a State or Federal ES official, or other ES staff, he/she must, in the absence of a satisfactory informal resolution at the regional level, report and recommend appropriate actions directly to the OWI Administrator.
 
 (m) The NMA must be informed of all proposed changes in policy and practice within the ES, including ES regulations, which may affect the delivery of services to MSFWs. The NMA must advise the Administrator concerning all such proposed changes which may adversely affect MSFWs. The NMA must propose directly to the OWI Administrator changes in ES policy and administration which may substantially improve the delivery of services to MSFWs. He/she also must recommend changes in the funding of SWAs and/or adjustment or reallocation of the discretionary portions of funding formulae.
 
@@ -70,7 +68,7 @@ The ETA National Office must:
 
 (o) In addition to the duties specified in paragraph (f)(8) of this section, the NMA each year during the harvest season must visit the four States with the highest level of MSFW activity during the prior fiscal year, if they are not scheduled for a National Office on-site review during the current fiscal year, and must:
 
-(1) Meet with the SMA and other SWA staff to discuss MSFW service delivery; and
+(1) Meet with the SMA and other ES staff to discuss MSFW service delivery; and
 
 (2) Contact representatives of MSFW organizations and interested employer organizations to obtain information concerning ES delivery and coordination with other agencies.
 
@@ -84,8 +82,10 @@ The ETA National Office must:
 
 (1) Use the regular reports on complaints submitted by SWAs and ETA regional offices to assess the adequacy of these systems and to determine the existence of systemic deficiencies.
 
-(2) Provide technical assistance to ETA regional office and State Workforce Agency staff for administering the Complaint System, and any other employment services as appropriate.
+(2) Provide technical assistance to ETA regional office and ES staff for administering the Complaint System, and any other employment services as appropriate.
 
 (3) Recommend to the Regional Administrator specific instructions for action by regional office staff to correct any ES-related systemic deficiencies. Prior to any ETA review of regional office operations concerning employment services to MSFWs, the NMA must provide to the Regional Administrator a brief summary of ES-related services to MSFWs in that region and his/her recommendations for incorporation in the regional review materials as the Regional Administrator and ETA reviewing organization deem appropriate.
 
 (4) Recommend to the National Farm Labor Coordinated Enforcement Committee specific instructions for action by WHD and OSHA regional office staff to correct any non-ES-related systemic deficiencies of which he/she is aware.
+
+[81 FR 56352, Aug. 19, 2016, as amended at 85 FR 629, Jan. 6, 2020]

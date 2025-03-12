@@ -1,14 +1,12 @@
 ##### § 658.601 State Workforce Agency responsibility. #####
 
-Link to an amendment published at 85 FR 629, Jan. 6, 2020.
-
 (a) Each SWA must establish and maintain a self-appraisal system for ES operations to determine success in reaching goals and to correct deficiencies in performance. The self-appraisal system must include numerical (quantitative) appraisal and non-numerical (qualitative) appraisal.
 
 (1) Numerical appraisal at the ES office level must be conducted as follows:
 
 (i) Performance must be measured on a quarterly-basis against planned service levels as stated in the Unified or Combined State Plan (“State Plan”). The State Plan must be consistent with numerical goals contained in ES office plans.
 
-(ii) To appraise numerical activities/indicators, actual results as shown on the Department's ETA 9002A report, or any successor report required by the Department must be compared to planned levels. Differences between achievement and plan levels must be identified.
+(ii) To appraise numerical activities/indicators, actual results as shown on the Department's ETA Form 9172, or any successor report required by the Department must be compared to planned levels. Differences between achievement and plan levels must be identified.
 
 (iii) When the numerical appraisal of required activities/indicators identifies significant differences from planned levels, additional analysis must be conducted to isolate possible contributing factors. This data analysis must include, as appropriate, comparisons to past performance, attainment of State Plan goals and consideration of pertinent non-numerical factors.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 629, Jan. 6, 2020.
 
 (i) Performance must be measured on a quarterly basis against planned service levels as stated in the State Plan. The State Plan must be consistent with numerical goals contained in ES office plans.
 
-(ii) To appraise these key numerical activities/indicators, actual results as shown on the ETA 9002A report, or any successor report required by the Department must be compared to planned levels. Differences between achievement and plan levels must be identified.
+(ii) To appraise these key numerical activities/indicators, actual results as shown on ETA Form 9172, or any successor report required by the Department must be compared to planned levels. Differences between achievement and plan levels must be identified.
 
 (iii) The SWA must review statewide data and performance against planned service levels as stated in the State Plan on at least a quarterly basis to identify significant statewide deficiencies and to determine the need for additional analysis, including identification of trends, comparisons to past performance, and attainment of State Plan goals.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 85 FR 629, Jan. 6, 2020.
 
 (iii) A plan to conduct follow-up on a timely basis to determine if action taken to correct the deficiencies has been effective.
 
-(7)(i) The provisions of the ES regulations which require numerical and non-numerical assessment of service to special applicant groups (*e.g.*, services to veterans at 20 CFR part 1001 - Services for Veterans and services to MSFWs at this part and part 653 of this chapter), are supplementary to the provisions of this section.
+(7)(i) The provisions of the ES regulations which require numerical and non-numerical assessment of service to special applicant groups (*e.g.*, services to veterans at 20 CFR part 1001—Services for Veterans and services to MSFWs at this part and part 653 of this chapter), are supplementary to the provisions of this section.
 
 (ii) Each State Administrator and ES office manager must ensure their staff know and carry out ES regulations, including regulations on performance standards and program emphases, and any corrective action plans imposed by the SWA or by the Department.
 
@@ -79,3 +77,5 @@ Link to an amendment published at 85 FR 629, Jan. 6, 2020.
 (iv) Each State Administrator must ensure to the maximum extent feasible the accuracy of data entered by the SWA into Department-required management information systems. Each SWA must establish and maintain a data validation system pursuant to Department instructions. The system must review every local ES office at least once every 4 years. The system must include the validation of time distribution reports and the review of data gathering procedures.
 
 (b) [Reserved]
+
+[81 FR 56352, Aug. 19, 2016, as amended at 85 FR 629, Jan. 6, 2020]

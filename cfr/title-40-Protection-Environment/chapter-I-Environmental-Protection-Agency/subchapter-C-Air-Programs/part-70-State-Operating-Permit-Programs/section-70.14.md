@@ -1,0 +1,5 @@
+##### § 70.14 Submission of petitions. #####
+
+Any petition to the Administrator must be submitted through the Operating Permits Group in the Air Quality Policy Division in the Office of Air Quality Planning and Standards, using one of the three following methods, as described at the EPA Title V Petitions website: An electronic submission through the EPA's designated submission system identified on that website (the agency's preferred method); an electronic submission through the EPA's designated email address listed on that website; or a paper submission to the EPA's designated physical address listed on that website. Any necessary attachments must be submitted together with the petition, using the same method as for the petition. Once a petition has been successfully submitted using one of these three methods, the petitioner should not submit additional copies of the petition using another method. The Administrator is not obligated to consider petitions submitted to the agency using any method other than the three identified in this section.
+
+[85 FR 6446, Feb. 5, 2020]

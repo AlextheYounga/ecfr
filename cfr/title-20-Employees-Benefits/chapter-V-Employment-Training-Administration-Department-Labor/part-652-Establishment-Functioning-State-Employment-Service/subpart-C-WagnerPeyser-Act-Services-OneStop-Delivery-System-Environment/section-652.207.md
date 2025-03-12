@@ -1,7 +1,5 @@
 ##### § 652.207 How does a State meet the requirement for universal access to services provided under the Wagner-Peyser Act? #####
 
-Link to an amendment published at 85 FR 626, Jan. 6, 2020.
-
 (a) A State has discretion in how it meets the requirement for universal access to services provided under the Wagner-Peyser Act. In exercising this discretion, a State must meet the Wagner-Peyser Act's requirements.
 
 (b) These requirements are:
@@ -16,6 +14,8 @@ Link to an amendment published at 85 FR 626, Jan. 6, 2020.
 
 (iii) Staff-assisted service;
 
-(3) In each local area, in at least one comprehensive physical center, staff funded under the Wagner-Peyser Act must provide labor exchange services (including staff-assisted labor exchange services) and career services as described in § 652.206; and
+(3) In each local area, in at least one comprehensive physical center, ES staff must provide labor exchange services (including staff-assisted labor exchange services) and career services as described in § 652.206; and
 
 (4) Those labor exchange services provided under the Wagner-Peyser Act in a local area must be described in the Memorandum of Understanding (MOU) described in § 678.500 of this chapter.
+
+[81 FR 56337, Aug. 19, 2016, as amended at 85 FR 626, Jan. 6, 2020]

@@ -24,7 +24,7 @@
 
 (b) *Provisions common to this part* - (1) *Affidavits.* FAS shall annually, not later than February 15 of the year of the applicable payment, make affidavits available on the FAS Web site, which can be found at *http://www.fas.usda.gov/*. Affidavits must be submitted electronically to: *pimawool@fas.usda.gov*.
 
-(2) *Filing deadline.* Any person filing an affidavit under this part for a particular year must file the affidavit for such calendar year, during calendar years 2015 through 2019, not later than March 1 of such year.
+(2) *Filing deadline.* Any person filing an affidavit under this part for a particular year must file the affidavit for such calendar year, during calendar years 2019 through 2023, not later than March 1 of such year.
 
 (3) *Required information.* In addition to information required in §§ 1471.11, 1471.13, and 1471.14, as applicable, every person applying for a payment under this part must provide the following information applicable to the year for which a payment is sought:
 
@@ -54,4 +54,4 @@
 
 (13) *HTS subheadings.* All references to subheadings of the HTS in this part are to the subheadings as described in the HTS in 2014.
 
-[80 FR 12327, Mar. 9, 2015, as amended at 81 FR 81659, Nov. 18, 2016]
+[80 FR 12327, Mar. 9, 2015, as amended at 81 FR 81659, Nov. 18, 2016; 85 FR 6421, Feb. 5, 2020]

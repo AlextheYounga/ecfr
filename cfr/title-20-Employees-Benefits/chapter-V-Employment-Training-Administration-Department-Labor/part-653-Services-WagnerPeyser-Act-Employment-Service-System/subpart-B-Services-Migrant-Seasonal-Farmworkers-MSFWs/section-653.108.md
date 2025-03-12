@@ -1,20 +1,18 @@
 ##### § 653.108 State Workforce Agency and State Monitor Advocate responsibilities. #####
 
-Link to an amendment published at 85 FR 627, Jan. 6, 2020.
-
 (a) State Administrators must ensure their SWAs monitor their own compliance with ES regulations in serving MSFWs on an ongoing basis. The State Administrator has overall responsibility for SWA self-monitoring.
 
-(b) The State Administrator must appoint a State Monitor Advocate. The State Administrator must inform farmworker organizations and other organizations with expertise concerning MSFWs of the opening and encourage them to refer qualified applicants to apply through the State merit system prior to appointing a State Monitor Advocate. Among qualified candidates determined through State merit system procedures, the SWAs must seek persons:
+(b) The State Administrator must appoint an SMA who must be a SWA official. The State Administrator must inform farmworker organizations and other organizations with expertise concerning MSFWs of the opening and encourage them to refer qualified applicants to apply. Among qualified candidates, the SWAs must seek persons:
 
 (1) Who are from MSFW backgrounds; or
 
-(2) Who speak Spanish or other languages of a significant proportion of the State MSFW population; or
+(2) Who speak the language of a significant proportion of the State MSFW population; or
 
 (3) Who have substantial work experience in farmworker activities.
 
-(c) The SMA must have direct, personal access, when necessary, to the State Administrator. The SMA must have status and compensation as approved by the civil service classification system and be comparable to other State positions assigned similar levels of tasks, complexity, and responsibility.
+(c) The SMA must have direct, personal access, when necessary, to the State Administrator.
 
-(d) The SMA must be assigned staff necessary to fulfill effectively all of the duties set forth in this subpart. The number of staff positions must be determined by reference to the number of MSFWs in the State, as measured at the time of the peak MSFW population, and the need for monitoring activity in the State. The SMA must devote full-time to Monitor Advocate functions. Any State that proposes less than full-time dedication must demonstrate to its Regional Administrator that the SMA function can be effectively performed with part-time staffing.
+(d) The SMA must have ES staff necessary to fulfill effectively all of the duties set forth in this subpart. The number of ES staff positions must be determined by reference to the number of MSFWs in the State, as measured at the time of the peak MSFW population, and the need for monitoring activity in the State. The SMA must devote full time to Monitor Advocate functions. Any State that proposes less than full-time dedication must demonstrate to its Regional Administrator that the SMA function can be effectively performed with part-time staffing.
 
 (e) All SMAs and their staff must attend, within the first 3 months of their tenure, a training session conducted by the Regional Monitor Advocate. They also must attend whatever additional training sessions are required by the Regional or National Monitor Advocate.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 627, Jan. 6, 2020.
 
 (g) The SMA must:
 
-(1) Conduct an ongoing review of the delivery of services and protections afforded by the ES regulations to MSFWs by the SWA and ES offices (including progress made in achieving affirmative action staffing goals). The SMA, without delay, must advise the SWA and local offices of problems, deficiencies, or improper practices in the delivery of services and protections afforded by these regulations and may request a corrective action plan to address these deficiencies. The SMA must advise the SWA on means to improve the delivery of services.
+(1) Conduct an ongoing review of the delivery of services and protections afforded by the ES regulations to MSFWs by the SWA and ES offices (including efforts to provide ES staff in accordance with § 653.111, and the appropriateness of informal complaint and apparent violation resolutions as documented in the complaint logs). The SMA, without delay, must advise the SWA and local offices of problems, deficiencies, or improper practices in the delivery of services and protections afforded by these regulations and may request a corrective action plan to address these deficiencies. The SMA must advise the SWA on means to improve the delivery of services.
 
 (2) Participate in on-site reviews on a regular basis, using the following procedures:
 
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 627, Jan. 6, 2020.
 
 (C) Corrective action plans developed as a result of previous reviews;
 
-(D) Complaint logs; and
+(D) Complaint logs including logs documenting the informal resolution of complaints and apparent violations; and
 
 (E) Complaints elevated from the office or concerning the office.
 
@@ -44,13 +42,13 @@ Link to an amendment published at 85 FR 627, Jan. 6, 2020.
 
 (iv) After each review the SMA must conduct an in-depth analysis of the review data. The conclusions and recommendations of the SMA must be put in writing and must be sent to the State Administrator, to the official of the SWA with authority over the ES office, and other appropriate SWA officials.
 
-(v) If the review results in any findings of noncompliance with the regulations under this chapter, the ES office manager must develop and propose a written corrective action plan. The plan must be approved or revised by appropriate superior officials and the SMA. The plan must include actions required to correct or to take major steps to correct any compliance issues within 30 business days, and if the plan allows for more than 30 business days for full compliance, the length of, and the reasons for, the extended period must be specifically stated. SWAs are responsible for assuring and documenting that the ES office is in compliance within the time period designated in the plan.
+(v) If the review results in any findings of noncompliance with the regulations under this chapter, the ES office manager must develop and propose a written corrective action plan. The plan must be approved or revised by SWA officials and the SMA. The plan must include actions required to correct or to take major steps to correct any compliance issues within 30 business days, and if the plan allows for more than 30 business days for full compliance, the length of, and the reasons for, the extended period must be specifically stated. SWAs are responsible for assuring and documenting that the ES office is in compliance within the time period designated in the plan.
 
 (vi) SWAs must submit to the appropriate ETA regional office copies of the onsite review reports and corrective action plans for ES offices.
 
-(vii) The SMA may recommend that the review described in paragraph (g)(2) of this section be delegated to a responsible, professional member of the administrative staff of the SWA, if and when the State Administrator finds such delegation necessary. In such event, the SMA is responsible for and must approve the written report of the review.
+(vii) The SMA may recommend that the review described in paragraph (g)(2) of this section be delegated to a SWA official, if and when the State Administrator finds such delegation necessary. In such event, the SMA is responsible for and must approve the written report of the review.
 
-(3) Ensure all significant MSFW one-stop centers not reviewed onsite by Federal staff, are reviewed at least once per year by State staff, and that, if necessary, those ES offices in which significant problems are revealed by required reports, management information, the Complaint System, or other means are reviewed as soon as possible.
+(3) Ensure all significant MSFW one-stop centers not reviewed onsite by Federal staff are reviewed at least once per year by a SWA official, and that, if necessary, those ES offices in which significant problems are revealed by required reports, management information, the Complaint System, or other means are reviewed as soon as possible.
 
 (4) Review and approve the SWA's Agricultural Outreach Plan (AOP).
 
@@ -60,7 +58,7 @@ Link to an amendment published at 85 FR 627, Jan. 6, 2020.
 
 (h) The SMA must participate in Federal reviews conducted pursuant to part 658, subpart G, of this chapter.
 
-(i) At the discretion of the State Administrator, the SMA may be assigned the responsibility as the Complaint Specialist. The SMA must participate in and monitor the performance of the Complaint System, as set forth at §§ 658.400 and 658.401 of this chapter. The SMA must review the ES office's informal resolution of complaints relating to MSFWs and must ensure that the ES office manager transmits copies of the Complaint System logs pursuant to part 658, subpart E, of this chapter to the SWA.
+(i) At the discretion of the State Administrator, the SMA may be assigned the responsibility as the Complaint System Representative. The SMA must participate in and monitor the performance of the Complaint System, as set forth at §§ 658.400 and 658.401 of this chapter. The SMA must review the ES office's informal resolution of complaints relating to MSFWs and must ensure that the ES office manager transmits copies of the Complaint System logs pursuant to part 658, subpart E, of this chapter to the SWA.
 
 (j) The SMA must serve as an advocate to improve services for MSFWs.
 
@@ -72,7 +70,7 @@ Link to an amendment published at 85 FR 627, Jan. 6, 2020.
 
 (n) The SMA must participate in the appropriate regional public meeting(s) held by the Department of Labor Regional Farm Labor Coordinated Enforcement Committee, other Occupational Safety and Health Administration and Wage and Hour Division task forces, and other committees as appropriate.
 
-(o) The SMA must ensure that outreach efforts in all significant MSFW ES offices are reviewed at least yearly. This review will include accompanying at least one outreach worker from each significant MSFW ES office on field visits to MSFWs' working, living, and/or gathering areas. The SMA must review findings from these reviews with the ES office managers.
+(o) The SMA must ensure that outreach efforts in all significant MSFW one-stop centers are reviewed at least yearly. This review will include accompanying at least one outreach staff from each significant MSFW one-stop center on field visits to MSFWs' working, living, and/or gathering areas. The SMA must review findings from these reviews with the ES office managers.
 
 (p) The SMA must review on at least a quarterly basis all statistical and other MSFW-related data reported by ES offices in order:
 
@@ -92,9 +90,9 @@ Link to an amendment published at 85 FR 627, Jan. 6, 2020.
 
 (1) A description of the activities undertaken during the program year by the SMA pertaining to his/her responsibilities set forth in this section and other applicable regulations in this chapter.
 
-(2) An assurance that the SMA has direct, personal access, whenever he/she finds it necessary, to the State Administrator and that the SMA has status and compensation approved by the civil service classification system, and is comparable to other State positions assigned similar levels of tasks, complexity, and responsibility.
+(2) An assurance that the SMA has direct, personal access, whenever he/she finds it necessary, to the State Administrator.
 
-(3) An assurance the SMA devotes all of his/her time to monitor advocate functions. Or, if the SWA proposed the SMA conducts his/her functions on a part-time basis, an explanation of how the SMA functions are effectively performed with part-time staffing.
+(3) An assurance the SMA devotes all of his/her time to Monitor Advocate functions. Or, if the SMA conducts his/her functions on a part-time basis, an explanation of how the SMA functions are effectively performed with part-time staffing.
 
 (4) A summary of the monitoring reviews conducted by the SMA, including:
 
@@ -112,8 +110,10 @@ Link to an amendment published at 85 FR 627, Jan. 6, 2020.
 
 (8) A summary of the statistical and other MSFW-related data and reports gathered by SWAs and ES offices for the year, including an overview of the SMA's involvement in the SWA's reporting systems.
 
-(9) A summary of the training conducted for SWA personnel, including ES office personnel, on techniques for accurately reporting data.
+(9) A summary of the training conducted for ES staff on techniques for accurately reporting data.
 
 (10) A summary of activities related to the AOP and an explanation of how those activities helped the State reach the goals and objectives described in the AOP. At the end of the 4-year AOP cycle, the summary must include a synopsis of the SWA's achievements over the previous 4 years to accomplish the goals set forth in the AOP, and a description of the goals which were not achieved and the steps the SWA will take to address those deficiencies.
 
-(11) For significant MSFW ES offices, a summary of the functioning of the State's affirmative action staffing program under § 653.111.
+(11) For significant MSFW ES offices, a summary of the State's efforts to provide ES staff in accordance with § 653.111.
+
+[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 627, Jan. 6, 2020]

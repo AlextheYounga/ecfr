@@ -1,7 +1,5 @@
 ##### § 658.704 Remedial actions. #####
 
-Link to an amendment published at 85 FR 630, Jan. 6, 2020.
-
 (a) If a SWA fails to correct violations as determined pursuant to § 658.702, the Regional Administrator must apply one or more of the following remedial actions to the SWA:
 
 (1) Imposition of special reporting requirements for a specified time;
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 630, Jan. 6, 2020.
 
 (3) Implementation of specific operating systems or procedures for a specified time;
 
-(4) Requirement of special training for SWA personnel;
+(4) Requirement of special training for ES staff;
 
 (5) With the approval of the Assistant Secretary and after affording the State Administrator the opportunity to request a conference with the Assistant Secretary, the elevation of specific decision-making functions from the State Administrator to the Regional Administrator;
 
@@ -35,3 +33,5 @@ Link to an amendment published at 85 FR 630, Jan. 6, 2020.
 (f)(1) If the SWA has not brought itself into compliance with ES regulations within 120 business days of the initial application of remedial action, the Regional Administrator must initiate decertification unless the Regional Administrator determines the circumstances necessitate continuing remedial action for more time. In such cases, the Regional Administrator must notify the Administrator in writing of the circumstances which necessitate the extended time, and specify the time period.
 
 (2) The Regional Administrator must notify the SWA by registered mail or by other legally viable means of the decertification proceedings, and must state the reasons therefor. Whenever such a notice is sent to a SWA, the Regional Administrator must prepare five copies (hard copies or electronic copies) containing, in chronological order, all the documents pertinent to the case along with a request for decertification stating the grounds therefor. One copy must be retained. Two must be sent to the ETA National Office, one must be sent to the Solicitor of Labor, Attention: Associate Solicitor for Employment and Training, and, if the case involves violations of regulations governing services to MSFWs or the Complaint System, one copy must be sent to the NMA. All copies also must be sent electronically to each respective party. The notice sent by the Regional Administrator must be published promptly in the Federal Register.
+
+[81 FR 56352, Aug. 19, 2016, as amended at 85 FR 630, Jan. 6, 2020]

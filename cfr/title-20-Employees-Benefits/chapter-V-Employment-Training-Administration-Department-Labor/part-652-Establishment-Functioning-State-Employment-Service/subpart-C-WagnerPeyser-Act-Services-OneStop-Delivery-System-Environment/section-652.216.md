@@ -1,5 +1,7 @@
-##### § 652.216 May the one-stop operator provide guidance to State merit staff employees in accordance with the Wagner-Peyser Act? #####
+##### § 652.216 May the one-stop operator provide guidance to Employment Service staff in accordance with the Wagner-Peyser Act? #####
 
-Link to an amendment published at 85 FR 626, Jan. 6, 2020.
+(a) Yes, the one-stop delivery system envisions a partnership in which Wagner-Peyser Act labor exchange services are coordinated with other activities provided by other partners in a one-stop setting. As part of the local MOU described in § 678.500 of this chapter, the SWA, as a one-stop partner, may agree to have ES staff receive guidance from the one-stop operator regarding the provision of labor exchange services.
 
-Yes, the one-stop delivery system envisions a partnership in which Wagner-Peyser Act labor exchange services are coordinated with other activities provided by other partners in a one-stop setting. As part of the local Memorandum of Understanding described in § 678.500 of this chapter, the SWA, as a one-stop partner, may agree to have staff receive guidance from the one-stop operator regarding the provision of labor exchange services. Personnel matters, including compensation, personnel actions, terms and conditions of employment, performance appraisals, and accountability of State merit staff employees funded under the Wagner-Peyser Act, remain under the authority of the SWA. The guidance given to employees must be consistent with the provisions of the Wagner-Peyser Act, the local Memorandum of Understanding, and applicable collective bargaining agreements.
+(b) The guidance given to ES staff must be consistent with the provisions of the Wagner-Peyser Act, the local MOU, and applicable collective bargaining agreements.
+
+[85 FR 626, Jan. 6, 2020]

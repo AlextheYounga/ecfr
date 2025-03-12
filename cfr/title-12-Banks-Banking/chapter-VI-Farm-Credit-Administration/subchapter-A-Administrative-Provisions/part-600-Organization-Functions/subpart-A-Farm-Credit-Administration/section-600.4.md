@@ -1,5 +1,7 @@
 ##### § 600.4 Organization of the Farm Credit Administration. #####
 
+Link to an amendment published at 85 FR 6421, Feb. 5, 2020.
+
 (a) *Offices and functions.* The primary offices of the FCA are:
 
 (1) *Office of Inspector General.* The Office of Inspector General conducts independent audits, inspections, and investigations of Agency programs and operations and reviews proposed legislation and regulations.

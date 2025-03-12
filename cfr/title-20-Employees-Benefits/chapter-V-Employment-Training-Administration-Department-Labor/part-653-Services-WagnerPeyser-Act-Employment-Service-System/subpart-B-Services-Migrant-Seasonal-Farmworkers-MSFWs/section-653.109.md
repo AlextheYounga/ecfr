@@ -1,7 +1,5 @@
 ##### § 653.109 Data collection and performance accountability measures. #####
 
-Link to an amendment published at 85 FR 628, Jan. 6, 2020.
-
 SWAs must:
 
 (a) Collect career service indicator data for the career services specified in WIOA sec. 134(c)(2)(A)(xii).
@@ -28,7 +26,7 @@ SWAs must:
 
 (10) Any other data required by the Department.
 
-(c) Provide necessary training to SWA personnel, including ES office personnel, on techniques for accurately reporting data.
+(c) Provide necessary training to ES staff on techniques for accurately reporting data.
 
 (d) Collect and submit data on MSFWs required by the Unified or Combined State Plan, as directed by the Department.
 
@@ -43,3 +41,5 @@ SWAs must:
 (1) Past SWA performance in serving MSFWs, as reflected in on-site reviews and data collected under paragraph (b) of this section.
 
 (2) The need for services to MSFWs in the upcoming year, comparing prior and projected levels of MSFW activity.
+
+[81 FR 56341, Aug. 19, 2016, as amended at 85 FR 628, Jan. 6, 2020]

@@ -1,14 +1,10 @@
 ##### § 651.10 Definitions of terms used in this part and parts 652, 653, 654, and 658 of this chapter. #####
 
-Link to an amendment published at 85 FR 625, Jan. 6, 2020.
-
 In addition to the definitions set forth in sec. 3 of WIOA, the following definitions apply to the regulations in parts 652, 653, 654, and 658 of this chapter:
 
 *Act* means the Wagner-Peyser Act (codified at 29 U.S.C. 49 *et seq.*).
 
 *Administrator, Office of Workforce Investment (OWI Administrator)* means the chief official of the Office of Workforce Investment (OWI) or the Administrator's designee.
-
-*Affirmative action* means positive, result-oriented action imposed on or assumed by an employer pursuant to legislation, court order, consent decree, directive of a fair employment practice authority, government contract, grant or loan, or voluntary affirmative action plan adopted pursuant to the affirmative action guidelines of the Equal Employment Opportunity Commission (see 29 CFR part 1608) to provide equal employment opportunities for members of a specified group which for reasons of past custom, historical practice, or other non-occupationally valid purposes has been discouraged from entering certain occupational fields.
 
 *Agricultural employer* means any employer as defined in this part who owns or operates a farm, ranch, processing establishment, cannery, gin, packing shed or nursery, or who produces or conditions seed, and who either recruits, solicits, hires, employs, furnishes, or transports any migrant or seasonal farmworker or any agricultural employer as described in 29 U.S.C. 1802(2).
 
@@ -30,6 +26,8 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Complaint* means a representation made or referred to a State or ES office of an alleged violation of the ES regulations and/or other Federal laws enforced by the Department's Wage and Hour Division (WHD) or Occupational Safety and Health Administration (OSHA), as well as other Federal, State, or local agencies enforcing employment-related law.
 
+*Complaint System Representative* means the ES staff individual at the local or State level who is responsible for handling complaints.
+
 *Decertification* means the rescission by the Secretary of the year-end certification made under sec. 7 of the Wagner-Peyser Act to the Secretary of the Treasury that the State agency may receive funds authorized by the Wagner-Peyser Act.
 
 *Department* means the United States Department of Labor, including its agencies and organizational units.
@@ -40,9 +38,13 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Employment-related laws* means those laws that relate to the employment relationship, such as those enforced by the Department's WHD, OSHA, or by other Federal, State, or local agencies.
 
-*Employment Service (ES) office* means a site in a local WDB where staff of the State Workforce Agency, consistent with the requirements of § 652.215 of this chapter, provide Wagner-Peyser Act services as a one-stop partner program. A site must be colocated with a one-stop center consistent with the requirements of §§ 678.305 through 678.315 of this chapter.
+*Employment Service (ES) office* means a site that provides Wagner-Peyser Act services as a one-stop partner program. A site must be colocated in a one-stop center consistent with the requirements of §§ 678.305 through 678.315 of this chapter.
+
+*Employment Service (ES) Office Manager* means the individual in charge of all ES activities in a one-stop center.
 
 *Employment Service (ES) regulations* means the Federal regulations at this part and parts 652, 653, 654, 658 of this chapter, and 29 CFR part 75.
+
+*Employment Service (ES) staff* means individuals, including but not limited to State employees and staff of a subrecipient, who are funded, in whole or in part, by Wagner-Peyser Act funds to carry out activities authorized under the Wagner-Peyser Act.
 
 *Establishment* means a public or private economic employing unit generally at a single physical location which produces and/or sells goods or services, for example, a mine, factory, store, farm, orchard or ranch. It is usually engaged in one, or predominantly one, type of commercial or governmental activity. Each branch or subsidiary unit of a large employer in a geographical area or community must be considered an individual establishment, except that all such units in the same physical location is considered a single establishment. A component of an establishment which may not be located in the same physical structure (such as the warehouse of a department store) also must be considered as part of the parent establishment. For the purpose of the “seasonal farmworker” definition, farm labor contractors and crew leaders are not considered establishments; it is the organizations to which they supply the workers that are the establishments.
 
@@ -50,9 +52,9 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Farmworker* means an individual employed in farmwork, as defined in this section.
 
-*Field checks* means random, unannounced appearances by State Workforce Agency personnel at agricultural worksites to which ES placements have been made through the intrastate or interstate clearance system to ensure that conditions are as stated on the job order and that the employer is not violating an employment-related law.
+*Field checks* means random, unannounced appearances by ES staff and/or Federal staff at agricultural worksites to which ES placements have been made through the intrastate or interstate clearance system to ensure that conditions are as stated on the job order and that the employer is not violating an employment-related law.
 
-*Field visits* means appearances by Monitor Advocates or State Workforce Agency outreach personnel to the working and living areas of migrant and seasonal farmworkers (MSFWs), to discuss employment services and other employment-related programs with MSFWs, crew leaders, and employers. Monitor Advocates or outreach personnel must keep records of each such visit.
+*Field visits* means appearances by Monitor Advocates or outreach staff to the working and living areas of migrant and seasonal farmworkers (MSFWs), to discuss employment services and other employment-related programs with MSFWs, crew leaders, and employers. Monitor Advocates or outreach staff must keep records of each such visit.
 
 *Governor* means the chief executive of a State or an outlying area.
 
@@ -80,8 +82,6 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Labor market area* means an economically integrated geographic area within which individuals can reside and find employment within a reasonable distance or can readily change employment without changing their place of residence. Such an area must be identified in accordance with criteria used by the Department's Bureau of Labor Statistics in defining such areas or similar criteria established by a Governor.
 
-*Local Office Manager* means the official in charge of all ES activities in a one-stop center.
-
 *Local Workforce Development Board* or *Local WDB* means a Local Workforce Development Board established under sec. 107 of WIOA.
 
 *Migrant farmworker* means a seasonal farmworker (as defined in this section) who travels to the job site so that the farmworker is not reasonably able to return to his/her permanent residence within the same day. Full-time students traveling in organized groups rather than with their families are excluded.
@@ -104,7 +104,9 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 *Order holding office* means an ES office that has accepted a clearance order from an employer seeking U.S. workers to perform farmwork on a less than year-round basis through the Agricultural Recruitment System.
 
-*Outreach contact* means each MSFW that receives the presentation of information, offering of assistance, or follow-up activity from an outreach worker.
+*Outreach contact* means each MSFW that receives the presentation of information, offering of assistance, or follow-up activity from outreach staff.
+
+*Outreach staff* means ES staff with the responsibilities described in § 653.107(b) of this chapter.
 
 *Participant* means a reportable individual who has received services other than the services described in § 677.150(a)(3) of this chapter, after satisfying all applicable programmatic requirements for the provision of services, such as eligibility determination. (*See* § 677.150(a) of this chapter.)
 
@@ -140,7 +142,7 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 
 (3) Individuals who only receive information-only services or activities.
 
-*Respondent* means the employer, individual, or State agency (including a State agency official) who is alleged to have committed the violation described in a complaint.
+*Respondent* means the individual or entity alleged to have committed the violation described in the complaint, such as the employer, service provider, or State agency (including a State agency official).
 
 *Seasonal farmworker* means an individual who is employed, or was employed in the past 12 months, in farmwork (as defined in this section) of a seasonal or other temporary nature and is not required to be absent overnight from his/her permanent place of residence. Non-migrant individuals who are full-time students are excluded. Labor is performed on a seasonal basis where, ordinarily, the employment pertains to or is of the kind exclusively performed at certain seasons or periods of the year and which, from its nature, may not be continuous or carried on throughout the year. A worker who moves from one seasonal activity to another, while employed in farmwork, is employed on a seasonal basis even though he/she may continue to be employed during a major portion of the year. A worker is employed on other temporary basis where he/she is employed for a limited time only or his/her performance is contemplated for a particular piece of work, usually of short duration. Generally, employment which is contemplated to continue indefinitely is not temporary.
 
@@ -167,6 +169,8 @@ In addition to the definitions set forth in sec. 3 of WIOA, the following defini
 *State agency* or *State Workforce Agency (SWA)* means the State ES agency designated under sec. 4 of the Wagner-Peyser Act.
 
 *State hearing official* means a State official designated to preside at State administrative hearings convened to resolve complaints involving ES regulations pursuant to subpart E of part 658 of this chapter.
+
+*State Workforce Agency (SWA) official* means an individual employed by the State Workforce Agency or any of its subdivisions.
 
 *State Workforce Development Board* or *State WDB* means the entity within a State appointed by the Governor under sec. 101 of WIOA.
 
@@ -272,4 +276,4 @@ WLMI also may include, as either source data or as outputs of analysis of source
 
 *Work test* means activities designed to ensure that an individual whom a State determines to be eligible for unemployment insurance benefits is able to work, available for work, and actively seeking work in accordance with the State's unemployment compensation law.
 
-[81 FR 56333, Aug. 19, 2016]
+[81 FR 56333, Aug. 19, 2016, as amended at 85 FR 625, Jan. 6, 2020]

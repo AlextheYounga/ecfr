@@ -1,6 +1,4 @@
-##### § 658.603 Employment and Training Administration Regional Office responsibility. #####
-
-Link to an amendment published at 85 FR 630, Jan. 6, 2020.
+##### § 658.603 Employment and Training Administration regional office responsibility. #####
 
 (a) The Regional Administrator must have responsibility for the regular review and assessment of SWA performance and compliance with ES regulations.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 630, Jan. 6, 2020.
 
 (e) The Regional Administrator must provide technical assistance to SWAs to assist them in carrying out ES regulations and programs.
 
-(f) The Regional Administrator must appoint a RMA who must devote full time to the duties set forth in this subpart. The RMA must:
+(f) The Regional Administrator must appoint a RMA who must carry out the duties set forth in this subpart. The RMA must:
 
 (1) Review the effective functioning of the SMAs in his/her region;
 
@@ -58,7 +56,7 @@ Link to an amendment published at 85 FR 630, Jan. 6, 2020.
 
 (g) The RMA must be appointed by the Regional Administrator after informing farmworker organizations and other organizations in the region with expertise concerning MSFWs of the opening and encouraging them to refer qualified applicants to apply through the Federal merit system. The RMA must have direct personal access to the Regional Administrator wherever he/she finds it necessary. Among qualified candidates, individuals must be sought who meet the criteria used in the selection of the SMAs, as provided in § 653.108(b) of this chapter.
 
-(h) The Regional Administrator must ensure that staff necessary to fulfill effectively all the regional office responsibilities set forth in this section are assigned. The RMA must notify the Regional Administrator of any staffing deficiencies and the Regional Administrator must take appropriate action.
+(h) The Regional Administrator must ensure that staff necessary to fulfill effectively all the regional office responsibilities set forth in this section are assigned.
 
 (i) The RMA within the first 3 months of his/her tenure must participate in a training session(s) approved by the National Office.
 
@@ -98,11 +96,11 @@ Link to an amendment published at 85 FR 630, Jan. 6, 2020.
 
 (2) Is being impeded in fulfilling his/her duties; or
 
-(3) Is making recommendations which are being consistently ignored by SWA officials. If the RMA believes that the effectiveness of any SMA has been substantially impeded by the State Administrator, other State agency officials, or any Federal officials, he/she must report and recommend appropriate actions to the Regional Administrator. Copies of the recommendations must be provided to the NMA electronically or in hard copy.
+(3) Is making recommendations that are being consistently ignored by SWA officials. If the RMA believes that the effectiveness of any SMA has been substantially impeded by the State Administrator, other State agency officials, any Federal officials, or other ES staff, he/she must report and recommend appropriate actions to the Regional Administrator. Copies of the recommendations must be provided to the NMA electronically or in hard copy.
 
-(o) The RMA must be informed of all proposed changes in policy and practice within the ES, including ES regulations, which may affect the delivery of services to MSFWs. He/she must advise the Regional Administrator on all such proposed changes which, in his/her opinion, may adversely affect MSFWs or which may substantially improve the delivery of services to MSFWs.
+(o)(1) The RMA must be informed of all proposed changes in policy and practice within the ES, including ES regulations, which may affect the delivery of services to MSFWs. He/she must advise the Regional Administrator on all such proposed changes which, in his/her opinion, may adversely affect MSFWs or which may substantially improve the delivery of services to MSFWs.
 
-The RMA also may recommend changes in ES policy or regulations, as well as changes in the funding of State Workforce Agencies and/or adjustments of reallocation of the discretionary portions of funding formulae as they pertain to MSFWs.
+(2) The RMA also may recommend changes in ES policy or regulations, as well as changes in the funding of State Workforce Agencies and/or adjustments of reallocation of the discretionary portions of funding formulae as they pertain to MSFWs.
 
 (p) The RMA must participate in the review and assessment activities required in this section and §§ 658.700 *through 658.711.* He/she, an assistant, or another RMA, must participate in National Office and regional office on-site statewide reviews of employment services to MSFWs in States in the region. The RMA must engage in the following activities in the course of participating in an on-site SWA review:
 
@@ -116,15 +114,15 @@ The RMA also may recommend changes in ES policy or regulations, as well as chang
 
 (q) During the calendar quarter preceding the time of peak MSFW activity in each State, the RMA must meet with the SMA and must review in detail the State Workforce Agency's capability for providing the full range of services to MSFWs as required by ES regulations, during the upcoming harvest season. The RMA must offer technical assistance and recommend to the SWA and/or the Regional Administrator any changes in State policy or practice that he/she finds necessary.
 
-(r) The RMA each year during the peak harvest season must visit each State in the region not scheduled for an on-site review during that fiscal year and must:
+(r) As appropriate, each year during the peak harvest season, the RMA must visit each State in the region not scheduled for an onsite review during that fiscal year and must:
 
-(1) Meet with the SMA and other SWA staff to discuss MSFW service delivery; and
+(1) Meet with the SMA and other ES staff to discuss MSFW service delivery; and
 
 (2) Contact representatives of MSFW organizations to obtain information concerning ES delivery and coordination with other agencies and interested employer organizations.
 
 (s) The RMA must initiate and maintain regular and personal contacts, including informal contacts in addition to those specifically required by these regulations, with SMAs in the region. In addition, the RMA must have personal and regular contact with the NMA. The RMA also must establish routine and regular contacts with WIOA sec. 167 National Farmworker Jobs Program grantees, other farmworker organizations and agricultural employers and/or employer organizations in his/her region. He/she must attend conferences or meetings of these groups wherever possible and must report to the Regional Administrator and the Regional Farm Labor Coordinated Enforcement Committee on these contacts when appropriate. He/she also must make recommendations as to how the Department might better coordinate ES and WIOA sec. 167 National Farmworker Jobs Program services to MSFWs.
 
-(t) The RMA must attend MSFW-related public meeting(s) conducted in the region. Following such meetings or hearings, the RMA must take such steps or make such recommendations to the Regional Administrator, as he/she deems necessary to remedy problem(s) or condition(s) identified or described therein.
+(t) The RMA must attend MSFW-related public meeting(s) conducted in the region, as appropriate. Following such meetings or hearings, the RMA must take such steps or make such recommendations to the Regional Administrator, as he/she deems necessary to remedy problem(s) or condition(s) identified or described therein.
 
 (u) The RMA must attempt to achieve regional solutions to any problems, deficiencies, or improper practices concerning services to MSFWs which are regional in scope. Further, he/she must recommend policies, offer technical assistance, or take any other necessary steps as he/she deems desirable or appropriate on a regional, rather than State-by-State basis, to promote region-wide improvement in the delivery of employment services to MSFWs. He/she must facilitate region-wide coordination and communication regarding provision of employment services to MSFWs among SMAs, State Administrators, and Federal ETA officials to the greatest extent possible. In the event that any SWA or other RMA, enforcement agency, or MSFW group refers a matter to the RMA which requires emergency action, he/she must assist them in obtaining action by appropriate agencies and staff, inform the originating party of the action taken, and, upon request, provide written confirmation.
 
@@ -133,3 +131,5 @@ The RMA also may recommend changes in ES policy or regulations, as well as chang
 (w) The RMA must establish regular contacts with the regional agricultural coordinators from WHD and OSHA and any other regional staff from other Federal enforcement agencies and must establish contacts with the staff of other Department agencies represented on the Regional Farm Labor Coordinated Enforcement Committee and to the extent necessary, on other pertinent task forces or committees.
 
 (x) The RMA must participate in the regional reviews of the State Plans, and must comment to the Regional Administrator as to the SWA compliance with the ES regulations as they pertain to services to MSFWs, including the staffing of ES offices.
+
+[81 FR 56352, Aug. 19, 2016, as amended at 85 FR 630, Jan. 6, 2020]
