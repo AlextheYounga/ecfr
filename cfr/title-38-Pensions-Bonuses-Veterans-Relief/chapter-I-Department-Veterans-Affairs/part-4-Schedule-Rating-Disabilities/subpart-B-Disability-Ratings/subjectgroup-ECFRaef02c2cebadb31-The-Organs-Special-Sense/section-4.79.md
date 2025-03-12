@@ -1,5 +1,7 @@
 ##### § 4.79 Schedule of ratings - eye. #####
 
+Link to an amendment published at 83 FR 15321, Apr. 10, 2018.
+
 Diseases of the Eye
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |    Rating     |
