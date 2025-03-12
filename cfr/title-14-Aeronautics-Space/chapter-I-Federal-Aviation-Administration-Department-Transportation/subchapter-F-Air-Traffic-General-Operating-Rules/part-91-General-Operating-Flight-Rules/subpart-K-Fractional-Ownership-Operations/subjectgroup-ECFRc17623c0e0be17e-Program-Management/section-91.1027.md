@@ -1,12 +1,10 @@
 ##### § 91.1027 Recordkeeping. #####
 
-Link to an amendment published at 82 FR 39664, Aug. 22, 2017.
-
 (a) Each program manager must keep at its principal base of operations or at other places approved by the Administrator, and must make available for inspection by the Administrator all of the following:
 
 (1) The program manager's management specifications.
 
-(2) A current list of the aircraft used or available for use in operations under this subpart, the operations for which each is equipped (for example, MNPS, RNP5/10, RVSM.).
+(2) A current list of the aircraft used or available for use in operations under this subpart, the operations for which each is equipped (for example, RNP5/10, RVSM.).
 
 (3) An individual record of each pilot used in operations under this subpart, including the following information:
 
@@ -40,7 +38,7 @@ Link to an amendment published at 82 FR 39664, Aug. 22, 2017.
 
 (b) Each program manager must keep each record required by paragraph (a)(2) of this section for at least 6 months, and must keep each record required by paragraphs (a)(3) and (a)(4) of this section for at least 12 months. When an employee is no longer employed or affiliated with the program manager or fractional owner, each record required by paragraphs (a)(3) and (a)(4) of this section must be retained for at least 12 months.
 
-(c) Each program manager is responsible for the preparation and accuracy of a load manifest in duplicate containing information concerning the loading of the aircraft. The manifest must be prepared before each takeoff and must include -
+(c) Each program manager is responsible for the preparation and accuracy of a load manifest in duplicate containing information concerning the loading of the aircraft. The manifest must be prepared before each takeoff and must include—
 
 (1) The number of passengers;
 
@@ -65,3 +63,5 @@ Link to an amendment published at 82 FR 39664, Aug. 22, 2017.
 (f) Records may be kept either in paper or other form acceptable to the Administrator.
 
 (g) Program managers that are also certificated to operate under part 121 or 135 of this chapter may satisfy the recordkeeping requirements of this section and of § 91.1113 with records maintained to fulfill equivalent obligations under part 121 or 135 of this chapter.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2016-9154, Amdt. 91-348, 82 FR 39664, Aug. 22, 2017]

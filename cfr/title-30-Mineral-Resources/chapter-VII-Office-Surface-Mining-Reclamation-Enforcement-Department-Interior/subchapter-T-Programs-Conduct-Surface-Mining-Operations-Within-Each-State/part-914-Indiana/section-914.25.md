@@ -1,7 +1,5 @@
 ##### § 914.25 Approval of Indiana abandoned mine land reclamation plan amendments. #####
 
-Link to an amendment published at 82 FR 44317, Sept. 22, 2017.
-
 The following is a list of the dates amendments were submitted to OSM, the dates when the Director's decision approving all, or portions of these amendments, were published in the Federal Register and the State citations or a brief description of each amendment. The amendments in this table are listed in order of the date of final publication in the Federal Register.
 
 |Original amendment submission date|Date of final publication |                                                                                                                      Citation/description                                                                                                                       |
@@ -11,5 +9,6 @@ The following is a list of the dates amendments were submitted to OSM, the dates
 |        November 17, 1992         |     October 26, 1994     |                                                                                                             Emergency response reclamation program.                                                                                                             |
 |          July 23, 1997           |      March 16, 1998      |                                                                       Indiana plan §§ 884.13(c)(2) through (7), (d)(1) through (3), (f)(2), (3); emergency response reclamation program.                                                                        |
 |           June 2, 2004           |    September 14, 2004    |                                                                                                                         IC 14-34-19-15.                                                                                                                         |
+|          March 14, 2016          |    September 22, 2017    |                                                                                                 Abandoned Mine Land Reclamation Plan for the State of Indiana.                                                                                                  |
 
-[62 FR 9940, Mar. 5, 1997, as amended at 63 FR 12652, Mar. 16, 1998; 69 FR 55352, Sept. 14, 2004; 69 FR 69287, Nov. 29, 2004]
+[62 FR 9940, Mar. 5, 1997, as amended at 63 FR 12652, Mar. 16, 1998; 69 FR 55352, Sept. 14, 2004; 69 FR 69287, Nov. 29, 2004; 82 FR 44317, Sept. 22, 2017]
