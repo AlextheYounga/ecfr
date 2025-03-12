@@ -14,7 +14,7 @@ Task Ordering Procedures (OCT 1996)
 
 (3) A request for a task plan from the Contractor to include the technical approach, period of performance, appropriate cost information, and any other information required to determine the reasonableness of the Contractor's proposal.
 
-(c) Within \_\_ calendar days after receipt of the Contracting Officer's request, the Contractor shall submit a task plan conforming to the request.
+(c) Within \_\_\_\_ calendar days after receipt of the Contracting Officer's request, the Contractor shall submit a task plan conforming to the request.
 
 (d) After review and any necessary discussions, the Contracting Officer may issue a task order to the Contractor containing, as a minimum, the following:
 
@@ -34,7 +34,7 @@ Task Ordering Procedures (OCT 1996)
 
 (8) If contract funding is by individual task order, accounting and appropriation data.
 
-(e) The Contractor shall provide acknowledgement of receipt to the Contracting Officer within \_\_ calendar days after receipt of the task order.
+(e) The Contractor shall provide acknowledgement of receipt to the Contracting Officer within \_\_\_\_ calendar days after receipt of the task order.
 
 (f) If time constraints do not permit issuance of a fully defined task order in accordance with the procedures described in paragraphs (a) through (d), a task order which includes a ceiling price may be issued.
 
@@ -42,9 +42,9 @@ Task Ordering Procedures (OCT 1996)
 
 (h) In the event of a conflict between the requirements of the task order and the Contractor's approved task plan, the task order shall prevail.
 
-(End of clause)Alternate I (APR 2018)
+(End of clause)
 
-As prescribed in 1816.506-70(a), insert the following paragraph (i):
+*Alternate I* (APR 2018) As prescribed in 1816.506-70(a), insert the following paragraph (i):
 
 (i) Contractor shall submit progress reports, as required. When required, the reports shall contain, at a minimum, the following information:
 
@@ -62,9 +62,7 @@ As prescribed in 1816.506-70(a), insert the following paragraph (i):
 
 (7) Invoice number.
 
-Alternate II (APR 2018)
-
-As prescribed in 1816.506-70(b), insert the following paragraph (i):
+*Alternate II* (APR 2018) As prescribed in 1816.506-70(b), insert the following paragraph (i):
 
 (i) Contractor shall submit progress reports, as required. When required, the reports shall contain, at a minimum, the following information:
 

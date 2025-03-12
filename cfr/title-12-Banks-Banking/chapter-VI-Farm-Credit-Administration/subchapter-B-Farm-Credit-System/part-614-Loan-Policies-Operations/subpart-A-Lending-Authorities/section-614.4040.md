@@ -1,5 +1,7 @@
 ##### § 614.4040 Production credit associations. #####
 
+Link to an amendment published at 85 FR 60693, Sept. 28, 2020.
+
 (a) *Loan terms.* (1) Production credit associations are authorized to make or guarantee loans and other similar financial assistance for the following terms:
 
 (i) Not more than 7 years

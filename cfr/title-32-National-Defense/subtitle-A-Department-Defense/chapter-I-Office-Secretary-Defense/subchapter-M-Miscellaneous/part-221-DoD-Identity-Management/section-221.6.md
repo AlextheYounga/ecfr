@@ -18,9 +18,9 @@
 
 (vi) Other populations as determined by the Director, DMDC.
 
-(2) [Reserved].
+(2) [Reserved]
 
-(c) *Lifecycle* - (1) *Application.* Eligible individuals, as identified in paragraph (b)(1) of this section, may apply for a DS Logon credential:
+(c) *Lifecycle*—(1) *Application.* Eligible individuals, as identified in paragraph (b)(1) of this section, may apply for a DS Logon credential:
 
 (i) *Online.* Individuals with internet access may apply for a sponsor or dependent DS Logon by submitting a:
 
@@ -88,7 +88,7 @@
 
 (C) Proof of identity, in accordance with the requirements for in-person proofing in paragraph (c)(1)(iii) of this section.
 
-(ii) *Types of surrogates* - (A) *Financial agent (FA).* An eligible individual names an FA to assist with specific financial matters.
+(ii) *Types of surrogates*—(A) *Financial agent (FA).* An eligible individual names an FA to assist with specific financial matters.
 
 (B) *Legal agent (LA).* An eligible individual names an LA to assist with legal matters.
 
@@ -104,7 +104,7 @@
 
 (1) *Sponsor access.* Sponsors will automatically have access to the information of all dependents under the age of 18.
 
-(2) *Spousal access* - (i) *Automatic.* A sponsor's spouse will automatically have access to the information of all dependent children under the age of 18 whose relationship to the sponsor began on or after the date of marriage of the sponsor and sponsor's spouse.
+(2) *Spousal access*—(i) *Automatic.* A sponsor's spouse will automatically have access to the information of all dependent children under the age of 18 whose relationship to the sponsor began on or after the date of marriage of the sponsor and sponsor's spouse.
 
 (ii) *Sponsor-granted.* The sponsor may grant the sponsor's spouse access to the information of dependent children under the age of 18 whose relationship to the sponsor began before the date of marriage of the sponsor and the sponsor's spouse.
 

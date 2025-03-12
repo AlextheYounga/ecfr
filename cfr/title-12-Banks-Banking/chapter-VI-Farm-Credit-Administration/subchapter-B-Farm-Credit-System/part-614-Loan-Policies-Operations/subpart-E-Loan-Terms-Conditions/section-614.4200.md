@@ -1,5 +1,7 @@
 ##### § 614.4200 General requirements. #####
 
+Link to an amendment published at 85 FR 60694, Sept. 28, 2020.
+
 (a) *Terms and conditions.* (1) The terms and conditions of each loan made by a Farm Credit bank or association shall be set forth in a written document or documents, such as a loan agreement, promissory note, or other instrument(s) appropriate to the type and amount of the credit extension, in order to establish loan conditions and performance requirements. Copies of all documents executed by the borrower in connection with the closing of a loan made under titles I or II of the Act shall be provided to the borrower at the time of execution and at any time thereafter that the borrower requests additional copies.
 
 (2) The terms and conditions of all loans shall be adequately disclosed in writing to the borrower not later than loan closing. For loans made under titles I and II of the Act, the institution shall provide prompt written notice of the approval of the loan.

@@ -14,5 +14,4 @@
 
 (g) *Extension request.* A licensee may file a request for a longer discontinuance period for good cause. An extension request must be filed at least 30 days before the end of the applicable 180-day or 365-day discontinuance period. The filing of an extension request will automatically extend the discontinuance period a minimum of the later of an additional 30 days or the date upon which the Wireless Telecommunications Bureau acts on the request.
 
-[82 FR 41547, Sept. 1, 2017]Effective Date Note:At 82 FR 41547, Sept. 1, 2017,
-§ 1.953 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 41547, Sept. 1, 2017]

@@ -22,7 +22,7 @@ Proposal Content (MAR 2016)
 
 The offeror shall describe in detail how the offeror will maintain the security of automated systems as required by clause 2452.239-70 in Section I of this solicitation and include it in Part II, Business Proposal.
 
-(End of provision)Alternate II\>PROPOSAL CONTENT ALTERNATE II (APR 2019)
+(End of provision)Alternate II\>Proposal Content Alternate II (APR 2019)
 
 As prescribed in 2415.209(a), add the following paragraph (e) when the size of any proposal Part I or Part II will be limited:
 

@@ -2,11 +2,7 @@
 
 (a) AWS and WCS licensees, with the exception of WCS licensees holding authorizations for the 600 MHz band, Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block E in the 722-728 MHz band, Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands, Block A in the 2305-2310 MHz and 2350-2355 MHz bands, Block B in the 2310-2315 MHz and 2355-2360 MHz bands, Block C in the 2315-2320 MHz band, Block D in the 2345-2350 MHz band, and in the 3700-3980 MHz band, and with the exception of licensees holding AWS authorizations in the 1915-1920 MHz and 1995-2000 MHz bands, the 2000-2020 MHz and 2180-2200 MHz bands, or 1695-1710 MHz, 1755-1780 MHz and 2155-2180 MHz bands, must, as a performance requirement, make a showing of “substantial service” in their license area within the prescribed license term set forth in § 27.13. “Substantial service” is defined as service which is sound, favorable and substantially above a level of mediocre service which just might minimally warrant renewal. Failure by any licensee to meet this requirement will result in forfeiture of the license and the licensee will be ineligible to regain it.
 
-(b)-(d) [Reserved]
-
-(e) Comparative renewal proceedings do not apply to WCS licensees holding authorizations for Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block C in the 710-716 MHz and 740-746 MHz bands, Block D in the 716-722 MHz band, Block E in the 722-728 MHz band, or Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands. Each of these licensees must file a renewal application in accordance with the provisions set forth in § 1.949, and must make a showing of substantial service, independent of its performance requirements, as a condition for renewal at the end of each license term.
-
-(f) [Reserved]
+(b)-(f) [Reserved]
 
 (g) WCS licensees holding EA authorizations for Block A in the 698-704 MHz and 728-734 MHz bands, cellular market authorizations for Block B in the 704-710 MHz and 734-740 MHz bands, or EA authorizations for Block E in the 722-728 MHz band, if the results of the first auction in which licenses for such authorizations are offered satisfy the reserve price for the applicable block, shall provide signal coverage and offer service over at least 35 percent of the geographic area of each of their license authorizations no later than June 13, 2013 (or within four years of initial license grant if the initial authorization in a market is granted after June 13, 2009), and shall provide such service over at least 70 percent of the geographic area of each of these authorizations by the end of the license term. In applying these geographic benchmarks, licensees are not required to include land owned or administered by government as a part of the relevant service area. Licensees may count covered government land for purposes of meeting their geographic construction benchmark, but are required to add the covered government land to the total geographic area used for measurement purposes. Licensees are required to include those populated lands held by tribal governments and those held by the Federal Government in trust or for the benefit of a recognized tribe.
 
@@ -110,18 +106,6 @@
 
 (6) Failure by any AWS-4 licensee to meet the AWS-4 Final Buildout Requirement in paragraph (q)(4) of this section will result in forfeiture of the license and the licensee will be ineligible to regain it.
 
-(7) *Renewal showing.* An applicant for renewal of a geographic-area authorization in the 2000-2020 MHz and 2180-2200 MHz service bands must make a renewal showing, independent of its performance requirements, as a condition of renewal. The showing must include a detailed description of the applicant's provision of service during the entire license period and address:
-
-(i) The level and quality of service provided by the applicant (including the population served, the area served, the number of subscribers, the services offered);
-
-(ii) The date service commenced, whether service was ever interrupted, and the duration of any interruption or outage;
-
-(iii) The extent to which service is provided to rural areas;
-
-(iv) The extent to which service is provided to qualifying tribal land as defined in § 1.2110(f)(3)(i) of this chapter; and
-
-(v) Any other factors associated with the level of service to the public.
-
 (r) The following provisions apply to any licensee holding an AWS authorization in the 1915-1920 MHz and 1995-2000 MHz bands:
 
 (1) A licensee shall provide signal coverage and offer service within four (4) years from the date of the initial license to at least forty (40) percent of the population in each of its licensed areas (“Interim Buildout Requirement”).
@@ -133,18 +117,6 @@
 (4) If a licensee fails to establish that it meets the Final Buildout Requirement for a particular licensed area, its authorization for each license area in which it fails to meet the Final Buildout Requirement shall terminate automatically without Commission action and the licensee will be ineligible to regain it if the Commission makes the license available at a later date.
 
 (5) To demonstrate compliance with these performance requirements, licensees shall use the most recently available U.S. Census Data at the time of measurement and shall base their measurements of population served on areas no larger than the Census Tract level. The population within a specific Census Tract (or other acceptable identifier) will only be deemed served by the licensee if it provides signal coverage to and offers service within the specific Census Tract (or other acceptable identifier). To the extent the Census Tract (or other acceptable identifier) extends beyond the boundaries of a license area, a licensee with authorizations for such areas may only include the population within the Census Tract (or other acceptable identifier) towards meeting the performance requirement of a single, individual license.
-
-(6) An applicant for renewal of a license covered by this paragraph (r) must make a renewal showing, independent of its performance requirements, as a condition of renewal. The showing must include a detailed description of the applicant's provision of service during the entire license period and address:
-
-(i) The level and quality of service provided by the applicant (including the population served, the area served, the number of subscribers, the services offered);
-
-(ii) The date service commenced, whether service was ever interrupted, and the duration of any interruption or outage;
-
-(iii) The extent to which service is provided to rural areas;
-
-(iv) The extent to which service is provided to qualifying tribal land as defined in § 1.2110(f)(3)(i) of this chapter; and
-
-(v) Any other factors associated with the level of service to the public.
 
 (s) The following provisions apply to any licensee holding an AWS authorization in the 1695-1710 MHz, 1755-1780 MHz, and 2155-2180 MHz bands:
 
@@ -158,18 +130,6 @@
 
 (5) To demonstrate compliance with these performance requirements, licensees shall use the most recently available U.S. Census Data at the time of measurement and shall base their measurements of population served on areas no larger than the Census Tract level. The population within a specific Census Tract (or other acceptable identifier) will be deemed served by the licensee only if it provides signal coverage to and offers service within the specific Census Tract (or other acceptable identifier). To the extent the Census Tract (or other acceptable identifier) extends beyond the boundaries of a license area, a licensee with authorizations for such areas may include only the population within the Census Tract (or other acceptable identifier) towards meeting the performance requirement of a single, individual license. For the Gulf of Mexico license area, the licensee shall demonstrate compliance with these performance requirements, using off-shore platforms, including production, manifold, compression, pumping and valving platforms as a proxy for population in the Gulf of Mexico.
 
-(6) An applicant for renewal of a license covered by paragraph (s) of this section must make a renewal showing, independent of its performance requirements, as a condition of each renewal. The showing must include a detailed description of the applicant's provision of service during the entire license period and address:
-
-(i) The level and quality of service provided by the applicant (including the population served, the area served, the number of subscribers, the services offered);
-
-(ii) The date service commenced, whether service was ever interrupted, and the duration of any interruption or outage;
-
-(iii) The extent to which service is provided to rural areas;
-
-(iv) The extent to which service is provided to qualifying tribal land as defined in § 1.2110(f)(3)(i) of this chapter; and
-
-(v) Any other factors associated with the level of service to the public.
-
 (t) The following provisions apply to any licensee holding an authorization in the 600 MHz band:
 
 (1) A licensee shall provide reliable signal coverage and offer service within six (6) years from the date of the initial license to at least forty (40) percent of the population in each of its license areas (“Interim Buildout Requirement”).
@@ -181,18 +141,6 @@
 (4) If a licensee fails to establish that it meets the Final Buildout Requirement for a particular license area, its authorization for each license area in which it fails to meet the Final Buildout Requirement shall terminate automatically without Commission action, and the licensee will be ineligible to regain it if the Commission makes the license available at a later date.
 
 (5) To demonstrate compliance with these performance requirements, licensees shall use the most recently available decennial U.S. Census Data at the time of measurement and shall base their measurements of population served on areas no larger than the Census Tract level. The population within a specific Census Tract (or other acceptable identifier) will be deemed served by the licensee only if it provides reliable signal coverage to and offers service within the specific Census Tract (or other acceptable identifier). To the extent the Census Tract (or other acceptable identifier) extends beyond the boundaries of a license area, a licensee with authorizations for such areas may include only the population within the Census Tract (or other acceptable identifier) towards meeting the performance requirement of a single, individual license. For the Gulf of Mexico license area, the licensee shall demonstrate compliance with these performance requirements, using off-shore platforms, including production, manifold, compression, pumping and valving platforms as a proxy for population in the Gulf of Mexico.
-
-(6) An applicant for renewal of a license covered by this paragraph (t) must make a renewal showing, independent of its performance requirements, as a condition of each renewal. The showing must include a detailed description of the applicant's provision of service during the entire license period and address:
-
-(i) The level and quality of service provided by the applicant (including the population served, the area served, the number of subscribers, the services offered);
-
-(ii) The date service commenced, whether service was ever interrupted, and the duration of any interruption or outage;
-
-(iii) The extent to which service is provided to rural areas;
-
-(iv) The extent to which service is provided to qualifying tribal land as defined in § 1.2110(f)(3)(i) of this chapter; and
-
-(v) Any other factors associated with the level of service to the public.
 
 (u) This section enumerates performance requirements for EBS licenses initially issued after October 25, 2019. Licensees shall demonstrate compliance with performance requirements by filing a construction notification with the Commission, within 15 days of the expiration of the applicable benchmark, in accordance with the provisions set forth in § 1.946(d) of this chapter.
 
@@ -216,4 +164,4 @@
 
 (4) To demonstrate compliance with these performance requirements, licensees shall use the most recently available decennial U.S. Census Data at the time of measurement and shall base their measurements of population or geographic area served on areas no larger than the Census Tract level. The population or area within a specific Census Tract (or other acceptable identifier) will be deemed served by the licensee only if it provides reliable signal coverage to and offers service within the specific Census Tract (or other acceptable identifier). To the extent the Census Tract (or other acceptable identifier) extends beyond the boundaries of a license area, a licensee with authorizations for such areas may include only the population or geographic area within the Census Tract (or other acceptable identifier) towards meeting the performance requirement of a single, individual license. If a licensee does not provide reliable signal coverage to an entire license area, the license must provide a map that accurately depicts the boundaries of the area or areas within each license area not being served. Each licensee also must file supporting documentation certifying the type of service it is providing for each licensed area within its service territory and the type of technology used to provide such service. Supporting documentation must include the assumptions used to create the coverage maps, including the propagation model and the signal strength necessary to provide reliable service with the licensee's technology.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 82 FR 41548, Sept. 1, 2017, § 27.14 was amended by removing paragraphs (e), (q)(7), (r)(6), (s)(6), and (t)(6). These paragraphs contain information collection and recordkeeping requirements and the removals will not become effective until approval has been given by the Office of Management and Budget.
+[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -40,5 +40,4 @@
 
 (h) *Unjust enrichment.* Licensees making installment payments or that received a bidding credit, that partition their licenses or disaggregate their spectrum to entities that do not meet the eligibility standards for installment payments or bidding credits, are subject to the unjust enrichment requirements of § 1.2111.
 
-[82 FR 41546, Sept. 1, 2017]Effective Date Note:At 82 FR 41546, Sept. 1, 2017,
-§ 1.950 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 41546, Sept. 1, 2017]

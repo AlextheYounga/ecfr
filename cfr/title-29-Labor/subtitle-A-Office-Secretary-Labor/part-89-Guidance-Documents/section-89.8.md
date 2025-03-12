@@ -1,0 +1,3 @@
+##### § 89.8 Enforceability. #####
+
+This rule is intended to improve the internal management of the Department. As such, it is for the use of Department personnel only and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.

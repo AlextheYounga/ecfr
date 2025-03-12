@@ -1,5 +1,7 @@
 ##### § 614.4050 Agricultural credit associations. #####
 
+Link to an amendment published at 85 FR 60693, Sept. 28, 2020.
+
 Agricultural credit associations are authorized to make or guarantee, subject to the requirements of § 614.4200 of this part:
 
 (a) *Long-term real estate mortgage loans* with maturities of not less than 5 nor more than 40 years, and continue commitments to make such loans; and

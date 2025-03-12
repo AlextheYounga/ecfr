@@ -1,7 +1,5 @@
 ##### § 17.106 VA collection rules; third-party payers. #####
 
-Link to an amendment published at 85 FR 53176, Aug. 28, 2020.
-
 (a)(1) *General rule.* VA has the right to recover or collect reasonable charges from a third-party payer for medical care and services provided for a nonservice-connected disability in or through any VA facility to a veteran who is also a beneficiary under the third-party payer's plan. VA's right to recover or collect is limited to the extent that the beneficiary or a nongovernment provider of care or services would be eligible to receive reimbursement or indemnification from the third-party payer if the beneficiary were to incur the costs on the beneficiary's own behalf.
 
 (2) *Definitions.* For the purposes of this section:
@@ -106,6 +104,8 @@ Link to an amendment published at 85 FR 53176, Aug. 28, 2020.
 
 (vii) Health Maintenance Organizations (HMOs) may not exclude claims or refuse to certify emergent and urgent services provided within the HMO's service area or otherwise covered non-emergency services provided out of the HMO's service area. In addition, opt-out or point-of-service options available under an HMO plan may not exclude services otherwise payable under 38 U.S.C. 1729 or this part.
 
+(viii) A third party may not reduce or refuse payment if the facility where the medical treatment was furnished is designated by VA as provider-based, but the facility does not meet the provider-based status requirements under 42 CFR 413.65.
+
 (g) *Records.* Pursuant to 38 U.S.C. 1729(h), VA shall make available for inspection and review to representatives of third-party payers, from which the United States seeks payment, recovery, or collection under 38 U.S.C. 1729, appropriate health care records (or copies of such records) of patients. However, the appropriate records will be made available only for the purposes of verifying the care and services which are the subject of the claim(s) for payment under 38 U.S.C. 1729, and for verifying that the care and services met the permissible criteria of the terms and conditions of the third-party payer's plan. Patient care records will not be made available under any other circumstances to any other entity. VA will not make available to a third-party payer any other patient or VA records.
 
-(Authority: 31 U.S.C. 3711, 38 U.S.C. 501, 1729, 42 U.S.C. 2651)[76 FR 37204, June 24, 2011, as amended at 79 FR 54616, Sept. 12, 2014]
+(Authority: 31 U.S.C. 3711, 38 U.S.C. 501, 1729, 42 U.S.C. 2651)[76 FR 37204, June 24, 2011, as amended at 79 FR 54616, Sept. 12, 2014; 85 FR 53176, Aug. 28, 2020]

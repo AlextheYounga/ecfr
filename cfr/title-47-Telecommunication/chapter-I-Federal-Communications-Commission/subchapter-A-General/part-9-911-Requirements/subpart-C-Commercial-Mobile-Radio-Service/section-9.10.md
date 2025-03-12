@@ -1,7 +1,5 @@
 ##### § 9.10 911 Service. #####
 
-Link to an amendment published at 85 FR 53246, Aug. 28, 2020.
-
 (a) *Scope of section.* Except as described in paragraph (r) of this section, the following requirements of paragraphs (a) through (q) of this section are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 
 (1) Offer real-time, two way switched voice service that is interconnected with the public switched network; and
@@ -158,19 +156,39 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 
 (B) Within 3 years: Nationwide CMRS providers shall develop one or more z-axis accuracy metrics validated by an independently administered and transparent test bed process as described in paragraph (i)(3)(i) of this section, and shall submit the proposed metric or metrics, supported by a report of the results of such development and testing, to the Commission for approval.
 
-(C) By April 3, 2021: In each of the top 25 cellular market areas (CMAs), nationwide CMRS providers shall deploy either dispatchable location, or z-axis technology in compliance with the following z-axis accuracy metric: Within 3 meters above or below (plus or minus 3 meters) the handset for 80% of wireless E911 calls made from the z-axis capable device. CMRS providers must deliver z-axis information in Height Above Ellipsoid. Where available to the CMRS provider, floor level information must be provided in addition to z-axis location information. CMRS providers that deploy z-axis technology must also comply with the compliance certification and call data reporting requirements of paragraphs (i)(2)(iii) and (i)(3) of this section.
+(C) By April 3, 2021: In each of the top 25 cellular market areas (CMAs), nationwide CMRS providers shall deploy either dispatchable location or z-axis technology.
 
-(*1*) In each CMA where dispatchable location is used: nationwide CMRS providers must ensure that the NEAD is populated with a sufficient number of total dispatchable location reference points to equal 25 percent of the CMA population.
+(D) By April 3, 2023: In each of the top 50 CMAs, nationwide CMRS providers shall deploy either dispatchable location or z-axis technology.
 
-(*2*) In each CMA where z-axis technology is used: nationwide CMRS providers must deploy z-axis technology to cover 80 percent of the CMA population.
+(E) By April 3, 2025: Nationwide CMRS providers shall deploy on a nationwide basis either dispatchable location or z-axis technology.
 
-(D) By April 3, 2023: In each of the top 50 CMAs, nationwide CMRS providers shall deploy either dispatchable location, or z-axis technology in compliance with the following z-axis accuracy metric: Within 3 meters above or below (plus or minus 3 meters) the handset for 80% of wireless E911 calls made from the z-axis capable device. CMRS providers must deliver z-axis information in Height Above Ellipsoid. Where available to the CMRS provider, floor level information must be provided in addition to z-axis location information. CMRS providers that deploy z-axis technology must also comply with the compliance certification and call data reporting requirements of paragraphs (i)(2)(iii) and (i)(3) of this section.
+(F) Non-nationwide CMRS providers that serve any of the top 25 or 50 CMAs will have an additional year to meet each of the benchmarks in paragraphs (i)(2)(ii)(C) and (D) of this section. All non-nationwide providers will have an additional year to meet the benchmark in paragraph (i)(2)(ii)(E) of this section by deploying either dispatchable location or z-axis technology throughout their network footprint.
 
-(*1*) Dispatchable location or;
+(G) By January 6, 2022: All CMRS providers shall provide dispatchable location with wireless E911 calls if it is technically feasible for them to do so.
 
-(*2*) Such z-axis technology in compliance with any z-axis accuracy metric that has been approved by the Commission.
+(H) CMRS providers that deploy z-axis technology must do so consistent with the following z-axis accuracy metric: Within 3 meters above or below (plus or minus 3 meters) the handset for 80% of wireless E911 calls made from the z-axis capable device. CMRS providers must deliver z-axis information in Height Above Ellipsoid. Where available to the CMRS provider, floor level information must be provided in addition to z-axis location information.
 
-(E) Non-nationwide CMRS providers that serve any of the top 25 or 50 CMAs will have an additional year to meet each of the benchmarks in paragraphs (i)(2)(ii)(C) and (D) of this section.
+(I) CMRS providers that deploy z-axis technology must do so according to the following options:
+
+(*1*) In each area where z-axis technology is used, deploy the technology to cover 80 percent of the population or 80 percent of the buildings that exceed three stories; or
+
+(*2*) Deploy z-axis capable handsets enabled with z-axis technology on a nationwide basis (or throughout the CMRS provider's network footprint, as applicable).
+
+(J) CMRS providers that deploy z-axis technology must comply with the following:
+
+(*1*) CMRS providers must activate all network infrastructure necessary to support z-axis location by z-axis capable devices throughout the deployment area.
+
+(*2*) CMRS providers may deploy z-axis technology upgrades by means of over-the-top applications as well as operating system or firmware upgrades. CMRS providers deploying z-axis technology must affirmatively push the z-axis technology to all existing z-axis capable device models on the provider's network that can receive it, and CMRS providers must continue to support the z-axis technology on these devices thereafter.
+
+(*3*) A CMRS provider using the handset-based deployment option must make the technology available to existing z-axis capable devices nationwide; a CMRS provider using a CMA-based deployment option must make the technology available to all z-axis capable devices in the CMA. For all new z-axis capable devices marketed to consumers, the z-axis technology must be pre-installed.
+
+(*4*) A CMRS provider will be deemed to have met its z-axis technology deployment obligation so long as it either pre-installs or affirmatively pushes the location technology to end users so that they receive a prompt or other notice informing them that the application or service is available and what they need to do to download and enable the technology on their phone. A CMRS provider will be deemed in compliance with its z-axis deployment obligation if it makes the technology available to the end user in this manner even if the end user declines to use the technology or subsequently disables it.
+
+(K) CMRS providers must validate dispatchable location technologies intended for indoor location in accordance with the provisions of paragraph (i)(3)(i) of this section.
+
+(L) In each CMA where dispatchable location is used, nationwide CMRS providers must ensure that dispatchable location is supported by a sufficient number of total dispatchable location reference points to equal 25 percent of the CMA population.
+
+(M) A z-axis capable device is one that can measure and report vertical location without a hardware upgrade. For z-axis location solutions that rely on barometric pressure sensor information, only devices that have such sensors installed shall be considered z-axis capable. In the case of location solutions that do not require barometric pressure sensor information, both devices with and without barometric sensors shall be considered z-axis capable, provided that they are software-upgradable.
 
 (iii) *Compliance.* Within 60 days after each benchmark date specified in paragraphs (i)(2)(i) and (ii) of this section, CMRS providers must certify that they are in compliance with the location accuracy requirements applicable to them as of that date. CMRS providers shall be presumed to be in compliance by certifying that they have complied with the test bed and live call data provisions described in paragraph (i)(3) of this section.
 
@@ -220,9 +238,9 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 
 (iii) *NEAD privacy and security plan.* Prior to activation of the NEAD but no later than 18 months from the effective date of the adoption of this rule, the nationwide CMRS providers shall file with the Commission and request approval for a security and privacy plan for the administration and operation of the NEAD. The plan must include the identity of an administrator for the NEAD, who will serve as a point of contact for the Commission and shall be accountable for the effectiveness of the security, privacy, and resiliency measures.
 
-(iv) *NEAD use certification.* Prior to use of the NEAD or any information contained therein to meet such requirements, CMRS providers must certify that they will not use the NEAD or associated data for any non-911 purpose, except as otherwise required by law.
+(iv) *Dispatchable location use certification.* Prior to use of dispatchable location information to meet the Commission's 911 horizontal and indoor location accuracy requirements in paragraphs (i)(2)(i) and (ii) of this section, CMRS providers must certify that neither they nor any third party they rely on to obtain dispatchable location information will use dispatchable location information or associated data for any non-911 purpose, except with prior express consent or as otherwise required by law. The certification must state that CMRS providers and any third party they rely on to obtain dispatchable location information will implement measures sufficient to safeguard the privacy and security of dispatchable location information.
 
-(v) *Z-axis use certification.* Prior to use of z-axis information to meet the Commission's 911 vertical location accuracy requirements in paragraph (i)(2)(ii) of this section, CMRS providers must certify that neither they nor any third party they rely on to obtain z-axis information will use z-axis information or associated data for any non-911 purpose, except with prior express consent or as otherwise required by law. The certification must state that CMRS providers and any third party they rely on to obtain z-axis information will provide z-axis location information privacy and security protection equivalent to the NEAD.
+(v) *Z-axis use certification.* Prior to use of z-axis information to meet the Commission's 911 vertical location accuracy requirements in paragraph (i)(2)(ii) of this section, CMRS providers must certify that neither they nor any third party they rely on to obtain z-axis information will use z-axis information or associated data for any non-911 purpose, except with prior express consent or as otherwise required by law. The certification must state that CMRS providers and any third party they rely on to obtain z-axis information will implement measures sufficient to safeguard the privacy and security of z-axis location information.
 
 (j) *Confidence and uncertainty data.* (1) Except as provided in paragraphs (j)(2) through (4) of this section, CMRS providers subject to this section shall provide for all wireless 911 calls, whether from outdoor or indoor locations, x- and y-axis (latitude, longitude) and z-axis (vertical) confidence and uncertainty information (C/U data) on a per-call basis upon the request of a PSAP. The data shall specify:
 
@@ -234,9 +252,9 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 
 (3) Upon meeting the 6-year timeframe pursuant to paragraph (i)(2)(i) of this section, CMRS providers shall provide with wireless 911 calls that have a dispatchable location the C/U data for the x- and y-axis (latitude, longitude) required under paragraph (j)(1) of this section.
 
-(4) Upon meeting the timeframes pursuant to paragraphs (i)(2)(ii)(C) and (D) of this section, CMRS providers shall provide with wireless 911 calls that have dispatchable location or z-axis (vertical) information the C/U data required under paragraph (j)(1) of this section. Where available to the CMRS provider, floor level information must be provided with associated C/U data in addition to z-axis location information.
+(4) Upon meeting the timeframes pursuant to paragraph (i)(2)(ii) of this section, CMRS providers shall provide with wireless 911 calls that have a dispatchable location the confidence and uncertainty data for z-axis (vertical) information required under paragraph (j)(1) of this section. Where available to the CMRS provider, CMRS providers shall provide with wireless 911 calls that have floor level information the confidence and uncertainty data for z-axis (vertical) information required under paragraph (j)(1) of this section.
 
-(k) *Provision of live 911 call data for PSAPs.* Notwithstanding other 911 call data collection and reporting requirements in paragraph (i) of this section, CMRS providers must record information on all live 911 calls, including, but not limited to, the positioning source method used to provide a location fix associated with the call. CMRS providers must also record the confidence and uncertainty data that they provide pursuant to paragraphs (j)(1) through (3) of this section. This information must be made available to PSAPs upon request, and shall be retained for a period of two years.
+(k) *Provision of live 911 call data for PSAPs.* Notwithstanding other 911 call data collection and reporting requirements in paragraph (i) of this section, CMRS providers must record information on all live 911 calls, including, but not limited to, the positioning source method used to provide a location fix associated with the call. CMRS providers must also record the confidence and uncertainty data that they provide pursuant to paragraphs (j)(1)-(4) of this section. This information must be made available to PSAPs upon request, and shall be retained for a period of two years.
 
 (l) *Reports on Phase II plans.* Licensees subject to this section shall report to the Commission their plans for implementing Phase II enhanced 911 service, including the location-determination technology they plan to employ and the procedure they intend to use to verify conformance with the Phase II accuracy requirements by November 9, 2000. Licensees are required to update these plans within thirty days of the adoption of any change. These reports and updates may be filed electronically in a manner to be designated by the Commission.
 
@@ -368,6 +386,6 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 
 (r) *Contraband Interdiction System (CIS) requirement.* CIS providers regulated as private mobile radio service (*see* § 9.3) must transmit all wireless 911 calls without respect to their call validation process to a Public Safety Answering Point, or, where no Public Safety Answering Point has been designated, to a designated statewide default answering point or appropriate local emergency authority pursuant to § 9.4, provided that “all wireless 911 calls” is defined as “any call initiated by a wireless user dialing 911 on a phone using a compliant radio frequency protocol of the serving carrier.” This requirement shall not apply if the Public Safety Answering Point or emergency authority informs the CIS provider that it does not wish to receive 911 calls from the CIS provider.
 
-(s) *Compliance date(s).* Paragraphs (i)(2)(ii)(C) and (D), (i)(4)(v), (j)(4), and (q)(10)(v) of this section contain information-collection and recordkeeping requirements. Compliance with paragraphs (i)(2)(ii)(C) and (D), (i)(4)(v), (j)(4), and (q)(10)(v) will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing compliance dates with those paragraphs and revising this paragraph(s) accordingly.
+(s) *Compliance date(s).* Paragraphs (i)(2)(ii)(C) and (D), (i)(4)(iv) and (v), (j)(4), (k), and (q)(10)(v) of this section contain information-collection and recordkeeping requirements. Compliance with paragraphs (i)(2)(ii)(C) and (D), (i)(4)(iv) and (v), (j)(4), (k) and (q)(10)(v) will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing compliance dates with those paragraphs and revising this paragraph (s) accordingly.
 
-[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020]
+[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020; 85 FR 53246, Aug. 28, 2020]

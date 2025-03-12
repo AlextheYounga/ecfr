@@ -1,7 +1,5 @@
 ##### 1812.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
-Link to an amendment published at 85 FR 52927, Aug. 27, 2020.
-
 (f)(i) The following clauses are authorized for use in acquisitions of commercial items when required by the clause prescription:
 
 (A) 1852.204-75, Security Classification Requirements.
@@ -42,6 +40,8 @@ Link to an amendment published at 85 FR 52927, Aug. 27, 2020.
 
 (S) 1852.246-72, Material Inspection and Receiving Report.
 
-(T) 1852.247.71, Protection of the Florida Manatee.
+(T) 1852.246-74, Counterfeit Electronic Part Detection and Avoidance.
 
-[80 FR 36720, June 26, 2015, as amended at 81 FR 10520, Mar. 1, 2016]
+(U) 1852.247.71, Protection of the Florida Manatee.
+
+[80 FR 36720, June 26, 2015, as amended at 81 FR 10520, Mar. 1, 2016; 85 FR 52927, Aug. 28, 2020]
