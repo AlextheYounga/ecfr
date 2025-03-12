@@ -1,5 +1,7 @@
 ##### § 30.36 Exemption for shipments destined to Canada. #####
 
+Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
+
 (a) Except as noted in § 30.2(a)(1)(iv), and in paragraph (b) of this section, shipments originating in the United States where the country of ultimate destination is Canada are exempt from the EEI reporting requirements of this part.
 
 (b) This exemption does not apply to the following types of export shipments (These shipments shall be reported in the same manner as for all other exports, except household goods, which require limited reporting):

@@ -1,7 +1,5 @@
 ##### § 762.2 Records to be retained. #####
 
-Link to an amendment published at 82 FR 6218, Jan. 19, 2017.
-
 (a) *Records required to be retained.* The records required to be retained under this part 762 include the following:
 
 (1) Export control documents as defined in part 772 of the EAR, except parties submitting documents electronically to BIS via the SNAP-R system are not required to retain copies of documents so submitted;
@@ -114,9 +112,11 @@ Link to an amendment published at 82 FR 6218, Jan. 19, 2017.
 
 (51) § 740.20, note to paragraph (c)(1), License Exception STA prior approval on a BIS or DDTC license (STA);
 
-(52) § 744.15(b), UVL statement as well as any logs or records created for multiple exports, reexports, and transfers (in-country); and
+(52) § 744.15(b), UVL statement as well as any logs or records created for multiple exports, reexports, and transfers (in-country);
 
-(53) § 750.7(c)(2), Notification of name change by advisory opinion request.
+(53) § 750.7(c)(2), Notification of name change by advisory opinion request; and
+
+(54) § 748.13, Certain Hong Kong import and export licenses.
 
 (c) *Special recordkeeping requirement* - (1) *Libya.* Persons in receipt of a specific license granted by the Department of the Treasury's Office of Foreign Assets Control (OFAC) for the export to Libya of any item subject to the EAR must maintain a record of those items transferred to Libya pursuant to such specific license and record when the items are consumed or destroyed in the normal course of their use in Libya, reexported to a third country not requiring further authorization from BIS, or returned to the United States. This requirement applies only to items subject to a license requirement under the EAR for export to Libya as of April 29, 2004. These records must include the following information:
 
@@ -132,4 +132,4 @@ Link to an amendment published at 82 FR 6218, Jan. 19, 2017.
 
 (2) [Reserved]
 
-[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

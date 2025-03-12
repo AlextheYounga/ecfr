@@ -1,5 +1,7 @@
 ##### § 30.74 Voluntary self-disclosure. #####
 
+Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
+
 (a) *General policy.* The Census Bureau strongly encourages disclosure of any violation or suspected violation of the FTR. Voluntary self-disclosure is a mitigating factor in determining what administrative sanctions, if any, will be sought. The Secretary of Commerce has delegated all enforcement authority under 13 U.S.C. Chapter 9, to the BIS and the DHS.
 
 (b) *Limitations.* (1) The provisions of this section apply only when information is provided to the Census Bureau for its review in determining whether to seek administrative action for violations of the FTR.

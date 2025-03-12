@@ -1,5 +1,7 @@
 ##### § 30.16 Export Administration Regulations. #####
 
+Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
+
 The Export Administration Regulations (EAR) issued by the U.S. Department of Commerce, BIS, contain additional reporting requirements pertaining to EEI (see 15 CFR parts 730-774).
 
 (a) The EAR requires that export information be filed for shipments from U.S. Possessions to foreign countries or areas. (see 15 CFR 758.1(b) and 772.1, definition of the United States.)

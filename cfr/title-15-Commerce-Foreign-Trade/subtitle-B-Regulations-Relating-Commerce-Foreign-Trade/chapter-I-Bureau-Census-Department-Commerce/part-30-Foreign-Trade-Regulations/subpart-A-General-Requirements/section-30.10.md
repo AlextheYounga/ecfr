@@ -1,5 +1,7 @@
 ##### § 30.10 Retention of export information and the authority to require production of documents. #####
 
+Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
+
 (a) *Retention of export information.* All parties to the export transaction (owners and operators of export carriers, USPPIs, FPPIs and/or authorized agents) shall retain documents pertaining to the export shipment for five years from the date of export. If the Department of State or other regulatory agency has recordkeeping requirements for exports that exceed the retention period specified in this part, then those requirements prevail. The USPPI or the authorized agent of the USPPI or FPPI may request a copy of the electronic record or submission from the Census Bureau as provided for in Subpart G of this part. The Census Bureau's retention and maintenance of AES records does not relieve filers from requirements in § 30.10.
 
 (1) AES filers shall retain a copy of the electronic certification notice from the Census Bureau showing the filer's approved operational status. The electronic certification notice shall be retained for as long as the filer submits EEI through the AES.

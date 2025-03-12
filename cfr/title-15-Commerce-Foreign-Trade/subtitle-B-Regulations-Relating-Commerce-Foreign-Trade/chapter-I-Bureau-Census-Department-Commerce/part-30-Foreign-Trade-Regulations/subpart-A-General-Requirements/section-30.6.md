@@ -1,5 +1,7 @@
 ##### § 30.6 Electronic Export Information data elements. #####
 
+Link to an amendment published at 82 FR 18390, Apr. 19, 2017.
+
 The information specified in this section is required for shipments transmitted to the AES. The data elements identified as “mandatory” shall be reported for each transaction. The data elements identified as “conditional” shall be reported if they are required for or apply to the specific shipment. The data elements identified as “optional” may be reported at the discretion of the USPPI or the authorized agent.
 
 (a) Mandatory data elements are as follows:

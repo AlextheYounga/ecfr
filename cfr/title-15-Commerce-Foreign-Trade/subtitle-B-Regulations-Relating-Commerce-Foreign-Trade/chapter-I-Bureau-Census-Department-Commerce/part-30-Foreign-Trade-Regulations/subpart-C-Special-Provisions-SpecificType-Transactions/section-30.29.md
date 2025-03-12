@@ -1,5 +1,7 @@
 ##### § 30.29 Reporting of repairs and replacements. #####
 
+Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
+
 These guidelines will govern the reporting of the following:
 
 (a) The return of goods previously imported only for repair and alteration.

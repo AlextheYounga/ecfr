@@ -1,5 +1,7 @@
 ##### § 30.4 Electronic Export Information filing procedures, deadlines, and certification statements. #####
 
+Link to an amendment published at 82 FR 18390, Apr. 19, 2017.
+
 Two electronic filing options (predeparture and postdeparture) for transmitting EEI are available to the USPPI or authorized agent. The electronic postdeparture filing takes into account that complete information concerning export shipments may not always be available prior to exportation and accommodates these circumstances by providing, when authorized, for filing of EEI after departure. For example, for exports of seasonal and agricultural commodities, only estimated quantities, values, and consignees may be known prior to exportation. The procedures for obtaining certification as an AES filer and for applying for authorization to file on a postdeparture basis are described in § 30.5.
 
 (a) *EEI transmitted predeparture.* The EEI shall always be transmitted prior to departure for the following types of shipments:

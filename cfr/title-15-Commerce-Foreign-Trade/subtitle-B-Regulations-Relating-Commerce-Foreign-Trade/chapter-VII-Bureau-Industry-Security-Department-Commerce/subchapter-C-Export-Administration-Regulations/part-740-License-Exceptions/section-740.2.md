@@ -1,7 +1,5 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
-Link to an amendment published at 82 FR 6217, Jan. 19, 2017.
-
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.
@@ -82,6 +80,18 @@ Item-specific license exception availability is specific to each ECCN 0Y521 entr
 
 (18) 9x515 items that are controlled for missile technology (MT) reasons may not be exported, reexported, or transferred (in-country) under License Exception STA (§ 740.20 of the EAR).
 
+(19) The exporter or reexporter to Hong Kong of any item subject to the EAR and controlled on the CCL for NS, MT, NP Column 1, or CB reasons has not received one of the following with respect to the item:
+
+(i) A copy of an import license issued to the Hong Kong importer by the Government of the Hong Kong Special Administrative Region, pursuant to the Hong Kong Import and Export (Strategic Commodities) Regulations, that covers all items to be exported or reexported pursuant to that license exception for which a Hong Kong import license is required and that is valid on the date of the export or reexport that is subject to the EAR; or
+
+(ii) A copy of a written statement issued by the Government of the Hong Kong Special Administrative Region that no import license is required to import into Hong Kong the item(s) to be exported or reexported. The statement may have been issued directly to the Hong Kong importer or it may be a written statement available to the general public. The statement may be used for more than one export or reexport to Hong Kong so long as it remains an accurate statement of Hong Kong law.
+
+(20) The reexporter from Hong Kong of any item subject to the EAR controlled on the CCL for NS, MT, NP column 1, or CB reasons has not received one of the following with respect to the item:
+
+(i) An export license issued by the Government of the Hong Kong Special Administrative Region, pursuant to the Hong Kong Import and Export (Strategic Commodities) Regulations, that covers all items to be reexported pursuant to that license exception for which a Hong Kong export license is required and that is valid on the date of the reexport that is subject to the EAR; or
+
+(ii) A copy of a written statement issued by the Government of the Hong Kong Special Administrative Region that no Hong Kong export license is required for the item(s) to be rexported. The statement may have been issued directly to the Hong Kong reexporter or it may be a written statement available to the general public. The statement may be used for more than one reexport from Hong Kong so long as it remains an accurate statement of Hong Kong law.
+
 Note to paragraph (a):
 
 Items subject to the exclusive export control jurisdiction of another agency of the U.S. Government may not be authorized by a license exception or any other authorization under the EAR. If your item is subject to the exclusive jurisdiction of another agency of the U.S. Government, you must determine your export licensing requirements pursuant to the other agency's regulations. See § 734.3(b) and supplement no. 3 to part 730 of the EAR for other U.S. Government departments and agencies with export control responsibilities.
@@ -92,4 +102,4 @@ Items subject to the exclusive export control jurisdiction of another agency of 
 
 (d) See § 746.3 for restrictions on certain transfers within Iraq of items exported or reexported to Iraq pursuant to a License Exception.
 
-[61 FR 12768, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 740.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 12768, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 740.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

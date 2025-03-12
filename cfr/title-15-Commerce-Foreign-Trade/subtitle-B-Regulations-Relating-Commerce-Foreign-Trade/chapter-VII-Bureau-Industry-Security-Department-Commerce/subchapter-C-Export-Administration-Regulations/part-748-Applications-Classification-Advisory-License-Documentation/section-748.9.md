@@ -1,10 +1,16 @@
-##### § 748.9 Support documents for evaluation of foreign parties in license applications. #####
-
-Link to an amendment published at 82 FR 6218, Jan. 19, 2017.
+##### § 748.9 Support documents for evaluation of foreign parties in license applications and/or for promoting compliance with license requirements. #####
 
 (a) *Scope.* License applicants may be required to obtain support documents concerning the foreign parties and the disposition of the items intended for export, reexport, or transfer (in-country). Some support documents are issued by foreign governments, while other support documents are signed and issued by the purchaser and/or ultimate consignee. For support documents issued by foreign governments, any foreign legal restrictions or obligations exercised by the government issuing the support document are in addition to the conditions and restrictions placed on the transaction by BIS. However, the laws and regulations of the United States are in no way modified, changed, or superseded by the issuance of a support document by a foreign government.
 
-(b) *Requirements to obtain support documents for license applications.* Unless an exception in paragraph (c) of this section applies, a support document is required for certain license applications for the People's Republic of China (PRC) (see §§ 748.10 and 748.11(a)(2)), “600 Series Major Defense Equipment” (see § 748.11), and firearms and related commodities to member countries of the Organization of American States (see § 748.12).
+(b) *Requirements to obtain support documents for license applications.* Unless an exception in paragraph (c) of this section applies, a support document is required for certain license applications for:
+
+(1) The People's Republic of China (PRC) other than the Hong Kong Special Administrative Region (see §§ 748.10 and 748.11(a)(2));
+
+(2) “600 Series Major Defense Equipment” (see § 748.11);
+
+(3) Firearms and related commodities to member countries of the Organization of American States (see § 748.12); and
+
+(4) The Hong Kong Special Administrative Region of the People's Republic of China (*see* § 748.13).
 
 Note 1 to paragraph (b):
 
@@ -44,7 +50,7 @@ For End-Use Certificate requirements under the Chemical Weapons Convention, see 
 
 (iii) In obtaining the required support document, the applicant is not relieved of the responsibility for full disclosure of any other information concerning the ultimate destination, end use, or end user of which the applicant knows, even if inconsistent with the representations made in the applicable support document. The applicant is responsible for promptly notifying BIS of any change in the facts contained in the support document that comes to the applicant's attention.
 
-(e) *Procedures for using support document with license application* - (1) *Timing for obtaining support document.* When a support document is required for a license application in §§ 748.10, 748.11, and 748.12, license applicants may submit the application prior to receipt of a copy of the support document, unless BIS informs the applicant that the support document must be submitted with the application. However, if the license is granted, items authorized on the license may not be exported, reexported, or transferred (in-country) until the license holder obtains a copy of the support document.
+(e) *Procedures for using support document with license application*—(1) *Timing for obtaining support document.* When a support document is required for a license application in §§ 748.10, 748.11, and 748.12, license applicants may submit the application prior to receipt of a copy of the support document, unless BIS informs the applicant that the support document must be submitted with the application. However, if the license is granted, items authorized on the license may not be exported, reexported, or transferred (in-country) until the license holder obtains a copy of the support document. The documents issued by the Government of the Hong Kong Special Administrative region that are required pursuant to § 748.13 are not used to evaluate license applications. They must be obtained before shipment and need not be obtained before submitting a license application.
 
 (2) *Information necessary for license application.* When a support document is required for a license application, applicants should mark the appropriate box in Block 7, regardless of whether a copy of the support document is on file with the applicant at the time of submission.
 
@@ -56,4 +62,4 @@ For End-Use Certificate requirements under the Chemical Weapons Convention, see 
 
 (2) License applications filed during the 45-day grace period may require the submission of evidence available to the applicant that will support representations concerning the ultimate consignee, ultimate destination, and end use, such as copies of the order, letters of credit, correspondence between the applicant and ultimate consignee, or other documents received from the ultimate consignee. If such evidence is required, applicants must also identify the regulatory change (including its effective date) that justifies exercise of the 45-day grace period.
 
-[80 FR 13217, Mar. 13, 2015, as amended at 80 FR 51730, Aug. 26, 2015; 81 FR 64676, Sept. 20, 2016]
+[80 FR 13217, Mar. 13, 2015, as amended at 80 FR 51730, Aug. 26, 2015; 81 FR 64676, Sept. 20, 2016; 82 FR 6218, Jan. 19, 2017]

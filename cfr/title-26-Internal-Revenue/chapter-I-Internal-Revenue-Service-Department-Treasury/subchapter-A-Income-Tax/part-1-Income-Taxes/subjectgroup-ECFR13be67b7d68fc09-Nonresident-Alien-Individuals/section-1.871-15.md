@@ -2,7 +2,7 @@
 
 (a) *Definitions.* For purposes of this section, the following terms have the meanings described in this paragraph (a).
 
-(1)*Broker.* [Reserved]. For further guidance, see § 1.871-15T(a)(1).
+(1) *Broker.* [Reserved]. For further guidance, see § 1.871-15T(a)(1).
 
 (2) *Dealer.* A *dealer* is a dealer in securities within the meaning of section 475(c)(1).
 

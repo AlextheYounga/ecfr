@@ -1,5 +1,7 @@
 ##### § 30.28 Split shipments. #####
 
+Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
+
 A shipment covered by a single EEI transmission booked for export on one conveyance, but divided prior to export where the exporting carrier at the port of export will file the manifest indicating that the cargo was sent on two or more of the same conveyances leaving from the same port of export of the same carrier within 24 hours. For the succeeding parts of the shipment that are not exported within 24 hours, a new EEI must be filed and amendments must be made to the original AES record. The following procedures apply for split shipments:
 
 (a) The carrier shall deliver the manifest to the CBP Port Director with the manifest covering the conveyance on which the first part of the split shipment is exported and shall make no changes to the EEI. However, the manifest shall show in the “number of packages” column the actual portion of the declared total quantity being carried and shall carry a notation to indicate “Split Shipment.”e.g., “3 of 10 - Split Shipment” All associated manifests with the notation “Split Shipment” will have identical ITNs if exported within 24 hours.

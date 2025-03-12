@@ -1,5 +1,7 @@
 ##### § 30.50 General requirements for filing import entries. #####
 
+Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
+
 Electronic entry summary filing through the ABI, paper import entry summaries (CBP-7501), or paper record of vessel foreign repair or equipment purchase (CBP-226) shall be completed by the importer or its licensed import broker and filed directly with CBP in accordance with 19 CFR. Information on all mail and informal entries required for statistical and CBP purposes shall be reported, including value not subject to duty. Upon request, the importer or import broker shall provide the Census Bureau with information or documentation necessary to verify the accuracy of the reported information, or to resolve problems regarding the reported import transaction received by the Census Bureau.
 
 (a) Import information for statistical purposes shall be filed for goods shipped as follows:
