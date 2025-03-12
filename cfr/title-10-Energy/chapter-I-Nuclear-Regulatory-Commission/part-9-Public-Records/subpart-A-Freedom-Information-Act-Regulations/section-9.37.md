@@ -1,5 +1,7 @@
 ##### § 9.37 Fees for search and review of agency records by NRC personnel. #####
 
+Link to an amendment published at 83 FR 65077, December 19, 2018.
+
 The NRC will charge the following hourly rates for search and review of agency records by NRC personnel:
 
 (a) Clerical search and review at a salary rate that is equivalent to a GG-7/step 6, plus 16 percent fringe benefits;

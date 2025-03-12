@@ -1,7 +1,5 @@
 ##### § 530.10 Amendment, correction, cancellation, and electronic transmission errors. #####
 
-Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
-
 (a) *Terms.* When used in this section, the following terms will have these meanings:
 
 (1) *Amendment* means any change to a service contract which has prospective effect and which is mutually agreed upon by the service contract parties.
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
 
 (3) Each time any part of the service contract is amended, the “Filing Date” will be the date of filing of the amendment.
 
-(c) *Corrections.* Requests shall be filed, in duplicate, with the Commission's Office of the Secretary within one-hundred eighty (180) days of the contract's filing with the Commission, accompanied by remittance of a $95 service fee and shall include:
+(c) *Corrections.* Requests shall be filed, in duplicate, with the Commission's Office of the Secretary within one-hundred eighty (180) days of the contract's filing with the Commission, accompanied by remittance of a $99 service fee, and must include:
 
 (1) A letter of transmittal explaining the purpose of the submission, and providing specific information to identify the initial or amended service contract to be corrected;
 
@@ -48,4 +46,4 @@ Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
 
 (f) If the amendment, correction or cancellation affects an essential term required to be published under § 530.12 of this part, the statement of essential terms shall be changed as soon as possible after the filing of the amendment to accurately reflect the change to the contract terms.
 
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 67 FR 39860, June 11, 2002; 68 FR 43327, July 22, 2003; 70 FR 10330, Mar. 3, 2005; 81 FR 59144, Aug. 29, 2016; 82 FR 16296, Apr. 4, 2017]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 67 FR 39860, June 11, 2002; 68 FR 43327, July 22, 2003; 70 FR 10330, Mar. 3, 2005; 81 FR 59144, Aug. 29, 2016; 82 FR 16296, Apr. 4, 2017; 83 FR 50294, Oct. 5, 2018]

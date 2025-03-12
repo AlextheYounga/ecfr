@@ -1,8 +1,6 @@
 ##### § 555.4 Petitions. #####
 
-Link to an amendment published at 83 FR 50295, Oct. 5, 2018.
-
-(a) A petition for investigation to determine the existence of adverse conditions as described in § 555.3 may be submitted by any person, including any common carrier, shipper, shippers' association, ocean freight forwarder, or marine terminal operator, or any branch, department, agency, or other component of the Government of the United States. Petitions for relief under this part shall be in writing, and filed in the form of an original and fifteen copies with the Secretary, Federal Maritime Commission, Washington, DC 20573. The petition must be accompanied by remittance of a $289 filing fee.
+(a) A petition for investigation to determine the existence of adverse conditions as described in § 555.3 may be submitted by any person, including any common carrier, shipper, shippers' association, ocean freight forwarder, or marine terminal operator, or any branch, department, agency, or other component of the Government of the United States. Petitions for relief under this part shall be in writing, and filed in the form of an original and fifteen copies with the Secretary, Federal Maritime Commission, Washington, DC 20573. The petition must be accompanied by remittance of a $291 filing fee.
 
 (b) Petitions shall set forth the following:
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 50295, Oct. 5, 2018.
 
 (c) A petition which the Commission determines fails to comply substantially with the requirements of paragraph (b) of this section shall be rejected promptly and the person filing the petition shall be notified of the reasons for such rejection. Rejection is without prejudice to the filing of an amended petition.
 
-[54 FR 11533, Mar. 21, 1989, as amended at 63 FR 50537, Sept. 22, 1998; 64 FR 8010, Feb. 18, 1999; 64 FR 23551, May 3, 1999; 67 FR 39861, June 11, 2002; 70 FR 10331, Mar. 3, 2005; 81 FR 59145, Aug. 29, 2016]
+[54 FR 11533, Mar. 21, 1989, as amended at 63 FR 50537, Sept. 22, 1998; 64 FR 8010, Feb. 18, 1999; 64 FR 23551, May 3, 1999; 67 FR 39861, June 11, 2002; 70 FR 10331, Mar. 3, 2005; 81 FR 59145, Aug. 29, 2016; 83 FR 50295, Oct. 5, 2018]

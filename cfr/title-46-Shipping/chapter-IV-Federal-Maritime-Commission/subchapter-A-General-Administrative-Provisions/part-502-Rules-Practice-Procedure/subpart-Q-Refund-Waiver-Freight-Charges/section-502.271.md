@@ -1,7 +1,5 @@
 ##### § 502.271 Special docket application for permission to refund or waive freight charges. #####
 
-Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
-
 (a)(1) A common carrier or a shipper may file a special docket application seeking permission for a common carrier or conference to refund or waive collection of a portion of freight charges if there is:
 
 (i) An error in the tariff;
@@ -26,7 +24,7 @@ Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
 
 (4) When a rate published in a conference tariff is involved, the carrier or shipper must serve a copy of the application on the conference and so certify in accordance with § 502.117 to that service in the application. A shipper must also make a similar service and certification with respect to the common carrier.
 
-(5) Applications must be accompanied by remittance of a $117 filing fee.
+(5) Applications must be accompanied by remittance of a $113 filing fee.
 
 (e) Any application which does not furnish the information required by this Subpart may be returned to the applicant by the Secretary without prejudice to resubmission within the 180-day limitation period.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
 
 (g) The deciding official shall issue a decision which, pursuant to § 501.21 of this chapter, shall become final ten (10) days after service of such decision, unless the Commission in its discretion chooses to review such decision within that time, or the applicant chooses to file exceptions to such decision within that time. [Rule 271.]
 
-[64 FR 7811, Feb. 17, 1999, as amended at 65 FR 81759, Dec. 27, 2000; 67 FR 39859, June 11, 2002; 70 FR 7669, Feb. 15, 2005; 70 FR 10329, Mar. 3, 2005; 70 FR 44867, Aug. 4, 2005; 81 FR 59144, Aug. 29, 2016]
+[64 FR 7811, Feb. 17, 1999, as amended at 65 FR 81759, Dec. 27, 2000; 67 FR 39859, June 11, 2002; 70 FR 7669, Feb. 15, 2005; 70 FR 10329, Mar. 3, 2005; 70 FR 44867, Aug. 4, 2005; 81 FR 59144, Aug. 29, 2016; 83 FR 50294, Oct. 5, 2018]
