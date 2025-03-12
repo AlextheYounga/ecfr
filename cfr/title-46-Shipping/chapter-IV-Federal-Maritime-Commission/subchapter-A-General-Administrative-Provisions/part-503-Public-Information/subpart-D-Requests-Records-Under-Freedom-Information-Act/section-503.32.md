@@ -1,18 +1,22 @@
 ##### § 503.32 Procedures for responding to requests made under the Freedom of Information Act. #####
 
-Link to an amendment published at 82 FR 2248, Jan. 9, 2017.
-
 (a) *Determination to grant or deny request.* Upon request by any member of the public for documents, made in accordance with the rules of this part, the Commission's Secretary or his or her delegate in his or her absence, shall determine whether or not such request shall be granted.
 
-(1) Such determination shall be made by the Secretary within twenty (20) business days after receipt of such request, except as provided in paragraphs (b) and (e)(4) of this section.
+(1) Such determination shall be made by the Secretary within twenty (20) business days after receipt of such request, except as provided in paragraphs (b) and (e)(4) of this section, and the Secretary shall immediately notify the requester of:
 
-(2) Upon granting a request the Secretary shall promptly make records available to the requestor. Upon denial of such a request the Secretary shall promptly notify the requestor of the determination, explain the reason for denial, give an estimate of the volume of matter denied, set forth the names and titles or positions of each person responsible for the denial of the request, and notify the party of its right to appeal that determination to the Chairman.
+(i) Such determination and the reasons therefor;
+
+(ii) The right of such person to seek assistance from the agency's FOIA Public Liaison; and
+
+(iii) In the case of an adverse determination, the right of such requester to appeal to the Chairman no less than 90 days after the date of such adverse determination, and the right of such requester to seek dispute resolution services from the agency's FOIA Public Liaison or the Office of Government Information Services.
+
+(2) Upon granting a request, the Secretary shall promptly make records available to the requestor. Upon denial of such a request the Secretary shall promptly notify the requestor of the determination, explain the reason for denial, give an estimate of the volume of matter denied, and set forth the names and titles or positions of each person responsible for the denial of the request.
 
 (3)(i) Any party whose request for documents or other information pursuant to this part has been denied in whole or in part by the Secretary may appeal such determination. Any such appeal must:
 
 (A) Be addressed to: Chairman, Federal Maritime Commission, Washington, D.C. 20573-0001; and
 
-(B) Be filed not later than thirty (30) calendar days following receipt of notification of full or partial denial of records requested.
+(B) Be filed not later than 90 days following receipt of notification of full or partial denial of records requested.
 
 (ii) The Chairman or the Chairman's specific delegate, in his or her absence, shall make a determination with respect to that appeal within twenty (20) business days after receipt of such appeal, except as provided in paragraph (b) of this section.
 
@@ -28,7 +32,7 @@ Link to an amendment published at 82 FR 2248, Jan. 9, 2017.
 
 (iii) The need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request or among two or more components of the agency having substantial subject matter interest therein.
 
-(3) If the time limit is extended as prescribed under this section, and the request cannot be processed within the extended time limit, the Secretary shall notify the requestor, and either provide the requestor with an opportunity to limit the scope of the request so that it may be processed within the time limit, or provide the requestor an opportunity to arrange with the Secretary an alternative time frame for processing the request or a modified request.
+(3) If the time limit is extended as prescribed under this section, and the request cannot be processed within the extended time limit, the Secretary shall notify the requestor, and either provide the requestor with an opportunity to limit the scope of the request so that it may be processed within the time limit, or provide the requestor an opportunity to arrange with the Secretary an alternative time frame for processing the request or a modified request. To aid the requester, the Commission will make available its FOIA Public Liaison, who shall assist in the resolution of any dispute between the requester and the Commission, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services.
 
 (4) The Secretary may make an initial written request to the requestor for information to clarify the request which will toll the 20-day processing period until such information has been received. The 20-day processing period will recommence after receipt of the requested information.
 
@@ -58,4 +62,4 @@ Link to an amendment published at 82 FR 2248, Jan. 9, 2017.
 
 (6) Any request granted expedited processing shall be processed as soon as practicable.
 
-[63 FR 53310, Oct. 5, 1998, as amended at 80 FR 52641, Sept. 1, 2015]
+[63 FR 53310, Oct. 5, 1998, as amended at 80 FR 52641, Sept. 1, 2015; 82 FR 2248, Jan. 9, 2017]

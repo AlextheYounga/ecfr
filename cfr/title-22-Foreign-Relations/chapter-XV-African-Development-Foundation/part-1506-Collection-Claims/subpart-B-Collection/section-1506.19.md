@@ -1,0 +1,7 @@
+##### § 1506.19 May I pay my debt in installments? #####
+
+(a) Whenever feasible, USADF shall collect the total amount of a debt (including interest, penalty, and administrative cost) in one lump sum. If the debtor is financially unable to pay the debt in one lump sum, USADF may accept payment in regular installments. USADF will obtain financial statements from debtors who represent that they are unable to pay on one lump sum and independently verify such representations whenever possible. In addition, USADF will obtain a legally enforceable written agreement from the debtor that specifies all of the terms of the arrangement and contains a provision accelerating the debt in the event of a default.
+
+(b) The size and frequency of the installment payments will bear a reasonable relation to the size of the debt and the debtor's ability to pay. To the extent possible, the installment payments will be sufficient in size and frequency to liquidate the debt in three years or less.
+
+(c) In appropriate cases, the Agency will obtain security for deferred payments. However, USADF may accept installment payments notwithstanding the refusal of the debtor to execute a written agreement or to give security.

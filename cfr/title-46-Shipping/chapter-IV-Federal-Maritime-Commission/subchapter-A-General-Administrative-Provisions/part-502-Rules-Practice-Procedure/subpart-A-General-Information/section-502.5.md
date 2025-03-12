@@ -1,6 +1,6 @@
 ##### § 502.5 Documents containing confidential materials. #####
 
-Link to an amendment published at 81 FR 93835, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93835, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 Except as otherwise provided in the rules of this part, all filings that contain information for which confidential treatment is sought or information previously designated as confidential pursuant to §§ 502.13, 502.167, 502.201(j)(1)(vii), or any other rules of this part, or for which a request for protective order pursuant to § 502.201(j) is pending, are subject to the following requirements:
 

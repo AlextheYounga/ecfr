@@ -1,6 +1,6 @@
 ##### § 502.75 Declaratory orders and fee. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a)(1) The Commission may, in its discretion, issue a declaratory order to terminate a controversy or to remove uncertainty.
 

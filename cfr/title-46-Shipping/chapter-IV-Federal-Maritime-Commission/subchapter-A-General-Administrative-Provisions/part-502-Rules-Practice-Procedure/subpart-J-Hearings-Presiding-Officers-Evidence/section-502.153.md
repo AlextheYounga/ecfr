@@ -1,6 +1,6 @@
 ##### § 502.153 Appeal from ruling of presiding officer other than orders of dismissal in whole or in part. #####
 
-Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) Rulings of the presiding officer may not be appealed prior to or during the course of the hearing, or subsequent thereto, if the proceeding is still before him or her, except where the presiding officer shall find it necessary to allow an appeal to the Commission to prevent substantial delay, expense, or detriment to the public interest, or undue prejudice to a party.
 

@@ -1,6 +1,6 @@
 ##### § 502.52 Notice of proposed rulemaking. #####
 
-Link to an amendment published at 81 FR 93835, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93835, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) General notice of proposed rulemaking, including the information specified in § 502.143, shall be published in the Federal Register, unless all persons subject thereto are named and, either are personally served, or otherwise have actual notice thereof in accordance with law.
 

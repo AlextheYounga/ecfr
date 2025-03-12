@@ -1,0 +1,3 @@
+##### § 1506.31 May USADF reduce or negotiate a claim amount? #####
+
+USADF may compromise claims for money or property where the principal balance of a claim, excluding interest, penalty and administrative costs, does not exceed $100,000. Where the claim exceeds $100,000, the authority to accept the compromise rests solely with DOJ. The CFO may reject an offer of compromise in any amount. Where the claim exceeds $100,000, USADF may refer the claim to DOJ for approval with a recommendation to accept an offer of compromise. The referral will be in the form of a Claims Collection Litigation Report (CCLR) and will outline the basis for USADF's recommendation.

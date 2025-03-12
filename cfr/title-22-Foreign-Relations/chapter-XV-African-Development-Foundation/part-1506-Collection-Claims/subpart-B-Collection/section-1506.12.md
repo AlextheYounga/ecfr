@@ -1,0 +1,3 @@
+##### § 1506.12 What happens if my debt becomes past due? #####
+
+USADF will transfer to the Department of Treasury's Bureau of Fiscal Services (BFS) any past due, legally enforceable non-tax debt that has been delinquent for 120 days or more for administrative offset, and delinquent for 180 days or more for other collections. BFS may take appropriate action to collect the debt in accordance with applicable law and regulation. USADF may transfer any past due, legally enforceable debt that has been delinquent for fewer than 120 days to BFS for collection in accordance with applicable law and regulation.

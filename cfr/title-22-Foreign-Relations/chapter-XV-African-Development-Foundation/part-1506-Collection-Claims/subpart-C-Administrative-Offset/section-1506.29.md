@@ -1,0 +1,3 @@
+##### § 1506.29 Is there a time limit for initiating collection by salary offset? #####
+
+USADF will not initiate salary offset to collect a debt more than 1 year after the Government's right to collect the debt first accrued, unless facts material to the right to collect the debt were not known and could not have been known through the exercise of reasonable care by the Government official responsible for discovering and collecting such debt.

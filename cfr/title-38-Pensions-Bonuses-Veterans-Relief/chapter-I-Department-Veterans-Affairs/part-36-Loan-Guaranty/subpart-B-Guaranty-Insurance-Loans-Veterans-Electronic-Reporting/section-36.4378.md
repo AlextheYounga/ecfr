@@ -1,4 +1,4 @@
-##### § 36.4378 Debits and credits to insurance account under § 36.4820. #####
+##### § 36.4378 Debits and credits to insurance account under § 36.4320. #####
 
 In the event that an insured loan is transferred under the provisions of § 36.4320, there shall be charged to the insurance account of the transferor a sum equal to the amount paid transferor on account of the indebtedness less the current market value of the property transferred as security therefor as determined by an appraiser designated by the Secretary, or the amount chargeable to such insurance account in the event of a transfer under § 36.4377, whichever sum is the greater. The credit to the insurance account of the transferee will be computed in accordance with § 36.4377(a).
 

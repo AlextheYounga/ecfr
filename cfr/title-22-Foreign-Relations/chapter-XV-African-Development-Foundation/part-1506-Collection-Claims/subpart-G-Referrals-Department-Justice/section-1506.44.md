@@ -1,0 +1,3 @@
+##### § 1506.44 When will USADF refer claims to the Department of Justice for litigation? #####
+
+Unless otherwise provided by DOJ regulations or procedures, USADF will refer for litigation debts of more than $2,500 but less than $1,000,000 to the Department of Justice's Nationwide Central Intake Facility as required by the Claims Collection Litigation Report (CCLR) instructions. Debts of over $1,000,000 shall be referred to the Civil Division at the Department of Justice. Any debt involving fraud, false claim, and misrepresentation will be referred to the Department of Justice.

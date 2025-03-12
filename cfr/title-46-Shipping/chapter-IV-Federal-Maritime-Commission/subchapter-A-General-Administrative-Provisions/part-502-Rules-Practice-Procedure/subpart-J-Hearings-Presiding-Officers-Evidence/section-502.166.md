@@ -1,5 +1,5 @@
 ##### § 502.166 Corrections of transcript. #####
 
-Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 Motions made at the hearing to correct the record will be acted upon by the presiding officer. Motions made after the hearing to correct the record shall be filed with the presiding officer within twenty-five (25) days after the last day of hearing or any session thereof, unless otherwise directed by the presiding officer, and shall be served on all parties. Such motions may be in the form of a letter. If no objections are received within ten (10) days after date of service, the transcript will, upon approval of the presiding officer, be changed to reflect such corrections. If objections are received, the motion will be acted upon with due consideration of the stenographic record of the hearing. [Rule 166.]

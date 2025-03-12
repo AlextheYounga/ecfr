@@ -1,0 +1,3 @@
+##### § 1506.14 Does interest accrue during the period pending waiver or review? #####
+
+During the period pending waiver or review, USADF may suspend accrual of interest, penalty charges, and administrative costs on any disputed portion of the debt if it is determined that suspension is in the Agency's best interest or would serve equity and good conscience. Interest, penalty, and administrative costs will not be assessed where a statute or regulation specifically prohibits collection of the debt during the period of the administrative appeal or the Agency review.

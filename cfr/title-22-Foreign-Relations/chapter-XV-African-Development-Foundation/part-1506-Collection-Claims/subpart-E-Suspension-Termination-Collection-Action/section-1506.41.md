@@ -1,0 +1,3 @@
+##### § 1506.41 Can the Agency collect against a debt that has been discharged in bankruptcy? #####
+
+USADF will generally terminate collection activity on a debt that has been discharged in bankruptcy regardless of the amount. However, USADF may continue collection activity subject to the provisions of the Bankruptcy Code for any payments provided under a plan of reorganization. The CFO will seek legal advice from the General Counsel's office if s/he believes that any claims or offsets may have survived the discharge of a debtor.

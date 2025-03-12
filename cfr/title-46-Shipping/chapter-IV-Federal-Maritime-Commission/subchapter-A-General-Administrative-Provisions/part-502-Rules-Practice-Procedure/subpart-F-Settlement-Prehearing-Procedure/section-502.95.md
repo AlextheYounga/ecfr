@@ -1,6 +1,6 @@
 ##### § 502.95 Prehearing statements. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) Unless waiver is granted by the presiding officer, it shall be the duty of all parties to a proceeding to prepare a statement or statements at a time and in the manner to be established by the presiding officer provided that there has been reasonable opportunity for discovery. To the extent possible, joint statements should be prepared.
 

@@ -1,0 +1,3 @@
+##### § 1506.32 If I am jointly and severally liable on a claim, will USADF delay collection action against me until the other debtors pay their proportional share? #####
+
+When two or more debtors are jointly and severally liable, collection action will not be withheld against one debtor until the other or others pay their proportionate share. The amount of a compromise with one debtor is not precedent in determining compromises from other debtors who have been determined to be jointly and severally liable on the claim.

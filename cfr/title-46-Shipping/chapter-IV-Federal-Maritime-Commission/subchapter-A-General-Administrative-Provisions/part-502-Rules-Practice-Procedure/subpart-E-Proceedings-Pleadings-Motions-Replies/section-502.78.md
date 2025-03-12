@@ -1,6 +1,6 @@
 ##### § 502.78 Brief of an amicus curiae. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) A brief of an amicus curiae may be filed only by leave of the Commission or the presiding officer granted on motion with notice to the parties, or at the request of the Commission or the presiding officer, except that leave must not be required when the brief is presented by the United States or any agency or officer of the United States. The brief may be conditionally filed with the motion for leave. A brief of an amicus curiae must be limited to questions of law or policy.
 

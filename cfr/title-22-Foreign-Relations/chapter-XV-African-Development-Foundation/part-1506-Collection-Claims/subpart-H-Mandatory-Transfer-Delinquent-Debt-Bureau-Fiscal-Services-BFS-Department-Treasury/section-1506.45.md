@@ -1,0 +1,5 @@
+##### § 1506.45 When is it mandatory for USADF to transfer debts to BFS? #####
+
+(a) USADF will transfer legally enforceable debt to BFS 90 days after the Bill for Collection or demand letter is issued. A debt is legally enforceable if there has been a final agency determination that the debt is due and there are no legal bars to collection action. A debt is not legally enforceable for purposes of mandatory transfer to BFS if it is the subject of a pending administrative review process required by statute or regulation and collection action during the review process is prohibited.
+
+(b) Except as set forth in paragraph (a) of this section, USADF will transfer any debt covered by this part that is more than 180 days delinquent to BFS for debt collection services. A debt is 180 days delinquent for purposes of this section if it is 180 days past due and is legally enforceable.

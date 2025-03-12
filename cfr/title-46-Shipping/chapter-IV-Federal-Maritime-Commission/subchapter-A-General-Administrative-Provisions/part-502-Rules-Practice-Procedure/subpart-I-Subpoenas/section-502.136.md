@@ -1,6 +1,6 @@
 ##### § 502.136 Enforcement. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 In the event of failure to comply with any subpoena or order issued in connection therewith, the Commission may seek enforcement as provided in § 502.210(b). [Rule 136.]
 

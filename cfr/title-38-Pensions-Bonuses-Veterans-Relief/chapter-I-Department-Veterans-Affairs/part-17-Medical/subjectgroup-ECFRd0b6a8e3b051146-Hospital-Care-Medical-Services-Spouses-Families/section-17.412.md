@@ -4,6 +4,6 @@
 
 (2) VA may provide in vitro fertilization to a spouse of a veteran described in § 17.380 when clinically appropriate and consistent with the benefits relating to reproductive assistance provided to a member of the Armed Forces who incurs a serious injury or illness on active duty pursuant to 10 U.S.C. 1074(c)(4)(A), as described in the April 3, 2012, memorandum issued by the Assistant Secretary of Defense for Health Affairs on the subject of “Policy for Assisted Reproductive Services for the Benefit of Seriously or Severely Ill/Injured (Category II or III) Active Duty Service Members,” and the guidance issued by the Department of Defense to implement such policy, including any limitations on the amount of such benefits available to such a member.
 
-(b) Authority to provide fertility counseling and treatment, including in vitro fertilization under this section, expires September 30, 2017.
+(b) Authority to provide fertility counseling and treatment, including in vitro fertilization under this section, expires September 30, 2018.
 
-[82 FR 6276, Jan. 19, 2017]
+[82 FR 6276, Jan. 19, 2017, as amended at 81 FR 11153, Feb. 21, 2017]

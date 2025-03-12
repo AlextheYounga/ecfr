@@ -1,6 +1,6 @@
 ##### § 502.143 Notice of nature of hearing, jurisdiction and issues. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 Persons entitled to notice of hearings, except those notified by complaint served under § 502.113, will be duly and timely informed of (a) the nature of the proceeding, (b) the legal authority and jurisdiction under which the proceeding is conducted, and (c) the terms, substance, and issues involved, or the matters of fact and law asserted, as the case may be. Such notice shall be published in the Federal Register unless all persons subject thereto are named and either are personally served or otherwise have actual notice thereof in accordance with law. [Rule 143.]
 

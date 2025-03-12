@@ -1,6 +1,6 @@
 ##### § 14.627 Definitions. #####
 
-Link to an amendment published at 82 FR 6272, January 19, 2017.
+Link to an amendment published at 82 FR 6272, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 11151, Feb. 21, 2017.
 
 As used in regulations on representation of VA claimants:
 

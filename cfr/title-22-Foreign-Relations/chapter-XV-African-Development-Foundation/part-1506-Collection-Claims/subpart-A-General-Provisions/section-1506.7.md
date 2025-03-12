@@ -1,0 +1,5 @@
+##### § 1506.7 How does USADF process claims involving fraud? #####
+
+(a) The CFO will refer claims involving fraud, the presentation of a false claim, or misrepresentation on the part of the debtor or any party having an interest in the claim to the United States Agency for International Development (USAID) Office of Inspector General (OIG), which has statutory jurisdiction over USADF. The OIG has the responsibility for investigating or referring the matter, where appropriate, to the Department of Justice (DOJ), and/or returning it to USADF for further action.
+
+(b) The CFO will not administratively compromise, terminate, suspend or otherwise dispose of debts involving fraud, the presentation of a false claim or misrepresentation on the part of the debtor or any party having an interest in the claim without the approval of DOJ.

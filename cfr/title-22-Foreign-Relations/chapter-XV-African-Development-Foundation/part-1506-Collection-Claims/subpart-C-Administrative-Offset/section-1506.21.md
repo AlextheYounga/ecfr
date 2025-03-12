@@ -1,0 +1,3 @@
+##### § 1506.21 I am a USADF employee; when will the Agency offset my salary to satisfy a debt against me? #####
+
+Any amount advanced to an employee for allowable travel expenses but not used for such purposes is recoverable from the employee, in accordance with 5 U.S.C. 5705, by salary offset without regard to the due process provisions in § 1506.22. This section does not apply to debts where collection by salary offset is explicitly prohibited by another statute. Collection of debt by salary offset will be in accordance with 5 U.S.C. 5514.

@@ -1,6 +1,6 @@
 ##### § 69.103 Definitions. #####
 
-As used in this subpart -
+As used in this subpart—
 
 *Between-deck* means the space above the line of the tonnage deck and below the line of the deck next above.
 
@@ -36,11 +36,11 @@ As used in this subpart -
 
 *Net register tonnage* is defined in § 69.107(b).
 
-*Registered breadth* is defined in § 69.53.
-
 *Normal frame* means a frame, regardless of size, used to stiffen a structure.
 
 *Ordinary frame* means a primary side or bottom frame or floor used for strengthening the hull.
+
+*Registered breadth* is defined in § 69.53.
 
 *Registered depth* means “molded depth” as defined in § 69.53.
 

@@ -1,6 +1,6 @@
 ##### § 3.307 Presumptive service connection for chronic, tropical or prisoner-of-war related disease, or disease associated with exposure to certain herbicide agents; wartime and service on or after January 1, 1947. #####
 
-Link to an amendment published at 82 FR 4184, Jan 13, 2017.
+Link to an amendment published at 82 FR 4184, Jan. 13, 2017.
 
 (a) *General.* A chronic, tropical, prisoner of war related disease, or a disease associated with exposure to certain herbicide agents listed in § 3.309 will be considered to have been incurred in or aggravated by service under the circumstances outlined in this section even though there is no evidence of such disease during the period of service. No condition other than one listed in § 3.309(a) will be considered chronic.
 

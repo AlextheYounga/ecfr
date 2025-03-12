@@ -1,0 +1,3 @@
+##### § 1506.16 Does USADF report delinquent debts to consumer reporting agencies? #####
+
+USADF may report delinquent debts to appropriate credit reporting bureaus and other automated databases through the cross-servicing agreement with BFS. Any such disclosure will be done in accordance with 31 U.S.C. 3711(e) and the Federal Claims Collection Standards, 31 CFR 901.4, and in compliance with the Bankruptcy Code and Privacy Act 5 U.S.C. 552a.

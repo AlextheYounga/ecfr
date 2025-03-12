@@ -8,18 +8,18 @@
 
 (d) *Inflation adjustment.* Maximum Civil Monetary Penalties within the jurisdiction of the Federal Maritime Commission are adjusted for inflation as follows:
 
-|United States Code Citation|                            Civil monetary penalty description                            |Maximum  <br/>penalty amount prior to August 1, 2016|New adjusted maximum  <br/>penalty amount as of August 1, 2016|
-|---------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------|
-|      46 U.S.C. 42304      |              Adverse impact on U.S. carriers by foreign shipping practices               |                     1,600,000                      |                          1,978,690                           |
-|    46 U.S.C. 41107(a)     |  Knowing and Willful violation/Shipping Act of 1984, or Commission regulation or order   |                       45,000                       |                            56,467                            |
-|    46 U.S.C. 41107(b)     |Violation of Shipping Act of 1984, Commission regulation or order, not knowing and willful|                       9,000                        |                            11,293                            |
-|    46 U.S.C. 41108(b)     |                  Operating in foreign commerce after tariff suspension                   |                       80,000                       |                           112,934                            |
-|      46 U.S.C. 42104      |          Failure to provide required reports, etc./Merchant Marine Act of 1920           |                       9,000                        |                            8,908                             |
-|      46 U.S.C. 42106      |                 Adverse shipping conditions/Merchant Marine Act of 1920                  |                     1,600,000                      |                          1,781,560                           |
-|      46 U.S.C. 42108      |    Operating after tariff or service contract suspension/Merchant Marine Act of 1920     |                       80,000                       |                            89,078                            |
-|      46 U.S.C. 44102      |   Failure to establish financial responsibility for non-performance of transportation    |                  9,000  <br/>300                   |                       22,500  <br/>750                       |
-|      46 U.S.C. 44103      |            Failure to establish financial responsibility for death or injury             |                  9,000  <br/>300                   |                       22,500  <br/>750                       |
-|   31 U.S.C. 3802(a)(1)    |                    Program Fraud Civil Remedies Act/makes false claim                    |                       9,000                        |                            10,781                            |
-|   31 U.S.C. 3802(a)(2)    |                 Program Fraud Civil Remedies Act/giving false statement                  |                       9,000                        |                            10,781                            |
+|United States code citation|                            Civil monetary penalty description                            |Maximum  <br/>penalty amount prior  <br/>to January  <br/>15, 2017|Maximum  <br/>penalty  <br/>as of January  <br/>15, 2017|
+|---------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------|
+|      46 U.S.C. 42304      |              Adverse impact on U.S. carriers by foreign shipping practices               |                            1,978,690                             |                       2,011,061                        |
+|    46 U.S.C. 41107(a)     |  Knowing and Willful violation/Shipping Act of 1984, or Commission regulation or order   |                              56,467                              |                         57,391                         |
+|    46 U.S.C. 41107(b)     |Violation of Shipping Act of 1984, Commission regulation or order, not knowing and willful|                              11,293                              |                         11,478                         |
+|    46 U.S.C. 41108(b)     |                  Operating in foreign commerce after tariff suspension                   |                             112,934                              |                        114,782                         |
+|      46 U.S.C. 42104      |          Failure to provide required reports, etc./Merchant Marine Act of 1920           |                              8,908                               |                         9,054                          |
+|      46 U.S.C. 42106      |                 Adverse shipping conditions/Merchant Marine Act of 1920                  |                            1,781,560                             |                       1,810,706                        |
+|      46 U.S.C. 42108      |    Operating after tariff or service contract suspension/Merchant Marine Act of 1920     |                              89,078                              |                         90,535                         |
+|      46 U.S.C. 44102      |   Failure to establish financial responsibility for non-performance of transportation    |                         22,500  <br/>750                         |                    22,868  <br/>762                    |
+|      46 U.S.C. 44103      |            Failure to establish financial responsibility for death or injury             |                         22,500  <br/>750                         |                    22,868  <br/>762                    |
+|   31 U.S.C. 3802(a)(1)    |                    Program Fraud Civil Remedies Act/makes false claim                    |                              10,781                              |                         10,957                         |
+|   31 U.S.C. 3802(a)(2)    |                 Program Fraud Civil Remedies Act/giving false statement                  |                              10,781                              |                         10,957                         |
 
-[81 FR 42553, June 30, 2016]
+[81 FR 42553, June 30, 2016, as amended at 82 FR 10720, Feb. 15, 2017]

@@ -1,6 +1,6 @@
 ##### § 502.207 Requests for admission. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) *Scope and procedure.* (1) *Scope.* A party may serve on any other party a written request to admit, for the purposes of the pending action only, the truth of any nonprivileged relevant matters relating to facts, the application of law to fact, or opinions about either, and the genuineness of any described documents.
 

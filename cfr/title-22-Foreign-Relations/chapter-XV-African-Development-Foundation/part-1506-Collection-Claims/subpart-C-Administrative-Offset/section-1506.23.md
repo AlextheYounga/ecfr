@@ -1,0 +1,3 @@
+##### § 1506.23 Will the debt be collected in a lump sum or by installment deductions from my pay account? #####
+
+A debt will be collected in a lump sum or by installment deductions at established pay intervals from an employee's current pay account. If the employee is financially unable to pay a debt in a lump sum or the amount of debt exceeds 15 percent of disposable pay, collection will be made in installments, unless the employee and the Agency agree to alternative arrangements for payment. Alternative payment schedules must be in writing, signed by both the employee and the CFO and will be documented in the Agency's files.

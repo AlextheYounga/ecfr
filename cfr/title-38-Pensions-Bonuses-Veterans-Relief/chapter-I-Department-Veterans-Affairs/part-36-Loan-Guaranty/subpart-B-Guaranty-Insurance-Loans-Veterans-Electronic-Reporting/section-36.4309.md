@@ -24,7 +24,7 @@
 
 (vi) A transfer where the spouse or children of the borrower become joint owners of the property with the borrower;
 
-(vii) A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement by which the spouse of the borrower becomes the sole owner of the property. In such a case the borrower shall have the option of applying directly to the Department of Veterans Affairs regional office of jurisdiction for a release of liability in accordance with § 36.4826; or
+(vii) A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement by which the spouse of the borrower becomes the sole owner of the property. In such a case the borrower shall have the option of applying directly to the Department of Veterans Affairs regional office of jurisdiction for a release of liability in accordance with § 36.4326; or
 
 (viii) A transfer into an inter vivos trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.
 
@@ -64,4 +64,4 @@
 
 (h) If sufficient funds are tendered to bring a delinquency current at any time prior to a judicial or statutory sale or other public sale under power of sale provisions contained in the loan instruments to liquidate any security for a guaranteed loan, the holder shall be obligated to accept the funds in payment of the delinquency unless the prior approval of the Secretary is obtained to do otherwise, or unless reinstatement of the loan would adversely affect the dignity of the lien or be otherwise precluded by law. A delinquency will include all installment payments (principal, interest, taxes, insurance, advances, etc.) due and unpaid and any accumulated late charges plus any reasonable expenses incurred and paid by the holder if termination proceedings have begun (e.g., advertising costs, foreclosure costs, attorney or trustee fees, recording fees, etc.).
 
-(Authority: 38 U.S.C. 3703(c))(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0516)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010]Editorial Note:At 75 FR 65238, Oct. 22, 2010, § 36.4309 was amended in paragraph (c)(1)(vi) by removing the cross reference § 36.4826 and replacing it with the cross-reference § 36.4326; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0516)(Authority: 38 U.S.C. 3703(c))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 82 FR 11153, Feb. 21, 2017]

@@ -4,9 +4,9 @@
 
 (b)(1) At least 30 days prior to the scheduled or anticipated date of the liquidation sale, the holder must request that VA assign an appraiser to conduct a liquidation appraisal.
 
-(2) If the holder (or its authorized servicing agent) has been approved by the Secretary to process liquidation appraisals under 38 CFR 36.4348, the appraiser shall forward the liquidation appraisal report directly to the holder for a determination of the fair market value of the property pursuant to § 36.4848.
+(2) If the holder (or its authorized servicing agent) has been approved by the Secretary to process liquidation appraisals under 38 CFR 36.4348, the appraiser shall forward the liquidation appraisal report directly to the holder for a determination of the fair market value of the property pursuant to § 36.4348.
 
-(3) If the holder (or its authorized servicing agent) has not been approved by the Secretary to process liquidations appraisals under 38 CFR 36.4848, the Secretary shall review the appraisal and determine the fair market value of the property. The Secretary will provide the holder with a statement of the fair market value.
+(3) If the holder (or its authorized servicing agent) has not been approved by the Secretary to process liquidations appraisals under 38 CFR 36.4348, the Secretary shall review the appraisal and determine the fair market value of the property. The Secretary will provide the holder with a statement of the fair market value.
 
 (4)(i) Except as provided in paragraph (b)(4)(ii) of this section, a liquidation appraisal or statement of fair market value issued pursuant to paragraph (b)(3) of this section will be valid for 180 calendar days.
 
@@ -38,4 +38,4 @@
 
 (2) A holder may request advance approval from the Secretary for a deed-in-lieu of foreclosure notwithstanding that all of the conditions specified in paragraph (f)(1) of this section cannot be met if the holder believes such deed-in-lieu would be in the best interests of the veteran and the Secretary.
 
-(Authority: 38 U.S.C. 3703(c), 3732)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010]
+(Authority: 38 U.S.C. 3703(c), 3732)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 75 FR 65238, Oct. 22, 2010; 82 FR 11153, Feb. 21, 2017]

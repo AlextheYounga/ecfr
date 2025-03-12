@@ -1,0 +1,3 @@
+##### § 1506.24 Are there any limitations on the amount of salary deduction? #####
+
+Installment deduction will be made over the period of active duty or employment. The size and frequency of the installment deductions generally will bear a reasonable relation to the size of the debt and the employee's ability to pay. However, an amount deducted for any period may not exceed 15 percent of the disposable pay from which the deduction is made, unless the employee has agreed in writing to the deduction of a greater amount. If possible, the installment payments should be in amounts sufficient to liquidate the debt within a period of three years or less. Installment payments of less than $50 will be accepted only in the most unusual circumstances.

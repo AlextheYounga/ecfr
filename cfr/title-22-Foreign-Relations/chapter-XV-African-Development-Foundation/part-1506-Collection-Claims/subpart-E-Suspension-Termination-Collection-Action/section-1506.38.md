@@ -1,0 +1,3 @@
+##### § 1506.38 Under what circumstances may USADF terminate collection actions? #####
+
+USADF may terminate collection actions including accrued interest, penalty and administrative costs, where the debt principal does not exceed $100,000. If the debt exceeds $100,000, USADF must obtain the approval from DOJ to terminate further collection actions. Unless otherwise provided for by DOJ regulations, requests to terminate collection on debts in excess of $100,000 are referred to the Commercial Litigation Branch, Civil Division, Department of Justice, for approval.

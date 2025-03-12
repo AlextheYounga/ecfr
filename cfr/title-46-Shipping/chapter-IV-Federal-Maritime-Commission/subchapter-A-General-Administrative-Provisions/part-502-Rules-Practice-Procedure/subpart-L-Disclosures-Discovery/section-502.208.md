@@ -1,6 +1,6 @@
 ##### § 502.208 Use of discovery procedures directed to Commission staff personnel. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to an amendment published at 81 FR 93837, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) Discovery procedures described in §§ 502.202 through 502.207, directed to Commission staff personnel must be permitted and must be governed by the procedures set forth in those sections except as modified by paragraphs (b) and (c) of this section. All notices to take depositions, written interrogatories, requests for production of documents and other things, requests for admissions, and any motions in connection with the foregoing, must be served on the Secretary of the Commission.
 

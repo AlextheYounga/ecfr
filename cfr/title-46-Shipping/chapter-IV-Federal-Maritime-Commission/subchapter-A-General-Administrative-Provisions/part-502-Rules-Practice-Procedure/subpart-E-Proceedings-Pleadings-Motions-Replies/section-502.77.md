@@ -1,6 +1,6 @@
 ##### § 502.77 Proceedings involving assessment agreements. #####
 
-Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.
+Link to an amendment published at 81 FR 93836, Dec. 22, 2016.Link to a correction published at 82 FR 46, Jan. 3, 2017.This amendment and its correction were delayed until Apr. 3, 2017 at 82 FR 8903, Feb. 1, 2017.
 
 (a) In complaint proceedings involving assessment agreements filed under section 5(e) of the Shipping Act of 1984 (46 U.S.C. 40301(e), 40305), the Notice of Filing of Complaint and Assignment will specify a date before which the initial decision will be issued, which date will not be more than eight months from the date the complaint was filed.
 
