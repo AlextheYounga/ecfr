@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -44,7 +42,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (t) Use a U.S. fishing vessel to fish for HMS in the Convention Area and retain on board, transship, land, store, sell, or offer for sale any part or whole carcass of an oceanic whitetip shark (*Carcharhinus longimanus*) or fail to release unharmed, to the extent practicable, all oceanic whitetip sharks when brought alongside the vessel in contravention of § 300.27(d).
 
-(u) Use a United States commercial fishing vessel in the Convention Area to target, retain on board, transship or land Pacific bluefin tuna in contravention of § 300.25(h)(3) and (5).
+(u) Use a United States commercial fishing vessel in the Convention Area to target, retain on board, transship, or land Pacific bluefin tuna in contravention of § 300.25(g)(3) through (5).
 
 (v) Fail to maintain, submit, or ensure submission of a log that includes all the information required in § 300.22(a).
 
@@ -74,4 +72,4 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (ii) Use a U.S. purse seine fishing vessel of the applicable class size to make a set on either floating objects or dolphins in the IATTC Convention Area after a closure for either of these set types is announced by the Regional Administrator, in contravention of § 300.25(d).
 
-[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 66 FR 49320, Sept. 27, 2001. Redesignated and amended at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68337, Nov. 4, 2011; 76 FR 68337, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 28451, May 16, 2014; 79 FR 56018, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017]
+[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 66 FR 49320, Sept. 27, 2001. Redesignated and amended at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68337, Nov. 4, 2011; 76 FR 68337, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 28451, May 16, 2014; 79 FR 56018, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017]

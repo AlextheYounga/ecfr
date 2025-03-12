@@ -1,7 +1,5 @@
 ##### § 275.204A-1 Investment adviser codes of ethics. #####
 
-Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
-
 (a) *Adoption of code of ethics.* If you are an investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3), you must establish, maintain and enforce a written code of ethics that, at a minimum, includes:
 
 (1) A standard (or standards) of business conduct that you require of your supervised persons, which standard must reflect your fiduciary obligations and those of your supervised persons;
@@ -14,7 +12,7 @@ Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
 
 (5) Provisions requiring you to provide each of your supervised persons with a copy of your code of ethics and any amendments, and requiring your supervised persons to provide you with a written acknowledgment of their receipt of the code and any amendments.
 
-(b) *Reporting requirements* - (1) *Holdings reports.* The code of ethics must require your access persons to submit to your chief compliance officer or other persons you designate in your code of ethics a report of the access person's current securities holdings that meets the following requirements:
+(b) *Reporting requirements*—(1) *Holdings reports.* The code of ethics must require your access persons to submit to your chief compliance officer or other persons you designate in your code of ethics a report of the access person's current securities holdings that meets the following requirements:
 
 (i) *Content of holdings reports.* Each holdings report must contain, at a minimum:
 
@@ -80,7 +78,7 @@ Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
 
 (6) *Initial public offering* means an offering of securities registered under the Securities Act of 1933 (15 U.S.C. 77a), the issuer of which, immediately before the registration, was not subject to the reporting requirements of sections 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)).
 
-(7) *Limited offering* means an offering that is exempt from registration under the Securities Act of 1933 pursuant to section 4(2) or section 4(5) (15 U.S.C. 77d(2) or 77d(5)) or pursuant to §§ 230.504, 230.505, or 230.506 of this chapter.
+(7) *Limited offering* means an offering that is exempt from registration under the Securities Act of 1933 pursuant to section 4(a)(2) or section 4(a)(5) (15 U.S.C. 77d(a)(2) or 77d(a)(5)) or pursuant to §§ 230.504 or 230.506 of this chapter.
 
 (8) *Purchase or sale of a security* includes, among other things, the writing of an option to purchase or sell a security.
 
@@ -102,4 +100,4 @@ Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
 
 (v) Shares issued by unit investment trusts that are invested exclusively in one or more open-end funds, none of which are reportable funds.
 
-[69 FR 41708, July 9, 2004, as amended at 76 FR 81806, Dec. 29, 2011]
+[69 FR 41708, July 9, 2004, as amended at 76 FR 81806, Dec. 29, 2011; 81 FR 83554, Nov. 21, 2016]

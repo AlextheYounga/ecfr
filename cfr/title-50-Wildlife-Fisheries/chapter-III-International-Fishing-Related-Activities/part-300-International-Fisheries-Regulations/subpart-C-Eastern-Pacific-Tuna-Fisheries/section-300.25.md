@@ -1,7 +1,5 @@
 ##### § 300.25 Fisheries management. #####
 
-Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
-
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on January 1 and end either on December 31 or when NMFS closes the fishery for a specific species.
 
 (2) For the calendar year 2017, there is a limit of 500 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length.
@@ -70,21 +68,19 @@ Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
 
 (5) A vessel operator, crew member, or other persons on board a fishing vessel of the United States that is used to fish for HMS must take all reasonable measures to avoid fishing gear entanglement or interaction with drifting data buoys.
 
-(g) *Pacific bluefin tuna commercial catch limits in the eastern Pacific Ocean for 2015-2016.* The following is applicable to the U.S. commercial fishery for Pacific bluefin tuna in the Convention Area in the years 2015 and 2016.
+(g) *Pacific bluefin tuna (Thunnus orientalis) commercial catch limits in the eastern Pacific Ocean for 2017-2018.* The following is applicable to the U.S. commercial fishery for Pacific bluefin tuna in the Convention Area in the years 2017 and 2018.
 
-(1) For the calendar year 2015, all commercial fishing vessels of the United States combined may capture, retain, transship, or land no more than 425 metric tons in the Convention Area.
+(1) For the calendar year 2017, all commercial fishing vessels of the United States combined may capture, retain, transship, or land no more than 425 metric tons in the Convention Area.
 
-(2) In 2016, NMFS will publish a notice in the Federal Register announcing the 2016 catch limit. For the calendar year 2016, all commercial fishing vessels of the United States combined may capture, retain on board, transship, or land no more than the 2016 catch limit. The 2016 catch limit is calculated by adding any amount of the 425 metric ton catch limit that was not caught in 2015, as determined by NMFS, to 175 metric tons, except as follows:
+(2) In 2018, NMFS will publish a notice in the Federal Register announcing the 2018 catch limit. For the calendar year 2018, all commercial fishing vessels of the United States combined may capture, retain on board, transship, or land no more than the 2018 annual catch limit. The 2018 catch limit is calculated by adding any amount of the 425 metric ton catch limit that was not caught in 2017, as determined by NMFS, to 175 metric tons, except as follows:
 
-(i) If 175 metric tons or less are caught in 2015, as determined by NMFS, then the 2016 catch limit is 425 metric tons;
+(i) If 175 metric tons or less are caught in 2017, as determined by NMFS, then the 2018 catch limit is 425 metric tons; or,
 
-(ii) If in 2015, greater than 300 metric tons and up to 400 metric tons are caught, as determined by NMFS, then the 2016 catch limit is 200 metric tons; or
+(ii) If greater than 425 metric tons are caught in 2017, as determined by NMFS, then the 2018 catch limit is calculated by subtracting the amount caught in 2017 from 600 metric tons.
 
-(iii) If greater than 425 metric tons are caught in 2015, as determined by NMFS, then the 2016 catch limit is calculated by subtracting the amount caught in 2015 from 600 metric tons.
+(3) In 2017 and 2018, a 25 metric ton trip limit will be in effect until NMFS anticipates that catch will be within 50 metric tons of the catch limit, after which a 2 metric ton trip limit will be in effect upon publication of a notice in the Federal Register by NMFS.
 
-(3) In 2015 and 2016, a 25 metric ton trip limit will be in effect until NMFS anticipates that catch will be within 50 metric tons of the catch limits, after which a 2 metric ton trip limit will be in effect upon publication of a notice in the Federal Register by NMFS.
-
-(4) After NMFS determines that the catch limits under paragraphs (g)(1) and (2) of this section are expected to be reached by a future date, NMFS will publish a fishing closure notice in the Federal Register announcing the effective date that additional targeting, retaining on board, transshipping or landing Pacific bluefin tuna in the Convention Area shall be prohibited as described in paragraph (g)(5) of this section.
+(4) After NMFS determines that the catch limits under paragraphs (g)(1) and (g)(2) of this section are expected to be reached by a future date, NMFS will publish a fishing closure notice in the Federal Register announcing the effective date that targeting, retaining on board, transshipping, or landing Pacific bluefin tuna in the Convention Area shall be prohibited as described in paragraph (g)(5) of this section.
 
 (5) Beginning on the date announced in the fishing closure notice published under paragraph (g)(4) of this section through the end of the calendar year, a commercial fishing vessel of the United States may not be used to target, retain on board, transship, or land Pacific bluefin tuna captured in the Convention Area, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board, transshipped, and/or landed, to the extent authorized by applicable laws and regulations, provided such Pacific bluefin tuna is landed within 14 days after the effective date published in the fishing closure notice.
 
@@ -94,4 +90,4 @@ Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
 
 (i) *FAD data reporting for purse seine vessels.* U.S. vessel owners and operators must ensure that any interaction or activity with a FAD is reported using a standard format provided by the HMS Branch. The owner and operator shall ensure that the form is submitted to the address specified by the HMS Branch.
 
-[64 FR 44431, Aug. 16, 1999, as amended at 66 FR 49320, Sept. 27, 2001. Redesignated at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68338, Nov. 4, 2011; 76 FR 68338, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 19489, Apr. 9, 2014; 79 FR 28451, May 16, 2014; 79 FR 56019, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017]
+[64 FR 44431, Aug. 16, 1999, as amended at 66 FR 49320, Sept. 27, 2001. Redesignated at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68338, Nov. 4, 2011; 76 FR 68338, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 19489, Apr. 9, 2014; 79 FR 28451, May 16, 2014; 79 FR 56019, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017]

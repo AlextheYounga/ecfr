@@ -1,7 +1,5 @@
 ##### § 240.15g-9 Sales practice requirements for certain low-priced securities. #####
 
-Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
-
 (a) As a means reasonably designed to prevent fraudulent, deceptive, or manipulative acts or practices, it shall be unlawful for a broker or dealer to sell a penny stock to, or to effect the purchase of a penny stock by, any person unless:
 
 (1) The transaction is exempt under paragraph (c) of this section; or
@@ -40,7 +38,7 @@ Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
 
 (1) Transactions that are exempt under 17 CFR 240.15g-1 (a), (b), (d), (e), and (f).
 
-(2) Transactions that meet the requirements of 17 CFR 230.505 or 230.506 (including, where applicable, the requirements of 17 CFR 230.501 through 230.503, and 17 CFR 230.507 through 230.508), or transactions with an issuer not involving any public offering pursuant to section 4(2) of the Securities Act of 1933.
+(2) Transactions that meet the requirements of 17 CFR 230.506 (including, where applicable, the requirements of 17 CFR 230.501 through 230.503, and 17 CFR 230.507 through 230.508), or transactions with an issuer not involving any public offering pursuant to section 4(a)(2) of the Securities Act of 1933.
 
 (3) Transactions in which the purchaser is an established customer of the broker or dealer.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
 
 (ii) Has made three purchases of penny stocks that occurred on separate days and involved different issuers.
 
-[54 FR 35481, Aug. 28, 1989. Redesignated and amended at 58 FR 37417, July 12, 1993; 70 FR 40632, July 13, 2005]
+[54 FR 35481, Aug. 28, 1989. Redesignated and amended at 58 FR 37417, July 12, 1993; 70 FR 40632, July 13, 2005; 81 FR 83553, Nov. 21, 2016]

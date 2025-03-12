@@ -1,5 +1,7 @@
 ##### § 165.173 Safety Zones for annually recurring marine events held in Coast Guard Southeastern New England Captain of the Port Zone. #####
 
+Link to an amendment published at 82 FR 23142, May 22, 2017.
+
 (a) *Regulations.* (1) The general regulations contained in 33 CFR 165.23 as well as the following regulations apply to the fireworks displays and swim events listed in the Table to § 165.173. These regulations may be enforced for the duration of each event.
 
 (2) Notifications will be made to the local maritime community through the Local Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register.

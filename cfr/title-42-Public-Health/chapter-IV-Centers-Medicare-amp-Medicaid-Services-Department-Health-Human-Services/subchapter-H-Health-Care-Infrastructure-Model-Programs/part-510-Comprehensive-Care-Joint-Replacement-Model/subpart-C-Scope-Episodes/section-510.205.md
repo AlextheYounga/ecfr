@@ -1,7 +1,5 @@
 ##### § 510.205 Beneficiary inclusion criteria. #####
 
-Link to an amendment published at 82 FR 613, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14464, Mar. 21, 2017.
-
 (a) Episodes tested in the CJR model include only those in which care is furnished to beneficiaries who meet all of the following criteria upon admission to the anchor hospitalization:
 
 (1) Are enrolled in Medicare Parts A and Part B.
@@ -14,4 +12,14 @@ Link to an amendment published at 82 FR 613, Jan. 3, 2017.This amendment was del
 
 (5) Have Medicare as their primary payer.
 
+(6) For episodes beginning on or after July 1, 2017, are not prospectively assigned to -
+
+(i) An ACO in the Next Generation ACO model;
+
+(ii) An ACO in a track of the Comprehensive ESRD Care Model incorporating downside risk for financial losses; or
+
+(iii) A Shared Savings Program ACO in Track 3.
+
 (b) If at any time during the episode a beneficiary no longer meets all of the criteria in this section, the episode is canceled in accordance with § 510.210(b).
+
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 613, Jan. 3, 2017]

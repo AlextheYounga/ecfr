@@ -1,16 +1,14 @@
 ##### § 510.310 Appeals process. #####
 
-Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14464, Mar. 21, 2017.
+(a) *Notice of calculation error (first level of appeal).* Subject to the limitations on review in subpart D of this part, if a participant hospital wishes to dispute calculations involving a matter related to payment, reconciliation amounts, repayment amounts, the use of quality measure results in determining the composite quality score, or the application of the composite quality score during reconciliation, the participant hospital is required to provide written notice of the calculation error, in a form and manner specified by CMS.
 
-(a) *Notice of calculation error (first level of appeal).* Subject to the limitations on review in subpart d of this part, if a participant hospital wishes to dispute the calculation that involves a matter related to payment, reconciliation amounts, repayment amounts, or determinations associated with quality measures affecting payment, the hospital is required to provide written notice of the error, in a form and manner specified by CMS.
+(1) Unless the participant hospital provides such notice, CMS deems final the CJR reconciliation report 45 calendar days after it is issued and proceeds with the payment or repayment processes as applicable.
 
-(1) Unless the participant hospital provides such notice, the CJR reconciliation report is deemed final 45 calendar days after it is issued.
+(2) If CMS receives a notice of a calculation error within 45 calendar days of the issuance of the reconciliation report, CMS responds in writing within 30 calendar days to either confirm that there was an error in the calculation or verify that the calculation is correct, although CMS reserves the right to an extension upon written notice to the participant hospital.
 
-(2) If CMS receives a timely notice of a calculation error, CMS responds in writing within 30 calendar days to either confirm that there was an error in the calculation or verify that the calculation is correct, although CMS reserves the right to an extension upon written notice to the participant hospital.
+(3) Only participant hospitals may use the dispute resolution process described in this part.
 
-(3) If a participant hospital does not submit timely notice of a calculation error in accordance with the timelines and processes specified by CMS, then CMS deems final the CJR reconciliation report and proceeds with the payment or repayment processes, as applicable.
-
-(4) Only participant hospitals may use the dispute resolution process described in this part.
+(4) Only participant hospitals may use the notice of calculation error process described in this part.
 
 (b) *Dispute resolution process (second level of appeal).* (1) If the participant hospital is dissatisfied with CMS's response to the notice of a calculation error, the participant hospital may request a reconsideration review in a form and manner as specified by CMS.
 
@@ -34,9 +32,11 @@ Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was del
 
 (7) The CMS reconsideration official issues a written determination within 30 days of the review. The determination is final and binding.
 
-(c) *Exception to the process.* If the participant hospital contests a matter that does not involve an issue contained in, or a calculation which contributes to, a CJR reconciliation report, a notice of calculation error is not required. An example of such a matter is termination of the participant hospital from the model. In those instances, if CMS does not receive a request for reconsideration from the participant hospital within 10 calendar days of the notice of the initial determination, the initial determination is deemed final and CMS proceeds with action indicated in the initial determination.
+(c) *Exception to the process.* If the participant hospital contests a matter that does not involve an issue contained in, or a calculation that contributes to, a CJR reconciliation report, a notice of calculation error is not required. In these instances, if CMS does not receive a request for reconsideration from the participant hospital within 10 calendar days of the notice of the initial determination, the initial determination is deemed final and CMS proceeds with action indicated in the initial determination. This does not apply to the limitations on review in paragraph (e) of this section.
 
-(d) *Limitations on review.* In accordance with section 1115A(d)(2) of the Act, there is no administrative or judicial review under sections 1869 or 1878 of the Act or otherwise for the following:
+(d) *Notice of a participant hospital's termination from the CJR model.* If a participant hospital receives notification that it has been terminated from the CJR model, it must provide a written notice to CMS requesting review of the termination within 10 calendar days of the notice. CMS has 30 days to respond to the participant hospital's request for review. If the participant hospital fails to notify CMS, the termination is deemed final.
+
+(e) *Limitations on review.* In accordance with section 1115A(d)(2) of the Act, there is no administrative or judicial review under sections 1869 or 1878 of the Act or otherwise for the following:
 
 (1) The selection of models for testing or expansion under section 1115A of the Act.
 
@@ -48,4 +48,6 @@ Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was del
 
 (5) The termination or modification of the design and implementation of a model under section 1115A(b)(3)(B) of Act.
 
-(6) Decisions about expansion of the duration and scope of a model under section 1115A(c) of the Act, including the determination that a model is not expected to meet criteria described in paragraph (d)(1) or (2) of this section.
+(6) Decisions about expansion of the duration and scope of a model under section 1115A(c) of the Act, including the determination that a model is not expected to meet criteria described in section 1115A(c)(1) or (2) of the Act.
+
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017]

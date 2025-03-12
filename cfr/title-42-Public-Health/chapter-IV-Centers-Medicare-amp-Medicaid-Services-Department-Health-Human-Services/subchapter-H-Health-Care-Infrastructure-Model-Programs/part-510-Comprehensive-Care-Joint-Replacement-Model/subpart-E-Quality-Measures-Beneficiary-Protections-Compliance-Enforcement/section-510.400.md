@@ -1,7 +1,5 @@
 ##### § 510.400 Quality measures and reporting. #####
 
-Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14464, Mar. 21, 2017.
-
 (a) *Reporting of quality measures.* The following quality measures are used for public reporting, for determining whether a participant hospital is eligible for reconciliation payments under § 510.305(g), and whether a participant hospital is eligible for quality incentive payments under § 510.315(f) in the performance year:
 
 (1) Hospital-level risk-standardized complication rate following elective primary total hip arthroplasty and/or total knee arthroplasty.
@@ -78,4 +76,6 @@ Link to an amendment published at 82 FR 615, Jan. 3, 2017.This amendment was del
 
 (2) Shares each participant hospital's quality metrics with the hospital prior to display on the Web site; and
 
-(3) Does not publicly report the voluntary patient-reported outcomes and limited risk variable data during this model, but does indicate whether a hospital has voluntarily submitted such data.
+(3) Does not publicly report the voluntary patient-reported outcomes and limited risk variable data during this model, but indicates whether a hospital has successfully submitted such data in accordance with § 510.400(b).
+
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017]

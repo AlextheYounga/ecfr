@@ -1,7 +1,5 @@
 ##### § 270.17j-1 Personal investment activities of investment company personnel. #####
 
-Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Access person* means:
@@ -36,7 +34,7 @@ Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
 
 (ii) Any natural person who controls the Fund or investment adviser and who obtains information concerning recommendations made to the Fund regarding the purchase or sale of securities by the Fund.
 
-(8) A *Limited offering* means an offering that is exempt from registration under the Securities Act of 1933 pursuant to section 4(2) or section 4(5) [15 U.S.C. 77d(2) or 77d(5)] or pursuant to rule 504, rule 505, or rule 506 [17 CFR 230.504, 230.505, or 230.506] under the Securities Act of 1933.
+(8) A *Limited offering* means an offering that is exempt from registration under the Securities Act of 1933 pursuant to section 4(a)(2) or section 4(a)(5) [15 U.S.C. 77d(a)(2) or 77d(a)(5)] or pursuant to rule 504, or rule 506 [17 CFR 230.504 or 230.506] under the Securities Act of 1933.
 
 (9) *Purchase or sale of a covered security* includes, among other things, the writing of an option to purchase or sell a Covered Security.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
 
 (4) To engage in any manipulative practice with respect to the Fund.
 
-(c) *Code of Ethics* - (1) *Adoption and approval of Code of Ethics.* (i) Every Fund (other than a money market fund or a Fund that does not invest in Covered Securities) and each investment adviser of and principal underwriter for the Fund, must adopt a written code of ethics containing provisions reasonably necessary to prevent its Access Persons from engaging in any conduct prohibited by paragraph (b) of this section.
+(c) *Code of Ethics*—(1) *Adoption and approval of Code of Ethics.* (i) Every Fund (other than a money market fund or a Fund that does not invest in Covered Securities) and each investment adviser of and principal underwriter for the Fund, must adopt a written code of ethics containing provisions reasonably necessary to prevent its Access Persons from engaging in any conduct prohibited by paragraph (b) of this section.
 
 (ii) The board of directors of a Fund, including a majority of directors who are not interested persons, must approve the code of ethics of the Fund, the code of ethics of each investment adviser and principal underwriter of the Fund, and any material changes to these codes. The board must base its approval of a code and any material changes to the code on a determination that the code contains provisions reasonably necessary to prevent Access Persons from engaging in any conduct prohibited by paragraph (b) of this section. Before approving a code of a Fund, investment adviser or principal underwriter or any amendment to the code, the board of directors must receive a certification from the Fund, investment adviser or principal underwriter that it has adopted procedures reasonably necessary to prevent Access Persons from violating the Fund's, investment adviser's, or principal underwriter's code of ethics. The Fund's board must approve the code of an investment adviser or principal underwriter before initially retaining the services of the investment adviser or principal underwriter. The Fund's board must approve a material change to a code no later than six months after adoption of the material change.
 
@@ -82,7 +80,7 @@ Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
 
 (ii) An officer, director or general partner of the principal underwriter serves as an officer, director or general partner of the Fund or of the Fund's investment adviser.
 
-(d) *Reporting requirements of access persons* - (1) *Reports required.* Unless excepted by paragraph (d)(2) of this section, every Access Person of a Fund (other than a money market fund or a Fund that does not invest in Covered Securities) and every Access Person of an investment adviser of or principal underwriter for the Fund, must report to that Fund, investment adviser or principal underwriter:
+(d) *Reporting requirements of access persons*—(1) *Reports required.* Unless excepted by paragraph (d)(2) of this section, every Access Person of a Fund (other than a money market fund or a Fund that does not invest in Covered Securities) and every Access Person of an investment adviser of or principal underwriter for the Fund, must report to that Fund, investment adviser or principal underwriter:
 
 (i) *Initial holdings reports.* No later than 10 days after the person becomes an Access Person (which information must be current as of a date no more than 45 days prior to the date the person becomes an Access Person):
 
@@ -164,4 +162,4 @@ Link to an amendment published at 81 FR 83554, Nov. 21, 2016.
 
 (2) A Fund or investment adviser must maintain a record of any decision, and the reasons supporting the decision, to approve the acquisition by investment personnel of securities under paragraph (e), for at least five years after the end of the fiscal year in which the approval is granted.
 
-[64 FR 46834, Aug. 27, 1999; 65 FR 12943, Mar. 10, 2000, as amended at 69 FR 41707, July 9, 2004; 76 FR 81806, Dec. 29, 2011]
+[64 FR 46834, Aug. 27, 1999; 65 FR 12943, Mar. 10, 2000, as amended at 69 FR 41707, July 9, 2004; 76 FR 81806, Dec. 29, 2011; 81 FR 83554, Nov. 21, 2016]

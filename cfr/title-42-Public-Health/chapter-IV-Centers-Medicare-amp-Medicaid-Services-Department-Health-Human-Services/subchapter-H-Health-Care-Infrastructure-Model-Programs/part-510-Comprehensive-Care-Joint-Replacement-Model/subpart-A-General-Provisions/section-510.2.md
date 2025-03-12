@@ -1,6 +1,6 @@
 ##### § 510.2 Definitions. #####
 
-Link to an amendment published at 82 FR 610, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 17, 2017.This amendment was further delayed until May 20, 2017, at 82 FR 14464, Mar. 21, 2017.Link to an amendment published at 82 FR 611, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.
+Link to an amendment published at 82 FR 611, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.
 
 For the purposes of this part, the following definitions are applicable unless otherwise stated:
 
@@ -12,11 +12,19 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Anchor hospitalization* means the initial hospital stay upon admission for a lower extremity joint replacement.
 
+*Applicable discount factor* means the discount percentage established by the participant hospital's quality category as determined in § 510.315 and that is applied to the episode benchmark price for purposes of determining a participant hospital's Medicare repayment in performance years 2 and 3.
+
+*Area* means, as defined in § 400.200 of this chapter, the geographical area within the boundaries of a State, or a State or other jurisdiction, designated as constituting an area with respect to which a Professional Standards Review Organization or a Utilization and Quality Control Peer Review Organization has been or may be designated.
+
 *BPCI* stands for the Bundled Payment for Care Improvement initiative.
 
 *CCN* stands for CMS certification number.
 
 *CEC* stands for Comprehensive ESRD Care Initiative.
+
+*CEHRT* means certified electronic health record technology that meets the requirements of 45 CFR 170.102. .
+
+*CJR beneficiary* means a beneficiary who meets the beneficiary inclusion criteria in § 510.205 and who is in a CJR episode.
 
 *CJR collaborator* means one of the following Medicare-enrolled persons or entities that enters into a sharing arrangement:
 
@@ -54,9 +62,9 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *EFT* stands for electronic funds transfer.
 
-*Episode of care (or Episode)* means all Medicare Part A and B items and services described in § 510.200(b) (and excluding the items and services described in § 510.200(d)) that are furnished to a beneficiary described in § 510.205 during the time period that begins with the beneficiary's admission to an anchor hospitalization and ends on the 90th day after the date of discharge from the anchor hospitalization, with the day of discharge itself being counted as the first day of the 90-day post-discharge period.
+*Episode benchmark price* means a dollar amount assigned to CJR episodes based on historical episode payment data (3 years of historical Medicare payment data grouped into CJR episodes according to the episode definition as described in § 510.200(b)) prior to the application of the effective discount factor or applicable discount factor, as described in § 510.300(c).
 
-*Episode target price* means the amount determined in accordance with § 510.300 and applied to an episode in determining a net payment reconciliation amount.
+*Episode of care* (or *Episode*) means all Medicare Part A and B items and services described in § 510.200(b) (and excluding the items and services described in § 510.200(d)) that are furnished to a beneficiary described in § 510.205 during the time period that begins with the beneficiary's admission to an anchor hospitalization and ends on the 90th day after the date of discharge from the anchor hospitalization, with the day of discharge itself being counted as the first day of the 90-day post-discharge period.
 
 *ESRD* stands for end stage renal disease*.*
 
@@ -64,11 +72,13 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *HCAHPS* stands for Hospital Consumer Assessment of Healthcare Providers and Systems.
 
-*HCPCS* stands for CMS Common Procedure Coding System.
+*HCPCS* stands for Healthcare Common Procedure Coding System.
 
-*HHA* stands for home health agency*.*
+*HHA* means a Medicare-enrolled home health agency.
 
-*Historical episode payment* means the most recent 3 years of expenditures for an episode in a given participant hospital.
+*Historical episode payment* means the expenditures for historical episodes that occurred during the historical period used to determine the episode benchmark price.
+
+*Hospital* means a provider subject to the prospective payment system specified in § 412.1(a)(1) of this chapter.
 
 *ICD-CM* stands for International Classification of Diseases, Clinical Modification.
 
@@ -77,8 +87,6 @@ For the purposes of this part, the following definitions are applicable unless o
 *Internal cost savings* means the measurable, actual, and verifiable cost savings realized by the participant hospital resulting from care redesign undertaken by the participant hospital in connection with providing items and services to beneficiaries within specific CJR episodes of care. Internal cost savings does not include savings realized by any individual or entity that is not the participant hospital.
 
 *IPF* stands for inpatient psychiatric facility.
-
-*IPPS hospital (or hospital)* means a provider subject to the prospective payment system specified in § 412.1(a)(1) of this chapter.
 
 *IRF* stands for inpatient rehabilitation facility.
 
@@ -138,7 +146,9 @@ For the purposes of this part, the following definitions are applicable unless o
 
 (3) Outpatient speech-language pathology services as defined in § 410.62 of this chapter.
 
-*Quality improvement points* are points that CMS adds to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure increases from the previous performance year by at least 3 deciles on the performance percentile scale.
+*Quality-adjusted target price* means the dollar amount assigned to CJR episodes as the result of adjusting the episode benchmark price by the participant hospital's effective discount factor or applicable discount factor based on the participant hospital's quality category, as described in §§ 510.300(c) and 510.315(f).
+
+*Quality improvement points* are points that CMS adds to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure for performance years 2 through 5 increases from the previous performance year by at least 2 deciles on the performance percentile scale, as described in § 510.315(d). For performance year 1, CMS adds quality improvement points to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure increases from the corresponding time period in the previous year by at least 2 deciles on the performance percentile scale, as described in § 510.315(d).
 
 *Quality performance points* are points that CMS adds to a participant hospital's composite quality score for a measure based on the performance percentile scale and for successful data submission of patient-reported outcomes.
 
@@ -172,6 +182,16 @@ For the purposes of this part, the following definitions are applicable unless o
 
 (3) Speech-language pathologist.
 
+*Therapist in private practice* means a therapist that -
+
+(1) Complies with the special provisions for physical therapists in private practice in § 410.60(c) of this chapter;
+
+(2) Complies with the special provisions for occupational therapists in private practice in § 410.59(c) of this chapter; or
+
+(3) Complies with the special provisions for speech-language pathologists in private practice in § 410.62(c) of this chapter.
+
 *TIN* stands for taxpayer identification number.
 
 *TKA/THA* stands for total knee arthroplasty/total hip arthroplasty.
+
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 610, Jan. 3, 2017]

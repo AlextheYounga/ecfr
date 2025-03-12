@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 82 FR 18715, Apr. 21, 2017.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -474,6 +472,10 @@ Link to an amendment published at 82 FR 18715, Apr. 21, 2017.
 
 (iv) Possess or land fish while setting fixed gear on a set-only trip as declared through the pre-trip notification system pursuant to § 648.11(k).
 
+(v) Fish for, possess, land fish, enroll in a sector, or lease a permit or confirmation of permit history (CPH) as a lessor or lessee, with a permit that has been rendered unusable as specified in § 648.4(a)(1)(i)(N).
+
+(vi) Acquire a limited access NE multispecies permit that would result in a permit holder exceeding any of the ownership accumulation limits specified in § 648.4(a)(1)(i)(N), unless authorized under § 648.4(a)(1)(i)(N).
+
 (3) *Dealer requirements.* (i) It is unlawful to purchase, possess, import, export, or receive as a dealer, or in the capacity of a dealer, regulated species or ocean pout in excess of the possession limits specified in § 648.82, § 648.85, § 648.86, or § 648.87 applicable to a vessel issued a NE multispecies permit, unless otherwise specified in § 648.17, or unless the regulated species or ocean pout are purchased or received from a vessel that caught them on a sector trip and such species are exempt from such possession limits in accordance with an approved sector operations plan, as specified in § 648.87(c).
 
 (ii) Sell or transfer to another person for a commercial purpose, other than solely for transport on land, any NE multispecies harvested from the EEZ by a vessel issued a Federal NE multispecies permit, unless the transferee has a valid NE multispecies dealer permit.
@@ -572,7 +574,7 @@ Link to an amendment published at 82 FR 18715, Apr. 21, 2017.
 
 (9) *DAS restrictions for vessel and operator permit holders.* It is unlawful for any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
 
-(i) If operating under the provisions of a limited access NE multispecies Handgear A permit south of the GOM Regulated Mesh Area, as defined at § 648.80(a)(1), fail to declare the vessel operator's intent to fish in this area via VMS or fail to obtain or retain on board a letter of authorization from the Regional Administrator, as required by § 648.82(b)(6)(iv).
+(i) If operating under the provisions of a limited access NE multispecies Handgear A permit south of the GOM Regulated Mesh Area, as defined at § 648.80(a)(1), fail to declare the vessel operator's intent to fish in this area via VMS or fail to obtain or retain on board a letter of authorization from the Regional Administrator, as required by § 648.82(b)(6)(iii).
 
 (ii) *DAS Leasing Program.* (A) Provide false information on an application, required by § 648.82(k)(4)(xi), to downgrade the DAS Leasing Program baseline.
 
@@ -599,6 +601,8 @@ Link to an amendment published at 82 FR 18715, Apr. 21, 2017.
 (L) Combine, transfer, or consolidate DAS allocations, except as provided for under the DAS Leasing Program or the DAS Transfer Program, as specified under § 648.82(k) and (l), respectively.
 
 (M) Lease NE multispecies DAS to or from a common pool vessel if either the Lessor or the Lessee vessel is a sector vessel.
+
+(N) Act as a lessor or lessee of NE multispecies DAS to or from a limited access permit that has been rendered unusable as specified in § 648.4(a)(1)(i)(N).
 
 (iii) *DAS Transfer Program.* (A) Transfer NE multispecies DAS, or use transferred DAS, that have not been approved for transfer by the Regional Administrator, as specified in § 648.82(l).
 

@@ -1,6 +1,6 @@
 ##### § 56.18002 Examination of working places. #####
 
-Link to an amendment published at 82 FR 7695, January 23, 2017.
+Link to an amendment published at 82 FR 7695, Jan. 23, 2017.This amendment was delayed until Oct. 2, 2017, at 82 FR 23139, May 22, 2017.
 
 (a) A competent person designated by the operator shall examine each working place at least once each shift for conditions which may adversely affect safety or health. The operator shall promptly initiate appropriate action to correct such conditions.
 

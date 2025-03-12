@@ -1,7 +1,5 @@
 ##### § 1926.55 Gases, vapors, fumes, dusts, and mists. #####
 
-Link to an amendment published at 82 FR 2750, Jan. 9, 2017.This amendment was delayed to March 21, 2017 at 82 FR 8901, Feb. 1, 2017.This amendment was further delayed to May 20, 2017 at 82 FR 14439, Mar. 21, 2017.
-
 (a) Exposure of employees to inhalation, ingestion, skin absorption, or contact with any material or substance at a concentration above those specified in the “Threshold Limit Values of Airborne Contaminants for 1970” of the American Conference of Governmental Industrial Hygienists, shall be avoided. See appendix A to this section.
 
 (b) To achieve compliance with paragraph (a) of this section, administrative or engineering controls must first be implemented whenever feasible. When such controls are not feasible to achieve full compliance, protective equipment or other protective measures shall be used to keep the exposure of employees to air contaminants within the limits prescribed in this section. Any equipment and technical measures used for this purpose must first be approved for each particular use by a competent industrial hygienist or other technically qualified person. Whenever respirators are used, their use shall comply with § 1926.103.
@@ -64,7 +62,7 @@ Threshold Limit Values of Airborne Contaminants for Construction
 |                                 Benzo(a)pyrene; see Coal tar pitch volatiles                                 |                    |                |                  |                |
 |                                               Benzoyl peroxide                                               |      94-36-0       |       \-       |        5         |       \-       |
 |                                               Benzyl chloride                                                |      100-44-7      |       1        |        5         |       \-       |
-|                                  Beryllium and beryllium compounds (as Be)                                   |     7440-41-7      |       \-       |      0.002       |       \-       |
+|                    Beryllium and beryllium compounds (as Be); see 1926.1124<sup>(q)</sup>                    |     7440-41-7      |                |      0.002       |       \-       |
 |                                            Biphenyl; see Diphenyl                                            |                    |                |                  |                |
 |                                      Bisphenol A; see Diglycidyl ether                                       |                    |                |                  |                |
 |                                                 Boron oxide                                                  |     1303-86-2      |                |                  |                |
@@ -694,6 +692,8 @@ Footnotes
 
 <sup>p</sup> This standard applies to any operations or sectors for which the respirable crystalline silica standard, 1926.1153, is stayed or otherwise is not in effect.
 
+<sup>q</sup> This standard applies to any operations or sectors for which the beryllium standard, 1926.1124, is stayed or otherwise is not in effect.
+
 The 1970 TLV uses letter designations instead of a numerical value as follows:
 
 A<sup>1</sup> [Reserved]
@@ -704,4 +704,4 @@ A<sup>3</sup> Gasoline and/or Petroleum Distillates. The composition of these ma
 
 E Simple asphyxiants. The limiting factor is the available oxygen which shall be at least 19.5% and be within the requirements addressing explosion in part 1926.
 
-[39 FR 22801, June 24, 1974, as amended at 51 FR 37007, Oct. 17, 1986; 52 FR 46312, Dec. 4, 1987; 58 FR 35089, June 30, 1993; 61 FR 9249, 9250, Mar. 7, 1996; 61 FR 56856, Nov. 4, 1996; 62 FR 1619, Jan. 10, 1997; 71 FR 10381, Feb. 28, 2006; 71 FR 36009, June 23, 2006; 81 FR 16875, Mar. 25, 2016; 81 FR 31168, May 18, 2016; 81 FR 60273, Sept. 1, 2016]
+[39 FR 22801, June 24, 1974, as amended at 51 FR 37007, Oct. 17, 1986; 52 FR 46312, Dec. 4, 1987; 58 FR 35089, June 30, 1993; 61 FR 9249, 9250, Mar. 7, 1996; 61 FR 56856, Nov. 4, 1996; 62 FR 1619, Jan. 10, 1997; 71 FR 10381, Feb. 28, 2006; 71 FR 36009, June 23, 2006; 81 FR 16875, Mar. 25, 2016; 81 FR 31168, May 18, 2016; 81 FR 60273, Sept. 1, 2016; 82 FR 2750, Jan. 9, 2017]

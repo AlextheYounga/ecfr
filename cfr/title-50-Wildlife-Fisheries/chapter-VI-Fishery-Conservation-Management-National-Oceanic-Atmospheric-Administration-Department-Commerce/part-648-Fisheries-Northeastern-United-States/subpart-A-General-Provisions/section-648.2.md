@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 82 FR 18714, Apr. 21, 2017.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -367,6 +365,8 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 *Out of the monkfish fishery* means the period of time during which a vessel is not fishing for monkfish under the monkfish DAS program.
 
 *Out of the multispecies fishery* means the period of time during which a vessel is not fishing for regulated species under the NE multispecies DAS program.
+
+*Ownership interest,* in the NE multispecies fishery, includes, but is not limited to holding share(s) or stock in any corporation, any partnership interest, or membership in a limited liability company, or personal ownership, in whole or in part, of a vessel issued a limited access NE multispecies permit or confirmation of permit history (CPH), including any ownership interest in any entity or its subsidiaries or partners, no matter how far removed.
 
 *Pair trawl or pair trawling* means to tow a single net between two vessels.
 

@@ -1,7 +1,5 @@
 ##### § 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications. #####
 
-Link to an amendment published at 82 FR 21690, May 10, 2017.
-
 (a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs.
 
 (b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act.
@@ -92,7 +90,6 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |                Ridley U.S. Holdings, Inc., 424 North Riverfront Dr., P.O. Box 8500, Mankato, MN 56002-8500                 |     067949      |
 |                                  RSR Laboratories, Inc., 501 Fifth St., Bristol, TN 37620                                  |     058670      |
 |                          Sergeant's Pet Care Products, Inc., 10077 S. 134th St., Omaha, NE 68138                           |     021091      |
-|                             Sioux Biochemical, Inc., 204 Third St. NW., Sioux Center, IA 51250                             |     063112      |
 |                      SmartVet USA, Inc., 22201 West Innovation Dr., suite 170A, Olathe, KS 66061-1304                      |     086001      |
 |                          Sparhawk Laboratories, Inc., 12340 Santa Fe Trail Dr., Lenexa, KS 66215                           |     058005      |
 |                                 Squire Laboratories, Inc., 100 Mill St., Revere, MA 02151                                  |     017153      |
@@ -188,7 +185,6 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |     062250      |                         Belcher Pharmaceuticals, LLC, 6911 Bryan Dairy Rd., Largo, FL 33777.                         |
 |     062794      |                    Mylan Bertek Pharmaceuticals, Inc., 12720 Dairy Ashford, Sugar Land, TX 77478.                    |
 |     063075      |                      Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964.                       |
-|     063112      |                         Sioux Biochemical, Inc., 204 Third St. NW., Sioux Center, IA 51250.                          |
 |     063286      |                           Mylan Institutional, LLC, 4901 Hiawatha Dr., Rockford, IL 61103.                           |
 |     063604      |                              Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525.                              |
 |     064146      |                          Alaco, Inc., 1500 North Wilmot Rd., suite 290-C, Tucson, AZ 85712.                          |
