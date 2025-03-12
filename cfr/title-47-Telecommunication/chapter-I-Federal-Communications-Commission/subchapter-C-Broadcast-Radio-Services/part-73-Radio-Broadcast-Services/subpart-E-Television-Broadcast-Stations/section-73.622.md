@@ -1371,12 +1371,13 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 | Steamboat Springs  |                        10                         |
 |      Sterling      |                        23                         |
 |    CONNECTICUT     |                                                   |
-|     Bridgeport     |                     42, \*49                      |
+|     Bridgeport     |                        42                         |
 |      Hartford      |                 31, 33, \*45, 46                  |
 |    New Britain     |                        35                         |
 |     New Haven      |                   10, 39, \*41                    |
 |     New London     |                        26                         |
 |      Norwich       |                        \*9                        |
+|      Stamford      |                       \*49                        |
 |     Waterbury      |                        20                         |
 |      DELAWARE      |                                                   |
 |       Dover        |                         5                         |

@@ -1,5 +1,7 @@
 ##### § 1800.6 Deviations. #####
 
+Link to an amendment published at 84 FR 20240, May 9, 2019.
+
 (a) A deviation is required for any of the following -
 
 (1) When a prescribed term or condition set forth verbatim in this Part 1800 is modified or omitted.

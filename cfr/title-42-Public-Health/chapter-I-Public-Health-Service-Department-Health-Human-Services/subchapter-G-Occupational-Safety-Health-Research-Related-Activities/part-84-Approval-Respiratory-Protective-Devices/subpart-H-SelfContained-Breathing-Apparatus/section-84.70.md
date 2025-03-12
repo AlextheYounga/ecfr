@@ -1,5 +1,7 @@
 ##### § 84.70 Self-contained breathing apparatus; description. #####
 
+Link to an amendment published at 84 FR 16412, Apr. 19, 2019.
+
 (a) *Limitation on scope.* None of the provisions of Subpart H apply to closed-circuit escape respirators to be approved specifically for escape only from hazardous atmospheres, except as provided for under § 84.304(a)(5). Such respirators are covered under the provisions of subpart O of this part.
 
 (b) Self-contained breathing apparatus, including all completely assembled, portable, self-contained devices designed for use as respiratory protection during entry into and escape from or escape only from hazardous atmospheres, are described as follows:

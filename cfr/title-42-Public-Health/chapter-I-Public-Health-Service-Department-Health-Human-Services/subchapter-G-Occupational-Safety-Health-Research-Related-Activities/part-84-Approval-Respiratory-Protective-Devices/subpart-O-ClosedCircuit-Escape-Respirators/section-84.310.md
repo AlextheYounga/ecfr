@@ -1,5 +1,7 @@
 ##### § 84.310 Post-approval testing. #####
 
+Link to an amendment published at 84 FR 16412, Apr. 19, 2019.
+
 (a) NIOSH will periodically test the capacity and performance of units of approved CCERs.
 
 (b) NIOSH may test units that are new and/or units that have been deployed in the field and have remaining service life.

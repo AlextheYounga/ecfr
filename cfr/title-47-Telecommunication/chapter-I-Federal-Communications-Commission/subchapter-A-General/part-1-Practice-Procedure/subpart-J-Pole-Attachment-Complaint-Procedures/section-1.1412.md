@@ -1,5 +1,7 @@
 ##### § 1.1412 Contractors for survey and make-ready. #####
 
+Link to an amendment published at 84 FR 16412, April 19, 2019.
+
 (a) *Contractors for self-help complex and above the communications space make-ready.* A utility shall make available and keep up-to-date a reasonably sufficient list of contractors it authorizes to perform self-help surveys and make-ready that is complex and self-help surveys and make-ready that is above the communications space on its poles. The new attacher must use a contractor from this list to perform self-help work that is complex or above the communications space. New and existing attachers may request the addition to the list of any contractor that meets the minimum qualifications in paragraphs (c)(1) through (5) of this section and the utility may not unreasonably withhold its consent.
 
 (b) *Contractors for simple work.* A utility may, but is not required to, keep up-to-date a reasonably sufficient list of contractors it authorizes to perform surveys and simple make-ready. If a utility provides such a list, then the new attacher must choose a contractor from the list to perform the work. New and existing attachers may request the addition to the list of any contractor that meets the minimum qualifications in paragraphs (c)(1) through (5) of this section and the utility may not unreasonably withhold its consent.

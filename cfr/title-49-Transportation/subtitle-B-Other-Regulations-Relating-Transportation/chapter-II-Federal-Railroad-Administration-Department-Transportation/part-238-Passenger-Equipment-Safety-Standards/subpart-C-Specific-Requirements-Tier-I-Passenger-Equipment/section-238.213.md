@@ -2,6 +2,12 @@
 
 (a)(1) Except as further specified in paragraphs (b) and (c) of this section, § 238.201(b), and § 238.209(b), each passenger car shall have at each end of the car, placed ahead of the occupied volume, two full-height corner posts, each capable of resisting together with its supporting car body structure:
 
+(i) A 150,000-pound horizontal force applied at a point even with the top of the underframe, without exceeding the ultimate strength of either the post or its supporting car body structure;
+
+(ii) A 20,000-pound horizontal force applied at the point of attachment to the roof structure, without exceeding the ultimate strength of either the post or its supporting car body structure; and
+
+(iii) A 30,000-pound horizontal force applied at a point 18 inches above the top of the underframe, without permanent deformation of either the post or its supporting car body structure.
+
 (2) For purposes of this paragraph (a), the orientation of the applied horizontal forces shall range from longitudinal inward to lateral inward.
 
 (b)(1) Except as provided in paragraph (c) of this section, each cab car and MU locomotive ordered on or after May 10, 2010, or placed in service for the first time on or after March 8, 2012, shall have at its forward end, in lieu of the structural protection described in paragraph (a) of this section, two corner posts ahead of the occupied volume, meeting all of the requirements set forth in paragraphs (b)(2) and (b)(3) of this section:
@@ -70,4 +76,4 @@
 
 (iii) The corner post located behind the stepwell shall have no more than 10 inches of longitudinal, permanent deformation. There shall be no complete separation of the corner post located behind the stepwell, its connection to the underframe, its connection to either the roof structure or anti-telescoping plate (if used), or of its supporting car body structure. The corner post ahead of the stepwell is permitted to fail. (A graphical description of the forward end of a cab car or an MU locomotive utilizing low-level passenger boarding on the non-operating side of the cab end is provided in Figure 1 to subpart C of this part.)
 
-[75 FR 1229, Jan. 8, 2010, as amended at 83 FR 59219, Nov. 21, 2018]
+[75 FR 1229, Jan. 8, 2010, as amended at 83 FR 59219, Nov. 21, 2018; 84 FR 16414, Apr. 19, 2019]
