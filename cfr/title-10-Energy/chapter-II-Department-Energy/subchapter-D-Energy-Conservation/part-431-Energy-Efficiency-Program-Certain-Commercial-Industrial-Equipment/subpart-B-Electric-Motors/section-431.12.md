@@ -1,6 +1,6 @@
 ##### § 431.12 Definitions. #####
 
-Link to an amendment published at 87 FR 63654, Oct. 19, 2022.
+Link to an amendment published at 87 FR 63654, Oct. 19, 2022.Link to a correction published at 87 FR 64689, Oct. 26, 2022.
 
 The following definitions apply for purposes of this subpart, and of subparts U and V of this part. Any words or terms not defined in this Section or elsewhere in this part shall be defined as provided in Section 340 of the Act.
 
