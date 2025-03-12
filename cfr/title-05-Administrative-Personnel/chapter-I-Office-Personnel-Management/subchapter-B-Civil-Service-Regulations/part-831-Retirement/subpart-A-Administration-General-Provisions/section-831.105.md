@@ -42,7 +42,7 @@
 
 (j) Interest under § 831.662 is compounded annually and accrued monthly.
 
-(1) The initial interest on each monthly difference between the reduced annuity rate and the annuity rate actually paid equals the amount of the monthly difference times the difference between -
+(1) The initial interest on each monthly difference between the reduced annuity rate and the annuity rate actually paid equals the amount of the monthly difference times the difference between—
 
 (i) The sum of one plus the interest rate set under § 831.105(g) raised to the power whose numerator is the number of months between the date when the monthly difference in annuity rates occurred and the date when the initial interest is computed and whose denominator is 12; and
 
@@ -50,4 +50,6 @@
 
 (2) The total initial interest due is the sum of all of the initial interest on each monthly difference computed in accordance with paragraph (j)(1) of this section.
 
-[33 FR 12498, Sept. 4, 1968, as amended at 47 FR 43637, Oct. 1, 1982; 48 FR 38783, Aug. 26, 1983; 51 FR 31931, Sept. 8, 1986; 52 FR 32287, Aug. 27, 1987; 55 FR 9099, Mar. 12, 1990; 58 FR 52880, Oct. 13, 1993]
+(k) If OPM determines that additional interest was assessed on a deposit for full-time volunteer service as a volunteer or a volunteer leader with the Peace Corps or Volunteers in Service to America (VISTA) due to its own administrative error, OPM may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+[33 FR 12498, Sept. 4, 1968, as amended at 47 FR 43637, Oct. 1, 1982; 48 FR 38783, Aug. 26, 1983; 51 FR 31931, Sept. 8, 1986; 52 FR 32287, Aug. 27, 1987; 55 FR 9099, Mar. 12, 1990; 58 FR 52880, Oct. 13, 1993; 86 FR 20437, Apr. 20, 2021]

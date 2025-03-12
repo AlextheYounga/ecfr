@@ -1,8 +1,8 @@
 ##### § 842.305 Deposits for civilian service. #####
 
-(a) *Eligibility - current and former employees or Members.* An employee or Member subject to FERS and a former employee or Member who is entitled to an annuity may make a deposit for civilian service described under paragraphs (a)(2) and (a)(3) of § 842.304 upon application to OPM in a form prescribed by OPM. A deposit for civilian service cannot be made later than 30 days after the first regular monthly payment as defined in § 842.602.
+(a) *Eligibility—current and former employees or Members.* An employee or Member subject to FERS and a former employee or Member who is entitled to an annuity may make a deposit for civilian service described under paragraphs (a)(2) and (a)(3) of § 842.304 upon application to OPM in a form prescribed by OPM. A deposit for civilian service cannot be made later than 30 days after the first regular monthly payment as defined in § 842.602.
 
-(b) *Eligibility - survivors.* If an employee or Member was, at the time of death, eligible to make a deposit, the employee's survivor may make the deposit for civilian service. A deposit under this paragraph cannot be made after adjudication of the survivor's application for benefits becomes final, which is 30 days after the date of OPM's notice to the survivor of the annuity rates with and without making the deposit.
+(b) *Eligibility—survivors.* If an employee or Member was, at the time of death, eligible to make a deposit, the employee's survivor may make the deposit for civilian service. A deposit under this paragraph cannot be made after adjudication of the survivor's application for benefits becomes final, which is 30 days after the date of OPM's notice to the survivor of the annuity rates with and without making the deposit.
 
 (c) *Distinct period of service.* A deposit is not considered to have been made for any distinct period of service unless the total amount due for the period is paid in full. A distinct period of civilian service for this purpose is a period of civilian service that is not interrupted by a break in service of more than 3 days.
 
@@ -26,9 +26,9 @@
 
 (5) Once the employee's deposit has been paid in full or closed out, the employing agency must submit the documentation pertaining to the deposit to OPM in accordance with instructions issued by OPM.
 
-(h) *Processing applications for pre-1969 National Guard technician service credit for employees subject to FERS retirement deductions after November 5, 1990* - (1) *OPM determines creditable service.* OPM will determine whether all conditions for crediting the additional service have been met, compute the deposit, and notify the employee of the amount of and the procedures for submitting the deposit payments to OPM to obtain credit for the service.
+(h) *Processing applications for pre-1969 National Guard technician service credit for employees subject to FERS retirement deductions after November 5, 1990*—(1) *OPM determines creditable service.* OPM will determine whether all conditions for crediting the additional service have been met, compute the deposit, and notify the employee of the amount of and the procedures for submitting the deposit payments to OPM to obtain credit for the service.
 
-(2) *Computing the deposit.* (i) For individuals who will not have a CSRS component, the deposit will be computed based on -
+(2) *Computing the deposit.* (i) For individuals who will not have a CSRS component, the deposit will be computed based on—
 
 (A) One and three tenths percent of basic pay at the time the service was performed; and
 
@@ -36,9 +36,9 @@
 
 (ii) For individuals who will have a CSRS component, the deposit will be computed as specified in 5 CFR 831.306(c).
 
-(i) *Processing applications for pre-1969 National Guard technician service credit for annuitants (and survivors) and for former employees who separated after December 31, 1968, and before November 6, 1990* - (1) *OPM determines creditable service.* OPM will determine whether all conditions for crediting the additional service have been met, compute the amount of the deposit, and notify the individual.
+(i) *Processing applications for pre-1969 National Guard technician service credit for annuitants (and survivors) and for former employees who separated after December 31, 1968, and before November 6, 1990*—(1) *OPM determines creditable service.* OPM will determine whether all conditions for crediting the additional service have been met, compute the amount of the deposit, and notify the individual.
 
-(2) *Computing the deposit for annuitants and survivors.* (i) For individuals who do not have a CSRS component, the deposit will be computed based on -
+(2) *Computing the deposit for annuitants and survivors.* (i) For individuals who do not have a CSRS component, the deposit will be computed based on—
 
 (A) One and three tenths percent of basic pay at the time the service was performed; and
 
@@ -56,7 +56,7 @@
 
 (3) *Computing the deposit for former Federal employees separated after December 31, 1968 but before November 6, 1990.* For former employees with title to a deferred annuity that commences after November 6, 1990, the deposit will be computed as provided in paragraph (i)(2) above, except that interest will be computed through the commencing date of annuity or the date the deposit is paid, whichever comes first.
 
-(j) *Certain Government service performed abroad after December 31, 1988, and before May 24, 1998* - (1) *Eligibility-current and former employees, and retirees.* A current or former employee, or a retiree who performed certain Government service abroad described in § 842.304(e) may make a deposit for such service, in a form prescribed by OPM.
+(j) *Certain Government service performed abroad after December 31, 1988, and before May 24, 1998*—(1) *Eligibility-current and former employees, and retirees.* A current or former employee, or a retiree who performed certain Government service abroad described in § 842.304(e) may make a deposit for such service, in a form prescribed by OPM.
 
 (2) *Eligibility-survivors.* A survivor of a current employee, former employee, or a retiree eligible to make a deposit under paragraph (j)(1) of this section may make a deposit under this section if the current or former employee, or retiree is deceased and the survivor is eligible or would be eligible for a survivor annuity under FERS based on the service of the current or former employee, or retiree.
 
@@ -94,4 +94,6 @@
 
 (11) *Appeal rights.* When the department or agency processing an application for deposit under this section determines that the individual is not eligible to make a deposit for a period of service, it must provide the individual with a written decision explaining the reason for the decision and explaining the individual's right to appeal the decision to the Merit Systems Protection Board.
 
-[52 FR 18193, May 14, 1987, as amended at 56 FR 55597, Oct. 29, 1991; 56 FR 65419, Dec. 17, 1991; 70 FR 50953, Aug. 29, 2005]
+(k) *Administrative error.* If OPM determines that additional interest was assessed on a deposit for full-time volunteer service as a volunteer or a volunteer leader with the Peace Corps or Volunteers in Serviced to America (VISTA) due to its own administrative error, OPM may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+[52 FR 18193, May 14, 1987, as amended at 56 FR 55597, Oct. 29, 1991; 56 FR 65419, Dec. 17, 1991; 70 FR 50953, Aug. 29, 2005; 86 FR 20438, Apr. 20, 2021]

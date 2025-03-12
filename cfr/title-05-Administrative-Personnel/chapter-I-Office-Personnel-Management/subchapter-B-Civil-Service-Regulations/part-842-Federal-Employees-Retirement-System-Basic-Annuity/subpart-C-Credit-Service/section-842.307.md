@@ -14,7 +14,7 @@
 
 (4) Interest is computed from the mid-point of each full period of service included in the computation. The interest accrues annual on the outstanding portion beginning on the second anniversary of the employee's or Member's beginning date of coverage under FERS, and is compounded annually, until the portion is deposited. Interest is charged to the date of deposit. No interest will be charged if the deposit is completed before the end of the year after interest begins. For example, if an employee becomes subject to FERS on March 1, 1988, interest begins to accrue on March 1, 1990; however, no interest would be included in the deposit due if the deposit is completed by February 28, 1991.
 
-(c) *Processing deposit applications and payments.* (1) The agency, Clerk of the House of Representatives, or Secretary of the Senate will have the employee or Member -
+(c) *Processing deposit applications and payments.* (1) The agency, Clerk of the House of Representatives, or Secretary of the Senate will have the employee or Member—
 
 (i) Complete an application to make deposit;
 
@@ -22,7 +22,7 @@
 
 (iii) Provide copies of all official military pay documents, as identified in instructions issued by OPM, which show the exact basic pay he or she received for full period of service; or, if such evidence is not available, obtain a statement of estimated earnings from the appropriate branch of the military service and submit the statement.
 
-(2) Upon receipt of the application, the DD Form 214, and either the evidence of exact basic pay or the statement of estimated earnings, the agency, Clerk of the House of Representatives, or Secretary of the Senate will establish a deposit account showing -
+(2) Upon receipt of the application, the DD Form 214, and either the evidence of exact basic pay or the statement of estimated earnings, the agency, Clerk of the House of Representatives, or Secretary of the Senate will establish a deposit account showing—
 
 (i) The total amount due, including interest, if any;
 
@@ -35,3 +35,9 @@
 (4) Payments received by the employing agency, the Clerk of the House of Representatives, or the Secretary of the Senate will be remitted to OPM for deposit to the Fund in accordance with payroll office instructions issued by OPM.
 
 (d) *Distinct periods of service.* A deposit is not considered to have been made for any distinct period of service unless the total amount due for the period is paid in full. A “distinct period” for this purpose is the total years, months, and days from the date of entry on active duty (or from January 1, 1957, if later) to the date of final discharge for enlisted military personnel, or to the date of final release from active duty for officers and reservists. A “distinct period” also includes consecutive periods of service where there is no break in service, but does not include any lost time.
+
+(e) *Administrative error.* (1) When an administrative error occurs by the employing Agency in calculating or processing a military service deposit, interest assessed as a result of the administrative error may be paid by the agency, the Clerk of the House of Representatives, or the Secretary of the Senate on behalf of the employee. The agency, Clerk of the House of Representatives, or the Secretary of the Senate will determine if administrative error occurred.
+
+(2) When an administrative error occurs by OPM in calculating or processing a military service deposit, interest assessed as a result of the administrative error may be paid by OPM on behalf of the employee. OPM will determine if administrative error occurred. Any payment of additional interest of behalf of the employee is paid from the Civil Service Retirement and Disability Fund.
+
+[48 FR 193, Jan. 4, 1983, as amended at 86 FR 20438, Apr. 20, 2021]

@@ -20,4 +20,8 @@
 
 (2) Deposits must be made for full periods of service.
 
-[48 FR 38788, Aug. 26, 1983, as amended at 49 FR 20631, May 16, 1984; 66 FR 66711, Dec. 27, 2001]
+(c)(1) When an administrative error occurs by the employing agency in calculating or processing a military service deposit, interest assessed as a result of the administrative error may be paid by the agency, the Clerk of the House of Representatives, or the Secretary of the Senate on behalf of the employee. The agency, Clerk of the House of Representatives, or the Secretary of the Senate will determine if administrative error occurred.
+
+(2) When an administrative error occurs by OPM in calculating or processing a military service deposit, interest assessed as a result of the administrative error may be paid by OPM on behalf of the employee. OPM will determine if administrative error occurred. Any payment of additional interest of behalf of the employee is paid from the Civil Service Retirement and Disability Fund.
+
+[48 FR 38788, Aug. 26, 1983, as amended at 49 FR 20631, May 16, 1984; 66 FR 66711, Dec. 27, 2001; 86 FR 20437, Apr. 20, 2021]
