@@ -14,11 +14,11 @@
 
 (6) *Interest in a life insurance contract.* The term *interest in a life insurance contract* has the meaning given to it in § 1.101-1(e)(1).
 
-(7) *Investment in the contract* - (i) *Definition of investment in the contract.* With respect to the original policyholder of a life insurance contract, the term *investment in the contract* on any date means that person's investment in the contract under section 72(e)(6) on that date. With respect to any other person, the term *investment in the contract* on any date means the *estimate of investment in the contract* on that date.
+(7) *Investment in the contract*—(i) *Definition of investment in the contract.* With respect to the original policyholder of a life insurance contract, the term *investment in the contract* on any date means that person's investment in the contract under section 72(e)(6) on that date. With respect to any other person, the term *investment in the contract* on any date means the *estimate of investment in the contract* on that date.
 
 (ii) *Definition of estimate of investment in the contract.* The term *estimate of investment in the contract* with respect to any person, other than the original policyholder, means, on any date, the aggregate amount of premiums paid for the contract by that person before that date, less the aggregate amount received under the contract by that person before that date to the extent such information is known to or can reasonably be estimated by the issuer or payor.
 
-(8) *Issuer* - (i) *In general.* Except as provided in paragraph (a)(8)(ii) or (iii) of this section, the term *issuer* generally means, on any date, with respect to any interest in a life insurance contract, any person that bears any part of the risk with respect to the contract on that date and any person responsible on that date for administering the contract, including collecting premiums and paying death benefits. For instance, if a reinsurer reinsures on an indemnity basis all or a portion of the risks that the original issuer (and continuing contract administrator) of the contract might otherwise have incurred with respect to the contract, both the reinsurer and the original issuer of the contract are issuers of the contract for purposes of this paragraph (a)(8)(i). Any designee of an issuer of a contract is also considered an issuer of the contract for purposes of this paragraph (a)(8)(i).
+(8) *Issuer*—(i) *In general.* Except as provided in paragraph (a)(8)(ii) or (iii) of this section, the term *issuer* generally means, on any date, with respect to any interest in a life insurance contract, any person that bears any part of the risk with respect to the contract on that date and any person responsible on that date for administering the contract, including collecting premiums and paying death benefits. For instance, if a reinsurer reinsures on an indemnity basis all or a portion of the risks that the original issuer (and continuing contract administrator) of the contract might otherwise have incurred with respect to the contract, both the reinsurer and the original issuer of the contract are issuers of the contract for purposes of this paragraph (a)(8)(i). Any designee of an issuer of a contract is also considered an issuer of the contract for purposes of this paragraph (a)(8)(i).
 
 (ii) *6050Y(a) issuer.* For purposes of information reporting under section 6050Y(a) and § 1.6050Y-2, the 6050Y(a) issuer is the issuer that is responsible for administering the life insurance contract, including collecting premiums and paying death benefits under the contract, on the date of the reportable policy sale. In the case of the issuance of a life insurance contract to a policyholder in an exchange pursuant to section 1035, the 6050Y(a) issuer is the issuer that issues the new contract.
 
@@ -48,13 +48,13 @@
 
 (15) *Reportable policy sale payment.* The term *reportable policy sale payment* generally means the total amount of cash and the fair market value of any other consideration reducible to a money value transferred, or to be transferred, in a reportable policy sale, including any amount of a reportable policy sale payment recipient's debt assumed by the acquirer in a reportable policy sale. In the case of an indirect acquisition of an interest in a life insurance contract that is a reportable policy sale, the reportable policy sale payment is the total amount of cash and the fair market value of any other consideration reducible to a money value transferred, or to be transferred, for the ownership interest in the entity, including the amount of any debt assumed by the acquirer, that is appropriately allocable to the interest in the life insurance contract held by the entity.
 
-(16) *Reportable policy sale payment recipient* - (i) Except as provided in paragraph (a)(16)(ii) of this section, the term *reportable policy sale payment recipient* means any person that receives a reportable policy sale payment in a reportable policy sale. A broker or other intermediary that retains a portion of the cash or other consideration transferred in a reportable policy sale is also a reportable policy sale payment recipient.
+(16) *Reportable policy sale payment recipient*—(i) Except as provided in paragraph (a)(16)(ii) of this section, the term *reportable policy sale payment recipient* means any person that receives a reportable policy sale payment in a reportable policy sale. A broker or other intermediary that retains a portion of the cash or other consideration transferred in a reportable policy sale is also a reportable policy sale payment recipient.
 
 (ii) A person other than the seller is not a reportable policy sale payment recipient with respect to a reportable policy sale if that person receives aggregate payments of less than $600 with respect to that reportable policy sale.
 
 (17) *Reportable policy sale statement.* The term *reportable policy sale statement (RPSS)* means a statement furnished by an acquirer to an issuer under section 6050Y(a)(2) and § 1.6050Y-2(d)(2)(i).
 
-(18) *Seller.* The term *seller* means any person that -
+(18) *Seller.* The term *seller* means any person that—
 
 (i) Holds an interest in a life insurance contract and transfers that interest, or any part of that interest, to an acquirer in a reportable policy sale; or
 
@@ -64,7 +64,7 @@
 
 (20) *United States person.* The term *United States person* has the meaning given to it in section 7701(a)(30).
 
-(b) *Applicability date.* This section and §§ 1.6050Y-2 through 1.6050Y-3 apply to reportable policy sales made after December 31, 2018. This section and § 1.6050Y-4 apply to reportable death benefits paid after December 31, 2018. However, for reportable policy sales and payments of reportable death benefits occurring after December 31, 2018, and on or before October 31, 2019, transition relief is provided as follows:
+(b) *Applicability date.* This section and §§ 1.6050Y-2 through 1.6050Y-3 apply to reportable policy sales made after December 31, 2018. This section and § 1.6050Y-4 apply to reportable death benefits paid after December 31, 2018. This section and § 1.6050Y-3 apply to any notice of a transfer to a foreign person received after December 31, 2018. However, for reportable policy sales and payments of reportable death benefits occurring after December 31, 2018, and on or before December 31, 2019, and any notice of a transfer to a foreign person received after December 31, 2018, and on or before December 31, 2019, transition relief is provided as follows:
 
 (1) Statements required to be furnished to issuers under section 6050Y(a)(2) and § 1.6050Y-2(d)(2)(i) must be furnished by the later of the applicable deadline set forth in § 1.6050Y-2(d)(2)(ii) or December 30, 2019.
 
@@ -76,4 +76,4 @@
 
 (5) Returns required to be filed under section 6050Y(a)(1) and § 1.6050Y-2(a), section 6050Y(b)(1) and § 1.6050Y-3(a), and section 6050Y(c)(1) and § 1.6050Y-4 must be filed by the later of the applicable deadline set forth in § 1.6050Y-2(c), § 1.6050Y-3(c), and § 1.6050Y-4(b) or February 28, 2020.
 
-[T.D. 9879, 84 FR 58484, Oct. 31, 2019]
+[T.D. 9879, 84 FR 58484, Oct. 31, 2019, as amended by T.D. 9879, 84 FR 68043, Dec. 13, 2019]
