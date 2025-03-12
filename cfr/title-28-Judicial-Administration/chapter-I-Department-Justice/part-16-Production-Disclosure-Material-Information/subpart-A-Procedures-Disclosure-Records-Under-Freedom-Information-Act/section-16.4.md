@@ -1,14 +1,12 @@
 ##### § 16.4 Responsibility for responding to requests. #####
 
-Link to an amendment published at 82 FR 727, Jan. 4, 2017.
-
 (a) *In general.* Except in the instances described in paragraphs (c) and (d) of this section, the component that first receives a request for a record and maintains that record is the component responsible for responding to the request. In determining which records are responsive to a request, a component ordinarily will include only records in its possession as of the date that it begins its search. If any other date is used, the component shall inform the requester of that date. A record that is excluded from the requirements of the FOIA pursuant to 5 U.S.C. 552(c), is not considered responsive to a request.
 
 (b) *Authority to grant or deny requests.* The head of a component, or designee, is authorized to grant or to deny any requests for records that are maintained by that component.
 
 (c) *Re-routing of misdirected requests.* Where a component's FOIA office determines that a request was misdirected within the Department, the receiving component's FOIA office shall route the request to the FOIA office of the proper component(s).
 
-(d) *Consultation, referral, and coordination.* When reviewing records located by a component in response to a request, the component shall determine whether another component or another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the FOIA and, if so, whether it should be released as a matter of discretion. As to any such record, the component shall proceed in one of the following ways:
+(d) *Consultation, referral, and coordination.* When reviewing records located by a component in response to a request, the component shall determine whether another component or another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the FOIA. As to any such record, the component shall proceed in one of the following ways:
 
 (1) *Consultation.* When records originated with the component processing the request, but contain within them information of interest to another component, agency, or other Federal Government office, the component processing the request should typically consult with that other component or agency prior to making a release determination.
 
@@ -23,3 +21,5 @@ Link to an amendment published at 82 FR 727, Jan. 4, 2017.
 (f) *Timing of responses to consultations and referrals.* All consultations and referrals received by the Department will be handled according to the date that the FOIA request initially was received by the first component or agency.
 
 (g) *Agreements regarding consultations and referrals.* Components may establish agreements with other components or agencies to eliminate the need for consultations or referrals with respect to particular types of records.
+
+[AG Order No. 3517-2015, 80 FR 18106, Apr. 3, 2015, as amended by AG Order 3803-2016, 82 FR 727, Jan. 4, 2017]

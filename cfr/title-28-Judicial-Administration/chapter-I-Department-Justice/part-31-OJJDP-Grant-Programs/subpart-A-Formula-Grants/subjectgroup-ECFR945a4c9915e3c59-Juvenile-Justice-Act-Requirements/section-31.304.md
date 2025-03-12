@@ -1,6 +1,6 @@
 ##### § 31.304 Definitions. #####
 
-Link to an amendment published at 82 FR 4793, Jan. 17, 2017.
+Link to an amendment published at 82 FR 4793, Jan. 17, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8894, Feb. 1, 2017.
 
 (a) *Private agency.* A private non-profit agency, organization or institution is:
 
