@@ -1,5 +1,7 @@
 ##### § 922.50 Appeals of administrative action. #####
 
+Link to an amendment published at 86 FR 32754, June 23, 2021.
+
 (a)(1) Except for permit actions taken for enforcement reasons (see subpart D of 15 CFR part 904 for applicable procedures), an applicant for, or a holder of, a National Marine Sanctuary permit; an applicant for, or a holder of, a Special Use permit issued pursuant to section 310 of the Act; a person requesting certification of an existing lease, permit, license or right of subsistence use or access under § 922.47; or, for those Sanctuaries described in subparts L through P and R through T of this part, an applicant for a lease, permit, license or other authorization issued by any Federal, State, or local authority of competent jurisdiction (hereinafter appellant) may appeal to the Assistant Administrator:
 
 (i) The granting, denial, conditioning, amendment, suspension or revocation by the Director of a National Marine Sanctuary or Special Use permit;

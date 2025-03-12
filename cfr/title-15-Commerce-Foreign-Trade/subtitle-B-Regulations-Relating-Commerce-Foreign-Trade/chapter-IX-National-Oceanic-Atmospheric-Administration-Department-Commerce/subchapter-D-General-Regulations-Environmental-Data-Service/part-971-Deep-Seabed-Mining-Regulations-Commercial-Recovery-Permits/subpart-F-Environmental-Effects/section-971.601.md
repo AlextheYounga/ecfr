@@ -2,7 +2,7 @@
 
 Before issuing a permit for the commercial recovery of deep seabed hard mineral resources, the Administrator must find that:
 
-(a) The issuance of a permit cannot reasonably be expected to result in a significant adverse environmental effect, or, if there is insufficient information to make that determination, that no irreparable harm will result during a period when monitoring of commercial recovery is undertaken to gather sufficient information in order to determine the potential for or occurrence of any significant adverse environmental effect. In examining this issue, NOAA will give consideration to the following Ocean Discharge Criteria of the Clean Water Act (40 CFR part 125, subpart M), as they may pertain to discharges and other environmental perturbations related to the commercial recovery operations:
+(a) The issuance of a permit cannot reasonably be expected to result in a significant adverse environmental effect, or, if there is insufficient information to make that determination, that no irreparable harm will result during a period when monitoring of commerical recovery is undertaken to gather sufficient information in order to determine the potential for or occurrence of any significant adverse environmental effect. In examining this issue, NOAA will give consideration to the following Ocean Discharge Criteria of the Clean Water Act (40 CFR part 125, subpart M), as they may pertain to discharges and other environmental perturbations related to the commercial recovery operations:
 
 (1) The quantities, composition and potential for bioaccumulation or persistence of the pollutants to be discharged;
 

@@ -1,5 +1,7 @@
 ##### § 922.49 Notification and review of applications for leases, licenses, permits, approvals, or other authorizations to conduct a prohibited activity. #####
 
+Link to an amendment published at 86 FR 32753, June 23, 2021.
+
 (a) A person may conduct an activity prohibited by subparts L through P of this part, or subparts R through T of this part, if such activity is specifically authorized by any valid Federal, State, or local lease, permit, license, approval, or other authorization issued after the effective date of Sanctuary designation, or in the case of the Florida Keys National Marine Sanctuary after the effective date of the regulations in subpart P, provided that:
 
 (1) The applicant notifies the Director, in writing, of the application for such authorization (and of any application for an amendment, renewal, or extension of such authorization) within fifteen (15) days of the date of filing of the application or the effective date of Sanctuary designation, or in the case of the Florida Keys National Marine Sanctuary the effective date of the regulations in subpart P, whichever is later;

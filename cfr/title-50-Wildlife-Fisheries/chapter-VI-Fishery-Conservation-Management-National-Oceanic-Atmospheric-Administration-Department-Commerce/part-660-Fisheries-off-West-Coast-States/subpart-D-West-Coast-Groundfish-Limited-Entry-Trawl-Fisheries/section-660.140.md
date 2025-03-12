@@ -120,9 +120,42 @@
 
 (*2*) In years where the Pacific halibut total constant exploitation yield is not known by January 1, NMFS will issue QP in two parts. On or about January 1, NMFS will deposit QP based on some portion of the International Pacific Halibut Commission's staff recommended total constant exploitation yield from their interim meeting. After the final Pacific halibut total constant exploitation yield is established from the International Pacific Halibut Commission's annual meeting, NMFS will deposit additional QP to the QS account.
 
-(D) For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
+(D) *Shorebased trawl allocations.* For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
 
-![](/graphics/er11de20.053.gif)![](/graphics/er11de20.054.gif)
+Table 1 to Paragraph (d)(1)(ii)(D)
+
+|     IFQ species      |        Area         |2021 Shorebased  <br/>trawl allocation  <br/>(mt)|2022 Shorebased  <br/>trawl allocation  <br/>(mt)|
+|----------------------|---------------------|-------------------------------------------------|-------------------------------------------------|
+|  Yelloweye Rockfish  |      Coastwide      |                       3.3                       |                       3.4                       |
+| Arrowtooth flounder  |      Coastwide      |                    7,376.02                     |                     5974.77                     |
+|       Bocaccio       |South of 40°10′ N lat|                     663.75                      |                     654.38                      |
+|   Canary rockfish    |      Coastwide      |                     880.96                      |                     858.56                      |
+|     Chilipepper      |South of 40°10′ N lat|                     1,695.2                     |                      1,621                      |
+|        Cowcod        |South of 40°10′ N lat|                       18                        |                       18                        |
+|Darkblotched rockfish |      Coastwide      |                     743.39                      |                     694.94                      |
+|      Dover sole      |      Coastwide      |                    45,972.65                    |                    45,972.65                    |
+|     English sole     |      Coastwide      |                     8,478.2                     |                     8,407.9                     |
+|       Lingcod        |North of 40°10′ N lat|                    2,275.78                     |                    2,090.83                     |
+|       Lingcod        |South of 40°10′ N lat|                      435.6                      |                      463.6                      |
+| Longspine thornyhead |North of 34°27′ N lat|                    2,451.28                     |                    2,278.38                     |
+|     Pacific cod      |      Coastwide      |                    1,039.21                     |                    1,039.21                     |
+|Pacific halibut (IBQ) |North of 40°10′ N lat|                      69.6                       |                      69.6                       |
+| Pacific ocean perch  |North of 40°10′ N lat|                    3,337.74                     |                    3,201.94                     |
+|   Pacific whiting    |      Coastwide      |                     127,682                     |                       TBD                       |
+|     Petrale sole     |      Coastwide      |                     3,692.9                     |                     3,237.5                     |
+|      Sablefish       | North of 36° N lat  |                    3,139.59                     |                    2,985.42                     |
+|      Sablefish       | South of 36° N lat  |                       786                       |                       748                       |
+|Shortspine thornyhead |North of 34°27′ N lat|                    1,212.12                     |                    1,178.87                     |
+|Shortspine thornyhead |South of 34°27′ N lat|                       50                        |                       50                        |
+|  Splitnose rockfish  |South of 40°10′ N lat|                    1,565.20                     |                    1,531.00                     |
+|   Starry flounder    |      Coastwide      |                      171.8                      |                      171.8                      |
+|    Widow rockfish    |      Coastwide      |                    13,600.68                    |                    12,663.68                    |
+| Yellowtail rockfish  |North of 40°10′ N lat|                    4,091.13                     |                     3,898.4                     |
+|Other Flatfish complex|      Coastwide      |                    4,088.00                     |                    4,120.40                     |
+|Shelf Rockfish complex|North of 40°10′ N lat|                     831.07                      |                     794.56                      |
+|Shelf Rockfish complex|South of 40°10′ N lat|                     159.24                      |                     158.02                      |
+|Slope Rockfish complex|North of 40°10′ N lat|                     938.58                      |                     916.71                      |
+|Slope Rockfish complex|South of 40°10′ N lat|                      526.4                      |                      523.9                      |
 
 (2) *Eligibility and registration* - (i) *Eligibility.* Only the following persons are eligible to own QS permits:
 
@@ -579,7 +612,7 @@ Pacific Halibut
 
 (x) *Appeals.* For QS permits and QS/IBQ issued under this section, the appeals process and timelines are specified at § 660.25(g), subpart C. For the initial issuance of QS/IBQ and the QS permits, the bases for appeal are described in paragraph (d)(8)(vi) of this section. An additional basis for appeal for whiting QS based on shoreside processing is an allegation that the shoreside processor or Pacific whiting shoreside first receiver to which a QS permit and whiting QS have been assigned was not in fact the first processor of the fish included in the qualifying landings history. The appellant must submit credible information supporting the allegation that they were in fact the first shoreside processor for the fish in question. Items not subject to appeal include, but are not limited to, the accuracy of permit landings data or Pacific whiting shoreside first receiver landings data in the relevant PacFIN dataset on July 1, 2010.
 
-(9) *Reallocation of widow rockfish QS.* (i) *Additional definitions.* The following definitions are applicable to paragraph (d)(9) of this section and apply only to terms used for the purposes of reallocation of widow rockfish QS:
+(9) *Reallocation of widow rockfish QS* - (i) *Additional definitions.* The following definitions are applicable to paragraph (d)(9) of this section and apply only to terms used for the purposes of reallocation of widow rockfish QS:
 
 (A) *Nonwhiting trip* means a fishing trip where less than 50 percent by weight of all fish reported on the state landing receipt is whiting.
 

@@ -2,11 +2,11 @@
 
 (a) *Who may apply; how.* Any United States citizen holding a valid exploration license may apply to the Administrator for issuance of a commercial recovery permit for all or part of the area to which the license applies. Any holder of a commercial recovery permit may apply to the Administrator for transfer of the permit. Applications must be submitted in the form and manner described in this subpart.
 
-(b) *Place, form and copies.* An application for the issuance or transfer of a commercial recovery permit must be in writing, verified and signed by an authorized officer or other authorized representative of the applicant. The application and 25 copies thereof must be submitted to:
+(b) *Place, form and copies.* An application for the issuance or transfer of a commerical recovery permit must be in writing, verified and signed by an authorized officer or other authorized representative of the applicant. The application and 25 copies thereof must be submitted to:
 
 Ocean Minerals and Energy Division, Office of Ocean and Coastal Resource Management, National Oceanic and Atmospheric Administration, Suite 710, 1825 Connecticut Avenue, NW., Washington, DC 20235.The Administrator may waive in whole or in part, at his discretion, the requirement that 25 copies of an application be filed with NOAA.
 
-(c) *General contents.* The application must contain a proposed commercial recovery plan and the financial, technical, environmental and other information specified in this part, which in total are necessary for the Administrator to make the determinations required by the Act and this part. Although the ultimate standards for determinations under these rules are identical for both transferees and original preexisting licensees, NOAA anticipates that applicants who are transferees will have to supply more information with the application than licensees will [see subsection (e) in this section].
+(c) *General contents.* The application must contain a proposed commerical recovery plan and the financial, technical, environmental and other information specified in this part, which in total are necessary for the Administrator to make the determinations required by the Act and this part. Although the ultimate standards for determinations under these rules are identical for both transferees and original preexisting licensees, NOAA anticipates that applicants who are transferees will have to supply more information with the application than licensees will [see subsection (e) in this section].
 
 (d) *Identification of requirements.* Each portion of the application should identify the requirements of this part to which it responds.
 

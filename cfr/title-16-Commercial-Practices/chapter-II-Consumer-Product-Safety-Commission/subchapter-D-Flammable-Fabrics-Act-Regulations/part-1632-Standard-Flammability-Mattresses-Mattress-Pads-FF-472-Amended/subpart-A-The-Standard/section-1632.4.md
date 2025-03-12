@@ -1,5 +1,7 @@
 ##### § 1632.4 Mattress test procedure. #####
 
+Link to an amendment published at 86 FR 32764, June 23, 2021.
+
 (a) *Apparatus and test materials* - (1) *Testroom.* The testroom shall be large enough to accommodate a full-scale mattress in a horizontal position and to allow for free movement of personnel and air around the test mattress. The test area shall be draft-protected and equipped with a suitable system for exhausting smoke and/or noxious gases produced by testing. The testroom atmospheric conditions shall be greater than 18 °C (65 °F) and at less than 55 percent relative humidity.
 
 (i) The room shall be equipped with a support system (e.g. platform, bench) upon which a mattress may be placed flat in a horizontal position at a reasonable height for making observations.
