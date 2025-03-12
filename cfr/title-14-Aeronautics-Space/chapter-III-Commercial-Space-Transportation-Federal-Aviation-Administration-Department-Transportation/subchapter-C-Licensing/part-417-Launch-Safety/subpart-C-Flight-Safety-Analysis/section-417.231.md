@@ -1,6 +1,6 @@
 ##### § 417.231 Collision avoidance analysis. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) *General.* A flight safety analysis must include a collision avoidance analysis that establishes each launch wait in a planned launch window during which a launch operator must not initiate flight, in order to protect any maned or mannable orbiting object. A launch operator must account for uncertainties associated with launch vehicle performance and timing and ensure that any calculated launch waits incorporate all additional time periods associated with such uncertainties. A launch operator must implement any launch waits as flight commit criteria according to § 417.113(c).
 

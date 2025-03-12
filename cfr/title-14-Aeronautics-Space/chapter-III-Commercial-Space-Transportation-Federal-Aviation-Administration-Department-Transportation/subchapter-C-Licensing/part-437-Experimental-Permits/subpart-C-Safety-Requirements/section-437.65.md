@@ -1,6 +1,6 @@
 ##### § 437.65 Collision avoidance analysis. #####
 
-Link to an amendment published at 85 FR 79718, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79718, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) For a permitted flight with a planned maximum altitude greater than 150 kilometers, a permittee must obtain a collision avoidance analysis from United States Strategic Command.
 

@@ -1,6 +1,6 @@
 ##### § 431.1 General. #####
 
-Link to an amendment published at 85 FR 79717, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) *Scope.* This part prescribes requirements for obtaining a reusable launch vehicle (RLV) mission license and post-licensing requirements with which a licensee must comply to remain licensed. Requirements for preparing a license application are contained in part 413 of this subchapter.
 

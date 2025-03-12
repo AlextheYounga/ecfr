@@ -1,6 +1,6 @@
 ##### § 417.11 Continuing accuracy of license application; application for modification of license. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) A launch operator must ensure the representations contained in its application are accurate for the entire term of the license. A launch operator must conduct a licensed launch and carry out launch safety procedures in accordance with its application.
 

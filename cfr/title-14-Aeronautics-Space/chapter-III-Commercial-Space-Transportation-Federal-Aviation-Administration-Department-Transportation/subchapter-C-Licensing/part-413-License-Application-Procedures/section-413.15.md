@@ -1,6 +1,6 @@
 ##### § 413.15 Review period. #####
 
-Link to an amendment published at 85 FR 79711, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79711, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) *Review period duration.* Unless otherwise specified in this chapter, the FAA reviews and makes a decision on an application within 180 days of receiving an accepted license application or within 120 days of receiving an accepted permit application.
 

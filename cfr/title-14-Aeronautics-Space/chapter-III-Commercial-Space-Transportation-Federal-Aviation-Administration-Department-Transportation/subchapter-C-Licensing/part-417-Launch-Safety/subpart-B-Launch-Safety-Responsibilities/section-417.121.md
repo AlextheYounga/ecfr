@@ -1,6 +1,6 @@
 ##### § 417.121 Safety critical preflight operations. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) *General.* A launch operator must perform safety critical preflight operations that protect the public from the adverse effects of hazards associated with launch processing and flight of a launch vehicle. The launch operator must identify all safety critical preflight operations in the launch schedule required by § 417.17(b)(1). Safety critical preflight operations must include those defined in this section.
 

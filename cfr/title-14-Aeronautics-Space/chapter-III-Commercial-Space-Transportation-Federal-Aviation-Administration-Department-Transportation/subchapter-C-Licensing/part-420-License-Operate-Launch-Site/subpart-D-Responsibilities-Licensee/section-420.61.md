@@ -1,6 +1,6 @@
 ##### § 420.61 Records. #####
 
-Link to an amendment published at 85 FR 79717, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) A licensee shall maintain all records, data, and other material needed to verify that its operations are conducted in accordance with representations contained in the licensee's application. A licensee shall retain records for three years.
 

@@ -1,6 +1,6 @@
 ##### § 417.107 Flight safety. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) *Flight safety system.* For each launch vehicle, vehicle component, and payload, a launch operator must use a flight safety system that satisfies subpart D of this part as follows, unless § 417.125 applies.
 

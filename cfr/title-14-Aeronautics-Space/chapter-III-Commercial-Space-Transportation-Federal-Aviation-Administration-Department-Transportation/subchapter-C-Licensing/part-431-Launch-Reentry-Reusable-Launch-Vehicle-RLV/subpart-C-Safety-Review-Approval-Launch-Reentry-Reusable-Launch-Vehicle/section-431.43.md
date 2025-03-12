@@ -1,6 +1,6 @@
 ##### § 431.43 Reusable launch vehicle mission operational requirements and restrictions. #####
 
-Link to an amendment published at 85 FR 79717, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) An applicant for RLV mission safety approval shall submit procedures -
 

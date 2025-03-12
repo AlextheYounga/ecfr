@@ -1,6 +1,6 @@
 ##### § 437.75 Mishap reporting, responding, and investigating. #####
 
-Link to an amendment published at 85 FR 79718, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79718, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 A permittee must report, respond to, and investigate mishaps that occur during permitted activities, in accordance with this section.
 

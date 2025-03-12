@@ -1,6 +1,6 @@
 ##### § 420.51 Responsibilities - general. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) A licensee shall operate its launch site in accordance with the representations in the application upon which the licensing determination is based.
 

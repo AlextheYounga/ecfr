@@ -1,6 +1,6 @@
 ##### § 440.15 Demonstration of compliance. #####
 
-Link to an amendment published at 85 FR 79719, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79719, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) A licensee or permittee must submit to the FAA evidence of financial responsibility and compliance with allocation of risk requirements under this part, as follows, unless a license or permit order specifies otherwise due to the proximity of the intended date for commencement of licensed or permitted activities:
 

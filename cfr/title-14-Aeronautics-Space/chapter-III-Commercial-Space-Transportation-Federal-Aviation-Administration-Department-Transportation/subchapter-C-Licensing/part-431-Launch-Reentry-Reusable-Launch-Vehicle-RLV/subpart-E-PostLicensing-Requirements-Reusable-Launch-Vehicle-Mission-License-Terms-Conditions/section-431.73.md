@@ -1,6 +1,6 @@
 ##### § 431.73 Continuing accuracy of license application; application for modification of license. #####
 
-Link to an amendment published at 85 FR 79717, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) A licensee is responsible for the continuing accuracy of representations contained in its application for the entire term of the license.
 

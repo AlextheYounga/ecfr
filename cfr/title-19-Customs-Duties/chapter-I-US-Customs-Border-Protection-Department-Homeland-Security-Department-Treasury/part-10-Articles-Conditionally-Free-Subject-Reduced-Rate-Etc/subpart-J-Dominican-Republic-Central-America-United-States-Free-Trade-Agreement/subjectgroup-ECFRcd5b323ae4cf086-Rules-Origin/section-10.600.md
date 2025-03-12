@@ -7,5 +7,3 @@
 (2) The quantities and value of the accessories, spare parts, or tools are customary for the good.
 
 (a) *Regional value content.* If the good is subject to a regional value content requirement, the value of the accessories, spare parts, or tools is taken into account as originating or non-originating materials, as the case may be, in calculating the regional value content of the good under § 10.595 of this subpart.
-
-Editorial Note:At 73 FR 33678, June 13, 2008, subpart J to part 10 was added, and § 10.600 was added with two paragraphs (a).

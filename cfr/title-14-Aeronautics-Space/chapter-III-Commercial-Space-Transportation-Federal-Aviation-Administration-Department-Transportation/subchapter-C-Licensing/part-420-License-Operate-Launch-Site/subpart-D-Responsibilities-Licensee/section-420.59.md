@@ -1,6 +1,6 @@
 ##### § 420.59 Launch site accident investigation plan. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) *General.* A licensee shall develop and implement a launch site accident investigation plan that contains the licensee's procedures for reporting, responding to, and investigating launch site accidents, as defined by § 420.5, and for cooperating with federal officials in case of a launch accident. The launch site accident investigation plan must be signed by an individual authorized to sign and certify the application in accordance with § 413.7(c) of this chapter.
 

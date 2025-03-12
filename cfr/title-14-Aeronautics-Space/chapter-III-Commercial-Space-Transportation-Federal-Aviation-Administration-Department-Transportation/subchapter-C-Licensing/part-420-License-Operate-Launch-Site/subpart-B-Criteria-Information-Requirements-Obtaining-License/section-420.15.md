@@ -1,6 +1,6 @@
 ##### § 420.15 Information requirements. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
 
 (a) *General* - (1) *Launch site operator.* An applicant shall identify the name and address of the applicant, and the name, address, and telephone number of any person to whom inquiries and correspondence should be directed.
 
