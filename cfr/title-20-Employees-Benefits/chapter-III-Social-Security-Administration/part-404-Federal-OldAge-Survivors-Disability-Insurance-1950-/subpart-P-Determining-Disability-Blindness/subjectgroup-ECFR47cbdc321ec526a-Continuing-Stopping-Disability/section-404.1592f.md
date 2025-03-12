@@ -1,12 +1,10 @@
 ##### § 404.1592f How do we determine reinstated benefits? #####
 
-Link to an amendment published at 82 FR 7648, Jan. 23, 2017.
-
-(a) If you meet the requirements for reinstatement under § 404.1592c(a), we will then consider in which month to reinstate your entitlement. We will reinstate your entitlement with the earliest month, in the 12-month period that ends with the month before you filed your request for reinstatement, that you would have met all of the requirements under § 404.1592c(a) if you had filed your request for reinstatement in that month. Otherwise, you will be entitled to reinstated benefits beginning with the month in which you filed your request for such benefits. We cannot reinstate your entitlement for any month prior to January 2001.
+(a) If you meet the requirements for reinstatement under § 404.1592c(a), we will then consider in which month to reinstate your entitlement. We will reinstate your entitlement with the earliest month, in the 12-month period that ends with the month before you filed your request for reinstatement, that you would have met all of the requirements under § 404.1592c(a) if you had filed your request for reinstatement in that month. Otherwise, you will be entitled to reinstated benefits beginning with the month in which you filed your request for such benefits if you did not perform substantial gainful activity in that month. If you performed substantial gainful activity in the month of filing, but are no longer able to perform substantial gainful activity, we will reinstate your benefits with the month after the month you filed your request for reinstatement. We cannot reinstate your entitlement for any month prior to January 2001.
 
 (b) When your entitlement is reinstated, you are also entitled to Medicare benefits under the provisions of 42 CFR part 406.
 
-(c) We will compute your reinstated benefit amount and determine benefits payable under the applicable paragraphs of §§ 404.201 through 404.480 with certain exceptions -
+(c) We will compute your reinstated benefit amount and determine benefits payable under the applicable paragraphs of §§ 404.201 through 404.480 with certain exceptions—
 
 (1) We will reduce your reinstated benefit due in a month by the amount of the provisional benefit we already paid you for that month. If your provisional benefit paid for a month exceeds the reinstated benefit, we will treat the difference as an overpayment under §§ 404.501 through 404.527.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 82 FR 7648, Jan. 23, 2017.
 
 (e) After you complete the 24-month initial reinstatement period as indicated in paragraph (d) of this section, your subsequent work will be evaluated under the trial work provisions in § 404.1592 and then the reentitlement period in § 404.1592a.
 
-(f) Your entitlement to reinstated benefits ends with the month before the earliest of the following months -
+(f) Your entitlement to reinstated benefits ends with the month before the earliest of the following months—
 
 (1) The month an applicable terminating event in § 404.301 through 404.389 occurs;
 
@@ -30,4 +28,4 @@ Link to an amendment published at 82 FR 7648, Jan. 23, 2017.
 
 (h) If we determine you are not entitled to reinstated benefits we will consider your request filed under § 404.1592c(a) your intent to claim benefits under § 404.630.
 
-[70 FR 57142, Sept. 30, 2005]
+[70 FR 57142, Sept. 30, 2005, as amended at 82 FR 7648, Jan. 21, 2017]

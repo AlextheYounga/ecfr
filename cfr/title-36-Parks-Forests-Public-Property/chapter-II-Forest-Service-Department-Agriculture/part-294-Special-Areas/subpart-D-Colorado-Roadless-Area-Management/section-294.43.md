@@ -1,7 +1,5 @@
 ##### § 294.43 Prohibition on road construction and reconstruction. #####
 
-Link to an amendment published at 81 FR 91821, Dec. 19, 2016.This amendment was delayed until Apr. 17, 2017 at 82 FR 9974, Feb. 9, 2017.
-
 (a) *General.* A road may not be constructed or reconstructed in a Colorado Roadless Area except as provided in paragraphs (b) and (c) of this section.
 
 (b) *Upper Tier Acres.* Notwithstanding the prohibition in paragraph (a) of this section, a road may only be constructed or reconstructed in Colorado Roadless Area upper tier acres if the responsible official determines that the conditions in subsection 1 or 2 are met.
@@ -42,7 +40,7 @@ Link to an amendment published at 81 FR 91821, Dec. 19, 2016.This amendment was 
 
 (viii) A temporary road is needed within a Colorado Roadless Area pursuant to the exploration or development of an existing oil and gas lease that does not prohibit road construction or reconstruction, including the construction of infrastructure necessary to transport the product, on National Forest System lands that are under lease issued by the Secretary of the Interior as of July 3, 2012. The Forest Service shall not authorize the Bureau of Land Management to grant any request for a waiver, exception, or modification to any oil or gas lease if doing so would result in any road construction within a Colorado Roadless Area beyond that which was authorized by the terms and conditions of the lease at the time of issuance; or
 
-(ix) A temporary road is needed for coal exploration and/or coal-related surface activities for certain lands within Colorado Roadless Areas in the North Fork coal mining area of the Grand Mesa, Uncompahgre, and Gunnison National Forests as defined by the North Fork coal mining area displayed on the final Colorado Roadless Areas map. Such roads may also be used for collecting and transporting coal mine methane. Any buried infrastructure, including pipelines, needed for the capture, collection, and use of coal mine methane, will be located within the rights-of-way of temporary roads that are otherwise necessary for coal-related surface activities including the installation and operation of methane venting wells.
+(ix) A temporary road is needed for coal exploration and/or coal-related surface activities for certain lands with Colorado Roadless Areas within the North Fork Coal Mining Area of the Grand Mesa, Uncompahgre, and Gunnison National Forests as defined by the North Fork Coal Mining Area displayed on the final Colorado Roadless Areas map. Such roads may also be used for collecting and transporting coal mine methane. Any buried infrastructure, including pipelines, needed for the capture, collection, and use of coal mine methane, will be located within the rights-of-way of temporary roads that are otherwise necessary for coal-related surface activities including the installation and operation of methane venting wells.
 
 (2) If proposed road construction/reconstruction meets one of the exceptions, subject to the legal rights identified in § 294.43(c)(1), the responsible official must determine:
 
@@ -71,3 +69,5 @@ Link to an amendment published at 81 FR 91821, Dec. 19, 2016.This amendment was 
 (ii) Motor vehicle use that is specifically authorized under a Federal law or regulation.
 
 (5) *Road maintenance.* Maintenance of roads is permissible in Colorado Roadless Areas.
+
+[77 FR 39602, July 3, 2012, as amended at 81 FR 91821, Dec. 19, 2016]

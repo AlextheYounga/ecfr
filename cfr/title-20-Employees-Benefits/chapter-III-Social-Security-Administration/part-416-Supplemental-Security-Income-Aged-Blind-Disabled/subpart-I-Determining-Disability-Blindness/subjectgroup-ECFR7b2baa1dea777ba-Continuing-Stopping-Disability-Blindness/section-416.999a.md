@@ -1,8 +1,6 @@
 ##### § 416.999a Who is eligible for expedited reinstatement? #####
 
-Link to an amendment published at 81 FR 71370, Oct. 17, 2016.
-
-(a) You can have your eligibility to benefits reinstated under expedited reinstatement if -
+(a) You can have your eligibility to benefits reinstated under expedited reinstatement if—
 
 (1) You were previously eligible for a benefit based on disability or blindness as explained in § 416.202;
 
@@ -10,9 +8,9 @@ Link to an amendment published at 81 FR 71370, Oct. 17, 2016.
 
 (3) You file your request for reinstatement timely under § 416.999b; and
 
-(4) In the month you file your request for reinstatement -
+(4) In the month you file your request for reinstatement—
 
-(i) You are not able to do substantial gainful activity because of your medical condition, as determined under paragraph (c) of this section,
+(i) You are not able or become unable to do substantial gainful activity because of your medical condition as determined under paragraph (c) of this section.
 
 (ii) Your current impairment is the same as or related to the impairment that we used as the basis for your previous eligibility referred to in paragraph (a)(2) of this section,
 
@@ -20,7 +18,7 @@ Link to an amendment published at 81 FR 71370, Oct. 17, 2016.
 
 (iv) You meet the non-medical requirements for eligibility as explained in § 416.202.
 
-(b) You are eligible for reinstatement if you are the spouse of an individual who can be reinstated under § 416.999a if -
+(b) You are eligible for reinstatement if you are the spouse of an individual who can be reinstated under § 416.999a if—
 
 (1) You were previously an eligible spouse of the individual;
 
@@ -32,8 +30,8 @@ Link to an amendment published at 81 FR 71370, Oct. 17, 2016.
 
 (1) You certify under § 416.999b(e) that you are unable to do substantial gainful activity because of your medical condition;
 
-(2) You do not do substantial gainful activity in the month you file your request for reinstatement; and
+(2) You are not able or become unable to do substantial gainful activity in the month you file your request for reinstatement; and
 
 (3) We determine that you are disabled under paragraph (a)(4)(iii) of this section.
 
-[70 FR 57144, Sept. 30, 2005]
+[70 FR 57144, Sept. 30, 2005, as amended at 81 FR 71370, Oct. 17, 2016]
