@@ -1,5 +1,7 @@
 ##### 852.237-76 Award to single offeror. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 837.7001(a)(1), insert the following provision:
 
 Award to Single Offeror (OCT 2019)

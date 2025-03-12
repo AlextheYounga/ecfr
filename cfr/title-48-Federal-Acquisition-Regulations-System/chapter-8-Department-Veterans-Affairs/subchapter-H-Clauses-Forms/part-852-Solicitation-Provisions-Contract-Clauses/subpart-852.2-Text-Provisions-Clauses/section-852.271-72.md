@@ -1,5 +1,7 @@
 ##### 852.271-72 Time spent by counselee in counseling process. #####
 
+Link to an amendment published at 86 FR 54406, Oct. 1, 2021.
+
 As prescribed in 871.212, insert the following clause:
 
 Time Spent by Counselee in Counseling Process (APR 1984)

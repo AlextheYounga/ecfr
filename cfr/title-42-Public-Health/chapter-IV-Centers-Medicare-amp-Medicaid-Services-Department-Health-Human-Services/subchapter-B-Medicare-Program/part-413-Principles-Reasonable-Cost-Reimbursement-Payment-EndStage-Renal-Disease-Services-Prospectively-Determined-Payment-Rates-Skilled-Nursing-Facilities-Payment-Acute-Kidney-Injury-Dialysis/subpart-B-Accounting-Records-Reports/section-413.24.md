@@ -1,7 +1,5 @@
 ##### § 413.24 Adequate cost data and cost finding. #####
 
-Link to an amendment published at 86 FR 45521, Aug. 13, 2021.
-
 (a) *Principle.* Providers receiving payment on the basis of reimbursable cost must provide adequate cost data. This must be based on their financial and statistical records which must be capable of verification by qualified auditors. The cost data must be based on an approved method of cost finding and on the accrual basis of accounting, except for -
 
 (1) Governmental institutions which operate on a cash basis method of accounting. Cost data based on such basis of accounting will be acceptable, subject to appropriate treatment of capital expenditures.
@@ -96,9 +94,9 @@ I hereby certify that I have read the above certification statement and that I h
 
 (5) An acceptable cost report submission is defined as follows:
 
-(i) All providers - The provider must accurately complete and submit the required cost reporting forms, including all necessary signatures and supporting documents. For providers claiming costs on their cost reports that are allocated from a home office or chain organization, the Home Office Cost statement must be submitted by the home office or chain organization as set forth in paragraph (f)(5)(i)(E) of this section. A cost report is rejected for lack of supporting documentation if it does not include the following, except as provided in paragraph (f)(5)(i)(E) of this section:
+(i) The provider must accurately complete and submit the required cost reporting forms, including all necessary signatures and supporting documents. For providers claiming costs on their cost reports that are allocated from a home office or chain organization, the Home Office Cost statement must be submitted by the home office or chain organization as set forth in paragraph (f)(5)(i)(E) of this section. A cost report is rejected for lack of supporting documentation if it does not include the following, except as provided in paragraph (f)(5)(i)(E) of this section:
 
-(A) *Teaching hospitals* - For teaching hospitals, the Intern and Resident Information System (IRIS) data.
+(A) *Teaching hospitals.* For teaching hospitals, effective for cost reporting periods beginning on or after October 1, 2021, the Intern and Resident Information System (IRIS) data which must contain the same total counts of direct GME FTE residents (unweighted and weighted) and IME FTE residents as the total counts of direct GME FTE and IME FTE residents reported in the provider's cost report.
 
 (B) *Bad debt* - Effective for cost reporting periods beginning on or after October 1, 2018, for providers claiming Medicare bad debt reimbursement, a detailed bad debt listing that corresponds to the amount of bad debt claimed in the provider's cost report.
 

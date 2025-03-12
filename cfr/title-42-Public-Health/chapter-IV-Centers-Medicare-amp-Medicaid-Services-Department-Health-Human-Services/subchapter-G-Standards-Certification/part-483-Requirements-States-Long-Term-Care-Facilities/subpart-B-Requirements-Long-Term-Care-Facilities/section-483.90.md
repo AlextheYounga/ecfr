@@ -1,7 +1,5 @@
 ##### § 483.90 Physical environment. #####
 
-Link to an amendment published at 86 FR 42524, Aug. 4, 2021.
-
 The facility must be designed, constructed, equipped, and maintained to protect the health and safety of residents, personnel and the public.
 
 (a) *Life safety from fire.* (1) Except as otherwise provided in this section -
@@ -70,9 +68,11 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (d) *Space and equipment.* The facility must -
 
-(1) Provide sufficient space and equipment in dining, health services, recreation, and program areas to enable staff to provide residents with needed services as required by these standards and as identified in each resident's plan of care; and
+(1) Provide sufficient space and equipment in dining, health services, recreation, living, and program areas to enable staff to provide residents with needed services as required by these standards and as identified in each resident's assessment and plan of care;
 
-(2) Maintain all essential mechanical, electrical, and patient care equipment in safe operating condition.
+(2) Maintain all mechanical, electrical, and patient care equipment in safe operating condition; and
+
+(3) Conduct regular inspection of all bed frames, mattresses, and bed rails, if any, as part of a regular maintenance program to identify areas of possible entrapment. When bed rails and mattresses are used and purchased separately from the bed frame, the facility must ensure that the bed rails, mattress, and bed frame are compatible.
 
 (e) *Resident rooms.* Resident rooms must be designed and equipped for adequate nursing care, comfort, and privacy of residents.
 
@@ -166,4 +166,4 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (2) [Reserved]
 
-[56 FR 48876, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992; 68 FR 1386, Jan. 10, 2003; 69 FR 49268, Aug. 11, 2004; 70 FR 15238, Mar. 25, 2005; 71 FR 55340, Sept. 22, 2006; 73 FR 47091, Aug. 13, 2008; 79 FR 27155, May 12, 2014; 81 FR 26899, May 4, 2016; 81 FR 42548, June 30, 2016. Redesignated and amended at 81 FR 68861, 68870, Oct. 4, 2016; 82 FR 32259, July 13, 2017]
+[56 FR 48876, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992; 68 FR 1386, Jan. 10, 2003; 69 FR 49268, Aug. 11, 2004; 70 FR 15238, Mar. 25, 2005; 71 FR 55340, Sept. 22, 2006; 73 FR 47091, Aug. 13, 2008; 79 FR 27155, May 12, 2014; 81 FR 26899, May 4, 2016; 81 FR 42548, June 30, 2016. Redesignated and amended at 81 FR 68861, 68870, Oct. 4, 2016; 82 FR 32259, July 13, 2017; 86 FR 42524, Aug. 4, 2021]

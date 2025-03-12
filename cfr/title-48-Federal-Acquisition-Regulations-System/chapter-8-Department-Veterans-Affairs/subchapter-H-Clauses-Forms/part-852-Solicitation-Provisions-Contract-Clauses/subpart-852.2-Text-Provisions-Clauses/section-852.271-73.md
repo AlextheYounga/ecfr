@@ -1,5 +1,7 @@
 ##### 852.271-73 Use and publication of counseling results. #####
 
+Link to an amendment published at 86 FR 54406, Oct. 1, 2021.
+
 As prescribed in 871.212, insert the following clause:
 
 Use and Publication of Counseling Results (JAN 2008)

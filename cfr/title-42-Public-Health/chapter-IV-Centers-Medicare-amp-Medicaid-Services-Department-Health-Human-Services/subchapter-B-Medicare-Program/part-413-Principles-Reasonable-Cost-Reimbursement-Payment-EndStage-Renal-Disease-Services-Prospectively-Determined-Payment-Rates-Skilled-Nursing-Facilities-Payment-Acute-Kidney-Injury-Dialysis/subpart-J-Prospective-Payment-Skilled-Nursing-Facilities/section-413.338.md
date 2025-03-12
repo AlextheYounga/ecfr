@@ -1,7 +1,5 @@
 ##### § 413.338 Skilled nursing facility value-based purchasing program. #####
 
-Link to an amendment published at 86 FR 42524, Aug. 4, 2021.
-
 (a) *Definitions.* As used in this section:
 
 (1) *Achievement threshold (or achievement performance standard)* means the 25th percentile of SNF performance on the SNF readmission measure during the baseline period for a fiscal year.
@@ -66,7 +64,7 @@ Link to an amendment published at 86 FR 42524, Aug. 4, 2021.
 
 (4)(i) A SNF may request and CMS may grant exceptions to the SNF Value-Based Purchasing Program's requirements under this section for one or more calendar months when there are certain extraordinary circumstances beyond the control of the SNF.
 
-(ii) A SNF may request an exception within 90 days of the date that the extraordinary circumstances occurred by sending an email to *SNFVBPinquiries@cms.hhs.gov* that includes a completed Extraordinary Circumstances Request form (available on the SNF VBP section of QualityNet at *https://www.qualitynet.org/*) and any available evidence of the impact of the extraordinary circumstances on the care that the SNF furnished to patients, including, but not limited to, photographs, newspaper, and other media articles.
+(ii) A SNF may request an exception within 90 days of the date that the extraordinary circumstances occurred in the form and manner specified by CMS on the SNF VBP website at *https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/Value-Based-Programs/SNF-VBP/Extraordinary-Circumstance-Exception-.* The request must include a completed Extraordinary Circumstances Request form (available on *https://qualitynet.cms.gov/*) and any available evidence of the impact of the extraordinary circumstances on the care that the SNF furnished to patients including, but not limited to, photographs and media articles.
 
 (iii) Except as provided in paragraph (d)(4)(iv) of this section, CMS will not consider an exception request unless the SNF requesting such exception has complied fully with the requirements in this paragraph (d).
 
@@ -76,7 +74,7 @@ Link to an amendment published at 86 FR 42524, Aug. 4, 2021.
 
 (e) *Confidential feedback reports and public reporting.*
 
-(1) Beginning October 1, 2016, CMS will provide quarterly confidential feedback reports to SNFs on their performance on the SNF readmission measure. SNFs will have the opportunity to review and submit corrections for these data by March 31st following the date that CMS provides the reports, for reports issued prior to October 1, 2019. Beginning with the performance period quality measure quarterly report issued on or after October 1, 2019 that contains the performance period measure rate and all of the underlying claim information used to calculate the measure rate that applies for the fiscal year, SNFs will have 30 days following the date that CMS provides these reports to review and submit corrections for the data contained in these reports. Beginning with the baseline period quality measure quarterly report issued on or after October 1, 2020 that contains the baseline period measure rate and all of the underlying claim information used to calculate the measure rate that applies for the fiscal year, SNFs will have 30 days following the date that CMS provides these reports to review and submit corrections for the data contained in these reports. Any such correction requests must be accompanied by appropriate evidence showing the basis for the correction.
+(1) CMS will provide quarterly confidential feedback reports to SNFs on their performance on the SNF readmission measure. Beginning with the baseline period and performance period quality measure quarterly reports issued on or after October 1, 2021, which contain the baseline period and performance period measure rates, respectively, SNFs will have 30 days following the date CMS provides each of these reports to review and submit corrections to the SNF readmission measure rates contained in that report. The administrative claims data used to calculate a SNF's readmission measure rates are not subject to review and correction under this paragraph (e)(1). All correction requests must be accompanied by appropriate evidence showing the basis for the correction to the SNF readmission measure rates.
 
 (2) Beginning not later than 60 days prior to each fiscal year, CMS will provide SNF performance score reports to SNFs on their performance under the SNF VBP Program for a fiscal year. SNFs will have the opportunity to review and submit corrections to their SNF performance scores and ranking contained in these reports for 30 days following the date that CMS provides the reports. Any such correction requests must be accompanied by appropriate evidence showing the basis for the correction.
 
@@ -100,4 +98,12 @@ Link to an amendment published at 86 FR 42524, Aug. 4, 2021.
 
 (5) The ranking determinations under section 1888(h)(4)(B) of the Act.
 
-[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018; 85 FR 47633, Aug. 5, 2020]
+(g) *Special rules for the FY 2022 SNF VBP Program.* (1) CMS will calculate a SNF readmission measure rate for each SNF based on its performance on the SNF readmission measure during the performance period specified by CMS for fiscal year 2022, but CMS will not calculate a performance score for any SNF using the methodology described in paragraphs (d)(1) and (2) of this section. CMS will instead assign a performance score of zero to each SNF, with the exception of those SNFs qualifying for the low-volume scoring adjustment described in paragraph (d)(3) of this section.
+
+(2) CMS will calculate the value-based incentive payment adjustment factor for each SNF using a performance score of zero and will then calculate the value-based incentive payment amount for each SNF using the methodology described in paragraph (c)(2)(ii) of this section. CMS will then apply low-volume scoring adjustment described in paragraph (d)(3) of this section.
+
+(3) CMS will provide confidential feedback reports to SNFs on their performance on the SNF readmission measure in accordance with paragraphs (e)(1) and (2) of this section.
+
+(4) CMS will publicly report SNF performance on the SNF readmission measure in accordance with paragraph (e)(3) of this section.
+
+[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018; 85 FR 47633, Aug. 5, 2020; 86 FR 42524, Aug. 4, 2021]

@@ -1,7 +1,9 @@
-##### § 61.3 Types of coverage. #####
+##### § 61.3 Coverage and benefits provided under the Standard Flood Insurance Policy. #####
 
-Link to an amendment published at 85 FR 43957, July 20, 2020.
+(a) Insurance coverage under the Program is available for buildings and their contents. Coverage for each may be purchased separately.
 
-Insurance coverage under the Program is available for structures and their contents. Coverage for each may be purchased separately.
+(b) In addition to building and contents coverage, the Dwelling Form of the Standard Flood Insurance Policy (SFIP) covers debris removal, loss avoidance measures, and condominium loss assessments. The General Property Form of the SFIP covers debris removal, loss avoidance measures, and pollution damage. The Residential Condominium Building Association Policy Form of the SFIP covers debris removal and loss avoidance measures.
 
-[43 FR 2570, Jan. 17, 1978. Redesignated at 44 FR 31177, May 31, 1979, as amended at 48 FR 39068, Aug. 29, 1983; 50 FR 36025, Sept. 4, 1985; 51 FR 30309, Aug. 25, 1986; 58 FR 62424, Nov. 26, 1993]
+(c) With the purchase of building coverage, the Standard Flood Insurance Policy covers the costs associated with bringing the building into compliance with local floodplain ordinances.
+
+[85 FR 43957, July 20, 2020]

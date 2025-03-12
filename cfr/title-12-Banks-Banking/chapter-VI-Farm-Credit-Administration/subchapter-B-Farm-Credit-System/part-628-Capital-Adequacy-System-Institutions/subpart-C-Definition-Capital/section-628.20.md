@@ -1,5 +1,7 @@
 ##### § 628.20 Capital components and eligibility criteria for tier 1 and tier 2 capital instruments. #####
 
+Link to an amendment published at 86 FR 54359, Oct. 1, 2021.
+
 (a) *Regulatory capital components.* A System institution's regulatory capital components are:
 
 (1) CET1 capital;

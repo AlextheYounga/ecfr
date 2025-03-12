@@ -1,5 +1,7 @@
 ##### 852.236-79 Contractor production report. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 836.573, insert the following clause:
 
 Contractor Production Report (APR 2019)

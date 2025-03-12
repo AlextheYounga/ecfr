@@ -1,5 +1,7 @@
 ##### 852.228-72 Assisting service-disabled veteran-owned and veteran-owned small businesses in obtaining bonds. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 828.106-71, insert the following clause:
 
 Assisting Service-Disabled Veteran-Owned Small Businesses and Veteran-Owned Small Businesses in Obtaining Bonds(DEC2009)

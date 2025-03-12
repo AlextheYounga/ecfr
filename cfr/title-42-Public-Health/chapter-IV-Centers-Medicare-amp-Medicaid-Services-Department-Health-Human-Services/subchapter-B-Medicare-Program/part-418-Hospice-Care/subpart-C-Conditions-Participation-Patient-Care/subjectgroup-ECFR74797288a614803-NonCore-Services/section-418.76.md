@@ -1,7 +1,5 @@
 ##### § 418.76 Condition of participation: Hospice aide and homemaker services. #####
 
-Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
-
 All hospice aide services must be provided by individuals who meet the personnel requirements specified in paragraph (a) of this section. Homemaker services must be provided by individuals who meet the personnel requirements specified in paragraph (j) of this section.
 
 (a) *Standard: Hospice aide qualifications.* (1) A qualified hospice aide is a person who has successfully completed one of the following:
@@ -64,7 +62,7 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (c) *Standard: Competency evaluation.* An individual may furnish hospice aide services on behalf of a hospice only after that individual has successfully completed a competency evaluation program as described in this section.
 
-(1) The competency evaluation must address each of the subjects listed in paragraph (b)(3) of this section. Subject areas specified under paragraphs (b)(3)(i), (b)(3)(iii), (b)(3)(ix), (b)(3)(x) and (b)(3)(xi) of this section must be evaluated by observing an aide's performance of the task with a patient. The remaining subject areas may be evaluated through written examination, oral examination, or after observation of a hospice aide with a patient.
+(1) The competency evaluation must address each of the subjects listed in paragraph (b)(3) of this section. Subject areas specified under paragraphs (b)(3)(i), (iii), (ix), (x), and (xi) of this section must be evaluated by observing an aide's performance of the task with a patient or pseudo-patient. The remaining subject areas may be evaluated through written examination, oral examination, or after observation of a hospice aide with a patient or a pseudo-patient during a simulation.
 
 (2) A hospice aide competency evaluation program may be offered by any organization, except as described in paragraph (f) of this section.
 
@@ -138,11 +136,11 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (ii) If an area of concern is noted by the supervising nurse, then the hospice must make an on-site visit to the location where the patient is receiving care in order to observe and assess the aide while he or she is performing care.
 
-(iii) If an area of concern is verified by the hospice during the on-site visit, then the hospice must conduct, and the hospice aide must complete a competency evaluation in accordance with § 418.76(c).
+(iii) If an area of concern is verified by the hospice during the on-site visit, then the hospice must conduct, and the hospice aide must complete, a competency evaluation of the deficient skill and all related skill(s) in accordance with paragraph (c) of this section.
 
 (2) A registered nurse must make an annual on-site visit to the location where a patient is receiving care in order to observe and assess each aide while he or she is performing care.
 
-(3) The supervising nurse must assess an aide's ability to demonstrate initial and continued satisfactory performance in meeting outcome criteria that include, but is not limited to -
+(3) The supervising nurse must assess an aide's ability to demonstrate initial and continued satisfactory performance in meeting outcome criteria that include, but is not limited to—
 
 (i) Following the patient's plan of care for completion of tasks assigned to the hospice aide by the registered nurse.
 
@@ -162,7 +160,7 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (3) The hospice must coordinate its hospice aide and homemaker services with the Medicaid personal care benefit to ensure the patient receives the hospice aide and homemaker services he or she needs.
 
-(j) *Standard: Homemaker qualifications.* A qualified homemaker is -
+(j) *Standard: Homemaker qualifications.* A qualified homemaker is—
 
 (1) An individual who meets the standards in § 418.202(g) and has successfully completed hospice orientation addressing the needs and concerns of patients and families coping with a terminal illness; or
 
@@ -174,4 +172,4 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (3) Homemakers must report all concerns about the patient or family to the member of the interdisciplinary group who is coordinating homemaker services.
 
-[73 FR 32204, June 5, 2008, as amended at 74 FR 39413, Aug. 6, 2009; 82 FR 4578, Jan. 13, 2017; 84 FR 51815, Sept. 30, 2019]
+[73 FR 32204, June 5, 2008, as amended at 74 FR 39413, Aug. 6, 2009; 82 FR 4578, Jan. 13, 2017; 84 FR 51815, Sept. 30, 2019; 86 FR 42605, Aug. 4, 2021]

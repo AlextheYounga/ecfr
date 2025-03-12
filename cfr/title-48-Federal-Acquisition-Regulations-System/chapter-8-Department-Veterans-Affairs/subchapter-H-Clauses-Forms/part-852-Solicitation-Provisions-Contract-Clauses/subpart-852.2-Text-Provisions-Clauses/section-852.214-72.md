@@ -1,5 +1,7 @@
 ##### 852.214-72 Alternate item(s). #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 814.201-6(a)(2), insert the following provision:
 
 Alternate Item(s) (MAY 2018)

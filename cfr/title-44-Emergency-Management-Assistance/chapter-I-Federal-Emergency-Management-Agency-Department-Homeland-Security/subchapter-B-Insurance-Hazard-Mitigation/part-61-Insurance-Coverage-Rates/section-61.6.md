@@ -1,30 +1,32 @@
 ##### § 61.6 Maximum amounts of coverage available. #####
 
-Link to an amendment published at 85 FR 43958, July 20, 2020.Link to a correction published at 86 FR 10029, Feb. 18, 2021.
-
 (a) Pursuant to section 1306 of the Act, the following are the limits of coverage available under the emergency program and under the regular program.
 
-|                                                   |Regular program|                      |        |
-|---------------------------------------------------|---------------|----------------------|--------|
-|     Emergency program<sup>1</sup> first layer     | Second layer  |Total amount available|        |
-|             Single Family Residential             |               |                      |        |
-|Except in Hawaii, Alaska, Guam, U.S. Virgin Islands|    $35,000    |       $215,000       |$250,000|
-|   In Hawaii, Alaska, Guam, U.S. Virgin Islands    |    50,000     |       200,000        |250,000 |
-|                 Other Residential                 |               |                      |        |
-|Except in Hawaii, Alaska, Guam, U.S. Virgin Islands|    100,000    |       150,000        |250,000 |
-|   In Hawaii, Alaska, Guam, U.S. Virgin Islands    |    150,000    |       100,000        |250,000 |
-|                  Nonresidential                   |               |                      |        |
-|                  Small business                   |    100,000    |       400,000        |500,000 |
-|           Churches and other properties           |    100,000    |       400,000        |500,000 |
-|               Contents<sup>2</sup>                |               |                      |        |
-|                    Residential                    |    10,000     |        90,000        |100,000 |
-|                  Small business                   |    100,000    |       400,000        |500,000 |
-|            Churches, other properties             |    100,000    |       400,000        |500,000 |
+Table 1 to Paragraph (a) - Maximum Amounts of Coverage Available<sup>1</sup>
 
-<sup>1</sup> Only first layer available under emergency program.
+|                         Occupancy                         |Emergency  <br/>Program|                  Regular Program                  |
+|-----------------------------------------------------------|-----------------------|---------------------------------------------------|
+|                          Amount                           |        Amount         |                                                   |
+|                     Building Coverage                     |                       |                                                   |
+|                  Single-Family Dwelling                   |      \* $35,000       |                     $250,000.                     |
+|                Two-to-Four Family Building                |       \* 35,000       |                     $250,000.                     |
+|Other Residential Building (including Multifamily Building)|     \*\* 100,000      |                     $500,000.                     |
+|             Residential Condominium Building              |          N/A          |$250,000 times the number of units in the building.|
+|                 Non-Residential Building                  |     \*\* 100,000      |                     $500,000.                     |
+|              Contents Coverage <sup>2</sup>               |                       |                                                   |
+|             Residential Property<sup>3</sup>              |        10,000         |                     $100,000.                     |
+|                 Non-Residential Property                  |        100,000        |                     $500,000.                     |
 
-<sup>2</sup> Per unit.
+<sup>1</sup> This Table provides the maximum coverage amounts available under the Emergency Program and the Regular Program, and the columns cannot be aggregated to exceed the limits in the Regular Program, which are established by statute. The aggregate limits for building coverage are the maximum coverage amounts allowed by statute for each building included in the relevant Occupancy Category.
 
-(b) In the insuring of a residential condominium building in a regular program community, the maximum limit of building coverage is $250,000 times the number of units in the building (not to exceed the building's replacement cost).
+<sup>2</sup> The policy limits for contents coverage are not per building. Although a single insured may not have more than one policy covering contents in a building, several insureds may have separate policies of up to the policy limits.
 
-[60 FR 5585, Jan. 30, 1995]
+<sup>3</sup> The Residential Property occupancy category includes the Single-Family Dwelling, Two-to-Four Family Building, Other Residential Building, and Condominium Building occupancies categories.
+
+\* In Alaska, Guam, Hawaii, and U.S. Virgin Islands, the amount available is $50,000.
+
+\*\* In Alaska, Guam, Hawaii, and U.S. Virgin Islands, the amount available is $150,000.
+
+(b) Coverage and benefits payable under the SFIP pursuant to § 61.3(b) and (c) are included in, not in addition to, the coverage limits provided by the Act or stated in paragraph (a) of this section.
+
+[85 FR 43958, July 20, 2020; 86 FR 10029, Feb. 18, 2021]

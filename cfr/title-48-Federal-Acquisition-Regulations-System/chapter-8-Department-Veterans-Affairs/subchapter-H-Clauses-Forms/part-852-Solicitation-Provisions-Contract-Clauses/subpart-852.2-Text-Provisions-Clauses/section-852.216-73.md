@@ -1,5 +1,7 @@
 ##### 852.216-73 Economic price adjustment - state nursing home care for veterans. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 816.203-4(e)(3), insert the following clause:
 
 Economic Price Adjustment - State Nursing Home Care for Veterans (MAR 2018)

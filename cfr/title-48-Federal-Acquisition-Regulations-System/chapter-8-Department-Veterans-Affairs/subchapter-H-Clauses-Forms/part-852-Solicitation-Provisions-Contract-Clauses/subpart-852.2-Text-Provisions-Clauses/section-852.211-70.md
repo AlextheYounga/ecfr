@@ -1,5 +1,7 @@
 ##### 852.211-70 Equipment operation and maintenance manuals. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 811.107-70, insert the following clause:
 
 Equipment Operation and Maintenance Manuals (NOV 2018)

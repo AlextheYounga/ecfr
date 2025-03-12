@@ -243,31 +243,24 @@ i Final sodium targets (shown) must be met no later than July 1, 2022 (SY 2022-2
 
 (ii) *Preschooler snack meal pattern table.* The minimum amounts of food components to be served at snack are as follows:
 
-Preschool Snack Meal Pattern
+Table 5 to Paragraph (o)(3)(ii) - Preschool Snack Meal Pattern
 
-|                               Food components and food items<sup>1</sup>                               |Minimum quantities|                   |
-|--------------------------------------------------------------------------------------------------------|------------------|-------------------|
-|                                                Ages 1-2                                                |     Ages 3-5     |                   |
-|                                         Fluid Milk<sup>2</sup>                                         |  4 fluid ounces  |  4 fluid ounces.  |
-|                            Meat/Meat Alternates (edible portion as served):                            |                  |                   |
-|                                      Lean meat, poultry, or fish                                       |    1/2 ounce     |    1/2 ounce.     |
-|                     Tofu, soy products, or alternate protein products<sup>3</sup>                      |    1/2 ounce     |    1/2 ounce.     |
-|                                                 Cheese                                                 |    1/2 ounce     |    1/2 ounce.     |
-|                                               Large egg                                                |       1/2        |       1/2.        |
-|                                        Cooked dry beans or peas                                        |     1/8 cup      |     1/8 cup.      |
-|                      Peanut butter or soy nut butter or other nut or seed butters                      |   1 tablespoon   |   1 tablespoon.   |
-|                     Yogurt, plain or flavored unsweetened or sweetened<sup>4</sup>                     |2 ounces or1/4 cup|2 ounces or1/4 cup.|
-|                                 Peanuts, soy nuts, tree nuts, or seeds                                 |    1/2 ounce     |    1/2 ounce.     |
-|                                         Vegetables<sup>5</sup>                                         |     1/2 cup      |     1/2 cup.      |
-|                                           Fruits<sup>5</sup>                                           |     1/2 cup      |     1/2 cup.      |
-|                                     Grains (ounce equivalent): 6 7                                     |                  |                   |
-|                                   Whole grain-rich or enriched bread                                   |    1/2 slice     |    1/2 slice.     |
-|              Whole grain-rich or enriched bread product, such as biscuit, roll, or muffin              |   1/2 serving    |   1/2 serving.    |
-|Whole grain-rich, enriched, or fortified cooked breakfast cereal,<sup>8</sup> cereal grain, and/or pasta|     1/4 cup      |     1/4 cup.      |
-|          Whole grain-rich, enriched, or fortified ready-to-eat cereal (dry, cold)<sup>8</sup>          |                  |                   |
-|                                            Flakes or rounds                                            |     1/2 cup      |     1/2 cup.      |
-|                                             Puffed cereal                                              |     3/4 cup      |     3/4 cup.      |
-|                                                Granola                                                 |     1/8 cup      |     1/8 cup.      |
+|               Food components and food items 1               | Minimum quantities |                     |
+|--------------------------------------------------------------|--------------------|---------------------|
+|                           Ages 1-2                           |      Ages 3-5      |                     |
+|                    Fluid Milk<sup>2</sup>                    |   4 fluid ounces   |   4 fluid ounces.   |
+|       Meat/meat alternates (edible portion as served):       |                    |                     |
+|                 Lean meat, poultry, or fish                  |     1/2 ounce      |     1/2 ounce.      |
+|Tofu, soy products, or alternate protein products<sup>3</sup> |     1/2 ounce      |     1/2 ounce.      |
+|                            Cheese                            |     1/2 ounce      |     1/2 ounce.      |
+|                          Large egg                           |        1/2         |        1/2.         |
+|                   Cooked dry beans or peas                   |      1/8 cup       |      1/8 cup.       |
+| Peanut butter or soy nut butter or other nut or seed butters |       1 Tbsp       |       1 Tbsp.       |
+|Yogurt, plain or flavored unsweetened or sweetened<sup>4</sup>| 2 ounces or1/4 cup | 2 ounces or1/4 cup. |
+|            Peanuts, soy nuts, tree nuts, or seeds            |     1/2 ounce      |     1/2 ounce.      |
+|                    Vegetables<sup>5</sup>                    |      1/2 cup       |      1/2 cup.       |
+|                      Fruits<sup>5</sup>                      |      1/2 cup       |      1/2 cup.       |
+|                     Grains (oz eq) 6 7 8                     |1/2 ounce equivalent|1/2 ounce equivalent.|
 
 Endnotes:
 
@@ -283,21 +276,24 @@ Endnotes:
 
 <sup>6</sup> At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards meeting the grains requirement.
 
-<sup>7</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+<sup>7</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
-<sup>8</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+<sup>8</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
 (4) *Afterschool snack requirements for infants* - (i) *Snacks served to infants.* Schools serving afterschool snacks to infants ages birth through 11 months must serve the food components and quantities required in the snack meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving afterschool snacks to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (4), and (7), (g), and (m) of this section.
 
 (ii) *Infant snack meal pattern table.* The minimum amounts of food components to be served at snack are as follows:
 
-Infant Snack Meal Pattern
+Table 6 to Paragraph (o)(4)(ii) - Infant Snack Meal Pattern
 
-|                  Age birth through 5 months                  |                                                                                                                                  Age 6 through 11 months                                                                                                                                   |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|2-4 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-1/2 slice bread; 3 4 or  <br/>0-2 crackers; 3 4 or  <br/>0-4 tablespoons infant cereal 2 4 or ready-to-eat breakfast cereal; 3 4 5 6 and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both. 6 7|
-
-Endnotes:
+|                    Birth through 5 months                    |                                 6 through 11 months                                  |
+|--------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                      2-4 fluid ounces breastmilk<sup>1</sup> or                      |
+|                                                              |                               formula;<sup>2</sup> and                               |
+|                                                              |                         0-1/2 ounce equivalent bread; 3 4 or                         |
+|                                                              |                       0-1/4 ounce equivalent crackers; 3 4 or                        |
+|                                                              |0-1/2 ounce equivalent infant cereal 2 4 or ready-to-eat breakfast cereal; 3 4 5 6 and|
+|                                                              |           0-2 tablespoons vegetable or fruit, or a combination of both.6 7           |
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
@@ -305,7 +301,7 @@ Endnotes:
 
 <sup>3</sup> A serving of grains must be whole grain-rich, enriched meal, or enriched flour.
 
-<sup>4</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+<sup>4</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
 <sup>5</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
@@ -319,27 +315,24 @@ Endnotes:
 
 (2) *Preschooler lunch meal pattern table.* The minimum amounts of food components to be served at lunch are as follows:
 
-Preschool Lunch Meal Pattern
+Table 7 to Paragraph (p)(2) - Preschool Lunch Meal Pattern
 
-|                                                                                                                                Food components and food items<sup>1</sup>                                                                                                                                |Minimum quantities|                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-------------------|
-|                                                                                                                                              Ages  <br/>1-2                                                                                                                                              |  Ages  <br/>3-5  |                   |
-|                                                                                                                                          Fluid Milk<sup>2</sup>                                                                                                                                          |  4 fluid ounces  |  6 fluid ounces.  |
-|                                                                                                                             Meat/meat alternates (edible portion as served):                                                                                                                             |                  |                   |
-|                                                                                                                                       Lean meat, poultry, or fish                                                                                                                                        |     1 ounce      |   11/2 ounces.    |
-|                                                                                                                      Tofu, soy products, or alternate protein products<sup>3</sup>                                                                                                                       |     1 ounce      |   11/2 ounces.    |
-|                                                                                                                                                  Cheese                                                                                                                                                  |     1 ounce      |   11/2 ounces.    |
-|                                                                                                                                                Large egg                                                                                                                                                 |       1/2        |       3/4.        |
-|                                                                                                                                         Cooked dry beans or peas                                                                                                                                         |     1/4 cup      |     3/8 cup.      |
-|                                                                                                                       Peanut butter or soy nut butter or other nut or seed butters                                                                                                                       |      2 Tbsp      |      3 Tbsp.      |
-|                                                                                                                      Yogurt, plain or flavored unsweetened or sweetened<sup>4</sup>                                                                                                                      |4 ounces or1/2 cup|6 ounces or3/4 cup.|
-|The following may be used to meet no more than 50% of the requirement:  <br/>Peanuts, soy nuts, tree nuts, or seeds, as listed in program guidance, or an equivalent quantity of any combination of the above meat/meat alternates (1 ounce of nuts/seeds = 1 ounce of cooked lean meat, poultry, or fish)| 1/2 ounce = 50%  | 3/4 ounce = 50%.  |
-|                                                                                                                                          Vegetables<sup>5</sup>                                                                                                                                          |     1/8 cup      |     1/4 cup.      |
-|                                                                                                                                      Fruits<sup>5</sup><sup>6</sup>                                                                                                                                      |     1/8 cup      |     1/4 cup.      |
-|                                                                                                                                 Grains (oz eq):<sup>7</sup><sup>8</sup>                                                                                                                                  |                  |                   |
-|                                                                                                                                    Whole grain-rich or enriched bread                                                                                                                                    |    1/2 slice     |    1/2 slice.     |
-|                                                                                                                Whole grain-rich or enriched bread product, such as biscuit, roll, muffin                                                                                                                 |   1/2 serving    |   1/2 serving.    |
-|                                                                                                 Whole grain-rich, enriched, or fortified cooked breakfast cereal<sup>9</sup>, cereal grain, and/or pasta                                                                                                 |     1/4 cup      |     1/4 cup.      |
+|                                                                                                                                  Food components and food items 1                                                                                                                                  | Minimum quantities |                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------|
+|                                                                                                                                              Ages 1-2                                                                                                                                              |      Ages 3-5      |                     |
+|                                                                                                                                       Fluid Milk<sup>2</sup>                                                                                                                                       |   4 fluid ounces   |   6 fluid ounces.   |
+|                                                                                                                          Meat/meat alternates (edible portion as served):                                                                                                                          |                    |                     |
+|                                                                                                                                    Lean meat, poultry, or fish                                                                                                                                     |      1 ounce       |    11/2 ounces.     |
+|                                                                                                                   Tofu, soy products, or alternate protein products<sup>3</sup>                                                                                                                    |      1 ounce       |    11/2 ounces.     |
+|                                                                                                                                               Cheese                                                                                                                                               |      1 ounce       |    11/2 ounces.     |
+|                                                                                                                                             Large egg                                                                                                                                              |        1/2         |        3/4.         |
+|                                                                                                                                      Cooked dry beans or peas                                                                                                                                      |      1/4 cup       |      3/8 cup.       |
+|                                                                                                                    Peanut butter or soy nut butter or other nut or seed butters                                                                                                                    |       2 Tbsp       |       3 Tbsp.       |
+|                                                                                                                   Yogurt, plain or flavored unsweetened or sweetened<sup>4</sup>                                                                                                                   | 4 ounces or1/2 cup | 6 ounces or3/4 cup. |
+|The following may be used to meet no more than 50% of the requirement: Peanuts, soy nuts, tree nuts, or seeds, as listed in program guidance, or an equivalent quantity of any combination of the above meat/meat alternates (1 ounce of nuts/seeds = 1 ounce of cooked lean meat, poultry, or fish)|  1/2 ounce = 50%   |  3/4 ounce = 50%.   |
+|                                                                                                                                           Vegetables 5 6                                                                                                                                           |      1/8 cup       |      1/4 cup.       |
+|                                                                                                                                             Fruits 5 6                                                                                                                                             |      1/8 cup       |      1/4 cup.       |
+|                                                                                                                                        Grains (oz eq) 7 8 9                                                                                                                                        |1/2 ounce equivalent|1/2 ounce equivalent.|
 
 Endnotes:
 
@@ -357,7 +350,7 @@ Endnotes:
 
 <sup>7</sup> At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards the grains requirement.
 
-<sup>8</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of the creditable grain.
+<sup>8</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
 <sup>9</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
@@ -365,19 +358,23 @@ Endnotes:
 
 (2) *Infant lunch meal pattern table.* The minimum amounts of food components to be served at lunch are as follows:
 
-Infant Lunch Meal Pattern
+Table 8 to Paragraph (q)(2) - Infant Lunch Meal Pattern
 
-|                  Age birth through 5 months                  |                                                                                                                                                                                                          Age 6 through 11 months                                                                                                                                                                                                           |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-4 tablespoons infant cereal, 2 3 meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or  <br/>0-2 ounces of cheese; or  <br/>0-4 ounces (volume) of cottage cheese; or  <br/>0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both.5 6|
-
-Endnotes:
+|                    Birth through 5 months                    |                                   6 through 11 months                                    |
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|           6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and            |
+|                                                              |                       0-1/2 ounce equivalent infant cereal; 2 3 or                       |
+|                                                              | 0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or |
+|                                                              |                                 0-2 ounces of cheese; or                                 |
+|                                                              |                        0-4 ounces (volume) of cottage cheese; or                         |
+|                                                              |0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and|
+|                                                              |             0-2 tablespoons vegetable or fruit, or a combination of both.5 6             |
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
 <sup>2</sup> Infant formula and dry infant cereal must be iron-fortified.
 
-<sup>3</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+<sup>3</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
 <sup>4</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
@@ -385,4 +382,4 @@ Endnotes:
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020]
+[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020; 86 FR 57544, Oct. 18, 2021]

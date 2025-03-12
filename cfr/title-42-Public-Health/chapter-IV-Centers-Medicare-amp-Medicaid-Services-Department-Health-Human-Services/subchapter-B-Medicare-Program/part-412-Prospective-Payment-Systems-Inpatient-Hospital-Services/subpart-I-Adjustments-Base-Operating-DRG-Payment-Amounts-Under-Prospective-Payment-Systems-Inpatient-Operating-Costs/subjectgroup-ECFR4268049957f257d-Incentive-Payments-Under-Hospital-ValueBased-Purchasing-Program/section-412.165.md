@@ -1,7 +1,5 @@
 ##### § 412.165 Performance scoring under the Hospital Value-Based Purchasing (VBP) Program. #####
 
-Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
-
 (a) *Points awarded based on hospital performance.* (1) CMS will award points to hospitals for performance on each measure for which the hospital reports the applicable minimum number of cases during the applicable performance period.
 
 (2) CMS will award from 1 to 9 points for achievement to each hospital whose performance on a measure during the applicable performance period meets or exceeds the achievement threshold but is less than the benchmark for that measure.
@@ -24,10 +22,10 @@ Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
 
 (c) *Extraordinary circumstances exception.* (1) A hospital may request and CMS may grant exceptions to the Hospital VBP Program's requirements under this section when there are certain extraordinary circumstances beyond the control of the hospital.
 
-(2) A hospital may request an exception within 90 calendar days of the date that the extraordinary circumstances occurred by submitting a completed Extraordinary Circumstances Request Form (available on the Hospital Value-Based Purchasing (HVBP) Program section of the QualityNet website (*QualityNet.org*)), and any available evidence of the impact of the extraordinary circumstances on the hospital's quality measure performance. The form must be sent via secure file transfer via the *QualityNet Secure portal,* secure fax, email, or conventional mail.
+(2) A hospital may request an exception within 90 calendar days of the date that the extraordinary circumstances occurred by submitting a completed Extraordinary Circumstances Request Form (available on the Hospital Value-Based Purchasing (HVBP) Program section of the QualityNet website (*https://qualitynet.cms.gov/*)), and any available evidence of the impact of the extraordinary circumstances on the hospital's quality measure performance. The form must be sent via secure file transfer via the *QualityNet Secure portal,* secure fax, email, or conventional mail.
 
 (3) Following receipt of the request form, CMS will provide a written acknowledgement using the contact information provided in the request, to the CEO and any additional designated personnel, notifying them that the hospital's request has been received, and provide a written response to the CEO and any additional designated personnel using the contact information provided in the request.
 
-(4) CMS may grant an exception to one or more hospitals that have not requested an exception if CMS determines that an extraordinary circumstance has affected an entire region or locale, which may include the entire United States. CMS will notify hospitals that it has granted an exception under this paragraph via multiple methods, which may include memos, emails, and notices posted on the public QualityNet website (see *https://www.qualitynet.org*).
+(4) CMS may grant an exception to one or more hospitals that have not requested an exception if CMS determines that an extraordinary circumstance has affected an entire region or locale, which may include the entire United States. CMS will notify hospitals that it has granted an exception under this paragraph via multiple methods, which may include memos, emails, and notices posted on the public QualityNet website (*https://qualitynet.cms.gov/*).
 
-[50 FR 12741, Mar. 29, 1985, as amended at 85 FR 27621, May, 8, 2020]
+[50 FR 12741, Mar. 29, 1985, as amended at 85 FR 27621, May, 8, 2020; 86 FR 45520, Aug. 13, 2021]

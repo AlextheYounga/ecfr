@@ -1,5 +1,7 @@
 ##### 852.223-71 Safety and health. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed by 823.303-70, the Contracting Officer shall insert the following clause:
 
 Safety and Health (SEP 2019)

@@ -1,5 +1,7 @@
 ##### 852.216-72 Proportional economic price adjustment of contract price(s) based on a price index. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 816.203-4(e)(2), insert the following clause:
 
 Proportional Economic Price Adjustment of Contract Price(S) Based on a Price Index (MAR 2018)

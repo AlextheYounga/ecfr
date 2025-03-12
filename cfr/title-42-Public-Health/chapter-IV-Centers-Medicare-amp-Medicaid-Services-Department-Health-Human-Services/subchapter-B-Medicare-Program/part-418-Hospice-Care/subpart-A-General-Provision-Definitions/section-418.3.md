@@ -1,10 +1,8 @@
 ##### § 418.3 Definitions. #####
 
-Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
+For purposes of this part—
 
-For purposes of this part -
-
-*Attending physician* means a -
+*Attending physician* means a—
 
 (1)(i) Doctor of medicine or osteopathy legally authorized to practice medicine and surgery by the State in which he or she performs that function or action; or
 
@@ -50,14 +48,18 @@ For purposes of this part -
 
 *Physician designee* means a doctor of medicine or osteopathy designated by the hospice who assumes the same responsibilities and obligations as the medical director when the medical director is not available.
 
+*Pseudo-patient* means a person trained to participate in a role-play situation, or a computer-based mannequin device. A pseudo-patient must be capable of responding to and interacting with the hospice aide trainee, and must demonstrate the general characteristics of the primary patient population served by the hospice in key areas such as age, frailty, functional status, cognitive status and care goals.
+
 *Representative* means an individual who has the authority under State law (whether by statute or pursuant to an appointment by the courts of the State) to authorize or terminate medical care or to elect or revoke the election of hospice care on behalf of a terminally ill patient who is mentally or physically incapacitated. This may include a legal guardian.
 
-*Restraint* means - (1) Any manual method, physical or mechanical device, material, or equipment that immobilizes or reduces the ability of a patient to move his or her arms, legs, body, or head freely, not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or other methods that involve the physical holding of a patient for the purpose of conducting routine physical examinations or tests, or to protect the patient from falling out of bed, or to permit the patient to participate in activities without the risk of physical harm (this does not include a physical escort); or
+*Restraint* means—(1) Any manual method, physical or mechanical device, material, or equipment that immobilizes or reduces the ability of a patient to move his or her arms, legs, body, or head freely, not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or other methods that involve the physical holding of a patient for the purpose of conducting routine physical examinations or tests, or to protect the patient from falling out of bed, or to permit the patient to participate in activities without the risk of physical harm (this does not include a physical escort); or
 
 (2) A drug or medication when it is used as a restriction to manage the patient's behavior or restrict the patient's freedom of movement and is not a standard treatment or dosage for the patient's condition.
 
 *Seclusion* means the involuntary confinement of a patient alone in a room or an area from which the patient is physically prevented from leaving.
 
+*Simulation* means a training and assessment technique that mimics the reality of the homecare environment, including environmental distractions and constraints that evoke or replicate substantial aspects of the real world in a fully interactive fashion, in order to teach and assess proficiency in performing skills, and to promote decision making and critical thinking.
+
 *Terminally ill* means that the individual has a medical prognosis that his or her life expectancy is 6 months or less if the illness runs its normal course.
 
-[48 FR 56026, Dec. 16, 1983, as amended at 52 FR 4499, Feb. 12, 1987; 55 FR 50834, Dec. 11, 1990; 70 FR 45144, Aug. 4, 2005; 72 FR 50227, Aug. 31, 2007; 73 FR 32204, June 5, 2008; 79 FR 50509, Aug. 22, 2014; 83 FR 38654, Aug. 6, 2018; 84 FR 38543, Aug. 6, 2019]
+[48 FR 56026, Dec. 16, 1983, as amended at 52 FR 4499, Feb. 12, 1987; 55 FR 50834, Dec. 11, 1990; 70 FR 45144, Aug. 4, 2005; 72 FR 50227, Aug. 31, 2007; 73 FR 32204, June 5, 2008; 79 FR 50509, Aug. 22, 2014; 83 FR 38654, Aug. 6, 2018; 84 FR 38543, Aug. 6, 2019; 86 FR 42605, Aug. 4, 2021]

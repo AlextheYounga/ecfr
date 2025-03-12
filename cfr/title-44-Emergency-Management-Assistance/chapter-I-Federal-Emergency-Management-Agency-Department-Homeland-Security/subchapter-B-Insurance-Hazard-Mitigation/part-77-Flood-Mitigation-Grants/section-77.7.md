@@ -1,0 +1,17 @@
+##### § 77.7 Allowable costs. #####
+
+(a) *General.* General policies for allowable costs for implementing awards and subawards are addressed in 2 CFR 200.101, 200.102, 200.400-200.476.
+
+(1) *Eligible management costs* - (i) *Recipient.* Recipients are eligible to receive management costs (direct and indirect administrative costs pursuant to 2 CFR part 200 Subpart E) consisting of a maximum of 10 percent of the planning and project activities awarded to the recipient, each fiscal year under FMA. These costs must be included in the application to FEMA.
+
+(ii) *Subrecipient.* Subapplicants may include a maximum of 5 percent of the total funds requested for their subapplication for management costs to support the implementation of their planning or project activity. These costs must be included in the subapplication to the recipient.
+
+(2) *Indirect costs.* Indirect costs of administering the FMA program are eligible as part of the 10 percent management costs for the recipient or the 5 percent management costs of the subrecipient, but in no case do they make the recipient eligible for additional management costs that exceed the caps identified in paragraph (a)(1) of this section. In addition, all costs must be in accordance with the provisions of 2 CFR parts 200 and 3002.
+
+(b) *Pre-award costs.* FEMA may fund eligible pre-award costs related to developing the application or subapplication at its discretion and as funds are available. Recipients and subrecipients may be reimbursed for eligible pre-award costs for activities directly related to the development of the project or planning proposal. Costs associated with implementation of the activity but incurred prior to award are not eligible. Therefore, activities where implementation is initiated or completed prior to award are not eligible and will not be reimbursed.
+
+(c) *Duplication of benefits.* Grant funds may not duplicate benefits received by or available to applicants, subapplicants and project participants from insurance, other assistance programs, legal awards, or any other source to address the same purpose. Such individual or entity must notify the recipient and FEMA of all benefits that it receives or anticipates from other sources for the same purpose. FEMA will reduce the subaward by the amounts available for the same purpose from another source.
+
+(d) *Negligence or other tortious conduct.* FEMA grant funds are not available where an applicant, subapplicant, other project participant, or third party's negligence or intentional actions contributed to the conditions to be mitigated. If the applicant, subapplicant, or project participant suspects negligence or other tortious conduct by a third party for causing such condition, they are responsible for taking all reasonable steps to recover all costs attributable to the tortious conduct of the third party. FEMA generally considers such amounts to be duplicated benefits available for the same purpose, and will treat them consistent with paragraph (c) of this section.
+
+(e) *Legal obligations.* FEMA grant funds are not available to satisfy or reimburse for legal obligations, such as those imposed by a legal settlement, court order, or State law.

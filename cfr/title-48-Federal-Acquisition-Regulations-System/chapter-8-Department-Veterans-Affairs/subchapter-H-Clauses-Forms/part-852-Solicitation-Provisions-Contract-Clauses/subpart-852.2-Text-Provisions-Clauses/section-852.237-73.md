@@ -1,5 +1,7 @@
 ##### 852.237-73 Crime Control Act - requirement for background checks. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 837.403-70(d), insert the following clause:
 
 Crime Control Act - Requirement for Background Checks (OCT 2019)

@@ -1,7 +1,5 @@
 ##### § 418.24 Election of hospice care. #####
 
-Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
-
 (a) *Filing an election statement.* (1) *General.* An individual who meets the eligibility requirement of § 418.20 may file an election statement with a particular hospice. If the individual is physically or mentally incapacitated, his or her representative (as defined in § 418.3) may file the election statement.
 
 (2) *Notice of election.* The hospice chosen by the eligible individual (or his or her representative) must file the Notice of Election (NOE) with its Medicare contractor within 5 calendar days after the effective date of the election statement.
@@ -36,7 +34,7 @@ Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
 
 (8) The signature of the individual or representative.
 
-(c) *Content of hospice election statement addendum.* For Hospice elections beginning on or after October 1, 2020, in the event that the hospice determines there are conditions, items, services, or drugs that are unrelated to the individual's terminal illness and related conditions, the individual (or representative), non-hospice providers furnishing such items, services, or drugs, or Medicare contractors may request a written list as an addendum to the election statement. If the election statement addendum is requested at the time of initial hospice election (that is, at the time of admission to hospice), the hospice must provide this information, in writing, to the individual (or representative) within 5 days from the date of the election. If this addendum is requested during the course of hospice care (that is, after the hospice election date), the hospice must provide this information, in writing, within 72 hours of the request to the requesting individual (or representative), non-hospice provider, or Medicare contractor. If there are any changes to the content on the addendum during the course of hospice care, the hospice must update the addendum and provide these updates, in writing, to the individual (or representative). The election statement addendum must include the following:
+(c) *Content of hospice election statement addendum.* For hospice elections beginning on or after October 1, 2020, in the event that the hospice determines there are conditions, items, services, or drugs that are unrelated to the individual's terminal illness and related conditions, the individual (or representative), non-hospice providers furnishing such items, services, or drugs, or Medicare contractors may request a written list as an addendum to the election statement. The election statement addendum must include the following:
 
 (1) The addendum must be titled “Patient Notification of Hospice Non-Covered Items, Services, and Drugs.”
 
@@ -58,9 +56,21 @@ Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
 
 (ii) *Right to Immediate Advocacy.* The addendum must include language that immediate advocacy is available through the Medicare Beneficiary and Family Centered Care-Quality Improvement Organization (BFCC-QIO) if the individual (or representative) disagrees with the hospice's determination.
 
-(9) Name and signature of the individual (or representative) and date signed, along with a statement that signing this addendum (or its updates) is only acknowledgement of receipt of the addendum (or its updates) and not necessarily the individual's (or representative's) agreement with the hospice's determinations.
+(9) Name and signature of the individual (or representative) and date signed, along with a statement that signing this addendum (or its updates) is only acknowledgement of receipt of the addendum (or its updates) and not the individual's (or representative's) agreement with the hospice's determinations. If the beneficiary (or representative) refuses to sign the addendum, the hospice must document on the addendum the reason the addendum was not signed and the addendum would become part of the patient's medical record. If a non-hospice provider or Medicare contractor requests the addendum, the non-hospice provider or Medicare contractor are not required to sign the addendum.
 
-(d) *Duration of election.* An election to receive hospice care will be considered to continue through the initial election period and through the subsequent election periods without a break in care as long as the individual -
+(10) Date the hospice furnished the addendum.
+
+(d) *Timeframes for the hospice election statement addendum.* (1) If the addendum is requested within the first 5 days of a hospice election (that is, in the first 5 days of the hospice election date), the hospice must provide this information, in writing, to the individual (or representative), non-hospice provider, or Medicare contractor within 5 days from the date of the request.
+
+(2) If the addendum is requested during the course of hospice care (that is, after the first 5 days of the hospice election date), the hospice must provide this information, in writing, within 3 days of the request to the requesting individual (or representative), non-hospice provider, or Medicare contractor.
+
+(3) If there are any changes to the plan of care during the course of hospice care, the hospice must update the addendum and provide these updates, in writing, to the individual (or representative) in order to communicate these changes to the individual (or representative).
+
+(4) If the individual dies, revokes, or is discharged within the required timeframe for furnishing the addendum (as outlined in paragraphs (d)(1) and (2) of this section, and before the hospice has furnished the addendum, the addendum would not be required to be furnished to the individual (or representative). The hospice must note the reason the addendum was not furnished to the patient and the addendum would become part of the patient's medical record if the hospice has completed it at the time of discharge, revocation, or death.
+
+(5) If the beneficiary dies, revokes, or is discharged prior to signing the addendum (as outlined in paragraphs (d)(1) and (2) of this section), the addendum would not be required to be signed in order for the hospice to receive payment. The hospice must note (on the addendum itself) the reason the addendum was not signed and the addendum would become part of the patient's medical record.
+
+(e) *Duration of election.* An election to receive hospice care will be considered to continue through the initial election period and through the subsequent election periods without a break in care as long as the individual—
 
 (1) Remains in the care of a hospice;
 
@@ -68,11 +78,11 @@ Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
 
 (3) Is not discharged from the hospice under the provisions of § 418.26.
 
-(e) *Waiver of other benefits.* For the duration of an election of hospice care, an individual waives all rights to Medicare payments for the following services:
+(f) *Waiver of other benefits.* For the duration of an election of hospice care, an individual waives all rights to Medicare payments for the following services:
 
 (1) Hospice care provided by a hospice other than the hospice designated by the individual (unless provided under arrangements made by the designated hospice).
 
-(2) Any Medicare services that are related to the treatment of the terminal condition for which hospice care was elected or a related condition or that are equivalent to hospice care except for services -
+(2) Any Medicare services that are related to the treatment of the terminal condition for which hospice care was elected or a related condition or that are equivalent to hospice care except for services—
 
 (i) Provided by the designated hospice:
 
@@ -80,9 +90,9 @@ Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
 
 (iii) Provided by the individual's attending physician if that physician is not an employee of the designated hospice or receiving compensation from the hospice for those services.
 
-(f) *Re-election of hospice benefits.* If an election has been revoked in accordance with § 418.28, the individual (or his or her representative if the individual is mentally or physically incapacitated) may at any time file an election, in accordance with this section, for any other election period that is still available to the individual.
+(g) *Re-election of hospice benefits.* If an election has been revoked in accordance with § 418.28, the individual (or his or her representative if the individual is mentally or physically incapacitated) may at any time file an election, in accordance with this section, for any other election period that is still available to the individual.
 
-(g) *Changing the attending physician.* To change the designated attending physician, the individual (or representative) must file a signed statement with the hospice that states that he or she is changing his or her attending physician.
+(h) *Changing the attending physician.* To change the designated attending physician, the individual (or representative) must file a signed statement with the hospice that states that he or she is changing his or her attending physician.
 
 (1) The statement must identify the new attending physician, and include the date the change is to be effective and the date signed by the individual (or representative).
 
@@ -90,4 +100,4 @@ Link to an amendment published at 86 FR 42605, Aug. 4, 2021.
 
 (3) The effective date of the change in attending physician cannot be before the date the statement is signed.
 
-[55 FR 50834, Dec. 11, 1990, as amended at 70 FR 70547, Nov. 22, 2005; 79 FR 50509, Aug. 22, 2014; 84 FR 38544, Aug. 6, 2019]
+[55 FR 50834, Dec. 11, 1990, as amended at 70 FR 70547, Nov. 22, 2005; 79 FR 50509, Aug. 22, 2014; 84 FR 38544, Aug. 6, 2019; 86 FR 42605, Aug. 4, 2021]

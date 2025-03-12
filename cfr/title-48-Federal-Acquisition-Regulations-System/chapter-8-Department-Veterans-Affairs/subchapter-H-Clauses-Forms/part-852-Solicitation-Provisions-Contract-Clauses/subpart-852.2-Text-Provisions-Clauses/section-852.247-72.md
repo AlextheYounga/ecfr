@@ -1,5 +1,7 @@
 ##### 852.247-72 Marking deliverables. #####
 
+Link to an amendment published at 86 FR 54405, Oct. 1, 2021.
+
 As prescribed in 847.305-10(a) insert a clause substantially the same as:
 
 Marking Deliverables (OCT 2018)

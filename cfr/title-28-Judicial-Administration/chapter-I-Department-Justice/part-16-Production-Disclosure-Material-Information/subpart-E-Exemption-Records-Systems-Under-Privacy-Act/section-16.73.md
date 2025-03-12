@@ -1,5 +1,7 @@
 ##### § 16.73 Exemption of Office of Legal Policy System - limited access. #####
 
+Link to an amendment published at 86 FR 54369, Oct. 1, 2021.
+
 (a) The following system of records is exempt from 5 U.S.C 552a (d)(1), (2), (3) and (4); (e)(1) and (2), (e)(4)(G) and (H), (e)(5); and (g):
 
 (1) Freedom of Information and Privacy Appeals Index (JUSTICE/OLP-001).

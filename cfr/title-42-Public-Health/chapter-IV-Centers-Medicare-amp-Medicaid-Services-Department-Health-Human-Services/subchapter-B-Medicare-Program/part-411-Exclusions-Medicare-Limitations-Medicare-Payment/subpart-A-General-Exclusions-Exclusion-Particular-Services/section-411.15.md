@@ -1,7 +1,5 @@
 ##### § 411.15 Particular services excluded from coverage. #####
 
-Link to an amendment published at 86 FR 42524, Aug. 4, 2021.
-
 The following services are excluded from coverage:
 
 (a) Routine physical checkups such as:
@@ -170,15 +168,17 @@ The following services are excluded from coverage:
 
 (xii) Services described in subparagraphs (p)(2)(i) through (vi) of this section when furnished via telehealth under section 1834(m)(4)(C)(ii)(VII) of the Act.
 
-(xiii) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020; J9040-J9151; J9170-J9185; J9200-J9201; J9206-J9208; J9211; J9230-J9245; and J9265-J9600; and, as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534.
+(xiii) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020, J9040-J9151, J9170-J9185, J9200-J9201, J9206-J9208, J9211, J9230-J9245, and J9265-J9600, and as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534 (as subsequently modified by CMS), and any additional chemotherapy items identified by CMS.
 
-(xiv) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262; 36489; 36530-36535; 36640; 36823; and 96405-96542.
+(xiv) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262, 36489, 36530-36535, 36640, 36823, and 96405-96542 (as subsequently modified by CMS), and any additional chemotherapy administration services identified by CMS.
 
-(xv) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440.
+(xv) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440 (as subsequently modified by CMS), and any additional radioisotope services identified by CMS.
 
-(xvi) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340; L5500-L5611; L5613-L5986; L5988; L6050-L6370; L6400-6880; L6920-L7274; and L7362-L7366, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
+(xvi) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340, L5500-L5611, L5613-L5986, L5988, L6050-L6370, L6400-6880, L6920-L7274, and L7362-L7366 (as subsequently modified by CMS) and any additional customized prosthetic devices identified by CMS, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
 
-(xvii) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
+(xvii) Those blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders identified, as of July 1, 2020, by HCPCS codes J7170, J7175, J7177-J7183, J7185-J7190, J7192-J7195, J7198-J7203, J7205, and J7207-J7211 (as subsequently modified by CMS) and items and services related to the furnishing of such factors, and any additional blood clotting factors identified by CMS and items and services related to the furnishing of such factors.
+
+(xviii) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
 
 (3) *SNF resident defined.* For purposes of this paragraph, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF for the duration of the beneficiary's covered Part A stay. In addition, for purposes of the services described in paragraph (p)(1)(i) of this section, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF regardless of whether the beneficiary is in a covered Part A stay. Whenever the beneficiary leaves the facility, the beneficiary's status as an SNF resident for purposes of this paragraph (along with the SNF's responsibility to furnish or make arrangements for the services described in paragraph (p)(1) of this section) ends when one of the following events occurs -
 

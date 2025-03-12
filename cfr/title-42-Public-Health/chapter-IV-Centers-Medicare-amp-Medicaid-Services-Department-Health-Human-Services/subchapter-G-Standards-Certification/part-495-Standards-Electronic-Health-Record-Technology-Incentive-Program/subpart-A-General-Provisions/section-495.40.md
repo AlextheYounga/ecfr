@@ -1,10 +1,8 @@
 ##### § 495.40 Demonstration of meaningful use criteria. #####
 
-Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
-
 (a) *Demonstration by EPs.* An EP must demonstrate that he or she satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22 or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
 
-(1) For CY 2011 - (i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State), that during the EHR reporting period, the EP -
+(1) For CY 2011—(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State), that during the EHR reporting period, the EP—
 
 (A) Used certified EHR technology, and specify the technology used;
 
@@ -16,9 +14,9 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (iii) *Exception for Medicaid EPs.* If a Medicaid EP has adopted, implemented or upgraded certified EHR technology in the first payment year, the EP need not demonstrate meaningful use until the second payment year, as described in § 495.20 or §§ 495.24 and 495.40.
 
-(2) For CY 2012 and subsequent years -
+(2) For CY 2012 and subsequent years—
 
-(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State) that during the EHR reporting period, the EP -
+(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State) that during the EHR reporting period, the EP—
 
 (A) Used certified EHR technology and specify the technology used.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (G) For CY 2019 and subsequent years, satisfied the required objectives and associated measures under § 495.24(d) for meaningful use.
 
-(H) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the EP -
+(H) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the EP—
 
 (*1*) Must attest that he or she:
 
@@ -48,11 +46,11 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (*ii*) If requested, cooperated in good faith with ONC-ACB surveillance of his or her health information technology certified under the ONC Health IT Certification Program as authorized by 45 CFR part 170, subpart E, to the extent that such technology meets (or can be used to meet) the definition of CEHRT, including by permitting timely access to such technology and demonstrating capabilities as implemented and used by the EP in the field.
 
-(I) Support for health information exchange and the prevention of information blocking. For an EHR reporting period in CY 2017 and subsequent years, the EP must attest that he or she -
+(I) Support for health information exchange and the prevention of information blocking. For an EHR reporting period in CY 2017 and subsequent years, the EP must attest that he or she—
 
 (*1*) Did not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of certified EHR technology.
 
-(*2)* Implemented technologies, standards, policies, practices, and agreements reasonably calculated to ensure, to the greatest extent practicable and permitted by law, that the certified EHR technology was, at all relevant times -
+(*2)* Implemented technologies, standards, policies, practices, and agreements reasonably calculated to ensure, to the greatest extent practicable and permitted by law, that the certified EHR technology was, at all relevant times—
 
 (*i*) Connected in accordance with applicable law;
 
@@ -70,7 +68,7 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (iv) *Exception for Medicaid EPs.* If a Medicaid EP has adopted, implemented, or upgrade certified EHR technology in the first payment year, the EP need not demonstrate that it is a meaningful EHR user until the second payment year, as described in § 495.20 or §§ 495.24 and 495.40.
 
-(v) *Exception for Medicare EPs for 2012 and 2013 - Participation in the Physician Quality Reporting System-Medicare EHR Incentive Pilot.* To satisfy the clinical quality measure reporting requirements of meaningful use, aside from attestation, an EP participating in the Physician Quality Reporting System may also participate in the Physician Quality Reporting System-Medicare EHR Incentive Pilot through one of the following methods:
+(v) *Exception for Medicare EPs for 2012 and 2013—Participation in the Physician Quality Reporting System-Medicare EHR Incentive Pilot.* To satisfy the clinical quality measure reporting requirements of meaningful use, aside from attestation, an EP participating in the Physician Quality Reporting System may also participate in the Physician Quality Reporting System-Medicare EHR Incentive Pilot through one of the following methods:
 
 (A) Submission of data extracted from the EP's certified EHR technology through a Physician Quality Reporting System qualified EHR data submission vendor; or
 
@@ -78,11 +76,11 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (3) For all CYs, an EP who practices in multiple physical locations, not all of which have certified EHR technology available, will demonstrate meaningful use using only the locations where the EP has certified EHR technology available. (See also § 495.4 regarding the definition of meaningful EHR user).
 
-(b) *Demonstration by eligible hospitals and CAHs.* An eligible hospital or CAH must demonstrate that it satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22, or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
+(b) *Demonstration by eligible hospitals and CAHs.* An eligible hospital or CAH must demonstrate that it satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22, or § 495.24; supports health information exchange and the prevention of health information blocking or does not take actions to limit or restrict the compatibility or interoperability of CEHRT, as applicable for the EHR reporting period; and engages in activities related to supporting providers with the performance of CEHRT.
 
-(1) For FY 2011 -
+(1) For FY 2011—
 
-(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid eligible hospital, in a manner specified by the State), that during the EHR reporting period, the eligible hospital or CAH -
+(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid eligible hospital, in a manner specified by the State), that during the EHR reporting period, the eligible hospital or CAH—
 
 (A) Used certified EHR and specify the technology used.
 
@@ -94,9 +92,9 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (iii) *Exception for Medicaid eligible hospitals.* If a Medicaid eligible hospital has adopted, implemented or upgraded certified EHR technology in the first payment year, the eligible hospital need not demonstrate meaningful use until the second payment year, as described in § 495.20 or §§ 495.24 and 495.40.
 
-(2) For FY 2012 and subsequent years -
+(2) For FY 2012 and subsequent years—
 
-(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid eligible hospital, in a manner specified by the State), that during the EHR reporting period, the eligible hospital or CAH -
+(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid eligible hospital, in a manner specified by the State), that during the EHR reporting period, the eligible hospital or CAH—
 
 (A) Used certified EHR and specify the technology used;
 
@@ -120,7 +118,7 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (*2*) For an eligible hospital or CAH attesting to a State for the Medicaid EHR Incentive Program, satisfied the required objectives and associated measures under § 495.24(d) for meaningful use.
 
-(H) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the eligible hospital or CAH -
+(H) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the eligible hospital or CAH—
 
 (*1*) Must attest that it:
 
@@ -134,11 +132,11 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (*ii*) If requested, cooperated in good faith with ONC-ACB surveillance of his or her health information technology certified under the ONC Health IT Certification Program as authorized by 45 CFR part 170, subpart E, to the extent that such technology meets (or can be used to meet) the definition of CEHRT, including by permitting timely access to such technology and demonstrating its capabilities as implemented and used by the eligible hospital or CAH in the field.
 
-(I) Support for health information exchange and the prevention of information blocking. For an EHR reporting period in CY 2017 and subsequent years, the eligible hospital or CAH must attest that it -
+(I) Support for health information exchange and the prevention of information blocking. For an EHR reporting period in CYs 2017 through 2021, the eligible hospital or CAH must attest that it—
 
 (*1*) Did not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of certified EHR technology.
 
-(*2*) Implemented technologies, standards, policies, practices, and agreements reasonably calculated to ensure, to the greatest extent practicable and permitted by law, that the certified EHR technology was, at all relevant times -
+(*2*) Implemented technologies, standards, policies, practices, and agreements reasonably calculated to ensure, to the greatest extent practicable and permitted by law, that the certified EHR technology was, at all relevant times—
 
 (*i*) Connected in accordance with applicable law;
 
@@ -150,19 +148,21 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (*3*) Responded in good faith and in a timely manner to requests to retrieve or exchange electronic health information, including from patients, health care providers (as defined by 42 U.S.C. 300jj(3)), and other persons, regardless of the requestor's affiliation or technology vendor.
 
+(J) Actions to limit or restrict the compatibility or interoperability of CEHRT. For an EHR reporting period in CY 2022 and subsequent years, the eligible hospital or CAH must attest that it did not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of certified EHR technology.
+
 (ii) *Reporting clinical quality information.* Successfully report the clinical quality measures selected by CMS to CMS or the States, as applicable, in the form and manner specified by CMS or the States, as applicable.
 
 (iii) [Reserved]
 
 (iv) *Additional requirements for Medicaid eligible hospitals.* For Medicaid eligible hospitals if, in accordance with §§ 495.316 and 495.332, CMS has approved a State's revised definition for meaningful use, in addition to meeting paragraphs (b)(2)(i) through (iii) of this section, the eligible hospital must also demonstrate meeting the State's revised definition using the method approved by CMS.
 
-(v) *Exception for Medicare EPs for 2012 and 2013 - Participation in the Physician Quality Reporting System-Medicare EHR Incentive Pilot.* To satisfy the clinical quality measure reporting requirements of meaningful use, aside from attestation, an EP participating in the Physician Quality Reporting System may also participate in the Physician Quality Reporting System-Medicare EHR Incentive Pilot through one of the following methods:
+(v) *Exception for Medicare EPs for 2012 and 2013—Participation in the Physician Quality Reporting System-Medicare EHR Incentive Pilot.* To satisfy the clinical quality measure reporting requirements of meaningful use, aside from attestation, an EP participating in the Physician Quality Reporting System may also participate in the Physician Quality Reporting System-Medicare EHR Incentive Pilot through one of the following methods:
 
 (A) Submission of data extracted from the EP's certified EHR technology through a Physician Quality Reporting System qualified EHR data submission vendor; or
 
 (B) Submission of data extracted from the EP's certified EHR technology, which must also be through a Physician Quality Reporting System qualified EHR.
 
-(vi) *Exception for Medicare eligible hospitals and CAHs for FY 2012 and 2013 - Participation in the Medicare EHR Incentive Program Electronic Reporting Pilot.* In order to satisfy the clinical quality measure reporting requirements of meaningful use, aside from attestation, a Medicare eligible hospital or CAH may participate in the Medicare EHR Incentive Program Electronic Reporting Pilot.
+(vi) *Exception for Medicare eligible hospitals and CAHs for FY 2012 and 2013—Participation in the Medicare EHR Incentive Program Electronic Reporting Pilot.* In order to satisfy the clinical quality measure reporting requirements of meaningful use, aside from attestation, a Medicare eligible hospital or CAH may participate in the Medicare EHR Incentive Program Electronic Reporting Pilot.
 
 (vii) *Exception for dual-eligible eligible hospitals and CAHs beginning in CY 2019.* (A) Beginning with the EHR reporting period in CY 2019, dual-eligible eligible hospitals and CAHs (those that are eligible for an incentive payment under Medicare for meaningful use of CEHRT and/or subject to the Medicare payment reduction for failing to demonstrate meaningful use, and are also eligible to earn a Medicaid incentive payment for meaningful use) must satisfy the requirements under paragraph (b)(2) of this section by attestation and reporting information to CMS, not to their respective state Medicaid agency.
 
@@ -172,4 +172,4 @@ Link to an amendment published at 86 FR 45523, Aug. 13, 2021.
 
 (2) All EPs, eligible hospitals, and CAHs must keep documentation supporting their demonstration of meaningful use for 6 years.
 
-[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017; 82 FR 38518, Aug. 14, 2017; 83 FR 41710, Aug. 17, 2018]
+[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017; 82 FR 38518, Aug. 14, 2017; 83 FR 41710, Aug. 17, 2018; 86 FR 45523, Aug. 13, 2021]

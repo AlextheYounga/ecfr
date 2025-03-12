@@ -1,5 +1,7 @@
 ##### 852.247-71 Delivery location. #####
 
+Link to an amendment published at 86 FR 54405, Oct. 1, 2021.
+
 As prescribed in 847.302, insert a clause substantially as follows:
 
 Delivery Location (OCT 2018)

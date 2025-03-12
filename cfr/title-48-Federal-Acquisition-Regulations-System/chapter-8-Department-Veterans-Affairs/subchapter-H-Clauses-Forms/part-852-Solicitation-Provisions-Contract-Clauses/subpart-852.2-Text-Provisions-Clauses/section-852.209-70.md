@@ -1,5 +1,7 @@
 ##### 852.209-70 Organizational conflicts of interest. #####
 
+Link to an amendment published at 86 FR 54403, Oct. 1, 2021.
+
 As prescribed in 809.507-1(b), insert the following provision:
 
 Organizational Conflicts of Interest (OCT 2020)

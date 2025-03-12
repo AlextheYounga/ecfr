@@ -1,7 +1,5 @@
 ##### § 412.64 Federal rates for inpatient operating costs for Federal fiscal year 2005 and subsequent fiscal years. #####
 
-Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
-
 (a) *General rule.* CMS determines a national adjusted prospective payment rate for inpatient operating costs for each inpatient hospital discharge in Federal fiscal year 2005 and subsequent fiscal years involving inpatient hospital services of a hospital in the United States subject to the prospective payment system for which payment may be made under Medicare Part A.
 
 (b) *Geographic classifications.* (1) For purposes of this section, the following definitions apply:
@@ -106,13 +104,14 @@ Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
 
 (i) Changes to the DRG classifications and recalibrations of the DRG relative weights are made in a manner so that aggregate payments to hospitals are not affected; and
 
-(ii) Except as provided in paragraph (e)(4) of this section, the annual updates and adjustments to the wage index under paragraph (h) of this section are made in a manner that ensures that aggregate payments are not affected; and
+(ii) Except as provided in paragraphs (e)(4) and (h)(4)(vii) of this section, the annual updates and adjustments to the wage index under paragraph (h) of this section are made in a manner that ensures that aggregate payments are not affected; and
 
 (2) CMS also makes an adjustment to the rates to ensure that aggregate payments after implementation of reclassifications under subpart L of this part are equal to the aggregate prospective payments that would have been made in the absence of these provisions.
 
 (3) To the extent CMS determines that changes to the DRG classification and recalibrations of the DRG relative weights for a previous year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in coding or classification of discharges that do not reflect real changes in case mix, CMS may adjust the standardized amount for subsequent fiscal years so as to eliminate the effect of such coding and classification changes.
 
-(4) CMS makes an adjustment to the wage index to ensure that aggregate payments after implementation of the rural floor under section 4410 of the Balanced Budget Act of 1997 (Pub. L. 105-33) and the imputed floor under paragraph (h)(4) of this section are equal to the aggregate prospective payments that would have been made in the absence of such provisions as follows:
+(4) CMS makes an adjustment to the wage index to ensure that aggregate payments after implementation of the rural floor under section 4410 of the Balanced Budget Act of 1997 (Pub. L. 105-33) and, for discharges on or after October 1, 2004, and before October 1, 2018, the imputed floor under paragraph (h)(4) of this section are equal to the aggregate prospective payments that would have been made in the absence of such provisions as follows
+:
 
 (i) Beginning October 1, 2008, such adjustment is transitioned from a nationwide to a statewide adjustment as follows:
 
@@ -136,7 +135,7 @@ Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
 
 (3) For discharges occurring on or after October 1, 2004, CMS employs 62 percent as the proportion of the rate that is adjusted for the relative level of hospital wages and wage-related costs, unless employing that percentage would result in lower payments for the hospital than employing the proportion determined under the methodology described in paragraph (h)(2) of this section.
 
-(4) For discharges on or after October 1, 2004 and before October 1, 2018, CMS establishes a minimum wage index for each all-urban State, as defined in paragraph (h)(5) of this section. This minimum wage index value is computed using the following methodology:
+(4) For discharges on or after October 1, 2004 and before October 1, 2018, and for discharges on or after October 1, 2021, CMS establishes a minimum wage index for each all-urban State, as defined in paragraph (h)(5) of this section. This minimum wage index value is computed using the following methodology:
 
 (i) CMS computes the ratio of the lowest-to-highest wage index for each all-urban State;
 
@@ -148,13 +147,17 @@ Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
 
 (v) The product determined under paragraph (h)(4)(iv) of this section is the minimum wage index value for the State, except as provided under paragraph (h)(4)(vi) of this section;
 
-(vi) For discharges on or after October 1, 2012 and before October 1, 2018, the minimum wage index value for the State is the higher of the value determined under paragraph (h)(4)(iv) of this section or the value computed using the following alternative methodology:
+(vi) For discharges on or after October 1, 2012 and before October 1, 2018, and for discharges on or after October 1, 2021, the minimum wage index value for the State is the higher of the value determined under paragraph (h)(4)(iv) of this section or the value computed using the following alternative methodology:
 
 (A) CMS estimates a percentage representing the average percentage increase in wage index for hospitals receiving the rural floor due to such floor.
 
 (B) For each all-urban State, CMS makes a onetime determination of the lowest hospital wage index in the State (including all adjustments to the hospital's wage index, except for the rural floor, the rural floor budget neutrality, and the outmigration adjustment) and increases this wage index by the percentage determined under paragraph (h)(4)(vi)(A) of this section, the result of which establishes the alternative minimum wage index value for the State.
 
-(5) An all-urban State is a State with no rural areas, as defined in this section, or a State in which there are no hospitals classified as rural. A State with rural areas and with hospitals reclassified as rural under § 412.103 in not an all-urban State.
+(vii) For discharges on or after October 1, 2021, the minimum wage index computed under this paragraph must not be applied in a budget neutral manner.
+
+(5)(i) For purposes of paragraph (h)(4) of this section, for discharges on or after October 1, 2004 and before October 1, 2018, an all-urban State is a State with no rural areas, as defined in this section, or a State in which there are no hospitals classified as rural. For purposes of this definition, a State with rural areas and with hospitals reclassified as rural under § 412.103 is not an all-urban State.
+
+(ii) For purposes of paragraph (h)(4) of this section, for discharges on or after October 1, 2021, an all-urban State is a State with no rural areas, as defined in this section, or a State in which there are no hospitals classified as rural under section 1886 of the Act. For purposes of this definition, a hospital is classified as rural under section 1886 of the Act if it is assigned the State's rural area wage index value.
 
 (6) If a new rural hospital that is subject to the hospital inpatient prospective payment system opens in a State that has an imputed rural floor and has rural areas, CMS uses the imputed floor as the hospital's wage index until the hospital's first cost report as an inpatient prospective payment system provider is contemporaneous with the cost reporting period being used to develop a given fiscal year's wage index.
 

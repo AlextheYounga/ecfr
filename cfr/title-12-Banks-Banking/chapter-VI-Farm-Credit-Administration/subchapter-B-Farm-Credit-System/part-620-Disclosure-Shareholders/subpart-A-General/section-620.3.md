@@ -1,5 +1,7 @@
 ##### § 620.3 Accuracy of reports and assessment of internal control over financial reporting. #####
 
+Link to an amendment published at 86 FR 54357, Oct. 1, 2021.
+
 (a) *Prohibition against incomplete, inaccurate, or misleading disclosures.* No institution and no employee, officer, director, or nominee for director of the institution shall make any disclosure to shareholders or the general public concerning any matter required to be disclosed by this part that is incomplete, inaccurate, or misleading. When any such person makes disclosure that, in the judgment of the Farm Credit Administration, is incomplete, inaccurate, or misleading, whether or not such disclosure is made in disclosure statements required by this part, such institution or person shall make such additional or corrective disclosure as is necessary to provide shareholders and the general public with a full and fair disclosure.
 
 (b) *Signatures.* The name and position title of each person signing the report must be printed beneath his or her signature. If any person required to sign the report has not signed the report, the name and position title of the individual and the reason(s) such individual is unable or refuses to sign must be disclosed in the report. All reports must be dated and signed on behalf of the institution by:

@@ -1,5 +1,7 @@
 ##### § 628.43 Simplified supervisory formula approach (SSFA) and the gross-up approach. #####
 
+Link to an amendment published at 86 FR 54360, Oct. 1, 2021.
+
 (a) *General requirements for the SSFA.* To use the SSFA to determine the risk weight for a securitization exposure, a System institution must have data that enables it to assign accurately the parameters described in paragraph (b) of this section. Data used to assign the parameters described in paragraph (b) of this section must be the most currently available data; if the contract governing the underlying exposures of the securitization require payment on a monthly or quarterly basis, the data used to assign the parameters described in paragraph (b) of this section must be no more than 91 calendar days old. A System institution that does not have the appropriate data to assign the parameters described in paragraph (b) of this section must assign a risk weight of 1,250 percent to the exposure.
 
 (b) *SSFA parameters.* To calculate the risk weight for a securitization exposure using the SSFA, a System institution must have accurate information on the following five inputs to the SSFA calculation:

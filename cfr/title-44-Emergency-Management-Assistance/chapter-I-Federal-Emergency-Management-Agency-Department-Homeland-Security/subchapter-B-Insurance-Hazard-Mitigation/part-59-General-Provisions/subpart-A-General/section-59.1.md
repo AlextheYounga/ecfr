@@ -1,12 +1,10 @@
 ##### § 59.1 Definitions. #####
 
-Link to an amendment published at 85 FR 43957, July 20, 2020.
+As used in this subchapter—
 
-As used in this subchapter -
+*Act* means the statutes authorizing the National Flood Insurance Program that are incorporated in 42 U.S.C. 4001- *et seq.*
 
-*Act* means the statutes authorizing the National Flood Insurance Program that are incorporated in 42 U.S.C. 4001-4128.
-
-*Actuarial rates* - see *risk premium rates.*
+*Actuarial rates*—see *risk premium rates.*
 
 *Administrator* means the Administrator of the Federal Emergency Management Agency.
 
@@ -36,7 +34,7 @@ As used in this subchapter -
 
 *Breakaway wall* means a wall that is not part of the structural support of the building and is intended through its design and construction to collapse under specific lateral loading forces, without causing damage to the elevated portion of the building or supporting foundation system.
 
-*Building* - see *structure.*
+*Building*—see *structure.*
 
 *Chargeable rates* mean the rates established by the Federal Insurance Administrator pursuant to section 1308 of the Act for first layer limits of flood insurance on existing structures.
 
@@ -46,6 +44,8 @@ As used in this subchapter -
 
 *Community* means any State or area or political subdivision thereof, or any Indian tribe or authorized tribal organization, or Alaska Native village or authorized native organization, which has authority to adopt and enforce flood plain management regulations for the areas within its jurisdiction.
 
+*Condominium building* means a type of building in the form of ownership in which each unit owner has an undivided interest in common elements of the building.
+
 *Contents coverage* is the insurance on personal property within an enclosed structure, including the cost of debris removal, and the reasonable cost of removal of contents to minimize damage. Personal property may be household goods usual or incidental to residential occupancy, or merchandise, furniture, fixtures, machinery, equipment and supplies usual to other than residential occupancies.
 
 *Criteria* means the comprehensive criteria for land management and use for flood-prone areas developed under 42 U.S.C. 4102 for the purposes set forth in part 60 of this subchapter.
@@ -54,7 +54,7 @@ As used in this subchapter -
 
 *Curvilinear Line* means the border on either a FHBM or FIRM that delineates the special flood, mudslide (i.e., mudflow) and/or flood-related erosion hazard areas and consists of a curved or contour line that follows the topography.
 
-*Deductible* means the fixed amount or percentage of any loss covered by insurance which is borne by the insured prior to the insurer's liability.
+*Deductible* means the amount of an insured loss that is the responsibility of the insured and that is incurred before any amounts are paid for the insured loss under the insurance policy.
 
 *Developed area* means an area of a community that is:
 
@@ -76,7 +76,7 @@ As used in this subchapter -
 
 *Elevated building* means, for insurance purposes, a nonbasement building which has its lowest elevated floor raised above ground level by foundation walls, shear walls, posts, piers, pilings, or columns.
 
-*Emergency Flood Insurance Program* or *emergency program* means the Program as implemented on an emergency basis in accordance with section 1336 of the Act. It is intended as a program to provide a first layer amount of insurance on all insurable structures before the effective date of the initial FIRM.
+*Emergency program* means the initial phase of a community's participation in the National Flood Insurance Program, as prescribed by Section 1306 of the Act.
 
 *Erosion* means the process of the gradual wearing away of land masses. This peril is not per se covered under the Program.
 
@@ -140,7 +140,7 @@ As used in this subchapter -
 
 *Flood-related erosion area management* means the operation of an overall program of corrective and preventive measures for reducing flood-related erosion damage, including but not limited to emergency preparedness plans, flood-related erosion control works, and flood plain management regulations.
 
-*Floodway* - see *regulatory floodway.*
+*Floodway*—see *regulatory floodway.*
 
 *Floodway encroachment lines* mean the lines marking the limits of floodways on Federal, State and local flood plain maps.
 
@@ -148,7 +148,7 @@ As used in this subchapter -
 
 *Functionally dependent use* means a use which cannot perform its intended purpose unless it is located or carried out in close proximity to water. The term includes only docking facilities, port facilities that are necessary for the loading and unloading of cargo or passengers, and ship building and ship repair facilities, but does not include long-term storage or related manufacturing facilities.
 
-*Future-conditions flood hazard area,* or *future-conditions floodplain* - see *Area of future-conditions flood hazard.*
+*Future-conditions flood hazard area,* or *future-conditions floodplain*—see *Area of future-conditions flood hazard.*
 
 *Future-conditions hydrology* means the flood discharges associated with projected land-use conditions based on a community's zoning maps and/or comprehensive land-use plans and without consideration of projected future construction of flood detention structures or projected future hydraulic modifications within a stream or other waterway, such as bridge and culvert construction, fill, and excavation.
 
@@ -190,17 +190,29 @@ As used in this subchapter -
 
 *Mean sea level* means, for purposes of the National Flood Insurance Program, the National Geodetic Vertical Datum (NGVD) of 1929 or other datum, to which base flood elevations shown on a community's Flood Insurance Rate Map are referenced.
 
+*Mixed use building* means a building that has both residential and non-residential uses.
+
 *Mudslide (i.e., mudflow)* describes a condition where there is a river, flow or inundation of liquid mud down a hillside usually as a result of a dual condition of loss of brush cover, and the subsequent accumulation of water on the ground preceded by a period of unusually heavy or sustained rain. A mudslide (i.e., mudflow) may occur as a distinct phenomenon while a landslide is in progress, and will be recognized as such by the Administrator only if the mudflow, and not the landslide, is the proximate cause of damage that occurs.
 
 *Mudslide* (*i.e., mudflow*) *area management* means the operation of an overall program of corrective and preventive measures for reducing mudslide (i.e., mudflow) damage, including but not limited to emergency preparedness plans, mudslide control works, and flood plain management regulations.
 
 *Mudslide* (*i.e., mudflow*) *prone area* means an area with land surfaces and slopes of unconsolidated material where the history, geology and climate indicate a potential for mudflow.
 
+*Multifamily building* means an other residential building that is not a condominium building.
+
 *New construction* means, for the purposes of determining insurance rates, structures for which the “start of construction” commenced on or after the effective date of an initial FIRM or after December 31, 1974, whichever is later, and includes any subsequent improvements to such structures. For floodplain management purposes, *new construction* means structures for which the *start of construction* commenced on or after the effective date of a floodplain management regulation adopted by a community and includes any subsequent improvements to such structures.
 
 *New manufactured home park or subdivision* means a manufactured home park or subdivision for which the construction of facilities for servicing the lots on which the manufactured homes are to be affixed (including at a minimum, the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads) is completed on or after the effective date of floodplain management regulations adopted by a community.
 
+*Non-residential building* means a commercial or mixed-use building where the primary use is commercial or non-habitational.
+
+*Non-residential property* means either a non-residential building, the contents within a non-residential building, or both.
+
 *100-year flood* see *base flood.*
+
+*Other residential building* means a residential building that is designed for use as a residential space for 5 or more families or a mixed use building in which the total floor area devoted to non-residential uses is less than 25 percent of the total floor area within the building.
+
+*Other residential property* means either an other residential building, the contents within an other residential building, or both.
 
 *Participating community,* also known as an *eligible community,* means a community in which the Administrator has authorized the sale of flood insurance.
 
@@ -238,6 +250,10 @@ As used in this subchapter -
 
 *Remedy a violation* means to bring the structure or other development into compliance with State or local flood plain management regulations, or, if this is not possible, to reduce the impacts of its noncompliance. Ways that impacts may be reduced include protecting the structure or other affected development from flood damages, implementing the enforcement provisions of the ordinance or otherwise deterring future similar violations, or reducing Federal financial exposure with regard to the structure or other development.
 
+*Residential building* means a non-commercial building designed for habitation by one or more families or a mixed use building that qualifies as a single-family, two-to-four family, or other residential building.
+
+*Residential property* means either a residential building or the contents within a residential building, or both.
+
 *Risk premium rates* means those rates established by the Federal Insurance Administrator pursuant to individual community studies and investigations which are undertaken to provide flood insurance in accordance with section 1307 of the Act and the accepted actuarial principles. “Risk premium rates” include provisions for operating costs and allowances.
 
 *Riverine* means relating to, formed by, or resembling a river (including tributaries), stream, brook, etc.
@@ -250,11 +266,13 @@ As used in this subchapter -
 
 *Servicing company* means a corporation, partnership, association, or any other organized entity which contracts with the Federal Insurance Administration to service insurance policies under the National Flood Insurance Program for a particular area.
 
-*Sheet flow area* - see *area of shallow flooding.*
+*Sheet flow area*—see *area of shallow flooding.*
+
+*Single-family dwelling* means either (a) a residential single-family building in which the total floor area devoted to non-residential uses is less than 50 percent of the building's total floor area, or (b) a single-family residential unit within a two-to-four family building, other-residential building, business, or non-residential building, in which commercial uses within the unit are limited to less than 50 percent of the unit's total floor area.
 
 *60-year setback* means a distance equal to 60 times the average annual long term recession rate at a site, measured from the reference feature.
 
-*Special flood hazard area* - see “area of special flood hazard”.
+*Special flood hazard area*—see “area of special flood hazard”.
 
 *Special hazard area* means an area having special flood, mudslide (i.e., mudflow), or flood-related erosion hazards, and shown on an FHBM or FIRM as Zone A, AO, A1-30, AE, AR, AR/A1-30, AR/AE, AR/AO, AR/AH, AR/A, A99, AH, VO, V1-30, VE, V, M, or E.
 
@@ -292,7 +310,9 @@ For the latter purpose, “structure” does not mean a recreational vehicle or 
 
 *Technically incorrect.* The methodology(ies) utilized has been erroneously applied due to mathematical or measurement error, changed physical conditions, or insufficient quantity or quality of input data.
 
-*V Zone* - see “coastal high hazard area.”
+*Two-to-four family building* means a residential building, including an apartment building, containing two-to-four residential spaces and in which commercial uses are limited to less than 25 percent of the building's total floor area.
+
+*V Zone*—see “coastal high hazard area.”
 
 *Variance* means a grant of relief by a community from the terms of a flood plain management regulation.
 

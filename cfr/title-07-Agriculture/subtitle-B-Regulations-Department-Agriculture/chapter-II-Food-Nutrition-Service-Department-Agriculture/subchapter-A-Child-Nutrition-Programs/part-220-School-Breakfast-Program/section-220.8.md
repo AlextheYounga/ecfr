@@ -147,21 +147,14 @@ Calorie Ranges for Breakfast - Effective SY 2013-2014
 
 (2) *Preschooler breakfast meal pattern table.* The minimum amounts of food components to be served at breakfast are as follows:
 
-Preschool Breakfast Meal Pattern
+Table 4 to Paragraph (o)(2) - Preschool Breakfast Meal Pattern
 
-|                               Food components and food items<sup>1</sup>                               |Minimum quantities|               |
-|--------------------------------------------------------------------------------------------------------|------------------|---------------|
-|                                                Ages 1-2                                                |     Ages 3-5     |               |
-|                                         Fluid Milk<sup>2</sup>                                         |  4 fluid ounces  |6 fluid ounces.|
-|                          Vegetables, fruits, or portions of both<sup>3</sup>                           |     1/4 cup      |   1/2 cup.    |
-|                                         Grains (oz eq): 4 5 6                                          |                  |               |
-|                                   Whole grain-rich or enriched bread                                   |    1/2 slice     |  1/2 slice.   |
-|               Whole grain-rich or enriched bread product, such as biscuit, roll, muffin                |   1/2 serving    | 1/2 serving.  |
-|Whole grain-rich, enriched, or fortified cooked breakfast cereal,<sup>7</sup> cereal grain, and/or pasta|     1/4 cup      |   1/4 cup.    |
-|    Whole grain-rich, enriched, or fortified ready-to-eat breakfast cereal (dry, cold):<sup>7</sup>     |                  |               |
-|                                            Flakes or rounds                                            |     1/2 cup      |   1/2 cup.    |
-|                                             Puffed cereal                                              |     3/4 cup      |   3/4 cup.    |
-|                                                Granola                                                 |     1/8 cup      |   1/8 cup.    |
+|         Food components and food items 1          | Minimum quantities |                     |
+|---------------------------------------------------|--------------------|---------------------|
+|                     Ages 1-2                      |      Ages 3-5      |                     |
+|              Fluid Milk<sup>2</sup>               |   4 fluid ounces   |   6 fluid ounces.   |
+|Vegetables, fruits, or portions of both<sup>3</sup>|      1/4 cup       |      1/2 cup.       |
+|              Grains (oz eq) 4 5 6 7               |1/2 ounce equivalent|1/2 ounce equivalent.|
 
 Endnotes:
 
@@ -175,27 +168,31 @@ Endnotes:
 
 <sup>5</sup> Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times a week. One ounce of meat and meat alternates is equal to one ounce equivalent of grains.
 
-<sup>6</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+<sup>6</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
-<sup>7</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
+<sup>7</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
 (p) *Breakfast requirements for infants* - (1) *Breakfasts served to infants.* Schools serving breakfasts to infants ages birth through 11 months under the School Breakfast Program must serve the food components and quantities required in the breakfast meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving breakfasts to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (g), (k), (l), and (m) of this section as applicable.
 
 (2) *Infant breakfast meal pattern table.* The minimum amounts of food components to be served at breakfast are as follows:
 
-Infant Breakfast Meal Pattern
+Table 5 to Paragraph (p)(2) - Infant Breakfast Meal Pattern
 
-|                  Age birth through 5 months                  |                                                                                                                                                                                                          Age 6 through 11 months                                                                                                                                                                                                          |
-|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and  <br/>0-4 tablespoons infant cereal,2 3 meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or  <br/>0-2 ounces of cheese; or  <br/>0-4 ounces (volume) of cottage cheese; or  <br/>0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and  <br/>0-2 tablespoons vegetable or fruit, or a combination of both 5 6|
-
-Endnotes:
+|                    Birth through 5 months                    |                                   6 through 11 months                                    |
+|--------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|           6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and            |
+|                                                              |                       0-1/2 ounce equivalent infant cereal; 2 3 or                       |
+|                                                              | 0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or |
+|                                                              |                                 0-2 ounces of cheese; or                                 |
+|                                                              |                        0-4 ounces (volume) of cottage cheese; or                         |
+|                                                              |0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and|
+|                                                              |            0-2 tablespoons vegetable or fruit, or a combination of both. 5 6             |
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
 <sup>2</sup> Infant formula and dry infant cereal must be iron-fortified.
 
-<sup>3</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+<sup>3</sup> Refer to FNS guidance for additional information on crediting different types of grains.
 
 <sup>4</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
@@ -203,4 +200,4 @@ Endnotes:
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020; 85 FR 74849, Nov. 24, 2020]
+[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020; 85 FR 74849, Nov. 24, 2020; 86 FR 57546, Oct. 18, 2021]

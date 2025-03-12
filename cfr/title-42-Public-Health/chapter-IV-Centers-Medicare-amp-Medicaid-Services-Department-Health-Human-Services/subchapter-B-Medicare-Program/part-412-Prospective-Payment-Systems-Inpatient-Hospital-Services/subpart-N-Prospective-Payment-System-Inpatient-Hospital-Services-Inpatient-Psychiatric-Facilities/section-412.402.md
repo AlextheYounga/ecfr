@@ -1,10 +1,14 @@
 ##### § 412.402 Definitions. #####
 
-Link to an amendment published at 86 FR 42678, Aug. 4, 2021.
+As used in this subpart—
 
-As used in this subpart -
+*Closure of an IPF* means closure of a hospital as defined in § 413.79(h)(1)(i) by an IPF meeting the requirements of § 412.404(b) for the purposes of accounting for indirect teaching costs.
+
+*Closure of an IPF's residency training program* means closure of a hospital residency training program as defined in § 413.79(h)(1)(ii) by an IPF meeting the requirements of § 412.404(b) for the purposes of accounting for indirect teaching costs.
 
 *Comorbidity* means all specific patient conditions that are secondary to the patient's primary diagnosis and that coexist at the time of admission, develop subsequently, or that affect the treatment received or the length of stay or both. Diagnoses that relate to an earlier episode of care that have no bearing on the current hospital stay are excluded.
+
+*Displaced resident* means a displaced resident as defined in § 413.79(h)(1)(iii) for the purposes of accounting for indirect teaching costs.
 
 *Federal per diem base rate* means the payment based on the average routine operating, ancillary, and capital-related cost of 1 day of hospital inpatient services in an inpatient psychiatric facility.
 
@@ -14,7 +18,7 @@ As used in this subpart -
 
 *Inpatient psychiatric facilities* means hospitals that meet the requirements as specified in §§ 412.22, 412.23(a), 482.60, 482.61, and 482.62, and units that meet the requirements as specified in §§ 412.22, 412.25, and 412.27.
 
-*Inpatient psychiatric facilities prospective payment system rate year* means -
+*Inpatient psychiatric facilities prospective payment system rate year* means—
 
 (1) Through June 30, 2011, the 12-month period of July 1 through June 30.
 
@@ -36,4 +40,4 @@ As used in this subpart -
 
 *Urban area* means for cost reporting periods beginning on or after January 1, 2005, with respect to discharges occurring during the period covered by such cost reports but before July 1, 2006, an area as defined in § 412.62(f)(1)(ii). For discharges occurring on or after July 1, 2006, urban area means an area as defined in § 412.64(b)(1)(ii)(A) and § 412.64(b)(1)(ii)(B).
 
-[69 FR 66977, Nov. 15, 2004; 70 FR 19728, Apr. 1, 2005, as amended at 71 FR 27086, May 9, 2006; 76 FR 26465, May 6, 2011; 83 FR 38619, Aug. 6, 2018]
+[69 FR 66977, Nov. 15, 2004; 70 FR 19728, Apr. 1, 2005, as amended at 71 FR 27086, May 9, 2006; 76 FR 26465, May 6, 2011; 83 FR 38619, Aug. 6, 2018; 86 FR 42678, Aug. 4, 2021]

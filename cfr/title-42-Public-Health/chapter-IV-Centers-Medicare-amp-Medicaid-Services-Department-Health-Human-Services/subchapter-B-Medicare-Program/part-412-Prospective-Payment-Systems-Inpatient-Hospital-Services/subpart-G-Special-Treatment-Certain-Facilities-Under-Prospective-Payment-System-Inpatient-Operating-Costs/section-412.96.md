@@ -1,7 +1,5 @@
 ##### § 412.96 Special treatment: Referral centers. #####
 
-Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
-
 (a) *Criteria for classification as a referral center: Basic rule.* CMS classifies a hospital as a referral center only if the hospital is a Medicare participating acute care hospital and meets the applicable criteria of paragraph (b) or (c) of this section.
 
 (b) *Criteria for cost reporting periods beginning on or after October 1, 1983.* The hospital meets either of the following criteria:
@@ -20,19 +18,19 @@ Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
 
 (D) Expansion of acute care beds available for use and permanently maintained for lodging inpatients, excluding beds in corridors and other temporary beds.
 
-(2) The hospital shows that - (i) At least 50 percent of its Medicare patients are referred from other hospitals or from physicians not on the staff of the hospital; and
+(2) The hospital shows that—(i) At least 50 percent of its Medicare patients are referred from other hospitals or from physicians not on the staff of the hospital; and
 
 (ii) At least 60 percent of the hospital's Medicare patients live more than 25 miles from the hospital, and at least 60 percent of all the services that the hospital furnishes to Medicare beneficiaries are furnished to beneficiaries who live more than 25 miles from the hospital.
 
 (c) *Alternative criteria.* For cost reporting periods beginning on or after October 1, 1985, a hospital that does not meet the criteria of paragraph (b) of this section is classified as a referral center if it is located in a rural area (as defined in subpart D of this part) and meets the criteria specified in paragraphs (c)(1) and (c)(2) of this section and at least one of the three criteria specified in paragraphs (c)(3), (c)(4), and (c)(5) of this section.
 
-(1) *Case-mix index.* CMS sets forth national and regional case-mix index values in each year's annual notice of prospective payment rates published under § 412.8(b). The methodology CMS uses to calculate these criteria is described in paragraph (h) of this section. The case-mix index value to be used for an individual hospital in the determination of whether it meets the case-mix index criteria is that calculated by CMS from the hospital's own billing records for Medicare discharges as processed by the fiscal intermediary and submitted to CMS. The hospital's case-mix index for discharges (not including discharges from units excluded from the prospective payment system under subpart B of this part) during the most recent Federal fiscal year that ended at least one year prior to the beginning of the cost reporting period for which the hospital is seeking referral center status must be at least equal to -
+(1) *Case-mix index.* CMS sets forth national and regional case-mix index values in each year's annual notice of prospective payment rates published under § 412.8(b). The methodology CMS uses to calculate these criteria is described in paragraph (h) of this section. The case-mix index value to be used for an individual hospital in the determination of whether it meets the case-mix index criteria is that calculated by CMS from the hospital's own billing records for Medicare discharges as processed by the fiscal intermediary and submitted to CMS. The hospital's case-mix index for discharges (not including discharges from units excluded from the prospective payment system under subpart B of this part) during the same Federal fiscal year used to compute the case mix index values under paragraph (h) of this section must be at least equal to—
 
 (i) For hospitals applying for rural referral center status for cost reporting periods beginning on or after October 1, 1985 and before October 1, 1986, the national or regional case-mix index value; or
 
-(ii) For hospitals applying for rural referral center status for cost - reporting periods beginning on or after October 1, 1986, the national case-mix index value as established by CMS or the median case-mix index value for urban hospitals located in each region. In calculating the median case-mix index for each region, CMS excludes the case-mix indexes of hospitals receiving indirect medical education payments as provided in § 412.105.
+(ii) For hospitals applying for rural referral center status for cost—reporting periods beginning on or after October 1, 1986, the national case-mix index value as established by CMS or the median case-mix index value for urban hospitals located in each region. In calculating the median case-mix index for each region, CMS excludes the case-mix indexes of hospitals receiving indirect medical education payments as provided in § 412.105.
 
-(2) *Number of discharges.* (i) CMS sets forth the national and regional number of discharges in each year's annual notice of prospective payment rates published under § 412.8(b). The methodology CMS uses to calculate these criteria is described in paragraph (i) of this section. Except as provided in paragraph (c)(2)(ii) of this section for an osteopathic hospital, for the hospital's cost reporting period that began during the same fiscal year as the cost reporting periods used to compute the regional median discharges under paragraph (i) of this section, its number of discharges (not including discharges from units excluded from the prospective payments system under subpart B of this part or from newborn units) is at least equal to -
+(2) *Number of discharges.* (i) CMS sets forth the national and regional number of discharges in each year's annual notice of prospective payment rates published under § 412.8(b). The methodology CMS uses to calculate these criteria is described in paragraph (i) of this section. Except as provided in paragraph (c)(2)(ii) of this section for an osteopathic hospital, for the hospital's cost reporting period that began during the same fiscal year as the cost reporting periods used to compute the regional median discharges under paragraph (i) of this section, its number of discharges (not including discharges from units excluded from the prospective payments system under subpart B of this part or from newborn units) is at least equal to—
 
 (A) For hospitals applying for rural referral center status for cost reporting periods beginning on or after October 1, 1985 and before October 1, 1986, the number of discharges under either the national or regional criterion; or
 
@@ -70,7 +68,7 @@ Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
 
 (h) *Methodology for calculating case-mix index criteria.* CMS calculates the national and regional case-mix index value criteria as described in paragraphs (h)(1) through (h)(4) of this section.
 
-(1) *Updating process.* CMS updates the national and regional case-mix index standards using the latest available data from hospitals subject to the prospective payment system for the Federal fiscal year.
+(1) *Updating process.* CMS updates the national and regional case-mix index standards using the best available data from hospitals subject to the prospective payment system for the Federal fiscal year.
 
 (2) *Source of data.* In making the calculations described in paragraph (h)(1) of this section, CMS uses all inpatient hospital bills received for discharges subject to prospective payment during the Federal fiscal year being monitored.
 
@@ -78,9 +76,9 @@ Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
 
 (i) *Methodology for calculating number of discharges criteria.* For purposes of determining compliance with the national or regional number of discharges criterion under paragraph (c)(2) of this section, CMS calculates the criteria as follows:
 
-(1) *Updating process.* CMS updates the national and regional number of discharges using the latest available data for levels of admissions or discharges or both.
+(1) *Updating process.* CMS updates the national and regional number of discharges using the best available data for levels of admissions or discharges or both.
 
-(2) *Source of data.* In making the calculations described in paragraph (i)(1) of this section, CMS uses the most recent hospital admissions or discharge data available.
+(2) *Source of data.* In making the calculations described in paragraph (i)(1) of this section, CMS uses the best available hospital admissions or discharge data.
 
 (3) *Annual notice.* CMS sets forth the national and regional criteria in the annual notice of prospective payment rates published under § 412.8(b). These criteria are compared to an applying hospital's number of discharges for the same cost reporting period used to develop the regional criteria in this section in determining if the hospital qualifies for referral center status for cost reporting periods beginning on or after October 1 of the Federal fiscal year to which the notice applies.
 

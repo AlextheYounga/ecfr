@@ -1,12 +1,10 @@
 ##### § 80.5 Roles and responsibilities. #####
 
-Link to an amendment published at 86 FR 50671, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
-
-The roles and responsibilities of FEMA, the State, the subapplicant/subgrantee, and participating property owners in the particular context of mitigation projects for the purpose of creating open space include the activities in this section. These are in addition to grants management roles and responsibilities identified in regulations and guidance of the program funding the project (available at *http://www.fema.gov*) and other responsibilities specified in this part.
+The roles and responsibilities of FEMA, the State, the subapplicant/subrecipient, and participating property owners in the particular context of mitigation projects for the purpose of creating open space include the activities in this section. These are in addition to grants management roles and responsibilities identified in regulations and guidance of the program funding the project (available at *http://www.fema.gov*) and other responsibilities specified in this part.
 
 (a) *Federal roles and responsibilities.* Oversee property acquisition activities undertaken under FEMA mitigation grant programs, including:
 
-(1) Providing technical assistance to the applicant/grantee to assist in implementing project activities in compliance with this part;
+(1) Providing technical assistance to the applicant/recipient to assist in implementing project activities in compliance with this part;
 
 (2) Reviewing applications for eligibility and compliance with this part;
 
@@ -14,19 +12,19 @@ The roles and responsibilities of FEMA, the State, the subapplicant/subgrantee, 
 
 (4) Making determinations on the compatibility of proposed uses with the open space purpose, in accordance with § 80.19;
 
-(5) Complying with applicable Federal statutory, regulatory, and Executive Order requirements related to environmental and historic preservation compliance, including reviewing and supplementing, if necessary, environmental analyses conducted by the State and subgrantee in accordance with applicable laws, regulations, and agency policy;
+(5) Complying with applicable Federal statutory, regulatory, and Executive Order requirements related to environmental and historic preservation compliance, including reviewing and supplementing, if necessary, environmental analyses conducted by the State and subrecipient in accordance with applicable laws, regulations, and agency policy;
 
 (6) Providing no Federal disaster assistance, flood insurance claims payments, or other FEMA assistance with respect to the property or any open-space related improvements, after the property interest transfers; and
 
 (7) Enforcing the requirements of this part and the deed restrictions to ensure that the property remains in open space use in perpetuity.
 
-(b) *State (applicant/grantee) roles and responsibilities.* Serve as the point of contact for all property acquisition activities by coordinating with the subapplicant/subgrantee and with FEMA to ensure that the project is implemented in compliance with this part, including:
+(b) *State (applicant/recipient) roles and responsibilities.* Serve as the point of contact for all property acquisition activities by coordinating with the subapplicant/subrecipient and with FEMA to ensure that the project is implemented in compliance with this part, including:
 
-(1) Providing technical assistance to the subapplicant/subgrantee to assist in implementing project activities in compliance with this part;
+(1) Providing technical assistance to the subapplicant/subrecipient to assist in implementing project activities in compliance with this part;
 
 (2) Ensuring that applications are not framed in a manner that has the effect of circumventing any requirements of this part;
 
-(3) Reviewing the application to ensure that the proposed activity complies with this part, including ensuring that the property acquisition activities remain voluntary in nature, and that the subgrantee and property owners are made aware of such;
+(3) Reviewing the application to ensure that the proposed activity complies with this part, including ensuring that the property acquisition activities remain voluntary in nature, and that the subrecipient and property owners are made aware of such;
 
 (4) Submitting to FEMA subapplications for proposed projects in accordance with the respective program schedule and programmatic requirements, and including all the requisite information to enable FEMA to determine the eligibility, technical feasibility, cost effectiveness, and environmental and historic preservation compliance of the proposed projects;
 
@@ -38,9 +36,9 @@ The roles and responsibilities of FEMA, the State, the subapplicant/subgrantee, 
 
 (8) Reporting on property compliance with the open space requirements after the grant is awarded.
 
-(c) *Subapplicant/Subgrantee roles and responsibilities.* Coordinate with the applicant/grantee and with the property owners to ensure that the project is implemented in compliance with this part, including:
+(c) *Subapplicant/Subrecipient roles and responsibilities.* Coordinate with the applicant/recipient and with the property owners to ensure that the project is implemented in compliance with this part, including:
 
-(1) Submitting all applications for proposed projects in accordance with the respective program schedule and programmatic requirements, and including all the requisite information to enable the applicant/grantee and FEMA to determine the eligibility, technical feasibility, cost effectiveness, and environmental and historic preservation compliance of the proposed projects;
+(1) Submitting all applications for proposed projects in accordance with the respective program schedule and programmatic requirements, and including all the requisite information to enable the applicant/recipient and FEMA to determine the eligibility, technical feasibility, cost effectiveness, and environmental and historic preservation compliance of the proposed projects;
 
 (2) Ensuring that applications are not framed in a manner that has the effect of circumventing any requirements of this part;
 
@@ -52,12 +50,12 @@ The roles and responsibilities of FEMA, the State, the subapplicant/subgrantee, 
 
 (6) Making no application for Federal disaster assistance, flood insurance, or other FEMA benefits for the property or any open-space related improvements, after the property interest transfers;
 
-(7) Taking and retaining full property interest, consistent with this part; or if transferring such interest, obtaining approval of the grantee and FEMA;
+(7) Taking and retaining full property interest, consistent with this part; or if transferring such interest, obtaining approval of the recipient and FEMA;
 
-(8) Submitting to the grantee and FEMA proposed uses on the property for open space compatibility determinations; and
+(8) Submitting to the recipient and FEMA proposed uses on the property for open space compatibility determinations; and
 
 (9) Monitoring and reporting on property compliance after the grant is awarded.
 
-(d) *Participating property owner roles and responsibilities.* Notify the subapplicant/subgrantee of its interest to participate, provide information to the subapplicant/subgrantee, and take all required actions necessary for the completion of the grant application and the implementation of property acquisition activities in accordance with this part.
+(d) *Participating property owner roles and responsibilities.* Notify the subapplicant/subrecipient of its interest to participate, provide information to the subapplicant/subrecipient, and take all required actions necessary for the completion of the grant application and the implementation of property acquisition activities in accordance with this part.
 
-[72 FR 61743, Oct. 31, 2007, as amended at 81 FR 56533, Aug. 22, 2016]
+[72 FR 61743, Oct. 31, 2007, as amended at 81 FR 56533, Aug. 22, 2016; 86 FR 50671, Sept. 10, 2021]

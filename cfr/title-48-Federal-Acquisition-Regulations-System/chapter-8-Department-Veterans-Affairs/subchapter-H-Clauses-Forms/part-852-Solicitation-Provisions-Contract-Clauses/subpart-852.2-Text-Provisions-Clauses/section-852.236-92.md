@@ -1,5 +1,7 @@
 ##### 852.236-92 Notice to bidders - additive or deductive bid line items. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 836.580, insert the following provision:
 
 Notice to Bidders - Additive or Deductive Bid Line Items (APR 2019)

@@ -1,7 +1,5 @@
 ##### § 414.402 Definitions. #####
 
-Link to an amendment published at 86 FR 42422, Aug. 4, 2021.
-
 For purposes of this subpart, the following definitions apply:
 
 *Affected party* means a contract supplier that has been notified that their DMEPOS CBP contract will be terminated for a breach of contract.
@@ -24,7 +22,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Covered document* means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet the required financial standards.
 
-*Covered document review date* means the later of -
+*Covered document review date* means the later of—
 
 (1) The date that is 30 days before the final date for the closing of the bid window; or
 
@@ -50,7 +48,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Item* means a product included in a competitive bidding program that is identified by a HCPCS code, which may be specified for competitive bidding (for example, a product when it is furnished through mail order), or a combination of codes and/or modifiers, and includes the services directly related to the furnishing of that product to the beneficiary. Items that may be included in a competitive bidding program are:
 
-(1) Durable medical equipment (DME) other than class III devices under the Federal Food, Drug and Cosmetic Act, as defined in § 414.202 of this part and group 3 complex rehabilitative wheelchairs and further classified into the following categories:
+(1) Durable medical equipment (DME) other than class III devices under the Federal Food, Drug and Cosmetic Act, as defined in § 414.202, group 3 complex rehabilitative power wheelchairs, complex rehabilitative manual wheelchairs, manual wheelchairs described by HCPCS codes E1235, E1236, E1237, E1238, and K0008, and related accessories when furnished in connection with such wheelchairs, and further classified into the following categories:
 
 (i) Inexpensive or routinely purchased items, as specified in § 414.220(a).
 
@@ -116,4 +114,4 @@ For purposes of this subpart, the following definitions apply:
 
 *Weighted bid* means the item weight multiplied by the bid price submitted for that item.
 
-[72 FR 18084, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73622, Nov. 29, 2010; 76 FR 70314, Nov. 10, 2011; 81 FR 77966, Nov. 4, 2016; 83 FR 21925, May 11, 2018; 83 FR 57072, Nov. 14, 2018]
+[72 FR 18084, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73622, Nov. 29, 2010; 76 FR 70314, Nov. 10, 2011; 81 FR 77966, Nov. 4, 2016; 83 FR 21925, May 11, 2018; 83 FR 57072, Nov. 14, 2018; 86 FR 42422, Aug. 4, 2021]

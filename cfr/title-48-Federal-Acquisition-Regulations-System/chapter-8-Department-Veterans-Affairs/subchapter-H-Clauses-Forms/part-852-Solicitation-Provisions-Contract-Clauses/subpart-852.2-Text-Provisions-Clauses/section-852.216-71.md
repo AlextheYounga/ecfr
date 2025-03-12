@@ -1,5 +1,7 @@
 ##### 852.216-71 Economic price adjustment of contract price(s) based on a price index. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 816.203-4(e)(1), insert the following clause:
 
 Economic Price Adjustment of Contract Price(s) Based on a Price Index (MAR 2018)

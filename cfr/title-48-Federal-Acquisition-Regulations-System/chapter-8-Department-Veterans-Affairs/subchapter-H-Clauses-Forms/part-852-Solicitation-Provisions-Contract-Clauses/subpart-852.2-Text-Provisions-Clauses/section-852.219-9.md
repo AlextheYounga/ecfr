@@ -1,5 +1,7 @@
 ##### 852.219-9 VA Small business subcontracting plan minimum requirements. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in subpart 819.709, insert the following clause:
 
 VA Small Business Subcontracting Plan Minimum Requirements (DEC 2009)

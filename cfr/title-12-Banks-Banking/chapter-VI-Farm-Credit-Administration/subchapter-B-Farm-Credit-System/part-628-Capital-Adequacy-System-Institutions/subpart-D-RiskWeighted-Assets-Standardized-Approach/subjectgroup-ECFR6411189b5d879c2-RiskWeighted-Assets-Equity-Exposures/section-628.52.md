@@ -1,5 +1,7 @@
 ##### § 628.52 Simple risk-weight approach (SRWA). #####
 
+Link to an amendment published at 86 FR 54360, Oct. 1, 2021.
+
 (a) *General.* Under the SRWA, a System institution's total risk-weighted assets for equity exposures equals the sum of the risk-weighted asset amounts for each of the System institution's individual equity exposures (other than equity exposures to an investment fund) as determined under this section and the risk-weighted asset amounts for each of the System institution's individual equity exposures to an investment fund as determined under § 628.53.
 
 (b) *SRWA computation for individual equity exposures.* A System institution must determine the risk-weighted asset amount for an individual equity exposure (other than an equity exposure to an investment fund) by multiplying the adjusted carrying value of the equity exposure or the effective portion and ineffective portion of a hedge pair (as defined in paragraph (c) of this section) by the lowest applicable risk weight in this paragraph.

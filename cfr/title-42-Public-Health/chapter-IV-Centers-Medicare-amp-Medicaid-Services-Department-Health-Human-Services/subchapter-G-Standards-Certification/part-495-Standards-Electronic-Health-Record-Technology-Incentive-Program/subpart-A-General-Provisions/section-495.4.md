@@ -1,8 +1,6 @@
 ##### § 495.4 Definitions. #####
 
-Link to an amendment published at 86 FR 45521, Aug. 13, 2021.
-
-In this part, unless otherwise indicated -
+In this part, unless otherwise indicated—
 
 *Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.
 
@@ -14,11 +12,11 @@ In this part, unless otherwise indicated -
 
 (i) The 2014 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the certification criteria that are necessary to be a Meaningful EHR User (as defined in this section), including the applicable measure calculation certification criterion at 45 CFR 170.314(g)(1) or (2) for all certification criteria that support a meaningful use objective with a percentage-based measure.
 
-(ii) Certification to -
+(ii) Certification to—
 
 (A) The following certification criteria:
 
-(*1*) CPOE at -
+(*1*) CPOE at—
 
 (*i*) 45 CFR 170.314(a)(1), (18), (19) or (20); or
 
@@ -88,7 +86,7 @@ In this part, unless otherwise indicated -
 
 (*xxi*) 45 CFR 170.315(b)(1), (h)(1), and (h)(2); and
 
-(B) Clinical quality measures at -
+(B) Clinical quality measures at—
 
 (*1*) 45 CFR 170.314(c)(1) or 170.315(c)(1);
 
@@ -96,7 +94,7 @@ In this part, unless otherwise indicated -
 
 (*3*) Clinical quality measure certification criteria that support the calculation and reporting of clinical quality measures at 45 CFR 170.314(c)(2) and (3); or 45 CFR 170.315(c)(3)(i) and (ii); and can be electronically accepted by CMS if the provider is submitting electronically.
 
-(C) Privacy and security at -
+(C) Privacy and security at—
 
 (*1*) 45 CFR 170.314(d)(1) or 170.315(d)(1);
 
@@ -118,7 +116,7 @@ In this part, unless otherwise indicated -
 
 (iii) The definition for 2019 and subsequent years specified in paragraph (2) of this definition.
 
-(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria -
+(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria—
 
 (i) At 45 CFR 170.315(a)(12) (family health history) and 45 CFR 170.315(e)(3) (patient health information capture); and
 
@@ -132,7 +130,7 @@ In this part, unless otherwise indicated -
 
 *EHR reporting period.* Except with respect to payment adjustment years, EHR reporting period means either of the following:
 
-(1) For an eligible EP -
+(1) For an eligible EP—
 
 (i) The following are applicable before 2015:
 
@@ -194,7 +192,7 @@ In this part, unless otherwise indicated -
 
 (B) For the EP who has successfully demonstrated he or she is a meaningful EHR user in any prior year, any continuous 90-day period within CY 2021 that ends before October 31, 2021, or that ends before an earlier date in CY 2021 that is specified by the state and approved by CMS in the State Medicaid HIT plan described at § 495.332.
 
-(2) For an eligible hospital or CAH -
+(2) For an eligible hospital or CAH—
 
 (i) The following are applicable before 2015:
 
@@ -268,7 +266,7 @@ In this part, unless otherwise indicated -
 
 *EHR reporting period for a payment adjustment year.* For a payment adjustment year, the EHR reporting period means the following:
 
-(1) For an EP -
+(1) For an EP—
 
 (i) The following are applicable before 2015:
 
@@ -302,7 +300,7 @@ In this part, unless otherwise indicated -
 
 (*2*) [Reserved]
 
-(2) For an eligible hospital -
+(2) For an eligible hospital—
 
 (i) The following are applicable before 2015:
 
@@ -368,7 +366,19 @@ In this part, unless otherwise indicated -
 
 (B) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2022 and applies for the FY 2024 payment adjustment year.
 
-(3) For a CAH -
+(vii) The following are applicable for 2023:
+
+(A) If an eligible hospital has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 90-day period within CY 2023 and applies for the FY 2024 and 2025 payment adjustment years. For the FY 2024 payment adjustment year, the EHR reporting period must end before and the eligible hospital must successfully register for and attest to meaningful use no later than October 1, 2023.
+
+(B) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2023 and applies for the FY 2025 payment adjustment year.
+
+(viii) The following are applicable for 2024:
+
+(A) If an eligible hospital has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 180-day period within CY 2024 and applies for the FY 2025 and 2026 payment adjustment years. For the FY 2025 payment adjustment year, the EHR reporting period must end before and the eligible hospital must successfully register for and attest to meaningful use no later than October 1, 2024.
+
+(B) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 180-day period within CY 2024 and applies for the FY 2026 payment adjustment year.
+
+(3) For a CAH—
 
 (i) The following are applicable before 2015:
 
@@ -428,6 +438,18 @@ In this part, unless otherwise indicated -
 
 (B) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2022 and applies for the FY 2022 payment adjustment year.
 
+(vii) The following are applicable for 2023:
+
+(A) If a CAH has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 90-day period within CY 2023 and applies for the FY 2023 payment adjustment year.
+
+(B) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2023 and applies for the FY 2023 payment adjustment year.
+
+(viii) The following are applicable for 2024:
+
+(A) If a CAH has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 180-day period within CY 2024 and applies for the FY 2024 payment adjustment year.
+
+(B) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 180-day period within CY 2024 and applies for the FY 2024 payment adjustment year.
+
 *Eligible hospital* means an eligible hospital as defined under § 495.100 or Medicaid eligible hospital under subpart D of this part.
 
 *Eligible professional (EP)* means an eligible professional as defined under § 495.100 or a Medicaid eligible professional under subpart D of this part.
@@ -446,11 +468,11 @@ In this part, unless otherwise indicated -
 
 *Hospital-based EP.* Unless it meets the requirements of § 495.5, a hospital-based EP means an EP who furnishes 90 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an inpatient hospital or emergency room setting in the year preceding the payment year, or in the case of a payment adjustment year, in either of the 2 years before the year preceding such payment adjustment year.
 
-(1) For Medicare, this is calculated based on -
+(1) For Medicare, this is calculated based on—
 
 (i) The Federal fiscal year preceding the payment year; and
 
-(ii) For the payment adjustments, based on -
+(ii) For the payment adjustments, based on—
 
 (A) The Federal fiscal year 2 years before the payment adjustment year; or
 
@@ -460,9 +482,17 @@ In this part, unless otherwise indicated -
 
 (3) For the CY 2013 payment year only, an EP who furnishes services billed by a CAH receiving payment under Method II (as described in § 413.70(b)(3) of this chapter) is considered to be hospital-based if 90 percent or more of his or her covered professional services are furnished in sites of service identified by the codes used in the HIPAA standard transaction as an inpatient hospital or emergency room setting in each of the Federal fiscal years 2012 and 2013.
 
-*Meaningful EHR user* means -
+*Meaningful EHR user* means all of the following:
 
-(1) Subject to paragraph (3) of this definition, an EP, eligible hospital or CAH that, for an EHR reporting period for a payment year or payment adjustment year, demonstrates in accordance with § 495.40 meaningful use of certified EHR technology by meeting the applicable objectives and associated measures under §§ 495.20, 495.22, and 495.24, supporting information exchange and the prevention of health information blocking and engaging in activities related to supporting providers with the performance of CEHRT, and successfully reporting the clinical quality measures selected by CMS to CMS or the States, as applicable, in the form and manner specified by CMS or the States, as applicable; and
+(1) Subject to paragraph (3) of this definition, an EP, eligible hospital or CAH that, for an EHR reporting period for a payment year or payment adjustment year—
+
+(i) Demonstrates in accordance with § 495.40 meaningful use of certified EHR technology by meeting the applicable objectives and associated measures under §§ 495.20, 495.22, 495.24;
+
+(ii) Does not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of CEHRT;
+
+(iii) Engages in activities related to supporting providers with the performance of CEHRT; and
+
+(iv) Successfully reports the clinical quality measures selected by CMS to CMS or the States, as applicable, in the form and manner specified by CMS or the States, as applicable.
 
 (2)(i) Except as specified in paragraph (2)(ii) of this definition, a Medicaid EP or Medicaid eligible hospital, that meets the requirements of paragraph (1) of this definition and any additional criteria for meaningful use imposed by the State and approved by CMS under §§ 495.316 and 495.332.
 
@@ -488,4 +518,4 @@ In this part, unless otherwise indicated -
 
 *Qualified EHR* has the same definition as this term is defined at 45 CFR 170.102.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41706, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42615, Aug. 16, 2019; 85 FR 59026, Sept. 18, 2020]
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41706, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42615, Aug. 16, 2019; 85 FR 59026, Sept. 18, 2020; 86 FR 45521, Aug. 13, 2021]

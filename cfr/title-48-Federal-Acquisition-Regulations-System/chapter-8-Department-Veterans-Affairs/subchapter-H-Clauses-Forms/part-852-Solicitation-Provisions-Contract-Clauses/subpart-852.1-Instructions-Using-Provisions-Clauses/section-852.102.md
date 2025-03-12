@@ -1,5 +1,7 @@
 ##### 852.102 Incorporating provisions and clauses. #####
 
+Link to an amendment published at 86 FR 54403, Oct. 1, 2021.
+
 (a) As authorized by FAR 52.102(c), any 48 CFR chapter 8 (VAAR) provision or clause may be incorporated in a quotation, solicitation, or contract by reference, provided the contracting officer complies with the requirements stated in FAR 52.102(c)(1), (c)(2), and (c)(3). To ensure compliance with FAR 52.102(c)(1) and (c)(2), contracting officers shall insert the provision found at 852.252-70, Solicitation provisions or clauses incorporated by reference, in full text in a quotation, solicitation, or contract if the quotation, solicitation, or contract incorporates by reference a FAR or 48 CFR chapter 8 (VAAR) provision or clause that requires completion by the offeror or prospective contractor and submittal with the quotation or offer.
 
 (b) For any FAR or 48 CFR Capter 8 (VAAR) provision or clause that requires completion by the contracting officer, the contracting officer shall, as a minimum, insert the title of the provision or clause and the paragraph that requires completion in full text in the quotation, solicitation, or contract. The balance of the provision or clause may be incorporated by reference.

@@ -1,12 +1,10 @@
 ##### § 412.140 Participation, data submission, and validation requirements under the Hospital Inpatient Quality Reporting (IQR) Program. #####
 
-Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
-
 (a) *Participation in the Hospital IQR Program.* In order to participate in the Hospital IQR Program, a section 1886(d) of the hospital must-
 
-(1) Register on QualityNet.org, before it begins to report data;
+(1) Register on QualityNet website, before it begins to report data;
 
-(2) Identify and register a QualityNet Administrator as part of the registration process under paragraph (a)(1) of this section; and
+(2) Identify and register a QualityNet security official as part of the registration process under paragraph (a)(1) of this section; and
 
 (3) Submit a completed Notice of Participation Form to CMS if the hospital is participating in the program for the first time, has previously withdrawn from the program and would like to participate again, or has received a new CMS Certification Number (CCN).
 
@@ -24,7 +22,7 @@ Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
 
 (2) *Extraordinary circumstances exceptions.* CMS may grant an exception with respect to quality data reporting requirements in the event of extraordinary circumstances beyond the control of the hospital. CMS may grant an exception as follows:
 
-(i) For circumstances not relating to the reporting of electronic clinical quality measure data, a hospital participating in the Hospital IQR Program that wishes to request an exception with respect to quality data reporting requirements must submit its request to CMS within 90 days of the date that the extraordinary circumstances occurred. For circumstances relating to the reporting of electronic clinical quality measures, a hospital participating in the Hospital IQR Program that wishes to request an exception must submit its request to CMS by April 1 following the end of the reporting calendar year in which the extraordinary circumstances occurred. Specific requirements for submission of a request for an exception are available on QualityNet.org.
+(i) For circumstances not relating to the reporting of electronic clinical quality measure data, a hospital participating in the Hospital IQR Program that wishes to request an exception with respect to quality data reporting requirements must submit its request to CMS within 90 days of the date that the extraordinary circumstances occurred. For circumstances relating to the reporting of electronic clinical quality measures, a hospital participating in the Hospital IQR Program that wishes to request an exception must submit its request to CMS by April 1 following the end of the reporting calendar year in which the extraordinary circumstances occurred. Specific requirements for submission of a request for an exception are available on QualityNet website.
 
 (ii) CMS may grant an exception to one or more hospitals that have not requested an exception if: CMS determines that a systemic problem with CMS data collection systems directly affected the ability of the hospital to submit data; or if CMS determines that an extraordinary circumstance has affected an entire region or locale.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
 
 (ii) The name of the hospital;
 
-(iii) Contact information for the hospital's chief executive officer and QualityNet system administrator, including each individual's name, e-mail address, telephone number, and physical mailing address;
+(iii) Contact information for the hospital's chief executive officer and QualityNet security official, including each individual's name, e-mail address, telephone number, and physical mailing address;
 
 (iv) A summary of the reason(s), as set forth in the Hospital Inpatient Quality Reporting Program Annual Payment Update Notification Letter, that CMS concluded the hospital did not meet the requirements of the Hospital IQR Program;
 
@@ -66,4 +64,4 @@ Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
 
 (2) CMS approves an application for an entity to administer the HCAHPS survey as an approved HCAHPS survey vendor on behalf of one or more hospitals when an applicant has met the Minimum Survey Requirements and Rules of Participation that can be found on the official HCAHPS On-Line Web site, and agree to comply with the current survey administration protocols that can be found on the official HCAHPS On-Line Web site. An entity must be an approved HCAHPS survey vendor in order to administer and submit HCAHPS data to CMS on behalf of one or more hospitals.
 
-[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 82 FR 38511, Aug. 14, 2017]
+[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 82 FR 38511, Aug. 14, 2017; 86 FR 45520, Aug. 13, 2021]

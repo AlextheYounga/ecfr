@@ -1,7 +1,5 @@
 ##### § 412.167 Appeal under the Hospital Value-Based Purchasing (VBP) Program. #####
 
-Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
-
 (a) A hospital may appeal the following issues:
 
 (1) CMS' decision to deny a hospital's correction request that the hospital submitted under the review and corrections process;
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
 
 (4) CEO contact information, including name, email address, telephone number, and mailing address (must include the physical address, not just the post office box).
 
-(5) QualityNet System Administrator contact information, including name, email address, telephone number, and mailing address (must include the physical address, not just the post office box).
+(5) QualityNet security official contact information, including name, email address, telephone number, and mailing address (must include the physical address, not just the post office box).
 
 (c) If a hospital is dissatisfied with CMS' decision on an appeal request submitted under paragraph (b) of this section, the hospital may request an independent CMS review of that decision.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 86 FR 45520, Aug. 13, 2021.
 
 (6) The validation methodology that is specified under section 1886(b)(3)(B)(viii)(XI) of the Act.
 
-[50 FR 12741, Mar. 29, 1985, as amended at 78 FR 75196, Dec. 10, 2013]
+[50 FR 12741, Mar. 29, 1985, as amended at 78 FR 75196, Dec. 10, 2013; 86 FR 45520, Aug. 13, 2021]

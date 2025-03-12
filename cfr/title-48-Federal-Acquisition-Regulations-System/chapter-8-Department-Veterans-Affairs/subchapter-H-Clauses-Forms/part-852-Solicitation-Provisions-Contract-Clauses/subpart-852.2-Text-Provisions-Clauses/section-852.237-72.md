@@ -1,5 +1,7 @@
 ##### 852.237-72 Crime Control Act - reporting of child abuse. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 837.403-70(c), insert the following clause:
 
 Crime Control Act - Reporting of Child Abuse (OCT 2019)

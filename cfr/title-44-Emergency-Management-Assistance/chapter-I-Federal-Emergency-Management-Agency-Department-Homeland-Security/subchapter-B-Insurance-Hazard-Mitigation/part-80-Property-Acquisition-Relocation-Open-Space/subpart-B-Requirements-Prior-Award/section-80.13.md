@@ -1,14 +1,12 @@
 ##### § 80.13 Application information. #####
 
-Link to an amendment published at 86 FR 50671, Sept. 10, 2021.The effective date of this amendment was corrected to read Oct. 1, 2021, at 86 FR 51832, Sept. 17, 2021.
-
 (a) An application for acquisition of property for the purpose of open space must include:
 
 (1) A photograph that represents the appearance of each property site at the time of application;
 
 (2) Assurances that the subapplicant will implement the project grant award in compliance with subparts C and D of this part;
 
-(3) The deed restriction language, which shall be consistent with the FEMA model deed restriction that the local government will record with the property deeds. Any variation from the model deed restriction language can only be made with prior approval from FEMA's Office of General Counsel;
+(3) The deed restriction language, which must be consistent with the FEMA model deed restriction that the local government will record with the property deeds. Any variation from the model deed restriction language can only be made with prior approval from FEMA's Office of Chief Counsel;
 
 (4) The documentation of voluntary interest signed by each property owner, which must include that the subapplicant has informed them in writing that it will not use its eminent domain authority for the open space purpose; and
 
@@ -24,4 +22,4 @@ Link to an amendment published at 86 FR 50671, Sept. 10, 2021.The effective date
 
 (c) *Restriction on alternate properties.* Changes to the properties in an approved mitigation project will be considered by FEMA but not approved automatically. The subapplicant must identify the alternate properties in the project application and each alternate property must meet eligibility requirements in order to be considered.
 
-[72 FR 61743, Oct. 31, 2007, as amended at 74 FR 47481, Sept. 16, 2009]
+[72 FR 61743, Oct. 31, 2007, as amended at 74 FR 47481, Sept. 16, 2009; 86 FR 50671, Sept. 10, 2021]

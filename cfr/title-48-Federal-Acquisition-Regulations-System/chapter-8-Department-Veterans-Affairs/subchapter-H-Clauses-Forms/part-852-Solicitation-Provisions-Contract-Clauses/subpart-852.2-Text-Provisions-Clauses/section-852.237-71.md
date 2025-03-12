@@ -1,5 +1,7 @@
 ##### 852.237-71 Nonsmoking policy for children's services. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 837.403-70(b), insert the following clause:
 
 Nonsmoking Policy for Children's Services (OCT 2019)

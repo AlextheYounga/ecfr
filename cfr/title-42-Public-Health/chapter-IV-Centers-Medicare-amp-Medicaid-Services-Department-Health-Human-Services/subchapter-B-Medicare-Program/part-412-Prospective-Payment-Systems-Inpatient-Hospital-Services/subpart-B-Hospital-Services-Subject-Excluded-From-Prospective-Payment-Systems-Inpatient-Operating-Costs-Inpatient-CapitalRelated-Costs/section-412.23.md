@@ -1,10 +1,8 @@
 ##### § 412.23 Excluded hospitals: Classifications. #####
 
-Link to an amendment published at 86 FR 45518, Aug. 13, 2021.
-
 Hospitals that meet the requirements for the classifications set forth in this section are not reimbursed under the prospective payment systems specified in § 412.1(a)(1):
 
-(a) *Psychiatric hospitals.* A psychiatric hospital must -
+(a) *Psychiatric hospitals.* A psychiatric hospital must—
 
 (1) Meet the following requirements to be excluded from the prospective payment system as specified in § 412.1(a)(1) and to be paid under the prospective payment system as specified in § 412.1(a)(2) and in subpart N of this part;
 
@@ -16,7 +14,7 @@ Hospitals that meet the requirements for the classifications set forth in this s
 
 (c) [Reserved]
 
-(d) *Children's hospitals.* A children's hospital must -
+(d) *Children's hospitals.* A children's hospital must—
 
 (1) Have a provider agreement under part 489 of this chapter to participate as a hospital; and
 
@@ -44,7 +42,7 @@ Hospitals that meet the requirements for the classifications set forth in this s
 
 (vii) For cost reporting periods beginning on or after October 1, 2019, the Medicare inpatient days and discharges that are associated with patients discharged from a unit of the hospital will not be included in the calculation of the Medicare inpatient average length of stay specified under paragraph (e)(2)(i) of this section.
 
-(4) *Rules applicable to new long-term care hospitals* - (i) *Definition.* For purposes of payment under the long-term care hospital prospective payment system under subpart O of this part, a new long-term care hospital is a provider of inpatient hospital services that meets the qualifying criteria in paragraphs (e)(1) and (e)(2) of this section and, under present or previous ownership (or both), its first cost reporting period as a LTCH begins on or after October 1, 2002.
+(4) *Rules applicable to new long-term care hospitals*—(i) *Definition.* For purposes of payment under the long-term care hospital prospective payment system under subpart O of this part, a new long-term care hospital is a provider of inpatient hospital services that meets the qualifying criteria in paragraphs (e)(1) and (e)(2) of this section and, under present or previous ownership (or both), its first cost reporting period as a LTCH begins on or after October 1, 2002.
 
 (ii) *Satellite facilities and remote locations of hospitals seeking to become new long-term care hospitals.* Except as specified in paragraph (e)(4)(iii) of this section, a satellite facility (as defined in § 412.22(h)) or a remote location of a hospital (as defined in § 413.65(a)(2) of this chapter) that voluntarily reorganizes as a separate Medicare participating hospital, with or without a concurrent change in ownership, and that seeks to qualify as a new long-term care hospital for Medicare payment purposes must demonstrate through documentation that it meets the average length of stay requirement as specified under paragraphs (e)(2)(i) or (e)(2)(ii) of this section based on discharges that occur on or after the effective date of its participation under Medicare as a separate hospital.
 
@@ -58,7 +56,7 @@ Hospitals that meet the requirements for the classifications set forth in this s
 
 (iii) Is not part of a hospital that provides inpatient services in a building also used by another hospital.
 
-(6) *Moratorium on the establishment of new long-term care hospitals and long-term care hospital satellite facilities* - (i) *General rule.* Except as specified in paragraphs (e)(6)(ii) and (e)(6)(iii) of this section for the period beginning December 29, 2007 and ending December 28, 2012, and the period beginning April 1, 2014 and ending September 30, 2017, a moratorium applies to the establishment and classification of a long-term care hospital as described in paragraphs (e) and (e)(1) through (e)(5) of this section or a long-term care hospital satellite facility as described in § 412.22(h).
+(6) *Moratorium on the establishment of new long-term care hospitals and long-term care hospital satellite facilities*—(i) *General rule.* Except as specified in paragraphs (e)(6)(ii) and (e)(6)(iii) of this section for the period beginning December 29, 2007 and ending December 28, 2012, and the period beginning April 1, 2014 and ending September 30, 2017, a moratorium applies to the establishment and classification of a long-term care hospital as described in paragraphs (e) and (e)(1) through (e)(5) of this section or a long-term care hospital satellite facility as described in § 412.22(h).
 
 (ii) *Exception.* The moratorium specified in paragraph (e)(6)(i) of this section is not applicable to the establishment and classification of a long-term care hospital that meets the requirements of paragraphs (e) introductory text and (e)(1) through (e)(5) of this section, or a long-term care hospital satellite facility that meets the requirements of § 412.22(h), if the long-term care hospital or long-term care satellite facility meets one or more of the following criteria on or before December 27, 2007, or prior to April 1, 2014, as applicable:
 
@@ -74,11 +72,11 @@ Hospitals that meet the requirements for the classifications set forth in this s
 
 (7) *Moratorium on increasing the number of beds in existing long-term care hospitals and existing long-term care hospital satellite facilities.* (i) For purposes of this paragraph, an existing long-term care hospital or long-term care hospital satellite facility means a long-term care hospital that meets the requirements of paragraph(e) of this section or a long-term care hospital satellite facility that meets the requirements of § 412.22(h) that received payment under the provisions of subpart O of this part prior to the dates noted in the following moratorium clauses.
 
-(ii) December 29, 2007, through December 28, 2007 -
+(ii) December 29, 2007, through December 28, 2007—
 
 (A) Except as specified in paragraph (e)(7)(ii)(B) and (C) of this section, the number of Medicare-certified beds in an existing long-term care hospital or an existing long-term care hospital satellite facility as defined in paragraph (e)(7)(i) of this section must not be increased beyond the number of Medicare-certified beds on December 29, 2007.
 
-(B) Except as specified in paragraph (e)(7)(ii)(C) of this section, the moratorium specified in paragraph (e)(7)(ii)(A) of this section is not applicable to -
+(B) Except as specified in paragraph (e)(7)(ii)(C) of this section, the moratorium specified in paragraph (e)(7)(ii)(A) of this section is not applicable to—
 
 (*1*) An existing long-term care hospital or existing long-term care hospital satellite facility as defined in paragraph (e)(7)(i) of this section that meets both of the following requirements:
 
@@ -94,11 +92,11 @@ Hospitals that meet the requirements for the classifications set forth in this s
 
 (C) The exceptions specified in paragraph (e)(7)(ii)(B) of this section do not affect the limitation on increasing beds under § 412.22(f) and § 412.22(h)(3) of subpart.
 
-(iii) April 1, 2014 through September 30, 2017 - The number of Medicare-certified beds in an existing long-term care hospital or an existing long-term care hospital satellite facility must not be increased beyond the number of Medicare-certified beds prior to April 1, 2014, unless one of the exceptions specified in paragraph (e)(6)(ii) of this section is met.
+(iii) April 1, 2014 through September 30, 2017—The number of Medicare-certified beds in an existing long-term care hospital or an existing long-term care hospital satellite facility must not be increased beyond the number of Medicare-certified beds prior to April 1, 2014, unless one of the exceptions specified in paragraph (e)(6)(ii) of this section is met.
 
 (8) *Application of LTCH moratorium on the increase in beds at section 114(d)(1)(B) of Public Law 110-173 to LTCHs and LTCH satellite facilities established or classified as such under section 114(d)(2) of Public Law 110-173.* Effective for the period beginning October 1, 2011, and ending December 28, 2012, for long-term care hospitals and long-term care hospital satellite facilities established under paragraph (e)(6)(ii) of this section for the period beginning December 29, 2007, and ending September 30, 2011, the moratorium under paragraph (e)(7) of this section applies and the number of Medicare-certified beds must not be increased beyond the number of beds that were certified by Medicare at the long-term care hospital or the long-term care hospital satellite facility as of October 1, 2011.
 
-(f) *Cancer hospitals* - (1) *General rule.* Except as provided in paragraph (f)(2) of this section, if a hospital meets the following criteria, it is classified as a cancer hospital and is excluded from the prospective payment systems beginning with its first cost reporting period beginning on or after October 1, 1989. A hospital classified after December 19, 1989, is excluded beginning with its first cost reporting period beginning after the date of its classification.
+(f) *Cancer hospitals*—(1) *General rule.* Except as provided in paragraph (f)(2) of this section, if a hospital meets the following criteria, it is classified as a cancer hospital and is excluded from the prospective payment systems beginning with its first cost reporting period beginning on or after October 1, 1989. A hospital classified after December 19, 1989, is excluded beginning with its first cost reporting period beginning after the date of its classification.
 
 (i) It was recognized as a comprehensive cancer center or clinical cancer research center by the National Cancer Institute of the National Institutes of Health as of April 20, 1983.
 
@@ -108,13 +106,15 @@ Hospitals that meet the requirements for the classifications set forth in this s
 
 (iv) It shows that at least 50 percent of its total discharges have a principal diagnosis that reflects a finding of neoplastic disease. (The principal diagnosis for this purpose is defined as the condition established after study to be chiefly responsible for occasioning the admission of the patient to the hospital. For the purposes of meeting this definition, only discharges with ICD-9-CM principal diagnosis codes of 140 through 239, V58.0, V58.1, V66.1, V66.2, or 990 will be considered to reflect neoplastic disease.)
 
-(2) *Alternative.* A hospital that applied for and was denied, on or before December 31, 1990, classification as a cancer hospital under the criteria set forth in paragraph (f)(1) of this section is classified as a cancer hospital and is excluded from the prospective payment systems beginning with its first cost reporting period beginning on or after January 1, 1991, if it meets the criterion set forth in paragraph (f)(1)(i) of this section and the hospital is -
+(2) *Alternative.* A hospital that applied for and was denied, on or before December 31, 1990, classification as a cancer hospital under the criteria set forth in paragraph (f)(1) of this section is classified as a cancer hospital and is excluded from the prospective payment systems beginning with its first cost reporting period beginning on or after January 1, 1991, if it meets the criterion set forth in paragraph (f)(1)(i) of this section and the hospital is—
 
 (i) Licensed for fewer than 50 acute care beds as of August 5, 1997;
 
 (ii) Is located in a State that as of December 19, 1989, was not operating a demonstration project under section 1814(b) of the Act; and
 
 (iii) Demonstrates that, for the 4-year period ending on December 31, 1996, at least 50 percent of its total discharges have a principal diagnosis that reflects a finding of neoplastic disease as defined in paragraph (f)(1)(iv) of this section.
+
+(3) *PCHQR Program.* All hospitals classified as cancer hospitals under this paragraph must comply with the requirements of the PPS-Exempt Cancer Hospital Quality Reporting Program, as described in § 412.24.
 
 (g) *Hospitals outside the 50 States, the District of Columbia, or Puerto Rico.* A hospital is excluded from the prospective payment systems if it is not located in one of the fifty States, the District of Columbia, or Puerto Rico.
 

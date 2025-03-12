@@ -1,5 +1,7 @@
 ##### 852.222-70 Contract work-hours and safety standards - nursing home care for veterans. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 822.305, insert the following clause:
 
 Contract Work Hours and Safety Standards - Nursing Home Care for Veterans (MAY 2018)

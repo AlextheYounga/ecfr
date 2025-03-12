@@ -1,5 +1,7 @@
 ##### 852.223-70 Instructions to offerors - Sustainable Acquisition Plan. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 823.103-71, when the Contracting Officer deems a Sustainable Acquisition Plan necessary, the Contracting Officer shall insert the following provision:
 
 Instructions to Offerors - Sustainable Acquisition Plan (SEP 2019)

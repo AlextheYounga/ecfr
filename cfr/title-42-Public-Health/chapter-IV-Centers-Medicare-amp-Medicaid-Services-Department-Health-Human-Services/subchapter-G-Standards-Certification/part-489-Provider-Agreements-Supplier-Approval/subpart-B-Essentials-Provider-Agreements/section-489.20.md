@@ -1,7 +1,5 @@
 ##### § 489.20 Basic commitments. #####
 
-Link to an amendment published at 86 FR 42525, Aug. 4, 2021.
-
 The provider agrees to the following:
 
 (a) To limit its charges to beneficiaries and to other individuals on their behalf, in accordance with provisions of subpart C of this part.
@@ -32,13 +30,13 @@ The provider agrees to the following:
 
 (h) If the provider receives payment for the same services from Medicare and another payer that is primary to Medicare, to reimburse Medicare any overpaid amount within 60 days.
 
-(i) If the provider receives, from a payer that is primary to Medicare, a payment that is reduced because the provider failed to file a proper claim -
+(i) If the provider receives, from a payer that is primary to Medicare, a payment that is reduced because the provider failed to file a proper claim—
 
 (1) To bill Medicare for an amount no greater than would have been payable as secondary payment if the primary insurer's payment had been based on a proper claim; and
 
 (2) To charge the beneficiary only: (i) The amount it would have been entitled to charge if it had filed a proper claim and received payment based on such a claim; and
 
-(ii) An amount equal to any primary payment reduction attributable to failure to file a proper claim, but only if the provider can show that -
+(ii) An amount equal to any primary payment reduction attributable to failure to file a proper claim, but only if the provider can show that—
 
 (A) It failed to file a proper claim solely because the beneficiary, for any reason other than mental or physical incapacity, failed to give the provider the necessary information; or
 
@@ -58,13 +56,13 @@ The provider agrees to the following:
 
 (p) To comply with § 489.27 of this part concerning notification of Medicare beneficiaries of their rights associated with the termination of Medicare services.
 
-(q) In the case of a hospital as defined in § 489.24(b) -
+(q) In the case of a hospital as defined in § 489.24(b)—
 
 (1) To post conspicuously in any emergency department or in a place or places likely to be noticed by all individuals entering the emergency department, as well as those individuals waiting for examination and treatment in areas other than traditional emergency departments (that is, entrance, admitting area, waiting room, treatment area), a sign (in a form specified by the Secretary) specifying rights of individuals under Section 1867 of the Act with respect to examination and treatment for emergency medical conditions and women in labor; and
 
 (2) To post conspicuously (in a form specified by the Secretary) information indicating whether or not the hospital or rural primary care hospital participates in the Medicaid program under a State plan approved under title XIX.
 
-(r) In the case of a hospital as defined in § 489.24(b) (including both the transferring and receiving hospitals), to maintain -
+(r) In the case of a hospital as defined in § 489.24(b) (including both the transferring and receiving hospitals), to maintain—
 
 (1) Medical and other records related to individuals transferred to or from the hospital for a period of 5 years from the date of the transfer;
 
@@ -98,19 +96,21 @@ The provider agrees to the following:
 
 (12) Services described in paragraphs (s)(1) through (6) of this section when furnished via telehealth under section 1834(m)(4)(C)(ii)(VII) of the Act.
 
-(13) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020; J9040-J9151; J9170-J9185; J9200-J9201; J9206-J9208; J9211; J9230-J9245; and J9265-J9600; and, as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534.
+(13) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020, J9040-J9151, J9170-J9185, J9200-J9201, J9206-J9208, J9211, J9230-J9245, and J9265-J9600, and as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534 (as subsequently modified by CMS), and any additional chemotherapy items identified by CMS.
 
-(14) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262; 36489; 36530-36535; 36640; 36823; and 96405-96542.
+(14) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262, 36489, 36530-36535, 36640, 36823, and 96405-96542 (as subsequently modified by CMS), and any additional chemotherapy administration services identified by CMS.
 
-(15) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440.
+(15) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440 (as subsequently modified by CMS), and any additional radioisotope services identified by CMS.
 
-(16) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340; L5500-L5611; L5613-L5986; L5988; L6050-L6370; L6400-6880; L6920-L7274; and L7362-L7366, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
+(16) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340, L5500-L5611, L5613-L5986, L5988, L6050-L6370, L6400-6880, L6920-L7274, and L7362-L7366 (as subsequently modified by CMS) and any additional customized prosthetic devices identified by CMS, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
 
-(17) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
+(17) Those blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders identified, as of July 1, 2020, by HCPCS codes J7170, J7175, J7177-J7183, J7185-J7190, J7192-J7195, J7198-J7203, J7205, and J7207-J7211 (as subsequently modified by CMS) and items and services related to the furnishing of such factors, and any additional blood clotting factors identified by CMS and items and services related to the furnishing of such factors.
+
+(18) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
 
 (t) Hospitals that are not otherwise subject to the Occupational Safety and Health Act of 1970 (or a State occupational safety and health plan that is approved under section 18(b) of the Occupational Safety and Health Act) must comply with the bloodborne pathogens (BBP) standards under 29 CFR 1910.1030. A hospital that fails to comply with the BBP standards may be subject to a civil money penalty in accordance with section 17 of the Occupational Safety and Health Act of 1970, including any adjustments of the civil money penalty amounts under the Federal Civil Penalties Inflation Adjustment Act, for a violation of the BBP standards. A civil money penalty will be imposed and collected in the same manner as civil money penalties under section 1128A(a) of the Social Security Act.
 
-(u) Except as provided in paragraph (v) of this section, in the case of a physician-owned hospital as defined at § 489.3 -
+(u) Except as provided in paragraph (v) of this section, in the case of a physician-owned hospital as defined at § 489.3—
 
 (1) To furnish written notice to each patient at the beginning of the patient's hospital stay or outpatient visit that the hospital is a physician-owned hospital, in order to assist the patient in making an informed decision regarding his or her care, in accordance with § 482.13(b)(2) of this subchapter. The notice should disclose, in a manner reasonably designed to be understood by all patients, the fact that the hospital meets the Federal definition of a physician-owned hospital specified in § 489.3 and that the list of the hospital's owners or investors who are physicians or immediate family members (as defined at § 411.351 of this chapter) of physicians is available upon request and must be provided to the patient at the time the request for the list is made by or on behalf of the patient. For purposes of this paragraph (u)(1), the hospital stay or outpatient visit begins with the provision of a package of information regarding scheduled preadmission testing and registration for a planned hospital admission for inpatient care or an outpatient service.
 
@@ -140,7 +140,7 @@ The provider agrees to the following:
 
 (2) *Oral notice.* The hospital must give an oral explanation of the written notification described in paragraph (y)(1) of this section.
 
-(3) *Signature requirements.* The written notice specified in paragraph (y)(1) of this section must either -
+(3) *Signature requirements.* The written notice specified in paragraph (y)(1) of this section must either—
 
 (i) Be signed by the individual who receives observation services as an outpatient or a person acting on the individual's behalf to acknowledge receipt of such notification; or
 

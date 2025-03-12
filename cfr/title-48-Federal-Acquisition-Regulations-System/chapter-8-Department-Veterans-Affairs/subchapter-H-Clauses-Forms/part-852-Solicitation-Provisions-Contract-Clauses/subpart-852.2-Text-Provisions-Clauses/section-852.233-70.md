@@ -1,5 +1,7 @@
 ##### 852.233-70 Protest content/alternative dispute resolution. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 833.106-70(a), insert the following provision:
 
 Protest Content/Alternative Dispute Resolution (SEP 2018)

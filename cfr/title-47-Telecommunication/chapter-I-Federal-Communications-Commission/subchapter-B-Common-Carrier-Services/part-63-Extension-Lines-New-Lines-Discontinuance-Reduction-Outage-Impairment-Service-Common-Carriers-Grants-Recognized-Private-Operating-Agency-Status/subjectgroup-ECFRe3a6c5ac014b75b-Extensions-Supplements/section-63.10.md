@@ -28,8 +28,8 @@
 
 (5) If authorized to provide facilities-based service, comply with paragraph (e) of this section.
 
-(d) A carrier classified as dominant under this section shall file an original and two copies of each report required by paragraphs (c)(3), (c)(4), and (c)(5) of this section with the Chief, International Bureau. The carrier shall also file one copy of these reports with the Commission's copy contractor. The transmittal letter accompanying each report shall clearly identify the report as responsive to the appropriate paragraph of § 63.10(c).
+(d) A carrier classified as dominant under this section shall file electronically each report required by paragraphs (c)(2), (c)(3), and (c)(4) of this section in the International Bureau Filing System (IBFS). Each report filed in IBFS shall clearly identify the report as responsive to the appropriate paragraph of § 63.10(c).
 
 (e) Except as otherwise ordered by the Commission, a carrier that is classified as dominant under this section for the provision of facilities-based services on a particular route and that is affiliated with a carrier that collects settlement payments for terminating U.S. international switched traffic at the foreign end of that route may not provide switched facilities-based service on that route unless the current rates the affiliate charges U.S. international carriers to terminate traffic are at or below the Commission's relevant benchmark adopted in IB Docket No. 96-261. See FCC 97-280 (rel. Aug. 18, 1997) (available at the FCC's Reference Operations Division, Washington, D.C. 20554, and on the FCC's World Wide Web Site at *http://www.fcc.gov*).
 
-[62 FR 64752, Dec. 9, 1997, as amended at 64 FR 19062, Apr. 19, 1999; 64 FR 46593, Aug. 26, 1999; 64 FR 47702, Sept. 1, 1999; 66 FR 16881, Mar. 28, 2001; 67 FR 45390, July 9, 2002; 78 FR 15623, Mar. 12, 2013; 82 FR 55331, Nov. 21, 2017]
+[62 FR 64752, Dec. 9, 1997, as amended at 64 FR 19062, Apr. 19, 1999; 64 FR 46593, Aug. 26, 1999; 64 FR 47702, Sept. 1, 1999; 66 FR 16881, Mar. 28, 2001; 67 FR 45390, July 9, 2002; 78 FR 15623, Mar. 12, 2013; 82 FR 55331, Nov. 21, 2017; 86 FR 54399, Oct. 1, 2021]

@@ -1,5 +1,7 @@
 ##### 852.246-76 Purchase of shellfish. #####
 
+Link to an amendment published at 86 FR 54405, Oct. 1, 2021.
+
 As prescribed in 846.370-4 insert the following clause:
 
 Purchase of Shellfish (OCT 2018)

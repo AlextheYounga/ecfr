@@ -1,5 +1,7 @@
 ##### 852.246-71 Rejected goods. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 846.370-1, insert the following clause:
 
 Rejected Goods (OCT 2018)

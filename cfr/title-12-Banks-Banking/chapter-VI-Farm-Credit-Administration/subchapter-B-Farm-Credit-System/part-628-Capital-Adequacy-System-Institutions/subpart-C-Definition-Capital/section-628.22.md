@@ -1,5 +1,7 @@
 ##### § 628.22 Regulatory capital adjustments and deductions. #####
 
+Link to an amendment published at 86 FR 54360, Oct. 1, 2021.
+
 (a) *Regulatory capital deductions from CET1 capital.* A System institution must deduct from the sum of its CET1 capital elements the items set forth in this paragraph (a):
 
 (1) Goodwill, net of associated deferred tax liabilities (DTLs) in accordance with paragraph (e) of this section;

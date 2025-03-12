@@ -1,7 +1,5 @@
 ##### § 412.1 Scope of part. #####
 
-Link to an amendment published at 86 FR 45518, Aug. 13, 2021.
-
 (a) *Purpose.* (1) This part implements sections 1886(d) and (g) of the Act by establishing a prospective payment system for the operating costs of inpatient hospital services furnished to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1983, and a prospective payment system for the capital-related costs of inpatient hospital services furnished to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1991.
 
 (i) Under these prospective payment systems, payment for the operating and capital-related costs of inpatient hospital services furnished by hospitals subject to the systems (generally, short-term, acute-care hospitals) is made on the basis of prospectively determined rates and applied on a per discharge basis.
@@ -34,9 +32,17 @@ Link to an amendment published at 86 FR 45518, Aug. 13, 2021.
 
 (6) This part implements section 1886(o)(1)(B) of the Act, which directs the Secretary to begin to make value-based incentive payments under the Hospital Value-Based Purchasing Program to hospitals for discharges occurring on or after October 1, 2012, through an adjustment to the base operating DRG payment amounts under the prospective payment system for inpatient operating costs.
 
+(7) This part implements section 1866(k) of the Act, which directs hospitals described in section 1886(d)(1)(B)(v) of the Act to submit data on quality measures to the Secretary.
+
 (b) *Summary of content.* (1) This subpart describes the basis of payment for inpatient hospital services under the prospective payment systems specified in paragraph (a)(1) of this section and sets forth the general basis of these systems.
 
-(2) Subpart B sets forth the classifications of hospitals that are included in and excluded from the prospective payment systems specified in paragraph (a)(1) of this section, and sets forth requirements governing the inclusion or exclusion of hospitals in the systems as a result of changes in their classification.
+(2) Subpart B of this part sets forth all of the following:
+
+(i)(A) The classifications of hospitals that are included in and excluded from the prospective payment systems specified in paragraph (a)(1) of this section.
+
+(B) Requirements governing the inclusion or exclusion of hospitals in the systems as a result of changes in their classification.
+
+(ii) Requirements for the PPS-Exempt Cancer Hospital Quality Reporting (PCHQR) Program.
 
 (3) Subpart C sets forth certain conditions that must be met for a hospital to receive payment under the prospective payment systems specified in paragraph (a)(1) of this section.
 
@@ -62,4 +68,4 @@ Link to an amendment published at 86 FR 45518, Aug. 13, 2021.
 
 (14) Subpart P describes the prospective payment system specified in paragraph (a)(3) of this section for rehabilitation hospitals and rehabilitation units and sets forth the general methodology for paying for the operating and capital-related costs of inpatient hospital services furnished by rehabilitation hospitals and rehabilitation units effective with cost reporting periods beginning on or after January 1, 2002.
 
-[66 FR 41385, Aug. 7, 2001, as amended at 67 FR 56048, Aug. 30, 2002; 69 FR 66976, Nov. 15, 2004; 70 FR 47484, Aug. 12, 2005; 73 FR 24879, May 6, 2008; 77 FR 53673, Aug. 31, 2012; 85 FR 59020, Sept. 18, 2020]
+[66 FR 41385, Aug. 7, 2001, as amended at 67 FR 56048, Aug. 30, 2002; 69 FR 66976, Nov. 15, 2004; 70 FR 47484, Aug. 12, 2005; 73 FR 24879, May 6, 2008; 77 FR 53673, Aug. 31, 2012; 85 FR 59020, Sept. 18, 2020; 86 FR 45518, Aug. 13, 2021]

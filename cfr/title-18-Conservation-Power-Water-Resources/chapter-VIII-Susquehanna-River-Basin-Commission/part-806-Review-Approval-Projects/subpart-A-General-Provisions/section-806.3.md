@@ -1,7 +1,5 @@
 ##### § 806.3 Definitions. #####
 
-Link to an amendment published at 86 FR 52965, Sept. 24, 2021.
-
 For purposes of parts 806, 807 and 808, unless the context indicates otherwise, the words listed in this section are defined as follows:
 
 *Agricultural water use.* A water use associated primarily with the raising of food, fiber or forage crops, trees, flowers, shrubs, turf products, livestock and poultry. The term shall include aquaculture.
@@ -9,6 +7,8 @@ For purposes of parts 806, 807 and 808, unless the context indicates otherwise, 
 *Application.* A written request for action by the Commission including without limitation thereto a letter, referral by any agency of a member jurisdiction, or an official form prescribed by the Commission.
 
 *Basin.* The area of drainage of the Susquehanna River and its tributaries into the Chesapeake Bay to the southern edge of the Pennsylvania Railroad bridge between Havre de Grace and Perryville, Maryland.
+
+*Captured stormwater.* Precipitation or stormwater collected on the drilling pad site, including well cellar water, waters from secondary containment, and water collected from post construction stormwater management features.
 
 *Change of Ownership.* A change in ownership shall mean any transfer by sale or conveyance of the real or personal property comprising a project.
 
@@ -42,7 +42,7 @@ For purposes of parts 806, 807 and 808, unless the context indicates otherwise, 
 
 *Hydrocarbon development project.* A project undertaken for the purpose of extraction of liquid or gaseous hydrocarbons from geologic formations, including but not limited to the drilling, casing, cementing, stimulation and completion of unconventional natural gas development wells, and all other activities and facilities associated with the foregoing or with the production, maintenance, operation, closure, plugging and restoration of such wells or drilling pad sites that require water for purposes including but not limited to, re-stimulation and/or re-completion of wells, fresh water injection of production tubing, use of coiled tubing units, pumping, cement hydration, dust suppression, and hydro-seeding or other revegetation activities, until all post-plugging restoration is completed in accordance with all applicable member jurisdiction requirements. The project includes water used for hydro-seeding or other revegetation activities, dust suppression and hydro-excavation of access roads and underground lines, as well as cleaning of tanks, related to a drilling pad site and centralized impoundments.
 
-*Hydrocarbon water storage facility.* An engineered barrier or structure, including but not limited to tanks, pits or impoundments, constructed for the purpose of storing water, flowback or production fluids for use in hydrocarbon development.
+*Medium capacity source.* A ground or surface water source with a withdrawal of more than 20,000 but less than 100,000 gallons per day over a consecutive 30 day-average.
 
 *Member jurisdiction.* The signatory parties as defined in the compact, comprised of the States of Maryland and New York, the Commonwealth of Pennsylvania, and the United States of America.
 
@@ -64,6 +64,8 @@ For purposes of parts 806, 807 and 808, unless the context indicates otherwise, 
 
 (2) Regularly serves at least 25 year-round residents.
 
+*Small capacity source.* A ground or surface water source with a withdrawal of 20,000 gallons or less per day over a consecutive 30-day average.
+
 *Surface water.* Water on the surface of the ground, including water in a perennial or intermittent watercourse, lake, reservoir, pond, spring, wetland, estuary, swamp or marsh, or diffused surface water, whether such body of water is natural or artificial.
 
 *Tophole water.* Water that is brought to the surface while drilling through the strata containing fresh groundwater. Tophole water may contain drill cuttings typical of the formation being penetrated but may not be polluted or contaminated by additives, brine, oil or man induced conditions.
@@ -80,4 +82,4 @@ For purposes of parts 806, 807 and 808, unless the context indicates otherwise, 
 
 *Withdrawal.*A taking or removal of water from any source within the basin for use within the basin.
 
-[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 1273, Jan. 8, 2008; 73 FR 78619, Dec. 23, 2008; 77 FR 8098, Feb. 14, 2012; 79 FR 75429, Dec. 18, 2014; 82 FR 29390, June 29, 2017]
+[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 1273, Jan. 8, 2008; 73 FR 78619, Dec. 23, 2008; 77 FR 8098, Feb. 14, 2012; 79 FR 75429, Dec. 18, 2014; 82 FR 29390, June 29, 2017; 86 FR 52965, Sept. 24, 2021]

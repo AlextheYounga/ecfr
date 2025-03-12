@@ -1,5 +1,7 @@
 ##### 852.246-73 Noncompliance with packaging, packing, and/or marking requirements. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 846.370-3, insert the following clause:
 
 Noncompliance With Packaging, Packing and/or Marking Requirements (OCT 2018)

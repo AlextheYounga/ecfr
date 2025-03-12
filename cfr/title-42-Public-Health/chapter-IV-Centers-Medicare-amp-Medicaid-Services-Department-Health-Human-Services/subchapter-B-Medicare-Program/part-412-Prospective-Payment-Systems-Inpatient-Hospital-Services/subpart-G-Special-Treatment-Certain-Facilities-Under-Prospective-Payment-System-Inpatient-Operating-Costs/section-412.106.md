@@ -1,7 +1,5 @@
 ##### § 412.106 Special treatment: Hospitals that serve a disproportionate share of low-income patients. #####
 
-Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
-
 (a) *General considerations.* (1) The factors considered in determining whether a hospital qualifies for a payment adjustment include the number of beds, the number of patient days, and the hospital's location.
 
 (i) The number of beds in a hospital is determined in accordance with § 412.105(b).
@@ -258,7 +256,9 @@ Link to an amendment published at 86 FR 45519, Aug. 13, 2021.
 
 (*7*) For fiscal year 2021, CMS will base its estimates of the amount of hospital uncompensated care on data on uncompensated care costs, defined as charity care costs plus non-Medicare and non-reimbursable Medicare bad debt costs from 2017 cost reports from the most recent Hospital Cost Report Information System (HCRIS) database extract, except that, for Puerto Rico hospitals and Indian Health Service or Tribal hospitals, CMS will base its estimates on utilization data for Medicaid and Medicare Supplemental Security Income (SSI) patients, as determined by CMS in accordance with paragraphs (b)(2)(i) and (b)(4) of this section, using data on Medicaid utilization from 2013 cost reports from the most recent HCRIS database extract and the most recent available year of data on Medicare SSI utilization (or, for Puerto Rico hospitals, a proxy for Medicare SSI utilization data).
 
-(*8*) For each subsequent fiscal year, for all eligible hospitals, except Indian Health Service and Tribal hospitals and Puerto Rico hospitals, CMS will base its estimates of the amount of hospital uncompensated care on data on uncompensated care costs, defined as charity care costs plus non-Medicare and non-reimbursable Medicare bad debt costs from cost reports from the most recent cost reporting year for which audits have been conducted.
+(*8*) For each subsequent fiscal year, for all eligible hospitals, except Indian Health Service and Tribal hospitals and Puerto Rico hospitals that have a cost report for 2013, CMS will base its estimates of the amount of hospital uncompensated care on data on uncompensated care costs, defined as charity care costs plus non-Medicare and non-reimbursable Medicare bad debt costs from cost reports from the most recent cost reporting year for which audits have been conducted.
+
+(*9*) For fiscal year 2022, for Indian Health Service and Tribal hospitals and Puerto Rico hospitals that have a cost report for 2013, CMS will base its estimates of the amount of hospital uncompensated care on utilization data for Medicaid and Medicare Supplemental Security Income (SSI) patients, as determined by CMS in accordance with paragraphs (b)(2)(i) and (b)(4) of this section, using data on Medicaid utilization from 2013 cost reports from the most recent HCRIS database extract and the most recent available year of data on Medicare SSI utilization (or, for Puerto Rico hospitals, a proxy for Medicare SSI utilization data).
 
 (2) *Preclusion of administrative and judicial review.* There is no administrative or judicial review under sections 1869 or 1878 of the Act, or otherwise, of the following:
 

@@ -1,7 +1,5 @@
 ##### § 425.600 Selection of risk model. #####
 
-Link to an amendment published at 86 FR 45521, Aug. 13, 2021.
-
 (a) An ACO may elect to operate under one of the following tracks:
 
 (1) *Track 1.* For agreement periods beginning before July 1, 2019, an ACO in Track 1 operates under the one-sided model (as described under § 425.604) for the agreement period.
@@ -36,9 +34,11 @@ Link to an amendment published at 86 FR 45521, Aug. 13, 2021.
 
 (*iii*) Exception for ACOs participating in the BASIC track's glide path that elect to maintain their participation level for performance year 2021. Prior to the automatic advancement for performance year 2021, an ACO that is participating in the BASIC track's glide path for performance year 2020 may elect to remain in the same level of the BASIC track's glide path that it entered for the 2020 performance year, for performance year 2021. For performance year 2022, the ACO is automatically advanced to the level of the BASIC track's glide path to which the ACO would have automatically advanced absent the election to maintain its participation level for performance year 2021, unless the ACO elects to transition to a higher level of risk and potential reward within the BASIC track's glide path as provided in § 425.226(a)(2)(i). A voluntary election by an ACO under this paragraph must be made in the form and manner and by a deadline established by CMS.
 
-(*iv*) Prior to entering performance-based risk, an ACO must meet all requirements to participate under performance-based risk, including establishing an adequate repayment mechanism as specified under § 425.204(f) and selecting a MSR/MLR from the options specified under § 425.605(b).
+(*iv*) Exception for ACOs participating in the BASIC track's glide path that elect to maintain their participation level for performance year 2022. Prior to the automatic advancement for performance year 2022, an ACO that is participating in the BASIC track's glide path for performance year 2021 may elect to remain in the same level of the BASIC track's glide path in which it participated during the 2021 performance year, for performance year 2022. For performance year 2023, the ACO is automatically advanced to the level of the BASIC track's glide path to which the ACO would have automatically advanced absent the election to maintain its participation level for performance year 2022 and, if applicable, the election to maintain its participation level for performance year 2021 under paragraph (a)(4)(i)(B)(*2*)(*iii*) of this section, unless the ACO elects to transition to a higher level of risk and potential reward within the BASIC track's glide path as provided in § 425.226(a)(2)(i). A voluntary election by an ACO under this paragraph must be made in the form and manner and by a deadline established by CMS.
 
-(*3*) If the ACO fails to meet the requirements to participate under performance-based risk under paragraph (a)(4)(i)(B)(*2*)(*iii*) of this section, the agreement is terminated.
+(*v*) Prior to entering performance-based risk, an ACO must meet all requirements to participate under performance-based risk, including establishing an adequate repayment mechanism as specified under § 425.204(f) and selecting a MSR/MLR from the options specified under § 425.605(b).
+
+(*3*) If the ACO fails to meet the requirements to participate under performance-based risk under paragraph (a)(4)(i)(B)(*2*)(*v*) of this section, the agreement is terminated.
 
 (*4*) If, in accordance with § 425.226(a)(2)(i), the ACO elects to transition to a higher level of risk and reward available under paragraphs (a)(4)(i)(A)(*3*) through (*5*) of this section, then the automatic transition to levels of higher risk and reward specified in paragraph (a)(4)(i)(B)(*2*) of this section applies to all subsequent performance years of the agreement period.
 
@@ -108,4 +108,4 @@ Link to an amendment published at 86 FR 45521, Aug. 13, 2021.
 
 (iii) The use of equal weights to weight each benchmark year as specified in § 425.601(e).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85041, Dec. 28, 2020]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85041, Dec. 28, 2020; 86 FR 45521, Aug. 13, 2021]

@@ -1,5 +1,7 @@
 ##### 852.241-70 Disputes - Utility contracts. #####
 
+Link to an amendment published at 86 FR 54404, Oct. 1, 2021.
+
 As prescribed in 841.501-70, insert the following clause:
 
 Disputes - Utility Contracts (SEP 2020)

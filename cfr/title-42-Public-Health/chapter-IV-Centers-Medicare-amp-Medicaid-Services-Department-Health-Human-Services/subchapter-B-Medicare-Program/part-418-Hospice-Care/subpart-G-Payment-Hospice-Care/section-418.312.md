@@ -1,10 +1,28 @@
 ##### § 418.312 Data submission requirements under the hospice quality reporting program. #####
 
-Link to an amendment published at 86 FR 42606, Aug. 4, 2021.
-
 (a) *General rule.* Except as provided in paragraph (g) of this section, Medicare-certified hospices must submit to CMS data on measures selected under section 1814(i)(5)(C) of the Act in a form and manner, and at a time, specified by the Secretary.
 
-(b) *Submission of Hospice Quality Reporting Program data.* Hospices are required to complete and submit an admission Hospice Item Set (HIS) and a discharge HIS for each patient admission to hospice, regardless of payer or patient age. The HIS is a standardized set of items intended to capture patient-level data.
+(b) *Submission of Hospice Quality Reporting Program data.* (1) Standardized set of admission and discharge items Hospices are required to complete and submit an admission Hospice Item Set (HIS) and a discharge HIS for each patient to capture patient-level data, regardless of payer or patient age. The HIS is a standardized set of items intended to capture patient-level data.
+
+(2) Administrative data, such as Medicare claims data, used for hospice quality measures to capture services throughout the hospice stay, are required and fulfill the HQRP requirements for § 418.306(b).
+
+(3) CMS may remove a quality measure from the Hospice QRP based on one or more of the following factors:
+
+(i) Measure performance among hospices is so high and unvarying that meaningful distinctions in improvements in performance can no longer be made.
+
+(ii) Performance or improvement on a measure does not result in better patient outcomes.
+
+(iii) A measure does not align with current clinical guidelines or practice.
+
+(iv) The availability of a more broadly applicable (across settings, populations, or conditions) measure for the particular topic.
+
+(v) The availability of a measure that is more proximal in time to desired patient outcomes for the particular topic.
+
+(vi) The availability of a measure that is more strongly associated with desired patient outcomes for the particular topic.
+
+(vii) Collection or public reporting of a measure leads to negative unintended consequences other than patient harm.
+
+(viii) The costs associated with a measure outweigh the benefit of its continued use in the program.
 
 (c) A hospice that receives notice of its CMS certification number before November 1 of the calendar year before the fiscal year for which a payment determination will be made must submit data for the calendar year.
 
@@ -46,4 +64,4 @@ Link to an amendment published at 86 FR 42606, Aug. 4, 2021.
 
 (ii) A systemic problem with one of CMS' data collection systems directly affect the ability of a hospice to submit data under paragraph (b) of this section.
 
-[79 FR 50510, Aug. 22, 2014, as amended at 85 FR 53680, Aug. 31, 2020]
+[79 FR 50510, Aug. 22, 2014, as amended at 85 FR 53680, Aug. 31, 2020; 86 FR 42606, Aug. 4, 2021]

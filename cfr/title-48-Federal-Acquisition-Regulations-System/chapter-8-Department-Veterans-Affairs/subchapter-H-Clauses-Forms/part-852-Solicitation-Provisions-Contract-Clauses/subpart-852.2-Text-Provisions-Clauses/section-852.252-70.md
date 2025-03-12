@@ -1,5 +1,7 @@
 ##### 852.252-70 Solicitation provisions or clauses incorporated by reference. #####
 
+Link to an amendment published at 86 FR 54405, Oct. 1, 2021.
+
 As prescribed in 852.102(a), insert the following provision:
 
 Solicitation Provisions or Clauses Incorporated by Reference (JAN 2008)
