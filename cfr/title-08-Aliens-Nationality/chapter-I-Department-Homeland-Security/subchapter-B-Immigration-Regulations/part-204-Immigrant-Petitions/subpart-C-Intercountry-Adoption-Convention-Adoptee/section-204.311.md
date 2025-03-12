@@ -1,5 +1,7 @@
 ##### § 204.311 Convention adoption home study requirements. #####
 
+Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
+
 (a) *Purpose.* For immigration purposes, a home study is a process for screening and preparing an applicant who is interested in adopting a child from a Convention country.
 
 (b) *Preparer.* Only an individual or entity defined under 8 CFR 204.301 as a home study preparer for Convention cases may complete a home study for a Convention adoption. In addition, the individual or entity must be authorized to complete adoption home studies under the law of the jurisdiction in which the home study is conducted.

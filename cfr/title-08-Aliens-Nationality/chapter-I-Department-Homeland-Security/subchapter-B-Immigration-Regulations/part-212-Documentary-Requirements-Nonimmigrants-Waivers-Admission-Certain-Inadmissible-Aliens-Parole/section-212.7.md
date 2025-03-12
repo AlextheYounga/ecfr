@@ -1,5 +1,7 @@
 ##### § 212.7 Waiver of certain grounds of inadmissibility. #####
 
+Link to an amendment published at 85 FR 46923, Aug. 3, 2020.
+
 (a) (1) *Application.* Except as provided by 8 CFR 212.7(e), an applicant for an immigrant visa, adjustment of status, or a K or V nonimmigrant visa who is inadmissible under any provision of section 212(a) of the Act for which a waiver is available under section 212 of the Act may apply for the related waiver by filing the form designated by USCIS, with the fee prescribed in 8 CFR 103.7(b)(1), and in accordance with the form instructions. Certain immigrants may apply for a provisional unlawful presence waiver of inadmissibility as specified in 8 CFR 212.7(e).
 
 (2) *Termination of application for lack of prosecution.* An applicant may withdraw the application at any time prior to the final decision, whereupon the case will be closed and the consulate notified. If the applicant fails to prosecute the application within a reasonable time either before or after interview the applicant shall be notified that if he or she fails to prosecute the application within 30 days the case will be closed subject to being reopened at the applicant's request. If no action has been taken within the 30-day period immediately thereafter, the case will be closed and the appropriate consul notified.

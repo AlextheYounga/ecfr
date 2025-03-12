@@ -1,12 +1,10 @@
-##### 52.230-4 Disclosure and Consistency of Cost Accounting Practices - Foreign Concerns. #####
+##### 52.230-4 Disclosure and Consistency of Cost Accounting Practices—Foreign Concerns. #####
 
-Link to an amendment published at 85 FR 40074, July 2, 2020.
+As prescribed in 30.201-4(c)(1), insert the following clause:
 
-As prescribed in 30.201-4(c), insert the following clause:
+Disclosure and Consistency of Cost Accounting Practices—Foreign Concerns (JUN 2020)
 
-Disclosure and Consistency of Cost Accounting Practices - Foreign Concerns (JUN 2020)
-
-(a) The Contractor, in connection with this contract, shall -
+(a) The Contractor, in connection with this contract, shall—
 
 (1) Comply with the requirements of 48 CFR 9904.401, Consistency in Estimating, Accumulating, and Reporting Costs; and 48 CFR 9904.402, Consistency in Allocating Costs Incurred for the Same Purpose, in effect on the date of award of this contract, as indicated in 48 CFR 9904.
 
@@ -22,7 +20,7 @@ Disclosure and Consistency of Cost Accounting Practices - Foreign Concerns (JUN 
 
 (c) The Contractor shall permit any authorized representatives of the U.S. Government to examine and make copies of any documents, papers, and records relating to compliance with the requirements of this clause.
 
-(d) The Contractor shall include in all negotiated subcontracts, which the Contractor enters into, the substance of this clause, except paragraph (b), and shall require such inclusion in all other subcontracts of any tier, except that -
+(d) The Contractor shall include in all negotiated subcontracts, which the Contractor enters into, the substance of this clause, except paragraph (b), and shall require such inclusion in all other subcontracts of any tier, except that—
 
 (1) If the subcontract is awarded to a business unit which pursuant to 48 CFR 9903.201-2 is subject to other types of CAS coverage, the substance of the applicable clause prescribed in Federal Acquisition Regulation (FAR) 30.201-4 shall be inserted.
 
@@ -30,4 +28,4 @@ Disclosure and Consistency of Cost Accounting Practices - Foreign Concerns (JUN 
 
 (3) The requirement shall not apply to negotiated subcontracts otherwise exempt from the requirement to include a CAS clause as specified in 48 CFR 9903.201-1.
 
-(End of clause)[75 FR 34284, June 16, 2010, as amended at 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015; 85 FR 27097, May 6, 2020]
+(End of clause)[75 FR 34284, June 16, 2010, as amended at 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015; 85 FR 27097, May 6, 2020; 85 FR 40074, July 2, 2020]

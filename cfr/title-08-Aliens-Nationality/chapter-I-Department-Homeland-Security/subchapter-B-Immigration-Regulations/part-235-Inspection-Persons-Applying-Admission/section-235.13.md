@@ -1,5 +1,7 @@
 ##### § 235.13 U.S. Asia-Pacific Economic Cooperation Business Travel Card Program. #####
 
+Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+
 (a) *Description.* The U.S. Asia-Pacific Economic Cooperation (APEC) Business Travel Card Program is a voluntary program designed to facilitate travel for bona fide U.S. business persons engaged in business in the APEC region and U.S. government officials actively engaged in APEC business within the APEC region. Participants will receive a U.S. APEC Business Travel Card that will enable them access to fast-track immigration lanes at participating airports in foreign APEC member economies. In order to obtain a U.S. APEC Business Travel Card, an individual must meet the eligibility requirements specified in this section, apply in advance, pay any requisite fee and be approved as a card holder. The APEC member economies are identified at *http://www.apec.org.*
 
 (b) *Program eligibility criteria* - (1) *Eligible individuals.* An individual is eligible for the U.S. APEC Business Travel Card if he or she is:

@@ -1,7 +1,5 @@
 ##### § 230.172 Delivery of prospectuses. #####
 
-Link to an amendment published at 85 FR 33353, June 1, 2020.
-
 (a) *Sending confirmations and notices of allocations.* After the effective date of a registration statement, the following are exempt from the provisions of section 5(b)(1) of the Act if the conditions set forth in paragraph (c) of this section are satisfied:
 
 (1) Written confirmations of sales of securities in an offering pursuant to a registration statement that contain information limited to that called for in Rule 10b-10 under the Securities Exchange Act of 1934 (§ 240.10b-10 of this chapter) and other information customarily included in written confirmations of sales of securities, which may include notices provided pursuant to Rule 173 (§ 230.173); and
@@ -20,12 +18,10 @@ Link to an amendment published at 85 FR 33353, June 1, 2020.
 
 (d) *Exclusions.* This section shall not apply to any:
 
-(1) Offering of any investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*);
+(1) Offering of any investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), other than a registered closed-end investment company;
 
-(2) Offering of any business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48));
+(2) A business combination transaction as defined in § 230.165(f)(1) (Rule 165(f)(1)); or
 
-(3) A business combination transaction as defined in Rule 165(f)(1) (§ 230.165(f)(1); or
+(3) Offering registered on Form S-8 (§ 239.16b of this chapter).
 
-(4) Offering registered on Form S-8 (§ 239.16b of this chapter).
-
-[70 FR 44808, Aug. 3, 2005]
+[70 FR 44808, Aug. 3, 2005, as amended at 85 FR 33353, June 1, 2020]

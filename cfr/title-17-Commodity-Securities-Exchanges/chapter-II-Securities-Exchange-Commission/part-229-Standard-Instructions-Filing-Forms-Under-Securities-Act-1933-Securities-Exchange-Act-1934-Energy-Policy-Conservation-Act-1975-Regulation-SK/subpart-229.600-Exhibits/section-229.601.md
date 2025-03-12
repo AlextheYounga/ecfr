@@ -1,6 +1,6 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 85 FR 22002, Apr. 20, 2020.Link to an amendment published at 85 FR 33351, June 1, 2020.
+Link to an amendment published at 85 FR 22002, Apr. 20, 2020.
 
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-23(c) (§ 240.12b-23(c) of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table must be filed as indicated, as part of the registration statement or report.
 
@@ -600,23 +600,27 @@ The certification must be signed by the chief executive officer of the depositor
 
 (101) *Interactive Data File.* Where a registrant prepares its financial statements in accordance with either generally accepted accounting principles as used in the United States or International Financial Reporting Standards as issued by the International Accounting Standards Board, an Interactive Data File (§ 232.11 of this chapter) is:
 
-(i) *Required to be submitted.* Required to be submitted to the Commission in the manner provided by § 232.405 of this chapter if the registrant does not prepare its financial statements in accordance with 17 CFR 210.6-01 through 210.6-10 (Article 6 of Regulation S-X), except that an Interactive Data File:
+(i) *Required to be submitted.* Required to be submitted to the Commission in the manner provided by § 232.405 of this chapter if the registrant is not registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), except that an Interactive Data File:
 
 (A) First is required for a periodic report on Form 10-Q (§ 249.308a of this chapter), Form 20-F (§ 249.220f of this chapter), or Form 40-F (§ 249.240f of this chapter), as applicable;
 
 (B) Is required for a registration statement under the Securities Act only if the registration statement contains a price or price range; and
 
-(C) Is required for a Form 8-K (§ 249.308 of this chapter) only when the Form 8-K contains audited annual financial statements that are a revised version of financial statements that previously were filed with the Commission and that have been revised pursuant to applicable accounting standards to reflect the effects of certain subsequent events, including a discontinued operation, a change in reportable segments or a change in accounting principle. In such case, the Interactive Data File will be required only as to such revised financial statements regardless of whether the Form 8-K contains other financial statements.
+(C) Is required for a Form 8-K (§ 249.308 of this chapter):
+
+(*1*) Only when the Form 8-K contains audited annual financial statements that are a revised version of financial statements that previously were filed with the Commission and that have been revised pursuant to applicable accounting standards to reflect the effects of certain subsequent events, including a discontinued operation, a change in reportable segments or a change in accounting principle. In such case, the Interactive Data File will be required only as to such revised financial statements regardless of whether the Form 8-K contains other financial statements; and
+
+(*2*) Except that a business development company as defined in Section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)) also is required to submit an Interactive Data File to the extent required by § 232.405(b)(3)(iii) of this chapter.
 
 (ii) *Permitted to be submitted.* Permitted to be submitted to the Commission in the manner provided by § 232.405 of this chapter if the:
 
-(A) Registrant does not prepare its financial statements in accordance with 17 CFR 210.6-01 through 210.6-10 (Article 6 of Regulation S-X); and
+(A) Registrant is not registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*); and
 
 (B) Interactive Data File is not required to be submitted to the Commission under paragraph (b)(101)(i) of this section.
 
 Instruction 1 to paragraphs (b)(101)(i) and (ii): When an Interactive Data File is submitted as provided by § 232.405(a)(3)(i) of this chapter, the exhibit index must include the word “Inline” within the title description for any eXtensible Business Reporting Language (XBRL)-related exhibit.
 
-(iii) *Not permitted to be submitted.* Not permitted to be submitted to the Commission if the registrant prepares its financial statements in accordance with 17 CFR 210.6-01 through 210.6-10 (Article 6 of Regulation S-X).
+(iii) *Not permitted to be submitted.* Not permitted to be submitted to the Commission if the registrant is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*).
 
 (102) *Asset Data File.* An Asset Data File (as defined in § 232.11 of this chapter) filed pursuant to Item 1111(h)(3) of Regulation AB (§ 229.1111(h)(3)).
 

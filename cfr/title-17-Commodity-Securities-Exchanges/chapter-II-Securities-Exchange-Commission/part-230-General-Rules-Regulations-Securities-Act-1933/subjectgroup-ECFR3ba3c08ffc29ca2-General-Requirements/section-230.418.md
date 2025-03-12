@@ -1,7 +1,5 @@
 ##### § 230.418 Supplemental information. #####
 
-Link to an amendment published at 85 FR 33354, June 1, 2020.
-
 (a) The Commission or its staff may, where it is deemed appropriate, request supplemental information concerning the registrant, the registration statement, the distribution of the securities, market activities and underwriters' activities. Such information includes, but is not limited to, the following items which the registrant should be prepared to furnish promptly upon request:
 
 (1)(i) Any reports or memoranda which have been prepared for external use by the registrant or a principal underwriter, as defined in Rule 405 (§ 230.405), in connection with the proposed offering;
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 33354, June 1, 2020.
 
 (2) In the case of a registration statement relating to a business combination as defined in Rule 145(a) (17 CFR 230.145(a)), exchange offer, tender offer or similar transaction, any feasibility studies, management analyses, fairness opinions or similar reports prepared by or for any of the parties to the subject transaction in connection with such transaction;
 
-(3) Except in the case of a registrant eligible to use Form S-3 (§ 239.13 of this chapter), any engineering, management or similar reports or memoranda relating to broad aspects of the business, operations or products of the registrant, which have been prepared within the past twelve months for or by the registrant and any affiliate of the registrant or any principal underwriter, as defined in Rule 405 (§ 230.405), of the securities being registered except for:
+(3) Except in the case of a registrant eligible to use Form S-3 (§ 239.13 of this chapter), or Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) under General Instruction A.2 of that form, any engineering, management or similar reports or memoranda relating to broad aspects of the business, operations or products of the registrant, which have been prepared within the past twelve months for or by the registrant and any affiliate of the registrant or any principal underwriter, as defined in § 230.405 (Rule 405), of the securities being registered except for:
 
 (i) Reports solely comprised of recommendations to buy, sell or hold the securities of the registrant, unless such recommendations have changed within the past six months; and
 
@@ -48,4 +46,4 @@ Link to an amendment published at 85 FR 33354, June 1, 2020.
 
 (4) The information was not filed in electronic format.
 
-[47 FR 11439, Mar. 16, 1982, as amended at 58 FR 14669, 14670, Mar. 18, 1993; 62 FR 543, Jan. 3, 1997; 70 FR 44812, Aug. 3, 2005]
+[47 FR 11439, Mar. 16, 1982, as amended at 58 FR 14669, 14670, Mar. 18, 1993; 62 FR 543, Jan. 3, 1997; 70 FR 44812, Aug. 3, 2005; 85 FR 33354, June 1, 2020]

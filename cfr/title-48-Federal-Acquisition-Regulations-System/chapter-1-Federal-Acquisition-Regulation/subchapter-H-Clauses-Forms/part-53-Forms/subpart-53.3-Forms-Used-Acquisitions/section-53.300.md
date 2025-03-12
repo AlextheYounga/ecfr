@@ -1,7 +1,5 @@
 ##### 53.300 Listing of Standard, Optional, and Agency forms. #####
 
-Link to an amendment published at 85 FR 40064, July 2, 2020.
-
 This subpart identifies, in numerical sequence, Standard Forms (SF), Optional Forms (OF) and agency forms that are specified by the FAR for use in acquisitions.
 
 (a) You can access the forms in Table 53-1 at the GSA Forms Library at *https://www.gsa.gov/forms.*
@@ -86,7 +84,9 @@ Table 53-1 - Forms in the GSA Forms Library
 
 Table 53-2 - Other Forms
 
-|Form DD 254|Department of Defense Contract Security Classification Specification|   http://www.dtic.mil/whs/directives/forms/eforms/dd0254.pdf.   |
-|:----------|:-------------------------------------------------------------------|:----------------------------------------------------------------|
-|Form DD 441|              Department of Defense Security Agreement              |http://www.dtic.mil/whs/directives/forms/eforms/dd0441\_2017.pdf.|
-|Form WH-347|                  Payroll-U.S. Department of Labor                  |            https://www.dol.gov/whd/forms/wh347.pdf.             |
+|Form DD 254|Department of Defense Contract Security Classification Specification|   https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf   |
+|:----------|:-------------------------------------------------------------------|:------------------------------------------------------------------------|
+|Form DD 441|              Department of Defense Security Agreement              |https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0441\_2020.pdf|
+|Form WH-347|                  Payroll-U.S. Department of Labor                  |                https://www.dol.gov/whd/forms/wh347.pdf.                 |
+
+[83 FR 42577, Aug. 22, 2018, as amended at 85 FR 40064, July 2, 2020]

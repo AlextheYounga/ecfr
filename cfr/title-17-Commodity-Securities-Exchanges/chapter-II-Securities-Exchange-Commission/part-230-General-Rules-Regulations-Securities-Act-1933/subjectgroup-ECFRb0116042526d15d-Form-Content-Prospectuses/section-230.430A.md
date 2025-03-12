@@ -1,12 +1,10 @@
 ##### § 230.430A Prospectus in a registration statement at the time of effectiveness. #####
 
-Link to an amendment published at 85 FR 33354, June 1, 2020.
-
 (a) The form of prospectus filed as part of a registration statement that is declared effective may omit information with respect to the public offering price, underwriting syndicate (including any material relationships between the registrant and underwriters not named therein), underwriting discounts or commissions, discounts or commissions to dealers, amount of proceeds, conversion rates, call prices and other items dependent upon the offering price, delivery dates, and terms of the securities dependent upon the offering date; and such form of prospectus need not contain such information in order for the registration statement to meet the requirements of Section 7 of the Securities Act (15 U.S.C. 77g) for the purposes of Section 5 thereof (15 U.S.C. 77e), *Provided,* That:
 
 (1) The securities to be registered are offered for cash;
 
-(2) The registrant furnishes the undertakings required by Item 512(i) of Regulation S-K (§ 229.512(i) of this chapter); and
+(2) The registrant furnishes the undertakings required by § 229.512(i) of this chapter (Item 512(i) of Regulation S-K), or the undertakings required by Item 34.4 of Form N-2 (§§ 239.14 and 274.11a-1 of this chapter); and
 
 (3) The information ommitted in reliance upon paragraph (a) from the form of prospectus filed as part of a registration statement that is declared effective is contained in a form of prospectus filed with the Commission pursuant to Rule 424(b) or Rule 497(h) under the Securities Act (§§ 230.424(b) or 230.497(h) of this chapter); except that if such form of prospectus is not so filed by the later of fifteen business days after the effective date of the registration statement or fifteen business days after the effectiveness of a post-effective amendment thereto that contains a form of prospectus, or transmitted by a means reasonably calculated to result in filing with the Commission by that date, the information omitted in reliance upon paragraph (a) must be contained in an effective post-effective amendment to the registration statement.
 
@@ -26,4 +24,4 @@ Note:
 
 If information is omitted in reliance upon paragraph (a) from the form of prospectus filed as part of an effective registration statement, or effective post-effective amendment thereto, the registrant must ascertain promptly whether a form of prospectus transmitted for filing under Rule 424(b) of Rule 497(h) under the Securities Act actually was received for filing by the Commission and, in the event that it was not, promptly file such prospectus.
 
-[52 FR 21261, June 5, 1987, as amended at 56 FR 48103, Sept. 24, 1991; 57 FR 48976, Oct. 29, 1992; 57 FR 56834, Dec. 1, 1992; 60 FR 26616, May 17, 1995; 67 FR 19869, Apr. 23, 2002; 70 FR 44813, Aug. 3, 2005]
+[52 FR 21261, June 5, 1987, as amended at 56 FR 48103, Sept. 24, 1991; 57 FR 48976, Oct. 29, 1992; 57 FR 56834, Dec. 1, 1992; 60 FR 26616, May 17, 1995; 67 FR 19869, Apr. 23, 2002; 70 FR 44813, Aug. 3, 2005; 85 FR 33354, June 1, 2020]

@@ -1,16 +1,14 @@
 ##### 52.204-20 Predecessor of Offeror. #####
 
-Link to an amendment published at 85 FR 40064, July 2, 2020.
-
 As prescribed in 4.1804(d), insert the following provision:
 
-Predecessor of Offeror (JUL 2016)
+Predecessor of Offeror (AUG 2020)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
-*Commercial and Government Entity (CAGE) code* means -
+*Commercial and Government Entity (CAGE) code* means—
 
-(1) An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity; or
+(1) An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity by unique location; or
 
 (2) An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.
 
@@ -28,4 +26,4 @@ Predecessor legal name: \_\_\_\_\_\_\_\_.
 
 (*Do not use a “doing business as” name*).
 
-(End of provision)[81 FR 11991, Mar. 7, 2016, as amended at 81 FR 45867, July 14, 2016]
+(End of provision)[81 FR 11991, Mar. 7, 2016, as amended at 81 FR 45867, July 14, 2016; 85 FR 40064, July 2, 2020]

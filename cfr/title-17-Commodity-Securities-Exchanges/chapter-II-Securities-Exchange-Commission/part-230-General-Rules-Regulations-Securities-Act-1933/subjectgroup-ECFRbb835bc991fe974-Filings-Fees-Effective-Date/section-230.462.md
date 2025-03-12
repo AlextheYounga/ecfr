@@ -1,7 +1,5 @@
 ##### § 230.462 Immediate effectiveness of certain registration statements and post-effective amendments. #####
 
-Link to an amendment published at 85 FR 33356, June 1, 2020.
-
 (a) A registration statement on Form S-8 (§ 239.16b of this chapter) and a registration statement on Form S-3 (§ 239.13 of this chapter) or on Form F-3 (§ 239.33 of this chapter) for a dividend or interest reinvestment plan shall become effective upon filing with the Commission.
 
 (b) A registration statement and any post-effective amendment thereto shall become effective upon filing with the Commission if:
@@ -18,6 +16,6 @@ Link to an amendment published at 85 FR 33356, June 1, 2020.
 
 (e) An automatic shelf registration statement, including an automatic shelf registration statement filed in accordance with Rule 415(a)(6) (§ 230.415(a)(6)), and any post-effective amendment thereto, including a post-effective amendment filed to register additional classes of securities pursuant to Rule 413(b) (§ 230.413(b)), shall become effective upon filing with the Commission.
 
-(f) A post-effective amendment filed pursuant to paragraph (e) of this section for purposes of adding a new issuer and its securities as permitted by Rule 413(b) (§ 230.413(b)) that satisfies the requirements of Form S-3 or Form F-3 (§ 239.13 or § 239.33 of this chapter), as applicable, including the signatures required by Rule 402(e) (§ 230.402(e)), and contains a prospectus satisfying the requirements of Rule 430B (§ 230.430B), shall become effective upon filing with the Commission.
+(f) A post-effective amendment filed pursuant to paragraph (e) of this section for purposes of adding a new issuer and its securities as permitted by § 230.413(b) (Rule 413(b)) that satisfies the requirements of Form S-3, Form F-3, or General Instruction A.2 of Form N-2 (§ 239.13, § 239.33, or §§ 239.14 and 274.11a-1 of this chapter), as applicable, including the signatures required by § 230.402(e) (Rule 402(e)), and contains a prospectus satisfying the requirements of § 230.430B (Rule 430B), shall become effective upon filing with the Commission.
 
-[59 FR 21650, Apr. 26, 1994, as amended at 60 FR 26617, May 17, 1995; 62 FR 39763, July 24, 1997; 70 FR 44818, Aug. 3, 2005]
+[59 FR 21650, Apr. 26, 1994, as amended at 60 FR 26617, May 17, 1995; 62 FR 39763, July 24, 1997; 70 FR 44818, Aug. 3, 2005; 85 FR 33356, June 1, 2020]

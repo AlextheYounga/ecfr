@@ -1,6 +1,6 @@
 ##### § 230.163A Exemption from section 5(c) of the Act for certain communications made by or on behalf of issuers more than 30 days before a registration statement is filed. #####
 
-Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary Note to § 230.163A.
+Preliminary Note to § 230.163A.
 
 Attempted compliance with this section does not act as an exclusive election and the issuer also may claim the availability of any other applicable exemption or exclusion. Reliance on this section does not affect the availability of any other exemption or exclusion from the requirements of section 5 of the Act.
 
@@ -20,14 +20,10 @@ Attempted compliance with this section does not act as an exclusive election and
 
 (iii) An issuer for an offering of penny stock as defined in Rule 3a51-1 of the Securities Exchange Act of 1934 (§ 240.3a51-1 of this chapter); or
 
-(4) Communications made by an issuer that is:
-
-(i) An investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*); or
-
-(ii) A business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)).
+(4) Communications made by an issuer that is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), other than a registered closed-end investment company.
 
 (c) For purposes of this section, a communication is made by or on behalf of an issuer if the issuer or an agent or representative of the issuer, other than an offering participant who is an underwriter or dealer, authorizes or approves the communication before it is made.
 
 (d) A communication exempt from section 5(c) of the Act pursuant to this section will not be considered to be in connection with a securities offering registered under the Securities Act for purposes of Rule 100(b)(2)(iv) of Regulation FD under the Securities Exchange Act of 1934 (§ 243.100(b)(2)(iv) of this chapter).
 
-[70 FR 44806, Aug. 3, 2005]
+[70 FR 44806, Aug. 3, 2005, as amended at 85 FR 33352, June 1, 2020]

@@ -1,5 +1,7 @@
 ##### § 212.15 Certificates for foreign health care workers. #####
 
+Link to an amendment published at 85 FR 46923, Aug. 3, 2020.
+
 (a) *General certification requirements.* (1) Except as provided in paragraph (b) or paragraph (d)(1) of this section, any alien who seeks admission to the United States as an immigrant or as a nonimmigrant for the primary purpose of performing labor in a health care occupation listed in paragraph (c) of this section is inadmissible unless the alien presents a certificate from a credentialing organization, listed in paragraph (e) of this section.
 
 (2) In the alternative, an eligible alien who seeks to enter the United States for the primary purpose of performing labor as a nurse may present a certified statement as provided in paragraph (h) of this section.

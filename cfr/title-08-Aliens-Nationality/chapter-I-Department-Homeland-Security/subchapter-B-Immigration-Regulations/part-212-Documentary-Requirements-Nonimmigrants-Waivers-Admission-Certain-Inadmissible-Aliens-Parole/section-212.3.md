@@ -1,5 +1,7 @@
 ##### § 212.3 Application for the exercise of discretion under section 212(c). #####
 
+Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
+
 (a) *Jurisdiction.* An application for the exercise of discretion under section 212(c) of the Act must be submitted on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions. If the application is made in the course of proceedings under sections 235, 236, or 242 of the Act, the application shall be made to the Immigration Court.
 
 (b) *Filing of application.* The application may be filed prior to, at the time of, or at any time after the applicant's departure from or arrival into the United States. All material facts and/or circumstances which the applicant knows or believes apply to the grounds of excludability or deportability must be described. The applicant must also submit all available documentation relating to such grounds.

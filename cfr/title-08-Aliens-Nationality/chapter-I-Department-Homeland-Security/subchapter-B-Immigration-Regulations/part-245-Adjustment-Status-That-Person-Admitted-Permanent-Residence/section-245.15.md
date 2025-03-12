@@ -1,5 +1,7 @@
 ##### § 245.15 Adjustment of status of certain Haitian nationals under the Haitian Refugee Immigrant Fairness Act of 1998 (HRIFA). #####
 
+Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+
 (a) *Definitions.* As used in this section, the terms:
 
 *Abandoned* and *abandonment* mean that both parents have, or the sole or surviving parent has, or in the case of a child who has been placed into a guardianship, the child's guardian or guardians have, willfully forsaken all parental or guardianship rights, obligations, and claims to the child, as well as all control over and possession of the child, without intending to transfer these rights to any specific person(s).

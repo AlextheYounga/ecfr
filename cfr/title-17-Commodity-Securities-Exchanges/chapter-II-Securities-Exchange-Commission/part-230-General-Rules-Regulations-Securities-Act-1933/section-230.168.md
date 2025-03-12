@@ -1,6 +1,6 @@
 ##### § 230.168 Exemption from sections 2(a)(10) and 5(c) of the Act for certain communications of regularly released factual business information and forward-looking information. #####
 
-Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary notes to § 230.168.
+Preliminary notes to § 230.168.
 
 1. This section is not available for any communication that, although in technical compliance with this section, is part of a plan or scheme to evade the requirements of section 5 of the Act.
 
@@ -32,7 +32,7 @@ Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary notes to
 
 (b) *Definitions.*
 
-(1) *Factual business information* means some or all of the following information that is released or disseminated under the conditions in paragraph (d) of this section, including, without limitation, such factual business information contained in reports or other materials filed with, furnished to, or submitted to the Commission pursuant to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
+(1) *Factual business information* means some or all of the following information that is released or disseminated under the conditions in paragraph (d) of this section, including, without limitation, such factual business information contained in reports or other materials filed with, furnished to, or submitted to the Commission pursuant to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*) or the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*):
 
 (i) Factual information about the issuer, its business or financial developments, or other aspects of its business;
 
@@ -40,7 +40,7 @@ Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary notes to
 
 (iii) Dividend notices.
 
-(2) *Forward-looking information* means some or all of the following information that is released or disseminated under the conditions in paragraph (d) of this section, including, without limitation, such forward-looking information contained in reports or other materials filed with, furnished to, or submitted to the Commission pursuant to the Securities Exchange Act of 1934:
+(2) *Forward-looking information* means some or all of the following information that is released or disseminated under the conditions in paragraph (d) of this section, including, without limitation, such forward-looking information contained in reports or other materials filed with, furnished to, or submitted to the Commission pursuant to the Securities Exchange Act of 1934 or pursuant to the Investment Company Act of 1940:
 
 (i) Projections of the issuer's revenues, income (loss), earnings (loss) per share, capital expenditures, dividends, capital structure, or other financial items;
 
@@ -62,6 +62,6 @@ Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary notes to
 
 (2) The timing, manner, and form in which the information is released or disseminated is consistent in material respects with similar past releases or disseminations; and
 
-(3) The issuer is not an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)).
+(3) The issuer is not an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), other than a registered closed-end investment company.
 
-[70 FR 44807, Aug. 3, 2005, as amended at 76 FR 46617, Aug. 3, 2011]
+[70 FR 44807, Aug. 3, 2005, as amended at 76 FR 46617, Aug. 3, 2011; 85 FR 33352, June 1, 2020]

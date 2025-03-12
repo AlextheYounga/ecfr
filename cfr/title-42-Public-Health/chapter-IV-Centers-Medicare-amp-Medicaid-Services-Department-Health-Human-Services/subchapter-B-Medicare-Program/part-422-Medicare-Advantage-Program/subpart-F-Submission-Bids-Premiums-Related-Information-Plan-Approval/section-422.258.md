@@ -1,7 +1,5 @@
 ##### § 422.258 Calculation of benchmarks. #####
 
-Link to an amendment published at 85 FR 33907, June 2, 2020.
-
 (a) The term “MA area-specific non-drug monthly benchmark amount” means, for a month in a year:
 
 (1) For MA local plans with service areas entirely within a single MA local area:
@@ -42,9 +40,9 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (iii) If a single regional plan is being offered in the region: The plan's share of enrollment is equal to 1.
 
-(d) *Determination of the blended benchmark amount* - (1) *General rules.* For the purpose of paragraphs (a) and (b) of this section, the term blended benchmark amount for an area for a year means the sum of two components: the applicable amount determined under section 1853(k)(1) of the Act and the specified amount determined under section 1853(n)(2) of Act. The weights for each component are based on the phase-in period assigned each area, as described in paragraphs (d)(8) and (d)(9) of this section. At the conclusion of an area's phase-in period, the blended benchmark for an area for a year equals the section 1853(n)(2) of the Act specified amount described in paragraph (d)(2) of this section. The blended benchmark amount for an area for a year (which takes into account paragraph (d)(8) of this section), cannot exceed the applicable amount described in paragraph (d)(2) of this section that would be in effect but for the application of this paragraph.
+(d) *Determination of the blended benchmark amount*—(1) *General rules.* For the purpose of paragraphs (a) and (b) of this section, the term blended benchmark amount for an area for a year means the sum of two components: the applicable amount determined under section 1853(k)(1) of the Act and the specified amount determined under section 1853(n)(2) of Act. The weights for each component are based on the phase-in period assigned each area, as described in paragraphs (d)(8) and (d)(9) of this section. At the conclusion of an area's phase-in period, the blended benchmark for an area for a year equals the section 1853(n)(2) of the Act specified amount described in paragraph (d)(2) of this section. The blended benchmark amount for an area for a year (which takes into account paragraph (d)(8) of this section), cannot exceed the applicable amount described in paragraph (d)(2) of this section that would be in effect but for the application of this paragraph.
 
-(2) *Applicable amount.* For the purpose of paragraphs (a) and (b) of this section, the applicable amount determined under section 1853(k)(1) of the Act for a year is -
+(2) *Applicable amount.* For the purpose of paragraphs (a) and (b) of this section, the applicable amount determined under section 1853(k)(1) of the Act for a year is—
 
 (i) In a rebasing year (described at § 422.306(b)(2), an amount equal to the greater of the average FFS expenditure amount at § 422.306(b)(2) for an area for a year and the minimum percentage increase rate at § 422.306(a) for an area for a year.
 
@@ -54,7 +52,7 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (iv) Paragraph (d) of this section does not apply to the PACE program under section 1894 of Act.
 
-(3) *Specified amount.* For the purpose of paragraphs (a) and (b) of this section, the specified amount under section 1853(n)(2) of the Act is the product of the base payment amount for an area for a year (adjusted as required under § 422.306(c)) multiplied by the applicable percentage described in paragraph (d)(5) of this section for an area for a year.
+(3) *Specified amount.* For the purpose of paragraphs (a) and (b) of this section, the specified amount under section 1853(n)(2) of the Act is the product of the base payment amount for an area for a year (adjusted as required under § 422.306(c) and (d)) multiplied by the applicable percentage described in paragraph (d)(5) of this section for an area for a year.
 
 (4) *Base payment amount.* The base payment amount is as follows:
 
@@ -62,9 +60,9 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (ii) For subsequent years, the average FFS expenditure amount specified in § 422.306(b)(2).
 
-(5) *Applicable percentage.* Subject to paragraph (d)(7) of this section, the applicable percentage is one of four values assigned to an area based on Secretary's determination of the quartile ranking of the area's average FFS expenditure amount (described at § 422.306(b)(2) and adjusted as required at § 422.306(c)), relative to this amount for all areas.
+(5) *Applicable percentage.* Subject to paragraph (d)(7) of this section, the applicable percentage is one of four values assigned to an area based on Secretary's determination of the quartile ranking of the area's average FFS expenditure amount (described at § 422.306(b)(2) and adjusted as required at § 422.306(c) and (d)), relative to this amount for all areas.
 
-(i) For the 50 States or the District of Columbia, a county with an average FFS expenditure amount adjusted under § 422.306(c) that falls in the -
+(i) For the 50 States or the District of Columbia, a county with an average FFS expenditure amount adjusted under § 422.306(c) and (d) that falls in the—
 
 (A) Highest quartile of such rates for all areas for the previous year receives an applicable percentage of 95 percent;
 
@@ -74,9 +72,9 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (D) Lowest quartile of such rates for all areas for the previous year receives an applicable percentage of 115 percent.
 
-(ii) To determine the applicable percentages for a territory, the Secretary ranks such areas for a year based on the level of the area's § 422.306(b)(2) amount adjusted under § 422.306(c), relative to the quartile rankings computed under paragraph (d)(5)(i) of this section.
+(ii) To determine the applicable percentages for a territory, the Secretary ranks such areas for a year based on the level of the area's § 422.306(b)(2) amount adjusted under § 422.306(c) and (d), relative to the quartile rankings computed under paragraph (d)(5)(i) of this section.
 
-(6) *Additional rules for determining the applicable percentage.* (i) In a contract year when the average FFS expenditure amounts from the previous year were rebased (according to the periodic rebasing requirement at § 422.306(b)(2)), the Secretary must determine an area's applicable percentage based on a quartile ranking of the previous year's rebased FFS amounts adjusted under § 422.306(c).
+(6) *Additional rules for determining the applicable percentage.* (i) In a contract year when the average FFS expenditure amounts from the previous year were rebased (according to the periodic rebasing requirement at § 422.306(b)(2)), the Secretary must determine an area's applicable percentage based on a quartile ranking of the previous year's rebased FFS amounts adjusted under § 422.306(c) and (d).
 
 (ii) If, for a year after 2012, there is a change in the quartile in which an area is ranked compared to the previous year's ranking, the applicable percentage for the area in the year must be the average of the applicable percentage for the previous year and the applicable percentage that would otherwise apply for the area for the year in the absence of this transitional provision.
 
@@ -118,7 +116,7 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (i) The projected 2010 benchmark amount is calculated once for the purpose of determining the phase-in period for an area. It is equal to one-half of the 2010 applicable amount at paragraph (d)(2) of this section and one-half of the specified amount at paragraph (d)(3) modified to apply to 2010 (as described in (d)(8)(ii) of this section).
 
-(ii) To assign a phase-in period to an area, the specified amount is modified as if it applies to 2010, and is the product of -
+(ii) To assign a phase-in period to an area, the specified amount is modified as if it applies to 2010, and is the product of—
 
 (A) The 2010 base payment amount adjusted as required under § 422.306(c) of this part; and
 
@@ -134,7 +132,7 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (v) *Six-year phase-in.* An area is assigned the 6-year phase-in period if the difference between the applicable amount at paragraph (d)(2) of this section and the projected 2010 benchmark amount at paragraph (d)(8)(i) of this section is at least $50.
 
-(9) *Impact of phase-in period on calculation of the blended benchmark amount* - (i) *Weighting for the 2-year phase-in.* (A) For 2012, the blended benchmark is the sum of one-half of the applicable amount at paragraph (d)(2) of this section and one-half of the specified amount at paragraph (d)(3) of this section.
+(9) *Impact of phase-in period on calculation of the blended benchmark amount*—(i) *Weighting for the 2-year phase-in.* (A) For 2012, the blended benchmark is the sum of one-half of the applicable amount at paragraph (d)(2) of this section and one-half of the specified amount at paragraph (d)(3) of this section.
 
 (B) For 2013 and subsequent years, the blended benchmark equals the specified amount.
 
@@ -162,4 +160,4 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (F) For 2017 and subsequent years, the blended benchmark equals the specified amount for the area and year.
 
-[70 FR 4725, Jan. 28, 2005, as amended at 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018]
+[70 FR 4725, Jan. 28, 2005, as amended at 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018; 85 FR 33907, June 2, 2020]

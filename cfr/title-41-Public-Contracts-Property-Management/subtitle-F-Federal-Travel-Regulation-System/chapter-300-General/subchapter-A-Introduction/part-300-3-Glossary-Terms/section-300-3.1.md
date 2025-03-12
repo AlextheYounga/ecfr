@@ -1,7 +1,5 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
-Link to an amendment published at 85 FR 39848, July 2, 2020.
-
 *Accompanied baggage* - Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense* - Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.
@@ -296,7 +294,7 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 (3) Specialized clothing (e.g., diving suits, flying suits, helmets, band uniforms, religious vestments and other special apparel); and
 
-(4) Communications equipment used by the employee in association with the MARS (see DoD 4650.2, Military Affiliate Radio System (MARS) which is available electronically from the world wide web at *http://web7.whs.osd.mil).*
+(4) Communications equipment used by the employee in association with DoDI 4650.02, Military Auxiliary Radio System (MARS).
 
 *Qualified non-crewmember* - A person flying onboard a Government aircraft whose skills or expertise are required to perform or are associated with performing the non-travel related Governmental function for which the aircraft is being operated (qualified non-crewmembers may be researchers, law enforcement agents, firefighters, agricultural engineers, biologists, etc.). If a qualified non-crewmember is onboard for the purpose of travel (*i.e.,* being transported from point to point) in addition to performing his/her duties related to the non-travel related Governmental function for which the aircraft is being operated (e.g., when a scientist conducts an experiment at the same time he/she is also on the aircraft for the purpose of traveling from point to point), he/she must be authorized to travel in accordance with rules in 41 CFR parts 301-10 and 301-70.
 

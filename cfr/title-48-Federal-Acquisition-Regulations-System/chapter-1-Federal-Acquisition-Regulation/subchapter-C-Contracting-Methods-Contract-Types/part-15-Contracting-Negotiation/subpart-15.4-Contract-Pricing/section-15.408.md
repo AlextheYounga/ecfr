@@ -1,7 +1,5 @@
 ##### 15.408 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 85 FR 40073, July 2, 2020.
-
 (a) *Changes or Additions to Make-or-Buy Program.* The contracting officer shall insert the clause at 52.215-9, Changes or Additions to Make-or-Buy Program, in solicitations and contracts when it is contemplated that a make-or- buy program will be incorporated in the contract. If a less economical “make” or “buy” categorization is selected for one or more items of significant value, the contracting officer shall use the clause with -
 
 (1) Its *Alternate I,* if a fixed-price incentive contract is contemplated; or
@@ -12,9 +10,17 @@ Link to an amendment published at 85 FR 40073, July 2, 2020.
 
 (c) *Price Reduction for Defective Certified Cost or Pricing Data - Modifications.* The contracting officer shall, when contracting by negotiation, insert the clause at 52.215-11, Price Reduction for Defective Certified Cost or Pricing Data - Modifications, in solicitations and contracts when it is contemplated that certified cost or pricing data will be required from the contractor or any subcontractor (see 15.403-4) for the pricing of contract modifications, and the clause prescribed in paragraph (b) of this section has not been included.
 
-(d) *Subcontractor Certified Cost or Pricing Data.* The contracting officer shall insert the clause at 52.215-12, Subcontractor Certified Cost or Pricing Data, in solicitations and contracts when the clause prescribed in paragraph (b) of this section is included.
+(d) *Subcontractor Certified Cost or Pricing Data.* The contracting officer shall -
 
-(e) *Subcontractor Certified Cost or Pricing Data - Modifications.* The contracting officer shall insert the clause at 52.215-13, Subcontractor Certified Cost or Pricing Data - Modifications, in solicitations and contracts when the clause prescribed in paragraph (c) of this section is included.
+(1) Insert the clause at 52.215-12, Subcontractor Certified Cost or Pricing Data, in solicitations and contracts when the clause prescribed in paragraph (b) of this section is included; or
+
+(2) Upon the request of a contractor that was required to submit certified cost or pricing data in connection with a prime contract entered into before July 1, 2018, the contracting officer shall modify the contract without requiring consideration, to replace clause 52.215-12, Subcontractor Certified Cost or Pricing Data, with its Alternate I.
+
+(e) *Subcontractor Certified Cost or Pricing Data - Modifications.* The contracting officer shall -
+
+(1) Insert the clause at 52.215-13, Subcontractor Certified Cost or Pricing Data - Modifications, in solicitations and contracts when the clause prescribed in paragraph (c) of this section is included; or
+
+(2) Upon the request of a contractor that was required to submit certified cost or pricing data in connection with a prime contract entered into before July 1, 2018, the contracting officer shall modify the contract without requiring consideration, to replace clause 52.215-13, Subcontractor Certified Cost or Pricing Data - Modifications, with its Alternate I.
 
 (f) *Integrity of Unit Prices.* (1) The contracting officer shall insert the clause at 52.215-14, Integrity of Unit Prices, in solicitations and contracts except for -
 
@@ -271,4 +277,4 @@ Column and Instruction
 
 (14) Identify the attachment in which the information supporting the specific cost element may be found. (Attach separate pages as necessary.)
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58596, Oct. 30, 1998; 66 FR 2129, Jan. 10, 2001; 67 FR 6115, Feb. 8, 2002; 71 FR 57367, Sept. 28, 2006; 72 FR 63049, Nov. 7, 2007; 74 FR 52855, Oct. 14, 2009; 75 FR 53133, 53147, Aug. 30, 2010; 75 FR 77745, Dec. 13, 2010; 80 FR 38297, July 2, 2015; 82 FR 4713, Jan. 13, 2017]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58596, Oct. 30, 1998; 66 FR 2129, Jan. 10, 2001; 67 FR 6115, Feb. 8, 2002; 71 FR 57367, Sept. 28, 2006; 72 FR 63049, Nov. 7, 2007; 74 FR 52855, Oct. 14, 2009; 75 FR 53133, 53147, Aug. 30, 2010; 75 FR 77745, Dec. 13, 2010; 80 FR 38297, July 2, 2015; 82 FR 4713, Jan. 13, 2017; 85 FR 40073, July 2, 2020]

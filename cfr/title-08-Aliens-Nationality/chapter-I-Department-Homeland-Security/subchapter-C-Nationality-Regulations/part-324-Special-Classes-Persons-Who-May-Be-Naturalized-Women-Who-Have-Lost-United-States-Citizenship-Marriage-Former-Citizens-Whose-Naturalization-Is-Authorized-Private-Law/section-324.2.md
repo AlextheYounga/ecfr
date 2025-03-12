@@ -1,5 +1,7 @@
 ##### § 324.2 Former citizen at birth or by naturalization. #####
 
+Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
+
 (a) *Eligibility.* To be eligible for naturalization under section 324(a) of the Act, an applicant must establish that she:
 
 (1) Was formerly a United States citizen;

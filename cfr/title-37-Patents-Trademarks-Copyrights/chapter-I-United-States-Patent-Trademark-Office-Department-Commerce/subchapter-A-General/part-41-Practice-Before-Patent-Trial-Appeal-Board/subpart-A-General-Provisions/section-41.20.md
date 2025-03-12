@@ -1,5 +1,7 @@
 ##### § 41.20 Fees. #####
 
+Link to an amendment published at 85 FR 46993, Aug. 3, 2020.
+
 (a) *Petition fee.* The fee for filing a petition under this part is: $400.00.
 
 (b) *Appeal fees.* (1) For filing a notice of appeal from the examiner to the Patent Trial and Appeal Board:

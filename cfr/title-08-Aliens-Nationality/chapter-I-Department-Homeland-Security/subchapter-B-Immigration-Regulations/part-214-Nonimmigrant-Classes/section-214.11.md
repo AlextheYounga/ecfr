@@ -1,5 +1,7 @@
 ##### § 214.11 Alien victims of severe forms of trafficking in persons. #####
 
+Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
+
 (a) *Definitions.* Where applicable, USCIS will apply the definitions provided in section 103 and 107(e) of the Trafficking Victims Protection Act (TVPA) with due regard for the definitions and application of these terms in 28 CFR part 1100 and the provisions of 18 U.S.C. 77. As used in this section the term:
 
 *Application for derivative T nonimmigrant status* means a request by a principal alien on behalf of an eligible family member for derivative T-2, T-3, T-4, T-5, or T-6 nonimmigrant status on the form designated by USCIS for that purpose.

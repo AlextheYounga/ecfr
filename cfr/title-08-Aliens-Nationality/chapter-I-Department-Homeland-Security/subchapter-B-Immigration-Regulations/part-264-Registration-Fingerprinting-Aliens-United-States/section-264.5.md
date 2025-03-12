@@ -1,5 +1,7 @@
 ##### § 264.5 Application for a replacement Permanent Resident Card. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *Filing instructions.* A request to replace a Permanent Resident Card must be filed in accordance with the appropriate form instructions and with the fee specified in 8 CFR 103.7(b)(1); except that no fee is required for an application filed pursuant to paragraphs (b)(7) through (9) of this section, or paragraphs (d)(2) or (4) of this section.
 
 (b) *Permanent residents required to file.* A permanent resident shall apply for a replacement Permanent Resident Card:

@@ -1,5 +1,7 @@
 ##### § 204.5 Petitions for employment-based immigrants. #####
 
+Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
+
 (a) *General.* A petition to classify an alien under section 203(b)(1), 203(b)(2), or 203(b)(3) of the Act must be filed on Form I-140, Petition for Immigrant Worker. A petition to classify an alien under section 203(b)(4) (as it relates to special immigrants under section 101(a)(27)(C)) must be filed on kForm I-360, Petition for Amerasian, Widow, or Special Immigrant. A separate Form I-140 or I-360 must be filed for each beneficiary, accompanied by the applicable fee. A petition is considered properly filed if it is:
 
 (1) Accepted for processing under the provisions of part 103;

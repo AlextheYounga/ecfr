@@ -1,5 +1,7 @@
 ##### § 236.14 Filing. #####
 
+Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+
 (a) *General.* A Form I-817, Application for Family Unity Benefits, must be filed with the correct fee required in § 103.7(b)(1) of this chapter and the required supporting documentation. A separate application with appropriate fee and documentation must be filed for each person claiming eligibility.
 
 (b) *Decision.* The service center director has sole jurisdiction to adjudicate an application for benefits under the Family Unity Program. The director will provide the applicant with specific reasons for any decision to deny an application. Denial of an application may not be appealed. An applicant who believes that the grounds for denial have been overcome may submit another application with the appropriate fee and documentation.

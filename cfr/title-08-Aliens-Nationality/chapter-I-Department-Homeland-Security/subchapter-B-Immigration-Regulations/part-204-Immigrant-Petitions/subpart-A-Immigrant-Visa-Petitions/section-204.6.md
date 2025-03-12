@@ -1,5 +1,7 @@
 ##### § 204.6 Petitions for employment creation immigrants. #####
 
+Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
+
 (a) *General.* An EB-5 immigrant petition to classify an alien under section 203(b)(5) of the Act must be properly filed in accordance with the form instructions, with the appropriate fee(s), initial evidence, and any other supporting documentation.
 
 (b) [Reserved]

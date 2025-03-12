@@ -1,7 +1,5 @@
 ##### § 422.322 Source of payment and effect of MA plan election on payment. #####
 
-Link to an amendment published at 85 FR 33908, June 2, 2020.
-
 (a) *Source of payments.* (1) Payments under this subpart for original fee-for-service benefits to MA organizations or MA MSAs are made from the Federal Hospital Insurance Trust Fund or the Supplementary Medical Insurance Trust Fund. CMS determines the proportions to reflect the relative weight that benefits under Part A, and benefits under Part B represents of the actuarial value of the total benefits under title XVIII of the Act.
 
 (2) Payments to MA-PD organizations for statutory drug benefits provided under this title are made from the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
@@ -12,4 +10,6 @@ Link to an amendment published at 85 FR 33908, June 2, 2020.
 
 (c) *Only the MA organization entitled to payment.* Subject to §§ 422.314, 422.316, 422.318, 422.320, and 422.520 and sections 1886(d)(11) and 1886(h)(3)(D) of the Act, only the MA organization is entitled to receive payment from CMS under title XVIII of the Act for items and services furnished to the individual.
 
-[70 FR 4729, Jan. 28, 2005, as amended at 70 FR 52027, Sept. 1, 2005; 75 FR 44654, July 28, 2010]
+(d) *FFS payment for expenses for kidney acquisitions.* Paragraphs (b) and (c) of this section do not apply with respect to expenses for organ acquisitions for kidney transplants described in section 1852(a)(1)(B)(i) of the Act.
+
+[70 FR 4729, Jan. 28, 2005, as amended at 70 FR 52027, Sept. 1, 2005; 75 FR 44654, July 28, 2010; 85 FR 33908, June 2, 2020]

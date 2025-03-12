@@ -1,6 +1,6 @@
 ##### § 230.169 Exemption from sections 2(a)(10) and 5(c) of the Act for certain communications of regularly released factual business information. #####
 
-Link to an amendment published at 85 FR 33353, June 1, 2020.Preliminary Notes to § 230.169.
+Preliminary Notes to § 230.169.
 
 1. This section is not available for any communication that, although in technical compliance with this section, is part of a plan or scheme to evade the requirements of section 5 of the Act.
 
@@ -28,6 +28,6 @@ Link to an amendment published at 85 FR 33353, June 1, 2020.Preliminary Notes to
 
 (3) The information is released or disseminated for intended use by persons, such as customers and suppliers, other than in their capacities as investors or potential investors in the issuer's securities, by the issuer's employees or agents who historically have provided such information; and
 
-(4) The issuer is not an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)).
+(4) The issuer is not an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), other than a registered closed-end investment company.
 
-[70 FR 44808, Aug. 3, 2005]
+[70 FR 44808, Aug. 3, 2005, as amended at 85 FR 33353, June 1, 2020]

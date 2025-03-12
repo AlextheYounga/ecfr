@@ -1,5 +1,7 @@
 ##### § 214.6 Citizens of Canada or Mexico seeking temporary entry under NAFTA to engage in business activities at a professional level. #####
 
+Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
+
 (a) *General.* Under section 214(e) of the Act, a citizen of Canada or Mexico who seeks temporary entry as a business person to engage in business activities at a professional level may be admitted to the United States in accordance with the North American Free Trade Agreement (NAFTA).
 
 (b) *Definitions.* As used in this section, the terms:

@@ -1,5 +1,7 @@
 ##### § 211.1 Visas. #####
 
+Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
+
 (a) *General.* Except as provided in paragraph (b)(1) of this section, each arriving alien applying for admission (or boarding the vessel or aircraft on which he or she arrives) into the United States for lawful permanent residence, or as a lawful permanent resident returning to an unrelinquished lawful permanent residence in the United States, shall present one of the following:
 
 (1) A valid, unexpired immigrant visa;

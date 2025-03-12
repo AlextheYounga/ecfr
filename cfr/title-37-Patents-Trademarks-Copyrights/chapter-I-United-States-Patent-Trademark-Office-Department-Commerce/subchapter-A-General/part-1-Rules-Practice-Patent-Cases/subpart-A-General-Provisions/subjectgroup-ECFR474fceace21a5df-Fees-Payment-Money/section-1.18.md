@@ -1,5 +1,7 @@
 ##### § 1.18 Patent post allowance (including issue) fees. #####
 
+Link to an amendment published at 85 FR 46988, Aug. 3, 2020.
+
 (a)(1) Issue fee for issuing each original patent, except a design or plant patent, or for issuing each reissue patent:
 
 |     By a micro entity (§ 1.29)      |$250.00 |

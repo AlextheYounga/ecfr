@@ -1,7 +1,5 @@
 ##### 16.504 Indefinite-quantity contracts. #####
 
-Link to an amendment published at 85 FR 40071, July 2, 2020.
-
 (a) *Description.* An indefinite-quantity contract provides for an indefinite quantity, within stated limits, of supplies or services during a fixed period. The Government places orders for individual requirements. Quantity limits may be stated as number of units or as dollar values.
 
 (1) The contract must require the Government to order and the contractor to furnish at least a stated minimum quantity of supplies or services. In addition, if ordered, the contractor must furnish any additional quantities, not to exceed the stated maximum. The contracting officer should establish a reasonable maximum quantity based on market research, trends on recent contracts for similar supplies or services, survey of potential users, or any other rational basis.
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 40071, July 2, 2020.
 
 (*4*) The projected orders are so integrally related that only a single contractor can reasonably perform the work;
 
-(*5*) The total estimated value of the contract is less than the simplified acquisition threshold; or
+(*5*) The total estimated value of the contract is at or below the simplified acquisition threshold; or
 
 (*6*) Multiple awards would not be in the best interests of the Government.
 
@@ -86,4 +84,4 @@ Link to an amendment published at 85 FR 40071, July 2, 2020.
 
 (ii) The requirements of paragraph (c)(2)(i) of this section do not apply if the contracting officer or other official designated by the head of the agency determines that the advisory and assistance services are incidental and not a significant component of the contract.
 
-[65 FR 24318, Apr. 25, 2000, as amended at 71 FR 57367, Sept. 28, 2006; 73 FR 54010, Sept. 17, 2008; 75 FR 13421, Mar. 19, 2010; 75 FR 53133, Aug. 30, 2010; 78 FR 13767, Feb. 28, 2013; 80 FR 38297, July 2, 2015; 84 FR 38838, Aug. 7, 2019]
+[65 FR 24318, Apr. 25, 2000, as amended at 71 FR 57367, Sept. 28, 2006; 73 FR 54010, Sept. 17, 2008; 75 FR 13421, Mar. 19, 2010; 75 FR 53133, Aug. 30, 2010; 78 FR 13767, Feb. 28, 2013; 80 FR 38297, July 2, 2015; 84 FR 38838, Aug. 7, 2019; 85 FR 40071, July 2, 2020]

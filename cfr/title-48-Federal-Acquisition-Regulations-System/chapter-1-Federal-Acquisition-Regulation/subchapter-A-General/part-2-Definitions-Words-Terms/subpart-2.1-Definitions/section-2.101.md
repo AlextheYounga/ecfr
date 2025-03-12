@@ -1,6 +1,6 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 85 FR 40063, July 2, 2020.Link to an amendment published at 85 FR 40067, July 2, 2020.Link to an amendment published at 85 FR 40070, July 2, 2020.
+Link to an amendment published at 85 FR 40067, July 2, 2020.
 
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
@@ -109,6 +109,12 @@ Link to an amendment published at 85 FR 40063, July 2, 2020.Link to an amendment
 *Cognizant Federal agency* means the Federal agency that, on behalf of all Federal agencies, is responsible for establishing final indirect cost rates and forward pricing rates, if applicable, and administering cost accounting standards for all contracts in a business unit.
 
 *Combatant commander* means the commander of a unified or specified combatant command established in accordance with 10 U.S.C. 161.
+
+*Commercial and Government Entity (CAGE) code* means -
+
+(1) An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity by unique location; or
+
+(2) An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.
 
 *Commercial component* means any component that is a commercial item.
 
@@ -715,6 +721,8 @@ Link to an amendment published at 85 FR 40063, July 2, 2020.Link to an amendment
 *Qualification requirement* means a Government requirement for testing or other quality assurance demonstration that must be completed before award of a contract.
 
 *Qualified products list (QPL)* means a list of products that have been examined, tested, and have satisfied all applicable qualification requirements.
+
+*Qualifying offeror,* as used in 13.106-1 and 15.304, means an offeror that is determined to be a responsible source, submits a technically acceptable proposal that conforms to the requirements of the solicitation, and the contracting officer has no reason to believe would be likely to offer other than fair and reasonable pricing (10 U.S.C. 2305(a)(3)(D)).
 
 *Receiving report* means written evidence that indicates Government acceptance of supplies delivered or services performed (see subpart 46.6). Receiving reports must meet the requirements of 32.905(c).
 

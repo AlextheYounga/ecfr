@@ -1,5 +1,7 @@
 ##### § 1.431 International application requirements. #####
 
+Link to an amendment published at 85 FR 46990, Aug. 3, 2020.
+
 (a) An international application shall contain, as specified in the Treaty and the Regulations, a Request, a description, one or more claims, an abstract, and one or more drawings (where required). (PCT Art. 3(2) and section 207 of the Administrative Instructions.)
 
 (b) An international filing date will be accorded by the United States Receiving Office, at the time to receipt of the international application, provided that:

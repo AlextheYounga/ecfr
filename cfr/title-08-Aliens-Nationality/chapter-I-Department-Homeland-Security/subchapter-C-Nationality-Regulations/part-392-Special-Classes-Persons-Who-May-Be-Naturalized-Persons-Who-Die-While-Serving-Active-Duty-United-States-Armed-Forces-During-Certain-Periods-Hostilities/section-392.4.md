@@ -1,5 +1,7 @@
 ##### § 392.4 Issuance of a certificate of citizenship. #####
 
+Link to an amendment published at 85 FR 46929, Aug. 3, 2020.
+
 (a) *Approval of application.* When an application for posthumous citizenship under this part has been approved, USCIS will issue a Certificate of Citizenship to the applicant in the name of the decedent.
 
 (b) *Delivery of certificate.* Delivery of the Certificate of Citizenship shall be made by registered mail to the address designated by the applicant. If the applicant resides outside the United States, the certificate shall be sent by registered mail to the Service office abroad, if one is located where delivery is to be made; otherwise, it shall be forwarded to the nearest American Embassy or Consulate.

@@ -1,10 +1,10 @@
 ##### 4.1005-2 Exceptions. #####
 
-Link to an amendment published at 85 FR 40071, July 2, 2020.
+(a) *Indefinite-delivery contracts*—(1) *General.* The following required data elements are not known at time of issuance of an indefinite-delivery contract, but shall be provided in each order at the time of issuance: accounting classification, delivery date and destination, or period and place of performance.
 
-(a) *Indefinite-delivery contracts* - (1) *General.* The following required data elements are not known at time of issuance of an indefinite-delivery contract, but shall be provided in each order at the time of issuance: accounting classification, delivery date and destination, or period and place of performance.
+(2) *Indefinite-delivery indefinite-quantity (IDIQ) and requirements contracts.* (i) IDIQ and requirements contracts may omit the quantity at the line item level for the base award provided that the total contract minimum and maximum, or the estimate, respectively, is stated.
 
-(2) *Indefinite-delivery indefinite-quantity (IDIQ) and requirements contracts.* IDIQ and requirements contracts may omit the quantity at the line item level for the base award provided that the total contract minimum and maximum, or the estimate, respectively, is stated.
+(ii) Multiple-award IDIQ contracts awarded using the procedures at 13.106-1(a)(2)(iv)(A) or 15.304(c)(1)(ii)(A) may omit price or cost at the line item or subline item level for the contract award, provided that the total contract minimum and maximum is stated (see 16.504(a)(1)).
 
 (b) *Item description and PSC.* These data elements are not required in the line item if there are associated deliverable subline items that include the actual detailed identification. When this exception applies, use a general narrative description for the line item.
 
@@ -18,4 +18,4 @@ Link to an amendment published at 85 FR 40071, July 2, 2020.
 
 (4) The procurement instrument is for services and firm prices have been established for elements of the total price, but the actual number of the elements is not known until performance (*e.g.,* a labor-hour contract for maintenance/repair). The contracting officer may structure these procurement instruments to reflect a firm or estimated total amount for each line item.
 
-[82 FR 4711, Jan. 13, 2017, as amended at 84 FR 19841, May 6, 2019]
+[82 FR 4711, Jan. 13, 2017, as amended at 84 FR 19841, May 6, 2019; 85 FR 40071, July 2, 2020]

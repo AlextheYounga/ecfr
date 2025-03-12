@@ -1,10 +1,8 @@
 ##### § 230.486 Effective date of post-effective amendments and registration statements filed by certain closed-end management investment companies. #####
 
-Link to an amendment published at 85 FR 33356, June 1, 2020.
+(a) *Automatic effectiveness.* Except as otherwise provided in this section, a post-effective amendment to a registration statement, or a registration statement described in paragraph (g) of this section, filed by a registered closed-end management investment company or business development company which makes periodic repurchase offers under § 270.23c-3 of this chapter or which offers securities under § 230.415(a)(1)(ix), shall become effective on the sixtieth day after the filing thereof, or a later date designated by the registrant on the facing sheet of the amendment or registration statement, which date shall not be later than eighty days after the date on which the amendment or registration statement is filed, *Provided,* that the Commission, having due regard to the public interest and the protection of investors, may declare an amendment or registration statement filed under this paragraph (a) effective on an earlier date.
 
-(a) *Automatic effectiveness.* Except as otherwise provided in this section, a post-effective amendment to a registration statement, or a registration statement filed for the purpose of registering additional shares of common stock for which a registration statement filed on Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) is effective, filed by a registered closed-end management investment company or business development company which makes periodic repurchase offers under § 270.23c-3 of this chapter, shall become effective on the sixtieth day after the filing thereof, or a later date designated by the registrant on the facing sheet of the amendment or registration statement, which date shall not be later than eighty days after the date on which the amendment or registration statement is filed, *Provided,* that the Commission, having due regard to the public interest and the protection of investors, may declare an amendment or registration statement filed under this paragraph (a) effective on an earlier date.
-
-(b) *Immediate effectiveness.* Except as otherwise provided in this section, a post-effective amendment to a registration statement, or a registration statement for additional shares of common stock, filed by a registered closed-end management investment company or business development company which makes periodic repurchase offers under § 270.23c-3 of this chapter, shall become effective on the date on which it is filed with the Commission, or a later date designated by the registrant on the facing sheet of the amendment or registration statement, which date shall be not later than thirty days after the date on which the amendment or registration statement is filed, except that a post-effective amendment including a designation of a new effective date under paragraph (b)(1)(iii) of this section shall become effective on the new effective date designated therein, *Provided,* that the following conditions are met:
+(b) *Immediate effectiveness.* Except as otherwise provided in this section, a post-effective amendment to a registration statement, or a registration statement, filed by a registered closed-end management investment company or business development company which makes periodic repurchase offers under § 270.23c-3 of this chapter or which offers securities under § 230.415(a)(1)(ix), shall become effective on the date on which it is filed with the Commission, or a later date designated by the registrant on the facing sheet of the amendment or registration statement, which date shall be not later than thirty days after the date on which the amendment or registration statement is filed, except that a post-effective amendment including a designation of a new effective date under paragraph (b)(1)(iii) of this section shall become effective on the new effective date designated therein, *Provided,* that the following conditions are met:
 
 (1) It is filed for no purpose other than one or more of the following:
 
@@ -14,13 +12,15 @@ Link to an amendment published at 85 FR 33356, June 1, 2020.
 
 (iii) Designating a new effective date for a previously filed post-effective amendment or registration statement for additional shares under paragraph (a) of this section, which has not yet become effective, *Provided,* that the new effective date shall be no earlier than the effective date designated in the previously filed amendment or registration statement under paragraph (a) of this section and no later than thirty days after that date;
 
-(iv) Disclosing or updating the information required by Item 9c of Form N-2 [17 CFR 239.14 and 274.11a-1];
+(iv) Disclosing or updating the information required by Item 9.1.c of Form N-2 [17 CFR 239.14 and 274.11a-1];
 
-(v) Making any non-material changes which the registrant deems appropriate; and
+(v) Making any non-material changes which the registrant deems appropriate;
 
-(vi) Any other purpose which the Commission shall approve.
+(vi) Complying with § 230.415(a)(5) and (6); and
 
-(2) The registrant represents that the amendment is filed solely for one or more of the purposes specified in paragraph (b)(1) of this section and that no material event requiring disclosure in the prospectus, other than one listed in paragraph (b)(1) or one for which the Commission has approved a filing under paragraph (b)(1)(vi) of this section, has occurred since the latest of the following three dates:
+(vii) Any other purpose which the Commission shall approve.
+
+(2) The registrant represents that the amendment is filed solely for one or more of the purposes specified in paragraph (b)(1) of this section and that no material event requiring disclosure in the prospectus, other than one listed in paragraph (b)(1) or one for which the Commission has approved a filing under paragraph (b)(1)(vii) of this section, has occurred since the latest of the following three dates:
 
 (i) The effective date of the registrant's registration statement;
 
@@ -60,4 +60,10 @@ Note:
 
 To determine the date of automatic effectiveness, the day following the filing date is the first day of the time period. For example, a post-effective amendment filed under paragraph (a) of this section on November 1 would become effective on December 31.
 
-[59 FR 43466, Aug. 24, 1994, as amended at 64 FR 27894, May 21, 1999]
+(g) *Registration statements.* A registration statement can become effective under paragraph (a) of this section if it is filed for the purpose of:
+
+(1) Registering additional shares of common stock for which a registration statement filed on Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) is effective; or
+
+(2) Complying with § 230.415(a)(5) and (6).
+
+[59 FR 43466, Aug. 24, 1994, as amended at 64 FR 27894, May 21, 1999; 85 FR 33356, June 1, 2020]

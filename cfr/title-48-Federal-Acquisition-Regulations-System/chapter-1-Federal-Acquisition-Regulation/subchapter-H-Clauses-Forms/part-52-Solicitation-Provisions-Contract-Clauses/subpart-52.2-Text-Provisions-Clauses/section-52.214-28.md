@@ -1,8 +1,6 @@
 ##### 52.214-28 Subcontractor Certified Cost or Pricing Data - Modifications - Sealed Bidding. #####
 
-Link to an amendment published at 85 FR 40074, July 2, 2020.
-
-As prescribed in 14.201-7(c), insert the following clause:
+As prescribed in 14.201-7(c)(1)(i), insert the following clause:
 
 Subcontractor Certified Cost or Pricing Data - Modifications - Sealed Bidding (JUN 2020)
 
@@ -18,4 +16,14 @@ Subcontractor Certified Cost or Pricing Data - Modifications - Sealed Bidding (J
 
 (d) The Contractor shall insert the substance of this clause, including this paragraph (d), in each subcontract that, when entered into, exceeds the threshold for submission of certified cost or pricing data in FAR 15.403-4(a)(1).
 
-(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 50 FR 1747, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 56 FR 67415, Dec. 30, 1991; 59 FR 62499, Dec. 5, 1994; 60 FR 48218, Sept. 18, 1995; 62 FR 51271, Sept. 30, 1997; 75 FR 53150, Aug. 30, 2010; 85 FR 27094, May 6, 2020]
+(End of clause)
+
+*Alternate I* (AUG 2020). As prescribed in 14.201-7(c)(1)(ii), substitute the following paragraph (b) in place of paragraph (b) of the basic clause:
+
+(b) Unless an exception under FAR 15.403-1(b) applies, the Contractor shall require the subcontractor to submit certified cost or pricing data (actually or by specific identification in writing), as part of the subcontractor's proposal in accordance with FAR 15.408, Table 15-2 (to include any information reasonably required to explain the subcontractor's estimating process such as the judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data, and the nature and amount of any contingencies included in the price) -
+
+(1) Before modifying any subcontract that was awarded prior to July 1, 2018, involving a pricing adjustment expected to exceed $750,000; or
+
+(2) Before awarding any subcontract expected to exceed $2 million on or after July 1, 2018, or modifying any subcontract that was awarded on or after July 1, 2018, involving a pricing adjustment expected to exceed $2 million.
+
+[48 FR 42478, Sept. 19, 1983, as amended at 50 FR 1747, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 56 FR 67415, Dec. 30, 1991; 59 FR 62499, Dec. 5, 1994; 60 FR 48218, Sept. 18, 1995; 62 FR 51271, Sept. 30, 1997; 75 FR 53150, Aug. 30, 2010; 85 FR 27094, May 6, 2020; 85 FR 40074, July 2, 2020]

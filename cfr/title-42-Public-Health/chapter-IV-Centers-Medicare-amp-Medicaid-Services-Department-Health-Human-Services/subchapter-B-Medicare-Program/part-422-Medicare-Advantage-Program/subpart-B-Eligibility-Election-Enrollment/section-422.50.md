@@ -1,14 +1,12 @@
 ##### § 422.50 Eligibility to elect an MA plan. #####
 
-Link to an amendment published at 85 FR 33901, June 2, 2020.
-
 For this subpart, all references to an MA plan include MA-PD and both MA local and MA regional plans, as defined in § 422.2 unless specifically noted otherwise.
 
 (a) An individual is eligible to elect an MA plan if he or she meets all of the following:;
 
 (1) Is entitled to Medicare under Part A and enrolled in Part B (except that an individual entitled only to Part B and who was enrolled in an HMO or CMP with a risk contract under part 417 of this chapter on December 31, 1998 may continue to be enrolled in the MA organization as an MA plan enrollee).
 
-(2) Has not been medically determined to have end-stage renal disease, except that -
+(2) For coverage before January 1, 2021, has not been medically determined to have end-stage renal disease, except that—
 
 (i) An individual who develops end-stage renal disease while enrolled in an MA plan or in a health plan offered by the MA organization is eligible to elect an MA plan offered by that organization;
 
@@ -32,4 +30,4 @@ For this subpart, all references to an MA plan include MA-PD and both MA local a
 
 (b) An MA eligible individual may not be enrolled in more than one MA plan at any given time.
 
-[63 FR 35071, June 26, 1998; 63 FR 52611, Oct. 1, 1998, as amended at 65 FR 40316, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4715, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 80 FR 7958, Feb. 12, 2015]
+[63 FR 35071, June 26, 1998; 63 FR 52611, Oct. 1, 1998, as amended at 65 FR 40316, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4715, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 80 FR 7958, Feb. 12, 2015; 85 FR 33901, June 2, 2020]

@@ -1,5 +1,7 @@
 ##### § 204.310 Filing requirements for Form I-800A. #####
 
+Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
+
 (a) *Completing and filing the Form.* A United States citizen seeking to be determined eligible and suitable as the adoptive parent of a Convention adoptee must:
 
 (1) Complete Form I-800A, including a Form I-800A Supplement 1 for each additional adult member of the household, in accordance with the instructions that accompany the Form I-800A.

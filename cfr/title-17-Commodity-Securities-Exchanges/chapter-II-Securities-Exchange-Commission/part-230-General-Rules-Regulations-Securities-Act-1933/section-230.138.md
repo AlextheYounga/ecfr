@@ -1,18 +1,20 @@
 ##### § 230.138 Publications or distributions of research reports by brokers or dealers about securities other than those they are distributing. #####
 
-Link to an amendment published at 85 FR 33352, June 1, 2020.
-
 (a) *Registered offerings.* Under the following conditions, a broker's or dealer's publication or distribution of research reports about securities of an issuer shall be deemed for purposes of sections 2(a)(10) and 5(c) of the Act not to constitute an offer for sale or offer to sell a security which is the subject of an offering pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective, even if the broker or dealer is participating or will participate in the registered offering of the issuer's securities:
 
 (1)(i) The research report relates solely to the issuer's common stock, or debt securities or preferred stock convertible into its common stock, and the offering involves solely the issuer's non-convertible debt securities or non-convertible, non-participating preferred stock; or
 
 (ii) The research report relates solely to the issuer's non-convertible debt securities or non-convertible, non-participating preferred stock, and the offering involves solely the issuer's common stock, or debt securities or preferred stock convertible into its common stock.
 
-*Instruction to paragraph (a)(1):* If the issuer has filed a shelf registration statement under Rule 415(a)(1)(x) (§ 230.415(a)(1)(x)) or pursuant to General Instruction I.D. of Form S-3 or General Instruction I.C. of Form F-3 (§ 239.13 or § 239.33 of this chapter) with respect to multiple classes of securities, the conditions of paragraph (a)(1) of this section must be satisfied for the offering in which the broker or dealer is participating or will participate.
+(iii) Note: If the issuer has filed a shelf registration statement under § 230.415(a)(1)(x) (Rule 415(a)(1)(x)) or pursuant to General Instruction I.D. of Form S-3, General Instruction I.C. of Form F-3 (§ 239.13 or § 239.33 of this chapter), or pursuant to General Instructions A.2 and B of Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) with respect to multiple classes of securities, the conditions of paragraph (a)(1) of this section must be satisfied for the offering in which the broker or dealer is participating or will participate.
 
 (2) The issuer as of the date of reliance on this section:
 
-(i) Is required to file reports, and has filed all periodic reports required during the preceding 12 months (or such shorter time that the issuer was required to file such reports) on Forms 10-K (§ 249.310 of this chapter), 10-Q (§ 249.308a of this chapter), and 20-F (§ 249.220f of this chapter) pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)); or
+(i)(A) Is required to file reports, and has filed all periodic reports required during the preceding 12 months (or such shorter time that the issuer was required to file such reports) on Forms 10-K (§ 249.310 of this chapter), 10-Q (§ 249.308a of this chapter), and 20-F (§ 249.220f of this chapter) pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)); or
+
+(B)(*1*) Is a registered closed-end investment company; and
+
+(*2*) Is required to file reports, and has filed all periodic reports required during the preceding 12 months (or such shorter time that the issuer was required to file such reports) on Forms N-CSR (§§ 249.331 and 274.128 of this chapter), N-PORT (§ 274.150 of this chapter), and N-CEN (§§ 249.330 and 274.101 of this chapter) pursuant to Section 30 of the Investment Company Act; or
 
 (ii) Is a foreign private issuer that:
 
@@ -50,4 +52,4 @@ Link to an amendment published at 85 FR 33352, June 1, 2020.
 
 (d) *Definition of research report.* For purposes of this section, research report means a written communication, as defined in Rule 405, that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.
 
-[70 FR 44802, Aug. 3, 2005, as amended at 73 FR 967, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011]
+[70 FR 44802, Aug. 3, 2005, as amended at 73 FR 967, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011; 85 FR 33352, June 1, 2020]

@@ -1,5 +1,7 @@
 ##### § 245a.18 Ineligibility and applicability of grounds of inadmissibility. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *Ineligible aliens.* (1) An alien who has been convicted of a felony or of three or misdemeanors committed in the United States is ineligible for adjustment to LPR status under this Subpart B; or
 
 (2) An alien who has assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion is ineligible for adjustment of status under this Subpart B.

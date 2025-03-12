@@ -1,8 +1,6 @@
 ##### 52.215-12 Subcontractor Certified Cost or Pricing Data. #####
 
-Link to an amendment published at 85 FR 40074, July 2, 2020.
-
-As prescribed in 15.408(d), insert the following clause:
+As prescribed in 15.408(d)(1), insert the following clause:
 
 Subcontractor Certified Cost or Pricing Data (JUN 2020)
 
@@ -16,4 +14,14 @@ Subcontractor Certified Cost or Pricing Data (JUN 2020)
 
 (2) The substance of the clause at FAR 52.215-13, Subcontractor Certified Cost or Pricing Data - Modifications.
 
-(End of clause)[62 FR 51263, Sept. 30, 1997, as amended at 75 FR 53151, Aug. 30, 2010; 85 FR 27094, May 6, 2020]
+(End of clause)
+
+*Alternate I* (AUG 2020). As prescribed in 15.408(d)(2), substitute the following paragraph (a) in place of paragraph (a) of the basic clause:
+
+(a) Unless an exception under FAR 15.403-1 applies, the Contractor shall require the subcontractor to submit certified cost or pricing data (actually or by specific identification in writing), in accordance with FAR 15.408, Table 15-2 (to include any information reasonably required to explain the subcontractor's estimating process such as the judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data, and the nature and amount of any contingencies included in the price) -
+
+(1) Before modifying any subcontract that was awarded prior to July 1, 2018, involving a pricing adjustment expected to exceed $750,000; or
+
+(2) Before awarding any subcontract expected to exceed $2 million on or after July 1, 2018, or modifying any subcontract that was awarded on or after July 1, 2018, involving a pricing adjustment expected to exceed $2 million.
+
+[62 FR 51263, Sept. 30, 1997, as amended at 75 FR 53151, Aug. 30, 2010; 85 FR 27094, May 6, 2020; 85 FR 40074, July 2, 2020]

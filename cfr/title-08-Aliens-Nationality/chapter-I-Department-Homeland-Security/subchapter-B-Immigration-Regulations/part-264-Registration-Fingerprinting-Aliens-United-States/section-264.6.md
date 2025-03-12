@@ -1,5 +1,7 @@
 ##### § 264.6 Application for a nonimmigrant arrival-departure record. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *Eligibility.* USCIS may issue a new or replacement arrival-departure record to a nonimmigrant who seeks:
 
 (1) To replace a lost or stolen record;

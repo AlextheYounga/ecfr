@@ -1,5 +1,7 @@
 ##### § 103.40 Genealogical Research Requests. #####
 
+Link to an amendment published at 85 FR 46915, Aug. 3, 2020.
+
 (a) *Nature of requests.* Genealogy requests are requests for searches and/or copies of historical records relating to a deceased person, usually for genealogy and family history research purposes.
 
 (b) *Manner of requesting genealogical searches and records.* Requests must be submitted on Form G-1041, Genealogy Index Search Request, or Form G-1041A, Genealogy Records Request, and mailed to the address listed on the form. Beginning on August 13, 2008, USCIS will accept requests electronically through its Web site at *http://www.USCIS.gov.* A separate request on Form G-1041 must be submitted for each individual searched, and that form will call for the name, aliases, and all alternate spellings relating to the one individual immigrant. Form G-1041A may be submitted to request one or more separate records relating to separate individuals.

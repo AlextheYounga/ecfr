@@ -1,5 +1,7 @@
 ##### § 264.2 Application for creation of record of permanent residence. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *Jurisdiction.* An applicant who believes that he/she is eligible for presumption of lawful admission for permanent residence under § 101.1 or § 101.2 of this chapter or for lawful permanent residence as a person born in the United States to a foreign diplomatic officer under § 101.3 of this chapter shall submit his/her application for creation of a record of lawful permanent residence on Form I-485 in accordance with the instructions on the form and paragraph (c) of this section. The applicant must be physically present in the United States at the time of submission of his/her application.
 
 (b) *Applicant under eighteen years old.* If the applicant is under eighteen years old, the applicant's parent or legal guardian shall prepare and sign the application in the applicant's behalf.

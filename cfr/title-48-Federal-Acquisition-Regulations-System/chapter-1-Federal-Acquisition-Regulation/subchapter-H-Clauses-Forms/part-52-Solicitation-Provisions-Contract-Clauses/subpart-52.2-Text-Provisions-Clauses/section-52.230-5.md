@@ -1,12 +1,10 @@
-##### 52.230-5 Cost Accounting Standards - Educational Institution. #####
+##### 52.230-5 Cost Accounting Standards—Educational Institution. #####
 
-Link to an amendment published at 85 FR 40074, July 2, 2020.
+As prescribed in 30.201-4(e)(1), insert the following clause:
 
-As prescribed in 30.201-4(e), insert the following clause:
+Cost Accounting Standards—Educational Institution (JUN 2020)
 
-Cost Accounting Standards - Educational Institution (JUN 2020)
-
-(a) Unless the contract is exempt under 48 CFR 9903.201-1 and 9903.201-2, the provisions of 48 CFR part 9903 are incorporated herein by reference and the Contractor, in connection with this contract, shall -
+(a) Unless the contract is exempt under 48 CFR 9903.201-1 and 9903.201-2, the provisions of 48 CFR part 9903 are incorporated herein by reference and the Contractor, in connection with this contract, shall—
 
 (1) (*CAS-covered Contracts only*). If a business unit of an educational institution (defined as an institution of higher education in the OMB Uniform Guidance at 2 CFR part 200, subpart A and 20 U.S.C. 1001) is required to submit a Disclosure Statement, disclose in writing the Contractor's cost accounting practices as required by 48 CFR 9003.202-1 through 9903.202-5, including methods of distinguishing direct costs from indirect costs and the basis used for accumulating and allocating indirect costs. The practices disclosed for this contract shall be the same as the practices currently disclosed and applied on all other contracts and subcontracts being performed by the Contractor and which contain a Cost Accounting Standards (CAS) clause. If the Contractor has notified the Contracting Officer that the Disclosure Statement contains trade secrets, and commercial or financial information which is privileged and confidential, the Disclosure Statement shall be protected and shall not be released outside of the Government.
 
@@ -28,7 +26,7 @@ Cost Accounting Standards - Educational Institution (JUN 2020)
 
 (c) The Contractor shall permit any authorized representatives of the Government to examine and make copies of any documents, papers, or records relating to compliance with the requirements of this clause.
 
-(d) The Contractor shall include in all negotiated subcontracts which the Contractor enters into, the substance of this clause, except paragraph (b), and shall require such inclusion in all other subcontracts, of any tier, including the obligation to comply with all applicable CAS in effect on the subcontractor's award date or, if the subcontractor has submitted certified cost or pricing data, on the date of final agreement on price as shown on the subcontractor's signed Certificate of Current Cost or Pricing Data, except that -
+(d) The Contractor shall include in all negotiated subcontracts which the Contractor enters into, the substance of this clause, except paragraph (b), and shall require such inclusion in all other subcontracts, of any tier, including the obligation to comply with all applicable CAS in effect on the subcontractor's award date or, if the subcontractor has submitted certified cost or pricing data, on the date of final agreement on price as shown on the subcontractor's signed Certificate of Current Cost or Pricing Data, except that—
 
 (1) If the subcontract is awarded to a business unit which pursuant to 48 CFR 9903.201-2 is subject to other types of CAS coverage, the substance of the applicable clause set forth in 48 CFR 9903.201-4 shall be inserted;
 
@@ -36,4 +34,4 @@ Cost Accounting Standards - Educational Institution (JUN 2020)
 
 (3) The requirement shall not apply to negotiated subcontracts otherwise exempt from the requirement to include a CAS clause as specified in 48 CFR 9903.201-1.
 
-(End of clause)[61 FR 18919, Apr. 29, 1996, as amended at 63 FR 9061, Feb. 23, 1998; 73 FR 54013, Sept. 17, 2008; 75 FR 53152, Aug. 30, 2010; 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015; 81 FR 45854, July 14, 2016; 85 FR 27097, May 6, 2020]
+(End of clause)[61 FR 18919, Apr. 29, 1996, as amended at 63 FR 9061, Feb. 23, 1998; 73 FR 54013, Sept. 17, 2008; 75 FR 53152, Aug. 30, 2010; 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015; 81 FR 45854, July 14, 2016; 85 FR 27097, May 6, 2020; 85 FR 40074, July 2, 2020]

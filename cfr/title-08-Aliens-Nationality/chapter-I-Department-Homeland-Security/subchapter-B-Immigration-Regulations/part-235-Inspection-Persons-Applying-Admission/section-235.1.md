@@ -1,5 +1,7 @@
 ##### § 235.1 Scope of examination. #####
 
+Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+
 (a) *General.* Application to lawfully enter the United States shall be made in person to an immigration officer at a U.S. port-of-entry when the port is open for inspection, or as otherwise designated in this section.
 
 (b) *U.S. Citizens.* A person claiming U.S. citizenship must establish that fact to the examining officer's satisfaction and must present a U.S. passport or alternative documentation as required by 22 CFR part 53. If such applicant for admission fails to satisfy the examining immigration officer that he or she is a U.S. citizen, he or she shall thereafter be inspected as an alien. A U.S. citizen must present a valid unexpired U.S. passport book upon entering the United States, unless he or she presents one of the following documents:

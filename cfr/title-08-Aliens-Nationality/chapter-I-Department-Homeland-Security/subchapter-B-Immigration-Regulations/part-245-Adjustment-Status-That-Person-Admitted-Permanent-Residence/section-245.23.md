@@ -1,5 +1,7 @@
 ##### § 245.23 Adjustment of aliens in T nonimmigrant classification. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *Eligibility of principal T-1 applicants.* Except as described in paragraph (c) of this section, an alien may be granted adjustment of status to that of an alien lawfully admitted for permanent residence, provided the alien:
 
 (1) Applies for such adjustment;

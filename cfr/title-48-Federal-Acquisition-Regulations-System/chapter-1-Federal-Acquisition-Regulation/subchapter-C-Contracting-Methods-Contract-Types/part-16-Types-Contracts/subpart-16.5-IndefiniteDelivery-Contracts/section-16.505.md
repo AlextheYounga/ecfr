@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 85 FR 40071, July 2, 2020.
-
 (a) *General.* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -154,6 +152,8 @@ Link to an amendment published at 85 FR 40071, July 2, 2020.
 
 (F) In accordance with section 1331 of Public Law 111-240 (15 U.S.C. 644(r)), contracting officers may, at their discretion, set aside orders for any of the small business concerns identified in 19.000(a)(3). When setting aside orders for small business concerns, the specific small business program eligibility requirements identified in part 19 apply.
 
+(G) For DoD, NASA, and the Coast Guard, the order satisfies one of the exceptions permitting the use of other than full and open competition listed in 6.302 (10 U.S.C. 2304c(b)(5)). The public interest exception shall not be used unless Congress is notified in accordance with 10 U.S.C. 2304(c)(7).
+
 (ii) The justification for an exception to fair opportunity shall be in writing as specified in paragraph (b)(2)(ii)(A) or (B) of this section. No justification is needed for the exception described in paragraph (b)(2)(i)(F) of this section.
 
 (A) *Orders exceeding $3,500, but not exceeding the simplified acquisition threshold.* The contracting officer shall document the basis for using an exception to the fair opportunity process. If the contracting officer uses the logical follow-on exception, the rationale shall describe why the relationship between the initial order and the follow-on is logical (*e.g.,* in terms of scope, period of performance, or value).
@@ -178,7 +178,7 @@ Link to an amendment published at 85 FR 40071, July 2, 2020.
 
 (*9*) Evidence that any supporting data that is the responsibility of technical or requirements personnel (*e.g.,* verifying the Government's minimum needs or requirements or other rationale for an exception to fair opportunity) and which form a basis for the justification have been certified as complete and accurate by the technical or requirements personnel.
 
-(*10*) A written determination by the approving official that one of the circumstances in paragraphs (b)(2)(i)(A) through (E) of this section applies to the order.
+(*10*) A written determination by the approving official that one of the circumstances in paragraphs (b)(2)(i)(A) through (E) and (G) of this section applies to the order.
 
 (C) *Approval.* (*1*) For proposed orders exceeding the simplified acquisition threshold, but not exceeding $700,000, the ordering activity contracting officer's certification that the justification is accurate and complete to the best of the ordering activity contracting officer's knowledge and belief will serve as approval, unless a higher approval level is established in accordance with agency procedures.
 

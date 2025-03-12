@@ -1,5 +1,7 @@
 ##### § 223.2 Application and processing. #####
 
+Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+
 (a) *Application.* An applicant must submit an application for a reentry permit, refugee travel document, or advance parole on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions.
 
 (b) *Filing eligibility* - (1) *Reentry permit.* An applicant for a reentry permit must file such application while in the United States and in status as a lawful permanent resident or conditional permanent resident.

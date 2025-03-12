@@ -1,12 +1,10 @@
 ##### § 301-11.11 How do I select lodging and make lodging reservations? #####
 
-Link to an amendment published at 85 FR 39848, July 2, 2020.
-
 (a) You must make your lodging reservations through your agency's travel management service.
 
 (b) You should always stay in a “fire safe” facility. This is a facility that meets the fire safety requirements of the Hotel and Motel Fire Safety Act of 1990 (the Act), as amended (*see* 5 U.S.C. 5707a).
 
-(c) When selecting a commercial lodging facility, first consideration should be given to government lodging agreement programs such as FedRooms® (*http://www.fedrooms.com*). The advantages of obtaining lodging using the FedRooms® program are:
+(c) When selecting a commercial lodging facility, first consideration should be given to government lodging agreement programs such as FedRooms® (*https://www.fedrooms.com*). The advantages of obtaining lodging using the FedRooms® program are:
 
 (1) Lodging rates are set at or below per diem rates;
 
@@ -24,4 +22,4 @@ Note to § 301-11.11:
 
 5 U.S.C. 5707a does not apply to the District of Columbia government.
 
-[FTR Amdt. 2010-05, 75 FR 63104, Oct. 14, 2010]
+[FTR Amdt. 2010-05, 75 FR 63104, Oct. 14, 2010, as amended at 85 FR 39848, July 2, 2020]

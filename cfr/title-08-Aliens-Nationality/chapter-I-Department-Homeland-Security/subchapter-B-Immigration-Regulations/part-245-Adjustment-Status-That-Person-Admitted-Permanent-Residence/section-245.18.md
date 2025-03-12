@@ -1,5 +1,7 @@
 ##### § 245.18 Physicians with approved employment-based petitions serving in a medically underserved area or a Veterans Affairs facility. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *Which physicians are eligible for this benefit?* Any alien physician who has been granted a national interest waiver under § 204.12 of this chapter may submit Form I-485 during the 6-year period following Service approval of a second preference employment-based immigrant visa petition.
 
 (b) *Do alien physicians have special time-related requirements for adjustment?* (1) Alien physicians who have been granted a national interest waiver under § 204.12 of this chapter must meet all the adjustment of status requirements of this part.

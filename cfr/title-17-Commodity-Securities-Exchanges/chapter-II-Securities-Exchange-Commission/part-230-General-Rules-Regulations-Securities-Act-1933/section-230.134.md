@@ -1,7 +1,5 @@
 ##### § 230.134 Communications not deemed a prospectus. #####
 
-Link to an amendment published at 85 FR 33352, June 1, 2020.
-
 Except as provided in paragraphs (e) and (g) of this section, the terms “prospectus” as defined in section 2(a)(10) of the Act or “free writing prospectus” as defined in Rule 405 (§ 230.405) shall not include a communication limited to the statements required or permitted by this section, provided that the communication is published or transmitted to any person only after a registration statement relating to the offering that includes a prospectus satisfying the requirements of section 10 of the Act (except as otherwise permitted in paragraph (a) of this section) has been filed.
 
 (a) Such communication may include any one or more of the following items of information, which need not follow the numerical sequence of this paragraph, provided that, except as to paragraphs (a)(4) through (6) of this section, the prospectus included in the filed registration statement does not have to include a price range otherwise required by rule:
@@ -82,6 +80,6 @@ No offer to buy the securities can be accepted and no part of the purchase price
 
 (f) The provision in paragraphs (c)(2) and (d) of this section that a prospectus that meets the requirements of section 10 of the Act precede or accompany a communication will be satisfied if such communication is an electronic communication containing an active hyperlink to such prospectus.
 
-(g) This section does not apply to a communication relating to an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48))
+(g) This section does not apply to a communication relating to an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), other than a registered closed-end investment company.
 
-[70 FR 44800, Aug. 3, 2005, as amended at 76 FR 46617, Aug. 3, 2011]
+[70 FR 44800, Aug. 3, 2005, as amended at 76 FR 46617, Aug. 3, 2011; 85 FR 33352, June 1, 2020]

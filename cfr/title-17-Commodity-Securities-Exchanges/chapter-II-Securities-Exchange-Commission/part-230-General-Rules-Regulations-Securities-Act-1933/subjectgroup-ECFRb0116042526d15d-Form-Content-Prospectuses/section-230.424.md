@@ -1,7 +1,5 @@
 ##### § 230.424 Filing of prospectuses, number of copies. #####
 
-Link to an amendment published at 85 FR 33354, June 1, 2020.
-
 (a) Except as provided in paragraph (f) of this section, five copies of every form of prospectus sent or given to any person prior to the effective date of the registration statement which varies from the form or forms of prospectus included in the registration statement as filed pursuant to § 230.402(a) of this chapter shall be filed as a part of the registration statement not later than the date such form of prospectus is first sent or given to any person: *Provided, however,* That only a form of prospectus that contains substantive changes from or additions to a prospectus previously filed with the Commission as part of a registration statement need be filed pursuant to this paragraph (a).
 
 (b) Ten copies of each form of prospectus purporting to comply with section 10 of the Act, except for documents constituting a prospectus pursuant to Rule 428(a) (§ 230.428(a)) or free writing prospectuses pursuant to Rule 164 and Rule 433 (§ 230.164 and § 230.433), shall be filed with the Commission in the form in which it is used after the effectiveness of the registration statement and identified as required by paragraph (e) of this section; *provided, however,* that only a form of prospectus that contains substantive changes from or additions to a previously filed prospectus is required to be filed; *Provided, further,* that this paragraph (b) shall not apply in respect of a form of prospectus contained in a registration statement and relating solely to securities offered at competitive bidding, which prospectus is intended for use prior to the opening of bids. Ten copies of the form of prospectus shall be filed or transmitted for filing as follows:
@@ -38,7 +36,7 @@ Any prospectus supplement being filed separately that is smaller than a prospect
 
 (e) Each copy of a form of prospectus filed under this rule shall contain in the upper right corner of the cover page the paragraph of this rule, including the subparagraph if applicable, under which the filing is made, and the file number of the registration statement to which the prospectus relates. The information required by this paragraph may be set forth in longhand, provided it is legible.
 
-(f) This rule shall not apply with respect to prospectuses of an investment company registered under the Investment Company Act of 1940 or a business development company.
+(f) This section shall not apply with respect to prospectuses of an investment company registered under the Investment Company Act of 1940, other than a registered closed-end investment company. References to “form of prospectus” in paragraphs (a), (b), and (c) of this section shall be deemed also to refer to the form of Statement of Additional Information.
 
 (g) A form of prospectus filed pursuant to this section that operates to reflect the payment of filing fees for an offering or offerings pursuant to Rule 456(b) (§ 230.456(b)) must include on its cover page the calculation of registration fee table reflecting the payment of such filing fees for the securities that are the subject of the payment.
 
@@ -52,4 +50,20 @@ Any prospectus supplement being filed separately that is smaller than a prospect
 
 *Instruction to paragraph (h):* The filing requirements of this paragraph (h) do not apply if a filing is made solely to add fees pursuant to § 230.457 and for no other purpose.
 
-[14 FR 202, Jan. 14, 1949, as amended at 16 FR 8736, Aug. 29, 1951; 19 FR 400, Jan. 22, 1954; 19 FR 6728, Oct. 20, 1954; 21 FR 1046, Feb. 15, 1956; 52 FR 21260, June 5, 1987; 53 FR 3878, Feb. 10, 1988; 55 FR 23923, June 13, 1990; 56 FR 30054, July 1, 1991; 57 FR 48975, Oct. 29, 1992; 60 FR 26615, May 17, 1995; 62 FR 39763, July 24, 1997; 70 FR 44812, Aug. 3, 2005; 79 FR 57329, Sept. 24, 2014]
+(i)(1) A form of prospectus filed pursuant to this section that operates to reflect the payment of filing fees for an offering of an indeterminate amount of exchange-traded vehicle securities pursuant to §§ 230.456(d) and 230.457(u) (Rule 456(d) and Rule 457(u)) shall be filed with the Commission within the time period set forth in Rule 456(d). The form of prospectus must be accompanied by the appropriate registration fee.
+
+(2) The form of prospectus must include the following information:
+
+(i) The name and address of issuer;
+
+(ii) The name of the securities for which the prospectus is filed;
+
+(iii) The Securities Act file number(s) of the registration statement(s) associated with the offering;
+
+(iv) The last day of the fiscal year for the issuer for which the prospectus is filed;
+
+(v) The calculation of registration fee information calculated pursuant to Rule 457(u); and
+
+(vi) The total interest due pursuant to Rule 456(d)(5) and the total amount of registration fee due including any such interest, if the prospectus is being filed more than 90 days after the end of the issuer's fiscal year.
+
+[14 FR 202, Jan. 14, 1949, as amended at 16 FR 8736, Aug. 29, 1951; 19 FR 400, Jan. 22, 1954; 19 FR 6728, Oct. 20, 1954; 21 FR 1046, Feb. 15, 1956; 52 FR 21260, June 5, 1987; 53 FR 3878, Feb. 10, 1988; 55 FR 23923, June 13, 1990; 56 FR 30054, July 1, 1991; 57 FR 48975, Oct. 29, 1992; 60 FR 26615, May 17, 1995; 62 FR 39763, July 24, 1997; 70 FR 44812, Aug. 3, 2005; 79 FR 57329, Sept. 24, 2014; 85 FR 33354, June 1, 2020]

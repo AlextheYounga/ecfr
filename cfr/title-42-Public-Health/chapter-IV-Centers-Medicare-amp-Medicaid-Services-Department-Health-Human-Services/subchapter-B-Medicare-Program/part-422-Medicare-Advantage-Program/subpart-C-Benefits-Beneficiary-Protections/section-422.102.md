@@ -1,7 +1,5 @@
 ##### § 422.102 Supplemental benefits. #####
 
-Link to an amendment published at 85 FR 33903, June 2, 2020.
-
 (a) *Mandatory supplemental benefits.* (1) Subject to CMS approval, an MA organization may require Medicare enrollees of an MA plan (other than an MSA plan) to accept or pay for services in addition to Medicare-covered services described in § 422.101.
 
 (2) If the MA organization imposes mandatory supplemental benefits, it must impose them on all Medicare beneficiaries enrolled in the MA plan.
@@ -22,4 +20,32 @@ Link to an amendment published at 85 FR 33903, June 2, 2020.
 
 (2) Offers its enrollees such benefits without cost-sharing or additional premium charges.
 
-[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019]
+(f) *Special supplemental benefits for the chronically ill (SSBCI)* - (1) *Requirements* - (i) *Chronically-ill enrollee.* (A) A chronically ill enrollee is an individual enrolled in the MA plan who has one or more comorbid and medically complex chronic conditions that meet all of the following:
+
+(*1*) Is life threatening or significantly limits the overall health or function of the enrollee;
+
+(*2*) Has a high risk of hospitalization of other adverse health outcomes; and
+
+(*3*) Requires intensive care coordination.
+
+(B) CMS may publish a non-exhaustive list of conditions that are medically complex chronic conditions that are life threatening or significantly limit the overall health or function of an individual.
+
+(ii) *SSBCI definition.* A special supplemental benefit for the chronically ill (SSBCI) is a supplemental benefit that has, with respect to a chronically ill enrollee, a reasonable expectation of improving or maintaining the health or overall function of the enrollee; an SSBCI that meets the standard in this paragraph (f)(1)(ii) may also include a benefit that is not primarily health related.
+
+(2) *Offering SSBCI.* (i) An MA plan may offer SSBCI to a chronically ill enrollee only as a mandatory supplemental benefit.
+
+(ii) Upon approval by CMS, an MA plan may offer SSBCI that are not uniform for all chronically ill enrollees in the plan.
+
+(iii) An MA plan may consider social determinants of health as a factor to help identify chronically ill enrollees whose health or overall function could be improved or maintained with SSBCI. An MA plan may not use social determinants of health as the sole basis for determining eligibility for SSBCI.
+
+(3) *Plan responsibilities.* An MA plan offering SSBCI must do all of the following:
+
+(i) Must have written policies for determining enrollee eligibility and must document its determination that an enrollee is a chronically ill enrollee based on the definition in paragraph (f)(1)(i) of this section.
+
+(ii) Make information and documentation related to determining enrollee eligibility available to CMS upon request.
+
+(iii) Must have written policies based on objective criteria for determining a chronically ill enrollee's eligibility to receive a particular SSBCI and must document these criteria.
+
+(iv) Document each determination that an enrollee is eligible to receive an SSBCI and make this information available to CMS upon request.
+
+[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 85 FR 33903, June 2, 2020]

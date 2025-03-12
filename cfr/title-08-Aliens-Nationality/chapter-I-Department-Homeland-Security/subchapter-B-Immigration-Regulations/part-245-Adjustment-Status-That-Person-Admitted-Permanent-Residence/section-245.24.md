@@ -1,5 +1,7 @@
 ##### § 245.24 Adjustment of aliens in U nonimmigrant status. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *Definitions.* As used in this section, the term:
 
 (1) *Continuous Physical Presence* means the period of time that the alien has been physically present in the United States and must be a continuous period of at least 3 years since the date of admission as a U nonimmigrant continuing through the date of the conclusion of adjudication of the application for adjustment of status. If the alien has departed from the United States for any single period in excess of 90 days or for any periods in the aggregate exceeding 180 days, the applicant must include a certification from the agency that signed the Form I-918, Supplement B, in support of the alien's U nonimmigrant status that the absences were necessary to assist in the criminal investigation or prosecution or were otherwise justified.

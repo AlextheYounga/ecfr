@@ -1,5 +1,7 @@
 ##### § 319.11 Filing of application. #####
 
+Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
+
 (a) *General.* An applicant under this part must submit an application for naturalization in accordance with the form instructions with the fee required by 8 CFR 103.7(b)(1). An alien spouse applying for naturalization under section 319(b) of the Act who is described in 8 CFR 319.2 must also submit a statement of intent containing the following information about the citizen spouse's employment and future intent:
 
 (1) The name of the employer and:

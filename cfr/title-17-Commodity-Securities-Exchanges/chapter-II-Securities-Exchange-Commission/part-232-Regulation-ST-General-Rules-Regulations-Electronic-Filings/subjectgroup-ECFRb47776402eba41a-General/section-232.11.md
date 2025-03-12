@@ -1,6 +1,4 @@
-##### § 232.11 Definition of terms used in part 232. #####
-
-Link to an amendment published at 85 FR 33357, June 1, 2020.
+##### § 232.11 Definition of terms used in this part. #####
 
 Unless otherwise specifically provided, the terms used in Regulation S-T (part 232 of this chapter) have the same meanings as in the federal securities laws and the rules, regulations and forms promulgated thereunder. In addition, the following definitions of terms apply specifically to electronic format documents and shall apply wherever they appear in laws, rules, regulations and forms governing such documents, unless the context otherwise specifies:
 
@@ -60,7 +58,7 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *Registrant.* The term *registrant* means an issuer of securities for which a Securities Act registration statement is required to be filed and/or an issuer of securities with respect to which an Exchange Act registration statement or report is required to be filed and/or an investment company required to file an Investment Company Act registration statement or report.
 
-*Related Official Filing.* The term *Related Official Filing* means the ASCII or HTML format part of the official filing with which all or part of an Interactive Data File appears as an exhibit or, in the case of a filing on §§ 239.15A and 274.11A of this chapter (Form N-1A), General Instruction C.3.(h) of §§ 239.17a and 274.11b of this chapter (Form N-3), General Instruction C.3.(h) of §§ 239.17b and 274.11c of this chapter (Form N-4), and General Instruction C.3.(h) of §§ 239.17c and 274.11d of this chapter (Form N-6), the ASCII or HTML format part of an official filing that contains the information to which an Interactive Data File corresponds.
+*Related Official Filing.* The term *Related Official Filing* means the ASCII or HTML format part of the official filing with which all or part of an Interactive Data File appears as an exhibit or, in the case of a filing on Form N-1A (§§ 239.15A and 274.11A of this chapter), Form N-2 (§§ 239.14 and 274.11a-1 of this chapter), Form N-3 (§§ 239.17a and 274.11b of this chapter), Form N-4 (§§ 239.17b and 274.11c of this chapter), Form N-6 (§§ 239.17c and 274.11d of this chapter), and Form N-CSR (§ 274.128 of this chapter), and, to the extent required by § 232.405 [Rule 405 of Regulation S-T] for a business development company as defined in Section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)), Form 10-K (§ 249.310 of this chapter), Form 10-Q (§ 249.308a of this chapter), and Form 8-K (§ 249.308 of this chapter), the ASCII or HTML format part of an official filing that contains the information to which an Interactive Data File corresponds.
 
 *Related Official Financial Report Filing.* The term *Related Official Financial Report Filing* means the ASCII or HTML format part of the official filing with which an Interactive Data Financial Report appears as an exhibit.
 
@@ -76,4 +74,4 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *Unofficial PDF copy.* The term *unofficial PDF copy* means an optional copy of an electronic document that may be included in an EDGAR submission tagged as a Portable Document Format document in the format required by the EDGAR Filer Manual and submitted in accordance with Rule 104 of Regulation S-T (§ 232.104).
 
-[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015; 82 FR 14142, Mar. 17, 2017; 83 FR 40874, Aug. 16, 2018; 84 FR 12722, Apr. 2, 2019; 85 FR 26099, May 1, 2020]
+[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015; 82 FR 14142, Mar. 17, 2017; 83 FR 40874, Aug. 16, 2018; 84 FR 12722, Apr. 2, 2019; 85 FR 26099, May 1, 2020; 85 FR 33357, June 1, 2020]

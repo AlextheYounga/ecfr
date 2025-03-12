@@ -1,5 +1,7 @@
 ##### § 245.7 Adjustment of status of certain Soviet and Indochinese parolees under the Foreign Operations Appropriations Act for Fiscal Year 1990 (Pub. L. 101-167). #####
 
+Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+
 (a) *Application.* Each person applying for benefits under section 599E of Public Law 101-167, 103 Stat. 1195, 1263, must file an application on the form prescribed by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions.
 
 (b) *Aliens eligible to apply for adjustment.* The benefits of this section shall only apply to an alien who:

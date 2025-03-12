@@ -1,6 +1,6 @@
 ##### § 230.163 Exemption from section 5(c) of the Act for certain communications by or on behalf of well-known seasoned issuers. #####
 
-Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary Note to § 230.163.
+Preliminary Note to § 230.163.
 
 Attempted compliance with this section does not act as an exclusive election and the issuer also may claim the availability of any other applicable exemption or exclusion. Reliance on this section does not affect the availability of any other exemption or exclusion from the requirements of section 5 of the Act.
 
@@ -10,7 +10,7 @@ Attempted compliance with this section does not act as an exclusive election and
 
 (2) The exemption from section 5(c) of the Act provided in this section for such written communication that is an offer shall be conditioned on satisfying the conditions in paragraph (b) of this section.
 
-(b) *Conditions* - (1) *Legend.* (i) Every written communication that is an offer made in reliance on this exemption shall contain substantially the following legend:
+(b) *Conditions*—(1) *Legend.* (i) Every written communication that is an offer made in reliance on this exemption shall contain substantially the following legend:
 
 The issuer may file a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents the issuer has filed with the SEC for more complete information about the issuer and this offering. You may get these documents for free by visiting EDGAR on the SEC Web site at *www.sec.gov.* Alternatively, the company will arrange to send you the prospectus after filing if you request it by calling toll-free 1-8[xx-xxx-xxxx].
 
@@ -36,11 +36,9 @@ The issuer may file a registration statement (including a prospectus) with the S
 
 (3) *Ineligible offerings.* The exemption in paragraph (a) of this section shall not be available to:
 
-(i) Communications relating to business combination transactions that are subject to Rule 165 (§ 230.165) or Rule 166 (§ 230.166);
+(i) Communications relating to business combination transactions that are subject to § 230.165 (Rule 165) or § 230.166 (Rule 166); or
 
-(ii) Communications by an issuer that is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*); or
-
-(iii) Communications by an issuer that is a business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)).
+(ii) Communications by an issuer that is an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), other than a registered closed-end investment company.
 
 (c) For purposes of this section, a communication is made by or on behalf of an issuer if the issuer or an agent or representative of the issuer, other than an offering participant who is an underwriter or dealer, authorizes or approves the communication before it is made.
 
@@ -48,4 +46,4 @@ The issuer may file a registration statement (including a prospectus) with the S
 
 (e) A communication exempt from section 5(c) of the Act pursuant to this section will not be considered to be in connection with a securities offering registered under the Securities Act for purposes of Rule 100(b)(2)(iv) of Regulation FD under the Securities Exchange Act of 1934 (§ 243.100(b)(2)(iv) of this chapter).
 
-[70 FR 44805, Aug. 3, 2005]
+[70 FR 44805, Aug. 3, 2005, as amended at 85 FR 33352, June 1, 2020]

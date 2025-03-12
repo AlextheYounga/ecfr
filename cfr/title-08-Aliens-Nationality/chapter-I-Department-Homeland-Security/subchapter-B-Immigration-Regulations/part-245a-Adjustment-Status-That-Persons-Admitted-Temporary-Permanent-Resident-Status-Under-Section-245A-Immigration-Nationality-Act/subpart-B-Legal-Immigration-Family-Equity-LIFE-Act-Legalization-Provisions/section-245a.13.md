@@ -1,5 +1,7 @@
 ##### § 245a.13 During pendency of application. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 (a) *In general.* When an eligible alien in the United States submits a prima facie application for adjustment of status under LIFE Legalization during the application period, until a final determination on his or her application has been made, the applicant:
 
 (1) May not be deported or removed from the United States;

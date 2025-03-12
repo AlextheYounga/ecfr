@@ -1,12 +1,10 @@
 ##### 52.230-2 Cost Accounting Standards. #####
 
-Link to an amendment published at 85 FR 40074, July 2, 2020.
-
-As prescribed in 30.201-4(a), insert the following clause:
+As prescribed in 30.201-4(a)(1), insert the following clause:
 
 Cost Accounting Standards (JUN 2020)
 
-(a) Unless the contract is exempt under 48 CFR 9903.201-1 and 9903.201-2, the provisions of 48 CFR part 9903 are incorporated herein by reference and the Contractor, in connection with this contract, shall -
+(a) Unless the contract is exempt under 48 CFR 9903.201-1 and 9903.201-2, the provisions of 48 CFR part 9903 are incorporated herein by reference and the Contractor, in connection with this contract, shall—
 
 (1) (CAS-covered Contracts Only) By submission of a Disclosure Statement, disclose in writing the Contractor's cost accounting practices as required by 48 CFR 9903.202-1 through 9903.202-5, including methods of distinguishing direct costs from indirect costs and the basis used for allocating indirect costs. The practices disclosed for this contract shall be the same as the practices currently disclosed and applied on all other contracts and subcontracts being performed by the Contractor and which contain a Cost Accounting Standards (CAS) clause. If the Contractor has notified the Contracting Officer that the Disclosure Statement contains trade secrets and commercial or financial information which is privileged and confidential, the Disclosure Statement shall be protected and shall not be released outside of the Government.
 
@@ -28,4 +26,4 @@ Cost Accounting Standards (JUN 2020)
 
 (d) The Contractor shall include in all negotiated subcontracts which the Contractor enters into, the substance of this clause, except paragraph (b), and shall require such inclusion in all other subcontracts, of any tier, including the obligation to comply with all CAS in effect on the subcontractor's award date or if the subcontractor has submitted certified cost or pricing data, on the date of final agreement on price as shown on the subcontractor's signed Certificate of Current Cost or Pricing Data. If the subcontract is awarded to a business unit which pursuant to 48 CFR 9903.201-2 is subject to other types of CAS coverage, the substance of the applicable clause set forth in subsection 30.201-4 of the Federal Acquisition Regulation (FAR) shall be inserted. This requirement shall apply only to negotiated subcontracts in excess of the lower CAS threshold specified in FAR 30.201-4(b) on the date of subcontract award, except that the requirement shall not apply to negotiated subcontracts otherwise exempt from the requirement to include a CAS clause as specified in 48 CFR 9903.201-1.
 
-(End of clause)[57 FR 39592, Aug. 31, 1992; 57 FR 45878, Oct. 5, 1992, as amended at 61 FR 18919, Apr. 29, 1996; 63 FR 9054, Feb. 23, 1998; 73 FR 54012, Sept. 17, 2008; 75 FR 53152, Aug. 30, 2010; 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015; 85 FR 27096, May 6, 2020]
+(End of clause)[57 FR 39592, Aug. 31, 1992; 57 FR 45878, Oct. 5, 1992, as amended at 61 FR 18919, Apr. 29, 1996; 63 FR 9054, Feb. 23, 1998; 73 FR 54012, Sept. 17, 2008; 75 FR 53152, Aug. 30, 2010; 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015; 85 FR 27096, May 6, 2020; 85 FR 40074, July 2, 2020]

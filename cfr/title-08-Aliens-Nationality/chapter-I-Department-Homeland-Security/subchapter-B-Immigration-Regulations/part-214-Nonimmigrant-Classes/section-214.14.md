@@ -1,5 +1,7 @@
 ##### § 214.14 Alien victims of certain qualifying criminal activity. #####
 
+Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
+
 (a) *Definitions.* As used in this section, the term:
 
 (1) *BIWPA* means Battered Immigrant Women Protection Act of 2000 of the Victims of Trafficking and Violence Protection Act of 2000, div. B, Violence Against Women Act of 2000, tit. V, Pub. L. 106-386, 114 Stat. 1464, (2000), *amended by* Violence Against Women and Department of Justice Reauthorization Act of 2005, tit. VIII, Pub. L. 109-162, 119 Stat. 2960 (2006), *amended by* Violence Against Women and Department of Justice Reauthorization Act - Technical Corrections, Pub. L. 109-271, 120 Stat. 750 (2006).

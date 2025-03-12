@@ -1,7 +1,5 @@
 ##### § 230.415 Delayed or continuous offering and sale of securities. #####
 
-Link to an amendment published at 85 FR 33354, June 1, 2020.
-
 (a) Securities may be registered for an offering to be made on a continuous or delayed basis in the future, *Provided,* That:
 
 (1) The registration statement pertains only to:
@@ -26,9 +24,9 @@ Link to an amendment published at 85 FR 33354, June 1, 2020.
 
 (ix) Securities, other than asset-backed securities (as defined in 17 CFR 229.1101(c)), the offering of which will be commenced promptly, will be made on a continuous basis and may continue for a period in excess of 30 days from the date of initial effectiveness;
 
-(x) Securities registered (or qualified to be registered) on Form S-3 or Form F-3 (§ 239.13 or § 239.33 of this chapter) which are to be offered and sold on an immediate, continuous or delayed basis by or on behalf of the registrant, a majority-owned subsidiary of the registrant or a person of which the registrant is a majority-owned subsidiary; or
+(x) Securities registered (or qualified to be registered) on Form S-3 or Form F-3 (§ 239.13 or § 239.33 of this chapter), or on Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) pursuant to General Instruction A.2 of that form, which are to be offered and sold on an immediate, continuous or delayed basis by or on behalf of the registrant, a majority-owned subsidiary of the registrant or a person of which the registrant is a majority-owned subsidiary; or
 
-(xi) Shares of common stock which are to be offered and sold on a delayed or continuous basis by or on behalf of a registered closed-end management investment company or business development company that makes periodic repurchase offers pursuant to § 270.23c-3 of this chapter.
+(xi) Shares of common stock which are to be offered and sold on a delayed or continuous basis by or on behalf of a registered closed-end investment company or business development company that makes periodic repurchase offers pursuant to § 270.23c-3 of this chapter.
 
 (xii) Asset-backed securities (as defined in 17 CFR 229.1101(c)) that are to be offered and sold on a continuous basis if the offering is commenced promptly and being conducted on the condition that the consideration paid for such securities will be promptly refunded to the purchaser unless:
 
@@ -36,7 +34,9 @@ Link to an amendment published at 85 FR 33354, June 1, 2020.
 
 (B) The total amount due to the seller is received by him by a specified date.
 
-(2) Securities in paragraph (a)(1)(viii) of this section and securities in paragraph (a)(1)(ix) of this section that are not registered on Form S-3 or Form F-3 (§ 239.13 or § 239.33 of this chapter) may only be registered in an amount which, at the time the registration statement becomes effective, is reasonably expected to be offered and sold within two years from the initial effective date of the registration.
+(xiii) Exchange-traded vehicle securities which are to be offered and sold on a continuous basis by or on behalf of the registrant in accordance with § 230.456(d) (Rule 456(d)).
+
+(2) Securities in paragraphs (a)(1)(viii) and (ix) of this section that are not registered on Form S-3 or Form F-3 (§ 239.13 or § 239.33 of this chapter), or on Form N-2 (§§ 239.14 and 274.11a-1 of this chapter) pursuant to General Instruction A.2 of that form, may only be registered in an amount which, at the time the registration statement becomes effective, is reasonably expected to be offered and sold within two years from the initial effective date of the registration.
 
 (3) The registrant furnishes the undertakings required by Item 512(a) of Regulation S-K (§ 229.512(a) of this chapter), except that a registrant that is an investment company filing on Form N-2 must furnish the undertakings required by Item 34.4 of Form N-2 (§ 239.14 and § 274.11a-1 of this chapter).
 
@@ -56,4 +56,4 @@ Link to an amendment published at 85 FR 33354, June 1, 2020.
 
 (b) This section shall not apply to any registration statement pertaining to securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust under the Investment Company Act of 1940 or any registration statement filed by any foreign government or political subdivision thereof.
 
-[48 FR 52896, Nov. 23, 1983, as amended at 59 FR 43470, Aug. 24, 1994; 70 FR 44812, Aug. 3, 2005; 73 FR 968, Jan. 4, 2008; 79 FR 57329, Sept. 24, 2014]
+[48 FR 52896, Nov. 23, 1983, as amended at 59 FR 43470, Aug. 24, 1994; 70 FR 44812, Aug. 3, 2005; 73 FR 968, Jan. 4, 2008; 79 FR 57329, Sept. 24, 2014; 85 FR 33354, June 1, 2020]

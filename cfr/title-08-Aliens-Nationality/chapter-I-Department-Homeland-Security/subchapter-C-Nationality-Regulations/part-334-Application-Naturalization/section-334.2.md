@@ -1,5 +1,7 @@
 ##### § 334.2 Application for naturalization. #####
 
+Link to an amendment published at 85 FR 46929, Aug. 3, 2020.
+
 (a) An applicant may file an application for naturalization with required initial evidence in accordance with the general form instructions for naturalization. The applicant must include the fee as required in 8 CFR 103.7(b)(1).
 
 (b) An application for naturalization may be filed up to 90 days prior to the completion of the required period of residence, which may include the three-month period of residence required to establish jurisdiction under section 316(a) or 319(a) of the Act.

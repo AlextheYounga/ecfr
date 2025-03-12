@@ -1,5 +1,7 @@
 ##### § 248.3 Petition and application. #####
 
+Link to an amendment published at 85 FR 46927, Aug. 3, 2020.
+
 Requests for a change of status must be filed on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b) and in accordance with the form instructions.
 
 (a) *Requests by petitioners.* A petitioner must submit a request for a change of status to E-1, E-2, E-3, H-1C, H-1B, H-1B1, H-2A, H-2B, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN nonimmigrant.

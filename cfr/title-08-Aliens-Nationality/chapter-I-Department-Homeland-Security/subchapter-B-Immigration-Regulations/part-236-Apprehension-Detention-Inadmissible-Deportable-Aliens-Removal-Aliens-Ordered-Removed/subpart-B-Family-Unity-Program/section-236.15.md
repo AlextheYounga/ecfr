@@ -1,5 +1,7 @@
 ##### § 236.15 Voluntary departure and eligibility for employment. #####
 
+Link to an amendment published at 85 FR 46926, Aug. 3, 2020.
+
 (a) *Authority.* Voluntary departure under this section implements the provisions of section 301 of IMMACT 90, and authority to grant voluntary departure under the family unity program derives solely from that section. Voluntary departure under the family unity program shall be governed solely by this section, notwithstanding the provisions of section 240B of the Act and 8 CFR part 240.
 
 (b) *Children of legalized aliens.* Children of legalized aliens residing in the United States, who were born during an authorized absence from the United States of mothers who are currently residing in the United States under voluntary departure pursuant to the Family Unity Program, may be granted voluntary departure under section 301 of IMMACT 90 for a period of 2 years.

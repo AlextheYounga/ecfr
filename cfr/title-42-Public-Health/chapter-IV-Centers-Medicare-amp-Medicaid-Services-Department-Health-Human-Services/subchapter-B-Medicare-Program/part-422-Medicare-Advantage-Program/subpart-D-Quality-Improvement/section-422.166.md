@@ -1,10 +1,8 @@
 ##### § 422.166 Calculation of Star Ratings. #####
 
-Link to an amendment published at 85 FR 33907, June 2, 2020.
-
 (a) *Measure Star Ratings* - (1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
-(2) *Clustering algorithm for all measures except CAHPS measures.* (i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data. Effective for the Star Ratings issued in October 2022 and subsequent years, CMS will add a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from one year to the next. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and Part D Star Rating program for 3 years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years in the program.
+(2) *Clustering algorithm for all measures except CAHPS measures.* (i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data. Effective for the Star Ratings issued in October 2022 and subsequent years, CMS will add a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from 1 year to the next. Effective for the Star Ratings issued in October 2023 and subsequent years, prior to applying mean resampling with hierarchal clustering, Tukey outer fence outliers are removed. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for 3 years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years in the program.
 
 (ii) In cases where multiple clusters have the same measure score value range, those clusters would be combined, leading to fewer than 5 clusters.
 
@@ -98,9 +96,9 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (ii) Outcome and Intermediate outcome measures receive a weight of 3.
 
-(iii) Patient experience and complaint measures receive a weight of 2.
+(iii) Patient experience and complaint measures receive a weight of 4.
 
-(iv) Access measures receive a weight of 2.
+(iv) Access measures receive a weight of 4.
 
 (v) Process measures receive a weight of 1.
 
@@ -310,4 +308,4 @@ Link to an amendment published at 85 FR 33907, June 2, 2020.
 
 (ii) [Reserved]
 
-[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15830, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020]
+[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15830, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 85 FR 33907, June 2, 2020]

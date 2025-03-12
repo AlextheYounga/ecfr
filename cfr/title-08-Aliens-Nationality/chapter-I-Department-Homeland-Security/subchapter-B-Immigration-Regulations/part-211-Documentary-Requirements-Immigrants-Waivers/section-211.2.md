@@ -1,5 +1,7 @@
 ##### § 211.2 Passports. #####
 
+Link to an amendment published at 85 FR 46922, Aug. 3, 2020.
+
 (a) A passport valid for the bearer's entry into a foreign country at least 60 days beyond the expiration date of his or her immigrant visa shall be presented by each immigrant except an immigrant who:
 
 (1) Is the parent, spouse, or unmarried son or daughter of a United States citizen or of an alien lawful permanent resident of the United States;

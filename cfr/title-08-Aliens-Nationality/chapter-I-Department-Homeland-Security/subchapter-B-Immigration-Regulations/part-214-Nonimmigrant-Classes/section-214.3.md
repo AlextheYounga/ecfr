@@ -1,5 +1,7 @@
 ##### § 214.3 Approval of schools for enrollment of F and M nonimmigrants. #####
 
+Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
+
 (a) *Filing petition* - (1) *General.* A school or school system seeking initial or continued authorization for attendance by nonimmigrant students under sections 101(a)(15)(F)(i) or 101(a)(15)(M)(i) of the Act, or both, must file a petition for certification or recertification with SEVP, using the Student and Exchange Visitor Information System (SEVIS), in accordance with the procedures at paragraph (h) of this section. The petition must state whether the school or school system is seeking certification or recertification for attendance of nonimmigrant students under section 101(a)(15)(F)(i) or 101(a)(15)(M)(i) of the Act or both. The petition must identify by name and address each location of the school that is included in the petition for certification or recertification, specifically including any physical location in which a nonimmigrant can attend classes through the school (*i.e.,* campus, extension campuses, satellite campuses, etc.).
 
 (i) *School systems.* A school system, as used in this section, means public school (grades 9-12) or private school (grades kindergarten-12). A petition by a school system must include a list of the names and addresses of those schools included in the petition with the supporting documents.

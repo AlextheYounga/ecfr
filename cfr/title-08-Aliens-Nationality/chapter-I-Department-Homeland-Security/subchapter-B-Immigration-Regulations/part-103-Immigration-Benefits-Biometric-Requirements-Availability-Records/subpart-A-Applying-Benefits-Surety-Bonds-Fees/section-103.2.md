@@ -1,5 +1,7 @@
 ##### § 103.2 Submission and adjudication of benefit requests. #####
 
+Link to an amendment published at 85 FR 46914, Aug. 3, 2020.
+
 (a) *Filing.* (1) *Preparation and submission.* Every form, benefit request, or other document must be submitted to DHS and executed in accordance with the form instructions regardless of a provision of 8 CFR chapter I to the contrary. The form's instructions are hereby incorporated into the regulations requiring its submission. Each form, benefit request, or other document must be filed with the fee(s) required by regulation. Filing fees generally are non-refundable and, except as otherwise provided in this chapter I, must be paid when the benefit request is filed.
 
 (2) *Signature.* An applicant or petitioner must sign his or her benefit request. However, a parent or legal guardian may sign for a person who is less than 14 years old. A legal guardian may sign for a mentally incompetent person. By signing the benefit request, the applicant or petitioner, or parent or guardian certifies under penalty of perjury that the benefit request, and all evidence submitted with it, either at the time of filing or thereafter, is true and correct. Unless otherwise specified in this chapter, an acceptable signature on a benefit request that is being filed with the USCIS is one that is either handwritten or, for benefit requests filed electronically as permitted by the instructions to the form, in electronic format.

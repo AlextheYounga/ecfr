@@ -1,7 +1,5 @@
 ##### § 301-10.310 What will I be reimbursed if I am authorized to use a Government-furnished automobile and I use a privately owned automobile instead? #####
 
-Link to an amendment published at 85 FR 39848, July 2, 2020.
+You will be reimbursed based on a constructive mileage rate limited to the cost that would be incurred for use of a Government-furnished automobile. This rate will be published in an FTR bulletin available at *https://www.gsa.gov/ftrbulletins.* If your agency determines the cost of providing a Government-furnished automobile would be higher because of unusual circumstances, it may allow reimbursement not to exceed the mileage rate for a privately owned automobile. In addition, you may be reimbursed other allowable expenses as provided in § 301-10.304.
 
-You will be reimbursed based on a constructive mileage rate limited to the cost that would be incurred for use of a Government-furnished automobile. This rate will be published in an FTR bulletin available at *http://www.gsa.gov/ftrbulletins.* If your agency determines the cost of providing a Government-furnished automobile would be higher because of unusual circumstances, it may allow reimbursement not to exceed the mileage rate for a privately owned automobile. In addition, you may be reimbursed other allowable expenses as provided in § 301-10.304.
-
-[FTR Amdt. 2015-03, 80 FR 27260, May 13, 2015, as amended by 80 FR 27261, May 13, 2015; 80 FR 37996, July 2, 2015]
+[FTR Amdt. 2015-03, 80 FR 27260, May 13, 2015, as amended by 80 FR 27261, May 13, 2015; 80 FR 37996, July 2, 2015; 85 FR 39848, July 2, 2020]

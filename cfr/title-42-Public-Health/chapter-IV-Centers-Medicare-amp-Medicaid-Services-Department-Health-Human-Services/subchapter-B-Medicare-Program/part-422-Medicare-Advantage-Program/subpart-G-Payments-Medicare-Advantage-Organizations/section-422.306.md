@@ -1,8 +1,6 @@
 ##### § 422.306 Annual MA capitation rates. #####
 
-Link to an amendment published at 85 FR 33907, June 2, 2020.
-
-Subject to adjustments at §§ 422.308(b) and 422.308(g), the annual capitation rate for each MA local area is determined under paragraph (a) of this section for 2005 and each succeeding year, except for years when CMS announces under § 422.312(b) that the annual capitation rates will be determined under paragraph (b) of this section, and is then adjusted to exclude the applicable phase-in percentage of the standardized costs for payments under section 1886(d)(5)(B) of the Act in the area for the year under paragraph (c) of this section.
+Subject to adjustments at §§ 422.308(b) and (g), the annual capitation rate for each MA local area is determined under paragraph (a) of this section for 2005 and each succeeding year, except for years when CMS announces under § 422.312(b) that the annual capitation rates will be determined under paragraph (b) of this section, and is then adjusted to exclude the applicable phase-in percentage of the standardized costs for payments under section 1886(d)(5)(B) of the Act in the area for the year under paragraph (c) of this section and costs for kidney acquisitions in the area for the year under paragraph (d) of this section.
 
 (a) *Minimum percentage increase rate.* The annual capitation rate for each MA local area is equal to the minimum percentage increase rate, which is the annual capitation rate for the area for the preceding year increased by the national per capita MA growth percentage (defined at § 422.308(a)) for the year, but not taking into account any adjustment under § 422.308(b) for a year before 2004.
 
@@ -22,4 +20,6 @@ Subject to adjustments at §§ 422.308(b) and 422.308(g), the annual capitation 
 
 (c) *Phase-out of the indirect costs of medical education from MA capitation rates.* Beginning with 2010, after the annual capitation rate for each MA local area is determined under paragraph (a) or (b), the amount is adjusted in accordance with section 1853(k)(4) of the Act to exclude from such amount the phase-in percentage for the year of the estimated costs for payments under section 1886(d)(5)(B) of the Act in the area for the year.
 
-[70 FR 4729, Jan. 28, 2005, as amended at 73 FR 54250, Sept. 18, 2008; 75 FR 19806, Apr. 15, 2010; 75 FR 44564, July 28, 2010]
+(d) *Exclusion of costs for kidney acquisitions from MA capitation rates.* Beginning with 2021, after the annual capitation rate for each MA local area is determined under paragraph (a) or (b) of this section, the amount is adjusted in accordance with section 1853(k)(5) of the Act to exclude the Secretary's estimate of the standardized costs for payments for organ acquisitions for kidney transplants covered under this title (including expenses covered under section 1881(d) of the Act) in the area for the year.
+
+[70 FR 4729, Jan. 28, 2005, as amended at 73 FR 54250, Sept. 18, 2008; 75 FR 19806, Apr. 15, 2010; 75 FR 44564, July 28, 2010; 85 FR 33907, June 2, 2020]

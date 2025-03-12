@@ -1,5 +1,7 @@
 ##### § 212.4 Applications for the exercise of discretion under section 212(d)(1) and 212(d)(3). #####
 
+Link to an amendment published at 85 FR 46923, Aug. 3, 2020.
+
 (a) *Applications under section 212(d)(3)(A)* - (1) *General.* District directors and officers in charge outside the United States in the districts of Bangkok, Thailand; Mexico City, Mexico; and Rome, Italy are authorized to act upon recommendations made by consular officers for the exercise of discretion under section 212(d)(3)(A) of the Act. The District Director, Washington, DC, has jurisdiction in such cases recommended to the Service at the seat-of-government level by the Department of State. When a consular officer or other State Department official recommends that the benefits of section 212(d)(3)(A) of the Act be accorded an alien, neither an application nor fee shall be required. The recommendation shall specify:
 
 (i) The reasons for inadmissibility and each section of law under which the alien is inadmissible;

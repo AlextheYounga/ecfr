@@ -1,5 +1,7 @@
 ##### § 322.3 Application and supporting documents. #####
 
+Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
+
 (a) *Application.* A U.S. citizen parent of an alien child (including an adopted child) may file an application for the child to become a citizen and obtain a certificate of citizenship under section 322 of the Act by submitting an application on the form prescribed by USCIS in accordance with the form instructions and with the fee prescribed by 8 CFR 103.7(b)(1). If the U.S. citizen parent has died, the child's U.S. citizen grandparent or U.S. citizen legal guardian may submit the application, provided the application is filed not more than 5 years after the death of the U.S. citizen parent.
 
 (b) *Evidence.* (1) An applicant under this section shall establish eligibility under § 322.2. In addition to the forms and the appropriate fee as required in § 103.7(b)(1) of this chapter, an applicant must submit the following required documents unless such documents are already contained in the Service administrative file(s):

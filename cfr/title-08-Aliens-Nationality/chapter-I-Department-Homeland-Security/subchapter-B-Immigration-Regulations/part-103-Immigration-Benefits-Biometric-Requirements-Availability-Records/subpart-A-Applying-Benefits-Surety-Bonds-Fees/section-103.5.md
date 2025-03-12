@@ -1,5 +1,7 @@
 ##### § 103.5 Reopening or reconsideration. #####
 
+Link to an amendment published at 85 FR 46914, Aug. 3, 2020.
+
 (a) *Motions to reopen or reconsider in other than special agricultural worker and legalization cases* - (1) *When filed by affected party* - (i) *General.* Except where the Board has jurisdiction and as otherwise provided in 8 CFR parts 3, 210, 242 and 245a, when the affected party files a motion, the official having jurisdiction may, for proper cause shown, reopen the proceeding or reconsider the prior decision. Motions to reopen or reconsider are not applicable to proceedings described in § 274a.9 of this chapter. Any motion to reconsider an action by the Service filed by an applicant or petitioner must be filed within 30 days of the decision that the motion seeks to reconsider. Any motion to reopen a proceeding before the Service filed by an applicant or petitioner, must be filed within 30 days of the decision that the motion seeks to reopen, except that failure to file before this period expires, may be excused in the discretion of the Service where it is demonstrated that the delay was reasonable and was beyond the control of the applicant or petitioner.
 
 (ii) *Jurisdiction.* The official having jurisdiction is the official who made the latest decision in the proceeding unless the affected party moves to a new jurisdiction. In that instance, the new official having jurisdiction is the official over such a proceeding in the new geographical locations.

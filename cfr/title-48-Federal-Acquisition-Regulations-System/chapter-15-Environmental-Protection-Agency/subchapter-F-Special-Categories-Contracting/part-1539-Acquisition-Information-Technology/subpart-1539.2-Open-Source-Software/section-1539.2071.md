@@ -1,0 +1,5 @@
+##### § 1539.2071 Contract clause. #####
+
+(a) Contracting Officers shall use clause 1552.239-71, *Open Source Software,* for all procurements where open-source software development/custom development of software will be required; including, but not limited to, multi-agency contracts, Federal Supply Schedule orders, Governmentwide Acquisition Contracts, interagency agreements, cooperative agreements and student services contracts.
+
+(b) In addition to clause 1552.239-71, Contracting Officers must also select the appropriate version \* of Federal Acquisition Regulation (FAR) clause 52.227-14, *Rights in Data—General,* to include in the subject procurement in accordance with FAR 27.409. (\* *Important note: Alternate IV of clause 52.227-14 is NOT suitable for open-source software procurement use because it gives the contractor blanket permission to assert copyright.*)

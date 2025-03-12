@@ -1,5 +1,7 @@
 ##### § 103.41 Genealogy request fees. #####
 
+Link to an amendment published at 85 FR 46916, Aug. 3, 2020.
+
 (a) *Genealogy search fee.* See 8 CFR 103.7(b)(1).
 
 (b) *Genealogy records fees.* See 8 CFR 103.7(b)(1).

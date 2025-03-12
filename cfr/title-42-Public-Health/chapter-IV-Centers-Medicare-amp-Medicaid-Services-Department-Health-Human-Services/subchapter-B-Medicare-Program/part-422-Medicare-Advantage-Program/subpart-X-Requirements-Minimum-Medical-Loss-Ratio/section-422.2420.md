@@ -1,10 +1,8 @@
 ##### § 422.2420 Calculation of the medical loss ratio. #####
 
-Link to an amendment published at 85 FR 33908, June 2, 2020.
-
 (a) *Determination of MLR.* (1) The MLR for each contract under this part is the ratio of the numerator (as defined in paragraph (b) of this section) to the denominator (as defined in paragraph (c) of this section). An MLR may be increased by a credibility adjustment according to the rules at § 422.2440, or subject to an adjustment determined by CMS to be warranted based on exceptional circumstances for areas outside the 50 states and the District of Columbia.
 
-(2) The MLR for an MA contract -
+(2) The MLR for an MA contract—
 
 (i) Not offering Medicare prescription drug benefits must only reflect costs and revenues related to the benefits defined at § 422.100(c); and
 
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 33908, June 2, 2020.
 
 (2) *Incurred claims for clinical services and prescription drug costs.* Incurred claims must include the following:
 
-(i) Direct claims that the MA organization pays to providers (including under capitation contracts with physicians) for covered services, described at paragraph (a)(2) of this section provided to all enrollees under the contract.
+(i) Amounts that the MA organization pays (including under capitation contracts) for covered services, described at paragraph (a)(2) of this section, provided to all enrollees under the contract.
 
 (ii) For an MA contract that includes MA-PD plans (described in paragraph (a)(2) of this section), drug costs provided to all enrollees under the contract, as defined at § 423.2420(b)(2)(i) of this chapter.
 
@@ -152,7 +150,7 @@ Link to an amendment published at 85 FR 33908, June 2, 2020.
 
 (5) Total revenue (as defined at § 422.2420(c)) that is reinsured for a block of business that was subject to indemnity reinsurance and administrative agreements effective prior to March 23, 2010, for which the assuming entity is responsible for 100 percent of the ceding entity's financial risk and takes on all of the administration of the block, must be reported by the assuming issuer and must not be reported by the ceding issuer.
 
-(d) *Allocation of expense* - (1) *General requirements.* (i) Each expense must be included under only one type of expense, unless a portion of the expense fits under the definition of or criteria for one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses.
+(d) *Allocation of expense*—(1) *General requirements.* (i) Each expense must be included under only one type of expense, unless a portion of the expense fits under the definition of or criteria for one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses.
 
 (ii) Expenditures that benefit multiple contracts, or contracts other than those being reported, including but not limited to those that are for or benefit self-funded plans, must be reported on a pro rata share.
 
@@ -164,4 +162,4 @@ Link to an amendment published at 85 FR 33908, June 2, 2020.
 
 (B) Expenses that relate solely to the operations of a reporting entity, such as personnel costs associated with the adjusting and paying of claims, must be borne solely by the reporting entity and are not to be apportioned to other entities within a group.
 
-[78 FR 31307, May 23, 2013; 78 FR 43821, July 22, 2013; 83 FR 16736, Apr. 16, 2018]
+[78 FR 31307, May 23, 2013; 78 FR 43821, July 22, 2013; 83 FR 16736, Apr. 16, 2018; 85 FR 33908, June 2, 2020]

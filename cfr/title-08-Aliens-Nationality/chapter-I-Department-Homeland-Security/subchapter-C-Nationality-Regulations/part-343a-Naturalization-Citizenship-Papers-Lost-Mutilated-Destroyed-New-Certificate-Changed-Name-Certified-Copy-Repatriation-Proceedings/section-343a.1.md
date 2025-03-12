@@ -1,5 +1,7 @@
 ##### § 343a.1 Application for replacement of or new papers relating to naturalization, citizenship, or repatriation. #####
 
+Link to an amendment published at 85 FR 46929, Aug. 3, 2020.
+
 (a) *Lost, mutilated, or destroyed naturalization papers.* A person whose declaration of intention, certificate of naturalization, citizenship, or repatriation, or whose certified copy of proceedings under the act of June 25, 1936, as amended, or under section 317(b) of the Nationality Act of 1940, or under section 324(c) of the Immigration and Nationality Act, or under the provisions of any private law, has been lost, mutilated, or destroyed,must apply on the form designated by USCIS with the fee specified in 8 CFR 103.7(b)(1) and in accordance with the form instructions.
 
 (b) *New certificate in changed name.* A naturalized citizen whose name has been changed after naturalization by order of court or by marriage must apply for a new certificate of naturalization, or of citizenship, in the changed name.
