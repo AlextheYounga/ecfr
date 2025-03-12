@@ -1,5 +1,7 @@
 ##### 1506.302-5 Authorized or required by statute. #####
 
+Link to an amendment published at 83 FR 46420, Sept. 13, 2018.
+
 (a) *Authority.* Section 109(e) of the Superfund Amendments and Reauthorization Act of 1986 (SARA) is cited as authority.
 
 (b) *Application.* (1) The contracting officer may use other than full and open competition to acquire the services of experts for use in preparing or prosecuting a civil or criminal action under SARA whether or not the expert is expected to testify at trial. The contracting officer need not prepare the written justification under FAR 6.303 when acquiring expert services under the authority of section 109(e) of SARA. The contracting officer shall document the official contract file when using this authority.

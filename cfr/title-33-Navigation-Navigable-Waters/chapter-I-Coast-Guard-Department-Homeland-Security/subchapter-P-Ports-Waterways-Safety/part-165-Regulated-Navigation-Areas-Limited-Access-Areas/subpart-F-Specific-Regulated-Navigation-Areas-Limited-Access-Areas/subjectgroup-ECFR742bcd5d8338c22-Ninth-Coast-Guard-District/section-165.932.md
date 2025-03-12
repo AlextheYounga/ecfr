@@ -12,4 +12,4 @@
 
 (4) Vessel operators desiring to enter or operate within the safety zone shall contact the Captain of the Port, Lake Michigan or an on-scene representative to obtain permission to do so. The Captain of the Port, Lake Michigan or an on-scene representative may be contacted via VHF Channel 16 or at (414) 747-7182.
 
-[83 FR 23224, May 18, 2018]
+[USCG-2017-1066, 83 FR 23224, May 18, 2018]

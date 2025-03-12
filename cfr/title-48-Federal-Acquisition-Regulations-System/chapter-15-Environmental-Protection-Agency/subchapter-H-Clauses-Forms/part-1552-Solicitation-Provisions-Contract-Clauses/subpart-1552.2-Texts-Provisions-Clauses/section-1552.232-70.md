@@ -1,5 +1,7 @@
 ##### 1552.232-70 Submission of invoices. #####
 
+Link to an amendment published at 83 FR 46420, Sept. 13, 2018.
+
 As prescribed in 1532.908, insert the following clause:
 
 Submission of Invoices (JUN 1996)

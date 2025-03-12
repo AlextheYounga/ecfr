@@ -1,5 +1,7 @@
 ##### 1552.235-79 Release of contractor confidential business information (APR 1996). #####
 
+Link to an amendment published at 83 FR 46423, Sept. 13, 2018.
+
 As prescribed in 1535.007-70(f), insert the following clause:
 
 Release of Contractor Confidential Business Information (APR 1996)

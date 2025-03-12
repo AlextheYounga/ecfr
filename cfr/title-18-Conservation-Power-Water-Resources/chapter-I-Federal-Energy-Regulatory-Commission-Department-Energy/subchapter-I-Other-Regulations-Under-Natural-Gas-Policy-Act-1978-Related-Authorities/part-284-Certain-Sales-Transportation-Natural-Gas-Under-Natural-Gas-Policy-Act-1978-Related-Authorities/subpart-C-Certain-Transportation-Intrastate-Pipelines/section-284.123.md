@@ -1,7 +1,5 @@
 ##### § 284.123 Rates and charges. #####
 
-Link to an amendment published at 83 FR 36715, July 30, 2018.
-
 (a) *General rule.* Rates and charges for transportation of natural gas authorized under § 284.122(a) shall be fair and equitable as determined in accordance with paragraph (b) of this section.
 
 (b) *Election of rates.* (1) Subject to the conditions in §§ 284.7 and 284.9 of this chapter, an intrastate pipeline may elect to:
@@ -48,7 +46,7 @@ Link to an amendment published at 83 FR 36715, July 30, 2018.
 
 (3) *Format requirements for electronic filing.* The requirements and formats for electronic filing are listed in instructions for electronic filing and for each form. These formats are available on the Internet at *http://www.ferc.gov* and can be obtained at the Federal Energy Regulatory Commission, Public Reference Room, 888 First Street, NE., Washington, DC 20426.
 
-(g) *Election of Notice Procedures.* (1) *Applicability.* An intrastate pipeline filing for approval of rates, a statement of operating conditions, and any amendments or modifications thereto pursuant to this section may use the notice procedures in this paragraph. Any intrastate pipeline electing to use these notice procedures for a filing must clearly state its election to use these procedures in the filing. Such filing is approved and the rates deemed fair and equitable and not in excess of the amount that an interstate pipeline would be permitted to charge for similar transportation service if the requirements in paragraph (g)(8) of this section have been fulfilled.
+(g) *Election of Notice Procedures* - (1) *Applicability.* An intrastate pipeline filing for approval of rates, a statement of operating conditions, and any amendments or modifications thereto pursuant to this section may use the notice procedures in this paragraph. Any intrastate pipeline electing to use these notice procedures for a filing must clearly state its election to use these procedures in the filing. Such filing is approved and the rates deemed fair and equitable and not in excess of the amount that an interstate pipeline would be permitted to charge for similar transportation service if the requirements in paragraph (g)(8) of this section have been fulfilled.
 
 (2) *Rejection of filing.* The Director of the Office of Energy Market Regulation or his designee shall reject within 7 days of the date of filing a request which patently fails to comply with the provisions of paragraph (e) or (f) of this section, without prejudice to the intrastate pipeline refiling a complete application. If such filing was required by this section, that filing must be refiled within 14 days of the date of the rejection.
 
@@ -84,4 +82,12 @@ Link to an amendment published at 83 FR 36715, July 30, 2018.
 
 (2) The withdrawal motion will become effective, and the filing will be deemed withdrawn at the end of 15 days from the date of filing of the withdrawal motion, if no order disallowing the motion is issued within that period. If an answer in opposition is filed within the 15-day period, the withdrawal is not effective until an order accepting the withdrawal is issued.
 
-[44 FR 52184, Sept. 7, 1979, as amended at 44 FR 66791, Nov. 21, 1979; Order 394, 49 FR 35364, Sept. 7, 1984; Order 436, 50 FR 42496, Oct. 18, 1985; 50 FR 52276, Dec. 23, 1985; Order 581, 60 FR 53073, Oct. 11, 1995; Order 714, 73 FR 57535, Oct. 3, 2008; Order 781, 78 FR 45862, July 30, 2013]
+(i) If an intrastate pipeline's rates on file with the appropriate state regulatory agency are reduced to reflect the reduced income tax rates adopted in the Tax Cuts and Jobs Act of 2017, the intrastate pipeline must file a new rate election pursuant to paragraph (b) of this section in the following circumstances:
+
+(1) If the intrastate pipeline's existing rates for interstate service are based on paragraph (b)(1) of this section, the intrastate pipeline must file a new rate election, if the state-approved rate used for its current rate election is changed to reflect the reduced income tax rates adopted in the Tax Cuts and Jobs Act.
+
+(2) If the intrastate pipeline's existing rates for interstate service are based on paragraph (b)(2) of this section, the intrastate pipeline must file a new rate election, if any of its rates on file with the appropriate state regulatory agency are reduced to reflect the reduced income tax rates adopted in the Tax Cuts and Jobs Act, unless the Commission has approved revised interstate rates for that pipeline after December 22, 2017, or it has filed revised interstate rates that are pending before the Commission on the effective date of the reduced intrastate rates.
+
+(3) Any rate election required by this paragraph must be filed on or before the later of October 15, 2018 or 30 days after the reduced intrastate rate becomes effective.
+
+[44 FR 52184, Sept. 7, 1979, as amended at 44 FR 66791, Nov. 21, 1979; Order 394, 49 FR 35364, Sept. 7, 1984; Order 436, 50 FR 42496, Oct. 18, 1985; 50 FR 52276, Dec. 23, 1985; Order 581, 60 FR 53073, Oct. 11, 1995; Order 714, 73 FR 57535, Oct. 3, 2008; Order 781, 78 FR 45862, July 30, 2013; Order 849, 83 FR 36715, July 30, 2018]

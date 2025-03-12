@@ -1,5 +1,7 @@
 ##### § 852.233-71 Alternate protest procedure. #####
 
+Link to an amendment published at 83 FR 46418, Sept. 13, 2018.
+
 As prescribed in 833.106, insert the following provision:
 
 Alternate Protest Procedure (JAN 1998)
