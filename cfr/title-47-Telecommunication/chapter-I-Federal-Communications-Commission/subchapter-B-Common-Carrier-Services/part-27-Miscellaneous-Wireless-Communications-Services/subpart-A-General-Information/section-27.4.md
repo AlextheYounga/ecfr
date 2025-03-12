@@ -1,5 +1,7 @@
 ##### § 27.4 Terms and definitions. #####
 
+Link to an amendment published at 86 FR 17952, Apr. 7, 2021.
+
 *3.7 GHz Service.* A radiocommunication service licensed under this part for the frequency bands specified in § 27.5(m) (3700-3980 MHz band).
 
 *600 MHz service.* A radiocommunication service licensed pursuant to this part for the frequency bands specified in § 27.5(l).

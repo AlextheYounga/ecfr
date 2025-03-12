@@ -1,5 +1,7 @@
 ##### § 1.7008 Creation of broadband internet access service coverage maps. #####
 
+Link to an amendment published at 86 FR 18162, Apr. 7, 2021.
+
 (a) After consultation with the Federal Geographic Data Committee, the Commission shall use the availability and quality of service data submitted by providers in the Digital Opportunity Data Collection to create:
 
 (1) The Broadband Map, which shall depict areas of the country that remain unserved by providers and depict the extent of availability of broadband internet access service;

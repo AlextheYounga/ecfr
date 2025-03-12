@@ -1,5 +1,7 @@
 ##### § 27.6 Service areas. #####
 
+Link to an amendment published at 86 FR 17952, Apr. 7, 2021.
+
 (a) *Composition of service areas.* WCS service areas include Economic Areas (EAs), Major Economic Areas (MEAs), Regional Economic Area Groupings (REAGs), cellular markets comprising Metropolitan Statistical Areas (MSAs) and Rural Service Areas (RSAs), and a nationwide area. MEAs and REAGs are defined in the Table immediately following paragraph (a)(1) of this section. Both MEAs and REAGs are based on the U.S. Department of Commerce's EAs. *See* 60 FR 13114 (March 10, 1995). In addition, the Commission shall separately license Guam and the Northern Mariana Islands, Puerto Rico and the United States Virgin Islands, American Samoa, and the Gulf of Mexico, which have been assigned Commission-created EA numbers 173-176, respectively. The nationwide area is composed of the contiguous 48 states, Alaska, Hawaii, the Gulf of Mexico, and the U.S. territories. Maps of the EAs, MEAs, MSAs, RSAs, and REAGs are available on the FCC's website at *www.fcc.gov/auctions* through the “Maps” submenu.
 
 (1) The 52 MEAs are composed of one or more EAs and the 12 REAGs are composed of one or more MEAs, as defined in the table below:

@@ -1,5 +1,7 @@
 ##### § 27.50 Power limits and duty cycle. #####
 
+Link to an amendment published at 86 FR 17953, Apr. 7, 2021.
+
 (a) The following power limits and related requirements apply to stations transmitting in the 2305-2320 MHz band or the 2345-2360 MHz band.
 
 (1) *Base and fixed stations.* (i) For base and fixed stations transmitting in the 2305-2315 MHz band or the 2350-2360 MHz band:

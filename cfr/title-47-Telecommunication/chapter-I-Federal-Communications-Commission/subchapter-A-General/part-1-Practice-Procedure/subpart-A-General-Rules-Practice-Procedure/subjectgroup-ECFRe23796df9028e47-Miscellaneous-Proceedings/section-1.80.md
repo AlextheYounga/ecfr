@@ -1,6 +1,6 @@
 ##### § 1.80 Forfeiture proceedings. #####
 
-Link to an amendment published at 86 FR 15797, Mar. 25, 2021.
+Link to an amendment published at 86 FR 15797, Mar. 25, 2021.Link to an amendment published at 86 FR 18159, Apr. 7, 2021.
 
 (a) *Persons against whom and violations for which a forfeiture may be assessed.* A forfeiture penalty may be assessed against any person found to have:
 

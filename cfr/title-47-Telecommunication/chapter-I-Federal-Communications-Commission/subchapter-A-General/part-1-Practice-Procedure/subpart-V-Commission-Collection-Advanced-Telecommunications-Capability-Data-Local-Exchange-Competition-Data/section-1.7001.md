@@ -1,5 +1,7 @@
 ##### § 1.7001 Scope and content of filed reports. #####
 
+Link to an amendment published at 86 FR 18159, Apr. 7, 2021.
+
 (a) *Definitions.* Terms used in this subpart have the following meanings:
 
 (1) *Broadband connection.* A wired line, wireless channel, or satellite service that terminates at an end user location or mobile device and enables the end user to receive information from and/or send information to the internet at information transfer rates exceeding 200 kilobits per second (kbps) in at least one direction.

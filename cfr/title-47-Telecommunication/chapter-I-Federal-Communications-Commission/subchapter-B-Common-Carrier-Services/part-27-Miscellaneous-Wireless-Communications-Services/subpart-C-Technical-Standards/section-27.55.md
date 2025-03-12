@@ -1,5 +1,7 @@
 ##### § 27.55 Power strength limits. #####
 
+Link to an amendment published at 86 FR 17954, Apr. 7, 2021.
+
 (a) *Field strength limits.* For the following bands, the predicted or measured median field strength at any location on the geographical border of a licensee's service area shall not exceed the value specified unless the adjacent affected service area licensee(s) agree(s) to a different field strength. This value applies to both the initially offered service areas and to partitioned service areas.
 
 (1) 1995-2000 MHz, 2110-2155, 2155-2180, 2180-2200, 2305-2320, and 2345-2360 MHz bands: 47 dBµV/m.
