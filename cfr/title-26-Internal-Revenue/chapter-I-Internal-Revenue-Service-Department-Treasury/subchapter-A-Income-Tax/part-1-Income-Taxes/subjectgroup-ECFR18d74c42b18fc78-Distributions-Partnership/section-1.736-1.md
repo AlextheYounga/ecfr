@@ -18,7 +18,7 @@
 
 (6) A retiring partner or a deceased partner's successor in interest receiving payments under section 736 is regarded as a partner until the entire interest of the retiring or deceased partner is liquidated. Therefore, if one of the members of a 2-man partnership retires under a plan whereby he is to receive payments under section 736, the partnership will not be considered terminated, nor will the partnership year close with respect to either partner, until the retiring partner's entire interest is liquidated, since the retiring partner continues to hold a partnership interest in the partnership until that time. Similarly, if a partner in a 2-man partnership dies, and his estate or other successor in interest receives payments under section 736, the partnership shall not be considered to have terminated upon the death of the partner but shall terminate as to both partners only when the entire interest of the decedent is liquidated. See section 708(b).
 
-(b) *Payments for interest in partnership.* (1) Payments made in liquidation of the entire interest of a retiring partner or deceased partner shall, to the extent made in exchange for such partner's interest in partnership property (except for unrealized receivables and good will as provided in subparagraphs (2) and (3) of this paragraph), be considered as a distribution by the partnership (and not as a distributive share or guaranteed payment under section 736(a)). Generally, the valuation placed by the partners upon a partner's interest in partnership property in an arm's length agreement will be regarded as correct. If such valuation reflects only the partner's net interest in the property (i.e., total assets less liabilities), it must be adjusted so that both the value of the partner's interest in property and the basis for his interest take into account the partner's share of partnership liabilities. Gain or loss with respect to distributions under section 736(b) and this paragraph will be recognized to the distributee to the extent provided in section 731 and, where applicable, section 751.
+(b) *Payments for interest in partnership.* (1) Payments made in liquidation of the entire interest of a retiring partner or deceased partner shall, to the extent made in exchange for such partner's interest in partnership property (except for unrealized receivables and good will as provided in subparagraphs (2) and (3) of this paragraph), be considered as a distribution by the partnership (and not as a distributive share or guaranteed payment under section 736(a)). Generally, the valuation placed by the partners upon a partner's interest in partnership property in an arm's length agreement will be regarded as correct. If such valuation reflects only the partner's net interest in the property (*i.e.*, total assets less liabilities), it must be adjusted so that both the value of the partner's interest in property and the basis for his interest take into account the partner's share of partnership liabilities. Gain or loss with respect to distributions under section 736(b) and this paragraph will be recognized to the distributee to the extent provided in section 731 and, where applicable, section 751.
 
 (2) Payments made to a retiring partner or to the successor in interest of a deceased partner for his interest in unrealized receivables of the partnership in excess of their partnership basis, including any special basis adjustment for them to which such partner is entitled, shall not be considered as made in exchange for such partner's interest in partnership property. Such payments shall be treated as payments under section 736(a) and paragraph (a) of this section. For definition of unrealized receivables, see section 751(c).
 
@@ -38,7 +38,7 @@
 
 (i) The amount treated as a distribution under section 736(b) in that year, and
 
-(ii) The portion of the adjusted basis of the partner for his partnership interest attributable to such distribution (i.e., the amount which bears the same proportion to the partner's total adjusted basis for his partnership interest as the amount distributed under section 736(b) in that year bears to the total amount to be distributed under section 736(b)).
+(ii) The portion of the adjusted basis of the partner for his partnership interest attributable to such distribution (*i.e.*, the amount which bears the same proportion to the partner's total adjusted basis for his partnership interest as the amount distributed under section 736(b) in that year bears to the total amount to be distributed under section 736(b)).
 
 A recipient who elects under this subparagraph shall attach a statement to his tax return for the first taxable year for which he receives such payments, indicating his election and showing the computation of the gain included in gross income.
 
@@ -46,16 +46,12 @@ A recipient who elects under this subparagraph shall attach a statement to his t
 
 Example 1.Partnership ABC is a personal service partnership and its balance sheet is as follows:
 
-Assets
-
 |                               |Adjusted basis per books|Market value|
 |-------------------------------|------------------------|------------|
 |             Cash              |        $13,000         |  $13,000   |
 |    Unrealized receivables     |           0            |   30,000   |
 |Capital and section 1231 assets|         20,000         |   23,000   |
 |             Total             |         33,000         |   66,000   |
-
-Liabilities and Capital
 
 |           |Per books|Value |
 |-----------|---------|------|

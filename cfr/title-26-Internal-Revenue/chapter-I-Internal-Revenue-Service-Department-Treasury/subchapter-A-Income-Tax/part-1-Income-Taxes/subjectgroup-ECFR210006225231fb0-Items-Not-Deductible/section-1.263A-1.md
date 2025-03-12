@@ -509,8 +509,6 @@ Example 1.Y is a manufacturer of automobiles. During the taxable year Y produces
 
 (9) *Separate election.* A taxpayer may elect the simplified service cost method in conjunction with any other allocation method used at the trade or business level, including the simplified methods described in §§ 1.263A-2(b) and (c) and 1.263A-3(d). However, the election of the simplified service cost method must be made independently of the election to use those other simplified methods.
 
-(i) [Reserved]
-
 (j) *Special rules* - (1) *Costs provided by a related person* - (i) *In general.* A taxpayer subject to section 263A must capitalize an arm's-length charge for any section 263A costs (e.g., costs of materials, labor, or services) incurred by a related person that are properly allocable to the property produced or property acquired for resale by the taxpayer. Both the taxpayer and the related person must account for the transaction as if an arm's-length charge had been incurred by the taxpayer with respect to its property produced or property acquired for resale. For purposes of this paragraph (j)(1)(i), a taxpayer is considered related to another person if the taxpayer and such person are described in section 482. Further, for purposes of this paragraph (j)(1)(i), arm's-length charge means the arm's-length charge (or other appropriate charge where permitted and applicable) under the principles of section 482. Any correlative adjustments necessary because of the arm's-length charge requirement of this paragraph (j)(1)(i) shall be determined under the principles of section 482.
 
 (ii) *Exceptions.* The provisions of paragraph (j)(1)(i) of this section do not apply if, and to the extent that -

@@ -1,5 +1,7 @@
 ##### § 1.170A-13 Recordkeeping and return requirements for deductions for charitable contributions. #####
 
+Link to an amendment published at 84 FR 27530, June 13, 2019.
+
 (a) *Charitable contributions of money made in taxable years beginning after December 31, 1982* - (1) *In general.* If a taxpayer makes a charitable contribution of money in a taxable year beginning after December 31, 1982, the taxpayer shall maintain for each contribution one of the following:
 
 (i) A cancelled check.

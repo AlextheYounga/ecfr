@@ -1,5 +1,7 @@
 ##### § 1.642(c)-3 Adjustments and other special rules for determining unlimited charitable contributions deduction. #####
 
+Link to an amendment published at 84 FR 27530, June 13, 2019.
+
 (a) *Income in respect of a decedent.* For purposes of §§ 1.642(c)-1 and 1.642(c)-2, an amount received by an estate or trust which is includible in its gross income under section 691(a)(1) as income in respect of a decedent shall be included in the gross income of the estate or trust.
 
 (b) *Determination of amounts deductible under section 642(c) and the character of such amounts* - (1) *Reduction of charitable contributions deduction by amounts not included in gross income.* If an estate, pooled income fund, or other trust pays, permanently sets aside, or uses any amount of its income for a purpose specified in section 642(c) (1), (2) or (3) and that amount includes any items of estate or trust income not entering into the gross income of the estate or trust, the deduction allowable under § 1.642(c)-1 or § 1.642(c)-2 is limited to the gross income so paid, permanently set aside, or used. In the case of a pooled income fund for which a deduction is allowable under paragraph (c) of § 1.642(c)-2 for amounts permanently set aside, only the gross income of the fund which is attributable to net long-term capital gain (as defined in section 1222(7)) shall be taken into account.
