@@ -24,9 +24,9 @@
 
 (iv) If VA determines that the provision of additional services is in the interest of eligible veterans, based upon identified health needs, VA may offer such additional services under this section as VA determines appropriate. Such services may be limited in duration and location. VA will inform the public through a Federal Register document, published as soon as practicable, and other communications, as appropriate.
 
-(c) *Procedures.* (1)(i)(A) Eligible veterans may receive urgent care under this section without prior approval from VA.
+(c) *Procedures.* (1)(i) Eligible veterans may receive urgent care under this section without prior approval from VA.
 
-(B) Eligible veterans must declare at each episode of care if they are using this benefit prior to receiving urgent care under this section.
+(ii) Eligible veterans must declare at each episode of care if they are using this benefit prior to receiving urgent care under this section.
 
 (2) VA will publish a website providing information on urgent care, including the names, locations, and contact information for qualifying non-VA entities or providers from which urgent care is available under this section.
 
@@ -54,4 +54,4 @@
 
 (f) *Payments.* Payments made for urgent care constitute payment in full and shall extinguish the veteran's liability to the qualifying non-VA entity or provider. The qualifying non-VA entity or provider may not impose any additional charge on a veteran or his or her health care insurer for any urgent care service for which payment is made by VA. This section does not abrogate VA's right, under 38 U.S.C. 1729, to recover or collect from a third party the reasonable charges of the care or services provided under this section.
 
-[84 FR 26018, June 5, 2019]
+[84 FR 26018, June 5, 2019, as amended at 88 FR 13034, Mar. 2, 2023]

@@ -1,21 +1,13 @@
-##### § 1.1103 Schedule of charges for experimental radio services. #####
+##### § 1.1103 Schedule of charges for equipment approval, experimental radio services (or service). #####
 
-Link to an amendment published at 88 FR 6171, Jan. 31, 2023.
+|            Type of application             |Payment type code|Fee amount|
+|--------------------------------------------|-----------------|----------|
+|         Assignment of Grantee Code         |       EAG       |  $35.00  |
+|         New Station Authorization          |       EAE       |  140.00  |
+|       Modification of Authorization        |       EAE       |  140.00  |
+|      Renewal of Station Authorization      |       EAE       |  140.00  |
+|Assignment of License or Transfer of Control|       EAE       |  140.00  |
+|        Special Temporary Authority         |       EAE       |  140.00  |
+|          Confidentiality Request           |       EAD       |  50.00   |
 
-Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees*.
-
-Table 1 to § 1.1103
-
-|                                                |New fee|
-|------------------------------------------------|-------|
-|Experimental License Application, per Call Sign:|       |
-|           New Station Authorization            | $125  |
-|         Modification of Authorization          |  125  |
-|        Renewal of Station Authorization        |  125  |
-|  Assignment of License or Transfer of Control  |  125  |
-|          Special Temporary Authority           |  125  |
-|            Confidentiality Request             |  50   |
-|        Equipment Approval Applications:        |       |
-|           Assignment of Grantee Code           |  35   |
-
-[83 FR 38046, Aug. 3, 2018, as amended at 84 FR 66079, Dec. 3, 2019; 86 FR 15063, Mar. 19, 2021]
+[88 FR 6171, Jan. 31, 2023]

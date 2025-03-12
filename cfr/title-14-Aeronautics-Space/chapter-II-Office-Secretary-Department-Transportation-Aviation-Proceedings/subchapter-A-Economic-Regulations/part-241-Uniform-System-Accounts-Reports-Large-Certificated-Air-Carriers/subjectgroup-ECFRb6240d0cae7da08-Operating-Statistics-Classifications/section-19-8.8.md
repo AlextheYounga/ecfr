@@ -1,0 +1,7 @@
+##### § 19-8.8 Editing data. #####
+
+(a) *City and airport, or terminus, codes.* Prior to submission of O&D, each carrier is to edit the recorded data to validate city and airport or terminus codes. This edit is to verify that the codes recorded are valid official codes, and it is independent of whether the carriers shown operated into or out of the airport or terminus shown. Any questions about airport or terminus codes should be addressed to the Director, Office of Airline Information.
+
+(b) *Edit responsibility of carriers.* Each carrier is responsible for developing edit procedures and internal controls over its data entry and processing procedures so that valid and reliable data are captured in the O&D inputs. Since the carriers have many different statistical systems, it is not practicable for the Department of Transportation to prescribe specific controls in this area, and each carrier is responsible for developing the appropriate internal control procedures to edit the O&D data and ensure the integrity of these data. The Department will control the accuracy of its processing of the sampled data upon receipt from the carriers or their third-party providers.
+
+(c) *System documentation of edits.* Carriers are required to maintain written O&D procedural statements and flow charts.

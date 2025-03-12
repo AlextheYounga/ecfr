@@ -30,4 +30,4 @@
 
 (3) A full curriculum vitae.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number XXXX-XXXX.)
+(The Office of Management and Budget has approved the information collection requirement in this section under control number 2900-0879)[85 FR 45535, July 29, 2020, as amended at 88 FR 13034, Mar. 2, 2023]
