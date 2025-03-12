@@ -1,5 +1,7 @@
 ##### § 326.6 Class I administrative penalties. #####
 
+Link to an amendment published at 82 FR 47628, Oct. 13, 2017.
+
 (a) *Introduction.* (1) This section sets forth procedures for initiation and administration of Class I administrative penalty orders under Section 309(g) of the Clean Water Act, and Section 205 of the National Fishing Enhancement Act. Under Section 309(g)(2)(A) of the Clean Water Act, Class I civil penalties may not exceed $11,000 per violation, except that the maximum amount of any Class I civil penalty shall not exceed $32,500. Under Section 205(e) of the National Fishing Enhancement Act, penalties for violations of permits issued in accordance with that Act shall not exceed $11,000 for each violation.
 
 (2) These procedures supplement the existing enforcement procedures at §§ 326.1 through 326.5. However, as a matter of Corps enforcement discretion once the Corps decides to proceed with an administrative penalty under these procedures it shall not subsequently pursue judicial action pursuant to § 326.5. Therefore, an administrative penalty should not be pursued if a subsequent judicial action for civil penalties is desired. An administrative civil penalty may be pursued in conjunction with a compliance order; request for restoration and/or request for mitigation issued under § 326.4.

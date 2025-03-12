@@ -1,6 +1,6 @@
 ##### § 147.130 Coverage of preventive health services. #####
 
-(a) *Services* - (1) *In general.* Beginning at the time described in paragraph (b) of this section and subject to § 147.131, a group health plan, or a health insurance issuer offering group or individual health insurance coverage, must provide coverage for all of the following items and services, and may not impose any cost-sharing requirements (such as a copayment, coinsurance, or a deductible) with respect to those items and services:
+(a) *Services* - (1) (1) *In general.* Beginning at the time described in paragraph (b) of this section and subject to §§ 147.131, 147.132, and 147.133, a group health plan, or a health insurance issuer offering group or individual health insurance coverage, must provide coverage for and must not impose any cost-sharing requirements (such as a copayment, coinsurance, or a deductible) for -
 
 (i) Evidence-based items or services that have in effect a rating of A or B in the current recommendations of the United States Preventive Services Task Force with respect to the individual involved (except as otherwise provided in paragraph (c) of this section);
 
@@ -8,7 +8,7 @@
 
 (iii) With respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in comprehensive guidelines supported by the Health Resources and Services Administration; and
 
-(iv) With respect to women, to the extent not described in paragraph (a)(1)(i) of this section, evidence-informed preventive care and screenings provided for in binding comprehensive health plan coverage guidelines supported by the Health Resources and Services Administration.
+(iv) With respect to women, such additional preventive care and screenings not described in paragraph (a)(1)(i) of this section as provided for in comprehensive guidelines supported by the Health Resources and Services Administration for purposes of section 2713(a)(4) of the Public Health Service Act, subject to §§ 147.131, 147.132, and 147.133.
 
 (2) *Office visits* - (i) If an item or service described in paragraph (a)(1) of this section is billed separately (or is tracked as individual encounter data separately) from an office visit, then a plan or issuer may impose cost-sharing requirements with respect to the office visit.
 
@@ -52,4 +52,4 @@ Example 4.(i) *Facts.* A child covered by a group health plan visits an in-netwo
 
 (d) *Applicability date.* The provisions of this section apply for plan years (in the individual market, for policy years) beginning on or after September 23, 2010. *See* § 147.140 of this part for determining the application of this section to grandfathered health plans (providing that these rules regarding coverage of preventive health services do not apply to grandfathered health plans).
 
-[75 FR 41759, July 19, 2010, as amended at 76 FR 46626, Aug. 3, 2011; 78 FR 39896, July 2, 2013; 80 FR 41346, July 14, 2015]
+[75 FR 41759, July 19, 2010, as amended at 76 FR 46626, Aug. 3, 2011; 78 FR 39896, July 2, 2013; 80 FR 41346, July 14, 2015; 82 FR 47833, 47861, Oct. 13, 2017]

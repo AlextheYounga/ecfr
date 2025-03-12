@@ -20,4 +20,4 @@
 
 (4) Nothing in this section shall be construed to prohibit any persons from voluntarily reaching arrangements or agreements calling for the disclosure of CEII.
 
-[58 FR 52436, Oct. 8, 1993, as amended by Order 643, 68 FR 52095, Sept. 2, 2003]Effective Date Note:At 58 FR 52436, Oct. 8, 1993, § 141.300 was added. The new section contains information collection provisions which will not become effective until approved by the Office of Management and Budget.
+[58 FR 52436, Oct. 8, 1993, as amended by Order 643, 68 FR 52095, Sept. 2, 2003]Effective Date Note:At 58 FR 52436, Oct. 8, 1993, § 141.300 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

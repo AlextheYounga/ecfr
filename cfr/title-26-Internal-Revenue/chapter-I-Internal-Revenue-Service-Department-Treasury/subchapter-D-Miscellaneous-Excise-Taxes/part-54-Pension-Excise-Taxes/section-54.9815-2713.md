@@ -1,6 +1,6 @@
 ##### § 54.9815-2713 Coverage of preventive health services. #####
 
-(a) *Services* - (1) *In general.* Beginning at the time described in paragraph (b) of this section and subject to § 54.9815-2713A, a group health plan, or a health insurance issuer offering group health insurance coverage, must provide coverage for all of the following items and services, and may not impose any cost-sharing requirements (such as a copayment, coinsurance, or a deductible) with respect to those items and services:
+(a) *Services* - (1) *In general.* [Reserved]. For further guidance, see § 54.9815-2713T(a)(1) introductory text.
 
 (i) Evidence-based items or services that have in effect a rating of A or B in the current recommendations of the United States Preventive Services Task Force with respect to the individual involved (except as otherwise provided in paragraph (c) of this section);
 
@@ -8,7 +8,7 @@
 
 (iii) With respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in comprehensive guidelines supported by the Health Resources and Services Administration; and
 
-(iv) With respect to women, to the extent not described in paragraph (a)(1)(i) of this section, evidence-informed preventive care and screenings provided for in binding comprehensive health plan coverage guidelines supported by the Health Resources and Services Administration, in accordance with 45 CFR 147.131(a).
+(iv) [Reserved]. For further guidance, see § 54.9815-2713T(a)(1)(iv).
 
 (2) *Office visits* - (i) If an item or service described in paragraph (a)(1) of this section is billed separately (or is tracked as individual encounter data separately) from an office visit, then a plan or issuer may impose cost-sharing requirements with respect to the office visit.
 
@@ -52,4 +52,4 @@ Example 4.(i) *Facts.* A child covered by a group health plan visits an in-netwo
 
 (d) *Effective/applicability date.* April 16, 2012.
 
-[T.D. 9578, 77 FR 8729, Feb. 15, 2012, as amended by T.D. 9624, 78 FR 39892, July 2, 2013; T.D. 9726, 80 FR 41342, July 14, 2015]
+[T.D. 9578, 77 FR 8729, Feb. 15, 2012, as amended by T.D. 9624, 78 FR 39892, July 2, 2013; T.D. 9726, 80 FR 41342, July 14, 2015; T.D. 9827, 82 FR 47828, Oct. 13, 2017]

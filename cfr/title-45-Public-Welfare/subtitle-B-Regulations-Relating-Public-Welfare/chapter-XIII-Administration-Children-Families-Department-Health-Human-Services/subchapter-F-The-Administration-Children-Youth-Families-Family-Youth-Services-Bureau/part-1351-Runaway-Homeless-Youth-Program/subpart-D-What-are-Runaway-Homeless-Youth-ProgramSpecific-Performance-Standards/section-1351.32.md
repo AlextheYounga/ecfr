@@ -1,0 +1,3 @@
+##### § 1351.32 What performance standards must Street Outreach Program grantees meet? #####
+
+Grantees shall contact youth who are or who are at risk of homeless or runaway status on the streets in numbers that are reasonably attainable for the staff size of the project. Grantees with larger staff will be expected to contact larger numbers of youth in approximate proportion, as determined by HHS, to the larger number of staff available to provide this service. Each grantee shall report data related to this outcome, using existing data collection and reporting processes, in accordance with the Paperwork Reduction Act and the Office of Management and Budget Control Numbers 0970-0406 and 0970-0123, and their successors.
