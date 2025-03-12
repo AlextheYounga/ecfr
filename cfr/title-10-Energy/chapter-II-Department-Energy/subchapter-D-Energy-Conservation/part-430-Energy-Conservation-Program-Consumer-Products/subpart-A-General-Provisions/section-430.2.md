@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 88 FR 34703, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.Link to an amendment published at 88 FR 40473, June 21, 2023.
+Link to an amendment published at 88 FR 34703, May 30, 2023.Link to an amendment published at 88 FR 39959, June 20, 2023.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
@@ -163,6 +163,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Central air conditioner or central air conditioning heat pump* means a product, other than a packaged terminal air conditioner, packaged terminal heat pump, single-phase single-package vertical air conditioner with cooling capacity less than 65,000 Btu/h, single-phase single-package vertical heat pump with cooling capacity less than 65,000 Btu/h, computer room air conditioner, or unitary dedicated outdoor air system as these equipment categories are defined at 10 CFR 431.92, which is powered by single phase electric current, air cooled, rated below 65,000 Btu per hour, not contained within the same cabinet as a furnace, the rated capacity of which is above 225,000 Btu per hour, and is a heat pump or a cooling unit only. A central air conditioner or central air conditioning heat pump may consist of: A single-package unit; an outdoor unit and one or more indoor units; an indoor unit only; or an outdoor unit with no match. In the case of an indoor unit only or an outdoor unit with no match, the unit must be tested and rated as a system (combination of both an indoor and an outdoor unit). For all central air conditioner and central air conditioning heat pump-related definitions, see appendix M or M1 of subpart B of this part.
 
 *Central system humidifier* means a class of humidifier designed to add moisture into the air stream of a heating system.
+
+*Circulating water heater* means an instantaneous or heat pump-type water heater that does not have an operational scheme in which the burner, heating element, or compressor initiates and/or terminates heating based on sensing flow; has a water temperature sensor located at the inlet or the outlet of the water heater or in a separate storage tank that is the primary means of initiating and terminating heating; and must be used in combination with a recirculating pump and either a separate storage tank or water circulation loop in order to achieve the water flow and temperature conditions recommended in the manufacturer's installation and operation instructions.
 
 *Class A external power supply*—
 
@@ -704,6 +706,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Low-pressure water dispenser* means a terminal fitting that dispenses drinking water at a pressure of 105 kPA (15 psi) or less.
 
+*Low-temperature water heater* means an electric instantaneous water heater that is not a circulating water heater and cannot deliver water at a temperature greater than or equal to the set point temperature specified in section 2.5 of appendix E to subpart B of this part when supplied with water at the supply water temperature specified in section 2.3 of appendix E to subpart B of this part and the flow rate specified in section 5.2.2.1 of appendix E to subpart B of this part.
+
 *Low-voltage external power supply* means an external power supply with a nameplate output voltage less than 6 volts and nameplate output current greater than or equal to 550 milliamps.
 
 *LP-gas* means liquified petroleum gas, and includes propane, butane, and propane/butane mixtures.
@@ -1016,6 +1020,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Supplementary electric heater* means an electric heater that provides heat to a space in addition to that which is supplied by a primary electric heater and includes portable electric heaters.
 
 *Surface unit* means either a heating unit mounted in a cooking top, or a heating source and its associated heated area of the cooking top, on which vessels are placed for the cooking or heating of food.
+
+*Tabletop water heater* means a heater in a rectangular box enclosure designed to slide into a kitchen countertop space with typical dimensions of 36 inches high, 25 inches deep, and 24 inches wide.
 
 *Television set or TV* means a product designed to produce dynamic video, contains an internal TV tuner encased within the product housing, and that is capable of receiving dynamic visual content from wired or wireless sources including but not limited to:
 

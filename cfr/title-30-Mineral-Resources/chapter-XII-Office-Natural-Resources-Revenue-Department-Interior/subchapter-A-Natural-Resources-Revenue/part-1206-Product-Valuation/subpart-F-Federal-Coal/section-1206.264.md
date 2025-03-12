@@ -1,11 +1,3 @@
-##### § 1206.264 What are my reporting requirements under a non-arm's-length transportation contract? #####
+##### § 1206.264 In-situ and surface gasification and liquefaction operations. #####
 
-(a) You must use a separate entry on form ONRR-4430 to notify ONRR of an allowance based on non-arm's-length transportation costs you or your affiliate incur(s).
-
-(b)(1) For new non-arm's-length transportation facilities or arrangements, you must base your initial deduction on estimates of allowable transportation costs for the applicable period.
-
-(2) You must use your or your affiliate's most recently available operations data for the transportation system as your estimate, if available. If such data is not available, you must use estimates based on data for similar transportation systems.
-
-(3) Section 1206.266 applies when you amend your report based on the actual costs.
-
-(c) ONRR may require you or your affiliate to submit all data used to calculate the allowance deduction. You can find recordkeeping requirements in parts 1207 and 1212 of this chapter.
+If an ad valorem Federal coal lease is developed by in-situ or surface gasification or liquefaction technology, the lessee shall propose the value of coal for royalty purposes to ONRR. The ONRR will review the lessee's proposal and issue a value determination. The lessee may use its proposed value until ONRR issues a value determination.

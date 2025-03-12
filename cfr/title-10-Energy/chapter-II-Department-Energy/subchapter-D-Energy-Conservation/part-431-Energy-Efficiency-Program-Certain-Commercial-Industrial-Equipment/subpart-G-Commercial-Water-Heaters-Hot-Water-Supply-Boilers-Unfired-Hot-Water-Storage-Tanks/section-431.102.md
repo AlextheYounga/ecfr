@@ -1,7 +1,5 @@
 ##### § 431.102 Definitions concerning commercial water heaters, hot water supply boilers, unfired hot water storage tanks, and commercial heat pump water heaters. #####
 
-Link to an amendment published at 88 FR 40494, June 21, 2023.
-
 The following definitions apply for purposes of this subpart G, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in section 340 of the Act, 42 U.S.C. 6311.
 
 *Air-source commercial heat pump water heater* means a commercial heat pump water heater that utilizes indoor or outdoor air as the heat source.
@@ -10,7 +8,7 @@ The following definitions apply for purposes of this subpart G, and of subparts 
 
 *Coefficient of performance (COP*h*)* means the dimensionless ratio of the rate of useful heat transfer gained by the water (expressed in Btu/h), to the rate of electric power consumed during operation (expressed in Btu/h).
 
-*Commercial heat pump water heater (CHPWH)* means a water heater (including all ancillary equipment such as fans, blowers, pumps, storage tanks, piping, and controls, as applicable) that uses a refrigeration cycle, such as vapor compression, to transfer heat from a low-temperature source to a higher-temperature sink for the purpose of heating potable water, and has a rated electric power input greater than 12 kW. Such equipment includes, but is not limited to, air-source heat pump water heaters, water-source heat pump water heaters, and direct geo-exchange heat pump water heaters.
+*Commercial heat pump water heater (CHPWH)* means a water heater (including all ancillary equipment such as fans, blowers, pumps, storage tanks, piping, and controls, as applicable) that uses a refrigeration cycle, such as vapor compression, to transfer heat from a low-temperature source to a higher-temperature sink for the purpose of heating potable water, and operates with a current rating greater than 24 amperes or a voltage greater than 250 volts. Such equipment includes, but is not limited to, air-source heat pump water heaters, water-source heat pump water heaters, and direct geo-exchange heat pump water heaters.
 
 *Direct geo-exchange commercial heat pump water heater* means a commercial heat pump water heater that utilizes the earth as a heat source and allows for direct exchange of heat between the earth and the refrigerant in the evaporator coils.
 
@@ -84,4 +82,4 @@ The following definitions apply for purposes of this subpart G, and of subparts 
 
 *Unfired hot water storage tank* means a tank used to store water that is heated externally, and that is industrial equipment.
 
-[69 FR 61983, Oct. 21, 2004, as amended at 76 FR 12503, Mar. 7, 2011; 78 FR 79599, Dec. 31, 2013; 79 FR 40586, July 11, 2014; 81 FR 79321, Nov. 10, 2016]
+[69 FR 61983, Oct. 21, 2004, as amended at 76 FR 12503, Mar. 7, 2011; 78 FR 79599, Dec. 31, 2013; 79 FR 40586, July 11, 2014; 81 FR 79321, Nov. 10, 2016; 88 FR 40494, June 21, 2023]

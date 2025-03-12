@@ -1,6 +1,6 @@
 ##### § 1206.20 What definitions apply to this part? #####
 
-*Ad valorem lease* means a lease where the royalty due to the lessor is based upon a percentage of the amount or value of the coal.
+The definitions in this section do not apply to subparts F and J of this part.
 
 *Affiliate* means a person who controls, is controlled by, or is under common control with another person. For the purposes of this subpart:
 
@@ -36,12 +36,6 @@
 
 *BSEE* means the Bureau of Safety and Environmental Enforcement of the Department of the Interior.
 
-*Coal* means coal of all ranks from lignite through anthracite.
-
-*Coal cooperative* means an entity organized to provide coal or coal-related services to the entity's members (who may or may not also be owners of the entity), partners, and others. The entity may operate as a coal lessee, operator, payor, logistics provider, or electricity generator, or any of their affiliates, and may be organized to be non-profit or for-profit.
-
-*Coal washing* means any treatment to remove impurities from coal. Coal washing may include, but is not limited to, operations, such as flotation, air, water, or heavy media separation; drying; and related handling (or combination thereof).
-
 *Compression* means the process of raising the pressure of gas.
 
 *Condensate* means liquid hydrocarbons (normally exceeding 40 degrees of API gravity) recovered at the surface without processing. Condensate is the mixture of liquid hydrocarbons resulting from condensation of petroleum hydrocarbons existing initially in a gaseous phase in an underground reservoir.
@@ -70,37 +64,27 @@
 
 (1) *Oil.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as dehydration, marketing, measurement, or gathering which the lessee must perform at no cost to the Federal Government
+(i) Payments for services such as dehydration, marketing, measurement, or gathering which the lessee must perform at no cost to the Federal Government.
 
-(ii) The value of services, such as salt water disposal, that the producer normally performs but that the buyer performs on the producer's behalf
+(ii) The value of services, such as salt water disposal, that the producer normally performs but that the buyer performs on the producer's behalf.
 
-(iii) Reimbursements for harboring or terminalling fees, royalties, and any other reimbursements
+(iii) Reimbursements for harboring or terminalling fees, royalties, and any other reimbursements.
 
-(iv) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation
+(iv) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation.
 
-(v) Payments made to reduce or buy down the purchase price of oil produced in later periods by allocating such payments over the production whose price that the payment reduces and including the allocated amounts as proceeds for the production as it occurs
+(v) Payments made to reduce or buy down the purchase price of oil produced in later periods by allocating such payments over the production whose price that the payment reduces and including the allocated amounts as proceeds for the production as it occurs.
 
-(vi) Monies and all other consideration to which a seller is contractually or legally entitled but does not seek to collect through reasonable efforts
+(vi) Monies and all other consideration to which a seller is contractually or legally entitled but does not seek to collect through reasonable efforts.
 
 (2) *Gas, residue gas, and gas plant products.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as dehydration, marketing, measurement, or gathering that the lessee must perform at no cost to the Federal Government
+(i) Payments for services such as dehydration, marketing, measurement, or gathering that the lessee must perform at no cost to the Federal Government.
 
-(ii) Reimbursements for royalties, fees, and any other reimbursements
+(ii) Reimbursements for royalties, fees, and any other reimbursements.
 
-(iii) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation
+(iii) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation.
 
-(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
-
-(3) *Coal.* Gross proceeds also include, but are not limited to, the following examples:
-
-(i) Payments for services such as crushing, sizing, screening, storing, mixing, loading, treatment with substances including chemicals or oil, and other preparation of the coal that the lessee must perform at no cost to the Federal Government or Indian lessor
-
-(ii) Reimbursements for royalties, fees, and any other reimbursements
-
-(iii) Tax reimbursements even though the Federal or Indian royalty interest may be exempt from taxation
-
-(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
+(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts.
 
 *Index* means:
 
@@ -122,11 +106,7 @@
 
 *Lease products* mean any leased minerals, attributable to, originating from, or allocated to a lease or produced in association with a lease.
 
-*Lessee* means any person to whom the United States, an Indian Tribe, and/or individual Indian mineral owner issues a lease, and any person who has been assigned all or a part of record title, operating rights, or an obligation to make royalty or other payments required by the lease. Lessee includes:
-
-(1) Any person who has an interest in a lease.
-
-(2) In the case of leases for Indian coal or Federal coal, an operator, payor, or other person with no lease interest who makes royalty payments on the lessee's behalf.
+*Lessee* means any person to whom the United States, an Indian Tribe, and/or individual Indian mineral owner issues a lease, and any person who has been assigned all or a part of record title, operating rights, or an obligation to make royalty or other payments required by the lease. Lessee includes any person who has an interest in a lease.
 
 *Like quality* means similar chemical and physical characteristics.
 
@@ -134,17 +114,13 @@
 
 *Market center* means a major point that ONRR recognizes for oil sales, refining, or transshipment. Market centers generally are locations where ONRR-approved publications publish oil spot prices.
 
-*Marketable condition* means lease products which are sufficiently free from impurities and otherwise in a condition that they will be accepted by a purchaser under a sales contract typical for the field or area for Federal oil and gas, and region for Federal and Indian coal.
+*Marketable condition* means lease products which are sufficiently free from impurities and otherwise in a condition that they will be accepted by a purchaser under a sales contract typical for the field or area for Federal oil and gas.
 
 *Mine* means an underground or surface excavation or series of excavations and the surface or underground support facilities that contribute directly or indirectly to mining, production, preparation, and handling of lease products.
 
 *Misconduct* means any failure to perform a duty owed to the United States under a statute, regulation, or lease, or unlawful or improper behavior, regardless of the mental state of the lessee or any individual employed by or associated with the lessee.
 
-*Net output* means the quantity of:
-
-(1) For gas, residue gas and each gas plant product that a processing plant produces.
-
-(2) For coal, the quantity of washed coal that a coal wash plant produces.
+*Net output* means the quantity of gas residue gas and each gas plant product that a processing plant produces.
 
 *Netting* means reducing the reported sales value to account for an allowance instead of reporting the allowance as a separate entry on the Report of Sales and Royalty Remittance (Form ONRR-2014) or the Solid Minerals Production and Royalty Report (Form ONRR-4430).
 
@@ -182,8 +158,6 @@
 
 *Quality differential* means an amount paid or received under an exchange agreement (whether in money or in barrels of oil) that results from differences in API gravity, sulfur content, viscosity, metals content, and other quality factors between oil delivered and oil received in the exchange. A quality differential may represent all or part of the difference between the price received for oil delivered and the price paid for oil received under a buy/sell agreement.
 
-*Region* for coal means the eight Federal coal production regions, which the Bureau of Land Management designates as follows: Denver-Raton Mesa Region, Fort Union Region, Green River-Hams Fork Region, Powder River Region, San Juan River Region, Southern Appalachian Region, Uinta-Southwestern Utah Region, and Western Interior Region. See 44 FR 65197 (1979).
-
 *Residue gas* means that hydrocarbon gas consisting principally of methane resulting from processing gas.
 
 *Rocky Mountain Region* means the States of Colorado, Montana, North Dakota, South Dakota, Utah, and Wyoming, except for those portions of the San Juan Basin and other oil-producing fields in the “Four Corners” area that lie within Colorado and Utah.
@@ -196,15 +170,13 @@
 
 *Sale* means a contract between two persons where:
 
-(1) The seller unconditionally transfers title to the oil, gas, gas plant product, or coal to the buyer and does not retain any related rights, such as the right to buy back similar quantities of oil, gas, gas plant product, or coal from the buyer elsewhere; and
+(1) The seller unconditionally transfers title to the oil, gas, or gas plant product to the buyer and does not retain any related rights, such as the right to buy back similar quantities of oil, gas, or gas plant product from the buyer elsewhere;
 
-(2) The buyer pays money or other consideration for the oil, gas, gas plant product, or coal; and
+(2) The buyer pays money or other consideration for the oil, gas, or gas plant product; and
 
-(3) The parties' intent is for a sale of the oil, gas, gas plant product, or coal to occur.
+(3) The parties' intent is for a sale of the oil, gas, or gas plant product to occur.
 
 *Section 6 lease* means an OCS lease subject to section 6 of the Outer Continental Shelf Lands Act, as amended, 43 U.S.C. 1335.
-
-*Short ton* means 2,000 pounds.
 
 *Spot price* means the price under a spot sales contract where:
 
@@ -214,8 +186,6 @@
 
 (3) There is no obligation or implied intent to continue to sell in subsequent periods.
 
-*Tonnage* means tons of coal measured in short tons.
-
 *Trading month* means the period extending from the second business day before the 25th day of the second calendar month preceding the delivery month (or, if the 25th day of that month is a non-business day, the second business day before the last business day preceding the 25th day of that month) through the third business day before the 25th day of the calendar month preceding the delivery month (or, if the 25th day of that month is a non-business day, the third business day before the last business day preceding the 25th day of that month), unless the NYMEX publishes a different definition or different dates on its official website, *www.cmegroup.com*, in which case, the NYMEX definition will apply.
 
 *Transportation allowance* means a deduction in determining royalty value for the reasonable, actual costs that the lessee incurs for moving:
@@ -224,8 +194,6 @@
 
 (2) Unprocessed gas, residue gas, or gas plant products to a point of sale or delivery off of the lease, unit area, or communitized area, or away from a processing plant. The transportation allowance does not include gathering costs.
 
-(3) Coal to a point of sale remote from both the lease and mine or wash plant.
-
-*Washing allowance* means a deduction in determining royalty value for the reasonable, actual costs the lessee incurs for coal washing.
-
 *WTI differential* means the average of the daily mean differentials for location and quality between a grade of crude oil at a market center and West Texas Intermediate (WTI) crude oil at Cushing published for each day for which price publications perform surveys for deliveries during the production month, calculated over the number of days on which those differentials are published (excluding weekends and holidays). Calculate the daily mean differentials by averaging the daily high and low differentials for the month in the selected publication. Use only the days and corresponding differentials for which such differentials are published.
+
+[85 FR 62019, Oct. 1, 2020, as amended at 88 FR 47005, July 21, 2023]

@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 88 FR 34362, May 26, 2023.Link to an amendment published at 88 FR 34702, May 30, 2023.Link to an amendment published at 88 FR 40472, June 21, 2023.
+Link to an amendment published at 88 FR 34362, May 26, 2023.Link to an amendment published at 88 FR 34702, May 30, 2023.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -79,6 +79,12 @@ Link to an amendment published at 88 FR 34362, May 26, 2023.Link to an amendment
 (i) If the rated storage volume is found to be within 3 percent of the mean of the measured value of storage volume, then the rated value will be used as the basis for calculation of the required uniform energy factor for the basic model.
 
 (ii) If the rated storage volume is found to vary more than 3 percent from the mean of the measured values, then the mean of the measured values will be used as the basis for calculation of the required uniform energy factor for the basic model.
+
+(3) *Verification of fuel input rate.* The fuel input rate of each tested unit of the basic model will be measured pursuant to the test requirements of section 5.2.3 of 10 CFR part 430, subpart B, appendix E. The measured fuel input rate (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) will be compared to the rated input certified by the manufacturer. The certified rated input will be considered valid only if the measured fuel input rate is within ±2 percent of the certified rated input.
+
+(i) If the certified rated input is found to be valid, then the certified rated input will be used to determine compliance with the associated energy conservation standard.
+
+(ii) If the measured fuel input rate for gas-fired or oil-fired water heating products is not within ±2 percent of the certified rated input, the measured fuel input rate will be used to determine compliance with the associated energy conservation standard.
 
 (e) *Packaged terminal air conditioners and packaged terminal heat pumps*—(1) *Verification of cooling capacity.* The total cooling capacity of the basic model will be measured pursuant to the test requirements of 10 CFR part 431 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of cooling capacity certified by the manufacturer. The certified cooling capacity will be considered valid only if the average measured cooling capacity is within five percent of the certified cooling capacity.
 
@@ -437,4 +443,4 @@ The outdoor ventilation airflow rate shall be determined at 0 in. H2O external s
 
 (2) *Specific components.* If a basic model includes individual models with components listed at table 5 to § 429.43(a)(3)(iv)(A) and DOE is not able to obtain an individual model with the least number (which could be zero) of those components within an otherwise comparable model group (as defined in § 429.43(a)(3)(iv)(A)(*1*)), DOE may test any individual model within the otherwise comparable model group.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023; 88 FR 15537, Mar. 13, 2023; 88 FR 17975, Mar. 24, 2023; 88 FR 21838, Apr. 11, 2023; 88 FR 28837, May 4, 2023]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023; 88 FR 15537, Mar. 13, 2023; 88 FR 17975, Mar. 24, 2023; 88 FR 21838, Apr. 11, 2023; 88 FR 28837, May 4, 2023; 88 FR 40472, June 21, 2023]

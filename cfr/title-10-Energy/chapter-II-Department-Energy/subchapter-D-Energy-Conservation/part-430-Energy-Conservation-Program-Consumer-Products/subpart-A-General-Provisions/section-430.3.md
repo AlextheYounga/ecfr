@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 40473, June 21, 2023.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 1000 Independence Ave. SW, EE-5B, Washington, DC 20585, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -186,7 +184,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (xx) Section 9—Data to be Recorded, Table 3—Data to be Recorded.
 
-(5) ASHRAE 41.1-1986 (Reaffirmed 2006) (“ASHRAE 41.1-1986”), *Standard Method for Temperature Measurement,* approved February 18, 1987; IBR approved for appendices E, AA, CC, and CC1 to subpart B.
+(5) ASHRAE 41.1-1986 (Reaffirmed 2006) (“ASHRAE 41.1-1986”), *Standard Method for Temperature Measurement,* approved February 18, 1987; IBR approved for appendices AA, CC, and CC1 to subpart B.
 
 (6) ANSI/ASHRAE 41.1-2013 (“ANSI/ASHRAE 41.1”), Standard Method for Temperature Measurement, ANSI approved January 30, 2013; IBR approved for appendices F and X1 to subpart B.
 
@@ -200,21 +198,23 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (iv) Section 7—Temperature Test Methods (Informative).
 
-(8) ANSI/ASHRAE Standard 41.2-1987 (RA 92), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, IBR approved for appendix F to subpart B.
+(8) ANSI/ASHRAE Standard 41.1-2020 (“ASHRAE 41.1-2020”), *Standard Methods for Temperature Measurement,* ANSI-approved June 30, 2020; IBR approved for appendix E to subpart B.
 
-(9) ANSI/ASHRAE Standard 41.2-1987 (RA 1992), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, Section 5—Section of Airflow-Measuring Equipment and Systems, IBR approved for appendix M to subpart B, as follows:
+(9) ANSI/ASHRAE Standard 41.2-1987 (RA 92), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, IBR approved for appendix F to subpart B.
+
+(10) ANSI/ASHRAE Standard 41.2-1987 (RA 1992), (“ASHRAE 41.2-1987 (RA 1992)”), Standard Methods for Laboratory Airflow Measurement, ANSI reaffirmed April 20, 1992, Section 5—Section of Airflow-Measuring Equipment and Systems, IBR approved for appendix M to subpart B, as follows:
 
 (i) Section 5.2—Test Ducts,, Section 5.2.2—Mixers, 5.2.2.1—Performance of Mixers (excluding Figures 11 and 12 and Table 1); and
 
 (ii) Figure 14—Outlet Chamber Setup for Multiple Nozzles in Chamber.
 
-(10) ANSI/ASHRAE Standard 41.3-2014, (“ASHRAE 41.3-2014”), Standard Methods for Pressure Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
+(11) ANSI/ASHRAE Standard 41.3-2014, (“ASHRAE 41.3-2014”), Standard Methods for Pressure Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
 
-(11) ANSI/ASHRAE Standard 41.6-1994 (RA 2006) (“ASHRAE 41.6-1994”), *Standard Method for Measurement of Moist Air Properties,* ANSI-reaffirmed January 27, 2006; IBR approved for appendices CC and CC1 to subpart B.
+(12) ANSI/ASHRAE Standard 41.6-1994 (RA 2006) (“ASHRAE 41.6-1994”), *Standard Method for Measurement of Moist Air Properties,* ANSI-reaffirmed January 27, 2006; IBR approved for appendices CC and CC1 to subpart B.
 
-(12) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendices F and EE to subpart B.
+(13) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendices E, F, and EE to subpart B.
 
-(13) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix M to subpart B, as follows:
+(14) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix M to subpart B, as follows:
 
 (i) Section 4—Classifications;
 
@@ -224,7 +224,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (iv) Section 7—Humidity Measurement Methods.
 
-(14) ANSI/ASHRAE 41.9-2011, (“ASHRAE 41.9-2011”), Standard Methods for Volatile-Refrigerant Mass Flow Measurements Using Calorimeters, ANSI approved February 3, 2011, IBR approved for appendix M to subpart B, as follows:
+(15) ANSI/ASHRAE 41.9-2011, (“ASHRAE 41.9-2011”), Standard Methods for Volatile-Refrigerant Mass Flow Measurements Using Calorimeters, ANSI approved February 3, 2011, IBR approved for appendix M to subpart B, as follows:
 
 (i) Section 5—Requirements;
 
@@ -238,17 +238,19 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (vi) Section 11—Lubrication Circulation Measurements.
 
-(15) ANSI/ASHRAE Standard 41.11-2014, (“ASHRAE 41.11-2014”), Standard Methods for Power Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
+(16) ANSI/ASHRAE Standard 41.11-2014, (“ASHRAE 41.11-2014”), Standard Methods for Power Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
 
-(16) ANSI/ASHRAE Standard 103-1993, (“ASHRAE 103-1993”), Methods of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, (with Errata of October 24, 1996), except for sections 7.1, 7.2.2.2, 7.2.2.5, 7.2.3.1, 7.8, 8.2.1.3, 8.3.3.1, 8.4.1.1, 8.4.1.1.2, 8.4.1.2, 8.4.2.1.4, 8.4.2.1.6, 8.6.1.1, 8.7.2, 8.8.3, 9.1.2.2.1, 9.1.2.2.2, 9.5.1.1, 9.5.1.2.1, 9.5.1.2.2, 9.5.2.1, 9.7.1, 9.7.4, 9.7.6, 9.10, 11.5.11.1, 11.5.11.2 and appendices B and C, approved October 4, 1993, IBR approved for § 430.23 and appendix N to subpart B.
+(17) ANSI/ASHRAE Standard 103-1993, (“ASHRAE 103-1993”), Methods of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, (with Errata of October 24, 1996), except for sections 7.1, 7.2.2.2, 7.2.2.5, 7.2.3.1, 7.8, 8.2.1.3, 8.3.3.1, 8.4.1.1, 8.4.1.1.2, 8.4.1.2, 8.4.2.1.4, 8.4.2.1.6, 8.6.1.1, 8.7.2, 8.8.3, 9.1.2.2.1, 9.1.2.2.2, 9.5.1.1, 9.5.1.2.1, 9.5.1.2.2, 9.5.2.1, 9.7.1, 9.7.4, 9.7.6, 9.10, 11.5.11.1, 11.5.11.2 and appendices B and C, approved October 4, 1993, IBR approved for § 430.23 and appendix N to subpart B.
 
-(17) ANSI/ASHRAE Standard 103-2007 (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved March 25, 2008; IBR approved for appendix AA to subpart B.
+(18) ANSI/ASHRAE Standard 103-2007 (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved March 25, 2008; IBR approved for appendix AA to subpart B.
 
-(18) ANSI/ASHRAE Standard 103-2017 (“ASHRAE 103-2017”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved July 3, 2017; IBR approved for § 430.23 and appendices O and EE to subpart B.
+(19) ANSI/ASHRAE Standard 103-2017 (“ASHRAE 103-2017”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved July 3, 2017; IBR approved for § 430.23 and appendices O and EE to subpart B.
 
-(19) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7—Methods of Test, Section 7.4—Air Enthalpy Method—Indoor Side (Primary Method), Section 7.4.3—Measurements, Section 7.4.3.4—Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
+(20) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7—Methods of Test, Section 7.4—Air Enthalpy Method—Indoor Side (Primary Method), Section 7.4.3—Measurements, Section 7.4.3.4—Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
 
-(20) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
+(21) ANSI/ASHRAE Standard 118.2-2022 (“ASHRAE 118.2-2022”), *Method of Testing for Rating Residential Water Heaters and Residential-Duty Commercial Water Heaters,* ANSI-approved March 1, 2022; IBR approved for appendix E to subpart B.
+
+(22) ANSI/ASHRAE Standard 146-2011 (“ASHRAE 146”), Method of Testing and Rating Pool Heaters, ASHRAE approved February 2, 2011, IBR approved for appendix P to subpart B.
 
 (h) *ASME.* American Society of Mechanical Engineers, Three Park Avenue, New York, NY 10016-5990, 1-800 843-2763, or go to *www.asme.org.*
 
@@ -280,15 +282,19 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (10) AHAM RAC-1-2020 (“AHAM RAC-1”), Energy Measurement Test Procedure for Room Air Conditioners, approved 2020, IBR approved for appendix F to subpart B.
 
-(j) *ATSM.* ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959, (877) 909-2786, *www.astm.org.*
+(j) *ASTM.* ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; 877-909-2786; *service@astm.org; www.astm.org.*
 
-(1) ASTM D2156-09 (“ASTM D2156”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, ASTM-approved December 1, 2009; IBR approved for appendix E to subpart B.
+(1) ASTM D2156-09 (Reapproved 2013) (“ASTM D2156R13”), *Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels,* approved October 1, 2013; IBR approved for appendix N to subpart B.
 
-(2) ASTM D2156-09 (Reapproved 2013) (“ASTM D2156R13”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2013, IBR approved for appendix N to subpart B.
+(2) ASTM D2156-09 (Reapproved 2018) (“ASTM D2156 (R2018)”), *Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels,* approved October 1, 2018; IBR approved for appendices E, O, and EE to subpart B.
 
-(3) ASTM D2156-09 (Reapproved 2018) (“ASTM D2156-09 (R2018)”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2018; IBR approved for appendices O and EE to subpart B.
+(3) ASTM E97-82 (Reapproved 1987) (“ASTM E97-1987”), *Standard Test Method for Directional Reflectance Factor, 45-deg 0-deg, of Opaque Specimens by Broad-Band Filter Reflectometry,* ASTM-approved October 29, 1982; IBR approved for appendix E to subpart B.
 
-(4) ASTM E741-11 (Reapproved 2017) (“ASTM E741-11(2017)”), *Standard Test Method for Determining Air Change in a Single Zone Means of a Tracer Gas Dilution* Approved Sept. 1, 2017; IBR approved for appendix FF to subpart B.
+Note 2 to paragraph (j)(3):
+
+ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards resellers including GlobalSpec's Engineering 360 (*https://standards.globalspec.com/std/3801495/astm-e97-82-1987*) and IHS Markit (*https://global.ihs.com/doc\_detail.cfm?document\_name=ASTM%20E97&item\_s\_key=00020483*).
+
+(4) ASTM E741-11 (Reapproved 2017) (“ASTM E741-11(2017)”), Standard Test Method for Determining Air Change in a Single Zone Means of a Tracer Gas Dilution Approved Sept. 1, 2017; IBR approved for appendix FF to subpart B.
 
 (k) *CSA.* CSA Group, 178 Rexdale Blvd., Toronto, ON, Canada M9W 1R3, 1-800-463-6727 or 416-747-4044, *www.csagroup.org.*
 

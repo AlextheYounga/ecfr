@@ -1,5 +1,7 @@
 ##### § 233.2 Circulars and rewards. #####
 
+Link to an amendment published at 88 FR 47025, July 21, 2023.
+
 (a) *Wanted circulars.* The Inspection Service issues wanted circulars to assist in locating and arresting fugitive postal offenders. Post these circulars in the most conspicuous place in the post office lobby and in other prominent places. Post near the Notice of Reward sign. Telephone or telegraph immediately to the postal inspector in charge any information on the possible location of the person wanted. Remove and destroy circulars immediately when notified of their cancellation or when the circular is not listed in the periodic Postal Bulletin notices of current wanted circulars.
 
 (b) *Rewards.* (1) Rewards will be paid up to the amounts and under the conditions stated in Poster 296, Notice of Reward, for the arrest and conviction of persons for the following postal offenses:

@@ -1,0 +1,7 @@
+##### § 206.253 Coal subject to royalties—general provisions. #####
+
+(a) All coal (except coal unavoidably lost as determined by BLM under 43 CFR part 3400) from a Federal lease subject to this part is subject to royalty. This includes coal used, sold, or otherwise disposed of by the lessee on or off the lease.
+
+(b) If a lessee receives compensation for unavoidably lost coal through insurance coverage or other arrangements, royalties at the rate specified in the lease are to be paid on the amount of compensation received for the coal. No royalty is due on insurance compensation received by the lessee for other losses.
+
+(c) If waste piles or slurry ponds are reworked to recover coal, the lessee shall pay royalty at the rate specified in the lease at the time the recovered coal is used, sold, or otherwise finally disposed of. The royalty rate shall be that rate applicable to the production method used to initially mine coal in the waste pile or slurry pond; *i.e.,* underground mining method or surface mining method. Coal in waste pits or slurry ponds initially mined from Federal leases shall be allocated to such leases regardless of whether it is stored on Federal lands. The lessee shall maintain accurate records to determine to which individual Federal lease coal in the waste pit or slurry pond should be allocated. However, nothing in this section requires payment of a royalty on coal for which a royalty has already been paid.
