@@ -28,7 +28,7 @@ For purposes of this subpart, the following definitions apply:
 
 (j) *Nonbank financial company supervised by the Board* means a nonbank financial company that the Financial Stability Oversight Council has determined under section 113 of the Dodd-Frank Act (12 U.S.C. 5323) shall be supervised by the Board and for which such determination is still in effect.
 
-(k) *Planning horizon* means the period of at least nine consecutive quarters, beginning on the first day of a stress test cycle (on October 1 or April 1, as appropriate) over which the relevant projections extend.
+(k) *Planning horizon* means the period of at least nine consecutive quarters, beginning on the first day of a stress test cycle over which the relevant projections extend.
 
 (l) *Pre-provision net revenue* means the sum of net interest income and non-interest income less expenses before adjusting for loss provisions.
 
@@ -42,12 +42,8 @@ For purposes of this subpart, the following definitions apply:
 
 (q) *Stress test* means a process to assess the potential impact of scenarios on the consolidated earnings, losses, and capital of a covered company over the planning horizon, taking into account its current condition, risks, exposures, strategies, and activities.
 
-(r) *Stress test cycle* means:
-
-(1) Until September 30, 2015, the period beginning on October 1 of a calendar year and ending on September 30 of the following calendar year, and
-
-(2) Beginning October 1, 2015, the period beginning on January 1 of a calendar year and ending on December 31 of that year.
+(r) *Stress test cycle* means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
 
 (s) *Subsidiary* has the same meaning as in § 225.2(o) the Board's Regulation Y (12 CFR 225.2).
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9329, Feb. 3, 2017]

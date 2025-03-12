@@ -8,7 +8,7 @@
 
 (2) Except for private education loan disclosures made in compliance with § 226.47, the terms “finance charge” and “annual percentage rate,” when required to be disclosed under § 226.18 (d) and (e) together with a corresponding amount or percentage rate, shall be more conspicuous than any other disclosure, except the creditor's identity under § 226.18(a). For private education loan disclosures made in compliance with § 226.47, the term “annual percentage rate,” and the corresponding percentage rate must be less conspicuous than the term “finance charge” and corresponding amount under § 226.18(d), the interest rate under §§ 226.47(b)(1)(i) and (c)(1), and the notice of the right to cancel under § 226.47(c)(4).
 
-(b) *Time of disclosures.* The creditor shall make disclosures before consummation of the transaction. In certain residential mortgage transactions, special timing requirements are set forth in § 226.19(a). In certain variable-rate transactions, special timing requirements for variable-rate disclosures are set forth in § 226.19(b) and § 226.20(c). For private education loan disclosures made in compliance with § 226.47, special timing requirements are set forth in § 226.46(d). In certain transactions involving mail or telephone orders or a series of sales, the timing of disclosures may be delayed in accordance with paragraphs (g) and (h) of this section.
+(b) *Time of disclosures.* The creditor shall make disclosures before consummation of the transaction. In certain residential mortgage transactions, special timing requirements are set forth in § 226.19(a). In certain variable-rate transactions, special timing requirements for variable-rate disclosures are set forth in §§ 226.19(b) and 226.20(c). For private education loan disclosures made in compliance with § 226.47, special timing requirements are set forth in § 226.46(d). In certain transactions involving mail or telephone orders or a series of sales, the timing of disclosures may be delayed in accordance with paragraphs (g) and (h) of this section.
 
 (c) *Basis of disclosures and use of estimates.* (1) The disclosures shall reflect the terms of the legal obligation between the parties.
 
@@ -52,7 +52,7 @@
 
 (2) All changed terms, if the annual percentage rate at the time of consummation varies from the annual percentage rate disclosed earlier by more than1/8 of 1 percentage point in a regular transaction, or more than1/4 of 1 percentage point in an irregular transaction, as defined in § 226.22(a).
 
-(g) *Mail or telephone orders - delay in disclosures.* Except for private education loan disclosures made in compliance with § 226.47, if a creditor receives a purchase order or a request for an extension of credit by mail, telephone, or facsimile machine without face-to-face or direct telephone solicitation, the creditor may delay the disclosures until the due date of the first payment, if the following information for representative amounts or ranges of credit is made available in written form or in electronic form to the consumer or to the public before the actual purchase order or request:
+(g) *Mail or telephone orders—delay in disclosures.* Except for private education loan disclosures made in compliance with § 226.47, if a creditor receives a purchase order or a request for an extension of credit by mail, telephone, or facsimile machine without face-to-face or direct telephone solicitation, the creditor may delay the disclosures until the due date of the first payment, if the following information for representative amounts or ranges of credit is made available in written form or in electronic form to the consumer or to the public before the actual purchase order or request:
 
 (1) The cash price or the principal loan amount.
 
@@ -70,7 +70,7 @@
 
 (5) The terms of repayment.
 
-(h) *Series of sales - delay in disclosures.* If a credit sale is one of a series made under an agreement providing that subsequent sales may be added to an outstanding balance, the creditor may delay the required disclosures until the due date of the first payment for the current sale, if the following two conditions are met:
+(h) *Series of sales—delay in disclosures.* If a credit sale is one of a series made under an agreement providing that subsequent sales may be added to an outstanding balance, the creditor may delay the required disclosures until the due date of the first payment for the current sale, if the following two conditions are met:
 
 (1) The consumer has approved in writing the annual percentage rate or rates, the range of balances to which they apply, and the method of treating any unearned finance charge on an existing balance.
 

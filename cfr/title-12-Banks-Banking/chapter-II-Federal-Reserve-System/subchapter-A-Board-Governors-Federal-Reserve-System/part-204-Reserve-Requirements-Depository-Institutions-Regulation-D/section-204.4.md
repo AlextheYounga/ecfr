@@ -12,7 +12,7 @@
 
 (f) For all depository institutions, Edge and Agreement corporations, and United States branches and agencies of foreign banks, required reserves are computed by applying the reserve requirement ratios below to net transaction accounts, nonpersonal time deposits, and Eurocurrency liabilities of the institution during the computation period.
 
-|                                          Reservable liability                                          |                   Reserve requirement                   |
+|                                          Reservable liability                                          |                Reserve  <br/>requirement                |
 |--------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 |                                       Net Transaction Accounts:                                        |                                                         |
 |                       $0 to reserve requirement exemption amount ($15.5 million)                       |                  0 percent of amount.                   |

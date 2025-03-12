@@ -1,6 +1,6 @@
 ##### § 226.52 Limitations on fees. #####
 
-(a) *Limitations prior to account opening and during first year after account opening* - (1) *General rule.* Except as provided in paragraph (a)(2) of this section, the total amount of fees a consumer is required to pay with respect to a credit card account under an open-end (not home-secured) consumer credit plan prior to account opening and during the first year after account opening must not exceed 25 percent of the credit limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the consumer to engage in transactions.
+(a) *Limitations prior to account opening and during first year after account opening*—(1) *General rule.* Except as provided in paragraph (a)(2) of this section, the total amount of fees a consumer is required to pay with respect to a credit card account under an open-end (not home-secured) consumer credit plan prior to account opening and during the first year after account opening must not exceed 25 percent of the credit limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the consumer to engage in transactions.
 
 (2) *Fees not subject to limitations.* Paragraph (a) of this section does not apply to:
 
@@ -26,7 +26,7 @@
 
 (D) The amounts in paragraphs (b)(1)(ii)(A) and (b)(1)(ii)(B) of this section will be adjusted annually by the Board to reflect changes in the Consumer Price Index.
 
-(2) *Prohibited fees* - (i) *Fees that exceed dollar amount associated with violation.* (A) *Generally.* A card issuer must not impose a fee for violating the terms or other requirements of a credit card account under an open-end (not home-secured) consumer credit plan that exceeds the dollar amount associated with the violation.
+(2) *Prohibited fees*—(i) *Fees that exceed dollar amount associated with violation*—(A) *Generally.* A card issuer must not impose a fee for violating the terms or other requirements of a credit card account under an open-end (not home-secured) consumer credit plan that exceeds the dollar amount associated with the violation.
 
 (B) *No dollar amount associated with violation.* A card issuer must not impose a fee for violating the terms or other requirements of a credit card account under an open-end (not home-secured) consumer credit plan when there is no dollar amount associated with the violation. For purposes of paragraph (b)(2)(i) of this section, there is no dollar amount associated with the following violations:
 

@@ -14,63 +14,79 @@
 
 (2) *Average total consolidated assets.* For purposes of this section, average total consolidated assets means the average of the total consolidated assets as reported by a bank holding company on its Consolidated Financial Statements for Bank Holding Companies (FR Y-9C) for the four most recent consecutive quarters. If the bank holding company has not filed the FR Y-9C for each of the four most recent consecutive quarters, average total consolidated assets means the average of the company's total consolidated assets, as reported on the company's FR Y-9C, for the most recent quarter or consecutive quarters, as applicable. Average total consolidated assets are measured on the as-of date of the most recent FR Y-9C used in the calculation of the average.
 
-(3) *Ongoing applicability.* A bank holding company (including any successor bank holding company) that is subject to any requirement in this section shall remain subject to any such requirement unless and until its total consolidated assets fall below $50 billion for each of four consecutive quarters, as reported on the FR Y-9C and effective on the as-of date of the fourth consecutive FR Y-9C.
+(3) *Ongoing applicability.* A bank holding company (including any successor bank holding company) that is subject to any requirement in this section shall remain subject to such requirements unless and until its total consolidated assets fall below $50 billion for each of four consecutive quarters, as reported on the FR Y-9C and effective on the as-of date of the fourth consecutive FR Y-9C.
 
 (4) *Reservation of authority.* Nothing in this section shall limit the authority of the Federal Reserve to issue a capital directive or take any other supervisory or enforcement action, including an action to address unsafe or unsound practices or conditions or violations of law.
 
 (5) *Rule of construction.* Unless the context otherwise requires, any reference to bank holding company in this section shall include a U.S. intermediate holding company and shall include a nonbank financial company supervised by the Board to the extent this section is made applicable pursuant to a rule or order of the Board.
 
-(c) *Transitional arrangements* - (1) *Transition periods for certain bank holding companies.* (i) A bank holding company is subject to this section beginning on the first day of the first capital plan cycle that begins after the bank holding company meets or exceeds the $50 billion asset threshold (as measured under paragraph (b) of this section), unless that time is extended by the Board in writing.
+(c) *Transitional arrangements* - (1) *Transition periods for certain bank holding companies.* (i) A bank holding company that meets the $50 billion asset threshold (as measured under paragraph (b) of this section) on or before September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the next calendar year, unless that time is extended by the Board in writing.
 
-(ii) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a bank holding company described in paragraph (c)(1)(i) of this section to comply with any or all of the requirements in paragraphs (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
+(ii) A bank holding company that meets the $50 billion asset threshold after September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the second calendar year after the bank holding company meets the $50 billion asset threshold, unless that time is extended by the Board in writing.
 
-(2) *Transition periods for subsidiaries of certain foreign banking organizations* - (i) *Bank holding companies that rely on SR Letter 01-01.* (A) A bank holding company that meets the $50 billion asset threshold (as measured under paragraph (b) of this section) and is relying as of July 20, 2015, on Supervision and Regulation Letter SR 01-01 issued by the Board (as in effect on May 19, 2010) is subject to this section beginning on January 1, 2016, unless that time is extended by the Board in writing.
+(iii) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a bank holding company described in paragraph (c)(1)(i) or (ii) of this section to comply with any or all of the requirements in paragraphs (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
 
-(B) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a bank holding company described in paragraph (c)(2)(i)(A) of this section to comply with any or all of the requirements in paragraphs (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
+(2) *Transition periods for subsidiaries of certain foreign banking organizations* - (i) *U.S. intermediate holding companies.* (A) A U.S. intermediate holding company required to be established or designated pursuant to 12 CFR 252.153 on or before September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the next calendar year, unless that time is extended by the Board in writing.
 
-(ii) *U.S. intermediate holding companies.* (A) A U.S. intermediate holding company is subject to this section beginning on the first day of the first capital plan cycle after the date that the U.S. intermediate holding company is required to be established pursuant to 12 CFR 252.153, unless that time is extended by the Board in writing.
+(B) A U.S. intermediate holding company required to be established or designated pursuant to 12 CFR 252.153 after September 30 of a calendar year must comply with the requirements of this section beginning on January 1 of the second calendar year after the U.S. intermediate holding company is required to be established, unless that time is extended by the Board in writing.
 
-(B) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a U.S. intermediate holding company described in paragraph (c)(2)(ii)(A) of this section to comply with any or all of the requirements in paragraphs (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
+(C) The Board or the appropriate Reserve Bank with the concurrence of the Board, may require a U.S. intermediate holding company described in paragraph (c)(2)(i)(A) or (B) of this section to comply with any or all of the requirements in paragraphs (e)(1), (e)(3), (f), or (g) of this section if the Board or appropriate Reserve Bank with concurrence of the Board, determines that the requirement is appropriate on a different date based on the company's risk profile, scope of operation, or financial condition and provides prior notice to the company of the determination.
 
-(iii) *Bank holding company subsidiaries of U.S. intermediate holding companies required to be established by July 1, 2016.* (A) Notwithstanding any other requirement in this section, a bank holding company that is a subsidiary of a U.S. intermediate holding company (or, with the mutual consent of the company and Board, another bank holding company domiciled in the United States) shall remain subject to paragraph (e) of this section until December 31, 2017 and shall remain subject to the requirements of paragraphs (f) and (g) of this section until the Board issues an objection or non-objection to the capital plan of the relevant U.S. intermediate holding company.
+(ii) *Bank holding company subsidiaries of U.S. intermediate holding companies required to be established by July 1, 2016.* (A) Notwithstanding any other requirement in this section, a bank holding company that is a subsidiary of a U.S. intermediate holding company (or, with the mutual consent of the company and Board, another bank holding company domiciled in the United States) shall remain subject to paragraph (e) of this section until December 31, 2017, and shall remain subject to the requirements of paragraphs (f) and (g) of this section until the Board issues an objection or non-objection to the capital plan of the relevant U.S. intermediate holding company.
 
-(B) After the time periods set forth in paragraph (c)(iii)(A) of this section, this section will cease to apply to a bank holding company that is a subsidiary of a U.S. intermediate holding company, unless otherwise determined by the Board in writing.
-
-(3) *Transition periods for bank holding companies subject to the supplementary leverage ratio.* Notwithstanding paragraph (d)(8) of this section, only for purposes of the capital plan cycle beginning on January 1, 2016, a bank holding company shall not include an estimate of its supplementary leverage ratio.
+(B) After the time periods set forth in paragraph (c)(2)(ii)(A) of this section, this section will cease to apply to a bank holding company that is a subsidiary of a U.S. intermediate holding company, unless otherwise determined by the Board in writing.
 
 (d) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Advanced approaches* means the risk-weighted assets calculation methodologies at 12 CFR part 217, subpart E, as applicable, and any successor regulation.
 
-(2) *BHC stress scenario* means a scenario designed by a bank holding company that stresses the specific vulnerabilities of the bank holding company's risk profile and operations, including those related to the company's capital adequacy and financial condition.
+(2) *Average total nonbank assets* means:
 
-(3) *Capital action* means any issuance or redemption of a debt or equity capital instrument, any capital distribution, and any similar action that the Federal Reserve determines could impact a bank holding company's consolidated capital.
+(i) For purposes of the capital plan cycle beginning January 1, 2017:
 
-(4) *Capital distribution* means a redemption or repurchase of any debt or equity capital instrument, a payment of common or preferred stock dividends, a payment that may be temporarily or permanently suspended by the issuer on any instrument that is eligible for inclusion in the numerator of any minimum regulatory capital ratio, and any similar transaction that the Federal Reserve determines to be in substance a distribution of capital.
+(A) Total combined nonbank assets of nonbank subsidiaries, as reported on line 15a of Schedule PC-B of the Parent Company Only Financial Statements for Large Holding Companies (FR Y-9LP) as of December 31, 2016; plus
 
-(5) *Capital plan* means a written presentation of a bank holding company's capital planning strategies and capital adequacy process that includes the mandatory elements set forth in paragraph (e)(2) of this section.
+(B) The total amount of equity investments in nonbank subsidiaries and associated companies as reported on line 2a of Schedule PC-A of the FR Y-9LP as of December 31, 2016 (except that any investments reflected in paragraph (d)(2)(i)(A) of this section may be eliminated); plus
 
-(6) *Capital plan cycle* means:
+(C) Assets of each Edge and Agreement Corporation, as reported on the Consolidated Report of Condition and Income for Edge and Agreement Corporations (FR 2886b) as of December 31, 2016, to the extent such corporation is designated as “Nonbanking” in the box on the front page of the FR 2886b; minus
 
-(i) Until September 30, 2015, the period beginning on October 1 of a calendar year and ending on September 30 of the following calendar year, and
+(D) Assets of each federal savings association, federal savings bank, or thrift subsidiary, as reported on the Report of Condition and Income (Call Report) as of December 31, 2016.
 
-(ii) Beginning October 1, 2015, the period beginning on January 1 of a calendar year and ending on December 31 of that year.
+(ii) For purposes of any capital plan cycles beginning on or after January 1, 2018, the average of the total nonbank assets of a holding company subject to the Federal Reserve Board's capital plan rule, calculated in accordance with the instructions to the FR Y-9LP, for the four most recent consecutive quarters or, if the bank holding company has not filed the FR Y-9LP for each of the four most recent consecutive quarters, for the most recent quarter or consecutive quarters, as applicable.
 
-(7) *Capital policy* means a bank holding company's written assessment of the principles and guidelines used for capital planning, capital issuance, capital usage and distributions, including internal capital goals; the quantitative or qualitative guidelines for capital distributions; the strategies for addressing potential capital shortfalls; and the internal governance procedures around capital policy principles and guidelines.
+(3) *BHC stress scenario* means a scenario designed by a bank holding company that stresses the specific vulnerabilities of the bank holding company's risk profile and operations, including those related to the company's capital adequacy and financial condition.
 
-(8) *Minimum regulatory capital ratio* means any minimum regulatory capital ratio that the Federal Reserve may require of a bank holding company, by regulation or order, including the bank holding company's tier 1 and supplementary leverage ratios as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12, as applicable, and the bank holding company's common equity tier 1, tier 1, and total risk-based capital ratios as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12 and the transition provisions at 12 CFR 217.1(f)(4) and 217.300; except that the bank holding company shall not use the advanced approaches to calculate its regulatory capital ratios.
+(4) *Capital action* means any issuance or redemption of a debt or equity capital instrument, any capital distribution, and any similar action that the Federal Reserve determines could impact a bank holding company's consolidated capital.
 
-(9) *Nonbank financial company supervised by the Board* means a company that the Financial Stability Oversight Council has determined under section 113 of the Dodd-Frank Act (12 U.S.C. 5323) shall be supervised by the Board and for which such determination is still in effect.
+(5) *Capital distribution* means a redemption or repurchase of any debt or equity capital instrument, a payment of common or preferred stock dividends, a payment that may be temporarily or permanently suspended by the issuer on any instrument that is eligible for inclusion in the numerator of any minimum regulatory capital ratio, and any similar transaction that the Federal Reserve determines to be in substance a distribution of capital.
 
-(10) *Planning horizon* means the period of at least nine consecutive quarters, beginning with the quarter preceding the quarter in which the bank holding company submits its capital plan, over which the relevant projections extend.
+(6) *Capital plan* means a written presentation of a bank holding company's capital planning strategies and capital adequacy process that includes the mandatory elements set forth in paragraph (e)(2) of this section.
 
-(11) *Tier 1 capital* has the same meaning as under 12 CFR part 217.
+(7) *Capital plan cycle* means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
 
-(12) *U.S. intermediate holding company* means the top-tier U.S. company that is required to be established pursuant to 12 CFR 252.153.
+(8) *Capital policy* means a bank holding company's written assessment of the principles and guidelines used for capital planning, capital issuance, capital usage and distributions, including internal capital goals; the quantitative or qualitative guidelines for capital distributions; the strategies for addressing potential capital shortfalls; and the internal governance procedures around capital policy principles and guidelines.
+
+(9) *Large and noncomplex bank holding company* means any bank holding company subject to this section that, as of December 31 of the calendar year prior to the capital plan cycle:
+
+(i) Has average total consolidated assets of less than $250 billion;
+
+(ii) Has average total nonbank assets of less than $75 billion; and
+
+(iii) Is not a bank holding company that is identified as a global systemically important BHC pursuant to § 217.402.
+
+(10) *Minimum regulatory capital ratio* means any minimum regulatory capital ratio that the Federal Reserve may require of a bank holding company, by regulation or order, including the bank holding company's tier 1 and supplementary leverage ratios as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12, as applicable, and the bank holding company's common equity tier 1, tier 1, and total risk-based capital ratios as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12 and the transition provisions at 12 CFR 217.1(f)(4) and 217.300; except that the bank holding company shall not use the advanced approaches to calculate its regulatory capital ratios.
+
+(11) *Nonbank financial company supervised by the Board* means a company that the Financial Stability Oversight Council has determined under section 113 of the Dodd-Frank Act (12 U.S.C. 5323) shall be supervised by the Board and for which such determination is still in effect.
+
+(12) *Planning horizon* means the period of at least nine consecutive quarters, beginning with the quarter preceding the quarter in which the bank holding company submits its capital plan, over which the relevant projections extend.
+
+(13) *Tier 1 capital* has the same meaning as under 12 CFR part 217.
+
+(14) *U.S. intermediate holding company* means the top-tier U.S. company that is required to be established pursuant to 12 CFR 252.153.
 
 (e) *General requirements* - (1) *Annual capital planning.* (i) A bank holding company must develop and maintain a capital plan.
 
-(ii) A bank holding company must submit its complete capital plan to the Board and the appropriate Reserve Bank each year. For the capital plan cycle beginning on October 1, 2014, the capital plan must be submitted by January 5, 2015, or such later date as directed by the Board or by the appropriate Reserve Bank with concurrence of the Board. For each capital plan cycle beginning thereafter, the capital plan must be submitted by April 5, or such later date as directed by the Board or by the appropriate Reserve Bank with concurrence of the Board.
+(ii) A bank holding company must submit its complete capital plan to the Board and the appropriate Reserve Bank by April 5 of each calendar year, or such later date as directed by the Board or by the appropriate Reserve Bank with concurrence of the Board.
 
 (iii) The bank holding company's board of directors or a designated committee thereof must at least annually and prior to submission of the capital plan under paragraph (e)(1)(ii) of this section:
 
@@ -86,11 +102,9 @@
 
 (A) Estimates of projected revenues, losses, reserves, and pro forma capital levels, including any minimum regulatory capital ratios (for example, leverage, tier 1 risk-based, and total risk-based capital ratios) and any additional capital measures deemed relevant by the bank holding company, over the planning horizon under expected conditions and under a range of scenarios, including any scenarios provided by the Federal Reserve and at least one BHC stress scenario;
 
-(B) [Reserved]
+(B) A discussion of the results of any stress test required by law or regulation, and an explanation of how the capital plan takes these results into account; and
 
-(C) A discussion of the results of any stress test required by law or regulation, and an explanation of how the capital plan takes these results into account; and
-
-(D) A description of all planned capital actions over the planning horizon.
+(C) A description of all planned capital actions over the planning horizon.
 
 (ii) A detailed description of the bank holding company's process for assessing capital adequacy, including:
 
@@ -158,29 +172,29 @@
 
 (D) Other information requested or required by the Board or the appropriate Reserve Bank, as well as any other information relevant, or related, to the bank holding company's capital adequacy.
 
-(2) *Federal Reserve action on a capital plan.* (i) The Board or the appropriate Reserve Bank with concurrence of the Board, will object, in whole or in part, to the capital plan or provide the bank holding company with a notice of non-objection to the capital plan:
+(2) *Federal Reserve action on a capital plan* - (i) *Timing of action.* The Board or the appropriate Reserve Bank with concurrence of the Board, will object, in whole or in part, to the capital plan or provide the bank holding company with a notice of non-objection to the capital plan:
 
-(A) For the capital plan cycle beginning on October 1, 2014, by March 31, 2015;
+(A) By June 30 of the calendar year in which a capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section; and
 
-(B) For each capital plan cycle beginning thereafter, by June 30 of the calendar year in which a capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section; and
+(B) For a capital plan resubmitted pursuant to paragraph (e)(4) of this section, within 75 calendar days after the date on which a capital plan is resubmitted, unless the Board provides notice to the company that it is extending the time period.
 
-(C) For a capital plan resubmitted pursuant to paragraph (e)(4) of this section, within 75 calendar days after the date on which a capital plan is resubmitted, unless the Board provides notice to the company that it is extending the time period.
+(ii) *Objection* - (A) *Large and noncomplex bank holding companies.* The Board, or the appropriate Reserve Bank with concurrence of the Board, may object to a capital plan submitted by a large and noncomplex bank holding company if it determines that the bank holding company has not demonstrated an ability to maintain capital above each minimum regulatory capital ratio on a pro forma basis under expected and stressful conditions throughout the planning horizon.
 
-(ii) The Board or the appropriate Reserve Bank with concurrence of the Board, may object to a capital plan if it determines that:
+(B) *Bank holding companies that are not large and noncomplex bank holding companies.* The Board or the appropriate Reserve Bank with concurrence of the Board, may object to a capital plan submitted by a bank holding company that is not a large and noncomplex bank holding company if it determines that:
 
-(A) The bank holding company has material unresolved supervisory issues, including but not limited to issues associated with its capital adequacy process;
+(*1*) The bank holding company has not demonstrated an ability to maintain capital above each minimum regulatory capital ratio on a pro forma basis under expected and stressful conditions throughout the planning horizon;
 
-(B) The assumptions and analysis underlying the bank holding company's capital plan, or the bank holding company's methodologies for reviewing the robustness of its capital adequacy process, are not reasonable or appropriate;
+(*2*) The bank holding company has material unresolved supervisory issues, including but not limited to issues associated with its capital adequacy process;
 
-(C) The bank holding company has not demonstrated an ability to maintain capital above each minimum regulatory capital ratio on a pro forma basis under expected and stressful conditions throughout the planning horizon; or
+(*3*) The assumptions and analysis underlying the bank holding company's capital plan, or the bank holding company's methodologies and practices that support its capital planning process, are not reasonable or appropriate; or
 
-(D) The bank holding company's capital planning process or proposed capital distributions otherwise constitute an unsafe or unsound practice, or would violate any law, regulation, Board order, directive, or condition imposed by, or written agreement with, the Board or the appropriate Reserve Bank. In determining whether a capital plan or any proposed capital distribution would constitute an unsafe or unsound practice, the Board or the appropriate Reserve Bank would consider whether the bank holding company is and would remain in sound financial condition after giving effect to the capital plan and all proposed capital distributions.
+(*4*) The bank holding company's capital planning process or proposed capital distributions otherwise constitute an unsafe or unsound practice, or would violate any law, regulation, Board order, directive, or condition imposed by, or written agreement with, the Board or the appropriate Reserve Bank. In determining whether a capital plan or any proposed capital distribution would constitute an unsafe or unsound practice, the Board or the appropriate Reserve Bank would consider whether the bank holding company is and would remain in sound financial condition after giving effect to the capital plan and all proposed capital distributions.
 
-(iii) The Board or the appropriate Reserve Bank will notify the bank holding company in writing of the reasons for a decision to object to a capital plan.
+(iii) *Notification of decision.* The Board or the appropriate Reserve Bank will notify the bank holding company in writing of the reasons for a decision to object to a capital plan.
 
-(iv) If the Board or the appropriate Reserve Bank objects to a capital plan and until such time as the Board or the appropriate Reserve Bank with concurrence of the Board, issues a non-objection to the bank holding company's capital plan, the bank holding company may not make any capital distribution, other than capital distributions arising from the issuance of a regulatory capital instrument eligible for inclusion in the numerator of a minimum regulatory capital ratio or capital distributions with respect to which the Board or the appropriate Reserve Bank has indicated in writing its non-objection.
+(iv) *General distribution limitation.* If the Board or the appropriate Reserve Bank objects to a capital plan and until such time as the Board or the appropriate Reserve Bank with concurrence of the Board, issues a non-objection to the bank holding company's capital plan, the bank holding company may not make any capital distribution, other than capital distributions arising from the issuance of a regulatory capital instrument eligible for inclusion in the numerator of a minimum regulatory capital ratio or capital distributions with respect to which the Board or the appropriate Reserve Bank has indicated in writing its non-objection.
 
-(v) The Board may disclose publicly its decision to object or not object to a bank holding company's capital plan under this section, along with a summary of the Board's analyses of that company. Any disclosure under this paragraph will occur by March 31 (for the capital plan cycle beginning on October 1, 2014) or June 30 (for each capital plan cycle beginning thereafter), unless the Board determines that a later disclosure date is appropriate.
+(v) *Publication of summary results.* The Board may disclose publicly its decision to object or not object to a bank holding company's capital plan under this section, along with a summary of the Board's analyses of that company. Any disclosure under this paragraph will occur by June 30 of the calendar year in which a capital plan was submitted pursuant to paragraph (e)(1)(ii) of this section, unless the Board determines that a later disclosure date is appropriate.
 
 (3) *Request for reconsideration or hearing* - (i) *General.* Within 15 calendar days of receipt of a notice of objection to a capital plan by the Board or the appropriate Reserve Bank:
 
@@ -210,17 +224,19 @@
 
 (2) *Exception for well capitalized bank holding companies.* (i) A bank holding company may make a capital distribution for which the dollar amount exceeds the amount described in the capital plan for which a non-objection was issued under paragraph (f)(2)(i) of this section if the following conditions are satisfied:
 
-(A) The bank holding company is, and after the capital distribution would remain, well capitalized as defined in § 225.2(r) of Regulation Y (12 CFR 225.2(r));
+(A) The bank holding company is, and after the capital distribution would remain, well capitalized as defined in § 225.2(r);
 
 (B) The bank holding company's performance and capital levels are, and after the capital distribution would remain, consistent with its projections under expected conditions as set forth in its capital plan under paragraph (f)(2)(i) of this section;
 
-(C) The annual aggregate dollar amount of all capital distributions (for purposes of the capital plan cycle beginning on October 1, 2014, in the period beginning on April 1, 2015 and ending on March 31, 2016, and for purposes of each capital plan cycle beginning thereafter, in the period beginning on July 1 of a calendar year and ending on June 30 of the following calendar year) would not exceed the total amounts described in the company's capital plan for which the bank holding company received a notice of non-objection by more than 1.00 percent multiplied by the bank holding company's tier 1 capital, as reported to the Federal Reserve on the bank holding company's first quarter FR Y-9C;
+(C) Until March 31, 2017, the annual aggregate dollar amount of all capital distributions in the period beginning on July 1 of a calendar year and ending on June 30 of the following calendar year would not exceed the total amounts described in the company's capital plan for which the bank holding company received a notice of non-objection by more than 1.00 percent multiplied by the bank holding company's tier 1 capital, as reported to the Federal Reserve on the bank holding company's most recent first-quarter FR Y-9C;
 
-(D) The bank holding company provides the appropriate Reserve Bank with notice 15 calendar days prior to a capital distribution that includes the elements described in paragraph (g)(4) of this section; and
+(D) Beginning April 1, 2017, the annual aggregate dollar amount of all capital distributions in the period beginning on July 1 of a calendar year and ending on June 30 of the following calendar year would not exceed the total amounts described in the company's capital plan for which the bank holding company received a notice of non-objection by more than 0.25 percent multiplied by the bank holding company's tier 1 capital, as reported to the Federal Reserve on the bank holding company's most recent first-quarter FR Y-9C;
 
-(E) The Board or the appropriate Reserve Bank with concurrence of the Board, does not object to the transaction proposed in the notice. In determining whether to object to the proposed transaction, the Board or the appropriate Reserve Bank shall apply the criteria described in paragraph (g)(5)(ii) of this section.
+(E) Between July 1 of a calendar year and March 15 of the following calendar year, the bank holding company provides the appropriate Reserve Bank with notice 15 calendar days prior to a capital distribution that includes the elements described in paragraph (g)(4) of this section; and
 
-(ii) The exception in this paragraph (g)(2) shall not apply if the Board or the appropriate Reserve Bank notifies the bank holding company in writing that it may not take advantage of this exception.
+(F) The Board or the appropriate Reserve Bank with concurrence of the Board, does not object to the transaction proposed in the notice. In determining whether to object to the proposed transaction, the Board or the appropriate Reserve Bank shall apply the criteria described in paragraph (g)(5)(ii) of this section.
+
+(ii) The exception in this paragraph (g)(2) shall not apply if the Board or the appropriate Reserve Bank notifies the bank holding company in writing that it is ineligible for this exception.
 
 (3) *Net distribution limitation* - (i) *General.* Notwithstanding a notice of non-objection under paragraph (f)(2)(i) of this section, a bank holding company must reduce its capital distributions in accordance with paragraph (g)(3)(ii) of this section if the bank holding company raises a smaller dollar amount of capital of a given category of regulatory capital instruments than it had included in its capital plan, as measured on an aggregate basis beginning in the third quarter of the planning horizon through the end of the current quarter.
 
@@ -238,11 +254,15 @@
 
 (C) To the extent that the bank holding company raised a smaller dollar amount of capital in the category of regulatory capital instruments described in paragraph (g)(3)(i) of this section due to employee-directed capital issuances related to an employee stock ownership plan;
 
-(D) To the extent that the bank holding company raised a smaller dollar amount of capital in the category of regulatory capital instruments described in paragraph (g)(3)(i) of this section due to a planned merger or acquisition that is no longer expected to be consummated or for which the consideration paid is lower than the projected price in the capital plan; or
+(D) To the extent that the bank holding company raised a smaller dollar amount of capital in the category of regulatory capital instruments described in paragraph (g)(3)(i) of this section due to a planned merger or acquisition that is no longer expected to be consummated or for which the consideration paid is lower than the projected price in the capital plan;
 
-(E) To the extent that the dollar amount by which the bank holding company's net distributions exceed the dollar amount of net distributions included in its capital plan in the category of regulatory capital instruments described in paragraph (g)(3)(i) of this section, as measured on an aggregate basis beginning in the third quarter of the planning horizon through the end of the current quarter, is less than 1.00 percent of the bank holding company's tier 1 capital, as reported to the Federal Reserve on the bank holding company's first quarter FR Y-9C, and the bank holding company notifies the appropriate Reserve Bank at least 15 calendar days in advance of any capital distribution in that category of regulatory capital instruments.
+(E) Until March 31, 2017, to the extent that the dollar amount by which the bank holding company's net distributions exceed the dollar amount of net distributions included in its capital plan in the category of regulatory capital instruments described in paragraph (g)(3)(i) of this section, as measured on an aggregate basis beginning in the third quarter of the planning horizon through the end of the current quarter, is less than 1.00 percent of the bank holding company's tier 1 capital, as reported to the Federal Reserve on the bank holding company's most recent first-quarter FR Y-9C; between July 1 of a calendar year and March 15 of the following calendar year, the bank holding company provides the appropriate Reserve Bank with notice 15 calendar days prior to any capital distribution in that category of regulatory capital instruments that includes the elements described in paragraph (g)(4) of this section; and the Board or the appropriate Reserve Bank with concurrence of the Board, does not object to the transaction proposed in the notice. In determining whether to object to the proposed transaction, the Board or the appropriate Reserve Bank shall apply the criteria described in paragraph (g)(5)(ii) of this section; or
 
-(4) *Contents of request.* (i) A request for a capital distribution under this section shall be filed with the appropriate Reserve Bank and the Board and shall contain the following information:
+(F) Beginning April 1, 2017, to the extent that the dollar amount by which the bank holding company's net distributions exceed the dollar amount of net distributions included in its capital plan in the category of regulatory capital instruments described in paragraph (g)(3)(i) of this section, as measured on an aggregate basis beginning in the third quarter of the planning horizon through the end of the current quarter, is less than 0.25 percent of the bank holding company's tier 1 capital, as reported to the Federal Reserve on the bank holding company's most recent first-quarter FR Y-9C; between July 1 of a calendar year and March 15 of the following calendar year, the bank holding company provides the appropriate Reserve Bank with notice 15 calendar days prior to any capital distribution in that category of regulatory capital instruments that includes the elements described in paragraph (g)(4) of this section; and the Board or the appropriate Reserve Bank with concurrence of the Board, does not object to the transaction proposed in the notice. In determining whether to object to the proposed transaction, the Board or the appropriate Reserve Bank shall apply the criteria described in paragraph (g)(5)(ii) of this section.
+
+(iv) The exceptions in paragraph (g)(3)(iii) of this section shall not apply if the Board or the appropriate Reserve Bank notifies the bank holding company in writing that it is ineligible for this exception.
+
+(4) *Contents of request.* (i) A request for a capital distribution under this section shall be filed between July 1 of a calendar year and March 1 of the following calendar year with the appropriate Reserve Bank and the Board and shall contain the following information:
 
 (A) The bank holding company's current capital plan or an attestation that there have been no changes to the capital plan since it was last submitted to the Federal Reserve;
 
@@ -268,6 +288,4 @@
 
 (D) While the Board's final decision is pending and until such time as the Board or the appropriate Reserve Bank with concurrence of the Board, approves the capital distribution at issue, the bank holding company may not make such capital distribution.
 
-(ii) [Reserved]
-
-[79 FR 64040, Oct. 27, 2014, as amended at 80 FR 75424, Dec. 2, 2015]
+[82 FR 9323, Feb. 3, 2017]

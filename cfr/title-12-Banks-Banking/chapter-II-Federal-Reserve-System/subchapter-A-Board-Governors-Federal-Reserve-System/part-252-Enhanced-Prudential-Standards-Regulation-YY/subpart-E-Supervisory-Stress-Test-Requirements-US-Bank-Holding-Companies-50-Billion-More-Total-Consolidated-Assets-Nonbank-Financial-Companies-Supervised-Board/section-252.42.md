@@ -38,12 +38,8 @@ For purposes of this subpart F, the following definitions apply:
 
 (o) *Severely adverse scenario* means a set of conditions that affect the U.S. economy or the financial condition of a covered company and that overall are more severe than those associated with the adverse scenario and may include trading or other additional components.
 
-(p) *Stress test cycle* means:
-
-(1) Until September 30, 2015, the period beginning on October 1 of a calendar year and ending on September 30 of the following calendar year, and
-
-(2) Beginning October 1, 2015, the period beginning on January 1 of a calendar year and ending on December 31 of that year.
+(p) *Stress test cycle* means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
 
 (q) *Subsidiary* has the same meaning as in § 225.2(o) the Board's Regulation Y (12 CFR 225.2).
 
-[Reg. YY, 79 FR 64049, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015]
+[Reg. YY, 79 FR 64049, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015; 82 FR 9329, Feb. 3, 2017]

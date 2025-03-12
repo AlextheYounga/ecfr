@@ -24,7 +24,7 @@
 
 (v) The date the rescission period expires.
 
-(2) *Proper form of notice.* To satisfy the disclosure requirements of paragraph (b)(1) of this section, the creditor shall provide the appropriate model form in Appendix H of this part or a substantially similar notice.
+(2) *Proper form of notice.* To satisfy the disclosure requirements of paragraph (b)(1) of this section, the creditor shall provide the appropriate model form in appendix H of this part or a substantially similar notice.
 
 (c) *Delay of creditor's performance.* Unless a consumer waives the right of rescission under paragraph (e) of this section, no money shall be disbursed other than in escrow, no services shall be performed and no materials delivered until the rescission period has expired and the creditor is reasonably satisfied that the consumer has not rescinded.
 
@@ -62,7 +62,7 @@
 
 (5) A renewal of optional insurance premiums that is not considered a refinancing under § 226.20(a)(5).
 
-(g) *Tolerances for accuracy* - (1) *One-half of 1 percent tolerance.* Except as provided in paragraphs (g)(2) and (h)(2) of this section, the finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:
+(g) *Tolerances for accuracy*—(1) *One-half of 1 percent tolerance.* Except as provided in paragraphs (g)(2) and (h)(2) of this section, the finance charge and other disclosures affected by the finance charge (such as the amount financed and the annual percentage rate) shall be considered accurate for purposes of this section if the disclosed finance charge:
 
 (i) is understated by no more than1/2 of 1 percent of the face amount of the note or $100, whichever is greater; or
 
@@ -74,7 +74,7 @@
 
 (ii) is greater than the amount required to be disclosed.
 
-(h) *Special rules for foreclosures* - (1) *Right to rescind.* After the initiation of foreclosure on the consumer's principal dwelling that secures the credit obligation, the consumer shall have the right to rescind the transaction if:
+(h) *Special rules for foreclosures*—(1) *Right to rescind.* After the initiation of foreclosure on the consumer's principal dwelling that secures the credit obligation, the consumer shall have the right to rescind the transaction if:
 
 (i) A mortgage broker fee that should have been included in the finance charge was not included; or
 

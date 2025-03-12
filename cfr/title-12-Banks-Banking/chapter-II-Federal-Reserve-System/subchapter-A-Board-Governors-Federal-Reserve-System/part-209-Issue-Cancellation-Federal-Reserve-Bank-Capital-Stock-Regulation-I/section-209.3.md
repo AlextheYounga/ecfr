@@ -1,5 +1,7 @@
 ##### § 209.3 Cancellation of Reserve Bank stock; reporting of total consolidated assets following merger. #####
 
+Link to an amendment published at 82 FR 11502, Feb. 24, 2017.
+
 (a) *Application for cancellation.* Any bank that desires to withdraw from membership in the Federal Reserve System, voluntarily liquidates or ceases business, is merged or consolidated into a nonmember bank, or is involuntarily liquidated by a receiver or conservator or otherwise, shall promptly file with its Reserve Bank an application for cancellation of all its Reserve Bank stock (or withdrawal of its deposit, as the case may be) and payment therefor in accordance with § 209.4.
 
 (b) *Involuntary termination of membership.* If an application is not filed promptly after a cessation of business by a state member bank, a vote to place a member bank in voluntary liquidation, or the appointment of a receiver for (or a determination to liquidate the bank by a conservator of) a member bank, the Board may, after notice and an opportunity for hearing where required under Section 9(9) of the Federal Reserve Act (12 U.S.C. 327), order the membership of the bank terminated and all of its Reserve Bank stock canceled.

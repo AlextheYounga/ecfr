@@ -26,4 +26,4 @@ As used in this Subpart B:
 
 *Voting State* means the District of Columbia, Puerto Rico, or the State of the United States in which a member's principal place of business, as determined in accordance with 12 CFR part 1263, or any successor provision, is located as of the record date. The voting State of a member with a principal place of business located in the U.S. Virgin Islands as of the record date is Puerto Rico, and the voting State of a member with a principal place of business located in American Samoa, Guam, or the Commonwealth of the Northern Mariana Islands as of the record date is Hawaii.
 
-[73 FR 55715, Sept. 26, 2008, as amended at 74 FR 51460, Oct. 7, 2009. Redesignated and amended at 75 FR 17039, 17040, Apr. 5, 2010; 81 FR 76295, Nov. 2, 2016]
+[73 FR 55715, Sept. 26, 2008, as amended at 74 FR 51460, Oct. 7, 2009. Redesignated and amended at 75 FR 17039, 17040, Apr. 5, 2010; 81 FR 76296, Nov. 2, 2016]

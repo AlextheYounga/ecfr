@@ -76,7 +76,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (i) *Demand feature.* If the obligation has a demand feature, that fact shall be disclosed. When the disclosures are based on an assumed maturity of 1 year as provided in § 226.17(c)(5), that fact shall also be disclosed.
 
-(j) *Total sale price.* In a credit sale, the *total sale price,* using that term, and a descriptive explanation (including the amount of any downpayment) such as “the total price of your purchase on credit, including your downpayment of $\_\_.” The total sale price is the sum of the cash price, the items described in paragraph (b)(2), and the finance charge disclosed under paragraph (d) of this section.
+(j) *Total sale price.* In a credit sale, the *total sale price,* using that term, and a descriptive explanation (including the amount of any downpayment) such as “the total price of your purchase on credit, including your downpayment of $\_\_\_\_.” The total sale price is the sum of the cash price, the items described in paragraph (b)(2), and the finance charge disclosed under paragraph (d) of this section.
 
 (k) *Prepayment.* (1) When an obligation includes a finance charge computed from time to time by application of a rate to the unpaid principal balance, a statement indicating whether or not a penalty may be imposed if the obligation is prepaid in full.
 
@@ -100,11 +100,11 @@ For each transaction, the creditor shall disclose the following information as a
 
 (s) *Interest rate and payment summary for mortgage transactions.* For a closed-end transaction secured by real property or a dwelling, other than a transaction secured by a consumer's interest in a timeshare plan described in 11 U.S.C. 101(53D), the creditor shall disclose the following information about the interest rate and payments:
 
-(1) *Form of disclosures.* The information in paragraphs (s)(2)-(4) of this section shall be in the form of a table, with no more than five columns, with headings and format substantially similar to Model Clause H-4(E), H-4(F), H-4(G), or H-4(H) in Appendix H to this part. The table shall contain only the information required in paragraphs (s)(2)-(4) of this section, shall be placed in a prominent location, and shall be in a minimum 10-point font.
+(1) *Form of disclosures.* The information in paragraphs (s)(2)-(4) of this section shall be in the form of a table, with no more than five columns, with headings and format substantially similar to Model Clause H-4(E), H-4(F), H-4(G), or H-4(H) in appendix H to this part. The table shall contain only the information required in paragraphs (s)(2)-(4) of this section, shall be placed in a prominent location, and shall be in a minimum 10-point font.
 
-(2) *Interest rates* - (i) *Amortizing loans.* (A) For a fixed-rate mortgage, the interest rate at consummation.
+(2) *Interest rates*—(i) *Amortizing loans.* (A) For a fixed-rate mortgage, the interest rate at consummation.
 
-(B) For an adjustable-rate or step-rate mortgage -
+(B) For an adjustable-rate or step-rate mortgage—
 
 (*1*) The interest rate at consummation and the period of time until the first interest rate adjustment may occur, labeled as the “introductory rate and monthly payment”;
 
@@ -114,7 +114,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (C) If the loan provides for payment increases as described in paragraph (s)(3)(i)(B) of this section, the interest rate in effect at the time the first such payment increase is scheduled to occur and the date on which the increase will occur, labeled as “first adjustment” if the loan is an adjustable-rate mortgage or, otherwise, labeled as “first increase.”
 
-(ii) *Negative amortization loans.* For a negative amortization loan -
+(ii) *Negative amortization loans.* For a negative amortization loan—
 
 (A) The interest rate at consummation and, if it will adjust after consummation, the length of time until it will adjust, and the label “introductory” or “intro”;
 
@@ -124,7 +124,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (D) If a second increase in the minimum required payment may occur before the consumer must begin making fully amortizing payments, the maximum interest rate that could apply at the time of the second payment increase and the date the increase is scheduled to occur.
 
-(iii) *Introductory rate disclosure for amortizing adjustable-rate mortgages.* For an amortizing adjustable-rate mortgage, if the interest rate at consummation is less than the fully-indexed rate, placed in a box directly beneath the table required by paragraph (s)(1) of this section, in a format substantially similar to Model Clause H-4(I) in Appendix H to this part -
+(iii) *Introductory rate disclosure for amortizing adjustable-rate mortgages.* For an amortizing adjustable-rate mortgage, if the interest rate at consummation is less than the fully-indexed rate, placed in a box directly beneath the table required by paragraph (s)(1) of this section, in a format substantially similar to Model Clause H-4(I) in appendix H to this part—
 
 (A) The interest rate that applies at consummation and the period of time for which it applies;
 
@@ -132,7 +132,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (C) The fully-indexed rate.
 
-(3) *Payments for amortizing loans* - (i) *Principal and interest payments.* If all periodic payments will be applied to accrued interest and principal, for each interest rate disclosed under paragraph (s)(2)(i) of this section -
+(3) *Payments for amortizing loans*—(i) *Principal and interest payments.* If all periodic payments will be applied to accrued interest and principal, for each interest rate disclosed under paragraph (s)(2)(i) of this section—
 
 (A) The corresponding periodic principal and interest payment, labeled as “principal and interest;”
 
@@ -142,7 +142,7 @@ For each transaction, the creditor shall disclose the following information as a
 
 (D) The sum of the amounts disclosed under paragraphs (s)(3)(i)(A) and (C) of this section or (s)(3)(i)(B) and (C) of this section, as applicable, labeled as “total estimated monthly payment.”
 
-(ii) *Interest-only payments.* If the loan is an interest-only loan, for each interest rate disclosed under paragraph (s)(2)(i) of this section, the corresponding periodic payment and -
+(ii) *Interest-only payments.* If the loan is an interest-only loan, for each interest rate disclosed under paragraph (s)(2)(i) of this section, the corresponding periodic payment and—
 
 (A) If the payment will be applied to only accrued interest, the amount applied to interest, labeled as “interest payment,” and a statement that none of the payment is being applied to principal;
 
@@ -164,11 +164,11 @@ For each transaction, the creditor shall disclose the following information as a
 
 (iii) If applicable, in addition to the payments in paragraphs (s)(4)(i) and (ii) of this section, for each interest rate disclosed under paragraph (s)(2)(ii) of this section, the amount of the fully amortizing periodic payment, labeled as the “full payment option,” and a statement that these payments pay all principal and all accrued interest.
 
-(5) *Balloon payments.* (i) Except as provided in paragraph (s)(5)(ii) of this section, if the transaction will require a balloon payment, defined as a payment that is more than two times a regular periodic payment, the balloon payment shall be disclosed separately from other periodic payments disclosed in the table under this paragraph (s), outside the table and in a manner substantially similar to Model Clause H-4(J) in Appendix H to this part.
+(5) *Balloon payments.* (i) Except as provided in paragraph (s)(5)(ii) of this section, if the transaction will require a balloon payment, defined as a payment that is more than two times a regular periodic payment, the balloon payment shall be disclosed separately from other periodic payments disclosed in the table under this paragraph (s), outside the table and in a manner substantially similar to Model Clause H-4(J) in appendix H to this part.
 
 (ii) If the balloon payment is scheduled to occur at the same time as another payment required to be disclosed in the table pursuant to paragraph (s)(3) or (s)(4) of this section, then the balloon payment must be disclosed in the table.
 
-(6) *Special disclosures for loans with negative amortization.* For a negative amortization loan, the following information, in close proximity to the table required in paragraph (s)(1) of this section, with headings, content, and format substantially similar to Model Clause H-4(G) in Appendix H to this part:
+(6) *Special disclosures for loans with negative amortization.* For a negative amortization loan, the following information, in close proximity to the table required in paragraph (s)(1) of this section, with headings, content, and format substantially similar to Model Clause H-4(G) in appendix H to this part:
 
 (i) The maximum interest rate, the shortest period of time in which such interest rate could be reached, the amount of estimated taxes and insurance included in each payment disclosed, and a statement that the loan offers payment options, two of which are shown.
 
@@ -188,8 +188,8 @@ For each transaction, the creditor shall disclose the following information as a
 
 (vi) The term “fully-indexed rate” means the interest rate calculated using the index value and margin at the time of consummation.
 
-(t) “*No-guarantee-to-refinance” statement.* (1) *Disclosure.* For a closed-end transaction secured by real property or a dwelling, other than a transaction secured by a consumer's interest in a timeshare plan described in 11 U.S.C. 101(53D), the creditor shall disclose a statement that there is no guarantee the consumer can refinance the transaction to lower the interest rate or periodic payments.
+(t) “*No-guarantee-to-refinance” statement*—(1) *Disclosure.* For a closed-end transaction secured by real property or a dwelling, other than a transaction secured by a consumer's interest in a timeshare plan described in 11 U.S.C. 101(53D), the creditor shall disclose a statement that there is no guarantee the consumer can refinance the transaction to lower the interest rate or periodic payments.
 
-(2) *Format.* The statement required by paragraph (t)(1) of this section must be in a form substantially similar to Model Clause H-4(K) in Appendix H to this part.
+(2) *Format.* The statement required by paragraph (t)(1) of this section must be in a form substantially similar to Model Clause H-4(K) in appendix H to this part.
 
 [46 FR 20892, Apr. 7, 1981; 46 FR 29246, June 1, 1981, as amended at 52 FR 48670, Dec. 24, 1987; 61 FR 49246, Sept. 19, 1996; 75 FR 58482, Sept. 24, 2010; 75 FR 81841, Dec. 29, 2010]

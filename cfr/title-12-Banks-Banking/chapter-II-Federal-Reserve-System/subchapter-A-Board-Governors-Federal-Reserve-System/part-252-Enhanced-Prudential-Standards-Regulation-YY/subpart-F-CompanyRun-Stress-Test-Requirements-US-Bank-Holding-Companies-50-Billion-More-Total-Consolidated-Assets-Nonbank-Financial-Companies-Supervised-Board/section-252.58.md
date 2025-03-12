@@ -2,7 +2,7 @@
 
 (a) *Public disclosure of results* - (1) *In general.* (i) A covered company must publicly disclose a summary of the results of the stress test required under § 252.54 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 252.46(c) of this part, unless that time is extended by the Board in writing.
 
-(ii) A covered company must publicly disclose a summary of the results of the stress test required under § 252.55. For the stress test cycle beginning on October 1, 2014, this disclosure must occur in the period beginning on July 5 and ending on August 4, unless that time is extended by the Board in writing. For all stress test cycles beginning thereafter, this disclosure must occur in the period beginning on October 5 and ending on November 4, unless that time is extended by the Board in writing.
+(ii) A covered company must publicly disclose a summary of the results of the stress test required under § 252.55. This disclosure must occur in the period beginning on October 5 and ending on November 4 of the calendar year in which the stress test is performed pursuant to § 252.55, unless that time is extended by the Board in writing.
 
 (2) *Disclosure method.* The summary required under this section may be disclosed on the Web site of a covered company, or in any other forum that is reasonably accessible to the public.
 
@@ -40,4 +40,4 @@
 
 (2) The disclosure of pro forma regulatory capital ratios and any other capital ratios specified by the Board that is required under paragraph (b) of this section must include the beginning value, ending value, and minimum value of each ratio over the planning horizon.
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9330, Feb. 3, 2017]
