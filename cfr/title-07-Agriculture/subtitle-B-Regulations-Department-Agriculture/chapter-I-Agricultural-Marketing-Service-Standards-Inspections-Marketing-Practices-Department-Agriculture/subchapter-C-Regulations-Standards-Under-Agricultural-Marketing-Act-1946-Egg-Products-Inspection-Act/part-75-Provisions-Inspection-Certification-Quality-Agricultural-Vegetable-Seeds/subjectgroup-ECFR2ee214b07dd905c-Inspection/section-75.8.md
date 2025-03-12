@@ -1,0 +1,3 @@
+##### § 75.8 Basis of service. #####
+
+The regulations provide for inspection services pursuant to the Act. Seeds shall be inspected in accordance with the methods of either the Association of Official Seed Analysts (AOSA) or the International Seed Testing Association (ISTA); provided, that limitations in these rules respecting maximum lot size will not be observed and, provided further, that certification as to origin may be based on examination of records and certification of other seed certifying agencies.

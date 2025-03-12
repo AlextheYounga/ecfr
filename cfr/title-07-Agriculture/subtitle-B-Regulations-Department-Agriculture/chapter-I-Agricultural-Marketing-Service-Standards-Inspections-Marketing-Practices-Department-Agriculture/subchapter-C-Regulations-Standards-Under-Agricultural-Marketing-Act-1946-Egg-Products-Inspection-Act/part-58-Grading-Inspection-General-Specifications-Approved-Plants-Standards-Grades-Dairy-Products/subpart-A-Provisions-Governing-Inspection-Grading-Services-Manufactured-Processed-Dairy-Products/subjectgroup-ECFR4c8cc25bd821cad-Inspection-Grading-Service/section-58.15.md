@@ -1,0 +1,3 @@
+##### § 58.15 Accessibility and condition of product. #####
+
+Each lot of product for which inspection or grading service is requested shall be so conditioned and placed as to permit selection of representative samples and proper determination of the class, grade, quality, quantity, or condition of such product. In addition, if sample packages are furnished by the applicant, such samples shall be representative of the lot to be inspected or graded and additional samples shall be made available for verification. The room or area where the service is to be performed shall be clean and sanitary, free from foreign odors, and shall be provided with adequate lighting, ventilation, and temperature control.

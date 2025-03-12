@@ -1,0 +1,5 @@
+##### § 27.46 Cotton withdrawn from storage. #####
+
+The exchange inspection agency under the supervision or control of which any cotton classified pursuant to this subpart shall be held or stored shall furnish to the Marketing Services Office which classified such cotton, on the first business day of each week, a written statement of all cotton withdrawn from storage, or the lot number or other identification of which has been changed, or which has otherwise been removed from the supervision or control of such exchange inspection agency during the next preceding week. Such statement shall show each lot number, and, if changed, the new lot number, and in case of the withdrawal or removal of a portion only of the lot, the tag numbers of the bales so withdrawn or removed. If such removal shall be to a different place of storage under the supervision or control of the exchange inspection agency, the statement shall show the new location.
+
+[48 FR 49211, Oct. 25, 1983]

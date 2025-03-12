@@ -1,0 +1,5 @@
+##### § 54.1021 Request for appeal service. #####
+
+(a) Except as otherwise provided in § 54.1020, an applicant or their representative may request appeal service when the applicant or their representative disagree with the determination as to compliance with the standard of the piece of equipment, portion of a piece of equipment, or utensil as documented in the applicable report.
+
+(b) A request for appeal service shall be filed with the Chief, directly or through the design review specialist who performed the original service. The request shall state the reasons for the disagreement with the original determination and may be accompanied by a copy of any previous certificate or report, or any other information which the applicant may have received regarding the piece of equipment, portion of a piece of equipment, or utensil at the time of the original service. Such request may be made orally (including by telephone) or in writing (including by facsimile transmission). If made orally, the Dairy Grading Branch employee receiving the request may require that it be confirmed in writing.

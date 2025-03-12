@@ -1,0 +1,3 @@
+##### § 48.5 False report or statement. #####
+
+Any person receiving produce in interstate commerce or in the District of Columbia for or on behalf of another shall be considered to have violated the Act if, knowingly and with intent to defraud, he makes any false report or statement to the person from whom such produce was received concerning the handling, condition, quality, quantity, sale, or disposition thereof.

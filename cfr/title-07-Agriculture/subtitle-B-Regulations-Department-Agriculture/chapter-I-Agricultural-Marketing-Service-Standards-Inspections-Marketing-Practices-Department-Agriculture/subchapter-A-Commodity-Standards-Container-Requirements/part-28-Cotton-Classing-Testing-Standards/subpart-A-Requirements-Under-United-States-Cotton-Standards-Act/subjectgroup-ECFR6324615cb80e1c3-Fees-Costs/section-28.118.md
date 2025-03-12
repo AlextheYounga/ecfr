@@ -1,0 +1,3 @@
+##### § 28.118 When no fee collected for new certificate or memorandum. #####
+
+No fee shall be collected for a new cotton class certificate or memorandum issued in lieu of a prior certificate or memorandum solely for the purpose of correcting clerical errors therein, or for the purpose of substituting a new form applicable to outstanding certificates or memorandums, or without an application therefor.

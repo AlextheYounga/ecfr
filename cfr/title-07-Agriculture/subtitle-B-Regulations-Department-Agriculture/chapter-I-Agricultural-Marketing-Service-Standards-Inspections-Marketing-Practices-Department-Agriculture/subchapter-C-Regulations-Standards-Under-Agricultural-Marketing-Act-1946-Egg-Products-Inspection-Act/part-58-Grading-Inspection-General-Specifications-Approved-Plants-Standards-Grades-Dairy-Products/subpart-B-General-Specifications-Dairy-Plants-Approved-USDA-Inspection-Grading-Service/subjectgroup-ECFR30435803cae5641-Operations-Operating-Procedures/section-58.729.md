@@ -1,0 +1,3 @@
+##### § 58.729 Forming containers. #####
+
+Containers either lined or unlined shall be assembled and stored in a sanitary manner to prevent contamination. The handling of containers by filler crews should be done with extreme care and observance of personal cleanliness. Preforming and assembling of pouch liners and containers shall be kept to a minimum and the supply rotated to limit the length of time exposed to possible contamination prior to filling.

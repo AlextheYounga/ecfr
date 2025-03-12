@@ -1,0 +1,3 @@
+##### § 58.16 Disposition of samples. #####
+
+Any sample of product used for inspection or grading may be returned to the applicant at his request and at his expense if such request was made at the time of the application for the service. In the event the aforesaid request was not made at the time of application for the service, the sample of product may be destroyed, disposed of to a charitable organization, or disposed of by any other method prescribed by the Administrator.

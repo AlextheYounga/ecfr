@@ -1,0 +1,3 @@
+##### § 58.147 Insect and rodent control program. #####
+
+In addition to any commercial pest control service, if one is utilized, a specially designated employee should be made responsible for the performance of a regularly scheduled insect and rodent control program. Poisonous substances shall be properly labeled, and shall be handled, stored and used in such a manner as considered satisfactory by the Environmental Protection Agency.

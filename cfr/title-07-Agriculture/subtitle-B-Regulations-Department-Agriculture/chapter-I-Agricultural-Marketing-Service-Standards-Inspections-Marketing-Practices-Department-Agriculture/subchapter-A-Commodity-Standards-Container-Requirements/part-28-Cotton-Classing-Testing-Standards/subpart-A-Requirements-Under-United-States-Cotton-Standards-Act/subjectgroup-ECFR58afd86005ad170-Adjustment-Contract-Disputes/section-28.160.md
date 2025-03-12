@@ -1,0 +1,3 @@
+##### § 28.160 Cotton examiners on foreign exchanges. #####
+
+Whenever any association or exchange in any country other than the United States shall adopt the universal standards and establish them as the basis of all transactions and contracts for American upland cotton, made and executed according to its rules, the Director may appoint certain members or officials of such exchanges as cotton examiners. Insofar as the administration of the act applies to cotton involved in contracts made in accordance with the rules of such exchange, the administration shall be as prescribed in §§ 28.161 through 28.162.

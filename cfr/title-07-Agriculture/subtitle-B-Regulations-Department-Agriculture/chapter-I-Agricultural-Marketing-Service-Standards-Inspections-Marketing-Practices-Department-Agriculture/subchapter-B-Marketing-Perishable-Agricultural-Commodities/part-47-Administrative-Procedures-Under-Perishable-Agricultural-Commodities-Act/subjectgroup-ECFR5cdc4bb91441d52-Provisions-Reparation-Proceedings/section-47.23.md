@@ -1,0 +1,5 @@
+##### § 47.23 Issuance of order. #####
+
+As soon as practicable after the receipt of the record from the Hearing Clerk, the Secretary, upon the basis of and after due consideration of the record, shall issue his or her order in the proceeding. Unless the Secretary disagrees with the order as drafted for his or her signature by the examiner, as provided in § 47.19(d), the Secretary shall issue as his or her order the order so prepared by the examiner. If the Secretary deems it advisable to do so, the Secretary may direct that the order be served upon the parties as a tentative order and that the parties be allowed such period of time, not to exceed 20 days, as the Secretary may specify, within which to file exceptions thereto and written argument or briefs in support of such exceptions.
+
+[10 FR 2209, Feb. 27, 1945, as amended at 60 FR 8462, Feb. 14, 1995]

@@ -1,0 +1,5 @@
+##### § 50.1 Scope and applicability of administrative procedures. #####
+
+(a) The Rules of Practice Governing Formal Adjudicatory Proceedings Instituted by the Secretary Under Various Statutes set forth in §§ 1.130 through 1.151 of this title are rules of practice applicable to adjudicatory proceedings under the regulations promulgated under 7 U.S.C. 1621 *et seq.* for denial or withdrawal of inspection, certification, or grading service. In addition, the supplemental rules of practice in subpart B of this part shall be applicable to adjudicatory proceedings under the regulations promulgated under 7 U.S.C. 1621 *et seq.* for denial or withdrawal of inspection, certification, or grading service.
+
+(b) Neither the rules of practice in §§ 1.130 through 1.151 of this title nor the supplemental rules of practice in subpart B of this part modify existing procedures for refusing to inspect, grade, or certify a specific lot of a product because of adulteration, improper preparation of the lot for grading, improper presentation of the lot for grading, or because of failure to comply with any similar requirements set forth in applicable regulations.

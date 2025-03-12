@@ -1,0 +1,3 @@
+##### § 29.108 Certificate issuance. #####
+
+A certificate shall be issued as soon as practicable after any tobacco has been inspected or weighed for the purpose of the Act. A separate certificate shall be issued for each lot of tobacco inspected or weighed, except when a certificate covering two or more lots is specifically authorized by the Director. In case of a lost or destroyed certificate, a duplicate thereof may be issued under the same number, date, and name by an authorized supervising official. Any such duplicate certificate shall be plainly marked “Duplicate” above the signature of the supervising official who issued it.

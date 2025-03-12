@@ -1,0 +1,7 @@
+##### § 29.1168 Nondescript (N Group). #####
+
+Extremely common tobacco which does not meet the minimum specifications or which exceeds the tolerance of the lowest grade of any other group except Scrap.
+
+*Grades, Grade Names, Minimum Specifications, and Tolerances*
+
+N1L—Best Nondescript from the P GroupTolerance: 50 percent waste.N1XL—Best Nondescript from the X GroupTolerance: 50 percent waste.N1K—Best Nondescript from the B or H GroupsTolerance: 50 percent injury or waste.N1R—Best, Heavy, Dark-colored Nondescript from the B GroupTolerance: 50 percent injury or waste.N1KV—Best, Variegated, Medium-bodied Greenish Nondescript from the B GroupTolerance: 50 percent waste.N1GL—Best, Thin, Crude Green Nondescript from the P or X GroupsTolerance: 50 percent crude or waste.N1GF—Best, Fleshy, Medium-colored, Crude Green Nondescript from the B GroupTolerance: 50 percent crude, injury or waste.N1GR—Best, Heavy, Dark-colored, Crude Green Nondescript from the B GroupTolerance: 50 percent crude, injury or waste.N1GG—Best, Crude, Gray Green Nondescript from the B GroupTolerance: 50 percent crude, injury or waste.N1PO—Oxidized Tobacco from the P GroupTolerance: 50 percent waste.N1XO—Oxidized Tobacco from the X or C GroupsTolerance: 50 percent waste.N1BO—Oxidized Tobacco from the B or H GroupsTolerance: 50 percent injury or waste.N2—Poorest Nondescript of any Group or ColorTolerance: Over 50 percent crude, injury or waste.Pursuant to Rule 25, this grade also includes crude or green tobacco containing 10 percent or less of oxidized.[54 FR 7926, Feb. 24, 1989]

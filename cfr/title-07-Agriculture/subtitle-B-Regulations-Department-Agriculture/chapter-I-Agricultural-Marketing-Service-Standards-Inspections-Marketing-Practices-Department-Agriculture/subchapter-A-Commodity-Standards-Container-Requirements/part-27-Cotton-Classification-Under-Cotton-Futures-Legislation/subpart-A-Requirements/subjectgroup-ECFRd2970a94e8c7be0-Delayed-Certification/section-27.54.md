@@ -1,0 +1,5 @@
+##### § 27.54 Inspection and sampling for delayed certification. #####
+
+Such cotton must have been duly inspected and sampled, and the original samples thereof properly prepared in accordance with this subpart must be delivered to the Marketing Services Office not later than the date of issuance of the transferable notice, except when the delivery day fixed by such transferable notice is the last delivery day in the month of delivery. In such case the cotton must have been duly inspected and sampled, and the original samples thereof properly prepared in accordance with this subpart must have been delivered to the Marketing Services Office in accordance with all regulations applicable and in readiness for classification not later than 8 p.m. of the second business day preceding such last delivery day.
+
+[48 FR 49212, Oct. 25, 1983]

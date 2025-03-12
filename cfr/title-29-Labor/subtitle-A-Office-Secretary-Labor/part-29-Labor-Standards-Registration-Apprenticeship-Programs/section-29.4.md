@@ -1,5 +1,7 @@
 ##### § 29.4 Criteria for apprenticeable occupations. #####
 
+Link to an amendment published at 85 FR 14386, Mar. 11, 2020.
+
 An apprenticeable occupation is one which is specified by industry and which must:
 
 (a) Involve skills that are customarily learned in a practical way through a structured, systematic program of on-the-job supervised learning;

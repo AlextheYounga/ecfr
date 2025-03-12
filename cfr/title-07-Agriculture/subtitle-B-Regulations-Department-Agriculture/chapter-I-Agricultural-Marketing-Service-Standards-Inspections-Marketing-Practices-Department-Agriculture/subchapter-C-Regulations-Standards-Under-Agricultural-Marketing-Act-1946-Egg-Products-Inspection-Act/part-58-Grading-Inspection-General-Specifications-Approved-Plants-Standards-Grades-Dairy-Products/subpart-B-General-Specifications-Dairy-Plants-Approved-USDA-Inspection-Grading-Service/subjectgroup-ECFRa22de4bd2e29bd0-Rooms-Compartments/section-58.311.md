@@ -1,0 +1,3 @@
+##### § 58.311 Coolers and freezers. #####
+
+The coolers and freezers shall be equipped with facilities for maintaining proper temperature and humidity conditions, consistent with good commercial practices for the applicable product, to protect the equality and condition of the products during storage or during tempering prior to further processing. Coolers and freezers shall be kept clean, orderly, free from insects, rodents, and mold, and maintained in good repair. They shall be adequately lighted and proper circulation of air shall be maintained at all times. The floors, walls, and ceilings shall be of such construction as to permit thorough cleaning.

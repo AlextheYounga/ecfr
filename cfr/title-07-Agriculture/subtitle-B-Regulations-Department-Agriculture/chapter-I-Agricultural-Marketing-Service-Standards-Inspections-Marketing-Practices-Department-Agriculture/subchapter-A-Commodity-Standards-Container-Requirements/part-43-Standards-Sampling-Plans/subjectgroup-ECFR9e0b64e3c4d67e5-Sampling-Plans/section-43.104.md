@@ -1,0 +1,5 @@
+##### § 43.104 Master table of single and double sampling plans. #####
+
+(a) In the master table, a sampling plan is selected by first determining the sample size or sizes and AQL to be used. Then find the applicable acceptance (Ac) and rejection (Re) numbers at the intersection of the sample size(s) row and AQL column. These numbers together with the sample size or sizes constitute a sampling plan.
+
+(b) Single sampling plans having a sample size of 66 or greater and an acceptance number of 1 are not included in the Master Table. These plans are listed in the tables which supplement the Master Table and accompany the OC curves as indexes to the comparable double sampling plans. The use of these single sampling plans do not facilitate the practice of using two or more AQL's simultaneously with the same sample size.

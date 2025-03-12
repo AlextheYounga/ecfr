@@ -1,0 +1,3 @@
+##### § 29.9241 Accessibility of tobacco. #####
+
+All tobacco to be inspected and certified by class or type upon application shall be made accessible by the applicant for proper examination, including any necessary display in proper light for determination of grade, class, type, or other characteristics or for drawing of samples. Each croplot shall be displayed at an approved receiving station in a continuous and orderly sequence with no other quota, nonquota, or other producer's tobacco in between. The lots shall be arranged in rows 18 inches apart with the leaves of adjacent lots not touching within the rows. Coverings shall be removed by the applicant in such manner as may be prescribed by the inspector.

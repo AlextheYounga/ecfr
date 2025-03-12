@@ -1,0 +1,3 @@
+##### § 29.68 Advance information. #####
+
+Upon the request of an applicant for whom tobacco has been inspected, sampled, or weighed and certificated under the Act, all or any part of the contents of such certificate may be tel- egraphed or telephoned to him as his expense. Information relative to grade or other determinations contained or to be contained in a certificate shall not be divulged by an inspector, sampler, or weigher to any person other than an interested party or his agent without the approval of the Director, and such information shall not be furnished an interested party before the certificate is issued.

@@ -1,0 +1,3 @@
+##### § 58.622 Hardening and storage rooms. #####
+
+Hardening and storage rooms for frozen desserts shall be constructed of satisfactory material for this purpose. The rooms shall be maintained in a clean and orderly manner. Adequate shelves, bins, or pallets shall be provided to keep the packages of finished products off the floor and to prevent damage to the containers. Sufficient refrigeration should be provided to insure adequate storage temperature (−10° or lower). Air shall be circulated to maintain uniform temperature throughout the rooms. A vestibule or double entry way should be provided to minimize heat shock of the frozen products.

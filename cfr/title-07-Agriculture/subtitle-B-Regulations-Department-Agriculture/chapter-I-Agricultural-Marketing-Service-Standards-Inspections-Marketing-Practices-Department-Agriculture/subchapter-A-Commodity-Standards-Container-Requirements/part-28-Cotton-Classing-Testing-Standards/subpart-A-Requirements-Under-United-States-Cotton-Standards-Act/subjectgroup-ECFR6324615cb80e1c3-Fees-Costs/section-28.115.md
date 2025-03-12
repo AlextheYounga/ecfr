@@ -1,0 +1,5 @@
+##### § 28.115 Fees and costs; payment. #####
+
+All charges for practical forms of cotton standards and all fees and expenses for services of inspection of bales and supervision of sampling, classification, comparison, or review by a Classing Office shall be paid at the time of filing the request for the service desired, except that in the discretion of the Director bills may be delivered to persons from whom payment or charges or fees may become due. Such bills shall be rendered as soon as practicable after the last day of each month for amounts due and unpaid on such dates. When necessary, in the discretion of the Area Director, any bill may be rendered at an earlier date for any charges or fees then due from the person to whom such bill may be rendered. Payment of any such bill shall be made as soon as possible after the rendition thereof, but in any event not later than the expiration of 2 weeks thereafter.
+
+[52 FR 30883, Aug. 18, 1987]

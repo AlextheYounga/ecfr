@@ -1,0 +1,5 @@
+##### § 58.22 When appeal inspection or grading may be requested. #####
+
+(a) An application for an appeal inspection or grading may be made by any interested party who is dissatisfied with any determination stated in any inspection or grading certificate or report if the identity of the samples or the product has not been lost; or the conditions under which inspection service was performed have not changed. Such application for appeal inspection or grading shall be made within 2 days following the day on which the service was performed. Upon approval by the Administrator, the time within which an application for an appeal grading may be made may be extended.
+
+(b) An appeal inspection shall be limited to a review of the sampling procedure and in analysis of the official sample used, when, as a result of the original inspection, the commodity was found to be contaminated with filthy, putrid, and decomposed material. If it is determined that the sampling procedures were improper, a new sample shall be obtained.

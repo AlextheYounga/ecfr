@@ -1,0 +1,3 @@
+##### § 58.153 Dry storage. #####
+
+The product should be stored at least 18 inches from the wall in aisles, rows, or sections and lots, in such a manner as to be orderly and easily accessible for inspection. Rooms should be cleaned regularly. It is recommended that dunnage or pallets be used when practical. Care shall be taken in the storage of any other product foreign to dairy products in the same room, in order to prevent impairment or damage to the dairy product from mold, absorbed odors, or vermin or insect infestation. Control of humidity and temperature shall be maintained at all times, consistent with good commercial practices, to prevent conditions detrimental to the product and container.

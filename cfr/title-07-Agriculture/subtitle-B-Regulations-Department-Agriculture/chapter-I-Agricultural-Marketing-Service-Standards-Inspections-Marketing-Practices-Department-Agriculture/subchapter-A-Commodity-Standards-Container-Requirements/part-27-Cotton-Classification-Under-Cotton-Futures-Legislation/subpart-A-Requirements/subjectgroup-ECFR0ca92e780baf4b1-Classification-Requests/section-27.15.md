@@ -1,0 +1,3 @@
+##### § 27.15 Withdrawal or rejection of classification or Micronaire determination requests. #####
+
+Any request for classification or for Micronaire determination may be withdrawn by the applicant at any time before the classification or Micronaire determination of the cotton covered thereby, subject to the payment of such fees, if any, as may be prescribed under §§ 27.80 to 27.92. Any request for classification or for Micronaire determination may be rejected for noncompliance with the act or this subpart.

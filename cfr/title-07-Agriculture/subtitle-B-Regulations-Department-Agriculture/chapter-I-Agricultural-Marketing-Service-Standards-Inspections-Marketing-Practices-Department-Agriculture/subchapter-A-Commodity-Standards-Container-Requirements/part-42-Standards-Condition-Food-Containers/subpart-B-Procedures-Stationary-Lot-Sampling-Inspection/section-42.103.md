@@ -1,0 +1,9 @@
+##### § 42.103 Purpose and scope. #####
+
+(a) This subpart outlines the procedure to be used to establish the condition of containers in stationary lots of packaged foods. This subpart shall be used to determine the acceptability of a lot based on specified acceptable quality levels and defects referenced in § 42.104 or any alternative plan which is approved by the Administrator. In addition, any other sampling plan in the tables with a larger first sample size than that indicated by the lot size range may be specified when approved by the Administrator. This subpart or approved alternative plan will be applied when a Government agency or private user of the inspection or grading services requests that filled primary containers or shipping cases, or both, be certified for condition. Unless the request for certification specifically asks that only the primary container or only the shipping case be examined, both containers will be examined.
+
+(b) Unless otherwise specified by the user of service, this subpart will not apply to inspection lots of less than 50 shipping cases or to inspection lots of less than 300 primary containers. When the primary container is the shipping case, the shipping case limit will apply. When the lot size exceeds either the 50 shipping case limit or the 300 primary container limit or both, the provisions of paragraph (a) of this section will apply.
+
+(c) Under certain conditions, special procedures (Skip Lot Sampling and Inspection) may be used to determine the condition of containers in stationary lots of packaged foods. Subpart C sets forth the requirements and procedures for Skip Lot Sampling and Inspection.
+
+[31 FR 4687, Mar. 19, 1966, as amended at 36 FR 18456, Sept. 15, 1971; 41 FR 42639, Sept. 28, 1976. Redesignated at 42 FR 32514, June 27, 1977, and further amended at 45 FR 69424, Oct. 21, 1980. Redesignated at 46 FR 63203, Dec. 31, 1981]

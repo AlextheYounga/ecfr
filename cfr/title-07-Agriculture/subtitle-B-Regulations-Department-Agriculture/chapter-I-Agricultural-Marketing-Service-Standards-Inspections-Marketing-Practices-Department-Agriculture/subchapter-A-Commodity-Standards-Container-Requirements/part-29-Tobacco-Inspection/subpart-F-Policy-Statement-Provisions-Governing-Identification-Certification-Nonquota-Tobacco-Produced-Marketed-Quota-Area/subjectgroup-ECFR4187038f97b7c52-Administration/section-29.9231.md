@@ -1,0 +1,3 @@
+##### § 29.9231 Administration. #####
+
+The Director, Tobacco Division, Agricultural Marketing Service, U.S. Department of Agriculture, Washington, DC, 20250, is charged with the supervision of the Division and the performance of all duties assigned thereto in the administration of the act. The conduct of all services and the licensing or employment of inspection/grading/sampling personnel under these regulations shall be accomplished without discrimination as to race, color, creed, sex, or national origin. Information concerning such administration may be obtained from the Director.

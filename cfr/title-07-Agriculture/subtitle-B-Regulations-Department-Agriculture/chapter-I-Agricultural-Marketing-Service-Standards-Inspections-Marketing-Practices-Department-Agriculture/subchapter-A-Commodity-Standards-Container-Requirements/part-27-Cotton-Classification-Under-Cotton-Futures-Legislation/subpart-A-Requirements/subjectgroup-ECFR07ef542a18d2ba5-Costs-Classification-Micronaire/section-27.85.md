@@ -1,0 +1,3 @@
+##### § 27.85 Fees; withdrawn requests or applications. #####
+
+When the request for classification, or the application for review or classification, of any cotton or the request for Micronaire determination for any cotton shall be withdrawn after the service requested has been started pursuant to such request or application, the person making such request or application shall pay the fee prescribed by § 27.80 as to any service completed prior to such withdrawal.

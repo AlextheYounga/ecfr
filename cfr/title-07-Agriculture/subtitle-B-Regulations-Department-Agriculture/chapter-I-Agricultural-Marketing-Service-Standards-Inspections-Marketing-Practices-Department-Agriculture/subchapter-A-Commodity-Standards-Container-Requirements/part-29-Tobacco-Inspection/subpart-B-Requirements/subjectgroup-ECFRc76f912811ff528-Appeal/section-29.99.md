@@ -1,0 +1,3 @@
+##### § 29.99 Superseded certificate or sample. #####
+
+When superseded under this subpart by an appeal certificate or an appeal sample, such superseded certificate or sample shall become null and void and shall not thereafter be used to represent the tobacco described therein. If the original and the copies of the old certificate were not delivered to the appeal inspector for cancellation, the appeal inspector shall notify such persons or firms as he may consider necessary to prevent fraudulent use of any such null and void certificate.

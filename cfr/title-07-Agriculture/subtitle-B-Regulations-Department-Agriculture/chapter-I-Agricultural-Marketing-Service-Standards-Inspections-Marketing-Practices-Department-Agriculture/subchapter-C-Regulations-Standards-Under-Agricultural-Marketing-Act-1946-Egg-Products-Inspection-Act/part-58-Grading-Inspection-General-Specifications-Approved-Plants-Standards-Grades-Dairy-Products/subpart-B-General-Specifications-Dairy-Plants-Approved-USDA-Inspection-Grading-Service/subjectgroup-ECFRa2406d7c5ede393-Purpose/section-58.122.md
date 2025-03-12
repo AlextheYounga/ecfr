@@ -1,0 +1,5 @@
+##### § 58.122 Approved plants under USDA inspection and grading service. #####
+
+(a) Adoption of certain sound practices at dairy plants will significantly aid the operators to manufacture more consistently, uniform high-quality stable dairy products. Only dairy products manufactured, processed and packaged in an approved plant may be graded or inspected and identified with official identification. The specifications established herein provide the basis for a quality maintenance program which may be effectively carried forward through official inspection, grading, and quality control service.
+
+(b) USDA inspection and grading service is provided to dairy product manufacturing plants on a voluntary basis. The operator of any dairy plant desiring to have such a plant qualified as an approved plant under USDA inspection and grading service may request surveys of such plant, premises, equipment, facilities, methods of operation, and raw material to determine whether they are adequate to permit inspection and grading service. The cost of this survey shall be borne by the applicant.

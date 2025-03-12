@@ -1,0 +1,3 @@
+##### § 58.413 Cutting and packaging rooms. #####
+
+When small packages of cheese are cut and wrapped, separate rooms shall be provided for the cleaning and preparation of the bulk cheese and for the cutting and wrapping operation. The rooms shall be well lighted, ventilated and provided with filtered air. Air movement shall be outward to minimize the entrance of unfiltered air into the cutting and packaging room. The waste materials and waste cheese shall be disposed of in an environmentally and/or sanitary approved manner.

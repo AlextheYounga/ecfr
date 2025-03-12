@@ -1,0 +1,3 @@
+##### § 58.25 When an application for appeal inspection or grading may be refused. #####
+
+The Administrator may refuse an application for an appeal inspection or grading when (a) the quality or condition of the products has undergone a material change since the time of original service, (b) the identical products inspected or graded cannot be made accessible for reinspection or regrading, (c) the conditions under which inspection service was performed have changed, (d) it appears that the reasons for an appeal inspection or grading are frivolous or not substantial, or (e) the Act or this part have not been complied with. The applicant shall be promptly notified of the reason for such refusal.

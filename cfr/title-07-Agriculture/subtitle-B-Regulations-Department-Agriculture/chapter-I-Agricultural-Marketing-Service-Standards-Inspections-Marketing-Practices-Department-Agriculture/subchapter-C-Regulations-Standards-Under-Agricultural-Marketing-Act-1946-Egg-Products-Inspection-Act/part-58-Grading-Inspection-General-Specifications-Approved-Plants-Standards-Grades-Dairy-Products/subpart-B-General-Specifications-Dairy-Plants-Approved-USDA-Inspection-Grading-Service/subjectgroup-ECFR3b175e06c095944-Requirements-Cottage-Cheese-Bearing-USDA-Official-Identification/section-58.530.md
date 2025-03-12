@@ -1,0 +1,3 @@
+##### § 58.530 Keeping quality requirements. #####
+
+Keeping quality samples taken from the packaging line shall be held at 45 °F. for 10 days. At the end of the 10 day period the samples shall possess a satisfactory flavor and appearance, and shall be free from bitter, sour, fruity, or other objectionable tastes and odors. The surface shall not be discolored, translucent, slimy or show any other objectionable condition.

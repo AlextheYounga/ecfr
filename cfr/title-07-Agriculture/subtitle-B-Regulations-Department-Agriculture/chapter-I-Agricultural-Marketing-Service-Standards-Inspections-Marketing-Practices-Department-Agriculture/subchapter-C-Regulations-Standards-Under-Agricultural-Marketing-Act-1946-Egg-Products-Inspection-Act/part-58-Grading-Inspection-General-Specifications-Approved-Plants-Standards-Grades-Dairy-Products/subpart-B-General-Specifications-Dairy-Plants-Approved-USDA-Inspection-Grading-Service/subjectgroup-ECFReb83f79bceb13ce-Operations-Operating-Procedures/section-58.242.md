@@ -1,0 +1,3 @@
+##### § 58.242 Product adulteration. #####
+
+All necessary precautions shall be taken throughout the entire operation to prevent the adulteration of one product with another. The commingling of one type of liquid or dry product with another shall be considered as an adulteration of that product. This does not prohibit the normal standardization of like products in accordance with good commercial practices or the production of specific products for special uses, provided applicable labeling requirements are met.

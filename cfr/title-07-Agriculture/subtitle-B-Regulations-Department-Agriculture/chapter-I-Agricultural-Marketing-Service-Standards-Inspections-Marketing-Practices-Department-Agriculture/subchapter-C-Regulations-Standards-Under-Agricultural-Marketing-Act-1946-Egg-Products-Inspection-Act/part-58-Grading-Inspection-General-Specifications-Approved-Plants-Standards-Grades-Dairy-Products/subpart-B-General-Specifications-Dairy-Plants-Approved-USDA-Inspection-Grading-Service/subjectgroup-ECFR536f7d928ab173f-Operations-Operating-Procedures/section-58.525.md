@@ -1,0 +1,3 @@
+##### § 58.525 Storage of finished product. #####
+
+Cottage cheese after packaging shall be promptly stored at a temperature of 45 °F. or lower to maintain quality and condition until loaded for distribution. During distribution and storage prior to sale the product should be maintained at a temperature of 45 °F. or lower. The product shall not be exposed to foreign odors or conditions such as drippage or condensation that might cause package or product damage. Packaged cottage cheese shall not be placed directly on floors.

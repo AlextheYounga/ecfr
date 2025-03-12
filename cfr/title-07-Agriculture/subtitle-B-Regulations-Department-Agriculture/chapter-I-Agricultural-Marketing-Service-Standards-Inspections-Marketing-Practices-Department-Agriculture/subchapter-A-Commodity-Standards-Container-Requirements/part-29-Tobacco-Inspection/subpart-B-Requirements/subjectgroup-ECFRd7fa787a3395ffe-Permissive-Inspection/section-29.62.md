@@ -1,0 +1,3 @@
+##### § 29.62 When application may be rejected. #####
+
+An application may be rejected (a) for noncompliance with the Act or the regulations in this subpart, or (b) when it is not practicable to provide the service. All expenses incurred in connection with an application rejected for noncompliance with the Act or the regulations in this subpart shall be paid by the applicant as provided in § 29.124.

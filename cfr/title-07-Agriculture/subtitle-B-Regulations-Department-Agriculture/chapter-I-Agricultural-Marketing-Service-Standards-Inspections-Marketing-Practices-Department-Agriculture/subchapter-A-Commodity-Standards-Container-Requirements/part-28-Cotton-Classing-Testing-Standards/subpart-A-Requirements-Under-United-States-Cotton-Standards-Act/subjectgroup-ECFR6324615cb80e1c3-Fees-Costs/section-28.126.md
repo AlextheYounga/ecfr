@@ -1,0 +1,3 @@
+##### § 28.126 Loaning of forms and exhibits. #####
+
+In the discretion of the Director, limited numbers of copies of the practical forms of any of the official standards, or specially prepared exhibits illustrating any of such standards or cotton samples, may be loaned to governmental agencies for official purposes or to educational and other institutions or organizations for demonstration purposes.

@@ -1,0 +1,11 @@
+##### § 35.11 Minimum requirements. #####
+
+No person shall ship, or offer for shipment, and no carrier shall transport, or receive for transportation, any shipment of any variety of vinifera species table grapes unless such grapes meet the following quality and container marking requirements applicable to the variety and destination specified:
+
+(a) Any such variety for export to destinations in Japan, Europe (defined to mean the following countries: Albania, Austria, Belgium, Bosnia, Bulgaria, Croatia, Czech Republic, Denmark, England, Finland, France, Germany, Greece, Herzegovina, Hungary, Iceland, Ireland, Italy, Liechtenstein, Luxembourg, Macedonia, Montenegro, Netherlands, Northern Ireland, Norway, Poland, Portugal, Romania, Scotland, Serbia, Slovenia, Spain, Sweden, Switzerland, Wales), or Greenland shall meet each applicable minimum requirement of the U.S. Fancy Table grape grade as specified in the U.S. Standards for Grades of Table Grapes (European or Vinifera Type) (§§ 51.880-51.912 of this title). The Black Corinth variety shall be exempt from bunch and berry size requirements.
+
+(b) Any such variety for export to any foreign destination, other than destinations in Japan, Europe, Greenland, Canada, or Mexico, shall meet each applicable minimum requirement of the U.S. No. 1 Table grape grade as specified in the U.S. Standards for Grades of Table Grapes (European or Vinifera Type) (§§ 51.880-51.912 of this title), except that an additional 2 percent tolerance for sealed berry cracks on the Ribier variety is allowed. The Black Corinth variety shall be exempt from bunch and berry size requirements.
+
+(c) Each package of any such variety, other than those in packages of 5 pounds or less in master containers, to any destination other than in Canada or Mexico shall be plainly and conspicuously marked with the name and address of the grower or packer, the variety, and the applicable inspection lot stamp number, except that when the packages are unitized, the requirement as to inspection lot stamp marking shall be deemed as met if the exposed box ends on one end of the unit are so marked.
+
+[41 FR 32877, Aug. 6, 1976, as amended at 61 FR 54082, Oct. 17, 1996; 76 FR 14277, Mar. 16, 2011]

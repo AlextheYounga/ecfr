@@ -1,0 +1,5 @@
+##### § 27.20 Drawing and handling of samples of cotton; inspection of bales. #####
+
+One sample shall be drawn from the top side of each bale and one from the bottom side. Each such sample shall weigh not less than 5 ounces, the two samples from each bale to weigh together not less than 10 ounces. The bale shall be inspected and any condition not fully indicated by the samples shall be explained by the supervisor of cotton inspection or exchange inspection agency in a written memorandum, which shall acompany the samples to the Marketing Services Office. Samples shall not be dressed or trimmed and shall be carefully handled in such manner as not to cause loss of leaf, sand, or other material, or otherwise change their representative character. Any sample which does not meet the requirements of this section may be rejected by the supervisor of cotton inspection or the Area Director.
+
+[48 FR 49210, Oct. 25, 1983]

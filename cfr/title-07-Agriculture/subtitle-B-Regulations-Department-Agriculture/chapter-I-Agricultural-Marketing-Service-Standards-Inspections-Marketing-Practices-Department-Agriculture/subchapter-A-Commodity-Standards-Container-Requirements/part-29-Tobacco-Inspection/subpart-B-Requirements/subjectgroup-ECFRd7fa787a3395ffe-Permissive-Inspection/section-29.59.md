@@ -1,0 +1,3 @@
+##### § 29.59 How to make application. #####
+
+Application for inspection, sampling, or weighing of tobacco shall be made to the Division, the office of inspection, or as the case may be, to an official inspector, sampler, or weigher. It may be made orally or in writing and delivered in person, by mail, by telegraph, or otherwise. If made orally, the Division or the official receiving it may require a written confirmation.

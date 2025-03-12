@@ -1,0 +1,3 @@
+##### § 29.65 Accessibility of tobacco. #####
+
+All tobacco to be inspected, sampled, or weighed upon application shall be made accessible by the applicant for proper examination, including any necessary display in proper light for determination of grade or other characteristics or for drawing of samples. In the case of tobacco in packages, the coverings shall be removed by the applicant in such manner as may be prescribed by the inspector, sampler, or weigher.

@@ -1,0 +1,11 @@
+##### § 29.81 Interference with inspectors. #####
+
+(a) *Auction.* (1) No person, including the owner, producer, warehouseman, purchaser, agent, or employee thereof shall attempt, in any manner, to influence an inspector with respect to the grade designation of tobacco, or impede, in any manner, an inspector while the inspector is in the process of grading tobacco on the warehouse auction floor, or ask any question or discuss any matter pertaining to the grading of tobacco while the inspector is grading any tobacco on the warehouse auction floor. While inspectors are engaged in grading the day's sale, all requests for information concerning the grade designation on or requests to review the grade of any lot of tobacco shall be made only to the head grader or to the market supervisor grader.
+
+(2) In the event that the head grader or market supervisor grader determines that a person has violated any provision of this section, inspection ticket(s) if already issued on the lot(s) of unsold tobacco involved shall be null and void and no further inspection shall be performed on such lot(s) offered for sale by the warehouseman in whose premises the violation occurred until the next regularly-scheduled sale for such warehouse: Provided, That if violation consists of talking to the inspector while he/she is grading the tobacco, a warning shall be given on first offense and penalty provisions shall apply on any subsequent offense. A reduction in daily sales for any warehouse resulting from a violation of this section shall not prevent the maximum number of lots or pounds allotted per day per set of buyers from being sold in a designated market.
+
+(b) *Other.* No person, including the owner, producer, receiving station operator, purchaser, agent, or employee thereof shall attempt, in any manner, to influence an inspector with respect to the grade designation of tobacco, or impede, in any manner, an inspector while the inspector is in the process of grading tobacco.
+
+(c) *Administrative remedies.* The provisions of this section shall not preclude the application of other administrative remedies or the institution of criminal proceedings in appropriate cases as provided by the Act.
+
+[67 FR 36081, May 23, 2002]

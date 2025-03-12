@@ -1,0 +1,3 @@
+##### § 29.6091 Rule 5. #####
+
+Tobacco leaves shall be placed straight in bundles or bales of normal weight, size, and shape with the butts out and tips overlapping from 6 to 8 inches or sufficiently to make a level, solid, and uniform pack. The sides of the bundles shall be completely covered with paper, or other suitable protective material, and tightly bound with not less than three large twines spaced so that the tobacco will be held securely together. Improperly packed tobacco shall be designated as “No—G.”

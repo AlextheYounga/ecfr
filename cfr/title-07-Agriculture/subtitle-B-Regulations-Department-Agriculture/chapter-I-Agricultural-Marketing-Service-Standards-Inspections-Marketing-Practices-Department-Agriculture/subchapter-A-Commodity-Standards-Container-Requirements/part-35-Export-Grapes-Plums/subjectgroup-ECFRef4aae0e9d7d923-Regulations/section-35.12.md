@@ -1,0 +1,15 @@
+##### § 35.12 Inspection and certification. #####
+
+(a) Each person shipping or offering for shipment any variety of vinifera species table grapes, to any foreign destination other than destinations in Canada or Mexico, shall cause them to be inspected within 14 days prior to date of export by the Federal or Federal-State Inspection Service in accordance with regulations governing the inspection and certification of fresh fruits, vegetables, and other products (part 51 of this chapter) and certified as meeting the requirements of the act and this part.
+
+(b) The Federal or Federal-State certificate shall be designated as an “Export Form Certificate” and shall include one of the following statements as applicable:
+
+(1) For any variety meeting specifications of paragraph (a) of § 35.11 “Meets requirements of Export Grape and Plum Act” or (2) For any variety meeting specifications of paragraph (b) of § 35.11 “Meets requirements of Export Grape and Plum Act except for export to destinations in Europe, Greenland, or Japan.” No carrier shall transport or receive for transportation any such variety to any foreign destination other than Canada or Mexico unless a copy of the certificate of inspection issued thereon showing that the grapes meet requirements for the applicable export destination is surrendered to such carrier when such variety is so received. The shipper shall deliver a copy of such certificate covering the shipment to the export carrier. Such grapes may be inspected at points other than port of exportation. Whenever such grapes are inspected and certified at any point other than port of exportation, the shipper shall deliver a copy of such certificate to the agent of the first carrier that thereafter transports such grapes and such agent shall deliver such copy to the proper official of the carrier on which the grapes are to be exported.
+
+(c) A copy of the Certificate of Inspection shall be filed by the export carrier for a period of not less than three (3) years following date of export.
+
+(d) Persons exporting grapes under the provisions of section 2 of the Act shall first submit to the Federal or Federal-State Inspection Service a certification in duplicate stating the names and addresses of the contracting parties, the date of contract, the quantity of grapes to be delivered, the U.S. grade specified, the expected date of shipment, and the name and address of the export carrier. The certificate of inspection shall indicate that the grapes are eligible for export under section 2 of the Act.
+
+(e) If the inspector has reason to believe that samples of a lot of any variety of vinifera species table grapes have been obtained for a determination as to compliance with tolerance for spray residue, established under the Federal Food, Drug and Cosmetic Act, as amended (52 Stat. 1040; 21 U.S.C. 301 *et seq.*), he shall not issue a certificate on the lot unless it complies with such tolerances.
+
+[26 FR 8934, Sept. 22, 1961, as amended at 41 FR 32878, Aug. 6, 1976]

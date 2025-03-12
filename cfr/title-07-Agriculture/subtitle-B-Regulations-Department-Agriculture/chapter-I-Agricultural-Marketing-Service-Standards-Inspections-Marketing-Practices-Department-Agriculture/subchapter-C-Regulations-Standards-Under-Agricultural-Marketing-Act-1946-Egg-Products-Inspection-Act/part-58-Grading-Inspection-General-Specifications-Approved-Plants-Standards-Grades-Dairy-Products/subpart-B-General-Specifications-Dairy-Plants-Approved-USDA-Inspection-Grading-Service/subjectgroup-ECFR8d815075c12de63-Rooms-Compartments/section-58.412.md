@@ -1,0 +1,3 @@
+##### § 58.412 Coolers or curing rooms. #####
+
+Coolers or curing rooms where cheese is held for curing or storage shall be clean and maintained at the proper uniform temperature and humidity to adequately protect the cheese, and minimize the undesirable growth of mold. Proper circulation of air shall be maintained at all times. The shelves shall be kept clean and dry. This does not preclude the maintenance of suitable conditions for the curing of mold and surface ripened varieties.

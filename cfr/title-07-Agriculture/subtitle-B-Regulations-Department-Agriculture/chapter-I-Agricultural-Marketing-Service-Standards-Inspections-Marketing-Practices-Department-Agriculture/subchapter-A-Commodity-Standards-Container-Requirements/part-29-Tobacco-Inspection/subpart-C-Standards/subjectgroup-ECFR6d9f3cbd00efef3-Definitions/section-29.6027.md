@@ -1,0 +1,3 @@
+##### § 29.6027 Nested. #####
+
+Any tobacco which has been loaded, packed, or arranged to conceal foreign matter or tobacco of inferior grade, quality, or condition. Nested includes any lot of tobacco which contains foreign matter or damaged, injured, tangled, or other inferior tobacco, any of which cannot be readily detected upon inspection because of the way the lot is packed or arranged. (See Rule 17.)

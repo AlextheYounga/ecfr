@@ -1,0 +1,3 @@
+##### § 46.40 Inspection service. #####
+
+The rules and regulations of the Secretary governing inspection and certification of fresh fruits and vegetables as outlined in part 51 of this chapter; and frozen fruits and vegetables as outlined in part 52 of this chapter, and amendments thereto, and such additional amendments as may from time to time be promulgated shall govern the inspection of such products under the Act and are hereby made a part of the regulations in this part.

@@ -1,0 +1,3 @@
+##### § 58.142 Product quality and stability. #####
+
+The receiving, holding and processing of milk and cream and the manufacturing, handling, packaging, storing and delivery of dairy products shall be in accordance with clean and sanitary methods, consistent with good commercial practices to promote the production of the highest quality of finished product and improve product stability. Milk should not be more than three days old when picked up from the producer and delivered to the plant, receiving station or transfer station.

@@ -1,0 +1,3 @@
+##### § 29.106 Who may be employed, licensed, or authorized. #####
+
+Any persons who is not financially interested directly or indirectly in merchandising tobacco, except as a grower or except in disposing of tobacco previously acquired, and who has demonstrated his competency may be employed, licensed, or authorized to inspect, sample, or weigh tobacco. Licenses issued by the Secretary shall be countersigned by a supervising official of the Division. Licenses to inspect or to sample shall specify the type or types of tobacco which the licensee is authorized to inspect or sample.

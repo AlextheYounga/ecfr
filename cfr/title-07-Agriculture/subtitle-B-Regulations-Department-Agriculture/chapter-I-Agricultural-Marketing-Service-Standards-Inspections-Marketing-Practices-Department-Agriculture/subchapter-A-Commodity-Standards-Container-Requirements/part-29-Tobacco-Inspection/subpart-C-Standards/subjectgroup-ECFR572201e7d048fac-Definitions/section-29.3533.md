@@ -1,0 +1,7 @@
+##### § 29.3533 Nested. #####
+
+Any lot of Types 35, 36 and 37 tobacco which has been loaded, packed, or arranged to conceal foreign matter or tobacco of inferior grade, quality, or condition. Nested includes:
+
+(a) Any lot of tobacco which contains foreign matter or damaged, injured, tangled, or other inferior tobacco, any of which cannot be readily detected upon inspection because of the way the lot is packed or arranged; (b) any lot of tied tobacco which contains foreign matter in the inner portions of the hands or which contains foreign matter in the heads under the tie leaves; (c) any lot of tied tobacco in which the leaves on the outside of the hands are placed or arranged to conceal inferior quality leaves on the inside of the hands or which contains wet tobacco or tobacco of lower quality in the heads under the tie leaves; and (d) any lot of tobacco which consists of distinctly different grades, qualities, or conditions and which is stacked or arranged in layers with the same kinds together so that the tobacco in the lower layer or layers is distinctly inferior in grade, quality, or condition from the tobacco in the top or upper layers. (See Rule 24, § 29.3625.)
+
+[30 FR 9207, July 23, 1965. Redesignated and amended at 49 FR 16759, Apr. 20, 1984]

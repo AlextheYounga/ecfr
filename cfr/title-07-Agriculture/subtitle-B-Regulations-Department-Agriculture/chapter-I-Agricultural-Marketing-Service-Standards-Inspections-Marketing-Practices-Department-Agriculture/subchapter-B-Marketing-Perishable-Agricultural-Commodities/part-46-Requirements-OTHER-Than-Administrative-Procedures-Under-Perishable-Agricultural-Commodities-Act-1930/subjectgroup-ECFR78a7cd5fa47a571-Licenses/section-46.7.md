@@ -1,0 +1,3 @@
+##### § 46.7 Issuance of license. #####
+
+Upon receipt of a valid application accompanied by the proper fee for a license, and bond, if required, the Director shall, if the applicant is found to be eligible, issue a license certifying that the licensee is authorized to engage in the business of a commission merchant, dealer, or broker. All fees, and any additional sums assessed by the Director in accordance with the Act, shall be deposited in a special fund designated as the “Perishable Agricultural Commodities Act fund.”

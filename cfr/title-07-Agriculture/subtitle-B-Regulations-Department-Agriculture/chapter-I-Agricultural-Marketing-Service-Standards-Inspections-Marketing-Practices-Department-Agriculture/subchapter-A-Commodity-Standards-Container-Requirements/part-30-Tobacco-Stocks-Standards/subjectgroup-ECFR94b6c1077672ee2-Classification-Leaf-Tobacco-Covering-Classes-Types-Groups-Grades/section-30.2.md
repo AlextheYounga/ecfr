@@ -1,0 +1,3 @@
+##### § 30.2 Leaf tobacco. #####
+
+Tobacco in the forms in which it appears between the time it is cured and stripped from the stalk, or primed and cured, and the time it enters into the different manufacturing processes. The acts of stemming, sweating or fermenting, and conditioning are not regarded as manufacturing processes. Leaf tobacco does not include any manufactured or semimanufactured tobacco, stems which have been removed from leaves, cuttings, clippings, trimmings, shorts, or dust.

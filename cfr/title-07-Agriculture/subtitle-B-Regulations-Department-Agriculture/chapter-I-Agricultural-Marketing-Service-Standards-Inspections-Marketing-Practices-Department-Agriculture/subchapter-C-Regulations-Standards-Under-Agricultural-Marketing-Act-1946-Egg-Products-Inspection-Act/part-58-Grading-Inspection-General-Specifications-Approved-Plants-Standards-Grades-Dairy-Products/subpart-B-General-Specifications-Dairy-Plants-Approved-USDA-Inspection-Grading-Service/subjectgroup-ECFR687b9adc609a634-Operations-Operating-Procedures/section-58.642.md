@@ -1,0 +1,3 @@
+##### § 58.642 Quality control tests. #####
+
+All mix ingredients shall be subject to inspection for quality and condition throughout each processing operation. Quality control tests shall be made on flow line samples as often as necessary to check the effectiveness of processing and sanitation and as an aid in correcting deficiencies. Routine analysis shall be made on raw materials and finished products to assure adequate composition, weight or volume control.

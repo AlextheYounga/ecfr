@@ -1,0 +1,3 @@
+##### § 33.50 Apples for processing. #####
+
+The terms “apples for processing” as used in § 33.12 of this part apply only and is restricted to packages of apples which were originally packaged for processing and marked “Cannery” as required by § 33.12(c) of this part. Packages of apples not so originally packaged and marked are not eligible for certification as “apples for processing” for purposes of this part.

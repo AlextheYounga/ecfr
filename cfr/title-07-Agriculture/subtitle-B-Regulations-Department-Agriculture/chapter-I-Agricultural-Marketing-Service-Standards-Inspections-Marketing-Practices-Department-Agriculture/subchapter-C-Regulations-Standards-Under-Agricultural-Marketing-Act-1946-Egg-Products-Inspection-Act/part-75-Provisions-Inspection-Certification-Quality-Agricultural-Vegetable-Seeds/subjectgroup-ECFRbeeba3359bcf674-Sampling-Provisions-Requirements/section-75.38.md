@@ -1,0 +1,3 @@
+##### § 75.38 Lot inspections. #####
+
+Each lot inspection shall be made on the basis of a representative sample obtained from that lot of seed by a licensed inspector or an authorized employee of the Department. Each lot of seed which is offered for lot inspection shall be sealed at the time of sampling in accordance with methods and procedures of the Association of Official Seed Analysts (AOSA) or the International Seed Testing Association (ISTA).

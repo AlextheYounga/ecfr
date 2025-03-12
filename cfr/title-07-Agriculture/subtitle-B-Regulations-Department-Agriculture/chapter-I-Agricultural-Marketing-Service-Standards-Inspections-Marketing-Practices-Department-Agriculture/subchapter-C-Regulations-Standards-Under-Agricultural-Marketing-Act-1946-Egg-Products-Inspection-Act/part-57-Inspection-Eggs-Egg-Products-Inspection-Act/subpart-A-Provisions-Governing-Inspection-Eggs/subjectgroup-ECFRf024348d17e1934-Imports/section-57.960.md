@@ -1,0 +1,5 @@
+##### § 57.960 Small importations for consignee's personal use, display, or laboratory analysis. #####
+
+Any eggs that are offered for importation, exclusively for the consignee's personal use, display, or laboratory analysis, and not for sale or distribution; which is sound, healthful, wholesome, and fit for human food; and which is not adulterated and does not contain any substance not permitted by the Act or regulations, may be admitted into the United States without a foreign inspection certificate. Such product is not required to be inspected upon arrival in the United States and may be shipped to the consignee without further restriction under this part: *Provided,* That the Department may, with respect to any specific importation, require that the consignee certify that such product is exclusively for the consignee's personal use, display, or laboratory analysis and not for sale or distribution. The amount of such product imported shall not exceed 30-dozen shell eggs, unless otherwise authorized by the Administrator.
+
+[63 FR 69968, 69971, Dec. 17, 1998, as amended at 69 FR 57168, Sept. 24, 2004]

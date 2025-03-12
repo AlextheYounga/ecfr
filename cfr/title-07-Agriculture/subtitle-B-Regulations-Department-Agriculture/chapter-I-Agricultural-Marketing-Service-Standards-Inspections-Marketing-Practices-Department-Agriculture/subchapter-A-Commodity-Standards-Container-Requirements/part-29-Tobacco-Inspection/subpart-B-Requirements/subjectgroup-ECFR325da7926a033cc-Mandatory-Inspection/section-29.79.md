@@ -1,0 +1,3 @@
+##### § 29.79 Disposition of ticket. #####
+
+One copy of the mandatory inspection ticket shall be attached to, or placed on, the tobacco certificated as a further identification of the lot and all copies of such ticket shall become null and void when such identifying copy is removed from the lot. When and as requested by the Director, one copy of such ticket, showing (a) the certification of type and grade; (b) the weight and other identification; and (c) the details of the sale at auction, shall be delivered by the warehouseman to the Division or the head inspector of the market.

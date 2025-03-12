@@ -1,0 +1,3 @@
+##### § 29.9261 Procedure to be followed. #####
+
+In certifications based on permissive inspection of nonquota tobacco produced in a state where any quota tobacco is produced, the inspector shall use the Official Standard Grades for all types of quota tobacco. The inspector shall determine by inspecting each lot in the crop-lot whether the crop-lot can be certified as the nonquota tobacco requested by the applicant. If the inspector determines upon inspection that any individual *lot* in the crop-lot meets the specifications of any grade of any quota tobacco, no certificate will be issued on any tobacco in the crop-lot.

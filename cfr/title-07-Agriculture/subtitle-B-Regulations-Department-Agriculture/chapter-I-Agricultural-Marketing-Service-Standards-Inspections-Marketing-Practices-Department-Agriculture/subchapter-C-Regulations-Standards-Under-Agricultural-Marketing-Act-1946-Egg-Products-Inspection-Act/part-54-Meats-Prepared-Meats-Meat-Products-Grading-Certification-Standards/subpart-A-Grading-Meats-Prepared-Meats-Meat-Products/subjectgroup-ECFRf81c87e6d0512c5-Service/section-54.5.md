@@ -1,0 +1,5 @@
+##### § 54.5 Availability of service. #####
+
+Service under these regulations may be made available to products shipped or received in interstate commerce. It also may be made available to the products not shipped or received if the Director or Chief determines that the furnishing of service for such products will facilitate the marketing, distribution, processing, or utilization of agricultural products through commercial channels. Service will be furnished for products only if they were derived from animals slaughtered in federally inspected establishments or establishments operated under state meat inspection in a state other than one designated in 9 CFR 331.2. Service may be furnished for imported carcasses only if an exemption to do so is granted by the Director as described in § 54.20.
+
+[84 FR 48555, Sept. 16, 2019]

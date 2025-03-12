@@ -1,0 +1,3 @@
+##### § 29.38 Public notice. #####
+
+A proclamation by the Secretary under the Act (a) stating that an auction market is designated under the Act; (b) giving notice of such fact; (c) specifying a date when the requirement of inspection and certification under the act shall become effective; and (d) released to the press, mailed to the tobacco board of trade or warehouse association of such market, and mailed to the postmaster at such market for posting.

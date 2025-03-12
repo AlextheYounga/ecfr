@@ -1,5 +1,7 @@
 ##### § 29.2 Definitions. #####
 
+Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14387, Mar. 11, 2020.
+
 *Administrator* means the Administrator of the Office of Apprenticeship, or any person specifically designated by the Administrator.
 
 *Apprentice* means a worker at least 16 years of age, except where a higher minimum age standard is otherwise fixed by law, who is employed to learn an apprenticeable occupation as provided in § 29.4 under standards of apprenticeship fulfilling the requirements of § 29.5.

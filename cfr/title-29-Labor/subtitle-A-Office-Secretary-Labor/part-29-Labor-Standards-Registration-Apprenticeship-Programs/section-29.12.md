@@ -1,5 +1,7 @@
 ##### § 29.12 Complaints. #####
 
+Link to an amendment published at 85 FR 14386, Mar. 11, 2020.
+
 (a) This section is not applicable to any complaint concerning discrimination or other equal opportunity matters; all such complaints must be submitted, processed and resolved in accordance with applicable provisions in 29 CFR part 30, or applicable provisions of a State Plan for Equal Employment Opportunity in Apprenticeship adopted pursuant to 29 CFR part 30 and approved by the Department.
 
 (b) Except for matters described in paragraph (a) of this section, any controversy or difference arising under an apprenticeship agreement which cannot be adjusted locally and which is not covered by a collective bargaining agreement, may be submitted by an apprentice, or the apprentice's authorized representative, to the appropriate Registration Authority, either Federal or State, which has registered and/or approved the program in which the apprentice is enrolled, for review. Matters covered by a collective bargaining agreement are not subject to such review.

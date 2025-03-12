@@ -1,5 +1,7 @@
 ##### § 29.6 Program performance standards. #####
 
+Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14387, Mar. 11, 2020.
+
 (a) Every registered apprenticeship program must have at least one registered apprentice, except for the following specified periods of time, which may not exceed 1 year:
 
 (1) Between the date when a program is registered and the date of registration for its first apprentice(s); or

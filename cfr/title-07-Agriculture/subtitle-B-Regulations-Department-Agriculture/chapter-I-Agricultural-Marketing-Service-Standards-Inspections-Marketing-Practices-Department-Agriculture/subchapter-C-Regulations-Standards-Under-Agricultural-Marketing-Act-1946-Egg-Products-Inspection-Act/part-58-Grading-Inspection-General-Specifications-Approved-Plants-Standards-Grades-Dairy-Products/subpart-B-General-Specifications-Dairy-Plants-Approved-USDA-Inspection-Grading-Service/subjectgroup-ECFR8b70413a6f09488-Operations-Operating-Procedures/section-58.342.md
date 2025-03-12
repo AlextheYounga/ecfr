@@ -1,0 +1,3 @@
+##### § 58.342 General identification. #####
+
+Commercial bulk shipping containers shall be legibly marked with the name of the product, net weight, name and address of manufacturer, processor or distributor or other assigned plant identification (manufacturer's lot number, churn number, etc.) and any other identification that may be required. Packages of plastic or frozen cream shall be marked with the percent of milkfat.

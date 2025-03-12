@@ -1,0 +1,3 @@
+##### § 75.36 Representative sample. #####
+
+No lot inspection sample shall be deemed representative of a lot of seed unless the sample (a) has been obtained by a licensed inspector or an authorized employee of the Department; (b) is of the size prescribed in the instructions; and (c) has been obtained, handled, and submitted in accordance with the Association of Official Seed Analysts (AOSA) or the International Seed Testing Association (ISTA) procedures.

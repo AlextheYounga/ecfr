@@ -1,0 +1,3 @@
+##### § 54.1007 Availability of service. #####
+
+Service under these regulations may be made available to the designers, fabricators, users, or other interested person or party, of the equipment or utensils. Subject to the provisions of this subpart, services shall be performed only when a qualified design review specialist is available, and when the location of the equipment or utensils, evaluation facilities and conditions, as determined by the Chief, are suitable for conducting such service.

@@ -1,0 +1,3 @@
+##### § 58.53 Supervisor of packaging required. #####
+
+The official identification of any inspected or graded product, as provided in §§ 58.50 through 58.52, this section, and §§ 58.54 through 58.57, shall be done only under the supervision of a supervisor of packaging. The authority to use official identification may be granted by the Administrator only to applicants who utilize the services of a supervisor of packaging in accordance with this subpart. The supervisor of packaging shall have jurisdiction over the use and handling of all packaging material bearing any official identification.

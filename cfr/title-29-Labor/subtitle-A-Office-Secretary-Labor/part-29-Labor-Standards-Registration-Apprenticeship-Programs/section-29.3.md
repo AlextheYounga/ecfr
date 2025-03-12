@@ -1,5 +1,7 @@
 ##### § 29.3 Eligibility and procedure for registration of an apprenticeship program. #####
 
+Link to an amendment published at 85 FR 14386, Mar. 11, 2020.Link to an amendment published at 85 FR 14387, Mar. 11, 2020.
+
 (a) Eligibility for registration of an apprenticeship program for various Federal purposes is conditioned upon a program's conformity with the apprenticeship program standards published in this part. For a program to be determined by the Secretary as being in conformity with these published standards, the program must apply for registration and be registered with the Office of Apprenticeship or with a State Apprenticeship Agency recognized by the Office of Apprenticeship. The determination by the Secretary that the program meets the apprenticeship program standards is effectuated only through such registration.
 
 (b) Only an apprenticeship program or agreement that meets the following criteria is eligible for Office of Apprenticeship or State Apprenticeship Agency registration:

@@ -1,0 +1,15 @@
+##### § 58.50 Approval and form of official identification. #####
+
+(a) Any package label or packaging material which bears any official identification shall be used only in such manner as the Administrator may prescribe, and such official identification shall be of such form and contain such information as the Administrator may require. No label or packaging material bearing official identification shall be used unless finished copies or samples thereof have been approved by the Administrator.
+
+(b) Inspection or grade mark permitted to be used to officially identify packages containing dairy products which are inspected or graded pursuant to this part shall be contained in a shield in the form and design indicated in Figures 1, 2, and 3 of this section or such other form, design, or wording as may be approved by the Administrator.
+
+![](/graphics/ec25se91.014.gif)![](/graphics/ec25se91.015.gif)![](/graphics/ec25se91.016.gif)The official identification illustrated in Figure 1 is designed for use on graded product packed under USDA inspection. Figure 2 is designed for graded product processed and packed under USDA inspection. Figure 3 is designated for inspected product (when U.S. standards for grades are not established) processed and packed under USDA quality control service. The official identification shall be printed on the package label, on the carton or on the wrapper and, preferably, on one of the main panels of the carton or wrapper. The shield identification shall be not less than3/4 inch by3/4 inch in size, and preferably 1 inch by 1 inch on 1-pound cartons or wrappers. Consideration will be given by the Administrator of a smaller shield on special packages where the size of the label does not permit use of the3/4 inch by3/4 inch shield.
+
+(c) Official identification under this subpart shall be limited to U.S. Grade B or higher or to an equivalent standard of quality for U.S. name grades or numerical score grades when U.S. standards for grades of a product have not been established.
+
+(d) A sketch, proof, or photocopy of each proposed label or packaging material bearing official identification shall be submitted to the Chief of the Dairy Inspection Branch, Poultry and Dairy Quality Division, Agricultural Marketing Service, U.S. Department of Agriculture, Washington, DC 20250, for review and tentative approval prior to acquisition of a supply of material.
+
+(e) The firm packaging the product shall furnish to the Chief four copies of the printed labels and packaging materials bearing official identification for final approval prior to use.
+
+(60 Stat. 1087, 7 U.S.C. 1621 *et seq.*; 84 Stat. 1620, 21 U.S.C. 1031 *et seq.*)[37 FR 22363, Oct. 19, 1972, as amended at 39 FR 987, Jan. 4, 1974. Redesignated at 42 FR 32514, June 27, 1977, as amended at 43 FR 60138, Dec. 26, 1978. Redesignated at 46 FR 63203, Dec. 31, 1981]

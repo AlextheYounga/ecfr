@@ -1,0 +1,7 @@
+##### § 58.527 Physical requirements. #####
+
+(a) *Flavor.* The cottage cheese shall possess a mild pleasing flavor, similar to fresh whole milk or light cream and may possess the delicate flavor and aroma of a good lactic starter. The product may possess to a slight degree a feed, acid, or salty flavor but shall be free from chalky, bitter, utensil, fruity, yeasty, or other objectionable flavors.
+
+(b) *Body and texture.* The curd particles shall have a meaty texture, but sufficiently tender to permit proper absorption of cream or cheese dressing. The texture shall be smooth and velvety and shall not be mealy, crumbly, pasty, sticky, mushy, watery, rubbery or slimy or possess any other objectionable characteristics of body and texture. Small curd style (cut with1/4 inch knives) should have curd particles approximately1/4 inch or less in size. Large curd style (cut with knives over1/4 inch) should have curd particles approximately3/8 inch or more in size.
+
+(c) *Color and appearance.* The finished cottage cheese, creamed or plain curd, shall have an attractive natural color and appearance with curd particles of reasonably uniform size. The creamed cottage cheese shall be uniformly mixed with the cream or dressing properly absorbed or adhering to the curd so as to prevent excessive drainage.

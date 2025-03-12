@@ -1,0 +1,3 @@
+##### § 75.27 How to file an appeal. #####
+
+Any request for an appeal inspection may be made orally or in writing to the Federal Seed Laboratory. If made orally, written confirmation is required. The applicant shall clearly state the reasons for requesting the appeal service. The original and all available copies of the certificate shall be returned to the appeal inspector assigned to make the appeal inspection.

@@ -1,0 +1,3 @@
+##### § 58.626 Packaging equipment. #####
+
+Packaging equipment designed to mechanically fill and close single service containers with frozen desserts shall be constructed so that all product contact surfaces shall be of stainless steel or equally corrosion-resistant metal. All product contact surfaces shall be easily accessible for cleaning. The design and operation of the machine shall in no way contaminate the container of the finished product placed therein. New or replacement equipment shall comply with the 3A Sanitary Standards for Equipment for Packaging Frozen Desserts and Cottage Cheese.

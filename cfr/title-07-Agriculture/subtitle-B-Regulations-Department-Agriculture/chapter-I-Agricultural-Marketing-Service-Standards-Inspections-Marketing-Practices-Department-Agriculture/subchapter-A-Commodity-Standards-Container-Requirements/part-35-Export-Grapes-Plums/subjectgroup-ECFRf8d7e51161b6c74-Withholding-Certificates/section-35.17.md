@@ -1,0 +1,3 @@
+##### § 35.17 Service of notice or order. #####
+
+Service of any notice or order required by the Act or prescribed by the regulations in this part shall be deemed sufficient if made personally upon the person served, by registered mail, or by leaving a copy of such notice or order with an employee or agent at such person's usual place of business or abode or with any member of his immediate family at his place of abode. If the person named is a partnership, association, or corporation, service may similarly be made by service on any member of the partnership or any officer, employee, or agent of the association or corporation.

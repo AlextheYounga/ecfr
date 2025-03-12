@@ -1,0 +1,9 @@
+##### § 36.1 General information. #####
+
+The Agricultural Marketing Service (AMS or agency) of the U.S. Department of Agriculture (USDA) facilitates the fair and efficient marketing of agricultural products by promulgating voluntary official grade standards for dairy, fresh and processed fruits and vegetables, livestock, meats and meat products, eggs, poultry and rabbit products, tobacco, wool, mohair, and other agricultural products. AMS standards provide a uniform language for describing the quality of various agricultural commodities in the marketplace. These standards may cover (but are not limited to) terms, classes, sizes (including quantities of packaged consumer agricultural commodities), dimensions, capacities, quality levels, performance criteria, inspection requirements, marking requirements, testing equipment, test procedures, and installation procedures.
+
+(a) Grade standards are officially designated as U.S. Grade Standards and the AMS assigns each grade standard an appropriate identification number. AMS develops, revises, suspends, or terminates official grade standards under procedures that allows for input by interested parties.
+
+(b) These procedures set forth the process by which AMS will develop, revise, suspend, or terminate the U.S. standards.
+
+(c) Communications about AMS standards in general should be addressed to the Administrator, Attention: Functional Committee for Standards. Communications about specific standards (such as a request to develop or revise a standard) should be addressed to the Director of the appropriate Division (Dairy, Fruit and Vegetable, Livestock and Seed, Poultry, or Tobacco). All communications should include in the address: Agricultural Marketing Service, U.S. Department of Agriculture, P.O. Box 96456, Washington, DC 20090-6456.

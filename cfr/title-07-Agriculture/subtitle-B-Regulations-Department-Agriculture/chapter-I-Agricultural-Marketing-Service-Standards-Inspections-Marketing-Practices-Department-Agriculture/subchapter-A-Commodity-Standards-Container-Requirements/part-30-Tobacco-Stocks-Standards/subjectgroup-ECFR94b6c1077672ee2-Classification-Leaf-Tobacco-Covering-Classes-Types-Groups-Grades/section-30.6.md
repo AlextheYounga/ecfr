@@ -1,0 +1,3 @@
+##### § 30.6 Type. #####
+
+A subdivision of a class of leaf tobacco, having certain common characteristics which permit of its being divided into a number of related grades. Any tobacco that has the same characteristics and corresponding qualities, colors, and lengths, shall be treated as one type, regardless of any factors of historical or geographical nature which cannot be determined by an examination of the tobacco.

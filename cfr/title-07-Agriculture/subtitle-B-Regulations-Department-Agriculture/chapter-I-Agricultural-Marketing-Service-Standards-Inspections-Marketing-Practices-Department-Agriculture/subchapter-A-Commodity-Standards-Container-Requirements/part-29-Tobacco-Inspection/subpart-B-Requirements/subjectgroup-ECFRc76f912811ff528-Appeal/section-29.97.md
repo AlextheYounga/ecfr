@@ -1,0 +1,3 @@
+##### § 29.97 Who shall pass upon appeals. #####
+
+Appeals shall be passed upon by an appeal inspector designated for the purpose by the Director. When authorized, by the Director, two or more appeal inspectors may jointly pass upon an appeal. The Division may authorize an inspector, supervising inspector, or other person to act as an appeal inspector, but no appeal inspector shall pass upon an appeal involving the correctness of a certificate issued or sample prepared by him.

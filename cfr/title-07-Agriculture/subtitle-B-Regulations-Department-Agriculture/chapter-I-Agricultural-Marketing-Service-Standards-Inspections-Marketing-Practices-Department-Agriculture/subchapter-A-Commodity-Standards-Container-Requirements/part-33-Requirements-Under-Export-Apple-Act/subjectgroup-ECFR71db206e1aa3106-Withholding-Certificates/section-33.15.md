@@ -1,0 +1,3 @@
+##### § 33.15 Suspension of inspection. #####
+
+Any order to withhold the issuance of a certificate, as provided in section 6 of the Act, will be effective from the date specified in the order but no earlier than the date of its service upon the person found to have been guilty. Such order will state the inclusive dates during which it is to remain in effect, and during this period no inspector employed or licensed by the Secretary shall issue any Export Form Certificate or Memorandum of Inspection to such person.

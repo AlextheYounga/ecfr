@@ -1,0 +1,3 @@
+##### § 58.317 Bulk butter trucks, boats, texturizers, and packers. #####
+
+Bulk butter trucks, boats, texturizers, and packers shall be constructed of aluminum, stainless steel, or equally corrosion resistant metal free from cracks, seams and must have a surface that is relatively smooth and easily cleanable. All non-metallic product surfaces shall comply with 3-A Standards for Plastic, Rubber, and Rubber-Like Material.

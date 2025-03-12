@@ -1,0 +1,3 @@
+##### § 58.224 Sifters. #####
+
+All newly installed sifters used for dry milk and dry milk products shall comply with the 3-A Sanitary Standards for Sifters for Dry Milk and Dry Milk Products. All other sifters shall be constructed of stainless steel or other equally noncorrosive material and shall be of sanitary construction and accessible for cleaning and inspection. The mesh size of sifter screen used for various dry dairy products shall be those recommended in the appendix of the 3-A Standard for sifters.

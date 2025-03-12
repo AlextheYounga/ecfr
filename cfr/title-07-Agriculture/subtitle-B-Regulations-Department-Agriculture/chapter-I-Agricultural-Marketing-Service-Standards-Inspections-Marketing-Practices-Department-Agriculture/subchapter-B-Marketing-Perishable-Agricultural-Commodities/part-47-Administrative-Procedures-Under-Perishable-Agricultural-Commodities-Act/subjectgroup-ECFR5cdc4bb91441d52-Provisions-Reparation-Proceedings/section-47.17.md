@@ -1,0 +1,9 @@
+##### § 47.17 Subpoenas. #####
+
+(a) *Issuance of subpoenas.* The attendance of witnesses and the production of documentary evidence from any place in the United States on behalf of any party to the proceeding may, by subpoena, be required at any designated place of hearing or at any designated place for the taking of a deposition. Subpoenas may be issued by the Secretary, or by the examiner, over the facsimile signature of the Secretary upon a reasonable showing by the applicant of the grounds, necessity, and reasonable scope thereof. Except for good cause shown, applications for subpoenas shall be filed with the Hearing Clerk at least 30 days prior to the designated date of hearing or deposition. Except for good cause shown, the examiner shall not issue subpoenas less than 20 days prior to the designated date of hearing or deposition.
+
+(b) *Application for subpoena duces tecum.* Subpoenas for the production of documentary evidence shall be issued only upon a verified written application. Such application shall specify, as exactly as possible, the documents desired and shall show their competency, relevancy, materiality, and the necessity for their production.
+
+(c) *Service of subpoenas.* Subponeas may be served by any person not less than 18 years of age. The party at whose instance a subponea is issued shall be responsible for service thereof. Subpoenas shall be served as provided in § 47.4.
+
+[10 FR 2209, Feb. 27, 1945; 11 FR 224, Jan. 4, 1946; 19 FR 57, Jan. 6, 1954, as amended at 38 FR 30445, Nov. 5, 1973; 56 FR 175, Jan. 3, 1991; 60 FR 8462, Feb. 14, 1995; 64 FR 38107, July 15, 1999]

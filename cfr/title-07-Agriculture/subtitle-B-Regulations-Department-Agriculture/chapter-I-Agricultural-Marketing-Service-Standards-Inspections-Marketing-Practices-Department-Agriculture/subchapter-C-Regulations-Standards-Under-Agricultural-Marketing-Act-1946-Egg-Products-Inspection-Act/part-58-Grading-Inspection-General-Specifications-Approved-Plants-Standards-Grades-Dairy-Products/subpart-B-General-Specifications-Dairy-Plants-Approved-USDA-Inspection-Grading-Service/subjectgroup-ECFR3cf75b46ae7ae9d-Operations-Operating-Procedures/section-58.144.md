@@ -1,0 +1,3 @@
+##### § 58.144 Pasteurization or ultra-pasteurization. #####
+
+When pasteurization or ultra-pasteurization is intended or required, or when a product is designated “pasteurized” or “ultra-pasteurized” every particle of the product shall be subjected to such temperatures and holding periods in approved systems as will assure proper pasteurization or ultra-pasteurization of the product. The heat treatment by either process shall be sufficient to insure public health safety and to assure adequate keeping quality, yet retaining the most desirable flavor and body characteristics of the finished product.

@@ -1,0 +1,5 @@
+##### § 27.3 Requirements of subsection 15b(f) of the Act. #####
+
+The inspection, sampling, classification, and Micronaire determination of cotton pursuant to subsection 15b(f) of the Act shall be performed as prescribed in this subpart. All tenders of cotton and settlements therefor under basis grade contracts shall be made subject to the regulations in this subpart. No contract shall for the purposes of this subpart be deemed to comply with subsection 15b(f) of the Act if it contain or incorporate therein, by reference or otherwise, any provision or any bylaw, rule, or custom of an exchange which is inconsistent or in conflict with any requirement of said subsection 15b(f), nor if the parties enter into any collateral or additional agreement or understanding, either verbal or written, respecting the subject matter of such contract which is inconsistent or in conflict with any requirement of said subsection 15b(f).
+
+[42 FR 40677, Aug. 11, 1977]
