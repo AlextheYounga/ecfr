@@ -50,4 +50,4 @@
 
 (w) *VRS access technology.* The term “VRS access technology” shall have the same meaning given to the term in § 64.601(a) of this part.
 
-[78 FR 40613, July 5, 2013, as amended at 82 FR 17765, Apr. 13, 2017]Effective Date Note:At 82 FR 17765, Apr. 13, 2017, § 64.5103(m) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[78 FR 40613, July 5, 2013, as amended at 82 FR 17765, Apr. 13, 2017]

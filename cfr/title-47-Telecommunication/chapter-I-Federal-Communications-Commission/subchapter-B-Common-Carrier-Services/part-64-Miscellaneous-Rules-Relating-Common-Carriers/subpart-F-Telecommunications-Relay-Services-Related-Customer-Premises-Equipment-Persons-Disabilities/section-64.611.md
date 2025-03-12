@@ -124,4 +124,4 @@
 
 (2) VRS and IP Relay providers must obtain and keep a record of affirmative acknowledgment by every Registered Internet-based TRS User of having received and understood the advisory described in this subsection.
 
-[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 39683, Aug. 22, 2017]Effective Date Note:At 82 FR 17763, Apr. 13, 2017, § 64.611 was amended in part by adding paragraphs (a)(5) and (g)(1)(vii) and revising (c)(2)(i). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[73 FR 41295, July 18, 2008, as amended at 76 FR 59557, Sept. 27, 2011; 78 FR 40608, July 5, 2013; 82 FR 17763, Apr. 13, 2017; 82 FR 39683, Aug. 22, 2017]

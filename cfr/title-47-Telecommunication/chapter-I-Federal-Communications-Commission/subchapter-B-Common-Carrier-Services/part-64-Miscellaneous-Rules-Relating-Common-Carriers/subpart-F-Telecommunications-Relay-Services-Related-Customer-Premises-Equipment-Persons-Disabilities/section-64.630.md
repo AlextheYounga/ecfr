@@ -4,4 +4,4 @@
 
 (b) For purposes of §§ 64.630 through 64.636, the term *iTRS users* is defined as any individual that has been assigned a ten-digit NANP number from the TRS Numbering Directory for IP Relay, VRS, or point-to-point video service.
 
-[82 FR 17764, Apr. 13, 2017]Effective Date Note:At 82 FR 17764, Apr. 13, 2017, § 64.630 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 17764, Apr. 13, 2017]
