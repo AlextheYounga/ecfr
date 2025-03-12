@@ -1,8 +1,46 @@
 ##### § 17.84 Special rules—vertebrates. #####
 
-Link to an amendment published at 88 FR 19894, Apr. 4, 2023.
+(a) Guam kingfisher, sihek (*Todiramphus cinnamominus*).
 
-(a) [Reserved]
+(1) *Where is the occurrence of sihek designated as a nonessential experimental population (NEP)?* The nonessential experimental population (NEP) area for the sihek is Palmyra Atoll. Palmyra Atoll is located in the Northern Line Islands, approximately 1,000 miles (1,609 km) south of Honolulu, Hawaii (5° 53′N latitude, 162° 05′W longitude). The extent of the NEP area for sihek is the 250 ha (618 ac) of emergent land distributed among 25 islands, inclusive of the lagoons surrounding those islands.
+
+(2) *What take of sihek is allowed in the NEP area?* (i) Throughout the sihek NEP area, you will not be in violation of the Act if you take a sihek, provided such take is nonnegligent and incidental to a lawful activity, such as habitat management, invasive species management, or scientific research and monitoring, and you report the take as soon as possible as provided under paragraph (a)(2)(iii) of this section.
+
+(ii) Any person with a valid permit issued by the Service under § 17.32 may take sihek in the NEP area, pursuant to the terms of the permit. Additionally, any employee or authorized agent of the Service, Guam Division of Aquatic and Wildlife Resources, The Nature Conservancy, Zoological Society of London, or Association of Zoos and Aquariums, who is designated and trained to capture, handle, band, attach transmitters, and collect biological samples, when acting in the course of official duties, may take a sihek within the NEP area if such action is necessary to:
+
+(A) Handle birds for scientific purposes such as banding, measuring, and sample collection;
+
+(B) Relocate individuals or bring individuals into captivity for the purposes of increasing sihek survival or fecundity;
+
+(C) Aid a sick, injured, or orphaned sihek;
+
+(D) Salvage a dead specimen that may be useful for scientific study;
+
+(E) Dispose of a dead specimen;
+
+(F) Aid in law enforcement investigations involving the sihek; or
+
+(G) Take sihek into captivity in accordance with the exit strategy of the program (see paragraph (a)(5) of this section).
+
+(iii) Any take pursuant to paragraph (a)(2)(i) or (a)(2)(ii)(C) through (E) of this section must be reported as soon as possible to the Permits Coordinator, Pacific Islands Fish and Wildlife Office, 300 Ala Moana Boulevard, Room 3-122, Honolulu, Hawaii 96850 (808/792-9400), who will determine the disposition of any live or dead specimens.
+
+(3) *What take of sihek is not allowed in the NEP area?* (i) Except as expressly allowed in paragraph (a)(2) of this section, all of the provisions of § 17.31(a) and (b) apply to the sihek in areas identified in paragraph (a)(1) of this section, and any manner of take of a member of the NEP not described under paragraph (a)(2) of this section is prohibited.
+
+(ii) You must not possess, sell, deliver, carry, transport, ship, import, or export, by any means whatsoever, any sihek or part thereof from the experimental population taken in violation of the regulations in this paragraph (a) or in violation of applicable Territorial laws or regulations or the Act.
+
+(iii) It is unlawful for you to attempt to commit, solicit another to commit, or cause to be committed, any take of sihek, except as expressly allowed in paragraph (a)(2) of this section.
+
+(4) *How will the effectiveness of this introduction be monitored?* The Service will evaluate the introduction on an annual basis. This evaluation will include, but will not be limited to, a review and assessment of management issues, sihek movements, and post-release behavior; food resources and dependence of sihek on supplemental food; fecundity of the population; causes and rates of mortality; program costs; impacts to the ex situ population; and information gathered to inform releases on Guam or other sites.
+
+(5) *When will this introduction end?* Depending on the circumstances, the Service may either terminate the release program or temporarily pause the release program to address identified issues before resuming. When the Service terminates the program, the Service will address the disposition of any remaining individuals in the NEP, *i.e.,* whether they will be relocated to captivity or to other suitable habitat or whether they would remain on Palmyra, based on the circumstances at the time of termination.
+
+(i) The Service will terminate the release program on Palmyra Atoll if monitoring indicates that:
+
+(A) The benefits from the Palmyra population (including developing and refining release and support strategies for eventual releases on Guam) no longer outweigh the risks to the species or the welfare of the NEP or ex situ population; or
+
+(B) Unacceptable impacts on the ecosystem can be clearly causally linked to the introduction of sihek.
+
+(ii) The Service may also terminate the release program when one or more of the objectives of the program have been achieved (e.g., we have developed successful release and monitoring methodologies to apply to future release efforts or we have demonstrated that sihek can survive and reproduce in the wild without human intervention).
 
 (b) Colorado squawfish (*Ptychocheilus lucius*) and woundfin (*Plagopterus* argentissimus). (1) The Colorado squawfish and woundfin populations identified in paragraph (b)(6) of this section, are experimental, nonessential populations.
 

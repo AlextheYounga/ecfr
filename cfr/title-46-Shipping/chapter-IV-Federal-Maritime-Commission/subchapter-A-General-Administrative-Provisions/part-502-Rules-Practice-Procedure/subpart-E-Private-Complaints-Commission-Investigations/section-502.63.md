@@ -1,8 +1,6 @@
 ##### § 502.63 Commission enforcement action. #####
 
-Link to an amendment published at 88 FR 23363, Apr. 17, 2023.
-
-(a) The Commission may issue an Order of Investigation and Hearing commencing an adjudicatory investigation against one or more respondents alleging one or more violations of the statutes that it administers.
+(a) The Commission may issue an Order of Investigation and Hearing commencing an adjudicatory investigation against one or more respondents alleging one or more violations of the statutes that it administers. Prior to recommending the issuance of an Order of Investigation and Hearing, BEIC will provide a respondent with notice of BEIC's intent and provide the respondent with the opportunity to make a written submission within 15 days for consideration by the Commission.
 
 (b) *Contents of Order of Investigation and Hearing.* The Order of Investigation and Hearing must contain the following:
 
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 23363, Apr. 17, 2023.
 
 (ii) The Bureau of Enforcement may make a motion for decision on default.
 
-(d) *Pre-enforcement process.* (1) Prior to recommending formal enforcement action under this section or informal compromise procedures under § 502.604, the Bureau of Enforcement will advise the person or persons who are the subject of an investigation that:
+(d) *Informal enforcement process.* (1) BEIC may issue a Notice of Violations (NOV) to provide the person or persons with notice of the alleged violations and provide the opportunity for informal resolution of such claims pursuant to the procedures in § 502.604. [Rule 63.]
 
 (i) The Bureau of Enforcement has made a preliminary determination to recommend that the Commission initiate enforcement action against them;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 88 FR 23363, Apr. 17, 2023.
 
 (3) The Bureau of Enforcement will consider any written statements submitted under paragraph (d)(2) of this section when making recommendations to the Commission and will attach such written statements to the Bureau's recommendations. [Rule 63.]
 
-[77 FR 61524, Oct. 10, 2012, as amended at 84 FR 54040, Oct. 9, 2019]
+[77 FR 61524, Oct. 10, 2012, as amended at 84 FR 54040, Oct. 9, 2019; 88 FR 23363, Apr. 17, 2023]
