@@ -1,0 +1,9 @@
+##### § 1.1232-4 Obligations with excess coupons detached. #####
+
+Section 1232(c) provides that if an obligation which is issued at any time with interest coupons:
+
+(a) Is purchased after August 16, 1954, and before January 1, 1958, and the purchaser does not receive all the coupons which first become payable more than 12 months after the date of the purchase, or
+
+(b) Is purchased after December 31, 1957, and the purchaser does not receive all the coupons which first become payable after the date of purchase,
+
+Any gain on the later sale or other disposition of the obligation by the purchaser (or by a transferee of the purchaser whose basis is determined by reference to the basis of the obligation in the hands of the purchaser) shall be treated as ordinary income to the extent that the fair market value of the obligation (determined as of the time of the purchase) with coupons attached exceeds the purchase price. If both the preceding sentence and section 1232(a)(2) apply with respect to the gain realized on the retirement or other disposition of an obligation, then section 1232(a)(2) shall apply only with respect to that part of the gain to which the preceding sentence does not apply. For example, a $100 bond which sells at $90 with all its coupons attached is purchased by A for $80 with 3 years' coupons detached. Three years later, A sells the bond for $92. The first $10 of the $12 profit is taxable as ordinary income. The remaining $2 gain is taxable either as ordinary income or as long-term capital gain, depending upon the application of section 1232(a)(2). Pursuant to section 7851(a)(1)(C), the regulations prescribed in this section shall also apply to taxable years beginning before January 1, 1954, and ending after December 31, 1953, although such years are subject to the Internal Revenue Code of 1939.[T.D. 7154, 36 FR 25009, Dec. 28, 1971]

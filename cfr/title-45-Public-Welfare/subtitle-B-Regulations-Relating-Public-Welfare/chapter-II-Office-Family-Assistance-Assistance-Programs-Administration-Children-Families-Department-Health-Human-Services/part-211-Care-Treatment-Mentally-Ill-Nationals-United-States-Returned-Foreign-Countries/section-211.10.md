@@ -1,0 +1,5 @@
+##### § 211.10 Termination of hospitalization. #####
+
+(a) *Discharge or conditional release.* If, following an examination, the head of the hospital finds that the eligible person hospitalized for mental illness (whether or not pursuant to a judicial commitment) is not in need of such hospitalization, he shall be discharged. In the case where hospitalization was pursuant to a judicial commitment, the head of the hospital may, in accordance with laws governing hospitalization for mental illness as may be in force and generally applicable in the State in which the hospital is located, conditionally release him if he finds that this is in his best interests.
+
+(b) *Notification to committing court.* In the case of any person hospitalized under § 211.8 who has been judicially committed to the custody of the Secretary, the Secretary will notify the committing court in writing of the discharge or conditional release of such person under this section or of his transfer and release under § 211.7.

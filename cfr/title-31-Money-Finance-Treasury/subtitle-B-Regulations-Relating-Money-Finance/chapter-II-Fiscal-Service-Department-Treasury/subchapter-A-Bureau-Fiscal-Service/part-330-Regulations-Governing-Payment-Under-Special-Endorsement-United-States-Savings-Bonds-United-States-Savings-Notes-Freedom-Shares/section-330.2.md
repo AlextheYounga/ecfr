@@ -1,0 +1,9 @@
+##### § 330.2 Qualification for use of special endorsement. #####
+
+(a) *Application for authority.* Any financial institution qualified as a paying agent of savings bonds and notes under the provisions of Department of the Treasury Circular No. 750, current revision, may establish its eligibility to employ the special endorsement procedure by executing and submitting the appropriate application-agreement form to the designated Federal Reserve Bank. In executing the form, the agent certifies that, by duly executed resolution of its governing board or committee, it has been authorized to apply for the privilege of paying and processing securities in accordance with the provisions and conditions of this part (Circular No. 888, including all supplements, amendments, and revisions, and any related instructions). If the application is approved, the designated Federal Reserve Bank will issue a certificate of qualification.
+
+(b) *Agents previously qualified.* Paying agents qualified under previous revisions of this part are authorized to continue to act without requalification. They shall, however, be subject to the terms and conditions of the previously executed application and these regulations in the same manner and to the same extent as though they had requalified hereunder.
+
+(c) *Termination of qualification.* The Secretary of the Treasury reserves the right to withdraw the special endorsement authority from any paying agent at any time. Such authority will also be terminated at any time at the request of the paying agent. In either event, formal notice of the termination shall be given to the agent in writing by the designated Federal Reserve Bank.
+
+[53 FR 37519, Sept. 26, 1988, as amended at 59 FR 10539, Mar. 4, 1994]

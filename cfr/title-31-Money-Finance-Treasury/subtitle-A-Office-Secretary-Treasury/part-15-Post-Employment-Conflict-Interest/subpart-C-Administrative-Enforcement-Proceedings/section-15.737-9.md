@@ -1,0 +1,3 @@
+##### § 15.737-9 Receipt of information concerning former Treasury employee. #####
+
+If an officer or employee of the Department has reason to believe that a former officer or employee of the Department has violated 18 U.S.C. 207 (a), (b) or (c), or if any such officer or employee receives information to that effect, he/she shall promptly make a written report thereof, which report or a copy thereof shall be forwarded to the Inspector General, Department of the Treasury. If any other person has information of such violations, he/she may make a report thereof to the Inspector General or to any officer or employee of the Department. The Inspector General shall refer any information he/she deems warranted to the Director.

@@ -1,0 +1,3 @@
+##### § 34.701 Responsibility for administration—Centers of Excellence Research Grants Program. #####
+
+Treasury is responsible for awarding grants to the Gulf Coast States, which will use the amounts made available to award grants to nongovernmental entities and consortia in the Gulf Coast Region for the establishment of Centers of Excellence. Treasury will develop and apply policies and procedures consistent with this Act and Federal laws and policies on grants. Each Gulf Coast State entity issuing grants must establish and implement a program to monitor compliance with its subaward agreements.

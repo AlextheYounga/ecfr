@@ -1,0 +1,3 @@
+##### § 501.901 Paperwork Reduction Act notice. #####
+
+The information collection requirements in subparts C and D have been approved by the Office of Management and Budget (“OMB”) under the Paperwork Reduction Act (44 U.S.C. 3507(j)) and assigned control number 1505-0164. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid control number assigned by OMB.

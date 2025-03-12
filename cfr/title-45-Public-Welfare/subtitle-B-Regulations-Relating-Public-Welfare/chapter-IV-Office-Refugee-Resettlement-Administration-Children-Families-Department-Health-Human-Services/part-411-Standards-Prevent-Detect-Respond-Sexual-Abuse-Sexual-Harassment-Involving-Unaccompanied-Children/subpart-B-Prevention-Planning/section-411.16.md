@@ -1,0 +1,17 @@
+##### § 411.16 Hiring and promotion decisions. #####
+
+(a) Care provider facilities are prohibited from hiring or promoting any individual who may have contact with UCs and must not enlist the services of any contractor or volunteer who may have contact with UCs and who engaged in: Sexual abuse in a prison, jail, holding facility, community confinement facility, juvenile facility, other institution (as defined in 42 U.S.C. 1997), or care provider facility; who was convicted of engaging or attempting to engage in sexual activity facilitated by force, overt or implied threats of force, or coercion, or if the victim did not consent or was unable to consent or refuse; or who was civilly or administratively adjudicated to have engaged in such activity.
+
+(b) Care provider facilities considering hiring or promoting staff must ask all applicants who may have direct contact with UCs about previous misconduct described in paragraph (a) of this section in written applications or interviews for hiring or promotions and in any interviews or written self-evaluations conducted as part of performance evaluations of current employees. Care provider facilities also must impose upon employees a continuing affirmative duty to disclose any such misconduct, whether the conduct occurs on or off duty. Care provider facilities, consistent with law, must make their best efforts to contact all prior institutional employers of an applicant for employment to obtain information on substantiated allegations of sexual abuse or sexual harassment or any resignation during a pending investigation of alleged sexual abuse or sexual harassment.
+
+(c) Prior to hiring new staff who may have contact with UCs, the care provider facility must conduct a background investigation to determine whether the candidate for hire is suitable for employment with minors in a residential setting. Upon ORR request, the care provider facility must submit all background investigation documentation for each staff member and the care provider facility's conclusions.
+
+(d) Care provider facilities also must perform a background investigation before enlisting the services of any contractor or volunteer who may have contact with UCs. Upon ORR request, the care provider facility must submit all background investigation documentation for each contractor or volunteer and the care provider facility's conclusions.
+
+(e) Care provider facilities must either conduct a criminal background records check at least every five years for current employees, contractors, and volunteers who may have contact with UCs or have in place a system for capturing the information contained in a criminal background records check for current employees.
+
+(f) Material omissions regarding such misconduct or the provision of materially false information by the applicant or staff will be grounds for termination or withdrawal of an offer of employment, as appropriate.
+
+(g) Unless prohibited by law, the care provider facility must provide information on substantiated allegations of sexual abuse or sexual harassment involving a former employee upon receiving a request from another care provider facility or institutional employer for whom such employee has applied to work.
+
+(h) In the event the care provider facility contracts with an organization to provide residential services and/or other services to UCs, the requirements of this section also apply to the organization and its staff.

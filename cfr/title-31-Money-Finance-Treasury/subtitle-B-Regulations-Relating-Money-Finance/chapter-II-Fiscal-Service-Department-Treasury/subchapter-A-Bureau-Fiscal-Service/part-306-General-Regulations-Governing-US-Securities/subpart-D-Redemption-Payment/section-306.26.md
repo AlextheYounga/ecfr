@@ -1,0 +1,5 @@
+##### § 306.26 Redemption of registered securities at maturity, upon prior call, or for prerefunding or advance refunding. #####
+
+Registered securities presented and surrendered for redemption at maturity or pursuant to a call for redemption before maturity need not be assigned, unless the owner desires that payment be made to some other person, in which case assignments should be made to “The Secretary of the Treasury for redemption for the account of (inserting name and address of person to whom payment is to be made). Specific instructions for the issuance and delivery of the redemption check, signed by the owner or his authorized representative, must accompany the securities, unless included in the assignment. (Form PD 3905 may be used.) Payment of the principal will be made by check drawn on the United States Treasury to the order of the persons entitled and mailed in accordance with the instructions received. Securities presented for prerefunding or advance refunding should be assigned as provided in the prerefunding or advance refunding offer.
+
+[64 FR 38126, July 15, 1999]

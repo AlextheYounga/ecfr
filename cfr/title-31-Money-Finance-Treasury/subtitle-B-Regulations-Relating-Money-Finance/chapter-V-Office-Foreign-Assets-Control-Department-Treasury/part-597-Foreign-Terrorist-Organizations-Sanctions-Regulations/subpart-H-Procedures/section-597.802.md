@@ -1,0 +1,3 @@
+##### § 597.802 Delegation by the Secretary of the Treasury. #####
+
+Any action which the Secretary of the Treasury is authorized to take pursuant to 8 U.S.C. 1189 or 18 U.S.C. 2339B, as added by Public Law 104-132, 110 Stat. 1248-1253, sections 302 and 303, may be taken by the Director of the Office of Foreign Assets Control, or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

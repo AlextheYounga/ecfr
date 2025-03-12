@@ -1,0 +1,3 @@
+##### § 34.105 Waiver. #####
+
+To the extent not inconsistent with applicable law, Treasury may waive or modify a requirement in the regulations in this part in a single case or class of cases if the Secretary determines, in his or her sole discretion, that the requirement is not necessary for the deposit of amounts into, or the expenditure of amounts from, the Trust Fund. Treasury will provide public notice of any waivers or modifications granted that materially change a regulatory requirement.

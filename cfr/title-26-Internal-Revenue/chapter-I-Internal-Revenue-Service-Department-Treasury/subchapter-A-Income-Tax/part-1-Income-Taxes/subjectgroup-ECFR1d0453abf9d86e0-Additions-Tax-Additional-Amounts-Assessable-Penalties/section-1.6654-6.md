@@ -1,0 +1,7 @@
+##### § 1.6654-6 Nonresident alien individuals. #####
+
+(a) *In general.* A nonresident alien individual is required to make a payment of estimated tax if that individual's gross income meets the requirements of section 6654 and § 1.6654-1. In making the determination under section 6654 as to whether the amount of the gross income of a nonresident alien individual is such as to require making a payment of estimated income tax, only the filing status relating to a single individual (other than a head of household) or to a married individual not entitled to file a joint return shall apply, unless an election is in effect 1 for the taxable year under section 6013(g) or (h) and the regulations.
+
+(b) *Determination of gross income.* To determine the gross income of a nonresident alien individual who is not, or does not expect to be, a bona fide resident of Puerto Rico or a possession to which section 931 applies during the entire taxable year, see section 872 and §§ 1.872-1 and 1.872-2. To determine the gross income of a nonresident alien individual who is, or expects to be, a bona fide resident of Puerto Rico or a possession to which section 931 applies during the entire taxable year, see section 876 and the regulations. For rules for determining whether an individual is a bona fide resident of a United States possession (including Puerto Rico), see section 937 and the regulations.
+
+[T.D. 9224, 70 FR 52301, Sept. 2, 2005]

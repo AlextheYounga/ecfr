@@ -1,0 +1,3 @@
+##### § 1622.10 Report to Congress. #####
+
+The Corporation shall report to the Congress annually regarding its compliance with the requirements of the Government in the Sunshine Act, 5 U.S.C. 552(b), including a tabulation of the number of meetings open to the public, the number of meetings or portions of meetings closed to the public, the reasons for closing such meetings or portions thereof, and a description of any litigation brought against the Corporation under 5 U.S.C. 552b, including any costs assessed against the Corporation in such litigation.

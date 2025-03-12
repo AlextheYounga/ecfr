@@ -1,0 +1,3 @@
+##### § 400.67 Non-applicable TANF requirements. #####
+
+States that choose to operate an RCA program modeled after TANF may not apply certain TANF requirements to refugee cash assistance applicants or recipients as follows: TANF work requirements may not apply to RCA applicants or recipients, and States must meet the requirements in subpart I of this part with respect to the provision of services for RCA recipients.

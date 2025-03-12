@@ -1,0 +1,3 @@
+##### § 1010.310 Reports of transactions in currency. #####
+
+Sections 1010.310 through 1010.314 set forth the rules for the reporting by financial institutions of transactions in currency. Unless otherwise indicated, the transactions in currency reporting requirements in §§ 1010.310 through 1010.314 apply to all financial institutions. Each financial institution should refer to subpart C of its chapter X part for any additional transactions in currency reporting requirements.

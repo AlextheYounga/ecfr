@@ -1,0 +1,67 @@
+##### § 1.6050P-2 Organization a significant trade or business of which is the lending of money. #####
+
+(a) *In general.* For purposes of section 6050P(c)(2)(D), the lending of money is a significant trade or business of an organization in a calendar year if the organization lends money on a regular and continuing basis during the calendar year.
+
+(b) *Safe harbors*—(1) *Organizations not subject to section 6050P in the previous calendar year.* For an organization that was not required to report under section 6050P in the previous calendar year, the lending of money is not treated as a significant trade or business for the calendar year in which the lending occurs if gross income from lending money (as described in paragraph (d) of this section) in the organization's most recent test year (as defined in paragraph (f) of this section) is both less than $5 million and less than 15 percent of the organization's gross income for that test year.
+
+(2) *Organizations that were subject to section 6050P in the previous calendar year.* For an organization that was required to report under section 6050P for the previous calendar year, the lending of money is not treated as a significant trade or business for the calendar year in which the lending occurs if gross income from lending money (as described in paragraph (d) of this section) in each of the organization's three most recent test years is both less than $3 million and less than 10 percent of the organization's gross income for that test year.
+
+(3) *No test year.* The lending of money is not treated as a significant trade or business for an organization for the calendar year in which the lending occurs if the organization does not have a test year for that calendar year.
+
+(c) *Seller financing.* If the principal trade or business of an organization is selling nonfinancial goods or providing nonfinancial services and if the organization extends credit to the purchasers of those goods or services to finance the purchases, then, for purposes of section 6050P(c)(2)(D), these extensions of credit are not a significant trade or business of lending money.
+
+(d) *Gross income from lending of money.* For purposes of this section, gross income from lending of money includes—
+
+(1) Income from interest, including qualified stated interest, original issue discount, and market discount;
+
+(2) Gains arising from the sale or other disposition of indebtedness;
+
+(3) Penalties with respect to indebtedness (whether or not the penalty is interest for Federal tax purposes); and
+
+(4) Fees with respect to indebtedness, including merchant discount or interchange (whether or not the fee is interest for Federal tax purposes).
+
+(e) *Acquisition of an indebtedness from a person other than the debtor included in lending money.* For purposes of this section, lending money includes acquiring an indebtedness not only from the debtor at origination but also from a prior holder of the indebtedness. Gross income arising from indebtedness is gross income from the lending of money without regard to who originated the indebtedness. If an organization acquires an indebtedness, the organization is required to report any cancellation of the indebtedness if the organization is engaged in a significant trade or business of lending money.
+
+(f) *Test year.* For any calendar year, a *test year* is a taxable year of the organization that ends before July 1 of the previous calendar year.
+
+(g) *Predecessor organization.* If an organization acquires substantially all of the property that was used in a trade or business of some other organization (the predecessor) (including when two or more corporations are parties to a merger agreement under which the surviving corporation becomes the owner of the assets and assumes the liabilities of the absorbed corporation(s)) or was used in a separate unit of the predecessor, then whether the organization at issue qualifies for one of the safe harbors in paragraph (b) of this section is determined by also taking into account the test years, reporting obligations, and gross income of the predecessor.
+
+(h) *Examples.* The rules of this section are illustrated by the following examples:
+
+Example 1.(i) *Facts.* Finance Company A, a calendar year taxpayer, was formed in Year 1 as a non-bank subsidiary of Manufacturing Company and has no predecessor. A lends money to purchasers of Manufacturing Company's products on a regular and continuing basis to finance the purchase of those products. A's gross income from stated interest in Year 1 is $4.7 million. In Year 1, A's gross income from fees and penalties with respect to the indebtedness is $0.5 million, and A has no other gross income from lending money within the meaning of paragraph (d) of this section.
+
+(ii) *Results.* Section 6050P does not require A to report discharges of indebtedness occurring in Years 1 or 2, because A has no test year for those years. Notwithstanding that A lends money in those years on a regular and continuing basis, under paragraph (b)(3) of this section, A does not have a significant trade or business of lending money in those years for purposes of section 6050P(c)(2)(D). However, for Year 3, A's test year is Year 1. A's gross income from lending in Year 1 is not less than $5 million for purposes of the applicable safe harbor of paragraph (b)(1) of this section. Because A lends money on a regular and continuing basis and does not meet the applicable safe harbor, section 6050P requires A to report discharges of indebtedness occurring in Year 3.
+
+Example 2.(i) *Facts.* The facts are the same as in *Example 1,* except that A is a division of Manufacturing Company, rather than a separate subsidiary. Manufacturing Company's principal activity is the manufacture and sale of non-financial products, and, other than financing the purchase of those products, Manufacturing Company does not extend credit or otherwise lend money.
+
+(ii) *Results.* Under paragraph (c) of this section, that financing activity is not a significant trade or business of lending money for purposes of section 6050P(c)(2)(D), and section 6050P does not require Manufacturing Company to report discharges of indebtedness.
+
+Example 3.(i) *Facts.* Company B, a calendar year taxpayer, is formed in Year 1. B has no predecessor and a part of its activities consists of the lending of money. B packages and sells part of the indebtedness it originates and holds the remainder. B is engaged in these activities on a regular and continuing basis. For Year 1, the sum of B's gross income from sales of the indebtedness, plus other income described in paragraph (d) of this section, is only $4.8 million, but it is 16% of B's gross income in Year 1.
+
+(ii) *Results.* Because B lends money on a regular and continuing basis and does not meet the applicable safe harbor of paragraph (b)(1) of this section, section 6050P requires B to report discharges of indebtedness occurring in Year 3. B is not required to report discharges of indebtedness in Years 1 and 2 because B has no test year for Years 1 and 2.
+
+Example 4.(i) *Facts.* The facts are the same as in *Example 3.* In addition, in each of Years 2, 3, and 4, the sum of B's gross income from sales of the indebtedness, plus other income described in paragraph (d) of this section, is less than both $3 million and 10% of B's gross income.
+
+(ii) *Results.* (A) Because B was required to report under section 6050P for Year 3, the applicable safe harbor for Year 4 is paragraph (b)(2) of this section, which is satisfied only if B's gross income from lending activities for each of the three most recent test years is less than both $3 million and 10% of B's gross income. For Year 4, even though B has only two test years, B's gross income in one of those test years, Year 1, causes B to fail to meet this safe harbor. Accordingly, B is required to report discharges of indebtedness under section 6050P in Year 4. For Year 5, B's three most recent test years are Years 1, 2, and 3. However, B's gross income from lending activities in Year 1 is not less than $3 million and 10% of B's gross income. Accordingly, section 6050P requires B to report discharges of indebtedness in Year 5.
+
+(B) For Year 6, B satisfies the applicable safe harbor requirements of paragraph (b)(2) of this section for each of the three most recent test years (Years 2, 3, and 4). Therefore, section 6050P does not require B to report discharges of indebtedness in Year 6. Because B is not required to report for Year 6, the applicable safe harbor for Year 7 is the one contained in paragraph (b)(1) of this section, and thus the only relevant test year is Year 5.
+
+Example 5.(i) *Facts.* (A) Company C, a calendar year taxpayer, was formed in Year 1 and, on a regular and continuing basis, enters into the following transactions with its clients, all of whom are unrelated parties to C. C does not have any other income.
+
+(B) C's clients sell goods to customers, frequently accepting as payment accounts receivable that are due in 30 to 90 days. Under a contract with each client, C investigates the creditworthiness of the client's customers with respect to the prospective sales, and, for each customer, C determines whether, and to what extent, C is willing to assume the risk of loss on accounts receivable to be issued by the customer. C's decision whether to assume risk of loss may be based on an evaluation of the credit quality of particular customers or on the aggregate credit quality of all of the client's prospective customers. If C is unwilling to assume the risk, the client either may refuse to extend any credit to the customer or may accept the account receivable and bear the risk of loss.
+
+(C) Pursuant to some contracts between C's clients and C, C's clients assign legal title to the accounts receivable to C when the accounts receivable are issued by the customers. For these accounts receivable, C agrees to undertake collections and to remit the amounts collected to the client, less a fee of 0.70 percent of the face value of the accounts receivable. Pursuant to other contracts between C's clients and C, C's clients retain legal title to the accounts receivable and retain the initial collection responsibility. For these accounts receivable, C's fee is reduced to 0.35 percent. Both groups of accounts receivable include accounts receivable for which C has assumed the risk of loss and accounts receivable for which C has not assumed the risk of loss.
+
+(D) Based on all the facts and circumstances, C acquires ownership for Federal tax purposes of some, but not all, of the accounts receivable that it has agreed to collect and of some, but not all, of the accounts receivable for which the client has retained collection responsibility.
+
+(E) In Year 1, C's total fee income with respect to accounts receivable of which it acquired tax ownership was $2 million. C's fee income in Year 1 from accounts receivable of which it did not acquire tax ownership was $700,000. C does not have any other income for Year 1.
+
+(F) In Year 3, there were discharges of $950,000, representing $100,000 of customer defaults on those accounts receivable of which C was the owner for Federal tax purposes at the time of the identifiable event marking the discharge and $850,000 of customer defaults on the accounts receivable of which the clients, and not C, were the owner. Whenever C determined the uncollectibility of an account receivable for which it had not assumed the risk of loss, C reassigned title to the account receivable to the appropriate client. Each defaulting customer defaulted on an account receivable with an outstanding balance of at least $600.
+
+(ii) *Results.* (A) For Year 3, C's test year is Year 1. Under paragraph (e) of this section, C's $2 million fee income from the accounts receivable of which it acquired tax ownership is “gross income from lending money” for purposes of paragraph (b) of this section, because C was the owner of the accounts for Federal tax purposes. Under paragraph (e) of this section, C's $700,000 fee income from the accounts receivable of which it did not acquire tax ownership is not “gross income from lending money” for purposes of paragraph (b) of this section, because C was not the owner of the accounts receivable for Federal tax purposes. In Year 1, therefore, C's gross income from lending money is less than $5 million but is not less than 15% of C's gross income. Because C lends money on a regular and continuing basis and does not meet the applicable safe harbor, section 6050P requires C to report discharges of indebtedness occurring in Year 3.
+
+(B) In Year 3, section 6050P requires C to report the $100,000 of discharges of the accounts receivable of which C was the owner for Federal tax purposes at the time of the identifiable event marking the discharge. Unless an exception to reporting under paragraph (b) or (c) of this section applies, section 6050P requires C's clients to report the $850,000 of discharges of the accounts receivable of which C did not become the owner.
+
+(i) *Effective date.* This section applies to discharges of indebtedness occurring on or after January 1, 2005.
+
+[T.D. 9160, 69 FR 62186, Oct. 25, 2004]

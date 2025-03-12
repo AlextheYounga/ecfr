@@ -1,0 +1,3 @@
+##### § 75.412 Classification of costs. #####
+
+There is no universal rule for classifying certain costs as either direct or indirect (F&A) under every accounting system. A cost may be direct with respect to some specific service or function, but indirect with respect to the Federal award or other final cost objective. Therefore, it is essential that each item of cost incurred for the same purpose be treated consistently in like circumstances either as a direct or an indirect (F&A) cost in order to avoid possible double-charging of Federal awards. Guidelines for determining direct and indirect (F&A) costs charged to Federal awards are provided in this subpart.

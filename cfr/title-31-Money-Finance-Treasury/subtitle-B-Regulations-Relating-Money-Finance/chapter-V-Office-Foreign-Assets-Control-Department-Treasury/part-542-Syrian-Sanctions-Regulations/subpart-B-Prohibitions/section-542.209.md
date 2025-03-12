@@ -1,0 +1,3 @@
+##### § 542.209 Prohibited transactions or dealings in or related to petroleum or petroleum products of Syrian origin. #####
+
+Except as otherwise authorized, any transaction or dealing by a United States person, wherever located, including purchasing, selling, transporting, swapping, brokering, approving, financing, facilitating, or guaranteeing, in or related to petroleum or petroleum products of Syrian origin is prohibited.

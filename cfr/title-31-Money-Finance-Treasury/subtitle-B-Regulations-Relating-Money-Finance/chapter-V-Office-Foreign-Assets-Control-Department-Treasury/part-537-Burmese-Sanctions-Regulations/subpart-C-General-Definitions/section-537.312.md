@@ -1,0 +1,3 @@
+##### § 537.312 Nongovernmental entity in Burma. #####
+
+The term *nongovernmental entity in Burma* means a partnership, association, trust, joint venture, corporation, or other organization, wherever organized, that is located in Burma or exists for the exclusive or predominant purpose of engaging in the economic development of resources located in Burma or derives its income predominantly from such economic development, and is not the Government of Burma.

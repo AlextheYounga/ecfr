@@ -1,0 +1,3 @@
+##### § 4.1 Suits against the Department and its employees in their official capacities. #####
+
+Summonses and complaints to be served by mail on the Department of Health and Human Services, the Secretary of Health and Human Services, or other employees of the Department in their official capacities should be sent to the General Counsel, Department of Health and Human Services, 200 Independence Avenue, S.W., Washington, DC 20201.

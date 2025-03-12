@@ -1,0 +1,3 @@
+##### § 1641.1 Purpose/Applicability. #####
+
+In order to assist in ensuring that recipients receive acceptable audits, this part sets out the authority of the Legal Services Corporation (“LSC”) Office of Inspector General (“OIG”) to debar, suspend or remove independent public accountants (“IPAs”) from performing audit services for recipients. This rule informs IPAs of their rights to notice and an opportunity to be heard on actions involving debarment, suspension or removal, and the standards upon which such actions will be taken. This part applies to IPAs performing audit services for recipients, subrecipients or other entities which receive LSC funds and are required to have an audit performed in accordance with guidance promulgated by the OIG.

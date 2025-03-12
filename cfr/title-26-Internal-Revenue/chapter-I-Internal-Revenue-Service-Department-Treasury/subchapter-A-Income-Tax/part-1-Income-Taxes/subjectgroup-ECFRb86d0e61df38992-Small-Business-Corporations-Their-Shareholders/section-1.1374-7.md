@@ -1,0 +1,7 @@
+##### § 1.1374-7 Inventory. #####
+
+(a) *Valuation.* The fair market value of the inventory of an S corporation on the first day of the recognition period equals the amount that a willing buyer would pay a willing seller for the inventory in a purchase of all the S corporation's assets by a buyer that expects to continue to operate the S corporation's business. For purposes of the preceding sentence, the buyer and seller are presumed not to be under any compulsion to buy or sell and to have reasonable knowledge of all relevant facts.
+
+(b) *Identity of dispositions.* The inventory method used by an S corporation for tax purposes must be used to identify whether the inventory it disposes of during the recognition period is inventory it held on the first day of that period. Thus, a corporation using the LIFO method does not dispose of inventory it held on the first day of the recognition period unless the carrying value of its inventory for a taxable year during that period is less than the carrying value of its inventory on the first day of the recognition period (determined using the LIFO method as described in section 472). However, if a corporation changes its method of accounting for inventory (for example, from the FIFO method to the LIFO method or from the LIFO method to the FIFO method) with a principal purpose of avoiding the tax imposed under section 1374, it must use its former method to identify its dispositions of inventory.
+
+[T.D. 8579, 59 FR 66469, Dec. 27, 1994]

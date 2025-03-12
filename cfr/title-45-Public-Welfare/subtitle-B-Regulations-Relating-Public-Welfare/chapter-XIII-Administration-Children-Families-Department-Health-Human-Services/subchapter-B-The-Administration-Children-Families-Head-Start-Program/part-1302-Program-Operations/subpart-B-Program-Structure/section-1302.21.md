@@ -1,0 +1,56 @@
+##### § 1302.21 Center-based option. #####
+
+(a) *Setting.* The center-based option delivers the full range of services, consistent with § 1302.20(b). Education and child development services are delivered primarily in classroom settings.
+
+(b) *Ratios and group size.* (1) Staff-child ratios and group size maximums must be determined by the age of the majority of children and the needs of children present. A program must determine the age of the majority of children in a class at the start of the year and may adjust this determination during the program year, if necessary. Where state or local licensing requirements are more stringent than the teacher-child ratios and group size specifications in this section, a program must meet the stricter requirements. A program must maintain appropriate ratios during all hours of program operation, except:
+
+(i) For brief absences of a teaching staff member for no more than five minutes; and,
+
+(ii) During nap time, one teaching staff member may be replaced by one staff member or trained volunteer who does not meet the teaching qualifications required for the age.
+
+(2) An Early Head Start or Migrant or Seasonal Head Start class that serves children under 36 months old must have two teachers with no more than eight children, or three teachers with no more than nine children. Each teacher must be assigned consistent, primary responsibility for no more than four children to promote continuity of care for individual children. A program must minimize teacher changes throughout a child's enrollment, whenever possible, and consider mixed age group classes to support continuity of care.
+
+(3) A class that serves a majority of children who are three years old must have no more than 17 children with a teacher and teaching assistant or two teachers. A double session class that serves a majority of children who are three years old must have no more than 15 children with a teacher and teaching assistant or two teachers.
+
+(4) A class that serves a majority of children who are four and five years old must have no more than 20 children with a teacher and a teaching assistant or two teachers. A double session class that serves a majority of children who are four and five years old must have no more than 17 children with a teacher and a teaching assistant or two teachers.
+
+|4 and 5 year olds|                    No more than 20 children enrolled in any class.                     |
+|-----------------|----------------------------------------------------------------------------------------|
+|                 |             No more than 17 children enrolled in any double session class.             |
+|   3 year olds   |                    No more than 17 children enrolled in any class.                     |
+|                 |             No more than 15 children enrolled in any double session class.             |
+|Under 3 years old|No more than 8 or 9 children enrolled in any class, depending on the number of teachers.|
+
+(c) *Service duration*—(1) *Early Head Start.* (i) By August 1, 2018, a program must provide 1,380 annual hours of planned class operations for all enrolled children.
+
+(ii) A program that is designed to meet the needs of young parents enrolled in school settings may meet the service duration requirements in paragraph (c)(1)(i) of this section if it operates a center-based program schedule during the school year aligned with its local education agency requirements and provides regular home-based services during the summer break.
+
+(2) *Head Start.* (i) Until a program is operating all of its Head Start center-based funded enrollment at the standard described in paragraph (c)(2)(iv) or (v) of this section, a program must provide, at a minimum, at least 160 days per year of planned class operations if it operates for five days per week, or at least 128 days per year if it operates four days per week. Classes must operate for a minimum of 3.5 hours per day.
+
+(ii) Until a program is operating all of its Head Start center-based funded enrollment at the standard described in paragraph (c)(2)(iv) or (v) of this section, if a program operates a double session variation, it must provide classes for four days per week for a minimum of 128 days per year and 3.5 hours per day. Each double session class staff member must be provided adequate break time during the course of the day. In addition, teachers, aides, and volunteers must have appropriate time to prepare for each session together, to set up the classroom environment, and to give individual attention to children entering and leaving the center.
+
+(iii) By August 1, 2019, a program must provide 1,020 annual hours of planned class operations over the course of at least eight months per year for at least 50 percent of its Head Start center-based funded enrollment.
+
+(iv) By August 1, 2021, a program must provide 1,020 annual hours of planned class operations over the course of at least eight months per year for all of its Head Start center-based funded enrollment.
+
+(v) A Head Start program providing fewer than 1,020 annual hours of planned class operations or fewer than eight months of service is considered to meet the requirements described in paragraphs (c)(2)(iii) and (iv) of this section if its program schedule aligns with the annual hours required by its local education agency for grade one and such alignment is necessary to support partnerships for service delivery.
+
+(3) *Secretarial determination.* (i) On or before February 1, 2018, the Secretary may lower the required percentage described in paragraph (c)(2)(iii) of this section, based on an assessment of the availability of sufficient funding to mitigate a substantial reduction in funded enrollment; and,
+
+(ii) On or before February 1, 2020, the Secretary may lower the required percentage described in paragraph (c)(2)(iv) of this section, based on an assessment of the availability of sufficient funding to mitigate a substantial reduction in funded enrollment.
+
+(4) *Extension.* If an extension is necessary to ensure children enrolled in the program on November 7, 2016 are not displaced from the Early Head Start or Head Start program, a program may request a one-year extension from the responsible HHS official of the requirements outlined in paragraphs (c)(1) and (c)(2)(iii) of this section.
+
+(5) *Exemption for Migrant or Seasonal Head Start programs.* A Migrant or Seasonal program is not subject to the requirements described in § 1302.21(c)(1) or (2), but must make every effort to provide as many days and hours of service as possible to each child and family.
+
+(6) *Calendar planning.* A program must:
+
+(i) Plan its year using a reasonable estimate of the number of days during a year that classes may be closed due to problems such as inclement weather; and,
+
+(ii) Make every effort to schedule makeup days using existing resources if hours of planned class operations fall below the number required per year.
+
+(d) *Licensing and square footage requirements.* (1) The facilities used by a program must meet state, tribal, or local licensing requirements, even if exempted by the licensing entity. When state, tribal, or local requirements vary from Head Start requirements, the most stringent provision takes precedence.
+
+(2) A center-based program must have at least 35 square feet of usable indoor space per child available for the care and use of children (exclusive of bathrooms, halls, kitchen, staff rooms, and storage places) and at least 75 square feet of usable outdoor play space per child.
+
+(3) A program that operates two or more groups within an area must ensure clearly defined, safe divisions to separate groups. A program must ensure such spaces are learning environments that facilitate the implementation of the requirements in subpart C of this part. The divisions must limit noise transfer from one group to another to prevent disruption of an effective learning environment.

@@ -1,0 +1,3 @@
+##### § 403.62 Sale on sealed, competitive bids. #####
+
+If the property is to be sold to the highest bidder on sealed, competitive bids, the notice of sale shall so specify, and shall state the date, hour, and place of sale, and the date, hour, and place prior to the sale when and where prospective bidders may view the property and obtain necessary information. All sealed bids must be filed with the district director of the internal revenue district in which the property was seized before the sale. No bids will be accepted after the sale starts. At the appointed date, hour, and place of sale, all sealed bids timely filed shall be open in the presence of all bidders attending the sale, who shall have the privilege of inspecting the bids if they so desire.

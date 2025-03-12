@@ -1,0 +1,3 @@
+##### § 358.6 What is the procedure for converting bearer corpora and detached bearer coupons to book-entry? #####
+
+Bearer corpora and detached bearer coupons must be submitted in accordance with our procedures. They must be accompanied by an approved form executed by an authorized officer of the submitting depository institution. Until we verify the submission, the bearer corpora and detached bearer coupons are subject to rejection or adjustment.

@@ -1,0 +1,3 @@
+##### § 561.323 Foreign financial institution owned or controlled by the government of a foreign country. #####
+
+The phrase *foreign financial**institution owned**or controlled**by the**government of**a foreign**country* means any foreign financial institution, including a central bank of a foreign country, in which a government of a foreign country owns a 50 percent or greater interest and any foreign financial institution which is otherwise controlled by a government of a foreign country.

@@ -1,0 +1,3 @@
+##### § 601.9 Access by historical researchers and former Presidential appointees. #####
+
+The requirement in § 601.8 that access to classified information may be granted only as is essential to the accomplishment of lawful and authorized Government purposes may be waived for persons who are engaged in historical research projects, or previously have occupied policymaking positions to which they were appointed by the President, provided they execute written agreements to safeguard the information and written consent to the Foundation's review of their notes and manuscripts solely for the purpose of determining that no classified information is disclosed. A precondition to any such access is the favorable completion of an appropriate investigative inquiry.

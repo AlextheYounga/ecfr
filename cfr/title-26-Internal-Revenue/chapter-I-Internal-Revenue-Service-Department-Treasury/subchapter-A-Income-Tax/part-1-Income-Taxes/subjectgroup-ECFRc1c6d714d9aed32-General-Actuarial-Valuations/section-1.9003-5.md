@@ -1,0 +1,5 @@
+##### § 1.9003-5 Terms; applicability of other laws. #####
+
+All other terms which are not otherwise specifically defined shall have the same meaning as when used in the Code (or the corresponding provisions of prior law) except where otherwise distinctly expressed or manifestly intended to the contrary. Further, all provisions of law contained in the Code (or the corresponding provisions of prior law) shall apply to the extent that they can apply. Thus, all of the provisions of subtitle F of the Code and the corresponding provisions of prior law shall apply to the extent they can apply, including the provisions of law relating to assessment, collection, credit or refund, and limitations. For purposes of this section and §§ 1.9003-1 to 1.9003-4, inclusive, the term “Act” means the Public Debt and Tax Rate Extension Act of 1960 as amended (74 Stat. 293, 1018).
+
+[T.D. 6492, 25 FR 8905, Sept. 16, 1960]CERTAIN BRICK AND TILE CLAY, FIRE CLAY, AND SHALE; REGULATIONS UNDER THE ACT OF SEPTEMBER 26, 1961

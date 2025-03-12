@@ -1,0 +1,3 @@
+##### § 375.0 What authority does the Treasury have to redeem its securities? #####
+
+Section 3111 of Title 31 of the United States Code authorizes the Secretary of the Treasury to use money received from the sale of an obligation and other money in the general fund of the Treasury to buy, redeem, or refund, at or before maturity, outstanding bonds, notes, certificates of indebtedness, Treasury bills, or savings certificates of the United States Government. For the purposes of this part, we will refer to these outstanding obligations as “securities”.

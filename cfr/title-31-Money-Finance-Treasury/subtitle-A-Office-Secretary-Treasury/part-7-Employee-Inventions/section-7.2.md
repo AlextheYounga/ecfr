@@ -1,0 +1,3 @@
+##### § 7.2 Responsibilities of the Department. #####
+
+The responsibilities of the Treasury Department are to determine initially (a) the occurrence of an invention by an employee, (b) his rights in the invention and the rights of the Government therein, and (c) whether patent protection will be sought in the United States by the Department, and to furnish the required reports to the Patent Office.

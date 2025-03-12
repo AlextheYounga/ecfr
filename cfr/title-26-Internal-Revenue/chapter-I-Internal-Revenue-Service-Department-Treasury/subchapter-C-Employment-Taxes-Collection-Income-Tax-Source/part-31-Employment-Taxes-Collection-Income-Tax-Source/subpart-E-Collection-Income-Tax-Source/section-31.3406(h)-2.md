@@ -1,0 +1,53 @@
+##### § 31.3406(h)-2 Special rules. #####
+
+(a) *Joint accounts* - (1) *Relevant name and taxpayer identification number combination.* For purposes of identifying the account subject to withholding under sections 3406(a)(1) (B) and (C), the relevant name and taxpayer identification number combination is that which is used for information reporting purposes.
+
+(2) *Optional rule for accounts subject to backup withholding under section 3406(a)(1) (B) or (C) where the names are switched.* See § 31.3406(d)-5(c)(4)(iii) under which a payor may withhold under section 3406(a)(1)(B) as required even though the names or taxpayer identification numbers on the account have been switched. The rules under § 31.3406(d)-5(c)(4)(iii) may be applied comparably by a payor who is required to withhold under section 3406(a)(1)(C).
+
+(3) *Joint foreign payees* - (i) [Reserved] For further guidance, see § 31.3406(h)-2T(a)(3)(i).
+
+(ii) *Information reporting on an account including foreign payees.* If any one of the joint payees who has not established foreign status provides a taxpayer identification number under paragraph (a)(3)(i)(B) of this section, that number is the taxpayer identification number that is required to be furnished for purposes of information reporting and withholding under section 3406.
+
+(b) *Backup withholding from an alternative source* - (1) *In general.* A payor may not withhold under section 3406 from a source maintained by the payor other than the source with respect to which there exists a liability to withhold under section 3406 with respect to the payee. See section 3403 and § 31.3403-1, which provide that the payor is liable for the amount required to be withheld regardless of whether the payor withholds.
+
+(2) *Exceptions for payments made in property* - (i) *Backup withholding from alternative source.* In the case of a payment that is made in property (other than money), the payor must withhold under section 3406, 31 percent of the fair market value of the property determined immediately before or on the date of payment. The payor may withhold under section 3406 from the principal amount being deposited with the payor or from another source maintained by the payee with the payor. The source from which the tax is withheld under section 3406 must be payable to at least one of the persons listed on the account subject to withholding. If the account or source is not payable exclusively to the same person or persons listed on the account subject to withholding under section 3406, then the payor must obtain a written statement from all other persons to whom the account or source is payable authorizing the payor to withhold under section 3406 from the alternative account or source. A payor that elects to withhold under section 3406 from an alternative source may determine the account or source from which the tax is to be withheld, or may allow the payee to designate the alternative source. A payee may not, however, require a payor to withhold under section 3406 from a specific alternative source. See § 31.3402(q)-1(d), *Example 5,* for methods of withholding on prizes, awards, and gambling winnings paid in property other than cash.
+
+(ii) *Deferral of withholding.* If the payor cannot locate, using reasonable care (following procedures substantially similar to those set forth in § 31.3406(d)-5(c)(3)(ii) (A) and (B)), an alternative source of cash from which the payor may satisfy its withholding obligation pursuant to paragraph (b)(2)(i) of this section, the payor may defer its obligation to withhold under section 3406, except for reportable payments of property made in connection with prizes, awards, or gambling winnings, until the earlier of -
+
+(A) The date the payor makes a cash payment to the account subject to withholding under section 3406 or cash is otherwise deposited in the account in a sufficient amount to satisfy the obligation in full; or
+
+(B) The close of the fourth calendar year after the obligation arose.
+
+(iii) *Barter exchanges.* In the case of a barter exchange that issues scrip to, or credits the account of, a member or client of the exchange in payment for property or services, the barter exchange may withhold under section 3406 from -
+
+(A) The scrip or credit, if converted to cash in order to satisfy the deposit requirements of section 6302 and § 31.6302-4; or
+
+(B) Any other source maintained by the exchange for the member or client in the manner described in paragraph (b)(2) of this section.
+
+(c) *Trusts.* Withholding under section 3406 applies to reportable payments made to a trust if any of the conditions for imposing withholding under section 3406 apply to the trust. Generally, a trust is not a payor and will not be required to withhold under section 3406 on reportable payments that it makes to its beneficiary who is subject to withholding under section 3406. The preceding sentence does not apply, however, to a grantor trustdescribed in § 31.3406(a)-2(b)(1) or (2), which is treated as a payor. The trustee of a trust described in this paragraph (c) may certify that the trust's taxpayer identification number is correct and that the trust is not subject to withholding due to notified payee underreporting, without regard to the status of the beneficiaries of the trust.
+
+(d) *Adjustment of prior withholding by middlemen.* A middleman payor (as defined in § 31.3406(a)-2(b) or in the section on information reporting to which the payment relates) who receives a payment from which tax has been erroneously withheld under section 3406 may seek a refund of the tax withheld by the payor from whom the middleman payor received the payment (referred to as the “upstream payor”). Alternatively, the middleman payor may obtain a refund of the tax by claiming a credit for the amount of tax withheld by the upstream payor against the deposit of any tax imposed by this chapter which the middleman payor is required to withhold and deposit (as described in section 6413 and § 31.6413(a)-2). In either case, the middleman payor must pay or credit the gross amount of the payment (including the tax withheld) to its payee as though it had received the gross amount of the payment from the upstream payor and must withhold under section 3406 only if one of the conditions for imposing backup withholding exists with respect to its payee. If its payee is not subject to withholding under section 3406, the payor must pay or credit the full amount of the payment to the payee, unless, with respect to payments made after December 31, 2000, the payor chooses to apply prior withholding under section 3406 to an amount required to be withheld under another section of the Internal Revenue Code (such as under section 1441) to the extent permitted under procedures prescribed by the Internal Revenue Service (see § 601.601(d)(2) of this chapter). See § 31.6413(a)-3 regarding repayment by a payor of tax erroneously collected from a payee.
+
+(e) *Conversion of amounts paid in foreign currency into United States dollars* - (1) *Convertible foreign currency.* If a payment is made in a currency other than the United States dollar, the amount subject to withholding under section 3406 is determined by applying the statutory rate of backup withholding to the foreign currency payment and converting the amount withheld into United States dollars on the date of payment at the spot rate (as defined in § 1.988-1(d)(1) of this chapter) or pursuant to a reasonable spot rate convention. For example, a withholding agent may use a month-end spot rate or a monthly average spot rate. A spot rate convention must be used consistently with respect to all non-dollar amounts withheld and from year to year. Such convention cannot be changed without the consent of the Commissioner.
+
+(2) *Nonconvertible foreign currency.* [Reserved]
+
+(f) *Coordination with other sections.* For purposes of section 31, chapter 24 (other than section 3402(n)) of subtitle C of the Internal Revenue Code (relating to employment taxes and collection of income tax at source) and so much of subtitle F (other than section 7205) of the Internal Revenue Code (relating to procedure and administration) as relates to this chapter, and the regulations thereunder -
+
+(1) An amount required to be withheld under section 3406 must be treated as a tax required to be withheld under section 3402;
+
+(2) An amount withheld under section 3406 must be treated as an amount withheld under section 3402;
+
+(3) An amount withheld under section 3406 must be deposited as required under § 31.6302-4;
+
+(4) *Wages* includes the gross amount of any reportable payment (as defined in section 3406(b)) except for purposes of section 6014 (relating to an election by the taxpayer not to compute the tax on his annual return);
+
+(5) *Employee* includes a payee of any reportable payment; and
+
+(6) *Employer* includes a payor who is required to withhold the tax under section 3406 (as defined in § 31.3406(a)-2) with respect to any reportable payment (as defined in section 3406(b)).
+
+(g) *Tax liabilities and penalties.* A payor is subject to the same civil and criminal penalties for failing to impose withholding under section 3406 as an employer who fails to withhold on a payment of wages. In addition, a broker may be subject to the penalty under section 6705 (failure of a broker to provide notice to a payor).
+
+(h) *To whom payor is liable for amount withheld.* A payor is not liable to any person for any amount withheld under section 3406. A payor is liable only to the United States for an amount that is required to be withheld as provided in § 31.3403-1.
+
+[T.D. 8637, 60 FR 66130, Dec. 21, 1995; 61 FR 11307, Mar. 20, 1996, as amended by T.D. 8734, 62 FR 53493, Oct. 14, 1997; T.D. 8804, 63 FR 72189, Dec. 31, 1998; T.D. 8856, 64 FR 73412, Dec. 30, 1999; T.D. 9010, 67 FR 48760, July 26, 2002; T.D. 9658, 79 FR 12809, Mar. 6, 2014]

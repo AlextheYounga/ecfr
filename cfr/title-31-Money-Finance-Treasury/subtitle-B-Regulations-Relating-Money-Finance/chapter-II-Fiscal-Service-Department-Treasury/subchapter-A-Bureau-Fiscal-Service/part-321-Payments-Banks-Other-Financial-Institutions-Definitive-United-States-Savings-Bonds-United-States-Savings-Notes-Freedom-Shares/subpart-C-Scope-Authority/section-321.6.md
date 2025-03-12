@@ -1,0 +1,5 @@
+##### § 321.6 General. #####
+
+Securities are issued only in registered form (subject to 31 CFR 359.11), are not transferable, may not be hypothecated or used as collateral for a loan, and, except as otherwise specifically provided in the governing regulations and this part, are payable to the owner or coowner named on the security. The regulations governing Series EE and HH bonds are contained in Department of the Treasury Circular, Fiscal Service Series No. 3-80, current revision (31 CFR part 353); those governing Series I bonds are contained in Department of the Treasury Circular, Fiscal Service Series No. 2-98 (31 CFR part 360); and, those governing all other series of U.S. savings securities are contained in Department of the Treasury Circular No. 530, current revision (31 CFR part 315).
+
+[63 FR 38042, July 14, 1998]

@@ -1,0 +1,3 @@
+##### § 20.2203-1 Definition of executor. #####
+
+The term *executor* means the executor or administrator of the decedent's estate. However, if there is no executor or administrator appointed, qualified and acting within the United States, the term means any person in actual or constructive possession of any property of the decedent. The term “person in actual or constructive possession of any property of the decedent” includes, among others, the decedent's agents and representatives; safe-deposit companies, warehouse companies, and other custodians of property in this country; brokers holding, as collateral, securities belonging to the decedent; and debtors of the decedent in this country.

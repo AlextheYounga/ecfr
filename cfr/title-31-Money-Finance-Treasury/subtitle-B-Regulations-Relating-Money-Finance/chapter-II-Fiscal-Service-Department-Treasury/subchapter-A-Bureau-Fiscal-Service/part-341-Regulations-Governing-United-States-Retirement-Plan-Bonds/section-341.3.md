@@ -1,0 +1,7 @@
+##### § 341.3 Purchase of bonds. #####
+
+(a) *Agencies.* Retirement Plan Bonds may be purchased over-the-counter or by mail from Federal Reserve Banks and Branches and the Bureau of the Fiscal Service, Washington, DC 20226. Customers of commercial banks and trust companies may be able to arrange for the purchase of the bonds through such institutions, but only the Federal Reserve Banks and Branches and the Bureau of the Fiscal Service are authorized to act as official agencies, and the date of receipt of the application and payment by an official agency will govern the dating of the bonds issued.
+
+(b) *Application.* Applications for the purchase of Retirement Plan Bonds should be made on Form PD 3550, accompanied by a remittance to cover the purchase price. Personal checks will be accepted, subject to collection. Checks or other forms of exchange, should be drawn to the Federal Reserve Bank or United States Treasury, as the case may be. Checks payable by endorsement are not acceptable.
+
+(c) *Delivery.* Delivery of bonds will be made in person, or by mail at the risk and expense of the United States, at the address given by the purchaser, but only within the United States, its territories and possessions, the Commonwealth of Puerto Rico, and the Canal Zone. No mail deliveries elsewhere will be made. If the registered owner temporarily resides abroad, the bonds will be delivered to such address in the United States as the purchaser directs.

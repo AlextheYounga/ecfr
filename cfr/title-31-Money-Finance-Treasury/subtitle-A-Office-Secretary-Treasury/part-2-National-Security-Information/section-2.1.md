@@ -1,0 +1,49 @@
+##### § 2.1 Processing of mandatory declassification review requests. #####
+
+(a) Except as provided by section 3.4(b) of Executive Order 13292, Further Amendment to Executive Order 12958, as amended, *Classified National Security Information,* all information classified by the Department of the Treasury under these Orders or any predecessor Executive Order shall be subject to mandatory declassification review by the Department, if:
+
+(1) The request for a mandatory declassification review describes the document or material containing the information with sufficient specificity to enable Treasury personnel to locate it with a reasonable amount of effort;
+
+(2) The information is not exempt from search and review under sections 105C, 105D, or 701 of the National Security Act of 1947 (50 U.S.C. 431, 432 and 432a); and
+
+(3) The information has not been reviewed for declassification within the past 2 years or the information is not the subject of pending litigation.
+
+(b) Requests for classified records originated by the Department of the Treasury shall be directed to the Office of Security Programs, Attention: Assistant Director (Information Security), 1500 Pennsylvania Avenue, NW., Washington, DC 20220. Upon receipt of each request for mandatory declassification review, pursuant to section 3.5 of Executive Order 13292, the following procedures will apply:
+
+(1) The Office of Security Programs will acknowledge receipt of the request.
+
+(2)(i) A mandatory declassification review request need not identify the requested information by date or title of the responsive records, but must be of sufficient specificity to allow Treasury personnel to locate records containing the information sought with a reasonable amount of effort. Whenever a request does not reasonably describe the information sought, the requester will be notified by the Office of Security Programs that unless additional information is provided or the scope of the request is narrowed, no further action will be undertaken with respect to the request.
+
+(ii) If Treasury has reviewed the information within the past 2 years and determined that all or part thereof remains classified, or the information is the subject of pending litigation, the requester shall be so informed and advised of the requester's appeal rights.
+
+(3) The Office of Security Programs will determine the appropriate Treasury offices or bureaus to conduct the mandatory declassification review. The Office of Security Programs will also advise Treasury and/or bureau reviewing officials concerning the mandatory declassification review process. Classified information relating to intelligence activities (including special activities), intelligence sources or methods, or cryptology will also be coordinated with the Office of the Assistant Secretary (Intelligence and Analysis). As appropriate, the Office of Security Programs will refer requests to other Federal departments and agencies having a direct interest in the requested documents.
+
+(4)(i) Treasury personnel undertaking a mandatory declassification review shall make reasonable efforts to determine if particular information may be declassified. Reviewing officials may rely on applicable exemption criteria under the Freedom of Information Act, the Privacy Act, and any other applicable law that authorizes the withholding of information. Reviewing officials shall also identify the amount of search and review time required to process each request. Barring extenuating circumstances, mandatory declassification reviews for reasonably small volumes of records should be completed in a timely fashion. A final determination regarding large volumes of records should ordinarily be made within one year of Treasury's receipt of any mandatory declassification review request.
+
+(ii) If the Director, Office of Security Programs determines that a Treasury office or bureau responsible for conducting a mandatory declassification review is not making reasonable efforts to review classified information subject to a mandatory declassification request, the Director may authorize Treasury-and/or bureau-originated information to be declassified in consultation with the Department's Senior Agency Official.
+
+(iii) If information cannot be declassified in its entirety, reasonable efforts, consistent with applicable law, will be made to release those declassified portions of the requested information that constitute a coherent segment. Upon the denial or partial denial of a declassification request, the requester will be so informed by the Office of Security Programs and advised of the requester's appeal rights.
+
+(5)(i) If Treasury receives a mandatory declassification review request for information in its possession that were originated by another Federal department or agency, the Office of Security Programs will forward the request to that department or agency for a declassification determination, together with a copy of the requested records, a recommendation concerning a declassification determination, and a request to be advised of that department's or agency's declassification determination. The Office of Security Programs may, after consultation with the originating department or agency, inform any requester of the referral unless such association is itself classified under Executive Order 13292 or prior orders.
+
+(ii) Mandatory declassification review requests concerning classified information originated by a Treasury office or bureau that has been transferred to another Federal department or agency will be forwarded to the appropriate successor department or agency for a declassification determination.
+
+(6) If another Federal department or agency forwards a mandatory declassification review request to Treasury for information in its custody that was classified by Treasury, the Office of Security Programs will:
+
+(i) Advise the referring department or agency as to whether it may notify the requester of the referral; and
+
+(ii) Respond to the Federal department, agency, or requester, as applicable, in accordance with the requirements of this section.
+
+(7)(i) Upon the denial, in whole or in part, of a request for the mandatory declassification review of information, the Office of Security Programs will so notify the requester in writing and will inform the requester of the right to appeal the classification determination within 60 calendar days of the receipt of the classification determination. The notice will also advise the requester of the name and address of the Treasury official who will be responsible for deciding an appeal (the Deciding Official). The Office of Security Programs will coordinate appeals with the appropriate Treasury offices and bureaus.
+
+(ii) The Deciding Official should make a determination on an appeal within 30 working days following the receipt of the appeal, or within 60 working days following receipt if the Deciding Official determines that additional time is required to make a determination and so notifies the requester. The Deciding Official should notify the requester in writing of Treasury's determination on appeal and, if applicable, the reasons for any whole or partial denial of the appeal. The Office of Security Programs will also notify the requester of their right of a final appeal to the Interagency Security Classification Appeals Panel, as appropriate, under 32 CFR 2001.33.
+
+(8)(i) Treasury may charge fees for search, review, and duplicating costs in connection with a mandatory declassification review request.
+
+(A) The fee for services of Treasury personnel involved in locating and/or reviewing records will be charged at the rate of a GS-11, Step 1 employee, in the Washington-Baltimore Federal pay area, in effect when the mandatory declassification review request is received by the Office of Security Programs for searches that take more than two hours or for review times that are greater than two hours. Fees may be waived, in writing, by a bureau head or the equivalent Treasury official at the Assistant Secretary level.
+
+(B) There is no fee for duplicating the first 100 pages of fully or partially releasable documents. The cost of additional pages is 20 cents per page. No charges shall be levied for search and/or review time requiring less than 2 hours.
+
+(ii) If it is estimated that the fees associated with a mandatory declassification review will exceed $100, the Office of Security Programs will notify the requester in writing of the estimated costs and shall obtain satisfactory written assurance of full payment or require the requester to make an advance payment of the entire estimated fee before proceeding to process the request. Treasury may request pre-payment where the fee is likely to exceed $500. After 60 calendar days without receiving the requester's written assurance of full payment or agreement to make pre-payment of estimated fees (or to amend the mandatory declassification review request in a manner as to result in fees acceptable to the requester), Treasury may administratively terminate the mandatory declassification review request. Failure of a requester to pay fees after billing will result in future requests not being honored. Nothing in this paragraph will preclude Treasury from taking any other lawful action to recover payment for costs incurred in processing a mandatory declassification review request.
+
+(iii) Payment of fees shall be made by check or money order to the Treasurer of the United States. Fees charged by Treasury for mandatory declassification review are separate and distinct from any other fees that may be imposed by a Presidential Library, the National Archives and Records Administration, or another Federal department or agency.

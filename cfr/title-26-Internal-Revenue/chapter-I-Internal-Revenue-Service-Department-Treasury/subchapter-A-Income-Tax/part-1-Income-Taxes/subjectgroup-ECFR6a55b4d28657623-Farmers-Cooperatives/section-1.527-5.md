@@ -1,0 +1,25 @@
+##### § 1.527-5 Activities resulting in gross income to an individual or political organization. #####
+
+(a) *In general*—(1) *General rule.* Amounts expended by a political organization for an exempt function are not income to the individual or individuals on whose behalf such expenditures are made. However, where a political organization expends any other amount for the personal use of any individual, the individual on whose behalf the amount is expended will be in receipt of income. Amounts are expended for the personal use of an individual where a direct or indirect financial benefit accrues to such individual. For example, if a political organization pays a personal legal obligation of a candidate for public office, such as the candidate's federal income tax liability, the amount paid is includible in such candidate's gross income. Similarly, if a political organization expends anyamount of its exempt function income for other than an exempt function, and the expenditure results in a direct or indirect financial benefit to the political organization, it must include the amount of such expenditure in its gross income. For example, if a political organization expends exempt function income for making an improvement or addition to its facilities, or for equipment, which is not necessary for or used in carrying out an exempt function, the amount of the expenditure will be included in the political organization's gross income. However, if a political organization expends exempt function income to make ordinary and necessary repairs on the facilities the political organization uses in conducting its exempt function, such amounts will not be included in the political organization's gross income.
+
+(2) *Expenditure for an illegal activity.* Expenditures by a political organization that are illegal or for an activity that is judicially determined to be illegal are treated as amounts not segregated for use only for the exempt function and shall be included in the political organization's taxable income. However, expenses incurred in defense of civil or criminal suits against the organization are not treated as taxable to the organization. Similarly, voluntary reimbursement to the participants in the illegal activity for similar expenses incurred by them are not taxable to the organization if the organization can demonstrate that such payments do not constitute a part of the inducement to engage in the illegal activity or part of the agreed upon compensation therefor. However, if the organization entered into an agreement with the participants to defray such expenses as part of the inducement, such payments would be treated as an expenditure for an illegal activity. Except where necessary to prevent the period of limitation for assessment and collection of a tax from expiring, a notice of deficiency will not generally be issued until after there has been a final determination of illegality by an appropriate court in a criminal proceeding.
+
+(b) *Certain uses not treated as income to a candidate.* Except as otherwise provided in paragraph (a) of this section, if a political organization:
+
+(1) Contributes any amount to or for the use of any political organization described in section 527(e)(1) or newsletter fund described in section 527(g),
+
+(2) Contributes any amount to or for the use of any organization described in paragraph (1) and (2) of section 509(a) which is exempt from taxation under section 501(a), or
+
+(3) Deposits any amount in the general fund of the U.S. Treasury or in the general fund of any State or local government,
+
+such amount shall not be treated as an amount expended for the personal use of a candidate or other person. No deduction shall be allowed under the Internal Revenue Code of 1954 for the contribution or deposit described in the preceding sentence.
+
+(c) *Excess funds*—(1) *General rule.* Generally, funds controlled by a political organization or other person after a campaign or election are excess funds and are treated as expended for the personal use of the person having control over the ultimate use of such funds. However, such funds will not be treated as excess funds to the extent they are:
+
+(i) Transferred within a reasonable period of time by the person controlling the funds in accordance with paragraph (b) of this section, or
+
+(ii) Held in reasonable anticipation of being used by the political organization for future exempt functions.
+
+(2) *Excess funds transferred at death.* Where excess funds are held by an individual who dies, and these funds go to the individual's estate or any other person (other than an organization or fund described in paragraph (b) of this section), the funds are income of the decedent and will be included in the decedent's gross estate unless the estate or other person receiving such funds transfers the funds within a reasonable period of time in accordance with paragraph (b) of this section.
+
+This paragraph (c)(2) will not apply where the individual who dies provides that the funds be transferred to an organization or fund described in paragraph (b) of this section.[T.D. 7744, 45 FR 85733, Dec. 30, 1980]

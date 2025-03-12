@@ -1,0 +1,3 @@
+##### § 605.61 Procedures. #####
+
+The procedural provisions applicable to title VI of the Civil Rights Act of 1964 apply to this part. These procedures are found in §§ 611.6 through 611.10 of this title (45 CFR). In the event that the Department of Education or the Department of Health and Human Services conducts a hearing under this part on behalf of NSF, the provisions of 45 CFR 84.61 shall also apply except that the Director of NSF or his designee shall also be “the responsible Department official” for purposes of 45 CFR 81.102 and 81.121 and “the reviewing authority” for purposes of 45 CFR 81.103, 81.104, and 81.105. Also, in such cases, the Director of NSF rather than the Secretary of HHS or Education shall conduct the review provided for in 45 CFR 81.106.

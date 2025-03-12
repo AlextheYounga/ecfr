@@ -1,0 +1,5 @@
+##### § 205.33 How are funds transfers processed? #####
+
+(a) A State must minimize the time between the drawdown of Federal funds from the Federal government and their disbursement for Federal program purposes. A Federal Program Agency must limit a funds transfer to a State to the minimum amounts needed by the State and must time the disbursement to be in accord with the actual, immediate cash requirements of the State in carrying out a Federal assistance program or project. The timing and amount of funds transfers must be as close as is administratively feasible to a State's actual cash outlay for direct program costs and the proportionate share of any allowable indirect costs. States should exercise sound cash management in funds transfers to subgrantees in accordance with OMB Circular A-102 (For availability, see 5 CFR 1310.3.).
+
+(b) Neither a State nor the Federal government will incur an interest liability under this part on the transfer of funds for a Federal assistance program subject to this subpart B.

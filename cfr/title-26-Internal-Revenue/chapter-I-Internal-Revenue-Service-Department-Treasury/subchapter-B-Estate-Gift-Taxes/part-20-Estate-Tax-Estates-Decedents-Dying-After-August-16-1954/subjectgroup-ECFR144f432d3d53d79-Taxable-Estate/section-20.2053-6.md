@@ -1,0 +1,39 @@
+##### § 20.2053-6 Deduction for taxes. #####
+
+(a) *In general* - (1) Taxes are deductible in computing a decedent's gross estate -
+
+(i) Only as claims against the estate (except to the extent that excise taxes may be allowable as administration expenses);
+
+(ii) Only to the extent not disallowed by section 2053(c)(1)(B) and this section; and
+
+(iii) Subject to any applicable limitations in § 20.2053-1.
+
+(2) See §§ 20.2053-9 and 20.2053-10 with respect to the deduction allowed for certain state and foreign death taxes.
+
+(b) *Property taxes.* Property taxes are not deductible unless they accrued before the decedent's death. However, they are not deductible merely because they have accrued in an accounting sense. Property taxes in order to be deductible must be an enforceable obligation of the decedent at the time of his death.
+
+(c) *Death taxes* - (1) For the estates of decedents dying on or before December 31, 2004, no estate, succession, legacy or inheritance tax payable by reason of the decedent's death is deductible, except as provided in §§ 20.2053-9 and 20.2053-10 with respect to certain state and foreign death taxes on transfers for charitable, etc., uses. However, see sections 2011 and 2014 and the corresponding regulations with respect to credits for death taxes.
+
+(2) For the estates of decedents dying after December 31, 2004, see section 2058 to determine the deductibility of state death taxes.
+
+(d) *Gift taxes.* Unpaid gift taxes on gifts made by a decedent before his death are deductible. If a gift is considered as made one-half by the decedent and one-half by his spouse under section 2513, the entire amount of the gift tax, unpaid at the decedent's death, attributable to a gift in fact made by the decedent is deductible. No portion of the tax attributable to a gift in fact made by the decedent's spouse is deductible except to the extent that the obligation is enforced against the decedent's estate and his estate has no effective right of contribution against his spouse. (See section 2012 and § 20.2012-1 with respect to credit for gift taxes paid upon gifts of property included in a decedent's gross estate.)
+
+(e) *Excise taxes.* Excise taxes incurred in selling property of a decedent's estate are deductible as an expense of administration if the sale is necessary in order to (1) pay the decedent's debts, expenses of administration, or taxes, (2) preserve the estate, or (3) effect distribution. Excise taxes incurred in distributing property of the estate in kind are also deductible.
+
+(f) *Income taxes.* Unpaid income taxes are deductible if they are on income property includible in an income tax return of the decedent for a period before his death. Taxes on income received after the decedent's death are not deductible. If income received by a decedent during his lifetime is included in a joint income tax return filed by the decedent and his spouse, or by the decedent's estate and his surviving spouse, the portion of the joint liability for the period covered by the return for which a deduction will be allowed is the amount for which the decedent's estate would be liable under local law, as between the decedent and his spouse, after enforcement of any effective right of reimbursement or contribution. In the absence of evidence to the contrary, the deductible amount is presumed to be an amount bearing the same ratio to the total joint tax liability for the period covered by the return that the amount of income tax for which the decedent would have been liable if he had filed a separate return for that period bears to the total of the amounts for which the decedent and his spouse would have been liable if they had both filed separate returns for that period. Thus, in the absence of evidence to the contrary, the deductible amount equals: Decedent's separate tax ÷ Both separate taxes × Joint tax.
+
+However, the deduction cannot in any event exceed the lesser of -
+
+(1) The decedent's liability for the period (as determined in this paragraph) reduced by the amounts already contributed by the decedent toward payment of the joint liability, or
+
+(2) If there is an enforceable agreement between the decedent and his spouse or between the executor and the spouse relative to the payment of the joint liability, the amount which pursuant to the agreement is to be contributed by the estate toward payment of the joint liability.
+
+If the decedent's estate and his surviving spouse are entitled to a refund on account of an overpayment of a joint income tax liability, the overpayment is an asset includible in the decedent's gross estate under section 2033 in the amount to which the estate would be entitled under local law, as between the estate and the surviving spouse. In the absence of evidence to the contrary, the includible amount is presumed to be the amount by which the decedent's contributions toward payment of the joint tax exceeds his liability determined in accordance with the principles set forth in this paragraph (other than subparagraph (1) of this paragraph).
+
+(g) *Post-death adjustments of deductible tax liability.* Post-death adjustments increasing a tax liability accrued prior to the decedent's death, including increases of taxes deducted under this section, will increase the amount of the deduction available under section 2053(a)(3) for that tax liability. Similarly, any refund subsequently determined to be due to and received by the estate or its successor in interest with respect to taxes deducted by the estate under this section reduce the amount of the deduction taken for that tax liability under section 2053(a)(3). Expenses associated with defending the estate against the increase in tax liability or with obtaining the refund may be deductible under § 20.2053-3(d)(3). A protective claim for refund of estate taxes may be filed before the expiration of the period of limitation for filing a claim for refund in order to preserve the estate's right to claim a refund if the amount of a deductible tax liability may be affected by such an adjustment or refund. The application of this section may be illustrated by the following examples:
+
+Example 1. Increase in tax due,After the decedent's death, the Internal Revenue Service examines the gift tax return filed by the decedent in the year before the decedent's death and asserts a deficiency of $100x. The estate pays attorney's fees of $30x in a non-frivolous defense against the increased deficiency. The final determination of the deficiency, in the amount of $90x, is paid by the estate prior to the expiration of the limitation period for filing a claim for refund. The estate may deduct $90x under section 2053(a)(3) and $30x under § 20.2053-3(c)(2) or (d)(3) in connection with a timely claim for refund.Example 2. Refund of taxes paid,Decedent's estate timely files D's individual income tax return for the year in which the decedent died. The estate timely pays the entire amount of the tax due, $50x, as shown on that return. The entire $50x was attributable to income received prior to the decedent's death. Decedent's estate subsequently discovers an error on the income tax return and timely files a claim for refund of income tax. Decedent's estate receives a refund of $10x. The estate is allowed a deduction of only $40x under section 2053(a)(3) for the income tax liability accrued prior to the decedent's death. If D's estate had claimed a deduction of $50x on D's United States Estate (and Generation-Skipping Transfer) Tax Return (Form 706), the deduction claimed under section 2053(a)(3) will be allowed only to the extent of $40x upon examination by the Commissioner.
+
+(h) *Effective/applicability date.* This section applies to the estates of decedents dying on or after October 20, 2009.
+
+[T.D. 6296, 23 FR 4529, June 24, 1958, as amended at T.D. 9468, 74 FR 53664, Oct. 20, 2009]

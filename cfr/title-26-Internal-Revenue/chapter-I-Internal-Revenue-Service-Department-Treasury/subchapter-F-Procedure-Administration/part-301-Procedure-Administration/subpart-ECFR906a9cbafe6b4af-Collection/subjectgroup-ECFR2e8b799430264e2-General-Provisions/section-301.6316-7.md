@@ -1,0 +1,23 @@
+##### § 301.6316-7 Payment of Federal Insurance Contributions Act taxes in foreign currency. #####
+
+(a) *In general.* The taxes imposed on employees and employers by sections 3101 and 3111, respectively, of chapter 21 of the Code (Federal Insurance Contributions Act) or the corresponding sections of the Internal Revenue Code of 1939 may, with respect to wages (as defined in section 3121(a) of chapter 21 of the Code or the corresponding section of the Internal Revenue Code of 1939) paid in nonconvertible foreign currency (as defined in paragraph (b) of § 301.6316-2) for services performed on or after January 1, 1951, be paid in that currency if all such wages—
+
+(1) Are paid from funds made available to a foundation or commission established in a foreign country pursuant to an agreement made under the authority of section 32(b) of the Surplus Property Act of 1944, as amended (50 U.S.C. App. 1641(b)(2)), or established or continued pursuant to an agreement made under authority of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2451); and
+
+(2) Are paid to a U.S. citizen for services performed in the employ of such foundation or commission.
+
+(b) *Return requirements*—(1) *Statements required.* (i) A return on which payment of Federal Insurance Contributions Act taxes is made in accordance with this section shall have attached thereto a statement, certified by the foundation or commission filing the return, stating that the foundation or commission is an organization established pursuant to an agreement made under authority of section 32(b) of the Surplus Property Act of 1944, as amended, or established or continued pursuant to an agreement made under authority of the Mutual Educational and Cultural Exchange Act of 1961, as amended.
+
+(ii) The taxpayer shall also attach to the return a statement showing the rates of exchange used in determining in United States dollars the wages reported on the return and the taxes due with respect thereto. See paragraph (c)(1) of this section.
+
+(2) *Cross references.* For the place for filing returns of the Federal Insurance Contributions Act taxes, see § 31.6091-1(c) of this chapter (Employment Tax Regulations). For the time for filing returns of the Federal Insurance Contributions Act taxes, see § 31.6071(a)-1 of this chapter (Employment Tax Regulations).
+
+(c) *Payment of tax*—(1) *Determination of the tax.* In determining in U.S. dollars the wages required to be reported on the return and the taxes due with respect thereto, the taxpayer shall use the rate of exchange which most clearly reflects the correct equivalent in dollars, whether it be the official rate, the open market rate, or any other appropriate rate.
+
+(2) *Deposit of foreign currency with disbursing officer.* (i) After determination is made in U.S. dollars of the Federal Insurance Contributions Act taxes with respect to wages paid in nonconvertible foreign currency, the amount so determined shall be deposited in the same nonconvertible foreign currency with the disbursing officer of the Department of State for the foreign country where the fund is located from which such wages were paid. The amount of the foreign currency to be deposited shall be that amount which, when converted at the rate of exchange used on the date of deposit by the disbursing officer for the acquisition of such currency for his official disbursements, equals the taxes determined in U.S. dollars.
+
+(ii) The disbursing officer may rely upon the taxpayer for the determination of the amount of tax payable in foreign currency but may not accept any such currency for deposit until the taxpayer has presented for inspection the certified statement referred to in paragraph (b)(1) of this section. Upon acceptance of foreign currency for deposit the disbursing officer shall give the taxpayer a receipt in duplicate showing the name and address of the depositor, the date of the deposit, the amount of foreign currency deposited and its equivalent in U.S. dollars on the date of deposit, and the kind of tax for which the deposit is made.
+
+(iii) Every taxpayer making a deposit of foreign currency in accordance with this paragraph shall attach to the return required to be filed in accordance with paragraph (b) of this section the original of the receipt given by the disbursing officer. Tender of such receipt to the Director of International Operations shall be considered as payment of tax in an amount equal to the U.S. dollars represented by the receipt.
+
+(iv) A taxpayer shall make the deposit required by this paragraph in ample time to permit it to attach the receipt to its return for filing within the time prescribed by § 31.6071(a)-1 of this chapter (Employment Tax Regulations).

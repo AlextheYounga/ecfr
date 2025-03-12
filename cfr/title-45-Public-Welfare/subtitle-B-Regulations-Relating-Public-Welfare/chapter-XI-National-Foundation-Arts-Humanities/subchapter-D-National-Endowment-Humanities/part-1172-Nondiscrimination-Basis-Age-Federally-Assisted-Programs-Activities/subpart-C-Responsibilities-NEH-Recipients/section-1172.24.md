@@ -1,0 +1,3 @@
+##### § 1172.24 Information requirements. #####
+
+Each recipient shall keep records containing information necessary for NEH to determine whether the recipient is in compliance with the Act and the regulations in this part, and shall provide any such records to NEH upon request and in the preferred format specified by NEH. Each recipient shall also permit reasonable access by NEH to its books, records, accounts, and other facilities and sources of information, to the extent necessary for NEH to determine whether the recipient is in compliance with the Act and this part.

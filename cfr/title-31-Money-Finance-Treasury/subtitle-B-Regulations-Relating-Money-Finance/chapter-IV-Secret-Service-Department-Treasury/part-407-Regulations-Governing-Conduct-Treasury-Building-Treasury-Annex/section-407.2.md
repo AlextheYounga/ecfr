@@ -1,0 +1,3 @@
+##### § 407.2 Applicability. #####
+
+The regulations in this part apply to the building and grounds of the Main Treasury Building and the Treasury Annex Building located in Washington, DC, at 15th Street and Pennsylvania Avenue NW., and Madison Place and Pennsylvania Avenue NW., respectively, and to all persons entering in or on such property. The Main Treasury Building and grounds and the Treasury Annex Building and grounds shall hereafter be referred to in the regulations in this part as “property”.

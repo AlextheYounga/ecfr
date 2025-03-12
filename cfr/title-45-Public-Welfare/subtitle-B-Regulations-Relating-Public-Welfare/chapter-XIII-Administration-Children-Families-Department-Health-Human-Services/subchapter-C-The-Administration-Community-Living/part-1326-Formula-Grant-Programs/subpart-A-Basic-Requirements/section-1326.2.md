@@ -1,0 +1,11 @@
+##### § 1326.2 Obligation of funds. #####
+
+(a) Funds which the Federal Government allots under this part during a Federal fiscal year are available for obligation by States for a two-year period beginning with the first day of the Federal fiscal year in which the grant is awarded.
+
+(b)(1) A State incurs an obligation for acquisition of personal property or for the performance of work on the date it makes a binding, legally enforceable, written commitment, or when the State Council on Developmental Disabilities enters into an Interagency Agreement with an agency of State government for acquisition of personal property or for the performance of work.
+
+(2) A State incurs an obligation for personal services, for services performed by public utilities, for travel or for rental of real or personal property on the date it receives the services, its personnel takes the travel, or it uses the rented property.
+
+(c)(1) A Protection & Advocacy System may elect to treat entry of an appearance in judicial and administrative proceedings on behalf of an individual with a developmental disability as a basis for obligating funds for the litigation costs. The amount of the funds obligated must not exceed a reasonable estimate of the costs, and the way the estimate was calculated must be documented.
+
+(2) For the purpose of this paragraph (c), *litigation costs* means expenses for court costs, depositions, expert witness fees, travel in connection with a case and similar costs, and costs resulting from litigation in which the agency has represented an individual with developmental disabilities (*e.g.,* monitoring court orders, consent decrees), but not for salaries of employees of the P&A. All funds made available for Federal assistance to State Councils on Developmental Disabilities and to the P&As obligated under this paragraph (c) are subject to the requirement of paragraph (a) of this section. These funds, if reobligated, may be reobligated only within a two-year period beginning with the first day of the Federal fiscal year in which the funds were originally awarded.

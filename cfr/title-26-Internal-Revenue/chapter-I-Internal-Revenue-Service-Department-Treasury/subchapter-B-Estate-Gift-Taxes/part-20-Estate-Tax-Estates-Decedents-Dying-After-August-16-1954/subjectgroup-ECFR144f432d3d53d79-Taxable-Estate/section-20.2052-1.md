@@ -1,0 +1,3 @@
+##### § 20.2052-1 Exemption. #####
+
+An exemption of $60,000 is allowed as a deduction under section 2052 from the gross estate of a decedent who was a citizen or resident of the United States at the time of his death. For the amount of the exemption allowed as a deduction from the gross estate of a decedent who was a nonresident not a citizen of the United States, see paragraph (a)(3) of § 20.2106-1.

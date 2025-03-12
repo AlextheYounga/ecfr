@@ -1,0 +1,3 @@
+##### § 1.263(b)-1 Expenditures for advertising or promotion of good will. #####
+
+See § 1.162-14 for the rules applicable to a corporation which has elected to capitalize expenditures for advertising or the promotion of good will under the provisions of section 733 or section 451 of the Internal Revenue Code of 1939, in computing its excess profits tax credit under Subchapter E, Chapter 2, or Subchapter D, Chapter 1, of the Internal Revenue Code of 1939.

@@ -1,0 +1,3 @@
+##### § 509.109 Interest. #####
+
+The rate of United States tax imposed by the Internal Revenue Code of 1954 upon interest on bonds, securities, notes, debentures, or on any other form of indebtedness, including interest on obligations of the United States, obligations of instrumentalities of the United States, and mortgages and bonds secured by real property, which is derived from sources within the United States by a nonresident alien individual who is a resident of Switzerland, or by a Swiss corporation or other entity, shall not exceed 5 percent under the provisions of Article VII of the convention, if such alien, corporation, or other entity at no time during the taxable year in which such interest is derived has a permanent establishment in the United States.

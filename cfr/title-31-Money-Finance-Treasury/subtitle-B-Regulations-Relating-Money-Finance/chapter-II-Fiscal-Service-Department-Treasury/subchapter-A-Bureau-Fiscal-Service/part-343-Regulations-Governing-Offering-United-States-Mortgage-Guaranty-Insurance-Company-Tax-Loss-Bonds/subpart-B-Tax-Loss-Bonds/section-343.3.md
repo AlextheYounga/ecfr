@@ -1,0 +1,11 @@
+##### § 343.3 Redemption. #####
+
+(a) *General.* Tax and loss bonds may not be called for redemption by the Secretary of the Treasury prior to maturity, but may be redeemed in whole or in part at the owner's option at any time after three months from issue date. The Director of the Internal Revenue Service District in which the owner's principal place of business is located will be given notice of all redemptions. Partial redemptions of bonds may be requested in any whole dollar amount; however, an account balance of less than $1,000 will be redeemed in total.
+
+(b) *Method of payment.* Payment will be made by the Automated Clearing House (ACH) method for the owner's account at a financial institution designated by the owner. To the extent applicable, provisions of § 357.26, Payments, and provisions of 31 CFR part 370, shall govern ACH payments made under this offering. The Department of the Treasury may employ alternate payment procedures in lieu of ACH in any case or class of cases where operational considerations require such action.
+
+(c) *Book-entry.* Bonds will be redeemed automatically upon maturity. Payment will be made in accordance with the ACH payment instructions on file. Redemptions prior to maturity will be made upon receipt of a redemption request. Notice of redemption prior to maturity must be submitted in writing on company letterhead to the Division of Special Investments, or faxed to (304) 480-7786 or to (304) 480-6818. The notice must be received by the Division of Special Investments not less than three business days prior to the requested redemption date. It must contain the owner's name and Tax Identification Number, the requested redemption date, any changed payment routing instructions, the case number(s) to be redeemed, including original issue date(s), and the amount to be redeemed.
+
+(d) *Registered.* To obtain redemption, a bond with the assignment for redemption properly completed and executed must be presented to the Division of Special Investments. Payment routing instructions must also be included with the bond at redemption. Upon partial redemption of a registered bond, the remaining balance will be reissued in book-entry form with the original issue and maturity date.
+
+(Approved by the Office of Management and Budget under control number 1535-0127)

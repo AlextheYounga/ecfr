@@ -1,0 +1,5 @@
+##### § 400.319 Allocation of funds. #####
+
+(a) A State with more than one qualifying targeted assistance county may allocate its targeted assistance funds differently from the formula allocations for counties presented in the ORR targeted assistance notice in a fiscal year only on the basis of its population of refugees who arrived in the U.S. during the most recent 5-year period. A State may use welfare data as an additional factor in the allocation of targeted assistance funds if it so chooses; however, a State may not assign a greater weight to welfare data than it has assigned to population data in its allocation formula.
+
+(b) A State must assure that not less than 95 percent of the total award to the State is made available to the qualified county or counties, except in those cases where the qualified county or counties have agreed to let the State administer the targeted assistance program in the county's stead.

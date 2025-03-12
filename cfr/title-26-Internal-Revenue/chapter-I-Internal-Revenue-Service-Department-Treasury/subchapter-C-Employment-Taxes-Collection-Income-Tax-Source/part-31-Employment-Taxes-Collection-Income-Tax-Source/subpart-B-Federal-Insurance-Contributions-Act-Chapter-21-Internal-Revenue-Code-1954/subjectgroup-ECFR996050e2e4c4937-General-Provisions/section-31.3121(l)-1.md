@@ -1,0 +1,3 @@
+##### § 31.3121(l)-1 Agreements entered into by domestic corporations with respect to foreign subsidiaries. #####
+
+For provisions relating to the extension of the Federal old-age, survivors, and disability insurance system established by title II of the Social Security Act to certain services performed outside the United States by citizens of the United States in the employ of a foreign subsidiary of a domestic corporation, see the Regulations Relating to Contract Coverage of Employees of Foreign Subsidiaries (part 36 of this chapter).

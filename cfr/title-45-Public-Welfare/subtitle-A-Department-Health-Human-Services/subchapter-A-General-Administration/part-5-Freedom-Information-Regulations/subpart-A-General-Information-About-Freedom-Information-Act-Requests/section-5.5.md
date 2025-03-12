@@ -1,0 +1,7 @@
+##### § 5.5 Interrelationship between the FOIA and the Privacy Act of 1974. #####
+
+The FOIA allows any person (whether an individual or entity) to request access to records. The Privacy Act, at 5 U.S.C. 552a(d), provides an additional right of access, allowing individuals to request records about themselves, if the records are maintained in a system of records (defined in 5 U.S.C. 552a(a)(5)).
+
+(a) *Requesting records about you.* If any part of your request includes records about yourself that are maintained within a system of records as defined by the Privacy Act at 5 U.S.C. 552a(a)(5), you should make your request in accordance with the Privacy Act and the Department's implementing regulations at 45 CFR part 5b. This includes requirements to verify your identity. We will process the request under the Privacy Act and, if it is not fully granted under the Privacy Act, we will process it under the FOIA. You may obtain, under the FOIA, information that is exempt from access under the Privacy Act, if the information is not excluded or exempt under the FOIA. If you request records about yourself that are not maintained within a system of records, we will process your request under the FOIA only.
+
+(b) *Requesting records about another individual.* If you request records about another individual, we will process your request under the FOIA. You may receive greater access by following the procedures described in § 5.22(g).

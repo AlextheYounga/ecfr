@@ -1,0 +1,3 @@
+##### § 145.4061-1 Application to manufacturers tax. #####
+
+The provisions of § 145.4051-1(e) (1) and (2), relating to the definition of tractors and trucks, shall apply to section 4061(a)(1) for sales made on or after January 7, 1983. However, an incomplete chassis cab will be treated as a truck chassis for sales made on or after January 7, 1983, and before April 1, 1983. For purposes of section 4061, gross vehicle weight shall be determined under § 48.4061(a)-1(f)(3) (i) through (iv) for sales made on or after January 7, 1983, and before April 1, 1983.

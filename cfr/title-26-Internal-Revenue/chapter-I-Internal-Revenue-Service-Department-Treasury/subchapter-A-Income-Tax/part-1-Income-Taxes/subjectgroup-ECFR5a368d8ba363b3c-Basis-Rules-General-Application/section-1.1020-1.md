@@ -1,0 +1,21 @@
+##### § 1.1020-1 Election as to amounts allowed in respect of depreciation, etc., before 1952. #####
+
+(a) *In general.* (1) Any person may elect to have the adjustments to the cost or other basis of property under section 1016(a)(2) determined in accordance with subparagraph (B) of such section by filing a statement of election in accordance with the requirements set forth in paragraph (b) of this section. Any election made after 1952 shall be irrevocable when made. Any election made after 1952 shall apply with respect to all property held by the person making the election at any time on or before December 31, 1952, and shall apply to all periods since February 28, 1913, and before January 1, 1952, during which such person held such property or for which adjustments must be made under section 1016(b). For rules with respect to an election made on or before December 31, 1952, see paragraph (c) of this section.
+
+(2) An election by a partner on his own behalf is not an election for the partnership of which he is a member. A separate election must be made on behalf of the partnership. (See section 703(b) (relating to elections of the partnership).) An election on behalf of the partnership applies only with respect to the partnership, and does not apply to the separate property of the partners. A similar rule applies with respect to elections by trusts and beneficiaries of trusts. These rules also apply with respect to a revocation of an election where such election was made on or before December 31, 1952.
+
+(b) *Rules applicable to making of election.* The following rules are applicable to the making of an election under section 1020:
+
+(1) *Form of election.* The election shall be in the form of a statement in writing, shall state the name and address of the taxpayer making the election, and shall contain a statement that such taxpayer elects to have the provisions of section 1016(a)(2)(B) apply in respect of all periods since February 28, 1913, and before January 1, 1952.
+
+(2) *Signature.* The statement shall be signed by the taxpayer making the election, if an individual, or, if the taxpayer making the election is not an individual, the statement shall be signed by the person or persons required to sign the income return of such taxpayer.
+
+(3) *Filing.* The statement must be filed on or before December 31, 1954, in the office of the district director for the internal revenue district in which the income tax return for the year of the election is required to be filed. For rules as to when timely mailing will be treated as timely filing of the statement see section 7502.
+
+(4) *Filing of duplicate.* A copy of the statement of election must be filed with the first return, amended return, or claim for refund filed on or after the date on which the election is made.
+
+(c) *Election made on or before December 31, 1952.* An election made on or before December 31, 1952, in accordance with the provisions of section 113(d) of the Internal Revenue Code of 1939, may be revoked by filing on or before December 31, 1954, in the same office in which the election was filed, a statement of revocation signed in the same manner as the election. Such statement made by any person is irrevocable when made with respect to such person, and no new election may thereafter be made by such person. A copy of the revocation must be filed with the first return, amended return, or claim for refund, filed after the date of the revocation. For additional rules with respect to election made on or before December 31, 1952, see 26 CFR (1939) 39.113(b)(1)-1 (Regulations 118).
+
+(d) *Validity of elections or revocation of elections.* An election or revocation of an election which conforms in substance to the provisions of this section will not be deemed invalid solely because it was filed before the date on which the regulations in this section were promulgated.
+
+(e) *Effect of election.* For rules relating to the effect of an election under this section, see section 1016(a)(2) and the regulations thereunder.

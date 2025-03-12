@@ -1,0 +1,17 @@
+##### § 301.7507-9 Termination of immunity. #####
+
+(a) *In general.* (1) In the case of a bank within section 7507(a), immunity will end whenever, and to the extent that, taxes may be assessed and collected, within the applicable limitation periods as extended by section 7507, without diminishing the assets available and necessary for payment of depositors. Immunity of a bank within section 7507 (b) is terminated, as to segregated assets, whenever claims of depositors against such assets have been paid in full. See § 301.7507-3. As to segregated assets, the termination of immunity is complete, and any balance remaining after payment of depositors is available, within statutory limitations, for collection of tax due at any time. However, taxes of the bank will be collectible from segregated assets only to the extent that the bank has a legal or equitable interest therein. Assets as to which there has been a complete conveyance for benefit of depositors, and the bank has bonafide been divested of all legal and equitable interest, are not available for collection of the bank's tax liability.
+
+(2) As to unsegregated assets of a bank within section 7507(b), immunity terminates only as to taxes thereafter becoming due. When taxes are once immune from collection, the immunity as to unsegregated assets is absolute. But see paragraph (a) of § 301.7507-4.
+
+(b) *General creditors.* While the immunity from tax collection is for protection of depositors, and not for benefit of general creditors, in some cases the immunity will not end until the assets are sufficient to cover indebtedness of creditors generally. This situation will exist where under applicable law the claims of general creditors are on a parity with those of depositors, so that to pay depositors in full it is necessary to pay all creditors in full.
+
+(c) *Shareholder liability.* In determining the sufficiency of the assets to satisfy the depositors' claims, shareholders' liability to the extent collectible shall be treated as available assets. See § 301.7507-7.
+
+(d) *Deposit insurance.* Deposit insurance payable to depositors shall not be treated as an asset of the bank and shall be disregarded in determining the sufficiency of the assets to meet the claims of depositors. For taxable years ending on or after April 22, 1992, deposit insurance does not include Federal Financial Assistance (as defined in section 597) and other payments described in section 597(a) prior to its amendment by the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 and, therefore, such payments must be taken into account to determine whether a bank's assets are sufficient to meet claims of depositors.
+
+(e) *Notice by bank.* A bank within section 7507(b), upon termination of immunity with respect to (1) earnings, (2) segregated or transferred assets, or (3) unsegregated assets, shall immediately notify the district director for the internal revenue district in which the taxpayer's returns were filed of such termination of immunity. See paragraph (b) of § 301.7507-8.
+
+(f) *Payment by bank.* As immunity terminates with respect to any assets, it will be the duty of the bank, without notice from the district director, to make payment of taxes collectible from such assets.
+
+[32 FR 15241, Nov. 3, 1967, as amended by T.D. 8641, 60 FR 66105, Dec. 21, 1995]

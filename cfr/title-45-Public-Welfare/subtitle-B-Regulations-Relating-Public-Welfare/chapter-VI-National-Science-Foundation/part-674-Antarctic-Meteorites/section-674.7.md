@@ -1,0 +1,3 @@
+##### § 674.7 Exception for serendipitous finds. #####
+
+A person who makes a serendipitous discovery of a meteorite in Antarctica which could not have been reasonably anticipated, may collect the meteorite for scientific research purposes, provided that the meteorite is collected in the manner most likely to prevent contamination under the circumstances, and provided that the meteorite is otherwise handled, documented and curated in accordance with the requirements of § 674.5.

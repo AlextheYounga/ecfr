@@ -1,0 +1,5 @@
+##### § 1.860-4 Claim for credit or refund. #####
+
+If the allowance of a deduction for a deficiency dividend results in an overpayment of tax, the taxpayer, in order to secure credit or refund of the overpayment, must file a claim on Form 1120X in addition to the claim for the deficiency dividend deduction required under section 860(g). The credit or refund will be allowed as if on the date of the determination (as defined in section 860(e)) two years remained before the expiration of the period of limitations on the filing of claim for refund for the taxable year to which the overpayment relates.
+
+(The reporting requirements of this section were approved by the Office of Management and Budget under control number 1545-0045)(Sec. 7805, 68A Stat. 917; 26 U.S.C. 7805; sec. 860(e) (92 Stat. 2849, 26 U.S.C. 860(e)); sec. 860(g) (92 Stat. 2850, 26 U.S.C. 860(g)))[T.D. 7936, 49 FR 2109, Jan. 18, 1984]

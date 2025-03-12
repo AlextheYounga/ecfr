@@ -1,0 +1,3 @@
+##### § 506.16 Failure to meet the conditions and requirements prescribed under the Geneva Convention of August 12, 1949. #####
+
+For the purpose of this part, obligations under the Geneva Convention of August 12, 1949, consist of the responsibility assumed by the contracting parties thereto with respect to prisoners of war within the meaning of the Convention, to comply with and to fully observe the provisions of the Convention, and particularly those articles relating to food rations of prisoners of war, humane treatment, protection, and labor of prisoners of war, and the failure to abide by the conditions and requirements established in such Convention by any hostile force with which the Armed Forces of the United States were engaged in armed conflict.

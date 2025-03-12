@@ -1,0 +1,5 @@
+##### § 301.6103(k)(9)-1 Disclosure of returns and return information relating to payment of tax by credit card and debit card. #####
+
+Officers and employees of the Internal Revenue Service may disclose to card issuers, financial institutions, or other persons such return information as the Commissioner deems necessary in connection with processing credit card and debit card transactions to effectuate payment of tax as authorized by § 301.6311-2. Officers and employees of the Internal Revenue Service may disclose such return information to such persons as the Commissioner deems necessary in connection with billing or collection of the amounts charged or debited, including resolution of errors relating to the credit card or debit card account as described in § 301.6311-2(d).
+
+[T.D. 8969, 66 FR 64742, Dec. 14, 2001]

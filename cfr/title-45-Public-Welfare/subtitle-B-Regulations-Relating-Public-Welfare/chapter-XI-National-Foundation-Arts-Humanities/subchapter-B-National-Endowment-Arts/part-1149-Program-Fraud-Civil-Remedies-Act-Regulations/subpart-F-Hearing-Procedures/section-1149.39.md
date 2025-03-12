@@ -1,0 +1,3 @@
+##### § 1149.39 Who pays the costs for a subpoena? #####
+
+The party requesting a subpoena must pay the cost of the fees and mileage of any witness subpoenaed in the amounts that would be payable to a witness in a proceeding in United States District Court. A check for witness fees and mileage must accompany the subpoena when served, except that when a subpoena is issued on behalf of the NEA, a check for witness fees and mileage need not accompany the subpoena.

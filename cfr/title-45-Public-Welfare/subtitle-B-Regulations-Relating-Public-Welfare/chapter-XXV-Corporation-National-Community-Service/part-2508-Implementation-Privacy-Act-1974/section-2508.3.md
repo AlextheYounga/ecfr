@@ -1,0 +1,3 @@
+##### § 2508.3 What is the Corporation's Privacy Act policy? #####
+
+It is the policy of the Corporation to protect, preserve, and defend the right of privacy of any individual about whom the Corporation maintains personal information in any system of records and to provide appropriate and complete access to such records including adequate opportunity to correct any errors in said records. Further, it is the policy of the Corporation to maintain its records in such a manner that the information contained therein is, and remains material and relevant to the purposes for which it is received in order to maintain its records with fairness to the individuals who are the subjects of such records.

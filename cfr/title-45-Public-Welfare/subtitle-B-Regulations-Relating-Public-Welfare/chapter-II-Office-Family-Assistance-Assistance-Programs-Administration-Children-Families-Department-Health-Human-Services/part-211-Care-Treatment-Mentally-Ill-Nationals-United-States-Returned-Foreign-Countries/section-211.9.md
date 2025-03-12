@@ -1,0 +1,3 @@
+##### § 211.9 Examination and reexamination. #####
+
+Following admission of an eligible person to a hospital for temporary or continuing care and treatment, he shall be examined by qualified members of the medical staff as soon as practicable, but not later than the fifth day after his admission. Each such person shall be reexamined at least once within each six month period beginning with the month following the month in which he was first examined.

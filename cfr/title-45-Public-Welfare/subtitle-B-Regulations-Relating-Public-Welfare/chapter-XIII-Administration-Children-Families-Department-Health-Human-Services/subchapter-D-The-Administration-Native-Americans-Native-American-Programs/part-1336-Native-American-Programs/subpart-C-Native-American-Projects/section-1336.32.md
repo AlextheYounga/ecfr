@@ -1,0 +1,3 @@
+##### § 1336.32 Grants. #####
+
+Generally, financial assistance will be made available for a one-year budget period and subsequent non-competing continuation awards with the same project period will also be for one year. A recipient must submit a separate application to have financial assistance continued for each subsequent year, with the same project period, but the continuation application need only contain budget and a summary progress report.

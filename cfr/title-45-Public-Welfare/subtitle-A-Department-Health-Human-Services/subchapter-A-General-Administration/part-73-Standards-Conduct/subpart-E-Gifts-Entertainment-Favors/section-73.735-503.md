@@ -1,0 +1,11 @@
+##### § 73.735-503 Criminal provisions relating to gifts, entertainment, and favors. #####
+
+(a) The law provides criminal penalties for whoever, directly or indirectly:
+
+(1) Receives or accepts anything of value for or because of any official act the employee has performed or will perform; or
+
+(2) Gives, offers or promises anything of value for the performance of an official act or to influence the performance of an official act. 18 USC 201.
+
+(b) The law prohibits an employee from receiving any salary or any contribution to, or supplementation of, his or her salary as compensation for services as an officer or employee of the Government from any source other than the United States or any State, county or municipality. This law does not prohibit an employee from continuing to participate in a bona fide pension, retirement, group life, health or accident insurance, profit-sharing, stock bonus or other employee welfare or benefit plan maintained by a former employer. 18 U.S.C. 209.
+
+Example 1:A corporate executive is asked to accept a position in the Department. The corporation offers to continue to pay the executive the difference between his or her salary as a Government employee and that received by an employee of the corporation. Such payment would be considered to be “compensation for” the employee's Government service and is prohibited.Example 2:A corporate executive is asked to accept a position in the Department. The corporation proposes to pay him or her a special severance payment in anticipation of this or her serving in the Government. This proposal would be prohibited because there is no distinction between the proposed lump-sum payment and the prohibited continuation of salary payments described in the example above.Example 3:A corporate executive is asked to accept a position in the Department. The corporation has an established policy which provides for an amount of severance pay to be paid any departing executive and proposes to make payment based on that policy when the executive leaves. The executive may accept the payment. Under these circumstances it is clear that the severance pay is in payment for past services not in anticipation of the future services for the Government.

@@ -1,0 +1,3 @@
+##### § 363.136 Do zero-percent certificates of indebtedness pay interest? #####
+
+Zero-percent certificates of indebtedness do not pay any interest. However, the Secretary may prescribe a rate of interest, or change the interest rate, for zero-percent certificates of indebtedness by announcement at any time. The new rate would apply to zero-percent certificates of indebtedness issued thereafter, as provided in the announcement. The Secretary's determination of the rate will be final.

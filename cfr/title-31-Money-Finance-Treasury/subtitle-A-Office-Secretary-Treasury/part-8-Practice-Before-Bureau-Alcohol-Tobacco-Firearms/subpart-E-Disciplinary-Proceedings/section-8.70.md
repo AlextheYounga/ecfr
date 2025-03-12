@@ -1,0 +1,3 @@
+##### § 8.70 Decision of the Secretary. #####
+
+On appeal from or review of the intial decision of the Administrative Law Judge, the Secretary shall make the agency decision. In making this decision, the Secretary shall review the record or those portions of the records as may be cited by the parties in order to limit the issues. The Director of Prasctice shall transmit a copy of the Secretary's decision to the respondent.

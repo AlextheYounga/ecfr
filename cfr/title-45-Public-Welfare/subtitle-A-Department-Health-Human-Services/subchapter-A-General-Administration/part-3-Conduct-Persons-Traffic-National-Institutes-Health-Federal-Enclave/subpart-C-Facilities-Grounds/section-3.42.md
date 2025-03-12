@@ -1,0 +1,17 @@
+##### § 3.42 Restricted activities. #####
+
+(a) *Hobbies and sports.* A person may undertake hobbies and sports only in designated areas or as approved by the Director.
+
+(b) *Pets and other animals.* A person may not bring on the enclave any cat, dog, or other animal except for authorized purposes. This prohibition does not apply to domestic pets at living quarters or to the exercise of these pets under leash or other appropriate restraints. The use of a dog by a handicapped person to assist that person is authorized.
+
+(c) *Photography.* A person may take photographs, films or audiovisuals, for personal or news purposes on the grounds of the enclave or in entrances, lobbies, foyers, corridors, and auditoriums in use for public meetings, except when contrary to security regulations or Department of Health and Human Services policies, or where prohibited by appropriate signs. Photographs and similar activities for advertising or commercial purposes may be taken only with the advance written approval of the Director. A person may take photographs of a patient only with the informed consent of the patient (or the natural or legal guardian) and of the Director of the Warren Grant Magnuson Clinical Center or delegate.
+
+(d) *Intoxicating beverages, narcotics, and other controlled substances.* A person may not possess, sell, consume, or use alcohol or other intoxicating beverages, except in connection with official duties, as part of authorized research, or as otherwise authorized by the Director, or, in the case of possession, consumption or use only, in living quarters. (The sale, consumption, use, or possession of narcotics and other controlled substances is prohibited and shall be governed by the Controlled Substances Act (21 U.S.C. 841-845); driving under the influence of an alcoholic beverage, drug or controlled substance is prohibited and shall be governed by the Maryland *Transportation Code Annotated* section 21-902.)
+
+(e) *Nuisances and disturbances.* The following acts by a person are prohibited: Unwarranted loitering, disorderly conduct (acting in a disorderly manner to the disturbance of the public peace is prohibited and shall be governed by *Maryland Code Annotated,* Article 27, section 122); littering or disposal of rubbish in an unauthorized manner, the creation of any hazard to persons or property; the throwing of articles of any kind from or at a building; the climbing upon any part of a building for other than an authorized purpose; the loud playing of radios or other similar devices; and rollerskating, skateboarding, sledding or similar activities, except in officially designated areas.
+
+(f) *Smoking.* Except as part of an approved medical research protocol, a person may not smoke in any building on the enclave.
+
+(g) *Firearms, explosive, and other weapons.* No person other than a specifically authorized police officer shall possess firearms, explosives, or other dangerous or deadly weapons or dangerous materials intended to be used as weapons either openly or concealed. Upon written request, the Director may permit possession in living quarters of antique firearms held for collection purposes, if the Director finds that the collection does not present any risk of harm.
+
+[55 FR 2068, Jan. 22, 1990, as amended at 57 FR 1874, Jan. 16, 1992]

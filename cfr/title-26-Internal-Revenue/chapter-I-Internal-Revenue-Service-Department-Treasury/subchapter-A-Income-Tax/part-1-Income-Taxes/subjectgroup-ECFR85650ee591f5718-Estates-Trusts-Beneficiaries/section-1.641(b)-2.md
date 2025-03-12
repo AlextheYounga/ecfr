@@ -1,0 +1,7 @@
+##### § 1.641(b)-2 Filing of returns and payment of the tax. #####
+
+(a) The fiduciary is required to make and file the return and pay the tax on the taxable income of an estate or of a trust. Liability for the payment of the tax on the taxable income of an estate attaches to the person of the executor or administrator up to and after his discharge if, prior to distribution and discharge, he had notice of his tax obligations or failed to exercise due diligence in ascertaining whether or not such obligations existed. For the extent of such liability, see section 3467 of the Revised Statutes, as amended by section 518 of the Revenue Act of 1934 (31 U. S. C. 192). Liability for the tax also follows the assets of the estate distributed to heirs, devisees, legatees, and distributees, who may be required to discharge the amount of the tax due and unpaid to the extent of the distributive shares received by them. See section 6901. The same considerations apply to trusts.
+
+(b) The estate of an infant, incompetent, or other person under a disability, or, in general, of an individual or corporation in receivership or a corporation in bankruptcy is not a taxable entity separate from the person for whom the fiduciary is acting, in that respect differing from the estate of a deceased person or of a trust. See section 6012(b) (2) and (3) for provisions relating to the obligation of the fiduciary with respect to returns of such persons.
+
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6580, 26 FR 11486, Dec. 5, 1961]

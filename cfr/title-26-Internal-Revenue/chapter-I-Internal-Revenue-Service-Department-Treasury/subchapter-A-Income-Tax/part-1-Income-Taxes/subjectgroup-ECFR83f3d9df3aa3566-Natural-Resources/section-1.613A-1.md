@@ -1,0 +1,5 @@
+##### § 1.613A-1 Post-1974 limitations on percentage depletion in case of oil and gas wells; general rule. #####
+
+Except as otherwise provided in section 613A and the regulations thereunder, in the case of oil or gas which is produced after December 31, 1974, and to which gross income from the property is attributable after such year, the allowance for depletion under section 611 with respect to any oil or gas well shall be computed without regard to section 613. In the case of a taxable year beginning before January 1, 1975, and ending after that date, the percentage depletion allowance (but not the cost depletion allowance) with respect to oil and gas wells for such taxable year shall be determined by treating the portion thereof in 1974 as if it were a short taxable year for purposes of section 613 and the portion thereof in 1975 as if it were a short taxable year for purposes of section 613A.
+
+[T.D. 7487, 42 FR 24264, May 13, 1977]

@@ -1,0 +1,3 @@
+##### § 287.145 What measures will be used to determine NEW Program outcomes? #####
+
+Each grantee must develop its own performance standards and measures to ensure accountability for its program results. A Tribe's program plan must identify planned program outcomes and the measures the Tribe will use to determine them. ACF will compare planned outcomes against outcomes reported in the Tribe's annual reports.

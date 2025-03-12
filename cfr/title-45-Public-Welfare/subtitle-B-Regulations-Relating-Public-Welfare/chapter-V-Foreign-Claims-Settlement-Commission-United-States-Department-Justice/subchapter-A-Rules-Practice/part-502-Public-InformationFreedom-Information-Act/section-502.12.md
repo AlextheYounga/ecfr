@@ -1,0 +1,9 @@
+##### § 502.12 Appeals. #####
+
+(a) Any person to whom a record has not been made available within the time limits established by paragraph (b) of § 502.11, and any person who has been given an adverse determination pursuant to paragraph (b) of § 503.10 of this chapter, that a requested record will not be disclosed, may apply to the Office of Information and Privacy, U.S. Department of Justice, Washington, DC 20530, for reconsideration of the request. The person making such a request will also be notified of the provisions for judicial review provided in 5 U.S.C. 552(a)(4).
+
+(b) Each application for reconsideration must be made in writing within sixty days from the date of receipt of the original denial and must include all information and arguments relied upon by the person making the request. The application must indicate that it is an appeal from a denial of a request made under the Freedom of Information Act. The envelope in which the application is sent must be prominently marked with the letters “FOIA.” If these requirements are not met, the twenty day limit described in § 502.10 will not begin to run until the application has been identified as an application under the Freedom of Information Act and has been received by the Office of Information and Privacy of the Department of Justice.
+
+(c) Whenever it is to be determined necessary, the person making the request may be required to furnish additional information, or proof of factual allegations and other proceedings appropriate in the circumstances may be ordered.
+
+(d) The decision not to disclose a record under this part is considered to be a withholding for the purposes of 5 U.S.C. 552(a)(3).

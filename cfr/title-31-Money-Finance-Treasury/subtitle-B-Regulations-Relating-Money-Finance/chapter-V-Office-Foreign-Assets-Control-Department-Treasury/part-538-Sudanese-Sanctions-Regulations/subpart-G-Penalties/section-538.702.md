@@ -1,0 +1,11 @@
+##### § 538.702 Prepenalty notice. #####
+
+(a) *When required.* If the Director of the Office of Foreign Assets Control has reason to believe that there has occurred a violation of any provision of this part or a violation of the provisions of any license, ruling, regulation, order, direction or instruction issued by or pursuant to the direction or authorization of the Secretary of the Treasury pursuant to this part or otherwise under the International Emergency Economic Powers Act, and the Director determines that further proceedings are warranted, the Director shall notify the alleged violator of the agency's intent to impose a monetary penalty by issuing a prepenalty notice. The prepenalty notice shall be in writing. The prepenalty notice may be issued whether or not another agency has taken any action with respect to the matter.
+
+(b) *Contents of notice* - (1) *Facts of violation.* The prepenalty notice shall describe the violation, specify the laws and regulations allegedly violated, and state the amount of the proposed monetary penalty.
+
+(2) *Right to respond.* The prepenalty notice also shall inform the respondent of the respondent's right to make a written presentation within the applicable 30-day period set forth in § 538.703 as to why a monetary penalty should not be imposed or why, if imposed, the monetary penalty should be in a lesser amount than proposed.
+
+(c) *Informal settlement prior to issuance of prepenalty notice.* At any time prior to the issuance of a prepenalty notice, an alleged violator may request in writing that, for a period not to exceed sixty (60) days, the agency withhold issuance of the prepenalty notice for the exclusive purpose of effecting settlement of the agency's potential civil monetary penalty claims. In the event the Director grants the request, under terms and conditions within the Director's discretion, the Office of Foreign Assets Control will agree to withhold issuance of the prepenalty notice for a period not to exceed 60 days and will enter into settlement negotiations with respect to the potential civil monetary penalty claim.
+
+[70 FR 34063, June 13, 2005]

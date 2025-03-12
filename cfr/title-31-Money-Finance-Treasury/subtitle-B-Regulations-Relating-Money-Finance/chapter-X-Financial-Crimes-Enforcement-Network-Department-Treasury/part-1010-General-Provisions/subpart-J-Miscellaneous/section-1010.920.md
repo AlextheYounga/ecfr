@@ -1,0 +1,3 @@
+##### § 1010.920 Access to records. #####
+
+Except as provided in §§ 1020.410(b)(1), 1021.410(a), and 1023.410(a)(1), and except for the purpose of assuring compliance with the recordkeeping and reporting requirements of this chapter, this chapter does not authorize the Secretary or any other person to inspect or review the records required to be maintained by this chapter. Other inspection, review or access to such records is governed by other applicable law.

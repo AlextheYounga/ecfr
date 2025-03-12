@@ -1,0 +1,19 @@
+##### § 1.412(b)-5 Election of the alternative amortization method of funding. #####
+
+(a) *Alternative amortization method in general.* Section 1013(d) of the Employee Retirement Income Security Act of 1974 provides an alternative method which may be used by certain multiemployer plans (as defined in section 414(f)) which were in existence on January 1, 1974, for funding certain unfunded past service liability. The multiemployer plans which may elect to use this alternative method are those plans (1) under which, on January 1, 1974, contributions were based on a percentage of pay, (2) which use actuarial assumptions with respect to pay that are reasonably related to past and projected experience, and (3) which use rates of interest that are determined on the basis of reasonable acturial assumptions. The unfunded past service liability to which this method applies is that amount existing as of the date 12 months after the date on which section 412 first applies to the plan. The alternative method allows the plan to fund this liability over a period of 40 plan years by charging the funding standard account with an equal annual percentage of the aggregate pay of all participants in the plan instead of the level dollar charges required under section 412(b)(2)(B). Paragraphs (b), (c), (d) and (e) of this section contain procedural rules for electing this alternative method.
+
+(b) *Election procedure.* To elect the alternative amortization method, a multiemployer plan must attach a statement to the annual report required under section 6058(a) for the plan year for which the election is made, stating that the alternative method for funding unfunded past service liability is being adopted. Advance approval from the Internal Revenue Service is not required. The alternative method must be adopted on or before the last day prescribed for filing the annual report corresponding to the last plan year beginning before January 1, 1982.
+
+(c) *Charges to which the alternative amortization method is applicable.* Once elected, the alternative amortization method is applicable to the unfunded past service liability existing as of the date 12 months after the date on which section 412 first applies to the plan. This results in charges to the funding standard account which are in lieu of -
+
+(1) Charges required under clause (i) of section 412(b)(2)(B), and
+
+(2) Charges required under clause (iii) of section 412(b)(2)(B) if the plan amendments referred to in such clause result in a net increase in the unfunded past service liability existing as of the date 12 months after the date on which section 412 first applies to the plan. Such charges generally will arise only with respect to plan amendments adopted in the first plan year to which section 412 applies.
+
+If the election is made on an annual report corresponding to a plan year after the first plan year to which section 412 applies, recomputation of the contributions due in the prior years (to which section 412 applied) will be necessary.
+
+(d) *Limitation.* The sum of the charges described in this paragraph may not be less than the interest on the unfunded past service liabilities described in section 412(b)(2)(B) (i) and (iii), determined as of the date 12 months after the date on which section 412 first applies to the plan.
+
+(e) *Reporting requirements.* Each annual report required by section 6058(a) and periodic report of the actuary required by section 6059 must include all additional information relevant to the use of the alternative amortization method as may be required by the applicable forms and the instructions for such forms.
+
+[T.D. 7702, 45 FR 40113, June 13, 1980]

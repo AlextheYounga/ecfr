@@ -1,0 +1,5 @@
+##### § 1.857-10 Information returns. #####
+
+Nothing in §§ 1.857-8 and 1.857-9 shall be construed to relieve a real estate investment trust or its shareholders from the duty of filing information returns required by regulations prescribed under the provisions of subchapter A, chapter 61 of the Code.
+
+(Sec. 856(d)(4) (90 Stat. 1750; 26 U.S.C. 856(d)(4)); sec. 856(e)(5) (88 Stat. 2113; 26 U.S.C. 856(e)(5)); sec. 856(f)(2) (90 Stat. 1751; 26 U.S.C. (856(f)(2)); sec. 856(g)(2) (90 Stat. 1753; 26 U.S.C. 856(g)(2)); sec. 858(a) (74 Stat. 1008; 26 U.S.C. 858(a)); sec. 859(c) (90 Stat. 1743; 26 U.S.C. 859(c)); sec. 859(e) (90 Stat. 1744; 26 U.S.C. 859(e)); sec. 6001 (68A Stat. 731; 26 U.S.C. 6001); sec. 6011 (68A Stat. 732; 26 U.S.C. 6011); sec. 6071 (68A Stat. 749, 26 U.S.C. 6071); sec. 6091 (68A Stat. 752; 26 U.S.C. 6091); sec. 7805 (68A Stat. 917; 26 U.S.C. 7805), Internal Revenue Code of 1954))[T.D. 6598, 27 FR 4089, Apr. 28, 1962. Redesignated and amended by T.D. 7767, 46 FR 11277, 11279, Feb. 6, 1981]

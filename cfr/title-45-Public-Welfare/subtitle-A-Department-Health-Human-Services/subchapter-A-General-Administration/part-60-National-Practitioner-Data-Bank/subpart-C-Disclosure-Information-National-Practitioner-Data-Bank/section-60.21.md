@@ -1,0 +1,21 @@
+##### § 60.21 How to dispute the accuracy of National Practitioner Data Bank information. #####
+
+(a) *Who may dispute the NPDB information.* The NPDB will routinely mail or transmit electronically to the subject a copy of the report filed in the NPDB. In addition, as indicated in § 60.18, the subject may also request a copy of such report. The subject of the report or a designated representative may dispute the accuracy of a report concerning himself, herself, or itself as set forth in paragraph (b) of this section.
+
+(b) *Procedures for disputing a report with the reporting entity.* (1) If the subject disagrees with the reported information, the subject must request in the format as determined by the Secretary that the NPDB enter the report into “disputed status.”
+
+(2) The NPDB will send the report, with a notation that the report has been placed in “disputed status,” to queriers (where identifiable), the reporting entity and the subject of the report.
+
+(3) The subject must attempt to enter into discussion with the reporting entity to resolve the dispute. If the reporting entity revises the information originally submitted to the NPDB, the NPDB will notify the subject and all entities to whom reports have been sent that the original information has been revised. If the reporting entity does not revise the reported information, or does not respond to the subject within 60 days, the subject may request that the Secretary review the report for accuracy. The Secretary will decide whether to correct the report within 30 days of the request. This time frame may be extended for good cause. The subject also may provide a statement to the NPDB, either directly or through a designated representative that will permanently append the report.
+
+(c) *Procedures for requesting a review of a disputed report.* (1) The subject must request, in the format as determined by the Secretary, that the Secretary review the report for accuracy. The subject must return this request to the NPDB along with appropriate materials that support the subject's position. The Secretary will only review the accuracy of the reported information, and will not consider the merits or appropriateness of the action or the due process that the subject received.
+
+(2) After the review, if the Secretary:
+
+(i) Concludes that the information is accurate and reportable to the NPDB, the Secretary will inform the subject and the NPDB of the determination. The Secretary will include a brief statement (Secretarial Statement) in the report that describes the basis for the decision. The report will be removed from “disputed status.” The NPDB will distribute the corrected report and statement(s) to previous queriers (where identifiable), the reporting entity and the subject of the report.
+
+(ii) Concludes that the information contained in the report is inaccurate, the Secretary will inform the subject of the determination and direct the NPDB or the reporting entity to revise the report. The Secretary will include a brief statement (Secretarial Statement) in the report describing the findings. The NPDB will distribute the corrected report and statement(s) to previous queriers (where identifiable), the reporting entity and the subject of the report.
+
+(iii) Determines that the disputed issues are outside the scope of the Department's review, the Secretary will inform the subject and the NPDB of the determination. The Secretary will include a brief statement (Secretarial Statement) in the report describing the findings. The report will be removed from “disputed status.” The NPDB will distribute the report and the statement(s) to previous queriers (where identifiable), the reporting entity and the subject of the report.
+
+(iv) Determines that the adverse action was not reportable and therefore should be removed from the NPDB, the Secretary will inform the subject and direct the NPDB to void the report. The NPDB will distribute a notice to previous queriers (where identifiable), the reporting entity and the subject of the report that the report has been voided.

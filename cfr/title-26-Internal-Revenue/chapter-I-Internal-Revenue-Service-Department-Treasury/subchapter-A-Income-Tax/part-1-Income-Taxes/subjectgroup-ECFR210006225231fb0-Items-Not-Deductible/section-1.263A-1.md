@@ -1,0 +1,468 @@
+##### § 1.263A-1 Uniform capitalization of costs. #####
+
+(a) *Introduction* - (1) *In general.* The regulations under §§ 1.263A-1 through 1.263A-6 provide guidance to taxpayers that are required to capitalize certain costs under section 263A. These regulations generally apply to all costs required to be capitalized under section 263A except for interest that must be capitalized under section 263A(f) and the regulations thereunder. Statutory or regulatory exceptions may provide that section 263A does not apply to certain activities or costs; however, those activities or costs may nevertheless be subject to capitalization requirements under other provisions of the Internal Revenue Code and regulations.
+
+(2) *Effective dates.* (i) In general, this section and §§ 1.263A-2 and 1.263A-3 apply to costs incurred in taxable years beginning after December 31, 1993. In the case of property that is inventory in the hands of the taxpayer, however, these sections are effective for taxable years beginning after December 31, 1993. Changes in methods of accounting necessary as a result of the rules in this section and §§ 1.263A-2 and 1.263A-3 must be made under terms and conditions prescribed by the Commissioner. Under these terms and conditions, the principles of § 1.263A-7 must be applied in revaluing inventory property.
+
+(ii) For taxable years beginning before January 1, 1994, taxpayers must take reasonable positions on their federal income tax returns when applying section 263A. For purposes of this paragraph (a)(2)(iii), a reasonable position is a position consistent with the temporary regulations, revenue rulings, revenue procedures, notices, and announcements concerning section 263A applicable in taxable years beginning before January 1, 1994. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+
+(3) *General scope* - (i) *Property to which section 263A applies.* Taxpayers subject to section 263A must capitalize all direct costs and certain indirect costs properly allocable to -
+
+(A) Real property and tangible personal property produced by the taxpayer; and
+
+(B) Real property and personal property described in section 1221(1), which is acquired by the taxpayer for resale.
+
+(ii) *Property produced.* Taxpayers that produce real property and tangible personal property (producers) must capitalize all the direct costs of producing the property and the property's properly allocable share of indirect costs (described in paragraphs (e)(2)(i) and (3) of this section), regardless of whether the property is sold or used in the taxpayer's trade or business. See § 1.263A-2 for rules relating to producers.
+
+(iii) *Property acquired for resale.* Retailers, wholesalers, and other taxpayers that acquire property described in section 1221(1) for resale (resellers) must capitalize the direct costs of acquiring the property and the property's properly allocable share of indirect costs (described in paragraphs (e)(2)(ii) and (3) of this section). See § 1.263A-3 for rules relating to resellers. See also section 263A(b)(2)(B), which excepts from section 263A personal property acquired for resale by a small reseller.
+
+(iv) *Inventories valued at market.* Section 263A does not apply to inventories valued at market under either the market method or the lower of cost or market method if the market valuation used by the taxpayer generally equals the property's fair market value. For purposes of this paragraph (a)(3)(iv), the term fair market value means the price at which the taxpayer sells its inventory to its customers (e.g., as in the market value definition provided in § 1.471-4(b)) less, if applicable, the direct cost of disposing of the inventory. However, section 263A does apply in determining the market value of any inventory for which market is determined with reference to replacement cost or reproduction cost. See §§ 1.471-4 and 1.471-5.
+
+(v) *Property produced in a farming business.* Section 263A generally requires taxpayers engaged in a farming business to capitalize certain costs. See sections 263A(d) and 263A(e) and § 1.263A-4 for rules relating to taxpayers engaged in a farming business.
+
+(vi) *Creative property.* Section 263A generally requires taxpayers engaged in the production and resale of creative property to capitalize certain costs.
+
+(vii) *Property produced or property acquired for resale by foreign persons.* Section 263A generally applies to foreign persons.
+
+(b) *Exceptions* - (1) *Small resellers.* See section 263A(b)(2)(B) for the $10,000,000 gross receipts exception for small resellers of personal property. See § 1.263A-3(b) for rules relating to this exception. See also the exception for small resellers with de minimis production activities in § 1.263A-3(a)(2)(ii) and the exception for small resellers that have property produced under contract in § 1.263A-3(a)(3).
+
+(2) *Long-term contracts.* Except for certain home construction contracts described in section 460(e)(1), section 263A does not apply to any property produced by the taxpayer pursuant to a long-term contract as defined in section 460(f), regardless of whether the taxpayer uses an inventory method to account for such production.
+
+(3) *Costs incurred in certain farming businesses.* See section 263A(d) for an exception for costs paid or incurred in certain farming businesses. See § 1.263A-4 for specific rules relating to taxpayers engaged in the trade or business of farming.
+
+(4) *Costs incurred in raising, harvesting, or growing timber.* See section 263A(c)(5) for an exception for costs paid or incurred in raising, harvesting, or growing timber and certain ornamental trees. See § 1.263A-4, however, for rules relating to taxpayers producing certain trees to which section 263A applies.
+
+(5) *Qualified creative expenses.* See section 263A(h) for an exception for qualified creative expenses paid or incurred by certain free-lance authors, photographers, and artists.
+
+(6) *Certain not-for-profit activities.* See section 263A(c)(1) for an exception for property produced by a taxpayer for use by the taxpayer other than in a trade or business or an activity conducted for profit. This exception does not apply, however, to property produced by an exempt organization in connection with its unrelated trade or business activities.
+
+(7) *Intangible drilling and development costs.* See section 263A(c)(3) for an exception for intangible drilling and development costs. Additionally, section 263A does not apply to any amount allowable as a deduction under section 59(e) with respect to qualified expenditures under sections 263(c), 616(a), or 617(a).
+
+(8) *Natural gas acquired for resale.* Under this paragraph (b)(8), section 263A does not apply to any costs incurred by a taxpayer relating to natural gas acquired for resale to the extent such costs would otherwise be allocable to cushion gas.
+
+(i) *Cushion gas.* Cushion gas is the portion of gas stored in an underground storage facility or reservoir that is required to maintain the level of pressure necessary for operation of the facility. However, section 263A applies to costs incurred by a taxpayer relating to natural gas acquired for resale to the extent such costs are properly allocable to emergency gas.
+
+(ii) *Emergency gas.* Emergency gas is natural gas stored in an underground storage facility or reservoir for use during periods of unusually heavy customer demand.
+
+(9) *Research and experimental expenditures.* See section 263A(c)(2) for an exception for any research and experimental expenditure allowable as a deduction under section 174 or the regulations thereunder. Additionally, section 263A does not apply to any amount allowable as a deduction under section 59(e) with respect to qualified expenditures under section 174.
+
+(10) *Certain property that is substantially constructed.* Section 263A does not apply to any property produced by a taxpayer for use in its trade or business if substantial construction occurred before March 1, 1986.
+
+(i) For purposes of this section, substantial construction is deemed to have occurred if the lesser of -
+
+(A) 10 percent of the total estimated costs of construction; or
+
+(B) The greater of $10 million or 2 percent of the total estimated costs of construction, was incurred before March 1, 1986.
+
+(ii) For purposes of the provision in paragraph (b)(10)(i) of this section, the total estimated costs of construction shall be determined by reference to a reasonable estimate, on or before March 1, 1986, of such amount. Assume, for example, that on March 1, 1986, the estimated costs of constructing a facility were $150 million. Assume that before March 1, 1986, $12 million of construction costs had been incurred. Based on the above facts, substantial construction would be deemed to have occurred before March 1, 1986, because $12 million (the costs of construction incurred before such date) is greater than $10 million (the lesser of $15 million; or the greater of $10 million or $3 million). For purposes of this provision, construction costs are defined as those costs incurred after construction has commenced at the site of the property being constructed (unless the property will not be located on land and, therefore, the initial construction of the property must begin at a location other than the intended site). For example, in the case of a building, construction commences when work begins on the building, such as the excavation of the site, the pouring of pads for the building, or the driving of foundation pilings into the ground. Preliminary activities such as project engineering and architectural design do not constitute the commencement of construction, nor are such costs considered construction costs, for purposes of this paragraph (b)(10).
+
+(11) *Certain property provided incident to services* - (i) *In general.* Under this paragraph (b)(11), section 263A does not apply to property that is provided to a client (or customer) incident to the provision of services by the taxpayer if the property provided to the client is -
+
+(A) De minimis in amount; and
+
+(B) Not inventory in the hands of the service provider.
+
+(ii) *Definition of services.* For purposes of this paragraph (b)(11), services is defined with reference to its ordinary and accepted meaning under federal income tax principles. In determining whether a taxpayer is a bona-fide service provider under this paragraph (b)(11), the nature of the taxpayer's trade or business and the facts and circumstances surrounding the taxpayer's trade or business activities must be considered. Examples of taxpayers qualifying as service providers under this paragraph include taxpayers performing services in the fields of health, law, engineering, architecture, accounting, actuarial science, performing arts, or consulting.
+
+(iii) *De minimis property provided incident to services.* In determining whether property provided to a client by a service provider is de minimis in amount, all facts and circumstances, such as the nature of the taxpayer's trade or business and the volume of its service activities in the trade or business, must be considered. A significant factor in making this determination is the relationship between the acquisition or direct materials costs of the property that is provided to clients and the price that the taxpayer charges its clients for its services and the property. For purposes of this paragraph (b)(11), if the acquisition or direct materials cost of the property provided to a client incident to the services is less than or equal to five percent of the price charged to the client for the services and property, the property is de minimis. If the acquisition or direct materials cost of the property exceeds five percent of the price charged for the services and property, the property may be de minimis if additional facts and circumstances so indicate.
+
+(12) *De minimis rule for certain producers with total indirect costs of $200,000 or less.* See § 1.263A-2(b)(3)(iv) for a de minimis rule that treats producers with total indirect costs of $200,000 or less as having no additional section 263A costs (as defined in paragraph (d)(3) of this section) for purposes of the simplified production method.
+
+(13) *Exception for the origination of loans.* For purposes of section 263A(b)(2)(A), the origination of loans is not considered the acquisition of intangible property for resale. (But section 263A(b)(2)(A) does include the acquisition by a taxpayer of pre-existing loans from other persons for resale.)
+
+(c) *General operation of section 263A* - (1) *Allocations.* Under section 263A, taxpayers must capitalize their direct costs and a properly allocable share of their indirect costs to property produced or property acquired for resale. In order to determine these capitalizable costs, taxpayers must allocate or apportion costs to various activities, including production or resale activities. After section 263A costs are allocated to the appropriate production or resale activities, these costs are generally allocated to the items of property produced or property acquired for resale during the taxable year and capitalized to the items that remain on hand at the end of the taxable year. See however, the simplified production method and the simplified resale method in §§ 1.263A-2(b) and 1.263A-3(d).
+
+(2) *Otherwise deductible.* (i) Any cost which (but for section 263A and the regulations thereunder) may not be taken into account in computing taxable income for any taxable year is not treated as a cost properly allocable to property produced or acquired for resale under section 263A and the regulations thereunder. Thus, for example, if a business meal deduction is limited by section 274(n) to 80 percent of the cost of the meal, the amount properly allocable to property produced or acquired for resale under section 263A is also limited to 80 percent of the cost of the meal.
+
+(ii) The amount of any cost required to be capitalized under section 263A may not be included in inventory or charged to capital accounts or basis any earlier than the taxable year during which the amount is incurred within the meaning of § 1.446-1(c)(1)(ii).
+
+(3) *Capitalize.* Capitalize means, in the case of property that is inventory in the hands of a taxpayer, to include in inventory costs and, in the case of other property, to charge to a capital account or basis.
+
+(4) *Recovery of capitalized costs.* Costs that are capitalized under section 263A are recovered through depreciation, amortization, cost of goods sold, or by an adjustment to basis at the time the property is used, sold, placed in service, or otherwise disposed of by the taxpayer. Cost recovery is determined by the applicable Internal Revenue Code and regulation provisions relating to use, sale, or disposition of property.
+
+(5) *Costs allocable to property sold.* A cost that is allocated under this section, § 1.263A-2, or § 1.263A-3 entirely to property sold must be included in cost of goods sold and may not be included in determining the cost of goods on hand at the end of the taxable year.
+
+(d) *Definitions* - (1) *Self-constructed assets.* Self-constructed assets are assets produced by a taxpayer for use by the taxpayer in its trade or business. Self-constructed assets are subject to section 263A.
+
+(2) *Section 471 costs* - (i) *In general.* Except as otherwise provided in paragraphs (d)(2)(ii) and (iii) of this section, for purposes of the regulations under section 263A, a taxpayer's section 471 costs are the costs, other than interest, capitalized under its method of accounting immediately prior to the effective date of section 263A. Thus, although section 471 applies only to inventories, section 471 costs include any non-inventory costs, other than interest, capitalized or included in acquisition or production costs under the taxpayer's method of accounting immediately prior to the effective date of section 263A.
+
+(ii) *New taxpayers.* In the case of a new taxpayer, section 471 costs are those acquisition or production costs, other than interest, that would have been required to be capitalized by the taxpayer if the taxpayer had been in existence immediately prior to the effective date of section 263A.
+
+(iii) *Method changes.* If a taxpayer included a cost described in § 1.471-11(c)(2)(iii) in its inventoriable costs immediately prior to the effective date of section 263A, that cost is included in the taxpayer's section 471 costs under paragraph (d)(2)(i) of this section. Except as provided in the following sentence, a change in the financial reporting practices of a taxpayer for costs described in § 1.471-11(c)(2)(iii) subsequent to the effective date of section 263A does not affect the classification of these costs as section 471 costs. A taxpayer may change its established methods of accounting used in determining section 471 costs only with the consent of the Commissioner as required under section 446(e) and the regulations thereunder.
+
+(3) *Additional section 263A costs.* Additional section 263A costs are defined as the costs, other than interest, that were not capitalized under the taxpayer's method of accounting immediately prior to the effective date of section 263A (adjusted as appropriate for any changes in methods of accounting for section 471 costs under paragraph (d)(2)(iii) of this section), but that are required to be capitalized under section 263A. For new taxpayers, additional section 263A costs are defined as the costs, other than interest, that the taxpayer must capitalize under section 263A, but which the taxpayer would not have been required to capitalize if the taxpayer had been in existence prior to the effective date of section 263A.
+
+(4) *Section 263A costs.* Section 263A costs are defined as the costs that a taxpayer must capitalize under section 263A. Thus, section 263A costs are the sum of a taxpayer's section 471 costs, its additional section 263A costs, and interest capitalizable under section 263A(f).
+
+(e) *Types of costs subject to capitalization* - (1) *In general.* Taxpayers subject to section 263A must capitalize all direct costs and certain indirect costs properly allocable to property produced or property acquired for resale. This paragraph (e) describes the types of costs subject to section 263A.
+
+(2) *Direct costs* - (i) *Producers.* Producers must capitalize direct material costs and direct labor costs.
+
+(A) *Direct material costs. Direct materials costs* include the cost of those materials that become an integral part of specific property produced and those materials that are consumed in the ordinary course of production and that can be identified or associated with particular units or groups of units of property produced. For example, a cost described in § 1.162-3, relating to the cost of a material or supply, may be a direct material cost.
+
+(B) *Direct labor costs* include the costs of labor that can be identified or associated with particular units or groups of units of specific property produced. For this purpose, labor encompasses full-time and part-time employees, as well as contract employees and independent contractors. Direct labor costs include all elements of compensation other than employee benefit costs described in paragraph (e)(3)(ii)(D) of this section. Elements of direct labor costs include basic compensation, overtime pay, vacation pay, holiday pay, sick leave pay (other than payments pursuant to a wage continuation plan under section 105(d) as it existed prior to its repeal in 1983), shift differential, payroll taxes, and payments to a supplemental unemployment benefit plan.
+
+(ii) *Resellers.* Resellers must capitalize the acquisition costs of property acquired for resale. In the case of inventory, the acquisition cost is the cost described in § 1.471-3(b).
+
+(3) *Indirect costs* - (i) *In general.* (A) Indirect costs are defined as all costs other than direct material costs and direct labor costs (in the case of property produced) or acquisition costs (in the case of property acquired for resale). Taxpayers subject to section 263A must capitalize all indirect costs properly allocable to property produced or property acquired for resale. Indirect costs are properly allocable to property produced or property acquired for resale when the costs directly benefit or are incurred by reason of the performance of production or resale activities. Indirect costs may directly benefit or be incurred by reason of the performance of production or resale activities even if the costs are calculated as a percentage of revenue or gross profit from the sale of inventory, are determined by reference to the number of units of property sold, or are incurred only upon the sale of inventory. Indirect costs may be allocable to both production and resale activities, as well as to other activities that are not subject to section 263A. Taxpayers must make a reasonable allocation of indirect costs between production, resale, and other activities.
+
+(B) *Example.* The following example illustrates the provisions of this paragraph (e)(3)(i):
+
+Example.(i) Taxpayer A manufactures tablecloths and other linens. A enters into a licensing agreement with Company L under which A may label its tablecloths with L's trademark if the tablecloths meet certain specified quality standards. In exchange for its right to use L's trademark, the licensing agreement requires A to pay L a royalty of $X for each tablecloth carrying L's trademark that A sells. The licensing agreement does not require A to pay L any minimum or lump-sum royalties.
+
+(ii) The licensing agreement provides A with the right to use L's intellectual property, a trademark. The licensing agreement also requires A to conduct its production activities according to certain standards as a condition of exercising that right. Thus, A's right to use L's trademark under the licensing agreement is directly related to A's production of tablecloths. The royalties the licensing agreement requires A to pay for using L's trademark are the costs A incurs in exchange for these rights. Therefore, although A incurs royalty costs only when A sells a tablecloth carrying L's trademark, the royalty costs directly benefit production activities and are incurred by reason of production activities within the meaning of paragraph (e)(3)(i)(A) of this section.
+
+(ii) *Examples of indirect costs required to be capitalized.* The following are examples of indirect costs that must be capitalized to the extent they are properly allocable to property produced or property acquired for resale:
+
+(A) *Indirect labor costs.* Indirect labor costs include all labor costs (including the elements of labor costs set forth in paragraph (e)(2)(i) of this section) that cannot be directly identified or associated with particular units or groups of units of specific property produced or property acquired for resale (e.g., factory labor that is not direct labor). As in the case of direct labor, indirect labor encompasses full-time and part-time employees, as well as contract employees and independent contractors.
+
+(B) *Officers' compensation.* Officers' compensation includes compensation paid to officers of the taxpayer.
+
+(C) *Pension and other related costs.* Pension and other related costs include contributions paid to or made under any stock bonus, pension, profit-sharing or annuity plan, or other plan deferring the receipt of compensation, whether or not the plan qualifies under section 401(a). Contributions to employee plans representing past services must be capitalized in the same manner (and in the same proportion to property currently being acquired or produced) as amounts contributed for current service.
+
+(D) *Employee benefit expenses.* Employee benefit expenses include all other employee benefit expenses (not described in paragraph (e)(3)(ii)(C) of this section) to the extent such expenses are otherwise allowable as deductions under chapter 1 of the Internal Revenue Code. These other employee benefit expenses include: worker's compensation; amounts otherwise deductible or allowable in reducing earnings and profits under section 404A; payments pursuant to a wage continuation plan under section 105(d) as it existed prior to its repeal in 1983; amounts includible in the gross income of employees under a method or arrangement of employer contributions or compensation that has the effect of a stock bonus, pension, profit-sharing or annuity plan, or other plan deferring receipt of compensation or providing deferred benefits; premiums on life and health insurance; and miscellaneous benefits provided for employees such as safety, medical treatment, recreational and eating facilities, membership dues, etc. Employee benefit expenses do not, however, include direct labor costs described in paragraph (e)(2)(i) of this section.
+
+(E) *Indirect material costs. Indirect material costs* include the cost of materials that are not an integral part of specific property produced and the cost of materials that are consumed in the ordinary course of performing production or resale activities that cannot be identified or associated with particular units of property. Thus, for example, a cost described in § 1.162-3, relating to the cost of a material or supply, may be an indirect cost.
+
+(F) *Purchasing costs.* Purchasing costs include costs attributable to purchasing activities. See § 1.263A-3(c)(3) for a further discussion of purchasing costs.
+
+(G) *Handling costs.* Handling costs include costs attributable to processing, assembling, repackaging and transporting goods, and other similar activities. See § 1.263A-3(c)(4) for a further discussion of handling costs.
+
+(H) *Storage costs.* Storage costs include the costs of carrying, storing, or warehousing property. See § 1.263A-3(c)(5) for a further discussion of storage costs.
+
+(I) *Cost recovery.* Cost recovery includes depreciation, amortization, and cost recovery allowances on equipment and facilities (including depreciation or amortization of self-constructed assets or other previously produced or acquired property to which section 263A or section 263 applies).
+
+(J) *Depletion.* Depletion includes allowances for depletion, whether or not in excess of cost. Depletion is, however, only properly allocable to property that has been sold (i.e., for purposes of determining gain or loss on the sale of the property).
+
+(K) *Rent.* Rent includes the cost of renting or leasing equipment, facilities, or land.
+
+(L) *Taxes.* Taxes include those taxes (other than taxes described in paragraph (e)(3)(iii)(F) of this section) that are otherwise allowable as a deduction to the extent such taxes are attributable to labor, materials, supplies, equipment, land, or facilities used in production or resale activities.
+
+(M) *Insurance.* Insurance includes the cost of insurance on plant or facility, machinery, equipment, materials, property produced, or property acquired for resale.
+
+(N) *Utilities.* Utilities include the cost of electricity, gas, and water.
+
+(O) *Repairs and maintenance.* Repairs and maintenance include the cost of repairing and maintaining equipment or facilities.
+
+(P) *Engineering and design costs.* Engineering and design costs include pre-production costs, such as costs attributable to research, experimental, engineering, and design activities (to the extent that such amounts are not research and experimental expenditures as described in section 174 and the regulations thereunder).
+
+(Q) *Spoilage.* Spoilage includes the costs of rework labor, scrap, and spoilage.
+
+(R) *Tools and equipment.* Tools and equipment include the costs of tools and equipment which are not otherwise capitalized.
+
+(S) *Quality control.* Quality control includes the costs of quality control and inspection.
+
+(T) *Bidding costs.* Bidding costs are costs incurred in the solicitation of contracts (including contracts pertaining to property acquired for resale) ultimately awarded to the taxpayer. The taxpayer must defer all bidding costs paid or incurred in the solicitation of a particular contract until the contract is awarded. If the contract is awarded to the taxpayer, the bidding costs become part of the indirect costs allocated to the subject matter of the contract. If the contract is not awarded to the taxpayer, bidding costs are deductible in the taxable year that the contract is awarded to another party, or in the taxable year that the taxpayer is notified in writing that no contract will be awarded and that the contract (or a similar or related contract) will not be rebid, or in the taxable year that the taxpayer abandons its bid or proposal, whichever occurs first. Abandoning a bid does not include modifying, supplementing, or changing the original bid or proposal. If the taxpayer is awarded only part of the bid (for example, the taxpayer submitted one bid to build each of two different types of products, and the taxpayer was awarded a contract to build only one of the two types of products), the taxpayer shall deduct the portion of the bidding costs related to the portion of the bid not awarded to the taxpayer. In the case of a bid or proposal for a multi-unit contract, all bidding costs must be included in the costs allocated to the subject matter of the contract awarded to the taxpayer to produce or acquire for resale any of such units. For example, where the taxpayer submits one bid to produce three similar turbines and the taxpayer is awarded a contract to produce only two of the three turbines, all bidding costs must be included in the cost of the two turbines. For purposes of this paragraph (e)(3)(ii)(T), a contract means -
+
+(*1*) In the case of a specific unit of property, any agreement under which the taxpayer would produce or sell property to another party if the agreement is entered into before the taxpayer produces or acquires the specific unit of property to be delivered to the party under the agreement; and
+
+(*2*) In the case of fungible property, any agreement to the extent that, at the time the agreement is entered into, the taxpayer has on hand an insufficient quantity of completed fungible items of such property that may be used to satisfy the agreement (plus any other production or sales agreements of the taxpayer).
+
+(U) *Licensing and franchise costs.* (*1*) Licensing and franchise costs include fees incurred in securing the contractual right to use a trademark, corporate plan, manufacturing procedure, special recipe, or other similar right associated with property produced or property acquired for resale. These costs include the otherwise deductible portion (such as amortization) of the initial fees incurred to obtain the license or franchise and any minimum annual payments and any royalties that are incurred by a licensee or a franchisee. These costs also include fees, payments, and royalties otherwise described in this paragraph (e)(3)(ii)(U) that a taxpayer incurs (within the meaning of section 461) only upon the sale of property produced or acquired for resale.
+
+(*2*) If a taxpayer incurs (within the meaning of section 461) a fee, payment, or royalty described in this paragraph (e)(3)(ii)(U) only upon the sale of property produced or acquired for resale and the cost is required to be capitalized under this paragraph (e)(3), the taxpayer may properly allocate the cost entirely to property produced or acquired for resale by the taxpayer that has been sold.
+
+(V) *Interest.* Interest includes interest on debt incurred or continued during the production period to finance the production of real property or tangible personal property to which section 263A(f) applies.
+
+(W) *Capitalizable service costs.* Service costs that are required to be capitalized include capitalizable service costs and capitalizable mixed service costs as defined in paragraph (e)(4) of this section.
+
+(iii) *Indirect costs not capitalized.* The following indirect costs are not required to be capitalized under section 263A:
+
+(A) *Selling and distribution costs.* These costs are marketing, selling, advertising, and distribution costs.
+
+(B) *Research and experimental expenditures.* Research and experimental expenditures are expenditures described in section 174 and the regulations thereunder.
+
+(C) *Section 179 costs.* Section 179 costs are expenses for certain depreciable assets deductible at the election of the taxpayer under section 179 and the regulations thereunder.
+
+(D) *Section 165 losses.* Section 165 losses are losses under section 165 and the regulations thereunder.
+
+(E) *Cost recovery allowances on temporarily idle equipment and facilities* - (*1) In general.* Cost recovery allowances on temporarily idle equipment and facilities include only depreciation, amortization, and cost recovery allowances on equipment and facilities that have been placed in service but are temporarily idle. Equipment and facilities are temporarily idle when a taxpayer takes them out of service for a finite period. However, equipment and facilities are not considered temporarily idle -
+
+(*i*) During worker breaks, non-working hours, or on regularly scheduled non-working days (such as holidays or weekends);
+
+(*ii*) During normal interruptions in the operation of the equipment or facilities;
+
+(*iii*) When equipment is enroute to or located at a job site; or
+
+(*iv*) When under normal operating conditions, the equipment is used or operated only during certain shifts.
+
+(*2*) *Examples.* The provisions of this paragraph (e)(3)(iii)(E) are illustrated by the following examples:
+
+Example 1. Equipment operated only during certain shifts.Taxpayer A manufactures widgets. Although A's manufacturing facility operates 24 hours each day in three shifts, A only operates its stamping machine during one shift each day. Because A only operates its stamping machine during certain shifts, A's stamping machine is not considered temporarily idle during the two shifts that it is not operated.Example 2. Facility shut down for retooling.Taxpayer B owns and operates a manufacturing facility. B closes its manufacturing facility for two weeks to retool its assembly line. B's manufacturing facility is considered temporarily idle during this two-week period.
+
+(F) *Taxes assessed on the basis of income.* Taxes assessed on the basis of income include only state, local, and foreign income taxes, and franchise taxes that are assessed on the taxpayer based on income.
+
+(G) *Strike expenses.* Strike expenses include only costs associated with hiring employees to replace striking personnel (but not wages of replacement personnel), costs of security, and legal fees associated with settling strikes.
+
+(H) *Warranty and product liability costs.* Warranty costs and product liability costs are costs incurred in fulfilling product warranty obligations for products that have been sold and costs incurred for product liability insurance.
+
+(I) *On-site storage costs.* On-site storage costs are storage and warehousing costs incurred by a taxpayer at an on-site storage facility, as defined in § 1.263A-3(c)(5)(ii)(A), with respect to property produced or property acquired for resale.
+
+(J) *Unsuccessful bidding expenses.* Unsuccessful bidding costs are bidding expenses incurred in the solicitation of contracts not awarded to the taxpayer.
+
+(K) *Deductible service costs.* Service costs that are not required to be capitalized include deductible service costs and deductible mixed service costs as defined in paragraph (e)(4) of this section.
+
+(4) *Service costs* - (i) *Introduction.* This paragraph (e)(4) provides definitions and categories of service costs. Paragraph (g)(4) of this section provides specific rules for determining the amount of service costs allocable to property produced or property acquired for resale. In addition, paragraph (h) of this section provides a simplified method for determining the amount of service costs that must be capitalized.
+
+(A) *Definition of service costs.* Service costs are defined as a type of indirect costs (e.g., general and administrative costs) that can be identified specifically with a service department or function or that directly benefit or are incurred by reason of a service department or function.
+
+(B) *Definition of service departments.* Service departments are defined as administrative, service, or support departments that incur service costs. The facts and circumstances of the taxpayer's activities and business organization control whether a department is a service department. For example, service departments include personnel, accounting, data processing, security, legal, and other similar departments.
+
+(ii) *Various service cost categories* - (A) *Capitalizable service costs.* Capitalizable service costs are defined as service costs that directly benefit or are incurred by reason of the performance of the production or resale activities of the taxpayer. Therefore, these service costs are required to be capitalized under section 263A. Examples of service departments or functions that incur capitalizable service costs are provided in paragraph (e)(4)(iii) of this section.
+
+(B) *Deductible service costs.* Deductible service costs are defined as service costs that do not directly benefit or are not incurred by reason of the performance of the production or resale activities of the taxpayer, and therefore, are not required to be capitalized under section 263A. Deductible service costs generally include costs incurred by reason of the taxpayer's overall management or policy guidance functions. In addition, deductible service costs include costs incurred by reason of the marketing, selling, advertising, and distribution activities of the taxpayer. Examples of service departments or functions that incur deductible service costs are provided in paragraph (e)(4)(iv) of this section.
+
+(C) *Mixed service costs.* Mixed service costs are defined as service costs that are partially allocable to production or resale activities (capitalizable mixed service costs) and partially allocable to non-production or non-resale activities (deductible mixed service costs). For example, a personnel department may incur costs to recruit factory workers, the costs of which are allocable to production activities, and it may incur costs to develop wage, salary, and benefit policies, the costs of which are allocable to non-production activities.
+
+(iii) *Examples of capitalizable service costs.* Costs incurred in the following departments or functions are generally allocated among production or resale activities:
+
+(A) The administration and coordination of production or resale activities (wherever performed in the business organization of the taxpayer).
+
+(B) Personnel operations, including the cost of recruiting, hiring, relocating, assigning, and maintaining personnel records or employees.
+
+(C) Purchasing operations, including purchasing materials and equipment, scheduling and coordinating delivery of materials and equipment to or from factories or job sites, and expediting and follow-up.
+
+(D) Materials handling and warehousing and storage operations.
+
+(E) Accounting and data services operations, including, for example, cost accounting, accounts payable, disbursements, and payroll functions (but excluding accounts receivable and customer billing functions).
+
+(F) Data processing.
+
+(G) Security services.
+
+(H) Legal services.
+
+(iv) *Examples of deductible service costs.* Costs incurred in the following departments or functions are not generally allocated to production or resale activities:
+
+(A) Departments or functions responsible for overall management of the taxpayer or for setting overall policy for all of the taxpayer's activities or trades or businesses, such as the board of directors (including their immediate staff), and the chief executive, financial, accounting, and legal officers (including their immediate staff) of the taxpayer, provided that no substantial part of the cost of such departments or functions benefits a particular production or resale activity.
+
+(B) Strategic business planning.
+
+(C) General financial accounting.
+
+(D) General financial planning (including general budgeting) and financial management (including bank relations and cash management).
+
+(E) Personnel policy (such as establishing and managing personnel policy in general; developing wage, salary, and benefit policies; developing employee training programs unrelated to particular production or resale activities; negotiating with labor unions; and maintaining relations with retired workers).
+
+(F) Quality control policy.
+
+(G) Safety engineering policy.
+
+(H) Insurance or risk management policy (but not including bid or performance bonds or insurance related to activities associated with property produced or property acquired for resale).
+
+(I) Environmental management policy (except to the extent that the costs of any system or procedure benefits a particular production or resale activity).
+
+(J) General economic analysis and forecasting.
+
+(K) Internal audit.
+
+(L) Shareholder, public, and industrial relations.
+
+(M) Tax services.
+
+(N) Marketing, selling, or advertising.
+
+(f) *Cost allocation methods* - (1) *Introduction.* This paragraph (f) sets forth various detailed or specific (facts-and-circumstances) cost allocation methods that taxpayers may use to allocate direct and indirect costs to property produced and property acquired for resale. Paragraph (g) of this section provides general rules for applying these allocation methods to various categories of costs (i.e., direct materials, direct labor, and indirect costs, including service costs). In addition, in lieu of a facts-and-circumstances allocation method, taxpayers may use the simplified methods provided in §§ 1.263A-2(b) and 1.263A-3(d) to allocate direct and indirect costs to eligible property produced or eligible property acquired for resale; see those sections for definitions of eligible property. Paragraph (h) of this section provides a simplified method for determining the amount of mixed service costs required to be capitalized to eligible property. The methodology set forth in paragraph (h) of this section for mixed service costs may be used in conjunction with either a facts-and-circumstances or a simplified method of allocating costs to eligible property produced or eligible property acquired for resale.
+
+(2) *Specific identification method.* A specific identification method traces costs to a cost objective, such as a function, department, activity, or product, on the basis of a cause and effect or other reasonable relationship between the costs and the cost objective.
+
+(3) *Burden rate and standard cost meth- ods* - (i) *Burden rate method* - (A) *In gen- eral.* A burden rate method allocates an appropriate amount of indirect costs to property produced or property acquired for resale during a taxable year using predetermined rates that approximate the actual amount of indirect costs incurred by the taxpayer during the taxable year. Burden rates (such as ratios based on direct costs, hours, or similar items) may be developed by the taxpayer in accordance with acceptable accounting principles and applied in a reasonable manner. A taxpayer may allocate different indirect costs on the basis of different burden rates. Thus, for example, the taxpayer may use one burden rate for allocating the cost of rent and another burden rate for allocating the cost of utilities. Any periodic adjustment to a burden rate that merely reflects current operating conditions, such as increases in automation or changes in operation or prices, is not a change in method of accounting under section 446(e). A change, however, in the concept or base upon which such rates are developed, such as a change from basing the rates on direct labor hours to basing them on direct machine hours, is a change in method of accounting to which section 446(e) applies.
+
+(B) *Development of burden rates.* The following factors, among others, may be used in developing burden rates:
+
+(*1*) The selection of an appropriate level of activity and a period of time upon which to base the calculation of rates reflecting operating conditions for purposes of the unit costs being determined.
+
+(*2*) The selection of an appropriate statistical base, such as direct labor hours, direct labor dollars, machine hours, or a combination thereof, upon which to apply the overhead rate.
+
+(*3*) The appropriate budgeting, classification, and analysis of expenses (for example, the analysis of fixed versus variable costs).
+
+(C) *Operation of the burden rate method.* The purpose of the burden rate method is to allocate an appropriate amount of indirect costs to production or resale activities through the use of predetermined rates intended to approximate the actual amount of indirect costs incurred. Accordingly, the proper use of the burden rate method under this section requires that any net negative or net positive difference between the total predetermined amount of costs allocated to property and the total amount of indirect costs actually incurred and required to be allocated to such property (i.e., the under or over-applied burden) must be treated as an adjustment to the taxpayer's ending inventory or capital account (as the case may be) in the taxable year in which such difference arises. However, if such adjustment is not significant in amount in relation to the taxpayer's total indirect costs incurred with respect to production or resale activities for the year, such adjustment need not be allocated to the property produced or property acquired for resale unless such allocation is made in the taxpayer's financial reports. The taxpayer must treat both positive and negative adjustments consistently.
+
+(ii) *Standard cost method* - (A) *In general.* A standard cost method allocates an appropriate amount of direct and indirect costs to property produced by the taxpayer through the use of preestablished standard allowances, without reference to costs actually incurred during the taxable year. A taxpayer may use a standard cost method to allocate costs, provided variances are treated in accordance with the procedures prescribed in paragraph (f)(3)(ii)(B) of this section. Any periodic adjustment to standard costs that merely reflects current operating conditions, such as increases in automation or changes in operation or prices, is not a change in method of accounting under section 446(e). A change, however, in the concept or base upon which standard costs are developed is a change in method of accounting to which section 446(e) applies.
+
+(B) *Treatment of variances.* For purposes of this section, net positive overhead variance means the excess of total standard indirect costs over total actual indirect costs and net negative overhead variance means the excess of total actual indirect costs over total standard indirect costs. The proper use of a standard cost method requires that a taxpayer must reallocate to property a pro rata portion of any net negative or net positive overhead variances and any net negative or net positive direct cost variances. The taxpayer must apportion such variances to or among the property to which the costs are allocable. However, if such variances are not significant in amount relative to the taxpayer's total indirect costs incurred with respect to production and resale activities for the year, such variances need not be allocated to property produced or property acquired for resale unless such allocation is made in the taxpayer's financial reports. A taxpayer must treat both positive and negative variances consistently.
+
+(4) *Reasonable allocation methods.* A taxpayer may use the methods described in paragraph (f) (2) or (3) of this section if they are reasonable allocation methods within the meaning of this paragraph (f)(4). In addition, a taxpayer may use any other reasonable method to properly allocate direct and indirect costs among units of property produced or property acquired for resale during the taxable year. An allocation method is reasonable if, with respect to the taxpayer's production or resale activities taken as a whole -
+
+(i) The total costs actually capitalized during the taxable year do not differ significantly from the aggregate costs that would be properly capitalized using another permissible method described in this section or in §§ 1.263A-2 and 1.263A-3, with appropriate consideration given to the volume and value of the taxpayer's production or resale activities, the availability of costing information, the time and cost of using various allocation methods, and the accuracy of the allocation method chosen as compared with other allocation methods;
+
+(ii) The allocation method is applied consistently by the taxpayer; and
+
+(iii) The allocation method is not used to circumvent the requirements of the simplified methods in this section or in § 1.263A-2, § 1.263A-3, or the principles of section 263A.
+
+(g) *Allocating categories of costs* - (1) *Direct materials.* Direct material costs (as defined in paragraph (e)(2) of this section) incurred during the taxable year must be allocated to the property produced or property acquired for resale by the taxpayer using the taxpayer's d of accounting for materials (e.g., specific identification; first-in, first-out (FIFO); or last-in, first-out (LIFO)), or any other reasonable allocation method (as defined under the principles of paragraph (f)(4) of this section).
+
+(2) *Direct labor.* Direct labor costs (as defined in paragraph (e)(2) of this section) incurred during the taxable year are generally allocated to property produced or property acquired for resale using a specific identification method, standard cost method, or any other reasonable allocation method (as defined under the principles of paragraph (f)(4) of this section). All elements of compensation, other than basic compensation, may be grouped together and then allocated in proportion to the charge for basic compensation. Further, a taxpayer is not treated as using an erroneous method of accounting if direct labor costs are treated as indirect costs under the taxpayer's allocation method, provided such costs are capitalized to the extent required by paragraph (g)(3) of this section.
+
+(3) *Indirect costs.* Indirect costs (as defined in paragraph (e)(3) of this section) are generally allocated to intermediate cost objectives such as departments or activities prior to the allocation of such costs to property produced or property acquired for resale. Indirect costs are allocated using either a specific identification method, a standard cost method, a burden rate method, or any other reasonable allocation method (as defined under the principles of paragraph (f)(4) of this section).
+
+(4) *Service costs* - (i) *In general.* Service costs are a type of indirect costs that may be allocated using the same allocation methods available for allocating other indirect costs described in paragraph (g)(3) of this section. Generally, taxpayers that use a specific identification method or another reasonable allocation method must allocate service costs to particular departments or activities based on a factor or relationship that reasonably relates the service costs to the benefits received from the service departments or activities. For example, a reasonable factor for allocating legal services to particular departments or activities is the number of hours of legal services attributable to each department or activity. See paragraph (g)(4)(iv) of this section for other illustrations. Using reasonable factors or relationships, a taxpayer must allocate mixed service costs under a direct reallocation method described in paragraph (g)(4)(iii)(A) of this section, a step-allocation method described in paragraph (g)(4)(iii)(B) of this section, or any other reasonable allocation method (as defined under the principles of paragraph (f)(4) of this section).
+
+(ii) *De minimis rule.* For purposes of administrative convenience, if 90 percent or more of a mixed service department's costs are deductible service costs, a taxpayer may elect not to allocate any portion of the service department's costs to property produced or property acquired for resale. For example, if 90 percent of the costs of an electing taxpayer's industrial relations department benefit the taxpayer's overall policy-making activities, the taxpayer is not required to allocate any portion of these costs to a production activity. Under this election, however, if 90 percent or more of a mixed service department's costs are capitalizable service costs, a taxpayer must allocate 100 percent of the department's costs to the production or resale activity benefitted. For example, if 90 percent of the costs of an electing taxpayer's accounting department benefit the taxpayer's manufacturing activity, the taxpayer must allocate 100 percent of the costs of the accounting department to the manufacturing activity. An election under this paragraph (g)(4)(ii) applies to all of a taxpayer's mixed service departments and constitutes the adoption of a (or a change in) method of accounting under section 446 of the Internal Revenue Code.
+
+(iii) *Methods for allocating mixed service costs* - (A) *Direct reallocation method.* Under the direct reallocation method, the total costs (direct and indirect) of all mixed service departments are allocated only to departments or cost centers engaged in production or resale activities and then from those departments to particular activities. This direct reallocation method ignores benefits provided by one mixed service department to other mixed service departments, and also excludes other mixed service departments from the base used to make the allocation.
+
+(B) *Step-allocation method.* (*1*) Under a step-allocation method, a sequence of allocations is made by the taxpayer. First, the total costs of the mixed service departments that benefit the greatest number of other departments are allocated to -
+
+(*i*) Other mixed service departments;
+
+(*ii*) Departments that incur only deductible service costs; and
+
+(*iii*) Departments that exclusively engage in production or resale activities.
+
+(*2*) A taxpayer continues allocating mixed service costs in the manner described in paragraph (g)(4)(iii)(B)(*1*) of this section (i.e., from the service departments benefitting the greatest number of departments to the service departments benefitting the least number of departments) until all mixed service costs are allocated to the types of departments listed in this paragraph (g)(4)(iii). Thus, a step-allocation method recognizes the benefits provided by one mixed service department to another mixed service department and also includes mixed service departments that have not yet been allocated in the base used to make the allocation.
+
+(C) *Examples.* The provisions of this paragraph (g)(4)(iii) are illustrated by the following examples:
+
+Example 1. Direct reallocation method.(i) Taxpayer E has the following five departments: the Assembling Department, the Painting Department, and the Finishing Department (production departments), and the Personnel Department and the Data Processing Department (mixed service departments). E allocates the Personnel Department's costs on the basis of total payroll costs and the Data Processing Department's costs on the basis of data processing hours.
+
+(ii) Under a direct reallocation method, E allocates the Personnel Department's costs directly to its Assembling, Painting, and Finishing Department, and not to its Data Processing department.
+
+|Department |Total dept. costs|Amount of payroll costs|Allocation ratio|Amount allocated|
+|-----------|-----------------|-----------------------|----------------|----------------|
+| Personnel |    $500,000     |        $50,000        |                |  \<$500,000\>  |
+|Data Proc'g|     250,000     |        15,000         |                |                |
+|Assembling |     250,000     |        15,000         | 15,000/285,000 |     26,315     |
+| Painting  |    1,000,000    |        90,000         | 90,000/285,000 |    157,895     |
+| Finishing |    2,000,000    |        180,000        |180,000/285,000 |    315,790     |
+|   Total   |   $4,000,000    |       $350,000        |                |                |
+
+(iii) After E allocates the Personnel Department's costs, E then allocates the costs of its Data Processing Department in the same manner.
+
+|Department |Total dept. cost after initial allocation|Total data proc. hours|Allocation ratio|Amount allocated|Total dept. cost after final allocation|
+|-----------|-----------------------------------------|----------------------|----------------|----------------|---------------------------------------|
+| Personnel |                    0                    |        2,000         |                |                |                   0                   |
+|Data Proc'g|                $250,000                 |                      |                |  \<$250,000\>  |                                       |
+|Assembling |                 276,315                 |        2,000         |  2,000/10,000  |     50,000     |               $326,315                |
+| Painting  |                1,157,895                |          0           |    0/10,000    |       0        |               1,157,895               |
+| Finishing |                2,315,790                |        8,000         |  8,000/10,000  |    200,000     |               2,515,790               |
+|   Total   |               $4,000,000                |        12,000        |                |                |              $4,000,000               |
+
+Example 2. Step-allocation method.(i) Taxpayer F has the following five departments: the Manufacturing Department (a production department), the Marketing Department and the Finance Department (departments that incur only deductible service costs), the Personnel Department and the Data Processing Department (mixed service departments). F uses a step-allocation method and allocates the Personnel Department's costs on the basis of total payroll costs and the Data Processing Department's costs on the basis of data processing hours. F's Personnel Department benefits all four of F's other departments, while its Data Processing Department benefits only three departments. Because F's Personnel Department benefits the greatest number of other departments, F first allocates its Personnel Department's costs to its Manufacturing, Marketing, Finance and Data Processing departments, as follows:
+
+|Department |Total cost of dept.|Total payroll costs|Allocation ratio|Amount allocated|
+|-----------|-------------------|-------------------|----------------|----------------|
+| Personnel |     $500,000      |      $50,000      |                |  \<$500,000\>  |
+|Data Proc'g|      250,000      |      15,000       | 15,000/300,000 |     25,000     |
+|  Finance  |      250,000      |      15,000       | 15,000/300,000 |     25,000     |
+| Marketing |     1,000,000     |      90,000       | 90,000/300,000 |    150,000     |
+| Manufac'g |     2,000,000     |      180,000      |180,000/300,000 |    300,000     |
+|           |     4,000,000     |      350,000      |                |                |
+
+(ii) Under a step-allocation method, the denominator of F's allocation ratio includes the payroll costs of its Manufacturing, Marketing, Finance, and Data Processing departments.
+
+(iii) Next, F allocates the costs of its Data Processing Department on the basis of data processing hours. Because the costs incurred by F's Personnel Department have already been allocated, no allocation is made to the Personnel Department.
+
+|Department |Total dept. cost after initial allocation|Total data proc. hours| Allocation |            |         |
+|-----------|-----------------------------------------|----------------------|------------|------------|---------|
+|   ratio   |                                         |                      |            |            |         |
+| Personnel |                   $0                    |        2,000         |            |            |   $0    |
+|Data Proc'g|                 275,000                 |                      |            |\<$275,000\>|    0    |
+|  Finance  |                 275,000                 |        2,000         |2,000/10,000|   55,000   | 330,000 |
+| Marketing |                1,150,000                |          0           |  0/10,000  |     0      |1,150,000|
+| Manufac'g |                2,300,000                |        8,000         |8,000/10,000|  220,000   |2,520,000|
+|           |                4,000,000                |        12,000        |            |            |4,000,000|
+
+(iv) Under the second step of F's step-allocation method, the denominator of F's allocation ratio includes the data processing hours of its Manufacturing, Marketing, and Finance Departments, but does not include the data processing hours of its Personnel Department (the other mixed service department) because the costs of that department have previously been allocated.
+
+(iv) *Illustrations of mixed service cost allocations using reasonable factors or relationships.* This paragraph (g)(4)(iv) illustrates various reasonable factors and relationships that may be used in allocating different types of mixed service costs. Taxpayers, however, are permitted to use other reasonable factors and relationships to allocate mixed service costs. In addition, the factors or relationships illustrated in this paragraph (g)(4)(iv) may be used to allocate other types of service costs not illustrated in this paragraph (g)(4)(iv).
+
+(A) *Security services.* The costs of security or protection services must be allocated to each physical area that receives the services using any reasonable method applied consistently (e.g., the size of the physical area, the number of employees in the area, or the relative fair market value of assets located in the area).
+
+(B) *Legal services.* The costs of legal services are generally allocable to a particular production or resale activity on the basis of the approximate number of hours of legal service performed in connection with the activity, including research, bidding, negotiating, drafting, reviewing a contract, obtaining necessary licenses and permits, and resolving disputes. Different hourly rates may be appropriate for different services. In determining the number of hours allocable to any activity, estimates are appropriate, detailed time records are not required to be kept, and insubstantial amounts of services provided to an activity by senior legal staff (such as administrators or reviewers) may be ignored. Legal costs may also be allocated to a particular production or resale activity based on the ratio of the total direct costs incurred for the activity to the total direct costs incurred with respect to all production or resale activities. The taxpayer must also allocate directly to an activity the cost incurred for any outside legal services. Legal costs relating to general corporate functions are not required to be allocated to a particular production or resale activity.
+
+(C) *Centralized payroll services.* The costs of a centralized payroll department or activity are generally allocated to the departments or activities benefitted on the basis of the gross dollar amount of payroll processed.
+
+(D) *Centralized data processing services.* The costs of a centralized data processing department are generally allocated to all departments or activities benefitted using any reasonable basis, such as total direct data processing costs or the number of data processing hours supplied. The costs of data processing systems or applications developed for a particular activity are directly allocated to that activity.
+
+(E) *Engineering and design services.* The costs of an engineering or a design department are generally directly allocable to the departments or activities benefitted based on the ratio of the approximate number of hours of work performed with respect to the particular activity to the total number of hours of engineering or design work performed for all activities. Different services may be allocated at different hourly rates.
+
+(F) *Safety engineering services.* The costs of a safety engineering departments or activities generally benefit all of the taxpayer's activities and, thus, should be allocated using a reasonable basis, such as: the approximate number of safety inspections made in connection with a particular activity as a fraction of total inspections, the number of employees assigned to an activity as a fraction of total employees, or the total labor hours worked in connection with an activity as a fraction of total hours. However, in determining the allocable costs of a safety engineering department, costs attributable to providing a safety program relating only to a particular activity must be directly assigned to such activity. Additionally, the cost of a safety engineering department only responsible for setting safety policy and establishing safety procedures to be used in all of the taxpayer's activities is not required to be allocated.
+
+(v) *Accounting method change.* A change in the method or base used to allocate service costs (such as changing from an allocation base using direct labor costs to a base using direct labor hours), or a change in the taxpayer's determination of what functions or departments of the taxpayer are to be allocated, is a change in method of accounting to which section 446(e) and the regulations thereunder apply.
+
+(h) *Simplified service cost method* - (1) *Introduction.* This paragraph (h) provides a simplified method for determining capitalizable mixed service costs incurred during the taxable year with respect to eligible property (i.e., the aggregate portion of mixed service costs that are properly allocable to the taxpayer's production or resale activities).
+
+(2) *Eligible property* - (i) *In general.* Except as otherwise provided in paragraph (h)(2)(ii) of this section, the simplified service cost method, if elected for any trade or business of the taxpayer, must be used for all production and resale activities of the trade or business associated with any of the following categories of property that are subject to section 263A:
+
+(A) *Inventory property.* Stock in trade or other property properly includible in the inventory of the taxpayer.
+
+(B) *Non-inventory property held for sale.* Non-inventory property held by a taxpayer primarily for sale to customers in the ordinary course of the taxpayer's trade or business.
+
+(C) *Certain self-constructed assets.* Self-constructed assets substantially identical in nature to, and produced in the same manner as, inventory property produced by the taxpayer or other property produced by the taxpayer and held primarily for sale to customers in the ordinary course of the taxpayer's trade or business.
+
+(D) *Self-constructed tangible personal property produced on a routine and repetitive basis - (1) In general.* Self-constructed tangible personal property produced by the taxpayer on a routine and repetitive basis in the ordinary course of the taxpayer's trade or business. Self-constructed tangible personal property is produced by the taxpayer on a routine and repetitive basis in the ordinary course of the taxpayer's trade or business when units of tangible personal property (as defined in § 1.263A-10(c)) are mass-produced, that is, numerous substantially identical assets are manufactured within a taxable year using standardized designs and assembly line techniques, and either the applicable recovery period of the property determined under section 168(c) is not longer than 3 years or the property is a material or supply that will be used and consumed within 3 years of being produced. For purposes of this paragraph (h)(2)(i)(D), the applicable recovery period of the assets will be determined at the end of the taxable year in which the assets are placed in service for purposes of § 1.46-3(d). Subsequent changes to the applicable recovery period after the assets are placed in service will not affect the determination of whether the assets are produced on a routine and repetitive basis for purposes of this paragraph (h)(2)(i)(D).
+
+(2) *Examples.* The following examples illustrate this paragraph (h)(2)(i)(D):
+
+Example 1.Y is a manufacturer of automobiles. During the taxable year Y produces numerous substantially identical dies and molds using standardized designs and assembly line techniques. The dies and molds have a 3-year applicable recovery period for purposes of section 168(c). Y uses the dies and molds to produce or process particular automobile components and does not hold them for sale. The dies and molds are produced on a routine and repetitive basis in the ordinary course of Y's business for purposes of this paragraph because the dies and molds are both mass-produced and have a recovery period of not longer than 3 years.Example 2.Z is an electric utility that regularly manufactures and installs identical poles that are used in transmitting and distributing electricity. The poles have a 20-year applicable recovery period for purposes of section 168(c). The poles are not produced on a routine and repetitive basis in the ordinary course of Z's business for purposes of this paragraph because the poles have an applicable recovery period that is longer than 3 years.
+
+(ii) *Election to exclude self-constructed assets.* At the taxpayer's election, the simplified service cost method may be applied within a trade or business to only the categories of inventory property and non-inventory property held for sale described in paragraphs (h)(2)(i)(A) and(B) of this section. Taxpayers electing to exclude the self-constructed assets described in paragraphs (h)(2)(i)(C) and (D) of this section from application of the simplified service cost method must, however, allocate service costs to such property in accordance with paragraph (g)(4) of this section.
+
+(3) *General allocation formula.* (i) Under the simplified service cost method, a taxpayer computes its capitalizable mixed service costs using the following formula:
+
+![](/graphics/ec10oc91.001.gif)
+
+(ii) A producer may elect one of two allocation ratios, the labor-based allocation ratio or the production cost allocation ratio. A reseller that satisfies the requirements for using the simplified resale method of § 1.263A-3(d) (whether or not that method is elected) may elect the simplified service cost method, but must use a labor-based allocation ratio. (See § 1.263A-3(d) for labor-based allocation ratios to be used in conjunction with the simplified resale method.) The allocation ratio used by a trade or business of a taxpayer is a method of accounting which must be applied consistently within the trade or business.
+
+(4) *Labor-based allocation ratio.* (i) The labor-based allocation ratio is computed as follows:
+
+![](/graphics/ec10oc91.002.gif)
+
+(ii) Section 263A labor costs are defined as the total labor costs (excluding labor costs included in mixed service costs) allocable to property produced and property acquired for resale under section 263A that are incurred in the taxpayer's trade or business during the taxable year. Total labor costs are defined as the total labor costs (excluding labor costs included in mixed service costs) incurred in the taxpayer's trade or business during the taxable year. Total labor costs include labor costs incurred in all parts of the trade or business (i.e., if the taxpayer has both property produced and property acquired for resale, the taxpayer must include labor costs from resale activities as well as production activities). For example, taxpayer G incurs $1,000 of total mixed service costs during the taxable year. G's section 263A labor costs are $5,000 and its total labor costs are $10,000. Under the labor-based allocation ratio, G's capitalizable mixed service costs are $500 (i.e., $1,000 × ($5,000 divided by $10,000)).
+
+(5) *Production cost allocation ratio.* (i) Producers may use the production cost allocation ratio, computed as follows:
+
+![](/graphics/ec10oc91.003.gif)
+
+(ii) Section 263A production costs are defined as the total costs (excluding mixed service costs and interest) allocable to property produced (and property acquired for resale if the producer is also engaged in resale activities) under section 263A that are incurred in the taxpayer's trade or business during the taxable year. Total costs are defined as all costs (excluding mixed service costs and interest) incurred in the taxpayer's trade or business during the taxable year. Total costs include all direct and indirect costs allocable to property produced (and property acquired for resale if the producer is also engaged in resale activities) as well as all other costs of the taxpayer's trade or business, including, but not limited to: salaries and other labor costs of all personnel; all depreciation taken for federal income tax purposes; research and experimental expenditures; and selling, marketing, and distribution costs. Such costs do not include, however, taxes described in paragraph (e)(3)(iii)(F) of this section. For example, taxpayer H, a producer, incurs $1,000 of total mixed service costs in the taxable year. H's section 263A production costs are $10,000 and its total costs are $20,000. Under the production cost allocation ratio, H's capitalizable mixed service costs are $500 (i.e., $1,000 × ($10,000 divided by $20,000)).
+
+(6) *Definition of total mixed service costs.* Total mixed service costs are defined as the total costs incurred during the taxable year in all departments or functions of the taxpayer's trade or business that perform mixed service activities. See paragraph (e)(4)(ii)(C) of this section which defines mixed service costs. In determining the total mixed service costs of a trade or business, the taxpayer must include all costs incurred in its mixed service departments and cannot exclude any otherwise deductible service costs. For example, if the accounting department within a trade or business is a mixed service department, then in determining the total mixed service costs of the trade or business, the taxpayer cannot exclude the costs of personnel in the accounting department that perform services relating to non-production activities (e.g., accounts receivable or customer billing activities). Instead, the entire cost of the accounting department must be included in the total mixed service costs.
+
+(7) *Costs allocable to more than one business.* To the extent mixed service costs, labor costs, or other costs are incurred in more than one trade or business, the taxpayer must determine the amounts allocable to the particular trade or business for which the simplified service cost method is being applied by using any reasonable allocation method consistent with the principles of paragraph (f)(4) of this section.
+
+(8) *De minimis rule.* If the taxpayer elects to apply the de minimis rule of paragraph (g)(4)(ii) of this section to any mixed service department, the department is not considered a mixed service department for purposes of the simplified service cost method. Instead, the costs of such department are allocated exclusively to the particular activity satisfying the 90-percent test.
+
+(9) *Separate election.* A taxpayer may elect the simplified service cost method in conjunction with any other allocation method used at the trade or business level, including the simplified methods described in §§ 1.263A-2(b) and 1.263A-3(d). However, the election of the simplified service cost method must be made independently of the election to use those other simplified methods.
+
+(i) [Reserved]
+
+(j) *Special rules* - (1) *Costs provided by a related person* - (i) *In general.* A taxpayer subject to section 263A must capitalize an arm's-length charge for any section 263A costs (e.g., costs of materials, labor, or services) incurred by a related person that are properly allocable to the property produced or property acquired for resale by the taxpayer. Both the taxpayer and the related person must account for the transaction as if an arm's-length charge had been incurred by the taxpayer with respect to its property produced or property acquired for resale. For purposes of this paragraph (j)(1)(i), a taxpayer is considered related to another person if the taxpayer and such person are described in section 482. Further, for purposes of this paragraph (j)(1)(i), arm's-length charge means the arm's-length charge (or other appropriate charge where permitted and applicable) under the principles of section 482. Any correlative adjustments necessary because of the arm's-length charge requirement of this paragraph (j)(1)(i) shall be determined under the principles of section 482.
+
+(ii) *Exceptions.* The provisions of paragraph (j)(1)(i) of this section do not apply if, and to the extent that -
+
+(A) It would be inappropriate under the principles of section 482 for the Commissioner to adjust the income of the taxpayer or the related person with respect to the transaction at issue; or
+
+(B) A transaction is accounted for under an alternative Internal Revenue Code section resulting in the capitalization (or deferral of the deduction) of the costs of the items provided by the related party and the related party does not deduct such costs earlier than the costs would have been deducted by the taxpayer if the costs were capitalized under section 263A. See § 1.1502-13.
+
+(2) *Optional capitalization of period costs* - (i) *In general.* Taxpayers are not required to capitalize indirect costs that do not directly benefit or are not incurred by reason of the production of property or acquisition of property for resale (i.e., period costs). A taxpayer may, however, elect to capitalize certain period costs if: The method is consistently applied; is used in computing beginning inventories, ending inventories, and cost of goods sold; and does not result in a material distortion of the taxpayer's income. A material distortion relates to the source, character, amount, or timing of the cost capitalized or any other item affected by the capitalization of the cost. Thus, for example, a taxpayer may not capitalize a period cost under section 263A if capitalization would result in a material change in the computation of the foreign tax credit limitation under section 904. An election to capitalize a period cost is the adoption of (or a change in) a method of accounting under section 446 of the Internal Revenue Code.
+
+(ii) *Period costs eligible for capitalization.* The types of period costs eligible for capitalization under this paragraph (j)(2) include only the types of period costs (e.g., under paragraph (e)(3)(iii) of this section) for which some portion of the costs incurred is properly allocable to property produced or property acquired for resale in the year of the election. Thus, for example, marketing or advertising costs, no portion of which are properly allocable to property produced or property acquired for resale, do not qualify for elective capitalization under this paragraph (j)(2).
+
+(3) *Trade or business application.* Notwithstanding the references generally to taxpayer throughout this section and §§ 1.263A-2 and 1.263A-3, the methods of accounting provided under section 263A are to be elected and applied independently for each separate and distinct trade or business of the taxpayer in accordance with the provisions of section 446(d) and the regulations thereunder.
+
+(4) *Transfers with a principal purpose of tax avoidance.* The District Director may require appropriate adjustments to valuations of inventory and other property subject to section 263A if a transfer of property is made to another person for a principal purpose of avoiding the application of section 263A. Thus, for example, the District Director may require a taxpayer using the simplified production method of § 1.263A-2(b) to apply that method to transferred inventories immediately prior to a transfer under section 351 if a principal purpose of the transfer is to avoid the application of section 263A.
+
+(k) *Change in method of accounting* - (1) *In general.* A change in a taxpayer's treatment of mixed service costs to comply with paragraph (h)(2)(i)(D) of this section is a change in method of accounting to which the provisions of sections 446 and 481 and the regulations under those sections apply. See § 1.263A-7. For a taxpayer's first taxable year ending on or after August 2, 2005, the taxpayer is granted the consent of the Commissioner to change its method of accounting to comply with paragraph (h)(2)(i)(D) of this section, provided the taxpayer follows the administrative procedures, as modified by paragraphs (k)(2) through (4) of this section, issued under § 1.446-1(e)(3)(ii) for obtaining the Commissioner's automatic consent to a change in accounting method (for further guidance, for example, see Rev. Proc. 2002-9 (2002-1 CB 327), as modified and clarified by Announcement 2002-17 (2002-1 CB 561), modified and amplified by Rev. Proc. 2002-19 (2002-1 CB 696), and amplified, clarified, and modified by Rev. Proc. 2002-54 (2002-2 CB 432), and § 601.601(d)(2)(ii)(*b*) of this chapter). For purposes of Form 3115, “Application for Change in Accounting Method,” the designated number for the automatic accounting method change authorized by this paragraph (k) is “95.” If Form 3115 is revised or renumbered, any reference in this section to that form is treated as a reference to the revised or renumbered form. Alternatively, notwithstanding the provisions of any administrative procedures that preclude a taxpayer from requesting the advance consent of the Commissioner to change a method of accounting that is required to be made pursuant to a published automatic change procedure, for its first taxable year ending on or after August 2, 2005, a taxpayer may request the advance consent of the Commissioner to change its method of accounting to comply with paragraph (h)(2)(i)(D) of this section, provided the taxpayer follows the administrative procedures, as modified by paragraphs (k)(2) through (5) of this section, for obtaining the advance consent of the Commissioner (for further guidance, for example, see Rev. Proc. 97-27 (1997-1 CB 680), as modified and amplified by Rev. Proc. 2002-19 (2002-1 CB 696), as amplified and clarified by Rev. Proc. 2002-54 (2002-2 CB 432), and § 601.601(d)(2)(ii)(*b*) of this chapter). For the taxpayer's second and subsequent taxable years ending on or after August 2, 2005, requests to secure the consent of the Commissioner must be made under the administrative procedures, as modified by paragraphs (k)(3) and (4) of this section, for obtaining the Commissioner's advance consent to a change in accounting method.
+
+(2) *Scope limitations.* Any limitations on obtaining the automatic consent or advance consent of the Commissioner do not apply to a taxpayer seeking to change its method of accounting to comply with paragraph (h)(2)(i)(D) of this section for its first taxable year ending on or after August 2, 2005.
+
+(3) *Audit protection.* A taxpayer that changes its method of accounting in accordance with this paragraph (k) to comply with paragraph (h)(2)(i)(D) of this section does not receive audit protection if its method of accounting for mixed service costs is an issue under consideration at the time the application is filed with the national office.
+
+(4) *Section 481(a) adjustment.* A change in method of accounting to conform to paragraph (h)(2)(i)(D) of this section requires a section 481(a) adjustment. The section 481(a) adjustment period is two taxable years for a net positive adjustment for an accounting method change that is made to conform to paragraph (h)(2)(i)(D) of this section.
+
+(5) *Time for requesting change.* Notwithstanding the provisions of § 1.446-1(e)(3)(i) and any contrary administrative procedure, a taxpayer may submit a request for advance consent to change its method of accounting to comply with paragraph (h)(2)(i)(D) of this section for its first taxable year ending on or after August 2, 2005, on or before the date that is 30 days after the end of the taxable year for which the change is requested.
+
+(l) *Effective/applicability date* - (1) *In general.* Except as provided in (l)(2), (l)(3), and (l)(4) of this section, the effective dates for this section are provided in paragraph (a)(2) of this section.
+
+(2) *Mixed service costs; self-constructed tangible personal property produced on a routine and repetitive basis.* Paragraphs (h)(2)(i)(D), (k), and (l)(2) of this section apply for taxable years ending on or after August 2, 2005.
+
+(3) *Costs allocable to property sold; indirect costs; licensing and franchise costs.* Paragraphs (c)(5), (e)(3)(i), and (e)(3)(ii)(U) of this section apply for taxable years ending on or after January 13, 2014.
+
+(4) *Materials and supplies* - (i) *In general.* The last sentence of paragraphs (e)(2)(i)(A) and (e)(3)(ii)(E) of this section, and paragraph (l)(4) of this section apply to amounts paid (to acquire or produce property) in taxable years beginning on or after January 1, 2014.
+
+(ii) *Early application of this section.* A taxpayer may choose to apply the last sentence of paragraphs (e)(2)(i)(A) and (e)(3)(ii)(E) of this section, and paragraph (l)(4) of this section to amounts paid (to acquire or produce property) in taxable years beginning on or after January 1, 2012.
+
+(iii) *Optional application of TD 9564.* A taxpayer may choose to apply § 1.263A-1T(b)(14), the introductory phrase of § 1.263A-1T(c)(4), the last sentence of § 1.263A-1T(e)(2)(i)(A), the last sentence of § 1.263A-1T(e)(3)(ii)(E), § 1.263A-1T(l), and § 1.263A-1T(m)(2), as these provisions are contained in TD 9564 (76 FR 81060) December 27, 2011, to amounts paid (to acquire or produce property) in taxable years beginning on or after January 1, 2012, and before January 1, 2014.
+
+[T.D. 8482, 58 FR 42209, Aug. 9, 1993]Editorial Note:For Federal Register citations affecting § 1.263A-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

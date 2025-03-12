@@ -1,0 +1,9 @@
+##### § 49.4261-2 Application of tax. #####
+
+(a) *Tax on total amount paid.* The tax is measured by the total amount paid, whether paid at one time or collected at intervals during the course of a continuous transportation, as in the case of a carrier operating under the zone system. For the application of the tax with respect to amount paid for seating or sleeping accommodations in connection with taxable transportation, see § 49.4261-9.
+
+(b) *Tax on transportation of each person.* The tax is determined by the amount paid for transportation with respect to each person. Thus, where a single payment is made for the transportation of two or more persons, the taxability of the payment and the amount of the tax, if any, payable with respect thereto, must be determined on the basis of the portion of the total payment properly allocable to each person transported.
+
+(c) *Charges for nontransportation services.* Where a payment covers charges for nontransportation services as well as for transportation of a person, such as charges for meals, hotel accommodations, etc., the charges for the nontransportation services may be excluded in computing the tax payable with respect to such payment, provided such charges are separable and are shown in the exact amounts thereof in the records pertaining to the transportation charge. If the charges for nontransportation services are not separable from the charge for transportatinon of the person, the tax must be computed upon the full amount of the payment.
+
+[T.D. 6430, 24 FR 9665, Dec. 3, 1959, as amended by T.D. 6518, 25 FR 13134, Dec. 21, 1960, as amended by T.D. 6618, 27 FR 11222, Nov. 14, 1962]

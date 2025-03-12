@@ -1,0 +1,3 @@
+##### § 260.50 What is the purpose of this subpart? #####
+
+Under section 402(a)(7) of the Act, under its TANF plan, a State may elect to implement a special program to serve victims of domestic violence and to waive program requirements for such individuals. This subpart explains how adoption of these provisions affects the penalty determinations applicable if a State fails to meet its work participation rate or comply with the five-year limit on Federal assistance.

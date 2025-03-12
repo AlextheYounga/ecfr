@@ -1,0 +1,3 @@
+##### § 578.508 Authorization of emergency medical services. #####
+
+The provision of nonscheduled emergency medical services in the United States to persons whose property and interests in property are blocked pursuant to § 578.201 or any further Executive orders relating to the national emergency declared in Executive Order 13694 of April 1, 2015 and all receipt of payment for such services are authorized.

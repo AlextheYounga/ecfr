@@ -1,0 +1,3 @@
+##### § 73.735-1101 General provision. #####
+
+Individuals who are designated as special Government employees because of the nature of their services but who are not serving as a consultant, expert, or advisory committee member are subject to the provisions of Subparts B through I of these regulations. However, the provisions of 18 U.S.C. 205, 206, 207, and 208 apply to them only as described in Subpart J. Also, the limitation in § 73.735-701(f) on the amount of an honorarium that may be received does not apply.

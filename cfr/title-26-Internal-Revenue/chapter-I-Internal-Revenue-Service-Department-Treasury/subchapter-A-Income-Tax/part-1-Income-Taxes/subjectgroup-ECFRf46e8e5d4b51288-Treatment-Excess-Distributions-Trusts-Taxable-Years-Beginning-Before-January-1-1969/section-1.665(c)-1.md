@@ -1,0 +1,9 @@
+##### § 1.665(c)-1 Accumulation distributions of certain foreign trusts; in general. #####
+
+(a) In the case of a foreign trust created by a U.S. person, the term *accumulation distribution* for any taxable year means an amount by which the amounts properly paid, credited, or required to be distributed within the meaning of section 661(a)(2) for that year exceed the distributable net income (determined under section 643(a)) of the trust, reduced (but not below zero) by the amount of income required to be distributed currently. (In computing the amount of an accumulation distribution pursuant to the preceding sentence, there is taken into account amounts applied or distributed for the support of a dependent under circumstances specified in section 677(b) and section 678(c) out of corpus or out of other than income for the taxable year and amounts used to discharge or satisfy any person's legal obligation as that term is used in § 1.662(a)-4.)
+
+(b) Although amounts properly paid, credited, or required to be distributed under section 661(a)(2) do not exceed the income of the trust during the taxable year, an accumulation distribution may result if such amounts exceed distributable net income reduced (but not below zero) by the amount required to be distributed currently. This may result from the fact that expenses allocable to corpus are taken into account in determining taxable income and hence distributable net income. However, the provisions of subpart D will not apply unless there is undistributed net income in at least one of the preceding taxable years which began after December 31, 1953, and ended after August 16, 1954. See section 666 and the regulations thereunder.
+
+(c) The provisions of paragraphs (a) and (b) of this section may be illustrated by the examples provided in paragraph (c) of § 1.665(b)-1.
+
+[T.D. 6989, 34 FR 735, Jan. 17, 1969]

@@ -1,0 +1,5 @@
+##### § 1.823-3 Taxable years affected. #####
+
+Sections 1.823-1 and 1.823-2 are applicable only to taxable years beginning after December 31, 1953, but before January 1, 1955, and ending after August 16, 1954, and all references to sections of part II, subchapter L, chapter 1 of the Code are to the Internal Revenue Code of 1954, before amendments. Sections 1.823-4 and 1.823-5 are applicable only to taxable years beginning after December 31, 1954, but before January 1, 1963, and all references to sections of part II, subchapter L, chapter 1 of the Code are to the Internal Revenue Code of 1954, as amended by the Life Insurance Company Tax Act for 1955 (70 Stat. 36). Sections 1.823-6 through 1.823-8 are applicable only to taxable years beginning after December 31, 1962, and all references to sections of parts II and III, subchapter L, chapter 1 of the Code are to the Internal Revenue Code of 1954 as amended by section 8 of the Revenue Act of 1962 (76 Stat. 989).
+
+[T.D. 6681, 28 FR 11116, Oct. 17, 1963]

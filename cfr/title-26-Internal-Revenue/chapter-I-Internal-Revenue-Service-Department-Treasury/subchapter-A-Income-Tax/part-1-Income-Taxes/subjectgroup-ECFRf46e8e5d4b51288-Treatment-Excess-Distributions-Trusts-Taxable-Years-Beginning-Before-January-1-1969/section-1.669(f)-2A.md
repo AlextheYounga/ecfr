@@ -1,0 +1,9 @@
+##### § 1.669(f)-2A Exception for capital gain distributions from certain trusts. #####
+
+(a) *General rule.* If a capital gain distribution is paid, credited, or required to be distributed before January 1, 1973, from a trust that was in existence on December 31, 1969, section 669 shall not apply and no tax shall be imposed on such capital gain distribution under section 668(a)(3). If capital gain distributions from more than one such trust are paid, credited, or required to be distributed to a beneficiary before January 1, 1973, the exception under the preceding sentence shall apply only to the capital gain distributions from one of the trusts. The beneficiary shall indicate on his income tax return for the taxable year in which the distribution would otherwise be included in income under section 668(a) the trust to which the exception provided by this section shall apply.
+
+(b) *Special rule for section 2056(b)(5) trust.* A capital gain distribution paid, credited, or required to be distributed by a trust that qualifies under section 2056(b)(5) of the Code (commonly known as a “marital deduction trust”) to a surviving spouse shall, in general, not be taxed under section 668(a)(3) since such a trust is required to distribute all of its income annually or more often. See section 2056(b)(5) and the regulations thereunder.
+
+(c) *Effect of exception.* If this section applies to a capital gain distribution from a trust, such distribution shall reduce the undistributed capital gain of the trust. Since section 669 does not apply to such capital gain distribution, no amount of taxes paid by the trust attributable to such capital gain distribution are deemed distributed under section 669 (d) and (e).
+
+[T.D. 7204, 37 FR 17157, Aug. 25, 1972]

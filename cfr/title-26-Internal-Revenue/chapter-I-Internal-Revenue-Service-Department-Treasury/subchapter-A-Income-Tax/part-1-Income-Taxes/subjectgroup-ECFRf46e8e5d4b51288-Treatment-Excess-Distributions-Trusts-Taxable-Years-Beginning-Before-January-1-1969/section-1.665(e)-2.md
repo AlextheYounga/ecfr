@@ -1,0 +1,13 @@
+##### § 1.665(e)-2 Application of separate share rule. #####
+
+In trusts to which the separate share rule of section 663(c) is applicable for any taxable year, subpart D (section 665 and following), part I, subchapter J, of the Code, is applied as if each share were a separate trust. Thus, “undistributed net income” and the amount of an “accumulation distribution” are computed separately for each share. The “taxes imposed on the trust” are allocated as follows:
+
+(a) There is first allocated to each separate share that portion of the “taxes imposed on the trust”, computed before the allowance of credits under section 642(a), which bears the same relation to the total that the distributable net income of the separate share bears to the distributable net income of the trust, adjusted for this purpose as follows:
+
+(1) There is excluded from distributable net income of the trust and of each separate share any tax-exempt interest, foreign income of a foreign trust, and excluded dividends, to the extent such amounts are included in distributable net income pursuant to section 643(a) (5), (6), and (7); and
+
+(2) The distributable net income of the trust is reduced by any deductions allowable under section 661 for amounts paid, credited, or required to be distributed during the taxable year, and the distributable net income of each separate share is reduced by any such deduction allocable to that share.
+
+(b) The taxes so determined for each separate share are then reduced by that portion of the credits against tax allowable to the trust under section 642(a) in computing the “taxes imposed on the trust” which bear the same relation to the total that the items of income allocable to the separate share with respect to which the credit is allowed bear to the total of such items of the trust. The amount of taxes imposed on the trust allocable to a separate share as so determined is then reduced by the amount of the taxes allowed under sections 667 and 668 as a credit to a beneficiary of the separate share on account of any accumulation distribution determined for any taxable year intervening between the year for which the determination is made and the year of an accumulation distribution with respect to which the determination is made. See paragraph (b) of § 1.665(d)-1.
+
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6989, 34 FR 741, Jan. 17, 1969. Redesignated by T.D. 6989, 34 FR 736, Jan. 17, 1969]

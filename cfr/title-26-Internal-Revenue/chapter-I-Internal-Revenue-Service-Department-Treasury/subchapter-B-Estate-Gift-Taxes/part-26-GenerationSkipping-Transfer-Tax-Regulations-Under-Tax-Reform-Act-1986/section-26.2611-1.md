@@ -1,0 +1,3 @@
+##### § 26.2611-1 Generation-skipping transfer defined. #####
+
+A generation-skipping transfer (GST) is an event that is either a direct skip, a taxable distribution, or a taxable termination. See § 26.2612-1 for the definition of these terms. The determination as to whether an event is a GST is made by reference to the most recent transfer subject to the estate or gift tax. See § 26.2652-1(a)(2) for determining whether a transfer is subject to Federal estate or gift tax.

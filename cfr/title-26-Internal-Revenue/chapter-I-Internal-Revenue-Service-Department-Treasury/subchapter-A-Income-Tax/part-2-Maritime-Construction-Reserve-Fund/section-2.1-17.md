@@ -1,0 +1,3 @@
+##### § 2.1-17 Basis of new vessel. #####
+
+The basis for determining gain or loss and for depreciation for the purpose of the Federal income tax with respect to a new vessel constructed, reconstructed, reconditioned, or acquired by the taxpayer, or with respect to which purchase-money indebtedness is liquidated as provided in section 511(g) of the Act, with funds deposited in the construction reserve fund, is reduced by the amount of the unrecognized gain represented in the funds allocated under the provisions of the regulations in this part to the cost of such vessel. (See § 2.1-18.)

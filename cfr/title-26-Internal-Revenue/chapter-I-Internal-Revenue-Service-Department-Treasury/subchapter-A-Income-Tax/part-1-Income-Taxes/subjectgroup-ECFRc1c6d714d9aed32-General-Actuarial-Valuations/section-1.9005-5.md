@@ -1,0 +1,5 @@
+##### § 1.9005-5 Terms; applicability of other laws. #####
+
+All other terms which are not otherwise specifically defined shall have the same meaning as when used in the Internal Revenue Code of 1954 (or the corresponding provisions of prior law) except where otherwise distinctly expressed or manifestly intended to the contrary. Further, all provisions of law contained in the Code (or the corresponding provisions of prior law) shall apply to the extent that they can apply. Thus, all the provisions of subtitle F of the Code (and the corresponding provisions of prior law) shall apply to the extent they can apply, including the provisions of law relating to assessment, collection, credit or refund, and limitations. For purposes of this section and §§ 1.9005-1 to 1.9005-4, inclusive, the term “Act” means the Act of September 26, 1961 (Pub. L. 87-321, 75 Stat. 683).
+
+(Sec. 2(f), 75 Stat. 683; 26 U.S.C. 613 note)[T.D. 6583, 26 FR 12079, Dec. 16, 1961]

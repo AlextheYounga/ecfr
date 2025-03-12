@@ -1,0 +1,3 @@
+##### § 1.267(d)-2 Effective date; taxable years subject to the Internal Revenue Code of 1939. #####
+
+Pursuant to section 7851(a)(1)(C), the regulations prescribed in § 1.267(d)-1, to the extent that they relate to determination of gain resulting from the sale or other disposition of property after December 31, 1953, with respect to which property a loss was not allowable to the transferor by reason of section 267(a)(1) (or by reason of section 24(b) of the Internal Revenue Code of 1939), shall also apply to taxable years beginning before January 1, 1954, and ending after December 31, 1953, and taxable years beginning after December 31, 1953, and ending before August 17, 1954, which years are subject to the Internal Revenue Code of 1939.

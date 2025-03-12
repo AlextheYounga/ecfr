@@ -1,0 +1,3 @@
+##### § 46.302 Purpose. #####
+
+Inasmuch as prisoners may be under constraints because of their incarceration which could affect their ability to make a truly voluntary and uncoerced decision whether or not to participate as subjects in research, it is the purpose of this subpart to provide additional safeguards for the protection of prisoners involved in activities to which this subpart is applicable.

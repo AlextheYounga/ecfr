@@ -1,0 +1,9 @@
+##### § 650.14 Request for conveyance of title to NSF. #####
+
+(a) The procedures established by this section apply to the exercise of the Foundation's right under paragraph (d) of the Patent Rights clause in § 650.4(a) to request conveyance of title to a subject invention if certain conditions exist.
+
+(b) The NSF Patent Assistant may request the recipient of an NSF award to convey to the Foundation or a designee title in one or more countries to any invention to which the awardee has elected not to retain title. The NSF Patent Assistant may request immediate conveyance of title to a subject invention if the awardee fails (1) to submit a timely invention disclosure, (2) to make a timely election to retain patent rights, or (3) to file a timely patent application; but only if he or she determines that such action is required to preserve patent rights.
+
+(c) The NSF Patent Assistant will informally review any apparent failure by an awardee to comply with the requirements of paragraph (c) of the Patent Rights clause in § 650.4(a). The interested institution, the inventor, the patent holder, and any other interested party will be given an opportunity to explain why a particular invention was not disclosed, why an election was not made, or why a patent application was not filed. If the Patent Assistant determines that a genuine dispute over material facts exists, a cross-directorate fact-finding panel will be appointed by the General Counsel. The panel will establish its own fact-finding procedures based on the dimensions of the particular dispute. Written findings of facts will be submitted to the General Counsel, sent by certified mail to the patent holder, and made available to all other interested parties.
+
+(d) The NSF General Counsel will determine whether the Foundation should request conveyance of title or if it should retain title obtained under § 650.14(b).

@@ -1,0 +1,7 @@
+##### § 1.1374-5 Loss carryforwards. #####
+
+(a) *In general.* The loss carryforwards allowed as deductions against net recognized built-in gain under section 1374(b)(2) are allowed only to the extent their use is allowed under the rules applying to C corporations. Any other loss carryforwards, such as charitable contribution carryforwards under section 170(d)(2), are not allowed as deductions against net recognized built-in gain.
+
+(b) *Example.* The rules of this section are illustrated by the following example.
+
+Example: Section 382 limitation.X is a C corporation that has an ownership change under section 382(g)(1) on January 1, 1994. On that date, X has a fair market value of $500,000, NOL carryforwards of $400,000, and a net unrealized built-in gain under section 382(h)(3)(A) of $0. Assume X's section 382 limitation under section 382(b)(1) is $40,000. X elects to become an S corporation on January 1, 1998. On that date, X has NOL carryforwards of $240,000 (having used $160,000 of its pre-change net operating losses in its 4 preceding taxable years) and a section 1374 net unrealized built-in gain of $250,000. In 1998, X has net recognized built-in gain of $100,000. X may use $40,000 of its NOL carryforwards as a deduction against its $100,000 net recognized built-in gain, because X's section 382 limitation is $40,000.[T.D. 8579, 59 FR 66469, Dec. 27, 1994]

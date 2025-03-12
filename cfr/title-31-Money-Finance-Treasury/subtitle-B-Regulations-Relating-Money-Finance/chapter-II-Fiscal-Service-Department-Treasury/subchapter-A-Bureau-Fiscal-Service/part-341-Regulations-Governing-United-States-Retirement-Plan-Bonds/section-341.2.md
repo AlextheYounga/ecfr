@@ -1,0 +1,7 @@
+##### § 341.2 Registration. #####
+
+(a) *General.* The registration of Retirement Plan Bonds is limited to the names of natural persons in their own right, whether adults or minors, in either single ownership or beneficiary form. A bond registered in beneficiary form will be inscribed substantially as follows (for example): “John A. Doe payable on death to (or P.O.D.) Richard B. Roe,” No more than one beneficiary may be designated on a bond.
+
+(b) *Inscription.* The inscription on the face of each bond will show the name, address, and date of birth of the registered owner, as well as information as to whether he is a self-employed individual or an employee, and the amount he contributed (if any) out of his own funds toward the purchase price of the bond. In the case of any self-employed individual (who is treated as an employee for the purpose of sections 405 and 401 of the Internal Revenue Code of 1954), this amount would be that portion of the purchase price he contributed (if any) as an employee and which he will not take into account in determining the amount deductible for Federal income tax purposes. The name of the beneficiary, if one is to be designated, will also be shown in the inscription.
+
+[28 FR 405, Jan. 16, 1963, as amended at 71 FR 46857, Aug. 15, 2006]

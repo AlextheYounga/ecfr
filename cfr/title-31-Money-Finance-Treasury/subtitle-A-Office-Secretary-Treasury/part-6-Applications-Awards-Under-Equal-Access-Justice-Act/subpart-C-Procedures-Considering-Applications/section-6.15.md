@@ -1,0 +1,3 @@
+##### § 6.15 Agency review. #####
+
+Either the applicant or agency counsel may seek review of the initial decision on the fee application, or the agency may decide to review the decision on its own initiative. If neither the applicant nor agency counsel seeks a review and the agncy does not take review on its own initiative, the initial decision on the application shall become a final decision of the agency 30 days after it is issued. Whether to review a decision is a matter within the discretion of the agency. If review is taken, the agency will issue a final decision on the application or remand the application to the adjudicative officer for further proceedings.

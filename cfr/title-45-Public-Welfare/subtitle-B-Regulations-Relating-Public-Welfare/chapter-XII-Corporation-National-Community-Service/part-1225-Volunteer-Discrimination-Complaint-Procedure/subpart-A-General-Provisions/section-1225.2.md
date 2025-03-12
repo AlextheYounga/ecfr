@@ -1,0 +1,3 @@
+##### § 1225.2 Policy. #####
+
+It is the policy of Peace Corps and ACTION to provide equal opportunity in all its programs for all persons and to prohibit discrimination based on race, color, national origin, religion, age, sex, handicap or political affiliation, in the recruitment, selection, placement, service, and termination of Peace Corps and ACTION Volunteers. It is the policy of Peace Corps and ACTION upon determining that such prohibited discrimination has occurred, to take all necessary corrective action to remedy the discrimination, and to prevent its recurrence.

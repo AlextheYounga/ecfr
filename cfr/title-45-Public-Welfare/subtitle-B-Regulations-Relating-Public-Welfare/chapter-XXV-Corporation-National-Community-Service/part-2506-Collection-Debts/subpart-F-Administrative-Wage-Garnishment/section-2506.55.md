@@ -1,0 +1,3 @@
+##### § 2506.55 How will the Corporation collect debts through Administrative Wage Garnishment? #####
+
+The Corporation will collect debts through Administrative Wage Garnishment in accordance with the Administrative Wage Garnishment regulations issued by the Treasury. The Corporation adopts, for purposes of this subpart, the Treasury's Administrative Wage Garnishment regulations in 31 CFR 285.11. This procedure allows the Corporation to garnish the disposable pay of a debtor without first obtaining a court order.

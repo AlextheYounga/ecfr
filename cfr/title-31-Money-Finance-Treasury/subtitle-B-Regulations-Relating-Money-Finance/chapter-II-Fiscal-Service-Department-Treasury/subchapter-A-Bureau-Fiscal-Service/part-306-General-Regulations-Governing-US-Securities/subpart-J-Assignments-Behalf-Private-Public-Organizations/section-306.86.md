@@ -1,0 +1,3 @@
+##### § 306.86 Change of name and succession of private organizations. #####
+
+If a private corporation or unincorporated association changes its name or is lawfully succeeded by another corporation or unincorporated association, its securities may be assigned in behalf of the organization in its new name or that of its successor by an authorized officer in accordance with § 306.85. The assignment must be supported by evidence of the change of name or successorship.

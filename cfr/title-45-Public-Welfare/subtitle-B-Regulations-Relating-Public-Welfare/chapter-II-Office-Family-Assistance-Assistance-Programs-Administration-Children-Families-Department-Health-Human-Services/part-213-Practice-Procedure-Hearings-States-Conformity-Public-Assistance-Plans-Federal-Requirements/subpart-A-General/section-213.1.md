@@ -1,0 +1,5 @@
+##### § 213.1 Scope of rules. #####
+
+(a) The rules of procedure in this part govern the practice for hearings afforded by the Department to States pursuant to § 201.4 or § 201.6 (a) or (b) of this chapter, and the practice relating to decisions upon such hearings. These rules may also be applied to hearings afforded by the Department to States in other Federal-State programs for which Federal administrative responsibility has been delegated to the Service.
+
+(b) Nothing in this part is intended to preclude or limit negotiations between the Department and the State, whether before, during, or after the hearing to resolve the issues which are, or otherwise would be, considered at the hearing. Such negotiations and resolution of issues are not part of the hearing, and are not governed by the rules in this part, except as expressly provided herein.

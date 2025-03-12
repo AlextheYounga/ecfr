@@ -1,0 +1,31 @@
+##### § 1.1258-1 Netting rule for certain conversion transactions. #####
+
+(a) *Purpose.* The purpose of this section is to provide taxpayers with a method to net certain gains and losses from positions of the same conversion transaction before determining the amount of gain treated as ordinary income under section 1258(a).
+
+(b) *Netting of gain and loss for identified transactions*—(1) *In general.* If a taxpayer disposes of or terminates all the positions of an identified netting transaction (as defined in paragraph (b)(2) of this section) within a 14-day period in a single taxable year, all gains and losses on those positions taken into account for Federal tax purposes within that period (other than built-in losses as defined in paragraph (c) of this section) are netted solely for purposes of determining the amount of gain treated as ordinary income under section 1258(a). For purposes of the preceding sentence, a taxpayer is treated as disposing of any position that is treated as sold under any provision of the Code or regulations thereunder (for example, under section 1256(a)(1)).
+
+(2) *Identified netting transaction.* For purposes of this section, an identified netting transaction is a conversion transaction (as defined in section 1258(c)) that the taxpayer identifies as an identified netting transaction on its books and records. Identification of each position of the conversion transaction must be made before the close of the day on which the position becomes part of the conversion transaction. No particular form of identification is necessary, but all the positions of a single conversion transaction must be identified as part of the same transaction and must be distinguished from all other positions.
+
+(c) *Definition of built-in loss.* For purposes of this section, built-in loss means—
+
+(1) Built-in loss as defined in section 1258(d)(3)(B); and
+
+(2) If a taxpayer realizes gain or loss on any one position of a conversion transaction (for example, under section 1256), as of the date that gain or loss is realized, any unrecognized loss in any other position of the conversion transaction that is not disposed of, terminated, or treated as sold under any provision of the Code or regulations thereunder within 14 days of and within the same taxable year as the realization event.
+
+(d) *Examples.* These examples illustrate this section:
+
+Example 1.Identified netting transaction with simultaneous actual dispositions. (i) On December 1, 1995, A purchases 1,000 shares of XYZ stock for $100,000 and enters into a forward contract to sell 1,000 shares of XYZ stock on November 30, 1997, for $110,000. The XYZ stock is actively traded as defined in § 1.1092(d)-1(a) and is a capital asset in A's hands. A maintains books and records on which, on December 1, 1995, it identifies the two positions as all the positions of a single conversion transaction. A owns no other XYZ stock. On December 1, 1996, when the applicable imputed income amount for the transaction is $7,000, A sells the 1,000 shares of XYZ stock for $95,000. On the same day, A terminates its forward contract with its counterparty, receiving $10,200. No dividends were received on the stock during the time it was part of the conversion transaction.
+
+(ii) The XYZ stock and forward contract are positions of a conversion transaction. Under section 1258(c)(1), substantially all of A's expected return from the overall transaction is attributable to the time value of the net investment in the transaction. Under section 1258(c)(2)(B), the transaction is an applicable straddle as defined in section 1258(d)(1).
+
+(iii) A disposed of or terminated all the positions of the conversion transaction within 14 days and within the same taxable year as required by paragraph (b)(1) of this section. The transaction is an identified netting transaction because it meets the identification requirement of paragraph (b)(2) of this section. Solely for purposes of section 1258(a), the $5,000 loss realized ($100,000 basis less $95,000 amount realized) on the disposition of the XYZ stock is netted against the $10,200 gain recognized on the disposition of the forward contract. Thus, the net gain from the conversion transaction for purposes of section 1258(a) is $5,200 ($10,200 gain less $5,000 loss). Only the $5,200 net gain is recharacterized as ordinary income under section 1258(a) even though the applicable imputed income amount is $7,000. For Federal tax purposes other than section 1258(a), A has recognized a $10,200 gain on the disposition of the forward contract ($5,200 of which is treated as ordinary income) and realized a separate $5,000 loss on the sale of the XYZ stock.
+
+Example 2. Identified netting transaction with built-in loss.(i) The facts are the same as in *Example 1,* except that A had purchased the XYZ stock for $104,000 on May 15, 1995. The XYZ stock had a fair market value of $100,000 on December 1, 1995, the date it became part of a conversion transaction.
+
+(ii) The results are the same as in *Example 1,* except that A has built-in loss (in addition to the $5,000 loss that arose economically during the period of the conversion transaction), as defined in section 1258(d)(3)(B), of $4,000 on the XYZ stock. That $4,000 built-in loss is not netted against the $10,200 gain on the forward contract for purposes of section 1258(a). Thus, the net gain from the conversion transaction for purposes of section 1258(a) is $5,200, the same as in *Example 1.* The $4,000 built-in loss is recognized and has a character determined without regard to section 1258.
+
+(e) *Effective date and transition rule*—(1) *In general.* These regulations are effective for conversion transactions that are outstanding on or after December 21, 1995.
+
+(2) *Transition rule for identification requirements.* In the case of a conversion transaction entered into before February 20, 1996, paragraph (b)(2) of this section is treated as satisfied if the identification is made before the close of business on February 20, 1996.
+
+[T.D. 8649, 60 FR 66084, Dec. 21, 1995]

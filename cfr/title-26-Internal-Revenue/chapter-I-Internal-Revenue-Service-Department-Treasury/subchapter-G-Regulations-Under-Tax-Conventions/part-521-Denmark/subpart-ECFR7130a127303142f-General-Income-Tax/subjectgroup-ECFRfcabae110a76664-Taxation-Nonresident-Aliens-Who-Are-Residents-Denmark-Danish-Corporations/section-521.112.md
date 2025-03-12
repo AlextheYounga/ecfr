@@ -1,0 +1,9 @@
+##### § 521.112 Compensation for labor or personal services. #####
+
+Article XI of the convention adopts the principle that compensation for labor or personal services, including the practice of the liberal professions, is subject to tax only in the contracting State in which such services are rendered. Hence, in general, such compensation derived by a nonresident alien individual residing in Denmark for services rendered in the United States is subject to Federal income tax. Under Article XI of the convention this general rule is subject to the following exceptions:
+
+(a) Where such individual is temporarily present in the United States for a period or periods not exceeding a total of 90 days during the taxable year, compensation received for labor or personal services within the United States during such year is exempt from Federal income tax provided such compensation does not exceed $3,000 in the aggregate.
+
+(b) Where such individual is temporarily present in the United States for a period or periods not exceeding a total of 180 days during the taxable year, compensation for labor or personal services within the United States during such year is exempt from Federal income tax provided such compensation is received for services performed as a worker or employee of, or under contract with, a resident or corporation of Denmark (even though such resident or corporation is engaged in trade or business in the United States) which resident or corporation actually bears the expense of such compensation and is not reimbursed therefor by another person.
+
+As to the source of compensation for labor or personal services, see section 119(a)(3) of the Internal Revenue Code.

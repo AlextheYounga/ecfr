@@ -1,0 +1,3 @@
+##### § 537.326 Articles of jewelry containing jadeite or rubies. #####
+
+The term *articles of jewelry containing jadeite or rubies* means any article of jewelry classifiable under heading 7113 of the Harmonized Tariff Schedule of the United States that contains jadeite or rubies, or any article of jadeite or rubies classifiable under heading 7116 of the Harmonized Tariff Schedule of the United States.

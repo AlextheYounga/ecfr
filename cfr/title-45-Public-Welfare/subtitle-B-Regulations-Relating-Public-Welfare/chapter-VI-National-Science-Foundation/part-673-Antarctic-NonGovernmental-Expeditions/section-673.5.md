@@ -1,0 +1,7 @@
+##### § 673.5 Emergency response plan. #####
+
+Any person organizing a non-governmental expedition to or within Antarctica who is transporting passengers aboard a non-U.S. flagged vessel shall ensure that:
+
+(a) The vessel owner's or operator's shipboard oil pollution emergency plan, prepared and maintained according to Regulation 26 of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL 73/78), has provisions for prompt and effective response action to such emergencies as might arise in the performance of the vessel's activities in Antarctica. Any emergency response plan which satisfies the requirements contained in 33 CFR 151.26 of the U.S. Coast Guard regulations will also satisfy the requirements of this paragraph. If the vessel owner or operator does not have a shipboard oil pollution emergency plan, a separate plan for prompt and effective response action is required.
+
+(b) The vessel owner or operator agrees to take all reasonable measures to implement the plan for a prompt and effective response action in the event of an emergency, taking into account considerations of risk to human life and safety.

@@ -1,0 +1,15 @@
+##### § 672.5 Filing and service of rulings, orders, and decisions. #####
+
+(a) All rulings, orders, decisions, and other documents issued by the Presiding Officer shall be filed with the Hearing Clerk. Copies of all such documents shall be served personally, or by certified mail, return receipt requested, upon all parties.
+
+(b) *Computation.* In computing any period of time prescribed or allowed in these rules, except as otherwise provided, computation is by calendar days and does not include the day of the event from which the designated period begins to run. When a stated time expires on a Saturday, Sunday or legal holiday, the stated time period shall be extended to include the next business day.
+
+(c) *Extensions of time.* The Presiding Officer may grant an extension of time for the filing of any pleading, document, or motion (1) upon timely motion of a party to the proceeding, for good cause shown, and after consideration of prejudice to other parties, or (2) upon his own motion. Such a motion by a party may only be made after notice to all other parties, unless the movant can show good cause why serving notice is impracticable. The motion shall be filed in advance of the date on which the pleading, document or motion is due to be filed, unless the failure of a party to make timely motion for extension of time was the result of excusable neglect.
+
+(d) *Service by mail.* Service of the complaint is complete when the return receipt is signed. Service of all other pleadings and documents is complete upon mailing. Where a pleading or document is served by mail, five (5) days shall be added to the time allowed by these rules for the filing of a responsive pleading or document.
+
+(e) *Ex parte discussion of proceeding.* At no time after the issuance of the complaint shall the Presiding Officer, or any other person who is likely to advise these officials in the decision on the case, discuss ex parte the merits of the proceeding with any interested person outside the Agency, with any Agency staff member who performs a prosecutorial or investigative function in the proceeding or other factually related proceeding, or with any representative of such person. Any ex parte memorandum or other communication addressed to the Presiding Officer during the pendency of the proceeding and relating to the merits thereof, by or on behalf of any party, shall be regarded as argument made in the proceeding and shall be served upon all other parties. The Presiding Officer shall give the other parties an opportunity to reply.
+
+(f) Subject to the provisions of law restricting the public disclosure of confidential information, any person may, during Agency business hours, inspect and copy any document filed in any proceeding. Such documents shall be made available by the Hearing Clerk.
+
+(g) The person seeking copies of any documents filed in a proceeding shall bear the cost of duplication. Upon a formal request the Agency may waive this cost in appropriate cases.

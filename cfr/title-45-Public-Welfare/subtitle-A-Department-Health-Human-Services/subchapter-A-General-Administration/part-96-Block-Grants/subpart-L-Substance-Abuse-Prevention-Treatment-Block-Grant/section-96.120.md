@@ -1,0 +1,3 @@
+##### § 96.120 Scope. #####
+
+This subpart applies to the Substance Abuse Prevention and Treatment Block Grant administered by the Substance Abuse and Mental Health Services Administration. 45 CFR part 96, subparts A through F, are applicable to this subpart to the extent that those subparts are consistent with subpart L. To the extent subparts A through F are inconsistent with subpart L, the provisions of subpart L are applicable.

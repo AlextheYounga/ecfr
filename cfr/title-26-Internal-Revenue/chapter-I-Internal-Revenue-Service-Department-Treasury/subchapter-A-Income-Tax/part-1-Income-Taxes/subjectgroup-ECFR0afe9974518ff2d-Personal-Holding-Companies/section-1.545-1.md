@@ -1,0 +1,7 @@
+##### § 1.545-1 Definition. #####
+
+(a) Undistributed personal holding company income is the amount which is subject to the personal holding company tax imposed under section 541. Undistributed personal holding company income is the taxable income of the corporation adjusted in the manner described in section 545(b) and § 1.545-2, and section 545(c) and § 1.545-3, less the deduction for dividends paid. See part IV (section 561 and following), subchapter G, chapter 1 of the Code, and the regulations thereunder, relating to the dividends paid deduction.
+
+(b) For purposes of the imposition of the personal holding company tax on a foreign corporation, resident or nonresident, which files or causes to be filed a return, the undistributed personal holding company income shall be computed on the basis of the taxable income from sources within the United States, and such income shall be adjusted in accordance with the principles of section 545(b) and § 1.545-2, and section 545(c) and § 1.545-3. For purposes of the imposition of such tax on a foreign corporation, resident or nonresident, which files no return, the undistributed personal holding company income shall be computed on the basis of the gross income from sources within the United States without allowance of any deductions. For purposes of this paragraph, a nonresident foreign corporation will be considered to have filed a return for any taxable year ending before September 9, 1958, if the return for any such taxable year is filed on or before February 5, 1960.
+
+[T.D. 6949, 33 FR 5525, Apr. 9, 1968]

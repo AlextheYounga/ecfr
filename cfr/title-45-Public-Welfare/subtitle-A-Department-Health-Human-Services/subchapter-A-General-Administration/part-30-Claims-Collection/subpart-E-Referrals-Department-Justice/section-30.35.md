@@ -1,0 +1,3 @@
+##### § 30.35 Preservation of evidence. #####
+
+The Secretary will maintain and preserve all files and records that may be needed by Justice to prove the Department's claim in court. When referring debts to Justice for litigation, certified copies of the documents that form the basis for the claim should be provided along with the CCLR. Upon its request, the original documents will be provided to Justice.

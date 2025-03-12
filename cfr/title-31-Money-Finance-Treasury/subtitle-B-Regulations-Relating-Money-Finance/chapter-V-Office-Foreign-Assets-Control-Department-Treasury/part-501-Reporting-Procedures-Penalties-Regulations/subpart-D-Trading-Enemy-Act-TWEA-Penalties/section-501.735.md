@@ -1,0 +1,11 @@
+##### § 501.735 Proposed findings, conclusions and supporting briefs. #####
+
+(a) *Opportunity to file.* Before a decision is issued by the Administrative Law Judge, each party shall have an opportunity, reasonable in light of all the circumstances, to file in writing proposed findings and conclusions.
+
+(b) *Procedure.* Proposed findings of fact must be supported by citations to specific portions of the record. If successive filings are directed, the proposed findings and conclusions of the party assigned to file first shall be set forth in serially numbered paragraphs, and any counter statement of proposed findings and conclusions shall, in addition to any other matter presented, indicate those paragraphs of the proposals already filed as to which there is no dispute. A reply brief may be filed by the party assigned to file first, or, where simultaneous filings are directed, reply briefs may be filed by each party, within the period prescribed therefor by the Administrative Law Judge. No further briefs may be filed except with permission of the Administrative Law Judge.
+
+(c) *Time for filing.* In any proceeding in which a decision is to be issued:
+
+(1) At the close of each hearing, the Administrative Law Judge shall, by order, after consultation with the parties, prescribe the period within which proposed findings and conclusions and supporting briefs are to be filed. The party directed to file first shall make its initial filing not later than 30 days after the end of the hearing unless the Administrative Law Judge, for good cause shown, permits a different period and sets forth in the order the reasons why the different period is necessary.
+
+(2) The total period within which all such proposed findings and conclusions and supporting briefs and any counter statements of proposed findings and conclusions and reply briefs are to be filed shall be no longer than 90 days after the close of the hearing unless the Administrative Law Judge, for good cause shown, permits a different period and sets forth in an order the reasons why the different period is necessary.

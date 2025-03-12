@@ -1,0 +1,3 @@
+##### § 73.735-1005 Salary from two sources. #####
+
+Special Government employees are not subject to 18 U.S.C. 209 which prohibits other employees from receiving any salary, or supplementation of Government salary, from a private source as a compensation for services to the Government. This Department will not knowingly pay per diem to a consultant who also receives per diem pay for the same day from another Government agency (in or outside the Department). Erroneous payments in contravention of this provision will be subject to collection, and any consultant who willfully collects double payments may be barred from further employment.

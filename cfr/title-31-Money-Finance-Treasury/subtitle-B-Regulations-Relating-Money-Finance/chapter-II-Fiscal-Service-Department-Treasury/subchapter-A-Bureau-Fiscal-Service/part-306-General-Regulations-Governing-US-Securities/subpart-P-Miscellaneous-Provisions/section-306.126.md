@@ -1,0 +1,3 @@
+##### § 306.126 Waiver of regulations. #####
+
+The Secretary of the Treasury reserves the right, in his discretion, to waive or modify any provision or provisions of these regulations in any particular case or class of cases for the convenience of the United States or in order to relieve any person or persons of unnecessary hardship, if such action is not inconsistent with law, does not impair any existing rights, and he is satisfied that such action would not subject the United States to any substantial expense or liability.

@@ -1,0 +1,3 @@
+##### § 370.7 How can my financial institution change my designated deposit account? #####
+
+If your financial institution requests us to make a change in your deposit account number or type of your account, we will change the information without requiring any confirmation from you. The request from the financial institution must be made following the Operating Rules of the National Automated Clearing House Association. The financial institution's request will be deemed an agreement by the institution to indemnify us and you for any loss resulting from the requested change.

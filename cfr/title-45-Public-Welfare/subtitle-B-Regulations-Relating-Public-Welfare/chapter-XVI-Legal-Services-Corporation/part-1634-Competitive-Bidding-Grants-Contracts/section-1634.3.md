@@ -1,0 +1,11 @@
+##### § 1634.3 Competition for grants and contracts. #####
+
+(a) After the effective date of this part, all grants and contracts for legal assistance awarded by the Corporation under Section 1006(a)(1)(A) of the LSC Act shall be subject to the competitive bidding process described in this part. No grant or contract for the delivery of legal assistance shall be awarded by the Corporation for any period after the effective date of this part, unless the recipient of that grant has been selected on the basis of the competitive bidding process described in this part.
+
+(b) The Corporation shall determine the service areas to be covered by grants or contracts and shall determine whether the population to be served will consist of all eligible clients within the service area or a specific subpopulation of eligible clients within one or more service areas.
+
+(c) The use of the competitive bidding process to award grant(s) or contract(s) shall not constitute a termination or denial of refunding of financial assistance to a current recipient pursuant to parts 1606 and 1625 of this chapter.
+
+(d) Wherever possible, the Corporation shall award no more than one grant or contract to provide legal assistance to eligible clients or a subpopulation of eligible clients within a service area. The Corporation may award more than one grant or contract to provide legal assistance to eligible clients or a subpopulation of eligible clients within a service area only when the Corporation determines that it is necessary to award more than one such grant or contract in order to ensure that all eligible clients within the service area will have access to a full range of high quality legal services in accordance with the LSC Act or other applicable law.
+
+(e) In no event may the Corporation award a grant or contract for a term longer than five years. The amount of funding provided annually under each such grant or contract is subject to changes in congressional appropriations or restrictions on the use of those funds by the Corporation. A reduction in a recipient's annual funding required as a result of a change in the law or a reduction in funding appropriated to the Corporation shall not be considered a termination or denial of refunding under parts 1606 or 1625 of this chapter.

@@ -1,0 +1,5 @@
+##### § 1.1502-34 Special aggregate stock ownership rules. #####
+
+For purposes of §§ 1.1502-1 through 1.1502-80, in determining the stock ownership of a member of a group in another corporation (the “issuing corporation”) for purposes of determining the application of section 165(g)(3)(A), 332(b)(1), 333(b), 351(a), 732(f), or 904(f), in a consolidated return year, there shall be included stock owned by all other members of the group in the issuing corporation. Thus, assume that members A, B, and C each own 331/3 percent of the stock issued by D. In such case, A, B, and C shall each be treated as meeting the 80-percent stock ownership requirement for purposes of section 332, and no member can elect to have section 333 apply. Furthermore, the special rule for minority shareholders in section 337(d) cannot apply with respect to amounts received by A, B, or C in liquidation of D.
+
+[T.D. 6894, 31 FR 11794, Sept. 8, 1966, as amended by T.D. 8949, 66 FR 32902, June 19, 2001]

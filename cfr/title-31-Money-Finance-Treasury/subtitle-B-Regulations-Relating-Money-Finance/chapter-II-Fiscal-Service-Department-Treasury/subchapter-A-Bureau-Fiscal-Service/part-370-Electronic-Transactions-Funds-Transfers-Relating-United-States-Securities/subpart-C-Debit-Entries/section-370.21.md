@@ -1,0 +1,5 @@
+##### § 370.21 Are there any requirements related to a prenotification entry? #####
+
+(a) *Use of prenotification in our discretion.* In our discretion, we may initiate a prenotification entry to a financial institution prior to sending a debit entry. A prenotification is a zero-dollar ACH entry that can help us determine whether there might be problems with sending a subsequent debit entry.
+
+(b) *Requirements placed upon financial institution that receives a prenotification.* If sent, a financial institution must respond to a prenotification within the time frame for such responses as established by the National Automated Clearing House Association. If the receiving financial institution does not respond to the prenotification message within the specified time period, we may interpret the nonresponsiveness as the financial institution's agreement to this subpart. Furthermore, a financial institution warrants by its nonresponsiveness that the deposit account number and the type of account contained in the prenotification entry message was accurate as of the moment the financial institution received it.

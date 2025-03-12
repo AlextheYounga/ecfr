@@ -1,0 +1,5 @@
+##### § 301.7404-1 Authority to bring civil action for estate taxes. #####
+
+(a) If the estate tax imposed by chapter 11 of the Code is not paid on or before the last date prescribed for payment, the district director shall proceed to collect the tax under the provisions of general law; or appropriate proceedings in the name of the United States may be commenced in any court having jurisdiction to subject the property of the decedent to be sold under the judgment or decree of the court.
+
+(b) The remedy by action provided in section 7404 is not exclusive. The district director may proceed to collect the tax by levy, as provided in section 6331, on any or all property or rights to property of the estate, or collection may be enforced by an appropriate action against the executor, certain transferees, trustees, and beneficiaries for their personal liability. See § 20.2002-1 of this chapter (Estate Tax Regulations).

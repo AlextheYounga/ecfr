@@ -1,0 +1,21 @@
+##### § 20.2056A-1 Restrictions on allowance of marital deduction if surviving spouse is not a United States citizen. #####
+
+(a) *General rule.* Subject to the special rules provided in section 7815(d)(14) of the Omnibus Budget Reconciliation Act of 1989 (Pub. L. 101-239; 103 Stat. 2106), in the case of a decedent dying after November 10, 1988, the federal estate tax marital deduction is not allowed for property passing to or for the benefit of a surviving spouse who is not a United States citizen at the date of the decedent's death (whether or not the surviving spouse is a resident of the United States) unless—
+
+(1) The property passes from the decedent to (or pursuant to)—
+
+(i) A qualified domestic trust (QDOT) described in section 2056A and § 20.2056A-2;
+
+(ii) A trust that, although not meeting all of the requirements for a QDOT, is reformed after the decedent's death to meet the requirements of a QDOT (see § 20.2056A-4(a));
+
+(iii) The surviving spouse not in trust (e.g., by outright bequest or devise, by operation of law, or pursuant to the terms of an annuity or other similar plan or arrangement) and, prior to the date that the estate tax return is filed and on or before the last date prescribed by law that the QDOT election may be made (no more than one year after the time prescribed by law, including extensions, for filing the return), the surviving spouse either actually transfers the property to a QDOT or irrevocably assigns the property to a QDOT (see § 20.2056A-4(b)); or
+
+(iv) A plan or other arrangement that would have qualified for the marital deduction but for section 2056(d)(1)(A), and whose payments are not assignable or transferable to a QDOT, if the requirements of § 20.2056A-4(c) are met; and
+
+(2) The executor makes a timely QDOT election under § 20.2056A-3.
+
+(b) *Marital deduction allowed if resident spouse becomes citizen.* For purposes of section 2056(d)(1) and paragraph (a) of this section, the surviving spouse is treated as a citizen of the United States at the date of the decedent's death if the requirements of section 2056(d)(4) are satisfied. For purposes of section 2056(d)(4)(A) and notwithstanding § 20.2056A-3(a), a return filed prior to the due date (including extensions) is considered filed on the last date that the return is required to be filed (including extensions), and a late return filed at any time after the due date is considered filed on the date that it is actually filed. A surviving spouse is a resident only if the spouse is a resident under chapter 11 of the Internal Revenue Code. See § 20.0-1(b)(1). The status of the spouse as a resident under section 7701(b) is not relevant to this determination except to the extent that the income tax residency of the spouse is pertinent in applying § 20.0-1(b)(1).
+
+(c) *Special rules in the case of certain transfers subject to estate and gift tax treaties.* Under section 7815(d)(14) of the Omnibus Budget Reconciliation Act of 1989 (Pub. L. 101-239, 103 Stat. 2106) certain special rules apply in the case of transfers governed by certain estate and gift tax treaties to which the United States is a party. In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the Technical and Miscellaneous Revenue Act of 1988 (Pub. L. 100-647, 102 Stat. 3342) do not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. Under this rule, the estate may choose either the statutory deduction under section 2056A or the marital deduction allowed under the treaty. Thus, the estate may not avail itself of both the marital deduction under the treaty and the marital deduction under the QDOT provisions of section 2056A and chapter 11 of the Internal Revenue Code with respect to the remainder of the marital property that is not deductible under the treaty.
+
+[T.D. 8612, 60 FR 43539, Aug. 22, 1995]

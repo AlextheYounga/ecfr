@@ -1,0 +1,3 @@
+##### § 53.6165-1 Bonds where time to pay tax or deficiency has been extended. #####
+
+If an extension of time for payment of tax or deficiency is granted under section 6161, the district director or the director of the service center may, if he deems it necessary, require a bond for the payment of the amount in respect of which the extension is granted in accordance with the terms of the extension. However, such bond shall not exceed double the amount with respect to which the extension is granted. For provisions relating to form of bonds, see the regulations under section 7101 contained in part 301 of this chapter (Regulations on Procedure and Administration).

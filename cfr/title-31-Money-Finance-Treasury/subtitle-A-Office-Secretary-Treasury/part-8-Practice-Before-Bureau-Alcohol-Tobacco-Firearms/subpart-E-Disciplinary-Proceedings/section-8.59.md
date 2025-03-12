@@ -1,0 +1,3 @@
+##### § 8.59 Proof; variance; amendment of pleadings. #####
+
+In the case of a variance between the allegations in a pleading, the Administrative Law Judge may order or authorize amendment of the pleading to conform to the evidence. The party who would otherwise be prejudiced by the amendment will be given reasonable opportunty to meet the allegation of the pleading as amended, and the Administrative Law Judge shall make findings on an issue presented by the pleadings as so amended.

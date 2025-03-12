@@ -1,0 +1,23 @@
+##### § 240.17 Powers of attorney. #####
+
+(a) *Specific powers of attorney.* Any check may be negotiated under a specific power of attorney executed in accordance with applicable State or Federal law after the issuance of the check and describing the check in full (check serial and symbol numbers, date of issue, amount, and name of payee).
+
+(b) *General powers of attorney.* Checks may be negotiated under a general power of attorney executed, in accordance with applicable State or Federal law, in favor of a person for the following classes of payments:
+
+(1) Payments for the redemption of currencies or for principal and/or interest on U.S. securities;
+
+(2) Payments for tax refunds, but subject to the limitations concerning the mailing of Internal Revenue refund checks contained in 26 CFR 601.506(c); and
+
+(3) Payments for goods and services.
+
+(c) *Special powers of attorney.* Checks issued for classes of payments other than those specified in paragraph (b) of this section, such as a recurring benefit payment, may be negotiated under a special power of attorney executed in accordance with applicable State or Federal law, which describes the purpose for which the checks are issued, names a person as attorney-in-fact, and recites that the special power of attorney is not given to carry into effect an assignment of the right to receive such payment, either to the attorney-in-fact or to any other person.
+
+(d) *Durable special powers of attorney.* A durable special power of attorney is a special power of attorney that continues despite the principal's later incompetency, and is created by the principal's use of words explicitly stating such intent. Classes of checks other than those specified in paragraph (b) of this section may be negotiated under a durable special power of attorney executed in accordance with applicable State or Federal law, which describes the purpose for which the checks are issued, names a person as attorney-in-fact, and recites that the special power of attorney is not given to carry into effect an assignment of the right to receive such payment, either to the attorney-in-fact or to any other person. For the purpose of negotiating Treasury checks, durable special powers of attorney are effective only during the six-month period following a determination that the named payee is incompetent.
+
+(e) *Springing durable special powers of attorney.* A springing durable special power of attorney is similar to a durable power of attorney except that its terms do not become effective until the principal's subsequent incompetence. As with a durable special power of attorney, a springing durable special power of attorney is created by the principal's use of language explicitly stating that its terms become effective at such time as the principal is determined to be incompetent. Classes of checks other than those specified in paragraph (b) of this section may be negotiated under a springing durable special power of attorney executed in accordance with applicable State or Federal law, which describes the purpose for which the checks are issued, names a person as attorney-in-fact, and recites that the springing durable special power of attorney is not given to carry into effect an assignment of the right to receive payment, either to the attorney-in-fact or to any other person. For the purpose of negotiating Treasury checks, springing durable special powers of attorney are effective only during the six-month period following a determination that the named payee is incompetent.
+
+(f) *Proof of authority.* Checks indorsed by an attorney-in-fact must include, as part of the indorsement, an indication of the capacity in which the attorney-in-fact is indorsing. An example would be: “John Jones by Paul Smith, attorney-in-fact for John Jones.” Such checks when presented for payment by a financial institution, will be paid by Treasury without the submission of documentary proof of the claimed authority, with the understanding that evidence of such claimed authority to indorse may be required by Treasury in the event of a dispute.
+
+(g) *Revocation of powers of attorney.* Notwithstanding any other law, for purposes of negotiating Treasury checks, all powers of attorney are deemed revoked by the death of the principal and may also be deemed revoked by notice from the principal to the parties known, or reasonably expected, to be acting on the power of attorney.
+
+(h) *Optional use forms.* Optional use power of attorney forms are listed in the appendix to this part. These forms are available on the Fiscal Service website at: *http://www.fiscal.treasury.gov/ checkclaims/ regulations.html.*

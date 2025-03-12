@@ -1,0 +1,3 @@
+##### § 671.1 Purpose of regulations. #####
+
+The purposes of these regulations in part 671 are to protect the Antarctic environment and dependent and associated ecosystems, to preserve Antarctica's value as an area for the conduct of scientific research, and to implement the Antarctic Conservation Act of 1978, Public Law 95-541, consistent with the provisions of the Protocol on Environmental Protection to the Antarctic Treaty, signed in Madrid, Spain, on October 4, 1991.

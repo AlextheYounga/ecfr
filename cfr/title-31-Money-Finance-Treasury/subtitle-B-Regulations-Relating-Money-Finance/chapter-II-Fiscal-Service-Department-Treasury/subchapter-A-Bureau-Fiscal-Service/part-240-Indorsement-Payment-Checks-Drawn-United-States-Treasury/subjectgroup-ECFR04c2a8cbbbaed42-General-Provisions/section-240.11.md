@@ -1,0 +1,9 @@
+##### § 240.11 Treasury Check Offset. #####
+
+(a) If Treasury is unable to effect collection pursuant to § 240.8, § 240.9, or § 240.10, of this part, Treasury will collect the amount of the reclamation debt through Treasury Check Offset. Treasury Check Offset occurs when, at the direction of the Treasury, a Federal Reserve Bank withholds, that is, offsets, credit from a presenting bank. The amount of credit offset is applied to the reclamation debt owed by the presenting bank. By presenting Treasury checks for payment, the presenting bank is deemed to authorize Treasury Check Offset.
+
+(b) If Treasury effects offset under this section and it is later determined that the presenting bank paid the reclamation debt in full, or that a presenting bank was not liable for the amount of the reclamation debt, Treasury will promptly refund to the presenting bank the amount of its overpayment. Treasury may refund the amount either by applying the amount to another reclamation debt in accordance with this part or other applicable law, or by returning the amount to the presenting bank.
+
+(c) Treasury Check Offset is used for the purpose of collecting debt owed by a presenting bank to the Federal Government. As a consequence, presenting banks shall not be able to use the fact that Treasury checks have not been paid as the basis for a claim against Treasury, a Federal Reserve Bank, or other persons or entities, including payees or other indorsers of checks, for the amount of the credit offset pursuant to 31 U.S.C. 3712(e) and this section.
+
+(d) This section does not apply to a claim based upon a reclamation that has been outstanding for more than 10 years from the date of delinquency.

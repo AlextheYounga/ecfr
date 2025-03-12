@@ -1,0 +1,3 @@
+##### § 2102.2 Actions outside of meetings. #####
+
+Between meetings in situations of emergency, the Commission may act through a canvass by the Secretary of individual members, provided that any action so taken is brought up and ratified at the next meeting. In addition, the Commission members may convene away from the Commission's offices to make inspections at the site of a proposed project or at the location of a mock-up for the project and may then and there reach its conclusions respecting such project which shall be recorded in the minutes of the meeting held on the same day or, if none was then held, in the minutes of the next meeting.

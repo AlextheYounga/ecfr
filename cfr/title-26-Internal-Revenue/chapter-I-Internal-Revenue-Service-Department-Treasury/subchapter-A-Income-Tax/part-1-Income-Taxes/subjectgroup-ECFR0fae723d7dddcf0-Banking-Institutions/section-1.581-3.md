@@ -1,0 +1,5 @@
+##### § 1.581-3 Definition of bank prior to September 28, 1962. #####
+
+Prior to September 28, 1962, for purposes of sections 582 and 584, the term *bank* means a bank or trust company incorporated and doing business under the laws of the United States (including laws relating to the District of Columbia), of any State, or of any Territory, a substantial part of the business of which consists of receiving deposits and making loans and discounts, or of exercising fiduciary powers similar to those permitted to national banks under section 11(k) of the Federal Reserve Act (38 Stat. 262; 12 U.S.C. 248(k)), and which is subject by law to supervision and examination by State, Territorial, or Federal authority having supervision over banking institutions. Such term also means a domestic building and loan association.
+
+[T.D. 6651, 28 FR 4950, May 17, 1963]

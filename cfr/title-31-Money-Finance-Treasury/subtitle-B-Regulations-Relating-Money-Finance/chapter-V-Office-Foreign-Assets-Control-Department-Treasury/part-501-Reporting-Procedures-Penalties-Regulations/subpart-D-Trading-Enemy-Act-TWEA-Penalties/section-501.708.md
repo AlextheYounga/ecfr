@@ -1,0 +1,3 @@
+##### § 501.708 Director's finding of no penalty warranted. #####
+
+If after considering any written response to the Prepenalty Notice submitted pursuant to § 501.707 and any other relevant facts, the Director determines that there was no violation or that the violation does not warrant the imposition of a civil monetary penalty, the Director promptly shall notify the respondent in writing of that determination and that no civil monetary penalty pursuant to this subpart will be imposed.

@@ -1,0 +1,3 @@
+##### § 8.36 Practice by partners of Government employees. #####
+
+No partner of an officer or employee of the executive branch of the U.S. Government, of any independent agency of the United States, or of the District of Columbia, may represent anyone in any matter administered by the Bureau in which the Government employee participates or has participated personally and substantially as a Government employee, or which is the subject of that employee's official responsibility.

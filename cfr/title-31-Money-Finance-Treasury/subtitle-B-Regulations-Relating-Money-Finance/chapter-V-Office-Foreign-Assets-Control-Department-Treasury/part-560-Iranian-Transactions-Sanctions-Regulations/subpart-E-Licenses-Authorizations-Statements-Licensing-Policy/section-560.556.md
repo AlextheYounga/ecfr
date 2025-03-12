@@ -1,0 +1,7 @@
+##### § 560.556 Foreign entities owned or controlled by U.S. persons authorized to engage in transactions that are authorized by general license if engaged in by a U.S. person or in the United States. #####
+
+(a) Except as set forth in paragraph (b) of this section, an entity owned or controlled by a United States person and established or maintained outside the United States (a “U.S.-owned or -controlled foreign entity”) is authorized to engage in a transaction otherwise prohibited by § 560.215 that would be authorized by a general license set forth in or issued pursuant to this part if engaged in by a U.S. person or in the United States, provided the U.S.-owned or -controlled foreign entity is authorized to engage in the transaction only to the same extent as the U.S. person is authorized to engage in the transaction and subject to all the conditions and requirements set forth in the general license for the U.S. person.
+
+(b) This section does not authorize any transaction by a U.S.-owned or -controlled foreign entity otherwise prohibited by § 560.215 if the transaction would be prohibited by any other part of this chapter V if engaged in by a U.S. person or in the United States.
+
+[77 FR 75850, Dec. 26, 2012]

@@ -1,0 +1,3 @@
+##### § 90.33 Interagency cooperation. #####
+
+Where two or more agencies provide Federal financial assistance to a recipient or class of recipients, the Secretary may designate one of the agencies as the sole agency for all compliance and enforcement purposes with respect to those recipients, except for the ordering of termination of funds and the notification of the appropriate committees of Congress.

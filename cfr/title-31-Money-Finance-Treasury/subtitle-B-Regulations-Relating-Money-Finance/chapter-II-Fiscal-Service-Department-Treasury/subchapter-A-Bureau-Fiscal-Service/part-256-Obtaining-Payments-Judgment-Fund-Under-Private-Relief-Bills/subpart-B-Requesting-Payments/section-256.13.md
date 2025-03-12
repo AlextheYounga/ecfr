@@ -1,0 +1,3 @@
+##### § 256.13 Are agencies required to supply a taxpayer identification number (TIN) when submitting a request for payment? #####
+
+Yes, agencies must include a valid TIN on all requests for payments, unless the situation meets one of the exceptions listed in the Fiscal Service TIN Policy, which may be found on the Fiscal Service Web site at: *http://www.fiscal.treasury.gov/tinpolicy/regulations.html.* For an individual, the TIN is the Social Security Number. For a business, the TIN is the Employer Identification Number issued by IRS. The TIN provided must be for the party entitled to the payment, whether or not that party is the payee. Failure to include a required TIN results in an incomplete request for payment.

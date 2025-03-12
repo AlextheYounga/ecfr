@@ -1,0 +1,3 @@
+##### § 560.428 Credit extended and cards issued by U.S. financial institutions. #####
+
+The prohibition in § 560.211 on dealing in property subject to that section prohibits U.S. financial institutions from performing under any existing credit agreements, including, but not limited to, charge cards, debit cards, or other credit facilities issued by a U.S. financial institution to the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211.

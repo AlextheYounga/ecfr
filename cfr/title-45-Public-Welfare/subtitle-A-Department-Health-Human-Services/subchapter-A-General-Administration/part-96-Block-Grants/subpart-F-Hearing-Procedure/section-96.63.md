@@ -1,0 +1,5 @@
+##### § 96.63 Communications to presiding officer. #####
+
+(a) Those persons who are directly involved in the investigation or presentation of the position of the Department or any party at a hearing that is subject to this subpart should avoid any off-the-record communication on the matter to the presiding officer or his advisers if the communication is inconsistent with the requirement of § 96.68 of this part that the administrative record be the exclusive record for decision. If any communication of this type occurs, it is to be reduced to writing and made part of the record, and the other party provided an opportunity to respond.
+
+(b) A copy of any communications between a participant in the hearing and the presiding officer, e.g., a response by the presiding officer to a request for a change in the time of the hearing is to be sent to all parties by the person initiating the communication.

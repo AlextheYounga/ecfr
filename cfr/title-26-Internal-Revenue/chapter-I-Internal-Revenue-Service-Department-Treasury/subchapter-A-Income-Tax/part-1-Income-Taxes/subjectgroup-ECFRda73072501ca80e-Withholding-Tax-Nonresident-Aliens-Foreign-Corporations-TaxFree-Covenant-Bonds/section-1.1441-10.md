@@ -1,0 +1,19 @@
+##### § 1.1441-10 Withholding agents with respect to fast-pay arrangements. #####
+
+(a) *In general.* A corporation that issues fast-pay stock in a fast-pay arrangement described in § 1.7701(l)-3(b)(1) is a withholding agent with respect to payments made on the fast-pay stock and payments deemed made under the recharacterization rules of § 1.7701(l)-3. Except as provided in this paragraph (a) or in paragraph (b) of this section, the withholding tax rules under section 1441 and section 1442 apply with respect to a fast-pay arrangement described in § 1.7701(l)-3(c)(1)(i) in accordance with the recharacterization rules provided in § 1.7701(l)-3(c). In all cases, notwithstanding paragraph (b) of this section, if at any time the withholding agent knows or has reason to know that the Commissioner has exercised the discretion under either § 1.7701(l)-3(c)(1)(ii) to apply the recharacterization rules of § 1.7701(l)-3(c), or § 1.7701(l)-3(d) to depart from the recharacterization rules of § 1.7701(l)-3(c) for a taxpayer, the withholding agent must withhold on payments made (or deemed made) to that taxpayer in accordance with the characterization of the fast-pay arrangement imposed by the Commissioner under § 1.7701(l)-3.
+
+(b) *Exception.* If at any time the withholding agent knows or has reason to know that any taxpayer entered into a fast-pay arrangement with a principal purpose of applying the recharacterization rules of § 1.7701(l)-3(c) to avoid tax under section 871(a) or section 881, then for each payment made or deemed made to such taxpayer under the arrangement, the withholding agent must withhold, under section 1441 or section 1442, the higher of—
+
+(1) The amount of withholding that would apply to such payment determined under the form of the arrangement; or
+
+(2) The amount of withholding that would apply to deemed payments determined under the recharacterization rules of § 1.7701(l)-3(c).
+
+(c) *Liability.* Any person required to deduct and withhold tax under this section is made liable for that tax by section 1461, and is also liable for applicable penalties and interest for failing to comply with section 1461.
+
+(d) *Examples.* The following examples illustrate the rules of this section:
+
+Example 1.REIT W issues shares of fast-pay stock to foreign individual A, a resident of Country C. United States source dividends paid to residents of C are subject to a 30 percent withholding tax. W issues all shares of benefited stock to foreign individuals who are residents of Country D. D's income tax convention with the United States reduces the United States withholding tax on dividends to 15 percent. Under § 1.7701(l)-3(c), the dividends paid by W to A are deemed to be paid by W to the benefited shareholders. W has reason to know that A entered into the fast-pay arrangement with a principal purpose of using the recharacterization rules of § 1.7701(l)-3(c) to reduce United States withholding tax. W must withhold at the 30 percent rate because the amount of withholding that applies to the payments determined under the form of the arrangement is higher than the amount of withholding that applies to the payments determined under § 1.7701(l)-3(c).Example 2.The facts are the same as in *Example 1* of this paragraph (d) except that W does not know, or have reason to know, that A entered into the arrangement with a principal purpose of using the recharacterization rules of § 1.7701(l)-3(c) to reduce United States withholding tax. Further, the Commissioner has not exercised the discretion under § 1.7701(l)-3(d) to depart from the recharacterization rules of § 1.7701(l)-3(c). Accordingly, W must withhold tax at a 15 percent rate on the dividends deemed paid to the benefited shareholders.
+
+(e) *Effective date.* This section applies to payments made (or deemed made) on or after January 6, 1999.
+
+[T.D. 8853, 65 FR 1312, Jan. 10, 2000]

@@ -1,0 +1,3 @@
+##### § 256.52 How does Fiscal Service issue a payment? #####
+
+Pursuant to 31 CFR part 208, Judgment Fund payments are to be made by electronic funds transfer (EFT). Fiscal Service will issue an electronic payment to the payee's account as specified on the appropriate Judgment Fund form. If a submitting agency determines that a waiver (in accordance with 31 CFR part 208) to the requirement for payment by EFT is appropriate, Fiscal Service will issue a payment by check. The Voucher for Payment must direct payment to the payee designated in the judgment or settlement agreement.

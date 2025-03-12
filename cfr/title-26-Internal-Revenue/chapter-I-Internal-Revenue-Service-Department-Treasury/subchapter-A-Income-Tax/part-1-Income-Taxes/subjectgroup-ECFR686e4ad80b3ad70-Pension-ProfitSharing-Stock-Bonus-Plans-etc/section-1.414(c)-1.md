@@ -1,0 +1,5 @@
+##### § 1.414(c)-1 Commonly controlled trades or businesses. #####
+
+For purposes of applying the provisions of sections 401 (relating to qualified pension, profit-sharing, and stock bonus plans), 408(k) (relating to simplified employee pensions), 410 (relating to minimum participation standards), 411 (relating to minimum vesting standards), 415 (relating to limitations on benefits and contributions under qualified plans), and 416 (relating to top-heavy plans), all employees of two or more trades or businesses under common control within the meaning of § 1.414(c)-2 for any period shall be treated as employed by a single employer. See sections 401, 408(k), 410, 411, 415, and 416 and the regulations thereunder for rules relating to employees of trades or businesses which are under common control. See § 1.414(c)-5 for effective date.
+
+[T.D. 8179, 53 FR 6606, Mar. 2, 1988]

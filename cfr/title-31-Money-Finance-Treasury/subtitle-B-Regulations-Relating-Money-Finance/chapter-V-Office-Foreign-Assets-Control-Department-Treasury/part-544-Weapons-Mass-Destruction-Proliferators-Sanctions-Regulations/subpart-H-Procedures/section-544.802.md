@@ -1,0 +1,3 @@
+##### § 544.802 Delegation by the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13382 of June 28, 2005 (70 FR 38567, July 1, 2005), and any further Executive Orders relating to the national emergency declared in Executive Order 12938 of November 14, 1994, as expanded by Executive Order 13094 of July 28, 1998, and with respect to which additional steps were taken in Executive Order 13382 of June 28, 2005, may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

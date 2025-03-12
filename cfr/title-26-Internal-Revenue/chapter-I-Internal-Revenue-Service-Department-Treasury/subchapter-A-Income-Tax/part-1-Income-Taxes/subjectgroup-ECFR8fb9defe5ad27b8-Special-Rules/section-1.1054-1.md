@@ -1,0 +1,7 @@
+##### § 1.1054-1 Certain stock of Federal National Mortgage Association. #####
+
+(a) *In general.* The basis in the hands of the initial holder of a share of stock which is issued pursuant to section 303(c) of the Federal National Mortgage Association Charter Act (12 U.S.C., section 1718) in a taxable year beginning after December 31, 1959, shall be an amount equal to the issuance price of the stock reduced by the amount, if any, required by section 162(d) to be treated (with respect to such share) as an ordinary and necessary business expense. See section 162(d) and § 1.162-19. For purposes of this section the initial holder is the original purchaser who is issued stock of the Federal National Mortgage Association (FNMA) pursuant to section 303(c) of the Act and who appears on the books of FNMA as the initial holder. See § 1.162-19.
+
+(b) *Example.* The provisions of this section may be illustrated by the following example:
+
+Example:Pursuant to section 303(c) of the Federal National Mortgage Association Charter Act a certificate of FNMA stock is issued to A as of January 1, 1961. The issuance price of the stock was $100 and the fair market value of the stock on the date of issue was $69. A was required by section 162(d) to treat $31 as a business expense for the year 1961. The basis of the share of stock in the hands of A, the initial holder, shall be $69, the amount paid for the stock ($100) reduced by $31.[T.D. 6690, 28 FR 12254, Nov. 19, 1963]

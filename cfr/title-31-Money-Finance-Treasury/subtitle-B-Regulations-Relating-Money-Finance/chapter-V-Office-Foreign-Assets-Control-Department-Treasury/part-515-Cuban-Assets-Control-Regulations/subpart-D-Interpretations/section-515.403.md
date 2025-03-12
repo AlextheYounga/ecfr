@@ -1,0 +1,5 @@
+##### § 515.403 Termination and acquisition of the interest of a designated national. #####
+
+(a) Except as provided in § 515.525, whenever a transaction licensed or authorized by or pursuant to this part results in the transfer of property (including any property interest) away from a designated national, such property shall no longer be deemed to be property in which a designated national has or has had an interest unless there exists in such property an interest of a designated national, the transfer of which has not been effected pursuant to license or other authorization.
+
+(b) Unless otherwise specifically provided in a license or authorization contained in or issued pursuant to this part, if property (including any property interest) is transferred to a designated national such property shall be deemed to be property in which there exists the interest of a designated national.

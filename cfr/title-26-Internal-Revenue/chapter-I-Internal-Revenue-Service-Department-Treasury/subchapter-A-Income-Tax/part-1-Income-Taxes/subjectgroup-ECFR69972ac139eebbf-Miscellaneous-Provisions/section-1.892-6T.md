@@ -1,0 +1,7 @@
+##### § 1.892-6T Income of international organizations (temporary regulations). #####
+
+(a) *Exempt from tax.* Subject to the provisions of section 1 of the International Organizations Immunities Act (22 U.S.C. 288) (the provisions of which are set forth in paragraph (b)(3) of § 1.893-1), the income of an international organization (as defined in section 7701(a)(18)) received from investments in the United States in stocks, bonds, or other domestic securities, owned by such international organization, or from interest on deposits in banks in the United States of moneys belonging to such international organization, or from any other source within the United States, is exempt from Federal income tax.
+
+(b) *Income received prior to Presidential designation.* An organization designated by the President through appropriate Executive order as entitled to enjoy the privileges, exemptions, and immunities provided in the International Organizations Immunities Act may enjoy the benefits of the exemption with respect to income of the prescribed character received by such organization prior to the date of the issuance of such Executive order, if (i) the Executive order does not provide otherwise and (ii) the organization is a public international organization in which the United States participates, pursuant to a treaty or under the authority of an act of Congress authorizing such participation or making an appropriation for such participation, at the time such income is received.
+
+[T.D. 8211, 53 FR 24065, June 27, 1988]

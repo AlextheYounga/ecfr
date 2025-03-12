@@ -1,0 +1,5 @@
+##### § 1.527-1 Political organizations; generally. #####
+
+Section 527 provides that a political organization is considered an organization exempt from income taxes for the purpose of any law which refers to organizations exempt from income taxes. A political organization is subject to tax only to the extent provided in section 527. In general, a political organization is an organization that is organized and operated primarily for an exempt function as defined in § 1.527-2(c). Section 527 provides that a political organization is taxed on its political organization taxable income (see § 1.527-4) which, in general, does not include the exempt function income (see § 1.527-3) of the political organization. Furthermore, section 527 provides that an exempt organization, other than a political organization, may be subject to tax under section 527 when it expends an amount for an exempt function, see § 1.527-6. The taxation of newsletter funds is provided under section 527(g) and § 1.527-7. A special rule for principal campaign committees is provided under section 527(h) and § 1.527-9.
+
+[T.D. 8041, 50 FR 30817, July 30, 1985]

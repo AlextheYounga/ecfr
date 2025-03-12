@@ -1,0 +1,7 @@
+##### § 315.56 General instructions and liability. #####
+
+(a) *Certification procedure.* Certifying officers at financial institutions qualified as paying agents should observe the Treasury's payment instructions and identification guidelines in certifying savings bonds and savings notes being forwarded to a designated Federal Reserve Bank for any transaction. Other certifying officers should provide certification services for persons with whom they have substantial personal acquaintance, and for other persons whose identities have been unmistakably established. A notation showing exactly how identification was established should be placed on the back of the security or Fiscal Service form, or in a separate record. As part of the certification, the certifying officer must affix his or her official signature, title and address, the exact date of execution and, where one is available, a corporate stamp or issuing or paying agent's stamp.
+
+(b) *Liability.* The certifying officer and, if such person is an officer or an employee of an organization, the organization will be held fully responsible for the adequacy of the identification.
+
+[45 FR 64091, Sept. 26, 1980, as amended at 59 FR 10535, Mar. 4, 1994]

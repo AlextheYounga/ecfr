@@ -1,0 +1,29 @@
+##### § 1.367(b)-6 Effective/applicability dates and coordination rules. #####
+
+(a) *Effective/applicability dates* - (1) *In general.* (i) Except as otherwise provided in this paragraph (a)(1) and paragraph (a)(2) of this section, §§ 1.367(b)-1 through 1.367(b)-5, and this section, apply to section 367(b) exchanges that occur on or after February 23, 2000.
+
+(ii) The rules of §§ 1.367(b)-3 and 1.367(b)-4, as they apply to reorganizations described in section 368(a)(1)(A) (including reorganizations described in section 368(a)(2)(D) or (a)(2)(E)) involving a foreign acquiring or foreign acquired corporation, apply only to transfers occurring on or after January 23, 2006.
+
+(iii) The second sentence of paragraph § 1.367(b)-4(a) applies to section 304(a)(1) transactions occurring on or after February 23, 2006; however, taxpayers may rely on this sentence for all section 304(a)(1) transactions occurring in open taxable years.
+
+(iv) Section 1.367(b)-1(c)(2)(v), (c)(3)(ii)(A), (c)(4)(iv), (c)(4)(v), § 1.367(b)-2(j)(1)(i) and (l), and § 1.367(b)-3(e) and (f), apply to section 367(b) exchanges that occur on or after November 6, 2006. For guidance with respect to § 1.367(b)-1(c)(3)(ii)(A), (c)(4)(iv), and (c)(4)(v) and § 1.367(b)-2(j)(1)(i) for exchanges that occur before November 6, 2006, see 26 CFR part 1 revised as of April 1, 2006.
+
+(v) Section 1.367(b)-4(a), § 1.367(b)-4(b)(1)(i)(B)(*2*), § 1.367(b)-4(b)(1)(ii), § 1.367(b)-4(b)(1)(iii), *Example 4* and *Example 5* apply to section 367(b) exchanges that occur on or after April 18, 2013. For guidance with respect to § 1.367(b)-4(a), § 1.367(b)-4(b)(1)(i)(B)(*2*), § 1.367(b)-4(b)(1)(ii) and § 1.367(b)-4(b)(1)(iii), *Example 4,* for exchanges that occur before April 18, 2013, see 26 CFR part 1 revised as of April 1, 2012.
+
+(2) *Exception.* A taxpayer may, however, elect to have §§ 1.367(b)-1 through 1.367(b)-5, and this section, apply to section 367(b) exchanges that occur (or occurred) before February 23, 2000, if the due date for the taxpayer's timely filed Federal tax return (including extensions) for the taxable year in which the section 367(b) exchange occurs (or occurred) is after February 23, 2000. The election under this paragraph (a)(2) will be valid only if -
+
+(i) The electing taxpayer makes the election on a timely filed section 367(b) notice;
+
+(ii) In the case of an exchanging shareholder that is a foreign corporation, the election is made on the section 367(b) notice that is filed by each of its shareholders listed in § 1.367(b)-1(c)(3)(ii); and
+
+(iii) The electing taxpayer provides notice of the election to all corporations (or their successors in interest) whose earnings and profits are affected by the election on or before the date the section 367(b) notice is filed.
+
+(b) *Certain recapitalizations described in § 1.367(b)-4(b)(3).* In the case of a recapitalization described in § 1.367(b)-4(b)(3) that occurred prior to July 20, 1998, the exchanging shareholder shall include the section 1248 amount on its tax return for the taxable year that includes the exchange described in § 1.367(b)-4(b)(3)(i) (and not in the taxable year of the recapitalization), except that no inclusion is required if both the recapitalization and the exchange described in § 1.367(b)-4(b)(3)(i) occurred prior to July 20, 1998.
+
+(c) *Use of reasonable method to comply with prior published guidance* - (1) *Prior exchanges.* The taxpayer may use a reasonable method to comply with the following prior published guidance to the extent such guidance relates to section 367(b): Notice 88-71 (1988-2 C.B. 374); Notice 89-30 (1989-1 C.B. 670); and Notice 89-79 (1989-2 C.B. 392) (see § 601.601(d)(2) of this chapter). This rule applies to section 367(b) exchanges that occur (or occurred) before February 23, 2000, or, if a taxpayer makes the election described in paragraph (a)(2) of this section, for section 367(b) exchanges that occur (or occurred) before the date described in paragraph (a)(2) of this section. This rule also applies to section 367(b) exchanges and distributions described in paragraph (d) of this section.
+
+(2) *Future exchanges.* Section 367(b) exchanges that occur on or after February 23, 2000, (or, if a taxpayer makes the election described in paragraph (a)(2) of this section, for section 367(b) exchanges that occur on or after the date described in paragraph (a)(2) of this section) are governed by the section 367(b) regulations and, as a result, paragraph (c)(1) of this section shall not apply.
+
+(d) *Effect of removal of attribution rules.* To the extent that the rules under §§ 7.367(b)-9 and 7.367(b)-10(h) of this chapter, as in effect prior to February 23, 2000 (see 26 CFR part 1, revised as of April 1, 1999), attributed earnings and profits to the stock of a foreign corporation in connection with an exchange described in section 351, 354, 355, or 356 before February 23, 2000, the foreign corporation shall continue to be subject to the rules of § 7.367(b)-12 of this chapter in the event of any subsequent exchanges and distributions with respect to such stock, notwithstanding the fact that such subsequent exchange or distribution occurs on or after the effective date described in paragraph (a) of this section.
+
+[T.D. 8862, 65 FR 3608, Jan. 24, 2000, as amended by T.D. 9243, 71 FR 4289, Jan. 26, 2006; T.D. 9250, 71 FR 8805, Feb. 21, 2006; T.D. 9243, 71 FR 28266, May 16, 2006; T.D. 9273, 71 FR 44895, Aug. 8, 2006; 73 FR 14386, Mar. 18, 2008; T.D. 9614, 78 FR 17041, Mar. 19, 2013]

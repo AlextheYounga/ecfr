@@ -1,0 +1,3 @@
+##### § 594.410 Credit extended and cards issued by U.S. financial institutions. #####
+
+The prohibitions in §§ 594.201 and 594.204 on engaging in transactions or dealings in property subject to those sections prohibits U.S. financial institutions from performing under any existing credit agreements, including, but not limited to, charge cards, debit cards, or other credit facilities issued by a U.S. financial institution to a person whose property or interests in property are blocked pursuant to § 594.201(a).

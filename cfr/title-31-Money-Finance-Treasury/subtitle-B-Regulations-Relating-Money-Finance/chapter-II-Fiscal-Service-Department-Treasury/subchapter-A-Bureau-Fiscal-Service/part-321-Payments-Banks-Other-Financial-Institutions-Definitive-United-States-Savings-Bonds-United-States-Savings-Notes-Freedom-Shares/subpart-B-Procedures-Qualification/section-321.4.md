@@ -1,0 +1,3 @@
+##### § 321.4 Paying agents previously qualified. #####
+
+Institutions qualified as paying agents under previous revisions of this part are authorized to continue to act in that capacity without requalification. By so acting, they shall be subject to the terms and conditions of their previously executed application-agreements and these regulations in the same manner and to the same extent as though they had requalified hereunder.

@@ -1,0 +1,3 @@
+##### § 75.362 Requests for transfer or records. #####
+
+The HHS awarding agency must request transfer of certain records to its custody from the non-Federal entity when it determines that the records possess long-term retention value. However, in order to avoid duplicate recordkeeping, the HHS awarding agency may make arrangements for the non-Federal entity to retain any records that are continuously needed for joint use.

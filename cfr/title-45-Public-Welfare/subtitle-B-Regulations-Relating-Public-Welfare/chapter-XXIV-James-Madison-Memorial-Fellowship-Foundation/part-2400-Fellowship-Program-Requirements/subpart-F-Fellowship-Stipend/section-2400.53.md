@@ -1,0 +1,5 @@
+##### § 2400.53 Duration of stipend. #####
+
+Stipends for Junior Fellowships may be payable over a period up to 2 calendar years of full-time graduate study, and those for Senior Fellowships may be payable over a period of not more than 5 calendar years of part-time graduate study, beginning with the dates under which Fellows commence their graduate study under their fellowships. However, the duration of stipend payments will be subject to the maximum payment limits, the length of award time limits, and the completion of the minimum degree requirements, whichever occurs first. A waiver of the time limit may be given for full-time students who require more than 36 credit hours or 54 quarter hours to complete their approved degree.
+
+[61 FR 46734, Sept. 5, 1996, as amended at 69 FR 11815, Mar. 12, 2004]

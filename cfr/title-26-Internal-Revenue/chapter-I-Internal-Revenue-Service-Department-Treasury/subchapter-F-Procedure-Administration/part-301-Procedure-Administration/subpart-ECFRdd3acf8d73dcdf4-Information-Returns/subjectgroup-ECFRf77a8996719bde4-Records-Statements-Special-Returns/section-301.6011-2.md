@@ -1,0 +1,47 @@
+##### § 301.6011-2 Required use of magnetic media. #####
+
+(a) *Meaning of terms.* The following definitions apply for purposes of this section:
+
+(1) *Magnetic media.* The term *magnetic media* means any media permitted under applicable regulations, revenue procedures or publications, or, in the case of returns filed with the Social Security Administration, Social Security Administration publications. These generally include magnetic tape, tape cartridge, and diskette, as well as other media (such as electronic filing) specifically permitted under the applicable regulations, procedures, or publications.
+
+(2) *Machine-readable paper form.* The term “machine-readable paper form” means -
+
+(i) Optical-scan paper form; or
+
+(ii) Any other machine-readable paper form permitted under applicable regulations, revenue procedures, or Social Security Administration publications.
+
+(3) *Person.* The term “person” includes any person that is required to file a return that is described in paragraph (b) of this section. Thus, the term “person” includes the United States, a State, the District of Columbia, a foreign government, a political subdivision of a State or of a foreign government, or an international organization. In addition, in the case of an affiliated group of corporations filing a consolidated return, each member of the affiliated group is a separate person.
+
+(b) *Returns required on magnetic media.* (1) If the use of Form 1042-S, 1094 series,1095-B, 1095-C, 1098, 1098-E, 1098-T, 1099 series, 5498, 8027, W-2G, or other form treated as a form specified in this paragraph (b)(1) is required by the applicable regulations or revenue procedures for the purpose of making an information return, the information required by the form must be submitted on magnetic media, except as otherwise provided in paragraph (c) of this section. Returns on magnetic media must be made in accordance with applicable revenue procedures or publications (see § 601.601(d)(2)(ii)(*b*) of this chapter). Pursuant to these procedures, the consent of the Commissioner of Internal Revenue (or other authorized officer or employee of the Internal Revenue Service) to a magnetic medium must be obtained by submitting Form 4419 (Application for Filing Information Returns Magnetically/Electronically) prior to submitting a return described in this paragraph (b)(1) on the magnetic medium.
+
+(2) If the use of Form W-2 (Wage and Tax Statement), Form 499R-2/W-2PR (Withholding Statement (Puerto Rico)), Form W-2VI (U.S. Virgin Islands Wage and Tax Statement), Form W-2GU (Guam Wage and Tax Statement), Form W-2AS (American Samoa Wage and Tax Statement), or other form treated as a form specified in this paragraph (b)(2) is required for the purpose of making an information return, the information required by the form must be submitted on magnetic media, except as otherwise provided in paragraph (c) of this section. Returns described in this paragraph (b)(2) must be made in accordance with applicable Social Security Administration procedures or publications (which may be obtained from the local office of the Social Security Administration).
+
+(3) The Commissioner may prescribe by revenue procedure that additional forms are treated, for purposes of this section, as forms specified in paragraph (b)(1) or (b)(2) of this section.
+
+(c) *Exceptions* - (1) *Low-volume filers/250-threshold* - (i) *In general.* No person is required to file information returns on magnetic media unless the person is required to file 250 or more returns during the calendar year. Persons filing fewer than 250 returns during the calendar year may make the returns on the prescribed paper form, or, alternatively, such persons may make returns on magnetic media in accordance with paragraph (b) of this section.
+
+(ii) *Machine-readable forms.* Returns made on a paper form under this paragraph (c)(1) shall be machine-readable if applicable revenue procedures provide for a machine-readable paper form.
+
+(iii) *No aggregation.* Each type of information return described in paragraphs (b)(1) and (2) of this section is considered a separate return for purposes of this paragraph (c)(1). Therefore, the 250-threshold applies separately to each type of form required to be filed.
+
+(iv) *Examples.* The provisions of paragraph (c)(1)(iii) of this section are illustrated by the following examples:
+
+Example 1.For the calendar year ending December 31, 1998, Company X is required to file 200 returns on Form 1099-INT and 350 returns on Form 1099-MISC. Company X is not required to file Forms 1099-INT on magnetic media but is required to file Forms 1099-MISC on magnetic media.Example 2.During the calendar year ending December 31, 1998, Company Y has 275 employees in Puerto Rico and 50 employees in American Samoa. Company Y is required to file Forms 499R-2/W-2PR on magnetic media but is not required to file Forms W-2AS on magnetic media.Example 3.For the calendar year ending December 31, 1998, Company Z files 300 original returns on Form 1099-DIV and later files 70 corrected returns on Form 1099-DIV. Company Z is required to file the original returns on magnetic media. However, Company Z is not required to file the corrected returns on magnetic media because the corrected returns fall under the 250-threshold. See § 301.6721-1(a)(2)(ii).
+
+(2) *Waiver.* (i) The Commissioner may waive the requirements of this section if hardship is shown in a request for waiver filed in accordance with this paragraph (c)(2)(i). The principal factor in determining hardship will be the amount, if any, by which the cost of filing the information returns in accordance with this section exceeds the cost of filing the returns on other media. Notwithstanding the foregoing, if an employer is required to make a final return on Form 941, or a variation thereof, and expedited filing of Forms W-2, Forms 499R-2/W-2PR, Forms W-2VI, Forms W-2GU, or Form W-2AS is required, the unavailability of the specifications for magnetic media filing will be treated as creating a hardship (see § 31.6071(a)-1(a)(3)(ii) of this chapter). A request for waiver must be made in accordance with applicable revenue procedures or publications (see § 601.601(d)(2)(ii)(*b*) of this chapter). Pursuant to these procedures, a request for waiver should be filed at least 45 days before the due date of the information return in order for the Service to have adequate time to respond to the request for waiver. The waiver will specify the type of information return and the period to which it applies and will be subject to such terms and conditions regarding the method of reporting as may be prescribed by the Commissioner.
+
+(ii) The Commissioner may prescribe rules that supplement the provisions of paragraph (c)(2)(i) of this section.
+
+(d) *Paper form returns.* Returns submitted on paper forms (whether or not machine-readable) permitted under paragraph (c) of this section shall be in accordance with applicable Internal Revenue Service or Social Security Administration procedures.
+
+(e) *Applicability of current procedures.* Until procedures are prescribed which further implement the mandatory filing on magnetic media provided by this section, a return to which this section applies shall be made in the manner and shall be subject to the requirements and conditions (including the requirement of applying for consent to the magnetic medium) prescribed in the regulations, revenue procedures and Social Security Administration publications relating to the filing of such return on magnetic media.
+
+(f) *Failure to file.* If a person fails to file an information return on magnetic media when required to do so by this section, the person is deemed to have failed to file the return. In addition, if a person making returns on a paper form under paragraph (c) of this section fails to file a return on machine-readable paper form when required to do so by this section, the person is deemed to have failed to file the return. See sections 6652, 6693, and 6721 for penalties for failure to file certain returns. See also section 6724 and the regulations under section 6721 for the specific rules and limitations regarding the penalty imposed under section 6721 for failure to file on magnetic media.
+
+(g) *Effective dates.* (1) Except as otherwise provided in paragraph (g)(2) or (3) of this section, this section applies to returns required to be filed after December 31, 1986.
+
+(2) Paragraphs (a)(1), (b)(1), (b)(2), (c)(1)(i), (c)(1)(iii), (c)(1)(iv), (c)(2), (d), (e), and (f) of this section are effective for information returns required to be filed after December 31, 1996. For information returns required to be filed after December 31, 1989, and before January 1, 1997, see section 6011(e).
+
+(3) This section applies to returns on Forms 1098-E, “Student Loan Interest Statement,” and 1098-T, “Tuition Statement,” filed after December 31, 2003.
+
+[T.D. 8081, 51 FR 10348, Mar. 25, 1986, as amended by T.D. 8097, 51 FR 30352, Aug. 26, 1986; T.D. 8140, 52 FR 19137, May 21, 1987; T.D. 8636, 60 FR 66142, Dec. 21, 1995; T.D. 8772, 63 FR 35519, June 30, 1998; T.D. 8992, 67 FR 20907, Apr. 29, 2002; T.D. 9029, 67 FR 77687, Dec. 19, 2002; T.D. 9660, 79 FR 13231, Mar. 10, 2014; T.D. 9804, 81 FR 91768, Dec. 19, 2016]

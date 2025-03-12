@@ -1,0 +1,7 @@
+##### § 672.23 Final order on appeal. #####
+
+(a) *Contents of the final order.* When an appeal has been taken or the Director issues a notice of intent to conduct review sua sponte, the Director shall issue a final order as soon as practicable after the filing of all appellate briefs or oral argument. The Director shall adopt, modify or set aside the findings and conclusions contained in the decision or order being reviewed and shall set forth in the final order the reasons for his actions. The Director may, in his discretion, increase or decrease the assessed penalty from the amount recommended in the decision or order being reviewed, except that if the order being reviewed is a default order, the Director may not increase the amount of the penalty.
+
+(b) *Payment of a civil penalty.* The respondent shall pay the full amount of the civil penalty assessed in the final order within sixty (60) days after receipt of the final order unless otherwise agreed by the parties. Payment shall be made by forwarding to the Hearing Clerk a cashier's check or certified check in the amount of the penalty assessed in the final order, payable to the Treasurer, United States of America.
+
+(c) Money due and owing the United States by virtue of an unappealed final decision or settlement order may be collected by referral to the Department of Justice for appropriate civil action against respondent.

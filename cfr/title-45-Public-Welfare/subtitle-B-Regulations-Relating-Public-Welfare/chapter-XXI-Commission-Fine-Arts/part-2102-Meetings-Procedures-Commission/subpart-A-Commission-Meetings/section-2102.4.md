@@ -1,0 +1,3 @@
+##### § 2102.4 Public attendance and participation. #####
+
+Interested persons are permitted to attend meetings of the Commission, to file statements with the Commission at or before a meeting, and to appear before the Commission when it is in meeting, provided that an appearance is germane to the functions and policies of the Commission and to the matter or issues then before the Commission, and if the presentation or argument is made in a concise manner, within reasonable time limits and avoids duplicating information or views already before the Commission. A decision of the Chairman as to the order of appearances and as to compliance with these regulations by any person shall be final unless the Commission determines otherwise.

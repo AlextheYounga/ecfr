@@ -1,0 +1,3 @@
+##### § 8.72 Petition for reinstatement. #####
+
+The Director of Practice may entertain a petition for reinstatement from any person disbarred from practice before the Bureau after the expiration of 5 years following disbarment. The director of Practice may not grant reinstatement unless he or she is satisfied that the petitioner is not likely to conduct himself or herself contrary to the regulations in this part, and that granting reinstatement would not be contrary to the public interest.

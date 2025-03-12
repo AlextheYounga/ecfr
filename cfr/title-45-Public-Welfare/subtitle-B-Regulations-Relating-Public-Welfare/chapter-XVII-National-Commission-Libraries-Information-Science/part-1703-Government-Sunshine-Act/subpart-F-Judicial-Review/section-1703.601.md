@@ -1,0 +1,3 @@
+##### § 1703.601 Judicial review. #####
+
+Any person may bring an action in a United States District Court to challenge or enforce the provisions of this part or the manner of their implementation. Such action may be brought prior to or within sixty days after the meeting in question, except that if proper public announcement of the meeting is not made, the action may be instituted at any time within sixty days after such announcement is made. An action may be brought where the Commission meeting was or is to be held or in the District of Columbia.

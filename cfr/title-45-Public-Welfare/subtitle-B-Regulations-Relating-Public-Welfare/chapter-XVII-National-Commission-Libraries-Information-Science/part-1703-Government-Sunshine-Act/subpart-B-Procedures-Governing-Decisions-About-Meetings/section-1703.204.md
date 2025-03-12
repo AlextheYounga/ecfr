@@ -1,0 +1,3 @@
+##### § 1703.204 Public availability of recorded vote to close meeting. #####
+
+Within one day of any vote taken on a proposal to close a meeting, the Commission shall make publicly available a record reflecting the vote of each member on the question. In addition, within one day of any vote which closes a portion or portions of a meeting to the public, the Commission shall make publicly available a full written explanation of its closure action together with a list naming all persons expected to attend and identifying their affiliation, unless such disclosure would reveal the information that the meeting itself was closed to protect.

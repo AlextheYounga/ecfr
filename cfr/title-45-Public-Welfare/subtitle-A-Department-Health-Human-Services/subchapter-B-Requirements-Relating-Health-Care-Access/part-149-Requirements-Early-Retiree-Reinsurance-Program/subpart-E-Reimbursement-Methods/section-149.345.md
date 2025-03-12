@@ -1,0 +1,3 @@
+##### § 149.345 Use of information provided. #####
+
+The Secretary may use data and information collected under this section only for the purpose of, and to the extent necessary in, carrying out this part including, but not limited to, determining reimbursement and reimbursement-related oversight and program integrity activities, or as otherwise allowed by law. Nothing in this section limits the Office of the Inspector General's authority to fulfill the Inspector General's responsibilities in accordance with applicable Federal law.

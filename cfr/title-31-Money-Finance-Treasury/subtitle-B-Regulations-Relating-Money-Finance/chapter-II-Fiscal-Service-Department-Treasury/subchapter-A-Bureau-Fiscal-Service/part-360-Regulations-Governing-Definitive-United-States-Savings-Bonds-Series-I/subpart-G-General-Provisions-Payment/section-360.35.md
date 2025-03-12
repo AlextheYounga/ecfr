@@ -1,0 +1,7 @@
+##### § 360.35 Payment (redemption). #####
+
+(a) *General.* Payment of a Series I savings bond will be made to the person or persons entitled under the provisions of the regulations in this part, except that the redemption payment will not be delivered to addresses in areas with respect to which the Department of the Treasury restricts or regulates the delivery of remittances, including checks and electronic payments, drawn against funds of the United States. See Department of the Treasury Circular No. 655, current revision (31 CFR part 211). Payment will be made without regard to any notice of adverse claims to a bond and no stoppage or caveat against payment of a bond will be entered.
+
+(b) *Mandatory initial holding period.* A Series I bond issued on January 1, 2003, or earlier, will be paid at any time after six months from issue date. A Series I bond issued on February 1, 2003, or thereafter, will be paid at any time after 12 months from issue date. Bonds will be paid at the current redemption value determined in the manner described in Department of the Treasury Circular, Fiscal Service Series No. 1-98 (31 CFR part 359).
+
+[63 FR 38049, July 14, 1998, as amended at 68 FR 2667, Jan. 17, 2003; 68 FR 7427, Feb. 14, 2003]

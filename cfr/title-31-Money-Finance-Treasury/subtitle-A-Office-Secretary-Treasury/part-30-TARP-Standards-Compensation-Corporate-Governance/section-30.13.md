@@ -1,0 +1,5 @@
+##### § 30.13 Q-13: What actions are necessary for a TARP recipient to comply with section 111(e) of EESA (the shareholder resolution on executive compensation requirement)? #####
+
+As provided in section 111(e) of EESA, any proxy or consent or authorization for an annual or other meeting of the shareholders of any TARP recipient that occurs during the TARP period must permit a separate shareholder vote to approve the compensation of executives, as required to be disclosed pursuant to the Federal securities laws (including the compensation discussion and analysis, the compensation tables, and any related material). To meet this standard, a TARP recipient must comply with any rules, regulations, or guidance promulgated by the SEC that are applicable to the TARP recipient.
+
+[74 FR 63992, Dec. 7, 2009]

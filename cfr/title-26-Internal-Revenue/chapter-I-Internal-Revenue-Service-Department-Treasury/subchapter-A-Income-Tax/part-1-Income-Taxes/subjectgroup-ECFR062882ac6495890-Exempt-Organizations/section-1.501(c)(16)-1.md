@@ -1,0 +1,3 @@
+##### § 1.501(c)(16)-1 Corporations organized to finance crop operations. #####
+
+A corporation organized by a farmers' cooperative marketing or purchasing association, or the members thereof, for the purpose of financing the ordinary crop operations of such members or other producers is exempt, provided the marketing or purchasing association is exempt under section 521 and the financing corporation is operated in conjunction with the marketing or purchasing association. The provisions of § 1.521-1 relating to a reserve or surplus and to capital stock shall also apply to corporations coming under this section.

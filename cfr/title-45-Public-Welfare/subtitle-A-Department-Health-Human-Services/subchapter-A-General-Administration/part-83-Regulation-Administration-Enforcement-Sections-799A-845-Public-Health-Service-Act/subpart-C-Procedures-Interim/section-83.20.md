@@ -1,0 +1,3 @@
+##### § 83.20 Interim procedures. #####
+
+For the purposes of implementing this part during the period between its effective date and the final issuance by the Department of a consolidated procedural regulation applicable to sections 704 and 845 of the Act and other civil rights authorities administered by the Department, the procedural provisions applicable to title VI of the Civil Rights Act of 1964 are hereby adopted and incorporated herein by reference. These procedures may be found at 45 CFR 80.6 through 80.11 and 45 CFR part 81.

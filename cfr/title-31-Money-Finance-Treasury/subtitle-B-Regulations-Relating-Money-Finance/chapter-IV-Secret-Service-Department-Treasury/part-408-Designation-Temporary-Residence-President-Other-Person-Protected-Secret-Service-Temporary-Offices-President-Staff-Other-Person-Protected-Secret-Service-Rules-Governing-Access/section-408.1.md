@@ -1,0 +1,3 @@
+##### § 408.1 Authority. #####
+
+The designation of the buildings and grounds in this part which constitute the temporary residence of the President or other person protected by the Secret Service and the temporary offices of the President and Presidential staff or of any other person protected by the Secret Service and the regulations governing access to such restricted areas where the President or any other person protected by the Secret Service is or will be temporarily visiting, are promulgated pursuant to the authority vested in the Secretary of the Treasury by 18 U.S.C. 1752 (84 Stat. 1891, 96 Stat. 1451).

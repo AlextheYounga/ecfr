@@ -1,0 +1,15 @@
+##### § 48.4041-19 Exemption for qualified methanol and ethanol fuel. #####
+
+(a) *In general.* Under section 4041(b)(2), the tax imposed upon the sale or use of motor fuels under section 4041(a) does not apply to the sale or use of qualified methanol or ethanol fuel.
+
+(b) *Qualified methanol or ethanol fuel defined.* For purposes of section 4041(b)(2) and this section, qualified methanol or ethanol fuel is liquid motor fuel, 85% of the volume of which consists of alcohol, as defined in section 4081(c) and § 48.4081-2(a)(4) of the regulations as modified by the following sentence. For purposes of section 4041(b)(2) and this section, the alcohol contained in a qualified methanol or ethanol fuel may be produced from coal. The actual gallonage of each component of the mixture (without adjustment for temperature) shall be used in determining whether the 85 percent alcohol has been met. Further, in determining whether a particular mixture containing less than 85 percent alcohol satisfies this percentage requirement, the District Director shall take into account the existence of any facts and circumstances, that establish that but for the commercial and operational realities of the blending process, it may reasonably be concluded that the mixture would have contained at least 85 percent alcohol. The necessary facts and circumstances will not be found to exist if over a period of time the mixtures blended by a blender show a consistent pattern of failing to contain 85 percent alcohol.
+
+(c) *Mixtures which do not qualify as qualified methanol or ethanol fuel.* If a methanol or ethanol fuel does not qualify as qualified methanol or ethanol fuel under this section, the entire mixture is taxed at the rate of tax applicable to sales of special motor fuels under section 4041(a)(2) of the Code.
+
+(d) *Refunds relating to fuels used to produce qualified fuels.* See section 6427 for rules which relate to the allowance of a refund or credit to a person who uses tax-paid diesel, special motor or noncommercial aviation fuels to produce a qualified methanol or ethanol fuel and section 6416 for rules which relate to the allowance of a refund or credit to a person who uses tax-paid gasoline to produce a qualified methanol or ethanol fuel.
+
+(e) *Later blending.* If a qualified methanol or ethanol fuel is blended with other motor fuel in a mixture less than 85 percent of which consists of alcohol, the subsequent sale or use of such alcohol mixture fuel is taxable under the provisions of section 4041 or section 4081 subject to the requirements, limitations and exemptions of those sections. Thus, if the alcohol mixture fuel is at least 10% alcohol by volume, sale or use of the fuel is taxed at the rates provided in section 4041(k) or section 4081(c), but if the fuel is less than 10% alcohol, sale or use of the fuel is taxed at the rates provided in section 4041(a) or section 4081(a).
+
+(f) *Effective date.* Section 4041(b)(2) applies to sales or uses after March 31, 1983, and before October 1, 1988.
+
+[T.D. 8152, 52 FR 31617, Aug. 21, 1987]

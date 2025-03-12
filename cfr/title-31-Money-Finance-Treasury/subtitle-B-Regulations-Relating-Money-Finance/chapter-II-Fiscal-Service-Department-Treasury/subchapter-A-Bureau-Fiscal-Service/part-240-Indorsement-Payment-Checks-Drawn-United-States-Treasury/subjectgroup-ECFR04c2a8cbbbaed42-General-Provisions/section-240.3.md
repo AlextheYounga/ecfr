@@ -1,0 +1,5 @@
+##### § 240.3 Electronic checks and substitute checks. #####
+
+(a) *Legal equivalence of electronic checks.* An electronic check for which a presenting bank has provided the guarantees described in § 240.4 is the legal equivalent of an original or substitute check for purposes of this part if the electronic check accurately represents all of the information on the front and back of the check that the presenting bank truncated. If a financial institution presents an electronic check for payment and the check is subject to return, Treasury may effect the return using an electronic check, but this part does not create any right for the presenting bank to return the check to the payee or any other person using an electronic check.
+
+(b) *Safekeeping of original checks.* Any financial institution that creates a substitute check or electronic check shall prevent unauthorized access to the original or substitute check that was truncated by storing the check, until it is destroyed, in a manner consistent with federal banking agency guidelines for safeguarding customer information.

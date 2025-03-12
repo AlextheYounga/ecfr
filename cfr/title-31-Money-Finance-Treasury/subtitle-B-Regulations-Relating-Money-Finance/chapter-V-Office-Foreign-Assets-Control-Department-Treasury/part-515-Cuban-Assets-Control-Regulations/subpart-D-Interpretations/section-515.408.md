@@ -1,0 +1,3 @@
+##### § 515.408 Access to certain safe deposit boxes prohibited. #####
+
+Section 515.201 prohibits access to any safe deposit box within the United States in the custody of any designated national or containing any property in which any designated national has any interest or which there is reasonable cause to believe contains property in which any such designated national has any interest. Attention is directed to § 515.517 which authorizes access to such safe deposit boxes under certain conditions.

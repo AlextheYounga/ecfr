@@ -1,0 +1,3 @@
+##### § 301.7701-8 Military or naval forces and Armed Forces of the United States. #####
+
+The term “military or naval forces of the United States” and the term “Armed Forces of the United States” each includes all regular and reserve components of the uniformed services which are subject to the jurisdiction of the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force. The terms also include the Coast Guard. The members of such forces include commissioned officers and the personnel below the grade of commissioned officer in such forces.

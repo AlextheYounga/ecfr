@@ -1,0 +1,13 @@
+##### § 1606.10 Final decision for a termination, debarment, or limited reduction of funding. #####
+
+(a) If neither the Corporation nor the recipient requests review by the President of a draft final decision pursuant to § 1606.7 of this part or a recommended decision pursuant to § 1606.9, as provided for in this part, within 10 business days after receipt by the recipient, then the Corporation shall issue to the recipient a final decision containing either the draft final decision or the recommended decision, as the case may be. No further appeal or review will be available under this part.
+
+(b) The recipient or the Corporation may seek review by the President of a draft final decision or a recommended decision. A request shall be made in writing within 10 business days after receipt of the draft final decision or recommended decision by the party seeking review and shall state in detail the reasons for seeking review.
+
+(c) The President's review shall be based solely on the administrative record of the proceedings, including the appeal to the President, and any additional submissions, either oral or in writing, that the President may request. A recipient shall be given a copy of, and an opportunity to respond to, any additional submissions made to the President. All submissions and responses made to the President shall become part of the administrative record. Upon request, the Corporation shall provide a copy of the administrative record to the recipient.
+
+(d) For an appeal of a draft final decision involving a limited reduction of funding pursuant to § 1606.7 of this part (for which there is no right to a hearing under § 1606.8 of this part) the President may not review the appeal if the President has had prior involvement in the proceedings under this part. If the President cannot review the appeal, or the President chooses not to do so, then the appeal shall be reviewed by either the individual designated to do so pursuant to § 1606.5(b) of this part, or by another senior Corporation employee designated by the President who has not had prior involvement in the proceedings under this part.
+
+(e) As soon as practicable after receipt of the request for review of a draft final decision or a recommended decision, but not later than 30 calendar days thereafter, the President or designee shall adopt, modify, or reverse the draft final decision or the recommended decision, or direct further consideration of the matter. In the event of modification or reversal of a recommended decision pursuant to § 1606.9 of this part, this decision shall conform to the requirements of § 1606.9(b) of this part.
+
+(f) The decision of the President or designee under this section shall become final upon receipt by the recipient.

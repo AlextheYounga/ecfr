@@ -1,0 +1,9 @@
+##### § 411.11 Zero tolerance toward sexual abuse and sexual harassment; Prevention of Sexual Abuse Coordinator and Compliance Manager. #####
+
+(a) ORR must have a written policy mandating zero tolerance toward all forms of sexual abuse and sexual harassment and outlining ORR's approach to preventing, detecting, and responding to such conduct. ORR must ensure that all policies and services related to this rule are implemented in a culturally-sensitive and knowledgeable manner that is tailored for a diverse population.
+
+(b) ORR must employ or designate an upper-level, ORR-wide Prevention of Sexual Abuse Coordinator (PSA Coordinator) with sufficient time and authority to develop, implement, and oversee ORR efforts to comply with these standards in all of its care provider facilities.
+
+(c) Care provider facilities must have a written policy mandating zero tolerance toward all forms of sexual abuse and sexual harassment and outlining the care provider facility's approach to preventing, detecting, and responding to such conduct. The care provider facility also must ensure that all policies and services related to this rule are implemented in a culturally-sensitive and knowledgeable manner that is tailored for a diverse population. ORR will review and approve each care provider facility's written policy.
+
+(d) Care provider facilities must employ or designate a Prevention of Sexual Abuse Compliance Manager (PSA Compliance Manager) with sufficient time and authority to develop, implement, and oversee the care provider facility's efforts to comply with the provisions set forth in this part and serve as a point of contact for ORR's PSA Coordinator.

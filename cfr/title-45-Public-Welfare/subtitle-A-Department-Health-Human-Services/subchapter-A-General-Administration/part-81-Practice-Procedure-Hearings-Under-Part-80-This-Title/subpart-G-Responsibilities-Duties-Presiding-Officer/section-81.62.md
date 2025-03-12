@@ -1,0 +1,3 @@
+##### § 81.62 Designation of hearing examiner. #####
+
+The designation of the hearing examiner as presiding officer shall be in writing, and shall specify whether the examiner is to make an initial decision or to certify the entire record including his recommended findings and proposed decision to the reviewing authority, and may also fix the time and place of hearing. A copy of such order shall be served on all parties. After service of an order designating a hearing examiner to preside, and until such examiner makes his decision, motions and petitions shall be submitted to him. In the case of the death, illness, disqualification or unavailability of the designated hearing examiner, another hearing examiner may be designated to take his place.

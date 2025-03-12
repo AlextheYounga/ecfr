@@ -1,0 +1,5 @@
+##### § 561.320 Iranian financial institution. #####
+
+The term *Iranian financial institution* means any entity (including foreign branches), wherever located, organized under the laws of Iran or any jurisdiction within Iran, or owned or controlled by the Government of Iran, or in Iran, or owned or controlled by any of the foregoing, that is engaged in the business of accepting deposits, making, granting, transferring, holding, or brokering loans or credits, or purchasing or selling foreign exchange, securities, commodity futures or options, or procuring purchasers and sellers thereof, as principal or agent. It includes but is not limited to depository institutions, banks, savings banks, money service businesses, trust companies, insurance companies, securities brokers and dealers, commodity futures and options brokers and dealers, forward contract and foreign exchange merchants, securities and commodities exchanges, clearing corporations, investment companies, employee benefit plans, dealers in precious metals, stones, or jewels, and holding companies, affiliates, or subsidiaries of any of the foregoing.
+
+[77 FR 66920, Nov. 8, 2012]

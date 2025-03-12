@@ -1,0 +1,3 @@
+##### § 315.51 Requests for reissue. #####
+
+A request for reissue of bonds in coownership form during the lifetime of the coowners must be signed by both coowners, except that a request solely to eliminate the name of one coowner may be signed by that coowner only. A bond registered in beneficiary form may be reissued upon the request of the owner, supported by the certified consent of the beneficiary or by proof of his or her death. Fiscal Service forms are available for requesting reissue.

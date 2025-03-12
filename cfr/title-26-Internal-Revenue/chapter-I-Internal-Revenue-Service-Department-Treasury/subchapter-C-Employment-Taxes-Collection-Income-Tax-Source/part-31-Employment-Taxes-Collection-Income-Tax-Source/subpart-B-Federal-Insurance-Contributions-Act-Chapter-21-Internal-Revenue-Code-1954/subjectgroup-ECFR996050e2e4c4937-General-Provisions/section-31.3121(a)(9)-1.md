@@ -1,0 +1,11 @@
+##### § 31.3121(a)(9)-1 Payments to employees for nonwork periods. #####
+
+(a) The term “wages” does not include any payment (other than vacation or sick pay) made by an employer to an employee for a period throughout which the employment relationship exists between the employer and the employee, but in which the employee does not work (other than being subject to call for the performance of work) for the employer, if such payment is made after the calendar month in which -
+
+(1) The employee attains age 65, if the employee is a man to whom the payment is made before January 1975, or if the employee is a woman to whom the payment is made before November 1956, or
+
+(2) The employee attains age 62, if the employee is a man to whom the payment is made after December 1974, or if the employee is a woman to whom the payment is made after October 1956.
+
+(b) Vacation or sick pay is not within this exclusion from wages. If the employee does any work for the employer in the period for which the payment is made, no remuneration paid by such employer to such employee with respect to such period is within this exclusion from wages.
+
+Example.Mrs. A, an employee of X, attained the age of 62 on September 15, 1956, and discontinued the performance of regular work for X on September 30, 1956. Their employment relationship continued for several years until Mrs. A's death, and X paid Mrs. A $50 per month as consideration for Mrs. A's agreement to work when asked by X. The payment for each month was made on the first day of each succeeding month. After September 30, 1956, the only work performed by Mrs. A for X was performed on one day in October 1956. The payment made by X to Mrs. A on November 1 (for October 1956) is not excluded from wages under this exception, but the payments made thereafter are excluded from wages. The payment on November 1 was not excluded because Mrs. A worked for X on one day in October 1956. (Inasmuch as Mrs. A had attained age 62 in September 1956, the November 1 payment would have been excluded if Mrs. A had not performed any work for X in October 1956.)[T.D. 6744, 29 FR 8309, July 2, 1964, as amended by T.D. 7373, 40 FR 30957, July 24, 1975; 40 FR 32831, Aug. 5, 1975]

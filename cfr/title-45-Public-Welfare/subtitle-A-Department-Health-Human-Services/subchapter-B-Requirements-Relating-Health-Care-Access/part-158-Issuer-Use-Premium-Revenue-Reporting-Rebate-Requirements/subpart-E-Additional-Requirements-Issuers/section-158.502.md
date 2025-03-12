@@ -1,0 +1,5 @@
+##### § 158.502 Maintenance of records. #####
+
+(a) *Basic rule.* Each issuer subject to the requirements of this part must maintain all documents and other evidence necessary to enable HHS to verify that the data required to be submitted in accordance with this part comply with the definitions and criteria set forth in this part, and that the MLR is calculated and any rebates owing are calculated and provided in accordance with this part. This includes but is not limited to all administrative and financial books and records used in compiling data reported and rebates provided under this part and in determining what data to report and rebates to provide under this part, electronically stored information, and evidence of accounting procedures and practices. This also includes all administrative and financial books and records used by others in assisting an issuer with its obligations under this part.
+
+(b) *Length of time information must be maintained.* All of the documents and other evidence required by this part must be maintained for the current year and six prior years, unless a longer time is required under § 158.501 of this subpart.

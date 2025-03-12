@@ -1,0 +1,203 @@
+##### § 1.6049-4 Return of information as to interest paid and original issue discount includible in gross income after December 31, 1982. #####
+
+(a) *Requirement of reporting* - (1) *In general.* Except as provided in paragraph (c) of this section, an information return shall be made by a payor, as defined in paragraph (a)(2) of this section, of amounts of interest and original issue discount paid after December 31, 1982. Such return shall contain the information described in paragraph (b) of this section.
+
+(2) *Payor.* For payments made after December 31, 2002, a payor is a person described in paragraph (a)(2)(i) or (ii) of this section.
+
+(i) Every person who makes a payment of the type and of the amount subject to reporting under this section (or under an applicable section under this chapter) to any other person during a calendar year.
+
+(ii) Every person who collects on behalf of another person payments of the type and of the amount subject to reporting under this section (or under an applicable section under this chapter), or who otherwise acts as a middleman (as defined in paragraph (f)(4) of this section) with respect to such payment.
+
+(b) *Information to be reported* - (1) [Reserved] For further guidance, see § 1.6049-4T(b)(1).
+
+(2) *Original issue discount.* Except as provided in paragraph (b)(3) and (b)(5) of this section, in the case of original issue discount, an information return on Forms 1096 and 1099 shall be made for each calendar year of any holder of an obligation as to which there is original issue discount includible in gross income aggregating $10 or more. For calendar years before 1992, semiannual record date reporting under § 1.6049-1(a)(1)(ii)(*b*)(*1*) may be used, and if it is used, the original issue discount includible in gross income is determined by treating each holder as holding the obligation on every day it was outstanding during the calendar year. An information return shall be made, however, in any case in which an amount of tax is required to be deducted and withheld under section 3406. In such case, the amount required to be reported is the amount subject to withholding even if the amount of original issue discount includible in gross income is less than $10. With respect to an obligation described in § 1.1232-3A (e) or (f) (relating respectively to deposits in banks and similar financial institutions and to face-amount certificates), § 1.6049-1(a)(1)(ii)(*d*) and the last sentence of § 1.6049-1(a)(1)(ii)(*a*)(*2*) shall apply. The information return shall show:
+
+(i) The name, address, and taxpayer identification number of each record holder for whom an amount of original issue discount is includible in gross income;
+
+(ii) The account, serial, or other identifying number of each obligation with respect to which a return is being made;
+
+(iii) The aggregate amount of original issue discount includible in the gross income of each holder for the period during the calendar year for which the return is made (or, if the aggregation rules of § 1.6049-1(a)(1)(ii)(*b*)(*2*) are being used, the aggregate amount or original issue discount for the period such holder held the obligations). For calendar years before 1992, semiannual record date reporting under § 1.6049-1(a)(1)(ii)(*b*)(*1*) may be used, and if it is used, the original issue discount includible in gross income is determined by treating each holder as holding the obligation on every day it was outstanding during the calendar year. For purposes of this section, an obligation shall be considered to be outstanding from the date of original issue (as defined in § 1.1232-3(b)(3));
+
+(iv) The amount of tax withheld under section 3406, if any;
+
+(v) The name and address of the person filing the return: and
+
+(vi) Such other information as is required by the forms.
+
+Section 1.6049-1(a)(1)(ii)(*b*)(*2*) and, for calendar years before 1992, § 1.6049-1(a)(1)(ii)(*b*)(*1*), and (*c*), apply for purposes of this paragraph.
+
+(3) *Returns made by middleman* - (i) *In general.* Except as provided in paragraph (b)(5) of this section, every person acting as a middleman (as defined in paragraph (f)(4) of this section) shall make an information return for the calendar year. In the case of interest payments (other than original issue discount and other than interest described in § 1.6049-8), the information return shall be made on Form 1099 and shall show the aggregate amount of the interest, the name, address, and taxpayer identification number of the person on whose behalf received, the amount of tax withheld under section 3406, if any, and such other information as required by the forms. In the case of original issue discount, the information return shall show the information required to be shown for the person on whose behalf received, as described in paragraph (b)(2) of this section. See § 1.6049-5(f) to determine whether a middleman is required to make an information return with respect to original issue discount. A middleman shall make an information return regardless of whether the middleman receives a Form 1099. A middleman shall not be required to make an information return if the payment of interest aggregates less than $10 or if the payment is made to an exempt recipient described in paragraph (c)(1)(ii) of this section, unless the payor backup withholds under section 3406 on such payment (because, for example, the payee has failed to furnish a Form W-9 on request), in which case the payor must make a return under this section, unless the payor refunds the amount withheld pursuant to § 31.6413(a)-3 of this chapter (Employment Tax Regulations).
+
+(ii) *Forwarding of interest coupons and original issue discount obligations.* In the case of a middleman who, from within the United States, forwards an interest coupon or discount obligation on behalf of a payee for presentation, collection or payment outside the United States, the middleman shall make an information return on Form 1099 for the calendar year showing, in the case of an interest coupon, the information required under paragraph (b)(3)(i) of this section and, in the case of a discount obligation, information required under paragraph (b)(2) of this section. For purposes of this paragraph (b)(3)(ii), a middleman is considered to forward an interest coupon or discount obligation on behalf of a payee for presentation, collection or payment outside the United States if the middleman forwards the coupon or obligations outside the United States on or after the date when the payee is entitled to be paid or at an earlier date that is within 90 days of such date or if the middleman has actual knowledge that the coupon or obligation is being forwarded outside the United States for presentation, collection, or payment outside the United States. However, the transfer, although subject to information reporting under this section, is not subject to backup withholding under section 3406.
+
+(iii) *Example.* The following example illustrates the provisions of paragraph (b)(3)(ii) of this section:
+
+Example.Individual F, who is entitled to payment on an interest coupon, instructs an office of Bank M in the United States to forward the coupon to Bank N for collection by Bank N outside the United States. Bank M in the United States forwards the interest coupon to Bank N outside the United States. Bank M is required to make an information return for the calendar year under paragraph (b)(3)(ii) of this section showing the aggregate amount of the interest coupon forwarded, the name, address of the permanent residence, and the taxpayer identification number, if any, of Individual F and such other information as the form requires.
+
+(4) *Returns made with respect to payments on certificates of deposit issued in bearer form.* Except as provided in paragraph (b)(5) of this section, every person carrying on the banking business who makes payments of interest to another person (whether or not aggregating $10 or more) during a calendar year with respect to a certificate of deposit issued in bearer form shall make an information return on Forms 1096 and 1099. The information return shall show the information required in § 1.6049-1(a)(1)(vi) (*a*) through (*e*) inclusive and a statement as to the amount of tax withheld under section 3406, if any.
+
+(5) *Interest payments to certain nonresident alien individuals* - (i) *General rule.* In the case of interest aggregating $10 or more paid to a nonresident alien individual (as defined in section 7701(b)(1)(B)) that is reportable under § 1.6049-8(a), the payor shall make an information return on Form 1042-S, “Foreign Person's U.S. Source Income Subject to Withholding,” for the calendar year in which the interest is paid. The payor or middleman shall prepare and file Form 1042-S at the time and in the manner prescribed by section 1461 and the regulations under that section and by the form and its accompanying instructions. See §§ 1.1461-1(b) (rules regarding the preparation of a Form 1042) and 1.6049-6(e)(4) (rules for furnishing a copy of the Form 1042-S to the recipient). To determine whether an information return is required for original issue discount, see §§ 1.6049-5(f) and 1.6049-8(a).
+
+(ii) *Effective/applicability date.* Paragraph (b)(5)(i) of this section shall be applicable for payments made on or after January 1, 2013. (For interest paid to a Canadian nonresident alien individual on or before December 31, 2012, see paragraph (b)(5) of this section as in effect and contained in 26 CFR part 1 revised April 1, 2000.)
+
+(c) *Information returns not required* - (1) *Payment to exempt recipient* - (i) *In general.* No information return is required with respect to any payment made to an exempt recipient described in paragraph (c)(1)(ii) of this section, except to the extent otherwise provided in § 1.6049-5(d)(3) (ii) and (iii). However, if the payor backup withholds under section 3406 on such payment (because, for example, the payee has failed to furnish a Form W-9 on request), then the payor is required to make a return under this section, unless the payor refunds the amount withheld in accordance with § 31.6413(a)-3 of this chapter (Employment Tax Regulations).
+
+(ii) *Exempt recipient defined.* The term *exempt recipient* means any person described in paragraphs (c)(1)(ii)(A) through (Q) of this section. An exempt recipient is generally exempt from information reporting without filing a certificate claiming exempt status unless the provisions of this paragraph (c)(1)(ii) require a payee to file a certificate.
+
+A payor may, in any case, require a payee that is a U.S. person not otherwise required to file a certificate under this paragraph (c)(1)(ii) to file a certificate in order to qualify as an exempt recipient. See § 31.3406(h)-3(a)(1)(iii) and (c)(2) of this chapter for the certificate that a payee that is a U.S. person must provide when a payor requires the certificate to treat the payee as an exempt recipient under this paragraph (c)(1)(ii). A payor may treat a payee as an exempt recipient based upon a properly completed form as described in § 31.3406(h)-3(e)(2) of this chapter, its actual knowledge that the payee is a person described in this paragraph (c)(1)(ii), or the indicators described in this paragraph (c)(1)(ii).
+
+(A) *Corporation.* A corporation, as defined in section 7701(a)(3), whether domestic or foreign, is an exempt recipient. In addition, for purposes of this paragraph (c)(1), the term *corporation* includes a partnership all of whose members are corporations described in this paragraph (c)(1), but only if the partnership files with the payor a certificate stating that each member of the partnership meets one of the requirements of paragraph (c)(1)(ii)(A) (*1*) through (*4*) of this section. Absent actual knowledge otherwise, a payor may treat a payee as a corporation (and, therefore, as an exempt recipient) if one of the requirements of paragraph (c)(1)(ii)(A) (*1*), (*2*), (*3*), or (*4*), of this section are met before a payment is made.
+
+(*1*) The name of the payee contains an unambiguous expression of corporate status that is Incorporated, Inc., Corporation, Corp., P.C., (but not Company or Co.) or contains the term *insurance company, indemnity company, reinsurance company,* or *assurance company,* or its name indicates that it is an entity listed as a per se corporation under § 301.7701-2(b)(8)(i) of this chapter.
+
+(*2*) The payor has on file a corporate resolution or similar document clearly indicating corporate status. For this purpose, a similar document includes a copy of Form 8832, filed by the entity to elect classification as an association under § 301.7701-3(b) of this chapter.
+
+(*3*) The payor receives a Form W-9 which includes an EIN and a statement from the payee that it is a domestic corporation.
+
+(*4*) The payor receives a withholding certificate described in § 1.1441-1(e)(2)(i), that includes a certification that the person whose name is on the certificate is a foreign corporation.
+
+(B) *Tax exempt organization* - (*1*) *In general.* Any organization that is exempt from taxation under section 501(a) is an exempt recipient. A custodial account under section 403(b)(7) shall be considered an exempt recipient under this paragraph. A payor may treat an organization as an exempt recipient under this paragraph (c)(1)(ii)(B) without requiring a certificate if the organization's name is listed in the compilation by the Commissioner of organizations for which a deduction for charitable contributions is allowed, if the name of the organization contains an unambiguous indication that it is a tax-exempt organization, or if the organization is known to the payor to be a tax-exempt organization.
+
+(*2*) *Examples.* The application of the provisions of this paragraph (c)(1)(ii)(B) may be illustrated by the following examples:
+
+Example 1.The following persons maintain accounts at M Bank: N College, O University, and P Church. M may treat N, O, and P as exempt recipients even though such persons have not filed an exemption certificate with M because the names of the organizations contain an unambiguous indication that they are tax exempt organizations.Example 2.Q is listed in the current edition of Internal Revenue Service Publication 78 as an organization for which deductions are permitted for charitable contributions under section 170(c). Such listing has not been revoked by an announcement published in the Internal Revenue Bulletin (see § 601.601(d)(2) of this chapter). A payor may treat Q as an exempt recipient even though Q has not filed an exemption certificate with the payor.Example 3.Employer R maintains a section 403(b)(7) custodial account with Regulated Investment Company S on behalf of R's employees. S may treat the account as an exempt recipient even though R or its employees have not filed an exemption certificate with S.
+
+(C) *Individual retirement plan.* An individual retirement plan as defined in section 7701(a)(37) is an exempt recipient. A payor may treat any such plan of which it is the trustee or custodian as an exempt recipient under this paragraph (c)(1) without requiring a certificate.
+
+(D) *United States.* The United States Government and any wholly-owned agency or instrumentality thereof are exempt recipients. A payor may treat a person as an exempt recipient under this paragraph (c)(1) without requiring a certificate if the name of such person reasonably indicates it is described in this paragraph (c)(1).
+
+(E) *State.* A State, the District of Columbia, a possession of the United States, a political subdivision of any of the foregoing, wholly-owned agency or instrumentality of any one or more of the foregoing, and a pool or partnership composed exclusively of any of the foregoing are exempt recipients. A payor may treat a person as an exempt recipient under this paragraph (c)(1) without requiring a certificate if the name of such person reasonably indicates it is described in this paragraph (c)(1) or if such person is known generally in the community to be a State, the District of Columbia, a possession of the United States or a political subdivision or a wholly-owned agency or instrumentality of any one or more of the foregoing (for example, an account held in the name of “Town of S” or “County of T” may be treated as held by an exempt recipient under this paragraph (c)(1)(ii)(E)).
+
+(F) *Foreign government.* A foreign government, a political subdivision of a foreign government, and any wholly-owned agency or instrumentality of either of the foregoing are exempt recipients. A payor may treat a foreign government or a political subdivision thereof as an exempt recipient under this paragraph (c)(1) without requiring a certificate provided that its name reasonably indicates that it is a foreign government or provided that it is known to the payor to be a foreign government or a political subdivision thereof (for example, an account held in the name of the “Government of V” may be treated as held by a foreign government).
+
+(G) *International organization.* An international organization and any wholly-owned agency or instrumentality thereof are exempt recipients. The term *international organization* shall have the meaning ascribed to it in section 7701(a)(18). A payor may treat a payee as an international organization without requiring a certificate if the payee is designated as an international organization by executive order (pursuant to 22 U.S.C. 288 through 288(f)).
+
+(H) *Foreign central bank of issue.* A foreign central bank of issue is an exempt recipient. A foreign central bank of issue is a bank which is by law or government sanction the principal authority, other than the government itself, issuing instruments intended to circulate as currency. See § 1.895-1(b)(1). A payor may treat a person as a foreign central bank of issue (and, therefore, as an exempt recipient) without requiring a certificate provided that such person is known generally in the financial community as a foreign central bank of issue or if its name reasonably indicates that it is a foreign central bank of issue.
+
+(I) *Securities or commodities dealer.* A dealer in securities, commodities, or notional principal contracts, that is registered as such under the laws of the United States or a State or under the laws of a foreign country is an exempt recipient. A payor may treat a dealer as an exempt recipient under this paragraph (c)(1) without requiring a certificate if the person is known generally in the investment community to be a dealer meeting the requirements set forth in this paragraph (c)(1) (for example, a registered broker-dealer or a person listed as a member firm in the most recent publication of members of the National Association of Securities Dealers, Inc.).
+
+(J) *Real estate investment trust.* A real estate investment trust, as defined in section 856 and § 1.856-1, is an exempt recipient. A payor may treat a person as a real estate investment trust (and, therefore, as an exempt recipient) without requiring a certificate if the person is known generally in the investment community as a real estate investment trust.
+
+(K) *Entity registered under the Investment Company Act of 1940.* An entity registered at all times during the taxable year under the Investment Company Act of 1940, as amended (15 U.S.C. 80a-1), (or during such portion of the taxable year that it is in existence), is an exempt recipient. An entity that is created during the taxable year will be treated as meeting the registration requirement of the preceding sentence provided that such entity is so registered at all times during the taxable year for which such entity is in existence. A payor may treat such an entity as an exempt recipient under this paragraph (c)(1) without requiring a certificate if the entity is known generally in the investment community to meet the requirements of the preceding sentence.
+
+(L) *Common trust fund.* A common trust fund, as defined in section 584(a), is an exempt recipient. A payor may treat the fund as an exempt recipient without requiring a certificate provided that its name reasonably indicates that it is a common trust fund or provided that it is known to the payor to be a common trust fund.
+
+(M) *Financial institution.* A financial institution such as a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank, homestead association, credit union, industrial loan association or bank, or other similar organization, whether organized in the United States or under the laws of a foreign country is an exempt recipient. A financial institution also includes a clearing organization defined in § 1.163-5(c)(2)(i)(D)(*8*) and the Bank for International Settlements. A payor may treat any person described in the preceding sentence as an exempt recipient without requiring a certificate if the person's name (including a foreign name, such as “Banco” or “Banque”) reasonably indicates the payee is a financial institution described in the preceding sentence. In the case of a foreign person, a payor may also treat a person on such list as the Internal Revenue Service may publish or approve (such as in the Thomson Bank Directory or a list approved by the Federal Reserve Board).
+
+(N) *Trust.* A trust which is exempt from tax under section 664(c) (i.e., a charitable remainder annuity trust or a charitable remainder unitrust) or is described in section 4947(a)(1) (relating to certain charitable trusts) is an exempt recipient. A payor which is a trustee of the trust may treat the trust as an exempt recipient without requiring a certificate.
+
+(O) *Nominees or custodians.* A nominee or custodian.
+
+(P) *Brokers.* A broker as defined in section 6045(c) and § 1.6045-1(a)(1).
+
+(Q) *Swap dealers.* A dealer in notional principal contracts as defined in § 1.446-3(c)(4)(iii).
+
+(iii) *Exempt recipient no longer exempt.* Any person who ceases to be an exempt recipient shall, no later than 10 days after such cessation, notify the payor in writing when it ceases to be an exempt recipient unless it reasonably appears that the person formerly qualifying as an exempt recipient will not thereafter receive a reportable payment from the payor. If a payor treats a person as an exempt recipient by requiring the exempt recipient to file a certificate claiming exempt status, that person shall revoke the certificate as provided in the preceding sentence. If the exempt recipient terminates its relationship with the payor prior to the time that the notice of change in status is otherwise required, the exempt recipient is not required to notify the payor. If, however, the person who formerly qualified as an exempt recipient later reinstates the relationship with the payor, the person must, prior to receiving a reportable payment from such relationship, notify the payor that it no longer qualifies as an exempt recipient in case the payor relies upon the previous treatment.
+
+(2) *Payments by certain middlemen.* An information return shall not be required if:
+
+(i) The record owner is required to file a fiduciary return on Form 1041 disclosing the name, address, and taxpayer identification number of the actual owner, and furnishes Form K-1 to each actual owner containing the information required to be shown on the form, including amounts withheld under section 3406;
+
+(ii) The record owner is a nominee of a banking institution or trust company exercising trust powers, and such banking institution or trust company is required to file a fiduciary return on Form 1041 disclosing the name, address, and identifying number of the actual owner, and furnishes Form K-1 to each actual owner containing the information required to be shown on the form, including amounts withheld under section 3406;
+
+(iii) The record owner is a banking institution or trust company exercising trust powers, or a nominee thereof, and the actual owner is an organization exempt from taxation under section 501(a) for which such banking institution or trust company files an annual return, but only if the name, address, and taxpayer identification number of the record owner is included on or with the Form 1041 fiduciary return filed for the estate or trust or the annual return filed for the tax exempt organization.
+
+(3) *Coordination with reporting rules for widely held fixed investment trusts under § 1.671-5 of this chapter.* See § 1.671-5 for the reporting rules for widely held fixed investment trusts (as defined under that section).
+
+(4) [Reserved] For further guidance, see § 1.6049-4T(c)(4).
+
+(d) *Special rules* - (1) *Aggregation of payments.* For purposes of paragraph (b) of this section, until such time as the Commissioner determines that it is feasible to require aggregation of payments on two or more accounts, insurance contracts, or investment certificates, and, until this section is amended accordingly to provide for reporting on an aggregate basis, the requirement for filing Form 1099 under this section will be met if a person making payments of interest subject to reporting files a separate Form 1099 with respect to each account, insurance contract, or investment certificate. In the case of obligations described in section 6049(b)(1)(A), separate Forms 1099 may be filed as provided in the preceding sentence with respect to holdings in different issues.
+
+(2) *Treatment of original issue discount.* The amount of original issue discount subject to reporting under section 6049 shall be the amount of original issue discount includible in the gross income of any holder that is treated as paid under § 1.6049-5(f).
+
+(3) *Conversion into United States dollars of amounts paid in foreign currency* - (i) *Conversion rules.* When a payment is made in foreign currency, the U.S. dollar amount of the payment shall be determined by converting such foreign currency into U.S. dollars on the date of payment at the spot rate (as defined in § 1.988-1(d)(1)) or pursuant to a reasonable spot rate convention. For example, a withholding agent may use a month-end spot rate or a monthly average spot rate. A spot rate convention must be used consistently with respect to all non-dollar amounts withheld and from year to year. Such convention cannot be changed without the consent of the Commissioner or the Commissioner's delegate.
+
+(ii) *Special rule for § 1.988-5(a) transactions where the payor on both components of a qualified hedging transaction is the same person* - (A) *In general.* Interest or original issue discount on a qualified debt instrument that is part of a qualified hedging transaction under § 1.988-5(a) shall be computed for section 6049 reporting purposes under the rules described in § 1.988-5(a)(9)(ii) if -
+
+(*1*) The payor on the qualified debt instrument and the counterparty to the § 1.988-5(a) hedge are the same person; and
+
+(*2*) The payee complies with the requirements of § 1.988-5(a) and so notifies its payor prior to the date required for filing Form 1099 as required by this section.
+
+(B) *Effective date.* The provisions of this paragraph (d)(3)(ii) apply to transactions entered into after December 31, 2000.
+
+(4) *Determination of person to whom interest or original issue discount is paid or for whom it is received.* Section 1.6049-1(a)(3) and (4) shall apply with respect to payments of interest and original issue discount after December 31, 1982.
+
+(5) *Payments by governmental units.* In the case of payments made by any governmental unit or any agency or instrumentality thereof, the officer or employee having control of the payment of interest or original issue discount (or the person appropriately designated for purposes of this section) shall make the returns and statements required under section 6049.
+
+(6) *When payment deemed made* - (i) *In general.* Except as provided in paragraph (d)(6)(ii) of this section, for purposes of section 6049, interest is deemed to have been paid when it is credited or set apart to a person without any substantial limitation or restriction as to the time or manner of payment or condition upon which payment is to be made, and is made available to him so that it may be drawn at any time, and its receipt brought within his own control and disposition.
+
+(ii) *Instruments paid on presentment or demand.* In the case of a payment made on an obligation described in paragraph (e)(2) of this section (relating to transactional reporting), interest is deemed to have been paid at the time the obligation is presented for payment. For example, interest represented by a coupon detached from a bond is considered paid for purposes of section 6049 when the coupon is presented for payment.
+
+(7) *Magnetic media requirement.* For rules relating to permission to submit the information required by Form 1099 on magnetic tape or other media, see § 1.9101-1. For the requirement to submit the information required by Form 1099 on magnetic media for payments after December 31, 1983, see section 6011(e) and § 301.6011-2 of this chapter (Regulations on Procedure and Administration).
+
+(8) *Obligations that are not exempt from taxation.* When an issuer of an obligation that is not exempt from taxation receives an envelope or “shell”, signed by the payee, stating that interest on the obligation is exempt from taxation under section 103(a) (as described in § 1.6049-5(b)(2), the issuer shall make an information return under section 6049. The information return shall show the name, address, and taxpayer identification number of the person who signed the statement claiming that interest on the obligation is exempt from taxation, the amount of interest paid, and such other information as is required by the form. An information return is required regardless of the amount of interest. The issuer shall also furnish a written statement to such person showing the information required by § 1.6049-6(b).
+
+(9) *Savings bonds* - (i) *In general.* A person who makes payment on a United States savings bond when the bond is presented for payment shall report the difference between the amount to be paid and the amount paid for the bond. The amount subject to reporting shall not be reduced to take into account:
+
+(A) Amounts previously included in the income of a holder as a result of an election under section 454 to include annually the increase in the redemption price of the bond; or
+
+(B) Amounts accrued prior to transfer of the bond where the bond has been reissued in the name of the person presenting the bond for payment.
+
+With respect to a savings bond that is reissued in another person's name, the amount subject to reporting when the bond is reissued is the amount of interest that has accrued. With respect to a savings bond that is exchanged in a tax-deferred transaction (as described in section 1037), the amount subject to reporting is the amount of cash paid to the holder at the time of the transaction.
+
+(ii) *Examples.* The application of the provisions of paragraph (d)(9)(i) of this section may be illustrated by the following examples:
+
+Example 1.On June 10, 1943, A purchases a $50 Series E savings bond. The amount paid for the savings bond is $37.50. A elects under section 454 to include the increase in the redemption price of the bond annually in income. A presents the bond to Bank M to be cashed on July 1, 1983. The amount to be paid on the bond on that date is $204.96. Bank M is required to make an information return under section 6049 showing that it paid $167.46 (the difference between $204.96 and $37.50) of interest, without regard to A's election to include annually the increase in the redemption price of the bond.Example 2.On December 1, 1970, B purchases a $500 Series E savings bond. The amount paid for the bond is $375. On August 1, 1984, the bond is reissued by the Bureau of Public Debt by deleting B's name and inserting the name of B's child. At the time of reissue, the redemption value of the bond is $1,015.80. The accrued interest is $640.80 (the difference between $1,015.80 and $375). The reissue is a taxable transaction, and B must include in income the accrued interest at the time of reissue. The Bureau of Public Debt is required to make an information return under section 6049 showing that it paid $640.80 of interest to B.Example 3.Assume the same facts as in example (2) except that B exchanges the bond for a Series HH savings bond in the amount of $1,000 issued in B's name. The exchange is tax-deferred under section 1037. The Bureau of Public Debt stamps a legend on the bond stating that interest of $625 has been deferred. The amount of $15.80 is paid to B. The Bureau of the Public Debt must make an informatiion return showing that it paid $15.80 of interest to B.Example 4.Assume the same facts as in example (3) except that the exchange is not a tax-deferred exchange. The Bureau of the Public Debt must make an information return showing that it paid $640.80 of interest to B.
+
+(e) *Transactional reporting* - (1) *In general.* An information return required to be made under paragraph (b) of this section may be made on a transaction-by-transaction basis, rather than on an annual aggregation basis, if payment described in paragraph (e)(2) of this section is made by a person described in paragraph (e)(3) of this section.
+
+(2) *Payments subject to transactional reporting.* An information return may be made on a transactional basis if payment is made on:
+
+(i) A United States savings bond,
+
+(ii) An interest coupon (but see § 1.6049-5(b) which provides that no information return is required to be made with respect to an interest coupon that is exempt from taxation),
+
+(iii) A discount obligation having a maturity at issue of 1 year or less, including commercial paper and short-term government obligations defined in section 1232(a)(3), and
+
+(iv) Any obligation similar to those described in subdivisions (i) through (iii).
+
+The information return with respect to payments on the types of obligations described in this paragraph shall be made on Form 1099-INT. A payor may include all interest paid in one transaction on one information return, irrespective of whether obligations of different issuers are paid as part of the transaction.
+
+(3) *Persons subject to transactional reporting.* A person may make a return on a transactional basis if the person is:
+
+(i) A middleman (as defined in paragraph (f)(4) of this section) who is required to make an information return under paragraph (b)(3) of this section with respect to any payment described in paragraph (e)(2) of this section, or
+
+(ii) A Federal agency making payments on a United States savings bond.
+
+(4) *Transaction defined.* For purposes of this paragraph (e), a transaction means a payment at one time on one or more obligations. For example, if an individual who is exempt from withholding under section 3406 presents at one time five Series EE bonds on each of which $3 of interest has accrued, $15 of interest will be paid as part of the transaction. Accordingly, an information return is required under § 1.6049-4 (a)(2)(iii) because the interest paid in the transaction exceeds $10. If only three of the savings bonds were presented, however, no return would be required even if the remaining two bonds were redeemed the following day. See paragraph (a)(2)(i) of this section for the requirement that an information return be made if any amount of tax is withheld under section 3406.
+
+(5) *Information required.* The information return for any transaction under paragraph (e) of this section shall show the following:
+
+(i) The name, address, and taxpayer identification number of the person to whom the interest is paid;
+
+(ii) The name and address of the person filing the form;
+
+(iii) The amount of interest paid;
+
+(iv) The amount of tax withheld under section 3406, if any; and
+
+(v) Such other information as is required by the form.
+
+(f) *Definitions.* For purposes of section 6049, this section, and §§ 1.6049-5 and 1.6049-6:
+
+(1) *Person.* The term *person* includes any governmental unit, international organization, and any agency or instrumentality thereof. Therefore, interest paid by one of these entities must be reported unless one of the exceptions under section 6049 applies.
+
+(2) *Natural person.* The term *natural person* means any individual, but shall not include a partnership (whether of not composed entirely of individuals), a trust, or an estate.
+
+(3) [Reserved] For further guidance, see § 1.6049-4T(f)(3).
+
+(4) *Middleman* - (i) *In general.* The term *middleman* means any person. including a financial institution as described in paragraph (c)(1)(ii)(M) of this section, a broker as defined in section 6045(c), or a nominee, who makes payment of interest for, or collects interest on behalf of, another person, or otherwise acts in a capacity as intermediary between a payor and a payee. For example, a person (other than an issuer of an obligation) who makes payment on an interest coupon of the obligation to another person is a middleman, irrespective of whether such person purchases the coupon for his own account, accepts the coupon as agent for the payee, or otherwise deals with the coupon. The term “middleman” also includes a trustee, including a corporate trustee of a trust where the trust is the payee. See § 1.6049-4(c)(2) providing that the trustee does not have to make an information return on Form 1099 to a beneficiary if the trustee is required to file Form 1041 and furnishes Form K-1 to the beneficiary showing the information required to be shown on the form, including amounts withheld under section 3406. A person shall be considered to be a middleman as to any portion of an interest payment made to such person which portion is actually owned by another person, whether or not the other person's name is also shown on the information return filed with respect to such interest payment, except that a husband or wife will not be considered as acting in the capacity of a middleman with respect to his or her spouse. A person who, from within the United States, forwards an interest coupon or discount obligation on behalf of a payee for presentation, collection or payment outside the United States is also a middleman for purposes of this section (but the transfer, although subject to information reporting under this section, does not make the payment subject to backup withholding under section 3406).
+
+(ii) [Reserved] For further guidance, see § 1.6049-4T(f)(4)(ii).
+
+(5) through (16) [Reserved] For further guidance, see § 1.6049-4T(f)(5) through (16)(iv).
+
+(g) *Time and place for filling a return for the payment of interest* - (1) *Annual return.* Except as provided in paragraph (g)(2) of this section, the returns required under this section for any calendar year for the payment of interest shall be filed after September 30 of such year, but not before the payor's final payment to the payee for the year, and on or before February 28 (March 31 if filed electronically) of the following year. Such returns shall be filed with the appropriate Internal Revenue Service Center, the address of which is listed in the instructions for Form 1096. For extensions of time for filing returns under this section, see § 1.6081-1.
+
+(2) *Transactional return.* In the case of a return under paragraph (e) of this section, relating to returns on a transactional basis, such return shall be filed at any time but in no event later than February 28 (March 31 if filed electronically) of the year following the calendar year in which the interest was paid. The return shall be filed with the appropriate Internal Revenue Service Center, the address of which is listed in the instructions for Form 1096. For extensions of time for filing returns under this section, see § 1.6081-1.
+
+(3) *Cross-reference to penalty.* For provisions relating to the penalty provided for failure to file timely a correct information return required under section 6049(a) and § 1.6049-4(a)(1), see § 301.6721-1 of this chapter (Procedure and Administration Regulations). See § 301.6724-1 of this chapter for the waiver of a penalty if the failure is due to reasonable cause and is not due to willful neglect.
+
+(h) [Reserved] For further guidance, see § 1.6049-4T(h).
+
+[T.D. 7881, 48 FR 12968, Mar. 28, 1983]Editorial Note:For Federal Register citations affecting § 1.6049-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

@@ -1,0 +1,3 @@
+##### § 301.7458-1 Hearings. #####
+
+Notice and opportunity to be heard upon any proceeding instituted before the Tax Court shall be given to the taxpayer and the Commissioner. If an opportunity to be heard upon the proceeding is given before a division of the Tax Court, neither the taxpayer nor the Commissioner shall be entitled to notice and opportunity to be heard before the Tax Court upon review, except upon a specific order of the chief judge.

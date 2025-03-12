@@ -1,0 +1,7 @@
+##### § 1.1502-81T Alaska Native Corporations. #####
+
+(a) *General Rule.* The application of section 60(b)(5) of the Tax Reform Act of 1984 and section 1804(e)(4) of the Tax Reform Act of 1986 (relating to Native Corporations established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*)) is limited to the use on a consolidated return of losses and credits of a Native Corporation, and of a corporation all of whose stock is owned directly by a Native Corporation, during any taxable year (beginning after the effective date of such sections and before 1992), or any part thereof, against the income and tax liability of a corporation affiliated with the Native Corporation. Thus, no other tax saving, tax benefit, or tax loss is intended to result from the application of section 60(b)(5) of the Tax Reform Act of 1984 and section 1804(e)(4) of the Tax Reform Act of 1986 to any person (whether or not such person is a member of an affiliated group of which a Native Corporation is the common parent). In particular, except as approved by the Secretary, no positive adjustment under § 1.1502-32(b) will be made with respect to the basis of stock of a corporation that is affiliated with a Native Corporation through application of section 60(b)(5) of the Tax Reform Act of 1984 and section 1804(e)(4) of the Tax Reform Act of 1986.
+
+(b) *Effective Dates.* This section applies to taxable years beginning after December 31, 1984.
+
+[T.D. 8130, 52 FR 8448, Mar. 18, 1987, as amended by T.D. 8560, 59 FR 41675, Aug. 15, 1994]

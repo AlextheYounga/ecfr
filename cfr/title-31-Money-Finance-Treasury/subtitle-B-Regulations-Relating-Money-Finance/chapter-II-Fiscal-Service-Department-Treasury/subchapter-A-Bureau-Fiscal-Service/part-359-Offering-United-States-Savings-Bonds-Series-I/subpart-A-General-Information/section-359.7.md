@@ -1,0 +1,3 @@
+##### § 359.7 If I redeem a Series I savings bonds before five years after the issue date, is there an interest penalty? #####
+
+If you redeem a bond less than five years after the issue date, we will reduce the overall earning period by three months. For example, if you redeem a bond issued January 1, 2002, nine months later on October 1, 2002, the redemption value will be determined by applying the value calculation procedures and composite rate for that bond as if the redemption date were three months earlier (July 1, 2002). However, we will not reduce the redemption value of a bond subject to the three-month interest penalty below the issue price (par). This penalty does not apply to bonds redeemed five years or more after the issue date.

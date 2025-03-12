@@ -1,0 +1,3 @@
+##### § 90.62 Review of agency regulations. #####
+
+Each agency shall review the effectiveness of its regulations in securing compliance with the Act. As part of this review, 30 months after the effective date of its regulations, each agency shall publish a notice of opportunity for public comment on the effectiveness of the agency regulations. Each agency shall assess the comments and publish the results of the review in the Federal Register.

@@ -1,0 +1,19 @@
+##### § 31.3402(h)(1)-1 Withholding on basis of average wages. #####
+
+(a) *In general.* An employer may determine the amount of tax to be deducted and withheld upon a payment of wages to an employee on the basis of the employee's average estimated wages, with necessary adjustments, for any quarter. This paragraph applies only where the method desired to be used includes wages other than tips (whether or not tips are also included).
+
+(b) *Withholding on the basis of average estimated tips*—(1) *In general.* Subject to certain limitations and conditions, an employer may, at his discretion, withhold the tax under section 3402 in respect of tips reported by an employee to the employer on an estimated basis. An employer who elects to make withholding of the tax on an estimated basis shall:
+
+(i) In respect of each employee, make an estimate of the amount of tips that will be reported, pursuant to section 6053, by the employee to the employer in a calendar quarter.
+
+(ii) Determine the amount which must be deducted and withheld upon each payment of wages (exclusive of tips) which are under the control of the employer to be made during the quarter by the employer to the employee. The total amount which must be deducted and withheld shall be determined by assuming that the estimated tips for the quarter represent the amount of wages to be paid to the employee in the form of tips in the quarter and that such tips will be ratably (in terms of pay periods) paid during the quarter.
+
+(iii) Deduct and withhold from any payment of wages (exclusive of tips) which are under the control of the employer, or from funds referred to in section 3402(k) (see §§ 31.3402(k) and 31.3402(k)-1), such amount as may be necessary to adjust the amount of tax withheld on the estimated basis to conform to the amount required to be withheld in respect of tips reported by the employee to the employer during the calendar quarter in written statements furnished to the employer pursuant to section 6053(a). If an adjustment is required, the additional tax required to be withheld may be deducted upon any payment of wages (exclusive of tips) which are under the control of the employer during the quarter and within the first 30 days following the quarter or from funds turned over by the employee to the employer for such purpose within such period. For provisions relating to the repayment to an employee, or other disposition, of amounts deducted from an employee's remuneration in excess of the correct amount of tax, see § 31.6413(a)-1.
+
+(2) *Estimating tips employee will report*—(i) *Initial estimate.* The initial estimate of the amount of tips that will be reported by a particular employee in a calendar quarter shall be made on the basis of the facts and circumstances surrounding the employment of that employee. However, if a number of employees are employed under substantially the same circumstances and working conditions, the initial estimate established for one such employee may be used as the initial estimate for other employees in that group.
+
+(ii) *Adjusting estimate.* If the quarterly estimate of tips in respect of a particular employee continues to differ substantially from the amount of tips reported by the employee and there are no unusual factors involved (for example, an extended absence from work due to illness) the employer shall make an appropriate adjustment of his estimate of the amount of tips that will be reported by the employee.
+
+(iii) *Reasonableness of estimate.* The employer must be prepared, upon request of the district director, to disclose the factors upon which he relied in making the estimate, and his reasons for believing that the estimate is reasonable.
+
+[T.D. 7053, 35 FR 11626, July 21, 1970]

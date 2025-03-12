@@ -1,0 +1,3 @@
+##### § 592.403 Transshipment or transit through the United States. #####
+
+The prohibitions in § 592.201 apply to the importation into, or exportation from, the United States, for transshipment or transit, of any rough diamond intended or destined for any country other than the United States, unless the shipment is sealed in a tamper-resistant container, accompanied by a Kimberley Process Certificate, and leaves the United States in the identical state in which it entered. The validation, recordkeeping, and reporting procedures applicable to importations and exportations do not apply in this case.

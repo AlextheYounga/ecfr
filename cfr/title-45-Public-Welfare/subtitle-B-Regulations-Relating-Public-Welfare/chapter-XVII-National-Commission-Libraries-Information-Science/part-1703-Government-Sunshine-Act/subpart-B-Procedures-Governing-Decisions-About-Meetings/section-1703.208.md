@@ -1,0 +1,3 @@
+##### § 1703.208 Meetings for extraordinary agency business. #####
+
+Where agency business so requires, Commission members may decide by majority, recorded vote to schedule a meeting for a date earlier than eight days after the decision. Such a decision would obviate the general requirement for a public announcement at least one week before the scheduled meeting. At the earliest practicable time, however, the Commission will announce publicly the time, place, and subject matter of the meeting, whether the meeting is to be open or closed, and the name and telephone number of an agency official who will respond to requests for information about the meeting.

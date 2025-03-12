@@ -1,0 +1,3 @@
+##### § 521.113 Students and apprentices; remittances. #####
+
+Under Article XIII of the convention, citizens of Denmark who are temporarily present in the United States as students or apprentices exclusively for the purposes of study or for acquiring business experience, are exempt for taxable years beginning on or after January 1, 1948, from Federal income tax upon amounts representing remittances from sources outside the United States for the purposes of their maintenance or studies.

@@ -1,0 +1,3 @@
+##### § 31.6413(b)-1 Overpayments of certain employment taxes. #####
+
+For provisions relating to the adjustment of overpayments of tax imposed by section 3101, 3111, 3201, 3221, or 3402, see § 31.6413(a)-2. For provisions relating to refunds of tax imposed by section 3101, 3111, 3201, or 3221, see §§ 31.6402(a)-1 and 31.6402(a)-2. For provisions relating to refunds of tax imposed by section 3402, see §§ 31.6402(a)-1 and 31.6414-1.

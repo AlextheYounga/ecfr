@@ -1,0 +1,5 @@
+##### § 54.6061-1 Signing of returns and other documents. #####
+
+Effective for any Form 8928 that is due on or after January 1, 2010, any return, statement, or other document required to be made with respect to a tax imposed by section 4980B, 4980D, 4980E, or 4980G of the Code or the regulations under section 4980B, 4980D, 4980E, or 4980G must be signed by the person required to file the return, statement, or other document, or by the persons required or duly authorized to sign in accordance with the regulations, forms, or instructions prescribed with respect to such return, statement, or document. An individual's signature on such return, statement, or other document shall be prima facie evidence that the individual is authorized to sign the return, statement, or other document.
+
+[T.D. 9457, 74 FR 46000, Sept. 8, 2009]

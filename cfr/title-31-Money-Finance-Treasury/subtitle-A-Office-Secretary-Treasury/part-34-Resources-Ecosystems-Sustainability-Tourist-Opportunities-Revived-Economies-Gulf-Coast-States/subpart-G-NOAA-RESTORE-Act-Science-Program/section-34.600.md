@@ -1,0 +1,3 @@
+##### § 34.600 General. #####
+
+This subpart describes policies and procedures applicable to the NOAA RESTORE Act Science Program. The program's purpose is to carry out research, observation, and monitoring to support, to the maximum extent practicable, the long-term sustainability of the ecosystem, fish stocks, fish habitat, and the recreational, commercial, and charter fishing industries in the Gulf of Mexico.

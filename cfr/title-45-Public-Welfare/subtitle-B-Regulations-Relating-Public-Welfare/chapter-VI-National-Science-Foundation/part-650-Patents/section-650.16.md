@@ -1,0 +1,3 @@
+##### § 650.16 Background rights. #####
+
+The Foundation will acquire rights to a research performer's pre-existing technology only in exceptional circumstances where, due to the nature of the research being supported, the Foundation requires greater control over resulting inventions. The NSF Grants or Contracts Officer, with concurrence of the cognizant Program Manager, will negotiate a background rights provision. If the affected awardee is a small business firm or nonprofit organization, the provision will conform to the requirements of the Bayh-Dole Act (35 U.S.C. 202(f)) as implemented by 37 CFR 401.12).

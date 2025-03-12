@@ -1,0 +1,3 @@
+##### § 2508.2 What is the purpose of this part? #####
+
+The purpose of this part is to set forth the basic policies of the Corporation governing the maintenance of its system of records which contains personal information concerning its employees as defined in the Privacy Act (5 U.S.C. 552a). Records included in this part are those described in aforesaid act and maintained by the Corporation and/or any component thereof.

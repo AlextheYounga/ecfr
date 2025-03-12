@@ -1,0 +1,5 @@
+##### § 1.1446-7 Effective/Applicability date.. #####
+
+Sections 1.1446-1 through 1.1446-5 shall apply to partnership taxable years beginning after May 18, 2005. However, a partnership may elect to apply all of the provisions of §§ 1.1446-1 through 1.1446-5 to partnership taxable years beginning after December 31, 2004. A partnership shall make the election under this section by complying with the provisions of §§ 1.1446-1 through § 1.1446-5 and attaching a statement to the Form 8804 or Form 1042 annual return, filed for the taxable year in which the regulation provisions first apply, that indicates that the partnership is making the election under this section. The revisions to §§ 1.1446-3(b)(2), 1.1446-3(b)(3)(i)(A) and 1.1446-5(c)(2) contained in the final regulations published in 2008 apply to partnership taxable years beginning after December 31, 2007. See § 1.1446-6(f) and (g) for the Effective/Applicability date and Transition rule for § 1.1446-6.
+
+[T.D. 9200, 70 FR 28717, May 18, 2005, as amended by T.D. 9394, 73 FR 23085, Apr. 29, 2008]

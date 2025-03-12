@@ -1,0 +1,9 @@
+##### § 800.701 Obligation of parties to provide information. #####
+
+(a) Parties to a transaction that is notified under subpart D shall provide information to the Staff Chairperson that will enable the Committee to conduct a full review and/or investigation of the proposed transaction, and shall promptly advise the Staff Chairperson of any material changes in plans or information pursuant to § 800.402(h). If deemed necessary by the Committee, information may be obtained from parties to a transaction or other persons through subpoena or otherwise, pursuant to 50 U.S.C. App. 2155(a).
+
+(b) Documentary materials or information required or requested to be filed with the Committee under this part shall be submitted in English. Supplementary materials, such as annual reports, written in a foreign language, shall be submitted in certified English translation.
+
+(c) Any information filed with the Committee by a party to a covered transaction in connection with any action for which a report is required pursuant to section 721(l)(3)(B) with respect to the implementation of a mitigation agreement or condition described in section 721(l)(1)(A) shall be accompanied by a certification that complies with the requirements of section 721(n) and § 800.202. A sample certification may be found at the Committee's section of the Department of the Treasury Web site at *http://www.treas.gov/offices/international-affairs/cfius/index.shtml.*
+
+(d) At the conclusion of a review or investigation, each party that has filed additional information subsequent to the original notice shall file a final certification. (See § 800.202.) A sample certification may be found at the Committee's section of the Department of the Treasury Web site at *http://www.treas.gov/offices/international-affairs/cfius/index.shtml.*

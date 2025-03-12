@@ -1,0 +1,3 @@
+##### § 2400.64 Alterations to Plan of Study. #####
+
+Although Junior Fellows are expected to pursue full-time study and Senior Fellows to pursue part-time study, the Foundation may permit Junior Fellows with an established need (such as the need to accept a teaching position) to study part time and Senior Fellows with established need (such as great distance between the Fellow's residence and the nearest university, thus necessitating a full-time leave of absence from employment in order to study) to study full time.

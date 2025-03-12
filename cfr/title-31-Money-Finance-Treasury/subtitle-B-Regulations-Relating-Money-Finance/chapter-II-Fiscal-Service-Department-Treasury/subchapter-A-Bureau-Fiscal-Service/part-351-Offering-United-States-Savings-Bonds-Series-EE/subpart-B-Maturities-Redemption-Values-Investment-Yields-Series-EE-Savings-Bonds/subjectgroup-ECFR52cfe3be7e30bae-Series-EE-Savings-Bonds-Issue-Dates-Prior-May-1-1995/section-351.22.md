@@ -1,0 +1,9 @@
+##### § 351.22 When does the redemption value increase for bonds issued prior to May 1, 1995? #####
+
+(a) *Bonds with issue dates from January 1, 1980, through October 1, 1980.* For bonds with issue dates from January 1, 1980, through October 1, 1980, the redemption value increases on the first day of each month from the third through the thirtieth month after issue, and thereafter on the first day of each successive 6-month period.
+
+(b) *Bonds with issue dates from November 1, 1980, through October 1, 1986.* For bonds with issue dates from November 1, 1980, through October 1, 1986, the redemption value increases on the first day of each month from the third through the eighteenth month after issue, and thereafter on the first day of each successive 6-month period.
+
+(c) *Bonds with issue dates from November 1, 1986, through February 1, 1993.* For bonds with issue dates from November 1, 1986, through February 1, 1993, the redemption values increase on the first day of each month from the third through the thirtieth month after issue, and thereafter on the first day of each successive 6-month period.
+
+(d) *Bonds with issue dates of March 1, 1993, through April 1, 1995.* For bonds with issue dates of March 1, 1993, through April 1, 1995, the redemption values increase on the first day of each month from the third through the sixtieth month after issue, and thereafter either on the first day of each month or on the first day of each successive 6-month period, whichever accrual schedule ensures that the actual yield from issue date to redemption date is in no case less than 4 percent per annum, compounded semiannually.

@@ -1,0 +1,3 @@
+##### § 1606.14 Recompetition. #####
+
+After a final decision has been issued by the Corporation terminating financial assistance to a recipient in whole for any service area, the Corporation shall implement a new competitive bidding process for the affected service area. Until a new recipient has been awarded a grant pursuant to such process, the Corporation shall take all practical steps to ensure the continued provision of legal assistance in the service area pursuant to § 1634.11 of this part.

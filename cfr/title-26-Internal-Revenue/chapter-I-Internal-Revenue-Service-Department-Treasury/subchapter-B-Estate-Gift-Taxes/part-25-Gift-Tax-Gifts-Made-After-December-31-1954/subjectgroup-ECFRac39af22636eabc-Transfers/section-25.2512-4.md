@@ -1,0 +1,3 @@
+##### § 25.2512-4 Valuation of notes. #####
+
+The fair market value of notes, secured or unsecured, is presumed to be the amount of unpaid principal, plus accrued interest to the date of the gift, unless the donor establishes a lower value. Unless returned at face value, plus accrued interest, it must be shown by satisfactory evidence that the note is worth less than the unpaid amount (because of the interest rate, or date of maturity, or other cause), or that the note is uncollectible in part (by reason of the insolvency of the party or parties liable, or for other cause), and that the property, if any, pledged or mortgaged as security is insufficient to satisfy it.

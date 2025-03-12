@@ -1,0 +1,7 @@
+##### § 343.2 Issue date and purchase. #####
+
+(a) *Issue date.* The issue date must be a business day. The bonds will be issued as of the date of receipt of Form PD F 3871 “Application for Issue of United States Mortgage Guaranty Insurance Company Tax and Loss Bonds” and receipt of the remittance of funds for the full amount of the bond(s). Applications under this offering must be submitted to the Division of Special Investments. An application may be submitted by fax at (304) 480-7786 or (304) 480-6818, by mail, or by other carrier. Applications submitted by mail should be sent by certified or registered mail.
+
+(b) *Purchase.* Tax and loss bonds may only be purchased from the Division of Special Investments. The purchaser will instruct their financial institution to submit the exact amount of funds on the requested issue date to the Division of Special Investments via the Fedwire funds transfer system, with credit directed to the Treasury's General Account, according to wire instructions obtained from the Division of Special Investments (see § 343.1(g)). Full payment should be submitted by 3:00 P.M. Eastern time to ensure that settlement of the transaction occurs.
+
+(Approved by the Office of Management and Budget under control number 1535-0127)

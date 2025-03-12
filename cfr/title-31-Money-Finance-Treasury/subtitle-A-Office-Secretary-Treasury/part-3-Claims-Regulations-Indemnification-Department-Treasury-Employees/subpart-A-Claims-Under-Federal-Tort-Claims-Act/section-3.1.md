@@ -1,0 +1,5 @@
+##### § 3.1 Scope of regulations. #####
+
+(a) The regulations in this part shall apply to claims asserted under the Federal Tort Claims Act, as amended, 28 U.S.C. 2672, accruing on or after January 18, 1967, for money damages against the United States for injury to or loss of property or personal injury or death caused by the negligent or wrongful act or omission of an employee of the Department while acting within the scope of his office or employment, under circumstances where the United States if a private person, would be liable to the claimant for such damage, loss, injury, or death, in accordance with the law of the place where the act or omission occurred. The regulations in this subpart do not apply to any tort claims excluded from the Federal Tort Claims Act, as amended, under 28 U.S.C. 2680.
+
+(b) Unless specifically modified by the regulations in this part, procedures and requirements for filing and handling claims under the Federal Tort Claims Act shall be in accordance with the regulations issued by the Department of Justice, at 28 CFR part 14, as amended.

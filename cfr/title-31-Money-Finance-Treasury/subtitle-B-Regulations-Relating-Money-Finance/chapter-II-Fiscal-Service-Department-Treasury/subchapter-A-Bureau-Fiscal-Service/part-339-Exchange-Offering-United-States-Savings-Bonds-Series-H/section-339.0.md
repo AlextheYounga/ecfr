@@ -1,0 +1,5 @@
+##### § 339.0 Offering of Series H bonds in exchange for Series E bonds and savings notes. #####
+
+The Secretary of the Treasury, pursuant to the authority of the Second Liberty Bond Act, as amended, hereby offers to the people of the United States, U.S. Savings Bonds of Series H in exchange for outstanding U.S. Savings Bonds of Series E and U.S. Savings Notes (freedom shares) without regard to the annual limitation on holdings for the Series H bonds. The Series H bonds offered hereunder are those described in Department Circular No. 905, current revision, except as otherwise specifically provided herein. This offering will continue until terminated by the Secretary of the Treasury.
+
+Editorial Note:The sale of U.S. Savings Bonds, Series H, was terminated at the close of business Dec. 31, 1979. See 44 FR 77158, Dec. 31, 1979.

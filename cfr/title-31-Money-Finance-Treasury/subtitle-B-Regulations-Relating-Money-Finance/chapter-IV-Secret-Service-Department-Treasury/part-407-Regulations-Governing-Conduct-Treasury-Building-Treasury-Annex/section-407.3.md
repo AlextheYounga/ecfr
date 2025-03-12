@@ -1,0 +1,3 @@
+##### § 407.3 Recording presence. #####
+
+Except as otherwise ordered, the property shall be closed to the public after normal working hours and at such other times as may be necessary for the orderly conduct of the business of the Treasury Department. The property shall also be closed to the public when, in the opinion of the Assistant Secretary for Administration, or his delegate, an emergency situation exists. Admission to the property during periods when the property is closed to the public will be limited to authorized individuals who may be required to sign the register and/or display identification documents when requested by Treasury guards or other authorized individuals.

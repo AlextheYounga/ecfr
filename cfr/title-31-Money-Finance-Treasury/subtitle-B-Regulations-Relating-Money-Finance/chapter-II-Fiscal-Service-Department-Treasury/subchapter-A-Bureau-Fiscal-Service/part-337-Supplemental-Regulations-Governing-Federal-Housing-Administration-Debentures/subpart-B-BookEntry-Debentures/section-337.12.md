@@ -1,0 +1,11 @@
+##### § 337.12 Applicability of TREASURY DIRECT regulations. #####
+
+The regulations governing the TREASURY DIRECT Book-Entry Securities System (TREASURY DIRECT) (part 357 of this chapter) apply to govern transactions in FHA book-entry debentures, with the following exceptions:
+
+(a) *Securities account.* (See § 357.20 of this chapter.) An account in the book-entry debenture system may be established by the Department of the Treasury upon receipt of the request that a new debenture be issued or that a certificated debenture be converted to book-entry form. The statement of account shall contain information regarding the account as of the date of such statement. It will include a unique account number, but will not include price information.
+
+(b) *Transfers.* (See § 357.22 of this chapter.) A book-entry debenture may be transferred only between accounts established in the FHA book-entry debenture system.
+
+(c) *Debentures announced for call.* Debentures, which by their terms are subject to call, may be called for redemption, in whole or in part, at par and accrued interest, on any interest date on three months' notice. For purposes of a transaction request affecting ownership and/or payment instructions with respect to a debenture announced for call, a proper request must be received not less than twenty (20) calendar days preceding the next payment date. If the twentieth day preceding a payment date falls on a Saturday, Sunday, or a Federal holiday, the last day set for the receipt of a transaction request will be the last business day preceding that date. If a transaction request is received less than twenty (20) calendar days preceding a payment date, the Department may, in its discretion, act on such request if sufficient time remains for processing. If a transaction request is received too late for completion of the requested transaction, principal and final interest on the called debentures will be paid to the owner of record and sent to the payment address of record.
+
+(d) *Payments.* (See § 357.26 of this chapter.) Direct deposit (electronic funds transfer) payments with respect to debentures, e.g., principal, interest and cash adjustments, will be made without prenotification messages.

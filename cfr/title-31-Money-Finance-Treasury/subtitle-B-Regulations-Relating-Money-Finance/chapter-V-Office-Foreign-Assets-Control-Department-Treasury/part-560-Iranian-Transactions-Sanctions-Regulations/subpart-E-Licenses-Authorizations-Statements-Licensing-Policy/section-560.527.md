@@ -1,0 +1,3 @@
+##### § 560.527 Rescheduling existing loans. #####
+
+Specific licenses may be issued on a case-by-case basis for rescheduling loans or otherwise extending the maturities of existing loans, and for charging fees or interest at commercially reasonable rates, in connection therewith, provided that no new funds or credits are thereby transferred or extended to Iran or the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211.

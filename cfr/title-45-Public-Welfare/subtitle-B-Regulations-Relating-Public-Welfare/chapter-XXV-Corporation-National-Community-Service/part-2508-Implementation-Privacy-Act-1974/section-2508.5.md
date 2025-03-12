@@ -1,0 +1,3 @@
+##### § 2508.5 When does the Corporation publish its notice of its system of records? #####
+
+The Corporation shall publish annually a notice of its system of records maintained by it as defined herein in the format prescribed by the General Services Administration in the Federal Register; provided, however, that such publication shall not be made for those systems of records maintained by other agencies while in the temporary custody of the Corporation.

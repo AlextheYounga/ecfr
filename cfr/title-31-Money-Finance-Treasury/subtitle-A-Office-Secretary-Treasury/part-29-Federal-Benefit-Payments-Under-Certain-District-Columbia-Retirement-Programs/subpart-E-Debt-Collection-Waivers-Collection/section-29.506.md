@@ -1,0 +1,5 @@
+##### § 29.506 Recovery of other debts owed to the United States. #####
+
+(a) *Procedures for Creditor Agencies.* Agencies seeking to recover a debt by offset of Federal Benefit Payments payable to the debtor must comply with the offset procedures set forth in 31 U.S.C. 3716 and the FCCS. A creditor agency may seek to collect a debt through offset of Federal Benefit Payments pursuant to the Department's procedures for administrative offset set forth in 31 CFR part 5.
+
+(b) *Offset by the Benefits Administrator.* As required by 31 U.S.C. 3716(c), the Benefits Administrator must compare payment records of the Retirement Funds with records of debts submitted to the Financial Management Service for collection by administrative offset, and must offset payments to satisfy, in whole or in part, debts owed by any annuitant.

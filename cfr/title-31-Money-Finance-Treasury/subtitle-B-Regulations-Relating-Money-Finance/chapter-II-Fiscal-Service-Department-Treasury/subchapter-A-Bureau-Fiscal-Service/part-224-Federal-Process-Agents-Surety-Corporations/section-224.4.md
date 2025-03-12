@@ -1,0 +1,3 @@
+##### § 224.4 When must a surety corporation appoint a process agent? #####
+
+A surety corporation must appoint a process agent when either the State where the bond is filed or the State where the principal resides is different from the State where the surety corporation is incorporated. In such a case, the surety corporation must appoint a process agent in each such State that is different from the State where the surety is incorporated.

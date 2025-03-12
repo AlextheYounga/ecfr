@@ -1,0 +1,7 @@
+##### § 20.6011-1 General requirement of return, statement, or list. #####
+
+(a) *General rule.* Every person made liable for any tax imposed by subtitle B of the Code shall make such returns or statements as are required by the regulations in this part. The return or statement shall include therein the information required by the applicable regulations or forms.
+
+(b) *Use of prescribed forms.* Copies of the forms prescribed by §§ 20.6018-1 and 20.6036-1 may be obtained from district directors. The fact that an executor has not been furnished with copies of these forms will not excuse him from making a return or, if applicable, from filing a preliminary notice. Application for a form shall be made to the district director in ample time for the executor to have the form prepared, verified, and filed with the appropriate internal revenue office on or before the date prescribed for the filing thereof (see §§ 20.6071-1 and 20.6075-1). The executor shall carefully prepare the return and, if applicable, the preliminary notice so as to set forth fully and clearly the data called for therein. A return or, if applicable, a preliminary notice which has not been so prepared will not be accepted as meeting the requirements of §§ 20.6018-1 through 20.6018-4, and § 20.6036-1.
+
+[T.D. 6296, 23 FR 4529, June 24, 1958, as amended by T.D. 7238, 37 FR 28720, Dec. 29, 1972]

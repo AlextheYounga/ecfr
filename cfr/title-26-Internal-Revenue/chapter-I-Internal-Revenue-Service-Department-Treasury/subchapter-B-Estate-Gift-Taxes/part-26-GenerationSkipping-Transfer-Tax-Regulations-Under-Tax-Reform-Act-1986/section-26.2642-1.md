@@ -1,0 +1,35 @@
+##### § 26.2642-1 Inclusion ratio. #####
+
+(a) *In general.* Except as otherwise provided in this section, the inclusion ratio is determined by subtracting the applicable fraction (rounded to the nearest one-thousandth (.001)) from 1. In rounding the applicable fraction to the nearest one-thousandth, any amount that is midway between one one-thousandth and another one-thousandth is rounded up to the higher of those two amounts.
+
+(b) *Numerator of applicable fraction* - (1) *In general.* Except as otherwise provided in this paragraph (b), and in §§ 26.2642-3 (providing a special rule for charitable lead annuity trusts) and 26.2642-4 (providing rules for the redetermination of the applicable fraction), the numerator of the applicable fraction is the amount of GST exemption allocated to the trust (or to the transferred property in the case of a direct skip not in trust).
+
+(2) *GSTs occurring during an ETIP* - (i) *In general.* For purposes of determining the inclusion ratio with respect to a taxable termination or a taxable distribution that occurs during an ETIP, the numerator of the applicable fraction is the sum of -
+
+(A) The GST exemption previously allocated to the trust (including any allocation made to the trust prior to any taxable termination or distribution) reduced (but not below zero) by the nontax amount of any prior GSTs with respect to the trust; and
+
+(B) Any GST exemption allocated to the trust on a timely ETIP return filed after the termination of the ETIP. See § 26.2632-1(c)(5) *Example 2.*
+
+(ii) *Nontax amount of a prior GST.* (*1*) The nontax amount of a prior GST with respect to the trust is the amount of the GST multiplied by the applicable fraction attributable to the trust at the time of the prior GST.
+
+(*2*) For rules regarding the allocation of GST exemption to property during an ETIP, see § 26.2632-1(c).
+
+(c) *Denominator of applicable fraction* - (1) *In general.* Except as otherwise provided in this paragraph (c) and in §§ 26.2642-3 and 26.2642-4, the denominator of the applicable fraction is the value of the property transferred to the trust (or transferred in a direct skip not in trust) (as determined under § 26.2642-2) reduced by the sum of -
+
+(i) Any Federal estate tax and any State death tax incurred by reason of the transfer that is chargeable to the trust and is actually recovered from the trust;
+
+(ii) The amount of any charitable deduction allowed under section 2055, 2106, or 2522 with respect to the transfer; and
+
+(iii) In the case of a direct skip, the value of the portion of the transfer that is a nontaxable gift. See paragraph (c)(3) of this section for the definition of nontaxable gift.
+
+(2) *Zero denominator.* If the denominator of the applicable fraction is zero, the inclusion ratio is zero.
+
+(3) *Nontaxable gifts.* Generally, for purposes of chapter 13, a transfer is a nontaxable gift to the extent the transfer is excluded from taxable gifts by reason of section 2503(b) (after application of section 2513) or section 2503(e). However, a transfer to a trust for the benefit of an individual is not a nontaxable gift for purposes of this section unless -
+
+(i) Trust principal or income may, during the individual's lifetime, be distributed only to or for the benefit of the individual; and
+
+(ii) The assets of the trust will be includible in the gross estate of the individual if the individual dies before the trust terminates.
+
+(d) *Examples.* The following examples illustrate the provisions of this section. See § 26.2652-2(d) *Examples 2* and *3* for illustrations of the computation of the inclusion ratio where the special (reverse QTIP) election may be applicable.
+
+Example 1. Computation of the inclusion ratio,T transfers $100,000 to a newly-created irrevocable trust providing that income is to be accumulated for 10 years. At the end of 10 years, the accumulated income is to be distributed to T's child, C, and the trust principal is to be paid to T's grandchild. T allocates $40,000 of T's GST exemption to the trust on a timely-filed gift tax return. The applicable fraction with respect to the trust is .40 ($40,000 (the amount of GST exemption allocated to the trust) over $100,000 (the value of the property transferred to the trust)). The inclusion ratio is .60 (1 − .40). If the maximum Federal estate tax rate is 55 percent at the time of a GST, the rate of tax applicable to the transfer (applicable rate) will be .333 (55 percent (the maximum estate tax rate) × .60 (the inclusion ratio)).Example 2. Gift entirely nontaxable,On December 1, 1996, T transfers $10,000 to an irrevocable trust for the benefit of T's grandchild, GC. GC possesses a right to withdraw any contributions to the trust such that the entire transfer qualifies for the annual exclusion under section 2503(b). Under the terms of the trust, the income is to be paid to GC for 10 years or until GC's prior death. Upon the expiration of GC's income interest, the trust principal is payable to GC or GC's estate. The transfer to the trust is a direct skip. T made no prior gifts to or for the benefit of GC during 1996. The entire $10,000 transfer is a nontaxable transfer. For purposes of computing the tax on the direct skip, the denominator of the applicable fraction is zero, and thus, the inclusion ratio is zero.Example 3. Gift nontaxable in part,T transfers $12,000 to an irrevocable trust for the benefit of T's grandchild, GC. Under the terms of the trust, the income is to be paid to GC for 10 years or until GC's prior death. Upon the expiration of GC's income interest, the trust principal is payable to GC or GC's estate. Further, GC has the right to withdraw $10,000 of any contribution to the trust such that $10,000 of the transfer qualifies for the annual exclusion under section 2503(b). The amount of the nontaxable transfer is $10,000. Solely for purposes of computing the tax on the direct skip, T's transfer is divided into two portions. One portion is equal to the amount of the nontaxable transfer ($10,000) and has a zero inclusion ratio; the other portion is $2,000 ($12,000 − $10,000). With respect to the $2,000 portion, the denominator of the applicable fraction is $2,000. Assuming that T has sufficient GST exemption available, the numerator of the applicable fraction is $2,000 (unless T elects to have the automatic allocation provisions not apply). Thus, assuming T does not elect to have the automatic allocation not apply, the applicable fraction is one ($2,000/$2,000 = 1) and the inclusion ratio is zero (1 − 1 = 0).Example 4. Gift nontaxable in part,Assume the same facts as in *Example 3,* except T files a timely Form 709 electing that the automatic allocation of GST exemption not apply to the $12,000 transferred in the direct skip. T's transfer is divided into two portions, a $10,000 portion with a zero inclusion ratio and a $2,000 portion with an applicable fraction of zero (0/$2,000 = 0) and an inclusion ratio of one (1 − 0 = 1).

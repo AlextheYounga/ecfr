@@ -1,0 +1,9 @@
+##### § 1.669(c)-3A Information requirements with respect to beneficiary. #####
+
+(a) *Information to be supplied by beneficiary* - (1) *Use of exact method.* The beneficiary must supply the information required by subparagraph (3) of § 1.668(b)-4A(a) for any prior taxable year for which a recomputation is required under either the exact method or the short-cut method. Such information shall be filed with the beneficiary's return for the year in which the tax under section 668(a)(3) is imposed.
+
+(2) *Failure to furnish.* If the beneficiary fails to furnish the information required by this paragraph for any prior year involved in the exact method, he may not use such method and the tax computed under paragraph (c) of § 1.669(b)-1A (the short-cut method) shall be deemed to be the amount of partial tax imposed by section 668(a)(3). See, however, paragraph (b) of this section for an exception to this rule where the short-cut method is not permitted. If he cannot furnish the information required for a prior year involved in the short-cut method, such year will be recomputed on the basis of the best information available.
+
+(b) *Exception.* If, by reason of § 1.669(b)-1A(e), the beneficiary may not compute the partial tax on the capital gain distribution under § 1.669(b)-1A(c) (the short-cut method), the provisions of subparagraph (2) of paragraph (a) of this section shall not apply. In such case, if the beneficiary fails to provide the information required by § 1.668(b)-4A(a)(3) for any prior taxable year, the district director shall, by utilizing whatever information is available to him (including information supplied by the beneficiary), determine the beneficiary's income and related expenses for such prior taxable year.
+
+[T.D. 7204, 37 FR 17156, Aug. 25, 1972]

@@ -1,0 +1,3 @@
+##### § 1612.1 Purpose. #####
+
+The purpose of this part is to ensure that LSC recipients and their employees do not engage in certain prohibited activities, including representation before legislative bodies or other direct lobbying activity, grassroots lobbying, participation in rulemaking, public demonstrations, advocacy training, and certain organizing activities. The part also provides guidance on when recipients may participate in public rulemaking or in efforts to encourage State or local governments to make funds available to support recipient activities, and when they may respond to requests of legislative and administrative officials.

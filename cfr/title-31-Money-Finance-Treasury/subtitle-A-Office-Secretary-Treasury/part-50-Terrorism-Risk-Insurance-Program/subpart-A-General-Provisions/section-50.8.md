@@ -1,0 +1,13 @@
+##### § 50.8 Procedure for requesting determinations of controlling influence. #####
+
+(a) An insurer or insurers not having control over another insurer under § 50.5(c)(2)(i) or (c)(2)(ii) may make a written submission to Treasury to rebut a presumption of controlling influence under § 50.5(c)(4)(i) through (iv) or otherwise to request a determination of controlling influence. Such submissions shall be made to the Terrorism Risk Insurance Program Office, Department of the Treasury, Suite 2110, 1425 New York Ave NW, Washington, D.C. 20220. The submission should be entitled, “Controlling Influence Submission,” and should provide the full name and address of the submitting insurer(s) and the name, title, address and telephone number of the designated contact person(s) for such insurer(s).
+
+(b) Treasury will review submissions and determine whether Treasury needs additional written or orally presented information. In its discretion, Treasury may schedule a date, time and place for an oral presentation by the insurer(s).
+
+(c) An insurer or insurers must provide all relevant facts and circumstances concerning the relationship(s) between or among the affected insurers and the control factors in § 50.5(c)(4)(i) through (iv); and must explain in detail any basis for why the insurer believes that no controlling influence exists (if a presumption is being rebutted) in light of the particular facts and circumstances, as well as the Act's language, structure and purpose. Any confidential business or trade secret information submitted to Treasury should be clearly marked. Treasury will handle any subsequent request for information designated by an insurer as confidential business or trade secret information in accordance with Treasury's Freedom of Information Act regulations at 31 CFR Part 1.
+
+(d) Treasury will review and consider the insurer submission and other relevant facts and circumstances. Unless otherwise extended by Treasury, within 60 days after receipt of a complete submission, including any additional information requested by Treasury, and including any oral presentation, Treasury will issue a final determination of whether one insurer has a controlling influence over another insurer for purposes of the Program. The determination shall set forth Treasury's basis for its determination.
+
+(e) This § 50.8 supersedes the Interim Guidance issued by Treasury in a notice published on March 27, 2003 (68 FR 15039).
+
+(Approved by the Office of Management and Budget under control number 1505-0190)[68 FR 41266, July 11, 2003]

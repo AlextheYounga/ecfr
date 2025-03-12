@@ -1,0 +1,3 @@
+##### § 4.1 Procedures. #####
+
+The procedures for filing a claim with the Treasury Department for personal property that is lost or damaged incident to service are contained in Treasury Directive 32-13, “Claims for Loss or Damage to Personal Property,” and Treasury Department Publication 32-13, “Policies and Procedures For Employees' Claim for Loss or Damage to Personal Property Incident to Service.”

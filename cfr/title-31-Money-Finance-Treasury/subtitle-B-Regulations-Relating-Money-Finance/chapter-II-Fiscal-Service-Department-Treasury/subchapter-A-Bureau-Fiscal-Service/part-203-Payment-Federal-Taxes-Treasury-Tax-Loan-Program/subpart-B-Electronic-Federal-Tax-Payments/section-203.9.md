@@ -1,0 +1,3 @@
+##### § 203.9 Scope of the subpart. #####
+
+This subpart prescribes the rules that financial institutions must follow when they process electronic Federal tax payment transactions. A financial institution is not required to be designated as a TT&L depositary in order to process electronic Federal tax payments. In addition, a financial institution does not become a TT&L depositary by processing electronic Federal tax payments under this subpart and may not represent itself as a TT&L depositary because it does so.

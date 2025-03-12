@@ -1,0 +1,3 @@
+##### § 403.56 All bids on unit basis. #####
+
+All competitive bids shall be on a unit basis. Thus, for example, if a number of forfeited automobiles are advertised for sale at the same date, hour and place, whether or not in the same notice of sale, a separate individual bid is required as to each automobile. The Commissioner or his delegate will not accept one blanket bid to cover the entire group of automobiles offered for sale.

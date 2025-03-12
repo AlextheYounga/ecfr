@@ -1,0 +1,3 @@
+##### § 1150.25 Will the collection of a claim by salary offset act as a waiver of my rights to dispute the claimed debt? #####
+
+Your involuntary payment of all or any portion of a debt under this subpart will not be construed as a waiver of any rights that you may have under 5 U.S.C. 5514 or other provisions of a law or written contract, unless there are statutory or contractual provisions to the contrary.

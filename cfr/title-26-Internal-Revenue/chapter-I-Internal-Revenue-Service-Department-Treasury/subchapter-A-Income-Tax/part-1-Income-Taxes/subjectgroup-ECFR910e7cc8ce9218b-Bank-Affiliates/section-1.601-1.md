@@ -1,0 +1,13 @@
+##### § 1.601-1 Special deduction for bank affiliates. #####
+
+(a) The special deduction described in section 601 is allowed:
+
+(1) To a holding company affiliate of a bank, as defined in section 2 of the Banking Act of 1933 (12 U.S.C. 221a), which holding company affiliate holds, at the end of the taxable year, a general voting permit granted by the Board of Governors of the Federal Reserve System.
+
+(2) In the amount of the earnings or profits of such holding company affiliate which, in compliance with section 5144 of the Revised Statutes (12 U.S.C. 61), has been devoted by it during the taxable year to the acquisition of readily marketable assets other than bank stock.
+
+(3) Upon certification by the Board of Governors of the Federal Reserve System to the Commissioner that such an amount of the earnings or profits has been so devoted by such affiliate during the taxable year
+
+No deduction is allowable under section 601 for the amount of readily marketable assets in excess of what is required by section 5144 of the Revised Statutes (12 U.S.C. 61) to be acquired by such affiliate, or in excess of the taxable income for the taxable year computed without regard to the special deductions for corporations provided in part VIII (section 241 and following), subchapter B, chapter 1 of the Code. Nor may the aggregate of the deductions allowable under section 601 and the credits allowable under the corresponding provision of any prior income tax law for all taxable years exceed the amount required to be devoted under such section 5144 to the acquisition of readily marketable assets other than bank stock.
+
+(b) Every taxpayer claiming a deduction provided for in section 601 shall attach to its return a supplementary statement setting forth all the facts and information upon which the claim is predicated, including such facts and information as the Board of Governors of the Federal Reserve System may prescribe as necessary to enable it, upon the request of the Commissioner subsequent to the filing of the return, to certify to the Commissioner the amount of earnings or profits devoted to the acquisition of such readily marketable assets. A certified copy of such supplementary statement shall be forwarded by the taxpayer to the Board of Governors at the time of the filing of the return. The holding company affiliate shall also furnish the Board of Governors such further information as the Board shall require. For the requirements with respect to the amount of such readily marketable assets which must be acquired and maintained by a holding company affiliate to which a voting permit has been granted, see section 5144(b) and (c) of the Revised Statutes (12 U.S.C. 61).

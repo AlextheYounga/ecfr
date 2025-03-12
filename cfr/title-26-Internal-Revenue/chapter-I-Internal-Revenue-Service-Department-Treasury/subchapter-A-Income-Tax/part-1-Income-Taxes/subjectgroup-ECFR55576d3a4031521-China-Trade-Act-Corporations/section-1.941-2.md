@@ -1,0 +1,9 @@
+##### § 1.941-2 Meaning of terms used in connection with China Trade Act corporations. #####
+
+(a) A China Trade Act corporation is one organized under the provisions of the China Trade Act, 1922 (15 U.S.C. chapter 4).
+
+(b) The term “special dividend” means the amount which is distributed as a dividend to or for the benefit of such persons as on the last day of the taxable year were resident in Formosa, Hong Kong, the United States, or possessions of the United States, or were individual citizens of the United States, and owned shares of stock of the corporation. Such dividend must be distributed prior to or at the time fixed by law for filing the return of the corporation, including the period of any extension of time granted under rules and regulations prescribed by the Commissioner with the approval of the Secretary or his delegate. Such special dividend does not include any other amounts payable or to be payable to such persons or for their benefit by reason of their interest in the corporation and must be made in proportion to the par value of the shares of stock of the corporation owned by each.
+
+(c) For the purposes of section 941, the shares of stock of a China Trade Act corporation are considered to be owned by the person in whom the equitable right to the income from such shares is in good faith vested.
+
+(d) “Taxable income derived from sources within Formosa and Hong Kong” is the sum of the taxable income from sources wholly within Formosa and Hong Kong and that portion of the taxable income from sources partly within and partly without Formosa and Hong Kong which may be allocated to sources within Formosa and Hong Kong. The method of computing this income is similar to that described in part I (section 861 and following), subchapter N, chapter 1 of the Code, and the regulations thereunder.

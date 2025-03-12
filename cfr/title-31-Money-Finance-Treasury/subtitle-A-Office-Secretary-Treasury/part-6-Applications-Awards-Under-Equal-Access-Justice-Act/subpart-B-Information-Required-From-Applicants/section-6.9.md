@@ -1,0 +1,5 @@
+##### § 6.9 Net worth exhibit. #####
+
+(a) Each applicant except a qualified tax-exempt organization, or cooperative association must provide with its application a detailed exhibit showing the net worth of the applicant and any affiliates (as defined in § 6.4(f)) when the proceeding was initiated. In the case of national banking associations, “net worth” shall be considered to be the total capital and surplus as reported, in conformity with the applicable instructions and guidelines, on the bank's last Consolidated Report of Condition filed before the initiation of the underlying proceeding.
+
+(b) The exhibit may be in any form convenient to the applicant that provides full disclosure of the applicant's and its affiliates assets and liabilities and is sufficient to determine whether the applicant qualifies under the standards in this part. The adjudicative officer may require an applicant to file additional information to determine its eligibility for an award.

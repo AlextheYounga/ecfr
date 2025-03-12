@@ -1,0 +1,25 @@
+##### § 402.21 Fiscal control. #####
+
+(a) Fiscal control and accounting procedures must be sufficient to permit preparation of reports required by the Act, this regulation, and other applicable statutes and regulations.
+
+(b) States must have accounting procedures in place which allow funds provided under this part to be traced from drawdown to allowable SLIAG-related costs. Allowability of the amount and purpose of expenditures must be established for each recipient of SLIAG funds. States must demonstrate that SLIAG-related costs, as defined in this part, incurred in SLIAG-reimbursable activities, equal or exceed the amount of SLIAG funds expended with respect to costs incurred in those activities. Documentation of the method of accounting and appropriate supporting information must be available for audit purposes and for Federal program reviews. To establish allowability of expenditures, States may use methods prescribed in (c) of this section. Alternatively, the State may use any other reliable method of cost calculation, subject to Federal review.
+
+(c)(1) For public assistance, States may establish allowability by accounting for actual expenditures made to or on behalf of identifiable eligible legalized aliens who qualify for and receive assistance and/or services from the recipient, or by use of a statistically valid sampling of a recipient's public assistance caseload.
+
+(2) For public health assistance, States may establish allowability by accounting for actual expenditures made to or on behalf of identifiable eligible legalized aliens, or applicants for lawful temporary resident status under sections 210, 210A, or 245A of the INA, who qualify for and receive such assistance and/or services, by use of a statistically valid sampling of clients in the public health system of the State or local government, or by using the ratio of eligible legalized aliens in a service population to all members of the relevant service population.
+
+(3) For educational services, States must be able to demonstrate that:
+
+(i) Funds provided under this part were used to provide educational services, as defined in this part, to eligible legalized aliens, as defined in this part; and,
+
+(ii) Payments to local educational agencies or other providers of educational services, as described in section 204(c)(3)(C) of the Act, did not exceed the amounts described in § 402.11(e) of this part.
+
+(4) With respect to Phase II outreach, as defined in this part, a State must demonstrate that the costs of activities that provide information directly to specific individuals are attributable only to lawful temporary residents under sections 210, 210A, or 245A of the INA, and applicants for such status whose applications were pending with the Immigration and Naturalization Service at the time information is provided. For Phase II outreach activities that do not involve the provision of information directly to specific individuals, States must demonstrate that such activities are targeted predominantly to or intended primarily for lawful temporary residents under sections 210, 210A, or 245A of the INA or applicants for such status whose applications are pending with the Immigration and Naturalization Service at the time information is provided. The State must demonstrate that the amount of any fiscal year's allotment used for this purpose did not exceed the amount described in § 402.11(k) and was consistent with the limitations of § 402.11(i).
+
+(5) With respect to employment discrimination education and outreach, as defined in this part, the State must demonstrate that funds were expended only for activities described in the State's approved application pursuant to § 402.41(d) and the limitations of § 402.11 (i), (n), and (o) and that the amount of any fiscal year's allotment used for this purpose did not exceed the amount described in § 402.11(1).
+
+(6)(i) For program administrative costs, as defined in this part, a State may establish allowability by use of the proportion of eligible legalized aliens provided assistance and/or services allowable under this part by a recipient, as defined in this part, relative to all persons provided such assistance and/or services; by use of the proportion of program or service costs actually incurred in providing assistance and/or services allowable under this part by a recipient, relative to all costs of providing the same assistance and/or services allowable under this part by the recipient; or by use of such other basis as will document that administrative costs incurred in providing such assistance and/or services and reimbursed under this part are allowable, allocable to SLIAG, and reasonable.
+
+(ii) Consistent with section 604 of the Emergency Immigrant Education Act, of the amount paid to a State educational agency for educational services, only 1.5 percent may be used for administrative costs incurred by the State educational agency in carrying out its function under this part.
+
+[53 FR 7858, Mar. 10, 1988, as amended at 56 FR 21247, May 7, 1991]

@@ -1,0 +1,3 @@
+##### § 91.9 Soliciting, vending, debt collection, and distribution of handbills. #####
+
+The unauthorized soliciting of alms and contributions, the commercial soliciting and vending of all kinds, the display or distribution of commercial advertising, or the collecting of private debts, in or on the property, is prohibited. This rule does not apply to Bureau of the Mint concessions or notices posted by authorized employees on the bulletin boards. Distribution of material such as pamphlets, handbills, and flyers is prohibited without prior approval from the Director of the Mint, or the delegate of the Director.

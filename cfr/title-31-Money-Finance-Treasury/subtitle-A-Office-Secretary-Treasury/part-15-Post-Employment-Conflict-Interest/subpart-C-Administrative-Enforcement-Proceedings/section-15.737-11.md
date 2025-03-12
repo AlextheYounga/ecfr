@@ -1,0 +1,5 @@
+##### § 15.737-11 Institution of proceeding. #####
+
+(a) Whenever the Director has reason to believe that any former officer or employee of the Department has violated 18 U.S.C. 207 (a), (b) or (c), he/she may reprimand such person or institute an administrative disciplinary proceeding for that person's suspension from practice before the Department or a separate statutory agency thereof. The proceeding shall be instituted by a complaint which names the respondent and is signed by the Director and filed in his/her office. Except in cases of willfulness, or where time, the nature of the proceeding, or the public interest does not permit, a proceeding will not be instituted under this section until facts or conduct which may warrant such action have been called to the attention of the proposed respondent in writing and he/she has been accorded the opportunity to provide his/her position on the matter.
+
+(b) The Director shall coordinate proceedings under this part with the Department of Justice in cases where it initiates criminal prosecution.

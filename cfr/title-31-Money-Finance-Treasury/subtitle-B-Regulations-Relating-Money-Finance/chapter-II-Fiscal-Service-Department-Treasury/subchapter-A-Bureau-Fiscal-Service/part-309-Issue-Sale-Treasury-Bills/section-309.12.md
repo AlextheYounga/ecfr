@@ -1,0 +1,5 @@
+##### § 309.12 Relief on account of loss, theft or destruction, etc. #####
+
+(a) Relief on account of the loss, theft, destruction, mutilation or defacement of Treasury bills may be given only under the authority of, and subject to the conditions set forth in section 8 of the act of July 8, 1937 (50 Stat. 481), as amended (31 U.S.C. 738a) and the regulations pursuant thereto in (Treasury Department Circular No. 300 insofar as applicable.
+
+(b) In case of the loss, theft, destruction, mutilation or defacement of Treasury bills, immediate advice, with a full description of the bill or bills involved, should be sent to the Bureau of the Fiscal Service, Division of Securities Operations, Department of the Treasury, Washington, DC 20226, either direct or though any Federal Reserve Bank or Branch, and, if relief under the statutes may be given, instructions and necessary blank forms will be furnished.

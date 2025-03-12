@@ -1,0 +1,5 @@
+##### § 20.2056(b)-10 Effective dates. #####
+
+Except as specifically provided in §§ 20.2056(b)-5(c)(3) (ii) and (iii), 20.2056(b)-7(d)(3), 20.2056(b)-7(e)(5), and 20.2056(b)-8(b), the provisions of §§ 20.2056(b)-5(c), 20.2056(b)-7, 20.2056(b)-8, and 20.2056(b)-9 are applicable with respect to estates of decedents dying after March 1, 1994. With respect to decedents dying on or before such date, the executor of the decedent's estate may rely on any reasonable interpretation of the statutory provisions. In addition, the rule in the last sentence of § 20.2056(b)-5(f)(1) and the rule in the last sentence of § 20.2056(b)-7(d)(1) regarding the effect on the spouse's right to income if applicable local law provides for the reasonable apportionment between the income and remainder beneficiaries of the total return of the trust are applicable with respect to trusts for taxable years ending after January 2, 2004.
+
+[T.D. 8779, 63 FR 44393, Aug. 19, 1998, as amended by T.D. 9102, 69 FR 21, Jan. 2, 2004]

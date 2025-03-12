@@ -1,0 +1,5 @@
+##### § 359.11 What is the semiannual inflation rate? #####
+
+The index used to determine the semiannual inflation rate is the non-seasonally adjusted CPI-U (the Consumer Price Index for All Urban Consumers for the U.S. City Average for All Items, 1982-84 = 100) published by the Bureau of Labor Statistics of the U.S. Department of Labor. (For further information on CPI-U considerations, *see* appendix C to part 359 at section 1.) The semiannual inflation rate reflects the percentage change, if any, in the CPI-U over a six-month period. We announce this rate twice a year, in May and November. The semiannual inflation rate we announced in May 2002 reflects the percentage change between the CPI-U figures from the preceding March 2002 and September 2001. The rate of change over the six-month period, if any, will be expressed as a percentage, rounded to the nearest one-hundredth of one percent. More specifically, the semiannual inflation rate will be determined by the following formula (the resulting rate will be rounded to the nearest one-hundredth of one percent):
+
+Semiannual inflation rate = (CPI − UCurrent − CPI − UPrior) ÷ CPI −UPrior

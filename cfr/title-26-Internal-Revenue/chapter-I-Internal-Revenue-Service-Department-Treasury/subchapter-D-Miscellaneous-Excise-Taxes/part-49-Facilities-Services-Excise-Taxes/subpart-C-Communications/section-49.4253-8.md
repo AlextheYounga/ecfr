@@ -1,0 +1,3 @@
+##### § 49.4253-8 Exemption for terminal facilities in case of wire mileage service. #####
+
+The taxes imposed by section 4251 do not apply to so much of any amount paid for wire mileage service as is paid for, and properly attributable to, the use of any sending or receiving set or device which is station terminal equipment. In general, the term “station terminal equipment” refers to any sending or receiving set or device which is located at the terminals of a line or channel, and does not refer to any such set or device which is otherwise a part of such line or channel.

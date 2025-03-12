@@ -1,0 +1,3 @@
+##### § 29.525 Ordinary and necessary living expenses. #####
+
+An individual's ordinary and necessary living expenses include rent, mortgage payments, utilities, maintenance, transportation, food, clothing, insurance (life, health, and accident), taxes, installment payments for which the individual is already liable, medical expenses, support expenses for which the individual is legally responsible, and other miscellaneous expenses that the individual can establish as being ordinary and necessary.

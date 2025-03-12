@@ -1,0 +1,3 @@
+##### § 641.19 Modification of environmental documents. #####
+
+The responsible official should revise or supplement an environmental document if there is a change in a proposed action that may have more than a minor or transitory effect on the antarctic environment, or if there are new circumstances or information that indicate the action may have impacts not anticipated in the original environmental document.

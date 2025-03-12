@@ -1,0 +1,3 @@
+##### § 301.7423-1 Repayments to officers or employees. #####
+
+The Commissioner is authorized to repay to any officer or employee of the United States the full amount of such sums of money as may be recovered against him in any court, for any internal revenue taxes collected by him, with the cost and expense of suit, and all damages and costs recovered against any officer or employee of the United States in any suit brought against him by reason of anything done in the official performance of his duties under the Code.

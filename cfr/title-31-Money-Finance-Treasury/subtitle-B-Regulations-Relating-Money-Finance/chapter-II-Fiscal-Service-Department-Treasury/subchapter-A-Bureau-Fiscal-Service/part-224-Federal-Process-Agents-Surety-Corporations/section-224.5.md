@@ -1,0 +1,5 @@
+##### § 224.5 Who may a surety corporation appoint to be a process agent? #####
+
+A surety corporation may appoint either of the following as process agent—(a) An official of the State who is authorized or appointed under the law of that jurisdiction to receive service of process on the surety corporation; or
+
+(b) An individual who resides in the jurisdiction of the district court for the district in which a surety bond is filed and who is appointed by the surety corporation by means of a power of attorney. A certified copy of the power of attorney must be filed with the clerk of the district court for the district in which a surety bond is to be provided. In addition, the surety corporation must provide the clerk of the United States District Court at the main office in each judicial district with the required number of authenticated copies of the power of attorney for each divisional office of the court within that judicial district.

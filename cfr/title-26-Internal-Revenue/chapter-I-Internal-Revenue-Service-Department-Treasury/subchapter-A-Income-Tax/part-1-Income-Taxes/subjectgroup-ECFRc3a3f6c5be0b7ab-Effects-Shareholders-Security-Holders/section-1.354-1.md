@@ -1,0 +1,27 @@
+##### § 1.354-1 Exchanges of stock and securities in certain reorganizations. #####
+
+(a) Section 354 provides that under certain circumstances no gain or loss is recognized to a shareholder who surrenders his stock in exchange for other stock or to a security holder who surrenders his securities in exchange for stock. Section 354 also provides that under certain circumstances a security holder may surrender securities and receive securities in the same principal amount or in a lesser principal amount without the recognition of gain or loss to him. The exchanges to which section 354 applies must be pursuant to a plan of reorganization as provided in section 368(a) and the stock and securities surrendered as well as the stock and securities received must be those of a corporation which is a party to the reorganization. Section 354 does not apply to exchanges pursuant to a reorganization described in section 368(a)(1)(D) unless the transferor corporation—
+
+(1) Transfers all or substantially all of its assets to a single corporation, and
+
+(2) Distributes all of its remaining properties (if any) and the stock, securities and other properties received in the exchange to its shareholders or security holders in pursuance of the plan of reorganization. The fact that properties retained by the transferor corporation, or received in exchange for the properties transferred in the reorganization, are used to satisfy existing liabilities not represented by securities and which were incurred in the ordinary course of business before the reorganization does not prevent the application of section 354 to an exchange pursuant to a plan of reorganization defined in section 368(a)(1)(D).
+
+(b) Except as provided in section 354 (c) and (d), section 354 is not applicable to an exchange of stock or securities if a greater principal amount of securities is received than the principal amount of securities the recipient surrenders, or if securities are received and the recipient surrenders no securities. See, however, section 356 and regulations pertaining to such section. See also section 306 with respect to the receipt of preferred stock in a transaction to which section 354 is applicable.
+
+(c) An exchange of stock or securities shall be subject to section 354(a)(1) even though—
+
+(1) Such exchange is not pursuant to a plan of reorganization described in section 368(a), and
+
+(2) The principal amount of the securities received exceeds the principal amount of the securities surrendered or if securities are received and no securities are surrendered—
+
+if such exchange is pursuant to a plan of reorganization for a railroad corporation as defined in section 77(m) of the Bankruptcy Act (11 U.S.C. 205(m)) and is approved by the Interstate Commerce Commission under section 77 of such act or under section 20b of the Interstate Commerce Act (49 U.S.C. 20b) as being in the public interest. Section 354 is not applicable to such exchanges if there is received property other than stock or securities. See, however, section 356 and regulations pertaining to such section.
+
+(d) The rules of section 354 may be illustrated by the following examples:
+
+Example 1.Pursuant to a reorganization under section 368(a) to which Corporations T and W are parties, A, a shareholder in Corporation T, surrenders all his common stock in Corporation T in exchange for common stock of Corporation W. No gain or loss is recognized to A.Example 2.Pursuant to a reorganization under section 368(a) to which Corporations X and Y (which are not railroad corporations) are parties, B, a shareholder in Corporation X, surrenders all his stock in X for stock and securities in Y. Section 354 does not apply to this exchange. See, however, section 356.Example 3.C, a shareholder in Corporation Z (which is not a railroad corporation), surrenders all his stock in Corporation Z in exchange for securities in Corporation Z. Whether or not this exchange is in connection with a recapitalization under section 368(a)(1)(E), section 354 does not apply. See, however, section 302.Example 4.The facts are the same as in *Example 3* of this paragraph (d), except that C receivies solely rights to acquire stock in Corporation Z. Section 354 does not apply.
+
+(e) Except as provided in § 1.356-6, for purposes of section 354, the term *securities* includes rights issued by a party to the reorganization to acquire its stock. For purposes of this section and section 356(d)(2)(B), a right to acquire stock has no principal amount. For this purpose, rights to acquire stock has the same meaning as it does under sections 305 and 317(a). Other Internal Revenue Code provisions governing the treatment of rights to acquire stock may also apply to certain exchanges occurring in connection with a reorganization. See, for example, sections 83 and 421 through 424 and the regulations thereunder. This paragraph (e) applies to exchanges occurring on or after March 9, 1998.
+
+(f) See § 1.356-7(a) and (b) for the treatment of nonqualified preferred stock (as defined in section 351(g)(2)) received in certain exchanges for nonqualified preferred stock or preferred stock. See § 1.356-7(c) for the treatment of preferred stock received in certain exchanges for common or preferred stock described in section 351(g)(2)(C)(i)(II).
+
+[T.D. 6500, 25 FR 11607, Nov. 26, 1960, as amended by T.D. 7616, 44 FR 26869, May 8, 1979; T.D. 8752, 63 FR 410, Jan. 6, 1998; T.D. 8882, 65 FR 31078, May 16, 2000; T.D. 8904, 65 FR 58651, Oct. 2, 2000]

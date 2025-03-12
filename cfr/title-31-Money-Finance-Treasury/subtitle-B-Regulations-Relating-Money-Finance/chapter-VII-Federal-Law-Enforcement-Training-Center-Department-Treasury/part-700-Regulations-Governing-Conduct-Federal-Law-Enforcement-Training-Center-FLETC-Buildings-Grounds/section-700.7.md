@@ -1,0 +1,3 @@
+##### § 700.7 Alcoholic beverages, narcotics, and drugs. #####
+
+Entering or being on the property, or operating a motor vehicle thereon, by a person under the influence of alcoholic beverages, narcotics, hallucinogenic or dangerous drugs, or marijuana is prohibited. The possession or use of any unlawful drug or substance contrary to the provisions of Federal, State, or local law in or on the property is prohibited.

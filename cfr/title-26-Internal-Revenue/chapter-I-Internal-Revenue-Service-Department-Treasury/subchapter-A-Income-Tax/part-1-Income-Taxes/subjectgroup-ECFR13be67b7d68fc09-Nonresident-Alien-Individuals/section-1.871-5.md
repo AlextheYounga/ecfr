@@ -1,0 +1,3 @@
+##### § 1.871-5 Loss of residence by an alien. #####
+
+An alien who has acquired residence in the United States retains his status as a resident until he abandons the same and actually departs from the United States. An intention to change his residence does not change his status as a resident alien to that of a nonresident alien. Thus, an alien who has acquired a residence in the United States is taxable as a resident for the remainder of his stay in the United States.

@@ -1,0 +1,3 @@
+##### § 1.244-1 Deduction for dividends received on certain preferred stock. #####
+
+A corporation is allowed a deduction under section 244 for dividends received on certain preferred stock of certain public utility corporations subject to taxation under chapter 1 of the Code. The deduction is allowable only for dividends received on the preferred stock of a public utility with respect to which the deduction for dividends paid provided in section 247 (relating to dividends paid on certain preferred stock of public utilities) is allowable to the distributing corporation.

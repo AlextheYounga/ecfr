@@ -1,0 +1,5 @@
+##### § 3.5 Lost and found, and abandoned property. #####
+
+Lost articles which are found on the enclave, including money and other personal property, together with any identifying information, must be deposited at the Police Office or with an office (such as the place where found) which may likely have some knowledge of ownership. If the article is deposited with an office other than the Police Office and the owner does not claim it within 30 days, it shall be deposited at the Police Office for further disposition in accordance with General Services Administration regulations (41 CFR part 101-48). Abandoned, or other unclaimed property and, in the absence of specific direction by a court, forfeited property, may be so identified by the Police Office and sold and the proceeds deposited in accordance with 41 CFR 101-45.304 and 101-48.305.
+
+[57 FR 1874, Jan. 16, 1992]

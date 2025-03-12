@@ -1,0 +1,15 @@
+##### § 1.852-6 Records to be kept for purpose of determining whether a corporation claiming to be a regulated investment company is a personal holding company. #####
+
+(a) Every regulated investment company shall maintain in the internal revenue district in which it is required to file its income tax return permanent records showing the information relative to the actual owners of its stock contained in the written statements required by this section to be demanded from the shareholders. The actual owner of stock includes the person who is required to include in gross income in his return the dividends received on the stock. Such records shall be kept at all times available for inspection by any internal revenue officer or employee, and shall be retained so long as the contents thereof may become material in the administration of any internal revenue law.
+
+(b) For the purpose of determining whether a domestic corporation claiming to be a regulated investment company is a personal holding company as defined in section 542, the permanent records of the company shall show the maximum number of shares of the corporation (including the number and face value of securities convertible into stock of the corporation) to be considered as actually or constructively owned by each of the actual owners of any of its stock at any time during the last half of the corporation's taxable year, as provided in section 544.
+
+(c) Statements setting forth the information (required by paragraph (b) of this section) shall be demanded not later than 30 days after the close of the corporation's taxable year as follows:
+
+(1) In the case of a corporation having 2,000 or more record owners of its stock on any dividend record date, from each record holder of 5 percent or more of its stock; or
+
+(2) In the case of a corporation having less than 2,000 and more than 200 record owners of its stock, on any dividend record date, from each record holder of 1 percent or more of its stock; or
+
+(3) In the case of a corporation having 200 or less record owners of its stock, on any dividend record date, from each record holder of one-half of 1 percent or more of its stock.
+
+When making demand for the written statements required of each shareholder by this paragraph, the company shall inform each of the shareholders of his duty to submit as a part of his income tax return the statements which are required by § 1.852-7 if he fails or refuses to comply with such demand. A list of the persons failing or refusing to comply in whole or in part with a company's demand shall be maintained as a part of its record required by this section. A company which fails to keep such records to show the actual ownership of its outstanding stock as are required by this section shall be taxable as an ordinary corporation and not as a regulated investment company.

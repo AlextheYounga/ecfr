@@ -1,0 +1,3 @@
+##### § 353.42 Nonreceipt or loss of check issued in payment. #####
+
+If a check in payment of a bond surrendered for redemption is not received within a reasonable time or is lost after receipt, notice should be given to the same agency to which the bond was surrendered for payment. The notice should give the date the bond was surrendered for payment and describe the bond by series, denomination, serial number, and registration, including the taxpayer identifying number of the owner.

@@ -1,0 +1,3 @@
+##### § 1323.1 Basis and purpose of this part. #####
+
+This program was established to meet the unique needs and circumstances of Older Hawaiian Natives. This part implements title VI (part B) of the Older Americans Act, as amended, by establishing the requirements that a public or nonprofit private organization shall meet in order to receive a grant to promote the delivery of services for older Hawaiian Natives that are comparable to services provided under title III. This part also prescribes application and hearing requirements and procedures for these agrants.

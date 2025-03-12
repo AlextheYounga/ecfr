@@ -1,0 +1,15 @@
+##### § 1.612-1 Basis for allowance of cost depletion. #####
+
+(a) *In general.* The basis upon which the deduction for cost depletion under section 611 is to be allowed in respect of any mineral or timber property is the adjusted basis provided in section 1011 for the purpose of determining gain upon the sale or other disposition of such property except as provided in paragraph (b) of this section. The adjusted basis of such property is the cost or other basis determined under section 1012, relating to the basis of property, adjusted as provided in section 1016, relating to adjustments to basis, and the regulations under such sections. In the case of the sale of a part of such property, the unrecovered basis thereof shall be allocated to the part sold and the part retained.
+
+(b) *Special rules.* (1) The basis for cost depletion of mineral or timber property does not include:
+
+(i) Amounts recoverable through depreciation deductions, through deferred expenses, and through deductions other than depletion, and
+
+(ii) The residual value of land and improvements at the end of operations
+
+In the case of any mineral property the basis for cost depletion does not include amounts representing the cost or value of land for purposes other than mineral production. Furthermore, in the case of certain mineral properties, such basis does not include exploration or development expenditures which are treated under section 615(b) or 616(b) as deferred expenses to be taken into account as deductions on a ratable basis as the units of minerals benefited thereby are produced and sold. However, there shall be included in the basis for cost depletion of oil and gas property the amounts of capitalized drilling and development costs which, as provided in § 1.612-4, are recoverable through depletion deductions. In the case of timber property, the basis for cost depletion does not include amounts representing the cost or value of land.
+
+(2) Where a taxpayer elects to treat the cutting of timber as a sale or exchange of such timber, the basis for cost depletion shall be the fair market value of such timber as of the first day of the taxable year in which such timber is cut and such value shall be considered for such taxable year and all subsequent taxable years as the cost of such timber for all purposes for which such cost is a necessary factor. See section 631(a).
+
+(c) *Cross references.* In cases where the valuation, revaluation, or mineral content of deposits is a factor, see paragraphs (c), (d), (e), and (f) of § 1.611-2. In cases where the valuation, revaluation, or quantity of timber is a factor, see paragraphs (e), (f), and (g) of § 1.611-3. For definitions of the terms *property, fair market value, mineral enterprise, mineral deposit,* and *minerals,* see paragraph (d) of § 1.611-1. For rules with respect to treatment of depletion accounts on taxpayers' books, see paragraph (b) of § 1.611-2 in the case of mineral property, and paragraph (c) of § 1.611-3 in the case of timber property.

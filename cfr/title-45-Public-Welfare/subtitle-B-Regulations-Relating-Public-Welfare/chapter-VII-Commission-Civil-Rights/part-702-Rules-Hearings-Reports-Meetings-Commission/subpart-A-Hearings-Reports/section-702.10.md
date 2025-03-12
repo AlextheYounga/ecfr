@@ -1,0 +1,3 @@
+##### § 702.10 Voluntary witnesses at public session of a hearing. #####
+
+A person who has not been subpoenaed and who has not been afforded an opportunity to appear pursuant to § 702.6 may be permitted, in the discretion of the Commission, to make an oral or written statement at a public session of a hearing. Such person may be questioned to the same extent and in the same manner as other witnesses before the Commission.

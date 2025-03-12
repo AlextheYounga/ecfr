@@ -1,0 +1,5 @@
+##### § 337.0 Scope of regulations. #####
+
+The United States Department of the Treasury is the agent of the Federal Housing Administration for transactions in any debentures which have been or may be issued pursuant to the authority conferred by the National Housing Act, 12 U.S.C. 1701 *et seq.,* as amended from time to time, including Mutual Mortgage Insurance Fund Debentures, Housing Insurance Fund Debentures, War Housing Insurance Fund Debentures, Military Housing Insurance Fund Debentures, and National Defense Housing Insurance Fund Debentures. In accordance with the regulations adopted by the Federal Housing Commissioner and approved by the Secretary of the Treasury, such transactions are governed by regulations of the Department of the Treasury, so far as applicable. The Bureau of the Fiscal Service, Office of Fiscal Service Accounting operates the FHA debenture computer system and performs the day-to-day operations and transactions relating to the debentures.
+
+[66 FR 56432, Nov. 8, 2001]

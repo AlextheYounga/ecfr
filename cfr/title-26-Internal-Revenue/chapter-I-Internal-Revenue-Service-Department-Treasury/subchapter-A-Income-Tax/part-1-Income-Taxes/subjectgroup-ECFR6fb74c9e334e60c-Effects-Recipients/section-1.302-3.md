@@ -1,0 +1,15 @@
+##### § 1.302-3 Substantially disproportionate redemption. #####
+
+(a) Section 302(b)(2) provides for the treatment of an amount received in redemption of stock as an amount received in exchange for such stock if—
+
+(1) Immediately after the redemption the shareholder owns less than 50 percent of the total combined voting power of all classes of stock as provided in section 302(b)(2)(B),
+
+(2) The redemption is a substantially disproportionate redemption within the meaning of section 302(b)(2)(C), and
+
+(3) The redemption is not pursuant to a plan described in section 302(b)(2)(D).
+
+Section 318(a) (relating to constructive ownership of stock) shall apply both in making the disproportionate redemption test and in determining the percentage of stock ownership after the redemption. The requirements under section 302(b)(2) shall be applied to each shareholder separately and shall be applied only with respect to stock which is issued and outstanding in the hands of the shareholders. Section 302(b)(2) only applies to a redemption of voting stock or to a redemption of both voting stock and other stock. Section 302(b)(2) does not apply to the redemption solely of nonvoting stock (common or preferred). However, if a redemption is treated as an exchange to a particular shareholder under the terms of section 302(b)(2), such section will apply to the simultaneous redemption of nonvoting preferred stock (which is not section 306 stock) owned by such shareholder and such redemption will also be treated as an exchange. Generally, for purposes of this section, stock which does not have voting rights until the happening of an event, such as a default in the payment of dividends on preferred stock, is not voting stock until the happening of the specified event. Subsection 302(b)(2)(D) provides that a redemption will not be treated as substantially disproportionate if made pursuant to a plan the purpose or effect of which is a series of redemptions which result in the aggregate in a distribution which is not substantially disproportionate. Whether or not such a plan exists will be determined from all the facts and circumstances.
+
+(b) The application of paragraph (a) of this section is illustrated by the following example:
+
+Example.Corporation M has outstanding 400 shares of common stock of which A, B, C and D each own 100 shares or 25 percent. No stock is considered constructively owned by A, B, C or D under section 318. Corporation M redeems 55 shares from A, 25 shares from B, and 20 shares from C. For the redemption to be disproportionate as to any shareholder, such shareholder must own after the redemptions less than 20 percent (80 percent of 25 percent) of the 300 shares of stock then outstanding. After the redemptions, A owns 45 shares (15 percent), B owns 75 shares (25 percent), and C owns 80 shares (262/3 percent). The distribution is disproportionate only with respect to A.

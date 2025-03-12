@@ -1,0 +1,5 @@
+##### § 1010.717 Disclosing information. #####
+
+(a) Any part of any administrative ruling, including names, addresses, or information related to the business transactions of private parties, may be disclosed pursuant to a request under the Freedom of Information Act, 5 U.S.C. 552. If the request for an administrative ruling contains information which the requestor wishes to be considered for exemption from disclosure under the Freedom of Information Act, the requestor should clearly identify such portions of the request and the reasons why such information should be exempt from disclosure.
+
+(b) A requestor claiming an exemption from disclosure will be notified, at least 10 days before the administrative ruling is issued, of a decision not to exempt any of such information from disclosure so that the underlying request for an administrative ruling can be withdrawn if the requestor so chooses.

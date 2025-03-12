@@ -1,0 +1,21 @@
+##### § 301.7701-1 Classification of organizations for federal tax purposes. #####
+
+(a) *Organizations for federal tax purposes*—(1) *In general.* The Internal Revenue Code prescribes the classification of various organizations for federal tax purposes. Whether an organization is an entity separate from its owners for federal tax purposes is a matter of federal tax law and does not depend on whether the organization is recognized as an entity under local law.
+
+(2) *Certain joint undertakings give rise to entities for federal tax purposes.* A joint venture or other contractual arrangement may create a separate entity for federal tax purposes if the participants carry on a trade, business, financial operation, or venture and divide the profits therefrom. For example, a separate entity exists for federal tax purposes if co- owners of an apartment building lease space and in addition provide services to the occupants either directly or through an agent. Nevertheless, a joint undertaking merely to share expenses does not create a separate entity for federal tax purposes. For example, if two or more persons jointly construct a ditch merely to drain surface water from their properties, they have not created a separate entity for federal tax purposes. Similarly, mere co-ownership of property that is maintained, kept in repair, and rented or leased does not constitute a separate entity for federal tax purposes. For example, if an individual owner, or tenants in common, of farm property lease it to a farmer for a cash rental or a share of the crops, they do not necessarily create a separate entity for federal tax purposes.
+
+(3) *Certain local law entities not recognized.* An entity formed under local law is not always recognized as a separate entity for federal tax purposes. For example, an organization wholly owned by a State is not recognized as a separate entity for federal tax purposes if it is an integral part of the State. Similarly, tribes incorporated under section 17 of the Indian Reorganization Act of 1934, as amended, 25 U.S.C. 477, or under section 3 of the Oklahoma Indian Welfare Act, as amended, 25 U.S.C. 503, are not recognized as separate entities for federal tax purposes.
+
+(4) *Single owner organizations.* Under §§ 301.7701-2 and 301.7701-3, certain organizations that have a single owner can choose to be recognized or disregarded as entities separate from their owners.
+
+(b) *Classification of organizations.* The classification of organizations that are recognized as separate entities is determined under §§ 301.7701-2, 301.7701-3, and 301.7701-4 unless a provision of the Internal Revenue Code (such as section 860A addressing Real Estate Mortgage Investment Conduits (REMICs)) provides for special treatment of that organization. For the classification of organizations as trusts, see § 301.7701-4. That section provides that trusts generally do not have associates or an objective to carry on business for profit. Sections 301.7701-2 and 301.7701-3 provide rules for classifying organizations that are not classified as trusts.
+
+(c) *Cost sharing arrangements.* A cost sharing arrangement that is described in § 1.482-7 of this chapter, including any arrangement that the Commissioner treats as a CSA under § 1.482-7(b)(5) of this chapter, is not recognized as a separate entity for purposes of the Internal Revenue Code. See § 1.482-7 of this chapter for the rules regarding CSAs.
+
+(d) *Domestic and foreign business entities.* See § 301.7701-5 for the rules that determine whether a business entity is domestic or foreign.
+
+(e) *State.* For purposes of this section and § 301.7701-2, the term *State* includes the District of Columbia.
+
+(f) *Effective/applicability dates.* Except as provided in the following sentence, the rules of this section are applicable as of January 1, 1997. The rules of paragraph (c) of this section are applicable on January 5, 2009.
+
+[T.D. 8697, 61 FR 66588, Dec. 18, 1996, as amended by T.D. 9153, 69 FR 49810, Aug. 12, 2004; T.D. 9246, 71 FR 4816, Jan. 30, 2006; T.D. 9441, 74 FR 390, Jan. 5, 2009; T.D. 9568, 76 FR 80136, Dec. 22, 2011]

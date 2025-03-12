@@ -1,0 +1,3 @@
+##### § 1.533-2 Statement required. #####
+
+The corporation may be required to furnish a statement of its accumulated earnings and profits, the payment of dividends, the name and address of, and number of shares held by, each of its shareholders, the amounts that would be payable to each of the shareholders if the income of the corporation were distributed and other information required under section 6042.

@@ -1,0 +1,5 @@
+##### § 595.403 Termination and acquisition of an interest in blocked property. #####
+
+(a) Whenever a transaction licensed or authorized by or pursuant to this part results in the transfer of property (including any property interest) away from a specially designated terrorist, such property shall no longer be deemed to be property in which a specially designated terrorist has or has had an interest, or which is held in the name of a specially designated terrorist, unless there exists in the property another interest of a specially designated terrorist, the transfer of which has not been effected pursuant to license or other authorization.
+
+(b) Unless otherwise specifically provided in a license or authorization issued pursuant to this part, if property (including any property interest) is transferred or attempted to be transferred to a specially designated terrorist, including by the making of any contribution of funds, goods, or services to or for the benefit of a specially designated terrorist, such property shall be deemed to be property in which there exists an interest of the specially designated terrorist.

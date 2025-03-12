@@ -1,0 +1,3 @@
+##### § 538.508 Certain payments by the Government of Sudan of obligations to persons within the United States authorized. #####
+
+Specific licenses may be issued on a case-by-case basis to permit the transfer of funds after the effective date by, through, or to any U.S. financial institution or other U.S. person not blocked pursuant to this chapter, from a non-blocked account outside of the United States, solely for the purpose of payment of obligations of the Government of Sudan to persons or accounts within the United States, provided that the obligation arose prior to the effective date, and the payment requires no debit to a blocked account.

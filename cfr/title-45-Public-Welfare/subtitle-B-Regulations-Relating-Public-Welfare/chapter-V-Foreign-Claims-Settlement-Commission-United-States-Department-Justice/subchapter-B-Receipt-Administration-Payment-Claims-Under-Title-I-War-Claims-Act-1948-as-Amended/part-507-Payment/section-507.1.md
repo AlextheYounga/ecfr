@@ -1,0 +1,5 @@
+##### § 507.1 Payments under the War Claims Act of 1948, as amended by Public Law 91-289. #####
+
+(a) Upon a determination by the Commission as to the amount and validity of each claim filed pursuant to section 5(i) and 6(f) of the War Claims Act of 1948, as amended, any award made thereunder will be certified by the Commission to the Secretary of the Treasury for payment out of funds appropriated for this purpose, in favor of the civilian internee or prisoner of war found entitled thereto.
+
+(b) Awards made to survivors of deceased civilian internees or prisoners of war will be certified to the Secretary of the Treasury for payment to the individual member or members of the class or classes of survivors entitled to receive compensation in the full amount of the share to which each survivor is entitled, and if applicable, under the procedure set forth in § 507.3, except that as to persons under legal disability, payment will be made as specified in § 507.2.

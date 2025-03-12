@@ -1,0 +1,3 @@
+##### § 1703.201 Decision to hold meeting. #####
+
+When Commission members make a decision to hold a meeting, the proposed meeting will ordinarily be scheduled for a date no earlier than eight days after the decision to allow sufficient time to give appropriate public notice. At the time a decision is made to hold a meeting, the time, place, and subject matter of the meeting will be determined, as well as whether the meeting is to be open or closed to the public.

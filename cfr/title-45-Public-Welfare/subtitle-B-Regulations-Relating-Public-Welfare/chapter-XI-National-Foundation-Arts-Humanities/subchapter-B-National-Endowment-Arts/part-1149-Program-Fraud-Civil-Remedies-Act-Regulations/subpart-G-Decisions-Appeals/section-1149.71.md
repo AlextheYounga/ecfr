@@ -1,0 +1,3 @@
+##### § 1149.71 Is there a right to administrative offset? #####
+
+The amount of any penalty or assessment which has become final, or for which a judgment has been entered, or any amount agreed upon in a compromise or settlement, may be collected by administrative offset, except that an administrative offset may not be made under this subsection against a refund of an overpayment of Federal taxes, then or later owing by the United States to you.

@@ -1,0 +1,3 @@
+##### § 256.41 When is reimbursement due for CDA and No FEAR payments? #####
+
+Reimbursement for a CDA or No FEAR payment should be made promptly upon notification from Fiscal Service of the amount due. If the agency is unable to timely reimburse Fiscal Service, the agency must contact Fiscal Service to establish a reimbursement plan. Under Office of Personnel Management (OPM) regulations, No FEAR reimbursements or payment reimbursement plans must be made within 45 days of the request for reimbursement. See 5 CFR part 724. Agencies that do not meet this requirement will be listed on Fiscal Service's public Web site.

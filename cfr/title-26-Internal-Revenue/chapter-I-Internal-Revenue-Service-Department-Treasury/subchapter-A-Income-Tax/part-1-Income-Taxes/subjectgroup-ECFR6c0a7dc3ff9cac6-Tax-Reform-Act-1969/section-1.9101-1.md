@@ -1,0 +1,5 @@
+##### § 1.9101-1 Permission to submit information required by certain returns and statements on magnetic tape. #####
+
+In any case where the use of a Form 1087 or 1099 is required by the regulations under this part for the purpose of making a return or reporting information, such requirement may be satisfied by submitting the information required by such form on magnetic tape or by other media, provided that the prior consent of the Commissioner or other authorized officer or employee of the Internal Revenue Service has been obtained. Applications for such consent must be filed in accordance with procedures established by the Internal Revenue Service. In any case where the use of Form W-2 is required for the purpose of making a return or reporting information, such requirement may be satisfied by submitting the information required by such form on magnetic tape or other approved media, provided that the prior consent of the Commissioner of Social Security (or other authorized officer or employee thereof) has been obtained.
+
+[T.D. 6883, 31 FR 6589, May 3, 1966, as amended by T.D. 7580, 43 FR 60159, Dec. 26, 1978]

@@ -1,0 +1,3 @@
+##### § 576.207 Exemption for property controlled by the military forces of the United States and their coalition partners in Iraq. #####
+
+The prohibitions in § 576.201(a)(1) and (a)(2) shall not apply to property and interests in property that come under the control of the military forces of the United States and their coalition partners present in Iraq and acting in their official capacity under the command or operational control of the commander of United States Central Command.

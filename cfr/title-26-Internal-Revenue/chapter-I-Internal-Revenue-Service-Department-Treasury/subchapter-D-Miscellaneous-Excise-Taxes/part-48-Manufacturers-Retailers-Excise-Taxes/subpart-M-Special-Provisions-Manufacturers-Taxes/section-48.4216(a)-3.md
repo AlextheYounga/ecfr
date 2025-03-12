@@ -1,0 +1,9 @@
+##### § 48.4216(a)-3 Other items relating to tax on sale price. #####
+
+(a) *Exchanges.* If, in connection with the sale of an article subject to a tax imposed under Chapter 32 on the price for which sold, a manufacturer receives from its vendee another article in exchange, the tax on the manufacturer's sale shall be computed on the basis of the amount allowed for the article received from the vendee, plus any additional amount charged the vendee.
+
+(b) *Replacements under warranty.* If an article, subject to a tax imposed under Chapter 32 on the price for which sold, is returned to the manufacturer by reason of the failure of the article under a warranty as to its quality or service, and a new article is given by the manufacturer, free, or at a reduced price, the tax on the new article shall be computed on the actual amount, if any, to be paid to the manufacturer for the new article. See paragraph (b)(2) of § 48.6416(b)-1 for the circumstances under which the allowance made by the manufacturer, producer, or importer upon the return of the first article constitutes a price readjustment of the sale price of first article and the extent, if any, to which a credit may be allowed, or refund made, of the tax paid by the manufacturer, producer, or importer on the sale of the first article.
+
+(c) *Readjustments in sale price.* Readjustment in sale price (such as allowable discounts, rebates, bonuses, etc.) cannot be anticipated. The tax must be based upon the original price unless the readjustments have actually been made prior to the close of the period for which the tax upon the sale is returned. However, if the price upon which the tax was computed is subsequently readjusted, credit may be taken against the tax due on a subsequent return or a claim for refund filed as provided by section 6416(b)(1) and the regulations thereunder.
+
+[T.D. 7536, 43 FR 13519, Mar. 31, 1978]

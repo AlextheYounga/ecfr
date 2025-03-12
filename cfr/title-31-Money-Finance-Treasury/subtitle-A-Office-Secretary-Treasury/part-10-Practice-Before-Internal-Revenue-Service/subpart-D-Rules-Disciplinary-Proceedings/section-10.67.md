@@ -1,0 +1,3 @@
+##### § 10.67 Proof; variance; amendment of pleadings. #####
+
+In the case of a variance between the allegations in pleadings and the evidence adduced in support of the pleadings, the Administrative Law Judge, at any time before decision, may order or authorize amendment of the pleadings to conform to the evidence. The party who would otherwise be prejudiced by the amendment must be given a reasonable opportunity to address the allegations of the pleadings as amended and the Administrative Law Judge must make findings on any issue presented by the pleadings as amended.

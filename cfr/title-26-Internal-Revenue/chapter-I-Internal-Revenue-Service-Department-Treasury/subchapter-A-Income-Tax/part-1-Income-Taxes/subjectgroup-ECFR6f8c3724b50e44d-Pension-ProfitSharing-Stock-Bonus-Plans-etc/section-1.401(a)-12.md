@@ -1,0 +1,5 @@
+##### § 1.401(a)-12 Mergers and consolidations of plans and transfers of plan assets. #####
+
+A trust will not be qualified under section 401 unless the plan of which the trust is a part provides that in the case of any merger or consolidation with, or transfer of assets or liabilities to, another plan after September 2, 1974, each participant in the plan would receive a minimum benefit if the plan terminated immediately after the merger, consolidation, or transfer. This benefit must be equal to or greater than the benefit the participant would have been entitled to receive immediately before the merger, consolidation, or transfer if the plan in which he was a participant had then terminated. This section applies to a multiemployer plan only to the extent determined by the Pension Benefit Guaranty Corporation. For additional rules concerning mergers or consolidations of plans and transfers of plan assets, see section 414(l) and § 1.414(l)-1.
+
+[T.D. 7638, 44 FR 48195, Aug. 17, 1979]

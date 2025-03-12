@@ -1,0 +1,7 @@
+##### § 1618.5 Duties of the Corporation. #####
+
+(a) Whenever the Corporation learns that there is reason to believe that a recipient or a recipient's employee may have committed a violation, the Corporation shall investigate the matter promptly and attempt to resolve it through informal consultation with the recipient. Such actions may be limited to determining if the recipient is sufficiently investigating and resolving the matter itself.
+
+(b) Whenever there is substantial reason to believe that a recipient has persistently or intentionally violated the LSC requirements, or, after notice, has failed to take appropriate remedial or disciplinary action to ensure compliance by its employees with the LSC requirements, and attempts at informal resolution have been unsuccessful, the Corporation may proceed to suspend or terminate financial support of the recipient, or impose a limited reduction in funding, pursuant to the procedures set forth in parts 1623 and 1606, or may take other action to enforce compliance with the LSC requirements.
+
+(c) Whenever the Corporation determines that a recipient has committed a violation, that corrective actions by the recipient are required to remedy the violation and/or prevent recurrence of the violation, and that imposition of special grant conditions are needed prior to the next grant renewal or competition for the service area, the Corporation may immediately impose Special Grant Conditions on the recipient to require completion of those corrective actions.

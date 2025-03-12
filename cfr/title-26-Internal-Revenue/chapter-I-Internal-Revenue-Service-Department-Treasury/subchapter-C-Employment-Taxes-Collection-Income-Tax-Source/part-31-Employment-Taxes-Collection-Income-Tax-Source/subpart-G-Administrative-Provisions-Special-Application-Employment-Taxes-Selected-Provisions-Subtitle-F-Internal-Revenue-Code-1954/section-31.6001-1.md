@@ -1,0 +1,15 @@
+##### § 31.6001-1 Records in general. #####
+
+(a) *Form of records.* The records required by the regulations in this part shall be kept accurately, but no particular form is required for keeping the records. Such forms and systems of accounting shall be used as will enable the district director to ascertain whether liability for tax is incurred and, if so, the amount thereof.
+
+(b) *Copies of returns, schedules, and statements.* Every person who is required, by the regulations in this part or by instructions applicable to any form prescribed thereunder, to keep any copy of any return, schedule, statement, or other document, shall keep such copy as a part of his records.
+
+(c) *Records of claimants.* Any person (including an employee) who, pursuant to the regulations in this part, claims a refund, credit or abatement, shall keep a complete and detailed record with respect to the tax, interest, addition to the tax, additional amount, or assessable penalty to which the claim relates. Such record shall include any records required of the claimant by paragraph (b) of this section and by §§ 31.6001-2 to 31.6001-5, inclusive, which relate to the claim.
+
+(d) *Records of employees.* While not mandatory (except in the case of claims), it is advisable for each employee to keep permanent, accurate records showing the name and address of each employer for whom he performs services as an employee, the dates of beginning and termination of such services, the information with respect to himself which is required by the regulations in this subpart to be kept by employers, and the statements furnished in accordance with the provisions of § 31.6051-1.
+
+(e) *Place and period for keeping records.* (1) All records required by the regulations in this part shall be kept, by the person required to keep them, at one or more convenient and safe locations accessible to internal revenue officers, and shall at all times be available for inspection by such officers.
+
+(2) Except as otherwise provided in the following sentence, every person required by the regulations in this part to keep records in respect of a tax (whether or not such person incurs liability for such tax) shall maintain such records for at least four years after the due date of such tax for the return period to which the records relate, or the date such tax is paid, whichever is the later. The records of claimants required by paragraph (c) of this section shall be maintained for a period of at least four years after the date the claim is filed.
+
+(f) *Cross reference.* See §§ 31.6001-2 to 31.6001-5, inclusive, for additional records required with respect to the Federal Insurance Contributions Act, the Railroad Retirement Tax Act, the Federal Unemployment Tax act, and the collection of income tax at source on wages, respectively.

@@ -1,0 +1,57 @@
+##### § 54.4980B-4 Qualifying events. #####
+
+The determination of what constitutes a qualifying event is addressed in the following questions and answers:
+
+Q-1: What is a qualifying event?
+
+A-1: (a) A *qualifying event* is an event that satisfies paragraphs (b), (c), and (d) of this Q&A-1. Paragraph (e) of this Q&A-1 further explains a reduction of hours of employment, paragraph (f) of this Q&A-1 describes the treatment of children born to or placed for adoption with a covered employee during a period of COBRA continuation coverage, and paragraph (g) of this Q&A-1 contains examples. See Q&A-1 through Q&A-3 of § 54.4980B-10 for special rules in the case of leave taken under the Family and Medical Leave Act of 1993 (29 U.S.C. 2601-2619).
+
+(b) An event satisfies this paragraph (b) if the event is any of the following—
+
+(1) The death of a covered employee;
+
+(2) The termination (other than by reason of the employee's gross misconduct), or reduction of hours, of a covered employee's employment;
+
+(3) The divorce or legal separation of a covered employee from the employee's spouse;
+
+(4) A covered employee's becoming entitled to Medicare benefits under title XVIII of the Social Security Act (42 U.S.C. 1395-1395ggg);
+
+(5) A dependent child's ceasing to be a dependent child of a covered employee under the generally applicable requirements of the plan; or
+
+(6) A proceeding in bankruptcy under title 11 of the United States Code with respect to an employer from whose employment a covered employee retired at any time.
+
+(c) An event satisfies this paragraph (c) if, under the terms of the group health plan, the event causes the covered employee, or the spouse or a dependent child of the covered employee, to lose coverage under the plan. For this purpose, to lose coverage means to cease to be covered under the same terms and conditions as in effect immediately before the qualifying event. Any increase in the premium or contribution that must be paid by a covered employee (or the spouse or dependent child of a covered employee) for coverage under a group health plan that results from the occurrence of one of the events listed in paragraph (b) of this Q&A-1 is a loss of coverage. In the case of an event that is the bankruptcy of the employer, lose coverage also means any substantial elimination of coverage under the plan, occurring within 12 months before or after the date the bankruptcy proceeding commences, for a covered employee who had retired on or before the date of the substantial elimination of group health plan coverage or for any spouse, surviving spouse, or dependent child of such a covered employee if, on the day before the bankruptcy qualifying event, the spouse, surviving spouse, or dependent child is a beneficiary under the plan. For purposes of this paragraph (c), a loss of coverage need not occur immediately after the event, so long as the loss of coverage occurs before the end of the maximum coverage period (see Q&A-4 and Q&A-6 of § 54.4980B-7). However, if neither the covered employee nor the spouse or a dependent child of the covered employee loses coverage before the end of what would be the maximum coverage period, the event does not satisfy this paragraph (c). If coverage is reduced or eliminated in anticipation of an event (for example, an employer's eliminating an employee's coverage in anticipation of the termination of the employee's employment, or an employee's eliminating the coverage of the employee's spouse in anticipation of a divorce or legal separation), the reduction or elimination is disregarded in determining whether the event causes a loss of coverage.
+
+(d) An event satisfies this paragraph (d) if it occurs while the plan is subject to COBRA. Thus, an event will not satisfy this paragraph (d) if it occurs while the plan is excepted from COBRA (see Q&A-4 of § 54.4980B-2). Even if the plan later becomes subject to COBRA, it is not required to make COBRA continuation coverage available to anyone whose coverage ends as a result of an event during a year in which the plan is excepted from COBRA. For example, if a group health plan is excepted from COBRA as a small-employer plan during the year 2001 (see Q&A-5 of § 54.4980B-2) and an employee terminates employment on December 31, 2001, the termination is not a qualifying event and the plan is not required to permit the employee to elect COBRA continuation coverage. This is the case even if the plan ceases to be a small-employer plan as of January 1, 2002. Also, the same result will follow even if the employee is given three months of coverage beyond December 31 (that is, through March of 2002), because there will be no qualifying event as of the termination of coverage in March. However, if the employee's spouse is initially provided with the three-month coverage through March 2002, but the spouse divorces the employee before the end of the three months and loses coverage as a result of the divorce, the divorce will constitute a qualifying event during 2002 and so entitle the spouse to elect COBRA continuation coverage. See Q&A-7 of § 54.4980B-7 regarding the maximum coverage period in such a case.
+
+(e) A reduction of hours of a covered employee's employment occurs whenever there is a decrease in the hours that a covered employee is required to work or actually works, but only if the decrease is not accompanied by an immediate termination of employment. This is true regardless of whether the covered employee continues to perform services following the reduction of hours of employment. For example, an absence from work due to disability, a temporary layoff, or any other reason (other than due to leave that is FMLA leave; see § 54.4980B-10) is a reduction of hours of a covered employee's employment if there is not an immediate termination of employment. If a group health plan measures eligibility for the coverage of employees by the number of hours worked in a given time period, such as the preceding month or quarter, and an employee covered under the plan fails to work the minimum number of hours during that time period, the failure to work the minimum number of required hours is a reduction of hours of that covered employee's employment.
+
+(f) The qualifying event of a qualified beneficiary who is a child born to or placed for adoption with a covered employee during a period of COBRA continuation coverage is the qualifying event giving rise to the period of COBRA continuation coverage during which the child is born or placed for adoption. If a second qualifying event has occurred before the child is born or placed for adoption (such as the death of the covered employee), then the second qualifying event also applies to the newborn or adopted child. See Q&A-6 of § 54.4980B-7.
+
+(g) The rules of this Q&A-1 are illustrated by the following examples, in each of which the group health plan is subject to COBRA:
+
+Example 1.(i) An employee who is covered by a group health plan terminates employment (other than by reason of the employee's gross misconduct) and, beginning with the day after the last day of employment, is given 3 months of employer-paid coverage under the same terms and conditions as before that date. At the end of the three months, the coverage terminates.
+
+(ii) The loss of coverage at the end of the three months results from the termination of employment and, thus, the termination of employment is a qualifying event.
+
+Example 2.(i) An employee who is covered by a group health plan retires (which is a termination of employment other than by reason of the employee's gross misconduct) and, upon retirement, is required to pay an increased amount for the same group health coverage that the employee had before retirement.
+
+(ii) The increase in the premium or contribution required for coverage is a loss of coverage under paragraph (c) of this Q&A-1 and, thus, the retirement is a qualifying event.
+
+Example 3.(i) An employee and the employee's spouse are covered under an employer's group health plan. The employee retires and is given identical coverage for life. However, the plan provides that the spousal coverage will not be continued beyond six months unless a higher premium for the spouse is paid to the plan.
+
+(ii) The requirement for the spouse to pay a higher premium at the end of the six months is a loss of coverage under paragraph (c) of this Q&A-1. Thus, the retirement is a qualifying event and the spouse must be given an opportunity to elect COBRA continuation coverage.
+
+Example 4.(i) *F* is a covered employee who is married to *G,* and both are covered under a group health plan maintained by *F*'s employer. *F* and *G* are divorced. Under the terms of the plan, the divorce causes *G* to lose coverage. The divorce is a qualifying event, and *G* elects COBRA continuation coverage, remarries during the period of COBRA continuation coverage, and *G*'s new spouse becomes covered under the plan. (See Q&A-5 in § 54.4980B-5, paragraph (c) in Q&A-4 of § 54.4980B-5, and section 9801(f)(2).) *G* dies. Under the terms of the plan, the death causes *G*'s new spouse to lose coverage under the plan.
+
+(ii) *G*'s death is not a qualifying event because *G* is not a covered employee.
+
+Example 5.(i) An employer maintains a group health plan for both active employees and retired employees (and their families). The coverage for active employees and retired employees is identical, and the employer does not require retirees to pay more for coverage than active employees. The plan does not make COBRA continuation coverage available when an employee retires (and is not required to because the retired employee has not lost coverage under the plan). The employer amends the plan to eliminate coverage for retired employees effective January 1, 2002. On that date, several retired employees (and their spouses and dependent children) have been covered under the plan since their retirement for less than the maximum coverage period that would apply to them in connection with their retirement.
+
+(ii) The elimination of retiree coverage under these circumstances is a deferred loss of coverage for those retirees (and their spouses and dependent children) under paragraph (c) of this Q&A-1 and, thus, the retirement is a qualifying event. The plan must make COBRA continuation coverage available to them for the balance of the maximum coverage period that applies to them in connection with the retirement.
+
+Q-2: Are the facts surrounding a termination of employment (such as whether it was voluntary or involuntary) relevant in determining whether the termination of employment is a qualifying event?
+
+A-2: Apart from facts constituting gross misconduct, the facts surrounding the termination or reduction of hours are irrelevant in determining whether a qualifying event has occurred. Thus, it does not matter whether the employee voluntarily terminated or was discharged. For example, a strike or a lockout is a termination or reduction of hours that constitutes a qualifying event if the strike or lockout results in a loss of coverage as described in paragraph (c) of Q&A-1 of this section. Similarly, a layoff that results in such a loss of coverage is a qualifying event.
+
+[T.D. 8812, 64 FR 5178, Feb. 3, 1999, as amended by T.D. 8928, 66 FR 1852, Jan. 10, 2001]

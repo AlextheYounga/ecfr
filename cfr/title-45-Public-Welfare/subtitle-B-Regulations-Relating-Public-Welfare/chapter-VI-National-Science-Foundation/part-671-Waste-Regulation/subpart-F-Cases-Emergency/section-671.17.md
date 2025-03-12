@@ -1,0 +1,3 @@
+##### § 671.17 Cases of emergency. #####
+
+The provisions of this part shall not apply in cases of emergency relating to the safety of human life or of ships, aircraft or other equipment and facilities of high value, or the protection of the environment. Notice of any acts or omissions resulting from such emergency situations shall be reported promptly to the Director, who shall notify the Treaty parties in accordance with the requirements of the Treaty and the Protocol, and publish notice of such acts or omissions in the Federal Register.

@@ -1,0 +1,9 @@
+##### § 1.1474-3 Withheld tax as credit to beneficial owner of income. #####
+
+(a) *Creditable tax.* The entire amount of the income, if any, attributable to a payment from which tax is required to be withheld under chapter 4 (including income deemed paid by a withholding agent under § 1.1473-1(a)(2)(v)) shall be included in gross income in a return required to be made by the beneficial owner of the income, without deduction for the amount required to be or actually withheld, but the amount of tax actually withheld shall be allowed as a credit against the total income tax computed in the beneficial owner's return.
+
+(b) *Amounts paid to persons that are not the beneficial owners.* Amounts actually deducted and withheld under chapter 4 on payments made to a fiduciary, agent, partnership, trust, or intermediary are deemed to have been paid by the beneficial owner of the item of income or other payment subject to withholding under chapter 4, except when the fiduciary, agent, partnership, trust, or intermediary pays the tax from its own funds and does not in turn withhold with respect to the payment made to such person. Thus, for example, if a beneficiary of a trust is subject to the taxes imposed by section 1, 2, 3, or 11 upon any amount of distributable net income or other taxable distribution received from a foreign trust, the part of any amount withheld at source under chapter 4 that is properly allocable to the income so taxed to such beneficiary shall be credited against the amount of the income tax computed upon the beneficiary's return, and any excess shall be refunded to the beneficiary in accordance with § 1.1474-5 and chapter 65 of the Code.
+
+(c) *Effective/applicability date.* This section applies January 28, 2013.
+
+[T.D. 9610, 78 FR 5992, Jan. 28, 2013]

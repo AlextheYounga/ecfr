@@ -1,0 +1,3 @@
+##### § 306.55 Signatures, minor errors and change of name. #####
+
+The owner's signature to an assignment should be in the form in which the security is inscribed or assigned, unless such inscription or assignment is incorrect or the name has since been changed. In case of a change of name, the signature to the assignment should show both names and the manner in which the change was made, for example, “John Young, changed by order of court from Hans Jung.” Evidence of the change will be required. However, no evidence is required to support an assignment if the change resulted from marriage and the signature, which must be duly certified by an authorized officer, is written to show that fact, for example, “Mrs. Mary J. Brown, changed by marriage from Miss Mary Jones.”

@@ -1,0 +1,5 @@
+##### § 1.642(f)-1 Amortization deductions. #####
+
+An estate or trust is allowed amortization deductions with respect to an emergency facility as defined in section 168(d), with respect to a certified pollution control facility as defined in section 169(d), with respect to qualified railroad rolling stock as defined in section 184(d), with respect to certified coal mine safety equipment as defined in section 187(d), with respect to on-the-job training and child-care facilities as defined in section 188(b), and with respect to certain rehabilitations of certified historic structures as defined in section 191, in the same manner and to the same extent as in the case of an individual. However, the principles governing the apportionment of the deductions for depreciation and depletion between fiduciaries and the beneficiaries of an estate or trust (see sections 167(h) and 611(b) and the regulations thereunder) shall be applicable with respect to such amortization deductions.
+
+[T.D. 7700, 45 FR 38055, June 6, 1980]

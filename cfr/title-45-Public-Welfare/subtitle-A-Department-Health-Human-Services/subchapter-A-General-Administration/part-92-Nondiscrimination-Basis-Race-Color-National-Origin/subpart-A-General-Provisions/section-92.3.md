@@ -1,0 +1,5 @@
+##### § 92.3 Relationship to other laws. #####
+
+(a) *Rule of interpretation.* Neither Section 1557 nor this part shall be construed to apply a lesser standard for the protection of individuals from discrimination than the standards applied under Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, or the regulations issued pursuant to those laws.
+
+(b) *Other laws.* Nothing in this part shall be construed to invalidate or limit the rights, remedies, procedures, or legal standards available to individuals under Title VI of the Civil Rights Act of 1964, Title VII of the Civil Rights Act of 1964, the Architectural Barriers Act of 1968, Title IX of the Education Amendments of 1972, Sections 504 or 508 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, the Americans with Disabilities Act of 1990, as amended by the Americans with Disabilities Act Amendments Act of 2008, or other Federal laws or to supersede State or local laws that provide additional protections against discrimination on any basis described in § 92.1.

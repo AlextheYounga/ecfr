@@ -1,0 +1,5 @@
+##### § 598.403 Termination and acquisition of an interest in blocked property. #####
+
+(a) Whenever a transaction licensed pursuant to this part results in the transfer of property (including any property interest) away from a specially designated narcotics trafficker, the transferred property will no longer be considered property in which that person has or has had an interest. Provided no other specially designated narcotics trafficker has any interest in the transferred property following the transfer, the transferred property will no longer be considered property blocked pursuant to § 598.202.
+
+(b) Unless otherwise specifically provided in a license issued pursuant to this part, if property (including any property interest) is transferred or attempted to be transferred to a specially designated narcotics trafficker, such property shall be deemed to be property in which that person has an interest, and such property is therefore blocked pursuant to § 598.202.

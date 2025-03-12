@@ -1,0 +1,3 @@
+##### § 2516.810 What types of evaluations are grantees and subgrantees required to perform? #####
+
+All grantees and subgrantees are required to perform internal evaluations which are ongoing efforts to assess performance and improve quality. Grantees and subgrantees may, but are not required to, arrange for independent evaluations which are assessments of program effectiveness by individuals who are not directly involved in the administration of the program. The cost of independent evaluations is allowable.

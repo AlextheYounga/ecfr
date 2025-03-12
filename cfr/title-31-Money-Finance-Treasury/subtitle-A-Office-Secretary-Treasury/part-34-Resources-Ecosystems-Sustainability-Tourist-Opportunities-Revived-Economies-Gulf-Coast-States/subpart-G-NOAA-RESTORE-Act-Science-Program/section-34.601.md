@@ -1,0 +1,3 @@
+##### § 34.601 Responsibility for administration—NOAA RESTORE Act Science Program. #####
+
+NOAA is responsible for establishing and administering this program, in consultation with the United States Fish and Wildlife Service. NOAA must develop, publish, and apply policies and procedures for the NOAA RESTORE Act Science Program consistent with the Act, this subpart, and Federal laws and policies on grants. NOAA must monitor compliance with its grant agreements, cooperative agreements, contracts, and agreements funded through the Trust Fund. NOAA and the United States Fish and Wildlife Service will consult with the Regional Gulf of Mexico Fishery Management Council and the Gulf States Marine Fisheries Commission in carrying out the program.

@@ -1,0 +1,11 @@
+##### § 213.14 Issues at hearing. #####
+
+(a) The Administrator may, prior to a hearing under § 201.6 (a) or (b) of this chapter, notify the State in writing of additional issues which will be considered at the hearing, and such notice shall be published in the Federal Register. If such notice is furnished to the State less than 20 days before the date of the hearing, the State or any other party, at its request, shall be granted a postponement of the hearing to a date 20 days after such notice was furnished, or such later date as may be agreed to by the Administrator.
+
+(b) If, as a result of negotiations between the Department and the State, the submittal of a plan amendment, a change in the State program, or other actions by the State, any issue is resolved in whole or in part, but new or modified issues are presented, as specified by the Administrator, the hearing shall proceed on such new or modified issues.
+
+(c)(1) If at any time, whether prior to, during, or after the hearing, the Administrator finds that the State has come into compliance with Federal requirements on any issue, in whole or in part, he shall remove such issue from the proceedings in whole or in part, as may be appropriate. If all issues are removed, he shall terminate the hearing.
+
+(2) Prior to the removal of any issue from the hearing, in whole or in part, the Administrator shall provide all parties other than the Department and the State (see § 213.15(b)) with the statement of his intention, and the reasons therefor, and a copy of the proposed State plan provision on which the State and he have settled, and the parties shall have opportunity to submit in writing within 15 days, for the Administrator's consideration and for the record, their views as to, or any information bearing upon, the merits of the proposed plan provision and the merits of the Administrator's reasons for removing the issue from the hearing.
+
+(d) The issues considered at the hearing shall be limited to those issues of which the State is notified as provided in § 213.11 and paragraph (a) of this section, and new or modified issues described in paragraph (b) of this section, and shall not include issues or parts of issues removed from the proceedings pursuant to paragraph (c) of this section.

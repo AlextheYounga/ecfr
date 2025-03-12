@@ -1,0 +1,18 @@
+##### § 351.30 What are interest rates and monthly accruals for Series EE bonds with issue dates of May 1, 1997, through April 1, 2005, during the original maturity period? #####
+
+Savings bond rates (defined in § 351.13) apply to earnings during the first semiannual rate period beginning on or after the effective date of the rate. Interest is credited on the first day of each month and compounded semiannually. Interest accrues beginning with the fourth month from the issue date. For example, a bond issued in January has interest first credited on May 1, which represents one month of interest because of the 3-month interest penalty. The following table shows, for any given month of issue with rates announced each May and November, the months making up the semiannual rate period during which interest is earned at the announced rate (disregarding the penalty for bonds redeemed prior to 5 years after the issue date) and the months in which the bonds increase in value. This rate is an annual rate compounded semiannually.
+
+|If issue month is—|And rate announcement/effective date is—|Then, semiannual rate periods in which interest is earned include months of—|And bonds increase in value on 1st day of months of—|
+|------------------|----------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------|
+|   Jan. or Jul    |                 May 1                  |                              Jul. through Dec                              |                 Aug. through Jan.                  |
+|   Feb. or Aug    |                 May 1                  |                              Aug. through Jan                              |                 Sep. through Feb.                  |
+|   Mar. or Sep    |                 May 1                  |                              Sep. through Feb                              |                 Oct. through Mar.                  |
+|   Apr. or Oct    |                 May 1                  |                              Oct. through Mar                              |                 Nov. through Apr.                  |
+|    May or Nov    |                 May 1                  |                              May through Oct                               |                 Jun. through Nov.                  |
+|   Jun. or Dec    |                 May 1                  |                              Jun. through Nov                              |                 Jul. through Dec.                  |
+|   Jan. or Jul    |                 Nov. 1                 |                              Jan. through Jun                              |                 Feb. through Jul.                  |
+|   Feb. or Aug    |                 Nov. 1                 |                              Feb. through Jul                              |                 Mar. through Aug.                  |
+|   Mar. or Sep    |                 Nov. 1                 |                              Mar. through Aug                              |                 Apr. through Sep.                  |
+|   Apr. or Oct    |                 Nov. 1                 |                              Apr. through Sep                              |                  May through Oct.                  |
+|    May or Nov    |                 Nov. 1                 |                              Nov. through Apr                              |                 Dec. through May.                  |
+|   Jun. or Dec    |                 Nov. 1                 |                              Dec. through May                              |                 Jan. through Jun.                  |

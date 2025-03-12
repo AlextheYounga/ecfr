@@ -1,0 +1,9 @@
+##### § 1.72-14 Exceptions from application of principles of section 72. #####
+
+(a) *Payments of interest.* If any amount is received under an agreement to pay interest on a sum or sums held by the obligor, such amount shall not be excludable from the gross income of the recipient under the provisions of section 72 to the extent that it is an actual interest payment. See section 72(j). An amount shall be considered to be held under an agreement to pay interest thereon if the amount payable after the term of the annuity (whether for a term certain or for a life or lives) is substantially equal to or larger than the aggregate amount of premiums or other consideration paid therefor. For this purpose, however, the aggregate amount of premiums or other consideration paid shall include all contributions made by an employer and not merely those to which section 72(f) applies.
+
+(b) *Alimony payments.* To the extent that payments made to a wife are includable in her gross income by reason of either or both section 71 and 682, they shall not be excluded from the wife's gross income under the principles of section 72 although made under a contract to which that section applies. However, section 72 shall apply in the case of amounts received under such a contract if a husband and wife are entitled to make and do make a single return jointly.
+
+(c) *Certain “face-amount certificates.”* The principles of section 72 do not apply to “face-amount certificates” described in section 72(1) which were issued before January 1, 1955.
+
+(d) *Employer plans.* The provisions of §§ 1.72-1 to 1.72-13, inclusive, shall be disregarded to the extent that they are inconsistent with the treatment of amounts received provided in section 402 (relating to the taxability of a beneficiary of an employees' trust), section 403 (relating to the taxation of employee annuities), or the regulations under either of such sections.

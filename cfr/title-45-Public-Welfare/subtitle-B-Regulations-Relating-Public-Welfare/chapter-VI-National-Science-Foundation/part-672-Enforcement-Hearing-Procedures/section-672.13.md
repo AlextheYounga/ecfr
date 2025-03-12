@@ -1,0 +1,7 @@
+##### § 672.13 Accelerated decision; decision to dismiss. #####
+
+(a) *General.* The Presiding Officer, upon motion of any party or sua sponte, may at any time render an accelerated decision in favor of the complainant or the respondent as to all or any part of the proceeding, without further hearing or upon such limited additional evidence, such as affidavits, as he may require, if no genuine issue of material fact exists and a party is entitled to judgment as a matter of law regarding all or any part of the proceeding. In addition, the Presiding Officer, upon motion of the respondent, may at any time dismiss an action without further hearing or upon such limited additional evidence as he requires, if complainant fails to establish a prima facie case, or if other grounds show complainant has no right to relief.
+
+(b) *Effect.* (1) If an accelerated decision or a decision to dismiss is issued as to all the issues and claims in the proceeding, the decision constitutes an initial decision of the Presiding Officer, and shall be filed with the Hearing Clerk.
+
+(2) If an accelerated decision or a decision to dismiss is rendered on less than all issues or claims in the proceeding, the Presiding Officer shall determine what material facts exist without substantial controversy and what material facts remain controverted in good faith. He shall then issue an interlocutory order specifying the facts which appear substantially uncontroverted, and the issues and claims upon which the hearing will proceed.

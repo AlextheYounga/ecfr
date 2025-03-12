@@ -1,0 +1,3 @@
+##### § 63.18 Limitations on costs. #####
+
+The amount of the award shall be set forth in the grant award document. The total cost to the Government will not exceed the amount set forth in the grant award document or any modification thereof approved by the Assistant Secretary which meets the requirements of applicable statutes and regulations. The Government shall not be obligated to reimburse the grantee for costs incurred in excess of such amount unless and until the Assistant Secretary has notified the grantee in writing that such amount has been increased and has specified such increased amount in a revised grant award document. Such revised amount shall thereupon constitute the maximum cost to the Government for the performance of the grant.

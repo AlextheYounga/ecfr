@@ -1,0 +1,3 @@
+##### § 17.111 Notice. #####
+
+The agency shall make available to all Treasury employees, and to all interested persons, as appropriate, information regarding the provisions of this part and its applicability to the programs or activities conducted by the agency, and make such information available to them in such a manner as is necessary to apprise them of the protections against discrimination assured them by section 504 and this part.

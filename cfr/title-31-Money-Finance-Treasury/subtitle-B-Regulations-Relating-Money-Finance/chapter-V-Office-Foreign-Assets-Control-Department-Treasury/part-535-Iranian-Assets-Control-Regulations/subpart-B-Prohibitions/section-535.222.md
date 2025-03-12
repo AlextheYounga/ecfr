@@ -1,0 +1,19 @@
+##### § 535.222 Suspension of claims eligible for Claims Tribunal. #####
+
+(a) All claims which may be presented to the Iran-United States Claims Tribunal under the terms of Article II of the Declaration of the Government of the Democratic and Popular Republic of Algeria Concerning the Settlement of Claims by the Government of the United States of America and the Government of the Islamic Republic of Iran, dated January 19, 1981, and all claims for equitable or other judicial relief in connection with such claims, are hereby suspended, except as they may be presented to the Tribunal. During the period of this suspension, all such claims shall have no legal effect in any action now pending in any court in the United States, including the courts of any state and any locality thereof, the District of Columbia and Puerto Rico, or in any action commenced in any such court after the effective date of this section.
+
+(b) Nothing in paragraph (a) of this section shall prohibit the assertion of a defense, set-off or counterclaim in any pending or subsequent judicial proceeding commenced by the Government of Iran, any political subdivision of Iran, or any agency, instrumentality or entity controlled by the Government of Iran or any political subdivision thereof.
+
+(c) Nothing in this section precludes the commencement of an action after the effective date of this section for the purpose of tolling the period of limitations for commencement of such action.
+
+(d) Nothing in this section shall require dismissal of any action for want of prosecution.
+
+(e) Suspension under this section of a claim or a portion thereof submitted to the Iran-United States Claims Tribunal for adjudication shall terminate upon a determination by the Tribunal that it does not have jurisdiction over such claim or portion thereof.
+
+(f) A determination by the Iran-United States Claims Tribunal on the merits that a claimant is not entitled to recover on a claim or part thereof shall operate as a final resolution and discharge of such claim or part thereof for all purposes. A determination by the Tribunal that a claimant shall have recovery on a claim or part thereof in a specified amount shall operate as a final resolution and discharge of such claim or part thereof for all purposes upon payment to the claimant of the full amount of the award including any interest awarded by the Tribunal.
+
+(g) Nothing in this section shall apply to any claim concerning the validity or payment of a standby letter of credit, performance or payment bond, or other similar instrument that is not the subject of a determination by the Iran-United States Claims Tribunal on the merits thereof. However, assertion of such a claim through judicial proceedings is governed by the general license in § 535.504. A determination by the Iran-United States Claims Tribunal on the merits that a standby letter of credit, performance bond or similar obligation is invalid, has been paid or otherwise discharged, or has no further purpose, or any similar determination shall operate as a final resolution and discharge or Iran's interest therein and, notwithstanding the provisions of § 535.504, may be enforced by a judicial proceeding to obtain a final judicial judgment or order permanently disposing of that interest.
+
+(h) The effective date of this section is February 24, 1981.
+
+(Secs. 201-207, 91 Stat. 1626, 50 U.S.C. 1701-1706; E.O. 12170, 44 FR 65729; E.O. 12205, 45 FR 24099; E.O. 12211, 45 FR 26685; E.O. 12276, 46 FR 7913; E.O. 12279, 46 FR 7919; E.O. 12280, 46 FR 7921; E.O. 12281, 46 FR 7923; E.O. 12282, 46 FR 7925; E.O. 12283, 46 FR 7927, and E.O. 12294, 46 FR 14111)[46 FR 14335, Feb. 26, 1981, as amended at 47 FR 29529, July 7, 1982; 56 FR 6546, Feb. 15, 1991]

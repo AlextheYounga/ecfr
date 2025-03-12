@@ -1,0 +1,3 @@
+##### § 596.311 Transaction. #####
+
+The term *transaction* shall have the meaning set forth in 18 U.S.C. 1956(c)(3), as from time to time amended. As of the effective date, this term includes a purchase, sale, loan, pledge, gift, transfer, delivery, or other disposition, and with respect to a financial institution includes a deposit, withdrawal, transfer between accounts, exchange of currency, loan, extension of credit, purchase or sale of any stock, bond, certificate of deposit, or other monetary instrument, use of a safe deposit box, or any other payment, transfer, or delivery by, through, or to a financial institution, by whatever means effected.

@@ -1,0 +1,3 @@
+##### § 30.7 Subdivision of claims. #####
+
+Debts may not be subdivided to avoid the monetary ceiling established by 31 U.S.C. 3711(a)(2). A debtor's liability arising from a particular transaction or contract shall be considered a single debt in determining whether the debt, exclusive of interest, penalties and administrative costs, does not exceed $100,000, or such higher amount as prescribed by the Attorney General for purposes of compromise, or suspension or termination of collection activity.

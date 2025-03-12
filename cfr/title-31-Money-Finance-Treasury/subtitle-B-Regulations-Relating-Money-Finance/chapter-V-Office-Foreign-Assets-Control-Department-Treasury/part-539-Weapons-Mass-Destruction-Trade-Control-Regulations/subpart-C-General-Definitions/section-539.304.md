@@ -1,0 +1,3 @@
+##### § 539.304 Entity owned or controlled by a person listed in appendix I to this part. #####
+
+The term *entity owned or controlled by a person listed in appendix I to this part* includes any subsidiaries and branches, wherever located, of entities listed in appendix I to this part, any successors to such entities, and any persons acting or purporting to act for or on behalf of any of the foregoing.

@@ -1,0 +1,3 @@
+##### § 1.562-3 Distributions by a member of an affiliated group. #####
+
+A personal holding company which files or is required to file a consolidated return with other members of an affiliated group may be required to file a separate personal holding company schedule by reason of the limitations and exceptions provided in section 542(b) and § 1.542-4. Section 562(d) provides that in such case the dividends paid deduction shall be allowed to the personal holding company, with respect to a distribution made to any member of the affiliated group, if such distribution would constitute a dividend if it were made to a shareholder which is not a member of the affiliated group.

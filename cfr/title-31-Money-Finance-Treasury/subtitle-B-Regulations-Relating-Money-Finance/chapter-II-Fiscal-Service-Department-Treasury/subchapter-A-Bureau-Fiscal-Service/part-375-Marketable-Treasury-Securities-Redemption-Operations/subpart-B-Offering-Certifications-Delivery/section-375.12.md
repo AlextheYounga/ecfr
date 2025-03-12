@@ -1,0 +1,3 @@
+##### § 375.12 How do I submit an offer? #####
+
+As a submitter, you must submit an offer in a tender to the Treasury via the Federal Reserve Bank of New York. You must submit any tenders in an approved format and the Bank must receive them prior to the closing time stated in the redemption operation announcement. If we do not receive your tenders timely, we will reject them. Your tenders are binding on you after the closing time specified in the redemption operation announcement. You are responsible for ensuring that we receive your tenders on time. We will not be responsible in any way for any unauthorized tender submissions or for any delays, errors, or omissions in submitting tenders.

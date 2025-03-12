@@ -1,0 +1,3 @@
+##### § 1010.311 Filing obligations for reports of transactions in currency. #####
+
+Each financial institution other than a casino shall file a report of each deposit, withdrawal, exchange of currency or other payment or transfer, by, through, or to such financial institution which involves a transaction in currency of more than $10,000, except as otherwise provided in this section. In the case of the U.S. Postal Service, the obligation contained in the preceding sentence shall not apply to payments or transfers made solely in connection with the purchase of postage or philatelic products.

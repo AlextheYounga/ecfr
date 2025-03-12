@@ -1,0 +1,3 @@
+##### § 407.9 Soliciting, vending, debt collection, and distribution of handbills. #####
+
+The unauthorized soliciting of alms and contributions, the commercial soliciting and vending of all kinds, the display or distribution of commercial advertising, or the collecting of private debts, in or on the property is prohibited. This prohibition does not apply to Department of Treasury concessions or notices posted by authorized employees on the bulletin boards. Distribution of material such as pamphlets, handbills, and flyers is prohibited without prior approval from the Assistant Secretary for Administration, or his delegate.

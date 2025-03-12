@@ -1,0 +1,3 @@
+##### § 1321.33 Designation of area agencies. #####
+
+An area agency may be any of the types of agencies under section 305(c) of the Act. A State may not designate any regional or local office of the State as an area agency. However, when a new area agency on aging is designated, the State shall give right of first refusal to a unit of general purpose local government as required in section 305(b)(5)(B) of the Act. If the unit of general purpose local government chooses not to exercise this right, the State shall then give preference to an established office on aging as required in section 305(c)(5) of the Act.

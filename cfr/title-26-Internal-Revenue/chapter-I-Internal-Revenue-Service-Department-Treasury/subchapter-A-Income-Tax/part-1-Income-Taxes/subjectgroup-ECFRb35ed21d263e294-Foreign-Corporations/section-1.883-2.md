@@ -1,0 +1,89 @@
+##### § 1.883-2 Treatment of publicly-traded corporations. #####
+
+(a) *General rule.* A foreign corporation satisfies the stock ownership test of § 1.883-1(c)(2) if it is considered a publicly-traded corporation and satisfies the substantiation and reporting requirements of paragraphs (e) and (f) of this section. To be considered a publicly-traded corporation, the stock of the foreign corporation must be primarily traded and regularly traded, as defined in paragraphs (c) and (d) of this section, respectively, on one or more established securities markets, as defined in paragraph (b) of this section, in either the United States or any qualified foreign country.
+
+(b) *Established securities market*—(1) *General rule.* For purposes of this section, the term *established securities market* means, for any taxable year—
+
+(i) A foreign securities exchange that is officially recognized, sanctioned, or supervised by a governmental authority of the qualified foreign country in which the market is located, and has an annual value of shares traded on the exchange exceeding $1 billion during each of the three calendar years immediately preceding the beginning of the taxable year;
+
+(ii) A national securities exchange that is registered under section 6 of the Securities Act of 1934 (15 U.S.C. 78f);
+
+(iii) A United States over-the-counter market, as defined in paragraph (b)(4) of this section;
+
+(iv) Any exchange designated under a Limitation on Benefits article in a United States income tax convention; and
+
+(v) Any other exchange that the Secretary may designate by regulation or otherwise.
+
+(2) *Exchanges with multiple tiers.* If an exchange in a foreign country has more than one tier or market level on which stock may be separately listed or traded, each such tier shall be treated as a separate exchange.
+
+(3) *Computation of dollar value of stock traded.* For purposes of paragraph (b)(1)(i) of this section, the value in U.S. dollars of shares traded during a calendar year shall be determined on the basis of the dollar value of such shares traded as reported by the International Federation of Stock Exchanges located in Paris, or, if not so reported, then by converting into U.S. dollars the aggregate value in local currency of the shares traded using an exchange rate equal to the average of the spot rates on the last day of each month of the calendar year.
+
+(4) *Over-the-counter market.* An over-the-counter market is any market reflected by the existence of an interdealer quotation system. An interdealer quotation system is any system of general circulation to brokers and dealers that regularly disseminates quotations of stocks and securities by identified brokers or dealers, other than by quotation sheets that are prepared and distributed by a broker or dealer in the regular course of business and that contain only quotations of such broker or dealer.
+
+(5) *Discretion to determine that an exchange does not qualify as an established securities market.* The Commissioner may determine that a securities exchange that otherwise meets the requirements of paragraph (b) of this section does not qualify as an established securities market, if—
+
+(i) The exchange does not have adequate listing, financial disclosure, or trading requirements (or does not adequately enforce such requirements); or
+
+(ii) There is not clear and convincing evidence that the exchange ensures the active trading of listed stocks.
+
+(c) *Primarily traded.* For purposes of this section, stock of a corporation is primarily traded in a country on one or more established securities markets, as defined in paragraph (b) of this section, if, with respect to each class of stock described in paragraph (d)(1)(i) of this section (relating to classes of stock relied on to meet the regularly traded test)—
+
+(1) The number of shares in each such class that are traded during the taxable year on all established securities markets in that country exceeds
+
+(2) The number of shares in each such class that are traded during that year on established securities markets in any other single country.
+
+(d) *Regularly traded*—(1) *General rule.* For purposes of this section, stock of a corporation is regularly traded on one or more established securities markets, as defined in paragraph (b) of this section, if—
+
+(i) One or more classes of stock of the corporation that, in the aggregate, represent more than 50 percent of the total combined voting power of all classes of stock of such corporation entitled to vote and of the total value of the stock of such corporation are listed on such market or markets during the taxable year; and
+
+(ii) With respect to each class relied on to meet the more than 50 percent requirement of paragraph (d)(1)(i) of this section—
+
+(A) Trades in each such class are effected, other than in *de minimis* quantities, on such market or markets on at least 60 days during the taxable year (or1/6 of the number of days in a short taxable year); and
+
+(B) The aggregate number of shares in each such class that are traded on such market or markets during the taxable year are at least 10 percent of the average number of shares outstanding in that class during the taxable year (or, in the case of a short taxable year, a percentage that equals at least 10 percent of the average number of shares outstanding in that class during the taxable year multiplied by the number of days in the short taxable year, divided by 365).
+
+(2) *Classes of stock traded on a domestic established securities market treated as meeting trading requirements.* A class of stock that is traded during the taxable year on an established securities market located in the United States shall be considered to meet the trading requirements of paragraph (d)(1)(ii) of this section if the stock is regularly quoted by dealers making a market in the stock. A dealer makes a market in a stock only if the dealer regularly and actively offers to, and in fact does, purchase the stock from, and sell the stock to, customers who are not related persons (as defined in section 954(d)(3)) with respect to the dealer in the ordinary course of a trade or business.
+
+(3) *Closely-held classes of stock not treated as meeting trading requirements*—(i) *General rule.* Except as provided in paragraph (d)(3)(ii) of this section, a class of stock of a foreign corporation that otherwise meets the requirements of paragraph (d)(1) or (2) of this section shall not be treated as meeting such requirements for a taxable year if, for more than half the number of days during the taxable year, one or more persons who own at least 5 percent of the vote and value of the outstanding shares of the class of stock, as determined under paragraph (d)(3)(iii) of this section (each a 5-percent shareholder), own, in the aggregate, 50 percent or more of the vote and value of the outstanding shares of the class of stock. If one or more 5-percent shareholders own, in the aggregate, 50 percent or more of the vote and value of the outstanding shares of the class of stock, such shares held by the 5-percent shareholders will constitute a closely-held block of stock.
+
+(ii) *Exception.* Paragraph (d)(3)(i) of this section shall not apply to a class of stock if the foreign corporation can establish that qualified shareholders, as defined in § 1.883-4(b), applying the attribution rules of § 1.883-4(c), own sufficient shares in the closely-held block of stock to preclude nonqualified shareholders in the closely-held block of stock from owning 50 percent or more of the total value of the class of stock of which the closely-held block is a part for more than half the number of days during the taxable year. Any shares that are owned, after application of the attribution rules in § 1.883-4(c), by a qualified shareholder shall not also be treated as owned by a nonqualified shareholder in the chain of ownership for purposes of the preceding sentence. A foreign corporation must obtain the documentation described in § 1.883-4(d) from the qualified shareholders relied upon to satisfy this exception. However, no person otherwise treated as a qualified shareholder under § 1.883-4(b) may be treated for purposes of this paragraph (d)(3) as a qualified shareholder if such person's interest in the foreign corporation, or in any intermediary corporation, is held through bearer shares that are not maintained during the relevant period in a dematerialized or immobilized book-entry system, as described in § 1.883-1(c)(3)(i)(G).
+
+(iii) *Five-percent shareholders*—(A) *Related persons.* Solely for purposes of determining whether a person is a 5-percent shareholder, persons related within the meaning of section 267(b) shall be treated as one person. In determining whether two or more corporations are members of the same controlled group under section 267(b)(3), a person is considered to own stock owned directly by such person, stock owned through the application of section 1563(e)(1), and stock owned through the application of section 267(c). In determining whether a corporation is related to a partnership under section 267(b)(10), a person is considered to own the partnership interest owned directly by such person and the partnership interest owned through the application of section 267(e)(3).
+
+(B) *Investment companies.* For purposes of this paragraph (d)(3), an investment company registered under the Investment Company Act of 1940, as amended (54 Stat. 789), shall not be treated as a 5-percent shareholder.
+
+(4) *Anti-abuse rule.* Trades between or among related persons described in section 267(b), as modified by paragraph (d)(3)(iii) of this section, and trades conducted in order to meet the requirements of paragraph (d)(1) of this section shall be disregarded. A class of stock shall not be treated as meeting the trading requirements of paragraph (d)(1) of this section if there is a pattern of trades conducted to meet the requirements of that paragraph. For example, trades between two persons that occur several times during the taxable year may be treated as an arrangement or a pattern of trades conducted to meet the trading requirements of paragraph (d)(1)(ii) of this section.
+
+(5) *Example.* The closely-held test in paragraph (d)(3) of this section is illustrated by the following example:
+
+Example. Closely-held exception.(i) *Facts.* X is a foreign corporation organized in a qualified foreign country and engaged in the international operation of ships. X has one class of stock, which is primarily traded on an established securities market in the qualified foreign country. The stock of X meets the regularly traded requirements of paragraph (d)(1)(ii) of this section without regard to paragraph (d)(3)(i) of this section. A, B, C and D are four members of the corporation's founding family who each own, during the entire taxable year, 25 percent of the stock of Hold Co, a company that issues registered shares. Hold Co, in turn, owns 60 percent of the stock of X during the entire taxable year. The remaining 40 percent of the stock of X is not owned by any 5-percent shareholder, as determined under paragraph (d)(3)(iii) of this section. A, B, and C are not residents of a qualified foreign country, but D is a resident of a qualified foreign country.
+
+(ii) *Analysis.* Because Hold Co owns 60 percent of the stock of X for more than half the number of days during the taxable year, Hold Co is a 5-percent shareholder that owns 50 percent or more of the value of the stock of X. Thus, the shares owned by Hold Co constitute a closely-held block of stock. Under paragraph (d)(3)(i) of this section, the stock of X will not be regularly traded within the meaning of paragraph (d)(1) of this section unless X can establish, under paragraph (d)(3)(ii) of this section, that qualified shareholders within the closely-held block of stock own sufficient shares in the closely-held block of stock to preclude nonqualified shareholders in the closely-held block of stock from owning 50 percent or more of the value of the outstanding shares in the class of stock for more than half the number of days during the taxable year. A, B, and C are not qualified shareholders within the meaning of § 1.883-4(b) because they are not residents of a qualified foreign country, but D is a resident of a qualified foreign country and therefore is a qualified shareholder. D owns 15 percent of the outstanding shares of X through Hold Co (25 percent × 60 percent = 15 percent) while A, B, and C in the aggregate own 45 percent of the outstanding shares of X through Hold Co. D, therefore, owns sufficient shares in the closely-held block of stock to preclude the nonqualified shareholders in the closely-held block of stock, A, B and C, from owning 50 percent or more of the value of the class of stock (60 percent−15 percent = 45 percent) of which the closely-held block is a part. Provided that X obtains from D the documentation described in § 1.883-4(d), X's sole class of stock meets the exception in paragraph (d)(3)(ii) of this section and will not be disqualified from the regularly traded test by virtue of paragraph (d)(3)(i) of this section.
+
+(e) *Substantiation that a foreign corporation is publicly traded*—(1) *General rule.* A foreign corporation that relies on the publicly traded test of this section to meet the stock ownership test of § 1.883-1(c)(2) must substantiate that the stock of the foreign corporation is primarily and regularly traded on one or more established securities markets, as that term is defined in paragraph (b) of this section. If one of the classes of stock on which the foreign corporation relies to meet this test is closely-held within the meaning of paragraph (d)(3)(i) of this section, the foreign corporation must obtain an ownership statement described in § 1.883-4(d) from each qualified shareholder and intermediary that it relies upon to satisfy the exception to the closely-held test, but only to the extent such statement would be required if the foreign corporation were relying on the qualified shareholder stock ownership test of § 1.883-4 with respect to those shares of stock. The foreign corporation must also maintain and provide to the Commissioner upon request a list of its shareholders of record and any other relevant information known to the foreign corporation supporting its entitlement to an exemption under this section.
+
+(2) *Availability and retention of documents for inspection.* A foreign corporation seeking qualified foreign corporation status must retain the documentation described in paragraph (e)(1) of this section until the expiration of the statute of limitations for its taxable year to which the documentation relates. The foreign corporation must make such documentation available for inspection at such time and such place as the Commissioner requests in writing under § 1.883-1(c)(3)(ii)(A) or (B).
+
+(f) *Reporting requirements.* A foreign corporation relying on this section to satisfy the stock ownership test of § 1.883-1(c)(2) must provide the following information in addition to the information required in § 1.883-1(c)(3) to be included in its Form 1120-F, “U.S. Income Tax Return of a Foreign Corporation,” for the taxable year. The information must be current as of the end of the corporation's taxable year and must include the following—
+
+(1) The name of the country in which the stock is primarily traded;
+
+(2) The name of the established securities market or markets on which the stock is listed;
+
+(3) A description of each class of stock relied upon to meet the requirements of paragraph (d) of this section, including whether the class is issued in registered or bearer form and whether any such bearer shares are maintained in a dematerialized or immobilized book-entry system, as described in § 1.883-1(c)(3)(i)(G), the number of shares issued and outstanding in that class as of the close of the taxable year, and the relative value of each class in relation to the total value of all shares of stock of the corporation that are outstanding as of the close of the taxable year;
+
+(4) For each class of stock relied upon to meet the requirements of paragraph (d) of this section, if one or more 5-percent shareholders, as defined in paragraph (d)(3)(i) of this section, own in the aggregate 50 percent or more of the vote and value of the outstanding shares of that class of stock for more than half the number of days during the taxable year—
+
+(i) The days during the taxable year of the corporation in which the stock was closely-held without regard to the exception in paragraph (d)(3)(ii) of this section and the percentage of the vote and value of the class of stock that is owned by 5-percent shareholders during such days;
+
+(ii) With respect to all qualified shareholders that own directly, or by application of the attribution rules in § 1.883-4(c), shares of the closely-held block of stock and that the foreign corporation relies on to satisfy the exception provided by paragraph (d)(3)(ii) of this section—
+
+(A) The number of such qualified shareholders;
+
+(B) The total percentage of the value of the shares owned, directly or indirectly, by such qualified shareholders by country of residence, determined under § 1.883-4(b)(2) (residence of individual shareholders) or § 1.883-4(d)(3) (special rules for residence of certain shareholders); and
+
+(C) The number of days during the taxable year of the foreign corporation that such qualified shareholders owned, directly or indirectly, their shares in the closely held block of stock.
+
+(5) Any other relevant information specified by Form 1120-F and its accompanying instructions.
+
+[T.D. 9087, 68 FR 51406, Aug. 26, 2003, as amended by T.D. 9332, 72 FR 34606, June 25, 2007; T.D. 9502, 75 FR 56862, Sept. 17, 2010; 75 FR 63380, Oct. 15, 2010]

@@ -1,0 +1,3 @@
+##### § 1149.68 What judicial review is available? #####
+
+Section 3805 of title 31, United States Code, authorizes Judicial review by the appropriate United States District Court of any final NEA decision by the authority head imposing penalties or assessments under this part. To obtain judicial review, you must file a petition with the appropriate court in a timely manner. (See paragraphs (a) through (e) of 31 U.S.C. 3805 for a description of how judicial review is authorized.)

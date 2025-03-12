@@ -1,0 +1,11 @@
+##### § 595.203 Holding of certain types of blocked property in interest-bearing accounts. #####
+
+(a)(1) Any person, including a U.S. financial institution, currently holding property subject to § 595.201 which, as of the effective date or the date of receipt if subsequent to the effective date, is not being held in an interest-bearing account, or otherwise invested in a manner authorized by the Office of Foreign Assets Control, shall transfer such property to, or hold such property or cause such property to be held in, an interest-bearing account or interest-bearing status in a U.S. financial institution as of the effective date or the date of receipt if subsequent to the effective date of this section, unless otherwise authorized or directed by the Office of Foreign Assets Control.
+
+(2) The requirement set forth in paragraph (a)(1) of this section shall apply to currency, bank deposits, accounts, obligations, and any other financial or economic resources or assets, and any proceeds resulting from the sale of tangible or intangible property. If interest is credited to an account separate from that in which the interest-bearing asset is held, the name of the account party on both accounts must be the same and must clearly indicate the specially designated terrorist having an interest in the accounts. If the account is held in the name of a specially designated terrorist, the name of the account to which interest is credited must be the same.
+
+(b) For purposes of this section, the term *interest-bearing account* means a blocked account in a U.S. financial institution earning interest at rates that are commercially reasonable for the amount of funds in the account. Except as otherwise authorized, the funds may not be invested or held in instruments the maturity of which exceeds 180 days.
+
+(c) This section does not apply to blocked tangible property, such as chattels, nor does it create an affirmative obligation on the part of the holder of such blocked tangible property to sell or liquidate the property and put the proceeds in a blocked account. However, the Office of Foreign Assets Control may issue licenses permitting or directing sales of tangible property in appropriate cases.
+
+[61 FR 3806, Feb. 2, 1996, as amended at 78 FR 38575, June 27, 2013]

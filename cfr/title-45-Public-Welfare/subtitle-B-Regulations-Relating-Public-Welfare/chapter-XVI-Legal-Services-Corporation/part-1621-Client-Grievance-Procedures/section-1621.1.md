@@ -1,0 +1,3 @@
+##### § 1621.1 Purpose. #####
+
+This Part is intended to help ensure that recipients provide the highest quality legal assistance to clients as required by the LSC Act and are accountable to clients and applicants for legal assistance by requiring recipients to establish grievance procedures to process complaints by applicants about the denial of legal assistance and clients about the manner or quality of legal assistance provided. This Part is further intended to help ensure that the grievance procedures adopted by recipients will result, to the extent possible, in the provision of an effective remedy in the resolution of complaints.

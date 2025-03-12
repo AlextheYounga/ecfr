@@ -1,0 +1,3 @@
+##### § 501.717 Consolidation of proceedings. #####
+
+By order of the Administrative Law Judge, proceedings involving common questions of law and fact may be consolidated for hearing of any or all the matters at issue in such proceedings. The Administrative Law Judge may make such orders concerning the conduct of such proceedings as he or she deems appropriate to avoid unnecessary cost or delay. Consolidation shall not prejudice any rights under this subpart and shall not affect the right of any party to raise issues that could have been raised if consolidation had not occurred.

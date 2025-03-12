@@ -1,0 +1,3 @@
+##### § 35.1 Scope of regulations. #####
+
+The regulations in this part shall apply only to claims asserted under the Federal Tort Claims Act, as amended, 28 U.S.C. sections 2671-2680, accruing on or after January 18, 1967, for money damages against the United States for damage to or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Department of Health and Human Services while acting within the scope of his office or employment.

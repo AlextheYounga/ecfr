@@ -1,0 +1,3 @@
+##### § 31.3307-1 Deductions by an employer from remuneration of an employee. #####
+
+Any amount deducted by an employer from the remuneration of an employee is considered to be a part of the employee's remuneration and is considered to be paid to the employee as remuneration at the time that the deduction is made. It is immaterial that any act of Congress or the law of any State requires or permits such deductions and the payment of the amount thereof to the United States, a State, or any political subdivision thereof.

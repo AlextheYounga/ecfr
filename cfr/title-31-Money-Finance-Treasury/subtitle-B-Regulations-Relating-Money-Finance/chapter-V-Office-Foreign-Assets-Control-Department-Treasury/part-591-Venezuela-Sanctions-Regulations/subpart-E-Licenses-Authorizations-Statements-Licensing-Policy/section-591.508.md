@@ -1,0 +1,3 @@
+##### § 591.508 Authorization of emergency medical services. #####
+
+The provision of nonscheduled emergency medical services in the United States to persons whose property and interests in property are blocked pursuant to § 591.201 or any further Executive orders relating to the national emergency declared in Executive Order 13692 of March 8, 2015, is authorized, provided that all receipt of payment for such services must be specifically licensed.

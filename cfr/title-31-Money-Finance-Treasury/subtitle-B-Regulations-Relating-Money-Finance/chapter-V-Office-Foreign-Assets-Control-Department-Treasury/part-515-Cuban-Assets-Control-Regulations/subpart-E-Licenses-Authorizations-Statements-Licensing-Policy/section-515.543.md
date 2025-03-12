@@ -1,0 +1,5 @@
+##### § 515.543 Proof of origin. #####
+
+Specific licenses for importation of goods of Cuban origin are generally not issued unless the applicant submits satisfactory documentary proof of the location of the goods outside Cuba prior to July 8, 1963 and of the absence of any Cuban interest in the goods at all times on or since that date. Since the type of document which would constitute satisfactory proof varies depending upon the facts of the particular case, it is not possible to state in advance the type of documents required. However, it has been found that affidavits, statements, invoices, and other documents prepared by manufacturers, processors, sellers or shippers cannot be relied on and are therefore not by themselves accepted by the Office of Foreign Assets Control as satisfactory proof of origin. Independent corroborating documentary evidence, such as insurance documents, bills of lading, etc., may be accepted as satisfactory proof.
+
+[39 FR 25317, July 10, 1974]

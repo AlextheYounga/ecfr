@@ -1,0 +1,3 @@
+##### § 403.27 Type and conditions of cost bond. #####
+
+The cost bond filed by a claimant pursuant to § 403.26(a)(4) shall be a corporate surety bond. However, upon a showing to the satisfaction of the Commissioner or his delegate that such claimant is unable to furnish a corporate surety bond, such claimant may file a cost bond with individual sureties acceptable to the Commissioner or his delegate or, in lieu of such cost bond with corporate or individual sureties, he may deposit collateral pursuant to § 403.29.

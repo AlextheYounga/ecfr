@@ -1,0 +1,3 @@
+##### § 1705.1 Purpose and scope. #####
+
+These procedures provide the means by which individuals may safeguard their privacy by obtaining access to, and requesting amendments or corrections in, information, if any, about these individuals which is contained in the White House Conference Delegate/Alternate Certification File (D/AC File), which is under the control of the National Commission on Libraries and Information Science (hereafter, the Commission).

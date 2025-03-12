@@ -1,0 +1,3 @@
+##### § 31.6101-1 Period covered by returns. #####
+
+The period covered by any return required under the regulations in this subpart shall be as provided in those provisions of the regulations under which the return is required to be made. See § 31.6011(a)-1, relating to returns of taxes under the Federal Insurance Contributions Act; § 31.6011(a)-2, relating to returns of taxes under the Railroad Retirement Tax Act; § 31.6011(a)-3, relating to returns of tax under the Federal Unemployment Tax Act; § 31.6011(a)-4, relating to returns of income tax withheld under section 3402; and § 31.6011(a)-5, relating to monthly returns of taxes under the Federal Insurance Contributions Act and of income tax withheld under section 3402.

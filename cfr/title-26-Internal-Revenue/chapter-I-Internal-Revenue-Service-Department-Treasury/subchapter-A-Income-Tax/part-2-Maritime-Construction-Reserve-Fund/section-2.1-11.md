@@ -1,0 +1,3 @@
+##### § 2.1-11 Time deposits. #####
+
+Deposits in the construction reserve fund not invested in securities may be placed in time deposits when, in the judgment of the taxpayer, it is desirable and feasible so to do. The taxpayer shall promptly advise the Administration of any time deposit arrangements made with the depository. The Administration reserves the right at any time to require the termination or modification of any such arrangements. With prior approval of the Administration a time deposit may be made in a depository other than the one with which the construction reserve fund is established.

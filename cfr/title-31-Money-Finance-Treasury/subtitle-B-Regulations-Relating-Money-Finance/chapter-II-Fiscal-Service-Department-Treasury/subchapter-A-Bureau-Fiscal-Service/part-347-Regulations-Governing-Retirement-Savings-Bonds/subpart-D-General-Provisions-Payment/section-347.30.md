@@ -1,0 +1,3 @@
+##### § 347.30 Payment (redemption). #####
+
+Payment of retirement savings bonds will be made to the designated Roth IRA custodian upon the custodian's submission of a request for redemption to the Bureau of the Fiscal Service. The custodian shall request the redemption of all retirement savings bonds at their respective maturity. The custodian shall request the partial redemption of bonds held on behalf of program participants upon the request of an individual entitled to amounts in the Roth IRA. Retirement savings bond redemptions will be rounded to the nearest one cent.

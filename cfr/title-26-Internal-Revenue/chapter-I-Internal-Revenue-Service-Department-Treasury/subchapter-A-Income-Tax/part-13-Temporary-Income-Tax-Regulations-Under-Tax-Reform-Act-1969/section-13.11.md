@@ -1,0 +1,7 @@
+##### § 13.11 Revocation of election to report income on the installment basis. #####
+
+(a) *In general.* Under section 453(c)(4) taxpayers who are dealers in personal property and who elected installment-basis income reporting, subject to the provisions of section 453(c)(1) (relating to change from accrual to installment basis), may revoke their previously made election.
+
+(b) *Time and manner of revoking election.* The revocation by a taxpayer may be made by filing an amended return on an appropriate form or forms, such as Form 1040X for an individual taxpayer, for the year of change (the first year for which income was computed using the installment basis) and for each subsequent year for which a return was filed using the installment basis. The taxpayer should indicate on such amended returns that he is revoking an election to report income on the installment basis. Such revocation must be made within 3 years from the last date prescribed for the filing of the return for the year of change including any extension of time granted the taxpayer. In reporting income on the amended returns described in this section, the taxpayer shall use the accrual method of accounting.
+
+[T.D. 7044, 35 FR 8823, June 6, 1970]

@@ -1,0 +1,3 @@
+##### § 576.508 Judicial process in legal proceedings involving ecological accidents. #####
+
+The Office of Foreign Assets Control may issue specific licenses on a case-by-case basis to authorize the attachment, judgment, decree, lien, execution, garnishment, or other judicial process against property and interests in property protected by § 576.206 to satisfy liability for damages assessed in connection with an ecological accident (including an oil spill) that occurred after May 22, 2003.

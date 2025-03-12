@@ -1,0 +1,5 @@
+##### § 536.704 Penalty notice. #####
+
+(a) *No violation.* If, after considering any written response to the prepenalty notice and any relevant facts, the Director of the Office of Foreign Assets Control determines that there was no violation by the respondent named in the prepenalty notice, the Director promptly shall notify the respondent in writing of that determination and that no monetary penalty will be imposed.
+
+(b) *Violation.* If, after considering any written response to the prepenalty notice and any relevant facts, the Director of the Office of Foreign Assets Control determines that there was a violation by the respondent named in the prepenalty notice, the Director promptly shall issue a written notice of the imposition of the monetary penalty or other available disposition on the respondent.

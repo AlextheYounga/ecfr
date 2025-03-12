@@ -1,0 +1,39 @@
+##### § 1010.630 Prohibition on correspondent accounts for foreign shell banks; records concerning owners of foreign banks and agents for service of legal process. #####
+
+(a) *Requirements for covered financial institutions*—(1) *Prohibition on correspondent accounts for foreign shell banks.* (i) A covered financial institution shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign shell bank.
+
+(ii) A covered financial institution shall take reasonable steps to ensure that any correspondent account established, maintained, administered, or managed by that covered financial institution in the United States for a foreign bank is not being used by that foreign bank to indirectly provide banking services to a foreign shell bank.
+
+(iii) Nothing in paragraph (a)(1) of this section prohibits a covered financial institution from providing a correspondent account or banking services to a regulated affiliate.
+
+(2) *Records of owners and agents.* (i) Except as provided in paragraph (a)(2)(ii) of this section, a covered financial institution that maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of each such foreign bank whose shares are not publicly traded and the name and street address of a person who resides in the United States and is authorized, and has agreed to be an agent to accept service of legal process for records regarding each such account.
+
+(ii) A covered financial institution need not maintain records of the owners of any foreign bank that is required to have on file with the Federal Reserve Board a Form FR Y-7 that identifies the current owners of the foreign bank as required by such form.
+
+(iii) For purposes of paragraph (a)(2)(i) of this section, *publicly traded* refers to shares that are traded on an exchange or on an organized over-the-counter market that is regulated by a foreign securities authority as defined in section 3(a)(50) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(50)).
+
+(b) *Safe harbor.* Subject to paragraphs (c) and (d) of this section, a covered financial institution will be deemed to be in compliance with the requirements of paragraph (a) of this section with respect to a foreign bank if the covered financial institution obtains, at least once every three years, a certification or recertification from the foreign bank.
+
+(c) *Interim verification.* If at any time a covered financial institution knows, suspects, or has reason to suspect, that any information contained in a certification or recertification provided by a foreign bank, or otherwise relied upon by the covered financial institution for purposes of this section, is no longer correct, the covered financial institution shall request that the foreign bank verify or correct such information, or shall take other appropriate measures to ascertain the accuracy of the information or to obtain correct information, as appropriate. See paragraph (d)(3) of this section for additional requirements if a foreign bank fails to verify or correct the information or if a covered financial institution cannot ascertain the accuracy of the information or obtain correct information.
+
+(d) *Closure of correspondent accounts*—(1) *Accounts existing on October 28, 2002.* In the case of any correspondent account that was in existence on October 28, 2002, if the covered financial institution has not obtained a certification (or recertification) from the foreign bank, or has not otherwise obtained documentation of the information required by such certification (or recertification), on or before March 31, 2003, and at least once every three years thereafter, the covered financial institution shall close all correspondent accounts with such foreign bank within a commercially reasonable time, and shall not permit the foreign bank to establish any new positions or execute any transaction through any such account, other than transactions necessary to close the account.
+
+(2) *Accounts established after October 28, 2002.* In the case of any correspondent account established after October 28, 2002, if the covered financial institution has not obtained a certification (or recertification), or has not otherwise obtained documentation of the information required by such certification (or recertification) within 30 calendar days after the date the account is established, and at least once every three years thereafter, the covered financial institution shall close all correspondent accounts with such foreign bank within a commercially reasonable time, and shall not permit the foreign bank to establish any new positions or execute any transaction through any such account, other than transactions necessary to close the account.
+
+(3) *Verification of previously provided information.* In the case of a foreign bank with respect to which the covered financial institution undertakes to verify information pursuant to paragraph (c) of this section, if the covered financial institution has not obtained, from the foreign bank or otherwise, verification of the information or corrected information within 90 calendar days after the date of undertaking the verification, the covered financial institution shall close all correspondent accounts with such foreign bank within a commercially reasonable time, and shall not permit the foreign bank to establish any new positions or execute any transaction through any such account, other than transactions necessary to close the account.
+
+(4) *Reestablishment of closed accounts and establishment of new accounts.* A covered financial institution shall not reestablish any account closed pursuant to this paragraph (d), and shall not establish any other correspondent account with the concerned foreign bank, until it obtains from the foreign bank the certification or the recertification, as appropriate.
+
+(5) *Limitation on liability.* A covered financial institution shall not be liable to any person in any court or arbitration proceeding for terminating a correspondent account in accordance with this paragraph (d).
+
+(e) *Recordkeeping requirement.* A covered financial institution shall retain the original of any document provided by a foreign bank, and the original or a copy of any document otherwise relied upon by the covered financial institution, for purposes of this section, for at least 5 years after the date that the covered financial institution no longer maintains any correspondent account for such foreign bank. A covered financial institution shall retain such records with respect to any foreign bank for such longer period as the Secretary may direct.
+
+(f) *Special rules concerning information requested prior to October 28, 2002*—(1) *Definition.* For purposes of this paragraph (f) the term “Interim Guidance” means:
+
+(i) The Interim Guidance of the Department of the Treasury dated November 20, 2001 and published in the Federal Register on November 27, 2001; or
+
+(ii) The guidance issued in a document published in the Federal Register on December 28, 2001.
+
+(2) *Use of Interim Guidance certification.* In the case of a correspondent account in existence on October 28, 2002, the term “certification” as used in paragraphs (b), (c), (d)(1), and (d)(3) of this section shall also include the certification appended to the Interim Guidance, provided that such certification was requested prior to October 28, 2002 and obtained by the covered financial institution on or before December 26, 2002.
+
+(3) *Recordkeeping requirement.* Paragraph (e) of this section shall apply to any document provided by a foreign bank, or otherwise relied upon by a covered financial institution, for purposes of the Interim Guidance.

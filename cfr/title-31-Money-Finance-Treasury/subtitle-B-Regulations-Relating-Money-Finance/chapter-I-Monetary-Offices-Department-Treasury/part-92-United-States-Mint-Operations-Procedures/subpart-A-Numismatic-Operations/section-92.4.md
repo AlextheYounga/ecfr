@@ -1,0 +1,3 @@
+##### § 92.4 Uncirculated Mint Sets. #####
+
+Uncirculated Mint Sets, *i.e.*, specially packaged coin sets containing one coin of each denomination struck at the Mints at Philadelphia and Denver, and the Assay Office at San Francisco, will be made as authorized by the Director of the Mint and will be sold at a price sufficient to cover their face value plus the additional expense of their processing and sale. Their manufacture and issuance are contingent upon demands of regular operations. Information concerning availability and price may be obtained from the Director of the Mint, Treasury Department, Washington, DC 20220.

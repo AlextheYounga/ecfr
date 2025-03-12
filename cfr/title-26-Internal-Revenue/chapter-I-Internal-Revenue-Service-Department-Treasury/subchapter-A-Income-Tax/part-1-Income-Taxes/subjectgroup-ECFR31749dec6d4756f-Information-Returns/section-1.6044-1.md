@@ -1,0 +1,11 @@
+##### § 1.6044-1 Returns of information as to patronage dividends with respect to patronage occurring in taxable years beginning before 1963. #####
+
+(a) *Requirement*—(1) *In general.* Except as provided in subparagraph (2) of this paragraph, any corporation allocating to any patron in respect of patronage occurring in any taxable year of the corporation beginning before January 1, 1963, amounts aggregating $100 or more during a calendar year as patronage dividends, rebates, or refunds (whether in cash, merchandise, capital stock, revolving fund certificates, retain certificates, letters of advice, or in some other manner that discloses to each patron the amount of such dividend, rebate, or refund) shall for each such calendar year file a return of information with respect to such allocation on Forms 1096 and 1099. A separate Form 1099 shall be prepared for each patron showing the name and address of the patron to whom such allocation is made, and the amount of the allocation. The allocation shall be reported for the calendar year during which the allocation is made, regardless of whether the allocation is deemed for the purpose of section 522 to be made at the close of a preceding taxable year of the corporation.
+
+(2) *Exception.* A return is not required under this section in the case of any corporation (including any cooperative or nonprofit corporation engaged in rural electrification) described in section 501(c) (12) or (15) which is exempt from tax under section 501(a), or in the case of any corporation subject to a tax imposed by subchapter L, chapter 1, of the Code.
+
+(b) *Time and place for filing.* Returns made under this section on Forms 1096 and 1099 for any calendar year shall be filed on or before February 28 of the following year with any of the Internal Revenue Service Centers, the addresses of which are listed in the instructions for such forms.
+
+(c) *Definitions.* The terms “cooperative association”, “patron”, “patronage dividends, rebates, and refunds”, and “allocation” are defined, for the purpose of this section, in paragraph (b) of § 1.522-1.
+
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 6628, 27 FR 12798, Dec. 28, 1962]

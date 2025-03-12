@@ -1,0 +1,3 @@
+##### § 506.19 Members of the Armed Forces of the United States precluded from receiving award of compensation. #####
+
+Any member of the Armed Forces of the United States, who at any time, voluntarily, knowingly, and without duress gave aid to or collaborated with, or in any manner served any force hostile to the United States, is precluded from receiving an award of compensation based on that member's capture and internment.

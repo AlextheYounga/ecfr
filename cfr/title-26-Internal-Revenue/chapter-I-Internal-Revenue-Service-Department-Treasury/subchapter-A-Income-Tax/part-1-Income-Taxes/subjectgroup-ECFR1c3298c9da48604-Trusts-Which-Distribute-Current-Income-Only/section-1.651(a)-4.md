@@ -1,0 +1,3 @@
+##### § 1.651(a)-4 Charitable purposes. #####
+
+A trust is not considered to be a trust which may pay, permanently set aside, or use any amount for charitable, etc., purposes for any taxable year for which it is not allowed a charitable, etc., deduction under section 642(c). Therefore, a trust with a remainder to a charitable organization is not disqualified for treatment as a simple trust if either (a) the remainder is subject to a contingency, so that no deduction would be allowed for capital gains or other amounts added to corpus as amounts permanently set aside for a charitable, etc., purpose under section 642 (c), or (b) the trust receives no capital gains or other income added to corpus for the taxable year for which such a deduction would be allowed.

@@ -1,0 +1,3 @@
+##### § 501.301 Definitions. #####
+
+Definitions of terms used in this part are found in subpart C of the part within this chapter applicable to the relevant application, record, report, procedure or transaction. In the case of economic sanctions programs for which implementation and administration are delegated to the Office of Foreign Assets Control but for which regulations have not yet been issued, the definitions of terms in this part are governed by definitions contained in the implementing statute or Executive order.

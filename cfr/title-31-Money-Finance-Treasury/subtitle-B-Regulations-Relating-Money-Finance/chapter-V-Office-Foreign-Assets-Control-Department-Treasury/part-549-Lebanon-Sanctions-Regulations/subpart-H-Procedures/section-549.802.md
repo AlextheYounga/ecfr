@@ -1,0 +1,3 @@
+##### § 549.802 Delegation by the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13441 of August 1, 2007 (72 FR 43499, Aug. 3, 2007), and any further Executive orders relating to the national emergency declared therein, may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

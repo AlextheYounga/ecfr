@@ -1,0 +1,5 @@
+##### § 801.4 Customer satisfaction measures. #####
+
+The customer satisfaction goals and accomplishments of operating units within the IRS will be determined on the basis of information gathered through various methods. For example, questionnaires, surveys and other types of information gathering mechanisms may be employed to gather data regarding customer satisfaction. Information to measure customer satisfaction for a particular work unit will be gathered from a statistically valid sample of the customers served by that operating unit and will be used to measure, among other things, whether those customers believe that they received courteous, timely, and professional treatment by the IRS personnel with whom they dealt. Customers will be permitted to provide information requested for these purposes under conditions that guarantee them anonymity. For purposes of this section, customers may include individual taxpayers, organizational units, or employees within the IRS and external groups affected by the services performed by the IRS operating unit.
+
+[T.D. 8830, 64 FR 42835, Aug. 6, 1999. Redesignated by T.D. 9426, 73 FR 60626, Oct. 14, 2008]

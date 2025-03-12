@@ -1,0 +1,31 @@
+##### § 1.959-2 Exclusion from gross income of controlled foreign corporations of previously taxed earnings and profits. #####
+
+(a) *Applicable rule.* The earnings and profits for a taxable year of a controlled foreign corporation attributable to amounts which are, or have been, included in the gross income of a United States shareholder under section 951(a) shall not, when distributed through a chain of ownership described in section 958(a), be also included in the gross income of another controlled foreign corporation in such chain for purposes of the application of section 951(a) to such other controlled foreign corporation with respect to such United States shareholder. See section 959(b). The exclusion from the income of such other foreign corporation also applies with respect to any other United States shareholder who acquires from such United States shareholder or any other person any portion of the interest of such United States shareholder in the controlled foreign corporation, but only to the extent the acquiring shareholder establishes to the satisfaction of the district director his right to such exclusion. An acquiring shareholder claiming the exclusion under section 959(b) shall furnish to the district director with his return for the taxable year the information required under paragraph (d) of § 1.959-1 to support the exclusion under this paragraph.
+
+(b) *Illustration.* The application of this section may be illustrated by the following example:
+
+Example.(a) A, a United States shareholder, owns 100 percent of the only class of stock of M Corporation which in turn owns 100 percent of the only class of stock of N Corporation. A and corporations M and N use the calendar year as a taxable year and corporations M and N are controlled foreign corporations throughout the period here involved.
+
+(b) During 1963, N Corporation invests $100 in tangible property (other than property described in section 956(b)(2)) located in the United States and has earnings and profits in excess of $100. A is required to include $100 in his gross income for 1963 under section 951(a)(1)(B) by reason of his indirect ownership of the stock of N Corporation. During 1963, M Corporation has no income or investments other than the income derived from a distribution of $100 from N Corporation. Corporation M has earnings and profits of $100 for 1963. Under paragraph (a) of § 1.954-2, the $100 distribution received by M Corporation from N Corporation would otherwise constitute subpart F income of M Corporation; however, by reason of section 959(b) and this section, this amount does not constitute gross income of M Corporation for purposes of determining amounts includible in A's gross income under section 951(a)(1)(A)(i).
+
+(c) During 1964, N Corporation derives $100 of subpart F income and distributes $100 to M Corporation which has no subpart F income for 1964 but which invests the $100 distribution in tangible property (other than property described in section 956(b)(2)) located in the United States. Corporation N's earnings and profits for 1964 are in excess of $100, and M Corporation's current and accumulated earnings and profits (before taking into account distributions made during 1964) are in excess of $100. A is required with respect to N Corporation to include $100 in his gross income for 1964 under section 951(a)(1)(A)(i) by reason of his indirect ownership of the stock of N Corporation. The investment by M Corporation in United States property would otherwise constitute an investment of earnings in United States property to which section 956 applies; however, by reason of section 959(b) and this section, such amount does not constitute gross income of M Corporation for purposes of determining amounts includible in A's gross income under section 951(a)(1)(B).
+
+(d) If during 1965, N Corporation invests $100 in tangible property (other than property described in section 956(b)(2)) located in the United States and has earnings and profits in excess of $100, A will be required with respect to N Corporation to include $100 in his gross income for 1965 under section 951(a)(1)(B), because the $100 of earnings and profits for 1964 attributable to N Corporation's subpart F income which was taxed to A in 1964 was distributed to M Corporation in such year.
+
+(e) If, with respect to 1966—
+
+(1) Corporation N owns 100 percent of the only class of stock of R Corporation,
+
+(2) Corporation R derives $100 of subpart F income, has earnings and profits in excess of $100, and makes no distributions to N Corporation,
+
+(3) Corporation N invests $25 in tangible property (other than property described in section 956(b)(2)) located in the United States and has current and accumulated earnings and profits in excess of $25, and
+
+(4) Corporation M has no income or investments and does not have a deficit in earnings and profits,
+
+the $100 of subpart F income derived by R Corporation is includible in A's gross income for 1966 under section 951(a)(1)(A)(i) and the $25 investment of earnings in United States property by N Corporation is includible in A's gross income for 1966 under section 951(a)(1)(B).(f) If, however, the facts are the same as in paragraph (e) of this example except that—
+
+(1) During 1966, R Corporation distributes $20 to N Corporation, and
+
+(2) Corporation N makes no distributions during such year to M Corporation,
+
+of the $25 investment in United States property by N Corporation, $20 is not includible in A's gross income for 1966 because such amount represents earnings and profits which are attributable to amounts included in A's gross income for such year under section 951(a)(1)(A)(i) with respect to R Corporation and which have been distributed to N Corporation by R Corporation. By reason of section 959(B) and this section, such $20 distribution to N Corporation does not constitute gross income of N Corporation for purposes of determining amounts includible in A's gross income under section 951(a)(1)(B); however, the remaining $5 of investment of earnings in United States property by N Corporation in 1966 is includible in A's gross income for such year under section 951(a)(1)(B).[T.D. 6795, 30 FR 944, Jan. 29, 1965]

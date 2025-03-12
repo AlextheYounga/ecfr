@@ -1,0 +1,7 @@
+##### § 1.535-1 Definition. #####
+
+(a) The accumulated earnings tax is imposed by section 531 on the accumulated taxable income. Accumulated taxable income is the taxable income of the corporation with the adjustments prescribed by section 535(b) and § 1.535-2, minus the sum of the dividends paid deduction and the accumulated earnings credit. See section 561 and the regulations thereunder, relating to the definition of the deduction for dividends paid, and section 535(c) and § 1.535-3, relating to the accumulated earnings credit.
+
+(b) In the case of a foreign corporation, whether resident or nonresident, which files or causes to be filed a return, the accumulated taxable income shall be the taxable income from sources within the United States with the adjustments prescribed by section 535(b) and § 1.535-2 minus the sum of the dividends paid deduction and the accumulated earnings credit. In the case of a foreign corporation which files no return, the accumulated taxable income shall be the gross income from sources within the United States without allowance of any deductions (including the accumulated earnings credit).
+
+[T.D. 6500, 25 FR 11737, Nov. 26, 1960, as amended by T.D. 7244, 37 FR 28897, Dec. 30, 1972]

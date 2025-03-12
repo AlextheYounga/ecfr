@@ -1,0 +1,3 @@
+##### § 515.409 Certain payments to a designated foreign country and nationals through third countries. #####
+
+Section 515.201 prohibits any request or authorization made by or on behalf of a bank or other person within the United States to a bank or other person outside of the United States as a result of which request or authorization such latter bank or person makes a payment or transfer of credit either directly or indirectly to a designated national.

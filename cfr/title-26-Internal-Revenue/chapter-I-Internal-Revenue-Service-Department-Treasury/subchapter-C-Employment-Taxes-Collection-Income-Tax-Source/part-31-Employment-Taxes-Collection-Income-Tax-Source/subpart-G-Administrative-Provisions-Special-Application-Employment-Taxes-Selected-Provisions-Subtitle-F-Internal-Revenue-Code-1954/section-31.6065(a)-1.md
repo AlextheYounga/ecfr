@@ -1,0 +1,3 @@
+##### § 31.6065(a)-1 Verification of returns or other documents. #####
+
+If a return, statement, or other document made under the regulations in this part is required by the regulations contained in this part, or the form and instructions issued with respect to such return, statement, or other document, to contain or be verified by a written declaration that it is made under the penalties of perjury, such return, statement, or other document shall be so verified by the person signing it.

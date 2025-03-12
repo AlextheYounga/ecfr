@@ -1,0 +1,3 @@
+##### § 347.40 Computation of interest. #####
+
+Retirement savings bonds earn interest at the same annual percentage rate as securities issued to the Government Securities Investment Fund (G Fund) in the Thrift Savings Plan for federal employees. The Secretary of the Treasury calculates the G Fund interest rate pursuant to 5 U.S.C. 8438(e)(2). The retirement savings bond interest rate compounds daily at 1/360 of the annual percentage rate. Retirement savings bonds will cease to bear interest on the date of their maturity.

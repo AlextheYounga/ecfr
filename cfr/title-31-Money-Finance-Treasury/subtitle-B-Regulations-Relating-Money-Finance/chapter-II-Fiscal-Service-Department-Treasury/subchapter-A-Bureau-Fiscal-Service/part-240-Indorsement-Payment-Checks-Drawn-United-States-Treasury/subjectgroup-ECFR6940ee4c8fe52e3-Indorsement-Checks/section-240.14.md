@@ -1,0 +1,13 @@
+##### § 240.14 Checks issued to incompetent payees. #####
+
+(a) *Handling of checks when a guardian or other fiduciary has been appointed.* (1) A guardian appointed in accordance with applicable State law, or a fiduciary appointed in accordance with other applicable law, may indorse checks issued for the following classes of payments the right to which under law does not terminate with the death of the payee: payments for the redemption of currencies or for principal and/or interest on U.S. securities; payments for tax refunds; and payments for goods and services.
+
+(i) A guardian or other fiduciary indorsing any such check on behalf of an incompetent payee, must include, as part of the indorsement, an indication of the capacity in which the guardian or fiduciary is indorsing. An example would be: “John Jones by Mary Jones, guardian of John Jones.”
+
+(ii) When a check indorsed in this fashion is presented for payment by a financial institution, it will be paid by Treasury without submission of documentary proof of the authority of the guardian or other fiduciary, with the understanding that evidence of such claimed authority to indorse may be required by Treasury in the event of a dispute.
+
+(2) A guardian or other fiduciary may not indorse a check issued for any class of payment other than one specified in paragraph (a)(1) of this section. When a check other than one specified in paragraph (a)(1) of this section is received by a guardian or other fiduciary, the check must be returned to the certifying agency with information as to the incompetence of the payee and documentary evidence showing the appointment of the guardian or other fiduciary in order that a replacement check, and future checks, may be drawn in favor of the guardian or other fiduciary.
+
+(b) *Handling of checks when a guardian or other fiduciary has not been appointed.* If a guardian or other fiduciary has not been appointed, all checks issued to an incompetent payee must be returned to the certifying agency for determination as to whether, under applicable law, payment is due and to whom it may be made.
+
+(c) *Handling of certain checks by an attorney-in-fact.* Notwithstanding paragraph (a)(2) of this section, if a check was issued for a class of payments the right to which under law terminates upon the death of the beneficiary, such as a recurring benefit payment or annuity, the check may be negotiated under a durable special power of attorney or springing durable special power of attorney subject to the restrictions enumerated in § 240.17. After the end of the six-month period provided in §§ 240.17(d) and (e), such checks must be handled in accordance with paragraph (a)(2) of this section.

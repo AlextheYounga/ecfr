@@ -1,0 +1,5 @@
+##### § 1.455-1 Treatment of prepaid subscription income. #####
+
+Effective with respect to taxable years beginning after December 31, 1957, section 455 permits certain taxpayers to elect with respect to a trade or business in connection with which prepaid subscription income is received, to include such income in gross income for the taxable years during which a liability exists to furnish or deliver a newspaper, magazine, or other periodical. If a taxpayer does not elect to treat prepaid subscription income under the provisions of section 455, such income is includible in gross income for the taxable year in which received by the taxpayer, unless under the method or practice of accounting used in computing taxable income such amount is to be properly accounted for as of a different period.
+
+[T.D. 6591, 27 FR 1798, Feb. 27, 1962]

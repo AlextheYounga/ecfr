@@ -1,0 +1,5 @@
+##### § 212.2 General. #####
+
+The Assistant Secretary shall develop plans and make arrangements for provision of temporary assistance within the United States to any eligible person, after consultation with appropriate offices of the Department of State, the Department of Justice, and the Department of Defense. Temporary assistance shall be provided, to the extent feasible, in accordance with such plans, as modified from time to time by the Assistant Secretary. The Assistant Secretary shall enter into agreements with agencies whose services and facilities are to be utilized for the purpose of providing temporary assistance pursuant to the Act, specifying the conditions governing the provision of such assistance and the manner of payment of the cost of providing therefor.
+
+[39 FR 26548, July 19, 1974, as amended at 60 FR 19864, Apr. 21, 1995]

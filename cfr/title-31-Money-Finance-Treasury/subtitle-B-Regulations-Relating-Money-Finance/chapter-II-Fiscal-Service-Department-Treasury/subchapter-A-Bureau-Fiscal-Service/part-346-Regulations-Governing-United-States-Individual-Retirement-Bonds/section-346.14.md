@@ -1,0 +1,13 @@
+##### § 346.14 Certifying officers. #####
+
+Officers authorized to certify requests for payment or for any other transaction involving Individual Retirement Bonds include:
+
+(a) *Post offices.* Any postmaster, acting postmaster, or inspector-in-charge, or other post office official or clerk designated for that purpose. A post office official or clerk, other than a postmaster, acting postmaster, or inspector-in-charge, should certify in the name of the postmaster or acting postmaster, followed by his own signature and official title. Signatures of these officers should be authenticated by a legible imprint of the post office dating stamp.
+
+(b) *Banks and trust companies.* Any officer of a Federal Reserve Bank or Branch, or of a bank or trust company chartered under the laws of the United States or those of any State, Commonwealth, or Territory of the United States, as well as any employees of such bank or trust company expressly authorized to act for that purpose, who should sign over the title “Designated Employee.” Certifications by any of these officers or designated employees should be authenticated by either a legible imprint of the corporate seal, or, where the institution is an authorized issuing agent for United States Savings Bonds, Series E, by a legible imprint of its dating stamp.
+
+(c) *Issuing agents of Series E savings bonds.* Any officer of a corporation or any other organization which is an authorized issuing agent for United States Savings Bonds, Series E. All certifications by such officers must be authenticated by a legible imprint of the issuing agent's dating stamp.
+
+(d) *Foreign countries.* In a foreign country requests may be signed in the presence of and be certified by any United States diplomatic or consular representative, or the manager or other officer of a foreign branch of a bank or trust company incorporated in the United States whose signature is attested by an imprint of the corporate seal or is certified to the Department of the Treasury. If such an officer is not available, requests may be signed in the presence of and be certified by a notary or other officer authorized to administer oaths, but his official character and jurisdiction should be certified by a United States diplomatic or consular officer under seal of his office.
+
+(e) *Special provisions.* The Commissioner of the Fiscal Service, or his delegate, or any Federal Reserve Bank or Branch is authorized to make special provision for certification in any particular case or class of cases where none of the officers authorized above is readily accessible.

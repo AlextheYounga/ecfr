@@ -1,0 +1,7 @@
+##### § 612.9 Appeals. #####
+
+(a) *Appeals of denials.* You may appeal a denial of your request to the General Counsel, National Science Foundation, 4201 Wilson Boulevard, Suite 1265, Arlington, VA 22230. You must make your appeal in writing and it must be received by the Office of the General Counsel within ten days of the receipt of the denial (weekends, legal holidays, and the date of receipt excluded). You must clearly mark your appeal letter and the envelope or your electronic submission as a “Freedom of Information Act Appeal.” Your appeal letter must include a copy of your written request and the denial together with any written argument you wish to submit.
+
+(b) *Responses to appeals.* A written decision on your appeal will be made by the General Counsel. A decision affirming an adverse determination in whole or in part will contain a statement of the reason(s) for the affirmance, including any FOIA exemption(s) applied, and will inform you of the FOIA provisions for court review of the decision. If the adverse determination is reversed or modified on appeal, in whole or in part, you will be notified in a written decision and your request will be reprocessed in accordance with that appeal decision.
+
+(c) *When appeal is required.* If you wish to seek review by a court of any denial, you must first appeal it under this section.

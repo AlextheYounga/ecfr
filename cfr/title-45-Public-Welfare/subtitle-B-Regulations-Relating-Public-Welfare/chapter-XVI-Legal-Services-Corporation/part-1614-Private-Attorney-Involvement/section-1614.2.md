@@ -1,0 +1,5 @@
+##### § 1614.2 General policy. #####
+
+(a) A recipient of LSC funding shall devote an amount equal to at least twelve and one-half percent (12.5%) of the recipient's annualized Basic Field-General award to the involvement of private attorneys, law students, law graduates, or other professionals in the delivery of legal information and legal assistance to eligible clients. This requirement is hereinafter referred to as the “PAI requirement.”
+
+(b) Basic Field-Native American grants, Basic Field-Migrant grants, and non-Basic Field grants are not subject to the PAI requirement. For example, Technology Initiative Grants are not subject to the PAI requirement. However, recipients of Native American or migrant funding shall provide opportunity for involvement in the delivery of legal information and legal assistance by private attorneys, law students, law graduates, or other professionals in a manner that is generally open to broad participation in those activities undertaken with those funds, or shall demonstrate to the satisfaction of the Corporation that such involvement is not feasible.

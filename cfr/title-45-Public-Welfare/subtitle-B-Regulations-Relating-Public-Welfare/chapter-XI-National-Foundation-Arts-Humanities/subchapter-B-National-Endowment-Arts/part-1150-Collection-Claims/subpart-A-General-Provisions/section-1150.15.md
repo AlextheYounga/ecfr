@@ -1,0 +1,5 @@
+##### § 1150.15 Will the Endowment use a cross-servicing agreement with the Treasury to collect its claims? #####
+
+(a) The Endowment will enter into a cross-servicing agreement that authorizes the Treasury to take the collection actions described in this part on behalf of the Endowment. These debt collection services will be provided to the Endowment in accordance with 31 U.S.C. Chapter 37.
+
+(b) The Endowment shall transfer to the Treasury any past due, legally enforceable, non-tax debt that has been delinquent for a period of 180 days or more so that the Secretary of the Treasury may take appropriate action in accordance with 31 U.S.C. 3716, 5 U.S.C. 5514, the Federal Claims Collection Standards, 5 CFR 550.1108, and 31 CFR part 285. The categories of debts described in 31 U.S.C. 3711(g)(2) are excluded from transfer under this paragraph (b).

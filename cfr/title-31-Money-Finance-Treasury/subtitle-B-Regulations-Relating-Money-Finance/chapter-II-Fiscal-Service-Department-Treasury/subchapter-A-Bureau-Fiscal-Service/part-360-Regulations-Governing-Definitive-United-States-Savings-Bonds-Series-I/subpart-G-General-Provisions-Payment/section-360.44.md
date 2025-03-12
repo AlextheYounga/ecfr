@@ -1,0 +1,5 @@
+##### § 360.44 Withdrawal of request for payment. #####
+
+(a) *Withdrawal by owner or coowner.* An owner or coowner, who has surrendered a bond to a Federal Reserve Bank or Branch or to the Bureau of the Fiscal Service or to an authorized paying agent with an appropriate request for payment, may withdraw the request if notice of intent to withdraw is received by the same agency prior to payment.
+
+(b) *Withdrawal on behalf of deceased owner or incompetent.* A request for payment may be withdrawn under the same conditions as in paragraph (a) of this section by the executor or administrator of the estate of a deceased owner or by the person or persons who could have been entitled to the bond under subpart K of this part, or by the legal representative of the estate of a person under legal disability, unless surrender of the bond for payment has eliminated the interest of a surviving coowner or beneficiary. See § 360.70(b) and (c).

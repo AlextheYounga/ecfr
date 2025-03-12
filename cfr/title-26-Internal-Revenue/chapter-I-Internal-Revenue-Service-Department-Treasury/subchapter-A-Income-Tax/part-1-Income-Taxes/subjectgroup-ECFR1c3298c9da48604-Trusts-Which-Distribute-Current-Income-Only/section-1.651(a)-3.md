@@ -1,0 +1,7 @@
+##### § 1.651(a)-3 Distribution of amounts other than income. #####
+
+(a) A trust does not qualify for treatment under section 651 for any taxable year in which it actually distributes corpus. For example, a trust which is required to distribute all of its income currently would not qualify as a simple trust under section 651 in the year of its termination since in that year actual distributions of corpus would be made.
+
+(b) A trust, otherwise qualifying under section 651, which may make a distribution of corpus in the discretion of the trustee, or which is required under the terms of its governing instrument to make a distribution of corpus upon the happening of a specified event, will be disqualified for treatment under section 651 only for the taxable year in which an actual distribution of corpus is made. For example: Under the terms of a trust, which is required to distribute all of its income currently, half of the corpus is to be distributed to beneficiary A when he becomes 30 years of age. The trust reports on the calendar year basis. On December 28, 1954, A becomes 30 years of age and the trustee distributes half of the corpus of the trust to him on January 3, 1955. The trust will be disqualified for treatment under section 651 only for the taxable year 1955, the year in which an actual distribution of corpus is made.
+
+(c) See section 661 and the regulations thereunder for the treatment of trusts which distribute corpus or claim the charitable contributions deduction provided by section 642(c).

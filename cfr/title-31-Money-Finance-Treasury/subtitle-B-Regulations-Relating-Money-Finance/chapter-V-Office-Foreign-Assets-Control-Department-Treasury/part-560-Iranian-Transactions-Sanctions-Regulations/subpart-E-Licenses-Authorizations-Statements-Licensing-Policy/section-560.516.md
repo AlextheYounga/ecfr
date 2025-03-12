@@ -1,0 +1,5 @@
+##### § 560.516 Transfers of funds involving Iran. #####
+
+(a) United States depository institutions are authorized to process transfers of funds to or from Iran, or for the direct or indirect benefit of persons in Iran or the Government of Iran, if the transfer arises from, and is ordinarily incident and necessary to give effect to, an underlying transaction that has been authorized by a specific or general license issued pursuant to, or set forth in, this part and does not involve debiting or crediting an Iranian account.
+
+(b) United States registered brokers or dealers in securities are authorized to process transfers of funds to or from Iran, or for the direct or indirect benefit of persons in Iran or the Government of Iran, if the transfer arises from, and is ordinarily incident and necessary to give effect to, an underlying transaction that has been authorized by a specific or general license issued pursuant to, or set forth in, this part and does not involve debiting or crediting an Iranian account.

@@ -1,0 +1,17 @@
+##### § 306.57 Minors and incompetents. #####
+
+(a) *Assignments by natural guardian of securities registered in name of minor.* Securities registered in the name of a minor for whose estate no legal guardian or similar representative has qualified may be assigned by the natural guardian upon qualification. (Form PD 2481 may be used for this purpose.)
+
+(b) *Assignments of securities registered in name of natural guardian of minor.* Securities registered in the name of a natural guardian of a minor may be assigned by the natural guardian for any authorized transaction except one for the apparent benefit of the natural guardian. If the natural guardian in whose name the securities are registered is deceased or is no longer qualified to act as natural guardian, the securities may be assigned by the person then acting as natural guardian. The assignment by the new natural guardian should be supported by proof of the death or disqualification of the former natural guardian and by evidence of his own status as natural guardian. (Form PD 2481 may be used for this purpose.) No assignment by a natural guardian will be accepted after receipt of notice of the minor's attainment of majority, removal of his disability of minority, disqualification of the natural guardian to act as such, qualification of a legal guardian or similar representative, or the death of the minor.
+
+(c) *Assignments by voluntary guardian of incompetents.* Registered securities belonging to an incompetent for whose estate no legal guardian or similar representative is legally qualified may be assigned by the relative responsible for his care and support or some other person as voluntary guardian:
+
+(1) For redemption, if the proceeds of the securities are needed to pay expenses already incurred, or to be incurred during any 90-day period, for the care and support of the incompetent or his legal dependents.
+
+(2) For redemption-exchange, if the securities are matured or have been called, or pursuant to an advance refunding or prerefunding offer, for reinvestment in other securities to be registered in the form “A, an incompetent (123-45-6789) under voluntary guardianship.”
+
+An application on Form PD 1461 by the person seeking authority to act as voluntary guardian will be required.
+
+(d) *Assignments by legal guardians of minors or incompetents.* Securities registered in the name and title of the legal guardian or similar representative of the estate of a minor or incompetent may be assigned by the representative for any authorized transaction without proof of his qualification. Assignments by a representative of any other securities belonging to a minor or incompetent must be supported by properly certified evidence of qualification. The evidence must be dated not more than 1 year before the date of the assignments and must contain a statement showing the appointment is in full force unless (1) it shows the appointment was made not more than 1 year before the date of the assignment, or (2) the representative or a corepresentative is a corporation. An assignment by the representative will not be accepted after receipt of notice of termination of the guardianship, except for transfer to the former ward.
+
+[38 FR 7078, Mar. 15, 1973, as amended at 64 FR 38126, July 15, 1999]

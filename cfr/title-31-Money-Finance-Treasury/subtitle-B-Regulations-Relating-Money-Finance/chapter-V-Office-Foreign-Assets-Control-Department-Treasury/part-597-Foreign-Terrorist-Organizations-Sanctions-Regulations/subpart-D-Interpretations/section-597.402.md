@@ -1,0 +1,3 @@
+##### § 597.402 Effect of amendment. #####
+
+Any amendment, modification, or revocation of any section of this part or of any order, regulation, ruling, instruction, or license issued by or under the direction of the Director of the Office of Foreign Assets Control shall not, unless otherwise specifically provided, be deemed to affect any act done or omitted to be done, or any civil or criminal suit or proceeding commenced or pending prior to such amendment, modification, or revocation. All penalties, forfeitures, and liabilities under any such order, regulation, ruling, instruction, or license shall continue and may be enforced as if such amendment, modification, or revocation had not been made.

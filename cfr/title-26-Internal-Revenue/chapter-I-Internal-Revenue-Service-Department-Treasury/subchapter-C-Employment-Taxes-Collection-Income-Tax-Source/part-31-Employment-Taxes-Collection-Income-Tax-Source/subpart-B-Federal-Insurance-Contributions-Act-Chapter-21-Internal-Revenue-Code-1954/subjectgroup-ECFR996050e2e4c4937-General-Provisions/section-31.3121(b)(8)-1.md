@@ -1,0 +1,41 @@
+##### § 31.3121(b)(8)-1 Services performed by a minister of a church or a member of a religious order. #####
+
+(a) *In general.* Services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry, or by a member of a religious order in the exercise of his duties required by such order, are excluded from employment, except that services performed by a member of such an order in the exercise of such duties (whether performed for the order or for another employer) are included in employment if an election of coverage under section 3121(r) and § 31.3121(r)-1 is in effect with respect to such order or with respect to the autonomous subdivision thereof to which such member belongs. For provisions relating to the election available to certain ministers and members of religious orders with respect to the extension of the Federal old-age, survivors, and disability insurance system established by title II of the Social Security Act to certain services performed by them, see Part 1 of this chapter (Income Tax Regulations).
+
+(b) *Service by a minister in the exercise of his ministry.* Except as provided in paragraph (c)(3) of this section, service performed by a minister in the exercise of his ministry includes the ministration of sacerdotal functions and the conduct of religious worship, and the control, conduct, and maintenance of religious organizations (including the religious boards, societies, and other integral agencies of such organizations), under the authority of a religious body constituting a church or church denomination. The following rules are applicable in determining whether services performed by a minister are performed in the exercise of his ministry:
+
+(1) Whether service performed by a minister constitutes the conduct of religious worship or the ministration of sacerdotal functions depends on the tenets and practices of the particular religious body constituting his church or church denomination.
+
+(2) Service performed by a minister in the control, conduct, and maintenance of a religious organization relates to directing, managing, or promoting the activities of such organization. Any religious organization is deemed to be under the authority of a religious body constituting a church or church denomination if it is organized and dedicated to carrying out the tenets and principles of a faith in accordance with either the requirements or sanctions governing the creation of institutions of the faith. The term “religious organization” has the same meaning and application as is given to the term for income tax purposes.
+
+(3) (i) If a minister is performing service in the conduct of religious worship or the ministration of sacerdotal functions, such service is in the exercise of his ministry whether or not it is performed for a religious organization.
+
+(ii) The rule in paragraph (b)(3)(i) of this section may be illustrated by the following example:
+
+Example.M, a duly ordained minister, is engaged to perform service as chaplain at N University. M devotes his entire time to performing his duties as chaplain which include the conduct of religious worship, offering spiritual counsel to the university students, and teaching a class in religion. M is performing service in the exercise of his ministry.
+
+(4) (i) If a minister is performing service for an organization which is operated as an integral agency, of a religious organization under the authority of a religious body constituting a church or church denomination, all service performed by the minister in the conduct of religious worship, in the ministration of sacerdotal functions, or in the control conduct, and maintenance of such organization (see paragraph (b)(2) of this section) is in the exercise of his ministry.
+
+(ii) The rule in paragraph (b)(4)(i) of this section may be illustrated by the following example:
+
+Example.M, a duly ordained minister, is engaged by the N Religious Board to serve as director of one of its departments. He performs no other service. The N Religious Board is an integral agency of O, a religious organization operating under the authority of a religious body constituting a church denomination. M is performing service in the exercise of his ministry.
+
+(5) (i) If a minister, pursuant to an assignment or designation by a religious body constituting his church, performs service for an organization which is neither a religious organization nor operated as an integral agency of a religious organization, all service performed by him, even though such service may not involve the conduct of religious worship or the ministration of sacerdotal functions, is in the exercise of his ministry.
+
+(ii) The rule in paragraph (b)(5)(i) of this section may be illustrated by the following example:
+
+Example.M, a duly ordained minister, is assigned by X, the religious body constituting his church, to perform advisory service to Y Company in connection with the publication of a book dealing with the history of M's church denomination. Y is neither a religious organization nor operated as an integral agency of a religious organization. M performs no other service for X or Y. M is performing service in the exercise of his ministry.
+
+(c) *Service by a minister not in the exercise of his ministry.* (1) Section 3121(b)(8)(A) does not except from employment service performed by a duly ordained, commissioned, or licensed minister of a church which is not in the exercise of his ministry.
+
+(2) (i) If a minister is performing service for an organization which is neither a religious organization nor operated as an integral agency of a religious organization and the service is not performed pursuant to an assignment or designation by his ecclesiastical superiors, then only the service performed by him in the conduct of religious worship or the ministration of sacerdotal functions is in the exercise of his ministry. See, however, paragraph (c)(3) of this section.
+
+(ii) The rule in paragraph (c)(2)(i) of this section may be illustrated by the following example:
+
+Example.M, a duly ordained minister, is engaged by N University to teach history and mathematics. He performs no other service for N although from time to time he performs marriages and conducts funerals for relatives and friends. N University is neither a religious organization nor operated as an integral agency of a religious organization. M is not performing the service for N pursuant to an assignment or designation by his ecclesiastical superiors. The service performed by M for N University is not in the exercise of his ministry. However, service performed by M in performing marriages and conducting funerals is in the exercise of his ministry.
+
+(3) Service performed by a duly ordained, commissioned, or licensed minister of a church as an employee of the United States, or a State, Territory, or possession of the United States, or the District of Columbia, or a foreign government, or a political subdivision of any of the foregoing, is not considered to be in the exercise of his ministry for purposes of the taxes, even though such service may involve the ministration of sacerdotal function or the conduct of religious worship. Thus, for example, service performed by an individual as a chaplain in the Armed Forces of the United States is considered to be performed by a commissioned officer in his capacity as such, and not by a minister in the exercise of his ministry. Similarly, service performed by an employee of a State as a chaplain in a State prison is considered to be performed by a civil servant of the State and not by a minister in the exercise of his ministry.
+
+(d) *Service in the exercise of duties required by a religious order.* Service performed by a member of a religious order in the exercise of duties required by such order includes all duties required of the member by the order. The nature or extent of such service is immaterial so long as it is a service which he is directed or required to perform by his ecclesiastical superiors.
+
+[T.D. 6516, 25 FR 13032, Dec. 20, 1960; 25 FR 14021, Dec. 31, 1960, as amended by T.D. 7280, 38 FR 18369, July 10, 1973]

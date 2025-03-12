@@ -1,0 +1,5 @@
+##### § 400.116 Service for unaccompanied minors. #####
+
+(a) A State must provide unaccompanied minors with the same range of child welfare benefits and services available in foster care cases to other children in the State. Allowable benefits and services may include foster care maintenance (room, board, and clothing) payments; medical assistance; support services; services identified in the State's plans under titles IV-B and IV-E of the Social Security Act; services permissible under title XX of the Social Security Act; and expenditures incurred in establishing legal responsibility.
+
+(b) A State may provide additional services if the Director, or his or her designee, determines such services to be reasonable and necessary for a particular child or children and provides written notification of such determination to the State.

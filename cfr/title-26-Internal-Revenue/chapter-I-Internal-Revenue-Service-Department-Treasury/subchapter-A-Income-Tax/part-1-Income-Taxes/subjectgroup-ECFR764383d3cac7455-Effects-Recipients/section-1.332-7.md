@@ -1,0 +1,5 @@
+##### § 1.332-7 Indebtedness of subsidiary to parent. #####
+
+If section 332(a) is applicable to the receipt of the subsidiary's property in complete liquidation, then no gain or loss shall be recognized to the subsidiary upon the transfer of such properties even though some of the properties are transferred in satisfaction of the subsidiary's indebtedness to its parent. See section 337(b)(1). However, any gain or loss realized by the parent corporation on such satisfaction of indebtedness, shall be recognized to the parent corporation at the time of the liquidation. For example, if the parent corporation purchased its subsidiary's bonds at a discount and upon liquidation of the subsidiary the parent corporation receives payment for the face amount of such bonds, gain shall be recognized to the parent corporation. Such gain shall be measured by the difference between the cost or other basis of the bonds to the parent and the amount received in payment of the bonds.
+
+[T.D. 6500, 25 FR 11607, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, as amended by T.D. 9759, 81 FR 17071, Mar. 28, 2016]

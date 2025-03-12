@@ -1,0 +1,5 @@
+##### § 301.7207-1 Fraudulent returns, statements, or other documents. #####
+
+Any person who willfully delivers or discloses to any officer or employee of the Internal Revenue Service any list, return, account, statement, or other document, known by him to be fraudulent or to be false as to any material matter, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both. Any person required pursuant to section 6047 (b) or (c) or, section 6104(d), to furnish information to any officer or employee of the Internal Revenue Service or any other person who willfully furnishes to such officer or employee of the Internal Revenue Service or such other person any information known by him to be fraudulent or to be false as to any material matter shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+
+[T.D. 7127, 36 FR 11505, June 15, 1971, as amended by T.D. 8026, 50 FR 20758, May 20, 1985]

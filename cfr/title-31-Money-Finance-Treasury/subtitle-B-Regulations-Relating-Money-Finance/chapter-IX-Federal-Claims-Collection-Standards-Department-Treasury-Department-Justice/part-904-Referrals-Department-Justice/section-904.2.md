@@ -1,0 +1,7 @@
+##### § 904.2 Claims Collection Litigation Report. #####
+
+(a) Unless excepted by the Department of Justice, agencies shall complete the CCLR (see § 902.1(b) of this chapter), accompanied by a signed Certificate of Indebtedness, to refer all administratively uncollectible claims to the Department of Justice for litigation. Referring agencies shall complete all of the sections of the CCLR appropriate to each claim as required by the CCLR instructions and furnish such other information as may be required in specific cases.
+
+(b) Agencies shall indicate clearly on the CCLR the actions they wish the Department of Justice to take with respect to the referred claim. The CCLR permits the agency to indicate specifically any of a number of litigative activities which the Department of Justice may pursue, including enforced collection, judgment lien only, renew judgment lien only, renew judgment lien and enforce collection, program enforcement, foreclosure only, and foreclosure and deficiency judgment.
+
+(c) Agencies also shall use the CCLR to refer claims to the Department of Justice to obtain approval of any proposals to compromise the claims or to suspend or terminate agency collection activity.

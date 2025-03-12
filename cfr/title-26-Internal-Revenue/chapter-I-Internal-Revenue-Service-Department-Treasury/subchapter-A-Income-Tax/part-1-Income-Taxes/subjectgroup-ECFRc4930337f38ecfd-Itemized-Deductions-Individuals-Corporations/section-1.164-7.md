@@ -1,0 +1,3 @@
+##### § 1.164-7 Taxes of shareholder paid by corporation. #####
+
+Banks and other corporations paying taxes assessed against their shareholders on account of their ownership of the shares of stock issued by such corporations without reimbursement from such shareholders may deduct the amount of taxes so paid. In such cases no deduction shall be allowed to the shareholders for such taxes. The amount so paid should not be included in the gross income of the shareholder.

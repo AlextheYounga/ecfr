@@ -1,0 +1,3 @@
+##### § 1027.500 General. #####
+
+Dealers in precious metals, precious stones, or jewels are subject to the special information sharing procedures to deter money laundering and terrorist activity requirements set forth and cross referenced in this subpart. Dealers in precious metals, precious stones, or jewels should also refer to Ssubpart E of part 1010 of this chapter for special information sharing procedures to deter money laundering and terrorist activity contained in that subpart which apply to dealers in precious metals, precious stones, or jewels.

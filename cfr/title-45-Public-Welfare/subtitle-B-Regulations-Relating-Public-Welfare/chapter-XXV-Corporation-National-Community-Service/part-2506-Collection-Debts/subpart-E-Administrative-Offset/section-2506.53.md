@@ -1,0 +1,3 @@
+##### § 2506.53 When may the Corporation make an offset in an expedited manner? #####
+
+The Corporation may effect an administrative offset against a payment to be made to you before completion of the procedures required by §§ 2506.51 and 2506.52 if failure to take the offset would substantially jeopardize the Corporation's ability to collect the debt and the time before the payment is to be made does not reasonably permit the completion of those procedures. An expedited offset will be followed promptly by the completion of those procedures. Amounts recovered by offset, but later found not to be owed to the United States, will be promptly refunded.

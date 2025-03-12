@@ -1,0 +1,48 @@
+##### § 1.817-3 Gain on property held on December 31, 1958, and certain substituted property acquired after 1958. #####
+
+(a) *Limitation on gain recognized on property held on December 31, 1958.* (1) Section 817(b)(1) limits the amount of gain that shall be recognized on the sale or other disposition of property other than insurance and annuity contracts (and contracts supplementary thereto) and property described in section 1221(1) (relating to stock in trade or inventory-type property) if:
+
+(i) The property was held (or treated as held within the meaning of paragraph (c)(1) of this section) by a life insurance company on December 31, 1958;
+
+(ii) The taxpayer has been a life insurance company at all times on and after December 31, 1958, including the date of the sale or other disposition of the property; and
+
+(iii) The fair market value of the property on December 31, 1958, exceeds the adjusted basis for determining gain as of such date.
+
+The gain on the sale or other disposition of such property shall be limited to an amount (but not less than zero) equal to the amount by which the gain (determined without regard to section 817(b)(1)) exceeds the difference between fair market value of such property on December 31, 1958, and the adjusted basis for determining gain as of such date. Accordingly, the tax imposed under section 802(a) shall apply with respect to the amount of gain so limited. In addition, in the case of a stock life insurance company, the amount of such gain shall be taken into account under section 815(b)(2)(A)(ii) for purposes of determining the amount to be added to the shareholders surplus account (as defined in section 815(b) and § 1.815-3) for the taxable year. Furthermore, the amount of the gain (determined without regard to section 817(b)(1) and this paragraph) which is not taken into account under section 802(a) and under paragraph (f) of § 1.802-3 by reason of the application of section 817(b)(1) shall be included in other accounts (as defined in § 1.815-5) by such a company for the taxable year.
+
+(2) Section 817(b)(1) and subparagraph (1) of this paragraph shall not apply for purposes of determining loss with respect to property held on December 31, 1958.
+
+(b) *Illustration of principles.* The application of section 817(b)(1) and paragraph (a) of this section may be illustrated by the following examples:
+
+Example 1.On December 31, 1958, J, a stock life insurance company, owned stock of Z Corporation and on such date the stock had an adjusted basis for determining gain of $5,000 and a fair market value of $6,000. On August 1, 1959, the company sells such stock for $8,000. Assuming J qualifies as a life insurance company for the taxable year 1959, and applying the provisions of section 817(b)(1) and paragraph (a) of this section, the gain recognized (assuming no adjustment to basis for the period since December 31, 1958) on the sale shall be limited to $2,000 (the amount by which the gain realized, $3,000, exceeds the difference, $1,000, between the fair market value, $6,000, and the adjusted basis, $5,000, for determining gain on December 31, 1958). Thus, J shall take into account $2,000 under section 815(b)(2)(A)(ii) for purposes of determining the amount to be added to its shareholders surplus account for the taxable year and shall include $1,000 in other accounts for the taxable year.Example 2.The facts are the same as in example 1, except that the selling price is $5,800. In such case, no gain shall be recognized even though there is a realized gain of $800 since such realized gain does not exceed the difference ($1,000) between the fair market value ($6,000) and the adjusted basis ($5,000) for determining gain on December 31, 1958. Furthermore, no loss shall be realized or recognized as a result of this transaction. Thus, J shall include $800 in other accounts for the taxable year and shall not take into account any amount under section 815(b)(2)(A)(ii).Example 3.The facts are the same as in example 1, except that the adjusted basis for determining loss is $5,000 and the selling price is $4,500. In such case, since J has sustained a loss, section 817(b)(1) does not apply.
+
+(c) *Certain substituted property acquired after December 31, 1958.* Section 817(b)(2) provides that if a life insurance company acquires property after December 31, 1958, in exchange for property actually held by the company on December 31, 1958, and the property acquired has a substituted basis within the meaning of section 1016(b) and § 1.1016-10, the following rules shall apply:
+
+(1) For purposes of section 817(b)(1), such acquired property shall be deemed as having been held continuously by the taxpayer since the beginning of the holding period thereof as determined under section 1223;
+
+(2) The fair market value and adjusted basis referred to in section 817(b)(1) shall be that of that property for which the holding period taken into account includes December 31, 1958;
+
+(3) Section 817(b)(1) shall apply only if the property or properties, the holding periods of which are taken into account, were held only by life insurance companies after December 31, 1958, during the holding periods so taken into account;
+
+(4) The difference between the fair market value and adjusted basis referred to in section 817(b)(1) shall be reduced (but not below zero) by the excess of (i) the gain that would have been recognized but for section 817(b) on all prior sales or other dispositions after December 31, 1958, of properties referred to in section 817(b)(2)(C) over (ii) the gain that was recognized on such sales or other dispositions; and
+
+(5) The basis of such acquired property shall be determined as if the gain which would have been recognized but for section 817(b) were recognized gain.
+
+For purposes of section 817(b)(2) and this paragraph, the term *property* does not include insurance and annuity contracts (and contracts supplementary thereto) and property described in section 1221(1) (relating to stock in trade or inventory-type property). Furthermore, the provisions of section 817(b)(1) and paragraph (a)(1) of this section shall not apply for purposes of determining loss with respect to property described in section 817(b)(2) and this paragraph.
+
+(d) *Illustration of principles.* The application of section 817(b)(2) and paragraph (c) of this section may be illustrated by the following example:
+
+Example.Assume that W, a life insurance company, owns property B on December 31, 1958, at which time its adjusted basis was $1,000 and its fair market value was $1,800. On January 31, 1960, in a transaction to which section 1031 (relating to exchange of property held for productive use or investment) applies, W receives property H having a fair market value of $1,700 plus $300 in cash in exchange for property B. The gain realized on the transaction, without regard to section 817(b) is $1,000 (assuming no adjustments to basis for the period since December 31, 1958). Under the provisions of section 817(b)(1) the gain is limited to $200. The entire $200 shall be recognized since such amount is less than the amount of gain ($300) which would be recognized under section 1031. Applying the provisions of section 817(b)(2) and paragraph (c) of this section, the basis of property H shall be determined as if the entire $300 of cash received is recognized gain. Thus, the basis of property H under section 1031 is $1,000 ($1,000 (the basis of property B) minus $300 (the amount of money received) plus $300 (the recognized gain of $200 plus $100 which would have been recognized but for section 817(b)). If W later sells property H for $2,200 cash, and assuming no further adjustments to its basis of $1,000, the gain realized is $1,200, but due to the application of section 817(b)(2) the amount of gain recognized is $500, computed as follows:
+
+|                                                                           Selling price                                                                            |$2,200|    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----|
+|                                                              Less: Adjusted basis as of date of sale                                                               |1,000 |    |
+|                                                                           Gain realized                                                                            |1,200 |    |
+|                                                                  Fair market value as of 12-31-58                                                                  |$1,800|    |
+|                                                                   Adjusted basis as of 12-31-58                                                                    |1,000 |    |
+|                                                          Excess of fair market value over adjusted basis                                                           | 800  |    |
+|Less: Excess of gain which would have been recognized on all prior dispositions but for sec. 817(b) over gain recognized on all prior dispositions ($300 minus $200)| 100  |    |
+|                                                                                                                                                                    |\-————|$700|
+|                                                                          Gain recognized                                                                           | 500  |    |
+
+[T.D. 6558, 26 FR 2783, Apr. 4, 1961, as amended by T.D. 6886, 31 FR 8689, June 23, 1966]

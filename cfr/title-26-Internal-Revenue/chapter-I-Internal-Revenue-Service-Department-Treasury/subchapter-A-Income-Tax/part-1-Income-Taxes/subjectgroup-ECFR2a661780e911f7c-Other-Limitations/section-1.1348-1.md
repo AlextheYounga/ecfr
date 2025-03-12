@@ -1,0 +1,5 @@
+##### § 1.1348-1 Fifty-percent maximum tax on earned income. #####
+
+Section 1348 provides generally that for taxable years beginning after December 31, 1971, the maximum tax rate applicable to the earned taxable income of an individual, estate, or trust is not to exceed 50 percent. In the case of an estate or trust, earned income includes only amounts which constitute income in respect of a decedent within § 1.1348-3(a)(4). For taxable years beginning after December 31, 1970, and before January 1, 1972, the maximum rate is 60 percent. Section 1348 does not apply if the taxpayer chooses the benefits of income averaging under sections 1301 through 1305. Section 1348 does not apply to a married individual who does not file a joint return with his spouse for the taxable year. For purposes of section 1348, an individual's marital status shall be determined under section 153 and the regulations thereunder.
+
+[T.D. 7446, 41 FR 55337, Dec. 20, 1976]

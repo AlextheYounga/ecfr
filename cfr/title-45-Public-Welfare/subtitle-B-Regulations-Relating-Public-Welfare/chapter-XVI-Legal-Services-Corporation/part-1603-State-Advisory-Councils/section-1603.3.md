@@ -1,0 +1,3 @@
+##### § 1603.3 Composition and term of office of council membership. #####
+
+A council shall be composed of nine members. A majority of the members of a council shall be attorneys admitted to practice in the State. It is recommended that the remainder of the council, to the maximum extent possible, be broadly representative of persons concerned with the effective functioning of legal services programs. Membership of a council shall be subject to annual reappointment, but it is recommended that no member of a council be appointed to serve for more than three consecutive years.

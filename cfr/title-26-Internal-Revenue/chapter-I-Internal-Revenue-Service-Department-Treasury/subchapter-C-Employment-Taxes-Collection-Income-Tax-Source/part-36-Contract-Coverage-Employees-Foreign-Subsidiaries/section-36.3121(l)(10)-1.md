@@ -1,0 +1,3 @@
+##### § 36.3121(l)(10)-1 Requirements in respect of liability under agreement. #####
+
+To the extent not inconsistent with, or otherwise provided in, the regulations in this part, the requirements and duties (relating to identification number, account numbers, wage information statements to employees, record keeping, etc.) imposed on an employer for any period with respect to the taxes imposed by the Federal Insurance Contributions Act are hereby made applicable to a domestic corporation with respect to its obligations and liabilities, for the same period, under an agreement entered into as provided in § 36.3121(l)(1)-1.

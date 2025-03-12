@@ -1,0 +1,3 @@
+##### § 1622.7 Certification by the General Counsel. #####
+
+Before a meeting or portion thereof is closed, the General Counsel shall publicly certify that, in his opinion, the meeting may be so closed to the public and shall state each relevant exemption. A copy of the certification, together with a statement from the presiding officer of the meeting setting forth the time and place of the meeting and the persons present, shall be retained by the Corporation.

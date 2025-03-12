@@ -1,0 +1,3 @@
+##### § 309.10 Tenders; reservation of right to reject. #####
+
+In considering the acceptance of tenders, the highest prices offered will be accepted in full down to the amount required, and if the same price appears in two or more tenders and it is necessary to accept only a part of the amount offered at such price, the amount accepted at such price will be prorated in accordance with the respective amounts applied for. However, the Secretary of the Treasury expressly reserves the right on any occasion to accept non-competitive tenders entered in accordance with specific offerings, to reject any or all tenders or parts of tenders, and to award less than the amount applied for; and any action he may take in any such respect or respects shall be final.

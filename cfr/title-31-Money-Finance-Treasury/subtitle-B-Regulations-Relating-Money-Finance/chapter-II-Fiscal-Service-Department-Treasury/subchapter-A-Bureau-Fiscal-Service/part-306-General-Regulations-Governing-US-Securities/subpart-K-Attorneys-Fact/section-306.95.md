@@ -1,0 +1,17 @@
+##### § 306.95 Attorneys in fact. #####
+
+(a) *General.* Assignments by an attorney in fact will be recognized if supported by an adequate power of attorney. Every power must be executed in the presence of an authorized certifying officer under the conditions set out in § 306.45 for certification of assignments. Powers need not be submitted to support redemption-exchanges or exchanges pursuant to advance refunding or prefunding offers where the securities to be issued are to be registered in the same names and forms as appear in the inscriptions or assignments of the securities surrendered. In all other cases, the original power, or a photocopy showing the grantor's autograph signature, properly certified, must be submitted, together with the security assigned on the owner's behalf by the attorney in fact. An assignment by a substitute attorney in fact must be supported by an authorizing power of attorney and power of substitution. An assignment by an attorney in fact or a substitute attorney in fact for the apparent benefit of either will not be accepted unless expressly authorized. (Form PD 1001 or 1003, as appropriate, may be used to appoint an attorney in fact. An attorney in fact may use Form PD 1006 or 1008 to appoint a substitute. However, any form sufficient in substance may be used.) If there are two or more joint attorneys in fact or substitutes, all must unite in an assignment, unless the power authorizes less than all to act. A power of attorney or of substitution not coupled with an interest will be recognized until the Bureau receives proof of revocation or proof of the grantor's death or incompetency.
+
+(b) *For legal representatives and fiduciaries.* Assignments by an attorney in fact or substitute attorney in fact for a legal representative or fiduciary, in addition to the power of attorney and of substitution, must be supported by evidence, if any, as required by §§ 306.57(d), 306.66(b), 306.75, and 306.76. Powers must specifically designate the securities to be assigned.
+
+(c) *For corporations or unincorporated associations.* Assignments by an attorney in fact or a substitute attorney in fact in behalf of a corporation or unincorporated association, in addition to the power of attorney and power of substitution, must be supported by one of the following documents certified under seal of the organization, or, if it has no seal, sworn to by an officer who has access to the records:
+
+(1) A copy of the resolution of the governing body authorizing an officer to appoint an attorney in fact, with power of substitution, if pertinent, to assign, or to sell, or to otherwise dispose of, the securities, or
+
+(2) A copy of the charter, constitution, or bylaws, or a pertinent extract therefrom, showing the authority of an officer to appoint an attorney in fact, or
+
+(3) A copy of the resolution of the governing body directly appointing an attorney in fact.
+
+If the resolution or other supporting document shows only the title of the authorized officer, without his name, a certificate of incumbency must also be furnished. (Form PD 1014 may be used.) The power may not be broader than the resolution or other authority.
+
+(d) *For public corporations.* A general power of attorney in behalf of a public corporation will be recognized only if it is authorized by statute.

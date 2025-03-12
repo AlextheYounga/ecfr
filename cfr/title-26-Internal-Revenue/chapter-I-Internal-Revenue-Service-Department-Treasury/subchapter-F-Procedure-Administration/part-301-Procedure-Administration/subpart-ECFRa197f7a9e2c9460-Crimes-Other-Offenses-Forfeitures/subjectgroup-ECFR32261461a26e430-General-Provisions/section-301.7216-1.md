@@ -1,0 +1,65 @@
+##### § 301.7216-1 Penalty for disclosure or use of tax return information. #####
+
+(a) *In general.* Section 7216(a) prescribes a criminal penalty for tax return preparers who knowingly or recklessly disclose or use tax return information for a purpose other than preparing a tax return. A violation of section 7216 is a misdemeanor, with a maximum penalty of up to one year imprisonment or a fine of not more than $1,000, or both, together with the costs of prosecution. Section 7216(b) establishes exceptions to the general rule in section 7216(a) prohibiting disclosure and use. Section 7216(b) also authorizes the Secretary to promulgate regulations prescribing additional permitted disclosures and uses. Section 6713(a) prescribes a related civil penalty for disclosures and uses that constitute a violation of section 7216. The penalty for violating section 6713 is $250 for each prohibited disclosure or use, not to exceed a total of $10,000 for a calendar year. Section 6713(b) provides that the exceptions in section 7216(b) also apply to section 6713. Under section 7216(b), the provisions of section 7216(a) will not apply to any disclosure or use permitted under regulations prescribed by the Secretary.
+
+(b) *Definitions.* For purposes of section 7216 and §§ 301.7216-1 through 301.7216-3:
+
+(1) *Tax return.* The term *tax return* means any return (or amended return) of income tax imposed by chapter 1 of the Internal Revenue Code.
+
+(2) *Tax return preparer*—(i) *In general.* The term *tax return preparer* means:
+
+(A) Any person who is engaged in the business of preparing or assisting in preparing tax returns;
+
+(B) Any person who is engaged in the business of providing auxiliary services in connection with the preparation of tax returns, including a person who develops software that is used to prepare or file a tax return and any Authorized IRS e-file Provider;
+
+(C) Any person who is otherwise compensated for preparing, or assisting in preparing, a tax return for any other person; or
+
+(D) Any individual who, as part of their duties of employment with any person described in paragraph (b)(2)(i)(A), (B), or (C) of this section performs services that assist in the preparation of, or assist in providing auxiliary services in connection with the preparation of, a tax return.
+
+(ii) *Business of preparing returns.* A person is engaged in the business of preparing tax returns as described in paragraph (b)(2)(i)(A) of this section if, in the course of the person's business, the person holds himself out to tax return preparers or taxpayers as a person who prepares tax returns or assists in preparing tax returns, whether or not tax return preparation is the person's sole business activity and whether or not the person charges a fee for tax return preparation services.
+
+(iii) *Providing auxiliary services.* A person is engaged in the business of providing auxiliary services in connection with the preparation of tax returns as described in paragraph (b)(2)(i)(B) of this section if, in the course of the person's business, the person holds himself out to tax return preparers or to taxpayers as a person who performs auxiliary services, whether or not providing the auxiliary services is the person's sole business activity and whether or not the person charges a fee for the auxiliary services. Likewise, a person is engaged in the business of providing auxiliary services if, in the course of the person's business, the person receives a taxpayer's tax return information from another tax return preparer pursuant to the provisions of § 301.7216-2(d)(2).
+
+(iv) *Otherwise compensated.* A tax return preparer described in paragraph (b)(2)(i)(C) of this section includes any person who—
+
+(A) Is compensated for preparing a tax return for another person, but not in the course of a business; or
+
+(B) Is compensated for helping, on a casual basis, a relative, friend, or other acquaintance to prepare their tax return.
+
+(v) *Exclusions.* A person is not a tax return preparer merely because he leases office space to a tax return preparer, furnishes credit to a taxpayer whose tax return is prepared by a tax return preparer, furnishes information to a tax return preparer at the taxpayer's request, furnishes access (free or otherwise) to a separate person's tax return preparation Web site through a hyperlink on his own Web site, or otherwise performs some service that only incidentally relates to the preparation of tax returns.
+
+(vi) *Examples.* The application of § 301.7216-1(b)(2) may be illustrated by the following examples:
+
+Example 1.Bank B is a tax return preparer within the meaning of paragraph (b)(2)(i)(A) of this section, and an Authorized IRS e-file Provider. B employs one individual, Q, to solicit the necessary tax return information for the preparation of a tax return; another individual, R, to prepare the return on the basis of the information that is furnished; a secretary, S, who types the information on the returns into a computer; and an administrative assistant, T, who uses a computer to file electronic versions of the tax returns. Under these circumstances, only R is a tax return preparer for purposes of section 7701(a)(36), but all four employees are tax return preparers for purposes of section 7216, as provided in paragraph (b) of this section.Example 2.Tax return preparer P contracts with department store D to rent space in D's store. D advertises that taxpayers who use P's services may charge the cost of having their tax return prepared to their charge account with D. Under these circumstances, D is not a tax return preparer because it provides space, credit, and services only incidentally related to the preparation of tax returns.
+
+(3) *Tax return information*—(i) *In general.* The term *tax return information* means any information, including, but not limited to, a taxpayer's name, address, or identifying number, which is furnished in any form or manner for, or in connection with, the preparation of a tax return of the taxpayer. This information includes information that the taxpayer furnishes to a tax return preparer and information furnished to the tax return preparer by a third party. Tax return information also includes information the tax return preparer derives or generates from tax return information in connection with the preparation of a taxpayer's return.
+
+(A) Tax return information can be provided directly by the taxpayer or by another person. Likewise, tax return information includes information received by the tax return preparer from the IRS in connection with the processing of such return, including an acknowledgment of acceptance or notice of rejection of an electronically filed return.
+
+(B) Tax return information includes statistical compilations of tax return information, even in a form that cannot be associated with, or otherwise identify, directly or indirectly, a particular taxpayer. See § 301.7216-2(o) for limited use of tax return information to make statistical compilations without taxpayer consent and to use the statistical compilations for limited purposes.
+
+(C) Tax return information does not include information identical to any tax return information that has been furnished to a tax return preparer if the identical information was obtained otherwise than in connection with the preparation of a tax return.
+
+(D) Information is considered “in connection with tax return preparation,” and therefore tax return information, if the taxpayer would not have furnished the information to the tax return preparer but for the intention to engage, or the engagement of, the tax return preparer to prepare the tax return.
+
+(ii) *Examples.* The application of this paragraph (b)(3) may be illustrated by the following examples:
+
+Example 1.Taxpayer A purchases computer software designed to assist with the preparation and filing of her income tax return. When A loads the software onto her computer, it prompts her to register her purchase of the software. In this situation, the software provider is a tax return preparer under paragraph (b)(2)(i)(B) of this section and the information that A provides to register her purchase is tax return information because she is providing it in connection with the preparation of a tax return.Example 2.Corporation A is a brokerage firm that maintains a Web site through which its clients may access their accounts, trade stocks, and generally conduct a variety of financial activities. Through its Web site, A offers its clients free access to its own tax preparation software. Taxpayer B is a client of A and has furnished A his name, address, and other information when registering for use of A's Web site to use A's brokerage services. In addition, A has a record of B's brokerage account activity, including sales of stock, dividends paid, and IRA contributions made. B uses A's tax preparation software to prepare his tax return. The software populates some fields on B's return on the basis of information A already maintains in its databases. A is a tax return preparer within the meaning of paragraph (b)(2)(i)(B) of this section because it has prepared and provided software for use in preparing tax returns. The information in A's databases that the software accesses to populate B's return, *i.e.*, the registration information and brokerage account activity, is not tax return information because A did not receive that information in connection with the preparation of a tax return. Once A uses the information to populate the return, however, the information associated with the return becomes tax return information. If A retains the information in a form in which A can identify that the information was used in connection with the preparation of a return, the information in that form is tax return information. If, however, A retains the information in a database in which A cannot identify whether the information was used in connection with the preparation of a return, then that information is not tax return information.
+
+(4) *Use*—(i) *In general.* Use of tax return information includes any circumstance in which a tax return preparer refers to, or relies upon, tax return information as the basis to take or permit an action.
+
+(ii) *Example.* The application of this paragraph (b)(4) may be illustrated by the following example:
+
+Example.Preparer G is a tax return preparer as defined by paragraph (b)(2)(i)(A) of this section. If G determines, upon preparing a return, that the taxpayer is eligible to make a contribution to an individual retirement account (IRA), G will ask whether the taxpayer desires to make a contribution to an IRA. G does not ask about IRAs in cases in which the taxpayer is not eligible to make a contribution. G is using tax return information when it asks whether a taxpayer is interested in making a contribution to an IRA because G is basing the inquiry upon knowledge gained from information that the taxpayer furnished in connection with the preparation of the taxpayer's return.
+
+(5) *Disclosure.* The term *disclosure* means the act of making tax return information known to any person in any manner whatever. To the extent that a taxpayer's use of a hyperlink results in the transmission of tax return information, this transmission of tax return information is a disclosure by the tax return preparer subject to penalty under section 7216 if not authorized by regulation.
+
+(6) *Hyperlink.* For purposes of section 7216, a hyperlink is a device used to transfer an individual using tax preparation software from a tax return preparer's Web page to a Web page operated by another person without the individual having to separately enter the Web address of the destination page.
+
+(7) *Request for consent.* A request for consent includes any effort by a tax return preparer to obtain the taxpayer's consent to use or disclose the taxpayer's tax return information. The act of supplying a taxpayer with a paper or electronic form that meets the requirements of a revenue procedure published pursuant to § 301.7216-3(a) is a request for a consent. When a tax return preparer requests a taxpayer's consent, any associated efforts of the tax return preparer, including, but not limited to, verbal or written explanations of the form, are part of the request for consent.
+
+(c) *Gramm-Leach-Bliley Act.* Any applicable requirements of the Gramm-Leach-Bliley Act, Public Law 106-102 (113 Stat. 1338), do not supersede, alter, or affect the requirements of section 7216 and §§ 301.7216-1 through 301.7216-3. Similarly, the requirements of section 7216 and §§ 301.7216-1 through 301.7216-3 do not override any requirements or restrictions of the Gramm-Leach-Bliley Act, which are in addition to the requirements or restrictions of section 7216 and §§ 301.7216-1 through 301.7216-3.
+
+(d) *Effective/applicability date.* This section applies to disclosures or uses of tax return information occurring on or after January 1, 2009.
+
+[T.D. 9375, 73 FR 1067, Jan. 7, 2008]

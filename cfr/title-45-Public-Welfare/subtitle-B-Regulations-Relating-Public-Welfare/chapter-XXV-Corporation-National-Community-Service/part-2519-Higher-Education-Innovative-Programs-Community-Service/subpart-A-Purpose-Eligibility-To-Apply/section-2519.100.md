@@ -1,0 +1,3 @@
+##### § 2519.100 What is the purpose of the Higher Education programs? #####
+
+The purpose of the higher education innovative programs for community service is to expand participation in community service by supporting high-quality, sustainable community service programs carried out through institutions of higher education, acting as civic institutions helping to meet the educational, public safety, human, and environmental needs of the communities in which the programs operate.

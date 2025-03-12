@@ -1,0 +1,3 @@
+##### § 1.551-4 Information in return. #####
+
+The information required by section 551(d) in the returns of certain United States shareholders relates only to the taxable year of a foreign personal holding company for which any part of such corporation's undistributed foreign personal holding company income must be included in gross income by the United States shareholder of whom the information is required. The information shall be submitted as a part of the income tax return in the form of a statement attached to the return.

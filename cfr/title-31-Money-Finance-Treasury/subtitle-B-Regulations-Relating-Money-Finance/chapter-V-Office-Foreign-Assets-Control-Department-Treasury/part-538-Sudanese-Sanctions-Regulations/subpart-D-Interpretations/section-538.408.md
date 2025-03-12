@@ -1,0 +1,9 @@
+##### § 538.408 Offshore transactions. #####
+
+(a) The prohibitions contained in §§ 538.201 and 538.206 apply to transactions by any U.S. person in a location outside the United States with respect to property in which the U.S. person knows, or has reason to know, the Government of Sudan has or has had an interest since the effective date, or with respect to goods, technology or services which the U.S. person knows, or has reason to know, are of Sudanese origin or owned or controlled by the Government of Sudan.
+
+(b) Prohibited transactions include, but are not limited to, importation into or exportation from locations outside the United States of, or purchasing, selling, financing, swapping, insuring, transporting, lifting, storing, incorporating, transforming, brokering, or otherwise dealing in, within such locations, goods, technology or services of Sudanese origin.
+
+(c) *Examples.* (1) A U.S. person may not, within the United States or abroad, purchase, sell, finance, insure, transport, act as a broker for the sale or transport of, or otherwise deal in, Sudanese crude oil or sugar refined in Sudan.
+
+(2) A U.S. person may not, within the United States or abroad, conduct transactions of any nature whatsoever with an entity that the U.S. person knows or has reason to know is the Government of Sudan, including a controlled entity or agent of that Government, or which benefits or supports the business of an entity located in Sudan, unless the entity is licensed by the Office of Foreign Assets Control to conduct such transactions with U.S. persons or the transaction is generally licensed in, or exempted from the prohibitions of, this part.

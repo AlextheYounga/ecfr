@@ -1,0 +1,15 @@
+##### § 1.6072-1 Time for filing returns of individuals, estates, and trusts. #####
+
+(a) *In general*—(1) *Returns of income for individuals, estates and trusts.* Except as provided in paragraphs (b) and (c) of this section, returns of income required under sections 6012, 6013, 6014, and 6017 of individuals, estates, domestic trusts, and foreign trusts having an office or place of business in the United States (including unrelated business tax returns of such trusts referred to in section 511(b)(2)) shall be filed on or before the fifteenth day of the fourth month following the close of the taxable year.
+
+(2) *Return of trust, or portion of a trust, treated as owned by a decedent*—(i) *In general.* In the case of a return of a trust, or portion of a trust, that was treated as owned by a decedent under subpart E (section 671 and following), part I, subchapter J, chapter 1 of the Internal Revenue Code as of the date of the decedent's death that is filed in accordance with § 1.671-4(a) for the fractional part of the year ending with the date of the decedent's death, the due date of such return shall be the fifteenth day of the fourth month following the close of the 12-month period which began with the first day of the decedent's taxable year.
+
+(ii) *Effective date.* This paragraph (a)(2) applies to taxable years ending on or after December 24, 2002.
+
+(b) *Decedents.* In the case of a final return of a decedent for a fractional part of a year, the due date of such return shall be the fifteenth day of the fourth month following the close of the 12-month period which began with the first day of such fractional part of the year.
+
+(c) *Nonresident alien individuals and foreign trusts.* The income tax return of a nonresident alien individual (other than one treated as a resident under section 6013 (g) or (h)) and of a foreign trust which does not have an office or place of business in the United States (including unrelated business tax returns of such trusts referred to in section 511(b)(2)0 shall be filed on or before the fifteenth day of the sixth month following the close of the taxable year. However, a nonresident alien individual who for the taxable year has wages subject to withholding under chapter 24 of the Code shall file his income tax return on or before the fifteenth day of the fourth month following the close of the taxable year.
+
+(d) *Last day for filing return.* For provisions relating to the time for filing a return where the last day for filing falls on Saturday, Sunday, or a legal holiday, see section 7503 and § 301.7503-1 of this chapter (Regulations on Procedure and Administration).
+
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 7426, 41 FR 33263, Aug. 9, 1976; T.D. 7670, 45 FR 6931, Jan. 31, 1980; T.D. 9032, 67 FR 78382, Dec. 24, 2002]

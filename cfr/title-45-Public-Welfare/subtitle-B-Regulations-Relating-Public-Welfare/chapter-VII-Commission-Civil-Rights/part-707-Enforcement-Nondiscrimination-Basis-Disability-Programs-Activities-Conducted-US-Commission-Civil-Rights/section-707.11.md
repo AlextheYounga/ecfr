@@ -1,0 +1,3 @@
+##### § 707.11 Eliminating discriminatory qualifications and selection criteria. #####
+
+The Agency shall not make use of any qualification standard, eligibility requirement, or selection criterion that excludes particular classes of individuals with disabilities from an Agency program or activity merely because the persons are disabled, without regard to an individual's actual ability to participate. An irrebuttable presumption of inability to participate based upon a disability shall be permissible only if the condition would, in all instances, prevent an individual from meeting the essential eligibility requirements for participating in, or receiving the benefits of, the particular program or activity.

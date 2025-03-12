@@ -1,0 +1,3 @@
+##### § 800.208 Critical infrastructure. #####
+
+The term *critical infrastructure* means, in the context of a particular covered transaction, a system or asset, whether physical or virtual, so vital to the United States that the incapacity or destruction of the particular system or asset of the entity over which control is acquired pursuant to that covered transaction would have a debilitating impact on national security.

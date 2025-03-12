@@ -1,0 +1,9 @@
+##### § 2508.19 What Privacy Act exemptions or control of systems of records are exempt from disclosure? #####
+
+(a) Certain systems of records that are maintained by the Corporation are exempted from provisions of the Privacy Act in accordance with exemptions (j) and (k) of 5 U.S.C. 552a.
+
+(1) Exemption of Inspector General system of records. Pursuant to, and limited by 5 U.S.C. 552a(j)(2), the system of records maintained by the Office of the Inspector General that contains the Investigative Files shall be exempted from the provisions of 5 U.S.C. 552a, except subsections (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6)(7), (9), (10), and (11), and (I), and 45 CFR 2508.11, 2508.12, 2508.13, 2508.14, 2508.15, 2508.16, and 2508.17, insofar as the system contains information pertaining to criminal law enforcement investigations.
+
+(2) Pursuant to, and limited by 5 U.S.C. 552a(k)(2), the system of records maintained by the Office of the Inspector General that contains the Investigative Files shall be exempted from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4) (G), (H), and (I), and (f), and 45 CFR 2508.11, 2508.12, 2508.13, 2508.14, 2508.15, 2508.16, and 2508.17, insofar as the system contains investigatory materials compiled for law enforcement purposes.
+
+(b) Exemptions to the General Counsel system of records. Pursuant to, and limited by 5 U.S.C. 552a(d)(5), the system of records maintained by the Office of the General Counsel that contains the Legal Office Litigation/Correspondence Files shall be exempted from the provisions of 5 U.S.C. 552a(d)(5), and 45 CFR 2508.4, insofar as the system contains information compiled in reasonable anticipation of a civil action or proceeding.

@@ -1,0 +1,11 @@
+##### § 411.22 Policies to ensure investigation of allegations and appropriate agency oversight. #####
+
+(a) ORR and care provider facilities must ensure that each allegation of sexual abuse and sexual harassment, including a third-party or anonymous allegation, is immediately referred to all appropriate investigating authorities, including Child Protective Services, the State or local licensing agency, and law enforcement. Care provider facilities also must immediately report each allegation of sexual abuse and sexual harassment to ORR according to ORR policies and procedures. The care provider facility has an affirmative duty to keep abreast of the investigation(s) and cooperate with outside investigators. ORR also must remain informed of ongoing investigations and fully cooperate as necessary.
+
+(b) Care provider facilities must maintain or attempt to enter into a written memorandum of understanding or other agreement specific to investigations of sexual abuse and sexual harassment with the law enforcement agency, designated State or local Child Protective Services, and/or the State or local licensing agencies responsible for conducting sexual abuse and sexual harassment investigations, as appropriate. Care provider facilities must maintain a copy of the agreement or documentation showing attempts to enter into an agreement.
+
+(c) Care provider facilities must maintain documentation for at least ten years of all reports and referrals of allegations of sexual abuse and sexual harassment.
+
+(d) ORR will refer an allegation of sexual abuse to the Department of Justice or other investigating authority for further investigation where such reporting is in accordance with its policies and procedures and any memoranda of understanding.
+
+(e) All allegations of sexual abuse that occur at emergency care provider facilities operating on fully Federal properties must be reported to the Department of Justice in accordance with ORR policies and procedures and any memoranda of understanding.

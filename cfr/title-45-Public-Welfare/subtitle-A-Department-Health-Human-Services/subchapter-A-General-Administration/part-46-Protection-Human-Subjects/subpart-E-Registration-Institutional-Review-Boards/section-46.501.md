@@ -1,0 +1,3 @@
+##### § 46.501 What IRBs must be registered? #####
+
+Each IRB that is designated by an institution under an assurance of compliance approved for federalwide use by the Office for Human Research Protections (OHRP) under § 46.103(a) and that reviews research involving human subjects conducted or supported by the Department of Health and Human Services (HHS) must be registered with HHS. An individual authorized to act on behalf of the institution or organization operating the IRB must submit the registration information.

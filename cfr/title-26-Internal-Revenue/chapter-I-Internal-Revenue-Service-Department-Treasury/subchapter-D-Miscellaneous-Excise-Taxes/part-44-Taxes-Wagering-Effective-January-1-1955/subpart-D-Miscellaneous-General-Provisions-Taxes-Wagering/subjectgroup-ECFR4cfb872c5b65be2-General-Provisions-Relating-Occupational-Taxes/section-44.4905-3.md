@@ -1,0 +1,3 @@
+##### § 44.4905-3 Liability for failure to register change or removal. #####
+
+Any person succeeding to and carrying on a business for which the special tax imposed by section 4411 has been paid, and any taxpayer changing his residence address or his place of business, without registering such change as provided in §§ 44.4905-1 and 44.4905-2 shall be liable to an additional tax, and to the penalty prescribed in section 6651 for failure to make a return. (For regulations under section 6651, see the Regulations on Procedure and Administration (Part 301 of this chapter).)

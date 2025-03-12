@@ -1,0 +1,3 @@
+##### § 1370.3 Information and technical assistance center grants. #####
+
+Each grantee awarded funds under section 308 of the Act must meet the statutory requirements of the Act and all applicable regulations. An announcement which describes the application process, including information on statutory requirements, other applicable regulations, and any required financial and program reports, is published in the Federal Register.

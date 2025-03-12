@@ -1,0 +1,3 @@
+##### § 8.58 Supplemental charges. #####
+
+If it appears that the respondent in his or her answer, falsely and in bad faith, denies a material allegation of fact in the complaint or states that the respondent has no knowledge sufficient to form a belief, when he or she in fact possesses that information, or if it appears that the respondent has knowingly introduced false testimony during proceedings for his or her disbarment or suspension, the Director of Practice may file supplemental charges against the respondent. These supplemental charges may be tried with other charges in the case, provided the respondent is given due notice and is afforded an opportunity to prepare to a defense to them.

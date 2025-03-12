@@ -1,0 +1,3 @@
+##### § 305.62 Disregard of a failure which is of a technical nature. #####
+
+A State subject to a penalty under § 305.61(a)(1)(ii) or (iii) of this part may be determined, as appropriate, to have submitted adequate data or to have achieved substantial compliance with one or more IV-D requirements, as defined in § 305.63 of this part, if the Secretary determines that the incompleteness or unreliability of the data, or the noncompliance with one or more of the IV-D requirements, is of a technical nature which does not adversely affect the performance of the State's IV-D program or does not adversely affect the determination of the level of the State's paternity establishment or other performance measures percentages.

@@ -1,0 +1,7 @@
+##### § 303.1-5 Payment of taxes. #####
+
+(a) *Pursuant to tentative computations.* The amount of taxes shown by a tentative computation shall be paid by the Attorney General or the taxpayer, as the case may be, to the district director as soon as practicable after the tentative computation has been made. It will not be necessary, however, for the payment by the Attorney General to be made prior to the return of property if an amount sufficient to cover all internal revenue taxes is retained from the property by the Attorney General.
+
+(b) *Pursuant to final computations.* Upon a final computation of internal revenue taxes properly payable, the amount thereof remaining unpaid shall be paid by the Attorney General to the district director as soon as practicable after the final computation has been made, or, in case the property has been returned to the former owner, by such owner. If the final computation shows that the full amount of internal revenue taxes properly payable is less than the amount previously paid, the difference shall be credited or refunded in accordance with the provisions of these and other applicable regulations. A final computation will not prohibit a subsequent recomputation if it is determined that the amount shown by the final computation is erroneous.
+
+(c) *Deficiency procedure.* The Attorney General shall pay internal revenue taxes without regard to the provisions of law relating to the sending of a deficiency notice by certified or registered mail or to notice and demand.

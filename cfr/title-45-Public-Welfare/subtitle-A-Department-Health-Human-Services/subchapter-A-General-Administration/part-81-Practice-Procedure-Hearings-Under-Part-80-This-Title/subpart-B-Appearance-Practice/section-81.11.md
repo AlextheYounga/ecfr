@@ -1,0 +1,3 @@
+##### § 81.11 Appearance. #####
+
+A party may appear in person or by counsel and participate fully in any proceeding. A State agency or a corporation may appear by any of its officers or by any employee it authorizes to appear on its behalf. Counsel must be members in good standing of the bar of a State, Territory, or possession of the United States or of the District of Columbia or the Commonwealth of Puerto Rico.

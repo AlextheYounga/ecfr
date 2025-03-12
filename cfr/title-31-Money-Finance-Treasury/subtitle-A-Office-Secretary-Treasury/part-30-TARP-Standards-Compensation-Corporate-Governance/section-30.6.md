@@ -1,0 +1,3 @@
+##### § 30.6 Q-6: How does a TARP recipient comply with the requirement under § 30.4 (Q-4) of this part that the compensation committee discuss, evaluate, and review the employee compensation plans to ensure that these plans do not encourage the manipulation of reported earnings of the TARP recipient to enhance the compensation of any of the TARP recipient's employees? #####
+
+The compensation committee must discuss, evaluate, and review at least every six months the terms of each employee compensation plan and identify and eliminate the features in these plans that could encourage the manipulation of reported earnings of the TARP recipient to enhance the compensation of any employee.

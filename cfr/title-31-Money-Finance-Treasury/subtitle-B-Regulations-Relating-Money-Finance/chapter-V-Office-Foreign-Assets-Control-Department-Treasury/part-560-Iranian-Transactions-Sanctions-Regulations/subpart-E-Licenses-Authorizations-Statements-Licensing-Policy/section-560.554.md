@@ -1,0 +1,11 @@
+##### § 560.554 Importation and exportation of services related to conferences in the United States or third countries authorized. #####
+
+(a) Subject to the restrictions in paragraph (c) of this section, the importation of Iranian-origin services into the United States or other dealing in such services and the exportation, reexportation, sale, or supply of services from the United States or by a U.S. person are authorized where such services are performed or provided in the United States by or for a person who is ordinarily resident in Iran, other than the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211, for the purpose of, or which directly relate to, participating in a public conference, performance, exhibition or similar event, and such services are consistent with that purpose.
+
+(b) To the extent not otherwise exempt from the prohibitions of this part and subject to the restrictions in paragraph (c) of this section, the exportation, reexportation, sale, or supply of services directly related to the sponsorship by a U.S. person of a public conference or other similar public event in a third country that is attended by persons who are ordinarily resident in Iran, other than the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211, is authorized, provided that attendance and participation at the conference or other similar public event is open for the public and that the conference or other similar event is not tailored in whole or in part to or for Iran or persons who are ordinarily resident in Iran.
+
+(c) This section does not authorize:
+
+(1) Any release of technology or software to a person who is ordinarily resident in Iran; and
+
+(2) The exportation, reexportation, sale or supply of services, or the importation of Iranian-origin services or other dealing in such services, related to the petroleum or petrochemical industries, energy development, crude oil or natural gas, pipelines, or the oil services industry.

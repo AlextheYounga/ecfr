@@ -1,0 +1,325 @@
+##### § 1.936-5 Intangible property income when an election out is made: Product, business presence, and contract manufacturing. #####
+
+The rules in this section apply for purposes of section 936(h) and also for purposes of section 934(e), where applicable.
+
+(a) *Definition of product.*
+
+*Q. 1:* What does the term “product” mean?
+
+*A. 1:* The term “product” means an item of property which is the result of a production process. The term “product” includes component products, integrated products, and end-product forms. A component product is a product which is subject to further processing before sale to an unrelated party. A component product may be produced from other items of property, and if it is so produced, may be treated as including or not including (at the choice of the possessions corporation) one or more of such other items of property for all purposes of section 936(h)(5). An integrated product is a product which is not subject to any further processing before sale to an unrelated party and which includes all component products from which it is produced. An end-product form is a product which—
+
+(1) Is not subject to any further processing before sale to an unrelated party;
+
+(2) Is produced from a component product or products; and
+
+(3) Is treated as not including certain component products for all purposes of section 936(h)(5).
+
+A possessions corporation may treat a component product, integrated product, or end-product form as its possession product even though the final stage or stages of production occur outside the possession. Further processing includes transformation, incorporation, assembly, or packaging.
+
+*Q. 2:* If a possessions corporation produces both a component product and an integrated product (which by definition includes the end-product form), may the possessions corporation use the options under section 936(h)(5) to compute its income with respect to either the component product, the integrated product or the end-product form?
+
+*A. 2:* Yes. The possessions corporation may choose to treat the component product, the integrated product, or the end-product form as the product for purposes of determining whether the possessions corporation satisfies the significant business presence test. The possessions corporation must treat the same item of property as its product (the possession product) for all purposes of section 936(h)(5) for that taxable year, including the significant business presence test under section 936(h)(5)(B)(ii), the possessions sales calculation under section 936(h)(5)(C)(i)(I), the determination of income under section 936(h)(5)(C)(i)(II), and the combined taxable income computations under section 936(h)(5)(C)(ii). Although the possessions corporation must treat the same item of property as its product for all purposes of section 936(h)(5) in a particular taxable year, its choice of the component product, integrated product or end-product form may be different from year to year. The possessions corporation must specify the possession product on a statement attached to its return (Schedule P of Form 5735). The possessions corporation may specify its choice by either listing the components that are included in the possession product or the components that are excluded from the possession product. The possessions corporation must file a separate Schedule P with respect to each possession product. The possessions corporation must attach to each Schedule P detailed computations indicating how the significant business presence test is satisfied with respect to the possession product identified in that Schedule P.
+
+*Q. 3:* A possessions corporation produces a product that is sometimes sold to unrelated parties without further processing and is sometimes sold to unrelated parties after further processing. May the possessions corporation choose to treat the same item of property as the possession product even though in some cases it is an integrated product and in some cases it is a component product?
+
+*A. 3:* Yes. Except as provided in questions and answers 4 and 5, the possessions corporation must designate a single possession product even though it is sometimes a component product and sometimes an integrated product.
+
+*Q. 4:* A possessions corporation produces a product that is sometimes sold without further processing by any member of the affiliated group to unrelated parties or to related parties for their own consumption and is sometimes sold after further processing by any member of the affiliated group to unrelated parties or to related parties for their own consumption. May the possessions corporation designate two products as possession products?
+
+*A. 4:* The possessions corporation may designate two or more possession products. The possessions corporation must use a consistent definition of the possession product for all items of property that are sold to unrelated parties or consumed by related parties at the same stage in the production process. The significant business presence test shall apply separately to each product designated by the possessions corporation. The possessions corporation shall compute its income separately with respect to each product.
+
+*Q. 5:* A possessions corporation produces a product in one taxable year and does not sell all of the units that it produced. In the next taxable year the possessions corporation produces a product which includes the product produced in the prior year. The possessions corporation could not have satisfied the significant business presence test with respect to the units produced the first taxable year if the larger possession product had been designated. May the possessions corporation designate two possession products in the second year?
+
+*A. 5:* Yes. The possessions corporation may designate two possession products. However, once a product has been designated for a particular year all sales of units produced in that year must be defined in the same manner. In addition, the taxpayer must maintain a significant business presence in a possession with respect to that product. Sales shall be deemed made first out of the current year's production. If all of the current year's production is sold and some inventory is liquidated, then the taxpayer's method of inventory accounting shall be applied to determine what year's layer of inventory is liquidated.
+
+Example 1.A possessions corporation S, manufactures a bulk pharmaceutical in a possession. S transfers the bulk pharmaceutical to its U.S. parent, P, for encapsulation and sale by P to customers. S satisifes the significant business presence test with respect to the bulk pharmaceutical (the component product) and the combination of the bulk pharmaceutical and the capsule (the integrated product). S may use the cost sharing or profit split method to compute its income with respect to either the component product or the integrated product.Example 2.The facts are the same as in example 1 except that S does not satisfy the significant business presence test with respect to the integrated product. S may use the cost sharing or profit split method to compute its income only with respect to the component product. However, if in a later taxable year S satisfies the significant business presence test with respect to the integrated product, then S may use the cost sharing or profit split method to compute its income with respect to that integrated product for that later taxable year.Example 3.P, a domestic corporation, produces in bulk form in the United States the active ingredient for a pharmaceutical product, P transfers the bulk form to S, a wholly owned possessions corporation. S uses the bulk form to produce in Puerto Rico the finished dosage form drug. S transfers the drug in finished dosage form to P, which sells the drug to unrelated customers in the U.S. The direct labor costs incurred in Puerto Rico by S during its taxable year in formulating, filling and finishing the dosage form are at least 65 percent of the total direct labor costs incurred by the affiliated group in producing the bulk and finished forms during that period. S manufactures (within the meaning of section 954(d)(1)(A)) the finished dosage form. S has elected out under section 936(h)(5) under the profit split option for the drug product area (SIC 283). P and S may treat the bulk and finished dosage forms as parts of an integrated product. Since S satisfies the significant business presence requirement with respect to the integrated product, it is entitled to 50 percent of the combined taxable income on the integrated product.Example 4.A possessions corporation, S. produces the keyboard of an electric typewriter and incorporates the keyboard with components acquired from a related corporation into finished typewriters. S does not satisfy the significant business presence test with respect to the typewriters (the integrated product). Therefore, S may use the cost sharing or profit split method to compute its income only with respect to a component product or end-product form. For taxable year 1983, S specifies on a statement attached to its return (Schedule P of Form 5735) that the possession product is the end-product form. The statement indentifies the components—for example, the keyboard structure and frame—which are included in the possession product. S's definition of the possession product will apply to all units of the electric typewriters which S produces in whole or in part in the possession and which are sold in 1983. Thus, all units of a given component incorporated into such typewriters will be treated in the same way. For example, all keyboards and all frames will be included in the possession product, and all electric drive mechanisms and rollers will be excluded from the possession product.Example 5.Possessions corporation A produces printed circuit boards in a possession. The printed circuit boards are sold to unrelated parties. A also uses the boards to produce personal computers in the possession. A may designate two possession products: printed circuit boards and personal computers. The significant business presence test applies separately with respect to each of these products. Thus, for those printed circuit boards that are sold to unrelated parties, only the costs of the possessions corporation and the other members of the affiliated group that are incurred with respect to units of the printed circuit boards which are produced in whole or in part in the possessions and sold to third parties shall be taken into account. Conversely, with respect to personal computers, only the costs incurred with respect to the personal computers shall be taken into account. This would include the costs with respect to printed circuit boards that are incorporated into personal computers but not the costs incurred with respect to printed circuit boards that are sold without further processing to unrelated parties.Example 6.Possessions corporation S produces integrated circuits in a possession. P, an affilate of S, produces circuit boards in the United States. P transfers the circuit boards to S. S assembles the integrated circuits and the circuit boards. S sells some of the loaded circuit boards to third parties. S retains some of the loaded circuit boards and incorporates them into central processing units. The central processing units are then sold to third parties. S may designate two possession products. S must use a consistent definition of the possession product for all units that are sold at the same stage in the production process. Thus, with respect to those units sold after assembly of the integrated circuits and the printed circuits boards, if S cannot satisfy the significant business presence test with respect to all the loaded circuit boards (the integrated product), then S must designate a lesser product, either the integrated circuit (the component product) or the loaded circuit board less the printed circuit board (the end-product form) as its possession product. With respect to the central processing units sold the same rule would apply. Thus, if S cannot satisfy the significant business presence test with respect to the entire central processing unit for all of the central processing units sold, S must designate some lesser product as its possession product.Example 7.S is a possession corporation. In 1985, S produced 100 units of product X. Those units were finished into product Y in 1985 by affiliates of S. Product X is a component of product Y. In 1985, S satisfies the direct labor test with respect to product X but not with respect to product Y. S designates the component product X as its possession product. In 1986 S produces 100 units of product X and finishes those units into product Y. S would have satisfied the significant business presence test with respect to product X if S had designated product X as its possession product in 1986. In addition, in 1986 S satisfies the significant business presence test with respect to the integrated product Y. In 1986, S sells 150 units of Y. One hundred of those units would be deemed to be produced in 1986. With respect to those units S may designate the integrated product Y as its possession product. Under S's method of inventory accounting the remaining 50 units were determined to have been produced in 1985. With respect to those units S must define its possession product as it did for the taxable year in which those units were produced. Thus, S's possession product would be the component product X.
+
+*Q. 6:* May an affiliated group establish groupings of possession products and treat the groupings as single products?
+
+*A. 6:* An affiliated group may establish reasonable groupings of possession products based on similarities in the production processes of the possession products. Possession products that are grouped shall be treated as a single product. The determination of whether the production processes involved in producing the products that are to be grouped are similar is based on the production processes of the components that are included in the possession product. The affiliated group may establish new groupings each year. Any grouping which materially distorts a taxpayer's income or the application of the significant business presence test may be disallowed by the Commissioner. The mere fact that a grouping results in an increased allocation of income to the possessions corporation does not, of itself, create a material distortion of income. If the Commissioner determines that the taxpayer's grouping is improper with respect to one or more products in a group, then those products shall be excluded from the group. The effect of excluding a product or products from the group is that the taxpayer must demonstrate that the group without the excluded products (and each excluded product itself) satisfies the significant business presence test. If the group without the excluded products, or any of the excluded products themselves, fails to satisfy the significant business presence test, then the possessions corporation's income from those products shall be determined under section 936(h)(1) through (4) and the regulations thereunder.
+
+Example 1.The following are examples of possession products the processes of production of which are sufficiently similar that they may be grouped and treated as a single product:
+
+(A) Beverage bases or concentrates for different soft drinks or soft drink syrups, regardless of whether some include sweeteners and some do not:
+
+(B) Different styles of clothing;
+
+(C) Different styles of shoes;
+
+(D) Equipment which relies on gravity to deliver solutions to patients intravenously;
+
+(E) Equipment which relies on machines to deliver solutions to patients intravenously;
+
+(F) Video game cartridges, even though the concept and design of each game title is, in part, protected against infringement by separate copyrights;
+
+(G) All integrated circuits;
+
+(H) All printed circuit boards; and
+
+(I) Hardware and software if the software is one of several alternative types of software offered by the manufacturer and sold only with the hardware, and a purchaser of the hardware would ordinarily purchase one or more of the manufacturer-provided alternative types of software. In all other cases, hardware and software may not be grouped and treated as a single product.
+
+Groupings (D) and (E) do not include any solutions which are delivered through the equipment described therein.Example 2.A possessions corporation produces in Puerto Rico non-programmable, interactive cathode ray tube computer terminals that vary in price. These terminals all interact with a computer or controller to perform their functions of data entry, graphics word processing, and program development. The terminals can be purchased with options that include a built-in printer, different language keyboards, specialized cathode ray tubes, and different power supply features. All terminals are produced in one integrated process requiring the same skills and operations. The differences in the production of the terminals include differences in the number of printed circuit boards incorporated in each terminal, the use of unique keyboards, and the installation and testing of the built-in printer. Some difference in direct labor time to manufacture the terminals occurs, primarily due to the differing number and complexity of printed circuit boards incorporated into each terminal. Different model numbers are assigned to various computer terminals. A grouping by the taxpayer of all of the terminals as one product will be respected by the Service, unless the Service establishes that substantial distortion results. This grouping is proper because the processes of producing each of the terminals are similar.Example 3.A possessions corporation, S produces several models of serial matrix impact printers and teleprinters. These products have differing performance standards based on such factors as speed (in characters per second), numbers of columns, and cost. The production process for all types of printers involves production of three basic elements: electronic circuitry, the printing head, and the mechanical parts. The process of producing all the printers is similar. Thus, all printers could be grouped and treated as a single product. S purchases electronic circuitry and mechanical parts from a U.S. affiliate. S performs manufacturing functions relative to the printing head and assembles and tests the finished printers. S does not satisfy the significant business presence test with respect to the integrated products. S therefore specifies on a statement attached to its return (Schedule P of Form 5735) that the possession product for both the serial matrix printers and the teleprinters is the end-product form. The statement identifies the components which are included in each possession product. S may group and treat as a single product the serial matrix printers and the teleprinters if both end-product forms include and exclude similar components. Thus, if the end-product form for both the serial matrix printers and the teleprinters includes the mechanical parts and excludes the electronic circuitry, then S may group and treat as a single product the two end-product forms. If, however, the end-product forms for the two items of property contain components that are not similar and as a result of this definition of the end-product forms the production processes involved in producing the two end-product forms are not similar, then S may not group the end-product forms.
+
+*Q. 7:* Is the affiliated group permitted to include in a group an item of property that is not produced in whole or in part in a possession?
+
+*A. 7:* No.
+
+Example 1.Possessions corporation S produces 70 units of product A in a possession. P, an affiliate of S, produces 30 units of product A entirely in the United States. All of the units are sold to unrelated parties. The affiliated group is not permitted to group the 30 units of product A produced in the United States with the 70 units produced in the possession because those units are not produced in whole or in part in a possession.Example 2.The facts are the same as in example 1 except that the 30 units of product A are transferred to possessions corporation S. S incorporates the 100 units of product A into product B. This incorporation takes place in the possession. S may group and treat as a single product all of the units of product B even though some of those units contain units of product A that were produced in the possession and some that were produced in the United States.
+
+*Q. 8:* What factors should be disregarded in determining whether a particular grouping of similar items of property is reasonable?
+
+*A. 8:* In general, differences in the following factors will be disregarded in determining whether a particular grouping of items of property is reasonable:
+
+(1) Differences in testing requirements (*e.g.,* some products sold for military use may require more extensive or different testing than products sold for commercial use);
+
+(2) Differences in the product specifications that are designed to accommodate the product to its area of use or for conditions under which used (*e.g.,* electrical products designed for ultimate use in the United States differ from electrical products designed for ultimate use in Europe);
+
+(3) Differences in packaging or labeling (*e.g.,* differences in the number of units of the items shipped in one package); and
+
+(4) Minor differences in the operations of the items of property.
+
+*Q. 9:* What rules apply for purposes of determining whether pharmaceutical products are properly grouped and treated as a single product?
+
+*A. 9:* The rules contained in questions and answers 6 through 8 of this section shall apply. Thus, an affiliated group may establish reasonable groupings based on similarities in the production processes of two or more possession products. In establishing a group the affiliated group may only compare the production processes involved in producing the possession products. The fact that two pharmaceutical products contain different active or inert ingredients is not relevant to the determination of whether the pharmaceutical products may be grouped. For example, if the possession products are bulk chemicals and the production processes involved in producing the bulk chemicals are similar, those bulk chemicals may be grouped and treated as a single product even though they contain different active or inert ingredients. The affiliated group may also group and treat as a single product the finished dosage form drug as long as the production processes involved in producing the finished dosage forms are similar. For these purposes, the production processes involved in producing the following classes of items shall be considered to be sufficiently similar that possession products delivered in a form described in one of the categories may be grouped with other possession products delivered in a form described in the same category.
+
+The categories are:
+
+(1) Capsules, tablets, and pills;
+
+(2) Liquids, ointments, and creams; or
+
+(3) Injectable and intravenous preparations.
+
+No distinctions should be based on packaging, list numbers, or size of dosage. The affiliated group may group and treat as a single product the integrated product (combination of the bulk and the delivery form) only if all the production processes involved in producing the integrated products are similar. The rules of this question and answer are illustrated by the following examples.Example 1.Possessions corporation S produces two chemical active ingredients X and Y. Both chemical ingredients are produced through the process of fermentation. The affiliated group is permitted to group and treat as a single product the two chemical ingredients.Example 2.The facts are the same as in example 1 and possessions corporation S finishes chemical ingredient X into tablets and chemical ingredient Y into capsules. The affiliated group is permitted to group and treat as a single product the combination of the bulk pharmaceutical and the finishing because the production processes involved in producing the integrated products are similar.Example 3.Possessions corporation S produces in a possession a bulk chemical X by fermentation. A United States affiliate, P, produces in the United States a bulk chemical, Y, by fermentation. Both bulk chemicals are finished by S in the possession. The finished dosage form of X is in pill form. The finished dosage form of Y is in injectable form. If S's possession product is the integrated product or the end-product form then S may not group X and Y because the production processes involved in producing the finished dosage form of X and Y are not similar. If S's possession product is the component then S may not group X and Y because the bulk chemical Y is not produced in whole or in part in a possession.
+
+*Q. 10:* Will the fact that a manufacturer of a drug must submit a New Drug Application (“NDA”) or a supplemental NDA to the Food and Drug Administration have any effect on the definition or grouping of a product?
+
+*A. 10:* No.
+
+*Q. 11:* A possessions corporation which produced a product or rendered a type of service in a possession on or before September 3, 1982, is not required to meet the significant business presence test in a possession with respect to such product or type of service for its taxable years beginning before January 1, 1986 (the interim period). During such interim period, how will the term “product” be defined for purposes of allocating income under the cost sharing or profit split methods?
+
+*A. 11:* During the interim period the product will be determined based on the activities performed by the possessions corporation within a possession on September 3, 1982. During the interim period the possessions corporation may compute its income under the cost sharing or profit split method only with respect to the product that is produced or manufactured within the meaning of section 954(d)(1)(A) within the possession. If the product is manufactured from a component or components produced by an affiliated corporation or a contract manufacturer, then the product will not be treated as including such component or components for purposes of the computation of income under the cost sharing or profit split methods. Thus, the possessions corporation is not entitled to any return on the intangibles associated with the component or components. Notwithstanding the preceding sentences, for taxable years beginning before January 1, 1986, a possessions corporation may compute its income under the cost sharing or profit split method with respect to a product which includes a component or components produced by an affiliated corporation or contract manufacturer if the possessions corporation satisfies with respect to such product the significant business presence test described in section 936(h)(5)(B)(ii) and the regulations thereunder.
+
+Example 1.A possessions corporation, S, was manufacturing (within the meaning of section 954(d)(1)(A)) integrated circuits in a possession on September 3, 1982. S transferred those integrated circuits to related corporation P. P incorporated the integrated circuits into central processing units (CPUs in the United States) and sold the CPUs to unrelated parties. S continued to manufacture integrated circuits in the possession through Juanuary 1, 1986. For taxable years beginning before January 1, 1986, S may compute its income under the cost sharing or profit split method with respect to the integrated circuits regardless of whether S satisfies the significant business presence test. However, unless S satisfies the significant business presence test with respect to the central processing units, S may not compute its income under the cost sharing or profit split methods with respect to the CPUs, and thus, S is not entitled to any return on manufacturing intangibles associated with CPUs to the extent that they are not related to the integrated circuits produced by S, nor (except as provided in the profit split methods) to any return on marketing intangibles.Example 2.A possessions corporation, S, was engaged on September 3, 1982, in the manufacture (within the meaning of section 954(d)(1)(A)) of a bulk pharmaceutical in Puerto Rico from raw materials. S sold the bulk pharmaceutical to its U.S. parent, P, for encapsulation and sale by P to customers as the product X. Because S was not engaged in the encapsulation of X, S is not considered to have manufactured the integrated product, X, in Puerto Rico. During the interim period, S may compute its income under the cost sharing or profit split methods with respect to the integrated product, X, only if S satisfies the significant business presence test with respect to X. S may compute its income under the cost sharing or profit split methods with respect to the component product (the bulk pharmaceutical).Example 3.P is a domestic corporation that is not a possessions corporation. P manufactures a bulk pharmaceutical in the United States. P transfers the bulk pharmaceutical to its wholly owned subsidiary, S, a possessions corporation. On September 3, 1982, S was engaged in the encapsulation of the bulk pharmaceutical in Puerto Rico in a manner which satisfies the test of section 954(d)(1)(A). For taxable years beginning before January 1, 1986, S may compute its income under the cost sharing or profit split methods with respect to the end-product form the (the encapsulated drug) regardless of whether S meets the significant business presence test. However, unless S satisfies the significant business presence test with respect to the integrated product, S may not compute its income under the cost sharing or profit split methods with respect to the integrated product, and thus, S is not entitled to any return on the intangibles associated with the bulk pharmaceutical.
+
+*Q. 12:* On September 3, 1982, a possessions corporation, S was engaged in the manufacture (within the meaning of section 954(d)(1)(A)) of X in a possession. During the interim period, after September 3, 1982, but before January 1, 1986, S produced Y, which differs from X in terms of minor design features. S did not produce Y in a possession on September 3, 1982. Will S be considered to have commenced production of a new product after September 3, 1982, for purposes of the application of the significant business presence test for the interim period?
+
+*A. 12:* No. X and Y will be considered to be a single product, and therefore S will not be required to satisfy the business presence test separately with respect to Y during the interim period. In all cases in which the items of property produced on or before September 3, 1982 and the items of property produced after that date could have been grouped together under the guidelines provided in § 1.936-5(a) questions and answers 6 through 10, the possessions corporation will not be considered to manufacture a new product after September 3, 1982.
+
+*Q. 13:* May the term “product” be defined differently for export sales than for domestic sales?
+
+*A. 13:* Yes. For rules concerning the application of the separate election for export sales see § 1.936-7(b).
+
+(b) *Requirement of significant business presence*—(1) *General rules.*
+
+*Q. 1:* In general, a possessions corporation may compute its income under the cost sharing or profit split methods with respect to a product only if the possessions corporation has a significant business presence in a possession with respect to that product. When will a possession corporation be considered to have a significant business presence in a possession?
+
+*A. 1:* For purposes of the cost sharing method, the significant business presence test is met if the possessions corporation satisfies either a value added test or a direct labor test. For purposes of the profit split method, the significant business presence test is met if the possessions corporation satisfies either a value added test or a direct labor test and also manufactures the product in the possession within the meaning of section 954(d)(1)(A).
+
+*Q. 2:* How may a possessions corporation satisfy the direct labor test with respect to a product?
+
+*A. 2:* The possessions corporation will satisfy the direct labor test with respect to a product if the direct labor costs incurred by the possessions corporation as compensation for services performed in a possession are greater than or equal to 65 percent of the direct labor costs of the affiliated group for units of the possession product produced during the taxable year in whole or in part by the possessions corporation.
+
+*Q. 3:* How may a possessions corporation satisfy the value added test?
+
+*A. 3:* In order to satisfy the value added test, the production costs of the possessions corporation incurred in the possession with respect to units of the possession product produced in whole or in part by the possessions corporation in the possession and sold or otherwise disposed of during the taxable year by the affiliated group to unrelated parties must be greater than or equal to twenty-five percent of the difference between gross receipts from such sales or other dispositions and the direct material costs of the affilated group for materials purchased for such units from unrelated parties.
+
+*Q. 4:* Must the significant business presence test be met with respect to all units of the product produced during the taxable year by the affiliated group?
+
+*A. 4:* No. The significant business presence test must be met with respect to only those units of the product produced during the taxable year in whole or in part by the possessions corporation in a possession.
+
+*Q. 5:* For purposes of determining whether a possessions corporation satisfies the significant business presence test, how shall the possessions corporation treat the cost of components transferred to the possessions corporation by a member of the affiliated group?
+
+*A. 5:* The treatment of the cost of components transferred from an affiliate depends on whether the possession product is treated as including the components for purposes of section 936(h). If it is, then for purposes of the value added test, the production costs associated with the component shall be treated as production costs of the affiliated group that are not incurred by the possessions corporation. Those production costs, other than the cost of materials, shall not be treated as a cost of materials. For purposes of the direct labor test and the alternative significant business presence test, the direct labor costs associated with such components shall be treated as direct labor costs of the affiliated group that are not incurred by the possessions corporation. If the possession product is treated as not including such component for purposes of section 936(h), then, solely for purposes of determining whether the possessions corporation satisfies the value added test, the cost of the component shall not be treated as either a cost of materials or as a production cost. For purposes of the direct labor test and the alternative significant business presence test, the direct labor costs associated with such component shall not be treated as direct labor costs of the affiliated group. If the possession product is treated as not including such component, then the possessions corporation shall not be entitled to any return on the intangibles associated with the manufacturing or marketing of the component.
+
+*Q. 6:* May two or more related possessions corporations aggregate their production or direct labor costs for purposes of determining whether they satisfy the significant business presence test with respect to a single product?
+
+*A. 6:* No.
+
+*Q. 7:* A possessions corporation, S, purchases raw materials and components from an unrelated corporation which conducts business outside of a possession. The unrelated corporation is not a contract manufacturer. What is the treatment of such raw materials and components for purposes of the significant business presence test?
+
+*A. 7:* Where Company S purchases raw materials or components from an unrelated corporation which is not a contract manufacturer, the raw materials and components are treated as materials, and the costs related thereto are treated as a cost of materials.
+
+(2) *Direct labor costs.*
+
+*Q. 1:* How is the term “direct labor costs” to be defined?
+
+*A. 1:* The term “direct labor costs” has the same meaning which it has for purposes of § 1.471-11(b)(2)(i). Thus, direct labor costs include the cost of labor which can be identified or associated with particular units or groups of units of a specific product. The elements of direct labor include such items as basic compensation, overtime pay, vacation and holiday pay, sick leave pay (other than payments pursuant to a wage continuation plan under section 105(d)), shift differential, payroll taxes, and payments to a supplemental unemployment benefit plan paid or incurred on behalf of employees engaged in direct labor.
+
+*Q. 2:* May a taxpayer treat a cost as a direct labor cost if it is not included in inventoriable costs under section 471 and the regulations thereunder?
+
+*A. 2:* No. A cost may be treated as a direct labor cost only if it is included in inventoriable costs. However, a cost may be considered a direct labor cost even though the activity to which it relates would not constitute manufacturing under section 954(d)(1)(A) as long as the cost is included in inventoriable costs.
+
+*Q. 3:* May the members of the affiliated group include as direct labor costs the labor element in indirect production costs?
+
+*A. 3:* No. The labor element of indirect production costs may not be considered as part of direct labor costs.
+
+*Q. 4:* Do direct labor costs include the costs which can be identified or associated with particular units or groups of units of a specific product if those costs could also be described as quality control and inspection?
+
+*A. 4:* Yes. Direct labor costs include costs which can be identified or associated with particular units or groups of units of a specific product. Thus, if quality control and inspection is an integral part of the production process, then the labor associated with that quality control and inspection shall be considered direct labor. For example, integrated circuits are soldered to printed circuit boards by passing the boards over liquid solder. Employees inspect each of the boards and repair any imperfectly soldered joints discovered on that inspection. The labor associated with this process is direct labor. However, if a person performs random inspections on limited numbers of products, then that labor associated with those inspections shall be considered quality control and therefore indirect labor.
+
+*Q. 5:* Do direct labor costs of the possessions corporation include only the costs which were actually incurred or do they take into account, in addition, any labor savings which result because the activities were performed in a possession rather than in the United States?
+
+*A. 5:* Direct labor costs include only the costs which were actually incurred.
+
+*Q. 6:* For purposes of determining whether a possessions corporation satisfies the significant business presence test for a taxable year with respect to a product, how shall the possessions corporation compute its direct labor costs of units of the product?
+
+*A. 6:* The direct labor test shall be applied separately to products produced in whole or in part by the possessions corporation in the possession during each taxable year. Sales shall be deemed to be made first out of the current year's production. If sales are made only out of the current year's production, then the direct labor costs of producing those units that are sold shall be the pro rata portion of the total direct labor costs of producing all the units that are produced in whole or in part in the possession by the possessions corporation during the current year. If all of the current year's production is sold and some inventory is liquidated, then the direct labor test shall be applied separately to the current year's production and the liquidated inventory. The direct labor costs of producing the liquidated inventory shall be the pro rata portion of the total direct labor costs that were incurred in producing all the units that were produced in whole or in part by the possessions corporation in the possessions in the layer of liquidated inventory determined under the member's method of inventory accounting.
+
+Example.S is a cash basis calendar year taxpayer that has made an election under section 936(a). In 1985 S produced 100 units of product X. Fifty percent of the direct labor costs of the affiliated group were incurred by S and were compensation for services performed in the possession. Thus, S did not satisfy the significant business presence test with respect to product X in taxable year 1985. During 1986 S produced 100 units of product X. One hundred percent of the direct labor costs of the affiliated group were incurred by S and were compensation for services performed in the possession. In 1986 S sells 150 units of product X. One hundred of those units are deemed to be from the units produced in 1986. With respect to those units S satisfies the significant business presence test. Under S's method of inventory accounting the remaining 50 units were determined to be produced in 1985. With respect to those units S does not satisfy the significant business presence test because only 50% of the direct labor costs incurred in producing those units were incurred by S and were compensation for services performed in the possession.
+
+*Q. 7:* What is the result if in a particular taxable year the possessions corporation satisfies the significant business presence test with respect to units of the product produced in one year and fails the significant business with respect to units produced in another year?
+
+*A. 7:* For those units of the product with respect to which the possession corporation satisfies the significant business presence test, the possessions corporation may compute its income under the provisions of section 936(h)(5). For those units of the product with respect to which the possessions corporations fails the significant business presence test, the possessions corporation must compute its income under section 936(h)(1) through (4).
+
+*Q. 8:* Do direct labor costs include costs incurred in a prior taxable year with respect to units of the possession product that are finished in a later taxable year?
+
+*A. 8:* Yes.
+
+(3) *Direct material costs.*
+
+*Q. 1:* How is the term “direct material costs” to be defined?
+
+*A. 1:* Direct material costs include the cost of those materials which become an integral part of the specific product and those materials which are consumed in the ordinary course of manufacturing and can be identified or associated with particular units or groups of units of that product. See § 1.471-3 for the elements of direct material costs.
+
+*Q. 2:* May a taxpayer treat a cost as a direct material cost if it is not included in inventoriable costs under section 471 and the regulations thereunder?
+
+*A. 2:* A taxpayer may not treat such costs as direct material costs.
+
+(4) *Production costs.*
+
+*Q. 1:* How is the term “production costs” defined?
+
+*A. 1:* The term “production costs” has the same meaning which it has for purposes of § 1.471-11(b) except that the term does not include direct material costs and interest. Thus, production costs include direct labor costs and fixed and variable indirect production costs (other than interest).
+
+*Q. 2:* With respect to indirect production costs described in § 1.471-11(c)(2) (ii) and (iii), may a possessions corporation include these costs in production costs for purposes of section 936, if they are not included in inventoriable costs under section 471 and the regulations thereunder?
+
+*A. 2:* No. A possessions corporation may include these costs only if they are included for purposes of section 471 and the regulations thereunder. If a possessions corporation and the other members of the affiliated group include and exclude different indirect production costs in their inventoriable costs, then, for purposes of the significant business presence test, the possessions corporation shall compute its production costs and the production costs of the other members of the affiliated group by subtracting from the production costs of each member all indirect costs included by that member that are not included in production costs by all other members of the affiliated group.
+
+*Q. 3:* Does a change in a taxpayer's method of accounting for purposes of section 471 affect the taxpayer's computation of production costs for purposes of section 936?
+
+*A. 3:* Yes. If a taxpayer changes its method of accounting for purposes of section 471, then the same change shall apply for purposes of section 936.
+
+*Q. 4:* For purposes of determining whether a possessions corporation satisfies the significant business presence test for a taxable year with respect to a product, how shall the possessions corporation compute its costs of producing units of the product sold or otherwise disposed to unrelated parties during the taxable year?
+
+*A. 4:* All members of the affiliated group may elect to use their current year production costs regardless of whether the members use the FIFO or LIFO method of inventory accounting. If some or all of the current year's production of a product is sold, then the production costs of producing those units sold shall be the pro rata portion of the total production costs of producing all the units produced in the current year. If all of the current year's production of a product is sold and some inventory is liquidated, then the production costs of producing the liquidated inventory shall be the pro rata portion of the production costs incurred in producing the layer of liquidated inventory as determined under the member's method of inventory accounting.
+
+*Q. 5:* How should the members of the affiliated group determine the portion of their production costs that is allocable to units of the product sold or otherwise disposed of during the taxable year?
+
+*A. 5:* The members of the affiliated group may use either standard production costs (so long as variances are not material), average production costs, or FIFO production costs to determine the production costs that will be considered to be attributable to units of the product sold or otherwise disposed of during the taxable year. However, all members of the affiliated group must use the same method.
+
+*Q. 6:* When is the quality control and inspection of a product considered to be part of the production activity for that product?
+
+*A. 6:* Quality control and inspection of a manufactured product before its sale or other disposition by the manufacturer, or before its incorporation into other products, is considered to be part of the indirect production activity for that initial product. Subsequent testing of a product to ensure that the product is compatible with other products is not a part of the production activity for the initial product.
+
+When a component is incorporated into an end-product form and the end-product form is then tested, the latter testing will be considered to be a part of the indirect production activity for the end-product form and will not be considered to be a part of the production activity for the component.
+
+*Q. 7:* For purposes of the significant business presence test and the allocation of income to a possessions corporation, what is the treatment of the cost of installation of a product?
+
+*A. 7:* For purposes of the significant business presence test and the allocation of income to a possessions corporation, product installation costs need not be taken into account as costs incurred in the manufacture of that product, if the taxpayer keeps such permanent books of account or records as are sufficient to establish the fair market price of the uninstalled product. In such a case, the cost of installation materials, the cost of the labor for installation, and a reasonable profit for installation will not be included in the costs and income associated with the possession product. If the taxpayer does not keep such permanent books of account or records, then the cost of installation materials and the cost of labor for installation shall be treated as costs associated with the possession product and income will be allocated to the possessions corporation and its affiliates under the rules provided in these regulations.
+
+*Q. 8:* For purposes of the significant business presence test and the allocation of income to a product or service, what is the treatment of the cost of servicing and maintaining a possession product that is sold to an unrelated party?
+
+*A. 8:* The cost of servicing and maintaining a possession product after it is sold is not associated with the production of that product.
+
+*Q. 9:* For purposes of the significant business presence test and the allocation of income to a possessions corporation, what is the treatment of the cost of samples?
+
+*A. 9:* The cost of producing samples will be treated as a marketing expense and not as inventoriable costs for these purposes. However, for taxable years beginning prior to January 1, 1986, the cost of producing samples may be treated as either a marketing expense or as inventoriable costs.
+
+(5) *Gross receipts.*
+
+*Q. 1:* How shall the affiliated group determine gross receipts from sales or other dispositions by the affiliated group to unrelated parties of the possession product?
+
+*A. 1:* Gross receipts shall be determined in the same manner as possession sales under the rules contained in § 1.936-6(a)(2).
+
+(6) *Manufacturing within the meaning of section 954(d)(1)(A).*
+
+*Q. 1:* What is the test for determining, within the meaning of section 954(d)(1)(A), whether a product is manufactured or produced by a possessions corporation in a possession?
+
+*A. 1:* A product is considered to have been manufactured or produced by a possessions corporation in a possession within the meaning of section 954(d)(1)(A) and § 1.954-3(a)(4) if—
+
+(i) The property has been substantially transformed by the possessions corporation in the possession;
+
+(ii) The operations conducted by the possessions corporation in the possession in connection with the property are substantial in nature and are generally considered to constitute the manufacture or production of property; or
+
+(iii) The conversion costs sustained by the possessions corporation in the possession, including direct labor, factory burden, testing of components before incorporation into an end product and testing of the manufactured product before sales account for 20 percent or more of the total cost of goods sold of the possessions corporation.
+
+In no event, however, will packaging, repackaging, labeling, or minor assembly operations constitute manufacture or production of property. See particularly examples 2 and 3 of § 1.954-3(a)(4)(iii).
+
+*Q. 2:* Does the requirement that a possession product be produced or manufactured in a possession within the meaning of section 954(d)(1)(A) apply to taxable years beginning before January 1, 1986?
+
+*A. 2:* A possessions corporation must satisfy this requirement for taxable years beginning before January 1, 1986, in the following cases:
+
+(i) If the possessions corporation makes a separate election under section 936(h)(5)(F)(iv)(II) with respect to export sales;
+
+(ii) If the possessions corporation is electing as its possession product a product that is subject to the interim period rules of § 1.936-5(a) question and answer (10); or
+
+(iii) If the possessions corporation is electing as its possession product a product that is not subject to the interim period rules of § 1.936-5 (a) question and answer (10) and the possessions corporation computes its income under the profit split method with respect to that product.
+
+For rules concerning products first produced in a possession after September 3, 1982, see § 1.936-5(b)(7) question and answer (2).
+
+(7) *Start-up operations.*
+
+*Q. 1:* With respect to products not produced (and types of services not rendered) in the possession on or before September 3, 1982, when must a possessions corporation first satisfy the 25 percent value added test or the 65 percent direct labor test?
+
+*A. 1:* A transitional period is established such that a possessions corporation engaged in start-up operations with respect to a product or service need not satisfy the 25 percent value added test or the 65 percent labor test until the third taxable year following the taxable year in which such product is first sold by the possessions corporation or such service is first rendered by the possessions corporation. During the transitional period, the applicable percentages for these tests will be as follows:
+
+|                |Any year after 1982|   |   |
+|----------------|-------------------|---|---|
+|       1        |         2         | 3 |   |
+|Value added test|        10         |15 |20 |
+|   Labor test   |        35         |45 |55 |
+
+*Q. 2:* Does the requirement that a possession product be produced or manufactured in a possessions within the meaning of section 954(d)(1)(A) apply to a product if the possessions corporation is engaged in start-up operations with respect to that product?
+
+*A. 2:* The possessions corporation must produce or manufacture the possessions product within the meaning of section 954(d)(1)(A) if the possessions corporation computes its income with respect to that product under the profit split method.
+
+*Q. 3:* When will a possessions corporation be considered to be engaged in start-up operations?
+
+*A. 3:* A possessions corporation is engaged in start-up operations if it begins operations in a possession with respect to a product or type of service after September 3, 1982. Subject to the further provisions of this answer, a possessions corporation will be considered to begin operations with respect to a product if, under the rules of § 1.936-5(a) questions and answers (6) through (10), such product could not be grouped with any other item of property manufactured in whole or in part in the possessions by any member of the affiliated group in any preceding taxable year. Any improvement or other change in a possession product which does not substantially change the production process would not be deemed to create a new product. A change in the division of manufacturing activity between the possessions corporation and its affiliates with respect to an item of property will not give rise to a new product. If a possessions corporation was producing a possession product that was either a component product or an end-product form and the possessions corporation expands its operations in the same possession so that it is now producing a product that includes the earlier possession product, the possessions corporation will not be entitled to use the start-up significant business presence test unless the production costs incurred by the possessions corporation in the possession in producing a unit of its new possession product are at least double the production costs incurred by the possessions corporation in the possession in producing a unit of the earlier possession product. If any member of an affiliated group actually groups two or more items of property then, solely for the purposes of determining whether any item of property in that group is a new product, that grouping shall be respected. However, the fact that an affiliated group does not actually group two or more items of property shall be disregarded in determining whether any item of property is a new product. Notwithstanding the above, if a possessions corporation is producing a possession product in one possession and such corporation or a member of its affiliated group begins operations in a different possession, regardless of whether the items of property could be grouped, the affiliated group may treat the units of the item of property produced at the new site of operations in the different possession as a new product.
+
+(8) *Alternative significant business presence test.*
+
+*Q. 1:* Will the Secretary adopt a significant business presence test other than those set forth in section 936(h)(5)(B)(ii)?
+
+*A. 1:* Yes. The following significant business presence test is adopted both for the transitional period and thereafter. A possessions corporation will have a significant business presence in a possession for a taxable year with respect to a product or type of service if—
+
+(i) No less than 50 percent of the direct labor costs of the affiliated group for units of the product produced, in whole or in part, during the taxable year by the possessions corporation or for the type of service rendered by the possessions corporation during the taxable year are incurred by the possessions corporation as compensation for services performed in the possession; and
+
+(ii) The direct labor costs of the possessions corporation for units of the product produced or the type of service rendered plus the base period construction costs are no less than 70 percent of the sum of such base period construction costs and the direct labor costs of the affiliated group for such units of the product produced or the type of service rendered.
+
+Notwithstanding satisfaction of the above test, for purposes of determining whether a possessions corporation may compute its income under the profit split method, a possessions corporation will not be treated as having a significant business presence in a possession with respect to a product unless the possessions corporation manufactures the product in the possession within the meaning of section 954(d)(1)(A).
+
+*Q. 2:* How is the term “base period construction costs” defined?
+
+*A. 2:* The term “base period construction costs” means the average construction costs incurred by or on behalf of the possessions corporation for services in the possession during the taxable year and the preceding four taxable years for section 1250 property (as defined in section 1250(c) and the regulations thereunder) that is used for the production of the product or the rendering of the service in the possession, and which represents the original use of the section 1250 property. For purposes of the preceding sentence, if the possessions corporation was not in existence during one or more of the four preceding taxable years, its construction costs for that year or years shall be deemed to be zero. Construction costs include architects' and engineers' fees, labor costs, and overhead and profit (if the construction is performed by a person that is not a member of the affiliated group).
+
+(c) *Definition and treatment of contract manufacturing.*
+
+*Q. 1:* For purposes of determining whether a possessions corporation satisfies the significant business presence test with respect to a product, the costs incurred by the possessions corporation or by any of its affiliates in connection with contract manufacturing which is related to that product and is performed outside the possession shall be treated as direct labor costs of the affiliated group and shall not be treated as production costs of the possessions corporation or as material costs. How is the term “contract manufacturing” to be defined?
+
+*A. 1:* The term “contract manufacturing” includes any arrangement between a possessions corporation (or another member of the affiliated group) and an unrelated person if the unrelated person:
+
+(1) Performs work on inventory owned by a member of the affiliated group for a fee without the passage of title;
+
+(2) Performs production activities (including manufacturing, assembling, finishing, or packaging) under the direct supervision and control of a member of the affiliated group; or
+
+(3) Does not undertake any significant risk in manufacturing its product (*e.g.,* it is paid by the hour).
+
+*Q. 2:* Does an arrangement between a member of the affiliated group and an unrelated party constitute contract manufacturing if the unrelated party uses an intangible owned or licensed by a member of the affiliated group?
+
+*A. 2:* Such an arrangement will be treated as contract manufacturing if the unrelated party makes use of a patent owned or licensed by a member of the affiliated group in producing the product which becomes part of the possession product of the possessions corporation. In addition, such use of manufacturing intangibles other than patents may be treated as contract manufacturing if it is established that the arrangement has the effect of materially distorting the application of the significant business presence test. However, the preceding sentence shall not apply if the possessions corporation establishes that the arrangement was entered into for a substantial business purpose (e.g., to obtain the benefit of special expertise of the manufacturer or economies of scale). These rules shall not apply to such contract manufacturing performed in taxable years beginning before January 1, 1986, nor shall the rules apply to binding contracts for the performance of such contract manufacturing entered into before June 13, 1986.
+
+*Q. 3:* For purposes of the significant business presence test, how shall a possessions corporation treat the cost of contract manufacturing performed within a possession?
+
+*A. 3:* If the possessions corporation uses the value added test, it will be permitted to treat the cost of the contract manufacturing performed in a possession, not including material costs, as a production cost of the possessions corporation. If it uses the direct labor test or the alternative significant business presence test set forth in § 1.936-5(b)(8), it is permitted to treat the direct labor costs of the contract manufacturer associated with such contract manufacturing as a cost of direct labor of the possessions corporation. The allowable amount of the direct labor cost shall be determined in accordance with question and answer 4 below.
+
+*Q. 4:* How are the amounts paid by a possessions corporation to a contract manufacturer for services rendered in a possession to be treated by the possessions corporation in computing the direct labor cost of the product to which such contract manufacturing relates?
+
+*A. 4:* If the possessions corporation can establish the contract manufacturer's direct labor cost which was incurred in the possession, such cost will be treated as incurred by the possessions corporation as compensation for services performed in the possession. If the possessions corporation cannot establish such cost, then 50 percent of the amount paid to such contract manufacturer may be treated as incurred by the possessions corporation as compensation for services performed in the possession: provided, that not more than 50 percent of the fair market value of the product manufactured by the contract manufacturer is attributable to articles shipped into the possession, and the possessions corporation receives a statement from the contract manufacturer that this test has been satisfied. If this fair market value test is not satisfied, then the cost of contract manufacturing performed within a possession shall not be treated as a production cost or a direct labor cost of either the possessions corporation or the affiliated group.
+
+*Q. 5:* For purposes of the significant business presence test, what is the treatment of costs which are incurred by a member of the affiliated group (including the possessions corporation) for contract manufacturing performed outside of the possession with respect to an item of property which is a component of the possession product?
+
+*A. 5:* If the possession product is treated as including such component, the cost of the contract manufacturing shall be treated as a direct labor cost of members of the affiliated group other than the possessions corporation for purposes of the direct labor test and the alternative significant business presence test, and shall not be treated as a production cost of the possessions corporation or as a cost of materials for purposes of the value added test. If the possession product is treated as not including such component, the cost of the contract manufacturing shall not be treated as a direct labor cost of any member of the affiliated group for purposes of the direct labor test and the alternative significant business presence test, and shall not be treated as a production cost of the possessions corporation or as a cost of materials for purposes of the value added test.
+
+[T.D. 8090, 51 FR 21524, June 13, 1986; 51 FR 27174, July 30, 1986]

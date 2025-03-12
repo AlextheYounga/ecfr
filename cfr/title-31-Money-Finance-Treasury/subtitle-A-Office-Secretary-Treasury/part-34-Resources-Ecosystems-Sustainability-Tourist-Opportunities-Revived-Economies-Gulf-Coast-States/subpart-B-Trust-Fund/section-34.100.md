@@ -1,0 +1,3 @@
+##### § 34.100 The Trust Fund. #####
+
+Treasury will deposit into the Trust Fund an amount equal to 80 percent of all administrative and civil penalties paid after July 6, 2012 by responsible parties in connection with the explosion on, and sinking of, the mobile offshore drilling unit *Deepwater Horizon* pursuant to a court order, negotiated settlement, or other instrument under section 311 of the Federal Water Pollution Control Act. After these administrative and civil penalties have been deposited into the Trust Fund, the Trust Fund will terminate on the date all amounts owed to the Trust Fund have been returned to the Trust Fund, and all amounts in the Trust Fund have been expended.

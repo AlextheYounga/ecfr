@@ -1,0 +1,7 @@
+##### § 509.113 Government wages, salaries, and pensions. #####
+
+(a) *General.* Under Article XI of the convention any wage, salary, or similar compensation, or any pension, paid by Switzerland or any agency or instrumentality thereof, or by any political subdivisions or other public authorities of Switzerland, to any alien individual (whether or not a resident of the United States) or to any individual who occupies the dual status of a citizen of the United States and a citizen of Switzerland shall not be included in gross income and shall be exempt from United States tax, even though at some time during the taxable year such individual has engaged in trade or business in the United States through a permanent establishment situated therein.
+
+(b) *Definition.* As used in this section, the term “pensions” means periodic payments made in consideration for services rendered or by way of compensation for injuries received. Under Article XV(2) of the convention the exclusion from gross income, and exemption from United States tax, provided by this section shall not be denied despite the provisions of Article XV. See § 509.118.
+
+(c) *Cross reference.* For the taxation generally of compensation of alien employees of foreign governments and the consequences of executing and filing the waiver provided for in section 247(b) of the Immigration and Nationality Act, see section 893 of the Internal Revenue Code of 1954 and the regulations thereunder.

@@ -1,0 +1,5 @@
+##### § 1.812-7 Application of subtitle A and subtitle F. #####
+
+Section 812(f) provides that except as modified by section 809(e) (relating to modifications of deduction items otherwise allowable under subtitle A of the Code) subtitles A and F of the Code shall apply to operations loss carrybacks and carryovers, and to the operations loss deduction, in the same manner and to the same extent that such subtitles apply in respect of net operation loss carrybacks, net operating loss carryovers, and the net operating loss deduction of corporations generally. For the computation of the operations loss carrybacks and carryovers, and of the operations loss deduction in the case of certain acquisitions of the assets of a life insurance company by another life insurance company, see section 381(c)(22) and the regulations thereunder.
+
+[T.D. 6535, 26 FR 539, Jan. 20, 1961]

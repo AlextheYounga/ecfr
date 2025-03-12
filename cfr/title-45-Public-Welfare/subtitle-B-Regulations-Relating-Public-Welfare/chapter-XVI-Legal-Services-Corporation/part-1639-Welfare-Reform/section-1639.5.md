@@ -1,0 +1,3 @@
+##### § 1639.5 Exceptions for public rulemaking and responding to requests with non-LSC funds. #####
+
+Consistent with the provisions of 45 CFR 1612.6 (a) through (e), recipients may use non-LSC funds to comment in a public rulemaking proceeding or respond to a written request for information or testimony from a Federal, State or local agency, legislative body, or committee, or a member thereof, regarding an effort to reform a Federal or State welfare system.

@@ -1,0 +1,29 @@
+##### § 356.15 What rules apply to bids submitted by investment advisers? #####
+
+(a) *General.* The auction rules that apply to investment advisers are determined by the relationship between “investment advisers” and “controlled accounts.” An investment adviser means any person or entity that has investment discretion for the bids or positions of a different person or entity (a controlled account). A person or entity has investment discretion if it determines what, how many, and when securities will be purchased or sold on behalf of another person or entity. We consider a person that is employed or supervised by an investment adviser to be part of that investment adviser. We also consider the bids or positions of controlled accounts to be separate from the bids or positions of the person or entity with which they would otherwise be associated under the bidder categories in appendix A of this part.
+
+(b) *Bidding options.* (1) An investment adviser has two options for whose name to use when bidding on behalf of controlled accounts.
+
+|An investment adviser may bid for a controlled account . . .|In such cases, we consider the bidder to be . . .|
+|------------------------------------------------------------|-------------------------------------------------|
+|          (i) in the investment adviser's own name          |             the investment adviser.             |
+|         (ii) in the name of the controlled account         |             the controlled account.             |
+
+(2) Using the first option (paragraph (b)(1)(i)), an investment advisor could bid noncompetitively up to the noncompetitive bidding limit only for itself, as a single bidder. Using the second option (paragraph (b)(1)(ii)), an investment adviser could bid noncompetitively for each separately named controlled account up to the noncompetitive bidding limit. The investment adviser could also bid noncompetitively in its own name in the same auction up to the noncompetitive bidding limit. An investment adviser may not bid for a controlled account both noncompetitively and competitively in the same auction. If an investment adviser is bidding competitively in the name of a controlled account, the controlled account is subject to the award limitations of § 356.22(b).
+
+(c) *Reporting net long positions.* If it is bidding competitively, an investment adviser must calculate the amount of its bids and positions for purposes of the net long position reporting requirement found in § 356.13(a). In addition to its own competitive bids and positions, the investment adviser must also include in the calculation all other competitive bids and positions that it controls. If the net long position is reportable, the investment adviser must report it as a total in connection with only one bid as stated in § 356.13(a). This requirement applies regardless of whether the investment adviser bids in its own name or in the name of its controlled accounts. The following table shows which positions an investment adviser must include to determine whether it meets the net long position reporting threshold in § 356.13(a). If an investment adviser does meet the reporting threshold, the table also shows which positions must be included in, and which may be excluded from, the net long position calculation.
+
+|               If an investment adviser is bidding competitively, and . . .               |                                                   Then . . .                                                    |
+|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+|          (1) the investment adviser has a net long position for its own account          |            that position must be included in the investment adviser's net long position calculation.            |
+|         (2) the investment adviser's competitive bid is for a controlled account         |any net long position of that account must be included in the investment adviser's net long position calculation.|
+|(3) the investment adviser is not bidding competitively for a controlled account and . . .|                                                                                                                 |
+|        (i) the controlled account has a net long position of $100 million or more        |            that position must be included in the investment adviser's net long position calculation.            |
+|    (ii) the controlled account has a net long position that is less than $100 million    |           that position may be excluded from the investment adviser's net long position calculation.            |
+|     (iii) any net long position is excluded under paragraph (b)(3)(ii) of this table     |            all net short positions of controlled accounts under $100 million must also be excluded.             |
+
+(d) *Certifications.* When an investment adviser bids for a controlled account, we deem the investment adviser to have certified that it is complying with this part and the auction announcement for the security. Further, we deem the investment adviser to have certified that the information it provided about bids for controlled accounts is accurate and complete.
+
+(e) *Proration of awards.* Investment advisers that submit competitive bids in the names of controlled accounts are responsible for prorating any awards at the highest accepted yield, discount rate, or discount margin using the same percentage that we announce.See § 356.21 for examples of how to prorate.
+
+[69 FR 45202, July 28, 2004, as amended at 78 FR 46429, July 31, 2013]

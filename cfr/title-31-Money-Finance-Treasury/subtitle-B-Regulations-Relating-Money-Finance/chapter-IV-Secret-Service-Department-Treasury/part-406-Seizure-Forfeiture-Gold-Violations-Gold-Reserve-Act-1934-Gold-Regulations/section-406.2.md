@@ -1,0 +1,3 @@
+##### § 406.2 Custody of seized gold valued not in excess of $2,500. #####
+
+Any gold, the value of which does not exceed $2,500, seized by officers of the Secret Service pursuant to the Gold Reserve Act of 1934 and the Gold Regulations, if not needed as evidence or for further investigation by the Secret Service, shall be placed forthwith by the seizing officer in the custody of the district director of customs for the customs district in which such seizure is made. Such gold shall be accompanied by a report from the Secret Service showing the basis of the seizure and a citation to each of the statutes and sections of the Gold Regulations violated.

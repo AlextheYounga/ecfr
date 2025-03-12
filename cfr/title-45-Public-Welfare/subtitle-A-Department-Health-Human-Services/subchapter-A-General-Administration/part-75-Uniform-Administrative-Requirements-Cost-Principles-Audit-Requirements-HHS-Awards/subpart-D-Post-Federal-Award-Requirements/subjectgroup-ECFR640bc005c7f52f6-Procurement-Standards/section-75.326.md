@@ -1,0 +1,3 @@
+##### § 75.326 Procurements by states. #####
+
+When procuring property and services under a Federal award, a state must follow the same policies and procedures it uses for procurements from its non-Federal funds. The state will comply with § 75.331 and ensure that every purchase order or other contract includes any clauses required by § 75.335. All other non-Federal entities, including subrecipients of a state, will follow §§ 75.327 through 75.335.

@@ -1,0 +1,3 @@
+##### § 15.737-27 Decision of the General Counsel. #####
+
+On appeal from or review of the initial decision of the Administrative Law Judge, the General Counsel will make the agency decision. In making his/her decision, the General Counsel will review the record or such portions thereof as may be cited by the parties to permit limiting of the issues. A copy of the General Counsel's decision shall be transmitted to the respondent by the Director.

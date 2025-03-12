@@ -1,0 +1,33 @@
+##### § 1.312-11 Effect on earnings and profits of certain other tax-free exchanges, tax-free distributions, and tax-free transfers from one corporation to another. #####
+
+(a) In a transfer described in section 381(a), the acquiring corporation, as defined in § 1.381(a)-1(b)(2), and only that corporation, succeeds to the earnings and profits of the distributor or transferor corporation (within the meaning of § 1.381(a)-1(a)). Except as provided in § 1.312-10, in all other cases in which property is transferred from one corporation to another, no allocation of the earnings and profits of the transferor is made to the transferee.
+
+(b) The general rule provided in section 316 that every distribution is made out of earnings or profits to the extent thereof and from the most recently accumulated earnings or profits does not apply to:
+
+(1) The distribution, in pursuance of a plan of reorganization, by or on behalf of a corporation a party to the reorganization, or in a transaction subject to section 355, to its shareholders—
+
+(i) Of stock or securities in such corporation or in another corporation a party to the reorganization in any taxable year beginning before January 1, 1934, without the surrender by the distributees of stock or securities in such corporation (see section 112(g) of the Revenue Act of 1932 (47 Stat. 197)); or
+
+(ii) Of stock (other than preferred stock) in another corporation which is a party to the reorganization without the surrender by the distributees of stock in the distributing corporation if the distribution occurs after October 20, 1951, and is subject to section 112(b)(11) of the Internal Revenue Code of 1939; or
+
+(iii) Of stock or securities in such corporation or in another corporation a party to the reorganization in any taxable year beginning before January 1, 1939, or on or after such date, in exchange for its stock or securities in a transaction to which section 112(b)(3) of the Internal Revenue Code of 1939 was applicable; or
+
+(iv) Of stock or securities in such corporation or in another corporation in exchange for its stock or securities in a transaction subject to section 354 or 355,
+
+if no gain to the distributees from the receipt of such stock or securities was recognized by law.
+
+(2) The distribution in any taxable year (beginning before January 1, 1939, or on or after such date) of stock or securities, or other property or money, to a corporation in complete liquidation of another corporation, under the circumstances described in section 112(b)(6) of the Revenue Act of 1936 (49 Stat. 1679), the Revenue Act of 1938 (52 Stat. 485), of the Internal Revenue Code of 1939, or section 332 of the Internal Revenue Code of 1954.
+
+(3) The distribution in any taxable year (beginning after December 31, 1938), of stock or securities, or other property or money, in the case of an exchange or distribution described in section 371 of the Internal Revenue Code of 1939 or in section 1081 of the Internal Revenue Code of 1954 (relating to exchanges and distributions in obedience to orders of the Securities and Exchange Commission), if no gain to the distributee from the receipt of such stock, securities, or other property or money was recognized by law.
+
+(4) A stock dividend which was not subject to tax in the hands of the distributee because either it did not constitute income to him within the meaning of the sixteenth amendment to the Constitution or because exempt to him under section 115(f) of the Revenue Act of 1934 (48 Stat. 712) or a corresponding provision of a prior Revenue Act, or section 305 of the Code.
+
+(5) The distribution, in a taxable year of the distributee beginning after December 31, 1931, by or on behalf of an insolvent corporation, in connection with a section 112(b)(10) reorganization under the Internal Revenue Code of 1939, or in a transaction subject to section 371 of the Internal Revenue Code of 1954, of stock or securities in a corporation organized or made use of to effectuate the plan of reorganization, if under section 112(e) of the Internal Revenue Code of 1939 or section 371 of the Internal Revenue Code of 1954 no gain to the distributee from the receipt of such stock or securities was recognized by law.
+
+(c) A distribution described in paragraph (b) of this section does not diminish the earnings or profits of any corporation. In such cases, the earnings or profits remain intact and available for distribution as dividends by the corporation making such distribution, or by another corporation to which the earnings or profits are transferred upon such reorganization or other exchange. In the case, however, of amounts distributed in liquidation (other than a taxfree liquidation or reorganization described in paragraph (b)(1), (2), (3), or (5) of this section) the earnings or profits of the corporation making the distribution are diminished by the portion of such distribution properly chargeable to earnings or profits accumulated after February 28, 1913, after first deducting from the amount of such distribution the portion thereof allocable to capital account.
+
+(d) For the purposes of this section, the terms *reorganization* and *party to the reorganization* shall, for any taxable year beginning before January 1, 1934, have the meanings assigned to such terms in section 112 of the Revenue Act of 1932 (47 Stat. 196); for any taxable year beginning after December 31, 1933, and before January 1, 1936, have the meanings assigned to such terms in section 112 of the Revenue Act of 1934 (48 Stat. 704); for any taxable year beginning after December 31, 1935, and before January 1, 1938, have the meanings assigned to such terms in section 112 of the Revenue Act of 1936 (49 Stat. 1678); for any taxable year beginning after December 31, 1937, and before January 1, 1939, have the meanings assigned to such terms in section 112 of the Revenue Act of 1938 (52 Stat. 485); and for any taxable year beginning after December 31, 1938, and ending before June 22, 1954, providing no election is made under section 393(b)(2) of the Internal Revenue Code of 1954, have the meanings assigned to such terms in section 112(g)(1) of the Internal Revenue Code of 1939.
+
+(e) *Effective/applicability date.* Paragraph (a) of this section applies to transactions occurring on or after November 10, 2014.
+
+[ T.D. 6500, 25 FR 11607, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, as amended by T.D. 9700, 79 FR 66617, Nov. 10, 2014]

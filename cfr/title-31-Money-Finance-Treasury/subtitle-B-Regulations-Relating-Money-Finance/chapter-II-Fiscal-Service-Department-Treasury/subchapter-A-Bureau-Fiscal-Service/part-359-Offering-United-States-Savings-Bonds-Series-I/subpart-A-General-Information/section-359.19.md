@@ -1,0 +1,5 @@
+##### § 359.19 How is interest calculated? #####
+
+We base all calculations of interest on a $25 unit. We use the value of this unit to determine the value of bonds in higher denominations. The effect of rounding off the value of the $25 unit increases at higher denominations. This can work to your slight advantage or disadvantage, depending on whether we round the value up or down.3
+
+3 For example: A composite rate of 2.57% will result in a newly purchased $25 unit increasing in value after six months to $25.32, when rounded to the nearest cent. Thus, a $5,000 bond purchased at the same time as the $25 unit will be worth $5,064 after six months ([$5,000 divided by $25] × $25.32 = $5,064.) In contrast, if it applied directly to a $5,000 bond, the rate would render a value of $5,064.25 after six months, a difference of 25 cents. (This example does not include any discussion of the three-month interest penalty that applies if you redeem a bond less than five years after its issue date.)

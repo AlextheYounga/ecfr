@@ -1,0 +1,49 @@
+##### § 1022.320 Reports by money services businesses of suspicious transactions. #####
+
+(a) *General.* (1) Every money services business described in § 1010.100(ff)(1), (3), (4), (5), (6), and (7) of this chapter, shall file with the Treasury Department, to the extent and in the manner required by this section, a report of any suspicious transaction relevant to a possible violation of law or regulation. Any money services business may also file with the Treasury Department, by using the form specified in paragraph (b)(1) of this section, or otherwise, a report of any suspicious transaction that it believes is relevant to the possible violation of any law or regulation but whose reporting is not required by this section.
+
+(2) A transaction requires reporting under the terms of this section if it is conducted or attempted by, at, or through a money services business, involves or aggregates funds or other assets of at least $2,000 (except as provided in paragraph (a)(3) of this section), and the money services business knows, suspects, or has reason to suspect that the transaction (or a pattern of transactions of which the transaction is a part):
+
+(i) Involves funds derived from illegal activity or is intended or conducted in order to hide or disguise funds or assets derived from illegal activity (including, without limitation, the ownership, nature, source, location, or control of such funds or assets) as part of a plan to violate or evade any Federal law or regulation or to avoid any transaction reporting requirement under Federal law or regulation;
+
+(ii) Is designed, whether through structuring or other means, to evade any requirements of this chapter or of any other regulations promulgated under the Bank Secrecy Act; or
+
+(iii) Serves no business or apparent lawful purpose, and the reporting money services business knows of no reasonable explanation for the transaction after examining the available facts, including the background and possible purpose of the transaction.
+
+(iv) Involves use of the money services business to facilitate criminal activity.
+
+(3) To the extent that the identification of transactions required to be reported is derived from a review of clearance records or other similar records of money orders or traveler's checks that have been sold or processed, an issuer of money orders or traveler's checks shall only be required to report a transaction or pattern of transactions that involves or aggregates funds or other assets of at least $5,000.
+
+(4) The obligation to identify and properly and timely to report a suspicious transaction rests with each money services business involved in the transaction, provided that no more than one report is required to be filed by the money services businesses involved in a particular transaction (so long as the report filed contains all relevant facts). Whether, in addition to any liability on its own for failure to report, a money services business that issues the instrument or provides the funds transfer service involved in the transaction may be liable for the failure of another money services business involved in the transaction to report that transaction depends upon the nature of the contractual or other relationship between the businesses, and the legal effect of the facts and circumstances of the relationship and transaction involved, under general principles of the law of agency.
+
+(b) *Filing procedures* - (1) *What to file.* A suspicious transaction shall be reported by completing a Suspicious Activity Report(“SAR”), and collecting and maintaining supporting documentation as required by paragraph (c) of this section.
+
+(2) *Where to file.* The SAR shall be filed in a central location to be determined by FinCEN, as indicated in the instructions to the SAR.
+
+(3) *When to file.* A money services business subject to this section is required to file each SARB no later than 30 calendar days after the date of the initial detection by the money services business of facts that may constitute a basis for filing a SARB under this section. In situations involving violations that require immediate attention, such as ongoing money laundering schemes, the money services business shall immediately notify by telephone an appropriate law enforcement authority in addition to filing a SAR. Money services businesses wishing voluntarily to report suspicious transactions that may relate to terrorist activity may call FinCEN's Financial Institutions Hotline at 1-866-556-3974 in addition to filing timely a SAR if required by this section.
+
+(c) *Retention of records.* A money services business shall maintain a copy of any SAR filed and the original or business record equivalent of any supporting documentation for a period of five years from the date of filing the SAR. Supporting documentation shall be identified as such and maintained by the money services business, and shall be deemed to have been filed with the SAR. A money services business shall make all supporting documentation available to FinCEN or any Federal, State, or local law enforcement agency, or any Federal regulatory authority that examines the money services business for compliance with the Bank Secrecy Act, or any State regulatory authority administering a State law that requires the money services business to comply with the Bank Secrecy Act or otherwise authorizes the State authority to ensure that the money services business complies with the Bank Secrecy Act.
+
+(d) *Confidentiality of SARs.* A SAR, and any information that would reveal the existence of a SAR, are confidential and shall not be disclosed except as authorized in this paragraph (d). For purposes of this paragraph (d) only, a SAR shall include any suspicious activity report filed with FinCEN pursuant to any regulation in this chapter.
+
+(1) *Prohibition on disclosures by money services businesses* - (i) *General rule.* No money services business, and no director, officer, employee, or agent of any money services business, shall disclose a SAR or any information that would reveal the existence of a SAR. Any money services business, and any director, officer, employee, or agent of any money services business that is subpoenaed or otherwise requested to disclose a SAR or any information that would reveal the existence of a SAR, shall decline to produce the SAR or such information, citing this section and 31 U.S.C. 5318(g)(2)(A)(i), and shall notify FinCEN of any such request and the response thereto.
+
+(ii) *Rules of Construction.* Provided that no person involved in any reported suspicious transaction is notified that the transaction has been reported, this paragraph (d)(1) shall not be construed as prohibiting:
+
+(A) The disclosure by a money services business, or any director, officer, employee, or agent of a money services business, of:
+
+(*1*) A SAR, or any information that would reveal the existence of a SAR, to FinCEN or any Federal, State, or local law enforcement agency, or any Federal regulatory authority that examines the money services business for compliance with the Bank Secrecy Act, or any State regulatory authority administering a State law that requires the money services business to comply with the Bank Secrecy Act or otherwise authorizes the State authority to ensure that the money services business complies with the Bank Secrecy Act; or
+
+(*2*) The underlying facts, transactions, and documents upon which a SAR is based, including but not limited to, disclosures to another financial institution, or any director, officer, employee, or agent of a financial institution, for the preparation of a joint SAR.
+
+(B) The sharing by a money services business, or any director, officer, employee, or agent of the money services business, of a SAR, or any information that would reveal the existence of a SAR, within the money services business's corporate organizational structure for purposes consistent with Title II of the Bank Secrecy Act as determined by regulation or in guidance.
+
+(2) *Prohibition on disclosures by government authorities.* A Federal, State, local, territorial, or Tribal government authority, or any director, officer, employee, or agent of any of the foregoing, shall not disclose a SAR, or any information that would reveal the existence of a SAR, except as necessary to fulfill official duties consistent with Title II of the Bank Secrecy Act. For purposes of this section, “official duties” shall not include the disclosure of a SAR, or any information that would reveal the existence of a SAR, in response to a request for disclosure of non-public information or a request for use in a private legal proceeding, including a request pursuant to 31 CFR 1.11.
+
+(e) *Limitation on liability.* A money services business, and any director, officer, employee, or agent of any money services business, that makes a voluntary disclosure of any possible violation of law or regulation to a government agency or makes a disclosure pursuant to this section or any other authority, including a disclosure made jointly with another institution, shall be protected from liability to any person for any such disclosure, or for failure to provide notice of such disclosure to any person identified in the disclosure, or both, to the full extent provided by 31 U.S.C. 5318(g)(3).
+
+(f) *Compliance.* Money services businesses shall be examined by FinCEN or its delegatees for compliance with this section. Failure to satisfy the requirements of this section may be a violation of the Bank Secrecy Act and of this chapter.
+
+(g) *Applicability date.* This section applies to transactions occurring after December 31, 2001.
+
+[75 FR 65812, Oct. 26, 2010, as amended at 75 FR 10518, Feb. 25, 2011; 76 FR 45420, July 29, 2011; 81 FR 76865, Nov. 4, 2016]

@@ -1,0 +1,79 @@
+##### § 1.414(c)-3 Exclusion of certain interests or stock in determining control. #####
+
+(a) *In general.* For purposes of § 1.414(c)-2 (b)(2)(i) and (c)(2), the term “interest” and the term “stock” do not include an interest which is treated as not outstanding under paragraph (b) of this section in the case of a parent-subsidiary group of trades or businesses under common control or under paragraph (c) of this section in the case of a brother-sister group of trades or businesses under common control. In addition, the term “stock” does not include treasury stock or nonvoting stock which is limited and preferred as to dividends. For definitions of certain terms used in this section, see paragraph (d) of this section.
+
+(b) *Parent-subsidiary group of trades or businesses under common control*—(1) *In general.* If an organization (hereinafter in this section referred to as “parent organization”) owns (within the meaning of paragraph (b)(2) of this section)—
+
+(i) In the case of a corporation, 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of such corporation.
+
+(ii) In the case of a trust or an estate, an actuarial interest (within the meaning of § 1.414(c)-2(b)(2)(ii)) of 50 percent or more of such trust or estate, and
+
+(iii) In the case of a partnership, 50 percent or more of the profits or capital interest of such partnership, then for purposes of determining whether the parent organization or such other organization (hereinafter in this section referred to as “subsidiary organization”) is a member of a parent-subsidiary group of trades or businesses under common control, an interest in such subsidiary organization excluded under paragraph (b) (3), (4), (5), or (6) of this section shall be treated as not outstanding.
+
+(2) *Ownership.* For purposes of paragraph (b)(1) of this section, a parent organization shall be considered to own an interest in or stock of another organization which it owns directly or indirectly with the application of § 1.414(c)-4(b)(1) and—
+
+(i) In the case of a parent organization which is a partnership, a trust, or an estate, with the application of paragraphs (b) (2), (3), and (4) of § 1.414(c)-4, and
+
+(ii) In the case of a parent organization which is a corporation, with the application of § 1.414(c)-4(b)(4).
+
+(3) *Plan of deferred compensation.* An interest which is an interest in or stock of the subsidiary organization held by a trust which is part of a plan of deferred compensation (within the meaning of section 406(a)(3) and the regulations thereunder) for the benefit of the employees of the parent organization or the subsidiary organization shall be excluded.
+
+(4) *Principal owners, officers, etc.* An interest which is an interest in or stock of the subsidiary organization owned (directly and with the application of § 1.414(c)-4) by an individual who is a principal owner, officer, partner, or fiduciary of the parent organization shall be excluded.
+
+(5) *Employees.* An interest which is an interest in or stock of the subsidiary organization owned (directly and with the application of § 1.414(c)-4) by an employee of the subsidiary organization shall be excluded if such interest or such stock is subject to conditions which substantially restrict or limit the employee's right (or if the employee constructively owns such interest or such stock, the direct or record owner's right) to dispose of such interest or such stock and which run in favor of the parent or subsidiary organization.
+
+(6) *Controlled exempt organization.* An interest which is an interest in or stock of the subsidiary organization shall be excluded if owned (directly and with the application of § 1.414(c)-4) by an organization (other than the parent organization):
+
+(i) To which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies, and
+
+(ii) Which is controlled directly or indirectly (within the meaning of paragraph (d)(7) of this section) by the parent organization or subsidiary organization, by an individual, estate, or trust that is a principal owner of the parent organization, by an officer, partner, or fiduciary of the parent organization, or by any combination thereof.
+
+(c) *Brother-sister group of trades or businesses under common control*—(1) *In general.* If five or fewer persons (hereinafter in this section referred to as “common owners”) who are individuals, estates, or trusts own (directly and with the application of § 1.414(c)-4)—
+
+(i) In the case of a corporation, 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock or such corporation,
+
+(ii) In the case of a trust or an estate, an actuarial interest (within the meaning of § 1.414(c)-2(b)(2)(ii)) of 50 percent or more of such trust or estate, and
+
+(iii) In the case of a partnership, 50 percent or more of the profits or capital interest of such partnership, then for purposes of determining whether such organization is a member of a brother-sister group of trades or businesses under common control, an interest in such organization excluded under paragraph (c) (2), (3), or (4) of this section shall be treated as not outstanding.
+
+(2) *Exempt employees' trust.* An interest which is an interest in or stock of such organization held by an employees' trust described in section 401(a) which is exempt from tax under section 501(a) shall be excluded if such trust is for the benefit of the employees of such organization.
+
+(3) *Employees.* An interest which is an interest in or stock of such organization owned (directly and with the application of § 1.414(c)-4) by an employee of such organization shall be excluded if such interest or stock is subject to conditions which run in favor of a common owner of such organization or in favor of such organization and which substantially restrict or limit the employee's right (or if the employee constructively owns such interest or stock, the direct or record owner's right) to dispose of such interest or stock.
+
+(4) *Controlled exempt organization.* An interest which is an interest in or stock of such organization shall be excluded if owned (directly and with the application of § 1.414(c)-4) by an organization:
+
+(i) To which section 501(c)(3) (relating to certain educational and charitable organizations which are exempt from tax) applies, and
+
+(ii) Which is controlled directly or indirectly (within the meaning of paragraph (d)(7) of this section) by such organization, by an individual, estate, or trust that is a principal owner of such organization, by an officer, partner, or fiduciary of such organization, or by any combination thereof.
+
+(d) *Definitions*—(1) *Employee.* For purposes of this section, the term “employee” has the same meaning such term is given in section 3306(i) of the Code (relating to definitions for purposes of the Federal Unemployment Tax Act).
+
+(2) *Principal owner.* For purposes of this section, the term “principal owner” means a person who owns (directly and with the application of § 1.414(c)-4)—
+
+(i) In the case of a corporation, 5 percent or more of the total combined voting power of all classes of stock entitled to vote in such corporation or 5 percent of more of the total value of shares of all classes of stock of such corporation;
+
+(ii) In the case of a trust or estate, an actuarial interest of 5 percent or more of such trust or estate; or
+
+(iii) In the case of a partnership, 5 percent or more of the profits or capital interest of such partnership.
+
+(3) *Officer.* For purposes of this section, the term “officer” includes the president, vice-presidents, general manager, treasurer, secretary, and comptroller of a corporation, and any other person who performs duties corresponding to those normally performed by persons occupying such positions.
+
+(4) *Partner.* For purposes of this section, the term “partner” means any person defined in section 7701(a)(2) (relating to definitions of partner).
+
+(5) *Fiduciary.* For purposes of this section and § 1.414(c)-4, the term “fiduciary” has the same meaning as such term is given in section 7701(a)(6) and the regulations thereunder.
+
+(6) *Substantial conditions.* (i) *In general.* For purposes of this section, an interest in or stock of an organization is subject to conditions which substantially restrict or limit the right to dispose of such interest or stock and which run in favor of another person if the condition extends directly or indirectly to such person preferential rights with respect to the acquisition of the direct owner's (or the record owner's) interest or stock. For a condition to be in favor of another person it is not necessary that such person be extended a discriminatory concession with respect to price. A right of first refusal with respect to an interest or stock in favor of another person is a condition which substantially restricts or limits the direct or record owner's right of disposition which runs in favor of such person. Further, any legally enforceable condition which prohibits the direct or record owner from disposing of his or her interest or stock without the consent of another person will be considered to be a substantial limitation running in favor of such person.
+
+(ii) *Special rule.* For purposes of paragraph (c)(3) of this section only, if a condition which restricts or limits an employee's right (or direct or record owner's right) to dispose of his or her interest or stock also applies to the interest or stock in such organization held by a common owner pursuant to a bonafide reciprocal purchase arrangement, such condition shall not be treated as a substantial limitation or restriction. An example of a reciprocal purchase arrangement is an agreement whereby a common owner and the employee are given a right of first refusal with respect to stock of the employer corporation owned by the other party. If, however, the agreement also provides that the common owner has the right to purchase the stock of the employer corporation owned by the employee in the event the corporation should discharge the employee for reasonable cause, the purchase arrangement would not be reciprocal within the meaning of this subdivision.
+
+(7) *Control.* For purposes of paragraphs (b)(6) and (c)(4) of this section, the term “control” means control in fact. The determination of whether there exists control in fact will depend upon all of the facts and circumstances of each case, without regard to whether such control is legally enforceable and irrespective of the method by which such control is exercised or exercisable.
+
+(e) *Examples.* The provisions of this section may be illustrated by the following examples:
+
+Example 1.ABC Partnership owns 70 percent of the capital interest and of the profits interest in the DEF Partnership. The remaining capital interest and profits interest in DEF is owned as follows: 4 percent by A (a general partner in ABC), and 26 percent by D (a limited partner in ABC). ABC satisfies the 50-percent capital interest or profits interest ownership requirement of paragraph (b)(1)(iii) of this section with respect to DEF. Since A and D are partners of ABC, under paragraph (b)(4) of this section the capital and profits interests in DEF owned by A and D are treated as not outstanding for purposes of determining whether ABC and DEF are members of a parent-subsidiary group of trades or businesses under common control under § 1.414 (c)-2(b). Thus, ABC is considered to own 100 percent (70 ÷ 70) of the capital interest and profits interest in DEF. Accordingly, ABC and DEF are members of a parent-subsidiary group of trades or businesses under common control.Example 2.Assume the same facts as in example (1) and assume further that A owns 15 shares of the 100 shares of the only class of stock of S Corporation and DEF Partner-ship owns 75 shares of such stock. ABC satisfies the 50 percent stock requirement of paragraph (b)(1)(i) of this section with respect to S since ABC is considered as owning 52.5 percent (70 percent × 75 percent) of the S stock with the application of § 1.414 (c)-4(b)(2). Since A is a partner of ABC, the S stock owned by A is treated as not outstanding for purposes of determining whether S is a member of a parent-subsidiary group of trades or businesses under common control. Thus, DEF Partnership is considered to own stock possessing 88.2 percent (75 ÷ 85) of the voting power and value of the S stock. Accordingly, ABC Partnership, DEF Partnership, and S Corporation are members of a parent-subsidiary group of trades or businesses under common control.Example 3.ABC Partnership owns 60 percent of the only class of stock of Corporation Y. D, the president of Y, owns the remaining 40 percent of the stock of Y. D has agreed that if she offers her stock in Y for sale she will first offer the stock to ABC at a price equal to the fair market value of the stock on the first date the stock is offered for sale. Since D is an employee of Y within the meaning of section 3306(i) of the Code and her stock in Y is subject to a condition which substantially restricts or limits her right to dispose of such stock and runs in favor of ABC Partnership, under paragraph (b)(5) of this section such stock is treated as not outstanding for purposes of determining whether ABC and Y are members of a parent-subsidiary group of trades or businesses under common control. Thus, ABC Partnership is considered to own stock possessing 100 percent of the voting power and value of the stock of Y. Accordingly, ABC Partnership and Y Corporation are members of a parent-subsidiary group of trades or businesses under common control. The result would be the same if D's husband, instead of D, owned directly the 40 percent stock interest in Y and such stock was subject to a right of first refusal running in favor of ABC Partnership.
+
+(f) *Exception*—(1) *In general.* If an interest in an organization (including stock of a corporation) is owned by a person directly or with the application of the rules of paragraph (b) of § 1.414 (c)-4 and such ownership results in the membership of that organization in a group of two or more trades or businesses under common control for any period, then the interest will not be treated as an excluded interest under paragraph (b) or (c) of this section if the result of applying such provisions is that the organization is not a member of a group of two or more trades or businesses under common control for the period.
+
+(2) *Example.* The provisions of this paragraph may be illustrated by the following example:
+
+Example.Corporation P owns directly 50 of the 100 shares of the only class of stock of corporation S. A, an officer of P, owns directly 30 shares of S stock which P has an option to acquire. If, under paragraph (b)(4) of this section, the 30 shares owned directly by A are treated as not outstanding, P would be treated as owning stock possessing only 71 percent (50/70) of the total voting power and value of S stock, and S should not be a member of a parent-subsidiary group of trades or businesses under common control. However, because the 30 shares owned by A that P has an option to purchase are considered as owned by P under paragraph (b)(2) of this section, and that ownership plus P's direct ownership of 50 shares result in S's membership in a parent-subsidiary group of trades or businesses under common control for 1985, the provisions of this paragraph apply. Therefore, A's stock is not treated as an excluded interest and S is a member of a parent-subsidiary group consisting of P and S.[T.D. 8179, 53 FR 6607, Mar. 2, 1988; 53 FR 8302, Mar. 14, 1988]

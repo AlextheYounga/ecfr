@@ -1,0 +1,3 @@
+##### § 570.402 Effect of amendment. #####
+
+Unless otherwise specifically provided, any amendment, modification, or revocation of any provision in this part, any provision in or appendix to this chapter, or any order, regulation, ruling, instruction, or license issued by the Office of Foreign Assets Control does not affect any act done or omitted, or any modification, or revocation. All penalties, forfeitures, and liabilities under any such order, regulation, ruling, instruction, or license continue and may be enforced as if such amendment, modification, or revocation had not been made.

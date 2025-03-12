@@ -1,0 +1,80 @@
+##### § 1.927(d)-1 Other definitions. #####
+
+(a) *Carrying Charges.*
+
+*Q-1.* Under what circumstances is the sales price of property or services sold by a FSC or a related supplier considered to include carrying charges as defined in subdivision (ii)(B)(*1*) of Q&A-9 of § 1.921-2?
+
+*A-1.* (i) The proceeds received from a sale of export property by a FSC or a related supplier (or the amount paid for services rendered or from rental of export property) may include carrying charges if any part of the sale proceeds (or service or rental payment) is paid after the end of the normal payment period. If the export property is sold or leased by, or if the services are rendered by, the FSC, the entire carrying charges amount as determined in Q&A-2 of this section will be the income of the FSC. If, however, the FSC is the commission agent of a related supplier on these transactions, the carrying charges amount so determined is income of the related supplier. The commission payable to the FSC will be computed by reducing the related supplier's gross receipts from the transaction by the amount of the carrying charges. No carrying charges will be assessed on the commissions paid by the related supplier to the FSC. The carrying charges provisions, likewise, do not apply to any other transaction that does not give rise to foreign trading gross receipts.
+
+(ii) The normal payment period for a sale transaction is 60 days from the earlier of date of sale or date of exchange of property under the contract. For this purpose, the date of sale will be the date the sale is recorded on the seller's books of account under its normal accounting method. The date the transaction was recorded on the seller's books of account shall be disregarded if recording is delayed in order to delay the start of the normal payment period. In these circumstances, the earlier of the date of the contract or date of exchange of property will be deemed the date of sale. For related and subsidiary services that are not separately stated from the sale or lease transaction, the earlier of the date of the sale or date the export property is delivered to the purchaser is the applicable date. For related and subsidiary services which are separately stated from the sale or lease transaction and for other services, such as engineering and architectural services, the normal payment period is 60 days from the earlier of the date payment is due for the services or the date services under the contract are completed. The date of completion of a services contract is the date of final approval of the services by the recipient. With regard to transactions involving the lease or rental of export property, the normal payment period will begin on the date the rental payment is due under the lease. The date the normal payment period begins under this subdivision (ii) will be the same whether or not the transaction is with a related person.
+
+(iii) The carrying charges are computed for the period beginning with the first day after the end of the normal payment period and ending with the date of payment. A FSC may elect at any time prior to the close of the statute of limitations of section 6501(a) for the FSC taxable year to treat the final date of payment stated in the contract as the date of payment if -
+
+(A) The contracts for all transactions completed during the taxable year require that payment be received within the normal payment period,
+
+(B) No more than 20% of transactions for which final payment is received in the taxable year involve payment after the end of the normal payment period. For FSC taxable years beginning after March 3, 1987, the 20% test will apply only to the dollar value of the transactions and not to the number of transactions. For prior taxable years, the 20% test will apply to either the dollar value of the transactions or to the number of transactions. The special grouping rules applicable to determination of the FSC's profit under the administrative pricing rules of section 925 may be applied to this elective provision. Accordingly, transactions may be grouped into product or product-line groupings to determine whether 20% or less of the dollar value (or number of transactions, if applicable) of the grouped transactions involve payment after the end of the normal payment period.
+
+*Q-2.* How are carrying charges as defined in subdivision (ii)(B)(*1*) of Q&A 9 of § 1.921-9 computed?
+
+*A-2.* If carrying charges as defined in subdivision (ii)(B)(*1*) of Q&A 9 of § 1.921-9 are considered to be included in the sale price of property income or rental payment services, the amount of the carrying charges is equal to the amount in subdivision (i) of this answer if the contract provides for stated interest or the amount in subdivisions (ii) or (iii) of this answer, whichever is applicable, if the contract does not so provide.
+
+(i) If a contract provides for stated interest beginning on the day after the end of the normal payment period, carrying charges will accrue only if the stated interest rate is less than the short-term, monthly Federal rate as of the day after the end of normal payment period and then only to the extent the stated interest is less than the short-term, monthly Federal rate. The short-term, monthly Federal rate is that rate as determined for purposes of section 1274(d) and which is published in the Internal Revenue Bulletin. Carrying charges will not accrue, however, unless payments are made after the end of the normal payment period.
+
+(ii) If a contract for a transaction does not provide for stated interest, and if the taxpayer does not elect the method described in subdivision (iii) of this answer, the amount of carrying charges is equal to the excess of -
+
+(A) The amount of the sales price of property, services income or rental payment that is unpaid on the day after the end of the normal payment period, over
+
+(B) The present value, as of the day after the end of the normal payment period, of all payments that are required to be made under the contract and that are unpaid on the day after the end of the normal payment period. The amount of the sales price of property, service income or rental payment is the amount under the contract whether it be the sales price, amount paid for services or the rental amount determined as of the actual payment date unless a FSC makes the election provided under subdivision (iii) of Q&A 1. If a FSC makes the election provided under subdivision (III) of Q&A 1, the amount of the sales price is the sales price, services income or rental payment under the contract determined as of the final payment date stated in the contract. All payments that are required to be made under the contract include the stated sales price, services income or rental payment as well as stated amounts of interest and carrying charges. The discount rate for the present value computation is simple interest at the short-term monthly Federal rate published in the Internal Revenue Bulletin, determined as of the day after the end of the normal payment period. The present value of a payment is calculated as follows:
+
+![](/graphics/ec14no91.143.gif)P = present value of a payment that is required and unpaid after the end of the normal payment periodS = amount of a payment that is required and unpaid after the end of the normal payment periodi = the short-term monthly Federal ratet = the number of days after the end of the normal payment period and before date of payment divided by 365.If a sale is made, or if services are completed, or if rent is due under a lease in a taxable year and the required date of payment is in a later taxable year, carrying charges for the first taxable year are computed for the number of days after the end of the normal payment period and before the end of the taxable year. For the following taxable year, carrying charges are computed for the number of days after the beginning of the taxable year and before the date of payment.
+
+(iii) At the election of the taxpayer, the amount of carrying charges may be determined under the method described in this subdivision (iii). If the taxpayer elects this method, it must be used for all applicable transactions within the taxable year of the FSC. If this optional method is used, the computation of carrying charges must be made separately for transactions involving related persons and for those transactions involving unrelated persons. In addition, the computation of carrying charges must be made separately for each of the five types of income of the FSC (or of the related supplier if the related supplier is the principal on the transaction) listed in subparagraph (1) through (5) of section 924(a). These groupings are separate and distinct from the groupings that are established for purposes of determining the FSC's profit on the export transactions. The optional method allowed in this subdivision provides that the amount of carrying charges for a taxable year of a FSC (or related supplier if the related supplier is the principal on the export transaction) is computed using the average of receivables of unrelated persons (or of related persons) and the average time those receivables are outstanding. Receivables are included in this computation only if they are from transactions on which foreign trading gross receipts, as defined in section 924(a), are received by the FSC (or which are received by a related supplier of a FSC and which would have been foreign trading gross receipts had they been received by the FSC). Carrying charges are calculated under this method as follows:
+
+CC = (AR) (I/365) (X) (Y)CC = Carrying chargesAR = Average monthly receivables balance for the taxable yearI = The average short-term, monthly Federal rate for the yearX = The number of times receivables turn over in the yearY = The number of days the average receivables are outstanding over 60 days.This optional method is illustrated in *Example 5* in subdivision (v) of this answer.
+
+(iv) The computation of carrying charges under this answer 2 applies only to the determination of carrying charges under subdivision (ii)(B)(*1*) of Q&A 9 of § 1.921-2 and does not apply to the determination of any other unstated interest or for any other purpose.
+
+(v) The following examples illustrate the computation of carrying charges under this section:
+
+Example 1.On January 1, 1985, a FSC sells export property for $10,000. The export property is delivered to the purchaser on January 10, 1985. The terms of the contract require payment within 90 days after sale. The normal payment period is 60 days. The FSC does not make an election under subdivision (iii) of Q&A. The contract does not require the payment of any interest or carrying charges. The purchaser pays the entire sales price on March 1, 1985. The sales price is not considered to include any carrying charges because the purchase paid the entire sales price within the normal payment period.Example 2.The facts are the same as in example 1 except that the purchaser pays the entire sales price on April 6, 1985, 96 days after the earlier of the date of sale or date of delivery (*i.e.,* January 1, 1985). Therefore, the sales price is considered to include carrying charges computed as follows:
+
+*Step 1:* Determines the short-term monthly Federal rate as of the earlier of date of sale or date of delivery. For purposes of this example, the rate is 10%.
+
+*Step 2:* Determine the fraction of the year represented by the number of days after 60 days and before date of payment. In this example, the number of days beyond 60 is 96-60 = 36, which is divided by 365
+
+![](/graphics/ec09oc91.001.gif)*Step. 3:* Using the short-term monthly Federal rate and the fraction of the year, compute the present value of the payment.![](/graphics/ec09oc91.002.gif)![](/graphics/ec09oc91.003.gif)P = $10,000 (.99)P = $9,900*Step 4:* Using the present value of all payments, compute the carrying charges.
+
+Carrying Charges = Sales Price less Present Value.
+
+![](/graphics/ec09oc91.004.gif)Example 3.On October 15, 1985, F, a FSC, leases export property to X for one month with a total rental due of $20,000. Under the terms of the lease, A agreed to pay F $10,000 on October 15, 1985, and the remaining $10,000 on January 15, 1986. The contract does not require the payment of any interest or carrying charges. The second $10,000 payment is made on January 3, 1986. This payment does not include any carrying charges because X paid the $10,000 before the start of the normal payment period.Example 4.On October 15, 1985, F, a FSC, leases export property to X, for one month with a total amount due under the lease of $10,000, payable on October 15, 1985. X delays payment until January 19, 1986, which was 96 days after the start of the normal payment period. The 60 day normal payment period terminated on December 14, 1985. Therefore, the lease payment is considered to include carrying charges of $100 computed in the same manner as in *Example 2.* Of this $100, 17/36, or $47.22, is carrying charges for 1985 (*i.e.,* 17 days in December), and 19/36, or $52.78, is carrying charges for 1986.Example 5.During 1986, F, a FSC, sold on account export properties A and B to related and unrelated persons.
+
+(A) *Unrelated persons.* During 1986, the sales on account to unrelated persons totaled $6,000. On the last day of each of the months of 1986, F had total receivables from unrelated persons from sales of export properties A and B, as follows:
+
+| January 31 |$1,400|
+|:-----------|-----:|
+|February 28 |1,400 |
+|  March 31  |1,000 |
+|  April 30  |1,000 |
+|   May 31   |1,200 |
+|  June 30   |1,300 |
+|  July 31   |1,000 |
+| August 31  |1,300 |
+|September 30|1,500 |
+| October 31 |1,100 |
+|November 30 |1,200 |
+|December 31 |1,000 |
+|            |14,400|
+
+Carrying charges for 1986 with unrelated persons under the optional method of subdivision (iii) of this answer will be $19.23, computed as follows:*Step 1:* Determine the average short-term, monthly Federal rate for the year. For purposes of this example, the rate is assumed to be 9%.
+
+*Step 2:* Determine the average receivables for the year. This average is calculated by totaling the end of the month receivables balance of each month of the year and dividing by twelve. In this example, the average monthly receivables balance is $1,200, calculated as follows:
+
+$1,200 = $14,400 / 12*Step 3:* Determine the number of times the receivables turn over during the year. This is calculated by dividing the sales on account for the year by the average monthly receivables balance for the year. For purposes of this example, receivables turned over 5 times for 1986, computed as follows:![](/graphics/ec09oc91.005.gif)*Step 4:* Determine the number of days the average receivables are outstanding in excess of 60 days. In this example, there are 13 receivable days in excess of 60 days, computed as follows:![](/graphics/ec09oc91.071.gif)*Step 5:* The amount of carrying charges, $19.23, is calculated by using the following equation:CC = (AR) (I/365) (X)(Y)CC = Carrying chargesAR = Average monthly receivables balance for the taxable year (step 2)I = The average short-term monthly Federal rate for the year (step 1)X = The number of times receivables turn over in the year (step 3)Y = The number of days the average receivables are outstanding over 60 days (step 4).CC = $19.23 = ($1,200) (.09/365) (5) (13)(B) *Related persons.* Carrying charges, if any, on the sales on account to related persons must be computed separately using this optional method.*Q-3.* Is a discount from the sales price of property or services for prompt payment considered to be stated carrying charges as defined in subdivision (ii)(A) of Q&A 9 of § 1.921-2?
+
+*A-3.* No.
+
+*Q-4.* Is the receipt of an arm's length factoring payment from an unrelated person considered a payment of the sales proceeds for purposes of determining whether payment is made within the normal payment period and the possible imposition of carrying charges?
+
+*A-4.* Yes.
+
+[T.D. 8127, 52 FR 6473, Mar. 3, 1987]

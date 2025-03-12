@@ -1,0 +1,3 @@
+##### § 75.460 Proposal costs. #####
+
+Proposal costs are the costs of preparing bids, proposals, or applications on potential Federal and non-Federal awards or projects, including the development of data necessary to support the non-Federal entity's bids or proposals. Proposal costs of the current accounting period of both successful and unsuccessful bids and proposals normally should be treated as indirect (F&A) costs and allocated currently to all activities of the non-Federal entity. No proposal costs of past accounting periods will be allocable to the current period.

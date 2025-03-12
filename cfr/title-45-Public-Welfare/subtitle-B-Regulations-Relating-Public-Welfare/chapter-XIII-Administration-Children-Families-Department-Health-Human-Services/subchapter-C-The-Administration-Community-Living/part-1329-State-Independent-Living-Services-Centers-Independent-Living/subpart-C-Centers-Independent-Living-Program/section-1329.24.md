@@ -1,0 +1,3 @@
+##### § 1329.24 Training and technical assistance to Centers for Independent Living. #####
+
+The Administrator shall reserve between 1.8% and 2% of appropriated funds to provide training and technical assistance to Centers through grants, contracts or cooperative agreements, consistent with section 721(b) of the Act. The training and technical assistance funds shall be administered in accordance with section 721(b) of the Act.

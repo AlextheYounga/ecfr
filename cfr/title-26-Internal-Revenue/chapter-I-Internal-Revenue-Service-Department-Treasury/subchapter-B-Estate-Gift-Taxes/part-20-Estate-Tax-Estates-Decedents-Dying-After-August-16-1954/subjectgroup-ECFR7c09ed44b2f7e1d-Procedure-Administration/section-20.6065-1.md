@@ -1,0 +1,7 @@
+##### § 20.6065-1 Verification of returns. #####
+
+(a) *Penalties of perjury.* If a return, statement, or other document made under the provisions of Chapter 11 or Subtitle F of the Code or the regulations thereunder with respect to any tax imposed by Chapter 11 of the Code, or the form and instructions issued with respect to such return, statement, or other document, requires that it shall contain or be verified by a written declaration that it is made under the penalties of perjury, it must be so verified by the person or persons required to sign such return, statement or other document. In addition, any other statement or document submitted under any provision of Chapter 11 or Subtitle F of the Code or regulations thereunder with respect to any tax imposed by Chapter 11 of the Code may be required to contain or be verified by a written declaration that it is made under the penalties of perjury.
+
+(b) *Oath.* Any return, statement, or other document required to be submitted under Chapter 11 or Subtitle F of the Code or regulations prescribed thereunder with respect to any tax imposed by Chapter 11 of the Code may be required to be verified by an oath.
+
+[T.D. 6600, 27 FR 4986, May 29, 1962]

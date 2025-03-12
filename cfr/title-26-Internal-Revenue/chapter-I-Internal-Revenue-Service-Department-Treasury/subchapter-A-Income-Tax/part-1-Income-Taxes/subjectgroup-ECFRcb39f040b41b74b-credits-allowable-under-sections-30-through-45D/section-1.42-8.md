@@ -1,0 +1,81 @@
+##### § 1.42-8 Election of appropriate percentage month. #####
+
+(a) *Election under section 42(b)(2)(A)(ii)(I) to use the appropriate percentage for the month of a binding agreement*—(1) *In general.* For purposes of section 42(b)(2)(A)(ii)(I), an agreement between a taxpayer and an Agency as to the housing credit dollar amount to be allocated to a building is considered binding if it—
+
+(i) Is in writing;
+
+(ii) Is binding under state law on the Agency, the taxpayer, and all successors in interest;
+
+(iii) Specifies the type(s) of building(s) to which the housing credit dollar amount applies (*i.e.*, a newly constructed or existing building, or substantial rehabilitation treated as a separate new building under section 42(e));
+
+(iv) Specifies the housing credit dollar amount to be allocated to the building(s); and
+
+(v) Is dated and signed by the taxpayer and the Agency during the month in which the requirements of paragraphs (a)(1) (i) through (iv) of this section are met.
+
+(2) *Effect on state housing credit ceiling.* Generally, a binding agreement described in paragraph (a)(1) of this section is an agreement by the Agency to allocate credit to the taxpayer at a future date. The binding agreement may include a reservation of credit or a binding commitment (under section 42(h)(1)(C)) to allocate credit in a future taxable year. A reservation or a binding commitment to allocate credit in a future year has no effect on the state housing credit ceiling until the year the Agency actually makes an allocation. However, if the binding agreement is also a carryover allocation under section 42(h)(1) (E) or (F), the state housing credit ceiling is reduced by the amount allocated by the Agency to the taxpayer in the year the carryover allocation is made. For a binding agreement to be a valid carryover allocation, the requirements of paragraph (a)(1) of this section and § 1.42-6 must be met.
+
+(3) *Time and manner of making election.* An election under section 42(b)(2)(A)(ii)(I) may be made either as part of the binding agreement under paragraph (a)(1) of this section to allocate a specific housing credit dollar amount or in a separate document that references the binding agreement. In either case, the election must—
+
+(i) Be in writing;
+
+(ii) Reference section 42(b)(2)(A)(ii)(I);
+
+(iii) Be signed by the taxpayer;
+
+(iv) If it is in a separate document, reference the binding agreement that meets the requirements of paragraph (a)(1) of this section; and
+
+(v) Be notarized by the 5th day following the end of the month in which the binding agreement was made.
+
+(4) *Multiple agreements*—(i) *Rescinded agreements.* A taxpayer may not make an election under section 42(b)(2)(A)(ii)(I) for a building if an election has previously been made for the building for a different month. For example, assume a taxpayer entered into a binding agreement for allocation of a specific housing credit dollar amount to a building and made the election under section 42(b)(2)(A)(ii)(I) to apply the appropriate percentage for the month of the binding agreement. If the binding agreement subsequently is rescinded under state law, and the taxpayer enters into a new binding agreement for allocation of a specific housing credit dollar amount to the building, the taxpayer must apply to the building the appropriate percentage for the elected month of the rescinded binding agreement. However, if no prior election was made with respect to the rescinded binding agreement, the taxpayer may elect the appropriate percentage for the month of the new binding agreement.
+
+(ii) *Increases in credit.* The election under section 42(b)(2)(A)(ii)(I), once made, applies to any increase in the credit amount allocated for a building, whether the increase occurs in the same or in a subsequent year. However, in the case of a binding agreement (or carryover allocation that is treated as a binding agreement) to allocate a credit amount under section 42(e)(1) for substantial rehabilitation treated as a separate new building, a taxpayer may make the election under section 42(b)(2)(A)(ii)(I) notwithstanding that a prior election under section 42(b)(2)(A)(ii)(I) is in effect for a prior allocation of credit for a substantial rehabilitation that was previously placed in service under section 42(e).
+
+(5) *Amount allocated.* The housing credit dollar amount eventually allocated to a building may be more or less than the amount specified in the binding agreement. Depending on the Agency's determination pursuant to section 42(m)(2) as to the financial feasibility of the building (or project), the Agency may allocate a greater housing credit dollar amount to the building (provided that the Agency has additional housing credit dollar amounts available to allocate for the calendar year of the allocation) or the Agency may allocate a lesser housing credit dollar amount. Under section 42(h)(7)(D), in allocating a housing credit dollar amount, the Agency must specify the applicable percentage and maximum qualified basis of the building. The applicable percentage may be less, but not greater than, the appropriate percentage for the month the building is placed in service, or the month elected by the taxpayer under section 42(b)(2)(A)(ii)(I). Whether the appropriate percentage is the appropriate percentage for the 70-percent present value credit or the 30-percent present value credit is determined under section 42(i)(2) when the building is placed in service.
+
+(6) *Procedures*—(i) *Taxpayer.* The taxpayer must give the original notarized election statement to the Agency before the close of the 5th calendar day following the end of the month in which the binding agreement is made. The taxpayer must retain a copy of the binding agreement and the election statement.
+
+(ii) *Agency.* The Agency must retain the original of the binding agreement and election statement and, to the extent required by Schedule A (Form 8610), “Carryover Allocation of Low-Income Housing Credit,” account for the binding agreement and election statement on that schedule.
+
+(7) *Examples.* The following examples illustrate the provisions of this section. In each example, X is the taxpayer, Agency is the state housing credit agency, and the carryover allocations meet the requirements of § 1.42-6 and are otherwise valid.
+
+Example 1.(i) In August 2003, X and Agency enter into an agreement that Agency will allocate $100,000 of housing credit dollar amount for the low-income housing building X is constructing. The agreement is binding and meets all the requirements of paragraph (a)(1) of this section. The agreement is a reservation of credit, not an allocation, and therefore, has no effect on the state housing credit ceiling. On or before September 5, 2003, X signs and has notarized a written election statement that meets the requirements of paragraph (a)(3) of this section. The applicable percentage for the building is the appropriate percentage for the month of August 2003.
+
+(ii) Agency makes a carryover allocation of $100,000 of housing credit dollar amount for the building on October 2, 2003. The carryover allocation reduces Agency's state housing credit ceiling for 2003. Due to unexpectedly high construction costs, when X places the building in service in July 2004, the product of the building's qualified basis and the applicable percentage for the building (the appropriate percentage for the month of August 2003) is $150,000, rather than $100,000. Notwithstanding that only $100,000 of credit was allocated for the building in 2003, Agency may allocate an additional $50,000 of housing credit dollar amount for the building from its state housing credit ceiling for 2004. The appropriate percentage for the month of August 2003 is the applicable percentage for the building for the entire $150,000 of credit allocated for the building, even though separate allocations were made in 2003 and 2004. Because allocations were made for the building in two separate calendar years, Agency must issue two Forms 8609, “Low-Income Housing Credit Allocation Certification,” to X. One Form 8609 must reflect the $100,000 allocation made in 2003, and the other Form 8609 must reflect the $50,000 allocation made in 2004.
+
+(iii) X gives the original notarized statement to Agency on or before September 5, 2003, and retains a copy of the binding agreement, election statement, and carryover allocation document.
+
+(iv) Agency retains the original of the binding agreement, election statement, and 2003 carryover allocation document. Agency accounts for the binding agreement, election statement, and 2003 carryover allocation on the Schedule A (Form 8610) that it files for the 2003 calendar year. After the building is placed in service in 2004, and assuming other necessary requirements for issuing a Form 8609 are met (for example, taxpayer has certified all sources and uses of funds and development costs for the building under § 1.42-17), Agency issues to X a copy of the Form 8609 reflecting the 2003 carryover allocation of $100,000. Agency files the original of this Form 8609 with the Form 8610, “Annual Low-Income Housing Credit Agencies Report,” that it files for the 2004 calendar year. Agency also issues to X a copy of the Form 8609 reflecting the 2004 allocation of $50,000 and files the original of this Form 8609 with the Form 8610 that it files for the 2004 calendar year. Agency retains copies of the Forms 8609 that are issued to X.
+
+Example 2.(i) In September 2003, X and Agency enter into an agreement that Agency will allocate $70,000 of housing credit dollar amount for rehabilitation expenditures that X is incurring and that X will treat as a new low-income housing building under section 42(e)(1). The agreement is binding and meets all the requirements of paragraph (a)(1) of this section. The agreement is a reservation of credit, not an allocation, and therefore, has no effect on Agency's state housing credit ceiling. On or before October 5, 2003, X signs and has notarized a written election statement that meets the requirements of paragraph (a)(3) of this section. The applicable percentage for the building is the appropriate percentage for the month of September 2003. Agency makes a carryover allocation of $70,000 of housing credit dollar amount for the building on November 15, 2003. The carryover allocation reduces by $70,000 Agency's state housing credit ceiling for 2003.
+
+(ii) In October 2004, X and Agency enter into another binding agreement meeting the requirements of paragraph (a)(1) of this section. Under the agreement, Agency will allocate $50,000 of housing credit dollar amount for additional rehabilitation expenditures by X that qualify as a second separate new building under section 42(e)(1). On or before November 5, 2004, X signs and has notarized a written election statement meeting the requirements of paragraph (a)(3) of this section. On December 1, 2004, X receives a carryover allocation under section 42(h)(1)(E) for $50,000. The carryover allocation reduces by $50,000 Agency's state housing credit ceiling for 2004. The applicable percentage for the rehabilitation expenditures treated as the second separate new building is the appropriate percentage for the month of October 2004, not September 2003. The appropriate percentage for the month of September 2003 still applies to the allocation of $70,000 for the rehabilitation expenditures treated as the first separate new building. Because allocations were made for the building in two separate calendar years, Agency must issue two Forms 8609 to X. One Form 8609 must reflect the $70,000 allocation made in 2003, and the other Form 8609 must reflect the $50,000 allocation made in 2004.
+
+(iii) X gives the first original notarized statement to Agency on or before October 5, 2003, and retains a copy of the first binding agreement, election statement, and carryover allocation document issued in 2003. X gives the second original notarized statement to Agency on or before November 5, 2004, and retains a copy of the second binding agreement, election statement, and carryover allocation document issued in 2004.
+
+(iv) Agency retains the original of the binding agreements, election statements, and carryover allocation documents. Agency accounts for the binding agreement, election statement, and 2003 carryover allocation on the Schedule A (Form 8610) that it files for the 2003 calendar year. Agency also accounts for the binding agreement, election statement, and 2004 carryover allocation on the Schedule A (Form 8610) that it files for the 2004 calendar year. After each separate new building is placed in service, and assuming other necessary requirements for issuing a Form 8609 are met (for example, taxpayer has certified all sources and uses of funds and development costs for the building under § 1.42-17), the Agency will issue to X a copy of the Form 8609 reflecting the 2003 carryover allocation of $70,000 and a copy of the Form 8609 reflecting the 2004 carryover allocation of $50,000, respectively. Agency files the original of each Form 8609 with the Form 8610 that reflects the calendar year each Form 8609 is issued. Agency retains copies of the Forms 8609 that are issued to X.
+
+(b) *Election under section 42(b)(2)(A)(ii)(II) to use the appropriate percentage for the month tax-exempt bonds are issued*—(1) *Time and manner of making election.* In the case of any building to which section 42(h)(4)(B) applies, an election under section 42(b)(2)(A)(ii)(II) to use the appropriate percentage for the month tax-exempt bonds are issued must—
+
+(i) Be in writing;
+
+(ii) Reference section 42(b)(2)(A)(ii)(II);
+
+(iii) Specify the percentage of the aggregate basis of the building and the land on which the building is located that is financed with the proceeds of obligations described in section 42(h)(4)(A) (tax-exempt bonds);
+
+(iv) State the month in which the tax-exempt bonds are issued;
+
+(v) State that the month in which the tax-exempt bonds are issued is the month elected for the appropriate percentage to be used for the building;
+
+(vi) Be signed by the taxpayer; and
+
+(vii) Be notarized by the 5th day following the end of the month in which the bonds are issued.
+
+(2) *Bonds issued in more than one month.* If a building described in section 42(h)(4)(B) (substantially bond-financed building) is financed with tax-exempt bonds issued in more than one month, the taxpayer may elect the appropriate percentage for any month in which the bonds are issued. Once the election is made, the appropriate percentage elected applies for the building even if all bonds are not issued in that month. The requirements of this paragraph (b), including the time limitation contained in paragraph (b)(1)(vii) of this section, must also be met.
+
+(3) *Limitations on appropriate percentage.* Under section 42(m)(2)(D), the credit allowable for a substantially bond- financed building is limited to the amount necessary to assure the project's feasibility. Accordingly, in making the determination under section 42(m)(2), an Agency may use an applicable percentage that is less, but not greater than, the appropriate percentage for the month the building is placed in service, or the month elected by the taxpayer under section 42(b)(2)(A)(ii)(II).
+
+(4) *Procedures*—(i) *Taxpayer.* The taxpayer must provide the original notarized election statement to the Agency before the close of the 5th calendar day following the end of the month in which the bonds are issued. If an authority other than the Agency issues the tax-exempt bonds, the taxpayer must also give the Agency a signed statement from the issuing authority that certifies the information described in paragraphs (b)(1)(iii) and (iv) of this section. The taxpayer must also retain a copy of the election statement.
+
+(ii) *Agency.* The Agency must retain the original of the election statement and a copy of the Form 8609 that reflects the election statement. The Agency must file an additional copy of the Form 8609 with the Agency's Form 8610 that reflects the calendar year the Form 8609 is issued.
+
+[T.D. 8520, 59 FR 10071, Mar. 3, 1994, as amended by T.D. 9110, 69 FR 504, Jan. 6, 2004]

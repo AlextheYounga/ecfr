@@ -1,0 +1,3 @@
+##### § 596.307 Monetary instruments. #####
+
+The term *monetary instruments* shall have the meaning set forth in 18 U.S.C. 1956(c)(5), as from time to time amended. As of the effective date, this term includes coin or currency of the United States or of any other country, travelers' checks, personal checks, bank checks, and money orders, or investment securities or negotiable instruments, in bearer form or otherwise in such form that title thereto passes upon delivery.

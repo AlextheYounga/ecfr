@@ -1,0 +1,7 @@
+##### § 1151.4 Notice. #####
+
+(a) A recipient shall take appropriate initial and continuing steps to notify participants, beneficiaries, applicants, and employees, including those with impaired vision or hearing, and unions or professional organizations holding collective bargaining or professional agreements with the recipient that it does not discriminate on the basis of handicap in violation of section 504 and this part. The notification shall state, where appropriate, that the recipient does not discriminate in admission or access to, or employment in, its programs or activities. Methods of initial and continuing notification may include the posting of notices, publication in print, audio, and visual media, placement of notices in a recipient's publication, and distribution of other written and verbal communications.
+
+(b) If a recipient publishes or uses recruitment materials or publications containing general information that it makes available to participants, beneficiaries, applicants, or employees, it shall include in those materials or publications a statement of the policy described in paragraph (a) of this section. A recipient may meet the requirement of this paragraph either by including appropriate inserts in existing materials and publications or by revising and reprinting the materials and publications.
+
+[44 FR 22734, Apr. 17, 1979, as amended at 68 FR 51384, Aug. 26, 2003]

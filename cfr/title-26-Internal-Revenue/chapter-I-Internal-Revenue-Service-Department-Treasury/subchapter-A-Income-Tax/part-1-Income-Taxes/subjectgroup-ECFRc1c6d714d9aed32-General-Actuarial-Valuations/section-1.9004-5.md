@@ -1,0 +1,5 @@
+##### § 1.9004-5 Terms; applicability of other laws. #####
+
+All other terms which are not otherwise specifically defined shall have the same meaning as when used in the Internal Revenue Code of 1954 (or the corresponding provisions of prior law) except where otherwise distinctly expressed or manifestly intended to the contrary. Further, all provisions of law contained in the Code (or the corresponding provisions of prior law) shall apply to the extent that they can apply. Thus, all the provisions of subtitle F of the Code (and the corresponding provisions of prior law) shall apply to the extent they can apply, including the provisions of law relating to assessment, collection, credit or refund, and limitations. For purposes of this section and §§ 1.9004-1 to 1.9004-4, inclusive, the term “Act” means the Act of September 26, 1961 (Pub. L. 87-312, 75 Stat. 674).
+
+(75 Stat. 674, 26 U.S.C. 613 note)[T.D. 6575, 26 FR 9633, Oct. 12, 1961]QUARTZITE AND CLAY USED IN PRODUCTION OF REFRACTORY PRODUCTS; ELECTION FOR PRIOR TAXABLE YEARS

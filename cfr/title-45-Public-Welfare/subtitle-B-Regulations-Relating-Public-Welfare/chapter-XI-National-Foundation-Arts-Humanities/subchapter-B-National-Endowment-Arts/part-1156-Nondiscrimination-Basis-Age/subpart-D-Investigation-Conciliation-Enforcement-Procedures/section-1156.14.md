@@ -1,0 +1,3 @@
+##### § 1156.14 Compliance reviews. #####
+
+The Endowment may conduct compliance reviews, pre-award reviews and other similar procedures in order to investigate and correct violations of the Act and regulations. The Endowment may conduct these reviews in the absence of a compliant against the recipient. In the event a compliance review or pre-award review indicates a violation of the regulations in this part, the Endowment will attempt to achieve voluntary compliance with the Act. If voluntary compliance cannot be achieved, enforcement efforts will proceed as described in § 1156.19.

@@ -1,0 +1,5 @@
+##### § 1.1461-3 Withholding under section 1446. #####
+
+For rules relating to the withholding tax liability of a partnership or nominee under section 1446, see §§ 1.1446-1 through 1.1446-7. For interest, penalties, and additions to the tax for failure to timely pay the tax required to be paid under section 1446, see sections 6601, 6651, 6655 (in the case of publicly traded partnerships, see section 6656), 6672, and 7202 and the regulations under those sections. For additional penalties and additions to the tax for failure to comply with the regulations under section 1446, see sections 6651, 6662, 6663, 6721, 6722, 6723, 6724(c), 7201, 7203, and the regulations under those sections. This section shall apply to partnership taxable years beginning after May 18, 2005, or such earlier time as the regulations under §§ 1.1446-1 through 1.1446-5 apply by reason of an election under § 1.1446-7.
+
+[T.D. 9200, 70 FR 28741, May 18, 2005]

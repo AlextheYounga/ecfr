@@ -1,0 +1,3 @@
+##### § 144.204 Applicability of regulations. #####
+
+The regulations contained in this subpart for reporting data apply only to those insurers that have issued qualified long-term care insurance policies to individuals under a qualified State long-term care insurance partnership. They do not apply to the reporting of data by insurers for States with a Medicaid State plan amendment that established a long-term care partnership on or before May 14, 1993.

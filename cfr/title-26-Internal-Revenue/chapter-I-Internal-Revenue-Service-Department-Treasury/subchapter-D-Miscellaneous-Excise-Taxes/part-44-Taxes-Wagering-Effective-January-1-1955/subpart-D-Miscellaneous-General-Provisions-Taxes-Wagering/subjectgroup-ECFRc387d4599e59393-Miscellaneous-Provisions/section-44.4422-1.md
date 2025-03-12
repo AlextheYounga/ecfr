@@ -1,0 +1,3 @@
+##### § 44.4422-1 Doing business in violation of Federal or State law. #####
+
+Payment of any special tax within the scope of the regulations in this part in nowise authorizes the carrying on of any business in violation of a law of the United States or the law of any State. The special tax stamp is not a license or permit and affords no protection from prosecution for violation of any Federal or State law. See also section 4906.

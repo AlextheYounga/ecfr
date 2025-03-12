@@ -1,0 +1,5 @@
+##### § 400.207 Federal funding for administrative costs. #####
+
+Federal funding is available for reasonable and necessary identifiable administrative costs of providing assistance and services under this part only for those assistance and service programs set forth in §§ 400.203 through 400.205 for which Federal funding is currently made available under the refugee program. A State may claim only those costs that are determined to be reasonable and allowable as defined by the Administration for Children and Families. Such costs may include reasonable and necessary administrative costs incurred by local resettlement agencies in providing assistance and services under a public/private RCA program. Administrative costs may be included in a State's claims against its quarterly grants for the purposes set forth in §§ 400.203 through 400.205 of this part.
+
+[60 FR 33604, June 28, 1995, as amended at 65 FR 15450, Mar. 22, 2000]

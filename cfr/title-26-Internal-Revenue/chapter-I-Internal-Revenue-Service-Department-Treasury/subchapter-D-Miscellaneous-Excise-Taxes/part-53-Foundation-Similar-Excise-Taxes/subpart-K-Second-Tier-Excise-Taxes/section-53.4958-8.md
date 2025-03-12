@@ -1,0 +1,9 @@
+##### § 53.4958-8 Special rules. #####
+
+(a) *Substantive requirements for exemption still apply.* Section 4958 does not affect the substantive standards for tax exemption under section 501(c)(3) or (4), including the requirements that the organization be organized and operated exclusively for exempt purposes, and that no part of its net earnings inure to the benefit of any private shareholder or individual. Thus, regardless of whether a particular transaction is subject to excise taxes under section 4958, existing principles and rules may be implicated, such as the limitation on private benefit. For example, transactions that are not subject to section 4958 because of the initial contract exception described in § 53.4958-4(a)(3) may, under certain circumstances, jeopardize the organization's tax-exempt status.
+
+(b) *Interaction between section 4958 and section 7611 rules for church tax inquiries and examinations.* The procedures of section 7611 will be used in initiating and conducting any inquiry or examination into whether an excess benefit transaction has occurred between a church and a disqualified person. For purposes of this rule, the reasonable belief required to initiate a church tax inquiry is satisfied if there is a reasonable belief that a section 4958 tax is due from a disqualified person with respect to a transaction involving a church. See § 301.7611-1 Q&A 19 of this chapter.
+
+(c) *Other substantiation requirements.* These regulations, in § 53.4958-4(c)(3), set forth specific substantiation rules. Compliance with the specific substantiation rules of that section does not relieve applicable tax-exempt organizations of other rules and requirements of the Internal Revenue Code, regulations, Revenue Rulings, and other guidance issued by the Internal Revenue Service (including the substantiation rules of sections 162 and 274, or § 1.6001-1(a) and (c) of this chapter).
+
+[T.D. 8978, 67 FR 3083, Jan. 23, 2002]

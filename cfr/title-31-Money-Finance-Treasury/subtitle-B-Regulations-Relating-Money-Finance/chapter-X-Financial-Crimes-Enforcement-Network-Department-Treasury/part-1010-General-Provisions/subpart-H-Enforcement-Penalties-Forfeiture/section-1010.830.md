@@ -1,0 +1,3 @@
+##### § 1010.830 Forfeiture of currency or monetary instruments. #####
+
+Any currency or other monetary instruments which are in the process of any transportation with respect to which a report is required under § 1010.340 are subject to seizure and forfeiture to the United States if such report has not been filed as required in § 1010.360, or contains material omissions or misstatements. The Secretary may, in his sole discretion, remit or mitigate any such forfeiture in whole or in part upon such terms and conditions as he deems reasonable.

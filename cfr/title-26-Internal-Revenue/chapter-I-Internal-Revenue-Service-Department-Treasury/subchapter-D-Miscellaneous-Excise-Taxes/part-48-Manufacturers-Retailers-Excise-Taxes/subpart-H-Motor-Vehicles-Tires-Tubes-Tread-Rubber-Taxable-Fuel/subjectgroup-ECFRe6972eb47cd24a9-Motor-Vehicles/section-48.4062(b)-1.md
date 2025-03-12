@@ -1,0 +1,3 @@
+##### § 48.4062(b)-1 Rebuilt parts or accessories sold on an exchange basis. #####
+
+The sale price of a rebuilt part or accessory on which the tax is to be computed shall not include the value of a like part or accessory accepted in exchange. The total amount charged in excess of the amount allowed for a like article accepted in an exchange will be the basis for tax. For example, if a rebuilt automobile engine is sold for $100, plus another automobile engine, the tax on the rebuilt engine will be computed on the basis of $100.

@@ -1,0 +1,9 @@
+##### § 1201.6 Procedure when testimony or production of documents is sought. #####
+
+(a) If Official Information is sought, either through testimony or otherwise, the party seeking such information must (except as otherwise required by federal law or authorized by the General Counsel) set forth in writing with as much specificity as possible, the nature and relevance of the Official Information sought. The party must identify the record or reasonably describe it in terms of date, format, subject matter, the offices originating or receiving the record, and the names of all persons to whom the record is known to relate. Corporation Employees may produce, disclose, release, comment upon, or testify concerning only those matters that were specified in writing and properly approved by the General Counsel. The General Counsel may waive this requirement in appropriate circumstances.
+
+(b) To the extent it deems necessary or appropriate, the Corporation may also require from the party seeking such testimony or documents a schedule of all reasonably foreseeable demands, including but not limited to the names of all current and former Corporation Employees from whom discovery will be sought, areas of inquiry, expected duration of proceedings requiring oral testimony, and identification of potentially relevant documents.
+
+(c) The General Counsel will notify the Corporation Employee and such other persons as circumstances may warrant of the decision regarding compliance with the request or demand.
+
+(d) The General Counsel will consult with the Department of Justice regarding legal representation for Corporation Employees in appropriate cases.

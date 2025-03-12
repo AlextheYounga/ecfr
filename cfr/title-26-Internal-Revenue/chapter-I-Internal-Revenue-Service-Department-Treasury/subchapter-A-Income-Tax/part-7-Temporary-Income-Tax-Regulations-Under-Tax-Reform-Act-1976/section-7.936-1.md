@@ -1,0 +1,5 @@
+##### § 7.936-1 Qualified possession source investment income. #####
+
+For purposes of this section, interest earned after September 30, 1976 (less applicable deductions), by a domestic corporation, engaged in the active conduct of a trade or business in Puerto Rico, which elects the application of section 936 with respect to deposits with certain Puerto Rican financial institutions will be treated as qualified possession source investment income within the meaning of section 936(d)(2) if (1) the interest qualifies for exemption from Puerto Rican income tax under regulations issued by the Secretary of the Treasury of Puerto Rico, as in effect on September 28, 1976, under the authority of section 2(j) of the Puerto Rico Industrial Incentive Act of 1963, as amended, (2) the interest is from sources within Puerto Rico (within the meaning of section 936(d)(2)(A)), and (3) the funds with respect to which the interest is earned are derived from the active conduct of a trade or business in Puerto Rico or from investment of funds so derived.
+
+[T.D. 7452, 41 FR 56794, Dec. 30, 1976]

@@ -1,0 +1,15 @@
+##### § 1.528-10 Special rules for computation of homeowners association taxable income and tax. #####
+
+(a) *In general.* Homeowners association taxable income shall be determined according to the provisions of section 528(d) and the rules set forth in this section.
+
+(b) *Limitation on capital losses.* If for any taxable year a homeowners association has a net capital loss, the rules of sections 1211(a) and 1212(a) shall apply.
+
+(c) *Allowable deductions*—(1) *In general.* To be deductible in computing the unrelated business taxable income of a homeowners association, expenses, depreciation and similar items must not only qualify as items of deduction allowed by chapter 1 of the Code but must also be directly connected with the production of gross income (excluding exempt function income). To be *directly connected with* the production of gross income (excluding exempt function income), an item of deduction must have both proximate and primary relationship to the production of such income and have been incurred in the production of such income. Items of deduction attributable solely to items of gross income (excluding exempt function income) are proximately and primarily related to such income. Whether an item of deduction is incurred in the production of gross income (excluding exempt function income) is determined on the basis of all the facts and circumstances involved in each case.
+
+(2) *Dual use of facilities or personnel.* Where facilities are used both for exempt functions of the organization and for the production of gross income (excluding exempt function income), expenses, depreciation and similar items attributable to such facilities (for example, items of overhead) shall be allocated between the two uses on a reasonable basis. Similarly where personnel are employed both for exempt functions and for the production of gross income (excluding exempt function income), expenses and similar items attributable to such personnel (for example, items of salary) shall be allocated between the two activities on a reasonable basis. The portion of any such item so allocated to the production of gross income (excluding exempt function income) is directly connected with such income and shall be allowable as a deduction in computing homeowners association taxable income to the extent that it qualifies as an item of deduction allowed by chapter 1 of the Code. Thus, for example, assume that X, a homeowners association, pays its manager a salary of $10,000 a year and that it derives gross income other than exempt function income. If 10 percent of the manager's time during the year is devoted to deriving X's gross income (other than exempt function income), a deduction of $1,000 (10 percent of $10,000) would generally be allowable for purposes of computing X's homeowners association taxable income.
+
+(d) *Investment credit.* A homeowners association is not entitled to an investment credit.
+
+(e) *Cross reference.* For the definition of exempt function income, see § 1.528-9.
+
+[T.D. 7692, 45 FR 26324, Apr. 18, 1980]

@@ -1,0 +1,3 @@
+##### § 1608.1 Purpose. #####
+
+This part is designed to insure that the Corporation's resources will be used to provide high quality legal assistance and not to support or promote political activities or interests. The part should be construed and applied so as to further this purpose without infringing upon the constitutional rights of employees or the professional responsibilities of attorneys to their clients.

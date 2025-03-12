@@ -1,0 +1,3 @@
+##### § 301.6315-1 Payments of estimated income tax. #####
+
+The payment of any installment of the estimated income tax (see sections 6015 and 6016) shall be considered payment on account of the income tax for the taxable year for which the estimate is made. The aggregate amount of the payments of estimated tax should be entered upon the income tax return for such taxable year as payments to be applied against the tax shown on such return.

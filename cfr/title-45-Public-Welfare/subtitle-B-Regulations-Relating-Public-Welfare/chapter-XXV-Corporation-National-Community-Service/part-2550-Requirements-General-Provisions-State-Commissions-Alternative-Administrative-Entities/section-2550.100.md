@@ -1,0 +1,5 @@
+##### § 2550.100 Do State entities or their members incur any risk of liability? #####
+
+(a) *State liability.* Except as provided in paragraph (b) of this section, a State must agree to assume liability with respect to any claim arising out of or resulting from any act or omission by a member of the State Commission or AAE, within the scope of the service of that member.
+
+(b) *Individual liability.* A member of the State Commission or AAE shall have no personal liability with respect to any claim arising out of or resulting from any act or omission by that member, within the scope of the service of that member. This does not, however, limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of that member. Similarly, this part does not limit or alter in any way any other immunities that are available under applicable law for State officials and employees not described in this section; nor does this part affect any other right or remedy against the State or any person other than a member of a State Commission or AAE.

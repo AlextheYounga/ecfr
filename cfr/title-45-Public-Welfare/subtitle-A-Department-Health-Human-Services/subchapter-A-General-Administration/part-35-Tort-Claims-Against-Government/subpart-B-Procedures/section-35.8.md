@@ -1,0 +1,3 @@
+##### § 35.8 Release. #####
+
+Acceptance by the claimant, his agent or legal representative, of any award, compromise or settlement made hereunder, shall be final and conclusive on the claimant, his agent or legal representative and any other person on whose behalf or for whose benefit the claim has been presented, and shall constitute a complete release of any claim against the United States and against any employee of the Government whose act or omission gave rise to the claim, by reason of the same subject matter.

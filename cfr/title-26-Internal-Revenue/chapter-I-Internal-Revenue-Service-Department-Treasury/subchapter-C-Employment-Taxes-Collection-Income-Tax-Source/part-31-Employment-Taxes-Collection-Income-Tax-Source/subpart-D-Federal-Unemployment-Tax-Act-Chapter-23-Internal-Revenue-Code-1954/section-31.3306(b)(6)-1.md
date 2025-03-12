@@ -1,0 +1,3 @@
+##### § 31.3306(b)(6)-1 Payment by an employer of employee tax under section 3101 or employee contributions under a State law. #####
+
+The term “wages” does not include any payment by an employer (without deduction from the remuneration of, or other reimbursement from, the employee) of either (a) the employee tax imposed by section 3101 or the corresponding section of prior law, or (b) any payment required from an employee under a State unemployment compensation law.

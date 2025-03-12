@@ -1,0 +1,15 @@
+##### § 1.514(d)-1 Basis of debt-financed property acquired in corporate liquidation. #####
+
+(a) If debt-financed property is acquired by an exempt organization in a complete or partial liquidation of a corporation in exchange for its stock, the organization's basis in such property shall be the same as it would be in the hands of the transferor corporation, increased by the amount of gain recognized to the transferor corporation upon such distribution and by the amount of any gain which is includible, on account of such distribution, in the gross income of the organization as unrelated debt-financed income.
+
+(b) The application of this section may be illustrated by the following example:
+
+Example.On July 1, 1970, T, an exempt trust, exchanges $15,000 of borrowed funds for 50 percent of the shares of M Corporation's stock. M uses $35,000 of borrowed funds in acquiring depreciable assets which are not used at any time for purposes described in section 514(b)(1) (A), (B), (C), or (D). On July 1, 1978, and for the 12-month period preceding this date, T's acquisition indebtedness with respect to M's stock has been $3,000. On this date, there is a complete liquidation of M Corporation to which section 331(a)(1) applies. In the liquidation T receives a distribution in kind of depreciable assets and assumes $7,000 of M's indebtedness which remains unpaid with respect to the depreciable assets. On this date, M's adjusted basis of these depreciable assets is $9,000, and such assets have a fair market value of $47,000. M recognizes gain of $6,000 with respect to this liquidation pursuant to sections 1245 and 1250. T realizes a gain of $25,000 (the difference between the excess of fair market value of the property received over the indebtedness assumed, $40,000 ($47,000-$7,000) and T's basis in M's stock, $15,000). A portion of this gain is to be treated as unrelated debt-financed income. This amount is determined by multiplying T's gain of $25,000 by the debt/basis percentage. The debt/basis percentage is 20 percent, the ratio which the average acquisition indebtedness ($3,000) is of the average adjusted basis ($15,000). Thus, $5,000 (20 percent of $25,000) is unrelated debt-financed income. This amount and the gain recognized pursuant to sections 1245 and 1250 are added to M's basis to determine T's basis in the property received. Consequently, T's basis in the property received from M Corporation is $20,000, determined as follows:
+
+|                        M Corporation's adjusted basis                         |$9,000|
+|-------------------------------------------------------------------------------|------|
+|             Gain recognized by M Corporation on the distribution              |6,000 |
+|Unrelated debt-financed income recognized by T with respect to the distribution|5,000 |
+|                             T's transferred basis                             |20,000|
+
+[T.D. 7229, 37 FR 28153, Dec. 21, 1972]

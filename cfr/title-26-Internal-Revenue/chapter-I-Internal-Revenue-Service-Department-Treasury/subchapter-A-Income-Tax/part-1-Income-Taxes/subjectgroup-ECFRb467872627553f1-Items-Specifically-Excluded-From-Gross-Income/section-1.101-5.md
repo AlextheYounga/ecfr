@@ -1,0 +1,3 @@
+##### § 1.101-5 Alimony, etc., payments. #####
+
+Proceeds of life insurance policies paid by reason of the death of the insured to his separated wife, or payment excludable as death benefits under section 101(b) paid to a deceased employee's separated wife, if paid to discharge legal obligations imposed by a decree of divorce or separate maintenance, by a written separation agreement executed after August 16, 1954, or by a decree of support entered after March 1, 1954, shall be included in the gross income of the separated wife if section 71 or 682 is applicable to the payments made. For definition of “wife”, see section 7701(a)(17) and the regulations thereunder.

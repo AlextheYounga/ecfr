@@ -1,0 +1,9 @@
+##### § 1.6049-10 Reporting of original issue discount on a tax-exempt obligation. #####
+
+(a) *In general.* For purposes of section 6049, a payor (as defined in § 1.6049-4(a)(2)) of original issue discount (OID) on a tax-exempt obligation (as defined in section 1288(b)(2)) is required to report the daily portions of OID on the obligation as if the daily portions of OID that accrued during a calendar year were paid to the holder (or holders) of the obligation in the calendar year. The amount of the daily portions of OID that accrues during a calendar year is determined as if section 1272 and § 1.1272-1 applied to a tax-exempt obligation. Notwithstanding any other rule in section 6049 and the regulations thereunder, a payor must determine whether a tax-exempt obligation was issued with OID and the amount of OID that accrues for each relevant period. As prescribed by section 1288(b)(1), OID on a tax-exempt obligation is determined without regard to the de minimis rules in section 1273(a)(3) and § 1.1273-1(d).
+
+(b) *Acquisition premium.* A payor is required to report acquisition premium amortization on a tax-exempt obligation in accordance with the rules in § 1.6049-9(c) as if section 1272 applied to a tax-exempt obligation. See paragraph (a) of this section to determine the amount of OID allocable to an accrual period.
+
+(c) *Effective/applicability date.* This section applies to a tax-exempt obligation that is a covered security (within the meaning of § 1.6045-1(a)(15) and (n)(12)) acquired on or after January 1, 2017. For a taxable year beginning after December 31, 2016, a broker, however, may rely on this section to report OID and acquisition premium for a tax-exempt obligation that is a covered security acquired before January 1, 2017.
+
+[T.D. 9750, 81 FR 8154, Feb. 18, 2016]

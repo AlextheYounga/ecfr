@@ -1,0 +1,1 @@
+##### § 15a.453-2 Installment obligations received as liquidating distribution. [Reserved] #####

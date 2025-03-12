@@ -1,0 +1,13 @@
+##### § 1.957-2 Controlled foreign corporation deriving income from insurance of United States risks. #####
+
+(a) *In general.* For purposes of taking into account only the income derived from the insurance of United States risks under § 1.953-1, the term “controlled foreign corporation” means any foreign corporation of which more than 25 percent, but not more than 50 percent, of the total combined voting power of all classes of stock entitled to vote is owned within the meaning of section 958(a), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day of the taxable year of such foreign corporation, but only if the gross amount of premiums received by such foreign corporation during such taxable year which are attributable to the reinsuring and the issuing of insurance and annuity contracts in connection with United States risks, as defined in § 1.953-2 or 1.953-3, exceeds 75 percent of the gross amount of all premiums received by such foreign corporation during such year which are attributable to the reinsuring and the issuing of insurance and annuity contracts in connection with all risks. The subpart F income for a taxable year of a foreign corporation which is a controlled foreign corporation for such taxable year within the meaning of this paragraph shall, subject to the provisions of section 952(b), (c), and (d), and § 1.952-1, include only the income derived from the insurance of United States risks, as determined under § 1.953-1.
+
+(b) *Gross amount of premiums defined.* For a foreign corporation which is engaged in the business of reinsuring or issuing insurance or annuity contracts and which, if it were a domestic corporation engaged only in such business, would be taxable as—
+
+(1) A life insurance company to which part I (sections 801 through 820) of subchapter L of the Code applies,
+
+(2) A mutual insurance company to which part II (sections 821 through 826) of subchapter L of the Code applies, or
+
+(3) A mutual marine insurance or other insurance company to which part III (sections 831 and 832) of subchapter L of the Code applies,
+
+the term “gross amount of premiums” means, for purposes of paragraph (a) of this section, the gross amount of premiums and other consideration which are taken into account by a life insurance company under section 809(c)(1). Determinations for purposes of this paragraph shall be made without regard to section 501(a).[T.D. 6795, 30 FR 942, Jan. 29, 1965]

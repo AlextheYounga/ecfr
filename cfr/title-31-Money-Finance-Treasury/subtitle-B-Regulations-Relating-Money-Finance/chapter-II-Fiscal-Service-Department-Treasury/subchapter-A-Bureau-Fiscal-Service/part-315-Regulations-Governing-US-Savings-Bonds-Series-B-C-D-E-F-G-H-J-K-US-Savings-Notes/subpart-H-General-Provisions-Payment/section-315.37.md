@@ -1,0 +1,3 @@
+##### § 315.37 Payment during lives of both coowners. #####
+
+A savings bond registered in coownership form will be paid to either coowner upon surrender with an appropriate request, and, upon payment (as determined in § 315.43), the other coowner will cease to have any interest in the bond. If both coowners request payment and payment is to be made by check, the check will be drawn in the form, “John A. Jones and Mary C. Jones”.

@@ -1,0 +1,118 @@
+##### § 31.3121(s)-1 Concurrent employment by related corporations with common paymaster. #####
+
+(a) *In general.* For purposes of sections 3102, 3111, and 3121(a)(1), except as otherwise provided in paragraph (c) of this section, when two or more related corporations concurrently employ the same individual and compensate that individual through a common paymaster which is one of the related corporations that employs the individual, each of the corporations is considered to have paid only the remuneration it actually disburses to that individual. This rule applies whether the remuneration was paid with respect to the employment relationship of the individual with the disbursing corporation or was paid on behalf of another related corporation. Accordingly, if all of the remuneration to the individual from the related corporations is disbursed through the common paymaster, the total amount of taxes imposed with respect to the remuneration under sections 3102 and 3111 is determined as though the individual has only one employer (the common paymaster). The common paymaster is responsible for filing information and tax returns and issuing Forms W-2 with respect to wages it is considered to have paid under this section. Section 3121(s) and this section apply only to remuneration disbursed in the form of money, check or similar instrument by one of the related corporations or its agent.
+
+(b) *Definitions.* The definitions contained in this paragraph are applicable only for purposes of this section and § 31.3306(p)-1.
+
+(1) *Related corporations.* Corporations shall be considered related corporations for an entire calendar quarter (as defined in § 31.0-2(a)(9)) if they satisfy any one of the following four tests at any time during that calendar quarter:
+
+(i) The corporations are members of a “controlled group of corporations”, as defined in section 1563 of the Code, or would be members if section 1563(a)(4) and (b) did not apply and if the phrase “more than 50 percent” were substituted for the phrase “at least 80 percent” wherever it appears in section 1563(a).
+
+(ii) In the case of a corporation that does not issue stock, either fifty percent or more of the members of one corporation's board of directors (or other governing body) are members of the other corporation's board of directors (or other governing body), or the holders of fifty percent or more of the voting power to select such members are concurrently the holders of more than fifty percent of that power with respect to the other corporation.
+
+(iii) Fifty percent or more of one corporation's officers are concurrently officers of the other corporation.
+
+(iv) Thirty percent or more of one corporation's employees are concurrently employees of the other corporation.
+
+The following examples illustrate the application of this paragraph:Example 1.(a) X Corporation employs individuals A, B, D, E, F, G, and H. Y Corporation employs individuals A, B, and C. Z Corporation employs individuals A, C, I, J, K, L, and M. X Corporation is the paymaster for all thirteen individuals. The corporations have no officers or stockholders in common.
+
+(b) X and Y are related corporations because at least 30 percent of Y's employees are also employees of X. Y and Z are related corporations because at least 30 percent of Y's employees are also employees of Z. X and Z are not related corporations because neither corporation has 30 percent of its employees concurrently employed by the other corporation.
+
+(c) For purposes of determining the amount of the tax liability under sections 3102 and 3111, individual B is treated as having one employer. Individual C has two employers for these purposes, although Y and Z are related corporations, because C is not employed by X Corporation, the common paymaster. Individual A also is treated as having two employers for the purposes of these sections because X and Y Corporations are treated as one employer, and Z Corporation is treated as a second employer (since it is not related to the paymaster, X Corporation). Of course, individuals D, E, F, G, H, I, J, K, L, and M are not concurrently employed by two or more corporations, and, accordingly, section 3121 (s) is inapplicable to them.
+
+Example 2.M and N Corporations are both related to Corporation O but are not related to each other. Individual A is concurrently employed by all three corporations and paid by O, their common paymaster. Although M and N are not related, O is treated as the employer for A's employment with M, N, and O.Example 3.Corporations X, Y, and Z meet the definition of related corporations for the first time on April 12, 1979, and cease to meet it on July 5, 1979. A is concurrently employed by X, Y, and Z throughout 1979. In each of the four calendar quarters of 1979, A's remuneration from X, Y, and Z is $2,000, $10,000, and $30,000, respectively. All of the remuneration to A from X, Y, and Z for the year is disbursed by X, the common paymaster. Under these circumstances, the amount of wages subject to sections 3102 and 3111 is as follows:
+
+For the first calendar quarter
+
+|  X   |   Y   |   Z   |
+|------|-------|-------|
+|$2,000|$10,000|$22,900|
+|      |       |       |
+
+For the second calendar quarter
+
+|       X        | Y | Z |
+|----------------|---|---|
+|    $20,900     | 0 | 0 |
+|($22,900−$2,000)|   |   |
+
+For the third calendar quarter
+
+| X | Y | Z |
+|---|---|---|
+| 0 | 0 | 0 |
+|   |   |   |
+
+For the fourth calendar quarter
+
+| X |   Y   | Z |
+|---|-------|---|
+| 0 |$10,000| 0 |
+|   |       |   |
+
+Of course, if the corporations had been related throughout all of 1979, only $22,900 of X's first quarter disbursement would have constituted wages subject to sections 3102 and 3111.
+
+(2) *Common paymaster*—(i) *In general.* A common paymaster of a group of related corporations is any member thereof that disburses remuneration to employees of two or more of those corporations on their behalf and that is responsible for keeping books and records for the payroll with respect to those employees. The common paymaster is not required to disburse remuneration to all the employees of those two or more related corporations, but the provisions of this section do not apply to any remuneration to an employee that is not disbursed through a common paymaster. The common paymaster may pay concurrently employed individuals under this section by one combined paycheck, drawn on a single bank account, or by separate paychecks, drawn by the common paymaster on the accounts of one or more employing corporations.
+
+(ii) *Multiple common paymasters.* A group of related corporations may have more than one common paymaster. Some of the related corporations may use one common paymaster and others of the related corporations use another common paymaster with respect to a certain class of employees. A corporation that uses a common paymaster to disburse remuneration to certain of its employees may use a different common paymaster to disburse remuneration to other employees.
+
+(iii) *Examples.* The rules of this subparagraph are illustrated by the following examples:
+
+Example 1.S, T, U, and V are related corporations with 2,000 employees collectively. Forty of these employees are concurrently employed by two or more of the corporations, during a calendar quarter. The four corporations arrange for S to disburse remuneration to thirty of these forty employees for their services. Under these facts, S is the common paymaster of S, T, U, and V with respect to the thirty employees. S is not a common paymaster with respect to the remaining employees.Example 2.(a) W, X, Y, and Z are related corporations. The corporations collectively have 20,000 employees. Two hundred of the employees are top-level executives and managers, sixty of whom are concurrently employed by two or more of the corporations during a calendar quarter. Six thousand of the employees are skilled artisans, all of whom are concurrently employed by two or more of the corporations during the calendar year. The four corporations arrange for Z to disburse remuneration to the sixty executives who are concurrently employed by two or more of the corporations. W and X arrange for X to disburse remuneration to the artisans who are concurrently employed by W and X.
+
+(b) A is an executive who is concurrently employed only by W, Y, and Z during the calendar year. Under these facts, Z is a common paymaster for W, Y, and Z with respect to A. Assuming that the other requirements of this section are met, the amount of the tax liability under sections 3102 and 3111 is determined as if Z were A's only employer for the calendar quarter.
+
+(c) B is a skilled artisan who is concurrently employed only by W and X during the calendar year. Under these facts, X is a common paymaster for S and X with respect to B. Assuming that the other requirements of this section are met, the amount of the tax liability under sections 3102 and 3111 is determined as if X were B's only employer for the calendar quarter.
+
+(3) *Concurrent employment.* For purposes of this section, the term “concurrent employment” means the contemporaneous existence of an employment relationship (within the meaning of section 3121(b)) between an individual and two or more corporations. Such a relationship contemplates the performance of services by the employee for the benefit of the employing corporation (not merely for the benefit of the group of corporations), in exchange for remuneration which, if deductible for the purposes of Federal income tax, would be deductible by the employing corporation. The contemporaneous existence of an employment relationship with each corporation is the decisive factor; if it exists, the fact that a particular employee is on leave or otherwise temporarily inactive is immaterial. However, employment is not concurrent with respect to one of the related corporations if the employee's employment relationship with that corporation is completely nonexistent during periods when the employee is not performing services for that corporation. An employment relationship is completely nonexistent if all rights and obligations of the employer and employee with respect to employment have terminated, other than those that customarily exist after employment relationships terminate. Examples of rights and obligations that customarily exist after employment relationships terminate include those with respect to remuneration not yet paid, employer's property used by the employee not yet returned to the employer, severance pay, and lump-sum termination payments from a deferred compensation plan. Circumstances that suggest that an employment relationship has become completely nonexistent include unconditional termination of participation in deferred compensation plans of the employer, forfeiture of seniority claims, and forfeiture of unused fringe benefits such as vacation or sick pay. Of course, the continued existence of an employment relationship between an individual and a corporation is not necessarily established by the individual's continued participation in a deferred compensation plan, retention of seniority rights, etc., since continuation of those benefits may be attributable to employment with a second corporation related to the first corporation if the corporations have common benefits plans or if the benefits are continued as a matter of corporate reciprocity. An individual who does not perform substantial services in exchange for remuneration from a corporation is presumed not employed by that corporation. Concurrent employment need not exist for any particular length of time to meet the requirements of this section, but this section only applies to remuneration disbursed by a common paymaster to an individual who is concurrently employed by the common paymaster and at least one other related corporation at the time the individual performs the services for which the remuneration is paid. If the employment relationship is nonexistent during a quarter, that employee may not be counted towards the 30-percent test set forth in paragraph (b)(1)(iv) of this section; however, even if the employment relationship is nonexistent, section 3121(s) of the Code would apply to remuneration paid to the former employee for services rendered while the employee was a common employee. The principles of this subparagraph are illustrated by the following examples.
+
+Example 1.M, N, and O are related corporations which use N as a common paymaster with respect to officers. Their respective headquarters are located in three separate cities several hundred miles apart. A is an officer of M, N, and O who performs substantial services for each corporation. A does not work a set length of time at each corporate headquarters, and when A leaves one corporate headquarters, it is not known when A will return, although it is expected that A will return. Under these facts, A is concurrently employed by the three corporations.Example 2.P, Q, and R are related corporations whose geographical zones of business activity do not overlap. P, Q, and R have a common pension plan and arrange for Q to be a common paymaster for managers and executives. All three corporations maintain cafeterias for the use of their employees. B is a cafeteria manager who has worked at P's headquarters for 3 years. On June 1, 1980, B is transferred from P to the position of cafeteria manager of R. There are no plans for B's return to P. B's accrued pension benefits, vacation and sick pay, do not change as a result of the transfer. The decision to transfer B was made by Q, the parent corporation. Under these facts, B is not concurrently employed by P and R, because B's employment relationship with P was completely nonexistent during B's employment with R. Furthermore, section 3121(s) is inapplicable since B also was not employed by Q, the common paymaster, because B never contracted to perform services for remuneration from Q, and Q did not have the right to control the day-to-day duties of B's work.Example 3.C is employed by two related corporations, S and T. C was concurrently employed by these corporations between April 1, 1979, and June 30, 1979. The corporations used T as the common paymaster with respect to C's wages between May 1, 1979, and September 30, 1979. T pays C on May 15 for services performed between April 1 and April 30, on July 15 for services performed between June 1 and June 30, and on August 15 for services performed between July 1 and July 31. Section 3121 (s) applies to the first two payments but does not apply to the third payment (there was no concurrent employment). However, if the third payment was made by T for services performed for T, T counts the amounts previously disbursed to C in 1979 while C was concurrently employed by S and T towards the wage base (see section 3121 (a)(1)).
+
+(c) *Allocation of employment taxes*—(1) *Responsibility to pay tax.* If the requirements of this section are met, the common paymaster has the primary responsibility for remitting taxes pursuant to sections 3102 and 3111 with respect to the remuneration it disburses as the common paymaster. The common paymaster computes these taxes as though it were the sole employer of the concurrently employed individuals. If the common paymaster fails to remit these taxes (in whole or in part), it remains liable for the full amount of the unpaid portion of these taxes. In addition, each of the other related corporations using the common paymaster is jointly and severally liable for its appropriate share of these taxes. That share is an amount equal to the lesser of:
+
+(i) The amount of the liability of the common paymaster under section 3121(s), after taking account of any tax payments made, or
+
+(ii) The amount of the liability under sections 3102 and 3111 which, but for section 3121(s), would have existed with respect to the remuneration from such other related corporation, reduced by an allocable portion of any taxes previously paid by the common paymaster with respect to that remuneration.
+
+The portion of taxes previously paid by the common paymaster that is allocable to each related corporation is determined by multiplying the amount of taxes paid by a fraction, the numerator of which is the portion of the amount of employment tax liability of the common paymaster under section 3121(s) that is allocable to such related corporation under paragraph (c)(2) of this section, and the denominator of which is the total amount of the common paymaster's liability under section 3121(s), both determined without regard to any prior tax payments. These rules apply whether or not the tax on employees was withheld from the employees' wages.
+
+(2) *Allocation of tax*—(i) *In general.* If the related corporations maintain a record of the remuneration disbursed to the employee for services performed for each corporation, the remuneration-based allocation rules of paragraph (c)(2)(ii) of this section apply. If the related corporations do not maintain this record of remuneration, the group-wide allocation rules of paragraph (c)(2)(iii) of this section apply. In all cases, allocations must be made with respect to each payment of wages. The allocation of employment tax liabilities pursuant to this subparagraph also determines which related corporation may be entitled to income tax deductions with respect to the payments of those taxes.
+
+(ii) *Remuneration-based allocation rules.* Under the remuneration-based method of allocation, each related corporation that remunerates an employee through a common paymaster has allocated to it for each pay period an amount of tax determined according to the following formula:
+
+| Portion of wage payment constituting re- |   |                                       |
+|------------------------------------------|---|---------------------------------------|
+|  muneration to the employee for services |   |Tax on employees under section 3102 and|
+|       performed for the corporation      |   |  tax on employers under section 3111  |
+|         ———————————————————————          | × | that the common paymaster is required |
+|  Total wage payment constituting remu-   |   | to remit with respect to the wage pay-|
+| neration to the employee for all services|   |                  ment                 |
+|  performed for the related corporations  |   |                                       |
+|        using the common paymaster        |   |                                       |
+
+If the remuneration disbursed to an employee for services performed for a corporation is inappropriate, the district director may adjust the remuneration records of the related corporations to reflect appropriate remuneration. The district director may use the principles of § 1.482-2(b) in making the adjustments.Example.(i) X and Y are related corporations which use Y as common paymaster for their executives. A is a concurrently employed executive who performs services during the first quarter of 1979 for X and Y. Y remunerates $4,000 gross pay every week to A, calculated as follows:
+
+|Wage payments|Remuneration|Tax on employers under section 3111|Tax on employees withheld under section 3102| Total  |        |        |
+|-------------|------------|-----------------------------------|--------------------------------------------|--------|--------|--------|
+|      X      |     Y      |               Total               |                                            |        |        |        |
+|      1      |   $3,000   |              $1,000               |                   $4,000                   |$245.20 |$245.20 |$490.40 |
+|     2-3     |            |               8,000               |                   8,000                    | 490.40 | 490.40 | 980.80 |
+|      4      |   1,000    |               3,000               |                   4,000                    | 245.20 | 245.20 | 490.40 |
+|      5      |   4,000    |                                   |                   4,000                    | 245.20 | 245.20 | 490.40 |
+|      6      |   2,000    |               2,000               |                   4,000                    | 177.77 | 177.77 | 355.54 |
+|    7-13     |   10,000   |              18,000               |                   28,000                   |   0    |   0    |   0    |
+|    Total    |   20,000   |              32,000               |                   52,000                   |1,403.77|1,403.77|2,807.54|
+
+The amounts of remuneration to A are determined by the district director to be appropriate. Under these facts, the tax is allocated to X and Y in the following amounts:![](/graphics/ec05oc91.016.gif)(ii) If Y remits none of the taxes to the Internal Revenue Service, X is liable for $2,452.00 (the entire amount due pursuant to sections 3102 and 3111 with respect to the remuneration to A from X) (12.26% × $20,000). Any amount remitted by X to the Internal Revenue Service under these circumstances is also credited against the liability of the common paymaster, Y. However, only the portion of the employment taxes allocated to X under (i) above may be deducted by X as employment taxes paid by it in respect of wages paid by it to its employees.
+
+(iii) If Y remits $1,000.00 of the total $2,807.54 due, Y as common paymaster remains liable for $1,807.54 ($2,807.54 minus $1,000). X's liability is the lesser of $1,807.54 (the liability of the common paymaster), or X's total liability, in the absence of section 3121 (s), on wages paid through the common paymaster ($2,452.00) minus a credit for an allocable part of the amount remitted by Y. The part is $412.66
+
+![](/graphics/ec05oc91.017.gif)
+
+(iii) *Group-wide allocation rules.* Under the group-wide method of allocation, the Commissioner may allocate the taxes imposed by sections 3102 and 3111 in an appropriate manner to a related corporation that remunerates an employee through a common paymaster if the common paymaster fails to remit the taxes to the Internal Revenue Service. Allocation in an appropriate manner varies according to the circumstances. It may be based on sales, property, corporate payroll, or any other basis that reflects the distribution of the services performed by the employee, or a combination of the foregoing bases. To the extent practicable, the Commissioner may use the principles of § 1.482-2(b) of this chapter in making the allocations with respect to wages paid after December 31, 1978, and on or before July 31, 2009. To the extent practicable, the Commissioner may use the principles of § 1.482-9 of this chapter in making the allocations with respect to wages paid after July 31, 2009.
+
+(d) *Effective/applicability date*—(1) *In general.* This section is applicable with respect to wages paid after December 31, 1978. The fourth sentence of paragraph (c)(2)(iii) of this section is applicable with respect to wages paid after December 31, 1978, and on or before July 31, 2009. The fifth sentence of paragraph (c)(2)(iii) of this section is applicable with respect to wages paid after July 31, 2009.
+
+(2) *Election to apply regulation to earlier taxable years.* A person may elect to apply the fifth sentence of paragraph (c)(2)(iii) of this section to earlier taxable years in accordance with the rules set forth in § 1.482-9(n)(2) of this chapter.
+
+[T.D. 7660, 44 FR 75139, Dec. 19, 1979; 45 FR 17986, Mar. 20, 1980, as amended by T.D. 9278, 71 FR 44519, Aug. 4, 2006; T.D. 9456, 74 FR 38876, Aug. 4, 2009]

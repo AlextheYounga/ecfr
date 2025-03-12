@@ -1,0 +1,3 @@
+##### § 92.209 Nondiscrimination on the basis of association. #####
+
+A covered entity shall not exclude from participation in, deny the benefits of, or otherwise discriminate against an individual or entity in its health programs or activities on the basis of the race, color, national origin, sex, age, or disability of an individual with whom the individual or entity is known or believed to have a relationship or association.

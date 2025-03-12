@@ -1,0 +1,13 @@
+##### § 1.673(b)-1 Income payable to charitable beneficiaries before amendment by Tax Reform Act of 1969). #####
+
+(a) Pursuant to section 673(b) a grantor is not treated as an owner of any portion of a trust under section 673, even though he has a reversionary interest which will take effect within 10 years, to the extent that, under the terms of the trust, the income of the portion is irrevocably payable for a period of at least 2 years (commencing with the date of the transfer) to a designated beneficiary of the type described in section 170(b)(1)(A).
+
+(b) Income must be irrevocably payable to a designated beneficiary for at least 2 years commencing with the date of the transfer before the benefit of section 673(b) will apply. Thus, section 673(b) will not apply if income of a trust is irrevocably payable to University A for 1 year and then to University B for the next year; or if income of a trust may be allocated among two or more charitable beneficiaries in the discretion of the trustee or any other person. On the other hand, section 673(b) will apply if half the income of a trust is irrevocably payable to University A and the other half is irrevocably payable to University B for two years.
+
+(c) Section 673(b) applies to the period of 2 years or longer during which income is paid to a designated beneficiary of the type described in section 170(b)(1)(A) (i), (ii), or (iii), even though the trust term is to extend beyond that period. However, the other provisions of section 673 apply to the part of the trust term, if any, that extends beyond that period. This paragraph may be illustrated by the following example:
+
+Example.G transfers property in trust with the ordinary income payable to University C (which qualifies under section 170(b)(1)(A)(ii)) for 3 years, and then to his son, B, for 5 years. At the expiration of the term the trust reverts to G. G is not taxed under section 673 of the trust income payable to University C for the first 3 years because of the application of section 673(b). However, he is taxed on income for the next 5 years because he has a reversionary interest which will take effect within 10 years commencing with the date of the transfer. On the other hand, if the income were payable to University C for 3 years and then to R for 7 years so that the trust corpus would not be returned to G within 10 years, G would not be taxable under section 673 on income payable to University C and to B during any part of the term.
+
+(d) This section does not apply to transfers in trust made after April 22, 1969.
+
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6605, 27 FR 8097, Aug. 15, 1962; T.D. 7357, 40 FR 23743, June 2, 1975]

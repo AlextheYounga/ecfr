@@ -1,0 +1,3 @@
+##### § 506.15 Geneva Convention of August 12, 1949. #####
+
+The Geneva Convention of August 12, 1949, as identified in section 6(f) of the War Claims Act of 1948, as amended, is the “Geneva Convention Relative to the Treatment of Prisoners of War of August 12, 1949” which is included under the “Geneva Convention of August 12, 1949, for the Protection of War Victims,” entered into by the United States and other governments, including the former government in North Vietnam which acceded to it on June 28, 1957.

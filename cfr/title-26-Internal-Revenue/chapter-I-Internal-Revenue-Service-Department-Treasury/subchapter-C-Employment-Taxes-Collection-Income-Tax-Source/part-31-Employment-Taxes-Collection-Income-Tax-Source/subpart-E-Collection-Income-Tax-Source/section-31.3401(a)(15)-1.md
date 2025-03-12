@@ -1,0 +1,7 @@
+##### § 31.3401(a)(15)-1 Moving expenses. #####
+
+(a) An amount paid to or on behalf of an employee after March 4, 1964, either as an advance or a reimbusement, specifically for moving expenses incurred or expected to be incurred is excepted from wages, and hence is not subject to withholding, if (and to the extent that) at the time of payment it is reasonable to believe that a corresponding deduction is or will be allowable to the employee under section 217. The reasonable belief contemplated by the statute may be based upon any evidence reasonably sufficient to induce such belief, even though such evidence may be insufficient upon closer examination by the district director or the courts finally to establish that a deduction is allowable under section 217. The reasonable belief shall be based upon the application of section 217 and the regulations thereunder in Part 1 of this chapter (Income Tax Regulations). When used in this section, the term “moving expenses” has the same meaning as when used in section 217. See § 1.6041-2(a) in Part 1 of this chapter (Income Tax Regulations), relating to return of information as to payments to employees, and § 31.6051-1(e), relating to the reporting of reimbursements of or payments of certain moving expenses.
+
+(b) Except as otherwise provided in paragraph (a) of this section, or in a numbered paragraph of section 3401(a), amounts paid to or on behalf of an employee for moving expenses constitute wages subject to withholding.
+
+[T.D. 7493, 42 FR 33730, July 1, 1977]

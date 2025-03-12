@@ -1,0 +1,5 @@
+##### § 1.851-4 Determination of status. #####
+
+With respect to the effect which certain discrepancies between the value of its various investments and the requirements of section 851(b)(4) and paragraph (c) of § 1.851-2, or the effect that the elimination of such discrepancies will have on the status of a company as a regulated investment company for purposes of part I, subchapter M, chapter 1 of the Code, see section 851(d). A company claiming to be a regulated investment company shall keep sufficient records as to investments so as to be able to show that it has complied with the provisions of section 851 during the taxable year. Such records shall be kept at all times available for inspection by any internal revenue officer or employee and shall be retained so long as the contents thereof may become material in the administration of any internal revenue law.
+
+[T.D. 6598, 27 FR 4090, Apr. 28, 1962]

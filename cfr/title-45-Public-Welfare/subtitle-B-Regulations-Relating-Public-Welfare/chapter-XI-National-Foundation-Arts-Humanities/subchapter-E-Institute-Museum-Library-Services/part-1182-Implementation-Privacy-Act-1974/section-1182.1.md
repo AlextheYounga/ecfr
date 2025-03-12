@@ -1,0 +1,3 @@
+##### § 1182.1 Purpose and scope of these regulations. #####
+
+The regulations in this part set forth the Institute's procedures under the Privacy Act, as required by 5 U.S.C. 552a(f), with respect to systems of records maintained by the Institute. These regulations establish procedures by which an individual may exercise the rights granted by the Privacy Act to determine whether an Institute system contains a record pertaining to him or her; to gain access to such records; and to request correction or amendment of such records. These regulations also set identification requirements, prescribe fees to be charged for copying records, and establish exemptions from certain requirements of the Act for certain Institute systems or components thereof:

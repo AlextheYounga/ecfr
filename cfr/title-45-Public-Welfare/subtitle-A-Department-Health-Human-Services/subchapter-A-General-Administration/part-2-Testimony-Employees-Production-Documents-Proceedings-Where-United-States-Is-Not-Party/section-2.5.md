@@ -1,0 +1,7 @@
+##### § 2.5 Subpoenas duces tecum. #####
+
+(a) Whenever a subpoena duces tecum has been served upon a DHHS employee or former employee commanding the production of any record, such person shall refer the subpoena to the Office of the General Counsel (including regional chief counsels) for a determination of the legal sufficiency of the subpoena, whether the subpoena was properly served, and whether the issuing court or other tribunal has jurisdiction over the Department.) If the General Counsel or his designee determines that the subpoena is legally sufficient, the subpoena was properly served, and the tribunal has jurisdiction, the terms of the subpoena shall be complied with unless affirmative action is taken by the Department to modify or quash the subpoena in accordance with Fed. R. Civ. P. 45 (c).
+
+(b) If a subpoena duces tecum served upon a DHHS employee or former employee commanding the production of any record is determined by the Office of the General Counsel to be legally insufficient, improperly served, or from a tribunal not having jurisdiction, such subpoena shall be deemed a request for records under the Freedom of Information Act and shall be handled pursuant to the rules governing public disclosure established in 45 CFR part 5.
+
+[68 FR 25840, May 14, 2003]

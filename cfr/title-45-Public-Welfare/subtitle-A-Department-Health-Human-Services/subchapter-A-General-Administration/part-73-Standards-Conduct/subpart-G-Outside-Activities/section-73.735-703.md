@@ -1,0 +1,3 @@
+##### § 73.735-703 Statutory prohibitions related to employment by a foreign government. #####
+
+Employees, including officers in the Public Health Service (PHS) Commissioned Corps and retired officers of the Regular Commissioned Corps of the PHS, may not, without the consent of Congress, be employed by a foreign government or agency of a foreign government (Art. I, Sec. 9, U.S. Const.). Congress has consented to such employment by Reserve Commissioned Officers of the PHS not on active duty and by Retired Regular Commissioned Officers (37 U.S.C. 801, note) if approved under regulations of the Department of State. 22 CFR part 3a.

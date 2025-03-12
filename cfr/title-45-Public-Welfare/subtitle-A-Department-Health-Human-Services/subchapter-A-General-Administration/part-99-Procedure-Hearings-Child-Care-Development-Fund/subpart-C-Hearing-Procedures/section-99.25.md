@@ -1,0 +1,7 @@
+##### § 99.25 Evidence. #####
+
+(a) Testimony. Testimony shall be given orally under oath or affirmation by witnesses at the hearing. Witnesses shall be available at the hearing for cross-examination by all parties.
+
+(b) Stipulations and exhibits. Two or more parties may agree to stipulations of fact. Such stipulations, or any exhibit proposed by any party, shall be exchanged at the prehearing conference or otherwise prior to the hearing if the presiding officer so requires.
+
+(c) Rules of evidence. Technical rules of evidence shall not apply to hearings conducted pursuant to this part, but rules or principles designed to assure production of the most credible evidence available and to subject testimony to test by cross-examination shall be applied where reasonably necessary by the presiding officer. A witness may be cross-examined on any matter material to the proceeding without regard to the scope of direct examination. The presiding officer may exclude irrelevant, immaterial, or unduly repetitious evidence. All documents and other evidence offered or taken for the record shall be open to examination by the parties, and opportunity shall be given to refute facts and arguments advanced on either side of the issues.

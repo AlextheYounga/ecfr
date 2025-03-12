@@ -1,0 +1,3 @@
+##### § 672.17 Burden of presentation; burden of persuasion. #####
+
+The complainant has the burden of going forward with and of proving that the violation occurred as set forth in the complaint and that the proposed civil penalty, revocation, suspension, or other sanction, is appropriate. Following the establishment of a prima facie case, respondent has the burden of presenting and of going forward with any defense to the allegations set forth in the complaint. The Presiding Officer shall decide all controverted matters upon a preponderance of the evidence.

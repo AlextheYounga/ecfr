@@ -1,0 +1,49 @@
+##### § 1029.320 Reports by loan or finance companies of suspicious transactions. #####
+
+(a) *General.* (1) Every loan or finance company shall file with FinCEN, to the extent and in the manner required by this section, a report of any suspicious transaction relevant to a possible violation of law or regulation. A loan or finance company may also file with FinCEN a report of any suspicious transaction that it believes is relevant to the possible violation of any law or regulation, but whose reporting is not required by this section.
+
+(2) A transaction requires reporting under this section if it is conducted or attempted by, at, or through a loan or finance company, it involves or aggregates funds or other assets of at least $5,000, and the loan or finance company knows, suspects, or has reason to suspect that the transaction (or a pattern of transactions of which the transaction is a part):
+
+(i) Involves funds derived from illegal activity or is intended or conducted in order to hide or disguise funds or assets derived from illegal activity (including, without limitation, the ownership, nature, source, location, or control of such funds or assets) as part of a plan to violate or evade any Federal law or regulation or to avoid any transaction reporting requirement under Federal law or regulation;
+
+(ii) Is designed, whether through structuring or other means, to evade any requirements of this part or any other regulations promulgated under the Bank Secrecy Act, Public Law 91-508, as amended, codified at 12 U.S.C. 1829b, 12 U.S.C. 1951-1959, and 31 U.S.C. 5311-5314, 5316-5332;
+
+(iii) Has no business or apparent lawful purpose or is not the sort in which the particular customer would normally be expected to engage, and the loan or finance company knows of no reasonable explanation for the transaction after examining the available facts, including the background and possible purpose of the transaction; or
+
+(iv) Involves use of the loan or finance company to facilitate criminal activity.
+
+(3) More than one loan or finance company may have an obligation to report the same transaction under this section, and other financial institutions may have separate obligations to report suspicious activity with respect to the same transaction pursuant to other provisions of this part. In those instances, no more than one report is required to be filed by the loan or finance company(s) and other financial institution(s) involved in the transaction, provided that the report filed contains all relevant facts, including the name of each financial institution involved in the transaction, the report complies with all instructions applicable to joint filings, and each institution maintains a copy of the report filed, along with any supporting documentation.
+
+(b) *Filing and notification procedures*—(1) *What to file.* A suspicious transaction shall be reported by completing a Suspicious Activity Report (“SAR”), and collecting and maintaining supporting documentation as required by paragraph (c) of this section.
+
+(2) *Where to file.* The SAR shall be filed with FinCEN in accordance with the instructions to the SAR.
+
+(3) *When to file.* A SAR shall be filed no later than 30 calendar days after the date of the initial detection by the reporting loan or finance company of facts that may constitute a basis for filing a SAR under this section. If no suspect is identified on the date of such initial detection, a loan or finance company may delay filing a SAR for an additional 30 calendar days to identify a suspect, but in no case shall reporting be delayed more than 60 calendar days after the date of such initial detection.
+
+(4) *Mandatory notification to law enforcement.* In situations involving violations that require immediate attention, such as suspected terrorist financing or ongoing money laundering schemes, a loan or finance company shall immediately notify by telephone an appropriate law enforcement authority in addition to filing timely a SAR.
+
+(5) *Voluntary notification to FinCEN.* Any loan or finance company wishing voluntarily to report suspicious transactions that may relate to terrorist activity may call the FinCEN's Financial Institutions Hotline at 1-866-556-3974 in addition to filing timely a SAR if required by this section.
+
+(c) *Retention of records.* A loan or finance company shall maintain a copy of any SAR filed by the loan or finance company or on its behalf (including joint reports), and the original (or business record equivalent) of any supporting documentation concerning any SAR that it files (or is filed on its behalf), for a period of five years from the date of filing the SAR. Supporting documentation shall be identified as such and maintained by the loan or finance company, and shall be deemed to have been filed with the SAR. The loan or finance company shall make all supporting documentation available to FinCEN, or any Federal, State, or local law enforcement agency, or any Federal regulatory authority that examines the loan or finance company for compliance with the Bank Secrecy Act, or any State regulatory authority administering a State law that requires the loan or finance company to comply with the Bank Secrecy Act or otherwise authorizes the State authority to ensure that the loan or finance company complies with the Bank Secrecy Act, upon request.
+
+(d) *Confidentiality of SARs.* A SAR, and any information that would reveal the existence of a SAR, are confidential and shall not be disclosed except as authorized in this paragraph (d). For purposes of this paragraph (d) only, a SAR shall include any suspicious activity report filed with FinCEN pursuant to any regulation in this part.
+
+(1) *Prohibition on disclosures by loan or finance companies*—(i) *General rule.* No loan or finance company, and no director, officer, employee, or agent of any loan or finance company, shall disclose a SAR or any information that would reveal the existence of a SAR. Any loan or finance company, and any director, officer, employee, or agent of any loan or finance company that is subpoenaed or otherwise requested to disclose a SAR or any information that would reveal the existence of a SAR, shall decline to produce the SAR or such information, citing this section and 31 U.S.C. 5318(g)(2)(A)(i), and shall notify FinCEN of any such request and the response thereto.
+
+(ii) *Rules of construction.* Provided that no person involved in any reported suspicious transaction is notified that the transaction has been reported, paragraph (d)(1) of this section shall not be construed as prohibiting:
+
+(A) The disclosure by a loan or finance company, or any director, officer, employee, or agent of a loan or finance company of:
+
+(*1*) A SAR, or any information that would reveal the existence of a SAR, to FinCEN or any Federal, State, or local law enforcement agency, any Federal regulatory authority that examines the loan or finance company for compliance with the Bank Secrecy Act, or any State regulatory authority administering a State law that requires the loan or finance company to comply with the Bank Secrecy Act or otherwise authorizes the State authority to ensure that the loan or finance company complies with the Bank Secrecy Act; or
+
+(*2*) The underlying facts, transactions, and documents upon which a SAR is based, including, but not limited to, disclosures to another financial institution, or any director, officer, employee, or agent of a financial institution, for the preparation of a joint SAR.
+
+(B) The sharing by a loan or finance company, or any director, officer, employee, or agent of the loan or finance company, of a SAR, or any information that would reveal the existence of a SAR, within the loan or finance company's corporate organizational structure for purposes consistent with Title II of the Bank Secrecy Act as determined by regulation or in guidance.
+
+(2) *Prohibition on disclosures by government authorities.* A Federal, state, local, territorial, or tribal government authority, or any director, officer, employee, or agent of any of the foregoing, shall not disclose a SAR, or any information that would reveal the existence of a SAR, except as necessary to fulfill official duties consistent with Title II of the Bank Secrecy Act. For purposes of this section, official duties shall not include the disclosure of a SAR, or any information that would reveal the existence of a SAR, in response to a request for disclosure of non-public information or a request for use in a private legal proceeding, including a request pursuant to 31 CFR 1.11.
+
+(e) *Limitation on liability.* A loan or finance company, and any director, officer, employee, or agent of any loan or finance company, that makes a voluntary disclosure of any possible violation of law or regulation to a government agency or makes a disclosure pursuant to this section or any other authority, including a disclosure made jointly with another institution, shall be protected from liability for any such disclosure, or for failure to provide notice of such disclosure to any person identified in the disclosure, or both, to the full extent provided by 31 U.S.C. 5318(g)(3).
+
+(f) *Compliance.* Loan or finance companies shall be examined by FinCEN or its delegates under the terms of the Bank Secrecy Act, for compliance with this section. Failure to satisfy the requirements of this section may be a violation of the Bank Secrecy Act and of this part.
+
+(g) *Compliance date.* This section applies to transactions initiated after an anti-money laundering program required by section 1029.210 of this part is required to be implemented.

@@ -1,0 +1,25 @@
+##### § 48.6427-2 Credits or payments to purchaser of diesel or special motor fuels used in intercity, local, or school buses. #####
+
+(a) *In general.* (1) If tax has been paid under section 4041(a)(1) on the sale of diesel fuel for use as a fuel in a diesel-powered highway vehicle or under section 4041(a)(2) on the sale of special motor fuel for use as a fuel in a motor vehicle or a motorboat and the fuel is used by the purchaser in an intercity or local bus while engaged in furnishing (for compensation) passenger land transportation available to the general public or in a school bus in the transportation of students and employees of schools, a credit (under the circumstances described in paragraph (b) of this section) or a payment (under the circumstances described in paragraph (c) of this section) in respect of the fuel so used shall be allowed or made to the purchaser of the fuel. The credit or payment under this section shall be an amount equal to the product of the number of gallons of fuel so used multiplied by the rate at which tax was imposed on the fuel by section 4041(a)(1) or section 4041(a)(2), reduced as limited by section 6427(b)(2). No interest shall be paid on any payment allowed under paragraph (c) of this section. However, interest may be paid on any overpayment (as defined by section 6401) arising from a credit. See section 34(a), relating to credit for certain uses of gasoline and special fuels, (and lubricating oil prior to January 7, 1983). See section 6611, relating to interest on overpayments. See § 48.6427-3 for the time within which a claim for credit or payment must be made under this section.
+
+(2) The terms “diesel fuel” and “special motor fuel” have the same meaning as in section 4041 and the regulations thereunder. The term “fuel” means diesel fuel and special motor fuel. See § 48.6421-4 for the meaning of “calendar quarter” and “taxable year.”
+
+(b) *Allowance of income tax credit.* Except as provided in paragraph (c) of this section, repayment under this section of the tax paid under section 4041(a)(1) or section 4041(a)(2) on diesel or special motor fuel used while engaged in furnishing (for compensation) passenger land transportation available to the general public or in school bus transportation operations by a person subject to income tax may be obtained only by claiming a credit for the amount of this tax against the tax imposed by subtitle A of the Code. The amount of the credit shall be an amount equal to the payment which would be made under section 6427 with respect to fuel used during the taxable year for passenger land transportation or school bus operations if section 6427(i) and paragraph (c) of this section did not apply. See section 34(a)(3).
+
+(c) *Allowance of payment.* Payments in respect of diesel or special motor fuel upon which tax was paid under section 4041(a)(1) or section 4041(a)(2) that is used while engaged in furnishing (for compensation) passenger land transportation available to the general public or in school bus transportation operations shall be made only to—
+
+(1) The United States or any agency or instrumentality thereof, a State, a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions of a State, or the District of Columbia,
+
+(2) An organization which is exempt from tax under section 501(a) and is not required to make a return of the income tax imposed under subtitle A for its taxable year, or
+
+(3) A person described in section 6427(g)(2) to whom $1,000 or more is payable (without regard to paragraph (b) of this section) under this section with respect to fuel used during any of the first three quarters of the person's taxable year.
+
+(d) *Supporting evidence required.* Each claim under this section for credit or payment must include a statement showing—
+
+(1) The total number of gallons of fuel purchased and used in each intercity or local bus while engaged in furnishing (for compensation) passenger land transportation available to the general public multiplied by the rate at which tax was imposed on the fuel by section 4041(a)(1) or section 4041(a)(2). See, however, section 6427(b)(2) with respect to the limitation on the amount of credit for buses other than qualified local buses.
+
+(2) The total number of gallons of fuel purchased and used in each bus while engaged in school bus transportation operations multiplied by the rate at which tax was imposed on the fuel by subsection (a)(1) or (a)(2) of section 4041. See, however, section 6427(b)(2) with respect to the limitation on the amount of credit for buses other than qualified local buses.
+
+(3) If a claim on Form 843 is being filed, the internal revenue district or service center with which the purchaser last filed an income tax return (if any).
+
+[T.D. 8043, 50 FR 32047, Aug. 8, 1985]

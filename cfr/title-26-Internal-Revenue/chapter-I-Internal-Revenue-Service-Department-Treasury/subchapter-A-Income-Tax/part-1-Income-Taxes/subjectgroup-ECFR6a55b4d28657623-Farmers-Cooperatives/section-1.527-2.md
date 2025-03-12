@@ -1,0 +1,53 @@
+##### § 1.527-2 Definitions. #####
+
+For purposes of section 527 and these regulations:
+
+(a) *Political organization*—(1) *In general.* A *political organization* is a party, committee, association, fund, or other organization (whether or not incorporated) organized and operated primarily for the purpose of directly or indirectly accepting contributions or making expenditures for an exempt function activity (as defined in paragraph (c) of this section). Accordingly, a political organization may include a committee or other group which accepts contributions or makes expenditures for the purpose of promoting the nomination of an individual for an elective public office in a primary election, or in a meeting or caucus of a political party. A segregated fund (as defined in paragraph (b) of this section) established and maintained by an individual may qualify as a political organization.
+
+(2) *Organizational test.* A political organization meets the organizational test if its articles of organization provide that the primary purpose of the organization is to carry on one or more exempt functions. A political organization is not required to be formally chartered or established as a corporation, trust, or association. If an organization has no formal articles of organization, consideration is given to statements of the members of the organization at the time the organization is formed that they intend to operate the organization primarily to carry on one or more exempt functions.
+
+(3) *Operational test.* A political organization does not have to engage exclusively in activities that are an exempt function. For example, a political organization may:
+
+(i) Sponsor nonpartisan educational workshops which are not intended to influence or attempt to influence the selection, nomination, election, or appointment of any individual for public office,
+
+(ii) Pay an incumbent's office expenses, or
+
+(iii) Carry on social activities which are unrelated to its exempt function,
+
+provided these are not the organization's primary activities. However, expenditures for purposes described in the preceding sentence are not for an exempt function. See § 1.527-2 (c) and (d). Furthermore, it is not necessary that a political organization operate in accordance with normal corporate formalities as ordinarily established in bylaws or under state law.
+
+(b) *Segregated fund*—(1) *General rule.* A *segregated fund* is a fund which is established and maintained by a political organization or an individual separate from the assets of the organization or the personal assets of the individual. The purpose of such a fund must be to receive and segregate exempt function income (and earnings on such income) for use only for an exempt function or for an activity necessary to fulfill an exempt function. Accordingly, the amounts in the fund must be dedicated for use only for an exempt function. Thus, expenditures for the establishment or administration of a political organization or the solicitation of political contributions may be made from the segregated fund, if necessary to fulfill an exempt function. The fund must be clearly identified and established for the pruposes intended. A savings or checking account into which only contributions to the political organization are placed and from which only expenditures for exempt functions are made may be a segregated fund. If an organization that had designated a fund to be a segregated fund for purposes of segregating amounts referred to in section 527(c)(3) (A) through (D), expends more than an insubstantial amount from the segregated fund for activities that are not for an exempt function during a taxable year, the fund will not be treated as a segregated fund for such year. In such a case amounts referred to in section 527(c)(3)(A)-(D),segregated in such fund will not be exempt function income. Further, if more than insubstantial amounts segregated for an exempt function in prior years are expended for other than an exempt function the facts and circumstances may indicate that the fund was never a segregated fund as defined in this paragraph.
+
+(2) *Record keeping.* The organization or individual maintaining a segregated fund must keep records that are adequate to verify receipts and disbursements of the fund and identify the exempt function activity for which each expenditure is made.
+
+(c) *Exempt function*—(1) *Directly related expenses.* An *exempt function,* as defined in section 527(e)(2), includes all activities that are directly related to and support the process of influencing or attempting to influence the selection, nomination, election, or appointment of any individual to public office or office in a political organization (the selection process). Whether an expenditure is for an exempt function depends upon all the facts and circumstances. Generally, where an organization supports an individual's campaign for public office, the organization's activities and expenditures in futherance of the individual's election or appointment to that office are for an exempt function of the organization. The individual does not have to be an announced candidate for the office. Furthermore, the fact that an individual never becomes a candidate is not crucial in determining whether an organization is engaging in an exempt function. An activity engaged in between elections which is directly related to, and supports, the process of selection, nomination, or election of an individual in the next applicable political campaign is an exempt function activity.
+
+(2) *Indirect expenses.* Expenditures that are not directly related to influencing or attempting to influence the selection process may also be an expenditure for an exempt function by a political organization. These are expenses which are necessary to support the directly related activities of the political organization. Activities which support the directly related activities are those which must be engaged in to allow the political organization to carry out the activity of influencing or attempting to influence the selection process. For example, expenses for overhead and record keeping are necessary to allow the political organization to be established and to engage in political activities. Similarly, expenses incurred in soliciting contributions to the political organization are necessary to support the activities of the political organization.
+
+(3) *Terminating activities.* An exempt function includes an activity which is in furtherance of the process of terminating a political organization's existence. For example, where a political organization is established for a single campaign, payment of campaign debts after the conclusion of the campaign is an exempt function activity.
+
+(4) *Illegal expenditures.* Expenditures which are illegal or are for a judicially determined illegal activity are not considered expenditures in furtherance of an exempt function, even though such expenditures are made in connection with the selection process.
+
+(5) *Examples.* The following examples illustrate the principles of paragraph (c) of this section. The term *exempt function* when used in the following examples means exempt function within the meaning of section 527(e)(2).
+
+(i) *Example 1.* A wants to run for election to public office in State X. A is not a candidate. A travels throughout X in order to rally support for A's intended candidacy. While in X, A attends a convention of an organization for the purpose of attempting to solicit its support. The amount expended for travel, lodging, food, and similar expenses are for an exempt function.
+
+(ii) *Example 2.* B, a member of the United States House of Representatives, is a candidate for reelection. B travels with B's spouse to the district B represents. B feels it is important for B's reelection that B's spouse accompany B. While in the district, B makes speeches and appearances for the purpose of persuading voters to reelect B. The travel expenses of B and B's spouse are for an exempt function.
+
+(iii) *Example 3.* C is a candidate for public office. In connection with C's campaign, C takes voice and speech lessons to improve C's skills. The expenses for these lessons are for an exempt function.
+
+(iv) *Example 4.* D, an officeholder and candidate for reelection, purchases tickets to a testimonial dinner. D's attendance at the dinner is intended to aid D's reelection. Such expenditures are for an exempt function.
+
+(v) *Example 5.* E, an officeholder, expends amounts for periodicals of general circulation in order to keep informed on national and local issues. Such expenditures are not for an exempt function.
+
+(vi) *Example 6.* N is an organization described in section 501(c) and is exempt from taxation under section 501(a). F is employed as president of N. F, as a representative of N, testifies in response to a written request from a Congressional committee in support of the confirmation of an individual to a cabinet position. The expenditures by N that are directly related to F's testimony are not for an exempt function.
+
+(vii) *Example 7.* P is a political organization described in section 527(e)(2). Between elections P does not support any particular individual for public office. However, P does train staff members for the next election, drafts party rules, implements party reform proposals, and sponsors a party convention. The expenditures for these activities are for an exempt function.
+
+(viii) *Example 8.* Q is a political organization described in section 527(e)(2). Q finances seminars and conferences which are intended to influence persons who attend to support individuals to public office whose political philosophy is in harmony with the political philosophy of Q. The expenditures for these activities are for an exempt function.
+
+(d) *Public office.* The facts and circumstances of each case will determine whether a particular Federal, State, or local office is a *public office.* Principles consistent with those found under § 53.4946-1(g)(2) (relating to the definition of public office) will be applied.
+
+(e) *Principal campaign committee.* A *principal campaign committee* is the political committee designated by a candidate for Congress as his or her principal campaign committee for purposes of section 302(e) of the Federal Election Campaign Act of 1971 (2 U.S.C. section 432(e)), as amended, and section 527(h) and § 1.527-9.
+
+[T.D. 7744, 45 FR 85731, Dec. 30, 1980, as amended by T.D. 8041, 50 FR 30817, July 30, 1985]

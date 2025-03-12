@@ -1,0 +1,5 @@
+##### § 1.854-3 Definitions. #####
+
+(a) For the purpose of computing the limitation prescribed by section 854(b)(1)(B) and paragraph (c) of § 1.854-1, the term “gross income” does not include gain from the sale or other disposition of stock or securities. However, capital gains arising from the sale or other disposition of capital assets, other than stock or securities, shall not be excluded from gross income for this purpose.
+
+(b) The term “aggregate dividends received” includes only dividends received from domestic corporations other than dividends described in section 116(b) (relating to dividends not eligible for exclusion from gross income). Accordingly, dividends received from foreign corporations will not be included in the computation of “aggregate dividends received”. In determining the amount of any dividend for purposes of this section, the rules provided in section 116(c) (relating to certain distributions) shall apply.

@@ -1,0 +1,3 @@
+##### § 5.4 Regulatory scope. #####
+
+The requirements in this part apply to all OpDivs and StaffDivs of HHS. Some OpDivs and StaffDivs may establish or continue to maintain additional rules because of unique program requirements, but such rules must be consistent with this part and the FOIA. If additional rules are issued, they must be published in the Federal Register and you may get copies online at *https://www.federalregister.gov/, http://www.regulations.gov/* or by contacting one of our FOIA Requester Service Centers.

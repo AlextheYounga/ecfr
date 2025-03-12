@@ -1,0 +1,7 @@
+##### § 598.203 Prohibited transactions involving blocked property. #####
+
+(a) Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date, any transaction or dealing by a United States person, or within the United States, in property or interests in property of a specially designated narcotics trafficker is prohibited.
+
+(b) Unless otherwise authorized by this part or by a specific license expressly referring to this section, any dealing in any security (or evidence thereof) held within the possession or control of a U.S. person and either registered or inscribed in the name of or known to be held for the benefit of any specially designated narcotics trafficker is prohibited. This prohibition includes but is not limited to the transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of any such security or the endorsement or guaranty of signatures on any such security.
+
+(c) When a transaction results in the blocking of funds at a financial institution pursuant to this section and a party to the transaction believes the funds have been blocked due to mistaken identity, that party may seek to have such funds unblocked pursuant to the administrative procedures set forth in § 501.806 of this chapter.

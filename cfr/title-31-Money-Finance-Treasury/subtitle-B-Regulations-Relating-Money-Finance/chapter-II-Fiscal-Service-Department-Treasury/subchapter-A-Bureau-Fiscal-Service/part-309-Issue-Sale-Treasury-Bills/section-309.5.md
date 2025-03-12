@@ -1,0 +1,13 @@
+##### § 309.5 Acceptance of Treasury bills for various purposes. #####
+
+(a) *Acceptable as security for public deposits.* Treasury bills will be acceptable at maturity value to secure deposits of public monies.
+
+(b) *Acceptable in payment of taxes.* The Secretary of the Treasury, in his discretion, when inviting tenders for Treasury bills, may provide that Treasury bills of any series will be acceptable at maturity value, whether at or before maturity, under such rules and regulations as he shall prescribe or approve, in payment of income taxes payable under the provisions of the Internal Revenue Code. Treasury bills which by the terms of their issue are acceptable in payment of income taxes may be surrendered to any Federal Reserve Bank or Branch, acting as fiscal agent of the United States, or to the Bureau of the Fiscal Service, Washington, DC 20226, 15 days or less before the date on which the taxes become due.
+
+(1) In the case of payments of corporation income taxes (including payments of estimates) for taxable years ending on or after December 31, 1967, the bills shall be accompanied by a preinscribed Form 503, Federal Tax Deposit, Corporation Income Taxes, on which the face amount of the bills being surrendered should be entered in the space provided for the amount of the tax deposit. The office receiving the bills and Form 503 will acknowledge receipt of the bills to the owner corporation and effect the tax deposit on the date on which the taxes become due. Accordingly, in these cases, it will no longer be necessary to submit receipts for Treasury bills to the Internal Revenue Service with the corporation's declaration or tax return.
+
+(2) In the case of payments of all other income taxes the office receiving the bills will issue receipts (in duplicate) to the owners. The original of the receipt shall be submitted, by the owner, in lieu of the bills, together with the tax return, to the District Director, Internal Revenue Service.
+
+(c) *Discounting by Federal Reserve Bank of notes secured by Treasury bills.* Notes securied by Treasury bills are eligible for discount or rediscount at Federal Reserve Banks as provided under the provisions of section 13 of the Federal Reserve Act, as are notes securied by bonds and notes of the United States.
+
+(d) *Acceptable in connection with foreign obligations held by United States.* Treasury bills will be acceptable at maturity, but not before, in payment of interest or of principal on account of obligations of foreign governments held by the United States.

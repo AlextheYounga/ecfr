@@ -1,0 +1,5 @@
+##### § 1.1361-6 Effective date. #####
+
+Except as provided in §§ 1.1361-4(a)(3)(iii), 1.1361-4(a)(5)(i), 1.1361-4(a)(6)(iii), 1.1361-4(a)(7)(ii), 1.1361-4(a)(8)(ii), 1.1361-4(a)(9), and 1.1361-5(c)(2), the provisions of §§ 1.1361-2 through 1.1361-5 apply to taxable years beginning on or after January 20, 2000; however, taxpayers may elect to apply the regulations in whole, but not in part (aside from those sections with special dates of applicability), for taxable years beginning on or after January 1, 2000, provided all affected taxpayers apply the regulations in a consistent manner. To make this election, the corporation and all affected taxpayers must file a return or an amended return that is consistent with these rules for the taxable year for which the election is made. For purposes of this section, affected taxpayers means all taxpayers whose returns are affected by the election to apply the regulations.
+
+[T.D. 8869, 65 FR 3854, Jan. 25, 2000, as amended by T.D. 9356, 72 FR 45893, Aug. 16, 2007; T.D. 9422, 73 FR 47530, Aug. 14, 2008]

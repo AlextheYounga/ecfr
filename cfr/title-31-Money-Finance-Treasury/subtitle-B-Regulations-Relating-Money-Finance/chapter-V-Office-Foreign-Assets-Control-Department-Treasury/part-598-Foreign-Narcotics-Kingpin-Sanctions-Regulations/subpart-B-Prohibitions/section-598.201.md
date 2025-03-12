@@ -1,0 +1,3 @@
+##### § 598.201 Applicability of sanctions. #####
+
+A specially designated narcotics trafficker is subject to any and all sanctions authorized by the Foreign Narcotics Kingpin Designation Act and implemented in this part. The application of sanctions on any specially designated narcotics trafficker will remain in effect until revoked by the President pursuant to section 804(h)(2) of the Foreign Narcotics Kingpin Designation Act, waived by the President pursuant to section 804(g)(1) of that Act, or revoked by the Secretary of the Treasury pursuant to section 805(e)(1)(A) of that Act.

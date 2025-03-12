@@ -1,0 +1,3 @@
+##### § 351.49 How are definitive Series EE savings bonds delivered? #####
+
+We deliver definitive bonds by mail to your address. If your address is within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, we will deliver bonds at our risk. Bonds delivered elsewhere will be delivered at your risk; however, at our discretion, we may require delivery to an address within the United States, or refuse delivery to addresses in countries referred to in part 211 of this chapter.

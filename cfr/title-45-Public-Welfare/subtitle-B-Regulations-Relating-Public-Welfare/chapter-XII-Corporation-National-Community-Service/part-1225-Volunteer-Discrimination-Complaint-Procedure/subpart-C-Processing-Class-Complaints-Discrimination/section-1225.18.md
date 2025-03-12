@@ -1,0 +1,3 @@
+##### § 1225.18 Notification of class members of decision. #####
+
+Class members shall be notified by the agency of the final agency decision and corrective action, if any, using at the minimum, the same media employed to give notice of the existence of the class complaint. The notice, where appropriate, shall include information concerning the rights of class members to seek individual relief and of the procedures to be followed. Notice shall be given by the agency within ten (10) calendar days of the transmittal of its decision to the agent.

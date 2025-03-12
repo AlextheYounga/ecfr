@@ -1,0 +1,41 @@
+##### § 31.3507-2 Earned income credit advance payment certificates. #####
+
+(a) *Definition.* For the purposes of this section and § 31.3507-1, an earned income credit advance payment certificate is a statement furnished by an employee to the employer which—
+
+(1) Certifies that the employee reasonably expects to be eligible to receive the earned income credit provided by section 43 for the employee's last taxable year under subtitle A of the Internal Revenue Code of 1954 which begins in the calendar year in which the wages are paid:
+
+(2) Certifies that the employee does not have an earned income credit advance payment certificate in effect for the calendar year (in which the wages are paid) with respect to the payment of wages by another employer, and
+
+(3) States if the employee's spouse has an earned income credit advance payment certificate in effect with any employer. For the rule for determining if an employee's spouse has a certificate in effect, see paragraph (c)(3) of this section.
+
+(b) *Form and content of earned income credit advance payment certificate*—(1) *In general.* Form W-5 (Earned Income Credit Advance Payment Certificate) is the prescribed form for the earned income credit advance payment certificate. The Form W-5 must be prepared in accordance with the instructions applicable thereto and must set forth fully and clearly the data therein called for. In lieu of the prescribed form, a form the provisions of which are identical with those of the prescribed form may be used.
+
+(2) *Invalid certificates.* A Form W-5 does not meet the requirements of section 3507 or this section and is invalid if it is not completed or signed or contains an alteration or unauthorized addition (as defined in § 31.3402(f)(5)-1(b) (1) and (2)). Any earned income credit advance payment certificate which the employee clearly indicates to be false by oral statement or written statement to the employer must be treated by the employer as a certificate which is invalid as of the date of the employee's statement. For purposes of the preceding sentence, the term “employer” includes any individual authorized by the employer to receive earned income credit advance payment certificates or to make payroll distributions. If an employer receives from an employee an invalid certificate, the employer must consider it a nullity with respect to all payments of wages thereafter to the employee and must inform the employee of the certificate's invalidity. The employer is not required to ascertain whether any completed and signed earned income credit advance payment certificate is correct. However, the employer should inform the district director if the employer has reason to believe that the certificate contains any incorrect statement.
+
+(c) *When earned income credit advance payment certificate takes effect*—(1) *No previous certificate.* An earned income credit advance payment certificate furnished the employer where no previous certificate is or has been in effect with the employer for that employee for the calendar year takes effect with—
+
+(i) The date of the beginning of the first payroll period ending on or after the date on which the certificate is received by the employer;
+
+(ii) The date of the first payment of wages made without regard to a payroll period on or after the date on which the certificate is received by the employer; or
+
+(iii) The first day of the calendar year for which the certificate is furnished, if that day is later than the otherwise applicable effective date specified in paragraph (c)(1)(i) or (ii) of this section.
+
+(2) *Previous certificate.* Except as otherwise provided in this paragraph (c)(2), an earned income credit advance payment certificate furnished the employer where a previous certificate is or has been in effect with the employer for that employee for the calendar year takes effect on the date of the first payment of wages made on or after the first status determination date (as defined in paragraph (c)(4) of this section) occurring at least thirty days after the date on which the certificate is received by the employer. However, if the employer so chooses, the employer may treat the certificate as effective on the date of any payment of wages made on or after the date on which the certificate is received by the employer (without regard to any status determination date).
+
+(3) *Certificate of spouse.* For the sole purpose of applying paragraph (a)(3) of this section, in determining if a certificate is in effect with respect to an employee's spouse, the spouse's certificate is treated as then in effect if the spouse's certificate will be or is reasonably expected to be in effect on the first status determination date following the date on which the employer receives the employee's certificate.
+
+(4) *Status determination date.* For the purposes of this section, the term “status determination date” means January 1, May 1, July 1, and October 1 of each year.
+
+(d) *Period during which certificate remains in effect; change of status*—(1) *Period certificate remains in effect.* An earned income credit advance payment certificate which takes effect during a calendar year continues in effect with respect to the employee only during that calendar year and until revoked by the employee or until another certificate takes effect. See paragraphs (d)(2) and (c)(2) of this section.
+
+(2) *Change of status*—(i) *Revocation of certificate.* If, after an employee has furnished an earned income credit advance payment certificate—
+
+(A) The employee no longer wishes to receive advance earned income credit payments; or
+
+(B) There has been a change of circumstances which has the effect of either making the employee ineligible for the earned income credit for the taxable year or causing a certificate to be in effect for the employee's spouse, then the employee must revoke the certificate previously furnished by furnishing the employer a new certificate (Form W-5 or identical form) in revocation of the earlier certificate. Depending upon the nature of the change of circumstances, the employer may be required, pursuant to the new certificate, to pay further advance earned income credit amounts to the employee (but in different amounts than previously paid to the employee). The Form W-5 (or identical form) must be prepared in accordance with the instructions applicable thereto and must set forth fully and clearly the data therein called for. In the case of revocation due to change of circumstances, the new certificate in revocation must be delivered to the employer within ten days after the employee first learns of the change of circumstances. The new certificate is effective under the rules provided in paragraph (c)(2) of this section for later certificates. A new certificate furnished by an employee which is invalid within the meaning of paragraph (b)(2) of this section is considered a nullity with respect to all payments of wages thereafter to the employee. The prior certificate of the employee remains in effect, unless the employee clearly indicates by an oral or written statement to the employer that the prior certificate is invalid. See paragraph (b)(2) of this section.
+
+The employer is not required to ascertain whether any employee has experienced a change of circumstances described in subdivision (i)(B) of this paragraph which necessitates the employee's furnishing a new certificate. However, the employer should inform the district director if the employer has reason to believe than an employee has experienced a change of circumstances as described if the employee does not deliver a new certificate to the employer within the ten day period.
+
+(ii) *Change in spouse's certificate.* If, after an employee has furnished an earned income credit advance payment certificate stating that a certificate is in effect for the spouse of the employee, the certificate of the spouse is no longer in effect, the employee may furnish the employer with a new certificate which reflects this change of circumstances.
+
+[T.D. 7766, 46 FR 10152, Feb. 2, 1981]

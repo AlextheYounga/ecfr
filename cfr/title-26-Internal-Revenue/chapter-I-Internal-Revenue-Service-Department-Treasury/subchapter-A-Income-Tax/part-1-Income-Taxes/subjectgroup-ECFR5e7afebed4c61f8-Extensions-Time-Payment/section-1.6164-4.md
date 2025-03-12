@@ -1,0 +1,7 @@
+##### § 1.6164-4 Payment of remainder of tax where extension relates to only part of the tax. #####
+
+(a) *Time for payment.* If an extension of time relates to only part of the tax, the time for payment of the remainder of the tax shall be considered to be the dates on which payments would have been required if such remainder had been the tax and the taxpayer had elected to pay the tax in installments as provided in section 6152(a).
+
+(b) *Example.* The provisions of this section may be illustrated by the following example:
+
+Example.Corporation X, which keeps its books and makes its tax returns on the calendar year basis, filed its income tax return for 1956 on March 15, 1957. The corporation showed a tax of $1,000 on its return and paid 50 percent of such tax, or $500 on March 15, 1957. On June 3, 1957, Corporation X, pursuant to the provisions of section 6164, extended the time for payment of $400 of such tax. The remainder of the tax the time for payment of which was not so extended, i.e., $600, is to be considered the tax for purposes of determining when it is to be paid. The remainder is considered to be due on the dates on which payment would have been required if such remainder had been the tax. Since the taxable year ended on December 31, 1956, the tax is payable in two equal installments of $300 each on March 15, 1957, and June 17, 1957. The taxpayer, having paid $500 on March 15, 1957, will have $100 to pay on June 17, 1957.

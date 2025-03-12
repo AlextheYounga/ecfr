@@ -1,0 +1,9 @@
+##### § 509.115 Visiting professors or teachers. #####
+
+(a) *General.* Pursuant to Article XII of the convention, a professor or teacher, a nonresident alien who is a resident of Switzerland, who temporarily visits the United States for the purpose of teaching for a period not exceeding two years at any university, college, school, or other educational institution situated within the United States shall, for a period not exceeding two years from the date of his initial arrival in the United States, be exempt from United States tax with respect to his remuneration earned in taxable years beginning on or after January 1, 1951, for such teaching during such period not in excess of two years.
+
+(b) *More than two years.* The exemption granted by Article XII is applicable to remuneration earned during such part of the individual's visit as does not exceed two years from the date of arrival even though the total period of his presence in the United States may extend beyond two years, provided that during such entire period he may be considered to be temporarily visiting the United States.
+
+(c) *Residence.* Such exemption shall not apply to the remuneration of an alien who is a resident of the United States or who is not a resident of Switzerland.
+
+(d) *Nonresidence presumed.* An individual who otherwise qualifies for the exemption from United States tax granted by Article XII shall, for a period of not more than two years immediately succeeding the date of his arrival within the United States for the purpose of such teaching, be deemed to have the tax status of a nonresident alien in the absence of proof of his intention to remain indefinitely in the United States. See section 871 of the Internal Revenue Code of 1954 and the regulations thereunder.

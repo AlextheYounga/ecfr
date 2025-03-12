@@ -1,0 +1,3 @@
+##### § 1803.5 Notice. #####
+
+The Foundation shall make available to employees, applicants, participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the programs or activities conducted by the Foundation as the Executive Secretary finds necessary to apprise such persons of the protections against discrimination assured them by section 504 and this regulation.

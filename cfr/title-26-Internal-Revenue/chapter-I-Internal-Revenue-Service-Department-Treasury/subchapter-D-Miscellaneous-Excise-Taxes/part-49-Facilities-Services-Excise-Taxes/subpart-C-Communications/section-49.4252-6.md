@@ -1,0 +1,19 @@
+##### § 49.4252-6 Wire mileage service. #####
+
+(a) *In general.* The meaning of the term “wire mileage service” differs depending upon the date on which the service is furnished. For services furnished on or after January 1, 1963, the term means any telephone or radiotelephone service not used in the conduct of a trade or business, and any other wire or radio circuit service not used in the conduct of a trade or business, which is not included in §§ 49.4252-1 through 49.4252-3, 49.4252-5, and 49.4252-7. The term “trade or business” as used in this section includes activities of organizations which are conducted with no purpose of gain or profit. For services furnished before January 1, 1963, the term means any telephone or radiotelephone service, and any other wire or radio circuit service, which is not included in §§ 49.4252-1 through 49.4252-3, 49.4252-5, and 49.4252-7. However, regardless of the date on which the service is furnished, any service which is exempt from tax for any reason specified in section 4253 is not included in wire mileage service. In general, the term means (except as qualified by the preceding sentences of this paragraph) any telephone or radiotelephone service, and any other wire or radio circuit service, which may not be connected, directly or indirectly, to an exchange operated by a person engaged in the business of furnishing communication service. Wire mileage service ordinarily relates to private line or private channel service where lines or channels, equipment, and other facilities are furnished (usually but not necessarily, on a contractual basis) to enable users to communicate between specified locations continuously or for specified periods, as distinguished from the sending of single dispatches, messages, and conversations by telephone, radiotelephone, telegraph, cable, or radio, for which tolls are charged by the carrier. The communications may be telephonic or in code, or may be reproduced at the terminating end in the form of a typewritten page or tape, or picture facsimile. The term “wire mileage service” does not include any service which is used exclusively in furnishing wire and equipment service.
+
+(b) *Examples.* The following are examples of wire mileage service (except that in the case of services furnished on or after January 1, 1963, wire mileage service does not include any such services used in the conduct of a trade or business):
+
+(1) Channels and equipment for private telephone service,
+
+(2) Channels and equipment for private code service,
+
+(3) Channels and equipment for private teletypewriter or teleprinter service,
+
+(4) Channels and equipment for program transmission, and
+
+(5) Channels and equipment for photograph, picture or facsimile transmission, etc.
+
+(c) *Amounts paid.* In determining the amount of tax due, the amount paid for the service shall include all charges made in connection with the furnishing of any wire mileage service, such as salaries of operators, if in the employ of the person furnishing such service, charges for equipment, instruments, and other apparatus other than station terminal equipment. In cases where a person leases lines or channels, equipment, and other facilities used in conjunction with wire mileage service, the amounts paid by such person for such lines or channels, equipment, and other facilities constitute amounts paid for wire mileage service, notwithstanding the fact that the lines or channels, equipment, and other facilities used in conjunction with such service are supplied by different persons or in part by the user of such service.
+
+(d) *Exemptions.* For exemptions from the tax imposed on amounts paid for wire mileage service, see sections 4253, 4292, 4293, and 4294, and the regulations thereunder contained in this part.

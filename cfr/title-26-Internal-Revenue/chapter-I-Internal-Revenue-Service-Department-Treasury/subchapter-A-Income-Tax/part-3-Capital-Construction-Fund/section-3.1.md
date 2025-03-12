@@ -1,0 +1,7 @@
+##### § 3.1 Scope of section 607 of the Act and the regulations in this part. #####
+
+(a) *In general.* The regulations prescribed in this part provide rules for determining the income tax liability of any person a party to an agreement with the Secretary of Commerce establishing a capital construction fund (for purposes of this part referred to as the “fund”) authorized by section 607 of the Merchant Marine Act, 1936, as amended (for purposes of this part referred to as the “Act”). With respect to such parties, section 607 of the Act in general provides for the nontaxability of certain deposits of money or other property into the fund out of earnings or gains realized from the operation of vessels covered in an agreement, gains realized from the sale or other disposition of agreement vessels or proceeds from insurance for indemnification for loss of agreement vessels, earnings from the investment or reinvestment of amounts held in a fund, and gains with respect to amounts or deposits in the fund. Transitional rules are also provided for the treatment of “old funds” existing on or before the effective date of the Merchant Marine Act of 1970 (see § 3.10).
+
+(b) *Cross references.* For rules relating to eligibility for a fund, deposits, and withdrawals and other aspects, see the regulations prescribed by the Secretary of Commerce in titles 46 (Merchant Marine) and 50 (Fisheries) of the Code of Federal Regulations.
+
+(c) *Code.* For purposes of this part, the term “Code” means the Internal Revenue Code of 1954, as amended.

@@ -1,0 +1,5 @@
+##### § 351.16 What do I need to know about the base denomination for redemption value calculations? #####
+
+We base all calculations of interest on a unit with a principal amount of $12.50. We use this unit value to determine the value of bonds in higher denominations. The effect of rounding off the value of the $12.50 unit increases at higher denominations. This can work to your slight advantage or disadvantage, depending on whether the value is rounded up or down.
+
+Example.The following hypothetical example illustrates the calculation: A rate of 3.25% will result in a newly purchased $12.50 unit increasing in value after six months to $12.70, when rounded to the nearest cent. Therefore, a $5,000 definitive Series EE bond (with a principal amount of $2,500) will be worth $2,540 after six months ([$2,500 divided by $12.50] × $12.70 = $2,540.) In contrast, if applied directly to a $2,500 principal amount, the rate would render a value of $2,540.63 after six months, a difference of 63 cents. (This example does not account for any interest penalty that might apply if you redeem a bond less than five years after its issue date.)

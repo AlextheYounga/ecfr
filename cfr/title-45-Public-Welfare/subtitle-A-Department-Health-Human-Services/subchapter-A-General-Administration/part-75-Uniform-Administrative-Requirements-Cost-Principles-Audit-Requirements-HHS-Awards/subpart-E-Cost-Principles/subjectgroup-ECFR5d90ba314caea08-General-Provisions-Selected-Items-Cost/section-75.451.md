@@ -1,0 +1,3 @@
+##### § 75.451 Losses on other awards or contracts. #####
+
+Any excess of costs over income under any other award or contract of any nature is unallowable. This includes, but is not limited to, the non-Federal entity's contributed portion by reason of cost-sharing agreements or any under-recoveries through negotiation of flat amounts for indirect (F&A) costs. Also, any excess of costs over authorized funding levels transferred from any award or contract to another award or contract is unallowable. All losses are not allowable indirect (F&A) costs and are required to be included in the appropriate indirect cost rate base for allocation of indirect costs.

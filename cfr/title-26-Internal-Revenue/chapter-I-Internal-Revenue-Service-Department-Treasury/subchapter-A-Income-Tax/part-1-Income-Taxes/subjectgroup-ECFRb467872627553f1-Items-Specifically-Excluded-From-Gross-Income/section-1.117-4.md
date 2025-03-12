@@ -1,0 +1,13 @@
+##### § 1.117-4 Items not considered as scholarships or fellowship grants. #####
+
+The following payments or allowances shall not be considered to be amounts received as a scholarship or a fellowship grant for the purpose of section 117:
+
+(a) *Educational and training allowances to veterans.* Educational and training allowances to a veteran pursuant to section 400 of the Servicemen's Readjustment Act of 1944 (58 Stat. 287) or pursuant to 38 U.S.C. 1631 (formerly section 231 of the Veterans' Readjustment Assistance Act of 1952).
+
+(b) *Allowances to members of the Armed Forces of the United States.* Tuition and subsistence allowances to members of the Armed Forces of the United States who are students at an educational institution operated by the United States or approved by the United States for their education and training, such as the United States Naval Academy and the United States Military Academy.
+
+(c) *Amounts paid as compensation for services or primarily for the benefit of the grantor.* (1) Except as provided in paragraph (a) of §§ 1.117-2 and 1.117-5, any amount paid or allowed to, or on behalf of, an individual to enable him to pursue studies or research, if such amount represents either compensation for past, present, or future employment services or represents payment for services which are subject to the direction or supervision of the grantor.
+
+(2) Any amount paid or allowed to, or on behalf of, an individual to enable him to pursue studies or research primarily for the benefit of the grantor.
+
+However, amounts paid or allowed to, or on behalf of, an individual to enable him to pursue studies or research are considered to be amounts received as a scholarship or fellowship grant for the purpose of section 117 if the primary purpose of the studies or research is to further the education and training of the recipient in his individual capacity and the amount provided by the grantor for such purpose does not represent compensation or payment for the services described in subparagraph (1) of this paragraph. Neither the fact that the recipient is required to furnish reports of his progress to the grantor, nor the fact that the results of his studies or research may be of some incidental benefits to the grantor shall, of itself, be considered to destroy the essential character of such amount as a scholarship or fellowship grant.[T.D. 6500, 25 FR 11402, Nov. 26, 1960; 25 FR 14021, Dec. 21, 1960, as amended by T.D. 8032, 50 FR 27232, July 2, 1985]

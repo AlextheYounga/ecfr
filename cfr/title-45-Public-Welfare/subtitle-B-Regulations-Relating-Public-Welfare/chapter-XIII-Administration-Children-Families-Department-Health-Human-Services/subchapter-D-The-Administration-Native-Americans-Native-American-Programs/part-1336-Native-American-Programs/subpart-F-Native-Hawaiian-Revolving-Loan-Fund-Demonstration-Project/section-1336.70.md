@@ -1,0 +1,3 @@
+##### § 1336.70 Technical assistance: Responsibilities of the Loan Administrator. #####
+
+The Loan Administrator will assure that competent management and technical assistance is available to the borrower consistent with the borrower's knowledge and experience and the nature and complexity of the economic enterprise being financed by the RLF. Consultants, RLF staff, and members of the loan review committee and Board may be used to assist borrowers. (section 803A(d)(1)(B))

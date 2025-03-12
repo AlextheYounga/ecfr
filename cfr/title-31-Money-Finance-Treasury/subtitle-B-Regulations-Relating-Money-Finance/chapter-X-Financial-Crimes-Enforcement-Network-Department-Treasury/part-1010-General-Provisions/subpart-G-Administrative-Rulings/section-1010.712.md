@@ -1,0 +1,3 @@
+##### § 1010.712 Nonconforming requests. #####
+
+The Director, FinCEN, or his designee shall notify the requester if the ruling request does not conform with the requirements of § 1010.711. The notice shall be in writing and shall describe the requirements that have not been met. A request that is not brought into conformity with such requirements within 30 days from the date of such notice, unless extended for good cause by FinCEN, shall be treated as though it were withdrawn.

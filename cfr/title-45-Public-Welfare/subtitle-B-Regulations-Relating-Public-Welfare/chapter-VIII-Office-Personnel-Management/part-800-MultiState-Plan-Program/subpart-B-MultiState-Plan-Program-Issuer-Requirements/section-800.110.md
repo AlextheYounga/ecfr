@@ -1,0 +1,3 @@
+##### § 800.110 Service area. #####
+
+An MSP issuer must offer an MSP option within one or more service areas in a State defined by each Exchange pursuant to 45 CFR 155.1055. If an Exchange permits issuers to define their service areas, an MSP issuer must obtain OPM's approval for its proposed service areas. Pursuant to § 800.104 of this part, OPM may enter into a contract with an MSP issuer even if the MSP issuer's MSP options for a State cover fewer than all the service areas specified for that State. MSP options will follow the same standards for service areas for QHPs pursuant to 45 CFR 155.1055.

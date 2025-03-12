@@ -1,0 +1,29 @@
+##### § 301.6331-2 Procedures and restrictions on levies. #####
+
+(a) *Notice of intent to levy*—(1) *In general.* Levy may be made upon the salary, wages, or other property of a taxpayer for any unpaid tax no less than 30 days after the district director, the service center director, or the compliance center director (director) has notified the taxpayer in writing of the intent to levy. The notice must be given in person, be left at the dwelling or usual place of business of the taxpayer, or be sent by registered or certified mail to the taxpayer's last known address. For further guidance regarding the definition of last known address, see § 301.6212-2. The notice of intent to levy is separate from, but may be given at the same time as, the notice and demand described in § 301.6331-1.
+
+(2) *Content of Notice.* The notice of intent to levy is to contain a brief statement in nontechnical terms including the following information—
+
+(i) The Internal Revenue Code provisions and the procedures relating to levy and sale of property;
+
+(ii) The administrative appeals available with respect to the levy and sale of property and the procedures relating to such appeals;
+
+(iii) The alternatives available that could prevent levy on the property (including the use of an installment agreement under section 6159); and
+
+(iv) The Internal Revenue Code provisions and the procedures relating to redemption of property and release of liens on property.
+
+(b) *Uneconomical levy*—(1) *In general.* No levy may be made on property if the director estimates that the anticipated expenses with respect to the levy and sale will exceed the fair market value of the property. The estimate is to be made on an aggregate basis for all of the items that are anticipated to be seized pursuant to the levy. Generally, no levy should be made on individual items of insignificant monetary value. For the definition of fair market value, see § 301.6325-1(b)(1)(i). See § 301.6341-1 concerning the expenses of levy and sale.
+
+(2) *Time of estimate.* The estimate, which may be formal or informal, is to be made at the time of the seizure or within a reasonable period of time prior to a seizure. The estimate may be based on earlier estimates of fair market value and anticipated expenses of the same or similar property.
+
+(3) *Examples.* The following examples illustrate the application of this paragraph (b):
+
+Example 1.A director anticipates that the taxpayer has only one item of property that can be seized and sold. This item is estimated to have a fair market value of $250.00. The director also estimates that the costs of seizure and sale will total $300.00 if this item is seized. The director is prohibited from levying on this one item of the taxpayer's property because the costs of seizure and sale are estimated to exceed the property's fair market value.Example 2.The facts are the same as in *Example 1* except that the director anticipates that the taxpayer has 10 items of property that can be seized and sold. Each of those items is estimated to have a fair market value of $250.00. The director also estimates that the costs of seizure and sale will total $300.00 regardless of how many of those items are seized. The director is prohibited from levying on only one item of the taxpayer's property because the costs of seizure and sale are estimated to exceed the fair market value of the single item of property. The director, however, would not be prohibited from levying on two or more items of the taxpayer's property because the aggregate fair market value of the seized property would exceed the estimated costs of seizure and sale.Example 3.The taxpayer has three items of property, A, B, and C. The director anticipates that the value of items A, B, and C depends on their being sold as a unit. The director estimates that due to high anticipated costs of storing or maintaining item B prior to the sale, the aggregate fair market value of items A, B, and C will not exceed the anticipated expenses of seizure and sale if all three items are seized. Accordingly, the director is prohibited from levying on items A, B, and C.Example 4.The facts are the same as in *Example 3* except that the director does not anticipate that the value of items A, B, and C depends on those items being sold as a unit. If the director estimates that the aggregate fair market value of items A and C exceeds the aggregate anticipated costs of the seizure and sale of those two items, items A and C can be seized and sold. The director is prohibited from levying on item B because the high cost of storing or maintaining item B is estimated to exceed the fair market value of item B.
+
+(c) *Restriction on levy on date of appearance.* Except for continuing levies on salaries or wages described in § 301.6331-1(b)(1), no levy may be made on any property of a person on the day that person, or an officer or employee of that person, is required to appear in response to a summons served for the purpose of collecting any underpayment of tax from that person. For purposes of this paragraph (c), the date on which an appearance is required is the date fixed by an officer or employee of the Internal Revenue Service pursuant to section 7605 or the date (if any) fixed as the result of a judicial proceeding instituted under sections 7604 and 7402(b) seeking the enforcement of the summons.
+
+(d) *Jeopardy.* Paragraphs (a) and (c) of this section do not apply to a levy if the director finds, for purposes of § 301.6331-1(a)(2), that the collection of tax is in jeopardy.
+
+(e) *Effective date.* These regulations are effective December 10, 1992.
+
+[T.D. 8558, 59 FR 38903, Aug. 1, 1994, as amended by T.D. 8939, 66 FR 2821, Jan. 12, 2001]

@@ -1,0 +1,3 @@
+##### § 31.3402(d)-1 Failure to withhold. #####
+
+If the employer in violation of the provisions of section 3402 fails to deduct and withhold the tax, and thereafter the income tax against which the tax under section 3402 may be credited is paid, the tax under section 3402 shall not be collected from the employer. Such payment does not, however, operate to relieve the employer from liability for penalties or additions to the tax applicable in respect of such failure to deduct and withhold. The employer will not be relieved of his liability for payment of the tax required to be withheld unless he can show that the tax against which the tax under section 3402 may be credited has been paid. See § 31.3403-1, relating to liability for tax.

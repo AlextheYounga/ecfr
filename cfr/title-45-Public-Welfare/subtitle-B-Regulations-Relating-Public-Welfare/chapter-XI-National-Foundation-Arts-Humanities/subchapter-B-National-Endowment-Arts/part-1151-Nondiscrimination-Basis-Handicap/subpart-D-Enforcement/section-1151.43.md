@@ -1,0 +1,3 @@
+##### § 1151.43 Adoption of grievance procedures. #####
+
+A recipient may adopt an internal grievance procedure in order to provide for the prompt and equitable resolution of complaints alleging any action prohibited by this part. A responsible official should be designated to coordinate the recipient's efforts in connection with this section. Such procedures need not be established with respect to complaints from applicants for employment.

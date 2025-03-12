@@ -1,0 +1,5 @@
+##### § 20.2204-3 Special rules for estates of decedents dying after December 31, 1976; special lien under section 6324A. #####
+
+For purposes of §§ 20.2204-1(b) and 20.2204-2(b), in the case of a decedent dying after December 31, 1976, if the executor elects a special lien in favor of the United States under section 6324A, relating to special lien for estate taxes deferred under sections 6166 or 6166A (as in effect prior to its repeal by the Economic Recovery Tax Act of 1981), such lien shall be treated as the furnishing of a bond with respect to the amount for which the time for payment has been extended under section 6166. If an election has been made under section 6324A, the executor may not thereafter substitute a bond pursuant to section 2204 in lieu of that lien. If a bond has been supplied under section 2204, however,the executor may, by filing a proper notice of election and agreement, substitute a lien under section 6324A for any part or all of such bond. See §§ 20.6324A-1 and 301.6324A-1 for rules relating to a special lien under section 6324A.
+
+[T.D. 7941, 49 FR 4468, Feb. 7, 1984]

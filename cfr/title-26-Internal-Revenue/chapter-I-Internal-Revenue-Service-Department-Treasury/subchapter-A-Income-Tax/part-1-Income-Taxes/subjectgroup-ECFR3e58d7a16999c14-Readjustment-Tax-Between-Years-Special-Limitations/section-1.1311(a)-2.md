@@ -1,0 +1,15 @@
+##### § 1.1311(a)-2 Purpose and scope of section 1311. #####
+
+(a) Section 1311 provides for the correction of the effect of certain errors under circumstances specified in section 1312 when one or more provisions of law, such as the statute of limitations, would otherwise prevent such correction. Section 1311 may be applied to correct the effect of certain errors if, on the date of a determination (as defined in section 1313(a) and the regulations thereunder), correction is prevented by the operation of any provision of law other than sections 1311 through 1315 and section 7122 (relating to compromises) and the corresponding provisions of prior revenue laws. Examples of provisions preventing such corrections are sections 6501, 6511, 6532, and 6901 (c), (d) and (e), relating to periods of limitations; section 6212(c) and 6512 relating to the effect of petition to the Tax Court of the United States on further deficiency letters and on credits or refunds; section 7121 relating to closing agreements; and sections 6401 and 6514 relating to payments, refunds, or credits after the period of limitations has expired. Section 1311 may also be applied to correct the effect of an error if, on the date of the determination, correction of the error is prevented by the operation of any rule of law, such as *res judicata* or *estoppel.*
+
+(b) The determination (including a determination under section 1313 (a)(4)) may be with respect to any of the taxes imposed by subtitle A of the Internal Revenue Code of 1954, by chapter 1 and subchapters A, B, D, and E of chapter 2 of the Internal Revenue Code of 1939, or by the corresponding provisions of any prior revenue act, or by more than one of such provisions. Section 1311 may be applied to correct the effect of the error only as to the tax or taxes with respect to which the error was made which correspond to the tax or taxes with respect to which the determination relates. Thus, if the determination relates to a tax imposed by chapter 1 of the Internal Revenue Code of 1954, the adjustment may be only with respect to the tax imposed by such chapter or by the corresponding provisions of prior law.
+
+(c) Section 1311 is not applicable if, on the date of the determination, correction of the effect of the error is permissible without recourse to said section.
+
+(d) If the tax liability for the year with respect to which the error was made has been compromised under section 7122 or the corresponding provisions of prior revenue laws, no adjustment may be made under section 1311 with respect to said year.
+
+(e) No adjustment may be made under section 1311 for any taxable year beginning prior to January 1, 1932. See section 1314(d).
+
+(f) Section 1311 applies only to a determination (as defined in section 1313(a) and §§ 1.1313(a)-1 to 1.1313 (a)-4, inclusive) made after November 14, 1954. Section 3801 of the Internal Revenue Code of 1939 and the regulations thereunder apply to determinations, as defined therein, made on or before November 14, 1954. See section 1315.
+
+[T.D. 6500, 25 FR 12031, Nov. 26, 1960]

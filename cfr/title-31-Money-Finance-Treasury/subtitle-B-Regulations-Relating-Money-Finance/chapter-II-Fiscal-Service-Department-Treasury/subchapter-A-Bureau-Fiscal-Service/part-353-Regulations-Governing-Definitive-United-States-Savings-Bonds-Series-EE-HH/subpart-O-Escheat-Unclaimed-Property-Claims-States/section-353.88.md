@@ -1,0 +1,9 @@
+##### § 353.88 Payment to a State claiming title to abandoned bonds. #####
+
+(a) *General.* The Department of the Treasury may, in its discretion, recognize an escheat judgment that purports to vest a State with title to a definitive savings bond that has reached final maturity and is in the State's possession, when the State presents evidence satisfactory to Treasury that the bond has been abandoned by all persons entitled to payment under Treasury regulations. A State claiming title to a definitive savings bond as the heir to a deceased owner must comply with the requirements of subpart L, and not this section. Treasury will not recognize an escheat judgment that purports to vest a State with title to a bond that has not reached its final maturity. Treasury also will not recognize an escheat judgment that purports to vest a State with title to a bond that the State does not possess, or a judgment that purports to grant the State custody of a bond, but not title.
+
+(b) *Due process.* At a minimum, a State requesting payment under this section must demonstrate to Treasury's satisfaction that it made reasonable efforts to provide actual and constructive notice of the escheat proceeding to all persons listed on the face of the bond and all persons who may have an interest in the bond, and that those persons had an opportunity to be heard before the escheat judgment was entered.
+
+(c) *Fulfillment of obligation.* Payment to a State claiming title under this section fulfills the United States' obligations to the same extent as if payment had been made to the registered owner.
+
+[80 FR 80264, Dec. 24, 2015]

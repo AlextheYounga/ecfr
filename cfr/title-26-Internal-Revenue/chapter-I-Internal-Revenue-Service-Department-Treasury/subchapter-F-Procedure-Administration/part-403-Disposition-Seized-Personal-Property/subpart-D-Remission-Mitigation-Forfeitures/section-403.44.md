@@ -1,0 +1,7 @@
+##### § 403.44 Acquisition for official use and sale for account of petitioner in the case of an allowed petition. #####
+
+(a) *Acquisition for official use.* The seized property may be purchased by the United States pursuant to agreement and retained for official use. Where the petitioner is the owner, the purchase price is the appraised value of the property less all costs. Where the petitioner is a creditor, the purchase price is the smaller of:
+
+(1) The petitioner's equity, or (2) the appraised value of the property less the amount of all costs.
+
+(b) *Sale for account of petitioner.* If the petitioner elects not to comply with the conditions, if any, set for the return of the property, the Commissioner or his delegate is authorized to sell the property. If the petitioner is the owner of the property, there is deducted from the proceeds of the sale all costs incident to the seizure, forfeiture, and sale. The Commissioner or his delegate shall pay to the petitioner, out of the proper appropriation, an amount equal to the balance, if any. Where the petitioner is a creditor, there is deducted from the proceeds of the sale all costs incident to the seizure, forfeiture, and sale, and the Commissioner or his delegate shall pay to the petitioner, out of the proper appropriation, an amount equal to the smaller of: (1) The balance, if any, or (2) the equity of the petitioner.

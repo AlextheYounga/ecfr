@@ -1,0 +1,27 @@
+##### § 1356.20 Title IV-E plan document and submission requirements. #####
+
+(a) To be in compliance with the title IV-E plan requirements and to be eligible to receive Federal financial participation (FFP) in the costs of foster care maintenance payments and adoption assistance under this part, a title IV-E agency must have a plan approved by the Secretary that meets the requirements of this part, part 1355, section 471(a) of the Act and for Tribal title IV-E agencies, section 479B(c) of the Act. The title IV-E plan must be submitted to the appropriate Regional Office, ACYF, in a form determined by the title IV-E agency.
+
+(b) Failure by a title IV-E agency to comply with the requirements and standards for the data reporting system for foster care and adoption (§ 1355.40 of this chapter) shall be considered a substantial failure by the title IV-E agency in complying with the plan.
+
+(c) The following procedures for approval of plans and amendments apply to the title IV-E program:
+
+(1) *Plan.* The plan consists of written documents furnished by the title IV-E agency to cover its program under part E of title IV. After approval of the original plan by the Commissioner, ACYF, all relevant changes, required by new statutes, rules, regulations, interpretations, and court decisions, are required to be submitted currently so that ACYF may determine whether the plan continues to meet Federal requirements and policies.
+
+(2) *Submittal.* Plans and revisions of the plans are submitted first to the State governor or his/her designee, or the Tribal leader or his/her designee for review and then to the regional office, ACYF. Title IV-E agencies are encouraged to obtain consultation of the regional staff when a plan is in process of preparation or revision.
+
+(3) *Review.* Staff in the regional offices are responsible for review of plans and amendments. They also initiate discussion with the title IV-E agency on clarification of significant aspects of the plan which come to their attention in the course of this review. Plan material on which the regional staff has questions concerning the application of Federal policy is referred with recommendations as required to the central office for technical assistance. Comments and suggestions, including those of consultants in specified areas, may be prepared by the central office for use by the regional staff in negotiations with the title IV-E agency.
+
+(4) *Action.* ACYF has the authority to approve plans and amendments thereto which provide for the administration of foster care maintenance payments and adoption assistance programs under section 471 of the Act. The Commissioner, ACYF, retains the authority to determine that proposed plan material is not approvable, or that a previously approved plan no longer meets the requirements for approval. The Regional Office, ACYF, formally notifies the title IV-E agency of the actions taken on plans or revisions.
+
+(5) *Basis for approval.* Determinations as to whether plans (including plan amendments and administrative practice under the plans) originally meet or continue to meet, the requirements for approval are based on relevant Federal statutes and regulations.
+
+(6) *Prompt approval of plans.* The determination as to whether a plan submitted for approval conforms to the requirements for approval under the Act and regulations issued pursuant thereto shall be made promptly and not later than the 45th day following the date on which the plan submittal is received in the regional office, unless the Regional Office, ACYF, has secured from the title IV-E agency a written agreement to extend that period.
+
+(7) *Prompt approval of plan amendments.* Any amendment of an approved plan may, at the option of the title IV-E agency, be considered as a submission of a new plan. If the title IV-E agency requests that such amendment be so considered, the determination as to its conformity with the requirements for approval shall be made promptly and not later than the 45th day following the date on which such a request is received in the regional office with respect to an amendment that has been received in such office, unless the Regional Office, ACYF, has secured from the title IV-E agency a written agreement to extend that period. In absence of request by a title IV-E agency that an amendment of an approved plan shall be considered as a submission of a new plan, the procedures under § 201.6(a) and (b) shall be applicable.
+
+(8) *Effective date.* The effective date of a new plan may not be earlier than the first day of the calendar quarter in which an approvable plan is submitted, and with respect to expenditures for assistance under such plan, may not be earlier than the first day on which the plan is in operation on a statewide basis or, in the case of a Tribal title IV-E agency, in operation in the Tribal title IV-E agency's entire service area. The same applies with respect to plan amendments.
+
+(d) Once the title IV-E plan has been submitted and approved, it shall remain in effect until amendments are required. An amendment is required if there is any significant and relevant change in the information or assurances in the plan, or the organization, policies or operations described in the plan.
+
+[77 FR 946, Jan. 6, 2012]

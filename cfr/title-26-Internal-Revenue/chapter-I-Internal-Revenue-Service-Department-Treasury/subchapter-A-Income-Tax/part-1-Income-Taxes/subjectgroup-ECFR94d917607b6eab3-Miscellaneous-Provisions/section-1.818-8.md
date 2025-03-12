@@ -1,0 +1,5 @@
+##### § 1.818-8 Special rules relating to consolidated returns and certain capital losses. #####
+
+Section 818(g) provides that, in the case of a life insurance company filing or required to file a consolidated return under section 1501 for a taxable year, the computations of the policyholders' share of investment yield under subparts B and C, part I, subchapter L, chapter 1 of the Code (including all determinations and computations incident thereto) shall be made as if such company were not filing a consolidated return. Thus, for example, if X and Y are life insurance companies which are entitled to file a consolidated return for 1975 and X has paid dividends to Y during such taxable year, Y must include such dividends in the computation of gross investment income under section 804(b). For other rules relating to the filing of consolidated returns, see sections 1501 through 1504 and the regulations thereunder.
+
+[T.D. 7469, 42 FR 12181, Mar. 3, 1977]

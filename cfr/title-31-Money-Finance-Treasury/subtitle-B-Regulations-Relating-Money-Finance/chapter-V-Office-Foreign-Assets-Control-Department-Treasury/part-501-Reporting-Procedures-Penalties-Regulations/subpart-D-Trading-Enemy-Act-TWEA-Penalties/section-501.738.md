@@ -1,0 +1,5 @@
+##### § 501.738 Disqualification and withdrawal of Administrative Law Judge. #####
+
+(a) *Notice of disqualification.* If at any time an Administrative Law Judge or Secretary's designee believes himself or herself to be disqualified from considering a matter, the Administrative Law Judge or Secretary's designee, as appropriate, shall issue a notice stating that he or she is withdrawing from the matter and setting forth the reasons therefor.
+
+(b) *Motion for Withdrawal.* Any party who has a reasonable, good faith basis to believe an Administrative Law Judge or Secretary's designee has a personal bias, or is otherwise disqualified from hearing a case, may make a motion to the Administrative Law Judge or Secretary's designee, as appropriate, that the Administrative Law Judge or Secretary's designee withdraw. The motion shall be accompanied by a statement subject to 18 U.S.C. 1001 setting forth in detail the facts alleged to constitute grounds for disqualification. If the Administrative Law Judge or Secretary's designee finds himself or herself qualified, he or she shall so rule and shall continue to preside over the proceeding.

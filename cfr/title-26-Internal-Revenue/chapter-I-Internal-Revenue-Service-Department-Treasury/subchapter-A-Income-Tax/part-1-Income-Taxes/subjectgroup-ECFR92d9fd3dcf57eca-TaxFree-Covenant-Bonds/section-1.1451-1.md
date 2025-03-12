@@ -1,0 +1,35 @@
+##### § 1.1451-1 Tax-free covenant bonds issued before January 1, 1934. #####
+
+(a) *Rates of withholding*—(1) *Rate of 2 percent.* Withholding of a tax equal to 2 percent is required in the case of interest upon bonds or other corporate obligations containing a tax-free covenant and issued before January 1, 1934, paid to an individual, a fiduciary, or a partnership, whether resident or nonresident, or to a nonresident foreign corporation, regardless of whether the liability assumed by the obligor is less than, equal to, or greater than 2 percent.
+
+(2) *Rate of 30 percent.* Notwithstanding subparagraph (1) of this paragraph, if the liability assumed by the obligor does not exceed 2 percent of the interest, withholding is required at the rate of 30 percent in the case of payments to a nonresident alien individual, a nonresident partnership composed in whole or in part of nonresident aliens, a nonresident foreign corporation, or an owner who is unknown to the withholding agent.
+
+(3) *Obligations of resident payers.* The rates of withholding specified in subparagraphs (1) and (2) of this paragraph are applicable to interest on such tax-free covenant bonds issued by a domestic corporation or by a resident foreign corporation.
+
+(4) *Obligations of nonresident payers.* A nonresident foreign corporation having a fiscal or paying agent in the United States is required to withhold a tax of 2 percent in the case of interest upon its tax-free covenant bonds issued before January 1, 1934, which is paid to an individual or fiduciary who is a citizen or resident of the United States, to a partnership any member of which is a citizen or resident, or to an unknown owner.
+
+(5) *Interest from sources without the United States.* Withholding is not required under section 1451 in the case of interest upon bonds or other corporate obligations issued before January 1, 1934, and containing a tax-free covenant if the interest is not to be treated as income from sources within the United States and the payments are made to a nonresident alien, a partnership composed wholly of nonresident aliens, or a nonresident foreign corporation.
+
+(6) *Tax treaties.* The rates of tax to be withheld in accordance with this paragraph shall be reduced as may be provided by treaty with any country. See section 894 and § 1.1441-6 relating to income subject to a reduced rate of, or an exemption from, income tax pursuant to an income tax convention.
+
+(b) *Date of issue.* The withholding provisions of section 1451 are applicable only to bonds, mortgages, or deeds of trust, or other similar obligations of a corporation which were issued before January 1, 1934, and which contain a tax-free covenant. For the purpose of section 1451, bonds, mortgages, or deeds of trust, or other similar obligations of a corporation, are issued when delivered. If a broker or other person acts as selling agent of the obligor, the obligation is issued when delivered by the agent to the purchaser. If a broker or other person purchases the obligation outright for the purpose of holding or reselling it, the obligation is issued when delivered to such broker or other person.
+
+(c) *Extended maturity date.* In cases where on or after January 1, 1934, the maturity date of bonds or other obligations of a corporation is extended, the bonds or other obligations shall be considered to have been issued on or after January 1, 1934. The interest on such obligations is not subject to the withholding provisions of section 1451 but falls within the class of interest described in section 1441. See paragraph (c)(5)(iii) of § 1.1441-3.
+
+(d) *Covenant in trust deed.* Bonds issued under a trust deed containing a tax-free covenant are treated as if they contain such a covenant. If neither the bonds nor the trust deeds given by the obligor to secure them contained a tax-free covenant, but the original trust deeds were modified before January 1, 1934, by supplemental agreements containing a tax-free covenant executed by the obligor corporation and the trustee, the bonds issued before January 1, 1934, are subject to the provisions of section 1451, provided appropriate authority existed for the modification of the trust deeds in this manner. The authority must have been contained in the original trust deeds or actually secured from the bondholders.
+
+(e) *Notation showing date of issue.* In order that the date of issue of bonds, mortgages, deeds of trust, or other similar corporate obligations containing a tax-free covenant may be readily determined by the owner for the purpose of preparing the ownership certificates required by § 1.1461-1, the issuing or debtor corporation shall indicate the date of issue by an appropriate notation, or use the phrase “issued on or after January 1, 1934,” on each such obligation or in a statement accompanying the delivery of the obligation.
+
+(f) *Effect of withholding on income taxes of bondholder and issuing corporation*—(1) *Federal tax.* In the case of corporate bonds or other corporate obligations issued before January 1, 1934, and containing a tax-free covenant, the corporation paying a Federal tax, or any part of it, for someone else pursuant to its agreement is not entitled to deduct such payment from its gross income on any ground; nor shall the tax so paid be included in the gross income of the bondholder. The amount of the tax so paid may, nevertheless, be claimed by the bondholder in accordance with paragraph (a) of § 1.1462-1 as a credit against the total amount of income tax due. See also section 32. The tax so paid by the corporation upon tax-free covenant bond interest payable to a domestic or resident fiduciary and allocable to any nonresident alien beneficiary under section 652 or 662 is allowable, pro rata, as a credit against:
+
+(i) The tax required to be withheld by the fiduciary in accordance with paragraph (f) of § 1.1441-3 from the income of the beneficiary, and
+
+(ii) The total income tax computed in the return of the beneficiary, as indicated in paragraph (a) of § 1.1462-1.
+
+(2) *State taxes.* In the case of corporate bonds or other obligations containing an appropriate tax-free covenant, the corporation paying for someone else, pursuant to its agreement, a State tax or any tax other than a Federal tax may deduct such payment as interest paid on indebtedness.
+
+(g) *Alien resident of Puerto Rico.* For purposes of this section the term “nonresident alien individual” includes an alien resident of Puerto Rico.
+
+(h) *Other rules for withholding of tax under section 1451.* The rules for withholding stated in paragraphs (c) (2) and (3), (f), and (g) of § 1.1441-3 shall also apply for purposes of withholding the tax under this section.
+
+[T.D. 6500, 25 FR 12076, Nov. 26, 1960, as amended by T.D. 7157, 36 FR 25228, Dec. 30, 1971]

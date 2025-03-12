@@ -1,0 +1,13 @@
+##### § 1171.6 Responsibilities for processing and responding to requests. #####
+
+(a) *Processing requests.* The NEH Office of the General Counsel (OGC) is the central office for processing requests for records, except when it's necessary for the NEH Office of Inspector General (OIG) to process a request to maintain the OIG's independence or ability to carry out its statutorily mandated duties. If the request is for OIG records, the NEH will inform the requester which office will be processing the request.
+
+(b) *Authority to grant or deny requests.* The NEH General Counsel (or designee) is authorized to grant or deny requests for NEH records (excluding requests for OIG records), and/or FCAH records. The NEH Deputy Inspector General (or designee) is authorized to grant or deny requests for OIG records. The NEH General Counsel (or designee) is authorized to grant or deny requests on any fee matters and requests for expedited treatment, including OIG-related requests.
+
+(c) *Consultations and referrals.* When the NEH receives a request for a record in its possession, the agency will determine whether another Federal government agency is better able to decide whether the record should or should not be disclosed under the FOIA. Ordinarily, the agency that originated a record will be presumed to be best able to determine whether to disclose it.
+
+(1) If the NEH determines that it is the agency best able to process the record in response to the request, then it will do so, after consultation with the other agency that has a substantial interest in the requested records.
+
+(2) If the NEH determines that it is not the agency best able to process the record, then it will refer the record (or portion thereof) to the other Federal agency, but only if that agency is subject to the FOIA.
+
+(d) *Notice of referral.* Whenever the NEH refers all or any part of the responsibility for responding to a request to another agency, the NEH will notify the requester of the referral, provide the name of the agency to which the referral was directed, and include that agency's FOIA contact information. NEH will notify the requester of the part of the request that has been referred, unless such notification would disclose information otherwise exempt. If notification to the requester about the referral would cause a harm meant to be protected against by the FOIA, NEH will coordinate with the agency rather than referring the records to it.

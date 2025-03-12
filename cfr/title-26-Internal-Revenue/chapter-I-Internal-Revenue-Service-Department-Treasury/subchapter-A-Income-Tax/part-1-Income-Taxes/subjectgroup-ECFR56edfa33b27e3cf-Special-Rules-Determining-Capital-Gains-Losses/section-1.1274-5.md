@@ -1,0 +1,15 @@
+##### § 1.1274-5 Assumptions. #####
+
+(a) *In general.* Section 1274 does not apply to a debt instrument if the debt instrument is assumed, or property is taken subject to the debt instrument, in connection with a sale or exchange of property, unless the terms of the debt instrument, as part of the sale or exchange, are modified in a manner that would constitute an exchange under section 1001.
+
+(b) *Modifications of debt instruments*—(1) *In general.* Except as provided in paragraph (b)(2) of this section, if a debt instrument is assumed, or property is taken subject to a debt instrument, in connection with a sale or exchange of property, the terms of the debt instrument are modified as part of the sale or exchange, and the modification triggers an exchange under section 1001, the modification is treated as a separate transaction taking place immediately before the sale or exchange and is attributed to the seller of the property. For purposes of this paragraph (b), a debt instrument is not considered to be modified as part of the sale or exchange unless the seller knew or had reason to know about the modification.
+
+(2) *Election to treat buyer as modifying the debt instrument*—(i) *In general.* Rather than having the rules in paragraph (b)(1) of this section apply, the seller and buyer may jointly elect to treat the transaction as one in which the buyer first assumed the original (unmodified) debt instrument and then subsequently modified the debt instrument. For this purpose, the modification is treated as a separate transaction taking place immediately after the sale or exchange.
+
+(ii) *Time and manner of making the election.* The buyer and seller make the election under paragraph (b)(2)(i) of this section by jointly signing a statement that includes the names, addresses, and taxpayer identification numbers of the seller and buyer, and a clear indication that the election is being made under paragraph (b)(2)(i) of this section. Both the buyer and the seller must sign this statement not later than the earlier of the last day (including extensions) for filing the Federal income tax return of the buyer or seller for the taxable year in which the sale or exchange of the property occurs. The buyer and seller should attach this signed statement (or a copy thereof) to their timely filed Federal income tax returns.
+
+(c) *Wraparound indebtedness.* For purposes of paragraph (a) of this section, the issuance of wraparound indebtedness is not considered an assumption.
+
+(d) *Consideration attributable to assumed debt.* If, as part of the consideration for the sale or exchange of property, the buyer assumes, or takes the property subject to, an indebtedness that was issued with OID (including a debt instrument issued in a prior sale or exchange to which section 1274 applied), the portion of the buyer's basis in the property and the seller's amount realized attributable to the debt instrument equals the adjusted issue price of the debt instrument as of the date of the sale or exchange.
+
+[T.D. 8517, 59 FR 4824, Feb. 2, 1994]

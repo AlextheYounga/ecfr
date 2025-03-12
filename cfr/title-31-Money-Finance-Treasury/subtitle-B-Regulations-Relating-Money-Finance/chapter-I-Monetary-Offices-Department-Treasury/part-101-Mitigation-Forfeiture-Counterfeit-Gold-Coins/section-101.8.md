@@ -1,0 +1,3 @@
+##### § 101.8 Discretion of the Secretary. #####
+
+The Secretary of the Treasury retains complete discretion to deny any claim of any petitioner when the Secretary believes it is not in the best interest of the Government to return the bullion to the petitioner or when the Secretary is not convinced that the petitoner was an innocent purchaser or holder without knowledge that the gold coins were counterfeit.

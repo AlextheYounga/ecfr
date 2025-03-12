@@ -1,0 +1,5 @@
+##### § 75.365 Restrictions on public access to records. #####
+
+Link to an amendment published at 81 FR 89395, Dec. 12, 2016.
+
+No HHS awarding agency may place restrictions on the non-Federal entity that limit public access to the records of the non-Federal entity pertinent to a Federal award, except for protected personally identifiable information (PII) or when the HHS awarding agency can demonstrate that such records will be kept confidential and would have been exempted from disclosure pursuant to the Freedom of Information Act (5 U.S.C. 552) or controlled unclassified information pursuant to Executive Order 13556 if the records had belonged to the HHS awarding agency. The Freedom of Information Act (5 U.S.C. 552) (FOIA) does not apply to those records that remain under a non-Federal entity's control except as required under § 75.322. Unless required by Federal, state, local, or tribal statute, non-Federal entities are not required to permit public access to their records. The non-Federal entity's records provided to a Federal agency generally will be subject to FOIA and applicable exemptions.

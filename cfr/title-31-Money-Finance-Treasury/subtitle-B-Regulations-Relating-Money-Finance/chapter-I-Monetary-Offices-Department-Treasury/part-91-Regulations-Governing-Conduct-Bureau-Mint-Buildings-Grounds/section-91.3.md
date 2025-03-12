@@ -1,0 +1,3 @@
+##### § 91.3 Recording presence. #####
+
+Except as otherwise ordered, the property shall be closed to the public during other than normal working hours. The property shall also be closed to the public when, in the opinion of the senior supervising official of any Bureau of the Mint establishment covered by these regulations, or his delegate, an emergency situation exists, and at such other times as may be necessary for the orderly conduct of the Government's business. Admission to the property during periods when such property is closed to the public will be limited to authorized individuals who will be required to sign the register and/or display identification documents when requested by the guard.

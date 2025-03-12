@@ -1,0 +1,3 @@
+##### § 317.4 Issuing agents currently qualified. #####
+
+Each organization, qualified as an issuing agent under a trust agreement currently in effect, is authorized to continue to act in that capacity without requalification. By so acting, it shall be subject to the terms and conditions of the previously executed application-agreement and these regulations in the same manner and to the same extent as though it had requalified hereunder.

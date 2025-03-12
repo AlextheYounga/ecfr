@@ -1,0 +1,23 @@
+##### § 44.4421-1 Definitions. #####
+
+(a) *Wager.* The term “wager” means:
+
+(1) Any wager placed with a person engaged in the business of accepting wagers upon the outcome of a sports event or a contest;
+
+(2) Any wager placed in a wagering pool with respect to a sports event or a contest, if such pool is conducted for profit; and
+
+(3) Any wager placed in a lottery conducted for profit.
+
+(b) *Lottery*—(1) *In general.* The term “lottery” includes the numbers game, policy, and similar types of wagering. In general, a lottery conducted for profit includes any scheme or method for the distribution of prizes among persons who have paid or promised a consideration for a chance to win such prizes, usually as determined by the numbers or symbols on tickets as drawn from a lottery wheel or other receptacle, or by the outcome of an event: *Provided,* Such lottery is conducted for profit. The term also includes enterprises commonly known as “policy” or “numbers” and similar types of wagering where the player selects a number, or a combination of numbers, and pays or agrees to pay a certain amount in consideration of which the operator of the lottery, policy, or numbers game agrees to pay a prize or fixed sum of money if the selected number or combination of numbers appear or are published in a manner understood by the parties. For example, the winning number or combination of numbers may appear or be published as a series of numbers in the payoff prices of a series of horse races at a certain race track, or in the United States Treasury balance reports, or the reports of a stock or commodity exchange. This description is not intended to be restrictive; hence, the substitution of letters or other symbols for numbers or a different arrangement for determining the winning number or combination of numbers, does not alter the fundamental nature of a game which otherwise would be considered a lottery. The operation of a punch board or a similar gaming device for profit is also considered to be the operation of a lottery.
+
+(2) *Certain games excluded*—(i) *Cards, dice, etc.* Section 4421 specifically excludes from the term “lottery” any game of a type in which usually (*a*) the wagers are placed, (*b*) the winners are determined, and (*c*) the distribution of prizes or other property is made, in the presence of all persons placing wagers in such game. Thus, for example, no tax would be payable with respect to wagers made in a bingo or keno game since such a game is usually conducted under circumstances in which the wagers are placed, the winners are determined, and the distribution of prizes is made in the presence of all persons participating in the game. For the same reason, no tax would apply in the case of card games, dice games, or games involving wheels of chance, such as roulette wheels and gambling wheels of a type used at carnivals and public fairs.
+
+(ii) *Drawings conducted by an organization exempt from tax under section 501 or 521.* Section 4421 specifically excludes from the term “lottery” any drawing conducted by an organization exempt from tax under section 501 or 521 if no part of the net proceeds derived from such drawing inures to the benefit of any private shareholder or individual. For provisions relating to exemption from income tax under section 501 or 521, see the Income Tax Regulations (Part 1 of this chapter).
+
+(c) *Other terms used*—(1) *Wagering pool.* A wagering pool conducted for profit includes any scheme or method for the distribution of prizes to one or more winning bettors based upon the outcome of a sports event or a contest, or a combination or series of such events or contests, provided such wagering pool is managed and conducted for the purpose of making a profit.
+
+(2) *Sports event.* A sports event includes every type of sports event, whether amateur, scholastic, or professional, such as horse racing, auto racing, dog racing, boxing and wrestling matches and exhibitions, baseball, football, and basketball games, tennis and golf matches, track meets, etc.
+
+(3) *Contest.* A contest includes any type of contest involving speed, skill, endurance, popularity, politics, strength, appearances, etc., such as a general or primary election, the outcome of a nominating convention, a dance marathon, a log-rolling, wood-chopping, weight-lifting, corn-husking, beauty contest, etc.
+
+(4) *Conducted for profit.* A wagering pool or lottery may be conducted for profit even though a direct profit will not inure from the operation thereof. A wagering pool or lottery operated with the expectancy of a profit in the form of increased sales, increased attendance, or other indirect benefits is conducted for profit for purposes of the wagering tax.

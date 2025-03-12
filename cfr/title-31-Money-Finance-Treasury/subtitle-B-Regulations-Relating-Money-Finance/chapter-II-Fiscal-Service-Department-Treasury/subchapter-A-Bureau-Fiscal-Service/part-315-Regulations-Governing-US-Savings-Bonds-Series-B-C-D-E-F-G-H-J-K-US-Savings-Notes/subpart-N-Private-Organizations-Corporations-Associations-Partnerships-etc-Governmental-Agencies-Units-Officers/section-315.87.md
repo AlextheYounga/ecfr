@@ -1,0 +1,5 @@
+##### § 315.87 Payment to governmental agencies, units, or their officers. #####
+
+(a) *Agencies and units.* A bond registered in the name of a State, county, city, town, village, or in the name of a Federal, State, or local governmental agency, such as a board, commission, or corporation, will be paid upon a request signed in the name of the governmental agency or unit by an authorized officer. A request for payment so signed and certified will ordinarily be accepted without further proof of the officer's authority.
+
+(b) *Officers.* A bond registered in the official title of an officer of a governmental agency or unit will be paid upon a request for payment signed by the officer. The request for payment so signed and certified will ordinarily be accepted as proof that the person signing is the incumbent of the office.

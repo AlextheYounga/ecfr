@@ -1,0 +1,11 @@
+##### § 501.2 Subpoenas. #####
+
+(a) *Issuance.* A member of the Commission or a designated employee may, on the member or employee's own volition or upon written application by any party and upon a showing of general relevance and reasonable scope of the evidence sought, issue subpoenas requiring persons to appear and testify or to appear and produce documents. Applications for issuance of subpoenas for production of documents shall specify the books, records, correspondence, or other documents sought. The subpoena will show on its face the name and address of the party at whose request the subpoena was issued.
+
+(b) *Deposit for costs.* The Commission or designated employee, before issuing any subpoena in response to any application by an interested party, may require a deposit in an amount adequate to cover fees and mileage involved.
+
+(c) *Motion to quash.* If any person subpoenaed does not intend to comply with the subpoena, that person must, within 15 days after the date of service of the subpoena, petition in writing to quash the subpoena. The basis for the motion must be stated in detail. Any party desiring to file an answer to a motion to quash must file the answer not later than 15 days after the filing of the motion. The Commission will rule on the motion to quash, duly recognizing any answer thereto filed. The motion, answer, and any ruling thereon will become part of the official record.
+
+(d) *Appeal from interlocutory order.* An appeal may be taken to the Commission by the interested parties from the denial of a motion to quash or from the refusal to issue a subpoena for the production of documentary evidence.
+
+(e) *Order of court upon failure to comply.* Upon the failure or refusal of any person to comply with a subpoena, the Commission may invoke the aid of the United States District Court within the jurisdiction of which the hearing, examination or investigation is being conducted, or wherein that person resides or transacts business, as provided in 22 U.S.C. 1623(c).

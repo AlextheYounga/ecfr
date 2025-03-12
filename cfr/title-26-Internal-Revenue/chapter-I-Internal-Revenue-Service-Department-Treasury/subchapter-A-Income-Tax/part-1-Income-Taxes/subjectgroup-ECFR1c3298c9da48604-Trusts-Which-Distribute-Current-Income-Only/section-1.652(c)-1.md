@@ -1,0 +1,3 @@
+##### § 1.652(c)-1 Different taxable years. #####
+
+If a beneficiary has a different taxable year (as defined in section 441 or 442) from the taxable year of the trust, the amount he is required to include in gross income in accordance with section 652 (a) and (b) is based on the income of the trust for any taxable year or years ending with or within his taxable year. This rule applies to taxable years of normal duration as well as to so-called short taxable years. Income of the trust for its taxable year or years is determined in accordance with its method of accounting and without regard to that of the beneficiary.

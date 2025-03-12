@@ -1,0 +1,5 @@
+##### § 1010.715 Issuing rulings. #####
+
+The Director, FinCEN, or his designee may issue a written ruling interpreting the relationship between this chapter and each situation for which such a ruling has been requested in conformity with § 1010.711. A ruling issued under this section shall bind FinCEN only in the event that the request describes a specifically identified actual situation. A ruling issued under this section shall have precedential value, and hence may be relied upon by others similarly situated, only if FinCEN makes it available to the public through publication on the FinCEN Web site under the heading “Administrative rulings” or other appropriate forum. All rulings with precedential value will be available by mail to any person upon written request specifically identifying the ruling sought. FinCEN will make every effort to respond to each requestor within 90 days of receiving a request.
+
+(Approved by the Office of Management and Budget under control number 1506-0050)[75 FR 65812, Oct. 26, 2010, as amended at 81 FR 76864, Nov. 4, 2016]

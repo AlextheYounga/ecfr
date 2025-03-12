@@ -1,0 +1,3 @@
+##### § 63.21 Obligation and liquidation by grantee. #####
+
+Obligations will be considered to have been incurred by a grantee on the basis of documentary evidence of binding commitments for the acquisition of goods or property or for the performance of work, except that funds for personal services, for services performed by public utilities, for travel, and for the rental of facilities, shall be considered to have been obligated as of the time such services were rendered, such travel was performed, and such rented facilities were used, respectively.

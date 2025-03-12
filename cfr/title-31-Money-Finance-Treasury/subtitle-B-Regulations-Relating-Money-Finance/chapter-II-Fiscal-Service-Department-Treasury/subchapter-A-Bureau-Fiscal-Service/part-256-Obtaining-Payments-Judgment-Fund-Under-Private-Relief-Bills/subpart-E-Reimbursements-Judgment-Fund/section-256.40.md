@@ -1,0 +1,3 @@
+##### § 256.40 When must an agency reimburse the Judgment Fund? #####
+
+Agencies are required to reimburse the Judgment Fund for payments made pursuant to the Contract Disputes Act (CDA), 41 U.S.C. 612, and payments made pursuant to the Notification and Federal Employees Antidiscrimination and Retaliation Act of 2002 (No FEAR), 5 U.S.C. 2301 note. The TFM, available on the Judgment Fund Web site at *http://www.fiscal.treasury.gov/judgefund*, contains more information about how Fiscal Service bills agencies and collects such reimbursements.

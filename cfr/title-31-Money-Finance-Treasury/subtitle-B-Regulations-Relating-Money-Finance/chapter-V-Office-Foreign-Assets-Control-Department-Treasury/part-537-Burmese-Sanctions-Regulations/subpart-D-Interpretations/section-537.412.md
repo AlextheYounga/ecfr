@@ -1,0 +1,5 @@
+##### § 537.412 Investments in entities involved in economic development projects in Burma. #####
+
+(a) The purchase of shares in a third-country company that is engaged in the economic development of resources located in Burma is prohibited by § 537.204 where the company's profits are predominantly derived from the company's economic development of resources located in Burma. The purchase of such shares, however, is authorized by general license pursuant to § 537.530, provided that all conditions of that general license are satisfied.
+
+(b) If a U.S. person holds shares in an entity which subsequently engages predominantly in the economic development of resources located in Burma or subsequently derives its income exclusively or predominantly from such economic development, the U.S. person is not required to relinquish its shares. Owning such shares, and purchasing additional shares is authorized by general license pursuant to § 537.530, provided that all conditions of that general license are satisfied.

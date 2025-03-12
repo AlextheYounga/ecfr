@@ -1,0 +1,3 @@
+##### § 1.1052-3 Basis of property established by the Internal Revenue Code of 1939. #####
+
+Section 1052(c) provides that if property was acquired after February 28, 1913, in a transaction to which the Internal Revenue Code of 1939 applied and the basis thereof was prescribed by section 113(a) (6), (7), (8), (13), (15), (18), (19) or (23) of such Code, then for purposes of subtitle A of the Internal Revenue Code of 1954, the basis shall be the same as the basis prescribed in the Internal Revenue Code of 1939. In such cases, see section 113(a) of the Internal Revenue Code of 1939 and the regulations thereunder.

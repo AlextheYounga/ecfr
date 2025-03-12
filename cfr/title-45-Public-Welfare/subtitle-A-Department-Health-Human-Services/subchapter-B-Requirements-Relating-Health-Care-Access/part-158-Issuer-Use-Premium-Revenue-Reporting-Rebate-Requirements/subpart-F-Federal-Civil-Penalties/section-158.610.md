@@ -1,0 +1,3 @@
+##### § 158.610 Determining the amount of penalty—other matters as justice may require. #####
+
+HHS may take into account other circumstances of an aggravating or mitigating nature if, in the interests of justice, they require either a reduction or an increase of the penalty in order to assure the achievement of the purposes of this part, and if those circumstances relate to the entity's previous record of compliance or the gravity of the violation.

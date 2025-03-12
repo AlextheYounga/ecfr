@@ -1,0 +1,5 @@
+##### § 50.1 Authority. #####
+
+Under the authority of Mutual Educational and Cultural Exchange Act of 1961 (75 Stat. 527) and the Immigration and Nationality Act as amended (84 Stat. 116), the Department of Health and Human Services is an “interested United States Government agency” with the authority to request the Department of State to recommend to the Attorney General waiver of the two-year foreign residence requirement for Exchange Visitors under the Mutual Educational and Cultural Exchange Program. HHS eligibility requirement criteria for waivers are in addition to and independent of the existing waiver and visa criteria established by the Immigration and Naturalization Service (INS), the Department of State, and the Department of Labor. The waiver regulations described in this part do not relieve alien physicians seeking a waiver of the 2-year foreign residence requirement from complying with the terms and conditions imposed on their admission to the United States.
+
+[67 FR 77695, Dec. 19, 2002]

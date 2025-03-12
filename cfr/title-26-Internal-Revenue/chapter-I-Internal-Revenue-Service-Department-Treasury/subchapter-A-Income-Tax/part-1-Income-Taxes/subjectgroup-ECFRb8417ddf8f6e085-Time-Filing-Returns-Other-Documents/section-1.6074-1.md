@@ -1,0 +1,20 @@
+##### § 1.6074-1 Time and place for filing declarations of estimated income tax by corporations. #####
+
+(a) *Taxable years beginning on or before December 31, 1963.* For taxable years ending on or after December 31, 1955, and beginning on or before December 31, 1963, declarations of estimated tax for the taxable year shall be filed on or before the 15th day of the 9th month of such year by every corporation whose then anticipated income tax liability under section 11 or 1201(a), or subchapter L, chapter 1 of the Code, for the year meets the requirements of section 6016(a). If, however, the requirements necessitating the filing of a declaration are first met after the last day of the 8th month and before the first day of the 12th month of the taxable year the declaration shall be filed on or before the 15th day of the 12th month of the taxable year. If, however, the requirements of section 6016(a) are not met before the first day of the 12th month of the taxable year, no declaration need be filed for such year.
+
+(b) *Taxable years beginning after December 31, 1963.* A declaration of estimated tax for a taxable year beginning after December 31, 1963, required of a corporation by section 6016 shall be filed as follows:
+
+|                       If the requirements of section 6016 are first met—                       |   The declaration shall be filed on or before—   |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------|
+|                    before the 1st day of the 4th month of the taxable year                     |the 15th day of the 4th month of the taxable year |
+| after the last day of the 3d month and before the 1st day of the 6th month of the taxable year |the 15th day of the 67th month of the taxable year|
+|after the last day of the 5th month and before the 1st day of the 9th month of the taxable year |the 15th day of the 9th month of the taxable year |
+|after the last day of the 8th month and before the 1st day of the 12th month of the taxable year|the 15th day of the 12th month of the taxable year|
+
+(c) *Place for filing declaration.* Except as provided in paragraph (b) of § 301.6091-1 (relating to hand-carried documents), the declaration of estimated tax shall be filed at the place prescribed by the instructions applicable to such declaration. For example, if the instructions applicable to a declaration provide that the declaration of a corporation located in North Carolina be filed with the Director, Internal Revenue Service Center, Chamblee, Ga., such declaration shall be filed with the service center.
+
+(d) *Amendment of declaration*—(1) *Taxable years beginning on or before December 31, 1963.* A declaration of estimated tax for a taxable year beginning on or before December 31, 1963, which is filed by a corporation prior to the 15th day of the 12th month of the taxable year may be amended in the manner prescribed in § 1.6016-3, at any time on or before such 15th day. An amended declaration shall be filed with the internal revenue officer with whom the original declaration was filed.
+
+(2) *Taxable years beginning after December 31, 1963.* In any case where a declaration of estimated tax for a taxable year beginning after December 31, 1963, has been filed, an amended declaration of estimated tax may be filed during any interval between installment dates prescribed for the taxable year. However, no amended declaration may be filed until after the installment date on or before which the original declaration was filed and only one amended declaration may be filed during each interval between installment dates. See § 1.6016-3 for the manner of making an amended declaration. Except as provided in paragraph (b) of § 301.6091-1 (relating to hand-carried documents), an amended declaration shall be filed with the internal revenue officer with whom the original declaration was filed.
+
+[T.D. 6768, 29 FR 14922, Nov. 4, 1964, as amended by T.D. 6950, 33 FR 5355, Apr. 4, 1968]

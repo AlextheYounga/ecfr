@@ -1,0 +1,3 @@
+##### § 503.29 Requests for information. #####
+
+Requests to the Commission for information about the time, place, and subject matter of a meeting, whether it or any portions thereof are closed to the public, and any requests for copies of the transcript or minutes or of a transcript of an electronic recording of a closed meeting, or closed portion of a meeting, to the extent not exempt from disclosure by the provisions of § 503.24, must be addressed to the Administrative Officer, Foreign Claims Settlement Commission, 600 E Street, NW, Room 6002, Washington, DC 20579, telephone (202) 616-6975.

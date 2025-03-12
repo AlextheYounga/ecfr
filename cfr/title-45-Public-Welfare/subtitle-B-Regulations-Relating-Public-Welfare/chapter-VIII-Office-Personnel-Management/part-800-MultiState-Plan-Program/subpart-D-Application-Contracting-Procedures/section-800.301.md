@@ -1,0 +1,5 @@
+##### § 800.301 Application process. #####
+
+(a) Acceptance of applications. Without regard to 41 U.S.C. 6101(b)-(d), or any other statute requiring competitive bidding, OPM may consider annual applications from health insurance issuers, including groups of health insurance issuers as defined in § 800.20, to participate in the MSP Program. If OPM determines that it is not beneficial for the MSP Program to consider new issuer applications for an upcoming year, OPM will issue a notice to that effect. Each existing MSP issuer may complete a renewal application annually.
+
+(b) *Form and manner of applications.* An applicant must submit to OPM, in the form and manner and in accordance with the timeline specified by OPM, the information requested by OPM for determining whether an applicant meets the requirements of this part.

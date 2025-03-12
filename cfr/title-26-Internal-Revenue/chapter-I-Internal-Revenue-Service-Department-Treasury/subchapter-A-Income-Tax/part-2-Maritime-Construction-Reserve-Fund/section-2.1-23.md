@@ -1,0 +1,17 @@
+##### § 2.1-23 Noncompliance with requirements. #####
+
+(a) *Noncompliance.* The amount of the gain which is that portion of the construction reserve fund otherwise constituting taxable income under the law applicable to the taxable year in which such gain was realized shall be included in the taxpayer's gross income for such taxable year for income or excess-profits tax purposes, if—
+
+(1) A portion of such fund is withdrawn for purposes other than—
+
+(i) The construction, reconstruction, reconditioning, or acquisition of a new vessel; or
+
+(ii) The liquidation of existing or subsequently incurred purchase-money indebtedness to persons other than a parent company of, or a company affiliated or associated with, the mortgagor on a new vessel or vessels; or
+
+(2) The taxpayer fails to comply with the requirements of section 511 of the Act or the regulations in this part relating to the utilization of construction reserve funds in the construction, reconstruction, reconditioning, or acquisition of a new vessel, or the liquidation of purchase-money indebtedness on such a vessel.
+
+If securities on deposit in a construction reserve fund are sold and the amount placed in the fund in lieu thereof is less than the value of the securities at the time of their deposit, the difference between such value and the amount placed in the fund in lieu of the securities will be deemed to have been withdrawn. With respect to the substitution of new financing in the case of an irrevocable commitment, see paragraph (d) of § 2.1-13.
+
+(b) *Amount recognized.* In the event of noncompliance with the prescribed conditions relative to any contract for construction, reconstruction, reconditioning, or acquisition of new vessels, or for the liquidation of purchase-money indebtedness on such vessels, recognition will extend to the entire amount of the gain represented in that portion of the construction reserve fund obligated under such contract. Thus, if the Administration determines and certifies to the Secretary of the Treasury that for causes within the control of the taxpayer construction under a contract is not completed with reasonable dispatch, the entire amount of the gain represented in the portion of the construction reserve fund obligated under the contract will be recognized even though all other conditions have been satisfied. In case of noncompliance with the requirements of section 511 of the Act or the regulations in this part, see the provisions of § 2.1-18 as to the allocation of gain.
+
+(c) *Unreasonable accumulation.* Noncompliance with the provisions of section 511 of the Act or the regulations in this part relative to the utilization of the deposited amounts may also, inasmuch as the provision of section 511(f) of the Act is then inapplicable, warrant an examination to ascertain whether such amounts constitute an unreasonable accumulation of earnings and profits within the meaning of Part I (section 531 and following), Subchapter G, Chapter I of the Internal Revenue Code of 1954, or corresponding provisions of prior law. If amounts are deposited and the fund maintained in good faith for the purpose of construction, reconstruction, reconditioning, and acquisition of new vessels, or for the liquidation of purchase-money indebtedness on such vessels, such amounts will be deemed to have been accumulated for the reasonable needs of the business.

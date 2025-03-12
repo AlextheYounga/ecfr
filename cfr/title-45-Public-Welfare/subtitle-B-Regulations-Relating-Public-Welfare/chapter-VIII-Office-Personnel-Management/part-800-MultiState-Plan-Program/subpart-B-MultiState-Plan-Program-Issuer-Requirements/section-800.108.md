@@ -1,0 +1,7 @@
+##### § 800.108 Assessments and user fees. #####
+
+(a) *Discretion to charge assessment and user fees.* Beginning in plan year 2015, OPM may require an MSP issuer to pay an assessment or user fee as a condition of participating in the MSP Program.
+
+(b) *Determination of amount.* The amount of the assessment or user fee charged by OPM for a plan year is the amount determined necessary by OPM to meet the costs of OPM's functions under the Affordable Care Act for a plan year, including but not limited to such functions as entering into contracts with, certifying, recertifying, decertifying, and overseeing MSP options and MSP issuers for that plan year. The amount of the assessment or user fee charged by OPM will be offset against the assessment or user fee amount required by any State-based Exchange or federally-facilitated Exchange such that the total of all assessments and user fees paid by the MSP issuer for the year for the MSP option shall be no greater than nor less than the amount of the assessment or user fee paid by QHP issuers in that State-based Exchange or federally-facilitated Exchange for that year.
+
+(c) *Process for collecting MSP assessment or user fees.* OPM may require an MSP issuer to make payment of the MSP Program assessment or user fee amount directly to OPM, or may establish other mechanisms for the collection process.

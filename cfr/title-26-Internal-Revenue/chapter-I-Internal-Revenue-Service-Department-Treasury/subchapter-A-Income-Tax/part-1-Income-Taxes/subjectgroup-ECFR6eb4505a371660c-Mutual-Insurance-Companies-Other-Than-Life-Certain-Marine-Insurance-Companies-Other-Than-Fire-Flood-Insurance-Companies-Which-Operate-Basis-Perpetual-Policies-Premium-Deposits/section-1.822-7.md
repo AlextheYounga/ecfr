@@ -1,0 +1,5 @@
+##### § 1.822-7 Amortization of premium and accrual of discount. #####
+
+Section 822(d)(2) makes provision for the appropriate amortization of premium and the appropriate accrual of discount, attributable to the taxable year, on bonds, notes, debentures, or other evidences of indebtedness held by a mutual insurance company subject to the tax imposed by section 821. Such amortization and accrual is the same as that provided for life insurance companies by section 818(b)(1), as amended by the Life Insurance Company Income Tax Act of 1959 (73 Stat. 133), and shall be determined in accordance with paragraphs (a) and (b) of § 1.818-3, except in the case of a mutual insurance company subject to the tax imposed by section 821, paragraph (b) of § 1.818-3 shall apply without regard to the date of acquisition and the basis provided in section 1012 shall be used in lieu of the acquisition value.
+
+[T.D. 6610, 27 FR 8722, Aug. 31, 1962]

@@ -1,0 +1,9 @@
+##### § 1182.9 Identification required when requesting access to Institute records pertaining to an individual. #####
+
+The Institute shall require reasonable identification of all individuals who request access to records in an Institute system to ensure that they are disclosed to the proper person.
+
+(a) The amount of personal identification required will of necessity vary with the sensitivity of the record involved. In general, if you request disclosure in person, you shall be required to show an identification card, such as a driver's license, containing your photograph and sample signature. However, with regard to records in Institute systems that contain particularly sensitive and/or detailed personal information, the Institute reserves the right to require additional means of identification as are appropriate under the circumstances. These means include, but are not limited to, requiring you to sign a statement under oath as to your identity, acknowledging that you are aware of the penalties for improper disclosure under the provisions of the Privacy Act.
+
+(b) If you request disclosure by mail, the Institute will request such information as may be necessary to ensure that you are properly identified. Authorized means to achieve this goal include, but are not limited to, requiring that a mail request include certification that a duly commissioned notary public of any State or territory (or a similar official, if the request is made outside of the United States) received an acknowledgment of identity from you.
+
+(c) If you are unable to provide suitable documentation or identification, the Institute may require a signed, notarized statement asserting your identity and stipulating that you understand that knowingly or willfully seeking or obtaining access to records about another person under false pretenses is punishable by a fine of up to $5,000.

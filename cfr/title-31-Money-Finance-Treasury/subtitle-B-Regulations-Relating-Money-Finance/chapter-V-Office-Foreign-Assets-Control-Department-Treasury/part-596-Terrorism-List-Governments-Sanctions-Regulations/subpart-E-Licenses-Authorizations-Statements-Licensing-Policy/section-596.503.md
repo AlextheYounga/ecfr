@@ -1,0 +1,3 @@
+##### § 596.503 Financial transactions with a Terrorism List Government otherwise subject to 31 CFR chapter V. #####
+
+United States persons are authorized to engage in financial transactions with a Terrorism List Government that is subject to regulations contained in parts of 31 CFR chapter V other than this part to the extent and subject to the conditions stated in such other parts, or in any regulations, orders, directives, rulings, instructions, or licenses issued pursuant thereto.

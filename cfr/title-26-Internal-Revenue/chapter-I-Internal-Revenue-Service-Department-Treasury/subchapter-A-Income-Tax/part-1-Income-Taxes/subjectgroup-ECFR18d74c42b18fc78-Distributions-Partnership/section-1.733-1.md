@@ -1,0 +1,3 @@
+##### § 1.733-1 Basis of distributee partner's interest. #####
+
+In the case of a distribution by a partnership to a partner other than in liquidation of a partner's entire interest, the adjusted basis to such partner of his interest in the partnership shall be reduced (but not below zero) by the amount of any money distributed to such partner and by the amount of the basis to him of distributed property other than money as determined under section 732 and §§ 1.732-1 and 1.732-2.

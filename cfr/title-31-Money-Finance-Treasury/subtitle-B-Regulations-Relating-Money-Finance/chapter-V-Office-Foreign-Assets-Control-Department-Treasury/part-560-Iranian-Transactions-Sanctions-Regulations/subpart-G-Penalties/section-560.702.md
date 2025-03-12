@@ -1,0 +1,3 @@
+##### § 560.702 Detention of shipments. #####
+
+Import shipments into the United States of Iranian-origin goods in violation of § 560.201 and export shipments from the United States of goods destined for Iran in violation of § 560.204 shall be detained. No such import, export, or reexport will be permitted to proceed, except as specifically authorized by or on behalf of the Secretary of the Treasury. Unless licensed, such shipments are subject to penalty or seizure and forfeiture action, under the customs laws or other applicable provisions of law, depending on the circumstances.

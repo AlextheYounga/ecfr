@@ -1,0 +1,3 @@
+##### § 0.205 Controlled substances and intoxicants. #####
+
+Employees shall not sell, offer to sell, buy, offer to buy, use, or possess, controlled substances in violation of federal law. Employees shall not use or be under the influence of alcohol in a manner that adversely affects their work performance. Employees may consume alcohol on Department property only when authorized in accordance with Department or bureau policies and directives.

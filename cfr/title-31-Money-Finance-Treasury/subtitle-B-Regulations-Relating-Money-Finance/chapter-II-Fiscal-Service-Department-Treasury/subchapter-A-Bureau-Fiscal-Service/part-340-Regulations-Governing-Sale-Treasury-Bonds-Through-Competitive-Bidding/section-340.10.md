@@ -1,0 +1,3 @@
+##### § 340.10 Payment for and delivery of bonds. #####
+
+Payment for the bonds, including accrued interest, if any, must be made in immediately available funds on the date and at the place specified in the invitation. Delivery of bonds under this section will be made at the risk and expense of the United States at such place or places in the United States as may be provided in the invitation. Interim receipts, if necessary, will be issued pending delivery of the definitive bonds.

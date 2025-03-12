@@ -1,0 +1,3 @@
+##### § 510.406 Offshore transactions involving blocked property. #####
+
+The prohibitions in § 510.201 on transactions or dealings involving blocked property (including a blocked account) apply to transactions by any U.S. person in a location outside the United States with respect to property held in the name of the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201(a) or any property blocked by § 510.201(d).

@@ -1,0 +1,11 @@
+##### § 31.3406(g)-1T Exception for payments to certain payees and certain other payments (temporary). #####
+
+(a) through (d) [Reserved] For further guidance, see § 31.3406(g)-1(a) through (d).
+
+(e) *Certain reportable payments made outside the United States by foreign persons, foreign offices of United States banks and brokers, and others.* For reportable payments made after June 30, 2014, a payor is not required to backup withhold under section 3406 on a reportable payment that is paid and received outside the United States (as defined in § 1.6049-4(f)(16)) with respect to an offshore obligation (as defined in § 1.6049-5(c)(1)) or on gross proceeds from a sale effected outside the United States (as defined in § 1.6045-1(g)(3)(iii)), unless the payor has actual knowledge that the payee is a United States person. Further, no backup withholding is required on a reportable payment of an amount already withheld upon by a participating FFI (as defined in § 1.1471-1(b)(91)) or another payor in accordance with the withholding provisions under chapters 3 or 4 of the Code and the regulations under those chapters even if the payee is a known U.S. person. For example, a participating FFI is not required to backup withhold on a reportable payment allocable to its chapter 4 withholding rate pool (as defined in § 1.6049-4(f)(5)) of recalcitrant account holders (as described in § 1.6049-4(f)(11)), if withholding was applied to the payment (either by the participating FFI or another payor) pursuant to § 1.1471-4(b) or § 1.1471-2(a). For rules applicable to notional principal contracts, see § 1.6041-1(d)(5) of this chapter. For rules applicable to reportable payments made before July 1, 2014, see this paragraph (e) as in effect and contained in 26 CFR part 1 revised April 1, 2013.)
+
+(f) [Reserved] For further guidance, see § 31.3406(g)-1(f) introductory text through (f)(5).
+
+(g) *Expiration date.* The applicability of this section expires on February 28, 2017.
+
+[T.D. 9658, 79 FR 12808, Mar. 6, 2014, as amended by T.D. 9658, 79 FR 37189, July 1, 2014]

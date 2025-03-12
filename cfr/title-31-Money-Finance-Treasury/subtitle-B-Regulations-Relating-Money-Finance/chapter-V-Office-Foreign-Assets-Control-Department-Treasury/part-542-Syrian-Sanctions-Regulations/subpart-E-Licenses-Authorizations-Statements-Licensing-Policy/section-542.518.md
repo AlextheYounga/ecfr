@@ -1,0 +1,3 @@
+##### § 542.518 Payments for overflights of Syrian airspace or emergency landings in Syria authorized. #####
+
+Payments to Syria of charges for services rendered by the Government of Syria in connection with the overflight of Syria or emergency landing in Syria of aircraft owned or operated by a United States person or registered in the United States are authorized, provided that no payment may be made by, to, or through any person whose property and interests in property are blocked pursuant to § 542.201(a) other than the Government of Syria.

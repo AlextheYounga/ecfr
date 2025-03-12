@@ -1,0 +1,3 @@
+##### § 1703.104 Open meeting policy. #####
+
+The public is entitled to the fullest practicable information regarding the decision-making processes of the Commission. Commission meetings involving deliberations which determine or result in the joint conduct or disposition of official Commission business are presumptively open to the public. It is the intent of these regulations to open such meetings to public observation while protecting individuals' rights and the Commission's ability to carry out its responsibilities. Meetings or portions of meetings may be closed to public observation only if closure can be justified under one of the provisions set forth in § 1703.202.

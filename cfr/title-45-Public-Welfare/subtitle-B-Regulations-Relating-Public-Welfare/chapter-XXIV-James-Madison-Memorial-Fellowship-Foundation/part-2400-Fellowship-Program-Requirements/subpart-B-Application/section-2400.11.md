@@ -1,0 +1,3 @@
+##### § 2400.11 Faculty representatives. #####
+
+Each college and university that chooses to do so may annually appoint or reappoint a faculty representative who will be asked to identify and recruit fellowship applicants on campus, publicize the annual competition on campus, and otherwise assist eligible candidates in preparation for applying. In order to elicit the appointment of faculty representatives, the Foundation will each year request the head of each college and university campus to appoint or reappoint a faculty representative and to provide the Foundation with the name, business address, and business telephone number of a member of its faculty representative on forms provided for that purpose.

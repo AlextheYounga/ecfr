@@ -1,0 +1,9 @@
+##### § 49.4261-1 Imposition of tax; in general. #####
+
+(a) *Transportation beginning before November 16, 1962.* Section 4261 imposes a tax equal to 10 percent of the amount paid for taxable transportation of persons by rail, motor vehicle, water, or air which begins before November 16, 1962. For the definition of the term “taxable transportation”, see section 4262 and §§ 49.4262(a)-1 and 49.4262 (b)-1. The tax accrues at the time payment is made for the transportation, irrespective of when the transportation is furnished if the transportation actually begins before November 16, 1962.
+
+(b) *Transportation beginning after November 15, 1962.* Section 4261 imposes a tax equal to 5 percent of the amount paid for the air portion of taxable transportation of persons which begins after November 15, 1962, and before July 1, 1965. For definition of the term “taxable transportation”, see section 4262 and §§ 49.4262(a)-1 and 49.4262 (b)-1. The tax accrues at the time payment is made for the transportation, irrespective of when the transportation is furnished if the transportation actually begins after November 15, 1962, and before July 1, 1965.
+
+(c) *In general.* The purpose of the transportation, whether business or pleasure, is immaterial. It is not necessary that the transportation be between two definite points. If not otherwise exempt, a payment for continuous transportation beginning and ending at the same point is subject to the tax. For the rate of tax with respect to amounts paid for seating and sleeping accommodations in connection with taxable transportation, see § 49.4261-9.
+
+[T.D. 6618, 27 FR 11222, Nov. 14, 1962, as amended by T.D. 6753, 29 FR 12718, Sept. 9, 1964]

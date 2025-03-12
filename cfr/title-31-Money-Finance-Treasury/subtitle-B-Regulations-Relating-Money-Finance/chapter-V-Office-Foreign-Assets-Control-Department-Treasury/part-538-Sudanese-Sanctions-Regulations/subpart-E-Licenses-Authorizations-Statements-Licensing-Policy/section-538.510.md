@@ -1,0 +1,3 @@
+##### § 538.510 Importation and exportation of certain gifts authorized. #####
+
+The importation into the United States of Sudanese-origin goods, and the exportation from the United States of goods, is authorized for goods sent as gifts to persons provided that the value of the gift is not more than $100; the goods are of a type and in quantities normally given as gifts between individuals; and the goods are not controlled for chemical and biological weapons (CB), missile technology (MT), national security (NS), or nuclear proliferation (NP)(see Commerce Control List, 15 CFR part 774 of the Export Administration Regulations).

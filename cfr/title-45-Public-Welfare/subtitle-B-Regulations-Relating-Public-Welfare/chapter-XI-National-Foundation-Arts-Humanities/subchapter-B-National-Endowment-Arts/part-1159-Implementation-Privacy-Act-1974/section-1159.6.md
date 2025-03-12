@@ -1,0 +1,5 @@
+##### § 1159.6 What limits exist as to the contents of the Endowment's systems of records? #####
+
+(a) The Endowment shall maintain only such information about an individual as is relevant and necessary to accomplish a purpose of the agency required by statute or by executive order of the President. In addition, the Endowment shall maintain all records that are used in making determinations about any individual with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to ensure fairness to that individual in the making of any determination about him or her. However, the Endowment shall not be required to update retired records.
+
+(b) The Endowment shall not maintain any record about any individual with respect to or describing how such individual exercises rights guaranteed by the First Amendment of the Constitution of the United States, unless expressly authorized by statute or by the subject individual, or unless pertinent to and within the scope of an authorized law enforcement activity.

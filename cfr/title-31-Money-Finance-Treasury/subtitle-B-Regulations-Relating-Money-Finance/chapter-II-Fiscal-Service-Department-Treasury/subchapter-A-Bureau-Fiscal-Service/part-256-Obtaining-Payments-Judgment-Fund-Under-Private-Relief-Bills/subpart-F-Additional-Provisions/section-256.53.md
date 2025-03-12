@@ -1,0 +1,3 @@
+##### § 256.53 How does the submitting agency know when payment is made? #####
+
+Fiscal Service will e-mail the agency contact when payment is disbursed, if the agency contact has provided an email address on the appropriate Judgment Fund form. Also, Fiscal Service maintains an on-line payment status system that the submitting agency can access to determine the status of a payment. The payment reporting system can be accessed from the Judgment Fund Web site at *http://www.fiscal.treasury.gov/judgefund.*

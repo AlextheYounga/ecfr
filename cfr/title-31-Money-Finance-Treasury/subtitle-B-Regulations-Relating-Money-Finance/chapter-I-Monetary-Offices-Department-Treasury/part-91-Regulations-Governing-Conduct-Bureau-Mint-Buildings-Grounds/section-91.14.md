@@ -1,0 +1,3 @@
+##### § 91.14 Penalties and other law. #####
+
+Whoever shall be found guilty of violating any of the regulations in this part while on the property is subject to a fine of not more than $50, or imprisonment of not more than 30 days, or both (40 U.S.C. 318c). Nothing contained in the regulations in this part shall be construed to abrogate any other Federal laws or regulations or those of any State or municipality applicable to the property referred to in § 91.2 and governed by the regulations in this part.

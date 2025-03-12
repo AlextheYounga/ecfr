@@ -1,0 +1,5 @@
+##### § 641.15 Preliminary environmental review. #####
+
+(a) The responsible official shall be notified early in the general planning process of actions proposed by USAP components that may have impacts on the Antarctic environment, so that environmental review may be integrated into the planning and decisionmaking processes. The responsible official shall conduct a preliminary environmental review of each action, including consideration of the potential direct and reasonably foreseeable indirect effects of a proposed action on the Antarctic environment.
+
+(b) If, on the basis of the preliminary environmental review, the responsible official determines that an action will have less than a minor or transitory impact on the Antarctic environment, he will prepare an Environmental Action Memorandum briefly summarizing the environmental issues considered and conclusions drawn from the review. No further environmental review shall be necessary.

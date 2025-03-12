@@ -1,0 +1,3 @@
+##### § 50.6 Ascertainment of quantity mined. #####
+
+Each person engaged in hydraulic mining operations within the scope of the tax shall make or cause to be made appropriate surveys of the premises on which such hydraulic mining operations are conducted for the purpose of determining the cubic yardage mined from the natural bank. Such surveys shall be made at the beginning and end of hydraulic mining operations in each taxable year by a licensed engineer or other qualified agency having prior approval of the California Debris Commission, and shall conform to requirements prescribed by the California Debris Commission.

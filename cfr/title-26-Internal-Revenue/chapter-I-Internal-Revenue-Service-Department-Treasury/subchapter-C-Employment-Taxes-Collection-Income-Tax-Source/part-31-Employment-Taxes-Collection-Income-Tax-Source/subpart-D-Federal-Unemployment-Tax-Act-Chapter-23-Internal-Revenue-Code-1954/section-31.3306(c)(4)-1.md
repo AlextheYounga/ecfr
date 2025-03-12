@@ -1,0 +1,15 @@
+##### § 31.3306(c)(4)-1 Services on or in connection with a non-American vessel or aircraft. #####
+
+(a) Services performed within the United States by an employee for an employer “on or in connection with” a vessel not an American vessel, or “on or in connection with” an aircraft not an American aircraft, are excepted from employment if the employee is employed by the employer “on and in connection with” the vessel or aircraft when outside the United States.
+
+(b) An employee performs services on and in connection with the vessel or aircraft if he performs services on the vessel or aircraft when outside the United States which are also in connection with the vessel or aircraft. Services performed on the vessel outside the United States by employees as officers or members of the crew, or by employees of concessionaires, of the vessel, for example, are performed under such circumstances, since such services are also connected with the vessel. Similarly, services performed on the aircraft outside the United States by employees as officers or members of the crew of the aircraft are performed on and in connection with such aircraft. Services may be performed on the vessel or aircraft, however, which have no connection with it, as in the case of services performed by an employee while on the vessel or aircraft merely as a passenger in the general sense. For example, the services of a buyer in the employ of a department store while he is a passenger on a vessel are not in connection with the vessel.
+
+(c) The expression “on or in connection with” refers not only to services performed on the vessel or aircraft but also to services connected with the vessel or aircraft which are not actually performed on it (for example, shore services performed as officers or members of the crew, or as employees of concessionaires, of the vessel).
+
+(d) The citizenship or residence of the employee and the place where the contract of service is entered into are immaterial for purposes of this exception, and the citizenship or residence of the person employing him is material only in case it has a bearing in determining whether the vessel is an American vessel. For definitions of the terms “vessel” and “aircraft”, see paragraph (c)(2)(v) of § 31.3306(c)-2. For definitions of the terms “American vessel” and “American aircraft”, see § 31.3306(m)-1.
+
+(e) Since the only services performed outside the United States which constitute employment are those described in section 3306(c) and paragraph (c) of § 31.3306(c)-2 (relating to services performed outside the United States on or in connection with an American vessel or American aircraft), services performed outside the United States on or in connection with a vessel not an American vessel, or an aircraft not an American aircraft, do not constitute employment in any event.
+
+(f) The provisions of section 3306(c) (4) and of this section, insofar as they relate to services performed on or in connection with an aircraft not an American aircraft, apply only to services performed after 1961 for which remuneration is paid after 1961.
+
+[T.D. 6658, 28 FR 6637, June 27, 1963]

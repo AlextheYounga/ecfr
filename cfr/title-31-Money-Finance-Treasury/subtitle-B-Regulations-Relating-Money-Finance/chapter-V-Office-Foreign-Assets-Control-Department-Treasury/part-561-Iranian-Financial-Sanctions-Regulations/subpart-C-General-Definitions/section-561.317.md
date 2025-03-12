@@ -1,0 +1,3 @@
+##### § 561.317 Money service businesses. #####
+
+The term *money service**businesses* means any agent, agency, branch, or office of any person doing business, whether or not on a regular basis or as an organized business concern, in one or more of the capacities listed in 31 CFR 103.11(uu)(1) through (5). The term does not include a bank or a person registered with, and regulated or examined by, the Securities and Exchange Commission or the Commodity Futures Trading Commission.

@@ -1,0 +1,3 @@
+##### § 598.202 Blocking of assets. #####
+
+Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date, there are blocked as of the effective date, and any date thereafter, all such property and interests in property within the United States, or within the possession or control of any United States person, which are owned or controlled by a specially designated narcotics trafficker.

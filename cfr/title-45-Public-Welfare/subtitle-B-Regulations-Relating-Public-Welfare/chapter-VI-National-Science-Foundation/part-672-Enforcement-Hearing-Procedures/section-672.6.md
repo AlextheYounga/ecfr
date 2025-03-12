@@ -1,0 +1,15 @@
+##### § 672.6 Appearances. #####
+
+(a) *Appearances.* Any party may appear in person or by counsel or other representative. A partner may appear on behalf of a partnership and an officer may appear on behalf of a corporation. Persons who appear as counsel or other representative must conform to the standards of conduct and ethics required of practitioners before the courts of the United States.
+
+(b) *Intervention.* A motion for leave to intervene in any proceeding conducted under these rules must set forth the grounds for the proposed intervention, the position and interest of the movant, and whether the intervention will cause delay. Any person already a party to the proceeding may file an answer to a motion to intervene, making specific reference to the factors set forth in the foregoing sentence and paragraph (c) of this section, within ten (10) days after service of the motion for leave to intervene.
+
+(c) A motion for leave to intervene in a proceeding must ordinarily be filed before the first prehearing conference, or if there is no such conference, prior to the setting of a time and place for a hearing. Any motion filed after that time must include, in addition to the information set forth in paragraph (b) of this section, a statement of good cause for the failure to file in a timely manner. Agreements, arrangements, and other matters previously resolved during the proceeding are binding on the intervenor.
+
+(d) *Disposition.* The Presiding Officer may grant leave to intervene only if the movant demonstrates that (1) his presence in the proceeding would not unduly prolong or otherwise prejudice the adjudication of the rights of the original parties; (2) the movant will be adversely affected by a final order; and (3) the interests of the movant are not being adequately represented by the original parties. The intervenor becomes a full party to the proceeding upon the granting of leave to intervene.
+
+(e) *Amicus curiae.* Persons not parties to the proceeding who wish to file briefs may so move. The motion shall identify the interest of the applicant and shall state the reasons why the proposed amicus brief is desirable. If the motion is granted, the Presiding Officer or Director shall issue an order setting the time for filing such brief. An amicus curiae is eligible to participate in any briefing after his motion is granted, and shall be served with all briefs, motions, and orders relating to issues to be briefed.
+
+(f) *Consolidation.* The Presiding Officer may, by motion or sua sponte, consolidate any or all matters at issue in two or more proceedings docketed under these rules where (1) there exists common parties or common questions of fact or law; (2) consolidation would expedite and simplify consideration of the issues; and (3) consolidation would not adversely affect the rights of parties engaged in otherwise separate proceedings.
+
+(g) *Severance.* The Presiding Officer may, by motion or sua sponte, for good cause shown order any proceedings severed with respect to any or all parties or issues.

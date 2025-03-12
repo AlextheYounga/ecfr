@@ -1,0 +1,3 @@
+##### § 560.208 Prohibited facilitation by United States persons of transactions by foreign persons. #####
+
+Except as otherwise authorized pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to May 7, 1995, no United States person, wherever located, may approve, finance, facilitate, or guarantee any transaction by a foreign person where the transaction by that foreign person would be prohibited by this part if performed by a United States person or within the United States.

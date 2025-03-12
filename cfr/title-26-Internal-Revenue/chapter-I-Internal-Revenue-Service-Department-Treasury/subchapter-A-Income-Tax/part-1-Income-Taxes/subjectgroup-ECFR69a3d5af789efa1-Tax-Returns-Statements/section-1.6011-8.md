@@ -1,0 +1,7 @@
+##### § 1.6011-8 Requirement of income tax return for taxpayers who claim the premium tax credit under section 36B. #####
+
+(a) *Requirement of return.* Except as otherwise provided in this paragraph (a), a taxpayer who receives the benefit of advance payments of the premium tax credit under section 36B must file an income tax return for that taxable year on or before the due date for the return (including extensions of time for filing) and reconcile the advance credit payments. However, if advance credit payments are made for coverage of an individual for whom no taxpayer claims a personal exemption deduction, the taxpayer who attests to the Exchange to the intention to claim a personal exemption deduction for the individual as part of the determination that the taxpayer is eligible for advance credit payments must file a tax return and reconcile the advance credit payments.
+
+(b) *Effective/applicability date.* Except as otherwise provided, this section applies for taxable years beginning after December 31, 2016. Paragraph (a) of § 1.6011-8 as contained in 26 CFR part I edition revised as of April 1, 2016, applies to taxable years ending after December 31, 2013, and beginning before January 1, 2017.
+
+[T.D. 9804, 81 FR 91768, Dec. 19, 2016]

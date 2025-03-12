@@ -1,0 +1,3 @@
+##### § 515.314 Banking institution. #####
+
+The term *banking institution* shall include any person engaged primarily or incidentally in the business of banking, of granting or transferring credits, or of purchasing or selling foreign exchange or procuring purchases and sellers thereof, as principal or agent, or any person holding credits for others as a direct or incidental part of his business, or any broker; and, each principal, agent, home office, branch or correspondent of any person so engaged shall be regarded as a separate “banking institution.”

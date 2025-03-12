@@ -1,0 +1,5 @@
+##### § 83.10 General obligations. #####
+
+(a) *Eligibility for support.* No entity will be provided Federal support unless such entity has furnished the Director assurances satisfactory to him or her that it will not discriminate on the basis of sex, in violation of this part, in the admission of individuals to each of its training programs.
+
+(b) *Eliminating the effects of discrimination.* An assurance of compliance with this part will not be satisfactory to the Director if the entity submitting such assurance fails to take whatever remedial action in accordance with § 83.3(a) that is necessary for such entity to eliminate the effects of any discrimination on the basis of sex in the admission of individuals to its training programs that such entity practiced prior to the submission to the Director of such assurance, or practices at the time of or subsequent to such submission. The Director may require such entity, as a condition to determining that its assurance is, or remains, satisfactory, to take specific actions, or to submit to him or her specific information, bearing upon compliance with this part.

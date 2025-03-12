@@ -1,0 +1,5 @@
+##### § 535.219 Discharge of obligation by compliance with this part. #####
+
+Compliance with §§ 535.210, 535.211, 535.212, 535.213, 535.214 and 535.215, or any other orders, regulations, instructions or directions issued pursuant to this part licensing, authorizing, directing or compelling the transfer of the assets described in those sections, shall, to the extent thereof, be a full acquittance and discharge for all purposes of the obligation of the person making the same. No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, such orders, regulations, instructions or directions.
+
+(Secs. 201-207, 91 Stat. 1626, 50 U.S.C. 1701-1706; E.O. 12170, 44 FR 65729; E.O. 12205, 45 FR 24099; E.O. 12211, 45 FR 26685; E.O. 12276, 46 FR 7913; E.O. 12279, 46 FR 7919; E.O. 12280, 46 FR 7921; E.O. 12281, 46 FR 7923; E.O. 12282, 46 FR 7925; E.O. 12283, 46 FR 7927, and E.O. 12294, 46 FR 14111)[46 FR 14334, Feb. 26, 1981]

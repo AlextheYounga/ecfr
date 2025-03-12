@@ -1,0 +1,23 @@
+##### § 1.1032-2 Disposition by a corporation of stock of a controlling corporation in certain triangular reorganizations. #####
+
+(a) *Scope.* This section provides rules for certain triangular reorganizations described in § 1.358-6(b) when the acquiring corporation (*S*) acquires property or stock of another corporation (*T*) in exchange for stock of the corporation (*P*) in control of *S.*
+
+(b) *General nonrecognition of gain or loss.* For purposes of § 1.1032-1(a), in the case of a forward triangular merger, a triangular C reorganization, or a triangular B reorganization (as described in § 1.358-6(b)), *P* stock provided by *P* to *S,* or directly to *T* or *T*'s shareholders on behalf of *S,* pursuant to the plan of reorganization is treated as a disposition by *P* of shares of its own stock for *T*'s assets or stock, as applicable. For rules governing the use of *P* stock in a reverse triangular merger, see section 361.
+
+(c) *Treatment of S. S* must recognize gain or loss on its exchange of *P* stock as consideration in a forward triangular merger, a triangular C reorganization, or a triangular B reorganization (as described in § 1.358-6(b)), if *S* did not receive the *P* stock from *P* pursuant to the plan of reorganization. See § 1.358-6(d) for the effect on *P*'s basis in its *S* or *T* stock, as applicable. For rules governing *S*'s use of *P* stock in a reverse triangular merger, see section 361.
+
+(d) *Examples.* The rules of this section are illustrated by the following examples. For purposes of these examples, *P, S,* and *T* are domestic corporations, *P* and *S* do not file consolidated returns, *P* owns all of the only class of *S* stock, the *P* stock exchanged in the transaction satisfies the requirements of the applicable reorganization provisions, and the facts set forth the only corporate activity.
+
+Example 1. Forward triangular merger solely for P stock.(a) *Facts. T* has assets with an aggregate basis of $60 and fair market value of $100 and no liabilities. Pursuant to a plan, *P* forms *S* by transferring $100 of *P* stock to *S* and *T* merges into *S.* In the merger, the *T* shareholders receive, in exchange for their *T* stock, the *P* stock that *P* transferred to *S.* The transaction is a reorganization to which sections 368(a)(1)(A) and (a)(2)(D) apply.
+
+(b) *No gain or loss recognized on the use of P stock.* Under paragraph (b) of this section, the *P* stock provided by *P* pursuant to the plan of reorganization is treated for purposes of § 1.1032-1(a) as disposed of by *P* for the *T* assets acquired by *S* in the merger. Consequently, neither *P* nor *S* has taxable gain or deductible loss on the exchange.
+
+Example 2. Forward triangular merger solely for P stock provided in part by S.(a) *Facts. T* has assets with an aggregate basis of $60 and fair market value of $100 and no liabilities. *S* is an operating company with substantial assets that has been in existence for several years. *S* also owns *P* stock with a $20 adjusted basis and $30 fair market value. *S* acquired the *P* stock in an unrelated transaction several years before the reorganization. Pursuant to a plan, *P* transfers additional *P* stock worth $70 to *S* and *T* merges into *S.* In the merger, the *T* shareholders receive $100 of *P* stock ($70 of *P* stock provided by *P* to *S* as part of the plan and $30 of *P* stock held by *S* previously). The transaction is a reorganization to which sections 368(a)(1)(A) and (a)(2)(D) apply.
+
+(b) *Gain or loss recognized by S on the use of its P* stock. Under paragraph (b) of this section, the $70 of *P* stock provided by *P* pursuant to the plan of reorganization is treated as disposed of by *P* for the *T* assets acquired by *S* in the merger. Consequently, neither *P* nor *S* has taxable gain or deductible loss on the exchange of those shares. Under paragraph (c) of this section, however, *S* recognizes $10 of gain on the exchange of its *P* stock in the reorganization because *S* did not receive the *P* stock from *P* pursuant to the plan of reorganization. See § 1.358-6(d) for the effect on *P*'s basis in its *S* stock.
+
+(e) *Stock options.* The rules of this section shall apply to an option to buy or sell P stock issued by P in the same manner as the rules of this section apply to P stock.
+
+(f) *Effective dates.* This section applies to triangular reorganizations occurring on or after December 23, 1994, except for paragraph (e) of this section, which applies to transfers of stock options occurring on or after May 16, 2000.
+
+[T.D. 8648, 60 FR 66081, Dec. 21, 1995, as amended by T.D. 8883, 65 FR 31076, May 16, 2000]

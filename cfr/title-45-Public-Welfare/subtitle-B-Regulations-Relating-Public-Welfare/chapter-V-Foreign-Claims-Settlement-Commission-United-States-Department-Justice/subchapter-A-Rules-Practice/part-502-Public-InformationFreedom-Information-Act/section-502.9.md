@@ -1,0 +1,3 @@
+##### § 502.9 Effect of non-compliance. #####
+
+No decision, statement of policy, interpretation, or staff manual or instruction that affects any member of the public will be relied upon, used, or cited as precedent by the Commission against any private party unless it has been indexed and either made available or published as provided by this part, or unless that private party has actual and timely notice of the terms thereof.

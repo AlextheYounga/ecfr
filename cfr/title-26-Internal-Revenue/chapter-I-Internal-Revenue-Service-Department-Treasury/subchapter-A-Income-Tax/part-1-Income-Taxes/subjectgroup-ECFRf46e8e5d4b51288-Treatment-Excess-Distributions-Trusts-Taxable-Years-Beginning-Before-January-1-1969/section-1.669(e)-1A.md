@@ -1,0 +1,7 @@
+##### § 1.669(e)-1A Pro rata portion of taxes deemed distributed. #####
+
+(a) If a capital gain distribution is deemed under § 1.669(a)-1A to be distributed on the last day of a preceding taxable year and the amount is less than the undistributed capital gain for such preceding taxable year, then an additional amount is also deemed to have been properly distributed. The additional amount is equal to the “taxes imposed on the trust attributable to the undistributed capital gain” (as defined in § 1.665(d)-1A(c)) for such preceding taxable year, multiplied by a fraction, the numerator of which is the amount of the capital gain distribution allocated to such preceding taxable year and the denominator of which is the undistributed capital gain for such preceding taxable year. See paragraph (b) of example 1 and paragraphs (c) and (f) of example 2 in § 1.669(e)-2A for illustrations of this paragraph.
+
+(b) For the purpose of paragraph (a) of this section, the undistributed capital gain of any preceding taxable year and the taxes imposed on the trust for such preceding taxable year attributable to such undistributed capital gain are computed after taking into account any capital gain distributions of any taxable years intervening between such preceding taxable year and the taxable year. See paragraph (c) of § 1.669(a)-1A, paragraph (c) of example 1 and paragraphs (e) and (h) of example 2 in § 1.669(e)-2A.
+
+[T.D. 7204, 37 FR 17156, Aug. 25, 1972]

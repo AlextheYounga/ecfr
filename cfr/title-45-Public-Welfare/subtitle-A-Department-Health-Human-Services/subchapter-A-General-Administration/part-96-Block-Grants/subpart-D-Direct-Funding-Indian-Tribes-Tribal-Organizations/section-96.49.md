@@ -1,0 +1,5 @@
+##### § 96.49 Due date for receipt of all information required for completion of tribal applications for the low-income home energy assistance block grants. #####
+
+Effective beginning in FY 2001, for the low-income home energy assistance program, Indian tribes and tribal organizations that make requests for direct funding from the Department must insure that all information necessary to complete their application is received by December 15 of the fiscal year for which funds are requested, unless the State(s) in which the tribe is located agrees to a later date. After December 15, funds will revert to the State(s) in which the tribe is located, unless the State(s) agrees to a later date. If funds revert to a State, the State is responsible for providing low-income home energy assistance program services to the service population of the tribe.
+
+[64 FR 55857, Oct. 15, 1999]

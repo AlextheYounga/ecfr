@@ -1,0 +1,3 @@
+##### § 354.9 Liability of Sallie Mae and Federal Reserve Banks. #####
+
+Sallie Mae and the Federal Reserve Banks may rely on the information provided in a Transfer Message, and are not required to verify the information. Sallie Mae and the Federal Reserve Banks shall not be liable for any action taken in accordance with the information set out in a Transfer Message or evidence submitted in support thereof.

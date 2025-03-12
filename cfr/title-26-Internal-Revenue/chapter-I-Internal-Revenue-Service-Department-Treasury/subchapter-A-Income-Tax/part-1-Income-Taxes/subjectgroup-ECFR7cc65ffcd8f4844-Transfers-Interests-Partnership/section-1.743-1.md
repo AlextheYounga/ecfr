@@ -1,0 +1,234 @@
+##### § 1.743-1 Optional adjustment to basis of partnership property. #####
+
+(a) *Generally.* The basis of partnership property is adjusted as a result of the transfer of an interest in a partnership by sale or exchange or on the death of a partner only if the election provided by section 754 (relating to optional adjustments to the basis of partnership property) is in effect with respect to the partnership. Whether or not the election provided in section 754 is in effect, the basis of partnership property is not adjusted as the result of a contribution of property, including money, to the partnership.
+
+(b) *Determination of adjustment.* In the case of the transfer of an interest in a partnership, either by sale or exchange or as a result of the death of a partner, a partnership that has an election under section 754 in effect -
+
+(1) Increases the adjusted basis of partnership property by the excess of the transferee's basis for the transferred partnership interest over the transferee's share of the adjusted basis to the partnership of the partnership's property; or
+
+(2) Decreases the adjusted basis of partnership property by the excess of the transferee's share of the adjusted basis to the partnership of the partnership's property over the transferee's basis for the transferred partnership interest.
+
+(c) *Determination of transferee's basis in the transferred partnership interest.* In the case of the transfer of a partnership interest by sale or exchange or as a result of the death of a partner, the transferee's basis in the transferred partnership interest is determined under section 742 and § 1.742-1. See also section 752 and §§ 1.752-1 through 1.752-5.
+
+(d) *Determination of transferee's share of the adjusted basis to the partnership of the partnership's property* - (1) *Generally.* A transferee's share of the adjusted basis to the partnership of partnership property is equal to the sum of the transferee's interest as a partner in the partnership's previously taxed capital, plus the transferee's share of partnership liabilities. Generally, a transferee's interest as a partner in the partnership's previously taxed capital is equal to -
+
+(i) The amount of cash that the transferee would receive on a liquidation of the partnership following the hypothetical transaction, as defined in paragraph (d)(2) of this section (to the extent attributable to the acquired partnership interest); increased by
+
+(ii) The amount of tax loss (including any remedial allocations under § 1.704-3(d)), that would be allocated to the transferee from the hypothetical transaction (to the extent attributable to the acquired partnership interest); and decreased by
+
+(iii) The amount of tax gain (including any remedial allocations under § 1.704-3(d)), that would be allocated to the transferee from the hypothetical transaction (to the extent attributable to the acquired partnership interest).
+
+(2) *Hypothetical transaction defined.* For purposes of paragraph (d)(1) of this section, the hypothetical transaction means the disposition by the partnership of all of the partnership's assets, immediately after the transfer of the partnership interest, in a fully taxable transaction for cash equal to the fair market value of the assets. See § 1.460-4(k)(3)(v)(B) for a rule relating to the computation of income or loss that would be allocated to the transferee from a contract accounted for under a long-term contract method of accounting as a result of the hypothetical transaction.
+
+(3) *Examples.* The provisions of this paragraph (d) are illustrated by the following examples:
+
+Example 1.(i) A is a member of partnership PRS in which the partners have equal interests in capital and profits. The partnership has made an election under section 754, relating to the optional adjustment to the basis of partnership property. A sells its interest to T for $22,000. The balance sheet of the partnership at the date of sale shows the following:
+
+|                   |     Assets      |      |
+|-------------------|-----------------|------|
+|  Adjusted basis   |Fair market value|      |
+|       Cash        |     $5,000      |$5,000|
+|Accounts receivable|     10,000      |10,000|
+|     Inventory     |     20,000      |21,000|
+|Depreciable assets |     20,000      |40,000|
+|       Total       |     55,000      |76,000|
+
+|                  |Liabilities and Capital|       |
+|------------------|-----------------------|-------|
+|Adjusted per books|   Fair market value   |       |
+|   Liabilities    |        $10,000        |$10,000|
+|     Capital:     |                       |       |
+|        A         |        15,000         |22,000 |
+|        B         |        15,000         |22,000 |
+|        C         |        15,000         |22,000 |
+|      Total       |        55,000         |76,000 |
+
+(ii) The amount of the basis adjustment under section 743(b) is the difference between the basis of T's interest in the partnership and T's share of the adjusted basis to the partnership of the partnership's property. Under section 742, the basis of T's interest is $25,333 (the cash paid for A's interest, $22,000, plus $3,333, T's share of partnership liabilities). T's interest in the partnership's previously taxed capital is $15,000 ($22,000, the amount of cash T would receive if PRS liquidated immediately after the hypothetical transaction, decreased by $7,000, the amount of tax gain allocated to T from the hypothetical transaction). T's share of the adjusted basis to the partnership of the partnership's property is $18,333 ($15,000 share of previously taxed capital, plus $3,333 share of the partnership's liabilities). The amount of the basis adjustment under section 743(b) to partnership property therefore, is $7,000, the difference between $25,333 and $18,333.Example 2.A, B, and C form partnership PRS, to which A contributes land (Asset 1) with a fair market value of $1,000 and an adjusted basis to A of $400, and B and C each contribute $1,000 cash. Each partner has $1,000 credited to it on the books of the partnership as its capital contribution. The partners share in profits equally. During the partnership's first taxable year, Asset 1 appreciates in value to $1,300. A sells its one-third interest in the partnership to T for $1,100, when an election under section 754 is in effect. The amount of tax gain that would be allocated to T from the hypothetical transaction is $700 ($600 section 704(c) built-in gain, plus one-third of the additional gain). Thus, T's interest in the partnership's previously taxed capital is $400 ($1,100, the amount of cash T would receive if PRS liquidated immediately after the hypothetical transaction, decreased by $700, T's share of gain from the hypothetical transaction). The amount of T's basis adjustment under section 743(b) to partnership property is $700 (the excess of $1,100, T's cost basis for its interest, over $400, T's share of the adjusted basis to the partnership of partnership property).
+
+(e) *Allocation of basis adjustment.* For the allocation of the basis adjustment under this section among the individual items of partnership property, see section 755 and the regulations thereunder.
+
+(f) *Subsequent transfers.* Where there has been more than one transfer of a partnership interest, a transferee's basis adjustment is determined without regard to any prior transferee's basis adjustment. In the case of a gift of an interest in a partnership, the donor is treated as transferring, and the donee as receiving, that portion of the basis adjustment attributable to the gifted partnership interest. The provisions of this paragraph (f) are illustrated by the following example:
+
+Example.(i) A, B, and C form partnership PRS. A and B each contribute $1,000 cash, and C contributes land with a basis and fair market value of $1,000. When the land has appreciated in value to $1,300, A sells its interest to T1 for $1,100 (one-third of $3,300, the fair market value of the partnership property). An election under section 754 is in effect; therefore, T1 has a basis adjustment under section 743(b) of $100.
+
+(ii) After the land has further appreciated in value to $1,600, T1 sells its interest to T2 for $1,200 (one-third of $3,600, the fair market value of the partnership property). T2 has a basis adjustment under section 743(b) of $200. This amount is determined without regard to any basis adjustment under section 743(b) that T1 may have had in the partnership assets.
+
+(iii) During the following year, T2 makes a gift to T3 of fifty percent of T2's interest in PRS. At the time of the transfer, T2 has a $200 basis adjustment under section 743(b). T2 is treated as transferring $100 of the basis adjustment to T3 with the gift of the partnership interest.
+
+(g) *Distributions* - (1) *Distribution of adjusted property to the transferee* - (i) *Coordination with section 732.* If a partnership distributes property to a transferee and the transferee has a basis adjustment for the property, the basis adjustment is taken into account under section 732. See § 1.732-2(b).
+
+(ii) *Coordination with section 734.* For certain adjustments to the common basis of remaining partnership property after the distribution of adjusted property to a transferee, see § 1.734-2(b).
+
+(2) *Distribution of adjusted property to another partner* - (i) *Coordination with section 732.* If a partner receives a distribution of property with respect to which another partner has a basis adjustment, the distributee does not take the basis adjustment into account under section 732.
+
+(ii) *Reallocation of basis.* A transferee with a basis adjustment in property that is distributed to another partner reallocates the basis adjustment among the remaining items of partnership property under § 1.755-1(c).
+
+(3) *Distributions in complete liquidation of a partner's interest.* If a transferee receives a distribution of property (whether or not the transferee has a basis adjustment in such property) in liquidation of its interest in the partnership, the adjusted basis to the partnership of the distributed property immediately before the distribution includes the transferee's basis adjustment for the property in which the transferee relinquished an interest (either because it remained in the partnership or was distributed to another partner). Any basis adjustment for property in which the transferee is deemed to relinquish its interest is reallocated among the properties distributed to the transferee under § 1.755-1(c).
+
+(4) *Coordination with other provisions.* The rules of sections 704(c)(1)(B), 731, 737, and 751 apply before the rules of this paragraph (g).
+
+(5) *Example.* The provisions of this paragraph (g) are illustrated by the following example:
+
+Example.(i) A, B, and C are equal partners in partnership PRS. Each partner originally contributed $10,000 in cash, and PRS used the contributions to purchase five nondepreciable capital assets. PRS has no liabilities. After five years, PRS's balance sheet appears as follows:
+
+|              |     Assets      |       |
+|--------------|-----------------|-------|
+|Adjusted basis|Fair market value|       |
+|   Asset 1    |     $10,000     |$10,000|
+|   Asset 2    |      4,000      | 6,000 |
+|   Asset 3    |      6,000      | 6,000 |
+|   Asset 4    |      7,000      | 4,000 |
+|   Asset 5    |      3,000      |13,000 |
+|    Total     |     30,000      |39,000 |
+
+|                  |     Capital     |       |
+|------------------|-----------------|-------|
+|Adjusted per books|Fair market value|       |
+|    Partner A     |     $10,000     |$13,000|
+|    Partner B     |     10,000      |13,000 |
+|    Partner C     |     10,000      |13,000 |
+|      Total       |     30,000      |39,000 |
+
+(ii) A sells its interest to T for $13,000 when PRS has an election in effect under section 754. T receives a basis adjustment under section 743(b) in the partnership property that is equal to $3,000 (the excess of T's basis in the partnership interest, $13,000, over T's share of the adjusted basis to the partnership of partnership property, $10,000). The basis adjustment is allocated under section 755, and the partnership's balance sheet appears as follows:
+
+|              |     Assets      |                      |          |
+|--------------|-----------------|----------------------|----------|
+|Adjusted basis|Fair market value|Basis  <br/>adjustment|          |
+|   Asset 1    |     $10,000     |       $10,000        |  $0.00   |
+|   Asset 2    |      4,000      |        6,000         |  666.67  |
+|   Asset 3    |      6,000      |        6,000         |   0.00   |
+|   Asset 4    |      7,000      |        4,000         |(1,000.00)|
+|   Asset 5    |      3,000      |        13,000        | 3,333.33 |
+|    Total     |     30,000      |        39,000        | 3,000.00 |
+
+|                  |     Capital     |             |      |
+|------------------|-----------------|-------------|------|
+|Adjusted per books|Fair market value|Special basis|      |
+|    Partner T     |     $10,000     |   $13,000   |$3,000|
+|    Partner B     |     10,000      |   13,000    |  0   |
+|    Partner C     |     10,000      |   13,000    |  0   |
+|      Total       |     30,000      |   39,000    |3,000 |
+
+(iii) Assume that PRS distributes Asset 2 to T in partial liquidation of T's interest in the partnership. T has a basis adjustment under section 743(b) of $666.67 in Asset 2. Under paragraph (g)(1)(i) of this section, T takes the basis adjustment into account under section 732. Therefore, T will have a basis in Asset 2 of $4,666.67 following the distribution.
+
+(iv) Assume instead that PRS distributes Asset 5 to C in complete liquidation of C's interest in PRS. T has a basis adjustment under section 743(b) of $3,333.33 in Asset 5. Under paragraph (g)(2)(i) of this section, C does not take T's basis adjustment into account under section 732. Therefore, the partnership's basis for purposes of sections 732 and 734 is $3,000. Under paragraph (g)(2)(ii) of this section, T's $3,333.33 basis adjustment is reallocated among the remaining partnership assets under § 1.755-1(c).
+
+(v) Assume instead that PRS distributes Asset 5 to T in complete liquidation of its interest in PRS. Under paragraph (g)(3) of this section, immediately prior to the distribution of Asset 5 to T, PRS must adjust the basis of Asset 5. Therefore, immediately prior to the distribution, PRS's basis in Asset 5 is equal to $6,000, which is the sum of (A) $3,000, PRS's common basis in Asset 5, plus (B) $3,333.33, T's basis adjustment to Asset 5, plus (C) ($333.33), the sum of T's basis adjustments in Assets 2 and 4. For purposes of sections 732 and 734, therefore, PRS will be treated as having a basis in Asset 5 equal to $6,000.
+
+(h) *Contributions of adjusted property* - (1) *Section 721(a) transactions.* If, in a transaction described in section 721(a), a partnership (the upper tier) contributes to another partnership (the lower tier) property with respect to which a basis adjustment has been made, the basis adjustment is treated as contributed to the lower-tier partnership, regardless of whether the lower-tier partnership makes a section 754 election. The lower tier's basis in the contributed assets and the upper tier's basis in the partnership interest received in the transaction are determined with reference to the basis adjustment. However, that portion of the basis of the upper tier's interest in the lower tier attributable to the basis adjustment must be segregated and allocated solely to the transferee partner for whom the basis adjustment was made. Similarly, that portion of the lower tier's basis in its assets attributable to the basis adjustment must be segregated and allocated solely to the upper tier and the transferee. A partner with a basis adjustment in property held by a partnership that terminates under section 708(b)(1)(B) will continue to have the same basis adjustment with respect to property deemed contributed by the terminated partnership to the new partnership under § 1.708-1(b)(1)(iv), regardless of whether the new partnership makes a section 754 election.
+
+(2) *Section 351 transactions* - (i) *Basis in transferred property.* A corporation's adjusted tax basis in property transferred to the corporation by a partnership in a transaction described in section 351 is determined with reference to any basis adjustments to the property under section 743(b) (other than any basis adjustment that reduces a partner's gain under paragraph (h)(2)(ii) of this section).
+
+(ii) *Partnership gain.* The amount of gain, if any, recognized by the partnership on a transfer of property by the partnership to a corporation in a transfer described in section 351 is determined without reference to any basis adjustment to the transferred property under section 743(b). The amount of gain, if any, recognized by the partnership on the transfer that is allocated to a partner with a basis adjustment in the transferred property is adjusted to reflect the partner's basis adjustment in the transferred property.
+
+(iii) *Basis in stock.* The partnership's adjusted tax basis in stock received from a corporation in a transfer described in section 351 is determined without reference to the basis adjustment in property transferred to the corporation in the section 351 exchange. A partner with a basis adjustment in property transferred to the corporation, however, has a basis adjustment in the stock received by the partnership in the section 351 exchange in an amount equal to the partner's basis adjustment in the transferred property, reduced by any basis adjustment that reduced the partner's gain under paragraph (h)(2)(ii) of this section.
+
+(iv) *Example.* The following example illustrates the principles of this paragraph (h)(2):
+
+Example.(i) A, B, and C are equal partners in partnership PRS. The partnership's only asset, Asset 1, has an adjusted tax basis of $60 and a fair market value of $120. Asset 1 is a nondepreciable capital asset and is not section 704(c) property. A has a basis in its partnership interest of $40, and a positive section 743(b) adjustment of $20 in Asset 1. In a transaction to which section 351 applies, PRS contributes Asset 1 to X, a corporation, in exchange for $15 in cash and X stock with a fair market value of $105.
+
+(ii) Under paragraph (h)(2)(ii) of this section, PRS realizes $60 of gain on the transfer of Asset 1 to X ($120, its amount realized, minus $60, its adjusted basis), but recognizes only $15 of that gain under section 351(b)(1). Of this amount, $5 is allocated to each partner. A must use $5 of its basis adjustment in Asset 1 to offset A's share of PRS's gain. Under paragraph (h)(2)(iii) of this section, PRS's basis in the stock received from X is $60. However, A has a basis adjustment in the stock received by PRS equal to $15 (its basis adjustment in Asset 1, $20, reduced by the portion of the adjustment which reduced A's gain, $5). Under paragraph (h)(2)(i) of this section, X's basis in Asset 1 equals $90 (PRS's common basis in the asset, $60, plus the gain recognized by PRS under section 351(b)(1), $15, plus A's basis adjustment under section 743(b), $20, less the portion of the adjustment which reduced A's gain, $5).
+
+(i) [Reserved]
+
+(j) *Effect of basis adjustment* - (1) *In general.* The basis adjustment constitutes an adjustment to the basis of partnership property with respect to the transferee only. No adjustment is made to the common basis of partnership property. Thus, for purposes of calculating income, deduction, gain, and loss, the transferee will have a special basis for those partnership properties the bases of which are adjusted under section 743(b) and this section. The adjustment to the basis of partnership property under section 743(b) has no effect on the partnership's computation of any item under section 703.
+
+(2) *Computation of partner's distributive share of partnership items.* The partnership first computes its items of income, deduction, gain, or loss at the partnership level under section 703. The partnership then allocates the partnership items among the partners, including the transferee, in accordance with section 704, and adjusts the partners' capital accounts accordingly. The partnership then adjusts the transferee's distributive share of the items of partnership income, deduction, gain, or loss, in accordance with paragraphs (j)(3) and (4) of this section, to reflect the effects of the transferee's basis adjustment under section 743(b). These adjustments to the transferee's distributive shares must be reflected on Schedules K and K-1 of the partnership's return (Form 1065). These adjustments to the transferee's distributive shares do not affect the transferee's capital account. See § 1.460-4(k)(3)(v)(B) for rules relating to the effect of a basis adjustment under section 743(b) that is allocated to a contract accounted for under a long-term contract method of accounting in determining the transferee's distributive share of income or loss from the contract.
+
+(3) *Effect of basis adjustment in determining items of income, gain, or loss* - (i) *In general.* The amount of a transferee's income, gain, or loss from the sale or exchange of a partnership asset in which the transferee has a basis adjustment is equal to the transferee's share of the partnership's gain or loss from the sale of the asset (including any remedial allocations under § 1.704-3(d)), minus the amount of the transferee's positive basis adjustment for the partnership asset (determined by taking into account the recovery of the basis adjustment under paragraph (j)(4)(i)(B) of this section) or plus the amount of the transferee's negative basis adjustment for the partnership asset (determined by taking into the account the recovery of the basis adjustment under paragraph (j)(4)(ii)(B) of this section).
+
+(ii) *Examples.* The following examples illustrate the principles of this paragraph (j)(3):
+
+Example 1.A and B form equal partnership PRS. A contributes nondepreciable property with a fair market value of $50 and an adjusted tax basis of $100. PRS will use the traditional allocation method under § 1.704-3(b). B contributes $50 cash. A sells its interest to T for $50. PRS has an election in effect to adjust the basis of partnership property under section 754. T receives a negative $50 basis adjustment under section 743(b) that, under section 755, is allocated to the nondepreciable property. PRS then sells the property for $60. PRS recognizes a book gain of $10 (allocated equally between T and B) and a tax loss of $40. T will receive an allocation of $40 of tax loss under the principles of section 704(c). However, because T has a negative $50 basis adjustment in the nondepreciable property, T recognizes a $10 gain from the partnership's sale of the property.Example 2.A and B form equal partnership PRS. A contributes nondepreciable property with a fair market value of $100 and an adjusted tax basis of $50. B contributes $100 cash. PRS will use the traditional allocation method under § 1.704-3(b). A sells its interest to T for $100. PRS has an election in effect to adjust the basis of partnership property under section 754. Therefore, T receives a $50 basis adjustment under section 743(b) that, under section 755, is allocated to the nondepreciable property. PRS then sells the nondepreciable property for $90. PRS recognizes a book loss of $10 (allocated equally between T and B) and a tax gain of $40. T will receive an allocation of the entire $40 of tax gain under the principles of section 704(c). However, because T has a $50 basis adjustment in the property, T recognizes a $10 loss from the partnership's sale of the property.Example 3.A and B form equal partnership PRS. PRS will make allocations under section 704(c) using the remedial allocation method described in § 1.704-3(d). A contributes nondepreciable property with a fair market value of $100 and an adjusted tax basis of $150. B contributes $100 cash. A sells its partnership interest to T for $100. PRS has an election in effect to adjust the basis of partnership property under section 754. T receives a negative $50 basis adjustment under section 743(b) that, under section 755, is allocated to the property. The partnership then sells the property for $120. The partnership recognizes a $20 book gain and a $30 tax loss. The book gain will be allocated equally between the partners. The entire $30 tax loss will be allocated to T under the principles of section 704(c). To match its $10 share of book gain, B will be allocated $10 of remedial gain, and T will be allocated an offsetting $10 of remedial loss. T was allocated a total of $40 of tax loss with respect to the property. However, because T has a negative $50 basis adjustment to the property, T recognizes a $10 gain from the partnership's sale of the property.
+
+(4) *Effect of basis adjustment in determining items of deduction* - (i) *Increases* - (A) *Additional deduction.* The amount of any positive basis adjustment that is recovered by the transferee in any year is added to the transferee's distributive share of the partnership's depreciation or amortization deductions for the year. The basis adjustment is adjusted under section 1016(a)(2) to reflect the recovery of the basis adjustment.
+
+(B) *Recovery period* - (*1*) *In general.* Except as provided in paragraph (j)(4)(i)(B)(*2*) of this section, for purposes of section 168, if the basis of a partnership's recovery property is increased as a result of the transfer of a partnership interest, then the increased portion of the basis is taken into account as if it were newly-purchased recovery property placed in service when the transfer occurs. Consequently, any applicable recovery period and method may be used to determine the recovery allowance with respect to the increased portion of the basis. However, no change is made for purposes of determining the recovery allowance under section 168 for the portion of the basis for which there is no increase.
+
+(*2*) *Remedial allocation method.* If a partnership elects to use the remedial allocation method described in § 1.704-3(d) with respect to an item of the partnership's recovery property, then the portion of any increase in the basis of the item of the partnership's recovery property under section 743(b) that is attributable to section 704(c) built-in gain is recovered over the remaining recovery period for the partnership's excess book basis in the property as determined in the final sentence of § 1.704-3(d)(2). Any remaining portion of the basis increase is recovered under paragraph (j)(4)(i)(B)(*1*) of this section.
+
+(C) *Examples.* The provisions of this paragraph (j)(4)(i) are illustrated by the following examples:
+
+Example 1.(i) A, B, and C are equal partners in partnership PRS, which owns Asset 1, an item of depreciable property that has a fair market value in excess of its adjusted tax basis. C sells its interest in PRS to T while PRS has an election in effect under section 754. PRS, therefore, increases the basis of Asset 1 with respect to T.
+
+(ii) Assume that in the year following the transfer of the partnership interest to T, T's distributive share of the partnership's common basis depreciation deductions from Asset 1 is $1,000. Also assume that, under paragraph (j)(4)(i)(B) of this section, the amount of the basis adjustment under section 743(b) that T recovers during the year is $500. The total amount of depreciation deductions from Asset 1 reported by T is equal to $1,500.
+
+Example 2.(i) A and B form equal partnership PRS. A contributes property with an adjusted basis of $100,000 and a fair market value of $500,000. B contributes $500,000 cash. When PRS is formed, the property has five years remaining in its recovery period. The partnership's adjusted basis of $100,000 will, therefore, be recovered over the five years remaining in the property's recovery period. PRS elects to use the remedial allocation method under § 1.704-3(d) with respect to the property. If PRS had purchased the property at the time of the partnership's formation, the basis of the property would have been recovered over a 10-year period. The $400,000 of section 704(c) built-in gain will, therefore, be amortized under § 1.704-3(d) over a 10-year period beginning at the time of the partnership's formation.
+
+(ii)(A) Except for the depreciation deductions, PRS's expenses equal its income in each year of the first two years commencing with the year the partnership is formed. After two years, A's share of the adjusted basis of partnership property is $120,000, while B's is $440,000:
+
+|                    |Capital accounts|        |        |        |
+|--------------------|----------------|--------|--------|--------|
+|         A          |       B        |        |        |        |
+|        Book        |      Tax       |  Book  |  Tax   |        |
+|Initial Contribution|    $500,000    |$100,000|$500,000|$500,000|
+|Depreciation Year 1 |    (30,000)    |        |(30,000)|(20,000)|
+|      Remedial      |                | 10,000 |        |(10,000)|
+|                    |    470,000     |110,000 |470,000 |470,000 |
+|Depreciation Year 2 |    (30,000)    |        |(30,000)|(20,000)|
+|      Remedial      |                | 10,000 |        |(10,000)|
+|                    |    440,000     |120,000 |440,000 |440,000 |
+
+(B) A sells its interest in PRS to T for its fair market value of $440,000. A valid election under section 754 is in effect with respect to the sale of the partnership interest. Accordingly, PRS makes an adjustment, pursuant to section 743(b), to increase the basis of partnership property. Under section 743(b), the amount of the basis adjustment is equal to $320,000. Under section 755, the entire basis adjustment is allocated to the property.
+
+(iii) At the time of the transfer, $320,000 of section 704(c) built-in gain from the property was still reflected on the partnership's books, and all of the basis adjustment is attributable to section 704(c) built-in gain. Therefore, the basis adjustment will be recovered over the remaining recovery period for the section 704(c) built-in gain under § 1.704-3(d).
+
+(ii) *Decreases* - (A) *Reduced deduction.* The amount of any negative basis adjustment allocated to an item of depreciable or amortizable property that is recovered in any year first decreases the transferee's distributive share of the partnership's depreciation or amortization deductions from that item of property for the year. If the amount of the basis adjustment recovered in any year exceeds the transferee's distributive share of the partnership's depreciation or amortization deductions from the item of property, then the transferee's distributive share of the partnership's depreciation or amortization deductions from other items of partnership property is decreased. The transferee then recognizes ordinary income to the extent of the excess, if any, of the amount of the basis adjustment recovered in any year over the transferee's distributive share of the partnership's depreciation or amortization deductions from all items of property.
+
+(B) *Recovery period.* For purposes of section 168, if the basis of an item of a partnership's recovery property is decreased as the result of the transfer of an interest in the partnership, then the decrease is recovered over the remaining useful life of the item of the partnership's recovery property. The portion of the decrease that is recovered in any year during the recovery period is equal to the product of -
+
+(*1*) The amount of the decrease to the item's adjusted basis (determined as of the date of the transfer); multiplied by
+
+(*2*) A fraction, the numerator of which is the portion of the adjusted basis of the item recovered by the partnership in that year, and the denominator of which is the adjusted basis of the item on the date of the transfer (determined prior to any basis adjustments).
+
+(C) *Examples.* The provisions of this paragraph (j)(4)(ii) are illustrated by the following examples:
+
+Example 1.(i) A, B, and C are equal partners in partnership PRS, which owns Asset 2, an item of depreciable property that has a fair market value that is less than its adjusted tax basis. C sells its interest in PRS to T while PRS has an election in effect under section 754. PRS, therefore, decreases the basis of Asset 2 with respect to T.
+
+(ii) Assume that in the year following the transfer of the partnership interest to T, T's distributive share of the partnership's common basis depreciation deductions from Asset 2 is $1,000. Also assume that, under paragraph (j)(4)(ii)(B) of this section, the amount of the basis adjustment under section 743(b) that T recovers during the year is $500. The total amount of depreciation deductions from Asset 2 reported by T is equal to $500.
+
+Example 2.(i) A and B form equal partnership PRS. A contributes property with an adjusted basis of $100,000 and a fair market value of $50,000. B contributes $50,000 cash. When PRS is formed, the property has five years remaining in its recovery period. The partnership's adjusted basis of $100,000 will, therefore, be recovered over the five years remaining in the property's recovery period. PRS uses the traditional allocation method under § 1.704-3(b) with respect to the property. As a result, B will receive $5,000 of depreciation deductions from the property in each of years 1-5, and A, as the contributing partner, will receive $15,000 of depreciation deductions in each of these years.
+
+(ii) Except for the depreciation deductions, PRS's expenses equal its income in each of the first two years commencing with the year the partnership is formed. After two years, A's share of the adjusted basis of partnership property is $70,000, while B's is $40,000. A sells its interest in PRS to T for its fair market value of $40,000. A valid election under section 754 is in effect with respect to the sale of the partnership interest. Accordingly, PRS makes an adjustment, pursuant to section 743(b), to decrease the basis of partnership property. Under section 743(b), the amount of the adjustment is equal to ($30,000). Under section 755, the entire adjustment is allocated to the property.
+
+(iii) The basis of the property at the time of the transfer of the partnership interest was $60,000. In each of years 3 through 5, the partnership will realize depreciation deductions of $20,000 from the property. Thus, one third of the negative basis adjustment ($10,000) will be recovered in each of years 3 through 5. Consequently, T will be allocated, for tax purposes, depreciation of $15,000 each year from the partnership and will recover $10,000 of its negative basis adjustment. Thus, T's net depreciation deduction from the partnership in each year is $5,000.
+
+Example 3.(i) A, B, and C are equal partners in partnership PRS, which owns Asset 2, an item of depreciable property that has a fair market value that is less than its adjusted tax basis. C sells its interest in PRS to T while PRS has an election in effect under section 754. PRS, therefore, decreases the basis of Asset 2 with respect to T.
+
+(ii) Assume that in the year following the transfer of the partnership interest to T, T's distributive share of the partnership's common basis depreciation deductions from Asset 2 is $500. PRS allocates no other depreciation to T. Also assume that, under paragraph (j)(4)(ii)(B) of this section, the amount of the negative basis adjustment that T recovers during the year is $1,000. T will report $500 of ordinary income because the amount of the negative basis adjustment recovered during the year exceeds T's distributive share of the partnership's common basis depreciation deductions from Asset 2.
+
+(5) *Depletion.* Where an adjustment is made under section 743(b) to the basis of partnership property subject to depletion, any depletion allowance is determined separately for each partner, including the transferee partner, based on the partner's interest in such property. See § 1.702-1(a)(8). For partnerships that hold oil and gas properties that are depleted at the partner level under section 613A(c)(7)(D), the transferee partner (and not the partnership) must make the basis adjustments, if any, required under section 743(b) with respect to such properties. See § 1.613A-3(e)(6)(iv).
+
+(6) *Example.* The provisions of paragraph (j)(5) of this section are illustrated by the following example:
+
+Example.A, B, and C each contributes $5,000 cash to form partnership PRS, which purchases a coal property for $15,000. A, B, and C have equal interests in capital and profits. C subsequently sells its partnership interest to T for $100,000 when the election under section 754 is in effect. T has a basis adjustment under section 743(b) for the coal property of $95,000 (the difference between T's basis, $100,000, and its share of the basis of partnership property, $5,000). Assume that the depletion allowance computed under the percentage method would be $21,000 for the taxable year so that each partner would be entitled to $7,000 as its share of the deduction for depletion. However, under the cost depletion method, at an assumed rate of 10 percent, the allowance with respect to T's one-third interest which has a basis to him of $100,000 ($5,000, plus its basis adjustment of $95,000) is $10,000, although the cost depletion allowance with respect to the one-third interest of A and B in the coal property, each of which has a basis of $5,000, is only $500. For partners A and B, the percentage depletion is greater than cost depletion and each will deduct $7,000 based on the percentage depletion method. However, as to T, the transferee partner, the cost depletion method results in a greater allowance and T will, therefore, deduct $10,000 based on cost depletion. See section 613(a).
+
+(k) *Returns* - (1) *Statement of adjustments* - (i) *In general.* A partnership that must adjust the bases of partnership properties under section 743(b) must attach a statement to the partnership return for the year of the transfer setting forth the name and taxpayer identification number of the transferee as well as the computation of the adjustment and the partnership properties to which the adjustment has been allocated.
+
+(ii) *Special rule.* Where an interest is transferred in a partnership which holds oil and gas properties that are depleted at the partner level under section 613A(c)(7)(D), the transferee must attach a statement to the transferee's return for the year of the transfer, setting forth the computation of the basis adjustment under section 743(b) which is allocable to such properties and the specific properties to which the adjustment has been allocated.
+
+(iii) *Example.* The provisions of paragraph (k)(1)(ii) of this section are illustrated by the following example:
+
+Example.(i) Partnership XYZ owns a single section 613A(c)(7)(D) domestic oil and gas property (Property) and other non-depletable assets. A, a partner in XYZ with an adjusted tax basis in Property of $100 (excluding any prior adjustments under section 743(b)), sells its partnership interest to B for $800 cash. Under § 1.613A-3(e)(6)(iv), A's adjusted basis of $100 in Property carries over to B.
+
+(ii) Under section 755, XYZ determines that Property accounts for 50% of the fair market value of all partnership assets. The remaining 50% of B's purchase price ($400) is attributable to non-depletable property. XYZ must provide a statement to B containing the portion of B's adjusted basis attributable to non-depletable property ($400). Under this paragraph (k)(1), XYZ must report basis adjustments under section 743(b) to non-depletable property. B must report basis adjustments under section 743(b) to Property.
+
+(2) *Requirement that transferee notify partnership* - (i) *Sale or exchange.* A transferee that acquires, by sale or exchange, an interest in a partnership with an election under section 754 in effect for the taxable year of the transfer, must notify the partnership, in writing, within 30 days of the sale or exchange. The written notice to the partnership must be signed under penalties of perjury and must include the names and addresses of the transferee and (if ascertainable) of the transferor, the taxpayer identification numbers of the transferee and (if ascertainable) of the transferor, the relationship (if any) between the transferee and the transferor, the date of the transfer, the amount of any liabilities assumed or taken subject to by the transferee, and the amount of any money, the fair market value of any other property delivered or to be delivered for the transferred interest in the partnership, and any other information necessary for the partnership to compute the transferee's basis.
+
+(ii) *Transfer on death.* A transferee that acquires, on the death of a partner, an interest in a partnership with an election under section 754 in effect for the taxable year of the transfer, must notify the partnership, in writing, within one year of the death of the deceased partner. The written notice to the partnership must be signed under penalties of perjury and must include the names and addresses of the deceased partner and the transferee, the taxpayer identification numbers of the deceased partner and the transferee, the relationship (if any) between the transferee and the transferor, the deceased partner's date of death, the date on which the transferee became the owner of the partnership interest, the fair market value of the partnership interest on the applicable date of valuation set forth in section 1014, and the manner in which the fair market value of the partnership interest was determined.
+
+(iii) *Nominee reporting.* If a partnership interest is transferred to a nominee which is required to furnish the statement under section 6031(c)(1) to the partnership, the nominee may satisfy the notice requirement contained in this paragraph (k)(2) by providing the statement required under § 1.6031(c)-1T, provided that the statement satisfies all requirements of § 1.6031(c)-1T and this paragraph (k)(2).
+
+(3) *Reliance.* In making the adjustments under section 743(b) and any statement or return relating to such adjustments under this section, a partnership may rely on the written notice provided by a transferee pursuant to paragraph (k)(2) of this section to determine the transferee's basis in a partnership interest. The previous sentence shall not apply if any partner who has responsibility for federal income tax reporting by the partnership has knowledge of facts indicating that the statement is clearly erroneous.
+
+(4) *Partnership not required to make or report adjustments under section 743(b) until it has notice of the transfer.* A partnership is not required to make the adjustments under section 743(b) (or any statement or return relating to those adjustments) with respect to any transfer until it has been notified of the transfer. For purposes of this section, a partnership is notified of a transfer when either -
+
+(i) The partnership receives the written notice from the transferee required under paragraph (k)(2) of this section; or
+
+(ii) Any partner who has responsibility for federal income tax reporting by the partnership has knowledge that there has been a transfer of a partnership interest.
+
+(5) *Effect on partnership of the failure of the transferee to comply.* If the transferee fails to provide the partnership with the written notice required by paragraph (k)(2) of this section, the partnership must attach a statement to its return in the year that the partnership is otherwise notified of the transfer. This statement must set forth the name and taxpayer identification number (if ascertainable) of the transferee. In addition, the following statement must be prominently displayed in capital letters on the first page of the partnership's return for such year, and on the first page of any schedule or information statement relating to such transferee's share of income, credits, deductions, etc.: “RETURN FILED PURSUANT TO § 1.743-1(k)(5).” The partnership will then be entitled to report the transferee's share of partnership items without adjustment to reflect the transferee's basis adjustment in partnership property. If, following the filing of a return pursuant to this paragraph (k)(5), the transferee provides the applicable written notice to the partnership, the partnership must make such adjustments as are necessary to adjust the basis of partnership property (as of the date of the transfer) in any amended return otherwise to be filed by the partnership or in the next annual partnership return of income to be regularly filed by the partnership. At such time, the partnership must also provide the transferee with such information as is necessary for the transferee to amend its prior returns to properly reflect the adjustment under section 743(b).
+
+(l) *Effective date.* This section applies to transfers of partnership interests that occur on or after December 15, 1999.
+
+[T.D. 8847, 64 FR 69909, Dec. 15, 1999; 65 FR 9220, Feb. 24, 2000, as amended by T.D. 9137, 69 FR 42559, July 16, 2004]

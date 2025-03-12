@@ -1,0 +1,5 @@
+##### § 3.43 Removal of property. #####
+
+A person may not remove Federal property from the enclave or any building on the enclave without a property pass, signed by an authorized property custodian, which specifically describes the items to be removed. In an emergency, or when the property custodian is not available, a police officer may approve removal of Federal property if, after consulting with the administrative officer or other appropriate official, the police officer is authorized by the official to do so. Privately-owned property, other than that ordinarily carried on one's person, may be removed only under this property pass procedure, or upon properly establishing ownership of the property to a police officer.
+
+Packages, briefcases, or other containers brought within the enclave are subject to inspection while on, or being removed from, the enclave.

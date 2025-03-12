@@ -1,0 +1,3 @@
+##### § 2556.750 What restrictions and prohibitions are VISTAs subject to who campaign for a spouse or family member? #####
+
+A VISTA who is the spouse or family member of either a candidate for partisan political office, candidate for political party office, or candidate for public office in a nonpartisan election, is subject to the same restrictions and prohibitions as other VISTAs, as set forth in § 2556.725.

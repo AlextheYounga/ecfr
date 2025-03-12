@@ -1,0 +1,3 @@
+##### § 1618.1 Purpose. #####
+
+In order to ensure uniform and consistent interpretation and application of the provisions of the LSC Act, the Corporation's appropriations act or other law applicable to LSC funds, a Corporation rule, regulation, guideline or instruction, or the terms and conditions of the recipient's grant or contract with the Corporation, and to prevent a question of whether these requirements have been violated from becoming an ancillary issue in any case undertaken by a recipient, this part establishes a systematic procedure for enforcing compliance with them.

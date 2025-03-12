@@ -1,0 +1,5 @@
+##### § 1159.16 Will the Endowment take steps to ensure that its employees involved with its systems of records are familiar with the requirements and implications of the Privacy Act? #####
+
+(a) The Chairperson shall ensure that all persons involved in the design, development, operation or maintenance of any Endowment system are informed of all requirements necessary to protect the privacy of subject individuals. The Chairperson shall also ensure that all Endowment employees having access to records receive adequate training in their protection, and that records have adequate and proper storage with sufficient security to assure the privacy of such records.
+
+(b) All employees shall be informed of the civil remedies provided under 5 U.S.C. 552a(g)(1) and other implications of the Privacy Act, and the fact that the Endowment may be subject to civil remedies for failure to comply with the provisions of the Privacy Act and these regulations.

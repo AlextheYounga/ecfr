@@ -1,0 +1,5 @@
+##### § 1.58-5 Common trust funds. #####
+
+Section 58(e) provides that each participant in a common trust fund (as defined in section 584 and the regulations thereunder) is to treat as items of tax preference his proportionate share of the items of tax preference of the fund computed as if the fund were an individual subject to the minimum tax. The participant's proportionate share of the items of tax preference of the fund is determined as if the participant had realized, or incurred, his pro rata share of items of income, gain, loss, or deduction of the fund directly from the source from which realized or incurred by the fund. The participant's pro rata share of such items is determined in a manner consistent with section 1.584-2(c). Items of tax preference apportioned to a participant pursuant to this paragraph are taken into account by the participant for the participant's taxable year in which or with which the taxable year of the trust ends.
+
+[T.D. 7564, 43 FR 40484, Sept. 12, 1978]

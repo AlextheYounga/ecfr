@@ -1,0 +1,3 @@
+##### § 2523.40 For what purposes should Federal agencies use AmeriCorps program funds? #####
+
+AmeriCorps funds should enable Federal agencies to establish programs that leverage agencies' existing resources and grant-making powers toward the goal of integrating service more fully into agencies' programs and activities. Agencies should plan to ultimately support new service initiatives out of their own budgets and appropriations.

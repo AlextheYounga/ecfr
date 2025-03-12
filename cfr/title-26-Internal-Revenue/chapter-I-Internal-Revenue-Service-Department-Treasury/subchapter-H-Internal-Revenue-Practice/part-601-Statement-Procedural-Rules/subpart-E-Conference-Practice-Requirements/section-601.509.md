@@ -1,0 +1,5 @@
+##### § 601.509 Power of attorney not required in cases docketed in the Tax Court of the United States. #####
+
+The petitioner and the Commissioner of Internal Revenue stand in the position of parties litigant before a judicial body in a case docketed in the Tax Court of the United States. The Tax Court has its own rules of practice and procedure and its own rules respecting admission to practice before it. Accordingly, a power of attorney is not required to be submitted by an attorney of record in a case which is docketed in the Tax Court. Correspondence in connection with cases docketed in the Tax Court will be addressed to counsel of record before the Court. However, a power of attorney is required to be submitted by an individual other than the attorney of record in any matter before the Internal Revenue Service concerning a docketed case.
+
+[56 FR 24009, May 8, 1991]

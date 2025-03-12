@@ -1,0 +1,3 @@
+##### § 353.86 Reissue upon termination of investment agency. #####
+
+A bond registered in the name of a financial institution, or individual, as agent for investment purposes only, under an agreement with a religious, an educational, a charitable, or a nonprofit organization, may be reissued in the name of the organization upon termination of the agency. The former agent should request such reissue and should certify that the organization is entitled by reason of the termination of the agency. If such request and certification are not obtainable, the bond will be reissued in the name of the organization upon its own request, supported by satisfactory evidence of the termination of the agency. The appropriate form should be used.

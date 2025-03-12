@@ -1,0 +1,3 @@
+##### § 2522.900 What definitions apply to this subpart? #####
+
+*Tutor* is defined as someone whose primary goal is to increase academic achievement in reading or other core subjects through planned, consistent, one-to-one or small-group sessions and activities that build on the academic strengths of students in kindergarten through 12th grade, and target their academic needs. A tutor does not include someone engaged in other academic support activities, such as mentoring and after-school program support, whose primary goal is something other than increasing academic achievement. For example, providing a safe place for children is not tutoring, even if some of the program activities focus on homework help.

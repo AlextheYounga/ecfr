@@ -1,0 +1,3 @@
+##### § 702.16 Attendance of news media at public sessions. #####
+
+Reasonable access for coverage of public sessions shall be provided to the various communications media, including newspapers, magazines, radio, newsreels, and television, subject to the physical limitations of the room in which the session is held and consideration of the physical comfort of Commission members, staff, and witnesses. However, no witnesses shall be televised, filmed, or photographed during the session nor shall the testimony of any witness be broadcast or recorded for broadcasting if the witness objects.

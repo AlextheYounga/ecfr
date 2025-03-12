@@ -1,0 +1,3 @@
+##### § 2508.7 To whom does the Corporation provide reports regarding changes in its system of records? #####
+
+The Corporation shall provide to the Committee on Government Operations of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Office of Management and Budget, advance notice of any proposal to establish or alter any system of records as defined herein. This report will be submitted in accordance with guidelines provided by the Office of Management and Budget.

@@ -1,0 +1,5 @@
+##### § 0.212 Use of government property. #####
+
+(a) An employee shall not directly or indirectly use, or allow the use of, government property of any kind, including property leased to the government, for other than officially approved activities. This includes the use of government-provided information technology equipment, internet access, cellular telephones, personal digital assistants, and other devices in a manner that is inconsistent with the Department's policy permitting reasonable personal use. An employee has a positive duty to protect and conserve government property including equipment, supplies, intellectual property, and other property made available, entrusted, or issued to the employee for official use.
+
+(b) Employees shall not use government vehicles for unofficial purposes, including to transport unauthorized passengers. The use of government vehicles for transporting employees between their domiciles and places of employment is prohibited except when authorized by the Secretary pursuant to 31 U.S.C. 1344 or other statute.

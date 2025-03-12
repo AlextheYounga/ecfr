@@ -1,0 +1,3 @@
+##### § 30.5 Other administrative remedies. #####
+
+The remedies and sanctions available under this part for collecting debts are not intended to be exclusive. Nothing contained in this part precludes using any other administrative remedy which may be available for collecting debts owed to the Department, such as converting the method of payment under a grant from an advancement to a reimbursement method or revoking a grantee's letter-of-credit.

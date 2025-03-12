@@ -1,0 +1,3 @@
+##### § 315.81 Payment to partnerships. #####
+
+A bond registered in the name of an existing partnership will be paid upon a request for payment signed by a general partner. The signature to the request should be in the form, for example, “Smith and Jones, a partnership, by John Jones, a general partner”. A request for payment so signed and certified will ordinarily be accepted as sufficient evidence that the partnership is still in existence and that the person signing the request is authorized.

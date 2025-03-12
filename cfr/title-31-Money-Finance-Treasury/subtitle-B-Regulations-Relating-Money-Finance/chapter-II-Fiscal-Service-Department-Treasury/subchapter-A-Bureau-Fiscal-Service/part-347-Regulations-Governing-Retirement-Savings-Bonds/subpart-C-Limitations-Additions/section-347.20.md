@@ -1,0 +1,3 @@
+##### § 347.20 Annual additions to a retirement savings bond. #####
+
+The amount that may be initially contributed or added to a retirement savings bond in a calendar year by the designated Roth IRA custodian on behalf of any program participant is limited to the annual Roth IRA contribution limits provided in 26 CFR 1.408A-3. The total value of a retirement savings bond that may be held by the designated Roth IRA custodian on behalf of any program participant shall not exceed $15,000.00.

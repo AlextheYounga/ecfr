@@ -1,0 +1,3 @@
+##### § 287.125 What supportive and job retention services may be provided under the NEW Program? #####
+
+The NEW Program grantee may provide, pay for or reimburse expenses for supportive services, including but not limited to transportation, child care, traditional or cultural work related services, and other work or family sufficiency related expenses that the Tribe determines are necessary to enable a client to participate in the program.

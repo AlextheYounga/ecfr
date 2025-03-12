@@ -1,0 +1,3 @@
+##### § 1.4-4 Short taxable year caused by death. #####
+
+An individual making a return for a period of less than 12 months on account of a change in his accounting period may not elect to pay the optional tax under section 3. However, the fact that the taxable year is less than 12 months does not prevent the determination of the tax for the taxable year under section 3 if the short taxable year results from the death of the taxpayer.

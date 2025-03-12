@@ -1,0 +1,3 @@
+##### § 158.344 Secretary's discretion to hold a hearing. #####
+
+The Secretary may, at her discretion, conduct a public hearing with respect to a State's request for an adjustment to the MLR standard. All testimony and materials received in connection with any public hearing will be made part of the public record, and shall be considered by the Secretary in assessing a State's request for an adjustment to the MLR standard.

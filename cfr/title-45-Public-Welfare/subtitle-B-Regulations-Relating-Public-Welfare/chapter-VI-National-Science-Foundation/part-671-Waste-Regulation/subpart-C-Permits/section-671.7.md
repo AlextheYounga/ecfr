@@ -1,0 +1,5 @@
+##### § 671.7 General issuance criteria. #####
+
+(a) Upon receipt of a complete and properly executed application for a permit, the Director will decide whether and on what conditions he will issue a permit. In making this decision, the Director will carefully consider any comments or suggestions received from interested parties, the Environmental Protection Agency and other federal agencies pursuant to § 671.6(d), and will determine whether the permit requested meets the objectives of the Act, the Protocol, and the requirements of these regulations.
+
+(b) Permits authorizing the use or release of designated pollutants or wastes may be issued only if, based on relevant available information, the Director determines that such use or release will not pose a substantial hazard to health or the environment, taking into account available information on the possible cumulative impact of multiple releases.

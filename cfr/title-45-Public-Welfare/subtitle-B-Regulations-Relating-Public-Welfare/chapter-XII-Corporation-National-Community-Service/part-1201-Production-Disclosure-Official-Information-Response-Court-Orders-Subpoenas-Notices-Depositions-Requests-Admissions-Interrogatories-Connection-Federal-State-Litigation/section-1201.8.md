@@ -1,0 +1,3 @@
+##### § 1201.8 Procedure in the event of an adverse ruling. #####
+
+If the court or other authority declines to stay the effect of the demand or request in response to a request made pursuant to § 1201.7, or if the court or other authority rules that the demand or request must be complied with irrespective of the Corporation's instructions not to produce the material or disclose the information sought, the Corporation Employee upon whom the demand or request has been made shall, if so directed by the General Counsel, respectfully decline to comply with the demand or request, citing *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951), and the regulations in this part.

@@ -1,0 +1,3 @@
+##### § 1.361-1 Nonrecognition of gain or loss to corporations. #####
+
+Section 361 provides the general rule that no gain or loss shall be recognized if a corporation, a party to a reorganization, exchanges property in pursuance of the plan of reorganization solely for stock or securities in another corporation, a party to the reorganization. This provision includes only stock and securities received in connection with a reorganization defined in section 368(a). It also includes nonvoting stock and securities in a corporation, a party to a reorganization, received in a transaction to which section 368(a)(1)(C) is applicable only by reason of section 368(a)(2)(B).

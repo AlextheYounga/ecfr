@@ -1,0 +1,3 @@
+##### § 1321.49 State agency maintenance of effort. #####
+
+In order to avoid a penalty, each fiscal year the State agency, to meet the required non-federal share applicable to its allotments under this part, shall spend under the State plan for both services and administration at least the average amount of State funds it spent under the plan for the three previous fiscal years. If the State agency spends less than this amount, the Commissioner reduces the State's allotments for supportive and nutrition services under this part by a percentage equal to the percentage by which the State reduced its expenditures.

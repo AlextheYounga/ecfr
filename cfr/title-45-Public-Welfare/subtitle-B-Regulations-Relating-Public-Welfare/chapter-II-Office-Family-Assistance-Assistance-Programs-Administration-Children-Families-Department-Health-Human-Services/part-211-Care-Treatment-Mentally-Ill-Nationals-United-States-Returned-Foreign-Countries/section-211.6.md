@@ -1,0 +1,5 @@
+##### § 211.6 Reception; temporary care, treatment, and assistance. #####
+
+(a) *Reception.* The agency will meet the eligible person at the port of entry or debarkation, will arrange for appropriate medical examination, and will plan with him, in cooperation with his legal guardian, or, in the absence of such a guardian, with other interested persons, if any, for needed temporary care and treatment.
+
+(b) *Temporary care, treatment, and assistance.* The agency will provide for temporary care, treatment, and assistance, as reasonably required for the health and welfare of the eligible person. Such care, treatment, and assistance may be provided in the form of hospitalization and other medical and remedial care (including services of necessary attendants), food and lodging, money, payments, transportation, or other goods and services. The agency will utilize the Public Health Service General Hospital nearest to the port of entry or debarkation or any other suitable public or private hospital, in providing hospitalization and medical care, including diagnostic service as needed, pending other appropriate arrangements for serving the eligible person.

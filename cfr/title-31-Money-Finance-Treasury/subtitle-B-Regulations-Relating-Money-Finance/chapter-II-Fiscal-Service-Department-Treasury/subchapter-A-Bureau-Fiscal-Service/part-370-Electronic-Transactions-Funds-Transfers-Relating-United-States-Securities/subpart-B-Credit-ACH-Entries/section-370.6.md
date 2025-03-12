@@ -1,0 +1,3 @@
+##### § 370.6 What requirements apply to a financial institution that handles a credit entry? #####
+
+A financial institution that accepts and handles a credit entry initiated by us agrees to the provisions of this subpart, and warrants that it will comply with all requirements imposed upon Receiving Depository Financial Institutions under the Operating Rules of the National Automated Clearing House Association, as modified by these regulations and other law.

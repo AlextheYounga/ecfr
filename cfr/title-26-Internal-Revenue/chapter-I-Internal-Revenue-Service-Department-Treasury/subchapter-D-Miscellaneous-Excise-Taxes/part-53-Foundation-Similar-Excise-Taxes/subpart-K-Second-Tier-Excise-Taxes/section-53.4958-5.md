@@ -1,0 +1,1 @@
+##### § 53.4958-5 Transaction in which the amount of the economic benefit is determined in whole or in part by the revenues of one or more activities of the organization. [Reserved] #####

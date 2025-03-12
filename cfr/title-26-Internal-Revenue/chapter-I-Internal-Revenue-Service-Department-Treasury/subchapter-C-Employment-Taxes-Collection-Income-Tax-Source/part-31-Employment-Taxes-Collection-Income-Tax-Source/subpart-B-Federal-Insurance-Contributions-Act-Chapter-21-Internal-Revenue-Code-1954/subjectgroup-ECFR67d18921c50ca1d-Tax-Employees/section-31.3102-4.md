@@ -1,0 +1,15 @@
+##### § 31.3102-4 Special rules regarding Additional Medicare Tax. #####
+
+(a) *Collection of tax from employee.* An employer is required to collect from each of its employees the tax imposed by section 3101(b)(2) (Additional Medicare Tax) with respect to wages for employment performed for the employer by the employee only to the extent the employer pays wages to the employee in excess of $200,000 in a calendar year. This rule applies regardless of the employee's filing status or other income. Thus, the employer disregards any amount of wages or Railroad Retirement Tax Act (RRTA) compensation paid to the employee's spouse. The employer also disregards any RRTA compensation paid by the employer to the employee or any wages or RRTA compensation paid to the employee by another employer.
+
+Example.H, who is married and files a joint return, receives $100,000 in wages from his employer for the calendar year. I, H's spouse, receives $300,000 in wages from her employer for the same calendar year. H's wages are not in excess of $200,000, so H's employer does not withhold Additional Medicare Tax. I's employer is required to collect Additional Medicare Tax only with respect to wages it pays which are in excess of the $200,000 threshold (that is, $100,000) for the calendar year.
+
+(b) *Collection of amounts not withheld.* To the extent the employer does not collect Additional Medicare Tax imposed on the employee by section 3101(b)(2), the employee is liable to pay the tax.
+
+Example.J, who is married and files a joint return, receives $190,000 in wages from his employer for the calendar year. K, J's spouse, receives $150,000 in wages from her employer for the same calendar year. Neither J's nor K's wages are in excess of $200,000, so neither J's nor K's employers are required to withhold Additional Medicare Tax. J and K are liable to pay Additional Medicare Tax on $90,000 ($340,000 minus the $250,000 threshold for a joint return).
+
+(c) *Employer's liability for tax.* If the employer deducts less than the correct amount of Additional Medicare Tax, or if it fails to deduct any part of Additional Medicare Tax, it is nevertheless liable for the correct amount of tax that it was required to withhold, unless and until the employee pays the tax. If an employee subsequently pays the tax that the employer failed to deduct, the tax will not be collected from the employer. The employer will not be relieved of its liability for payment of the tax required to be withheld unless it can show that the tax under section 3101(b)(2) has been paid. The employer, however, will remain subject to any applicable penalties or additions to tax resulting from the failure to withhold as required.
+
+(d) *Effective/applicability date.* This section applies to quarters beginning on or after November 29, 2013.
+
+[T.D. 9645, 78 FR 71472, Nov. 29, 2013]

@@ -1,0 +1,7 @@
+##### § 1.6061-1 Signing of returns and other documents by individuals. #####
+
+(a) *Requirement.* Each individual (including a fiduciary) shall sign the income tax return required to be made by him, except that the return may be signed for the taxpayer by an agent who is duly authorized in accordance with paragraph (a)(5) or (b) of § 1.6012-1 to make such return. Other returns, statements, or documents required under the provisions of subtitle A or F of the Code or of the regulations thereunder to be made by any person with respect to any tax imposed by subtitle A of the Code shall be signed in accordance with any regulations contained in this chapter, or any instructions, issued with respect to such returns, statements, or other documents.
+
+(b) *Cross references.* For provisions relating to the signing of returns, statements, or other documents required to be made by corporations and partnerships with respect to any tax imposed by subtitle A of the Code, see §§ 1.6062-1 and 1.6063-1, respectively. For provisions relating to the making of returns by agents, see paragraphs (a)(5) and (b) of § 1.6012-1; and to the making of returns for minors and persons under a disability, see paragraph (a)(4) of § 1.6012-1 and paragraph (b) of § 1.6012-3.
+
+[T.D. 7332, 39 FR 44232, Dec. 23, 1974]

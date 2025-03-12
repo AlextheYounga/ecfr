@@ -1,0 +1,5 @@
+##### § 1351.12 Who gets priority for the award of a Runaway and Homeless Youth Program grant? #####
+
+Link to an amendment published at 81 FR 93060, December 20, 2016.
+
+In making Runaway and Homeless Youth Program grants, HHS gives priority to those private agencies which have had past experience in dealing with runaway or otherwise homeless youth. HHS also gives priority to applicants whose total grant requests for services to runaway or otherwise homeless youth are less than $100,000 and whose project budgets, considering all funding sources, are smaller than $150,000. Past experience means that a major activity of the agency has been the provision of temporary shelter, counseling, and referral services to runaway or otherwise homeless youth and their families, either directly or through linkages established with other community agencies.

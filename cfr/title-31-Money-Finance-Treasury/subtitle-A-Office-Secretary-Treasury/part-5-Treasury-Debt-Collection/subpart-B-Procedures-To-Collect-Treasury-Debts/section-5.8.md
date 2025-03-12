@@ -1,0 +1,3 @@
+##### § 5.8 When will Treasury entities suspend or terminate debt collection on a Treasury debt? #####
+
+If, after pursuing all appropriate means of collection, a Treasury entity determines that a Treasury debt is uncollectible, the Treasury entity may suspend or terminate debt collection activity in accordance with the provisions of 31 CFR part 903 and the Treasury entity's policies and procedures. Legal counsel approval to terminate debt collection activity is required as described in Treasury Directive 34-02 (Credit Management and Debt Collection), which may be found at *http://www.treas.gov/regs.*

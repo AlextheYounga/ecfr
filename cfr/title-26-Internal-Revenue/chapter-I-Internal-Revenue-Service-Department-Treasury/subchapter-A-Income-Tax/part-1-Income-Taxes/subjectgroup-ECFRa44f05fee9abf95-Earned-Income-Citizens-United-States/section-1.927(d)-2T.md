@@ -1,0 +1,7 @@
+##### § 1.927(d)-2T Temporary regulations; definitions and special rules relating to Foreign Sales Corporation. #####
+
+(a) *Definition of related supplier.* For purposes of sections 921 through 927 and the regulations under those sections, the term “related supplier” means a related party which directly supplies to a FSC any property or services which the FSC disposes of in a transaction producing foreign trading gross receipts, or a related party which uses the FSC as a commission agent in the disposition of any property or services producing foreign trading gross receipts. A FSC may have different related suppliers with respect to different transactions. If, for example, X owns all the stock of Y, a corporation, and of F, a FSC, and X sells a product to Y which is resold to F, only Y is the related supplier of F. If, however, X sells directly to F and Y also sells directly to F, then, as to the transactions involving direct sales to F, each of X and Y is a related supplier of F.
+
+(b) *Definition of related party.* The term “related party” means a person which is owned or controlled directly or indirectly by the same interests as the FSC within the meaning of section 482 and § 1.482-1(a).
+
+[T.D. 8126, 52 FR 6465, Mar. 3, 1987]

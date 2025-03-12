@@ -1,0 +1,3 @@
+##### § 203.1 Scope. #####
+
+The regulations in this part govern the processing by financial institutions of electronic and paper-based deposits and payments of Federal taxes; the operation of the Treasury Tax and Loan (TT&L) program; the designation of TT&L depositaries; and the operation of the investment program. A financial institution may participate in the TT&L program by participating in the investment program or by accepting Federal tax payments, or both. A financial institution that accepts Federal tax payments may do so through the paper tax system (PATAX), or Electronic Federal Tax Payment System (EFTPS), or both. However, a financial institution is not designated as a TT&L depositary if it only processes EFTPS payments.

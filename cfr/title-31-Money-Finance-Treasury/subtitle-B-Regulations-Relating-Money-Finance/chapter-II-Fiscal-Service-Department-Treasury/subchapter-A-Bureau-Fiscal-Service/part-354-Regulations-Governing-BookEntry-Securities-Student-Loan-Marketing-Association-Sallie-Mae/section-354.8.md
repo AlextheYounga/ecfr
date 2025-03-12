@@ -1,0 +1,3 @@
+##### § 354.8 Waiver of regulations. #####
+
+The Secretary reserves the right, in the Secretary's discretion, to waive any provision(s) of the regulations in this part in any case or class of cases for the convenience of Sallie Mae, or in order to relieve any person or entity of unnecessary hardship, if such action is not inconsistent with law, does not adversely affect substantial existing rights, and the Secretary is satisfied that such action will not subject Sallie Mae to any substantial expense or liability.

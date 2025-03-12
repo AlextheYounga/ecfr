@@ -1,0 +1,5 @@
+##### § 287.120 What work activities may be provided under the NEW Program? #####
+
+(a) The Tribe will determine what work activities are to be provided.
+
+(b) Examples of allowable activities include, but are not limited to: Educational activities, alternative education, post secondary education, job readiness activity, job search, job skills training, training and employment activities, job development and placement, on-the-job training (OJT), employer work incentives related to OJT, community work experience, innovative approaches with the private sector, pre/post employment services, job retention services, unsubsidized employment, subsidized public or private sector employment, community service programs, entrepreneurial training, management training, job creation activities, economic development leading to job creation, and traditional subsistence activities.

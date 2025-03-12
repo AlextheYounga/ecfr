@@ -1,0 +1,55 @@
+##### § 1.172-13 Product liability losses. #####
+
+(a) *Entitlement to 10-year carryback*—(1) *In general.* Unless an election is made pursuant to paragraph (c) of this section, in the case of a taxpayer which has a product liability loss (as defined in section 172(j) and paragraph (b)(1) of this section) for a taxable year beginning after September 30, 1979 (hereinafter “loss year”), the product liability loss shall be a net operating loss carryback to each of the 10 taxable years preceding the loss year.
+
+(2) *Years to which loss may be carried.* A product liability loss shall first be carried to the earliest of the taxable years to which such loss is allowable as a carryback and shall then be carried to the next earliest of such taxable years, etc.
+
+(3) *Example.* The application of this paragraph may be illustrated as follows:
+
+Example.Taxpayer A incurs a net operating loss for taxable year 1980 of $80,000, of which $60,000 is a product liability loss. A's taxable income for each of the 10 years immediately preceding taxable year 1980 was $5,000. The product liability loss of $60,000 is first carried back to the 10th through the 4th preceding taxable years ($5,000 per year), thus offsetting $35,000 of the loss. The remaining $25,000 of product liability loss is added to the remaining portion of the total net operating loss for taxable year 1980 which was not a product liability loss ($20,000), and the total is then carried back to the 3rd through 1st years preceding taxable year 1980, which offsets $15,000 of this loss. The remaining loss ($30,000) is carried forward pursuant to section 172(b)(1) and the regulations thereunder without regard to whether all or any portion thereof originated as a product liability loss.
+
+(b) *Definitions*—(1) *Product liability loss.* The term *product liability loss* means, for any taxable year, the lesser of—
+
+(i) The net operating loss for the current taxable year (not including the portion of such net operating loss attributable to foreign expropriation losses, as defined in § 1.172-11), or
+
+(ii) The total of the amounts allowable as deductions under sections 162 and 165 directly attributable to—
+
+(A) Product liability (as defined in paragraph (b)(2) of this section), and
+
+(B) Expenses (including settlement payments) incurred in connection with the investigation or settlement of or opposition to claims against the taxpayer on account of alleged product liability.
+
+Indirect corporate expense, or overhead, is not to be allocated to product liability claims so as to become a product liability loss.
+
+(2) *Product liability.* (i) The term *product liability* means the liability of a taxpayer for damages resulting from physical injury or emotional harm to individuals, or damage to or loss of the use of property, on account of any defect in any product which is manufactured, leased, or sold by the taxpayer. The preceding sentence applies only to the extent that the injury, harm, or damage occurs after the taxpayer has completed or terminated operations with respect to the product, including, but not limited to the manufacture, installation, delivery, or testing of the product, and has relinquished possession of such product.
+
+(ii) The term *product liability* does not include liabilities arising under warranty theories relating to repair or replacement of the property that are essentially contract liabilities. For example, the costs incurred by a taxpayer in repairing or replacing defective products under the terms of a warranty, express or implied, are not product liability losses. On the other hand, the taxpayer's liability for damage done to other property or for harm done to persons that is attributable to a defective product may be product liability losses regardless of whether the claim sounds in tort or contract. Further, liability incurred as a result of services performed by a taxpayer is not product liability. For purposes of the preceding sentence, where both a product and services are integral parts of a transaction, product liability does not arise until all operations with respect to the product are completed and the taxpayer has relinquished possession of it. On the other hand, any liability that arises after completion of the initial delivery, installation, servicing, testing, etc., is considered “product liability” even if such liability arises during the subsequent servicing of the product pursuant to a service agreement or otherwise.
+
+(iii) Liability for injury, harm, or damage due to a defective product as described in this subparagraph shall be “product liability” notwithstanding that the liability is not considered product liability under the law of the State in which such liability arose.
+
+(iv) Amounts paid for insurance against product liability risks are not paid on account of product liability.
+
+(v) Notwithstanding subparagraph (iv), an amount is paid on account of product liability (even if such amount is paid to an insurance company) if the amount satisifies the provisions of paragraph (b)(2) (i) through (iii) of this section and the amount—
+
+(A) Is paid on account of specific claims against the taxpayer (or on account of expenses incurred in connection with the investigation or settlement of or opposition to such claims), subsequent to the events giving rise to the claims and pursuant to a contract entered into before those events,
+
+(B) Is not refundable, and
+
+(C) Is not applicable to other claims, other expenses or to subsequent coverage.
+
+(3) *Examples.* Paragraph (b)(2) of this section is illustrated by the following examples:
+
+Example 1.X, a manufacturer of heating equipment, sells a boiler to A, a homeowner. Subsequent to the sale and installation of the boiler, the boiler explodes due to a defect causing physical injury to A. A sues X for damages for the injuries sustained in the explosion and is awarded $250,000, which X pays. The payment was made on account of product liability.Example 2.Assume the same facts as in *Example 1* and that A also sues under the contract with X to recover for the cost of the boiler and recovers $1,000, the boiler's replacement cost. The $1,000 payment is not a payment on account of product liability. Similarly, if X agrees to repair the destroyed boiler, any amount expended by X for such repair is not payment made on account of product liability.Example 3.Y, a professional medical association, is sued by B, a patient, in an action based on the malpractice of one of its doctors. B recovers $25,000. Because the suit was based on the services of B, the payment is not made on account of product liability.Example 4.R, a retailer of communications equipment, sells a telecommunication device to C. R also contracts with C to service the equipment for 3 years. While R is installing the equipment, the unit catches on fire due to faulty wiring within the unit and destroys C's office. Because R had not relinquished possession of this equipment when the fire started, any amount paid to C by R for the damage to C's property on account of the defective product is not payment on account of product liability.Example 5.Assume the same facts as in *Example 4* except that the fire and resulting property damages occurred after R had installed the equipment and relinquished possession of it. Any amount paid for the property damages sustained on account of the defective product is payment on account of product liability.Example 6.Assume the same facts as in *Example 4* except that the equipment catches on fire during the subsequent servicing of the unit. Because C is in possession of the unit during the servicing, any amount paid for the property damage sustained on account of the defective product would be payment on account of product liability.Example 7.X, a manufacturer of computers, sells a computer to A. X also has its employees periodically service the computer for A from time to time after it is placed in service. After the initial delivery, installation, servicing, and testing of the computer is completed, the computer catches on fire while X's employee is servicing the equipment. This fire causes property damage to A's office and physical injury to A. Any amount paid for the property or physical damage sustained on account of the defective product is payment on account of product liability.
+
+(c) *Election*—(1) *In general.* The 10-year carryback provision of this section applies, except as provided in this paragraph, to any taxpayer who, for a taxable year beginning after September 30, 1979, incurs a product liability loss. Any taxpayer entitled to a 10-year carryback under paragraph (a) of this section in any loss year may elect (at the time and in the manner provided in paragraph (c)(2) of this section) to have the carryback period with respect to the product liability loss determined without regard to the carryback rules provided by paragraph (a) of this section. If the taxpayer so elects, the product liability loss shall not be carried back to the 10th through the 4th taxable years preceding the loss year. In such case, the product liability loss shall be carried back or carried over as provided by section 172(b) (except subparagraph (1)(I) thereof) and the regulations thereunder.
+
+(2) *Time and manner of making election.* An election by any taxpayer entitled to the 10-year carryback for the product liability loss to have the carryback with respect to such loss determined without regard to the 10-year carryback provision of paragraph (a) of this section must be made by attaching to the taxpayer's tax return (filed within the time prescribed by law, including extensions of time) for the taxable year in which such product liability loss is sustained, a statement containing the information required by paragraph (c)(3) of this section. Such election, once made for any taxable year, shall be irrevocable after the due date (including extensions of time) of the taxpayer's tax return for that taxable year.
+
+(3) *Information required.* In the case of a statement filed after April 25, 1983, the statement referred to in paragraph (c)(2) of this section shall contain the following information:
+
+(i) The name, address, and taxpayer identifying number of the taxpayer; and
+
+(ii) A statement that the taxpayer elects under section 172(j)(3) not to have section 172(b)(1)(I) apply.
+
+(4) *Relationship with section 172(b)(3)(C) election.* If a taxpayer sustains during the taxable year both a net operating loss not attributable to product liability and a product liability loss (as defined in section 172(j)(1) and paragraph (b)(1) of this section), an election pursuant to section 172(b)(3)(C) (relating to election to relinquish the entire carryback period) does not preclude the product liability loss from being carried back 10 years under section 172(b)(1)(I) and paragraph (a)(1) of this section.
+
+[T.D. 8096, 51 FR 30482, Aug. 27, 1986]

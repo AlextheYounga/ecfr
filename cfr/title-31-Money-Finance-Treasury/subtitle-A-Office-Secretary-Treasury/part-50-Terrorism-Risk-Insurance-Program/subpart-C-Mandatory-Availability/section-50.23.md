@@ -1,0 +1,5 @@
+##### § 50.23 No material difference from other coverage. #####
+
+(a) *Terms, amounts, and other coverage limitations.* As provided in § 50.20(a)(2), an insurer must offer coverage for insured losses resulting from an act of terrorism that does not differ materially from the terms, amounts, and other coverage limitations (including deductibles) applicable to losses from other perils. For purposes of this requirement, “terms” excludes price.
+
+(b) *Limitations on types of risk.* If an insurer does not cover all types of risks, then it is not required to cover the excluded risks in satisfying the requirement to make available coverage for losses resulting from an act of terrorism that does not differ materially from the terms, amounts, and other coverage limitations applicable to losses arising from events other than acts of terrorism. For example, if an insurer does not cover all types of risks, either because the insurer is outside of direct State regulatory oversight, or because a State permits certain exclusions for certain types of losses, such as nuclear, biological, or chemical events, then the insurer is not required to make such coverage available.

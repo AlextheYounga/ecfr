@@ -1,0 +1,5 @@
+##### § 509.121 Beneficiaries of an estate or trust. #####
+
+(a) *Qualified beneficiary.* If he otherwise satisfies the requirements of the respective articles concerned, a nonresident alien who is a resident of Switzerland and who is a beneficiary of an estate or trust shall be entitled to the exemption from, or reduction in the rate of, United States tax granted by Articles VI, VII, VIII, and XIV of the convention with respect to dividends, interest, and royalties and other like amounts, to the extent that (1) any amount paid, credited, or required to be distributed by such estate or trust to such beneficiary is deemed to consist of such items and (2) such items would, without regard to the convention, be includible in his gross income.
+
+(b) *Amounts otherwise includible in gross income of beneficiary.* For the determination of amounts which, without regard to the convention, are includible in the gross income of the beneficiary, see subchapter J of chapter 1 of the Internal Revenue Code of 1954, and the regulations thereunder.

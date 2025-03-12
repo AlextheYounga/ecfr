@@ -1,0 +1,5 @@
+##### § 7.8 Employee's right of appeal. #####
+
+An employee who is aggrieved by a determination of the Department may appeal to the Commissioner of Patents, pursuant to section 4(d) of Executive Order 10096, as amended by Executive Order 10930, and regulations issued thereunder, by filing a written appeal with the Commissioner, in duplicate, and a copy of the appeal with the Assistant Secretary (Health and Scientific Affairs), within 30 days (or such longer period as the Commissioner may, for good cause, fix in any case) after receiving written notice of such determination.
+
+[27 FR 7986, Aug. 10, 1962, as amended at 31 FR 12842, Oct. 1, 1966]

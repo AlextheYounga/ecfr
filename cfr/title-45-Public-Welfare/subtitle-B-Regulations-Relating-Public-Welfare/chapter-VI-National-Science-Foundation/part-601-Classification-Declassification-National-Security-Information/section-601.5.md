@@ -1,0 +1,7 @@
+##### § 601.5 Derivative classification. #####
+
+Distinct from “original” classification is the determination that information is in substance the same as information currently classified, because of incorporating, paraphrasing, restating or generating in new form information that is already classified, and marking the newly developed material consistent with the marking of the source information. Persons who only reproduce, extract, or summarize classified information, or who only apply classification markings derived from source material or as directed by a classification guide, need not possess original classification authority.
+
+(a) If a person who applies derivative classification markings believes that the paraphrasing, restating, or summarizing of classified information has changed the level of or removed the basis for classification, that person must consult for a determination an appropriate official of the originating agency or office of origin who has the authority to upgrade, downgrade, or declassify the information.
+
+(b) The person who applies derivative classification markings shall observe and respect original classification decisions; and carry forward to any newly created documents any assigned authorized markings. The declassification date or event that provides the longest period of classification shall be used for documents classified on the basis of multiple sources.

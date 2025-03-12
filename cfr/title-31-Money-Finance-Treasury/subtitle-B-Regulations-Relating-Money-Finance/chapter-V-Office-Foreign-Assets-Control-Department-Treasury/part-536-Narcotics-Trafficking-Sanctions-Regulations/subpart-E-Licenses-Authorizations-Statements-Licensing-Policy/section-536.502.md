@@ -1,0 +1,3 @@
+##### § 536.502 Exclusion from licenses and authorizations. #####
+
+The Director of the Office of Foreign Assets Control reserves the right to exclude any person, property, or transaction from the operation of any license, or from the privileges therein conferred, or to restrict the applicability thereof with respect to particular persons, property, transactions, or classes thereof. Such action shall be binding upon all persons receiving actual or constructive notice of such exclusion or restriction.

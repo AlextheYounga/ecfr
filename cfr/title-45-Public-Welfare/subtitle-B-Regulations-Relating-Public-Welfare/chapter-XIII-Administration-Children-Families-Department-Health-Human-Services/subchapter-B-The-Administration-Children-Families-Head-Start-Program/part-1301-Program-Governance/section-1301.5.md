@@ -1,0 +1,3 @@
+##### § 1301.5 Training. #####
+
+An agency must provide appropriate training and technical assistance or orientation to the governing body, any advisory committee members, and the policy council, including training on program performance standards and training indicated in § 1302.12(m) to ensure the members understand the information they receive and can effectively oversee and participate in the programs in the Head Start agency.

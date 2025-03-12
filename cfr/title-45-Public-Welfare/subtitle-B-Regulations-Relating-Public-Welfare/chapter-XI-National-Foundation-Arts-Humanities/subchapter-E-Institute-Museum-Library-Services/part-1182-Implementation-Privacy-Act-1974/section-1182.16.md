@@ -1,0 +1,5 @@
+##### § 1182.16 Procedures to ensure that Institute employees involved with its systems of records are familiar with the requirements and of the Privacy Act. #####
+
+(a) The Director shall ensure that all persons involved in the design, development, operation, or maintenance of any Institute system are informed of all requirements necessary to protect the privacy of subject individuals. The Director also shall ensure that all Institute employees having access to records receive adequate training in their protection, and that records have adequate and proper storage with sufficient security to assure the privacy of such records.
+
+(b) All employees shall be informed of the civil remedies provided under 5 U.S.C. 552a(g)(1) and other implications of the Privacy Act, and the fact that the Institute may be subject to civil remedies for failure to comply with the provisions of the Privacy Act and the regulations in this part.

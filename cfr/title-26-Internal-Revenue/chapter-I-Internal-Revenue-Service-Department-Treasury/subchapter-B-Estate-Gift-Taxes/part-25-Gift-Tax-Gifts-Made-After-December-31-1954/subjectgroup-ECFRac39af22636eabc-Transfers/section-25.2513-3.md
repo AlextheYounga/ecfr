@@ -1,0 +1,9 @@
+##### § 25.2513-3 Revocation of consent. #####
+
+(a)(1) With respect to gifts made after December 31, 1981, or before January 1, 1971, if the consent to the application of the provisions of section 2513 for a calendar year was effectively signified on or before the 15th day of April following the close of the calendar year, either spouse may revoke the consent by filing in duplicate a signed statement of revocation, but only if the statement is filed on or before such 15th day of April. Therefore, a consent that was not effectively signified until after the 15th day of April following the close of the calendar year to which it applies may not be revoked.
+
+(2) With respect to gifts made after December 31, 1970, and before January 1, 1982, if the consent to the application of the provisions of section 2513 for a calendar quarter was effectively signified on or before the 15th day of the second month following the close of such calendar quarter, either spouse may revoke the consent by filing in duplicate a signed statement of revocation, but only if the statement is filed on or before such 15th day of the second month following the close of such calendar quarter. Therefore, a consent that was not effectively signified until after the 15th day of the second month following the close of the calendar quarter to which it applies may not be revoked.
+
+(b) Except as provided in paragraph (b) of § 301.6091-1 of this chapter (relating to hand-carried documents), the statement referred to in paragraph (a) of this section shall be filed with the internal revenue officer with whom the gift tax return is required to be filed, or with whom the gift tax return would be required to be filed if a return were required.
+
+[T.D. 7238, 37 FR 28730, Dec. 29, 1972, as amended by T.D. 7910, 48 FR 40375, Sept. 7, 1983]

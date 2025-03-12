@@ -1,0 +1,3 @@
+##### § 309.70 What provisions governing jurisdiction must a Tribe or Tribal organization include in a Tribal IV-D plan? #####
+
+A Tribe or Tribal organization must include in its Tribal IV-D plan a description of the population subject to the jurisdiction of the Tribal court or administrative agency for child support enforcement purposes and certify that there are at least 100 children under the age of majority in the population subject to the jurisdiction of the Tribe in accordance with § 309.10 of this part and subject to § 309.10(c).

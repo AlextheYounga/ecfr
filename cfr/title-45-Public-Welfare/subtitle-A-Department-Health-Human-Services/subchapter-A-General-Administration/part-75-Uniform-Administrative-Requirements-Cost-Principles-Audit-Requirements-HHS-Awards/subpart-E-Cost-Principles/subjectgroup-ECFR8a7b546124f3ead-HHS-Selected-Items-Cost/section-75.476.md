@@ -1,0 +1,3 @@
+##### § 75.476 Independent research and development costs. #####
+
+Independent research and development is research and development which is conducted by an organization, and which is not sponsored by Federal or non-Federal awards, contracts, or other agreements. Independent research and development shall be allocated its proportionate share of indirect costs on the same basis as the allocation of indirect costs to sponsored research and development. The cost of independent research and development, including their proportionate share of indirect costs, are unallowable.

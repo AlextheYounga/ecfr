@@ -1,0 +1,3 @@
+##### § 315.76 Payment or reissue after termination of the fiduciary estate. #####
+
+A bond registered in the name or title of a fiduciary may be paid or reissued to the person who has become entitled by reason of the termination of a fiduciary estate. Requests for reissue made by a fiduciary pursuant to the termination of a fiduciary estate should be made on the appropriate form. Requests for payment or reissue by other than the fiduciary must be accompanied by evidence to show that the person has become entitled in accordance with applicable State law or otherwise. When two or more persons have become entitled, the request for payment or reissue must be signed by each of them.

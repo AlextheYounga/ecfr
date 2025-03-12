@@ -1,0 +1,3 @@
+##### § 340.9 Bids—revocations—rejections—postponements—reoffers. #####
+
+The Secretary of the Treasury, in his discretion, may (a) revoke the public notice of invitation to bid at any time before opening bids, (b) return all bids unopened either at or prior to the time specified for their opening, (c) reject any or all bids, (d) postpone the time for presentation and opening of bids, and (e) waive any immaterial or obvious defect in any bid. Any action the Secretary of the Treasury may take in these respects shall be final. In the event of a postponement, known bidders will be advised thereof and their bids returned unopened.

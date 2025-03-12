@@ -1,0 +1,21 @@
+##### § 1.66-2 Treatment of community income where spouses live apart. #####
+
+(a) Community income of spouses domiciled in a community property state will be treated in accordance with the rules provided by section 879(a) if all of the following requirements are satisfied—
+
+(1) The spouses are married to each other at any time during the calendar year;
+
+(2) The spouses live apart at all times during the calendar year;
+
+(3) The spouses do not file a joint return with each other for a taxable year beginning or ending in the calendar year;
+
+(4) One or both spouses have earned income that is community income for the calendar year; and
+
+(5) No portion of such earned income is transferred (directly or indirectly) between such spouses before the close of the calendar year.
+
+(b) *Living apart.* For purposes of this section, living apart requires that spouses maintain separate residences. Spouses who maintain separate residences due to temporary absences are not considered to be living apart. Spouses who are not members of the same household under § 1.6015-3(b) are considered to be living apart for purposes of this section.
+
+(c) *Transferred income.* For purposes of this section, transferred income does not include a *de minimis* amount of earned income that is transferred between the spouses. In addition, any amount of earned income transferred for the benefit of the spouses' child will not be treated as an indirect transfer to one spouse. Additionally, income transferred between spouses is presumed to be a transfer of earned income. This presumption is rebuttable.
+
+(d) *Examples.* The following examples illustrate the rules of this section:
+
+Example 1 Living apart.H and W are married, domiciled in State A, a community property state, and have lived apart the entire year of 2002. W, who is in the Army, was stationed in Korea for the entire calendar year. During their separation, W intended to return home to H, and H intended to live with W upon W's return. H and W do not file a joint return for taxable year 2002. H and W may not report their income under this section because a temporary absence due to military service is not living apart as contemplated under this section.Example 2 Transfer of earned income—de minimis exception.H and W are married, domiciled in State B, a community property state, and have lived apart the entire year of 2002. H and W are estranged and intend to live apart indefinitely. H and W do not file a joint return for taxable year 2002. H occasionally visits W and their two children, who live with W. When H visits, he often buys gifts for the children, takes the children out to dinner, and occasionally buys groceries or gives W money to buy the children new clothes for school. Both W and H have earned income in the year 2002 that is community income under the laws of State B. H and W may report their income on separate returns under this section.Example 3 Transfer of earned income—source of transfer.H and W are married, domiciled in State C, a community property state, and have lived apart the entire year of 2002. H and W are estranged and intend to live apart indefinitely. H and W do not file a joint return for taxable year 2002. W provides H $1,000 a month from March 2002 through August 2002 while H is working part-time and seeking full-time employment. W is not legally obligated to make the $1,000 payments. W earns $75,000 in 2002 in wage income. W also receives $10,000 in capital gains income in December 2002. H wants to report his income in accordance with this section, alleging that the $6,000 that he received from W was not from W's earned income, but from the capital gains income W received in 2002. The facts and circumstances surrounding the periodic payments to H from W do not indicate that W made the payments out of her capital gains. H and W may not report their income in accordance with this section, as the $6,000 W transferred to H is presumed to be from W's earned income, and H has not presented any facts to rebut the presumption.[T.D. 9074, 68 FR 41070, July 10, 2003]

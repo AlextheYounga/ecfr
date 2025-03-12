@@ -1,0 +1,3 @@
+##### § 356.10 What is the purpose of an auction announcement? #####
+
+By issuing an auction announcement, we provide public notice of the sale of bills, notes, and bonds. The auction announcement lists the specifics of each auction, e.g., offering amount, term and type of security, CUSIP number, and issue and maturity dates. The auction announcement and this part, including the Appendices, specify the terms and conditions of sale. If anything in the auction announcement differs from this part, the auction announcement will control. If you intend to bid, you should read the applicable auction announcement along with this part.

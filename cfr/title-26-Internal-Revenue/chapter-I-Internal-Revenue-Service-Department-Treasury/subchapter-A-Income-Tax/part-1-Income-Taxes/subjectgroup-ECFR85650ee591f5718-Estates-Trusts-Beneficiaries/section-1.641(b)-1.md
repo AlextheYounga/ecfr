@@ -1,0 +1,3 @@
+##### § 1.641(b)-1 Computation and payment of tax; deductions and credits of estates and trusts. #####
+
+Generally, the deductions and credits allowed to individuals are also allowed to estates and trusts. However, there are special rules for the computation of certain deductions and for the allocation between the estate or trust and the beneficiaries of certain credits and deductions. See section 642 and the regulations thereunder. In addition, an estate or trust is allowed to deduct, in computing its taxable income, the deductions provided by sections 651 and 661 and regulations thereunder, relating to distributions to beneficiaries.

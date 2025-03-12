@@ -1,0 +1,3 @@
+##### § 1177.3 Other remedies. #####
+
+The remedies and sanctions available to the National Endowment for the Humanities under this part are not intended to be exclusive. The Chairperson of the National Endowment for the Humanities or his designee may impose other appropriate sanctions upon a debtor for prolonged or repeated failure to pay a debt. For example, the Chairperson or his designee may place the debtor's name on a list of debarred, suspended, or ineligible grantees and contractors, convert the method of payment under a grant from an advance to a reimbursement method, or revoke a grantee's letter of credit. In such cases the debtor will be advised of the Endowment's action.

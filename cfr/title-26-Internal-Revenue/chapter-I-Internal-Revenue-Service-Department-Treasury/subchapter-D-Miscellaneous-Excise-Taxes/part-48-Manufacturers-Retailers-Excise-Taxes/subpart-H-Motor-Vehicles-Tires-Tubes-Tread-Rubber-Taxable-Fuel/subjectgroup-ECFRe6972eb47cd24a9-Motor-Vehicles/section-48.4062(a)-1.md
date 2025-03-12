@@ -1,0 +1,3 @@
+##### § 48.4062(a)-1 Specific parts or accessories. #####
+
+Spark plugs, storage batteries, leaf springs, coils, timers, and tire chains, which are suitable for use on or in connection with, or as component parts of, automobile trucks, other automobiles, tractors, or other vehicles enumerated in section 4061(a), are considered parts of, or accessories for, such articles whether or not primarily designed or adapted for such use.

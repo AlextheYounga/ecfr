@@ -1,0 +1,7 @@
+##### § 1630.8 Recovery of disallowed costs and other corrective action. #####
+
+(a) The Corporation shall recover any disallowed costs from the recipient within the time limits and conditions set forth in the Corporation's management decision. Recovery of the disallowed costs may be in the form of a reduction in the amount of future grant checks or in the form of direct payment from the recipient to the Corporation.
+
+(b) The Corporation shall ensure that a recipient which has incurred a disallowed cost takes any additional, necessary corrective action within the time limits and conditions set forth in the Corporation's management decision. The recipient shall have taken final action when the recipient has repaid all disallowed costs and has taken all corrective action which the Corporation has stated in its management decision is necessary to prevent the recurrence of circumstances giving rise to a questioned cost.
+
+(c) In the event of an appeal of the Corporation's management decision, the decision of the President or designee shall supersede the Corporation's management decision, and the recipient shall repay any disallowed costs and take necessary corrective action according to the terms and conditions of the decision of the President or designee.

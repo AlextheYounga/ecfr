@@ -1,0 +1,3 @@
+##### § 566.316 Payable-through account. #####
+
+The term *payable-through account* means an account, including a transaction account as defined in § 566.317, opened at a depository institution by a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in banking activities usual in connection with the business of banking in the United States.

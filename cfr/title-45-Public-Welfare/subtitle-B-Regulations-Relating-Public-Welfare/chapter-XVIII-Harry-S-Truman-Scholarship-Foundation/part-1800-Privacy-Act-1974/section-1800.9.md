@@ -1,0 +1,3 @@
+##### § 1800.9 Disclosure of record to a person other than the individual to whom the record pertains. #####
+
+The Foundation will not disclose a record to any individual other than to the individual to whom the record pertains without receiving the prior written consent of the individual to whom the record pertains, unless the disclosure has been listed as a “routine use” in the Foundation's notices of its systems of records.

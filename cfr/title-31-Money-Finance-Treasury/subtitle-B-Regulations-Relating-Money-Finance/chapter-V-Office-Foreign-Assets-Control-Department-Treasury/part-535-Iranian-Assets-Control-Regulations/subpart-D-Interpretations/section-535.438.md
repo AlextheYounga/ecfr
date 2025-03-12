@@ -1,0 +1,7 @@
+##### § 535.438 Standby letters of credit, performance or payment bonds and similar obligations. #####
+
+(a) Nothing contained in §§ 535.212, 535.213 and 535.214 or in any other provision or revocation or amendment of any provision in this part affects the prohibition in § 535.201 and the licensing procedure in § 535.568 relating to certain standby letters of credit, performance bonds and similar obligations. The term *funds and securities* as used in this part does not include substitute blocked accounts established under section 535.568 relating to standby letters of credit, performance or payment bonds and similar obligations.
+
+(b) No transfer requirement under § 535.213 or § 535.214 shall be deemed to authorize or compel any payment or transfer of any obligation under a standby letter of credit, performance bond or similar obligation as to which a blocked account has been established pursuant to § 535.568 or as to which payment is prohibited under an injunction obtained by the account party.
+
+(Secs. 201-207, 91 Stat. 1626, 50 U.S.C. 1701-1706; E.O. 12170, 44 FR 65729; E.O. 12205, 45 FR 24099; E.O. 12211, 45 FR 26685; E.O. 12276, 46 FR 7913; E.O. 12279, 46 FR 7919; E.O. 12280, 46 FR 7921; E.O. 12281, 46 FR 7923; E.O. 12282, 46 FR 7925; E.O. 12283, 46 FR 7927, and E.O. 12294, 46 FR 14111)[46 FR 14336, Feb. 26, 1981, as amended at 46 FR 30341, June 8, 1981]

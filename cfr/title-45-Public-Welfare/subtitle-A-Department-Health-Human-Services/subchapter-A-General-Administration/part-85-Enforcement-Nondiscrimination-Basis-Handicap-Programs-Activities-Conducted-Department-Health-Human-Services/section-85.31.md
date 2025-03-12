@@ -1,0 +1,3 @@
+##### § 85.31 Employment. #####
+
+No qualified individuals with handicaps shall, on the basis of handicap, be subjected to discrimination in employment under any program or activity conducted by the agency. The definitions, requirements, and procedures of section 501 of the Rehabilitation Act of 1973 (9 U.S.C. 791), as established by the Equal Employment Opportunity Commission in 9 CFR part 1613, shall apply to employment in federally conducted programs and activities.

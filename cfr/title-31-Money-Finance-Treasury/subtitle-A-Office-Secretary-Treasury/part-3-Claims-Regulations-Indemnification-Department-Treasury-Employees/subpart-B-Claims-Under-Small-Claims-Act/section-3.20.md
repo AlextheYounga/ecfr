@@ -1,0 +1,3 @@
+##### § 3.20 General. #####
+
+The Act of December 28, 1922, 42 Stat. 1066, the Small Claims Act, authorized the head of each department and establishment to consider, ascertain, adjust, and determine claims of $1,000 or less for damage to, or loss of, privately owned property caused by the negligence of any officer or employee of the Government acting within the scope of his employment. The Federal Tort Claims Act superseded the Small Claims Act with respect to claims that are allowable under the former act. Therefore, claims that are not allowable under the Federal Tort Claims Act, for example, claims arising abroad, may be allowable under the Small Claims Act.

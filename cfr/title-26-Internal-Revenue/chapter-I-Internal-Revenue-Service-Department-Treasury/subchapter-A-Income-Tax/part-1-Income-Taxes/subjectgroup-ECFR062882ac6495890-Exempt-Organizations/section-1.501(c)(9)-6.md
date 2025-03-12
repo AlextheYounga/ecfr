@@ -1,0 +1,7 @@
+##### § 1.501(c)(9)-6 Voluntary employees' beneficiary associations; benefits includible in gross income. #####
+
+(a) *In general.* Cash and noncash benefits realized by a person on account of the activities of an organization described in section 501(c)(9) shall be included in gross income to the extent provided in the Internal Revenue Code of 1954, including, but not limited to, sections 61, 72, 101, 104 and 105 of the Code and regulations thereunder.
+
+(b) *Availability of statutory exclusions from gross income.* The availability of any statutory exclusion from gross income with respect to contributions to, or the payment of benefits from, an organization described in section 501(c)(9) is determined by the statutory provision conferring the exclusion, and the regulations and rulings thereunder, not by whether an individual is eligible for membership in the organization or by the permissibility of the benefit paid. Thus, for example, if a benefit is paid by an employer-funded organization described in section 501(c)(9) to a member who is not an *employee,* a statutory exclusion from gross income that is available only for *employees* would be unavailable in the case of a benefit paid to such individual. Similarly, the fact that, for example, under some circumstances educational benefits constitute *other benefits* does not of itself mean that such benefits are eligible for the exclusion of either section 117 or section 127 of the Code.
+
+[T.D. 7750, 46 FR 1725, Jan. 7, 1981]

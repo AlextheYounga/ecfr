@@ -1,0 +1,5 @@
+##### § 305.36 Incentive phase-in. #####
+
+Link to an amendment published at 81 FR 93568, Dec. 20, 2016.
+
+The incentive system under this part will be phased-in over a three-year period during which both the old system and the new system will be used to determine the amount a State will receive. For fiscal year 2000, a State will receive two-thirds of what it would have received under the incentive formula set forth in § 304.12 of this chapter, and one-third of what it would receive under the formula set forth under this part. In fiscal year 2001, a State will receive one-third of what it would have received under the incentive formula set forth under § 304.12 of this chapter and two-thirds of what it would receive under the formula under this part. In fiscal year 2002, the formula set forth under this part will be fully implemented and would be used to determine all incentive amounts.

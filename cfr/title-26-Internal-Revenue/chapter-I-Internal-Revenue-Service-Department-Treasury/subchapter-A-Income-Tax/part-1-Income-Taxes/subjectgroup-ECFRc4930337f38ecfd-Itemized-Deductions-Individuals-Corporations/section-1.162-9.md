@@ -1,0 +1,3 @@
+##### § 1.162-9 Bonuses to employees. #####
+
+Bonuses to employees will constitute allowable deductions from gross income when such payments are made in good faith and as additional compensation for the services actually rendered by the employees, provided such payments, when added to the stipulated salaries, do not exceed a reasonable compensation for the services rendered. It is immaterial whether such bonuses are paid in cash or in kind or partly in cash and partly in kind. Donations made to employees and others, which do not have in them the element of compensation or which are in excess of reasonable compensation for services, are not deductible from gross income.

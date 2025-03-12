@@ -1,0 +1,9 @@
+##### § 31.3306(p)-1 Employees of related corporations. #####
+
+(a) *In general.* For purposes of sections 3301, 3302, and 3306(b)(1), when two or more related corporations concurrently employ the same individual and compensate that individual through a common paymaster which is one of the related corporations for which the individual performs services, each of the corporations is considered to have paid only the remuneration it actually disburses to that individual (unless the disbursing corporation fails to remit the taxes due). Paragraphs (b) and (c) of § 31.3121(s)-1 contain rules defining related corporations, common paymasters, and concurrent employment, and rules for determining the liability of the other related corporations for employment taxes if the common paymaster fails to remit the taxes pursuant to sections 3102 and 3111, and for allocating these taxes among the related corporations. Those rules also apply to the tax under section 3301. For purposes of applying those rules to this section, references in those rules to section 3111 are considered references to sections 3301 and 3302, and references to section 3121 are considered references to section 3306.
+
+(b) *Allocation of credit for contributions to State unemployment funds.* A special rule for applying the rules of § 31.3121(s)-1 to this section applies if it is necessary to determine the ultimate liability of each related corporation for which services are performed in the event the common paymaster fails to remit the tax to the Internal Revenue Service. In determining the ultimate liability of a corporation, the credit for contributions to State unemployment funds that the corporation may claim under section 3302 is calculated as if each corporation were a separate employer.
+
+(c) *Effective date.* This section is effective with respect to wages paid after December 31, 1978.
+
+[T.D. 7660, 44 FR 75142, Dec. 19, 1979]

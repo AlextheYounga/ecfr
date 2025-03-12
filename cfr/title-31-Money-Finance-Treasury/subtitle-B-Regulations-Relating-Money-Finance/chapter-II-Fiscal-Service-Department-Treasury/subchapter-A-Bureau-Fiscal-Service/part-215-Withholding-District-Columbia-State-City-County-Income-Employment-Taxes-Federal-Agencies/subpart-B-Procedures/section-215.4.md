@@ -1,0 +1,5 @@
+##### § 215.4 Relationship of Withholding Agreement to prior agreements. #####
+
+Jurisdictions which requested from Treasury an agreement other than the Withholding Agreement set forth in subpart C (formerly known as the Standard Agreement) within 90 days after July 1, 1977, which request Treasury subsequently approved, will continue to be governed by such agreement. For all other jurisdictions, the Withholding Agreement set forth in subpart C replaced all prior agreements between the Secretary and a taxing jurisdiction for the withholding of income or employment taxes from the compensation of Federal employees, and any jurisdiction which was a party to a prior agreement is presumed to have consented to be bound by the Withholding Agreement set forth in subpart C.
+
+[71 FR 2150, Jan. 13, 2006]

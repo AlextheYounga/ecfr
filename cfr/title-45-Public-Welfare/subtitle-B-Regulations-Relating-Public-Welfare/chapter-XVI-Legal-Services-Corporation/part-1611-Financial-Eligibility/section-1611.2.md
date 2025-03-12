@@ -1,0 +1,19 @@
+##### § 1611.2 Definitions. #####
+
+(a) “Advice and counsel” means legal assistance that is limited to the review of information relevant to the client's legal problem(s) and counseling the client on the relevant law and/or suggested course of action. Advice and counsel does not encompass drafting of documents or making third-party contacts on behalf of the client.
+
+(b) “Applicable rules of professional responsibility” means the rules of ethics and professional responsibility generally applicable to attorneys in the jurisdiction where the recipient provides legal services.
+
+(c) “Applicant” means an individual who is seeking legal assistance supported with LSC funds from a recipient. The term does not include a group, corporation or association.
+
+(d) “Assets” means cash or other resources of the applicant or members of the applicant's household that are readily convertible to cash, which are currently and actually available to the applicant.
+
+(e) “Brief services” means legal assistance in which the recipient undertakes to provide a discrete and time-limited service to a client beyond advice and consultation, including but not limited to activities, such as the drafting of documents or making limited third party contacts on behalf of a client.
+
+(f) “Extended service” means legal assistance characterized by the performance of multiple tasks incident to continuous representation. Examples of extended service would include representation of a client in litigation, an administrative adjudicative proceeding, alternative dispute resolution proceeding, extended negotiations with a third party, or other legal representation in which the recipient undertakes responsibility for protecting or advancing a client's interest beyond advice and counsel or brief services.
+
+(g) “Governmental program for low income individuals or families” means any Federal, State or local program that provides benefits of any kind to persons whose eligibility is determined on the basis of financial need.
+
+(h) “Governmental program for persons with disabilities” means any Federal, State or local program that provides benefits of any kind to persons whose eligibility is determined on the basis of mental and/or physical disability.
+
+(i) “Income” means actual current annual total cash receipts before taxes of all persons who are resident members and contribute to the support of an applicant's household, as that term is defined by the recipient. Total cash receipts include, but are not limited to, wages and salaries before any deduction; income from self-employment after deductions for business or farm expenses; regular payments from governmental programs for low income persons or persons with disabilities; social security payments; unemployment and worker's compensation payments; strike benefits from union funds; veterans benefits; training stipends; alimony; child support payments; military family allotments; public or private employee pension benefits; regular insurance or annuity payments; income from dividends, interest, rents, royalties or from estates and trusts; and other regular or recurring sources of financial support that are currently and actually available to the applicant. Total cash receipts do not include the value of food or rent received by the applicant in lieu of wages; money withdrawn from a bank; tax refunds; gifts; compensation and/or one-time insurance payments for injuries sustained; non-cash benefits; and up to $2,000 per year of funds received by individual Native Americans that is derived from Indian trust income or other distributions exempt by statute.

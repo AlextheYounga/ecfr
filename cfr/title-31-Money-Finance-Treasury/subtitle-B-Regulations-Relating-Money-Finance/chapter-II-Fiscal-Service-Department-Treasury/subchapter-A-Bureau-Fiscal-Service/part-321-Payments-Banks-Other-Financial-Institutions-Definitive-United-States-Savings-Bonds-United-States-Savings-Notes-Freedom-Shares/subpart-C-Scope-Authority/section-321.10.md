@@ -1,0 +1,7 @@
+##### § 321.10 Responsibilities of paying agents. #####
+
+(a) *Payment of securities.* A paying agent is required to redeem eligible securities during its regular business hours for any presenter, whether or not a customer, who can establish his or her identity as the owner or co-owner named on the securities, in accordance with the provisions of this part, and the appendix to this part, and the Treasury Identification Guide for Cashing United States Savings Bonds. An agent is encouraged, but is not required, to redeem eligible securities during its regular business hours for a surviving beneficiary, a legal representative designated in the registration of securities presented, or a legal representative of the last deceased registrant's estate who can provide acceptable evidence (see § 321.7 (d) or (f)) and establish identity in accordance with this part.
+
+(b) *Restrictions.* A paying agent shall not advance money, make loans on, or discount the redemption value of securities, nor in any manner assist others to do so. An agent shall not pay a presenter the current value of a security and then defer presentation to the Treasury for the purpose of obtaining for its own profit an increased value.
+
+[53 FR 37511, Sept. 26, 1988, as amended at 55 FR 35396, Aug. 29, 1990]

@@ -1,0 +1,3 @@
+##### § 342.0 Offering of notes. #####
+
+The Secretary of the Treasury offered for sale to the people of the United States, United States Savings Notes (also known as “Freedom Shares”, and generally referred to herein as “savings notes” or “notes”). The notes could be purchased only in combination with Series E savings bonds of the same or greater denomination. This offering was effective from May 1, 1967 until the close of business October 31, 1970 when the sale of savings notes was terminated by the Secretary of the Treasury.

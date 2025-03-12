@@ -1,0 +1,11 @@
+##### § 48.4222(b)-1 Exceptions to the requirement for registration. #####
+
+(a) *State and local governments.* The Internal Revenue Service will not register State or local governments under section 4222. To establish the right to sell articles tax free to a State or local government, the manufacturer must obtain the information described in § 48.4221-5(c).
+
+(b) *Sales or resales to foreign purchasers for export.* Persons whose principal place of business is not within the United States may, but are not required to, register in order to purchase articles tax free for export. To establish the right to sell articles tax free for export to a purchaser who is not registered and who is located in a foreign country or a possession of the United States, the manufacturer must obtain the evidence required by paragraph (b) of § 48.4221-3.
+
+(c) *United States.* Except as provided in paragraph (b) of § 48.4222(d)-1 (relating to sales to the American Red Cross) the registration requirements of the regulations in this part do not apply to purchases and sales by the United States or any of its agencies or instrumentalities. The evidence required in support of such tax-free purchases and sales is a notation on the purchase order or other document furnished to the seller clearly indicating that the article or articles are being purchased tax free as authorized by Chapter 32 of the Code.
+
+(d) *Supplies for vessels and aircraft.* An article subject to an excise tax imposed by Chapter 32 of the Code may be sold tax free by the manufacturer under the provisions of § 48.4221-4 for use by the purchaser as supplies for a vessel or aircraft if both the manufacturer and the purchaser are registered under the provisions of § 48.4222(a)-1. The article also may, on or after July 1, 1965, be sold tax free for such use even though neither the manufacturer nor the purchaser is so registered if the provisions of paragraph (d) of § 48.4221-4 are satisfied.
+
+[T.D. 7536, 43 FR 13522, Mar. 31, 1978, as amended by T.D. 8659, 61 FR 10463, Mar. 14, 1996; T.D. 8879, 65 FR 17160, Mar. 31, 2000]

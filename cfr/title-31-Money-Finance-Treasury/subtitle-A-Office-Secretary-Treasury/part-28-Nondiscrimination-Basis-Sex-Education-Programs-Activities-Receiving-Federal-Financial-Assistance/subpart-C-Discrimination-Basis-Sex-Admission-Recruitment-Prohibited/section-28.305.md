@@ -1,0 +1,3 @@
+##### § 28.305 Preference in admission. #####
+
+A recipient to which §§ 28.300 through 28.310 apply shall not give preference to applicants for admission, on the basis of attendance at any educational institution or other school or entity that admits as students only or predominantly members of one sex, if the giving of such preference has the effect of discriminating on the basis of sex in violation of §§ 28.300 through 28.310.

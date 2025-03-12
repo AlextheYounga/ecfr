@@ -1,0 +1,5 @@
+##### § 675.1 Purpose and authority. #####
+
+(a) This part sets forth the procedures for medical screening to determine whether candidates for participation in the United States Antarctic Program (USAP) are physically qualified and psychologically adapted for assignment or travel to Antarctica. Medical screening examinations are necessary to determine the presence of any physical or psychological conditions that would threaten the health or safety of the candidate or other USAP participants or that could not be effectively treated by the limited medical care capabilities in Antarctica.
+
+(b) Presidential Memorandum No. 6646 (February 5, 1982) (available from the National Science Foundation, Office of Polar Programs, room 755, 4201 Wilson Blvd., Arlington, VA 22230) sets forth the National Science Foundation's overall management responsibilities for the entire United States national program in Antarctica.

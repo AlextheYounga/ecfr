@@ -1,0 +1,5 @@
+##### § 1.6153-4 Extension of time for paying the estimated tax. #####
+
+An extension of time granted an individual under section 6081 for filing the declaration of estimated tax automatically extends the time for paying the estimated tax (without interest) for the same period. See § 1.6073-4 for rules relating to extensions of time for filing declarations of estimated tax by individuals. Except as provided in paragraph (b) of § 301.6091-1 (relating to hand-carried documents), an application for an extension of time for paying a particular installment of the estimated tax shall be addressed to the internal revenue officer with whom the taxpayer files his declaration. Each application must contain a full recital of the causes for the delay. Such extension may be for a reasonable period not to exceed 6 months from the date fixed for payment thereof except in the case of a taxpayer who is abroad. Such extension does not relieve the taxpayer from the addition to the tax imposed by section 6654, and the period of the underpayment will be determined under section 6654(c) without regard to such extension.
+
+[T.D. 6950, 33 FR 5357, Apr. 4, 1968]

@@ -1,0 +1,3 @@
+##### § 508.6 Résumé of hearing, preparation of. #####
+
+Following each hearing, the hearing officer will prepare a résumé of the hearing, specifying the issues on which the hearing was based, and including a list of documents and contents and other items relative to the issues that were introduced as evidence. A brief analysis of oral testimony will also be prepared and included in the résumé of each hearing not stenographically reported.

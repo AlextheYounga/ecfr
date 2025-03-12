@@ -1,0 +1,3 @@
+##### § 1172.23 Self-evaluation. #####
+
+As part of a compliance review under § 1172.31 or a complaint investigation under § 1172.34, NEH may require a recipient employing the equivalent of fifteen (15) or more full time employees to complete a written self-evaluation, in a manner specified by NEH, of any age distinction imposed in its program or activity receiving Federal financial assistance. A recipient must take corrective and remedial action whenever a self-evaluation indicates a violation of the Act, and the recipient must make the self-evaluation available upon request to NEH and to the public for a period of three (3) years following its completion.

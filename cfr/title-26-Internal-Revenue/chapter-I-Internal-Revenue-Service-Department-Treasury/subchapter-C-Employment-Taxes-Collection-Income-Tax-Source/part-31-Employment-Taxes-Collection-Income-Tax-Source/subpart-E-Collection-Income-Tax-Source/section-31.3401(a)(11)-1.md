@@ -1,0 +1,5 @@
+##### § 31.3401(a)(11)-1 Remuneration other than in cash for service not in the course of employer's trade or business. #####
+
+(a) Remuneration paid in any medium other than cash for services not in the course of the employer's trade or business is excepted from wages and hence is not subject to withholding. Cash remuneration includes checks and other monetary media of exchange. Remuneration paid in any medium other than cash, such as lodging, food, or other goods or commodities, for services not in the course of the employer's trade or business does not constitute wages. Remuneration paid in any medium other than cash for other types of services does not come within this exception from wages. For provisions relating to cash remuneration for service not in the course of employer's trade or business, see § 31.3401(a)(4)-1.
+
+(b) As used in this section, the term “services not in the course of the employer's trade or business” has the same meaning as when used in § 31.3401(a)(4)-1.

@@ -1,0 +1,7 @@
+##### § 340.0 Authority for sale of Treasury bonds through competitive bidding. #####
+
+(a) The Secretary of the Treasury may, from time to time, by public notice, offer Treasury bonds for sale and invite bids therefor. The bonds so offered and the bids made will be subject to the terms and conditions and the rules and regulations herein set forth, except as they may be modified in the public notice or notices issued by the Secretary in connection with particular offerings.1 The bonds will be subject also to the general rules and regulations of the Treasury Department, now or hereafter prescribed, governing United States securities. They will be issued pursuant to the authority of the Second Liberty Bond Act, as amended.
+
+1 These regulations do not apply to Treasury bills, which are governed by Department Circular No. 418, Revised, and do not constitute a specific offering of bonds.
+
+(b) The terms *public notice, notices,* or *announcement* as used in this part mean the *Public Notice of Invitation to Bid* on Treasury bonds and any supplementary or amendatory notices or announcements with respect thereto, including, but not limited to any statement released to the press by the Secretary of the Treasury and notices sent to those who have filed notices of intent to bid or who have filed bids.

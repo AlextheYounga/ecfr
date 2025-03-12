@@ -1,0 +1,3 @@
+##### § 900.8 No private rights created. #####
+
+The standards in this chapter do not create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, its officers, or any other person, nor shall the failure of an agency to comply with any of the provisions of parts 900-904 of this chapter be available to any debtor as a defense.

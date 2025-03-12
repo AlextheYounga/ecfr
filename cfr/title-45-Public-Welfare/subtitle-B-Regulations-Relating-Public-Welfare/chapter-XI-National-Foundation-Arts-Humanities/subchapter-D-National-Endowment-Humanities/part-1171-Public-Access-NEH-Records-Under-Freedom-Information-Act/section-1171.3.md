@@ -1,0 +1,3 @@
+##### § 1171.3 Information policy. #####
+
+The NEH may provide information the agency routinely makes available to the public through its regular activities (for example, program announcements and solicitations, press releases, and summaries of awarded grant applications) without following this part. As a matter of policy, the NEH makes discretionary disclosures of records or information otherwise exempt under the FOIA whenever disclosure would not foreseeably harm an interest protected by a FOIA exemption. This policy, however, does not create any right enforceable in court.

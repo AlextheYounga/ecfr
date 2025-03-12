@@ -1,0 +1,3 @@
+##### § 1030.500 General. #####
+
+Housing government sponsored enterprises are subject to special information sharing procedures to deter money laundering and terrorist activity requirements set forth and cross referenced in this subpart. Housing government sponsored enterprises should also refer to subpart E of part 1010 of this chapter for special information sharing procedures to deter money laundering and terrorist activity contained in that subpart that apply to housing government sponsored enterprises.

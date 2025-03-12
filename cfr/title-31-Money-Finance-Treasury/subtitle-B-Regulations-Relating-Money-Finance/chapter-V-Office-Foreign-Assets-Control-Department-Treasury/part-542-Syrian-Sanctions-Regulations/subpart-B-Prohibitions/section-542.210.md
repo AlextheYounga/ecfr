@@ -1,0 +1,3 @@
+##### § 542.210 Prohibited facilitation. #####
+
+Except as otherwise authorized, United States persons, wherever located, are prohibited from approving, financing, facilitating, or guaranteeing a transaction by a foreign person where the transaction by that foreign person would be prohibited by §§ 542.206, 542.207, 542.208, or 542.209 of this part if performed by a United States person or within the United States.

@@ -1,0 +1,3 @@
+##### § 328.7 Shipment of securities. #####
+
+Securities bearing restrictive endorsements may be shipped, at the risk and expense of the shipper, by registered mail, messenger, armored car service, or express to the Federal Reserve bank of the district in which the presenting bank, the Service Center Director, or the District Director, Internal Revenue Service, is located, or to the appropriate branch of such Federal Reserve bank, shipments to the Bureau of the Fiscal Service, Washington, DC, should be made by messenger or armored car.

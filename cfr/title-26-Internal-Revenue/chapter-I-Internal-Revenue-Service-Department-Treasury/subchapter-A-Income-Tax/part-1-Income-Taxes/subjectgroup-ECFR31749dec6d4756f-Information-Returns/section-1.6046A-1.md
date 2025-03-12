@@ -1,0 +1,79 @@
+##### § 1.6046A-1 Return requirement for United States persons who acquire or dispose of an interest in a foreign partnership, or whose proportional interest in a foreign partnership changes substantially. #####
+
+(a) *Return requirement*—(1) *General rule.* If a United States person has a reportable event (as defined in paragraph (b)(1) of this section) during the person's tax year, then, except as provided in paragraph (f) of this section, the United States person is required to complete and file Form 8865, “Return of U.S. Persons With Respect to Certain Foreign Partnerships,” containing the information described in paragraph (c) of this section.
+
+(2) *Separate return for each partnership.* If a United States person has a reportable event with respect to an interest in more than one foreign partnership, the United States person must file a separate Form 8865 for each foreign partnership.
+
+(b) *Definitions*—(1) *Reportable event.* There are three categories of reportable events under section 6046A: acquisitions, dispositions, and changes in proportional interests.
+
+(i) *Acquisitions.* A United States person that acquires a foreign partnership interest has a reportable event if—
+
+(A) The person did not own a ten-percent or greater direct interest in the partnership and as a result of the acquisition the person owns a ten-percent or greater direct interest in the partnership. For purposes of this paragraph (b)(1)(i)(A), an acquisition includes an increase in a person's direct proportional interest; or
+
+(B) Subject to paragraph (b)(2) of this section, compared to the person's direct interest when the person last had a reportable event, after the acquisition the person's direct interest has increased by at least a ten-percent interest.
+
+(ii) *Dispositions.* A United States person that disposes of a foreign partnership interest has a reportable event if—
+
+(A) The person owned a ten-percent or greater direct interest in the partnership before the disposition and as a result of the disposition the person owns less than a ten-percent direct interest. For purposes of this paragraph (b)(1)(ii)(A), a disposition includes a decrease in a person's direct proportional interest; or
+
+(B) Subject to paragraph (b)(2) of this section, compared to the person's direct interest when the person last had a reportable event, after the disposition the person's direct interest has decreased by at least a ten-percent interest.
+
+(iii) *Changes in proportional interests not otherwise reportable as acquisitions or dispositions under paragraph (b)(1)(i)(A) or (b)(1)(ii)(A) of this section.* A United States person has a reportable event if, subject to paragraph (b)(2) of this section, compared to the person's direct proportional interest the last time the person had a reportable event, the person's direct proportional interest has increased or decreased by at least the equivalent of a ten-percent interest.
+
+(2) *Special rule for foreign partnership interests owned on December 31, 1999.* If a United States person owned a ten-percent or greater direct interest in a foreign partnership on December 31, 1999, then to determine whether the person has a reportable event under paragraph (b)(1)(i)(B), (b)(1)(ii)(B), or (b)(1)(iii) of this section, the comparison should be made to the person's direct interest on December 31, 1999. Once the person has a reportable event after December 31, 1999, future comparisons should be made by reference to the last reportable event.
+
+(3) *Change in a proportional interest.* A partner's proportional interest in a foreign partnership may change for a number of reasons, for example, the change may be caused by changes in other partners' interests resulting from a partner withdrawing from the partnership. A proportional change may also occur by operation of the partnership agreement, for example, if the partnership agreement provides that a partner's interest in profits will change on a set date or when the partnership has earned a specified amount of profits and one of those events occurs.
+
+(4) *Ten-percent interest.* Under section 6046A(d) and this section, a *ten-percent interest* in a foreign partnership, as described in section 6038(e)(3)(C) and the regulations thereunder, means an interest equal to ten percent of the capital interest in such partnership, an interest equal to ten percent of the profits interest in such partnership, or an interest to which ten percent of the deductions or losses of such partnership are allocated.
+
+(5) *United States person. United States person* means a person described in section 7701(a)(30).
+
+(6) *Foreign partnership. Foreign partnership* means any partnership that is a foreign partnership under sections 7701(a)(2) and (5).
+
+(7) *Examples.* The rules of paragraph (a) of this section and this paragraph (b) are illustrated by the following examples:
+
+Example 1.Acquisition of an indirect interest. FP, a foreign partnership, has two partners, *FC1* and *FC2,* both foreign corporations. *FC1* owns a 40% interest in *FP,* and *FC2* owns a 60% interest in *FP.* No United States person owns an interest in *FP,* either directly, or constructively under section 6038(e)(3)(C) and section 267(c). On January 1, 2001, *US,* a United States person and calendar year taxpayer, acquires by purchase 100% of *FC2's* stock. *US* has acquired an indirect interest of 60% in *FP.* See sections 6038(e)(3)(C) and 267(c)(1). However, *US* is not required to report the January 1, 2001 indirect acquisition under section 6046A. *US* did not own a 10% or greater direct interest in *FP* before the acquisition, and *US* does not own a 10% or greater direct interest as a result of the acquisition. (*US* must, however, comply with the reporting requirements under section 6038 (controlled foreign corporation and controlled foreign partnership reporting) with respect to *FC2* and *FP.*)Example 2.Acquisition of direct interests. (i) Assume the same facts as *Example 1.* In addition, on June 1, 2001, *US* purchases a 5% direct interest in *FP* from *FC1. US* did not own a 10% or greater direct interest in *FP* before the acquisition. After the acquisition, *US* does not own a direct interest of 10% or more. *US* owns a 10% or greater total interest (direct and indirect), but only a 5% direct interest. Therefore, *US* is not required to report the June 1, 2001, acquisition under section 6046A.
+
+(ii) On September 1, 2001, *US* purchases a 7% direct interest in *FP* from *FC1.* The September 1, 2001 acquisition constitutes a reportable event under paragraph (b)(1)(i)(A) of this section. Before the September 1 acquisition, US did not own a 10% or greater direct interest in *FP.* After the September 1 acquisition, *US* owns a 12% direct interest, and therefore, as a result of the September 1 acquisition, *US* now owns a 10% or greater direct interest in *FP.* Consequently, *US* must report its September 1 acquisition under section 6046A on Form 8865 filed with *US's* 2001 income tax return.
+
+(iii) On December 1, 2001, *US* acquires an additional 4% direct interest in *FP* from *FC1,* so that *US's* total direct interest has increased from 12% to 16%. This acquisition does not constitute a reportable event. Compared to *US's* direct interest when *US* last had a reportable event (12% on September 1, 2001), after acquiring the 4% interest *US's* direct interest has not increased by at least a 10% direct interest (i.e., its direct interest increased by only 4%). Therefore, *US* does not have to report the December 1, 2001, acquisition under section 6046A. On April 1, 2002, *FC2* distributes a 6% direct interest in *FP* to *US. US* now owns a 22% direct interest in *FP.* Compared to *US's* direct interest when *US* last had a reportable event (12% on September 1, 2001), after the April 1 acquisition *US's* direct interest has increased by at least a 10% interest (12% to 22%). *US* must report the April 1, 2002 acquisition on a Form 8865 attached to *US's* 2002 income tax return.
+
+Example 3.Change in proportional interest resulting from withdrawal of a partner. Assume the same facts as *Example 3.* In addition, on January 5, 2003, *FC2* withdraws entirely from *FP.* As a result, the direct interests of *US* and *FC1* in *FP* each increase by at least the equivalent of 10% interests. Compared to *US's* direct interest the last time *US* had a reportable event (22% on April 1, 2002), *US's* direct interest has increased by at least the equivalent of a ten percent interest. Therefore, *US* has had a reportable event pursuant to paragraph (b)(1)(iii) of this section, and *US* must report the change in its interest resulting from *FC2's* withdrawal from the partnership on *US's* Form 8865 filed with *US's* 2003 tax year income tax return.Example 4.Change in proportional interest constituting an acquisition. *FP* is a foreign partnership that has no United States persons as direct or constructive partners. *US* is a United States person and a calendar year taxpayer. On January 1, 2001, *US* purchases an 8% direct interest in *FP. US* is not required to report this acquisition. US did not own a 10% or greater direct interest in *FP,* and *US* does not own a 10% or greater direct interest as a result of the acquisition. On March 1, 2001, *FC,* a foreign partner of *FP,* withdraws from *FP,* and as result, *US's* direct interest in *FP* increases by a 7% interest. The increase in *US's* direct interest is considered an acquisition of an interest under paragraph (b)(1)(i)(A) of this section. *US* did not own a 10% or greater direct interest in *FP* before *FC* withdrew, and as a result of the increase in *US's* direct interest because of *FC's* withdrawal from *FP, US* now owns a 10% or greater direct interest in *FP.* Therefore, *US* must report under section 6046A the increase in *US's* direct interest resulting from the withdrawal of *FC* from *FP* on Form 8865 filed with *US's* tax return for *US's* 2001 tax year.
+
+(c) *Content of return.* The Form 8865 that must be filed under paragraph (a)(1) of this section must contain the following information in such form and manner and to the extent that Form 8865 and its instructions prescribe—
+
+(1) The name, address, and taxpayer identification number of the United States person required to file the return;
+
+(2) Information about other persons (foreign or domestic) whose interests in the foreign partnership the person reporting under section 6046A is considered to own under section 6038(e)(3)(C) and section 267(c);
+
+(3) Information about all foreign entities that were disregarded as entities separate from their owners under §§ 301.7701-2 and 301.7701-3 of this chapter that were owned by the foreign partnership during the partnership's tax year ending with or within the tax year of the person filing Form 8865 pursuant to section 6046A;
+
+(4) For each reportable event, the date of the event, the type of event (acquisition, disposition, or change in proportional interest), and the United States person's direct percentage interest in the foreign partnership immediately before and immediately after the event;
+
+(5) The fair market value of the interest acquired or disposed of;
+
+(6) Information about partnerships (foreign and domestic) in which the foreign partnership owned a direct interest, or a constructive interest of ten percent or more under sections 267(c)(1) and (5) and the regulations thereunder, during the partnership's tax year ending with or within the tax year of the person filing Form 8865 pursuant to section 6046A; and
+
+(7) Any other information required to be submitted by Form 8865 and its instructions.
+
+(d) *Time and manner for filing returns.* The Form 8865 must be filed with the timely filed (including extensions) income tax return of the United States person for the tax year in which the reportable event occurs. If the United States person is not required to file an income tax return for its tax year in which the reportable event occurs, but is required to file an information return for that year (for example, Form 1065, “U.S. Partnership Return of Income,” or Form 990, “Return of Organization Exempt from Income Tax”), the United States person should attach the Form 8865 to its information return filed for that tax year.
+
+(e) *Duplicate returns.* If required by the instructions to Form 8865, a duplicate Form 8865 (including attachments and schedules) must also be filed.
+
+(f) *Persons excepted from filing return*—(1) *Section 6038B overlap.* If a United States person acquires an interest in a foreign partnership as a result of a section 721 contribution required to be reported under section 6038B, and the person properly reports the contribution under section 6038B, then the United States person is not required to report the acquisition of the partnership interest under section 6046A(a) should it constitute a reportable event under paragraph (b)(1) of this section. The acquisition will still constitute a reportable event for purposes of making future comparisons pursuant to paragraphs (b)(1)(i)(B), (b)(1)(ii)(B) and (b)(1)(iii) of this section. A person that fails to properly report the section 721 contribution under section 6038B and the regulations thereunder and that fails to properly report the acquisition of the partnership interest under section 6046A may be subject to the penalties applicable to a failure to comply with the requirements of section 6038B, as well as the penalties applicable for a failure to comply with the requirements of section 6046A. See paragraph (h) of this section for more information about the penalties for failure to comply with the requirements of section 6046A.
+
+(2) *Trusts relating to state and local government employee retirement plans.* The return requirement of section 6046A does not apply to trusts relating to state and local government employee retirement plans, unless the instructions to Form 8865 provide otherwise.
+
+(3) *Reporting under this section not required of partnerships excluded from the application of subchapter K.* The reporting requirements of this section will not apply to any United States person in respect of an eligible partnership as described in § 1.761-2(a) in which that United States person is a partner, if such partnership has validly elected to be excluded from all of the provisions of subchapter K of chapter 1 of the Internal Revenue Code in the manner specified in § 1.761-2(b)(2)(i), or is deemed to have elected to be excluded from all of the provisions of subchapter K of chapter 1 of the Internal Revenue Code in accordance with the provisions of § 1.761-2(b)(2)(ii).
+
+(4) *Exclusion for satellite organizations.* The return requirement of section 6046A does not apply to the International Telecommunications Satellite Organization (or a successor organization) or the International Maritime Satellite Organization (or a successor organization).
+
+(g) *Method of reporting.* Except as otherwise provided on Form 8865, or the accompanying instructions, any amounts required to be reported under section 6046A and this section must be expressed in United States dollars, with a statement of the exchange rates used. All statements required on or with Form 8865 pursuant to this section must be in English.
+
+(h) *Penalties for violating section 6046A.* For penalties for violating section 6046A, see sections 6679 and 7203.
+
+(i) *Statute of limitations.* For exceptions to the limitations on assessment in the event of a failure to provide information under section 6046A, see section 6501(c)(8).
+
+(j) *Effective date.* This section applies to reportable events occurring after December 31, 1999. No reporting under section 6046A is required for reportable events occurring on or before December 31, 1999.
+
+[T.D. 8851, 64 FR 72556, Dec. 28, 1999]

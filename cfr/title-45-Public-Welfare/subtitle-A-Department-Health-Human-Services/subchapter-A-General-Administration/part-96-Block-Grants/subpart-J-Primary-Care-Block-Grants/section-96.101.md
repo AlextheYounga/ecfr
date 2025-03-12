@@ -1,0 +1,5 @@
+##### § 96.101 Review of a State decision to discontinue funding of a community health center. #####
+
+Where a State determines for FY 1983, pursuant to section 1926(a)(2) of the Public Health Service Act (42 U.S.C. 300y-5(a)(2)), that a community health center does not meet the criteria for continued funding set forth in section 330 of the Public Health Service Act (42 U.S.C. 254c), the State must advise the Department of the decision and the basis upon which it was made. The Department will permit the center 30 days to respond to the State's determination. After evaluating the reasons advanced by the State and the center, the Department will determine within 30 days after the center's response is due whether the center meets the requirements for receiving a grant under the Public Health Service Act. The State may not discontinue funding the center until the Department has completed its review.
+
+[47 FR 29486, July 6, 1982; 47 FR 43062, Sept. 30, 1982]

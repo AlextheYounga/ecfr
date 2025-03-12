@@ -1,0 +1,3 @@
+##### § 0.204 Prohibition of reprisal for reporting suspected misconduct. #####
+
+Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for providing any information in accordance with § 0.203 of this part or through other processes established by law. However, if an employee makes a complaint or discloses information with the knowledge that it was false, or with willful disregard of its truth or falsity, such conduct may be grounds for disciplinary action, and such action shall not constitute reprisal.

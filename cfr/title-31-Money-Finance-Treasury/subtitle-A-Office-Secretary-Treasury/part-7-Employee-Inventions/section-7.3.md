@@ -1,0 +1,7 @@
+##### § 7.3 Responsibilities of heads of offices. #####
+
+(a) Heads of bureaus or offices in the Department shall be responsible for determining initially whether the results of research, development, or other activity of an employee within that bureau or office constitute an invention which falls within the purview of Executive Order 10096, as amended, and is to be handled in accordance with the regulations in this part.
+
+(b) Heads of bureaus or offices are responsible for obtaining from the employee the necessary information and, if the determination under paragraph (a) of this section is affirmative, preparing on behalf of the bureau or office a description of the invention and its relationship to the employee's duties and work assignments.
+
+(c) Heads of bureaus or offices, after such examination and investigation as may be necessary, shall refer to the General Counsel all information obtained concerning the invention and such determination as the head of the bureau or office has made with respect to the character of the activity as an invention. These reports shall include any determination as to the giving of a cash award to the employee for his performance relating to that invention.

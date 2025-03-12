@@ -1,0 +1,9 @@
+##### § 1.809-8 Limitation on deductions for certain mutualization distributions. #####
+
+(a) *Deduction not to reduce taxable investment income.* Section 809(g)(1) limits the deduction under section 809(d)(11) for certain mutualization distributions. This limitation provides that such deduction shall not exceed the amount (if any) by which the gain from operations for the taxable year, computed without regard to such deduction (but after the application of the limitation contained in section 809(f) and § 1.809-7), exceeds the taxpayer's taxable investment income for such year.
+
+(b) *Deduction not to reduce tax below that imposed by 1957 law.* Section 809(g)(2) further limits the deduction under section 809(d)(11). Under section 809(g)(2), such deduction shall be allowed only to the extent that it (after the application of all other deductions) does not reduce the tax imposed by section 802(a)(1) for the taxable year below the amount of tax which would have been imposed for such taxable year if the law in effect for 1957 applied for such taxable year. If such deduction is claimed for 1958 (or 1959), the company shall attach to its return a schedule showing what its tax for 1958 (or 1959) would have been had such tax been computed under the law in effect for 1957.
+
+(c) *Application of section 815.* Section 809(g)(3) provides that any portion of a distribution which is allowed as a deduction under section 809(d)(11) shall not be treated as a distribution to shareholders for purposes of section 815; except that in the case of any distributions made in 1959, such portion shall be treated as a distribution with respect to which a reduction is required under section 815(e)(2)(B) (relating to adjustment in allocation ratio for certain distributions after December 31, 1958).
+
+[T.D. 6535, 26 FR 530, Jan. 20, 1961]

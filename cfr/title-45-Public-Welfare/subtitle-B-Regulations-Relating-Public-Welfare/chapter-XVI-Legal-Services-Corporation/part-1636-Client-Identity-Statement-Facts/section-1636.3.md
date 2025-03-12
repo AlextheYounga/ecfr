@@ -1,0 +1,5 @@
+##### § 1636.3 Access to written statements. #####
+
+(a) Written statements of facts prepared in accordance with this part are to be kept on file by the recipient and made available to the Corporation or to any Federal department or agency auditing or monitoring the activities of the recipient or to any auditor or monitor receiving Federal funds to audit or monitor on behalf of a Federal department or agency or on behalf of the Corporation.
+
+(b) This part does not give any person or party other than those listed in paragraph (a) of this section any right of access to the plaintiff's written statement of facts, either in the lawsuit or through any other procedure. Access to the statement of facts by such other persons or parties is governed by applicable law and the discovery rules of the court in which the action is brought.

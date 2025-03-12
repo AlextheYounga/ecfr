@@ -1,0 +1,5 @@
+##### § 1.6012-5 Composite return in lieu of specified form. #####
+
+The Commissioner may authorize the use, at the option of a person required to make a return, of a composite return in lieu of any form specified in this part for use by such a person, subject to such conditions, limitations, and special rules governing the preparation, execution, filing, and correction thereof as the Commissioner may deem appropriate. Such composite return shall consist of a form prescribed by the Commissioner and an attachment or attachments of magnetic tape or other approved media. Notwithstanding any provisions in this part to the contrary, a single form and attachment may comprise the returns of more than one such person. To the extent that the use of a composite return has been authorized by the Commissioner, references in this part to a specific form for use by such a person shall be deemed to refer also to a composite return under this section.
+
+[T.D. 7200, 37 FR 16544, Aug. 16, 1972]

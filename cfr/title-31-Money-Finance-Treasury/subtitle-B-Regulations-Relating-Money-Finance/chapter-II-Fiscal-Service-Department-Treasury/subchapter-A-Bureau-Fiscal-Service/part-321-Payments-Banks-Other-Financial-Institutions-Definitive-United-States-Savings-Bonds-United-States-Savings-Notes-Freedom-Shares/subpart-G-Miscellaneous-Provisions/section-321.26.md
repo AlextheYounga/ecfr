@@ -1,0 +1,5 @@
+##### § 321.26 Role of Federal Reserve Banks. #####
+
+Federal Reserve Banks (including any Branch or office thereof, as appropriate) perform services as fiscal agents of the United States. These Federal Reserve Banks shall perform such services in connection with this part as may be requested by the Secretary of the Treasury, or a designee. These Federal Reserve Banks are authorized and directed to perform such duties, including the issuance of supplemental instructions and forms, as may be necessary to fulfill the purposes and requirements of these regulations. The instructions and guidance issued pursuant to § 321.27 set forth each Federal Reserve Bank that has been designated as a Federal Reserve Processing Site or as a TRS Site by the Secretary of the Treasury, or a designee.
+
+[77 FR 16167, Mar. 20, 2012]

@@ -1,0 +1,5 @@
+##### § 673.1 Purpose of regulations. #####
+
+The purpose of the regulations in this part is to implement the Antarctic Conservation Act of 1978, Public Law 95-541, as amended by the Antarctic Science, Tourism and Conservation Act of 1996, Public Law 104-227, and Article 15 of the Protocol on Environmental Protection to the Antarctic Treaty done at Madrid on October 4, 1991. Specifically, this part requires that all non-governmental expeditions, for which advance notice by the United States is required under the Antarctic Treaty, who use non-flagged vessels ensure that the vessel owner or operator has an appropriate emergency response plan. This part is also designed to ensure that expedition members are informed of their environmental protection obligations under the Antarctic Conservation Act.
+
+(Approved by the Office of Management and Budget under control number 3145-0180)

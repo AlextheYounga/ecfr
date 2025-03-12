@@ -1,0 +1,3 @@
+##### § 25.2512-7 Effect of excise tax. #####
+
+If jewelry, furs or other property, the purchase of which is subject to an excise tax, is purchased at retail by a taxpayer and made the subject of gifts within a reasonable time after purchase, the purchase price, including the excise tax, is considered to be the fair market value of the property on the date of the gift, in the absence of evidence that the market price of similar articles has increased or decreased in the meantime. Under other circumstances, the excise tax is taken into account in determining the fair market value of property to the extent, and only to the extent, that it affects the price at which the property would change hands between a willing buyer and a willing seller, as provided in § 25.2512-1.

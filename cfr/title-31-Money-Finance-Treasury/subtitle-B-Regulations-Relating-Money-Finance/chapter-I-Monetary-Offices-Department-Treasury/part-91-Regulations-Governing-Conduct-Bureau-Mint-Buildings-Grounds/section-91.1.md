@@ -1,0 +1,5 @@
+##### § 91.1 Authority. #####
+
+The regulations in this part governing conduct in and on the Bureau of the Mint buildings and grounds located as follows: U.S. Mint, Colfax, and Delaware Streets, Denver, Colorado; U.S. Bullion Depository, Fort Knox, Kentucky; U.S. Assay Office, 32 Old Slip New York, New York; U.S. Mint, 5th and Arch Streets, Philadelphia, Pennsylvania; U.S. Assay Office, 155 Hermann Street, and the Old U.S. Mint Building, 88 Fifth Street, San Francisco, California; and U.S. Bullion Depository, West Point, New York; are promulgated pursuant to the authority vested in the Secretary of the Treasury, including 5 U.S.C. 301, and that vested in him by delegation from the Administrator of General Services, 38 FR 20650 (1973), and in accordance with the authority vested in the Director of the Mint by Treasury Department Order No. 177-25 Revision 2), dated August 8, 1973, 38 FR 21947 (1973).
+
+[38 FR 24897, Sept. 11, 1973]

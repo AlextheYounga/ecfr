@@ -1,0 +1,3 @@
+##### § 1331.3 Availability of grants. #####
+
+ACL awards grants to States subject to availability of funds, and if applicable, subject to the satisfactory progress in the State's project during the preceding grant period. The criteria by which progress is evaluated and the performance standards for determining whether satisfactory progress has been made are specified in the terms and conditions included in the notice of grant award sent to each State. ACL advises each State as to when to make application, what to include in the application, and provides information as to the timing of the grant award and the duration of the grant award. ACL also provides an estimate of the amount of funds that may be available to the State.

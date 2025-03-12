@@ -1,0 +1,3 @@
+##### § 2505.3 To what extent are meetings of the Board open to the public? #####
+
+The Board shall conduct meetings, as defined in § 2505.2, in accordance with this part. Except as provided in § 2505.4, the Board's meetings shall be open to the public. The public is invited to attend all meetings of the Board that are open to the public but may not participate in the Board's deliberations at such meetings or record any meeting by means of electronic, photographic, or other device.

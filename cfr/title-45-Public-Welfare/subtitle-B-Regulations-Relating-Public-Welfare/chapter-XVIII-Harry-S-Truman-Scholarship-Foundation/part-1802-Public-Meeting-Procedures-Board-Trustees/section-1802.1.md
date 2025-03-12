@@ -1,0 +1,3 @@
+##### § 1802.1 Purpose and scope. #####
+
+The Harry S. Truman Scholarship Foundation will provide the public with the fullest practical information regarding its decision-making processes while protecting the rights of individuals and the Foundation's abilities to carry out its responsibilities. Accordingly, these procedures apply to meetings of the Board of Trustees, Harry S. Truman Scholarship Foundation, including committees of the Board of Trustees.

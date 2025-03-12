@@ -1,0 +1,3 @@
+##### § 1801.40 Travel expenses of finalists. #####
+
+The Foundation will provide partial funding for intercity round-trip transportation from the finalist's nominating institution to the interview site. The Foundation does not reimburse finalists for lodging, meals, local transportation, or other expenses. The Foundation announces the terms and conditions of support on its website (*http://www.truman.gov*) and in the Bulletin of Information.

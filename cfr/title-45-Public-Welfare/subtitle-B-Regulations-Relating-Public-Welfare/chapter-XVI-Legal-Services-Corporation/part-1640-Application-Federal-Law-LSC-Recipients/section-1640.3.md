@@ -1,0 +1,3 @@
+##### § 1640.3 Contractual agreement. #####
+
+As a condition of receiving LSC funds, a recipient must enter into a written agreement with the Corporation that, with respect to its LSC funds, will subject the recipient to the applicable Federal laws relating to the proper use of Federal funds. The agreement must include a statement that all of the recipient's employees and board members have been informed of such Federal law and of the consequences of a violation of such law, both to the recipient and to themselves as individuals.

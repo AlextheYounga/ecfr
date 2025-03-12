@@ -1,0 +1,3 @@
+##### § 101.30 Delegations of authority. #####
+
+The priorities and allocations authorities of the President under Title I of the DPA with respect to all forms of health resources have been delegated to the Secretary under E.O. 13603. The Secretary may re-delegate the Secretary's priority rating activities under the DPA though the allocations authority provided to the Secretary is not subject to delegation per Section 201(e) of E.O. 13603.

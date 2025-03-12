@@ -1,0 +1,3 @@
+##### § 73.735-504 Gifts to official superiors. #####
+
+An employee shall not solicit a contribution from another employee for a gift to an official superior, make a donation as a gift to an official superior, or accept a gift from an employee receiving less pay than himself or herself. 5 U.S.C. 7351. This section does not prohibit a voluntary gift of nominal value or donation in nominal amount made on a special occasion such as marriage, illness or retirement.

@@ -1,0 +1,5 @@
+##### § 1.663(c)-6 Effective dates. #####
+
+Sections 1.663(c)-1 through 1.663(c)-5 are applicable for estates and qualified revocable trusts within the meaning of section 645(b)(1) with respect to decedents who die on or after December 28, 1999. However, for estates and qualified revocable trusts with respect to decedents who died after the date that section 1307 of the Tax Reform Act of 1997 became effective but before December 28, 1999, the IRS will accept any reasonable interpretation of the separate share provisions, including those provisions provided in 1999-11 I.R.B. 41 (see § 601.601(d)(2)(ii)(b) of this chapter). For trusts other than qualified revocable trusts, § 1.663(c)-2 is applicable for taxable years of such trusts beginning after December 28, 1999.
+
+[T.D. 8849, 64 FR 72545, Dec. 28, 1999; 65 FR 16317, Mar. 28, 2000]

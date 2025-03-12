@@ -1,0 +1,41 @@
+##### § 1.707-6 Disguised sales of property by partnership to partner; general rules. #####
+
+(a) *In general.* Rules similar to those provided in § 1.707-3 apply in determining whether a transfer of property by a partnership to a partner and one or more transfers of money or other consideration by that partner to the partnership are treated as a sale of property, in whole or in part, to the partner.
+
+(b) *Special rules relating to liabilities*—(1) *In general.* Rules similar to those provided in § 1.707-5 apply to determine the extent to which an assumption of or taking subject to a liability by a partner, in connection with a transfer of property by a partnership, is considered part of a sale. Accordingly, if a partner assumes or takes property subject to a qualified liability (as defined in paragraph (b)(2) of this section) of a partnership, the partner is treated as transferring consideration to the partnership only to the extent provided in paragraph (b). If the partner assumes or takes subject to a liability that is not a qualified liability, the amount treated as consideration transferred to the partnership is the amount that the liability assumed or taken subject to by the partner exceeds the partner's share of that liability (determined under the rules of § 1.707-5(a)(2)) immediately before the transfer. Similar to the rules provided in § 1.707-5(a)(4), if more than one partner assumes or takes subject to a liability pursuant to a plan, the amount that is treated as a transfer of consideration by each partner is the amount by which all of the liabilities (other than qualified liabilities) assumed or taken subject to by the partner pursuant to the plan exceed the partner's share of all of those liabilities immediately before the assumption or taking subject to. This paragraph (b)(1) does not apply to any liability assumed or taken subject to by a partner with a principal purpose of reducing the extent to which any other liability assumed or taken subject to by a partner is treated as a transfer of consideration under this paragraph (b).
+
+(2) *Qualified liabilities.* (i) If a transfer of property by a partnership to a partner is not otherwise treated as part of a sale, the partner's assumption of or taking subject to a qualified liability is not treated as part of a sale. If a transfer of property by a partnership to the partner is treated as part of a sale without regard to the partner's assumption of or taking subject to a qualified liability, the partner's assumption of or taking subject to that liability is treated as a transfer of consideration made pursuant to a sale of such property to the partner only to the extent of the lesser of—
+
+(A) The amount of consideration that the partner would be treated as transferring to the partnership under paragraph (b) of this section if the liability were not a qualified liability; or
+
+(B) The amount obtained by multiplying the amount of the liability at the time of its assumption or taking subject to by the partnership's net equity percentage with respect to that property.
+
+(ii) A partnership's net equity percentage with respect to an item of property encumbered by a qualified liability equals the percentage determined by dividing—
+
+(A) The aggregate transfers to the partnership from the partner (other than any transfer described in this paragraph (b)(2)) that are treated as the proceeds realized from the sale of the transferred property to the partner; by
+
+(B) The excess of the fair market value of the property at the time it is transferred to the partner over any qualified liabilities of the partnership that are assumed or taken subject to by the partner at that time.
+
+(iii) For purposes of this section, the definition of a qualified liability is that provided in § 1.707-5(a)(6) with the following exceptions—
+
+(A) In applying the definition, the qualified liability is one that is originally an obligation of the partnership and is assumed or taken subject to by the partner in connection with a transfer of property to the partner; and
+
+(B) If the liability was incurred by the partnership more than two years prior to the earlier of the date the partnership agrees in writing to transfer the property or the date the partnership transfers the property to the partner, that liability is a qualified liability whether or not it has encumbered the transferred property throughout the two-year period.
+
+(c) *Disclosure rules.* Similar to the rules provided in §§ 1.707-3(c)(2) and 1.707-5(a)(7)(ii), a partnership is to disclose to the Internal Revenue Service, in accordance with § 1.707-8, the facts in the following circumstances:
+
+(1) When a partnership transfers property to a partner and the partner transfers money or other consideration to the partnership within a two-year period (without regard to the order of the transfers) and the partnership treats the transfers as other than a sale for tax purposes; and
+
+(2) When a partner assumes or takes subject to a liability of a partnership in connection with a transfer of property by the partnership to the partner, and the partnership incurred the liability within the two-year period prior to the earlier of the date the partnership agrees in writing to the transfer of property or the date the partnership transfers the property, and the partnership treats the liability as a qualified liability under rules similar to § 1.707-5(a)(6)(i)(B).
+
+(d) *Examples.* The following examples illustrate the rules of this section.
+
+Example 1. Sale of property by partnership to partner.(i) A is a member of a partnership. The partnership transfers property X to A. At the time of the transfer, property X has a fair market value of $1,000,000. One year after the transfer, A transfers $1,100,000 to the partnership. Assume that under the rules of section 1274 the imputed principal amount of an obligation to transfer $1,100,000 one year after the transfer of property X is $1,000,000 on the date of the transfer.
+
+(ii) Since the transfer of $1,100,000 to the partnership by A is made within two years of the transfer of property X to A, under rules similar to those provided in § 1.707-3(c), the transfers are presumed to be a sale unless the facts and circumstances clearly establish otherwise. If no facts exist that would rebut this presumption, on the date that the partnership transfers property X to A, the partnership is treated as having sold property X to A in exchange for A's obligation to transfer $1,100,000 to the partnership one year later.
+
+Example 2. Assumption of liability by partner.(i) B is a member of an existing partnership. The partnership transfers property Y to B. On the date of the transfer, property Y has a fair market value of $1,000,000 and is encumbered by a nonrecourse liability of $600,000. B takes the property subject to the liability. The partnership incurred the nonrecourse liability six months prior to the transfer of property Y to B and used the proceeds to purchase an unrelated asset. Assume that under § 1.707-5(a)(2), B's share of the nonrecourse liability immediately before the transfer of property Y was $100,000.
+
+(ii) The liability is not allocable under the rules of § 1.163-8T to capital expenditures with respect to the property transferred to B and was not incurred in the ordinary course of the trade or business in which the property transferred to the partner was used or held. Since the partnership incurred the nonrecourse liability within two years of the transfer to B, under rules similar to those provided in § 1.707-5(a)(5), the liability is presumed to be incurred in anticipation of the transfer unless the facts and circumstances clearly establish the contrary. Assuming no facts exist to rebut this presumption, the liability taken subject to by B is not a qualified liability. The partnership is treated as having received, on the date of the transfer of property Y to B, $500,000 ($600,000 liability assumed by B less B's share of the $100,000 liability immediately prior to the transfer) as consideration for the sale of one-half ($500,000/$1,000,000) of property Y to B. The partnership is also treated as having distributed to B, in B's capacity as a partner, the other one-half of property Y.
+
+[T.D. 8439, 57 FR 44987, Sept. 30, 1992, as amended by T.D. 9787, 81 FR 69300, Oct. 5, 2016]

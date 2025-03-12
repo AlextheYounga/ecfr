@@ -1,0 +1,5 @@
+##### § 1.6016-3 Amendment of declaration. #####
+
+In the making of a declaration of estimated tax the corporation is required to take into account the then existing facts and circumstances as well as those reasonably to be anticipated relating to prospective gross income, allowable deductions, and estimated credits for the taxable year. Amended or revised declarations may be made in any case in which the corporation estimates that its gross income, deductions, or credits will materially change the estimated tax reported in the previous declaration. However, for the rule with respect to the number of amended declarations which may be filed for taxable years beginning after December 31, 1963, see paragraph (d)(2) of § 1.6074-1. Such amended declaration may be made on either Form 1120-ES (marked “Amended”) or on the reverse side of the installment notice furnished the corporation by the district director. See, however, paragraph (b) of § 1.6016-2 for procedure to be followed if the prescribed form is not available.
+
+[T.D. 6768, 29 FR 14922, Nov. 4, 1964]

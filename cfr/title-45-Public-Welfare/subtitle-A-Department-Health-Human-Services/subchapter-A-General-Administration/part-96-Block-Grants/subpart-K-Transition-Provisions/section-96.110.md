@@ -1,0 +1,3 @@
+##### § 96.110 Scope. #####
+
+Except as otherwise stated, this subpart applies to the community services, preventive health and health services, alcohol and drug abuse and mental health services, and maternal and child health services block grants for the fiscal year beginning October 1, 1981. The social services block grant and the low-income home energy assistance program are not subject to the provisions of this subpart.

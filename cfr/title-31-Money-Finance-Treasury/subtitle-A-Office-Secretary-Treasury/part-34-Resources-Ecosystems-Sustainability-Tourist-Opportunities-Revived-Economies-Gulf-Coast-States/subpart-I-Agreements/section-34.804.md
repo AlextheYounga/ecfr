@@ -1,0 +1,7 @@
+##### § 34.804 Noncompliance. #####
+
+(a) If Treasury determines that a Gulf Coast State, coastal political subdivision, or coastal zone parish has expended funds received under the Direct Component, Comprehensive Plan Component, or Spill Impact Component on an ineligible activity, Treasury will make no additional funds available to that recipient from any part of the Trust Fund until the recipient has deposited in the Trust Fund an amount equal to the amount expended for an ineligible activity, or Treasury has authorized the recipient to expend an equal amount from the recipient's own funds for an activity that meets the requirements of the Act.
+
+(b) If Treasury determines that a Gulf Coast State, coastal political subdivision, or coastal zone parish has materially violated a grant agreement under the Direct Component, Comprehensive Plan Component, or Spill Impact Component, Treasury will make no additional funds available to that recipient from any part of the Trust Fund until the recipient corrects the violation.
+
+(c) As a condition of receiving funds, recipients and subrecipients shall make available their records and personnel to Treasury in order to carry out the purposes of this section.

@@ -1,0 +1,3 @@
+##### § 34.402 Grant administration—Comprehensive Plan Component. #####
+
+The Council must publish policies and procedures for administration of Comprehensive Plan Component grants that are consistent with applicable Federal laws and policies on grants. These grant policies and procedures must include uniform guidelines for assignees to use when selecting subrecipients, awarding grants and subawards, and monitoring compliance. The Council must also establish and implement a program to monitor compliance with its grant agreements.

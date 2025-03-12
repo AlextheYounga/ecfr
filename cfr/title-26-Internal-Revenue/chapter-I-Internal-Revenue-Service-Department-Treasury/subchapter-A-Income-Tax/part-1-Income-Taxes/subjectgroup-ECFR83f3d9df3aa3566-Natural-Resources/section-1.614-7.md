@@ -1,0 +1,5 @@
+##### § 1.614-7 Extension of time for performing certain acts. #####
+
+Sections 1.614-2 to 1.614-5, inclusive, require certain acts to be performed on or before May 1, 1961 (the first day of the first month which begins more than 90 days after the regulations under section 614 were published in the Federal Register as a Treasury decision). The district director may, upon good cause shown, extend for a period not exceeding 6 months the period within which such acts are to be performed, and shall, if the interests of the Government would otherwise be jeopardized thereby, grant such an extension only if the taxpayer and the district director agree in writing to a corresponding or greater extension of the period prescribed for the assessment of the tax, or in the case of taxable years described in section 614(c)(3)(E), the assessment of the tax resulting from the exercise or change in an election.
+
+[T.D. 6561, 26 FR 3523, Apr. 25, 1961]

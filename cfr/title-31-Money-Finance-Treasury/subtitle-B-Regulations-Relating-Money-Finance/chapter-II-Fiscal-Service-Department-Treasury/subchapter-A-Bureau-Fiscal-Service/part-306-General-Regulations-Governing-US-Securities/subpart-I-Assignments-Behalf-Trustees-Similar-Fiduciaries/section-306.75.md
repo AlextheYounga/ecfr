@@ -1,0 +1,11 @@
+##### § 306.75 Individual fiduciaries. #####
+
+(a) *General.* Securities registered in, or assigned to, the names and titles of individual fiduciaries will be accepted for any authorized transaction upon assignment by the designated fiduciaries without proof of their qualification. If the fiduciaries in whose names the securities are registered, or to whom they have been assigned, have been succeeded by other fiduciaries, evidence of successorship must be furnished. If the appointment of a successor is not required under the terms of the trust instrument or otherwise and is not contemplated, assignments by the surviving or remaining fiduciary or fiduciaries must be supported by appropriate proof. This requires:
+
+(1) Proof of the death, resignation, removal or disqualification of the former fiduciary and
+
+(2) Evidence that the surviving or remaining fiduciary or fiduciaries are fully qualified to administer the fiduciary estate, which may be in the form of a certificate by them showing the appointment of a successor has not been applied for, is not contemplated and is not necessary under the terms of the trust instrument or otherwise.
+
+Assignments of securities registered in the titles, without the names of the fiduciaries, for example, “Trustees of the George E. White Memorial Scholarship Fund under deed of trust dated 11/10/40, executed by John W. White,” must be supported by proof that the assignors are the qualified and acting trustees of the designated trust estate, unless they are empowered to act as a unit in which case the provisions of § 306.76 shall apply. (Form PD 2446 may be used to furnish proof of incumbency of fiduciaries.) Assignments by fiduciaries of securities not registered or assigned in such manner as to show that they belong to the estate for which the assignors are acting must also be supported by evidence that the estate is entitled to the securities.
+
+(b) *Life tenants.* Upon termination of a life estate by reason of the death of the life tenant in whose name a security is registered, or to whom it has been assigned, the security will be accepted for any authorized transaction upon assignment by the remainderman, supported by evidence of entitlement.

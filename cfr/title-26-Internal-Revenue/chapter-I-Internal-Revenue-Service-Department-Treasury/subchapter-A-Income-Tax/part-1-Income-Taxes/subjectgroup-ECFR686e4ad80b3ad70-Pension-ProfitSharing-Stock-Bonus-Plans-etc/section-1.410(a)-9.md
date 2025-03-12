@@ -1,0 +1,11 @@
+##### § 1.410(a)-9 Maternity and paternity absence. #####
+
+(a) *Elapsed time*—(1) *Rule.* For purposes of applying the rules of § 1.410(a)-7 (relating to the elapsed time method of crediting service) to absences described in sections 410(a)(5)(E) and 411(a)(6)(E) (relating to maternity or paternity absence), the severance from service date of an employee who is absent from service beyond the first anniversary of the first day of absence by reason of a maternity or paternity absence described in section 410(a)(5)(E)(i) or 411(a)(6)(E)(i) is the second anniversary of the first day of such absence. The period between the first and second anniversaries of the first day of absence from work is neither a period of service nor a period of severance. This rule applies to maternity and paternity absences beginning on or after the first day of the first plan year in which the plan is required to credit service under sections 410(a)(5)(E) and 411(a)(6)(E).
+
+(2) *Example.* The rules of this section are illustrated by the following example:
+
+Assume an individual works until June 30, 1986; is first absent from employment on July 1, 1986, on account of maternity or paternity absence; and on July 1, 1989, performs an hour of service. The period of service must include the period from employment commencement date until June 30, 1987 (one year after the date of separation for any reason other than a quit, discharge, retirement, or death). The period from July 1, 1987, to June 30, 1988, is neither a period of service nor a period of severance. The period of severance would be from July 1, 1988, to June 30, 1989.
+
+(b) *Other methods.* This paragraph provides a safe harbor for plans that compute years of service under the hours of service methods or permitted equivalencies. Such a plan will be treated as satisfying the requirements of sections 410(a)(5)(E) and 411(a)(6)(E) if the plan increases the minimum period of consecutive 1-year breaks required to disregard any service (or deprive any employee of any right) by one. Thus, a plan will satisfy sections 410(a)(5)(E) and 411(a)(6)(E) without having to compute service for maternity or paternity and sections 410(a)(5)(D) and 411 (a)(4)(D) and (a)(6)(C), by increasing the period of consecutive breaks-in-service from 5 to 6.
+
+[T.D. 8219, 53 FR 31852, Aug. 22, 1988; 53 FR 48534, Dec. 1, 1988]

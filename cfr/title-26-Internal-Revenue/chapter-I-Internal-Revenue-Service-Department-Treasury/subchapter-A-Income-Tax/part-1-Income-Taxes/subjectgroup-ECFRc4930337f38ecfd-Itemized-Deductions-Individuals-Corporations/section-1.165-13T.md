@@ -1,0 +1,41 @@
+##### § 1.165-13T Questions and answers relating to the treatment of losses on certain straddle transactions entered into before the effective date of the Economic Recovery Tax Act of 1981, under section 108 of the Tax Reform Act of 1984 (temporary). #####
+
+The following questions and answers concern the treatment of losses on certain straddle transactions entered into before the effective date of the Economic Recovery Tax Act of 1981, under the Tax Reform Act of 1984 (98 Stat. 494).
+
+*Q-1*  What is the scope of section 108 of the Tax Reform Act of 1984 (Act)?
+
+*A-1*  Section 108 of the Act provides that in the case of any disposition of one or more positions, which were entered into before 1982 and form part of a straddle, and to which the provisions of title V of The Economic Recovery Act of 1981 (ERTA) do not apply, any loss from such disposition shall be allowed for the taxable year of the disposition if such position is part of a transaction entered into for profit. For purposes of section 108 of the Act, the term “straddle” has the meaning given to such term by section 1092(c) of the Internal Revenue Code of 1954 as in effect on the day after the date of enactment of ERTA; including a straddle all the positions of which are regulated futures contracts (as defined in Q&A-6 of this section). Straddles in certain listed stock options were not covered by ERTA and are not affected by this provision.
+
+*Q-2*  What transactions are considered entered into for profit?
+
+*A-2*  A transaction is considered entered into for profit if the transaction is entered into for profit within the meaning of section 165(c)(2) of the Code. In this respect, section 108 of the Act restates existing law applicable to straddle transactions. All the circumstances surrounding the transaction, including the magnitude and timing for entry into, and disposition of, the positions comprising the transaction are relevant in making the determination whether a transaction is considered entered into for profit. Moreover, in order for section 108 of the Act to apply, the transaction must have sufficient substance to be recognized for Federal income tax purposes. Thus, for example, since a “sham” transaction would not be recognized for tax purposes, section 108 of the Act would not apply to such a transaction.
+
+*Q-3*  If a loss is disallowed in a taxable year (year 1) because the transaction was not entered into for profit, is the entire gain from the straddle occurring in a later taxable year taxed?
+
+*A-3*  No. Under section 108(c) of the Act the taxpayer is allowed to offset the gain in the subsequent taxable year by the amount of loss (including expenses) disallowed in year 1.
+
+*Q-4*  In what manner does the for-profit test of Q&A-2 apply to losses from straddle transactions sustained by commodities dealers and persons regularly engaged in investing in regulated futures contracts?
+
+*A-4*  In general, for a loss to be allowable with respect to positions that form part of a straddle, the for-profit test of Q&A-2 must be satisfied. However, certain positions (see Q&A-6) held by a commodities dealer or person regularly engaged in investing in regulated futures contracts are rebuttably presumed to be part of a transaction entered into for profit. Thus, the for profit test is applied to commodities dealers and persons regularly engaged in investing in regulated futures contracts in light of the factors relating to the applicability and rebuttal of the profit presumption, including, for example, the nature and extent of the taxpayer's trading activities.
+
+*Q-5*  Under what circumstances is the presumption considered rebutted?
+
+*A-5*  All the facts and circumstances of each case are to be considered in determining if the presumption is rebutted. The following factors are significant in making this determination: (1) The level of transaction costs; (2) the extent to which the transaction results from trading patterns different from the taxpayer's regular patterns; and (3) the extent of straddle transactions having tax results disproportionate to economic consequences. Factors other than the ones described above may be taken into account in making the determination. Moreover, a determination is not to be made solely on the basis of the number of factors indicating that the presumption is rebutted.
+
+*Q-6*  Does a commodities dealer or person regularly engaged in investing in regulated futures contracts qualify for the profit presumption for all transactions?
+
+*A-6*  No. The presumption is only applicable to regulated futures contract transactions in property that is the subject of the person's regular trading activity. For example, a commodities dealer who regularly trades only in agricultural futures will not qualify for the presumption for a silver futures straddle transaction. For purposes of this section, the term “regulated futures contracts” has the meaning given to such term by section 1256(b) of the Code as in effect before the enactment of the Tax Reform Act of 1984.
+
+*Q-7*  Who qualifies as a commodities dealer or as a person regularly engaged in investing in regulated futures contracts for purposes of the profit presumption?
+
+*A-7*  For purposes of this section, the term “commodities dealer” has the meaning given to such term by section 1402(i)(2)(B) of the Code. Section 1402(i)(2)(B) defines a commodities dealer as a person who is actively engaged in trading section 1256 contracts (which includes regulated futures contracts as defined in Q&A-6) and is registered with a domestic board of trade which is designated as a contract market by the Commodity Futures Trading Commission. To determine if a person is regularly engaged in investing in regulated futures contracts all the facts and circumstances should be considered including, but not limited to, the following factors: (1) Regularity of trading at all times throughout the year; (2) the level of transaction costs; (3) substantial volume and economic consequences of trading at all times throughout the year; (4) percentage of time dedicated to commodity trading activities as compared to other activities; and (5) the person's knowledge of the regulated futures contract market.
+
+*Q-8*  If a commodities dealer or a person regularly engaged in investing in regulated futures contracts participates in a syndicate, as defined in section 1256(e)(3)(B) of the Code, does the rebuttable presumption of “entered into for profit” apply to the transactions entered into through the syndicate?
+
+*A-8*  No. A participant in a syndicate does not qualify for the rebuttable presumption of “entered into for profit” with respect to transactions entered into by or for the syndicate. A syndicate is defined in section 1256(e)(3)(B) of the Code as any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)).
+
+*Q-9*  Will the Service continue to make the closed and completed transaction argument set forth in Rev. Rul. 77-185, 1977-1 C.B. 48, with respect to transactions covered by section 108 of the Act?
+
+*A-9*  No. The closed and completed transaction argument will not be made regarding transactions subject to section 108 of the Act. In general, losses in such transactions will be allowed for the taxable year of disposition if the transaction is not viewed as a sham and satisfies the “entered into for profit” test described in Q&A-2. Nevertheless, for certain positions covered by section 108 of the Act, various Code sections may apply without regard to whether such position constitutes a straddle to disallow or limit the loss otherwise allowable in the year of the disposition. For example, dispositions of certain positions held by a partnership which resulted in a loss to a partner may be limited or disallowed under section 465 of 704(d).
+
+[T.D. 7968, 49 FR 33445, Aug. 23, 1984]

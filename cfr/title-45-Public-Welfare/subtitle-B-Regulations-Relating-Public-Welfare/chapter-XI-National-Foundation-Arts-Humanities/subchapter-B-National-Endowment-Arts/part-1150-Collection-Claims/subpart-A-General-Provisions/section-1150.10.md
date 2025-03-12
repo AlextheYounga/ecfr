@@ -1,0 +1,5 @@
+##### § 1150.10 What is the extent of the Chairperson's authority to compromise debts owed to the Endowment, or to suspend or terminate collection action on such debts? #####
+
+(a) The Chairperson may exercise his or her authority to compromise, or to suspend or terminate collection action on, those debts owed to the Endowment and not exceeding $100,000, excluding interest, in conformity with the Federal Claims Collection Act of 1966, as amended; the Federal Claims Collection Standards issued thereunder; and this part, except where standards are established by other statutes or authorized regulations issued pursuant to them.
+
+(b) The portion of a debt owed to the Endowment that is unrecovered as the result of a compromise shall be reported to the Internal Revenue Service (IRS) as income to the debtor.

@@ -1,0 +1,3 @@
+##### § 345.0 Offering of certificates. #####
+
+The Secretary of the Treasury, under the authority of the Second Liberty Bond Act, as amended, offers to borrowers from the Rural Electrification Administration and Rural Telephone Bank, U.S. Department of Agriculture, 5 Percent Treasury Certificates of Indebtedness—R.E.A. Series. This offering will continue until terminated by the Secretary of the Treasury.

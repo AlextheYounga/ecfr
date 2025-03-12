@@ -1,0 +1,3 @@
+##### § 1024.500 General. #####
+
+Mutual funds are subject to the special information sharing procedures to deter money laundering and terrorist activity requirements set forth and cross referenced in this subpart. Mutual funds should also refer to subpart E of part 1010 of this chapter for special information sharing procedures to deter money laundering and terrorist activity contained in that subpart which apply to mutual funds.

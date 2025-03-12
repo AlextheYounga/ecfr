@@ -1,0 +1,3 @@
+##### § 50.91 Notice to Congress. #####
+
+Pursuant to section 103(e)(3) of the Act, the Secretary shall provide an initial notice to Congress within 15 days of the certification of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000 for the Program Year in which the event occurs. Such initial estimate shall be based on insured loss amounts as compiled by insurance industry statistical organizations and any other information the Secretary in his or her discretion considers appropriate. The Secretary shall also notify Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during any Program Year.

@@ -1,0 +1,3 @@
+##### § 34.400 General. #####
+
+This subpart describes the policies and procedures applicable to the Comprehensive Plan Component. The Comprehensive Plan is developed by the Council in accordance with 33 U.S.C. 1321(t)(2) and will include activities the Council intends to carry out, subject to available funding. When selecting activities to carry out in the first three years, except for certain projects and programs that were authorized prior to July 6, 2012, the Council will give highest priority to projects meeting one or more of the criteria in 33 U.S.C. 1321(t)(2)(D)(iii).

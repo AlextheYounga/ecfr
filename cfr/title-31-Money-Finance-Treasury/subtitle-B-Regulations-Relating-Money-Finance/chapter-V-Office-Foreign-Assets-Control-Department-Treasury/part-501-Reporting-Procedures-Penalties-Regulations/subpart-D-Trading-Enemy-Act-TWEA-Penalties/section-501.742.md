@@ -1,0 +1,5 @@
+##### § 501.742 Secretary's designee's consideration of decisions by Administrative Law Judges. #####
+
+(a) *Scope of review.* The Secretary's designee may affirm, reverse, modify, set aside or remand for further proceedings, in whole or in part, a decision or ruling by an Administrative Law Judge and may make any findings or conclusions that in his or her judgment are proper and on the basis of the record and such additional evidence as the Secretary's designee may receive in his or her discretion.
+
+(b) *Summary affirmance.* The Secretary's designee may summarily affirm an Administrative Law Judge's decision or ruling based upon the petition for review and any response thereto, without further briefing, if he or she finds that no issue raised in the petition for review warrants further consideration.

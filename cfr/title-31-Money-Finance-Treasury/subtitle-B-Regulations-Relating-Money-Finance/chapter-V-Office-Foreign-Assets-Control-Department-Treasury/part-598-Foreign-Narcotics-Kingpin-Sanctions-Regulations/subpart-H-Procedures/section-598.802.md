@@ -1,0 +1,3 @@
+##### § 598.802 Availability of information pursuant to the Freedom of Information Act. #####
+
+Any record or information obtained or created in the implementation of this part is not subject to disclosure under section 552(a)(3) of the Freedom of Information Act. Information required to be made available to the public under other provisions of the Freedom of Information Act (5 U.S.C. 552) will be made available in accordance with § 501.805(a) of this chapter.

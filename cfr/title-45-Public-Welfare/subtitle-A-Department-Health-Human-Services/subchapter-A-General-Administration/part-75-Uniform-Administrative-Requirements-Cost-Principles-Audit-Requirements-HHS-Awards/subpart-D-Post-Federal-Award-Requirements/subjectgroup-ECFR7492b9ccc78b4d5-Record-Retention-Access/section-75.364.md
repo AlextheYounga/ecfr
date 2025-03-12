@@ -1,0 +1,7 @@
+##### § 75.364 Access to records. #####
+
+(a) *Records of non-Federal entities.* The HHS awarding agency, Inspectors General, the Comptroller General of the United States, and the pass-through entity, or any of their authorized representatives, must have the right of access to any documents, papers, or other records of the non-Federal entity which are pertinent to the Federal award, in order to make audits, examinations, excerpts, and transcripts. The right also includes timely and reasonable access to the non-Federal entity's personnel for the purpose of interview and discussion related to such documents.
+
+(b) Only under extraordinary and rare circumstances would such access include review of the true name of victims of a crime. Routine monitoring cannot be considered extraordinary and rare circumstances that would necessitate access to this information. When access to the true name of victims of a crime is necessary, appropriate steps to protect this sensitive information must be taken by both the non-Federal entity and the HHS awarding agency. Any such access, other than under a court order or subpoena pursuant to a bona fide confidential investigation, must be approved by the head of the HHS awarding agency or delegate.
+
+(c) *Expiration of right of access.* The rights of access in this section are not limited to the required retention period but last as long as the records are retained. HHS awarding agencies and pass-through entities must not impose any other access requirements upon non-Federal entities.

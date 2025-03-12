@@ -1,0 +1,5 @@
+##### § 204.1 Submittal of State plans for Governor's review. #####
+
+A State plan under title I, IV-A, IV-B, X, XIV, XVI(AABD) of the Social Security Act, section 101 of the Rehabilitation Act of 1973, or title I of the Mental Retardation Facilities and Community Mental Health Centers Construction Act, must be submitted to the State Governor for his review and comments, and the State plan must provide that the Governor will be given opportunity to review State plan amendments and long-range program planning projections or other periodic reports thereon. This requirement does not apply to periodic statistical or budget and other fiscal reports. Under this requirement, the Office of the Governor will be afforded a specified period in which to review the material. Any comments made will be transmitted to the Family Support Administration with the documents.
+
+(Sec. 1102, 49 Stat. 647 (42 U.S.C. 1302))[39 FR 34542, Sept. 26, 1974, as amended at 53 FR 36579, Sept. 21, 1988]

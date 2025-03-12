@@ -1,0 +1,3 @@
+##### § 270.1 Rules governing availability of information. #####
+
+The records of the Bureau of the Fiscal Service required by 5 U.S.C. 552 to be made available to the public shall be made available in accordance with the definitions, procedures and other provisions of the regulations on the Disclosure of Records of the Office of the Secretary and of other bureaus and offices of the Department issued under 5 U.S.C. 552 and published as part 1 of title 31 of the Code of Federal Regulations, except as provided in these regulations.

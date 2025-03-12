@@ -1,0 +1,3 @@
+##### § 400.313 Use of funds. #####
+
+A State must use its targeted assistance funds primarily for employability services designed to enable refugees to obtain jobs with less than one year's participation in the targeted assistance program in order to achieve economic self-sufficiency as soon as possible. Targeted assistance services may continue to be provided after a refugee has entered a job to help the refugee retain employment or move to a better job. Targeted assistance funds may not be used for long-term training programs such as vocational training that last for more than a year or educational programs that are not intended to lead to employment within a year.

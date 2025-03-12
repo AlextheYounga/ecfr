@@ -1,0 +1,3 @@
+##### § 15.737-7 Authority to prohibit practice. #####
+
+Pursuant to 18 U.S.C. 207(j), if the General Counsel finds, after notice and opportunity for a hearing, that a former officer or employee of the Department violated 18 U.S.C. 207 (a), (b) or (c), the General Counsel in his/her discretion may prohibit that person from engaging in practice before the Department or a separate statutory agency thereof for a period not to exceed five years, or may take other appropriate disciplinary action.

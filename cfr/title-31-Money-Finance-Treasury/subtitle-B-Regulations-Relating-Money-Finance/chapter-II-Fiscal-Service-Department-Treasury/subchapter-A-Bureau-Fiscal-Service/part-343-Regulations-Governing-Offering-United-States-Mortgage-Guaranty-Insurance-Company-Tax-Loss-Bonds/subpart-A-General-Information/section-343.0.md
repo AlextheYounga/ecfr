@@ -1,0 +1,3 @@
+##### § 343.0 Offering of bonds. #####
+
+The Secretary of the Treasury, under the authority of the Second Liberty Bond Act, as amended, and pursuant to paragraph 832(e) of the Internal Revenue Code of 1954, offers for sale only to companies organized and engaged in the business of writing mortgage guaranty insurance within the United States, bonds of the United States designated as Mortgage Guaranty Insurance Company Tax and Loss Bonds, hereinafter referred to as tax and loss bonds. The bonds are issued in a minimum amount of $1,000 or in any larger amount, in increments of not less than $1.00. This offering will continue until terminated by the Secretary of the Treasury.

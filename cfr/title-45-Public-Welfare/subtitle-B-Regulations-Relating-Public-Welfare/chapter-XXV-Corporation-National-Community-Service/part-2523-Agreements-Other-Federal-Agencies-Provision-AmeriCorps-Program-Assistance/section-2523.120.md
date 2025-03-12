@@ -1,0 +1,3 @@
+##### § 2523.120 Must Federal agencies consult with State Commissions? #####
+
+Yes. Federal agencies must provide a description of the manner in which the proposed AmeriCorps program(s) is coordinated with the application of the State in which the projects will be conducted. Agencies must also describe proposed efforts to coordinate AmeriCorps activities with State Commissions and other funded AmeriCorps programs within the State in order to build upon existing programs and not duplicate efforts.

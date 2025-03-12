@@ -1,0 +1,3 @@
+##### § 49.4264(a)-1 Duty to collect the tax; payments made outside the United States. #####
+
+Where payment is made outside the United States for a prepaid order, exchange order, or similar order for transportation which begins and ends in the United States or for seating or sleeping accommodations in connection therewith, the person furnishing the initial transportation pursuant to such order shall collect all the tax applicable to such transportation or accommodations. See section 4291 and the regulation thereunder for cases where persons receiving payment must collect the tax.

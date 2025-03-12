@@ -1,0 +1,3 @@
+##### § 351.13 What do I need to know about the savings bond rate to understand redemption value calculations in this subpart? #####
+
+We determine the savings bond rate by compiling 5-year Treasury securities yields as of the close of business for each day of the previous six months and calculating the monthly average to the nearest one-hundredth of one percent. We then determine the savings bonds rate by taking 90 percent of the 6-month average and rounding the result to the nearest one-hundredth of one percent.

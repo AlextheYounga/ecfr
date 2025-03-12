@@ -1,0 +1,3 @@
+##### § 158.342 Invitation for public comments. #####
+
+The Secretary will invite public comment regarding a State's request for an adjustment to the MLR standard. All public comments must be submitted in writing within 10 days of the posting of the request, and must be submitted in the manner prescribed by the Secretary. The Secretary will consider timely public comments in assessing a State's request for an adjustment to the MLR standard.

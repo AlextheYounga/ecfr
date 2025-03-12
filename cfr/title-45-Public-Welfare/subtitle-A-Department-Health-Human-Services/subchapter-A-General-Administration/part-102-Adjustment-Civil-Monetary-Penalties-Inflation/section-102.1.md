@@ -1,0 +1,3 @@
+##### § 102.1 Applicability. #####
+
+This part applies to each statutory provision under the laws administered by the Department of Health and Human Services concerning the civil monetary penalties which may be assessed or enforced by an agency pursuant to Federal law or is assessed or enforced pursuant to civil judicial actions in the Federal courts or administrative proceedings. The regulations cited in this part supersede existing HHS regulations setting forth civil monetary penalty amounts. If applicable, the HHS agencies responsible for specific civil monetary penalties will amend their regulations to reflect the adjusted amounts and/or a cross-reference to 45 CFR part 102 in separate actions as soon as practicable.

@@ -1,0 +1,23 @@
+##### § 1050.3 What conditions apply to the Charitable Choice provisions of the CSBG Act? #####
+
+These Charitable Choice provisions apply whenever the Federal government, or a State or local government, uses funds under the CSBG Act to provide awards, contracts, or other assistance under any program authorized in the Community Services Block Grant, 42 U.S.C. 9901, *et seq.* Additionally, these provisions apply whenever an intermediate organization acting under a contract, grant, or other agreement with a Federal, State, or local government entity selects nongovernmental organizations to provide assistance under any of the programs authorized under the Community Services Block Grant Act.
+
+(a)(1) Religious organizations are eligible, on the same basis as any other organization, to participate in the applicable programs as long as they use program funds consistent with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution.
+
+(2) Neither the Federal government nor a State or local government receiving funds under an applicable program shall discriminate against an organization that applies to provide, or provides, services or benefits on the basis of the organization's religious character or affiliation.
+
+(b) No program participant that receives direct funding under an applicable program may expend the program funds for inherently religious activities, such as worship, religious instruction, or proselytization. If an organization conducts such activities, it must offer them separately, in time or location, from the programs or services directly funded under any applicable program, and participation must be voluntary for program beneficiaries.
+
+(c) A religious organization that participates in an applicable program will retain its independence from Federal, State, and local governments and may continue to carry out its mission, including the definition, practice and expression of its religious beliefs, provided that it does not expend any direct funding under the applicable program to support any inherently religious activities, such as worship, religious instruction, or proselytization. Among other things, religious organizations may use space in their facilities to provide services funded under an applicable program without removing religious art, icons, scriptures, or other symbols. In addition, such a religious organization retains the authority over its internal governance, and it may retain religious terms in its organization's name, select its board members on a religious basis, and include religious references in its organization's mission statements and other governing documents.
+
+(d) The participation of a religious organization in, or its receipt of funds from, an applicable program does not affect that organization's exemption provided under 42 U.S.C. 2000e-1 regarding employment practices.
+
+(e) A religious organization that receives funds under an applicable program, shall not, in providing program services or benefits, discriminate against a program beneficiary or prospective program beneficiary on the basis of religion or a religious belief.
+
+(f) Religious organizations that receive funds under an applicable program are subject to the same regulations as other nongovernmental organizations to account, in accordance with generally accepted auditing and accounting principles, for the use of such funds. In addition, religious organizations are required to keep any Federal funds they receive for services segregated in a separate account from non-Federal funds. Only the segregated government funds are subject to audit by the government under the applicable program.
+
+(g) If a State or local government contributes its own funds to supplement CSBG Act funded activities, the State or local government has the option to segregate the Federal funds or commingle them. However, if the funds are commingled, the Charitable Choice provisions apply to all of the commingled funds.
+
+(h) If a nongovernmental pass-through entity, acting under a grant, contract, or other agreement with the Federal, State or local government, is given the authority to select nongovernmental organizations to provide services under an applicable program, then the intermediate organization must ensure that the service provider complies with these Charitable Choice provisions and 45 CFR 87.1 and 87.3(i) through (l). The pass-through entity retains all other rights of a nongovernmental organization under the Charitable Choice provisions.
+
+[68 FR 56469, Sept. 30, 2003, as amended at 81 FR 19428, Apr. 4, 2016]

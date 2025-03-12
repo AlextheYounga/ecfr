@@ -1,0 +1,5 @@
+##### § 1.501(d)-1 Religious and apostolic associations or corporations. #####
+
+(a) Religious or apostolic associations or corporations are described in section 501(d) and are exempt from taxation under section 501(a) if they have a common treasury or community treasury, even though they engage in business for the common benefit of the members, provided each of the members includes (at the time of filing his return) in his gross income his entire pro rata share, whether distributed or not, of the net income of the association or corporation for the taxable year of the association or corporation ending with or during his taxable year. Any amount so included in the gross income of a member shall be treated as a dividend received.
+
+(b) For annual return requirements of organizations described in section 501(d), see section 6033 and paragraph (a)(5) of § 1.6033-1.

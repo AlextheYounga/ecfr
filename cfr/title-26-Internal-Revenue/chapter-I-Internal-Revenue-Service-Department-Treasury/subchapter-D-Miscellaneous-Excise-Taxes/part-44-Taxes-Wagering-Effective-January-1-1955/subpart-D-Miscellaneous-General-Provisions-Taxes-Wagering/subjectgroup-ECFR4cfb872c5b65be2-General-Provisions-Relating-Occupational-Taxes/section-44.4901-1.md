@@ -1,0 +1,15 @@
+##### § 44.4901-1 Payment of special tax. #####
+
+(a) *Condition precedent to carrying on business.* No persons shall engage in the business of accepting wagers subject to the tax imposed by section 4401 until he has filed a return on Form 11-C and paid the special tax imposed by section 4411. Likewise, no person shall engage in receiving wagers for or on behalf of any person engaged in the business of accepting wagers until he has filed a return on Form 11-C and paid the special tax imposed by section 4411. For provisions relating to the tax imposed by section 4401 and the special tax imposed by section 4411, see Subparts B and C of this part, respectively.
+
+(b) *Computation of special tax.* (1) Section 4411 imposes a special tax of $50 per year which is required to be paid by each person who is liable for the tax imposed by section 4401 (tax on wagers) or who is engaged in receiving wagers for or on behalf of any person who is liable for the tax imposed by section 4401. A person engaged both in accepting wagers on his own account and in receiving wagers for or on behalf of some other person is required to purchase but one special tax stamp.
+
+(2) The tax year begins July 1 and ends June 30 of the following calendar year. Persons commencing business between August 1 and June 30 (both dates inclusive) shall pay a proportionate part of the annual tax. “Commencing business” means the initial acceptance by a person of a wager subject to the tax imposed by section 4401 or the initial receiving of a taxable wager by an agent or employee for or on behalf of some other person. Persons in business for only a portion of a month are liable for tax for the full month, i.e., a person first becoming subject to the special tax on, for example, the 20th day of a month, is liable for tax for the entire month.
+
+(c) *Tax payment evidenced by special tax stamp.* (1) Upon receipt of a return on Form 11-C, together with remittance of the full amount of tax due, the district director will issue a special tax stamp as evidence of payment of the special tax.
+
+(2) District directors will distinctly write or print on the stamp before it is delivered or mailed to the taxpayer the following information: (i) The taxpayer's registered name, and (ii) the business or office address of the taxpayer if he has one; if not, the residence address. Special tax stamps will be transmitted by ordinary mail, unless it is requested that they be transmitted by registered mail in which case additional cost to cover registry fee shall be remitted with the return.
+
+(3) District directors and their collection officers are forbidden to issue receipts in lieu of stamps representing the payment of special taxes.
+
+(d) *Cross references.* For provisions relating to registration and information required to be reported on Form 11-C, see § 44.4412-1. For other provisions relating to Form 11-C, see §§ 44.6011(a)-1 (relating to returns), 44.6071-1 (time for filing returns and other documents), and 44.6091-1 (place for filing returns or other documents).

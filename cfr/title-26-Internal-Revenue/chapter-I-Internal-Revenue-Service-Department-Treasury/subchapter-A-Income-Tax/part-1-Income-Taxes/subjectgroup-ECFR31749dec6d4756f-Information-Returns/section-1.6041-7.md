@@ -1,0 +1,9 @@
+##### § 1.6041-7 Magnetic media requirement. #####
+
+(a) *General.* For rules relating to permission to submit the information required by Form 1099 or W-2 on magnetic tape or other media, see § 1.9101-1. See also paragraph (b)(2) of § 31.6011(a)-7 of this chapter (Employment Tax Regulations) for additional rules relating to Form W-2. High-volume filers of information returns must file their returns on magnetic media. See section 6011(e) and § 301.6011-2 of this chapter (Procedure and Administration Regulations) for the requirements for filing on magnetic media.
+
+(b) *Returns on magnetic tape by departments of health care carriers.* (1) For calendar years beginning on or after January 1, 1971, a health care carrier, or an agent thereof, making payment of fees or other compensation to providers of medical and health care services, may make a separate return on magnetic tape for each separate department within a specific line of such carrier's business, so long as all of such returns taken together contain all of the information required by section 6041 with respect to each provider of medical and health care services to whom such health care carrier makes payments aggregating $600 or more during the calendar year. Examples of separate departments within a specific line of such carrier's business (such as health and accident insurance) include, but are not limited to, separate departments to process claims of individual and group policyholders; and separate departments established along geographic lines.
+
+(2) For purposes of this paragraph, the term “health care carrier” means any person making health care payments: (i) In exchange for the payment of a premium, (ii) in accordance with an employee benefit program, or (iii) in connection with a government-sponsored health care program.
+
+[T.D. 7106, 36 FR 6422, Apr. 3, 1971, as amended by T.D. 8734, 62 FR 53473, Oct. 14, 1997]

@@ -1,0 +1,11 @@
+##### § 256.12 What supporting documentation must agencies submit to Fiscal Service when requesting a payment from the Judgment Fund? #####
+
+(a) *All payments.* The submitting agency must submit a copy of the judgment or settlement agreement, as applicable, in addition to the request for payment from the Judgment Fund. The request for payment must be on the appropriate Judgment Fund payment request forms.
+
+(b) *Awards to minors.* For awards to claimants that are minors, the submitting agency must include in its submission to Fiscal Service documentation establishing that the payee, if different from the claimant, is legally authorized to act on behalf of the claimant. Documentation of court approvals (Federal, State, or foreign) that are legally required for payment must be submitted along with the request for payment from the Judgment Fund. State law typically specifies when money awards to minors require the appointment of a guardian. Agencies must list the appropriate controlling state law citation on the payment request forms.
+
+(c) *Awards of costs.* For awards of costs, the submitting agency must include a copy of the “bill of costs” or the Court's order awarding costs. Only those items expressly enumerated under the cost statute, 28 U.S.C. 1920, or other governing statute specific to the award, are payable from the Judgment Fund.
+
+(d) *Payments to multiple claimants/payees in a single award.* For awards where multiple payees are to receive separate payments, the submitting agency must complete separate Judgment Fund Vouchers for Payment for each payee. When there are multiple claimants in an administrative tort matter, each claimant's award must independently exceed the mandatory $2,500 threshold in order for payment to be made from the Judgment Fund. A claimant's threshold can be satisfied by combining amounts awarded for personal and property damage under the FTCA.
+
+(e) *Awards of back pay.* For awards of back pay where the judgment does not specifically state the principal amounts to be paid and withholdings to be made, the submitting agency must include a spreadsheet indicating precisely which amounts are allocable to net pay, deductions, and interest.

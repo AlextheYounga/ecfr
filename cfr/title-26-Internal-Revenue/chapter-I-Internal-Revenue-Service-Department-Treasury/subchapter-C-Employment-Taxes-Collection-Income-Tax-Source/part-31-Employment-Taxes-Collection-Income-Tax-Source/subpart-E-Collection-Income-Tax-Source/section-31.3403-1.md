@@ -1,0 +1,3 @@
+##### § 31.3403-1 Liability for tax. #####
+
+Every employer required to deduct and withhold the tax under section 3402 from the wages of an employee is liable for the payment of such tax whether or not it is collected from the employee by the employer. If, for example, the employer deducts less than the correct amount of tax, or if he fails to deduct any part of the tax, he is nevertheless liable for the correct amount of the tax. See, however, § 31.3402(d)-1. The employer is relieved of liability to any other person for the amount of any such tax withheld and paid to the district director or deposited with a duly designated depositary of the United States.

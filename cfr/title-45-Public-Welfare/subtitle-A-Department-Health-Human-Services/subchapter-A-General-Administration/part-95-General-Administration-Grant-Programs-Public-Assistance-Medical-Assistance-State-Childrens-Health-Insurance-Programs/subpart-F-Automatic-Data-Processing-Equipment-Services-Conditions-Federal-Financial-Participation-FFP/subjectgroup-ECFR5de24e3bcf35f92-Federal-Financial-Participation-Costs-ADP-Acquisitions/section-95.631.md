@@ -1,0 +1,9 @@
+##### § 95.631 Cost identification for purpose of FFP claims. #####
+
+The conditions of this subpart apply notwithstanding the existence of an approved cost allocation plan. State agencies shall assign and claim the costs incurred under an approved APD in accordance with the following criteria:
+
+(a) *Development costs.* (1) Using its normal departmental accounting system, the State agency shall specifically identify what items of costs constitute development costs, assign these costs to specific project cost centers, and distribute these costs to funding sources based on the specific identification, assignment and distribution outlined in the approved APD; (2) the methods for distributing costs set forth in the APD should provide for assigning identifiable costs, to the extent practicable, directly to program/functions. The State agency shall amend the cost allocation plan required by subpart E of this part to include the approved APD methodology for the identification, assignment and distribution of the development costs.
+
+(b) *Operational costs.* Costs incurred for the operation of an ADP system shall be identified and assigned by the State agency to funding sources in accordance with the approved cost allocation plan required by Subpart E of this part.
+
+(c) *Service agreement costs.* States that operate a central data processing facility shall use their approved central service cost allocation plan required by OMB Circular A-87 to identify and assign costs incurred under service agreements with the State agency. The State agency will then distribute these costs to funding sources in accordance with paragraphs (a) and (b) of this section.

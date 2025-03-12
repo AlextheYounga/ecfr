@@ -1,0 +1,7 @@
+##### § 212.8 Federal payments. #####
+
+(a) The agreement made by the Assistant Secretary with an agency for carrying out the purposes of the Act shall provide for payment to such agency, either in advance or by way of reimbursement, of the cost of temporary assistance provided pursuant to the Act, and payment of the cost of other expenditures necessarily and reasonably related to providing the same. Such agreement shall include the cost of other expenditures necessarily and reasonably related to providing the same. Such agreement shall include the method for determining such costs, as well as the methods and procedures for determining the amounts of advances or reimbursement and for remittance and adjustment thereof.
+
+(b) To receive reimbursements, States, or other agencies, shall request and receive prior approval from the Assistant Secretary for administrative expenses incurred in developing or preparing to implement repatriation plans for groups of eligible persons. Such requests should include a description of the activities to be undertaken, an estimate of the expenses and a rationale for the expenditures. In reviewing requests, the Assistant Secretary will consider the necessity and reasonableness of the costs. Prior approval is not required for administrative expenditures incurred by a State in implementing approved repatriation plans as a result of Federal notification that an evacuation may be necessary.
+
+[39 FR 26548, July 19, 1974, as amended at 60 FR 19864, Apr. 21, 1995]

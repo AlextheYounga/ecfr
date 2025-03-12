@@ -1,0 +1,3 @@
+##### § 1.1402(c)-4 Individuals under Railroad Retirement System. #####
+
+The performance of service by an individual as an employee or employee representative as defined in section 3231(b) and (c), respectively (see §§ 31.3231(b)-1 and 31.3231(c)-1 of Part 31 of this chapter (Employment Tax Regulations)), that is, an individual covered under the railroad retirement system, does not constitute a trade or business.

@@ -1,0 +1,3 @@
+##### § 20.115 Does this part affect the Federal contracts that I receive? #####
+
+It will affect future contract awards indirectly if you are debarred or suspended for a violation of the requirements of this part, as described in § 20.510(c). However, this part does not apply directly to procurement contracts. The portion of the Drug-Free Workplace Act of 1988 that applies to Federal procurement contracts is carried out through the Federal Acquisition Regulation in chapter 1 of Title 48 of the Code of Federal Regulations (the drug-free workplace coverage currently is in 48 CFR part 23, subpart 23.5).

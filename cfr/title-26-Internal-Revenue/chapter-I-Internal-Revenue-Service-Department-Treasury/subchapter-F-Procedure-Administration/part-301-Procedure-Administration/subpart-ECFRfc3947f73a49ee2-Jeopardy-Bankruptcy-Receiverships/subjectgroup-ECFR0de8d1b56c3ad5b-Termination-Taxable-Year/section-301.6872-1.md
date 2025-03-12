@@ -1,0 +1,3 @@
+##### § 301.6872-1 Suspension of running of period of limitations on assessment. #####
+
+If any fiduciary in any proceeding under the Bankruptcy Act (11 U.S.C. chapters 1-14), including a trustee, receiver, or debtor in possession, or a receiver in any other court proceeding is required, pursuant to section 6036, to give notice in writing to the district director of his qualification as such, then the running of the period of limitations on assessment shall be suspended from the date the proceeding is instituted to the date such notice is received by the district director, and for an additional 30 days thereafter. However, the suspension under this section of the running of the period of limitation on assessment shall in no case exceed 2 years.

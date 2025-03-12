@@ -1,0 +1,19 @@
+##### § 1.895-1 Income derived by a foreign central bank of issue, or by Bank for International Settlements, from obligations of the United States or from bank deposits. #####
+
+(a) *In general.* Income derived by a foreign central bank of issue from obligations of the United States or of any agency or instrumentality thereof, or from interest on deposits with persons carrying on the banking business, is excluded from the gross income of such bank and is exempt from income tax if the bank is the owner of the obligations or deposits and does not hold the obligations or deposits for, or use them in connection with, the conduct of a commercial banking function or other commercial activity by such bank. For purposes of this section and paragraph (i) of § 1.1441-4, obligations of the United States or of any agency or instrumentality thereof include beneficial interests, participations, and other instruments issued under section 302(c) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717). See 24 CFR part 1600 *et seq.*
+
+(b) *Foreign central bank of issue.* (1) A foreign central bank of issue is a bank which is by law or government sanction the principal authority, other than the government itself, issuing instruments intended to circulate as currency. Such a bank is generally the custodian of the banking reserves of the country under whose law it is organized. See also paragraph (b)(5) of § 1.861-2.
+
+(2) The exclusion granted by section 895 applies to an instrumentality that is separate from a foreign government, whether or not owned in whole or in part by a foreign government. For example, foreign banks organized along the lines of, and performing functions similar to, the Federal Reserve System qualify as foreign central banks of issue for purposes of this section.
+
+(3) The Bank for International Settlements shall be treated as though it were a foreign central bank of issue for purposes of obtaining the exclusion granted by section 895.
+
+(c) *Ownership of United States obligations or bank deposits.* The exclusion does not apply if the obligations or bank deposits from which the income is derived are not owned by the foreign central bank of issue. Obligations held, or deposits made, by a foreign central bank of issue as agent, custodian, trustee, or in any other fiduciary capacity, shall be considered as not owned by such bank for purposes of this section.
+
+(d) *Commercial banking function or other commercial activity.* The exclusion applies only to obligations of the United States or of any agency or instrumentality thereof, or to bank deposits, held for, or used in connection with, the conduct of a central banking function and not to obligations or deposits held for, or used in connection with, the conduct of commercial banking functions or other commercial activities by the foreign central bank.
+
+(e) *Other exclusions.* See section 861(a)(1) (A) and (E) and § 1.861-2(b)(1) and (4), for special rules relating to interest paid or credited before January 1, 1977, on deposits and on similar amounts and for rules on interest derived from bankers' acceptances. For exemption from withholding under § 1.1441-1 on income derived by a foreign central bank of issue, or by the Bank of International Settlements, from obligations of the United States or of any agency or instrumentality thereof, or from bank deposits, see § 1.1441-4(i).
+
+(f) *Effective date.* This section shall apply with respect to taxable years beginning after December 31, 1966. For corresponding rules applicable to taxable years beginning before January 1, 1967, see 26 CFR 1.85-1 (Revised as of January 1, 1972).
+
+[T.D. 7378, 40 FR 45435, Oct. 2, 1975; 40 FR 48508, Oct. 16, 1975]

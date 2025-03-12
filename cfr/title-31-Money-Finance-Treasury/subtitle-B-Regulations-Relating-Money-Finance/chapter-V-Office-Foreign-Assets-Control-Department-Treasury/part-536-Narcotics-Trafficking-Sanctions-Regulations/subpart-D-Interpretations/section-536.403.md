@@ -1,0 +1,5 @@
+##### § 536.403 Termination and acquisition of an interest in blocked property. #####
+
+(a) Whenever a transaction licensed or authorized by or pursuant to this part results in the transfer of property (including any property interest) away from a specially designated narcotics trafficker, such property shall no longer be deemed to be property in which a specially designated narcotics trafficker has or has had an interest, or which is held in the name of a specially designated narcotics trafficker, unless there exists in the property another interest of a specially designated narcotics trafficker, the transfer of which has not been effected pursuant to license or other authorization.
+
+(b) Unless otherwise specifically provided in a license or authorization issued pursuant to this part, if property (including any property interest) is transferred or attempted to be transferred to a specially designated narcotics trafficker, such property shall be deemed to be property in which there exists an interest of the specially designated narcotics trafficker.

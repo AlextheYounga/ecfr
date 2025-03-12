@@ -1,0 +1,25 @@
+##### § 1.987-7T Section 987 aggregate partnerships (temporary). #####
+
+(a) [Reserved]. For further guidance, see § 1.987-7(a).
+
+(b) *Liquidation value percentage methodology* - (1) *In general.* In any taxable year, a partner's share of each asset, including its basis in each asset, and the amount of each liability reflected under § 1.987-2(b) on the books and records of an eligible QBU owned indirectly through a section 987 aggregate partnership is proportional to the partner's liquidation value percentage with respect to the aggregate partnership for that taxable year, as determined under paragraph (b)(2) of this section.
+
+(2) *Liquidation value percentage* - (i) *In general.* For purposes of this paragraph (b), a partner's liquidation value percentage is the ratio (expressed as a percentage) of the liquidation value of the partner's interest in the partnership to the aggregate liquidation value of all of the partners' interests in the partnership. The liquidation value of a partner's interest in a partnership is the amount of cash the partner would receive with respect to the interest if, immediately following the applicable determination date, the partnership sold all of its assets for cash equal to the fair market value of such assets (taking into account section 7701(g)), satisfied all of its liabilities (other than those described in § 1.752-7), paid an unrelated third party to assume all of its § 1.752-7 liabilities in a fully taxable transaction, and then liquidated.
+
+(ii) *Determination date* - (A) *In general.* Except as provided in paragraph (b)(2)(ii)(B) of this section, the determination date is the date of the most recent event described in § 1.704-1(b)(2)(iv)(*f*)(*5*) or § 1.704-1(b)(2)(iv)(*s*)(*1*) (a revaluation event), irrespective of whether the capital accounts of the partners are adjusted under § 1.704-1(b)(2)(iv)(*f*), or, if there has been no revaluation event, the date of the formation of the partnership.
+
+(B) *Allocations not in accordance with liquidation value percentage.* If a partnership agreement provides for the allocation of any item of income, gain, deduction, or loss from partnership property to a partner other than in accordance with the partner's liquidation value percentage, the determination date is the last day of the partner's taxable year, or, if the partner's section 987 QBU owned indirectly through a section 987 aggregate partnership terminates during the partner's taxable year, the date such section 987 QBU is terminated.
+
+(3) *Example.* The following example illustrates the rule of this paragraph (b).
+
+Example.(i) *Facts.* DC, a domestic corporation, owns all of the stock of FS, a controlled foreign corporation (as defined in section 957(a)) with the U.S. dollar as its functional currency. FS owns a capital and profits interest in FPRS, a foreign partnership. The remaining capital and profits interest in FPRS is owned by DC. FPRS is a section 987 aggregate partnership with the euro as its functional currency. The balance sheet of FPRS reflects one asset (Asset A) with a basis of €60x and a fair market value of €100x, another asset (Asset B) with a basis of €100x and a fair market value of €200x, and a liability (Liability) of €50x. At the end of year 1, the liquidation value percentage, as determined under paragraph (b)(2) of this section, of DC with respect to FPRS is 75 percent, and the liquidation value percentage of FS with respect to FPRS is 25 percent.
+
+(ii) *Result.* Under § 1.987-1(b)(4), DC and FS are each treated as indirectly owning an eligible QBU with a balance sheet that reflects their respective shares of any assets and liabilities of FPRS. Under paragraph (b)(1) of this section, DC and FS's shares of FPRS's assets and liabilities are determined in accordance with DC and FS's respective liquidation value percentages. Accordingly, because DC has a liquidation value percentage of 75 percent with respect to FPRS, €75x of Asset A (with a €45x basis), €150x of Asset B (with a €75x basis), and €37.50x of Liability will be attributed to the DC-FPRS QBU. Additionally, because FS has a liquidation value percentage of 25 percent with respect to FPRS, €25x of Asset A (with a €15x basis), €50x of Asset B (with a €25x basis), and €12.50x of Liability will be attributed to the FS-FPRS QBU.
+
+(c) [Reserved]. For further guidance, see § 1.987-7(c).
+
+(d) *Effective/applicability date.* This section applies to taxable years beginning on or after one year after the first day of the first taxable year following December 7, 2016. Notwithstanding the preceding sentence, if a taxpayer makes an election under § 1.987-11(b), then this section applies to taxable years to which §§ 1.987-1 through 1.987-10 apply as a result of such election.
+
+(e) *Expiration date.* The applicability of this section expires on December 6, 2019.
+
+[T.D. 9795, 81 FR 88874, Dec. 8, 2016]

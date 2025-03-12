@@ -1,0 +1,9 @@
+##### § 8.57 Answer. #####
+
+(a) *Filing.* The respondent shall file the answer in writing within the time specified in the complaint or notice of institution of the proceeding, unless on application the time is extended by the Director of Practice or the Administrative Law Judge. The respondent shall file the answer in duplicate with the director of Practice.
+
+(b) *Contents.* The respondent shall include in the answer a statement of facts which constitute the grounds of defense, and shall specifically admit or deny each allegation set forth in the complaint, except that the respondent shall not deny a material allegation in the complaint which he or she knows to be true, or state that he or she is without sufficient information to form a belief when in fact the respondent possesses that information. The respondent may also state affirmatively special matters of defense.
+
+(c) *Failure to deny or answer allegations in the complaint.* Every allegation in the complaint which is not denied in the answer is deemed to be admitted and may be considered as proven, and no further evidence in respect of that allegation need be adduced at a hearing. Failure to file an answer within the time prescribed in the notice to the respondent, except as the time for answer is extended by the Director of Practice or the Administrative Law Judge, will constitute an admission of the allegations of the complaint and a waiver of hearing, and the Administrative Law Judge may make a decision by default without a hearing or further procedure.
+
+(d) *Reply by Director of Practice.* No reply to the respondent's answer is required, and new matter in the answer will be deemed to be denied, but the Director of Practice may file a reply at his or her discretion or at the request of the Administrative Law Judge.

@@ -1,0 +1,3 @@
+##### § 309.7 Tenders; submission through Federal Reserve Banks and branches and to the Bureau of the Fiscal Service. #####
+
+Tenders in response to any such public notice will be received at the Federal Reserve Banks, or Branches thereof and at the Bureau of the Fiscal Service, Washington, DC 20226, and unless received before the time fixed for closing will be disregarded. Each tender must be for a minimum amount of $10,000. Tenders over $10,000 must be in multiples of $5,000 (maturity value). In the case of competitive tenders the price or prices offered by the bidder for the amount or amounts (at maturity value) applied for must be stated, and must be expressed on the basis of 100, with not more than three decimals, e.g., 99.925. Fractions may not be used.

@@ -1,0 +1,3 @@
+##### § 13.29 Payment of award. #####
+
+The notification to an applicant of a final decision that an award will be made shall contain the name and address of the appropriate Departmental finance office that will pay the award. An applicant seeking payment of an award shall submit to that finance officer a copy of the final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. The Department will pay the amount awarded to the applicant within 60 days, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceedings.

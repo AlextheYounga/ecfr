@@ -1,0 +1,3 @@
+##### § 11.8 Reports. #####
+
+This section establishes a Department of the Treasury reporting requirement to comply with 34 CFR 395.38. At the end of each fiscal year, each property managing bureau shall submit a report to the Director, Office of Management Support Systems, Departmental Offices, containing the elements set forth in 34 CFR 395.38. The Director, Office of Management Support Systems, shall submit a consolidated report to the Secretary of Education after the end of the fiscal year.

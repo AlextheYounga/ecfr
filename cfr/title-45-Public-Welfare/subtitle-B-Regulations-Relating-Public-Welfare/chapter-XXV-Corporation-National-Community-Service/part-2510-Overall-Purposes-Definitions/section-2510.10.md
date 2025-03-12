@@ -1,0 +1,5 @@
+##### § 2510.10 What are the purposes of the programs and activities of the Corporation for National and Community Service? #####
+
+The National and Community Service Trust Act of 1993 established the Corporation for National and Community Service (the Corporation). The Corporation's mission is to engage Americans of all ages and backgrounds in community-based service. This service will address the Nations educational, public safety, human, and environmental needs to achieve direct and demonstrable results. In doing so, the Corporation will foster civic responsibility, strengthen the ties that bind us together as a people, and provide educational opportunity for those who make a substantial commitment to service. The Corporation will undertake activities and provide assistance to States and other eligible entities to support national and community service programs and to achieve other purposes consistent with its mission.
+
+[59 FR 13783, Mar. 23, 1994]

@@ -1,0 +1,27 @@
+##### § 1.501(c)(18)-1 Certain funded pension trusts. #####
+
+(a) *In general.* Organizations described in section 501(c)(18) are trusts created before June 25, 1959, forming part of a plan for the payment of benefits under a pension plan funded only by contributions of employees. In order to be exempt, such trusts must also meet the requirements set forth in section 501(c)(18) (A), (B), and (C), and in paragraph (b) of this section.
+
+(b) *Requirements for qualification.* A trust described in section 501(c)(18) must meet the following requirements:
+
+(1) *Local law.* The trust must be a valid, existing trust under local law, and must be evidenced by an executed written document.
+
+(2) *Funding.* The trust must be funded solely from contributions of employees who are members of the plan. For purposes of this section, the term *contributions of employees* shall include earnings on, and gains derived from, the assets of the trust which were contributed by employees.
+
+(3) *Creation before June 25, 1959* - (i) *In general.* The trust must have been created before June 25, 1959. A trust created before June 25, 1959 is described in section 501(c)(18) and this section even though changes in the makeup of the trust have occurred since that time so long as these are not fundamental changes in the character of the trust or in the character of the beneficiaries of the trust. Increases in the beneficiaries of the trust by the addition of employees in the same or related industries, whether such additions are of individuals or of units (such as local units of a union) will generally not be considered a fundamental change in the character of the trust. A merger of a trust created after June 25, 1959 into a trust created before such date is not in itself a fundamental change in the character of the latter trust if the two trusts are for the benefit of employees of the same or related industries.
+
+(ii) *Examples.* The provisions of this subparagraph may be illustrated by the following examples:
+
+Example 1.Assume that trust C, for the benefit of members of participating locals of National Union X, was established in 1950 and adopted by 29 locals before June 25, 1959. The subsequent adoption of trust C by additional locals of National Union X in 1962 will not constitute a fundamental change in the character of trust C, since such subsequent adoption is by employees in a related industry.Example 2.Assume the facts as stated in example 1, except that in 1965 National Union X merged with National Union Y, whose members are engaged in trades related to those engaged in by X's members. Assume further that trust D, the employee funded pension plan and fund for employees of Y, was subsequently merged into trust C. The merger of trust D into trust C would not in itself constitute a fundamental change in the character of trust C, since both C and D are for the benefit of employees of related industries.
+
+(4) *Payment of benefits.* The trust must provide solely for the payment of pension or retirement benefits to its beneficiaries. For purposes of this section, the term *retirement benefits* is intended to include customary and incidental benefits, such as death benefits within the limits permissible under section 401.
+
+(5) *Diversion.* The trust must be part of a plan which provides that, before the satisfaction of all liabilities to employees covered by the plan, the corpus and income of the trust cannot (within the taxable year and at any time thereafter) be used for, or diverted to, any purpose other than the providing of pension or retirement benefits. Payment of expenses in connection with the administration of a plan providing pension or retirement benefits shall be considered a payment to provide such benefits and shall not affect the qualification of the trust.
+
+(6) *Discrimination.* The trust must be part of a plan whose eligibility conditions and benefits do not discriminate in favor of employees who are officers, shareholders, persons whose principal duties consist of supervising the work of other employees, or highly compensated employees. See sections 401(a)(3)(B) and 401(a)(4) and §§ 1.401-3 and 1.401-4. However, a plan is not discriminatory within the meaning of section 501(c)(18) merely because the benefits received under the plan bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of the employees covered by the plan. Accordingly, the benefits provided for highly paid employees may be greater than the benefits provided for lower paid employees if the benefits are determined by reference to their compensation; but, in such a case, the plan will not qualify if the benefits paid to the higher paid employees are a larger portion of compensation than the benefits paid to lower paid employees.
+
+(7) *Objective standards.* The trust must be part of a plan which requires that benefits be determined according to objective standards. Thus, while a plan may provide similarly situated employees with benefits which differ in kind and amount, these benefits may not be determined solely in the discretion of the trustees.
+
+(c) *Effective date.* The provisions of section 501(c)(18) and this section shall apply with respect to taxable years beginning after December 31, 1969.
+
+[T.D. 7172, 37 FR 5618, Mar. 17, 1972]

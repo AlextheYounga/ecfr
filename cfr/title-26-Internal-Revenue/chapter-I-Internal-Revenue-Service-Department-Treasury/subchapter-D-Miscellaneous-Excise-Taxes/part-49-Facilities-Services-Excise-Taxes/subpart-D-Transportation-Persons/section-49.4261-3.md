@@ -1,0 +1,25 @@
+##### § 49.4261-3 Payments made within the United States. #####
+
+(a) *Transportation beginning and ending in the United States or the 225-mile zone.* The tax imposed by section 4261(a) applies to payments made within the United States for transportation which begins in the United States or in the 225-mile zone and ends in the United States or in the 225-mile zone. For example, an amount paid within the United States for transportation between New York and Montreal, Canada; between Vancouver, Canada, and Windsor, Canada; or between Nogales, Mexico, and Hermosillo, Mexico, would be fully taxable. See section 4262(c) (2) and paragraph (b) of § 49.4262(c)-1 for the definition of the term “225-mile zone”.
+
+(b) *Other transportation* - (1) *Transportation beginning before November 16, 1962.* In the case of transportation beginning before November 15, 1962, (other than that described in paragraph (a) of this section), for which payment is made in the United States, the tax applies with respect to the amount paid for that portion of such transportation which is directly or indirectly from one port or station in the United States to another port or station in the United States. Transportation that (i) begins in the United States or in the 225-mile zone and ends outside such area, (ii) begins outside the United States or the 225-mile zone and ends inside such area, or (iii) begins outside the United States and ends outside such area is taxable only with respect to such portion of the transportation which is directly or indirectly from one port or station in the United States to another such port or station. Thus, on a trip from Chicago to London, England, with a stopover at New York, for which payment is made in the United States, the tax would apply to the part of the payment which is applicable to the transportation from Chicago to New York.
+
+(2) *Transportation beginning after November 15, 1962.* In the case of transportation beginning after November 15, 1962 (other than that described in paragraph (a) of this section), for which payment is made in the United States, the tax applies with respect to the amount paid for that portion of such transportation by air which is directly or indirectly from one port or station in the United States to another port or station in the United States, but only if such portion is not a part of “uninterrupted international air transportation” within the meaning of section 4262(c) (3) and paragraph (c) of § 49.4262(c)-1. Transportation that
+
+(i) Begins in the United States or the 225-mile zone and ends outside such area,
+
+(ii) Begins outside the United States or the 225-mile zone and ends inside such area, or
+
+(iii) Begins outside the United States and ends outside such area.
+
+is taxable only with respect to such portion of the transportation by air which is directly or indirectly from one port or station in the United States to another port or station in the United States, but only if such portion is not a part of “uninterrupted international air transportation” within the meaning of section 4262(c) (3) and paragraph (c) of § 49.4262(c)-1. Thus, on a trip by air from Chicago to London, England, with a stopover at New York, for which payment is made in the United States, if the portion from Chicago to New York is not a part of “uninterrupted international air transportation” within the meaning of section 4262(c)(3) and paragraph (c) of § 49.4262(c)-1, the tax would apply to the part of the payment which is applicable to the transportation from Chicago to New York. However, if the portion from Chicago to New York is a part of “uninterrupted international air transportation” within the meaning of section 4262(c) (3) and paragraph (c) of § 49.4262(c)-1, the tax would not apply.
+
+(c) *Method of computing tax on taxable portion.* Where a payment is made for transportation which is partially taxable under paragraph (b) of this section:
+
+(1) The tax may be computed on that proportin of the total amount paid which the mileage of the taxable portion of the transportation bears to the mileage of the entire trip, or
+
+(2) The tax may be computed on the basis of the applicable local fare for transportation of a like class between the ports or stations referred to in paragraph (b) of this section. Where a uniform fare is charge for transportation between a station and any coastal gateway point of embarkation on a trip to the same international destination, the tax may be computed on the basis of such uniform fare. In the absence of a fare described in this subparagraph, the tax must be determined in accordance with subparagraph (1) of this paragraph. If an international trip includes a leg between coastal gateway points of embarkation for which no additional fare is charged, no tax shall be applicable to such leg of the transportation.
+
+(d) *Cross reference.* See section 4262 (b) and § 49.4262(b)-1 for a partial exclusion with respect to amounts paid for certain transportation.
+
+[T.D. 6430, 24 FR 9665, Dec. 3, 1959, as amended by T.D. 6618, 27 FR 11222, Nov. 14, 1962]

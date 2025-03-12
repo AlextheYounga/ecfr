@@ -1,0 +1,3 @@
+##### § 553.406 Entities owned by a person whose property and interests in property are blocked. #####
+
+A person whose property and interests in property are blocked pursuant to § 553.201 has an interest in all property and interests in property of an entity in which it owns, directly or indirectly, a 50 percent or greater interest. The property and interests in property of such an entity, therefore, are blocked, and such an entity is a person whose property and interests in property are blocked pursuant to § 553.201, regardless of whether the name of the entity is incorporated into OFAC's Specially Designated Nationals and Blocked Persons List (SDN List).

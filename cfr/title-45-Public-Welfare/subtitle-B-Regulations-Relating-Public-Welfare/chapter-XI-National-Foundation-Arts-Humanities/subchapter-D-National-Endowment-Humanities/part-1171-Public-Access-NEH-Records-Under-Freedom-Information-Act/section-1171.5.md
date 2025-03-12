@@ -1,0 +1,11 @@
+##### § 1171.5 Requests for records. #####
+
+(a) *How to make a request.* Your FOIA request need not be in any particular format, but it must be in writing, include your full name, mailing address, daytime telephone number. If you choose to submit your request on the NEH Web site, the request must also include your email address. Your request should be clearly identified as a FOIA request in both the text of the request and on the envelope (or on the facsimile or in the subject heading of an email message) and must describe the requested records in enough detail to enable NEH staff to locate them with a reasonable amount of effort. Whenever possible, your request should include specific information about each record sought, such as the date, title or name, author, recipient, and subject matter of the record. The NEH has no obligation to answer questions posed as FOIA requests or to create records to satisfy a FOIA request.
+
+(b) *Agreement to pay fees.* If you make a FOIA request, the NEH will consider it an agreement by you to pay all applicable fees charged under this part, subject to the fee limitations of § 1171.11(d). When making a request, you may specify a willingness to pay a greater or lesser amount.
+
+(c) *Where to send a request.* (1) For NEH records (except NEH Office of the Inspector General records) and/or FCAH records, write to: The General Counsel, Office of the General Counsel, National Endowment for the Humanities, 400 7th Street SW., Room 4060, Washington, DC, 20506. You may also send your request to the NEH General Counsel by facsimile at 202-606-8600, by email at *gencounsel@neh.gov,* or through the NEH's electronic FOIA request system, which is available on the NEH Web site at *www.neh.gov.*
+
+(2) For NEH Office of the Inspector General records, write to: The Inspector General, Office of the Inspector General, National Endowment for the Humanities, 400 7th Street SW., Room 2200, Washington, DC 20506. You may also send your request to the Inspector General by facsimile at 202-606-8329 or by email at *oig@neh.gov.*
+
+[79 FR 9415, Feb. 19, 2014, as amended at 80 FR 42066, July 16, 2015]

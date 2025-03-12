@@ -1,0 +1,3 @@
+##### § 1800.3 Procedures for requests for access to individual records in a record system. #####
+
+An individual shall submit a request to the Deputy Executive Secretary of the Foundation to determine if a system of records named by the individual contains a record pertaining to the individual. The individual shall submit a request to the Deputy Executive Secretary of the Foundation which states the individual's desire to review his or her record.

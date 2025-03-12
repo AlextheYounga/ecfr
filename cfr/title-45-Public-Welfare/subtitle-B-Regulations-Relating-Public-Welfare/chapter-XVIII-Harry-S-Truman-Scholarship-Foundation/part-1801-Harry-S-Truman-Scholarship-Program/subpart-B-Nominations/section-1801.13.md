@@ -1,0 +1,3 @@
+##### § 1801.13 Two-year institutions. #####
+
+If an institution does not offer education beyond the sophomore level, the institution may nominate only students who have completed two years at that institution and who are currently enrolled as full-time juniors at accredited four-year institutions. Faculty Representatives at two-year institutions may submit the materials directly to the Foundation or they may forward the nomination materials to the Faculty Representative of the four-year institution attended by the nominee.

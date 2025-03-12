@@ -1,0 +1,7 @@
+##### § 301.7454-2 Burden of proof in foundation manager, etc. cases. #####
+
+(a) *Foundation manager.* In any proceeding involving the issue whether a foundation manager as defined in section 4946(b) has “knowingly” participated in an act of self-dealing within the meaning of section 4941, participated in an investment which jeopardizes the carrying out of exempt purposes within the meaning of section 4944, or agreed to the making of a taxable expenditure within the meaning of section 4945 or whether an organization manager (as defined in section 4958(f)(2)) has “knowingly” participated in an excess benefit transaction (as defined in section 4958(c)), the burden of proof in respect of such issue shall be upon the Commissioner.
+
+(b) *Trustee of a black lung benefit trust.* In any proceeding involving the issue whether a trustee of a trust described in section 501(c)(21) has “knowingly” participated in an act of self-dealing within the meaning of section 4951 or agreed to the making of a taxable expenditure within the meaning of section 4952, the burden of proof in respect of such issue shall be upon the Commissioner.
+
+[T.D. 7838, 47 FR 44253, Oct. 7, 1982, as amended by T.D. 8920, 66 FR 2171, Jan. 10, 2001]

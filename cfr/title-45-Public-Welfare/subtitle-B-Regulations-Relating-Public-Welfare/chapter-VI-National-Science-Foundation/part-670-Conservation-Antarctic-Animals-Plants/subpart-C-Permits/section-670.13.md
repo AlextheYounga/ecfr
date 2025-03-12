@@ -1,0 +1,13 @@
+##### § 670.13 Permit administration. #####
+
+(a) *Issuance of the permits.* The Director may approve any application in whole or part. Permits shall be issued in writing and signed by the Director. Each permit may contain such terms and conditions as are consistent with the Act and this part.
+
+(b) *Denial.* The applicant shall be notified in writing of the denial of any permit request or part of a request and of the reason for such denial. If authorized in the notice of denial, the applicant may submit further information or reasons why the permit should not be denied. Such further submissions shall not be considered a new application.
+
+(c) *Amendment of applications or permits.* An applicant or permit holder desiring to have any term or condition of his application or permit modified must submit full justification and supporting information in conformance with the provisions of this subpart and the subpart governing the activities sought to be carried out under the modified permit. Any application for modification of a permit that involves a material change beyond the terms originally requested will normally be subject to the same procedures as a new application.
+
+(d) *Notice of issuance or denial.* Within 10 days after the date of the issuance or denial of a permit, the Director shall publish notice of the issuance or denial in the Federal Register.
+
+(e) *Agents of the permit holder.* The Director may authorize the permit holder to designate agents to act on behalf of the permit holder.
+
+(f) *Marine mammals, endangered species, and migratory birds.* If the Director receives a permit application involving any native mammal which is a marine mammal as defined by the Marine Mammal Protection Act of 1972 (16 U.S.C. 1362(5)), any species which is an endangered or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 *et seq.*) or any native bird which is protected under the Migratory Bird Treaty Act (16 U.S.C. 701 *et seq.*), the Director shall submit a copy of the application to the Secretary of Commerce or to the Secretary of the Interior, as appropriate. If the appropriate Secretary determines that a permit should not be issued pursuant to any of the cited acts, the Director shall not issue a permit. The Director shall inform the applicant of any denial by the appropriate Secretary and no further action shall be taken on the application. If, however, the appropriate Secretary issues a permit pursuant to the requirements of the cited acts, the Director still must determine whether the proposed action is consistent with the Act and the regulations in this part.

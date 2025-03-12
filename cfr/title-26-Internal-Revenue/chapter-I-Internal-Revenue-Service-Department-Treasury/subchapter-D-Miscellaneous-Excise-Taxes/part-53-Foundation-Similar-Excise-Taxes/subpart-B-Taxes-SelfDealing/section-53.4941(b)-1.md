@@ -1,0 +1,7 @@
+##### § 53.4941(b)-1 Imposition of additional taxes. #####
+
+(a) *Tax on self-dealer.* Section 4941(b)(1) of the Code imposes an excise tax in any case in which an initial tax is imposed by section 4941(a)(1) on an act of self-dealing by a disqualified person with a private foundation and the act is not corrected within the taxable period (as defined in § 53.4941(e)-1(a)). The tax imposed by section 4941(b)(1) is at the rate of 200 percent of the amount involved and shall be paid by any disqualified person (other than a foundation manager action only in the capacity of a foundation manager) who participated in the act of self-dealing.
+
+(b) *Tax on foundation manager.* Section 4941(b)(2) of the Code imposes an excise tax to be paid by a foundation manager in any case in which a tax is imposed by section 4941(b)(1) and the foundation manager refused to agree to part or all of the correction of the self-dealing act. The tax imposed by section 4941(b)(2) is at the rate of 50 percent of the amount involved and shall be paid by any foundation manager who refused to agree to part or all of the correction of the self-dealing act. For the limitations on liability of a foundation manager, see § 53.4941(c)-1(b).
+
+[T.D. 7270, 38 FR 9493, Apr. 17, 1973, as amended by T.D. 8084, 51 FR 16301, May 2, 1986]

@@ -1,0 +1,3 @@
+##### § 561.704 Administrative collection; referral to United States Department of Justice. #####
+
+In the event that the violator does not pay the penalty imposed pursuant to this part, the matter may be referred for administrative collection measures by the Department of the Treasury or to the United States Department of Justice for appropriate action to recover the penalty in a civil suit in a federal district court.

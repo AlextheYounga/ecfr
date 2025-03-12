@@ -1,0 +1,3 @@
+##### § 501.718 Conduct and order of hearings. #####
+
+All hearings shall be conducted in a fair, impartial, expeditious and orderly manner. Each party has the right to present its case or defense by oral and documentary evidence and to conduct such cross examination as may be required for full disclosure of the relevant facts. The Director shall present his or her case-in-chief first. The Director shall be the first party to present an opening statement and a closing statement and may make a rebuttal statement after the respondent's closing statement.

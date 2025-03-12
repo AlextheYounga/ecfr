@@ -1,0 +1,3 @@
+##### § 96.12 Grant payment. #####
+
+The Secretary will make payments at such times and in such amounts to each State from its awards in advance or by way of reimbursement in accordance with section 203 of the Intergovernmental Cooperation Act (42 U.S.C. 4213) and Treasury Circular No. 1075 (31 CFR part 205). When matching funds are involved, the Secretary shall take into account the ratio that such payment bears to such State's total expenditures under its awards.

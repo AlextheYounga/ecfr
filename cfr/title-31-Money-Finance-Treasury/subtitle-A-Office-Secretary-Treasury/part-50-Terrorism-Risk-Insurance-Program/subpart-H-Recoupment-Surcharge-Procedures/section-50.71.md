@@ -1,0 +1,11 @@
+##### § 50.71 Determination of recoupment amounts. #####
+
+(a) If payments for the Federal share of compensation have been made for a Program Year, and Treasury determines that insured loss information is sufficiently developed and credible to serve as a basis for calculating recoupment amounts, Treasury will make an initial determination of any mandatory or discretionary recoupment amounts for that Program Year.
+
+(b)(1) Within 90 days after certification of an act of terrorism, the Secretary shall publish in the Federal Register an estimate of aggregate insured losses which shall be used as the basis for initially determining whether mandatory recoupment will be required.
+
+(2) If at any time Treasury projects that payments for the Federal share of compensation will be made for a Program Year, and that in order to meet the collection timing requirements of section 103(e)(7)(E) of the Act it is necessary to use an estimate of such payments as a basis for calculating recoupment amounts, Treasury will make an initial determination of any mandatory recoupment amounts for that Program Year.
+
+(c) Following the initial determination of recoupment amounts for a Program Year, Treasury will recalculate any mandatory or discretionary recoupment amount as necessary and appropriate, and at least annually, until a final recoupment amount for the Program Year is determined. Treasury will compare any recalculated recoupment amount to amounts already remitted and/or to be remitted to Treasury for a Federal Terrorism Policy Surcharge previously established to determine whether any additional amount will be recouped by Treasury.
+
+(d) For the purpose of determining initial or recalculated recoupment amounts, Treasury may issue a data call to insurers for insurer deductible and insured loss information by Program Year. Treasury's determination of the aggregate amount of insured losses from Program Trigger Events of all insurers for a Program Year will be based on the amounts reported in response to a data call and any other information Treasury in its discretion considers appropriate. Submission of data in response to a data call shall be on a form promulgated by Treasury.

@@ -1,0 +1,229 @@
+##### § 1.7874-2 Surrogate foreign corporation. #####
+
+(a) [Reserved] For further guidance, see § 1.7874-2T(a).
+
+(b) *Definitions and special rules.* In addition to the definitions in § 1.7874-12T, the following definitions and special rules apply for purposes of this section.
+
+(1) The rules of this section are subject to section 7874(c)(4).
+
+(2) References to *properties held* by a domestic corporation include properties held directly or indirectly by the domestic corporation.
+
+(3) The rules and principles of sections 701 through 777 shall be applied for purposes of determining a proportionate amount (or share) of properties held by a partnership (such as stock).
+
+(4) Any reference to the acquisition of properties held by a domestic corporation (or a partnership) includes a direct or indirect acquisition of such properties.
+
+(5) In the case of an acquisition of stock of a domestic corporation or an interest in a partnership, the proportionate amount of properties held by the domestic corporation (or the partnership) that is treated as indirectly acquired shall, as applicable, be determined at the time of the acquisition based on the relative value of -
+
+(i) The stock acquired compared to all outstanding stock of the domestic corporation; or
+
+(ii) The interest acquired compared to all interests in the partnership.
+
+(6) The determination of whether a foreign corporation is a surrogate foreign corporation is made after the domestic entity acquisition. A foreign corporation that is treated as a surrogate foreign corporation (including a surrogate foreign corporation treated as a domestic corporation described in section 7874(b)) shall continue to be treated as a surrogate foreign corporation (or a domestic corporation), even if the conditions of section 7874(a)(2)(B)(ii) and (iii) are not satisfied at a later date.
+
+(b)(7) through (13) [Reserved] For further guidance, see § 1.7874-2T(b)(7) through (13).
+
+(c) *Acquisition of properties* - (1) *Indirect acquisition of properties.* For purposes of section 7874(a)(2)(B)(i), an indirect acquisition of properties held by a domestic corporation (or a partnership) includes, but is not limited to, the acquisitions described in paragraphs (c)(1)(i) through (iv) of this section. An acquisition of less than all of the stock of a domestic corporation (or interests in a partnership) shall constitute an indirect acquisition of a proportionate amount of the properties held by the domestic corporation or the partnership. See paragraph (b)(8) of this section for rules determining the proportionate amount of properties indirectly acquired.
+
+(i) An acquisition of stock of a domestic corporation. See *Example 1* of paragraph (k) of this section for an illustration of the rules of this paragraph (c)(1)(i).
+
+(ii) An acquisition of an interest in a partnership. See *Example 2* of paragraph (k) of this section for an illustration of the rules of this paragraph (c)(1)(ii).
+
+(iii) An acquisition by a corporation (acquiring corporation) of properties held by a domestic corporation (or a partnership) in exchange for stock of a foreign corporation (foreign issuing corporation) that is part of the expanded affiliated group that includes the acquiring corporation after the acquisition shall be treated as an acquisition by the foreign issuing corporation. See *Example 3* of paragraph (k) of this section for an illustration of the rules of this paragraph (c)(1)(iii).
+
+(iv) An acquisition by a partnership (acquiring partnership) of properties held by a domestic corporation (or a partnership) in exchange for stock of a foreign corporation that is part of the expanded affiliated group that would include the acquiring partnership after the acquisition (if the partnership were a corporation) shall be treated as an acquisition by the foreign issuing corporation.
+
+(2) [Reserved] For further guidance, see § 1.7874-2T(c)(2).
+
+(3) *Downstream transactions.* An acquisition by a corporation of its stock from another corporation or a partnership (for example, as a result of a downstream merger) is an acquisition of the other corporation's or partnership's properties for purposes of section 7874(a)(2)(B)(i).
+
+(4) [Reserved] For further guidance, see § 1.7874-2T(c)(4).
+
+(d) *Acquisitions by multiple foreign corporations.* If, pursuant to a plan (or a series of related transactions), two or more foreign corporations complete, in the aggregate, a domestic entity acquisition, then each foreign corporation shall be treated as completing the acquisition for purposes of determining whether such foreign corporation is treated as a surrogate foreign corporation. See *Examples 5* and *6* of paragraph (k) of this section for illustrations of the rules of this paragraph (d).
+
+(e) *Acquisitions of multiple domestic entities.* If, pursuant to a plan (or a series of related transactions), a foreign corporation completes two or more domestic entity acquisitions involving domestic corporations and/or domestic partnerships (domestic entities), then, for purposes of section 7874(a)(2)(B)(ii), the acquisitions shall be treated as a single acquisition and the domestic entities shall be treated as a single domestic entity. If the transaction involves one or more domestic corporations and one or more domestic partnerships, the stock of the foreign corporation held by former domestic entity shareholders and former domestic entity partners by reason of holding stock or a partnership interest in the domestic entities shall be aggregated for purposes of determining whether the ownership condition of section 7874(a)(2)(B)(ii) is satisfied. See *Example 7* of paragraph (k) of this section for an illustration of the rules of this paragraph (e).
+
+(f) *Stock held by reason of holding stock in a domestic corporation or an interest in a domestic partnership* - (1) introductory text [Reserved] For further guidance, see § 1.7874-2T(f)(1) introductory text.
+
+(i) Stock of a foreign corporation received in exchange for, or with respect to, stock of a domestic corporation.
+
+(ii) Stock of a foreign corporation received in exchange for, or with respect to, an interest in a domestic partnership.
+
+(iii) To the extent that paragraph (f)(1)(ii) of this section does not apply, stock of a foreign corporation received by a domestic partnership in exchange for all or part of its properties. In such a case, each partner in the domestic partnership shall be treated as holding its proportionate share of the stock of the foreign corporation by reason of holding an interest in the domestic partnership.
+
+(iv) [Reserved] For further guidance, see § 1.7874-2T(f)(1)(iv).
+
+(2) *Transactions involving other property* - (i) *Stock of a domestic corporation.* If, pursuant to the same transaction, stock of a foreign corporation is received in exchange for, or with respect to, stock of a domestic corporation and other property, the stock of the foreign corporation that was received in exchange for, or with respect to, the stock of the domestic corporation shall be determined based on the relative value of the stock of the domestic corporation compared to the aggregate value of such stock and the other property.
+
+(ii) *Interest in a domestic partnership.* If, pursuant to the same transaction, stock of a foreign corporation is received in exchange for, or with respect to, an interest in a domestic partnership and other property, the stock of the foreign corporation that was received in exchange for, or with respect to, the interest in the domestic partnership shall be determined based on the relative value of the interest in the domestic partnership compared to the aggregate value of such interest and the other property.
+
+(3) See *Examples 8* through *10* of paragraph (k) of this section for illustrations of the rules of this paragraph (f).
+
+(g) *Publicly traded foreign partnerships* - (1) *Treatment as a foreign corporation.* For purposes of section 7874, a publicly traded foreign partnership described in paragraph (g)(2) of this section shall be treated as a foreign corporation that is organized in the foreign country in which, or under the law of which, the publicly traded foreign partnership was created or organized, and the partnership interests in the publicly traded foreign partnership shall be treated as stock of the foreign corporation. For purposes of determining whether the foreign corporation shall be treated as a surrogate foreign corporation, a deemed acquisition of assets and liabilities by reason of § 1.708-1(b)(4) shall not constitute an acquisition described in section 7874(a)(2)(B)(i).
+
+(2) *Publicly traded foreign partnership.* A publicly traded foreign partnership described in this paragraph (g)(2) is any foreign partnership that would, but for section 7704(c), be treated as a corporation under section 7704(a) -
+
+(i) At the time of the domestic entity acquisition; or
+
+(ii) At any time after the domestic entity acquisition pursuant to a plan that existed at the time of the domestic entity acquisition. For this purpose, a plan shall be deemed to exist at the time of the domestic entity acquisition if the foreign partnership would, but for section 7704(c), be treated as a corporation under section 7704(a) at any time during the two-year period following the completion of the domestic entity acquisition.
+
+(3) *Surrogate foreign corporation to which section 7874(b) applies.* If paragraph (g)(1) of this section applies to a publicly traded foreign partnership and the foreign corporation is a surrogate foreign corporation to which section 7874(b) applies, the publicly traded foreign partnership shall be treated as a domestic corporation for purposes of the Internal Revenue Code (Code). See paragraph (g)(6) of this section for the timing and treatment of the conversion of the publicly traded foreign partnership to a domestic corporation. See *Example 11* of paragraph (k) of this section for an illustration of the rules of this paragraph (g)(3).
+
+(4) *Surrogate foreign corporation to which section 7874(b) does not apply.* If paragraph (g)(1) of this section applies to a publicly traded foreign partnership and the foreign corporation is a surrogate foreign corporation to which section 7874(b) does not apply, the publicly traded foreign partnership shall continue to be treated as a foreign partnership for purposes of the Code, but section 7874(a)(1) shall apply to any expatriated entity (as defined in section 7874(a)(2)(A)). See *Example 13* of paragraph (k) of this section for an illustration of the rules of this paragraph (g)(4).
+
+(5) *Foreign corporation not treated as a surrogate foreign corporation.* If paragraph (g)(1) of this section applies to a publicly traded foreign partnership and the foreign corporation is not treated as a surrogate foreign corporation, the status of the publicly traded foreign partnership as a foreign partnership shall not be affected by section 7874. See *Example 12* of paragraph (k) of this section for an illustration of the rules of this paragraph (g)(5).
+
+(6) *Conversion to a domestic corporation.* Except for purposes of determining whether the publicly traded foreign partnership is a surrogate foreign corporation, if paragraph (g)(1) of this section applies to a publicly traded foreign partnership and the foreign corporation is a surrogate foreign corporation to which section 7874(b) applies, then at the later of the end of the day immediately preceding the first date properties are acquired as part of the domestic entity acquisition or immediately after the formation of the publicly traded foreign partnership, the publicly traded foreign partnership shall be treated as transferring all of its assets and liabilities to a newly formed domestic corporation in exchange solely for stock of the domestic corporation, and then distributing such stock to its partners in proportion to their partnership interests in liquidation of the partnership. The treatment of the transfer of assets and liabilities to the domestic corporation and the distribution of the stock of the domestic corporation to the partners in liquidation of the partnership shall be determined under all relevant provisions of the Code and general tax principles.
+
+(h) *Options* - (1) *Value.* Except to the extent otherwise provided in this paragraph (h), for purposes of section 7874, including for purposes of determining the membership of an expanded affiliated group under section 7874(c)(1), an option with respect to a corporation or partnership will be treated as stock in the corporation, or an interest in the partnership, as applicable, with a value equal to the holder's claim on the equity of the corporation or partnership. For this purpose, claim on the equity equals the value of the stock or partnership interest that may be acquired pursuant to the option, less the exercise price (but in no case is a claim on the equity less than zero). Also for this purpose, the equity of the corporation or partnership shall not include the amount of any property the holder of the option would be required to provide to the corporation or partnership under the terms of the option if such option were exercised. See *Example 14* and *Example 16* of paragraph (k) of this section for illustrations of the rules of this paragraph (h)(1).
+
+(2) *Voting power.* Except to the extent otherwise provided in this paragraph (h), for purposes of determining the voting power of a foreign corporation under section 7874, including for purposes of determining the membership of an expanded affiliated group under section 7874(c)(1), an option will be treated as exercised only if a principal purpose of the issuance or transfer of the option is to avoid the foreign corporation being treated as a surrogate foreign corporation.
+
+(3) *Timing.* For purposes of this paragraph (h), the value of the holder's claim on the equity is determined -
+
+(i) In the case of a domestic corporation or a domestic partnership, immediately before the domestic entity acquisition.
+
+(ii) In the case of a foreign corporation or foreign partnership, immediately after the domestic entity acquisition.
+
+(4) *Certain options disregarded.* The rules of paragraph (h)(1) of this section shall not apply to an option if -
+
+(i) A principal purpose of the issuance or acquisition of the option is to avoid the foreign corporation being treated as a surrogate foreign corporation, or
+
+(ii) At the time of the domestic entity acquisition, the probability of the option being exercised is remote.
+
+(5) *Options and interests similar to an option.* For purposes of this paragraph (h), an option includes an interest similar to an option. Examples of options (including interests similar to options) include, but are not limited to, a warrant, a convertible debt instrument, an instrument other than debt that is convertible into stock or a partnership interest, a put, stock or a partnership interest subject to risk of forfeiture, a contract to acquire or sell stock or a partnership interest, and an exchangeable share or exchangeable partnership interest.
+
+(6) *Multiple claims on equity.* Paragraph (h)(1) of this section shall not apply to an option to the extent treating the option as stock or a partnership interest would duplicate a shareholder's or partner's claim on the equity of the corporation or partnership by reason of holding stock in the corporation or an interest in the partnership. See *Example 15* of paragraph (k) of this section for an illustration of the rules of this paragraph (h)(6).
+
+(i) *Interests treated as stock of a foreign corporation* - (1) *Stock or other interests.* If the conditions of paragraphs (i)(1)(i) and (ii) of this section are satisfied, then, for purposes of section 7874, any interest (including stock or a partnership interest) that is not otherwise treated as stock of a foreign corporation (including under paragraph (h) of this section) shall be treated as stock of the foreign corporation. See *Examples 17* and *18* of paragraph (k) of this section for illustrations of the rules of this paragraph (i)(1).
+
+(i) The interest provides the holder distribution rights that are substantially similar in all material respects to the distribution rights provided by stock in the foreign corporation. For this purpose, distribution rights include rights to dividends (or partnership distributions), distributions in redemption of the interest (in whole or in part), distributions in liquidation, or other similar distributions that represent a return on, or of, the holder's investment in the interest.
+
+(ii) Treating the interest as stock of the foreign corporation has the effect of treating the foreign corporation as a surrogate foreign corporation under section 7874(a)(2)(B).
+
+(2) *Creditor claims* - (i) *Domestic corporation.* For purposes of section 7874, if, immediately prior to the first date properties are acquired as part of a domestic entity acquisition, a domestic corporation is in a title 11 or similar case (as defined in section 368(a)(3)), or the liabilities of the domestic corporation exceed the value of its assets, then each creditor of the domestic corporation shall be treated as a shareholder of the domestic corporation and any claim of the creditor against the domestic corporation shall be treated as stock of the domestic corporation. See *Example 19* of paragraph (k) of this section for an illustration of the rules of this paragraph (i)(2)(i).
+
+(ii) *Domestic or foreign partnership.* For purposes of section 7874, if, immediately prior to the first date properties are acquired as part of a domestic entity acquisition, a partnership (foreign or domestic) is in a title 11 or similar case (as defined in section 368(a)(3)), or the liabilities of the partnership exceed the value of its assets, then each creditor of the partnership shall be treated as a partner in the partnership and any claim of the creditor against the partnership shall be treated as an interest in the partnership.
+
+(iii) *Treatment of creditor as shareholder or partner.* A creditor that is treated as a shareholder or partner under paragraph (i)(2)(i) or (ii) of this section shall be treated as a shareholder or partner for all purposes of section 7874. See, for example, § 1.7874-1(c) and paragraph (f) of this section. See *Example 19* of paragraph (k) of this section for an illustration of the rules of this paragraph (i)(2)(iii).
+
+(j) *Application of section 7874(b)* - (1) *Conversion to a domestic corporation.* Except for purposes of determining whether a foreign corporation is treated as a surrogate foreign corporation, the conversion of a foreign corporation to a domestic corporation by reason of section 7874(b) shall constitute a reorganization described in section 368(a)(1)(F) that occurs at the later of the end of the day immediately preceding the first date properties are acquired as part of the domestic entity acquisition or immediately after the formation of the foreign corporation. See, for example, §§ 1.367(b)-2 and 1.367(b)-3 for certain consequences of the reorganization. The treatment of all other aspects of the conversion shall be determined under the relevant provisions of the Code and general tax principles. See *Example 20* of paragraph (k) of this section for an illustration of the rules of this paragraph (j)(1).
+
+(2) *Entity classification.* A foreign corporation that is treated as a domestic corporation under section 7874(b) is not an eligible entity as defined in § 301.7701-3(a), and therefore may not elect to be classified as other than an association (and thus cannot be treated as other than a corporation) for Federal tax purposes.
+
+(3) *Application of section 367.* If a foreign corporation is treated as a domestic corporation under section 7874(b), section 367 shall not apply to any transfer of property by a United States person to such foreign corporation as part of the domestic entity acquisition. However, section 367 shall apply to the conversion of the foreign corporation to a domestic corporation. See paragraph (j)(1) of this section. See *Example 20* of paragraph (k) of this section for an illustration of the rules of this paragraph (j)(3).
+
+(k) *Examples* - (1) *Assumed facts.* Except as otherwise stated, assume the following for purposes of the examples included in paragraph (k)(2) of this section.
+
+(i) DC1 and DC2 are domestic corporations.
+
+(ii) FA, FP, F1, F2, F3, and F4 are foreign corporations organized in Country A.
+
+(iii) DPS is a domestic partnership that conducts a trade or business.
+
+(iv) FPS is a foreign partnership that is not publicly traded.
+
+(v) Under the terms of the partnership agreements of DPS and FPS, each partner's share in the partnership's items of income, gain, deduction, and loss is determined in accordance with the partner's partnership interest percentage in the partnership, as stated in the examples.
+
+(vi) A, B, and C are unrelated individuals.
+
+(vii) Each entity has a single class of equity outstanding and is unrelated to all other entities.
+
+(viii) All transactions are completed pursuant to a plan.
+
+(ix) All acquisitions of properties are completed after March 4, 2003.
+
+(x) Section 7874(c)(4) does not apply, and no option is issued or acquired with a principal purpose to avoid a foreign corporation being treated as a surrogate foreign corporation.
+
+(2) *Examples.* The following examples illustrate the rules of this section.
+
+Example 1. Acquisition of stock of a domestic corporation.(i) *Facts.* FA acquires 25% of the outstanding stock of DC1.
+
+(ii) *Analysis.* Under paragraph (c)(1)(i) of this section, for purposes of section 7874(a)(2)(B)(i), FA is treated as acquiring 25% of the properties held by DC1 on the date of the stock acquisition.
+
+Example 2. Acquisition of a partnership interest.(i) *Facts.* DPS wholly owns DC1. FA acquires a 40% interest in DPS.
+
+(ii) *Analysis.* Under paragraph (c)(1)(ii) of this section, for purposes of section 7874(a)(2)(B)(i), FA is treated as acquiring 40 percent of the DC1 stock held by DPS on the date of the acquisition of the partnership interest. Further, under paragraph (c)(1)(i) of this section, for purposes of section 7874(a)(2)(B)(i), FA is treated as acquiring 40% of the properties held by DC1 on the date of the acquisition of the partnership interest.
+
+Example 3. Acquisition of stock by a subsidiary.(i) *Facts.* FP wholly owns FA. FA acquires all the outstanding stock of DC1 in exchange solely for FP stock. FP and FA are members of the same expanded affiliated group after the acquisition.
+
+(ii) *Analysis.* Under paragraph (c)(1)(i) of this section, for purposes of section 7874(a)(2)(B)(i), FA is treated as acquiring 100% of the properties held by DC1 on the date of the stock acquisition. Further, under paragraph (c)(1)(iii) of this section, for purposes of section 7874(a)(2)(B)(i), FP is also treated as acquiring 100% of the properties held by DC1 on the date of the stock acquisition. The result would be the same if instead FA had directly acquired all the properties held by DC1 in exchange for FP stock.
+
+Example 4. Acquisition of stock of a foreign corporation.(i) *Facts.* FP wholly owns DC1. FA acquires all of the outstanding stock of FP.
+
+(ii) *Analysis.* Under paragraph (c)(2) of this section, for purposes of section 7874(a)(2)(B)(i), FA is not treated as acquiring any properties held by DC1 on the date of the acquisition of the FP stock.
+
+Example 5. Acquisition of stock by multiple foreign corporations.(i) *Facts.* Pursuant to the same plan, the shareholders of DC1 transfer all of their DC1 stock equally to F1, F2, F3, and F4 in exchange solely for stock of each foreign corporation.
+
+(ii) *Analysis.* Under paragraph (c)(1)(i) of this section, in the aggregate F1, F2, F3, and F4 are treated as acquiring substantially all of the properties held by DC1. Because the acquisition was pursuant to the same plan, under paragraph (d) of this section, F1, F2, F3, and F4 are each treated as acquiring substantially all of the properties held by DC1 for purposes of determining whether each foreign corporation shall be treated as a surrogate foreign corporation.
+
+Example 6. Acquisition of assets by multiple foreign corporations.(i) *Facts.* Individual A wholly owns DC1. DC1 forms F1, F2, F3, and F4, and transfers an equal portion of its properties to each corporation in exchange solely for stock of the corporation. Pursuant to the same plan DC1 then distributes the stock of each foreign corporation to individual A.
+
+(ii) *Analysis.* Because pursuant to the same plan F1, F2, F3, and F4 acquired, in the aggregate, substantially all of the properties held by DC1, under paragraph (d) of this section, F1, F2, F3, and F4 are each treated as acquiring substantially all of the properties held by DC1 for purposes of determining whether each foreign corporation shall be treated as a surrogate foreign corporation.
+
+Example 7. Acquisition of multiple domestic corporations.(i) *Facts.* Individual A wholly owns DC1, and individual B wholly owns DC2. Pursuant to the same plan, individuals A and B transfer all of their DC1 stock and DC2 stock to FA, a newly formed corporation, in exchange solely for all 100 shares of FA stock outstanding.
+
+(ii) *Analysis.* Under paragraph (c)(1)(i) of this section, for purposes of section 7874(a)(2)(B)(i), FA is treated as acquiring all of the properties held by DC1 and DC2 on the date of the stock acquisition. Under paragraph (e) of this section, because pursuant to the same plan FA acquired substantially all of the properties held by DC1 and DC2, for purposes of determining whether FA shall be treated as a surrogate foreign corporation, DC1 and DC2 shall be treated as a single domestic corporation, of which individuals A and B are former domestic entity shareholders. Thus, individuals A and B are treated as holding all 100 shares of the FA stock by reason of holding stock of such domestic corporation, and the ownership fraction under section 7874(a)(2)(B)(ii) is 100/100, or 100%.
+
+Example 8. Exchange of stock and other property.(i) *Facts.* Individual A wholly owns DC1 and F1. DC1 has a $40x value and F1 has a $60x value. Individual A transfers all of the DC1 stock and F1 stock to FA, a newly formed corporation, in exchange solely for FA stock.
+
+(ii) *Analysis.* Under paragraphs (f)(1)(i) and (f)(2)(i) of this section, for purposes of section 7874(a)(2)(B)(ii), individual A is considered to hold 40% of the FA stock by reason of holding stock in DC1 ($100x FA stock multiplied by $40x/$100x, the relative value of the DC1 stock to all the property transferred by A to FA).
+
+Example 9. Stock received as a distribution.(i) *Facts.* Pursuant to a divisive reorganization described in section 368(a)(1)(D), DC1 contributes substantially all of its properties to FA, a newly formed corporation, in exchange solely for FA stock and then distributes the FA stock to its shareholders in a transaction qualifying under section 355.
+
+(ii) *Analysis.* Under paragraph (f)(1)(i) of this section, for purposes of section 7874(a)(2)(B)(ii), the FA stock received by the DC1 shareholders as a distribution with respect to the DC1 stock is considered held by reason of holding stock in DC1. The result would be the same if the transaction did not qualify as a reorganization (for example, if the distribution were subject to sections 301 and 311(b)).
+
+Example 10. Incorporation of a partnership trade or business.(i) *Facts.* Individuals A and B equally own DPS. DPS transfers substantially all of its properties constituting a trade or business to FA, a newly formed corporation, solely in exchange for FA stock. DPS retains the FA stock after the transaction.
+
+(ii) *Analysis.* Under paragraph (f)(1)(iii) of this section, for purposes of section 7874(a)(2)(B)(ii), individuals A and B are treated as holding a proportionate amount (that is, an equal amount) of the FA stock held by DPS by reason of holding an interest in DPS.
+
+Example 11. Publicly traded foreign partnership treated as domestic corporation.(i) *Facts.* Pursuant to a plan, DC1 and individual B organize a limited liability company (HPS) under the law of Country A. DC1 owns 90% of the membership interests in HPS, and B owns 10% of the membership interests in HPS. HPS is a foreign eligible entity under § 301.7701-2, and DC1 and B make an election under § 301.7701-3 to treat HPS as a partnership for Federal tax purposes as of the date of the formation of HPS. HPS forms DC2. One day after the formation of HPS, DC2 merges with and into DC1. Pursuant to the merger agreement, the DC1 shareholders exchange their DC1 stock solely for membership interests in HPS. After the merger HPS wholly owns DC1, and the former domestic entity shareholders of DC1 own a greater than 80% interest in HPS by reason of holding stock of DC1. Public trading of the HPS ownership interests begins the day after the date on which the merger is completed. HPS is not treated as a corporation under section 7704(a) by reason of section 7704(c). If HPS were a corporation, the condition of section 7874(a)(2)(B)(iii) would be satisfied.
+
+(ii) *Analysis.* HPS is a publicly traded foreign partnership that is described in paragraph (g)(2) of this section. Therefore, under paragraph (g)(1) of this section, for purposes of section 7874, HPS is treated as a foreign corporation organized under the law of Country A and the membership interests in HPS are treated as stock of the foreign corporation. The foreign corporation is treated as a surrogate foreign corporation under section 7874(a)(2)(B) because, pursuant to the merger, HPS acquired substantially all of the properties held by DC1, the former domestic entity shareholders of DC1 hold at least 60% of the stock of the foreign corporation by reason of holding stock of DC1, and the expanded affiliated group that includes the foreign corporation does not have substantial business activities in Country A when compared to the total business activities of the expanded affiliated group. Further, because the former domestic entity shareholders of DC1 hold at least 80% of the stock of the foreign corporation by reason of holding stock of DC1, section 7874(b) applies to the surrogate foreign corporation, and therefore HPS is treated as a domestic corporation for purposes of the Code. Under paragraph (g)(6) of this section, except for purposes of determining whether HPS is a surrogate foreign corporation, at the end of the day immediately preceding the date of the merger of DC2 with and into DC1, HPS is treated as transferring all of its assets and liabilities to a new domestic corporation in exchange solely for stock of the domestic corporation. HPS is then treated as proportionately distributing such stock to its membership interest holders in liquidation of the partnership. In addition, as a result of the merger of DC2 with and into DC1, the former domestic entity shareholders of DC1 shall be treated as receiving stock of a domestic corporation in exchange for their DC1 stock.
+
+Example 12. Publicly traded foreign partnership not treated as a surrogate foreign corporation.(i) *Facts.* The facts are the same as in *Example 11* of this section, except that, after the domestic entity acquisition, the expanded affiliated group that includes HPS (treated as a foreign corporation for this purpose) has substantial business activities in Country A when compared to the total business activities of the expanded affiliated group.
+
+(ii) *Analysis.* Under paragraph (g)(1) of this section, for purposes of section 7874, HPS is treated as a foreign corporation and the membership interests in HPS are treated as stock of the foreign corporation. However, the foreign corporation is not treated as a surrogate foreign corporation under section 7874(a)(2)(B) because, after the domestic entity acquisition, the expanded affiliated group that includes HPS has substantial business activities in Country A when compared to the total business activities of the expanded affiliated group. Therefore, under paragraph (g)(5) of this section, section 7874 does not apply and the status of HPS as a foreign partnership is not affected. In addition, DC1 is not treated as an expatriated entity under section 7874(a) by reason of the acquisition.
+
+Example 13. Publicly traded foreign partnership treated as a surrogate foreign corporation but not as a domestic corporation.(i) *Facts.* FPS is a publicly traded foreign partnership organized in Country A that, by reason of section 7704(c), is not treated as a corporation under section 7704(a). FPS acquires all the stock of DC1 in exchange for partnership interests in FPS. After the acquisition, the former domestic entity shareholders of DC1 hold a 75%-interest in FPS by reason of holding DC1 stock. After the acquisition, the expanded affiliated group that includes FPS (treated as a foreign corporation for this purpose) does not have substantial business activities in Country A when compared to the total business activities of the expanded affiliated group.
+
+(ii) *Analysis.* Under paragraph (g)(1) of this section, for purposes of section 7874, FPS is treated as a foreign corporation and the partnership interests in FPS are treated as stock of the foreign corporation. FPS is treated as a surrogate foreign corporation because the conditions of section 7874(a)(2)(B) are satisfied. However, because the former domestic entity shareholders of DC1 hold less than an 80%-interest in FPS by reason of holding DC1 stock, section 7874(b) does not apply to FPS. Therefore, under paragraph (g)(4) of this section FPS continues to be treated as a foreign partnership for purposes of the Code, but section 7874(a)(1) applies to DC1 and any other expatriated entity.
+
+Example 14. Warrant to acquire stock from the foreign corporation.(i) *Facts.* Individual A wholly owns DC1. DC1 has a $200x value. Individual B wholly owns FA. The value of B's FA stock is $400x. Individual C holds a warrant to acquire FA stock from FA at an exercise price of $20x. Individual A transfers all of its DC1 stock to FA in exchange solely for FA stock with a value of $200x. At the time of the transfer, the FA stock that individual C can acquire pursuant to the warrant has a $70x value.
+
+(ii) *Analysis.* Under paragraphs (h)(1) of this section, for purposes of section 7874, individual C is treated as owning FA stock with a $50x value. This amount represents individual C's claim on the equity of FA after the domestic entity acquisition ($70x value of FA stock that may be acquired pursuant to the warrant, less the $20x exercise price), without taking into account the $20x individual C would be required to provide to FA upon the exercise of the warrant. Thus, for purposes of section 7874, the value of the stock of FA immediately after the transaction is $650x ($600x of FA stock, plus C's $50x claim on the equity of FA). C's warrant is not taken into account for purposes of determining the voting power of FA under section 7874.
+
+Example 15. Option to acquire stock from another shareholder.(i) *Facts.* The facts are the same as in *Example 14* except that, instead of holding a warrant issued by FA, individual C holds an option to acquire FA stock from individual B for an exercise price of $20x. At the time of the acquisition, the FA stock that individual C can acquire under the option has a $70x value.
+
+(ii) *Analysis.* Under paragraph (h)(6) of this section, for purposes of section 7874, individual C is not treated as owning FA stock by reason of holding the option because treating the option as FA stock would have the effect of partially duplicating individual B's claim on the equity of FA at the time of the domestic entity acquisition by reason of holding FA stock. However, all of the FA stock owned by individual B will be taken into account for purposes of section 7874. C's warrant is not taken into account for purposes of determining voting power of FA under section 7874.
+
+Example 16. Warrant to acquire stock from the domestic corporation.(i) *Facts.* A DC1 employee holds a warrant to acquire DC1 stock from DC1. In connection with the domestic entity acquisition by FA of substantially all of the properties held by DC1, the DC1 employee receives a warrant from FA to acquire 15 shares of FA stock in exchange for the warrant to acquire DC1 stock.
+
+(ii) *Analysis.* Under paragraphs (h)(1) of this section, for purposes of section 7874, the warrant held by the DC1 employee is treated as DC1 stock with a value equal to the employee's claim on the equity of DC1 immediately before the domestic entity acquisition. Further, for purposes of section 7874, the DC1 employee is treated as holding FA stock with a value equal to the employee's claim on the equity of FA after the domestic entity acquisition by reason of holding the warrant to acquire DC1 stock (treated as DC1 stock for this purpose). The option held by the DC1 employee is not taken into account for purposes of determining the voting power of FA under section 7874.
+
+Example 17. Stock in a subsidiary treated as stock of a foreign parent corporation.(i) *Facts.* (A) Individuals A and B equally own DC1. FA, a newly formed corporation, issues stock in a public offering for cash. FA contributes part of the cash from the public offering to DC2, a newly formed corporation, in exchange for all the stock of DC2. DC2 merges with and into DC1 with DC1 surviving. Pursuant to the merger agreement, individuals A and B exchange their DC1 stock for cash and shares of class B stock of DC1. Following the merger FA owns all the class A stock of DC1. FA does not hold significant assets other than the class A stock of DC1. Individuals A and B own all the class B stock of DC1. DC1 has no other class of stock outstanding.
+
+(B) The class B stock entitles individuals A and B to dividend distributions approximately equal to any dividend distributions made by FA with respect to its publicly traded stock. In certain circumstances, the class B stock also permits individuals A and B to require DC1 to redeem the stock at fair market value. The class B stock does not provide individuals A and B voting rights with respect to FA.
+
+(ii) *Analysis.* The dividend rights provided by the class B stock are substantially similar in all material respects to the dividend rights provided by the FA stock. In addition, because FA does not hold significant assets other than the class A stock, the value of the class B stock held by individuals A and B is approximately equal to the value of a corresponding amount of publicly traded FA stock. The distribution rights on liquidation (or redemption) provided by the class B stock, therefore, are substantially similar in all material respects to the distribution rights on liquidation (or redemption) provided by the FA stock. As a result, the distribution rights provided by the class B stock are substantially similar in all material respects to the distribution rights provided by the publicly traded FA stock. Thus, if treating the class B stock as FA stock would have the effect of treating FA as a surrogate foreign corporation, under paragraph (i)(1) of this section the class B stock will be treated as FA stock for purposes of section 7874.
+
+Example 18. Partnership interest treated as stock of foreign acquiring corporation.(i) *Facts.* (A) Individuals A and B equally own DC1. FA, a newly formed corporation, issues stock in a public offering for cash. Individuals A and B and FA organize FPS. FA transfers part of the cash from the public offering to FPS in exchange for a class A partnership interest. FA does not hold any significant assets other than the class A partnership interest. Individuals A and B transfer their DC1 stock to FPS in exchange for class B partnership interests.
+
+(B) The class B partnership interests entitle individuals A and B to cash distributions from FPS approximately equal to any dividend distributions made by FA with respect to its publicly traded stock. In certain circumstances, the class B partnership interests also permit individuals A and B to require FPS to redeem the interests in exchange for cash equal to the value of an amount of FA stock as determined on the redemption date. The class B partnership interests do not provide individuals A or B voting rights with respect to FA.
+
+(ii) *Analysis.* The non-liquidating distribution rights provided by the class B partnership interests are substantially similar in all material respects to the dividend rights provided by the FA stock. Because FA does not hold any significant assets other than the class A partnership interest, the value of the class B partnership interests held by individuals A and B is approximately equal to a corresponding amount of FA stock. The distribution rights on liquidation (or redemption) provided by the class B partnership interests, therefore, are substantially similar in all material respects to distribution rights on liquidation (or redemption) provided by the FA stock. Thus, the distribution rights provided by the class B partnership interests are substantially similar in all material respects to the distribution rights provided by the publicly traded FA stock. As a result, if treating the class B partnership interests as FA stock would have the effect of treating FA as a surrogate foreign corporation, under paragraph (i)(1) of this section the class B partnership interests will be treated as FA stock for purposes of section 7874.
+
+Example 19. Creditor treated as a shareholder.(i) *Facts.* Individuals A and B equally own DC1. The liabilities of DC1 exceed the value of its assets. Pursuant to a plan, FA, a newly formed corporation, acquires substantially all of the properties held by DC1 in exchange solely for FA stock. Pursuant to the plan, the DC1 stock held by individuals A and B is cancelled, and the creditors of DC1 receive all the FA stock in exchange for their claims against DC1.
+
+(ii) *Analysis.* Because immediately before the first date on which properties are acquired as part of the domestic entity acquisition the liabilities of DC1 exceed the value of its assets, under paragraph (i)(2)(i) of this section, for purposes of section 7874, the creditors of DC1 are treated as shareholders of DC1 and the creditors' claims against DC1 are treated as DC1 stock. Therefore, for purposes of section 7874(a)(2)(B)(ii), the FA stock received by the creditors of DC1 by reason of their claims against DC1 is considered held by former domestic entity shareholders of DC1 by reason of holding DC1 stock.
+
+Example 20. Conversion to a domestic corporation and application of section 367.(i) *Facts.* Individuals A and B are United States persons and equally own DC1. Pursuant to a plan, individuals A and B transfer their DC1 stock to FA in exchange solely for 80% of the outstanding FA stock. After the acquisition, the expanded affiliated group that includes FA does not have substantial business activities in Country A when compared to the total business activities of the expanded affiliated group.
+
+(ii) *Analysis.* Under paragraph (c)(1)(i) of this section, for purposes of section 7874(a)(2)(B)(i), FA is treated as acquiring all of the properties held by DC1 on the date of the stock acquisition. After the acquisition, the former domestic entity shareholders of DC1 own 80% of the stock of FA by reason of holding DC1 stock. Therefore, FA is a surrogate foreign corporation that is treated as a domestic corporation under section 7874(b). Under paragraph (j)(1) of this section, except for purposes of determining whether FA is treated as a surrogate foreign corporation, the conversion of FA to a domestic corporation constitutes a reorganization described in section 368(a)(1)(F) that occurs at the end of the day immediately preceding the date of the stock acquisition. Section 367 applies to the conversion of FA to a domestic corporation. See, for example, §§ 1.367(b)-2 and 1.367(b)-3 for the consequences of the conversion. Under paragraph (j)(3) of this section, section 367 does not apply to the transfers of DC1 stock by individuals A and B to FA.
+
+*Example 21* [Reserved] For further guidance, see § 1.7874-2T(k)(2), *Example 21.*
+
+(l) *Applicability date* - (1)*In general.* This section applies to domestic entity acquisitions completed on or after June 7, 2012. For domestic entity acquisitions completed prior to June 7, 2012, see § 1.7874-2T(o), as contained in 26 CFR part 1, revised as of April 1, 2012.
+
+(2) [Reserved] For further guidance, see § 1.7874-2T(l)(2).
+
+[T.D. 9591, 77 FR 34791, June 12, 2012, as amended by T.D. 9761, 81 FR 20894, Apr. 8, 2016]

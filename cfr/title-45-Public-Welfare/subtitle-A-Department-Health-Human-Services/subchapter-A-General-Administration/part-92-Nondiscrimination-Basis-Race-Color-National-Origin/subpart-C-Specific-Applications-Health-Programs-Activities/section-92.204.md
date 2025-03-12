@@ -1,0 +1,5 @@
+##### § 92.204 Accessibility of electronic and information technology. #####
+
+(a) Covered entities shall ensure that their health programs or activities provided through electronic and information technology are accessible to individuals with disabilities, unless doing so would result in undue financial and administrative burdens or a fundamental alteration in the nature of the health programs or activities. When undue financial and administrative burdens or a fundamental alteration exist, the covered entity shall provide information in a format other than an electronic format that would not result in such undue financial and administrative burdens or a fundamental alteration but would ensure, to the maximum extent possible, that individuals with disabilities receive the benefits or services of the health program or activity that are provided through electronic and information technology.
+
+(b) Recipients and State-based Marketplaces shall ensure that their health programs and activities provided through Web sites comply with the requirements of Title II of the ADA.

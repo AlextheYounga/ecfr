@@ -1,0 +1,3 @@
+##### § 17.1 Definition. #####
+
+Adverse information released by an agency means any statement or release by the Department or any principal operating component made to the news media inviting public attention to an action or a finding by the Department or principal operating component of the Department which may adversely affect persons or organizations identified therein. This part does not apply to nor is it affected by any disclosure of records to the public in response to requests made under the Freedom of Information Act (Pub. L. 90-23). The criteria for such disclosures are set forth in the Department's Public Information Regulation (45 CFR part 5).

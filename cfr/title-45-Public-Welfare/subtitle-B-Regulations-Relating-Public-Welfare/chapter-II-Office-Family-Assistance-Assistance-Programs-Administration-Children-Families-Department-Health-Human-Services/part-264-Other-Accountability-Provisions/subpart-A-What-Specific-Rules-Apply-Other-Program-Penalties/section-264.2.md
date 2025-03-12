@@ -1,0 +1,3 @@
+##### § 264.2 What happens if a State does not comply with the five-year limit? #####
+
+If we determine that a State has not complied with the requirements of § 264.1, we will reduce the SFAG payable to the State for the immediately succeeding fiscal year by five percent of the adjusted SFAG unless the State demonstrates to our satisfaction that it had reasonable cause, or it corrects or discontinues the violation under an approved corrective compliance plan.

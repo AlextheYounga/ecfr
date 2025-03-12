@@ -1,0 +1,7 @@
+##### § 596.501 Effect of license or authorization. #####
+
+(a) No license or other authorization contained in this part, or otherwise issued by or under the direction of the Director of the Office of Foreign Assets Control, authorizes or validates any transaction effected prior to the issuance of the license, unless specifically provided in such license or other authorization.
+
+(b) No regulation, ruling, instruction, or license authorizes a transaction prohibited under this part unless the regulation, ruling, instruction, or license is issued by the Office of Foreign Assets Control and specifically refers to a part in 31 CFR chapter V. No regulation, ruling, instruction, or license referring to this part authorizes any transactions prohibited by any provision of this chapter unless the regulation, ruling, instruction or license specifically refers to such provision.
+
+(c) Any regulation, ruling, instruction or license authorizing any transaction otherwise prohibited under this part has the effect of removing a prohibition or prohibitions contained in this part from the transaction, but only to the extent specifically stated by its terms. Unless the regulation, ruling, instruction or license otherwise specifies, such an authorization does not create any right, duty, obligation, claim, or interest in, or with respect to, any property which would not otherwise exist under ordinary principles of law.

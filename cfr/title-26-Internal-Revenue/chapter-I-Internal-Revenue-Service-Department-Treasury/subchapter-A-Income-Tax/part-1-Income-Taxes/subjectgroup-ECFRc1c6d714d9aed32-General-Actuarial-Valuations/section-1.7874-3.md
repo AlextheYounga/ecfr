@@ -1,0 +1,67 @@
+##### § 1.7874-3 Substantial business activities. #####
+
+(a) *Scope.* This section provides rules regarding when an expanded affiliated group will be considered to have substantial business activities in the relevant foreign country when compared to the total business activities of the expanded affiliated group for purposes of section 7874(a)(2)(B)(iii). Paragraph (b) of this section describes the general rule for determining whether the expanded affiliated group has substantial business activities in the relevant foreign country when compared to its total business activities. Paragraph (c) of this section describes certain items that are not taken into account as located or derived in the relevant foreign country. Paragraph (d) of this section provides definitions and certain rules of application. Paragraph (e) of this section provides rules regarding the treatment of partnerships for purposes of this section. Paragraph (f) of this section provides the effective/applicability dates.
+
+(b) *General rule.* The expanded affiliated group will be considered to have substantial business activities in the relevant foreign country after an acquisition described in section 7874(a)(2)(B)(i) when compared to the total business activities of the expanded affiliated group only if, subject to paragraph (c) of this section, each of the requirements of this paragraph (b) are satisfied.
+
+(1) *Group employees* - (i) *Number of employees.* The number of group employees based in the relevant foreign country is at least 25 percent of the total number of group employees on the applicable date.
+
+(ii) *Employee compensation.* The employee compensation incurred with respect to group employees based in the relevant foreign country is at least 25 percent of the total employee compensation incurred with respect to all group employees during the testing period.
+
+(2) *Group assets.* The value of the group assets located in the relevant foreign country is at least 25 percent of the total value of all group assets on the applicable date.
+
+(3) *Group income.* The group income derived in the relevant foreign country is at least 25 percent of the total group income during the testing period.
+
+(4) [Reserved] For further guidance, see § 1.7874-3T(b)(4).
+
+(c) *Items not to be considered* - (1) *General rule.* Except to the extent provided in paragraph (c)(2) of this section, the following items are not taken into account in the numerator, but are taken into account in the denominator, for each of the tests described in paragraphs (b)(1) through (3) of this section:
+
+(i) Any group assets, group employees, or group income attributable to business activities that are associated with properties or liabilities the transfer of which is disregarded under section 7874(c)(4).
+
+(ii) Any group assets or group employees located in, or group income derived in, the relevant foreign country as part of a plan with a principal purpose of avoiding the purposes of section 7874.
+
+(iii) Any group assets or group employees located in, or group income derived in, the relevant foreign country if such group assets or group employees, or the business activities to which such group income is attributable, are subsequently transferred to another country in connection with a plan that existed at the time of the acquisition described in section 7874(a)(2)(B)(i).
+
+(2) *Transfers of properties to the expanded affiliated group.* Any group assets, group employees, or group income attributable to business activities that are associated with property that is transferred to the expanded affiliated group in a transfer that is disregarded under section 7874(c)(4) are not taken into account in the numerator or the denominator for each of the tests described in paragraphs (b)(1) through (3) of this section.
+
+(d) *Definitions and application of rules.* The following definitions and rules apply for purposes of this section:
+
+(1) The term *acquisition date* means the date on which the acquisition described in section 7874(a)(2)(B)(i) is completed.
+
+(2) The term *applicable date* means either of the following dates, applied consistently for all purposes of this section:
+
+(i) The acquisition date; or
+
+(ii) The last day of the month immediately preceding the month that includes the acquisition date.
+
+(3) The term *employee compensation* means all amounts incurred by members of the expanded affiliated group that directly relate to services performed by group employees (including, for example, wages, salaries, deferred compensation, employee benefits, and employer payroll taxes). Employee compensation with respect to a particular group employee is treated as incurred when it would be deductible by the employer as compensation, and the amount of employee compensation equals the amount that would be deductible by the employer as compensation. Both the timing and the amount of the deduction for employee compensation must be determined for all group employees under U.S. federal income tax principles or for all group employees based on the relevant tax laws. Employee compensation is determined in U.S. dollars, translated, if necessary, using the weighted average exchange rate (as defined in § 1.989(b)-1) for the testing period.
+
+(4) The term *expanded affiliated group* means, with respect to an acquisition described in section 7874(a)(2)(B)(i), the affiliated group defined in section 7874(c)(1) determined as of the close of the acquisition date, but taking into account all transactions related to the acquisition. Thus, for example, the expanded affiliated group does not include a corporation wholly owned by a member of the expanded affiliated group during a portion of the testing period if, before the end of the testing period, the member sells all of its stock in the corporation to a person that is not a member of the expanded affiliated group. The term *member of the expanded affiliated group* means an entity included in the expanded affiliated group. A reference to a member of the expanded affiliated group includes a predecessor with respect to such member.
+
+(5) The term *group assets* means tangible personal property or real property used or held for use in the active conduct of a trade or business by members of the expanded affiliated group, provided such property is either owned or, in the circumstances described below, rented by members of the expanded affiliated group at the close of the acquisition date. A group asset is considered to be located in the relevant foreign country only if the asset was physically present in such country at the close of the acquisition date and the asset was physically present in such country for more time than in any other country during the testing period. Notwithstanding the foregoing, a group asset that is mobile in nature and is used in a transportation activity, such as a vessel, an aircraft, or a motor vehicle, is considered to be located in the relevant foreign country if the asset was physically present in such country for more time than in any other country during the testing period, regardless of whether the asset was physically present in such country at the close of the acquisition date. Group assets must be valued on a gross basis (that is, not reduced by liabilities) by consistently using for all group assets of the expanded affiliated group either the adjusted tax basis or fair market value determined in U.S. dollars, translated, if necessary, at the spot rate determined under the principles of § 1.988-1(d)(1), (2), and (4). Tangible personal property or real property that is rented by members of the expanded affiliated group from a person other than a member of the expanded affiliated group is also treated as a group asset, provided such property is used in the active conduct of a trade or business and is being rented by members of the expanded affiliated group at the close of the acquisition date. For purposes of this section, a group asset that is rented is valued at eight times the net annual rent paid or accrued with respect to the property by members of the expanded affiliated group.
+
+(6) The term *group employees* means all individuals who are employees of members of the expanded affiliated group. Whether individuals are employees must be determined for all members of the expanded affiliated group under U.S. federal tax principles or for all members of the expanded affiliated group based on the relevant tax laws. A group employee is considered to be based in the relevant foreign country only if the employee spent more time providing services in such country than in any other single country during the testing period.
+
+(7) The term *group income* means gross income of members of the expanded affiliated group from transactions occurring in the ordinary course of business with customers that are not related persons. Group income must be determined consistently for all members of the expanded affiliated group either under U.S. federal income tax principles or as reflected in the relevant financial statements. Group income is translated into U.S. dollars, if necessary, using the weighted average exchange rate (as defined in § 1.989(b)-1) for the testing period. Group income is considered derived in the relevant foreign country only if it is derived from a transaction with a customer located in such country.
+
+(8) The term *net annual rent* means the annual rent paid or accrued with respect to property, less any payments received or accrued from subleasing such property (or other similar arrangement).
+
+(9) The term *related person* has the meaning specified in section 954(d)(3), except that section 954(d)(3) is applied by substituting “one or more members of the expanded affiliated group” for “a controlled foreign corporation” and “the controlled foreign corporation” each place they appear.
+
+(10) [Reserved] For further guidance, see § 1.7874-3T(d)(10).
+
+(11) The term *relevant foreign country* means the foreign country in which, or under the law of which, the foreign corporation described in section 7874(a)(2)(B) was created or organized.
+
+(12) The term *relevant tax law* means, for purposes of determining whether a particular individual who performs services for a member of the expanded affiliated group is an employee for purposes of paragraph (d)(6) of this section and the timing and amount of employee compensation for a particular employee of a member of the expanded affiliated group for purposes of paragraph (d)(3) of this section, the tax law to which the member is subject. Notwithstanding the foregoing, if the tax law to which a member is subject does not distinguish between whether an individual is an employee, or, for example, an independent contractor, then for this purpose the relevant tax law is considered to be U.S. federal tax law.
+
+(13) The term *testing period* means the one-year period ending on the applicable date.
+
+(e) *Treatment of partnerships* - (1) *Stock held by a partnership.* In determining the members of the expanded affiliated group for purposes of this section, each partner in a partnership, as determined without regard to the application of paragraph (e)(2) of this section, shall be treated as holding its proportionate share of the stock held by the partnership, as determined under the rules and principles of sections 701 through 777.
+
+(2) *Business activities of a partnership.* For purposes of this section, if one or more members of the expanded affiliated group, as determined after the application of paragraph (e)(1) of this section, own, in the aggregate, more than 50 percent (by value) of the interests in a partnership, the partnership will be treated as a corporation that is a member of the expanded affiliated group. Thus, all items of such a partnership are taken into account for purposes of this section. No items of a partnership are taken into account for purposes of this section unless the partnership is treated as a member of the expanded affiliated group pursuant to this paragraph (e)(2).
+
+(f) *Applicability dates* - (1) *General rule.* Except as otherwise provided in paragraph (f)(2) of this section, this section applies to acquisitions that are completed on or after June 3, 2015. For acquisitions completed before June 3, 2015, see § 1.7874-3T as contained in 26 CFR part 1 revised as of April 1, 2016.
+
+(2) [Reserved] For further guidance, see § 1.7874-3T(f)(2).
+
+[T.D. 9720, 80 FR 31841, June 4, 2015, as amended by T.D. 9761, 81 FR 20896, Apr. 8, 2016]

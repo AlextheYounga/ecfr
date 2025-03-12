@@ -1,0 +1,3 @@
+##### § 355.11 What should I do if the endorsement on my check is forged or unauthorized? #####
+
+If we verify the existence or a forged or unauthorized endorsement on a paid fiscal agency check, the payor Reserve Bank will issue a replacement check to the person entitled. The payee or endorsee must execute an affidavit that there has been a forged or unauthorized endorsement. We may also require an indemnification agreement.

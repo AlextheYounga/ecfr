@@ -1,0 +1,3 @@
+##### § 31.3121(a)(3)-1 Retirement payments. #####
+
+The term “wages” does not include any payment made by an employer to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of the employee's retirement. Thus, payments made to an employee on account of his retirement are excluded from wages under this exception even though not made under a plan or system.

@@ -1,0 +1,7 @@
+##### § 155.280 Oversight and monitoring of privacy and security requirements. #####
+
+(a) *General.* HHS will oversee and monitor the Federally-facilitated Exchanges, State-based Exchanges on the Federal platform, and non-Exchange entities required to comply with the privacy and security standards established and implemented by a Federally-facilitated Exchange pursuant to § 155.260 for compliance with those standards. HHS will oversee and monitor State Exchanges for compliance with the standards State Exchanges establish and implement pursuant to § 155.260. State Exchanges will oversee and monitor non-Exchange entities required to comply with the privacy and security standards established and implemented by a State Exchange in accordance to § 155.260.
+
+(b) *Audits and investigations.* HHS may conduct oversight activities that include but are not limited to the following: audits, investigations, inspections, and any reasonable activities necessary for appropriate oversight of compliance with the Exchange privacy and security standards. HHS may also pursue civil, criminal or administrative proceedings or actions as determined necessary.
+
+[78 FR 54135, Aug. 30, 2013, as amended at 81 FR 12341, Mar. 8, 2016]

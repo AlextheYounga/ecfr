@@ -1,0 +1,3 @@
+##### § 286.175 What special provisions apply in Alaska? #####
+
+A Tribe in the State of Alaska that receives a TFAG must use the grant to operate a program in accordance with program requirements comparable to the requirements applicable to the State of Alaska's Temporary Assistance for Needy Families program. Comparability of programs must be established on the basis of program criteria developed by the Secretary in consultation with the State of Alaska and the Tribes in Alaska. The State of Alaska has authority to waive the program comparability requirement based on a request by an Indian tribe in the State.

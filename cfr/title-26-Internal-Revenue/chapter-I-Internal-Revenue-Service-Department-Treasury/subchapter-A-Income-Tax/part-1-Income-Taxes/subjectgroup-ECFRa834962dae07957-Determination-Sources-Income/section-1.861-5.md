@@ -1,0 +1,5 @@
+##### § 1.861-5 Rentals and royalties. #####
+
+Gross income from sources within the United States includes rentals or royalties from property located in the United States or from any interest in such property, including rentals or royalties for the use of, or for the privilege of using, in the United States, patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property. The income arising from the rental of property, whether tangible or intangible, located within the United States, or from the use of property, whether tangible or intangible, within the United States, is from sources within the United States. For taxable years beginning after December 31, 1966, gains described in section 871(a)(1)(D) and section 881(a)(4) from the sale or exchange after October 4, 1966, of patents, copyrights, and other like property shall be treated, as provided in section 871(e)(2), as rentals or royalties for the use of, or privilege of using, property or an interest in property. See paragraph (e) of § 1.871-11.
+
+[T.D. 7378, 40 FR 45434, Oct. 2, 1975]

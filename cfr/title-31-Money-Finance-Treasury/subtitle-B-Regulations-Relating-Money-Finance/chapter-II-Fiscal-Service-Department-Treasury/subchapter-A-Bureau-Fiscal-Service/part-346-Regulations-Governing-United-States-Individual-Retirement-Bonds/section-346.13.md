@@ -1,0 +1,3 @@
+##### § 346.13 Taxation. #####
+
+The tax treatment provided under section 409 of the Internal Revenue Code of 1954, as amended, shall apply to all Individual Retirement Bonds. The bonds are subject to estate, inheritance, or other excise taxes, whether Federal or State, but are exempt from all taxation now or hereafter imposed on the principal or interest thereof by any State, municipality, or any local taxing authority. Inquiry concerning the application of any Federal tax to these bonds should be directed to the District Director of Internal Revenue for the district in which the taxpayer resides.

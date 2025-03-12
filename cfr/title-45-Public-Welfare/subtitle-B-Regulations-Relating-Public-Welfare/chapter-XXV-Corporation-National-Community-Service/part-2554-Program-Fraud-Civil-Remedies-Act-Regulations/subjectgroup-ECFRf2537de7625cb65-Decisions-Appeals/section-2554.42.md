@@ -1,0 +1,5 @@
+##### § 2554.42 When does the initial decision of the ALJ become final? #####
+
+(a) The initial decision of the ALJ becomes the final decision of the Corporation, and shall be binding on all parties 30 days after it is issued, unless any party timely files a motion for reconsideration or any defendant adjudged to have submitted a false claim or statement timely appeals to the Corporation's authority head, as set forth in § 2554.43.
+
+(b) If the ALJ disposes of a motion for reconsideration by denying it or by issuing a revised initial decision, the ALJ's order on the motion for reconsideration becomes the final decision of the Corporation 30 days after the order is issued, unless a defendant adjudged to have submitted a false claim or statement timely appeals to the authority head, within 30 days of the ALJ's order, as set forth in § 2554.43.

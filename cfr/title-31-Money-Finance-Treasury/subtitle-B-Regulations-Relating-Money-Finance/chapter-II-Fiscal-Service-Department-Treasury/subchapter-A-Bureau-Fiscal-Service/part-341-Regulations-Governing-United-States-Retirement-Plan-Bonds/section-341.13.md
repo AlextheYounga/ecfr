@@ -1,0 +1,3 @@
+##### § 341.13 Taxation. #####
+
+The tax treatment provided under section 405 of the Internal Revenue Code of 1954 shall apply to all Retirement Plan Bonds. The bonds are subject to estate, inheritance, or other excise taxes whether Federal or State, but are exempt from all taxation now or hereafter imposed on the principal or interest thereof by any State, municipality, or any local taxing authority. Inquiries concerning the application of any Federal tax of these bonds should be directed to the District Director of Internal Revenue of the taxpayer's district or to the Internal Revenue Service, Washington, DC 20224.

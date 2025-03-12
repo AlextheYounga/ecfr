@@ -1,0 +1,3 @@
+##### § 900.101 Purpose. #####
+
+This regulation prescribes the policies and procedures of the Denali Commission (Commission) for implementing the National Environmental Policy Act of 1969 (NEPA) as amended (42 U.S.C. 4321-4347) and the Council on Environmental Quality (CEQ) Regulations for Implementing the Procedural Provisions of NEPA (40 CFR parts 1500 through 1508). This regulation also addresses other related federal environmental laws, statutes, regulations, and Executive Orders that apply to Commission actions. This part adopts, supplements, and is to be used in conjunction with, 40 CFR parts 1500 through 1508, consistent with 40 CFR 1507.3.

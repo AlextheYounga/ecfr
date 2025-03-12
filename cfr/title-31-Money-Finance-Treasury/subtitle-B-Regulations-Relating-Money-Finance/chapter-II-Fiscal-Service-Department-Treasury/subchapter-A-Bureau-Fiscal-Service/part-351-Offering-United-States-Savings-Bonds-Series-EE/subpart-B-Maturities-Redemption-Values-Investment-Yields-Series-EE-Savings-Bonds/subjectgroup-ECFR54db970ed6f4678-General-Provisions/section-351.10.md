@@ -1,0 +1,3 @@
+##### § 351.10 What do I need to know about market yields, or market bid yields, to understand redemption value calculations in this subpart? #####
+
+We use market yields, or market bid yields, derived from Treasury bills, notes, and bonds, to create a yield curve based on the most actively traded Treasury securities. This curve relates the yield on a security to its time to maturity. Yields at particular points on the curve are referred to as “constant maturity yields” and are determined by the Treasury from this daily yield curve. Six-month and 5-year Treasury securities rates are derived from these yield curves.

@@ -1,0 +1,15 @@
+##### § 1.501(c)(4)-1 Civic organizations and local associations of employees. #####
+
+(a) *Civic organizations*—(1) *In general.* A civic league or organization may be exempt as an organization described in section 501(c)(4) if—
+
+(i) It is not organized or operated for profit; and
+
+(ii) It is operated exclusively for the promotion of social welfare.
+
+(2) *Promotion of social welfare*—(i) *In general.* An organization is operated exclusively for the promotion of social welfare if it is primarily engaged in promoting in some way the common good and general welfare of the people of the community. An organization embraced within this section is one which is operated primarily for the purpose of bringing about civic betterments and social improvements. A *social welfare* organization will qualify for exemption as a charitable organization if it falls within the definition of *charitable* set forth in paragraph (d)(2) of § 1.501(c)(3)-1 and is not an *action* organization as set forth in paragraph (c)(3) of § 1.501(c)(3)-1.
+
+(ii) *Political or social activities.* The promotion of social welfare does not include direct or indirect participation or intervention in political campaigns on behalf of or in opposition to any candidate for public office. Nor is an organization operated primarily for the promotion of social welfare if its primary activity is operating a social club for the benefit, pleasure, or recreation of its members, or is carrying on a business with the general public in a manner similar to organizations which are operated for profit. See, however, section 501(c)(6) and § 1.501(c)(6)-1, relating to business leagues and similar organizations. A social welfare organization that is not, at any time after October 4, 1976, exempt from taxation as an organization described in section 501(c)(3) may qualify under section 501(c)(4) even though it is an *action* organization described in § 1.501(c)(3)-1(c)(3)(ii) or (iv), if it otherwise qualifies under this section. For rules relating to an organization that is, after October 4, 1976, exempt from taxation as an organization described in section 501(c)(3), see section 504 and § 1.504-1.
+
+(b) *Local associations of employees.* Local associations of employees described in section 501(c)(4) are expressly entitled to exemption under section 501(a). As conditions to exemption, it is required (1) that the membership of such an association be limited to the employees of a designated person or persons in a particular municipality, and (2) that the net earnings of the association be devoted exclusively to charitable, educational, or recreational purposes. The word *local* is defined in paragraph (b) of § 1.501(c)(12)-1. See paragraph (d) (2) and (3) of § 1.501(c)(3)-1 with reference to the meaning of *charitable* and *educational* as used in this section.
+
+[T.D. 6500, 25 FR 11737, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, as amended by T.D. 8308, 55 FR 35588, Aug. 31, 1990]

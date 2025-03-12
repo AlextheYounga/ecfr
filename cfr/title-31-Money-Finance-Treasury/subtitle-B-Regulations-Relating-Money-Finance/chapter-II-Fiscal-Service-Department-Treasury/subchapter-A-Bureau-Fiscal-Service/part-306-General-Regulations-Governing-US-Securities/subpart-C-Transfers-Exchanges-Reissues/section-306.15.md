@@ -1,0 +1,11 @@
+##### § 306.15 Transfers and exchanges of securities—closed periods. #####
+
+(a) *General.* The transfer of registered securities should be made by assignment in accordance with subpart F of this part. Transferable registered securities are eligible for denominational exchange. Specific instructions for issuance and delivery of the new securities, signed by the owner or his authorized representative, must accompany the securities presented. (Form PD 3905 or PD 1827, as appropriate, may be used.) Denominational exchanges may be made at any time. Securities presented for transfer must be received by the Bureau not less than 1 full month before the date on which the securities mature or become redeemable pursuant to a call for redemption before maturity. Any security so presented which is received too late to comply with this provision will be accepted for payment only.
+
+(b) *Closing of transfer books.* The transfer books are closed for one full month preceding interest payment dates and call or maturity dates. If the date set for closing of the transfer books falls on Saturday, Sunday, or a legal holiday, the books will be closed as of the close of business on the last business day preceding that date. The books are reopened on the first business day following the date on which interest falls due. Registered securities which have not matured or been called, submitted for transfer, reissue, and coupon securities which have not matured or been called, submitted for exchange for registered securities, which are received during the period the books for that loan are closed, will be processed on or after the date such books are reopened. If registered securities are received for transfer, or coupon securities are received for exchange for registered securities, during the time the books are closed for payment of final interest at maturity or call, unless otherwise provided in the offering circular or notice of call, the following action will be taken:
+
+(1) Payment of final interest will be made to the registered owner of record on the date the books were closed.
+
+(2) Payment of principal will be made to the assignee under a proper assignment of the securities.
+
+[38 FR 7078, Mar. 15, 1973, as amended at 64 FR 38125, July 15, 1999]

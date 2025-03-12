@@ -1,0 +1,3 @@
+##### § 1.683-3 Application of the 65-day rule of the Internal Revenue Code of 1939. #####
+
+If an amount is paid, credited, or to be distributed in the first 65 days of the first taxable year of an estate or trust (heretofore subject to the provisions of the Internal Revenue Code of 1939) to which the Internal Revenue Code of 1954 applies and the amount would be treated, if the Internal Revenue Code of 1939 were applicable, as if paid, credited, or to be distributed on the last day of the preceding taxable year, sections 641 through 682 do not apply to the amount. The amount so paid, credited, or to be distributed is taken into account as provided in the Internal Revenue Code of 1939. See 26 CFR (1939) 39.162-2 (c) and (d) (Regulations 118).

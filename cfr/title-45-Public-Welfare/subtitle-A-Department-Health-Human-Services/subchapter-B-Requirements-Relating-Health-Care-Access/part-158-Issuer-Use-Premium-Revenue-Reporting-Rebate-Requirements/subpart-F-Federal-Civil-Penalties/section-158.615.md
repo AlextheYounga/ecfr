@@ -1,0 +1,3 @@
+##### § 158.615 Failure to request a hearing. #####
+
+If the issuer does not request a hearing within 30 days of the issuance of the notice described in § 158.613 of this subpart, HHS may assess the proposed civil monetary penalty indicated in such notice and may impose additional penalties as described in § 158.606 of this subpart. HHS must notify the issuer in writing of any penalty that has been assessed and of the means by which the issuer may satisfy the penalty. The issuer has no right to appeal a penalty with respect to which it has not requested a hearing in accordance with § 150.405 of this subchapter, unless the responsible entity can show good cause, as determined at § 150.405(b) of this subchapter, for failing to timely exercise its right to a hearing.

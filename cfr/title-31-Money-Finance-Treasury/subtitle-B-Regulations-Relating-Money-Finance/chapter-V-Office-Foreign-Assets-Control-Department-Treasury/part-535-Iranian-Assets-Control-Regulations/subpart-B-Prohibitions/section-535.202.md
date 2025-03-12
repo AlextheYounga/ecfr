@@ -1,0 +1,3 @@
+##### § 535.202 Transactions with respect to securities registered or inscribed in the name of Iran. #####
+
+Unless authorized by a license expressly referring to this section, the acquisition, transfer (including the transfer on the books of any issuer or agent thereof), disposition, transportation, importation, exportation, or withdrawal of, or the endorsement or guaranty of signatures on or otherwise dealing in any security (or evidence thereof) registered or inscribed in the name of any Iranian entity is prohibited irrespective of the fact that at any time (either prior to, on, or subsequent to the effective date) the registered or inscribed owner thereof may have, or appears to have, assigned, transferred or otherwise disposed of any such security.

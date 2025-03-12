@@ -1,0 +1,3 @@
+##### § 1172.39 Alternate funds disbursal procedure. #####
+
+When NEH withholds funds from a recipient under the regulations in this part, the Chairman may disburse the withheld funds directly to an alternate recipient otherwise eligible for NEH support. NEH will require any alternate recipient to demonstrate the ability to comply with the regulations in this part and to achieve the goals of the National Foundation on the Arts and the Humanities Act of 1965, Pub. L. 89-209 (20 U.S.C. 951)—the Federal statute authorizing the Federal financial assistance.

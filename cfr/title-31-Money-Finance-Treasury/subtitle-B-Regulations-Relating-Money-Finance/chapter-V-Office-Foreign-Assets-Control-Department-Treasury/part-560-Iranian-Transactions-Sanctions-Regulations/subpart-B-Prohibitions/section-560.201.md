@@ -1,0 +1,3 @@
+##### § 560.201 Prohibited importation of goods or services from Iran. #####
+
+Except as otherwise authorized pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to May 7, 1995, the importation into the United States of any goods or services of Iranian origin or owned or controlled by the Government of Iran, other than information and informational materials within the meaning of section 203(b)(3) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)(3)), is prohibited.

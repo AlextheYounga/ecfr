@@ -1,0 +1,3 @@
+##### § 1026.400 General. #####
+
+Futures commission merchants and introducing brokers in commodities are subject to the recordkeeping requirements set forth and cross referenced in this subpart. Futures commission merchants and introducing brokers in commodities should also refer to subpart D of part 1010 of this chapter for recordkeeping requirements contained in that subpart which apply to futures commission merchants and introducing brokers in commodities.

@@ -1,0 +1,5 @@
+##### § 302.1-2 Application of regulations. #####
+
+(a) *Property covered.* The regulations in this part are applicable in connection with property vested in the Attorney General pursuant to section 202 (a) of the Act and in connection with the net proceeds of any property described under section 202(b) of such Act which was vested in the Attorney General after December 17, 1941, pursuant to the Trading With the Enemy Act, as amended (40 Stat. 411).
+
+(b) *Taxes covered.* The regulations in this part are applicable to any internal revenue tax with respect to (1) property vested in the Attorney General or any action or transaction incidental to such property, or (2) any person whose property is so vested or any action or transaction of such person, whether the tax is applicable in respect of the period of vesting or any other period.

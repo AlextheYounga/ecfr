@@ -1,0 +1,11 @@
+##### § 10.8 Return preparation and application of rules to other individuals. #####
+
+(a) *Preparing all or substantially all of a tax return.* Any individual who for compensation prepares or assists with the preparation of all or substantially all of a tax return or claim for refund must have a preparer tax identification number. Except as otherwise prescribed in forms, instructions, or other appropriate guidance, an individual must be an attorney, certified public accountant, enrolled agent, or registered tax return preparer to obtain a preparer tax identification number. Any individual who for compensation prepares or assists with the preparation of all or substantially all of a tax return or claim for refund is subject to the duties and restrictions relating to practice in subpart B, as well as subject to the sanctions for violation of the regulations in subpart C.
+
+(b) *Preparing a tax return and furnishing information.* Any individual may for compensation prepare or assist with the preparation of a tax return or claim for refund (provided the individual prepares less than substantially all of the tax return or claim for refund), appear as a witness for the taxpayer before the Internal Revenue Service, or furnish information at the request of the Internal Revenue Service or any of its officers or employees.
+
+(c) *Application of rules to other individuals.* Any individual who for compensation prepares, or assists in the preparation of, all or a substantial portion of a document pertaining to any taxpayer's tax liability for submission to the Internal Revenue Service is subject to the duties and restrictions relating to practice in subpart B, as well as subject to the sanctions for violation of the regulations in subpart C. Unless otherwise a practitioner, however, an individual may not for compensation prepare, or assist in the preparation of, all or substantially all of a tax return or claim for refund, or sign tax returns and claims for refund. For purposes of this paragraph, an individual described in 26 CFR 301.7701-15(f) is not treated as having prepared all or a substantial portion of the document by reason of such assistance.
+
+(d) *Effective/applicability date.* This section is applicable beginning August 2, 2011.
+
+[T.D. 9527, 76 FR 32306, June 3, 2011]

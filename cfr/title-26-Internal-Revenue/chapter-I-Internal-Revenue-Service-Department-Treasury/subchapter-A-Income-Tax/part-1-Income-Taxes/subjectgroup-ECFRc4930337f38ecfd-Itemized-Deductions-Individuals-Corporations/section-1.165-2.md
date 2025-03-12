@@ -1,0 +1,15 @@
+##### § 1.165-2 Obsolescence of nondepreciable property. #####
+
+(a) *Allowance of deduction.* A loss incurred in a business or in a transaction entered into for profit and arising from the sudden termination of the usefulness in such business or transaction of any nondepreciable property, in a case where such business or transaction is discontinued or where such property is permanently discarded from use therein, shall be allowed as a deduction under section 165(a) for the taxable year in which the loss is actually sustained. For this purpose, the taxable year in which the loss is sustained is not necessarily the taxable year in which the overt act of abandonment, or the loss of title to the property, occurs.
+
+(b) *Exceptions.* This section does not apply to losses sustained upon the sale or exchange of property, losses sustained upon the obsolescence or worthlessness of depreciable property, casualty losses, or losses reflected in inventories required to be taken under section 471. The limitations contained in sections 1211 and 1212 upon losses from the sale or exchange of capital assets do not apply to losses allowable under this section.
+
+(c) *Cross references.* For the allowance under section 165(a) of losses arising from the permanent withdrawal of depreciable property from use in the trade or business or in the production of income, see § 1.167(a)-8, § 1.168(i)-1, or § 1.168(i)-8, as applicable. For provisions respecting the obsolescence of depreciable property for which depreciation is determined under section 167 (but not under section 168, section 1400I, section 1400L(c), section 168 prior to its amendment by the Tax Reform Act of 1986, Public Law 99-514 (100 Stat. 2121 (1986)), or under an additional first year depreciation deduction provision of the Internal Revenue Code (for example, section 168(k) through (n), 1400L(b), or 1400N(d))), see § 1.167(a)-9. For the allowance of casualty losses, see § 1.165-7.
+
+(d) *Effective/applicability date*—(1) *In general.* This section applies to taxable years beginning on or after January 1, 2014. Except as provided in paragraphs (d)(2) and (d)(3) of this section, § 1.165-2 as contained in 26 CFR part 1 edition revised as of April 1, 2011, applies to taxable years beginning before January 1, 2014.
+
+(2) *Early application of § 1.165-2(c).* A taxpayer may choose to apply paragraph (c) of this section to taxable years beginning on or after January 1, 2012.
+
+(3) *Optional application of TD 9564.* A taxpayer may choose to apply § 1.165-2T as contained in TD 9564 (76 FR 81060) December 27, 2011, to taxable years beginning on or after January 1, 2012, and before January 1, 2014.
+
+[T.D. 6500, 25 FR 11402, Nov. 26, 1960; 25 FR 14021, Dec. 21, 1960, as amended by T.D. 9564, 76 FR 81084, Dec. 27, 2011; T.D. 9636, 78 FR 57706, Sept. 19, 2013; T.D. 9689, 79 FR 48667, Aug. 18, 2014]

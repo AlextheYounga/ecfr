@@ -1,0 +1,3 @@
+##### § 359.12 What happens in deflationary conditions? #####
+
+In certain deflationary situations, the semiannual inflation rate may be negative. Negative semiannual inflation rates will be used in the same way as positive semiannual inflation rates. However, if the semiannual inflation rate is negative to the extent that it completely offsets the fixed rate of return, the redemption value of a Series I bond for any particular month will not be less than the value for the preceding month.

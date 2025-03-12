@@ -1,0 +1,3 @@
+##### § 15.0-1 Scope of regulations in this part. #####
+
+The regulations in this part relate to expenditures of the type described in section 615(a) or in section 617(a)(1) paid or incurred after September 12, 1966. The regulations in this part do not apply to the income tax treatment of mining exploration expenditures paid or incurred before September 13, 1966, and no election made pursuant to the provisions of the regulations in this part shall have any effect on the income tax treatment of exploration expenditures paid or incurred before such date. See § 15.1-4 for rules relating to treatment of exploration expenditures paid or incurred during taxable years beginning before September 13, 1966, and ending after September 12, 1966.

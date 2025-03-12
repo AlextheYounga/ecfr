@@ -1,0 +1,39 @@
+##### § 156.235 Essential community providers. #####
+
+Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
+
+(a) *General ECP standard.* (1) A QHP issuer that uses a provider network must include in its provider network a sufficient number and geographic distribution of essential community providers (ECPs), where available, to ensure reasonable and timely access to a broad range of such providers for low-income individuals or individuals residing in Health Professional Shortage Areas within the QHP's service area, in accordance with the Exchange's network adequacy standards.
+
+(2) A plan applying for QHP certification to be offered through a Federally-facilitated Exchange has a sufficient number and geographic distribution of ECPs if it demonstrates in its QHP application that -
+
+(i) The network includes as participating practitioners at least a minimum percentage, as specified by HHS, of available essential community providers in each plan's service area. For plan years beginning prior to January 1, 2018, multiple providers at a single location will count as a single essential community provider toward both the available essential community providers in the plan's service area and the issuer's satisfaction of the essential community provider participation standard. For plan years beginning on or after January 1, 2018, multiple contracted or employed full-time equivalent practitioners at a single location will count toward both the available essential community providers in the plan's service area and the issuer's satisfaction of the essential community provider participation standard; and
+
+(ii) The issuer of the plan offers contracts to -
+
+(A) All available Indian health care providers in the service area, applying the special terms and conditions required by Federal law and regulations as referenced in the recommended model QHP addendum for Indian health care providers developed by HHS; and
+
+(B) At least one ECP in each of the ECP categories (Federally Qualified Health Centers, Ryan White Providers, Family Planning Providers, Indian Health Care Providers, Hospitals and other ECP providers) in each county in the service area, where an ECP in that category is available and provides medical or dental services that are covered by the issuer plan type.
+
+(3) If a plan applying for QHP certification to be offered through a Federally-facilitated Exchange does not satisfy the ECP standard described in paragraph (a)(2) of this section, the issuer must include as part of its QHP application a narrative justification describing how the plan's provider network provides an adequate level of service for low-income enrollees or individuals residing in Health Professional Shortage Areas within the plan's service area and how the plan's provider network will be strengthened toward satisfaction of the ECP standard prior to the start of the benefit year.
+
+(4) Nothing in paragraphs (a)(1) through (3) of this section requires any QHP to provide coverage for any specific medical procedure.
+
+(5) A plan that provides a majority of covered professional services through physicians employed by the issuer or through a single contracted medical group may instead comply with the alternate standard described in paragraph (b) of this section.
+
+(b) *Alternate ECP standard.* (1) A plan described in paragraph (a)(5) of this section must have a sufficient number and geographic distribution of employed providers and hospital facilities, or providers of its contracted medical group and hospital facilities, to ensure reasonable and timely access for low-income individuals or individuals residing in Health Professional Shortage Areas within the plan's service area, in accordance with the Exchange's network adequacy standards.
+
+(2) A plan described in paragraph (a)(5) of this section applying for QHP certification to be offered through a Federally-facilitated Exchange has a sufficient number and geographic distribution of employed or contracted providers if it demonstrates in its QHP application that -
+
+(i) The number of its providers that are located in Health Professional Shortage Areas or five-digit zip codes in which 30 percent or more of the population falls below 200 percent of the Federal Poverty Line satisfies a minimum percentage, specified by HHS, of available essential community provider in the plan's service area. For plan years beginning prior to January 1, 2018, multiple providers at a single location will count as a single essential community provider toward both the available essential community providers in the plan's service area and the issuer's satisfaction of the essential community provider participation standard. For plan years beginning on or after January 1, 2018, multiple contracted or employed full-time equivalent practitioners at a single location will count toward both the available essential community providers in the plan's service area and the satisfaction of the essential community provider participation standard; and
+
+(ii) The issuer's integrated delivery system provides all of the categories of services provided by entities in each of the ECP categories in each county in the plan's service area as outlined in the general ECP standard, or otherwise offers a contract to at least one ECP outside of the issuer's integrated delivery system per ECP category in each county in the plan's service area that can provide those services to low-income, medically underserved individuals.
+
+(3) If a plan does not satisfy the alternate ECP standard described in paragraph (b)(2) of this section, the issuer must include as part of its QHP application a narrative justification describing how the plan's provider networks provide an adequate level of service for low-income enrollees or individuals residing in Health Professional Shortage Areas within the plan's service area and how the plan's provider network will be strengthened toward satisfaction of the ECP standard prior to the start of the benefit year.
+
+(c) *Definition.* An essential community provider is a provider that serves predominantly low-income, medically underserved individuals, including a health care provider defined in section 340B(a)(4) of the PHS Act; or described in section 1927(c)(1)(D)(i)(IV) of the Act as set forth by section 221 of Pub. L. 111-8; or a State-owned family planning service site, or governmental family planning service site, or not-for-profit family planning service site that does not receive Federal funding under special programs, including under Title X of the PHS Act, or an Indian health care provider, unless any of the above providers has lost its status under either of these sections, 340(B) of the PHS Act or 1927 of the Act as a result of violating Federal law.
+
+(d) *Payment rates.* Nothing in paragraph (a) of this section may be construed to require a QHP issuer to contract with an ECP if such provider refuses to accept the same rates and contract provisions included in contracts accepted by similarly situated providers.
+
+(e) *Payment of Federally qualified health centers.* If an item or service covered by a QHP is provided by a Federally-qualified health center (as defined in section 1905(l)(2)(B) of the Act) to an enrollee of a QHP, the QHP issuer must pay the Federally qualified health center for the item or service an amount that is not less than the amount of payment that would have been paid to the center under section 1902(bb) of the Act for such item or service. Nothing in this paragraph (e) precludes a QHP issuer and Federally-qualified health center from agreeing upon payment rates other than those that would have been paid to the center under section 1902(bb) of the Act, as long as that rate is at least equal to the generally applicable payment rate of the issuer described in paragraph (d) of this section.
+
+[80 FR 10873, Feb. 27, 2015, as amended at 81 FR 12350, Mar. 8, 2016]

@@ -1,0 +1,3 @@
+##### § 672.19 Proposed findings, conclusions, and order. #####
+
+Unless otherwise ordered by the Presiding Officer, any party may submit proposed findings of fact, conclusions of law, and a proposed order, together with supporting briefs, within twenty (20) days after the parties are notified of the availability of the transcript. The Presiding Officer shall set a time by which reply briefs must be submitted. All submissions shall be in writing, shall be served upon all parties, and shall contain adequate references to the record and relied-upon authorities.

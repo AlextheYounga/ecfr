@@ -1,0 +1,17 @@
+##### § 1.752-6 Partnership assumption of partner's section 358(h)(3) liability after October 18, 1999, and before June 24, 2003. #####
+
+(a) *In general.* If, in a transaction described in section 721(a), a partnership assumes a liability (defined in section 358(h)(3)) of a partner (other than a liability to which section 752(a) and (b) apply), then, after application of section 752(a) and (b), the partner's basis in the partnership is reduced (but not below the adjusted value of such interest) by the amount (determined as of the date of the exchange) of the liability. For purposes of this section, the adjusted value of a partner's interest in a partnership is the fair market value of that interest increased by the partner's share of partnership liabilities under §§ 1.752-1 through 1.752-5.
+
+(b) *Exceptions*—(1) *In general.* Except as provided in paragraph (b)(2) of this section, the exceptions contained in section 358(h)(2)(A) and (B) apply to this section.
+
+(2) *Transactions described in Notice 2000-44.* The exception contained in section 358(h)(2)(B) does not apply to an assumption of a liability (defined in section 358(h)(3)) by a partnership as part of a transaction described in, or a transaction that is substantially similar to the transactions described in, Notice 2000-44 (2000-2 C.B. 255). See § 601.601(d)(2) of this chapter.
+
+(c) *Example.* The following example illustrates the principles of paragraph (a) of this section:
+
+Example.In 1999, A and B form partnership PRS. A contributes property with a value and basis of $200, subject to a nonrecourse debt obligation of $50 and a fixed or contingent obligation of $100 that is not a liability to which section 752(a) and (b) applies, in exchange for a 50% interest in PRS. Assume that, after the contribution, A's share of partnership liabilities under §§ 1.752-1 through 1.752-5 is $25. Also assume that the $100 liability is not associated with a trade or business contributed by A to PRS or with assets contributed by A to PRS. After the contribution, A's basis in PRS is $175 (A's basis in the contributed land ($200) reduced by the nonrecourse debt assumed by PRS ($50), increased by A's share of partnership liabilities under §§ 1.752-1 through 1.752-5 ($25)). Because A's basis in the PRS interest is greater than the adjusted value of A's interest, $75 (the fair market value of A's interest ($50) increased by A's share of partnership liabilities ($25)), paragraph (a) of this section operates to reduce A's basis in the PRS interest (but not below the adjusted value of that interest) by the amount of liabilities described in section 358(h)(3) (other than liabilities to which section 752(a) and (b) apply) assumed by PRS. Therefore, A's basis in PRS is reduced to $75.
+
+(d) *Effective date*—(1) *In general.* This section applies to assumptions of liabilities occurring after October 18, 1999, and before June 24, 2003.
+
+(2) *Election to apply § 1.752-7.* The partnership may elect, under § 1.752-7(k)(2), to apply the provisions referenced in § 1.752-7(k)(2)(ii) to all assumptions of liabilities by the partnership occurring after October 18, 1999, and before June 24, 2003. Section 1.752-7(k)(2) describes the manner in which the election is made.
+
+[T.D. 9207, 70 FR 30343, May 26, 2005]

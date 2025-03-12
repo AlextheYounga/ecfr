@@ -1,0 +1,11 @@
+##### § 1.925(a)-1 Transfer pricing rules for FSCs. #####
+
+(a)-(c)(7) [Reserved]. For further guidance, see § 1.925(a)-1T(a) through (c)(7).
+
+(c)(8) *Grouping transactions.* (i) The determinations under this section are to be made on a transaction-by-transaction basis. However, at the annual choice made by the related supplier if the administrative pricing methods are used, some or all of these determinations may be made on the basis of groups consisting of products or product lines. The election to group transactions shall be evidenced on Schedule P of the FSC's U.S. income tax return for the taxable year. No untimely or amended returns filed later than one year after the due date of the FSC's timely filed (including extensions) U.S. income tax return will be allowed to elect to group, to change a grouping basis, or to change from a grouping basis to a transaction-by-transaction basis (collectively “grouping redeterminations”). The rule of the previous sentence is applicable to taxable years beginning after December 31, 1999. For any taxable year beginning before January 1, 2000, a grouping redetermination may be made no later than the due date of the FSC's timely filed (including extensions) U.S. income tax return for the FSC's first taxable year beginning on or after January 1, 2000. Notwithstanding the time limits for filing grouping redeterminations otherwise specified in the previous three sentences, a grouping redetermination may be made at any time during the one-year period commencing upon notification of the related supplier by the Internal Revenue Service of an examination, provided that both the FSC and the related supplier agree to extend their respective statutes of limitations for assessment by one year. In addition, any grouping redeterminations made under this paragraph must meet the requirements under § 1.925(a)-1T(e)(4) with respect to redeterminations other than grouping. The language “or grouping of transactions” is removed from the fourth sentence of § 1.925(a)-1T(e)(4), applicable to taxable years beginning after December 31, 1997. See also § 1.925(b)-1T(b)(3)(i).
+
+(c)(8)(ii)-(f) [Reserved]. For further guidance, see § 1.925(a)-1T(c)(8)(ii) through (f).
+
+(g) *Effective date.* The provisions of this section apply on or after March 2, 2001.
+
+[T.D. 8944, 66 FR 13428, Mar. 6, 2001]

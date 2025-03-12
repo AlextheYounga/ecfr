@@ -1,0 +1,5 @@
+##### § 1.274-6 Expenditures deductible without regard to trade or business or other income producing activity. #####
+
+The provisions of §§ 1.274-1 through 1.274-5, inclusive, do not apply to any deduction allowable to the taxpayer without regard to its connection with the taxpayer's trade or business or other income producing activity. Examples of such items are interest, taxes such as real property taxes, and casualty losses. Thus, if a taxpayer owned a fishing camp, the taxpayer could still deduct mortgage interest and real property taxes in full even if deductions for its use are not allowable under section 274(a) and § 1.274-2. In the case of a taxpayer which is not an individual, the provisions of this section shall be applied as if it were an individual. Thus, if a corporation sustains a casualty loss on an entertainment facility used in its trade or business, it could deduct the loss even though deductions for the use of the facility are not allowable.
+
+[T.D. 8051, 50 FR 36576, Sept. 9, 1985]

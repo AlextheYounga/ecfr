@@ -1,0 +1,3 @@
+##### § 20.2034-1 Dower or curtesy interests. #####
+
+A decedent's gross estate includes under section 2034 any interest in property of the decedent's surviving spouse existing at the time of the decedent's death as dower or curtesy, or any interest created by statute in lieu thereof (although such other interest may differ in character from dower or curtesy). Thus, the full value of property is included in the decedent's gross estate, without deduction of such an interest of the surviving husband or wife, and without regard to when the right to such an interest arose.

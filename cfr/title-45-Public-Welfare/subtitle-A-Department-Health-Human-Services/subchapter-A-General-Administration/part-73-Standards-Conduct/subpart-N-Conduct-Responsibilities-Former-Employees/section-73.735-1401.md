@@ -1,0 +1,5 @@
+##### § 73.735-1401 Prohibitions against post-employment conflicts of interest. #####
+
+(a) The purpose of criminal prohibition in 18 U.S.C. 207 is to prevent the unfair use of inside knowledge or influence that results from Federal service. 18 U.S.C. 207 generally prohibits a former employee from acting as another person's representative to the Government in particular matters involving a specific party or parties in which the employee had been involved while in Federal service. This prohibition does not require a former employee to decline employment with any organization regardless of his or her dealings with that organization while employed by the Government. It applies solely to activities, not the mere existence of an employment arrangement.
+
+(b) The Office of Government Ethics, Office of Personnel Management, has issued Government-wide regulations covering post-employment conflict of interest (5 CFR part 737). Those regulations are incorporated herein by reference, and they are available for review in personnel offices throughout the Department.

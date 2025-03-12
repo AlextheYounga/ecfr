@@ -1,0 +1,3 @@
+##### § 1321.52 Evaluation of unmet need. #####
+
+Each State shall submit objectively collected and statistically valid data with evaluative conclusions concerning the unmet need for supportive services, nutrition services, and multipurpose senior centers gathered pursuant to section 307(a)(3)(A) of the Act to the Commissioner. The evaluations for each State shall consider all services in these categories regardless of the source of funding for the services. This information shall be submitted not later than June 30, 1989 and shall conform to guidance issued by the Commissioner.

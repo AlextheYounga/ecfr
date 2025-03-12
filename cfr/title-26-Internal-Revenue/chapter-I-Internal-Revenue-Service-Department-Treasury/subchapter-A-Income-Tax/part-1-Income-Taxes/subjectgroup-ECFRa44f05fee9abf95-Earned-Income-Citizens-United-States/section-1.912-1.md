@@ -1,0 +1,5 @@
+##### § 1.912-1 Exclusion of certain cost-of-living allowances. #####
+
+(a) Amounts received by Government civilian personnel stationed outside the continental United States as cost-of-living allowances in accordance with regulations approved by the President are, by the provisions of section 912(1), excluded from gross income. Such allowances shall be considered as retaining their characteristics under section 912(1) notwithstanding any combination thereof with any other allowance. For example, the cost-of-living portion of a “living and quarters allowance” would be excluded from gross income whether or not any other portion of such allowance is excluded from gross income.
+
+(b) For purposes of section 912(1), the term “continental United States” includes only the 48 States existing on February 25, 1944 (the date of the enactment of the Revenue Act of 1943 (58 Stat. 21)) and the District of Columbia.

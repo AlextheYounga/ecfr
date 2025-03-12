@@ -1,0 +1,5 @@
+##### § 16.16 Parties to the appeal. #####
+
+(a) The only parties to the appeal are the appellant and the respondent. If the Board determines that a third person is a real party in interest (for example, where the major impact of an audit disallowance would be on the grantee's contractor, not on the grantee), the Board may allow the third person to present the case on appeal for the appellant or to appear with a party in the case, after consultation with the parties and if the appellant does not object.
+
+(b) The Board may also allow other participation, in the manner and by the deadlines established by the Board, where the Board decides that the intervenor has a clearly identifiable and substantial interest in the outcome of the dispute, that participation would sharpen issues or otherwise be helpful in resolution of the dispute, and that participation would not result in substantial delay.

@@ -1,0 +1,3 @@
+##### § 401.1 Secret Service agents authorized to make seizures. #####
+
+All officers of the U.S. Secret Service engaged in the enforcement of counterfeiting laws are hereby authorized and designated to seize such vessels, vehicles, and aircraft as may be subject to seizure because of violations of the said act of August 9, 1939, pertaining to contraband articles referred to in section 1(b) (3) of said act.

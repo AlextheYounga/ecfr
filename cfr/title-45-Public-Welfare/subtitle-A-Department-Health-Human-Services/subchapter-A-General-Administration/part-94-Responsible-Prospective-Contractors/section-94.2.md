@@ -1,0 +1,3 @@
+##### § 94.2 Applicability. #####
+
+This part is applicable to each Institution that submits a proposal, or that receives, Public Health Service (PHS) research funding by means of a contract and, through the implementation of this part by the Institution, to each Investigator who is planning to participate in, or is participating in such research; provided, however, that this part does not apply to SBIR Program Phase I applications.

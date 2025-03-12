@@ -1,0 +1,3 @@
+##### § 501.808 License application and other procedures applicable to economic sanctions programs. #####
+
+Upon submission to the Office of Management and Budget of an amendment to the overall burden hours for the information collections imposed under this part, the license application and other procedures set forth in this subpart are applicable to economic sanctions programs for which implementation and administration have been delegated to the Office of Foreign Assets Control.

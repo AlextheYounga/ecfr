@@ -1,0 +1,5 @@
+##### § 1176.1 General. #####
+
+(a) *Purpose.* Many individuals in society possess great productive potential which goes unrealized because they cannot meet the requirements of a standard workweek. Permanent part-time employment also provides benefits to other individuals in a variety of ways, such as providing older individuals with a gradual transition into retirement, providing employment opportunities to handicapped individuals or others who require a reduced workweek, providing parents with opportunities to balance family responsibilities with the need for added income, and assisting students who must finance their own education or vocational training. In view of this, the National Endowment for the Humanities will operate a part-time career employment program, consistent with its responsibilities and in accordance with Public Law 95-437, the Federal Employees' Part-Time Career Employment Act of 1978.
+
+(b) *Program Coordinator.* The Personnel Officer is responsible for program operation and coordination.

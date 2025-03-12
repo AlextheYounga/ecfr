@@ -1,0 +1,3 @@
+##### § 2544.145 What will be done with property that is not accepted? #####
+
+In general, property offered to the Corporation but not accepted will be returned to the offeror. If the offeror is unknown or the donation would spoil if returned, the property will either be disposed of in accordance with Federal Property Management regulations (41 CFR chapter 101) or given to local charities determined by the Corporation.

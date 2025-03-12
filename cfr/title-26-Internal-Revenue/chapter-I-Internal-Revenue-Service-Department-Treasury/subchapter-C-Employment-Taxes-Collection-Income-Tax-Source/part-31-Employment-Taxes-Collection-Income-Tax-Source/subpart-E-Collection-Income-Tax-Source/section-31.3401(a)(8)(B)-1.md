@@ -1,0 +1,7 @@
+##### § 31.3401(a)(8)(B)-1 Remuneration for services performed in possession of the United States (other than Puerto Rico) by citizen of the United States. #####
+
+(a) Remuneration paid for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within a possession of the United States (other than Puerto Rico) does not constitute wages and hence is not subject to withholding, if it is reasonable to believe that at least 80 percent of the remuneration to be paid to the employee by such employer during the calendar year will be for such services. The reasonable belief contemplated by section 3401(a)(8)(B) may be based upon any evidence reasonably sufficient to induce such belief, even though such evidence may be insufficient upon closer examination by the district director or the courts finally to establish that at least 80 percent of the remuneration paid by the employer to the employee during the calendar year was for services performed within such a possession of the United States.
+
+(b) This section has no application to remuneration paid to a citizen of the United States for services performed in any possession of the United States as an employee of the United States or any agency thereof.
+
+(c) For provisions relating to remuneration for services performed by a permanent resident of the Virgin Islands, see paragraph (b)(12) of § 31.3401(a)-1.

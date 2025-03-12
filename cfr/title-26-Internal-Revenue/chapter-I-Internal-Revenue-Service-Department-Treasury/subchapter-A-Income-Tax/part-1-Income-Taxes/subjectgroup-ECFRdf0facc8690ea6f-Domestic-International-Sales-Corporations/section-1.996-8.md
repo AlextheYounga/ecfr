@@ -1,0 +1,13 @@
+##### § 1.996-8 Effect of carryback of capital loss or net operating loss to prior DISC taxable year. #####
+
+(a) Under § 1.995-2(e), the deduction under section 172 for a net operating loss carryback or under section 1212 for a capital loss carryback is determined as if the DISC were a domestic corporation which had not elected to be treated as a DISC. A carryback of a net operating loss or of a capital loss of any corporation which reduces its taxable income for a preceding taxable year for which it qualified as a DISC will have the consequences enumerated in paragraphs (b) through (e) of this section.
+
+(b) For such preceding taxable year, the amount of a deemed distribution of one-half of certain taxable income described in § 1.995-2(a)(4) will ordinarily be reduced in effect (but not below zero) by one-half of the sum of the amount of the deduction under section 172 for such year for net operating loss carrybacks and the amount of the deduction under section 1212 for such year for capital loss carrybacks.
+
+(c) The amount of reduction in the deemed distribution under paragraph (b) of this section will have the effect of increasing the limitation, provided in § 1.995-2(b)(2), on the amount of foreign investment attributable to producer's loans which is deemed distributed under § 1.995-2(a)(5).
+
+(d) If the amount of a deemed distribution for a preceding taxable year is reduced as described in paragraph (b) of this section, then for such preceding taxable year the previously taxed income (as defined in § 1.996-3(c)) shall be decreased by the amount of such reduction and the accumulated DISC income (as defined in § 1.996-3(b)) shall be increased by the amount of such reduction. Such adjustments shall be made as of the time the deemed distribution for such preceding taxable year is treated as having occurred. See § 1.996-1(d) for the priority of such deemed distribution in relation to other distributions made in that preceding taxable year.
+
+(e) The amount and treatment of any actual distribution made in such preceding taxable year or a year subsequent to such preceding year, and the treatment of gain on a disposition (in any such year) of the DISC's stock to which § 1.995-4 applies, shall be properly adjusted to reflect the adjustments to previously taxed income and accumulated DISC income described in paragraph (d) of this section.
+
+[T.D. 7324, 39 FR 35125, Sept. 30, 1974]

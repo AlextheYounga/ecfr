@@ -1,0 +1,3 @@
+##### § 31.3301-1 Persons liable for tax. #####
+
+Every person who is an employer as defined in section 3306(a) (see § 31.3306(a)-1) is liable for the tax. Even if an employer is not subject to any State unemployment compensation law, he is nevertheless liable for the tax. However, if he is subject to such a State law, he may be entitled to certain credits against the tax (see §§ 31.3302(a)1 to 31.3302(c)-1, inclusive). For provisions relating to payment of the tax, see Subpart G of the regulations in this part.

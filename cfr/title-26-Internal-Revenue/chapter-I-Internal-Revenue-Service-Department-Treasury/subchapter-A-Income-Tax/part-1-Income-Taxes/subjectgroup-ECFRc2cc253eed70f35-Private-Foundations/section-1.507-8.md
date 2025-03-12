@@ -1,0 +1,5 @@
+##### § 1.507-8 Liability in case of transfers. #####
+
+For purposes of determining liability for the tax imposed under section 507(c) in the case of assets transferred by the private foundation, such tax shall be deemed to have been imposed on the first day on which action is taken by the organization which culminates in its ceasing to be a private foundation. If an organization's private foundation status is terminated under section 507(a)(2), the first day on which action is taken which culminates in its ceasing to be a private foundation (within the meaning of section 507(f)) shall be the date described in § 1.507-7(b)(2). If an organization terminates its private foundation status under section 507(a)(1), the first day on which action is taken which culminates in its ceasing to be a private foundation (within the meaning of section 507(f)) shall be the date described in § 1.507-7(b)(1).
+
+[T.D. 7233, 37 FR 28161, Dec. 21, 1972]

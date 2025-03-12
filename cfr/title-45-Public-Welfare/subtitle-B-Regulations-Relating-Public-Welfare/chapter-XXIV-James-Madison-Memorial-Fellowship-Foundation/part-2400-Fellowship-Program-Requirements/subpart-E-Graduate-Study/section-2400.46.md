@@ -1,0 +1,5 @@
+##### § 2400.46 Special consideration: second master's degree. #####
+
+The Foundation may award Senior Fellowships to applicants who are seeking their second master's degrees providing that the applicants' first master's degree was obtained at least three years prior to the year in which the applicants would normally commence study under a fellowship. In evaluating applications from individuals intending to pursue a second master's degree, the Fellow Selection Committee will favor those applicants who are planning to become American history, American government, social studies, or political science teachers after having taught another subject and applicants whose initial master's degree was in a subject different from that sought under the second master's degree.
+
+[61 FR 46734, Sept. 5, 1996, as amended at 69 FR 11814, Mar. 12, 2004]

@@ -1,0 +1,5 @@
+##### § 75.406 Applicable credits. #####
+
+(a) Applicable credits refer to those receipts or reduction-of-expenditure-type transactions that offset or reduce expense items allocable to the Federal award as direct or indirect (F&A) costs. Examples of such transactions are: Purchase discounts, rebates or allowances, recoveries or indemnities on losses, insurance refunds or rebates, and adjustments of overpayments or erroneous charges. To the extent that such credits accruing to or received by the non-Federal entity relate to allowable costs, they must be credited to the Federal award either as a cost reduction or cash refund, as appropriate.
+
+(b) In some instances, the amounts received from the Federal Government to finance activities or service operations of the non-Federal entity should be treated as applicable credits. Specifically, the concept of netting such credit items (including any amounts used to meet cost sharing or matching requirements) must be recognized in determining the rates or amounts to be charged to the Federal award. (See §§ 75.436 and 75.468, for areas of potential application in the matter of Federal financing of activities.)

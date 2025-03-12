@@ -1,0 +1,3 @@
+##### § 594.508 Transactions related to telecommunications authorized. #####
+
+All transactions ordinarily incident to the receipt or transmission of telecommunications involving persons whose property or interests in property are blocked pursuant to § 594.201(a) are authorized, provided that any payment owed to any such person is paid into a blocked account in a U.S. financial institution. This section does not authorize the provision, sale, or lease to persons whose property or interests in property are blocked pursuant to § 594.201(a) of telecommunications equipment or technology; nor does it authorize the provision, sale, or leasing of capacity on telecommunications transmission facilities (such as satellite or terrestrial network connectivity).

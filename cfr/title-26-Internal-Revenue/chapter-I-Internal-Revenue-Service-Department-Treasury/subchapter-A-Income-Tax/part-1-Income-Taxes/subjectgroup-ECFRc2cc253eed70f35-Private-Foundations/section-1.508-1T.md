@@ -1,0 +1,21 @@
+##### § 1.508-1T Notices (temporary). #####
+
+(a)(1) [Reserved] For further guidance, see § 1.508-1(a)(1).
+
+(2) *Filing of notice.* (i) For purposes of paragraph (a)(1) of this section, except as provided in paragraph (a)(3) of this section, an organization seeking exemption under section 501(c)(3) must file the notice described in section 508(a) within 15 months from the end of the month in which the organization was organized, or before March 22, 1973, whichever comes later. Such notice is filed by submitting a properly completed and executed Form 1023 (or if applicable, Form 1023-EZ), exemption application. Notice should be filed with the appropriate office as designated by the Commissioner in guidance published in the Internal Revenue Bulletin, forms or instructions to the applicable forms. A request for extension of time for the filing of such notice should be submitted to such appropriate office. Such request may be granted if it demonstrates that additional time is required.
+
+(ii) Although the information required by either Form 1023 or Form 1023-EZ must be submitted to satisfy the notice required by this section, the failure to supply, within the required time, all of the information required to complete such form is not alone sufficient to deny exemption from the date of organization to the date such complete information for such form is submitted by the organization. If the information that is submitted within the required time is incomplete, and the organization supplies the necessary additional information at the request of the Commissioner within the additional time period allowed by him, the original notice will be considered timely.
+
+(iii) through (b)(2)(iii) [Reserved] For further guidance, see § 1.508-1(a)(2)(iii) through (b)(2)(iii).
+
+(iv) Any organization filing notice under this paragraph (b)(2)(iv) that has not received a ruling or determination letter from the Internal Revenue Service dated on or before July 13, 1970, recognizing its exemption from taxation under section 501(c)(3) (or the corresponding provisions of prior law), shall file its notice by submitting a properly completed and executed Form 1023 (or if applicable, Form 1023-EZ) and providing information that it is not a private foundation. The organization shall also submit all information required by the regulations under section 170 or 509 (whichever is applicable) necessary to establish recognition of its classification as an organization described in section 509(a)(1), (2), (3), or (4). A Form 1023 submitted prior to July 14, 1970, will satisfy this requirement if the organization submits an additional statement that it is not a private foundation together with all pertinent additional information required. Any statement filed under this paragraph (b)(2)(iv) shall be accompanied by a written declaration by the principal officer, manager or authorized trustee that there is a reasonable basis in law and in fact for the statement that the organization so filing is not a private foundation, and that to the best of the knowledge and belief of such officer, manager or trustee, the information submitted is complete and correct.
+
+(v) The notice filed under paragraph (b)(2)(ii) of this section should be filed in accordance with the instructions applicable to Form 4653. The notice required by paragraph (b)(2)(iv) of this section should be filed with the appropriate office as designated by the Commissioner in guidance published in the Internal Revenue Bulletin, forms, or instructions to the applicable forms. An extension of time for the filing of such notice may be granted by such office upon timely request by the organization, if the organization demonstrates that additional time is required.
+
+(b)(3) through (8) [Reserved] For further guidance, see § 1.508-1(b)(3) through (8).
+
+(c) *Effective/applicability date.* (1) Paragraphs (a)(2)(i), (a)(2)(ii), (b)(2)(iv), and (b)(2)(v) of this section apply on and after July 1, 2014.
+
+(2) *Expiration date.* Paragraphs (a)(2)(i), (a)(2)(ii), (b)(2)(iv), and (b)(2)(v) of this section expire on or before June 30, 2017.
+
+[T.D. 9674, 79 FR 37632, July 2, 2014; 79 FR 41886, July 18, 2014]

@@ -1,0 +1,91 @@
+##### § 53.4941(d)-4 Transitional rules. #####
+
+(a) *Certain transactions involving securities acquired by a foundation before May 27, 1969*—(1) *In general.* Under section 101(l)(2)(A) of the Tax Reform Act of 1969 (83 Stat. 533), any transaction between a private foundation and a corporation which is a disqualified person shall not be an act of self-dealing if such transaction is pursuant to the terms of securities of such corporation, if such terms were in existence at the time such securities were acquired by the foundation, and if such securities were acquired by the foundation before May 27, 1969.
+
+(2) *Example.* The provisions of this paragraph may be illustrated by the following example:
+
+Example.Private foundation X purchased preferred stock of corporation M, a disqualified person with respect to X, on March 15, 1969. The terms of such securities on such date provided that the stock could be called by M at any time if M paid the outstanding shareholders cash equal to 105 percent of the face amount of the stock. If M exercises this right and calls the stock owned by X on February 15, 1970, such call shall not constitute an act of self-dealing even if such price is not equivalent to fair market value on such date and even if not all of the securities of that class are called.
+
+(b) *Disposition of certain business holdings*—(1) *In general.* Under section 101(l)(2)(B) of the Tax Reform Act of 1969 (83 Stat. 533), the sale, exchange, or other disposition of property which is owned by a private foundation on May 26, 1969, to a disqualified person shall not be an act of self-dealing if the foundation is required to dispose of such property in order not to be liable for tax under section 4943 (determined without regard to section 4943(c)(2)(C) and as if every disposition by the foundation were made to disqualified persons) and if such disposition satisfies the requirements of subparagraph (2) of this paragraph. For purposes of applying this paragraph in the case of a disposition completed before January 1, 1975, or after October 4, 1976, and before January 1, 1977, the amount of excess business holdings is determined under section 4943(c) without taking subsection (c)(4) into account.
+
+(2) *Terms of the disposition.* Subparagraph (1) of this paragraph shall not apply unless:
+
+(i) The private foundation receives an amount which equals or exceeds the fair market value of the business holdings at the time of disposition or at the time a contract for such disposition was previously executed; and
+
+(ii) At the time with respect to which subdivision (i) of this subparagraph is applied, the transaction would not have constituted a prohibited transaction within the meaning of section 503(b) or the corresponding provisions of prior law if such provisions had been applied at such time.
+
+(3) *Property received under a trust or will.* For purposes of this paragraph, property shall be considered as owned by a private foundation on May 26, 1969, if such property is acquired by such foundation under the terms of a will executed on or before such date, under the terms of a trust which was irrevocable on such date, or under the terms of a revocable trust executed on or before such date if the property would have passed under a will which would have met the requirements of this subparagraph but for the fact that a grantor dies without having revoked the trust. An amendment or republication of a will which was executed on or before May 26, 1969, does not prevent any interest in a business enterprise which was to pass under the terms of such will (which terms were in effect on May 26, 1969, and at all times thereafter) from being treated as owned by a private foundation on or before May 26, 1969, solely because:
+
+(i) There is a reduction in the interest in the business enterprise which the foundation was to receive under the terms of the will (for example, if the foundation is to receive the residuary estate and one class of stock is disposed of by the decedent during his lifetime or by a subsequent codicil),
+
+(ii) Such amendment or republication is necessary in order to comply with section 508(e) and the regulations thereunder,
+
+(iii) There is a change in the executor of the will, or
+
+(iv) There is any other change which does not otherwise change the rights of the foundation with respect to such interest in the business enterprise.
+
+However, if under such amendment or republication there is an increase of the interest in the business enterprise which the foundation was to receive under the terms of the will in effect on May 26, 1969, such increase shall not be treated as owned by the private foundation on or before May 26, 1969, but under such circumstances the interest which would have been acquired before such increase shall be treated as owned by the private foundation on or before May 26, 1969.
+
+(4) *Examples.* The provisions of this paragraph may be illustrated by the following examples:
+
+Example 1.On May 26, 1969, private foundation X owns 10 percent of corporation Y's voting stock, which is traded on the New York Stock Exchange. Disqualified persons with respect to X own an additional 40 percent of such voting stock. X is on a calendar year basis. Prior to January 1, 1975, X privately sold its entire 10 percent for cash to B, a disqualified person, at the price quoted on the stock exchange at the close of the day less commissions. Since the 10 percent owned by X would constitute excess business holdings without the application of section 4943(c) (2)(C) or (4), the disposition will not constitute an act of self-dealing.Example 2.Assume the facts as stated in example (1), except that the only stock of corporation Y which X owns is 1.5 percent of Y's voting stock. Since the 1.5 percent owned by X would constitute excess business holdings without the application of section 4943(c) (2)(C) or (4), the disposition of the stock to B for cash will not constitute an act of self-dealing.Example 3.Assume the facts as stated in example (1), except that B, instead of paying cash as consideration for the stock, issued a 10-year secured promissory note as consideration for the stock. The issuance of such promissory note will not be treated as an act of self-dealing until taxable years beginning after December 31, 1979, unless such issuance would have been a prohibited transaction under section 503(b), or unless the transaction does not remain throughout its life at least as favorable as an arm's-length contract negotiated currently. See paragraph (c) of this section.
+
+(c) *Existing leases and loans*—(1) *In general.* Under section 101(1)(2)(C) of the Tax Reform Act of 1969 (83 Stat. 533), the leasing of property or the lending of money (or other extension of credit) between a disqualified person and a private foundation pursuant to a binding contract which was in effect on October 9, 1969 (or pursuant to a renewal or modification of such a contract, as described in subparagraph (2) of this paragraph), shall not be an act of self-dealing until taxable years beginning after December 31, 1979, if:
+
+(i) At the time the contract was executed, such contract was not a prohibited transaction (within the meaning of section 503(b) or the corresponding provisions of prior law), and
+
+(ii) The leasing or lending of money (or other extension of credit) remains throughout the term of the lease or extension of credit at least as favorable as a current arm's-length transaction with an unrelated person.
+
+(2) *Renewal or modification of existing contracts.* A renewal or a modification of an existing contract is referred to in subparagraph (1) of this paragraph only if any modifications of the terms of such contract are not substantial and the relative advantages of the modified contract compared with contracts entered into at arm's-length with an unrelated person at the time of the renewal or modification are at least as favorable to the private foundation as the relative advantages of the original contract compared with contracts entered into at arm's-length with an unrelated person at the time of execution of the original contract. Such renewal or modification need not be provided for in the original contract; it may take place before or after the expiration of the original contract and at any time before the first day of the first taxable year of the private foundation beginning after December 31, 1979. Where, in a normal commercial setting, an unrelated party in the position of a private foundation could be expected to insist upon a renegotiation or termination of a binding contract, the private foundation must so act. Thus, for example, if a disqualified person leases office space from a private foundation on a month-to-month basis, and a party in the position of the private foundation could be expected to renegotiate the rent required in such contract because of a rise in the fair market value of such office space, the private foundation must so act in order to avoid participation in an act of self-dealing. Where the private foundation has no right to insist upon renegotiation, an act of self-dealing shall occur if the terms of the contract become less favorable to the foundation than an arm's-length contract negotiated currently, unless:
+
+(i) The variation from current fair market value is de minimis, or
+
+(ii) The contract is renegotiated by the foundation and the disqualified person so that the foundation will receive no less than fair market value. For purposes of subdivision (i) of this subparagraph de minimis ordinarily shall be no more than one-half of 1 percent in the rate of return in the case of a loan, or 10 percent of the rent in the case of a lease.
+
+(3) *Example.* The provisions of subparagraphs (1) and (2) of this paragraph may be illustrated by the following example.
+
+Example.Under a binding contract entered into on January 1, 1964, X, a private foundation, leases a building for 10 years from Z, a disqualified person. At the time the contract was executed, the lease was not a “prohibited transaction” within the meaning of section 503(b), since the rent charged X was only 50 percent of the rent which would have been charged in an arm's-length transaction with an unrelated person. On January 1, 1974, X renewed the lease for 5 additional years. The terms of the renewal agreement provided for a 20 percent increase in the amount of rent charged X. However, at the time of such renewal, the rent which would have been charged in an arm's-length transaction had also increased by 20 percent from that of 1964. The renewal agreement shall not be treated as an act of self-dealing.
+
+(4) *Certain exchanges of stock or securities for bonds, debentures or other indebtedness.* (i) In the case of a transaction described in paragraph (a) or (b) of this section or paragraph (d) of § 53.4941(d)-3, where a bond, debenture, or other indebtedness of a disqualified person is acquired by a private foundation in exchange for stock or securities which it held on October 9, 1969, and at all times thereafter, such indebtedness shall be treated as an extension of credit pursuant to a binding contract in effect on October 9, 1969, to which this paragraph applies. Thus, so long as the extension of credit remains at least as favorable as an arm's-length transaction with an unrelated person and neither the acquisition of the securities which were exchanged for the indebtedness nor the exchange of such securities for the indebtedness was a prohibited transaction within the meaning of section 503(b) (or the corresponding provisions of prior law) at the time of such acquisition, such extension of credit shall not be an act of self-dealing until taxable years beginning after December 31, 1979.
+
+(ii) The provisions of this subparagraph may be illustrated by the following examples:
+
+Example 1.Assume the facts as stated in example (2) of § 53.4941 (d)-3 (d)(2), except that the preferred stock was held by Y on October 9, 1969, and at all times thereafter until the redemption occurred on January 2, 1972. In addition, assume that the acquisition of the preferred stock was not a prohibited transaction within the meaning of section 503(b) at the time of such acquisition and the exchange of the preferred stock for the debentures would not have been a prohibited transaction within the meaning of section 503(b). For 1973 through 1979, the extension of credit arising from the holding of the debentures is not an act of self-dealing so long as the extension of credit remains at least as favorable as an arm's-length transaction with an unrelated person. See, however, example (3) of § 53.4941 (e)-1 (e)(1)(ii).Example 2.Assume the same facts as stated in example (1) of § 53.4941 (d)-4 (b)(4), except that private foundation X sold its entire 10 percent of corporation Y's voting stock in exchange for Y's secured notes which mature on December 31, 1985. For taxable years beginning before January 1, 1980, the extension of credit arising from the holding of such notes by X is not an act of self-dealing so long as the extension of credit remains at least as favorable as an arm's-length transaction with an unrelated person and neither the acquisition of the securities which were exchanged for the indebtedness nor the exchange of such securities for the indebtedness was a prohibited transaction within the meaning of section 503(b) (or the corresponding provisions of prior law). Under § 53.4941(e)-1, a new extension of credit occurs on the first day of each taxable year in which an indebtedness is outstanding; therefore, if the secured notes are held by X after December 31, 1979, a new extension of credit not excepted from the definition of an act of self-dealing will occur on the first day of the first taxable year beginning after December 31, 1979, and on the first day of each succeeding taxable year in which X holds such secured notes.
+
+(d) *Sharing of goods, services, or facilities before January 1, 1980.* (1) Under section 101(1)(2)(D) of the Tax Reform Act of 1969 (83 Stat. 533), the use (other than leasing) of goods, services, or facilities which are shared by a private foundation and a disqualified person shall not be an act of self-dealing until taxable years beginning after December 31, 1979, if:
+
+(i) The use is pursuant to an arrangement in effect before October 9, 1969, and at all times thereafter;
+
+(ii) The arrangement was not a prohibited transaction (within the meaning of sec. 503(b) or the corresponding provisions of prior law) at the time it was made; and
+
+(iii) The arrangement would not be a prohibited transaction if section 503(b) continued to apply.
+
+For purposes of this paragraph, such arrangement need not be a binding contract.
+
+(2) The provisions of this paragraph may be illustrated by the following example:
+
+Example.In 1964 X, a private foundation, and B, a disqualified person, arranged for the sharing of computer time in B's son's company for a 10-year period commencing January 1, 1965. B's son has the unilateral right to terminate the arrangement at any time. X uses the computer facilities in connection with an analysis of its grant-making activities, while B's use is related to his business affairs. Both X and B make reasonable fixed payments to the computer company based on the number of hours of computer use and comparable to fees charged in arm's-length transactions with unrelated parties. The company imposes a maximum limit per month on the sum of the number of hours for which X and B use the computer facilities. Under these circumstances, the sharing of computer time is not an act of self-dealing.
+
+(e) *Use of certain property acquired before October 9, 1969.* (1) Under section 101(1)(2)(E) of the Tax Reform Act of 1969 (83 Stat. 533), the use of property in which a private foundation and a disqualified person have a joint or common interest will not be an act of self-dealing if the interests of both in such property were acquired before October 9, 1969.
+
+(2) The provisions of this paragraph may be illustrated by the following example:
+
+Example.Prior to October 9, 1969, C, a disqualified person, gave beachfront property to private foundation X for use as a recreational facility for underprivileged, inner-city children during the summer months. However, C retained the right to use such property for his life. The use of such property by C or X is not an act of self-dealing.
+
+(f) *Disposition of leased property*—(1) *In general.* Under section 101(l)(2)(F) of the Tax Reform Act of 1969, as amended by the Tax Reform Act of 1976 (90 Stat. 1713), the sale, exchange or other disposition (other than by lease) to a disqualified person of property being leased to the disqualified person by a private foundation is not an act of self-dealing if:
+
+(i) The private foundation is leasing substantially all of the property to the disqualified person under a lease to which paragraph (c) of this section applies;
+
+(ii) The disposition occurs after October 4, 1976, and before January 1, 1978; and
+
+(iii) The disposition satisfies the requirements of paragraph (f)(2) of this section.
+
+(2) *Terms of disposition.* Paragraph (f)(1) of this section applies only if:
+
+(i) The private foundation receives an amount that equals or exceeds the fair market value of the property either at the time of the disposition or at the time (after June 30, 1976) the contract for such disposition was executed;
+
+(ii) In computing the fair market value of the property, no diminution of that value results from the fact that the property is subject to any lease to disqualified persons; and
+
+(iii) At the time with respect to which paragraph (f)(2)(i) of this section is applied, the transaction would not have constituted a prohibited transaction within the meaning of section 503(b) or the corresponding provisions of prior law if those provisions had been applied at the time of the transaction.
+
+[T.D. 7270, 38 FR 9493, Apr. 17, 1973, as amended by T.D. 7678, 45 FR 12416, Feb. 26, 1980]

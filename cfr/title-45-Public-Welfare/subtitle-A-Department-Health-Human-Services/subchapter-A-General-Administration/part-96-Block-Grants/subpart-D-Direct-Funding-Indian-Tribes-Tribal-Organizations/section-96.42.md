@@ -1,0 +1,15 @@
+##### § 96.42 General procedures and requirements. #####
+
+(a) An Indian tribe or tribal organization applying for or receiving direct funding from the Secretary under a block grant program shall be subject to all statutory and regulatory requirements applicable to a State applying for or receiving block grant funds to the extent that such requirements are relevant to an Indian tribe or tribal organization except where otherwise provided by statute or in this part.
+
+(b) A tribal organization representing more than one Indian tribe will be eligible to receive block grant funds on behalf of a particular tribe only if the tribe has by resolution authorized the organization's action.
+
+(c) If an Indian tribe or tribal organization whose service population resides in more than one State applies for block grant funds that, by statute, are apportioned on the basis of population, the allotment awarded to the tribe or organization shall be taken from the allotments of the various States in which the service population resides in proportion to the number of eligible members or households to be served in each State. If block grant funds are required to be apportioned on the basis of grants during a base year, the allotment to the Indian tribe or tribal organization shall be taken from the allotment of the State whose base year grants included the relevant grants to the tribe or organization.
+
+(d) The audit required under the block grant programs shall be conducted by an entity that is independent of the Indian tribe or tribal organization receiving grant funds from the Secretary.
+
+(e) Beginning with fiscal year 1983, any request by an Indian tribe or tribal organization for direct funding by the Secretary must be submitted to the Secretary, together with the required application and related materials, by September 1 preceding the Federal fiscal year for which funds are sought. A separate application is required for each block grant. After the September 1 deadline, tribal applications will be accepted only with the concurrence of the State (or States) in which the tribe or tribal organization is located.
+
+(f) A State receiving block grant funds is not required to use those funds to provide tangible benefits (e.g., cash or goods) to Indians who are within the service population of an Indian tribe or tribal organization that received direct funding from the Department under the same block grant program for the same fiscal year. A State, however, may not deny Indians access to intangible services funded by block grant programs (e.g., treatment at a community health center) even if the Indians are members of a tribe receiving direct funding for a similar service. A tribe receiving direct block grant funding is not required to use those funds to provide tangible benefits to non-Indians living within the tribe's service area unless the tribe and the State(s) in which the tribe is located agree in writing that the tribe will do so.
+
+[47 FR 29486, July 6, 1982, as amended at 52 FR 37966, Oct. 13, 1987; 64 FR 55857, Oct. 15, 1999]

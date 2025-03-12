@@ -1,0 +1,3 @@
+##### § 1.652(c)-3 Termination of existence of other beneficiaries. #####
+
+If the existence of a beneficiary which is not an individual terminates, the amount to be included under section 652(a) in its gross income for its last taxable year is computed with reference to §§ 1.652(c)-1 and 1.652(c)-2 as if the beneficiary were a deceased individual, except that income required to be distributed prior to the termination but actually distributed to the beneficiary's successor in interest is included in the beneficiary's income for its last taxable year.

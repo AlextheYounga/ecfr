@@ -1,0 +1,3 @@
+##### § 337.13 Payment of mortgage insurance premiums. #####
+
+When book-entry debentures are being purchased prior to maturity to pay for mortgage insurance premiums, the difference between the amount of the debentures purchased and the mortgage insurance premiums shall be issued to the owner in the form of a book-entry debenture in the exact amount of such difference, provided it is one dollar ($1.00) or more.

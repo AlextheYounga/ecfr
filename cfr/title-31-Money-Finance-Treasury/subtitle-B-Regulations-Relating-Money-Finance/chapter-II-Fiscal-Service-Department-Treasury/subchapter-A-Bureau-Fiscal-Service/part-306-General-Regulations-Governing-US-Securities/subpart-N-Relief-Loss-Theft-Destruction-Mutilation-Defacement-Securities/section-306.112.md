@@ -1,0 +1,7 @@
+##### § 306.112 Type of relief granted. #####
+
+(a) *Prior to call or maturity.* After a claim on account of the loss, theft, destruction, mutilation, or defacement of a security which has not matured or been called has been satisfactorily established and the conditions for granting relief have been met, a security of like description will be issued to replace the original security.
+
+(b) *At or after call or maturity.* Payment will be made on account of the loss, theft, destruction, mutilation, or defacement of a called or matured security after the claim has been satisfactorily established and the conditions for granting relief have been met.
+
+(c) *Interest coupons.* Where relief has been authorized on account of a destroyed, mutilated or defaced coupon security which has not matured or been called, the replacement security will have attached all unmatured interest coupons if it is established to the satisfaction of the Secretary of the Treasury that the coupons were attached to the original security at the time of its destruction, mutilation or defacement. In every other case only those unmatured interest coupons for which the Department has received payment will be attached. The price of the coupons will be their value as determined by the Department at the time relief is authorized using interest rate factors based on then current market yields on Treasury securities of comparable maturities.

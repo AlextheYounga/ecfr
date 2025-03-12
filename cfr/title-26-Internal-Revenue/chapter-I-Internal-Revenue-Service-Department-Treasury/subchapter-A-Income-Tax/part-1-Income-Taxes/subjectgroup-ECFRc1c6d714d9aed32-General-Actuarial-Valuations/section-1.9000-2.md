@@ -1,0 +1,5 @@
+##### § 1.9000-2 Effect of repeal in general. #####
+
+(a) Section 452 (relating to prepaid income) and section 462 (relating to reserves for estimated expenses) of the Internal Revenue Code of 1954 were repealed by the Act of June 15, 1955 (Pub. L. 74, 84th Cong., 69 Stat. 134), with respect to all years subject to such Code. The effect of the repeal will generally be to increase the tax liability of taxpayers who elected to adopt the methods of accounting provided by sections 452 and 462. References to sections of law in §§ 1.9000-2 to 1.9000-8, inclusive, are references to the Internal Revenue Code of 1954 unless otherwise specified.
+
+(b) The Act of June 15, 1955, provides that if the amount of any tax is increased by the repeal of sections 452 and 462 and if the last date prescribed for the payment of such tax (or any installment thereof) is before December 15, 1955, then the taxpayer shall on or before such date file a statement as prescribed in § 1.9000-3. The last date prescribed for payment for this purpose shall be determined without regard to any extensions of time and without regard to the provisions of the Act of June 15, 1955.

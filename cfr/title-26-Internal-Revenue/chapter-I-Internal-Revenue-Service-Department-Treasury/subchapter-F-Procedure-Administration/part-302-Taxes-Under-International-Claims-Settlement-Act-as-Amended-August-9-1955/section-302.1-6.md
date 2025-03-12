@@ -1,0 +1,5 @@
+##### § 302.1-6 Interest and penalties. #####
+
+(a) *Liability for interest and civil penalties.* Under subsection (d) of section 212 of the Act there is no liability for interest or penalty on account of any act or failure of the Attorney General. Such subsection is not applicable to interest or penalties payable in respect of any act or failure during the period prior to the vesting of the property by the Attorney General, or after the return of the property, or during the period during which the property was vested by the Attorney General on account of an act or ommission of any person other than the Attorney General.
+
+(b) *Adjustment.* In case of any assessment or collection, or credit or refund, of interest or a civil penalty contrary to section 212 (c) or (d) of the Act, proper adjustment shall be made.

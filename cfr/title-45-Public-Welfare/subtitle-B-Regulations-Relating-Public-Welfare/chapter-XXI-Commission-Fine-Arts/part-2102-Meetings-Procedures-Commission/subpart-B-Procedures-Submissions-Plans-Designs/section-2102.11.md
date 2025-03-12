@@ -1,0 +1,3 @@
+##### § 2102.11 Scope and content of submissions for proposed medals, insignia, coins, seals, and the like. #####
+
+Each submission of the design for a proposed item which is within the Commission's purview under § 2101.1 (d) should identify the sponsoring government unit and disclose the uses and purpose of the item, the size and forms in which it will be produced, and the materials and finishes to be used, including colors if any, along with a sketch, model, or prototype.

@@ -1,0 +1,3 @@
+##### § 315.30 Series E bonds and savings notes. #####
+
+Series E bonds and savings notes are discount securities. The accrued interest is added to the issue price at stated intervals and is payable only at redemption as part of the redemption value. All Series E bonds and savings notes have been extended and continue to earn interest until their final maturity dates, unless redeemed earlier. Information regarding extended maturity periods, investment yields and redemption values is found in Department of the Treasury Circular No. 653, current revision (31 CFR part 316) for Series E bonds, and in Department of the Treasury Circular, Fiscal Service Series No. 3-67, current revision (31 CFR part 342) for savings notes.

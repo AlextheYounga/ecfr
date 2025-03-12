@@ -1,0 +1,5 @@
+##### § 75.309 Period of performance and availability of funds. #####
+
+(a) A non-Federal entity may charge to the Federal award only allowable costs incurred during the period of performance (except as described in § 75.461) and any costs incurred before the HHS awarding agency or pass-through entity made the Federal award that were authorized by the Federal awarding agency or pass-through entity. Funds available to pay allowable costs during the period of performance include both Federal funds awarded and carryover balances.
+
+(b) A non-Federal entity must liquidate all obligations incurred under the award not later than 90 days after the end of the funding period (or as specified in a program regulation) to coincide with the submission of the final Federal Financial Report (FFR). This deadline may be extended with prior written approval from the HHS awarding agency.

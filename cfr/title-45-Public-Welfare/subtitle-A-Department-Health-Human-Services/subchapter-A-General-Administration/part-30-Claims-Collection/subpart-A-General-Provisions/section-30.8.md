@@ -1,0 +1,3 @@
+##### § 30.8 Required administrative proceedings. #####
+
+This part does not supersede, or require omission or duplication of administrative proceedings required by contract, or other laws or regulations. See for example, 42 CFR part 50 (Public Health Service), 45 CFR part 16 (Departmental Grant Appeals Board), and 48 CFR part 33 (Federal Acquisition Regulation) and part 333 (HHS Acquisition Regulation).

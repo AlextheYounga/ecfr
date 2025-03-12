@@ -1,0 +1,5 @@
+##### § 1.103-5 Treasury bond exemption in the case of trusts or partnerships. #####
+
+(a) When the income of a trust is taxable to beneficiaries, as in the case of a trust the income of which is to be distributed to the beneficiaries currently, each beneficiary is entitled to exemption as if he owned directly a proportionate part of the Treasury bonds held in trust. When, on the other hand, income is taxable to the trustee, as in the case of a trust the income of which is accumulated for the benefit of unborn or unascertained persons, the trust, as the owner of the bonds held in trust, is entitled to the exemption on account of such ownership. In general, see sections 652(b) and 662(b) and the regulations thereunder.
+
+(b) As the income of a partnership is taxable to the individual partners, each partner is entitled to exemption as if he owned directly a proportionate part of the bonds held by the partnership. For rules relating to partially tax-exempt interest see section 702(a)(7) and the regulations thereunder.

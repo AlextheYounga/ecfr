@@ -1,0 +1,3 @@
+##### § 256.33 For what period of time is interest computed under 31 U.S.C. 1304(b)? #####
+
+Interest is computed from the date that Fiscal Service receives the copy of the judgment until the date preceding the appellate court's affirmative ruling. If the United States files a Notice of Appeal which it later withdraws, interest is paid on the award through the date before the withdrawal of the Notice of Appeal.

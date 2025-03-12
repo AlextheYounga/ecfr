@@ -1,0 +1,3 @@
+##### § 562.802 Delegation by the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13553 of September 28, 2010 (75 FR 60567, October 1, 2010), and any further Executive orders relating to the national emergency declared in Executive Order 12957, may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

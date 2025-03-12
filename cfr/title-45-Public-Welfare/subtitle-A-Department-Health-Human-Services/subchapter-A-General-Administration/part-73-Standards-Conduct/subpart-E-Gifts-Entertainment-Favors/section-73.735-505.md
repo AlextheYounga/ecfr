@@ -1,0 +1,7 @@
+##### § 73.735-505 Acceptance of awards and prizes. #####
+
+(a) Employees may accept awards, including cash awards, given in recognition of a meritorious public contribution or achievement. However, if there is any indication that the award may improperly influence the employee in the performance of his or her offical duties, advice about the acceptance of it should be sought from a deputy ethics counselor. Also, an employee may not accept an award from an organization which the employee knows, or should know, has a contractual or other business arrangement with, or is regulated by, the principal operating component, or a sub-unit, in which he or she is employed or with respect to which the employee has official duties, unless acceptance is approved by the head of the employee's principal operating component. The head of the component may not approve acceptance unless he or she is satisfied that no actual conflict of interest would result.
+
+(b) Employees may generally accept trophies, entertainment, rewards, and prizes given to competitors in contests or events which are open to the public.
+
+(c) Employees may not accept gifts, awards, decorations or other things of value from a foreign government except as provided in § 73.735-506.

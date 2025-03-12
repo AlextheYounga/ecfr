@@ -1,0 +1,5 @@
+##### § 1.511-1 Imposition and rates of tax. #####
+
+Section 511(a) imposes a tax upon the unrelated business taxable income of certain organizations otherwise exempt from Federal income tax. Under section 511(a)(1), organizations described in section 511(a)(2)(A) and in paragraph (a) of § 1.511-2 and organizations described in section 511(a)(2)(B) are subject to normal tax and surtax at the corporate rates provided by section 11. Under section 511(b)(1), trusts described in section 511(b)(2) are subject to tax at the individual rates prescribed in section 1(d) of the Code as amended by the Tax Reform Act of 1969 (section 1 for taxable years ending before Jan. 1, 1971). The deduction for personal exemption provided in section 642(b) in the case of a trust taxable under subchapter J, chapter 1 of the Code, is not allowed in computing unrelated business taxable income.
+
+[T.D. 7117, 36 FR 9421, May 25, 1971]

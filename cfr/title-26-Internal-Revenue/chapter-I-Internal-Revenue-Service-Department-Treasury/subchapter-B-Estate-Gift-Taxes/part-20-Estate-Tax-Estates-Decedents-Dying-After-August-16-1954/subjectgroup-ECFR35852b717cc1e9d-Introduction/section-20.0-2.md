@@ -1,0 +1,27 @@
+##### § 20.0-2 General description of tax. #####
+
+(a) *Nature of tax.* The Federal estate tax is neither a property tax nor an inheritance tax. It is a tax imposed upon the transfer of the entire taxable estate and not upon any particular legacy, devise, or distributive share. Escheat of a decedent's property to the State for lack of heirs is a transfer which causes the property to be included in the decedent's gross estate.
+
+(b) *Method of determining tax; estate of citizen or resident*—(1) *In general.* Subparagraphs (2) to (5) of this paragraph contain a general description of the method to be used in determining the Federal estate tax imposed upon the transfer of the estate of a decedent who was a citizen or resident of the United States at the time of his death.
+
+(2) *Gross estate.* The first step in determining the tax is to ascertain the total value of the decedent's gross estate. The value of the gross estate includes the value of all property to the extent of the interest therein of the decedent at the time of his death. (For certain exceptions in the case of real property situated outside the United States, see paragraphs (a) and (c) of § 20.2031-1.) In addition, the gross estate may include property in which the decedent did not have an interest at the time of his death. A decedent's gross estate for Federal estate tax purposes may therefore be very different from the same decedent's estate for local probate purposes. Examples of items which may be included in a decedent's gross estate and not in his probate estate are the following: certain property transferred by the decedent during his lifetime without adequate consideration; property held jointly by the decedent and others; property over which the decedent had a general power of appointment; proceeds of certain policies of insurance on the decedent's life; annuities; and dower or curtesy of a surviving spouse or a statutory estate in lieu thereof. For a detailed explanation of the method of ascertaining the value of the gross estate, see sections 2031 through 2044, and the regulations thereunder.
+
+(3) *Taxable estate.* The second step in determining the tax is to ascertain the value of the decedent's taxable estate. The value of the taxable estate is determined by subtracting from the value of the gross estate the authorized exemption and deductions. Under various conditions and limitations, deductions are allowable for expenses, indebtedness, taxes, losses, charitable transfers, and transfers to a surviving spouse. For a detailed explanation of the method of ascertaining the value of the taxable estate, see sections 2051 through 2056, and the regulations thereunder.
+
+(4) *Gross estate tax.* The third step is the determination of the gross estate tax. This is accomplished by the application of certain rates to the value of the decedent's taxable estate. In this connection, see section 2001 and the regulations thereunder.
+
+(5) *Net estate tax payable.* The final step is the determination of the net estate tax payable. This is done by subtracting from the gross estate tax the authorized credits against tax. Under certain conditions and limitations, credits are allowable for the following (computed in the order stated below):
+
+(i) State death taxes paid in connection with the decedent's estate (section 2011);
+
+(ii) Gift taxes paid on inter-vivos transfers by the decedent of property included in his gross estate (section 2012);
+
+(iii) Foreign death taxes paid in connection with the decedent's estate (section 2014); and
+
+(iv) Federal estate taxes paid on transfers of property to the decedent (section 2013).
+
+Sections 25.2701-5 and 25.2702-6 of this chapter contain rules that provide additional adjustments to mitigate double taxation in cases where the amount of the decedent's gift was previously determined under the special valuation provisions of sections 2701 and 2702. For a detailed explanation of the credits against tax, see sections 201l through 2016 and the regulations thereunder.
+
+(c) *Method of determining tax; estate of nonresident not a citizen.* In general, the method to be used in determining the Federal estate tax imposed upon the transfer of an estate of a decedent who was a nonresident not a citizen of the United States is similar to that described in paragraph (b) of this section with respect to the estate of a citizen or resident. Briefly stated, the steps are as follows: First, ascertain the sum of the value of that part of the decedent's “entire gross estate” which at the time of his death was situated in the United States (see §§ 20.2103-1 and 20.2014-1) and, in the case of an estate of an expatriate to which section 2107 applies, any amounts includible in his gross estate under section 2107(b) (see paragraph (b) of § 20.2107-1); second, determine the value of the taxable estate by subtracting from the amount determined under the first step the amount of the allowable deductions (see § 20.2106-1); third, compute the gross estate tax on the taxable estate (see § 20.2106-1); and fourth, subtract from the gross estate tax the total amount of any allowable credits in order to arrive at the net estate tax payable (see § 20.2102-1 and paragraph (c) of § 20.2107-1).
+
+[T.D. 6296, 23 FR 4529, June 24, 1958, as amended by T.D. 6684, 28 FR 11408, Oct. 24, 1963; T.D. 7296, 38 FR 34191, Dec. 12, 1973; T.D. 8395, 57 FR 4254, Feb. 4, 1992]

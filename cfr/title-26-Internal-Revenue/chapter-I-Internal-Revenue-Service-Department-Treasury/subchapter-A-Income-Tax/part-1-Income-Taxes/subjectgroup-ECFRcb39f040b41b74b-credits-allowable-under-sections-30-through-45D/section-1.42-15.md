@@ -1,0 +1,43 @@
+##### § 1.42-15 Available unit rule. #####
+
+(a) *Definitions.* The following definitions apply to this section:
+
+*Applicable income limitation* means the limitation applicable under section 42(g)(1) or, for deep rent skewed projects described in section 142(d)(4)(B), 40 percent of area median gross income.
+
+*Available unit rule* means the rule in section 42(g)(2)(D)(ii).
+
+*Comparable unit* means a residential unit in a low-income building that is comparably sized or smaller than an over-income unit or, for deep rent skewed projects described in section 142(d)(4)(B), any low-income unit. For purposes of determining whether a residential unit is comparably sized, a comparable unit must be measured by the same method used to determine qualified basis for the credit year in which the comparable unit became available.
+
+*Current resident* means a person who is living in the low-income building.
+
+*Low-income unit* is defined by section 42(i)(3)(A).
+
+*Nonqualified resident* means a new occupant or occupants whose aggregate income exceeds the applicable income limitation.
+
+*Over-income unit* means a low-income unit in which the aggregate income of the occupants of the unit increases above 140 percent of the applicable income limitation under section 42(g)(1), or above 170 percent of the applicable income limitation for deep rent skewed projects described in section 142(d)(4)(B).
+
+*Qualified resident* means an occupant either whose aggregate income (combined with the income of all other occupants of the unit) does not exceed the applicable income limitation and who is otherwise a low-income resident under section 42, or who is a current resident.
+
+(b) *General section 42(g)(2)(D)(i) rule.* Except as provided in paragraph (c) of this section, notwithstanding an increase in the income of the occupants of a low-income unit above the applicable income limitation, if the income of the occupants initially met the applicable income limitation, and the unit continues to be rent-restricted -
+
+(1) The unit continues to be treated as a low-income unit; and
+
+(2) The unit continues to be included in the numerator and the denominator of the ratio used to determine whether a project satisfies the applicable minimum set-aside requirement of section 42(g)(1).
+
+(c) *Exception.* A unit ceases to be treated as a low-income unit if it becomes an over-income unit and a nonqualified resident occupies any comparable unit that is available or that subsequently becomes available in the same low-income building. In other words, the owner of a low-income building must rent to qualified residents all comparable units that are available or that subsequently become available in the same building to continue treating the over-income unit as a low-income unit. Once the percentage of low-income units in a building (excluding the over-income units) equals the percentage of low-income units on which the credit is based, failure to maintain the over-income units as low-income units has no immediate significance. The failure to maintain the over-income units as low-income units, however, may affect the decision of whether or not to rent a particular available unit at market rate at a later time. A unit is not available for purposes of the available unit rule when the unit is no longer available for rent due to contractual arrangements that are binding under local law (for example, a unit is not available if it is subject to a preliminary reservation that is binding on the owner under local law prior to the date a lease is signed or the unit is occupied).
+
+(d) *Effect of current resident moving within building.* When a current resident moves to a different unit within the building, the newly occupied unit adopts the status of the vacated unit. Thus, if a current resident, whose income exceeds the applicable income limitation, moves from an over-income unit to a vacant unit in the same building, the newly occupied unit is treated as an over-income unit. The vacated unit assumes the status the newly occupied unit had immediately before it was occupied by the current resident.
+
+(e) *Available unit rule applies separately to each building in a project.* In a project containing more than one low-income building, the available unit rule applies separately to each building.
+
+(f) *Result of noncompliance with available unit rule.* If any comparable unit that is available or that subsequently becomes available is rented to a nonqualified resident, all over-income units for which the available unit was a comparable unit within the same building lose their status as low-income units; thus, comparably sized or larger over-income units would lose their status as low-income units.
+
+(g) *Relationship to tax-exempt bond provisions.* Financing arrangements that purport to be exempt-facility bonds under section 142 must meet the requirements of sections 103 and 141 through 150 for interest on the obligations to be excluded from gross income under section 103(a). This section is not intended as an interpretation under section 142.
+
+(h) *Examples.* The following examples illustrate this section:
+
+Example 1.This example illustrates noncompliance with the available unit rule in a low-income building containing three over-income units. On January 1, 1998, a qualified low-income housing project, consisting of one building containing ten identically sized residential units, received a housing credit dollar amount allocation from a state housing credit agency for five low-income units. By the close of 1998, the first year of the credit period, the project satisfied the minimum set-aside requirement of section 42(g)(1)(B). Units 1, 2, 3, 4, and 5 were occupied by individuals whose incomes did not exceed the income limitation applicable under section 42(g)(1) and were otherwise low-income residents under section 42. Units 6, 7, 8, and 9 were occupied by market-rate tenants. Unit 10 was vacant. To avoid recapture of credit, the project owner must maintain five of the units as low-income units. On November 1, 1999, the certificates of annual income state that annual incomes of the individuals in Units 1, 2, and 3 increased above 140 percent of the income limitation applicable under section 42(g)(1), causing those units to become over-income units. On November 30, 1999, Units 8 and 9 became vacant. On December 1, 1999, the project owner rented Units 8 and 9 to qualified residents who were not current residents at rates meeting the rent restriction requirements of section 42(g)(2). On December 31, 1999, the project owner rented Unit 10 to a market-rate tenant. Because Unit 10, an available comparable unit, was leased to a market-rate tenant, Units 1, 2, and 3 ceased to be treated as low-income units. On that date, Units 4, 5, 8, and 9 were the only remaining low-income units. Because the project owner did not maintain five of the residential units as low-income units, the qualified basis in the building is reduced, and credit must be recaptured. If the project owner had rented Unit 10 to a qualified resident who was not a current resident, eight of the units would be low-income units. At that time, Units 1, 2, and 3, the over-income units, could be rented to market-rate tenants because the building would still contain five low-income units.Example 2.This example illustrates the provisions of paragraph (d) of this section. A low-income project consists of one six-floor building. The residential units in the building are identically sized. The building contains two over-income units on the sixth floor and two vacant units on the first floor. The project owner, desiring to maintain the over-income units as low-income units, wants to rent the available units to qualified residents. J, a resident of one of the over-income units, wishes to occupy a unit on the first floor. J's income has recently increased above the applicable income limitation. The project owner permits J to move into one of the units on the first floor. Despite J's income exceeding the applicable income limitation, J is a qualified resident under the available unit rule because J is a current resident of the building. The unit newly occupied by J becomes an over-income unit under the available unit rule. The unit vacated by J assumes the status the newly occupied unit had immediately before J occupied the unit. The over-income units in the building continue to be treated as low-income units.
+
+(i) *Effective date.* This section applies to leases entered into or renewed on and after September 26, 1997.
+
+[T.D. 8732, 62 FR 50505, Sept. 26, 1997]

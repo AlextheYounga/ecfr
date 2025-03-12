@@ -1,0 +1,3 @@
+##### § 560.317 Credits or loans. #####
+
+The term *credits* or *loans* means any transfer or extension of funds or credit on a basis of an obligation to repay, or any assumption or guarantee of the obligation of another to repay an extension of funds or credit, including but not limited to: Overdrafts; currency swaps; purchases of debt securities issued by the Government of Iran; purchases of a loan made by another person; sales of financial assets subject to an agreement to repurchase; renewals or refinancings whereby funds or credits are transferred to or extended to a prohibited borrower or prohibited recipient; the issuance of standby letters of credit; and drawdowns on existing lines of credit.

@@ -1,0 +1,3 @@
+##### § 97.14 How will grant awards be made? #####
+
+The Secretary, or his designee, will award a consolidated grant to each insular area that applies for a consolidated grant and meets the requirements of this part and of the statutes and regulations applicable to the programs under whose authority the consolidated grant funds will be expended. As long as the amount requested does not exceed the amount for which the insular area is eligible under the programs that are being consolidated, the amount of the award will equal the amount requested in the application.

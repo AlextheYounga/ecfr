@@ -1,0 +1,11 @@
+##### § 501.714 Answer to Order Instituting Proceedings. #####
+
+(a) *When required.* Not later than 45 days after service of the Order Instituting Proceedings, the respondent shall file, with the Administrative Law Judge and the Office of Chief Counsel, an answer to each of the allegations contained therein. If the Order Instituting Proceedings is amended, the Administrative Law Judge may require that an amended answer be filed and, if such an answer is required, shall specify a date for the filing thereof.
+
+(b) *Contents; effect of failure to deny.* Unless otherwise directed by the Administrative Law Judge, an answer shall specifically admit, deny, or state that the respondent does not have, and is unable to obtain, sufficient information to admit or deny each allegation in the Order Instituting Proceedings. When a respondent intends to deny only a part of an allegation, the respondent shall specify so much of it as is true and shall deny only the remainder. A statement of lack of information shall have the effect of a denial. A defense of res judicata, statute of limitations or any other matter constituting an affirmative defense shall be asserted in the answer. Any allegation not specifically addressed in the answer shall be deemed admitted.
+
+(c) *Motion for more definite statement.* A respondent may file with an answer a motion for a more definite statement of specified matters of fact or law to be considered or determined. Such motion shall state the respects in which, and the reasons why, each such matter of fact or law should be required to be made more definite. If the motion is granted, the order granting such motion shall set the periods for filing such a statement and any answer thereto.
+
+(d) *Amendments.* A respondent may amend its answer at any time by written consent of the Director or with permission of the Administrative Law Judge. Permission shall be freely granted when justice so requires.
+
+(e) *Failure to file answer:* default. If a respondent fails to file an answer required by this subpart within the time prescribed, such respondent may be deemed in default pursuant to § 501.716(a). A party may make a motion to set aside a default pursuant to § 501.726(e).

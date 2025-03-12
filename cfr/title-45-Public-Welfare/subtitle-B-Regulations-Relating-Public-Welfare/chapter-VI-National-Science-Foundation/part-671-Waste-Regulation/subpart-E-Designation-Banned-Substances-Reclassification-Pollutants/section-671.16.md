@@ -1,0 +1,3 @@
+##### § 671.16 Designation and redesignation of pollutants #####
+
+After review of any comments or suggestions received from interested parties, the Environmental Protection Agency and other Federal agencies pursuant to § 671.15, the Director will make a final determination to designate and redesignate various substances as set forth above. Within 10 days after the date of such final determination, the Director shall publish notice of any action taken in the Federal Register. Such action shall become effective no earlier than thirty days following publication of notice.

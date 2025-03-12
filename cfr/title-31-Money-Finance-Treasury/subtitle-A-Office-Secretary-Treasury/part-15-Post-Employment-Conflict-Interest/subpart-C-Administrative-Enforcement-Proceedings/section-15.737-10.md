@@ -1,0 +1,5 @@
+##### § 15.737-10 Conferences. #####
+
+(a) *In general.* The Director may confer with a former officer or employee concerning allegations of misconduct irrespective of whether an administrative disciplinary proceeding has been instituted against him/her. If such conference results in a stipulation in connection with a proceeding in which such person is the respondent, the stipulation may be entered in the record at the instance of either party to the proceeding.
+
+(b) *Voluntary suspension.* A former officer or employee, in order to avoid the institution or conclusion of a proceeding, may offer his/her consent to suspension from practice before the Department or a separate statutory agency thereof. The Director in his/her discretion, may suspend a former officer or employee in accordance with the consent offered.

@@ -1,0 +1,5 @@
+##### § 650.7 Awards affected by international agreements. #####
+
+(a) Some NSF awards are made as part of international cooperative research programs. The agreements or treaties underlying many of these programs require an allocation of patent rights different from that provided by the Patent Rights clause in § 650.4(a). Therefore, as permitted by § 401.5(d) of the implementing regulations for the Bayh-Dole Act (37 CFR 401.5(d)), paragraph (b) of the standard Patent Rights clause in § 650.4(a) has been modified to provide that the Foundation may require the grantee to transfer to a foreign government or research performer such rights in any subject invention as are contemplated in the international agreement. The award instrument will identify the applicable agreement or treaty.
+
+(b) After an invention is disclosed to the Patent Assistant, the recipient of an award subject to an international agreement will be informed as to what rights, if any, it must transfer to foreign participants. Recipients may also ask the Program Manager to provide them with copies of the identified international agreements before or after accepting an award.

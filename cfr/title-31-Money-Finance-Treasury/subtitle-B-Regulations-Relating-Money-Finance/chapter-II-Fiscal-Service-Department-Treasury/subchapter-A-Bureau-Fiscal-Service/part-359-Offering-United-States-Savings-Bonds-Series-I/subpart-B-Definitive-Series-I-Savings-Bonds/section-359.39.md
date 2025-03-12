@@ -1,0 +1,5 @@
+##### § 359.39 How are redemption values calculated for definitive Series I savings bonds? #####
+
+We determine the redemption value of a definitive savings bonds for the accrual date (the first day of each month) by first determining the composite rate as defined in § 359.13. If the result of the composite rate calculation is a negative value, zero will be the assumed composite rate in the redemption value calculation. Redemption values are calculated using the following formula (For examples of the calculation, see appendix A to part 359):
+
+FV = PV × {[1 + (CR ÷ 2)] (m ÷ 6)}Where:FV (future value) = redemption value on the accrual date rounded to the nearest cent without consideration of penalty.PV (present value) = redemption value at the beginning of the semiannual rate period calculated without consideration of penalty. For bonds that are older than five years, PV will equal the redemption value at the start of the semiannual rate period.CR = composite rate converted to decimal form by dividing by 100.m = number of full calendar months elapsed during the semiannual rate period.

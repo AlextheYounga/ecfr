@@ -1,0 +1,3 @@
+##### § 1321.47 Statewide non-Federal share requirements. #####
+
+The statewide non-Federal share for State or area plan administration shall not be less than 25 percent of the funds usesd under this part. All services statewide, including ombudsman services and services funded under Title III-B, C, D, E and F, shall be funded on a statewide basis with a non-Federal share of not less than 15 percent. Matching requirements for individual area agencies are determined by the State agency.

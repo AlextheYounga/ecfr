@@ -1,0 +1,3 @@
+##### § 560.419 U.S. employment of persons ordinarily resident in Iran. #####
+
+The prohibitions in § 560.201 make it unlawful to hire an Iranian national ordinarily resident in Iran to come to the United States solely or for the principal purpose of engaging in employment on behalf of an entity in Iran or as the employee of a U.S. person, unless authorized pursuant to § 560.505. *See also* § 560.418 with respect to the release of technology and software.

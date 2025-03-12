@@ -1,0 +1,13 @@
+##### § 1.162-15 Contributions, dues, etc. #####
+
+(a) *Contributions to organizations described in section 170* - (1) *In general.* No deduction is allowable under section 162(a) for a contribution or gift by an individual or a corporation if any part thereof is deductible under section 170. For example, if a taxpayer makes a contribution of $5,000 and only $4,000 of this amount is deductible under section 170(a) (whether because of the percentage limitation under either section 170(b) (1) or (2), the requirement as to time of payment, or both) no deduction is allowable under section 162(a) for the remaining $1,000.
+
+(2) *Scope of limitations.* The limitations provided in section 162(b) and this paragraph apply only to payments which are in fact contributions or gifts to organizations described in section 170. For example, payments by a transit company to a local hospital (which is a charitable organization within the meaning of section 170) in consideration of a binding obligation on the part of the hospital to provide hospital services and facilities for the company's employees are not contributions or gifts within the meaning of section 170 and may be deductible under section 162(a) if the requirements of section 162(a) are otherwise satisfied.
+
+(b) *Other contributions.* Donations to organizations other than those described in section 170 which bear a direct relationship to the taxpayer's business and are made with a reasonable expectation of a financial return commensurate with the amount of the donation may constitute allowable deductions as business expenses, provided the donation is not made for a purpose for which a deduction is not allowable by reason of the provisions of paragraph (b)(1)(i) or (c) of § 1.162-20. For example, a transit company may donate a sum of money to an organization (of a class not referred to in section 170) intending to hold a convention in the city in which it operates, with a reasonable expectation that the holding of such convention will augment its income through a greater number of people using its transportation facilities.
+
+(c) *Dues.* Dues and other payments to an organization, such as a labor union or a trade association, which otherwise meet the requirements of the regulations under section 162, are deductible in full. For limitations on the deductibility of dues and other payments, see paragraph (b) and (c) of § 1.162-20.
+
+(d) *Cross reference.* For provisions dealing with expenditures for institutional or “good will” advertising, see § 1.162-20.
+
+[T.D. 6819, 30 FR 5580, Apr. 20, 1965]

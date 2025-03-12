@@ -1,0 +1,3 @@
+##### § 509.107 Income from operation of ships or aircraft. #####
+
+Under Article V of the convention so much of the income from sources within the United States of a Swiss enterprise as consists of earnings derived from the operation of ships or aircraft documented or registered in Switzerland shall not be included in gross income and shall be exempt from United States tax, even though at some time during the taxable year such enterprise has engaged in trade or business in the United States through a permanent establishment situated therein.

@@ -1,0 +1,3 @@
+##### § 306.110 Statutory authority and requirements. #####
+
+Relief is authorized, under certain conditions, for the loss, theft, destruction, mutilation or defacement of U.S. securities, whether before, at, or after maturity. A bond of indemnity, in such form and with such surety, sureties or security as may be required to protect the interests of the United States, is required as a condition of relief on account of any bearer security or any registered security assigned in blank or so assigned as to become in effect payable to bearer, and is ordinarily required in the case of unassigned registered securities.

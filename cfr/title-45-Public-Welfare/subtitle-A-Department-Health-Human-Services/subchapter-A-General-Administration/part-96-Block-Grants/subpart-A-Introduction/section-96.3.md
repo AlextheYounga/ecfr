@@ -1,0 +1,5 @@
+##### § 96.3 Information collection approval numbers. #####
+
+Information collection requirements pertaining to the block grant programs have been approved by the Office of Management and Budget under the provisions of the Paperwork Reduction Act, Pub. L. 96-511 (44 U.S.C. Chapter 35) and have been assigned OMB numbers:
+
+0930-0080 Alcohol and Drug Abuse and Mental Health Services Block Grant Reporting Requirements0920-0106 Preventive Health and Health Services Block Grant Reporting Requirements0915-0023 Primary Care Block Grant Reporting Requirements0915-0024 Maternal and Child Health Services Block Grant Reporting Requirements0980-0125 Social Services Block Grant Reporting Requirements0980-0126 Community Services Block Grant Reporting Requirements0960-0261 Low-Income Home Energy Assistance Block Grant Reporting Requirements.[47 FR 29486, July 6, 1982; 47 FR 43062, Sept. 30, 1982]

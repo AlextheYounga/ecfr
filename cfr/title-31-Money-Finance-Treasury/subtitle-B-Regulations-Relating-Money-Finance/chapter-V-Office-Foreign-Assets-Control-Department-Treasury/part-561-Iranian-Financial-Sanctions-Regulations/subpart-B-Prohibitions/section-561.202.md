@@ -1,0 +1,11 @@
+##### § 561.202 Prohibitions on persons owned or controlled by U.S. financial institutions. #####
+
+Except as otherwise authorized pursuant to this part, any person that is owned or controlled by a U.S. financial institution is prohibited from knowingly engaging in any transaction with or benefitting Iran's Islamic Revolutionary Guard Corps or any of its agents or affiliates whose property and interests in property are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*) (“IEEPA”).
+
+Note 1 to § 561.202:
+
+The names of persons whose property and interests in property are blocked pursuant to IEEPA are published in the Federal Register and incorporated into the Office of Foreign Assets Control's Specially Designated Nationals and Blocked Persons List (the “SDN List”). The SDN List is accessible through the following page on the Office of Foreign Assets Control's Web site: *www.treasury.gov/sdn.* Additional information pertaining to the SDN List can be found in appendix A to this chapter. Agents or affiliates of Iran's Islamic Revolutionary Guard Corps (“IRGC”) whose property and interests in property are blocked pursuant to IEEPA are identified by a special reference to the “IRGC” at the end of their entries on the SDN List, in addition to the reference to the regulatory part of this chapter pursuant to which their property and interests in property are blocked. For example, an affiliate of the IRGC whose property and interests in property are blocked pursuant to the Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 CFR part 544, will have the tag “[NPWMD] [IRGC]” at the end of its entry on the SDN List. In addition, see § 561.405 concerning entities that may not be listed on the SDN List but whose property and interests in property are nevertheless blocked.
+
+Note 2 to § 561.202:
+
+A U.S. financial institution is subject to the civil penalties provided for in section 206(b) of IEEPA if any person that it owns or controls violates the prohibition set forth in this section and the U.S. financial institution knew or should have known of such violation. *See* § 561.701(a)(2).

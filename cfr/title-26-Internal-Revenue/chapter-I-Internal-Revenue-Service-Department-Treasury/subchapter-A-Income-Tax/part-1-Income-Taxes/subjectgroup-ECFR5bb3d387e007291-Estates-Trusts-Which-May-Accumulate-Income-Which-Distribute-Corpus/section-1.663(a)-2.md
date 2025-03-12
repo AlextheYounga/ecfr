@@ -1,0 +1,5 @@
+##### § 1.663(a)-2 Charitable, etc., distributions. #####
+
+Any amount paid, permanently set aside, or to be used for the charitable, etc., purposes specified in section 642(c) and which is allowable as a deduction under that section is not allowed as a deduction to an estate or trust under section 661 or treated as an amount distributed for purposes of determining the amounts includible in gross income of beneficiaries under section 662. Amounts paid, permanently set aside, or to be used for charitable, etc., purposes are deductible by estates or trusts only as provided in section 642(c). For purposes of this section, the deduction provided in section 642(c) is computed without regard to the provisions of section 508(d), section 681, or section 4948(c)(4) (concerning unrelated business income and private foundations).
+
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 7428, 41 FR 34627, Aug. 16, 1976]

@@ -1,0 +1,17 @@
+##### § 1.410(d)-1 Election by church to have participation, vesting, funding, etc. provisions apply. #####
+
+(a) *In general.* If a church or convention or association of churches which maintains any church plan, as defined in section 414(e), makes an election under this section, certain provisions of the Code and title I of the Employee Retirement Income Security Act of 1974 (the “Act”) shall apply to such church plan as if such plan were not a church plan. The provisions of the Code referred to are section 410 (relating to minimum participation standards), section 411 (relating to minimum vesting standards), section 412 (relating to minimum funding standards), section 4975 (relating to prohibited transactions), and paragraphs (11), (12), (13), (14), (15), and (19) of section 401(a) (relating to joint and survivor annuities, mergers and consolidations, assignment or alienation of benefits, time of benefit commencement, certain social security increases, and withdrawals of employee contributions, respectively).
+
+(b) *Election is irrevocable.* An election under this section with respect to any church plan shall be binding with respect to such plan and, once made, shall be irrevocable.
+
+(c) *Procedure for making election*—(1) *Time of election.* An election under this section may be made for plan years for which the provisions of section 410(d) of the Code apply to the church plan. By reason of section 1017(b) of the Act section 410(d) does not apply to a plan in existence on January 1, 1974, for plan years beginning before January 1, 1976. Section 1017(d) of the Act permits a plan administrator to elect to have certain provisions of the Code (including section 410(d)) apply to a plan before the otherwise applicable effective dates of such provisions. See § 1.410(a)-2(d). Therefore, for a plan in existence on Janurary 1, 1974, an election under section 410(d) of the Code may be made for a plan year beginning before January 1, 1976, only if an election has been made under section 1017(d) of the Act with respect to that plan year.
+
+(2) *By whom election is to be made.* The election provided by this section may be made only by the plan administrator of the church plan.
+
+(3) *Manner of making election.* The plan administrator may elect to have the provisions of the Code described in paragraph (a) of this section apply to the church plan as it is were not a church plan by attaching the statement described in subparagraph (5) of this paragraph to either (i) the annual return required under section 6058(a) (or an amended return) with respect to the plan which is filed for the first plan year for which the election is effective or (ii) a written request for a determination letter relating to the qualification of the plan under section 401(a), 403(a), or 405(a) of the Code and if trusteed, the exempt status under section 501(a) of the Code of a trust constituting a part of the plan.
+
+(4) *Conditional election.* If an election is made with a written request for a determination letter, the election may be conditioned upon issuance of a favorable determination letter and will become irrevocable upon issuance of such letter.
+
+(5) *Statement.* The statement described in subparagraph (3) of this paragraph shall indicate (i) that the election is made under section 410(d) of the Code and (ii) the first plan year for which it is effective.
+
+(Sec. 410 (88 Stat. 898; 26 U.S.C. 410))[T.D. 7508, 42 FR 47198, Sept. 20, 1977]

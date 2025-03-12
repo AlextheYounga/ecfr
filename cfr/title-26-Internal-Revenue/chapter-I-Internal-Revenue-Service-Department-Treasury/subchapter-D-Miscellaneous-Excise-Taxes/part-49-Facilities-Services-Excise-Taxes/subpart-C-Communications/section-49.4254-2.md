@@ -1,0 +1,3 @@
+##### § 49.4254-2 Payment for toll telephone service or telegraph service in coin-operated telephones. #####
+
+Where the tax on a toll telephone or radio telephone message or conversation, or a telegraph, cable, or radio dispatch or message is paid by inserting coins in a coin-operated telephone, the tax shall be computed to the nearest multiple of 5 cents, and where the tax is midway between multiples of 5 cents, the next highest multiple shall apply. In other words, one-half or a greater fraction of 5 cents shall be treated as 5 cents and a smaller fraction shall be ignored.

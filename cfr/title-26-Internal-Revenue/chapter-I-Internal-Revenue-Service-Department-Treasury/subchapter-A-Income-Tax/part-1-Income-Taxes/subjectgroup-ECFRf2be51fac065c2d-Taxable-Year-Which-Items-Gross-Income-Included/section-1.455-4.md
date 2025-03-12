@@ -1,0 +1,7 @@
+##### § 1.455-4 Cessation of taxpayer's liability. #####
+
+(a) If a taxpayer has elected to apply the provisions of section 455 to a trade or business in connection with which prepaid subscription income is received, and if its liability to furnish or deliver a newspaper, magazine, or other periodical ends for any reason, then so much of the prepaid subscription income attributable to such liability as was not includible in its gross income under section 455 for preceding taxable years shall be included in its gross income for the taxable year in which such liability ends. A taxpayer's liability may end, for example, because of the cancellation of a subscription. See section 381(c)(4) and the regulations thereunder for the treatment of prepaid subscription income in a transaction to which section 381(a) applies.
+
+(b) If a taxpayer who has elected to apply the provisions of section 455 to a trade or business dies or ceases to exist, then so much of the prepaid subscription income attributable to such trade or business which was not includible in its gross income under section 455 for preceding taxable years shall be included in its gross income for the taxable year in which such death or cessation of existence occurs. See section 381(c)(4) and the regulations thereunder for the treatment of prepaid subscription income in a transaction to which section 381(a) applies.
+
+[T.D. 6591, 27 FR 1799, Feb. 27, 1962]

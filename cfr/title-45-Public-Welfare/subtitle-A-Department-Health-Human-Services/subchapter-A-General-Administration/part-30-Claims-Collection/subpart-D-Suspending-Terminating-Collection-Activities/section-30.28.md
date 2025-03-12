@@ -1,0 +1,7 @@
+##### § 30.28 Scope and application. #####
+
+(a) *Scope.* The standards set forth in this subpart apply to the suspension or termination of collection activity pursuant to 31 U.S.C. 3711 on debts that do not exceed $100,000, or such other amount as the Attorney General may direct, exclusive of interest, penalties, and administrative costs, after deducting the amount of partial payments or collections, if any. Prior to referring a debt to Justice for litigation, the Secretary may suspend or terminate collection under this subpart with respect to debts arising out of activities of, or referred or transferred for collection services to, the Department.
+
+(b) *Application.* (1) If, after deducting the amount of partial payments or collections, the principal amount of the debt exceeds $100,000, or such other amount as the Attorney General may direct, exclusive of interest, penalties, and administrative costs, the authority to suspend or terminate rests solely with Justice.
+
+(2) If the Secretary believes that suspension or termination of any debt in excess of $100,000 may be appropriate, the Secretary shall refer the debt to the Civil Division or other appropriate litigating division in Justice, using the CCLR. The referral will specify the reasons for the Secretary's recommendation. If, prior to referral to Justice, the Secretary determines that a debt is plainly erroneous or clearly without merit, the Secretary may terminate collection activity regardless of the amount involved without obtaining Justice concurrence.

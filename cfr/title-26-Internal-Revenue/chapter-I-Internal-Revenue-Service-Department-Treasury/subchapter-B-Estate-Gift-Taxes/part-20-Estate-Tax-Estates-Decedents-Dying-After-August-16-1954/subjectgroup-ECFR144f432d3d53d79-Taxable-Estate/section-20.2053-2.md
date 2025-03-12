@@ -1,0 +1,3 @@
+##### § 20.2053-2 Deduction for funeral expenses. #####
+
+Such amounts for funeral expenses are allowed as deductions from a decedent's gross estate as (a) are actually expended, (b) would be properly allowable out of property subject to claims under the laws of the local jurisdiction, and (c) satisfy the requirements of paragraph (c) of § 20.2053-1. A reasonable expenditure for a tombstone, monument, or mausoleum, or for a burial lot, either for the decedent or his family, including a reasonable expenditure for its future care, may be deducted under this heading, provided such an expenditure is allowable by the local law. Included in funeral expenses is the cost of transportation of the person bringing the body to the place of burial.

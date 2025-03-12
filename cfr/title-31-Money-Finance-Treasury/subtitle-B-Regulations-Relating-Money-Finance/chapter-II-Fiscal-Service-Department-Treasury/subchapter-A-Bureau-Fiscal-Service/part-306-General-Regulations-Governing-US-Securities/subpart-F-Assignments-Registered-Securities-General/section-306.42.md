@@ -1,0 +1,3 @@
+##### § 306.42 Alterations and erasures. #####
+
+If an alteration or erasure has been made in an assignment, the assignor should appear before an authorized certifying officer and execute a new assignment to the same assignee. If the new assignment is to other than the assignee whose name has been altered or erased, a disclaimer from the first-named assignee should be obtained. Otherwise, an affidavit of explanation by the person responsible for the alteration or erasure should be submitted for consideration.

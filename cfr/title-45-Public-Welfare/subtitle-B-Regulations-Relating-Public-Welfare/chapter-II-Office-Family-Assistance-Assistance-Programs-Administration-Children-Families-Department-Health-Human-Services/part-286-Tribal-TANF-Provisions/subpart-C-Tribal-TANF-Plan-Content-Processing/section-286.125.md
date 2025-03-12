@@ -1,0 +1,3 @@
+##### § 286.125 Does the receipt of TANF benefits under a State or other Tribal TANF program count towards a Tribe's TANF time limit? #####
+
+Yes, the Tribe must count prior months of TANF assistance funded with TANF block grant funds, except for any month that was exempt or disregarded by statute, regulation, or under any experimental, pilot, or demonstration project approved under section 1115 of the Act.

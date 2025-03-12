@@ -1,0 +1,9 @@
+##### § 49.4263-3 Transportation furnished to certain organizations. #####
+
+(a) *The American National Red Cross.* The tax imposed by section 4261 does not apply to amounts paid for transportation or facilities furnished to any corporation created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864 (The American National Red Cross).
+
+(b) *International organizations.* The tax imposed by section 4261 does not apply to amounts paid for transportation or facilities furnished to an international organization. See section 7701(a) (18) for the definition of “international organization”. An international organization is designated as such by the President through an Executive order or orders. When an organization has been designated by the President as entitled to enjoy the privileges, exemptions and immunities conferred by the International Organizations Immunities Act, or part thereof, including exemption from the tax, the exemption applies to amounts so paid unless the President otherwise provides. The exemption is subject to withdrawal or revocation by the President. In case of withdrawal or revocation, unless otherwise provided by the President, the exemption is inapplicable to payments on or after the date of issuance of the order of withdrawal or the date of revocation.
+
+(c) *Evidence of right to exemption.* The right to exemption under section 4263(b) (and under former section 4263(d)) shall be established by the use of exemption certificate, Form 731. See section 4292 and the regulations thereunder for the rules applicable when the right to exemption is evidenced by exemption certificates.
+
+[T.D. 6430, 24 FR 9665, Dec. 3, 1959. Redesignated by T.D. 6618, 27 FR 11225, Nov. 14, 1962]

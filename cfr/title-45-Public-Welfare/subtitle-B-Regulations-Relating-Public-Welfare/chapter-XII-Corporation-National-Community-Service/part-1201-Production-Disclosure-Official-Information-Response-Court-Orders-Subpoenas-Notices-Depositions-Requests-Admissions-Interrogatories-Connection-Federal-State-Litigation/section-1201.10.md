@@ -1,0 +1,7 @@
+##### § 1201.10 Prohibition on providing expert or opinion testimony. #####
+
+(a) Except as provided in this section, Corporation Employees shall not provide opinion or expert testimony based upon information that they acquired in the scope and performance of their official Corporation duties, except on behalf of the United States or a party represented by the Department of Justice.
+
+(b) Upon a showing by the requester of exceptional need or unique circumstances and that the anticipated testimony will not be adverse to the interests of the United States, the General Counsel, in the exercise of discretion, may grant special, written authorization for Corporation Employees to appear and testify as expert witnesses at no expense to the United States.
+
+(c) If, despite the final determination of the General Counsel, a court of competent jurisdiction or other appropriate authority orders the appearance and expert or opinion testimony of a Corporation Employee such individual shall immediately inform the General Counsel of such order. If the General Counsel determines that no further legal review of or challenge to the court's order will be made, the Corporation Employee shall comply with the order. If so directed by the General Counsel, however, the individual shall respectfully decline to testify.

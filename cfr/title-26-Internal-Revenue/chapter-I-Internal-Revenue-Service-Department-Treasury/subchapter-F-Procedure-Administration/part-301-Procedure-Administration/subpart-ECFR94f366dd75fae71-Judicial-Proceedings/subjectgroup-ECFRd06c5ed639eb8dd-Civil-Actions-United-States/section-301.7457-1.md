@@ -1,0 +1,3 @@
+##### § 301.7457-1 Witness fees. #####
+
+Any witness summoned for the Commissioner or whose deposition is taken under section 7456 shall receive the same fees and mileage as witnesses in courts of the United States. Such fees and mileage and the expense of taking any such deposition shall be paid by the Commissioner out of any moneys appropriated for the collection of internal revenue taxes, and may be paid in advance.

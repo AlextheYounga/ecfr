@@ -1,0 +1,3 @@
+##### § 1321.81 How the State may appeal. #####
+
+A State may appeal the final decision of the Commissioner disapproving the State plan or plan amendment, finding of noncompliance, or finding that a State agency does not meet the requirements of this part to the U.S. Court of Appeals for the circuit in which the State is located. The State shall file the appeal within 30 days of the Commissioner's final decision.

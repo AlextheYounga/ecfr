@@ -1,0 +1,5 @@
+##### § 3.44 Solicitation. #####
+
+It shall be unlawful for a person (other than an employee using authorized bulletin boards), without prior written approval of the Director, to offer or display any article or service for sale within the enclave buildings or grounds; or to display any sign, placard, or other form of advertisement; or to collect private debts; or to solicit business, alms, subscriptions or contributions, except in connection with approved national or local campaigns for funds for welfare, health and other public interest purposes, or solicitation of labor organization membership or dues as authorized under the Civil Service Reform Act of 1978 (Pub. L. 95-454).
+
+This provision shall not apply to authorized lessees and their agents and employees with regard to space leased for commercial, cultural, educational, or recreational purposes, under the Public Buildings Cooperative Use Act of 1976 (40 U.S.C. 490(A)(16)).

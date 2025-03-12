@@ -1,0 +1,3 @@
+##### § 96.102 Carryover of unobligated funds. #####
+
+In implementing section 1925(a)(2) of the Public Health Service Act (42 U.S.C. 300y-4(a)(2)), the Secretary will determine that there is good cause for funds remaining unobligated if planned obligations could not be carried out because of a bona fide reason or if the State has determined that program objectives would be better served by deferring obligation of the funds to the following year.

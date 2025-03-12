@@ -1,0 +1,3 @@
+##### § 1.551-1 General rule. #####
+
+Part III (section 551 and following), subchapter G, chapter 1 of the Code, does not impose a tax on foreign personal holding companies. The undistributed foreign personal holding company income of such companies, however, must be included in the manner and to the extent set forth in section 551, in the gross income of their *United States shareholders,* that is, the shareholders who are individual citizens or residents of the United States, domestic corporations, domestic partnerships, and estates or trusts other than estates or trusts the gross income of which under subtitle A of the Code includes only income from sources within the United States.

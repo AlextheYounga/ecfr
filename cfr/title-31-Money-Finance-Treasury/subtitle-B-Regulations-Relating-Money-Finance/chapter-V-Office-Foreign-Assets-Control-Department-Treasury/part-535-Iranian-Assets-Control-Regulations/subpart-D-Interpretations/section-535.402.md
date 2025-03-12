@@ -1,0 +1,5 @@
+##### § 535.402 Effect of amendment of sections of this part or of other orders, etc. #####
+
+Any amendment, modification, or revocation of any section of this part or of any order, regulation, ruling, instruction, or license issued by or under the direction of the Secretary of the Treasury pursuant to section 203 of the International Emergency Economic Powers Act shall not, unless otherwise specifically provided, be deemed to affect any act done or omitted to be done, or any suit or proceeding had or commenced in any civil or criminal case, prior to such amendment, modification, or revocation and all penalties, forfeitures, and liabilities under any such order, regulation, ruling, instruction or license shall continue and may be enforced as if such amendment, modification, or revocation had not been made.
+
+[45 FR 24433, Apr. 9, 1980]

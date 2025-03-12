@@ -1,0 +1,7 @@
+##### § 211.8 Continuing hospitalization. #####
+
+(a) *Authorization and arrangements.* In the event that appropriate arrangements for an eligible person in need of continuing care and treatment in a hospital cannot be accomplished under § 211.7, or until such arrangements can be made, care and treatment shall be provided by the Administrator in Saint Elizabeths Hospital in the District of Columbia, in an appropriate Public Health Service Hospital, or in such other suitable public or private hospital as the Administrator determines is in the best interests of such person.
+
+(b) *Transfer to other hospital.* At any time during continuing hospitalization, when the Administrator deems it to be in the interest of the eligible person or of the hospital affected, the Administrator shall authorize the transfer of such person from one hospital to another and, where necessary to that end, the Administrator shall authorize the initiation of judicial proceedings for the purpose of obtaining a commitment of such person to the Secretary.
+
+(c) *Place of hospitalization.* In determining the placement or transfer of an eligible person for purposes of hospitalization, due weight shall be given to such factors as the location of the eligible person's legal guardian or family, the character of his illness and the probable duration thereof, and the facilities of the hospital to provide care and treatment for the particular health needs of such person.

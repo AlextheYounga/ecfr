@@ -1,0 +1,3 @@
+##### § 25.6151-1 Time and place for paying tax shown on return. #####
+
+The tax shown on the gift tax return is to be paid by the donor at the time and place fixed for filing the return (determined without regard to any extension of time for filing the return), unless the time for paying the tax is extended in accordance with the provisions of section 6161. However, for provisions relating to certain cases in which the time for paying the gift tax is postponed by reason of an individual serving in, or in support of, the Armed Forces of the United States in a combat zone, see section 7508. For provisions relating to the time and place for filing the return, see §§ 25.6075-1 and 25.6091-1.

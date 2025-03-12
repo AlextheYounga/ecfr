@@ -1,0 +1,3 @@
+##### § 1150.14 When will the Endowment refer claims to the DOJ? #####
+
+The Chairperson will refer to the DOJ for litigation claims on which aggressive collection actions have been taken but which could not be collected, compromised, suspended, or terminated. Referrals will be made as early as possible, consistent with aggressive Endowment collection action, and within the period for bringing a timely suit against the debtor.

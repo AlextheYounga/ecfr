@@ -1,0 +1,5 @@
+##### § 301.7461-1 Publicity of proceedings. #####
+
+All reports of the Tax Court and all evidence received by the Tax Court and its divisions, including a transcript of the stenographic report of the hearings, shall be public records open to the inspection of the public; except that after the decision of the Tax Court in any proceeding has become final the Tax Court may, upon motion of the taxpayer or the Commissioner, permit the withdrawal by the party entitled thereto of the originals of books, documents, and records, and of models, diagrams, and other exhibits, introduced in evidence before the Tax Court or any of its divisions; or the Tax Court may, on its own action, make such other disposition thereof as it deems advisable.
+
+declaratory judgments relating to qualification of certain retirement plans

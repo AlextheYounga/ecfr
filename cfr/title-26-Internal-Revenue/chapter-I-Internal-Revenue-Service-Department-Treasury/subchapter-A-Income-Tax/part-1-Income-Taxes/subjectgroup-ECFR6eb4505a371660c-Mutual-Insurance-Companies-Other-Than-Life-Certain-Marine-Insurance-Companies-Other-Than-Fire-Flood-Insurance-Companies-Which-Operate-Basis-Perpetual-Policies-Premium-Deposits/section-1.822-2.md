@@ -1,0 +1,3 @@
+##### § 1.822-2 Real estate owned and occupied. #####
+
+The limitation in section 822(d)(1) on the amount allowable as a deduction for taxes, expenses, and depreciation upon or with respect to any real estate owned and occupied in whole or in part by a mutual insurance company subject to the tax imposed by section 821 is the same as that provided in the case of life insurance companies by section 803(h). See § 1.803-5.

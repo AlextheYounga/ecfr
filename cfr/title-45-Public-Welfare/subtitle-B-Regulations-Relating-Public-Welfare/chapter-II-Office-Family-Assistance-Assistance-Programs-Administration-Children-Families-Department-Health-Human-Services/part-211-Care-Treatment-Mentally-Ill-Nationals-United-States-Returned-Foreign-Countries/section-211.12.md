@@ -1,0 +1,3 @@
+##### § 211.12 Federal payments. #####
+
+The arrangements made by the Administrator with an agency or hospital for carrying out the purposes of the Act shall provide for payments to such agency or hospital, either in advance or by way of reimbursement, of the costs of reception, temporary care, treatment, and assistance, continuing care and treatment, and transportation, pursuant to the Act, and payments for other expenditures necessarily and reasonably related to providing the same. Such arrangements shall include the methods and procedures for determining the amounts of the advances or reimbursements, and for remittance and adjustment thereof.

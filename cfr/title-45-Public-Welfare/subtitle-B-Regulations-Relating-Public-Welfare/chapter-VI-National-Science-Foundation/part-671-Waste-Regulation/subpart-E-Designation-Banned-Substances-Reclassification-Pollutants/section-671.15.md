@@ -1,0 +1,3 @@
+##### § 671.15 Publication of preliminary determination #####
+
+Prior to any designation or redesignation of substances pursuant to § 671.14 (including removal of such substances from lists of banned substances or designated pollutants), the Director shall publish notice in the Federal Register of any proposed designation or redesignation, including the basis therefor. The notice shall invite the submission by interested parties, the Environmental Protection Agency and other federal agencies, within 30 days after the date of publication of notice, of written data, comments, or views with respect to such action.

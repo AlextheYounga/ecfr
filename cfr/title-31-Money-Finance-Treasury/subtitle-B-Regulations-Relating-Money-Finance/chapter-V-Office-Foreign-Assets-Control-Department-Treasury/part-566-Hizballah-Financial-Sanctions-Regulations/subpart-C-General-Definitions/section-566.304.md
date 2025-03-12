@@ -1,0 +1,3 @@
+##### § 566.304 Effective date. #####
+
+The *effective date* refers to the effective date of a prohibition or strict condition imposed pursuant to § 566.201 on the opening or maintaining of a correspondent account or a payable-through account in the United States by a U.S. financial institution for a particular foreign financial institution and is the earlier of the date the U.S. financial institution receives actual or constructive notice of such prohibition or condition.

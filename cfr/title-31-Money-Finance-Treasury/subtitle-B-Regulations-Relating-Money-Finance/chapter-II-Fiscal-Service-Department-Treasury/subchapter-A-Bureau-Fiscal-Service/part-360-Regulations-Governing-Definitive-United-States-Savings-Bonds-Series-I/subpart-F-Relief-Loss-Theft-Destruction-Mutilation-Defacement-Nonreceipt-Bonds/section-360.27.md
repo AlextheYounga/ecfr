@@ -1,0 +1,5 @@
+##### § 360.27 Application for relief; nonreceipt of bond. #####
+
+If a bond issued on any transaction is not received, the issuing agent must be notified as promptly as possible and given all information available about the nonreceipt. An appropriate form and instructions will be provided. If the application is approved on or before February 14, 2014, relief will be granted by the issuance of a bond bearing the same issue date as the bond that was not received. If the application is approved after February 14, 2014, relief will be granted by the issuance of a book-entry bond bearing the same issue date as the bond that was not received or by payment. Also, relief is authorized for the issuance of bonds for which the Secretary has not received payment, in order to preserve public confidence in dealing with issuing agents.
+
+[79 FR 8860, Feb. 14, 2014]

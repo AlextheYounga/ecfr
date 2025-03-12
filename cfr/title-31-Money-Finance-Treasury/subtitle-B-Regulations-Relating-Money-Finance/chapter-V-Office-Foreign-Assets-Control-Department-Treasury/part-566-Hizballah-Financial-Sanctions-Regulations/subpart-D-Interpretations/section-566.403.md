@@ -1,0 +1,3 @@
+##### § 566.403 Facilitation of certain efforts, activities, or transactions by foreign financial institutions. #####
+
+For purposes of § 566.201, the term *facilitate* used with respect to certain efforts, activities, or transactions refers to the provision of assistance by a foreign financial institution for those efforts, activities, or transactions, including the provision of currency, financial instruments, securities, or any other transmission of value; purchasing; selling; transporting; swapping; brokering; financing; approving; guaranteeing; the provision of other services of any kind; the provision of personnel; or the provision of software, technology, or goods of any kind.

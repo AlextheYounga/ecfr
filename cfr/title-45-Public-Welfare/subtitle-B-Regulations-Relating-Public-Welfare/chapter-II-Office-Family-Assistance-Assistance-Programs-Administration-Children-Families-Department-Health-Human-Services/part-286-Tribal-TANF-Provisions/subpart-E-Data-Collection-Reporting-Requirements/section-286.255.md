@@ -1,0 +1,11 @@
+##### § 286.255 What quarterly reports must the Tribe submit to us? #####
+
+(a) *Quarterly reports.* Each Tribe must collect on a monthly basis, and file on a quarterly basis, the data specified in the Tribal TANF Data Report and the Tribal TANF Financial Report.
+
+(b) *Tribal TANF Data Report.* The Tribal TANF Data Report consists of three sections. Two sections contain disaggregated data elements and one section contains aggregated data elements.
+
+(1) *TANF Data Report: Disaggregated Data—Sections one and two.* Each Tribe must file disaggregated information on families receiving TANF assistance (section one) and families no longer receiving TANF assistance (section two). These two sections specify identifying and demographic data such as the individual's Social Security Number; and information such as the type and amount of assistance received, educational level, employment status, work participation activities, citizenship status, and earned and unearned income. These reports also specify items pertaining to child care and child support. The data requested cover adults (including non-custodial parents who are participating in work activities) and children.
+
+(2) *TANF Data Report: Aggregated Data—Section three.* Each Tribe must file aggregated information on families receiving, applying for, and no longer receiving TANF assistance. This section of the Report asks for aggregate figures in the following areas: the total number of applications and their disposition; the total number of recipient families, adult recipients, and child recipients; the total number of births, out-of-wedlock births, and minor child heads-of-households; the total number of non-custodial parents participating in work activities; and the total amount of TANF assistance provided.
+
+(c) *The Tribal TANF Financial Report.* Each Tribe must file quarterly expenditure data on the Tribe's use of Tribal Family Assistance Grant funds, any Tribal fund expenditures which are being substituted for TFAG funds withheld due to a penalty, and any State contributions. The report must be submitted on a form prescribed by ACF.

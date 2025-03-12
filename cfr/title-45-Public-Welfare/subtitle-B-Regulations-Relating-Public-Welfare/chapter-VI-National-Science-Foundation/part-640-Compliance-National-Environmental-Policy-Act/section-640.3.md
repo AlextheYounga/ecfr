@@ -1,0 +1,19 @@
+##### § 640.3 Actions requiring an environmental assessment and categorical exclusions. #####
+
+(a) The types of actions to be classified as “major Federal actions” subject to NEPA procedures are discussed generally in the CEQ regulations. Paragraph (b) of this section describes various classes of NSF actions that normally require the preparation of an environmental assessment or an EIS, and those classes that are categorically excluded. (Categorical exclusion is defined at 40 CFR 1508.4.) The word “normally” is stressed; there may be individual cases in which specific factors require contrary action. NSF directorates and offices are responsible for identifying situations in which an environmental assessment or an EIS should be prepared even if not normally required by paragraph (b) of this paragraph.
+
+(b) Most NSF awards support individual scientific research projects and are not “major Federal actions significantly affecting the quality of the human environment” except in the sense that the long term effect of the accumulation of human knowledge is likely to affect the quality of the human environment. However, such long term effects are basically speculative and unknowable in advance; thus they normally do not provide a sufficient basis for classifying research as subject to NEPA (See 40 CFR 1508.8) and are categorically excluded from an environmental assessment. Nevertheless, in some cases the actual procedures used in carrying out the research may have potential environmental effects, particularly where the project requires construction of facilities or major disturbance of the local environment brought about by blasting, drilling, excavating, or other means. Accordingly, except as provided in paragraph (c) of this section, the following types of activities require at least an environmental assessment:
+
+(1) Cases where developmental efforts are supported, if the project supports the transition of a particular technology from the development stage to large-scale commercial utilization.
+
+(2) Any project supporting construction, other than interior remodelling.
+
+(3) Cases where field work affecting the natural environment will be conducted.
+
+(4) Any project that will involve drilling of the earth, excavation, explosives, weather modification, or other techniques that may alter a local environment.
+
+(5) Any project that provides for the testing and release of biological-control agents for purposes of ecosystem manipulation and assessment of short- and long-term effects of major ecosystem perturbation.
+
+(c) Directorates having divisions or programs with a substantial number of projects that fall within categories (3), (4), and (5) in (b) of this section, are authorized to issue supplemental guidelines to Division Directors and Program Officers establishing subcategories of research methodologies or techniques for which environmental assessments need not be prepared. For example, if a program regularly supports research that involves noninvasive techniques or nonharmful invasive techniques (such as taking water or soil samples, or collecting non-protected species of flora and fauna) the directorate may determine that field projects otherwise coming under paragraph (b)(3) of this section which involve only the use of such techniques do not require an environmental assessment. However, any such guidelines must be submitted to the Chairman for approval.
+
+(d) In some cases within the categories listed in paragraph (b) of this section, it will be evident at the outset or after the assessment process is begun that an EIS should be prepared. In such cases an assessment need not be completed, but the process of preparing an EIS (See § 640.5, of this part) should be started.

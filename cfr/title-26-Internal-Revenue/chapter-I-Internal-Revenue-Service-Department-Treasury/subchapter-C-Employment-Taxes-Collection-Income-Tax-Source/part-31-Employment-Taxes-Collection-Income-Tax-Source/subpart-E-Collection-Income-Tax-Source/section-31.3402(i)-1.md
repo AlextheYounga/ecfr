@@ -1,0 +1,9 @@
+##### § 31.3402(i)-1 Additional withholding. #####
+
+(a) In addition to the tax required to be deducted and withheld in accordance with the provisions of section 3402, the employer and employee may agree that an additional amount shall be withheld from the employee's wages. The agreement shall be in writing and shall be in such form as the employer may prescribe. The agreement shall be effective for such period as the employer and employee mutually agree upon. However, unless the agreement provides for an earlier termination, either the employer or the employee, by furnishing a written notice to the other, may terminate the agreement effective with respect to the first payment of wages made on or after the first “status determination date” (see paragraph (d) of § 31.3402(f)(3)-1) which occurs at least 30 days after the date on which such notice if furnished.
+
+(b) The amount deducted and withheld pursuant to an agreement between the employer and employee shall be considered as tax required to be deducted and withheld under section 3402. All provisions of law and regulations applicable with respect to the tax required to be deducted and withheld under section 3402 shall be applicable with respect to any amount deducted and withheld pursuant to the agreement.
+
+(c) This section is applicable only to agreements made before October 1, 1981. Any such agreement shall remain in effect in accordance with paragraph (a). See § 31.3402 (i)-2 for rules relating to increases in withholding after September 30, 1981.
+
+(Secs. 3402(i) and (m) and 7805 of the Internal Revenue Code of 1954 (26 U.S.C. 3402 (i) and (m), 95 Stat. 172, 184; 26 U.S.C. 7805, 68A Stat. 917))[T.D. 65l6, 25 FR 13108, Dec. 20, 1960, as amended by T.D. 7065, 35 FR 16540, Oct. 23, 1970; T.D. 7915, 48 FR 44074, Sept. 27, 1983]

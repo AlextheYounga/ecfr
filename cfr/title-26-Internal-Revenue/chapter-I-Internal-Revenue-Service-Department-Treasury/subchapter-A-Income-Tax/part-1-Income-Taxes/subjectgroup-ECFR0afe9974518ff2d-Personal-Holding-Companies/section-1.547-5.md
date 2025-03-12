@@ -1,0 +1,3 @@
+##### § 1.547-5 Deduction denied in case of fraud or wilful failure to file timely return. #####
+
+No deduction for deficiency dividends shall be allowed under section 547(a) if the determination contains a finding that any part of the deficiency is due to fraud with intent to evade tax, or to wilful failure to file an income tax return within the time prescribed by law or prescribed by the Secretary or his delegate in pursuance of law. See § 1.547-7 for effective date.

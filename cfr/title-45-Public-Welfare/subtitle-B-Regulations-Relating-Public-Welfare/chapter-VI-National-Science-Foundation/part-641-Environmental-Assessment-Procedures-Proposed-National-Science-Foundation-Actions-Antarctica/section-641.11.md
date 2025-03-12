@@ -1,0 +1,3 @@
+##### § 641.11 Policy. #####
+
+It is the policy of NSF to use all practicable means, consistent with its authority, to ensure that potential environmental effects of actions undertaken by NSF in Antarctica, either independently or in cooperation with another country, are appropriately identified and considered during the decisionmaking process, and that appropriate environmental safeguards which would limit, mitigate or prevent adverse impacts on the Antarctic environment are identified.

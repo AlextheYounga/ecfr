@@ -1,0 +1,3 @@
+##### § 256.30 When does the Judgment Fund pay interest? #####
+
+Interest is paid when it is ordered in the judgment pursuant to a statutory, contractual or constitutional waiver of sovereign immunity. Such waivers may include interest as set forth under 41 U.S.C. 611 (Contract Disputes Act), 5 U.S.C. 5596 (Back Pay Act), or Title VII, 42 U.S.C. 2000e-16 (Civil Rights Act of 1991). In addition, post-judgment interest is paid on awards eligible for interest under 31 U.S.C. 1304(b) (unsuccessful appeal by the Government).

@@ -1,0 +1,3 @@
+##### § 1.1081-1 Terms used. #####
+
+The following terms, when used in this section and §§ 1.1081-2 to 1.1083-1, inclusive, shall have the meanings assigned to them in section 1083: *Order of the Securities and Exchange Commission*; *registered holding company*; *holding company system*; *associate company*; *majority-owned subsidiary company*; *system group*; *nonexempt property*; and *stock or securities.* Any other term used in this section and §§ 1.1081-2 to 1.1083-1, inclusive, which is defined in the Internal Revenue Code of 1954, shall be given the respective definition contained in such Code.

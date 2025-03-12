@@ -1,0 +1,7 @@
+##### § 158.101 Basis and scope. #####
+
+(a) *Basis.* This part implements section 2718 of the Public Health Service Act (PHS Act).
+
+(b) *Scope.* Subpart A of this part establishes the requirements for health insurance issuers (“issuers”) offering group or individual health insurance coverage to report information concerning premium revenues and the use of such premium revenues for clinical services provided to enrollees, activities that improve health care quality, and all other non-claims costs. Subpart B describes how this information will be used to determine, with respect to each medical loss ratio (MLR) reporting year, whether the ratio of the amount of adjusted premium revenue expended by the issuer on permitted costs to the total amount of adjusted premium revenue (MLR) meets or exceeds the percentages established by section 2718(b)(1) of the PHS Act. Subpart B also addresses requirements for calculating any rebate amounts that may be due in the event an issuer does not meet the applicable MLR standard. Subpart C implements the provision of section 2718(b)(1)(A)(ii) of the PHS Act allowing the Secretary to adjust the MLR standard for the individual market in a State if requiring issuers to meet that standard may destabilize the individual market. Subparts D through F provide for enforcement of this part, including requirements for issuers to maintain records and civil monetary penalties that may be assessed against issuers who violate the requirements of this part.
+
+[75 FR 74921, Dec. 1, 2010, as amended at 75 FR 82278, Dec. 30, 2010]

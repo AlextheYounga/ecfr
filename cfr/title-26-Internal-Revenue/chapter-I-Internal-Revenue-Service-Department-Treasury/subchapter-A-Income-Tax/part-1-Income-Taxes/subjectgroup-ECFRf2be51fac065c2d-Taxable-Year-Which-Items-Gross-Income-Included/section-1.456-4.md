@@ -1,0 +1,9 @@
+##### § 1.456-4 Cessation of liability or existence. #####
+
+(a) If a taxpayer has elected to apply the provisions of section 456 to a trade or business in connection with which prepaid dues income is received, and if the taxpayer's liability to render services or make available membership privileges ends for any reason, as for example, because of the cancellation of a membership then so much of the prepaid dues income attributable to such liability as was not includible in the taxpayer's gross income under section 456 for preceding taxable years shall be included in gross income for the taxable year in which such liability ends. This paragraph shall not apply to amounts includible in gross income under § 1.456-7.
+
+(b) If a taxpayer which has elected to apply the provisions of section 456 ceases to exist, then the prepaid dues income which was not includible in gross income under section 456 for preceding taxable years shall be included in the taxpayer's gross income for the taxable year in which such cessation of existence occurs. This paragraph shall not apply to amounts includible in gross income under § 1.456-7.
+
+(c) If a taxpayer is a party to a transaction to which section 381(a) applies and the taxpayer's method of accounting with respect to prepaid dues income is used by the acquiring corporation under the provisions of section 381(c)(4), then neither the liability nor the existence of the taxpayer shall be deemed to have ended or ceased. In such cases see section 381(c)(4) and the regulations thereunder for the treatment of the portion of prepaid dues income which was not included in gross income under section 456 for preceding taxable years.
+
+[T.D. 6937, 32 FR 16395, Nov. 30, 1967]

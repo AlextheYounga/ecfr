@@ -1,0 +1,3 @@
+##### § 48.4225-1 Exemption of articles manufactured or produced by Indians. #####
+
+The exemption provided under section 4225 applies to articles taxable under Chapter 32 of the Code that are of native Indian handicraft and are manufactured or produced by Indians on Indian reservations or in Indian schools, or manufactured or produced by Indians who are under the jurisdiction of the United States Government in Alaska. For purposes of this section, Indians who reside on allotments of land adjacent to an Indian reservation and are subject to the supervision, control, and jurisdiction of the Bureau of Indian Affairs are considered to be “Indians on Indian reservations”.

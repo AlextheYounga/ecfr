@@ -1,0 +1,23 @@
+##### § 1.6091-4 Exceptional cases. #####
+
+(a) *Permission to file in office other than required office.* (1) The Commissioner may permit the filing of any income tax return required to be made under the provisions of subtitle A or F of the Code, or the regulations in this part, in any Internal Revenue Service office, notwithstanding the provisions of paragraphs (1) and (2) of section 6091(b) and §§ 1.6091-1 to 1.6091-3, inclusive.
+
+(2) In cases where the Commissioner authorizes (for all purposes except venue) an internal revenue service center to receive returns, such returns pursuant to instructions issued with respect thereto, may be sent directly to that service center and are thereby filed there for all purposes except as a factor in determining venue. However, after initial processing all such returns shall be forwarded by the service center to the office with which such returns are, without regard to this subparagraph, required to be filed. For the sole purpose of determining venue, such returns are filed only with such office.
+
+(3) Notwithstanding the provisions of other sections of this chapter or any rule issued under this chapter:
+
+(i) In cases where, in accordance with subparagraph (2) of this paragraph, a return is filed with a service center, the authority of the members of the office with whom such return would, without regard to such subparagraph, be required to be filed shall remain the same as if the return had been so filed;
+
+(ii) Unless a return or other document is a proper attachment to, or is, a return which the service center is expressly authorized to receive, such return or other document shall be filed as if all returns sent directly to the service centers, in accordance with subparagraph (2) of this paragraph, were filed in the office where such returns are, without regard to such subparagraph, required to be filed; and
+
+(iii) Unless the performance of an act is directly related to the sending of a return directly to the service center, such act shall be performed as if all returns sent directly to the service centers, in accordance with subparagraph (2) of this paragraph, were filed in the office where such returns are, without regard to such subparagraph, required to be filed.
+
+(4) The application of paragraphs (a)(2) and (3) of this section may be illustrated by the following example:
+
+Example.The Commissioner has authorized the Internal Revenue Service Center, Philadelphia, Pennsylvania (for all purposes except venue), to receive Form 1120. Except for that authorization, A, a corporation with its principal place of business in Greensboro, North Carolina, is required to file its Form 1120 for Year X with the Internal Revenue Service Center, Atlanta, Georgia. In addition, A may file an election to defer development expenditures paid or incurred in Year X. Under § 1.616-2(e)(2) and applicable published guidance (in this case Notice 2003-19 (2003-1 C.B. 703)) that statement of election must be filed with the service center that serves A's principal place of business where A filed its income tax return. A may make that election on its income tax return or by filing it separately. Under paragraph (a)(2) of this section, A may send its Form 1120 to either the Internal Revenue Service Center, Philadelphia, Pennsylvania, or to the Internal Revenue Service Center, Atlanta, Georgia. If A files its statement of election separately from its income tax return for Year X, then the statement of election is not a proper attachment to A's income tax return and A should send the statement of election to the Internal Revenue Service Center, Atlanta, Georgia (with which A must, without regard to paragraph (a)(2) of this section, file its income tax return), no later than the time prescribed for filing Form 1120 for Year X (including extensions).
+
+(b) *Returns of officers and employees of the Internal Revenue Service.* The Commissioner may require any officer or employee of the Internal Revenue Service to file his income tax return in any Internal Revenue Service office selected by the Commissioner.
+
+(c) *Residents of Guam.* Income tax returns of an individual citizen of the United States who is a resident of Guam shall be filed with Guam, as provided in paragraph (b)(1) of § 1.935-1.
+
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 6793, 30 FR 704, Jan. 22, 1965; T.D. 7385, 40 FR 50264, Oct. 29, 1975; T.D. 9156, 69 FR 55744, Sept. 16, 2004]

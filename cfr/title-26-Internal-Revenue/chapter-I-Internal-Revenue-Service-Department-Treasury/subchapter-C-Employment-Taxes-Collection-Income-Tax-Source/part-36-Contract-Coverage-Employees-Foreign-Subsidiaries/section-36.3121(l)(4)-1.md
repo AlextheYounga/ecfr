@@ -1,0 +1,5 @@
+##### § 36.3121(l)(4)-1 Termination of agreement by Commissioner. #####
+
+(a) *Notice of termination.* The period for which an agreement entered into with a domestic corporation as provided in § 36.3121(l)(1)-1 is in effect may be terminated by the Commissioner, with the prior concurrence of the Secretary of Health, Education, and Welfare, upon a finding by the Commissioner that the domestic corporation has failed to comply substantially with the terms of the agreement. The Commissioner shall give the corporation not less than 60 days' advance notice in writing that the period for which the agreement is in effect will terminate at the end of the calendar quarter specified in the notice of termination.
+
+(b) *Revocation of notice of termination.* A notice of termination given to a domestic corporation by the Commissioner may be revoked by the Commissioner, with the prior concurrence of the Secretary of Health, Education and Welfare by giving written notice of revocation to the corporation prior to the close of the calendar quarter specified in the notice of termination.

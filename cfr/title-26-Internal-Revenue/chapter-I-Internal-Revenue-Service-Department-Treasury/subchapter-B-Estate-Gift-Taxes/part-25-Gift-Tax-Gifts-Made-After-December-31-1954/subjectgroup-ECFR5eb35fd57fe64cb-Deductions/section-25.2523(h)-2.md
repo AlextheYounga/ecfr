@@ -1,0 +1,5 @@
+##### § 25.2523(h)-2 Effective dates. #####
+
+Except as specifically provided, in §§ 25.2523(e)-1(c)(3), 25.2523(f)-1(c)(3), and 25.2523(g)-1(b), the provisions of §§ 25.2523(e)-1(c), 25.2523(f)-1, 25.2523(g)-1, and 25.2523(h)-1 are effective with respect to gifts made after March 1, 1994. With respect to gifts made on or before such date, donors may rely on any reasonable interpretation of the statutory provisions. For these purposes, the provisions of §§ 25.2523(e)-1(c), 25.2523(f)-1, 25.2523(g)-1, and 25.2523(h)-1, (as well as project LR-211-76, 1984-1 C.B., page 598, see § 601.601(d)(2)(ii)(*b*) of this chapter), are considered a reasonable interpretation of the statutory provisions. In addition, the rule in the last sentence of § 25.2523(e)-1(f)(1) regarding the determination of income under applicable local law applies to trusts for taxable years ending after January 2, 2004.
+
+[T.D. 8522, 59 FR 9663, Mar. 1, 1994, as amended by T.D. 9102, 69 FR 21, Jan. 2, 2004]

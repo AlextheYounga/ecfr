@@ -1,0 +1,3 @@
+##### § 308.1 Issue. #####
+
+Federal Reserve Banks, as Fiscal Agents of the United States, and the Treasury Department may issue full-paid interim certificates in lieu of definitive securities, against full-paid allotments of subscriptions, when specifically authorized by the Secretary of the Treasury in connection with the issue, hereafter, to the public, of United States securities. Interim certificates shall be in such form, and in such denominations, as the Secretary of the Treasury may determine when an issue is authorized.

@@ -1,0 +1,11 @@
+##### § 1.43-6 Election out of section 43. #####
+
+(a) *Election to have the credit not apply*—(1) *In general.* A taxpayer may elect to have section 43 not apply for any taxable year. The taxpayer may revoke an election to have section 43 not apply for any taxable year. An election to have section 43 not apply (or a revocation of an election to have section 43 not apply) for any taxable year is effective only for the taxable year to which the election relates.
+
+(2) *Time for making the election.* A taxpayer may make an election under paragraph (a) of this section to have section 43 not apply (or revoke an election to have section 43 not apply) for any taxable year at any time before the expiration of the 3-year period beginning on the last date prescribed by law (determined without regard to extensions) for filing the return for the taxable year. The time for making the election (or revoking the election) is prescribed by section 43(e)(2) and may not be extended under § 1.9100-1.
+
+(3) *Manner of making the election.* An election (or revocation) under paragraph (a)(1) of this section is made by attaching a statement to the taxpayer's federal income tax return or an amended return (or, in the case of a Coordinated Examination Program taxpayer, on a written statement treated as a qualified amended return) for the taxable year for which the election (or revocation) applies. The taxpayer must indicate whether the taxpayer is electing to not have section 43 apply or is revoking such an election and designate the project or projects to which the election (or revocation) applies. For any taxable year, the last election (or revocation) made by a taxpayer within the period prescribed in paragraph (a)(2) of this section determines whether section 43 applies for that taxable year.
+
+(b) *Election by partnerships and S corporations.* For partnerships and S corporations, an election to have section 43 not apply (or a revocation of an election to have section 43 not apply) for any taxable year is made, in accordance with the requirements of paragraph (a) of this section, by the partnership or S corporation with respect to the qualified enhanced oil recovery costs paid or incurred by the partnership or S corporation for the taxable year to which the election relates.
+
+[T.D. 8448, 57 FR 54930, Nov. 23, 1992]

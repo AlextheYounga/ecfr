@@ -1,0 +1,35 @@
+##### § 1.1396-1 Qualified zone employees. #####
+
+(a) *In general.* A qualified zone employee of an employer is an employee who satisfies the location-of-services requirement and the abode requirement with respect to the same empowerment zone and is not otherwise excluded by section 1396(d).
+
+(1) *Location-of-services requirement.* The location-of-services requirement is satisfied if substantially all of the services performed by the employee for the employer are performed in the empowerment zone in a trade or business of the employer.
+
+(2) *Abode requirement.* The abode requirement is satisfied if the employee's principal place of abode while performing those services is in the empowerment zone.
+
+(b) *Period for applying location-of-services requirement.* In applying the location-of-services requirement, an employer may use either the pay period method described in paragraph (b)(1) of this section or the calendar year method described in paragraph (b)(2) of this section. For each taxable year of an employer, the employer must either use the pay period method with respect to all of its employees or use the calendar year method with respect to all of its employees. The employer may change the method applied to all of its employees from one taxable year to the next.
+
+(1) *Pay period method*—(i) *Relevant period.* Under the pay period method, the relevant period for applying the location-of-services requirement is each pay period in which an employee provides services to the employer during the calendar year with respect to which the credit is being claimed (*i.e.,* the calendar year that ends with or within the relevant taxable year). If an employer has one pay period for certain employees and a different pay period for other employees (e.g., a weekly pay period for hourly wage employees and a bi-weekly pay period for salaried employees), the pay period actually applicable to a particular employee is the relevant pay period for that employee under this method.
+
+(ii) *Application of method.* Under this method, an employee does not satisfy the location-of-services requirement during a pay period unless substantially all of the services performed by the employee for the employer during that pay period are performed within the empowerment zone in a trade or business of the employer.
+
+(2) *Calendar year method*—(i) *Relevant period.* Under the calendar year method, the relevant period for an employee is the entire calendar year with respect to which the credit is being claimed. However, for any employee who is employed by the employer for less than the entire calendar year, the relevant period is the portion of that calendar year during which the employee is employed by the employer.
+
+(ii) *Application of method.* Under this method, an employee does not satisfy the location-of-services requirement during any part of a calendar year unless substantially all of the services performed by the employee for the employer during that calendar year (or, if the employee is employed by the employer for less than the entire calendar year, the portion of that calendar year during which the employee is employed by the employer) are performed within the empowerment zone in a trade or business of the employer.
+
+(3) *Examples.* This paragraph (b) may be illustrated by the following examples. In each example, the following assumptions apply. The employees satisfy the abode requirement at all relevant times and all services performed by the employees for their employer are performed in a trade or business of the employer. The employees are not precluded from being qualified zone employees by section 1396(d)(2) (certain employees ineligible). No portion of the employees' wages is precluded from being qualified zone wages by section 1396(c)(2) (only first $15,000 of wages taken into account) or section 1396(c)(3) (coordination with targeted jobs credit and work opportunity credit). The examples are as follows:
+
+Example 1.(i) Employer X has a weekly pay period for all its employees. Employee A works for X throughout 1997. During each of the first 20 weekly pay periods in 1997, substantially all of A's work for X is performed within the empowerment zone in which A resides. A also works in the zone at various times during the rest of the year, but there is no other pay period in which substantially all of A's work for X is performed within the empowerment zone. Employer X uses the pay period method.
+
+(ii) For each of the first 20 pay periods of 1997, A is a qualified zone employee, all of A's wages from X are qualified zone wages, and X may claim the empowerment zone employment credit with respect to those wages. X cannot claim the credit with respect to any of A's wages for the rest of 1997.
+
+Example 2.(i) Employer Y has a weekly pay period for its factory workers and a bi-weekly pay period for its office workers. Employee B works for Y in various factories and Employee C works for Y in various offices. Employer Y uses the pay period method.
+
+(ii) Y must use B's weekly pay periods to determine the periods (if any) in which B is a qualified zone employee. Y may claim the empowerment zone employment credit with respect to B's wages only for the weekly pay periods for which B is a qualified zone employee, because those are B's only wages that are qualified zone wages. Y must use C's bi-weekly pay periods to determine the periods (if any) in which C is a qualified zone employee. Y may claim the credit with respect to C's wages only for the bi-weekly pay periods for which C is a qualified zone employee, because those are C's only wages that are qualified zone wages.
+
+Example 3.(i) Employees D and E work for Employer Z throughout 1997. Although some of D's work for Z in 1997 is performed outside the empowerment zone in which D resides, substantially all of it is performed within that empowerment zone. E's work for Z is performed within the empowerment zone in which E resides for several weeks of 1997 but outside the zone for the rest of the year so that, viewed on an annual basis, E's work is not substantially all performed within the empowerment zone. Employer Z uses the calendar year method.
+
+(ii) D is a qualified zone employee for the entire year, all of D's 1997 wages from Z are qualified zone wages, and Z may claim the empowerment zone employment credit with respect to all of those wages, including the portion attributable to work outside the zone. Under the calendar year method, E is not a qualified zone employee for any part of 1997, none of E's 1997 wages are qualified zone wages, and Z cannot claim any empowerment zone employment credit with respect to E's wages for 1997. Z cannot use the calendar year method for D and the pay period method for E because Z must use the same method for all employees. For 1998, however, Z can switch to the pay period method for E if Z also switches to the pay period method for D and all of Z's other employees.
+
+(c) *Effective date.* This section applies with respect to wages paid or incurred on or after December 21, 1994.
+
+[T.D. 8747, 62 FR 67727, Dec. 30, 1997]

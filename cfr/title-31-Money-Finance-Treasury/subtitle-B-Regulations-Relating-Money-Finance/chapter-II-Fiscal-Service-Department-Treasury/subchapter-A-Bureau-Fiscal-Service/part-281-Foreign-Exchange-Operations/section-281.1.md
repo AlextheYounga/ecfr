@@ -1,0 +1,3 @@
+##### § 281.1 Authority. #####
+
+By virtue of the authority vested in the Secretary of the Treasury by section 114 of the Budget and Accounting Procedures Act of 1950, 64 Stat. 836, 31 U.S.C. 66b; section 613 of the Act of September 4, 1961, 75 Stat. 443; Executive Order No. 10488, 18 FR 5699, 3 CFR 1949-1953 Comp.; and Executive Order No. 10900, 26 FR 143, the following regulations are prescribed for administration of the purchase custody, deposit, transfer, sale and reporting of foreign exchange (including credits and currencies) by executive departments and agencies (hereinafter referred to as agencies).

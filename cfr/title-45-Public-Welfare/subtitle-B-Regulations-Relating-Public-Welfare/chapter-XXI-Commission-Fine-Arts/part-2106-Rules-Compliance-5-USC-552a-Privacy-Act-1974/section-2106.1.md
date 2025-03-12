@@ -1,0 +1,9 @@
+##### § 2106.1 Rules for determining if an individual is the subject of a record. #####
+
+(a) Individuals desiring to know if a specific system of records maintained by the Commission of Fine Arts contains a record pertaining to them should address their inquiries to the Secretary, Commission of Fine Arts, 708 Jackson Place, NW., Washington, DC 20006. The written inquiry should contain a specific reference to the system of records maintained by CFA listed in the CFA Notices of Systems of Records or it should describe the type of record in sufficient detail to reasonably identify the system of records. Notice of CFA Systems of Records will be made in the Federal Register and copies of the notices will be available upon request to the Secretary when so published. A compilation of such notices will also be made and published by the Office of the Federal Register in accordance with section 5 U.S.C. 552a(f).
+
+(b) At a minimum, the request should contain sufficient identifying information to allow CFA to determine if there is a record pertaining to the individual making the request in a particular system of records. In instances where identification is insufficient to insure disclosure to the individual to whom the information pertains in view of the sensitivity of the information, CFA reserves the right to solicit from the requester additional identifying information.
+
+(c) Ordinarily the requester will be informed whether the named system of records contains a record pertaining to the requester within 10 days of the receipt of such a request (excluding Saturdays, Sundays, and legal Federal holidays). Such a response will also contain or reference the procedures which must be followed by the individual making the request in order to gain access to the record.
+
+(d) Whenever a response cannot be made within 10 days, the Secretary will inform the requester of the reasons for the delay and the date by which a response may be anticipated.

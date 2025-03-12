@@ -1,0 +1,5 @@
+##### § 25.2503-1 General definitions of “taxable gifts” and of “total amount of gifts.” #####
+
+The term *taxable gifts* means the “total amount of gifts” made by the donor during the “calendar period” (as defined in § 25.2502-1(c)(1)) less the deductions provided for in sections 2521 (as in effect before its repeal by the Tax Reform Act of 1976), 2522, and 2523 (specific exemption, charitable, etc., gifts and the marital deduction, respectively). The term “total amount of gifts” means the sum of the values of the gifts made during the calendar period less the amounts excludable under section 2503(b). See § 25.2503-2. The entire value of any gift of a future interest in property must be included in the total amount of gifts for the calendar period in which the gift is made. See § 25.2503-3.
+
+[T.D. 7910, 48 FR 40373, Sept. 7, 1983]

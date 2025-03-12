@@ -1,0 +1,3 @@
+##### § 1614.1 Purpose. #####
+
+Private attorney involvement shall be an integral part of a total local program undertaken within the established priorities of that program, and consistent with LSC's governing statutes and regulations, in a manner that furthers the statutory requirement of providing high quality, economical, and effective client-centered legal assistance and legal information to eligible clients. This part is designed to ensure that recipients of LSC funds involve private attorneys, and encourages recipients to involve law students, law graduates, or other professionals, in the delivery of legal information and legal assistance to eligible clients.

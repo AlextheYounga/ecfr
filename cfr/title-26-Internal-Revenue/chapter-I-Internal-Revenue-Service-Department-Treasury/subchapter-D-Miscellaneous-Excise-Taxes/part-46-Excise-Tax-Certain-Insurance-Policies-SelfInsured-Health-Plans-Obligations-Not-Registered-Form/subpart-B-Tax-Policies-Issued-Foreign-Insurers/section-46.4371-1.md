@@ -1,0 +1,3 @@
+##### § 46.4371-1 Applicability of subpart. #####
+
+The provisions of this subpart apply only to premiums paid on or after January 1, 1966. See subpart H, part 47 of this chapter for provisions relating to premiums paid or charged before January 1, 1966. If any portion of the tax imposed by section 4371 was paid on the basis of the premium charged before January 1, 1966, in accordance with the provisions of § 47.4371-2 of this chapter (documentary stamp tax), then, to the extent that such portion was paid by stamp, no further tax is due under the provisions of this subpart.

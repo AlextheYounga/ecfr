@@ -1,0 +1,7 @@
+##### § 353.23 Evidence. #####
+
+(a) *General.* To establish the validity of judicial proceedings, certified copies of the final judgment, decree, or court order, and of any necessary supplementary proceedings, must be submitted. If the judgment, decree, or court order was rendered more than six months prior to the presentation of the bond, there must also be submitted a certification from the clerk of the court, under court seal, dated within six months of the presentation of the bond, showing that the judgment, decree, or court order is in full force.
+
+(b) *Trustee in bankruptcy or receiver of an insolvent's estate.* A request for payment by a trustee in bankruptcy or a receiver of an insolvent's estate must be supported by appropriate evidence of appointment and qualification. The evidence must be certified by the clerk of the court, under court seal, as being in full force on a date that is not more than six months prior to the presentation of the bond.
+
+(c) *Receiver in equity or similar court officer.* A request for payment by a receiver in equity or a similar court officer, other than a receiver of an insolvent's estate, must be supported by a copy of an order that authorizes the presentation of the bond for redemption, certified by the clerk of the court, under court seal, as being in full force on a date that is not more than six months prior to the presentation of the bond.

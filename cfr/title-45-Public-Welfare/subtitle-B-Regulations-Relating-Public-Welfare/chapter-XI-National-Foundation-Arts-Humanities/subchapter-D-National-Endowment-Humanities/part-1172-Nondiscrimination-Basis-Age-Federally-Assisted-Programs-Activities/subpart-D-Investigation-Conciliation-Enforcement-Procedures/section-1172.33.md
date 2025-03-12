@@ -1,0 +1,11 @@
+##### § 1172.33 Mediation. #####
+
+(a) *Referral of complaints for mediation.* Unless the age distinction complained of is clearly within an exception, NEH will promptly refer all complaints that fall within the jurisdiction of the regulations in this part, and that contain all information necessary for further processing, to the Mediation Agency designated by the Secretary of the Department of Health and Human Services.
+
+(b) Both the complainant and the recipient shall participate in the mediation process to the extent necessary to reach an agreement, or for the mediator to make an informed judgment that an agreement is impossible.
+
+(c) If the complainant and recipient reach a mutually satisfactory resolution of the complaint during the mediation period, the mediator shall prepare a mediation agreement in writing, to be signed by the complainant and recipient, and send a copy of the signed agreement to NEH. NEH will take no further action based on that complaint unless the complainant or the recipient has failed to comply with the agreement.
+
+(d) The mediator shall protect the confidentiality of all information obtained in the course of the mediation process, and no mediator shall testify in any adjudicative proceeding, produce any document, or otherwise disclose any information obtained in the course of the mediation process without prior approval of the head of the mediation agency.
+
+(e) If the complainant and recipient do not reach a mutually satisfactory resolution during mediation within sixty (60) days after NEH receives the complaint, the mediator shall return the complaint to NEH for investigation. The mediator may return a complaint at any time before the end of the sixty-day period if it appears that the complaint cannot be resolved through mediation or if an agreement is reached. The mediator may extend this sixty-day period, provided NEH concurs, for not more than thirty (30) days, if the mediator determines that resolution is likely to occur within such period.

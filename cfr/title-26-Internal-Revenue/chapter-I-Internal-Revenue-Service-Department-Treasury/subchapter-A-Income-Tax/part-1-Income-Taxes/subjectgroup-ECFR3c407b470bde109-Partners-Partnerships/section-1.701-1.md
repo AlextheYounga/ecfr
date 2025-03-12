@@ -1,0 +1,3 @@
+##### § 1.701-1 Partners, not partnership, subject to tax. #####
+
+Partners are liable for income tax only in their separate capacities. Partnerships as such are not subject to the income tax imposed by subtitle A but are required to make returns of income under the provisions of section 6031 and the regulations thereunder. For definition of the terms “partner” and “partnership”, see sections 761 and 7701(a)(2), and the regulations thereunder. For provisions relating to the election of certain partnerships to be taxed as domestic corporations, see section 1361 and the regulations thereunder.

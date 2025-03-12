@@ -1,0 +1,11 @@
+##### § 1203.6 Compliance information. #####
+
+(a) *Cooperation and assistance.* ACTION, to the fullest extent practicable, shall seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Compliance reports.* Each recipient shall keep records and submit to ACTION timely, complete, and accurate compliance reports at the times, and in the form and containing the information ACTION may determine necessary to enable it to ascertain whether the recipient has complied or is complying with this part. In the case in which a primary recipient extends Federal financial assistance to other recipients, the other recipients shall also submit compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this part. In general, recipients should have available for ACTION racial and ethnic data showing the extent to which members of minority groups are beneficiaries of federally assisted programs.
+
+(c) *Access to sources of information.* Each recipient shall permit access by ACTION during normal business hours to its books, records, accounts, and other sources of information, and its facilities as may be pertinent to ascertain compliance with this part. When information required of a recipient is in the exclusive possession of an other agency, institution, or person and this agency, institution, or person fails or refuses to furnish this information, the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information.
+
+(d) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons the information regarding the provisions of this part and its applicability to the program for which the recipient received Federal financial assistance, and make this information available to them in the manner, as ACTION finds necessary, to apprise the persons of the protections against discrimination assured them by title VI and this part.
+
+[39 FR 27322, July 26, 1974, as amended at 68 FR 51387, Aug. 26, 2003]

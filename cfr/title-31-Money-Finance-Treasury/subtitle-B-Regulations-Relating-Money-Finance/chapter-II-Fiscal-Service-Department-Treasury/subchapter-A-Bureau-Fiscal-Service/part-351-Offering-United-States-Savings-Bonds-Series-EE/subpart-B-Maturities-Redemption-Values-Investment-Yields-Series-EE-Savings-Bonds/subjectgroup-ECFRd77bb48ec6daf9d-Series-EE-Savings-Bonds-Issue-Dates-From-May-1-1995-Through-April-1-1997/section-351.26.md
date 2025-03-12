@@ -1,0 +1,5 @@
+##### § 351.26 What are the interest rates and redemption values for bonds with issue dates from May 1, 1995 through April 1, 1997, during semiannual rate periods that begin 5 years or more after issue date? #####
+
+(a) *Interest rates.* The interest rate for a Series EE bond bearing an issue date of May 1, 1995, through April 1, 1997, for semiannual earning periods beginning 5 years from issue date through original maturity, is the long-term savings bond rate as defined in § 351.12.
+
+(b) *Redemption values.* We calculate redemption values for semiannual accrual dates occurring after 5 years from issue date, through original maturity, in accordance with § 351.28, except that the redemption value at the date of original maturity shall not be less than the denomination (face amount or face value).

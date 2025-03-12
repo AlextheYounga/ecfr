@@ -1,0 +1,3 @@
+##### § 1172.22 Notice to subrecipients. #####
+
+Where a recipient passes on Federal financial assistance from NEH to subrecipients, the recipient must provide the subrecipients with written notice of their obligations under the Act and the regulations in this part. Each recipient must also make necessary information available to its beneficiaries in order to inform them about the protections against discrimination provided by the Act and the regulations in this part.

@@ -1,0 +1,5 @@
+##### § 48.0-3 Exemption certificates. #####
+
+Several sections of the regulations in this part, relating to sales exempt from retailers or manufacturers excise tax, require the retailer or manufacturer (as the case may be) to obtain an exemption certificate from the purchaser to substantiate the exempt character of the sale. Many of these sections also contain specimen forms of acceptable exemption certificates. However, any form of exemption certificate will be acceptable if it includes all the information required to be contained in such a certificate by the pertinent sections of the regulations in this part. If it contains all the required information, a form of exemption certificate that is processed by data processing equipment is acceptable.
+
+[T.D. 7536, 43 FR 13516, Mar. 31, 1978. Redesignated by T.D. 8043, 50 FR 32014, Aug. 8, 1985]

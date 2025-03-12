@@ -1,0 +1,9 @@
+##### § 5.23 Where do I send my FOIA request? #####
+
+We have several FOIA Requester Service Centers (FOIA offices) that process FOIA requests. You should send your FOIA request to the appropriate FOIA Requester Service Center that you believe would have the records you seek. An up-to-date listing is maintained online at *http://www.hhs.gov/foia/contacts/index.html.* You also may submit your request electronically by emailing it to the appropriate FOIA Requester Service Center or by submitting it to the Department's web portal located at *https://requests.publiclink.hhs.gov/palMain.aspx.*
+
+(a) If you are requesting research data made available under the provisions of 45 CFR 75.322(e), requests for such data should be addressed to the OpDiv that made the award under which the data were first produced. That OpDiv will process your request in accordance with established procedures consistent with the FOIA and 45 CFR 75.322(e).
+
+(b) We officially receive your request when it reaches the FOIA Requester Service Center with responsibility for the OpDiv or StaffDiv where requested records are likely to be located, but no later than 10 working days after the request first arrives at any of our FOIA Requester Service Centers.
+
+(c) If you have questions concerning the processing of your FOIA request, you may contact the FOIA Requester Service Center processing your request. If that initial contact does not resolve your concerns, you may wish to contact the designated FOIA Public Liaison for the OpDiv or StaffDiv processing your request. You can find a list of our FOIA Requester Service Centers and Public Liaisons at *http://www.hhs.gov/foia/contacts/index.html.*

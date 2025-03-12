@@ -1,0 +1,7 @@
+##### § 400.115 Establishing legal responsibility. #####
+
+(a) A State must ensure that legal responsibility is established, including legal custody and/or guardianship, as appropriate, in accordance with applicable State law, for each unaccompanied minor who resettles in the State. The State must initiate procedures for establishing legal responsibility for the minor, with an appropriate court (if action by a court is required by State law), within 30 days after the minor arrives at the location of resettlement.
+
+(b) In establishing legal responsibility, including legal custody and/or guardianship under State law, as appropriate, the minor's natural parents should not be contacted in their native country since contact could be dangerous to the parents.
+
+(c) Unaccompanied minors are not generally eligible for adoption since family reunification is the objective of the program. In certain rare cases, adoption may be permitted pursuant to adoption laws in the State of resettlement, provided a court finds that: (1) Adoption would be in the best interest of the child; and (2) there is termination of parental rights (for example, in situations where the parents are dead or are missing and presumed dead) as determined by the appropriate State court. When adoption occurs, the child's status as an unaccompanied minor terminates.

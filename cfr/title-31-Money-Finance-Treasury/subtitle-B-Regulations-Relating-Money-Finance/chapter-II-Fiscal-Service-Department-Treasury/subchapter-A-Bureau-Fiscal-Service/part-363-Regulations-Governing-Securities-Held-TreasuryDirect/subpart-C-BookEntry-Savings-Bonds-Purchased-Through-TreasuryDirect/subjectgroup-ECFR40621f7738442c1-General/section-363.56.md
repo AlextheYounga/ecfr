@@ -1,0 +1,3 @@
+##### § 363.56 What is the minimum amount of book-entry savings bonds that I may transfer in any one transaction? #####
+
+Each transfer must be in a minimum amount of $25 redemption value, with additional one-cent increments above that amount, in any one transaction. For example, you may transfer $25.00, $25.01, $25.02, or $25.03, and so forth. Transfers will be comprised of principal and proportionate interest.

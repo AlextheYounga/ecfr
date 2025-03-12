@@ -1,0 +1,3 @@
+##### § 1303.56 Inspection of work. #####
+
+The grantee must submit to the responsible HHS official a final facility inspection report by a licensed engineer or architect within 30 calendar days after the project is completed. The inspection report must certify that the facility complies with local building codes, applicable child care licensing requirements, is structurally sound and safe for use as a Head Start facility, complies with the access requirements of the Americans with Disabilities Act, section 504 of the Rehabilitation Act, and the Flood Disaster Protection Act of 1973, and complies with National Historic Preservation Act of 1966.

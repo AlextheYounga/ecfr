@@ -1,0 +1,3 @@
+##### § 537.802 Delegation by the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to the Tom Lantos Block Burmese JADE (Junta's Anti-Democratic Efforts) Act of 2008 (Pub. L. 110-286); Executive Order 13047 of May 20, 1997, Executive Order 13310 of July 28, 2003, Executive Order 13448 of October 18, 2007, Executive Order 13464 of April 30, 2008, Executive Order 13619 of July 11, 2012, Executive Order 13651 of August 6, 2013, and any further Executive orders relating to the national emergency declared in Executive Order 13047, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

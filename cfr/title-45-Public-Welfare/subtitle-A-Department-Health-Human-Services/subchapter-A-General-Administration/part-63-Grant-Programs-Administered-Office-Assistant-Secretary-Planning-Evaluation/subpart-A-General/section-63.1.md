@@ -1,0 +1,11 @@
+##### § 63.1 Purpose and scope. #####
+
+(a) *Applicability.* Except to the extent inconsistent with an applicable Federal statute the regulations in this part apply to all grant awards of Federal assistance made by the Assistant Secretary for Planning and Evaluation or his designee, hereinafter referred to in this part as the Assistant Secretary. Such grants include those under section 232 of the Community Services Act (42 U.S.C. 2835), section 1110 of the Social Security Act (42 U.S.C. 1310), section 392A of the Communications Act of 1934, and such other authority as may be delegated to the Assistant Secretary for policy research activities.
+
+(b) *Exceptions to applicability.* The award and administration of contracts and cooperative agreements by the Assistant Secretary shall not be covered by this subchapter. Contracts entered into by the Assistant Secretary shall be subject to the regulations in 41 CFR Chapters 1 and 3. Generally, the Assistant Secretary will select between grant and contract procedures and instruments, both with regard to the solicitation process and with respect to unsolicited proposals, on the basis of criteria set forth in the proposed revision of 41 CFR 3-1.53 published at 39 FR 27469 at any subsequent revision thereof.
+
+(c) *Objectives* - (1) *Policy research.* The overall objective of policy research activities is to obtain information, as it relates to the mission of the Department of Health and Human Services, about the basic causes of and methods for preventing and eliminating poverty and dependency and about improved methods for delivering human resources services. Such information is obtained through the conduct of basic and applied research, statistical analyses, and demonstrations and evaluations which have demonstrated a high probability of impacting on the formulation or modification of major Departmental policies and programs.
+
+(2) *Telecommunications demonstrations.* The overall objective of the Telecommunications Demonstration Program is to promote the development of nonbroadcast telecommunications facilities and services for the transmission, distribution, and delivery of health, education, and social service information.
+
+[40 FR 23295, May 29, 1975, as amended at 42 FR 36149, July 13, 1977]

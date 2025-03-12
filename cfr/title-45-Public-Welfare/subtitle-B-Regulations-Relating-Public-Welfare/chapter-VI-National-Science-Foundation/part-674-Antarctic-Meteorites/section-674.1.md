@@ -1,0 +1,3 @@
+##### § 674.1 Purpose of regulations. #####
+
+The purpose of the regulations in this part is to implement the Antarctic Conservation Act of 1978, as amended by the Antarctic Science, Tourism and Conservation Act of 1996, (16 U.S.C 2401 *et seq.*), and Article 7 of the Protocol on Environmental Protection to the Antarctic Treaty done at Madrid on October 4, 1991. Specifically, this part is designed to ensure meteorites in Antarctica will be collected for scientific research purposes only and that U.S. expedition organizers to Antarctica who plan to collect meteorites in Antarctica will ensure that any specimens collected will be properly collected, handled, documented and curated to preserve their scientific value.

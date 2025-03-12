@@ -1,0 +1,3 @@
+##### § 2556.325 May a VISTA be provided coverage for legal defense expenses related to VISTA service? #####
+
+Under certain circumstances, as set forth in §§ 2556.330 through 2556.335, CNCS may pay reasonable legal defense expenses incurred in judicial or administrative proceedings for the defense of a VISTA serving in the VISTA program. Such covered legal expenses consist of counsel fees, court costs, bail, and other expenses incidental to a VISTA's legal defense.

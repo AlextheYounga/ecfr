@@ -1,0 +1,7 @@
+##### § 1182.17 Institute systems of records that are covered by exemptions in the Privacy Act. #####
+
+(a) Pursuant to and limited by 5 U.S.C. 552a(j)(2), the Institute system entitled “Office of the Inspector General Investigative Files” shall be exempted from the provisions of 5 U.S.C. 552a, except for subsections (b); (c)(1) and (2); (e)(4)(A) through (F); (e)(6), (7), (9), (10), and (11); and (i), insofar as that Institute system contains information pertaining to criminal law enforcement investigations.
+
+(b) Pursuant to and limited by 5 U.S.C. 552a(k)(2), the Institute system entitled “Office of the Inspector General Investigative Files” shall be exempted from 5 U.S.C. 552a(c)(3); (d); (e)(1); (e)(4)(G), (H), and (I); and (f), insofar as that Institute system consists of investigatory material compiled for law enforcement purposes, other than material within the scope of the exemption at 5 U.S.C. 552a(j)(2).
+
+(c) The Institute system entitled “Office of the Inspector General Investigative Files” is exempt from the provisions of the Privacy Act noted in this section because their application might alert investigation subjects to the existence or scope of investigations; lead to suppression, alteration, fabrication, or destruction of evidence; disclose investigative techniques or procedures; reduce the cooperativeness or safety of witnesses; or otherwise impair investigations.

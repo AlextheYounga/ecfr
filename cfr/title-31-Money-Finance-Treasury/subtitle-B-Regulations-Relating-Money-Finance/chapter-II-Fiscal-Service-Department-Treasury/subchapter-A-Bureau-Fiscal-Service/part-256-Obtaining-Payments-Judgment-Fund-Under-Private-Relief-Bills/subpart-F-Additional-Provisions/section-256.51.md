@@ -1,0 +1,3 @@
+##### § 256.51 Does Fiscal Service report Judgment Fund payments to the IRS as income to the payee on IRS Form 1099? #####
+
+No, Fiscal Service does not report Judgment Fund payments as potential taxable income to the IRS. Fiscal Service does not have sufficient information about the payment to determine if a Form 1099 must be issued or to prepare such a form when required. To the extent any Form 1099 needs to be issued, it is the responsibility of the agency submitting the payment request to do so.

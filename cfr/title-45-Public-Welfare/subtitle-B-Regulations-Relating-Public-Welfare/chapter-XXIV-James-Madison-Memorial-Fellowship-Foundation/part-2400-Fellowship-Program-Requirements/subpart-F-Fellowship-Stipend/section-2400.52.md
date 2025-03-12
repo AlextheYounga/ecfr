@@ -1,0 +1,3 @@
+##### § 2400.52 Amount of stipend. #####
+
+Junior and Senior Fellowships carry a stipend of up to a maximum of $24,000 pro-rated over the period of Fellows' graduate study. In no case shall the stipend for a fellowship exceed $12,000 per academic year. Within this limit, stipends will be pro-rated over the period of Fellows' graduate study as follows: a maximum of $6,000 per academic semester or trimester of full-time study, and a maximum of $4,000 per academic quarter of full-time study. Stipends for part-time study will be pro rata shares of those allowable for full-time study.

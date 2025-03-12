@@ -1,0 +1,5 @@
+##### § 75.111 English language. #####
+
+(a) All Federal financial assistance announcements and Federal award information must be in the English language. Applications must be submitted in the English language and must be in the terms of U.S. dollars. If the HHS awarding agency receives applications in another currency, the HHS awarding agency will evaluate the application by converting the foreign currency to United States currency using the date specified for receipt of the application.
+
+(b) Non-Federal entities may translate the Federal award and other documents into another language. In the event of inconsistency between any terms and conditions of the Federal award and any translation into another language, the English language meaning will control. Where a significant portion of the non-Federal entity's employees who are working on the Federal award are not fluent in English, the non-Federal entity must provide the Federal award in English and the language(s) with which employees are more familiar.

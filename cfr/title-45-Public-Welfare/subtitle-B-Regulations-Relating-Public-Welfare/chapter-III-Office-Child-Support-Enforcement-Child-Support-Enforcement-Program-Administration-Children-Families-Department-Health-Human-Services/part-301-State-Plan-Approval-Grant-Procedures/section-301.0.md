@@ -1,0 +1,3 @@
+##### § 301.0 Scope and applicability of this part. #####
+
+This part deals with the administration of title IV-D of the Social Security Act by the Federal Government including actions on the State plan and amendments thereto and review of such actions; grants under the approved plan; review and audit of State and local expenditures; and reconsideration of disallowances of expenditures for Federal financial participation.

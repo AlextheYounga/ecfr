@@ -1,0 +1,5 @@
+##### § 155.1302 Coordinated waiver process. #####
+
+(a) *Coordination with applications for waivers under other Federal laws.* A State may submit a single application to the Secretary for a waiver under section 1332 of the Affordable Care Act and a waiver under one or more of the existing waiver processes applicable under titles XVIII, XIX, and XXI of the Act, or under any other Federal law relating to the provision of health care items or services, provided that such application is consistent with the procedures described in this part, the procedures for demonstrations under section 1115 of the Act, if applicable, and the procedures under any other applicable Federal law under which the State seeks a waiver.
+
+(b) *Coordinated process for section 1332 waivers.* A State seeking a section 1332 waiver must submit a waiver application to the Secretary. Any application submitted to the Secretary that requests to waive sections 36B, 4980H, or 5000A of the Code, in accordance with section 1332(a)(2)(D) of the Affordable Care Act, shall upon receipt be transmitted by the Secretary to the Secretary of the Treasury to be reviewed in accordance with 31 CFR part 33.

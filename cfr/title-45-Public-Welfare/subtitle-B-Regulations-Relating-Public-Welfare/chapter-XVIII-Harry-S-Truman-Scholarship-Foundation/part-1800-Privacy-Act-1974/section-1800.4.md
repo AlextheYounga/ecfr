@@ -1,0 +1,3 @@
+##### § 1800.4 Times, places, and requirements for the identification of the individual making a request. #####
+
+An individual making a request to the Deputy Executive Secretary of the Foundation pursuant to § 1800.3 shall present the request at the Foundation offices, 712 Jackson Place, NW., Washington, DC 20006, on any business day between the hours of 9 a.m. and 5 p.m. The individual submitting the request should present himself or herself at the Foundation's offices with a form of identification which will permit the Foundation to verify that the individual is the same individual as contained in the record requested.

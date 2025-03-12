@@ -1,0 +1,3 @@
+##### § 1.165-10 Wagering losses. #####
+
+Losses sustained during the taxable year on wagering transactions shall be allowed as a deduction but only to the extent of the gains during the taxable year from such transactions. In the case of a husband and wife making a joint return for the taxable year, the combined losses of the spouses from wagering transactions shall be allowed to the extent of the combined gains of the spouses from wagering transactions.

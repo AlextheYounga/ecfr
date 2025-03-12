@@ -1,0 +1,9 @@
+##### § 514.5 Patent and copyright royalties and film rentals. #####
+
+(a) *Exemption from tax.* Royalties for the right to use copyrights, patents, designs, secret processes and formulae, trademarks, and other analogous property, and royalties and rentals in respect of motion picture films or for the use of industrial, commercial, or scientific equipment, which are derived from sources within the United States on or after January 1, 1945, by a nonresident alien individual who is a resident of France, or by a French corporation, are exempt from United States tax under the provisions of Article 7 of the convention signed July 25, 1939, as modified by Article 7(b) of the convention signed October 18, 1946, if such alien or corporation at no time during the taxable year in which such income is derived has engaged in trade or business within the United States through a permanent establishment situated therein.
+
+(b) *Exemption from withholding of United States tax.* To avoid withholding of United States tax at source in the case of items of income to which this section applies, the nonresident alien who is a resident of France, or the French corporation, shall file Form 1001A-F, in duplicate, with the withholding agent in the United States.
+
+(c) *Manner of filing.* The provisions of § 514.4 relating to the execution, filing, effective period, and disposition of Form 1001A-F, are equally applicable with respect to the income falling within the scope of this section.
+
+(d) *Revocation of 26 CFR* (*1939*) *7.418* (*Treasury Decision 5499*). Effective January 1, 1957, the provisions of 26 CFR 7.418 (Rev. 1953, Parts 1-79, and Supps.) (Treasury Decision 5499, 11 F.R. 2158), approved February 27, 1946, are hereby made inapplicable, and the provisions of this section are hereby substituted therefor with respect to payments of royalties and film rentals made on or after January 1, 1957.

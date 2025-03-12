@@ -1,0 +1,3 @@
+##### § 256.11 How do agencies request payments? #####
+
+Agencies must submit requests for payments from the Judgment Fund on Fiscal Service's Judgment Fund payment request forms or by using other approved methods as provided for on the Judgment Fund Web site at *http://www.fiscal.treasury.gov/judgefund.* Fiscal Service provides forms and detailed information about Judgment Fund payments in the TFM, Volume I, Part 6, Chapter 3100. The TFM is also available on the Judgment Fund Web site. The submitting agency must complete and sign all required Judgment Fund forms and must attach all required supporting documents.

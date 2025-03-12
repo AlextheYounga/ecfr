@@ -1,0 +1,3 @@
+##### § 346.4 Proof of purchase. #####
+
+At the time an Individual Retirement Bond is issued, the issuing agent will furnish therewith to the purchaser a copy of Form PD 4345 for the purchaser's personal records. The form will show the name and address of the registered owner, his date of birth, social security account number, the number of bonds issued, a description thereof by issue date, serial numbers, denominations, and registration.

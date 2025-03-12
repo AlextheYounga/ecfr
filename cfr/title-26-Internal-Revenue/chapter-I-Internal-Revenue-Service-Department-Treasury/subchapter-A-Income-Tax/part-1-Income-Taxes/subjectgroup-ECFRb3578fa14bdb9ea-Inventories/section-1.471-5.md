@@ -1,0 +1,11 @@
+##### § 1.471-5 Inventories by dealers in securities. #####
+
+A dealer in securities who in his books of account regularly inventories unsold securities on hand either—
+
+(a) At cost,
+
+(b) At cost or market, whichever is lower, or
+
+(c) At market value,
+
+may make his return upon the basis upon which his accounts are kept, provided that a description of the method employed is included in or attached to the return, that all the securities are inventoried by the same method, and that such method is adhered to in subsequent years, unless another method is authorized by the Commissioner pursuant to a written application therefor filed as provided in paragraph (e) of § 1.446-1. A dealer in securities in whose books of account separate computations of the gain or loss from the sale of the various lots of securities sold are made on the basis of the cost of each lot shall be regarded, for the purposes of this section, as regularly inventorying his securities at cost. For the purposes of this section, a dealer in securities is a merchant of securities, whether an individual, partnership, or corporation, with an established place of business, regularly engaged in the purchase of securities and their resale to customers; that is, one who as a merchant buys securities and sells them to customers with a view to the gains and profits that may be derived therefrom. If such business is simply a branch of the activities carried on by such person, the securities inventoried as provided in this section may include only those held for purposes of resale and not for investment. Taxpayers who buy and sell or hold securities for investment or speculation, irrespective of whether such buying or selling constitutes the carrying on of a trade or business, and officers of corporations and members of partnerships who in their individual capacities buy and sell securities, are not dealers in securities within the meaning of this section. See §§ 1.263A-1 and 1.263A-3 for rules regarding the treatment of costs with respect to property acquired for resale.[T.D. 6500, 25 FR 11725, Nov. 26, 1960, as amended by T.D. 8131, 52 FR 10084, Mar. 30, 1987; T.D. 8482, 58 FR 42234, Aug. 9, 1993]

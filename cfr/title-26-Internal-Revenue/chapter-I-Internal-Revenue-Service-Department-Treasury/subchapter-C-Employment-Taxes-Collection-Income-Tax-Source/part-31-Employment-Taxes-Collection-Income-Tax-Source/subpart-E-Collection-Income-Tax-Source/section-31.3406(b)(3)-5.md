@@ -1,0 +1,27 @@
+##### § 31.3406(b)(3)-5 Reportable payments of payment card and third party network transactions. #####
+
+(a) *Payment card and third party network transactions subject to backup withholding.* The gross amount of a reportable transaction that is required to be reported under section 6050W (relating to information reporting for payment card and third party network transactions) is a reportable payment for purposes of section 3406. See § 31.6051-4 for the requirement to furnish a statement to the payee if tax is withheld under section 3406.
+
+(b) *Amount subject to backup withholding.* In general, the amount described in paragraph (a) of this section that is subject to withholding under section 3406 is the amount subject to reporting under section 6050W. In the case of payments made in settlement of third party network transactions, the amount subject to withholding under section 3406 is determined without regard to the exception for de minimis payments by third party settlement organizations in section 6050W(e) and the associated regulations.
+
+(c) *Time when payments are considered to be subject to backup withholding*—(1) *In general.* In the case of a payment card or third party network transaction reportable under section 6050W, the obligation to withhold arises on the date of the transaction. A payor is not required, however, to satisfy its withholding liability until the time that payment is made.
+
+(2) *Example.* The provisions of paragraph (c)(1) are illustrated by the following example:
+
+Example.On Day 1, Customer A uses a payment card to purchase $100 worth of goods from Merchant B. Bank X, the merchant acquiring entity for B, is the party with the contractual obligation to make payment to B in settlement of the transaction. On Day 2, X, after deducting fees of $2, makes payment of $98 to settle the transaction for the sale of goods from B to A. Under paragraph (a)(6) of § 1.6050W-1, X must report the amount of $100, the amount of the transaction on Day 1, without any reduction for fees or any other amount, as the gross amount of this reportable payment transaction on the annual information return filed under paragraph (a)(1) of § 1.6050W-1. Under paragraph (c)(1) of this section, X's obligation, if any, to backup withhold arises on Day 1, the backup withholding obligation must be satisfied on Day 2, and the amount subject to backup withholding is $100 (the gross amount of the reportable payment transaction (as defined in paragraph (a)(6) of § 1.6050W-1)).
+
+(d) *Backup withholding from an alternate source*—(1) *In general.* A payor may not withhold under section 3406 from a source maintained by the payor other than the source with respect to which there exists a liability to withhold under section 3406 with respect to the payee. See section 3403 and § 31.3403-1, which provide that the payor is liable for the amount required to be withheld regardless of whether the payor withholds.
+
+(2) *Exceptions for backup withholding when there are no funds available*—(i) *Backup withholding from an alternative source.* In the event there are no funds available in the source with respect to which there exists a liability to withhold under section 3406 with respect to the payee, the payor may withhold under section 3406 from another source maintained by the payee with the payor. The source from which the tax is withheld under section 3406 must be payable to at least one of the persons listed on the account subject to withholding. If the account or source is not payable exclusively to the same person or persons listed on the account subject to withholding under section 3406, then the payor must obtain a written statement from all other persons to whom the account or source is payable authorizing the payor to withhold under section 3406 from the alternative account or source. A payor that elects to withhold under section 3406 from an alternative source may determine the account or source from which the tax is to be withheld, or may allow the payee to designate the alternative source.
+
+(ii) *Deferral of withholding.* If the payor cannot locate, with reasonable care (following procedures substantially similar to those set forth in § 31.3406(d)-5(c)(3)(ii)(A) and (B)), an alternative source of cash from which the payor may satisfy its withholding obligation pursuant to paragraph (d)(2)(i) of this section, the payor may defer its obligation to withhold under section 3406 until the earlier of—
+
+(A) The date on which cash, in a sufficient amount to satisfy the obligation in full, is deposited in the account subject to withholding under section 3406; or
+
+(B) The close of the fourth calendar year after the obligation arose.
+
+(iii) *Termination of obligation to backup withhold.* If, at the close of the fourth calendar year after the backup withholding arose, the payor has not located an alternate source of cash from which the payor may satisfy its withholding obligation, and sufficient cash to satisfy the obligation in full has not been deposited in the account subject to withholding under section 3406, then the obligation to backup withhold terminates at the close of the fourth calendar year.
+
+(e) *Effective/applicability date.* The provisions of this section apply to amounts paid after December 31, 2011.
+
+[T.D. 9496, 75 FR 49835, Aug. 16, 2010]

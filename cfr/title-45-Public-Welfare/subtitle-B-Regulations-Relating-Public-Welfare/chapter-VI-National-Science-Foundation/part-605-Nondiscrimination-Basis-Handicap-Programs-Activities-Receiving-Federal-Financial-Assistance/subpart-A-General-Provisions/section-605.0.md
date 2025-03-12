@@ -1,0 +1,5 @@
+##### § 605.0 Adoption of HHS regulations. #####
+
+The regulations of the Department of Health and Human Services on Nondiscrimination on the Basis of Handicap, 45 CFR part 84, including any amendments thereto, have been adopted almost in their entirety to programs or activities receiving Federal financial assistance from the National Science Foundation. The few changes in the Foundation's rules include a newly added sub-paragraph (5) to paragraph (k) of § 605.3; and modifications in paragraph (j), § 605.3; paragraph (a) of § 605.5; paragraph (b) of § 605.46; and § 605.61. Paragraph (c) of § 605.5 has been removed, and “qualified handicapped persons” has been substituted for “handicapped persons” wherever that phrase appears in § 605.4(b)(5) and in subpart C (§§ 605.21 through 605.23). The date for compliance with § 605.33(d) has been changed.
+
+[47 FR 8573, Mar. 1, 1982, as amended at 61 FR 51021, Sept. 30, 1996; 68 FR 51381, Aug. 26, 2003]

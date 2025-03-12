@@ -1,0 +1,27 @@
+##### § 1.175-6 Adoption or change of method. #####
+
+(a) *Adoption with consent.* A taxpayer may, without consent, adopt the method of treating expenditures for soil or water conservation as expenses for the first taxable year:
+
+(1) Which begins after December 31, 1953, and ends after August 16, 1954, and
+
+(2) For which soil or water conservation expenditures described in section 175(a) are paid or incurred.
+
+Such adoption shall be made by claiming the deduction on his income tax return. For a taxable year ending prior to May 31, 1957, the adoption of the method described in section 175 shall be made by claiming the deduction on such return for that year, or by claiming the deduction on an amended return filed for that year on or before August 30, 1957.
+
+(b) *Adoption with consent.* A taxpayer may adopt the method of treating soil and water conservation expenditures as provided by section 175 for any taxable year to which the section is applicable if consent is obtained from the district director for the internal revenue district in which the taxpayer's return is required to be filed.
+
+(c) *Change of method.* A taxpayer who has adopted the method of treating expenditures for soil or water conservation, as provided by section 175, may change from this method and capitalize such expenditures made after the effective date of the change, if he obtains the consent of the district director for the internal revenue district in which his return is required to be filed.
+
+(d) *Request for consent to adopt or change method.* Where the consent of the district director is required under paragraph (b) or (c) of this section, the request for his consent shall be in writing, signed by the taxpayer or his authorized representative, and shall be filed not later than the date prescribed by law for filing the income tax return for the first taxable year to which the adoption of, or change of, method is to apply, or not later than August 20, 1957, following their adoption, whichever is later. The request shall:
+
+(1) Set forth the name and address of the taxpayer;
+
+(2) Designate the first taxable year to which the method or change of method is to apply;
+
+(3) State whether the method or change of method is intended to apply to all expenditures within the permissible scope of section 175, or only to a particular project or farm and, if the latter, include such information as will identify the project or farm as to which the method or change of method is to apply;
+
+(4) Set forth the amount of all soil and water conservation expenditures paid or incurred during the first taxable year for which the method or change of method is to apply; and
+
+(5) State that the taxpayer will make an accounting segregation in his books and records of the expenditures to which the election relates.
+
+(e) *Scope of method.* Except with the consent of the district director as provided in paragraph (b) or (c) of this section, the taxpayer's method of treating soil and water conservation expenditures described in section 175 shall apply to all such expenditures for the taxable year of adoption and all subsequent taxable years. Although a taxpayer may have elected to deduct soil and water conservation expenditures, he may request an authorization to capitalize his soil and water conservation expenditures attributable to a special project or single farm. Similarly, a taxpayer who has not elected to deduct such expenditures may request an authorization to deduct his soil and water conservation expenditures attributable to a special project or single farm. The authorization with respect to the special project or single farm will not affect the method adopted with respect to the taxpayer's regularly incurred soil and water conservation expenditures. No adoption of, or change of, the method under section 175 will be permitted as to expenditures actually paid or incurred before the taxable year to which the method or change of method is to apply. Thus, if a taxpayer adopts such method for 1956, he cannot deduct any part of such expenditures which he capitalized, or should have capitalized, in 1955. Likewise, if a taxpayer who has adopted such method has an unused carryover of such expenditures in excess of the 25-percent limitation, and is granted consent to capitalize soil and water conservation expenditures beginning in 1956, he cannot capitalize any part of the unused carryover. The excess expenditures carried over continue to be deductible to the extent of 25 percent of the taxpayer's gross income from farming. No adjustment to the basis of land shall be made under section 1016 for expenditures to which the method under section 175 applies. For example, A has an unused carryover of soil and water conservation expenditures amounting to $5,000 as of December 31, 1956. On January 1, 1957, A sells his farm and goes out of the business of farming. The unused carryover of $5,000 cannot be added to the basis of the farm for purposes of determining gain or loss on its sale. In 1959, A purchases another farm and resumes the business of farming. In such year, A may deduct the amount of the unused carryover to the extent of 25 percent of his gross income from farming and may carry over any excess to subsequent years.

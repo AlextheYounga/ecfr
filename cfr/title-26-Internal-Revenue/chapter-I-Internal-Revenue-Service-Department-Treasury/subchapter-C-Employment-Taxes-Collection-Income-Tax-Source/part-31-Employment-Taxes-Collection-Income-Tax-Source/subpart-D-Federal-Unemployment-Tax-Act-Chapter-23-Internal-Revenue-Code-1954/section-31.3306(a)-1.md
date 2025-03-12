@@ -1,0 +1,17 @@
+##### § 31.3306(a)-1 Who are employers. #####
+
+(a) *Definition*—(1) *For calendar years 1956 through 1969, inclusive.* Every person who employs 4 or more employees in employment (within the meaning of section 3306 (c) and (d)) on a total of 20 or more calendar days during any calendar year after 1955 and before 1970, each such day being in a different calendar week, is with respect to such year an employer subject to the tax.
+
+(1a) *For 1970 and subsequent calendar years.* Every person who employs 4 or more employees in employment (within the meaning of section 3306 (c) and (d)) on a total of 20 or more calendar days during a calendar year after 1969, or during the calendar year immediately preceding such a calendar year, each such day being in a different calendar week, is with respect to such year an employer subject to the tax.
+
+(2) *For calendar year 1955.* Every person who employs 8 or more employees in employment (within the meaning of section 3306 (c) and (d)) on a total of 20 or more calendar days during the calendar year 1955, each such day being in a different calendar week, is with respect to such year an employer subject to the tax.
+
+(3) *General agents of the Secretary of Commerce.* For provisions relating to the circumstances under which an employee who performs services as an officer or member of the crew of an American vessel (i) which is owned by or bareboat chartered to the United States and (ii) whose business is conducted by a general agent of the Secretary of Commerce shall be deemed to be performing services for such general agent rather than for the United States, see § 31.3306 (N)-1.
+
+(b) The several weeks in each of which occurs a day on which the prescribed number of employees are employed need not be consecutive weeks. It is not necessary that the employees so employed be the same individuals; they may be different individuals on each day. Neither is it necessary that the prescribed number of employees be employed at the same moment of time or for any particular length of time or on any particular basis of compensation. It is sufficient if the total number of employees employed during the 24 hours of a calendar day is 4 or more (8 or more for the calendar year 1955).
+
+(c) In determining whether a person employs a sufficient number of employees to be an employer subject to the tax, each employee is counted with respect to services which constitute employment as defined in section 3306(c) (see § 31.3306(c)-2). No employee is counted with respect to services which do not constitute employment as so defined. See, however, paragraph (d) of this section.
+
+(d) The provisions of paragraph (c) of this section are subject to the provisions of section 3306(d), relating to services which do not constitute employment but which are deemed to be employment, and relating to services which constitute employment but which are deemed not to be employment (see § 31.3306(d)-1). For example, if the services of an employee during a pay period are deemed to be employment under section 3306(d), even though a portion thereof does not constitute employment under section 3306(c), the employee is counted with respect to all services during the pay period. On the other hand, if the services of an employee during a pay period are deemed not to be employment, even though a portion thereof constitutes employment, the employee is not counted with respect to any services during the pay period.
+
+[T.D. 6516, 25 FR 13032, Dec. 20, 1960, as amended by T.D. 7037, 35 FR 6709, Apr. 28, 1970]

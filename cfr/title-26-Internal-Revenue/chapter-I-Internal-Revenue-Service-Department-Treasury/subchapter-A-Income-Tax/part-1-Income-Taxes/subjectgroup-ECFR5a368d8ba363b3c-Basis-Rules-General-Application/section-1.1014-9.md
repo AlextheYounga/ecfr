@@ -1,0 +1,40 @@
+##### § 1.1014-9 Special rule with respect to DISC stock. #####
+
+(a) *In general.* If property consisting of stock of a DISC or former DISC (as defined in section 992(a) (1) or (3) as the case may be) is considered to have been acquired from a decedent (within the meaning of paragraph (a) or (b) of § 1.1014-2), the uniform basis of such stock under section 1014, as determined pursuant to §§ 1.1014-1 through 1.1014-8 shall be reduced as provided in this section. Such uniform basis shall be reduced by the amount (hereinafter referred to in this section as the amount of reduction), if any, which the decedent would have included in his gross income under section 995(c) as a dividend if the decedent had lived and sold such stock at its fair market value on the estate tax valuation date. If the alternate valuation date for Federal estate tax purposes is elected under section 2032, in computing the gain which the decedent would have had if he had lived and sold the stock on the alternate valuation date, the decedent's basis shall be determined with reduction for any distributions with respect to the stock which may have been made, after the date of the decedent's death and on or before the alternate valuation date, from the DISC's previously taxed income (as defined in section 996(f)(2)). For this purpose, the last sentence of section 996(e)(2) (relating to reductions of basis of DISC stock) shall not apply. For purposes of this section, if the corporation is not a DISC or former DISC at the date of the decedent's death but is a DISC for a taxable year which begins after such date and on or before the alternate valuation date, the corporation will be considered to be a DISC or former DISC only if the alternate valuation date is elected. The provisions of this paragraph apply with respect to stock of a DISC or former DISC which is included in the gross estate of the decedent, including but not limited to property which—
+
+(1) Is acquired from the decedent before his death, and the entire property is subsequently included in the decedent's gross estate for estate tax purposes, or
+
+(2) Is acquired property described in paragraph (d) of § 1.1014-3.
+
+(b) *Portion of property acquired from decedent before his death included in decedent's gross estate*—(1) *In general.* In cases where, due to the operation of the estate tax, only a portion of property which consists of stock of a DISC or former DISC and which is acquired from a decedent before his death is included in the decedent's gross estate, the uniform basis of such stock under section 1014, as determined pursuant to §§ 1.1014-1 through 1.1014-8, shall be reduced by an amount which bears the same ratio to the amount of reduction which would have been determined under paragraph (a) of this section if the entire property consisting of such stock were included in the decedent's gross estate as the value of such property included in the decedent's gross estate bears to the value of the entire property.
+
+(2) *Example.* The provisions of this paragraph may be illustrated by the following example:
+
+Example:The decedent creates a trust during his lifetime to pay the income to A for life, remainder to B or his estate. The trust instrument further provides that if the decedent shall survive A, the income shall be paid to the decedent for life. The decedent predeceases A, so that, due to the operation of the estate tax, only the present value of the remainder interest is included in the decedent's gross estate. The trust consists of 100 shares of the stock of X corporation (which is a DISC at the time the shares are transferred to the trust and at the time of the decedent's death) with an adjusted basis immediately prior to the decedent's death of $10,000 (as determined under section 1015). At the time of the decedent's death the value of the stock is $20,000, and the value of the remainder interest in the hands of B is $8,000. Applying the principles of paragraph (b)(3)(i) of § 1.1014-6, the uniform basis of the entire property following the decedent's death, prior to reduction pursuant to this paragraph, is $14,000. The amount of reduction which would have been determined under paragraph (a) of this section if the entire property consisting of such stock of X corporation were included in the decedent's gross estate is $5,000. The uniform basis of the entire property following the decedent's death, as reduced pursuant to this paragraph, is $12,000, computed as follows:
+
+|           Uniform basis under section 1014(a), prior to reduction pursuant to this paragraph           |$14,000|
+|--------------------------------------------------------------------------------------------------------|-------|
+|                  Less decrease in uniform basis (determined by the following formula)                  | 2,000 |
+|[Reduction in uniform basis (to be determined)/ $5,000 (amount of reduction if paragraph (a) applied)] =|       |
+|        [$8,000 (value of property included in gross estate/$20,000 (value of entire property)]         |       |
+|                 Uniform basis under section 1014(a) reduced pursuant to this paragraph                 |12,000 |
+
+(c) *Estate tax valuation date.* For purposes of section 1014(d) and this section, the estate tax valuation date is the date of the decedent's death or, in the case of an election under section 2032, the applicable valuation date prescribed by that section.
+
+(d) *Examples.* The provisions of this section may be illustrated by the following examples:
+
+Example 1.At the date of A's death, his DISC stock has a fair market value of $100. The estate does not elect the alternate valuation allowed by section 2032, and A's basis in such stock is $60 at the date of his death. The person who acquires such stock from the decedent will take as a basis for such stock its fair market value at A's death ($100), reduced by the amount which would have been included in A's gross income under section 995(c) as a dividend if A had sold stock on the date he died. Thus, if the amount that would have been treated as a dividend under section 995(c) were $30, such person will take a basis of $70 for such stock ($100, reduced by $30). If such person were immediately to sell the DISC stock so received for $100, $30 of the proceeds from the sale would be treated as a dividend by such person under section 995(c).Example 2.Assume the same facts as in example (1) except that the estate elects the alternate valuation allowed by section 2032, the DISC stock has a fair market value of $140 on the alternate valuation date, the amount that would have been treated as a dividend under section 995(c) in the event of a sale on such date is $50 and the DISC has $20 of previously taxed income which accrued after the date of the decedent's death and before the alternate valuation date. The basis of the person who acquires such stock will be $90 determined as follows:
+
+|         (1) Fair market value of DISC stock at alternate valuation date         |$140|
+|---------------------------------------------------------------------------------|----|
+|(2) Less: Amount which would have been treated as a dividend under section 995(c)| 50 |
+|                   (3) Basis of person who acquires DISC stock                   | 90 |
+
+If a distribution of $20 attributable to such previously taxed income had been made by the DISC on or before the alternate valuation date (with the DISC stock having a fair market value of $120 after such distribution), the basis of the person who acquires such stock will be $70 determined as follows:
+
+|         (1) Fair market value of DISC stock at alternate valuation date         |$120|
+|---------------------------------------------------------------------------------|----|
+|(2) Less: Amount which would have been treated as a dividend under section 995(c)| 50 |
+|                   (3) Basis of person who acquires DISC stock                   | 70 |
+
+[T.D. 7283, 38 FR 20825, Aug. 3, 1973]

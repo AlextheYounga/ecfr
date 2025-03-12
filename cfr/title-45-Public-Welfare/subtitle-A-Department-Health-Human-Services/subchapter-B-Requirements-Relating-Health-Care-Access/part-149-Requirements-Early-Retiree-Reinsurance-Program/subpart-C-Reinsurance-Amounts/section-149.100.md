@@ -1,0 +1,9 @@
+##### § 149.100 Amount of reimbursement. #####
+
+(a) For each early retiree enrolled in a certified plan in a plan year, the sponsor receives reimbursement in the amount of 80 percent of the costs for health benefits (net of negotiated price concessions for health benefits) for claims incurred during the plan year that are attributed to health benefits costs between the cost threshold and cost limit, and that are paid by the employment-based plan or by the insurer (if an insured plan), and by the early retiree.
+
+(b) Costs are considered paid by an early retiree, if paid by that individual or another person on behalf of the early retiree, and the early retiree (or person paying on behalf of the early retiree) is not reimbursed through insurance or otherwise, or other third party payment arrangement.
+
+(c) Reimbursement is calculated by first determining the costs for health benefits net of negotiated price concessions, within the applicable plan year for each early retiree, and then subtracting amounts below the cost threshold and above the cost limit within the applicable plan year for each such individual.
+
+(d) For purposes of determining amounts below the cost threshold and above the cost limit for any given early retiree, all costs for health benefits paid by the employment-based plan (or by the insurer, if applicable), or by or on behalf of, an early retiree, for all benefit options the early retiree is enrolled in with respect to a given certified employment-based plan for a given plan year, will be combined. For each early retiree enrolled in an employment-based plan, there is only one cost threshold and one cost limit per plan year regardless of the number of benefit options the early retiree is enrolled in during that plan year.

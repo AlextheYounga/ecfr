@@ -1,0 +1,3 @@
+##### § 1641.16 Removal. #####
+
+Removed IPAs are prohibited from performing audit services in subsequent years under an existing contract(s) with one or more specific recipients. The affected recipient(s) shall not extend existing contracts with such IPAs. Removed IPAs also are prohibited from providing audit services to the affected recipient(s) as agents or representatives of other IPAs, and are required to provide prior written notice to the debarring official before providing such services to other recipients. Removed IPAs also must provide prior written notice of the removal to any such recipient.

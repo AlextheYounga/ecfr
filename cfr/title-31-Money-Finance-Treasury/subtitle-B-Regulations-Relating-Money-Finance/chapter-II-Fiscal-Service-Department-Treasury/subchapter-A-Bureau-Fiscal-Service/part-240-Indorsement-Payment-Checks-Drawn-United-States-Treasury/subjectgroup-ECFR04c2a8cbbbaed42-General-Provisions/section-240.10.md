@@ -1,0 +1,9 @@
+##### § 240.10 Offset. #####
+
+(a) If a reclamation debt remains unpaid for 120 days after the reclamation date, Treasury will refer the reclamation debt, if eligible, to Treasury's centralized offset program (see 31 CFR part 285) or another Federal agency for offset in accordance with 31 U.S.C. 3716. Prior to making a referral for offset, Treasury, in accordance with § 240.9(a)(3), will send at least one monthly statement to the reclamation debtor informing the reclamation debtor that Treasury intends to collect the reclamation debt by administrative offset and Treasury Check Offset.
+
+(b) If a reclamation debtor wishes to make payment on a reclamation debt referred for offset, the reclamation debtor should contact Treasury at the address listed in § 240.9(b) to resolve the debt and avoid offset.
+
+(c) If Treasury is unable to collect a reclamation debt by use of the offset described in paragraph (a) of this section, Treasury shall take such action against the reclamation debtor as may be necessary to protect the interests of the United States, including, but not limited to, Treasury Check Offset in accordance with § 240.11, or referral to the Department of Justice.
+
+(d) If Treasury effects offset under this section and it is later determined that the reclamation debtor already had paid the amount of the reclamation debt, or that a reclamation debtor which had timely filed a protest was not liable for the amount of the reclamation, Treasury will promptly refund to the reclamation debtor the amount of its payment. Treasury may refund the amount either by applying the amount to another reclamation debt owed by the reclamation debtor in accordance with this part or other applicable law, or by returning the amount to the reclamation debtor.

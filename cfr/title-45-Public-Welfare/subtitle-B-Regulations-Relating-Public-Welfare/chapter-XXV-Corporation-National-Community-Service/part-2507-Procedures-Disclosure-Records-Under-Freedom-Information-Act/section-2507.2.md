@@ -1,0 +1,3 @@
+##### § 2507.2 What is the purpose of this part? #####
+
+The purpose of this part is to prescribe rules for the inspection and release of records of the Corporation for National and Community Service pursuant to the Freedom of Information Act (“FOIA”), 5 U.S.C. 552, as amended. Information customarily furnished to the public in the regular course of the Corporation's official business, whether hard copy or electronic records which are available to the public through an established distribution system, or through the Federal Register, the National Technical Information Service, or the Internet, may continue to be furnished without processing under the provisions of the FOIA or complying with this part.

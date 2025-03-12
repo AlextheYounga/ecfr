@@ -1,0 +1,5 @@
+##### § 301.6316-8 Refunds and credits in foreign currency. #####
+
+(a) *Refunds.* The refund of any overpayment of tax which has been paid under section 6316 in foreign currency may, in the discretion of the Commissioner, be made in the same foreign currency by which the tax was paid. The amount of any such refund made in foreign currency shall be the amount of the overpayment in U.S. dollars converted, on the date of the refund check, at the rate of exchange then used for his official disbursements by the disbursing officer of the Department of State in the country where the foreign currency was originally deposited.
+
+(b) *Credits.* Unless otherwise in the best interest of the Internal Revenue Service, no credit of any overpayment of tax which has been paid under section 6316 in foreign currency shall be allowed against any outstanding liability of the person making the overpayment except in respect of that portion or the liability which, in accordance with § 301.6316-1 or § 301.6316-7, would otherwise be permitted to be paid in the same foreign currency.

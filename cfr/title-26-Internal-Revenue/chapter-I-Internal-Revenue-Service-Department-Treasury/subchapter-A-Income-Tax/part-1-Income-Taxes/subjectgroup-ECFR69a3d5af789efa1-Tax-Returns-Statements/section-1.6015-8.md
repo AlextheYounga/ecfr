@@ -1,0 +1,9 @@
+##### § 1.6015-8 Applicable liabilities. #####
+
+(a) *In general.* Section 6015 applies to liabilities that arise after July 22, 1998, and to liabilities that arose prior to July 22, 1998, that were not paid on or before July 22, 1998.
+
+(b) *Liabilities paid on or before July 22, 1998.* A requesting spouse seeking relief from joint and several liability for amounts paid on or before July 22, 1998, must request relief under section 6013(e) and the regulations thereunder.
+
+(c) *Examples.* The following examples illustrate the rules of this section:
+
+Example 1.H and W file a joint Federal income tax return for 1995 on April 15, 1996. There is an understatement on the return attributable to an omission of H's wage income. On October 15, 1998, H and W receive a 30-day letter proposing a deficiency on the 1995 joint return. W pays the outstanding liability in full on November 30, 1998. In March 1999, W files Form 8857, requesting relief from joint and several liability under section 6015(b). Although W's liability arose prior to July 22, 1998, it was unpaid as of that date. Therefore, section 6015 is applicable.Example 2.H and W file their 1995 joint Federal income tax return on April 15, 1996. On October 14, 1997, a deficiency of $5,000 is assessed regarding a disallowed business expense deduction attributable to H. On June 30, 1998, the Internal Revenue Service levies on the $3,000 in W's bank account in partial satisfaction of the outstanding liability. On August 31, 1998, W files a request for relief from joint and several liability. The liability arose prior to July 22, 1998. Section 6015 is applicable to the $2,000 that remained unpaid as of July 22, 1998, and section 6013(e) is applicable to the $3,000 that was paid prior to July 22, 1998.[T.D. 9003, 67 FR 47285, July 18, 2002]

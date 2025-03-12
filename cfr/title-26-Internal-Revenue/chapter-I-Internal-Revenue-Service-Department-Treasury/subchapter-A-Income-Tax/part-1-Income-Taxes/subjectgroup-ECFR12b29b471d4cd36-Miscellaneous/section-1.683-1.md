@@ -1,0 +1,3 @@
+##### § 1.683-1 Applicability of provisions; general rule. #####
+
+Part I (section 641 and following), subchapter J, chapter 1 of the Code, applies to estates and trusts and to beneficiaries only with respect to taxable years which begin after December 31, 1953, and end after August 16, 1954 the date of enactment of the Internal Revenue Code of 1954. In the case of an estate or trust, the date on which a trust is created or amended or on which an estate commences, and the taxable years of beneficiaries, grantors, or decedents concerned are immaterial. This provision applies equally to taxable years of normal and of abbreviated length.

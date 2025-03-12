@@ -1,0 +1,9 @@
+##### § 1.1381-2 Tax on certain farmers' cooperatives. #####
+
+(a) *In general.* (1) For taxable years beginning after December 31, 1962, farmers', fruit growers', or like associations, organized and operated in compliance with the requirements of section 521 and § 1.521-1, shall be subject to the taxes imposed by section 11 or section 1201. Although such associations are subject to both normal tax and surtax, as in the case of corporations generally, certain special deductions are provided for them in section 1382(c) and § 1.1382-3. For the purpose of any law which refers to organizations exempt from income taxes such an association shall, however, be considered as an organization exempt under section 501. Thus, the provisions of section 243, providing a credit for dividends received from a domestic corporation subject to taxation, are not applicable to dividends received from a cooperative association organized and operated in compliance with the requirements of section 521 and § 1.521-1. The provisions of section 1501, relating to consolidated returns, are likewise not applicable.
+
+(2) Rules governing the manner in which amounts paid as patronage dividends are allowable as deductions in computing the taxable income of such an association are set forth in section 1382(b) and § 1.1382-2. For the tax treatment, as to patrons, of amounts received during the taxable year as patronage dividends, see section 1385 and the regulations thereunder.
+
+(b) *Cross references.* For tax treatment of exempt cooperative associations for taxable years beginning before January 1, 1963, or for taxable years beginning after December 31, 1962, with respect to payments attributable to patronage occurring during taxable years beginning before January 1, 1963, see section 522 and the regulations thereunder. For requirements of annual returns by such associations, see sections 6012 and 6072(d) and paragraph (f) of § 1.6012-2.
+
+[T.D. 6643, 28 FR 3153, Apr. 2, 1963]

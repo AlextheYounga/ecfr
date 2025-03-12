@@ -1,0 +1,5 @@
+##### § 60.20 Confidentiality of National Practitioner Data Bank information. #####
+
+(a) *Limitations on disclosure.* Information reported to the NPDB is considered confidential and shall not be disclosed outside the Department of Health and Human Services, except as specified in §§ 60.17, 60.18, and 60.21 of this part. Persons and entities receiving information from the NPDB, either directly or from another party, must use it solely with respect to the purpose for which it was provided. The Data Bank report may not be disclosed, but nothing in this section will prevent the disclosure of information by a party from its own files used to create such reports where disclosure is otherwise authorized under applicable state or Federal law.
+
+(b) *Penalty for violations.* Any person who violates paragraph (a) of this section shall be subject to a civil money penalty of up to $11,000 for each violation. This penalty will be imposed pursuant to procedures at 42 CFR part 1003.

@@ -1,0 +1,3 @@
+##### § 1703.103 Applicability and scope. #####
+
+This part applies to deliberations of a majority of the Commission members who have been appointed by the President and confirmed by the Senate. Excluded from coverage of this part are deliberations of interagency committees whose composition includes Commission members and deliberations of Commission officials who are not members; individual member's consideration of official agency business circulated to the members in writing for disposition or notation; and deliberations by the agency in determining whether or not to close a portion or portions of a meeting or series of meetings as provided in § 1703.202.

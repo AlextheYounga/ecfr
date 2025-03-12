@@ -1,0 +1,5 @@
+##### § 2.1-14 Deposit of earnings and receipts. #####
+
+(a) *Earnings.* A citizen may deposit all or any part of earnings derived from the operation, within the scope of § 2.1-3, of a vessel or vessels owned either by himself or any other person, if such earnings are intended for construction or acquisition of new vessels. Such earnings may include payments received by an owner, as compensation for use of his vessel, from other persons by whom it is so operated. Earnings from other sources may not be deposited. The earnings from operation of vessels which are eligible for deposit are the net earnings determined without regard to any deduction for depreciation, obsolescence, or amortization with respect to such vessels.
+
+(b) *Receipts.* Receipts from deposited funds, in the form of interest or otherwise, may be deposited.

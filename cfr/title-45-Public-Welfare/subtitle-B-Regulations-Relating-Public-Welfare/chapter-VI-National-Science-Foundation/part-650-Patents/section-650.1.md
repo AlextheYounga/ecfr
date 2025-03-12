@@ -1,0 +1,3 @@
+##### § 650.1 Scope of part. #####
+
+This part contains the policies, procedures, and clauses that govern allocation of rights to inventions made in performance of NSF-assisted research. It applies to all current and future funding agreements entered into by the Foundation that relate to performance of scientific or engineering research. As stated in the NSF Acquisition Regulation (chapter 25 of title 48 of the Code of Federal Regulations), this part applies to contracts as well as to grants and cooperative agreements.

@@ -1,0 +1,3 @@
+##### § 576.407 Offshore transactions. #####
+
+The prohibitions in § 576.201 on transactions or dealings involving blocked property apply to transactions by any U.S. person in a location outside the United States with respect to property held in the name of a person whose property and interests in property are blocked pursuant to § 576.201, or property in which a person whose property and interests in property are blocked pursuant to § 576.201 has or has had an interest since the effective date.

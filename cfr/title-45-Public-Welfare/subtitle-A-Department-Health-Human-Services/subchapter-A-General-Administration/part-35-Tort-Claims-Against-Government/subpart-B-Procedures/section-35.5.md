@@ -1,0 +1,3 @@
+##### § 35.5 Investigation, examination, and determination of claims. #####
+
+When a claim is received, the constituent agency out of whose activities the claim arose shall make such investigation as may be necessary or appropriate for a determination of the validity of the claim and thereafter shall forward the claim, together with all pertinent material, and a recommendation based on the merits of the case, with regard to allowance or disallowance of the claim, to the Department Claims Officer to whom authority has been delegated to adjust, determine, compromise and settle all claims hereunder.

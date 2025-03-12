@@ -1,0 +1,3 @@
+##### § 560.320 Iranian accounts. #####
+
+The term *Iranian accounts* means accounts of persons who are ordinarily resident in Iran, except when such persons are not located in Iran, or of the Government of Iran, an Iranian financial institution, or any other person whose property and interests in property are blocked pursuant to § 560.211 of this part, maintained on the books of either a United States depository institution or a United States registered broker or dealer in securities.

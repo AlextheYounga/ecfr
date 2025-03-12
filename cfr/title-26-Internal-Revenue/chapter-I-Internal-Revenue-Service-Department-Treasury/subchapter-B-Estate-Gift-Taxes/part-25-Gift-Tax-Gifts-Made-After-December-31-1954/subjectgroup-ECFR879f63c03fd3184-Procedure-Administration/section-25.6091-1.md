@@ -1,0 +1,9 @@
+##### § 25.6091-1 Place for filing returns and other documents. #####
+
+(a) *In general.* If the donor is a resident of the United States, the gift tax return required by section 6019 shall be filed with any person assigned the responsibility to receive returns in the local Internal Revenue Service office that serves the legal residence or principal place of business of the donor. If the donor is a nonresident (whether or not a citizen), and his principal place of business is served by a local Internal Revenue Service office, the gift tax return shall be filed with any person assigned the responsibility to receive returns in that office.
+
+(b) *Returns filed with service centers.* Notwithstanding paragraph (a) of this section, unless a return is filed by hand carrying, whenever instructions applicable to gift tax returns provide that the returns be filed with a service center, the returns must be so filed in accordance with the instructions. Returns which are filed by hand carrying shall be filed with any person assigned the responsibility to receive hand-carried returns in the local Internal Revenue Service office in accordance with paragraph (a) of this section.
+
+(c) *Returns of certain nonresidents.* If the donor is a nonresident (whether or not a citizen), and he does not have a principal place of business in the United States, the gift tax return required by section 6019, whether or not such return is made by hand carrying, shall be filed with the Internal Revenue Service Center, Philadelphia, Pennsylvania, or as designated on the return form or in the instructions issued with respect to such form.
+
+(Secs. 6091, 7805 of the Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805))[T.D. 7012, 34 FR 7692, May 15, 1969, as amended by T.D. 7238, 37 FR 28737, Dec. 29, 1972; 39 FR 797, Jan. 3, 1974; T.D. 7495, 42 FR 33726, July 1, 1977; T.D. 9156, 69 FR 55745, Sept. 16, 2004]

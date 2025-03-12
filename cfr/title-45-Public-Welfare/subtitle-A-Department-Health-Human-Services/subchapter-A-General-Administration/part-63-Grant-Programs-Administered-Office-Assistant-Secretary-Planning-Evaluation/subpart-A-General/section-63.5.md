@@ -1,0 +1,3 @@
+##### § 63.5 Effective date of approved grant. #####
+
+Federal financial participation is normally available only with respect to obligations incurred subsequent to the effective date of an approved project. The effective date of the project will be set forth in the notification of grant award. Grantees may be reimbursed for costs resulting from obligations incurred before the effective date of the grant award if such costs are authorized by the Assistant Secretary in the notification of grant award or subsequently in writing, and otherwise would be allowable as costs of the grant under the applicable regulations and grant terms and conditions.

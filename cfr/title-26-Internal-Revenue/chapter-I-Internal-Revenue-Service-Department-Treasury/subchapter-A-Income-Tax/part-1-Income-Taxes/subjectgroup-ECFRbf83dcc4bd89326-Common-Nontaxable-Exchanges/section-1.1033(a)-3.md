@@ -1,0 +1,5 @@
+##### § 1.1033(a)-3 Involuntary conversion of principal residence. #####
+
+Section 1033 shall apply in the case of property used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurs before January 1, 1951, or after December 31, 1953. However, section 1033 shall not apply to the seizure, requisition, or condemnation (but not destruction), or the sale or exchange under threat or imminence thereof, of such residence property if the seizure, requisition, condemnation, sale, or exchange occurs after December 31, 1957, and if the taxpayer properly elects under section 1034(i) to treat the transaction as a sale (see paragraph (h)(2)(ii) of § 1.1034-1). See section 121 and paragraphs (d) and (g) of § 1.121-5 for special rules relating to the involuntary conversion of a principal residence of individuals who have attained age 65.
+
+[T.D. 6856, 30 FR 13319, Oct. 20, 1965. Redesignated and amended by T.D. 7625, 44 FR 31013, May 30, 1979]

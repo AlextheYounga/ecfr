@@ -1,0 +1,5 @@
+##### § 1.856-0 Revenue Act of 1978 amendments not included. #####
+
+The regulations under part II of subchapter M of the Code do not reflect the amendments made by the Revenue Act of 1978, other than the changes made by section 362 of the Act, relating to deficiency dividends.
+
+(Sec. 856(d)(4) (90 Stat. 1750; 26 U.S.C. 856(d)(4)); sec. 856(e)(5) (88 Stat. 2113; 26 U.S.C. 856(e)(5)); sec. 856(f)(2) (90 Stat. 1751; 26 U.S.C. 856(f)(2)); sec. 856 (g)(2) (90 Stat. 1753; 26 U.S.C. 856(g)(2)); sec. 858(a) (74 Stat. 1008; 26 U.S.C. 858(a)); sec. 859(c) (90 Stat. 1743; 26 U.S.C. 859(c)); sec. 859(e) (90 Stat. 1744; 26 U.S.C. 859(e)); sec. 6001 (68A Stat. 731; 26 U.S.C. 6001); sec. 6011 (68A Stat. 732; 26 U.S.C. 6011); sec. 6071 (68A Stat. 749, 26 U.S.C. 6071); sec. 6091 (68A Stat. 752; 26 U.S.C. 6091); sec. 7805 (68A Stat. 917; 26 U.S.C. 7805), Internal Revenue Code of 1954; 860(e) (92 Stat. 2849, 26 U.S.C. 860(e)); sec. 860(g) (92 Stat. 2850, 26 U.S.C. 860(g)))[T.D. 7767, 46 FR 11265, Feb. 6, 1981, as amended by T.D. 7936, 49 FR 2106, Jan. 18, 1984]

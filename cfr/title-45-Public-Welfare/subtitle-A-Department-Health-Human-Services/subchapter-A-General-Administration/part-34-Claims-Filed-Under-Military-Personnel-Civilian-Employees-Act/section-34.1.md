@@ -1,0 +1,5 @@
+##### § 34.1 Purpose and scope. #####
+
+(a) *Purpose.* This part prescribes polices and procedures for handling claims not in excess of $40,000.00 filed by employees against the Department of Health and Human Services under the Military Personnel and Civilian Employees Claims (MPCE) Act of 1964, 31 U.S.C. 3721, for damage to, or loss of, property against the Department. Under the MPCE Act, the Secretary may approve claims made against the Government by a federal government employee for damage to or loss of personal property that is incident to employment when the loss or damage is not due to any negligence on the part of employee.
+
+(b) *Scope.* This part applies to all Departmental Operating Divisions and Regional Offices that process and review claims under the MPCE Act. Nothing in this part shall be construed to bar other types of claims that are payable under other statutory authority such as, but not limited to, the Federal Tort Claims Act (28 U.S.C. 2671-2680).

@@ -1,0 +1,1 @@
+##### § 1.469-8 Application of section 469 to trust, estates, and their beneficiaries. [Reserved] #####

@@ -1,0 +1,3 @@
+##### § 8.24 Enrollment cards. #####
+
+The Director shall issue an enrollment card to each practitioner who is enrolled to practice before the Bureau. Each enrollment card is valid for a period of 5 years as long as the holder remains enrolled and in good standing before the Bureau. Unless advised to the contrary by the Director, any officer or employee of the Bureau may consider the holder of an unexpired enrollment card to be authorized to practice before the Bureau in the subject area or areas indicated upon the card (alcohol, tobacco, firearms, or explosives matters).

@@ -1,0 +1,11 @@
+##### § 1.83-4 Special rules. #####
+
+(a) *Holding period.* Under section 83(f), the holding period of transferred property to which section 83(a) applies shall begin just after such property is substantially vested. However, if the person who has performed the services in connection with which property is transferred has made an election under section 83(b), the holding period of such property shall begin just after the date such property is transferred. If property to which section 83 and the regulations thereunder apply is transferred at arm's length, the holding period of such property in the hands of the transferee shall be determined in accordance with the rules provided in section 1223.
+
+(b) *Basis.* (1) Except as provided in paragraph (b)(2) of this section, if property to which section 83 and the regulations thereunder apply is acquired by any person (including a person who acquires such property in a subsequent transfer which is not at arm's length), while such property is still substantially nonvested, such person's basis for the property shall reflect any amount paid for such property and any amount includible in the gross income of the person who performed the services (including any amount so includible as a result of a disposition by the person who acquired such property.) Such basis shall also reflect any adjustments to basis provided under sections 1015 and 1016.
+
+(2) If property to which § 1.83-1 applies is transferred at arm's length, the basis of the property in the hands of the transferee shall be determined under section 1012 and the regulations thereunder.
+
+(c) *Forgiveness of indebtedness treated as an amount paid.* If an indebtedness that has been treated as an amount paid under § 1.83-1(a)(1)(ii) is subsequently cancelled, forgiven or satisfied for an amount less than the amount of such indebtedness, the amount that is not, in fact, paid shall be includible in the gross income of the service provider in the taxable year in which such cancellation, forgiveness or satisfaction occurs.
+
+[T.D. 7554, 43 FR 31918, July 24, 1978]

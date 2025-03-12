@@ -1,0 +1,3 @@
+##### § 702.2 Authorization for hearing. #####
+
+Under 42 U.S.C. 1975a(e)(1) the Commission or, on the authorization of the Commission, any subcommittee of two or more members, at least one of whom shall be of each major political party, may, for the purpose of carrying out the provisions of the Act, hold such hearings and act at such times and locations as the Commission or such authorized subcommittee may deem advisable. The holding of hearings by the Commission or the appointment of a subcommittee to hold hearings pursuant to this section must be approved by a majority of the Commission or by a majority of the members present at a meeting at which at least a quorum of five members is present.

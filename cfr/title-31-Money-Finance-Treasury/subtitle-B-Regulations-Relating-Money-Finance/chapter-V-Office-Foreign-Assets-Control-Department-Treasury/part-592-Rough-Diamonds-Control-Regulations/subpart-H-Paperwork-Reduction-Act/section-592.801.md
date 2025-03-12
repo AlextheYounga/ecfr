@@ -1,0 +1,3 @@
+##### § 592.801 Paperwork Reduction Act notice. #####
+
+For approval by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 3507) of the information collections relating to the recordkeeping and reporting requirements of §§ 592.301(a)(1), subpart C, § 592.501, subpart E, and 592.603, subpart F, *see* § 501.901 of this chapter. The information collection requirements in §§ 592.301(a)(3) and (a)(4), subpart C, have been approved by the OMB and assigned control numbers 1505-0198 and 0607-0152, respectively. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid control number assigned by OMB.

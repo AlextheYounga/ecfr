@@ -1,0 +1,5 @@
+##### § 0.105 Responsibilities of employees and supervisors. #####
+
+(a) Employees shall comply with all generally accepted rules of conduct, the specific provisions of this part, and other applicable regulations. An employee with questions about generally accepted rules of conduct, the specific provisions of this part, and other applicable regulations should consult his or her supervisor, a human resources specialist, or Bureau counsel.
+
+(b) Supervisors, because of their day-to-day relationships with their employees, are responsible for ensuring that their employees maintain high standards of conduct. Supervisors must be familiar with this part and other applicable regulations and must apply generally accepted rules of conduct, the standards in this part, and the standards in other applicable regulations to the work they do and supervise. Supervisors shall take appropriate action, including disciplinary action, when violations of this part or other applicable regulations occur.

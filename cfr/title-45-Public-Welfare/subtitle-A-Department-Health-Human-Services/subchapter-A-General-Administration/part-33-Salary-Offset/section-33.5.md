@@ -1,0 +1,5 @@
+##### § 33.5 Review of department records relating to the debt. #####
+
+(a) To inspect or copy Department records relating to the debt, the employee must send a written request to the Department official or office designated in the notice of intent to offset stating his or her intention. The written request must be received by the Department within 15 days from the employee's receipt of the notice.
+
+(b) In response to a timely request as described in paragraph (a) of this section, the designated Department official shall notify the employee of the location and time when the employee may inspect and copy such records. If the employee or employee's representative is unable to personally inspect such records as the result of geographical or other constraints, the Department shall arrange to send copies of such records to the employee.

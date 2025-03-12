@@ -1,0 +1,3 @@
+##### § 210.13 Notice to account owners. #####
+
+*Provision of notice by RDFI.* Upon receipt by an RDFI of a notice of reclamation, the RDFI immediately shall mail to the last known address of the account owner(s) or otherwise provide to the account owner(s) a copy of any notice required by the Service to be provided to account owners as specified in the Green Book. Proof that this notice was sent may be required by the Service.

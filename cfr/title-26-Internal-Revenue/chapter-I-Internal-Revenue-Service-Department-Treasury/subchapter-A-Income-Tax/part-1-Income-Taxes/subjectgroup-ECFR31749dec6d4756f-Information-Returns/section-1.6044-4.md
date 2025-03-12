@@ -1,0 +1,11 @@
+##### § 1.6044-4 Exemption for certain consumer cooperatives. #####
+
+(a) *In general*—(1) *Determination of exemption.* Exemption from the reporting requirements of § 1.6044-2 shall, upon application therefor, be granted by the district director to any cooperative which he determines is primarily engaged in selling at retail goods or services of a type which is generally for personal, living, or family use. A cooperative is not exempt from the reporting requirements merely because it is an organization of a type to which section 6044(c) and this section relate. In order for the exemption from reporting to apply, it is necessary that the cooperative file an application in accordance with this section and obtain a determination of exemption.
+
+(2) *Basis for exemption.* For a cooperative to qualify for the exemption from reporting provided by section 6044(c) and this section 85 percent of its gross receipts for the preceding taxable year, or 85 percent of its aggregate gross receipts for the preceding three taxable years, must have been derived from the sale at retail of goods or services of a type which is generally for personal, living, or family use. In determining whether an item is of a type that is generally for personal, living, or family use, an item which may be purchased either for such use or for business use and which when acquired for business purposes is generally purchased at wholesale will, when sold by a cooperative at retail, be treated as goods or services of a type generally for personal, living, or family use.
+
+(3) *Period of exemption.* A determination of exemption from reporting shall apply beginning with the payments made during the calendar year in which the determination is made and shall automatically cease to be effective beginning with payments made after the close of the first taxable year of the cooperative in which less than 70 percent of its gross receipts is derived from the sale at retail of goods or services of a type which is generally for personal, living, or family use.
+
+(b) *Application for exemption.* Application for exemption from the reporting requirements of section 6044 shall be made on Form 3491, and shall be filed with the district director for the internal revenue district in which the cooperative has its principal place of business.
+
+[T.D. 6628, 27 FR 12799, Dec. 28, 1962]

@@ -1,0 +1,3 @@
+##### § 503.10 Exemptions. #####
+
+No system of records maintained by the Foreign Claims Settlement Commission is exempt from the provisions of 5 U.S.C. 552a as permitted under certain conditions by 5 U.S.C. 552a(j) and (k). However, the Chair of the Commission reserves the right to promulgate rules in accordance with the requirements of 5 U.S.C. 553(b)(1), (2) and (3), and 5 U.S.C. 553(c) and (e) to exempt any system of records maintained by the Commission in accordance with the provisions of 5 U.S.C. 552a(k).

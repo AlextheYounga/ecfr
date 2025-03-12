@@ -1,0 +1,3 @@
+##### § 96.13 Reallotments. #####
+
+The Secretary will re-allot to eligible States those funds available as of September 1 of each fiscal year under the reallotment provisions pertaining to the alcohol and drug abuse and mental health services, maternal and child health services, and preventive health and health services block grants. The reallotment procedure for the low-income home energy assistance block grant is specified in section 2607 of the Reconciliation Act (42 U.S.C. 8626) and § 96.81 of this part.

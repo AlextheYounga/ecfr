@@ -1,0 +1,11 @@
+##### § 48.4161(a)-2 Meaning of terms. #####
+
+(a) *Fishing rods.* The term “fishing rods” includes all articles, however, designated, that are designed or constructed for use in conjunction with a fishing reel for casting a line and hook in the sport of fishing. The term does not include any article that is neither designed for use in casting, nor suitable for such use. A so-called fishing rod “blank” is not considered to be a “fishing rod” unless the blank contains an affixed handle and reel seat, or is sold in the form of a kit that contains a rod blank, a handle, and a reel seat.
+
+(b) *Fishing creels.* The term “fishing creels” includes all portable containers, of whatever material made, that are designed for storing and carrying fish from the time they are caught until such time as they are removed from the container for consumption or preservation. The term does not include any article primarily designed for use in the commercial fishing industry, or an article such as a collapsible wire basket designed to be hung over the side of a boat to keep fish captive and alive in the water.
+
+(c) *Fishing reels.* The term “fishing reels” includes all mechanical and electrical devices that contain a spool for dispensing and recovering fishing line, and are designed for use with fishing rods in casting and in reeling in hooked fish in the sport of fishing. The term also includes reels designed for use with bows, in the sport of bowfishing.
+
+(d) *Artificial lures, baits, and flies.* The term “artificial lures, baits, and flies” includes all artifacts, of whatever materials made, that simulate an article considered edible by fish and are designed to be attached to a line or hook to attract fish so that they may be captured. Thus, the term includes such artifacts as imitation flies, blades, spoons, and spinners, and edible materials that have been processed so as to resemble a different edible article considered more attractive to fish, such as bread crumbs treated so as to simulate salmon eggs, and pork rind cut and dyed to resemble frogs, eels, or tadpoles.
+
+[T.D. 7328, 39 FR 36586, Oct. 11, 1974, as amended by T.D. 8043, 50 FR 32014, Aug. 8, 1985]

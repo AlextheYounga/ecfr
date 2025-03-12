@@ -1,0 +1,11 @@
+##### § 1.401(e)-1 Definitions relating to plans covering self-employed individuals. #####
+
+(a) *“Keogh” or “H.R. 10” plans, in general* - (1) *Introduction and organization of regulations.* Certain self-employed individuals may be covered by a qualified pension, annuity, or profit-sharing plan. This section contains definitions contained in section 401(c) relating to plans covering self-employed individuals and is applicable to employer taxable years beginning after December 31, 1975, unless otherwise specified.
+
+The provisions of section 401(a) relating to qualification requirements which are generally applicable to all qualified plans, and other provisions relating to the special rules under section 401 (b), (f), (g), (h), and (i), are also generally applicable to any plan covering a self-employed individual. However, in addition to such requirements and special rules, any plan covering a self-employed individual is subject to the rules contained in §§ 1.401 (e)-2, (e)-5, and (j)-1 through (j)-5. Section 1.401(e)-2 contains general rules, § 1.401(e)-5 contains a special rule limiting the contribution and benefit base to the first $100,000 of annual compensation, and § 1.401 (j)-1 through (j)-5 contains special rules for defined benefit plans. Section 1.401(e)-3 contains special rules which are applicable to plans covering self-employed individuals when one or more of such individuals is an owner-employee within the meaning of section 401(c)(3). Section 1.401(e)-4 contains rules relating to contributions on behalf of owner-employees for premiums on annuity, etc., contracts and a transitional rule for certain excess contributions made on behalf of owner-employees for employer taxable years beginning before January 1, 1976. The provisions of this section and of §§ 1.401(e)-2 through 1.401(e)-5 are applicable to employer taxable years beginning after December 31, 1975, unless otherwise specified.
+
+(2) [Reserved]
+
+(b) [Reserved]
+
+[T.D. 7636, 44 FR 47053, Aug. 10, 1979]

@@ -1,0 +1,5 @@
+##### § 7.7 Appeals. #####
+
+(a) Any employee who is aggrieved by a determination made by the head of his bureau or office under this part may obtain a review of the determination by filing an appeal with the General Counsel within 30 days after receiving the notice of the determination complained of.
+
+(b) Any employee who is aggrieved by a determination made by the General Counsel under this part may obtain a review of the determination by filing a written appeal with the Commissioner of Patents within 30 days after receiving notice of the determination complained of, or within such longer period as the Commissioner may provide. The appeal to the Commissioner shall be processed in accordance with the provisions in the regulations of the Patent Office for an appeal from an agency determination.

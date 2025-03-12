@@ -1,0 +1,9 @@
+##### § 1634.2 Definitions. #####
+
+(a) *Qualified applicants* are those persons, groups or entities described in section 1634.5(a) of this part who are eligible to submit notices of intent to compete and applications to participate in a competitive bidding process as described in this part.
+
+(b) *Review panel* means a group of individuals who are not Corporation staff but who are engaged by the Corporation to review applications and make recommendations regarding awards of grants or contracts for the delivery of legal assistance to eligible clients. A majority of review panel members shall be lawyers who are supportive of the purposes of the LSC Act and experienced in and knowledgeable about the delivery of legal assistance to low-income persons, and eligible clients or representatives of low-income community groups. The remaining members of the review panel shall be persons who are supportive of the purposes of the LSC Act and have an interest in and knowledge of the delivery of quality legal services to the poor. No person may serve on a review panel for an applicant with whom the person has a financial interest or ethical conflict; nor may the person have been a board member of or employed by that applicant in the past five years.
+
+(c) *Service area* is the area defined by the Corporation to be served by grants or contracts to be awarded on the basis of a competitive bidding process. A service area is defined geographically and may consist of all or part of the area served by a current recipient, or it may include an area larger than the area served by a current recipient.
+
+(d) *Subpopulation of eligible clients* includes Native Americans and migrant farm workers and may include other groups of eligible clients that, because they have special legal problems or face special difficulties of access to legal services, might better be addressed by a separate delivery system to serve that client group effectively.

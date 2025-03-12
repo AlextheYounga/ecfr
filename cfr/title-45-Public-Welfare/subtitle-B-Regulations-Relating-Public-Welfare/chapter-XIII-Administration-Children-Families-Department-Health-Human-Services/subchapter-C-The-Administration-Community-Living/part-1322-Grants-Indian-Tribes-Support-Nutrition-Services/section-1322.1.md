@@ -1,0 +1,3 @@
+##### § 1322.1 Basis and purpose of this part. #####
+
+This program was established to meet the unique needs and circumstances of American Indian elders on Indian reservations. This part implements title VI (part A) of the Older Americans Act, as amended, by establishing the requirements that an Indian tribal organization shall meet in order to receive a grant to promote the delivery of services for older Indians that are comparable to services provided under Title III. This part also prescribes application and hearing requirements and procedures for these grants.

@@ -1,0 +1,5 @@
+##### § 212.9 Preemption of State law. #####
+
+(a) *Inconsistent law preempted.* Any State or local government law or regulation that is inconsistent with a provision of this part is preempted to the extent of the inconsistency. A State law or regulation is inconsistent with this part if it requires a financial institution to take actions or make disclosures that contradict or conflict with the requirements of this part or if a financial institution cannot comply with the State law or regulation without violating this part.
+
+(b) *Consistent law not preempted.* This regulation does not annul, alter, affect, or exempt any financial institution from complying with the laws of any State with respect to garnishment practices, except to the extent of an inconsistency. A requirement under State law to protect benefit payments in an account from freezing or garnishment at a higher protected amount than is required under this part is not inconsistent with this part if the financial institution can comply with both this part and the State law requirement.

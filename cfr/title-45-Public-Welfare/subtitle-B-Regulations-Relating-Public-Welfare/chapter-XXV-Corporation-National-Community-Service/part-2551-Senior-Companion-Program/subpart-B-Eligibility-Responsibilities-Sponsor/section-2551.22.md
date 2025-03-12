@@ -1,0 +1,3 @@
+##### § 2551.22 What are the responsibilities of a sponsor? #####
+
+A sponsor is responsible for fulfilling all project management requirements necessary to accomplish the purposes of the Senior Companion Program as specified in the Act. A sponsor shall not delegate or contract these responsibilities to another entity. The sponsor shall comply with all program regulations and policies, and grant provisions prescribed by the Corporation.

@@ -1,0 +1,3 @@
+##### § 309.9 Tenders; acceptance by the Secretary of the Treasury. #####
+
+At the time fixed for closing, as specified in the public notice, all tenders received by the Federal Reserve Banks and Branches and by the Bureau of the Fiscal Service will be opened. The Secretary of the Treasury will determine the acceptable prices offered and will make public announcement thereof those submitting tenders will be advised of the acceptance or rejection thereof, and payment on accepted tenders must be made or completed on the date specified in the public notice.

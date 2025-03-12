@@ -1,0 +1,3 @@
+##### § 355.0 What does this part cover? #####
+
+This part governs checks issued for payments in connection with United States securities. These checks, referred to as “fiscal agency checks,” are issued by a designated Federal Reserve Bank in its capacity as fiscal agent of the United States. The checks are drawn on the payor Federal Reserve Bank in its banking capacity. The drawer of a fiscal agency check is the United States, and the drawee is a Federal Reserve Bank. The rights and liabilities of the United States, the Federal Reserve Banks, and others are set out in this part.

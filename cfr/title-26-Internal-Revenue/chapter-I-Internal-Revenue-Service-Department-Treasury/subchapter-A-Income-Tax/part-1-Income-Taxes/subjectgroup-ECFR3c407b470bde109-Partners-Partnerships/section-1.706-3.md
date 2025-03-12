@@ -1,0 +1,1 @@
+##### § 1.706-3 Items attributable to interest in lower tier partnership. [Reserved] #####

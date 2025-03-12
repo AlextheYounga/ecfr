@@ -1,0 +1,3 @@
+##### § 363.133 What happens to my zero-percent certificate of indebtedness if the offering is terminated by the Secretary? #####
+
+Upon the termination of this offering by the Secretary, the zero-percent certificate of indebtedness ceases to roll over; the proceeds will be paid by the ACH method to the bank account at a financial institution that you designated in your TreasuryDirect ® account as your primary bank account.

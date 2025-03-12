@@ -1,0 +1,5 @@
+##### § 1.242-1 Deduction for partially tax-exempt interest. #####
+
+A corporation is allowed a deduction under section 242(a) in an amount equal to certain interest received on obligations of the United States, or an obligation of corporations organized under Acts of Congress which are instrumentalities of the United States. The interest for which a deduction shall be allowed is interest which is included in gross income and which is exempt from normal tax under the act, as amended and supplemented, which authorized the issuance of the obligations. The deduction allowed by section 242(a) is allowed only for the purpose of computing normal tax, and therefore, no deduction is allowed for such interest in the computation of any surtax imposed by Subtitle A of the Internal Revenue Code of 1954.
+
+[T.D. 7100, 36 FR 5333, Mar. 20, 1971]

@@ -1,0 +1,7 @@
+##### § 1602.11 Officials authorized to grant or deny requests for records. #####
+
+(a) The Chief FOIA Officer, Office of Inspector General Legal Counsel or their designees are authorized to grant or deny requests under this part. In the absence of an Office of Inspector General Legal Counsel, the Inspector General shall name a designee who will be authorized to grant or deny requests under this part and who will perform all other functions of the Office of Inspector General Legal Counsel under this part.
+
+(b)(1) The Chief FOIA Officer or designee shall consult with the Office of Inspector General Legal Counsel or designee prior to granting or denying any request for records or portions of records which originated with the OIG, or which contain information which originated with the OIG, but which are maintained by other components of LSC.
+
+(2) The Office of Inspector General Legal Counsel or designee shall consult with the Chief FOIA Officer or designee prior to granting or denying any request for records or portions of records which originated with any component of LSC other than the OIG, or which contain information which originated with a component of LSC other than the OIG, but which are maintained by the OIG.

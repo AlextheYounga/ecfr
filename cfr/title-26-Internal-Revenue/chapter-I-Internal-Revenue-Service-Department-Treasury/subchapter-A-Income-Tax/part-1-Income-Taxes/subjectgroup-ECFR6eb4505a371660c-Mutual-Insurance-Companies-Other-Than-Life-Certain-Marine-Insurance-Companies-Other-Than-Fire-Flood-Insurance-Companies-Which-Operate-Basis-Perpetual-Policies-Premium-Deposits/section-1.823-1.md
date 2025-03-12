@@ -1,0 +1,3 @@
+##### § 1.823-1 Net premiums. #####
+
+Net premiums are one of the items used, together with interest, dividends, and rents, less dividends to policyholders and wholly tax-exempt interest, in determining tax liability under section 821(a)(2). They are also used in section 822(c)(6) in determining the limitation on certain capital losses and in the application of section 1212. The term “net premiums” is defined in section 823(1) and includes deposits and assessments, but excludes amounts returned to policyholders which are treated as dividends under section 823(2).

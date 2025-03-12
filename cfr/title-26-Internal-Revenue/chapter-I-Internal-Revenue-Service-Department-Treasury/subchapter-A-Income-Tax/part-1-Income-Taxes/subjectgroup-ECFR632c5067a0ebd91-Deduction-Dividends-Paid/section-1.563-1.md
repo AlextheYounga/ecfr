@@ -1,0 +1,3 @@
+##### § 1.563-1 Accumulated earnings tax. #####
+
+In the determination of the dividends paid deduction for purposes of the accumulated earnings tax imposed by section 531, a dividend paid after the close of any taxable year and on or before the 15th day of the third month following the close of such taxable year shall be considered as paid during such taxable year, and shall not be included in the computation of the dividends paid deduction for the year of payment. However, the rule provided in section 563(a) is not applicable to dividends paid during the first two and one-half months of the first taxable year of the corporation subject to tax under chapter 1 of the Internal Revenue Code of 1954.

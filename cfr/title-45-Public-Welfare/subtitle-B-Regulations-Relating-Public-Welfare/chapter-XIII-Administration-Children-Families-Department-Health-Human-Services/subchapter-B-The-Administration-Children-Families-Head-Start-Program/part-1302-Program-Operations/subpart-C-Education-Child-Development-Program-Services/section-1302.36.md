@@ -1,0 +1,3 @@
+##### § 1302.36 Tribal language preservation and revitalization. #####
+
+A program that serves American Indian and Alaska Native children may integrate efforts to preserve, revitalize, restore, or maintain the tribal language for these children into program services. Such language preservation and revitalization efforts may include full immersion in the tribal language for the majority of the hours of planned class operations. If children's home language is English, exposure to English as described in § 1302.31(b)(2)(i) and (ii) is not required.

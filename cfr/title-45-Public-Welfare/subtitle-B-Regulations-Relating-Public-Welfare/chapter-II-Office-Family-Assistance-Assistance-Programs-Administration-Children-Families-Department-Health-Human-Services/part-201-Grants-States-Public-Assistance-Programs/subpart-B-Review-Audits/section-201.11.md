@@ -1,0 +1,3 @@
+##### § 201.11 Personnel merit system review. #####
+
+A personnel merit system review is carried out by the Office of State Merit Systems of the Office of the Assistant Secretary for Administration of the Department. The purpose of the review is to evaluate the effectiveness of the State merit system relating to the public assistance programs and to determine whether there is compliance with Federal requirements in the administration of the merit system plan. See part 70 of this title.

@@ -1,0 +1,3 @@
+##### § 205.8 What if there is no Treasury-State agreement in effect? #####
+
+When a State does not have a Treasury-State agreement in effect, we will prescribe default procedures to implement this subpart A. The default procedures will prescribe efficient funds transfer procedures consistent with State and Federal law and identify the covered Federal assistance programs and designated funding techniques. When we and a State reach agreement on some but not all Federal assistance programs administered by the State, we and the State may enter into a Treasury-State agreement for all programs on which we are in agreement and we may prescribe default procedures governing those programs on which we are unable to reach agreement.

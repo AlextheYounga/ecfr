@@ -1,0 +1,11 @@
+##### § 595.206 Exempt transactions. #####
+
+(a) *Personal communications.* The prohibitions contained in this part do not apply to any postal, telegraphic, telephonic, or other personal communication, which does not involve the transfer of anything of value.
+
+(b) *Information and informational materials.* (1) The importation from any country and the exportation to any country of information or informational materials as defined in § 595.306, whether commercial or otherwise, regardless of format or medium of transmission, are exempt from the prohibitions and regulations of this part.
+
+(2) This section does not authorize transactions related to information and informational materials not fully created and in existence at the date of the transactions, or to the substantive or artistic alteration or enhancement of informational materials, or to the provision of marketing and business consulting services by a U.S. person. Such prohibited transactions include, without limitation, payment of advances for informational materials not yet created and completed, provision of services to market, produce or co-produce, create or assist in the creation of information and informational materials, and payment of royalties to a specially designated terrorist with respect to income received for enhancements or alterations made by U.S. persons to information or informational materials imported from a specially designated terrorist.
+
+(3) This section does not authorize transactions incident to the exportation of technical data under restriction as defined in § 779.4 of the Export Administration Regulations, 15 CFR parts 768-799 (1994), or to the exportation of goods for use in the transmission of any data. The exportation of such goods to specially designated terrorists is prohibited, as provided in § 595.201 of this part.
+
+(c) *Travel.* The prohibitions contained in this part do not apply to transactions ordinarily incident to travel to or from any country, including importation of accompanied baggage for personal use, maintenance within any country including payment of living expenses and acquisition of goods or services for personal use, and arrangement or facilitation of such travel including non scheduled air, sea, or land voyages.

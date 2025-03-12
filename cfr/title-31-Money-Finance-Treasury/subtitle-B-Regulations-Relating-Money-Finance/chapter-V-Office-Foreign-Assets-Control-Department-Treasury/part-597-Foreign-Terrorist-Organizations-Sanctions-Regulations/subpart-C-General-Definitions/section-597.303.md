@@ -1,0 +1,3 @@
+##### § 597.303 Blocked account; blocked funds. #####
+
+The terms *blocked account* and *blocked funds* shall mean any account or funds subject to the prohibitions in § 597.201 held in the name of a foreign terrorist organization or its agent or in which a foreign terrorist organization or its agent has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control authorizing such action.

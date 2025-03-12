@@ -1,0 +1,3 @@
+##### § 30.4 Compromise, waiver, or disposition under other statutes not precluded. #####
+
+Nothing in this part precludes the Department from disposing of any claim under statutes and implementing regulations other than subchapter II of chapter 37 of Title 31 of the United States Code and the Federal Claims Collection Standards, 31 CFR parts 900 through 904. Any statute and implementing regulation specifically applicable to the claims collection activities of the Department will take precedence over this part.

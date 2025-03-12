@@ -1,0 +1,3 @@
+##### § 84.9 Administrative requirements for small recipients. #####
+
+The Director may require any recipient with fewer than fifteen employees, or any class of such recipients, to comply with §§ 84.7 and 84.8, in whole or in part, when the Director finds a violation of this part or finds that such compliance will not significantly impair the ability of the recipient or class of recipients to provide benefits or services.

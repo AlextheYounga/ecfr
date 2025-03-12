@@ -1,0 +1,7 @@
+##### § 101.40 General provisions. #####
+
+(a) The six regulations that comprise the Federal Priorities and Allocations System are designed to be largely self-executing. However, from time-to-time production or delivery problems will arise in connection with rated orders for health resources as covered under this part. In this event, a person should immediately contact the Secretary for guidance, as specified in § 101.93. If the HHS is unable to resolve the problem or to authorize the use of a priority rating and believes additional assistance is warranted, HHS may forward the request to another agency with resource jurisdiction, or the Department of Commerce, as appropriate, for action. Special priorities assistance is provided to alleviate problems that do arise.
+
+(b) Special priorities assistance is available for any reason consistent with this part. Generally, special priorities assistance is provided to expedite deliveries, resolve delivery conflicts, place rated orders, locate suppliers, or to verify information supplied by customers and vendors. Special priorities assistance may also be used to request rating authority for items that are not normally eligible for priority treatment.
+
+(c) A request for special priorities assistance or priority rating authority must be submitted to the Secretary, as specified in § 101.93.

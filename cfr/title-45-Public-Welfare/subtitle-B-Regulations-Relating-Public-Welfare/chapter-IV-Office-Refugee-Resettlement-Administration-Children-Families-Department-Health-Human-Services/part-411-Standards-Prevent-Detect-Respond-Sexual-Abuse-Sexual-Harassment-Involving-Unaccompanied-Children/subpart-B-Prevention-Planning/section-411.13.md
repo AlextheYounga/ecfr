@@ -1,0 +1,7 @@
+##### § 411.13 UC supervision and monitoring. #####
+
+(a) Care provider facilities must develop, document, and make their best effort to comply with a staffing plan that provides for adequate levels of staffing, and, where applicable under State and local licensing standards, video monitoring, to protect UCs from sexual abuse and sexual harassment.
+
+(b) In determining adequate levels of UC supervision and determining the need for video monitoring, the care provider facility must take into consideration the physical layout of the facility, the composition of the UC population, the prevalence of substantiated and unsubstantiated incidents of sexual abuse and sexual harassment, and any other relevant factors. Video monitoring equipment may not be placed in any bathroom, shower or bathing area, or other area where UCs routinely undress.
+
+(c) Care provider facilities must conduct frequent unannounced rounds to identify and deter sexual abuse and sexual harassment. Such rounds must be implemented during night as well as day shifts. Care provider facilities must prohibit staff from alerting others that rounds are occurring, unless such announcement is related to the legitimate operational functions of the care provider facility.

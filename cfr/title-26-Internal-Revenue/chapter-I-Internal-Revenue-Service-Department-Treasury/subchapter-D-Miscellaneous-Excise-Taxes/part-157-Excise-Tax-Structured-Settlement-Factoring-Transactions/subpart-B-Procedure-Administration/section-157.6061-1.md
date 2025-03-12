@@ -1,0 +1,3 @@
+##### § 157.6061-1 Signing of returns and other documents. #####
+
+Any return, statement, or other document required to be made with respect to a tax imposed by chapter 55 (Structured Settlement Factoring Transactions) of the Internal Revenue Code or the regulations under chapter 55 must be signed by the person required to file the return, statement, or other document, or by the persons required or duly authorized to sign in accordance with the regulations, forms, or instructions prescribed with respect to such return, statement, or document. An individual's signature on such return, statement, or other document shall be prima facie evidence that the individual is authorized to sign the return, statement, or other document.

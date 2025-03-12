@@ -1,0 +1,3 @@
+##### § 337.10 Payments. #####
+
+Payments on certificated debentures will be made by fiscal agency check in accordance with part 355 of this chapter, or, upon request, by direct deposit (electronic funds transfer) in accordance with part 370 of this chapter. Information as to the deposit account at the financial institution designated to receive a direct deposit payment shall be provided on the appropriate form(s) designated by the Department.

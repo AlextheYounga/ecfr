@@ -1,0 +1,3 @@
+##### § 264.11 How much is the penalty for not participating in IEVS? #####
+
+If we determine that the State has not complied with the requirements of § 264.10, we will reduce the SFAG payable for the immediately succeeding fiscal year by two percent of the adjusted SFAG unless the State demonstrates to our satisfaction that it had reasonable cause or achieved compliance under a corrective compliance plan pursuant to §§ 262.5 and 262.6 of this chapter.

@@ -1,0 +1,17 @@
+##### § 403.38 Contents of the petition. #####
+
+(a) *Description of the property.* The petition should contain such a description of the property and such facts of the seizure as will enable the Commissioner or his delegate to identify the property.
+
+(b) *Statement regarding knowledge of seizure.* In the event the petition is filed for the restoration of the proceeds derived from sale of the property pursuant to an administrative forfeiture, it should contain, or be supported by, satisfactory proof that the petitioner did not know and could not have known of the seizure prior to the declaration of forfeiture. (See also § 403.39)
+
+(c) *Interest of petitioner.* The petition should clearly and concisely indicate the nature and amount of his interest in the property on the date the petition is filed, and the facts relied upon to show that the petitioner was not willfully negligent and did not intend that the property be involved or used in violation of the internal revenue laws. Such petition may allege such other circumstances which in the opinion of the petitioner would justify the remission or mitigation of the forfeiture.
+
+(d) *Petitioner innocent party.* If the petitioner did not commit the act which caused the seizure of his property, the petition should state how the property came into the possession of the person whose act did cause the seizure, and it should also state that the petitioner had no knowledge or reason to believe that the property would be involved or used in violation of the internal revenue laws. If the petitioner knows, at the time he files the petition, that the person in whose possession the seized property was at the time of the seizure had a record or reputation for committing commercial crimes, the petitioner should state in the petition whether the petitioner knew of such record or reputation before the petitioner acquired his interest in the property or before such other person came into possession of the property, whichever occured later. For purposes of this paragraph, the term “commercial crimes” includes, but is not limited to any of the following federal or state crimes:
+
+(1) Offenses against the revenue laws; burglary; counterfeiting, forgery; kidnapping; larceny; robbery; illegal sale or possession of deadly weapons; prostitution (including soliciting, procuring, pandering, white slaving, keeping house of ill fame, and like offenses); extortion; swindling and confidence games; and attempting to commit, conspiring to commit, or compounding any of the foregoing crimes. Addiction to narcotic drugs and use of marijuana will be treated as commercial crimes.
+
+(2) [Reserved]
+
+(e) *Documents supporting claim.* The petition should be accompanied by copies, certified by the petitioner under oath as correct, of contracts, bills of sale, chattel mortgages, reports of investigators or credit reporting agencies, affidavits, and any other documents that would support the claims made in the petition.
+
+(f) *Costs.* The petition should contain an undertaking to pay any costs assessed as a condition of allowance of the petition. Such costs include but are not limited to all expenses incurred in seizing and storing the property; the costs borne or to be borne by the United States; the taxes, if any, payable by the petitioner or imposed in respect of the property to which the petition relates; the penalty, if any, asserted by the Internal Revenue Service; and, if the property has been sold, or is in the course of being sold, the expenses incurred relating to such sale.

@@ -1,0 +1,3 @@
+##### § 355.6 What happens if the presenting bank breaches its warranty? #####
+
+If the presenting bank breaches its warranty, the payor Reserve Bank may either return the check to the presenting bank or send notice of the breach to the presenting bank. If the presenting bank does not make prompt restitution when it receives the returned check or notice of breach, we may begin appropriate collection procedures.

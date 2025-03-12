@@ -1,0 +1,3 @@
+##### § 6.17 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the agency a copy of the agency's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. An applicant shall be paid the amount awarded unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.

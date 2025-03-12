@@ -1,0 +1,3 @@
+##### § 53.6151-1 Time and place for paying tax shown on returns. #####
+
+The Chapter 42 tax shown on any return shall, without assessment or notice and demand, be paid to the internal revenue officer with whom the return is filed at the time and place for filing such return (determined without regard to any extension of time for filing the return). For provisions relating to the time and place for filing such return, see §§ 53.6071-1 and 53.6091-1. For provisions relating to the extension of time for paying the tax, see § 53.6161-1.

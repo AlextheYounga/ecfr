@@ -1,0 +1,3 @@
+##### § 332.9 Taxation. #####
+
+The income derived from Series H bonds is subject to all taxes imposed under the Internal Revenue Code of 1986, as amended. The bonds are subject to estate, inheritance, gift, or other excise taxes, whether Federal or State, but are exempt from all other taxation now or hereafter imposed on the principal or interest thereof by any State, or any of the possessions of the United States, or by any local taxing authority.

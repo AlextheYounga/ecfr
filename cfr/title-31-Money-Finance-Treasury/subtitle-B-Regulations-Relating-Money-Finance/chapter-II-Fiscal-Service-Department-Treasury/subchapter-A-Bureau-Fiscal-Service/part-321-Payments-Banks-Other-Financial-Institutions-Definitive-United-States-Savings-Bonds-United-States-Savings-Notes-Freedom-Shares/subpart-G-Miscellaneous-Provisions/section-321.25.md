@@ -1,0 +1,5 @@
+##### § 321.25 Payment and retention of definitive securities. #####
+
+The definitive security must be presented and surrendered to the paying agent in order to receive payment. An agent is prohibited from accepting an image, or other copy or reproduction of the definitive security, for redemption or processing. To ensure that all transactions processed by agents are properly validated, agents must establish and comply with a retention period for definitive securities that are truncated and converted to an electronic image. At a minimum, the agent must retain such securities for a period of thirty calendar days following the date that the agent submitted the electronic image of the paid security to a Federal Reserve Processing Site. Agents may establish longer retention periods for definitive securities at their discretion.
+
+[77 FR 16167, Mar. 20, 2012]

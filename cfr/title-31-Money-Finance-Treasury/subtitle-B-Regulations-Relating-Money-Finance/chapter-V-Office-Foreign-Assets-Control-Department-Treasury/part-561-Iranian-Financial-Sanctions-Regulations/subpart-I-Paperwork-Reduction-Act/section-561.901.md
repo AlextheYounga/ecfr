@@ -1,0 +1,3 @@
+##### § 561.901 Paperwork Reduction Act notice. #####
+
+For approval by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995 (44 U.S.C. 3507) of the information collections relating to the recordkeeping and reporting requirements of § 561.601, licensing procedures (including those pursuant to statements of licensing policy), and other procedures, *see* § 501.901 of this chapter. The information collection in § 561.504(b) has been approved by OMB and assigned control number 1505-0243. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid control number assigned by OMB.

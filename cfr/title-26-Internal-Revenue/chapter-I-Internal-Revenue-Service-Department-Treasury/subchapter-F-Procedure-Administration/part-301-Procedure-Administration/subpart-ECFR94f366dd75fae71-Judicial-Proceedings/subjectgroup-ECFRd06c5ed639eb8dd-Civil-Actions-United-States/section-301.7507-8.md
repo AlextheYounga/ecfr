@@ -1,0 +1,5 @@
+##### § 301.7507-8 Procedure during immunity. #####
+
+(a) *Statements to be filed.* As long as complete or partial immunity is claimed, a bank within section 7507(b) shall file with each income tax return a statement as required by § 301.7507-7, in duplicate, and shall also file such additional statements as the district director may require. Whether or not additional statements shall be required, and the frequency thereof, will depend on the circumstances, including the financial status and apparent prospects of the bank, and the time which is available for assessment and collection. If a copy of an agreement or document has once been filed, a copy of the same agreement or document need not again be filed with a subsequent statement, if it is shown by the subsequent statement, when and where and with what return the copy was filed. In case of amendment a copy of the amendment must be filed with the return for the taxable year in which the amendment is made.
+
+(b) *Failure to file.* Failure of a bank to file any required statement will be treated as indicating that the bank is not entitled to immunity.

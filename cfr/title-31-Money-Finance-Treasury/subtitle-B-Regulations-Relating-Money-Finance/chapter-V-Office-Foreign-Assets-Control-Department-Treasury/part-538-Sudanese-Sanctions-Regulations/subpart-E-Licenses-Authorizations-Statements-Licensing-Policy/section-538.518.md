@@ -1,0 +1,5 @@
+##### § 538.518 Household goods and personal effects. #####
+
+(a) The exportation from the United States to Sudan of household and personal effects, including baggage and articles for family use, of persons departing the United States to relocate in Sudan is authorized provided the articles included in such effects have been actually used by such persons or by family members accompanying them, are not intended for any other person or for sale, and are not otherwise prohibited from exportation.
+
+(b) The importation of Sudanese-origin household and personal effects, including baggage and articles for family use, of persons arriving in the United States is authorized; to qualify, articles included in such effects must have been actually used abroad by such persons or by other family members arriving from the same foreign household, must not be intended for any other person or for sale, and must not be otherwise prohibited from importation.

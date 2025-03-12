@@ -1,0 +1,3 @@
+##### § 363.25 How do I conduct transactions in my account or in Treasury securities held in my account? #####
+
+We will provide online instructions for conducting transactions through your account. If you are unable to conduct a transaction online, you should contact us at the address provided in § 363.5. Offline transactions will require a certified or guaranteed signature. See § 363.43 for instructions for obtaining a certified or guaranteed signature.

@@ -1,0 +1,3 @@
+##### § 2540.630 What information must I provide to contest a proposed action? #####
+
+Your written response must include specific facts that contradict the statements made in the notice of proposed action. A general statement of denial is insufficient to raise a dispute over the facts material to the proposed action. Your response should also include copies of any documents that support your argument.

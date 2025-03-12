@@ -1,0 +1,3 @@
+##### § 1026.500 General. #####
+
+Futures commission merchants and introducing brokers in commodities are subject to the special information sharing procedures to deter money laundering and terrorist activity requirements set forth and cross referenced in this subpart. Futures commission merchants and introducing brokers in commodities should also refer to subpart E of part 1010 of this chapter for special information sharing procedures to deter money laundering and terrorist activity contained in that subpart which apply to futures commission merchants and introducing brokers in commodities.

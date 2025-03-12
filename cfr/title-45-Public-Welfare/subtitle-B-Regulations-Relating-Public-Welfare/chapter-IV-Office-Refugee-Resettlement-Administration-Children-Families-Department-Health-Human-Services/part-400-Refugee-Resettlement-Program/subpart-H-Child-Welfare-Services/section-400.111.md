@@ -1,0 +1,9 @@
+##### § 400.111 Definitions. #####
+
+For purposes of this subpart—
+
+*Child welfare agency* means an agency licensed or approved under State law to provide child welfare services to children in the State.
+
+*Unaccompanied minor* means a person who has not yet attained 18 years of age (or a higher age established by the State of resettlement in its child welfare plan under title IV-B of the Social Security Act for the availability of child welfare services to any other child in the State); who entered the United States unaccompanied by and not destined to (a) a parent or (b) a close nonparental adult relative who is willing and able to care for the child or (c) an adult with a clear and court-verifiable claim to custody of the minor; and who has no parent(s) in the United States. *Limitation:* No child may be considered by a State to be *unaccompanied* for the purpose of this part unless such child was identified by INS at the time of entry as *unaccompanied,* except that a child who was correctly classified as *unaccompanied* by a State in accordance with Action Transmittal SSA-AT-79-04 (and official interpretations thereof by the Director) prior to the effective date of this definition may continue to be so classified until such status is terminated in accordance with § 400.113(b) of this subpart; and the Director may approve the classification of a child as *unaccompanied* on the basis of information provided by a State showing that such child should have been classified as *unaccompanied* at the time of entry.
+
+*Title IV-B plan* means a State's plan for providing child welfare services to children in the State under part B of title IV of the Social Security Act.

@@ -1,0 +1,5 @@
+##### § 260.54 Do States have flexibility to grant good cause domestic violence waivers? #####
+
+(a) Yes; States have broad flexibility to grant these waivers to victims of domestic violence. For example, they may determine which program requirements to waive and decide how long each waiver might be necessary.
+
+(b) However, if a State wants us to take the waivers that it grants into account in deciding if it has reasonable cause for failing to meet its work participation rates or comply with the five-year limit on Federal assistance, has achieved compliance or made significant progress towards achieving compliance with such requirements during a corrective compliance period, or qualifies for a reduction in its work penalty under § 261.51 of this chapter, the waivers must be federally recognized good cause domestic violence waivers, within the meaning of §§ 260.52(c) and 260.55, and the State must submit the information specified at § 265.9(b)(5) of this chapter on its strategies and procedures for serving victims of domestic violence and the number of waivers granted.

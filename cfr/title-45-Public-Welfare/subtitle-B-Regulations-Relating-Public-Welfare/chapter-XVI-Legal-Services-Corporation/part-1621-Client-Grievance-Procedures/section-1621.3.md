@@ -1,0 +1,3 @@
+##### § 1621.3 Complaints by applicants about denial of legal assistance. #####
+
+A recipient shall establish a simple procedure for review of complaints by applicants about decisions to deny legal assistance to the applicant. The procedure shall, at a minimum, provide: A practical method for the recipient to provide applicants with adequate notice of the complaint procedures and how to make a complaint; and an opportunity for applicants to confer with the Executive Director or the Executive Director's designee, and, to the extent practical, with a representative of the governing body. The procedure shall be designed to foster effective communications between the recipient and complaining applicants.

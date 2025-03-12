@@ -1,0 +1,3 @@
+##### § 2400.66 Completion of fellowship. #####
+
+A Fellow will be deemed to have satisfied all terms of a fellowship and all obligations under it when the Fellow has completed no fewer than 12 graduate semester hours or the equivalent of study of the Constitution, formally secured the masters degree, attended the Foundation's Summer Institute on the Constitution, completed teaching for the number of years and fractions thereof required as a condition of accepting Foundation support for study, and submitted all required reports.

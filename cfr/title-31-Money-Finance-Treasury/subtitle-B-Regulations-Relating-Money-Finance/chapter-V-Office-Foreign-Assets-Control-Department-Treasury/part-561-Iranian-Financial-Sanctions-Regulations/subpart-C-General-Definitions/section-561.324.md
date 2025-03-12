@@ -1,0 +1,7 @@
+##### § 561.324 Designated Iranian financial institution. #####
+
+The term *designated Iranian**financial institution* means any Iranian financial institution whose property and interests in property are blocked by the Department of the Treasury pursuant to any part of this chapter or any Executive order issued pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*) and whose name is listed on the Specially Designated Nationals and Blocked Persons List on the Office of Foreign Assets Control's Web site, except for any Iranian financial institution whose property and interests in property are blocked solely pursuant to Executive Order 13599 of February 5, 2012.
+
+Note to § 561.324:
+
+Facilitating significant transactions or providing significant financial services for a financial institution whose property and interests in property are blocked pursuant to parts 544 or 594 of this chapter in connection with Iran's proliferation of weapons of mass destruction or delivery systems for weapons of mass destruction or Iran's support for international terrorism has, since the enactment of CISADA on July 1, 2010, constituted an activity that could subject a foreign financial institution to prohibitions or strict conditions on correspondent accounts or payable-through accounts in the United States. See § 561.201.

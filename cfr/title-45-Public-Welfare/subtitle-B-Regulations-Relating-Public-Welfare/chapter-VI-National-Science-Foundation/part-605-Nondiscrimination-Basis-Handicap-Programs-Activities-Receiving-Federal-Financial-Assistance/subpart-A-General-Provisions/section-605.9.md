@@ -1,0 +1,3 @@
+##### § 605.9 Administrative requirements for small recipients. #####
+
+The Director may require any recipient with fewer than fifteen employees, or any class of such recipients, to comply with §§ 605.7 and 605.8, in whole or in part, when the Director finds a violation of this part or finds that such compliance will not significantly impair the ability of the recipient or class or recipients to provide benefits or services.

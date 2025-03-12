@@ -1,0 +1,49 @@
+##### § 20.2012-1 Credit for gift tax. #####
+
+(a) *In general.* With respect to gifts made before 1977, a credit is allowed under section 2012 against the Federal estate tax for gift tax paid under chapter 12 of the Internal Revenue Code, or corresponding provisions of prior law, on a gift by the decedent of property subsequently included in the decedent's gross estate. The credit is allowable even though the gift tax is paid after the decedent's death and the amount of the gift tax is deductible from the gross estate as a debt of the decedent.
+
+(b) *Limitations on credit.* The credit for gift tax is limited to the smaller of the following amounts:
+
+(1) The amount of gift tax paid on the gift computed as set forth in paragraph (c) of this section, or
+
+(2) The amount of the estate tax attributable to the inclusion of the gift in the gross estate, computed as set forth in paragraph (d) of this section.
+
+When more than one gift is included in the gross estate, a separate computation of the two limitations on the credit is to be made for each gift.
+
+(c) *“First limitation”.* The amount of the gift tax paid on the gift is the “first limitation”. Thus, if only one gift was made during a certain calendar quarter, or calendar year if the gift was made before January 1, 1971, and the gift is wholly included in the decedent's gross estate for the purpose of the estate tax, the credit with respect to the gift is limited to the amount of the gift tax paid for that calendar quarter or calendar year. On the other hand, if more than one gift was made during a certain calendar quarter or calendar year, the credit with respect to any such gift which is included in the decedent's gross estate is limited under section 2012(d) to an amount, A, which bears the same ratio to B (the total gift tax paid for that calendar quarter or calendar year) as C (the “amount of the gift,” computed as described below) bears to D (the total taxable gifts for the calendar quarter or the calendar year, computed without deduction of the gift tax specific exemption). Stated algebraically, the “first limitation” (A) equals:
+
+“Amount of the gift” (C) ÷ Total taxable gifts, plus specific exemption allowed (D) × Total gift tax paid (B).
+
+For purposes of the ratio stated above, the “amount of the gift” referred to as factor “C” is the value of the gift reduced by any portion excluded or deducted under sections 2503(b) (annual exclusion), 2522 (charitable deduction), or 2523 (marital deduction) of the Internal Revenue Code or corresponding provisions of prior law. In making the computations described in this paragraph, the values to be used are those finally determined for the purpose of the gift tax, irrespective of the values determined for the purpose of the estate tax. A similar computation is made in case only a portion of any gift is included in the decedent's gross estate. The application of this paragraph may be illustrated by the following example:Example.The donor made gifts during the calendar year 1955 on which a gift tax was determined as shown below:
+
+|            Gift of property to son on February 1            |$13,000|   |
+|-------------------------------------------------------------|-------|---|
+|              Gift of property to wife on May 1              |86,000 |   |
+|    Gift of property to charitable organization on May 15    |10,000 |   |
+|                         Total gifts                         |109,000|   |
+|           Less exclusions ($3,000 for each gift)            | 9,000 |   |
+|               Total included amount of gifts                |100,000|   |
+|            Marital deduction (for gift to wife)             |$43,000|   |
+|                    Charitable deduction                     | 7,000 |   |
+|Specific exemption ($30,000 less $20,000 used in prior years)|10,000 |   |
+|                      Total deductions                       |60,000 |   |
+|                        Taxable gifts                        |40,000 |   |
+|         Total gift tax paid for calendar year 1955          | 3,600 |   |
+
+The donor's gift to his wife was made in contemplation of death and was thereafter included in his gross estate. Under the “first limitation”, the credit with respect to that gift cannot exceed:[$86,000 − $3,000 − $43,000 (gift to wife, less annual exclusion and marital deduction)] ÷ [$40,000 + $10,000 (taxable gifts, plus specific exemption allowed)] × $3,600 (total gift tax paid) = $2,880.
+
+(d) *“Second limitation”.* (1) The amount of the estate tax attributable to the inclusion of the gift in the gross estate is the “second limitation”. Thus, the credit with respect to any gift of property included in the gross estate is limited to an amount, E, which bears the same ratio to F (the gross estate tax, reduced by any credit for State death taxes under section 2011) as G (the “value of the gift”, computed as described in subparagraph (2) of this paragraph) bears to H (the value of entire gross estate, reduced by the total deductions allowed under sections 2055 or 2106(a)(2) (charitable deduction) and 2056 (marital deduction)). Stated algebraically, the “second limitation” (E) equals:
+
+“Value of the gift” (G) ÷ Value of gross estate, less marital and charitable deductions (H) × Gross estate tax, less credit for State death taxes (F).
+
+(2) For purposes of the ratio stated in subparagraph (1) of this paragraph, the “value of the gift” referred to as factor “G” is the value of the property transferred by gift and included in the gross estate, as determined for the purpose of the gift tax or for the purpose of the estate tax, whichever is lower, and adjusted as follows:
+
+(i) The appropriate value is reduced by all or a portion of any annual exclusion allowed for gift tax purposes under section 2503(b) of the Internal Revenue Code or corresponding provisions of prior law. If the gift tax value is lower than the estate tax value, it is reduced by the entire amount of the exclusion. If the estate tax value is lower than the gift tax value, it is reduced by an amount which bears the same ratio to the estate tax value as the annual exclusion bears to the total value of the property as determined for gift tax purposes. To illustrate: In 1955, a donor, in contemplation of death, transferred certain property to his five children which was valued at $300,000, for the purpose of the gift tax. Thereafter, the same property was included in his gross estate at a value of $270,000. In computing his gift tax, the donor was allowed annual exclusions totalling $15,000. The reduction provided for in this subdivision is:
+
+$15,000 (annual exclusions allowed) ÷ $300,000 (value of transferred property for the purpose of the gift tax) × $270,000 (value of transferred property for the purpose of the estate tax) = $13,500.
+
+(ii) The appropriate value is further reduced if any portion of the value of the property is allowed as a marital deduction under section 2056 or as a charitable deduction under section 2055 or section 2106(a)(2) (for estates of nonresidents not citizens). The amount of the reduction is an amount which bears the same ratio to the value determined under subdivision (i) of this subparagraph as the portion of the property allowed as a marital deduction or as a charitable deduction bears to the total value of the property as determined for the purpose of the estate tax. Thus, if a gift is made solely to the decedent's surviving spouse and is subsequently included in the decedent's gross estate as having been made in contemplation of death, but a marital deduction is allowed under section 2056 for the full value of the gift, no credit for gift tax on the gift will be allowed since the reduction under this subdivision together with the reduction under subdivision (i) of this subparagraph will have the effect of reducing the factor “G” of the ratio in subparagraph (1) of this paragraph to zero.
+
+(e) *Credit for “split gifts”.* If a decedent made a gift of property which is thereafter included in his gross estate, and, under the provisions of section 2513 of the Internal Revenue Code of 1954 or section 1000(f) of the Internal Revenue Code of 1939, the gift was considered as made one-half by the decedent and one-half by his spouse, credit against the estate tax is allowed for the gift tax paid with respect to both halves of the gift. The “first limitation” is to be separately computed with respect to each half of the gift in accordance with the principles stated in paragraph (c) of this section. The “second limitation” is to be computed with respect to the entire gift in accordance with the principles stated in paragraph (d) of this section. To illustrate: A donor, in contemplation of death, transferred property valued at $106,000 to his son on January 1, 1955, and he and his wife consented that the gift should be considered as made one-half by him and one-half by her. The property was thereafter included in the donor's gross estate. Under the “first limitation”, the amount of the gift tax of the donor paid with respect to the one-half of the gift considered as made by him is determined to be $11,250, and the amount of the gift tax of his wife paid with respect to the one-half of the gift considered as made by her is determined to be $1,200. Under the “second limitation”, the amount of the estate tax attributable to the property is determined to be $28,914. Therefore, the credit for gift tax allowed is $12,450 ($11,250 plus $1,200).
+
+[T.D. 6296, 23 FR 4529, June 24, 1958, as amended by T.D. 7238, 37 FR 28718, Dec. 29, 1972; T.D. 8522, 59 FR 9646, Mar. 1, 1994]

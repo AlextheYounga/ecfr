@@ -1,0 +1,3 @@
+##### § 211.5 Action under State law; appointment of guardian. #####
+
+Whenever an eligible person is incapable of giving his consent to care and treatment in a hospital, either because of his mental condition or because he is a minor, the agency will take appropriate action under State law, including, if necessary, procuring the appointment of a legal guardian, to ensure the proper planning for and provision of such care and treatment.

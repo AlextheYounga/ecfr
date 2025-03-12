@@ -1,0 +1,90 @@
+##### § 25.2512-5 Valuation of annuities, unitrust interests, interests for life or term of years, and remainder or reversionary interests. #####
+
+(a) *In general.* Except as otherwise provided in paragraph (b) of this section and § 25.7520-3(b), the fair market value of annuities, unitrust interests, life estates, terms of years, remainders, and reversions transferred by gift is the present value of the interests determined under paragraph (d) of this section. Section 20.2031-7 of this chapter (Estate Tax Regulations) and related sections provide tables with standard actuarial factors and examples that illustrate how to use the tables to compute the present value of ordinary annuity, life, and remainder interests in property. These sections also refer to standard and special actuarial factors that may be necessary to compute the present value of similar interests in more unusual fact situations. These factors and examples are also generally applicable for gift tax purposes in computing the values of taxable gifts.
+
+(b) *Commercial annuities and insurance contracts.* The value of life insurance contracts and contracts for the payment of annuities issued by companies regularly engaged in their sale is determined under § 25.2512-6.
+
+(c) *Actuarial valuations.* The present value of annuities, unitrust interests, life estates, terms of years, remainders, and reversions transferred by gift on or after May 1, 2009, is determined under paragraph (d) of this section. The present value of annuities, unitrust interests, life estates, terms of years, remainders, and reversions transferred by gift before May 1, 2009, is determined under the following sections:
+
+|Transfers|Applicable regulations|              |
+|---------|----------------------|--------------|
+|  After  |        Before        |              |
+|    —    |       01-01-52       |25.2512-5A(a).|
+|12-31-51 |       01-01-71       |25.2512-5A(b).|
+|12-31-70 |       12-01-83       |25.2512-5A(c).|
+|11-30-83 |       05-01-89       |25.2512-5A(d).|
+|04-30-89 |       05-01-99       |25.2512-5A(e).|
+|04-30-99 |       05-01-09       |25.2512-5A(f).|
+
+(d) *Actuarial valuations on or after May 1, 2009*—(1) *In general.* Except as otherwise provided in paragraph (b) of this section and § 25.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances), if the valuation date for the gift is on or after May 1, 2009, the fair market value of annuities, life estates, terms of years, remainders, and reversions transferred on or after May 1, 2009, is the present value of such interests determined under paragraph (d)(2) of this section and by use of standard or special section 7520 actuarial factors. These factors are derived by using the appropriate section 7520 interest rate and, if applicable, the mortality component for the valuation date of the interest that is being valued. See §§ 25.7520-1 through 25.7520-4. The fair market value of a qualified annuity interest described in section 2702(b)(1) and a qualified unitrust interest described in section 2702(b)(2) is the present value of such interests determined under § 25.7520-1(c).
+
+(2) *Specific interests.* When the donor transfers property in trust or otherwise and retains an interest therein, generally, the value of the gift is the value of the property transferred less the value of the donor's retained interest. However, if the donor transfers property after October 8, 1990, to or for the benefit of a member of the donor's family, the value of the gift is the value of the property transferred less the value of the donor's retained interest as determined under section 2702. If the donor assigns or relinquishes an annuity, life estate, remainder, or reversion that the donor holds by virtue of a transfer previously made by the donor or another, the value of the gift is the value of the interest transferred. However, see section 2519 for a special rule in the case of the assignment of an income interest by a person who received the interest from a spouse.
+
+(i) *Charitable remainder trusts.* The fair market value of a remainder interest in a pooled income fund, as defined in § 1.642(c)-5 of this chapter, is its value determined under § 1.642(c)-6(e) (see § 1.642(c)-6A for certain prior periods). The fair market value of a remainder interest in a charitable remainder annuity trust, as described in § 1.664-2(a), is its present value determined under § 1.664-2(c). The fair market value of a remainder interest in a charitable remainder unitrust, as defined in § 1.664-3, is its present value determined under § 1.664-4(e). The fair market value of a life interest or term for years in a charitable remainder unitrust is the fair market value of the property as of the date of transfer less the fair market value of the remainder interest, determined under § 1.664-4(e)(4) and (e)(5).
+
+(ii) *Ordinary remainder and reversionary interests.* If the interest to be valued is to take effect after a definite number of years or after the death of one individual, the present value of the interest is computed by multiplying the value of the property by the appropriate remainder interest actuarial factor (that corresponds to the applicable section 7520 interest rate and remainder interest period) in Table B (for a term certain) or in Table S (for one measuring life), as the case may be. Table B is contained in § 20.2031-7(d)(6) of this chapter and Table S (for one measuring life when the valuation date is on or after May 1, 2009) is included in § 20.2031-7(d)(7) and Internal Revenue Service Publication 1457. See § 20.2031-7A containing Table S for valuation of interests before May 1, 2009. For information about obtaining actuarial factors for other types of remainder interests, see paragraph (d)(4) of this section.
+
+(iii) *Ordinary term-of-years and life interests.* If the interest to be valued is the right of a person to receive the income of certain property, or to use certain nonincome-producing property, for a term of years or for the life of one individual, the present value of the interest is computed by multiplying the value of the property by the appropriate term-of-years or life interest actuarial factor (that corresponds to the applicable section 7520 interest rate and term-of-years or life interest period). Internal Revenue Service Publication 1457 includes actuarial factors for a remainder interest after a term of years in Table B and after the life of one individual in Table S (for one measuring life when the valuation date is on or after May 1, 2009). However, term-of-years and life interest actuarial factors are not included in Table B in § 20.2031-7(d)(6) of this chapter or Table S in § 20.2031-7(d)(7) (or in § 20.2031-7A). If Internal Revenue Service Publication 1457 (or any other reliable source of term-of-years and life interest actuarial factors) is not conveniently available, an actuarial factor for the interest may be derived mathematically. This actuarial factor may be derived by subtracting the correlative remainder factor (that corresponds to the applicable section 7520 interest rate) in Table B (for a term of years) in § 20.2031-7(d)(6) or in Table S (for the life of one individual) in § 20.2031-7(d)(7), as the case may be, from 1.000000. For information about obtaining actuarial factors for other types of term-of-years and life interests, see paragraph (d)(4) of this section.
+
+(iv) *Annuities.* (A) If the interest to be valued is the right of a person to receive an annuity that is payable at the end of each year for a term of years or for the life of one individual, the present value of the interest is computed by multiplying the aggregate amount payable annually by the appropriate annuity actuarial factor (that corresponds to the applicable section 7520 interest rate and annuity period). Internal Revenue Service Publication 1457 includes actuarial factors in Table B (for a remainder interest after an annuity payable for a term of years) and in Table S (for a remainder interest after an annuity payable for the life of one individual when the valuation date is on or after May 1, 2009). However, annuity actuarial factors are not included in Table B in § 20.2031-7(d)(6) of this chapter or Table S in § 20.2031-7(d)(7) (or in § 20.2031-7A). If Internal Revenue Service Publication 1457 (or any other reliable source of annuity actuarial factors) is not conveniently available, an annuity factor for a term of years or for one life may be derived mathematically. This annuity factor may be derived by subtracting the applicable remainder factor (that corresponds to the applicable section 7520 interest rate and annuity period) in Table B (in the case of a term-of-years annuity) in § 20.2031-7(d)(6) or in Table S (in the case of a one-life annuity) in § 20.2031-7(d)(7), as the case may be, from 1.000000 and then dividing the result by the applicable section 7520 interest rate expressed as a decimal number. See § 20.2031-7(d)(2)(iv) for an example that illustrates the computation of the present value of an annuity.
+
+(B) If the annuity is payable at the end of semiannual, quarterly, monthly, or weekly periods, the product obtained by multiplying the annuity factor by the aggregate amount payable annually is then multiplied by the applicable adjustment factor set forth in Table K in § 20.2031-7(d)(6) at the appropriate interest rate component for payments made at the end of the specified periods. The provisions of this paragraph (d)(2)(iv)(B) are illustrated by the following example:
+
+Example.In July of a year after 2009 but before 2019, the donor agreed to pay the annuitant the sum of $10,000 per year, payable in equal semiannual installments at the end of each period. The semiannual installments are to be made on each December 31st and June 30th. The annuity is payable until the annuitant's death. On the date of the agreement, the annuitant is 68 years and 5 months old. The donee annuitant's age is treated as 68 for purposes of computing the present value of the annuity. The section 7520 rate on the date of the agreement is 6.6 percent. Under Table S in § 20.2031-7(d)(7), the factor at 6.6 percent for determining the present value of a remainder interest payable at the death of an individual aged 68 is .42001. Converting the remainder factor to an annuity factor, as described above, the annuity factor for determining the present value of an annuity transferred to an individual age 68 is 8.7877 (1.000000 minus .42001 divided by .066). The adjustment factor from Table K in § 20.2031-7(d)(6) in the column for payments made at the end of each semiannual period at the rate of 6.6 percent is 1.0162. The aggregate annual amount of the annuity, $10,000, is multiplied by the factor 8.7877 and the product is multiplied by 1.0162. The present value of the donee's annuity is, therefore, $89,300.61 ($10,000 × 8.7877 × 1.0162).
+
+(C) If an annuity is payable at the beginning of annual, semiannual, quarterly, monthly, or weekly periods for a term of years, the value of the annuity is computed by multiplying the aggregate amount payable annually by the annuity factor described in paragraph (d)(2)(iv)(A) of this section; and the product so obtained is then multiplied by the adjustment factor in Table J in § 20.2031-7(d)(6) of this chapter at the appropriate interest rate component for payments made at the beginning of specified periods. If an annuity is payable at the beginning of annual, semiannual, quarterly, monthly, or weekly periods for one or more lives, the value of the annuity is the sum of the first payment and the present value of a similar annuity, the first payment of which is not to be made until the end of the payment period, determined as provided in paragraph (d)(2)(iv)(B) of this section.
+
+(v) *Annuity and unitrust interests for a term of years or until the prior death of an individual*—(A) *Annuity interests.* The present value of an annuity interest that is payable until the earlier to occur of the lapse of a specific number of years or the death of an individual may be computed with values from the tables in §§ 20.2031-7(d)(6) and 20.2031-7(d)(7) of this chapter as described in the following example:
+
+Example.The donor transfers $100,000 into a trust early in 2010, and retains the right to receive an annuity from the trust in the amount of $6,000 per year, payable in equal semiannual installments at the end of each period. The semiannual installments are to be made on each June 30th and December 31st.
+
+The annuity is payable for 10 years or until the donor's prior death. At the time of the transfer, the donor is 59 years and 6 months old. The donor's age is deemed to be 60 for purposes of computing the present value of the retained annuity. If the section 7520 rate for the month in which the transfer occurs in 5.8 percent, the present value of the donor's retained interest would be $42,575.65, determined as follows:
+
+| TABLE S value at 5.8 percent, age 60 |34656 |
+|:-------------------------------------|-----:|
+| TABLE S value at 5.8 percent, age 70 |.49025|
+|     TABLE 2000CM value at age 70     |74794 |
+|     TABLE 2000CM value at age 60     |87595 |
+|TABLE B value at 5.8 percent, 10 years|569041|
+|     TABLE K value at 5.8 percent     |1.0143|
+
+![](/graphics/er10au11.061.gif)Factor for donor's retained interest at 5.8 percent:
+
+Present value of donor's retained interest:
+
+|($6,000 × 6.9959 × 1.0143)|$42,575.65|
+|:-------------------------|---------:|
+
+(B) *Unitrust interests.* The present value of a unitrust interest that is payable until the earlier to occur of the lapse of a specific number of years or the death of an individual may be computed with values from the tables in §§ 1.664-4(e)(6) and 1.664-4(e)(7) of this chapter as described in the following example:
+
+Example.The donor who, as of the nearest birthday, is 60 years old, transfers $100,000 to a unitrust on January 1st of a year after 2009 but before 2019. The trust instrument requires that each year the trust pay to the donor, in equal semiannual installments on June 30th and December 31st, 6 percent of the fair market value of the trust assets, valued as of January 1st each year, for 10 years or until the prior death of the donor. The section 7520 rate for the January in which the transfer occurs is 6.6 percent. Under Table F(6.6) in § 1.664-4(e)(6), the appropriate adjustment factor is .953317 for semiannual payments payable at the end of the semiannual period. The adjusted payout rate is 5.720 percent (6% × .953317). The present value of the donor's retained interest is $41,920.00 determined as follows:
+
+|TABLE U(1) value at 5.6 percent, age 60|.33970 |
+|:--------------------------------------|------:|
+|TABLE U(1) value at 5.6 percent, age 70|.48352 |
+|     TABLE 2000CM value at age 70      | 74794 |
+|     TABLE 2000CM value at age 60      | 87595 |
+|TABLE D value at 5.6 percent, 10 years |.561979|
+
+Factor for donor's retained interest at 5.6 percent:
+
+(1.000000−.33970) − (.561979 × (74794/87595) × (1.000000−.48352)) = .41247
+
+|TABLE U(1) value at 5.8 percent, age 60|.32846 |
+|:--------------------------------------|------:|
+|TABLE U(1) value at 5.8 percent, age 70|.47241 |
+|     TABLE 2000CM value at age 70      | 74794 |
+|     TABLE 2000CM value at age 60      | 87595 |
+|TABLE D value at 5.8 percent, 10 years |.550185|
+
+![](/graphics/er10au11.062.gif)
+
+Factor for donor's retained interest at 5.8 percent:
+
+(3) *Transitional rule.* If the valuation date of a transfer of property by gift is on or after May 1, 2009, and before July 1, 2009, the fair market value of the interest transferred is determined by use of the section 7520 interest rate for the month in which the valuation date occurs (see §§ 25.7520-1(b) and 25.7520-2(a)(2)) and the appropriate actuarial tables under either § 20.2031-7(d)(7) or § 20.2031-7A(f)(4) of this chapter, at the option of the donor. However, with respect to each individual transaction and with respect to all transfers occurring on the valuation date, the donor must use the same actuarial tables (for example, gift and income tax charitable deductions with respect to the same transfer must be determined based on the same tables, and all transfers made on the same date must be valued based on the same tables).
+
+(4) *Publications and actuarial computations by the Internal Revenue Service.* Many standard actuarial factors not included in § 20.2031-7(d)(6) or § 20.2031-7(d)(7) of this chapter are included in Internal Revenue Service Publication 1457, “Actuarial Valuations Version 3A” (2009). Internal Revenue Service Publication 1457 also includes examples that illustrate how to compute many special factors for more unusual situations. A copy of this publication is available, at no charge, electronically via the IRS Internet site at *http://www.irs.gov.* If a special factor is required in the case of a completed gift, the Internal Revenue Service may furnish the factor to the donor upon a request for a ruling. The request for a ruling must be accompanied by a recitation of the facts including a statement of the date of birth for each measuring life, the date of the gift, any other applicable dates, and a copy of the will, trust, or other relevant documents. A request for a ruling must comply with the instructions for requesting a ruling published periodically in the Internal Revenue Bulletin (see §§ 601.201 and 601.601(d)(2)(ii)(*b*) of this chapter) and include payment of the required user fee.
+
+(e) *Effective/applicability date.* This section applies on and after May 1, 2009.
+
+[T.D. 8540, 59 FR 30174, June 10, 1994, as amended by T.D. 8819, 64 FR 23224, Apr. 30, 1999; T.D. 8886, 65 FR 36940, June 12, 2000; 65 FR 39470, June 26, 2000; 65 FR 58222, Sept. 28, 2000; T.D. 9448, 74 FR 21512, May 7, 2009; T.D. 9540, 76 FR 49639, Aug. 10, 2011]

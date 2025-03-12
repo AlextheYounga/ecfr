@@ -1,0 +1,3 @@
+##### § 15.737-4 Other discipline. #####
+
+For activity alleged to violate 18 U.S.C. 207 (a), (b) or (c), the Director may also bring a disciplinary proceeding pursuant to the regulations governing practice before the Bureau of Alcohol, Tobacco and Firearms or the Internal Revenue Service as found in 31 CFR part 8 and 31 CFR part 10, respectively. Such proceeding may be consolidated with any proceeding brought pursuant to this part.

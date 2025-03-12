@@ -1,0 +1,156 @@
+##### § 1.1248-4 Limitation on tax applicable to individuals. #####
+
+(a) *General rule*—(1) *Limitation on tax.* Under section 1248(b), if during a taxable year an individual sells or exchanges stock in a foreign corporation, then in respect of the stock the increase in the individual's income tax liability for such taxable year which is attributable (under paragraph (b) of this section) to the amount included in his gross income as a dividend under section 1248(a) shall not be greater than an amount equal to the sum of:
+
+(i) The excess, computed under paragraph (c) of this section in respect of the stock of the United States taxes which would have been paid by the corporation over the taxes (including United States taxes) actually paid by the corporation, plus.
+
+(ii) An amount equal to the increase in the individual's income tax liability which would be attributable to the inclusion in his gross income for such taxable year, as long-term capital gain, of an amount equal to the excess of (*a*) the amount included in the individual's gross income as a dividend under section 1248(a) in respect of such stock, over (*b*) the excess referred to in subdivision (i) of this subparagraph.
+
+(2) *Share or block.* In general, the limitation on tax attributable (under paragraph (b) of this section) to the amount included in an individual's gross income as a dividend under section 1248(a) shall be determined separately for each share of stock sold or exchanged. However, such determination may be made in respect of a block of stock if earnings and profits attributable to the block are computed under § 1.1248-2 or 1.1248-3. See paragraph (b) of § 1.1248-2 and paragraph (a)(5) of § 1.1248-3.
+
+(3) *Application of limitation.* The provisions of subparagraph (1) of this paragraph shall not apply unless the individual establishes:
+
+(i) In the manner prescribed in § 1.1248-7, the amount of the earnings and profits of the corporation attributable under paragraph (a)(1) of § 1.1248-2 or under paragraph (a)(1) of § 1.1248-3, whichever is applicable, to the stock, and
+
+(ii) The amount equal to the sum described in subparagraph (1) of this paragraph, computed in accordance with the provisions of this section.
+
+(4) *Example.* The provisions of this paragraph may be illustrated by the following example:
+
+Example:On December 31, 1966, Smith, a United States person, sells a share of stock of X Corporation which he has owned continuously since December 31, 1965, and includes $100 of the gain on the sale in his gross income as a dividend under section 1248(a). Both X and Smith use the calendar year as the taxable year. The increase in Smith's income tax liability for 1966 which is attributable (under paragraph (b) of this section) to the inclusion of the $100 in his gross income as a dividend is $70. X was a controlled foreign corporation on each day of 1966. The excess computed under paragraph (c) of this section in respect of the share, of the United States taxes which X would have paid over the taxes (including United States taxes) actually paid by X is $49. Under section 1248(b), the limitation on the tax attributable to the $100 included by Smith in his gross income as a dividend under section 1248(a) is $61.75, computed as follows:
+
+|(i) Excess, computed under paragraph (c) of this section, of United States taxes which X Corporation would have paid in 1966 over the taxes actually paid by X in 1966|       |$49.00|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|------|
+|                                               (ii) The amount determined under subparagraph (1)(ii) of this paragraph:                                               |       |      |
+|                                          The amount Smith included in his gross income as a dividend under section 1248(a)                                           |$100.00|      |
+|                                                    Less the excess referred to in subdivision (i) of this example                                                    | 49.00 |      |
+|                                                                              Difference                                                                              | 51.00 |      |
+|                  Increase in Smith's tax liability attributable to including $51 in his gross income as long-term capital gain (25 percent of $51)                   |       |12.75 |
+|                                                                       (iii) Limitation on tax                                                                        | 61.75 |      |
+
+(b) *Tax attributable to amount treated as dividend*—(1) *General.* For purposes of paragraph (a)(1) of this section, in respect of a share (or block) of stock in a foreign corporation sold or exchanged by an individual during a taxable year, the tax attributable to the amount included in his gross income as a dividend under section 1248(a) shall be the amount which bears the same ratio to (i) the excess of (*a*) his income tax liability for the taxable year determined without regard to section 1248(b) over (*b*) such tax liability determined as if the portion of the total gain recognized during the taxable year which is treated as a dividend under section 1248(a) had not been recognized, as (ii) the amount included as a dividend under section 1248(a) in respect of the share (or block), bears to (iii) the total amount included as a dividend under section 1248(a) in the individual's gross income for such taxable year.
+
+(2) *Examples.* The application of this paragraph may be illustrated by the following examples:
+
+Example 1.(i) During 1963, Brown, an unmarried United States person, sells a block of stock in a controlled foreign corporation. On the sale, he recognizes $22,000 gain, of which $18,000 is treated as a dividend under section 1248(a) and $4,000 as long-term capital gain. Brown computes his income tax liability for his taxable year ending December 31, 1963, under section 1201 (relating to alternative tax) in accordance with the additional facts assumed in the following table:
+
+|                                                                                                                             |Computation of income tax liability without regard to section 1248(b)|Computation of income tax liability as if the gain treated as a divided under section 1248(a) had not been recognized|
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+|                                                     Income from salary                                                      |                              $300,000                               |                                                      $300,000                                                       |
+|Long-term capital gain resulting from sale of stock, less deduction for capital gains under section 1202 ($4,000 less $2,000)|                                2,000                                |                                                        2,000                                                        |
+|                                     Amount treated as a dividend under section 1248(a)                                      |                               18,000                                |                                                          0                                                          |
+|                                                    Adjusted gross income                                                    |                               320,000                               |                                                       302,000                                                       |
+|     Charitable contribution of $100,000 to church (limited under section 170(b) to 30 percent of adjusted gross income)     |                              (96,000)                               |                                                      (90,600)                                                       |
+|                                      Other itemized deductions and personal exemption                                       |                               (7,700)                               |                                                       (7,700)                                                       |
+|                                                       Taxable income                                                        |                               216,300                               |                                                       203,700                                                       |
+|                                                  Less 50 percent of $4,000                                                  |                                2,000                                |                                                        2,000                                                        |
+|                                   Amount subject to partial tax under section 1201(b)(1)                                    |                               214,300                               |                                                       201,700                                                       |
+|                                                         Partial tax                                                         |                               169,833                               |                                                       158,367                                                       |
+|                                                    25 percent of $4,000                                                     |                                1,000                                |                                                        1,000                                                        |
+|                                                        Tax liability                                                        |                               170,833                               |                                                       159,367                                                       |
+
+(ii) The tax attributable to the $18,000 treated as a dividend under section 1248(a) is $11,466 ($170,833 minus $159,367).Example 2.Assume the same facts as in example (1) except that the $18,000 treated as a dividend under section 1248(a) is attributable to the sale of a block of stock in X Corporation and a block of stock in Y Corporation. Assume further that $10,000 of the gain on the block of X stock was treated as a dividend and that $8,000 of the gain on the block of Y stock was treated as a dividend. Thus, the tax attributable to the amount treated as a dividend in respect of the block of X stock is $6,370 ($10,000/$18,000 of $11,466) and the amount in respect of the block of Y stock is $5,096 ($8,000/$18,000 of $11,466). The result would be the same if both blocks of stock were blocks of stock in the same corporation.
+
+(c) *Excess (of United States taxes which would have been paid over taxes actually paid) attributable to a share (or block)*—(1) *General.* For purposes of paragraph (a)(1)(i) of this section:
+
+(i) The term *taxes* means income, war profits, or excess profits taxes, and
+
+(ii) The excess (and the portion of such excess attributable to an individual's share or block of stock in a foreign corporation) of the United States taxes which would have been paid by the corporation over the taxes (including United States taxes) actually paid by the corporation, for the period or periods the stock was held (or was considered to be held by reason of the application of section 1223) by the individual in taxable years of the corporation beginning after December 31, 1962, while the corporation was a controlled foreign corporation, shall be computed in accordance with the steps set forth in subparagraphs (2), (3), and (4) of this paragraph.
+
+(2) *Step 1.* For each taxable year of the corporation beginning after December 31, 1962, in respect of the individual's share (or block) of such stock (i) the taxable income of the corporation shall be computed in the manner prescribed in paragraph (d) of this section, and (ii) the excess (and the portion of such excess attributable to the stock of the United States taxes which would have been paid by the corporation on such taxable income over the taxes (including United States taxes) actually paid by the corporation shall be computed in the manner prescribed in paragraph (e) of this section.
+
+(3) *Step 2.* If during such taxable year the corporation is a first tier corporation to which paragraph (f) of this section applies, (i) the excess (and the portion of such excess attributable to the individual's share, or block, of stock in the first tier corporation) of the United States taxes which would have been paid by any lower tier corporation over the taxes (including United States taxes) actually paid by such lower tier corporation shall be computed under paragraph (f) of this section, and (ii) such portion shall be added to the portion of the excess attributable to the individual's share (or block) of such stock as determined in step 1 for such taxable year.
+
+(4) *Step 3.* The excess, in respect of the individual's share (or block), of the United States taxes which would have been paid by the corporation over the taxes actually paid by the corporation shall be the sum of the portions computed for each such taxable year in the manner prescribed in steps 1 and 2.
+
+(d) *Taxable income.* For purposes of paragraph (c)(2)(i) of this section, taxable income shall be computed in respect of an individual's share (or block) in accordance with the following rules:
+
+(1) *Application of principles of* § *1.952-2.* Except as otherwise provided in this paragraph, the principles of paragraphs (a)(1), (b)(1), and (c) of § 1.952-2 (other than subparagraphs (2)(iii)(*b*), (2)(v), (5)(i), and (6) of such paragraph (c)) shall apply.
+
+(2) *Effect of elections.* In respect of a taxable year of a foreign corporation, no effect shall be given to an election or an adoption of accounting method unless for such taxable year effect is given to such election or adoption of accounting method under paragraph (d)(1) of § 1.1248-2 or paragraph (b)(1) of § 1.1248-3, whichever is applicable.
+
+(3) The deductions for certain dividends received provided in sections 243, 244, and 245 shall not be allowed.
+
+(4) *Deduction for taxes.* In computing the amount of the deduction allowed under section 164, there shall be excluded income, war profits, or excess profits taxes paid or accrued which are imposed by the authority of any foreign country or possession of the United States.
+
+(5) *Capital loss carryover.* In determining the amount of a net capital loss to be carried forward under section 1212 to the taxable year:
+
+(i) No net capital loss shall be carried forward from a taxable year beginning before January 1, 1963.
+
+(ii) The portion of a net capital loss or a capital gain net income (net capital gain for taxable years beginning before January 1, 1977) for a taxable year beginning after December 31, 1962, which shall be taken into account shall be the amount of such loss or gain (as the case may be), multiplied by the percentage which (*a*) the number of days in such taxable year during which the individual held (or was considered to have held by reason of the application of section 1223) the share (or block) of stock sold or exchanged while the corporation was a controlled foreign corporation, bears to (*b*) the total number of days in such taxable year.
+
+(iii) The application of this subparagraph may be illustrated by the following examples:
+
+Example 1.Corporation X is a foreign corporation which was created on January 1, 1963, and which uses the calendar year as its taxable year. X was a controlled foreign corporation on each day of the period March 15, 1963, through December 31, 1965, but was not a controlled foreign corporation on any day during the period January 1, 1963, through March 14, 1963. On December 31, 1965, Smith, a United States person, sells a share of X stock which he has owned continuously since January 1, 1963. A portion of the gain recognized on the sale is includible in Smith's gross income as a dividend under section 1248(a). X had a net capital loss (determined without regard to subchapter N, chapter 1 of the Code) of $200 for 1963. Since, however, X was a controlled foreign corporation for only 292 days in 1963, for purposes of determining the net capital loss carryover to 1964 the portion of the net capital loss of $200 for 1963 which Smith takes into account under subdivision (ii) of this subparagraph is $160 (292/365 of $200), and, accordingly, the amount of the net capital loss carryover to 1964 is $160.Example 2.Assume the same facts as in example (1), except that X was not a controlled foreign corporation on any day of the period May 26, 1964, through June 30, 1965. Assume further that X had a net capital gain (capital gain net income for taxable years beginning after December 31, 1976) (determined without regard to subchapter N, chapter 1, of the Code) of $160 for 1964. In computing X's taxable income for 1964 under this paragraph, Smith applies the net capital loss carryover of $160 from 1963 to reduce the net capital gain of $160 for 1964 to zero. Since, however, X was a controlled foreign corporation for only 146 days in 1964, for purposes of computing the portion of the 1963 capital loss of $160 which is a net capital loss carryover to 1965, the portion of the 1964 capital gain which Smith takes into account under subdivision (ii) of this subparagraph is $63.83 (146/366 of $160). Thus, the net capital loss carryover to 1965 is $96.17 ($160 minus $63.83).
+
+(6) *Net operating loss deduction.* (i) The individual shall reduce the taxable income (computed under subparagraphs (1) through (5) of this paragraph) of the corporation for the taxable year by the amount of the net operating loss deduction of the corporation computed under section 172, as modified in the manner prescribed in this subparagraph.
+
+(ii) The rules of subparagraphs (1) through (5) of this paragraph shall apply for purposes of determining the excess referred to in section 172(c) and the taxable income referred to in section 172(b)(2).
+
+(iii) A net operating loss shall not be carried forward from, or carried back to, a taxable year beginning before January 1, 1963.
+
+(iv) The portion of a net operating loss incurred, or of taxable income earned, in a taxable year beginning after December 31, 1962, which shall be taken into account under section 172(b)(2) shall be the amount of such loss or income (as the case may be), multiplied by the percentage which (*a*) the number of days in such taxable year during which the individual held (or was considered to have held by reason of the application of section 1223) the share (or block) of stock sold or exchanged while the corporation was a controlled foreign corporation, bears to (*b*) the total number of days in such taxable year.
+
+(v) For illustrations of the principles of this subparagraph, see the examples relating to net capital loss carryovers in subparagraph (5)(iii) of this paragraph.
+
+(7) *Adjustment for amount previously included in gross income of United States shareholders.* In respect of the individual's share (or block) of stock sold or exchanged, the taxable income of the corporation for the taxable year (determined without regard to this subparagraph and subparagraph (8) of this paragraph) shall be reduced (but not below zero) by an amount equal to the sum of the amounts included under section 951 in the gross income of United States shareholders (as defined in section 951(b)) of the corporation for the taxable year.
+
+(8) *Adjustment for distributions.* In respect of the individual's share (or block) of stock sold or exchanged, the taxable income of the corporation for the taxable year (determined without regard to this subparagraph) shall be reduced (but not below zero) by the amount of the distributions (other than in redemption of stock under section 302(a) or 303) made by the corporation out of earnings and profits of such taxable year (within the meaning of section 316(a)(2)). For purposes of the preceding sentence, distributions shall be taken into account only to the extent not excluded from the gross income of the United States shareholders of the corporation under section 959.
+
+(e) *Excess attributable to a share (or block) of stock*—(1) *Excess of United States taxes which would have been paid over taxes actually paid.* For purposes of paragraph (c)(2)(ii) of this section, in respect of a taxable year of a foreign corporation, the portion of the excess under this subparagraph which is attributable to an individual's share (or block) of such stock shall be an amount equal to:
+
+(i) The excess (if any) of (*a*) the United States taxes which would have been paid by the corporation on its taxable income (computed under paragraph (d) of this section) for the taxable year had it been taxed as a domestic corporation under chapter 1 of the Code (but without regard to subchapters F, G, H, L, M, N, S, and T thereof) for such taxable year, over (*b*) the income, war profits, or excess profits taxes actually paid by the corporation during such taxable year (including such taxes paid to the United States),
+
+(ii) Multiplied by the percentage that (*a*) the number of days in such taxable year of the corporation during the period or periods the share (or block) was held (or was considered as held by reason of the application of section 1223) by the individual while the corporation was a controlled foreign corporation, bears to (*b*) the total number of days in such taxable year,
+
+(iii) If the computation is made in respect of a block, multiplied by the number of shares in the block, and
+
+(iv) Divided by the number of shares in the corporation outstanding, or deemed under paragraph (c)(2) of § 1.1248-3 to be outstanding, on each day of such taxable year.
+
+(2) *Example.* The provisions of this paragraph may be illustrated by the following example:
+
+Example:(i) Jones, a United States person, owns on each day of 1963 10 shares of the 100 shares of the only class of outstanding stock of X corporation. He sells one of such shares on December 31, 1963. X corporation is a controlled foreign corporation on each day of 1963 and Jones and X each use the calendar year as the taxable year. For 1963, the excess of the United States taxes which would have been paid by X had it been taxable as a domestic corporation over the taxes (including United States taxes) actually paid by X is $23,500, computed as follows:
+
+|                        Amount subject to partial tax under section 1201(a)(1), as computed by Jones:                         |        |   |
+|------------------------------------------------------------------------------------------------------------------------------|--------|---|
+|                                                        Taxable income                                                        |$300,000|   |
+|                          Less excess of net long-term capital gain over net short-term capital loss                          |100,000 |   |
+|                                                Amount subject to partial tax                                                 |200,000 |   |
+|                                Excess determined under subparagraph (1)(i) of this paragraph:                                |        |   |
+|                                                     30 percent × $25,000                                                     | $7,500 |   |
+|                                                    52 percent × $175,000                                                     | 91,000 |   |
+|                                                         Partial tax                                                          | 98,500 |   |
+|                                                    25 percent × $100,000                                                     | 25,000 |   |
+|                    United States taxes X would have paid (alternative tax computed under section 1201(a))                    |123,500 |   |
+|                                            Less income taxes X actually paid to:                                             |        |   |
+|                                                        United States                                                         |$10,000 |   |
+|                                                      Foreign countries                                                       | 90,000 |   |
+|                                                            Total                                                             |$100,000|   |
+|                                                            Excess                                                            | 23,500 |   |
+|                                                        Multiplied by:                                                        |        |   |
+|                             Percentage determined under subparagraph (1)(ii) of this paragraph:                              |        |   |
+|Since on each day of 1963, Jones held the share of X stock while X was a controlled foreign corporation, the percentage equals|  100%  |   |
+|                                                            Total                                                             |$23,500 |   |
+
+(ii) The portion of the excess determined in subdivision (i) of this example which is attributable to the share held by Jones is $235, that is, the amount of such excess ($23,500), divided by the number of shares of X deemed to be outstanding on each day of 1963 (100).
+
+(3) *More than one class of stock.* If a foreign corporation for a taxable year has more than one class of stock outstanding, then before applying subparagraph (1) of this paragraph the excess (if any) which would be determined under subparagraph (1)(i) of this paragraph shall be allocated to each class of stock in accordance with the principles of paragraph (e) (2) and (3) of § 1.951-1, applied as if the corporation were a controlled foreign corporation on each day of such taxable year.
+
+(f) *Subsidiaries of foreign corporations*—(1) *Excess for lower tier corporation attributable to taxable year of first tier corporation.* For purposes of paragraph (c)(3) of this section, if the provisions of paragraph (a)(3) of § 1.1248-2 or paragraph (f) of § 1.1248-3 apply in the case of the sale or exchange by an individual of a share (or block) of stock in a first tier corporation, then in respect of a taxable year of a lower tier corporation (beginning after December 31, 1962) which includes at least one day which falls within a taxable year of the first tier corporation (beginning after December 31, 1962), the portion of the excess under this subparagraph attributable to the share shall be an amount equal to:
+
+(i) The excess (if any) of (*a*) the United States taxes which would have been paid by the lower tier corporation on its taxable income (computed under paragraph (g) of this section) for such taxable year of the lower tier corporation had it been taxed as a domestic corporatin under chapter 1 of the Code (but without regard to subchapters F, G, H, L, M, N, and T thereof) for such taxable year of the lower tier corporation, over (*b*) the income, war profits, or excess profits taxes actually paid by the lower tier corporation during such taxable year (including such taxes paid to the United States),
+
+(ii) Multiplied by each of the percentages described under paragraph (f)(2)(ii), (iii), and (iv) of § 1.1248-3 in respect of such taxable year of the first tier corporation,
+
+(iii) If the computation is made in respect of a block of stock, multiplied by the number of shares in the block, and
+
+(iv) Divided by the number of shares in the first tier corporation outstanding, or deemed under paragraph (c)(2) of § 1.1248-3 to be outstanding, on each day of such taxable year of the first tier corporation.
+
+(2) *More than one class of stock.* If a foreign corporation for a taxable year has more than one class of stock outstanding, then before applying subparagraph (1) of this paragraph the principles of paragraph (e)(3) of this section shall apply.
+
+(g) *Taxable income of lower tier corporations*—(1) *General.* For purposes of paragraph (f)(1)(i) of this section, in respect of the individual's share (or block) the taxable income of a lower tier corporation shall be computed in the manner provided in paragraph (d) of this section, except as provided in this paragraph.
+
+(2) *Capital loss carryover.* For purposes of subparagraph (1) of this paragraph, the provisions of paragraph (d)(5)(ii) of this section shall not apply. In determining the amount of a net capital loss to be carried forward under section 1212 to the taxable year of a lower tier corporation, the portion of a net capital loss or a capital gain net income (net capital gain for taxable years beginning before January 1, 1977) for a taxable year of the lower tier corporation beginning after December 31, 1962, which shall be taken into account shall be the amount of such loss or gain (as the case may be), multiplied by the percentage which (i) the number of days in such taxable year during the period or periods the individual held (or was considered to have held by reason of the application of section 1223) the share (or block) of stock in the first tier corporation sold or exchanged while the first tier corporation owned (within the meaning of section 958 (a)) stock in the lower tier corporation while the lower tier corporation was a controlled foreign corporation, bears to (ii) the total number of days in such taxable year.
+
+(3) *Net operating loss deduction.* For purposes of subparagraph (1) of this paragraph, the provisions of paragraph (d)(6)(iv) of this section shall not apply. In determining the amount of the net operating loss deduction for a taxable year of a lower tier corporation, the portion of a net operating loss incurred, or of taxable income earned, in a taxable year of the lower tier corporation beginning after December 31, 1962, which shall be taken into account under section 172(b)(2) shall be the amount of such loss or income (as the case may be) multiplied by the percentage described in subparagraph (2) of this paragraph for such taxable year.
+
+[T.D. 6779, 29 FR 18139, Dec. 22, 1964, as amended by T.D. 7545, 43 FR 19653, May 8, 1978; T.D. 7728, 45 FR 72650, Nov. 3, 1980]

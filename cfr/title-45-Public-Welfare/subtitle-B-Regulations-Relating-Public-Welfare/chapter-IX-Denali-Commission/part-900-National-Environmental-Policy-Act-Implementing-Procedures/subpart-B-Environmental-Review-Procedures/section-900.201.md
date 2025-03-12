@@ -1,0 +1,5 @@
+##### § 900.201 Environmental review process. #####
+
+(a) *General.* The environmental review process is the investigation of potential environmental impacts to determine the environmental process to be followed and to assist in the preparation of the environmental document.
+
+(b) *Early coordination.* Applicants will contact the Commission and work with the Approving Official to begin the environmental review process as soon as Denali Commission assistance is projected. Environmental issues shall be identified and considered early in the proposal planning process. A systematic, interdisciplinary approach that includes community involvement and intergovernmental coordination to expand the potential sources of information and identify areas of concern will be used. Environmental permits and other forms of approval, concurrence, or consultation may be required. The planning process shall include permitting and other review processes to ensure that necessary information will be collected and provided to permitting and reviewing agencies in a timely manner.

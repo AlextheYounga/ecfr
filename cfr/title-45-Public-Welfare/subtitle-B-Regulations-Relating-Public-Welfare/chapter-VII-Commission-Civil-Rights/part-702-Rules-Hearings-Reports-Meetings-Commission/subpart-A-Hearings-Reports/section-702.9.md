@@ -1,0 +1,3 @@
+##### § 702.9 Cross-examination at public session. #####
+
+If the Commission determines that oral testimony of a witness at a public session tends to defame, degrade, or incriminate any person, such person, or through counsel, shall be permitted to submit questions to the Commission in writing, which, in the discretion of the Commission, may be put to such witness by the Chairperson or by authorized Commission staff personnel.

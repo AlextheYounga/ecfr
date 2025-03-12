@@ -1,0 +1,3 @@
+##### § 360.62 Payment to minor. #####
+
+If the owner of a savings bond is a minor and the form of registration does not indicate that there is a representative of the minor's estate, payment will be made to the minor upon his or her request, provided the minor is of sufficient competency to sign the request for payment and to understand the nature of the transaction. In general, the fact that the request for payment has been signed by a minor and certified will be accepted as sufficient proof of competency and understanding.

@@ -1,0 +1,7 @@
+##### § 1.666(c)-1A Pro rata portion of taxes deemed distributed. #####
+
+(a) If an accumulation distribution is deemed under § 1.666(a)-1A to be distributed on the last day of a preceding taxable year and the amount is less than the undistributed net income for such preceding taxable year, then an additional amount is also deemed distributed under section 661(a)(2). The additional amount is equal to the “taxes imposed on the trust attributable to the undistributed net income” (as defined in § 1.665(a)-1A(b)) for such preceding taxable year, multiplied by a fraction, the numerator of which is the amount of the accumulation distribution allocated to such preceding taxable year and the denominator of which is the undistributed net income for such preceding taxable year. See paragraph (b) of example 1 and paragraphs (c) and (f) of example 2 in § 1.666(c)-2A for illustrations of this paragraph.
+
+(b) For the purpose of paragraph (a) of this section, the undistributed net income of any preceding taxable year and the taxes imposed on the trust for such preceding taxable year attributable to such undistributed net income are computed after taking into account any accumulation distributions of any taxable years intervening between such preceding taxable year and the taxable year. See paragraph (d) of § 1.666(a)-1A and paragraph (c) of example 1 and paragraphs (e) and (h) of example 2 in § 1.666(c)-2A.
+
+[T.D. 7204, 37 FR 17145, Aug. 25, 1972]

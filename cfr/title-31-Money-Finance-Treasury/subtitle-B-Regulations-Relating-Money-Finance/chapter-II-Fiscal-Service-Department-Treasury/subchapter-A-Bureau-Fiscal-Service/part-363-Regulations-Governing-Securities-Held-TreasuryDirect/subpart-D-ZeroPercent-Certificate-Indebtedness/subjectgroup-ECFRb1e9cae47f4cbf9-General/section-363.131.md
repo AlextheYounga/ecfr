@@ -1,0 +1,5 @@
+##### § 363.131 What is a TreasuryDirect ® zero-percent certificate of indebtedness? #####
+
+A TreasuryDirect® zero-percent certificate of indebtedness is a non-interest-bearing security that is issued daily, with a one-day maturity, which automatically rolls over at maturity until you request redemption. A zero-percent certificate of indebtedness has a minimum purchase amount of one cent. The only purpose of a zero-percent certificate of indebtedness is to accumulate funds for the purchase of another eligible security in the TreasuryDirect system. A zero-percent certificate of indebtedness within a minor's account is the property of the minor alone. The payroll zero-percent certificate of indebtedness is a restricted form of the zero-percent certificate of indebtedness that is held separately from the zero-percent certificate of indebtedness and used only for purchases made through the payroll savings plan.
+
+[69 FR 50309, Aug. 16, 2004, as amended at 75 FR 70816, Nov. 19, 2010]

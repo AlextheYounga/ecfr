@@ -1,0 +1,21 @@
+##### § 1.1244(d)-1 Contributions of property having basis in excess of value. #####
+
+(a) *In general.* (1) Section 1244(d)(1) (A) provides a special rule which limits the amount of loss on section 1244 stock that may be treated as an ordinary loss. This rule applies only when section 1244 stock is issued by a corporation in exchange for property that, immediately before the exchange, has an adjusted basis (for determining loss) in excess of its fair market value. If section 1244 stock is issued in exchange for such property and the basis of such stock in the hands of the taxpayer is determined by reference to the basis of such property, then for purposes of section 1244, the basis of such stock shall be reduced by an amount equal to the excess, at the time of the exchange, of the adjusted basis of the property over its fair market value.
+
+(2) The provisions of section 1244(d) (1)(A) do not affect the basis of stock for purposes other than section 1244. Such provisions are to be used only in determining the portion of the total loss sustained that may be treated as an ordinary loss pursuant to section 1244.
+
+(b) *Transfer of more than one item.* If a taxpayer exchanges several items of property for stock in a single transaction so that the basis of the property transferred is allocated evenly among the shares of stock received, the computation under this section should be made by reference to the aggregate fair market value and the aggregate basis of the property transferred.
+
+(c) *Examples.* The provisions of this section may be illustrated by the following examples:
+
+Example 1.B transfers property with an adjusted basis of $1,000 and a fair market value of $250 to a corporation for 10 shares of section 1244 stock in an exchange that qualifies under section 351. The basis of B's stock is $1,000 ($100 per share), but, solely for purposes of section 1244, the total basis of the stock must be reduced by $750, the excess of the adjusted basis of the property exchanged over its fair market value. Thus, the basis of such stock for purposes of section 1244 is $250 and the basis of each share for such purposes is $25. If B sells his 10 shares for $250, he will recognize a loss of $750, all of which must be treated as a capital loss. If he sells the 10 shares for $200, then $50 of his total loss of $800 will be treated as an ordinary loss under section 1244, assuming the various requirements of such section are satisfied, and the remaining $750 will be a capital loss.Example 2.B owns property with a basis of $20,000. The fair market value of the property unencumbered is $15,000 but the property is subject to a $2,000 mortgage. B transfers the encumbered property to a corporation for 100 shares of section 1244 stock in an exchange that qualifies under section 351. The basis of the shares, determined in accordance with section 358, is $18,000 or $180 per share, but solely for purposes of section 1244 the basis is $13,000 ($130 per share), which is its basis for purposes other than section 1244, reduced by $5,000, the excess of the adjusted basis, immediately before the exchange, of the property transferred over its fair market value.Example 3.C transfers business assets to a corporation for 100 shares of section 1244 stock in an exchange that qualifies under section 351. The assets transferred are as follows:
+
+|                    | Basis |Fair market value|
+|--------------------|-------|-----------------|
+|        Cash        |$10,000|     $10,000     |
+|     Inventory      |15,000 |     30,000      |
+|Depreciable property|50,000 |     20,000      |
+|        Land        |25,000 |     10,000      |
+|                    |100,000|     70,000      |
+
+The basis for the shares received by C is $100,000, which is applied $1,000 to each share. However, the basis of the shares for purposes of section 1244 is $70,000 ($700 per share), the basis for general purposes reduced by $30,000, the excess of the aggregate adjusted basis of the property transferred over the aggregate fair market value of such property.[T.D. 6495, 25 FR 9679, Oct. 8, 1960]

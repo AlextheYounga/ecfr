@@ -1,0 +1,5 @@
+##### § 1.6164-7 Termination by district director. #####
+
+(a) *After an examination of the statement filed by the corporation is made.* The district director is authorized to make such examination of the statements filed as he deems necessary and practicable. If, upon such examination as he may make, the district director believes that, as of the time he makes the examination, all or any part of the statement is in a material respect erroneous or unreasonable, he will terminate the extension as to any part of the amount to which such extension relates which he deems should be terminated.
+
+(b) *Jeopardy.* If the district director believes that the collection of any amount to which an extension under section 6164 relates is in jeopardy, he will immediately terminate the extension. In the case of such a termination, notice and demand shall be made by the district director for payment of such amount, and there may be no further extension of time under section 6164 with respect to such amount.

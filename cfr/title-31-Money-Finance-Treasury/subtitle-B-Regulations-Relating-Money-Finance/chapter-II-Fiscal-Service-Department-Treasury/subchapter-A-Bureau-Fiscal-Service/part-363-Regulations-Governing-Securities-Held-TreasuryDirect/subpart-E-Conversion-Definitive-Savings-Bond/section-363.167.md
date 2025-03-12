@@ -1,0 +1,3 @@
+##### § 363.167 How will a converted savings bond be registered? #####
+
+The registration of the converted bond will be the same as on the definitive bond, provided that it was registered properly in an authorized form of registration. We will change a definitive savings bond that was not registered in an authorized form of registration to the closest authorized form of registration. For example, a definitive savings bond erroneously registered “John Doe and Jane Doe” will be changed to “John Doe or Jane Doe.” We are not liable to any person for any such decision as to the closest form of authorized registration.

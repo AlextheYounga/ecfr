@@ -1,0 +1,27 @@
+##### § 31.3306(c)-2 Employment; services performed after 1954. #####
+
+(a) *In general.* Whether services performed after 1954 constitute employment is determined under subsections (c) and (n) of section 3306.
+
+(b) *Services performed within the United States.* Services performed after 1954 within the United States (see § 31.3306(j)-1) by an employee for the person employing him, unless specifically excepted under section 3306(c), constitute employment. With respect to services performed within the United States, the place where the contract of service is entered into is immaterial. The citizenship or residence of the employee or of the person employing him also is immaterial except to the extent provided in any specific exception from employment. Thus, the employee and the person employing him may be citizens and residents of a foreign country and the contract of service may be entered into in a foreign country, and yet, if the employee under such contract performs services within the United States, there may be to that extent employment.
+
+(c) *Services performed outside the United States*—(1) *In general.* Except as provided in subparagraph (2) of this paragraph, services performed outside the United States (see § 31.3306(j)-1) do not constitute employment.
+
+(2) *On or in connection with an American vessel or American aircraft.* (i) This subparagraph relates to services performed after 1954 “on or in connection with” an American vessel, and to services performed after 1961 “on or in connection with” an American aircraft to the extent that the remuneration for the latter services is paid after 1961. Such services performed outside the United States by an employee for the person employing him constitute employment if:
+
+(*a*) The employee is also employed “on and in connection with” such vessel or aircraft when outside the United States; and
+
+(*b*) The services are performed under a contract of service, between the employee and the person employing him, which is entered into within the United States, or during the performance of the contract under which the services are performed and while the employee is employed on the vessel or aircraft it touches at a port within the United States; and
+
+(*c*) The services are not excepted under section 3306(c). (See particularly § 31.3306(c)(17)-1, relating to fishing.)
+
+(ii) An employee performs services on and in connection with the vessel or aircraft if he performs services on the vessel or aircraft which are also in connection with the vessel or aircraft. Services performed on the vessel by employees as officers or members of the crew, or as employees of concessionaires, of the vessel, for example, are performed under such circumstances, since the services are also connected with the vessel. Similarly, services performed on the aircraft by employees as officers or members of the crew of the aircraft are performed on and in connection with such aircraft. Services may be performed on the vessel or aircraft, however, which have no connection with it, as in the case of services performed by an employee while on the vessel or aircraft merely as a passenger in the general sense. For example, the services of a buyer in the employ of a department store while he is a passenger on a vessel are not in connection with the vessel.
+
+(iii) If services are performed by an employee “on and in connection with” an American vessel or American aircraft when outside the United States and the conditions in (*b*) and (*c*) of paragraph (c)(2)(i) of this section are met, then the services of that employee performed on or in connection with the vessel or aircraft constitute employment. The expression “on or in connection with” refers not only to services performed on the vessel or aircraft but also to services connected with the vessel or aircraft which are not actually performed on it (for example, shore services performed as officers or members of the crew, or as employees of concessionaires, of the vessel).
+
+(iv) Services performed by a member of the crew or other employee whose contract of service is not entered into within the United States, and during the performance of which and while the employee is employed on the vessel or aircraft it does not touch at a port within the United States, do not constitute employment, notwithstanding that service performed by other members of the crew or other employees on or in connection with the vessel or aircraft may constitute employment.
+
+(v) A vessel includes every description of watercraft, or other contrivance, used as a means of transportation on water. An aircraft includes every description of craft, or other contrivance, used as a means of transportation through the air. In the case of an aircraft, the term “port” means an airport. An airport means an area on land or water used regularly by aircraft for receiving or discharging passengers or cargo. For definitions of “American vessel” and “American aircraft”, see § 31.3306(m)-1.
+
+(vi) With respect to services performed outside the United States on or in connection with an American vessel or American aircraft, the citizenship or residence of the employee is immaterial, and the citizenship or residence of the employer is material only in case it has a bearing in determining whether a vessel is an American vessel.
+
+[T.D. 6658, 28 FR 6636, June 27, 1963]

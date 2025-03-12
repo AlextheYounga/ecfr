@@ -1,0 +1,3 @@
+##### § 91.6 Nuisances. #####
+
+The use of loud, abusive, or profane language, unwarranted loitering, unauthorized assembly, the creation of any hazard to persons or things, improper disposal of rubbish, spitting, prurient prying, the commission of any obscene or indecent act, or any other disorderly conduct on the property is prohibited. The throwing of any articles of any kind in, upon, or from the property and climbing upon any part thereof, is prohibited. The entry, without specific permission, upon any part of the property to which the public does not customarily have access, is prohibited.

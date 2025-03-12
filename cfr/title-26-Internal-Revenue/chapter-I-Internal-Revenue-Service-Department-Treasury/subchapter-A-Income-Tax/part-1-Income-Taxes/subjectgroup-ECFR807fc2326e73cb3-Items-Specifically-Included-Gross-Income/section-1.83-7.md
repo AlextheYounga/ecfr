@@ -1,0 +1,33 @@
+##### § 1.83-7 Taxation of nonqualified stock options. #####
+
+(a) *In general.* If there is granted to an employee or independent contractor (or beneficiary thereof) in connection with the performance of services, an option to which section 421 (relating generally to certain qualified and other options) does not apply, section 83(a) shall apply to such grant if the option has a readily ascertainable fair market value (determined in accordance with paragraph (b) of this section) at the time the option is granted. The person who performed such services realizes compensation upon such grant at the time and in the amount determined under section 83(a). If section 83(a) does not apply to the grant of such an option because the option does not have a readily ascertainable fair market value at the time of grant, sections 83(a) and 83(b) shall apply at the time the option is exercised or otherwise disposed of, even though the fair market value of such option may have become readily ascertainable before such time. If the option is exercised, sections 83(a) and 83(b) apply to the transfer of property pursuant to such exercise, and the employee or independent contractor realizes compensation upon such transfer at the time and in the amount determined under section 83(a) or 83(b). If the option is sold or otherwise disposed of in an arm's length transaction, sections 83(a) and 83(b) apply to the transfer of money or other property received in the same manner as sections 83(a) and 83(b) would have applied to the transfer of property pursuant to an exercise of the option. The preceding sentence does not apply to a sale or other disposition of the option to a person related to the service provider that occurs on or after July 2, 2003. For this purpose, a person is related to the service provider if—
+
+(1) The person and the service provider bear a relationship to each other that is specified in section 267(b) or 707(b)(1), subject to the modifications that the language “20 percent” is used instead of “50 percent” each place it appears in sections 267(b) and 707(b)(1), and section 267(c)(4) is applied as if the family of an individual includes the spouse of any member of the family; or
+
+(2) The person and the service provider are engaged in trades or businesses under common control (within the meaning of section 52(a) and (b)); provided that a person is not related to the service provider if the person is the service recipient with respect to the option or the grantor of the option.
+
+(b) *Readily ascertainable defined*—(1) *Actively traded on an established market.* Options have a value at the time they are granted, but that value is ordinarily not readily ascertainable unless the option is actively traded on an established market. If an option is actively traded on an established market, the fair market value of such option is readily ascertainable for purposes of this section by applying the rules of valuation set forth in § 20.2031-2.
+
+(2) *Not actively traded on an established market.* When an option is not actively traded on an established market, it does not have a readily ascertainable fair market value unless its fair market value can otherwise be measured with reasonable accuracy. For purposes of this section, if an option is not actively traded on an established market, the option does not have a readily ascertainable fair market value when granted unless the taxpayer can show that all of the following conditions exist:
+
+(i) The option is transferable by the optionee;
+
+(ii) The option is exerciseable immediately in full by the optionee;
+
+(iii) The option or the property subject to the option is not subject to any restriction or condition (other than a lien or other condition to secure the payment of the purchase price) which has a significant effect upon the fair market value of the option; and
+
+(iv) The fair market value of the option privilege is readily ascertainable in accordance with paragraph (b)(3) of this section.
+
+(3) *Option privilege.* The option privilege in the case of an option to buy is the opportunity to benefit during the option's exercise period from any increase in the value of property subject to the option during such period, without risking any capital. Similarly, the option privilege in the case of an option to sell is the opportunity to benefit during the exercise period from a decrease in the value of property subject to the option. For example, if at some time during the exercise period of an option to buy, the fair market value of the property subject to the option is greater than the option's exercise price, a profit may be realized by exercising the option and immediately selling the property so acquired for its higher fair market value. Irrespective of whether any such gain may be realized immediately at the time an option is granted, the fair market value of an option to buy includes the value of the right to benefit from any future increase in the value of the property subject to the option (relative to the option exercise price), without risking any capital. Therefore, the fair market value of an option is not merely the difference that may exist at a particular time between the option's exercise price and the value of the property subject to the option, but also includes the value of the option privilege for the remainder of the exercise period. Accordingly, for purposes of this section, in determining whether the fair market value of an option is readily ascertainable, it is necessary to consider whether the value of the entire option privilege can be measured with reasonable accuracy. In determining whether the value of the option privilege is readily ascertainable, and in determining the amount of such value when such value is readily ascertainable, it is necessary to consider—
+
+(i) Whether the value of the property subject to the option can be ascertained;
+
+(ii) The probability of any ascertainable value of such property increasing or decreasing; and
+
+(iii) The length of the period during which the option can be exercised.
+
+(c) *Reporting requirements.* [Reserved]
+
+(d) This section applies on and after July 2, 2003. For transactions prior to that date, see § 1.83-7 as published in 26 CFR part 1 (revised as of April 1, 2003).
+
+[T.D. 7554, 43 FR 31920, July 24, 1978, as amended by T.D. 9067, 68 FR 39454, July 2, 2003; T.D. 9148, 69 FR 48392, Aug. 10, 2004]

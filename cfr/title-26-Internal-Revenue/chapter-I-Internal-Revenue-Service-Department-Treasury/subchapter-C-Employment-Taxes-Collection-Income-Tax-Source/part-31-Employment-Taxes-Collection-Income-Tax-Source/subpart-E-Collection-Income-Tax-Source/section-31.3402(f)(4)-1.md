@@ -1,0 +1,17 @@
+##### § 31.3402(f)(4)-1 Period during which withholding exemption certificate remains in effect. #####
+
+(a) *In general.* Except as provided in paragraphs (b) and (c) of this section, a withholding exemption certificate which takes effect under section 3402(f) of the Internal Revenue Code of 1954, or which on December 31, 1954, was in effect under section 1622(h) of the Internal Revenue Code of 1939, shall continue in effect with respect to the employee until another withholding exemption certificate takes effect under section 3402(f). Paragraphs (b) and (c) of this section are applicable only for withholding exemption certificates furnished by the employee to the employer before January 1, 1982. See § 31.3402(f)(4)-2 for the rules applicable to withholding exemption certificates furnished by the employee to the employer after December 31, 1981.
+
+(b) *Withholding allowances under section 3402(m) for itemized deductions.* In no case shall the portion of a withholding exemption certificate relating to withholding allowances under section 3402(m) for itemized deductions be effective with respect to any payment of wages made to an employee -
+
+(1) In the case of an employee whose liability for tax under subtitle A of the Code is determined on a calendar-year basis, after April 30 of the calendar year immediately following the calendar year which was his estimation year for purposes of determining the withholding allowance or allowances claimed on such exemption certificate, or
+
+(2) In the case of an employee to whom paragraph (c)(1) of this section does not apply, after the last day of the fourth month immediately following his taxable year which was his estimation year for purposes of determining the withholding allowance or allowances claimed on such exemption certificate.
+
+(c) *Statements under section 3402(n) eliminating requirement of withholding.* The statements described in § 31.3402(n)-1 made by an employee with respect to his preceding taxable year and current taxable year shall be deemed to have been made also with respect to his current taxable year and his taxable year immediately thereafter, respectively, until either a new withholding exemption certificate furnished by the employee takes effect or the existing certificate which contains such statements expires. In no case shall a withholding exemption certificate which contains such statements be effective with respect to any payment of wages made to an employee -
+
+(1) In the case of an employee whose liability for tax under subtitle A is determined on a calendar-year basis, after April 30 of the calendar year immediately following the calendar year which was his original current taxable year for purposes of such statements, or
+
+(2) In the case of an employee to whom paragraph (c)(1) of this section does not apply, after the last day of the fourth month immediately following his original current taxable year for purposes of such statements.
+
+(Secs. 3402(i) and (m) and 7805 of the Internal Revenue Code of 1954 (26 U.S.C. 3402 (i) and (m), 95 Stat. 172, 184; 26 U.S.C. 7805, 68A Stat. 917))[T.D. 7048, 35 FR 10291, June 24, 1970, as amended by T.D. 7065, 35 FR 16539, Oct. 23, 1970; T.D. 7915, 48 FR 44073, Sept. 27, 1983]

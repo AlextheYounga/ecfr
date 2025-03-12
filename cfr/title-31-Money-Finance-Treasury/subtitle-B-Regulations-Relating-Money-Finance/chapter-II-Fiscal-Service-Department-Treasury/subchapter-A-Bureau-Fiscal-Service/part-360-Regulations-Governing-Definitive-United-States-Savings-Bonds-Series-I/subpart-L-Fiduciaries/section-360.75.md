@@ -1,0 +1,9 @@
+##### § 360.75 Payment or reissue during the existence of the fiduciary estate. #####
+
+(a) *Request from the fiduciaries named in the registration.* A request for reissue or payment signed by at least one, but less than all, of the fiduciaries named in the registration shall be deemed sufficient and acceptable proof that less than all of the fiduciaries may properly execute the request. If the fiduciaries named in the registration are still acting, no further evidence will be required. In other cases, i.e., cases in which the fiduciary is not designated by name and title in the bond registration or a fiduciary designated in the bond registration is no longer acting, the request must be made in accordance with subparts J and K of this part.
+
+(b) *Corporate fiduciaries.* If a bond is registered in the name of a public or private corporation, such as a financial institution, or a governmental body as fiduciary, the request must be signed by an authorized officer in the name of the organization as fiduciary. Ordinarily, a signed and certified request will be accepted without further evidence.
+
+(c) *Trustee of a common trust fund.* A bond held by a financial institution as a trustee may be reissued in the name of the institution as trustee of its common trust fund to the extent that participation in the common trust fund is authorized by law or regulation. The request for reissue should be executed by the institution and any co-trustee.
+
+(d) *Successor fiduciary.* If the fiduciary in whose name the bond is registered has been replaced by another fiduciary, a properly executed form or satisfactory evidence of successorship should be furnished.

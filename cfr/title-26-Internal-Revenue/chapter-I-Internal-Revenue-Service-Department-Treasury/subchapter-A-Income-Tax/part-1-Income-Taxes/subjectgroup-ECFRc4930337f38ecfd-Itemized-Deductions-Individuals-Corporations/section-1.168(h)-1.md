@@ -1,0 +1,41 @@
+##### § 1.168(h)-1 Like-kind exchanges involving tax-exempt use property. #####
+
+(a) *Scope.* (1) This section applies with respect to a direct or indirect transfer of property among related persons, including transfers made through a qualified intermediary (as defined in § 1.1031(k)-1(g)(4)) or other unrelated person, (a transfer) if—
+
+(i) Section 1031 applies to any party to the transfer or to any related transaction; and
+
+(ii) A principal purpose of the transfer or any related transaction is to avoid or limit the application of the alternative depreciation system (within the meaning of section 168(g)).
+
+(2) For purposes of this section, a person is related to another person if they bear a relationship specified in section 267(b) or section 707(b)(1).
+
+(b) *Allowable depreciation deduction for property subject to this section*—(1) *In general.* Property (tainted property) transferred directly or indirectly to a taxpayer by a related person (related party) as part of, or in connection with, a transaction in which the related party receives tax-exempt use property (related tax-exempt use property) will, if the tainted property is subject to an allowance for depreciation, be treated in the same manner as the related tax-exempt use property for purposes of determining the allowable depreciation deduction under section 167(a). Under this paragraph (b), the tainted property is depreciated by the taxpayer over the remaining recovery period of, and using the same depreciation method and convention as that of, the related tax-exempt use property.
+
+(2) *Limitations*—(i) *Taxpayer's basis in related tax-exempt use property.* The rules of this paragraph (b) apply only with respect to so much of the taxpayer's basis in the tainted property as does not exceed the taxpayer's adjusted basis in the related tax-exempt use property prior to the transfer. Any excess of the taxpayer's basis in the tainted property over its adjusted basis in the related tax-exempt use property prior to the transfer is treated as property to which this section does not apply. This paragraph (b)(2)(i) does not apply if the related tax-exempt use property is not acquired from the taxpayer (e.g., if the taxpayer acquires the tainted property for cash but section 1031 nevertheless applies to the related party because the transfer involves a qualified intermediary).
+
+(ii) *Application of section 168(i)(7).* This section does not apply to so much of the taxpayer's basis in the tainted property as is subject to section 168(i)(7).
+
+(c) *Related tax-exempt use property.* (1) For purposes of paragraph (b) of this section, related tax-exempt use property includes—
+
+(i) Property that is tax-exempt use property (as defined in section 168(h)) at the time of the transfer; and
+
+(ii) Property that does not become tax-exempt use property until after the transfer if, at the time of the transfer, it was intended that the property become tax-exempt use property.
+
+(2) For purposes of determining the remaining recovery period of the related tax-exempt use property in the circumstances described in paragraph (c)(1)(ii) of this section, the related tax-exempt use property will be treated as having, prior to the transfer, a lease term equal to the term of any lease that causes such property to become tax-exempt use property.
+
+(d) *Examples.* The following examples illustrate the application of this section. The examples do not address common law doctrines or other authorities that may apply to recharacterize or alter the effects of the transactions described therein. Unless otherwise indicated, parties to the transactions are not related to one another.
+
+Example 1.(i) X owns all of the stock of two subsidiaries, B and Z. X, B and Z do not file a consolidated federal income tax return. On May 5, 1995, B purchases an aircraft (*FA*) for $1 million and leases it to a foreign airline whose income is not subject to United States taxation and which is a tax-exempt entity as defined in section 168(h)(2). On the same date, Z owns an aircraft (*DA*) with a fair market value of $1 million, which has been, and continues to be, leased to an airline that is a United States taxpayer. Z's adjusted basis in DA is $0. The next day, at a time when each aircraft is still worth $1 million, B transfers FA to Z (subject to the lease to the foreign airline) in exchange for DA (subject to the lease to the airline that is a United States taxpayer). Z realizes gain of $1 million on the exchange, but that gain is not recognized pursuant to section 1031(a) because the exchange is of like-kind properties. Assume that a principal purpose of the transfer of DA to B or of FA to Z is to avoid the application of the alternative depreciation system. Following the exchange, Z has a $0 basis in FA pursuant to section 1031(d). B has a $1 million basis in DA.
+
+(ii) B has acquired property from Z, a related person; Z's gain is not recognized pursuant to section 1031(a); Z has received tax-exempt use property as part of the transaction; and a principal purpose of the transfer of DA to B or of FA to Z is to avoid the application of the alternative depreciation system. Accordingly, the transaction is within the scope of this section. Pursuant to paragraph (b) of this section, B must recover its $1 million basis in DA over the remaining recovery period of, and using the same depreciation method and convention as that of, FA, the related tax-exempt use property.
+
+(iii) If FA did not become tax-exempt use property until after the exchange, it would still be related tax-exempt use property and paragraph (b) of this section would apply if, at the time of the exchange, it was intended that FA become tax-exempt use property.
+
+Example 2.(i) X owns all of the stock of two subsidiaries, B and Z. X, B and Z do not file a consolidated federal income tax return. B and Z each own identical aircraft. B's aircraft (*FA*) is leased to a tax-exempt entity as defined in section 168(h)(2) and has a fair market value of $1 million and an adjusted basis of $500,000. Z's aircraft (*DA*) is leased to a United States taxpayer and has a fair market value of $1 million and an adjusted basis of $10,000. On May 1, 1995, B and Z exchange aircraft, subject to their respective leases. B realizes gain of $500,000 and Z realizes gain of $990,000, but neither person recognizes gain because of the operation of section 1031(a). Moreover, assume that a principal purpose of the transfer of DA to B or of FA to Z is to avoid the application of the alternative depreciation system.
+
+(ii) As in *Example 1,* B has acquired property from Z, a related person; Z's gain is not recognized pursuant to section 1031(a); Z has received tax-exempt use property as part of the transaction; and a principal purpose of the transfer of DA to B or of FA to Z is to avoid the application of the alternative depreciation system. Thus, the transaction is within the scope of this section even though B has held tax-exempt use property for a period of time and, during that time, has used the alternative depreciation system with respect to such property. Pursuant to paragraph (b) of this section, B, which has a substituted basis determined pursuant to section 1031(d) of $500,000 in DA, must depreciate the aircraft over the remaining recovery period of FA, using the same depreciation method and convention. Z holds tax-exempt use property with a basis of $10,000, which must be depreciated under the alternative depreciation system.
+
+(iii) Assume the same facts as in paragraph (i) of this *Example 2,* except that B and Z are members of an affiliated group that files a consolidated federal income tax return. Of B's $500,000 basis in DA, $10,000 is subject to section 168(i)(7) and therefore not subject to this section. The remaining $490,000 of basis is subject to this section. But see § 1.1502-80(f) making section 1031 inapplicable to intercompany transactions occurring in consolidated return years beginning on or after July 12, 1995.
+
+(e) *Effective date.* This section applies to transfers made on or after April 20, 1995.
+
+[T.D. 8667, 61 FR 18676, Apr. 29, 1996]

@@ -1,0 +1,11 @@
+##### § 60.14 Reporting civil judgments related to the delivery of a health care item or service. #####
+
+(a) *Who must report.* Federal and state attorneys and health plans must report civil judgments against health care practitioners, providers, or suppliers related to the delivery of a health care item or service (regardless of whether the civil judgment is the subject of a pending appeal). If a government agency is party to a multi-claimant civil judgment, it must assume the responsibility for reporting the entire action, including all amounts awarded to all the claimants, both public and private. If there is no government agency as a party, but there are multiple health plans as claimants, the health plan which receives the largest award must be responsible for reporting the total action for all parties.
+
+(b) *What information must be reported.* Entities described in paragraph (a) of this section must report the information as required in § 60.13(b) of this part.
+
+(c) *What information may be reported, if known.* Entities described in paragraph (a) of this section should report, if known the information as described in § 60.13(c) of this part.
+
+(d) *Access to documents.* Each state must provide the Secretary (or an entity designated by the Secretary) with access to the documents underlying the actions described in paragraphs (a)(1) through (4) of this section, as may be necessary for the Secretary to determine the facts and circumstances concerning the actions and determinations for the purpose of carrying out section 1921.
+
+(e) *Sanctions for failure to report.* Any health plan that fails to report information on a civil judgment required to be reported under this section will be subject to a civil money penalty (CMP) of not more than $25,000 for each such adverse action not reported. Such penalty will be imposed and collected in the same manner as CMPs under subsection (a) of section 1128A of the Social Security Act. The Secretary will provide for publication of a public report that identifies those government agencies that have failed to report information on civil judgments as required to be reported under this section.

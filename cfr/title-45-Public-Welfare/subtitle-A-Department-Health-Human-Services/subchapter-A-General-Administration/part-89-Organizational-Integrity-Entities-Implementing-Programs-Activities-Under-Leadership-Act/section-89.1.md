@@ -1,0 +1,5 @@
+##### § 89.1 Applicability and requirements. #####
+
+(a) This regulation applies to all recipients unless they are exempted from the policy requirement by the Leadership Act or other statute.
+
+(b) The Department of Health and Human Services (HHS) components shall include in the public announcement of the availability of the grant, cooperative agreement, contract, or other funding instrument involving Leadership Act HIV/AIDS funds the requirement that recipients agree that they are opposed to the practices of prostitution and sex trafficking because of the psychological and physical risks they pose for women, men, and children. This requirement shall also be included in the award documents for any grant, cooperative agreement or other funding instrument involving Leadership Act HIV/AIDS funds entered into with the recipient.

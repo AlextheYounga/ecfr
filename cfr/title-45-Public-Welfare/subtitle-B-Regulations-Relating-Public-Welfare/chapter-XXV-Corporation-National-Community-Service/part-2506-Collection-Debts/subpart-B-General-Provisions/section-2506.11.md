@@ -1,0 +1,3 @@
+##### § 2506.11 Will the Corporation refer debts to the Department of Justice? #####
+
+The Corporation will refer to DOJ for litigation debts on which aggressive collection actions have been taken, but which could not be collected, compromised, suspended, or terminated. Referrals will be made as early as possible, consistent with aggressive Corporation collection action, and within the period for bringing a timely suit against the debtor.

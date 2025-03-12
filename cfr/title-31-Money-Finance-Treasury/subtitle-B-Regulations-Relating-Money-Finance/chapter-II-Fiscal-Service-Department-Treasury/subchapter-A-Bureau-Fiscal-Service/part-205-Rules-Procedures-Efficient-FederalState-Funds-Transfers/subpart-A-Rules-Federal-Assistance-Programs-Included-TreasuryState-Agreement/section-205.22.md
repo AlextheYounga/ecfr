@@ -1,0 +1,5 @@
+##### § 205.22 How are accurate clearance patterns maintained? #####
+
+(a) If a State has knowledge, at any time, that a clearance pattern no longer reflects a Federal assistance program's actual clearance activity, or if a Federal assistance program undergoes operational changes that may affect clearance activity, the State must notify us, develop a new clearance pattern, and certify that the new pattern corresponds to the Federal assistance program's clearance activity. Clearance patterns will remain in effect until a new clearance pattern is certified.
+
+(b) An authorized State official must certify that a clearance pattern corresponds to the clearance activity of the Federal assistance program to which it is applied. An authorized State official must re-certify the accuracy of a clearance pattern at least every five years. If a State develops a clearance pattern for a bank account or a specific type of payment, or on another basis, as set forth in § 205.21, we may prescribe other requirements for re-certifying the accuracy of the clearance pattern. A State can begin to use a new clearance pattern on the date the new clearance pattern is certified.

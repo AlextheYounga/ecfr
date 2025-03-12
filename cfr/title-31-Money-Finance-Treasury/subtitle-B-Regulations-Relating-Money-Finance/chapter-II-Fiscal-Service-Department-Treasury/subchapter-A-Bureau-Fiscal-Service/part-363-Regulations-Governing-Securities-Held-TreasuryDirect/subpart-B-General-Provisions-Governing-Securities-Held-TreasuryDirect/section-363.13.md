@@ -1,0 +1,7 @@
+##### § 363.13 How can I open a TreasuryDirect ® account? #####
+
+(a) *General.* You must establish a TreasuryDirect account online before you purchase a Treasury security to be held in your account. Instructions for online account establishment may be found at the official Fiscal Service website at *http://www.treasurydirect.gov,* or such other Internet address as Fiscal Service may from time to time announce by publication in the Federal Register. When you have completed the application, you will create a password to access your account. We will verify your identity and send your account number to you by e-mail when your account application is approved. In addition to your password, we may require you to use any other form(s) of authentication that we consider necessary for the protection of your account.
+
+(b) *Entities.* An individual, referred to as an entity account manager, must establish an account on behalf of an entity. We will verify the identity of the entity account manager. We may verify the identity of the entity using any evidence we deem appropriate. The entity account manager must certify that he or she is authorized to open and access an account for the entity and has the authority to act alone on behalf of the entity with regard to the account.
+
+[74 FR 19417, Apr. 29, 2009]

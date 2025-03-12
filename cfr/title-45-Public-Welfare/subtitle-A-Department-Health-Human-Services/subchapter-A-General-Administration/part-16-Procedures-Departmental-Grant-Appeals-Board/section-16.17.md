@@ -1,0 +1,5 @@
+##### § 16.17 Ex parte communications (communications outside the record). #####
+
+(a) A party shall not communicate with a Board or staff member about matters involved in an appeal without notice to the other party. If such communication occurs, the Board will disclose it to the other party and make it part of the record after the other party has an opportunity to comment. Board members and staff shall not consider any information outside the record (see § 16.21 for what the record consists of) about matters involved in an appeal.
+
+(b) The above does not apply to the following: Communications among Board members and staff; communications concerning the Board's administrative functions or procedures; requests from the Board to a party for a document (although the material submitted in response also must be given to the other party); and material which the Board includes in the record after notice and an opportunity to comment.

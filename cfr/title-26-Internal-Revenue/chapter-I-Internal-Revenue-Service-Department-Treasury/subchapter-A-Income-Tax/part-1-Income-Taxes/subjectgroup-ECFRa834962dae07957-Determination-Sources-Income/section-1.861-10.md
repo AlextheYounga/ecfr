@@ -1,0 +1,224 @@
+##### § 1.861-10 Special allocations of interest expense. #####
+
+(a)-(d) [Reserved]
+
+(e) *Treatment of certain related group indebtedness* - (1) *In general.* If, for any taxable year beginning after December 31, 1991, a U.S. shareholder (as defined in paragraph (e)(5)(i) of this section) has both -
+
+(i) Excess related group indebtedness (as determined under Step One in paragraph (e)(2) of this section) and
+
+(ii) Excess U.S. shareholder indebtedness (as determined under Step Two in paragraph (e)(3) of this section),
+
+the U.S. shareholder shall allocate, to its gross income in the various separate limitation categories described in section 904(d)(1), a portion of its interest expense paid or accrued to any obligee who is not a member of the affiliated group (as defined in § 1.861-11T(d)) of the U.S. shareholder (“third party interest expense”), excluding amounts allocated under paragraphs (b) and (c) of § 1.861-10T. The amount of third party interest expense so allocated shall equal the total amount of interest income derived by the U.S. shareholder during the year from related group indebtedness, multiplied by the ratio of the lesser of the foregoing two amounts of excess indebtedness for the year to related group indebtedness for the year. This amount of third party interest expense is allocated as described in Step Three in paragraph (e)(4) of this section.
+
+(2) *Step One: Excess related group indebtedness.* (i) The excess related group indebtedness of a U.S. shareholder for the year equals the amount by which its related group indebtedness for the year exceeds its allowable related group indebtedness for the year.
+
+(ii) The “related group indebtedness” of the U.S. shareholder is the average of the aggregate amounts at the beginning and end of the year of indebtedness owed to the U.S. shareholder by each controlled foreign corporation which is a related person (as defined in paragraph (e)(5)(ii) of this section) with respect to the U.S. shareholder.
+
+(iii) The “allowable related group indebtedness” of a U.S. shareholder for the year equals -
+
+(A) The average of the aggregate values at the beginning and end of the year of the assets (including stock holdings in and obligations of related persons, other than related controlled foreign corporations) of each related controlled foreign corporation, multiplied by
+
+(B) The foreign base period ratio of the U.S. shareholder for the year.
+
+(iv) The “foreign base period ratio” of the U.S. shareholder for the year is the average of the related group debt-to-asset ratios of the U.S. shareholder for each taxable year comprising the foreign base period for the current year (each a “base year”). For this purpose, however, the related group debt-to-asset ratio of the U.S. shareholder for any base year may not exceed 110 percent of the foreign base period ratio for that base year. This limitation shall not apply with respect to any of the five taxable years chosen as initial base years by the U.S. shareholder under paragraph (e)(2)(v) of this section or with respect to any base year for which the related group debt-to-asset ratio does not exceed 0.10.
+
+(v)(A) The foreign base period for any current taxable year (except as described in paragraphs (e)(2)(v) (B) and (C) of this section) shall consist of the five taxable years immediately preceding the current year.
+
+(B) The U.S. shareholder may choose as foreign base periods for all of its first five taxable years for which this paragraph (e) is effective the following alternative base periods:
+
+(*1*) For the first effective taxable year, the 1982, 1983, 1984, 1985 and 1986 taxable years;
+
+(*2*) For the second effective taxable year, the 1983, 1984, 1985 and 1986 taxable years and the first effective taxable year;
+
+(*3*) For the third effective taxable year, the 1984, 1985 and 1986 taxable years and the first and second effective taxable years;
+
+(*4*) For the fourth effective taxable year, the 1985 and 1986 taxable years and the first, second and third effective taxable years; and
+
+(*5*) For the fifth effective taxable year, the 1986 taxable year and the first, second, third and fourth effective taxable years.
+
+(C) If, however, the U.S. shareholder does not choose, under paragraph (e)(10)(ii) of this section, to apply this paragraph (e) to one or more taxable years beginning before January 1, 1992, the U.S. shareholder may not include within any foreign base period the taxable year immediately preceding the first effective taxable year. Thus, for example, a U.S. shareholder for which the first effective taxable year is the taxable year beginning on October 1, 1992, may not include the taxable year beginning on October 1, 1991, in any foreign base period. Assuming that the U.S. shareholder does not elect the alternative base periods described in paragraph (e)(2)(v)(B) of this section, the initial foreign base period for the U.S. shareholder will consist of the taxable years beginning on October 1 of 1986, 1987, 1988, 1989, and 1990. The foreign base period for the U.S. shareholder for the following taxable year, beginning on October 1, 1993, will consist of the taxable years beginning on October 1 of 1987, 1988, 1989, 1990, and 1992.
+
+(D) If the U.S. shareholder chooses the base periods described in paragraph (e)(2)(v)(B) of this section as foreign base periods, it must make a similar election under paragraph (e)(3)(v)(B) of this section with respect to its U.S. base periods.
+
+(vi) The “related group debt-to-asset ratio” of a U.S. shareholder for a year is the ratio between -
+
+(A) The related group indebtedness of the U.S. shareholder for the year (as determined under paragraph (e)(2)(ii) of this section); and
+
+(B) The average of the aggregate values at the beginning and end of the year of the assets (including stock holdings in and obligations of related persons, other than related controlled foreign corporations) of each related controlled foreign corporation.
+
+(vii) Notwithstanding paragraph (e)(2)(i) of this section, a U.S. shareholder is considered to have no excess related group indebtedness for the year if -
+
+(A) Its related group indebtedness for the year does not exceed its allowable related group indebtedness for the immediately preceding year (as determined under paragraph (e)(2)(iii) of this section); or
+
+(B) Its related group debt-to-asset ratio (as determined under paragraph (e)(2)(vi) of this section) for the year does not exceed 0.10.
+
+(3) *Step Two: Excess U.S. shareholder indebtedness.* (i) The excess indebtedness of a U.S. shareholder for the year equals the amount by which its unaffiliated indebtedness for the year exceeds its allowable indebtedness for the year.
+
+(ii) The “unaffiliated indebtedness” of the U.S. shareholder is the average of the aggregate amounts at the beginning and end of the year of indebtedness owed by the U.S. shareholder to any obligee, other than a member of the affiliated group (as defined in § 1.861-11T(d)) of the U.S shareholder.
+
+(iii) The “allowable indebtedness” of a U.S. shareholder for the year equals -
+
+(A) The average of the aggregate values at the beginning and end of the year of the assets of the U.S. shareholder (including stock holdings in and obligations of related controlled foreign corporations, but excluding stock holdings in and obligations of members of the affiliated group (as defined in § 1.861-11T(d)) of the U.S. shareholder), reduced by the amount of the excess related group indebtedness of the U.S. shareholder for the year (as determined under Step One in paragraph (e)(2) of this section), multiplied by
+
+(B) The U.S. base period ratio of the U.S. shareholder for the year.
+
+(iv) The “U.S. base period ratio” of the U.S. shareholder for the year is the average of the debt-to-asset ratios of the U.S. shareholder for each taxable year comprising the U.S. base period for the current year (each a “base year”). For this purpose, however, the debt-to-asset ratio of the U.S. shareholder for any base year may not exceed 110 percent of the U.S. base period ratio for that base year. This limitation shall not apply with respect to any of the five taxable years chosen as initial base years by the U.S. shareholder under paragraph (e)(3)(v) of this section or with respect to any base year for which of the debt-to-asset ratio does not exceed 0.10.
+
+(v)(A) The U.S. base period for any current taxable year (except as described in paragraphs (e)(3)(v) (B) and (C) of this section) shall consist of the five taxable years immediately preceding the current year.
+
+(B) The U.S. shareholder may choose as U.S. base periods for all of its first five taxable years for which this paragraph (e) is effective the following alternative base periods:
+
+(*1*) For the first effective taxable year, the 1982, 1983, 1984, 1985 and 1986 taxable years;
+
+(*2*) For the second effective taxable year, the 1983, 1984, 1985 and 1986 taxable years and the first effective taxable year;
+
+(*3*) For the third effective taxable year, the 1984, 1985 and 1986 taxable years and the first and second effective taxable years;
+
+(*4*) For the fourth effective taxable year, the 1985 and 1986 taxable years and the first, second and third effective taxable years; and
+
+(*5*) For the fifth effective taxable year, the 1986 taxable year and the first, second, third and fourth effective taxable years.
+
+(C) If, however, the U.S. shareholder does not choose, under paragraph (e)(10)(ii) of this section, to apply this paragraph (e) to one or more taxable years beginning before January 1, 1992, the U.S. shareholder may not include within any U.S. base period the taxable year immediately preceding the first effective taxable year. Thus, for example, a U.S. shareholder for which the first effective taxable year is the taxable year beginning on October 1, 1992, may not include the taxable year beginning on October 1, 1991, in any U.S. base period. Assuming that the U.S. shareholder does not elect the alternative base periods described in paragraph (e)(3)(v)(B) of this section, the initial U.S. base period for the U.S. shareholder will consist of the taxable years beginning on October 1, of 1986, 1987, 1988, 1989, and 1990. The U.S. base period for the U.S. shareholder for the following taxable year, beginning on October 1, 1993, will consist of the taxable years beginning on October 1, 1987, 1988, 1989, 1990, and 1992.
+
+(D) If the U.S. shareholder chooses the base periods described in paragraph (e)(3)(v)(B) of this section as U.S. base periods, it must make a similar election under paragraph (e)(2)(v)(B) of this section with respect to its foreign base periods.
+
+(vi) The “debt-to-asset ratio” of a U.S. shareholder for a year is the ratio between -
+
+(A) The unaffiliated indebtedness of the U.S. shareholder for the year (as determined under paragraph (e)(3)(ii) of this section); and
+
+(B) The average of the aggregate values at the beginning and end of the year of the assets of the U.S. shareholder. For this purpose, the assets of the U.S. shareholder include stock holdings in and obligations of related controlled foreign corporations but do not include stock holdings in and obligations of members of the affiliated group (as defined in § 1.861-11T(d)).
+
+(vii) A U.S. shareholder is considered to have no excess indebtedness for the year if its debt-to-asset ratio (as determined under paragraph (e)(3)(vi) of this section) for the year does not exceed 0.10.
+
+(4) *Step Three: Allocation of third party interest expense.* (i) A U.S. shareholder shall allocate to its gross income in the various separate limitation categories described in section 904(d)(1) a portion of its third party interest expense incurred during the year equal in amount to the interest income derived by the U.S. shareholder during the year from allocable related group indebtedness.
+
+(ii) The “allocable related group indebtedness” of a U.S. shareholder for any year is an amount of related group indebtedness equal to the lesser of -
+
+(A) The excess related group indebtedness of the U.S. shareholder for the year (determined under Step One in paragraph (e)(2) of this section); or
+
+(B) The excess U.S. shareholder indebtedness for the year (determined under Step Two in paragraph (e)(3) of this section).
+
+(iii) The amount of interest income derived by a U.S. shareholder from allocable related group indebtedness during the year equals the total amount of interest income derived by the U.S. shareholder during the year with respect to related group indebtedness, multiplied by the ratio of allocable related group indebtedness for the year to the aggregate amount of related group indebtedness for the year.
+
+(iv) The portion of third party interest expense described in paragraph (e)(4)(i) of this section shall be allocated in proportion to the relative average amounts of related group indebtedness held by the U.S. shareholder in each separate limitation category during the year. The remaining portion of third party interest expense of the U.S. shareholder for the year shall be apportioned as provided in §§ 1.861-8T through 1.861-13T, excluding paragraph (e) of § 1.861-10T and this paragraph (e).
+
+(v) The average amount of related group indebtedness held by the U.S. shareholder in each separate limitation category during the year equals the average of the aggregate amounts of such indebtedness in each separate limitation category at the beginning and end of the year. Solely for purposes of this paragraph (e)(4), each debt obligation of a related controlled foreign corporation held by the U.S. shareholder at the beginning or end of the year is attributed to separate limitation categories in the same manner as the stock of the obligor would be attributed under the rules of § 1.861-12T(c)(3), whether or not such stock is held directly by the U.S. shareholder.
+
+(vi) The amount of third party interest expense of a U.S. shareholder allocated pursuant to this paragraph (e)(4) shall not exceed the total amount of the third party interest expense of the U.S. shareholder for the year (excluding any third party interest expense allocated under paragraphs (b) and (c) of § 1.861-10T).
+
+(5) *Definitions.* For purposes of this paragraph (e), the following terms shall have the following meanings.
+
+(i) *U.S. shareholder.* The term “U.S. shareholder” has the same meaning as the term “United States shareholder” when used in section 957, except that, in the case of a United States shareholder that is a member of an affiliated group (as defined in § 1.861-11T(d)), the entire affiliated group is considered to constitute a single U.S. shareholder.
+
+(ii) *Related person.* For the definition of the term “related person”, see § 1.861-8T(c)(2). A controlled foreign corporation is considered “related” to a U.S. shareholder if it is a related person with respect to the U.S. shareholder.
+
+(6) *Determination of asset values.* A U.S. shareholder shall determine the values of the assets of each related controlled foreign corporation (for purposes of Step One in paragraph (e)(2) of this section) and the assets of the U.S. shareholder (for purposes of Step Two in paragraph (e)(3) of this section) for any year in accordance with the valuation method (tax book value or fair market value) elected for that year pursuant to § 1.861-9T(g). However, solely for purposes of this paragraph (e), a U.S. shareholder may instead choose to determine the values of the assets of all related controlled foreign corporations by reference to their values as reflected on Forms 5471 (the annual information return with respect to each related controlled foreign corporation), subject to the translation rules of paragraph (e)(8)(i) of this section. This method of valuation may be used only if the taxable years of each of the related controlled foreign corporations begin with, or no more than one month earlier than, the taxable year of the U.S. shareholder. Once chosen for a taxable year, this method of valuation must be used in each subsequent taxable year and may be changed only with the consent of the Commissioner.
+
+(7) *Adjustments to asset value.* For purposes of apportioning remaining interest expense under § 1.861-9T, a U.S. shareholder shall reduce (but not below zero) the value of its assets for the year (as determined under § 1.861-9T (g) (3) or (h)) by an amount equal to the allocable related group indebtedness of the U.S. shareholder for the year (as determined under Step Three in paragraph (e)(4)(ii) of this section). This reduction is allocated among assets in each separate limitation category in proportion to the average amount of related group indebtedness held by the U.S. shareholder in each separate limitation category during the year (as determined under Step Three in paragraph (e)(4)(v) of this section).
+
+(8) *Special rules* - (i) *Exchange rates.* All indebtedness amounts and asset values (including current year and base year amounts and values) denominated in a foreign currency shall be translated into U.S. dollars at the exchange rate for the current year. The exchange rate for the current year may be determined under any reasonable method (*e.g.,* average of month-end exchange rates for each month in the current year) if it is consistently applied to the current year and all base years. Once chosen for a taxable year, a method for determining an exchange rate must be used in each subsequent taxable year and will be treated as a method of accounting for purposes of section 446. A taxpayer may apply a different translation rule only with the prior consent of the Commissioner. In this regard, the Commissioner will be guided by the extent to which a different rule would reduce the comparability of dollar amounts of indebtedness and dollar asset values for the base years and the current year.
+
+(ii) *Exempt assets.* Solely for purposes of this paragraph (e), any exempt assets otherwise excluded under section 864(e)(3) and § 1.861-8T(d) shall be included as assets of the U.S. shareholder or related controlled foreign corporation.
+
+(iii) *Exclusion of certain directly allocated indebtedness and assets.* Qualified nonrecourse indebtedness (as defined in § 1.861-10T(b)(2)) and indebtedness incurred in connection with an integrated financial transaction (as defined in § 1.861-10T(c)(2)) shall be excluded from U.S. shareholder indebtedness and related group indebtedness. In addition, assets which are the subject of qualified nonrecourse indebtedness or integrated financial transactions shall be excluded from the assets of the U.S. shareholder and each related controlled foreign corporation.
+
+(iv) *Exclusion of certain receivables.* Receivables between related controlled foreign corporations (or between members of the affiliated group constituting the U.S. shareholder) shall be excluded from the assets of the related controlled foreign corporation (or affiliated group member) holding such receivables. See also § 1.861-11T(e)(1).
+
+(v) *Classification of certain loans as related group indebtedness.* If -
+
+(A) A U.S. shareholder owns stock in a related controlled foreign corporation which is a resident of a country that -
+
+(*1*) Does not impose a withholding tax of 5 percent or more upon payments of dividends to a U.S. shareholder; and
+
+(*2*) Does not, for the taxable year of the controlled foreign corporation, subject the income of the controlled foreign corporation to an income tax which is greater than that percentage specified under § 1.954-1T(d)(1)(i) of the maximum rate of tax specified under section 11 of the Code, and
+
+(B) The controlled foreign corporation has outstanding a loan or loans to one or more other related controlled foreign corporations, or the controlled foreign corporation has made a direct or indirect capital contribution to one or more other related controlled foreign corporations which have outstanding a loan or loans to one or more other related controlled foreign corporations, then, to the extent of the aggregate amount of its capital contributions in taxable years beginning after December 31, 1986, to the related controlled foreign corporation that made such loans or additional contributions, the U.S. shareholder itself shall be treated as having made the loans decribed in paragraph (e)(8)(v)(B) of this section and, thus, such loan amounts shall be considered related group indebtedness. However, for purposes of paragraph (e)(4) of this section, interest income derived by the U.S. shareholder during the year from related group indebtedness shall not include any income derived with respect to the U.S. shareholder's ownership of stock in the related controlled foreign corporation that made such loans or additional contributions.
+
+(vi) *Classification of certain stock as related person indebtedness.* In determining the amount of its related group indebtedness for any taxable year, a U.S. shareholder must treat as related group indebtedness its holding of stock in a related controlled foreign corporation if, during such taxable year, such related controlled foreign corporation claims a deduction for interest under foreign law for distributions on such stock. However, for purposes of paragraph (e)(4) of this section, interest income derived by the U.S. shareholder during the year from related group indebtedness shall not include any income derived with respect to the U.S. shareholder's ownership of stock in the related controlled foreign corporation.
+
+(9) *Corporate events* - (i) *Initial acquisition of a controlled foreign corporation.* If the foreign base period of the U.S. shareholder for any year includes a base year in which the U.S. shareholder did not hold stock in any related controlled foreign corporation, then, in computing the foreign base period ratio, the related group debt-to-asset ratio of the U.S. shareholder for any such base year shall be deemed to be 0.10.
+
+(ii) *Incorporation of U.S. shareholder* - (A) *Nonapplication.* This paragraph (e) does not apply to the first taxable year of the U.S. shareholder. However, this paragraph (e) does apply to all following years, including years in which later members of the affiliated group may be incorporated.
+
+(B) *Foreign and U.S. base period ratios.* In computing the foreign and U.S. base period ratios, the foreign and U.S. base periods of the U.S. shareholder shall be considered to be only the period prior to the current year that the U.S. shareholder was in existence if this prior period is less than five taxable years.
+
+(iii) *Acquisition of additional corporations.* (A) If a U.S. shareholder acquires (directly or indirectly) stock of a foreign or domestic corporation which, by reason of the acquisition, then becomes a related controlled foreign corporation or a member of the affiliated group, then in determining excess related group indebtedness or excess U.S. shareholder indebtedness, the indebtedness and assets of the acquired corporation shall be taken into account only at the end of the acquisition year and in following years. Thus, amounts of indebtedness and assets and the various debt-to-asset ratios of the U.S. shareholder existing at the beginning of the acquisition year or relating to preceding years are not recalculated to take account of indebtedness and assets of the acquired corporation existing as of dates before the end of the year. If, however, a major acquisition is made within the last three months of the year and a substantial distortion of values for the year would otherwise result, the taxpaper must take into account the average values of the acquired indebtedness and assets weighted to reflect the time such indebtedness is owed and such assets are held by the taxpayer during the year.
+
+(B) In the case of a reverse acquisition subject to this paragraph (e)(9), the rules of § 1.1502-75(d)(3) apply in determining which corporations are the acquiring and acquired corporations. For this purpose, whether corporations are affiliated is determined under § 1.861-11T(d).
+
+(C) If the stock of a U.S. shareholder is acquired by (and, by reason of such acquisition, the U.S. shareholder becomes affiliated with) a corporation described below, then such U.S. shareholder shall be considered to have acquired such corporation for purposes of the application of the rules of this paragraph (e). A corporation to which this paragraph (e)(9)(iii)(C) applies is -
+
+(*1*) A corporation which is not affiliated with any other corporation (other than other similarly described corporation); and
+
+(*2*) Substantially all of the assets of which consist of cash, securities and stock.
+
+(iv) *Election to compute base period ratios by including acquired corporations.* A U.S. shareholder may choose, solely for purposes of paragraph (e)(9) (i) and (iii) of this section, to compute its foreign and U.S. base period ratios for the acquisition year and all subsequent years by taking into account the indebtedness and asset values of the acquired corporation or corporations (including related group indebtedness owed to a former U.S. shareholder) at the beginning of the acquisition year and in each of the five base years preceding the acquisition year. This election, if made for an acquisition, must be made for all other acquisitions occurring during the same taxable year or initiated in that year and concluded in the following year.
+
+(v) *Dispositions.* If a U.S. shareholder disposes of stock of a foreign or domestic corporation which, by reason of the disposition, then ceases to be a related controlled foreign corporation or a member of the affiliated group (unless liquidated or merged into a related corporation), in determining excess related group indebtedness or excess U.S. shareholder indebtedness, the indebtedness and assets of the divested corporation shall be taken into account only at the beginning of the disposition year and for the relevant preceding years. Thus, amounts of indebtedness and assets and the various debt-to-asset ratios of the U.S. shareholder existing at the end of the year or relating to following years are not affected by indebtedness and assets of the divested corporation existing as of dates after the beginning of the year. If, however, a major disposition is made within the first three months of the year and a substantial distortion of values for the year would otherwise result, the taxpayer must take into account the average values of the divested indebtedness and assets weighted to reflect the time such indebtedness is owed and such assets are held by the taxpayer during the year.
+
+(vi) *Election to compute base period ratios by excluding divested corporations.* A U.S. shareholder may choose, solely for purposes of paragraph (e) (9) (v) and (vii) of this section, to compute its foreign and U.S. base period ratios for the disposition year and all subsequent years without taking into account the indebtedness and asset values of the divested corporation or corporations at the beginning of the disposition year and in each of the five base years preceding the disposition year. This election, if made for a disposition, must be made for all other dispositions occurring during the same taxable year or initiated in that year and concluded in the following year.
+
+(vii) *Section 355 transactions.* A U.S. corporation which becomes a separate U.S. shareholder as a result of a distribution of its stock to which section 355 applies shall be considered -
+
+(A) As disposed of by the U.S. shareholder of the affiliated group of which the distributing corporation is a member, with this disposition subject to the rules of paragraphs (e) (9) (v) and (vi) of this section; and
+
+(B) As having the same related group debt-to-asset ratio and debt-to-asset ratio as the distributing U.S. shareholder in each year preceding the year of distribution for purposes of applying this paragraph (e) to the year of distibution and subsequent years of the distributed corporation.
+
+(10) *Effective date* - (i) *Taxable years beginning after December 31, 1991.* The provisions of this paragraph (e) apply to all taxable years beginning after December 31, 1991.
+
+(ii) *Taxable years beginning after December 31, 1987 and before January 1, 1992.* The provisions of § 1.861-10T (e) apply to taxable years beginning after December 31, 1987, and before January 1, 1992. The taxpayer may elect to apply the provisions of this paragraph (e) (in lieu of the provisions of § 1.861-10T (e)) for any taxable year beginning after December 31, 1987, but this paragraph (e) must then be applied to all subsequent taxable years.
+
+(11) The following example illustrates the provisions of this paragraph (e):
+
+Example.(i) *Facts.* X, a domestic corporation, elects to apply this paragraph (e) to its 1990 tax year. X has a calendar taxable year and apportions its interest expense on the basis of the tax book value of its assets. In 1990, X incurred deductible third-party interest expense of $24,960 on an average amount of indebtedness (determined on the basis of beginning-of-year and end-of-year amounts) of $249,600. X manufactures widgets, all of which are sold in the United States. X owns all of the stock of Y, a controlled foreign corporation that also has a calendar taxable year and is also engaged in the manufacture and sale of widgets. Y has no earnings and profits or deficit of earnings and profits attributable to taxable years prior to 1987. X's total assets and their average tax book values (determined on the basis of beginning-of-year and end-of-year tax book values) for 1990 are:
+
+|        Asset         |Average tax book value|
+|----------------------|----------------------|
+| Plant and equipment  |       $315,000       |
+|Corporate headquarters|        60,000        |
+|       Y stock        |        75,000        |
+|        Y note        |        50,000        |
+|        Total         |       500,000        |
+
+Y had $25,000 of income before the deduction of any interest expense. Of this total, $5,000 is high withholding tax interest income. The remaining $20,000 is derived from widget sales, and constitutes foreign source general limitation income. Assume that Y has no deductions from gross income other than interest expense. During 1990, Y paid $5,000 of interest expense to X on the Y note and $10,000 of interest expense to third parties, giving Y total interest expense of $15,000. X elects pursuant to § 1.861-9T to apportion Y's interest expense under the gross income method prescribed in section 1.861-9T (j).
+
+(ii) *Step 1:* Using a beginning and end of year average, X (the U.S. shareholder) held the following average amounts of indebtedness of Y and Y had the following average asset values:
+
+|                                          | 1985  |1986-88| 1989  | 1990  |
+|------------------------------------------|-------|-------|-------|-------|
+|      (A) Related group indebtedness      |$11,000|24,000 |26,000 |50,000 |
+|(B) Average Value of Assets of Related CFC|100,000|200,000|200,000|250,000|
+|  (C) Related Group Debt-to-Asset Ratio   |  .11  |  .12  |  .13  |  .20  |
+
+(*1*) X's “foreign base period ratio” for 1990, an average of its ratios of related group indebtedness to related group assets for 1985 through 1989, is:(.11 + .12 + .12 + .12 + .13) / 5 = .12(*2*) X's “allowable related group indebtedness” for 1990 is:$250,000 × .12 = $30,000.(*3*) X's “excess related group indebtedness” for 1990 is:$50,000 − $30,000 = $20,000X's related group indebtedness of $50,000 for 1990 is greater than its allowable related group indebtedness of $24,000 for 1989 (assuming a foreign base period ratio in 1989 of .12), and X's related group debt-to-asset ratio for 1990 is .20, which is greater than the ratio of .10 described in paragraph (e)(2)(vii)(B) of this section. Therefore, X's excess related group indebtedness for 1990 remains at $20,000.
+
+(iii) *Step 2:* Using a beginning and end of year average, X has the following average amounts of U.S. and foreign indebtedness and average asset values:
+
+|   |  1985  | 1986  | 1987  | 1988  | 1989  | 1990  |
+|---|--------|-------|-------|-------|-------|-------|
+|(1)|$231,400|225,000|225,000|225,000|220,800|249,600|
+|(2)|445,000 |450,000|450,000|450,000|460,000|480,000|
+|   |        |       |       |       |       |  (a)  |
+|(3)|  .52   |  .50  |  .50  |  .50  |  .48  |  .52  |
+
+(1) U.S. and foreign indebtedness
+
+(2) Average value of assets of U.S. shareholder
+
+(3) Debt-to-Asset ratio of U.S. shareholder
+
+(a) [500,000-20,000 (excess related group indebtedness determined in Step 1)]
+
+X's “U.S. base period ratio” for 1990 is:
+
+(.52 + .50 + .50 + .50 + .48) / 5 = .50X's “allowable indebtedness” for 1990 is:$480,000 × .50 = $240,000X's “excess U.S. shareholder indebtedness” for 1990 is:$249,000 − $240,000 = $9,600X's debt-to-asset ratio for 1990 is .52, which is greater than the ratio of .10 described in paragraph (e)(3)(vii) of this section. Therefore, X's excess U.S. shareholder indebtedness for 1990 remains at $9,600.
+
+(iv) *Step 3:* (a) Since X's excess U.S. shareholder indebtedness of $9,600 is less than its excess related group indebtedness of $20,000, X's allocable related group indebtedness for 1990 is $9,600. The amount of interest received by X during 1990 on allocable related group indebtedness is:
+
+$5,000 × $9,600 / $50,000 = $960(b) Therefore, $960 of X's third party interest expense ($24,960) shall be allocated among various separate limitation categories in proportion to the relative average amounts of Y obligations held by X in each such category. The amount of Y obligations in each limitation category is determined in the same manner as the stock of Y would be attributed under the rules of § 1.861-12T(c)(3). Since Y's interest expense is apportioned under the gross income method prescribed in § 1.861-9T (j), the Y stock must be characterized under the gross income method described in § 1.861-12T(c)(3)(iii). Y's gross income net of interest expense is determined as follows:Foreign source high withholding tax interest income= $5,000 − [($15,000) multiplied by ($5,000)/($5,000 + $20,000)]= $2,000 andForeign source general limitation income= $20,000 − [($15,000) multiplied by ($20,000)/($5,000 + $20,000)]= $8,000.(c) Therefore, $192 [($960 × $2,000/($2,000 + $8,000)] of X's third party interest expense is allocated to foreign source high withholding tax interest income and $768 [$960 × $8,000/($2,000 + $8,000)] is allocated to foreign source general limitation income.
+
+(v) As a result of these direct allocations, for purposes of apportioning X's remaining interest expense under § 1.861-9T, the value of X's assets generating foreign source general limitation income is reduced by the principal amount of indebtedness the interest on which is directly allocated to foreign source general limitation income ($7,680), and the value of X's assets generating foreign source high withholding tax interest income is reduced by the principal amount of indebtedness the interest on which is directly allocated to foreign source high withholding tax interest income ($1,920), determined as follows:
+
+Reduction of X's assets generating foreign source general limitation income:
+
+![](/graphics/ec07oc91.002.gif)Reduction of X's assets generating foreign source high withholding tax interest income:![](/graphics/ec07oc91.003.gif)[T.D. 8410, 57 FR 13022, Apr. 15, 1992; 57 FR 28012, June 23, 1992]

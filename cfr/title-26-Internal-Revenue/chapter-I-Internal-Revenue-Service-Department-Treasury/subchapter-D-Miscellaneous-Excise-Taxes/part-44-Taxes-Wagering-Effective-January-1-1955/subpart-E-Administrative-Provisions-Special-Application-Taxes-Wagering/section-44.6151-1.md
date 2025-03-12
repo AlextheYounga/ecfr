@@ -1,0 +1,3 @@
+##### § 44.6151-1 Time and place for paying taxes. #####
+
+The taxes imposed by sections 4401 and 4411 shall, without assessment or notice and demand, be paid to the internal revenue officer with whom the returns are required to be filed at the time fixed for filing returns. For provisions relating to the time for filing returns, see section 6071 and § 44.6071-1. For provisions relating to the place for filing returns, see section 6091 and § 44.6091-1.

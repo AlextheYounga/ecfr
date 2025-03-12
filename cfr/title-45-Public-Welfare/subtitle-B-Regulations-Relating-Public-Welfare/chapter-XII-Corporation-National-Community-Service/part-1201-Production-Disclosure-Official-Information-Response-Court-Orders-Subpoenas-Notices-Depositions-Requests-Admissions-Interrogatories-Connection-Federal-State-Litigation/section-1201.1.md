@@ -1,0 +1,7 @@
+##### § 1201.1 Definitions. #####
+
+(a) *Corporation Employee* means the Chief Executive Officer of the Corporation and all employees, former employees, National Civilian Community Corps Members (hereinafter sometimes known as “Corps Members”), and VISTA Volunteers (hereinafter sometimes also known as “AmeriCorps\*VISTA Members”), who are or were subject to the supervision, jurisdiction, or control of the Chief Executive Officer, except as the Corporation may otherwise determine in a particular case.
+
+(b) *Litigation* encompasses all pre-trial, trial, and post-trial stages of all judicial or administrative actions, hearings, investigations, or similar proceedings before courts, commissions, boards, or other judicial or quasi-judicial bodies or tribunals, whether criminal, civil, or administrative in nature.
+
+(c) *Official Information* means all information of any kind, however stored, that is in the custody and control of the Corporation, relates to information in the custody and control of the Corporation, or was acquired by individuals connected with the Corporation as part of their official status within the Corporation while such individuals are employed by, or serve on behalf of, the Corporation.

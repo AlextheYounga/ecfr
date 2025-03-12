@@ -1,0 +1,9 @@
+##### § 1160.12 Appraisal procedures. #####
+
+(a) In the event the Council and the indemnitee fail to agree on the amount of partial loss, or damage to, or any reduction in the fair market value as a result thereof, to the indemnified item(s), each shall select a competent appraiser(s) with evidence to be provided to show that the indemnitee's selection is satisfactory to the owner. The appraiser(s) selected by the Council and the indemnitee shall then select a competent and disinterested arbitrator.
+
+(b) After selection of an arbitrator, the appraisers shall assess the partial loss, or damage to, or where appropriate, any reduction in the fair market value of, the indemnified item(s). The appraisers' agreement with respect to these issues shall determine the dollar value of such loss or damage or repair costs, and where appropriate, such reduction in the fair market value. Disputes between the appraisers with respect to partial loss, damage repair costs, and fair market value reduction of any item shall be submitted to the arbitrator for determination. The appraisers' agreement or the arbitrator's determination shall be final and binding on the parties, and agreement on amount or such determination on amount shall be certified to the Speaker of the House and the President pro tempore of the Senate by the Council.
+
+(c) Each appraiser shall be paid by the party selecting him or her. The arbitrator and all other expenses of the appraisal shall be paid by the parties in equal shares.
+
+[56 FR 49848, Oct. 2, 1991. Redesignated at 60 FR 42465, Aug. 16, 1995, and further redesignated at 73 FR 21056, Apr. 18, 2008]

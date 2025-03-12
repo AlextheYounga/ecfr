@@ -1,0 +1,3 @@
+##### § 31.6404(a)-1 Abatements. #####
+
+For regulations under section 6404 of general application to the abatement of taxes, see § 301.6404-1 of this chapter (Regulations on Procedure and Administration). Every claim filed by an employer for abatement of employee tax under section 3101 or section 3201, or a corresponding provision of prior law, shall be made in the manner and subject to the conditions stated in paragraphs (a) (2) and (c) of § 31.6402(a)-2, as if the claim for abatement were a claim for refund.

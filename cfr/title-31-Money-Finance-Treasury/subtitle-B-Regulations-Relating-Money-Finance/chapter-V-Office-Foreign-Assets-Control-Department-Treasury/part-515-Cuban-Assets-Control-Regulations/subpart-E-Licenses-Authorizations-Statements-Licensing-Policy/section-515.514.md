@@ -1,0 +1,11 @@
+##### § 515.514 Payment of dividends and interest on and redemption and collection of securities. #####
+
+(a) The payment to, and receipt by, a banking institution within the United States of funds or other property representing dividends or interest on securities held by such banking institution in a blocked account is hereby authorized provided the funds or other property are credited to or deposited in a blocked account in such banking institution in the name of the national for whose account the securities were held. Notwithstanding § 515.202, this paragraph authorizes the foregoing transactions although such securities are registered or inscribed in the name of any designated national and although the national in whose name the securities are registered or inscribed may not be the owner of such blocked account.
+
+(b) The payment to, and receipt by, a banking institution within the United States of funds payable in respect of securities (including coupons) presented by such banking institution to the proper paying agents within the United States for redemption or collection for the account and pursuant to the authorization of nationals of a designated country is hereby authorized provided the proceeds of the redemption or collection are credited to a blocked account in such banking institution in the name of the national for whose account the redemption or collection was made.
+
+(c) The performance of such other acts, and the effecting of such other transactions, as may be necessarily incident to any of the foregoing, are also hereby authorized.
+
+(d) This section does not authorize the crediting of the proceeds of the redemption or collection of securities (including coupons) held in a blocked account or a subaccount thereof, or the income derived from such securities to a blocked account or subaccount under any name or designation which differs from the name or designation of the specific blocked account or subaccount in which such securities were held.
+
+(e) This section does not authorize any issuer or other obligor, with respect to a security, who is a designated national, to make any payment, transfer or withdrawal.

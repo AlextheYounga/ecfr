@@ -1,0 +1,11 @@
+##### § 30.1 Purpose, authority, and scope. #####
+
+(a) *Purpose.* This part prescribes the standards and procedures for the Department's use in the administrative collection, offset, compromise, and suspension or termination of collection activity for claims for funds or property, as defined by 31 U.S.C. 3701(b) and this part. Covered activities include the collection of debts in any amount; the compromise and suspension or termination of collection activity of debts that do not exceed $100,000, or such higher amount as the Attorney General may prescribe, exclusive of interest, penalties, and administrative costs; and the referral of debts to the Department of the Treasury (Treasury), the Treasury-designated debt collection centers, or the Department of Justice (Justice) for collection by further administrative action or litigation, as applicable.
+
+(b) *Authority.* The Secretary is issuing the regulations in this part under the authority contained in 31 U.S.C. 3711(d). The standards and procedures prescribed in this part are authorized under the Federal Claims Collection Act, as amended, Public Law No. 89-508, 80 Stat. 308 (July 19, 1966), the Debt Collection Act of 1982, Public Law No. 97-365, 96 Stat. 1749 (October 25, 1982), the Debt Collection Improvement Act of 1996, Public Law No. 104-134, 110 Stat. 1321, 1358 (April 26, 1996) and the Federal Claims Collection Standards at 31 CFR parts 900 through 904.
+
+(c) *Scope.* (1) The standards and procedures prescribed in this part apply to all officers and employees of the Department, including officers and employees of the various Operating Divisions and Regional Offices of the Department, charged with the collection and disposition of debts owed to the United States.
+
+(2) The standards and procedures set forth in this part will be applied except where specifically excluded herein or where a statute, regulation or contract prescribes different standards or procedures.
+
+(3) Regulations governing the use of certain debt collection procedures created under the Debt Collection Improvement Act of 1996, including tax refund offset, administrative wage garnishment, and Federal salary offset, are contained in parts 31 through 33 of this chapter.

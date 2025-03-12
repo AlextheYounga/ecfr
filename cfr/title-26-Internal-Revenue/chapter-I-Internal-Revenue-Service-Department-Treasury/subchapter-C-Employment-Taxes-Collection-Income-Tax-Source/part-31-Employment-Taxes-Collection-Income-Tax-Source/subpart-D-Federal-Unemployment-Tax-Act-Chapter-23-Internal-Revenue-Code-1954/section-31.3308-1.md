@@ -1,0 +1,5 @@
+##### § 31.3308-1 Instrumentalities of the United States specifically exempted from tax imposed by section 3301. #####
+
+Section 3308 makes ineffectual as to the tax imposed by section 3301 (with respect to remuneration paid after 1961 for services performed after 1961) those provisions of law which grant to an instrumentality of the United States an exemption from taxation, unless such provisions grant a specific exemption from the tax imposed by section 3301 by an express reference to such section or the corresponding section of prior law. Thus, the general exceptions from Federal taxation granted by various statutes to certain instrumentalities of the United States without specific reference to the tax imposed by section 3301 or the corresponding section of prior law are rendered inoperative insofar as such exemptions relate to the tax imposed by section 3301. For provisions relating to the exception from employment of services performed in the employ of an instrumentality of the United States specifically exempted from the tax imposed by section 3301, see § 31.3306(c)(6)-1.
+
+[T.D. 6658, 28 FR 6641, June 27, 1963]

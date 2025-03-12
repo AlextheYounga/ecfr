@@ -1,0 +1,3 @@
+##### § 1.103-3 Interest upon notes secured by mortgages executed to Federal agencies or instrumentalities. #####
+
+Section 26 of the Federal Farm Loan Act (12 U.S.C. 931), and section 210 of such act, as added by section 2 of the act of March 4, 1923 (12 U.S.C. 1111), provide that first mortgages executed to Federal land banks, joint-stock land banks, or Federal intermediate credit banks, and the income derived therefrom, shall be exempt from taxation. Accordingly, income consisting of interest on promissory notes held by such banks and secured by such first mortgages is not subject to the income tax.

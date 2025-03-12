@@ -1,0 +1,5 @@
+##### § 73a.735-1004 Submission and review of statements. #####
+
+(a) Employees occupying control activity positions shall file Form HHS-473 “Confidential Statement of Employment and Financial Interests” with the Associate Commissioner for Administration within 30 days after entrance in this category and annually thereafter as of June 30, or such other dates as the Secretary, with the concurrence of the Civil Service Commission, may approve. Prior to the due date, the Associate Commissioner for Administration shall advise “control activity” employees of the annual filing requirement through normal administrative channels. The annual reporting requirement shall commence as of June 30, 1977.
+
+(b) The Associate Commissioner for Administration (or his designee) shall serve as the principal reviewing official for Outside Activity Forms, HHS-520 and 521, and shall make final determinations on matters arising from activities reported on Form HHS-473.

@@ -1,0 +1,3 @@
+##### § 337.3 Termination of transfers and denominational exchange transactions. #####
+
+Debentures, which by their terms are subject to call, may be called for redemption, in whole or in part, at par and accrued interest, on any interest date on three months' notice. No transfers or denominational exchanges in certificated debentures covered by a given call will be made on the books of the Department of the Treasury on or after the announcement of such call. However, this does not affect the right of a holder of such debenture to sell and assign it on or after the announcement of the call date.

@@ -1,0 +1,25 @@
+##### § 1.1361-3 QSub election. #####
+
+(a) *Time and manner of making election*—(1) *In general.* The corporation for which the QSub election is made must meet all the requirements of section 1361(b)(3)(B) at the time the election is made and for all periods for which the election is to be effective.
+
+(2) *Manner of making election.* Except as provided in section 1361(b)(3)(D) and § 1.1361-5(c) (five-year prohibition on re-election), an S corporation may elect to treat an eligible subsidiary as a QSub by filing a completed form to be prescribed by the IRS. The election form must be signed by a person authorized to sign the S corporation's return required to be filed under section 6037. Unless the election form provides otherwise, the election must be submitted to the service center where the subsidiary filed its most recent tax return (if applicable), and, if an S corporation forms a subsidiary and makes a valid QSub election (effective upon the date of the subsidiary's formation) for the subsidiary, the election should be submitted to the service center where the S corporation filed its most recent return.
+
+(3) *Time of making election.* A QSub election may be made by the S corporation parent at any time during the taxable year.
+
+(4) *Effective date of election.* A QSub election will be effective on the date specified on the election form or on the date the election form is filed if no date is specified. The effective date specified on the form cannot be more than two months and 15 days prior to the date of filing and cannot be more than 12 months after the date of filing. For this purpose, the definition of the term *month* found in § 1.1362-6(a)(2)(ii)(C) applies. If an election form specifies an effective date more than two months and 15 days prior to the date on which the election form is filed, it will be effective two months and 15 days prior to the date it is filed. If an election form specifies an effective date more than 12 months after the date on which the election is filed, it will be effective 12 months after the date it is filed.
+
+(5) *Example.* The following example illustrates the application of paragraph (a)(4) of this section:
+
+Example.X has been a calendar year S corporation engaged in a trade or business for several years. X acquires the stock of Y, a calendar year C corporation, on April 1, 2002. On August 10, 2002, X makes an election to treat Y as a QSub. Unless otherwise specified on the election form, the election will be effective as of August 10, 2002. If specified on the election form, the election may be effective on some other date that is not more than two months and 15 days prior to August 10, 2002, and not more than 12 months after August 10, 2002.
+
+(6) *Extension of time for making a QSub election.* An extension of time to make a QSub election may be available under the procedures applicable under §§ 301.9100-1 and 301.9100-3 of this chapter.
+
+(b) *Revocation of QSub election*—(1) *Manner of revoking QSub election.* An S corporation may revoke a QSub election under section 1361 by filing a statement with the service center where the S corporation's most recent tax return was properly filed. The revocation statement must include the names, addresses, and taxpayer identification numbers of both the parent S corporation and the QSub, if any. The statement must be signed by a person authorized to sign the S corporation's return required to be filed under section 6037.
+
+(2) *Effective date of revocation.* The revocation of a QSub election is effective on the date specified on the revocation statement or on the date the revocation statement is filed if no date is specified. The effective date specified on the revocation statement cannot be more than two months and 15 days prior to the date on which the revocation statement is filed and cannot be more than 12 months after the date on which the revocation statement is filed. If a revocation statement specifies an effective date more than two months and 15 days prior to the date on which the statement is filed, it will be effective two months and 15 days prior to the date it is filed. If a revocation statement specifies an effective date more than 12 months after the date on which the statement is filed, it will be effective 12 months after the date it is filed.
+
+(3) *Revocation after termination.* A revocation may not be made after the occurrence of an event that renders the subsidiary ineligible for QSub status under section 1361(b)(3)(B).
+
+(4) *Revocation before QSub election effective.* For purposes of Section 1361(b)(3)(D) and § 1.1361-5(c) (five-year prohibition on re-election), a revocation effective on the first day the QSub election was to be effective will not be treated as a termination of a QSub election.
+
+[T.D. 8869, 65 FR 3850, Jan. 25, 2000]

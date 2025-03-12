@@ -1,0 +1,3 @@
+##### § 81.34 Service—how made. #####
+
+Service shall be made by personal delivery of one copy to each person to be served or by mailing by first-class mail, properly addressed with postage prepaid. When a party or amicus has appeared by attorney or other representative, service upon such attorney or representative will be deemed service upon the party or amicus. Documents served by mail preferably should be mailed in sufficient time to reach the addressee by the date on which the original is due to be filed, and should be air mailed if the addressee is more than 300 miles distant.

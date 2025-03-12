@@ -1,0 +1,11 @@
+##### § 153.230 Calculation of reinsurance payments made under the national contribution rate. #####
+
+(a) *Eligibility for reinsurance payments under the national reinsurance parameters.* A health insurance issuer of a reinsurance-eligible plan becomes eligible for reinsurance payments from contributions collected under the national contribution rate when its claims costs for an individual enrollee's covered benefits in a benefit year exceed the national attachment point.
+
+(b) *National reinsurance payment parameters.* The national reinsurance payment parameters for each benefit year commencing in 2014 and ending in 2016 set forth in the annual HHS notice of benefit and payment parameters for each applicable benefit year will apply with respect to reinsurance payments made from contributions received under the national contribution rate.
+
+(c) *National reinsurance payments.* Each reinsurance payment made from contributions received under the national contribution rate will be calculated as the product of the national coinsurance rate multiplied by the health insurance issuer's claims costs for an individual enrollee's covered benefits that the health insurance issuer incurs in the applicable benefit year between the national attachment point and the national reinsurance cap.
+
+(d) *Uniform adjustment to national reinsurance payments.* If HHS determines that all reinsurance payments requested under the national payment parameters from all reinsurance-eligible plans in all States for a benefit year will not be equal to the amount of all reinsurance contributions collected for reinsurance payments under the national contribution rate in all States for an applicable benefit year, HHS will determine a uniform pro rata adjustment to be applied to all such requests for reinsurance payments for all States. Each applicable reinsurance entity, or HHS on behalf of a State, must reduce or increase the reinsurance payment amounts for the applicable benefit year by any adjustment required under this paragraph (d).
+
+[78 FR 15526, Mar. 11, 2013, as amended at 78 FR 66655, Nov. 6, 2013; 79 FR 13835, Mar. 11, 2014]

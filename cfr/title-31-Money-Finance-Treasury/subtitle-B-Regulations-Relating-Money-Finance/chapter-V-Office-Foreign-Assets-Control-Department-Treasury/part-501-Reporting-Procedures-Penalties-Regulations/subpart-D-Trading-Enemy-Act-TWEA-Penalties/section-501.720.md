@@ -1,0 +1,3 @@
+##### § 501.720 Separation of functions. #####
+
+Any officer or employee engaged in the performance of investigative or prosecutorial functions for the Department in a proceeding as defined in § 501.702 may not, in that proceeding or one that is factually related, participate or advise in the decision pursuant to Section 557 of the Administrative Procedure Act, 5 U.S.C. 557, except as a witness or counsel in the proceeding.

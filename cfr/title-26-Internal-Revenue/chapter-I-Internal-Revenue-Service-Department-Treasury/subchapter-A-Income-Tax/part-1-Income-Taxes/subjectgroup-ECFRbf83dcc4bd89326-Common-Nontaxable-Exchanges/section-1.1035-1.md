@@ -1,0 +1,9 @@
+##### § 1.1035-1 Certain exchanges of insurance policies. #####
+
+Under the provisions of section 1035 no gain or loss is recognized on the exchange of:
+
+(a) A contract of life insurance for another contract of life insurance or for an endowment or annuity contract (section 1035(a)(1));
+
+(b) A contract of endowment insurance for another contract of endowment insurance providing for regular payments beginning at a date not later than the date payments would have begun under the contract exchanged, or an annuity contract (section 1035(a)(2)); or
+
+(c) An annuity contract for another annuity contract (section 1035(a)(3)), but section 1035 does not apply to such exchanges if the policies exchanged to not relate to the same insured. The exchange, without recognition of gain or loss, of an annuity contract for another annuity contract under section 1035(a)(3) is limited to cases where the same person or persons are the obligee or obligees under the contract received in exchange as under the original contract. This section and section 1035 do not apply to transactions involving the exchange of an endowment contract or annuity contract for a life insurance contract, nor an annuity contract for an endowment contract. In the case of such exchanges, any gain or loss shall be recognized. In the case of exchanges which would be governed by section 1035 except for the fact that the property received in exchange consists not only of property which could otherwise be received without the recognition of gain or loss, but also of other property or money, see section 1031 (b) and (c) and the regulations thereunder. Such an exchange does not come within the provisions of section 1035. Determination of the basis of property acquired in an exchange under section 1035(a) shall be governed by section 1031(d) and the regulations thereunder.

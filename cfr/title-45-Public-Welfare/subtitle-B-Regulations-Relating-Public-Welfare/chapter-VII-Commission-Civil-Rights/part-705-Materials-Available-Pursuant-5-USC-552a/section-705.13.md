@@ -1,0 +1,23 @@
+##### § 705.13 Exemptions. #####
+
+(a) Under the provision of 5 U.S.C. 552a(k), it has been determined by the agency that the following exemptions are necessary and proper and may be asserted by the agency:
+
+(1) *Exemption (k)(2) of the Act.* Investigatory material compiled for law enforcement purposes, other than material within the scope of subsection (j)(2) of the Privacy Act: Provided, however, That if any individual is denied any right, privilege, or benefit that he or she would otherwise be eligible for, as a result of the maintenance of such material, such material shall be provided to such individual, except to the extent that the disclosure of such material would reveal the identify of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to [the effective date of this section], under an implied promise that the identity of the source would be held in confidence.
+
+(2) *Exemption (k)(4) of the Act.* Statistical personnel records that are used only to generate aggregate data or for other evaluative or analytical purposes and that are not used to make decisions on the rights, benefits, or entitlements of individuals.
+
+(3) *Exemption (k)(5) of the Act.* Investigatory material maintained solely for the purposes of determining an individual's qualifications, eligibility, or suitability for employment in the Federal civilian service, Federal contracts, or access to classified information, but only to the extent that disclosure of such material would reveal the identity of the source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence.
+
+(4) *Exemption (k)(6) of the Act.* Testing or examination material used solely to determine individual qualifications for promotion or appointment in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process.
+
+(b) Following are Commission systems of records that are partially exempt under 5 U.S.C. 552a(k)(2), (4), (5), and (6) and the reasons for such exemptions:
+
+(1) Appeals, Grievances, and Complaints (staff)—Commission Project, CRC-001. Exempt partially under 5 U.S.C. 552a(k)(2). The reasons for possibly asserting the exemptions are to prevent subjects of investigation from frustrating the investigatory process, to prevent disclosure of investigative techniques, to maintain the ability to obtain necessary information, to fulfill commitments made to sources to protect their identities and the confidentiality of information and to avoid endangering these sources.
+
+(2) Complaints, CRC-003—Exempt partially under 5 U.S.C. 552a(k)(2). The reasons for possibly asserting the exemptions are to prevent subjects of investigation from frustrating the investigatory process, to prevent disclosure of investigative techniques, to maintain the ability to obtain necessary information, to fulfill commitments made to sources to protect their identities and the confidentiality of information and to avoid endangering these sources.
+
+(3) Commission projects, CRC-004—Partially exempt under 5 U.S.C. 552a(k)(2). The reasons for asserting the exemptions are to prevent subjects of investigation from frustrating the investigatory process, to prevent disclosure of investigative techniques, to maintain the ability to obtain necessary information, to fulfill commitments made to sources to protect their identities and the confidentiality of information and to avoid endangering these sources.
+
+(4) Other Employee Programs: EEO, Troubled Employee, and Upward Mobility, CRC-006—Partially exempt under 5 U.S.C. 552a(k)(4), (5), and (6). The reasons for asserting the exemptions are to maintain the ability to obtain candid and necessary information, to fulfill commitments made to sources to protect the confidentiality of information, to avoid endangering these sources and, primarily, to facilitate proper selection or continuance of the best applicants or persons for a given position.
+
+(5) State Advisory Committees Projects, CRC-009—Partially exempt under 5 U.S.C. 552a(k)(2). The reasons for possibly asserting the exemptions are to prevent subjects of investigation from frustrating the investigatory process, to prevent disclosure of investigative techniques, to maintain the ability to obtain necessary information, to fulfill commitments made to sources to protect their identities and the confidentiality of information and to avoid endangering these sources.

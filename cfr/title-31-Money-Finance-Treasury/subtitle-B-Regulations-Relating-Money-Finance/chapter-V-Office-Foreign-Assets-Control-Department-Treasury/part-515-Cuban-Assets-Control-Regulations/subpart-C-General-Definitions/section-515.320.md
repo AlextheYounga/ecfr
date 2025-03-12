@@ -1,0 +1,3 @@
+##### § 515.320 Domestic bank. #####
+
+The term *domestic bank* shall mean any branch or office within the United States of any of the following which is not a national of a designated foreign country; any bank or trust company incorporated under the banking laws of the United States or any State, territory, or district of the United States, or any private bank or banker subject to supervision and examination under the banking laws of the United States or of any State, territory or district of the United States. The Secretary of the Treasury may also authorize any other banking institution to be treated as a “domestic bank” for the purpose of this definition or for the purpose of any or all sections of this part.

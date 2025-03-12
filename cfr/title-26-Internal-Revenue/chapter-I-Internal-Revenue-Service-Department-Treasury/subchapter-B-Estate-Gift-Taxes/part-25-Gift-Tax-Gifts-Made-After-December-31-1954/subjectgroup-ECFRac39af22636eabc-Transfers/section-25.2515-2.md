@@ -1,0 +1,22 @@
+##### § 25.2515-2 Tenancies by the entirety; transfers treated as gifts; manner of election and valuation. #####
+
+(a) The election to treat the creation of a tenancy by the entirety in real property, or additions made to its value, as constituting a gift in the calendar quarter or calendar year in which effected, shall be exercised by including the value of such gifts in the gift tax return of the donor for such calendar quarter or calendar year in which the tenancy was created, or the additions in value were made to the property. See section 6019 and the regulations thereunder. The election may be exercised only in a return filed within the time prescribed by law, or before the expiration of any extension of time granted pursuant to law for the filing of the return. See section 6075 for the time for filing the gift tax return and section 6081 for extensions of time for filing the return, together with the regulations thereunder. In order to make the election, a gift tax return must be filed for the calendar quarter or calendar year in which the tenancy was created, or additions in value thereto made, even though the value of the gift involved does not exceed the amount of the exclusion provided by section 2503(b). See § 25.2502-1(c)(1) for the definition of calendar quarter.
+
+(b) If the donor spouse exercises the election as provided in paragraph (a) of this section, the amount of the gift at the creation of the tenancy is the amount of his contribution to the tenancy less the value of his retained interest in it, determined as follows:
+
+(1) If under the law of the jurisdiction governing the rights of the spouses, either spouse, acting alone, can bring about a severance of his or her interest in the property, the value of the donor's retained interest is one-half the value of the property.
+
+(2) If, under the law of the jurisdiction governing the rights of the spouses each is entitled to share in the income or other enjoyment of the property but neither, acting alone, may defeat the right of the survivor of them to the whole of the property, the amount of retained interest of the donor is determined by use of the appropriate actuarial factors for the spouses at their respective attained ages at the time the transaction is effected.
+
+(c) Factors representing the respective interests of the spouses, under a tenancy by the entirety, at their attained ages at the time of the transaction may be readily computed based on the method described in § 25.2512-5. State law may provide that the husband only is entitled to all of the income or other enjoyment of the real property held as tenants by the entirety, and the wife's interest consists only of the right of survivorship with no right of severance. In such a case, a special factor may be needed to determine the value of the interests of the respective spouses. See § 25.2512-5(d)(4) for the procedure for obtaining special factors from the Internal Revenue Service in appropriate cases.
+
+(d) The application of this paragraph may be illustrated by the following example:
+
+Example.A husband with his own funds acquires real property valued at $10,000 and has it conveyed to himself and his wife as tenants by the entirety. Under the law of the jurisdiction governing the rights of the parties, each spouse is entitled to share in the income from the property but neither spouse acting alone could bring about a severance of his or her interest. The husband elects to treat the transfer as a gift in the year in which effected. At the time of transfer, the ages of the husband and wife are 45 and 40, respectively, on their birthdays nearest to the date of transfer. The value of the gift to the wife is $5,502.90, computed as follows:
+
+|                   Value of property transferred                    |$10,000.00|
+|--------------------------------------------------------------------|----------|
+|Less $10,000 × 0.44971 (factor for value of donor's retained rights)| 4,497.10 |
+|                           Value of gift                            | 5,502.90 |
+
+[T.D. 6334, 23 FR 8904, Nov. 15, 1958, as amended by T.D. 7150, 36 FR 22900, Dec. 2, 1971; T.D. 7238, 37 FR 28731, Dec. 29, 1972; T.D. 8540, 59 FR 30177, June 10, 1994]

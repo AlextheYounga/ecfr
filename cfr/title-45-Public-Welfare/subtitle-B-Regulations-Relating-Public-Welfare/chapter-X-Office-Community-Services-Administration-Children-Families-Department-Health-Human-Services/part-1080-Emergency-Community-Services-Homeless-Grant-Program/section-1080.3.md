@@ -1,0 +1,3 @@
+##### § 1080.3 Allocation of funds. #####
+
+From the amounts made available under the Emergency Community Services Homeless Grant Program, the Secretary shall make grants to States that administer programs under the Community Services Block Grant Act (42 U.S.C. 9901 *et seq.*), after taking into account the amount set aside for Indian tribes in § 1080.7(a) of this chapter. Such grants shall be allocated to the States in accordance with the formula set forth in subsections (a) and (b) of section 674 of such Act (42 U.S.C. 9903 (a) and (b)). No funds shall be allocated under subsection (c) of section 674 of such Act (42 U.S.C. 9903(c)).

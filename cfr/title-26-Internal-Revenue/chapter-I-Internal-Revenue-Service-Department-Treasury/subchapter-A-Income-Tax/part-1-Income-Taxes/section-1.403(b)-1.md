@@ -1,0 +1,5 @@
+##### § 1.403(b)-1 General overview of taxability under an annuity contract purchased by a section 501(c)(3) organization or a public school. #####
+
+Section 403(b) and §§ 1.403(b)-2 through 1.403(b)-10 provide rules for the Federal income tax treatment of an annuity purchased for an employee by an employer that is either a tax-exempt entity under section 501(c)(3) (relating to certain religious, charitable, scientific, or other types of organizations) or a public school, or for a minister described in section 414(e)(5)(A). See section 403(a) (relating to qualified annuities) for rules regarding the taxation of an annuity purchased under a qualified annuity plan that meets the requirements of section 404(a)(2), and see section 403(c) (relating to nonqualified annuities) for rules regarding the taxation of other types of annuities.
+
+[T.D. 9340, 72 FR 41141, July 26, 2007]

@@ -1,0 +1,5 @@
+##### § 1.542-2 Gross income requirement. #####
+
+To meet the gross income requirement it is necessary that at least 80 percent of the total gross income of the corporation for the taxable year be personal holding company income as defined in section 543 and §§ 1.543-1 and 1.543-2. For the definition of *gross income* see section 61 and §§ 1.61-1 through 1.61-14. Under such provisions gross income is not necessarily synonymous with gross receipts. Further, in the case of transactions in stocks and securities and in commodities transactions, gross income for personal holding company tax purposes shall include only the excess of gains over losses from such transactions. See section 543(b), paragraph (b) (5) and (6) of § 1.543-1 and § 1.543-2. For determining the character of the amount includible in gross income under section 951(a), see paragraph (a) of § 1.951-1.
+
+[T.D. 6500, 25 FR 11737, Nov. 26, 1960, as amended by T.D. 6795, 30 FR 934, Jan. 29, 1965]

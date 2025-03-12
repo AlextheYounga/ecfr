@@ -1,0 +1,3 @@
+##### § 1.861-6 Sale of real property. #####
+
+Gross income from sources within the United States includes gain, computed under the provisions of section 1001 and the regulations thereunder, derived from the sale or other disposition of real property located in the United States. For the treatment of capital gains and losses, see subchapter P (section 1201 and following), chapter 1 of the Code, and the regulations thereunder.

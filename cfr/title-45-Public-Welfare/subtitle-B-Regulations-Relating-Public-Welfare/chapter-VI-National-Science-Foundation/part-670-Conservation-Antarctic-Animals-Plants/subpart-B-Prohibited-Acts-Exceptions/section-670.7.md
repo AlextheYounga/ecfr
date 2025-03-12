@@ -1,0 +1,3 @@
+##### § 670.7 Food exception. #####
+
+Paragraph (e) of § 670.4 shall not apply to the introduction of animals and plants into Antarctica for use as food as long as animals and plants used for this purpose are kept under carefully controlled conditions. This exception shall not apply to living species of animals. Unconsumed poultry or its parts shall be removed from Antarctica unless incinerated, autoclaved or otherwise sterilized.

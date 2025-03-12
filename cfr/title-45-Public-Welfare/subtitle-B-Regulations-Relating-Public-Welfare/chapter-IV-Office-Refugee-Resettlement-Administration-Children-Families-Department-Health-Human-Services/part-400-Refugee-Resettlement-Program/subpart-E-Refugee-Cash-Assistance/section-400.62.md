@@ -1,0 +1,3 @@
+##### § 400.62 Treatment of eligible secondary migrants, asylees, and Cuban/Haitian entrants. #####
+
+The State and local resettlement agencies must establish procedures to ensure that eligible secondary migrant refugees, asylees, and Cuban/Haitian entrants have access to public/private RCA assistance if they wish to apply. In developing these procedures, consideration must be given to ensuring coverage of eligible secondary migrants and other eligible applicants who were sponsored by a resettlement agency which does not have a presence in the State or who were not sponsored by any agency.

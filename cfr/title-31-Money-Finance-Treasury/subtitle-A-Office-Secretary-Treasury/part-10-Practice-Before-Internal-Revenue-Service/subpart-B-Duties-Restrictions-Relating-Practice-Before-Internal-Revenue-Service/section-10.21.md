@@ -1,0 +1,3 @@
+##### § 10.21 Knowledge of client's omission. #####
+
+A practitioner who, having been retained by a client with respect to a matter administered by the Internal Revenue Service, knows that the client has not complied with the revenue laws of the United States or has made an error in or omission from any return, document, affidavit, or other paper which the client submitted or executed under the revenue laws of the United States, must advise the client promptly of the fact of such noncompliance, error, or omission. The practitioner must advise the client of the consequences as provided under the Code and regulations of such noncompliance, error, or omission.

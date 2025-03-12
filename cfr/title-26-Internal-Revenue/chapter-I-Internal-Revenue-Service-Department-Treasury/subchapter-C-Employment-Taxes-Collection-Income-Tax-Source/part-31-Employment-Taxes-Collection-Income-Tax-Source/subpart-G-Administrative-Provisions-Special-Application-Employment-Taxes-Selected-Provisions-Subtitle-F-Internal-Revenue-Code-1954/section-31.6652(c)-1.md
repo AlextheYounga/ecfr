@@ -1,0 +1,7 @@
+##### § 31.6652(c)-1 Failure of employee to report tips for purposes of the Federal Insurance Contributions Act. #####
+
+(a) *In general.* In the case of failure by an employee to furnish, pursuant to the provisions of section 6053(a), to his employer a report of tips received by him in the course of his employment, which constitute wages (as defined in section 3121(a)), there shall be paid by the employee, in addition to the tax imposed by section 3101 with respect to the amount of tips which he so failed to report, an amount equal to 50 percent of such tax. The additional amount imposed for such failure shall be paid in the same manner as tax upon notice and demand by the district director.
+
+(b) *Reasonable cause.* Payment of an amount equal to 50 percent of the tax imposed by section 3101 with respect to the tips which the employee failed to report will not be required if it is established to the satisfaction of the district director or the director of the regional service center that such failure was due to reasonable cause and not due to willful neglect. An affirmative showing of reasonable cause must be made in the form of a written statement, containing a declaration that it is made under the penalties of perjury, setting forth all the facts alleged as a reasonable cause. An employee's reluctance to disclose to his employer the amount of tips received by him will not establish that the employee's failure to report tips to his employer was due to reasonable cause and not due to willful neglect.
+
+[T.D. 7001, 34 FR 1005, Jan. 23, 1969]

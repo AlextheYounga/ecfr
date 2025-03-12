@@ -1,0 +1,3 @@
+##### § 2400.45 Special consideration: Junior Fellows' Plan of Study. #####
+
+Applicants for Junior Fellowships who seek or hold baccalaureate degrees in education are strongly encouraged to pursue master's degrees in history or political science. Those applicants who hold undergraduate degrees in history, political science, government, or any other subjects may take some teaching methods and related courses, although the Foundation will not pay for them unless they are required for the degree for which the Fellow is matriculated. The Foundation will review each proposed Plan of Study for an appropriate balance of subject matter and other courses based on the Fellow's goals, background, and degree requirements.

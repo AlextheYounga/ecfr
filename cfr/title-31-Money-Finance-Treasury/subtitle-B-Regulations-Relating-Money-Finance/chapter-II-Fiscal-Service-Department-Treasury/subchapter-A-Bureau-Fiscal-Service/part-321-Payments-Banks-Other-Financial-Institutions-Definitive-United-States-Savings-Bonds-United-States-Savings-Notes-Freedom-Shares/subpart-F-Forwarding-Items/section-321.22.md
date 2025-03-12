@@ -1,0 +1,5 @@
+##### § 321.22 Forwarding securities not payable by an agent. #####
+
+Any securities an agent is not authorized to pay under the provisions of this part should be forwarded for redemption to a TRS Site. The requests for payment on the securities should be properly certified. Any documentary evidence required to support the transaction should accompany the securities. If the securities are presented for redemption-exchange, they must also be accompanied by a completed and signed exchange subscription and additional cash needed to complete the transaction. Unpaid securities must be forwarded to a TRS Site in accordance with the rules in this part. The Bureau of the Fiscal Service provides agents with instructions and guidance regarding forwarding items. These instructions identify the specific types of redemption cases that should be forwarded and the processing instructions that paying agents must follow. These instructions are available from a TRS Site or online at *www.treasurydirect.gov.*
+
+[77 FR 16167, Mar. 20, 2012]

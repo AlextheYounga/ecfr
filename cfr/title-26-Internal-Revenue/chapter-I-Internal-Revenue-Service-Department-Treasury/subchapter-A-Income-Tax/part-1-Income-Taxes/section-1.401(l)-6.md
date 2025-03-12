@@ -1,0 +1,27 @@
+##### § 1.401(l)-6 Effective dates and transition rules. #####
+
+(a) *Statutory effective date*—(1) *In general.* Except as otherwise provided in paragraph (a)(2) of this section, section 401(a)(5)(C) is effective for plan years beginning on or after January 1, 1989, and section 401(l) is effective with respect to plan years, and benefits attributable to plan years, beginning on or after January 1, 1989. The preceding sentence is applicable to a plan without regard to whether the plan was in existence as of a particular date.
+
+(2) *Collectively bargained plans.* (i) In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, sections 401(a)(5) and 401(l) are applicable for plan years beginning on or after the later of—
+
+(A) January 1, 1989; or
+
+(B) The date on which the last of such collective bargaining agreements terminates (determined without regard to any extension of any such agreement occurring on or after March 1, 1986). However, notwithstanding the preceding sentence, sections 401(a)(5) and 401(l) apply to plans described in this paragraph (a)(2) no later than the first plan year beginning after January 1, 1991.
+
+(ii) For purposes of paragraph (a)(2)(i)(B) of this section, a change made after October 22, 1986, in the terms or conditions of a collectively bargained plan, pursuant to a collective bargaining agreement ratified before March 1, 1986, is not treated as a change in the terms and conditions of the plan.
+
+(iii) In the case of a collectively bargained plan described in paragraph (a)(2)(i) of this section, if the date in paragraph (a)(2)(i)(B) of this section precedes November 15, 1988, then the date in this paragraph (a)(2) is replaced with the date on which the last of any collective bargaining agreements in effect on November 15, 1988, terminates, provided that the plan complies during this period with a reasonable good faith interpretation of section 401(l).
+
+(iv) Whether a plan is maintained pursuant to a collective bargaining agreement is determined under the principles applied under section 1017(c) of the Employee Retirement Income Security Act of 1974. See H.R. Rep. No. 1280, 93d Cong., 2d Sess. 266 (1974). In addition, a plan is not treated as maintained under a collective bargaining agreement unless the employee representatives satisfy section 7701(a)(46) of the Internal Revenue Code after March 31, 1984. See § 301.7701-17T of this chapter for other requirements for a plan to be considered to be collectively bargained.
+
+(b) *Regulatory effective date*—(1) *In general.* Except as otherwise provided in paragraph (b)(2) of this section, §§ 1.401(l)-1 through 1.401(l)-6 apply to plan years beginning on or after January 1, 1994.
+
+(2) *Plans of tax-exempt organizations.* In the case of plans maintained by an organization exempt from income taxation under section 501(a), including plans subject to section 403(b)(12)(A)(i) (nonelective plans), §§ 1.401(l)-1 through 1.401(l)-6 apply to plan years beginning on or after January 1, 1996.
+
+(3) *Defined contribution plans.* A defined contribution plan satisfies section 401(l) with respect to a plan year beginning on or after the effective date of these regulations, as set forth in paragraphs (b)(1) and (b)(2) of this section, if it satisfies the applicable requirements of §§ 1.401(l)-1 through 1.401(l)-5 for the plan year.
+
+(4) *Defined benefit plans.* A defined benefit excess plan or offset plan satisfies section 401(l) with respect to all plan years, and benefits attributable to all plan years, beginning on or after the effective date of these regulations, as set forth in paragraphs (b)(1) and (b)(2) of this section, by satisfying the applicable requirements of §§ 1.401(l)-1 through 1.401(l)-5 and the requirements of § 1.401(a)(4)-13(c) (and § 1.401(a)(4)-13(d), if applicable), using a fresh-start date that is on or after December 31, 1988, and before the effective date of these regulations. A defined benefit excess plan or offset plan that does not satisfy section 401(l) with respect to all plan years beginning on or after the effective date of these regulations may, under the rules of § 1.401(a)(4)-13(c) (and § 1.401(a)(4)-13(d), if applicable), satisfy section 401(l) for plan years beginning after a fresh-start date by satisfying the applicable requirements of §§ 1.401(l)-1 through 1.401(l)-5 after the fresh-start date.
+
+(c) *Compliance during transition period.* For plan years beginning on or after January 1, 1989, and before the effective date of these regulations, as set forth in paragraph (b) of this section, a plan must be operated in accordance with a reasonable, good faith interpretation of section 401(l). Whether a plan is operated in accordance with a reasonable, good faith interpretation of section 401(l) will generally be determined based on all of the relevant facts and circumstances, including the extent to which an employer has resolved unclear issues in its favor. A plan will be deemed to be operated in accordance with a reasonable, good faith interpretation of section 401(*l*) if it is operated in accordance with the terms of §§ 1.401(*l*)-1 through 1.401(*l*)-5.
+
+[T.D. 8486, 58 FR 46835, Sept. 3, 1993]

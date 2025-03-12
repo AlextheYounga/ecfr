@@ -1,0 +1,9 @@
+##### § 353.83 Reissue or payment on dissolution of corporation or partnership. #####
+
+(a) *Corporations.* A bond registered in the name of a private corporation which is in the process of dissolution will be paid to the authorized representative of the corporation upon a request for payment, supported by satisfactory evidence of the representative's authority. At the termination of dissolution proceedings, the bond may be reissued upon the request of the authorized representative in the names of those persons, other than creditors, entitled to the assets of the corporation, to the extent of their respective interests. Proof will be required that all statutory provisions governing the dissolution of the corporation have been complied with and that the persons in whose names reissue is requested are entitled and have agreed to the reissue. If the dissolution proceedings are under the direction of a court, a certified copy of an order of the court, showing the authority of the representative to make the distribution requested must be furnished.
+
+(b) *Partnerships.* A bond registered in the name of a partnership which has been dissolved by death or withdrawal of a partner, or in any other manner:
+
+(1) Will be paid upon a request for payment by any partner or partners authorized by law to act on behalf of the dissolved partnership, or
+
+(2) Will be paid to or reissued in the names of the persons entitled as the result of such dissolution to the extent of their respective interests, except that reissue will not be made in the names of creditors. The request must be supported by satisfactory evidence of entitlement, including proof that the debts of the partnership have been paid or properly provided for. The appropriate form should be used.

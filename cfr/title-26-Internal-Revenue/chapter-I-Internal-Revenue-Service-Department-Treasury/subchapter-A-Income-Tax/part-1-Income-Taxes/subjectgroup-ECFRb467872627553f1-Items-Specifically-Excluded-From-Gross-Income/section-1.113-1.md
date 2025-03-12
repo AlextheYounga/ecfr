@@ -1,0 +1,3 @@
+##### § 1.113-1 Mustering-out payments for members of the Armed Forces. #####
+
+For the purposes of the exclusion from gross income under section 113 of mustering-out payments with respect to service in the Armed Forces, mustering-out payments are payments made to any recipients pursuant to the provisions of 38 U.S.C. 2105 (formerly section 5 of the Mustering-out Payment Act of 1944 and section 505 of the Veterans' Readjustment Assistance Act of 1952).

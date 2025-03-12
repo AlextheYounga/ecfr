@@ -1,0 +1,3 @@
+##### § 309.125 On what basis is Federal funding of Tribal IV-D programs determined? #####
+
+Federal funding of Tribal IV-D programs is based on information contained in the Tribal IV-D application. The application must include a proposed budget and a description of the nature and scope of the Tribal IV-D program and must give assurance that the program will be administered in conformity with applicable requirements of title IV-D of the Act, regulations contained in this part, and other official issuances of the Department that specifically state applicability to Tribal IV-D programs.

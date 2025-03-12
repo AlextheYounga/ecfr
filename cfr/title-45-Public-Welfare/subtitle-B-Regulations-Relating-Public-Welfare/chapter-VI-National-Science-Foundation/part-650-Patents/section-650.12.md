@@ -1,0 +1,13 @@
+##### § 650.12 Waivers and approvals. #####
+
+(a) Requests for extension of time to disclose to the NSF Patent Assistant, make an election to retain title to, or file a patent on a subject invention will be granted by the NSF Patent Assistant unless he or she determines that such an extension would either imperil the securing of valid patent protection or unacceptably restrict the publication of the results of the NSF-supported research.
+
+(b) Approval of assignments by nonprofit organizations (required by subparagraph (k)(1) of the Patent Rights clause in § 650.4(a)) will be given by the Patent Assistant unless he or she determines that the interests of the United States Government will be adversely affected by such assignment.
+
+(c) Approval of long-term exclusive licensing of NSF-assisted inventions by nonprofit organizations (restricted by earlier versions of the NSF Patents Rights clause and by pre-Bayh-Dole Institutional Patent Agreements and waiver conditions) will be given by the Patent Assistant unless he or she determines that the interests of the United States Government will be adversely affected by such waiver.
+
+(d) The preference for United States industry imposed by paragraph (i) of the Patent Rights clause in § 650.4(a) may be waived by the NSF Patent Assistant as provided in that paragraph.
+
+(e) Special restrictions on or limitation of the right of an awardee to retain title to subject inventions imposed under § 650.5 of this regulation may be waived by the Grants or Contracting Officer whenever he or she determines, after consultation with the cognizant Program Manager, that the reasons for imposing the restrictions or limitations do not require their application to a particular invention.
+
+(f) Requests for approvals and waiver under this section should be addressed to the NSF Patent Assistant as provided in paragraph (1) of the Patent Rights clause in § 650.4(a). Requests under paragraph (a) of this section for extensions of time to disclose, elect, or file may be made by telephone or electronic mail as well as in writing. A written request for extension of time to disclose, elect, or file can be assumed to have been approved unless the Patent Assistant replies negatively within ten business days of the date such request was mailed, telecopied, or otherwise dispatched. Requests for approvals or waivers under paragraphs (b), (c), (d), and (e) of this section must be in writing and should explain why an approval or waiver is justified under the stated criteria. The requester will be given a written explanation of the reasons for denial of a request covered by this section.

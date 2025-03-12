@@ -1,0 +1,5 @@
+##### § 601.523 Tax information authorization. #####
+
+Where any of the acts specified in paragraph (c)(2)(i) of § 601.502 are to be performed by a representative, and a power of attorney for such representative has not been filed, a tax information authorization, or copy thereof, will be required. The authorization may be executed on Form 1534-A, copies of which may be obtained from the regional regulatory administrator in the Bureau of Alcohol, Tobacco, and Firearms. Such authorization may cover one or more of the acts for which a tax information authorization is required and will continue in effect with respect to such acts until revoked as provided in § 601.526. The exceptions to the requirements for a tax information authorization, provided in paragraphs (c) (3) and (4) of § 601.502, are applicable to such authorizations under this section.
+
+[34 FR 6432, Apr. 12, 1969]

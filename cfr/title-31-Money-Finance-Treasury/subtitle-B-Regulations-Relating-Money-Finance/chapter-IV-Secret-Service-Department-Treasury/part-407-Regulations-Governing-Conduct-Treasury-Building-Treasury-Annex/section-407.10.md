@@ -1,0 +1,3 @@
+##### § 407.10 Photographs for news, advertising, or commercial purposes. #####
+
+Except where security regulations apply, or a Federal court order or rule prohibits it, photographs for news purposes may be taken in areas on the property to which the public customarily has access without prior permission. Photographs for advertising and commercial purposes may be taken in such areas only with the prior written permission of the Assistant Secretary for Administration, or his delegate.

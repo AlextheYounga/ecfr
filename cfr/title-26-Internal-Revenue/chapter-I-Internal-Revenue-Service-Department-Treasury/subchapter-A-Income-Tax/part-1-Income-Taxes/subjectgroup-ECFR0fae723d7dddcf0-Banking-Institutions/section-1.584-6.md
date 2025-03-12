@@ -1,0 +1,3 @@
+##### § 1.584-6 Net operating loss deduction. #####
+
+The net operating loss deduction is not allowed to a common trust fund. Each participant in a common trust fund, however, will be allowed the benefits of such deduction. In the computation of such deduction, a participant in a common trust fund shall take into account its pro rata share of items of income, gain, loss, deduction, or credit of the common trust fund. The character of any such item shall be determined as if the participant had realized such item directly from the source from which realized by the common trust fund, or incurred such item in the same manner as incurred by the common trust fund.

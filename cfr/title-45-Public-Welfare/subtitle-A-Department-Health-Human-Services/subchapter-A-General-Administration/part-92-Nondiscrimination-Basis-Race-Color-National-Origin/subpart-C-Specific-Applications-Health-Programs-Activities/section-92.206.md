@@ -1,0 +1,3 @@
+##### § 92.206 Equal program access on the basis of sex. #####
+
+A covered entity shall provide individuals equal access to its health programs or activities without discrimination on the basis of sex; and a covered entity shall treat individuals consistent with their gender identity, except that a covered entity may not deny or limit health services that are ordinarily or exclusively available to individuals of one sex, to a transgender individual based on the fact that the individual's sex assigned at birth, gender identity, or gender otherwise recorded is different from the one to which such health services are ordinarily or exclusively available.

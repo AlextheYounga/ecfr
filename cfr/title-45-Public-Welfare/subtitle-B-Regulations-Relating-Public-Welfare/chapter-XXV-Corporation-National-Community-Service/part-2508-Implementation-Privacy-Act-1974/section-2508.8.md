@@ -1,0 +1,5 @@
+##### § 2508.8 Who is responsible for establishing the Corporation's rules of conduct for Privacy Act compliance? #####
+
+(a) The Chief Executive Officer shall ensure that all persons involved in the design, development, operation or maintenance of any system of records as defined herein are informed of all requirements necessary to protect the privacy of individuals who are the subject of such records. All employees shall be informed of all implications of the Act in this area including the civil remedies provided under 5 U.S.C. 552a(g)(1) and the fact that the Corporation may be subject to civil remedies for failure to comply with the provisions of the Privacy Act and this regulation.
+
+(b) The Chief Executive Officer shall also ensure that all personnel having access to records receive adequate training in the protection of the security of personal records, and that adequate and proper storage is provided for all such records with sufficient security to assure the privacy of such records.

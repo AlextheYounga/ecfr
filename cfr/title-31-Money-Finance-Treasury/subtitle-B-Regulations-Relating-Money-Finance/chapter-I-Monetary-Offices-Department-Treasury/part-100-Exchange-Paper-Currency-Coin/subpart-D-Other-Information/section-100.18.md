@@ -1,0 +1,3 @@
+##### § 100.18 Counterfeit notes to be marked; “redemption” of notes wrongfully so marked. #####
+
+The Act of June 30, 1876 (19 Stat. 4; 31 U.S.C. 424), provides that all U.S. Officers charged with the receipt or disbursement of public moneys, and all officers of national banks, shall stamp or write in plain letters the word “counterfeit,” “altered,” or “worthless” upon all fraudulent notes issued in the form of, and intended to circulate as money, which shall be presented at their places of business; and if such officers shall wrongfully stamp any genuine note of the United States, or of the national bank, they shall, upon presentation, “redeem” such notes at the face amount thereof.

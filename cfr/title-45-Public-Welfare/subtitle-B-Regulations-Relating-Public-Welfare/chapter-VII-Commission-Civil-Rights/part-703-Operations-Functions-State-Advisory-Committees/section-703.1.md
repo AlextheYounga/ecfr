@@ -1,0 +1,3 @@
+##### § 703.1 Name and establishment. #####
+
+Pursuant to 42 U.S.C. 1975a(d), the Commission has chartered and maintains Advisory Committees to the Commission in each State, and the District of Columbia. All relevant provisions of the Federal Advisory Committee Act of 1972 (Public Law 92-463, as amended) are applicable to the management, membership, and operations of such committees and subcommittees thereof.

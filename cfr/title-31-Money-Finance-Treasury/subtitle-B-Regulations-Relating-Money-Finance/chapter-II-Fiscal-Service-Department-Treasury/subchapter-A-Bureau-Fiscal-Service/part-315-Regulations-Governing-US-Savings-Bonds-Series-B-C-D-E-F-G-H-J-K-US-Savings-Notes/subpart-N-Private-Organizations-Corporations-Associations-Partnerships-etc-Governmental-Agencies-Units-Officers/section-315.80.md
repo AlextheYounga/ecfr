@@ -1,0 +1,3 @@
+##### § 315.80 Payment to corporations or unincorporated associations. #####
+
+A bond registered in the name of a private corporation or an unincorporated association will be paid to the corporation or unincorporated association upon a request for payment on its behalf by an authorized officer. The signature to the request should be in the form, for example, “The Jones Coal Company, a corporation, by John Jones, President”, or “The Lotus Club, an unincorporated association, by William A. Smith, Treasurer”. A request for payment so signed and certified will ordinarily be accepted without further evidence of the officer's authority.

@@ -1,0 +1,19 @@
+##### § 1.561-2 When dividends are considered paid. #####
+
+(a) *In general.* (1) A dividend will be considered as paid when it is received by the shareholder. A deduction for dividends paid during the taxable year will not be permitted unless the shareholder receives the dividend during the taxable year for which the deduction is claimed. See section 563 for special rule with respect to dividends paid after the close of the taxable year.
+
+(2) If a dividend is paid by check and the check bearing a date within the taxable year is deposited in the mails, in a cover properly stamped and addressed to the shareholder at his last known address, at such time that in the ordinary handling of the mails the check would be received by the shareholder within the taxable year, a presumption arises that the dividend was paid to the shareholder in such year.
+
+(3) The payment of a dividend during the taxable year to the authorized agent of the shareholder will be deemed payment of the dividend to the shareholder during such year.
+
+(4) If a corporation, instead of paying the dividend directly to the shareholder, credits the account of the shareholder on the books of the corporation with the amount of the dividend, the deduction for a dividend paid will not be permitted unless it be shown to the satisfaction of the Commissioner that such crediting constituted payment of the dividend to the shareholder within the taxable year.
+
+(5) A deduction will not be permitted for the amount of a dividend credited during the taxable year upon an obligation of the shareholder to the corporation unless it is shown to the satisfaction of the Commissioner that such crediting constituted payment of the dividend to the shareholder within the taxable year.
+
+(6) If the dividend is payable in obligations of the corporation, they should be entered or registered in the taxable year on the books of the corporation, in the name of the shareholder (or his nominee or transferee), and, in the case of obligations payable to bearer, should be received in the taxable year by the shareholder (or his nominee or transferee) to constitute payment of the dividend within the taxable year.
+
+(7) In the case of a dividend from which the tax has been deducted and withheld as required by chapter 3 (section 1441 and following), of the Code the dividend is considered as paid when such deducting and withholding occur.
+
+(b) *Methods of accounting.* The determination of whether a dividend has been paid to the shareholder by the corporation during its taxable year is in no way dependent upon the method of accounting regularly employed by the corporation in keeping its books or upon the method of accounting upon the basis of which the taxable income of the corporation is computed.
+
+(c) *Records.* Every corporation claiming a deduction for dividends paid shall keep such permanent records as are necessary (1) to establish that the dividends with respect to which such deduction is claimed were actually paid during the taxable year and (2) to supply the information required to be filed with the income tax return of the corporation. Such corporation shall file with its return (i) a copy of the dividend resolution; and (ii) a concise statement of the pertinent facts relating to the payment of the dividend, clearly specifying (*a*) the medium of payment and (*b*) if not paid in money, the fair market value and adjusted basis (or face value, if paid in its own obligations) on the date of distribution of the property distributed and the manner in which such fair market value and adjusted basis were determined. Canceled dividend checks and receipts obtained from shareholders acknowledging payment of dividends paid otherwise than by check need not be filed with the return but shall be kept by the corporation as a part of its records.

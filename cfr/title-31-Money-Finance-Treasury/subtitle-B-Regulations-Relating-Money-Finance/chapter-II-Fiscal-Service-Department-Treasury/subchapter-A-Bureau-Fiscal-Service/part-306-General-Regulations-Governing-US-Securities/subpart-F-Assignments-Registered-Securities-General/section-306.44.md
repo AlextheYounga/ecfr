@@ -1,0 +1,3 @@
+##### § 306.44 Discrepancies in names. #####
+
+The Department will ordinarily require an explanation of discrepancies in the names which appear in inscriptions, assignments, supporting evidence or in the signatures to any assignments. (Form PD 385 may be used for this purpose.) However, where the variations in the name of the registered owner, as inscribed on securities of the same or different issues, are such that both may properly represent the same person, for example, “J. T. Smith” and “John T. Smith,” no proof of identity will be required if the assignments are signed exactly as the securities are inscribed and are duly certified by the same certifying officer.

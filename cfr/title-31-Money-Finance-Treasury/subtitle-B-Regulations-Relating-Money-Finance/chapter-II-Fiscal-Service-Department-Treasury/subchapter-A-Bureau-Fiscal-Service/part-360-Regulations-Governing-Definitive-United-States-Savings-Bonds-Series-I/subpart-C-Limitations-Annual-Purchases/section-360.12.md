@@ -1,0 +1,3 @@
+##### § 360.12 Disposition of excess. #####
+
+If any person at any time has savings bonds issued during any one calendar year in excess of the prescribed amount, instructions should be obtained from the Bureau of the Fiscal Service, Parkersburg, WV 26106-1328, for appropriate adjustment of the excess. Under the conditions specified in § 360.90, the Commissioner of the Fiscal Service may permit excess purchases to stand in any particular case or class of cases.

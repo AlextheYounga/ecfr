@@ -1,0 +1,9 @@
+##### § 538.536 Activities relating to the petroleum and petrochemical industries in the Republic of South Sudan. #####
+
+(a) To the extent they are not exempt from the prohibitions of this part, all activities and transactions relating to the petroleum and petrochemical industries in the Republic of South Sudan are authorized, including but not limited to the transshipment of goods, technology, and services to or from the Republic of South Sudan through Sudan; exploration; development; production; field auditing services; oilfield services; activities related to oil and gas pipelines; investment; payment to the Government of Sudan or to entities owned or controlled by the Government of Sudan of pipeline, port, and other fees; and downstream activities such as refining, sale, and transport of petroleum from the Republic of South Sudan, except for the refining in Sudan of petroleum from the Republic of South Sudan.
+
+(b) All financial transactions ordinarily incident to the activities authorized by paragraph (a) of this section also are authorized, including but not limited to financial transactions with a depository institution owned or controlled by the Government of Sudan or located in Sudan, provided that any transaction between a U.S. depository institution and a depository institution owned or controlled by the Government of Sudan must first transit through a depository institution not owned or controlled by the Government of Sudan.
+
+(c) This section does not authorize exports of goods, services, or technology that are not used in connection with the Republic of South Sudan's petroleum or petrochemical industries.
+
+[76 FR 76619, Dec. 8, 2011]

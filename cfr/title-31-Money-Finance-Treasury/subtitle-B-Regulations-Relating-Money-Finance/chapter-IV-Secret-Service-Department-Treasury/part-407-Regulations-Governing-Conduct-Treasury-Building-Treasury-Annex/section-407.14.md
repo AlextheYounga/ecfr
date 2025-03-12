@@ -1,0 +1,3 @@
+##### § 407.14 Penalties and other law. #####
+
+Whoever shall be found guilty of violating the regulations in this part while on the property is subject to a fine of not more than $50 or imprisonment of not more than 30 days, or both (see 40 U.S.C. 318c). Nothing contained in these regulations shall be construed to abrogate any other Federal laws or regulations of the District of Columbia applicable to the property referred to in § 407.2 and governed by the regulations.

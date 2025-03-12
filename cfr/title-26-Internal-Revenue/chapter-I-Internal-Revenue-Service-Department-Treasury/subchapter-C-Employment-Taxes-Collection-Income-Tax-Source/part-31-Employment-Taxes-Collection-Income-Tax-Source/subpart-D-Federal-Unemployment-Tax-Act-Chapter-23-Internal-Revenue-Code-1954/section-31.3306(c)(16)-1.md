@@ -1,0 +1,13 @@
+##### § 31.3306(c)(16)-1 Services in employ of international organization. #####
+
+(a) Subject to the provisions of section 1 of the International Organizations Immunities Act (22 U.S.C. 228), services performed in the employ of an international organization as defined in section 7701(a)(18) are excepted from employment.
+
+(b) (1) Section 701(a)(18) provides as follows:
+
+Sec. 7701.*Definitions.* (a) When used in this title, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof—
+
+(18) *International organization.* The term “international organization” means a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act (22 U.S.C. 288-288f).
+
+(2) Section 1 of the International Organizations Immunities Act provides as follows:
+
+Sec. 1. [*International Organizations Immunities Act.*] For the purposes of this title [International Organizations Immunities Act], the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities herein provided. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this title (including the amendments made by this title) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities herein provided or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this title.

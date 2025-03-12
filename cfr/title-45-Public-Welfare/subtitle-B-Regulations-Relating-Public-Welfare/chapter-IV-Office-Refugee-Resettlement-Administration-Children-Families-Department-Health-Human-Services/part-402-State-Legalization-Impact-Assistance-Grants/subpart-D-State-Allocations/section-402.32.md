@@ -1,0 +1,5 @@
+##### § 402.32 Determination of state allotments. #####
+
+Except as noted below, a State's allotment is the difference between the amount determined under § 402.31(b) of this regulation and the cumulative amount previously allotted to the State. In the event that the amount determined under § 402.31(b) is less than the cumulative amount previously allotted to a State, that State's allotment will be zero. The allotments of the remaining States would be calculated by multiplying the difference between the amount determined under § 402.31(b) of this regulation and the cumulative amount previously allotted to the State by the ratio of the amount of funds available for grants to States to the sum of the differences between the amounts determined under § 402.31(b) and the amounts previously awarded to those States.
+
+[56 FR 21248, May 7, 1991]

@@ -1,0 +1,3 @@
+##### § 158.604 Request for extension. #####
+
+In circumstances in which an entity cannot prepare a response to HHS within the 30 days provided in the notice, the entity may make a written request for an extension from HHS detailing the reason for the extension request and showing good cause. If HHS grants the extension, the responsible entity must respond to the notice within the time frame specified in HHS's letter granting the extension of time. Failure to respond within 30 days, or within the extended time frame, may result in HHS's imposition of a civil monetary penalty based upon its determination of a potential violation described in § 158.602 of this subpart.

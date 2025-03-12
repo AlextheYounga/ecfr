@@ -1,0 +1,5 @@
+##### § 8.4 Director of Practice. #####
+
+(a) *Appointment.* The Secretary shall appoint the Director of Practice. In the event of the absence of the Director of Practice or a vacancy in that office, the Secretary shall designate an officer or employee of the Treasury Department to act as Director of Practice.
+
+(b) *Duties.* The Director of Practice, Office of the Secretary of the Treasury, shall: Act upon appeals from decisions of the Director denying applications for enrollment to practice before the Bureau; institute and provide for the conduct of disciplinary proceedings relating to attorneys, certified public accountants, and enrolled practitioners; make inquiries with respect to matters under his or her jurisdiction; and perform other duties as are necessary or appropriate to carry out his or her functions under this part or as are prescribed by the Secretary.

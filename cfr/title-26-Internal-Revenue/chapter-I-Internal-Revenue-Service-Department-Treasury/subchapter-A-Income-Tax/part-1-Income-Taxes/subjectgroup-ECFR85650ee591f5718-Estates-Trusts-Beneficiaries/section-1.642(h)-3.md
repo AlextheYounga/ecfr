@@ -1,0 +1,15 @@
+##### § 1.642(h)-3 Meaning of “beneficiaries succeeding to the property of the estate or trust”. #####
+
+(a) The phrase *beneficiaries succeeding to the property of the estate or trust* means those beneficiaries upon termination of the estate or trust who bear the burden of any loss for which a carryover is allowed, or of any excess of deductions over gross income for which a deduction is allowed, under section 642(h).
+
+(b) With reference to an intestate estate, the phrase means the heirs and next of kin to whom the estate is distributed, or if the estate is insolvent, to whom it would have been distributed if it had not been insolvent. If a decedent's spouse is entitled to a specified dollar amount of property before any distribution to other heirs and next of kin, and if the estate is less than that amount, the spouse is the beneficiary succeeding to the property of the estate or trust to the extent of the deficiency in amount.
+
+(c) In the case of a testate estate, the phrase normally means the residuary beneficiaries (including a residuary trust), and not specific legatees or devisees, pecuniary legatees, or other nonresiduary beneficiaries. However, the phrase does not include the recipient of a specific sum of money even though it is payable out of the residue, except to the extent that it is not payable in full. On the other hand, the phrase includes a beneficiary (including a trust) who is not strictly a residuary beneficiary but whose devise or bequest is determined by the value of the decedent's estate as reduced by the loss or deductions in question. Thus the phrase includes:
+
+(1) A beneficiary of a fraction of a decedent's net estate after payment of debts, expenses, etc.;
+
+(2) A nonresiduary legatee or devisee, to the extent of any deficiency in his legacy or devise resulting from the insufficiency of the estate to satisfy it in full;
+
+(3) A surviving spouse receiving a fractional share of an estate in fee under a statutory right of election, to the extent that the loss or deductions are taken into account in determining the share. However, the phrase does not include a recipient of dower or curtesy, or any income beneficiary of the estate or trust from which the loss or excess deduction is carried over.
+
+(d) The principles discussed in paragraph (c) of this section are equally applicable to trust beneficiaries. A remainderman who receives all or a fractional share of the property of a trust as a result of the final termination of the trust is a beneficiary succeeding to the property of the trust. For example, if property is transferred to pay the income to A for life and then to pay $10,000 to B and distribute the balance of the trust corpus to C, C and not B is considered to be the succeeding beneficiary except to the extent that the trust corpus is insufficient to pay B $10,000.

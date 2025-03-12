@@ -1,0 +1,3 @@
+##### § 312.3 Collections, investigations, and reports for the Federal Housing Administration. #####
+
+Federal savings and loan associations, when designated for employment as fiscal agents of the United States for the purpose of collecting delinquent accounts arising out of insurance and loan transactions of the Administrator under Title I of the National Housing Act (48 Stat. 1246, 1247; 12 U.S.C. 1702-1706), and making investigations and rendering reports respecting the said delinquencies as may be directed from time to time by the Administrator, shall promptly forward remittances in the form collected to the Commissioner of the Federal Housing Administration, except, that remittances received in cash should be forwarded in the form of money order or check.

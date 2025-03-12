@@ -1,0 +1,3 @@
+##### § 256.2 Where can I find more information about, and forms for, Judgment Fund payments? #####
+
+Detailed information related to Judgment Fund payments, including copies of all forms, can be found in the Treasury Financial Manual (TFM), Volume I, Part 6, Chapter 3100. The TFM is available on the Judgment Fund Web site at *http://www.fiscal.treasury.gov/judgefund.* Contact information for the Judgment Fund Branch is also available on the Web site.

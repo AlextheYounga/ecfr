@@ -1,0 +1,3 @@
+##### § 1150.8 Will failure to pay my debt affect my eligibility for Endowment programs? #####
+
+In the event that you fail to pay your debt to the Endowment within a reasonable period of time after the date of the Notice of debt, the General Counsel of the Endowment shall place your name on the Endowment's list of debarred, suspended, and ineligible contractors, grantees, and other participants in programs sponsored by the Endowment. You will be advised of this action.

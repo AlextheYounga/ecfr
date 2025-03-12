@@ -1,0 +1,7 @@
+##### § 17.4 Regulatory investigations and trial-type proceedings. #####
+
+Adverse information relating to regulatory investigations of specifically identified persons or organizations or to pending agency trial-type proceedings shall be released only in limited circumstances in accordance with the criteria outlined below:
+
+(a) Where the Department or a principal operating component determines that there is a significant risk that the public health or safety may be impaired or substantial economic harm may occur unless the public is notified immediately, it may release information to news media as one of the means of notifying the affected public speedily and accurately. However, where the Department or principal operating component determines that public harm can be avoided by immediate discontinuance of an offending practice, a respondent shall be allowed an opportunity, where feasible, to cease the practice (pending a legal test) in lieu of release of adverse information by the agency.
+
+(b) Where it is required in order to bring notice of pending agency adjudication to persons likely to desire to participate therein or likely to be affected by that or a related adjudication, the Department or principal operating component shall rely on the news media to the extent necessary to provide such notice even though it may be adverse to a respondent.

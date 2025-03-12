@@ -1,0 +1,3 @@
+##### § 594.407 Offshore transactions. #####
+
+The prohibitions in §§ 594.201 and 594.204 on transactions or dealings involving blocked property apply to transactions or dealings by any U.S. person in a location outside the United States with respect to property that the U.S. person knows, or has reason to know, is held in the name of a person whose property or interests in property are blocked pursuant to § 594.201(a) or in which the U.S. person knows, or has reason to know, a person whose property or interests in property are blocked pursuant to § 594.201(a) has or has had an interest since the effective date.

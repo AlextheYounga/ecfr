@@ -1,0 +1,9 @@
+##### § 1.401(e)-6 Special rules for shareholder-employees. #####
+
+(a) *Limitation of contributions and benefit bases to first $100,000 of annual compensation in case of plans covering shareholder-employees.* (1) Under section 401(a)(17), a plan which provides contributions or benefits for employees, some or all of whom are shareholder-employees within the meaning of section 1379(d), is subject to the same limitation on annual compensation as a plan which provides such contributions or benefits for employees some or all of whom are self-employed individuals within the meaning of section 401(c)(1). Thus, a plan which provides contributions or benefits for such shareholder-employees is subject to the rules provided by § 1.401(e)-5, unless otherwise specified. See also section 1379. In the case of plans maintained by employers that are corporations described in section 414(b) and that are described in this subparagraph (1), the same rule described in § 1.401(e)-5(a)(2) shall apply.
+
+(2) Subparagraph (1) applies to taxable years of an electing small business corporation beginning after December 31, 1975. However, if corporate contributions made under a plan on behalf of any shareholder-employee for corporate taxable years beginning after December 31, 1973, exceed the lesser of the amount of contributions specified in section 1379(b)(1) (A) or (B), as in effect on September 1, 1974, for that shareholder-employee, subparagraph (1) applies to such corporate taxable years. Thus, for example if an electing small business corporation whose taxable year is the calendar year adopted a plan on January 1, 1974, the plan would be subject to the provisions of subparagraph (1) of this section in 1974, if the corporation made a contribution in excess of $2,500 on behalf of any shareholder-employee for such year.
+
+(b) [Reserved]
+
+[T.D. 7636, 44 FR 47056, Aug. 10, 1979]

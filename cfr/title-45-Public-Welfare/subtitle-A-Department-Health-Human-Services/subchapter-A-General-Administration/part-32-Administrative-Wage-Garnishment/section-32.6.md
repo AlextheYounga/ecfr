@@ -1,0 +1,5 @@
+##### § 32.6 Withholding order. #####
+
+(a) Unless the Secretary receives information that the Secretary determines justifies a delay or cancellation of a withholding order, the Secretary shall send, by first class mail, an SF-329A “Letter to Employer & Important Notice to Employer,” an SF-329B “Wage Garnishment Order,” an SF-329C “Wage Garnishment Worksheet,” and an SF-329D “Employer Certification,” to the debtor's employer within 30 days after the debtor fails to make a timely request for a hearing, *i.e.,* within 15 business days after mailing the notice required under this part, or, if the timely request for a hearing is made by the debtor, within 30 days after a final decision is made by the Secretary to proceed with garnishment.
+
+(b) The Secretary shall keep a copy of the dated letter to the employer and a copy of the wage garnishment order. The certificate of service may be retained electronically so long as the manner of retention is sufficient for evidentiary purposes.

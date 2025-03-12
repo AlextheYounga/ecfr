@@ -1,0 +1,1 @@
+##### § 1.383-2 Limitations on certain capital losses and excess credits in computing alternative minimum tax. [Reserved] #####

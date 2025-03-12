@@ -1,0 +1,7 @@
+##### § 1.927(e)-2T Temporary regulations; effect of boycott participation on FSC and small FSC benefits. #####
+
+(a) *International boycott factor.* If the FSC (or small FSC) or any member of the FSC's (or small FSC's) controlled group participates in or cooperates with an international boycott within the meaning of section 999, the FSC's (or small FSC's) exempt foreign trade income as determined under section 923 (a) shall be reduced by an amount equal to the product of the FSC's (or small FSC's) exempt foreign trade income multiplied by the international boycott factor determined under section 999. The amount of the reduction will be considered as non-exempt foreign trade income.
+
+(b) *Specifically attributable taxes and income method.* If the taxpayer clearly demonstrates that the income earned for the taxable year is attributable to specific operations, then in lieu of applying the international boycott factor for such taxable year, the amount of the exempt foreign trade income as determined under section 923(a) that will be reduced by this section shall be the amount specifically attributable to the operations in which there was participation in or cooperation with an international boycott under section 999(b)(1). The amount of the reduction will be considered as non-exempt foreign trade income.
+
+[T.D. 8126, 52 FR 6465, Mar. 3, 1987]

@@ -1,0 +1,15 @@
+##### § 343.1 General provisions. #####
+
+(a) *Regulations.* Tax and loss bonds are subject to the general regulations with respect to United States securities, which are set forth in the Department of the Treasury Circular No. 300 (31 CFR part 306), to the extent applicable. Copies of the circular may be obtained from the Bureau of the Fiscal Service, Division of Special Investments, Room 309, 200 Third St., P.O. Box 396, Parkersburg, WV 26106-0396 or downloaded from Fiscal Service's home page on the Internet at: *http://www.fiscal.treasury.gov/.*
+
+(b) *Issuance.* Tax and loss bonds are issued in book-entry form on the books of the Treasury that are maintained by the Division of Special Investments. The bonds are issued with 10 or 20 year maturities as designated by the purchaser. These bonds are non-interest bearing. Any transfer by sale, exchange, assignment, pledge or otherwise, is prohibited. The bonds may be reissued as provided in § 343.4.
+
+(c) *Fiscal agents.* Selected Federal Reserve Banks and Branches, as fiscal agents of the United States, may be designated to perform such services requested of them by the Secretary of the Treasury in connection with the purchase, redemption and other transactions involving these bonds.
+
+(d) *Debt limit contingency.* The Department of the Treasury reserves the right to change or suspend the terms and conditions of this offering, including provisions relating to the purchase of, and redemption of, the bonds as well as notices relating hereto, at any time the Secretary determines that the issuance of obligations sufficient to conduct the orderly financing operations of the United States cannot be made without exceeding the statutory debt limit. Announcement of such changes shall be provided by such means as the Secretary deems appropriate.
+
+(e) *General redemption provisions.* A bond may not be called for redemption by the Secretary of the Treasury prior to maturity. When the bond matures, payment will be made of the principal amount due to the owner. A bond scheduled for maturity on a non-business day will be redeemed on the next business day.
+
+(f) *Reservations.* The Secretary of the Treasury may at any time, or from time to time, supplement or amend the terms of this circular or any related amendments or supplements. Transaction requests, including purchases or redemptions of bonds, are not acceptable if unsigned, inappropriately completed, or not timely submitted. Any of these actions shall be final. The authority of the Secretary to waive regulations under 31 CFR 306.126 applies to part 343.
+
+(g) *Forms and additional information.* The application form for subscriptions, Fedwire instructions and other information will be furnished by the Division of Special Investments upon request by writing to the Division of Special Investments or by calling (304) 480-7752. Application forms may also be downloaded from the Internet at Fiscal Service's home page at: *http://www.fiscal.treasury.gov/.*

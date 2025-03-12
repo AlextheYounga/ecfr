@@ -1,0 +1,5 @@
+##### § 1.170-0 Effective dates. #####
+
+Except as otherwise provided in this section, the provisions of section 170 and §§ 1.170-1 through 1.170-3 are applicable to contributions paid in taxable years beginning before January 1, 1970, and all references therein to sections of the Code are to sections of the Internal Revenue Code of 1954 prior to the amendments made by section 201(a) of the Tax Reform Act of 1969 (83 Stat. 549). Except as otherwise provided therein, §§ 1.170A through 1.170A-11 are applicable to contributions paid in taxable years beginning after December 31, 1969. In a case where a provision in §§ 1.170A through 1.170A-11 is applicable to a contribution paid in a taxable year beginning before January 1, 1970, such provision shall apply to the contribution and §§ 1.170-1 through 1.170-3 shall not apply to the contribution.
+
+[T.D. 7207, 37 FR 20767, Oct. 5, 1972]

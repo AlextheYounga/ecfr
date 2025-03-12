@@ -1,0 +1,5 @@
+##### § 1.6049-7T Market discount fraction reported with other financial information with respect to REMICs and collateralized debt obligations (temporary). #####
+
+For purposes of § 1.6049-7(f)(2)(i)(G)(*1*) relating to the market discount fraction to be reported with other financial information with respect to REMICs and other collateralized debt obligations, if the REMIC regular interest or the collateralized debt obligation has de minimis original issue discount (as defined in section 1273(a)(3) and any regulations thereunder), then, at the option of the REMIC or the issuer of the collateralized debt obligation, a fraction computed in the manner specified in paragraph (f)(2)(ii)(K) of this section taking into account the de minimis original issue discount may be reported instead of the fraction specified in § 1.6049-7(f)(2)(i)(G)(*1*)(*i*). The REMIC or the issuer of the collateralized debt obligation, however, must be consistent in the method used to compute this fraction.
+
+[T.D. 8366, 56 FR 49518, Sept. 30, 1991]

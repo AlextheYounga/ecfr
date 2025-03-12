@@ -1,0 +1,3 @@
+##### § 20.2031-9 Valuation of other property. #####
+
+The valuation of any property not specifically described in §§ 20.2031-2 to 20.2031-8 is made in accordance with the general principles set forth in § 20.2031-1. For example, a future interest in property not subject to valuation in accordance with the actuarial principles set forth in § 20.2031-7 is to be valued in accordance with the general principles set forth in § 20.2031-1.

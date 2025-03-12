@@ -1,0 +1,5 @@
+##### § 60.2 Applicability. #####
+
+The regulations in this part establish reporting requirements applicable to hospitals, health care entities, Boards of Medical Examiners, and professional societies of health care practitioners which take adverse licensure or professional review actions; state licensing or certification authorities, peer review organizations, and private accreditation entities that take licensure or certification actions or negative actions or findings against health care practitioners, health care entities, providers, or suppliers; entities (including insurance companies) making payments as a result of medical malpractice actions or claims; and Federal government agencies, state law and fraud enforcement agencies and health plans that take final adverse actions against health care practitioners, providers, and suppliers. They also establish procedures to enable individuals or entities to obtain information from the NPDB or to dispute the accuracy of NPDB information.
+
+[78 FR 20484, Apr. 5, 2013, 78 FR 25860, May 6, 2013]

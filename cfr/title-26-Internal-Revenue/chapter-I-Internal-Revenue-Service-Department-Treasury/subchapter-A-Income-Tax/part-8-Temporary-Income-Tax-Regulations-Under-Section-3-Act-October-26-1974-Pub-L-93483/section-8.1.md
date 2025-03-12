@@ -1,0 +1,7 @@
+##### § 8.1 Charitable remainder trusts. #####
+
+(a) *Certain wills and trusts in existence on September 21, 1974.* In the case of a will executed before September 21, 1974, or a trust created (within the meaning of applicable local law) after July 31, 1969, and before September 21, 1974, which is amended pursuant to section 2055(e)(3) and § 24.1 of this chapter (Temporary Estate Tax Regulations), a charitable remainder trust resulting from such amendment will be treated as a charitable remainder trust from the date it would be deemed created under § 1.664-1(a) (4) and (5) of this chapter (Income Tax Regulations), whether or not such date is after September 20, 1974.
+
+(b) *Certain transfers to trusts created before August 1, 1969.* Property transferred to a trust created (within the meaning of applicable local law) before August 1, 1969, whose governing instrument provides that an organization described in section 170(c) receives an irrevocable remainder interest in such trust shall be deemed transferred to a trust created on the date of such transfer, provided that the transfer occurs after July 31, 1969 and prior to October 18, 1971, and pursuant to an amendment provided in § 24.1 of this chapter (Temporary Estate Tax Regulations), the transferred property and any undistributed income therefrom is severed and placed in a separate trust as of the date of the amendment.
+
+[T.D. 7393, 40 FR 58853, Dec. 19, 1975]

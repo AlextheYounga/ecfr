@@ -1,0 +1,3 @@
+##### § 650.17 Subcontracts. #####
+
+As provided in paragraph (g) of the Patent Rights clause in § 650.4(a), awardees should normally use that clause in all subcontracts. At the request of the awardee or subcontractor or on recommendation from NSF staff, the cognizant Grants or Contracts Officer may direct the awardee to insert into subcontracts relating to scientific research a special patent provision negotiated under § 650.5.

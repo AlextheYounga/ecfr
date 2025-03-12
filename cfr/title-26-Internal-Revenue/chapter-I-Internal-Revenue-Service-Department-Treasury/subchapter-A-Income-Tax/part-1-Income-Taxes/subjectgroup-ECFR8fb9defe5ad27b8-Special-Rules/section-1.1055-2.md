@@ -1,0 +1,5 @@
+##### § 1.1055-2 Determination of amount realized on the transfer of the right to hold real property subject to liabilities under a redeemable ground rent. #####
+
+In determining the amount realized from a transfer, occurring on or after April 11, 1963, of the right to hold real property subject to liabilities under a redeemable ground rent, such ground rent shall be accounted for in the same manner as a mortgage for an amount of money equal to the redemption price of the ground rent. The provisions of this section apply in respect of any such transfer even though such ground rent was created prior to April 11, 1963. For provisions relating to the determination of the amount of and recognition of gain or loss from the sale or other disposition of property, see section 1001 and the regulations thereunder.
+
+[T.D. 6821, 30 FR 6217, May 4, 1965]

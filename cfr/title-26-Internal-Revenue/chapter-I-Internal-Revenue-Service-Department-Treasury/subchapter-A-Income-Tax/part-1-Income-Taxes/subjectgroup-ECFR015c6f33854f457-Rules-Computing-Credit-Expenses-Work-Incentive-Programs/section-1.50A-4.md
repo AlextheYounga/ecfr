@@ -1,0 +1,89 @@
+##### § 1.50A-4 Exceptions to the application of § 1.50A-3. #####
+
+(a) *In general.* Notwithstanding the provisions of paragraph (a) of § 1.50A-3, a termination of employment shall not be deemed to occur if paragraph (b) (relating to voluntary termination of employment), paragraph (c) (relating to termination of employment due to disability), paragraph (d) (relating to termination of employment due to misconduct), paragraph (f) (relating to transactions to which section 381(a) applies), or paragraph (g) (relating to mere change in form of conducting a trade or business) applies.
+
+(b) *Voluntary termination of employment.* A termination of employment shall not be deemed to occur for purposes of paragraph (a) of § 1.50A-3 if the employee voluntarily leaves the employment of the taxpayer. If the taxpayer makes the working conditions of the employee so untenable that the employee is, in effect, compelled by the taxpayer to quit, or if the employee is coerced into quitting, the employee will not be deemed to have voluntarily left the employment of the taxpayer. For purposes of the preceding sentence, a substantial reduction in the benefits of employment of an employee (such as a substantial decrease in the hours of the employee's working week) shall constitute untenable working conditions. An employee has voluntarily left the employment of the taxpayer if he leaves for any reason external to his employment, such as sickness or death in the employee's family which the employee feels necessitates his quitting work with the taxpayer to remain at home. Any employee who participates in an authorized strike (as finally determined by a court, labor relations administrative body, or arbiter) will not be deemed to have voluntarily left the employment of the taxpayer.
+
+(c) *Termination of employment due to death or disability.* A termination of employment shall not be deemed to occur for purposes of paragraph (a) of § 1.50A-3 if, after the initial date of employment (as defined in paragraph (c)(1) of § 1.50A-3) and before the close of the period referred to in paragraph (a)(1) of § 1.50A-3, the employee becomes disabled, by reason of illness or injury (including a disability relating to the employment), to perform the services required by such employment, unless, before the close of such period:
+
+(1) Such disability is removed,
+
+(2) The employer knows of the removal of the disability, and
+
+(3) The employer fails to offer reemployment to such employee.
+
+The death of an employee shall not be deemed a termination of employment for purposes of paragraph (a) of § 1.50A-3.
+
+(d) *Termination of employment due to misconduct.* A termination of employment shall not be deemed to occur for purposes of paragraph (a) of § 1.50A-3 if it is determined by the appropriate State administrative agency or State court that under the applicable State unemployment compensation law such termination was due to the misconduct of the WIN employee. If the WIN employee is not covered by the applicable State unemployment compensation law (or if the employee did not work for the minimum period required to qualify for unemployment compensation or if the employee did not apply for unemployment compensation), a termination of employment shall not be deemed to occur for purposes of paragraph (a) of § 1.50A-3 if the taxpayer demonstrates by convincing evidence that, were such employee covered by the applicable State unemployment compensation law (or if the employee had worked for such minimum period or if the employee had applied for unemployment compensation), he could reasonably have been found by such administrative agency or court to have been terminated for misconduct.
+
+(e) *Recordkeeping requirement.* A taxpayer who is claiming that a termination of employment falls within the provisions of paragraph (b), (c), or (d) of this section shall maintain sufficient records to support his claim until the expiration of the pertinent period of limitations.
+
+(f) *Transactions to which section 381(a) applies*—(1) *General rule.* The employment relationship between the taxpayer and a WIN employee (as defined in paragraph (h) of § 1.50B-1) shall not be deemed terminated for purposes of paragraph (a) of § 1.50A-3 in the case of a transaction to which section 381(a) (relating to carryovers in certain corporate acquisitions) applies. If there is a termination of employment (within the meaning of paragraph (a) of § 1.50A-3 and this section) by the acquiring corporation with respect to the WIN employee described in the preceding sentence, or if the acquiring corporation fails to pay comparable wages to such employee (within the meaning of paragraph (a)(2) of § 1.50A-3), then paragraph (a)(3) of § 1.50A-3 shall apply to the acquiring corporation with respect to the credit allowed the acquired corporation as well as the credit allowed the acquiring corporation with respect to such employee. For purposes of the preceding sentence, the initial date of employment (as defined in paragraph (c)(1) of § 1.50A-3) of such employee with respect to the acquired corporation shall be deemed to be the initial date of employment of such employee with respect to the acquiring corporation and employment by the acquired corporation shall be deemed employment by the acquiring corporation.
+
+(2) *Examples.* This paragraph may be illustrated by the following examples:
+
+Example 1.(i) X Corporation, a wholly owned subsidiary of Y Corporation, incurred WIN expenses of $12,000 for its taxable year ending December 31, 1972, with respect to WIN employees hired on March 1, 1972. Both X and Y made their returns on the basis of a calendar year. For the taxable year 1972 X Corporation's credit earned of $2,400 (20 percent of $12,000) was allowed under section 40 as a credit against its liability for tax. On December 15, 1973, X Corporation is liquidated under section 332 and all of its assets and liabilities are transferred to Y Corporation in a transaction to which section 334(b)(2) is not applicable. In addition, Y Corporation continues the employment of the WIN employees which were employed by X Corporation and with respect to which X Corporation was allowed the credit for its taxable year 1972.
+
+(ii) Under subparagraph (1) of this paragraph, a termination of employment of the WIN employees shall not be deemed to occur for purposes of paragraph (a)(1) of § 1.50A-3 due to the liquidation of X Corporation on December 15, 1973. Thus, no recapture determination under paragraph (a)(3) of § 1.50A-3 shall be made with respect to X Corporation.
+
+Example 2.(i) The facts are the same as in Example 1 and, in addition, on February 2, 1974, Y Corporation terminates the employment of the employees with respect to whom X Corporation had incurred WIN expenses. The termination is a termination for purposes of paragraph (a)(1) of § 1.50A-3. For purposes of applying the period described in paragraph (a)(1) of § 1.50A-3, the date the employees reported for work at X Corporation is deemed to be the initial date of employment of the employees with respect to Y Corporation.
+
+(ii) Under subparagraph (1) of this paragraph, a termination of employment of the WIN employees shall not be deemed to occur for purposes of paragraph (a)(1) of § 1.50A-3 due to the liquidation of X Corporation on December 15, 1973. However, a termination of employment of the WIN employees is deemed to occur for purposes of paragraph (a)(1) of § 1.50A-3 on February 2, 1974. Thus, Y Corporation shall make a recapture determination under paragraph (a) of § 1.50A-3 with respect to the credit allowed X Corporation with respect to the WIN employees.
+
+(g) *Mere change in form of conducting a trade or business*—(1) *General rule.* (i) The employment relationship between the taxpayer and a WIN employee (as defined in paragraph (h) of § 1.50B-1) shall not be deemed terminated for purposes of paragraph (a) of § 1.50A-3 in the case of a mere change in the form of conducting the trade or business in which such employment occurs, provided that the conditions set forth in subdivision (ii) of this subparagraph are satisfied.
+
+(ii) The conditions referred to in subdivision (i) of this subparagraph are as follows:
+
+(*a*) The WIN employee described in subdivision (i) of this subparagraph is retained in the same trade or business,
+
+(*b*) The taxpayer retains a substantial ownership interest in such trade or business,
+
+(*c*) Substantially all the assets necessary to operate such trade or business are transferred to the transferee who continues the employment of the WIN employee described in subdivision (i) of this subparagraph, and
+
+(*d*) The basis of the assets described in (*c*) of this subdivision in the hands of the transferee is determined in whole or in part by reference to the basis of such assets in the hands of the transferor.
+
+This subparagraph shall not apply if paragraph (e) of this section (relating to transactions to which section 381(a) applies) is applicable with respect to such transfer.
+
+(2) *Substantial interest.* For purposes of this paragraph, the taxpayer shall be considered as having retained a substantial ownership interest in the trade or business only if, after the change in form, the ownership interest in such trade or business by such taxpayer—
+
+(i) Is substantial in relation to the total ownership interests of all persons, or
+
+(ii) Is equal to or greater than the ownership interest prior to the change in form.
+
+Thus, where a taxpayer owns a 5-percent interest in a partnership, and, after the incorporation of that partnership, the taxpayer retains at least a 5-percent interest in the corporation, the taxpayer will be considered as having retained a substantial interest in the trade or business as of the date of the change in form because of the application of the rule contained in subdivision (ii) of this subparagraph.
+
+(3) *Termination of employment.* (i) If employment of a WIN employee described in subparagraph (1)(i) of this paragraph is terminated by the transferee, the employment of such employee shall be deemed terminated by the taxpayer for purposes of paragraph (a) of § 1.50A-3. For purposes of determining the period described in paragraph (a)(1) of § 1.50A-3 with respect to such taxpayer employment by the transferee shall be deemed employment by the transferor.
+
+(ii) If in any taxable year the taxpayer does not retain a substantial ownership interest in the trade or business directly or indirectly (through ownership in other entities provided that such other entities' bases in such interest are determined in whole or in part by reference to the basis of such interest in the hands of the taxpayer) then, for purposes of paragraph (a)(1) of § 1.50A-3, there shall be deemed to be a termination of employment of the WIN employees described in subparagraph (1)(i) of this paragraph on the first date on which such taxpayer does not retain a substantial interest in the trade or business. For purposes of determining the period described in paragraph (a)(1) of § 1.50A-3, employment by the transferee shall be deemed employment by the transferor. Any taxpayer who seeks to establish his interest in a trade or business under the rule of this subdivision shall maintain adequate records to demonstrate his indirect interest in such trade or business after any such transfer or transfers.
+
+(iii) Notwithstanding subparagraph (1) of this paragraph and subdivision (ii) of this subparagraph in the case of a mere change in the form of a trade or business, if the interest of a taxpayer in the trade or business is reduced but such taxpayer has retained a substantial interest in such trade or business, paragraph (a)(2) of § 1.50A-5 (relating to electing small business corporations), paragraph (a)(2) of § 1.50A-6 (relating to estates or trusts), or paragraph (a)(2)(ii) of § 1.50A-7 (relating to partnerships) shall apply, as the case may be.
+
+(4) *Failure to pay comparable wages.* If the transferee fails to pay comparable wages (within the meaning of paragraph (a)(2) of § 1.50A-3) to the WIN employee within the period described in paragraph (a)(1) of § 1.50A-3, then such failure shall be deemed to be a failure of the transferor (or in a case where the transferor is a partnership, estate, trust, or electing small business corporation, the partners, beneficiaries, or shareholders), and a recapture determination shall be made with respect to such WIN employee as provided in § 1.50A-3. For purposes of determining the period described in paragraph (a)(1) of § 1.50A-3 with respect to such transferor (or such partners, beneficiaries, or shareholders), employment by the transferee shall be deemed employment by such transferor. For special rules in the case of an electing small business corporation (as defined in section 1371(b)), an estate or trust, or a partnership, see respectively, § 1.50A-5, § 1.50A-6, or § 1.50A-7.
+
+(5) *Examples.* This paragraph may be illustrated by the following examples in each of which it is assumed that the transfer satisfies the conditions of subparagraphs (1)(ii) (*a*), (*c*) and (*d*) of this paragraph.
+
+Example 1.(i) On January 1, 1972, A, an individual, employed WIN employees in his sole proprietorship. A incurred WIN expenses with respect to these employees of $12,000 for the taxable year ending December 31, 1972. For the taxable year 1972 A's credit earned of $2,400 (20 percent of $12,000) was allowed under section 40 as a credit against his liability for tax. On March 15, 1973, A transferred all of the assets used in his sole proprietorship to X Corporation, a newly formed corporation, in exchange for 45 percent of the stock of X Corporation.
+
+(i) Under subparagraph (1)(i) of this paragraph, paragraph (a) of § 1.50A-3 does not apply to the March 15, 1973, transfer to X Corporation.
+
+Example 2.(i) The facts are the same as in Example 1 and in addition on June 1, 1973, X Corporation terminates the employment of WIN employees with respect to whom 50 percent of the WIN expenses were incurred during A's 1972 taxable year.
+
+(ii) Under subparagraph (1)(i) of this paragraph, paragraph (a) of § 1.50A-3 does not apply to the March 15, 1973, transfer to X Corporation. However, under subparagraph (3)(i) of this paragraph, paragraph (a) of § 1.50A-3 applies to the June 1, 1973, termination of WIN employees by X Corporation. The actual period of employment of such WIN employees is 1 year and 5 months (that is, the period beginning on January 1, 1972, and ending on June 1, 1973). For taxable year 1972, A's recomputed credit earned is $1,200 (20 percent of $6,000). The income tax imposed by chapter 1 of the Code on A for the taxable year 1973 is increased by the $1,200 decrease in his credit earned for the taxable year 1972 (that is, $2,400 original credit earned minus $1,200 recomputed credit earned).
+
+Example 3.(i) The facts are the same as in Example 1 and in addition on April 1, 1973, X Corporation begins paying wages to the employees referred to in Example 1 which are less than the wages paid to its other employees who perform comparable services.
+
+(ii) Under subparagraph (1)(i) of this paragraph, paragraph (a)(1) of § 1.50A-3 does not apply to the March 15, 1973, transfer to X Corporation. However, under subparagraph (4) of this paragraph, paragraph (a) of § 1.50A-3 applies to the failure of X Corporation to pay wages to the WIN employees which are equal to the wages paid to its other employees who perform comparable services. For taxable year 1972, A's recomputed credit earned is zero. The income tax imposed by chapter 1 of the Code on A for the taxable year 1973 is increased by the $2,400 decrease in his credit earned for the taxable year 1972.
+
+Example 4.(i) On January 1, 1972, partnership ABC, which makes its returns on the basis of a calendar year, employed WIN employees. Partnership ABC incurred WIN expenses with respect to these employees of $20,000 for the taxable year. Partnership ABC has 10 partners who make their returns on the basis of a calendar year and share partnership profits equally. Each partner's share of the WIN expenses is 10 percent, that is, $2,000. On March 15, 1973, partnership ABC transfers all of the assets used in its trade or business to the X Corporation, a newly formed corporation, in exchange for its stock and immediately thereafter transfers 10 percent of the stock to each of the 10 partners.
+
+(ii) Under subparagraph (1)(i) of this paragraph, paragraph (a)(1) of § 1.50A-1 does not apply to the March 15, 1973, transfer by the ABC Partnership to X Corporation.
+
+Example 5.(i) The facts are the same as in Example 4 except that partnership ABC transfers 10 percent of the stock in X Corporation to each of eight partners, 20 percent to partner A, and cash to partner B.
+
+(ii) Under subparagraph (1)(i) of this paragraph, with respect to all of the partners (including partner A) except partner B, paragraph (a)(1) of § 1.50A-3 does not apply to the March 15, 1973, transfer by the ABC Partnership. Paragraph (a)(1) of § 1.50A-3 applies with respect to partner B's $2,000 share of the WIN expenses. See paragraph (a)(2) of § 1.50A-7.
+
+Example 6.(i) X Corporation operates a manufacturing business and a separate retail sales business. During the month of January 1972, X incurred WIN expenses in its manufacturing business. On February 10, 1973, X transfers all the assets used in its manufacturing business to Partnership XY in exchange for a 50 percent interest in such partnership.
+
+(ii) Under subparagraph (1)(i) of this paragraph, paragraph (a)(1) of § 1.50A-3 does not apply to the February 10, 1973, transfer to Partnership XY.
+
+[T.D. 7263, 38 FR 6156, Mar. 7, 1973; 38 FR 8656, Apr. 5, 1973]

@@ -1,0 +1,19 @@
+##### § 31.3401(c)-1 Employee. #####
+
+(a) The term *employee* includes every individual performing services if the relationship between him and the person for whom he performs such services is the legal relationship of employer and employee. The term includes officers and employees, whether elected or appointed, of the United States, a State, Territory, Puerto Rico, or any political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing.
+
+(b) Generally the relationship of employer and employee exists when the person for whom services are performed has the right to control and direct the individual who performs the services, not only as to the result to be accomplished by the work but also as to the details and means by which that result is accomplished. That is, an employee is subject to the will and control of the employer not only as to what shall be done but how it shall be done. In this connection, it is not necessary that the employer actually direct or control the manner in which the services are performed; it is sufficient if he has the right to do so. The right to discharge is also an important factor indicating that the person possessing that right is an employer. Other factors characteristic of an employer, but not necessarily present in every case, are the furnishing of tools and the furnishing of a place to work to the individual who performs the services. In general, if an individual is subject to the control or direction of another merely as to the result to be accomplished by the work and not as to the means and methods for accomplishing the result, he is not an employee.
+
+(c) Generally, physicians, lawyers, dentists, veterinarians, contractors, subcontractors, public stenographers, auctioneers, and others who follow an independent trade, business, or profession, in which they offer their services to the public, are not employees.
+
+(d) Whether the relationship of employer and employee exists will in doubtful cases be determined upon an examination of the particular facts of each case.
+
+(e) If the relationship of employer and employee exists, the designation or description of the relationship by the parties as anything other than that of employer and employee is immaterial. Thus, if such relationship exists, it is of no consequence that the employee is designated as a partner, coadventurer, agent, independent contractor, or the like.
+
+(f) All classes or grades of employees are included within the relationship of employer and employee. Thus, superintendents, managers and other supervisory personnel are employees. Generally, an officer of a corporation is an employee of the corporation. However, an officer of a corporation who as such does not perform any services or performs only minor services and who neither receives nor is entitled to receive, directly or indirectly, any remuneration is not considered to be an employee of the corporation. A director of a corporation in his capacity as such is not an employee of the corporation.
+
+(g) The term *employee* includes every individual who receives a supplemental unemployment compensation benefit which is treated under paragraph (b)(14) of § 31.3401(a)-1 as if it were wages.
+
+(h) Although an individual may be an employee under this section, his services may be of such a nature, or performed under such circumstances, that the remuneration paid for such services does not constitute wages within the meaning of section 3401(a).
+
+[T.D. 6516, 25 FR 13096, Dec. 20, 1960, as amended by T.D. 7068, 35 FR 17329, Nov. 11, 1970]

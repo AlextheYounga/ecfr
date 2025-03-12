@@ -1,0 +1,3 @@
+##### § 1635.4 Administrative provisions. #####
+
+Time records required by this section shall be available for examination by auditors and representatives of LSC, and by any other person or entity statutorily entitled to access to such records. LSC shall not disclose any time record except to a Federal, State or local law enforcement official or to an official of an appropriate bar association for the purpose of enabling such bar association official to conduct an investigation of an alleged violation of the rules of professional conduct.

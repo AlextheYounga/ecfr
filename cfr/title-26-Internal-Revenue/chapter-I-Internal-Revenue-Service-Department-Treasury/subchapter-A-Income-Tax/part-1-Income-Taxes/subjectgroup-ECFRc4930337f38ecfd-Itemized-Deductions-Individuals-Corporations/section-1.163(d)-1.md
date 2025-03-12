@@ -1,0 +1,11 @@
+##### § 1.163(d)-1 Time and manner for making elections under the Omnibus Budget Reconciliation Act of 1993 and the Jobs and Growth Tax Relief Reconciliation Act of 2003. #####
+
+(a) *Description.* Section 163(d)(4)(B)(iii), as added by section 13206(d) of the Omnibus Budget Reconciliation Act of 1993 (Pub. L. 103-66, 107 Stat. 467), allows an electing taxpayer to take all or a portion of certain net capital gain attributable to dispositions of property held for investment into account as investment income. Section 163(d)(4)(B), as amended by section 302(b) of the Jobs and Growth Tax Relief Reconciliation Act of 2003 (Pub. L. 108-27, 117 Stat. 762), allows an electing taxpayer to take all or a portion of qualified dividend income, as defined in section 1(h)(11)(B), into account as investment income. As a consequence, the net capital gain and qualified dividend income taken into account as investment income under these elections are not eligible to be taxed at the capital gains rates. An election may be made for net capital gain recognized by noncorporate taxpayers during any taxable year beginning after December 31, 1992. An election may be made for qualified dividend income received by noncorporate taxpayers during any taxable year beginning after December 31, 2002, but before January 1, 2009.
+
+(b) *Time and manner for making the elections.* The elections for net capital gain and qualified dividend income must be made on or before the due date (including extensions) of the income tax return for the taxable year in which the net capital gain is recognized or the qualified dividend income is received. The elections are to be made on Form 4952, “Investment Interest Expense Deduction,” in accordance with the form and its instructions.
+
+(c) *Revocability of elections.* The elections described in this section are revocable with the consent of the Commissioner.
+
+(d) *Effective date.* The rules set forth in this section regarding the net capital gain election apply beginning December 12, 1996. The rules set forth in this section regarding the qualified dividend income election apply to any taxable year beginning after December 31, 2002, but before January 1, 2009.
+
+[T.D. 9191, 70 FR 13100, Mar. 18, 2005]

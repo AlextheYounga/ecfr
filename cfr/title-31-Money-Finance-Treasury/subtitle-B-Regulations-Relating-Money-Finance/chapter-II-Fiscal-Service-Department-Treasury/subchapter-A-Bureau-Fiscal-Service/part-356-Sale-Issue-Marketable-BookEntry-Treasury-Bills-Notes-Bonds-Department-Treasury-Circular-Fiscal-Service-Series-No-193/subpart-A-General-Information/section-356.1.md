@@ -1,0 +1,3 @@
+##### § 356.1 To which securities does this circular apply? #####
+
+The provisions in this part, including the appendices, and each individual auction announcement govern the sale and issuance of marketable Treasury securities issued on or after March 1, 1993. This part also governs all securities eligible for the STRIPS (Separate Trading of Registered Interest and Principal of Securities) Program (See § 356.31.). In addition, these provisions and the auction announcements govern any other types of securities we may issue under this part.

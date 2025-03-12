@@ -1,0 +1,5 @@
+##### § 1.151-4 Amount of deduction for each exemption under section 151. #####
+
+The amount allowed as a deduction for each exemption under section 151 is (a) $750 in the case of a taxable year beginning after December 31, 1972; (b) $700 in the case of a taxable year beginning after December 31, 1971, and before January 1, 1973; (c) $650 in the case of a taxable year beginning after December 31, 1970, and before January 1, 1972; (d) $625 in the case of a taxable year beginning after December 31, 1969, and before January 1, 1971; and (e) $600 in the case of a taxable year beginning before January 1, 1970. For special rules in the case of a fiscal year ending after December 31, 1969, and beginning before January 1, 1973, see section 21(d) and the regulations thereunder.
+
+[T.D. 7114, 36 FR 9019, May 18, 1971]

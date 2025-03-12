@@ -1,0 +1,9 @@
+##### § 206.6 Cash management planning and review. #####
+
+(a) An agency shall periodically perform cash management reviews to identify areas needing improvement.
+
+(b) As part of its cash management review process, an agency is expected to document cash flows in order to provide an overview of its cash management activities and to identify areas that will yield savings after cash management initiatives are implemented. The Service will evaluate an agency's EFT policy and application, to include mitigating circumstances that may prevent the use of EFT, as part of the cash management reviews.
+
+(c) An agency's cash management reviews will provide the basis for identification of improvements and preparation of cash flow reports for submission to the Service as prescribed by I TFM 6-8000. That Chapter provides requirements for an agency in performing periodic cash management reviews, identifying improvements, and preparing cash flow reports. In addition, the Chapter describes the timing and content of periodic reports that must be submitted by an agency to the Service on progress made in implementing cash management initiatives and associated savings.
+
+(d) The Service will periodically review an agency's cash management program to ensure that adequate progress is being made to improve overall cash management at an agency. As part of its oversight authority, the Service may visit an agency and review all or specific cash management activities of an agency. An agency will be notified in advance of the Service's review and will be required to provide the Service with documentation of the agency cash management review within the timeframes required by I TFM 6-8000.

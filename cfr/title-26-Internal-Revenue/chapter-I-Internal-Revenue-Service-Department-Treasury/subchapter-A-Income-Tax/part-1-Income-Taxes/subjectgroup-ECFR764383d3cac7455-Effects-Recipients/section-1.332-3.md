@@ -1,0 +1,3 @@
+##### § 1.332-3 Liquidations completed within one taxable year. #####
+
+If in a liquidation completed within one taxable year pursuant to a plan of complete liquidation, distributions in complete liquidation are received by a corporation which owns the specified amount of stock in the liquidating corporation and which continues qualified with respect to the ownership of such stock until the transfer of all the property within such year is completed (see paragraph (a) of § 1.332-2), then no gain or loss shall be recognized with respect to the distributions received by the recipient corporation. In such case no waiver or bond is required of the recipient corporation under section 332.

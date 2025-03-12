@@ -1,0 +1,5 @@
+##### § 1.723-1 Basis of property contributed to partnership. #####
+
+The basis to the partnership of property contributed to it by a partner is the adjusted basis of such property to the contributing partner at the time of the contribution. Since such property has the same basis in the hands of the partnership as it had in the hands of the contributing partner, the holding period of such property for the partnership includes the period during which it was held by the partner. See section 1223(2). For elective adjustments to the basis of partnership property arising from distributions or transfers of partnership interests, see sections 732(d), 734(b), and 743(b). See § 1.460-4(k)(3)(iv)(B)(*2*) for rules relating to adjustments to the basis of contracts accounted for using a long-term contract method of accounting that are acquired in certain contributions to which section 721(a) applies.
+
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960; 25 FR 14021, Dec. 31, 1960, as amended by T.D. 9137, 69 FR 42558, July 16, 2004]

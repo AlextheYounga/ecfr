@@ -1,0 +1,3 @@
+##### § 542.409 Credit extended and cards issued by U.S. financial institutions. #####
+
+The prohibition in § 542.201 on dealing in property subject to that section and the prohibition in § 542.207 on exporting services to Syria prohibit U.S. financial institutions from performing under any existing credit agreements, including, but not limited to, charge cards, debit cards, or other credit facilities issued by a U.S. financial institution to the Government of Syria or any other person whose property and interests in property are blocked pursuant to § 542.201(a).

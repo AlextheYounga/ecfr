@@ -1,0 +1,11 @@
+##### § 1627.2 Definitions. #####
+
+(a) *Recipient* as used in this part means any recipient as defined in section 1002(6) of the Act *and* any grantee or contractor receiving funds from the Corporation under section 1006(a)(1)(B) or 1006(a)(3) of the Act.
+
+(b)(1) *Subrecipient* shall mean any entity that accepts Corporation funds from a recipient under a grant contract, or agreement to conduct certain activities specified by or supported by the recipient related to the recipient's programmatic activities. Such activities would normally include those that might otherwise be expected to be conducted directly by the recipient itself, such as representation of eligible clients, or which provide direct support to a recipient's legal assistance activities or such activities as client involvement, training or state support activities. Such activities would not normally include those that are covered by a fee-for-service arrangement, such as those provided by a private law firm or attorney representing a recipient's clients on a contract or judicare basis, except that any such arrangement involving more than $25,000 shall be included. Subrecipient activities would normally also not include the provision of goods or services by vendors or consultants in the normal course of business if such goods or services would not be expected to be provided directly by the recipient itself, such as auditing or business machine purchase and/or maintenance. A single entity could be a subrecipient with respect to some activities it conducts for a recipient while not being a subrecipient with respect to other activities it conducts for a recipient.
+
+(2) *Subgrant* shall mean any transfer of Corporation funds from a recipient which qualifies the organization receiving such funds as a subrecipient under the definition set forth in paragraph (b)(1) of this section.
+
+(c) *Membership fees or dues* as used in this part means payments to an organization on behalf of a program or individual to be a member thereof, or to acquire voting or participatory rights therein.
+
+[48 FR 54209, Nov. 30, 1983, as amended at 61 FR 45754, Aug. 29, 1996; 62 FR 19418, Apr. 21, 1997]

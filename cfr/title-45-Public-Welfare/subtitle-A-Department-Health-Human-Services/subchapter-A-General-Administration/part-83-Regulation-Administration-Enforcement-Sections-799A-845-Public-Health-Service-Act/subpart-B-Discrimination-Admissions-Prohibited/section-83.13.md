@@ -1,0 +1,3 @@
+##### § 83.13 State law and licensure requirements. #####
+
+The obligation of an entity to comply with this part is not obviated or alleviated by any State or local law which would render an applicant for or student enrolled in a training program ineligible on the basis of sex for any license or certificate requisite to the practice of the health profession for which such applicant seeks, or student pursues, training.

@@ -1,0 +1,17 @@
+##### § 1150.42 What procedures will the Endowment use to collect amounts I owe to a Federal agency by offsetting a payment that the Endowment would otherwise make to me? #####
+
+(a) Any Federal agency may request that the Endowment administratively offset funds due and payable to you in order to collect a debt you owe to that agency. The Endowment will initiate the requested offset only upon:
+
+(1) Receipt of written certification from the creditor agency stating:
+
+(i) That you owe the debt;
+
+(ii) The amount and basis of the debt;
+
+(iii) That the agency has prescribed regulations for the exercise of administrative offset; and
+
+(iv) That the agency has complied with its own administrative offset regulations and with the applicable provisions of the Federal Claims Collection Standards, including providing you with any required hearing or review; and
+
+(2) A determination by the Chairperson that offsetting funds payable to you by the Endowment in order to collect a debt owed by you would be in the best interest of the United States as determined by the facts and circumstances of the particular case, and that such an offset would not otherwise be contrary to law.
+
+(b) *Multiple debts.* In instances where two or more creditor agencies are seeking administrative offsets, or where two or more debts are owed to a single creditor agency, the Endowment may, in its discretion, allocate the amount it owes to you to the creditor agencies in accordance with the best interest of the United States as determined by the facts and circumstances of the particular case, paying special attention to applicable statutes of limitations.

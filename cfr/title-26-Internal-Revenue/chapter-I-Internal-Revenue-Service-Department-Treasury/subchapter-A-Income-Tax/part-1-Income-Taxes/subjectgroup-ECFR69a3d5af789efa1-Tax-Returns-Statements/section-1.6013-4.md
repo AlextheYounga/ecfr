@@ -1,0 +1,17 @@
+##### § 1.6013-4 Applicable rules. #####
+
+(a) *Status as husband and wife.* For the purpose of filing a joint return under section 6013, the status as husband and wife of two individuals having taxable years beginning on the same day shall be determined:
+
+(1) If the taxable year of each individual is the same, as of the close of such year; and
+
+(2) If the close of the taxable year is different by reason of the death of one spouse, as of the time of such death.
+
+An individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married. However, the mere fact that spouses have not lived together during the course of the taxable year shall not prohibit them from making a joint return. A husband and wife who are separated under an interlocutory decree of divorce retain the relationship of husband and wife until the decree becomes final. The fact that the taxpayer and his spouse are divorced or legally separated at any time after the close of the taxable year shall not deprive them of their right to file a joint return for such taxable year under section 6013.
+
+(b) *Computation of income, deductions, and tax.* If a joint return is made, the gross income and adjusted gross income of husband and wife on the joint return are computed in an aggregate amount and the deductions allowed and the taxable income are likewise computed on an aggregate basis. Deductions limited to a percentage of the adjusted gross income, such as the deduction for charitable, etc., contributions and gifts, under section 170, will be allowed with reference to such aggregate adjusted gross income. A similar rule is applied in the case of the limitation of section 1211(b) on the allowance of losses resulting from the sale or exchange of capital assets (see § 1.1211-1). Although there are two taxpayers on a joint return, there is only one taxable income. The tax on the joint return shall be computed on the aggregate income and the liability with respect to the tax shall be joint and several. For computation of tax in the case of a joint return, see § 1.2-1. For tax in the case of a joint return of husband and wife electing to pay the optional tax under section 3, see § 1.3-1. For the election not to show on a joint return the amount of tax due in connection therewith, see paragraph (c) of § 1.6014-1 and paragraph (d) of § 1.6014-2. For separate computations of the self-employment tax of each spouse on a joint return, see paragraph (b) of § 1.6017-1.
+
+(c) *Definition of executor or administrator.* For purposes of section 6013 the term “executor or administrator” means the person who is actually appointed to such office and not a person who is merely in charge of the property of the decedent.
+
+(d) *Return signed under duress.* If an individual asserts and establishes that he or she signed a return under duress, the return is not a joint return. The individual who signed such return under duress is not jointly and severally liable for the tax shown on the return or any deficiency in tax with respect to the return. The return is adjusted to reflect only the tax liability of the individual who voluntarily signed the return, and the liability is determined at the applicable rates in section 1(d) for married individuals filing separate returns. Section 6212 applies to the assessment of any deficiency in tax on such return.
+
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 7102, 36 FR 5497, Mar. 24, 1971; T.D. 9003, 67 FR 47285, July 18, 2002]

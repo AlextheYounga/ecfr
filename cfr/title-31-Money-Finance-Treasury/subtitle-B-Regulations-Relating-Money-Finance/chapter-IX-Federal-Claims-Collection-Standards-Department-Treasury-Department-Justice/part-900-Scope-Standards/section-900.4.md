@@ -1,0 +1,3 @@
+##### § 900.4 Compromise, waiver, or disposition under other statutes not precluded. #####
+
+Nothing in parts 900-904 of this chapter precludes agency disposition of any claim under statutes and implementing regulations other than subchapter II of chapter 37 of Title 31 of the United States Code (Claims of the United States Government) and the standards in this chapter. See, e.g., the Federal Medical Care Recovery Act, Public Law 87-693, 76 Stat. 593 (September 25, 1962) (codified at 42 U.S.C. 2651 *et seq.*), and applicable regulations, 28 CFR part 43. In such cases, the laws and regulations that are specifically applicable to claims collection activities of a particular agency generally take precedence over parts 900-904 of this chapter.

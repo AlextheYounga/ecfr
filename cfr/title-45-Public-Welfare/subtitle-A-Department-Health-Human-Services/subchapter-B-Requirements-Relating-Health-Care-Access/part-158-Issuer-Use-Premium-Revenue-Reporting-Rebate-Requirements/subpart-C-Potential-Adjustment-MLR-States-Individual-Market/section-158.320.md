@@ -1,0 +1,3 @@
+##### § 158.320 Information supporting a request for adjustment to the medical loss ratio. #####
+
+A State must submit in electronic format the information required by §§ 158.321 through 158.323 of this subpart in order for the request for adjustment to the MLR standard for the State to be considered by the Secretary. A State may submit to the Secretary any additional information it determines would support its request. In the event that certain data are unavailable or that the collection of certain data is unduly burdensome, a State may provide written notice to the Secretary and the Secretary may, at her discretion, request alternative supporting data or move forward with her determination.

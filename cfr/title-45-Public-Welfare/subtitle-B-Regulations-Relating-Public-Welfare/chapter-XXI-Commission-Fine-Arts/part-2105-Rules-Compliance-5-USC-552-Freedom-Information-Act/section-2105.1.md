@@ -1,0 +1,3 @@
+##### § 2105.1 Purpose and scope. #####
+
+This part contains the regulations of the Commission of Fine Arts implementing 5 U.S.C. 552. The regulations of this part provide information concerning the procedures by which records may be obtained from the Commission. Members and employees of the Commission may continue to furnish to the public, informally and without neglecting the rights of requesters described herein, information and records which prior to enactment of 5 U.S.C. 552 were furnished customarily in the regular performance of their duties. Persons seeking information or records of the Commission may find it useful to consult with the Secretary before invoking the formal procedures set out below.

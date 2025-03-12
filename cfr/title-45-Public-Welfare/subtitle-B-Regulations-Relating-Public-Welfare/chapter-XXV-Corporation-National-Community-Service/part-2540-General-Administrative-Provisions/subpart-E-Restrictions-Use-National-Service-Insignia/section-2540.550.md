@@ -1,0 +1,3 @@
+##### § 2540.550 Is there an expiration date on approvals for use of national service insignia? #####
+
+The approval to use a national service insignia will expire as determined in writing by the director of the Office of Public Affairs, or his or her designee. However, the authority to use an insignia may be revoked at any time if the Corporation determines that the use involved is injurious to the image of the Corporation or if there is a failure to comply with the terms and conditions of the authorization.

@@ -1,0 +1,5 @@
+##### § 225.6 Payment of interest. #####
+
+(a) *General.* Except as otherwise provided in this section and § 225.7(b), interest accruing upon Government obligations pledged to a bond official's agency in accordance with this part will be remitted to the obligor or a depositary acting as agent or sub-agent for the obligor.
+
+(b) *Default.* If the bond official determines that the obligor has defaulted, the bond official will retain any interest accruing upon Government obligations pledged to the bond official's agency or direct the custodian, in accordance with this part, to retain such interest. Unless otherwise provided by law, such interest will be available to satisfy any costs incurred by the United States related to the default, and any excess proceeds will be available to satisfy any other claim of the United States against the obligor.

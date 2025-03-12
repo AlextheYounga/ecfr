@@ -1,0 +1,27 @@
+##### § 31.3202-1 Collection of, and liability for, employee tax. #####
+
+(a) *Collection; general rule.* The employer shall collect from each of his employees the employee tax imposed with respect to the compensation of the employee by deducting or causing to be deducted the amount of such tax from the compensation subject to the tax as and when such compensation is paid. As to the measure of the employee tax, see § 31.3201-1.
+
+(b) *Collection; payments by two or more employers in excess of annual compensation limitation.* For rules relating to payments by two or more employers in excess of the annual compensation limitation see § 31.3121(a)(1)-1.
+
+(c) *Undercollections or overcollections.* Any undercollection or overcollection of employee tax resulting from the employer's inability to determine, at the time compensation is paid, the correct amount of compensation with respect to which the deduction should be made shall be corrected in accordance with the provisions of Subpart G of the regulations in this part relating to adjustments, credits, refunds, and abatements.
+
+(d) *When fractional part of cent may be disregarded.* In collecting the employee tax, the employer shall disregard any fractional part of a cent of such tax unless it amounts to one-half cent or more, in which case it shall be increased to one cent.
+
+(e) *Employer's liability.* The employer is liable for the employee tax with respect to compensation paid by him, whether or not collected from the employee. If the employer deducts less than the correct amount of employee tax or fails to deduct any part of the tax, he is nevertheless liable for the correct amount of the tax. Until collected from him, the employee is also liable for the employee tax. Any employee tax collected by or on behalf of an employer is a special fund in trust for the United States. See section 7501. An employer is not liable to any person for the amount of the employee tax deducted by him and paid to the district director.
+
+(f) *Concurrent employment.* If two or more related corporations who are rail employers concurrently employ the same individual and compensate that individual through a common paymaster, which is one of the related corporations employing the individual, see § 31.3121(s)-1.
+
+(g) *Special rules regarding Additional Medicare Tax.* (1) An employer is required to collect from each of its employees the portion of the tax imposed by section 3201(a) (as calculated under section 3101(b)(2)) (Additional Medicare Tax) with respect to compensation for employment performed for the employer by the employee only to the extent the employer pays compensation to the employee in excess of $200,000 in a calendar year. This rule applies regardless of the employee's filing status or other income. Thus, the employer disregards any amount of compensation or Federal Insurance Contributions Act (FICA) wages paid to the employee's spouse. The employer also disregards any FICA wages paid by the employer to the employee or any compensation or FICA wages paid to the employee by another employer.
+
+Example.A, who is married and files a joint return, receives $100,000 in compensation from her employer for the calendar year. B, A's spouse, receives $300,000 in compensation from his employer for the same calendar year. A's compensation is not in excess of $200,000, so A's employer does not withhold Additional Medicare Tax. B's employer is required to collect Additional Medicare Tax only with respect to compensation it pays to B that is in excess of the $200,000 threshold (that is, $100,000) for the calendar year.
+
+(2) To the extent the employer does not collect Additional Medicare Tax imposed on the employee by section 3201(a) (as calculated under section 3101(b)(2)), the employee is liable to pay the tax.
+
+Example.C, who is married and files a joint return, receives $190,000 in compensation from her employer for the calendar year. D, C's spouse, receives $150,000 in compensation from his employer for the same calendar year. Neither C's nor D's compensation is in excess of $200,000, so neither C's nor D's employers are required to withhold Additional Medicare Tax. C and D are liable to pay Additional Medicare Tax on $90,000 ($340,000 minus the $250,000 threshold for a joint return).
+
+(3) If the employer deducts less than the correct amount of Additional Medicare Tax, or if it fails to deduct any part of Additional Medicare Tax, it is nevertheless liable for the correct amount of tax that it was required to withhold, unless and until the employee pays the tax. If an employee subsequently pays the tax that the employer failed to deduct, the tax will not be collected from the employer. The employer will not be relieved of its liability for payment of the tax required to be withheld unless it can show that the tax under section 3201(a) (as calculated under section 3101(b)(2)) has been paid. The employer, however, will remain subject to any applicable penalties or additions to tax resulting from the failure to withhold as required.
+
+(h) *Effective/applicability date.* Paragraph (g) of this section applies to quarters beginning on or after November 29, 2013.
+
+[T.D. 6516, 25 FR 13032, Dec. 20, 1960, as amended by T.D. 6541, 26 FR 553, Jan. 20, 1961; T.D. 6727, 29 FR 5866, May 5, 1964; T.D. 8582, 59 FR 66189, Dec. 23, 1994; T.D. 9645, 78 FR 71472, Nov. 29, 2013]

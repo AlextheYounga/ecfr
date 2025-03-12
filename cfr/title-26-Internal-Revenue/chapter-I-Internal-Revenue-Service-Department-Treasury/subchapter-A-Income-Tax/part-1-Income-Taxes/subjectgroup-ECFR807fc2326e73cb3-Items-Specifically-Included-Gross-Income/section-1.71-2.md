@@ -1,0 +1,3 @@
+##### § 1.71-2 Effective date; taxable years ending after March 31, 1954, subject to the Internal Revenue Code of 1939. #####
+
+Pursuant to section 7851(a)(1)(C), the regulations prescribed in § 1.71-1, to the extent that they relate to payments under a written separation agreement executed after August 16, 1954, and to the extent that they relate to payments under a decree for support received after August 16, 1954, under a decree entered after March 1, 1954, shall also apply to taxable years beginning before January 1, 1954, and ending after August 16, 1954, although such years are subject to the Internal Revenue Code of 1939.

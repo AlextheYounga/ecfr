@@ -1,0 +1,3 @@
+##### § 598.409 Credit extended and cards issued by U.S. financial institutions. #####
+
+The prohibition in § 598.203 on dealing in property in which a specially designated narcotics trafficker has an interest prohibits U.S. financial institutions from performing under any existing credit agreements, including, but not limited to, charge cards, debit cards, or other credit facilities issued by a U.S. financial institution to a specially designated narcotics trafficker.

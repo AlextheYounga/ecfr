@@ -1,0 +1,5 @@
+##### § 301.6340-1 Records of sale. #####
+
+(a) *Requirement.* Each district director shall keep a record of all sales under section 6335 of real property situated within his district and of redemptions of such property. The records shall set forth (1) the tax for which any such sale was made, the dates of seizure and sale, the name of the party assessed and all proceedings in making such sale, the amount of expenses, the names of the purchasers, the date of the deed, and, in the case of redemption of the property, (2) the date of such redemption and of the transfer of the certificate of sale, the amount of the redemption price, and the name of the party to whom such redemption price was paid.
+
+(b) *Copy as evidence.* A copy of such record, or any part thereof, certified by the district director shall be evidence in any court of the truth of the facts therein stated.

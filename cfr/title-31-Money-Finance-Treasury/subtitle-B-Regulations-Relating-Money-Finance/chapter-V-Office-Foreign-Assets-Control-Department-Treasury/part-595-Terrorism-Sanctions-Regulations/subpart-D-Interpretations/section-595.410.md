@@ -1,0 +1,5 @@
+##### § 595.410 Entities owned by a person whose property and interests in property are blocked. #####
+
+A person who is determined to fall within the definition of *specially designated**terrorist* as set forth in § 595.311, whose property and interests in property therefore are blocked pursuant to this part, has an interest in all property and interests in property of an entity in which it owns, directly or indirectly, a 50 percent or greater interest. The property and interests in property of such an entity, therefore, are blocked, and such an entity is a person whose property and interests in property are blocked pursuant to this part, regardless of whether the entity itself is listed in the Annex to Executive Order 12947, as amended, or designated pursuant to this part.
+
+[78 FR 38576, June 27, 2013]

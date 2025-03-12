@@ -1,0 +1,29 @@
+##### § 301.6621-1 Interest rate. #####
+
+(a) *In general.* The interest rate established under section 6621 shall be—
+
+(1) On amounts outstanding before July 1, 1975, 6 percent per annum (or 4 percent in the case of certain extensions of time for payment of taxes as provided in sections 6601 (b) and (j) prior to amendment by section 7(b) of the Act of Jan. 3, 1975 (Pub. L. 93-625, 88 Stat. 2115), and certain overpayments of the unrelated business income tax as provided in section 514(b)(3)(D), prior to its amendment by such Act).
+
+(2) On amounts outstanding—
+
+|    After    | And before |Rate per annum (percent)|
+|-------------|------------|------------------------|
+|June 30, 1975|Feb. 1, 1976|           9            |
+|Jan. 31, 1976|Feb. 1, 1978|           7            |
+|Jan. 31, 1978|Feb. 1, 1980|           6            |
+|Jan. 31, 1980|Feb. 1, 1982|           12           |
+|Jan. 31, 1982|Jan. 1, 1983|           20           |
+
+(3) On amounts outstanding after December 31, 1982, the adjusted rate established by the Commissioner under section 6621(b). This adjusted rate shall be published by the Commissioner in a Revenue Ruling. See § 301.6622-1 for application of daily compounding in determining interest accruing after December 31, 1982. Because interest accruing after December 31, 1982, accrues at the prescribed rate per annum compounded daily, the effective annual percentage rate of interest will exceed the prescribed rate of interest.
+
+(b) [Reserved]
+
+(c) *Applicability of interest rate*—(1) *Computation.* Interest and additions to tax on any amount outstanding on a specific day shall be computed at the annual rate applicable on such day.
+
+(2) *Additions to tax.* Additions to tax under any section of the Code that refers to the annual rate established under this section, including sections 644(a)(2)(B), 4497(c)(2), 6654(a), and 6655 (a) and (g), shall be computed at the same rate per annum as the interest rate set forth under paragraph (a) of this section.
+
+(3) *Interest.* Interest provided for under any section of the Code that refers to the annual rate established under this section, including sections 47(d)(3)(G), 167(q), 6332(c)(1), 6343(c), 6601(a), 6602, 6611(a), 7426(g), and section 1961(c)(1) or 2411 of title 28 of the United States Code, shall be computed at the rate per annum set forth under paragraph (a) of this section.
+
+(d) *Examples.* The provisions of this section may be illustrated by the following examples. Example 6 illustrates the computation of interest for interest accuring after December 31, 1982.
+
+Example 1.A, an individual, files an income tax return for the calendar year 1974 on April 15, 1975, showing a tax due of $1,000. A pays the $1,000 on September 1, 1975. Pursuant to section 6601(a), interest on the underpayment of $1,000 is computed at the rate of 6 percent per annum from April 15, 1975, to June 30, 1975, a total of 76 days. Interest for 63 days, from June 30, 1975, to September 1, 1975, shall be computed at the rate of 9 percent per annum.Example 2.An executor of an estate is granted, in accordance with section 6161(a)(2)(A), a two-year extension of time for payment of the estate tax shown on the estate tax return, which tax was otherwise due on January 15, 1974. The tax is paid on January 15, 1976. Interest on the underpayment shall be computed at the rate of 4 percent per annum from January 15, 1974, to June 30, 1975, and at the rate of 9 percent per annum from June 30, 1975, to January 15, 1976.Example 3.X, a corporation, files its 1973 corporate income tax return on March 15, 1974, and pays the balance of tax due shown thereon. On August 1, 1975, an assessment of a deficiency is made against X with respect to such tax. The deficiency is paid on October 1, 1975. Interest at the rate of 6 percent per annum is due on the deficiency from March 15, 1974, the due date of the return, to June 30, 1975, and at the rate of 9 percent per annum from June 30, 1975, to October 1, 1975.Example 4.Y, an individual, files an amended individual income tax return on October 1, 1975, for the refund of an overpayment of income tax Y made on April 15, 1975. Interest is allowed on the overpayment to December 1, 1975. Pursuant to section 6611(a), interest is computed at the rate of 6 percent per annum from April 15, 1975, the date of overpayment, to June 30, 1975. Interest from June 30, 1975, to December 1, 1975, shall be computed at the rate of 9 percent per annum.Example 5.A, an individual, is liable for an addition to tax under section 6654 for the underpayment of estimated tax from April 15, 1975 until January 15, 1976. The addition to tax shall be computed at the annual rate of 6 percent per annum from April 15, 1975, to June 30, 1975, and at the annual rate of 9 percent per annum from June 30, 1975, to January 15, 1976.Example 6.B, an individual, files an income tax return for calendar year 1980 on April 15, 1981, showing a tax due of $1,000. B pays the $1,000 on March 1, 1983. Under section 6601 (a), interest on the $1,000 underpayment is due from April 15, 1981, to March 1, 1983. Such interest is computed at the rate of 12 percent per annum, simple interest from April 15, 1981, to January 31, 1982, and at the rate of 20 percent per annum, simple interest from January 31, 1982, to December 31, 1982, and at the rate of 16 percent per annum, compounded daily, from December 31, 1982, to March 1, 1983. The total simple interest accrued but unpaid at the end of December 31, 1982, is combined with the $1,000 underpayment for purposes of determining the amount of daily compounded interest to be charged from December 31, 1982, to March 1, 1983.[T.D. 7907, 48 FR 38230, Aug. 23, 1983; 48 FR 41018, Sept. 13, 1983; 48 FR 41581, Sept. 16, 1983]

@@ -1,0 +1,3 @@
+##### § 566.303 Covered financial institution. #####
+
+The term *covered financial institution* means a broker or dealer in securities registered, or required to be registered, with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), except persons who register pursuant to section 15(b)(11) of the Securities Exchange Act of 1934; a futures commission merchant or an introducing broker registered, or required to be registered, with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 *et seq.*), except persons who register pursuant to section 4(f)(a)(2) of the Commodity Exchange Act; or a mutual fund.

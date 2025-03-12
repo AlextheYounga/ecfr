@@ -1,0 +1,3 @@
+##### § 309.3 Denominations and exchange. #####
+
+Treasury bills will be issued in denominations (maturity value) of $10,000, $15,000, $50,000, $100,000, $500,000, and $1,000,000. Exchanges from higher to lower and lower to higher denominations of the same series (bearing the same issue and maturity dates) will be permitted at Federal Reserve Banks and branches and at the Bureau of the Fiscal Service, Washington, DC 20226. Insofar as applicable, the general regulations of the Treasury Department governing transactions in bonds and notes will govern transactions in Treasury bills.

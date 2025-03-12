@@ -1,0 +1,3 @@
+##### § 598.204 Evasions; attempts; conspiracies. #####
+
+Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this part, and notwithstanding any contract entered into or any license or permit granted prior to the effective date, any transaction or dealing by any United States person, or within the United States, that evades or avoids, or has the effect of evading or avoiding, and any endeavor, attempt, or conspiracy to violate any of the prohibitions set forth in this part is prohibited.

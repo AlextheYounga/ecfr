@@ -1,0 +1,3 @@
+##### § 225.1 Scope. #####
+
+The regulation in this part applies to Government agencies accepting bonds secured by Government obligations in lieu of bonds with sureties. The Bureau of the Fiscal Service (Fiscal Service) is the representative of the Secretary of the Treasury (Secretary) in all matters concerning this part unless otherwise specified. The Commissioner of the Fiscal Service may issue procedural instructions implementing this regulation.

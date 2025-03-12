@@ -1,0 +1,3 @@
+##### § 1010.911 General. #####
+
+For any investigation for the purpose of civil enforcement of violations of the Bank Secrecy Act, or any regulation issued pursuant to the Bank Secrecy Act, the Secretary or delegate of the Secretary may summon a financial institution or an officer or employee of a financial institution (including a former officer or employee), or any person having possession, custody, or care of any of the records and reports required under the Bank Secrecy Act or this chapter to appear before the Secretary or his delegate, at a time and place named in the summons, and to give testimony, under oath, and be examined, and to produce such books, papers, records, or other data as may be relevant or material to such investigation.

@@ -1,0 +1,5 @@
+##### § 1.826-4 Allocation of expenses. #####
+
+An attorney-in-fact allocating expenses as required by section 826(b) and paragraph (b) of § 1.826-3 shall allocate each expense itemized in its income tax return (and accompanying schedules) for the taxable year to each source of gross income (as set forth pursuant to paragraph (b)(2) of § 1.826-3). However, no portion of the net operating loss deduction allowed by section 172 shall be allocated to income received or due from the reciprocal, and no expenses, other than those directly related thereto, shall be allocated to capital gains. Where the method of allocation used by the taxpayer does not reasonably reflect the expenses of the taxpayer allocable to income received or due from the reciprocal, the district director may require the taxpayer to use such other method of allocation as is reasonable under the circumstances.
+
+[T.D. 6681, 28 FR 11126, Oct. 17, 1963]

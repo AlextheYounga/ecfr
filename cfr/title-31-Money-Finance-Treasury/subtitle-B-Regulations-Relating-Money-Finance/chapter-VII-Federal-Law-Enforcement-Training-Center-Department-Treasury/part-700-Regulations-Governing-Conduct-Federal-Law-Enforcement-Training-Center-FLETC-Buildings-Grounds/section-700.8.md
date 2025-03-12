@@ -1,0 +1,3 @@
+##### § 700.8 Soliciting, vending, debt collection and distribution of handbills. #####
+
+The unauthorized soliciting for charity and contributions, commercial soliciting and vending of all kinds, the display or distribution of commercial advertising, or the collecting of private debts, other than legal service of process, in or on the property, is prohibited. This prohibition does not apply to Federal Law Enforcement Training Center concessions or notices posted by authorized employees on the bulletin boards. Distribution of material such as pamphlets, handbills, and flyers is prohibited without prior approval of the Director.

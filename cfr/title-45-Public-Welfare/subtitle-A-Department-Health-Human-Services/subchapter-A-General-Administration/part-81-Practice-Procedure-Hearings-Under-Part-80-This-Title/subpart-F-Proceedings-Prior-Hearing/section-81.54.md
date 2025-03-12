@@ -1,0 +1,3 @@
+##### § 81.54 Request for hearing. #####
+
+Within 20 days after service of a notice of opportunity for hearing which does not fix a date for hearing the respondent, either in his answer or in a separate document, may request a hearing. Failure of the respondent to request a hearing shall be deemed a waiver of the right to a hearing and to constitute his consent to the making of a decision on the basis of such information as is available.

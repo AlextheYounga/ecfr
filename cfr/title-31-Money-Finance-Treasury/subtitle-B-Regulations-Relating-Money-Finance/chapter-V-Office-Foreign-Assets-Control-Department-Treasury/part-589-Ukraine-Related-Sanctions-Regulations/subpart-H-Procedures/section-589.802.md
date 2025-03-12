@@ -1,0 +1,3 @@
+##### § 589.802 Delegation by the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to the Ukraine-Related Executive Orders - with the exception of the determination of sectors of the Russian Federation economy under Section 1(a)(i) of Executive Order 13662 of March 20, 2014 - and any further Executive orders relating to the national emergency declared in Executive Order 13660 of March 6, 2014, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

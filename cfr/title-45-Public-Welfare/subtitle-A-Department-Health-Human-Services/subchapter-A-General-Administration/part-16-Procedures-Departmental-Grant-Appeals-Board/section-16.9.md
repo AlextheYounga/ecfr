@@ -1,0 +1,3 @@
+##### § 16.9 How the Board will promote development of the record. #####
+
+The Board may, at the time it acknowledges an appeal or at any appropriate later point, request additional documents or information; request briefing on issues in the case; issue orders to show cause why a proposed finding or decision of the Board should not become final; hold preliminary conferences (generally by telephone) to establish schedules and refine issues; and take such other steps as the Board determines appropriate to develop a prompt, sound decision.

@@ -1,0 +1,3 @@
+##### § 406.3 Forfeiture of gold valued not in excess of $2,500. #####
+
+The district director of customs receiving custody of gold seized by the Secret Service, shall, if no petition is filed for the remission of mitigation of the forfeiture incurred, institute summary forfeiture proceedings in the judicial district in which such seizure is made under the appropriate provisions of the law and Customs Regulations applicable to the forfeiture of merchandise imported contrary to law.

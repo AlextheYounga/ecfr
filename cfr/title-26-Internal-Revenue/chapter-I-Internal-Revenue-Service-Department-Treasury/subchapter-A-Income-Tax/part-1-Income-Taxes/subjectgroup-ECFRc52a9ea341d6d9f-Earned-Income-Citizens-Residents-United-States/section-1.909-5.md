@@ -1,0 +1,11 @@
+##### § 1.909-5 2011 and 2012 splitter arrangements. #####
+
+(a) *Taxes paid or accrued in taxable years beginning in 2011.* (1) Foreign income taxes paid or accrued by any person in a taxable year beginning on or after January 1, 2011, and before January 1, 2012, in connection with a pre-2011 splitter arrangement (as defined in § 1.909-6(b)), are split taxes to the same extent that such taxes would have been treated as pre-2011 split taxes if such taxes were paid or accrued by a section 902 corporation in a taxable year beginning on or before December 31, 2010. The related income with respect to split taxes from such an arrangement is the related income described in § 1.909-6(b), determined as if the payor were a section 902 corporation.
+
+(2) Foreign income taxes paid or accrued by any person in a taxable year beginning on or after January 1, 2011, and before January 1, 2012, in connection with a partnership inter-branch payment splitter arrangement described in § 1.909-2(b)(4) are split taxes to the extent that such taxes are identified as split taxes in § 1.909-2(b)(4)(ii). The related income with respect to the split taxes is the related income described in § 1.909-2(b)(4)(iii).
+
+(b) *Taxes paid or accrued in certain taxable years beginning in 2012 with respect to a foreign consolidated group splitter arrangement.* Foreign income taxes paid or accrued by any person in a taxable year beginning on or after January 1, 2012, and on or before February 14, 2012, in connection with a foreign consolidated group splitter arrangement described in § 1.909-6(b)(2) are split taxes to the same extent that such taxes would have been treated as pre-2011 split taxes if such taxes were paid or accrued by a section 902 corporation in a taxable year beginning on or before December 31, 2010. The related income with respect to split taxes from such an arrangement is the related income described in § 1.909-6(b)(2), determined as if the payor were a section 902 corporation.
+
+(c) *Effective/applicability date.* The rules of this section apply to foreign income taxes paid or accrued in taxable years beginning on or after January 1, 2011, and on or before February 14, 2012.
+
+[T.D. 9710, 80 FR 7332, Feb. 10, 2015]

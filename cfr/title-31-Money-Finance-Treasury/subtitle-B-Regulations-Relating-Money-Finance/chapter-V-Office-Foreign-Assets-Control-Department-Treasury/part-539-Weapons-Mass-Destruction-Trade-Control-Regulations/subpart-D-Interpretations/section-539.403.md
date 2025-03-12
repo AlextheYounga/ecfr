@@ -1,0 +1,3 @@
+##### § 539.403 Transactions incidental to a licensed transaction. #####
+
+Any transaction ordinarily incident to a licensed transaction and necessary to give effect to the licensed transaction is also authorized by the license. Except as specifically authorized by the terms of the license, prohibited transactions involving designated foreign persons not named in the license are not considered incidental to a licensed transaction and therefore remain prohibited.

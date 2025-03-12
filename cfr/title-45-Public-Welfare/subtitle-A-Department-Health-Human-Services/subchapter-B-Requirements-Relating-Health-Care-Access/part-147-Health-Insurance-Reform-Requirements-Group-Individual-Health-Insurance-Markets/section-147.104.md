@@ -1,0 +1,71 @@
+##### § 147.104 Guaranteed availability of coverage. #####
+
+Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
+
+(a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
+
+(b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.
+
+(1) *Open enrollment periods* - (i) *Group market.* (A) Subject to paragraph (b)(1)(i)(B) of this section, a health insurance issuer in the group market must allow an employer to purchase health insurance coverage for a group health plan at any point during the year.
+
+(B) In the case of a group health plan in the small group market that cannot comply with employer contribution or group participation rules for the offering of health insurance coverage, as allowed under applicable State law and in the case of a QHP offered in the SHOP, as permitted by § 156.285(e) of this subchapter, a health insurance issuer may restrict the availability of coverage to an annual enrollment period that begins November 15 and extends through December 15 of each calendar year.
+
+(C) With respect to coverage in the small group market, and in the large group market if such coverage is offered through a Small Business Health Options Program (SHOP) in a State, coverage must become effective consistent with the dates described in § 155.725 of this subchapter, except as provided in paragraph (b)(1)(iii) of this section.
+
+(ii) *Individual market.* A health insurance issuer in the individual market must allow an individual to purchase health insurance coverage during the initial and annual open enrollment periods described in § 155.410(b) and (e) of this subchapter. Coverage must become effective consistent with the dates described in § 155.410(c) and (f) of this subchapter, except as provided in paragraph (b)(1)(iii) of this section.
+
+(iii) *Exception in certain effective dates of coverage.* Only with respect to coverage offered outside of an Exchange or SHOP, for a plan selection received by an issuer on or before December 15, 2013, the issuer must ensure a coverage effective date of January 1, 2014, and for a plan selection received by an issuer between the 16th and 31st of the month of December 2013, an issuer generally must ensure a coverage effective date of February 1, 2014. The preceding sentence does not prevent an issuer from aligning the plan selection and coverage effective dates with those required by the Exchange or SHOP, as applicable, in the applicable state, consistent with § 155.410(c) of this subchapter.
+
+(2) *Limited open enrollment periods.* A health insurance issuer in the individual market must provide a limited open enrollment period for the events described in § 155.420(d) of this subchapter, excluding § 155.420(d)(3) of this subchapter (concerning citizenship status), § 155.420(d)(8) of this subchapter (concerning Indians), and § 155.420(d)(9) of this subchapter (concerning exceptional circumstances).
+
+(3) *Special enrollment periods.* A health insurance issuer in the group and individual market must establish special enrollment periods for qualifying events as defined under section 603 of the Employee Retirement Income Security Act of 1974, as amended. These special enrollment periods are in addition to any other special enrollment periods that are required under federal and state law.
+
+(4) *Length of enrollment periods.* (i) In the group market, enrollees must be provided 30 calendar days after the date of the qualifying event described in paragraph (b)(3) of this section to elect coverage.
+
+(ii) In the individual market, enrollees must be provided 60 calendar days after the date of an event described in paragraph (b)(2) and (3) of this section to elect coverage, as well as 60 calendar days before certain triggering events as provided for in § 155.420(c)(2) of this subchapter.
+
+(5) *Effective date of coverage for limited open and special enrollment periods.* With respect to an election made under paragraph (b)(2) or (b)(3) of this section, coverage must become effective consistent with the dates described in § 155.420(b) of this subchapter.
+
+(c) *Special rules for network plans.* (1) In the case of a health insurance issuer that offers health insurance coverage in the group and individual market through a network plan, the issuer may do the following:
+
+(i) Limit the employers that may apply for the coverage to those with eligible individuals in the group market who live, work, or reside in the service area for the network plan, and limit the individuals who may apply for the coverage in the individual market to those who live or reside in the service area for the network plan.
+
+(ii) Within the service area of the plan, deny coverage to employers and individuals if the issuer has demonstrated to the applicable state authority (if required by the state authority) the following:
+
+(A) It will not have the capacity to deliver services adequately to enrollees of any additional groups or any additional individuals because of its obligations to existing group contract holders and enrollees.
+
+(B) It is applying paragraph (c)(1) of this section uniformly to all employers and individuals without regard to the claims experience of those individuals, employers and their employees (and their dependents) or any health status-related factor relating to such individuals, employees, and dependents.
+
+(2) An issuer that denies health insurance coverage to an individual or an employer in any service area, in accordance with paragraph (c)(1)(ii) of this section, may not offer coverage in the individual, small group, or large group market, as applicable, for a period of 180 calendar days after the date the coverage is denied. This paragraph (c)(2) does not limit the issuer's ability to renew coverage already in force or relieve the issuer of the responsibility to renew that coverage.
+
+(3) Coverage offered within a service area after the 180-day period specified in paragraph (c)(2) of this section is subject to the requirements of this section.
+
+(d) *Application of financial capacity limits.* (1) A health insurance issuer may deny health insurance coverage in the group or individual market if the issuer has demonstrated to the applicable state authority (if required by the state authority) the following:
+
+(i) It does not have the financial reserves necessary to offer additional coverage.
+
+(ii) It is applying this paragraph (d)(1) uniformly to all employers or individual in the large group, small group, or individual market, as applicable, in the State consistent with applicable State law and without regard to the claims experience of those individuals, employers and their employees (and their dependents) or any health status-related factor relating to such individuals, employees, and dependents.
+
+(2) An issuer that denies health insurance coverage to any employer or individual in a state under paragraph (d)(1) of this section may not offer coverage in the large group, small group, or individual market, as applicable, in the State before the later of either of the following dates:
+
+(i) The 181st day after the date the issuer denies coverage.
+
+(ii) The date the issuer demonstrates to the applicable state authority, if required under applicable state law, that the issuer has sufficient financial reserves to underwrite additional coverage.
+
+(3) Paragraph (d)(2) of this section does not limit the issuer's ability to renew coverage already in force or relieve the issuer of the responsibility to renew that coverage.
+
+(4) Coverage offered after the 180-day period specified in paragraph (d)(2) of this section is subject to the requirements of this section.
+
+(5) An applicable state authority may provide for the application of this paragraph (d) on a service-area-specific basis.
+
+(e) *Marketing.* A health insurance issuer and its officials, employees, agents and representatives must comply with any applicable state laws and regulations regarding marketing by health insurance issuers and cannot employ marketing practices or benefit designs that will have the effect of discouraging the enrollment of individuals with significant health needs in health insurance coverage or discriminate based on an individual's race, color, national origin, present or predicted disability, age, sex, gender identity, sexual orientation, expected length of life, degree of medical dependency, quality of life, or other health conditions.
+
+(f) *Calendar year plans.* An issuer that offers coverage in the individual market, or in a merged market in a State that has elected to merge the individual market and small group market risk pools in accordance with section 1312(c)(3) of the Affordable Care Act, must ensure that such coverage is offered on a calendar year basis with a policy year ending on December 31 of each calendar year.
+
+(g) *Applicability date.* The provisions of this section apply for plan years (in the individual market, policy years) beginning on or after January 1, 2014.
+
+(h) *Grandfathered health plans.* This section does not apply to grandfathered health plans in accordance with § 147.140.
+
+(i) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
+
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015]

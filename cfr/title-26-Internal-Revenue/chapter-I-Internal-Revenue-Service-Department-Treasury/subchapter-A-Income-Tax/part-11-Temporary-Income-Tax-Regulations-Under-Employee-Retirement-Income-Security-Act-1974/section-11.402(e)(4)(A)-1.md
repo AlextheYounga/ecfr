@@ -1,0 +1,15 @@
+##### § 11.402(e)(4)(A)-1 Lump sum distributions in the case of an employee who has separated from service. #####
+
+(a) *Balance to the credit of an employee.* Section 402(e)(4)(A) provides that in order for a distribution or payment from a qualified plan to be a lump sum distribution, the distribution or payment must represent the employee's balance under the plan. The employee's balance does not include any amount which is forfeited under the plan (even though the amount may be reinstated) as of the close of the taxable year of the recipient within which the distribution is made. In addition, in the case of an employee who has separated from service, the employee's balance does not include an amount which is subject to forfeiture not later than the close of the plan year within which the employee incurs a one-year break in service (within the meaning of section 411) if -
+
+(1) By reason of the break in service, the amount is actually forfeited at or prior to the close of that plan year, and
+
+(2) The break in service occurs within 25 months after the employee's separation from service. In the case of a plan which uses the elapsed time method of crediting service, the break in service may occur within 25 months of the employee's severance from service. See Department of Labor regulations relating to the elapsed time method for the date an employee severs from service.
+
+An employee may assume that an amount subject to forfeiture will be treated as forfeited by the date prescribed in paragraphs (a) (1) and (2) of this section if, under the plan, forfeiture will occur not later than that date. Therefore, he may assume that a distribution is a lump sum distribution at the time it is made, if the other requirements for lump sum distributions are satisfied. However, if the amount is not forfeited by that date, the amount will be taken into account in determining the balance to the credit of the employee. Accordingly, the distribution will not be a lump sum distribution because it did not include the employee's entire balance under the plan.
+
+(b) *Rollover contribution.* As described in paragraph (a) of this section, an employee may assume that a distribution is a lump sum distribution even though part of the balance of his account has not been forfeited at the time the distribution is made. He may then roll the distribution over as a contribution to an individual retirement arrangement pursuant to section 402(a)(5) or 403(a)(4). It may be subsequently determined that the distribution was not a lump sum distribution because an amount subject to forfeiture was not in fact forfeited within the time required in paragraph (a) of this section. In that case, the contribution will be an excess contribution to the individual retirement arrangement, deemed made in the first taxable year of the employee in which it can be determined that an amount subject to forfeiture will not be forfeited.
+
+(c) *Effective date.* This section is effective for distributions made in taxable years of recipients beginning after December 31, 1973.
+
+[T.D. 7488, 42 FR 27882, June 1, 1977]

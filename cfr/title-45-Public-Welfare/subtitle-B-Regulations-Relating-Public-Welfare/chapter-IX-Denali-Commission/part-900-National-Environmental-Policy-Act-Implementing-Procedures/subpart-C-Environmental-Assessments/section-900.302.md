@@ -1,0 +1,5 @@
+##### § 900.302 General considerations in preparing environmental assessments. #####
+
+(a) *Adoption of an EA.* The Commission may adopt an EA prepared for a proposal before the Commission by another agency or an applicant when the EA, or a portion thereof, addresses the proposed Commission action and meets the standards for an adequate analysis under this part and relevant provisions of 40 CFR parts 1500 through 1508, provided that the Commission makes its own evaluation of the environmental issues and takes responsibility for the scope and content of the EA in accordance with 40 CFR 1506.5(b).
+
+(b) *Incorporation by reference into the EA.* Any document may be incorporated by reference in accordance with 40 CFR 1502.21 and used in preparing an EA in accordance with 40 CFR 1501.4(e) and 1506.5(a), provided that the Commission makes its own evaluation of the environmental issues and takes responsibility for the scope and content of the EA in accordance with 40 CFR 1506.5(b).

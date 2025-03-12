@@ -1,0 +1,13 @@
+##### § 73.735-307 Use of official information. #####
+
+(a) The public interest requires that certain information in the possession of the Government be kept confidential, and released only with general or specific authority under Department or operating component regulations. Such information may involve the national security or be private, personal, or business information which has been furnished to the Government in confidence. In addition, information in the possession of the Government and not generally available may not be used for private gain. The following paragraphs set forth the rules to be followed by Department employees in handling information in official files or documents:
+
+(1) *Classified information.* Employees who have access to information which is classified for security reasons in accordance with Executive Order 12065 are responsible for its custody and safekeeping, and for assuring that it is not disclosed to unauthorized persons. See the Department's Security Manual, Part 3 for details.
+
+(2) *Security and investigative information.* Security and investigative data received from Government agencies or other sources for official use only within the Department or developed under a pledge of confidence is not to be divulged to unauthorized persons or agencies.
+
+(3) *Information obtained in confidence.* Certain Department units (e.g., Food and Drug Administration, and the Social Security Administration) obtain in the course of their program activities certain information from businesses or individuals which they are forbidden by law from disclosing. These statutory prohibitions are found in 21 U.S.C. 331j, and 18 U.S.C. 1905. Each employee is responsible for observing these laws.
+
+(4) *Use of information for private gain.* Government employees are sometimes able to obtain information about some action the Government is about to take or some other matter which is not generally known. Information of this kind shall not be used by the employee to further his or her or someone else's private financial or other interests. Such a use of official information is clearly a violation of a public trust. Employees shall not, directly or indirectly, make use of, or permit others to make use of, for the purpose of furthering any private interest, official information not made available to the general public.
+
+(b) The Privacy Act provides criminal penalties for an employee who willfully discloses individually identifiable information from records, disclosure of which is prohibited by that Act. 5 U.S.C. 552a(i).

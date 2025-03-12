@@ -1,0 +1,3 @@
+##### § 75.105 Effect on other issuances. #####
+
+For Federal awards subject to this part, all administrative requirements, program manuals, handbooks and other non-regulatory materials that are inconsistent with the requirements of this part are superseded upon implementation of this part by the HHS awarding agency, except to the extent they are required by statute or authorized in accordance with the provisions in § 75.102.

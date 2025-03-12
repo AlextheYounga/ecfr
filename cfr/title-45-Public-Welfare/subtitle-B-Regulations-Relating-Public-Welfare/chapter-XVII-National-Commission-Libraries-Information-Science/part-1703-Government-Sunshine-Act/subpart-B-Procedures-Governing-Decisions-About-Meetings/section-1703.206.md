@@ -1,0 +1,3 @@
+##### § 1703.206 Providing information to the public. #####
+
+Individuals or organizations interested in obtaining copies of information available in accordance with § 1703.204 may request same under provisions set forth in §§ 1703.402 and 1704.404. Individuals or organizations having a special interest in activities of the Commission may request the Executive Director to the Commissioners to place them on a mailing list for receipt of information available under § 1703.205. The Commission shall provide information to publications whose readers are likely to have a special interest in the work of the Commission.

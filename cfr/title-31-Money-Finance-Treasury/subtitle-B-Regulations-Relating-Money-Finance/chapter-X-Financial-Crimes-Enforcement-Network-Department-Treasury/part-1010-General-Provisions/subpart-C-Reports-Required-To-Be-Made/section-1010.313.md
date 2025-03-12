@@ -1,0 +1,5 @@
+##### § 1010.313 Aggregation. #####
+
+(a) *Multiple branches.* A financial institution includes all of its domestic branch offices, and any recordkeeping facility, wherever located, that contains records relating to the transactions of the institution's domestic offices, for purposes of the transactions in currency reporting requirements in this chapter.
+
+(b) *Multiple transactions.* In the case of financial institutions other than casinos, for purposes of the transactions in currency reporting requirements in this chapter, multiple currency transactions shall be treated as a single transaction if the financial institution has knowledge that they are by or on behalf of any person and result in either cash in or cash out totaling more than $10,000 during any one business day (or in the case of the U.S. Postal Service, any one day). Deposits made at night or over a weekend or holiday shall be treated as if received on the next business day following the deposit.

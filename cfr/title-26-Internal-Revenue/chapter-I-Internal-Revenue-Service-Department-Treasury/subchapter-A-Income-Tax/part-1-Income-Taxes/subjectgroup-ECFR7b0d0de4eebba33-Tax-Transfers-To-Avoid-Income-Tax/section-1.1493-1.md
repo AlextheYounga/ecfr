@@ -1,0 +1,5 @@
+##### § 1.1493-1 Definition of foreign trust. #####
+
+For taxable years beginning before January 1, 1967, a trust is to be considered a “foreign trust” within the meaning of chapter 5 of the Code, if, assuming a subsequent sale by the trustee, outside the United States and for cash, of the property transferred to the trust, the profit, if any, from such sale (being income from sources without the United States under the provisions of part I (section 861 and following), subchapter N, chapter 1 of the Code), would not be included in the gross income of the trust under subtitle A of the Code. For taxable years beginning after December 31, 1966, the term “foreign trust,” as used in chapter 5 of the Code, shall have the meaning prescribed by section 7701(a)(31).
+
+[T.D. 7332, 39 FR 44230, Dec. 23, 1974]

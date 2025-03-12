@@ -1,0 +1,15 @@
+##### § 1.992-4 Coordination with personal holding company provisions in case of certain produced film rents. #####
+
+(a) *In general.* Section 992(d)(2) provides that a personal holding company is not eligible to be treated as a DISC. Section 543(a)(5)(B) provides that, for purposes of section 543, the term “produced film rents” means payments received with respect to an interest in a film for the use of, or the right to use, such film, but only to the extent that such interest was acquired before substantial completion of production of such film. Under section 992(e), if such produced film rents are included in the ordinary gross income (as defined in section 543(b)(1)) of a qualified subsidiary for a taxable year of such subsidiary, and such interest was acquired by such subsidiary from its parent, such interest is deemed (for purposes of the application of sections 541, 543(b)(1), and 992(d)(2), and § 1.992-1(f) for such taxable year) to have been acquired by such subsidiary at the time such interest was acquired by such parent. Thus, for example, if a parent acquires an interest in a film before it is substantially completed, then substantially completes such film prior to transferring an interest in such motion picture to a qualified subsidiary, the qualified subsidiary is considered as having acquired such interest prior to substantial completion of such motion picture for purposes of determining whether payments from the rental of such motion picture will be classified as produced film rents of such subsidiary. The provisions of section 992(e) and this section are not applicable in determining whether payments received with respect to an interest in a film are included in the ordinary gross income of a parent or a qualified subsidiary. Thus, even though a qualified subsidiary is treated pursuant to this section as having acquired an interest in a film at the time such interest was acquired by such subsidiary's parent, payments received by such parent with respect to such interest prior to the transfer of such interest to such subsidiary are includible in the ordinary gross income of such parent and not includible in the ordinary gross income of such subsidiary.
+
+(b) *Definitions*—(1) *Qualified subsidiary.* For purposes of this section, a corporation is a qualified subsidiary for a taxable year if—
+
+(i) Such corporation was established for the purpose of becoming a DISC,
+
+(ii) Such corporation would qualify (or be treated) as a DISC for such taxable year if it is not a personal holding company, and
+
+(iii) On every day of such taxable year on which shares of such corporation are outstanding, at least 80 percent of such shares are held directly by a second corporation.
+
+(2) *Parent.* For purposes of this section, the term “parent” means a second corporation referred to in subparagraph (1)(iii) of this paragraph.
+
+[T.D. 7323, 39 FR 34409, Sept. 25, 1974]

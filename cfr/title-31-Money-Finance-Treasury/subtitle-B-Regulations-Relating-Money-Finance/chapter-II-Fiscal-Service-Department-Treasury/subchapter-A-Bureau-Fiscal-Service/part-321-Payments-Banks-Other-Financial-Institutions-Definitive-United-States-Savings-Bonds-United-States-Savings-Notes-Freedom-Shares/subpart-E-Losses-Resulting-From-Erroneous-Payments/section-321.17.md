@@ -1,0 +1,5 @@
+##### § 321.17 Investigation of potential loss. #####
+
+(a) *Notice to an agent.* When it determines that a loss has occurred, because of the erroneous payment of securities, the Bureau of the Fiscal Service will notify the agent in writing and identify the securities.
+
+(b) *Investigative procedure.* The Bureau of the Fiscal Service may request the United States Secret Service to investigate potential losses. Upon request, the agent shall make available to the Bureau of the Fiscal Service, or its investigative agent, all records and information pertaining to the transaction in question, including the disposition of the redemption proceeds. If the proceeds were deposited in an account maintained by the agent, the information made available shall include the ultimate disposition of the redemption proceeds from the account.

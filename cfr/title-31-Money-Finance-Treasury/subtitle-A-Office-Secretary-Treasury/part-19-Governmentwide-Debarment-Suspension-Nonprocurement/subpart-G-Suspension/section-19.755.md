@@ -1,0 +1,3 @@
+##### § 19.755 When will I know whether the suspension is continued or terminated? #####
+
+The suspending official must make a written decision whether to continue, modify, or terminate your suspension within 45 days of closing the official record. The official record closes upon the suspending official's receipt of final submissions, information and findings of fact, if any. The suspending official may extend that period for good cause.

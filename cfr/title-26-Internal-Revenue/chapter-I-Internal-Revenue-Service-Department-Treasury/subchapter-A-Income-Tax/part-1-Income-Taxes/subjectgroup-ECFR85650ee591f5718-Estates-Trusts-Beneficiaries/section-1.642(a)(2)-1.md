@@ -1,0 +1,3 @@
+##### § 1.642(a)(2)-1 Foreign taxes. #####
+
+An estate or trust is allowed the credit against tax for taxes imposed by foreign countries and possessions of the United States to the extent allowed by section 901 only for so much of those taxes as are not properly allocable under that section to the beneficiaries. See section 901(b)(4). For purposes of section 901(b)(4), the term *beneficiaries* includes charitable beneficiaries.

@@ -1,0 +1,3 @@
+##### § 2.1-27 Controlled corporation. #####
+
+For the purpose of section 511 of the Act and the regulations in this part a new vessel is considered as constructed, reconstructed, reconditioned, or acquired by the taxpayer if constructed, reconstructed, reconditioned, or acquired by a corporation at a time when the taxpayer owns not less than 95 percent of the total number of shares of each class of stock of the corporation.

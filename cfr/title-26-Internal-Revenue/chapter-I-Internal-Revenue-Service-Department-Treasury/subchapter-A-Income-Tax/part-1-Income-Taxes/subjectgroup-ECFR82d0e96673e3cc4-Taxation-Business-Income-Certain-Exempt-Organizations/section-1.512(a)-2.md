@@ -1,0 +1,7 @@
+##### § 1.512(a)-2 Definition applicable to taxable years beginning before December 13, 1967. #####
+
+(a) *In general.* The unrelated business taxable income which is subject to the tax imposed by section 511 is the gross income, derived by any organization to which section 511 applies, from any unrelated trade or business regularly carried on by it, less the deductions allowed by chapter 1 of the Code which are directly connected with the carrying on of such trade or business, subject to certain exceptions, additions, and limitations referred to below. In the case of an organization which regularly carries on two or more unrelated businesses, its unrelated business taxable income is the aggregate of its gross income from all such unrelated businesses, less the aggregate of the deductions allowed with respect to all such unrelated businesses. For provisions generally applicable to the unrelated business tax, see § 1.511-3, and for rules applicable to the determination of the adjusted basis of property, see paragraph (a)(2) of § 1.514(a)-1.
+
+(b) *Effective date.* Except as provided in paragraph (f) of § 1.512(a)-1, this section is applicable with respect to taxable years beginning before December 13, 1967.
+
+[T.D. 6500, 25 FR 11737, Nov. 26, 1960, as amended by T.D. 6939, 32 FR 17660, Dec. 12, 1967]

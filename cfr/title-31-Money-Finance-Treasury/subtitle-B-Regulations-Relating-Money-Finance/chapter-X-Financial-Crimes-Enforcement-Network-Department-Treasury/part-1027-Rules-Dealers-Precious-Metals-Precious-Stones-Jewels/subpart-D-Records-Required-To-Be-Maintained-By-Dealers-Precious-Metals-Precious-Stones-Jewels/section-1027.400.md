@@ -1,0 +1,3 @@
+##### § 1027.400 General. #####
+
+Dealers in precious metals, precious stones, or jewels are subject to the recordkeeping requirements set forth and cross referenced in this subpart. Dealers in precious metals, precious stones, or jewels should also refer to subpart D of part 1010 of this chapter for recordkeeping requirements contained in that subpart which apply to dealers in precious metals, precious stones, or jewels.

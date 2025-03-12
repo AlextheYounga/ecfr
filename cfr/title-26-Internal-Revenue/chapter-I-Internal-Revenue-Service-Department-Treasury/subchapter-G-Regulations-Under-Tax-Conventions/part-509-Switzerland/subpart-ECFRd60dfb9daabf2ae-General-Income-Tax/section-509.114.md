@@ -1,0 +1,5 @@
+##### § 509.114 Private pensions and life annuities. #####
+
+(a) *General.* Private pensions and life annuities derived from sources within the United States and paid to a nonresident alien individual who is a resident of Switzerland shall not be included in gross income and shall be exempt from United States tax, in accordance with Article XI of the convention, even though at some time during the taxable year such individual has engaged in trade or business in the United States through a permanent establishment situated therein.
+
+(b) *Definitions.* As used in this section, the term “pensions” means periodic payments made in consideration for services rendered or by way of compensation for injuries received; and the term “life annuities” means a stated sum payable periodically at stated times during life, or during a specified number of years, under an obligation to make the payments in return for adequate and full consideration in money or money's worth.

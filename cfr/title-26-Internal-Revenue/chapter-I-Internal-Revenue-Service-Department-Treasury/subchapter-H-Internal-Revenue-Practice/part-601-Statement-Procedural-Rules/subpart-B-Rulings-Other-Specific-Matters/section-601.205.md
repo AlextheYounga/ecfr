@@ -1,0 +1,3 @@
+##### § 601.205 Tort claims. #####
+
+Claims for property loss or damage, personal injury, or death caused by the negligent or wrongful act or omission of any employee of the Service, acting within the scope of his office or employment, filed under the Federal Tort Claims Act, as amended, must be prepared and filed in accordance with Treasury Department regulations entitled “Central Office Procedures” and “Claims Regulations” (31 CFR Parts 1 and 3). Such regulations contain the procedural and substantive requirements relative to such claims, and set forth the manner in which they are handled. The claims should be filed with the Commissioner of Internal Revenue, Washington, DC 20224, and must be filed within 2 years after the accident or incident occurred.

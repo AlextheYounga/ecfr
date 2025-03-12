@@ -1,0 +1,9 @@
+##### § 316.9 Taxation. #####
+
+(a) *General.* For the purpose of determining taxes and tax exemptions, the increment in value represented by the difference between the price paid for Series E bonds and the redemption value received therefor constitutes interest. Such interest is subject to all taxes imposed under the Internal Revenue Code of 1986, as amended. The bonds are subject to estate, inheritance, gift, or other excise taxes, whether Federal or State, but are exempt from all other taxation now or hereafter imposed on the principal or interest thereof by any State, or any of the possessions of the United States, or by any local taxing authority.
+
+(b) *Federal income tax on bonds.* An owner of Series E bonds who is a cash-basis taxpayer may use either of the following two methods of reporting the increase in the redemption value of the bonds for Federal income tax purposes:
+
+(1) Defer reporting the increase to the year of final maturity, actual redemption, or other disposition, whichever is earlier; or
+
+(2) Elect to report the increases each year as they accrue, in which case the election applies to all Series E bonds then owned and those subsequently acquired, as well as to any other similar obligations purchased on a discount basis. If the method in paragraph (b)(1) of this section is used, the taxpayer may change to the method in paragraph (b)(2) of this section without obtaining permission from the Internal Revenue Service. However, once the election to use the method in paragraph (b)(2) of this section is made, the taxpayer may not change the method of reporting without permission from the Internal Revenue Service. For further information on Federal income taxes, the Service Center Director, or District Director, Internal Revenue Service, of the taxpayer's district may be contacted.

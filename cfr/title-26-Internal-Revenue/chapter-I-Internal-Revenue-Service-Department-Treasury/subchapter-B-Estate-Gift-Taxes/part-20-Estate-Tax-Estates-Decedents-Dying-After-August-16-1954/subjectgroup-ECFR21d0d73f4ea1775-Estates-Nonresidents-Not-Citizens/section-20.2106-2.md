@@ -1,0 +1,13 @@
+##### § 20.2106-2 Estates of nonresidents not citizens; deductions for expenses, losses, etc. #####
+
+(a) In computing the taxable estate of a nonresident who was not a citizen of the United States at the time of his death, deductions are allowed under sections 2053 and 2054 for expenses, indebtedness and taxes, and for losses, to the following extent:
+
+(1) A pledge or subscription is deductible if it is an enforceable claim against the estate and if it would constitute an allowable deduction under paragraph (a)(2) of § 20.2106-1, relating to charitable, etc., transfers, if it had been a bequest.
+
+(2) That proportion of other deductions under sections 2053 and 2054 is allowed which the value of that part of the decedent's gross estate situated in the United States at the time of his death bears to the value of the decedent's entire gross estate wherever situated. It is immaterial whether the amounts to be deducted were incurred or expended within or without the United States. For purposes of this subparagraph, an amount which is includible in the decedent's gross estate under section 2107(b) with respect to stock in a foreign corporation shall be included in the value of the decedent's gross estate situated in the United States.
+
+No deduction is allowed under this paragraph unless the value of the decedent's entire gross estate is disclosed in the estate tax return. See paragraph (b) of § 20.2106-1.
+
+(b) In order that the Internal Revenue Service may properly pass upon the items claimed as deductions, the executor should submit a certified copy of the schedule of liabilities, claims against the estate, and expenses of administration filed under any applicable foreign death duty act. If no such schedule was filed, the executor should submit a certified copy of the schedule of these liabilities, claims and expenses filed with the foreign court in which administration was had. If the items of deduction allowable under section 2106(a)(1) were not included in either such schedule, or if no such schedules were filed, then there should be submitted a written statement of the foreign executor containing a declaration that it is made under the penalties of perjury setting forth the facts relied upon as entitling the estate to the benefit of the particular deduction or deductions.
+
+[T.D. 6296, 23 FR 4529, June 24, 1958; 25 FR 14021, Dec. 31, 1960, as amended by T.D. 7296, 38 FR 34197, Dec. 12, 1973; T.D. 8612, 60 FR 43552, Aug. 22, 1995]

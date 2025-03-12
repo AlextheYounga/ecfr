@@ -1,0 +1,7 @@
+##### § 2540.300 What must be included in annual State reports to the Corporation? #####
+
+(a) *In general.* Each State receiving assistance under this title must prepare and submit, to the Corporation, an annual report concerning the use of assistance provided under this chapter and the status of the national and community service programs in the State that receive assistance under this chapter. A State's annual report must include information that demonstrates the State's compliance with the requirements of this chapter.
+
+(b) *Local grantees.* Each State may require local grantees that receive assistance under this chapter to supply such information to the State as is necessary to enable the State to complete the report required under paragraph (a) of this section, including a comparison of actual accomplishments with the goals established for the program, the number of participants in the program, the number of service hours generated, and the existence of any problems, delays or adverse conditions that have affected or will affect the attainment of program goals.
+
+(c) *Availability of report.* Reports submitted under paragraph (a) of this section must be made available to the public on request.

@@ -1,0 +1,9 @@
+##### § 55.6161-1 Extension of time for paying tax or deficiency. #####
+
+(a) *In general*—(1) *Tax shown or required to be shown on return.* A reasonable extension of the time for payment of the amount of any tax imposed by Chapter 44 and shown or required to be shown on any return, may be granted by the district directors at the request of the taxpayer. The period of such extension shall not be in excess of 6 months from the date fixed for payment of such tax.
+
+(2) *Deficiency.* The time for payment of any amount determined as a deficiency in respect of tax imposed by Chapter 44 may, at the request of the taxpayer, be extended by the internal revenue officer to whom the tax is required to be paid. The extension may be for a period not to exceed 18 months from the date fixed for payment of the deficiency, as shown on the notice and demand. In exceptional cases, a further extension for a period not in excess of 12 months may be granted. No extension of time for payment of a deficiency shall be granted if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+
+(3) *Extension of time for filing distinguished.* The granting of an extension of time for filing a return does not operate to extend the time for the payment of the tax or any part thereof unless so specified in the extension.
+
+(b) *Certain rules relating to extension of time for paying income tax to apply.* The provisions of § 1.6161-1 (b), and (c), and (d) of this chapter (relating to a requirement for undue hardship, the application for extension, and payment pursuant to an extension) shall apply to extensions of time for payment of the tax imposed by Chapter 44.

@@ -1,0 +1,650 @@
+##### § 1.6045-1 Returns of information of brokers and barter exchanges. #####
+
+(a) *Definitions.* The following definitions apply for purposes of this section and § 1.6045-2:
+
+(1) The term *broker* means any person (other than a person who is required to report a transaction under section 6043), U.S. or foreign, that, in the ordinary course of a trade or business during the calendar year, stands ready to effect sales to be made by others. A broker includes an obligor that regularly issues and retires its own debt obligations or a corporation that regularly redeems its own stock. However, with respect to a sale (including a redemption or retirement) effected at an office outside the United States, a broker includes only a person described as a U.S. payor or U.S. middleman in § 1.6049-5(c)(5). In addition, a broker does not include an international organization described in § 1.6049-4(c)(1)(ii)(G) that redeems or retires an obligation of which it is the issuer.
+
+(2) The term *customer* means, with respect to a sale effected by a broker, the person (other than such broker) that makes the sale, if the broker acts as:
+
+(i) An agent for such person in the sale;
+
+(ii) A principal in the sale; or
+
+(iii) The participant in the sale responsible for paying to such person or crediting to such person's account the gross proceeds on the sale.
+
+(3) The term *security* means:
+
+(i) A share of stock in a corporation (foreign or domestic);
+
+(ii) An interest in a trust;
+
+(iii) An interest in a partnership;
+
+(iv) A debt obligation;
+
+(v) An interest in or right to purchase any of the foregoing in connection with the issuance thereof from the issuer or an agent of the issuer or from an underwriter that purchases any of the foregoing from the issuer;
+
+(vi) An interest in a security described in paragraph (a)(3)(i) or (iv) of this section (but not including executory contracts that require delivery of such type of security);
+
+(vii) An option described in paragraph (m)(2) of this section; or
+
+(viii) A securities futures contract.
+
+(4) The term *barter exchange* means any person with members or clients that contract either with each other or with such person to trade or barter property or services either directly or through such person. The term does not include arrangements that provide solely for the informal exchange of similar services on a noncommercial basis.
+
+(5) The term *commodity* means:
+
+(i) Any type of personal property or an interest therein (other than securities as defined in paragraph (a)(3)) the trading of regulated futures contracts in which has been approved by the Commodity Futures Trading Commission;
+
+(ii) Lead, palm oil, rapeseed, tea, tin, or an interest in any of the foregoing; or
+
+(iii) Any other personal property or an interest therein that is of a type the Secretary determines is to be treated as a “commodity” under this section, from and after the date specified in a notice of such determination published in the Federal Register.
+
+(6) The term *regulated futures contract* means a regulated futures contract within the meaning of section 1256(b).
+
+(7) The term *forward contract* means:
+
+(i) An executory contract that requires delivery of a commodity in exchange for cash and which contract is not a regulated futures contract; or
+
+(ii) An executory contract that requires delivery of personal property or an interest therein in exchange for cash, or a cash settlement contract, if such executory contract or cash settlement contract is of a type the Secretary determines is to be treated as a “forward contract” under this section, from and after the date specified in a notice of such determination published in the Federal Register.
+
+(8) The term *closing transaction* means a lapse, expiration, settlement, abandonment, or other termination of a position. For purposes of the preceding sentence, a position includes a right or an obligation under a forward contract, a regulated futures contract, a securities futures contract, or an option.
+
+(9) The term *sale* means any disposition of securities, commodities, options, regulated futures contracts, securities futures contracts, or forward contracts, and includes redemptions of stock, retirements of debt instruments (including a partial retirement attributable to a principal payment received on or after January 1, 2014), and enterings into short sales, but only to the extent any of these actions are conducted for cash. In the case of an option, a regulated futures contract, a securities futures contract, or a forward contract, a sale includes any closing transaction. When a closing transaction for a contract described in section 1256(b)(1)(A) involves making or taking delivery, there are two sales, one resulting in profit or loss on the contract, and a separate sale on the delivery. When a closing transaction for a contract described in section 988(c)(5) involves making delivery, there are two sales, one resulting in profit or loss on the contract, and a separate sale on the delivery. For purposes of the preceding sentence, a broker may assume that any customer's functional currency is the U.S. dollar. When a closing transaction in a forward contract involves making or taking delivery, the broker may treat the delivery as a sale without separating the profit or loss on the contract from the profit or loss on the delivery, except that taking delivery for United States dollars is not a sale. The term *sale* does not include entering into a contract that requires delivery of personal property or an interest therein, the initial grant or purchase of an option, or the exercise of a purchased call option for physical delivery (except for a contract described in section 988(c)(5)). For purposes of this section only, a constructive sale under section 1259 and a mark to fair market value under section 475 or 1296 are not sales.
+
+(10) The term *effect* means, with respect to a sale, to act as:
+
+(i) An agent for a party in the sale wherein the nature of the agency is such that the agent ordinarily would know the gross proceeds from the sale; or
+
+(ii) A principal in such sale.
+
+Acting as an agent or principal with respect to grants or purchases of options, exercises of call options, or enterings into contracts that require delivery of personal property or an interest therein is not of itself effecting a sale. A broker that has on its books a forward contract under which delivery is made effects such delivery.
+
+(11) The term *foreign currency* means currency of a foreign country.
+
+(12) The term *cash* means United States dollars or any convertible foreign currency.
+
+(13) The term *person* includes any governmental unit and any agency or instrumentality thereof.
+
+(14) The term *specified security* means:
+
+(i) Any share of stock (or any interest treated as stock, including, for example, an American Depositary Receipt) in an entity organized as, or treated for Federal tax purposes as, a corporation, either foreign or domestic (provided that, solely for purposes of this paragraph (a)(14)(i), a security classified as stock by the issuer is treated as stock, and if the issuer has not classified the security, the security is not treated as stock unless the broker knows that the security is reasonably classified as stock under general Federal tax principles);
+
+(ii) Any debt instrument described in paragraph (a)(17) of this section, other than a debt instrument subject to section 1272(a)(6) (certain interests in or mortgages held by a REMIC, certain other debt instruments with payments subject to acceleration, and pools of debt instruments the yield on which may be affected by prepayments) or a short-term obligation described in section 1272(a)(2)(C);
+
+(iii) Any option described in paragraph (m)(2) of this section; or
+
+(iv) Any securities futures contract.
+
+(15) The term *covered security* means a specified security described in this paragraph (a)(15).
+
+(i) *In general.* Except as provided in paragraph (a)(15)(iv) of this section, the following securities are covered securities:
+
+(A) A specified security described in paragraph (a)(14)(i) of this section acquired for cash in an account on or after January 1, 2011, except stock for which the average basis method is available under § 1.1012-1(e).
+
+(B) Stock for which the average basis method is available under § 1.1012-1(e) acquired for cash in an account on or after January 1, 2012.
+
+(C) A specified security described in paragraphs (a)(14)(ii) and (n)(2)(i) of this section (not including the debt instruments described in paragraph (n)(2)(ii) of this section) acquired for cash in an account on or after January 1, 2014.
+
+(D) A specified security described in paragraphs (a)(14)(ii) and (n)(3) of this section acquired for cash in an account on or after January 1, 2016.
+
+(E) An option described in paragraph (a)(14)(iii) of this section granted or acquired for cash in an account on or after January 1, 2014.
+
+(F) A securities futures contract described in paragraph (a)(14)(iv) of this section entered into in an account on or after January 1, 2014.
+
+(G) A specified security transferred to an account if the broker or other custodian of the account receives a transfer statement (as described in § 1.6045A-1) reporting the security as a covered security.
+
+(ii) *Acquired in an account.* For purposes of this paragraph (a)(15), a security is considered acquired in a customer's account at a broker or custodian if the security is acquired by the customer's broker or custodian or acquired by another broker and delivered to the customer's broker or custodian. Acquiring a security in an account includes granting an option and entering into a short sale.
+
+(iii) *Corporate actions and other events.* For purposes of this paragraph (a)(15), a security acquired due to a stock dividend, stock split, reorganization, redemption, stock conversion, recapitalization, corporate division, or other similar action is considered acquired for cash in an account.
+
+(iv) *Exceptions.* Notwithstanding paragraph (a)(15)(i) of this section, the following securities are not covered securities:
+
+(A) Stock acquired in 2011 that is transferred to a dividend reinvestment plan (as described in § 1.1012-1(e)(6)) in 2011. However, a covered security acquired in 2011 that is transferred to a dividend reinvestment plan after 2011 remains a covered security.
+
+(B) A security acquired through an event described in paragraph (a)(15)(iii) of this section if the basis of the acquired security is determined from the basis of a noncovered security.
+
+(C) A security that is excepted at the time of its acquisition from reporting under paragraph (c)(3) or (g) of this section. However, a broker cannot treat a security as acquired by an exempt foreign person under paragraph (g)(1)(i) of this section at the time of acquisition if, at that time, the broker knows or should have known (including by reason of information that the broker is required to collect under section 1471 or 1472) that the customer is not a foreign person.
+
+(D) A security for which reporting under this section is required by § 1.6049-5(d)(3)(ii) (certain securities owned by a foreign intermediary or flow-through entity).
+
+(16) The term *noncovered security* means any security that is not a covered security.
+
+(17) For purposes of this section, the terms *debt instrument, bond, debt obligation,* and *obligation* mean a debt instrument as defined in § 1.1275-1(d) and any instrument or position that is treated as a debt instrument under a specific provision of the Internal Revenue Code (for example, a regular interest in a REMIC as defined in section 860G(a)(1) and § 1.860G-1). Solely for purposes of this section, a security classified as debt by the issuer is treated as debt. If the issuer has not classified the security, the security is not treated as debt unless the broker knows that the security is reasonably classified as debt under general Federal tax principles or that the instrument or position is treated as a debt instrument under a specific provision of the Internal Revenue Code.
+
+(18) For purposes of this section, the term *securities futures contract* means a contract described in section 1234B(c) whose underlying asset is described in paragraph (a)(14)(i) of this section and which is entered into on or after January 1, 2014.
+
+(b) *Examples.* The following examples illustrate the definitions in paragraph (a):
+
+Example 1.The following persons generally are brokers within the meaning of paragraph (a)(1):
+
+(i) A mutual fund, an underwriter of the mutual fund, or an agent for the mutual fund, any of which stands ready to redeem or repurchase shares in such mutual fund.
+
+(ii) A professional custodian (such as a bank) that regularly arranges sales for custodial accounts pursuant to instructions from the owner of the property.
+
+(iii) A depositary trust or other person who regularly acts as an escrow agent in corporate acquisitions, if the nature of the activities of the agent is such that the agent ordinarily would know the gross proceeds from sales.
+
+(iv) A stock transfer agent for a corporation, which agent records transfers of stock in such corporation, if the nature of the activities of the agent is such that the agent ordinarily would know the gross proceeds from sales.
+
+(v) A dividend reinvestment agent for a corporation that stands ready to purchase or redeem shares.
+
+Example 2.The following persons are not brokers within the meaning of paragraph (1)(a) in the absence of additional facts that indicate the person is a broker:
+
+(i) A stock transfer agent for a corporation, which agent daily records transfers of stock in such corporation, if the nature of the activities of the agent is such that the agent ordinarily would not know the gross proceeds from sales.
+
+(ii) A person (such as a stock exchange) that merely provides facilities in which others effect sales.
+
+(iii) An escrow agent or nominee if such agency is not in the ordinary course of a trade or business.
+
+(iv) An escrow agent, otherwise a broker, which agent effects no sales other than such transactions as are incidental to the purpose of the escrow (such as sales to collect on collateral).
+
+(v) A floor broker on a commodities exchange, which broker maintains no records with respect to the terms of sales.
+
+(vi) A corporation that issues and retires long-term debt on an irregular basis.
+
+(vii) A clearing organization.
+
+Example 3.A, B, and C belong to a carpool in which they commute to and from work. Every third day, each member of the carpool provides transportation for the other two members. Because the carpool arrangement provides solely for the informal exchange of similar services on a noncommercial basis, the carpool is not a barter exchange within the meaning of paragraph (a)(4).Example 4.X is an organization whose members include retail merchants, wholesale merchants, and persons in the trade or business of performing services. X's members exchange property and services among themselves using credits on the books of X as a medium of exchange. Each exchange through X is reflected on the books of X by crediting the account of the member providing property or services and debiting the account of the member receiving such property or services. X also provides information to its members concerning property and services available for exchange through X. X charges its members a commission on each transaction in which credits on its books are used as a medium of exchange. X is a barter exchange within the meaning of paragraph (a)(4) of this section.Example 5.A warehouse receipt is an interest in personal property for purposes of paragraph (a). Consequently, a warehouse receipt for a quantity of lead is a commodity under paragraph (a)(5)(ii). Similarly an executory contract that requires delivery of a warehouse receipt for a quantity of lead is a forward contract under paragraph (a)(7)(ii).Example 6.The only customers of a depository trust acting as an escrow agent in corporate acquisitions which trust is a broker, are shareholders to whom the trust makes payments or shareholders for whom the trust is acting as an agent.Example 7.The only customers of a stock transfer agent, which agent is a broker are shareholders to whom the agent makes payments or shareholders for whom the agent is acting as an agent,Example 8.D, an individual not otherwise exempt from reporting, is the holder of an obligation issued by P, a corporation. R, a broker, acting as an agent for P, retires such obligation held by D. Such obligor payments from R represent obligor payments by P. (See paragraph (c)(3)(v)). D, the person to whom the gross proceeds are paid or credited by R, is the customer of R.Example 9.E, an individual not otherwise exempt from reporting, maintains an account with S, a broker. On June 1, 2012, E instructs S to purchase stock that is a specified security for cash. S places an order to purchase the stock with T, another broker. E does not maintain an account with T. T executes the purchase. Custody of the purchased stock is transferred to E's account at S. Under paragraph (a)(15)(ii) of this section, the stock is considered acquired for cash in E's account at S. Because the stock is acquired on or after January 1, 2012, under paragraph (a)(15)(i) of this section, it is a covered security.Example 10.F, an individual not otherwise exempt from reporting, is granted 100 shares of stock in F's employer by F's employer. Because F does not acquire the stock for cash or through a transfer to an account with a transfer statement (as described in § 1.6045A-1), under paragraph (a)(15) of this section, the stock is not a covered security.Example 11.G, an individual not otherwise exempt from reporting, owns 400 shares of stock in Q, a corporation, in an account with U, a broker. Of the 400 shares, 100 are covered securities and 300 are noncovered securities. Q takes a corporate action to split its stock in a 2-for-1 split. After the stock split, G owns 800 shares of stock. Because the adjusted basis of 600 of the 800 shares that G owns is determined from the basis of noncovered securities, under paragraphs (a)(15)(iii) and (a)(15)(iv)(B) of this section, these 600 shares are not covered securities and the remaining 200 shares are covered securities.
+
+(c) *Reporting by brokers* - (1) *Requirement of reporting.* Any broker shall, except as otherwise provided, report in the manner prescribed in this section.
+
+(2) *Sales required to be reported.* Except as provided in paragraphs (c)(3), (c)(5), and (g) of this section, a broker is required to make a return of information for each sale by a customer of the broker if, in the ordinary course of a trade or business in which the broker stands ready to effect sales to be made by others, the broker effects the sale or closes the short position opened by the sale.
+
+(3) *Exceptions* - (i) *Sales effected for exempt recipients* -
+
+(A) *In general.* No return of information is required with respect to a sale effected for a customer that is an exempt recipient under paragraph (c)(3)(i)(B) of this section.
+
+(B) *Exempt recipient defined.* The term *exempt recipient* means -
+
+(*1*) A corporation as defined in section 7701(a)(3), whether domestic or foreign, except that this exclusion does not apply to sales of covered securities acquired on or after January 1, 2012, by an S corporation as defined in section 1361(a);
+
+(*2*) An organization exempt from taxation under section 501(a) or an individual retirement plan;
+
+(*3*) The United States or a State, the District of Columbia, a possession of the United States, a political subdivision of any of the foregoing, a wholly owned agency or instrumentality of any one or more of the foregoing, or a pool or partnership composed exclusively of any of the foregoing;
+
+(*4*) A foreign government, a political subdivision thereof, an international organization, or any wholly owned agency or instrumentality of the foregoing;
+
+(*5*) A foreign central bank of issue as defined in § 1.895-1(b)(1) (i.e., a bank that is by law or government sanction the principal authority, other than the government itself, issuing instruments intended to circulate as currency);
+
+(*6*) A dealer in securities or commodities registered as such under the laws of the United States or a State;
+
+(*7*) A futures commission merchant registered as such with the Commodity Futures Trading Commission;
+
+(*8*) A real estate investment trust (as defined in section 856);
+
+(*9*) An entity registered at all times during the taxable year under the Investment Company Act of 1940 (15 U.S.C. 80a-1, *et seq.*);
+
+(*10*) A common trust fund (as defined in section 584(a)); or
+
+(*11*) A financial institution such as a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank, homestead association, credit union, industrial loan association or bank, or other similar organization.
+
+(C) *Exemption certificate* - (*1*) *In general.* Except as provided in paragraph (c)(3)(i)(C)(*2*) of this section, a broker may treat a person described in paragraph (c)(3)(i)(B) of this section as an exempt recipient based on a properly completed exemption certificate (as provided in § 31.3406(h)-3 of this chapter); the broker's actual knowledge that the customer is a person described in paragraph (c)(3)(i)(B) of this section; or the applicable indicators described in § 1.6049-4(c)(1)(ii)(A) through (M). A broker may require an exempt recipient to file a properly completed exemption certificate and may treat an exempt recipient that fails to do so as a recipient that is not exempt.
+
+(*2*) *Limitation for corporate customers.* For sales of covered securities acquired on or after January 1, 2012, a broker may not treat a customer as an exempt recipient described in paragraph (c)(3)(i)(B)(*1*) of this section based on the indicators of corporate status described in § 1.6049-4(c)(1)(ii)(A). However, for sales of all securities, a broker may treat a customer as an exempt recipient if one of the following applies:
+
+(*i*) The name of the customer contains the term “insurance company,” “indemnity company,” “reinsurance company,” or “assurance company.”
+
+(*ii*) The name of the customer indicates that it is an entity listed as a per se corporation under § 301.7701-2(b)(8)(i) of this chapter.
+
+(*iii*) The broker receives a properly completed exemption certificate (as provided in § 31.3406(h)-3 of this chapter) that asserts that the customer is not an S corporation as defined in section 1361(a).
+
+(*iv*) The broker receives a withholding certificate described in § 1.1441-1(e)(2)(i) that includes a certification that the person whose name is on the certificate is a foreign corporation.
+
+(ii) [Reserved] For further guidance, see § 1.6045-1T(c)(3)(ii) through (c)(3)(ii)(B).
+
+(iii) *Multiple brokers.* If a broker is instructed to initiate a sale by a person that is an exempt recipient described in paragraph (c)(3)(i)(B)(*6*), (*7*), or (*11*) of this section, no return of information is required with respect to the sale by that broker. In a redemption of stock or retirement of securities, only the broker responsible for paying the holder redeemed or retired, or crediting the gross proceeds on the sale to that holder's account, is required to report the sale.
+
+(iv) *Cash on delivery transactions.* In the case of a sale of securities through a cash on delivery account, a delivery versus payment account, or other similar account or transaction, only the broker that receives the gross proceeds from the sale against delivery of the securities sold is required to report the sale. If, however, the broker's customer is another broker (second-party broker) that is an exempt recipient, then only the second-party broker is required to report the sale.
+
+(v) *Fiduciaries and partnerships.* No return of information is required with respect to a sale effected by a custodian or trustee in its capacity as such or a redemption of a partnership interest by a partnership, provided the sale is otherwise reported by the custodian or trustee on a properly filed Form 1041, or the redemption is otherwise reported by the partnership on a properly filed Form 1065, and all Schedule K-1 reporting requirements are satisfied.
+
+(vi) *Money market funds* - (A) *In general.* No return of information is required with respect to a sale of shares in a regulated investment company that is permitted to hold itself out to investors as a money market fund under Rule 2a-7 under the Investment Company Act of 1940 (17 CFR 270.2a-7).
+
+(B) *Effective/applicability date.* Paragraph (c)(3)(vi)(A) of this section applies to sales of shares in calendar years beginning on or after July 8, 2016. Taxpayers and brokers (as defined in § 1.6045-1(a)(1)), however, may rely on paragraph (c)(3)(vi)(A) of this section for sales of shares in calendar years beginning before July 8, 2016.
+
+(vii) *Obligor payments on certain obligations.* No return of information is required with respect to payments representing obligor payments on -
+
+(A) Nontransferable obligations (including savings bonds, savings accounts, checking accounts, and NOW accounts);
+
+(B) Obligations as to which the entire gross proceeds are reported by the broker on Form 1099 under provisions of the Internal Revenue Code other than section 6045 (including stripped coupons issued prior to July 1, 1982); or
+
+(C) Retirement of short-term obligations (i.e., obligations with a fixed maturity date not exceeding 1 year from the date of issue) that have original issue discount, as defined in section 1273(a)(1), with or without application of the de minimis rule. The preceding sentence does not apply to a debt instrument issued on or after January 1, 2014. For a short-term obligation issued on or after January 1, 2014, see paragraph (c)(3)(xiii) of this section.
+
+(D) Demand obligations that also are callable by the obligor and that have no premium or discount. The preceding sentence does not apply to a debt instrument issued on or after January 1, 2014.
+
+(viii) *Foreign currency.* No return of information is required with respect to a sale of foreign currency other than a sale pursuant to a forward contract or regulated futures contract that requires delivery of foreign currency.
+
+(ix) *Fractional share.* No return of information is required with respect to a sale of a fractional share of stock if the gross proceeds on the sale of the fractional share are less than $20.
+
+(x) *Certain retirements.* No return of information is required from an issuer or its agent with respect to the retirement of book entry or registered form obligations as to which the relevant books and records indicate that no interim transfers have occurred. The preceding sentence does not apply to a debt instrument issued on or after January 1, 2014.
+
+(xi) *Short sales* - (A) *In general.* A broker may not make a return of information under this section for a short sale of a security entered into on or after January 1, 2011, until the year a customer delivers a security to satisfy the short sale obligation. The return must be made without regard to the constructive sale rule in section 1259 or to section 1233(h). In general, the broker must report on a single return the information required by paragraph (d)(2)(i) of this section for the short sale except that the broker must report the date the short sale was closed in lieu of the sale date. In applying paragraph (d)(2)(i) of this section, the broker must report the relevant information regarding the security sold to open the short sale and the adjusted basis of the security delivered to close the short sale and whether any gain or loss on the closing of the short sale is long-term or short-term (within the meaning of section 1222).
+
+(B) *Short sale closed by delivery of a noncovered security.* A broker is not required to report adjusted basis and whether any gain or loss on the closing of the short sale is long-term or short-term if the short sale is closed by delivery of a noncovered security and the return so indicates. A broker that chooses to report this information is not subject to penalties under section 6721 or 6722 for failure to report this information correctly if the broker indicates on the return that the short sale was closed by delivery of a noncovered security.
+
+(C) *Short sale obligation transferred to another account.* If a short sale obligation is satisfied by delivery of a security transferred into a customer's account accompanied by a transfer statement (as described in § 1.6045A-1(b)(7)) indicating that the security was borrowed, the broker receiving custody of the security may not file a return of information under this section. The receiving broker must furnish a statement to the transferor that reports the amount of gross proceeds received from the short sale, the date of the sale, the quantity of shares, units, or amounts sold, and the Committee on Uniform Security Identification Procedures (CUSIP) number of the sold security (if applicable) or other security identifier number that the Secretary may designate by publication in the Federal Register or in the Internal Revenue Bulletin (see § 601.601(d)(2) of this chapter). The statement to the transferor also must include the transfer date, the name and contact information of the receiving broker, the name and contact information of the transferor, and sufficient information to identify the customer. If the customer subsequently closes the short sale obligation in the transferor's account with non-borrowed securities, the transferor must make the return of information required by this section. In that event, the transferor must take into account the information furnished under this paragraph (c)(3)(xi)(C) on the return unless the transferor knows that the information furnished under this paragraph is incorrect or incomplete. A failure to report correct information that arises solely from this reliance is deemed to be due to reasonable cause for purposes of penalties under sections 6721 and 6722. *See* § 301.6724-1(a)(1) of this chapter.
+
+(xii) *Cross reference.* For an exception for certain sales of agricultural commodities and certificates issued by the Commodity Credit Corporation after January 1, 1993, see paragraph (c)(7) of this section.
+
+(xiii) *Short-term obligations issued on or after January 1, 2014.* No return of information is required under this section with respect to a sale (including a retirement) of a short-term obligation, as described in section 1272(a)(2)(C), that is issued on or after January 1, 2014.
+
+(xiv) through (xv) [Reserved] For further guidance, see § 1.6045-1T(c)(3)(xiv) through (xv).
+
+(4) *Examples.* The following examples illustrate the application of the rules in paragraph (c)(3) of this section:
+
+Example 1.P, an individual who is not an exempt recipient, places an order with B, a person generally known in the investment community to be a federally registered broker/dealer, to effect a sale of P's stock in a publicly traded corporation. B, in turn, places an order to sell the stock with C, a second broker, who will execute the sale. B discloses to C the identity of the customer placing the order. C is not required to make a return of information with respect to the sale because C was instructed by B, an exempt recipient as defined in paragraph (c)(3)(i)(B)(*6*) of this section, to initiate the sale. B is required to make a return of information with respect to the sale because P is B's customer and is not an exempt recipient.Example 2.Assume the same facts as in *Example 1* except that B has an omnibus account with C so that B does not disclose to C whether the transaction is for a customer of B or for B's own account. C is not required to make a return of information with respect to the sale because C was instructed by B, an exempt recipient as defined in paragraph (c)(3)(i)(B)(*6*) of this section, to initiate the sale. B is required to make a return of information with respect to the sale because P is B's customer and is not an exempt recipient.Example 3.D, an individual who is not an exempt recipient, enters into a cash on delivery stock transaction by instructing K, a federally registered broker/dealer, to sell stock owned by D, and to deliver the proceeds to L, a custodian bank. Concurrently with the above instructions, D instructs L to deliver D's stock to K (or K's designee) against delivery of the proceeds from K. The records of both K and L with respect to this transaction show an account in the name of D. Pursuant to paragraph (h)(1) of this section, D is considered the customer of K and L. Under paragraph (c)(3)(iv) of this section, K is not required to make a return of information with respect to the sale because K will pay the gross proceeds to L against delivery of the securities sold. L is required to make a return of information with respect to the sale because D is L's customer and is not an exempt recipient.Example 4.Assume the same facts as in *Example 3* except that E, a federally registered investment advisor, instructs K to sell stock owned by D and to deliver the proceeds to L. Concurrently with the above instructions, E instructs L to deliver D's stock to K (or K's designee) against delivery of the proceeds from K. The records of both K and L with respect to the transaction show an account in the name of D. Pursuant to paragraph (h)(1) of this section, D is considered the customer of K and L. Under paragraph (c)(3)(iv) of this section, K is not required to make a return of information with respect to the sale because K will pay the gross proceeds to L against delivery of the securities sold. L is required to make a return of information with respect to the sale because D is L's customer and is not an exempt recipient.Example 5.Assume the same facts as in *Example 4* except that the records of both K and L with respect to the transaction show an account in the name of E. Pursuant to paragraph (h)(1) of this section, E is considered the customer of K and L. Under paragraph (c)(3)(iv) of this section, K is not required to make a return of information with respect to the sale because K will pay the gross proceeds to L against delivery of the securities sold. L is required to make a return of information with respect to the sale because E is L's customer and is not an exempt recipient. E is required to make a return of information with respect to the sale because D is E's customer and is not an exempt recipient.Example 6.F, an individual who is not an exempt recipient, owns bonds that are held by G, a federally registered broker/dealer, in an account for F with G designated as nominee for F. Upon the retirement of the bonds, the gross proceeds are automatically credited to the account of F. G is required to make a return of information with respect to the retirement because G is the broker responsible for making payments of the gross proceeds to F.Example 7.On June 24, 2010, H, an individual who is not an exempt recipient, opens a short sale of stock in an account with M, a broker. Because the short sale is entered into before January 1, 2011, paragraph (c)(3)(xi) of this section does not apply. Under paragraphs (c)(2) and (j) of this section, M must make a return of information for the year of the sale regardless of when the short sale is closed.Example 8.(i) On August 25, 2011, H opens a short sale of stock in an account with M, a broker. H closes the short sale with M on January 25, 2012, by purchasing stock of the same corporation in the account in which H opened the short sale and delivering the stock to satisfy H's short sale obligation. The stock H purchased is a covered security.
+
+(ii) Because the short sale is entered into on or after January 1, 2011, under paragraphs (c)(2) and (c)(3)(xi) of this section, the broker closing the short sale must make a return of information reporting the sale for the year in which the short sale is closed. Thus, M is required to report the sale for 2012. M must report on a single return the relevant information for the sold stock, the adjusted basis of the purchased stock, and whether any gain or loss on the closing of the short sale is long-term or short-term (within the meaning of section 1222). Thus, M must report the information about the short sale opening and closing transactions on a single return for taxable year 2012.
+
+Example 9.(i) Assume the same facts as in *Example 8* except that H also has an account with N, a broker, and satisfies the short sale obligation with M by borrowing stock of the same corporation from N and transferring custody of the borrowed stock from N to M. N indicates on the transfer statement that the transferred stock was borrowed in accordance with § 1.6045A-1(b)(7).
+
+(ii) Under paragraph (c)(3)(xi)(C) of this section, M may not file the return of information required under this section. M must furnish a statement to N that reports the gross proceeds from the short sale on August 25, 2011, the date of the sale, the quantity of shares sold, the CUSIP number or other security identifier number of the sold stock, the transfer date, the name and contact information of M and N, and information identifying H such as H's name and the account number from which H transferred the borrowed stock.
+
+(iii) N must report the gross proceeds from the short sale, the date the short sale was closed, the adjusted basis of the stock acquired to close the short sale, and whether any gain or loss on the closing of the short sale is long-term or short-term (within the meaning of section 1222) on the return of information N is required to file under paragraph (c)(2) of this section when H closes the short sale in the account with N.
+
+(5) *Form of reporting for regulated futures contracts* - (i) *In general.* A broker effecting closing transactions in regulated futures contracts shall report information with respect to regulated futures contracts solely in the manner prescribed in this paragraph (c)(5). In the case of a sale that involves making delivery pursuant to a regulated futures contract, only the profit or loss on the contract is reported as a transaction with respect to regulated futures contracts under this paragraph (c)(5); such sales are, however, subject to reporting under paragraph (d)(2). The information required under this paragraph (c)(5) must be reported on a calendar year basis, unless the broker is advised in writing by an account's owner that the owner's taxable year is other than a calendar year and the broker elects to report with respect to regulated futures contracts in such account on the basis of the owner's taxable year. The following information must be reported as required by Form 1099 with respect to regulated futures contracts held in a customer's account:
+
+(A) The name, address, and taxpayer identification number of the customer.
+
+(B) The net realized profit or loss from all regulated futures contracts closed during the calendar year.
+
+(C) The net unrealized profit or loss in all open regulated futures contracts at the end of the preceding calendar year.
+
+(D) The net unrealized profit or loss in all open regulated futures contracts at the end of the calendar year.
+
+(E) The aggregate profit or loss from regulated futures contracts ((*b*) + (*d*)−(*c*)).
+
+(F) Any other information required by Form 1099. See 17 CFR 1.33. For this purpose, the end of a year is the close of business of the last business day of such year. In reporting under this paragraph (c)(5), the broker shall make such adjustments for commissions that have actually been paid and for option premiums as are consistent with the books of the broker. No additional returns of information with respect to regulated futures contracts so reported are required.
+
+(ii) *Determination of profit or loss from foreign currency contracts.* A broker effecting a closing transaction in foreign currency contracts (as defined in section 1256(g)) shall report information with respect to such contracts in the manner prescribed in paragraph (c)(5)(i) of this section. If a foreign currency contract is closed by making or taking delivery, the net realized profit or loss for purposes of paragraph (c)(5)(i)(B) of this section is determined by comparing the contract price to the spot price for the contract currency at the time and place specified in the contract. If a foreign currency contract is closed by entry into an offsetting contract, the net realized profit or loss for purposes of paragraph (c)(5)(i)(B) of this section is determined by comparing the contract price to the price of the offsetting contract. The net unrealized profit or loss in a foreign currency contract for purposes of paragraphs (c)(5)(i) (C) and (D) of this section is determined by comparing the contract price to the broker's price for similar contracts at the close of business of the relevant year.
+
+(iii) *Examples.* The following examples illustrate the application of the rules in this paragraph (c)(5):
+
+Example 1.On October 30, 1984, A, an individual who is a calendar year taxpayer not otherwise exempt from reporting, buys one March 1985 put on Treasury Bond futures (i.e. A purchases an option to enter into a short regulated futures contract of $100,000 face value U.S. Treasury bonds). A pays $500 for the option. On December 19, 1984, A, through B, exercises the option and enters into the futures contract. On February 15, 1985, A, through B, enters into a closing transaction with respect to the futures contract. These are A's only transactions in the account. Since B's books list A's regulated futures contract on December 31, 1984, B must report for A, for 1984, the unrealized profit or loss in the contract as of December 31, 1984. For 1985, B will report the same amount for A as the unrealized profit or loss at the beginning of 1985. The return of information for 1985 will also include the gain or loss from the contract in the net realized profit or loss from all regulated futures contracts sales during 1985.Example 2.The facts are the same as in Example (1) except that A does not enter into the closing transaction, but instead, on March 20, 1985, B informs A that A will make delivery under the contract. On March 22, 1985, A does so; consequently, A becomes entitled to the gross proceeds. B enters the closing transaction on its books on March 20, 1985. In addition to the returns of information required by paragraph (c)(5), as described in Example (1), B must report the March 22, 1985 delivery as a separate transaction. B may use as the sale date for the delivery either March 20, 1985, the date the transaction is entered on the books of B, or March 22, 1985, the date A becomes entitled to the gross proceeds. B may not deduct the $500 premium from the gross proceeds with respect to the March 22, 1985 delivery.Example 3.The facts are the same as in Example (2) except that A buys a call on Treasury bond futures and takes delivery. B will supply the returns of information required by paragraph (c)(5), as described in Example (1). B is not required to make a return of information with respect to A's taking delivery.Example 4.C, an individual who is a calendar year taxpayer not otherwise exempt from reporting, has an account with D, a broker. C trades both regulated futures contracts and forward contracts through C's account with D. D must report C's regulated futures contracts on an annual basis as required by paragraph (c)(5). With respect to C's forward contracts, D may elect to use the calendar month, quarter, or year as D's reporting period as provided in paragraph (c)(6).
+
+(6) *Reporting periods and filing groups* - (i) *Reporting period* - (A) *In general.* A broker may elect to use the calendar month, quarter, or year as the broker's reporting period. A broker may separately elect a reporting period for each filing group.
+
+(B) *Election.* For each calendar year, a broker shall elect a reporting period by filing Forms 1096 and 1099 in the manner elected. A different reporting period may be subsequently elected by filing in the manner subsequently elected, provided no duplication of reported transactions results.
+
+(ii) *Filing group* - (A) *In general.* A broker may elect to group customers or customer accounts by office, branch, department or other method of operational classification and separately file Forms 1096 and 1099 for each filing group.
+
+(B) *Election.* For each calendar year, a broker shall elect filing groups by filing Forms 1096 and 1099 in the manner elected. Different filing groups may be subsequently elected by filing in the manner subsequently elected, provided no duplication of reported transactions results.
+
+(iii) *Example.* The following example illustrates the rules of this paragraph (c)(6):
+
+Example.The A department of C, a broker, files a separate report for each month of 1984, whereas the B department of C files one report for all of 1984. C makes no other reports or returns of information under section 6045 for 1984. C had thereby elected two filing groups for 1984, the A department and the B department. The A department has the calendar month as its 1984 reporting period, whereas the B department has the calendar year as its 1984 reporting period. The same result would occur if A and B were offices or branches of C.
+
+(7) *Exception for certain sales of agricultural commodities and commodity certificates* - (i) *Agricultural commodities.* No return of information is required under section 6045 for a spot or forward sale of an agricultural commodity. This paragraph (c)(7)(i) does not except from reporting sales of agricultural commodities pursuant to regulated futures contracts, sales of derivative interests in agricultural commodities, or sales described in paragraph (c)(7)(iii) of this section.
+
+(ii) *Commodity Credit Corporation certificates.* Except as otherwise provided in a revenue ruling or revenue procedure, no return of information is required under section 6045 with respect to a sale of a commodity certificate issued by the Commodity Credit Corporation under 7 CFR 1470.4 (1990).
+
+(iii) *Sales involving designated warehouses.* Paragraph (c)(7)(i) of this section does not apply to any sale involving a warehouse receipt for an agricultural commodity issued by a designated warehouse for an agricultural commodity of the type for which the warehouse is a designated warehouse.
+
+(iv) *Definitions.* For purposes of this paragraph (c)(7):
+
+(A) *Agricultural commodity.* An “agricultural commodity” includes, but is not limited to, a commodity within the meaning of paragraph (a)(5) of this section that is a grain, feed, livestock, meat, oil seed, timber, or fiber.
+
+(B) *Spot sale.* A spot sale is a sale that results in the substantially contemporaneous delivery of a commodity.
+
+(C) *Forward sale.* A forward sale is a sale pursuant to a forward contract within the meaning of paragraph (a)(7) of this section.
+
+(D) *Designated warehouse.* A designated warehouse is a warehouse, depository, or other similar entity, designated by a commodity exchange under 7 CFR 1.43 (1992), in which or out of which a particular type of agricultural commodity is deliverable in satisfaction of a regulated futures contract.
+
+(v) *Effective dates.* Paragraph (c)(7) of this section applies to sales effected on or after January 1, 1993. For sales effected before January 1, 1993, the following transactions are excepted from the information reporting requirements of section 6045:
+
+(A) Spot or forward sales of agricultural products or commodities (but not sales of interests in agricultural products or commodities, such as sales of regulated futures contracts or forward contracts), effected by any person regardless of whether that person takes title to the agricultural products or commodities; and
+
+(B) Sales of negotiable commodity certificates issued by the Commodity Credit Corporation.
+
+(d) *Information required* - (1) *In general.* A broker that is required to make a return of information under paragraph (c) of this section during a reporting period is required to report for each filing group on a separate Form 1096, “Annual Summary and Transmittal of U.S. Information Returns,” or any successor form, the information required by the form in the manner and number of copies required by the form.
+
+(2) *Transactional reporting* - (i) *Required information.* Except as provided in paragraph (c)(5) of this section, for each sale for which a broker is required to make a return of information under this section, the broker must report on Form 1099-B, “Proceeds From Broker and Barter Exchange Transactions,” or any successor form the name, address, and taxpayer identification number of the customer, the property sold, the CUSIP number of the security sold (if applicable) or other security identifier number that the Secretary may designate by publication in the Federal Register or in the Internal Revenue Bulletin (*see* § 601.601(d)(2) of this chapter), the adjusted basis of the security sold, whether any gain or loss with respect to the security sold is long-term or short-term (within the meaning of section 1222), the gross proceeds of the sale, the sale date, and other information required by the form in the manner and number of copies required by the form. In addition, for a sale of a covered security on or after January 1, 2014, a broker must report on Form 1099-B whether any gain or loss is ordinary. See paragraph (m) of this section for additional rules related to options and paragraph (n) of this section for additional rules related to debt instruments.
+
+(ii) *Specific identification of securities.* Except as provided in § 1.1012-1(e)(7)(ii), for a specified security described in paragraph (a)(14)(i) of this section sold on or after January 1, 2011, or for a specified security described in paragraph (a)(14)(ii) of this section sold on or after January 1, 2014, a broker must report a sale of less than the entire position in an account of a specified security that was acquired on different dates or at different prices consistently with a customer's adequate and timely identification of the security to be sold. *See* § 1.1012-1(c). If the customer does not provide an adequate and timely identification for the sale, the broker must first report the sale of securities in the account for which the broker does not know the acquisition or purchase date followed by the earliest securities purchased or acquired, whether covered securities or noncovered securities.
+
+(iii) *Sales of noncovered securities.* A broker is not required to report adjusted basis and the character of any gain or loss for the sale of a noncovered security if the return identifies the sale as a sale of a noncovered security. A broker that chooses to report this information for a noncovered security is not subject to penalties under section 6721 or 6722 for failure to report this information correctly if the return identifies the sale as a sale of a noncovered security. For purposes of this paragraph (d)(2)(iii), a broker must treat a security for which a broker makes the single-account election described in § 1.1012-1(e)(11)(i) as a covered security.
+
+(iv) *Information from other parties and other accounts* - (A) *Transfer and issuer statements.* When reporting a sale of a covered security, a broker must take into account all information, other than the classification of the security (such as stock), furnished on a transfer statement (as described in § 1.6045A-1) and all information furnished or deemed furnished on an issuer statement (as described in § 1.6045B-1), unless the statement is incomplete or the broker has actual knowledge that it is incorrect. A broker may treat a customer as a minority shareholder when taking the information on an issuer statement into account unless the broker knows that the customer is a majority shareholder and the issuer statement reports the action's effect on the basis of majority shareholders. A failure to report correct information that arises solely from reliance on information furnished on a transfer statement or issuer statement is deemed to be due to reasonable cause for purposes of penalties under sections 6721 and 6722. *See* § 301.6724-1(a)(1) of this chapter.
+
+(B) *Other information.* A broker is permitted, but not required, to take into account information about a covered security other than what is furnished on a transfer statement or issuer statement, including any information the broker has about securities held by the same customer in other accounts with the broker. For purposes of penalties under sections 6721 and 6722, a broker that takes into account information received from a customer or third party other than information furnished on a transfer statement or issuer statement is deemed to have relied upon this information in good faith if the broker neither knows nor has reason to know that the information is incorrect. *See* § 301.6724-1(c)(6) of this chapter.
+
+(v) *Failure to receive a complete transfer statement.* A broker that has not received a complete transfer statement as required under § 1.6045A-1(a)(3) for a transfer of a specified security must request a complete statement from the applicable person effecting the transfer unless, under § 1.6045A-1(a), the transferor has no duty to furnish a transfer statement for the transfer. The broker is only required to make this request once. If the broker does not receive a complete transfer statement after requesting it, the broker may treat the security as a noncovered security upon its subsequent sale or transfer. A transfer statement for a covered security is complete if, in the view of the receiving broker, it provides sufficient information to comply with this section when reporting the sale of the security. A transfer statement for a noncovered security is complete if it indicates that the security is a noncovered security.
+
+(vi) *Reporting by other parties after a sale* - (A) *Transfer statements.* If a broker receives a transfer statement indicating that a security is a covered security after the broker reports the sale of the security, the broker must file a corrected return within thirty days of receiving the statement unless the broker reported the required information on the original return consistently with the transfer statement.
+
+(B) *Issuer statements.* If a broker receives or is deemed to receive an issuer statement after the broker reports the sale of a covered security, the broker must file a corrected return within thirty days of receiving the issuer statement unless the broker reported the required information on the original return consistently with the issuer statement.
+
+(C) *Exception.* A broker is not required to file a corrected return under this paragraph (d)(2)(vi) if the broker receives the transfer statement or issuer statement more than three years after the broker filed the return.
+
+(vii) *Examples.* The following examples illustrate the rules of this paragraph (d)(2):
+
+Example 1.(i) On February 22, 2012, K sells 100 shares of stock of C, a corporation, at a loss in an account held with F, a broker. On March 15, 2012, K purchases 100 shares of C stock for cash in an account with G, a different broker. Because K acquires the stock purchased on March 15, 2012, for cash in an account after January 1, 2012, under paragraph (a)(15) of this section, the stock is a covered security. K asks G to increase K's adjusted basis in the stock to account for the application of the wash sale rules under section 1091 to the loss transaction in the account held with F.
+
+(ii) Under paragraph (d)(2)(iv)(B) of this section, G is not required to take into account the information provided by K when subsequently reporting the adjusted basis and whether any gain or loss on the sale is long-term or short-term. If G chooses to take this information into account, under paragraph (d)(2)(iv)(B) of this section, G is deemed to have relied upon the information received from K in good faith for purposes of penalties under sections 6721 and 6722 if G neither knows nor has reason to know that the information provided by K is incorrect.
+
+Example 2.(i) L purchases shares of stock of a single corporation in an account with F, a broker, on April 17, 1969, April 17, 2012, April 17, 2013, and April 17, 2014. In January 2015, L sells all the stock.
+
+(ii) Under paragraph (d)(2)(i) of this section, F must separately report the gross proceeds and adjusted basis attributable to the stock purchased in 2014, for which the gain or loss on the sale is short-term, and the combined gross proceeds and adjusted basis attributable to the stock purchased in 2012 and 2013, for which the gain or loss on the sale is long-term. Under paragraph (d)(2)(iii) of this section, F must also separately report the gross proceeds attributable to the stock purchased in 1969 as the sale of noncovered securities in order to avoid treatment of this sale as the sale of covered securities.
+
+(3) *Sales between interest payment dates.* For each sale of a debt instrument prior to maturity with respect to which a broker is required to make a return of information under this section, a broker must show separately on Form 1099 the amount of accrued and unpaid qualified stated interest as of the sale date that must be reported by the customer as interest income under § 1.61-7(d). *See* § 1.1273-1(c) for the definition of qualified stated interest. Such interest information must be shown in the manner and at the time required by Form 1099 and section 6049.
+
+(4) *Sale date.* With respect to sales of property that are reportable under this section, a broker must report a sale as occurring on the date the sale is entered on the books of the broker.
+
+(5) *Gross proceeds.* For purposes of this section, *gross proceeds* on a sale are the total amount paid to the customer or credited to the customer's account as a result of the sale reduced by the amount of any qualified stated interest reported under paragraph (d)(3) of this section and increased by any amount not paid or credited by reason of repayment of margin loans. In the case of a closing transaction (other than a closing transaction related to an option) that results in a loss, gross proceeds are the amount debited from the customer's account. For sales before January 1, 2014, a broker may, but is not required to, reduce gross proceeds by the amount of commissions and transfer taxes, provided the treatment chosen is consistent with the books of the broker. For sales on or after January 1, 2014, a broker must reduce gross proceeds by the amount of commissions and transfer taxes related to the sale of the security. For securities sold pursuant to the exercise of an option granted or acquired before January 1, 2014, a broker may, but is not required to, take the option premiums into account in determining the gross proceeds of the securities sold, provided the treatment chosen is consistent with the books of the broker. For securities sold pursuant to the exercise of an option granted or acquired on or after January 1, 2014, or for the treatment of an option granted or acquired on or after January 1, 2014, see paragraph (m) of this section. A broker must report the gross proceeds of identical stock (within the meaning of § 1.1012-1(e)(4)) by averaging the proceeds of each share if the stock is sold at separate times on the same calendar day in executing a single trade order and the broker executing the trade provides a single confirmation to the customer that reports an aggregate total price or an average price per share. However, a broker may not average the proceeds if the customer notifies the broker in writing of an intent to determine the proceeds of the stock by the actual proceeds per share and the broker receives the notification by January 15 of the calendar year following the year of the sale. A broker may extend the January 15 deadline but not beyond the due date for filing the return required under this section.
+
+(6) *Adjusted basis* - (i) *In general.* For purposes of this section, the adjusted basis of a security is determined from the initial basis under paragraph (d)(6)(ii) of this section as of the date the security is acquired in an account, increased by the commissions and transfer taxes related to its sale to the extent not accounted for in gross proceeds as described in paragraph (d)(5) of this section. A broker is not required to consider transactions or events occurring outside the account except for an organizational action taken by an issuer during the period the broker holds custody of the security (beginning with the date that the broker receives a transferred security) reported on an issuer statement (as described in § 1.6045B-1) furnished or deemed furnished to the broker. Except as otherwise provided in paragraph (n) of this section, a broker is not required to consider customer elections. For rules related to the adjusted basis of a debt instrument, see paragraph (n) of this section.
+
+(ii) *Initial basis* - (A) *Cost basis.* For a security acquired for cash, the initial basis generally is the total amount of cash paid by the customer or credited against the customer's account for the security, increased by the commissions and transfer taxes related to its acquisition. A broker may, but is not required to, take option premiums into account in determining the initial basis of securities purchased or acquired pursuant to the exercise of an option granted or acquired before January 1, 2014. For rules related to options granted or acquired on or after January 1, 2014, see paragraph (m) of this section. A broker may, but is not required to, increase initial basis for income recognized upon the exercise of a compensatory option or the vesting or exercise of other equity-based compensation arrangements, granted or acquired before January 1, 2014. A broker may not increase initial basis for income recognized upon the exercise of a compensatory option or the vesting or exercise of other equity-based compensation arrangements, granted or acquired on or after January 1, 2014.A broker must report the basis of identical stock (within the meaning of § 1.1012-1(e)(4)) by averaging the basis of each share if the stock is purchased at separate times on the same calendar day in executing a single trade order and the broker executing the trade provides a single confirmation to the customer that reports an aggregate total price or an average price per share. However, a broker may not average the basis if the customer timely notifies the broker in writing of an intent to determine the basis of the stock by the actual cost per share in accordance with § 1.1012-1(c)(1)(ii).
+
+(B) *Basis of transferred securities - (1) In general.* The initial basis of a security transferred to an account is generally the basis reported on the transfer statement (as described in § 1.6045A-1).
+
+(*2*) *Securities acquired by gift.* If a transfer statement indicates that the security is acquired as a gift, a broker must apply the relevant basis rules for property acquired by gift in determining the initial basis, but is not required to adjust basis for gift tax. A broker must treat the initial basis as equal to the gross proceeds from the sale determined under paragraph (d)(5) of this section if the relevant basis rules for property acquired by gift prevent recognizing both gain and loss, or if the relevant basis rules treat the initial basis of the security as its fair market value as of the date of the gift and the broker neither knows nor can readily ascertain this value. If the transfer statement did not report a date for the gift, the broker must treat the settlement date for the transfer as the date of the gift.
+
+(iii) *Adjustments for wash sales* - (A) *In general.* A broker must apply the wash sale rules under section 1091 if both the sale and purchase transactions are of covered securities with the same CUSIP number or other security identifier number that the Secretary may designate by publication in the Federal Register or in the Internal Revenue Bulletin (*see* § 601.601(d)(2) of this chapter). When reporting the sale transaction that triggered the wash sale, the broker must report the amount of loss that is disallowed by section 1091 in addition to gross proceeds and adjusted basis. The broker must increase the basis of the purchased security by the amount of loss disallowed on the sale transaction.
+
+(B) *Securities in different accounts.* A broker is not required to apply paragraph (d)(6)(iii)(A) of this section if the securities are purchased and sold from different accounts, if the purchased security is transferred to another account before the wash sale, or if the securities are treated as held in separate accounts under § 1.1012-1(e). A security is not purchased in an account if it is purchased in another account and transferred into the account.
+
+(C) *Effect of election under section 475(f)(1).* A broker is not required to apply paragraph (d)(6)(iii)(A) of this section to securities in an account if a customer has in writing both informed the broker that the customer has made a valid and timely election under section 475(f)(1) and identified the account as solely containing securities subject to the election. For purposes of this paragraph (d)(6)(iii)(C), a writing may be in electronic format. If a customer subsequently informs a broker that the election no longer applies to the customer or the account, the broker must prospectively apply paragraph (d)(6)(iii)(A) of this section but is not required to apply paragraph (d)(6)(iii)(A) of this section for the period covered by the customer's prior instruction to the broker. A taxpayer that is not a trader in securities within the meaning of section 475(f)(1) does not become a trader in securities, or create an inference that it is a trader in securities, by notifying a broker that it has made a valid and timely election under section 475(f)(1).
+
+(D) *Reporting at or near the time of sale.* If a wash sale occurs after a broker has completed a return or statement reporting a sale of a covered security, the broker must redetermine adjusted basis under this paragraph (d)(6)(iii) and, if the return or statement included information inconsistent with this redetermination, correct the return or statement by the applicable original due date set forth in this section for the return or statement.
+
+(iv) *Certain adjustments not taken into account.* A broker is not required to apply section 1259 (regarding constructive sales), section 475 (regarding the mark-to-market method of accounting), section 1296 (regarding the mark-to-market method of accounting for marketable stock in a passive foreign investment company), or section 1092 (regarding straddles) when reporting adjusted basis.
+
+(v) *Average basis method adjustments.* For a covered security for which basis may be determined by the average basis method, a broker must compute basis using the average basis method if a customer validly elects that method for the securities sold or, in the absence of any instruction from the customer, if the broker chooses that method as its default basis determination method. *See* § 1.1012-1(e).
+
+(vi) *Regulated investment company and real estate investment trust adjustments.* A broker must adjust the basis of a covered security issued by a regulated investment company or real estate investment trust for the effects of undistributed capital gains reported to or by the broker under section 852(b)(3)(D) or section 857(b)(3)(D).
+
+(vii) *Examples.* The following examples, in which all the securities are covered securities, illustrate the rules of this paragraph (d)(6):
+
+Example 1.(i) On September 21, 2012, P purchases 100 shares of stock in an account with J, a broker. On December 14, 2012, P purchases 100 shares of stock with the same CUSIP number in the same account. On January 4, 2013, P sells the 100 shares purchased on September 21, 2012, at a loss.
+
+(ii) Because the sale of stock on January 4, 2013, and the purchase of stock on December 14, 2012, are of covered securities with the same CUSIP number, under paragraph (d)(6)(iii)(A) of this section, J must report the amount of loss disallowed by section 1091 in addition to the gross proceeds of the sale and the adjusted basis of the September 21, 2012, stock.
+
+(iii) P later sells the stock acquired on December 14, 2012. When reporting the sale of the stock, under paragraph (d)(6)(iii)(A) of this section, J must increase the adjusted basis of the stock acquired on December 14, 2012, by the amount of loss disallowed on the January 4, 2013, sale.
+
+Example 2.Assume the same facts as in *Example 1* except that the December 14, 2012, purchase occurs in another account P maintains with J. Because the December 14, 2012, purchase does not occur in the same account as the sale of the September 21, 2012, stock, under paragraph (d)(6)(iii)(B) of this section, J is not required to apply the wash sale rules in reporting the sale of stock acquired on September 21, 2012, or December 14, 2012. Under paragraphs (d)(2)(iii) and (d)(2)(iv)(B) of this section, J may choose to apply the wash sale rules as if the transactions occurred in the same account. The result is the same whether P keeps the stock purchased on December 14, 2012, in the other account or transfers the stock into the account from which P sells the stock sold on January 4, 2013.Example 3.(i) K, a regulated investment company, offers two funds for sale, Fund D and Fund E. On April 22, 2012, Q purchases shares of Fund D and pays a separate load charge. By paying the load charge, Q acquires a reinvestment right in shares of Fund E. On April 23, 2012, at the request of Q, Fund D redeems the shares. Q uses the proceeds to purchase shares of Fund E in a separate account. As a result of the reinvestment right, Q pays no load charge in purchasing the Fund E shares.
+
+(ii) Under paragraph (d)(6)(i) of this section, when reporting adjusted basis of the Fund D and Fund E shares at the time of their redemption, K is not required to adjust basis for any deferral of the load charge under section 852(f), because the transactions concerning Fund D and Fund E occur in separate accounts. Under paragraph (d)(2)(iv)(B) of this section, K may choose to apply the provisions of section 852(f).
+
+Example 4.R, an employee of C, a corporation, participates in C's stock option plan. On April 2, 2014, C grants R a nonstatutory option under the plan to buy 100 shares of stock. The option becomes substantially vested on April 2, 2015. On October 2, 2015, R exercises the option and purchases 100 shares. On December 2, 2015, R sells the 100 shares. Under paragraph (d)(6)(ii)(A) of this section, C is required to determine adjusted basis from the amount R pays under the terms of the option. Under paragraph (d)(6)(ii)(A) of this section, C is not permitted to adjust basis for any amount R must include as wage income with respect to the October 2, 2015, stock purchase.
+
+(7) *Long-term or short-term gain or loss* - (i) *In general.* In determining whether any gain or loss on the sale of a security is long-term or short-term within the meaning of section 1222 for purposes of this section, a broker must consider the information reported on a transfer statement (as described in § 1.6045A-1) and apply the relevant rules for property acquired from a decedent or by gift. A broker is not required to consider transactions, elections, or events occurring outside the account except for an organizational action taken by an issuer during the period the broker holds custody of the security (beginning with the date that the broker receives a transferred security) reported on an issuer statement (as described in § 1.6045B-1) furnished or deemed furnished to the broker.
+
+(ii) *Adjustments for wash sales* - (A) *In general.* A broker must apply the wash sale rules under section 1091 if both the sale and purchase transactions are of covered securities with the same CUSIP number or other security identifier number that the Secretary may designate by publication in the Federal Register or in the Internal Revenue Bulletin (*see* § 601.601(d)(2) of this chapter).
+
+(B) *Securities in different accounts.* A broker is not required to apply paragraph (d)(7)(ii)(A) of this section if the securities are purchased and sold from different accounts, if the purchased security is transferred to another account before the wash sale, or if the securities are treated as held in separate accounts under § 1.1012-1(e). A security is not purchased in an account if it is purchased in another account and transferred into the account.
+
+(C) *Effect of election under section 475(f)(1).* A broker is not required to apply paragraph (d)(7)(ii)(A) of this section to securities in an account if a customer has in writing both informed the broker that the customer has made a valid and timely election under section 475(f)(1) and identified the account as solely containing securities subject to the election. For purposes of this paragraph (d)(7)(ii)(C), a writing may be in electronic format. If a customer subsequently informs a broker that the election no longer applies to the customer or the account, the broker must prospectively apply paragraph (d)(7)(ii)(A) of this section but is not required to apply paragraph (d)(7)(ii)(A) of this section for the period covered by the customer's prior instruction to the broker. A taxpayer that is not a trader in securities within the meaning of section 475(f)(1) does not become a trader in securities, or create an inference that it is a trader in securities, by notifying a broker that it has made a valid and timely election under section 475(f)(1).
+
+(D) *Reporting at or near the time of sale.* If a wash sale occurs after a broker has completed a return or statement reporting a sale of a covered security, the broker must redetermine whether gain or loss on the sale is long-term or short-term under this paragraph (d)(7)(ii) and, if the return or statement included information inconsistent with this redetermination, correct the return or statement by the applicable original due date set forth in this section for the return or statement.
+
+(iii) *Constructive sale and mark-to-market adjustments.* A broker is not required to apply section 1259 (regarding constructive sales), section 475 (regarding the mark-to-market method of accounting), or section 1296 (regarding the mark-to-market method of accounting for marketable stock in a passive foreign investment company) when determining whether any gain or loss on the sale of a security is long-term or short-term.
+
+(iv) *Regulated investment company and real estate investment trust adjustments.* A broker is not required to apply sections 852(b)(4)(A) and 857(b)(8) (regarding effect of distributed and undistributed capital gain dividends on a loss on sale of regulated investment company or real estate investment trust shares held six months or less) or section 852(b)(4)(B) (regarding loss disallowance on sale of regulated investment company shares held six months or less due to receipt of tax-exempt dividends) when determining whether any gain or loss on the sale of a security is long-term or short-term.
+
+(v) *No adjustments for hedging transactions or offsetting positions.* A broker is not required to apply section 1092 (regarding straddles), section 1233(b)(2) (regarding effect of short sale on holding period of substantially identical property), or § 1.1221-2(b) (regarding hedging transactions) when determining whether any gain or loss on the sale of a security is long-term or short-term.
+
+(8) *Conversion into United States dollars of amounts paid or received in foreign currency* - (i) *Conversion rules.* (A) When a payment other than a payment of interest is made in a foreign currency, a broker must determine the U.S. dollar amount of the payment by converting the foreign currency into U.S. dollars on the date it receives, credits, or makes the payment, as applicable, at the spot rate (as defined in § 1.988-1(d)(1)) or pursuant to a reasonable spot rate convention. (For interest payments, see paragraph (n)(4)(v) of this section concerning a customer's spot rate election.) When reporting the sale of a security traded on an established securities market, however, a broker must determine the U.S. dollar amounts at the spot rate or pursuant to a reasonable spot rate convention as of the settlement date of the purchase or sale, as applicable.
+
+(B) A reasonable spot rate convention includes a month-end spot rate or a monthly average spot rate. A spot rate convention must be used consistently for all non-dollar amounts reported and from year to year. The convention may not be changed without the consent of the Commissioner or his or her delegate.
+
+(ii) *Effect of identification under § 1.988-5(a), (b), or (c) when the taxpayer effects a sale and a hedge through the same broker.* In lieu of the amounts reportable under paragraph (d)(8)(i) of this section, the gross proceeds and adjusted basis must each be the integrated amount computed under § 1.988-5(a), (b) or (c) if -
+
+(A) A taxpayer effects through a broker a sale or exchange of nonfunctional currency (as defined in § 1.988-1(c)) and hedges all or a part of the sale as provided in § 1.988-5(a), (b) or (c) with the same broker; and
+
+(B) The taxpayer complies with the requirements of § 1.988-5(a), (b) or (c) and so notifies the broker prior to the end of the calendar year in which the sale occurs.
+
+(iii) *Example.* The following example illustrates the rules of this paragraph (d)(8):
+
+Example.(i) Z, an individual, is a U.S. citizen. On July 4, 2012, Z purchases stock of C, SA, a French corporation traded on an established securities market, in an account with Q, a broker. Q uses a daily spot rate for converting euro and U.S. dollars. Z pays €1,200 for the stock. On the settlement date for the purchase, the spot rate is €1 = $1.30. On October 4, 2012, Z sells the stock for €1,000. On the settlement date for the sale, the spot rate is €1 = $1.35. On October 5, 2012, Z purchases additional shares of C, SA, that cause the €200 loss on the stock sold on October 4, 2012, to be disallowed under section 1091.
+
+(ii) Under paragraph (d)(8)(i)(A) of this section, Q must determine adjusted basis by converting the €1,200 paid on behalf of Z into U.S. dollars using the €1 = $1.30 spot rate on the settlement date of the purchase. Q must convert the €1,000 gross proceeds into U.S. dollars using the €1 = $1.35 spot rate on the settlement date for the sale. Thus, Q must report adjusted basis equal to $1,560, gross proceeds equal to $1,350, and $210 in loss disallowed by section 1091.
+
+(9) *Coordination with the reporting rules for widely held fixed investment trusts under § 1.671-5.* Information required to be reported under section 6045(a) for a sale of a security in a widely held fixed investment trust (WHFIT) (as defined under § 1.671-5) and the sale of an interest in a WHFIT must be reported as provided by this section unless the information is also required to be reported under § 1.671-5. To the extent that this section requires additional information under section 6045(g), those requirements are deemed to be met through compliance with the rules in § 1.671-5.
+
+(e) *Reporting of barter exchanges* - (1) *Requirement of reporting.* A barter exchange shall, except as otherwise provided, report in the manner prescribed in this section.
+
+(2) *Exchanges required to be reported* - (i) *In general.* Except as provided in paragraphs (e)(2)(ii) and (g) of this section, a barter exchange must make a return of information for exchanges of personal property or services through the barter exchange during the calendar year among its members or clients or between these persons and the barter exchange. For this purpose, property or services are exchanged through a barter exchange if payment for property or services is made by means of a credit on the books of the barter exchange or scrip issued by the barter exchange or if the barter exchange arranges a direct exchange of property or services among its members or clients or exchanges property or services with a member or client.
+
+(ii) *Exemption.* A barter exchange through which there are fewer than 100 exchanges during the calendar year is not required to report for, or make a return of information with respect to exchanges during, such calendar year. The Commissioner may require multiple barter exchanges to be combined for purposes of the proceeding sentence upon a determination that a material purpose for the formation or continuation of one or more of the barter exchanges to be combined was to receive one or more exemptions pursuant to this subparagraph.
+
+(f) *Information required* - (1) *In general.* A person that is a barter exchange during a calendar year shall report on Form 1096 showing the information required thereon for such year.
+
+(2) *Transactional reporting* - (i) *In general.* As to each exchange for which a barter exchange is required to make a return of information under this section, the barter exchange must show on Form 1099-B, “Proceeds From Broker and Barter Exchange Transactions,” or any successor form the name, address, and taxpayer identification number of each member or client providing property or services in the exchange, the property or services provided, the amount received by the member or client for the property or services, the date on which the exchange occurred, and other information required by the form in the manner and number of copies required by the form.
+
+(ii) *Exception for corporate member or client.* As to each corporate member or client providing property or services in an exchange for which a return of information is required under this section, the barter exchange may report the name, address, and taxpayer identification number of the corporate member or client, the aggregate amount received by the corporate member or client during the reporting period for property or services provided by such corporate member or client in exchange for which a return of information is required, and such other information as may be required by Form 1099, in the form, manner, and number of copies required by Form 1099.
+
+(iii) *Definition.* For purposes of paragraph (f)(2)(ii) of this section, the term “corporate member or client” means a member or client of a barter exchange which is a corporation as defined in section 7701(a)(3) (including an insurance company). The term corporation includes a pool, syndicate, partnership, or unincorporated association composed exclusively of corporations. A barter exchange may treat a member or client as a corporation (and therefore as a corporate member or client) if such member or client provides an exemption certificate as described in § 31.3406(h)-3(a) of this chapter or provided that -
+
+(A) The name of the member or client contains the term “insurance company,” “indemnity company,” “reinsurance company,” or “assurance company”;
+
+(B) The name of the member or client contains one of the following unambiguous expressions of corporate status: Incorporated, Inc., Corporation, Corp., or P.C., but not Company or Co.; or
+
+(C) The member or client is known to the barter exchange to be a corporation through a corporate resolution or similar document on file with the barter exchange clearly indicating corporate status.
+
+(3) *Exchange date.* For purposes of this section an exchange is considered to occur with respect to a member or client of a barter exchange on the date cash, property, a credit, or scrip is actually or constructively received by the member or client as a result of the exchange. (See § 1.451-2 for rules pertaining to constructive receipt.)
+
+(4) *Amount received.* The amount received by a member or client in an exchange includes cash received, the fair market value of any property or services received, and the fair market value of any credits to the account of the member or client on the books of the barter exchange or scrip issued to the member or client by the barter exchange, but does not include any amount received by the member or client in a subsequent exchange of credits or scrip. For purposes of this section, the fair market value of a credit or scrip is the value assigned to such credit or scrip by the issuing barter exchange for the purpose of exchanges unless the Commissioner requires the use of a different value that the Commissioner determines more accurately reflects fair market value.
+
+(5) *Meaning of terms.* For purposes of this paragraph (f) -
+
+(i) A credit is an amount on the books of the barter exchange that is transferable from one member or client of the barter exchange to another such member or client, or to the barter exchange in payment for property or services;
+
+(ii) Scrip is a token issued by the barter exchange that is transferable from one member or client, of the barter exchange to another such member or client, or to the barter exchange, in payment for property or services; and
+
+(iii) Property does not include a credit or scrip.
+
+(6) *Reporting period.* A barter exchange shall use the calendar year as the reporting period.
+
+(g) *Exempt foreign persons* - (1) *Brokers.* No return of information is required to be made by a broker with respect to a customer who is considered to be an exempt foreign person under this paragraph (g)(1). A broker may treat a customer as an exempt foreign person under the circumstances described in paragraphs (g)(1)(i) through (iii) of this section.
+
+(i) [Reserved] For further guidance, see § 1.6045-1T(g)(1)(i).
+
+(ii) With respect to a redemption or retirement of stock or an obligation (the interest or original issue discount on, which is described in § 1.6049-5(b) (6), (7), (10), or (11) or the dividends on, which are described in § 1.6042-3(b)(1)(iv)) that is effected at an office of a broker outside the United States by the issuer (or its paying or transfer agent), the broker may treat the customer as an exempt foreign person if the broker is not also acting in its capacity as a custodian, nominee, or other agent of the payee.
+
+(iii) With respect to a sale effected by a broker at an office of the broker either inside or outside the United States, the broker may treat the customer as an exempt foreign person for the period that those proceeds are assets blocked, as described in § 1.1441-2(e)(3). For purposes of this paragraph (g)(1)(iii) and section 3406, a sale is deemed to occur in accordance with paragraph (d)(4) of this section. The exemption in this paragraph (g)(1)(iii) shall terminate when payment of the proceeds is deemed to occur in accordance with the provisions of § 1.1441-2(e)(3).
+
+(2) *Barter exchange.* No return of information is required by a barter exchange with respect to a client or a member that the barter exchange may treat as a foreign person pursuant to the procedures described in paragraph (g)(1) of this section.
+
+(3) *Applicable rules* - (i) *Joint owners.* Amounts paid to joint owners for which a certificate or documentation is required as a condition for being exempt from reporting under paragraph (g) (1)(i) or (2) of this section are presumed made to U.S. payees who are not exempt recipients if, prior to payment, the broker or barter exchange cannot reliably associate the payment either with a Form W-9 furnished by one of the joint owners in the manner required in §§ 31.3406(d)-1 through 31.3406(d)-5 of this chapter, or with documentation described in paragraph (g)(1)(i) of this section furnished by each joint owner upon which it can rely to treat each joint owner as a foreign payee or foreign beneficial owner. For purposes of applying this paragraph (g)(3)(i), the grace period described in § 1.6049-5(d)(2)(ii) shall apply only if each payee qualifies for such grace period.
+
+(ii) *Special rules for determining who the customer is.* For purposes of this paragraph (g), the determination of who the customer is shall be made on the basis of the provisions in § 1.6049-5(d) by substituting in that section the terms *payor* and *payee* with the terms *broker* and *customer.*
+
+(iii) *Place of effecting sale* - (A) *Sale outside the United States.* For purposes of this paragraph (g), a sale is considered to be effected by a broker at an office outside the United States if, in accordance with instructions directly transmitted to such office from outside the United States by the broker's customer, the office completes the acts necessary to effect the sale outside the United States. The acts necessary to effect the sale may be considered to have been completed outside the United States without regard to whether -
+
+(*1*) Pursuant to instructions from an office of the broker outside the United States, an office of the same broker within the United States undertakes one or more steps of the sale in the United States; or
+
+(*2*) The gross proceeds of the sale are paid by a draft drawn on a United States bank account or by a wire or other electronic transfer from a United States account.
+
+(B) *Sale inside the United States.* For purposes of this paragraph (g), a sale that is considered to be effected by a broker at an office outside the United States under paragraph (g)(3)(iii)(A) of this section shall nevertheless be considered to be effected by a broker at an office inside the United States if either -
+
+(*1*) The customer has opened an account with a United States office of that broker;
+
+(*2*) The customer has transmitted instructions concerning this and other sales to the foreign office of the broker from within the United States by mail, telephone, electronic transmission or otherwise (unless the transmissions from the United States have taken place in isolated and infrequent circumstances);
+
+(*3*) The gross proceeds of the sale are paid to the customer by a transfer of funds into an account (other than an international account as defined in § 1.6049-5(e)(4)) maintained by the customer in the United States or mailed to the customer at an address in the United States;
+
+(*4*) The confirmation of the sale is mailed to a customer at an address in the United States; or
+
+(*5*) An office of the same broker within the United States negotiates the sale with the customer or receives instructions with respect to the sale from the customer.
+
+(iv) [Reserved] For further guidance, see § 1.6045-1T(g)(3)(iv).
+
+(4) [Reserved] For further guidance, see § 1.6045-1T(g)(4).
+
+(5) *Effective/applicability date.* (i) The provisions of this paragraph (g) apply to payments made after December 31, 2000.
+
+(ii) [Reserved] For further guidance, see § 1.6045-1T(g)(5)(ii).
+
+(h) *Identity of customer* - (1) *In general.* For purposes of this section, a broker or barter exchange shall treat the person who appears on the books and records of the broker or barter exchange with respect to property or services as the principals with respect thereto.
+
+(2) *Examples.* The following examples illustrate the rule of this paragraph (h):
+
+Example 1.The records of A, a broker, show an account in the name of “B”. B is a nominee for C. All reporting with respect to such account shall treat B as the customer.Example 2.J, an individual, places an order with H, a broker, to sell J's stock that is held by P, a broker/dealer, in an account for J with P designated as nominee for J, and to credit the gross proceeds from the sale to J's account with P. The account is in the name of P, so that H's customer is P.
+
+(i) [Reserved]
+
+(j) *Time and place for filing; cross-reference to penalty.* Forms 1096 and 1099 required under this section shall be filed after the last calendar day of the reporting period elected by the broker or barter exchange and on or before February 28 of the following calendar year with the appropriate Internal Revenue Service Center, the address of which is listed in the instructions for Form 1096. See paragraph (l) of this section for the requirement to file certain returns on magnetic media. For provisions relating to the penalty provided for the failure to file timely a correct information return under section 6045(a), see § 301.6721-1 of this chapter. See § 301.6724-1 of this chapter for the waiver of a penalty if the failure is due to reasonable cause and is not due to willful neglect.
+
+(k) *Requirement and time for furnishing statement; cross-reference to penalty* - (1) *General requirements.* A broker or barter exchange making a return of information under this section must furnish to the person whose identifying number is (or is required to be) shown on the return a written statement showing the information required by paragraph (c)(5), (d), or (f) of this section and containing a legend stating that the information is being reported to the Internal Revenue Service. If the return of information is not made on magnetic media, this requirement may be satisfied by furnishing to the person a copy of all Forms 1099 or any successor form for the person filed with the Internal Revenue Service Center. A statement is considered to be furnished to a person to whom a statement is required to be made under this paragraph (k) if it is mailed to the person at the last address of the person known to the broker or barter exchange.
+
+(2) *Time for furnishing statements.* A broker or barter exchange may furnish the statements required under this paragraph (k) yearly, quarterly, monthly, or on any other basis, without regard to the reporting period the broker or barter exchange elects; however, all statements required to be furnished under this paragraph (k) for a calendar year must be furnished on or before February 15 of the following calendar year.
+
+(3) *Consolidated reporting.* (i) The term *consolidated reporting statement* means a grouping of statements the same broker or barter exchange furnishes to the same customer or group of customers on the same date for the same reporting year that includes a statement required under this section. A consolidated reporting statement is limited to statements based on the same relationship of broker or barter exchange to customer as the statement required to be furnished under this section. For purposes of this paragraph (k)(3)(i), a broker may treat a shareholder of a broker as a customer of the broker and may treat a grouping of statements for a customer as including a statement required to be furnished under this section if the customer has an account with the broker for which a statement would be required to be furnished under this section if the customer purchased and sold stock in a corporation in the account during the year.
+
+(ii) A consolidated reporting statement must be furnished on or before February 15 of the year following the calendar year reported. Any statement that otherwise must be furnished on or before January 31 must be furnished on or before February 15 if it is furnished in the consolidated reporting statement.
+
+(iii) *Examples.* The following examples illustrate the rules of this paragraph (k)(3):
+
+Example 1.D has a taxable account with B, a broker, consisting solely of stock in a single corporation. In 2010, D receives reportable dividends from this stock and sells the stock. Under this section and § 1.6042-4, B must furnish a Form 1099-B, “Proceeds From Broker and Barter Exchange Transactions,” and Form 1099-DIV, “Dividends and Distributions,” to D in 2011 for the sale and the dividends. Under paragraph (k)(2) of this section, B is required to furnish the required statement under this section to D by February 15, 2011. B must furnish the statement reporting the dividends by the January 31, 2011, due date provided in § 1.6042-4. However, under paragraph (k)(3)(ii) of this section, B must furnish the statement reporting the dividends by February 15, 2011, if furnished in a consolidated reporting statement as defined in paragraph (k)(3)(i) of this section. Example 2.Assume the same facts as in *Example 1* except that D has invested solely in a money market fund for which sales are excepted from the reporting required under this section. B therefore is not required to issue a statement under this section if D sells an interest in the money market fund. Under paragraph (k)(3)(i) of this section, B may treat a grouping of statements for D as including a required statement under this section because D has an account for which a statement would be required under this section if D purchased and sold stock in a corporation in the account during the year. Therefore, under paragraph (k)(3)(ii) of this section, B must furnish the statement reporting the dividends by February 15, 2011.Example 3.E has a nontaxable IRA account with B, a broker. This account is the only account E holds with B. E sells stock in 2010 in this account. E also receives a cash distribution from the account in 2010. The cash distribution from the IRA is reportable on Form 1099-R, “Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc.,” under § 1.408-7. Because the account is not taxable, sales in the account are not subject to reporting under this section. Therefore, because no statement is required under this section, under paragraph (k)(3) of this section, B may not furnish any statements to E in a consolidated reporting statement. B must furnish the Form 1099-R by the date required under § 1.408-7.Example 4.Assume the same facts as in *Example 3* except that E and F have a joint taxable account with B. Because sales in the joint taxable account are subject to reporting under this section, under paragraph (k)(3) of this section, B must furnish by February 15, 2011, all customer statements for 2010 that B otherwise must furnish jointly to E and F on or before January 31, 2011, if furnished on the same date in a consolidated reporting statement with the required statements under this section for any sales in the joint taxable account. However, B may not include any statement for E's IRA account in the consolidated reporting statement furnished jointly to E and F because the statements are not furnished to the same customer or group of customers.
+
+(4) *Cross-reference to penalty.* For provisions for failure to furnish timely a correct payee statement, see § 301.6724-1 of this chapter (Procedure and Administration Regulations). See § 301.6724-1 of this chapter for the waiver of a penalty if the failure is due to reasonable cause and is not due to willful neglect.
+
+(l) *Use of magnetic media.* For information returns filed after December 31, 1996, see § 301.6011-2 of this chapter for rules relating to filing information returns on magnetic media and for rules relating to waivers granted for undue hardship. A broker or barter exchange that fails to file a Form 1099 on magnetic media, when required, may be subject to a penalty under section 6721 for each such failure. See paragraph (j) of this section.
+
+(m) *Additional rules for option transactions* - (1) *In general.* This paragraph (m) provides rules for a broker to determine and report the information required under this section for an option that is a covered security under paragraph (a)(15)(i)(E) of this section.
+
+(2) *Scope* - (i) *In general.* Paragraph (m) of this section applies to the following types of options granted or acquired on or after January 1, 2014:
+
+(A) An option on one or more specified securities (which includes an index substantially all the components of which are specified securities);
+
+(B) An option on financial attributes of specified securities, such as interest rates or dividend yields; or
+
+(C) A warrant or a stock right.
+
+(ii) *Delayed effective date for certain options* - (A) Notwithstanding paragraph (m)(2)(i) of this section, if an option, stock right, or warrant is issued as part of an investment unit described in § 1.1273-2(h), paragraph (m) of this section applies to the option, stock right, or warrant if it is acquired on or after January 1, 2016.
+
+(B) Notwithstanding paragraph (m)(2)(i) of this section, if the property referenced by an option (that is, the property underlying the option) is a debt instrument that is issued by a non-U.S. person or that provides for one or more payments denominated in, or determined by reference to, a currency other than the U.S. dollar, paragraph (m) of this section applies to the option if it is granted or acquired on or after January 1, 2016.
+
+(iii) *Compensatory option.* Notwithstanding paragraphs (m)(2)(i) and (m)(2)(ii) of this section, paragraph (m) of this section does not apply to compensatory options.
+
+(3) *Option subject to section 1256.* If an option described in paragraph (m)(2) of this section is also described in section 1256(b), a broker must apply the rules described in paragraph (c)(5) of this section by treating the option as if it were a regulated futures contract and must report the information required under paragraph (c)(5) of this section. A broker is permitted, but not required, to report the amounts for options and the amounts for regulated futures contracts determined under paragraph (c)(5) of this section as a net amount for each reportable item.
+
+(4) *Option not subject to section 1256.* The following rules apply to an option that is described in paragraph (m)(2) of this section but is not also described in paragraph (m)(3) of this section:
+
+(i) *Physical settlement.* For purposes of paragraph (d) of this section, if a specified security (other than an option) is acquired or disposed of pursuant to the exercise of an option, the broker must adjust the basis of the acquired asset or the gross proceeds amount as appropriate to account for any payment related to the option, including the premium.
+
+(ii) *Cash settlement.* For purposes of paragraph (d) of this section, for an option that is settled for cash, a broker must reflect on Form 1099-B all payments made or received on the option. For a purchased option, a broker must report as basis the premium paid plus any costs (for example, commissions) related to the acquisition of the option and must report as proceeds the gross proceeds from settlement minus any costs related to the settlement of the option. For a written option, a broker must report as proceeds the premium received decreased by any amounts paid on the option and report $0 as the basis of the option.
+
+(iii) *Rules for warrants and stock rights acquired in a section 305 distribution.* For a right (including a warrant) to acquire stock received in the same account as the underlying security in a distribution that is described in section 305(a), a broker is permitted, but not required, to apply the rules described in sections 305 and 307 when reporting or accounting for the basis of the option and the underlying equity. If a stock right or warrant is acquired from the initial distributee, the buyer or transferee must treat it as an option covered by either paragraph (m)(4)(i) or (m)(4)(ii) of this section.
+
+(iv) *Examples.* The following examples illustrate the rules in this paragraph (m)(4):
+
+Example 1.(i) On January 15, 2014, C, an individual who is neither a dealer nor a trader in securities, writes a 2-year exchange-traded option on 100 shares of Company X through Broker D. C receives a premium for the option of $100 and pays no commission. In C's hands, the option produces capital gain or loss and Company X stock is a capital asset. On December 16, 2014, C pays $110 to close out the option.
+
+(ii) D is required to report information about the closing transaction because the option is a covered security as described in paragraph (a)(15)(i)(E) of this section and was part of a closing transaction described in paragraph (a)(8) of this section. Under paragraph (m)(4)(ii) of this section, D must report as gross proceeds on C's Form 1099-B -$10 (the $100 received as option premium minus the $110 C paid to close out the option) and report $0 in the basis box on the Form 1099-B. Under section 1234(b)(1) and paragraph (d)(2) of this section, D must also report the loss on the closing transaction as a short-term capital loss.
+
+Example 2.(i) On January 15, 2014, E, an individual who is neither a dealer nor a trader in securities, buys a 2-year exchange-traded option on 100 shares of Company X through Broker F. E pays a premium of $100 for the option and pays no commission. In E's hands, both the option and Company X stock are capital assets. On December 16, 2014, E receives $110 to close out the option.
+
+(ii) F is required to report information about the closing transaction because the option is a covered security as described in paragraph (a)(15)(i)(E) of this section and was part of a closing transaction described in paragraph (a)(8) of this section. Because the option is on the shares of a single company, it is an equity option described in section 1256(g)(6) and is not described in section 1256(b)(1)(C). Therefore, the rules of paragraph (m)(3) of this section do not apply, and F must report under paragraph (m)(4) of this section. Under paragraph (m)(4)(ii) of this section, F must report $110 as gross proceeds on the Form 1099-B for the gross proceeds E received and $100 in the basis box on the Form 1099-B to reflect the $100 option premium paid. Under section 1234(b)(1) and paragraph (d)(2) of this section, F must also report the gain on the closing transaction as a short-term capital gain.
+
+(5) *Multiple options documented in a single contract.* If more than one option described in paragraph (m)(2) of this section is documented in a single contract, a broker must separately report the required information for each option as that option is sold.
+
+(6) *Determination of index status.* Penalties will not be asserted under sections 6721 and 6722 if a broker in good faith determines that an index is, or is not, a narrow-based index described in section 1256(g)(6) and reports in a manner consistent with this determination.
+
+(n) *Reporting for debt instrument transactions* - (1) *In general.* For purposes of this section, this paragraph (n) provides rules for a broker to determine and report information for a debt instrument that is a covered security under paragraph (a)(15)(i)(C) or (D) of this section. Neither a debt instrument subject to section 1272(a)(6) nor a short-term obligation described in section 1272(a)(2)(C) is subject to this paragraph (n) because neither is a specified security under paragraph (a)(14)(ii) of this section (a requirement for a debt instrument to be a covered security).
+
+(2) *Debt instruments subject to January 1, 2014, reporting* - (i) *In general.* For purposes of paragraph (a)(15)(i)(C) of this section, except as provided in paragraph (n)(2)(ii) of this section, a debt instrument is described in this paragraph (n)(2)(i) if the debt instrument is one of the following:
+
+(A) A debt instrument that provides for a single fixed payment schedule for which a yield and maturity can be determined for the instrument under § 1.1272-1(b);
+
+(B) A debt instrument that provides for alternate payment schedules for which a yield and maturity can be determined for the instrument under § 1.1272-1(c); or
+
+(C) A debt instrument for which the yield of the debt instrument can be determined under § 1.1272-1(d).
+
+(ii) *Exceptions.* A debt instrument is not described in paragraph (n)(2)(i) of this section if the debt instrument is one of the following:
+
+(A) A debt instrument that provides for more than one rate of stated interest (including a debt instrument that provides for stepped interest rates);
+
+(B) A convertible debt instrument described in § 1.1272-1(e);
+
+(C) A stripped bond or stripped coupon subject to section 1286;
+
+(D) A debt instrument that requires payment of either interest or principal in a currency other than the U.S. dollar;
+
+(E) A debt instrument that, at one or more times in the future, entitles a holder to a tax credit;
+
+(F) A debt instrument that provides for a payment-in-kind (PIK) feature (that is, under the terms of the debt instrument, a holder may receive one or more additional debt instruments of the issuer);
+
+(G) A debt instrument issued by a non-U.S. issuer;
+
+(H) A debt instrument for which the terms of the instrument are not reasonably available to the broker within 90 days of the date the debt instrument was acquired by the customer;
+
+(I) A debt instrument that is issued as part of an investment unit described in § 1.1273-2(h); or
+
+(J) A debt instrument evidenced by a physical certificate unless such certificate is held (whether directly or through a nominee, agent, or subsidiary) by a securities depository or by a clearing organization described in § 1.1471-1(b)(18).
+
+(iii) *Remote or incidental.* For purposes of paragraphs (n)(2)(i) and (n)(2)(ii) of this section, a remote or incidental contingency (as determined under § 1.1275-2(h)) is ignored.
+
+(iv) *Penalty rate.* For purposes of paragraph (n)(2)(ii)(A) of this section, a debt instrument does not provide for more than one rate of stated interest merely because the instrument provides for a penalty interest rate or an adjustment to the stated interest rate in the event of a default or similar event.
+
+(3) *Debt instruments subject to January 1, 2016, reporting.* For purposes of paragraph (a)(15)(i)(D) of this section, a debt instrument is described in this paragraph (n)(3) if it is described in paragraph (n)(2)(ii) of this section or it otherwise is not described in paragraph (n)(2)(i) of this section. For example, this paragraph (n)(3) applies to variable rate debt instruments, inflation-indexed debt instruments, and contingent payment debt instruments because these instruments are not described in paragraph (n)(2)(i) of this section.
+
+(4) *Holder elections.* For purposes of this section, a broker is required to take into account an election described in this paragraph (n)(4), and the broker must take the election into account in accordance with the rules in paragraph (n)(5) of this section. A broker, however, may not take into account any other election.
+See paragraph (n)(11) of this section for the treatment of an election described in paragraph (n)(4)(iii) of this section (election to accrue market discount based on a constant yield) and an election described in paragraph (n)(4)(iv) of this section (election to treat all interest as OID).
+
+(i) *Election to amortize bond premium.* An election under section 171 and § 1.171-4 to amortize bond premium on a taxable debt instrument (this election applies to all taxable debt instruments held by a taxpayer during the taxable year the election is effective and thereafter; this election may be revoked with the consent of the Commissioner).
+
+(ii) *Election to currently include accrued market discount.* An election under section 1278(b) to include market discount in income as it accrues (this election applies to all debt instruments acquired by a taxpayer during the taxable year the election is effective and thereafter; this election may be revoked with the consent of the Commissioner).
+
+(iii) *Election to accrue market discount based on a constant yield.* An election under section 1276(b)(2) to compute accruals of market discount using a constant yield method (this election is generally made on an instrument-by-instrument basis and must be made for the earliest taxable year for which the taxpayer is required to determine accrued market discount on the debt instrument; this election may not be revoked).
+
+(iv) *Election to treat all interest as OID.* An election under § 1.1272-3 to treat all interest on a taxable debt instrument (adjusted for any acquisition premium or premium) as original issue discount (this election is generally made on an instrument-by-instrument basis and must be made for the taxable year the debt instrument is acquired by the taxpayer; this election may be revoked with the consent of the Commissioner). However, see paragraph (n)(11)(i)(A) of this section for a debt instrument acquired on or after January 1, 2014.
+
+(v) *Election to translate interest income and expense at the spot rate.* An election under § 1.988-2(b)(2)(iii)(B) to translate interest income and expense at the spot rate on the last day of the interest accrual period or, in the case of a partial accrual period, the last day of the taxable year (this election applies to all taxable debt instruments held by a taxpayer during the taxable year the election is effective and thereafter; this election may be revoked with the consent of the Commissioner).
+
+(5) *Broker assumptions and customer notice to brokers* - (i) *Broker assumptions if the customer does not notify the broker.* Except as provided in paragraph (n)(5)(ii)(A) of this section, a broker must report the information required under paragraph (d) of this section by assuming that a customer has made the election to amortize bond premium described in paragraph (n)(4)(i) of this section. In addition, except as provided in paragraph (n)(5)(ii)(B) of this section, a broker must report the information required under paragraph (d) of this section by assuming that a customer has not made an election described in paragraph (n)(4)(ii), (n)(4)(iii), (n)(4)(iv), or (n)(4)(v) of this section. However, see paragraph (n)(11) of this section for the treatment of an election described in paragraph (n)(4)(iii) of this section (election to accrue market discount based on a constant yield) and an election described in paragraph (n)(4)(iv) of this section (election to treat all interest as OID).
+
+(ii) *Effect of customer notification of an election or revocation* - (A) *Election to amortize bond premium.* If a customer notifies a broker in writing that the customer does not want the broker to take into account the election to amortize bond premium, the broker must report the information required under paragraph (d) of this section without taking into account the election to amortize bond premium. The customer must provide this notification to the broker by the end of the calendar year for which the customer does not want to amortize bond premium. If for a subsequent calendar year, the customer wants the broker to take into account the election to amortize bond premium, the customer must notify the broker in writing by the end of the calendar year that the customer wants to amortize bond premium. If the customer provides such notification, the broker must report the information required under paragraph (d) of this section as if the customer made the election to amortize bond premium for that year.
+
+(B) *Other debt elections.* If a customer notifies a broker in writing that the customer has made or will make an election described in paragraph (n)(4)(ii), (iii), (iv), or (v) of this section, the broker must report the information required under paragraph (d) of this section by taking into account the election. A customer must notify the broker in writing of the election by the end of the calendar year in which a debt instrument subject to the election is acquired in, or transferred into, an account with the broker or, if later, by the end of the calendar year for which the election is effective. If a customer has revoked or will revoke an election described in paragraph (n)(4)(ii), (n)(4)(iv), or (n)(4)(v) of this section for a calendar year, the customer must notify the broker of the revocation in writing by the end of the calendar year for which the revocation is effective. If the customer provides such notification, the broker must report the information required under paragraph (d) of this section by taking into account the revocation.
+
+(iii) *Electronic notification.* For purposes of paragraph (n)(5)(ii) of this section, the written notification to the broker includes a writing in electronic format.
+
+(6) *Reporting of accrued market discount.* In addition to the information required to be reported under paragraph (d) of this section, if a debt instrument is subject to the market discount rules in sections 1276 through 1278, a broker also must report the information described in paragraph (n)(6)(i) or (n)(6)(ii) of this section, whichever is applicable. Such information must be shown in the manner and at the time required by Form 1099 and section 6045.
+
+(i) *Sale.* A broker must report the amount of market discount that has accrued on a debt instrument as of the date of the instrument's sale, as defined in paragraph (a)(9) of this section. See paragraphs (n)(5) and (n)(11)(i)(B) of this section to determine whether the amount reported should take into account a customer election under section 1276(b)(2). See paragraph (n)(8) of this section to determine the accrual period to be used to compute the accruals of market discount. This paragraph (n)(6)(i) does not apply if the customer notifies the broker under the rules in paragraph (n)(5) of this section that the customer elects under section 1278(b) to include market discount in income as it accrues.
+
+(ii) *Current inclusion election.* If a customer notifies a broker under the rules in paragraph (n)(5) of this section that the customer elects under section 1278(b) to include market discount in income as it accrues, the broker is required to report to the customer the amount of market discount that accrued on a debt instrument during a taxable year while held by the customer in the account. The broker also must adjust basis in accordance with section 1278(b)(4). If a customer notifies a broker under the rules in paragraph (n)(5) of this section that the customer is revoking its election under section 1278(b), the broker will not report the market discount accrued during the taxable year of the revocation and thereafter and will cease to adjust basis in accordance with section 1278(b)(4). See paragraph (n)(8) of this section to determine the accrual period to be used to compute the accruals of market discount. See paragraphs (n)(5) and (n)(11)(i)(B) of this section to determine whether the amount reported should take into account a customer election under section 1276(b)(2).
+
+(7) *Adjusted basis.* For purposes of this section, a broker must use the rules in paragraph (n) of this section to determine the adjusted basis of a debt instrument.
+
+(i) *Original issue discount.* If a debt instrument is subject to the original issue discount rules in sections 1271 through 1275, section 1286, or section 1288, a broker must increase a customer's basis in the debt instrument by the amount of original issue discount that accrued on the debt instrument while held by the customer in the account. See paragraph (n)(8) of this section to determine the accrual period to be used to compute the accruals of original issue discount.
+
+(ii) *Amortizable bond premium* - (A) *Taxable bond.* A broker is required to adjust the customer's basis for any taxable bond acquired at a premium and held in the account in accordance with § 1.1016-5(b). If a customer, however, informs a broker under the rules in paragraph (n)(5)(ii)(A) of this section that the customer does not want to amortize bond premium, the broker must not adjust the customer's basis for any premium.
+
+(B) *Tax-exempt bonds.* A broker is required to adjust the customer's basis for any tax-exempt obligation acquired at a premium and held in the account in accordance with § 1.1016-5(b).
+
+(iii) *Acquisition premium.* If a debt instrument is acquired at an acquisition premium (as determined under § 1.1272-2(b)(3)), a broker must decrease the customer's basis in the debt instrument by the amount of acquisition premium that is taken into account each year to reduce the amount of the original issue discount that is otherwise includible in the customer's income for that year. *See* § 1.1272-2(b)(4) to determine the amount of the acquisition premium taken into account each year. However, if a broker took into account a customer election under § 1.1272-3 in 2014, the broker must decrease the customer's basis in the debt instrument by the amount of acquisition premium that is taken into account each year to reduce the amount of the original issue discount that is otherwise includible in the customer's income for that year in accordance with §§ 1.1272-2(b)(5) and 1.1272-3.
+
+(iv) *Market discount.* See paragraph (n)(6) of this section for rules to determine the adjusted basis of a debt instrument with market discount.
+
+(v) *Principal and certain other payments.* A broker must decrease the customer's basis in a debt instrument by the amount of any payment made to the customer during the period the debt instrument is held in the account, other than a payment of qualified stated interest as defined in § 1.1273-1(c).
+
+(8) *Accrual period.* For purposes of this section, a broker generally must use the same accrual period that is used to report any original issue discount or stated interest to a customer under section 6049 for a debt instrument. In any other situation, a broker must use a semi-annual accrual period or, if a debt instrument provides for scheduled payments of principal or interest at regular intervals of less than six months over the entire term of the debt instrument, a broker must use an accrual period equal in length to this shorter interval. For example, if a debt instrument provides for monthly payments of interest over the entire term of the debt instrument, the broker must use a monthly accrual period. The rules in § 1.1272-1(b)(4)(iii) apply for purposes of an initial short accrual period. In computing the length of an accrual period, any reasonable counting convention may be used (for example, 30 days per month/360 days per year, or actual days per month/365 days per year).
+
+(9) *Premium on convertible bond.* If a customer acquires a convertible bond (as defined in § 1.171-1(e)(1)(iii)(C)) at a premium (as determined under § 1.171-1(d)), then, solely for purposes of this section and § 1.6049-9, a broker must assume that the premium is attributable to the conversion feature. Based on this assumption, no portion of the premium is amortizable for purposes of this section and § 1.6049-9.
+
+(10) *Effect of broker assumptions on customer.* The rules in this paragraph (n) only apply for purposes of a broker's reporting obligation under section 6045. A customer is not bound by the assumptions that the broker uses to satisfy the broker's reporting obligations under section 6045. In addition, a notification to the broker under paragraph (n)(5) of this section does not constitute an effective election or revocation under the applicable rules for the election.
+
+(11) *Additional rules for certain holder elections* - (i) *In general.* For purposes of this section, the rules in this paragraph (n)(11) apply notwithstanding any other rule in paragraph (n) of this section.
+
+(A) *Election to treat all interest as OID.* A broker must report the information required under paragraph (d) of this section without taking into account any election described in paragraph (n)(4)(iv) of this section (the election to treat all interest as OID in § 1.1272-3). As a result, for example, a broker must determine the amount of any acquisition premium taken into account each year for purposes of this section in accordance with § 1.1272-2(b)(4). This paragraph (n)(11)(i)(A) applies to a debt instrument acquired on or after January 1, 2015. A broker, however, may rely on this paragraph (n)(11)(i)(A) for a debt instrument acquired on or after January 1, 2014, and before January 1, 2015.
+
+(B) *Election to accrue market discount based on a constant yield.* A broker must report the information required under paragraph (d) of this section by assuming that a customer has made the election described in paragraph (n)(4)(iii) of this section (the election to accrue market discount based on a constant yield). However, if a customer notifies a broker in writing that the customer does not want the broker to take into account this election, the broker must report the information required under paragraph (d) of this section without taking into account this election. The customer must provide this notification to the broker by the end of the calendar year in which the customer acquired the debt instrument in an account with the broker. This paragraph (n)(11)(i)(B) applies to a debt instrument acquired on or after January 1, 2015. A broker, however, may rely on this paragraph (n)(11)(i)(B) to report accrued market discount for a debt instrument that is a covered security acquired on or after January 1, 2014, and before January 1, 2015, if the customer had not informed the broker that the customer had made a section 1278(b) election and there were no principal payments on the debt instrument during this period.
+
+(ii) [Reserved].
+
+(12) *Certain debt instruments treated as noncovered securities* - (i) *In general.* Notwithstanding paragraph (a)(15) of this section, a debt instrument is treated as a noncovered security for purposes of this section if the terms of the debt instrument are not reasonably available to the broker within 90 days of the date the debt instrument was acquired by the customer and the debt instrument is either -
+
+(A) A debt instrument issued by a non-U.S. issuer; or
+
+(B) A tax-exempt obligation issued before January 1, 2014.
+
+(ii) *Effective/applicability date.* Paragraph (n)(12)(i) of this section applies to a debt instrument described in paragraph (n)(12)(i)(A) or (B) of this section that is acquired on or after February 18, 2016. However, a broker may rely on paragraph (n)(12)(i) of this section for a debt instrument described in paragraph (n)(12)(i)(A) or (B) of this section acquired before February 18, 2016.
+
+(o) *Additional reporting by stock transfer agents.* [Reserved]
+
+(p) *Electronic filing.* Notwithstanding the time prescribed for filing in paragraph (j) of this section, Forms 1096 and 1099 required under this section for reporting periods ending during a calendar year shall, if filed electronically, be filed after the last calendar day of the reporting period elected by the broker or barter exchange and on or before March 31 of the following calendar year.
+
+[T.D. 7873, 48 FR 10304, Mar. 11, 1983]Editorial Note:For Federal Register citations affecting § 1.6045-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

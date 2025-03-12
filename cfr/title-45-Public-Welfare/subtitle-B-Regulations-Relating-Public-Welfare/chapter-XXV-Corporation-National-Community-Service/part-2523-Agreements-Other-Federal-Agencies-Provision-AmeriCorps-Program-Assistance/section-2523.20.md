@@ -1,0 +1,3 @@
+##### § 2523.20 Which Federal agencies may apply for such funds? #####
+
+The Corporation will consider applications only from Executive Branch agencies or departments. Bureaus, divisions, and local and regional offices of such departments and agencies can only apply through the central department or agency; however, it is possible for the department or agency to submit an application proposing more than one program.

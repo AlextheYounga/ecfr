@@ -1,0 +1,41 @@
+##### § 1.6042-4 Statements to recipients of dividend payments. #####
+
+(a) *Requirement.* A person required to make an information return under section 6042(a)(1) and § 1.6042-2 must furnish a statement to each recipient whose identifying number is required to be shown on the related information return for dividend payments.
+
+(b) *Form and content of the statement.* The statement required by paragraph (a) of this section must be either the official Form 1099 prescribed by the Internal Revenue Service for the respective calendar year or an acceptable substitute statement that contains provisions that are substantially similar to those of the official Form 1099 for the respective calendar year. For further guidance on how to prepare an acceptable substitute statement, see Rev. Proc. 2012-38, 2012-48 IRB 575, also published as Publication 1179, “General Rules and Specifications for Substitute Forms 1096, 1098, 1099, 5498, and Certain Other Information Returns,” or any successor guidance. An IRS truncated taxpayer identifying number (TTIN) may be used as the identifying number of the recipient. For provisions relating to the use of TTINs, see § 301.6109-4 of this chapter (Procedure and Administration Regulations).
+
+(c) *Aggregation of payments.* A payor may aggregate on one Form 1099 all payments made to a recipient with respect to each separate account during a calendar year.
+
+(d) *Manner of providing statements to recipients*—(1) *In general.* The Form 1099, or acceptable substitute statement, must be provided to the recipient either in person or by first-class mail to the recipient's last known address in a statement mailing.
+
+(2) *Statement mailing requirement.* The mailing required under section 6042(c) of a Form 1099 to a payee-recipient must qualify as a statement mailing. A statement mailing must contain the required Form 1099 or acceptable substitute statement (written statement) and must comply with enclosure and envelope restrictions.
+
+(i) *Enclosure restrictions.* To qualify as a statement mailing, the mailing cannot contain any enclosures except those listed in this paragraph (d)(2)(i). Moreover, no promotional or advertising material is permitted in the mailing of the written statement. Even a *de minimis* amount of promotional or advertising material violates the statement mailing requirement. However, a logo on the envelope containing the written statement and on nontax enclosures described in paragraph (d)(2)(i) (A) through (D) of this section does not violate the written statement requirement. The written statement required under section 6042(c) and paragraph (a) of this section may be perforated to a check or to a statement of the recipient-payee's specific account with the payor described in paragraph (d)(2)(i) (A) or (C) of this section. The enclosure to which the written statement is perforated must contain, in a bold and conspicuous type, the legend: “Important Tax Return Document Attached.” The enclosures permitted in a mailing are limited to—
+
+(A) A check with respect to the account reported on the written statement;
+
+(B) A letter explaining why a check with respect to such account is not enclosed with the written statement (for example, because a dividend has not been declared payable);
+
+(C) A statement of the taxpayer-recipient's specific account with the payor if payments on such account are reflected on the written statement;
+
+(D) A letter limited to an explanation of the tax consequences of the information set forth on the enclosed written statement;
+
+(E) Payee statements related to other Forms 1099, Form 1098, and Form 5498 (or the account balance on a Form 5498), Forms W-2 and W-2G; and
+
+(F) Any document concerning the solicitation of the Form W-9, as described in § 31.3406(h)-3(a) of this chapter, or of the Form W-8 as described in § 1.1441-1(e)(1).
+
+(ii) *Envelope and delivery restrictions*—(A) *Envelope restrictions.* The outside of the envelope in which the written statement is mailed and each nontax enclosure enclosed in the envelope must contain, in a bold and conspicuous type, the legend: “Important Tax Return Document Enclosed.” For purposes of this paragraph (d)(2)(ii), a nontax enclosure is any item listed in paragraphs (d)(2)(i)(A) through (C) of this section. However, a payor is not required to include the legend on the outside of an envelope containing only the enclosures in paragraph (d)(2)(i)(D) through (F) of this section.
+
+(B) *Delivery restrictions.* The requirement to provide the written statement in person or by first-class mail may be satisfied by sending the written statement and any enclosures described in paragraph (d)(2)(i) of this section by intra-office mail, provided that intra-office mail is used by the payor in sending account activity, balance information, and other correspondence to the payee. If a payor does not personally deliver the written statement (i.e., the Form 1099 or its acceptable substitute) to the recipient or mail it to the recipient in a statement mailing as described in this paragraph (d), the payor is considered to have failed to mail the statement required under section 6042(c) and will be subject to the penalty under section 6722.
+
+(e) *Time for furnishing statements*—(1) *In general.* Each statement required by section 6042(c) and this section to be furnished to any person for a calendar year must be furnished to such person after November 30 of the year and on or before January 31 (February 10 in the case of a nominee filing under § 1.6042-2(a)(1)(iii)) of the following year, but no statement may be furnished before the final dividend for the calendar year has been paid. However, the statement may be furnished at any time after April 30 if it is furnished with the final dividend for the calendar year. For a statement required to be furnished after December 31, 2008, the February 15 due date under section 6045 applies to the statement if the statement is furnished in a consolidated reporting statement under section 6045. *See* §§ 1.6045-1(k)(3), 1.6045-2(d)(2), 1.6045-3(e)(2), 1.6045-4(m)(3), and 1.6045-5(a)(3)(ii).
+
+(2) *Extensions of time.* For good cause upon written application of the person required to furnish statements under this section, the Director, Martinsburg Computing Center, may grant an extension of time not exceeding 30 days in which to furnish such statements. The application must be addressed to the Director, Martinsburg Computing Center, and must contain a full recital of the reasons for requesting the extension to aid the Director in determining the period of the extension, if any, that will be granted. Such a request in the form of a letter to the Director, Martinsburg Computing Center, signed by the applicant will suffice as an application. The application must be filed on or before the date prescribed in paragraph (e)(1) of this section.
+
+(3) *Last day for furnishing statement.* For provisions relating to the time for performance of an act when the last day prescribed for performance falls on Saturday, Sunday, or a legal holiday, see section 7503 and § 301.7503-1 of this chapter (Regulations on Procedure and Administration).
+
+(f) *Cross-reference to penalty.* For provisions relating to the penalty provided for failure to furnish timely a correct payee statement required under section 6042(c), see § 301.6722-1 of this chapter (Procedure and Administration Regulations). See § 301.6724-1 of this chapter for the waiver of a penalty if the failure is due to reasonable cause and is not due to willful neglect.
+
+(g) *Effective/applicability date.* This section is effective for payee statements due after December 31, 1995, without regard to extensions. The amendments to paragraph (b) are effective for payee statements due after December 31, 2014. For payee statements due before January 1, 2015, § 1.6042-4(b) (as contained in 26 CFR part 1, revised April 2013) shall apply.
+
+[T.D. 8637, 60 FR 66110, Dec. 21, 1995, as amended by T.D. 8734, 62 FR 53476, Oct. 14, 1997; T.D. 9504, 75 FR 64090, Oct. 18, 2010; T.D. 9675, 79 FR 41129, July 15, 2014]

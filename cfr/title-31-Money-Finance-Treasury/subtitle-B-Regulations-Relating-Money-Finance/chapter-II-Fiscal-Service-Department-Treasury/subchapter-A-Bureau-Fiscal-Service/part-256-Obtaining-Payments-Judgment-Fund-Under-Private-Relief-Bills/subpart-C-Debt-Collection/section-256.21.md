@@ -1,0 +1,3 @@
+##### § 256.21 Are Judgment Fund payments offset to collect administrative debts? #####
+
+Yes, separate and apart from its role as administrator of the Judgment Fund, Fiscal Service, in its capacity as disbursing official for the executive branch, offsets Judgment Fund payments to collect delinquent, nontax Federal debts through the Treasury Offset Program (TOP). This rule applies only to the setoff of Judgment Fund payments prior to payment certification, pursuant to 31 U.S.C. 3728, and not to disbursing official offsets pursuant to other authorities. (See 31 CFR 285.5 for requirements for disbursing official offset of past-due delinquent, nontax debts pursuant to the authority set forth in 31 U.S.C. 3716.)

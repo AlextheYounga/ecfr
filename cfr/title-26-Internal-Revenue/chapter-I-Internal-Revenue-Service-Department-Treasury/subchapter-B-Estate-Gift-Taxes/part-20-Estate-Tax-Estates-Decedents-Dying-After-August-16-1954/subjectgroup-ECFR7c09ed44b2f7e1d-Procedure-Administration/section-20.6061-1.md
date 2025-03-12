@@ -1,0 +1,5 @@
+##### § 20.6061-1 Signing of returns and other documents. #####
+
+Any return, statement, or other document required to be made under any provision of Chapter 11 or Subtitle F of the Code or regulations prescribed thereunder with respect to any tax imposed by Chapter 11 of the Code shall be signed by the executor, administrator or other person required or duly authorized to sign in accordance with the regulations, forms or instructions prescribed with respect to such return, statement, or other document. See section 2203 for definition of executor, administrator, etc. The person required or duly authorized to make the return may incur liability for the penalties provided for erroneous, false, or fraudulent returns. For criminal penalties see sections 7201, 7203, 7206, 7207, and 7269.
+
+[T.D. 6600, 27 FR 4986, May 29, 1962]

@@ -1,0 +1,55 @@
+##### § 1.408(q)-1 Deemed IRAs in qualified employer plans. #####
+
+(a) *In general.* Under section 408(q), a qualified employer plan may permit employees to make voluntary employee contributions to a separate account or annuity established under the plan. If the requirements of section 408(q) and this section are met, such account or annuity is treated in the same manner as an individual retirement plan under section 408 or 408A (and contributions to such an account or annuity are treated as contributions to an individual retirement plan and not to the qualified employer plan). The account or annuity is referred to as a deemed IRA.
+
+(b) *Types of IRAs.* If the account or annuity meets the requirements applicable to traditional IRAs under section 408, the account or annuity is deemed to be a traditional IRA, and if the account or annuity meets the requirements applicable to Roth IRAs under section 408A, the account or annuity is deemed to be a Roth IRA. Simplified employee pensions (SEPs) under section 408(k) and SIMPLE IRAs under section 408(p) may not be used as deemed IRAs.
+
+(c) *Separate entities.* Except as provided in paragraphs (d) and (g) of this section, the qualified employer plan and the deemed IRA are treated as separate entities under the Internal Revenue Code and are subject to the separate rules applicable to qualified employer plans and IRAs, respectively. Issues regarding eligibility, participation, disclosure, nondiscrimination, contributions, distributions, investments, and plan administration are generally to be resolved under the separate rules (if any) applicable to each entity under the Internal Revenue Code.
+
+(d) *Exceptions.* The following exceptions to treatment of a deemed IRA and the qualified employer plan as separate entities apply:
+
+(1) The plan document of the qualified employer plan must contain the deemed IRA provisions and a deemed IRA must be in effect at the time the deemed IRA contributions are accepted. Notwithstanding the preceding sentence, employers that provided deemed IRAs for plan years beginning before January 1, 2004, (but after December 31, 2002) are not required to have such provisions in their plan documents before the end of such plan years.
+
+(2) The requirements of section 408(a)(5) regarding commingling of assets do not apply to deemed IRAs. Accordingly, the assets of a deemed IRA may be commingled for investment purposes with those of the qualified employer plan. However, the restrictions on the commingling of plan and IRA assets with other assets apply to the assets of the qualified employer plan and the deemed IRA.
+
+(e) *Application of distribution rules.* (1) Rules applicable to distributions from qualified employer plans under the Internal Revenue Code and regulations do not apply to distributions from deemed IRAs. Instead, the rules applicable to distributions from IRAs apply to distributions from deemed IRAs. Also, any restrictions that a trustee, custodian, or insurance company is permitted to impose on distributions from traditional and Roth IRAs may be imposed on distributions from deemed IRAs (for example, early withdrawal penalties on annuities).
+
+(2) The required minimum distribution rules of section 401(a)(9) must be met separately with respect to the qualified employer plan and the deemed IRA. The determination of whether a qualified employer plan satisfies the required minimum distribution rules of section 401(a)(9) is made without regard to whether a participant satisfies the required minimum distribution requirements with respect to the deemed IRA that is established under such plan.
+
+(f) *Additional rules*—(1) *Trustee.* The trustee or custodian of an individual retirement account must be a bank, as required by section 408(a)(2), or, if the trustee is not a bank, as defined in section 408(n), the trustee must have received approval from the Commissioner to serve as a nonbank trustee or nonbank custodian pursuant to § 1.408-2(e). For further guidance regarding governmental units serving as nonbank trustees of deemed IRAs established under section 408(q), see § 1.408-2T(e)(8).
+
+(2) *Trusts.* (i) General rule. Deemed IRAs that are individual retirement accounts may be held in separate individual trusts, a single trust separate from a trust maintained by the qualified employer plan, or in a single trust that includes the qualified employer plan. A deemed IRA trust must be created or organized in the United States for the exclusive benefit of the participants. If deemed IRAs are held in a single trust that includes the qualified employer plan, the trustee must maintain a separate account for each deemed IRA. In addition, the written governing instrument creating the trust must satisfy the requirements of section 408(a) (1), (2), (3), (4), and (6).
+
+(ii) *Application of section 408(a)(3).* If deemed IRAs are held in a single trust that includes the qualified employer plan, section 408(a)(3) is treated as satisfied if no part of the separate accounts of any of the deemed IRAs is invested in life insurance contracts, regardless of whether the separate account for the qualified employer plan invests in life insurance contracts.
+
+(iii) *Separate accounts for traditional and Roth deemed IRAs.* The rules of section 408A(b) and the regulations thereunder, requiring each Roth IRA to be clearly designated as a Roth IRA, will not fail to be satisfied solely because Roth deemed IRAs and traditional deemed IRAs are held in a single trust, provided that the trustee maintains separate accounts for the Roth deemed IRAs and traditional deemed IRAs of each participant, and each of those accounts is clearly designated as such.
+
+(3) *Annuity contracts.* Deemed IRAs that are individual retirement annuities may be held under a single annuity contract or under separate annuity contracts. However, the contract must be separate from any annuity contract or annuity contracts of the qualified employer plan. In addition, the contract must satisfy the requirements of section 408(b) and there must be separate accounting for the interest of each participant in those cases where the individual retirement annuities are held under a single annuity contract.
+
+(4) *Deductibility.* The deductibility of voluntary employee contributions to a traditional deemed IRA is determined in the same manner as if they were made to any other traditional IRA. Thus, for example, taxpayers with compensation that exceeds the limits imposed by section 219(g) may not be able to make contributions to deemed IRAs, or the deductibility of such contributions may be limited in accordance with sections 408 and 219(g). However, section 219(f)(5), regarding the taxable year in which amounts paid by an employer to an individual retirement plan are includible in the employee's income, is not applicable to deemed IRAs.
+
+(5) *Rollovers and transfers.* The same rules apply to rollovers and transfers to and from deemed IRAs as apply to rollovers and transfers to and from other IRAs. Thus, for example, the plan may provide that an employee may request and receive a distribution of his or her deemed IRA account balance and may roll it over to an eligible retirement plan in accordance with section 408(d)(3), regardless of whether that employee may receive a distribution of any other plan benefits.
+
+(6) *Nondiscrimination.* The availability of a deemed IRA is not a benefit, right or feature of the qualified employer plan under § 1.401(a)(4)-4.
+
+(7) *IRA assets and benefits not taken into account in determining benefits under or funding of qualified employer plan.* Neither the assets held in the deemed IRA portion of the qualified employer plan, nor any benefits attributable thereto, shall be taken into account for purposes of:
+
+(i) Determining the benefits of employees and their beneficiaries under the plan (within the meaning of section 401(a)(2)); or
+
+(ii) Determining the plan's assets or liabilities for purposes of section 404 or 412.
+
+(g) *Disqualifying defects*—(1) *Single trust.* If the qualified employer plan fails to satisfy the qualification requirements applicable to it, either in form or operation, any deemed IRA that is an individual retirement account and that is included as part of the trust of that qualified employer plan does not satisfy section 408(q). Accordingly, any account maintained under such a plan as a deemed IRA ceases to be a deemed IRA at the time of the disqualifying event. In addition, the deemed IRA also ceases to satisfy the requirements of sections 408(a) and 408A. Also, if any one of the deemed IRAs fails to satisfy the applicable requirements of sections 408 or 408A, and the assets of that deemed IRA are included as part of the trust of the qualified employer plan, section 408(q) does not apply and the plan will fail to satisfy the plan's qualification requirements.
+
+(2) *Separate trusts and annuities.* If the qualified employer plan fails to satisfy its qualification requirements, either in form or operation, but the assets of a deemed IRA are held in a separate trust (or where a deemed IRA is an individual retirement annuity), then the deemed IRA does not automatically fail to satisfy the applicable requirements of section 408 or 408A. Instead, its status as an IRA will be determined by considering whether the account or the annuity satisfies the applicable requirements of sections 408 and 408A (including, in the case of individual retirement accounts, the prohibition against the commingling of assets under section 408(a)(5)). Also, if a deemed IRA fails to satisfy the requirements of a qualified IRA and the assets of the deemed IRA are held in a separate trust (or where the deemed IRA is an individual retirement annuity), the qualified employer plan will not fail the qualification requirements applicable to it under the Code solely because of the failure of the deemed IRA.
+
+(h) *Definitions.* The following definitions apply for purposes of this section:
+
+(1) *Qualified employer plan.* A *qualified employer plan* is a plan described in section 401(a), an annuity plan described in section 403(a), a section 403(b) plan, or a governmental plan under section 457(b).
+
+(2) *Voluntary employee contribution.* A *voluntary employee contribution* is any contribution (other than a mandatory contribution within the meaning of section 411(c)(2)(C)) which is made by an individual as an employee under a qualified employer plan that allows employees to elect to make contributions to deemed IRAs and with respect to which the individual has designated the contribution as a contribution to which section 408(q) applies.
+
+(3) *Employee.* An *employee* includes any individual who is an employee under the rules applicable to the qualified employer plan under which the deemed IRA is established.
+
+(i) *Effective date.* This section applies to accounts or annuities established under section 408(q) on or after August 1, 2003.
+
+[T.D. 9142, 69 FR 43739, July 22, 2004]

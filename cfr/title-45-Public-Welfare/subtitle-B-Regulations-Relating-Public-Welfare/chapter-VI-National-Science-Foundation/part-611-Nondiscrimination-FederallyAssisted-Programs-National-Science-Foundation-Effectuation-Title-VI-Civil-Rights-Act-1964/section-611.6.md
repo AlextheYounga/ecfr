@@ -1,0 +1,11 @@
+##### § 611.6 Compliance information. #####
+
+(a) *Cooperation and assistance.* The responsible Foundation official shall, to the fullest extent practicable, seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Compliance reports.* Each recipient shall keep such records and submit to the responsible Foundation official timely, complete and accurate compliance reports at such times, and in such form and containing such information, as the responsible Foundation official may determine to be necessary to enable him to ascertain whether the recipient has complied or is complying with this part. In the case in which a primary recipient extends Federal financial assistance to any other recipient, such other recipient shall also submit such compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this part.
+
+(c) *Access to sources of information.* Each recipient shall permit access by the responsible Foundation official or his designee during normal business hours to such of its books, records, accounts, and other sources of information, and its facilities as may be pertinent to ascertain compliance with this part. Where any information required of a recipient is in the exclusive possession of any other agency, institution or person and this agency, institution or person shall fail or refuse to furnish this information, the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information.
+
+(d) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the program for which the recipient receives Federal financial assistance, and make such information available to them in such manner, as the responsible Foundation official finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this part.
+
+(Approved by the Office of Management and Budget under control number 3l45-0087)[29 FR 16305, Dec. 4, 1964, as amended at 49 FR 37595, Sept. 25, 1984; 68 FR 51382, Aug. 26, 2003]

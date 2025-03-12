@@ -1,0 +1,3 @@
+##### § 226.1 Scope. #####
+
+The regulations in this part apply to insurance covering public money of the United States held by banks, savings banks, savings and loan associations, building and loan associations, homestead associations, or credit unions designated as Treasury tax and loan depositaries under 31 CFR part 203. Approval of the adequacy of the insurance coverage provided to Treasury tax and loan funds shall be governed by the regulations contained herein, which will be supplemented by guidelines issued by the Treasury and updated from time to time to meet changing conditions in the industry.

@@ -1,0 +1,3 @@
+##### § 281.8 Reporting and accounting. #####
+
+The Treasury Department will maintain a system of central accounting and reporting for the purpose of providing information on foreign exchange operations to the President, the Congress, and the public. The Treasury Department will also prescribe rules to enhance consistency in reporting of foreign exchange operations by all agencies. Agencies shall furnish such reports and information as may be required for the administration of the provisions of this circular.

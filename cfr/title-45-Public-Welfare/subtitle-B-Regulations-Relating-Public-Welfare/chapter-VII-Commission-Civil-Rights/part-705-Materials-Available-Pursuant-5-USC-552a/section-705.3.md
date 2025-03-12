@@ -1,0 +1,7 @@
+##### § 705.3 Procedures for requests pertaining to individual records in a system of records. #####
+
+(a) An individual seeking notification of whether a system of records contains a record pertaining to him or her or an individual seeking access to information or records pertaining to him or her, that are available under the Privacy Act of 1974, shall present his or her request in person or in writing to the General Counsel of the Commission.
+
+(b) In addition to meeting the requirements set forth in § 705.4(c) or (d), any person who requests information under the regulations in this part shall provide a reasonably specific description of the information sought so that it may be located without undue search or inquiry. If possible, that description should include the nature of the records sought, the approximate dates covered by the record, and, if known by the requester, the system in which the record is thought to be included. Requested information that is not identified by a reasonably specific description is not an identifiable record, and the request for that information cannot be treated as a formal request.
+
+(c) If the description is insufficient, the agency will notify the requester and, to the extent possible, indicate the additional information required. Every reasonable effort shall be made to assist a requester in the identification and location of the record or records sought.

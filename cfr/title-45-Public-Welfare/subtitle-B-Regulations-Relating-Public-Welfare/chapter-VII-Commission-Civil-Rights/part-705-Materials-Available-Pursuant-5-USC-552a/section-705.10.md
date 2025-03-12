@@ -1,0 +1,3 @@
+##### § 705.10 Fees. #####
+
+If an individual requests copies of his or her records the charge shall be three (3) cents per page; however, the Commission shall not charge for copies furnished to an individual as a necessary part of the process of disclosing the record to an individual. Fees may be waived or reduced in accordance with § 704.1(e) of this chapter because of indigency, where the cost is nominal, when it is in the public interest not to charge, or when waiver would not constitute an unreasonable expense to the Commission.

@@ -1,0 +1,7 @@
+##### § 92.5 Procedure governing availability of Bureau of the Mint records. #####
+
+(a) *Regulations of the Office of the Secretary adopted.* The regulations on the Disclosure of Records of the Office of the Secretary and other bureaus and offices of the Department issued under 5 U.S.C. 301 and 552 and published as part 1 of this title, 32 FR No. 127, July 1, 1967, except for § 1.7 of this title entitled “Appeal,” shall govern the availability of Bureau of the Mint records.
+
+(b) *Determination of availability.* The Director of the Mint delegates authority to the following Mint officials to determine, in accordance with part 1 of this title, which of the records or information requested is available, subject to the appeal provided in § 92.6: The Deputy Director of the Mint, Division Heads in the Office of the Director, and the Superintendent or Officer in Charge of the field office where the record is located.
+
+(c) *Requests for identifiable records.* A written request for an identifiable record shall be addressed to the Director of the Mint, Washington, DC 20220. A request presented in person shall be made in the public reading room of the Treasury Department, 15th Street and Pennsylvania Avenue, NW, Washington, DC, or in such other office designated by the Director of the Mint.

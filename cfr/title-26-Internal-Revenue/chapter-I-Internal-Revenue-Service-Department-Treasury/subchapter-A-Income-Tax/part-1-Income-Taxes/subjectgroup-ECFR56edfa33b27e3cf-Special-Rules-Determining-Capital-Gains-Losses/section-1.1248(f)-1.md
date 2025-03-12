@@ -1,0 +1,49 @@
+##### § 1.1248(f)-1 Certain nonrecognition distributions. #####
+
+(a) *Scope and purpose.* This section and §§ 1.1248(f)-2 and 1.1248(f)-3 provide rules under section 1248(f) that apply when a domestic corporation (domestic distributing corporation) distributes stock of a foreign corporation (foreign distributed corporation) in a distribution to which section 337, 355(c)(1), or 361(c)(1) applies. Paragraph (b) of this section provides the general rule that requires the domestic distributing corporation, depending on the type of distribution, to include in gross income either the section 1248 amount or the total section 1248(f) amount. Paragraph (c) of this section provides definitions that apply for purposes of this section and §§ 1.1248(f)-2 and 1.1248(f)-3. Section 1.1248(f)-2 provides exceptions to the general rule contained in paragraph (b) of this section that apply, depending on the type of distribution. Section 1.1248(f)-3 provides reasonable cause relief procedures for failures to timely comply with certain filing requirements and effective/applicability dates.
+
+(b) *General rule*—(1) *Section 337 distribution.* This paragraph (b)(1) applies if a domestic distributing corporation that is a section 1248 shareholder of a foreign distributed corporation distributes stock of the foreign distributed corporation in a distribution to which section 337 applies (section 337 distribution). Except as provided in § 1.1248(f)-2(a), the domestic distributing corporation must, notwithstanding any other provision of subtitle A of the Internal Revenue Code (Code), include in gross income as a dividend the section 1248 amount with respect to the stock of the foreign distributed corporation. This paragraph (b)(1) applies only to the extent the domestic distributing corporation does not recognize gain with respect to the stock of the foreign distributed corporation as a result of the section 337 distribution under another provision of subtitle A of the Code.
+
+(2) *Existing stock distribution under section 355 or 361.* This paragraph (b)(2) applies to the extent a domestic distributing corporation distributes stock of the foreign distributed corporation that is not received in a section 361 exchange that is part of the plan of distribution, provided the distribution is described in section 355(c)(1) or section 361(c)(1) (existing stock distribution). Except as provided in § 1.1248(f)-2(b), the domestic distributing corporation must, notwithstanding any other provision of subtitle A of the Code, include in gross income as a dividend the section 1248 amount with respect to the stock of the foreign distributed corporation. This paragraph (b)(2) only applies to the extent the domestic distributing corporation does not recognize gain with respect to the stock of the foreign distributed corporation as a result of the existing stock distribution under another provision of subtitle A of the Code.
+
+(3) *New stock distribution under section 361.* This paragraph (b)(3) applies to the extent a domestic distributing corporation distributes stock of the foreign distributed corporation that is received in a section 361 exchange that is part of the plan of distribution (and, to the extent applicable, also distributes any cash or other property), provided the distribution is described in section 361(c)(1) (new stock distribution). Except as provided in § 1.1248(f)-2(c), the domestic distributing corporation must, notwithstanding any other provision of subtitle A of the Code, include in gross income as a dividend the total section 1248(f) amount with respect to the stock of each foreign corporation transferred in the section 361 exchange. This paragraph (b)(3) applies without regard to the amount of gain realized by the domestic distributing corporation in the new stock distribution.
+
+(c) *Definitions.* Except as otherwise provided, the following definitions apply for purposes of this section and §§ 1.1248(f)-2 and 1.1248(f)-3:
+
+(1) *80-percent distributee* is a corporation described in section 337(c).
+
+(2) *Block of stock* has the meaning provided in § 1.1248-2(b).
+
+(3) *Distributee* is a shareholder of the domestic distributing corporation that receives one or more shares of stock of a foreign distributed corporation in an existing stock distribution (as defined in paragraph (b)(2) of this section) or a new stock distribution (as defined in paragraph (b)(3) of this section).
+
+(4) *Hypothetical section 1248 amount* is, with respect to each distributee or non-stock distributee, the amount in paragraph (c)(4)(i) of this section, reduced by the amount in paragraph (c)(4)(ii) of this section computed with respect to the stock of each foreign corporation transferred in the section 361 exchange by the domestic distributing corporation for which there is not an income inclusion under § 1.367(b)-4(b)(1)(i).
+
+(i) The amount that the domestic distributing corporation would have included in income as a deemed dividend under § 1.367(b)-4(b)(1)(i) if the requirements of § 1.367(b)-4(b)(1)(ii)(A) (involving the receipt of foreign stock in an exchange to which § 1.367(a)-7(c) applies) had not been satisfied and that would have been attributable to such distributee or non-stock distributee under § 1.367(a)-7(e)(4) (providing rules to attribute deemed income inclusions under § 1.367(b)-4 to persons described in § 1.367(a)-3(e)(3)(iii)(A).
+
+(ii) The amount of gain recognized by the domestic distributing corporation under § 1.367(a)-7(c)(2) attributable to such distributee or non-stock distributee and allocable to the stock of such foreign corporation under § 1.367(a)-7(e)(1), but only to the extent such gain is treated as a dividend under section 1248(a).
+
+(5) *Non-stock distributee* is a shareholder of the domestic distributing corporation that receives cash or other property but no shares of stock of the foreign distributed corporation in a new stock distribution (as defined in paragraph (b)(3) of this section).
+
+(6) *Postdistribution amount* is the section 1248 amount with respect to the stock (or a portion of a share of stock) of the foreign distributed corporation received by a distributee, computed immediately after the distribution, but without taking into account any adjustments to the basis of the stock under § 1.1248(f)-2(b)(3) (in the case of an existing stock distribution) or adjustments to the basis of stock or income inclusions under § 1.1248(f)-2(c)(3) (in the case of a new stock distribution). The postdistribution amount in the stock of a foreign distributed corporation received in an existing stock distribution is determined based on the distributee's holding period in the stock as adjusted under § 1.1248(f)-2(b)(2). The postdistribution amount in the stock (or a portion of a share of stock, as applicable) of a foreign distributed corporation received in a new stock distribution is determined after applying the rules in §§ 1.1248-8(b)(2)(iv) and 1.1248(f)-2(c)(2).
+
+(7) *Section 358 basis* is the basis in stock as determined under section 358.
+
+(8) *Section 361 exchange* is an exchange described in section 361(a) or (b).
+
+(9) *Section 1248 amount* is the net positive earnings and profits (if any) attributable to the stock of the foreign distributed corporation, determined in accordance with § 1.1248-2 or § 1.1248-3 (taking into account § 1.1248-8, if applicable), and that would be included in gross income as a dividend under section 1248(a) if the stock were sold by the domestic distributing corporation in a transaction in which all realized gain is recognized.
+
+(10) *Section 1248(f) amount* is the amount in paragraph (c)(10)(i) of this section, reduced by the amount in paragraph (c)(10)(ii) of this section computed with respect to the stock of each foreign corporation transferred in the section 361 exchange by the domestic distributing corporation for which the domestic distributing corporation does not have an income inclusion under § 1.367(b)-4(b)(1)(i).
+
+(i) The amount that the domestic distributing corporation would have included in income as a dividend under § 1.367(b)-4(b)(1)(i) if the requirements of § 1.367(b)-4(b)(1)(ii)(A) (involving the receipt of foreign stock in an exchange to which § 1.367(a)-7(c) applies) had not been satisfied.
+
+(ii) The amount of gain recognized by the domestic distributing corporation under § 1.367(a)-7(c)(2) and allocable to the stock of such foreign corporation under § 1.367(a)-7(e)(1), but only to the extent such gain is treated as a dividend under section 1248(a).
+
+(11) *Section 1248(f) block amount* is the portion of the section 1248(f) amount, as defined in paragraph (c)(10) of this section, that relates to a block of stock of the foreign corporation if more than a single block of stock of the foreign corporation is transferred in the section 361 exchange.
+
+(12) *Section 1248 shareholder* is a domestic corporation that satisfies the ownership requirements of section 1248(a)(2) with respect to a foreign corporation, except that a domestic corporation, other than a domestic distributing corporation, that is a regulated investment company (as defined in section 851(a)), a real estate investment trust (as defined in section 856(a)), or an S corporation (as defined in section 1361(a)) cannot be a section 1248 shareholder.
+
+(13) *Timely filed return* is a U.S. income tax return filed on or before the due date set forth in section 6072(b), including any extensions of time to file the return granted under section 6081.
+
+(14) *Total section 1248(f) amount* is the sum of each section 1248(f) amount (as defined in paragraph (c)(10) of this section).
+
+[T.D. 9614, 78 FR 17043, Mar. 19, 2013, as amended by T.D. 9760, 81 FR 15169, Mar. 22, 2016]

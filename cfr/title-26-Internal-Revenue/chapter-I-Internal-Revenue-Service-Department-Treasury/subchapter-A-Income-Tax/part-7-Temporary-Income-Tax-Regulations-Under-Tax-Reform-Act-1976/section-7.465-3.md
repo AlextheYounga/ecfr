@@ -1,0 +1,5 @@
+##### § 7.465-3 Allocation of loss for different taxable years. #####
+
+If the taxable year of the entity conducting the activity differs from that of the taxpayer, the loss attributable to the activity for the first taxable year of the entity ending after the beginning of the first taxable year of the taxpayer beginning after December 31, 1975, shall be allocated in the following manner. That portion of the loss from the activity for such taxable year of the entity which bears the same ratio as the number of days in such taxable year before January 1, 1976, divided by the total number of days in the taxable year, shall be attributable to taxable years of the taxpayer beginning before January 1, 1976. Consequently, that portion shall be treated in accordance with § 7.465-2.
+
+[T.D. 7504, 42 FR 42198, Aug. 22, 1977]

@@ -1,0 +1,3 @@
+##### § 1321.83 How the Commissioner may reallot the State's withheld payments. #####
+
+The Commissioner disburses funds withheld from the State directly to any public or nonprofit private organization or agency, or political subdivision of the State that has the authority and capacity to carry out the functions of the State agency and submits a State plan which meets the requirements of this part and which contains an agreement to meet the non-federal share requirements.

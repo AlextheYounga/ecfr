@@ -1,0 +1,21 @@
+##### § 1.483-3 Test rate of interest applicable to a contract. #####
+
+(a) *General rule.* For purposes of section 483, the test rate of interest for a contract is the same as the test rate that would apply under § 1.1274-4 if the contract were a debt instrument. Paragraph (b) of this section, however, provides for a lower test rate in the case of certain sales or exchanges of land between related individuals.
+
+(b) *Lower rate for certain sales or exchanges of land between related individuals*—(1) *Test rate.* In the case of a qualified sale or exchange of land between related individuals (described in section 483(e)), the test rate is not greater than 6 percent, compounded semiannually, or an equivalent rate based on an appropriate compounding period.
+
+(2) *Special rules.* The following rules and definitions apply in determining whether a sale or exchange is a qualified sale under section 483(e):
+
+(i) *Definition of family members.* The members of an individual's family are determined as of the date of the sale or exchange. The members of an individual's family include those individuals described in section 267(c)(4) and the spouses of those individuals. In addition, for purposes of section 267(c)(4), full effect is given to a legal adoption, ancestor means parents and grandparents, and lineal descendants means children and grandchildren.
+
+(ii) *$500,000 limitation.* Section 483(e) does not apply to the extent that the stated principal amount of the debt instrument issued in the sale or exchange, when added to the aggregate stated principal amount of any other debt instruments to which section 483(e) applies that were issued in prior qualified sales between the same two individuals during the same calendar year, exceeds $500,000. See *Example 3* of paragraph (b)(3) of this section.
+
+(iii) *Other limitations.* Section 483(e) does not apply if the parties to a contract include persons other than the related individuals and the parties enter into the contract with an intent to circumvent the purposes of section 483(e). In addition, if the property sold or exchanged includes any property other than land, section 483(e) applies only to the extent that the stated principal amount of the debt instrument issued in the sale or exchange is attributable to the land (based on the relative fair market values of the land and the other property).
+
+(3) *Examples.* The following examples illustrate the rules of this paragraph (b).
+
+Example 1.On January 1, 1995, A sells land to B, A's child, for $650,000. The contract for sale calls for B to make a $250,000 down payment and issue a debt instrument with a stated principal amount of $400,000. Because the stated principal amount of the debt instrument is less than $500,000, the sale is a qualified sale and section 483(e) applies to the debt instrument.Example 2.The facts are the same as in *Example 1* of paragraph (b)(3) of this section, except that on June 1, 1995, A sells additional land to B under a contract that calls for B to issue a debt instrument with a stated principal amount of $100,000. The stated principal amount of this debt instrument ($100,000) when added to the stated principal amount of the prior debt instrument ($400,000) does not exceed $500,000. Thus, section 483(e) applies to both debt instruments.Example 3.The facts are the same as in *Example 1* of paragraph (b)(3) of this section, except that on June 1, 1995, A sells additional land to B under a contract that calls for B to issue a debt instrument with a stated principal amount of $150,000. The stated principal amount of this debt instrument when added to the stated principal amount of the prior debt instrument ($400,000) exceeds $500,000. Thus, for purposes of section 483(e), the debt instrument issued in the sale of June 1, 1995, is treated as two separate debt instruments: a $100,000 debt instrument (to which section 483(e) applies) and a $50,000 debt instrument (to which section 1274, if otherwise applicable, applies).
+
+(c) *Effective date.* This section applies to sales and exchanges that occur on or after April 4, 1994. Taxpayers, however, may rely on this section for sales and exchanges that occur after December 21, 1992, and before April 4, 1994.
+
+[T.D. 8517, 59 FR 4807, Feb. 2, 1994]

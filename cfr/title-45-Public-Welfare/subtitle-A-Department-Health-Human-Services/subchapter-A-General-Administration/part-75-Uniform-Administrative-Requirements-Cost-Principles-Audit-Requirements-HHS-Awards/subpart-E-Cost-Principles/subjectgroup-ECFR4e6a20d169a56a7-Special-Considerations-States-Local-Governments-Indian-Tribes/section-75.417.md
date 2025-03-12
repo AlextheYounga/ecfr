@@ -1,0 +1,3 @@
+##### § 75.417 Interagency service. #####
+
+The cost of services provided by one agency to another within the governmental unit may include allowable direct costs of the service plus a pro-rated share of indirect costs. A standard indirect cost allowance equal to ten percent of the direct salary and wage cost of providing the service (excluding overtime, shift premiums, and fringe benefits) may be used in lieu of determining the actual indirect costs of the service. These services do not include centralized services included in central service cost allocation plans as described in appendix V to this part.

@@ -1,0 +1,3 @@
+##### § 316.7 Delivery of bonds. #####
+
+Issuing agents were authorized to deliver Series E bonds either over-the-counter in person, or by mail at the risk and expense of the United States, to the address given by the purchaser, but only within the United States, its territories and possessions, and the Commonwealth of Puerto Rico. No mail deliveries elsewhere were made. If purchased by citizens of the United States temporarily residing abroad, the bonds were delivered to such address in the United States as the purchaser directed.

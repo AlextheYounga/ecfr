@@ -1,0 +1,3 @@
+##### § 901.10 Analysis of costs. #####
+
+Agency collection procedures should provide for periodic comparison of costs incurred and amounts collected. Data on costs and corresponding recovery rates for debts of different types and in various dollar ranges should be used to compare the cost effectiveness of alternative collection techniques, establish guidelines with respect to points at which costs of further collection efforts are likely to exceed recoveries, assist in evaluating offers in compromise, and establish minimum debt amounts below which collection efforts need not be taken.

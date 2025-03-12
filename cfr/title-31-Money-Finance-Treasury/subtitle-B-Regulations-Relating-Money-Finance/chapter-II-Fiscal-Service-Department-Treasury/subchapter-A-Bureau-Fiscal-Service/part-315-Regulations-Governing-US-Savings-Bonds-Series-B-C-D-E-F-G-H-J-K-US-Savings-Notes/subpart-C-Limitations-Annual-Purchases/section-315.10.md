@@ -1,0 +1,3 @@
+##### § 315.10 Limitations. #####
+
+Specific limitations have been placed on the amounts of bonds of each series and savings notes that might be purchased in any one year in the name of any one person or organization. The amounts applicable to each series of bonds and savings notes for each specific year, which has varied from time to time, can be found in the appropriate offering circulars, as revised and amended.

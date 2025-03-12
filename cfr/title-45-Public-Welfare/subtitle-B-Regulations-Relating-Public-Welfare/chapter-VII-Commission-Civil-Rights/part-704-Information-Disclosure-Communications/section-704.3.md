@@ -1,0 +1,3 @@
+##### § 704.3 Other requests and communications. #####
+
+Requests for information should be addressed to the Public Affairs Unit and requests for Commission literature should be directed to National Clearinghouse Library, U.S. Commission on Civil Rights, 624 9th Street, NW., Washington DC 20425. Communications with respect to Commission proceedings should be made pursuant to § 702.17 of this chapter. All other communications should be directed to Office of Staff Director, U.S. Commission on Civil Rights, 624 9th Street, Washington, DC 20425.

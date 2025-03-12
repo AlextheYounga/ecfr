@@ -1,0 +1,15 @@
+##### § 1.9200-2 Manner of taking deduction. #####
+
+(a) *In general.* The deduction provided by § 1.9200-1 shall be taken by multiplying the amount of the monthly deduction determined under § 1.9200-1 (c)(2) for each motor carrier operating authority by the number of months in the taxable year for which the deduction is allowable, and entering the resulting amount at the appropriate place on the taxpayer's return for each year in which the deduction is properly claimed. Additionally, any taxpayer who has claimed the deduction provided by § 1.9200-1 must (unless it has already filed a statement containing the required information) attach a statement to the next income tax return of the taxpayer which has a filing due date on or after June 4, 1984. The statement shall provide, in addition to the taxpayer's name, address, and taxpayer identification number, the following information for each motor carrier operating authority for which a deduction was claimed:
+
+(1) The taxable year of the taxpayer for which the deduction was first claimed;
+
+(2) Whether the taxpayer's deduction was determined using the adjusted basis of the authority under section 1012 or an allocated stock basis under § 1.9200-1(e)(2); and
+
+(3) If an allocation of stock basis has been made under § 1.9200-1(e)(2), the calculations made in determining the amount of basis to be allocated to the authority.
+
+(b) *Filing and amendment of returns.* A taxpayer who has filed its return for the taxable year that includes July 1, 1980, claiming the deduction allowed under § 1.9200-1, may amend its return for such year in order to elect under § 1.9200-1(c)(1)(ii) to begin the 60-month period in the subsequent taxable year. A taxpayer eligible to take the deduction under § 1.9200-1 who has filed its returns for both the taxable year that includes July 1, 1980, and the following taxable year without claiming the deduction, may claim the deduction by filing amended returns or claims for refund for the taxable year in which the taxpayer elects to begin the 60-month period, and for subsequent taxable years. If a taxpayer first claims the deduction on an amended return under the preceding sentence, the statement required by paragraph (a) of this section must be attached to such amended return.
+
+(c) *Deduction taken for operating authority other than under § 1.9200-1.* If a deduction other than the deduction allowed under § 1.9200-1 was taken in any taxable year for the reduction in value of a motor carrier operating authority caused by administrative or legislative actions to decrease restrictions on entry into the interstate motor carrier business, the taxpayer should file an amended return for such taxable year which computes taxable income without regard to such deduction.
+
+(Approved by the Office of Management and Budget under control number 1545-0767)(Sec. 266, Economic Recovery Tax Act of 1981 (Pub. L. 97-34; 95 Stat. 265); sec. 517, Highway Revenue Act of 1982 (Pub. L. 97-424; 96 Stat. 2097); and sec. 7805, Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805)[T.D. 7947, 49 FR 8249, Mar. 6, 1984]

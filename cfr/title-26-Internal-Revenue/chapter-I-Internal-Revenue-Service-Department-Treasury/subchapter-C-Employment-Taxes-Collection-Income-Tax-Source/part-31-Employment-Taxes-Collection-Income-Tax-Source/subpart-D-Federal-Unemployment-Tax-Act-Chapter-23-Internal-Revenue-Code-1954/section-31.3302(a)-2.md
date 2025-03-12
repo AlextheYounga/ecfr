@@ -1,0 +1,3 @@
+##### § 31.3302(a)-2 Refund of State contributions. #####
+
+If, subsequent to the filing of the return, a refund is made by a State to the taxpayer of any part of his contribution credited against the tax, the taxpayer is required to advise the district director of the date and amount of such refund and the reason therefor, and to pay the tax, if any, due as a result of such refund, together with interest from the date when the tax was due.

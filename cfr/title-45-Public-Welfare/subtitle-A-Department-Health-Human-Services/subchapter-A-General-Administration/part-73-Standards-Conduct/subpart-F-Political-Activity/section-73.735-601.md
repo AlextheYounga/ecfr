@@ -1,0 +1,13 @@
+##### § 73.735-601 Applicability. #####
+
+(a) All employees in the Executive Branch of the Federal Government, including non-career employees, are subject to basic political activity restrictions in subchapter III of chapter 73 of title 5, United States Code (the former Hatch Act) and Civil Service Rule IV. Employees are individually responsible for refraining from prohibited political activity. Ignorance of a prohibition does not excuse a violation. This subpart summarizes provisions of law and regulation concerning political activity of employees. The Federal Personnel Manual and other publications of the Office of Personnel Management contain more detailed information on this subject. These may be reviewed in Department personnel offices, or will be made available by the Ethics Counselor, or the deputy counselor for the employee's organizational component.
+
+(b) The Secretary and Under Secretary are exempt from the prohibitions concerning active participation in political management and political campaigns. Also exempt are other officials of the Department, except the Inspector General and Deputy Inspector General, who are appointed by the President by and with the advice and consent of the Senate, and who determine policies to be pursued by the United States in the nationwide administration of Federal laws.
+
+(c) Intermittent employees are subject to the restrictions when in active duty status only and for the entire 24 hours of any day of actual employment.
+
+(d) Employees on leave, on leave without pay, or on furlough even though an employee's resignation has been accepted, are subject to the restrictions. Separated employees who have received a lump-sum payment for annual leave are not subject to the restriction during the period covered by the lump-sum payment or thereafter, provided they do not return to Federal employment during that period. Employees are not permitted to take a leave of absence to work with a political candidate, committee, or organization or to become a candidate for office with the understanding that they will resign their position if nominated or elected.
+
+(e) Employees are accountable for political activity by another person acting as their agent or under the employee's direction or control, if they are thus accomplishing indirectly what they may not lawfully do directly and openly.
+
+(f) Though officers in the Public Health Service Commissioned Corps are not subject to the restrictions in Subchapter III of Chapter 73 of Title 5, United States Code, the provisions of this subpart apply to them.

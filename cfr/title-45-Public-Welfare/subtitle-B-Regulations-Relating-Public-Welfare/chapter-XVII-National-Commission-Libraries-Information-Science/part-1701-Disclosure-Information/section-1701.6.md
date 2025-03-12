@@ -1,0 +1,5 @@
+##### § 1701.6 Form of denial. #####
+
+A reply denying a request shall be in writing, signed by the Associate Director, and shall include: (a) A specific reference to the exemption or exemptions under the Freedom of Information Act authorizing the withholding of the record, (b) brief explanation of how the exemption(s) applies to the record(s) withheld, (c) a statement that the denial may be appealed under § 1701.7 within thirty days by writing to the Executive Director, National Commission on Libraries and Information Science, Suite 601, 1717 K Street NW., Washington, DC 20036, and (d) that judicial review will thereafter be available in the district in which the requester resides or has his principal place of business, the district in which the agency records are situated, or in the District of Columbia.
+
+[40 FR 7653, Feb. 21, 1975]

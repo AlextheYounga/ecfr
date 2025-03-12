@@ -1,0 +1,3 @@
+##### § 301.6501(i)-1 Foreign tax carrybacks; taxable years beginning after December 31, 1957. #####
+
+With respect to taxable years beginning after December 31, 1957, a deficiency attributable to the application to the taxpayer of a carryback under section 904(d) (relating to carryback and carryover of excess foreign taxes), may be assessed at any time before the expiration of 1 year after the expiration of the period within which a deficiency may be assessed for the taxable year of the excess taxes described in section 904(d) which result in such carryback.

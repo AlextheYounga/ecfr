@@ -1,0 +1,11 @@
+##### § 501.743 Briefs filed with the Secretary's designee. #####
+
+(a) *Briefing schedule order.* If review of a determination is mandated by judicial order or whenever the Secretary's designee reviews a decision or ruling, the Secretary's designee shall, unless such review results in summary affirmance pursuant to § 501.742(b), issue a briefing schedule order directing the parties to file opening briefs and specifying particular issues, if any, as to which briefing should be limited or directed. Unless otherwise provided, opening briefs shall be filed not later than 40 days after the date of the briefing schedule order. Opposition briefs shall be filed not later than 30 days after the date opening briefs are due. Reply briefs shall be filed not later than 14 days after the date opposition briefs are due. No briefs in addition to those specified in the briefing schedule order may be filed without permission of the Secretary's designee. The briefing schedule order shall be issued not later than 21 days after the later of:
+
+(1) The last day permitted for filing a brief in opposition to a petition for review pursuant to § 501.741(e); or
+
+(2) Receipt by the Secretary's designee of the mandate of a court with respect to a judicial remand.
+
+(b) *Contents of briefs.* Briefs shall be confined to the particular matters at issue. Each exception to the findings or conclusions being reviewed shall be stated succinctly. Exceptions shall be supported by citation to the relevant portions of the record, including references to the specific pages relied upon, and by concise argument including citation of such statutes, decisions and other authorities as may be relevant. If the exception relates to the admission or exclusion of evidence, the substance of the evidence admitted or excluded shall be set forth in the brief, in an appendix thereto, or by citation to the record. If the exception relates to interlocutory review, there is no requirement to reference pages of the transcript. Reply briefs shall be confined to matters in opposition briefs of other parties.
+
+(c) *Length limitation.* Opening and opposition briefs shall not exceed 30 pages and reply briefs shall not exceed 20 pages, exclusive of pages containing the table of contents, table of authorities, and any addendum, except with permission of the Secretary's designee.

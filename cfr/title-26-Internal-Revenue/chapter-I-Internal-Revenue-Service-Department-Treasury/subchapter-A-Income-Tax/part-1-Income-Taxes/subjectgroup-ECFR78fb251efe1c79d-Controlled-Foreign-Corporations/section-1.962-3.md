@@ -1,0 +1,76 @@
+##### § 1.962-3 Treatment of actual distributions. #####
+
+(a) *In general.* Section 962(d) provides that the earnings and profits of a foreign corporation attributable to amounts which are, or have been, included in the gross income of an individual United States shareholder under section 951(a) by reason of such shareholder's ownership (within the meaning of section 958(a)) of stock in such corporation and with respect to which amounts an election under § 1.962-2 applies or applied shall, when such earnings and profits are distributed to such shareholder with respect to such stock, notwithstanding the provisions of section 959(a)(1), be included in his gross income to the extent that such earnings and profits exceed the amount of income tax paid by such shareholder under this chapter on the amounts to which such election applies or applied. Thus, when such shareholder receives an actual distribution of section 962 earnings and profits (as defined in paragraph (b)(1) of this section) from a foreign corporation, only the excludable section 962 earnings and profits (as defined in paragraph (b)(1)(i) of this section) may be excluded from his gross income.
+
+(b) *Rules of application.* For purposes of this section—
+
+(1) *Section 962 earnings and profits defined.* With respect to an individual United States shareholder, the term “section 962 earnings and profits” means the earnings and profits of a foreign corporation referred to in paragraph (a) of this section. Such earnings and profits include—
+
+(i) *Excludable section 962 earnings and profits.* Excludable section 962 earnings and profits which are the amount of the section 962 earnings and profits equal to the amount of income tax paid under this chapter by such shareholder on the amounts included in his gross income under section 951(a); and
+
+(ii) *Taxable section 962 earnings and profits.* Taxable section 962 earnings and profits which are the excess of section 962 earnings and profits over the amount described in subdivision (i) of this subparagraph.
+
+(2) *Determinations made separately for each taxable year.* If section 962 earnings and profits attributable to more than one taxable year are distributed by a foreign corporation the determinations under this section shall be made separately with respect to each such taxable year.
+
+(3) *Source of distributions*—(i) *In general.* Except as otherwise provided in this subparagraph, the provisions of paragraphs (a) through (d) of § 1.959-3 shall apply in determining the source of distributions of earnings and profits by a foreign corporation.
+
+(ii) *Treatment of section 962 earnings and profits under § 1.959-3.* For purposes of a section 959(c) amount and year classification under paragraph (b) of § 1.959-3, a distribution of earnings and profits by a foreign corporation shall be first allocated to earnings and profits other than section 962 earnings and profits (as defined in subparagraph (1) of this paragraph) and then to section 962 earnings and profits. Thus distributions shall be considered first attributable to amounts described in paragraph (b)(1) of § 1.959-3 which are not section 962 earnings and profits and then to amounts described in such paragraph (b)(1) which are section 962 earnings and profits (first for the current taxable year and then for prior taxable years beginning with the most recent prior taxable year), secondly to amounts described in paragraph (b)(2) of § 1.959-3 which are not section 962 earnings and profits and then to amounts described in such paragraph (b)(2) which are section 962 earnings and profits (first for the current taxable year and then for prior taxable years beginning with the most recent prior taxable year), and finally to the amounts described in paragraph (b)(3) of § 1.959-3 (first for the current taxable year and then for prior taxable years beginning with the most recent prior taxable year).
+
+(iii) *Allocation to excludable section 962 earnings and profits.* A distribution of section 962 earnings and profits by a foreign corporation for any taxable year shall be considered first attributable to the excludable section 962 earnings and profits (as defined in subparagraph (1)(i) of this paragraph) and then to taxable section 962 earnings and profits.
+
+(iv) *Allocation of deficits in earnings and profits.* A United States shareholder's pro rata share (determined in accordance with the principles of paragraph (e) of § 1.951-1) of a foreign corporation's deficit in earnings and profits (determined under § 1.964-1) for any taxable year shall be applied in accordance with the provisions of paragraph (c) of § 1.959-3 except that such deficit shall also be applied to taxable section 962 earnings and profits (as defined in subparagraph (1)(ii) of this paragraph).
+
+(4) *Distribution in exchange for stock.* The provisions of this section shall not apply to a distribution of section 962 earnings and profits which is treated as in part or full payment in exchange for stock under subchapter C of chapter 1 of the Internal Revenue Code. The application of this subparagraph may be illustrated by the following example:
+
+Example.Individual United States shareholder A owns 60 percent of the only class of stock in foreign corporation M, the basis of which is $10,000. Both A and M Corporation use the calendar year as a taxable year. In each of the taxable years 1964, 1965, and 1966, M Corporation has $1,000 of earnings and profits and $1,000 of subpart F income. With respect to each such amount, A includes $600 in gross income under section 951(a), makes the election under section 962, and pays a United States tax of $132 (22 percent of $600). Accordingly, A increases the basis of his stock in M corporation under section 961(a) by $132 in each of the years 1964, 1965, and 1966, and thus on December 31, 1966, the adjusted basis for A's stock in M Corporation is $10,396. In 1967, M Corporation is completely liquidated (in a transaction described in section 331) and A receives $13,800, consisting of $1,800 of earnings and profits attributable to the amounts which A included in gross income under section 951(a) in 1964, 1965, and 1966, and $12,000 attributable to the other assets of M Corporation. No amount of the $3,404 gain realized by A on such distribution ($13,800 minus $10,396) may be excluded from gross income under section 959(a)(1). However, section 962(d) will not prevent any part of such $3,404 from being treated as a capital gain under section 331.
+
+(5) *Illustration.* The application of this paragraph may be illustrated by the following example:
+
+Example.(a) M, a controlled foreign corporation is organized on January 1, 1963; A and B, individual United States shareholders, own 50 percent and 25 percent, respectively, of the only class of stock in M Corporation. Corporation M, A, and B use the calendar year as a taxable year, and M Corporation is a controlled foreign corporation throughout the period here involved. For the taxable years 1963, 1964, 1965, and 1966, A and B must include amounts in gross income under section 951(a) with respect to M Corporation. For the years 1963, 1965, and 1966, A makes the election under section 962. On January 1, 1967, B sells his 25-percent interest in M Corporation to A; A satisfies the requirements of paragraph (d) of § 1.959-1 so as to qualify as B's successor in interest. As of December 31, 1967, M Corporation's accumulated earnings and profits of $675 (before taking into account distributions made in 1967) applicable to A's interest (including his interest as B's successor in interest) in such corporation are classified under § 1.959-3 and this section for purposes of section 962(d) as follows:
+
+|                Year                |             Section 959(c)(1)             |            Section 959(c)(2)            |         Section 959 (c)(3)         |                                           |                                        |    |   |
+|------------------------------------|-------------------------------------------|-----------------------------------------|------------------------------------|-------------------------------------------|----------------------------------------|----|---|
+|Non-section 962 earnings and profits|Excludable section 962 earnings and profits|Taxable section 962, earnings and profits|Non-section 962 earnings and profits|Excludable section 962 earnings and profits|Taxable section 962 earnings and profits|    |   |
+|                1963                |                    $25                    |                   $11                   |                $39                 |                                           |                                        |    |   |
+|                1964                |                    75                     |                                         |                                    |                    $60                    |                                        |    |$15|
+|                1965                |                                           |                                         |                                    |                    75                     |                  $33                   |$117|   |
+|                1966                |                                           |                                         |                                    |                    50                     |                   22                   | 78 |   |
+|                1967                |                                           |                                         |                                    |                                           |                                        |    |75 |
+
+(b) During 1967, M Corporation makes three separate distributions to A of $200, $208, and $267. The source of such distributions under § 1.959-3 and this section is as follows:
+
+|Distribution|                Amount                 |                      Year                      |                                     Classification of distributions under sections 959 and 962(d)                                     |
+|------------|---------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|   No. 1    |$75  <br/>25  <br/>11  <br/>39  <br/>50|1964  <br/>1963  <br/>1963  <br/>1963  <br/>1966|(c)(1) non-section 962.  <br/> Do.  <br/>(c)(1) excludable section 962.  <br/>(c)(1) taxable section 962.  <br/>(c)(2) non-section 962.|
+|   Total    |                  200                  |                                                |                                                                                                                                       |
+|   No. 2    |     22  <br/>78  <br/>75  <br/>33     |     1966  <br/>1966  <br/>1965  <br/>1965      |  (c)(2) excludable section 962  <br/>(c)(2) taxable section 962.  <br/>(c)(2) non-section 962.  <br/>(c)(2) excludable section 962.   |
+|   Total    |                  208                  |                                                |                                                                                                                                       |
+|   No. 3    |    117  <br/>60  <br/>75  <br/>15     |     1965  <br/>1964  <br/>1967  <br/>1964      |                          (c)(2) taxable section 962.  <br/>(c)(2) non-section 962.  <br/>(c)(3).  <br/> Do.                           |
+|   Total    |                  267                  |                                                |                                                                                                                                       |
+
+(c) A must include $324 in his gross income for 1967. The source of these amounts is as follows:
+
+|Distribution|       Amount        |           Year           |       Classification        |
+|------------|---------------------|--------------------------|-----------------------------|
+|   No. 1    |         $39         |           1963           | (c)(1) taxable section 962. |
+|   No. 2    |         78          |           1966           | (c)(2) taxable section 962. |
+|   No. 3    |117  <br/>75  <br/>15|1965  <br/>1967  <br/>1964| Do.  <br/>(c)(3).  <br/> Do.|
+|   Total    |         324         |                          |                             |
+
+(c) *Treatment of shareholder's successor in interest*—(1) *In general.* If a United States person (as defined in § 1.957-4) acquires from any person any portion of the interest in the foreign corporation of a United States shareholder referred to in this section, the rules of paragraphs (a) and (b) of this section shall apply to such acquiring person. However, no exclusion of section 962 earnings and profits under paragraph (a) of this section shall be allowed unless such acquiring person establishes to the satisfaction of the district director his right to such exclusion. The information to be furnished by the acquiring person to the district director with his return for the taxable year to support such exclusion shall include:
+
+(i) The name, address, and taxable year of the foreign corporation from which a distribution of section 962 earnings and profits is received and of all other corporations, partnerships, trusts, or estates in any applicable chain of ownership described in section 958(a);
+
+(ii) The name and address of the person from whom the stock interest was acquired;
+
+(iii) A description of the stock interest acquired and its relation, if any, to a chain of ownership described in section 958(a);
+
+(iv) The amount for which an exclusion under paragraph (a) of this section is claimed; and
+
+(v) Evidence showing that the section 962 earnings and profits for which an exclusion is claimed are attributable to amounts which were included in the gross income of a United States shareholder under section 951(a) subject to an election under § 1.962-2, that such amounts were not previously excluded from the gross income of a United States person, and the identity of the United States shareholder including such amount.
+
+The acquiring person shall also furnish to the district director such other information as may be required by the district director in support of the exclusion.
+
+(2) *Taxes previously deemed paid by an individual United States shareholder.* If a corporate successor in interest of an individual United States shareholder receives a distribution of section 962 earnings and profits, the income, war profits, and excess profits taxes paid to any foreign country or to any possession of the United States in connection with such earnings and profits shall not be taken into account for purposes of section 902, to the extent such taxes were deemed paid by such individual United States shareholder under paragraph (b)(2) of § 1.962-1 and section 960(a)(1) for any prior taxable year.
+
+[T.D. 6858, 30 FR 13696, Oct. 28, 1965]

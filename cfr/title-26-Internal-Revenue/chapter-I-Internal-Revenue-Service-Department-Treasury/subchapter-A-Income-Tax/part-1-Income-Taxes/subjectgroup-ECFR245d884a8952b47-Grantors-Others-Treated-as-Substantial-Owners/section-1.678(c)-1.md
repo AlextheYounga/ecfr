@@ -1,0 +1,7 @@
+##### § 1.678(c)-1 Trusts for support. #####
+
+(a) Section 678(a) does not apply to a power which enables the holder, in the capacity of trustee or cotrustee, to apply the income of the trust to the support or maintenance of a person whom the holder is obligated to support, except to the extent the income is so applied. See paragraphs (a), (b), and (c) of § 1.677(b)-1 for applicable principles where any amount is applied for the support or maintenance of a person whom the holder is obligated to support.
+
+(b) The general rule in section 678(a) (and not the exception in section 678(c)) is applicable in any case in which the holder of a power exercisable solely by himself is able, in any capacity other than that of trustee or cotrustee, to apply the income in discharge of his obligation of support or maintenance.
+
+(c) Section 678(c) is concerned with the taxability of income subject to a power described in section 678(a). It has no application to the taxability of income which is either required to be applied pursuant to the terms of the trust instrument or is applied pursuant to a power which is not described in section 678(a), the taxability of such income being governed by other provisions of the Code. See § 1.662(a)-4.

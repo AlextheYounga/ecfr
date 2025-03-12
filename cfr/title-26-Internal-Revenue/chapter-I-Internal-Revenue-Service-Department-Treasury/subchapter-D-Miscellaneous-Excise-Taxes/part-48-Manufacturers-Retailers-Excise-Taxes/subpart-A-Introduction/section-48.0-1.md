@@ -1,0 +1,5 @@
+##### § 48.0-1 Introduction. #####
+
+The regulations in this part 48 are designated “Manufacturers and Retailers Excise Tax Regulations.” The regulations relate to the excise taxes imposed by chapter 31 and 32 of the Internal Revenue Code. Chapter 31 (relating to retail taxes) imposes tax on certain luxury items, special fuels, fuel used in commercial transportation on inland waterways, and heavy trucks and trailers. Chapter 32 (relating to manufacturers taxes) imposes tax on gas guzzler automobiles, highway-type tires, taxable fuel, aviation fuel, coal, certain vaccines, sporting goods, and taxable medical devices. Although chapter 32 also imposes a tax on firearms, this tax is under the jurisdiction of the Bureau of Alcohol, Tobacco, and Firearms. See part 40 of this chapter for regulations relating to returns, payments, and deposits of taxes imposed by chapters 31 and 32 (other than the tax on firearms imposed by section 4181).
+
+[T.D. 8442, 57 FR 48186, Oct. 22, 1992, as amended by T.D. 8659, 61 FR 10453, Mar. 14, 1996; T.D. 9604, 77 FR 72934, Dec. 7, 2012]

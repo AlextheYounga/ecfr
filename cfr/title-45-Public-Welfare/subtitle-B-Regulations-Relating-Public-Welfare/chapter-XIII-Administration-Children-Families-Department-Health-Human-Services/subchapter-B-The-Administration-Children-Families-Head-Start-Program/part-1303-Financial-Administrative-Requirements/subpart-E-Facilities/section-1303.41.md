@@ -1,0 +1,3 @@
+##### § 1303.41 Approval of previously purchased facilities. #####
+
+If a grantee purchased a facility after December 31, 1986, and seeks to use grant funds to continue to pay purchase costs for the facility or to refinance current indebtedness and use grant funds to service the resulting debt, the grantee may apply for funds to meet those costs. The grantee must submit an application that conforms to requirements in this part and in the Act to the responsible HHS official. If the responsible HHS official approves the grantee's application, Head Start funds may be used to pay ongoing purchase costs, which include principal and interest on approved loans.

@@ -1,0 +1,3 @@
+##### § 355.3 Where can I cash my fiscal agency check? #####
+
+Presentment of a fiscal agency check must be made to the payor Reserve Bank. The payor Reserve Bank will only cash a fiscal agency check presented by the payee who can be identified to the satisfaction of the Reserve Bank. Otherwise, a fiscal agency check must be presented through banking channels. A refusal to accept or to pay fiscal agency check presented by a person other than the payee, or by a payee who is not reasonably identified, does not constitute dishonor.

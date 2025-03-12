@@ -1,0 +1,3 @@
+##### § 680.13 Purposes for “substitute” requirements. #####
+
+Appointment of a “substitute principal investigator” or “substitute negotiator” ensures against unthinking violation of the restrictions on dealings with NSF officials. It serves this purpose by flagging proposals or awards affected by the restrictions and by identifying someone else with whom NSF officials can properly discuss them or negotiate over them. Designation of a substitute principal investigator while an employee is at NSF has two additional functions: it identifies another person to be responsible for the work and equipment, and it reminds all concerned that during an employee's NSF service his or her attentions should focus on NSF duties.

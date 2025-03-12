@@ -1,0 +1,11 @@
+##### § 1.243-2 Special rules for certain distributions. #####
+
+(a) *Dividends paid by mutual savings banks, etc.* In determining the deduction provided in section 243(a), any amount allowed as a deduction under section 591 (relating to deduction for dividends paid by mutual savings banks, cooperative banks, and domestic building and loan associations) shall not be considered as a dividend.
+
+(b) *Dividends received from regulated investment companies.* In determining the deduction provided in section 243(a), dividends received from a regulated investment company shall be subject to the limitations provided in section 854.
+
+(c) *Dividends received from real estate investment trusts.* See section 857(c) and paragraph (d) of § 1.857-6 for special rules which deny a deduction under section 243 in the case of dividends received from a real estate investment trust with respect to a taxable year for which such trust is taxable under Part II, Subchapter M, Chapter 1 of the Code.
+
+(d) *Dividends received on preferred stock of a public utility.* The deduction allowed by section 243(a) shall be determined without regard to any dividends described in section 244 (relating to dividends on the preferred stock of a public utility). That is, such deduction shall be determined without regard to any dividends received on the preferred stock of a public utility which is subject to taxation under Chapter 1 of the Code and with respect to which a deduction is allowed by section 247 (relating to dividends paid on certain preferred stock of public utilities). For a deduction with respect to such dividends received on the preferred stock of a public utility, see section 244. If a deduction for dividends paid is not allowable to the distributing corporation under section 247 with respect to the dividends on its preferred stock, such dividends received from a domestic public utility corporation subject to taxation under Chapter 1 of the Code are includible in determining the deduction allowed by section 243(a).
+
+[T.D. 6598, 27 FR 4092, Apr. 28, 1962, as amended by T.D. 6992, 34 FR 817, Jan. 18, 1969; T.D. 7767, 46 FR 11264, Feb. 6, 1981]

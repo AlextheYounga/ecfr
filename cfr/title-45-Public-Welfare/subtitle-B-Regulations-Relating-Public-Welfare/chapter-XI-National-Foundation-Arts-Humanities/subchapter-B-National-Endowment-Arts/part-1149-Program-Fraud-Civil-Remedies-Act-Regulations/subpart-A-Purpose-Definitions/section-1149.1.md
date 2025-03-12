@@ -1,0 +1,3 @@
+##### § 1149.1 Purpose. #####
+
+This part implements the Program Fraud Civil Remedies Act of 1986, 31 U.S.C. 3801-3812 (PFCRA). The PFCRA provides the NEA, and other Federal agencies, with an administrative remedy to impose civil penalties and assessments against you if you make or cause to be made false, fictitious, or fraudulent claims or written statements to the NEA. The PFCRA also provides due process protections to you if you are subject to administrative proceedings under this part.

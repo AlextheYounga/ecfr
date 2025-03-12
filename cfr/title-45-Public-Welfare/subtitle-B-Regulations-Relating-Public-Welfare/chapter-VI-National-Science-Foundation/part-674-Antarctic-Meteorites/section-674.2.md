@@ -1,0 +1,3 @@
+##### § 674.2 Scope and applicability. #####
+
+This part applies to any person who collects meteorites in Antarctica. The requirements of § 674.5 apply to any person organizing an expedition to or within Antarctica for which the United States is required to give advance notice under Paragraph (5) of Article VII of the Antarctic Treaty where one of the purposes of the expedition is to collect meteorites in Antarctica. The requirements in this part only apply to the collection of meteorites in Antarctica after April 30, 2003.

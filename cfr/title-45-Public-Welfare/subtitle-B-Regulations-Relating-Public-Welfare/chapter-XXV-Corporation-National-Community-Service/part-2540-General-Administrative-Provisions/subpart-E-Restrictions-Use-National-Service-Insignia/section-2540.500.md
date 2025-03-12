@@ -1,0 +1,3 @@
+##### § 2540.500 What definition applies to this subpart? #####
+
+*National Service Insignia.* For this subpart, *national service insignia* means the former and current seal, logos, names, or symbols of the Corporation's programs, products, or services, including those for AmeriCorps, VISTA, Learn and Serve America, Senior Corps, Foster Grandparents, the Senior Companion Program, the Retired and Senior Volunteer Program, the National Civilian Community Corps, and any other program or project that the Corporation administers.

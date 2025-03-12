@@ -1,0 +1,5 @@
+##### § 31.3402(f)(6)-1 Withholding exemptions for nonresident alien individuals. #####
+
+A nonresident alien individual (other than, in regard to wages paid after February 28, 1979, a nonresident alien individual treated as a resident under section 6013(g) or (h)) subject to withholding under section 3402 is on any 1 day entitled under section 3402(f)(1) and § 31.3402(f)(1)-1 to the number of withholding exemptions corresponding to the number of personal exemptions to which he is entitled on such day by reason of the application of section 873(b)(3) or section 876, whichever applies. Thus, a nonresident alien individual who is not a resident of Canada or Mexico and who is not a resident of Puerto Rico during the entire taxable year, is allowed under section 3402(f)(1) only one withholding exemption.
+
+[T.D. 6908, 31 FR 16776, Dec. 31, 1966, as amended by T.D. 7670, 45 FR 6932, Jan. 31, 1980]

@@ -1,0 +1,5 @@
+##### § 1.1334-1 Restoration of value of investments. #####
+
+If any interest of the taxpayer in or with respect to property was determined to be worthless and was treated as a war loss under section 127(a)(3) of the Internal Revenue Code of 1939 (see 26 CFR (1939) 29.127(a)-4) (Regulations 111), or if the taxpayer retained an interest in a corporation with respect to which he sustained a war loss under section 127(e) of the Internal Revenue Code of 1939, and if the interest in the hands of the taxpayer is restored in value, in whole or in part, by reason of a recovery with respect to the underlying assets treated as war loss property, then such restoration in value is a recovery by the taxpayer for the purposes of section 1331. In the application of section 1333, such restoration shall be treated as a recovery of the same interest considered as destroyed or seized. War loss property is considered as not being in existence from the date of the loss to the date of its recovery.
+
+[T.D. 6500, 25 FR 12046, Nov. 26, 1960]

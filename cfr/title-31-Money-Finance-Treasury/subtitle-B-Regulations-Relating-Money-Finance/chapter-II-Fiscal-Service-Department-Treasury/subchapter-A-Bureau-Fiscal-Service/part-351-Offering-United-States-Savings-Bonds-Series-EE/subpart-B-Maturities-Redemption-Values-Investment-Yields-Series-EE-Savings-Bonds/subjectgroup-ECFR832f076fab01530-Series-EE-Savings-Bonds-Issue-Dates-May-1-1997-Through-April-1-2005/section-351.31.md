@@ -1,0 +1,5 @@
+##### § 351.31 What is the interest penalty for Series EE bonds with issue dates of May 1, 1997, through April 1, 2005, that are redeemed less than 5 years after the issue date? #####
+
+If you redeem a Series EE savings bond with an issue date of May 1, 1997, through April 1, 2005, less than five years following the issue date, we reduce the overall earning period from the issue date by three months. For example, if you redeem a bond issued January 1, 1998, 9 months later on October 1, 1998, we will determine the redemption value by applying the redemption value calculation formula described in § 351.32 and the savings bonds rate for that bond at 6 months after the issue date on July 1, 1998. The redemption value of a bond subject to the 3-month interest penalty shall not be reduced below the issue price. This penalty does not apply to bonds redeemed 5 years or more after the issue date.
+
+[68 FR 24796, May 8, 2003, as amended at 70 FR 17288, Apr. 5, 2005]

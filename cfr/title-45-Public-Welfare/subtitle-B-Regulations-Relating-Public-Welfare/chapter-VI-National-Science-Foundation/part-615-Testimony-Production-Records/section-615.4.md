@@ -1,0 +1,3 @@
+##### § 615.4 Legal proceedings before NSF or in which the United States is a party. #####
+
+In any legal proceeding before NSF or to which the United States is a party, the General Counsel shall arrange for a current employee to testify as a witness for the United States whenever the attorney representing the United States requests it. The employee may testify for the United States both as to facts within the employee's personal knowledge and as an expert or opinion witness. For any party other than the United States, the employee may testify only as to facts within his or her personal knowledge.

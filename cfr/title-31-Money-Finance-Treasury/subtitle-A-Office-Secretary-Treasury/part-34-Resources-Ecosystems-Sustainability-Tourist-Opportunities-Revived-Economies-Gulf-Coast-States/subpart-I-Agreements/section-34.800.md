@@ -1,0 +1,3 @@
+##### § 34.800 General. #####
+
+This subpart describes procedures applicable to grant agreements used by Treasury, the Council (including Federal agencies carrying out responsibilities for the Council), NOAA, Gulf Coast States, coastal political subdivisions, and coastal zone parishes in making awards under subparts D, E, F, G, and H of this part. It also describes Treasury's authority to inspect records and the Treasury Inspector General's authority under the Act.

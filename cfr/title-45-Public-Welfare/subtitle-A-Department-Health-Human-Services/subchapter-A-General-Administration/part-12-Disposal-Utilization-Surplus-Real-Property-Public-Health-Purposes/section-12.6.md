@@ -1,0 +1,3 @@
+##### § 12.6 Notice of available property. #####
+
+Reasonable publicity will be given to the availability of surplus real property which is suitable for assignment to the Department for transfer for public health uses. The Department will establish procedures reasonably calculated to afford all eligible users having a legitimate interest in acquiring the property for such uses an opportunity to make an application therefor. However, publicity need not be given to the availability of surplus real property which is occupied and being used for eligible public health purposes at the time the property is declared surplus, the occupant expresses interest in the property, and the Department determines that it has a continuing need therefor.

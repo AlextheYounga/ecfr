@@ -1,0 +1,7 @@
+##### § 509.2 Form, content and filing of claims. #####
+
+(a) Unless otherwise specified by law, or by regulations published in the Federal Register, claims must be filed on official forms, which will be provided by the Commission upon request in writing addressed to the Commission at its office at 600 E Street, NW, Suite 6002, Washington, DC 20579. Each form must include all of the information called for in it and must be completed and signed in accordance with the instructions accompanying the form.
+
+(b) Notice to the Foreign Claims Settlement Commission, the Department of State, or any other governmental office or agency of an intention to file a claim against a foreign government, prior to the enactment of the statute authorizing a claims program, prior to a referral of claims to the Commission by the Secretary for pre-adjudication, or prior to the effective date of a lump-sum claims settlement agreement, will *not* be considered as a timely filing of a claim under the statute, referral, or agreement.
+
+(c) Any initial written indication of an intention to file a claim received within 30 days prior to the expiration of the filing period thereof will be considered as a timely filing of a claim if formalized within 30 days after the expiration of the filing period.

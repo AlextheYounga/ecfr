@@ -1,0 +1,3 @@
+##### § 51.3 Who is eligible to apply? #####
+
+Sponsors which had alien physicians in their exchange visitor programs on January 10, 1978, are eligible to apply. For purposes of this regulation, the term “program” relates to a graduate medical education program having an exchange visitor program for physicians participating in graduate medical education or training. An “exchange visitor program” is a program of a sponsor, designed to promote interchange of persons, knowledge and skills, and the interchange of developments in the field of education, the arts and sciences, and is concerned with one or more categories of participants to promote mutual understanding between the people of the United States and the people of other countries.

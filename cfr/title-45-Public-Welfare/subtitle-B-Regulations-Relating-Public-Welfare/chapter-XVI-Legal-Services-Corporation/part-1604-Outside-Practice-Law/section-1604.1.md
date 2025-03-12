@@ -1,0 +1,3 @@
+##### § 1604.1 Purpose. #####
+
+This part is intended to provide guidance to recipients in adopting written policies relating to the outside practice of law by recipients' full-time attorneys. Under the standards set forth in this part, recipients are authorized, but not required, to permit attorneys, to the extent that such activities do not hinder fulfillment of their overriding responsibility to serve those eligible for assistance under the Act, to engage in pro bono legal assistance and comply with the reasonable demands made upon them as members of the Bar and as officers of the Court.

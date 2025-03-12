@@ -1,0 +1,3 @@
+##### § 2523.10 Are Federal agencies eligible to apply for AmeriCorps program funds? #####
+
+Yes. Federal agencies may apply for and receive AmeriCorps funds under parts 2521 and 2522 of this chapter, and they are eligible to receive up to one-third of the funds available for competitive distribution under § 2521.30(b)(3) of this chapter. The Corporation may enter into a grant, contract or cooperative agreement with another Federal agency to support an AmeriCorps program carried out by the agency. The Corporation may transfer funds available to it to other Federal agencies.

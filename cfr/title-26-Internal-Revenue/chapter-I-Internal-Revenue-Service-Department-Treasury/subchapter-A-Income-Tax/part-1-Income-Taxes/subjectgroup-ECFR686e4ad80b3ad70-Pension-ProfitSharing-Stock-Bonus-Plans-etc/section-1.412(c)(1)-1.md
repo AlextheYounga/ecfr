@@ -1,0 +1,7 @@
+##### § 1.412(c)(1)-1 Determinations to be made under funding method—terms defined. #####
+
+(a) *Actuarial cost method and funding method.* Section 3 (31) of the Employee Retirement Income Security Act of 1974 (“ERISA”) provides certain acceptable (and unacceptable) actuarial cost methods which may (or may not) be used by employee plans. The term “funding method” when used in section 412 has the same meaning as the term “actuarial cost method” in section 3 (31) of ERISA. For shortfall method for certain collectively bargained plans, see § 1.412(c)(1)-2; for principles applicable to funding methods in general, see regulations under section 412(c)(3).
+
+(b) *Computations included in funding method.* The funding method of a plan includes not only the overall funding method used by the plan but also each specific method of computation used in applying the overall method. However, the choice of which actuarial assumptions are appropriate to the overall method or to the specific method of computation is not a part of the funding method. For example, the decision to use or not to use a mortality factor in the funding method of a plan is not a part of such funding method. Similarly, the specific mortality rate determined to be applicable to a particular plan year is not part of the funding method. See section 412(c)(5) for the requirement of approval to change the funding method used by a plan.
+
+[T.D. 7733, 45 FR 75202, Nov. 14, 1980]

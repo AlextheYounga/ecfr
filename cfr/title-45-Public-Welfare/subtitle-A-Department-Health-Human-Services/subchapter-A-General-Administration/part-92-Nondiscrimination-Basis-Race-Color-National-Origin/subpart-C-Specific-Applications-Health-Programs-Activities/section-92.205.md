@@ -1,0 +1,3 @@
+##### § 92.205 Requirement to make reasonable modifications. #####
+
+A covered entity shall make reasonable modifications to policies, practices, or procedures when such modifications are necessary to avoid discrimination on the basis of disability, unless the covered entity can demonstrate that making the modifications would fundamentally alter the nature of the health program or activity. For the purposes of this section, the term “reasonable modifications” shall be interpreted in a manner consistent with the term as set forth in the ADA Title II regulation at 28 CFR 35.130(b)(7).

@@ -1,0 +1,3 @@
+##### § 73b.2 Rules and regulations. #####
+
+This part will be applied in conformance with the standards established by the Office of Government Ethics in its regulations, 5 CFR part 737, and interpretations thereof. Former officers and employees of the Department may request advice and assistance in compliance with those regulations from the Assistant General Counsel, Business and Administrative Law Division, Department of Health and Human Services.

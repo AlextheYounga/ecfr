@@ -1,0 +1,3 @@
+##### § 5.41 How does a submitter identify records containing confidential commercial information? #####
+
+A person who submits records to the government may designate part or all of the information in such records that they may consider to be exempt from disclosure under Exemption 4 of the FOIA. The person may make this designation either at the time the records are submitted to the government or within a reasonable time thereafter. The designation must be in writing. Any such designation will expire 10 years after the records were submitted to the government.

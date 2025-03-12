@@ -1,0 +1,7 @@
+##### § 1.547-3 Claim for credit or refund. #####
+
+(a) If a deficiency in personal holding company tax is asserted for any taxable year, and the corporation has paid any portion of such asserted deficiency, it is entitled to a credit or refund of such payment to the extent that such payment constitutes an overpayment as the result of a deduction for a deficiency dividend as provided in section 547 and §§ 1.547-1 through 1.547-7. It should be noted that a *determination* under section 547(c) and paragraph (b)(1) of § 1.547-2, of taxpayer's liability for personal holding company tax may take place subsequent to the time the deficiency was paid. To secure credit or refund of such overpayment, the taxpayer must file a claim on Form 843 in addition to the claim for the deduction for deficiency dividends required under section 547(e) and paragraph (b)(2) of § 1.547-2.
+
+(b) No interest shall be allowed on such credit or refund.
+
+(c) Such credit or refund will be allowed as if, on the date of the determination under section 547(c) and paragraph (b)(1) of § 1.547-2, two years remained before the expiration of the period of limitation on the filing of claim for refund for the taxable year to which the overpayment relates.

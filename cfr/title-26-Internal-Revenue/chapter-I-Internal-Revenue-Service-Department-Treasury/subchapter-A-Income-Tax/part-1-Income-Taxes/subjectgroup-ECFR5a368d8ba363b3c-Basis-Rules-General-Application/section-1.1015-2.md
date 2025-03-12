@@ -1,0 +1,7 @@
+##### § 1.1015-2 Transfer of property in trust after December 31, 1920. #####
+
+(a) *General rule.* (1) In the case of property acquired after December 31, 1920, by transfer in trust (other than by a transfer in trust by a gift, bequest, or devise) the basis of property so acquired is the same as it would be in the hands of the grantor increased in the amount of gain or decreased in the amount of loss recognized to the grantor upon such transfer under the law applicable to the year in which the transfer was made. If the taxpayer acquired the property by a transfer in trust, this basis applies whether the property be in the hands of the trustee, or the beneficiary, and whether acquired prior to the termination of the trust and distribution of the property, or thereafter.
+
+(2) The principles stated in paragraph (b) of § 1.1015-1 concerning the uniform basis are applicable in determining the basis of property where more than one person acquires an interest in property by transfer in trust after December 31, 1920.
+
+(b) *Reinvestment by fiduciary.* If the property is an investment made by the fiduciary (as, for example, in the case of a sale by the fiduciary of property transferred by the grantor, and the reinvestment of the proceeds), the cost or other basis to the fiduciary is taken in lieu of the basis specified in paragraph (a) of this section.

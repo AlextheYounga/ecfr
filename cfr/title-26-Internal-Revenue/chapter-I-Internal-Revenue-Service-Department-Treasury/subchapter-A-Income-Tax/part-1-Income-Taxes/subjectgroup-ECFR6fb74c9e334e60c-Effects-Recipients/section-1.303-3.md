@@ -1,0 +1,5 @@
+##### § 1.303-3 Application of other sections. #####
+
+(a) The sole effect of section 303 is to exempt from tax as a dividend a distribution to which such section is applicable when made in redemption of stock includible in a decedent's gross estate. Such section does not, however, in any other manner affect the principles set forth in sections 302 and 306. Thus, if stock of a corporation is owned equally by A, B, and the C Estate, and the corporation redeems one-half of the stock of each shareholder, the determination of whether the distributions to A and B are essentially equivalent to dividends shall be made without regard to the effect which section 303 may have upon the taxability of the distribution to the C Estate.
+
+(b) See section 304 relative to redemption of stock through the use of related corporations.

@@ -1,0 +1,3 @@
+##### § 1801.41 Scholarship stipends. #####
+
+The Scholarship stipend may be used only for eligible expenses in the following categories: tuition, fees, books, and room and board. Payments from the Foundation may be received to supplement, but not to duplicate, benefits received by the Scholar from the educational institution or from other foundations or organizations. The designated benefits received from all sources combined may not exceed the costs of tuition, fees, books, and room and board as determined by the Foundation. The Foundation's Bulletin of Information, current at the time of the Scholar's selection, contains additional information about the terms and conditions of scholarship support.

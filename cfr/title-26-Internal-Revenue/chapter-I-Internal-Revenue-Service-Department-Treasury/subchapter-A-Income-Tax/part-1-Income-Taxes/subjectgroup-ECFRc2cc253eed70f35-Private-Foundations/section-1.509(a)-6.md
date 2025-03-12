@@ -1,0 +1,5 @@
+##### § 1.509(a)-6 Classification under section 509(a). #####
+
+If an organization is described in section 509(a)(1) and also in another paragraph of section 509(a), it will be treated as described in section 509(a)(1). For purposes of this section, the parenthetical language *other than in clauses (vii) and (viii*) used in section 509(a)(1) shall be construed to mean *other than an organization which is described only in clause (vii) or (viii*). For example, X is an organization which is described in section 170(b)(1)(A)(vi), but could also meet the description of section 170(b)(1)(A)(viii) as an organization described in section 509(a)(2). For purposes of the one-third support test in section 509(a)(2)(A), contributions from X to other organizations will be treated as support from an organization described in section 170(b)(1)(A)(vi) rather than from an organization described in section 170(b)(1)(A)(viii).
+
+[T.D. 7212, 37 FR 21923, Oct. 17, 1972]

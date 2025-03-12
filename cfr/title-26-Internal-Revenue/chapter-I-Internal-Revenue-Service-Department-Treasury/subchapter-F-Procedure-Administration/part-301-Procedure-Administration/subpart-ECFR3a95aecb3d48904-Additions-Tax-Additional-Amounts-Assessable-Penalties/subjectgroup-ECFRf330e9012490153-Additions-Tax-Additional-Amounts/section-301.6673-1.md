@@ -1,0 +1,3 @@
+##### § 301.6673-1 Damages assessable for instituting proceedings before the Tax Court merely for delay. #####
+
+Any damages awarded to the United States by the Tax Court under section 6673 against a taxpayer for instituting proceedings before the Tax Court merely for delay shall be assessed at the same time at the deficiency and shall be paid upon notice and demand from the district director or the director of the regional service center and shall be collected as a part of the tax.

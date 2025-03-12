@@ -1,0 +1,5 @@
+##### § 1604.6 Use of recipient resources. #####
+
+(a) For cases undertaken pursuant to § 1604.4(c)(1), a recipient's written policies may permit a full-time attorney to use *de minimis* amounts of the recipient's resources for permissible outside practice if necessary to carry out the attorney's professional responsibilities, as long as the recipient's resources, whether funded with Corporation or private funds, are not used for any activities for which the use of such funds is prohibited.
+
+(b) For cases undertaken pursuant to § 1604.4(c)(2) through (4), a recipient's written policies may permit a full-time attorney to use limited amounts of the recipient's resources for permissible outside practice if necessary to carry out the attorney's professional responsibilities, as long as the recipient's resources, whether funded with Corporation or private funds are not used for any activities for which the use of such funds is prohibited.

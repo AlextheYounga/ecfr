@@ -1,0 +1,3 @@
+##### § 508.7 Action by the Commission. #####
+
+After the conclusion of the hearing and a review of the résumé, the Commission may affirm, modify, or reverse its former action with respect to the claim, including a denial or reduction in the amount of the award theretofore approved. All findings of the Commission concerning the persons to whom compensation is payable, and the amounts thereof, are conclusive and not reviewable by any court.

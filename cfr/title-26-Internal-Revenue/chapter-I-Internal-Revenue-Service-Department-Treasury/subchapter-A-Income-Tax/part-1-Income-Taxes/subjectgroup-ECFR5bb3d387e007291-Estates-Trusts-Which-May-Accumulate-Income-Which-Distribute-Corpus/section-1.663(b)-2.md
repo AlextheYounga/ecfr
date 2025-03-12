@@ -1,0 +1,9 @@
+##### § 1.663(b)-2 Election. #####
+
+(a) *Manner and time of election; irrevocability*—(1) *When return is required to be filed.* If a trust return is required to be filed for the taxable year of the trust for which the election is made, the election shall be made in the appropriate place on such return. The election under this subparagraph shall be made not later than the time prescribed by law for filing such return (including extensions thereof). Such election shall become irrevocable after the last day prescribed for making it.
+
+(2) *When no return is required to be filed.* If no return is required to be filed for the taxable year of the trust for which the election is made, the election shall be made in a statement filed with the internal revenue office with which a return by such trust would be filed if such trust were required to file a return for such taxable year. See section 6091 and the regulations thereunder for place for filing returns. The election under this subparagraph shall be made not later than the time prescribed by law for filing a return if such trust were required to file a return for such taxable year. Such election shall become irrevocable after the last day prescribed for making it.
+
+(b) *Elections under prior law.* Elections made pursuant to section 663(b) prior to its amendment by section 331(b) of the Tax Reform Act of 1969 (83 Stat. 598), which, under prior law, were irrevocable for the taxable year for which the election was made and all subsequent years, are not effective for taxable years beginning after December 31, 1968. In the case of a trust for which an election was made under prior law, the fiduciary shall make the election for each taxable year beginning after December 31, 1968, for which the treatment provided by section 663(b) is desired.
+
+[T.D. 7204, 37 FR 17135, Aug. 25, 1972]

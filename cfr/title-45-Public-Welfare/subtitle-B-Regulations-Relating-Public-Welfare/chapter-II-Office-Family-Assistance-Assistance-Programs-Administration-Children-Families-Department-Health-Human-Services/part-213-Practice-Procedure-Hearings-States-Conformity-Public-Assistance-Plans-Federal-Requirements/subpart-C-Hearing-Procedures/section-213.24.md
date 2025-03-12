@@ -1,0 +1,3 @@
+##### § 213.24 Evidentiary purpose. #####
+
+The hearing is directed to receiving factual evidence and expert opinion testimony related to the issues in the proceeding. Argument will not be received in evidence; rather it should be presented in statements, memoranda, or briefs, as determined by the presiding officer. Brief opening statements, which shall be limited to statement of the party's position and what he intends to prove, may be made at hearings.

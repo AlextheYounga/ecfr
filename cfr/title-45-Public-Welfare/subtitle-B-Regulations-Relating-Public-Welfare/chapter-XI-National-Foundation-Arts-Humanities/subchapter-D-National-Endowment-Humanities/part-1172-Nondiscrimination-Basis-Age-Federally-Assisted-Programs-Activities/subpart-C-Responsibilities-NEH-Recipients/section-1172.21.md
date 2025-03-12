@@ -1,0 +1,3 @@
+##### § 1172.21 General responsibilities. #####
+
+A recipient has responsibility to ensure that its programs or activities are in compliance with the Act and the regulations in this part and to take steps to eliminate violations of the Act and the regulations in this part. A recipient also has responsibility to maintain records, provide information, and afford NEH access to its records to the extent NEH finds necessary to determine whether the recipient is in compliance with the Act and the regulations in this part.

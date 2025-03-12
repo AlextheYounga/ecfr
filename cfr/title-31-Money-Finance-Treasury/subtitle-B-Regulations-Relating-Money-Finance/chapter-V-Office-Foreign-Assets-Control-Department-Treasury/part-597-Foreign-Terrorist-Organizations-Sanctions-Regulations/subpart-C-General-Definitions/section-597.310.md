@@ -1,0 +1,3 @@
+##### § 597.310 Funds. #####
+
+The term *funds* includes coin or currency of the United States or any other country, traveler's checks, personal checks, bank checks, money orders, stocks, bonds, debentures, drafts, letters of credit, any other negotiable instrument, and any electronic representation of any of the foregoing. An electronic representation of any of the foregoing includes any form of digital or electronic cash, coin, or currency in use currently or placed in use in the future.

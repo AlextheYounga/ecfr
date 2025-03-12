@@ -1,0 +1,3 @@
+##### § 309.2 Description of Treasury bills (General). #####
+
+Treasury bills are bearer obligations of the United States promising to pay a specified amount on a specified date. They will be payable at maturity upon presentation to the Bureau of the Fiscal Service, Washington, DC 20226, or to any Federal Reserve Bank or branch. Treasury bills are issued only by Federal Reserve Banks and branches and the Bureau of the Fiscal Service pursuant to tenders accepted by the Secretary of the Treasury, and shall not be valid unless the issue date and the maturity date are entered thereon. Treasury bills bearing the same issue date and the same maturity date shall constitute a series.

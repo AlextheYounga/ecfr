@@ -1,0 +1,11 @@
+##### § 1.1221-3 Time and manner for electing capital asset treatment for certain self-created musical works. #####
+
+(a) *Description.* Section 1221(b)(3) allows an electing taxpayer to treat the sale or exchange of a musical composition or a copyright in a musical work created by the taxpayer's personal efforts (or having a basis determined by reference to the basis of such property in the hands of a taxpayer whose personal efforts created such property) as the sale or exchange of a capital asset. As a consequence, gain or loss from the sale or exchange is treated as capital gain or loss.
+
+(b) *Time and manner for making the election.* An election described in this section is made separately for each musical composition (or copyright in a musical work) sold or exchanged during the taxable year. An election must be made on or before the due date (including extensions) of the income tax return for the taxable year of the sale or exchange. The election is made on Schedule D, “Capital Gains and Losses,” of the appropriate income tax form (for example, Form 1040, “U.S. Individual Income Tax Return;” Form 1065, “U.S. Return of Partnership Income;” Form 1120, “U.S. Corporation Income Tax Return”) by treating the sale or exchange as the sale or exchange of a capital asset, in accordance with the form and its instructions.
+
+(c) *Revocability of election.* The election described in this section is revocable with the consent of the Commissioner. To seek consent to revoke the election, a taxpayer must submit a request for a letter ruling under the applicable administrative procedures. Alternatively, an automatic extension of 6 months from the due date of the taxpayer's income tax return (excluding extensions) is granted to revoke the election, provided the taxpayer timely filed the taxpayer's income tax return and, within this 6-month extension period, the taxpayer files an amended income tax return that treats the sale or exchange as the sale or exchange of property that is not a capital asset.
+
+(d) *Effective/applicability date.* This section applies to elections under section 1221(b)(3) in taxable years beginning after May 17, 2006.
+
+[T.D. 9514, 76 FR 6554, Feb. 7, 2011]

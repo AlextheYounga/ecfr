@@ -1,0 +1,3 @@
+##### § 1602.3 Policy. #####
+
+LSC will make records concerning its operations, activities, and business available to the public to the maximum extent reasonably possible. LSC will withhold records from the public only in accordance with the FOIA and this part. LSC will disclose records otherwise exempt from disclosure under the FOIA when LSC does not reasonably foresee that disclosure would harm an interest protected by an exemption and disclosure is not prohibited by law or protected under Exemption 3.

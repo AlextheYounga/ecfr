@@ -1,0 +1,7 @@
+##### § 1602.5 Public reading room. #####
+
+(a) LSC will maintain a public reading room at its offices at 3333 K St. NW., Washington, DC 20007. This room will be supervised and will be open to the public during LSC's regular business hours. Procedures for use of the public reading room are described in § 1602.6. LSC also maintains an electronic public reading room that may be accessed at *http://www.lsc.gov/about-lsc/foia/foia-electronic-public-reading-room.*
+
+(b) Subject to the limitation stated in paragraph (c) of this section, LSC will make available for public inspection in its electronic public reading room the records described in 5 U.S.C. 552(a)(2).
+
+(c) Records required by FOIA to be available in the public reading room may be exempt from mandatory disclosure pursuant to 5 U.S.C. 552(b). LSC will not make such records available in the public reading room. LSC may edit other records maintained in the reading room by redacting details about individuals to prevent clearly unwarranted invasions of personal privacy. In such cases, LSC will attach a full explanation of the redactions to the record. LSC will indicate the extent of the redactions unless doing so would harm an interest protected by the exemption under which the redactions are made. If technically feasible, LSC will indicate the extent of the redactions at the place in the record where the redactions were made.

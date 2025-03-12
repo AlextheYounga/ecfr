@@ -1,0 +1,23 @@
+##### § 1.1474-5 Refunds or credits. #####
+
+(a) *Refund and credit*—(1) *In general.* Except to the extent otherwise provided in this section, a refund or credit of tax which has actually been withheld at the source at the time of payment under chapter 4 shall be made to the beneficial owner of the payment to which the amount of withheld tax is attributable if the beneficial owner or payee meets the requirements of this paragraph (a) and any other requirements that may be required under chapter 65. To the extent that the amount withheld under chapter 4 is not actually withheld at source, but is later paid by the withholding agent to the IRS, the refund or credit under chapter 65 of the Code shall be made to the withholding agent to the extent the withholding agent provides documentation with respect to the beneficial owner or payee described in paragraphs (a)(2) and (3) of this section sufficient for the beneficial owner or payee to have obtained a refund of the tax and sufficient for the withholding agent to have applied a reduced rate or exemption from withholding under chapter 4. The preceding sentence shall not, however, apply to a nonparticipating FFI that is acting as a withholding agent with respect to one or more of its account holders. In such a case, only the account holders of the nonparticipating FFI will be entitled to a credit or refund of an amount withheld under chapter 4, to the extent otherwise allowable under this section. Additionally, there are collective refund procedures for a participating FFI or reporting Model 1 FFI to claim a refund or credit on behalf of certain direct account holders that are beneficial owners of the payment under § 1.1471-4(h) (in lieu of such account holders claiming refund or credit under this paragraph (a)(1)).
+
+(2) *Limitation to refund and credit for a nonparticipating FFI.* Notwithstanding paragraph (a)(1) of this section, a nonparticipating FFI (determined as of the time of payment) that is the beneficial owner of an item of income or other payment that is subject to withholding under chapter 4 shall not be entitled to any credit or refund pursuant to section 1474(b)(2) and this section unless it is entitled to a reduced rate of tax with respect to the income or other payment by reason of any treaty obligation of the United States. If the nonparticipating FFI is entitled to a reduced rate of tax with respect to an item of income or other payment by reason of any treaty obligation of the United States, the amount of any credit or refund with respect to such tax shall not exceed the amount of credit or refund attributable to such reduction in rate on the item of income or other payment, and no interest otherwise allowable under section 6611 shall be allowed or paid with respect to such credit or refund.
+
+(3) *Requirement to provide additional documentation for certain beneficial owners*—(i) *In general.* Except as provided in paragraph (a)(3)(ii) of this section, no refund or credit shall be allowed under paragraph (a)(1) of this section to the beneficial owner of the income or other payment to which the amount of such withheld tax was attributable if such beneficial owner is an NFFE, unless the NFFE attaches to its income tax return the information described in paragraph (a)(3)(iii) of this section.
+
+(ii) *Claim of reduced withholding under an income tax treaty.* Paragraph (a)(3)(i) of this section does not apply to the extent that the beneficial owner is entitled to a reduced rate of tax with respect to the income or other payment by reason of any treaty obligation of the United States.
+
+(iii) *Additional documentation to be furnished to the IRS for certain NFFEs.* The information described in this paragraph (a)(3)(iii) is—
+
+(A) A certification that the beneficial owner does not have any substantial U.S. owners;
+
+(B) The form described in § 1.1474-1(i)(2) relating to each substantial U.S. owner of such entity; or
+
+(C) Other appropriate documentation to establish withholding was not required under chapter 4.
+
+(b) *Tax repaid to payee.* For purposes of this section and § 1.6414-1, any amount of tax withheld under chapter 4, which, pursuant to § 1.1474-2(a)(1), is repaid by the withholding agent to the beneficial owner of the income or payment to which the withheld amount is attributable shall be considered as tax which, within the meaning of sections 1474 and 6414, was not actually withheld by the withholding agent.
+
+(c) *Effective/applicability date.* This section applies January 28, 2013.
+
+[T.D. 9610, 78 FR 5992, Jan. 28, 2013]

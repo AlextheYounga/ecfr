@@ -1,0 +1,5 @@
+##### § 1.501(c)(21)-2 Same—trust instrument. #####
+
+As trust does not meet the requirements of section 501(c)(21) if it is not established and maintained pursuant to a written instrument. The trust instrument must definitely and affirmatively prohibit a diversion or use of trust assets that is not permitted under section 501(c)(21)(B) or section 4953(c), whether by operation or natural termination of the trust, by power of revocation or amendment by the happening of a contingency by collateral arrangement, or by any other means. No particular form for the trust instrument is required. A trust may meet the requirements of section 501(c)921) although the trust instrument fails to contain provisions the effects of which are to prohibit acts that are subject to section 4951 (relating to taxes on self-dealing), section 4952 (relating to taxes on taxable expenditures) or the retention of contributions subject to section 4953 (relating to tax on excess contributions to black lung benefit trusts).
+
+[44 FR 52197, Sept. 7, 1979]

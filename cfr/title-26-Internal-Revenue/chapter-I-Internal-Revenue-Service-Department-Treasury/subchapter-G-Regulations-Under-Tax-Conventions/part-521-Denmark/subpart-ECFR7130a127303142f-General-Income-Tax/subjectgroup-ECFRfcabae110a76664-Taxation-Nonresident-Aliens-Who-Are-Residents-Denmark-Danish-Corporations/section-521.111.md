@@ -1,0 +1,3 @@
+##### § 521.111 Pensions and life annuities. #####
+
+Under the provisions of Article X(2) of the convention, private pensions and life annuities derived from sources within the United States by nonresident alien individuals who are residents of Denmark are exempt from Federal income tax for taxable years beginning on and after January 1, 1948. The term “life annuities” is defined in Article X(3). The term “private pensions” does not include pensions or retired pay paid by the United States or by any State or Territory of the United States; it does include periodic payments made in consideration for services rendered or by way of compensation for injuries received.

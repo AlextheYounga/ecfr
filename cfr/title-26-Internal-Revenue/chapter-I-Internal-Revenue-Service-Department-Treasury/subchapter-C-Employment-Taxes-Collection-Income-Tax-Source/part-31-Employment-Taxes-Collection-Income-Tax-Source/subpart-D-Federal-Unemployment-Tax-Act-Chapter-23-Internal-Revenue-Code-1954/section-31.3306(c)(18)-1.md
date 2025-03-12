@@ -1,0 +1,19 @@
+##### § 31.3306(c)(18)-1 Services of certain nonresident aliens. #####
+
+(a) (1) Services performed after 1961 by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a) (15) of the Immigration and Nationality Act (8 U.S.C. 1101), as amended, are excepted from employment if the services are performed to carry out a purpose for which the individual was admitted. For purposes of this section an alien individual who is temporarily present in the United States as a nonimmigrant under such subparagraph (F) or (J) is deemed to be a nonresident alien individual. The preceding sentence does not apply to the extent it is inconsistent with section 7701(b) and the regulations under that section. A nonresident alien individual who is temporarily present in the United States as a nonimmigrant under such subparagraph (J) includes an alien individual admitted to the United States as an “exchange visitor” under section 201 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1446).
+
+(2) If services are performed by a nonresident alien individual's alien spouse or minor child, who is temporarily present in the United States as a nonimmigrant under subparagraph (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended, the services are not deemed for purposes of this section to be performed to carry out a purpose for which such individual was admitted. The services of such spouse or child are excepted from employment under this section only if the spouse or child was admitted for a purpose specified in such subparagraph (F) or (J) and if the services are performed to carry out such purpose.
+
+(b) Section 101 of the Immigration and Nationality Act (8 U.S.C. 1101), as amended, provides, in part, as follows:
+
+Sec. 101.*Definitions.* [Immigration and Nationality Act (66 Stat. 166)]
+
+(a) As used in this chapter—\* \* \*
+
+(15) The term *immigrant* means every alien except an alien who is within one of the following classes of nonimmigrant aliens—
+
+(F) (i) An alien having a residence in a foreign country which he has no intention of abandoning, who is a bona fide student qualified to pursue a full course of study and who seeks to enter the United States temporarily and solely for the purpose of pursuing such a course of study at an established institution of learning or other recognized place of study in the United States, particularly designated by him and approved by the Attorney General after consultation with the Office of Education of the United States, which institution or place of study shall have agreed to report to the Attorney General the termination of attendance of each nonimmigrant student, and if any such institution of learning or place of study fails to make reports promptly the approval shall be withdrawn, and (ii) the alien spouse and minor children of any such alien if accompanying him or following to join him;
+
+(J) An alien having a residence in a foreign country which he has no intention of abandoning who is a bona fide student, scholar, trainee, teacher, professor, research assistant, specialist, or leader in a field of specialized knowledge or skill, or other person of similar description, who is coming temporarily to the United States as a participant in a program designated by the Secretary of State, for the purpose of teaching, instructing or lecturing, studying, observing, conducting research, consulting, demonstrating special skills, or receiving training, and the alien spouse and minor children of any such alien if accompanying him or following to join him.
+
+(Sec. 101, Immigration and Nationality Act, as amended by sec. 101, Act of June 27, 1952, 66 Stat. 166; sec. 109, Act of Sept. 21, 1961, 75 Stat. 534)[T.D. 6658, 28 FR 6640, June 27, 1963, as amended by T.D. 8411, 57 FR 15241, Apr. 27, 1992]

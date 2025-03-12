@@ -1,0 +1,5 @@
+##### § 301.6501(o)-1 Work incentive program credit carrybacks, taxable years beginning after December 31, 1971. #####
+
+With respect to taxable years beginning after December 31, 1971, a deficiency attributable to the application to the taxpayer of a work incentive program credit carryback (including deficiencies which may be assessed pursuant to the provisions of section 6213(b)(2)) may be assessed at any time before the expiration of the period within which a deficiency for the taxable year of the unused work incentive program credit which results in such carryback may be assessed, or, with respect to any portion of a work incentive program credit carryback from a taxable year attributable to a net operating loss or capital loss carryback from a subsequent taxable year, at any time before the expiration of the period within which a deficiency for such subsequent taxable year may be assessed.
+
+[T.D. 7301, 39 FR 975, Jan. 4, 1974]

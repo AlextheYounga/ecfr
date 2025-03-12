@@ -1,0 +1,55 @@
+##### § 1.408-4 Treatment of distributions from individual retirement arrangements. #####
+
+(a) *General rule*—(1) *Inclusion in income.* Except as otherwise provided in this section, any amount actually paid or distributed or deemed paid or distributed from an individual retirement account or individual retirement annuity shall be included in the gross income of the payee or distributee for the taxable year in which the payment or distribution is received.
+
+(2) *Zero basis.* Notwithstanding section 1015(d) or any other provision of the Code, the basis (or investment in the contract) of any person in such an account or annuity is zero. For purposes of this section, an assignment of an individual's rights under an individual retirement account or an individual retirement annuity shall, except as provided in § 1.408-4(g) (relating to transfer incident to divorce), be deemed a distribution to such individual from such account or annuity of the amount assigned.
+
+(b) *Rollover contribution*—(1) *To individual retirement arrangement.* Paragraph (a)(1) of this section shall not apply to any amount paid or distributed from an individual retirement account or individual retirement annuity to the individual for whose benefit the account was established or who is the owner of the annuity if the entire amount received (including the same amount of money and any other property) is paid into an individual retirement account, annuity (other than an endowment contract), or bond created for the benefit of such individual not later than the 60th day after the day on which he receives the payment or distribution.
+
+(2) *To qualified plan.* Paragraph (a)(1) of this section does not apply to any amount paid or distributed from an individual retirement account or individual retirement annuity to the individual for whose benefit the account was established or who is the owner of the annuity if—
+
+(i) No amount in the account or no part of the value of the annuity is attributable to any source other than a rollover contribution from an employees' trust described in section 401(a) which is exempt from tax under section 501(a) or a rollover contribution from an annuity plan described in section 403(a) and the earnings on such sums, and
+
+(ii) The entire amount received (including the same amount of money and any other property) represents the entire amount in the account and is paid into another such trust or plan (for the benefit of such individual) not later than the 60th day after the day on which the payment or distribution is received.
+
+This subparagraph does not apply if any portion of the rollover contribution described in paragraph (b)(2)(i) of this section is attributable to an employees' trust forming part of a plan or an annuity under which the individual was an employee within the meaning of section 401(c)(1) at the time contributions were made on his behalf under the plan.
+
+(3) *To section 403(b) contract.* [Reserved]
+
+(4) *Frequency limitation.* (i) For taxable years beginning on or before December 31, 1977, paragraph (b)(1) of this section does not apply to any amount received by an individual from an individual retirement account, annuity or bond if at any time during the 3-year period ending on the day of receipt, the individual received any other amount from an individual retirement account, annuity or bond which was not includible in his gross income because of the application of paragraph (b)(1) of this section.
+
+(ii) [Reserved]
+
+(c) *Excess contributions returned before due date of return*—(1) *Excess contribution.* The rules in this paragraph (c) apply for purposes of determining net income attributable to IRA contributions made before January 1, 2004, and returned pursuant to section 408(d)(4). The rules in § 1.408-11 apply for purposes of determining net income attributable to IRA contributions made on or after January 1, 2004, and returned pursuant to section 408(d)(4). For purposes of this paragraph, excess contributions are the excess of the amounts contributed to an individual retirement account or paid for an individual retirement annuity during the taxable year over the amount allowable as a deduction under section 219 or 220 for the taxable year.
+
+(2) *General rule.* (i) Paragraph (a)(1) of this section does not apply to the distribution of any excess contribution paid during a taxable year to an account or annuity if: the distribution is received on or before the date prescribed by law (including extensions) for filing the individual's return for such taxable year; no deduction is allowed under section 219 or section 220 with respect to the excess contribution; and the distribution is accompanied by the amount of net income attributable to the excess contribution as of the date of the distribution as determined under subdivision (ii).
+
+(ii) The amount of net income attributable to the excess contributions is an amount which bears the same ratio to the net income earned by the account during the computation period as the excess contribution bears to the sum of the balance of the account as of the first day of the taxable year in which the excess contribution is made and the total contribution made for such taxable year. For purposes of this paragraph, the term “computation period” means the period beginning on the first day of the taxable year in which the excess contribution is made and ending on the date of the distribution from the account.
+
+(iii) For purposes of paragraph (c)(2)(ii), the net income earned by the account during the computation period is the fair market value of the balance of the account immediately after the distribution increased by the amount of distributions from the account during the computation period, and reduced (but not below zero) by the sum of: (A) the fair market value of the balance of the account as of the first day of the taxable year in which the excess contribution is made and (B) the contributions to the account made during the computation period.
+
+(3) *Time of inclusion.* (i) For taxable years beginning before January 1, 1977, the amount of net income determined under subparagraph (2) is includible in the gross income of the individual for the taxable year in which it is received. The amount of net income thus distributed is subject to the tax imposed by section 408(f)(1) for the year includible in gross income.
+
+(ii) [Reserved]
+
+(4) *Example.* The provisions of this paragraph may be illustrated by the following example:
+
+Example.On January 1, 1975, A, age 55, who is a calendar-year taxpayer, contributes $1,500 to an individual retirement account established for his benefit. For 1975, A is entitled to a deduction of $1,400 under section 219. For 1975, A does not claim as deductions any other items listed in section 62. A's gross income for 1975 is $9,334. On April 1, 1976, $107 is distributed to A from his individual retirement account. As of such date, the balance of the account is $1,498 [$1,605 − $107]. There were no other distributions from the account as of such date. The net amount of income earned by the account is $105 [$1,498 + $107 − (0 + $1,500)]. The net income attributable to the excess contribution is $7. [$105 × ($100/$1,500)]. A's adjusted gross income for 1975 is his gross income for 1975 ($9,334) reduced by the amount allowable to A as a deduction under section 219 ($1,400), or $7,934. A will include the $7 of the $107 distributed on April 1, 1976, in his gross income for 1976. Further, A will pay an additional income tax of $.70 for 1976 under section 408(f)(1).
+
+(d) *Deemed distribution*—(1) *General rule.* In any case in which an individual retirement account ceases to be an individual retirement account by reason of the application of section 408(e)(2), paragraph (a)(1) of this section shall apply as if there were a distribution on the first day of the taxable year in which such account ceases to be an individual retirement account of an amount equal to the fair market value on such day of all of the assets in the account on such day. In the case of a deemed distribution from an individual retirement annuity, see § 1.408-3(d).
+
+(2) *Using account as security.* In any case in which an individual for whose benefit an individual retirement account is established uses, directly or indirectly, all or any portion of the account as security for a loan, paragraph (a)(1) of this section shall apply as if there were distributed on the first day of the taxable year in which the loan was made an amount equal to that portion of the account used as security for such loan.
+
+(e) *Distribution of annuity contracts.* Paragraph (a)(1) of this section does not apply to any annuity contract which is distributed from an individual retirement account and which satisfies the requirements of paragraphs (b) (1), (3), (4) and (5) of section 408. Amounts distributed under such contracts will be taxable to the distributee under section 72. For purposes of applying section 72 to a distribution from such a contract, the investment in such contract is zero.
+
+(f) *Treatment of assets distributed from an individual retirement account for the purchase of an endowment contract.* Under section 408(e)(5), if all, or any portion, of the assets of an individual retirement account are used to purchase an endowment contract described in § 1.408-3(e) for the benefit of the individual for whose benefit the account is established—
+
+(1) The excess, if any, of the total amount of assets used to purchase such contract over the portion of the assets attributable to life insurance protection shall be treated as a rollover contribution described in section 408(d)(3), and
+
+(2) The portion of the assets attributable to life insurance protection shall be treated as a distribution described in paragraph (a)(91) of this section, except that the provisions of section 408(f) shall not apply to such amount.
+
+(g) *Transfer incident to divorce*—(1) *General rule.* The transfer of an individual's interest, in whole or in part, in an individual retirement account, individual retirement annuity, or a retirement bond, to his former spouse under a valid divorce decree or a written instrument incident to such divorce shall not be considered to be a distribution from such an account or annuity to such individual or his former spouse; nor shall it be considered a taxable transfer by such individual to his former spouse notwithstanding any other provision of Subtitle A of the Code.
+
+(2) *Spousal account.* The interest described in this paragraph (g) which is transferred to the former spouse shall be treated as an individual retirement account of such spouse if the interest is an individual retirement account; an individual retirement annuity of such spouse if such interest is an individual retirement annuity; and a retirement bond of such spouse if such interest is a retirement bond.
+
+[T.D. 7714, 45 FR 52793, Aug. 8, 1980, as amended by T.D. 9056, 68 FR 23588, May 5, 2003]

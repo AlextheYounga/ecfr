@@ -1,0 +1,7 @@
+##### § 57.1 Overview. #####
+
+(a) The regulations in this part are designated “Health Insurance Providers Fee Regulations.”
+
+(b) The regulations in this part provide guidance on the annual fee imposed on covered entities engaged in the business of providing health insurance by section 9010 of the Patient Protection and Affordable Care Act (PPACA), Public Law 111-148 (124 Stat. 119 (2010)), as amended by section 10905 of PPACA, and as further amended by section 1406 of the Health Care and Education Reconciliation Act of 2010, Public Law 111-152 (124 Stat. 1029 (2010)) (collectively, the Affordable Care Act or ACA). All references to section 9010 in this part 57 are references to section 9010 of the ACA. Unless otherwise indicated, all other references to subtitles, chapters, subchapters, and sections are references to subtitles, chapters, subchapters and sections in the Internal Revenue Code and the related regulations.
+
+(c) Section 9010(e)(1) sets an applicable fee amount for each year, beginning with 2014, that will be apportioned among covered entities with aggregate net premiums written over $25 million for health insurance for United States health risks. Generally, each covered entity is liable for a fee in each fee year that is based on its net premiums written during the data year in an amount determined by the Internal Revenue Service (IRS) under the rules of this part.

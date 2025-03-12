@@ -1,0 +1,3 @@
+##### § 6.7 Delegations of authority. #####
+
+The Director, Bureau of Alcohol, Tobacco and Firearms and the Comptroller of the Currency are authorized to take final action on matters pertaining to the Equal Access to Justice Act, 5 U.S.C. 504, in proceedings listed in § 6.3 under the respective bureau or office. The Secretary of the Treasury may by order delegate authority to take final action on matters pertaining to the Equal Access to Justice Act in particular cases to other subordinate officials.

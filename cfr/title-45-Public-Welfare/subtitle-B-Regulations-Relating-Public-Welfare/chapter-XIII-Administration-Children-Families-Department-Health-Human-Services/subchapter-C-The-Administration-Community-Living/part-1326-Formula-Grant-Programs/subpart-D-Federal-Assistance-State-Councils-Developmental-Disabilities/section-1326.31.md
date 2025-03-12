@@ -1,0 +1,9 @@
+##### § 1326.31 State plan submittal and approval. #####
+
+(a) The Council shall issue a public notice about the availability of the proposed State plan or State plan amendment(s) for comment. The notice shall be published in formats accessible to individuals with developmental disabilities and the general public (*e.g.* public forums, Web sites, newspapers, and other current technologies) and shall provide a 45-day period for public review and comment. The Council shall take into account comments submitted within that period, and respond in the State plan to significant comments and suggestions. A summary of the Council's responses to State plan comments shall be submitted with the State plan and made available for public review. This document shall be made available in accessible formats upon request.
+
+(b) The State plan or amendment must be submitted to AIDD 45 days prior to the fiscal year for which it is applicable.
+
+(c) Failure to submit an approvable State plan or amendment prior to the Federal fiscal year for which it is applicable may result in the loss of Federal financial participation. Plans received during a quarter of the Federal fiscal year are approved back to the first day of the quarter so costs incurred from that point forward are approvable. Costs resulting from obligations incurred during the period of the fiscal year for which an approved plan is not in effect are not eligible for Federal financial participation.
+
+(d) The Secretary, or his or her designee, must approve any State plan or plan amendment provided it meets the requirements of the Act and this regulation.

@@ -1,0 +1,5 @@
+##### § 1.1367-3 Effective/Applicability date. #####
+
+Section 1.1367-2(a), (c)(2), (d)(2), and (e) *Example 6, Example 7,* and *Example 8* apply to any shareholder advances to the S corporation made on or after October 20, 2008 and repayments on those advances by the S corporation. The rules that apply with respect to shareholder advances to the S corporation made before October 20, 2008, are contained in § 1.1367-3 in effect prior to October 20, 2008. (See 26 CFR part 1 revised as of April 1, 2007.) Shareholders have the option to apply these rules to shareholder advances to the S corporation made before October 20, 2008, and repayments on those advances by the S corporation. Section 1.1367-1(h), *Example 5*(iii) applies on and after July 23, 2014. The rules that apply before July 23, 2014 are contained in § 1.1367-3 in effect prior to July 23, 2014 (see 26 CFR part 1 revised as of April 1, 2014).
+
+[T.D. 9428, 73 FR 62203, Oct. 20, 2008, as amended by T.D. 9682, 79 FR 42678, July 23, 2014]

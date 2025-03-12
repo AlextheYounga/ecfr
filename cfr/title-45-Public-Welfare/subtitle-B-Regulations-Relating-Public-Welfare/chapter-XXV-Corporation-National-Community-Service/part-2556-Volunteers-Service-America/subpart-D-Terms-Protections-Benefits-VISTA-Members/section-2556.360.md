@@ -1,0 +1,19 @@
+##### § 2556.360 How may a VISTA bring a grievance? #####
+
+(a) *Bringing a grievance—Step 1.* (1) While currently enrolled in the VISTA program, or enrolled in the VISTA program within the past 30 calendar days, a VISTA may bring a grievance to the sponsor or subrecipient where he or she is assigned to serve within 15 calendar days that the event giving rise to the grievance occurs, or within 15 calendar days after becoming aware of the event. If the grievance arises out of a continuing condition or practice that individually affects a VISTA, while enrolled the VISTA may bring it at any time while he or she is affected by a continuing condition or practice.
+
+(2) A VISTA brings a grievance by presenting it in writing to the executive director, or comparable individual, of the sponsoring organization where the VISTA is assigned, or to the sponsor's representative who is designated to receive grievances from a VISTA.
+
+(3) The sponsor shall review and respond in writing to the VISTA's grievance, within 10 calendar days of receipt of the written grievance. The sponsor may not fail to respond to a complaint raised by a VISTA on the basis that it is not an actual grievance, or that it is excluded from coverage as a grievance, but may, in the written response, dismiss the complaint and refuse to grant the relief requested on either of those grounds.
+
+(4) If the grievance brought by a VISTA involves a matter over which the sponsor has no substantial control or if the sponsor's representative is the supervisor of the VISTA, the VISTA may pass over the procedure set forth in paragraphs (a)(1) through (3) of this section, and present the grievance in writing directly to the State Program Director, as described in paragraph (b) of this section.
+
+(b) *Bringing a grievance—Step 2.* (1) If, after a VISTA brings a grievance as set forth in paragraphs (a)(1) and (2) of this section, the matter is not resolved, he or she may submit the grievance in writing to the appropriate State Program Director. The VISTA must submit the grievance to the State Program Director either:
+
+(i) Within seven calendar days of receipt of the response of the sponsor; or,
+
+(ii) In the event the sponsor has not issued a response to the VISTA within 10 calendar days of receipt of the written grievance, within 17 calendar days.
+
+(2) If the grievance involves a matter over which either the sponsor or subrecipient has no substantial control or if the sponsor's representative is the supervisor of the VISTA, as described in paragraph (a)(4) of this section, the VISTA may pass over the procedure set forth in paragraphs (a)(1) through (3) of this section, and submit the grievance in writing directly to the State Program Director. In such a case, the VISTA must submit the grievance to the State Program Director within 15 calendar days of the event giving rise to the grievance occurs, or within 15 calendar days after becoming aware of the event.
+
+(3) Within ten working days of receipt of the grievance, the State Program Director shall respond in writing, regardless of whether or not the matter constitutes a grievance as defined under this grievance procedure, and/or is timely submitted. In the response, the State Program Director may determine that the matter submitted as a grievance is not grievable, is not considered a grievance, or fails to meet the time limit for response. If the State Program Director makes any such determination, he or she may dismiss the complaint, setting forth the reason(s) for the dismissal. In such a case, the State Program Director need not address the complaint on the merits, nor make a determination of the complaint on the merits.

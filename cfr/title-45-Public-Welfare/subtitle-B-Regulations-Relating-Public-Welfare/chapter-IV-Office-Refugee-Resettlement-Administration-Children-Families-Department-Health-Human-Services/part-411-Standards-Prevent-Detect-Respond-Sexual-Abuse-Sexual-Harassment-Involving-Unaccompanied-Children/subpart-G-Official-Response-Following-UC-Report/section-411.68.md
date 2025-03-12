@@ -1,0 +1,7 @@
+##### § 411.68 Post-allegation protection. #####
+
+(a) Care provider facilities must ensure that UC victims of sexual abuse and sexual harassment are assigned to a supportive environment that represents the least restrictive housing option possible to keep the UC safe and secure, subject to the requirements of § 411.42.
+
+(b) The care provider facility should employ multiple protection measures to ensure the safety and security of UC victims of sexual abuse and sexual harassment, including but not limited to: Housing changes or transfers for UC victims and/or abusers or harassers; removal of alleged UC abusers or harassers from contact with victims; and emotional support services for UCs or staff who fear retaliation for reporting sexual abuse or sexual harassment or cooperating with investigations.
+
+(c) A UC victim may be placed on one-on-one supervision in order to protect the UC in exigent circumstances. Before taking the UC off of one-on-one supervision, the care provider facility must complete a re-assessment taking into consideration any increased vulnerability of the UC as a result of the sexual abuse or sexual harassment. The re-assessment must be completed as soon as possible and without delay so that the UC is not on one-on-one supervision longer than is absolutely necessary for safety and security reasons.

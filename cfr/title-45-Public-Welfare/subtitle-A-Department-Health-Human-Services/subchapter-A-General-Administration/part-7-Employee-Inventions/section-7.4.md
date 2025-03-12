@@ -1,0 +1,5 @@
+##### § 7.4 Option to acquire foreign rights. #####
+
+In any case where it is determined that all domestic rights should be assigned to the Government, it shall further be determined, pursuant to Executive Order 9865 and Government-wide regulations issued thereunder, that the Government shall reserve an option to require the assignment of such rights in all or in any specified foreign countries. In case where the inventor is not required to assign the patent rights in any foreign country or countries to the Government or the Government fails to exercise its option within such period of time as may be provided by regulations issued by the Commissioner of Patents, any application for a patent which may be filed in such country or countries by the inventor or his assignee shall nevertheless be subject to a nonexclusive, irrevocable, royalty-free license to the Government for all governmental purposes, including the power to issue sublicenses for use in behalf of the Government and/or in furtherance of the foreign policies of the Government.
+
+[27 FR 7987, Aug. 10, 1962]

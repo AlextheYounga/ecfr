@@ -1,0 +1,5 @@
+##### § 1.481-3 Adjustments attributable to pre-1954 years where change was not initiated by taxpayer. #####
+
+If the adjustments required by section 481(a) and § 1.481-1 are attributable to a change in method of accounting which was not initiated by the taxpayer, no portion of any adjustments which is attributable to pre-1954 years shall be taken into account in computing taxable income. For example, if the total adjustments in the case of a change in method of accounting which is not initiated by the taxpayer amount to $10,000, of which $4,000 is attributable to pre-1954 years, only $6,000 of the $10,000 total adjustments is required to be taken into account under section 481 in computing taxable income. The portion of the adjustments which is attributable to pre-1954 years is the net amount of the adjustments which would have been required if the taxpayer had changed his method of accounting in his first taxable year which began after December 31, 1953, and ended after August 16, 1954.
+
+[T.D. 6500, 25 FR 11735, Nov. 26, 1960, as amended by T.D. 8608, 60 FR 40079, Aug. 7, 1995]

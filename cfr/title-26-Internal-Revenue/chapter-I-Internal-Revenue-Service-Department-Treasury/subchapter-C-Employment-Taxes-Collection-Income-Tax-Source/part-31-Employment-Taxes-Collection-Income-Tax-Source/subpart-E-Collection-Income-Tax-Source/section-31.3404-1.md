@@ -1,0 +1,3 @@
+##### § 31.3404-1 Return and payment by governmental employer. #####
+
+If the United States, or a State, Territory, Puerto Rico, or a political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing, is an employer required to deduct and withhold tax under Chapter 24, the return of the amount deducted and withheld as such tax may be made by the officer or employee having control of the payment of the wages or other officer or employee appropriately designated for that purpose. (For provisions relating to the execution and filing of returns, see Subpart G of the regulations in this part.)

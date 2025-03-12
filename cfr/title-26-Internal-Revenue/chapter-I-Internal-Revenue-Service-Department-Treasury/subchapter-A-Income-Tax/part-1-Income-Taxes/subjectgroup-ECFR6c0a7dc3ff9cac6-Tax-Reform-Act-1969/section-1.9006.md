@@ -1,0 +1,9 @@
+##### § 1.9006 Statutory provisions; Tax Reform Act of 1969. #####
+
+Section 946 of the Tax Reform Act of 1969 (83 Stat. 729) provides as follows:
+
+Sec. 946.*Interest and penalties in case of certain taxable years*—(a) *Interest on underpayment.* Notwithstanding section 6601 of the Internal Revenue Code of 1954, in the case of any taxable year ending before the date of the enactment of this Act, no interest on any underpayment of tax, to the extent such underpayment is attributable to the amendments made by this Act, shall be assessed or collected for any period before the 90th day after such date.
+
+(b) *Declarations of estimated tax.* In the case of a taxable year beginning before the date of the enactment of this Act, if any taxpayer is required to make a declaration or amended declaration of estimated tax, or to pay any amount or additional amount of estimated tax, by reason of the amendments made by this Act, such amount or additional amount shall be paid ratably on or before each of the remaining installment dates for the taxable year beginning with the first installment date on or after the 30th day after such date of enactment. With respect to any declaration or payment of estimated tax before such first installment date, sections 6015, 6154, 6654, and 6655 of the Internal Revenue Code of 1954 shall be applied without regard to the amendments made by this Act. For purposes of this subsection, the term “installment date” means any date on which, under section 6153 or 6154 of such Code (whichever is applicable), an installment payment of estimated tax is required to be made by the taxpayer.
+
+[T.D. 7088, 36 FR 3052, Feb. 17, 1971]

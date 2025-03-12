@@ -1,0 +1,5 @@
+##### § 213.23a Discovery. #####
+
+The Department and any party named in the notice issued pursuant to § 213.11 shall have the right to conduct discovery (including depositions) against opposing parties. Rules 26-37 of the Federal Rules of Civil Procedures shall apply to such proceedings; there will be no fixed rule on priority of discovery. Upon written motion, the Presiding Officer shall promptly rule upon any objection to such discovery action initiated pursuant to this section. The Presiding Officer shall also have the power to grant a protective order or relief to any party against whom discovery is sought and to restrict or control discovery so as to prevent undue delay in the conduct of the hearing. Upon the failure of any party to make discovery, the Presiding Officer may, in his discretion, issue any order and impose any sanction (other than contempt orders) authorized by Rule 37 of the Federal Rules of Civil Procedure.
+
+[40 FR 50272, Oct. 29, 1975]

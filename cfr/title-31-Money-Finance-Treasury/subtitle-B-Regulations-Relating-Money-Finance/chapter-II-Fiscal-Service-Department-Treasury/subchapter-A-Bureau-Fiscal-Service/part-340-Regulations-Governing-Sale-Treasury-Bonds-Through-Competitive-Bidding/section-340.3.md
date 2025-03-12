@@ -1,0 +1,3 @@
+##### § 340.3 Taxation. #####
+
+The income derived from the bonds will be subject to all taxes imposed under the Internal Revenue Code of 1954. The bonds will be subject to estate, inheritance, gift or other excise taxes, whether Federal or State, but will be exempt from all taxation now or hereafter imposed on the principal or interest thereof by any State, or any of the possessions of the United States, or by any local taxing authority.

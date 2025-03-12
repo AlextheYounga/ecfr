@@ -1,0 +1,3 @@
+##### § 348.3 Reservations. #####
+
+The Secretary reserves the right to reject any application for the purchase of securities hereunder, in whole or in part, and to refuse to issue or permit to be issued any such securities in any case if the Secretary deems such action to be in the public interest, and the Secretary's action in any such respect shall be final. The Secretary may also at any time, supplement or amend the terms of these regulations, or of any amendments or supplements thereto.

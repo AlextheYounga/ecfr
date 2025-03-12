@@ -1,0 +1,7 @@
+##### § 1.9003-2 Effect of election. #####
+
+(a) *In general.* If a taxpayer makes the election described in paragraph (b) of § 1.9003-1, he shall be deemed to have consented to the application of section 302(b) of the Act with respect to all taxable years to which the election applies. Thus, subparagraph (F) of section 613(c)(4) of the Internal Revenue Code of 1954 as amended must be applied in determining gross income from mining for the taxable years to which the election applies (including years subject to the Internal Revenue Code of 1939) whether or not the taxpayer is litigating the issue. Further, the election shall apply to all calcium carbonates or other minerals mined and used by the taxpayer in making cement.
+
+(b) *Effect on gross income from mining.* The election is only determinative of what constitutes “mining” for purposes of computing percentage depletion and has no effect on the method employed in determining the amount of gross income from mining. In applying the election to the years affected there shall be taken into account the effect that any adjustments resulting from the election shall have on other items affected thereby, such as charitable contributions, foreign tax credit, net operating loss, and the effect that adjustments to any such items shall have on other taxable years. The provisions of section 302(b) of the Act are applicable with respect to taxable years subject to the Internal Revenue Code of 1939 for purposes of applying sections 450 and 453 of that Code.
+
+[T.D. 6492, 25 FR 8905, Sept. 16, 1960]

@@ -1,0 +1,3 @@
+##### § 31.3301-4 When wages are paid. #####
+
+Wages are paid when actually or constructively paid. Wages are constructively paid when they are credited to the account of or set apart for an employee so that they may be drawn upon by him at any time although not then actually reduced to possession. To constitute payment in such a case the wages must be credited to or set apart for the employee without any substantial limitation or restriction as to the time or manner of payment or condition upon which payment is to be made, and must be made available to him so that they may be drawn upon at any time, and their payment brought within his own control and disposition. See § 31.6011(a)-3, relating to the return on which wages are to be reported.

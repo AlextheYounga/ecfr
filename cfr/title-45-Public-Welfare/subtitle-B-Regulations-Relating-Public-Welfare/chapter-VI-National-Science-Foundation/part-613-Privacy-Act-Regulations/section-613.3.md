@@ -1,0 +1,15 @@
+##### § 613.3 Responding to requests for access to records. #####
+
+(a) *Timing of responses to requests.* The Foundation will make reasonable effort to act on a request for access to records within 20 days of its receipt by the Privacy Act Officer (excluding date of receipt, weekends, and legal holidays) or from the time any required identification is received by the Privacy Act Officer, whichever is later. In determining which records are responsive to a request, the Foundation will include only records in its possession as of the date of receipt. When the agency cannot complete processing of a request within 20 working days, the foundation will send a letter explaining the delay and notifying the requester of the date by which processing is expected to be completed.
+
+(b) *Authority to grant or deny requests.* The Privacy Act Officer, or his or her designee in the office with responsibility for the requested records, is authorized to grant or deny access to a Foundation record.
+
+(c) *Granting access to records.* When a determination is made to grant a request for access in whole or part, the requester will be notified as soon as possible of the Foundation's decision. Where a requester has previously failed to pay a properly charged fee to any agency within 30 days of the date of billing, NSF may require the requester to pay the full amount due, plus any applicable interest, and to make an advance payment of the full amount of any anticipated fee, before NSF begins to process a new request or continues to process a pending request from that requester.
+
+(1) *Requests made in person.* When a request is made in person, if the records can be found, and reviewed for access without unreasonable disruption of agency operations, the Foundation may disclose the records to the requester directly upon payment of any applicable fee. A written record should be made documenting the granting of the request. If a requester is accompanied by another person, the requester shall be required to authorize in writing any discussion of the records in the presence of the other person.
+
+(2) *Requests made in writing.* The Foundation will send the records to the requester promptly upon payment of any applicable fee.
+
+(d) *Denying access to records.* The requester will be notified in writing of any determination to deny a request for access to records. The notification letter will be signed by the Privacy Act Officer, or his or designee, as the individual responsible for the denial and will include a brief statement of the reason(s) for the denial, including any Privacy Act exemption(s) applied in denying the request.
+
+(e) *Fees.* The Foundation will charge for duplication of records requested under the Privacy Act in the same way it charges for duplication under the Freedom of Information Act (see CFR 612.10). No search or review fee may be charged for the record unless the record has been exempted from access under Exemptions (j)(2) or (k)(2) of the Privacy Act.

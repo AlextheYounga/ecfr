@@ -1,0 +1,11 @@
+##### § 1.6073-4 Extension of time for filing declarations by individuals. #####
+
+(a) *In general.* District directors and directors of service centers are authorized to grant a reasonable extension of time for filing a declaration or an amended declaration. Except as provided in paragraph (b) of § 301.6091-1 (relating to hand-carried documents), an application for an extension of time for filing such a declaration shall be addressed to the internal revenue officer with whom the taxpayer is required to file his declaration, and must contain a full recital of the causes for the delay. Except in the case of taxpayers who are abroad, no extension for filing declarations may be granted for more than 6 months.
+
+(b) *Citizens outside of the United States.* In the case of a United States citizen outside the United States and Puerto Rico on the 15th day of the 4th month of his taxable year, an extension of time for filing his declaration of estimated tax otherwise due on or before the 15th day of the 4th month of the taxable year is granted to and including the 15th day of the 6th month of the taxable year. For purposes of applying this paragraph to taxable years beginning prior to January 1, 1964, Alaska shall be considered outside the United States.
+
+(c) *Residents outside the United States.* In the case of a U.S. resident living or traveling outside the United States and Puerto Rico on the 15th day of the 4th month of a taxable year beginning after December 31, 1978, an extension of time for filing the declaration of estimated tax otherwise due on or before the 15th day of the 4th month of the taxable year is granted to and including the 15th day of the 6th month of the taxable year.
+
+(d) *Addition to tax applicable.* An extension of time for filing the declaration of estimated tax automatically extends the time for paying the estimated tax (without interest) for the same period. However, such extension does not relieve the taxpayer from the addition to the tax imposed by section 6654, and the period of the underpayment will be determined under section 6654(c) without regard to such extension.
+
+[T.D. 6500, 25 FR 12008, Nov. 26, 1960, as amended by T.D. 6638, 28 FR 1765, Feb. 26, 1963; T.D. 6950, 33 FR 5355, Apr. 4, 1968; T.D. 7736, 45 FR 76143, Nov. 18, 1980]

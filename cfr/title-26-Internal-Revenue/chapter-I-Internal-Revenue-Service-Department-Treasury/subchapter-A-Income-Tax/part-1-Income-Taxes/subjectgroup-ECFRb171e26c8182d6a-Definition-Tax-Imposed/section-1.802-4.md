@@ -1,0 +1,15 @@
+##### § 1.802-4 Life insurance company taxable income. #####
+
+(a) *Life insurance company taxable income defined.* Section 802(b) defines the term *life insurance company taxable income,* for purposes of part I, subchapter L, chapter 1 of the Code, as the sum of:
+
+(1) The taxable investment income (as defined in section 804), or, if smaller, the gain from operations (as defined in section 809),
+
+(2) If the gain from operations exceeds the taxable investment income, an amount equal to 50 percent of such excess, plus
+
+(3) The amount subtracted from the policyholders surplus account for the taxable year, as determined under section 815.
+
+If for any taxable year there is a loss from operations (as defined in section 809(b)(2)), the amount taken into account under paragraphs (1) and (2) of section 802(b) and subparagraphs (1) and (2) of this paragraph shall be zero. However, even in such a case, there may still be an amount includible in life insurance company taxable income (and hence an amount subject to tax) by reason of an amount includible under section 802(b)(3) and subparagraph (3) of this paragraph.
+
+(b) *Illustration of principles.* The provisions of section 802(b) and this section may be illustrated by the following examples:
+
+Example 1.For the taxable year 1959, Y, a life insurance company, has taxable investment income of $250,000, and a gain from operations of $175,000. Y made no subtractions from the policyholders surplus account during such taxable year. For the taxable year 1959, Y has life insurance company taxable income of $175,000.Example 2.The facts are the same as in example 1 except that for the taxable year 1959, Y has a gain from operations of $400,000. For the taxable year 1959, Y has life insurance company taxable income of $325,000, computed by adding taxable investment income ($250,000) and 50 percent ($75,000) of the amount ($150,000) by which the gain from operations ($400,000) exceeds the taxable investment income ($250,000).Example 3.For the taxable year 1959, W, a life insurance company, has taxable investment income of zero (0) and a gain from operations of $90,000. W made no subtractions from the policyholders surplus account during such taxable year. For the taxable year 1959, W has life insurance company taxable income of $45,000, computed by adding taxable investment income (0) and 50 percent ($45,000) of the amount ($90,000) by which the gain from operations ($90,000) exceeds the taxable investment income (0).Example 4.For the taxable year 1961, Z, a life insurance company, has taxable investment income of $100,000, a policyholders surplus account of $50,000 as of the beginning of such taxable year, a loss from operations (as defined in section 809(b)(2)) of $25,000, and subtractions from the policyholders surplus account in the amount of $20,000. For the taxable year 1961, Z has life insurance company taxable income of $20,000, as only the amount ($20,000) subtracted from the policyholders surplus account is taken into account.[T.D. 6513, 25 FR 12658, Dec. 10, 1960]

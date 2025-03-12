@@ -1,0 +1,5 @@
+##### § 31.3 General rule. #####
+
+(a) Any past-due, legally enforceable debt of at least $25, or such other minimum amount as determined by the Secretary of the Treasury, shall be submitted to FMS for collection by tax refund offset.
+
+(b) FMS will compare tax refund payment records, as certified by the IRS, with records of debts submitted by the Department under this part. A match will occur when the taxpayer identification number and name of a payment certification record are the same as the taxpayer identifying number and name control of a debtor record. When a match occurs and all other requirements for tax refund offset have been met, FMS will reduce the amount of any tax refund payment payable to a debtor by the amount of any past-due legally enforceable debt. Any amounts not offset will be paid to the payee(s) listed in the payment certification record.

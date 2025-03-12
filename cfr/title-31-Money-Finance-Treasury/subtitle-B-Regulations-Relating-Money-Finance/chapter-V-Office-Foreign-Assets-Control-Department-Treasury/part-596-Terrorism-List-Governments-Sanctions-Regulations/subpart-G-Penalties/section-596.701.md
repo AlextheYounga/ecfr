@@ -1,0 +1,3 @@
+##### § 596.701 Penalties. #####
+
+Attention is directed to 18 U.S.C. 2332d, as added by Public Law 104-132, section 321, which provides that, except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act, 50 U.S.C. App. 2405, as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under title 18, United States Code, or imprisoned for not more than 10 years, or both.

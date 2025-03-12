@@ -1,0 +1,5 @@
+##### § 538.504 Entries in certain accounts for normal service charges authorized. #####
+
+(a) U.S. financial institutions are hereby authorized to debit any blocked account with such U.S. financial institution in payment or reimbursement for normal service charges owed to such U.S. financial institution by the owner of such blocked account.
+
+(b) As used in this section, the term *normal service charge* shall include charges in payment or reimbursement for interest due; cable, telegraph, or telephone charges; postage costs; custody fees; small adjustment charges to correct bookkeeping errors; and, but not by way of limitation, minimum balance charges, notary and protest fees, and charges for reference books, photocopies, credit reports, transcripts of statements, registered mail, insurance, stationery and supplies, and other similar items.

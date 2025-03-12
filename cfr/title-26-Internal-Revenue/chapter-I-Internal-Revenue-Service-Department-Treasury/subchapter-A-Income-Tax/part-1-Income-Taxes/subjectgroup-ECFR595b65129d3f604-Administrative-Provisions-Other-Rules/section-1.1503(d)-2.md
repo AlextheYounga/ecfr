@@ -1,0 +1,5 @@
+##### § 1.1503(d)-2 Domestic use. #####
+
+A *domestic use* of a dual consolidated loss shall be deemed to occur when the dual consolidated loss is made available to offset, directly or indirectly, the income of a domestic affiliate (other than the dual resident corporation or separate unit that, in each case, incurred the dual consolidated loss) in the taxable year in which the dual consolidated loss is recognized, or in any other taxable year, regardless of whether the dual consolidated loss offsets income under the income tax laws of a foreign country and regardless of whether any income that the dual consolidated loss may offset in the foreign country is, has been, or will be subject to tax in the United States. A domestic use shall be deemed to occur in the year the dual consolidated loss is included in the computation of the taxable income of a consolidated group, unaffiliated dual resident corporation, or an unaffiliated domestic owner, as applicable, even if no tax benefit results from such inclusion in that year. See § 1.1503(d)-7(c) *Examples 2* through *4.*
+
+[T.D. 9315, 72 FR 12914, Mar. 19, 2007]

@@ -1,0 +1,3 @@
+##### § 50.81 State causes of action preempted. #####
+
+All State causes of action of any kind for property damage, personal injury, or death arising out of or resulting from an act of terrorism that are otherwise available under State law are preempted, except that, pursuant to section 107(b) of the Act, nothing in this section shall limit in any way the liability of any government, organization, or person who knowingly participates in, conspires to commit, aids and abets, or commits the act of terrorism certified by the Secretary.

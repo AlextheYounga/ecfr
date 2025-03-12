@@ -1,0 +1,3 @@
+##### § 96.91 Audit requirement. #####
+
+Pursuant to section 1745(b) of the Reconciliation Act (31 U.S.C. 1243 note) an audit is required with respect to the 2-year period beginning on October 1, 1981, and with respect to each 2-year period thereafter. In its application for funds, a State may modify the assurance required by section 675(c)(9) of the Reconciliation Act (42 U.S.C. 9904(c)(9)) to conform to the requirements of section 1745(b).

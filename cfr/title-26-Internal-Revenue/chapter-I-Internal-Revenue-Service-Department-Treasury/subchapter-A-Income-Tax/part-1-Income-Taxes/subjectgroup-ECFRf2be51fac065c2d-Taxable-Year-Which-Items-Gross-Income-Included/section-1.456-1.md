@@ -1,0 +1,5 @@
+##### § 1.456-1 Treatment of prepaid dues income. #####
+
+Effective for taxable years beginning after December 31, 1960, a taxpayer which is a membership organization (as described in paragraph (c) of § 1.456-5) and which receives prepaid dues income as described in paragraph (a) of § 1.456-5 in connection with its trade or business of rendering services or making available membership privileges may elect under section 456 to include such income in gross income ratably over the taxable years during which its liability (as described in paragraph (b) of § 1.456-5) to render such services or extend such privileges exists, if such liability does not extend over a period of time in excess of 36 months. If the taxpayer does not elect to treat prepaid dues income under section 456, or if such income may not be reported under section 456, as for example, where the income relates to a liability to render services or make available membership privileges which extends beyond 36 months, then such income is includible in gross income for the taxable year in which it is received (as described in paragraph (d) of § 1.456-5).
+
+[T.D. 6937, 32 FR 16394, Nov. 30, 1967]

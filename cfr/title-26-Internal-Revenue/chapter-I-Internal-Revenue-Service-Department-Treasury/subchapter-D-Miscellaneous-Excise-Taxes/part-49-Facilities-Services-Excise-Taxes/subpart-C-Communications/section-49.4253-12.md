@@ -1,0 +1,3 @@
+##### § 49.4253-12 Cross reference. #####
+
+For exemptions applicable to amounts received as payment for services furnished to the government of any State or political subdivision of a State, to the District of Columbia, to the government of the United States, or to certain nonprofit educational organizations, see sections 4292, 4293, and 4294, and the regulations thereunder contained in Subpart F of this part.

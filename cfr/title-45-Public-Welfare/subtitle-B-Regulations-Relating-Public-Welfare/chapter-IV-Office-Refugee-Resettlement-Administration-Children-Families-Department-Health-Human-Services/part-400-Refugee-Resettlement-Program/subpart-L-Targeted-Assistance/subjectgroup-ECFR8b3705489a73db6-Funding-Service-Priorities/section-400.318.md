@@ -1,0 +1,3 @@
+##### § 400.318 Eligible grantees. #####
+
+Eligible grantees are those agencies of State governments which are responsible for the refugee program under 45 CFR 400.5 in States containing counties which qualify for targeted assistance awards. The use of targeted assistance funds for services to Cuban and Haitian entrants is limited to States which have an approved State plan under the Cuban/Haitian Entrant Program (CHEP).

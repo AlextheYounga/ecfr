@@ -1,0 +1,7 @@
+##### § 608.1 Purpose and scope. #####
+
+(a) This part sets forth policies and procedures for the collection and compromise claims and the administrative offset of claims by the National Science Foundation (NSF) pursuant to 31 U.S.C. 3711, 3716, 3718 and 3720A. It is not intended to limit or govern the rights of the NSF or the United States to collect, compromise, or administratively offset debts or claims under other authority and procedures that may be legally available to it.
+
+(b) Matters not addressed in this part should be reviewed and handled in accordance with applicable statutory provisions and the Federal Claims Collection Standards issued jointly by the Attorney General and the Comptroller General (4 CFR parts 101 through 105).
+
+(c) Any action other than the issuance of regulations specifically required to be done by the head of the agency by any of the statutes or regulations referred to in paragraphs (a) and (b) of this section shall be done on behalf of NSF by its Chief Financial Officer or by those to whom the Chief Financial Officer delegates authority. This is not intended to prevent the Chief Financial Officer from issuing additional internal procedures and guidance consistent with this part.

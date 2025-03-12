@@ -1,0 +1,3 @@
+##### § 363.57 What is the minimum amount of book-entry savings bonds that I may redeem in any one transaction? #####
+
+Each redemption must be in a minimum amount of $25 redemption value, with additional one-cent increments above that amount, in any one transaction. For example, you may redeem $25.00, $25.01, $25.02, or $25.03, and so forth. Redemptions will be comprised of principal and proportionate interest.

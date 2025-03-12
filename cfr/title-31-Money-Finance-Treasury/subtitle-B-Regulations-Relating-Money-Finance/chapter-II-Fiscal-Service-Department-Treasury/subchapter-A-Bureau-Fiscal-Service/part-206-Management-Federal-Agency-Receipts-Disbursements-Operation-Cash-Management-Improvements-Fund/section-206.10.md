@@ -1,0 +1,9 @@
+##### § 206.10 Operation of and payments from the Cash Management Improvements Fund. #####
+
+(a) The Cash Management Improvements Fund (Fund) will be operated as a revolving fund by the Service. Charges assessed under § 206.9(a) for cash management collection noncompliance will be deposited into the Fund according to the Deficit Reduction Act of 1984. The Service will also disburse any payments from the Fund based on projects selected by a project selection and approval committee.
+
+(b) *Committee composition.* The committee will consist of three members—two permanent members and one temporary member. The permanent members will be the Commissioner and the Assistant Commissioner, Federal Finance, of the Service. The temporary committee member will be a cash management official from an agency other than an agency being considered for funds. The order of agency assignment to the Committee will be published in a TFM Bulletin, when funds are first deposited to the Fund. Decisions of the project selection and approval committee cannot be appealed. Agencies will be notified of any available amounts in the Fund and requirements to apply for such monies through a TFM bulletin.
+
+(c) As provided by 31 U.S.C. 3720, sums in the Fund will be available without fiscal year limitation for the payment of expenses incurred in developing improved methods of collection and deposit and the expenses incurred in carrying out collections and deposits using such methods, including the costs of personal services and the costs of the lease or purchase of equipment and operating facilities.
+
+(d) In addition to all reports required by law and regulation, for each fiscal year during which there is a balance in Fund, the Service will prepare and publish, by the 60th day following the close of the fiscal year, a full report on payments, receipts, disbursements, balances of the Fund, and full disclosure on projects financed by the Fund.

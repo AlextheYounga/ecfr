@@ -1,0 +1,3 @@
+##### § 75.316 Purpose of property standards. #####
+
+Sections 75.317 through 75.323 set forth uniform standards governing management and disposition of property furnished by HHS or whose cost was charged directly to a project supported by an HHS award. The HHS awarding agency may not impose additional requirements, unless specifically required to do so by Federal statute. The recipient may use its own property management standards and procedures provided they meet the provisions of these sections.

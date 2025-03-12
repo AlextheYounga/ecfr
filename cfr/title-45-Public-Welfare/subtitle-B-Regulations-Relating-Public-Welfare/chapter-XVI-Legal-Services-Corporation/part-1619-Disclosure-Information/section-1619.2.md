@@ -1,0 +1,3 @@
+##### § 1619.2 Policy. #####
+
+A recipient shall adopt a procedure for affording the public appropriate access to the Act, Corporation rules, regulations and guidelines, the recipient's written policies, procedures, and guidelines, the names and addresses of the members of its governing body, and other materials that the recipient determines should be disclosed. The procedure adopted shall be subject to approval by the Corporation.

@@ -1,0 +1,7 @@
+##### § 1321.7 Mission of the State agency. #####
+
+(a) The Older Americans Act intends that the State agency on aging shall be the leader relative to all aging issues on behalf of all older persons in the State. This means that the State agency shall proactively carry out a wide range of functions related to advocacy, planning, coordination, interagency linkages, information sharing, brokering, monitoring and evaluation, designed to lead to the development or enhancement of comprehensive and coordinated community based systems in, or serving, communities throughout the State. These systems shall be designed to assist older persons in leading independent, meaningful and dignified lives in their own homes and communities as long as possible.
+
+(b) The State agency shall designate area agencies on aging for the purpose of carrying out the mission described above for the State agency at the sub-State level. The State agency shall designate as its area agencies on aging only those sub-state agencies having the capacity and making the commitment to fully carry out the mission described for area agencies in § 1321.53 below.
+
+(c) The State agency shall assure that the resources made available to area agencies on aging under the Older Americans Act are used to carry out the mission described for area agencies in § 1321.53 below.

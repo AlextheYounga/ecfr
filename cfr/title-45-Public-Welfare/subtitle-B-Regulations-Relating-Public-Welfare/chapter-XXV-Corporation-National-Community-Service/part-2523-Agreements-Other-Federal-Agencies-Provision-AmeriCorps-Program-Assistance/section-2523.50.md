@@ -1,0 +1,3 @@
+##### § 2523.50 What types of funds are Federal agencies eligible to receive? #####
+
+Federal agencies may apply for planning and operating funds subject to the terms established by the Corporation in § 2521.20 of this chapter, except that operating grants will be awarded with the expectation that the Federal agencies will support the proposed programs from their own budgets once the Corporation grant(s) expire.

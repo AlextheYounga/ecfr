@@ -1,0 +1,3 @@
+##### § 1150.43 When may the Endowment make an offset in an expedited manner? #####
+
+The Endowment may effect an administrative offset against a payment to be made to you before completion of the procedures required by §§ 1150.41 and 1150.42 if failure to take the offset would substantially jeopardize the Endowment's ability to collect the debt and the time before the payment is to be made does not reasonably permit the completion of those procedures. An expedited offset will be followed promptly by the completion of those procedures. Amounts recovered by offset, but later found not to be owed to the Endowment, will be promptly refunded.

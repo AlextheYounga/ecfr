@@ -1,0 +1,5 @@
+##### § 339.8 Reservation as to terms of offer. #####
+
+The Secretary of the Treasury reserves the right to reject any exchange subscription for Series H bonds, in whole or in part, and to refuse to issue or permit to be issued hereunder any such bonds in any case or any class or classes of cases if he deems such action to be in the public interest, and his action in any such respect shall be final.
+
+The foregoing revision and amendment is made for the purpose of granting to owners of savings notes the same privilege afforded owners of Series E savings bonds for exchanging their securities for Series H bonds with or without tax deferral. As good cause exists for making this change, which involves public property and contracts relating to the fiscal and monetary affairs of the United States, I find that notice and public procedures are unnecessary. This action is effected under the provisions of sections 18, 20, and 22 of the Second Liberty Bond Act, as amended (40 Stat. 1309, 48 Stat. 343, 49 Stat. 21, 73 Stat. 621, all as amended; 31 U.S.C. 753, 754b, 757c), and 5 U.S.C. 301.

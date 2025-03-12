@@ -1,0 +1,5 @@
+##### § 96.92 Termination of funding. #####
+
+Where a State determines pursuant to section 675(c)(11) of the Community Services Block Grant Act that it will terminate present or future funding of any community action agency or migrant and seasonal farmworker organization which received funding in the previous fiscal year, the State must provide the organization with notice and an opportunity for hearing on the record prior to terminating funding. If a review by the Secretary of the State's final decision to terminate funding is requested pursuant to section 676A, the request must be made in writing, within 30 days of notification by the State of its final decision to terminate funding. The Department will confirm or reject the State's finding of cause, normally within 90 days. If a request for a review has been made, the State may not discontinue present or future funding until the Department confirms the State's finding of cause. If no request for a review is made within the 30-day limit, the State's decision will be effective at the expiration of that time.
+
+[52 FR 37968, Oct. 13, 1987]

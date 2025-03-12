@@ -1,0 +1,7 @@
+##### § 1.108-3 Intercompany losses and deductions. #####
+
+(a) *General rule.* This section applies to certain losses and deductions from the sale, exchange, or other transfer of property between corporations that are members of a consolidated group or a controlled group (an intercompany transaction). See section 267(f) (controlled groups) and § 1.1502-13 (consolidated groups) for applicable definitions. For purposes of determining the attributes to which section 108(b) applies, a loss or deduction not yet taken into account under section 267(f) or § 1.1502-13 (an intercompany loss or deduction) is treated as basis described in section 108(b) that the transferor retains in property. To the extent a loss not yet taken into account is reduced under this section, it cannot subsequently be taken into account under section 267(f) or § 1.1502-13. For example, if S and B are corporations filing a consolidated return, and S sells land with a $100 basis to B for $90 and the $10 loss is deferred under section 267(f) and § 1.1502-13, the deferred loss is treated for purposes of section 108(b) as $10 of basis that S has in land (even though S has no remaining interest in the land sold to B) and is subject to reduction under section 108(b)(2)(E). Similar principles apply, with appropriate adjustments, if S and B are members of a controlled group and S's loss is deferred only under section 267(f).
+
+(b) *Effective date.* This section applies with respect to discharges of indebtedness occurring on or after September 11, 1995.
+
+[T.D. 8597, 60 FR 36680, July 18, 1995]

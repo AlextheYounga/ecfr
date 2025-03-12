@@ -1,0 +1,3 @@
+##### § 560.506 Importation and exportation of certain gifts authorized. #####
+
+The importation into the United States of Iranian-origin goods from Iran or a third country, and the exportation from the United States to Iran of goods, are authorized for goods sent as gifts to persons provided that the value of each gift is not more than $100; the goods are of a type and in quantities normally given as gifts between individuals; and the goods are not controlled for chemical and biological weapons (CB), missile technology (MT), national security (NS), or nuclear proliferation (NP). See Commerce Control List, Export Administration Regulations (15 CFR part 774).

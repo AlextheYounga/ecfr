@@ -1,0 +1,3 @@
+##### § 347.0 Offering of securities. #####
+
+The Secretary of the Treasury, under the authority of Title 31, Chapter 31, offers retirement savings bonds to the designated Roth IRA custodian for Treasury's retirement savings program. The bonds will be issued to and held by the designated custodian, on behalf of participants in Treasury's program. The current offer is effective on the publication date of this rule. This offering will continue until terminated by the Secretary. Treasury's Fiscal Assistant Secretary is authorized to act on behalf of the Secretary on all matters contained in these regulations.

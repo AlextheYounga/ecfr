@@ -1,0 +1,33 @@
+##### § 36.3121(l)(1)-1 Agreements entered into by domestic corporations with respect to foreign subsidiaries. #####
+
+(a) *In general.* (1) Any domestic corporation having one or more foreign subsidiaries may request the Internal Revenue Service to enter into an agreement for the purpose of extending the Federal old-age, survivors, and disability insurance system established by title II of the Social Security Act to certain services performed outside the United States by all citizens of the United States who are employees of any such foreign subsidiary. See § 36.3121(l)(8)-1, relating to the definition of foreign subsidiary. Except as provided in § 36.3121(l)(5)-1, relating to the effect of the termination of an agreement entered into pursuant to the provisions of section 3121(l), the Internal Revenue Service shall, at the request of a domestic corporation enter into such agreement on Form 2032 in any case where a Form 2032 is executed, and submitted by the domestic corporation in the manner prescribed in this section. A domestic corporation may not have in effect at the same moment of time more than one agreement on Form 2032.
+
+(2) An agreement authorized in section 3121(l)(1) may not be made applicable to any services performed outside the United States which would not constitute employment, for purposes of the taxes imposed under the Federal Insurance Contributions Act, if the services were performed within the United States. Thus, such an agreement shall have no application with respect to any services performed outside the United States which, if performed within the United States, would be specifically excepted from employment under any of the numbered paragraphs of section 3121(b), or which, although not so excepted, would be deemed not to be employment by application of section 3121(c), relating to included and excluded services. Further, an agreement may not be made applicable with respect to any services performed outside the United States which constitute employment, as defined in section 3121(b). Thus, an agreement may not be made applicable to services for any employer performed by any employee on or in connection with an American vessel or American aircraft when outside the United States, if (i) performed under a contract of service which is entered into within the United States or (ii) during the performance of which and while the employee is employed on the vessel or aircraft it touches at a port in the United States, because such services constitute employment as defined in section 3121(b). An agreement may not be made applicable to remuneration which would not constitute wages, as defined in section 3121(a), even if the services to which such remuneration is attributable had constituted employment.
+
+(3) The terms “corporation”, “domestic”, and “foreign”, as used in the regulations in this part, have the meaning assigned by paragraphs (3), (4), and (5), respectively, of section 7701(a). Section 701(a) (3), (4), and (5) provides as follows:
+
+Sec. 7701.*Definitions.* (a) When used in this title [Internal Revenue Code of 1954], where not otherwise distinctly expressed or manifestly incompatible with the intent thereof—
+
+(3) *Corporation.* The term “corporation” includes associations, joint-stock companies, and insurance companies.
+
+(4) *Domestic.* The term “domestic” when applied to a corporation \* \* \* means created or organized in the United States or under the law of the United States or of any State or Territory.
+
+(5) *Foreign.* The term “foreign” when applied to a corporation \* \* \* means a corporation \* \* \* which is not domestic.
+
+(b) *Form and contents of agreement.* Form 2032 is the form prescribed for the agreement authorized in section 3121(l)(1). The agreement shall include provisions substantially as follows:
+
+(1) That the agreement shall apply to all services performed outside the United States by all citizens of the United States who are in the employ of the foreign subsidiary or subsidiaries to which the agreement is made applicable, but only to the extent that the remuneration paid each employee for such services would constitute wages if paid by one employer for services performed in the United States;
+
+(2) That the agreement shall not apply to any services which constitute employment within the meaning of section 3121;
+
+(3) That the agreement shall become effective on the first day of the calendar quarter in which the Form 2032 is signed by the district director or director of the service center or on the first day of the next succeeding calendar quarter, whichever is specified in the agreement;
+
+(4) That the domestic corporation will pay, as required by the regulations in this part, amounts equivalent to the sum of the taxes which would be imposed by sections 3101 and 3111, respectively, if the remuneration for the services covered by the agreement constituted wages;
+
+(5) That the domestic corporation will pay, in accordance with written notification and demand therefor to the domestic corporation, amounts equivalent to the interest, additions to the taxes, additional amounts, and penalties which would be applicable if the remuneration for services covered by the agreement constituted wages; and
+
+(6) That the domestic corporation will comply with all provisions of the regulations in this part.
+
+(c) *Execution and filing of Form 2032.* The request of any domestic corporation that the Internal Revenue Service enter into an agreement with the corporation on Form 2032 shall be signified by the corporation by executing and filing Form 2032 in triplicate. Such form shall be executed and filed in accordance with the regulations in this part and the instructions relating to the form. Each copy of the form shall be signed and dated by the officer of the corporation authorized to enter into the agreement, shall show the title of such officer, and shall have the corporate seal affixed thereto. A certified copy of the minutes of the meeting of the board of directors of the domestic corporation, or other evidence, showing the authority of such officer so to act shall accompany the form. Form 2032 executed and filed as provided in this paragraph shall be signed and dated by the district director or director of the service center and, upon such signing, the Form 2032 so executed and filed will constitute the agreement authorized in section 3121(l)(1). The Internal Revenue Service will return one copy of the agreement to the domestic corporation, will transmit one copy of the Department of Health, Education, and Welfare, and will retain one copy (together with all related papers).
+
+[T.D. 6145, 20 FR 6577, Sept. 8, 1955, as amended by T.D. 7012, 34 FR 7693, May 15, 1969]

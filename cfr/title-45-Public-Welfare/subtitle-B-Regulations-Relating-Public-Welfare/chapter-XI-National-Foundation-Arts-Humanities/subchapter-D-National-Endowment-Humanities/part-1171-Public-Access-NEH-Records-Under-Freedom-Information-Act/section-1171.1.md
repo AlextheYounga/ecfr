@@ -1,0 +1,3 @@
+##### § 1171.1 About the National Endowment for the Humanities. #####
+
+The National Endowment for the Humanities (NEH) was established by the National Foundation on the Arts and Humanities Act of 1965, 20 U.S.C. 951 *et seq.,* and is an independent grant-making agency of the United States government dedicated to supporting research, education, preservation, and public programs in the humanities. The NEH is directed by a Chairman and has an advisory council composed of twenty-six presidentially-appointed and Senate-confirmed members.

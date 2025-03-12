@@ -1,0 +1,3 @@
+##### § 403.37 Form of the petition. #####
+
+There is no standardized form provided or required by the Department of the Treasury for use in filing a petition for remission or mitigation of forfeiture. However, the petition should be typewritten on legal size paper; and must be executed under oath, prepared in triplicate, and addressed to the District Director of the internal revenue district in which the property was seized. All copies of original documents submitted as exhibits in support of allegations of the petition should be certified as true and accurate copies of originals. Each copy of the petition must contain a complete set of exhibits.

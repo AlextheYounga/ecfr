@@ -1,0 +1,3 @@
+##### § 53.6061-1 Signing of returns and other documents. #####
+
+Any return, statement, or other document required to be made with respect to a tax imposed by Chapter 42 or the regulations thereunder shall be signed by the person required to file such return, statement or document, or by such other persons required or duly authorized to sign in accordance with the regulations, forms or instructions prescribed with respect to such return, statement or other document. The person required or duly authorized to make the return may incur liability for penalties provided for erroneous, false or fraudulent returns. For criminal penalties see sections 7201, 7203, 7206, and 7207.

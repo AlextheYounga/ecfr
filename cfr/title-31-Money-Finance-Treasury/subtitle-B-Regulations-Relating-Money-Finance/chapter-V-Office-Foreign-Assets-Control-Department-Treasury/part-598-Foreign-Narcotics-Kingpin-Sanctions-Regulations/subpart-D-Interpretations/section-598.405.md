@@ -1,0 +1,3 @@
+##### § 598.405 Transactions incidental to a licensed transaction. #####
+
+Any transaction ordinarily incident to a licensed transaction and necessary to give effect to the licensed transaction is also authorized by the license. Except as specifically authorized by the terms of a license, prohibited transactions by specially designated narcotics traffickers and debits to accounts blocked pursuant to § 598.202 are not considered incidental to a licensed transaction and therefore remain prohibited.

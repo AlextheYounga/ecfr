@@ -1,0 +1,3 @@
+##### § 96.111 Continuation of pre-existing regulations. #####
+
+The regulations previously issued by the Department and the Community Services Administration to govern administration of the programs replaced by the block grants specified in § 96.1 of this part shall continue in effect until revised to govern administration of those programs by the Department in those circumstances in which States have not qualified for block grants.

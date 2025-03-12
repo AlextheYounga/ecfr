@@ -1,0 +1,9 @@
+##### § 31.3306(c)(6)-1 Services in employ of United States or instrumentality thereof. #####
+
+(a) *Services in employ of United States or wholly-owned instrumentality thereof.* Services performed in the employ of the United States Government, except as provided in section 3306(n) (see § 31.3306(n)-1), are excepted from employment. Services performed in the employ of an instrumentality of the United States which is wholly owned by the United States also are excepted from employment.
+
+(b) *Services in employ of instrumentality not wholly owned by United States*—(1) *Services performed after 1961.* Services performed after 1961 in the employ of an instrumentality of the United States which is partially owned by the United States are excepted from employment, if the remuneration for such service is paid after 1961. Services performed after 1961 in the employ of an instrumentality of the United States which is neither wholly owned nor partially owned by the United States are excepted from employment if (i) the instrumentality is exempt from the tax imposed by section 3301 by virtue of any provision of law which specifically refers to section 3301 or the corresponding section of prior law in granting exemption from such tax, and (ii) the remuneration for such service is paid after 1961. For provisions which make general exemptions from Federal taxation ineffectual as to the tax imposed by section 3301, see § 31.3308-1.
+
+(2) *Services performed before 1962.* Services performed in the employ of an instrumentality of the United States which is not wholly owned by the United States are excepted from employment if the instrumentality is exempt from the tax imposed by section 3301 by virtue of any other provision of law, and (i) the services are performed before 1962 or (ii) remuneration for the services is paid before 1962.
+
+[T.D. 6658, 28 FR 6638, June 27, 1963]

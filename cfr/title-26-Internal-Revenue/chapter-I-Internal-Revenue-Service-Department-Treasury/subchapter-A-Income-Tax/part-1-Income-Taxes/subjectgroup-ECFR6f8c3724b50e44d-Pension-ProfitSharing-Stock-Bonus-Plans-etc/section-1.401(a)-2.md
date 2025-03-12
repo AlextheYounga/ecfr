@@ -1,0 +1,7 @@
+##### § 1.401(a)-2 Impossibility of diversion under qualified plan or trust. #####
+
+(a) *General rule.* Section 401(a)(2) requires that in order for a trust to be qualified, it must be impossible under the trust instrument (in the taxable year and at any time thereafter before the satisfaction of all liabilities to employees or their beneficiaries covered by the trust) for any part of the trust corpus or income to be used for, or diverted to, purposes other than for the exclusive benefit of those employees or their beneficiaries. Section 1.401-2, a pre-ERISA regulation, provides rules under section 401(a)(2) and that regulation is applicable except as otherwise provided.
+
+(b) *Section 415 suspense account.* Notwithstanding paragraph (a) of this section, a plan, or trust forming part of a plan, may provide for the reversion to the employer, upon termination of the plan, of amounts contributed to the plan that exceed the limitations imposed under section 415(c), to the extent set forth in rules prescribed by the Commissioner in revenue rulings, notices, or other guidance published in the Internal Revenue Bulletin (see § 601.601(d)(2) of this chapter).
+
+[T.D. 7748, 46 FR 1696, Jan. 7, 1981, as amended by T.D. 9319, 72 FR 16894, Apr. 5, 2007]

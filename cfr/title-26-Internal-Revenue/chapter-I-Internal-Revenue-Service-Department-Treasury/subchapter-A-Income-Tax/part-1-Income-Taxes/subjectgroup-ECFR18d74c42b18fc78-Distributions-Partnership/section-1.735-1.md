@@ -1,0 +1,11 @@
+##### § 1.735-1 Character of gain or loss on disposition of distributed property. #####
+
+(a) *Sale or exchange of distributed property*—(1) *Unrealized receivables.* Any gain realized or loss sustained by a partner on a sale or exchange or other disposition of unrealized receivables (as defined in paragraph (c)(1) of § 1.751-1) received by him in a distribution from a partnership shall be considered gain or loss from the sale or exchange of property other than a capital asset.
+
+(2) *Inventory items.* Any gain realized or loss sustained by a partner on a sale or exchange of inventory items (as defined in section 751(d)(2)) received in a distribution from a partnership shall be considered gain or loss from the sale or exchange of property other than a capital asset if such inventory items are sold or exchanged within 5 years from the date of the distribution by the partnership. The character of any gain or loss from a sale or exchange by the distributee partner of such inventory items after 5 years from the date of distribution shall be determined as of the date of such sale or exchange by reference to the character of the assets in his hands at that date (inventory items, capital assets, property used in a trade or business, etc.).
+
+(b) *Holding period for distributed property.* A partner's holding period for property distributed to him by a partnership shall include the period such property was held by the partnership. The provisions of this paragraph do not apply for the purpose of determining the 5-year period described in section 735(a)(2) and paragraph (a)(2) of this section. If the property has been contributed to the partnership by a partner, then the period that the property was held by such partner shall also be included. See section 1223(2). For a partnership's holding period for contributed property, see § 1.723-1.
+
+(c) *Effective date.* Section 735(a) applies to any property distributed by a partnership to a partner after March 9, 1954. See section 771(b)(2) and paragraph (b)(2) of § 1.771-1. However, see section 771(c).
+
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6832, 30 FR 8574, July 7, 1965]

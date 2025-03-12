@@ -1,0 +1,5 @@
+##### § 400.315 General eligibility requirements. #####
+
+(a) For purposes of determining eligibility of refugees for services under this subpart, the same standards and criteria shall be applied as are applied in the determination of eligibility for refugee social services under §§ 400.150 and 400.152(a).
+
+(b) A State may not provide services under this subpart, except for referral and interpreter services, to refugees who have been in the United States for more than 60 months, except that refugees who are receiving employability services, as defined in § 400.316, as of September 30, 1995, as part of an employability plan, may continue to receive those services through September 30, 1996, or until the services are completed, whichever occurs first, regardless of their length of residence in the U.S.

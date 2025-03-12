@@ -1,0 +1,5 @@
+##### § 5.63 How does HHS process appeals? #####
+
+(a) We respond to your appeal within 20 working days after the appeal official designated in your appeal letter receives it. If, however, your appeal is based on a denial of a request for expedited processing, we will act on your appeal of that decision expeditiously. Before making a decision on an appeal of an adverse determination, the designated review official will consult with the Office of the General Counsel. Also, the concurrence of the Office of the Assistant Secretary for Public Affairs is required in all appeal decisions, including those on fees. When the review official responds to an appeal, that constitutes the Department's final action on the request.
+
+(b) If we reverse or modify the initial decision, we will inform you in writing and, if applicable, reprocess your request. If we do not change our initial decision, we will respond in writing to you, explain the reasons for the decision, set out any FOIA exemptions that apply, and inform you of the provisions for judicial review. If a requester files a FOIA lawsuit in reference to an appeal, we will cease processing the appeal.

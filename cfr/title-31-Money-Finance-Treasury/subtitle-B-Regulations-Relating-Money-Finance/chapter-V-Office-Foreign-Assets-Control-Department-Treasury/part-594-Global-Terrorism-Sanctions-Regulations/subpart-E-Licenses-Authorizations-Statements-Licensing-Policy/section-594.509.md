@@ -1,0 +1,3 @@
+##### § 594.509 Transactions related to mail authorized. #####
+
+All transactions by U.S. persons, including payment and transfers to common carriers, incident to the receipt or transmission of mail between a U.S. person and a person whose property or interests in property are blocked pursuant to § 594.201(a) are authorized, provided the mail is limited to personal communications not involving a transfer of anything of value and not exceeding 12 ounces in weight.

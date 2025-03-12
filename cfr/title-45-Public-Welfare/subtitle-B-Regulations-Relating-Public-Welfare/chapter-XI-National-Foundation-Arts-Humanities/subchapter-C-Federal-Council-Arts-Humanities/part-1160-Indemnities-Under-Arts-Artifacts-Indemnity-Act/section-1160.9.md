@@ -1,0 +1,5 @@
+##### § 1160.9 Letter of intent. #####
+
+In cases where an exhibition proposed for indemnification is planned to begin on a date more than twelve (12) months after the submission of the application, the Council, upon approval of such a preliminary application, may provide a Letter of Intent stating that it will, subject to the conditions set forth therein, issue an Indemnity Agreement prior to commencement of the exhibition. In such cases, the Council will examine a final application during the twelve (12) month period prior to the date the exhibition is to commence, and shall, upon being satisfied that such conditions have been fulfilled, issue an Indemnity Agreement.
+
+[56 FR 49848, Oct. 2, 1991. Redesignated at 60 FR 42465, Aug. 16, 1995, and further redesignated at 73 FR 21056, Apr. 18, 2008]

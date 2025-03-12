@@ -1,0 +1,9 @@
+##### § 1.6011-1 General requirement of return, statement, or list. #####
+
+(a) *General rule.* Every person subject to any tax, or required to collect any tax, under Subtitle A of the Code, shall make such returns or statements as are required by the regulations in this chapter. The return or statement shall include therein the information required by the applicable regulations or forms.
+
+(b) *Use of prescribed forms.* Copies of the prescribed return forms will so far as possible be furnished taxpayers by district directors. A taxpayer will not be excused from making a return, however, by the fact that no return form has been furnished to him. Taxpayers not supplied with the proper forms should make application therefor to the district director in ample time to have their returns prepared, verified, and filed on or before the due date with the internal revenue office where such returns are required to be filed. Each taxpayer should carefully prepare his return and set forth fully and clearly the information required to be included therein. Returns which have not been so prepared will not be accepted as meeting the requirements of the Code. In the absence of a prescribed form, a statement made by a taxpayer disclosing his gross income and the deductions therefrom may be accepted as a tentative return, and, if filed within the prescribed time, the statement so made will relieve the taxpayer from liability for the addition to tax imposed for the delinquent filing of the return, provided that without unnecessary delay such a tentative return is supplemented by a return made on the proper form.
+
+(c) *Tax withheld on nonresident aliens and foreign corporations.* For requirements respecting the return of the tax required to be withheld under chapter 3 of the Code on nonresident aliens and foreign corporations and tax-free covenant bonds, see § 1.1461-2.
+
+[T.D. 6500, 25 FR 12108, Nov. 26, 1960, as amended by T.D. 6922, 32 FR 8713, June 17, 1967]

@@ -1,0 +1,3 @@
+##### § 2540.670 Will my qualification to participate or eligibility for benefits be suspended during the review process? #####
+
+If the reviewing official determines that, based on the information available, there is a reasonable likelihood that you will be determined disqualified or ineligible, your qualification or eligibility may be suspended, pending issuance of a final decision, to protect the public interest.

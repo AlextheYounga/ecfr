@@ -1,0 +1,3 @@
+##### § 1703.501 Administrative Review. #####
+
+Any person who believes a Commission action governed by this part to be contrary to the provisions of this part may file an objection in writing with the Executive Director to the Commissioners. Wherever possible, the Executive Director will respond within two working days to objections concerning decisions to close meetings or portions thereof. Responses to objections concerning matters other than closed meetings will be made within ten working days.

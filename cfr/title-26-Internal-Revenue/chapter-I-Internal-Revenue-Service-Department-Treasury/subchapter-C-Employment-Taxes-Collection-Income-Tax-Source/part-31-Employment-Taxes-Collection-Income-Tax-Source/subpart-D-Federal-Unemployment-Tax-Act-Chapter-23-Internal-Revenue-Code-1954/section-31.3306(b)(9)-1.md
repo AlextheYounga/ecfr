@@ -1,0 +1,7 @@
+##### § 31.3306(b)(9)-1 Moving expenses. #####
+
+(a) The term “wages” does not include remuneration paid on or after November 1, 1964, to or on behalf of an employee, either as an advance or a reimbursement, specifically for moving expenses incurred or expected to be incurred, if (and to the extent that) at the time of payment it is reasonable to believe that a corresponding deduction is or will be allowable to the employee under section 217. The reasonable belief contemplated by the statute may be based upon any evidence reasonably sufficient to induce such belief, even though such evidence may be insufficient upon closer examination by the district director or the courts finally to establish that a deduction is allowable under section 217. The reasonable belief shall be based upon the application of section 217 and the regulations thereunder in Part 1 of this chapter (Income Tax Regulations). When used in this section, the term “moving expenses” has the same meaning as when used in section 217 and the regulations thereunder.
+
+(b) Except as otherwise provided in paragraph (a) of this section, or in a numbered paragraph of section 3306(b), amounts paid to or on behalf of an employee for moving expenses are wages for purposes of section 3306(b).
+
+[T.D. 7375, 40 FR 42351, Sept. 12, 1975]

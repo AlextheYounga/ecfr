@@ -1,0 +1,3 @@
+##### § 1.534-1 Burden of proof as to unreasonable accumulations generally. #####
+
+For purposes of applying the presumption provided for in section 533(a) and in determining the extent of the accumulated earnings credit under section 535(c)(1), the burden of proof with respect to an allegation by the Commissioner that all or any part of the earnings and profits of the corporation have been permitted to accumulate beyond the reasonable needs of the business may vary under section 534 as between litigation in the Tax Court and that in any other court. In case of a proceeding in a court other than the Tax Court, see paragraph (b) of § 1.533-1.

@@ -1,0 +1,7 @@
+##### § 143.2 Taxes on self-dealing; scholarship and fellowship grants by private foundations. #####
+
+(a) *In general.* Section 4941(d)(1)(D) of the Internal Revenue Code of 1954 as added by section 101(b) of the Tax Reform Act of 1969 (83 Stat. 500) provides that the term “self-dealing” includes any direct or indirect payment of compensation (or payment or reimbursement of expenses) by a private foundation to a disqualified person. Section 4941(d)(1)(E) provides that the term “self-dealing” includes any direct or indirect transfer to, or use by, or for the benefit of, a disqualified person of the income or assets of a private foundation.
+
+(b) *Scholarship and fellowship grants.* A scholarship or fellowship grant to a person other than a Government official paid or incurred by a private foundation in accordance with a program which is consistent with the allowance of a deduction under section 170 for contributions made to such private foundation shall not constitute an act of self-dealing. For example, a scholarship or fellowship grant made by a private foundation in accordance with a program to award scholarship or fellowship grants to the children of employees of the donor shall not constitute an act of self-dealing if the private foundation has, after disclosure of the method of carrying out such program, received a ruling or determination letter stating that it is exempt from taxation under section 501(c)(3) and that contributions to the private foundation are deductible by the donor under section 170.
+
+[T.D. 7030, 35 FR 4293, Mar. 10, 1970]

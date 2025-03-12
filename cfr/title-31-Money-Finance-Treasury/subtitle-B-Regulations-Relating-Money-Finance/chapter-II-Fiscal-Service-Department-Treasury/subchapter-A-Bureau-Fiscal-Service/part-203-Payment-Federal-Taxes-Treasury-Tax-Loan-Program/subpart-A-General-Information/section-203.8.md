@@ -1,0 +1,3 @@
+##### § 203.8 Application of part and procedural instructions. #####
+
+The terms of this part and the procedural instructions issued pursuant to this part will be binding on financial institutions that process Federal tax payments or maintain a TT&L account, TIP main account balance, SDI account balance, or a TIO account balance under this part. By accepting or originating Federal tax payments, the financial institution agrees to be bound by this part and by procedural instructions issued pursuant to this part.

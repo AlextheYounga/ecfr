@@ -1,0 +1,5 @@
+##### § 541.313 Financial, material, or technological support; financial, material, logistical, or technical support. #####
+
+The terms *financial, material, or technological support,* and *financial, material, logistical,* or *technical support* as used in, respectively, §§ 541.201(a)(2)(ii) and 541.201(a)(3)(vii), mean any property, tangible or intangible, including but not limited to currency, financial instruments, securities, or any other transmission of value; weapons or related materiel; chemical or biological agents; explosives; false documentation or identification; communications equipment; computers; electronic or other devices or equipment; technologies; lodging; safe houses; facilities; vehicles or other means of transportation; or goods. “Technologies” as used in this definition means specific information necessary for the development, production, or use of a product, including related technical data such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, or other recorded instructions.
+
+[79 FR 39317, July 10, 2014]

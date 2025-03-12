@@ -1,0 +1,3 @@
+##### § 703.3 Scope of subject matter. #####
+
+The scope of the subject matter to be dealt with by Advisory Committees shall be those subjects of inquiry or study with which the Commission itself is authorized to investigate, pursuant to 42 U.S.C. 1975(a). Each Advisory Committee shall confine its studies to the State covered by its charter. It may, however, subject to the requirements of § 703.4, undertake to study, within the limitations of the Act, subjects other than those chosen by the Commission for study.

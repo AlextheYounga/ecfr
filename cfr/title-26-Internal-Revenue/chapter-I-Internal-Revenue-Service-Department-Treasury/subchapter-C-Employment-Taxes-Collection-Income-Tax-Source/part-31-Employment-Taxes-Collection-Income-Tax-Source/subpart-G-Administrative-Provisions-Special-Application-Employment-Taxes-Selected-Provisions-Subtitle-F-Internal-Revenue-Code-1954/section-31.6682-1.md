@@ -1,0 +1,7 @@
+##### § 31.6682-1 False information with respect to withholding. #####
+
+(a) *Civil penalty.* If any individual makes a statement under section 3402 (relating to income tax collected at source) which results in a lesser amount of income tax actually deducted and withheld than is properly allowable under section 3402 and, at the time the statement was made, there was no reasonable basis for the statement, the individual shall pay a penalty of $500 for the statement. There was a reasonable basis for a statement of the number of exemptions an individual claimed on a Form W-4, if the individual properly completed the Form W-4 by taking into account only allowable amounts for items which are allowable and by computing the number of exemptions in accordance with the instructions on the Form W-4. This penalty is in addition to any criminal penalty provided by law. This penalty may be assessed at any time after the statement is made, until the expiration of the applicable statute of limitations.
+
+(b) *Deficiency procedures not to apply.* The civil penalty imposed by section 6682 may be assessed and collected without regard to the deficiency procedures provided by Subchapter B of Chapter 63 of the Code.
+
+[T.D. 7963, 49 FR 28706, July 16, 1984]

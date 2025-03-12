@@ -1,0 +1,5 @@
+##### § 73.735-507 Acceptance of travel and subsistence. #####
+
+(a) Except as provided in paragraph (b) of this section, employees may accept accommodations, subsistence, and travel in cash or in kind in connection with official travel for attendance at meetings, conferences, training in non-Governmental facilities or for performing advisory services, if approved in accordance with the provisions of the HHS Travel Manual. (5 U.S.C. 4111; 42 U.S.C. 3506)
+
+(b) Employees may not accept accommodations, subsistence, or travel in cash or in kind in connection with official travel from a non-Governmental source with which they have official dealings unless Government or commercial travel and/or accommodations are not available. If travel and/or subsistence is accepted for official travel under these circumstances, such acceptance and the basis for it must be reported in writing to the Head of the Principal Operating Component or Assistant Secretary for Management and Budget for the Office of the Secretary.

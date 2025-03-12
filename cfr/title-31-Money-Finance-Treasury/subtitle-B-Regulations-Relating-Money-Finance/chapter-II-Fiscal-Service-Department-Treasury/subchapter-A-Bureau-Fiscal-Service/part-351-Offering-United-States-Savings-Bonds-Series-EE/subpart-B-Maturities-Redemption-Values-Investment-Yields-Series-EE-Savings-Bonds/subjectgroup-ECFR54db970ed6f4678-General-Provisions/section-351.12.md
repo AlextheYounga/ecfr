@@ -1,0 +1,3 @@
+##### § 351.12 What do I need to know about the long-term savings bond rate, to understand redemption value calculations in this subpart? #####
+
+We determine this rate by compiling 5-year Treasury securities rates as of the close of business for each day of the previous six months and calculating the monthly average for each month, rounding each monthly average to the nearest one-hundredth of one percent. We then determine the long-term savings bond rate by taking 85 percent of the 6-month average and rounding the result to the nearest one-hundredth of one percent. For bonds entitled to interest accruals at the long-term savings bond rate, that rate applies to the bond's first full semiannual interest accrual period following each announcement of the rate.

@@ -1,0 +1,3 @@
+##### § 601.3 Use of paper. #####
+
+The new distinctive paper shall be used for printing Federal Reserve Notes of the denominations prescribed by the Secretary of the Treasury. The use of the existing distinctive papers, the distinctive features of which consist of distinctive fibers, colored red and blue, incorporated in the body of the paper while in the process of manufacture and evenly distributed throughout, and the security thread containing graphics consisting of the designation “USA” and the denomination of the currency, will be continued for printing of any currency denomination prescribed by the Secretary of the Treasury.

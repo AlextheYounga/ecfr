@@ -1,0 +1,3 @@
+##### § 594.301 Blocked account; blocked property. #####
+
+The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibition in § 594.201 held in the name of a person whose property or interests in property are blocked pursuant to § 594.201(a), or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control expressly authorizing such action.

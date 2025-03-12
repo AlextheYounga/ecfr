@@ -1,0 +1,19 @@
+##### § 1.803-6 Amortization of premium and accrual of discount. #####
+
+(a) Section 803(i) provides for certain adjustments on account of amortization of premium and accrual of discount on bonds, notes, debentures, or other evidences of indebtedness held by a life insurance company. Such adjustments are limited to the amount of appropriate amortization or accrual attributable to the taxable year with respect to such securities which are not in default as to principal or interest and which are amply secured. The question of ample security will be resolved according to the rules laid down from time to time by the National Association of Insurance Commissioners. The adjustment for amortization of premium decreases, and for accrual of discount increases, (1) the gross income, (2) the deduction for wholly tax-exempt interest, and (3) the deduction for partially tax-exempt interest.
+
+(b) The premium for any such security is the excess of its acquisition value over its maturity value and the discount is the excess of its maturity value over its acquisition value. The acquisition value of any such security is its cost (including buying commissions or brokerage but excluding any amounts paid for accrued interest) if purchased for cash, or if not purchased for cash, then its fair market value. The maturity value of any such security is the amount payable thereunder either at the maturity date or an earlier call date. The earlier call date of any such security may be the earliest call date specified therein as a day certain, the earliest interest payment date if it is callable or payable at such date, the earliest date at which it is callable at par, or such other call or payment date, prior to maturity, specified in the security as may be selected by the life insurance company. A life insurance company which adjusts amortization of premium or accrual of discount with reference to a particular call or payment date must make the adjustments with reference to the value on such date and may not, after selecting such date, use a different call or payment date, or value, in the calculation of such amortization or discount with respect to such security unless the security was not in fact called or paid on such selected date.
+
+(c) The adjustments for amortization of premium and accrual of discount will be determined:
+
+(1) According to the method regularly employed by the company, if such method is reasonable, or
+
+(2) According to the method prescribed by this section.
+
+A method of amortization of premium or accrual of discount will be deemed “regularly employed” by a life insurance company if the method was consistently followed in prior taxable years, or if, in the case of a company which has never before made such adjustments, the company initiates in the first taxable year for which the adjustments are made a reasonable method of amortization of premium or accrual of discount and consistently follows such method thereafter. Ordinarily, a company regularly employs a method in accordance with the statute of some State, Territory, or the District of Columbia, in which it operates.
+
+(d) The method of amortization and accrual prescribed by this section is as follows:
+
+(1) The premium (or discount) shall be determined in accordance with this section; and
+
+(2) The appropriate amortization of premium (or accrual of discount) attributable to the taxable year shall be an amount which bears the same ratio to the premium (or discount) as the number of months in the taxable year during which the security was owned by the life insurance company bears to the number of months between the date of acquisition of the security and its maturity or earlier call date, determined in accordance with this section. For the purpose of this section, a fractional part of a month shall be disregarded unless it amounts to more than half a month, in which case it shall be considered as a month.

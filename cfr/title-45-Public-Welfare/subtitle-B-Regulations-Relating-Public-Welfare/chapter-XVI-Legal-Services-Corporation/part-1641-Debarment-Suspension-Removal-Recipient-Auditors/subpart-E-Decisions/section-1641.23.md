@@ -1,0 +1,3 @@
+##### § 1641.23 Exceptions to debarment, suspension and removal. #####
+
+Exceptions to the effects of debarment, suspension or removal may be available in unique circumstances, when there are compelling reasons to use a particular IPA for a specific task. Requests for such exceptions may be submitted only by the recipient requiring audit services. The Inspector General may except a contract from the effects of debarment, suspension or removal upon a written determination that a compelling reason exists for using the IPA in the particular instance.

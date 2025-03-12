@@ -1,0 +1,5 @@
+##### § 55.6061-1 Signing of returns and other documents. #####
+
+Any return required to be made by a real estate investment trust or a regulated investment company with respect to the tax imposed by Chapter 44 shall be signed by a person authorized by section 6062 of the Code to sign the income tax return of the real estate investment trust or the regulated investment company. Any statement or other document required to be made with respect to the tax imposed by Chapter 44 shall be signed by the person required or duly authorized to sign in accordance with the regulations, forms, or instructions prescribed with respect to such statement or document. An individual's signature on a return, statement, or other document made by or for the real estate investment trust or the regulated investment company shall be prima facie evidence that the individual is authorized to sign the return, statement, or other document.
+
+[T.D. 8180, 53 FR 6148, Mar. 1, 1988]

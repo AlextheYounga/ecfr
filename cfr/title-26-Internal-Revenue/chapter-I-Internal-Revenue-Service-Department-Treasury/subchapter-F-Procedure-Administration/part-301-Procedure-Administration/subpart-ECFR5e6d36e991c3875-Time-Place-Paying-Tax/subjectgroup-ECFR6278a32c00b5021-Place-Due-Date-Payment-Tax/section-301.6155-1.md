@@ -1,0 +1,3 @@
+##### § 301.6155-1 Payment on notice and demand. #####
+
+Upon receipt of notice and demand from the district director (including the Director of International Operations) or the director of the regional service center, there shall be paid at the place and time stated in such notice the amount of any tax (including any interest, additional amounts, additions to the tax, and assessable penalties) stated in such notice and demand.

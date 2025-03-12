@@ -1,0 +1,13 @@
+##### § 411.61 Staff reporting duties. #####
+
+(a) All care provider facility staff, volunteers, and contractors must immediately report to ORR according to ORR policies and procedures and to State or local agencies in accordance with mandatory reporting laws: any knowledge, suspicion, or information regarding an incident of sexual abuse or sexual harassment that occurred while a UC was in ORR care; retaliation against UCs or staff who reported such an incident; and any staff neglect or violation of responsibilities that may have contributed to an incident or retaliation. ORR must review and approve the care provider facility's policies and procedures and ensure that the care provider facility specifies appropriate reporting procedures.
+
+(b) Care provider facility staff members who become aware of alleged sexual abuse or sexual harassment must immediately follow reporting requirements set forth by ORR's and the care provider facility's policies and procedures.
+
+(c) Apart from such reporting, care provider facility staff must not reveal any information related to a sexual abuse or sexual harassment report to anyone within the care provider facility except to the extent necessary for medical or mental health treatment, investigations, notice to law enforcement, or other security and management decisions.
+
+(d) Care provider facility staff must report any sexual abuse and sexual harassment allegations to the designated State or local services agency under applicable mandatory reporting laws in addition to law enforcement and the State and local licensing agency.
+
+(e) Upon receiving an allegation of sexual abuse or sexual harassment that occurred while a UC was in ORR care, the care provider facility head or his or her designee must report the allegation to the alleged victim's parents or legal guardians, unless ORR has evidence showing the parents or legal guardians should not be notified or the victim does not consent to this disclosure of information and is 14 years of age or older and ORR has determined the victim is able to make an independent decision.
+
+(f) Upon receiving an allegation of sexual abuse or sexual harassment that occurred while a UC was in ORR care, ORR will share this information with the UC's attorney of record within 48 hours of learning of the allegation unless the UC does not consent to this disclosure of information and is 14 years of age or older and ORR has determined the victim is able to make an independent decision.

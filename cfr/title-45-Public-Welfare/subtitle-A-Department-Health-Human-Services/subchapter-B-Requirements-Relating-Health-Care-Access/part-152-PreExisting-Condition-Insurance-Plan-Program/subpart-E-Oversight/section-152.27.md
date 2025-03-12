@@ -1,0 +1,5 @@
+##### § 152.27 Fraud, waste, and abuse. #####
+
+(a) *Procedures.* The PCIP shall develop, implement, and execute operating procedures to prevent, detect, recover (when applicable or allowable), and promptly report to HHS incidences of waste, fraud, and abuse, and to appropriate law enforcement authorities instances of fraud. Such procedures shall include identifying situations in which enrollees or potential enrollees (or their family members) are employed, and may have, or have had, access to other coverage such as group health coverage, but were discouraged from enrolling.
+
+(b) *Cooperation.* The PCIP shall cooperate with Federal law enforcement and oversight authorities in cases involving waste, fraud and abuse, and shall report to appropriate authorities situations in which enrollment in other coverage may have been discouraged.

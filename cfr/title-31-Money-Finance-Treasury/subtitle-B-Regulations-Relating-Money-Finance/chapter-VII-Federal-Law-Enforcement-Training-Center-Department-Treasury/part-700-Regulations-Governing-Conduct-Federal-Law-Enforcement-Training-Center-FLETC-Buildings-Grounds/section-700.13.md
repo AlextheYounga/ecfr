@@ -1,0 +1,5 @@
+##### § 700.13 Nondiscrimination. #####
+
+(a) No one entering upon FLETC property shall discriminate against or harass any other person on such property, on the basis of race, color, religion, national origin, sex, sexual orientation, age, or disability, Sexual harassment is a form of sex discrimination and is expressly prohibited.
+
+(b) Appropriate action will be taken against any person who violates any discrimination prohibition contained in paragraph (a) of this section. However, this section does not create any legal rights enforceable against the Department of the Treasury, its officers, or employees, or any other person. Although this section does not create any enforceable rights, actions in violation of the section may still result in civil or criminal action in accordance with applicable laws.

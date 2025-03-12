@@ -1,0 +1,3 @@
+##### § 1206.1-10 Modification of procedures by consent. #####
+
+The responsible Corporation official or the presiding officer of a termination hearing may alter, eliminate or modify any of the provisions of this subpart with the consent of the recipient and, in the case of a termination hearing, with the consent of all agencies that have a right to participate in the hearing pursuant to § 1206.1-5(e). Such consent must be in writing or be recorded in the hearing transcript.

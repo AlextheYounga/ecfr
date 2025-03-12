@@ -1,0 +1,11 @@
+##### § 96.14 Time period for obligation and expenditure of grant funds. #####
+
+(a) *Obligations.* Amounts unobligated by the State at the end of the fiscal year in which they were first allotted shall remain available for obligation during the succeeding fiscal year for all block grants except:
+
+(1) *Primary care.* Amounts are available only if the Secretary determines that the State acted in accordance with section 1926(a)(1) of the Public Health Service Act (42 U.S.C. 300y-5(a)(1)) and there is good cause for funds remaining unobligated.
+
+(2) *Low-income home energy assistance.* Regular LIHEAP block grant funds authorized under section 2602(b) of Public Law 97-35 (42 U.S.C. 8621(b)) are available only in accordance with section 2607(b)(2)(B) of Public Law 97-35 (42 U.S.C. 8626(b)(2)(B)), as follows. From allotments for fiscal year 1982 through fiscal year 1984, a maximum of 25 percent may be held available for the next fiscal year. From allotments for fiscal year 1985 through fiscal year 1990, a maximum of 15 percent of the amount payable to a grantee and not transferred to another block grant according to section 2604(f) of Public Law 97-35 (42 U.S.C. 8623(f)) may be held available for the next fiscal year. From allotments for fiscal year 1991 through fiscal year 1993, a maximum of 10 percent of the amount payable to a grantee and not transferred to another block grant according to section 2604(f) of Public Law 97-35 (42 U.S.C. 8623(f)) may be held available for the next fiscal year. Beginning with allotments for fiscal year 1994, a maximum of 10 percent of the amount payable to a grantee may be held available for the next fiscal year. No funds may be obligated after the end of the fiscal year following the fiscal year for which they were allotted.
+
+(b) *Expenditure.* No limitations exist on the time for expenditure of block grant funds, except those imposed by statute with respect to the community services, maternal and child health services, and social services block grants.
+
+[47 FR 29486, July 6, 1982; 47 FR 43062, Sept. 30, 1982, as amended at 52 FR 37965, Oct. 13, 1987; 60 FR 21357, May 1, 1995]

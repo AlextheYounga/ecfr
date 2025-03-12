@@ -1,0 +1,5 @@
+##### § 1611.8 Change in financial eligibility status. #####
+
+(a) If, after making a determination of financial eligibility and accepting a client for service, the recipient becomes aware that a client has become financially ineligible through a change in circumstances, a recipient shall discontinue representation supported with LSC funds if the change in circumstances is sufficient, and is likely to continue, to enable the client to afford private legal assistance, and discontinuation is not inconsistent with applicable rules of professional responsibility.
+
+(b) If, after making a determination of financial eligibility and accepting a client for service, the recipient later determines that the client is financially ineligible on the basis of later discovered or disclosed information, a recipient shall discontinue representation supported with LSC funds if the discontinuation is not inconsistent with applicable rules of professional responsibility.

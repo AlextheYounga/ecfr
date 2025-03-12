@@ -1,0 +1,49 @@
+##### § 1010.520 Information sharing between government agencies and financial institutions. #####
+
+(a) *Definitions.* For purposes of this section:
+
+(1) *Financial institution* means any financial institution described in 31 U.S.C. 5312(a)(2).
+
+(2) *Law enforcement agency* means a Federal, State, local, or foreign law enforcement agency with criminal investigative authority, provided that in the case of a foreign law enforcement agency, such agency is from a jurisdiction that is a party to a treaty that provides, or in the determination of FinCEN is from a jurisdiction that otherwise allows, law enforcement agencies in the United States reciprocal access to information comparable to that obtained under this section.
+
+(b) *Information requests based on credible evidence concerning terrorist activity or money laundering*—(1) *In general.* A law enforcement agency investigating terrorist activity or money laundering may request that FinCEN solicit, on the investigating agency's behalf, certain information from a financial institution or a group of financial institutions. When submitting such a request to FinCEN, the law enforcement agency shall provide FinCEN with a written certification, in such form and manner as FinCEN may prescribe. At a minimum, such certification must: State that each individual, entity, or organization about which the law enforcement agency is seeking information is engaged in, or is reasonably suspected based on credible evidence of engaging in, terrorist activity or money laundering; include enough specific identifiers, such as date of birth, address, and social security number, that would permit a financial institution to differentiate between common or similar names; and identify one person at the agency who can be contacted with any questions relating to its request. Upon receiving the requisite certification from the requesting law enforcement agency, FinCEN may require any financial institution to search its records to determine whether the financial institution maintains or has maintained accounts for, or has engaged in transactions with, any specified individual, entity, or organization.
+
+(2) *Requests from FinCEN.* FinCEN may solicit, on its own behalf and on behalf of appropriate components of the Department of the Treasury, whether a financial institution or a group of financial institutions maintains or has maintained accounts for, or has engaged in transactions with, any specified individual, entity, or organization. Before an information request under this section is made to a financial institution, FinCEN or the appropriate Treasury component shall certify in writing in the same manner as a requesting law enforcement agency that each individual, entity or organization about which FinCEN or the appropriate Treasury component is seeking information is engaged in, or is reasonably suspected based on credible evidence of engaging in, terrorist activity or money laundering. The certification also must include enough specific identifiers, such as date of birth, address, and social security number, that would permit a financial institution to differentiate between common or similar names, and identify one person at FinCEN or the appropriate Treasury component who can be contacted with any questions relating to its request.
+
+(3) *Obligations of a financial institution receiving an information request*—(i) *Record search.* Upon receiving an information request from FinCEN under this section, a financial institution shall expeditiously search its records to determine whether it maintains or has maintained any account for, or has engaged in any transaction with, each individual, entity, or organization named in FinCEN's request. A financial institution may contact the law enforcement agency, FinCEN or requesting Treasury component representative, or U.S. law enforcement attaché in the case of a request by a foreign law enforcement agency, which has been named in the information request provided to the institution by FinCEN with any questions relating to the scope or terms of the request. Except as otherwise provided in the information request, a financial institution shall only be required to search its records for:
+
+(A) Any current account maintained for a named suspect;
+
+(B) Any account maintained for a named suspect during the preceding twelve months; and
+
+(C) Any transaction, as defined by § 1010.505(d), conducted by or on behalf of a named suspect, or any transmittal of funds conducted in which a named suspect was either the transmittor or the recipient, during the preceding six months that is required under law or regulation to be recorded by the financial institution or is recorded and maintained electronically by the institution.
+
+(ii) *Report to FinCEN.* If a financial institution identifies an account or transaction identified with any individual, entity, or organization named in a request from FinCEN, it shall report to FinCEN, in the manner and in the time frame specified in FinCEN's request, the following information:
+
+(A) The name of such individual, entity, or organization;
+
+(B) The number of each such account, or in the case of a transaction, the date and type of each such transaction; and
+
+(C) Any Social Security number, taxpayer identification number, passport number, date of birth, address, or other similar identifying information provided by the individual, entity, or organization when each such account was opened or each such transaction was conducted.
+
+(iii) *Designation of contact person.* Upon receiving an information request under this section, a financial institution shall designate one person to be the point of contact at the institution regarding the request and to receive similar requests for information from FinCEN in the future. When requested by FinCEN, a financial institution shall provide FinCEN with the name, title, mailing address, e-mail address, telephone number, and facsimile number of such person, in such manner as FinCEN may prescribe. A financial institution that has provided FinCEN with contact information must promptly notify FinCEN of any changes to such information.
+
+(iv) *Use and security of information request.* (A) A financial institution shall not use information provided by FinCEN pursuant to this section for any purpose other than:
+
+(*1*) Reporting to FinCEN as provided in this section;
+
+(*2*) Determining whether to establish or maintain an account, or to engage in a transaction; or
+
+(*3*) Assisting the financial institution in complying with any requirement of this chapter.
+
+(B)(*1*) A financial institution shall not disclose to any person, other than FinCEN or the requesting Treasury component, the law enforcement agency on whose behalf FinCEN is requesting information, or U.S. law enforcement attaché in the case of a request by a foreign law enforcement agency, which has been named in the information request, the fact that FinCEN has requested or has obtained information under this section, except to the extent necessary to comply with such an information request.
+
+(*2*) Notwithstanding paragraph (b)(3)(iv)(B)(*1*) of this section, a financial institution authorized to share information under § 1010.540 may share information concerning an individual, entity, or organization named in a request from FinCEN in accordance with the requirements of such section. However, such sharing shall not disclose the fact that FinCEN has requested information concerning such individual, entity, or organization.
+
+(C) Each financial institution shall maintain adequate procedures to protect the security and confidentiality of requests from FinCEN for information under this section. The requirements of this paragraph (b)(3)(iv)(C) shall be deemed satisfied to the extent that a financial institution applies to such information procedures that the institution has established to satisfy the requirements of section 501 of the Gramm-Leach-Bliley Act (15 U.S.C. 6801), and applicable regulations issued thereunder, with regard to the protection of its customers' nonpublic personal information.
+
+(v) *No other action required.* Nothing in this section shall be construed to require a financial institution to take any action, or to decline to take any action, with respect to an account established for, or a transaction engaged in with, an individual, entity, or organization named in a request from FinCEN, or to decline to establish an account for, or to engage in a transaction with, any such individual, entity, or organization. Except as otherwise provided in an information request under this section, such a request shall not require a financial institution to report on future account opening activity or transactions or to treat a suspect list received under this section as a government list for purposes of section 326 of Public Law 107-56.
+
+(4) *Relation to the Right to Financial Privacy Act and the Gramm-Leach-Bliley Act.* The information that a financial institution is required to report pursuant to paragraph (b)(3)(ii) of this section is information required to be reported in accordance with a Federal statute or rule promulgated thereunder, for purposes of subsection 3413(d) of the Right to Financial Privacy Act (12 U.S.C. 3413(d)) and subsection 502(e)(8) of the Gramm-Leach-Bliley Act (15 U.S.C. 6802(e)(8)).
+
+(5) *No effect on law enforcement or regulatory investigations.* Nothing in this subpart affects the authority of a Federal, State, or local law enforcement agency or officer, or FinCEN or another component of the Department of the Treasury, to obtain information directly from a financial institution.

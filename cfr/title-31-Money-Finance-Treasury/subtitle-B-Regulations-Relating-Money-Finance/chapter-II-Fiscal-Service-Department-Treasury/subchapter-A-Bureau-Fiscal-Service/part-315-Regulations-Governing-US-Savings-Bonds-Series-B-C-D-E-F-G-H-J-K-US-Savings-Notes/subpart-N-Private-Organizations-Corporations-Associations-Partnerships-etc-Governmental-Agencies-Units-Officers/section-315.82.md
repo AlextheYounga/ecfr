@@ -1,0 +1,3 @@
+##### § 315.82 Reissue or payment to successors of corporations, unincorporated associations, or partnerships. #####
+
+A bond registered in the name of a private corporation, an unincorporated associations, or a partnership which has been succeeded by another corporation, unincorporated association, or partnership by operation of law or otherwise, in any manner whereby the business or activities of the original organization are continued without substantial change, will be paid to or reissued in the name of the succeeding organization upon appropriate request on its behalf, supported by satisfactory evidence of successorship. The appropriate form should be used.

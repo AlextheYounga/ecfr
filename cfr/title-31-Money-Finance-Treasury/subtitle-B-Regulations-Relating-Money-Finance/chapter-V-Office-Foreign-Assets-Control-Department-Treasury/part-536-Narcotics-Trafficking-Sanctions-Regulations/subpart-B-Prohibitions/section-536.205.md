@@ -1,0 +1,11 @@
+##### § 536.205 Exempt transactions. #####
+
+(a) *Personal communications.* The prohibitions contained in this part do not apply to any postal, telegraphic, telephonic, or other personal communication, which does not involve the transfer of anything of value.
+
+(b) *Information and informational materials.* (1) The importation from any country and the exportation to any country of information or informational materials as defined in § 536.306, whether commercial or otherwise, regardless of format or medium of transmission, are exempt from the prohibitions and regulations of this part.
+
+(2) This section does not authorize transactions related to information and informational materials not fully created and in existence at the date of the transactions, or to the substantive or artistic alteration or enhancement of informational materials, or to the provision of marketing and business consulting services by a U.S. person. Such prohibited transactions include, without limitation, payment of advances for informational materials not yet created and completed, provision of services to market, produce or co-produce, create or assist in the creation of information and informational materials, and payment of royalties to a specially designated narcotics trafficker with respect to income received for enhancements or alterations made by U.S. persons to information or informational materials imported from a specially designated narcotics trafficker.
+
+(3) This section does not authorize transactions incident to the exportation of technology that is not informational material as defined in § 536.306(b)(1) or incident to the exportation of goods for use in the transmission of any information.
+
+(c) *Travel.* The prohibitions contained in this part do not apply to transactions ordinarily incident to travel to or from any country, including importation of accompanied baggage for personal use, maintenance within any country including payment of living expenses and acquisition of goods or services for personal use, and arrangement or facilitation of such travel including non-scheduled air, sea, or land voyages. Any transactions entered into by a specially designated narcotics trafficker while traveling in the United States that are outside the scope of those set forth in this paragraph are in violation of § 536.201.

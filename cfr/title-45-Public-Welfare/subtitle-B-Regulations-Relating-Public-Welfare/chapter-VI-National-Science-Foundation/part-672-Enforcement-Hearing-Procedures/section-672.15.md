@@ -1,0 +1,13 @@
+##### § 672.15 Evidence. #####
+
+(a) *General.* The Presiding Officer shall admit all evidence which is not irrelevant, immaterial, unduly repetitious, or otherwise unreliable or of little probative value. Notwithstanding the preceding sentence, evidence relating to settlement which would be excluded in the federal courts under Ru1e 408 of the Federal Rules of Evidence is inadmissible. In the presentation, admission, disposition, and use of evidence, the Presiding Officer shall preserve the confidentiality of trade secrets and other commercial and financial information. The confidential or trade secret status of any information shall not, however, preclude its introduction into evidence. The Presiding Officer may review such evidence in camera, and issue appropriate protective orders.
+
+(b) *Examination of witnesses.* Parties shall examine witnesses orally, under oath or affirmation, except as otherwise provided in these rules or by the Presiding Officer. Parties shall have the right to cross-examine a witness who appears at the hearing.
+
+(c) *Verified statements.* The Presiding Officer may admit into the record as evidence, in lieu of oral testimony, statements of fact or opinion prepared by a witness. The admissibility of the evidence contained in the statement shall be subject to the same rules as if the testimony were produced under oral examination. Before any such statement is read or admitted into evidence, the witness shall deliver a copy of the statement to the Presiding Officer, the reporter, and opposing counsel. The witness presenting the statement shall swear to or affirm the statement and shall be subject to appropriate oral cross-examination.
+
+(d) *Admission of affidavits where the witness is unavailable.* The Presiding Officer may admit into evidence affidavits of witnesses who are “unavailable,” within the meaning of that term under Rule 804(a) of the Federal Rules of Evidence.
+
+(e) *Exhibits.* Where practicable, an original and one copy of each exhibit shall be filed with the Presiding Officer for the record and a copy shall be furnished to each party. A true copy of any exhibit may be substituted for the original.
+
+(f) *Official notice.* Official notice may be taken of any matter judicially noticeable in the Federal courts and of other facts within the specialized knowledge and experience of the Agency. Opposing parties shall be given adequate opportunity to show that such facts are erroneously noticed.

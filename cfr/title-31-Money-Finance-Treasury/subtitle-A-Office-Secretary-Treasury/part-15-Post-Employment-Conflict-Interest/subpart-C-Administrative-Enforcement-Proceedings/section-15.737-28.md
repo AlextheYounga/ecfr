@@ -1,0 +1,5 @@
+##### § 15.737-28 Notice of disciplinary action. #####
+
+(a) Upon the issuance of a final order suspending a former officer or employee from practice before the Department or a separate statutory agency thereof, the Director shall give notice thereof to appropriate officers and employees of the Department. Officers and employees of the Department shall refuse to participate in any appearance by such former officer or employee or to accept any communication which constitutes the prohibited practice before the Department or separate statutory agency thereof during the period of suspension.
+
+(b) The Director shall take other appropriate disciplinary action as may be required by the final order.

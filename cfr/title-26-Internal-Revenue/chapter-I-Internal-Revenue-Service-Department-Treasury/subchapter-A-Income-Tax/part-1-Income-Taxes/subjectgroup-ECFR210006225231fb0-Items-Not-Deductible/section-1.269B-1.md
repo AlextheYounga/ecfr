@@ -1,0 +1,73 @@
+##### § 1.269B-1 Stapled foreign corporations. #####
+
+(a) *Treatment as a domestic corporation*—(1) *General rule.* Except as otherwise provided, if a foreign corporation is a stapled foreign corporation within the meaning of paragraph (b)(1) of this section, such foreign corporation will be treated as a domestic corporation for U.S. Federal income tax purposes. Accordingly, for example, the worldwide income of such corporation will be subject to the tax imposed by section 11. For application of the branch profits tax under section 884, and application of sections 871(a), 881, 1441, and 1442 to dividends and interest paid by a stapled foreign corporation, see §§ 1.884-1(h) and 1.884-4(d).
+
+(2) *Foreign owned exception.* Paragraph (a)(1) of this section will not apply if a foreign corporation and a domestic corporation are stapled entities (as provided in paragraph (b) of this section) and such foreign and domestic corporations are foreign owned within the meaning of this paragraph (a)(2). A corporation will be treated as foreign owned if it is established to the satisfaction of the Commissioner that United States persons hold directly (or indirectly applying section 958(a)(2) and (3) and section 318(a)(4)) less than 50 percent of the total combined voting power of all classes of stock entitled to vote and less than 50 percent of the total value of the stock of such corporation. For the consequences of a stapled foreign corporation becoming or ceasing to be foreign owned, therefore converting its status as either a foreign or domestic corporation within the meaning of this paragraph (a)(2), see paragraph (c) of this section.
+
+(b) *Definition of a stapled foreign corporation*—(1) *General rule.* A foreign corporation is a stapled foreign corporation if such foreign corporation and a domestic corporation are stapled entities. A foreign corporation and a domestic corporation are stapled entities if more than 50 percent of the aggregate value of each corporation's beneficial ownership consists of interests that are stapled. In the case of corporations with more than one class of stock, it is not necessary for a class of stock representing more than 50 percent of the beneficial ownership of the foreign corporation to be stapled to a class of stock representing more than 50 percent of the beneficial ownership of the domestic corporation, provided that more than 50 percent of the aggregate value of each corporation's beneficial ownership (taking into account all classes of stock) are in fact stapled. Interests are stapled if a transferor of one or more interests in one entity is required, by form of ownership, restrictions on transfer, or other terms or conditions, to transfer interests in the other entity. The determination of whether interests are stapled for this purpose is based on the relevant facts and circumstances, including, but not limited to, the corporations' by-laws, articles of incorporation or association, and stock certificates, shareholder agreements, agreements between the corporations, and voting trusts with respect to the corporations. For the consequences of a foreign corporation becoming or ceasing to be a stapled foreign corporation (*e.g.*, a corporation that is no longer foreign owned) under this paragraph (b)(1), see paragraph (c) of this section.
+
+(2) *Related party ownership rule.* For purposes of determining whether a foreign corporation is a stapled foreign corporation, the Commissioner may, at his discretion, treat interests that otherwise would be stapled interests as not being stapled if the same person or related persons (within the meaning of section 267(b) or 707(b)) hold stapled interests constituting more than 50 percent of the beneficial ownership of both corporations, and a principal purpose of the stapling of those interests is the avoidance of U.S. income tax. A stapling of interests may have a principal purpose of tax avoidance even though the tax avoidance purpose is outweighed by other purposes when taken together.
+
+(3) *Example.* The principles of paragraph (b)(1) of this section are illustrated by the following example:
+
+Example.USCo, a domestic corporation, and FCo, a foreign corporation, are publicly traded companies, each having two classes of stock outstanding. USCo's class A shares, which constitute 75% of the value of all beneficial ownership in USCo, are stapled to FCo's class B shares, which constitute 25% of the value of all beneficial ownership in F Co. USCo's class B shares, which constitute 25% of the value of all beneficial ownership in USCo, are stapled to FCo class A shares, which constitute 75% of the value of all beneficial ownership in FCo. Because more than 50% of the aggregate value of the stock of each corporation is stapled to the stock of the other corporation, USCo and FCo are stapled entities within the meaning of section 269B(c)(2).
+
+(c) *Changes in domestic or foreign status.* The deemed conversion of a foreign corporation to a domestic corporation under section 269B is treated as a reorganization under section 368(a)(1)(F). Similarly, the deemed conversion of a corporation that is treated as a domestic corporation under section 269B to a foreign corporation is treated as a reorganization under section 368(a)(1)(F). For the consequences of a deemed conversion, including the closing of a corporation's taxable year, see §§ 1.367(a)-1(e), (f) and 1.367(b)-2(f).
+
+(d) *Includible corporation*—(1) Except as provided in paragraph (d)(2) of this section, a stapled foreign corporation treated as a domestic corporation under section 269B nonetheless is treated as a foreign corporation in determining whether it is an includible corporation within the meaning of section 1504(b). Thus, for example, a stapled foreign corporation is not eligible to join in the filing of a consolidated return under section 1501, and a dividend paid by such corporation is not a qualifying dividend under section 243(b), unless a valid section 1504(d) election is made with respect to such corporation.
+
+(2) A stapled foreign corporation is treated as a domestic corporation in determining whether it is an includible corporation under section 1504(b) for purposes of applying §§ 1.904(i)-1 and 1.861-11T(d)(6).
+
+(e) *U.S. treaties*—(1) A stapled foreign corporation that is treated as a domestic corporation under section 269B may not claim an exemption from U.S. income tax or a reduction in U.S. tax rates by reason of any treaty entered into by the United States.
+
+(2) The principles of this paragraph (e) are illustrated by the following example:
+
+Example.FCo, a Country X corporation, is a stapled foreign corporation that is treated as a domestic corporation under section 269B. FCo qualifies as a resident of Country X pursuant to the income tax treaty between the United States and Country X. Under such treaty, the United States is permitted to tax business profits of a Country X resident only to the extent that the business profits are attributable to a permanent establishment of the Country X resident in the United States. While FCo earns income from sources within and without the United States, it does not have a permanent establishment in the United States within the meaning of the relevant treaty. Under paragraph (e)(1) of this section, however, FCo is subject to U.S. Federal income tax on its income as a domestic corporation without regard to the provisions of the U.S.-Country X treaty and therefore without regard to the fact that FCo has no permanent establishment in the United States.
+
+(f) *Tax assessment and collection procedures*—(1) *In general.* (i) Any income tax imposed on a stapled foreign corporation by reason of its treatment as a domestic corporation under section 269B (whether such income tax is shown on the stapled foreign corporation's U.S. Federal income tax return or determined as a deficiency in income tax) shall be assessed as the income tax liability of such stapled foreign corporation.
+
+(ii) Any income tax assessed as a liability of a stapled foreign corporation under paragraph (f)(1)(i) of this section shall be considered as having been properly assessed as an income tax liability of the stapled domestic corporation (as defined in paragraph (f)(4)(i) of this section) and all 10-percent shareholders of the stapled foreign corporation (as defined in paragraph (f)(4)(ii) of this section). The date of such deemed assessment shall be the date the income tax liability of the stapled foreign corporation was properly assessed. The Commissioner may collect such income tax from the stapled domestic corporation under the circumstances set forth in paragraph (f)(2) of this section and may collect such income tax from any 10-percent shareholders of the stapled foreign corporation under the circumstances set forth in paragraph (f)(3) of this section.
+
+(2) *Collection from domestic stapled corporation.* If the stapled foreign corporation does not pay its income tax liability that was properly assessed, the unpaid balance of such income tax or any portion thereof may be collected from the stapled domestic corporation, provided that the following conditions are satisfied—
+
+(i) The Commissioner has issued a notice and demand for payment of such income tax to the stapled foreign corporation in accordance with § 301.6303-1 of this Chapter;
+
+(ii) The stapled foreign corporation has failed to pay the income tax by the date specified in such notice and demand;
+
+(iii) The Commissioner has issued a notice and demand for payment of the unpaid portion of such income tax to the stapled domestic corporation in accordance with § 301.6303-1 of this Chapter.
+
+(3) *Collection from 10-percent shareholders of the stapled foreign corporation.* The unpaid balance of the stapled foreign corporation's income tax liability may be collected from a 10-percent shareholder of the stapled foreign corporation, limited to each such shareholder's income tax liability as determined under paragraph (f)(4)(iv) of this section, provided the following conditions are satisfied—
+
+(i) The Commissioner has issued a notice and demand to the stapled domestic corporation for the unpaid portion of the stapled foreign corporation's income tax liability, as provided in paragraph (f)(2)(iii) of this section;
+
+(ii) The stapled domestic corporation has failed to pay the income tax by the date specified in such notice and demand;
+
+(iii) The Commissioner has issued a notice and demand for payment of the unpaid portion of such income tax to such 10-percent shareholder of the stapled foreign corporation in accordance with § 301.6303-1 of this Chapter.
+
+(4) *Special rules and definitions.* For purposes of this paragraph (f), the following rules and definitions apply:
+
+(i) *Stapled domestic corporation.* A domestic corporation is a *stapled domestic corporation* with respect to a stapled foreign corporation if such domestic corporation and the stapled foreign corporation are stapled entities as described in paragraph (b)(1) of this section.
+
+(ii) *10-percent shareholder.* A *10-percent shareholder* of a stapled foreign corporation is any person that owned directly 10 percent or more of the total value or total combined voting power of all classes of stock in the stapled foreign corporation for any day of the stapled foreign corporation's taxable year with respect to which the income tax liability relates.
+
+(iii) *10-percent shareholder in the case of indirect ownership of stapled foreign corporation stock.* [Reserved]
+
+(iv) *Determination of a 10-percent shareholder's income tax liability.* The income tax liability of a 10-percent shareholder of a stapled foreign corporation, for the income tax of the stapled foreign corporation under section 269B and this section, is determined by assigning an equal portion of the total income tax liability of the stapled foreign corporation for the taxable year to each day in such corporation's taxable year, and then dividing that portion ratably among the shares outstanding for that day on the basis of the relative values of such shares. The liability of any 10-percent shareholder for this purpose is the sum of the income tax liability allocated to the shares held by such shareholder for each day in the taxable year.
+
+(v) *Income tax.* The term *income tax* means any income tax liability imposed on a domestic corporation under title 26 of the United States Code, including additions to tax, additional amounts, penalties, and interest related to such income tax liability.
+
+(g) *Effective dates*—(1) Except as provided in this paragraph (g), the provisions of this section are applicable for taxable years that begin after July 29, 2005.
+
+(2) Paragraphs (d)(1) and (f) of this section (except as applied to the collection of tax from any 10-percent shareholder of a stapled foreign corporation that is a foreign person) are applicable beginning on—
+
+(i) July 18, 1984, for any foreign corporation that became stapled to a domestic corporation after June 30, 1983; and
+
+(ii) January 1, 1987, for any foreign corporation that was stapled to a domestic corporation as of June 30, 1983.
+
+(3) Paragraph (d)(2) of this section is applicable for taxable years beginning after July 22, 2003, except that in the case of a foreign corporation that becomes stapled to a domestic corporation on or after July 22, 2003, paragraph (d)(2) of this section applies for taxable years ending on or after July 22, 2003.
+
+(4) Paragraph (e) of this section is applicable beginning on July 18, 1984, except as provided in paragraph (g)(5) of this section.
+
+(5) In the case of a foreign corporation that was stapled to a domestic corporation as of June 30, 1983, which was entitled to claim benefits under an income tax treaty as of that date, and which remains eligible for such treaty benefits, paragraph (e) of this section will not apply to such foreign corporation and for all purposes of the Internal Revenue Code such corporation will continue to be treated as a foreign entity. The prior sentence will continue to apply even if such treaty is subsequently modified by protocol, or superseded by a new treaty, so long as the stapled foreign corporation continues to be eligible to claim such treaty benefits. If the treaty benefits to which the stapled foreign corporation was entitled as of June 30, 1983, are terminated, then a deemed conversion of the foreign corporation to a domestic corporation shall occur pursuant to paragraph (c) of this section as of the date of such termination.
+
+[T.D. 9216, 70 FR 43758, July 29, 2005, as amended by T.D. 9739, 80 FR 56912, Sept. 21, 2015]

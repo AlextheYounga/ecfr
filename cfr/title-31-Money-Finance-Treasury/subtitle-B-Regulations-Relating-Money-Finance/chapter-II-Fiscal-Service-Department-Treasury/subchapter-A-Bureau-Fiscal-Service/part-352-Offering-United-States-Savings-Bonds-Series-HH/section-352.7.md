@@ -1,0 +1,35 @@
+##### § 352.7 Issues on exchange. #####
+
+(a) *Securities eligible for exchange.* Prior to the close of business on August 31, 2004, owners were permitted to exchange United States Savings Bonds of Series E and EE and United States Savings Notes (Freedom Shares) at their current redemption values for Series HH bonds. Series E bonds and savings notes remained eligible for exchange for a period of one year from the month in which they reached final maturity. Series EE bonds issued on January 1, 2003, or earlier, became eligible for exchange six months after their issue dates. Series EE bonds issued on February 1, 2003, or thereafter, became eligible for exchange 12 months after their issue dates.
+
+(b) *Basis for issue.* Series HH bonds were issued on exchange by an authorized issuing agent upon receipt of a properly executed exchange application with eligible securities, and additional cash, if any, and any supporting evidence that was required under the regulations. If eligible securities were submitted directly to a Federal Reserve Bank referred to in § 351.13, each was required to bear a properly signed and certified request for payment. Checks in payment of additional cash needed to complete a transaction (see paragraph (d) of this section) were required to be drawn to the order of the Federal Reserve Bank.
+
+(c) *Role of financial institutions.* Department of the Treasury Circular No. 750, current revision (31 CFR part 321), authorizes financial institutions qualified as paying agents for savings bonds and notes to redeem eligible securities presented for exchange and to forward an exchange application and full payment to a Federal Reserve Bank referred to in § 351.13 for the issue of Series HH bonds. The securities redeemed on exchange by such an institution were required to be securities that it is authorized to redeem for cash.
+
+(d) *Computation of issue price.* The total current redemption value of the eligible securities submitted for exchange in any one transaction was required to be $500 or more. If the current redemption value was an even multiple of $500, Series HH bonds were required to be issued in that exact amount. If the current redemption value exceeded, but was not an even multiple of $500, the owner had the option either:
+
+(1) To add the cash necessary to bring the amount of the application to the next higher multiple of $500, or
+
+(2) To receive a payment to reduce the amount of the application to the next lower multiple of $500.
+
+(e) *Registration.* A Series HH bond issued on exchange was permitted to be registered in any form authorized in subpart B of Circular No. 3-80, subject to the following restrictions:
+
+(1) If the securities submitted for exchange were in single ownership form, the owner was required to be named as owner or first-named coowner on the Series HH bonds. A coowner or beneficiary was permitted to be named.
+
+(2) If the securities submitted for exchange were in coownership form, and one coowner was the “principal coowner”, that person was required to be named as owner or first-named coowner on the Series HH bonds. A coowner or beneficiary was also permitted to be named. The “principal coowner” was the coowner who purchased the securities presented for exchange with his or her own funds, or received them as a gift, inheritance or legacy, or as a result of judicial proceedings, and had them reissued in coownership form, provided he or she had received no contribution in money or money's worth for designating the other coowner on the securities.
+
+(3) If the securities presented for exchange were in coownership form, and both coowners shared in their purchase or received them jointly as a gift, inheritance, or legacy or as a result of judicial proceedings, both persons were required to be named as coowners on the Series HH bonds.
+
+(4) If the securities presented for exchange were in beneficiary form, the owner was required to be named on the Series HH bonds as owner or first-named coowner. If the owner was deceased, a surviving beneficiary was required to be named as owner or first-named coowner. In either case, a coowner or beneficiary was permitted to be named.
+
+(f) *Issue date.* Series HH bonds issued on exchange were dated as of the first day of the month in which the eligible securities presented for exchange were redeemed by an authorized paying agent, as evidenced in the payment stamp on the securities and the exchange application.
+
+(g) *Tax-deferred exchanges.* (1) Continuation of tax deferral. Pursuant to the provisions of the Internal Revenue Code of 1954, as amended, an owner who had not been reporting the interest on his or her Series E or EE bonds and savings notes on an accrual basis for Federal income tax purposes, and who exchanged those securities for Series HH bonds, was permitted to continue to defer reporting the interest on the securities exchanged until the taxable year in which the Series HH bonds received in the exchange reach final maturity, are redeemed, or are otherwise disposed of, whichever is earlier. A reissue transaction that affects any of the persons required to be named on the Series HH bonds, as set forth in paragraph (e) of this section, may result in termination of the tax deferral privilege.
+
+(2) *Tax deferral legend.* Each bond issued in a tax-deferred exchange bore a legend showing how much of its issue price represented interest on the securities exchanged. This interest must be treated as income for Federal income tax purposes and reported in accordance with paragraph (g)(1) of this section.
+
+(3) *Reporting of interest paid to owner.* To the extent that it represented interest earned on the securities presented for exchange, an amount paid to an owner in accordance with paragraph (d) of this section was reportable as income for Federal income tax purposes for the year in which it was paid. Pursuant to 26 CFR 1.6049.4, a paying agent was required to report interest income of $10 or more included in any amount paid in an exchange transaction to the payee and to the Internal Revenue Service on Form 1099-INT or an approved substitute. A separate report was permitted to be made for each exchange transaction in which interest in the amount of $10 or more was paid, or all interest paid in both cash redemption and exchange transactions was permitted to be aggregated and reported annually should the total amount be $10 or more.
+
+(h) *Exchanges without tax deferral.* The rules prescribed for exchanges under paragraphs (a) through (f) of this section also applied to exchanges by owners who report the interest earned on their bonds of Series E and EE and savings notes annually for Federal income tax purposes, or elect to report all such interest that was not previously reported for the taxable year of the exchange. Series HH bonds issued in a nontax-deferred exchange were required to show a “0” in the tax-deferral legend.
+
+[69 FR 40318, July 2, 2004]

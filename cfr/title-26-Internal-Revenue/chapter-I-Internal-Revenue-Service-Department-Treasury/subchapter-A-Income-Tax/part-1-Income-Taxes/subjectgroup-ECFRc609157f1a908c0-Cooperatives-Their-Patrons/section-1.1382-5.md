@@ -1,0 +1,5 @@
+##### § 1.1382-5 Taxable income of cooperatives; products marketed under pooling arrangements. #####
+
+For purposes of section 1382(b) and § 1.1382-2, in the case of a pooling arrangement for the marketing of products the patronage under such pool shall be treated as occurring during the taxable year in which the pool closes. The determination of when a pool is closed will be made on the basis of the facts and circumstances in each case, but generally the practices and operations of the cooperative organization shall control. This section may be illustrated by the following example:
+
+Example:Farmer A delivers to the X Cooperative 100 bushels of wheat on August 15, 1963, at which time he receives a *per bushel* advance. (Both farmer A and the X Cooperative file returns on a calendar year basis.) On October 15, 1963 farmer A receives an additional *per bushel* payment. The pool sells some of its wheat in 1963 and the remainder in January of 1964. The pool is closed on February 15, 1964. For purposes of section 1382(b), A's patronage is considered as occurring in 1964.[T.D. 6643, 28 FR 3156, Apr. 2, 1963]

@@ -1,0 +1,5 @@
+##### § 332.10 Payment or redemption. #####
+
+A Series H bond became eligible for redemption at par at any time after six months from its issue date. To be redeemed, the bond must be presented and surrendered, with a duly executed request for payment, to a Federal Reserve Bank or Branch referred to in § 332.12, or the Bureau of the Fiscal Service, Parkersburg, WV 26106-1328. In any case where bonds are surrendered for redemption in the month prior to an interest payment date, redemption will not be deferred but will be made in regular course, unless the presenter specifically requests that the transaction be delayed until that date. A request to defer redemption made more than one month preceding the interest payment date will not be accepted.
+
+[57 FR 14281, Apr. 17, 1992, as amended at 59 FR 10539, Mar. 4, 1994]

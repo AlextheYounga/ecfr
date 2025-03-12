@@ -1,0 +1,3 @@
+##### § 301.7483-1 Petition for review. #####
+
+The decision of the Tax Court may be reviewed by a U.S. Court of Appeals as provided in section 7482 of the Code if a petition for such review is filed by either the Commissioner or the taxpayer within 3 months after the decision is rendered. If, however, a petition for such review is so filed by one party to the proceeding, a petition for review of the decision of the Tax Court may be filed by any other party to the proceeding within 4 months after such decision is rendered.

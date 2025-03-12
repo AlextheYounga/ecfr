@@ -1,0 +1,3 @@
+##### § 503.27 Reconsideration of opening or closing, or rescheduling a meeting. #####
+
+The time or place of a Commission meeting may be changed following the public announcement only if the Commission publicly announces such changes at the earliest practicable time. The subject matter of a meeting, or the determination of the Commission to open or close a meeting, or portion of a meeting, to the public, may be changed following the public announcement only if a majority of the Commission members determines by a recorded vote that Commission business so requires and that no earlier announcement of the changes was possible, and the Commission publicly announces the changes and the vote of each member upon the changes at the earliest practicable time.

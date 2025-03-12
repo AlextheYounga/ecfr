@@ -1,0 +1,3 @@
+##### § 281.4 Guaranty funds. #####
+
+The regulations in this part are applicable to all foreign exchange acquired by the United States under guaranty provisions of section 1011 of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1442), except that receipts of such foreign exchange shall be deposited in the foreign exchange accounts of the United States Treasury referred to in § 281.5(c).

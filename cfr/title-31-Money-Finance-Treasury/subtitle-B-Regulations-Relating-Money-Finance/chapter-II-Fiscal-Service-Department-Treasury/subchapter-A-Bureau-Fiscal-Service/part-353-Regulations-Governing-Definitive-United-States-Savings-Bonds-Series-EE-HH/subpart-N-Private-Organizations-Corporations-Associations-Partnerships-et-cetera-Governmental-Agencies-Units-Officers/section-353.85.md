@@ -1,0 +1,3 @@
+##### § 353.85 Reissue in name of trustee or agent for reinvestment purposes. #####
+
+A bond registered in the name of a religious, educational, charitable or nonprofit organization, whether or not incorporated, may be reissued in the name of a financial institution, or an individual, as trustee or agent. There must be an agreement between the organization and the trustee or agent holding funds of the organization, in whole or in part, for the purpose of investing and reinvesting the principal and paying the income to the organization. Reissue should be requested on behalf of the organization by an authorized officer using the appropriate form.

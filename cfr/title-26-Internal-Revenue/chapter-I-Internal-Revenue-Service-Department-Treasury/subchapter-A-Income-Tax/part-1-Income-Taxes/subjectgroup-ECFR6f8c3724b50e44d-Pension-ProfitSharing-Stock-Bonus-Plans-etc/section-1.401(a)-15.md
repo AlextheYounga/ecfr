@@ -1,0 +1,29 @@
+##### § 1.401(a)-15 Requirement that plan benefits are not decreased on account of certain Social Security increases. #####
+
+(a) *In general.* Under section 401(a)(15), a trust which is part of a plan to which section 411 applies (without regard to section 411(e)(2)) is not qualified under section 401 unless, under the plan of which such trust is a part:
+
+(1) *Benefit being received by participant or beneficiary.* A benefit (including a death or disability benefit) being received under the plan by a participant or beneficiary (other than a participant to whom subparagraph (2)(ii) of this paragraph applies, or a beneficiary of such a participant) is not decreased by reason of any post-separation social security benefit increase effective after the later of—
+
+(i) September 2, 1974, or
+
+(ii) The date of first receipt of any retirement benefit, death benefit, or disability benefit under the plan by the participant or by a beneficiary of the participant (whichever receipt occurs first).
+
+(2) *Benefit to which participant separated from service has nonforfeitable right.* In the case of a benefit to which a participant has a nonforfeitable right under such plan—
+
+(i) If such participant is separated from service and does not subsequently return to service and resume participation in the plan, such benefit is not decreased by reason of any post-separation social security benefit increase effective after the later of September 2, 1974, or separation from service, or
+
+(ii) If such participant is separated from service and subsequently returns to service and resumes participation in the plan, such benefit is not decreased by reason of any post-separation social security benefit increase effective after September 2, 1974, which occurs during separation from service and which would decrease such benefit to a level below the level of benefits to which he would have been entitled had he not returned to service after his separation.
+
+(b) *Post-separation social security benefit increase.* For purposes of this section, the term “post-separation social security benefit increase” means, with respect to a participant or a beneficiary of the participant, an increase in a benefit level or wage base under title II of the Social Security Act (whether such increase is a result of an amendment of such title II or is a result of the application of the provisions of such title II) occurring after the earlier of such participant's separation from service or commencement of benefits under the plan.
+
+(c) *Illustrations.* The provisions of paragraphs (a) and (b) of this section may be illustrated by the following examples:
+
+Example 1.A plan to which section 401(a)(15) applies provides an annual benefit at the normal retirement age, 65, in the form of a stated benefit formula amount less a specified percentage of the primary insurance amount payable under title II of the Social Security Act. The plan provides no early retirement benefits. In the case of a participant who separates from service before age 65 with a nonforfeitable right to a benefit under the plan, the plan defines the primary insurance amount as the amount which the participant is entitled to receive under title II of the Social Security Act at age 65, multiplied by the ratio of the number of years of service with the employer to the number of years of service the participant would have had if he had worked for the employer until age 65. The plan does not satisfy the requirements of section 401(a)(15), because social security increases that occur after a participant's separation from service will reduce the benefit the participant will receive under the plan.Example 2.A plan to which section 401(a)(15) applies provides an annual benefit at the normal retirement age, 65, in the form of a stated benefit formula amount less a specified percentage of the primary insurance amount payable under title II of the Social Security Act. The plan provides no early retirement benefits. In the case of a participant who separates from service before age 65 with a nonforfeitable right to a benefit under the plan, the plan defines the primary insurance amount as the amount which the participant is entitled to receive under title II of the Social Security Act at age 65 based upon the assumption that he will continue to receive until reaching age 65 compensation which would be treated as wages for purposes of the Social Security Act at the same rate as he received such compensation at the time he separated from service, but determined without regard to any post-separation social security benefit increase, multiplied by the ratio of the number of years of service with the employer to the number of years of service the participant would have had if he had worked for the employer until age 65. The plan satisfies the requirements of section 401(a)(15), because social security increases that occur after a participant's separation from service will not reduce the benefit the participant will receive under the plan.
+
+(d) *Other Federal or State laws.* To the extent applicable, the rules discussed in this section will govern classifications under a plan supplementing the benefits provided by other Federal or State laws, such as the Railroad Retirement Act of 1937. See section 206(b) of the Employee Retirement Income Security Act of 1974 (Public Law 93-406, 88 Stat. 864).
+
+(e) *Effect on prior law.* Nothing in this section shall be construed as amending or modifying the rules applicable to post-separation social security increases prior to September 2, 1974. See paragraph (e) of § 1.401-3.
+
+(f) *Effective date.* Section 401(a)(15) and this section shall apply to a plan only with respect to plan years to which section 411 (relating to minimum vesting standards) is applicable to the plan without regard to section 411(e)(2).
+
+[T.D. 7434, 41 FR 42650, Sept. 28, 1976]

@@ -1,0 +1,19 @@
+##### § 2505.5 What are the procedures for closing a meeting, withholding information, and responding to requests by affected persons to close a meeting? #####
+
+(a) The Board may vote to close a meeting or withhold information pertaining to a meeting. Such action may be taken only when a majority of the entire membership of the Board votes to take such action. A separate vote shall be taken with respect to each action under § 2505.4. The Board may act by taking a single vote with respect to a series of meetings which are proposed to be closed to the public, or with respect to any information concerning a series of meetings, so long as each meeting in the series involves the same particular matters and is scheduled to be held no more than thirty days after the initial meeting in the series. Each Member's vote under this paragraph shall be recorded and no proxies shall be allowed.
+
+(b) If your interests may be directly affected if a meeting is open you may request that the Board close the meeting on one of the grounds referred to in § 2505.4(e), (f), or (g). You should submit your request to the Corporation for National and Community Service, Office of the General Counsel, 250 E Street SW., Washington, DC 20525. The Board shall, upon the request of any one of its members, determine by recorded vote whether to grant your request.
+
+(c) Within one working day of any vote taken pursuant to this section, the Board shall make publicly available a written copy of such vote reflecting the vote of each Member on the question. If a meeting is to be closed to the public, the Board shall, within one working day, make available a full written explanation of its action closing the meeting and a list of all persons expected to attend the meeting and their affiliation.
+
+(d) For each closed meeting, the General Counsel shall publicly certify that, in his or her opinion, the meeting may be closed to the public and shall state each relevant exemption relied upon. A copy of the certification shall be available for public inspection.
+
+(e) For each closed meeting, the Board shall issue a statement setting forth the time, place, and persons present. A copy of such statement shall be available for public inspection.
+
+(f)(1) For each closed meeting, with the exception of a meeting closed pursuant to § 2505.4(h) or (j), the Board shall maintain a complete transcript or electronic recording adequate to record fully the proceedings of each meeting.
+
+(2) For meetings that are closed pursuant to § 2505.4(h) or (j), the Board may maintain a set of minutes in lieu of a transcript or recording. Such minutes shall fully and clearly describe all matters discussed and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of each of the views expressed on any item and the record of any vote. All documents considered in connection with any action shall be identified in such minutes.
+
+(3) The Corporation shall make promptly available to the public, in a place easily accessible to the public, the transcript, electronic recording, or minutes of the discussion of any item on the agenda, or of any item of the testimony of any witness received at the meeting, except for such item or items of such discussion or testimony as the Corporation determines to contain information which may be properly withheld. Copies of such transcript, or minutes, or a transcription of such recording disclosing the identity of each speaker, shall be furnished to any person at the actual cost of duplication or transcription. The Corporation shall maintain the transcript, recording, or minutes for each closed meeting for at least two years or at least one year after the conclusion of any Corporation business acted upon at the meeting, whichever occurs later.
+
+[64 FR 66403, Nov. 26, 1999, as amended at 81 FR 12600, Mar. 10, 2016]

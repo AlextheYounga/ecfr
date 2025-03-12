@@ -1,0 +1,15 @@
+##### § 535.221 Compliance with directive provisions. #####
+
+(a) Transfers of deposits or funds required by §§ 535.213 and 535.214 of this part shall be effected by means of wire transfer to the Federal Reserve Bank of New York for credit to the following accounts: with respect to transfers required by § 535.213, to the Federal Reserve Bank of New York, as fiscal agent of the United States, Special Deposit Account A, and with respect to transfers required by § 535.214, to the Federal Reserve Bank of New York, as fiscal agent of the United States, Special Deposit Account B.
+
+(b) Securities to be transferred as required by §§ 535.213 and 535.214 of this part that are not presently registered in the name of Iran or an Iranian entity shall be delivered to the Federal Reserve Bank of New York in fully transferable form (bearer or endorsed in blank), accompanied by all necessary transfer documentation, e.g., stock or bond powers or powers of attorney. All securities transferred, including those presently registered in the name of Iran or an Iranian entity, shall be accompanied by instructions to deposit such securities to the following accounts: with respect to transfers required by § 535.213, to the Federal Reserve Bank of New York, as fiscal agent of the United States, Special Custody Account A, and with respect to transfers required by § 535.214, to the Federal Reserve Bank of New York, as fiscal agent of the United States, Special Custody Account B.
+
+(1) Securities which are in book-entry form shall be transferred by wire transfer to the Federal Reserve Bank of New York to the appropriate account named in this paragraph.
+
+(2) Definitive securities which are in bearer or registered form shall be hand delivered or forwarded by registered mail, insured, to the Federal Reserve Bank of New York, Safekeeping Department, to the appropriate account named in this paragraph.
+
+(c) If a security in which Iran or an Iranian entity has an interest is evidenced by a depositary receipt or other evidence of a security, the legal owner of such security shall arrange to have the security placed in fully transferable form (bearer or endorsed in blank) as provided in paragraph (b) of this section, and transferred pursuant to paragraph (b)(2) of this section.
+
+(d) Any person delivering a security or securities to the Federal Reserve Bank of New York under paragraph (b) of this section, shall provide the Bank at least 2 business days prior written notice of such delivery, specifically identifying the sending person, the face or par amount and type of security, and whether the security is in bearer, registered or book-entry form.
+
+(Secs. 201-207, 91 Stat. 1626, 50 U.S.C. 1701-1706; E.O. 12170, 44 FR 65729; E.O. 12205, 45 FR 24099; E.O. 12211, 45 FR 26685; E.O. 12276, 46 FR 7913; E.O. 12279, 46 FR 7919; E.O. 12280, 46 FR 7921; E.O. 12281, 46 FR 7923; E.O. 12282, 46 FR 7925; E.O. 12283, 46 FR 7927, and E.O. 12294, 46 FR 14111)[46 FR 30341, June 8, 1981]

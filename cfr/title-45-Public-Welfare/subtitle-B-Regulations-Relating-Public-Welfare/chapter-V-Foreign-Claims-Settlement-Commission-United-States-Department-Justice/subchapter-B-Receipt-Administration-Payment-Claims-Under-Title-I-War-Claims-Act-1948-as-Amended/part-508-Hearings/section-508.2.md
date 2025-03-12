@@ -1,0 +1,3 @@
+##### § 508.2 Request for hearing. #####
+
+Within 30 days after the Commission's notice of denial of a claim, or approval for a lesser amount than claimed, has been posted by the Commission, the claimant, if a hearing is desired, must notify the Commission in writing, and must set forth in full the reasons for requesting the hearing, including any statement of law or facts upon which the claimant relies.

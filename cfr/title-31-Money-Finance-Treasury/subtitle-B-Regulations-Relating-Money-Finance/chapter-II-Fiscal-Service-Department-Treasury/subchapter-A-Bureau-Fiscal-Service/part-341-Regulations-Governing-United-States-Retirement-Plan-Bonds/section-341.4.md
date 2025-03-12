@@ -1,0 +1,3 @@
+##### § 341.4 Proof of purchase. #####
+
+At the time a Retirement Plan Bond is issued, the issuing agent will furnish therewith to the purchaser, and in cases where the purchaser is different from the person in whose name the bond is inscribed, to the registered owner as well, proof of the purchase on Form PD 3550. The form will show the names and addresses of the purchaser and of the registered owner, the latter's date of birth, social security account number and his classification (*i.e.*, self-employed individual or employee) the number of bonds issued, a description thereof by issue date, serial numbers, denominations, and registration, together with information as to the amount of his contributions (if any) toward the purchase price of the bonds.

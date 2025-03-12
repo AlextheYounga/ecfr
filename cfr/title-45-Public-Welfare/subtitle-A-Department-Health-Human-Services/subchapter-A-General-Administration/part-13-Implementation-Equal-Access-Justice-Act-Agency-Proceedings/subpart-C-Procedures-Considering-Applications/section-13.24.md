@@ -1,0 +1,3 @@
+##### § 13.24 Settlements. #####
+
+The applicant and the agency's litigating party may agree on a proposed settlement of the award at any time prior to final action on the application. If the parties agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement. All settlements must be approved by the adjudicative officer and the head of the agency or office or his or her designee before becoming final.

@@ -1,0 +1,3 @@
+##### § 1.30 Application to system of records maintained by Government contractors. #####
+
+When a component contracts for the operation of a system of records, to accomplish a Departmental function, the provisions of the Privacy Act, 5 U.S.C. 552a, and this subpart shall be applicable to such system. The component shall have responsibility for insuring that the contractor complies with the contract requirements relating to privacy.

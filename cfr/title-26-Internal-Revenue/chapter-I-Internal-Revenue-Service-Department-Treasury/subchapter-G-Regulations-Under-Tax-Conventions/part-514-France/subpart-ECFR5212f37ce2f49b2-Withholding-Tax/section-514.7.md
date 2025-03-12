@@ -1,0 +1,7 @@
+##### § 514.7 Beneficiaries of a domestic estate or trust. #####
+
+(a) *Entitled to benefits of convention.* If he otherwise satisfies the requirements of the respective articles concerned, a nonresident alien individual who is a resident of France and who is a beneficiary of a domestic estate or trust shall be entitled to the reduction in the rate of, or exemption from, United States tax granted by Articles 6A and 7 of the convention with respect to dividends, interest, and patent royalties and other like amounts to the extent that (1) any amount paid, credited, or required to be distributed by such estate or trust to such beneficiary is deemed to consist of such items, and (2) such items would, without regard to the convention, be includible in his gross income.
+
+(b) *Withholding of United States tax.* In order to be entitled, because of the application of paragraph (a) of this section, to the reduction in rate of, or exemption from, withholding of United States tax the beneficiary must otherwise satisfy the requirements of the respective articles concerned, and shall, where applicable, execute and submit to the fiduciary of the estate or trust in the United States the appropriate form or forms prescribed in §§ 514.4(b) and 514.6(b).
+
+(c) *Amounts otherwise includible in gross income of beneficiary.* For the determination of amounts which, without regard to the convention, are includible in the gross income of the beneficiary, see subchapter J of chapter 1 of the Internal Revenue Code of 1954, and the regulations thereunder.

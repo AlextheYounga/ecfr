@@ -1,0 +1,3 @@
+##### § 401.2 Custody. #####
+
+Each vessel, vehicle, or aircraft seized pursuant to the said act of August 9, 1939, and the regulations in this part shall forthwith be placed by the seizing officer in the custody of the District Director of Customs for the customs district in which such seizure is made. Such placing in custody shall be effected by immediate notification of the appropriate District Director of Customs of the seizure, together with a statement of the facts including a description of the vessel, vehicle, or aircraft, and the holding by the seizing officer of such vessel, vehicle, or aircraft subject to the instructions of the said district director of customs.

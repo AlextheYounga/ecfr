@@ -1,0 +1,3 @@
+##### § 363.99 What is the minimum amount of a bond that I may transfer or deliver as a gift in any one transaction? #####
+
+You may transfer or deliver gift bonds in any one-cent increment value equal to or greater than $25.00 redemption value. For example, you may deliver a gift bond with a redemption value of $25.00, $25.01, $25.02, and so forth. If the bond was held in your account prior to delivery to the recipient for a period of time and has accrued interest, the delivery will include principal and proportionate interest.

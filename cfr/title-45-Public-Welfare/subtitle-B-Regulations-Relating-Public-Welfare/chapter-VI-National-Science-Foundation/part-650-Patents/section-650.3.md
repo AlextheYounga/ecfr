@@ -1,0 +1,9 @@
+##### § 650.3 Source of authority. #####
+
+(a) 35 U.S.C. 200-212, commonly called the Bayh-Dole Act, as amended by title V of Public Law 98-620 (98 stat. 3335, 3364). That law controls the allocation of rights to inventions made by employees of small business firms and domestic nonprofit organizations, including universities, during federally-supported experimentation, research, or development. Government-wide implementing regulations are contained in part 401 of title 37 of the Code of Federal Regulations.
+
+(b) Section 11(e) of the National Science Foundation Act of 1950, as amended, (42 U.S.C. 1870(e)) provides that the Foundation shall have the authority to do all things necessary to carry out the provisions of this Act, including, but without being limited thereto, the authority—to acquire by purchase, lease, loan, gift, or condemnation, and to hold and dispose of by grant, sale, lease, or loan, real and personal property of all kinds necessary for, or resulting from, the exercise of authority granted by this Act.
+
+(c) Section 12 of the NSF Act (42 U.S.C. 1871) provides that each contract or other arrangement executed pursuant to this Act which relates to scientific research shall contain provisions governing the disposition of inventions produced thereunder in a manner calculated to protect the public interest and the equities of the individual or organization with which the contract or other arrangement is executed.
+
+(d) The Presidential Memorandum entitled “Government Patent Policy” issued February 18, 1983, directs Federal agencies, to the extent permitted by law, to apply to all research performers the policies of the Bayh-Dole Act. Under the provisions of the National Science Foundation Act quoted above, the Foundation is permitted to apply the Bayh-Dole policies without restriction.

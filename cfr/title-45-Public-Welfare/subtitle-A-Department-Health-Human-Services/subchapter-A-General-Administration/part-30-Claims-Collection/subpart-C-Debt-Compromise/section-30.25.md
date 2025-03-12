@@ -1,0 +1,3 @@
+##### § 30.25 Further review of compromise offers. #####
+
+If the Secretary is uncertain whether to accept a firm, written, substantive compromise offer on a debt that is within the Secretary's delegated compromise authority, the Secretary may refer the offer to the Civil Division or other appropriate litigating division in Justice, using a CCLR accompanied by supporting data and particulars concerning the debt. Justice may act upon such an offer or return it to the Secretary with instructions or advice.

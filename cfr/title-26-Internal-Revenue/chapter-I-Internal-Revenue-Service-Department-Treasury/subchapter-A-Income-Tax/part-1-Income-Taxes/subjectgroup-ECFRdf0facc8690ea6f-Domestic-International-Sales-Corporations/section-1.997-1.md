@@ -1,0 +1,7 @@
+##### § 1.997-1 Special rules for subchapter C of the Code. #####
+
+(a) For purposes of applying the provisions of sections 301 through 395 of the Code, any distribution in property to a corporation by a DISC, or former DISC, which is made out of previously taxed income or accumulated DISC income shall be treated as a distribution in the same amount as if such distribution of property were made to an individual, and have a basis, in the hands of the recipient corporation, equal to such amount treated as having been distributed.
+
+(b) This section may be illustrated by the following example:
+
+Example.X Corporation is the sole shareholder of Y Corporation which is a DISC. Y makes an actual distribution of property to X with respect to X's stock in Y. The property has a basis of $50 and a fair market value of $100. The distribution is treated as made out of accumulated DISC income under section 996(a) and is taxable as a dividend under section 301(c)(1). Even though X is a corporation, the amount of the distribution is $100 notwithstanding the provisions of section 301(b)(1)(B) and the basis the property in X's hands is $100 notwithstanding the provisions of section 301(d)(2).[T.D. 7324, 39 FR 35125, Sept. 30 1974]

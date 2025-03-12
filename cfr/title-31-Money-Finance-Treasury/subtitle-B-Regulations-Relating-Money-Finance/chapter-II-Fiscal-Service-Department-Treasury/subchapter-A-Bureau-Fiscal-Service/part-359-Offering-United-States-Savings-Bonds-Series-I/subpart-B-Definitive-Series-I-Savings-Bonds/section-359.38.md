@@ -1,0 +1,3 @@
+##### § 359.38 How is payment made when definitive Series I savings bonds are redeemed? #####
+
+A financial institution qualified as a paying agent under the provisions of part 321 will pay the current redemption value of a definitive Series I bond presented for payment. The bond must meet the requirements for payment specified in part 360. You must establish your identity and entitlement to redemption to the satisfaction of the agent, in accordance with our instructions and identification guidelines, and must sign and complete the request for payment.

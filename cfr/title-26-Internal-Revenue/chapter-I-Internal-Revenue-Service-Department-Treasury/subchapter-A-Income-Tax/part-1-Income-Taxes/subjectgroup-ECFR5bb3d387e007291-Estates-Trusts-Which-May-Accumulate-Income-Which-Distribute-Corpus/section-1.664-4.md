@@ -1,0 +1,1267 @@
+##### § 1.664-4 Calculation of the fair market value of the remainder interest in a charitable remainder unitrust. #####
+
+(a) *Rules for determining present value.* For purposes of sections 170, 2055, 2106, and 2522, the fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) is its present value determined under paragraph (d) of this section. The present value determined under this section shall be computed on the basis of—
+
+(1) Life contingencies determined as to each life involved, from the values of *lx* set forth in Table 2000CM contained in § 20.2031-7(d)(7) of this chapter in the case of transfers for which the valuation date is on or after May 1, 2009; or from Table 90CM contained in § 20.2031-7A(f)(4) in the case of transfers for which the valuation date is after April 30, 1999, and before May 1, 2009. See § 20.2031-7A(a) through (e), whichever is applicable, for transfers for which the valuation date is before May 1, 1999;
+
+(2) Interest at the section 7520 rate in the case of transfers for which the valuation date is after April 30, 1989, or 10 percent in the case of transfers to charitable remainder unitrusts made after November 30, 1983, for which the valuation date is before May 1, 1989. See § 20.2031-7A (a) through (c) of this chapter, whichever is applicable, for transfers for which the valuation date is before December 1, 1983; and
+
+(3) The assumption that the amount described in § 1.664-3(a)(1)(*i*)(*a*) is distributed in accordance with the payout sequence described in the governing instrument. If the governing instrument does not prescribe when the distribution is made during the period for which the payment is made, for purposes of this section, the distribution is considered payable on the first day of the period for which the payment is made.
+
+(b) *Actuarial Computations by the Internal Revenue Service.* The regulations in this and in related sections provide tables of actuarial factors and examples that illustrate the use of the tables in determining the value of remainder interests in property. Section 1.7520-1(c)(2) refers to government publications that provide additional tables of factors and examples of computations for more complex situations. If the computation requires the use of a factor that is not provided in this section, the Commissioner may supply the factor upon a request for a ruling. A request for a ruling must be accompanied by a recitation of the facts including the date of birth of each measuring life, and copies of the relevant documents. A request for a ruling must comply with the instructions for requesting a ruling published periodically in the Internal Revenue Bulletin (See § 601.601(d)(2)(ii)(*b*) of this chapter) and include payment of the required user fee. If the Commissioner furnishes the factor, a copy of the letter supplying the factor should be attached to the tax return in which the deduction is claimed. If the Commissioner does not furnish the factor, the taxpayer must furnish a factor computed in accordance with the principles set forth in this section.
+
+(c) *Statement supporting deduction required.* Any claim for a deduction on any return for the value of a remainder interest in a charitable remainder unitrust must be supported by a full statement attached to the return showing the computation of the present value of such interest.
+
+(d) *Valuation.* The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is on or after May 1, 2009, is its present value determined under paragraph (e) of this section. The fair market value of a remainder interest in a charitable remainder unitrust (as described in § 1.664-3) for transfers for which the valuation date is before May 1, 2009, is its present value determined under the following sections:
+
+|Valuation dates|Applicable regulations|           |
+|---------------|----------------------|-----------|
+|     After     |        Before        |           |
+|       —       |       01-01-52       |1.664-4A(a)|
+|   12-31-51    |       01-01-71       |1.664-4A(b)|
+|   12-31-70    |       12-01-83       |1.664-4A(c)|
+|   11-30-83    |       05-01-89       |1.664-4A(d)|
+|   04-30-89    |       05-01-99       |1.664-4A(e)|
+|   04-30-99    |       05-01-09       |1.664-4A(f)|
+
+(e) *Valuation of charitable remainder unitrusts having certain payout sequences for transfers for which the valuation date is on or after May 1, 2009*—(1) *In general.* Except as otherwise provided in paragraph (e)(2) of this section, in the case of transfers for which the valuation date is on or after May 1, 2009, the present value of a remainder interest is determined under paragraphs (e)(3) through (e)(7) of this section, provided that the amount of the payout as of any payout date during any taxable year of the trust is not larger than the amount that the trust could distribute on such date under § 1.664-3(a)(1)(v) if the taxable year of the trust were to end on such date. See, however, § 1.7520-3(b) (relating to exceptions to the use of the prescribed tables under certain circumstances).
+
+(2) *Transitional rules for valuation of charitable remainder unitrusts.* (i) For purposes of sections 2055, 2106, or 2624, if on May 1, 2009, the decedent was mentally incompetent so that the disposition of the property could not be changed, and the decedent died on or after May 1, 2009, without having regained competency to dispose of the decedent's property, or the decedent died within 90 days of the date that the decedent first regained competency on or after May 1, 2009, the present value of a remainder interest under this section is determined as if the valuation date with respect to the decedent's gross estate is either before or after May 1, 2009, at the option of the decedent's executor.
+
+(ii) For purposes of sections 170, 2055, 2106, 2522, or 2624, in the case of transfers to a charitable remainder unitrust for which the valuation date is on or after May 1, 2009, and before July 1, 2009, the present value of a remainder interest based on one or more measuring lives is determined under this section by use of the section 7520 interest rate for the month in which the valuation date occurs (see §§ 1.7520-1(b) and 1.7520-2(a)(2)) and the appropriate actuarial tables under either paragraph (e)(7) of this section or § 1.664-4A(f)(6), at the option of the donor or the decedent's executor, as the case may be.
+
+(iii) For purposes of paragraphs (e)(2)(i) and (e)(2)(ii) of this section, where the donor or decedent's executor is given the option to use the appropriate actuarial tables under either paragraph (e)(7) of this section or § 1.664-4A(f)(6), the donor or decedent's executor must use the same actuarial table with respect to each individual transaction and with respect to all transfers occurring on the valuation date (for example, gift and income tax charitable deductions with respect to the same transfer must be determined based on the same tables, and all assets includible in the gross estate and/or estate tax deductions claimed must be valued based on the same tables).
+
+(3) *Adjusted payout rate.* For transfers for which the valuation date is after April 30, 1989, the adjusted payout rate is determined by using the appropriate Table F in paragraph (e)(6) of this section, for the section 7520 interest rate applicable to the transfer. If the interest rate is between 4.2 and 14 percent, see paragraph (e)(6) of this section. If the interest rate is below 4.2 percent or greater than 14 percent, see paragraph (b) of this section. The adjusted payout rate is determined by multiplying the fixed percentage described in § 1.664-3(a)(1)(i)(*a*) by the factor describing the payout sequence of the trust and the number of months by which the valuation date for the first full taxable year of the trust precedes the first payout date for such taxable year. If the governing instrument does not prescribe when the distribution or distributions shall be made during the taxable year of the trust, see paragraph (a) of this section. In the case of a trust having a payout sequence for which no figures have been provided by the appropriate table, and in the case of a trust that determines the fair market value of the trust assets by taking the average of valuations on more than one date during the taxable year, see paragraph (b) of this section.
+
+(4) *Period is a term of years.* If the period described in § 1.664-3(a)(5) is a term of years, the factor that is used in determining the present value of the remainder interest for transfers for which the valuation date is after November 30, 1983, is the factor under the appropriate adjusted payout rate in Table D of paragraph (e)(6) of this section corresponding to the number of years in the term. If the adjusted payout rate is an amount that is between adjusted payout rates for which factors are provided in Table D, a linear interpolation must be made. The present value of the remainder interest is determined by multiplying the net fair market value (as of the appropriate valuation date) of the property placed in trust by the factor determined under this paragraph. For purposes of this section, the valuation date is, in the case of an inter vivos transfer, the date on which the property is transferred to the trust by the donor. However, if an election is made under section 7520 and § 1.7520-2(b) to compute the present value of the charitable interest by use of the interest rate component for either of the 2 months preceding the month in which the date of transfer falls, the month so elected is the valuation date for purposes of determining the interest rate and mortality tables. In the case of a testamentary transfer under section 2055, 2106, or 2624, the valuation date is the date of death, unless the alternate valuation date is elected under section 2032, in which event, and within the limitations set forth in section 2032 and the regulations thereunder, the valuation date is the alternate valuation date. If the decedent's estate elects the alternate valuation date under section 2032 and also elects, under section 7520 and § 1.7520-2(b), to use the interest rate component for one of the 2 months preceding the alternate valuation date, the month so elected is the valuation date for purposes of determining the interest rate and mortality tables. The application of this paragraph (e)(4) may be illustrated by the following example:
+
+Example.D transfers $100,000 to a charitable remainder unitrust on January 1. The trust instrument requires that the trust pay 8 percent of the fair market value of the trust assets as of January 1st for a term of 12 years to D in quarterly payments (March 31, June 30, September 30, and December 31). The section 7520 rate for January (the month that the transfer occurred) is 9.6 percent. Under Table F(9.6) in paragraph (e)(6) of this section, the appropriate adjustment factor is .944628 for quarterly payments payable at the end of each quarter. The adjusted payout rate is 7.557 (8% × .944628). Based on the remainder factors in Table D in paragraph (e)(6) of this section, the present value of the remainder interest is $38,950.30, computed as follows:
+
+|Factor at 7.4 percent for 12 years|.397495|
+|:---------------------------------|------:|
+|Factor at 7.6 percent for 12 years|.387314|
+|            Difference            |.010181|
+
+Interpolation adjustment:![](/graphics/er12jn00.002.gif)
+
+|Factor at 7.4 percent for 12 years|.397495|
+|:---------------------------------|------:|
+|  Less: Interpolation adjustment  |.007992|
+|       Interpolated factor        |.389503|
+
+Present value of remainder interest:($100,000 × .389503)..........$38,950.30
+
+(5) *Period is the life of one individual.* (i) If the period described in § 1.664-3(a)(5) is the life of one individual, the factor that is used in determining the present value of the remainder interest for transfers for which the valuation date is on or after May 1, 2009, is the factor in Table U(1) in paragraph (e)(7) of this section under the appropriate adjusted payout. For purposes of the computations described in this paragraph (e)(5), the age of an individual is the age of that individual at the individual's nearest birthday. If the adjusted payout rate is an amount that is between adjusted payout rates for which factors are provided in the appropriate table, a linear interpolation must be made. The present value of the remainder interest is determined by multiplying the net fair market value (as of the valuation date as determined in paragraph (e)(4) of this section) of the property placed in trust by the factor determined under this paragraph (e)(5). If the adjusted payout rate is between 4.2 and 14 percent, see paragraph (e)(7) of this section. If the adjusted payout rate is below 4.2 percent or greater than 14 percent, see paragraph (b) of this section.
+
+(ii) The application of paragraph (e)(5)(i) of this section may be illustrated by the following example:
+
+Example.A, who is 44 years and 11 months old, transfers $100,000 to a charitable remainder unitrust on January 1st. The trust instrument requires that the trust pay to A semiannually (on June 30 and December 31) 8 percent of the fair market value of the trust assets as of January 1st during A's life. The section 7520 rate for January is 6.6 percent. Under Table F(6.6) in paragraph (e)(6) of this section, the appropriate adjustment factor is .953317 for semiannual payments payable at the end of the semiannual period. The adjusted payout rate is 7.627% (8% × .953317). Based on the remainder factors in Table U(1) in this section, the present value of the remainder interest is $11,075.00, computed as follows:![](/graphics/er10au11.023.gif)
+
+(6) *Actuarial Table D and F (4.2 through 14.0) for transfers for which the valuation date is after April 30, 1989.* For transfers for which the valuation date is after April 30, 1989, the present value of a charitable remainder unitrust interest that is dependent upon a term of years is determined by using the section 7520 rate and the tables in this paragraph (e)(6). For transfers for which the valuation date is on or after May 1, 2009, where the present value of a charitable remainder unitrust interest is dependent on the termination of a life interest, see Paragraph (e)(5) of this section. See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances). Many actuarial factors not contained in the following tables are contained in Internal Revenue Service Publication 1458, “Actuarial Valuations Version 3B” (2009). This publication will be available beginning May 1, 2009, at no charge, electronically via the IRS Internet site at *http://www.irs.gov.*
+
+Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
+
+[Applicable after April 30, 1989]
+
+|Years|Adjusted payout rate|       |       |       |       |       |       |       |       |       |
+|-----|--------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|4.2% |        4.4%        | 4.6%  | 4.8%  | 5.0%  | 5.2%  | 5.4%  | 5.6%  | 5.8%  | 6.0%  |       |
+|  1  |      .958000       |.956000|.954000|.952000|.950000|.948000|.946000|.944000|.942000|.940000|
+|  2  |      .917764       |.913936|.910116|.906304|.902500|.898704|.894916|.891136|.887364|.883600|
+|  3  |      .879218       |.873723|.868251|.862801|.857375|.851971|.846591|.841232|.835897|.830584|
+|  4  |      .842291       |.835279|.828311|.821387|.814506|.807669|.800875|.794123|.787415|.780749|
+|  5  |      .806915       |.798527|.790209|.781960|.773781|.765670|.757627|.749652|.741745|.733904|
+|  6  |      .773024       |.763392|.753859|.744426|.735092|.725855|.716716|.707672|.698724|.689870|
+|  7  |      .740557       |.729802|.719182|.708694|.698337|.688111|.678013|.668042|.658198|.648478|
+|  8  |      .709454       |.697691|.686099|.674677|.663420|.652329|.641400|.630632|.620022|.609569|
+|  9  |      .679657       |.666993|.654539|.642292|.630249|.618408|.606765|.595317|.584061|.572995|
+| 10  |      .651111       |.637645|.624430|.611462|.598737|.586251|.573999|.561979|.550185|.538615|
+| 11  |      .623764       |.609589|.595706|.582112|.568800|.555766|.543003|.530508|.518275|.506298|
+| 12  |      .597566       |.582767|.568304|.554170|.540360|.526866|.513681|.500800|.488215|.475920|
+| 13  |      .572469       |.557125|.542162|.527570|.513342|.499469|.485942|.472755|.459898|.447365|
+| 14  |      .548425       |.532611|.517222|.502247|.487675|.473496|.459701|.446281|.433224|.420523|
+| 15  |      .525391       |.509177|.493430|.478139|.463291|.448875|.434878|.421289|.408097|.395292|
+| 16  |      .503325       |.486773|.470732|.455188|.440127|.425533|.411394|.397697|.384427|.371574|
+| 17  |      .482185       |.465355|.449079|.433339|.418120|.403405|.389179|.375426|.362131|.349280|
+| 18  |      .461933       |.444879|.428421|.412539|.397214|.382428|.368163|.354402|.341127|.328323|
+| 19  |      .442532       |.425304|.408714|.392737|.377354|.362542|.348282|.334555|.321342|.308624|
+| 20  |      .423946       |.406591|.389913|.373886|.358486|.343690|.329475|.315820|.302704|.290106|
+
+Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
+
+[Applicable after April 30, 1989]
+
+|Years|Adjusted payout rate|       |       |       |       |       |       |       |       |       |
+|-----|--------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|6.2% |        6.4%        | 6.6%  | 6.8%  | 7.0%  | 7.2%  | 7.4%  | 7.6%  | 7.8%  | 8.0%  |       |
+|  1  |      .938000       |.936000|.934000|.932000|.930000|.928000|.926000|.924000|.922000|.920000|
+|  2  |      .879844       |.876096|.872356|.868624|.864900|.861184|.857476|.853776|.850084|.846400|
+|  3  |      .825294       |.820026|.814781|.809558|.804357|.799179|.794023|.788889|.783777|.778688|
+|  4  |      .774125       |.767544|.761005|.754508|.748052|.741638|.735265|.728933|.722643|.716393|
+|  5  |      .726130       |.718421|.710779|.703201|.695688|.688240|.680855|.673535|.666277|.659082|
+|  6  |      .681110       |.672442|.663867|.655383|.646990|.638687|.630472|.622346|.614307|.606355|
+|  7  |      .638881       |.629406|.620052|.610817|.601701|.592701|.583817|.575048|.566391|.557847|
+|  8  |      .599270       |.589124|.579129|.569282|.559582|.550027|.540615|.531344|.522213|.513219|
+|  9  |      .562115       |.551420|.540906|.530571|.520411|.510425|.500609|.490962|.481480|.472161|
+| 10  |      .527264       |.516129|.505206|.494492|.483982|.473674|.463564|.453649|.443925|.434388|
+| 11  |      .494574       |.483097|.471863|.460866|.450104|.439570|.429260|.419171|.409298|.399637|
+| 12  |      .463910       |.452179|.440720|.429527|.418596|.407921|.397495|.387314|.377373|.367666|
+| 13  |      .435148       |.423239|.411632|.400320|.389295|.378550|.368081|.357879|.347938|.338253|
+| 14  |      .408169       |.396152|.384465|.373098|.362044|.351295|.340843|.330680|.320799|.311193|
+| 15  |      .382862       |.370798|.359090|.347727|.336701|.326002|.315620|.305548|.295777|.286297|
+| 16  |      .359125       |.347067|.335390|.324082|.313132|.302529|.292264|.282326|.272706|.263394|
+| 17  |      .336859       |.324855|.313254|.302044|.291213|.280747|.270637|.260870|.251435|.242322|
+| 18  |      .315974       |.304064|.292579|.281505|.270828|.260533|.250610|.241044|.231823|.222936|
+| 19  |      .296383       |.284604|.273269|.262363|.251870|.241775|.232065|.222724|.213741|.205101|
+| 20  |      .278008       |.266389|.255233|.244522|.234239|.224367|.214892|.205797|.197069|.188693|
+
+Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
+
+[Applicable after April 30, 1989]
+
+|Years|Adjusted payout rate|       |       |       |       |       |       |       |       |       |
+|-----|--------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|8.2% |        8.4%        | 8.6%  | 8.8%  | 9.0%  | 9.2%  | 9.4%  | 9.6%  | 9.8%  | 10.0% |       |
+|  1  |      .918000       |.916000|.914000|.912000|.910000|.908000|.906000|.904000|.902000|.900000|
+|  2  |      .842724       |.839056|.835396|.831744|.828100|.824464|.820836|.817216|.813604|.810000|
+|  3  |      .773621       |.768575|.763552|.758551|.753571|.748613|.743677|.738763|.733871|.729000|
+|  4  |      .710184       |.704015|.697886|.691798|.685750|.679741|.673772|.667842|.661951|.656100|
+|  5  |      .651949       |.644878|.637868|.630920|.624032|.617205|.610437|.603729|.597080|.590490|
+|  6  |      .598489       |.590708|.583012|.575399|.567869|.560422|.553056|.545771|.538566|.531441|
+|  7  |      .549413       |.541089|.532873|.524764|.516761|.508863|.501069|.493377|.485787|.478297|
+|  8  |      .504361       |.495637|.487046|.478585|.470253|.462048|.453968|.446013|.438180|.430467|
+|  9  |      .463003       |.454004|.445160|.436469|.427930|.419539|.411295|.403196|.395238|.387420|
+| 10  |      .425037       |.415867|.406876|.398060|.389416|.380942|.372634|.364489|.356505|.348678|
+| 11  |      .390184       |.380934|.371885|.363031|.354369|.345895|.337606|.329498|.321567|.313811|
+| 12  |      .358189       |.348936|.339902|.331084|.322475|.314073|.305871|.297866|.290054|.282430|
+| 13  |      .328817       |.319625|.310671|.301949|.293453|.285178|.277119|.269271|.261628|.254187|
+| 14  |      .301854       |.292777|.283953|.275377|.267042|.258942|.251070|.243421|.235989|.228768|
+| 15  |      .277102       |.268184|.259533|.251144|.243008|.235119|.227469|.220053|.212862|.205891|
+| 16  |      .254380       |.245656|.237213|.229043|.221137|.213488|.206087|.198928|.192001|.185302|
+| 17  |      .233521       |.225021|.216813|.208887|.201235|.193847|.186715|.179830|.173185|.166772|
+| 18  |      .214372       |.206119|.198167|.190505|.183124|.176013|.169164|.162567|.156213|.150095|
+| 19  |      .196794       |.188805|.181125|.173741|.166643|.159820|.153262|.146960|.140904|.135085|
+| 20  |      .180657       |.172946|.165548|.158452|.151645|.145117|.138856|.132852|.127096|.121577|
+
+Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
+
+[Applicable after April 30, 1989]
+
+|Years|Adjusted payout rate|       |       |       |       |       |       |       |       |       |
+|-----|--------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|10.2%|       10.4%        | 10.6% | 10.8% | 11.0% | 11.2% | 11.4% | 11.6% | 11.8% | 12.0% |       |
+|  1  |      .898000       |.896000|.894000|.892000|.890000|.888000|.886000|.884000|.882000|.880000|
+|  2  |      .806404       |.802816|.799236|.795664|.792100|.788544|.784996|.781456|.777924|.774400|
+|  3  |      .724151       |.719323|.714517|.709732|.704969|.700227|.695506|.690807|.686129|.681472|
+|  4  |      .650287       |.644514|.638778|.633081|.627422|.621802|.616219|.610673|.605166|.599695|
+|  5  |      .583958       |.577484|.571068|.564708|.558406|.552160|.545970|.539835|.533756|.527732|
+|  6  |      .524394       |.517426|.510535|.503720|.496981|.490318|.483729|.477214|.470773|.464404|
+|  7  |      .470906       |.463613|.456418|.449318|.442313|.435402|.428584|.421858|.415222|.408676|
+|  8  |      .422874       |.415398|.408038|.400792|.393659|.386637|.379726|.372922|.366226|.359635|
+|  9  |      .379741       |.372196|.364786|.357506|.350356|.343334|.336437|.329663|.323011|.316478|
+| 10  |      .341007       |.333488|.326118|.318896|.311817|.304881|.298083|.291422|.284896|.278501|
+| 11  |      .306224       |.298805|.291550|.284455|.277517|.270734|.264102|.257617|.251278|.245081|
+| 12  |      .274989       |.267729|.260645|.253734|.246990|.240412|.233994|.227734|.221627|.215671|
+| 13  |      .246941       |.239886|.233017|.226331|.219821|.213486|.207319|.201317|.195475|.189791|
+| 14  |      .221753       |.214937|.208317|.201887|.195641|.189575|.183684|.177964|.172409|.167016|
+| 15  |      .199134       |.192584|.186236|.180083|.174121|.168343|.162744|.157320|.152065|.146974|
+| 16  |      .178822       |.172555|.166495|.160634|.154967|.149488|.144191|.139071|.134121|.129337|
+| 17  |      .160582       |.154609|.148846|.143286|.137921|.132746|.127754|.122939|.118295|.113817|
+| 18  |      .144203       |.138530|.133069|.127811|.122750|.117878|.113190|.108678|.104336|.100159|
+| 19  |      .129494       |.124123|.118963|.114007|.109247|.104676|.100286|.096071|.092024|.088140|
+| 20  |      .116286       |.111214|.106353|.101694|.097230|.092952|.088853|.084927|.081166|.077563|
+
+Table D—Showing the Present Worth of a Remainder Interest Postponed for a Term Certain in a Charitable Remainder Unitrust
+
+[Applicable after April 30, 1989]
+
+|Years|Adjusted payout rate|       |       |       |       |       |       |       |       |       |
+|-----|--------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+|12.2%|       12.4%        | 12.6% | 12.8% | 13.0% | 13.2% | 13.4% | 13.6% | 13.8% | 14.0% |       |
+|  1  |      .878000       |.876000|.874000|.872000|.870000|.868000|.866000|.864000|.862000|.860000|
+|  2  |      .770884       |.767376|.763876|.760384|.756900|.753424|.749956|.746496|.743044|.739600|
+|  3  |      .676836       |.672221|.667628|.663055|.658503|.653972|.649462|.644973|.640504|.636056|
+|  4  |      .594262       |.588866|.583507|.578184|.572898|.567648|.562434|.557256|.552114|.547008|
+|  5  |      .521762       |.515847|.509985|.504176|.498421|.492718|.487068|.481469|.475923|.470427|
+|  6  |      .458107       |.451882|.445727|.439642|.433626|.427679|.421801|.415990|.410245|.404567|
+|  7  |      .402218       |.395848|.389565|.383368|.377255|.371226|.365279|.359415|.353631|.347928|
+|  8  |      .353147       |.346763|.340480|.334297|.328212|.322224|.316332|.310535|.304830|.299218|
+|  9  |      .310063       |.303764|.297579|.291507|.285544|.279690|.273944|.268302|.262764|.257327|
+| 10  |      .272236       |.266098|.260084|.254194|.248423|.242771|.237235|.231813|.226502|.221302|
+| 11  |      .239023       |.233102|.227314|.221657|.216128|.210725|.205446|.200286|.195245|.190319|
+| 12  |      .209862       |.204197|.198672|.193285|.188032|.182910|.177916|.173047|.168301|.163675|
+| 13  |      .184259       |.178877|.173640|.168544|.163588|.158766|.154075|.149513|.145076|.140760|
+| 14  |      .161779       |.156696|.151761|.146971|.142321|.137809|.133429|.129179|.125055|.121054|
+| 15  |      .142042       |.137266|.132639|.128158|.123819|.119618|.115550|.111611|.107798|.104106|
+| 16  |      .124713       |.120245|.115927|.111754|.107723|.103828|.100066|.096432|.092922|.089531|
+| 17  |      .109498       |.105334|.101320|.097450|.093719|.090123|.086657|.083317|.080098|.076997|
+| 18  |      .096139       |.092273|.088554|.084976|.081535|.078227|.075045|.071986|.069045|.066217|
+| 19  |      .084410       |.080831|.077396|.074099|.070936|.067901|.064989|.062196|.059517|.056947|
+| 20  |      .074112       |.070808|.067644|.064614|.061714|.058938|.056280|.053737|.051303|.048974|
+
+Table F(4.2)—With Interest at 4.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .989820     |    .984755     |   .981389    |
+|                                                             1                                                             |                          2                         |   .996577   |     .986432     |    .981385     |   .978030    |
+|                                                             2                                                             |                          3                         |   .993166   |     .983056     |    .978026     |              |
+|                                                             3                                                             |                          4                         |   .989767   |     .979691     |    .974679     |              |
+|                                                             4                                                             |                          5                         |   .986380   |     .976338     |                |              |
+|                                                             5                                                             |                          6                         |   .983004   |     .972996     |                |              |
+|                                                             6                                                             |                          7                         |   .979639   |     .969666     |                |              |
+|                                                             7                                                             |                          8                         |   .976286   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .972945   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .969615   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .966296   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .962989   |                 |                |              |
+|                                                            12                                                             |                                                    |   .959693   |                 |                |              |
+
+Table F(4.4)—With Interest at 4.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .989350     |    .984054     |   .980533    |
+|                                                             1                                                             |                          2                         |   .996418   |     .985806     |    .980529     |   .977021    |
+|                                                             2                                                             |                          3                         |   .992849   |     .982275     |    .977017     |              |
+|                                                             3                                                             |                          4                         |   .989293   |     .978757     |    .973517     |              |
+|                                                             4                                                             |                          5                         |   .985749   |     .975251     |                |              |
+|                                                             5                                                             |                          6                         |   .982219   |     .971758     |                |              |
+|                                                             6                                                             |                          7                         |   .978700   |     .968277     |                |              |
+|                                                             7                                                             |                          8                         |   .975195   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .971702   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .968221   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .964753   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .961298   |                 |                |              |
+|                                                            12                                                             |                                                    |   .957854   |                 |                |              |
+
+Table F(4.6)—With Interest at 4.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .988882     |    .983354     |   .979680    |
+|                                                             1                                                             |                          2                         |   .996259   |     .985183     |    .979676     |   .976015    |
+|                                                             2                                                             |                          3                         |   .992532   |     .981498     |    .976011     |              |
+|                                                             3                                                             |                          4                         |   .988820   |     .977826     |    .972360     |              |
+|                                                             4                                                             |                          5                         |   .985121   |     .974168     |                |              |
+|                                                             5                                                             |                          6                         |   .981436   |     .970524     |                |              |
+|                                                             6                                                             |                          7                         |   .977764   |     .966894     |                |              |
+|                                                             7                                                             |                          8                         |   .974107   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .970463   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .966832   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .963216   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .959613   |                 |                |              |
+|                                                            12                                                             |                                                    |   .956023   |                 |                |              |
+
+Table F(4.8)—With Interest at 4.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .988415     |    .982657     |   .978830    |
+|                                                             1                                                             |                          2                         |   .996101   |     .984561     |    .978825     |   .975013    |
+|                                                             2                                                             |                          3                         |   .992217   |     .980722     |    .975008     |              |
+|                                                             3                                                             |                          4                         |   .988348   |     .976898     |    .971206     |              |
+|                                                             4                                                             |                          5                         |   .984494   |     .973089     |                |              |
+|                                                             5                                                             |                          6                         |   .980655   |     .969294     |                |              |
+|                                                             6                                                             |                          7                         |   .976831   |     .965515     |                |              |
+|                                                             7                                                             |                          8                         |   .973022   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .969228   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .965448   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .961684   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .957934   |                 |                |              |
+|                                                            12                                                             |                                                    |   .954198   |                 |                |              |
+
+Table F(5.0)—With Interest at 5.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .987950     |    .981961     |   .977982    |
+|                                                             1                                                             |                          2                         |   .995942   |     .983941     |    .977977     |   .974014    |
+|                                                             2                                                             |                          3                         |   .991901   |     .979949     |    .974009     |              |
+|                                                             3                                                             |                          4                         |   .987877   |     .975973     |    .970057     |              |
+|                                                             4                                                             |                          5                         |   .983868   |     .972013     |                |              |
+|                                                             5                                                             |                          6                         |   .979876   |     .968069     |                |              |
+|                                                             6                                                             |                          7                         |   .975900   |     .964141     |                |              |
+|                                                             7                                                             |                          8                         |   .971940   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .967997   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .964069   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .960157   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .956261   |                 |                |              |
+|                                                            12                                                             |                                                    |   .952381   |                 |                |              |
+
+Table F(5.2)—With Interest at 5.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .987486     |    .981268     |   .977137    |
+|                                                             1                                                             |                          2                         |   .995784   |     .983323     |    .977132     |   .973018    |
+|                                                             2                                                             |                          3                         |   .991587   |     .979178     |    .973012     |              |
+|                                                             3                                                             |                          4                         |   .987407   |     .975050     |    .968911     |              |
+|                                                             4                                                             |                          5                         |   .983244   |     .970940     |                |              |
+|                                                             5                                                             |                          6                         |   .979099   |     .966847     |                |              |
+|                                                             6                                                             |                          7                         |   .974972   |     .962771     |                |              |
+|                                                             7                                                             |                          8                         |   .970862   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .966769   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .962694   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .958636   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .954594   |                 |                |              |
+|                                                            12                                                             |                                                    |   .950570   |                 |                |              |
+
+Table F(5.4)—With Interest at 5.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .987023     |    .980577     |   .976295    |
+|                                                             1                                                             |                          2                         |   .995627   |     .982707     |    .976289     |   .972026    |
+|                                                             2                                                             |                          3                         |   .991273   |     .978409     |    .972019     |              |
+|                                                             3                                                             |                          4                         |   .986938   |     .974131     |    .967769     |              |
+|                                                             4                                                             |                          5                         |   .982622   |     .969871     |                |              |
+|                                                             5                                                             |                          6                         |   .978325   |     .965629     |                |              |
+|                                                             6                                                             |                          7                         |   .974047   |     .961407     |                |              |
+|                                                             7                                                             |                          8                         |   .969787   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .965546   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .961323   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .957119   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .952934   |                 |                |              |
+|                                                            12                                                             |                                                    |   .948767   |                 |                |              |
+
+Table F(5.6)—With Interest at 5.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .986562     |    .979888     |   .975455    |
+|                                                             1                                                             |                          2                         |   .995470   |     .982092     |    .975449     |   .971036    |
+|                                                             2                                                             |                          3                         |   .990960   |     .977643     |    .971029     |              |
+|                                                             3                                                             |                          4                         |   .986470   |     .973214     |    .966630     |              |
+|                                                             4                                                             |                          5                         |   .982001   |     .968805     |                |              |
+|                                                             5                                                             |                          6                         |   .977552   |     .964416     |                |              |
+|                                                             6                                                             |                          7                         |   .973124   |     .960047     |                |              |
+|                                                             7                                                             |                          8                         |   .968715   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .964326   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .959958   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .955609   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .951279   |                 |                |              |
+|                                                            12                                                             |                                                    |   .946970   |                 |                |              |
+
+Table F(5.8)—With Interest at 5.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .986102     |    .979201     |   .974618    |
+|                                                             1                                                             |                          2                         |   .995313   |     .981480     |    .974611     |   .970050    |
+|                                                             2                                                             |                          3                         |   .990647   |     .976879     |    .970043     |              |
+|                                                             3                                                             |                          4                         |   .986004   |     .972300     |    .965496     |              |
+|                                                             4                                                             |                          5                         |   .981382   |     .967743     |                |              |
+|                                                             5                                                             |                          6                         |   .976782   |     .963206     |                |              |
+|                                                             6                                                             |                          7                         |   .972203   |     .958692     |                |              |
+|                                                             7                                                             |                          8                         |   .967646   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .963111   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .958596   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .954103   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .949631   |                 |                |              |
+|                                                            12                                                             |                                                    |   .945180   |                 |                |              |
+
+Table F(6.0)—With Interest at 6.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .985643     |    .978516     |   .973784    |
+|                                                             1                                                             |                          2                         |   .995156   |     .980869     |    .973776     |   .969067    |
+|                                                             2                                                             |                          3                         |   .990336   |     .976117     |    .969059     |              |
+|                                                             3                                                             |                          4                         |   .985538   |     .971389     |    .964365     |              |
+|                                                             4                                                             |                          5                         |   .980764   |     .966684     |                |              |
+|                                                             5                                                             |                          6                         |   .976014   |     .962001     |                |              |
+|                                                             6                                                             |                          7                         |   .971286   |     .957341     |                |              |
+|                                                             7                                                             |                          8                         |   .966581   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .961899   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .957239   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .952603   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .947988   |                 |                |              |
+|                                                            12                                                             |                                                    |   .943396   |                 |                |              |
+
+Table F(6.2)—With Interest at 6.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .985185     |    .977833     |   .972952    |
+|                                                             1                                                             |                          2                         |   .995000   |     .980259     |    .972944     |   .968087    |
+|                                                             2                                                             |                          3                         |   .990024   |     .975358     |    .968079     |              |
+|                                                             3                                                             |                          4                         |   .985074   |     .970481     |    .963238     |              |
+|                                                             4                                                             |                          5                         |   .980148   |     .965628     |                |              |
+|                                                             5                                                             |                          6                         |   .975247   |     .960799     |                |              |
+|                                                             6                                                             |                          7                         |   .970371   |     .955995     |                |              |
+|                                                             7                                                             |                          8                         |   .965519   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .960691   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .955887   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .951107   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .946352   |                 |                |              |
+|                                                            12                                                             |                                                    |   .941620   |                 |                |              |
+
+Table F(6.4)—With Interest at 6.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .984729     |    .977152     |   .972122    |
+|                                                             1                                                             |                          2                         |   .994844   |     .979652     |    .972114     |   .967110    |
+|                                                             2                                                             |                          3                         |   .989714   |     .974600     |    .967101     |              |
+|                                                             3                                                             |                          4                         |   .984611   |     .969575     |    .962115     |              |
+|                                                             4                                                             |                          5                         |   .979534   |     .964576     |                |              |
+|                                                             5                                                             |                          6                         |   .974483   |     .959602     |                |              |
+|                                                             6                                                             |                          7                         |   .969458   |     .954654     |                |              |
+|                                                             7                                                             |                          8                         |   .964460   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .959487   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .954539   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .949617   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .944721   |                 |                |              |
+|                                                            12                                                             |                                                    |   .939850   |                 |                |              |
+
+Table F(6.6)—With Interest at 6.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .984274     |    .976473     |   .971295    |
+|                                                             1                                                             |                          2                         |   .994688   |     .979046     |    .971286     |   .966136    |
+|                                                             2                                                             |                          3                         |   .989404   |     .973845     |    .966127     |              |
+|                                                             3                                                             |                          4                         |   .984149   |     .968672     |    .960995     |              |
+|                                                             4                                                             |                          5                         |   .978921   |     .963527     |                |              |
+|                                                             5                                                             |                          6                         |   .973721   |     .958408     |                |              |
+|                                                             6                                                             |                          7                         |   .968549   |     .953317     |                |              |
+|                                                             7                                                             |                          8                         |   .963404   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .958286   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .953196   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .948132   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .943096   |                 |                |              |
+|                                                            12                                                             |                                                    |   .938086   |                 |                |              |
+
+Table F(6.8)—With Interest at 6.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .983821     |    .975796     |   .970471    |
+|                                                             1                                                             |                          2                         |   .994533   |     .978442     |    .970461     |   .965165    |
+|                                                             2                                                             |                          3                         |   .989095   |     .973092     |    .965156     |              |
+|                                                             3                                                             |                          4                         |   .983688   |     .967772     |    .959879     |              |
+|                                                             4                                                             |                          5                         |   .978309   |     .962481     |                |              |
+|                                                             5                                                             |                          6                         |   .972961   |     .957219     |                |              |
+|                                                             6                                                             |                          7                         |   .967641   |     .951985     |                |              |
+|                                                             7                                                             |                          8                         |   .962351   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .957089   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .951857   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .946653   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .941477   |                 |                |              |
+|                                                            12                                                             |                                                    |   .936330   |                 |                |              |
+
+Table F(7.0)—With Interest at 7.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .983368     |    .975122     |   .969649    |
+|                                                             1                                                             |                          2                         |   .994378   |     .977839     |    .969639     |   .964198    |
+|                                                             2                                                             |                          3                         |   .988787   |     .972342     |    .964187     |              |
+|                                                             3                                                             |                          4                         |   .983228   |     .966875     |    .958766     |              |
+|                                                             4                                                             |                          5                         |   .977700   |     .961439     |                |              |
+|                                                             5                                                             |                          6                         |   .972203   |     .956033     |                |              |
+|                                                             6                                                             |                          7                         |   .966736   |     .950658     |                |              |
+|                                                             7                                                             |                          8                         |   .961301   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .955896   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .950522   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .945178   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .939864   |                 |                |              |
+|                                                            12                                                             |                                                    |   .934579   |                 |                |              |
+
+Table F(7.2)—With Interest at 7.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .982917     |    .974449     |   .968830    |
+|                                                             1                                                             |                          2                         |   .994223   |     .977239     |    .968819     |   .963233    |
+|                                                             2                                                             |                          3                         |   .988479   |     .971593     |    .963222     |              |
+|                                                             3                                                             |                          4                         |   .982769   |     .965980     |    .957658     |              |
+|                                                             4                                                             |                          5                         |   .977091   |     .960400     |                |              |
+|                                                             5                                                             |                          6                         |   .971446   |     .954851     |                |              |
+|                                                             6                                                             |                          7                         |   .965834   |     .949335     |                |              |
+|                                                             7                                                             |                          8                         |   .960255   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .954707   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .949192   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .943708   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .938256   |                 |                |              |
+|                                                            12                                                             |                                                    |   .932836   |                 |                |              |
+
+Table F(7.4)—With Interest at 7.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .982467     |    .973778     |   .968013    |
+|                                                             1                                                             |                          2                         |   .994068   |     .976640     |    .968002     |   .962271    |
+|                                                             2                                                             |                          3                         |   .988172   |     .970847     |    .962260     |              |
+|                                                             3                                                             |                          4                         |   .982311   |     .965088     |    .956552     |              |
+|                                                             4                                                             |                          5                         |   .976484   |     .959364     |                |              |
+|                                                             5                                                             |                          6                         |   .970692   |     .953673     |                |              |
+|                                                             6                                                             |                          7                         |   .964935   |     .948017     |                |              |
+|                                                             7                                                             |                          8                         |   .959211   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .953521   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .947866   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .942243   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .936654   |                 |                |              |
+|                                                            12                                                             |                                                    |   .931099   |                 |                |              |
+
+Table F(7.6)—With Interest at 7.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .982019     |    .973109     |   .967199    |
+|                                                             1                                                             |                          2                         |   .993914   |     .976042     |    .967187     |   .961313    |
+|                                                             2                                                             |                          3                         |   .987866   |     .970103     |    .961301     |              |
+|                                                             3                                                             |                          4                         |   .981854   |     .964199     |    .955451     |              |
+|                                                             4                                                             |                          5                         |   .975879   |     .958331     |                |              |
+|                                                             5                                                             |                          6                         |   .969940   |     .952499     |                |              |
+|                                                             6                                                             |                          7                         |   .964037   |     .946703     |                |              |
+|                                                             7                                                             |                          8                         |   .958171   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .952340   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .946544   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .940784   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .935058   |                 |                |              |
+|                                                            12                                                             |                                                    |   .929368   |                 |                |              |
+
+Table F(7.8)—With Interest at 7.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.0000000  |     .981571     |    .972442     |   .966387    |
+|                                                             1                                                             |                          2                         |   .993761   |     .975447     |    .966374     |   .960357    |
+|                                                             2                                                             |                          3                         |   .987560   |     .969361     |    .960345     |              |
+|                                                             3                                                             |                          4                         |   .981398   |     .963312     |    .954353     |              |
+|                                                             4                                                             |                          5                         |   .975275   |     .957302     |                |              |
+|                                                             5                                                             |                          6                         |   .969190   |     .951329     |                |              |
+|                                                             6                                                             |                          7                         |   .963143   |     .945393     |                |              |
+|                                                             7                                                             |                          8                         |   .957133   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .951161   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .945227   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .939329   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .933468   |                 |                |              |
+|                                                            12                                                             |                                                    |   .927644   |                 |                |              |
+
+Table F(8.0)—With Interest at 8.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .981125     |    .971777     |   .965578    |
+|                                                             1                                                             |                          2                         |   .993607   |     .974853     |    .965564     |   .959405    |
+|                                                             2                                                             |                          3                         |   .987255   |     .968621     |    .959392     |              |
+|                                                             3                                                             |                          4                         |    980944   |     .962429     |    .953258     |              |
+|                                                             4                                                             |                          5                         |   .974673   |     .956276     |                |              |
+|                                                             5                                                             |                          6                         |   .968442   |     .950162     |                |              |
+|                                                             6                                                             |                          7                         |   .962250   |     .944088     |                |              |
+|                                                             7                                                             |                          8                         |   .956099   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .949987   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .943913   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .937879   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .931883   |                 |                |              |
+|                                                            12                                                             |                                                    |   .925926   |                 |                |              |
+
+Table F(8.2)—With Interest at 8.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .980680     |    .971114     |   .964771    |
+|                                                             1                                                             |                          2                         |   .993454   |     .974261     |    .964757     |   .958455    |
+|                                                             2                                                             |                          3                         |   .986951   |     .967883     |    .958441     |              |
+|                                                             3                                                             |                          4                         |   .980490   |     .961547     |    .952167     |              |
+|                                                             4                                                             |                          5                         |   .974072   |     .955253     |                |              |
+|                                                             5                                                             |                          6                         |   .967695   |     .949000     |                |              |
+|                                                             6                                                             |                          7                         |   .961361   |     .942788     |                |              |
+|                                                             7                                                             |                          8                         |   .955068   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .948816   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .942605   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .936434   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .930304   |                 |                |              |
+|                                                            12                                                             |                                                    |   .924214   |                 |                |              |
+
+Table F(8.2)—With Interest at 8.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .980237     |    .970453     |   .963966    |
+|                                                             1                                                             |                          2                         |   .993301   |     .973670     |    .963952     |   .957509    |
+|                                                             2                                                             |                          3                         |   .986647   |     .967148     |    .957494     |              |
+|                                                             3                                                             |                          4                         |   .980037   |     .960669     |    .951080     |              |
+|                                                             4                                                             |                          5                         |   .973472   |     .954233     |                |              |
+|                                                             5                                                             |                          6                         |   .966951   |     .947841     |                |              |
+|                                                             6                                                             |                          7                         |   .960473   |     .941491     |                |              |
+|                                                             7                                                             |                          8                         |   .954039   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .947648   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .941300   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .934994   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .928731   |                 |                |              |
+|                                                            12                                                             |                                                    |   .922509   |                 |                |              |
+
+Table F(8.6)—With Interest at 8.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .979794     |    .969794     |   .963164    |
+|                                                             1                                                             |                          2                         |   .993148   |     .973081     |    .963149     |   .956565    |
+|                                                             2                                                             |                          3                         |   .986344   |     .966414     |    .956550     |              |
+|                                                             3                                                             |                          4                         |   .979586   |     .959793     |    .949996     |              |
+|                                                             4                                                             |                          5                         |   .972874   |     .953217     |                |              |
+|                                                             5                                                             |                          6                         |   .966209   |     .946686     |                |              |
+|                                                             6                                                             |                          7                         |   .959589   |     .940199     |                |              |
+|                                                             7                                                             |                          8                         |   .953014   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .946484   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .940000   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .933559   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .927163   |                 |                |              |
+|                                                            12                                                             |                                                    |   .920810   |                 |                |              |
+
+Table F(8.8)—With Interest at 8.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .979353     |    .969136     |   .962364    |
+|                                                             1                                                             |                          2                         |   .992996   |     .972494     |    .962349     |   .955624    |
+|                                                             2                                                             |                          3                         |   .986041   |     .965683     |    .955609     |              |
+|                                                             3                                                             |                          4                         |   .979135   |     .958919     |    .948916     |              |
+|                                                             4                                                             |                          5                         |   .972278   |     .952203     |                |              |
+|                                                             5                                                             |                          6                         |   .965468   |     .945534     |                |              |
+|                                                             6                                                             |                          7                         |   .958706   |     .938912     |                |              |
+|                                                             7                                                             |                          8                         |   .951992   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .945324   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .938703   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .932129   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .925600   |                 |                |              |
+|                                                            12                                                             |                                                    |   .919118   |                 |                |              |
+
+Table F(9.0)—With Interest at 9.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .978913     |    .968481     |   .961567    |
+|                                                             1                                                             |                          2                         |   .992844   |     .971908     |    .961551     |   .954686    |
+|                                                             2                                                             |                          3                         |   .985740   |     .964954     |    .954670     |              |
+|                                                             3                                                             |                          4                         |   .978686   |     .958049     |    .947839     |              |
+|                                                             4                                                             |                          5                         |   .971683   |     .951193     |                |              |
+|                                                             5                                                             |                          6                         |   .964730   |     .944387     |                |              |
+|                                                             6                                                             |                          7                         |   .957826   |     .937629     |                |              |
+|                                                             7                                                             |                          8                         |   .950972   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .944167   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .937411   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .930703   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .924043   |                 |                |              |
+|                                                            12                                                             |                                                    |   .917431   |                 |                |              |
+
+Table F(9.2)—With Interest at 9.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .978474     |    .967827     |   .960772    |
+|                                                             1                                                             |                          2                         |   .992693   |     .971324     |    .960755     |   .953752    |
+|                                                             2                                                             |                          3                         |   .985439   |     .964226     |    .953734     |              |
+|                                                             3                                                             |                          4                         |   .978238   |     .957180     |    .946765     |              |
+|                                                             4                                                             |                          5                         |   .971089   |     .950186     |                |              |
+|                                                             5                                                             |                          6                         |   .963993   |     .943242     |                |              |
+|                                                             6                                                             |                          7                         |   .956949   |     .936350     |                |              |
+|                                                             7                                                             |                          8                         |   .949956   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .943014   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .936123   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .929283   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .922492   |                 |                |              |
+|                                                            12                                                             |                                                    |   .915751   |                 |                |              |
+
+Table F(9.4)—With Interest at 9.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .978037     |    .967176     |   .959980    |
+|                                                             1                                                             |                          2                         |   .992541   |     .970742     |    .959962     |   .952820    |
+|                                                             2                                                             |                          3                         |   .985138   |     .963501     |    .952802     |              |
+|                                                             3                                                             |                          4                         |   .977790   |     .956315     |    .945695     |              |
+|                                                             4                                                             |                          5                         |   .970497   |     .949182     |                |              |
+|                                                             5                                                             |                          6                         |   .963258   |     .942102     |                |              |
+|                                                             6                                                             |                          7                         |   .956074   |     .935075     |                |              |
+|                                                             7                                                             |                          8                         |   .948942   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .941865   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .934839   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .927867   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .920946   |                 |                |              |
+|                                                            12                                                             |                                                    |   .914077   |                 |                |              |
+
+Table F(9.6)—With Interest at 9.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .977600     |    .966526     |   .959190    |
+|                                                             1                                                             |                          2                         |   .992390   |     .970161     |    .959171     |   .951890    |
+|                                                             2                                                             |                          3                         |   .984838   |     .962778     |    .951872     |              |
+|                                                             3                                                             |                          4                         |   .977344   |     .955452     |    .944628     |              |
+|                                                             4                                                             |                          5                         |   .969906   |     .948181     |                |              |
+|                                                             5                                                             |                          6                         |   .962526   |     .940965     |                |              |
+|                                                             6                                                             |                          7                         |   .955201   |     .933805     |                |              |
+|                                                             7                                                             |                          8                         |   .947932   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .940718   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .933560   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .926455   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .919405   |                 |                |              |
+|                                                            12                                                             |                                                    |   .912409   |                 |                |              |
+
+Table F(9.8)—With Interest at 9.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .977165     |    .965878     |   .958402    |
+|                                                             1                                                             |                          2                         |   .992239   |     .969582     |    .958382     |   .950964    |
+|                                                             2                                                             |                          3                         |   .984539   |     .962057     |    .950945     |              |
+|                                                             3                                                             |                          4                         |   .976898   |     .954591     |    .943565     |              |
+|                                                             4                                                             |                          5                         |   .969317   |     .947183     |                |              |
+|                                                             5                                                             |                          6                         |   .961795   |     .939832     |                |              |
+|                                                             6                                                             |                          7                         |   .954331   |     .932539     |                |              |
+|                                                             7                                                             |                          8                         |   .946924   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .939576   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .932284   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .925049   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .917870   |                 |                |              |
+|                                                            12                                                             |                                                    |   .910747   |                 |                |              |
+
+Table F(10.0)—With Interest at 10.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .976731     |    .965232     |   .957616    |
+|                                                             1                                                             |                          2                         |   .992089   |     .969004     |    .957596     |   .950041    |
+|                                                             2                                                             |                          3                         |   .984240   |     .961338     |    .950021     |              |
+|                                                             3                                                             |                          4                         |   .976454   |     .953733     |    .942505     |              |
+|                                                             4                                                             |                          5                         |   .968729   |     .946188     |                |              |
+|                                                             5                                                             |                          6                         |   .961066   |     .938703     |                |              |
+|                                                             6                                                             |                          7                         |   .953463   |     .931277     |                |              |
+|                                                             7                                                             |                          8                         |   .945920   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .938436   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .931012   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .923647   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .916340   |                 |                |              |
+|                                                            12                                                             |                                                    |   .909091   |                 |                |              |
+
+Table F(10.2)—With Interest at 10.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .976298     |    .964588     |   .956833    |
+|                                                             1                                                             |                          2                         |   .991939   |     .968428     |    .956812     |   .949120    |
+|                                                             2                                                             |                          3                         |   .983943   |     .960622     |    .949099     |              |
+|                                                             3                                                             |                          4                         |   .976011   |     .952878     |    .941448     |              |
+|                                                             4                                                             |                          5                         |   .968143   |     .945196     |                |              |
+|                                                             5                                                             |                          6                         |   .960338   |     .937577     |                |              |
+|                                                             6                                                             |                          7                         |   .952597   |     .930019     |                |              |
+|                                                             7                                                             |                          8                         |   .944918   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .937301   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .929745   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .922250   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .914816   |                 |                |              |
+|                                                            12                                                             |                                                    |   .907441   |                 |                |              |
+
+Table F(10.4)—With Interest at 10.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .975867     |    .963946     |   .956052    |
+|                                                             1                                                             |                          2                         |   .991789   |     .967854     |    .956031     |   .948202    |
+|                                                             2                                                             |                          3                         |   .983645   |     .959907     |    .948181     |              |
+|                                                             3                                                             |                          4                         |   .975568   |     .952025     |    .940395     |              |
+|                                                             4                                                             |                          5                         |   .967558   |     .944208     |                |              |
+|                                                             5                                                             |                          6                         |   .959613   |     .936455     |                |              |
+|                                                             6                                                             |                          7                         |   .951734   |     .928765     |                |              |
+|                                                             7                                                             |                          8                         |   .943919   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .936168   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .928481   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .920858   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .913296   |                 |                |              |
+|                                                            12                                                             |                                                    |   .905797   |                 |                |              |
+
+Table F(10.6)—With Interest at 10.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .975436     |    .963305     |   .955274    |
+|                                                             1                                                             |                          2                         |   .991639   |     .967281     |    .955252     |   .947287    |
+|                                                             2                                                             |                          3                         |   .983349   |     .959194     |    .947265     |              |
+|                                                             3                                                             |                          4                         |   .975127   |     .951174     |    .939345     |              |
+|                                                             4                                                             |                          5                         |   .966974   |     .943222     |                |              |
+|                                                             5                                                             |                          6                         |   .958890   |     .935336     |                |              |
+|                                                             6                                                             |                          7                         |   .950873   |     .927516     |                |              |
+|                                                             7                                                             |                          8                         |   .942923   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .935039   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .927222   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .919470   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .911782   |                 |                |              |
+|                                                            12                                                             |                                                    |   .904159   |                 |                |              |
+
+Table F(10.8)—With Interest at 10.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .975007     |    .962667     |   .954498    |
+|                                                             1                                                             |                          2                         |   .991490   |     .966710     |    .954475     |   .946375    |
+|                                                             2                                                             |                          3                         |   .983052   |     .958483     |    .946352     |              |
+|                                                             3                                                             |                          4                         |   .974687   |     .950327     |    .938299     |              |
+|                                                             4                                                             |                          5                         |   .966392   |     .942239     |                |              |
+|                                                             5                                                             |                          6                         |   .958168   |     .934221     |                |              |
+|                                                             6                                                             |                          7                         |   .950014   |     .926271     |                |              |
+|                                                             7                                                             |                          8                         |   .941930   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .933914   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .925966   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .918086   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .910273   |                 |                |              |
+|                                                            12                                                             |                                                    |   .902527   |                 |                |              |
+
+Table F(11.0)—With Interest at 11.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .974579     |    .962030     |   .953724    |
+|                                                             1                                                             |                          2                         |   .991341   |     .966140     |    .953700     |   .945466    |
+|                                                             2                                                             |                          3                         |   .982757   |     .957774     |    .945442     |              |
+|                                                             3                                                             |                          4                         |   .974247   |     .949481     |    .937255     |              |
+|                                                             4                                                             |                          5                         |   .965811   |     .941260     |                |              |
+|                                                             5                                                             |                          6                         |   .957449   |     .933109     |                |              |
+|                                                             6                                                             |                          7                         |   .949158   |     .925029     |                |              |
+|                                                             7                                                             |                          8                         |   .940939   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .932792   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .924715   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .916708   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .908770   |                 |                |              |
+|                                                            12                                                             |                                                    |   .900901   |                 |                |              |
+
+Table F(11.2)—With Interest at 11.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .974152     |    .961395     |   .952952    |
+|                                                             1                                                             |                          2                         |   .991192   |     .965572     |    .952927     |   .944559    |
+|                                                             2                                                             |                          3                         |   .982462   |     .957068     |    .944534     |              |
+|                                                             3                                                             |                          4                         |   .973809   |     .948638     |    .936215     |              |
+|                                                             4                                                             |                          5                         |   .965232   |     .940283     |                |              |
+|                                                             5                                                             |                          6                         |   .956731   |     .932001     |                |              |
+|                                                             6                                                             |                          7                         |   .948304   |     .923792     |                |              |
+|                                                             7                                                             |                          8                         |   .939952   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .931673   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .923467   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .915333   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .907272   |                 |                |              |
+|                                                            12                                                             |                                                    |   .899281   |                 |                |              |
+
+Table F(11.4)—With Interest at 11.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .973726     |    .960762     |   .952183    |
+|                                                             1                                                             |                          2                         |   .991044   |     .965005     |    .952157     |   .943655    |
+|                                                             2                                                             |                          3                         |   .982168   |     .956363     |    .943630     |              |
+|                                                             3                                                             |                          4                         |   .973372   |     .947798     |    .935178     |              |
+|                                                             4                                                             |                          5                         |   .964654   |     .939309     |                |              |
+|                                                             5                                                             |                          6                         |   .956015   |     .930896     |                |              |
+|                                                             6                                                             |                          7                         |   .947452   |     .922559     |                |              |
+|                                                             7                                                             |                          8                         |   .938967   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .930557   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .922223   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .913964   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .905778   |                 |                |              |
+|                                                            12                                                             |                                                    |   .897666   |                 |                |              |
+
+Table F(11.6)—With Interest at 11.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .973302     |    .960130     |   .951416    |
+|                                                             1                                                             |                          2                         |   .990896   |     .964440     |    .951389     |   .942754    |
+|                                                             2                                                             |                          3                         |   .981874   |     .955660     |    .942728     |              |
+|                                                             3                                                             |                          4                         |   .972935   |     .946959     |    .934145     |              |
+|                                                             4                                                             |                          5                         |   .964077   |     .938338     |                |              |
+|                                                             5                                                             |                          6                         |   .955300   |     .929795     |                |              |
+|                                                             6                                                             |                          7                         |   .946603   |     .921330     |                |              |
+|                                                             7                                                             |                          8                         |   .937985   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .929445   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .920984   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .912599   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .904290   |                 |                |              |
+|                                                            12                                                             |                                                    |   .896057   |                 |                |              |
+
+Table F(11.8)—With Interest at 11.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .972878     |    .959501     |   .950651    |
+|                                                             1                                                             |                          2                         |   .990748   |     .963877     |    .950624     |   .941855    |
+|                                                             2                                                             |                          3                         |   .981582   |     .954959     |    .941828     |              |
+|                                                             3                                                             |                          4                         |   .972500   |     .946124     |    .933114     |              |
+|                                                             4                                                             |                          5                         |   .963502   |     .937370     |                |              |
+|                                                             5                                                             |                          6                         |   .954588   |     .928698     |                |              |
+|                                                             6                                                             |                          7                         |   .945756   |     .920105     |                |              |
+|                                                             7                                                             |                          8                         |   .937006   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .928337   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .919748   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .911238   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .902807   |                 |                |              |
+|                                                            12                                                             |                                                    |   .894454   |                 |                |              |
+
+Table F(12.0)—With Interest at 12.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .972456     |    .958873     |   .949888    |
+|                                                             1                                                             |                          2                         |   .990600   |     .963315     |    .949860     |   .940960    |
+|                                                             2                                                             |                          3                         |   .981289   |     .954260     |    .940932     |              |
+|                                                             3                                                             |                          4                         |   .972065   |     .945290     |    .932087     |              |
+|                                                             4                                                             |                          5                         |   .962928   |     .936405     |                |              |
+|                                                             5                                                             |                          6                         |   .953877   |     .927603     |                |              |
+|                                                             6                                                             |                          7                         |   .944911   |     .918884     |                |              |
+|                                                             7                                                             |                          8                         |   .936029   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .927231   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .918515   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .909882   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .901329   |                 |                |              |
+|                                                            12                                                             |                                                    |   .892857   |                 |                |              |
+
+Table F(12.2)—With Interest at 12.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .972034     |    .958247     |   .949128    |
+|                                                             1                                                             |                          2                         |   .990453   |     .962754     |    .949099     |   .940067    |
+|                                                             2                                                             |                          3                         |   .980997   |     .953563     |    .940038     |              |
+|                                                             3                                                             |                          4                         |   .971632   |     .944460     |    .931063     |              |
+|                                                             4                                                             |                          5                         |   .962356   |     .935443     |                |              |
+|                                                             5                                                             |                          6                         |   .953168   |     .926512     |                |              |
+|                                                             6                                                             |                          7                         |   .944069   |     .917667     |                |              |
+|                                                             7                                                             |                          8                         |   .935056   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .926129   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .917287   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .908530   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .899856   |                 |                |              |
+|                                                            12                                                             |                                                    |   .891266   |                 |                |              |
+
+Table F(12.4)—With Interest at 12.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .971614     |    .957623     |   .948370    |
+|                                                             1                                                             |                          2                         |   .990306   |     .962195     |    .948340     |   .939176    |
+|                                                             2                                                             |                          3                         |   .980706   |     .952868     |    .939147     |              |
+|                                                             3                                                             |                          4                         |   .971199   |     .943631     |    .930043     |              |
+|                                                             4                                                             |                          5                         |   .961785   |     .934484     |                |              |
+|                                                             5                                                             |                          6                         |   .952461   |     .925425     |                |              |
+|                                                             6                                                             |                          7                         |   .943228   |     .916454     |                |              |
+|                                                             7                                                             |                          8                         |   .934085   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .925030   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .916063   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .907183   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .898389   |                 |                |              |
+|                                                            12                                                             |                                                    |   .889680   |                 |                |              |
+
+Table F(12.6)—With Interest at 12.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   but less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .971195     |    .957000     |   .947614    |
+|                                                             1                                                             |                          2                         |   .990159   |     .961638     |    .947583     |   .938289    |
+|                                                             2                                                             |                          3                         |   .980416   |     .952175     |    .938258     |              |
+|                                                             3                                                             |                          4                         |   .970768   |     .942805     |    .929025     |              |
+|                                                             4                                                             |                          5                         |   .961215   |     .933527     |                |              |
+|                                                             5                                                             |                          6                         |   .951756   |     .924341     |                |              |
+|                                                             6                                                             |                          7                         |   .942390   |     .915245     |                |              |
+|                                                             7                                                             |                          8                         |   .933117   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .923934   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .914842   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .905840   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .896926   |                 |                |              |
+|                                                            12                                                             |                                                    |   .888099   |                 |                |              |
+
+Table F(12.8)—With Interest at 12.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   but less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .970777     |    .956379     |   .946860    |
+|                                                             1                                                             |                          2                         |   .990013   |     .961082     |    .946828     |   .937403    |
+|                                                             2                                                             |                          3                         |   .980126   |     .951484     |    .937372     |              |
+|                                                             3                                                             |                          4                         |   .970337   |     .941981     |    .928011     |              |
+|                                                             4                                                             |                          5                         |   .960647   |     .932574     |                |              |
+|                                                             5                                                             |                          6                         |   .951053   |     .923260     |                |              |
+|                                                             6                                                             |                          7                         |   .941554   |     .914040     |                |              |
+|                                                             7                                                             |                          8                         |   .932151   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .922842   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .913625   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .904501   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .895468   |                 |                |              |
+|                                                            12                                                             |                                                    |   .886525   |                 |                |              |
+
+Table F(13.0)—With Interest at 13.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .970360     |    .955760     |   .946108    |
+|                                                             1                                                             |                          2                         |   .989867   |     .960528     |    .946075     |   .936521    |
+|                                                             2                                                             |                          3                         |   .979836   |     .950795     |    .936489     |              |
+|                                                             3                                                             |                          4                         |   .969908   |     .941160     |    .926999     |              |
+|                                                             4                                                             |                          5                         |   .960079   |     .931623     |                |              |
+|                                                             5                                                             |                          6                         |   .950351   |     .922183     |                |              |
+|                                                             6                                                             |                          7                         |   .940721   |     .912838     |                |              |
+|                                                             7                                                             |                          8                         |   .931188   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .921753   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .912412   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .903167   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .894015   |                 |                |              |
+|                                                            12                                                             |                                                    |   .884956   |                 |                |              |
+
+Table F(13.2)—With Interest at 13.2 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .969945     |    .955143     |   .945359    |
+|                                                             1                                                             |                          2                         |   .989721   |     .959975     |    .945325     |   .935641    |
+|                                                             2                                                             |                          3                         |   .979548   |     .950107     |    .935608     |              |
+|                                                             3                                                             |                          4                         |   .969479   |     .940341     |    .925991     |              |
+|                                                             4                                                             |                          5                         |   .959514   |     .930675     |                |              |
+|                                                             5                                                             |                          6                         |   .949651   |     .921109     |                |              |
+|                                                             6                                                             |                          7                         |   .939889   |     .911641     |                |              |
+|                                                             7                                                             |                          8                         |   .930228   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .920667   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .911203   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .901837   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .892567   |                 |                |              |
+|                                                            12                                                             |                                                    |   .883392   |                 |                |              |
+
+Table F(13.4)—With Interest at 13.4 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .969530     |    .954527     |   .944611    |
+|                                                             1                                                             |                          2                         |   .989575   |     .959423     |    .944577     |   .934764    |
+|                                                             2                                                             |                          3                         |   .979260   |     .949422     |    .934730     |              |
+|                                                             3                                                             |                          4                         |   .969051   |     .939524     |    .924986     |              |
+|                                                             4                                                             |                          5                         |   .958949   |     .929730     |                |              |
+|                                                             5                                                             |                          6                         |   .948953   |     .920038     |                |              |
+|                                                             6                                                             |                          7                         |   .939060   |     .910447     |                |              |
+|                                                             7                                                             |                          8                         |   .929271   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .919584   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .909998   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .900511   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .891124   |                 |                |              |
+|                                                            12                                                             |                                                    |   .881834   |                 |                |              |
+
+Table F(13.6)—With Interest at 13.6 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .969117     |    .953913     |   .943866    |
+|                                                             1                                                             |                          2                         |   .989430   |     .958873     |    .943831     |   .933890    |
+|                                                             2                                                             |                          3                         |   .978972   |     .948738     |    .933854     |              |
+|                                                             3                                                             |                          4                         |   .968624   |     .938710     |    .923984     |              |
+|                                                             4                                                             |                          5                         |   .958386   |     .928788     |                |              |
+|                                                             5                                                             |                          6                         |   .948256   |     .918971     |                |              |
+|                                                             6                                                             |                          7                         |   .938233   |     .909257     |                |              |
+|                                                             7                                                             |                          8                         |   .928316   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .918504   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .908796   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .899190   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .889686   |                 |                |              |
+|                                                            12                                                             |                                                    |   .880282   |                 |                |              |
+
+Table F(13.8)—With Interest at 13.8 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first full taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                          1                         |  1.000000   |     .968704     |    .953301     |   .943123    |
+|                                                             1                                                             |                          2                         |   .989285   |     .958325     |    .943087     |   .933018    |
+|                                                             2                                                             |                          3                         |   .978685   |     .948056     |    .932982     |              |
+|                                                             3                                                             |                          4                         |   .968199   |     .937898     |    .922985     |              |
+|                                                             4                                                             |                          5                         |   .957824   |     .927849     |                |              |
+|                                                             5                                                             |                          6                         |   .947561   |     .917907     |                |              |
+|                                                             6                                                             |                          7                         |   .937408   |     .908072     |                |              |
+|                                                             7                                                             |                          8                         |   .927364   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .917428   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .907598   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .897873   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .888252   |                 |                |              |
+|                                                            12                                                             |                                                    |   .878735   |                 |                |              |
+
+Table F(14.0)—With Interest at 14.0 Percent, Showing Factors for Computation of the Adjusted Payout Rate for Certain Valuations
+
+[Applicable after April 30, 1989]
+
+|1  <br/>Number of months by which the valuation date for the first rull taxable year of the trust precedes the first payout|2  <br/>Factors for payout at the end of each period|             |                 |                |              |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------------|----------------|--------------|
+|                                                         At least                                                          |                   But less than                    |Annual period|Semiannual period|Quarterly period|Monthly period|
+|                                                                                                                           |                                                    |             |                 |                |              |
+|                                                                                                                           |                          1                         |  1.000000   |     .968293     |    .952691     |   .942382    |
+|                                                             1                                                             |                          2                         |   .989140   |     .957778     |    .942345     |   .932148    |
+|                                                             2                                                             |                          3                         |   .978399   |     .947377     |    .932111     |              |
+|                                                             3                                                             |                          4                         |   .967774   |     .937088     |    .921989     |              |
+|                                                             4                                                             |                          5                         |   .957264   |     .926912     |                |              |
+|                                                             5                                                             |                          6                         |   .946868   |     .916846     |                |              |
+|                                                             6                                                             |                          7                         |   .936586   |     .906889     |                |              |
+|                                                             7                                                             |                          8                         |   .926415   |                 |                |              |
+|                                                             8                                                             |                          9                         |   .916354   |                 |                |              |
+|                                                             9                                                             |                         10                         |   .906403   |                 |                |              |
+|                                                            10                                                             |                         11                         |   .896560   |                 |                |              |
+|                                                            11                                                             |                         12                         |   .886824   |                 |                |              |
+|                                                            12                                                             |                                                    |   .877193   |                 |                |              |
+
+(7) *Actuarial Table U(1) for transfers for which the valuation date is on or after May 1, 2009.* For transfers for which the valuation date is on or after May 1, 2009, the present value of a charitable remainder unitrust interest that is dependent on the termination of a life interest is determined by using the section 7520 rate, Table U(1) in this paragraph (e)(7) and Table F(4.2) through (14.0) in paragraph (e)(6) of this section. See, however, § 1.7520-3(b) (relating to exceptions to the use of prescribed tables under certain circumstances). Many actuarial factors not contained in the following tables are contained in Internal Revenue Service Publication 1458, “Actuarial Valuations Version 3B” (2009). This publication is available, at no charge, electronically via the IRS Internet site at *http://www.irs.gov.*
+
+![](/graphics/er10au11.024.gif)![](/graphics/er10au11.025.gif)![](/graphics/er10au11.026.gif)![](/graphics/er10au11.027.gif)![](/graphics/er10au11.028.gif)![](/graphics/er10au11.029.gif)![](/graphics/er10au11.030.gif)![](/graphics/er10au11.031.gif)![](/graphics/er10au11.032.gif)![](/graphics/er10au11.033.gif)![](/graphics/er10au11.034.gif)![](/graphics/er10au11.035.gif)![](/graphics/er10au11.036.gif)![](/graphics/er10au11.037.gif)![](/graphics/er10au11.038.gif)
+
+(f) *Effective/applicability date.* This section applies on and after May 1, 2009.
+
+[T.D. 8540, 59 FR 30117, June 10, 1994, as amended by T.D. 8819, 64 FR 23199, Apr. 30, 1999; T.D. 8886, 65 FR 36919, 36943, June 12, 2000; T.D. 9448, 74 FR 21465, May 7, 2009; T.D. 9540, 76 FR 49595, Aug. 10, 2011]

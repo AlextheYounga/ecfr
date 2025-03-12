@@ -1,0 +1,3 @@
+##### § 355.1 Do any other regulations cover fiscal agency checks? #####
+
+The regulations governing checks drawn on the United States and on designated depositories of the United States do not apply to fiscal agency checks, unless a statute specifically provides differently, or unless we state differently in this part. If a definition or matter pertaining to fiscal agency checks is not specifically covered in this part, we will apply the provisions of Regulations J of the Board of Governors of the Federal Reserve System, at 12 CFR part 210. To the extent not otherwise covered by this part or by Regulation J, we will apply the provisions of the Uniform Commercial Code (U.C.C.)

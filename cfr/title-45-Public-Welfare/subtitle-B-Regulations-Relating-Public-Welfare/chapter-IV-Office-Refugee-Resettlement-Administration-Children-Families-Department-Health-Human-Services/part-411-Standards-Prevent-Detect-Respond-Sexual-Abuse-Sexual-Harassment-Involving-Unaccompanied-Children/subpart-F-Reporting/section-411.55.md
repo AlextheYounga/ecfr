@@ -1,0 +1,5 @@
+##### § 411.55 UC access to attorneys or other legal representatives and families. #####
+
+(a) Care provider facilities must provide UCs confidential access to their attorney or other legal representative in accordance with the care provider's attorney-client visitation rules. The care provider's visitation rules must include provisions for immediate access in the case of an emergency or exigent circumstance. The care provider's attorney-client visitation rules must be approved by ORR to ensure the rules are reasonable and appropriate and include provisions for emergencies and exigent circumstances.
+
+(b) Care provider facilities must provide UCs access to their families, including legal guardians, unless ORR has documentation showing that certain family members or legal guardians should not be provided access because of safety concerns.

@@ -1,0 +1,3 @@
+##### § 561.319 Petroleum products. #####
+
+The term *petroleum products* includes unfinished oils, liquefied petroleum gases, pentanes plus, aviation gasoline, motor gasoline, naphtha-type jet fuel, kerosene-type jet fuel, kerosene, distillate fuel oil, residual fuel oil, petrochemical feedstocks, special naphthas, lubricants, waxes, petroleum coke, asphalt, road oil, still gas, and miscellaneous products obtained from the processing of crude oil (including lease condensate), natural gas, and other hydrocarbon compounds. The term does not include natural gas, liquefied natural gas, biofuels, methanol, and other non-petroleum fuels.

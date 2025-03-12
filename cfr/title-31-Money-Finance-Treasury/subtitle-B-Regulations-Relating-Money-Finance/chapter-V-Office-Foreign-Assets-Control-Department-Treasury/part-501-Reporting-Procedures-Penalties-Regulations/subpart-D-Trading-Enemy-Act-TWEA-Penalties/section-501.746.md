@@ -1,0 +1,3 @@
+##### § 501.746 Referral to United States Department of Justice; administrative collection measures. #####
+
+In the event that the respondent does not pay any penalty imposed pursuant to this part within 30 calendar days of the mailing of the written notice of the imposition of the penalty, the matter may be referred for administrative collection measures or to the United States Department of Justice for appropriate action to recover the penalty in a civil suit in a Federal district court.

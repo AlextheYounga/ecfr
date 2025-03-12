@@ -1,0 +1,21 @@
+##### § 1.674(a)-1 Power to control beneficial enjoyment; scope of section 674. #####
+
+(a) Under section 674, the grantor is treated as the owner of a portion of trust if the grantor or a nonadverse party has a power, beyond specified limits, to dispose of the beneficial enjoyment of the income or corpus, whether the power is a fiduciary power, a power of appointment, or any other power. Section 674(a) states in general terms that the grantor is treated as the owner in every case in which he or a nonadverse party can affect the beneficial enjoyment of a portion of a trust, the limitations being set forth as exceptions in subsections (b), (c), and (d) of section 674. These exceptions are discussed in detail in §§ 1.674(b)-1 through 1.674(d)—1. Certain limitations applicable to section 674 (b), (c), and (d) are set forth in § 1.674(d)-2. Section 674(b) describes powers which are excepted regardless of who holds them. Section 674(c) describes additional powers of trustees which are excepted if at least half the trustees are independent, and if the grantor is not a trustee. Section 674(d) describes a further power which is excepted if it is held by trustees other than the grantor or his spouse (if living with the grantor).
+
+(b) In general terms the grantor is treated as the owner of a portion of a trust if he or a nonadverse party or both has a power to dispose of the beneficial enjoyment of the corpus or income unless the power is one of the following:
+
+(1) *Miscellaneous powers over either ordinary income or corpus.* (i) A power that can only affect the beneficial enjoyment of income (including capital gains) received after a period of time such that the grantor would not be treated as an owner under section 673 if the power were a reversionary interest (section 674(b)(2));
+
+(ii) A testamentary power held by anyone (other than a testamentary power held by the grantor over accumulated income) (section 674(b)(3));
+
+(iii) A power to choose between charitable beneficiaries or to affect the manner of their enjoyment of a beneficial interest (section 674(b)(4));
+
+(iv) A power to allocate receipts and disbursements between income and corpus (section 674(b)(8)).
+
+(2) *Powers of distribution primarily affecting only one beneficiary.* (i) A power to distribute corpus to or for a current income beneficiary, if the distribution must be charged against the share of corpus from which the beneficiary may receive income (section 674(b)(5)(B));
+
+(ii) A power to distribute income to or for a current income beneficiary or to accumulate it either (*a*) if accumulated income must either be payable to the beneficiary from whom it was withheld or as described in paragraph (b)(6) of § 1.674(b)-1 (section 674(b) (6)); (*b*) if the power is to apply income to the support of a dependent of the grantor, and the income is not so applied (section 674(b)(1)); or (*c*) if the beneficiary is under 21 or under a legal disability and accumulated income is added to corpus (section 674(b)(7)).
+
+(3) *Powers of distribution affecting more than one beneficiary.* A power to distribute corpus or income to or among one or more beneficiaries or to accumulate income, either (i) if the power is held by a trustee or trustees other than the grantor, at least half of whom are independent (section 674(c)), or (ii) if the power is limited by a reasonably definite standard in the trust instrument, and in the case of a power over income, if in addition the power is held by a trustee or trustees other than the grantor and the grantor's spouse living with the grantor (section 674(b)(5)(A) and (d)). (These powers include both powers to “sprinkle” income or corpus among current beneficiaries, and powers to shift income or corpus between current beneficiaries and remaindermen; however, certain of the powers described under subparagraph (2) of this paragraph can have the latter effect incidentally.)
+
+(c) See section 671 and §§ 1.671-2 and 1.671-3 for rules for the treatment of income, deductions, and credits when a person is treated as the owner of all or only a portion of a trust.

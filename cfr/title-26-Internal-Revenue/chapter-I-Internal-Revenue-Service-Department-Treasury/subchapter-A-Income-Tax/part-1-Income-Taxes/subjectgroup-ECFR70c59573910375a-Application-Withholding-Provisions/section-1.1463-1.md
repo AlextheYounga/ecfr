@@ -1,0 +1,7 @@
+##### § 1.1463-1 Tax paid by recipient of income. #####
+
+(a) *Tax paid.* If the tax required to be withheld under chapter 3 of the Internal Revenue Code is paid by the beneficial owner of the income or by the withholding agent, it shall not be re-collected from the other, regardless of the original liability therefor. However, this section does not relieve the person that did not withhold tax from liability for interest or any penalties or additions to tax otherwise applicable. See § 1.1441-7(b) for additional applicable rules. See § 1.1446-3(e) and (f) for application of the rule of this paragraph (a), and for additional rules, where the withholding tax was required to be paid under section 1446. The previous sentence shall apply to partnership taxable years beginning after May 18, 2005, or such earlier time as the regulations under §§ 1.1446-1 through 1.1446-5 apply by reason of an election under § 1.1446-7.
+
+(b) *Effective date.* Unless otherwise provided in this section, this section applies to failures to withhold occurring after December 31, 2000.
+
+[T.D. 8734, 62 FR 53471, Oct. 14, 1997, as amended by T.D. 8804, 63 FR 72188, Dec. 31, 1998; T.D. 8856, 64 FR 73412, Dec. 30, 1999; T.D. 9200, 70 FR 28741, May 18, 2005]

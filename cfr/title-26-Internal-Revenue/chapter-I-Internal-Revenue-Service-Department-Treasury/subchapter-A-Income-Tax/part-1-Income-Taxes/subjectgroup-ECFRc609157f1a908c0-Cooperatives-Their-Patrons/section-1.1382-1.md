@@ -1,0 +1,7 @@
+##### § 1.1382-1 Taxable income of cooperatives; gross income. #####
+
+(a) *Introduction.* Section 1382(b) provides that the amount of certain patronage dividends (and amounts paid in redemption of nonqualified written notices of allocation) shall not be taken into account by a cooperative organization in determining its taxable income. Such section also provides that, for purposes of the Internal Revenue Code, an amount not taken into account is to be treated in the same manner as an item of gross income and as a deduction therefrom. Therefore, such an amount is treated as a deduction for purposes of applying the Internal Revenue Code and the regulations thereunder and, for simplicity, is referred to as a deduction in the regulations under such Code. However, this should not be regarded as a determination of the character of the amount for other purposes.
+
+(b) *Computation of gross income.* Any cooperative organization to which part I, subchapter T, chapter 1 of the Code, applies shall not, for any purpose under the Code, exclude from its gross income (as a reduction in gross receipts, an increase in cost of goods sold, or otherwise) the amount of any allocation or distribution to a patron out of the net earnings of such organization with respect to patronage occurring during a taxable year beginning after December 31, 1962. See, however, section 1382(b) and § 1.1382-2 for deductions for certain amounts paid to patrons out of net earnings.
+
+[T.D. 6643, 28 FR 3154, Apr. 2, 1963]

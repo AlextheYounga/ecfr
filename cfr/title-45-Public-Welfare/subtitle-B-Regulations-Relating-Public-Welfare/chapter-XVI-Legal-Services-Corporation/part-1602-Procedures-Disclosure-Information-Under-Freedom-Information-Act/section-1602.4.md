@@ -1,0 +1,3 @@
+##### § 1602.4 Records published in the Federal Register. #####
+
+LSC routinely publishes in the Federal Register information on its basic structure and operations necessary to inform the public how to deal effectively with LSC. LSC will make reasonable efforts to currently update such information, which will include basic information on LSC's location, functions, rules of procedure, substantive rules, statements of general policy, and information regarding how the public may obtain information, make submittals or requests, or obtain decisions.

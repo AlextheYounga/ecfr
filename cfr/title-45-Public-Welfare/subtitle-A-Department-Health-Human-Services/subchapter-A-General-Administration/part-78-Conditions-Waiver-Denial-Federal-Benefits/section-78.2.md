@@ -1,0 +1,7 @@
+##### § 78.2 Definitions. #####
+
+For the purposes of denying Federal benefits under 21 U.S.C. 853a:
+
+(a) *Deemed to be rehabilitated* means that an individual has abstained from the illicit use of a controlled substance for the period of at least 180 days immediately prior to and including the date of sentencing provided that such abstinence is documented by the results of periodic urine drug testing conducted during that period; and provided further that such drug testing is conducted using an immunoassay test approved by the Food and Drug Administration for commercial distribution or, in the case of a State offense, either using an immunoassay test approved by the Food and Drug Administration for commercial distribution or pursuant to standards approved by the State.
+
+(b) *Long-term treatment program or long-term drug treatment program* means any drug abuse treatment program of 180 days or more where the provider has been accredited by the Joint Commission on Accreditation of Health Organizations, the Commission on Accreditation of Rehabilitation Facilities, or the Council on Accreditation of Services for Families and Children, or licensed or otherwise approved by the State to provide drug abuse treatment.

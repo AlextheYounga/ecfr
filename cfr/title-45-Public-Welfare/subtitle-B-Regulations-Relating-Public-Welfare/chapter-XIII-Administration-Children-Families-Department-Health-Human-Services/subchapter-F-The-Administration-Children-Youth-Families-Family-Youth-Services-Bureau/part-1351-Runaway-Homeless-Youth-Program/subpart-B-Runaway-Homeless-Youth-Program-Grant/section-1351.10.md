@@ -1,0 +1,5 @@
+##### § 1351.10 What is the purpose of the Runaway and Homeless Youth Program grant? #####
+
+Link to an amendment published at 81 FR 93060, December 20, 2016.
+
+The purpose of the Runaway and Homeless Youth Program grant is to establish or strengthen existing or proposed community-based runaway and homeless youth projects to provide temporary shelter and care to runaway or otherwise homeless youth who are in need of temporary shelter, counseling and aftercare services. The Department is concerned about the increasing numbers of youth who leave, and stay away from, their homes without permission of their families. There is also national concern about runaway and homeless youth who have no resources, who live on the street, and who represent law enforcement problems in the communities to which they run. The problems of runaway or otherwise homeless youth should not be the responsibility of already overburdened police departments and juvenile justice authorities. Rather, Congress intends that the responsibility for locating, assisting, and returning such youth should be placed with low-cost, community-based human service programs.

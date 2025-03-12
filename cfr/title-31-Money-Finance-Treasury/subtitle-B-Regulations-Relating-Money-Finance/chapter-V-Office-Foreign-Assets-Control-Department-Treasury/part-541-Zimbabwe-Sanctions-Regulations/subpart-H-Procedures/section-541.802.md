@@ -1,0 +1,3 @@
+##### § 541.802 Delegation by the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13288 of March 6, 2003 (E.O. 13288), Executive Order 13391 of November 22, 2005, Executive Order 13469 of July 25, 2008, and any further Executive orders relating to the national emergency declared in E.O. 13288, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

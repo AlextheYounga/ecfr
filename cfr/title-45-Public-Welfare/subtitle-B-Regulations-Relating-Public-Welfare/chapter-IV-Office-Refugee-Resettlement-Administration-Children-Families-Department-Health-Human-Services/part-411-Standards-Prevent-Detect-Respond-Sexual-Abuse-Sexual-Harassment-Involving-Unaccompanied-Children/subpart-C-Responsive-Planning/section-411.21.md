@@ -1,0 +1,9 @@
+##### § 411.21 Victim advocacy, access to counselors, and forensic medical examinations. #####
+
+(a) Care provider facilities must develop procedures to best utilize available community resources and services to provide valuable expertise and support in the areas of crisis intervention and counseling to most appropriately address victims' needs. Each care provider facility must establish procedures to make available outside victim services following incidents of sexual abuse and sexual harassment; the care provider facility must attempt to make available to the victim a victim advocate from a rape crisis center. If a rape crisis center is not available or if the UC prefers, the care provider facility may provide a licensed clinician on staff to provide crisis intervention and trauma services for the UC. The outside or internal victim advocate must provide emotional support, crisis intervention, information, and referrals.
+
+(b) Where evidentiarily or medically appropriate, and only with the UC's consent, the care provider facility must arrange for an alleged victim UC to undergo a forensic medical examination as soon as possible and that is performed by Sexual Assault Forensic Examiners (SAFEs) or Sexual Assault Nurse Examiners (SANEs) where possible. If SAFEs or SANEs cannot be made available, the examination may be performed by a qualified medical practitioner.
+
+(c) As requested by a victim, the presence of his or her outside or internal victim advocate, including any available victim advocacy services offered at a hospital conducting a forensic examination, must be allowed to the extent possible for support during a forensic examination and investigatory interviews.
+
+(d) To the extent possible, care provider facilities must request that the investigating agency follow the requirements of paragraphs (a) through (c) of this section.

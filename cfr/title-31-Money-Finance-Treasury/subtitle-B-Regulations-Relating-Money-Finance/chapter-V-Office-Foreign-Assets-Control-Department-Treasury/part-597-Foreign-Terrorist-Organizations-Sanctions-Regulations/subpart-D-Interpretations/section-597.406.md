@@ -1,0 +1,3 @@
+##### § 597.406 Offshore transactions. #####
+
+The prohibitions contained in § 597.201 apply to transactions by U.S. financial institutions in locations outside the United States with respect to funds or assets which the U.S. financial institution knows, or becomes aware, are held in the name of a foreign terrorist organization or its agent, or in which the U.S. financial institution knows, or becomes aware that, a foreign terrorist organization or its agent has or has had an interest since the effective date.

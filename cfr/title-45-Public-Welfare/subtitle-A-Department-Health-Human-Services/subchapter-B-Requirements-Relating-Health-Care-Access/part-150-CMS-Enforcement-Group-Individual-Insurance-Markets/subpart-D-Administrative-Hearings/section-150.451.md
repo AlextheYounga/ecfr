@@ -1,0 +1,3 @@
+##### § 150.451 Posthearing briefs. #####
+
+Each party is entitled to file proposed findings and conclusions, and supporting reasons, in a posthearing brief. The ALJ will establish the schedule by which such briefs must be filed. The ALJ may direct the parties to brief specific questions in a case and may impose page limits on posthearing briefs. Additionally, the ALJ may allow the parties to file posthearing reply briefs.

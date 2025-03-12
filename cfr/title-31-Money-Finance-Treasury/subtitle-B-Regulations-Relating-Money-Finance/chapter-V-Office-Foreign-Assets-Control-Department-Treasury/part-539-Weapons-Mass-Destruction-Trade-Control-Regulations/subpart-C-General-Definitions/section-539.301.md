@@ -1,0 +1,3 @@
+##### § 539.301 Designated foreign person. #####
+
+The term *designated foreign person* means any person determined by the Secretary of State pursuant to section 4(a) of Executive Order 12938 of November 14, 1994 (59 FR 59099, 3 CFR, 1994 Comp., p. 950), as amended by section 1(a) of Executive Order 13094 of July 28, 1998 (63 FR 40803, July 30, 1998), to be subject to import measures. Designated foreign persons are any persons listed in appendix I to this part and any entities owned or controlled by any person listed in appendix I to this part unless otherwise indicated in appendix I to this part.

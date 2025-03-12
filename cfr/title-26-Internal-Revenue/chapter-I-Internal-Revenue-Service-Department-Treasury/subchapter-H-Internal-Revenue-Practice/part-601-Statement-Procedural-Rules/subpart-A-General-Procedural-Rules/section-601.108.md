@@ -1,0 +1,9 @@
+##### § 601.108 Review of overpayments exceeding $200,000. #####
+
+(a) *General.* Section 6405(a) of the Code provides that no refund or credit of income, war profits, excess profits, estate, or gift taxes or any tax imposed by Chapters 41 through 44, including penalties and interest, in excess of $200,000 may be made until after the expiration of 30 days from the date a report is made to the Joint Committee on Taxation. Taxpayers, in cases requiring review by the Joint Committee, are afforded the same appeal rights as other taxpayers. In general, these cases follow regular procedures, except for preparation of reports to and review by the Joint Committee.
+
+(b) *Reports to Joint Committee.* In any case in which no protest is made to Appeals and no petition docketed in the Tax Court, the report to the Joint Committee is prepared by a Joint Committee Coordinator, who is an Examination Division regional specialist. In cases in which a protest has been made, the report to the Joint Committee is prepared by an Appeals officer; in cases in which a petition is docketed, either an Appeals officer or a Counsel attorney prepares the report, depending on the circumstances.
+
+(c) *Procedure after report to Joint Committee.* After compliance with section 6405 of the Code, the case is processed for issuance of a certificate of overassessment, and payment or credit of any overpayment. If the final determination involves a rejection of a claimed overpayment in whole or in part, a statutory notice of disallowance will be sent by certified or registered mail to the taxpayer, except where the taxpayer has filed a written waiver of such notice of disallowance.
+
+[32 FR 15990, Nov. 22, 1967, as amended at 42 FR 46519, Sept. 16, 1977; 43 FR 44503, Sept. 28, 1978; 43 FR 53030, Nov. 15, 1978; 45 FR 7255, Feb. 1, 1980]

@@ -1,0 +1,9 @@
+##### § 411.51 UC reporting. #####
+
+(a) The care provider facility must develop policies and procedures in accordance with § 411.15 to ensure that UCs have multiple ways to report to the care provider: Sexual abuse and sexual harassment, retaliation for reporting sexual abuse or sexual harassment, and staff neglect or violations of responsibilities that may have contributed to such incidents. The care provider facility also must provide access to and instructions on how UCs may contact their consular official, ORR's headquarters, and an outside entity to report these incidents. Care provider facilities must provide UCs access to telephones with free, preprogrammed numbers for ORR headquarters and the outside entity designated under § 411.51(b).
+
+(b) The care provider facility must provide and inform the UC of at least one way for UCs to report sexual abuse and sexual harassment to an entity or office that is not part of the care provider facility and is able to receive and immediately forward UC reports of sexual abuse and sexual harassment to ORR officials, allowing UCs to remain anonymous upon request. The care provider facility must maintain or attempt to enter into a memorandum of understanding or other agreement with the entity or office and maintain copies of agreements or documentation showing attempts to enter into agreements.
+
+(c) The care provider facility's policies and procedures must include provisions for staff to accept reports made verbally, in writing, anonymously, and from third parties. Staff must promptly document any verbal reports.
+
+(d) All allegations or knowledge of sexual abuse and sexual harassment by staff or UCs must be immediately reported to the State or local licensing agency, the State or local Child Protective Services agency, State or local law enforcement, and to ORR according to ORR's policies and procedures.

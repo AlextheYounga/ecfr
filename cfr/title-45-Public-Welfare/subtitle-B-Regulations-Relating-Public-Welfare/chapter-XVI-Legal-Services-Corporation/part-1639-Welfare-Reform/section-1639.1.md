@@ -1,0 +1,3 @@
+##### § 1639.1 Purpose. #####
+
+The purpose of this rule is to ensure that LSC recipients do not initiate litigation involving, or challenge or participate in, efforts to reform a Federal or State welfare system. The rule also clarifies when recipients may engage in representation on behalf of an individual client seeking specific relief from a welfare agency and under what circumstances recipients may use funds from sources other than the Corporation to comment on public rulemaking or respond to requests from legislative or administrative officials involving a reform of a Federal or State welfare system.

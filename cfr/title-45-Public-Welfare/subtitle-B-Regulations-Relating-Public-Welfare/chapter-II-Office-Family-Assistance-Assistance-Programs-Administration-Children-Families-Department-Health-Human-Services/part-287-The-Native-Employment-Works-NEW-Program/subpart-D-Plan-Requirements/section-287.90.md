@@ -1,0 +1,3 @@
+##### § 287.90 Are Tribes required to complete any certifications? #####
+
+Yes. A Tribe must include in its NEW Program plan the following four certifications and any additional certifications that the Secretary prescribes in the planning guidance: Certification Regarding Debarment, Suspension, and Other Responsibility Matters—Primary Covered Transactions; Certification Regarding Drug Free Workplace Requirements for Grantees Other Than Individuals; Certification Regarding Tobacco Smoke, and Assurances—Non-Construction Programs.

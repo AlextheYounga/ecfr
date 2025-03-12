@@ -1,0 +1,5 @@
+##### § 155.525 Eligibility pending appeal. #####
+
+(a) *General standards.* After receipt of a valid appeal request or notice under § 155.520(d)(1)(ii) that concerns an appeal of a redetermination under § 155.330(e) or § 155.335(h), the Exchange or the Medicaid or CHIP agency, as applicable, must continue to consider the appellant eligible while the appeal is pending in accordance with standards set forth in paragraph (b) of this section or as determined by the Medicaid or CHIP agency consistent with 42 CFR parts 435 and 457, as applicable.
+
+(b) *Implementation.* If the tax filer or appellant, as applicable, accepts eligibility pending an appeal, the Exchange must continue the appellant's eligibility for enrollment in a QHP, advance payments of the premium tax credit, and cost-sharing reductions, as applicable, in accordance with the level of eligibility immediately before the redetermination being appealed.

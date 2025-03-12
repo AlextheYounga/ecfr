@@ -1,0 +1,3 @@
+##### § 92.3 Manufacture and sale of “proof” coins. #####
+
+“Proof” coins, *i.e.*, coins prepared from blanks specially polished and struck, are made as authorized by the Director of the Mint and are sold at a price sufficient to cover their face value plus the additional expense of their manufacture and sale. Their manufacture and issuance are contingent upon the demands of regular operations. Information concerning availability and price may be obtained from the Director of the Mint, Treasury Department, Washington, DC 20220.

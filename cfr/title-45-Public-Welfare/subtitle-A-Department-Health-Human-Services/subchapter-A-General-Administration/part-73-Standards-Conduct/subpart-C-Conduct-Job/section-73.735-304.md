@@ -1,0 +1,9 @@
+##### § 73.735-304 Use of government property. #####
+
+(a) An employee shall not directly or indirectly use, or allow the use of, Government property of any kind, including property leased to the Government, for other than officially approved activities. An Employee has a positive duty to protect and conserve Government property, including equipment, supplies, and other property entrusted or issued to him or her. For example:
+
+(1) Only official documents and materials may be processed on Government reproduction facilities. Both supervisors and employees must assure that this rule is strictly followed. (Exception for employee welfare and recreation associations is stated in Chapter 25-10, General Administration Manual. Exception for labor organizations is stated in Personnel Instruction 711-1.)
+
+(2) Employees may drive or use Government automobiles or aircraft only on official business. Use of a Government owned, leased, or rented vehicle or aircraft for non-official purposes may result in suspension for at least 30 days or removal from the Federal service. 31 U.S.C. 638a.
+
+Example:Normally, use of a Government automobile by travel between home and place of duty would not be considered official business and could not be authorized. An exception to this rule might be appropriate in a situation where an employee is required to leave early in the morning to attend a meeting in a distant city, or to return late in the day from such a meeting. Allowing the employee to drive a government car to his or her home the night before in order to leave from home, or to return to his or her home in the evening upon completion of the trip is permissible, provided the employee does not use the car for any personal reason.

@@ -1,0 +1,3 @@
+##### § 705.12 Special procedures: Information furnished by other agencies. #####
+
+When records or information sought from the Commission include information furnished by other Federal agencies, the General Counsel shall consult with the appropriate agency prior to making a decision to disclose or to refuse to disclose the record, but the decision whether or not to disclose the record shall be made by the General Counsel.

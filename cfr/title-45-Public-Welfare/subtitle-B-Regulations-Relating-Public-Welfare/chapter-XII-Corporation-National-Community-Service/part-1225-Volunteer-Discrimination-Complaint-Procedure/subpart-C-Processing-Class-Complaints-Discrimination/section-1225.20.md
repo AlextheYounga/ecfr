@@ -1,0 +1,5 @@
+##### § 1225.20 Claim appeals. #####
+
+(a) If the EO Director and claimant do not agree that the claimant is a member of the class, or upon the relief to which the claimant is entitled, the EO Director shall refer the claim, with recommendations concerning it to the appropriate Director for Final Agency Decision and shall so notify the claimant. The class member may submit written evidence to the appropriate Director concerning his or her status as a member of the class. Such evidence must be submitted no later than ten (10) calendar days after receipt of referral.
+
+(b) The appropriate Director shall decide the issue within thirty (30) days of the date of referral by the EO Director. The claimant shall be informed in writing of the decision and its basis and that it will be the Final Agency Decision on the issue.

@@ -1,0 +1,5 @@
+##### § 95.11 Payment of claims subject to appropriations restrictions. #####
+
+Notwithstanding any other provision of this Subpart, we will pay States' otherwise allowable claims for Federal financial participation under the programs covered by this Subpart, subject to the availability of funds (as provided in Acts appropriating funds to the Department in effect at the time in which such claims are being considered for payment), and subject to conditions or restrictions applicable to payments out of such funds, including provisions of the first and second continuing resolutions for FY 1981 (Pub. L. 96-369 and Pub. L. 96-536) and the Supplemental Appropriations and Rescission Act, 1981 (Pub. L. 97-12) that make funds under those Acts available to pay for a State agency expenditure made before September 30, 1978, only if the State had filed a claim for that expenditure with us within one year of the expenditure.
+
+(Pub. L. 96-369, 94 Stat. 1351; Pub. L. 96-536, 94 Stat. 3166; and Pub. L. 97-12, 95 Stat. 14)[46 FR 46136, Sept. 17, 1981]

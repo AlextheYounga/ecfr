@@ -1,0 +1,3 @@
+##### § 358.5 Which bearer corpora or detached bearer coupons are eligible for conversion to non-transferable BECCS or CUBES securities? #####
+
+If all of the callable coupons associated with the corpus are not submitted with the corpus, the corpus will be converted to a non-transferable BECCS security. Any remaining callable coupons submitted with the corpus will be converted to individual non-transferable CUBES securities.

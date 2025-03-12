@@ -1,0 +1,3 @@
+##### § 301.6803-1 Accounting and safeguarding. #####
+
+In cases coming within the provisions of section 6802 (2) and (3) and paragraphs (b) and (c) of § 301.6802-1, the district director may require a bond in such amount as he deems advisable, conditioned for the faithful return, whenever so required, of all quantities or amounts of adhesive stamps undisposed of and for the payment monthly for all quantities or amounts of adhesive stamps sold or not remaining on hand. Such bond shall be furnished in accordance with the provisions contained in section 7101 and § 301.7101-1.

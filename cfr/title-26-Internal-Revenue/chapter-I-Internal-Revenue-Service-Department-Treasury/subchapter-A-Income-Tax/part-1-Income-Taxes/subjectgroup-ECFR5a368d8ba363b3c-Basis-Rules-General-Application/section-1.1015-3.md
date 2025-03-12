@@ -1,0 +1,5 @@
+##### § 1.1015-3 Gift or transfer in trust before January 1, 1921. #####
+
+(a) In the case of property acquired by gift or transfer in trust before January 1, 1921, the basis of such property is the fair market value thereof at the time of the gift or at the time of the transfer in trust.
+
+(b) The principles stated in paragraph (b) of § 1.1015-1 concerning the uniform basis are applicable in determining the basis of property where more than one person acquires an interest in property by gift or transfer in trust before January 1, 1921. In addition, if an interest in such property was acquired from a decedent and the property had not been sold, exchanged, or otherwise disposed of before the death of the donor, the rules prescribed in section 1014 and the regulations thereunder are applicable in determining the basis of such property in the hands of the taxpayer.

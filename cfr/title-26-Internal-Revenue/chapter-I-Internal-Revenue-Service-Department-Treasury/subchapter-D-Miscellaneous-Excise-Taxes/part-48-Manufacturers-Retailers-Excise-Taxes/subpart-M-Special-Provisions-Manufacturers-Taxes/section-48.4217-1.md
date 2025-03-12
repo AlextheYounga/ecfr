@@ -1,0 +1,5 @@
+##### § 48.4217-1 Lease considered as sale. #####
+
+For purposes of Chapter 32 of the Code, the lease of an article by a manufacturer, producer, or importer shall be considered a sale of the article. The term “lease” means a contract or agreement, written or verbal, which gives the lessee an exclusive, continuous right to the possession or use of a particular article for a period of time. The term includes any renewal or extension of a lease or any subsequent lease of the article. However, in the case of the lease of an automobile the sale of which by the manufacturer would be taxable under section 4064, the term includes only the first lease (excluding any renewal or extension of the lease) of such automobile by the manufacturer.
+
+[T.D. 7536, 43 FR 13521, Mar. 31, 1978, as amended by T.D. 8036, 50 FR 29963, July 23, 1985]

@@ -1,0 +1,39 @@
+##### § 1.6038D-5 Valuation guidelines. #####
+
+(a) *Fair market value.* Except as provided in paragraphs (c) and (e) of this section, the value of a specified foreign financial asset for purposes of determining the aggregate value of specified foreign financial assets held by a specified person and the maximum value of a specified foreign financial asset required to be reported on Form 8938, “Statement of Specified Foreign Financial Assets,” is the asset's fair market value.
+
+(b) *Valuation of assets*—(1) *Maximum value.* Except as provided in this section, the maximum value of a specified foreign financial asset means a reasonable estimate of the asset's maximum fair market value during the taxable year.
+
+(2) *U.S. dollars.* For purposes of determining the aggregate value of specified foreign financial assets in which a specified person has an interest and determining the maximum value of a specified foreign financial asset, the value of a specified foreign financial asset denominated in a foreign currency during the taxable year must be determined in the foreign currency and then converted to U.S. dollars.
+
+(3) *Asset with no positive value.* If the maximum fair market value of a specified foreign financial asset is zero or less than zero, then the asset's value is treated as zero for purposes of determining the aggregate value of specified foreign financial assets in which a specified person has an interest, and the maximum value of the specified foreign financial asset is zero for purposes of reporting under § 1.6038D-4(a)(5).
+
+(c) *Foreign currency conversion*—(1) *In general.* Except as provided in paragraphs (c)(2) and (d) of this section, the U.S. Treasury Department's Bureau of the Fiscal Service foreign currency exchange rate is to be used to convert the value of a specified foreign financial asset into U.S. dollars for purposes of determining the aggregate value of specified foreign financial assets in which a specified person has an interest and determining the maximum value of a specified foreign financial asset.
+
+(2) *Other publicly available exchange rate.* If no U.S. Treasury Department Bureau of the Fiscal Service foreign currency exchange rate is available for a particular currency, another publicly available foreign currency exchange rate may be used to convert the value of a specified foreign financial asset into U.S. dollars. In such case, the source of the foreign currency exchange rate must be disclosed on Form 8938.
+
+(3) *Currency exchange rate.* In converting the currency of a foreign country, the foreign currency exchange rate applicable for converting the currency into U.S. dollars (that is, to purchase U.S. dollars) must be used.
+
+(4) *Determination date.* In converting the currency of a foreign country into U.S. dollars for purposes of determining the maximum value of a specified foreign financial asset and determining the aggregate value of specified foreign financial assets in which a specified person has an interest, the applicable foreign currency exchange rate is the rate on the last day of the taxable year of the specified person, even if the specified person sold or otherwise disposed of a specified foreign financial asset prior to the last day of such year.
+
+(d) *Financial accounts.* A specified person may rely upon periodic account statements that are provided at least annually by or on behalf of a financial institution maintaining an account, including the foreign currency conversion reflected in those statements, to determine the financial account's maximum value unless the specified person has actual knowledge, or reason to know based on readily accessible information, that the statements do not reflect a reasonable estimate of the maximum account value during the taxable year.
+
+(e) *Asset held in a financial account.* The value of an asset held in a financial account maintained by a foreign financial institution is included in determining the value of that financial account for purposes of § 1.6038D-5(a).
+
+(f) *Other specified foreign financial assets*—(1) *General rule.* Except as provided in paragraphs (f)(2) and (3) of this section, for specified foreign financial assets that are not financial accounts and that are held for investment and not held in an account maintained by a financial institution, a specified person may use the value of the asset as of the last day of the taxable year on which the specified person has an interest in the asset as the maximum value of that asset, unless the specified person has actual knowledge, or reason to know based on readily accessible information, that the value does not reflect a reasonable estimate of the maximum value of the asset during the taxable year.
+
+(2) *Interests in trusts that are specified foreign financial assets*—(i) *Maximum value.* If a specified person is a beneficiary of a foreign trust, the maximum value of the specified person's interest in the trust is the sum of—
+
+(A) The fair market value, determined as of the last day of the taxable year, of all of the currency or other property distributed from the foreign trust during the taxable year to the specified person as a beneficiary; and
+
+(B) The value, determined as of the last day of the taxable year, of the specified person's right as a beneficiary to receive mandatory distributions from the foreign trust as determined under section 7520.
+
+(ii) *Reporting threshold.* For purposes of determining the aggregate value of specified foreign financial assets in which a specified person has an interest, if the specified person does not know, or have reason to know based on readily accessible information, the fair market value of the person's interest in a foreign trust during the taxable year, the value to be included in determining the aggregate value of the specified foreign financial assets is the maximum value of the specified person's interest in the foreign trust under paragraph (f)(2)(i) of this section.
+
+(3) *Interests in estates, pension plans, and deferred compensation**plans*—(i) *Maximum value.* The maximum value of a specified person's interest in a foreign estate, foreign pension plan, or foreign deferred compensation plan is the fair market value, determined as of the last day of the taxable year, of the specified person's beneficial interest in the assets of the foreign estate, foreign pension plan, or foreign deferred compensation plan. If the specified person does not know, or have reason to know based on readily accessible information, such fair market value, the maximum value to be reported is the fair market value, determined as of the last day of the taxable year, of the currency and other property distributed during the taxable year to the specified person as a beneficiary or participant.
+
+(ii) *Reporting threshold.* For purposes of determining the aggregate value of specified foreign financial assets in which a specified person has an interest, if the specified person does not know, or have reason to know based on readily accessible information, the fair market value of the person's interest in a foreign estate, foreign pension plan, or foreign deferred compensation plan during the taxable year, the value to be included in determining the aggregate value of the specified foreign financial assets is the fair market value, determined as of the last day of the taxable year, of the currency and other property distributed during the taxable year to the specified person as a beneficiary or participant.
+
+(g) *Effective/applicability dates.* This section applies to taxable years ending after December 19, 2011. Taxpayers may elect to apply the rules of this section to taxable years ending prior to December 19, 2011.
+
+[T.D. 9706, 79 FR 73830, Dec. 12, 2014]

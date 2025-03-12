@@ -1,0 +1,13 @@
+##### § 1.405-2 Deduction of contributions to qualified bond purchase plans. #####
+
+(a) *In general.* An employer shall be allowed a deduction for contributions paid to or under a qualified bond purchase plan in the same manner and to the same extent as if such contributions were made to a trust described in section 401(a) which is exempt from tax under section 501(a). A deduction will be allowed only for the taxable year in which the contributions are paid, or treated as paid, except as provided by section 404(a) (1), (3), and (7). For purposes of the deduction, a contribution is paid at the time the application for the bond is made and the full purchase price paid.
+
+(b) *Rules for applying section 404.* If a qualified bond purchase plan is designed as a pension plan as defined in paragraph (b)(1)(i) of § 1.401-1, the limitations of section 404 applicable to qualified pension trusts shall apply. See §§ 1.404(a)-3 through 1.404(a)-7. Similarly, if a qualified bond purchase plan is designed as a profit-sharing plan as defined in paragraph (b)(1)(ii) of § 1.401-1, the limitations of section 404 applicable to qualified profit-sharing trusts shall apply. See §§ 1.404(a)-9 and 1.404(a)-10. In addition, if a qualified bond purchase plan designed as a pension plan covers some or all of the employees who are covered by a qualified profit-sharing plan established and maintained by the same employer, or if a qualified bond purchase plan which is designed as a profit-sharing plan covers some or all the employees who are also covered by a qualified pension or annuity plan established and maintained by the same employer, section 404(a)(7) is applicable. See § 1.404(a)-(13). Furthermore, if a qualified bond purchase plan covers employees some or all of whom are employees within the meaning of section 401(c)(1), the provisions of section 404(a) (8), (9), and (10) and 404(e) shall also apply.
+
+(c) *Accrual method taxpayers.* In the case of a taxpayer using the accrual method of accounting, a contribution to a qualified bond purchase plan will be deemed paid on the last day of the year of accrual if -
+
+(1) During the taxable year of accrual the taxpayer incurs a liability to make the contribution, the amount of which is accruable under section 461 for such taxable year, and
+
+(2) Payment is in fact made no later than the time prescribed by the law for filing the return for the taxable year of accrual (including extensions thereof).
+
+[T.D. 6675, 28 FR 10131, Sept. 17, 1963]

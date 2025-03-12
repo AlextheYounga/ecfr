@@ -1,0 +1,3 @@
+##### § 536.301 Blocked account; blocked property. #####
+
+The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibition in § 536.201 held in the name of a specially designated narcotics trafficker or in which a specially designated narcotics trafficker has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control authorizing such action.

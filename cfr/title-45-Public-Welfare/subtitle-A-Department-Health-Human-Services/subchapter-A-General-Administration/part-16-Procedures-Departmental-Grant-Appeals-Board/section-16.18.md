@@ -1,0 +1,5 @@
+##### § 16.18 Mediation. #####
+
+(a) *In cases pending before the Board.* If the Board decides that mediation would be useful to resolve a dispute, the Board, in consultation with the parties, may suggest use of mediation techniques and will provide or assist in selecting a mediator. The mediator may take any steps agreed upon by the parties to resolve the dispute or clarify issues. The results of mediation are not binding on the parties unless the parties so agree in writing. The Board will internally insulate the mediator from any Board or staff members assigned to handle the appeal.
+
+(b) *In other cases.* In any other grants dispute, the Board may, within the limitations of its resources, offer persons trained in mediation skills to aid in resolving the dispute. Mediation services will only be offered at the request, or with the concurrence, of a responsible federal program official in the program under which the dispute arises. The Board will insulate the mediator if any appeal subsequently arises from the dispute.

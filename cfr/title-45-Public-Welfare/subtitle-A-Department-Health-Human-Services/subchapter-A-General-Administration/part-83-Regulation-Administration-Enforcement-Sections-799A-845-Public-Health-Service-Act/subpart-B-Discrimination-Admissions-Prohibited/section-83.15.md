@@ -1,0 +1,5 @@
+##### § 83.15 Designation by entity of responsible employee and adoption of grievance procedures. #####
+
+(a) *Designation of responsible employee.* A federally supported entity shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under this part, including any investigation of any complaint communicated to such entity alleging its noncompliance with this part or alleging any action which would be prohibited by this part. The entity shall notify all of its students and employees who work directly with students and applicants for admission of the name, office address and telephone number of the employee or employees appointed pursuant to this paragraph.
+
+(b) *Complaint procedure of entity.* A federally supported entity shall adopt and publish grievance procedures providing for prompt and equitable resolution of student and employee complaints alleging any action which would be prohibited by this part. Such procedures shall be in writing and available to all present and prospective students and employees.

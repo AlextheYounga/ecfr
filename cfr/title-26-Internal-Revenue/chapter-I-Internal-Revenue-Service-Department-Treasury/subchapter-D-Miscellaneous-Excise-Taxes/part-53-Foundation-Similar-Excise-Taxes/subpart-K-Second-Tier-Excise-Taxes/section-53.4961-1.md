@@ -1,0 +1,3 @@
+##### § 53.4961-1 Abatement of second tier taxes for correction within correction period. #####
+
+If any taxable event is corrected during the correction period for the event, then any second tier tax imposed with respect to the event shall not be assessed. If the tax has been assessed, it shall be abated. If the tax has been collected, it shall be credited or refunded as an overpayment. For purposes of this section, the tax imposed includes interest, additions to the tax and additional amounts. For definitions of the terms *second tier tax, taxable event, correct,* and *correction period,* see § 53.4963-1.

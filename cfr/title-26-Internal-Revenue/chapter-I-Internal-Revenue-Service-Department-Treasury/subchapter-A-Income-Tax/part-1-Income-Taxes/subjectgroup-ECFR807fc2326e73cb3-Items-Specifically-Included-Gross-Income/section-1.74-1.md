@@ -1,0 +1,9 @@
+##### § 1.74-1 Prizes and awards. #####
+
+(a) *Inclusion in gross income.* (1) Section 74(a) requires the inclusion in gross income of all amounts received as prizes and awards, unless such prizes or awards qualify as an exclusion from gross income under subsection (b), or unless such prize or award is a scholarship or fellowship grant excluded from gross income by section 117. Prizes and awards which are includible in gross income include (but are not limited to) amounts received from radio and television giveaway shows, door prizes, and awards in contests of all types, as well as any prizes and awards from an employer to an employee in recognition of some achievement in connection with his employment.
+
+(2) If the prize or award is not made in money but is made in goods or services, the fair market value of the goods or services is the amount to be included in income.
+
+(b) *Exclusion from gross income.* Section 74(b) provides an exclusion from gross income of any amount received as a prize or award, if (1) such prize or award was made primarily in recognition of past achievements of the recipient in religious, charitable, scientific, educational, artistic, literary, or civic fields; (2) the recipient was selected without any action on his part to enter the contest or proceedings; and (3) the recipient is not required to render substantial future services as a condition to receiving the prize or award. Thus, such awards as the Nobel prize and the Pulitzer prize would qualify for the exclusion. Section 74(b) does not exclude prizes or awards from an employer to an employee in recognition of some achievement in connection with his employment.
+
+(c) *Scholarships and fellowship grants.* See section 117 and the regulations thereunder for provisions relating to scholarships and fellowship grants.

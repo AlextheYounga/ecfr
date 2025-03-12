@@ -1,0 +1,3 @@
+##### § 157.6151-1 Time and place for paying of tax shown on returns. #####
+
+The tax under chapter 55 (Structured Settlement Factoring Transactions) of the Internal Revenue Code shown on any return must, without assessment or notice and demand, be paid at the time and place specified in the forms and instructions provided by the Internal Revenue Service. For provisions relating to the time and place for filing such return, see § 157.6071-1 and § 157.6091-1. For provisions relating to the extension of time for paying the tax, see § 157.6161-1.

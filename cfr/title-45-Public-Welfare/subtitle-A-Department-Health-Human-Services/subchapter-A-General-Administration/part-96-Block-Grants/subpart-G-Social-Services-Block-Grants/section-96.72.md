@@ -1,0 +1,3 @@
+##### § 96.72 Transferability of funds. #####
+
+Under section 2002(d) of the Social Security Act (42 U.S.C. 1397a(d)), funds may be transferred in accordance with the provisions of that section to the preventive health and health services, alcohol and drug abuse and mental health services, primary care, maternal and child health services, and low-income home energy assistance block grants. In addition, funds may be transferred to other Federal block grants for support of health services, health promotion and disease prevention activities, or low-income home energy assistance (or any combination of those activities).

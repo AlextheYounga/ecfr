@@ -1,0 +1,3 @@
+##### § 411.72 Reporting to UCs. #####
+
+Following an investigation by the appropriate investigating authority into a UC's allegation of sexual abuse or sexual harassment, ORR must notify the UC in his/her preferred language of the result of the investigation if the UC is still in ORR care and custody and where feasible. If a UC has been released from ORR care when an investigation is completed, ORR should attempt to notify the UC. ORR may encourage the investigating agency to also notify other complainants or additional parties notified of the allegation of the result of the investigation.

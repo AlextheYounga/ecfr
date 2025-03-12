@@ -1,0 +1,15 @@
+##### § 96.41 General determination. #####
+
+(a) The Department has determined that, with the exception of the circumstances addressed in paragraph (c) of this section, Indian tribes and tribal organizations would be better served by means of grants provided directly by the Department to such tribes and organizations out of their State's allotment of block grant funds than if the State were awarded its entire allotment. Accordingly, with the exception of situations described in paragraph (c) of this section, the Department will, upon request of an eligible Indian tribe or tribal organization and where provided for by statute, reserve a portion of the allotment of the State(s) in which the tribe is located, and, upon receipt of a complete application and related submission meeting statutory and regulatory requirements, grant it directly to the tribe or organization.
+
+(b) An Indian tribe or tribal organization may request direct funding under a block grant program included in this subpart regardless of whether the State in which it is located is receiving funds under the block grant program.
+
+(c) The Department has determined that Indian tribal members eligible for the funds or services provided through the block grants would be better served by the State(s) in which the tribe is located rather than by the tribe, where:
+
+(1) The tribe has not used its block grant allotment substantially in accordance with the provisions of the relevant statute(s); and
+
+(2) Following the procedures of 45 CFR 96.51, the Department has withheld tribal funds because of those deficiencies; and
+
+(3) The tribe has not provided sufficient evidence that it has removed or corrected the reason(s) for withholding. In these cases, block grant funds reserved or set aside for a direct grant to the Indian tribe will be awarded to the State(s), and the State(s) will provide block grant services to the service population of the tribe. Before awarding these funds to the State(s), the Department will allow as much time as it determines to be reasonable for the tribe to correct the conditions that led to withholding, consistent with provision of timely and meaningful services to the tribe's service population during the fiscal year. If a State(s) is awarded funds under this paragraph, the State(s) will receive all remaining funds set aside for the tribe for the Federal fiscal year for which the award is made. Where the Department has withheld funds from a tribe and the tribe has not taken satisfactory corrective action by the first day of the following fiscal year, all of the funds to serve the tribe's service population for the following fiscal year will be awarded to the State(s). The State(s) is responsible for providing services to the service population of the tribe in these cases. This paragraph also applies when funds are withheld from a tribal organization.
+
+[47 FR 29486, July 6, 1982, as amended at 64 FR 55857, Oct. 15, 1999]

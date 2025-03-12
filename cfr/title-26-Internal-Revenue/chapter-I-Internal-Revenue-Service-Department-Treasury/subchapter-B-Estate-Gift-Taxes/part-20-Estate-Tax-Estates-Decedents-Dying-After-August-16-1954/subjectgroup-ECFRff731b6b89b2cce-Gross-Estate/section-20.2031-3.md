@@ -1,0 +1,11 @@
+##### § 20.2031-3 Valuation of interests in businesses. #####
+
+The fair market value of any interest of a decedent in a business, whether a partnership or a proprietorship, is the net amount which a willing purchaser whether an individual or a corporation, would pay for the interest to a willing seller, neither being under any compulsion to buy or to sell and both having reasonable knowledge of relevant facts. The net value is determined on the basis of all relevant factors including—
+
+(a) A fair appraisal as of the applicable valuation date of all the assets of the business, tangible and intangible, including good will;
+
+(b) The demonstrated earning capacity of the business; and
+
+(c) The other factors set forth in paragraphs (f) and (h) of § 20.2031-2 relating to the valuation of corporate stock, to the extent applicable.
+
+Special attention should be given to determining an adequate value of the good will of the business in all cases in which the decedent has not agreed, for an adequate and full consideration in money or money's worth, that his interest passes at his death to, for example, his surviving partner or partners. Complete financial and other data upon which the valuation is based should be submitted with the return, including copies of reports of examinations of the business made by accountants, engineers, or any technical experts as of or near the applicable valuation date. See section 2701 and the regulations at § 25.2701 of this chapter for special rules for valuing the transfer of an interest in a partnership and for the treatment of unpaid qualified payments at the death of the transferor or an applicable family member. See section 2703 and the regulations at § 25.2703 of this chapter for special rules involving options and agreements (including contracts to purchase) entered into (or substantially modified after) October 8, 1990. See section 2704(b) and the regulations at § 25.2704-2 of this chapter for special valuation rules involving certain restrictions on liquidation rights created after October 8, 1990.[T.D. 8395, 57 FR 4254, Feb. 4, 1992]

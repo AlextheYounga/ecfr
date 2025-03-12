@@ -1,0 +1,7 @@
+##### § 515.520 Payments from accounts of United States citizens in employ of United States in foreign countries and certain other persons. #####
+
+(a) Banking institutions within the United States are hereby authorized to make all payments, transfers and withdrawals from accounts in the name of citizens of the United States while such citizens are within any foreign country in the course of their employment by the Government of the United States.
+
+(b) Banking institutions within the United States are also hereby authorized to make all payments, transfers and withdrawals from accounts in the name of members of the armed forces of the United States and of citizens of the United States accompanying such armed forces in the course of their employment by any organization acting on behalf of the Government of the United States while such persons are within any foreign country.
+
+(c) This section is deemed to apply to the accounts of members of the armed forces of the United States and of citizens of the United States accompanying such armed forces in the course of their employment by the Government of the United States or by any organization acting on its behalf even though they are captured or reported missing.

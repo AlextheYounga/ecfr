@@ -1,0 +1,3 @@
+##### § 1.536-1 Short taxable years. #####
+
+Accumulated taxable income for a taxable year consisting of a period of less than 12 months shall not be placed on an annual basis for the purpose of the accumulated earnings tax imposed by section 531. In such cases accumulated taxable income shall be computed on the basis of the taxable income for such period of less than 12 months, adjusted in the manner provided by section 535(b) and § 1.535-2.

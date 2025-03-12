@@ -1,0 +1,5 @@
+##### § 49.4254-1 Computation of tax. #####
+
+(a) *General rule.* Except as provided in paragraph (b) of this section, when a bill is rendered to the taxpayer covering charges for general telephone service, toll telephone service, or telegraph service, with respect to which a tax is imposed by section 4251, the amount upon which the tax with respect to such services shall be based shall be the sum of all such charges for such services included in the bill.
+
+(b) *Special rule in certain cases.* When a bill is rendered to the taxpayer covering charges for general telephone service, toll telephone service, or telegraph service, with respect to which a tax is imposed by section 4251, by a person who groups individual items for purposes of rendering the bill and computing the tax, then the amount on which the tax with respect to each such group shall be based shall be the sum of all items within that group, and the tax on remaining items not included in any such group shall be based on the charge for each item separately.

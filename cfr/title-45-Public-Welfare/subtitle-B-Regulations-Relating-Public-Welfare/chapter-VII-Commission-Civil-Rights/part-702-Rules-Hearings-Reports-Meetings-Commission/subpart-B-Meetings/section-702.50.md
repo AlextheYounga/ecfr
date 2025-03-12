@@ -1,0 +1,3 @@
+##### § 702.50 Purpose and scope. #####
+
+This subpart contains the regulations of the United States Commission on Civil Rights implementing sections (a)-(f) of 5 U.S.C. 552b, the “Government in the Sunshine Act.” They are adopted to further the principle that the public is entitled to the fullest practicable information regarding the decision-making processes of the Commission. They open meetings of the Commission to public observation except where the rights of individuals are involved or the ability of the Commission to carry out its responsibilities requires confidentiality.

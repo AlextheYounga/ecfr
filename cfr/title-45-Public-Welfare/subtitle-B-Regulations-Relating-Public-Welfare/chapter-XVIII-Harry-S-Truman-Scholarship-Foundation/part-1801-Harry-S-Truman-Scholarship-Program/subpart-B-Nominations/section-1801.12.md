@@ -1,0 +1,3 @@
+##### § 1801.12 Institutions with more than one campus. #####
+
+If an institution has more than one component separately listed in the current edition of the Directory of Postsecondary Institutions published by the U.S. Department of Education, each component will be considered to be a separate institution under this regulation, and each may nominate up to four students. However, a component that is organized solely for administrative purposes and has no students may not nominate a student.

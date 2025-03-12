@@ -1,0 +1,9 @@
+##### § 19.630 May the Department of the Treasury impute conduct of one person to another? #####
+
+For purposes of actions taken under this rule, we may impute conduct as follows:
+
+(a) *Conduct imputed from an individual to an organization.* We may impute the fraudulent, criminal, or other improper conduct of any officer, director, shareholder, partner, employee, or other individual associated with an organization, to that organization when the improper conduct occurred in connection with the individual's performance of duties for or on behalf of that organization, or with the organization's knowledge, approval or acquiescence. The organization's acceptance of the benefits derived from the conduct is evidence of knowledge, approval or acquiescence.
+
+(b) *Conduct imputed from an organization to an individual, or between individuals.* We may impute the fraudulent, criminal, or other improper conduct of any organization to an individual, or from one individual to another individual, if the individual to whom the improper conduct is imputed either participated in, had knowledge of, or reason to know of the improper conduct.
+
+(c) *Conduct imputed from one organization to another organization.* We may impute the fraudulent, criminal, or other improper conduct of one organization to another organization when the improper conduct occurred in connection with a partnership, joint venture, joint application, association or similar arrangement, or when the organization to whom the improper conduct is imputed has the power to direct, manage, control or influence the activities of the organization responsible for the improper conduct. Acceptance of the benefits derived from the conduct is evidence of knowledge, approval or acquiescence.

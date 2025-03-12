@@ -1,0 +1,5 @@
+##### § 1.531-1 Imposition of tax. #####
+
+Section 531 imposes (in addition to the other taxes imposed upon corporations by chapter 1 of the Code) a graduated tax on the accumulated taxable income of every corporation described in section 532 and § 1.532-1. In the case of an affiliated group which makes or is required to make a consolidated return see § 1.1502-43. All of the taxes on corporations under chapter 1 of the Code are treated as one tax for purposes of assessment, collection, payment, period of limitations, etc. See section 535 and §§ 1.535-1, 1.535-2, and 1.535-3 for the definition and determination of accumulated taxable income.
+
+(Secs. 1502 and 7805 of the Internal Revenue Code of 1954 (68A Stat. 637, 917; 26 U.S.C. 1502, 7805))[T.D. 6500, 25 FR 11737, Nov. 26, 1960, as amended by T.D. 7244, 37 FR 28897, Dec. 30, 1972; T.D. 7937, 49 FR 3462, Jan. 27, 1984]

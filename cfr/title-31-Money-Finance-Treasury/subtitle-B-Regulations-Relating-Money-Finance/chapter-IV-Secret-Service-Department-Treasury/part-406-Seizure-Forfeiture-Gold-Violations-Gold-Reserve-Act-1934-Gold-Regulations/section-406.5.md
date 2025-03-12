@@ -1,0 +1,3 @@
+##### § 406.5 Forfeiture of gold valued in excess of $2,500. #####
+
+When the value of the gold seized by the Secret Service exceeds $2,500, the seizing officer shall furnish a report, approved by the principal local officer, to the U.S. attorney, and shall include in such report a statement of all the facts and circumstances of the case, together with the names of the witnesses and a citation to each of the statutes and sections of the Gold Regulations believed to have been violated and on which reliance may be had for forfeiture.

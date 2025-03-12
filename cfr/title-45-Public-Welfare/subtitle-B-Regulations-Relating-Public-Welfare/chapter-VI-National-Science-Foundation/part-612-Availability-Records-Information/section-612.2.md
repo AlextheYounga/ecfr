@@ -1,0 +1,5 @@
+##### § 612.2 Public reading room. #####
+
+(a) The Foundation maintains a public reading room located in the NSF Library at 4201 Wilson Boulevard, Suite 225, Arlington, Virginia, open during regular working hours Monday through Friday. It contains the records that the FOIA requires to be made regularly available for public inspection and copying and has computers and printers available for public use in accessing records. Also available for public inspection and copying are current subject matter indexes of reading room records.
+
+(b) Information about FOIA and Privacy at NSF and copies of frequently requested FOIA releases are available online at *www.nsf.gov/policies/foia/jsp.* Most NSF policy documents, staff instructions, manuals, and other publications that affect a member of the public, are available in electronic form through the “Publications” option on the tool bar on NSF's Home Page on the World Wide Web at *www.nsf.gov.*

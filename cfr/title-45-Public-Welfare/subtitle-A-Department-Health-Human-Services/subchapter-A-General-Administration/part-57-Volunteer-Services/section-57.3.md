@@ -1,0 +1,3 @@
+##### § 57.3 Volunteer service programs. #####
+
+Programs for the use of volunteer services may be established by the Secretary, or his designee, to broaden and strengthen the delivery of health services, contribute to the comfort and well being of patients in Department hospitals or clinics, or expand the services required in the operation of a health care facility. Volunteers may be used to supplement, but not to take the place of, personnel whose services are obtained through the usual employment procedures.

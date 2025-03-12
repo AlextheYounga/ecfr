@@ -1,0 +1,9 @@
+##### § 73.735-903 Action if conflicts of interest or possible conflicts are noted. #####
+
+(a) If after reviewing a financial disclosure report or a financial interest statement, a reviewing official believes that additional information is needed, he or she shall tell the individual submitting such report what additional information is required and the time by which it must be submitted.
+
+(b) If the reviewing official is of the opinion that, on the basis of information submitted, the reporting individual is not in compliance with applicable laws and regulations, he or she shall notify the individual, afford him or her a reasonable opportunity for a written or oral response, and after consideration of such response, determine whether or not the individual is in compliance.
+
+(c) If the reviewing official determines that an individual is not in compliance with applicable laws and regulations, he or she shall notify the individual of that determination in writing and, after an opportunity for personal consultation, determine and notify the individual of the action, including those actions set forth in § 73.735-904, that would be appropriate to assure compliance with such laws and regulations, and the date by which such action should be taken. The action required and the date for taking it shall be determined by the nature of the financial interest or other relationship, the particular circumstances of the reporting individual (including his or her ability to resolve the problem), and other factors which the reviewing official deems relevant. In no case, however, should the date be later than 90 days after the reporting individual is notified of the reviewing official's opinion.
+
+(d) If steps for assuring compliance with applicable laws and regulations are not taken by the date set in paragraph (c) of this section, the matter shall be referred to the Department Ethics Counselor.

@@ -1,0 +1,3 @@
+##### § 306.77 Corepresentatives and fiduciaries. #####
+
+If there are two or more executors, administrators, guardians or similar representatives, or trustees of an estate, all must unite in the assignment of any securities belonging to the estate. However, when a statute, a decree of court, or the instrument under which the representatives or fiduciaries are acting provides otherwise, assignments in accordance with their authority will be accepted. If the securities have matured or been called and are submitted for redemption for the account of all, or for redemption-exchange or pursuant to an advance refunding or prerefunding offer, and the securities offered in exchange are to be registered in the names of all, no assignment is required.

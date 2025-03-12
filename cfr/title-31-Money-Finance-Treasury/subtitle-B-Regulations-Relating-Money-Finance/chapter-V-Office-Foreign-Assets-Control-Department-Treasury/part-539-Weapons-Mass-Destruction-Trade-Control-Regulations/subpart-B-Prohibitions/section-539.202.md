@@ -1,0 +1,3 @@
+##### § 539.202 Prohibition on import-related transactions. #####
+
+Except as otherwise authorized, no United States person may finance, act as broker for, transfer, transport, or otherwise participate in the importation into the United States on or after the effective date of any goods, technology, or services produced or provided by a designated foreign person, other than information or informational materials.

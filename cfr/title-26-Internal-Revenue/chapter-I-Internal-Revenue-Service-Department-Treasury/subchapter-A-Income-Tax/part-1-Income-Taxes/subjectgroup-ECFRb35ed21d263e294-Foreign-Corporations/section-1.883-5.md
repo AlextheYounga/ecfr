@@ -1,0 +1,11 @@
+##### § 1.883-5 Effective/applicability dates. #####
+
+(a) *General rule.* Sections 1.883-1 through 1.883-4 apply to taxable years of a foreign corporation seeking qualified foreign corporation status beginning after September 24, 2004.
+
+(b) *Election for retroactive application.* Taxpayers may elect to apply §§ 1.883-1 through 1.883-4 for any open taxable year of the foreign corporation beginning after December 31, 1986, except that the substantiation and reporting requirements of § 1.883-1(c)(3) (relating to the substantiation and reporting required to be treated as a qualified foreign corporation) or §§ 1.883-2(f), 1.883-3(d) and 1.883-4(e) (relating to additional information to be included in the return to demonstrate whether the foreign corporation satisfies the stock ownership test) will not apply to any year beginning before September 25, 2004. Such election shall apply to the taxable year of the election and to all subsequent taxable years beginning before September 25, 2004.
+
+(c) *Transitional information reporting rule.* For taxable years of the foreign corporation beginning after September 24, 2004, and until such time as the Form 1120-F, “U.S. Income Tax Return of a Foreign Corporation,” or its instructions are revised to provide otherwise, the information required in § 1.883-1(c)(3) and § 1.883-2(f), § 1.883-3(d) or § 1.883-4(e), as applicable, must be included on a written statement attached to the Form 1120-F and file with the return.
+
+(d) *Effective/applicability dates.* Except as otherwise provided in this paragraph (d), §§ 1.883-1, 1.883-2, 1.883-3, and 1.883-4 apply to taxable years of the foreign corporation beginning after June 25, 2007, and may be applied to any open taxable years of the foreign corporation beginning on or after December 31, 2004. The portion of any provision concerning bearer shares maintained in a dematerialized or immobilized book-entry system, as described in § 1.883-1(c)(3)(i)(G), applies to taxable years of a foreign corporation beginning on or after September 17, 2010.
+
+[T.D. 9218, 70 FR 45530, Aug. 8, 2005, as amended by T.D. 9332, 72 FR 34609, June 25, 2007; T.D. 9502, 75 FR 56865, Sept. 17, 2010; 75 FR 63380, Oct. 15, 2010]

@@ -1,0 +1,5 @@
+##### § 1705.10 Fees. #####
+
+(a) The Commission will not charge an individual for the costs of making a search for a record or the costs of reviewing the record. When the Commission makes a copy of a record as a necessary part of the process of disclosing the record to an individual, the Commission will not charge the individual for the cost of making that copy.
+
+(b) If an individual requests the Commission to furnish him or her with a copy of the record (when a copy has not otherwise been made as a necessary part of the process of disclosing the record to the individual) the Commission will charge a fee of $0.25 per page (maximum per page dimension of 81/2 by 13 inches) to the extent that the request exceeds $5 in cost to the Commission. Requests not exceeding $5 in cost to the Commission will be met without cost to the requester.

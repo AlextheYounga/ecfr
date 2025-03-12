@@ -1,0 +1,11 @@
+##### § 612.4 Processing requests. #####
+
+(a) *Monitoring of requests.* The NSF Office of the General Counsel (OGC), or such other office as may be designated by the Director, will serve as the central office for administering these regulations. For records maintained by the Office of Inspector General, that Office will control incoming requests made directly or referred to it, dispatch response letters, and maintain administrative records. For all other records maintained by NSF, OGC (or such other office as may be designated by the Director) will control incoming requests, assign them to appropriate action offices, monitor compliance, consult with action offices on disclosure, approve necessary extensions, dispatch denial and other letters, and maintain administrative records.
+
+(b) *Consultations and referrals.* When the NSF receives a request for a record in its possession that originated with another agency or in which another agency has a substantial interest, it may decide that the other agency of the Federal Government is better able to determine whether the record should or should not be released under the FOIA.
+
+(1) If the NSF determines that it is the agency best able to process the record in response to the request, then it will do so, after consultation with the other interested agencies where appropriate.
+
+(2) If it determines that it is not the agency best able to process the record, then it will refer the request regarding that record (or portion of the record) to the agency that originated or has a substantial interest in the record in question (but only if that agency is subject to the FOIA). Ordinarily, the agency that originated a record will be presumed to be best able to determine whether to disclose it.
+
+(3) Whenever NSF refers all or any part of the responsibility for responding to a request to another agency, it ordinarily will notify the requester of the referral and inform the requester of the name of each agency to which the request has been referred and of the part of the request that has been referred, unless such notification would disclose information otherwise exempt.

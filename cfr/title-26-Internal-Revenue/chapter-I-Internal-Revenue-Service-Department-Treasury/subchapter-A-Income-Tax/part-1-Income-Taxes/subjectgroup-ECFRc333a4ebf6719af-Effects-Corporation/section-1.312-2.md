@@ -1,0 +1,3 @@
+##### § 1.312-2 Distribution of inventory assets. #####
+
+Section 312(b) provides for the increase and the decrease of the earnings and profits of a corporation which distributes, with respect to its stock, inventory assets as defined in section 312(b)(2), where the fair market value of such assets exceeds their adjusted basis. The rules provided in section 312(b) (relating to distributions of certain inventory assets) shall be applicable without regard to the method used in computing inventories for the purpose of the computation of taxable income. Section 312(b) does not apply to distributions described in section 312(e).

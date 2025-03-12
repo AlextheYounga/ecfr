@@ -1,0 +1,3 @@
+##### § 561.312 Act of international terrorism. #####
+
+The term *act of**international terrorism* has the same definition as that provided under section 14 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note). As of February 27, 2012, the term *act of**international terrorism* means an act which is violent or dangerous to human life and that is a violation of the criminal laws of the United States or of any state or that would be a criminal violation if committed within the jurisdiction of the United States or any state and which appears to be intended to intimidate or coerce a civilian population; to influence the policy of a government by intimidation or coercion; or to affect the conduct of a government by assassination or kidnapping.

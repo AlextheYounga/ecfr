@@ -1,0 +1,17 @@
+##### § 16.11 Hearing. #####
+
+(a) *Electing a hearing.* If the appellant believes a hearing is appropriate, the appellant should specifically request one at the earliest possible time (in the notice of appeal or with the appeal file). The Board will approve a request (and may schedule a hearing on its own or in response to a later request) if it finds there are complex issues or material facts in dispute the resolution of which would be significantly aided by a hearing, or if the Board determines that its decisionmaking otherwise would be enhanced by oral presentations and arguments in an adversary, evidentiary hearing. The Board will also provide a hearing if otherwise required by law or regulation.
+
+(b) *Preliminary conference before the hearing.* The Board generally will hold a prehearing conference (which may be conducted by telephone conference call) to consider any of the following: the possibility of settlement; simplifying and clarifying issues; stipulations and admissions; limitations on evidence and witnesses that will be presented at the hearing; scheduling the hearing; and any other matter that may aid in resolving the appeal. Normally, this conference will be conducted informally and off the record; however, the Board, after consulting with the parties, may reduce results of the conference to writing in a document which will be made part of the record, or may transcribe proceedings and make the transcript part of the record.
+
+(c) *Where hearings are held.* Hearings generally are held in Washington, DC. In exceptional circumstances, the Board may hold the hearing at an HHS Regional Office or other convenient facility near the appellant.
+
+(d) *Conduct of the hearing.* (1) The presiding Board member will conduct the hearing. Hearings will be as informal as reasonably possible, keeping in mind the need to establish an orderly record. The presiding Board member generally will admit evidence unless it is determined to be clearly irrelevant, immaterial or unduly repetitious, so the parties should avoid frequent objections to questions and documents. Both sides may make opening and closing statements, may present witnesses as agreed upon in the prehearing conference, and may cross-examine. Since the parties have ample opportunity to develop a complete appeal file, a party may introduce an exhibit at the hearing only after explaining to the satisfaction of the presiding Board member why the exhibit was not submitted earlier (for example, because the information was not available).
+
+(2) The Board may request the parties to submit written statements of witnesses to the Board and each other prior to the hearing so that the hearing will primarily be concerned with cross-examination and rebuttal.
+
+(3) False statements of a witness may be the basis for criminal prosecution under sections 287 and 1001 of Title 18 of the United States Code.
+
+(4) The hearing will be recorded at Department expense.
+
+(e) *Procedures after the hearing.* The Board will send one copy of the transcript to each party as soon as it is received by the Board. At the discretion of the Board, the parties may be required or allowed to submit post-hearing briefs or proposed findings and conclusions (the parties will be informed at the hearing). A party should note any major prejudicial transcript errors in an addendum to its post-hearing brief (or if no brief will be submitted, in a letter submitted within a time limit set by the Board).

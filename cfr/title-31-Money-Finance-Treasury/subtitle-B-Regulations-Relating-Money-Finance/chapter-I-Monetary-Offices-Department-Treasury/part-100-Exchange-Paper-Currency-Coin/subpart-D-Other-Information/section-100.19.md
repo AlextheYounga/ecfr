@@ -1,0 +1,3 @@
+##### § 100.19 Disposition of counterfeit notes and coins. #####
+
+All counterfeit notes and coin found in remittances are cancelled and delivered to the U.S. Secret Service of the Department of the Treasury or to the nearest local office of that Service, a receipt for the same being forwarded to the sender. Communications with respect thereto should be addressed to the Director, U.S. Secret Service, Department of the Treasury, Washington, DC 20223.

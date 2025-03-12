@@ -1,0 +1,87 @@
+##### § 1.508-3 Governing instruments. #####
+
+(a) *General rule.* A private foundation shall not be exempt from taxation under section 501(a) for a taxable year unless by the end of such taxable year its governing instrument includes provisions the effects of which are:
+
+(1) To require distributions at such times and in such manner as not to subject the foundation to tax under section 4942, and
+
+(2) To prohibit the foundation from engaging in any act of self-dealing (as defined in section 4941(d)), from retaining any excess business holdings (as defined in section 4943(c)), from making any investments in such manner as to subject the foundation to tax under section 4944, and from making any taxable expenditures (as defined in section 4945(d)).
+
+(b) *Effect and nature of governing instrument*—(1) *In general.* Except as provided in paragraph (d) of this section, the provisions of a foundation's governing instrument must require or prohibit, as the case may be, the foundation to act or refrain from acting so that the foundation, and any foundation managers or other disqualified persons with respect thereto, shall not be liable for any of the taxes imposed by sections 4941, 4942, 4943, 4944, and 4945 of the Code or, in the case of a split-interest trust described in section 4947(a)(2), any of the taxes imposed by those sections of chapter 42 made applicable under section 4947. Specific reference to these sections of the Code will generally be required to be included in the governing instrument, unless equivalent language is used which is deemed by the Commissioner to have the same full force and effect. However, a governing instrument which contains only language sufficient to satisfy the requirements of the organizational test under § 1.501(c)(3)-1(b) will not be considered as meeting the requirements of this subparagraph, regardless of the interpretation placed on such language as a matter of law by a State court in a particular jurisdiction, unless the requirements of paragraph (d) of this section are satisfied.
+
+(2) *Corpus.* A governing instrument does not meet the requirements of paragraph (a)(1) of this section if it expressly prohibits the distribution of capital or corpus.
+
+(3) *Savings provisions.* For purposes of sections 508(d)(2) (A) and (e), a governing instrument need not include any provision which is inconsistent with section 101(l) (2), (3), (4), or (5) of the Tax Reform Act of 1969 (83 Stat. 533), as amended by sections 1301 and 1309 of the Tax Reform Act of 1976 (90 Stat. 1713, 1729), with respect to the organization. Accordingly, a governing instrument complying with the requirements of subparagraph (1) of this paragraph may incorporate any savings provision contained in section 101(l) (2), (3), (4), or (5) of the Tax Reform Act of 1969, as amended by sections 1301 and 1309 of the Tax Reform Act of 1976, as a specific exception to the general provisions of paragraph (a) of this section. In addition, in the absence of any express provisions to the contrary, the exceptions contained in such savings provisions will generally be regarded as contained in a governing instrument meeting the requirements of subparagraph (1) of this paragraph.
+
+(4) *Excess holdings.* For purposes of paragraph (a)(2) of this section, the prohibition against *retaining any excess business holdings (as defined in section 4943(c)*) shall be deemed only to prohibit the foundation from retaining any excess business holdings when such holdings would subject the foundation to tax under section 4943(a).
+
+(5) *Revoked ruling on status.* In the case of an organization which:
+
+(i) Has been classified as an organization described in section 509(a) (1), (2), (3), or (4), and
+
+(ii) Subsequently receives a ruling or determination letter stating that it is no longer described in section 509(a) (1), (2), (3), or (4), but is a private foundation within the meaning of section 509,
+
+such organization shall have 1 year from the date of receipt of such ruling or determination letter, or the final ruling or determination letter if a protest is filed to an earlier one, to meet the requirements of section 508(e). Section 508(d)(2)(A) shall not be applicable with respect to gifts and bequests made during this 1-year period if such requirements are met within the 1-year period.
+
+(6) *Judicial proceeding.* For purposes of paragraphs (a), (b)(5), (d)(2), and (e)(3) of this section, an organization shall be deemed to have met the requirements of section 508(e) within a year, if a judicial proceeding which is necessary to reform its governing instrument or other instrument is instituted within the year and within a reasonable time the organization, in fact, meets the requirements of section 508(e). For purposes only of paragraphs (b)(5), (d)(2), and (e)(3) of this section, if an organization organized before January 1, 1970, institutes such a judicial proceeding within such 1-year period, section 508 (e)(2)(C) shall be applied as if such proceeding had been instituted prior to January 1, 1972.
+
+(c) *Meaning of governing instrument.* For purposes of section 508(e), the term *governing instrument* shall have the same meaning as the term *articles of organization* under § 1.501(c)(3)-1(b)(2). The bylaws of an organization shall not constitute its governing instrument for purposes of section 508(e).
+
+(d) *Effect of State law*—(1) *In general.* A private foundation's governing instrument shall be deemed to conform with the requirements of paragraph (a) of this section if valid provisions of State law have been enacted which:
+
+(i) Require it to act or refrain from acting so as not to subject the foundation to the taxes imposed by section 4941 (relating to taxes on self-dealing), 4942 (relating to taxes on failure to distribute income), 4943 (relating to taxes on excess business holdings), 4944 (relating to taxes on investments which jeopardize charitable purpose), and 4945 (relating to taxable expenditures); or
+
+(ii) Treat the required provisions as contained in the foundation's governing instrument.
+
+(2) *Validity.* (i) Any provision of State law described in subparagraph (1) of this paragraph shall be presumed valid as enacted, and in the absence of State provisions to the contrary, to apply with respect to any foundation that does not specifically disclaim coverage under State law (either by notification to the appropriate State official or by commencement of judicial proceedings) except as provided in subdivisions (ii) and (iii) of this subparagraph.
+
+(ii) If such provision is declared invalid or inapplicable with respect to a class of foundations by the highest appellate court of the State or by the Supreme Court of the United States, the foundations covered by the determination must meet the requirements of section 508(e) within 1 year from the date on which the time for perfecting an application for review by the Supreme Court expires. If such application is filed, the requirements of section 508(e) must be met within a year from the date on which the Supreme Court disposes of the case, whether by denial of the application for review or decision on the merits.
+
+(iii) In addition, if such provision of State law is declared invalid or inapplicable with respect to a class of foundations by any court of competent jurisdiction which decision is not reviewed by a court referred to in subdivision (ii) of this subparagraph, and the Commissioner makes notice to the general public (such as by publication in the Internal Revenue Bulletin) that such provision has been so declared invalid or inapplicable, then all foundations in such State must meet the requirements of section 508(e), without reliance upon such statute to the extent declared invalid or inapplicable by such decision, within 1 year from the date such notice is made public.
+
+(iv) This subparagraph shall not apply to any foundation that is subject to a final judgment entered by a court of competent jurisdiction, holding the law invalid or inapplicable with respect to such foundation. See paragraph (b)(6) of this section for the effect of certain judicial proceedings that are brought within 1 year.
+
+(3) *Conflicting instrument.* For taxable years beginning after March 22, 1973 in order for a private foundation or trust described in section 4947(a)(2) to receive the benefit of coverage under any State statute which makes applicable the requirements of section 508(e)(1) (A) and (B), where the statute by its terms does not apply to a governing instrument which contains a mandatory direction conflicting with any of such requirements, such organization must indicate on its annual return required to be filed under section 6033 (or section 6012 in the case of a trust described in section 4947(a)) that its governing instrument contains no mandatory directions which conflict with the requirements of section 508(e)(1) (A) or (B), as incorporated by the State statute. General language in a governing instrument empowering the trustee to make investments without being limited to those investments authorized by law will not be regarded as a mandatory conflicting direction.
+
+(4) *Exclusion from statute.* (i) For any taxable year beginning after March 22, 1973 in the case of a private foundation or trust described in section 4947(a)(2) subject to a State statute which makes applicable the requirements of section 508(e)(1) (A) and (B) to the governing instruments of such organizations, other than those which take action to be excluded therefrom (such as by filing a notice of exclusion or by instituting appropriate judicial proceedings), an organization will receive the benefit of such State statute only if it indicates on its annual return required to be filed under section 6033 (or section 6012 in the case of a trust described in section 4947(a)) that it has not so taken action to be excluded.
+
+(ii) This paragraph permits certain organizations that are subject to the provisions of such a State law, to avoid changing their governing instruments in order to meet the requirements of section 508(e)(1). Since an organization which avoids the application of a provision or provisions of State law, such as by filing a notice of exclusion, is not entitled to the benefits of this paragraph, such an organization must meet the requirements of section 508(e)(1) without regard to this paragraph and except as provided in section 508(e)(2)(C) or paragraph (g)(1)(iii) of this section must change its governing instrument to the extent inconsistent with section 508(e)(1).
+
+(5) *Treatment of prevailing conflicting clause.* If provisions of State law are inapplicable to a clause in a governing instrument which is contrary to the provisions of section 508(e)(1), the requirements of section 508(e)(2)(C) and paragraph (g)(1)(iii) of this section are not satisfied by a provision of State law which purports to eliminate the need for litigation under such circumstances. Therefore, except as otherwise provided in this section unless the governing instrument is changed or litigation is commenced pursuant to section 508(e)(2)(B) by an organization organized before January 1, 1970, or pursuant to paragraph (g)(1)(ii) of this section, to amend the nonconforming provision to meet the requirements of section 508(e)(1) (A) and (B), then pursuant to section 508(e), such organization will not be exempt from taxation.
+
+(6) *Retroactive application to grants or bequests.* If valid provisions of such a State law apply retroactively to a taxable year within which an organization has received a grant or request, section 508(d)(2)(A) shall not apply so as to disallow such grant or bequest, but only if such valid provisions of State law are enacted within 2 years of such grant or bequest.
+
+(e) *Effect of section 508(e) upon section 4947 trusts*—(1) *Section 4947(a)(1) trusts.* A charitable trust described in section 4947(a)(1) (unless also described in a paragraph of section 509(a)) is subject to all the provisions of paragraph (a) of this section.
+
+(2) *Section 4947(a)(2) trusts.* A split-interest trust described in section 4947(a)(2), as long as it is so described, is subject to the provisions of paragraph (a)(2) of this section, except to the extent that section 4947 makes any such provisions inapplicable to certain trusts and certain amounts in trust. The governing instrument of a trust described in section 4947(a)(2) may except amounts described in section 4947(a)(2) (A), (B), and (C) from the requirements of paragraph (a)(2) of this section. In the case of a trust having amounts transferred to it both before May 27, 1969, and after May 26, 1969, its governing instrument may except from the provisions of paragraph (a)(2) of this section only those segregated amounts excluded from the application of section 4947(a)(2) by reason of section 4947(a)(2)(C) and the regulations thereunder. Also, the governing instrument of such a trust may exclude the application of sections 4943 and 4944 for any period during which such trust is described in section 4947(b)(3) (A) or (B). See § 53.4947-1(c) of this chapter for rules relating to the applicability of section 4947 to split-interest trusts and § 1.508-2(b)(1) (vi) and (vii) for rules relating to the deductibility of grants or bequests to such trusts.
+
+(3) *A section 4947(a)(2) trust becoming a section 4947(a)(1) trust.* If the governing instrument of a trust described in section 4947(a)(2) meets the applicable requirements of paragraph (a)(2) of this section and such trust ceases to be so described and becomes instead a trust described in section 4947(a)(1), then such governing instrument must meet, prior to the end of 12 months from the date such trust first becomes described in section 4947(a)(1) (except as otherwise provided in this section) all the requirements of paragraph (a) of this section in order to comply with section 508(e).
+
+(f) *Special rules for existing private foundations.* (1) Pursuant to section 508(e)(2), section 508(e)(1) and paragraph (a) of this section shall not apply in the case of any organization whose governing instrument was executed before January 1, 1970:
+
+(i) To any taxable year beginning before January 1, 1972;
+
+(ii) To any period after December 31, 1971, during the pendency of any judicial proceeding begun before January 1, 1972, by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument in order to meet the requirements of section 508(e)(1); and
+
+(iii) To any period after the termination of any judicial proceeding described in subdivision (ii) of this subparagraph during which its governing instrument or any other instrument does not permit it to meet the requirements of section 508(e)(1).
+
+(2) For purposes of subparagraph (1) of this paragraph, and § 1.508-2(b)(1)(vi)(*a*), a governing instrument will not be treated as executed before the applicable date, if, after such date the dispositive provisions of the instrument are amended (determined under rules similar to the rules set forth in § 20.2055-2(e)(4) of this chapter).
+
+(3) For purposes of subparagraph (1) (ii) and (iii) of this paragraph, a private foundation will be treated as meeting the requirements of section 508(e)(2) (B) and (C) if it has commenced a necessary and timely proceeding in an appropriate court of original jurisdiction and such court has ruled that the foundation's governing instrument or any other instrument does not permit it to meet the requirements of section 508(e)(1). Such foundation is not required to commence proceedings in any court of appellate jurisdiction in order to comply with section 508(e)(2)(C). See also § 1.508-2(b)(2).
+
+(g) *Extension of time for compliance with section 508(e).* (1) Except as provided in subparagraph (2) of this paragraph, section 508(e)(1) shall not apply to any private foundation (regardless of when organized) with respect:
+
+(i) To any taxable year beginning before the transitional date,
+
+(ii) To any period on or after the transitional date during the pendency of any judicial proceeding begun before the transitional date by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument in order to meet the requirements of section 508(e)(1), and
+
+(iii) To any period after the termination of any judicial proceeding described in subdivision (ii) of this subparagraph during which its governing instrument or any other instrument does not permit it to meet the requirements of section 508(e)(1).
+
+(2) Subparagraph (1) of this paragraph shall apply only to gifts or bequests referred to in section 508(d)(2)(A) that are made before the transitional date.
+
+(3) For purposes of this paragraph the term *transitional dates* means the earlier of the following dates:
+
+(i) In the case of a medical research organization, May 21, 1976 or in the case of a community trust February 10, 1977, or
+
+(ii) The 91st day after the date an organization receives a final ruling or determination letter that it is a private foundation under section 509(a).
+
+[T.D. 7232, 37 FR 28292, Dec. 22, 1972, as amended by T.D. 7440, 41 FR 50656, Nov. 17, 1976; T.D. 7678, 45 FR 12415, Feb. 26, 1980]

@@ -1,0 +1,5 @@
+##### § 96.45 Preventive health and health services. #####
+
+(a) This section applies to direct funding of Indian tribes and tribal organizations under the preventive health and health services block grant.
+
+(b) For the purposes of determining eligible applicants under section 1902(d) of the Public Health Service Act, a grantee that received a grant directly from the Secretary in FY 1981 under any of the programs replaced by the preventive health and health services block grant that was specifically targeted toward serving a particular Indian tribe or tribal organization will be considered eligible if the grantee is an Indian tribe or tribal organization at the time it requests funds under this part. Grantees that received funds under formula or Statewide grants, and subgrantees that received funds from any program replaced by the preventive health and health services block grant, are not eligible.

@@ -1,0 +1,3 @@
+##### § 2540.610 What are the consequences of making a false or misleading statement? #####
+
+If it is determined that you made a false or misleading statement in connection with your eligibility for a benefit from, or qualification to participate in, a Corporation-funded program, it may result in the revocation of the qualification or forfeiture of the benefit. Revocation and forfeiture under this part are in addition to any other remedy available to the Federal Government under the law against persons who make false or misleading statements in connection with a Federally-funded program.

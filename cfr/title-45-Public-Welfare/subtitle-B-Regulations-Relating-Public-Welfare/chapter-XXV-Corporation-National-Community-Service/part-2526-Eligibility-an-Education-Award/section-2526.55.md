@@ -1,0 +1,5 @@
+##### § 2526.55 What is the impact of the aggregate value of education awards received on an individual's ability to serve in subsequent terms of service? #####
+
+The aggregate value of education awards an individual has received will not impact an individual's ability to serve in a subsequent term of service, but will impact the amount of the education award the individual may receive upon successful completion of that term of service. If the award amount offered for the term of service has a value that, when added to the aggregate value of awards previously received, would exceed 2, upon successful completion of the term of service, the individual will only receive that portion of the award having a value for which the individual is eligible pursuant to § 2527.10(g).
+
+[75 FR 51412, Aug. 20, 2010]

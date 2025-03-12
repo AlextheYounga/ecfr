@@ -1,0 +1,3 @@
+##### § 337.8 Payment of mortgage insurance premiums. #####
+
+When certificated debentures are tendered for purchase prior to maturity in order that the proceeds thereof be applied to pay for mortgage insurance premiums, any difference between the amount of the debentures purchased and the amount of the mortgage insurance premium will generally be issued to the owner in the form of a book-entry debenture in the exact amount of such difference, provided it is one dollar ($1.00) or more. However, if the owner so requests, such difference will be settled with certificated debenture(s), together with a cash adjustment, if any. Such request should be made in writing, before the book-entry debenture in the amount of the difference is issued.

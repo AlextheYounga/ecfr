@@ -1,0 +1,3 @@
+##### § 353.25 General. #####
+
+Relief, by the issue of a substitute bond or by payment, is authorized for the loss, theft, destruction, mutilation, or defacement of a bond after receipt by the owner or his or her representative. As a condition for granting relief, the Commissioner of the Fiscal Service, as designee of the Secretary of the Treasury, may require a bond of indemnity, in the form, and with the surety, or security, he considers necessary to protect the interests of the United States. In all cases the savings bond must be identified by serial number and the applicant must submit satisfactory evidence of the loss, theft, or destruction, or a satisfactory explanation of the mutilation or defacement.

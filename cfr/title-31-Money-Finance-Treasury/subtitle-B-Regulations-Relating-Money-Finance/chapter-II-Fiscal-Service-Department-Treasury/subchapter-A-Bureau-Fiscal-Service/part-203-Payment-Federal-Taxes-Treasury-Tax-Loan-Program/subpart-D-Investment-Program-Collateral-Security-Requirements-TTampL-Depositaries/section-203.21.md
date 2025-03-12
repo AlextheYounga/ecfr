@@ -1,0 +1,39 @@
+##### § 203.21 Collateral security requirements. #####
+
+Financial institutions that process EFTPS tax payments, but that are not TT&L depositaries, have no collateral requirements under this part. Financial institutions that are TT&L depositaries have collateral security requirements, as follows:
+
+(a) *Investor and retainer depositaries*—(1) *PATAX and EFTPS tax payments.* Investor and retainer depositaries must pledge collateral security in accordance with the requirements of paragraphs (c)(l), (d), and (e) of this section in an amount that is sufficient to cover the TIP main account balance and the balance in the TT&L account that exceeds the recognized insurance coverage.
+
+(2) *Direct investments.* An investor depositary is required to pledge collateral in accordance with the requirements of paragraphs (c), (d), and (e) of this section no later than the day before a direct investment is placed. However, each investor depositary participating in same-day direct investments must pledge, prior to the announcement, collateral up to its balance limit to obtain the depositary's maximum portion of the same-day direct investment.
+
+(3) *SDIs.* The day before SDIs are credited to an investor depositary's SDI account balance, the depositary must pledge collateral security, in accordance with the requirements of paragraphs (c)(2), (d), and (e) of this section, to cover the total of the SDIs to be received.
+
+(4) *TIO.* Each depositary participating in the term investment program must pledge, prior to the time the term investment is placed, collateral in accordance with paragraphs (c)(1), (c)(2) for certain term investments as determined by Treasury, (d), and (e) of this section sufficient to cover the total TIO account balance.
+
+(b) *Collector depositaries.* Prior to crediting FTD deposits to the TT&L account, a collector depositary must pledge collateral security, in accordance with the requirements of paragraphs (c)(1), (d), and (e) of this section, in an amount which is sufficient to cover the balance in the TT&L account that exceeds the recognized insurance coverage.
+
+(c) *Deposits of securities.* (1) Collateral security required under paragraphs (a)(1), (2), (4) (except as provided in subparagraph (2) below), and (b) of this section must be deposited with the depositary's FRB, or with a custodian or custodians within the United States designated by the TSC or FRB, under terms and conditions prescribed by the TSC or FRB.
+
+(2) A depositary pledging collateral security as required under paragraph (a)(3) or paragraph (a)(4) (when permitted) of this section must pledge the collateral under a written security agreement on a form provided by the FRB. The collateral security pledged to satisfy the requirements of paragraphs (a)(3) and (a)(4) (when permitted) of this section may remain in the pledging depositary's possession provided that the pledging is evidenced by advices of custody incorporated by reference in the written security agreement. The depositary must provide the written security agreement and all advices of custody covering collateral security pledged under that agreement to the FRB. Collateral security pledged under the agreement may not be substituted for or released without the advance approval of the FRB, and any collateral security subject to the security agreement will remain so subject until an approved substitution is made. No substitution or release will be approved until an advice of custody containing the description required by the written security agreement is received by the FRB.
+
+(3) Treasury's security interest in collateral security pledged by a depositary in accordance with paragraphs (c)(2) of this section to secure SDIs and certain term investments is perfected without Treasury taking possession of the collateral security by filing or, absent filing, for a period not to exceed 20 calendar days from the day of the depositary's receipt of the special direct or term investment.
+
+(d) *Acceptable collateral.* The types of securities that may be used as collateral, and how those securities are valued, are set forth in 31 CFR part 380.
+
+(e) *Assignment of securities.* By pledging acceptable securities which are not negotiable without the depositary's endorsement or assignment, a TT&L depositary, in lieu of placing its unqualified endorsement on each security, appoints the FRB or its assigns as the depositary's attorney-in-fact with full irrevocable power and authority to endorse, assign or transfer the securities, and represents and warrants that an appropriate resolution authorizing the granting of such irrevocable power of attorney has been executed and adopted. The powers of attorney so granted are coupled with an interest and are irrevocable, and full power of substitution is granted to the assignee or holder.
+
+(f) *Effecting payments of principal and interest on securities or instruments pledged as collateral*—(1) *General.* Treasury, without notice or demand, may sell or otherwise collect the proceeds of all or part of the collateral, including additions, substitutions, interest, and distribution of principal, and apply the proceeds to satisfy any claims of the United States against the depositary, if any of the following events occur:
+
+(i) The depositary fails to pay, when due, the whole or any part of the funds received by it for credit to the TT&L account and, if applicable, its TIP main account balance, SDI account balance, or TIO account balance;
+
+(ii) The depositary fails to pay when due amounts owed to the United States or the United States Treasury;
+
+(iii) The depositary otherwise violates or fails to perform any of the terms of this part or any of the procedural instructions entered into hereunder; or
+
+(iv) The depositary is closed for business by regulatory action or by proper corporate action, or a receiver, conservator, liquidator, or any other officer is appointed for the depositary. All principal and interest payments on any security pledged to protect the TIP main account balance, the SDI account balance, the TIO account balance or the TT&L account, as applicable, due as of the date of the insolvency or closure or thereafter becoming due, will be held separate and apart from any other assets and will constitute a part of the pledged security available to satisfy any claim of the United States.
+
+(2) *Payment procedures.* (i) Subject to the waiver in paragraph (f)(2)(iii) of this section, each depositary (including, with respect to such depositary, an assignee for the benefit of creditors, a trustee in bankruptcy, or a receiver in equity) will, as soon as possible, remit to the FRB, as Fiscal agent, each payment of principal and/or interest received by it with respect to collateral pledged pursuant to this section. The remittance will be made no later than 10 days after receipt of such a payment.
+
+(ii) Subject to the waiver in paragraph (f)(2)(iii) of this section, each obligor on a security pledged by a depositary pursuant to this section, upon notification that Treasury is entitled to any payment associated with that pledged security, must make each payment of principal and/or interest due with respect to such security directly to the FRB, as Fiscal agent of the United States.
+
+(iii) The requirements of paragraphs (f)(2)(i) and (ii) of this section are hereby waived for only so long as a pledging depositary avoids both termination from the program under § 203.7 and also those circumstances identified in paragraph (f)(1) which may lead to the collection of the proceeds of collateral or the waiver is otherwise terminated by Treasury.

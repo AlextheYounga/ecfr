@@ -1,0 +1,11 @@
+##### § 1.9004-4 Manner of exercising election. #####
+
+(a) *By whom election is to be made.* Generally, the taxpayer whose tax liability is affected by the election shall make the election. In the case of a partnership, or a corporation electing under the provisions of subchapter S, chapter 1 of the Internal Revenue Code of 1954, the election shall be exercised by the partnership or such corporation, as the case may be.
+
+(b) *Time and manner of making election.* The election shall be made on or before December 11, 1961, by filing a statement with the district director with whom the taxpayer's income tax return for the taxable year in which the election is made is required to be filed. The statement shall include the following:
+
+(1) A clear indication that an election is being made under the Act, and
+
+(2) The taxable years to which the election applies.
+
+Amended income tax returns reflecting any increase or decrease in tax attributable to the election shall be filed for the taxable years to which the election applies. In the case of partnerships and electing small business corporations under subchapter S, chapter 1 of the Internal Revenue Code of 1954, amended returns shall be filed by the partnership or electing small business corporation, as well as by the partners or shareholders, as the case may be. Any amended return shall be filed with the office of the district director with whom the taxpayer files his income tax return for the taxable year in which the election is made and, if practicable, on the same date the statement of election is filed, but amended returns shall be filed in no event later than March 31, 1962, unless an extension of time is granted under section 6081 of the Internal Revenue Code of 1954. Whenever the amended returns do not accompany the statement of election, a copy of the statement shall be submitted with the amended returns. The amended returns shall be accompanied by payment of the additional tax (together with interest thereon) resulting from the election.(75 Stat. 674, 26 U.S.C. 613 note)[T.D. 6575, 26 FR 9633, Oct. 12, 1961]

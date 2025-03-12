@@ -1,0 +1,19 @@
+##### § 1.1378-1 Taxable year of S corporation. #####
+
+(a) *In general.* The taxable year of an S corporation must be a permitted year. A permitted year is the required taxable year (*i.e.,* a taxable year ending on December 31), a taxable year elected under section 444, a 52-53-week taxable year ending with reference to the required taxable year or a taxable year elected under section 444, or any other taxable year for which the corporation establishes a business purpose to the satisfaction of the Commissioner under section 442.
+
+(b) *Adoption of taxable year.* An electing S corporation may adopt, in accordance with § 1.441-1(c), its required taxable year, a taxable year elected under section 444, or a 52-53-week taxable year ending with reference to its required taxable year or a taxable year elected under section 444 without the approval of the Commissioner. See § 1.441-1. An electing S corporation that wants to adopt any other taxable year, must establish a business purpose and obtain the approval of the Commissioner under section 442.
+
+(c) *Change in taxable year*—(1) *Approval required.* An S corporation or electing S corporation that wants to change its taxable year must obtain the approval of the Commissioner under section 442 or make an election under section 444. However, an S corporation or electing S corporation may obtain automatic approval for certain changes, including a change to its required taxable year, pursuant to administrative procedures published by the Commissioner.
+
+(2) *Short period tax return.* An S corporation or electing S corporation that changes its taxable year must make its return for a short period in accordance with section 443, but must not annualize the corporation's taxable income.
+
+(d) *Retention of taxable year.* In certain cases, an S corporation or electing S corporation will be required to change its taxable year unless it obtains the approval of the Commissioner under section 442, or makes an election under section 444, to retain its current taxable year. For example, a corporation using a June 30 fiscal year that elects to be an S corporation and, as a result, is required to use the calendar year must obtain the approval of the Commissioner to retain its current fiscal year.
+
+(e) *Procedures for obtaining approval or making a section 444 election*—(1) *In general.* See § 1.442-1(b) for procedures to obtain the approval of the Commissioner (automatically or otherwise) to adopt, change, or retain a taxable year. See §§ 1.444-1T and 1.444-2T for qualifications, and 1.444-3T for procedures, for making an election under section 444.
+
+(2) *Special rules for electing S corporations.* An electing S corporation that wants to adopt, change to, or retain a taxable year other than its required taxable year must request approval of the Commissioner on Form 2553, “Election by a Small Business Corporation,” when the election to be an S corporation is filed pursuant to section 1362(b) and § 1.1362-6. See § 1.1362-6(a)(2)(i) for the manner of making an election to be an S corporation. If such corporation receives permission to adopt, change to, or retain a taxable year other than its required taxable year, the election to be an S corporation will be effective. Denial of the request renders the election ineffective unless the corporation agrees that, in the event the request to adopt, change to, or retain a taxable year other than its required taxable year is denied, it will adopt, change to, or retain its required taxable year or, if applicable, make an election under section 444.
+
+(f) *Effective date.* The rules of this section are applicable for taxable years ending on or after May 17, 2002.
+
+[T.D. 8996, 67 FR 35024, May 17, 2002]

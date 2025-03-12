@@ -1,0 +1,9 @@
+##### § 360.64 Payment or reinvestment—voluntary guardian of an incapacitated person. #####
+
+(a) *Payment of bonds.* (1) When an adult owner of bonds is incapable of requesting payment as a result of incapacity and there is no other person legally qualified to do so, the relative, or other person, responsible for the owner's care and support may submit an application for recognition as voluntary guardian for the purpose of redeeming the owner's bonds, if the total redemption value of all of the owner's bonds does not exceed $20,000. The bonds and application should be submitted to a designated Federal Reserve Bank or the Bureau of the Fiscal Service.
+
+(2) The redemption value of the bonds shall be determined as of the date the bonds are received, accompanied by an appropriate request for payment. If the total redemption value exceeds $20,000, a legal representative must be appointed, as set forth in § 360.60.
+
+(b) *Reinvestment of bonds.* (1) If the bonds have matured and ceased earning interest, they may be redeemed and the proceeds reinvested in any other savings bonds available. The new bonds must be registered in the name of the incapacitated person, followed by words showing that he or she is under voluntary guardianship; for example, “John Jones 123-45-6789, under voluntary guardianship”. A living coowner or beneficiary named on the matured bonds must be designated on the new bonds, unless such person furnishes a certified statement consenting to omission of his or her name.
+
+(2) If an amount insufficient to purchase an additional bond of any authorized denomination of savings bond remains after the reinvestment, the voluntary guardian may furnish additional funds sufficient to purchase another savings bond of the lowest available denomination. If additional funds are not furnished, the remaining amount will be paid to the voluntary guardian for the use and benefit of the incapacitated person.

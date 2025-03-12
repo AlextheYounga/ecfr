@@ -1,0 +1,11 @@
+##### § 306.106 Requests for suspension of transactions in bearer securities. #####
+
+(a) *Securities not overdue.* Neither the Department nor any of its agents will accept notice of any claim or of pending judicial proceedings by any person for the purpose of suspending transactions in bearer securities, or registered securities so assigned as to become in effect payable to bearer which are not overdue as defined in § 306.25.11 However, if the securities are received and retired, the department will undertake to notify persons who appear to be entitled to any available information concerning the source from which the securities were received.
+
+11 It has been the longstanding policy of the Department to assume no responsibility for the protection of bearer securities not in the possession of persons claiming rights therein and to give no effect to any notice of such claims. This policy was formalized on April 27, 1867, when the Secretary of the Treasury issued the following statement:
+
+“In consequence of the increasing trouble, wholly without practical benefit, arising from notices which are constantly received at the Department respecting the loss of coupon bonds, which are payable to bearer, and of Treasury notes issued and remaining in blank at the time of loss, it becomes necessary to give this public notice, that the Government cannot protect and will not undertake to protect the owners of such bonds and notes against the consequences of their own fault or misfortune.”
+
+“Hereafter all bonds, notes, and coupons, payable to bearer, and Treasury notes issued and remaining in blank, will be paid to the party presenting them in pursuance of the regulations of the Department, in the course of regular business; and no attention will be paid to caveats which may be filed for the purpose of preventing such payment.”
+
+(b) *Overdue securities.* Reports that bearer securities, or registered securities so assigned as to become in effect payable to bearer, were lost, stolen, or possibly destroyed after they became overdue as defined in § 306.25 will be accepted by the Bureau for the purpose of suspending redemption of the securities if the claimant establishes his interest. If the securities are presented, their redemption will be suspended and the presenter and the claimant will each be given an opportunity to establish ownership.

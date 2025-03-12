@@ -1,0 +1,5 @@
+##### § 25.2704-3 Effective date. #####
+
+Section 25.2704-1 applies to lapses occurring after January 28, 1992, of rights created after October 8, 1990. Section 25.2704-2 applies to transfers occurring after January 28, 1992, of property subject to applicable restrictions created after October 8, 1990. In determining whether a voting right or a liquidation right has lapsed prior to that date, and for purposes of determining whether the lapse is subject to section 2704(a), taxpayers may rely on any reasonable interpretation of the statutory provisions. For transfers of interests occurring before January 28, 1992, taxpayers may rely on any reasonable interpretation of the statutory provisions in detemining whether a restriction is an applicable restriction that must be disregarded in determining the value of the transferred interest. For these purposes, the provisions of the proposed regulations and the final regulations are considered a reasonable interpretation of the statutory provisions.
+
+[T.D. 8395, 57 FR 4277, Feb. 4, 1992; T.D. 8395, 57 FR 11265, Apr. 2, 1992]

@@ -1,0 +1,3 @@
+##### § 1150.2 What is the Endowment's authority to issue these regulations? #####
+
+The Endowment is issuing the regulations in this part under 31 U.S.C. 3711, 3716-3718, and 3720A. These sections reflect the Federal Claims Collection Act of 1966, as amended by the Debt Collection Act of 1982 and the Debt Collection Improvement Act of 1996. The Endowment is also issuing the regulations in this part in conformity with the Federal Claims Collection Standards, which prescribe standards for the handling of the Federal government's claims for money or property. The Endowment is further issuing the regulations in this part in conformity with 5 U.S.C. 5514 and the salary offset regulations published by the OPM at 5 CFR part 550, subpart K.

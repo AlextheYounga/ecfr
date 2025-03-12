@@ -1,0 +1,3 @@
+##### § 2516.100 What is the purpose of school-based service-learning programs? #####
+
+The purpose of school-based service-learning programs is to promote service-learning as a strategy to support high-quality service-learning projects that engage students in meeting community needs with demonstrable results, while enhancing students' academic and civic learning; and support efforts to build institutional capacity, including the training of educators, and to strengthen the service infrastructure to expand service opportunities.

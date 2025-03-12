@@ -1,0 +1,5 @@
+##### § 8.5 Records. #####
+
+(a) *Availability.* Registers of all persons admitted to practice before the Bureau, and of all persons disbarred or suspended from practice, which are required to be maintained by the director under the provisions of § 8.27, will be available for public inspection at the Office of the Director. Other records may be disclosed upon specific request in accordance with the disclosure regulations of the Bureau (27 CFR part 71) and the Office of the Secretary.
+
+(b) *Disciplinary proceedings.* The Director, may grant a request by an attorney, certified public accountant, or enrolled practitioner to make public a hearing in a disciplinary proceeding, conducted under the provisions of subpart E of this part concerning the attorney, certified public accountant or enrolled practioner, and to make the record of the proceeding available for public inspection by interested persons, if an agreement is reached by stipulation in advance to prevent disclosure of any information which is confidential, in accordance with applicable laws and regulations.

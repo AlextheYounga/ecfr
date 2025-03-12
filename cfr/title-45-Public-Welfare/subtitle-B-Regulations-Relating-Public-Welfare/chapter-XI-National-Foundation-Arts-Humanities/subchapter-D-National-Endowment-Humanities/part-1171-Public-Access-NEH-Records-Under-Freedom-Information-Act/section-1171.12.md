@@ -1,0 +1,3 @@
+##### § 1171.12 Preservation of records. #####
+
+NEH will preserve all correspondence pertaining to the requests that it receives as well as copies of all requested records, until disposition or destruction is authorized by the agency's General Records Schedule of the National Archives and Records Administration (NARA) or other NARA-approved records schedule. Records will not be disposed of while they are the subject of a pending request, appeal, or lawsuit under the Act.

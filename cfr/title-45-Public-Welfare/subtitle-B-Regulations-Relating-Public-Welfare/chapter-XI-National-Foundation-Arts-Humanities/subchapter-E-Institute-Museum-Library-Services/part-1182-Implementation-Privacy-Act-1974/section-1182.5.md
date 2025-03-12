@@ -1,0 +1,3 @@
+##### § 1182.5 Procedures for notifying government entities of the Institute's proposed changes to its systems of records. #####
+
+When the Institute proposes to establish or significantly change any of its systems of records, it shall provide adequate advance notice of such proposal to the Committee on Government Reform of the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Office of Management and Budget (OMB), in order to permit an evaluation of the probable or potential effect of such proposal on the privacy or other rights of individuals. This report will be submitted in accordance with guidelines provided by the OMB.

@@ -1,0 +1,7 @@
+##### § 36.3121(l)(10)-3 Returns. #####
+
+(a) The forms prescribed for use in making returns of the taxes imposed by the Federal Insurance Contributions Act (except any forms particularly prescribed for use by household employers or by employers filing returns in Puerto Rico) shall be used by a domestic corporation in making returns of its liability under an agreement entered into as provided in § 36.3121(l)(1)-1. Returns of such liability shall be made separate and apart from any returns required of the domestic corporation in respect of the taxes imposed by the Federal Insurance Contributions Act. The domestic corporation shall plainly mark “3121(l) Agreement” at the top of each return, each detachable schedule thereof, and each paper or document constituting a part of the return, filed by the domestic corporation pursuant to the regulations in this part. Returns required under the regulations in this part shall be made by the domestic corporation as if all services covered by the agreement, whether performed in the employ of one or more than one foreign subsidiary, were performed in the employ of the domestic corporation as an employer in its separate capacity as a party to the agreement.
+
+(b) Each return required under the regulations in this part must be filed on or before the last day of the month following the period for which the return is made.
+
+[T.D. 6145, 20 FR 6577, Sept. 8, 1955, as amended by T.D. 6390, 24 FR 4832, June 13, 1959]

@@ -1,0 +1,3 @@
+##### § 1303.30 Grantee responsibility and accountability. #####
+
+A grantee is accountable for the services its delegate agencies provide. The grantee supports, oversees and ensures delegate agencies provide high-quality services to children and families and meet all applicable Head Start requirements. The grantee can only terminate a delegate agency if the grantee shows cause why termination is necessary and provides a process for delegate agencies to appeal termination decisions. The grantee retains legal responsibility and authority and bears financial accountability for the program when services are provided by delegate agencies.

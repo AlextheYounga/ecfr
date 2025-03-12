@@ -1,0 +1,3 @@
+##### § 2.1-4 Application to establish fund. #####
+
+Any person claiming to be entitled to the benefits of section 511 of the Act may make application, in writing, to the Administration for permission to establish a construction reserve fund. The application shall be in such form and substance as the Administration may prescribe and shall designate, among other things, the depository or depositories with which the taxpayer proposes to establish the said fund. The original application shall be executed and verified by the taxpayer, or if the taxpayer is a corporation, by one of its principal officers, in triplicate, and shall be accompanied by eight conformed copies when filed with the Administration.

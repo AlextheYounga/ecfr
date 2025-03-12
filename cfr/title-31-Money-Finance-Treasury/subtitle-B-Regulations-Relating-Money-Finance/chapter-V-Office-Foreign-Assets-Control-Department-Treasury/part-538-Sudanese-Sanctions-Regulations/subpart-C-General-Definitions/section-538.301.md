@@ -1,0 +1,3 @@
+##### § 538.301 Blocked account; blocked property. #####
+
+The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibition in § 538.201 held in the name of the Government of Sudan or in which the Government of Sudan has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from the Office of Foreign Assets Control authorizing such action.

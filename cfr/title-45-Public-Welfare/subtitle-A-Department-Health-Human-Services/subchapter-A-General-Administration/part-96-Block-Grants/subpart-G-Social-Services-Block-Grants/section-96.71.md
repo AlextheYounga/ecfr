@@ -1,0 +1,7 @@
+##### § 96.71 Definitions. #####
+
+(a) Section 2005 (a)(2) and (a)(5) (42 U.S.C. 1397d (a)(2) and (a)(5)) of the Social Security Act establishes prohibitions against the provision of room and board and medical care unless, among other reasons, they are an “integral but subordinate” part of a State-authorized social service. “Integral but subordinate” means that the room and board provided for a short term or medical care is a minor but essential adjunct to the service of which it is a part and is necessary to achieve the objective of that service. Room and board provided for a short term shall not be considered an integral but subordinate part of a social service when it is provided to an individual in a foster family home or other facility the primary purpose of which is to provide food, shelter, and care or supervision, except for temporary emergency shelter provided as a protective service.
+
+(b) As used in section 2005(a)(5) of the Social Security Act (42 U.S.C. 1397d (a)(5)) with respect to the limitations governing the provision of services by employees of certain institutions, *employees* includes staff, contractors, or other individuals whose activities are under the professional direction or direct supervision of the institution.
+
+[47 FR 29486, July 6, 1982; 47 FR 43062, Sept. 30, 1982]

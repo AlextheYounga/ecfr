@@ -1,0 +1,45 @@
+##### § 1.1502-79A Separate return years generally applicable for consolidated return years beginning before January 1, 1997. #####
+
+(a) *Carryover and carryback of consolidated net operating losses to separate return years*—(1) *In general.* (i) If a consolidated net operating loss can be carried under the principles of section 172(b) and paragraph (b) of § 1.1502-21A to a separate return year of a corporation (or could have been so carried if such corporation were in existence) which was a member in the year in which such loss arose, then the portion of such consolidated net operating loss attributable to such corporation (as determined under subparagraph (3) of this paragraph) shall be apportioned to such corporation (and any successor to such corporation in a transaction to which section 381(a) applies) and shall be a net operating loss carryover or carryback to such separate return year; accordingly, such portion shall not be included in the consolidated net operating loss carryovers or carrybacks to the equivalent consolidated return year. Thus, for example, if a member filed a separate return for the third year preceding a consolidated return year in which a consolidated net operating loss was sustained and if any portion of such loss is apportioned to such member for such separate return year, such portion may not be carried back by the group to its third year preceding such consolidated return year.
+
+(ii) If a corporation ceases to be a member during a consolidated return year, any consolidated net operating loss carryover from a prior taxable year must first be carried to such consolidated return year, notwithstanding that all or a portion of the consolidated net operating loss giving rise to the carryover is attributable to the corporation which ceases to be a member. To the extent not absorbed in such consolidated return year, the portion of the consolidated net operating loss attributable to the corporation ceasing to be a member shall then be carried to such corporation's first separate return year.
+
+(iii) For rules permitting the reattribution of losses of a subsidiary to the common parent in the case of loss disallowance or basis reduction on the disposition or deconsolidation of stock of the subsidiary, see § 1.1502-20.
+
+(2) *Nonapportionment to certain members not in existence.* Notwithstanding subparagraph (1) of this paragraph, the portion of a consolidated net operating loss attributable to a member shall not be apportioned to a prior separate return year for which such member was not in existence and shall be included in the consolidated net operating loss carrybacks to the equivalent consolidated return year of the group (or, if such equivalent year is a separate return year, then to such separate return year), provided that such member was a member of the group immediately after its organization.
+
+(3) *Portion of consolidated net operating loss attributable to a member.* The portion of a consolidated net operating loss attributable to a member of a group is an amount equal to the consolidated net operating loss multiplied by a fraction, the numerator of which is the separate net operating loss of such corporation, and the denominator of which is the sum of the separate net operating losses of all members of the group in such year having such losses. For purposes of this subparagraph, the separate net operating loss of a member of the group shall be determined under § 1.1502-12 (except that no deduction shall be allowed under section 242), adjusted for the following items taken into account in the computation of the consolidated net operating loss:
+
+(i) The portion of the consolidated dividends received deduction, the consolidated charitable contributions deductions, and the consolidated section 247 deduction, attributable to such member;
+
+(ii) Such member's capital gain net income (net capital gain for taxable years beginning before January 1, 1977) (determined without regard to any net capital loss carryover attributable to such member);
+
+(iii) Such member's net capital loss and section 1231 net loss, reduced by the portion of the consolidated net capital loss attributable to such member (as determined under paragraph (b)(2) of this section); and
+
+(iv) The portion of any consolidated net capital loss carryover attributable to such member which is absorbed in the taxable year.
+
+(4) *Examples.* The provisions of this paragraph may be illustrated by the following examples:
+
+Example 1.(i) Corporation P was formed on January 1, 1966. P filed a separate return for the calendar year 1966. On March 15, 1967, P formed corporation S. P and S filed a consolidated return for 1967. On January 1, 1968, P purchased all the stock of corporation T, which had been formed in 1967 and had filed a separate return for its taxable year ending December 31, 1967.
+
+(ii) P, S, and T join in the filing of a consolidated return for 1968, which return reflects a consolidated net operating loss of $11,000. $2,000 of such consolidated net operating loss is attributable to P, $3,000 to S, and $6,000 to T. Such apportionment of the consolidated net operating loss was made on the basis of the separate net operating losses of each member as determined under subparagraph (3) of this paragraph.
+
+(iii) $5,000 of the 1968 consolidated net operating loss can be carried back to P's separate return for 1966. Such amount is the portion of the consolidated net operating loss attributable to P and S. Even though S was not in existence in 1966, the portion attributable to S can be carried back to P's separate return year, since S (unlike T) was a member of the group immediately after its organization. The 1968 consolidated net operating loss can be carried back against the group's income in 1967 except to the extent (i.e., $6,000) that it is apportioned to T for its 1967 separate return year and to the extent that it was absorbed in P's 1966 separate return year. The portion of the 1968 consolidated net operating loss attributable to T ($6,000) is a net operating loss carryback to its 1967 separate return.
+
+Example 2.(i) Assume the same facts as in example (1). Assume further that on June 15, 1969, P sells all the stock of T to an outsider, that P and S file a consolidated return for 1969 (which includes the income of T for the period January 1 through June 15), and that T files a separate return for the period June 16 through December 31, 1969.
+
+(ii) The 1968 consolidated net operating loss, to the extent not absorbed in prior years, must first be carried to the consolidated return year 1969. Any portion of the $6,000 amount attributable to T which is not absorbed in T's 1967 separate return year or in the 1969 consolidated return year shall then be carried to T's separate return year ending December 31, 1969.
+
+(b) *Carryover and carryback of consolidated net capital loss to separate return years*—(1) *In general.* If a consolidated net capital loss can be carried under the principles of section 1212(a) and paragraph (b) of § 1.1502-22A to a separate return year of a corporation (or could have been so carried if such corporation were in existence) which was a member of the group in the year in which such consolidated net capital loss arose, then the portion of such consolidated net capital loss attributable to such corporation (as determined under subparagraph (2) of this paragraph) shall be apportioned to such corporation (and any successor to such corporation in a transaction to which section 381(a) applies) under the principles of paragraph (a) (1), (2) and (3) of this section and shall be a net capital loss carryback or carryover to such separate return year.
+
+(2) *Portion of consolidated net capital loss attributable to a member.* The portion of a consolidated net capital loss attributable to a member of a group is an amount equal to such consolidated net capital loss multiplied by a fraction, the numerator of which is the net capital loss of such member, and the denominator of which is the sum of the net capital losses of those members of the group having net capital losses. For purposes of this subparagraph, the net capital loss of a member of the group shall be determined by taking into account the following:
+
+(i) Such member's capital gain net income (net capital gain for taxable years beginning before January 1, 1977) or loss (determined without regard to any net capital loss carryover or carryback); and
+
+(ii) Such member's section 1231 net loss, reduced by the portion of the consolidated section 1231 net loss attributable to such member.
+
+(c)-(e) [Reserved]
+
+(f) *Effective date.* Paragraphs (a) and (b) of this section apply to losses arising in consolidated return years to which § 1.1502-21T(g) does not apply. For this purpose net operating loss deductions, carryovers, and carrybacks arise in the year from which they are carried. See § 1.1502-21T(g) for effective dates of that section.
+
+[T.D. 8677, 61 FR 33334, June 27, 1996]

@@ -1,0 +1,17 @@
+##### § 607.7 Coordinating offset with another Federal agency. #####
+
+(a) When the NSF is the creditor agency and the Chief Financial Officer determines that an employee of another agency (i.e., the paying agency) owes a debt to the NSF, the Chief Financial Officer shall, as appropriate:
+
+(1) Certify in writing to the paying agency that the employee owes the debt, the amount and basis of the debt, the date on which payment was due, and the date the Government's right to collect the debt accrued, and that this part 607 has been approved by the Office of Personnel Management.
+
+(2) Unless the employee has consented to salary offset in writing or signed a statement acknowledging receipt of the required procedures, and the written consent is sent to the paying agency, the Chief Financial Officer must advise the paying agency of the action(s) taken under this part 607, and the date(s) they were taken.
+
+(3) Request the paying agency to collect the debt by salary offset. If deductions must be made in installments, the Chief Financial Officer may recommend to the paying agency the amount or percentage of disposable pay to be collected in each installment;
+
+(4) Arrange for a hearing upon the proper petitioning by the employee.
+
+(b) When the NSF is the creditor agency and the employee is in the process of separating from the Federal service, the NSF must submit its debt claim to the paying agency as provided in this part. The paying agency must certify the total amount collected, give a copy of the certification to the employee, and send a copy of the certification and notice of the employee's separation to the NSF. If the paying agency is aware that the employee is entitled to Civil Service Retirement and Disability Fund or other similar payments, it must certify to the agency responsible for making such payments that the debtor owes a debt, including the amount of the debt, and that the provisions of 5 CFR 550.1108 have been followed.
+
+(c) When the NSF is the creditor agency and the employee has already separated from Federal service and all payments due from the paying agency have been paid, the Chief Financial Officer may request, unless otherwise prohibited, that money payable to the employee from the Civil Service Retirement and Disability Fund or other similar funds be collected by administrative offset.
+
+(d) When the NSF is the paying agency, upon receipt of a properly certified debt claim from another agency, deductions will be scheduled to begin at the next established pay interval. The employee must receive written notice that NSF has received a certified debt claim from the creditor agency, the amount of the debt, the date salary offset will begin, and the amount of the deduction(s). NSF shall not review the merits of the creditor agency's determination of the validity or the amount of the certified claim. If the employee transfers to another agency after the creditor agency has submitted its debt claim to NSF and before the debt is collected completely, NSF must certify the amount collected. One copy of the certification must be furnished to the employee. A copy must be furnished to the creditor agency with notice of the employee's transfer.

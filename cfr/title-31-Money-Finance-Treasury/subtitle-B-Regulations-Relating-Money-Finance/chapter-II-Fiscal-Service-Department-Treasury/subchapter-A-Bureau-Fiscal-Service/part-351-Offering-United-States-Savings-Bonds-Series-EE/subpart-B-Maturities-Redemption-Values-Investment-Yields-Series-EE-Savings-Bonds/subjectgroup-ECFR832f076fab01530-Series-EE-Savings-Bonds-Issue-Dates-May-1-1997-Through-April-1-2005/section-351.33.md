@@ -1,0 +1,3 @@
+##### § 351.33 What are interest rates and redemption values for Series EE bonds issued May 1, 1997, through April 1, 2005, during an extended maturity period? #####
+
+During an extended maturity period the bond will be subject to the terms and conditions in effect when it is issued and will continue to earn interest as described in § 351.30, unless the terms and conditions applicable to an extended maturity period are expressly amended prior to the beginning of such period.

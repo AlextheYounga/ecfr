@@ -1,0 +1,29 @@
+##### § 1.6107-1 Tax return preparer must furnish copy of return or claim for refund to taxpayer and must retain a copy or record. #####
+
+(a) *Furnishing copy to taxpayer*—(1) A person who is a signing tax return preparer of any return of tax or claim for refund of tax under the Internal Revenue Code shall furnish a completed copy of the return or claim for refund to the taxpayer (or nontaxable entity) not later than the time the return or claim for refund is presented for the signature of the taxpayer (or nontaxable entity). The signing tax return preparer may, at its option, request a receipt or other evidence from the taxpayer (or nontaxable entity) sufficient to show satisfaction of the requirement of this paragraph (a).
+
+(2) The tax return preparer must provide a complete copy of the return or claim for refund filed with the IRS to the taxpayer in any media, including electronic media, that is acceptable to both the taxpayer and the tax return preparer. In the case of an electronically filed return, a complete copy of a taxpayer's return or claim for refund consists of the electronic portion of the return or claim for refund, including all schedules, forms, pdf attachments, and jurats, that was filed with the IRS. The copy provided to the taxpayer must include all information submitted to the IRS to enable the taxpayer to determine what schedules, forms, electronic files, and other supporting materials have been filed with the return. The copy, however, need not contain the identification number of the paid tax return preparer. The electronic portion of the return or claim for refund may be contained on a replica of an official form or on an unofficial form. On an unofficial form, however, data entries must reference the line numbers or descriptions on an official form.
+
+(3) For electronically filed Forms 1040EZ, “Income Tax Return for Single Filers and Joint Filers With No Dependents,” and Form 1040A, “U.S. Individual Income Tax Return,” filed for the 2009, 2010 and 2011 taxable years, the information may be provided on a replica of a Form 1040, “U.S. Individual Income Tax Return”, that provides all of the information. For other electronically filed returns, the information may be provided on a replica of an official form that provides all of the information.
+
+(b) *Copy or record to be retained.* (1) A person who is a signing tax return preparer of any return or claim for refund shall—
+
+(i)(A) Retain a completed copy of the return or claim for refund; or
+
+(B) Retain a record, by list, card file, or otherwise of the name, taxpayer identification number, and taxable year of the taxpayer (or nontaxable entity) for whom the return or claim for refund was prepared, and the type of return or claim for refund prepared;
+
+(ii) Retain a record, by retention of a copy of the return or claim for refund, maintenance of a list, card file, or otherwise, for each return or claim for refund presented to the taxpayer (or nontaxable entity), of the name of the individual tax return preparer required to sign the return or claim for refund pursuant to § 1.6695-1(b); and
+
+(iii) Make the copy or record of returns and claims for refund and record of the individuals required to sign available for inspection upon request by the Commissioner.
+
+(2) The material described in this paragraph (b) shall be retained and kept available for inspection for the 3-year period following the close of the return period during which the return or claim for refund was presented for signature to the taxpayer (or nontaxable entity). In the case of a return that becomes due (with extensions, if any) during a return period following the return period during which the return was presented for signature, the material shall be retained and kept available for inspection for the 3-year period following the close of the later return period in which the return became due. For the definition of “return period,” see section 6060(c). If the person subject to the record retention requirement of this paragraph (b) is a corporation or a partnership that is dissolved before completion of the 3-year period, then all persons who are responsible for the winding up of the affairs of the corporation or partnership under state law shall be subject, on behalf of the corporation or partnership, to these record retention requirements until completion of the 3-year period. If state law does not specify any person or persons as responsible for winding up, then, collectively, the directors or general partners shall be subject, on behalf of the corporation or partnership, to the record retention requirements of this paragraph (b). For purposes of the penalty imposed by section 6695(d), such designated persons shall be deemed to be the tax return preparer and will be jointly and severally liable for each failure.
+
+(c) *Tax return preparer.* For the definition of “signing tax return preparer,” see § 301.7701-15(b)(1) of this chapter. For purposes of applying this section, a corporation, partnership or other organization that employs a signing tax return preparer to prepare for compensation (or in which a signing tax return preparer is compensated as a partner or member to prepare) a return of tax or claim for refund shall be treated as the sole signing tax return preparer.
+
+(d) *Penalties.* (1) For the civil penalty for failure to furnish a copy of the return or claim for refund to the taxpayers (or nontaxable entity) as required under paragraph (a) of this section, see section 6695(a) and § 1.6695-1(a).
+
+(2) For the civil penalty for failure to retain a copy of the return or claim for refund, or to retain a record as required under paragraph (b) of this section, see section 6695(d) and § 1.6695-1(d).
+
+(e) *Effective/applicability date.* This section is applicable to returns and claims for refund filed after December 31, 2008.
+
+[T.D. 9436, 73 FR 78438, Dec. 22, 2008, as amended at 74 FR 5104, Jan. 29, 2009]

@@ -1,0 +1,3 @@
+##### § 315.27 Application for relief—nonreceipt of bond. #####
+
+If a bond issued on any transaction is not received, the issuing agent must be notified as promptly as possible and given all information available about the nonreceipt. An appropriate form and instructions will be provided. If the application is approved, relief will be granted by the issuance of a bond bearing the same issue date as the bond that was not received.

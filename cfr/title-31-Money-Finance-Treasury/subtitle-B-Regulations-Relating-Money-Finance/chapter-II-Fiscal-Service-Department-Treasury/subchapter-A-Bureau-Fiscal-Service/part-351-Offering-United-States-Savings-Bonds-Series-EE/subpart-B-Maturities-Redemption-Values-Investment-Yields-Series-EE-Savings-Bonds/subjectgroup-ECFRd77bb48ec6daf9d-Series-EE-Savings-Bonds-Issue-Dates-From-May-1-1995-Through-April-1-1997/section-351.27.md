@@ -1,0 +1,3 @@
+##### § 351.27 What are the interest rates and redemption values for bonds with issue dates from May 1, 1995, through April 1, 1997, during an extended maturity period? #####
+
+During an extended maturity period the bond will be subject to the terms and conditions in effect when it is issued, and will continue to earn interest as described in paragraph § 351.26, unless the terms and conditions applicable to an extended maturity period are expressly amended prior to the beginning of such period.

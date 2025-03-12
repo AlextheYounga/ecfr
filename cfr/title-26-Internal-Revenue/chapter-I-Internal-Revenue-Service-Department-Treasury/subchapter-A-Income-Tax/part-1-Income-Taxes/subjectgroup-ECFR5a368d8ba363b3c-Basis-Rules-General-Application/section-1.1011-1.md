@@ -1,0 +1,3 @@
+##### § 1.1011-1 Adjusted basis. #####
+
+The adjusted basis for determining the gain or loss from the sale or other disposition of property is the cost or other basis prescribed in section 1012 or other applicable provisions of subtitle A of the code, adjusted to the extent provided in sections 1016, 1017, and 1018 or as otherwise specifically provided for under applicable provisions of internal revenue laws.

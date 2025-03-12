@@ -1,0 +1,5 @@
+##### § 8.54 Conferences. #####
+
+(a) *General.* The Director of Practice may confer with an attorney, certified public accountant, or enrolled practioner concerning allegations of misconduct whether or not a proceeding for disbarment or suspension has been instituted. If a conference results in a stipulation in connection with a proceeding in which that person is the respondent, the stipulation may be entered in the record at the instance of either party to the proceeding.
+
+(b) *Resignation or voluntary suspension.* An attorney, certified public accountant, or enrolled practitioner, in order to avoid the institution or conclusion of a disbarment or suspension proceeding, may offer his or her consent to suspension from practice before the Bureau. An enrolled practitioner may also offer a resignation. The Director of Practice, at his or her discretion, may accept the offered resignation of an enrolled practitioner and may suspend an attorney, certified public accountant, or enrolled practitioner in accordance with the consent offered.

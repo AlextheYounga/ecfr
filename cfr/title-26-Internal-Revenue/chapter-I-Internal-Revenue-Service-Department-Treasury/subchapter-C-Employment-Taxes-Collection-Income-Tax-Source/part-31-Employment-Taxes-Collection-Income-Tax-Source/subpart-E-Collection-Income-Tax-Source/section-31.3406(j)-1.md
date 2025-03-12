@@ -1,0 +1,15 @@
+##### § 31.3406(j)-1 Taxpayer Identification Number (TIN) matching program. #####
+
+(a) *The matching program.* Under section 3406(i), the Commissioner has the authority to establish Taxpayer Identification Number (TIN) matching programs. The Commissioner may prescribe in a revenue procedure (*see* § 601.601(d)(2) of this chapter) or other appropriate guidance the scope and the terms and conditions of participating in any TIN matching program. In general, under a matching program, prior to filing information returns with respect to reportable payments as defined in section 3406(b)(1), a payor of those reportable payments who is entitled to participate in the matching program may contact the Internal Revenue Service (IRS) with respect to the TIN furnished by a payee who has received or is likely to receive a reportable payment. The IRS will inform the payor whether or not a name/TIN combination furnished by the payee matches a name/TIN combination maintained in the data base utilized for the particular matching program. For purposes of this section, the term payor includes an agent designated by the payor to participate in TIN matching on the payor's behalf.
+
+(b) *Notice of incorrect TIN.* No matching details received by a payor through a matching program will constitute a notice regarding an incorrect name/TIN combination under § 31.3406(d)-5(c) for purposes of imposing backup withholding under section 3406(a)(1)(B).
+
+(c) *Application of section 3406(f).* The provisions of section 3406(f), relating to confidentiality of information, apply to any matching details received by a payor through the matching program. A payor may not take into account any such matching details in determining whether to open or close an account with a payee.
+
+(d) *Reasonable cause.* The IRS will not use either a payor's decision not to participate in an available TIN matching program or the results received by a payor from participation in a TIN matching program implemented under the authority of this section as a basis to assert that the payor lacks reasonable cause under section 6724(a) for the failure to file an information return under section 6721 or to furnish a correct payee statement under section 6722. If the establishment of reasonable cause may be relevant to a substantial number of the participants in a TIN matching program implemented under the authority of this section, the extent to which, if any, a payor may establish reasonable cause by participating in the TIN matching program will be set forth in the guidance establishing the program.
+
+(e) *Definition of account. Account* means any account, instrument, or other relationship with a payor and with respect to which a payor has made or is likely to make a reportable payment as defined in section 3406(b)(1).
+
+(f) *Effective date.* The last sentence in paragraph (a) of this section is applicable on January 31, 2003. All other provisions of this section are applicable on and after June 18, 1997.
+
+[T.D. 8721, 62 FR 33009, June 18, 1997, as amended by T.D. 9041, 68 FR 4923, Jan. 31, 2003; T.D. 9136, 69 FR 41942, July 13, 2004]

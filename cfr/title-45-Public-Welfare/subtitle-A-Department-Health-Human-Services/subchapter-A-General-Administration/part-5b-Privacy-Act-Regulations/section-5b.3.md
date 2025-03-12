@@ -1,0 +1,3 @@
+##### § 5b.3 Policy. #####
+
+It is the policy of the Department to protect the privacy of individuals to the fullest extent possible while nonetheless permitting the exchange of records required to fulfill the administrative and program responsibilities of the Department, and responsibilities of the Department for disclosing records which the general public is entitled to have under the Freedom of Information Act, 5 U.S.C. 552, and part 5 of this title.

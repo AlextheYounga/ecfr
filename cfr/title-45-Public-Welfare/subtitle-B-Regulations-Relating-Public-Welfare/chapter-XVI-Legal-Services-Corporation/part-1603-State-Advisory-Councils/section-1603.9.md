@@ -1,0 +1,3 @@
+##### § 1603.9 Annual report of council. #####
+
+On or before March 31, 1977, and on or before March 31 of each succeeding year, a council shall submit to the Corporation a report of the activities of the council during the previous calendar year. The report may contain comments or suggestions regarding how best to provide high quality legal assistance to the poor, and regarding such other matters having to do with provision of legal services to eligible clients in the State as the council may deem advisable.

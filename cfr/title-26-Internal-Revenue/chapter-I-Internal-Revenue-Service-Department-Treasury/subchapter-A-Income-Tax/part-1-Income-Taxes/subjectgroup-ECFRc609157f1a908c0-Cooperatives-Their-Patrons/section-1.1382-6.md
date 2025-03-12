@@ -1,0 +1,5 @@
+##### § 1.1382-6 Taxable income of cooperatives; treatment of earnings received after patronage occurred. #####
+
+If earnings derived from business done with or for patrons are includible in the gross income of the cooperative organization for a taxable year after the taxable year during which the patronage occurred, then, for purposes of determining whether the cooperative is allowed a deduction under section 1382(b) and § 1.1382-2, the patronage to which these earnings relate shall be considered to have occurred during the taxable year for which such earnings are includible in the cooperative's gross income. Thus, if the cooperative organization pays these earnings out as patronage dividends during the payment period for the taxable year for which the earnings are includible in its gross income, it will be allowed a deduction for such payments under section 1382(b)(1) and paragraph (b) of § 1.1382-2, to the extent they are paid in money, qualified written notices of allocation, or other property (other than written notices of allocation).
+
+[T.D. 6643, 28 FR 3156, Apr. 2, 1963]

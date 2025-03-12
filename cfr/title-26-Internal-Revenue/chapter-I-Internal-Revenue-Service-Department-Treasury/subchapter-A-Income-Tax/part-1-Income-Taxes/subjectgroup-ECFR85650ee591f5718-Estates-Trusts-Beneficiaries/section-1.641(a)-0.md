@@ -1,0 +1,15 @@
+##### § 1.641(a)-0 Scope of subchapter J. #####
+
+(a) *In general.* Subchapter J (sections 641 and following), chapter 1 of the Code, deals with the taxation of income of estates and trusts and their beneficiaries, and of income in respect of decedents. Part I of subchapter J contains general rules for taxation of estates and trusts (subpart A), specific rules relating to trusts which distribute current income only (subpart B), estates and trusts which may accumulate income or which distribute corpus (subpart C), treatment of excess distributions by trusts (subpart D), grantors and other persons treated as substantial owners (subpart E), and miscellaneous provisions relating to limitations on charitable deductions, income of an estate or trust in case of divorce, and taxable years to which the provisions of subchapter J are applicable (subpart F). Part I has no application to any organization which is not to be classified for tax purposes as a trust under the classification rules of §§ 301.7701-2, 301.7701-3, and 301.7701-4 of this chapter (Regulations on Procedure and Administration). Part II of subchapter J relates to the treatment of income in respect of decedents. However, the provisions of subchapter J do not apply to employee trusts subject to subchapters D and F, chapter 1 of the Code, and common trust funds subject to subchapter H, chapter 1 of the Code.
+
+(b) *Scope of subparts A, B, C, and D.* Subparts A, B, C, and D (section 641 and following), part I, subchapter J, chapter 1 of the Code, relate to the taxation of estates and trusts and their beneficiaries. These subparts have no application to any portion of the corpus or income of a trust which is to be regarded, within the meaning of the Code, as that of the grantor or others treated as its substantial owners. See subpart E (section 671 and following), Part I, subchapter J, chapter 1 of the Code, and the regulations thereunder for rules for the treatment of any portion of a trust where the grantor (or another person) is treated as the substantial owner. So-called alimony trusts are treated under subparts A, B, C, and D, except to the extent otherwise provided in section 71 or section 682. These subparts have no application to beneficiaries of nonexempt employees' trusts. See section 402(b) and the regulations thereunder.
+
+(c) *Multiple trusts.* Multiple trusts that have:
+
+(1) No substantially independent purposes (such as independent dispositive purposes),
+
+(2) The same grantor and substantially the same beneficiary, and
+
+(3) The avoidance or mitigation of (*i*) the progressive rates of tax (including mitigation as a result of deferral of tax) or (*ii*) the minimum tax for tax preferences imposed by section 56 as their principal purpose,
+
+shall be consolidated and treated as one trust for the purposes of subchapter J.[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6989, 34 FR 731, Jan. 17, 1969; T.D. 7204, 37 FR 17158, Aug. 25, 1972]

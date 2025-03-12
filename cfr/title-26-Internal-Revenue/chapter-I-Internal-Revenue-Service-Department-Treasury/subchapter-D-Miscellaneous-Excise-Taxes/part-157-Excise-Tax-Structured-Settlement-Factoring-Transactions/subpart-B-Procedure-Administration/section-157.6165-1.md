@@ -1,0 +1,3 @@
+##### § 157.6165-1 Bonds where time to pay tax has been extended. #####
+
+If an extension of time for payment is granted under section 6161, the Internal Revenue Service may, if it deems necessary, require a bond for the payment, in accordance with the terms of the extension, of the amount with respect to which the extension is granted. However, the bond shall not exceed double the amount with respect to which the extension is granted. For provisions relating to the form of bonds, see the regulations under section 7101 contained in part 301 (Regulations on Procedure and Administration) of this chapter.

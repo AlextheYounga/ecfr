@@ -1,0 +1,9 @@
+##### § 97.13 How does an insular area apply for a consolidated grant? #####
+
+(a) An insular area may apply for a consolidated grant in lieu of filing an individual application for any of the programs listed in § 97.12 for which the insular area is eligible.
+
+(b) The chief executive officer or his designee may submit a consolidated grant application at any time prior to expenditure of the funds proposed for consolidation. The application must specify the amount of funds proposed for consolidation, the titles of the programs that are the sources of funds that are to be consolidated and the titles of the programs under whose statutory authority the funds are to be expended.
+
+(c) The application must contain the assurances, certifications, and other information required by the statutes and regulations applicable to those programs under which funds will be expended. If any of the requirements for these latter programs are substantially the same, they may be met by a single assurance, certification, or narrative, as appropriate. The application need not meet the application or other requirements for programs which are sources of funds for the consolidated grant but under whose authority no funds will be expended.
+
+(d) If after receiving a consolidated grant, an insular area wishes to use funds for a purpose authorized by an eligible program that is not included in the consolidated grant, or by an eligible program that was included in the grant but was not intended as a program under which funds would be expended, the insular area must submit an amended application indicating the proposed change and containing the assurances, certifications and other information applicable to that program.

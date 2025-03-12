@@ -1,0 +1,3 @@
+##### § 1.556-1 Definition. #####
+
+Undistributed foreign personal holding company income is the amount which is to be included in the gross income of the United States shareholders under section 551(b) and § 1.551-2. Undistributed foreign personal holding company income is the taxable income of the foreign personal holding company, as defined in section 63(a) (computed without regard to subchapter N, chapter 1 of the Code), and adjusted in the manner described in section 556(b) and § 1.556-2, less the deduction for dividends paid (§§ 1.561-1 through 1.565-6). See § 1.556-3 for an illustration of the computation of undistributed foreign personal holding company income.

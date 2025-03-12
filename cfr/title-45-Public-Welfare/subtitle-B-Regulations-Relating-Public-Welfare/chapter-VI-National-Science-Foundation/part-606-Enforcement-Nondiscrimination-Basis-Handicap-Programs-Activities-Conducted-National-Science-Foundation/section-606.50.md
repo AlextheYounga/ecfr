@@ -1,0 +1,3 @@
+##### § 606.50 Program accessibility: Discrimination prohibited. #####
+
+Except as otherwise provided in § 606.51, no qualified individual with handicaps shall, because the Foundation's facilities are inaccessible to or unusable by individuals with handicaps, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the Foundation.

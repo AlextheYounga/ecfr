@@ -1,0 +1,23 @@
+##### § 1.414(g)-1 Definition of plan administrator. #####
+
+(a) *In general.* For purposes of part I of subchapter D of chapter 1 of the Code and the regulations thereunder, if the instrument under which the plan is operated for a plan year specifically designates a person or a group of persons as plan administrator, the person or group of persons collectively is the plan administrator for the plan year. The instrument may specifically designate a plan administrator—
+
+(1) By name,
+
+(2) By reference to the person or group of persons holding a named position or positions,
+
+(3) By reference to a procedure established under the terms of the instrument pursuant to which a plan administrator is designated, or
+
+(4) By reference to the person or group of persons charged with specific responsibilities of plan administrator. Consistent with the provisions of section 405 (c) (1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1105 (c) (1)), a plan may provide for the allocation of specific responsibilities of plan administrator among named persons and for named persons to designate others to carry out such responsibilities. A person or group of persons may be designated as plan administrator in accordance with the rules of this paragraph even though the person or group of persons does not carry the specific title “plan administrator”. In the absence of a person or group of persons designated as the plan administrator (individually, collectively, or by designation of different specific administrative responsibilities), the plan administrator for the plan year is the person or group of persons specified in paragraph (b) of this section.
+
+(b) *Plan administrator not specifically designated.* If no person or group of persons is specifically designated as the plan administrator for a plan year by the instrument under which the plan is operated, the plan administrator for such year is the person or group of persons determined under the following rules:
+
+(1) *Single employer.* In the case of a plan maintained by a single employer, the employer is the plan administrator. If the employer is a corporation, the corporation is the plan administrator. However, the corporation's board of directors may authorize a person or group of persons to fulfill responsibilities of the corporation as plan administrator. In the absence of such authorization, any corporate officer authorized under law, corporate by-laws, or resolution of the board of directors to act on behalf of the corporation with respect to contracts of a value equivalent to the fair market value of the assets of the plan shall be presumed to have authority to fulfill responsibilities of the corporation as plan administrator. For purposes of this paragraph (b) (1), “employer” means the “employer” as defined in section 3 (5) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1003 (5)).
+
+(2) *Employee organization.* In the case of a plan maintained by an employee organization, the employee organization is the plan administrator.
+
+(3) *Group representing the parties.* In the case of a plan maintained by two or more employers, or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who maintain the plan, as the case may be, is the plan administrator. For purposes of this subparagraph (3), a plan shall be considered maintained by two or more employers or jointly by one or more employers and one or more employee organizations only if none of the parties has the express power, under the terms of the instrument under which the plan is operated, to terminate the plan unilaterally.
+
+(4) *Person in control of assets.* In any case where a plan administrator may not be determined by application of paragraphs (a) and (b), (1), (2), and (3) of this section, the plan administrator is the person or persons actually responsible, whether or not under the terms of the plan, for the control, disposition, or management of the cash or property received by or contributed to the plan, irrespective of whether such control, disposition, or management is exercised directly by such person or persons or indirectly through an agent or trustee designated by such person or persons.
+
+(Secs. 414(g) and 7805 of the Internal Revenue Code of 1954 (88 Stat. 927, 68A Stat 917; 26 U.S.C. 414(g), 7805))[T.D. 7618, 44 FR 27657, May 11, 1979]

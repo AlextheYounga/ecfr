@@ -1,0 +1,5 @@
+##### § 20.6071-1 Time for filing preliminary notice required by § 20.6036-1. #####
+
+In the case of the estate of a decedent dying before January 1, 1971, if a duly qualified executor or administrator of the estate of such a decedent who was a resident or a citizen of the United States qualifies within 2 months after a decedent's death, or if a duly qualified executor or administrator of the estate of such a decedent who was a nonresident not a citizen qualifies within the United States within 2 months after the decedent's death, the preliminary notice required by § 20.6036-1 must be filed within 2 months after his qualification. If no such executor or administrator qualifies within that period, the preliminary notice must be filed within 2 months of the decedent's death.
+
+[T.D. 7238, 37 FR 28721, Dec. 29, 1972]

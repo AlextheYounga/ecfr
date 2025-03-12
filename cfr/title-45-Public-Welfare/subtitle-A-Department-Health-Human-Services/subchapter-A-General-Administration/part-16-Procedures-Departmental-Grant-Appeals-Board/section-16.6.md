@@ -1,0 +1,3 @@
+##### § 16.6 Who represents the parties. #####
+
+The appellant's notice of appeal, or the first subsequent submission to the Board, should specify the name, address and telephone number of the appellant's representative. In its first submission to the Board and the appellant, the respondent (i.e., the federal party to the appeal) should specify the name, address and telephone number of the respondent's representative.

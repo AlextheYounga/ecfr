@@ -1,0 +1,3 @@
+##### § 15.737-23 Transcript. #####
+
+In cases where the hearing is stenographically reported by a Government contract reporter, copies of the transcript may be obtained from the reporter at rates not to exceed the maximum rates fixed by contract between the Government and the reporter or from the Department at actual cost of duplication. Where the hearing is stenographically reported by a regular employee of the Department, a copy thereof will be supplied to the respondent either without charge or upon payment of a reasonable fee. Copies of exhibits introducted at the hearing or at the taking of depositions will be supplied to the parties upon the payment of a reasonable fee (Sec. 501, Pub. L. 82-137, 65 Stat. 290 (31 U.S.C. 483a)).

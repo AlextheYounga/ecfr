@@ -1,0 +1,3 @@
+##### § 51.1 Purpose. #####
+
+The purpose of this regulation is to establish criteria for review and evaluation of the comprehensive plans of Graduate Medical Education Programs to reduce reliance on alien physicians, as required by the Immigration and Nationality Act Amendments of 1981, Pub. L. 97-116, for the waiver of certain requirements for exchange visitors who are coming to the United States to participate in programs of graduate medical education or training.

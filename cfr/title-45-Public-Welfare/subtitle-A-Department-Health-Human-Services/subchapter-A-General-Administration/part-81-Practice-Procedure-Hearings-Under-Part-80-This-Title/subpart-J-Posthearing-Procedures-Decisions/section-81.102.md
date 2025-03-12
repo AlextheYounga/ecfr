@@ -1,0 +1,3 @@
+##### § 81.102 Decisions following hearing. #####
+
+When the time for submission of posthearing briefs has expired, the presiding officer shall certify the entire record, including his recommended findings and proposed decision, to the responsible Department official; or if so authorized he shall make an initial decision. A copy of the recommended findings and proposed decision, or of the initial decision, shall be served upon all parties, and amici, if any.

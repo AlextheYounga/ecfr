@@ -1,0 +1,7 @@
+##### § 1.358-4 Exceptions. #####
+
+(a) *Plan of reorganization adopted after October 22, 1968.* In the case of a plan of reorganization adopted after October 22, 1968, section 358 does not apply in determining the basis of property acquired by a corporation in connection with such reorganization by the exchange of its stock or securities (or by the exchange of stock or securities of a corporation which is in control of the acquiring corporation) as the consideration in whole or in part for the transfer of the property to it. See section 362 and the regulations pertaining to that section for rules relating to basis to corporations of property acquired in such cases.
+
+(b) *Plan of reorganization adopted before October 23, 1968.* In the case of a plan of reorganization adopted before October 23, 1968, section 358 does not apply in determining the basis of property acquired by a corporation in connection with such reorganization by the issuance of stock or securities of such corporation (or by the issuance of stock or securities of another corporation which is in control of such corporation) as the consideration in whole or in part for the transfer of the property to it. The term *issuance of stock or securities* includes any transfer of stock or securities, including stock or securities which were purchased or were acquired as a contribution to capital. See section 362 and the regulations pertaining to that section for rules relating to basis to corporations of property acquired in such cases.
+
+[T.D. 7422, 41 FR 26569, June 28, 1976]

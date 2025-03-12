@@ -1,0 +1,5 @@
+##### § 1.857-4 Tax imposed by reason of the failure to meet certain source-of-income requirements. #####
+
+Section 857(b)(5) imposes a tax on a real estate investment trust that is considered, by reason of section 856(c)(7), as meeting the source-of-income requirements of paragraph (2) or (3) of section 856(c) (or both such paragraphs). The amount of the tax is determined in the manner prescribed in section 857(b)(5).
+
+(Sec. 856(d)(4) (90 Stat. 1750; 26 U.S.C. 856(d)(4)); sec. 856(e)(5) (88 Stat. 2113; 26 U.S.C. 856(e)(5)); sec. 856(f)(2) (90 Stat. 1751; 26 U.S.C. (856(f)(2)); sec. 856(g)(2) (90 Stat. 1753; 26 U.S.C. 856(g)(2)); sec. 858(a) (74 Stat. 1008; 26 U.S.C. 858(a)); sec. 859(c) (90 Stat. 1743; 26 U.S.C. 859(c)); sec. 859(e) (90 Stat. 1744; 26 U.S.C. 859(e)); sec. 6001 (68A Stat. 731; 26 U.S.C. 6001); sec. 6011 (68A Stat. 732; 26 U.S.C. 6011); sec. 6071 (68A Stat. 749, 26 U.S.C. 6071); sec. 6091 (68A Stat. 752; 26 U.S.C. 6091); sec. 7805 (68A Stat. 917; 26 U.S.C. 7805), Internal Revenue Code of 1954))[T.D. 7767, 46 FR 11278, Feb. 2, 1981]

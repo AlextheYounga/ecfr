@@ -1,0 +1,7 @@
+##### § 301.6686-1 Failure of DISC to file returns. #####
+
+(a) *In general.* In addition to the penalty imposed by section 7203 (relating to willful failure to file a return, supply information, or pay tax) any person who is required to supply informatin or to file a return under section 6011(c) (relating to records and returns of DISC's) and who fails to supply such information of file such return at the time prescribed in sections 6072(b) and 1.6072-2(e) shall pay a penalty of $100 for each failure to supply information (provided that the total amount imposed on the delinquent person for all such failures during a calendar year shall not exceed $25,000) and a penalty of $1,000 with respect to each failure to file a return, unless it is shown that such failure is due to a reasonable cause.
+
+(b) *Showing of reasonable cause.* The penalty imposed by section 6686 shall not apply to any person with respect to a failure to supply information, or to file a return, under section 6011(c) if it is established to the satisfaction of the district director or director of the Internal Revenue Service Center that such failure was due to reasonable cause. An affirmative showing of reasonable cause must be made in the form of a written statement, which contains a declaration by such person that the statement is made under the penalties of perjury, and sets forth all the facts alleged as reasonable cause.
+
+[T.D. 7533, 43 FR 6604, Feb. 15, 1978]

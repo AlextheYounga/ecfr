@@ -1,0 +1,9 @@
+##### § 612.6 Responses to requests. #####
+
+(a) *Acknowledgment of requests.* The NSF or OIG will ordinarily send an email acknowledgment of all FOIA requests with an assigned request number for further reference and an estimated response date.
+
+(b) *Grants of requests.* Once the NSF makes a determination to grant a request in whole or in part, it will notify the requester in writing. The NSF will inform the requester in the notice of any applicable fee and will disclose records to the requester promptly on payment of applicable fees. Records disclosed in part will be marked or annotated to show both the amount and the location of the information deleted where practicable.
+
+(c) *Denials of requests.* (1) Denials of FOIA requests will be made by the Office of the General Counsel, the Office of the Inspector General, or such other office as may be designated by the Director. The response letter will briefly set forth the reasons for the denial, including any FOIA exemption(s) applied in denying the request. It will also provide the name and title or position of the person responsible for the denial, will inform the requester of the right to appeal, and will, where appropriate, include an estimate of the volume of any requested materials withheld. An estimate need not be provided when the volume is otherwise indicated through deletions on records disclosed in part, or if providing an estimate would harm an interest protected by an applicable exemption.
+
+(2) Requesters can appeal an agency determination to withhold all or part of any requested record; a determination that a requested record does not exist or cannot be located; a determination that what has been requested is not a record subject to the Act; a disapproval of a fee category claim by a requester; denial of a fee waiver or reduction; or a denial of a request for expedited treatment (see § 612.9).

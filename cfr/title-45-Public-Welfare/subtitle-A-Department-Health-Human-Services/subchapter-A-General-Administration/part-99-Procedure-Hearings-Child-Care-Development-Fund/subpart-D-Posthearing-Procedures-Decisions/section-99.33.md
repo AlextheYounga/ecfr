@@ -1,0 +1,3 @@
+##### § 99.33 Effective date of Assistant Secretary's decision. #####
+
+If, in the case of a hearing pursuant to § 98.18(b) of this chapter, the Assistant Secretary concludes that a Plan amendment does not comply with the Federal statutes and regulations, the decision that further payments will not be made to the Lead Agency, or payments will be limited to categories under other parts of the CCDF Plan not affected, shall specify the effective date for the withholding of Federal funds.

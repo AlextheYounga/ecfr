@@ -1,0 +1,5 @@
+##### § 1.1031(d)-1T Coordination of section 1060 with section 1031 (temporary). #####
+
+If the properties exchanged under section 1031 are part of a group of assets which constitute a trade or business under section 1060, the like-kind property and other property or money which are treated as transferred in exchange for the like-kind property shall be excluded from the allocation rules of section 1060. However, section 1060 shall apply to property which is not like-kind property or other property or money which is treated as transferred in exchange for the like-kind property. For application of the section 1060 allocation rules to property which is not part of the like-kind exchange, see § 1.1060-1(b), (c), and (d) *Example 1 in § 1.338-6(b), to which reference is made by § 1.1060-1(c)(2).*
+
+[T.D. 8215, 53 FR 27044, July 18, 1988, as amended by T.D. 8858, 65 FR 1237, Jan. 7, 2000; T.D. 8940, 66 FR 9929, Feb. 13, 2001]

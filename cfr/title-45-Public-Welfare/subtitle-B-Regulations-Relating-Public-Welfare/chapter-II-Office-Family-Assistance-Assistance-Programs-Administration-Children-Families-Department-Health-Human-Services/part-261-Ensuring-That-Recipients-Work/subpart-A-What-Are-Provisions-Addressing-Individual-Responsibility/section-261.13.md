@@ -1,0 +1,3 @@
+##### § 261.13 May an individual be penalized for not following an individual responsibility plan? #####
+
+Yes. If an individual fails without good cause to comply with an individual responsibility plan that he or she has signed, the State may reduce the amount of assistance otherwise payable to the family, by whatever amount it considers appropriate. This penalty is in addition to any other penalties under the State's TANF program.

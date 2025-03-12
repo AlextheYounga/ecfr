@@ -1,0 +1,9 @@
+##### § 1.679-6 Outbound migrations of domestic trusts. #####
+
+(a) *In general.* Subject to the provisions of paragraph (b) of this section, if an individual who is a U.S. person transfers property to a trust that is not a foreign trust, and such trust becomes a foreign trust while the U.S. person is alive, the U.S. individual is treated as a U.S. transferor and is deemed to transfer the property to a foreign trust on the date the domestic trust becomes a foreign trust.
+
+(b) *Amount deemed transferred.* For purposes of paragraph (a) of this section, the property deemed transferred to the trust when it becomes a foreign trust includes undistributed net income, as defined in section 665(a), attributable to the property previously transferred. Undistributed net income for periods prior to the migration is taken into account only for purposes of determining the portion of the trust that is attributable to the property transferred by the U.S. person.
+
+(c) *Example.* The following example illustrates the rules of this section. For purposes of the example, *A* is a resident alien, *B* is *A*'s son, who is a resident alien, and *DT* is a domestic trust. The example is as follows:
+
+Example. Outbound migration of domestic trust.On January 1, 2002, *A* transfers property to *DT,* for the benefit of *B.* On January 1, 2003, *DT* acquires a foreign trustee who has the power to determine whether and when distributions will be made to *B.* Under section 7701(a)(30)(E) and § 301.7701-7(d)(ii)(A) of this chapter, *DT* becomes a foreign trust on January 1, 2003. Under paragraph (a) of this section, *A* is treated as transferring property to a foreign trust on January 1, 2003. Under paragraph (b) of this section, the property deemed transferred to the trust when it becomes a foreign trust includes undistributed net income, as defined in section 665(a), attributable to the property deemed transferred.[T.D. 8955, 66 FR 37889, July 20, 2001]

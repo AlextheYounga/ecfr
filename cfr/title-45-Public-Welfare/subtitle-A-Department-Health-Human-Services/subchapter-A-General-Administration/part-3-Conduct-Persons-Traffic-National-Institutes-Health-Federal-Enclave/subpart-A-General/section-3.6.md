@@ -1,0 +1,3 @@
+##### § 3.6 Nondiscrimination. #####
+
+A person may not discriminate by segregation or otherwise against another person because of age, color, creed, handicap, national origin, race or sex, in furnishing or by refusing to furnish to that person the use of any facility of a public nature, including all services, privileges, accommodations, and activities provided within the enclave. (Title 18 United States Code section 245 prohibits, by use of force or threat of force, willful injury, intimidation, or interference with, a person from participating in or enjoying any benefit, service, privilege, program, facility, or activity provided by or administered by the United States, attempts to do these acts, and engaging in certain other activities.)

@@ -1,0 +1,3 @@
+##### § 306.36 Termination of interest. #####
+
+Securities will cease to bear interest on the date of their maturity unless they have been called for redemption before maturity in accordance with their terms, or are presented and surrendered for redemption-exchange or exchange pursuant to an advance refunding or prerefunding offer, in which case they will cease to bear interest on the date of call, or the exchange date, as the case may be.

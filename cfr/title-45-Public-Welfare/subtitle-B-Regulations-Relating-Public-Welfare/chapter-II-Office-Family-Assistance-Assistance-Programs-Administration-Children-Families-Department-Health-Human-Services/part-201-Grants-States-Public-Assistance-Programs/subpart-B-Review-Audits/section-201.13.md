@@ -1,0 +1,7 @@
+##### § 201.13 Action on audit and review findings. #####
+
+(a) If the audit results in no exceptions, the State agency is advised by letter of this result. The general course for the disposition of proposed exceptions resulting from audits involves the submittal of details of these exceptions to the State agency which then has an opportunity to concur in the proposed exceptions or to assemble and submit additional facts for purposes of clearance. Provision is made for the State agency to appeal proposed audit exceptions in which it has not concurred and which have not been deleted on the basis of clearance material. After consideration of a State agency's appeal by the Administrator, the Administration advises the State agency of any expenditures in which the Federal Government may not participate and requests it to include the amount as adjustments in a subsequent statement of expenditures. Expenditures in which it is found the Federal Government may not participate and which are not properly adjusted through the State's claim will be deducted from subsequent grants made to the State agency.
+
+(b) If the Federal or State reviews reveal serious problems with respect to compliance with any Federal requirement, the State agency is required to correct its practice so that there will be no recurrence of the problem in the future.
+
+[35 FR 12180, July 29, 1970, as amended at 53 FR 36579, Sept. 21, 1988]

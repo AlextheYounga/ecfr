@@ -1,0 +1,3 @@
+##### § 31.6001-6 Notice by district director requiring returns, statements, or the keeping of records. #####
+
+The district director may require any person, by notice served upon him, to make such returns, render such statements, or keep such specific records as will enable the district director to determine whether or not such person is liable for any of the taxes to which the regulations in this part have application.

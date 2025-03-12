@@ -1,0 +1,3 @@
+##### § 213.33 Effective date of Administrator's decision. #####
+
+If, in the case of a hearing pursuant to § 201.6(a) of this chapter, the Administrator concludes that a State plan does not comply with Federal requirements, his decision that further payments will not be made to the State, or payments will be limited to categories under or parts of the State plan not affected, shall specify the effective date for the withholding of Federal funds. The effective date shall not be earlier than the date of the Administrator's decision and shall not be later than the first day of the next calendar quarter. The provisions of this section may not be waived pursuant to § 213.4.

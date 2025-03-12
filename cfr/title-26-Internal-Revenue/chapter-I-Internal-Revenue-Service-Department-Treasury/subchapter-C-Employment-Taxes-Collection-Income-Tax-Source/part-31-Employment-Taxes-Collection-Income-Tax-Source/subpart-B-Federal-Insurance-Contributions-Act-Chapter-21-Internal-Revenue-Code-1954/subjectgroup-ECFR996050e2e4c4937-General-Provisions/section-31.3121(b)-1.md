@@ -1,0 +1,7 @@
+##### § 31.3121(b)-1 Employment; services to which the regulations in this subpart apply. #####
+
+(a) The provisions of the regulations in this subpart relating to the term “employment” apply with respect to services performed after 1954. Certain provisions also apply with respect to services performed before 1955 for which the remuneration is paid after 1954 (see paragraph (b) of § 31.3121(b)-2. For provisions relating generally to services performed before 1955, see paragraph (a) of § 31.3121 (b)-2. For provisions relating to the circumstances under which services which do not constitute employment are nevertheless deemed to be employment, and relating to the circumstances under which services which constitute employment are nevertheless deemed not to be employment, see § 31.3121 (c)-1. For provisions relating to who are employees and who are employers see §§ 31.3121 (d)-1 and 31.3121 (d)-2, respectively.
+
+(b) The taxes apply with respect to remuneration paid after 1954 for services performed before 1955, as well as for services performed after 1954, to the extent that the remuneration and services constitute wages and employment. See §§ 31.3121(a)-1 to 31.3121(a)(13)-1 relating to wages.
+
+[T.D. 6516, 25 FR 13032, Dec. 20, 1960, as amended by T.D. 6983, 33 FR 18015, Dec. 4, 1968]

@@ -1,0 +1,7 @@
+##### § 301.7403-1 Action to enforce lien or to subject property to payment of tax. #####
+
+(a) *Civil actions.* In any case where there has been a refusal or neglect to pay any tax, or to discharge any liability in respect thereof, whether or not levy has been made, the Attorney General or his delegate, at the request of the Commissioner (or the Director, Bureau of Alcohol, Tobacco, and Firearms, or the Chief Counsel for the Bureau, with respect to the provisions of subtitle E of the Code), or the Chief Counsel for the Internal Revenue Service or his delegate, may direct a civil action to be filed in a district court of the United States to enforce the lien of the United States under the Code with respect to such tax or liability or to subject any property, of whatever nature, of the delinquent, or in which he has any right, title or interest, to the payment of such tax or liability. In any such proceeding, at the instance of the United States, the court may appoint a receiver to enforce the lien, or, upon certification by the Commissioner or the Chief Counsel for the Internal Revenue Service during the pendency of such proceedings that it is in the public interest, may appoint a receiver with all the powers of a receiver in equity.
+
+(b) *Bid by the United States.* If property is sold to satisfy a first lien held by the United States, the United States may bid at the sale a sum which does not exceed the amount of its lien and the expenses of the sale. See also 31 U.S.C. 195.
+
+[T.D. 7305, 39 FR 9950, Mar. 15, 1974]

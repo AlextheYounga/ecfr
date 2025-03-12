@@ -1,0 +1,1 @@
+##### § 1.936-9T Source of qualified possession source investment income (temporary). [Reserved] #####

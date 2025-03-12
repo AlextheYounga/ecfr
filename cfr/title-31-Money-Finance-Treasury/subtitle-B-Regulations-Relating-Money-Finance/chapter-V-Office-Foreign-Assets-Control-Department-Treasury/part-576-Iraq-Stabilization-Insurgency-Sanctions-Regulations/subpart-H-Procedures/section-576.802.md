@@ -1,0 +1,5 @@
+##### § 576.802 Delegation by the Secretary of the Treasury. #####
+
+(a) Except as provided in paragraph (b) of this section, any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13303 of May 22, 2003, and any subsequent Executive orders relating to the national emergency declared therein, including but not limited to Executive Order 13315 of August 28, 2003, and Executive Order 13438 of July 17, 2007, may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated the authority so to act.
+
+(b) Unless otherwise delegated, the authority provided in section 2 of Executive Order 13315 to confiscate property blocked pursuant to this part and transfer all vested right, title, and interest in such property to the Development Fund for Iraq shall be exercised only by the Secretary of the Treasury, in consultation with the Secretary of State.

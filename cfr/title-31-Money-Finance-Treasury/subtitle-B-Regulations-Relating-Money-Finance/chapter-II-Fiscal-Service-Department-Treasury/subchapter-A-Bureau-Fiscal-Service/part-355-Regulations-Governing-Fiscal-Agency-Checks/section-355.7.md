@@ -1,0 +1,3 @@
+##### § 355.7 What notice should I give if I do not receive my check or if a check is lost, stolen, or destroyed? #####
+
+If a fiscal agency check is not received within a reasonable time after a payment is due, or if a check is lost, stolen, or destroyed, you must provide prompt written notification. Your written notice may be sent to us or to the payor Reserve Bank. You may give notice by telephone, but we will not issue a replacement check until you confirm the notice in writing. The written notice must provide enough information for us to identify the account and the security to which the payment relates. We will stop payment on the fiscal agency check if we have a reasonable time to act before final payment.

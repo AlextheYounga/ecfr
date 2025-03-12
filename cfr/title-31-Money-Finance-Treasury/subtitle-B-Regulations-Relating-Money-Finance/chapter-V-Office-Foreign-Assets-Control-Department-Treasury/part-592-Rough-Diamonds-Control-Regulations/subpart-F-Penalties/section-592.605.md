@@ -1,0 +1,3 @@
+##### § 592.605 Administrative collection; referral to United States Department of Justice. #####
+
+In the event that the respondent does not pay the penalty imposed pursuant to this part or make payment arrangements acceptable to the Director of the Office of Foreign Assets Control within 30 days of the date of mailing of the penalty notice, the matter may be referred for administrative collection measures by the Department of the Treasury or to the United States Department of Justice for appropriate action to recover the penalty in a civil suit in a federal district court.

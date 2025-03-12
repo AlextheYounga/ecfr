@@ -1,0 +1,5 @@
+##### § 1.661(c)-1 Limitation on deduction. #####
+
+An estate or trust is not allowed a deduction under section 661(a) for any amount which is treated under section 661(b) as consisting of any item of distributable net income which is not included in the gross income of the estate or trust. For example, if in 1962, a trust, which reports on the calendar year basis, has distributable net income of $20,000, which is deemed to consist of $10,000 of dividends and $10,000 of tax-exempt interest, and distributes $10,000 to beneficiary A, the deduction allowable under section 661(a) (computed without regard to section 661(c)) would amount to $10,000 consisting of $5,000 of dividends and $5,000 of tax-exempt interest. The deduction actually allowable under section 661(a) as limited by section 661(c) is $4,975, since no deduction is allowable for the $5,000 of tax-exempt interest and the $25 deemed distributed out of the $50 of dividends excluded under section 116, items of distributable net income which are not included in the gross income of the estate or trust.
+
+[T.D. 6777, 29 FR 17809, Dec. 16, 1964]

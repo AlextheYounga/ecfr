@@ -1,0 +1,5 @@
+##### § 1.246-4 Dividends from a DISC or former DISC. #####
+
+The deduction provided in section 243 (relating to dividends received by corporations) is not allowable with respect to any dividend (whether in the form of a deemed or actual distribution or an amount treated as a dividend pursuant to section 995(c)) from a corporation which is a DISC or former DISC (as defined in section 992(a)(1) or (3) as the case may be) to the extent such dividend is from the corporation's accumulated DISC income (as defined in section 996(f)(1)) or previously taxed income (as defined in section 996(f)(2)) or is a deemed distribution pursuant to section 995(b)(1) in a taxable year for which the corporation qualifies (or is treated) as a DISC. To the extent that a dividend is paid out of earnings and profits which are not made up of accumulated DISC income or previously taxed income, the corporate recipient is entitled to the deduction provided in section 243 in the same manner and to the same extent as a dividend from a domestic corporation which is not a DISC or former DISC.
+
+[T.D. 7283, 38 FR 20824, Aug. 3, 1973]

@@ -1,0 +1,9 @@
+##### § 48.6420-5 Applicable laws. #####
+
+(a) *Penalties, excessive claims, etc.* All provisions of law, including penalties, applicable in respect of the tax imposed by section 4081 shall, to the extent applicable and consistent with section 6420, apply in respect of the payments provided for in section 6420 to the same extent as if these payments were refunds of overpayments of the tax imposed on the sale of gasoline under section 4081. For special rules applicable to the assessment and collection of amounts constituting excessive payments under section 6420, see section 6206 and the regulations thereunder. For the civil penalty assessable in the case of excessive claims under section 6420, see section 6675 and the regulations thereunder. For the treatment as an overpayment of an amount allowable as an excessive credit under section 39 with respect to amounts payable under section 6420, see section 6401(b).
+
+(b) *Examination of books and witnesses.* For the purpose of ascertaining (1) the correctness of any claim made under section 6420 or (2) the correctness of any credit or payment made in respect of the claim, the Commissioner shall have the same authority granted by paragraphs (1), (2), and (3) of section 7602, relating to examination of books and witnesses, as if the person claiming credit or payment under section 6420 were the person liable for tax.
+
+(c) *Fractional part of a dollar.* Section 6420(e)(3) provides that section 7504, relating to fractional parts of a dollar, shall not apply with respect to the allowance of any amount as a credit or payment under section 6420. Accordingly, credits or payments authorized by section 6420 shall be made in the exact amount to which the claimant is entitled and shall not be rounded to the nearest whole dollar amount.
+
+[T.D. 8043, 50 FR 32038, Aug. 8, 1985]

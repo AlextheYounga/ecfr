@@ -1,0 +1,3 @@
+##### § 411.83 Interventions for UCs who engage in sexual abuse. #####
+
+UCs must receive appropriate interventions if they engage in UC-on-UC sexual abuse. Decisions regarding which types of interventions to use in particular cases, including treatment, counseling, or educational programs, are made with the goal of promoting improved behavior by the UC and ensuring the safety of other UCs and staff. Intervention decisions should take into account the social, sexual, emotional, and cognitive development of the UC and the UC's mental health status. Incidents of UC-on-UC abuse are referred to all investigating authorities, including law enforcement entities.

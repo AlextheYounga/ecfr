@@ -1,0 +1,43 @@
+##### § 25.2701-6 Indirect holding of interests. #####
+
+(a) *In general*—(1) *Attribution to individuals.* For purposes of section 2701, an individual is treated as holding an equity interest to the extent the interest is held indirectly through a corporation, partnership, estate, trust, or other entity. If an equity interest is treated as held by a particular individual in more than one capacity, the interest is treated as held by the individual in the manner that attributes the largest total ownership of the equity interest. An equity interest held by a lower-tier entity is attributed to higher-tier entities in accordance with the rules of this section. For example, if an individual is a 50-percent beneficiary of a trust that holds 50 percent of the preferred stock of a corporation, 25 percent of the preferred stock is considered held by the individual under these rules.
+
+(2) *Corporations.* A person is considered to hold an equity interest held by or for a corporation in the proportion that the fair market value of the stock the person holds bears to the fair market value of all the stock in the corporation (determined as if each class of stock were held separately by one individual). This paragraph applies to any entity classified as a corporation or as an association taxable as a corporation for federal income tax purposes.
+
+(3) *Partnerships.* A person is considered to hold an equity interest held by or for a partnership in the proportion that the fair market value of the larger of the person's profits interest or capital interest in the partnership bears to the total fair market value of the corresponding profits interests or capital interests in the partnership, as the case may be (determined as if each class were held by one individual). This paragraph applies to any entity classified as a partnership for federal income tax purposes.
+
+(4) *Estates, trusts and other entities*—(i) *In general.* A person is considered to hold an equity interest held by or for an estate or trust to the extent the person's beneficial interest therein may be satisfied by the equity interest held by the estate or trust, or the income or proceeds thereof, assuming the maximum exercise of discretion in favor of the person. A beneficiary of an estate or trust who cannot receive any distribution with respect to an equity interest held by the estate or trust, including the income therefrom or the proceeds from the disposition thereof, is not considered the holder of the equity interest. Thus, if stock held by a decedent's estate has been specifically bequeathed to one beneficiary and the residue of the estate has been bequeathed to other beneficiaries, the stock is considered held only by the beneficiary to whom it was specifically bequeathed. However, any person who may receive distributions from a trust is considered to hold an equity interest held by the trust if the distributions may be made from current or accumulated income from or the proceeds from the disposition of the equity interest, even though under the terms of the trust the interest can never be distributed to that person. This paragraph applies to any entity that is not classified as a corporation, an association taxable as a corporation, or a partnership for federal income tax purposes.
+
+(ii) *Special rules.* (A) Property is held by a decedent's estate if the property is subject to claims against the estate and expenses of administration.
+
+(B) A person holds a beneficial interest in a trust or an estate so long as the person may receive distributions from the trust or the estate other than payments for full and adequate consideration.
+
+(C) An individual holds an equity interest held by or for a trust if the individual is considered an owner of the trust (a “grantor trust”) under subpart E, part 1, subchapter J of the Internal Revenue Code (relating to grantors and others treated as substantial owners). However, if an individual is treated as the owner of only a fractional share of a grantor trust because there are multiple grantors, the individual holds each equity interest held by the trust, except to the extent that the fair market value of the interest exceeds the fair market value of the fractional share.
+
+(5) *Multiple attribution*—(i) *Applicable retained interests.* If this section attributes an applicable retained interest to more than one individual in a class consisting of the transferor and one or more applicable family members, the interest is attributed within that class in the following order—
+
+(A) If the interest is held in a grantor trust, to the individual treated as the holder thereof;
+
+(B) To the transferor;
+
+(C) To the transferor's spouse; or
+
+(D) To each applicable family member on a pro rata basis.
+
+(ii) *Subordinate equity interests.* If this section attributes a subordinate equity interest to more than one individual in a class consisting of the transferor, applicable family members, and members of the transferor's family, the interest is attributed within that class in the following order—
+
+(A) To the transferee;
+
+(B) To each member of the transferor's family on a pro rata basis;
+
+(C) If the interest is held in a grantor trust, to the individual treated as the holder thereof;
+
+(D) To the transferor;
+
+(E) To the transferor's spouse; or
+
+(F) To each applicable family member on a pro rata basis.
+
+(b) *Examples.* The following examples illustrate the provisions of this section:
+
+Example 1.A, an individual, holds 25 percent by value of each class of stock of Y Corporation. Persons unrelated to A hold the remaining stock. Y holds 50 percent of the stock of Corporation X. Under paragraph (a)(2) of this section, Y's interests in X are attributed proportionately to the shareholders of Y. Accordingly, A is considered to hold a 12.5 percent (25 percent × 50 percent) interest in X.Example 2.Z Bank's authorized capital consists of 100 shares of common stock and 100 shares of preferred stock. A holds 60 shares of each (common and preferred) and A's child, B, holds 40 shares of common stock. Z holds the balance of its own preferred stock, 30 shares as part of a common trust fund it maintains and 10 shares permanently set aside to satisfy a deferred obligation. For purposes of section 2701, A holds 60 shares of common stock and 66 shares of preferred stock in Z, 60 shares of each class directly and 6 shares of preferred stock indirectly (60 percent of the 10 shares set aside to fund the deferred obligation).Example 3.An irrevocable trust holds a 10-percent general partnership interest in Partnership Q. One-half of the trust income is required to be distributed to O Charity. The other one-half of the income is to be distributed to D during D's life and thereafter to E for such time as E survives D. D holds one-half of the trust's interest in Q by reason of D's present right to receive one-half of the trust's income, and E holds one-half of the trust's interest in Q by reason of E's future right to receive one-half of the trust's income. Nevertheless, no family member is treated as holding more than one-half of the trust's interest in Q because at no time will either D or E actually hold, in the aggregate, any right with respect to income or corpus greater than one-half.Example 4.An irrevocable trust holds a 10-percent general partnership interest in partnership M. One-half of the trust income is to be paid to D for D's life. The remaining income may, in the trustee's discretion, be accumulated or paid to or for the benefit of a class that includes D's child F, in such amounts as the trustee determines. On the death of the survivor of D and F, the trust corpus is required to be distributed to O Charity. The trust's interest in M is held by the trust's beneficiaries to the extent that present and future income or corpus may be distributed to them. Accordingly, D holds one-half of the trust's interest in M because D is entitled to receive one-half of the trust income currently. F holds the entire value of the interest because F is a member of the class eligible to receive the entire trust income for such time as F survives D. See paragraph (a)(5) of this section for rules applicable in the case of multiple attribution.Example 5.The facts are the same as in *Example 4,* except that all the income is required to be paid to O Charity for the trust's initial year. The result is the same as in *Example 4.*[T.D. 8395, 57 FR 4263, Feb. 4, 1992]

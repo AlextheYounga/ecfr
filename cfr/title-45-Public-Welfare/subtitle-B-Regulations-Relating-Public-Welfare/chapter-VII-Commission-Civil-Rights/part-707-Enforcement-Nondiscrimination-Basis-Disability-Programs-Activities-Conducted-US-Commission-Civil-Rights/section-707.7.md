@@ -1,0 +1,3 @@
+##### § 707.7 Employment. #####
+
+No qualified individual with disabilities shall, on the basis of disability, be subjected to discrimination in employment under any program or activity conducted by the Agency. The definitions, requirements, and procedures of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 791), as established by the Equal Employment Opportunity Commission in 29 CFR 1614.101 through 1614.110, shall apply to employment in programs or activities conducted by the Agency.

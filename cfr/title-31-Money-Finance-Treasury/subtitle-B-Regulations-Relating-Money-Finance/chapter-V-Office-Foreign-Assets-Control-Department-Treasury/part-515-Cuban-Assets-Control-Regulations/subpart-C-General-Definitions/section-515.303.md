@@ -1,0 +1,7 @@
+##### § 515.303 Nationals of more than one foreign country. #####
+
+(a) Any person who by virtue of any provision in this chapter is a national of more than one foreign country shall be deemed to be a national of each of such foreign countries.
+
+(b) In any case in which a person is a national of two or more designated foreign countries, as defined in this chapter, a license or authorization with respect to nationals of one of such designated foreign countries shall not be deemed to apply to such person unless a license or authorization of equal or greater scope is outstanding with respect to nationals of each other designated foreign country of which such person is a national.
+
+(c) In any case in which the combined interests of two or more designated foreign countries, as defined in this chapter, and/or nationals thereof are sufficient in the aggregate to constitute control or ownership of 25 per centum or more of the stock, shares, bonds, debentures, notes, drafts, or other securities or obligations of a partnership, association, corporation or other organization, but such control or a substantial part of such stock, shares, bonds, debentures, notes, drafts, or other securities or obligations is not held by any one such foreign country and/or national thereof, such partnership, association, corporation or other organization shall be deemed to be a national of each of such foreign countries.

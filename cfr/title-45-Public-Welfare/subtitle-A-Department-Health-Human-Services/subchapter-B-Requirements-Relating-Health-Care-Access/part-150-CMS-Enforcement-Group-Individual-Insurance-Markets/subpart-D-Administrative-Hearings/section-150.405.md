@@ -1,0 +1,5 @@
+##### § 150.405 Filing of request for hearing. #####
+
+(a) A respondent has a right to a hearing before an ALJ if it files a request for hearing that complies with § 150.407(a), within 30 days after the date of issuance of either CMS's notice of proposed assessment under § 150.343 or notice that an alternative dispute resolution process has terminated. The request for hearing should be addressed as instructed in the notice of proposed determination. “Date of issuance” is five (5) days after the filing date, unless there is a showing that the document was received earlier.
+
+(b) The ALJ may extend the time for filing a request for hearing only if the ALJ finds that the respondent was prevented by events or circumstances beyond its control from filing its request within the time specified above. Any request for an extension of time must be made promptly by written motion.

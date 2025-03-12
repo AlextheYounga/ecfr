@@ -1,0 +1,3 @@
+##### § 521.107 Income from operation of ships or aircraft. #####
+
+The income derived from the operation of ships or aircraft registered in Denmark by a nonresident alien who is a resident of Denmark, or by a Danish corporation, and carrying on an enterprise in Denmark, is, for taxable years beginning on or after January 1, 1948, exempt from United States income tax under the provisions of Article V of the convention.

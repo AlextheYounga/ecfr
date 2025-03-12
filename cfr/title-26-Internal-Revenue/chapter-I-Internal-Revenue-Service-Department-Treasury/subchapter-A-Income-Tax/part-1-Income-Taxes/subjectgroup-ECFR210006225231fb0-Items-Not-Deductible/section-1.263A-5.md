@@ -1,0 +1,1 @@
+##### § 1.263A-5 Exception for qualified creative expenses incurred by certain free-lance authors, photographers, and artists. [Reserved] #####

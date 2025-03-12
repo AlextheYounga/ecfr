@@ -1,0 +1,3 @@
+##### § 20.2031-5 Valuation of cash on hand or on deposit. #####
+
+The amount of cash belonging to the decedent at the date of his death, whether in his possession or in the possession of another, or deposited with a bank, is included in the decedent's gross estate. If bank checks outstanding at the time of the decedent's death and given in discharge of bona fide legal obligations of the decedent incurred for an adequate and full consideration in money or money's worth are subsequently honored by the bank and charged to the decedent's account, the balance remaining in the account may be returned, but only if the obligations are not claimed as deductions from the gross estate.

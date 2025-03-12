@@ -1,0 +1,7 @@
+##### § 501.731 Depositions upon written questions. #####
+
+(a) *Availability.* Depositions may be taken and submitted on written questions upon motion of any party. The motion shall include the information specified in § 501.730(a). A decision on the motion shall be governed by § 501.730(b).
+
+(b) *Procedure.* Written questions shall be filed with the motion. Not later than 10 days after service of the motion and written questions, any party may file objections to such written questions and any party may file cross-questions. When a deposition is taken pursuant to this section no persons other than the witness, representative or counsel to the witness, the deposition officer, and, if the deposition officer does not act as reporter, a reporter, shall be present at the examination of the witness. No party shall be present or represented unless otherwise permitted by order. The deposition officer shall propound the questions and cross-questions to the witness in the order submitted.
+
+(c) *Additional requirements.* The order for deposition, filing of the deposition, form of the deposition and use of the deposition in the record shall be governed by paragraphs (b) through (g) of § 501.730, except that no cross-examination shall be made.

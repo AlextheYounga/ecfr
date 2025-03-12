@@ -1,0 +1,5 @@
+##### § 689.7 Pending proposals and awards. #####
+
+(a) Upon learning of alleged research misconduct OIG will identify potentially implicated awards or proposals and when appropriate, will ensure that program, grant, and contracting officers handling them are informed (subject to § 689.6(c)).
+
+(b) Neither a suspicion or allegation of research misconduct nor a pending inquiry or investigation will normally delay review of proposals. To avoid influencing reviews, reviewers or panelists will not be informed of allegations or of ongoing inquiries or investigations. However, if allegations, inquiries, or investigations have been rumored or publicized, the responsible Program Director may consult with OIG and, after further consultation with the Office of General Counsel, either defer review, inform reviewers to disregard the matter, or inform reviewers of the status of the matter.

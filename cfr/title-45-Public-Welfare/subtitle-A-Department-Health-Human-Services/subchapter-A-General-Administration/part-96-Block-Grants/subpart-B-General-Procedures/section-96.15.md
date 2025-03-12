@@ -1,0 +1,5 @@
+##### § 96.15 Waivers. #####
+
+Applications for waivers that are permitted by statute for the block grants should be submitted to the Director, Centers for Disease Control and Prevention in the case of the preventive health and health services block grant; to the Administrator, Substance Abuse and Mental Health Services Administration in the case of the community mental health services block grant and the substance abuse prevention and treatment block grant; to the Director, Maternal and Child Health Bureau in the case of the maternal and child health services block grant; and to the Director, Office of Community Services in the case of the community services block grant, the low-income home energy assistance program and the social services block grant. Beginning with fiscal year 1986, the Secretary's authority to waive the provisions of section 2605(b) of Public Law 97-35 (42 U.S.C. 8624(b)) under the low-income home energy assistance program is repealed.
+
+[64 FR 55856, Oct. 15, 1999]

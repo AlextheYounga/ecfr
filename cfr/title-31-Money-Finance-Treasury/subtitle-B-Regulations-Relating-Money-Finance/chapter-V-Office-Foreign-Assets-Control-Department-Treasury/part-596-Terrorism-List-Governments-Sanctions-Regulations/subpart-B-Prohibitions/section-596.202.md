@@ -1,0 +1,3 @@
+##### § 596.202 Evasions; attempts; conspiracies. #####
+
+Any transaction for the purpose of, or which has the effect of, evading or avoiding, or which facilitates the evasion or avoidance of, any of the prohibitions set forth in this part, is hereby prohibited. Any attempt to violate the prohibitions set forth in this part is hereby prohibited. Any conspiracy formed for the purpose of engaging in a transaction prohibited by this part is hereby prohibited.

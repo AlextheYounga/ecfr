@@ -1,0 +1,5 @@
+##### § 73.735-301 Courtesy and consideration for others. #####
+
+(a) An employee's conduct on the job is, in all respects, of concern to the Federal government. Courtesy, consideration, and promptness in dealing with the public must be shown in carrying out official responsibilities, and actions which deny the dignity of individuals or conduct which is disrespectful to others must be avoided. Employees must recognize that inattention to matters of common courtesy can adversely affect the quality of service the Department is responsible for providing. Where appropriate, courtesy to the public should be included in the standards for employee performance.
+
+(b) Of equal importance is the requirement that courtesy be shown in day-by-day interaction with co-workers. Employees shall be polite to and considerate of other employees, and shall respect their needs and concerns in the work environment.

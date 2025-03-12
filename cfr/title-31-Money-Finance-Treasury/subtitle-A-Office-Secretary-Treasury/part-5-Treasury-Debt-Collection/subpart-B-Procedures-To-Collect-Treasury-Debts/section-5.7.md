@@ -1,0 +1,3 @@
+##### § 5.7 When will Treasury entities compromise a Treasury debt? #####
+
+If a Treasury entity cannot collect the full amount of a Treasury debt, the Treasury entity may compromise the debt in accordance with the provisions of 31 CFR part 902 and the Treasury entity's policies and procedures. Legal counsel approval to compromise a Treasury debt is required as described in Treasury Directive 34-02 (Credit Management and Debt Collection), which may be found at *http://www.treas.gov/regs.*
