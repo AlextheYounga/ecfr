@@ -1,6 +1,6 @@
 ##### § 37.19 Machine readable technology on the driver's license or identification card. #####
 
-For the machine readable portion of the REAL ID driver's license or identification card, States must use the ISO/IEC 15438:2006(E) Information Technology—Automatic identification and data capture techniques—PDF417 symbology specification. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of these incorporated standards at *http://www.ansi.org*, or by contacting ANSI at ANSI, 25 West 43rd Street, 4th Floor, New York, New York 10036. You may inspect a copy of the incorporated standard at the Department of Homeland Security, 1621 Kent Street, 9th Floor, Rosslyn, VA (please call 703-235-0709 to make an appointment) or at the National Archives and Records Administration (NARA). For information on the availability of material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* The PDF417 bar code standard must have the following defined minimum data elements:
+For the machine readable portion of the REAL ID driver's license or identification card, States must use ISO/IEC 15438:2006(E) (incorporated by reference; see § 37.4). The PDF417 bar code standard must have the following defined minimum data elements:
 
 (a) Expiration date.
 
@@ -21,3 +21,5 @@ For the machine readable portion of the REAL ID driver's license or identificati
 (i) Inventory control number of the physical document.
 
 (j) State or territory of issuance.
+
+[73 FR 5331, Jan. 29, 2008, as amended at 88 FR 44192, July 12, 2023]

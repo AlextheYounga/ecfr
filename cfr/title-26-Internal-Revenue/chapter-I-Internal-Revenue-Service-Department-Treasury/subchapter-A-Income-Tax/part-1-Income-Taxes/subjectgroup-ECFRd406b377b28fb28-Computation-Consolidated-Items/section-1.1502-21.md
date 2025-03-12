@@ -64,7 +64,7 @@
 
 (B) *Offspring rule.* In the case of a member that has been a member continuously since its organization (determined without regard to whether the member is a successor to any other corporation), the CNOL attributable to the member is included in the carrybacks to consolidated return years before the member's existence. If the group did not file a consolidated return for a carryback year, the loss may be carried back to a separate return year of the common parent under paragraph (b)(2)(i) of this section, but only if the common parent was not a member of a different consolidated group or of an affiliated group filing separate returns for the year to which the loss is carried or any subsequent year in the carryback period. Following an acquisition described in § 1.1502-75(d)(2) or (3), references to the common parent are to the corporation that was the common parent immediately before the acquisition.
 
-(iii) *Equivalent years.* Taxable years are equivalent if they bear the same numerical relationship to the consolidated return year in which a CNOL arises, counting forward or backward from the year of the loss. For example, in the case of a member's third taxable year (which was a separate return year) that preceded the consolidated return year in which the loss arose, the equivalent year is the third consolidated return year preceding the consolidated return year in which the loss arose. See paragraph (b)(3)(iii) of this section for certain short taxable years that are disregarded in making this determination.
+(iii) *Equivalent years.* Taxable years are equivalent if they bear the same numerical relationship to the consolidated return year in which a CNOL arises, counting forward or backward from the year of the loss. For example, in the case of a member's third taxable year (which was a separate return year) that preceded the consolidated return year in which the loss arose, the equivalent year is the third consolidated return year preceding the consolidated return year in which the loss arose. See paragraph (b)(7) of this section for certain short taxable years that are disregarded in making this determination.
 
 (iv) *Operating rules.* (A) *Amount of CNOL attributable to a member.* The amount of a CNOL that is attributable to a member equals the product obtained by multiplying the CNOL and the percentage of the CNOL attributable to the member.
 
@@ -116,8 +116,6 @@
 
 (G) *Example 7: Pre-2018 and post-2017 CNOLs.* (*1*) P is the common parent of a consolidated group. No member of the P group is a nonlife insurance company or is engaged in a farming business, and no member of the P group has a loss that is subject to a SRLY limitation. The P group had the following consolidated taxable income or CNOL for the following taxable years:
 
-Table 1 to Paragraph (b)(2)(v)(G)(1)
-
 |2014|2015|2016|2017 |2018|2019 | 2020 |2021|
 |----|----|----|-----|----|-----|------|----|
 |$60 | $0 | $0 |($90)|$30 |($40)|($100)|$120|
@@ -128,21 +126,83 @@ Table 1 to Paragraph (b)(2)(v)(G)(1)
 
 (*4*) Under section 172(a)(2) and paragraph (a)(2)(i) of this section, the P group's CNOL deduction for 2021 equals the aggregate amount of pre-2018 NOLs carried to 2021 plus the group's post-2017 CNOL deduction limit. The P group has $60 of pre-2018 NOLs carried to 2021 ($90−$30). Because no member of the P group is a nonlife insurance company, paragraph (a)(2)(iii)(A) of this section applies to determine the computation of the group's post-2017 CNOL deduction limit for 2021. See also section 172(a)(2)(B). Therefore, the post-2017 CNOL deduction limit of the P group for 2021 is $48, which equals the lesser of the aggregate amount of post-2017 NOLs carried to 2021 ($100), or 80 percent of the excess of the P group's consolidated taxable income for that year computed without regard to any deductions under sections 172, 199A, and 250 ($120) over the aggregate amount of pre-2018 NOLs carried to 2021 ($60) (that is, 80 percent × $60). Thus, the P group's CNOL deduction for 2021 equals $108 ($60 pre-2018 NOLs carried to 2021 + $48 post-2017 CNOL deduction limit). See section 172(a)(2) and paragraph (a)(2)(i) of this section. The P group offsets $108 of its $120 of 2021 consolidated taxable income, resulting in $12 of consolidated taxable income in 2021. The remaining $52 of the P group's 2020 CNOL ($100−$48) is carried over to future taxable years. See section 172(b)(1)(A)(ii)(II).
 
-(3) *Special rules*—(i) *Election to relinquish carryback.* A group may make an irrevocable election under section 172(b)(3) to relinquish the entire carryback period with respect to a CNOL for any consolidated return year. Except as provided in § 1.1502-21(b)(3)(ii)(B), the election may not be made separately for any member (whether or not it remains a member), and must be made in a separate statement entitled “THIS IS AN ELECTION UNDER § 1.1502-21(b)(3)(i) TO WAIVE THE ENTIRE CARRYBACK PERIOD PURSUANT TO SECTION 172(b)(3) FOR THE [insert consolidated return year] CNOLs OF THE CONSOLIDATED GROUP OF WHICH [insert name and employer identification number of common parent] IS THE COMMON PARENT.” The statement must be filed with the group's income tax return for the consolidated return year in which the loss arises. If the consolidated return year in which the loss arises begins before January 1, 2003, the statement making the election must be signed by the common parent. If the consolidated return year in which the loss arises begins after December 31, 2002, the election may be made in an unsigned statement.
+(3) *Election to relinquish entire carryback period*—(i) *In general.* A group may make an irrevocable election under section 172(b)(3) to relinquish the entire carryback period with respect to a CNOL for any consolidated return year. Except as provided in paragraphs (b)(4) and (5) of this section, the election may not be made separately for any member (whether or not it remains a member), and must be made in a separate statement titled “THIS IS AN ELECTION UNDER § 1.1502-21(b)(3)(i) TO WAIVE THE ENTIRE CARRYBACK PERIOD PURSUANT TO SECTION 172(b)(3) FOR THE [insert consolidated return year] CNOLs OF THE CONSOLIDATED GROUP OF WHICH [insert name and employer identification number of common parent] IS THE COMMON PARENT.” The statement must be filed with the group's income tax return for the consolidated return year in which the loss arises. If the consolidated return year in which the loss arises begins before January 1, 2003, the statement making the election must be signed by the common parent. If the consolidated return year in which the loss arises begins after December 31, 2002, the election may be made in an unsigned statement.
 
-(ii) *Special elections*—(A) *Groups that include insolvent financial institutions.* For rules applicable to relinquishing the entire carryback period with respect to losses attributable to insolvent financial institutions, see § 301.6402-7 of this chapter.
+(ii) *Groups that include insolvent financial institutions.* For rules applicable to relinquishing the entire carryback period with respect to losses attributable to insolvent financial institutions, *see* § 301.6402-7 of this chapter.
 
-(B) *Acquisition of member from another consolidated group.* If one or more members of a consolidated group becomes a member of another consolidated group, the acquiring group may make an irrevocable election to relinquish, with respect to all consolidated net operating losses attributable to the member, the portion of the carryback period for which the corporation was a member of another group, provided that any other corporation joining the acquiring group that was affiliated with the member immediately before it joined the acquiring group is also included in the waiver. This election is not a yearly election and applies to all losses that would otherwise be subject to a carryback to a former group under section 172. The election must be made in a separate statement entitled “THIS IS AN ELECTION UNDER § 1.1502-21(b)(3)(ii)(B) TO WAIVE THE PRE-[insert first taxable year for which the member (or members) was not a member of another group] CARRYBACK PERIOD FOR THE CNOLs attributable to [insert names and employer identification number of members].” The statement must be filed with the acquiring consolidated group's original income tax return for the year the corporation (or corporations) became a member. If the year in which the corporation (or corporations) became a member begins before January 1, 2003, the statement must be signed by the common parent and each of the members to which it applies. If the year in which the corporation (or corporations) became a member begins after December 31, 2002, the election may be made in an unsigned statement.
+(4) *General split-waiver election.* If one or more members of a consolidated group becomes a member of another consolidated group, the acquiring group may make an irrevocable election to relinquish, with respect to all consolidated net operating losses attributable to the member, the portion of the carryback period for which the corporation was a member of another group, provided that any other corporation joining the acquiring group that was affiliated with the member immediately before it joined the acquiring group is also included in the waiver. This election is not a yearly election and applies to all losses that would otherwise be subject to a carryback to a former group under section 172. The election must be made in a separate statement titled “THIS IS AN ELECTION UNDER § 1.1502-21(b)(4) TO WAIVE THE PRE-[insert first taxable year for which the member (or members) was not a member of another group] CARRYBACK PERIOD FOR THE CNOLs attributable to [insert names and employer identification number of members].” The statement must be filed with the acquiring consolidated group's original income tax return for the year the corporation (or corporations) became a member. If the year in which the corporation (or corporations) became a member begins before January 1, 2003, the statement must be signed by the common parent and each of the members to which it applies. If the year in which the corporation (or corporations) became a member begins after December 31, 2002, the election may be made in an unsigned statement.
 
-(C) *Waiver of carryback period for losses in taxable years to which statutorily amended carryback rules apply.* For further information, see § 1.1502-21T(b)(3)(ii)(C).
+(5) *Split-waiver elections to which amended carryback rules apply*—(i) *In general.* An acquiring group may make either (but not both) an amended statute split-waiver election or an extended split-waiver election with respect to a particular amended carryback CNOL. These elections are available only if the statutory amendment to the carryback period referred to in paragraph (b)(5)(ii)(D) of this section occurs after the date of acquisition of an acquired member. A separate election is available for each taxable year to which amended carryback rules apply. An acquiring group may make an amended statute split-waiver election or an extended split-waiver election only if the acquiring group, with regard to that election—
 
-(D) *Examples.* For further information, see § 1.1502-21T(b)(3)(ii)(D).
+(A) Satisfies the requirements in paragraph (b)(5)(iii) of this section; and
 
-(iii) *Short years in connection with transactions to which section 381(a) applies.* If a member distributes or transfers assets to a corporation that is a member immediately after the distribution or transfer in a transaction to which section 381(a) applies, the transaction does not cause the distributor or transferor to have a short year within the consolidated return year of the group in which the transaction occurred that is counted as a separate year for purposes of determining the years to which a net operating loss may be carried.
+(B) Follows the procedures in paragraphs (b)(5)(v) and (vi) of this section, as relevant to that election.
 
-(iv) *Special status losses.* [Reserved]
+(ii) *Definitions.* The definitions provided in this paragraph (b)(5)(ii) apply for purposes of paragraphs (b)(5) and (6) of this section.
 
-(v) [Reserved] For further guidance, *see* § 1.1502-21T(b)(3)(v).
+(A) *Acquired member.* The term *acquired member* means a member of a consolidated group that joins another consolidated group.
+
+(B) *Acquiring group.* The term *acquiring group* means a consolidated group that has acquired a former member of another consolidated group (that is, an acquired member).
+
+(C) *Amended carryback CNOL.* The term *amended carryback CNOL* means the portion of a CNOL attributable to an acquired member (determined pursuant to paragraph (b)(2)(iv)(B) of this section) arising in a taxable year to which amended carryback rules apply.
+
+(D) *Amended carryback rules.* The term *amended carryback rules* means the rules of section 172 of the Code after amendment by statute to extend the carryback period for NOLs attributable to an acquired member (determined pursuant to paragraph (b)(2)(iv)(B) of this section).
+
+(E) *Amended statute split-waiver election.* The term *amended statute split-waiver election* means, with respect to any amended carryback CNOL, an irrevocable election made by an acquiring group to relinquish the portion of the carryback period (including the default carryback period and the extended carryback period) for that loss during which an acquired member was a member of any former group.
+
+(F) *Amended statute split-waiver election statement.* The term *amended statute split-waiver election statement* has the meaning provided in paragraph (b)(5)(v)(A) of this section.
+
+(G) *Default carryback period.* The term *default carryback period* means the NOL carryback period existing at the time the acquiring group acquired the acquired member, before the applicability of amended carryback rules.
+
+(H) *Extended carryback period.* The term *extended carryback period* means the additional taxable years added to a default carryback period by any amended carryback rules.
+
+(I) *Extended split-waiver election.* The term *extended split-waiver election* means, with respect to any amended carryback CNOL, an irrevocable election made by an acquiring group to relinquish solely the portion of the extended carryback period (and no part of the default carryback period) for that loss during which an acquired member was a member of any former group.
+
+(J) *Extended split-waiver election statement.* The term *extended split-waiver election statement* has the meaning provided in paragraph (b)(5)(v)(B) of this section.
+
+(K) *Former group.* The term *former group* means a consolidated group of which an acquired member previously was a member.
+
+(iii) *Conditions for making an amended statute split-waiver election or an extended split-waiver election.* An acquiring group may make an amended statute split-waiver election or an extended split-waiver election (but not both) with respect to an amended carryback CNOL only if—
+
+(A) The acquiring group has not filed a valid election described in paragraph (b)(4) of this section with respect to the acquired member on or before the effective date of the amended carryback rules;
+
+(B) The acquiring group has not filed a valid election described in section 172(b)(3) and paragraph (b)(3)(i) of this section with respect to a CNOL of the acquiring group from which the amended carryback CNOL is attributed to the acquired member;
+
+(C) Any other corporation joining the acquiring group that was affiliated with the acquired member immediately before the acquired member joined the acquiring group is included in the waiver; and
+
+(D) A former group does not claim any carryback (as provided in paragraph (b)(5)(iv) of this section) to any taxable year in the carryback period (in the case of an amended statute split-waiver election) or in the extended carryback period (in the case of an extended split-waiver election) with respect to the amended carryback CNOL on a return or other filing filed on or before the date the acquiring group files the election.
+
+(iv) *Claim for a carryback.* For purposes of paragraph (b)(5)(iii)(D) of this section, a carryback is claimed with respect to an amended carryback CNOL if there is a claim for refund, an amended return, an application for a tentative carryback adjustment, or any other filing that claims the benefit of the NOL in a taxable year prior to the taxable year of the loss, whether or not subsequently revoked in favor of a claim based on the period provided for in the amended carryback rules.
+
+(v) *Procedures for making an amended statute split-waiver election or an extended split-waiver election*—(A) *Amended statute split-waiver election.* An amended statute split-waiver election must be made in a separate amended statute split-waiver election statement titled “THIS IS AN ELECTION UNDER SECTION 1.1502-21(b)(5)(i) TO WAIVE THE PRE-[insert first day of the first taxable year for which the acquired member was a member of the acquiring group] CARRYBACK PERIOD FOR THE CNOLS ATTRIBUTABLE TO THE [insert taxable year of losses] TAXABLE YEAR(S) OF [insert names and employer identification numbers of members]”. The amended statute split-waiver election statement must be filed as provided in paragraph (b)(5)(vi) of this section.
+
+(B) *Extended split-waiver election.* An extended split-waiver election must be made in a separate extended split-waiver election statement titled “THIS IS AN ELECTION UNDER SECTION 1.1502-21(b)(5)(i) TO WAIVE THE PRE-[insert first day of the first taxable year for which the acquired member was a member of the acquiring group] EXTENDED CARRYBACK PERIOD FOR THE CNOLS ATTRIBUTABLE TO THE [insert taxable year of losses] TAXABLE YEAR(S) OF [insert names and employer identification numbers of members]”. The extended split-waiver election statement must be filed as provided in paragraph (b)(5)(vi) of this section.
+
+(vi) *Time and manner for filing statement*—(A) *In general.* Except as otherwise provided in paragraph (b)(5)(vi)(B) or (C) of this section, an amended statute split-waiver election statement or extended split-waiver election statement must be filed with the acquiring group's timely filed consolidated return (including extensions) for the year during which the amended carryback CNOL is incurred.
+
+(B) *Amended returns.* This paragraph (b)(5)(vi)(B) applies if the date of the filing required under paragraph (b)(5)(vi)(A) of this section is not at least 150 days after the date of the statutory amendment to the carryback period referred to in paragraph (b)(5)(ii)(D) of this section. Under this paragraph (b)(5)(vi)(B), an amended statute split-waiver election statement or extended split-waiver election statement may be attached to an amended return filed by the date that is 150 days after the date of the statutory amendment referred to in paragraph (b)(5)(ii)(D) of this section.
+
+(C) *Certain taxable years beginning before January 1, 2021.* This paragraph (b)(5)(vi)(C) applies to taxable years beginning before January 1, 2021, for which the date of the filing required under paragraph (b)(5)(vi)(A) of this section precedes November 30, 2020. Under this paragraph (b)(5)(vi)(C), an amended statute split-waiver election statement or extended split-waiver election statement may be attached to an amended return filed by November 30, 2020.
+
+(6) *Examples.* The following examples illustrate the rules of paragraph (b)(5) of this section. For purposes of these examples: All affiliated groups file consolidated returns; all corporations are includible corporations that have calendar taxable years; each of P, X, and T is a corporation having one class of stock outstanding; each of P and X is the common parent of a consolidated group (P Group and X Group, respectively); neither the P Group nor the X Group includes an insolvent financial institution or an insurance company; no NOL is a farming loss; there are no other relevant NOL carrybacks to the X Group's consolidated taxable years; except as otherwise stated, the X Group has sufficient consolidated taxable income determined under § 1.1502-11 (CTI) to absorb the stated NOL carryback by T; T has sufficient SRLY register income within the X Group to absorb the stated NOL carryback by T; all transactions occur between unrelated parties; and the facts set forth the only relevant transactions.
+
+(i) *Example 1: Computation and absorption of amended carrybacks*—(A) *Facts.* In Year 1, T became a member of the X Group. On the last day of Year 5, P acquired all the stock of T from X. At the time of P's acquisition of T stock, the default carryback period was zero taxable years. The P Group did not make an irrevocable split-waiver election under paragraph (b)(4) of this section to relinquish, with respect to all CNOLs attributable to T while a member of the P Group, the portion of the carryback period for which T was a member of the X Group (that is, a former group). In Year 7, the P Group sustained a $1,000 CNOL, $600 of which was attributable to T pursuant to paragraph (b)(2)(iv)(B) of this section. In that year, P did not make an irrevocable general waiver election under section 172(b)(3) and paragraph (b)(3)(i) of this section with respect to the $1,000 CNOL when the P Group filed its consolidated return for Year 7. In Year 8, legislation was enacted that amended section 172 to require a carryback period of five years for NOLs arising in a taxable year beginning after Year 5 and before Year 9.
+
+(B) *Analysis.* As a result of the amended carryback rules enacted in Year 8, the P Group's $1,000 CNOL in Year 7 must be carried back to Year 2. Therefore, T's $600 attributed portion of the P Group's Year 7 CNOL (that is, T's amended carryback CNOL) must be carried back to taxable years of the X Group. *See* paragraphs (b)(1) and (b)(2)(i) of this section. To the extent T's amended carryback CNOL is not absorbed in the X Group's Year 2 taxable year, the remaining portion must be carried to the X Group's Year 3, Year 4, and Year 5 taxable years, as appropriate. *See id.* Any remaining portion of T's amended carryback CNOL is carried to consolidated return years of the P Group. *See* paragraph (b)(1) of this section.
+
+(ii) *Example 2: Amended statute split-waiver election*—(A) *Facts.* The facts are the same as in paragraph (b)(6)(i)(A) of this section (*Example 1*), except that, following the change in statutory carryback period in Year 8, the P Group made a valid amended statute split-waiver election under paragraph (b)(5)(i) of this section to relinquish solely the carryback of T's amended carryback CNOL.
+
+(B) *Analysis.* Because the P Group made a valid amended statute split-waiver election, T's amended carryback CNOL is not eligible to be carried back to any taxable years of the X Group (that is, a former group). However, the amended statute split-waiver election does not prevent T's Year 7 amended carryback CNOL from being carried back to years of the P group (that is, the acquiring group) during which T was a member. *See* paragraph (b)(5)(ii)(E) of this section. As a result, the entire amount of T's amended carryback CNOL is eligible to be carried back to taxable Year 6 of the P Group. Any remaining CNOL may then be carried over within the P Group. *See* paragraph (b)(1) of this section.
+
+(iii) *Example 3: Computation and absorption of extended carrybacks*—(A) *Facts.* The facts are the same as in paragraph (b)(6)(i)(A) of this section (*Example 1*), except that the X Group had $300 of CTI in Year 4 and $200 of CTI in Year 5 and, at the time of the P Group's acquisition of T, the default carryback period was two years. Therefore, T's $600 attributed portion of the P Group's Year 7 CNOL was required to be carried back to the X Group's Year 5 taxable year, and the X Group was able to offset $200 of CTI in Year 5.
+
+(B) *Analysis.* As a result of the amended carryback rules, the X Group must offset its $300 of CTI in Year 4 against T's amended carryback CNOL. *See* paragraphs (b)(1) and (b)(2)(i) of this section. The remaining $100 ($600-$300-$200) of T's amended carryback CNOL is carried to taxable years of the P Group. *See* paragraph (b)(1) of this section.
+
+(iv) *Example 4: Extended split-waiver election*—(A) *Facts.* The facts are the same as in paragraph (b)(6)(iii)(A) of this section (*Example 3*), except that, following the change in law in Year 8, the P Group made a valid extended split-waiver election under paragraph (b)(5)(i) of this section to relinquish the extended carryback period for T's amended carryback CNOL for years in which T was a member of the X Group.
+
+(B) *Analysis.* As a result of the P Group's extended split-waiver election, T's amended carryback CNOL is not eligible to be carried back to any portion of the extended carryback period (that is, any taxable year prior to Year 5). *See* paragraph (b)(5)(ii)(I) of this section. As a result, the X Group absorbs $200 of T's $600 loss in Year 5, and the remaining $400 ($600-$200) is carried to taxable years of the P Group. *See* paragraph (b)(1) of this section.
+
+(7) *Short years in connection with transactions to which section 381(a) applies.* If a member distributes or transfers assets to a corporation that is a member immediately after the distribution or transfer in a transaction to which section 381(a) applies, the transaction does not cause the distributor or transferor to have a short year within the consolidated return year of the group in which the transaction occurred that is counted as a separate year for purposes of determining the years to which a net operating loss may be carried.
 
 (c) *Limitations on net operating loss carryovers and carrybacks from separate return limitation years*—(1) *SRLY limitation*—(i) *General rule.* Except as provided in paragraph (g) of this section (relating to an overlap with section 382), the aggregate of the net operating loss carryovers and carrybacks of a member (SRLY member) arising (or treated as arising) in SRLYs (SRLY NOLs) that are included in the CNOL deductions for all consolidated return years of the group under paragraph (a) of this section may not exceed the aggregate consolidated taxable income for all consolidated return years of the group determined by reference to only the member's items of income, gain, deduction, and loss (cumulative register). For this purpose—
 
@@ -220,17 +280,17 @@ Table 1 to Paragraph (b)(2)(v)(G)(1)
 
 (E) *Example 5: Dual SRLY registers and accounting for SRLY losses actually absorbed.* (*1*) In Year 1, T sustains a $100 net operating loss and a $50 net capital loss. At the beginning of Year 2, T becomes a member of the P group in a transaction that does not result in an ownership change under section 382(g). Both of T's carryovers from Year 1 are subject to SRLY limits under this paragraph (c) and § 1.1502-22(c). The members of the P group contribute the following to the consolidated taxable income for Years 2 and 3 (computed without regard to T's CNOL deduction under this section or net capital loss carryover under § 1.1502-22):
 
-|             | P |  T  |
-|-------------|---|-----|
-|Year 1 (SRLY)|   |     |
-|  Ordinary   |   |(100)|
-|   Capital   |   |(50) |
-|   Year 2    |   |     |
-|  Ordinary   |30 | 60  |
-|   Capital   | 0 |(20) |
-|   Year 3    |   |     |
-|  Ordinary   |10 | 40  |
-|   Capital   | 0 | 30  |
+|                 | P |  T  |
+|-----------------|---|-----|
+|**Year 1 (SRLY)**|   |     |
+|    Ordinary     |   |(100)|
+|     Capital     |   |(50) |
+|   **Year 2**    |   |     |
+|    Ordinary     |30 | 60  |
+|     Capital     | 0 |(20) |
+|   **Year 3**    |   |     |
+|    Ordinary     |10 | 40  |
+|     Capital     | 0 | 30  |
 
 (*2*) For Year 2, the P group computes separate SRLY limits for each of T's SRLY carryovers from Year 1. The group determines its ability to use its capital loss carryover before it determines its ability to use its ordinary loss carryover. Under section 1212, because the P group has no Year 2 capital gain, it cannot absorb any capital losses in Year 2. T's Year 1 net capital loss and the P group's Year 2 consolidated net capital loss (all of which is attributable to T) are carried over to Year 3.
 
@@ -452,7 +512,7 @@ Table 1 to Paragraph (b)(2)(v)(G)(1)
 
 (4) *Offspring rule.* Paragraph (b)(2)(ii)(B) of this section applies to net operating losses arising in taxable years ending on or after June 25, 1999.
 
-(5) *Waiver of carrybacks.* Paragraph (b)(3)(ii)(B) of this section (relating to the waiver of carrybacks for acquired members) applies to acquisitions occurring after June 25, 1999.
+(5) *Waiver of carrybacks.* Paragraph (b)(4) of this section (relating to the waiver of carrybacks for acquired members) applies to acquisitions occurring after June 25, 1999.
 
 (6) *Certain prior periods.* Paragraphs (b)(1), (b)(2)(iv)(A), (b)(2)(iv)(B)(*1*), and (c)(2)(vii) of this section apply to taxable years for which the due date of the original return (without regard to extensions) is after March 21, 2005. Paragraphs (b)(2)(ii)(A) and (b)(2)(iv)(B)(*2*) (as contained in 26 CFR part 1 revised as of April 1, 2008) apply to taxable years for which the due date of the original return (without regard to extensions) is on or after March 21, 2005, and before September 17, 2008. Paragraph (b)(2)(ii)(A) of this section and § 1.1502-21T(b)(1), (b)(2)(iv), and (c)(2)(vii), as contained in 26 CFR part 1 revised as of April 1, 2004, apply to taxable years for which the due date of the original return (without regard to extensions) is after August 29, 2003, and on or before March 21, 2005. For taxable years for which the due date of the original return (without regard to extensions) is on or before August 29, 2003, see paragraphs (b)(1), (b)(2)(ii)(A), (b)(2)(iv), and (c)(2)(vii) of this section and § 1.1502-21T(b)(1) as contained in 26 CFR part 1 revised as of April 1, 2003.
 
@@ -460,7 +520,7 @@ Table 1 to Paragraph (b)(2)(v)(G)(1)
 
 (8) *Losses treated as expired under § 1.1502-35(f)(1).* For rules regarding losses treated as expired under § 1.1502-35(f) on or after March 10, 2006, see § 1.1502-21(b)(3)(v) as contained in 26 CFR part 1 in effect on April 1, 2006. For rules regarding losses treated as expired before March 10, 2006, see § 1.1502-21T(h)(8) as contained in 26 CFR part 1 in effect on January 1, 2006.
 
-(9) For the applicability dates of paragraphs (b)(3)(ii)(C) and (b)(3)(ii)(D) of this section, see § 1.1502-21T(h)(9).
+(9) *Amended carryback rules.* Paragraphs (b)(5) and (6) of this section apply to any CNOLs arising in a taxable year ending after July 2, 2020. However, taxpayers may apply paragraphs (b)(5) and (6) of this section to any CNOLs arising in a taxable year beginning after December 31, 2017.
 
 (10) The rules of paragraphs (a), (b)(1), (b)(2)(iv), and (c)(1)(i)(E) of this section apply to taxable years beginning after December 31, 2020.
 
