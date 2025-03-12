@@ -1,7 +1,5 @@
 ##### § 165.801 Annual fireworks displays and other events in the Eighth Coast Guard District requiring safety zones. #####
 
-Link to an amendment published at 82 FR 28236, June 21, 2017.
-
 The Coast Guard is establishing safety zones for the annual fireworks displays and other events requiring safety zones listed in the table to § 165.801.
 
 (a) In accordance with the general regulations in § 165 of this part, entry into this zone is prohibited unless authorized by the Captain of the Port or a designated representative.
@@ -91,7 +89,7 @@ Table 2 of § 165.801 - Sector Upper Mississippi River Annual and Recurring Safe
 
 |                         Date                         |                                  Sponsor/name                                   |Sector Upper  <br/>Mississippi  <br/>River location|                          Safety zone                          |
 |------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------|
-|            1. 1 day - 4th weekend of July            |             Marketing Minneapolis LLC/Target Aquatennial Fireworks              |                  Minneapolis, MN                  |      Upper Mississippi River mile marker 853.2 to 854.2.      |
+|            1. 1 day - 4th weekend in July            |             Marketing Minneapolis LLC/Target Aquatennial Fireworks              |                  Minneapolis, MN                  |      Upper Mississippi River mile marker 853.2 to 854.2.      |
 |            2. 1 day - 4th of July weekend            |               Radio Dubuque/Radio Dubuque Fireworks and Air show                |                    Dubuque, IA                    |      Upper Mississippi River mile marker 581.0 to 583.0.      |
 |            3. 1 day - 2nd weekend of June            |               City of Champlin/Father Hennepin Fireworks Display                |                   Champlin, MN                    |      Upper Mississippi River mile marker 870.5 to 872.0.      |
 |            4. 1 day - 4th of July weekend            |                  Downtown Main Street/Mississippi Alumination                   |                   Red Wing, MN                    |      Upper Mississippi River mile marker 790.8 to 791.2.      |
@@ -135,8 +133,11 @@ Table 2 of § 165.801 - Sector Upper Mississippi River Annual and Recurring Safe
 |              42. 2nd Weekend in August               |                 Lansing Lion's Club/Lansing Fish Days Fireworks                 |                    Lansing, IA                    |       Upper Mississippi River mile marker 662.8-663.9.        |
 |              43. 3rd Weekend in August               |                             River Action/Floatzilla                             |               Rock Island, Illinois               |       Upper Mississippi River mile marker 479.0-486.0.        |
 |       44. 1 day - Weekend before Thanksgiving        |        Main Street Parkway Association/Parkville Christmas on the River         |                   Parkville, MO                   |          Missouri River mile marker 377.5 to 378.0.           |
-|         45. 2 days - A weekend in September          |            St. Louis Drag Boat Association/New Athens Drag Boat Race            |                  New Athens, IL                   |          Kaskaskia River mile marker 119.7 to 120.3.          |
-|           46. 1 day - 4th of July weekend            |            City of Marquette/Marquette Independence Day Celebration             |                   Marquette, IA                   |      Upper Mississippi River mile marker 634.2 to 635.7.      |
+|           45. 1 day - 4th of July weekend            |            City of Marquette/Marquette Independence Day Celebration             |                   Marquette, IA                   |      Upper Mississippi River mile marker 634.2 to 635.7.      |
+|           46. 1 day - 1st Weekend in June            |                   St. Louis Brewers Guild Festival Fireworks                    |                   St. Louis, MO                   |        Upper Mississippi River mile marker 179.2-180.         |
+|            47. 1 day - 4th Weekend in May            |                      Lumiere Place/Memorial Day Fireworks                       |                   St. Louis, MO                   |        Upper Mississippi River mile marker 180-180.5.         |
+|           48. 1 day - 1st Weekend in July            |                       Lumiere Place/4th of July Fireworks                       |                   St. Louis, MO                   |        Upper Mississippi River mile marker 180-180.5.         |
+|         49. 1 day - 1st Weekend in September         |                        Lumiere Place/Labor Day Fireworks                        |                   St. Louis, MO                   |        Upper Mississippi River mile marker 180-180.5.         |
 
 Table 3 of § 165.801 - Sector Houston-Galveston Annual and Recurring Safety Zones
 
@@ -218,4 +219,4 @@ Table 7 of § 165.801 - Sector Mobile Annual and Recurring Marine Events
 |9. Biannually occurring during odd numbered years; 2 Days; Mid-March to end of April|                Angels Over the Bay/Keesler Air Force Base                 |          Back Bay Biloxi, Biloxi, MS           |                        Back Bay Biloxi, Bounded by the following coordinates: Eastern boundary; Latitude 30°25′47.6″ N, Longitude 088°54′13.6″ W, to Latitude 30°24′43″ N, Longitude 088°54′13.6″ W. Western Boundary; Latitude 30°25′25.6″ N, Longitude 088°56′9″ W, to Latitude 30°24′55″ N, Longitude 088°56′9″ W.                         |
 |                          10. 4 Days; 2nd weekend in July                           |           Pensacola Beach Air Show/Santa Rosa Island Authority            |Gulf of Mexico & Santa Rosa Sound, Pensacola, FL|Gulf of Mexico to include all waters 1.75 nautical miles east and 1.5 nautical miles west of position 30°19′36″ N, 087°08′23″ W and extending 1000 yards south of Pensacola Beach creating a box, referred to as the “Show Box”. Santa Rosa Sound to include all waters from Deer Point to Sharp Point and all waters within Little Sabine Bay.|
 
-[USCG-2011-0286, 77 FR 12465, Mar. 1, 2012; 77 FR 28767, May 16, 2012, as amended by USCG-2013-1060, 79 FR 22404, Apr. 22, 2014; USCG-2015-1079, 81 FR 36173, June 6, 2016; USCG-2015-1029, 81 FR 38597, June 14, 2016; USCG-2017-0011, 82 FR 25966, June 6, 2017]
+[USCG-2011-0286, 77 FR 12465, Mar. 1, 2012; 77 FR 28767, May 16, 2012, as amended by USCG-2013-1060, 79 FR 22404, Apr. 22, 2014; USCG-2015-1079, 81 FR 36173, June 6, 2016; USCG-2015-1029, 81 FR 38597, June 14, 2016; USCG-2017-0011, 82 FR 25966, June 6, 2017; USCG-2017-0272, 82 FR 28236, June 21, 2017]

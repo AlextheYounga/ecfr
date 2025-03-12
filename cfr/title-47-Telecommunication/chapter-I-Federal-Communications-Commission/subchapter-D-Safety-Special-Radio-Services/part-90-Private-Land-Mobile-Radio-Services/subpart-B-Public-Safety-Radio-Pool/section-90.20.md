@@ -2156,4 +2156,4 @@ Mobile stations must be operated only within radio range of their associated bas
 |      853.0125 MHz (base/mobile)      |Tactical.|
 |        808.0125 MHz (mobile)         |         |
 
-[62 FR 18845, Apr. 17, 1997]Editorial Note:For Federal Register citations affecting § 90.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 81 FR 66542, Sept. 28, 2016, § 90.20(a)(2)(xiv) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[62 FR 18845, Apr. 17, 1997]Editorial Note:For Federal Register citations affecting § 90.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

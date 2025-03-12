@@ -1,0 +1,5 @@
+##### § 1910.4 Amendments to this part. #####
+
+(a) The Assistant Secretary of Labor shall have all of the authority of the Secretary of Labor under sections 3(9) and 6(a) of the Act.
+
+(b) The Assistant Secretary of Labor may at any time before April 28, 1973, on his own motion or upon the written petition of any person, by rule promulgate as a standard any national consensus standard and any established Federal standard, pursuant to and in accordance with section 6(a) of the Act, and, in addition, may modify or revoke any standard in this part 1910. In the event of conflict among any such standards, the Assistant Secretary of Labor shall take the action necessary to eliminate the conflict, including the revocation or modification of a standard in this part, so as to assure the greatest protection of the safety or health of the affected employees.

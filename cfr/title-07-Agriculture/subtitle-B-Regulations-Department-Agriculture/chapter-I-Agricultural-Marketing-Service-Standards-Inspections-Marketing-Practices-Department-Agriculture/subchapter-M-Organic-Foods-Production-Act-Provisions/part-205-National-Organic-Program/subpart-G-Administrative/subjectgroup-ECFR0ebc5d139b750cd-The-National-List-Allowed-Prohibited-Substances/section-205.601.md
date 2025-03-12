@@ -1,5 +1,7 @@
 ##### § 205.601 Synthetic substances allowed for use in organic crop production. #####
 
+Link to an amendment published at 82 FR 31243, July 6, 2017.
+
 In accordance with restrictions specified in this section, the following synthetic substances may be used in organic crop production: *Provided,* That, use of such substances do not contribute to contamination of crops, soil, or water. Substances allowed by this section, except disinfectants and sanitizers in paragraph (a) and those substances in paragraphs (c), (j), (k), and (l) of this section, may only be used when the provisions set forth in § 205.206(a) through (d) prove insufficient to prevent or control the target pest.
 
 (a) As algicide, disinfectants, and sanitizer, including irrigation system cleaning systems.
