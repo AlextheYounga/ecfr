@@ -1,10 +1,8 @@
 ##### 552.246-77 Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+As prescribed in 546.710, insert the following clause:
 
-As prescribed in 546.710(a), insert the following clause in solicitations and contracts that include FAR 52.246-17, Warranty of Supplies of a Noncomplex Nature.
-
-Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature (JUL 09)
+Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature (JUL 2009)
 
 (a) *Definitions. Correction*, as used in this clause, means the elimination of a defect.
 
@@ -12,4 +10,4 @@ Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature (JUL
 
 (c) *Remedies available to the Government.* When the nature of the defect in the nonconforming item is such that the defect affects an entire batch or lot of material, then the equitable price adjustment shall apply to the entire batch or lot of material from which the nonconforming item was taken.
 
-(End of clause)[74 FR 26110, June 1, 2009]
+(End of clause)[74 FR 26110, June 1, 2009, as amended at 86 FR 55524, Oct. 6, 2021]

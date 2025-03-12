@@ -1,10 +1,8 @@
-##### 552.232-78 Commercial Supplier Agreements - Unenforceable Clauses. #####
+##### 552.232-78 Commercial Supplier Agreements—Unenforceable Clauses. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+As prescribed in 532.706-3(b), insert the following clause:
 
-As prescribed in 513.302-5 and 532.706-3 insert the following clause:
-
-Commercial Supplier Agreements-Unenforceable Clauses (FEB. 2018)
+Commercial Supplier Agreements-Unenforceable Clauses (FEB 2018)
 
 When any supply or service acquired under this contract is subject to a commercial supplier agreement (as defined in 502.101), the following language shall be deemed incorporated into the commercial supplier agreement. As used herein, “this agreement” means the commercial supplier agreement:
 
@@ -60,4 +58,4 @@ When any supply or service acquired under this contract is subject to a commerci
 
 (b) If any language, provision or clause of this agreement conflicts or is inconsistent with the preceding paragraph (a), the language, provisions, or clause of paragraph (a) shall prevail to the extent of such inconsistency.
 
-(End of clause)[83 FR 7635, Feb. 22, 2018]
+(End of clause)[83 FR 7635, Feb. 22, 2018, as amended at 86 FR 55524, Oct. 6, 2021]

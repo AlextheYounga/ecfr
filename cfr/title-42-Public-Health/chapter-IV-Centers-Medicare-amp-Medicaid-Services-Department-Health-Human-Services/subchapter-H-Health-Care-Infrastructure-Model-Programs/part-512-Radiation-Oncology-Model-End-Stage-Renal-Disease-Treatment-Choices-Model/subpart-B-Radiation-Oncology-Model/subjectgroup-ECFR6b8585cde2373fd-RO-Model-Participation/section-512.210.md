@@ -28,4 +28,4 @@
 
 (d) *Selected CBSAs.* CMS randomly selects CBSAs to identify RT providers and RT suppliers to participate in the RO Model through a stratified sample design, allowing for participant and comparison groups to contain approximately 30 percent of all episodes in eligible geographic areas (CBSAs).
 
-[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Effective Date Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

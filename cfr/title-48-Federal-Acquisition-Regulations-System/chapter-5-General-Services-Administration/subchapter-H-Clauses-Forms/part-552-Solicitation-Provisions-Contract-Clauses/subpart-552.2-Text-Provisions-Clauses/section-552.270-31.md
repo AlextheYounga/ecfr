@@ -1,14 +1,12 @@
 ##### 552.270-31 Prompt Payment. #####
 
-Link to an amendment published at 86 FR 55525, Oct. 6, 2021.
-
 As prescribed in 570.703, insert the following clause:
 
 Prompt Payment (JUN 2011)
 
 The Government will make payments under the terms and conditions specified in this clause. Payment shall be considered as being made on the day a check is dated or an electronic funds transfer is made. All days referred to in this clause are calendar days, unless otherwise specified.
 
-(a) *Payment due date* - (1) *Rental payments.* Rent shall be paid monthly in arrears and will be due on the first workday of each month, and only as provided for by the lease.
+(a) *Payment due date*—(1) *Rental payments.* Rent shall be paid monthly in arrears and will be due on the first workday of each month, and only as provided for by the lease.
 
 (i) When the date for commencement of rent falls on the 15th day of the month or earlier, the initial monthly rental payment under this contract shall become due on the first workday of the month following the month in which the commencement of the rent is effective.
 
@@ -46,9 +44,9 @@ The Government will make payments under the terms and conditions specified in th
 
 (4) Interest penalties are not required on payment delays due to disagreement between the Government and Contractor over the payment amount or other issues involving contract compliance or on amounts temporarily withheld or retained in accordance with the terms of the contract. Claims involving disputes, and any interest that may be payable, will be resolved in accordance with the clause at 52.233-1, Disputes.
 
-(d) *Overpayments.* If the Lessor becomes aware of a duplicate payment or that the Government has otherwise overpaid on a payment, the Contractor shall -
+(d) *Overpayments.* If the Lessor becomes aware of a duplicate payment or that the Government has otherwise overpaid on a payment, the Contractor shall—
 
-(1) Return the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the -
+(1) Return the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the—
 
 (i) Circumstances of the overpayment (e.g., duplicate payment, erroneous payment, liquidation errors, date(s) of overpayment);
 
@@ -62,6 +60,6 @@ The Government will make payments under the terms and conditions specified in th
 
 (End of clause)
 
-*Alternate I (SEP 1999).* If Alternate I is used, subparagraph (a)(1) of the basic clause should be designated as paragraph (a) and subparagraph (a)(2) and paragraph (b) should be deleted. Paragraph (c) of the basic clause should be redesignated as (b).
+*Alternate I* (SEP 1999). As prescribed in 570.703, delete paragraphs (a)(2) and (b) of the basic clause, and redesignate the remaining paragraphs accordingly.
 
-[76 FR 30847, May 27, 2011]
+[76 FR 30847, May 27, 2011, as amended at 86 FR 55525, Oct. 6, 2021]

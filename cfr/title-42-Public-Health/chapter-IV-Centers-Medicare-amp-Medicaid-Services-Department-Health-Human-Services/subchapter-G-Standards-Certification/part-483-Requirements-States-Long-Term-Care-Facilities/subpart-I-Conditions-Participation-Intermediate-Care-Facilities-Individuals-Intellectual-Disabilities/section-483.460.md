@@ -24,7 +24,7 @@
 
 (iv) In situations where COVID-19 vaccination requires multiple doses, the client, client's representative, or staff member is provided with current information regarding each additional dose, including any changes in the benefits or risks and potential side effects associated with the COVID-19 vaccine, before requesting consent for administration of each additional doses.
 
-(v) The client, client's representative, or staff member has the opportunity to accept or refuse COVID-19 vaccine, and change their decision.
+(v) The client, or client's representative, has the opportunity to accept or refuse a COVID-19 vaccine, and change their decision;
 
 (vi) The client's medical record includes documentation that indicates, at a minimum, the following:
 
@@ -36,19 +36,19 @@
 
 (5) To the extent permitted by State law, the facility may utilize physician assistants and nurse practitioners to provide physician services as described in this section.
 
-(b) *Standard: Physician participation in the individual program plan.* A physician must participate in -
+(b) *Standard: Physician participation in the individual program plan.* A physician must participate in—
 
 (1) The establishment of each newly admitted client's initial individual program plan as required by § 456.380 of this chapter that specified plan of care requirements for ICFs; and
 
 (2) If appropriate, physicians must participate in the review and update of an individual program plan as part of the interdisciplinary team process either in person or through written report to the interdisciplinary team.
 
-(c) *Standard: Nursing services.* The facility must provide clients with nursing services in accordance with their needs. These services must include -
+(c) *Standard: Nursing services.* The facility must provide clients with nursing services in accordance with their needs. These services must include—
 
 (1) Participation as appropriate in the development, review, and update of an individual program plan as part of the interdisciplinary team process;
 
 (2) The development, with a physician, of a medical care plan of treatment for a client when the physician has determined that an individual client requires such a plan;
 
-(3) For those clients certified as not needing a medical care plan, a review of their health status which must -
+(3) For those clients certified as not needing a medical care plan, a review of their health status which must—
 
 (i) Be by a direct physical examination;
 
@@ -62,7 +62,7 @@
 
 (4) Other nursing care as prescribed by the physician or as identified by client needs; and
 
-(5) Implementing, with other members of the interdisciplinary team, appropriate protective and preventive health measures that include, but are not limited to -
+(5) Implementing, with other members of the interdisciplinary team, appropriate protective and preventive health measures that include, but are not limited to—
 
 (i) Training clients and staff as needed in appropriate health and hygiene methods;
 
@@ -86,7 +86,7 @@
 
 (3) The facility must provide education and training in the maintenance of oral health.
 
-(f) *Standard: Comprehensive dental diagnostic services.* Comprehensive dental diagnostic services include -
+(f) *Standard: Comprehensive dental diagnostic services.* Comprehensive dental diagnostic services include—
 
 (1) A complete extraoral and intraoral examination, using all diagnostic aids necessary to properly evaluate the client's oral condition, not later than one month after admission to the facility (unless the examination was completed within twelve months before admission);
 
@@ -94,7 +94,7 @@
 
 (3) A review of the results of examination and entry of the results in the client's dental record.
 
-(g) *Standard: Comprehensive dental treatment.* The facility must ensure comprehensive dental treatment services that include -
+(g) *Standard: Comprehensive dental treatment.* The facility must ensure comprehensive dental treatment services that include—
 
 (1) The availability for emergency dental treatment on a 24-hour-a-day basis by a licensed dentist; and
 
@@ -116,7 +116,7 @@
 
 (5) As appropriate the pharmacist must participate in the development, implementation, and review of each client's individual program plan either in person or through written report to the interdisciplinary team.
 
-(k) *Standard: Drug administration.* The facility must have an organized system for drug administration that identifies each drug up to the point of administration. The system must assure that -
+(k) *Standard: Drug administration.* The facility must have an organized system for drug administration that identifies each drug up to the point of administration. The system must assure that—
 
 (1) All drugs are administered in compliance with the physician's orders;
 
@@ -144,13 +144,13 @@
 
 (5) If the facility maintains a licensed pharmacy, the facility must comply with the regulations for controlled drugs.
 
-(m) *Standard: Drug labeling.* (1) Labeling of drugs and biologicals must -
+(m) *Standard: Drug labeling.* (1) Labeling of drugs and biologicals must—
 
 (i) Be based on currently accepted professional principles and practices; and
 
 (ii) Include the appropriate accessory and cautionary instructions, as well as the expiration date, if applicable.
 
-(2) The facility must remove from use -
+(2) The facility must remove from use—
 
 (i) Outdated drugs; and
 
@@ -162,4 +162,4 @@
 
 (2) If the laboratory chooses to refer specimens for testing to another laboratory, the referral laboratory must be certified in the appropriate specialties and subspecialities of service in accordance with the requirements of part 493 of this chapter.
 
-[53 FR 20496, June 3, 1988, as amended at 57 FR 7136, Feb. 28, 1992; 86 FR 26336, May 13, 2021]
+[53 FR 20496, June 3, 1988, as amended at 57 FR 7136, Feb. 28, 1992; 86 FR 26336, May 13, 2021; 86 FR 61621, Nov. 5, 2021]

@@ -1,10 +1,8 @@
 ##### 552.236-79 Construction-Manager-As-Constructor. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+As prescribed in 536.7107(a), insert a clause substantially the same as the following clause:
 
-As prescribed in 536.7107(a), insert the following clause:
-
-Construction-Manager-As-Constructor (JAN 2020)
+Construction-Manager-As-Constructor (JAN 2020) (Deviation FAR 52.216-17)
 
 (a) *General.* Pricing for the Guaranteed Maximum Price (GMP) for the option for construction services shall be subject to the requirements below.
 
@@ -54,9 +52,9 @@ Construction-Manager-As-Constructor (JAN 2020)
 
 (2) *Establishment of the Final ECW.* The parties shall negotiate a final ECW based on the data provided under paragraph (e)(1) of this clause. The final ECW shall be established and incorporated into the Contract by bilateral modification. The Contracting Officer will not accept a final ECW proposal that does not include the written affirmation described in this clause. The Contracting Officer will not exercise the GMP option for construction work unless the final ECW has been incorporated into the contract.
 
-(f) *CMc Contingency Allowance.* The CCA shall be \_ percent of the ECW [*Contracting Officer insert percentage amount*].
+(f) *CMc Contingency Allowance.* The CCA shall be \_\_ percent of the ECW [*Contracting Officer insert percentage amount*].
 
-(g) *Shared Savings Incentive.* The Contractor shall be entitled to \_percent of the difference between the final GMP and the final cost of performance [*Contracting Officer insert percentage amount*].
+(g) *Shared Savings Incentive.* The Contractor shall be entitled to \_\_percent of the difference between the final GMP and the final cost of performance [*Contracting Officer insert percentage amount*].
 
 (h) *Adjustment of ECW and GMP.* The ECW and GMP shall be subject to adjustment for changes and any other conditions giving rise to entitlement to an adjustment under this contract. The ECW and GMP may be adjusted down for deletions to the scope of the construction services through a bilateral modification.
 
@@ -108,4 +106,4 @@ Construction-Manager-As-Constructor (JAN 2020)
 
 (p) The contractor agrees to incorporate the substance of this clause in all subcontracts under this contract.
 
-(End of Clause)[84 FR 69637, Dec. 19, 2019}]
+(End of Clause)[84 FR 69637, Dec. 19, 2019, as amended at 86 FR 55524, Oct. 6, 2021]

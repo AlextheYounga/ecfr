@@ -1,5 +1,5 @@
 ##### 513.202 Unenforceability of unauthorized obligations in micro-purchases. #####
 
-Link to an amendment published at 86 FR 55519, Oct. 6, 2021.
+Many supplies or services are acquired subject to commercial supplier agreements, as defined in 502.101. The clause at 552.232-39, Unenforceability of Unauthorized Obligations, automatically applies to any micro-purchase, including those made with the Governmentwide purchase card in lieu of the FAR clause at 52.232-39.
 
-Clause 552.232-39, Unenforceability of Unauthorized Obligations (FAR DEVIATION), will automatically apply to any micro-purchase in lieu of FAR 52.232-39 for supplies and services acquired subject to a commercial supplier agreement (as defined in 502.101).
+[86 FR 55519, Oct. 6, 2021]

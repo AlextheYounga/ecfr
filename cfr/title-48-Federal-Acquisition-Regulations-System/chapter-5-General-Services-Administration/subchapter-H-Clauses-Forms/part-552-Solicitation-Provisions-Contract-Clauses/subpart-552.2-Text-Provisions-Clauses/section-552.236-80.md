@@ -1,8 +1,6 @@
 ##### 552.236-80 Accounting Records and Progress Payments. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
-
-As prescribed in 536.7107(b), insert the following clause:
+As prescribed in 536.7107(b), insert a clause substantially the same as the following clause:
 
 Accounting Records and Progress Payments (JAN 2020)
 
@@ -36,4 +34,4 @@ Accounting Records and Progress Payments (JAN 2020)
 
 (j) The contractor agrees to incorporate the substance of this clause in all subcontracts under this contract.
 
-(End of Clause)[84 FR 69638, Dec. 19, 2019]
+(End of Clause)[84 FR 69638, Dec. 19, 2019, as amended at 86 FR 55524, Oct. 6, 2021]

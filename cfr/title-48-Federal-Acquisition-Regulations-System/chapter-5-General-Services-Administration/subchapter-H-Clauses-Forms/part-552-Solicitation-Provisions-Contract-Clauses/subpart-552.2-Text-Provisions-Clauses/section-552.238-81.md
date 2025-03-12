@@ -1,7 +1,5 @@
 ##### 552.238-81 Price Reductions. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
-
 As prescribed in 538.273(d)(5) insert the following clause:
 
 Price Reductions (MAY 2019)
@@ -10,7 +8,7 @@ Price Reductions (MAY 2019)
 
 (b) During the contract period, the Contractor shall report to the Contracting Officer all price reductions to the customer (or category of customers) that was the basis of award. The Contractor's report shall include an explanation of the conditions under which the reductions were made.
 
-(c)(1) A price reduction shall apply to purchases under this contract if, after the date negotiations conclude, the Contractor -
+(c)(1) A price reduction shall apply to purchases under this contract if, after the date negotiations conclude, the Contractor—
 
 (i) Revises the commercial catalog, pricelist, schedule or other document upon which contract award was predicated to reduce prices;
 
@@ -20,7 +18,7 @@ Price Reductions (MAY 2019)
 
 (2) The Contractor shall offer the price reduction to the eligible ordering activity with the same effective date, and for the same time period, as extended to the commercial customer (or category of customers).
 
-(d) There shall be no price reduction for sales -
+(d) There shall be no price reduction for sales—
 
 (1) To commercial customers under firm, fixed-price definite quantity contracts with specified delivery in excess of the maximum order threshold specified in this contract;
 
@@ -38,10 +36,10 @@ Price Reductions (MAY 2019)
 
 (End of clause)
 
-*Alternate I (MAY 2019).* As prescribed in 538.273(d)(5), substitute the following paragraph (a) and (b) for paragraphs (a), (b), (c), (d), (e), (f) and (g) of the basic clause:
+*Alternate I (MAY 2019).* As prescribed in 538.273(d)(5), substitute the following paragraphs (a) and (b) for paragraphs (a), (b), (c), (d), (e), (f) and (g) of the basic clause:
 
 (a) The Government may request from the Contractor, and the Contractor may provide to the Government, a temporary or permanent price reduction at any time during the contract period.
 
 (b) The Contractor may offer the Contracting Officer a voluntary price reduction at any time during the contract period.
 
-[84 FR 17045, Apr. 23, 2019]
+[84 FR 17045, Apr. 23, 2019, as amended at 86 FR 55524, Oct. 6, 2021]

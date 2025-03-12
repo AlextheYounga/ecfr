@@ -1,8 +1,6 @@
 ##### 552.219-74 Section 8(a) Direct Award. #####
 
-Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
-
-As prescribed in 519.870-8, insert the following clause:
+As prescribed in 519.870-2a, insert the following clause:
 
 Section 8(a) Direct Award (SEP 1999)
 
@@ -16,4 +14,4 @@ Section 8(a) Direct Award (SEP 1999)
 
 (2) To the requirements of 52.219-14, Limitations on Subcontracting.
 
-(End of clause)
+(End of clause)[64 FR 37229, July 9, 1999, as amended at 86 FR 55523, Oct. 6, 2021]

@@ -1,6 +1,4 @@
-##### 552.211-89 Non-manufactured wood packaging material for export. #####
-
-Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+##### 552.211-89 Non-manufactured Wood Packaging Material for Export. #####
 
 As prescribed in 511.204(b)(8), insert the following clause:
 
@@ -24,4 +22,4 @@ Non-Manufactured Wood Packaging Material for Export (JUL 2016)
 
 (f) Delays in delivery caused by non-complying pallets or wood package material will not be considered as beyond the control of the Contractor. Any applicable Government expense incurred as a result of the Contractor's failure to provide appropriate pallets or package material shall be reimbursed by the Contractor. Expenses may include the applicable cost for repackaging, handling and return shipping, or the destruction of solid wood packaging material.
 
-(End of clause)[74 FR 66255, Dec. 15, 2009, as amended at 81 FR 36430, June 6, 2016]
+(End of clause)[74 FR 66255, Dec. 15, 2009, as amended at 81 FR 36430, June 6, 2016; 55523, Oct. 6, 2021]

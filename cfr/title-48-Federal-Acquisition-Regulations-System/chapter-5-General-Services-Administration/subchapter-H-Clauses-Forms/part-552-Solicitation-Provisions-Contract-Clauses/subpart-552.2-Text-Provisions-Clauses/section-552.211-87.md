@@ -1,6 +1,4 @@
-##### 552.211-87 Export packing. #####
-
-Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+##### 552.211-87 Export Packing. #####
 
 As prescribed in 511.204(b)(6), insert the following clause:
 
@@ -10,4 +8,4 @@ Export Packing (JAN 2010)
 
 (b) Ordering activities will not be obligated to utilize the Contractor's services for export packing accepted under this solicitation, and they may obtain such services elsewhere if desired. However, the Contractor shall furnish items export packed when such packing is specified on the purchase order.
 
-(End of clause)[74 FR 66255, Dec. 15, 2009, as amended at 81 FR 36430, June 6, 2016]
+(End of clause)[74 FR 66255, Dec. 15, 2009, as amended at 81 FR 36430, June 6, 2016; 86 FR 55523, Oct. 6, 2021]

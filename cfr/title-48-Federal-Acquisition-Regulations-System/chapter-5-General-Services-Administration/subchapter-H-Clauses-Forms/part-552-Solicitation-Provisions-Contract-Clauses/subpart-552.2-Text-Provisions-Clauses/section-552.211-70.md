@@ -1,8 +1,6 @@
 ##### 552.211-70 Substantial Completion. #####
 
-Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
-
-As prescribed in 511.404, insert the following clause:
+As prescribed in 511.404(b), insert the following clause:
 
 Substantial Completion (MAR 2019)
 
@@ -26,4 +24,4 @@ Substantial Completion (MAR 2019)
 
 (2) The Contractor shall not be entitled to final payment or release of any retainage held by the Government until after contract completion. If the Contractor does not achieve contract completion within the time required by this contract, the Government shall be entitled, after providing notice to the Contractor, to complete any work remaining unfinished. The Contractor shall be liable to the Government for all costs incurred by the Government to complete such work.
 
-(End of clause)[84 FR 3718, Feb. 13, 2019]
+(End of clause)[84 FR 3718, Feb. 13, 2019, as amended at 86 FR 55522, Oct. 6, 2021]

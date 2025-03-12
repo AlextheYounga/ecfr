@@ -1,8 +1,6 @@
 ##### 552.232-1 Payments. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
-
-As prescribed in 532.908(a), insert the following clause:
+As prescribed in 552.111a, insert the following clause:
 
 Payments (NOV 2009) (Deviation FAR 52.232-1)
 
@@ -16,4 +14,4 @@ Payments (NOV 2009) (Deviation FAR 52.232-1)
 
 (c) When processing payment, GSA's Finance Office will automatically generate the 12 digit invoice number using the PDN assigned to the contract, followed by an abbreviated month and year of service (e.g., 84261554JUN7, for June 2007). The PDN appears on the contract award document.
 
-(End of clause)[64 FR 37229, July 9, 1999, as amended at 74 FR 54918, Oct. 26, 2009; 81 FR 1533, Jan. 13, 2016]
+(End of clause)[64 FR 37229, July 9, 1999, as amended at 74 FR 54918, Oct. 26, 2009; 81 FR 1533, Jan. 13, 2016; 86 FR 55524, Oct. 6, 2021; 86 FR 61080, Nov. 5, 2021]

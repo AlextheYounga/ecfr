@@ -32,4 +32,4 @@
 
 (b) *CEHRT.* Each RO participant must use CEHRT, and ensure that its individual practitioners use CEHRT, in a manner sufficient to meet the applicable requirements of the Advanced APM criteria codified in § 414.1415(a)(1)(i) of this chapter. Within 30 days of the start of PY2 and each subsequent PY, each RO participant must certify in the form and manner, and by a deadline specified by CMS, that it uses CEHRT throughout such PY in a manner sufficient to meet the requirements set forth in § 414.1415(a)(1)(i) of this chapter.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Effective Date Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

@@ -1,10 +1,8 @@
 ##### 552.238-82 Modifications (Federal Supply Schedules). #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
-
 As prescribed in 538.273(d)(6), insert the following clause:
 
-Modifications (Federal Supply Schedules) (MAY 2019)
+Modifications (Federal Supply Schedules) (MAR 2020)
 
 (a) *General.* The Contractor may request a contract modification by submitting a request to the Contracting Officer for approval, except as noted in paragraph (d) of this clause. At a minimum, every request shall describe the proposed change(s) and provide the rationale for the requested change(s).
 
@@ -32,17 +30,9 @@ Modifications (Federal Supply Schedules) (MAY 2019)
 
 (d) *Electronic file updates.* The Contractor shall update electronic file submissions to reflect all modifications. For additional items or SINs, the Contractor shall obtain the Contracting Officer's approval before transmitting changes. Contract modifications will not be made effective until the Government receives the electronic file updates. The Contractor may transmit price reductions, item deletions, and corrections without prior approval. However, the Contractor shall notify the Contracting Officer as set forth in the Price Reductions clause at 552.238-81.
 
-(e) *Amendments to paper Federal Supply Schedule Price Lists.* (1) The Contractor must provide supplements to its paper price lists, reflecting the most current changes. The Contractor may either:
-
-(i) Distribute a supplemental paper Federal Supply Schedule Price List within 15 workdays after the effective date of each modification.
-
-(ii) Distribute quarterly cumulative supplements. The period covered by a cumulative supplement is at the discretion of the Contractor, but may not exceed three calendar months from the effective date of the earliest modification. For example, if the first modification occurs in February, the quarterly supplement must cover February-April, and every three month period after. The Contractor must distribute each quarterly cumulative supplement within 15 workdays from the last day of the calendar quarter.
-
-(2) At a minimum, the Contractor shall distribute each supplement to those ordering activities that previously received the basic document. In addition, the Contractor shall submit two copies of each supplement to the Contracting Officer and one copy to the FSS Schedule Information Center.
-
 (End of clause)
 
-*Alternate I (MAY 2019).* As prescribed in 538.273(d)(6)(i), add the following paragraph (e) to the basic clause:
+*Alternate I (MARCH 2020).* As prescribed in 538.273(d)(6)(i), add the following paragraph (e) to the basic clause:
 
 (e) Electronic submission of modification requests is mandatory via eMod (*http://eOffer.gsa.gov*), unless otherwise stated in the electronic submission standards and requirements at the Vendor Support Center website (*http://vsc.gsa.gov*). If the electronic submissions standards and requirements information is updated at the Vendor Support Center website, Contractors will be notified prior to the effective date of the change.
 
@@ -64,4 +54,4 @@ Modifications (Federal Supply Schedules) (MAY 2019)
 
 (2) Deletions. The Contractor must provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the Contracting Officer determines that the higher price is unreasonable compared to the price of the deleted item.
 
-[84 FR 17045, Apr. 23, 2019, as amended at 85 FR 1128, Jan. 9, 2020]
+[84 FR 17045, Apr. 23, 2019, as amended at 85 FR 1128, Jan. 9, 2020; 86 FR 55524, Oct. 6, 2021]

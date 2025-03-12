@@ -1,11 +1,7 @@
-##### 541.501 Solicitation provisions and contract clauses. #####
+##### 541.501 Contract clauses. #####
 
-Link to an amendment published at 86 FR 55521, Oct. 6, 2021.
+(a) *FAR deviation.* GSA has a FAR deviation that allows use of the clause at 552.241-70 in lieu of the FAR clause at 52.232-19. Insert the clause at 552.241-70, Availability of Funds for the Next Fiscal Year or Quarter, in lieu of the FAR clause at 52.232-19, in all utility acquisitions.
 
-In addition to the solicitation terms, provisions and contract clauses at FAR 41.501(c), the contracting officer shall include the following clauses -
+(b) *Utility services.* Insert the clause at 541.501(b), Disputes (Utility Contracts), in solicitations and contracts for utility services subject to the jurisdiction and regulation of a utility rate commission.
 
-(a) *552.241-70, Availability of Funds for the Next Fiscal Year or Quarter.* As prescribed in 541.501, insert the clause 552.241-70, Availability of Funds for the Next Fiscal Year or Quarter, instead of FAR 52.232-19, in all utility acquisitions; and
-
-(b) *552.241-71, Disputes (Utility Contracts).* As prescribed in 541.501, insert clause 552.241-71, Disputes (Utility Contracts), in solicitations and contracts for utility services subject to the jurisdiction and regulation of a utility rate commission.
-
-[75 FR 48873, Aug. 12, 2010]
+[86 FR 55521, Oct. 6, 2021, as amended at 86 FR 61080, Nov. 5, 2021]

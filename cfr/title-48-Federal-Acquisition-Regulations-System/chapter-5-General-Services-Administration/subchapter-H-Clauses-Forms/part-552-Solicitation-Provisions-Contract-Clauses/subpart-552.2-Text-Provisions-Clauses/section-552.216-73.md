@@ -1,7 +1,5 @@
 ##### 552.216-73 Ordering Information. #####
 
-Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
-
 As prescribed in 516.506(b), insert the following provision:
 
 Ordering Information (AUG 2010)
@@ -22,6 +20,6 @@ If “yes” is checked, ordering information to be inserted above shall reflect
 
 (End of provision)
 
-*Alternate I* (SEP 1999). As prescribed in 516.506(b), delete paragraph (d) of the basic provision.
+*Alternate I* (SEP 1999). As prescribed in 516.506(b), delete paragraph (d) of the basic provision and redesignate paragraph (e) accordingly.
 
-[64 FR 37229, July 9, 1999, as amended at 72 FR 4654, Feb. 1, 2007; 75 FR 41096, July 15, 2010; 85 FR 50959, Aug. 19, 2020]
+[64 FR 37229, July 9, 1999, as amended at 72 FR 4654, Feb. 1, 2007; 75 FR 41096, July 15, 2010; 85 FR 50959, Aug. 19, 2020; 86 FR 55523, Oct. 6, 2021]

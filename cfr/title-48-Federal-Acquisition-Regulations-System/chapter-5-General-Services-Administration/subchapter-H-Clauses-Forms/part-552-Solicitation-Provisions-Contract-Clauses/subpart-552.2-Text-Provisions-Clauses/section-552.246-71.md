@@ -1,10 +1,8 @@
 ##### 552.246-71 Source Inspection by Government. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
-
 As prescribed in 546.302-71, insert the following clause:
 
-Source Inspection by Government (JUNE 1, 2009)
+Source Inspection by Government (JUN 2009)
 
 (a) *Inspection by Government personnel.* (1) Supplies to be furnished under this contract will be inspected at source by the Government before shipment from the manufacturing plant or other facility designated by the Contractor, unless the Contractor is otherwise notified in writing by the Contracting Officer or a designated representative. Notwithstanding the foregoing, the Government may perform any or all tests contained in the contract specifications at a Government facility without prior written notice by the Contracting Officer before release of the supplies for shipment. Samples sent to a Government resting facility will be disposed of as follows: Samples from an accepted lot, not damaged in the testing process, will be returned promptly to the Contractor after completion of tests. Samples damaged in the testing process will be disposed of as requested by the Contractor. Samples from a rejected lot will be returned to the Contractor or disposed of in a time and manner agreeable to both the Contractor and the Government.
 
@@ -12,7 +10,7 @@ Source Inspection by Government (JUNE 1, 2009)
 
 (b) *Inspection and receiving reports.* For each shipment, the Contractor shall be responsible for preparation and distribution of inspection documents as follows: (1) DD Form 250, Material Inspection and Receiving Report, or computer formatted equivalent for deliveries to military agencies; or (2) GSA Form 308, Notice of Inspection for deliveries to GSA or other civilian agencies. When required, the Contractor will be furnished a supply of GSA Form 308 and/or DD Form 250, and complete instructions for their reparation and distribution.
 
-(c) *Inspection facilities.* (1) The inspection system required to be maintained by the Contractor in accordance with FAR 52.246-2, Inspection of Supplies - Fixed Price, may be the Contractor's own facilities or any other facilities acceptable to the Government. The facilities shall be utilized to perform all inspections and tests of materials and components before incorporation into end articles, and for the inspection of such end articles before shipment. The Government reserves the right to evaluate the acceptability and effectiveness of the Contractor's inspection system before award and periodically during the contract period.
+(c) *Inspection facilities.* (1) The inspection system required to be maintained by the Contractor in accordance with FAR 52.246-2, Inspection of Supplies—Fixed Price, may be the Contractor's own facilities or any other facilities acceptable to the Government. The facilities shall be utilized to perform all inspections and tests of materials and components before incorporation into end articles, and for the inspection of such end articles before shipment. The Government reserves the right to evaluate the acceptability and effectiveness of the Contractor's inspection system before award and periodically during the contract period.
 
 (2) Offerors are required to specify, in the spaces provided elsewhere in the solicitation, the name and address of each manufacturing plant or other facility where supplies will be available for inspection, indicating the item number(s) to which each applies.
 
@@ -22,9 +20,9 @@ Source Inspection by Government (JUNE 1, 2009)
 
 (2) These records should be maintained at the point of source inspection and shall be available to the Contracting Officer, or an authorized representative, for (i) 3 years after final payment; or (ii) 4 years from the end of the Contractor's fiscal year in which the record was created, whichever period expires first.
 
-(e) *Additional cost for inspection and testing.* The Contractor will be charged for any additional cost for inspecting/testing or reinspection/retesting supplies for the reasons stated in paragraph (e) of FAR 52.246-2, Inspection of Supplies - Fixed Price. When inspection or testing is performed by or under the direction of GSA, charges will be at the rate of $\_\_\_\_\*\_\_\_\_ per man-hour or fraction thereof if the inspection is at a GSA distribution center; $\_\_\_\_\*\_\_\_\_ per man-hour or fraction thereof, plus travel costs incurred, if the inspection is at any other location; and $\_\_\_\_\*\_\_\_\_ per man-hour or fraction thereof for laboratory testing, except that when a testing facility other than a GSA laboratory performs all or part of the required tests, the Contractor shall be assessed the actual cost incurred by the Government as a result of testing at such facility. When inspection is performed by or under the direction of any agency other than GSA, the charges indicated above may be used, or the agency may assess the actual cost of performing the inspection and testing.
+(e) *Additional cost for inspection and testing.* The Contractor will be charged for any additional cost for inspecting/testing or reinspection/retesting supplies for the reasons stated in paragraph (e) of FAR 52.246-2, Inspection of Supplies—Fixed Price. When inspection or testing is performed by or under the direction of GSA, charges will be at the rate of $\_\_\_\_\_\_\_\_\*\_\_\_\_\_\_\_\_ per man-hour or fraction thereof if the inspection is at a GSA distribution center; $\_\_\_\_\_\_\_\_\*\_\_\_\_\_\_\_\_ per man-hour or fraction thereof, plus travel costs incurred, if the inspection is at any other location; and $\_\_\_\_\_\_\_\_\*\_\_\_\_\_\_\_\_ per man-hour or fraction thereof for laboratory testing, except that when a testing facility other than a GSA laboratory performs all or part of the required tests, the Contractor shall be assessed the actual cost incurred by the Government as a result of testing at such facility. When inspection is performed by or under the direction of any agency other than GSA, the charges indicated above may be used, or the agency may assess the actual cost of performing the inspection and testing.
 
-(f) *Responsibility for rejected supplies.* When the Contractor fails to remove or provide instructions for the removal of rejected supplies under FAR 52.246-2(h) pursuant to the Contracting Officer's instructions, the Contractor shall be liable for all costs incurred by the Government in taking such measures as are expedient to avoid unnecessary loss to the Contractor. In addition to the remedies provided in FAR 52.246-2, supplies may be -
+(f) *Responsibility for rejected supplies.* When the Contractor fails to remove or provide instructions for the removal of rejected supplies under FAR 52.246-2(h) pursuant to the Contracting Officer's instructions, the Contractor shall be liable for all costs incurred by the Government in taking such measures as are expedient to avoid unnecessary loss to the Contractor. In addition to the remedies provided in FAR 52.246-2, supplies may be—
 
 (1) Stored for the Contractor's account;
 
@@ -36,4 +34,4 @@ Source Inspection by Government (JUNE 1, 2009)
 
 *\* The rates to be inserted are established by the Commissioner of the Federal Acquisition Service or a designee.*
 
-[64 FR 37229, July 9, 1999, as amended at 74 FR 26110, June 1, 2009]
+[64 FR 37229, July 9, 1999, as amended at 74 FR 26110, June 1, 2009; 86 FR 55524, Oct. 6, 2021]

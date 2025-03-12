@@ -1,11 +1,7 @@
-##### 537.110 Solicitation provisions and contract clauses. #####
+##### 537.110 Contract clauses. #####
 
-Link to an amendment published at 86 FR 55521, Oct. 6, 2021.
+(a) *Contracts for building services.* Except for solicitations and contracts for building services placed under FAR subpart 8.7, insert the clause at 552.237-71, Qualifications of Employees, in solicitations and contracts for building services that are anticipated to exceed the simplified acquisition threshold.
 
-The following provision and clauses apply to contracts for building services:
+(b) *Contracts for guard services.* Insert the clause at 552.237-72, Prohibition Regarding “Quasi-Military Armed Forces,” in solicitations and contracts for guard services.
 
-(a) If the contract is expected to exceed the simplified acquisition threshold and it is not initiated with AbilityOne under the Javits-Wagner-O'Day Act insert 552.237-71, Qualifications of Employees, in the solicitation and contract. If needed, use supplemental provisions or clauses to describe specific requirements for employees performing work on the contract.
-
-(b) Insert 552.237-72, Prohibition Regaring “Quasi-Military Armed Forces,” in solicitations and contracts for guard service.
-
-[65 FR 41379, July 5, 2000, as amended at 74 FR 20606, May 5, 2009; 79 FR 62884, Oct. 21, 2014; 81 FR 1532, Jan. 13, 2016]
+[86 FR 55521, Oct. 6, 2021]

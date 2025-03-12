@@ -1,6 +1,6 @@
 ##### § 483.430 Condition of participation: Facility staffing. #####
 
-(a) *Standard: Qualified intellectual disability professional.* Each client's active treatment program must be integrated, coordinated and monitored by a qualified intellectual disability professional who -
+(a) *Standard: Qualified intellectual disability professional.* Each client's active treatment program must be integrated, coordinated and monitored by a qualified intellectual disability professional who—
 
 (1) Has at least one year of experience working directly with persons with intellectual disability or other developmental disabilities; and
 
@@ -32,13 +32,13 @@
 
 (v) To be designated as a psychologist, an individual must have at least a master's degree in psychology from an accredited school.
 
-(vi) To be designated as a social worker, an individual must -
+(vi) To be designated as a social worker, an individual must—
 
 (A) Hold a graduate degree from a school of social work accredited or approved by the Council on Social Work Education or another comparable body; or
 
 (B) Hold a Bachelor of Social Work degree from a college or university accredited or approved by the Council on Social Work Education or another comparable body.
 
-(vii) To be designated as a speech-language pathologist or audiologist, an individual must -
+(vii) To be designated as a speech-language pathologist or audiologist, an individual must—
 
 (A) Be eligible for a Certificate of Clinical Competence in Speech-Language Pathology or Audiology granted by the American Speech-Language-Hearing Association or another comparable body; or
 
@@ -50,7 +50,7 @@
 
 (x) To be designated as a human services professional an individual must have at least a bachelor's degree in a human services field (including, but not limited to: sociology, special education, rehabilitation counseling, and psychology).
 
-(xi) If the client's individual program plan is being successfully implemented by facility staff, professional program staff meeting the qualifications of paragraph (b)(5) (i) through (x) of this section are not required -
+(xi) If the client's individual program plan is being successfully implemented by facility staff, professional program staff meeting the qualifications of paragraph (b)(5) (i) through (x) of this section are not required—
 
 (A) Except for qualified intellectual disability professionals;
 
@@ -60,7 +60,7 @@
 
 (c) *Standard: Facility staffing.* (1) The facility must not depend upon clients or volunteers to perform direct care services for the facility.
 
-(2) There must be responsible direct care staff on duty and awake on a 24-hour basis, when clients are present, to take prompt, appropriate action in case of injury, illness, fire or other emergency, in each defined residential living unit housing -
+(2) There must be responsible direct care staff on duty and awake on a 24-hour basis, when clients are present, to take prompt, appropriate action in case of injury, illness, fire or other emergency, in each defined residential living unit housing—
 
 (i) Clients for whom a physician has ordered a medical care plan;
 
@@ -70,7 +70,7 @@
 
 (iv) Fewer than 16 clients within a multi-unit building.
 
-(3) There must be a responsible direct care staff person on duty on a 24 hour basis (when clients are present) to respond to injuries and symptoms of illness, and to handle emergencies, in each defined residential living unit housing -
+(3) There must be a responsible direct care staff person on duty on a 24 hour basis (when clients are present) to respond to injuries and symptoms of illness, and to handle emergencies, in each defined residential living unit housing—
 
 (i) Clients for whom a physician has not ordered a medical care plan;
 
@@ -102,10 +102,48 @@
 
 (4) Staff must be able to demonstrate the skills and techniques necessary to implement the individual program plans for each client for whom they are responsible.
 
-(f) *Standard: COVID-19 vaccines.* The facility maintains documentation related to staff that includes at a minimum, all of the following:
+(f) *Standard: COVID-19 Vaccination of facility staff.* The facility must develop and implement policies and procedures to ensure that all staff are fully vaccinated for COVID-19. For purposes of this section, staff are considered fully vaccinated if it has been 2 weeks or more since they completed a primary vaccination series for COVID-19. The completion of a primary vaccination series for COVID-19 is defined here as the administration of a single-dose vaccine, or the administration of all required doses of a multi-dose vaccine.
 
-(1) Staff were provided education regarding the benefits and risks and potential side effects associated with the COVID-19 vaccine.
+(1) Regardless of clinical responsibility or client contact, the policies and procedures must apply to the following facility staff, who provide any care, treatment, or other services for the facility and/or its clients:
 
-(2) Staff were offered COVID-19 vaccine or information on obtaining the COVID-19 vaccine.
+(i) Facility employees;
 
-[53 FR 20496, June 3, 1988, as amended at 86 FR 26335, May 13, 2021]
+(ii) Licensed practitioners;
+
+(iii) Students, trainees, and volunteers; and
+
+(iv) Individuals who provide care, treatment, or other services for the facility and/or its clients, under contract or by other arrangement.
+
+(2) The policies and procedures of this section do not apply to the following facility staff:
+
+(i) Staff who exclusively provide telehealth or telemedicine services outside of the facility setting and who do not have any direct contact with clients and other staff specified in paragraph (f)(1) of this section; and
+
+(ii) Staff who provide support services for the facility that are performed exclusively outside of the facility setting and who do not have any direct contact with clients and other staff specified in paragraph (f)(1) of this section.
+
+(3) The policies and procedures must include, at a minimum, the following components:
+
+(i) A process for ensuring all staff specified in paragraph (f)(1) of this section (except for those staff who have pending requests for, or who have been granted, exemptions to the vaccination requirements of this section, or those staff for whom COVID-19 vaccination must be temporarily delayed, as recommended by the CDC, due to clinical precautions and considerations) have received, at a minimum, a single-dose COVID-19 vaccine, or the first dose of the primary vaccination series for a multi-dose COVID-19 vaccine prior to staff providing any care, treatment, or other services for the facility and/or its clients;
+
+(ii) A process for ensuring that all staff specified in paragraph (f)(1) of this section are fully vaccinated for COVID-19, except for those staff who have been granted exemptions to the vaccination requirements of this section, or those staff for whom COVID-19 vaccination must be temporarily delayed, as recommended by the CDC, due to clinical precautions and considerations;
+
+(iii) A process for ensuring the implementation of additional precautions, intended to mitigate the transmission and spread of COVID-19, for all staff who are not fully vaccinated for COVID-19;
+
+(iv) A process for tracking and securely documenting the COVID-19 vaccination status of all staff specified in paragraph (f)(1) of this section;
+
+(v) A process for tracking and securely documenting the COVID-19 vaccination status of any staff who have obtained any booster doses as recommended by the CDC;
+
+(vi) A process by which staff may request an exemption from the staff COVID-19 vaccination requirements based on an applicable Federal law;
+
+(vii) A process for tracking and securely documenting information provided by those staff who have requested, and for whom the facility has granted, an exemption from the staff COVID-19 vaccination requirements;
+
+(viii) A process for ensuring that all documentation, which confirms recognized clinical contraindications to COVID-19 vaccines and which supports staff requests for medical exemptions from vaccination, has been signed and dated by a licensed practitioner, who is not the individual requesting the exemption, and who is acting within their respective scope of practice as defined by, and in accordance with, all applicable State and local laws, and for further ensuring that such documentation contains
+
+(A) All information specifying which of the authorized COVID-19 vaccines are clinically contraindicated for the staff member to receive and the recognized clinical reasons for the contraindications; and
+
+(B) A statement by the authenticating practitioner recommending that the staff member be exempted from the facility's COVID-19 vaccination requirements for staff based on the recognized clinical contraindications;
+
+(ix) A process for ensuring the tracking and secure documentation of the vaccination status of staff for whom COVID-19 vaccination must be temporarily delayed, as recommended by the CDC, due to clinical precautions and considerations, including, but not limited to, individuals with acute illness secondary to COVID-19, and individuals who received monoclonal antibodies or convalescent plasma for COVID-19 treatment; and
+
+(x) Contingency plans for staff who are not fully vaccinated for COVID-19.
+
+[53 FR 20496, June 3, 1988, as amended at 86 FR 26335, May 13, 2021; 86 FR 61620, Nov. 5, 2021]

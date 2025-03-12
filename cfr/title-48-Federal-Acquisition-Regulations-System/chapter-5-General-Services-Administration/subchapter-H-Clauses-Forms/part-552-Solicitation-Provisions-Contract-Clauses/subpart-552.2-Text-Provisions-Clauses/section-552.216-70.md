@@ -1,8 +1,8 @@
-##### 552.216-70 Economic Price Adjustment - FSS Multiple Award Schedule Contracts. #####
+##### 552.216-70 Economic Price Adjustment—FSS Multiple Award Schedule Contracts. #####
 
 As prescribed in 516.203-4(a), insert the following clause:
 
-Economic Price Adjustment - FSS Multiple Award Schedule Contracts (SEP 1999)
+Economic Price Adjustment—FSS Multiple Award Schedule Contracts (SEP 1999)
 
 Price adjustments include price increases and price decreases. Adjustments will be considered as follows:
 
@@ -18,7 +18,7 @@ Price adjustments include price increases and price decreases. Adjustments will 
 
 (4) At least 30 days elapse between requested increases.
 
-(c) The aggregate of the increases in any contract unit price under this clause shall not exceed \_\_\_\* percent of the original contract unit price. The Government reserves the right to raise this ceiling where changes in market conditions during the contract period support an increase.
+(c) The aggregate of the increases in any contract unit price under this clause shall not exceed \_\_\_\_\_\_\* percent of the original contract unit price. The Government reserves the right to raise this ceiling where changes in market conditions during the contract period support an increase.
 
 (d) The following material shall be submitted with the request for a price increase:
 
@@ -54,8 +54,8 @@ Price adjustments include price increases and price decreases. Adjustments will 
 
 (4) At least 30 days elapse between requested increases.
 
-(c) In any contract period during which price increases will be considered, the aggregate of the increases during any 12-month period shall not exceed \*\_\_\_\_ percent of the contract unit price in effect at the end of the preceding 12-month period. The Government reserves the right to raise the ceiling when market conditions during the contract period support such a change.
+(c) In any contract period during which price increases will be considered, the aggregate of the increases during any 12-month period shall not exceed \*\_\_\_\_\_\_\_\_ percent of the contract unit price in effect at the end of the preceding 12-month period. The Government reserves the right to raise the ceiling when market conditions during the contract period support such a change.
 
-*\* Insert the percentage appropriate at the time the solicitation is issued. This percentage should be determined based on the trend established by an appropriate index such as the Producer Prices and Price Index. A ceiling of more than 10 percent must be approved by the Contracting Director.*
+*\* Insert the percentage appropriate at the time the solicitation is issued. This percentage should be determined based on the trend established by an appropriate index such as the Producer Prices and Price Index. A ceiling of more than 10 percent must be approved by the ontracting Director.*
 
 [64 FR 37229, July 9, 1999; 64 FR 49844, Sept. 14, 1999]

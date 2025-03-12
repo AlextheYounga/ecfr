@@ -1,8 +1,6 @@
 ##### 552.212-72 Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Items. #####
 
-Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
-
-As prescribed in 512.301(a)(3), insert the following clause:
+As prescribed in 512.301(a)(2), insert the following clause:
 
 Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Items (MAY 2019)
 
@@ -16,4 +14,4 @@ The Contractor agrees to comply with any provision or clause that is incorporate
 
 (b) *Clauses.*
 
-\_552.223-70 Hazardous Substances.\_552.223-71 Nonconforming Hazardous Material.\_552.223-73 Preservation, Packaging, Packing, Marking and Labeling of Hazardous Materials (HAZMAT) for Shipments.\_552.238-73 Identification of Electronic Office Equipment Providing Accessibility for the Handicapped.\_552.238-78 Identification of Products That Have Environmental Attributes.(End of clause)[64 FR 37229, July 9, 1999, as amended at 65 FR 41379, July 5, 2000; 68 FR 41288, July 11, 2003; 68 FR 52128, Sept. 2, 2003; 80 FR 36248, June 24, 2015; 84 FR 17041, Apr. 23, 2019]
+\_552.223-70 Hazardous Substances.\_552.223-71 Nonconforming Hazardous Material.\_552.223-73 Preservation, Packaging, Packing, Marking and Labeling of Hazardous Materials (HAZMAT) for Shipments.\_552.238-73 Identification of Electronic Office Equipment Providing Accessibility for the Handicapped.\_552.238-78 Identification of Products That Have Environmental Attributes.(End of clause)[64 FR 37229, July 9, 1999, as amended at 65 FR 41379, July 5, 2000; 68 FR 41288, July 11, 2003; 68 FR 52128, Sept. 2, 2003; 80 FR 36248, June 24, 2015; 84 FR 17041, Apr. 23, 2019; 86 FR 55523, Oct. 6, 2021]

@@ -1,5 +1,5 @@
 ##### 523.370 Solicitation provision. #####
 
-Link to an amendment published at 86 FR 55520, Oct. 6, 2021.
+Insert the provision at 552.223-72, Hazardous Material Information, in solicitations that provide for the delivery of hazardous materials on an f.o.b. origin basis.
 
-Insert 552.223-72, Hazardous Material Information, in any solicitation that provides for delivery of hazardous materials on an f.o.b. origin basis.
+[86 FR 55520, Oct. 6, 2021]

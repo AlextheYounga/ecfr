@@ -1,12 +1,10 @@
-##### 552.270-1 Instructions to Offerors - Acquisition of Leasehold Interests in Real Property. #####
-
-Link to an amendment published at 86 FR 55525, Oct. 6, 2021.
+##### 552.270-1 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property. #####
 
 As prescribed in 570.702, insert the following provision:
 
-Instructions to Offerors - Acquisition of Leasehold Interests in Real Property (JUN 2011)
+Instructions to Offerors—Acquisition of Leasehold Interests in Real Property (JUN 2011)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 “Discussions” are negotiations that occur after establishment of the competitive range that may, at the contracting Officer's discretion, result in the offeror being allowed to revise its proposal.
 
@@ -68,7 +66,7 @@ Instructions to Offerors - Acquisition of Leasehold Interests in Real Property (
 
 (1) Mark the title page with the following legend:
 
-This proposal includes data that shall not be disclosed outside the Government and shall not be duplicated, used, or disclosed - in whole or in part - for any purpose other than to evaluate this proposal. If, however, a lease is awarded to this offeror as a result of - or in connection with - the submission of this data, the Government shall have the right to duplicate, use, or disclose the data to the extent provided in the resulting contract. This restriction does not limit the Government's right to use information contained in this data if it is obtained from another source without restriction. The data subject to this restriction are contained in sheets [insert numbers or other identification of sheets].
+This proposal includes data that shall not be disclosed outside the Government and shall not be duplicated, used, or disclosed—in whole or in part—for any purpose other than to evaluate this proposal. If, however, a lease is awarded to this offeror as a result of—or in connection with—the submission of this data, the Government shall have the right to duplicate, use, or disclose the data to the extent provided in the resulting contract. This restriction does not limit the Government's right to use information contained in this data if it is obtained from another source without restriction. The data subject to this restriction are contained in sheets [insert numbers or other identification of sheets].
 
 (2) Mark each sheet of data it wishes to restrict with the following legend:
 
@@ -100,12 +98,12 @@ Use or disclosure of data contained on this sheet is subject to the restriction 
 
 (End of provision)
 
-*Alternate I* (MAR 1998). As prescribed in 570.702, substitute the following paragraph for paragraph (c)(2)(i) of the basic provision:
+*Alternate I* (MAR 1998). As prescribed in 570.702, substitute the following paragraph (c)(2)(i) for paragraph (c)(2)(i) of the basic provision:
 
-(i) Any offer received at the office designated in the solicitation after the exact time specified for receipt of final proposal revisions will not be considered unless it is received before award is made and it meets one of the following conditions -
+(i) Any offer received at the office designated in the solicitation after the exact time specified for receipt of final proposal revisions will not be considered unless it is received before award is made and it meets one of the following conditions—
 
-*Alternate II* (MAR 1998). As prescribed in 570.702, substitute the following paragraph for paragraph (e)(4) of the basic provision:
+*Alternate II* (MAR 1998). As prescribed in 570.702, substitute the following paragraph (e)(4) for paragraph (e)(4) of the basic provision:
 
 (4) The Government intends to evaluate proposals and award a lease without discussions with offerors (except clarifications as described in FAR 15.306(a)). Therefore, the offeror's initial proposal should contain the offeror's best terms from a cost or price and technical standpoint. The Government reserves the right to conduct discussions if the Contracting Officer later determines them to be necessary. If the Contracting Officer determines that the number of proposals that would otherwise be in the competitive range exceeds the number at which an efficient competition can be conducted, the Contracting Officer may limit the number of proposals in the competitive range to the greatest number that will permit an efficient competition among the most highly rated proposals.
 
-[64 FR 37229, July 9, 1999, as amended at 76 FR 30845, May 27, 2011]
+[64 FR 37229, July 9, 1999, as amended at 76 FR 30845, May 27, 2011; 86 FR 55525, Oct. 6, 2021]

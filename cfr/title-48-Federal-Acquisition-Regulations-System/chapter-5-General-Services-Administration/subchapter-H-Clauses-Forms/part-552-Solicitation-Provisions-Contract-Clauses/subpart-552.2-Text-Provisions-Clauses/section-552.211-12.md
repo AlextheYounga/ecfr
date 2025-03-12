@@ -1,10 +1,8 @@
 ##### 552.211-12 Liquidated Damages-Construction. #####
 
-Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
+As prescribed in 511.503a, insert the following clause:
 
-As prescribed in 511.504, insert the following clause:
-
-Liquidated Damages (MAR 2019)
+Liquidated Damages—Construction (MAR 2019)
 
 FAR 52.211-12, Liquidated Damages-Construction, is supplemented as follows:
 
@@ -14,4 +12,4 @@ FAR 52.211-12, Liquidated Damages-Construction, is supplemented as follows:
 
 (c) If the Government elects to accept any portion of the work not specifically designated as a phase or portion of work with its own required completion date, the liquidated damage rate shall be apportioned between accepted work and uncompleted work, and the Contractor's liability for liquidated damages shall be computed accordingly.
 
-(End of clause)[84 FR 3718, Feb. 13, 2019]
+(End of clause)[84 FR 3718, Feb. 13, 2019, as amended at 86 FR 55522, Oct. 6, 2021]

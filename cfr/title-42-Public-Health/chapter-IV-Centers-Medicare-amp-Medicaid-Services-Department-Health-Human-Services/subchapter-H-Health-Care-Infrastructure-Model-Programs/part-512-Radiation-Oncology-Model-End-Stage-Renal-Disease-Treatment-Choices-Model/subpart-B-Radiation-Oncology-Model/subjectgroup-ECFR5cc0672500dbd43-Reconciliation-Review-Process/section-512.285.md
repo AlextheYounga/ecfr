@@ -68,4 +68,4 @@
 
 (3) No coinsurance is owed by an RO beneficiary with respect to any repayment amount or reconciliation payment.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86305, Dec. 29, 2020]Effective Date Note:At 85 FR 86305, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86305, Dec. 29, 2020]Editorial Note:At 85 FR 86305, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

@@ -1,5 +1,7 @@
 ##### § 41.59 Professionals under the North American Free Trade Agreement. #####
 
+Link to an amendment published at 86 FR 61065, Nov. 5, 2021.
+
 (a) *Requirements for classification as a NAFTA professional.* An alien shall be classifiable under the provisions of INA 214(e) if:
 
 (1) The consular officer is satisfied that the alien qualifies under the provisions of that section; and

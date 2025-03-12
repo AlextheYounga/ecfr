@@ -1,21 +1,21 @@
 ##### 552.101-70 Using part 552. #####
 
-Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
+(a) *Numbering.* (1) GSAR provisions or clauses which are “substantially” the same as a FAR provision or clause (e.g., 552.232-1, Payments) are identified as follows:
 
-(a) *Definition.* “Clause,” as used in this subpart, means provision or clause as defined in FAR 52.101(a).
+(i) The provision or clause has the same title as the FAR provision or clause.
 
-(b) *Numbering.* (1) Clauses which are “substantially” the same as FAR clauses and clauses to be used instead of FAR clauses are identified as follows:
+(ii) The provision or clause has the same number as the FAR provision or clause, except the number is preceded by the number “5”.
 
-(i) The clause has the same title as a clause in the FAR.
+(2) GSA prescribed provisions and clauses (e.g., 552.232-72, Final Payment Under Building Services Contracts) are numbered in the same manner as the FAR, except that—
 
-(ii) The number 5 precedes the clause.
+(i) The number is preceded by the number “5”, and
 
-(iii) The clause appears under the same subsection number and caption as in the FAR.
+(ii) The sequential number at the end of the number of the provision or clause is “70” or a higher number.
 
-(2) Supplemental clauses are numbered in the same manner as the FAR, except:
+(b) *Prescriptions.* Each provision or clause in subpart 552.2 is prescribed at the place in the GSAR where the subject matter of the provision or clause receives its primary treatment. The prescription includes all conditions, requirements, and instructions for using the provision or clause and its alternates, if any. The provision or clause may be referred to in other GSAM locations.
 
-(i) The chapter number precedes the clause.
+(c) *Introductory text.* Within subpart 552.2, the introductory text of each provision or clause includes a cross-reference to the location in the GSAR that prescribes its use.
 
-(ii) The subsection numbers begin with 70.
+(d) *Dates.* Since they are subject to revision from time to time, all GSAR provisions, clauses, and alternates are dated; e.g., (DEC 1983). To avoid questions concerning which version of any provision, clause, or alternate is operative in any given solicitation or contract, its date shall be included whether it is incorporated by reference or in full text.
 
-(iii) The clauses are sequentially numbered, e.g., 552.232-70, 552.232-71, etc.
+[86 FR 55522, Oct. 6, 2021]

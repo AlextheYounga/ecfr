@@ -1,7 +1,5 @@
 ##### 552.211-77 Packing List. #####
 
-Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
-
 As prescribed in 511.204(c), insert the following clause:
 
 Packing List (FEB 1996)
@@ -26,7 +24,7 @@ Packing List (FEB 1996)
 
 (End of clause)
 
-*Alternate I* (MAY 2003). As prescribed at 511.204(d), substitute the following paragraphs (a)(3) and (b) for (a)(3) and (b) of the basic clause:
+*Alternate I* (MAY 2003). As prescribed in 511.204(c), substitute the following paragraphs (a)(3) and (b) for paragraphs (a)(3) and (b) of the basic clause:
 
 (a)(3) Ordering activity order or requisition number;
 
@@ -36,4 +34,4 @@ Packing List (FEB 1996)
 
 (2) The term “Credit Card.”
 
-[64 FR 37229, July 9, 1999, as amended at 68 FR 24379, May 7, 2003; 74 FR 66255, Dec. 15, 2009]
+[64 FR 37229, July 9, 1999, as amended at 68 FR 24379, May 7, 2003; 74 FR 66255, Dec. 15, 2009; 86 FR 55523, Oct. 6, 2021]

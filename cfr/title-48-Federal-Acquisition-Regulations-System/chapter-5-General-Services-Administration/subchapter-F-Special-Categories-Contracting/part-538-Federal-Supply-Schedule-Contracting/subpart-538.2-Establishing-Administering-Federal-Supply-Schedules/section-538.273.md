@@ -1,7 +1,5 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 86 FR 55521, Oct. 6, 2021.
-
 (a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
 
 (1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.
@@ -24,7 +22,7 @@ Link to an amendment published at 86 FR 55521, Oct. 6, 2021.
 
 (d) As prescribed in this paragraph, insert the following clauses as an addendum to Clause 52.212-4, Contract Terms and Conditions-Commercial Items:
 
-(1) 552.238-77, Submission and Distribution of Authorized FSS Price Lists. Use in all FSS solicitations and contracts.
+(1) 552.238-77, Submission and Distribution of Authorized Federal Supply Schedule Price Lists. Use in all FSS solicitations and contracts.
 
 (2) 552.238-78, Identification of Products that have Environmental Attributes. Use only in FSS solicitations and contracts that contemplate items with environmental attributes.
 
@@ -126,4 +124,4 @@ Link to an amendment published at 86 FR 55521, Oct. 6, 2021.
 
 (35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only in FSS solicitations and contracts for supplies when items may require registration with the Environmental Protection Agency.
 
-[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019]
+[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021]

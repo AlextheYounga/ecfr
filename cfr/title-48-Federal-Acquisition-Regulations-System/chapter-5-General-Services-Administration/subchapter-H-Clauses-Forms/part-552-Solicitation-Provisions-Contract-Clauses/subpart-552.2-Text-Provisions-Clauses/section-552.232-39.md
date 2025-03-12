@@ -1,10 +1,8 @@
-##### 552.232-39 Unenforceability of Unauthorized Obligations (FAR DEVIATION). #####
+##### 552.232-39 Unenforceability of Unauthorized Obligations. #####
 
-Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+As prescribed in 532.706-3, insert the following clause:
 
-As prescribed in 513.302-5 and 532.706-3, insert the following clause:
-
-Unenforceability of Unauthorized Obligations. (FAR DEVIATION) (FEB. 2018)
+Unenforceability of Unauthorized Obligations (FEB 2018) (Deviation FAR 52.232-39)
 
 (a) Except as stated in paragraph (b) of this clause, when any supply or service acquired under this contract is subject to any commercial supplier agreement (as defined in 502.101) that includes any language, provision, or clause requiring the Government to pay any future fees, penalties, interest, legal costs or to indemnify the Contractor or any person or entity for damages, costs, fees, or any other loss or liability that would create an Anti-Deficiency Act violation (31 U.S.C. 1341), the following shall govern:
 
@@ -16,4 +14,4 @@ Unenforceability of Unauthorized Obligations. (FAR DEVIATION) (FEB. 2018)
 
 (b) Paragraph (a) of this clause does not apply to indemnification or any other payment by the Government that is expressly authorized by statute and specifically authorized under applicable agency regulations and procedures.
 
-(End of clause)[83 FR 7635, Feb. 22, 2018]
+(End of clause)[83 FR 7635, Feb. 22, 2018, as amended at 86 FR 55524, Oct. 6, 2021]

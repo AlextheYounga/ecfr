@@ -4,7 +4,7 @@ As prescribed in 512.301(e), replace subparagraph (g)(2), paragraph (s), and par
 
 Contract Terms and Conditions - Commercial Items (FAR DEVIATION) (FEB 2018)
 
-*Alternate II* (FAR Deviation) (NOV 2009). When a commercial item contract is contemplated and the contract will include the clause at FAR 52.212-4, insert this Alternate II instead of subparagraph (g)(2) of the FAR clause.
+*Alternate II*  (FAR Deviation) (NOV 2009). When a commercial item contract is contemplated and the contract will include the clause at FAR 52.212-4, insert this Alternate II instead of subparagraph (g)(2) of the FAR clause.
 
 (g)(2) The due date for making invoice payments by the designated payment office is the later of the following two events:
 
@@ -30,7 +30,7 @@ Contract Terms and Conditions - Commercial Items (FAR DEVIATION) (FEB 2018)
 
 (8) Other documents, exhibits, and attachments.
 
-(9) The specification.
+(9) The specificatin.
 
 (u) *Unauthorized Obligations.* (1) Except as stated in paragraph (u)(2) of this clause, when any supply or service acquired under this contract is subject to any commercial supplier agreement (as defined in 502.101) that includes any language, provision, or clause requiring the Government to pay any future fees, penalties, interest, legal costs or to indemnify the Contractor or any person or entity for damages, costs, fees, or any other loss or liability that would create an Anti-Deficiency Act violation (31 U.S.C. 1341), the following shall govern:
 

@@ -1,5 +1,7 @@
 ##### § 41.12 Classification symbols. #####
 
+Link to an amendment published at 86 FR 61065, Nov. 5, 2021.
+
 A visa issued to a nonimmigrant alien within one of the classes described in this section shall bear an appropriate visa symbol to show the classification of the alien. The symbol shall be inserted in the space provided on the visa. The following visa symbols shall be used:
 
 |Symbol|                                                                                                                                                                                                                           Class                                                                                                                                                                                                                            |                       Section of law                       |
