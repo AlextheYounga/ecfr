@@ -1,55 +1,45 @@
-##### § 404.1513 Medical and other evidence of your impairment(s). #####
+##### § 404.1513 Categories of evidence. #####
 
-Link to an amendment published at 82 FR 5865, Jan. 18, 2017.
+(a) *What we mean by evidence.* Subject to the provisions of paragraph (b), evidence is anything you or anyone else submits to us or that we obtain that relates to your claim. We consider evidence under §§ 404.1520b, 404.1520c (or under § 404.1527 for claims filed (see § 404.614) before March 27, 2017). We evaluate evidence we receive according to the rules pertaining to the relevant category of evidence. The categories of evidence are:
 
-(a) *Sources who can provide evidence to establish an impairment.* We need evidence from acceptable medical sources to establish whether you have a medically determinable impairment(s). See § 404.1508. Acceptable medical sources are -
+(1) *Objective medical evidence.* Objective medical evidence is medical signs, laboratory findings, or both, as defined in § 404.1502(f).
 
-(1) Licensed physicians (medical or osteopathic doctors);
+(2) *Medical opinion.* A medical opinion is a statement from a medical source about what you can still do despite your impairment(s) and whether you have one or more impairment-related limitations or restrictions in the following abilities: (For claims filed (see § 404.614) before March 27, 2017, see § 404.1527(a) for the definition of medical opinion.)
 
-(2) Licensed or certified psychologists. Included are school psychologists, or other licensed or certified individuals with other titles who perform the same function as a school psychologist in a school setting, for purposes of establishing intellectual disability, learning disabilities, and borderline intellectual functioning only;
+(i) Your ability to perform physical demands of work activities, such as sitting, standing, walking, lifting, carrying, pushing, pulling, or other physical functions (including manipulative or postural functions, such as reaching, handling, stooping, or crouching);
 
-(3) Licensed optometrists, for purposes of establishing visual disorders only (except, in the U.S. Virgin Islands, licensed optometrists, for the measurement of visual acuity and visual fields only);
+(ii) Your ability to perform mental demands of work activities, such as understanding; remembering; maintaining concentration, persistence, or pace; carrying out instructions; or responding appropriately to supervision, co-workers, or work pressures in a work setting;
 
-(4) Licensed podiatrists, for purposes of establishing impairments of the foot, or foot and ankle only, depending on whether the State in which the podiatrist practices permits the practice of podiatry on the foot only, or the foot and ankle; and
+(iii) Your ability to perform other demands of work, such as seeing, hearing, or using other senses; and
 
-(5) Qualified speech-language pathologists, for purposes of establishing speech or language impairments only. For this source, “qualified” means that the speech-language pathologist must be licensed by the State professional licensing agency, or be fully certified by the State education agency in the State in which he or she practices, or hold a Certificate of Clinical Competence from the American Speech-Language-Hearing Association.
+(iv) Your ability to adapt to environmental conditions, such as temperature extremes or fumes.
 
-(b) *Medical reports.* Medical reports should include -
+(3) *Other medical evidence.* Other medical evidence is evidence from a medical source that is not objective medical evidence or a medical opinion, including judgments about the nature and severity of your impairments, your medical history, clinical findings, diagnosis, treatment prescribed with response, or prognosis. (For claims filed (see § 404.614) before March 27, 2017, *other medical evidence* does not include a diagnosis, prognosis, or a statement that reflects a judgment(s) about the nature and severity of your impairment(s)).
 
-(1) Medical history;
+(4) *Evidence from nonmedical sources.* Evidence from nonmedical sources is any information or statement(s) from a nonmedical source (including you) about any issue in your claim. We may receive evidence from nonmedical sources either directly from the nonmedical source or indirectly, such as from forms we receive and our administrative records.
 
-(2) Clinical findings (such as the results of physical or mental status examinations);
+(5) *Prior administrative medical finding.* A prior administrative medical finding is a finding, other than the ultimate determination about whether you are disabled, about a medical issue made by our Federal and State agency medical and psychological consultants at a prior level of review (see § 404.900) in your current claim based on their review of the evidence in your case record, such as:
 
-(3) Laboratory findings (such as blood pressure, x-rays);
+(i) The existence and severity of your impairment(s);
 
-(4) Diagnosis (statement of disease or injury based on its signs and symptoms);
+(ii) The existence and severity of your symptoms;
 
-(5) Treatment prescribed with response, and prognosis; and
+(iii) Statements about whether your impairment(s) meets or medically equals any listing in the Listing of Impairments in Part 404, Subpart P, Appendix 1;
 
-(6) A statement about what you can still do despite your impairment(s) based on the acceptable medical source's findings on the factors under paragraphs (b)(1) through (b)(5) of this section (except in statutory blindness claims). Although we will request a medical source statement about what you can still do despite your impairment(s), the lack of the medical source statement will not make the report incomplete. See § 404.1527.
+(iv) Your residual functional capacity;
 
-(c) *Statements about what you can still do.* At the administrative law judge and Appeals Council levels, we will consider residual functional capacity assessments made by State agency medical and psychological consultants, and other program physicians and psychologists to be “statements about what you can still do” made by nonexamining physicians and psychologists based on their review of the evidence in the case record. Statements about what you can still do (based on the acceptable medical source's findings on the factors under paragraphs (b)(1) through (b)(5) of this section) should describe, but are not limited to, the kinds of physical and mental capabilities listed as follows (See §§ 404.1527 and 404.1545(c)):
+(v) Whether your impairment(s) meets the duration requirement; and
 
-(1) The acceptable medical source's opinion about your ability, despite your impairment(s), to do work-related activities such as sitting, standing, walking, lifting, carrying, handling objects, hearing, speaking, and traveling; and
+(vi) How failure to follow prescribed treatment (see § 404.1530) and drug addiction and alcoholism (see § 404.1535) relate to your claim.
 
-(2) In cases of mental impairment(s), the acceptable medical source's opinion about your ability to understand, to carry out and remember instructions, and to respond appropriately to supervision, coworkers, and work pressures in a work setting.
+(b) *Exceptions for privileged communications.*
 
-(d) *Other sources.* In addition to evidence from the acceptable medical sources listed in paragraph (a) of this section, we may also use evidence from other sources to show the severity of your impairment(s) and how it affects your ability to work. Other sources include, but are not limited to -
+(1) The privileged communications listed in paragraphs (b)(1)(i) and (b)(1)(ii) of this section are not evidence, and we will neither consider nor provide any analysis about them in your determination or decision. This exception for privileged communications applies equally whether your representative is an attorney or a non-attorney.
 
-(1) Medical sources not listed in paragraph (a) of this section (for example, nurse-practitioners, physicians' assistants, naturopaths, chiropractors, audiologists, and therapists);
+(i) Oral or written communications between you and your representative that are subject to the attorney-client privilege, unless you voluntarily disclose the communication to us.
 
-(2) Educational personnel (for example, school teachers, counselors, early intervention team members, developmental center workers, and daycare center workers);
+(ii) Your representative's analysis of your claim, unless he or she voluntarily discloses it to us. This analysis means information that is subject to the attorney work product doctrine, but it does not include medical evidence, medical opinions, or any other factual matter that we may consider in determining whether or not you are entitled to benefits (see paragraph (b)(2) of this section).
 
-(3) Public and private social welfare agency personnel; and
+(2) The attorney-client privilege generally protects confidential communications between an attorney and his or her client that are related to providing or obtaining legal advice. The attorney work product doctrine generally protects an attorney's analyses, theories, mental impressions, and notes. In the context of your disability claim, neither the attorney-client privilege nor the attorney work product doctrine allow you to withhold factual information, medical opinions, or other medical evidence that we may consider in determining whether or not you are entitled to benefits. For example, if you tell your representative about the medical sources you have seen, your representative cannot refuse to disclose the identity of those medical sources to us based on the attorney-client privilege. As another example, if your representative asks a medical source to complete an opinion form related to your impairment(s), symptoms, or limitations, your representative cannot withhold the completed opinion form from us based on the attorney work product doctrine. The attorney work product doctrine would not protect the source's opinions on the completed form, regardless of whether or not your representative used the form in his or her analysis of your claim or made handwritten notes on the face of the report.
 
-(4) Other non-medical sources (for example, spouses, parents and other caregivers, siblings, other relatives, friends, neighbors, and clergy).
-
-(e) *Completeness.* The evidence in your case record, including the medical evidence from acceptable medical sources (containing the clinical and laboratory findings) and other medical sources not listed in paragraph (a) of this section, information you give us about your medical condition(s) and how it affects you, and other evidence from other sources, must be complete and detailed enough to allow us to make a determination or decision about whether you are disabled or blind. It must allow us to determine -
-
-(1) The nature and severity of your impairment(s) for any period in question;
-
-(2) Whether the duration requirement described in § 404.1509 is met; and
-
-(3) Your residual functional capacity to do work-related physical and mental activities, when the evaluation steps described in § 404.1520(e) or (f)(1) apply.
-
-[45 FR 55584, Aug. 20, 1980, as amended at 56 FR 36955, Aug. 1, 1991; 65 FR 11875, Mar. 7, 2000; 65 FR 34957, June 1, 2000; 71 FR 16444, Mar. 31, 2006; 72 FR 9242, Mar. 1, 2007; 76 FR 24806, May 3, 2011; 78 FR 46501, Aug. 1, 2013]
+[82 FR 5865, Jan. 18, 2017; 82 FR 15132, Mar. 27, 2017]

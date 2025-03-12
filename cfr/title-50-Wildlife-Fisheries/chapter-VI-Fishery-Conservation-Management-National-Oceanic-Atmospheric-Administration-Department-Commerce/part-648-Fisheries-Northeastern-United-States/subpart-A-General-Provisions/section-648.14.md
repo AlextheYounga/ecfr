@@ -208,7 +208,9 @@
 
 (vii) *Scallop sectors.* Fail to comply with any of the requirements or restrictions for general category scallop sectors specified in § 648.63.
 
-(viii) *Scallop research.* Fail to comply with any of the provisions specified in § 648.56.
+(viii) *Scallop research.* (A) Fail to comply with any of the provisions specified in § 648.56.
+
+(B) Fish for scallops in, or possess or land scallops from, the NGOM on a scallop research set-aside compensation trip as described in § 648.56(d).
 
 (ix) *Observer program.* (A) Refuse, or fail, to carry onboard an observer after being requested to by the Regional Administrator or the Regional Administrator's designee.
 
@@ -248,7 +250,7 @@
 
 (iii) *Possession and landing.* (A) Land scallops after using up the vessel's annual DAS allocation or land scallops on more than one trip per calendar day when not participating under the DAS allocation program pursuant to § 648.10, unless exempted from DAS allocations as provided in the state waters exemption, specified in § 648.54.
 
-(B) Fish for, possess, or land more than 50 bu (17.62 hL) of in-shell scallops once inside the VMS Demarcation Line on or by a vessel that, at any time during the trip, fished in or transited any area south of 42°20′ N. lat; or fished in any Sea Scallop Area Access Program specified in § 648.59, except as provided in the state waters exemption, as specified in § 648.54.
+(B) Fish for, possess, or land more than 50 bu (17.62 hL) of in-shell scallops inside the VMS Demarcation Line on or by a vessel, except as provided in the state waters exemption, as specified in § 648.54.
 
 (C) Fish for, possess, or land per trip, at any time, scallops in excess of any sea scallop possession and landing limit set by the Regional Administrator in accordance with § 648.59(b)(3) when properly declared into the Sea Scallop Area Access Program as described in § 648.59.
 
@@ -276,9 +278,9 @@
 
 (vi) *Scallop rotational area management program and scallop access area program requirements.* (A) Fail to comply with any of the provisions and specifications of § 648.59.
 
-(B) Transit the Closed Area II Rotational Area or the Closed Area II Extension Rotational Area, as defined § 648.60(d) and (e), respectively, or the Elephant Trunk Closed Area, as defined in § 648.60(b), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(B) Transit the Closed Area II Scallop Rotational Area or the Closed Area II Extension Scallop Rotational Area, as defined § 648.60(d) and (e), respectively, or the Elephant Trunk Flex Scallop Rotational Area, as defined in § 648.60(b), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
-(C) [Reserved]
+(C) Fish for, possess, or land scallops in or from the Elephant Trunk Flex Access Area in excess of the vessel's total Elephant Trunk Flex Access Area specific allocation as specified in § 648.59(b)(3)(i)(B)(*1*)(*ii*) or the amount permitted to be landed from the Elephant Trunk Flex Access Area as allowed under trip exchanges specified in § 648.59(b)(3)(ii)(A) and (B).
 
 (D) Possess more than 50 bu (17.6 hL) of in-shell scallops outside the boundaries of a Sea Scallop Access Area by a vessel that is declared into the Area Access Program as specified in § 648.59.
 
@@ -326,7 +328,7 @@
 
 (D) Fish for, possess, or land scallops in or from any Sea Scallop Access Area without an observer on board, unless the vessel owner, operator, or manager has received a waiver to carry an observer for the specified trip and area fished.
 
-(E) Transit the Closed Area II Rotational Area or the Closed Area II Extension Rotational Area, as defined § 648.60(d) and (e), respectively, or the Elephant Trunk Closed Area, as defined in § 648.60(b), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+(E) Transit the Elephant Trunk Flex Scallop Rotational Area, Closed Area II Scallop Rotational Area, or the Closed Area II Extension Scallop Rotational Area, as defined § 648.60(b), (d), and (e), respectively, unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
 (vi) *Sectors.* Fail to comply with any of the requirements and restrictions for General Category sectors and harvesting cooperatives specified in § 648.63.
 
@@ -344,7 +346,7 @@
 
 (F) Fish for, possess, or land scallops in excess of a vessel's IFQ.
 
-(G) Fish for, possess, or land more than 40 lb (18.1 kg) of shucked scallops, or 5 bu (1.76 hL) of in-shell scallops shoreweard of the VMS Demarcation Line, or 10 bu (3.52 hL) of in-shell scallops seaward of the VMS Demarcation Line, when the vessel is not declared into the IFQ scallop fishery, unless the vessel is fishing in compliance with all of the requirements of the State waters exemption program, specified at § 648.54.
+(G) Fish for, possess, or land more than 40 lb (18.1 kg) of shucked scallops, or 5 bu (1.76 hL) of in-shell scallops shoreward of the VMS Demarcation Line, or 10 bu (3.52 hL) of in-shell scallops seaward of the VMS Demarcation Line, when the vessel is not declared into the IFQ scallop fishery, unless the vessel is fishing in compliance with all of the requirements of the State waters exemption program, specified at § 648.54.
 
 (H) Land scallops more than once per calendar day.
 

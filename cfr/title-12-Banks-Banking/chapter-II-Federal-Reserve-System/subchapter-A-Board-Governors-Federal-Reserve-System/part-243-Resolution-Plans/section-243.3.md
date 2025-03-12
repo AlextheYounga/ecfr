@@ -1,6 +1,6 @@
 ##### § 243.3 Resolution plan required. #####
 
-(a) *Initial and annual resolution plans required* - (1) Each covered company shall submit its initial resolution plan to the Board and the Corporation on or before the date set forth below (“Initial Submission Date”):
+(a) *Initial and annual resolution plans required.* (1) Each covered company shall submit its initial resolution plan to the Board and the Corporation on or before the date set forth below (“Initial Submission Date”):
 
 (i) July 1, 2012, with respect to any covered company that, as of the effective date of this part, had $250 billion or more in total nonbank assets (or, in the case of a covered company that is a foreign-based company, in total U.S. nonbank assets);
 
@@ -20,18 +20,18 @@
 
 (3) *Exception.* A covered company shall not be required to file a notice under paragraph (b)(2) of this section if the date on which the covered company would be required to submit the notice under paragraph (b)(2) would be within 90 days prior to the date on which the covered company is required to file an annual resolution plan under paragraph (a) of this section.
 
-(c) *Authority to require more frequent submissions or extend time period.* - The Board and Corporation may jointly:
+(c) *Authority to require more frequent submissions or extend time period.* The Board and Corporation may jointly:
 
 (1) Require that a covered company submit a resolution plan more frequently than required pursuant to paragraph (a) of this section; and
 
 (2) Extend the time period that a covered company has to submit a resolution plan or a notice following material events under paragraphs (a) and (b) of this section.
 
-(d) *Access to information.* - In order to allow evaluation of the resolution plan, each covered company must provide the Board and the Corporation such information and access to personnel of the covered company as the Board and the Corporation jointly determine during the period for reviewing the resolution plan is necessary to assess the credibility of the resolution plan and the ability of the covered company to implement the resolution plan. The Board and the Corporation will rely to the fullest extent possible on examinations conducted by or on behalf of the appropriate Federal banking agency for the relevant company.
+(d) *Access to information.* In order to allow evaluation of the resolution plan, each covered company must provide the Board and the Corporation such information and access to personnel of the covered company as the Board and the Corporation jointly determine during the period for reviewing the resolution plan is necessary to assess the credibility of the resolution plan and the ability of the covered company to implement the resolution plan. The Board and the Corporation will rely to the fullest extent possible on examinations conducted by or on behalf of the appropriate Federal banking agency for the relevant company.
 
-(e) *Board of directors approval of resolution plan.* - Prior to submission of a resolution plan under paragraph (a) of this section, the resolution plan of a covered company shall be approved by:
+(e) *Board of directors approval of resolution plan.* Prior to submission of a resolution plan under paragraph (a) of this section, the resolution plan of a covered company shall be approved by:
 
 (1) The board of directors of the covered company and noted in the minutes; or
 
 (2) In the case of a foreign-based covered company only, a delegee acting under the express authority of the board of directors of the covered company to approve the resolution plan.
 
-(f) *Resolution plans provided to the Council.* - The Board shall make the resolution plans and updates submitted by the covered company pursuant to this section available to the Council upon request.
+(f) *Resolution plans provided to the Council.* The Board shall make the resolution plans and updates submitted by the covered company pursuant to this section available to the Council upon request.

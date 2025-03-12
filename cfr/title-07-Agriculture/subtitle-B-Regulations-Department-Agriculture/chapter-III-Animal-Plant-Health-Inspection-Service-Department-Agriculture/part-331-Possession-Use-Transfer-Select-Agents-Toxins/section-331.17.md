@@ -1,7 +1,5 @@
 ##### § 331.17 Records. #####
 
-Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 (a) An individual or entity required to register under this part must maintain complete records relating to the activities covered by this part. Such records must include:
 
 (1) An accurate, current inventory for each select agent (including viral genetic elements, recombinant and/or synthetic nucleic acids, and organisms containing recombinant and/or synthetic nucleic acids) held in long-term storage (placement in a system designed to ensure viability for future use, such as in a freezer or lyophilized materials), including:
@@ -10,11 +8,11 @@ Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was d
 
 (ii) The quantity acquired from another individual or entity (*e.g.*, containers, vials, tubes, etc.), date of acquisition, and the source;
 
-(iii) Where stored (*e.g.*, building, room, and freezer);
+(iii) Where stored (*e.g.*, building, room, and freezer or other storage container);
 
 (iv) When moved from storage and by whom and when returned to storage and by whom;
 
-(v) The select agent used and purpose of use;
+(v) The select agent used, purpose of use, and, when applicable, final disposition;
 
 (vi) Records created under § 331.16 (Transfers);
 
@@ -34,7 +32,7 @@ Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was d
 
 (iv) The toxin used and purpose of use, quantity, date(s) of the use and by whom;
 
-(v) Where stored (*e.g.*, building, room, and freezer);
+(v) Where stored (*e.g.*, building, room, and freezer or other storage container);
 
 (vi) When moved from storage and by whom and when returned to storage and by whom, including quantity amount;
 
@@ -50,12 +48,28 @@ Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was d
 
 (5) Information about all entries into areas containing select agents or toxins, including the name of the individual, name of the escort (if applicable), and the date and time of entry;
 
-(6) Accurate, current records created under § 331.9(c) (Responsible official), § 331.11 (Security), § 331.12 (Biocontainment), § 331.14 (Incident response), and § 331.15 (Training); and
+(6) Accurate, current records created under § 331.9(c) (Responsible official), § 331.11 (Security), § 331.12 (Biocontainment), § 331.14 (Incident response), and § 331.15 (Training);
 
-(7) A written explanation of any discrepancies.
+(7) A written explanation of any discrepancies; and
 
-(b) The individual or entity must implement a system to ensure that all records and databases created under this part are accurate, have controlled access, and can be verified for authenticity.
+(8) For select agents or material containing select agents or regulated nucleic acids that can produce infectious forms of any select agent virus that have been subjected to a validated inactivation procedure or a procedure for removal of viable select agent:
 
-(c) All records created under this part must be maintained for 3 years and promptly produced upon request.
+(i) A written description of the validated inactivation procedure or viable select agent removal method used, including validation data;
 
-[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61077, Oct. 5, 2012]
+(ii) A written description of the viability testing protocol used;
+
+(iii) A written description of the investigation conducted by the entity responsible official involving an inactivation or viable select agent removal failure and the corrective actions taken;
+
+(iv) The name of each individual performing the validated inactivation or viable select agent removal method;
+
+(v) The date(s) the validated inactivation or viable select agent removal method was completed;
+
+(vi) The location where the validated inactivation or viable select agent removal method was performed; and
+
+(vii) A certificate, signed by the principal investigator, that includes the date of inactivation or viable select agent removal, the validated inactivation or viable select agent removal method used, and the name of the principal investigator. A copy of the certificate must accompany any transfer of inactivated or select agent removed material.
+
+(b) The individual or entity must implement a system to ensure that all records and databases created under this part are accurate and legible, have controlled access, and that their authenticity may be verified.
+
+(c) The individual or entity must promptly produce upon request any information that is related to the requirements of this part but is not otherwise contained in a record required to be kept by this section. The location of such information may include, but is not limited to, biocontainment certifications, laboratory notebooks, institutional biosafety and/or animal use committee minutes and approved protocols, and records associated with occupational health and suitability programs. All records created under this part must be maintained for 3 years.
+
+[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61077, Oct. 5, 2012; 82 FR 6206, Jan. 19, 2017]

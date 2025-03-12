@@ -1,6 +1,6 @@
 ##### § 404.1592c Who is entitled to expedited reinstatement? #####
 
-Link to an amendment published at 81 FR 71369, October 17, 2016.
+Link to an amendment published at 81 FR 71369, Oct. 17, 2016.
 
 (a) You can have your entitlement to benefits reinstated under expedited reinstatement if -
 

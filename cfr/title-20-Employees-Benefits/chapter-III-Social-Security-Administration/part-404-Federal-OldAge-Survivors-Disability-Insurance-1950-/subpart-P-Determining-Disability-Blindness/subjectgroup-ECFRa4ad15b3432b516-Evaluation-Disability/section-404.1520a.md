@@ -1,7 +1,5 @@
 ##### § 404.1520a Evaluation of mental impairments. #####
 
-Link to an amendment published at 82 FR 5867, Jan. 18, 2017.
-
 (a) *General.* The steps outlined in § 404.1520 apply to the evaluation of physical and mental impairments. In addition, when we evaluate the severity of mental impairments for adults (persons age 18 and over) and in persons under age 18 when Part A of the Listing of Impairments is used, we must follow a special technique at each level in the administrative review process. We describe this special technique in paragraphs (b) through (e) of this section. Using the technique helps us:
 
 (1) Identify the need for additional evidence to determine impairment severity;
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 5867, Jan. 18, 2017.
 
 (3) Organize and present our findings in a clear, concise, and consistent manner.
 
-(b) *Use of the technique.* (1) Under the special technique, we must first evaluate your pertinent symptoms, signs, and laboratory findings to determine whether you have a medically determinable mental impairment(s). See § 404.1508 for more information about what is needed to show a medically determinable impairment. If we determine that you have a medically determinable mental impairment(s), we must specify the symptoms, signs, and laboratory findings that substantiate the presence of the impairment(s) and document our findings in accordance with paragraph (e) of this section.
+(b) *Use of the technique.* (1) Under the special technique, we must first evaluate your pertinent symptoms, signs, and laboratory findings to determine whether you have a medically determinable mental impairment(s). See § 404.1521 for more information about what is needed to show a medically determinable impairment. If we determine that you have a medically determinable mental impairment(s), we must specify the symptoms, signs, and laboratory findings that substantiate the presence of the impairment(s) and document our findings in accordance with paragraph (e) of this section.
 
 (2) We must then rate the degree of functional limitation resulting from the impairment(s) in accordance with paragraph (c) of this section and record our findings as set out in paragraph (e) of this section.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 82 FR 5867, Jan. 18, 2017.
 
 (d) *Use of the technique to evaluate mental impairments.* After we rate the degree of functional limitation resulting from your impairment(s), we will determine the severity of your mental impairment(s).
 
-(1) If we rate the degrees of your limitation as “none” or “mild,” we will generally conclude that your impairment(s) is not severe, unless the evidence otherwise indicates that there is more than a minimal limitation in your ability to do basic work activities (see § 404.1521).
+(1) If we rate the degrees of your limitation as “none” or “mild,” we will generally conclude that your impairment(s) is not severe, unless the evidence otherwise indicates that there is more than a minimal limitation in your ability to do basic work activities (see § 404.1522).
 
 (2) If your mental impairment(s) is severe, we will then determine if it meets or is equivalent in severity to a listed mental disorder. We do this by comparing the medical findings about your impairment(s) and the rating of the degree of functional limitation to the criteria of the appropriate listed mental disorder. We will record the presence or absence of the criteria and the rating of the degree of functional limitation on a standard document at the initial and reconsideration levels of the administrative review process, or in the decision at the administrative law judge hearing and Appeals Council levels (in cases in which the Appeals Council issues a decision). See paragraph (e) of this section.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 82 FR 5867, Jan. 18, 2017.
 
 (5) If the administrative law judge requires the services of a medical expert to assist in applying the technique but such services are unavailable, the administrative law judge may return the case to the State agency or the appropriate Federal component, using the rules in § 404.941 of this part, for completion of the standard document. If, after reviewing the case file and completing the standard document, the State agency or Federal component concludes that a determination favorable to you is warranted, it will process the case using the rules found in § 404.941(d) or (e) of this part. If, after reviewing the case file and completing the standard document, the State agency or Federal component concludes that a determination favorable to you is not warranted, it will send the completed standard document and the case to the administrative law judge for further proceedings and a decision.
 
-[65 FR 50774, Aug. 21, 2000; 65 FR 60584, Oct. 12, 2000, as amended at 71 FR 16444, Mar. 31, 2006; 75 FR 62680, Oct. 13, 2010; 76 FR 24806, May 3, 2011; 81 FR 66160, Sept. 26, 2016]
+[65 FR 50774, Aug. 21, 2000; 65 FR 60584, Oct. 12, 2000, as amended at 71 FR 16444, Mar. 31, 2006; 75 FR 62680, Oct. 13, 2010; 76 FR 24806, May 3, 2011; 81 FR 66160, Sept. 26, 2016; 82 FR 5867. Jan. 18, 2017]

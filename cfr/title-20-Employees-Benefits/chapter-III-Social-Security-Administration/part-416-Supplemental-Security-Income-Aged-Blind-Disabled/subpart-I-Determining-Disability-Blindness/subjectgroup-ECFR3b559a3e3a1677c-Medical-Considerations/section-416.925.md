@@ -1,7 +1,5 @@
 ##### § 416.925 Listing of Impairments in appendix 1 of subpart P of part 404 of this chapter. #####
 
-Link to an amendment published at 82 FR 5880, Jan. 17, 2017.
-
 (a) *What is the purpose of the Listing of Impairments?* The Listing of Impairments (the listings) is in appendix 1 of subpart P of part 404 of this chapter. For adults, it describes for each of the major body systems impairments that we consider to be severe enough to prevent an individual from doing any gainful activity, regardless of his or her age, education, or work experience. For children, it describes impairments that cause marked and severe functional limitations.
 
 (b) *How is appendix 1 organized?* There are two parts in appendix 1:
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 5880, Jan. 17, 2017.
 
 (c) *How do we use the listings?* (1) Most body system sections in parts A and B of appendix 1 are in two parts: an introduction, followed by the specific listings.
 
-(2) The introduction to each body system contains information relevant to the use of the listings in that body system; for example, examples of common impairments in the body system and definitions used in the listings for that body system. We may also include specific criteria for establishing a diagnosis, confirming the existence of an impairment, or establishing that your impairment(s) satisfies the criteria of a particular listing in the body system. Even if we do not include specific criteria for establishing a diagnosis or confirming the existence of your impairment, you must still show that you have a severe medically determinable impairment(s), as defined in §§ 416.908, 416.920(c), and 416.924(c).
+(2) The introduction to each body system contains information relevant to the use of the listings in that body system; for example, examples of common impairments in the body system and definitions used in the listings for that body system. We may also include specific criteria for establishing a diagnosis, confirming the existence of an impairment, or establishing that your impairment(s) satisfies the criteria of a particular listing in the body system. Even if we do not include specific criteria for establishing a diagnosis or confirming the existence of your impairment, you must still show that you have a severe medically determinable impairment(s), as defined in §§ 416.921 and 416.924(c).
 
 (3) In most cases, the specific listings follow the introduction in each body system, after the heading, *Category of Impairments.* Within each listing, we specify the objective medical and other findings needed to satisfy the criteria of that listing. We will find that your impairment(s) *meets* the requirements of a listing when it satisfies all of the criteria of that listing, including any relevant criteria in the introduction, and meets the duration requirement (see § 416.909).
 
@@ -26,4 +24,4 @@ Link to an amendment published at 82 FR 5880, Jan. 17, 2017.
 
 (e) *How do we consider your symptoms when we determine whether your impairment(s) meets a listing?* Some listed impairments include symptoms, such as pain, as criteria. Section 416.929(d)(2) explains how we consider your symptoms when your symptoms are included as criteria in a listing.
 
-[71 FR 10430, Mar. 1, 2006, as amended at 76 FR 19698, Apr. 8, 2011]
+[71 FR 10430, Mar. 1, 2006, as amended at 76 FR 19698, Apr. 8, 2011; 82 FR 5880, Jan. 18, 2017]

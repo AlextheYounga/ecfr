@@ -1,8 +1,6 @@
 ##### § 404.909 How to request reconsideration. #####
 
-Link to an amendment published at 81 FR 90992, December 16, 2016.
-
-(a) We shall reconsider an initial determination if you or any other party to the reconsideration files a written request -
+(a) We shall reconsider an initial determination if you or any other party to the reconsideration files a written request—
 
 (1) Within 60 days after the date you receive notice of the initial determination (or within the extended time period if we extend the time as provided in paragraph (b) of this section);
 

@@ -1,6 +1,6 @@
 ##### § 243.8 No limiting effect or private right of action; confidentiality of resolution plans. #####
 
-(a) *No limiting effect on bankruptcy or other resolution proceedings.* - A resolution plan submitted pursuant to this part shall not have any binding effect on:
+(a) *No limiting effect on bankruptcy or other resolution proceedings.* A resolution plan submitted pursuant to this part shall not have any binding effect on:
 
 (1) A court or trustee in a proceeding commenced under the Bankruptcy Code;
 
@@ -10,7 +10,7 @@
 
 (4) Any other authority that is authorized or required to resolve a covered company (including any subsidiary or affiliate thereof) under any other provision of Federal, state, or foreign law.
 
-(b) *No private right of action.* - Nothing in this part creates or is intended to create a private right of action based on a resolution plan prepared or submitted under this part or based on any action taken by the Board or the Corporation with respect to any resolution plan submitted under this part.
+(b) *No private right of action.* Nothing in this part creates or is intended to create a private right of action based on a resolution plan prepared or submitted under this part or based on any action taken by the Board or the Corporation with respect to any resolution plan submitted under this part.
 
 (c) *Form of resolution plans.* Each resolution plan of a covered company shall be divided into a public section and a confidential section. Each covered company shall segregate and separately identify the public section from the confidential section. The public section shall consist of an executive summary of the resolution plan that describes the business of the covered company and includes, to the extent material to an understanding of the covered company:
 

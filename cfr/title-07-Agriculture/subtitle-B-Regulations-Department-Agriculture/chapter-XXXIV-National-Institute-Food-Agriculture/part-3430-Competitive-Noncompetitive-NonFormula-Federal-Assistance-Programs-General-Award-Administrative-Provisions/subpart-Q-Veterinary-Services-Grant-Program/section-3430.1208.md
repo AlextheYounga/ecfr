@@ -1,0 +1,7 @@
+##### § 3430.1208 Special requirements for Rural Practice Enhancement grants. #####
+
+(a) *Terms of service requirement.* Regardless of award amount, Rural Practice Enhancement (RPE) grant recipients must commit to spending three years mitigating the veterinarian service shortage applied for, at the full time equivalent percentage described in the shortage nomination forms corresponding to each designated shortage situation. Except in certain extenuating circumstances which NIFA determines to be beyond a grant recipient's control, the three-year term of service must be completed in accordance with all terms and conditions of the award agreement. In the event a recipient feels extenuating circumstances are preventing, or will prevent, him/her from meeting the service obligation, the grantee must contact NIFA for guidance.
+
+(b) *Breach.* If a RPE grant recipient fails to complete the period of obligated service incurred under the service agreement, that recipient may be subject to repayment or partial repayment of the grant funds, with interest, to the United States.
+
+(c) *Waiver.* The Secretary may grant a waiver of the repayment obligation for breach of contract if the Secretary determines that such qualified entity demonstrates extreme hardship or extreme need.

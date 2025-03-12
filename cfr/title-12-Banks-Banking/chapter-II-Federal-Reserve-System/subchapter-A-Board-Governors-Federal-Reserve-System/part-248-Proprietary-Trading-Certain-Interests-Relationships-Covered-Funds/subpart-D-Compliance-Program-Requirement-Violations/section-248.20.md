@@ -4,7 +4,7 @@
 
 (b) *Contents of compliance program.* Except as provided in paragraph (f) of this section, the compliance program required by paragraph (a) of this section, at a minimum, shall include:
 
-(1) Written policies and procedures reasonably designed to document, describe, monitor and limit trading activities subject to subpart B (including those permitted under §§ 248.3 to 248.6 of subpart B), including setting, monitoring and managing required limits set out in § 2484 and § 2485, and activities and investments with respect to a covered fund subject to subpart C (including those permitted under §§ 248.11 through 248.14 of subpart C) conducted by the banking entity to ensure that all activities and investments conducted by the banking entity that are subject to section 13 of the BHC Act and this part comply with section 13 of the BHC Act and this part;
+(1) Written policies and procedures reasonably designed to document, describe, monitor and limit trading activities subject to subpart B (including those permitted under §§ 248.3 to 248.6 of subpart B), including setting, monitoring and managing required limits set out in §§ 2484 and 248.5, and activities and investments with respect to a covered fund subject to subpart C (including those permitted under §§ 248.11 through 248.14 of subpart C) conducted by the banking entity to ensure that all activities and investments conducted by the banking entity that are subject to section 13 of the BHC Act and this part comply with section 13 of the BHC Act and this part;
 
 (2) A system of internal controls reasonably designed to monitor compliance with section 13 of the BHC Act and this part and to prevent the occurrence of activities or investments that are prohibited by section 13 of the BHC Act and this part;
 

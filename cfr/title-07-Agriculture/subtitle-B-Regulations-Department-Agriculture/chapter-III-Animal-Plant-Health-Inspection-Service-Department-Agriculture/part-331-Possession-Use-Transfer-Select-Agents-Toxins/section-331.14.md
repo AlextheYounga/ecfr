@@ -1,10 +1,8 @@
 ##### § 331.14 Incident response.5 #####
 
-Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 5 Nothing in this section is meant to supersede or preempt incident response requirements imposed by other statutes or regulations.
 
-(a) An individual or entity required to register under this part must develop and implement a written incident response plan6 based upon a site specific risk assessment. The incident response plan must be coordinated with any entity-wide plans, kept in the workplace, and available to employees for review.
+(a) An individual or entity required to register under this part must develop and implement a written incident response plan6 based upon a site specific risk assessment. The incident response plan must be coordinated with any entity-wide plans, kept in the workplace, and available to employees for review. The current incident response plan must be submitted for initial registration, renewal of registration, or when requested.
 
 6 Technical assistance and guidance may be obtained by contacting APHIS.
 
@@ -40,6 +38,6 @@ Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was d
 
 (e) [Reserved]
 
-(f) The plan must be reviewed annually and revised as necessary. Drills or exercises must be conducted at least annually to test and evaluate the effectiveness of the plan. The plan must be reviewed and revised, as necessary, after any drill or exercise and after any incident.
+(f) The plan must be reviewed annually and revised as necessary. Drills or exercises must be conducted at least annually to test and evaluate the effectiveness of the plan. The plan must be reviewed and revised, as necessary, after any drill or exercise and after any incident. Drills or exercises must be documented to include how the drill or exercise tested and evaluated the plan, any problems that were identified and corrective action(s) taken, and the names of registered entity personnel participants.
 
-[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61076, Oct. 5, 2012]
+[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61076, Oct. 5, 2012; 82 FR 6206, Jan. 19, 2017]

@@ -1,15 +1,15 @@
 ##### § 416.919i Other sources for consultative examinations. #####
 
-Link to an amendment published at 82 FR 5877, Jan. 18, 2017.
+We will use a different medical source than your medical source for a purchased examination or test in situations including, but not limited to, the following:
 
-We will use a medical source other than your treating source for a purchased examination or test in situations including, but not limited to, the following situations:
+(a) Your medical source prefers not to perform such an examination or does not have the equipment to provide the specific data needed;
 
-(a) Your treating source prefers not to perform such an examination or does not have the equipment to provide the specific data needed;
+(b) There are conflicts or inconsistencies in your file that cannot be resolved by going back to your medical source;
 
-(b) There are conflicts or inconsistencies in your file that cannot be resolved by going back to your treating source;
+(c) You prefer a source other than your medical source and have a good reason for your preference;
 
-(c) You prefer a source other than your treating source and have a good reason for your preference;
+(d) We know from prior experience that your medical source may not be a productive source, such as when he or she has consistently failed to provide complete or timely reports; or
 
-(d) We know from prior experience that your treating source may not be a productive source, e.g., he or she has consistently failed to provide complete or timely reports.
+(e) Your medical source is not a qualified medical source as defined in § 416.919g.
 
-[65 FR 11879, Mar. 7, 2000]
+[82 FR 5877, Jan, 18, 2017]

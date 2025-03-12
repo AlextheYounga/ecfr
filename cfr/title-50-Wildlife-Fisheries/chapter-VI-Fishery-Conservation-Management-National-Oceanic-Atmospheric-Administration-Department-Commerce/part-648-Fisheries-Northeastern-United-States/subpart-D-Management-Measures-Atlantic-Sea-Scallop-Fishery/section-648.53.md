@@ -1,4 +1,4 @@
-##### § 648.53 Overfishing limit (OFL), acceptable biological catch (ABC), annual catch limits (ACL), annual catch targets (ACT), DAS allocations, and individual fishing quotas (IFQ). #####
+##### § 648.53 Overfishing limit (OFL), acceptable biological catch (ABC), annual catch limits (ACL), annual catch targets (ACT), annual projected landings (APL), DAS allocations, and individual fishing quotas (IFQ). #####
 
 (a) The following determinations and allocations for the sea scallop rotational areas are defined as follows and shall be established through the specifications or framework adjustment process:
 
@@ -6,7 +6,9 @@
 
 (2) The specification of ABC, ACL, and ACT shall be based upon the following overfishing definition: The F shall be set so that in access areas, averaged for all years combined over the period of time that the area is closed and open to scallop fishing as an access area, it does not exceed the established F threshold for the scallop fishery; in open areas it shall not exceed the F threshold for the scallop fishery; and for access and open areas combined, it is set at a level that has a 75-percent probability of remaining below the F associated with ABC, as defined in paragraph (a)(3) of this section, taking into account all sources of fishing mortality in the limited access and LAGC fleets of the scallop fishery.
 
-(3) *Overall ABC/ACL.* The overall ABC for sea scallop fishery shall be the catch level that has an associated F that has a 75-percent probability of remaining below the F associated with OFL. The overall ACL shall be equal to the ABC for the scallop fishery, minus discards (an estimate of both incidental and discard mortality). The ABC/ACL, after the discards and deductions specified in paragraph (a)(4) of this section are removed, shall be divided as sub-ACLs between limited access vessels, limited access vessels that are fishing under a LAGC permit, and LAGC vessels as defined in paragraphs (a)(5) and (6) of this section, after the deductions outlined in paragraph (a)(4) of this section.
+(3) *Overall ABC/ACL and APL* - (i) *Overall ABC/ACL.* The overall ABC for sea scallop fishery shall be the catch level that has an associated F that has a 75-percent probability of remaining below the F associated with OFL. The overall ACL shall be equal to the ABC for the scallop fishery, minus discards (an estimate of both incidental and discard mortality). The ABC/ACL, after the discards and deductions specified in paragraph (a)(4) of this section are removed, shall be divided as sub-ACLs between limited access vessels, limited access vessels that are fishing under a LAGC permit, and LAGC vessels as defined in paragraphs (a)(5) and (6) of this section, after the deductions outlined in paragraph (a)(4) of this section.
+
+(ii) *APL.* The APL shall be equal to the combined projected landings by the limited access and LAGC IFQ fleets in both the open area and access areas, after set-asides (RSA and observer) and incidental landings are accounted for, for a given fishing year. Projected scallop landings are calculated by estimating the landings that will come from open and access area effort combined for both limited access and LAGC IFQ fleets. These projected landings shall not exceed the overall ABC/ACL and ACT, as described in paragraph (a) of this section.
 
 (4) *Deductions from ABC/ACL.* Incidental catch, as defined in paragraph (a)(7) of this section, shall be removed from ABC/ACL. One percent of ABC/ACL shall be removed from ABC/ACL for observer set-aside. Scallop catch equal to the value specified in § 648.56(d) shall be removed from ABC/ACL for research set-aside. These deductions for incidental catch, observer set-aside, and research set-aside, shall be made prior to establishing sub-ACLs for the limited access and LAGC fleets, as specified in paragraphs (a)(5) and (6) of this section.
 
@@ -14,31 +16,40 @@
 
 (ii) *Limited access fleet sub-ACT.* The ACT for the limited access fishery shall be set at a level that has an associated F with a 75-percent probability of remaining below the F associated with ABC/ACL.
 
-(6) *LAGC IFQ fleet sub-ACL and sub-ACT* - (i) *LAGC IFQ fleet sub-ACL.* After applying the deductions as specified in paragraph (a)(4) of this section, the LAGC IFQ fleet shall be allocated a sub-ACL equal to 5.5 percent of the ABC/ACL, so that 5 percent of ABC/ACL is allocated to the LAGC fleet of vessels that do not also have a limited access scallop permit, and 0.5 percent of the ABC/ACL is allocated to the LAGC fleet of vessels that have limited access scallop permits. This specification of sub-ACLs shall not account for catch reductions associated with the application of AMs or adjustment of the sub-ACL as a result of the limited access AM exception as specified in paragraph (c)(1) of this section.
+(6) *LAGC IFQ fleet sub-ACL, sub-ACT, and annual allocation* - (i) *LAGC IFQ fleet sub-ACL.* After applying the deductions as specified in paragraph (a)(4) of this section, the LAGC IFQ fleet shall be allocated a sub-ACL equal to 5.5 percent of the ABC/ACL, so that 5 percent of ABC/ACL is allocated to the LAGC fleet of vessels that do not also have a limited access scallop permit, and 0.5 percent of the ABC/ACL is allocated to the LAGC fleet of vessels that have limited access scallop permits. This specification of sub-ACLs shall not account for catch reductions associated with the application of AMs or adjustment of the sub-ACL as a result of the limited access AM exception as specified in paragraph (c)(1) of this section.
 
 (ii) *LAGC IFQ fleet sub-ACT.* The LAGC IFQ fishery sub-ACT shall be equal to the LAGC IFQ fishery's sub-ACL. The sub-ACT for the LAGC IFQ fishery for vessels issued only a LAGC IFQ scallop permit shall be equal to 5 percent of the ABC/ACL specified in paragraph (a)(3) of this section, after applying the deductions as specified in paragraph (a)(4) of this section. The sub-ACT for the LAGC IFQ fishery for vessels issued both a LAGC IFQ scallop permit and a limited access scallop permit shall be 0.5 percent of the ACL specified in paragraph (a)(3) of this section, after applying the deductions as specified in paragraph (a)(4) of this section.
 
+(iii) *LAGC IFQ fleet annual allocation.* The annual allocation for the LAGC IFQ fishery for vessels issued only a LAGC IFQ scallop permit shall be equal to 5 percent of the APL. The annual allocation for the LAGC IFQ fishery for vessels issued both a LAGC IFQ scallop permit and a limited access scallop permit shall be 0.5 percent of the APL.
+
 (7) *Scallop incidental catch target TAC.* The annual incidental catch target TAC is the catch available for harvest for vessels with incidental catch scallop permits. This incidental catch target will be removed from the ABC/ACL defined in paragraph (a)(3) of this section prior to establishing the limited access and LAGC IFQ sub-ACLs and sub-ACTs defined in paragraphs (a)(5) and (6) of this section.
 
-(8) The following catch limits will be effective for the 2016 and 2017 fishing years:
+(8) The following catch limits will be effective for the 2017 and 2018 fishing years:
 
 Scallop Fishery Catch Limits
 
-|                   Catch limits                   |2016  <br/>(mt)|2017  <br/>(mt) \*|
-|--------------------------------------------------|---------------|------------------|
-|                Overfishing Limit                 |    68,418     |      68,418      |
-|Acceptable Biological Catch/ACL (discards removed)|    37,852     |      37,852      |
-|                 Incidental Catch                 |      23       |        23        |
-|             Research Set-Aside (RSA)             |      567      |       567        |
-|                Observer Set-Aside                |      379      |       379        |
-|                 ACL for fishery                  |    36,884     |      36,884      |
-|                Limited Access ACL                |    34,855     |      34,855      |
-|                     LAGC ACL                     |     2,029     |      2,029       |
-|                     LAGC IFQ                     |     1,845     |      1,845       |
-|           Limited Access with LAGC IFQ           |      184      |       184        |
-|                Limited Access ACT                |    18,290     |      18,290      |
+|                        Catch limits                        |2017  <br/>(mt)|2018  <br/>(mt)<sup>1</sup>|
+|------------------------------------------------------------|---------------|---------------------------|
+|                     Overfishing Limit                      |    75,485     |          69,678           |
+|     Acceptable Biological Catch/ACL (discards removed)     |    46,737     |          43,142           |
+|                      Incidental Catch                      |      23       |            23             |
+|                  Research Set-Aside (RSA)                  |      567      |            567            |
+|                     Observer Set-Aside                     |      467      |            431            |
+|                      ACL for fishery                       |    45,680     |          42,121           |
+|                     Limited Access ACL                     |    43,167     |          39,804           |
+|                       LAGC Total ACL                       |     2,512     |           2,317           |
+|                  LAGC IFQ ACL (5% of ACL)                  |     2,284     |           2,106           |
+|       Limited Access with LAGC IFQ ACL (0.5% of ACL)       |      228      |            211            |
+|                     Limited Access ACT                     |    38,623     |          35,614           |
+|                            APL                             |    20,516     |      (<sup>1</sup>)       |
+|      Limited Access Projected Landings (94.5% of APL)      |    19,388     |      (<sup>1</sup>)       |
+|         Total IFQ Annual Allocation (5.5% of APL)          |     1,129     |     <sup>2</sup> 846      |
+|           LAGC IFQ Annual Allocation (5% of APL)           |     1,026     |     <sup>2</sup> 769      |
+|Limited Access with LAGC IFQ Annual Allocation (0.5% of APL)|      103      |      <sup>2</sup> 77      |
 
-\* The catch limits for the 2017 fishing year are subject to change through a future specifications action or framework adjustment.
+<sup>1</sup> The catch limits for the 2018 fishing year are subject to change through a future specifications action or framework adjustment. This includes the setting of an APL for 2018 that will be based on the 2017 annual scallop surveys. The 2018 default allocations for the limited access component are defined for DAS in paragraph (b)(3) of this section and for access areas in § 648.59(b)(3)(i)(B).
+
+<sup>2</sup> As a precautionary measure, the 2018 IFQ annual allocations are set at 75% of the 2017 IFQ Annual Allocations.
 
 (b) *DAS specifications and allocations.* DAS specifications and allocations for limited access scallop trips in open areas are defined as follows and shall be specified through the specifications or framework adjustment processes defined in § 648.55, as follows:
 
@@ -48,17 +59,17 @@ Scallop Fishery Catch Limits
 
 (ii) Subject to the vessel permit application requirements specified in § 648.4, for each fishing year, each vessel issued a limited access scallop permit shall be assigned to the DAS category (full-time, part-time, or occasional) it was assigned to in the preceding year, except as provided under the small dredge program specified in § 648.51(e).
 
-(3) The DAS allocations for limited access scallop vessels for fishing years 2016 and 2017 are as follows:
+(3) The DAS allocations for limited access scallop vessels for fishing years 2017 and 2018 are as follows:
 
 Scallop Open Area DAS Allocations
 
-|Permit  <br/>category|2016 |2017 \*|
-|---------------------|-----|-------|
-|      Full-Time      |34.55| 34.55 |
-|      Part-Time      |13.82| 13.82 |
-|     Occasional      |2.88 | 2.88  |
+|Permit category|2017 |2018<sup>1</sup>|
+|---------------|-----|----------------|
+|   Full-Time   |30.41|     21.75      |
+|   Part-Time   |12.16|      8.69      |
+|  Occasional   |2.54 |      1.91      |
 
-\* The DAS allocations for the 2017 fishing year are subject to change through a future specifications action or framework adjustment.
+<sup>1</sup> The DAS allocations for the 2018 fishing year are subject to change through a future specifications action or framework adjustment. The 2018 DAS allocations are set at 75% of the 2017 allocation as a precautionary measure.
 
 (c) *Accountability measures (AM) for limited access vessels.* Unless the limited access AM exception is implemented in accordance with the provision specified in paragraph (c)(1) of this section, if the limited access sub-ACL defined in paragraph (a)(5) of this section is exceeded for the applicable fishing year, the DAS for each limited access vessel shall be reduced by an amount equal to the amount of landings in excess of the sub-ACL divided by the applicable LPUE for the fishing year in which the AM will apply as projected by the specifications or framework adjustment process specified in § 648.55, then divided by the number of scallop vessels eligible to be issued a full-time limited access scallop permit. For example, assuming a 300,000-lb (136-mt) overage of the limited access fishery's sub-ACL in 2011, an open area LPUE of 2,500 lb (1.13 mt) per DAS in 2012, and 313 full-time vessels, each full-time vessel's DAS for 2012 would be reduced by 0.38 DAS (300,000 lb (136 mt)/2,500 lb (1.13 mt) per DAS = 120 lb (0.05 mt) per DAS/313 vessels = 0.38 DAS per vessel). Deductions in DAS for part-time and occasional scallop vessels shall be 40 percent and 8.33 percent of the full-time DAS deduction, respectively, as calculated pursuant to paragraph (b)(2) of this section. The AM shall take effect in the fishing year following the fishing year in which the overage occurred. For example, landings in excess of the limited access fishery's sub-ACL in fishing year 2011 would result in the DAS reduction AM in fishing year 2012. If the AM takes effect, and a limited access vessel uses more open area DAS in the fishing year in which the AM is applied, the vessel shall have the DAS used in excess of the allocation after applying the AM deducted from its open area DAS allocation in the subsequent fishing year. For example, a vessel initially allocated 32 DAS in 2011 uses all 32 DAS prior to application of the AM. If, after application of the AM, the vessel's DAS allocation is reduced to 31 DAS, the vessel's DAS in 2012 would be reduced by 1 DAS.
 
@@ -104,11 +115,11 @@ Scallop Open Area DAS Allocations
 
 (3) *DAS set-aside for observer coverage.* A limited access scallop vessel carrying an observer in open areas shall be compensated with reduced DAS accrual rates for each trip on which the vessel carries an observer. For each DAS that a vessel fishes for scallops with an observer on board, the DAS shall be charged at a reduced rate, based on an adjustment factor determined by the Regional Administrator on an annual basis, dependent on the cost of observers, catch rates, and amount of available set-aside. The Regional Administrator shall notify vessel owners of the cost of observers and the DAS adjustment factor through a permit holder letter issued prior to the start of each fishing year. This DAS adjustment factor may also be changed during the fishing year if fishery conditions warrant such a change. The number of DAS that are deducted from each trip based on the adjustment factor shall be deducted from the observer set-aside amount in the applicable fishing year.
 
-(h) *Annual Individual fishing quotas* - (1) *IFQ restriction.* For each fishing year of the IFQ program, a vessel issued an IFQ scallop permit may only harvest and land the total amount of scallop meats allocated in accordance with this subpart. Unless otherwise specified in this part, a vessel allocated scallop IFQ may not exceed the possession limits specified in § 648.52 on any trip.
+(h) *Annual IFQs* - (1) *IFQ restriction.* For each fishing year of the IFQ program, a vessel issued an IFQ scallop permit may only harvest and land the total amount of scallop meats allocated in accordance with this subpart. Unless otherwise specified in this part, a vessel allocated scallop IFQ may not exceed the possession limits specified in § 648.52 on any trip.
 
-(2) *Calculation of IFQ.* The ACL allocated to IFQ scallop vessels, and the ACL allocated to limited access scallop vessels issued IFQ scallop permits, as defined in paragraph (a)(4) of this section, shall be used to determine the IFQ of each vessel issued an IFQ scallop permit. Each fishing year, the Regional Administrator shall provide the owner of a vessel issued an IFQ scallop permit issued pursuant to § 648.4(a)(2)(ii) with the scallop IFQ for the vessel for the upcoming fishing year.
+(2) *Calculation of IFQ.* The LAGC IFQ fleet annual allocation as defined in paragraph (a)(6)(iii) of this section, shall be used to determine the IFQ of each vessel issued an IFQ scallop permit. Each fishing year, the Regional Administrator shall provide the owner of a vessel issued an IFQ scallop permit issued pursuant to § 648.4(a)(2)(ii) with the scallop IFQ for the vessel for the upcoming fishing year.
 
-(i) *Individual fishing quota.* The IFQ for an IFQ scallop vessel shall be the vessel's contribution percentage as specified in paragraph (h)(2)(iii) of this section and determined using the steps specified in paragraphs (h)(2)(ii) of this section, multiplied by the ACL allocated to the IFQ scallop fishery, or limited access vessels issued an IFQ scallop permit, as defined in paragraph (a)(4) of this section.
+(i) *IFQ.* The IFQ for an IFQ scallop vessel shall be the vessel's contribution percentage as specified in paragraph (h)(2)(iii) of this section and determined using the steps specified in paragraph (h)(2)(ii) of this section, multiplied by the LAGC IFQ fleet annual allocation as defined in paragraph (a)(6)(iii) of this section.
 
 (ii) *Contribution factor.* An IFQ scallop vessel's contribution factor is calculated using the best year, years active, and index factor as specified in paragraphs (h)(2)(ii)(A) through (C) of this section. A vessel's contribution factor shall be provided to the owner of a qualified limited access general category vessel following initial application for an IFQ scallop permit as specified in § 648.4(a)(2)(ii)(E), consistent with confidentiality restrictions of the Magnuson-Stevens Act specified at 16 U.S.C. 1881a.
 
@@ -176,4 +187,4 @@ Scallop Open Area DAS Allocations
 
 (C) *Denial of transfer application.* The Regional Administrator may reject an application to transfer IFQ for any of the following reasons: The application is incomplete; the transferor or transferee does not possess a valid limited access general category permit; the transferor's or transferee's vessel or IFQ scallop permit has been sanctioned, pursuant to a final administrative decision or settlement of an enforcement proceeding; the transfer will result in the transferee's vessel having an allocation that exceeds 2.5 percent of the ACL allocated to IFQ scallop vessels; the transfer will result in the transferee having a total ownership of, or interest in, a general category scallop allocation that exceeds 5 percent of the ACL allocated to IFQ scallop vessels; or any other failure to meet the requirements of the regulations in 50 CFR part 648. Upon denial of an application to transfer IFQ, the Regional Administrator shall send a letter to the applicants describing the reason(s) for the rejection. The decision by the Regional Administrator is the final agency decision, and there is no opportunity to appeal the Regional Administrator's decision. An application that was denied can be resubmitted if the discrepancy(ies) that resulted in denial are resolved.
 
-[73 FR 20123, Apr. 14, 2008, as amended at 73 FR 30804, May 29, 2008; 74 FR 20555, May 4, 2008; 75 FR 36570, June 28, 2010; 76 FR 43763, 43786, July 21, 2011; 77 FR 16946, Mar. 23, 2012; 77 FR 20739, Apr. 6, 2012; 78 FR 27100, May 9, 2013; 78 FR 42891, July 18, 2013; 79 FR 34260, June 16, 2014; 80 FR 22129, Apr. 21, 2015; 81 FR 26735, May 4, 2016; 81 FR 76521, Nov. 3, 2016]
+[73 FR 20123, Apr. 14, 2008, as amended at 73 FR 30804, May 29, 2008; 74 FR 20555, May 4, 2008; 75 FR 36570, June 28, 2010; 76 FR 43763, 43786, July 21, 2011; 77 FR 16946, Mar. 23, 2012; 77 FR 20739, Apr. 6, 2012; 78 FR 27100, May 9, 2013; 78 FR 42891, July 18, 2013; 79 FR 34260, June 16, 2014; 80 FR 22129, Apr. 21, 2015; 81 FR 26735, May 4, 2016; 81 FR 76521, Nov. 3, 2016; 81 FR 15161, Mar. 27, 2017]

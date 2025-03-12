@@ -1,20 +1,18 @@
 ##### § 416.919n Informing the medical source of examination scheduling, report content, and signature requirements. #####
 
-Link to an amendment published at 82 FR 5877, Jan. 18, 2017.
-
 The medical sources who perform consultative examinations will have a good understanding of our disability programs and their evidentiary requirements. They will be made fully aware of their responsibilities and obligations regarding confidentiality as described in § 401.105(e). We will fully inform medical sources who perform consultative examinations at the time we first contact them, and at subsequent appropriate intervals, of the following obligations:
 
 (a) *Scheduling.* In scheduling full consultative examinations, sufficient time should be allowed to permit the medical source to take a case history and perform the examination, including any needed tests. The following minimum scheduling intervals (*i.e.*, time set aside for the individual, not the actual duration of the consultative examination) should be used.
 
-(1) Comprehensive general medical examination - at least 30 minutes;
+(1) Comprehensive general medical examination—at least 30 minutes;
 
-(2) Comprehensive musculoskeletal or neurological examination - at least 20 minutes;
+(2) Comprehensive musculoskeletal or neurological examination—at least 20 minutes;
 
-(3) Comprehensive psychiatric examination - at least 40 minutes;
+(3) Comprehensive psychiatric examination—at least 40 minutes;
 
-(4) Psychological examination - at least 60 minutes (Additional time may be required depending on types of psychological tests administered); and
+(4) Psychological examination—at least 60 minutes (Additional time may be required depending on types of psychological tests administered); and
 
-(5) All others - at least 30 minutes, or in accordance with accepted medical practices.
+(5) All others—at least 30 minutes, or in accordance with accepted medical practices.
 
 We recognize that actual practice will dictate that some examinations may require longer scheduling intervals depending on the circumstances in a particular situation. We also recognize that these minimum intervals may have to be adjusted to allow for those claimants that do not attend their scheduled examination. The purpose of these minimum scheduling timeframes is to ensure that such examinations are complete and that sufficient time is made available to obtain the information needed to make an accurate determination in your case. State agencies will monitor the scheduling of examinations (through their normal consultative examination oversight activities) to ensure that any overscheduling is avoided, as overscheduling may lead to examinations that are not thorough.
 
@@ -32,7 +30,7 @@ We recognize that actual practice will dictate that some examinations may requir
 
 (5) The diagnosis and prognosis for your impairment(s);
 
-(6) A statement about what you can still do despite your impairment(s), unless the claim is based on statutory blindness. If you are an adult, this statement should describe the opinion of the medical source about your ability, despite your impairment(s), to do work-related activities, such as sitting, standing, walking, lifting, carrying, handling objects, hearing, speaking, and traveling; and, in cases of mental impairment(s), the opinion of the medical source about your ability to understand, to carry out and remember instructions, and to respond appropriately to supervision, coworkers and work pressures in a work setting. If you are a child, this statement should describe the opinion of the medical source about your functional limitations compared to children your age who do not have impairments in acquiring and using information, attending and completing tasks, interacting and relating with others, moving about and manipulating objects, caring for yourself, and health and physical well-being. Although we will ordinarily request, as part of the consultative examination process, a medical source statement about what you can still do despite your impairment(s), the absence of such a statement in a consultative examination report will not make the report incomplete. See § 416.927; and
+(6) A medical opinion. Although we will ordinarily request a medical opinion as part of the consultative examination process, the absence of a medical opinion in a consultative examination report will not make the report incomplete. See § 416.913(a)(3); and
 
 (7) In addition, the medical source will consider, and provide some explanation or comment on, your major complaint(s) and any other abnormalities found during the history and examination or reported from the laboratory tests. The history, examination, evaluation of laboratory test results, and the conclusions will represent the information provided by the medical source who signs the report.
 
@@ -40,4 +38,4 @@ We recognize that actual practice will dictate that some examinations may requir
 
 (e) *Signature requirements.* All consultative examination reports will be personally reviewed and signed by the medical source who actually performed the examination. This attests to the fact that the medical source doing the examination or testing is solely responsible for the report contents and for the conclusions, explanations or comments provided with respect to the history, examination and evaluation of laboratory test results. The signature of the medical source on a report annotated “not proofed” or “dictated but not read” is not acceptable. A rubber stamp signature of a medical source or the medical source's signature entered by any other person is not acceptable.
 
-[56 FR 36966, Aug. 1, 1991, as amended at 62 FR 6421, Feb. 11, 1997; 62 FR 13733, Mar. 21, 1997; 65 FR 11879, Mar. 7, 2000; 65 FR 54778, Sept. 11, 2000]
+[56 FR 36966, Aug. 1, 1991, as amended at 62 FR 6421, Feb. 11, 1997; 62 FR 13733, Mar. 21, 1997; 65 FR 11879, Mar. 7, 2000; 65 FR 54778, Sept. 11, 2000; 82 FR 5877, Jan. 18, 2017]

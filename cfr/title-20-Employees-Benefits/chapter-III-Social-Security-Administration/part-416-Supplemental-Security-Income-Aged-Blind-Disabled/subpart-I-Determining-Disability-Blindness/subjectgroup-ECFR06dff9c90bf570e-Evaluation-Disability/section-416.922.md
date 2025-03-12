@@ -1,9 +1,19 @@
-##### § 416.922 When you have two or more unrelated impairments - initial claims. #####
+##### § 416.922 What we mean by an impairment(s) that is not severe in an adult. #####
 
-Link to an amendment published at 82 FR 5879, Jan. 18, 2017.
+(a) *Non-severe impairment(s).* An impairment or combination of impairments is not severe if it does not significantly limit your physical or mental ability to do basic work activities.
 
-(a) *Unrelated severe impairments.* We cannot combine two or more unrelated severe impairments to meet the 12-month duration test. If you have a severe impairment(s) and then develop another unrelated severe impairment(s) but neither one is expected to last for 12 months, we cannot find you disabled, even though the two impairments in combination last for 12 months.
+(b) *Basic work activities.* When we talk about basic work activities, we mean the abilities and aptitudes necessary to do most jobs. Examples of these include—
 
-(b) *Concurrent impairments.* If you have two or more concurrent impairments which, when considered in combination, are severe, we must also determine whether the combined effect of your impairments can be expected to continue to be severe for 12 months. If one or more of your impairments improves or is expected to improve within 12 months, so that the combined effect of your remaining impairments is no longer severe, we will find that you do not meet the 12-month duration test.
+(1) Physical functions such as walking, standing, sitting, lifting, pushing, pulling, reaching, carrying, or handling;
 
-[50 FR 8729, Mar. 5, 1985]
+(2) Capacities for seeing, hearing, and speaking;
+
+(3) Understanding, carrying out, and remembering simple instructions;
+
+(4) Use of judgment;
+
+(5) Responding appropriately to supervision, co-workers and usual work situations; and
+
+(6) Dealing with changes in a routine work setting.
+
+[82 FR 5879, Jan. 18, 2017]

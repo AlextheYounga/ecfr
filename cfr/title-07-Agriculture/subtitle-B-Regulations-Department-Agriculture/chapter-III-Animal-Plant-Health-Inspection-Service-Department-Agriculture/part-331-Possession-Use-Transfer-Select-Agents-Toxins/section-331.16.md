@@ -1,12 +1,10 @@
 ##### § 331.16 Transfers. #####
 
-Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 (a) Except as provided in paragraph (c) of this section, a select agent or toxin may only be transferred to an individual or entity registered to possess, use, or transfer that agent or toxin. A select agent or toxin may only be transferred under the conditions of this section and must be authorized by APHIS or CDC prior to the transfer.7
 
 7 The requirements of this section do not apply to transfers within a registered entity (*i.e.*, the sender and the recipient are covered by the same certificate of registration).
 
-(b) In addition to any permit required under part 330 of this chapter, a transfer may be authorized if:
+(b) A transfer may be authorized if:
 
 (1) The sender:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 82 FR 6206, Jan. 19, 2017.This amendment was d
 
 (j) An authorization for a transfer shall be valid only for 30 calendar days after issuance, except that such an authorization becomes immediately null and void if any facts supporting the authorization change (*e.g.*, change in the certificate of registration for the sender or recipient, change in the application for transfer).
 
-[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61077, Oct. 5, 2012]
+[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61077, Oct. 5, 2012; 82 FR 6206, Jan. 19, 2017]

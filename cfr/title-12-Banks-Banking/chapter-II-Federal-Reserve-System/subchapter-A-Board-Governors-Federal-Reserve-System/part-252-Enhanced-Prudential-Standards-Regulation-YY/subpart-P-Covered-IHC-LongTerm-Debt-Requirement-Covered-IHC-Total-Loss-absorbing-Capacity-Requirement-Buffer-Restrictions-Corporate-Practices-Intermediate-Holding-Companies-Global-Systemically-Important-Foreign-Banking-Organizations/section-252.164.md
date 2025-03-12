@@ -1,0 +1,15 @@
+##### § 252.164 Identification as a resolution Covered IHC or a non-resolution Covered IHC. #####
+
+(a) *Initial certification.* The top-tier global systemically important foreign banking organization with U.S. non-branch assets that equal or exceed $50 billion must certify to the Board on the later of June 30, 2017, or one year prior to the date on which a Covered IHC becomes subject to the requirements of this subpart pursuant to § 252.160(b) whether the planned resolution strategy of the top-tier foreign banking organization involves the Covered IHC or the subsidiaries of the Covered IHC entering resolution, receivership, insolvency, or similar proceedings in the United States.
+
+(b) *Certification update.* The top-tier global systemically important foreign banking organization with U.S. non-branch assets that equal or exceed $50 billion must provide an updated certification to the Board upon a change in the resolution strategy described in the certification provided pursuant to paragraph (a) of this section.
+
+(c) *Identification of a resolution Covered IHC.* A Covered IHC is a resolution Covered IHC if the most recent certification provided pursuant to paragraphs (a) and (b) of this section indicates that the top-tier foreign banking organization's planned resolution strategy involves the Covered IHC or the subsidiaries of the Covered IHC entering resolution, receivership, insolvency, or similar proceedings in the United States.
+
+(d) *Identification of a non-resolution Covered IHC.* A Covered IHC is a non-resolution Covered IHC if the most recent certification provided pursuant to paragraphs (a) and (b) of this section indicates that the top-tier foreign banking organization's planned resolution strategy involves neither the Covered IHC nor the subsidiaries of the Covered IHC entering resolution, receivership, insolvency, or similar proceedings in the United States.
+
+(e) *Board determination.* The Board may determine in its discretion that a non-resolution Covered IHC identified pursuant to paragraph (d) of this section is a resolution Covered IHC, or that a resolution Covered IHC identified pursuant to paragraph (c) of this section is a non-resolution Covered IHC.
+
+(f) *Transition.* (1) A Covered IHC identified as a resolution Covered IHC pursuant to paragraph (b) of this section or determined by the Board to be a resolution Covered IHC pursuant to paragraph (e) of this section must comply with the requirements in this subpart applicable to a resolution Covered IHC within 365 days (one year) after such identification or determination, unless such time period is extended by the Board in its discretion.
+
+(2) A Covered IHC identified as a non-resolution Covered IHC pursuant to paragraph (b) of this section or determined by the Board to be a non-resolution Covered IHC pursuant to paragraph (e) of this section must comply with the requirements in this subpart applicable to a non-resolution Covered IHC 365 days (one year) after such identification or determination, unless such time period is extended by the Board in its discretion.

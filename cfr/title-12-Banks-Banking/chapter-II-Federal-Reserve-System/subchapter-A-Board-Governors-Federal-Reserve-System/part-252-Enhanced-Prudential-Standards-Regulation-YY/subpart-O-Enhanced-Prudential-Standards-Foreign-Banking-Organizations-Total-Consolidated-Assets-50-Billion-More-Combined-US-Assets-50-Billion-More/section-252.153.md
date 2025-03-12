@@ -1,7 +1,5 @@
 ##### § 252.153 U.S. intermediate holding company requirement for foreign banking organizations with U.S. non-branch assets of $50 billion or more. #####
 
-Link to an amendment published at 82 FR 8310, Jan. 24, 2017.
-
 (a) *Requirement to form a U.S. intermediate holding company.* (1) A foreign banking organization with U.S. non-branch assets of $50 billion or more must establish a U.S. intermediate holding company, or designate an existing subsidiary that meets the requirements of paragraph (a)(2) of this section, as its U.S. intermediate holding company.
 
 (2) The U.S. intermediate holding company must be:
@@ -23,6 +21,26 @@ Link to an amendment published at 82 FR 8310, Jan. 24, 2017.
 (2) *Reporting.* Each U.S. intermediate holding company shall submit information in the manner and form prescribed by the Board.
 
 (3) *Examinations and inspections.* The Board may examine or inspect any U.S. intermediate holding company and each of its subsidiaries and prepare a report of their operations and activities.
+
+(4) For purposes of this part, a top-tier foreign banking organization with U.S. non-branch assets that equal or exceed $50 billion is a global systemically important foreign banking organization if any of the following conditions are met:
+
+(i) The top-tier foreign banking organization determines, pursuant to paragraph (b)(6) of this section, that the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology; or
+
+(ii) The Board, using information available to the Board, determines:
+
+(A) That the top-tier foreign banking organization would be a global systemically important banking organization under the global methodology;
+
+(B) That the top-tier foreign banking organization, if it were subject to the Board's Regulation Q, would be identified as a global systemically important BHC under 12 CFR 217.402 of the Board's Regulation Q; or
+
+(C) That the U.S. intermediate holding company, if it were subject to 12 CFR 217.402 of the Board's Regulation Q, would be identified as a global systemically important BHC.
+
+(5) Each top-tier foreign banking organization that controls a U.S. intermediate holding company shall submit to the Board by January 1 of each calendar year through the U.S. intermediate holding company:
+
+(i) Notice of whether the home country supervisor (or other appropriate home country regulatory authority) of the top-tier foreign banking organization of the U.S. intermediate holding company has adopted standards consistent with the global methodology; and
+
+(ii) Notice of whether the top-tier foreign banking organization prepares or reports the indicators used by the global methodology to identify a banking organization as a global systemically important banking organization and, if it does, whether the top-tier foreign banking organization has determined that it has the characteristics of a global systemically important banking organization under the global methodology pursuant to paragraph (b)(6) of this section.
+
+(6) A top-tier foreign banking organization that controls a U.S. intermediate holding company and prepares or reports for any purpose the indicator amounts necessary to determine whether the top-tier foreign banking organization is a global systemically important banking organization under the global methodology must use the data to determine whether the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology.
 
 (c) *Alternative organizational structure* - (1) *General.* Upon a written request by a foreign banking organization, the Board may permit the foreign banking organization: to establish or designate multiple U.S. intermediate holding companies; use an alternative organizational structure to hold its combined U.S. operations; or not transfer its ownership interests in certain subsidiaries to its U.S. intermediate holding company.
 
@@ -110,4 +128,4 @@ Link to an amendment published at 82 FR 8310, Jan. 24, 2017.
 
 (5) *Stress test requirements.* A U.S. intermediate holding company must comply with the requirements of subparts E and F of this part in the same manner as a bank holding company.
 
-[Reg. YY, 79 FR 17326, Mar. 27, 2014, as amended at 79 FR 64055, Oct. 27, 2014; 80 FR 70673, Nov. 16, 2015]
+[Reg. YY, 79 FR 17326, Mar. 27, 2014, as amended at 79 FR 64055, Oct. 27, 2014; 80 FR 70673, Nov. 16, 2015; 82 FR 8310, Jan. 24, 2017]

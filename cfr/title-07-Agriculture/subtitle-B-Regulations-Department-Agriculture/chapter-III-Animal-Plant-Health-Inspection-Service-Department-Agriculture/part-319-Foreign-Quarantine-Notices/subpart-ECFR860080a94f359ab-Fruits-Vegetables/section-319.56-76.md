@@ -50,4 +50,4 @@ Fresh lemons (*Citrus limon* (L.) Burm. f.) may be imported into the continental
 
 (d) *Port of entry requirements.* Consignments of lemons from Argentina will be inspected at the port of entry into the United States. If any quarantine pests are discovered on the lemons during inspection, the entire lot in which the quarantine pest was discovered will be subject to appropriate remedial measures to address this risk.
 
-(Approved by the Office of Management and Budget under control number 0579-0448)[81 FR 94228, Dec. 23, 2016]Editorial Note:At 82 FR 8359, Jan. 25, 2017, § 319.56-76 was added, however, this section has been stayed until March, 27, 2017.
+(Approved by the Office of Management and Budget under control number 0579-0448)[81 FR 94228, Dec. 23, 2016]Editorial Note:At 82 FR 8359, Jan. 25, 2017, § 319.56-76 was added, however, this section has been stayed until March, 27, 2017. At 82 FR 14987, Mar. 24, 2017, the stay for §319.56-76 has been extended until May 26, 2017.

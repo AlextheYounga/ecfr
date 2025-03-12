@@ -1,8 +1,6 @@
 ##### § 404.1530 Need to follow prescribed treatment. #####
 
-Link to an amendment published at 82 FR 5871, Jan. 18, 2017.
-
-(a) *What treatment you must follow.* In order to get benefits, you must follow treatment prescribed by your physician if this treatment can restore your ability to work.
+(a) *What treatment you must follow.* In order to get benefits, you must follow treatment prescribed by your medical source(s) if this treatment is expected to restore your ability to work.
 
 (b) *When you do not follow prescribed treatment.* If you do not follow the prescribed treatment without a good reason, we will not find you disabled or, if you are already receiving benefits, we will stop paying you benefits.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 82 FR 5871, Jan. 18, 2017.
 
 (5) The treatment involves amputation of an extremity, or a major part of an extremity.
 
-[45 FR 55584, Aug. 20, 1980, as amended at 59 FR 1635, Jan. 12, 1994]
+[45 FR 55584, Aug. 20, 1980, as amended at 59 FR 1635, Jan. 12, 1994; 82 FR 5871, Jan. 18, 2017]

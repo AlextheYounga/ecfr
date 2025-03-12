@@ -1,25 +1,55 @@
-##### § 404.1502 General definitions and terms for this subpart. #####
+##### § 404.1502 Definitions for this subpart. #####
 
-Link to an amendment published at 82 FR 5863, Jan. 18, 2017.
+As used in the subpart—
 
-As used in the subpart -
+(a) *Acceptable medical source* means a medical source who is a:
 
-*Acceptable medical source* refers to one of the sources described in § 404.1513(a) who provides evidence about your impairments. It includes treating sources, nontreating sources, and nonexamining sources.
+(1) Licensed physician (medical or osteopathic doctor);
 
-*Commissioner* means the Commissioner of Social Security or his or her authorized designee.
+(2) Licensed psychologist, which includes:
 
-*Medical sources* refers to acceptable medical sources, or other health care providers who are not acceptable medical sources.
+(i) A licensed or certified psychologist at the independent practice level; or
 
-*Nonexamining source* means a physician, psychologist, or other acceptable medical source who has not examined you but provides a medical or other opinion in your case. At the administrative law judge hearing and Appeals Council levels of the administrative review process, it includes State agency medical and psychological consultants, other program physicians and psychologists, and medical experts or psychological experts we consult. *See* § 404.1527.
+(ii) A licensed or certified school psychologist, or other licensed or certified individual with another title who performs the same function as a school psychologist in a school setting, for impairments of intellectual disability, learning disabilities, and borderline intellectual functioning only;
 
-*Nontreating source* means a physician, psychologist, or other acceptable medical source who has examined you but does not have, or did not have, an ongoing treatment relationship with you. The term includes an acceptable medical source who is a consultative examiner for us, when the consultative examiner is not your treating source. See § 404.1527.
+(3) Licensed optometrist for impairments of visual disorders, or measurement of visual acuity and visual fields only, depending on the scope of practice in the State in which the optometrist practices;
 
-*State agency* means that agency of a State which has been designated by the State to carry out the disability or blindness determination function.
+(4) Licensed podiatrist for impairments of the foot, or foot and ankle only, depending on whether the State in which the podiatrist practices permits the practice of podiatry on the foot only, or the foot and ankle;
 
-*Treating source* means your own physician, psychologist, or other acceptable medical source who provides you, or has provided you, with medical treatment or evaluation and who has, or has had, an ongoing treatment relationship with you. Generally, we will consider that you have an ongoing treatment relationship with an acceptable medical source when the medical evidence establishes that you see, or have seen, the source with a frequency consistent with accepted medical practice for the type of treatment and/or evaluation required for your medical condition(s). We may consider an acceptable medical source who has treated or evaluated you only a few times or only after long intervals (e.g., twice a year) to be your treating source if the nature and frequency of the treatment or evaluation is typical for your condition(s). We will not consider an acceptable medical source to be your treating source if your relationship with the source is not based on your medical need for treatment or evaluation, but solely on your need to obtain a report in support of your claim for disability. In such a case, we will consider the acceptable medical source to be a nontreating source.
+(5) Qualified speech-language pathologist for speech or language impairments only. For this source, *qualified* means that the speech-language pathologist must be licensed by the State professional licensing agency, or be fully certified by the State education agency in the State in which he or she practices, or hold a Certificate of Clinical Competence in Speech-Language Pathology from the American Speech-Language-Hearing Association;
 
-*We* or *us* refers to either the Social Security Administration or the State agency making the disability or blindness determination.
+(6) Licensed audiologist for impairments of hearing loss, auditory processing disorders, and balance disorders within the licensed scope of practice only (with respect to claims filed (see § 404.614) on or after March 27, 2017);
 
-*You* or *your* means, as appropriate, the person who applies for benefits or for a period of disability, the person for whom an application is filed, or the person who is receiving benefits based on disability or blindness.
+(7) Licensed Advanced Practice Registered Nurse, or other licensed advanced practice nurse with another title, for impairments within his or her licensed scope of practice (only with respect to claims filed (see § 404.614) on or after March 27, 2017); or
 
-[56 FR 36954, Aug. 1, 1991, as amended at 62 FR 38451, July 18, 1997; 65 FR 11875, Mar. 7, 2000; 71 FR 16443, Mar. 31, 2006; 76 FR 24806, May 3, 2011]
+(8) Licensed Physician Assistant for impairments within his or her licensed scope of practice (only with respect to claims filed (see § 404.614) on or after March 27, 2017).
+
+(b) *Commissioner* means the Commissioner of Social Security or his or her authorized designee.
+
+(c) *Laboratory findings* means one or more anatomical, physiological, or psychological phenomena that can be shown by the use of medically acceptable laboratory diagnostic techniques. Diagnostic techniques include chemical tests (such as blood tests), electrophysiological studies (such as electrocardiograms and electroencephalograms), medical imaging (such as X-rays), and psychological tests.
+
+(d) *Medical source* means an individual who is licensed as a healthcare worker by a State and working within the scope of practice permitted under State or Federal law, or an individual who is certified by a State as a speech-language pathologist or a school psychologist and acting within the scope of practice permitted under State or Federal law.
+
+(e) *Nonmedical source* means a source of evidence who is not a medical source. This includes, but is not limited to:
+
+(1) You;
+
+(2) Educational personnel (for example, school teachers, counselors, early intervention team members, developmental center workers, and daycare center workers);
+
+(3) Public and private social welfare agency personnel; and
+
+(4) Family members, caregivers, friends, neighbors, employers, and clergy.
+
+(f) *Objective medical evidence* means signs, laboratory findings, or both.
+
+(g) *Signs* means one or more anatomical, physiological, or psychological abnormalities that can be observed, apart from your statements (symptoms). Signs must be shown by medically acceptable clinical diagnostic techniques. Psychiatric signs are medically demonstrable phenomena that indicate specific psychological abnormalities, e.g., abnormalities of behavior, mood, thought, memory, orientation, development, or perception, and must also be shown by observable facts that can be medically described and evaluated.
+
+(h) *State agency* means an agency of a State designated by that State to carry out the disability or blindness determination function.
+
+(i) *Symptoms* means your own description of your physical or mental impairment.
+
+(j) *We* or *us* means, as appropriate, either the Social Security Administration or the State agency making the disability or blindness determination.
+
+(k) *You* or *your* means, as appropriate, the person who applies for benefits or for a period of disability, the person for whom an application is filed, or the person who is receiving benefits based on disability or blindness.
+
+[82 FR 5864, Jan. 18, 2017; 82 FR 15132, Mar. 27, 2017]

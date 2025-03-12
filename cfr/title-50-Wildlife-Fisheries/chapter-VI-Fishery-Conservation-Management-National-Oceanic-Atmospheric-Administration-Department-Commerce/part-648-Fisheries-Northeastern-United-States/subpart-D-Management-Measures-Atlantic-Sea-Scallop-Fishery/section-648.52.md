@@ -8,10 +8,10 @@
 
 (d) Owners or operators of vessels with a limited access scallop permit that have properly declared into the Sea Scallop Area Access Program as described in § 648.59 are prohibited from fishing for or landing per trip, or possessing at any time, scallops in excess of any sea scallop possession and landing limit set by the Regional Administrator in accordance with § 648.59(b)(5).
 
-(e) Owners or operators of vessels issued limited access permits fishing in or transiting the area south of 42°20′ N. lat. at any time during a trip are prohibited from fishing for, possessing, or landing per trip more than 50 bu (17.6 hl) of in-shell scallops shoreward of the VMS Demarcation Line, unless when fishing under the state waters exemption specified under § 648.54.
+(e) Owners or operators of vessels issued limited access permits are prohibited from fishing for, possessing, or landing per trip more than 50 bu (17.6 hl) of in-shell scallops shoreward of the VMS Demarcation Line, unless when fishing under the state waters exemption specified under § 648.54.
 
 (f) A limited access vessel or an LAGC vessel that is declared into the Sea Scallop Area Access Program as described in § 648.59, may not possess more than 50 bu (17.6 hL) or 75 bu (26.4 hL), respectively, of in-shell scallops outside of the Access Areas described in § 648.60.
 
 (g) *Possession limit to defray the cost of observers for LAGC IFQ vessels.* An LAGC IFQ vessel with an observer on board may retain, per observed trip, up to 1 day's allowance of the possession limit allocated to limited access vessels, as established by the Regional Administrator in accordance with § 648.59(d), provided the observer set-aside specified in § 648.59(d)(1) has not been fully utilized. For example, if the limited access vessel daily possession limit to defray the cost of an observer is 180 lb (82 kg), the LAGC IFQ possession limit to defray the cost of an observer would be 180 lb (82 kg) per trip, regardless of trip length.
 
-[73 FR 20122, Apr. 14, 2008, as amended at 74 FR 20555, May 4, 2009; 75 FR 36569, June 28, 2010; 76 FR 43763, July 21, 2011; 78 FR 27100, May 9, 2013; 81 FR 26375, May 4, 2016; 81 FR 76521, Nov. 3, 2016]
+[73 FR 20122, Apr. 14, 2008, as amended at 74 FR 20555, May 4, 2009; 75 FR 36569, June 28, 2010; 76 FR 43763, July 21, 2011; 78 FR 27100, May 9, 2013; 81 FR 26375, May 4, 2016; 81 FR 76521, Nov. 3, 2016; 82 FR 15161, Mar. 27, 2017]

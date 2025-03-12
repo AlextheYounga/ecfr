@@ -1,5 +1,7 @@
 ##### § 117.631 Detroit River (Trenton Channel). #####
 
+Link to an amendment published at 82 FR 15137, Mar. 27, 2017.
+
 (a) The draw of the Grosse Ile Toll bridge (Bridge Road), mile 8.8, at Grosse Ile, shall operate as follows:
 
 (1) Between the hours of 7 a.m. and 11 p.m., seven days a week and holidays, the draw need open only from three minutes before to three minutes after the hour and half-hour for pleasure craft; for commercial vessels, during this period of time, the draw shall open on signal as soon as possible.

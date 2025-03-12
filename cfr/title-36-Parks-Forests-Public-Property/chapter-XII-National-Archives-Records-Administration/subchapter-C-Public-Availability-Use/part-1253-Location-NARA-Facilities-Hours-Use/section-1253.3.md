@@ -1,7 +1,5 @@
 ##### § 1253.3 Presidential Libraries. #####
 
-Link to an amendment published at 82 FR 11406, February 23, 2017.
-
 Hours for the Presidential libraries' research rooms are posted at *http://www.archives.gov.* The Presidential library museums are open every day except Thanksgiving, December 25, and January 1. For more specific information about museum hours, please contact the libraries directly or visit the NARA Web site at *http://www.archives.gov.* Contact information for each library is as follows:
 
 (a) Herbert Hoover Library is located at 210 Parkside Drive, West Branch, IA 52358 (mailing address: P.O. Box 488, West Branch, IA 52358). The phone number is 319-643-5301 and the fax number is 319-643-6045. The email address is *hoover.library@nara.gov.*
@@ -30,4 +28,6 @@ Hours for the Presidential libraries' research rooms are posted at *http://www.a
 
 (m) George W. Bush Library is located at 2943 SMU Boulevard, Dallas, TX 75205. The phone number is 214-346-1650 and the fax number is 214-346-1699. The email address is *gwbush.library@nara.gov.*
 
-[79 FR 49452, Aug. 21, 2014]
+(n) Barack Obama Library is located at 2500 West Golf Road, Hoffman Estates, IL 60169-1114. The phone number is 847-252-5700 and the fax number is 847-252-5799. The email address is *obama.library@nara.gov.*
+
+[79 FR 49452, Aug. 21, 2014, as amended at 82 FR 11406, Feb. 23, 2017]

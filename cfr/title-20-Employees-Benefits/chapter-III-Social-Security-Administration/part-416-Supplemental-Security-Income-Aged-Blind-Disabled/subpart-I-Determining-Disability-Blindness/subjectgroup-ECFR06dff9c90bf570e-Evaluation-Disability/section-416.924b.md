@@ -1,7 +1,5 @@
 ##### § 416.924b Age as a factor of evaluation in the sequential evaluation process for children. #####
 
-Link to an amendment published at 82 FR 5880, Jan. 17, 2017.
-
 (a) *General.* In this section, we explain how we consider age when we decide whether you are disabled. Your age may or may not be a factor in our determination whether your impairment(s) meets or medically equals a listing, depending on the listing we use for comparison. However, your age is an important factor when we decide whether your impairment(s) is severe (*see* § 416.924(c)) and whether it functionally equals the listings (*see* § 416.926a). Except in the case of certain premature infants, as described in paragraph (b) of this section, age means chronological age.
 
 (1) When we determine whether you have an impairment or combination of impairments that is severe, we will compare your functioning to that of children your age who do not have impairments.
@@ -26,6 +24,6 @@ Link to an amendment published at 82 FR 5880, Jan. 17, 2017.
 
 (ii) If you are over age 1 and have a developmental delay, and prematurity is still a relevant factor, we will decide whether to correct your chronological age. We will base our decision on our judgment and all the facts in your case. If we decide to correct your chronological age, we may correct it by subtracting the full number of weeks of prematurity or a lesser number of weeks. If your developmental delay is the result of your medically determinable impairment(s) and is not attributable to your prematurity, we will decide not to correct your chronological age.
 
-(3) Notwithstanding the provisions in paragraph (b)(1) of this section, we will not compute a CCA if the medical evidence shows that your treating source or other medical source has already taken your prematurity into consideration in his or her assessment of your development. We will not compute a CCA when we find you disabled under listing 100.04 of the Listing of Impairments.
+(3) Notwithstanding the provisions in paragraph (b)(1) of this section, we will not compute a corrected chronological age if the medical evidence shows that your medical source has already considered your prematurity in his or her assessment of your development. We will not compute a CCA when we find you disabled under listing 100.04 of the Listing of Impairments.
 
-[65 FR 54778, Sept. 11, 2000, as amended at 72 FR 59431, Oct. 19, 2007; 80 FR 19529, Apr. 13, 2015]
+[65 FR 54778, Sept. 11, 2000, as amended at 72 FR 59431, Oct. 19, 2007; 80 FR 19529, Apr. 13, 2015; 82 FR 5880, Jan. 18, 2017]

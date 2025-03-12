@@ -1,7 +1,5 @@
 ##### § 331.1 Definitions. #####
 
-Link to an amendment published at 82 FR 6204, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10855, Feb. 16, 2017.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the U.S. Department of Agriculture.
@@ -42,6 +40,8 @@ Link to an amendment published at 82 FR 6204, Jan. 19, 2017.This amendment was d
 
 *PPQ.* The Plant Protection and Quarantine Programs of the Animal and Plant Health Inspection Service.
 
+*Principal investigator.* The one individual who is designated by the entity to direct a project or program and who is responsible to the entity for the scientific and technical direction of that project or program.
+
 *Recombinant nucleic acids.* (1) Molecules that are constructed by joining nucleic acid molecules and that can replicate in a living cell; or
 
 (2) Molecules that result from the replication of those described in paragraph (1) of this definition.
@@ -70,6 +70,10 @@ Link to an amendment published at 82 FR 6204, Jan. 19, 2017.This amendment was d
 
 *USDA.* The U.S. Department of Agriculture.
 
+*Validated inactivation procedure.* A procedure, whose efficacy is confirmed by data generated from a viability testing protocol, to render a select agent non-viable but allows the select agent to retain characteristics of interest for future use; or to render any nucleic acids that can produce infectious forms of any select agent virus non-infectious for future use.
+
 *Verification.* The demonstration of obtaining established performance (*e.g.*, accuracy, precision, and the analytical sensitivity and specificity) specifications for any procedure used for diagnosis.
 
-[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61074, Oct. 5, 2012; 79 FR 26830, May 12, 2014]
+*Viability testing protocol.* A protocol to confirm the validated inactivation procedure by demonstrating the material is free of all viable select agent.
+
+[70 FR 13278, Mar. 18, 2005, as amended at 77 FR 61074, Oct. 5, 2012; 79 FR 26830, May 12, 2014; 82 FR 6204, Jan. 19, 2017]

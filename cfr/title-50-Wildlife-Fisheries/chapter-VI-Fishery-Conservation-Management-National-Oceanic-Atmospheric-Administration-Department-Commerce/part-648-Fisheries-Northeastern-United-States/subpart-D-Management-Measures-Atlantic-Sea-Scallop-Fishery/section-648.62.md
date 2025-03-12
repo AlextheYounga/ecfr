@@ -12,7 +12,7 @@
 
 (b) *Total allowable catch.* The total allowable catch for the NGOM scallop management area shall be specified through the framework adjustment process. The total allowable catch for the NGOM scallop management area shall be based on the Federal portion of the scallop resource in the NGOM. The total allowable catch shall be determined by historical landings until additional information on the NGOM scallop resource is available, for example through an NGOM resource survey and assessment. The ABC/ACL as defined in § 648.53(a) shall not include the total allowable catch for the NGOM scallop management area, and landings from the NGOM scallop management area shall not be counted against the ABC/ACL defined in § 648.53(a).
 
-(1) *NGOM annual hard TACs.* The annual hard TAC for the NGOM is 67,454 lb (30,597 kg) for the 2016 fishing year and 70,000 lb (31,413 kg) for the 2017 fishing year.
+(1) *NGOM annual hard TACs.* The annual hard TAC for the NGOM is 73,371 lb (33,281 kg) for the 2017 fishing year and 95,000 lb (43,091 kg) for the 2018 fishing year.
 
 (2) Unless a vessel has fished for scallops outside of the NGOM scallop management area and is transiting the NGOM scallop management area with all fishing gear stowed and not available for immediate use as defined in § 648.2, no vessel issued a scallop permit pursuant to § 648.4(a)(2) may possess, retain, or land scallops in the NGOM scallop management area once the Regional Administrator has provided notification in the Federal Register that the NGOM scallop total allowable catch in accordance with this paragraph (b) has been reached. Once the NGOM hard TAC is reached, a vessel issued a NGOM permit may no longer declare a state-only NGOM scallop trip and fish for scallops exclusively in state waters within the NGOM. A vessel that has not been issued a Federal scallop permit that fishes exclusively in state waters is not subject to the closure of the NGOM scallop management area.
 
@@ -22,4 +22,4 @@
 
 (d) *Gear restrictions.* Except scallop vessels issued a limited access scallop permit pursuant to § 648.4(a)(2)(i) that have properly declared a trip under the scallop DAS program, the combined dredge width in use by, or in possession on board, LAGC scallop vessels fishing in the NGOM scallop management area may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
 
-[73 FR 20131, Apr. 14, 2008, as amended at 75 FR 36576, June 28, 2010; 76 FR 43770, 43797, July 21, 2011; 77 FR 20741, Apr. 6, 2012; 78 FR 27108, May 9, 2013; 79 FR 52580, Sept. 4, 2014; 81 FR 26736, May 4, 2016; 81 FR 76529, Nov. 3, 2016]
+[73 FR 20131, Apr. 14, 2008, as amended at 75 FR 36576, June 28, 2010; 76 FR 43770, 43797, July 21, 2011; 77 FR 20741, Apr. 6, 2012; 78 FR 27108, May 9, 2013; 79 FR 52580, Sept. 4, 2014; 81 FR 26736, May 4, 2016; 81 FR 76529, Nov. 3, 2016; 82 FR 15163, Mar. 27, 2017]

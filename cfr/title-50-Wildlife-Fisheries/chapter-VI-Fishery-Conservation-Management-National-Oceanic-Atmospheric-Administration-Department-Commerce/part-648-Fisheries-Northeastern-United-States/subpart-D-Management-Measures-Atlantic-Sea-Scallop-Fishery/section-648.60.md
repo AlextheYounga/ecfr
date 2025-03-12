@@ -37,17 +37,19 @@
 | H5  |38°50′ N|73°42′ W.|
 | H1  |39°30′ N|73°10′ W.|
 
-(b) *Elephant Trunk Closed Area.* The Elephant Trunk Closed Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request).
+(b) *Elephant Trunk Flex Scallop Rotational Area.* (1) The Elephant Trunk Flex Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request).
 
-|Point |Latitude|Longitude|
-|------|--------|---------|
-|ETCA 1|38°50′ N|74°20′ W.|
-|ETCA 2|38°50′ N|73°40′ W.|
-|ETCA 3|38°40′ N|73°40′ W.|
-|ETCA 4|38°40′ N|73°50′ W.|
-|ETCA 5|38°30′ N|73°50′ W.|
-|ETCA 6|38°30′ N|74°20′ W.|
-|ETCA 1|38°50′ N|74°20′ W.|
+|Point |Latitude |Longitude|
+|------|---------|---------|
+|ETFA 1|38°50′ N.|74°20′ W.|
+|ETFA 2|38°50′ N.|73°40′ W.|
+|ETFA 3|38°40′ N.|73°40′ W.|
+|ETFA 4|38°40′ N.|73°50′ W.|
+|ETFA 5|38°30′ N.|73°50′ W.|
+|ETFA 6|38°30′ N.|74°20′ W.|
+|ETFA 1|38°50′ N.|74°20′ W.|
+
+(2) *Season.* A vessel issued a scallop permit may not fish for, possess, or land scallops in or from the area known as the Elephant Trunk Flex Scallop Rotational Area, defined in paragraph (b)(1) of this section, during the period of July 1 through September 30 of each year the Elephant Trunk Flex Scallop Rotational Area is open to scallop vessels, unless transiting pursuant to § 648.59(a).
 
 (c) *Closed Area I Scallop Rotational Area.* (1) The Closed Area I Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request), and so that the line connecting points CAIA3 and CAIA4 is the same as the portion of the western boundary line of Closed Area I, defined in § 648.81(a)(1), that lies between points CAIA3 and CAIA4:
 
@@ -109,4 +111,4 @@
 |NLAA6|40°20′ N|69°30′ W.|
 |NLAA1|40°50′ N|69°30′ W.|
 
-[81 FR 76528, Nov. 3, 2016]
+[81 FR 76528, Nov. 3, 2016, as amended at 82 FR 15163, Mar. 27, 2017]

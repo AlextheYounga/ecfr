@@ -1,7 +1,5 @@
 ##### § 404.942 Prehearing proceedings and decisions by attorney advisors. #####
 
-Link to an amendment published at 82 FR 5863, Jan. 18, 2017.
-
 (a) *General.* After a hearing is requested but before it is held, an attorney advisor may conduct prehearing proceedings as set out in paragraph (c) of this section. If after the completion of these proceedings we can make a decision that is fully favorable to you and all other parties based on the preponderance of the evidence, an attorney advisor, instead of an administrative law judge, may issue the decision. The conduct of the prehearing proceedings by the attorney advisor will not delay the scheduling of a hearing. If the prehearing proceedings are not completed before the date of the hearing, the case will be sent to the administrative law judge unless a fully favorable decision is in process or you and all other parties to the hearing agree in writing to delay the hearing until the proceedings are completed.
 
 (b) *When prehearing proceedings may be conducted by an attorney advisor.* An attorney advisor may conduct prehearing proceedings if you have filed a claim for benefits based on disability and -
@@ -32,7 +30,7 @@ Link to an amendment published at 82 FR 5863, Jan. 18, 2017.
 
 (f) *Ancillary provisions.* For the purposes of the procedures authorized by this section, the regulations of part 404 shall apply to -
 
-(1) Authorize an attorney advisor to exercise the functions performed by an administrative law judge under §§ 404.1520a, 404.1526, 404.1527, and 404.1546.
+(1) Authorize an attorney advisor to exercise the functions performed by an administrative law judge under §§ 404.1513a, 404.1520a, 404.1526, and 404.1546.
 
 (2) Define the term “decision” to include a decision made by an attorney advisor, as well as the decisions identified in § 404.901; and
 
@@ -40,4 +38,4 @@ Link to an amendment published at 82 FR 5863, Jan. 18, 2017.
 
 (g) *Sunset provision.* The provisions of this section will no longer be effective on August 4, 2017, unless we terminate them earlier or extend them beyond that date by notice of a final rule in the Federal Register.
 
-[60 FR 34131, June 30, 1995, as amended at 63 FR 35516, June 30, 1998; 64 FR 13678, Mar. 22, 1999; 64 FR 51893, Sept. 27, 1999; 72 FR 44765, Aug. 9, 2007; 73 FR 76944, Dec. 18, 2008; 74 FR 33328, July 13, 2009; 76 FR 18384, Apr. 4, 2011; 76 FR 65370, Oct. 21, 2011; 78 FR 45460, July 29, 2013; 80 FR 31991, June 5, 2015]
+[60 FR 34131, June 30, 1995, as amended at 63 FR 35516, June 30, 1998; 64 FR 13678, Mar. 22, 1999; 64 FR 51893, Sept. 27, 1999; 72 FR 44765, Aug. 9, 2007; 73 FR 76944, Dec. 18, 2008; 74 FR 33328, July 13, 2009; 76 FR 18384, Apr. 4, 2011; 76 FR 65370, Oct. 21, 2011; 78 FR 45460, July 29, 2013; 80 FR 31991, June 5, 2015; 82 FR 5863, Jan. 18, 2017]

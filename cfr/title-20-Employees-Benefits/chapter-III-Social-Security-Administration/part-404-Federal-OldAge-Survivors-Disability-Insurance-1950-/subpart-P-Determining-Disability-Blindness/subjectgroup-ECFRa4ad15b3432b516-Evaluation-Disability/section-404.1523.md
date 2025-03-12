@@ -1,7 +1,9 @@
 ##### § 404.1523 Multiple impairments. #####
 
-Link to an amendment published at 82 FR 5869, Jan. 18, 2017.
+(a) *Unrelated severe impairments.* We cannot combine two or more unrelated severe impairments to meet the 12-month duration test. If you have a severe impairment(s) and then develop another unrelated severe impairment(s) but neither one is expected to last for 12 months, we cannot find you disabled, even though the two impairments in combination last for 12 months.
 
-In determining whether your physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under the law, we will consider the combined effect of all of your impairments without regard to whether any such impairment, if considered separately, would be of sufficient severity. If we do find a medically severe combination of impairments, the combined impact of the impairments will be considered throughout the disability determination process. If we do not find that you have a medically severe combination of impairments, we will determine that you are not disabled (see § 404.1520).
+(b) *Concurrent impairments.* If you have two or more concurrent impairments that, when considered in combination, are severe, we must determine whether the combined effect of your impairments can be expected to continue to be severe for 12 months. If one or more of your impairments improves or is expected to improve within 12 months, so that the combined effect of your remaining impairments is no longer severe, we will find that you do not meet the 12-month duration test.
 
-[50 FR 8728, Mar. 5, 1985]
+(c) *Combined effect.* In determining whether your physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under the law, we will consider the combined effect of all of your impairments without regard to whether any such impairment, if considered separately, would be of sufficient severity. If we do find a medically severe combination of impairments, we will consider the combined impact of the impairments throughout the disability determination process. If we do not find that you have a medically severe combination of impairments, we will determine that you are not disabled (see § 404.1520).
+
+[82 FR 5869, Jan. 18, 2017]
