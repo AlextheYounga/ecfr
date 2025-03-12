@@ -1,5 +1,7 @@
 ##### § 120.1600 General procedures for enforcement actions against SBA Lenders, SBA Supervised Lenders, Other Regulated SBLCs, Management Officials, Other Persons, Intermediaries, and NTAPs. #####
 
+Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
+
 (a) *In general.* Except as otherwise set forth for the enforcement actions listed in paragraphs (b) and (c) of this section, SBA will follow the procedures listed below.
 
 (1) *SBA's notice of enforcement action.* (i) When undertaking an immediate suspension under § 120.1500(a)(4), or prior to undertaking an enforcement action set forth in § 120.1500(a), (b), and (e) and § 120.1540, SBA will issue a written notice to the affected SBA Lender, Intermediary, or NTAP identifying the proposed enforcement action or notifying it of an immediate suspension. The notice will set forth in reasonable detail the underlying facts and reasons for the proposed action or immediate suspension. If the notice is for a proposed or immediate suspension, SBA will also state the scope and term of the proposed or immediate suspension.

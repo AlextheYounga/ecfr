@@ -1,5 +1,7 @@
 ##### § 120.1070 Lender oversight fees. #####
 
+Link to an amendment published at 82 FR 39505, Aug. 21, 2017.
+
 Lenders are required to pay to SBA fees to cover costs of examinations and reviews and, if assessed by SBA, other Lender oversight activities.
 
 (a) *Fee components:* The fees may cover the following:

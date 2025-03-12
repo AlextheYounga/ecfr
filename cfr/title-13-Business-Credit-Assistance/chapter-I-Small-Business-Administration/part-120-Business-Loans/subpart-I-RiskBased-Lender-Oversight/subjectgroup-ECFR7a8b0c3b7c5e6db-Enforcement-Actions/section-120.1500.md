@@ -1,5 +1,7 @@
 ##### § 120.1500 Types of enforcement actions - SBA Lenders. #####
 
+Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
+
 Upon a determination that the grounds set forth in § 120.1400 exist, SBA may undertake, in SBA's discretion, one or more of the following enforcement actions for each of the types of SBA Lenders listed. SBA will take such action in accordance with procedures set forth in § 120.1600. If enforcement action is taken under this section and the SBA Lender fails to implement required corrective action in any material respect within the required timeframe in response to the enforcement action, SBA may take further enforcement action, as authorized by law. SBA's decision to take an enforcement action will not, by itself, invalidate a guaranty previously provided by SBA.
 
 (a) *Enforcement actions for all SBA Lenders* - (1) *Imposition of portfolio guaranty dollar limit.* SBA may limit the maximum dollar amount that SBA will guarantee on the SBA Lender's SBA loans or debentures.

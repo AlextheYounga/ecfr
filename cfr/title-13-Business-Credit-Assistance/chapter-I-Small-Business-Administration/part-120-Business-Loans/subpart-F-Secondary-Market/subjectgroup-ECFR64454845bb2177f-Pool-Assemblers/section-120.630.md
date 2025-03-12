@@ -1,5 +1,7 @@
 ##### § 120.630 Qualifications to be a Pool Assembler. #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 (a) *Application to become Pool Assembler.* The application to become a Pool Assembler is available from the D/FA. In order to qualify as a Pool Assembler, an entity must send the application to the D/FA, with an application fee, and certify that it:
 
 (1) Is regulated by the appropriate agency as defined in section 3(a)(34)(G) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(34)(G));

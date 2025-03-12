@@ -1,5 +1,7 @@
 ##### § 120.111 What conditions must an Eligible Passive Company satisfy? #####
 
+Link to an amendment published at 82 FR 39502, Aug. 21, 2017.
+
 An Eligible Passive Company must use loan proceeds to acquire or lease, and/or improve or renovate, real or personal property (including eligible refinancing), that it leases to one or more Operating Companies for conducting the Operating Company's business (references to Operating Company in paragraphs (a) and (b) of this section mean each Operating Company). Any ownership structure or legal form may qualify as an Eligible Passive Company.
 
 (a) Conditions that apply to all legal forms:

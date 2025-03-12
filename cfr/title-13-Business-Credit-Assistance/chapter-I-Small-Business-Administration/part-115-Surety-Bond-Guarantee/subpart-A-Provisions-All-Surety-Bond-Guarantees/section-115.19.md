@@ -1,5 +1,7 @@
 ##### § 115.19 Denial of liability. #####
 
+Link to an amendment published at 82 FR 39501, Aug. 21, 2017.
+
 In addition to equitable and legal defenses and remedies under contract law, the Act, and the regulations in this Part, SBA is relieved of liability in whole or in part within its discretion if any of the circumstances in paragraphs (a) through (h) of this section exist, except that SBA shall not deny liability on Prior Approval bonds based solely upon material information that was provided to SBA as part of the Surety's guarantee application.
 
 (a) *Excess Contract or bond amount.* The total Contract or Order amount at the time of Execution of the bond exceeds the Applicable Statutory Limit (see § 115.10) or the bond amount at any time exceeds the total Contract or Order amount.

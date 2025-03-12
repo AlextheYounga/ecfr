@@ -1,5 +1,7 @@
 ##### § 120.1400 Grounds for enforcement actions - SBA Lenders. #####
 
+Link to an amendment published at 82 FR 39505, Aug. 21, 2017.
+
 (a) *Agreement.* By making SBA 7(a) guaranteed loans or 504 loans, SBA Lenders automatically agree to the terms, conditions, and remedies in Loan Program Requirements, as promulgated or issued from time to time and as if fully set forth in the SBA Form 750, Loan Guaranty Agreement or other applicable participation, guaranty, or supplemental agreement.
 
 (b) *Scope.* SBA may undertake one or more of the enforcement actions listed in § 120.1500 or as otherwise authorized by law, if SBA determines that the grounds applicable to the enforcement action exist. Paragraphs (c) through (e) of this section list the grounds that trigger enforcement actions against each type of SBA Lender. In general, the grounds listed in paragraph (c) apply to all SBA Lenders. However, certain enforcement actions against SBA Supervised Lenders require the existence of certain grounds, as set forth in paragraphs (d) and (e). In addition, paragraph (f) of this section lists two additional grounds for taking enforcement action against CDCs that do not apply to other SBA Lenders.

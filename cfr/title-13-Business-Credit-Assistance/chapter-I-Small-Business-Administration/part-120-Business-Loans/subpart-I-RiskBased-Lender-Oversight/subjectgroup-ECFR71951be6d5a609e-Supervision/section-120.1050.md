@@ -1,5 +1,7 @@
 ##### § 120.1050 On-site reviews and examinations. #####
 
+Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
+
 (a) *On-site reviews.* SBA may conduct on-site reviews of the SBA loan operations of SBA Lenders. The on-site review may include, but is not limited to, an evaluation of the following:
 
 (1) Portfolio performance;

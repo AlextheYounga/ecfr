@@ -1,5 +1,7 @@
 ##### § 120.441 How does a Lender become a CLP Lender? #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 (a) An SBA field office may nominate a Lender or a Lender may request a field office to consider it for CLP status. SBA district directors may approve and renew a Lender's CLP status. The district director will consider whether the Lender:
 
 (1) Has the ability to process, close, service and liquidate loans;

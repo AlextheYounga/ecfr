@@ -1,5 +1,7 @@
 ##### § 120.524 When is SBA released from liability on its guarantee? #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 (a) SBA is released from liability on a loan guarantee (in whole or in part, within SBA's exclusive discretion), if any of the events below occur:
 
 (1) The Lender has failed to comply materially with any Loan Program Requirement for 7(a) loans.

@@ -1,5 +1,7 @@
 ##### § 120.451 How does a Lender become a PLP Lender? #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 (a) An SBA field office serving the area in which a Lender's office is located can nominate the Lender, or a Lender can request a field office to consider it for PLP status. The SBA field office will forward its recommendation to an SBA centralized loan processing center which will submit its recommendation and supporting documentation to the appropriate Office of Capital Access official in accordance with Delegations of Authority for final decision.
 
 (b) In making its decision, SBA considers whether the Lender:

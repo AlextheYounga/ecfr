@@ -1,5 +1,7 @@
 ##### § 120.222 Fees which the Lender or Associate may not collect from the Borrower or share with third parties. #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 The Lender or its Associate may not:
 
 (a) Require the applicant or Borrower to pay the Lender, an Associate, or any party designated by either, any fees or charges for goods or services, including insurance, as a condition for obtaining an SBA guaranteed loan (unless permitted by this part);

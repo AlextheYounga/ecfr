@@ -1,5 +1,7 @@
 ##### § 120.1703 Qualifications to be a Pool Originator. #####
 
+Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
+
 (a) *Application to become Pool Originator.* The application to become a Pool Originator is available from the SBA and can be found on SBA's website. In order to qualify as a Pool Originator, an entity must send the application to the SBA and certify that it is a Pool Assembler or it:
 
 (1) Is regulated by the appropriate agency as defined in section 3(a)(34)(G) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(34)(G));

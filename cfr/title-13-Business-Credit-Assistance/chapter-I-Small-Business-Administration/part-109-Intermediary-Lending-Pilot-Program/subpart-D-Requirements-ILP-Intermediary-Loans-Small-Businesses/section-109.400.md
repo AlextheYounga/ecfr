@@ -1,5 +1,7 @@
 ##### § 109.400 Eligible Small Business Concerns. #####
 
+Link to an amendment published at 82 FR 39501, Aug. 21, 2017.
+
 (a) To be eligible to receive loans from an ILP Intermediary under this program, a small business must:
 
 (1) Be organized for profit;

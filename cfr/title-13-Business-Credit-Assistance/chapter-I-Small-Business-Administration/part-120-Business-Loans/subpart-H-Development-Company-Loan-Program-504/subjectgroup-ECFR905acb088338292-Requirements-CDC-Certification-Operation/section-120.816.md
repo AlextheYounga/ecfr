@@ -1,5 +1,7 @@
 ##### § 120.816 CDC non-profit status and good standing. #####
 
+Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
+
 A CDC must be a non-profit corporation, except that for-profit CDCs certified by SBA prior to January 1, 1987 may retain their certifications. An SBIC may not become a CDC. A CDC must be in good standing based upon the following criteria:
 
 (a) In good standing in the State in which the CDC is incorporated and any other State in which the CDC conducts business.

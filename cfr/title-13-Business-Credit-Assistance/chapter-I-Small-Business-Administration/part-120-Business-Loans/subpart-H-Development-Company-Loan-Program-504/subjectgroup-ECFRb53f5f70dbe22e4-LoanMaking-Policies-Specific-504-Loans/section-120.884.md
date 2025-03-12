@@ -1,5 +1,7 @@
 ##### § 120.884 Ineligible costs for 504 loans. #####
 
+Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
+
 Costs not directly attributable and necessary for the Project may not be paid with proceeds of the 504 loan. These include, but are not limited to, the following:
 
 (a) Debt refinancing (other than interim financing), except as provided in § 120.882(e) and (g).

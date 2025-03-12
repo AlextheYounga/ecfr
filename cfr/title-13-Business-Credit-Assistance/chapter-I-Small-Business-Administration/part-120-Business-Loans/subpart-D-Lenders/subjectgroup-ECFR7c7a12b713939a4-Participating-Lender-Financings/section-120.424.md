@@ -1,5 +1,7 @@
 ##### § 120.424 What are the basic conditions a Lender must meet to securitize? #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 To securitize, a Lender must:
 
 (a) Be in good standing with SBA as defined in § 120.420(f) of this chapter and determined by SBA in its discretion;

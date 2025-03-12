@@ -1,5 +1,7 @@
 ##### § 115.32 Fees and Premiums. #####
 
+Link to an amendment published at 82 FR 39502, Aug. 21, 2017.
+
 (a) *Surety's Premium.* A Prior Approval Surety must not charge a Principal an amount greater than that authorized by the appropriate insurance department. The Surety must not require the Principal to purchase casualty or other insurance or any other services from the Surety or any Affiliate or agent of the Surety. The Surety must not charge non-Premium fees to a Principal unless the Surety performs other services for the Principal, the additional fee is permitted by State law, and the Principal agrees to the fee.
 
 (b) *SBA charge to Principal.* SBA does not charge Principals application or Bid Bond guarantee fees. If SBA guarantees a Final Bond, the Principal must pay a guarantee fee equal to a certain percentage of the Contract amount. The percentage is determined by SBA and is published in Notices in the Federal Register from time to time. The Principal's fee is rounded to the nearest dollar, and is to be remitted to SBA with the form submitted under either § 115.30(d)(1) or (2). See paragraph (d) of this section for additional requirements when the Contract amount changes.

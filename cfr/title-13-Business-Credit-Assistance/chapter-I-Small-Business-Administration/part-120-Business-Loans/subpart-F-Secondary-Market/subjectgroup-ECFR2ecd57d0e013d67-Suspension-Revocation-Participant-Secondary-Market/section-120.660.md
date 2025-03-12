@@ -1,5 +1,7 @@
 ##### § 120.660 Suspension or revocation. #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 (a) *Suspension or revocation of Lender, broker, dealer, or Registered Holder for violation of Secondary Market rules and regulations.* The D/FA may suspend or revoke the privilege of a Lender, broker, dealer, or Registered Holder to sell, purchase, broker, or deal in loans or Certificates for:
 
 (1) Committing a serious violation, in SBA's discretion, of:

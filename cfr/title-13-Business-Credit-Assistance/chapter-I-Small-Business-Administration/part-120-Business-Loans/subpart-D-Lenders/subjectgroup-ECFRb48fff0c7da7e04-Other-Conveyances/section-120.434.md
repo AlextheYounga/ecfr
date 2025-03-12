@@ -1,5 +1,7 @@
 ##### § 120.434 What are SBA's requirements for loan pledges? #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 (a) Except as set forth in § 120.435, SBA must give its prior written consent to all pledges of any portion of a 7(a) loan, which consent SBA may withhold in its sole discretion;
 
 (b) The Lender must be in good standing with SBA as defined in § 120.420(f) and determined by SBA in its discretion;

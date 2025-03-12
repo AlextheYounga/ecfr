@@ -1,5 +1,7 @@
 ##### § 120.710 What is the Loan Loss Reserve Fund? #####
 
+Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
+
 (a) *General.* The Loan Loss Reserve Fund (“LLRF”) is a Deposit Account which an Intermediary must establish to pay any shortage in the MRF caused by delinquencies or losses on Microloans.
 
 (b) *Level of Loan Loss Reserve Fund.* Until it is in the Microloan program for at least five years, an Intermediary must maintain a balance on deposit in its LLRF equal to 15 percent of the outstanding balance of the notes receivable owed to it by its Microloan borrowers (“Portfolio”).

@@ -1,5 +1,7 @@
 ##### § 115.60 Selection and admission of PSB Sureties. #####
 
+Link to an amendment published at 82 FR 39502, Aug. 21, 2017.
+
 (a) *Selection of PSB Sureties.* SBA's selection of PSB Sureties will be guided by, but not limited to, these factors:
 
 (1) An underwriting limitation of at least $6,500,000 on the U.S. Treasury Department list of acceptable sureties;

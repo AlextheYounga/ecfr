@@ -1,5 +1,7 @@
 ##### § 120.841 Qualifications for the ALP. #####
 
+Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
+
 An applicant for ALP status must show that it substantially meets the following criteria:
 
 (a) *CDC staff experience.* The CDC's staff must have well-trained, qualified loan officers who are knowledgeable concerning SBA's lending policies and procedures for the 504 program. The CDC must have at least one loan officer with three years of 504 loan processing experience and at least one loan officer with three years of 504 servicing experience or two years experience plus satisfactory completion of SBA-approved processing and servicing training. The same loan officer may meet these qualifications. In addition, the CDC's staff must have demonstrated satisfactorily to SBA the ability to process and service 504 loans.

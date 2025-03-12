@@ -1,5 +1,7 @@
 ##### § 120.410 Requirements for all participating Lenders. #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 A Lender must:
 
 (a) Have a continuing ability to evaluate, process, close, disburse, service, liquidate and litigate small business loans including, but not limited to:

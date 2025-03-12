@@ -1,5 +1,7 @@
 ##### § 120.433 What are SBA's other requirements for sales and sales of participating interests? #####
 
+Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
+
 SBA requires the following:
 
 (a) The Lender must be in good standing with SBA as defined in § 120.420(f) and determined by SBA in its discretion;
