@@ -1,5 +1,7 @@
 ##### § 200.89 Re-interviewing; eligibility documentation; and quality control. #####
 
+Link to an amendment published at 84 FR 64423, Nov. 22, 2019.
+
 (a) [Reserved]
 
 (b) *Responsibilities of SEAs for re-interviewing to ensure the eligibility of children under the MEP* - (1) *Retrospective re-interviewing.* (i) As a condition for the continued receipt of MEP funds in FY 2006 and subsequent years, an SEA under a corrective action issued by the Secretary under paragraph (b)(2)(vii) or (d)(7) of this section must, as required by the Secretary -

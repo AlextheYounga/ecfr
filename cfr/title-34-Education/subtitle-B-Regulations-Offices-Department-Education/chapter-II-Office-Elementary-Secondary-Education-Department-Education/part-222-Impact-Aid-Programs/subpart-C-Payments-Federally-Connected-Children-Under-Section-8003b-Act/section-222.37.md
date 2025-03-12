@@ -8,9 +8,9 @@
 
 (3) An LEA's ADA count includes attendance data for children who do not attend the LEA's schools, but for whom it makes tuition arrangements with other educational entities.
 
-(4) Data are not counted for any child -
+(4) Data are not counted for any child—
 
-(i) Who is not physically present at school for the daily minimum time period required by the State, unless the child is -
+(i) Who is not physically present at school for the daily minimum time period required by the State, unless the child is—
 
 (A) Participating via telecommunication or correspondence course programs that meet State standards; or
 
@@ -26,7 +26,7 @@
 
 (ii) By multiplying the figure determined in paragraph (c)(1)(i) of this section by the LEA's total membership of federally connected children in each subcategory described in section 7003 and claimed in the LEA's application for the current fiscal year payment.
 
-(2) An LEA may submit its total preceding year ADA data. The Secretary uses these data to calculate the ADA of the LEA's federally connected children by -
+(2) An LEA may submit its total preceding year ADA data. The Secretary uses these data to calculate the ADA of the LEA's federally connected children by—
 
 (i) Dividing the LEA's preceding year's total ADA data by the preceding year's total membership data; and
 
@@ -40,7 +40,7 @@
 
 (iii) Each collection period must consist of at least five consecutive school days.
 
-(iv) The Secretary uses these data to calculate the ADA of the LEA's federally connected children by -
+(iv) The Secretary uses these data to calculate the ADA of the LEA's federally connected children by—
 
 (A) Determining the ADA of all children in the sample;
 
@@ -52,7 +52,7 @@
 
 (1) If the SEA distributes State aid for education based on data similar to attendance data, the SEA may request that the Secretary use those data to calculate the ADA of each LEA's federally connected children. If the Secretary determines that those data are, in effect, equivalent to attendance data, the Secretary allows use of the requested data and determines the method by which the ADA for all of the LEA's federally connected children will be calculated.
 
-(2) An SEA may submit data necessary for the Secretary to calculate a State average attendance ratio for all LEAs in the State by submitting the total ADA and total membership data for the State for each of the last three most recent fiscal years that ADA data were collected. The Secretary uses these data to calculate the ADA of the federally connected children for each LEA in the State by -
+(2) An SEA may submit data necessary for the Secretary to calculate a State average attendance ratio for all LEAs in the State by submitting the total ADA and total membership data for the State for each of the last three most recent fiscal years that ADA data were collected. The Secretary uses these data to calculate the ADA of the federally connected children for each LEA in the State by—
 
 (i)(A) Dividing the total ADA data by the total membership data for each of the three fiscal years and averaging the results; and
 
