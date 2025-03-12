@@ -1,5 +1,7 @@
 ##### 538.7003 Policy. #####
 
+Link to an amendment published at 88 FR 43257, July 7, 2023.
+
 *Preparing solicitations when schedules are open to eligible non-federal entities.* When opening authorized Federal Supply Schedules for use by eligible non-federal entities, the contracting officer must make minor modifications to certain Federal Acquisition Regulation and GSAM provisions and clauses in order to make clear distinctions between the rights and responsibilities of the U.S. Government in its management and regulatory capacity pursuant to which it awards schedule contracts and fulfills associated Federal requirements versus the rights and responsibilities of eligible ordering activities placing orders to fulfill agency needs. Accordingly, the contracting officer is authorized to modify the following FAR provisions/clauses to delete “Government” or similar language referring to the U.S. Government and substitute “ordering activity” or similar language when preparing solicitations and contracts to be awarded under authorized Federal Supply Schedules. When such changes are made, the word “(DEVIATION)” shall be added at the end of the title of the provision or clause. These clauses include but are not limited to:
 
 (a) 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services.

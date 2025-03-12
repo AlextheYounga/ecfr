@@ -1,5 +1,7 @@
 ##### 552.232-77 Payment By Government Charge Card. #####
 
+Link to an amendment published at 88 FR 43257, July 7, 2023.
+
 As prescribed in 532.7003, insert the following clause:
 
 Payment By Government Charge Card (NOV 2009)
