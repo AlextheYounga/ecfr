@@ -1,6 +1,4 @@
-##### § 1609.3 General requirements. #####
-
-Link to an amendment published at 82 FR 20447, May 2, 2017.
+##### § 1609.3 Authorized representation in a fee-generating case. #####
 
 (a) Except as provided in paragraph (b) of this section, a recipient may not use Corporation funds to provide legal assistance in a fee-generating case unless:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 82 FR 20447, May 2, 2017.
 
 (iii) Recovery of damages is not the principal object of the recipient's client's case and substantial statutory attorneys' fees are not likely to be available.
 
-[62 FR 19399, Apr. 21, 1997, as amended at 75 FR 6818, Feb. 11, 2010; 76 FR 23504, Apr. 27, 2011]
+[62 FR 19399, Apr. 21, 1997, as amended at 75 FR 6818, Feb. 11, 2010; 76 FR 23504, Apr. 27, 2011; 82 FR 20447, May 2, 2017]

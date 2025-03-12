@@ -32,4 +32,4 @@
 
 (d) If an earth station applicant or licensee in the 27.5-28.35 GHz or 37. 5-40 GHz bands enters into an agreement with an UMFUS licensee, their operations shall be governed by that agreement, except to the extent that the agreement is inconsistent with the Commission's rules or the Communications Act.
 
-[81 FR 79937, Nov. 14, 2016]Effective Date Note:At 81 FR 79937, Nov. 14, 2016, § 25.136 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 79937, Nov. 14, 2016]
