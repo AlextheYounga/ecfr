@@ -1,5 +1,7 @@
 ##### § 3.1 Definitions. #####
 
+Link to an amendment published at 83 FR 43522, August 27, 2018.
+
 (a) *Principal.* Principal means, with respect to an entity that is an applicant for registration, a registrant or a person required to be registered under the Act or the regulations in this part:
 
 (1) If the entity is organized as a sole proprietorship, the proprietor and chief compliance officer; if a partnership, any general partner and chief compliance officer; if a corporation, any director, the president, chief executive officer, chief operating officer, chief financial officer, chief compliance officer, and any person in charge of a principal business unit, division or function subject to regulation by the Commission; if a limited liability company or limited liability partnership, any director, the president, chief executive officer, chief operating officer, chief financial officer, chief compliance officer, the manager, managing member or those members vested with the management authority for the entity, and any person in charge of a principal business unit, division or function subject to regulation by the Commission; and, in addition, any person occupying a similar status or performing similar functions, having the power, directly or indirectly, through agreement or otherwise, to exercise a controlling influence over the entity's activities that are subject to regulation by the Commission;

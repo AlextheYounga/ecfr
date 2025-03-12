@@ -1,5 +1,7 @@
 ##### § 3.3 Chief compliance officer. #####
 
+Link to an amendment published at 83 FR 43522, August 27, 2018.
+
 (a) *Designation.* Each futures commission merchant, swap dealer, and major swap participant shall designate an individual to serve as its chief compliance officer, and provide the chief compliance officer with the responsibility and authority to develop, in consultation with the board of directors or the senior officer, appropriate policies and procedures to fulfill the duties set forth in the Act and Commission regulations relating to the swap dealer's or major swap participant's swaps activities, or to the futures commission merchant's business as a futures commission merchant and to ensure compliance with the Act and Commission regulations relating to the swap dealer's or major swap participant's swaps activities, or to the futures commission merchant's business as a futures commission merchant.
 
 (1) The chief compliance officer shall report to the board of directors or the senior officer of the futures commission merchant, swap dealer, or major swap participant. The board of directors or the senior officer shall appoint the chief compliance officer, shall approve the compensation of the chief compliance officer, and shall meet with the chief compliance officer at least once a year and at the election of the chief compliance officer.

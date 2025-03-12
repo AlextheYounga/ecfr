@@ -1,7 +1,5 @@
 ##### § 61.31 Type rating requirements, additional training, and authorization requirements. #####
 
-Link to an amendment published at 83 FR 30276, June 27, 2018.
-
 (a) *Type ratings required.* A person who acts as a pilot in command of any of the following aircraft must hold a type rating for that aircraft:
 
 (1) Large aircraft (except lighter-than-air).
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (3) Other aircraft specified by the Administrator through aircraft type certificate procedures.
 
-(b) *Authorization in lieu of a type rating.* A person may be authorized to operate without a type rating for up to 60 days an aircraft requiring a type rating, provided -
+(b) *Authorization in lieu of a type rating.* A person may be authorized to operate without a type rating for up to 60 days an aircraft requiring a type rating, provided—
 
 (1) The Administrator has authorized the flight or series of flights;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (3) The person shows that compliance with paragraph (a) of this section is impracticable for the flight or series of flights; and
 
-(4) The flight -
+(4) The flight—
 
 (i) Involves only a ferry flight, training flight, test flight, or practical test for a pilot certificate or rating;
 
@@ -32,27 +30,35 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (c) *Aircraft category, class, and type ratings: Limitations on the carriage of persons, or operating for compensation or hire.* Unless a person holds a category, class, and type rating (if a class and type rating is required) that applies to the aircraft, that person may not act as pilot in command of an aircraft that is carrying another person, or is operated for compensation or hire. That person also may not act as pilot in command of that aircraft for compensation or hire.
 
-(d) *Aircraft category, class, and type ratings: Limitations on operating an aircraft as the pilot in command.* To serve as the pilot in command of an aircraft, a person must -
+(d) *Aircraft category, class, and type ratings: Limitations on operating an aircraft as the pilot in command.* To serve as the pilot in command of an aircraft, a person must—
 
 (1) Hold the appropriate category, class, and type rating (if a class or type rating is required) for the aircraft to be flown; or
 
 (2) Have received training required by this part that is appropriate to the pilot certification level, aircraft category, class, and type rating (if a class or type rating is required) for the aircraft to be flown, and have received an endorsement for solo flight in that aircraft from an authorized instructor.
 
-(e) *Additional training required for operating complex airplanes.* (1) Except as provided in paragraph (e)(2) of this section, no person may act as pilot in command of a complex airplane, unless the person has -
+(e) *Additional training required for operating complex airplanes.* (1) Except as provided in paragraph (e)(2) of this section, no person may act as pilot in command of a complex airplane, unless the person has—
 
 (i) Received and logged ground and flight training from an authorized instructor in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane, and has been found proficient in the operation and systems of the airplane; and
 
 (ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a complex airplane.
 
-(2) The training and endorsement required by paragraph (e)(1) of this section is not required if the person has logged flight time as pilot in command of a complex airplane, or in a flight simulator or flight training device that is representative of a complex airplane prior to August 4, 1997.
+(2) The training and endorsement required by paragraph (e)(1) of this section is not required if—
 
-(f) *Additional training required for operating high-performance airplanes.* (1) Except as provided in paragraph (f)(2) of this section, no person may act as pilot in command of a high-performance airplane (an airplane with an engine of more than 200 horsepower), unless the person has -
+(i) The person has logged flight time as pilot in command of a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane prior to August 4, 1997; or
+
+(ii) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under § 135.293 of this chapter in a complex airplane, or in a full flight simulator or flight training device that is representative of a complex airplane which must be documented in the pilot's logbook or training record.
+
+(f) *Additional training required for operating high-performance airplanes.* (1) Except as provided in paragraph (f)(2) of this section, no person may act as pilot in command of a high-performance airplane (an airplane with an engine of more than 200 horsepower), unless the person has—
 
 (i) Received and logged ground and flight training from an authorized instructor in a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane, and has been found proficient in the operation and systems of the airplane; and
 
 (ii) Received a one-time endorsement in the pilot's logbook from an authorized instructor who certifies the person is proficient to operate a high-performance airplane.
 
-(2) The training and endorsement required by paragraph (f)(1) of this section is not required if the person has logged flight time as pilot in command of a high-performance airplane, or in a flight simulator or flight training device that is representative of a high-performance airplane prior to August 4, 1997.
+(2) The training and endorsement required by paragraph (f)(1) of this section is not required if—
+
+(i) The person has logged flight time as pilot in command of a high-performance airplane, or in a full flight simulator or flight training device that is representative of a high-performance airplane prior to August 4, 1997; or
+
+(ii) The person has received ground and flight training under an approved training program and has satisfactorily completed a competency check under § 135.293 of this chapter in a high performance airplane, or in a full flight simulator or flight training device that is representative of a high performance airplane which must be documented in the pilot's logbook or training record.
 
 (g) *Additional training required for operating pressurized aircraft capable of operating at high altitudes.* (1) Except as provided in paragraph (g)(3) of this section, no person may act as pilot in command of a pressurized aircraft (an aircraft that has a service ceiling or maximum operating altitude, whichever is lower, above 25,000 feet MSL), unless that person has received and logged ground training from an authorized instructor and obtained an endorsement in the person's logbook or training record from an authorized instructor who certifies the person has satisfactorily accomplished the ground training. The ground training must include at least the following subjects:
 
@@ -92,7 +98,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (iv) Completing a pilot-in-command proficiency check under part 121, 125, or 135 of this chapter conducted by the Administrator or by an approved pilot check airman.
 
-(h) *Additional aircraft type-specific training.* No person may serve as pilot in command of an aircraft that the Administrator has determined requires aircraft type-specific training unless that person has -
+(h) *Additional aircraft type-specific training.* No person may serve as pilot in command of an aircraft that the Administrator has determined requires aircraft type-specific training unless that person has—
 
 (1) Received and logged type-specific training in the aircraft, or in a full flight simulator or flight training device that is representative of that type of aircraft; and
 
@@ -108,7 +114,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (2) The training and endorsement required by paragraph (i)(1) of this section is not required if the person logged pilot-in-command time in a tailwheel airplane before April 15, 1991.
 
-(j) *Additional training required for operating a glider.* (1) No person may act as pilot in command of a glider -
+(j) *Additional training required for operating a glider.* (1) No person may act as pilot in command of a glider—
 
 (i) Using ground-tow procedures, unless that person has satisfactorily accomplished ground and flight training on ground-tow procedures and operations, and has received an endorsement from an authorized instructor who certifies in that pilot's logbook that the pilot has been found proficient in ground-tow procedures and operations;
 
@@ -146,7 +152,7 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (ii) A pilot proficiency check on night vision goggle operations under part 135 of this chapter conducted by an Examiner or Check Airman.
 
-(iii) A pilot proficiency check on night vision goggle operations conducted by a night vision goggle manufacturer or authorized instructor, when the pilot -
+(iii) A pilot proficiency check on night vision goggle operations conducted by a night vision goggle manufacturer or authorized instructor, when the pilot—
 
 (A) Is employed by a Federal, State, county, or municipal law enforcement agency; and
 
@@ -154,13 +160,13 @@ Link to an amendment published at 83 FR 30276, June 27, 2018.
 
 (l) *Exceptions.* (1) This section does not require a category and class rating for aircraft not type-certificated as airplanes, rotorcraft, gliders, lighter-than-air aircraft, powered-lifts, powered parachutes, or weight-shift-control aircraft.
 
-(2) The rating limitations of this section do not apply to -
+(2) The rating limitations of this section do not apply to—
 
 (i) An applicant when taking a practical test given by an examiner;
 
 (ii) The holder of a student pilot certificate;
 
-(iii) The holder of a pilot certificate when operating an aircraft under the authority of -
+(iii) The holder of a pilot certificate when operating an aircraft under the authority of—
 
 (A) A provisional type certificate; or
 

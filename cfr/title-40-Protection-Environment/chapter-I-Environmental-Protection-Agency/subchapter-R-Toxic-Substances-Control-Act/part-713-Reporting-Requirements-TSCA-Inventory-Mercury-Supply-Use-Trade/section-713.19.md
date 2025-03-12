@@ -1,0 +1,3 @@
+##### § 713.19 Recordkeeping requirements. #####
+
+Each person who is subject to the reporting requirements of this part must retain records that document any information reported to EPA. Records relevant to a reporting year must be retained for a period of 3 years beginning on the last day of the reporting year. Submitters are encouraged to retain their records longer than 3 years to ensure that past records are available as a reference when new submissions are being generated.

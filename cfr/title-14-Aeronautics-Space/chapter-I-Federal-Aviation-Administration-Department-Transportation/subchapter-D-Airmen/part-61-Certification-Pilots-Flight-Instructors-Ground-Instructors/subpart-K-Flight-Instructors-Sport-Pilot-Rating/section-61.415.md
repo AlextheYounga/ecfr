@@ -1,7 +1,5 @@
 ##### § 61.415 What are the limits of a flight instructor certificate with a sport pilot rating? #####
 
-Link to an amendment published at 83 FR 30280, June 27, 2018.
-
 If you hold a flight instructor certificate with a sport pilot rating, you may only provide flight training in a light-sport aircraft and are subject to the following limits:
 
 (a) You may not provide ground or flight training in any aircraft for which you do not hold:
@@ -20,7 +18,7 @@ If you hold a flight instructor certificate with a sport pilot rating, you may o
 
 (d) You may not endorse a:
 
-(1) Student pilot's logbook for solo flight privileges, unless you have -
+(1) Student pilot's logbook for solo flight privileges, unless you have—
 
 (i) Given that student the flight training required for solo flight privileges required by this part; and
 
@@ -28,7 +26,7 @@ If you hold a flight instructor certificate with a sport pilot rating, you may o
 
 (2) Student pilot's logbook for a solo cross-country flight, unless you have determined the student's flight preparation, planning, equipment, and proposed procedures are adequate for the proposed flight under the existing conditions and within any limitations listed in the logbook that you consider necessary for the safety of the flight.
 
-(3) Student pilot's logbook for solo flight in Class B, C, and D airspace areas, at an airport within Class B, C, or D airspace and to from, through or on an airport having an operational control tower, unless you have -
+(3) Student pilot's logbook for solo flight in Class B, C, and D airspace areas, at an airport within Class B, C, or D airspace and to from, through or on an airport having an operational control tower, unless you have—
 
 (i) Given that student ground and flight training in that airspace or at that airport; and
 
@@ -42,12 +40,14 @@ If you hold a flight instructor certificate with a sport pilot rating, you may o
 
 (g) You may not provide training in a light-sport aircraft with a VH greater than 87 knots CAS unless you have the endorsement specified in § 61.327 (b), or are otherwise authorized to operate that light-sport aircraft.
 
-(h) You must perform all training in an aircraft that complies with the requirements of § 91.109 of this chapter.
+(h) You may not provide training on the control and maneuvering of an aircraft solely by reference to the instruments in a light sport airplane with a Vh greater than 87 knots CAS unless you meet the requirements in § 61.412.
 
-(i) If you provide flight training for a certificate, rating or privilege, you must provide that flight training in an aircraft that meets the following:
+(i) You must perform all training in an aircraft that complies with the requirements of § 91.109 of this chapter.
+
+(j) If you provide flight training for a certificate, rating or privilege, you must provide that flight training in an aircraft that meets the following:
 
 (1) The aircraft must have at least two pilot stations and be of the same category and class appropriate to the certificate, rating or privilege sought.
 
 (2) For single place aircraft, pre-solo flight training must be provided in an aircraft that has two pilot stations and is of the same category and class appropriate to the certificate, rating, or privilege sought.
 
-[Doc. No. FAA-2001-11133, 69 FR 44875, July 27, 2004, as amended by Amdt. 61-125, 75 FR 5222, Feb. 1, 2010; Amdt. 61-125A, 75 FR 15610, Mar. 30, 2010; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1307, Jan. 12, 2016]
+[Doc. No. FAA-2001-11133, 69 FR 44875, July 27, 2004, as amended by Amdt. 61-125, 75 FR 5222, Feb. 1, 2010; Amdt. 61-125A, 75 FR 15610, Mar. 30, 2010; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1307, Jan. 12, 2016; Amdt. 61-142, 83 FR 30280, June 27, 2018]
