@@ -1,0 +1,5 @@
+##### § 1.1117 How may an accreditation body request reinstatement of recognition? #####
+
+(a) *Application following revocation of recognition.* An accreditation body that has had its recognition revoked by FDA (as described in § 1.1131) may seek reinstatement by submitting a new application for recognition under § 1.1114. The accreditation body must also submit evidence to FDA with its application to demonstrate that the issues resulting in revocation of recognition have been resolved, including evidence addressing the cause or condition of the grounds for revocation of recognition. The evidence also must identify measures that have been implemented to help ensure that such cause or condition is unlikely to recur.
+
+(b) *Application following relinquishment or expiration of recognition.* An accreditation body that previously relinquished its recognition or allowed its recognition to expire (as described in § 1.1116) may seek reinstatement by submitting a new application for recognition under § 1.1114.

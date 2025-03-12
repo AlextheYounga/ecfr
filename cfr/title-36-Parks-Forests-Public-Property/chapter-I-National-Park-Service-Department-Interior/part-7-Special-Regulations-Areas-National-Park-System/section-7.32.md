@@ -1,5 +1,7 @@
 ##### § 7.32 Pictured Rocks National Lakeshore. #####
 
+Link to an amendment published at 87 FR 5405, Feb. 1, 2022.
+
 (a) *Snowmobiles.* (1) Snowmobile use is permitted on designated portions of roadways and lakes in Pictured Rocks National Lakeshore. The designated routes for snowmobiles will be confined to the frozen waters of Lake Superior, Grand Sable Lake, on the major lakeshore visitor use roads that are unplowed, or on road shoulders of plowed park roads in conformance with State law. The designated snowmobile routes are:
 
 (i) The Sand Point Road from the park boundary to Lake Superior.

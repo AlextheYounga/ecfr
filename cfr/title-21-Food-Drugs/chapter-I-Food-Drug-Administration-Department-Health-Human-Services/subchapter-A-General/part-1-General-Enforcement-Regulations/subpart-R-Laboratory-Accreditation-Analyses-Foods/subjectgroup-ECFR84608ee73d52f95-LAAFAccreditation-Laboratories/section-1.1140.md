@@ -1,0 +1,5 @@
+##### § 1.1140 What must a LAAF-accredited laboratory do to voluntarily relinquish its LAAF-accreditation? #####
+
+(a) *Notice to FDA and the recognized accreditation body of intent to relinquish.* A LAAF-accredited laboratory must notify FDA and its recognized accreditation body at least 60 calendar days before voluntarily relinquishing LAAF-accreditation or any method within the scope of LAAF-accreditation. The notice must include the date on which relinquishment will occur. If the laboratory will relinquish all methods within its scope of LAAF-accreditation, the notification must also include the name and contact information of the custodian who will maintain the records required by § 1.1154 after the date of relinquishment. The contact information for the records custodian must include an email address and the street address where the records required by § 1.1154 will be located.
+
+(b) *Public notice of voluntary relinquishment of accreditation.* FDA will provide notice on the website described in § 1.1109 of the voluntary relinquishment of LAAF-accreditation of a laboratory.

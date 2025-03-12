@@ -1,0 +1,9 @@
+##### § 1.1141 What is the effect on a LAAF-accredited laboratory if its recognized accreditation body is no longer recognized by FDA? #####
+
+If a recognized accreditation body has its application for renewal of recognition denied, relinquishes its recognition or allows its recognition to expire, or has its recognition revoked, any laboratory LAAF-accredited by the accreditation body must take either the actions in paragraph (a) of this section or the action in paragraph (b) of this section no later than 30 calendar days after receiving the notice to the LAAF-accredited laboratory required under § 1.1115(g), § 1.1116(b), or § 1.1131(d)(2):
+
+(a)(1) The LAAF-accredited laboratory must submit to FDA documentation of the LAAF-accredited laboratory's most recent internal audit, required under § 1.1154(a)(5), documentation showing compliance with the conflict of interest requirements in § 1.1147, and documentation of the most recent proficiency test or comparison program result for each test method within the laboratory's scope of LAAF-accreditation, to show compliance with § 1.1138(a)(2); and
+
+(2) The laboratory must become LAAF-accredited by another recognized accreditation body before the laboratory's ISO/IEC 17025:2017(E) (incorporated by reference, see § 1.1101) accreditation lapses or not later than 1 year after the LAAF-accredited laboratory receives the applicable notice under § 1.1115(g), § 1.1116(b), or § 1.1131(d)(2), whichever is sooner.
+
+(b) The LAAF-accredited laboratory initiates relinquishment of its LAAF-accreditation under § 1.1140, with the relinquishment to occur within 90 calendar days.

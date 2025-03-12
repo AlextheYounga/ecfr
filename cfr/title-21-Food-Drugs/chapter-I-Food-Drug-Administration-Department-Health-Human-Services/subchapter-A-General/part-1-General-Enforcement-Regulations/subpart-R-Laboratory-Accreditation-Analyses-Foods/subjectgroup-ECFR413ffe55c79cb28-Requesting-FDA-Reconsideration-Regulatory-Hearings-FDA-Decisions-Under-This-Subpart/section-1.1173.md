@@ -1,0 +1,17 @@
+##### § 1.1173 How does an accreditation body or laboratory request a regulatory hearing on FDA's decision to revoke the accreditation body's recognition or disqualify a LAAF-accredited laboratory? #####
+
+(a) *Request for hearing.* No later than 10 business days after the date FDA issued a revocation of recognition of an accreditation body pursuant to § 1.1131 or disqualification of a LAAF-accredited laboratory under § 1.1161, the accreditation body, laboratory, or an individual authorized to act on the accreditation body's or laboratory's behalf, may submit a request for a regulatory hearing, conducted pursuant to part 16 of this chapter, on the revocation or disqualification. The notice of revocation issued under § 1.1131 or notice of disqualification issued under § 1.1161, as applicable, will contain all the elements required by § 16.22(a) of this chapter and will thereby constitute the notice of an opportunity for hearing under part 16 of this chapter.
+
+(b) *Submission of request for regulatory hearing.* The request for a regulatory hearing under this subpart must be submitted with a written appeal that responds to the bases for the FDA decision described in the written notice of revocation or disqualification, together with any supporting information. The request, appeal, and supporting information must be submitted to FDA in accordance with the procedures described in the notice of revocation or disqualification.
+
+(c) *Effect of submitting a request for a regulatory hearing on an FDA decision.* The submission of a request for a regulatory hearing under this subpart will not operate to delay or stay the effect of a decision by FDA to revoke the recognition of an accreditation body or disqualify the LAAF-accredited laboratory unless FDA determines that delay or a stay is in the public interest.
+
+(d) *Presiding officer.* The presiding officer for a regulatory hearing under this subpart will be designated after a request for a regulatory hearing is submitted to FDA.
+
+(e) *Denial of a request for regulatory hearing.* The presiding officer may deny a request for regulatory hearing under this subpart pursuant to § 16.26(a) of this chapter when no genuine or substantial issue of fact has been raised.
+
+(f) *Conduct of regulatory hearing.* (1) If the presiding officer grants a request for a regulatory hearing, the hearing will be held within 10 business days after the date the request was filed or, if applicable, within a timeframe agreed upon in writing by the accreditation body or laboratory, and the presiding officer and FDA.
+
+(2) The presiding officer must conduct the hearing in accordance with part 16 of this chapter, except that, pursuant to § 16.5(b) of this chapter, the procedures for a regulatory hearing apply only to the extent that such procedures are supplementary and do not conflict with the procedures specified for regulatory hearings under this subpart. Accordingly, the following requirements of part 16 of this chapter are inapplicable to regulatory hearings conducted under this subpart: The requirements of § 16.22 (Initiation of regulatory hearing); § 16.24(e) (timing) and (f) (contents of notice); § 16.40 (Commissioner); § 16.60(a) (public process); § 16.95(b) (administrative decision and record for decision); and § 16.119 (Reconsideration and stay of action).
+
+(3) A decision by the presiding officer to affirm the revocation of recognition or laboratory disqualification is considered a final agency action under 5 U.S.C. 702.

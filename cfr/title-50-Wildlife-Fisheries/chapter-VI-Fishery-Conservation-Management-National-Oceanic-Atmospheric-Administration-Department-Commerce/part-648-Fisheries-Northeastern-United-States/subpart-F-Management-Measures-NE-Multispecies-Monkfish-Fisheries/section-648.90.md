@@ -292,7 +292,7 @@ Atlantic Wolffish Fixed Gear AM Area 2
 
 |      Species       |In-season  <br/>adjustment  <br/>trigger  <br/>(percent)|
 |--------------------|--------------------------------------------------------|
-| Northern Red Hake  |                          37.9                          |
+| Northern Red Hake  |                           90                           |
 |Northern Silver Hake|                           90                           |
 | Southern Red Hake  |                          40.4                          |
 |Southern Silver Hake|                           90                           |

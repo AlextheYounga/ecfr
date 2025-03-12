@@ -1,10 +1,8 @@
 ##### § 129.35 Sanitary facilities. #####
 
-Link to an amendment published at 86 FR 68831, Dec. 3, 2021.
-
 Each plant shall provide adequate sanitary facilities including, but not limited to, the following:
 
-(a) *Product water and operations water* - (1) *Product water.* The product water supply for each plant shall be from an approved source properly located, protected, and operated and shall be easily accessible, adequate, and of a safe, sanitary quality which shall be in conformance at all times with the applicable laws and regulations of the government agency or agencies having jurisdiction.
+(a) *Product water and operations water*—(1) *Product water.* The product water supply for each plant shall be from an approved source properly located, protected, and operated and shall be easily accessible, adequate, and of a safe, sanitary quality which shall be in conformance at all times with the applicable laws and regulations of the government agency or agencies having jurisdiction.
 
 (2) *Operations water.* If different from the product water supply, the operations water supply shall be obtained from an approved source properly located, protected, and operated and shall be easily accessible, adequate, and of a safe, sanitary quality which shall be in conformance at all times with the applicable laws and regulations of the government agency or agencies having jurisdiction.
 
@@ -12,7 +10,7 @@ Each plant shall provide adequate sanitary facilities including, but not limited
 
 (ii) Test and sample methods shall be those recognized and approved by the government agency or agencies having jurisdiction over the approval of the water source, and shall be consistent with the minimum requirements set forth in § 165.110(b) of this chapter.
 
-(iii) Analysis of the sample may be performed for the plant by competent commercial laboratories (e.g., Environmental Protection Agency (EPA) and State-certified laboratories).
+(iii) Analysis of the sample may be performed for the plant by competent commercial laboratories (*e.g.,* Environmental Protection Agency (EPA) and State-certified laboratories), except that the analysis of the five samples from the same sampling site that originally tested positive for *E. coli,* as required by paragraph (a)(3) of this section, must be conducted under part 1, subpart R of this chapter.
 
 (4) *Source water testing exemptions.* (i) Firms that use a public water system for source water may substitute public water system testing results, or certificates showing full compliance with all provisions of EPA National Primary and Secondary Drinking Water Regulations pertaining to chemical contaminants (40 CFR parts 141 and 143), for the testing requirements of § 129.35(a)(3).
 
@@ -26,4 +24,4 @@ Each plant shall provide adequate sanitary facilities including, but not limited
 
 (c) *Locker and lunchrooms.* When employee locker and lunchrooms are provided, they shall be separate from plant operations and storage areas and shall be equipped with self-closing doors. The rooms shall be maintained in a clean and sanitary condition and refuse containers should be provided. Packaging or wrapping material or other processing supplies shall not be stored in locker or lunchrooms.
 
-[42 FR 14355, Mar. 15, 1977, as amended at 44 FR 12175, Mar. 6, 1979; 60 FR 57123, Nov. 13, 1995; 66 FR 16865, Mar. 28, 2001; 74 FR 25664, May 29, 2009]
+[42 FR 14355, Mar. 15, 1977, as amended at 44 FR 12175, Mar. 6, 1979; 60 FR 57123, Nov. 13, 1995; 66 FR 16865, Mar. 28, 2001; 74 FR 25664, May 29, 2009; 86 FR 68831, Dec. 3, 2021]

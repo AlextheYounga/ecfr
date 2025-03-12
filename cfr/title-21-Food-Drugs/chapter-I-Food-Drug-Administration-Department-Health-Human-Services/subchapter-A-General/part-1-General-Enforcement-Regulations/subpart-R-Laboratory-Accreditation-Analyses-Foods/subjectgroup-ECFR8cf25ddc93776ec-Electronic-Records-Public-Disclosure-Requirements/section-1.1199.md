@@ -1,0 +1,3 @@
+##### § 1.1199 Are electronic records created under this subpart subject to the electronic records requirements of part 11 of this chapter? #####
+
+Records that are established or maintained to satisfy the requirements of this subpart and that meet the definition of electronic records in § 11.3(b)(6) of this chapter are exempt from the requirements of part 11 of this chapter. Records that satisfy the requirements of this subpart, but that also are required under other applicable statutory provisions or regulations, remain subject to part 11 of this chapter.

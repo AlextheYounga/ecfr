@@ -1,0 +1,9 @@
+##### § 1.1142 How does a laboratory request reinstatement of LAAF-accreditation? #####
+
+(a) *Application following reduction of scope or withdrawal of LAAF-accreditation by a recognized accreditation body or disqualification by FDA.* A laboratory that has had any methods within its scope of LAAF-accreditation reduced or has had its LAAF-accreditation withdrawn by a recognized accreditation body or that has been disqualified by FDA may seek reinstatement of LAAF-accreditation by submitting a new application for LAAF-accreditation to a recognized accreditation body under § 1.1139. The laboratory must also:
+
+(1) Notify FDA prior to submitting a new application for LAAF-accreditation to the recognized accreditation body, including in the notification the name of the laboratory, contact information for the laboratory, the name of the recognized accreditation body to which the laboratory will be submitting the application, and the date that the laboratory expects to submit the new application for LAAF-accreditation; and
+
+(2) Demonstrate, to the satisfaction of the recognized accreditation body to which it is submitting the new application, that the grounds for the reduction of scope or withdrawal of LAAF-accreditation or disqualification have been resolved and that the laboratory has implemented measures to prevent such grounds from recurring.
+
+(b) *Application following voluntary relinquishment of LAAF-accreditation.* A laboratory that voluntarily relinquished any methods within the scope of its LAAF-accreditation pursuant to § 1.1140, may seek reaccreditation by submitting a new application for LAAF-accreditation to a recognized accreditation body under § 1.1139.

@@ -1,0 +1,7 @@
+##### § 1.1139 How does a laboratory apply for LAAF-accreditation or extend its scope of LAAF-accreditation? #####
+
+(a) *Application for LAAF-accreditation.* A laboratory seeking LAAF-accreditation or extension of its scope of LAAF-accreditation must submit its application for LAAF-accreditation to a recognized accreditation body identified on the website described in § 1.1109. The recognized accreditation body will review and assess the application in accordance with the requirements of this subpart. If the laboratory seeking LAAF-accreditation had its LAAF-accreditation withdrawn or one or more methods within its scope of LAAF-accreditation reduced by a recognized accreditation body or has been previously disqualified by FDA, the laboratory must meet the additional requirements specified by § 1.1142(a).
+
+(b) *Documentation of conformance with ISO/IEC 17025:2017(E).* The laboratory may use documentation of conformance with ISO/IEC 17025:2017(E) (incorporated by reference, see § 1.1101), as applicable and supplemented as necessary, in meeting the applicable requirements of this subpart.
+
+(c) *Duration of accreditation.* If a LAAF-accredited laboratory maintains compliance with all requirements of this subpart, including accreditation to ISO/IEC 17025:2017(E), the laboratory's LAAF-accreditation will not end until reduced in scope, withdrawn, relinquished, or the laboratory is disqualified, under this subpart.

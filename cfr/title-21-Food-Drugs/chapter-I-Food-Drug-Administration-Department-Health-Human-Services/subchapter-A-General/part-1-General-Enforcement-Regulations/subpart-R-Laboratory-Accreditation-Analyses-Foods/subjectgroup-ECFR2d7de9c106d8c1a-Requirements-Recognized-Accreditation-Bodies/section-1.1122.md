@@ -1,0 +1,3 @@
+##### § 1.1122 What procedures must a recognized accreditation body provide for appeals of decisions to suspend, reduce the scope of, withdraw, or deny LAAF-accreditation? #####
+
+A recognized accreditation body must consider a laboratory's appeal regarding a decision to suspend, reduce the scope of, withdraw, or deny LAAF-accreditation in accordance with the requirements of § 1.1113(a). Appeals must be reviewed and decided by a competent person(s) free from bias or prejudice who has not participated in the LAAF-accreditation decision and is not the subordinate of a person who participated in the LAAF-accreditation decision. For the purposes of appeals, the competent person(s) may be external to the recognized accreditation body.
