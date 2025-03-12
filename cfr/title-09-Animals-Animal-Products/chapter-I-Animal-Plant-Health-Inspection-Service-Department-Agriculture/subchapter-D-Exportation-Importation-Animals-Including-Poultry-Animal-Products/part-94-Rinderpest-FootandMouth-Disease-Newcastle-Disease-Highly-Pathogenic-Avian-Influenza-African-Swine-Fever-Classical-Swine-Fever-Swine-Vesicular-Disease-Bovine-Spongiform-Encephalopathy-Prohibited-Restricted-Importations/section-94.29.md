@@ -1,7 +1,5 @@
 ##### § 94.29 Restrictions on importation of fresh (chilled or frozen) beef and ovine meat from specified regions. #####
 
-Link to an amendment published at 82 FR 42732, Sept. 12, 2017.
-
 Notwithstanding any other provisions of this part, fresh (chilled or frozen) beef from a region in Argentina located north of Patagonia South and Patagonia North B, referred to as Northern Argentina (the region sometimes referred to as Patagonia North A is included in Northern Argentina); fresh (chilled or frozen) beef from a region in Brazil composed of the States of Bahia, Distrito Federal, Espírito Santo, Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Rio de Janeiro, Rondônia, São Paulo, Sergipe, and Tocantins; and fresh (chilled or frozen) beef and ovine meat from Uruguay may be exported to the United States under the following conditions:
 
 (a) The meat is:
@@ -20,14 +18,26 @@ Notwithstanding any other provisions of this part, fresh (chilled or frozen) bee
 
 (f) The meat consists only of bovine parts or ovine parts that are, by standard practice, part of the animal's carcass that is placed in a chiller for maturation after slaughter and before removal of any bone, blood clots, or lymphoid tissue. The bovine and ovine parts that may not be imported include all parts of the head, feet, hump, hooves, and internal organs.
 
-(g) All bone and visually identifiable blood clots and lymphoid tissue have been removed from the meat.
+(g) All bone and visually identifiable blood clots and lymphoid tissue have been removed from the meat; except that bone-in ovine meat from Uruguay may be exported to the United States under the following conditions:
+
+(1) The meat must be derived from select lambs that have never been vaccinated for FMD;
+
+(2) The select lambs must be maintained in a program approved by the Administrator. Lambs in the program must:
+
+(i) Be segregated from other FMD-susceptible livestock at a select lamb facility operated under the authority of the national veterinary authority of Uruguay;
+
+(ii) Be subjected to an FMD testing scheme approved by the Administrator; and
+
+(iii) Be individually identified with official unique identification that is part of a national traceability system sufficient to ensure that only the products of select lambs meeting all required criteria are exempt from the deboning requirement.
+
+(3) Select lambs and their products must not be commingled with other animals and their products within the slaughter facility.
 
 (h) The meat has not been in contact with meat from regions other than those listed in § 94.1(a).
 
-(i) The meat came fromcarcasses that were allowed to maturate at 40 to 50 °F (4 to 10 °C) for a minimum of 24 hours after slaughter and that reached a pH below 6.0 in the loin muscle at the end of the maturation period. Measurements for pH must be taken at the middle of both *longissimus dorsi* muscles. Any carcass in which the pH does not reach less than 6.0 may be allowed to maturate an additional 24 hours and be retested, and, if the carcass still has not reached a pH of less than 6.0 after 48 hours, the meat from the carcass may not be exported to the United States.
+(i) The meat came from carcasses that were allowed to maturate at 40 to 50 °F (4 to 10 °C) for a minimum of 24 hours after slaughter and that reached a pH below 6.0 in the loin muscle at the end of the maturation period. Measurements for pH must be taken at the middle of both *longissimus dorsi* muscles. Any carcass in which the pH does not reach less than 6.0 may be allowed to maturate an additional 24 hours and be retested, and, if the carcass still has not reached a pH of less than 6.0 after 48 hours, the meat from the carcass may not be exported to the United States.
 
 (j) An authorized veterinary official of the government of the exporting region certifies on the foreign meat inspection certificate that the above conditions have been met.
 
 (k) The establishment in which the bovines and sheep are slaughtered allows periodic on-site evaluation and subsequent inspection of its facilities, records, and operations by an APHIS representative.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0372, 0579-0414, and 0579-0428)[80 FR 37952, July 2, 2015; 82 FR 6212, Jan. 19, 2017]
+(Approved by the Office of Management and Budget under control numbers 0579-0372, 0579-0414, 0579-0428, and 0579-0449)[80 FR 37952, July 2, 2015; 82 FR 6212, Jan. 19, 2017; 82 FR 42732, Sept. 12, 2017]

@@ -21,5 +21,3 @@
 (c) *Public safety information exchange.* (1) Upon request by an ESMR or part 22 Cellular Radiotelephone licensee, public safety/CII licensees who operate radio systems in the 806-824/851-869 MHz shall provide the operating parameters of their radio system to the ESMR or part 22 Cellular Radiotelephone licensee.
 
 (2) Public safety licensees who perform the information exchange as described in this section must notify the appropriate ESMR and part 22 Cellular Radiotelephone licensees prior to any technical changes to their radio system.
-
-Effective Date Note:At 69 FR 67849, Nov. 22, 2004, § 90.675 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

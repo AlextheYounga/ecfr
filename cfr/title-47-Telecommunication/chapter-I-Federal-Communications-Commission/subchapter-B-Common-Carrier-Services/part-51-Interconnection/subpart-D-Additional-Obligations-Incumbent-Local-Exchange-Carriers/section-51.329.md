@@ -1,5 +1,7 @@
 ##### § 51.329 Notice of network changes: Methods for providing notice. #####
 
+Link to an amendment published at 82 FR 62655, Sept, 12, 2016.
+
 (a) In providing the required notice to the public of network changes, an incumbent LEC may use one of the following methods:
 
 (1) Filing a public notice with the Commission; or
@@ -20,4 +22,4 @@
 
 (2) The incumbent LEC's public notice and any associated certifications shall be filed through the Commission's Electronic Comment Filing System (ECFS), using the “Submit a Non-Docketed Filing” module. All subsequent filings responsive to a notice may be filed using the Commission's ECFS under the docket number set forth in the Commission's public notice for the proceeding. Subsequent filings responsive to a notice also may be filed by sending one paper copy of the filing to “Secretary, Federal Communications Commission, Washington, DC 20554” and one paper copy of the filing to “Federal Communications Commission, Wireline Bureau, Competition Policy Division, Washington, DC 20554.” For notices filed using the Commission's ECFS, the date on which the filing is received by that system will be considered the official filing date. For notices filed via paper copy, the date on which the filing is received by the Secretary or the FCC Mailroom is considered the official filing date. All subsequent filings responsive to a notice shall refer to the ECFS docket number assigned to the notice.
 
-[61 FR 47351, Sept. 6, 1996, as amended at 67 FR 13225, Mar. 21, 2002; 71 FR 65750, Nov. 9, 2006; 80 FR 1588, Jan. 13, 2015; 81 FR 62655, Sept. 12, 2016]Effective Date Note:At 81 FR 62655, Sept. 12, 2016, § 51.329c)(1) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[61 FR 47351, Sept. 6, 1996, as amended at 67 FR 13225, Mar. 21, 2002; 71 FR 65750, Nov. 9, 2006; 80 FR 1588, Jan. 13, 2015; 81 FR 62655, Sept. 12, 2016]Effective Date Note:At 81 FR 62655, Sept. 12, 2016, § 51.329 was amended by revising paragraph (c)(1). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
