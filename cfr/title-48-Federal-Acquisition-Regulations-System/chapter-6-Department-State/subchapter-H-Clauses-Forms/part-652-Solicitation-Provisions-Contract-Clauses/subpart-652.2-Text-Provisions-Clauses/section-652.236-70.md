@@ -1,5 +1,7 @@
 ##### 652.236-70 Accident Prevention. #####
 
+Link to an amendment published at 82 FR 58353, Dec. 12, 2017.
+
 As prescribed in 636.513, insert the following clause:
 
 Accident Prevention (APR 2004)

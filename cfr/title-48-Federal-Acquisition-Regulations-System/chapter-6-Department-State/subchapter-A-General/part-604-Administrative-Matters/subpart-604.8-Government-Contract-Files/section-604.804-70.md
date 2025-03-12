@@ -1,5 +1,7 @@
 ##### 604.804-70 Contract closeout procedures. #####
 
+Link to an amendment published at 82 FR 58351, Dec. 12, 2017.
+
 (a) This section sets forth procedures for closing out contracts awarded using other than simplified acquisition procedures by contracting activities and requirements offices. It is the Department's policy to close out contracts in the time frames prescribed by FAR Part 4.
 
 (b) Contracting activities are responsible for initiating each contract closeout. Contracting activities and requirements offices are jointly responsible for timely compliance with required contract closeout procedures.

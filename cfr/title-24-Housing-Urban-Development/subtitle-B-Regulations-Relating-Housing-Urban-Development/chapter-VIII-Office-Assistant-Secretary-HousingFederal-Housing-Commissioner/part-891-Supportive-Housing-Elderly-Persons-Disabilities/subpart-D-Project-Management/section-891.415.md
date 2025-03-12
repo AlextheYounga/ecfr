@@ -1,5 +1,7 @@
 ##### § 891.415 Obligations of the household or family. #####
 
+Link to an amendment published at 82 FR 58340, Dec. 12, 2017.
+
 This section shall apply to capital advances under the Section 202 Program and the Section 811 Program, as well as loans financed under subpart E of this part.
 
 (a) *Requirements.* The household (or family, as applicable) shall:

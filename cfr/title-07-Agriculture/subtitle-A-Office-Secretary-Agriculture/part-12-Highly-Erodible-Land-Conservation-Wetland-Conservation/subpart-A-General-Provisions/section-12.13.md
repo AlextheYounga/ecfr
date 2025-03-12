@@ -2,17 +2,17 @@
 
 (a) *General.* The provisions and exemptions in this section are only applicable to Federal crop insurance premium subsidies for a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501-1524). The exemptions in this section are in addition to any that apply under § 12.5. Any conflict between this section and another will be resolved by applying this section, but only for Federal crop insurance premium subsidies. Any exemptions or relief under this section apply to Federal crop insurance premium subsidies and do not apply to other benefits even for the same person for the same crop year or reinsurance year. Unless otherwise specified in this section, the provisions in this section apply to both highly erodible land and wetlands.
 
-(b) *Ineligibility for failing to certify compliance.* Subject to paragraphs (b)(2) and (3) of this section, failing to certify compliance as specified in § 12.7 will result in ineligibility as follows:
+(b) *Ineligibility for failing to certify compliance.* Subject to paragraph (b)(2) of this section, failing to certify compliance as specified in § 12.7 will result in ineligibility as follows:
 
-(1) A Form AD-1026, or successor form, for the person must be on file with FSA on or before June 1 prior to the beginning of the reinsurance year (July 1) in order for the person to be eligible for any Federal crop insurance premium subsidies for the reinsurance year. Failure to file Form AD-1026, or successor form, with FSA on or before June 1 prior to the beginning of the reinsurance year (July 1) will result in ineligibility for premium subsidies for the entirety of that reinsurance year.
+(1) A Form AD-1026, or successor form, for the person must be filed with FSA for the reinsurance year in order for the person to be eligible for any Federal crop insurance premium subsidies for the reinsurance year. Persons will be ineligible for Federal crop insurance premium subsidy on their crop insurance policy if form AD-1026, or successor form, has not been filed with FSA for the reinsurance year by the premium billing date for their Federally-reinsured crop insurance policy.
 
-(2) A person will have until the first applicable crop insurance sales closing date to provide information necessary for the person's filing of a Form AD-1026 if the person:
+(2) A person that has not filed an AD-1026 for the reinsurance year by the premium billing date may be eligible for premium subsidy for the reinsurance year if they provide information necessary for the person's filing of a Form AD-1026 if the person:
 
-(i) Is unable to file a Form AD-1026 by June 1 due to circumstances beyond the person's control, as determined by FSA; or
+(i) Is unable to file a Form AD-1026 due to circumstances beyond the person's control, as determined by FSA; or
 
-(ii) Files a Form AD-1026 by June 1 in good faith and FSA subsequently determines that additional information is needed, but the person is unable to comply by July 1 due to circumstances beyond the control of the person.
+(ii) Files a Form AD-1026 in good faith and FSA subsequently determines that additional information is needed, but the person is unable to comply due to circumstances beyond the control of the person.
 
-(3) A person who does not have Form AD-1026, or successor form, on file with FSA on or before June 1 prior to the beginning of the reinsurance year may be eligible for Federal crop insurance premium subsidy for the subsequent reinsurance year if the person can demonstrate they began farming for the first time after June 1 but prior to the beginning of the reinsurance year (July 1). For example, a person who started farming for the first time on June 15, 2015, will be eligible for Federal crop insurance premium subsidies for the 2016 reinsurance year without a Form AD-1026 on file with FSA. However, in that case, the person must file Form AD-1026 with FSA on or before June 1, 2016 to be eligible for premium subsidy for the 2017 reinsurance year.
+(3) A person who does not have Form AD-1026, or successor form, on file with FSA for the reinsurance year may be eligible for Federal crop insurance premium subsidy for the initial reinsurance year if the person can demonstrate they meet RMA's conditions for new to farming, new to crop insurance, a new entity, or have not previously been required to file form AD-1026.
 
 (c) *Ineligibility for violations.* If a person is ineligible due to a violation of the provisions of this part, the timing and results will be as follows:
 
@@ -174,4 +174,4 @@
 
 (3) A person who fails to pay the full equitable contribution amount by the due date determined by NRCS will be ineligible for Federal crop insurance premium subsidy on any policy or plan of insurance beginning with the subsequent reinsurance year. The person will be ineligible for Federal crop insurance premium subsidy for the entire reinsurance year even if full payment of the equitable contribution amount is received by NRCS during the reinsurance year.
 
-[80 FR 22881, Apr. 24, 2015]
+[80 FR 22881, Apr. 24, 2015, as amended at 82 FR 58334, Dec. 12, 2017]
