@@ -1,12 +1,12 @@
 ##### § 29.518 Reporting delinquent debts to credit bureaus. #####
 
-(a) *Notice.* If a debtor's response to the demand letter does not result in payment in full, payment by offset, or payment in accordance with a voluntary repayment agreement or other repayment schedule acceptable to the Benefits Administrator, and the debtor's rights under § 29.512 through § 29.514 have been exhausted, the Benefits Administrator must report the debtor to a credit bureau. In addition, a debtor's failure to make subsequent payments in accordance with a repayment schedule must result in a report to a credit bureau. Before making a report to a credit bureau, the Benefits Administrator must notify the debtor in writing that -
+(a) *Notice.* If a debtor's response to the demand letter does not result in payment in full, payment by offset, or payment in accordance with a voluntary repayment agreement or other repayment schedule acceptable to the Benefits Administrator, and the debtor's rights under §§ 29.512 through 29.514 have been exhausted, the Benefits Administrator must report the debtor to a credit bureau. In addition, a debtor's failure to make subsequent payments in accordance with a repayment schedule must result in a report to a credit bureau. Before making a report to a credit bureau, the Benefits Administrator must notify the debtor in writing that—
 
 (1) The payment is overdue;
 
 (2) The Benefits Administrator intends, after 60 days, to make a report as described in paragraph (b) of this section to a credit bureau;
 
-(3) The debtor's right to dispute the liability has been exhausted under § 29.512 through § 29.514; and
+(3) The debtor's right to dispute the liability has been exhausted under §§ 29.512 through 29.514; and
 
 (4) The debtor may avoid having the Benefits Administrator report the debtor to a credit bureau by paying the debt in one lump sum or making payments current under a repayment schedule.
 

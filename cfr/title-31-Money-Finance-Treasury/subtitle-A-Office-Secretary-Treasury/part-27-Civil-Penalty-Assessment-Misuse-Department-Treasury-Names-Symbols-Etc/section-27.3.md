@@ -1,6 +1,6 @@
 ##### § 27.3 Assessment of civil penalties. #####
 
-(a) *General Rule.* An assessing official may impose a civil penalty on any person -
+(a) *General rule.* An assessing official may impose a civil penalty on any person -
 
 (1) Who uses in connection with, or as a part of, any advertisement, solicitation, business activity, or product, whether alone or with other words, letters, symbols, or emblems;
 
@@ -20,10 +20,10 @@
 
 (b) *Disclaimers.* Any determination of whether a person has violated the provisions of paragraph (a) of this section shall be made without regard to any use of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
-(c) *Civil Penalty.* An assessing official may impose a civil penalty on any person who violates the provisions of paragraph (a) of this section. The amount of a civil monetary penalty shall not exceed $5,000 for each and every use of any material in violation of paragraph (a), except that such penalty shall not exceed $25,000 for each and every use if such use is in a broadcast or telecast.
+(c) *Civil penalty.* An assessing official may impose a civil penalty on any person who violates the provisions of paragraph (a) of this section. The amount of a civil monetary penalty shall not exceed $5,000 for each and every use of any material in violation of paragraph (a), except that such penalty shall not exceed $25,000 for each and every use if such use is in a broadcast or telecast.
 
-(d) *Time Limitations.* (1) Civil penalties imposed under this part must be assessed before the end of the three year period beginning on the date of offense charged.
+(d) *Time limitations.* (1) Civil penalties imposed under this part must be assessed before the end of the three year period beginning on the date of offense charged.
 
 (2) An assessing official may commence a civil action to recover or enforce any civil penalty imposed in a Final Notice of Assessment issued pursuant to § 27.7 at any time before the end of the two year period beginning on the date of the Final Notice of Assessment. If judicial review of the Final Notice of Assessment is sought, the two year period begins to run from the date that a final and unappealable court order is issued.
 
-(e) *Criminal Proceeding.* No civil penalty may be imposed under this part with respect to any violation of paragraph (a) of this section after a criminal proceeding on the same violation has been commenced by indictment or information under 31 U.S.C. 333(d).
+(e) *Criminal proceeding.* No civil penalty may be imposed under this part with respect to any violation of paragraph (a) of this section after a criminal proceeding on the same violation has been commenced by indictment or information under 31 U.S.C. 333(d).

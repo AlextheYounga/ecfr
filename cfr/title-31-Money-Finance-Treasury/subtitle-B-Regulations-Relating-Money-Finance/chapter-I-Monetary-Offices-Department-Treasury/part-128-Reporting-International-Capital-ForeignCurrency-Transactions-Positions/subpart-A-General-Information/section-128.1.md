@@ -1,6 +1,6 @@
 ##### § 128.1 General reporting requirements. #####
 
-(a) *International capital transactions and positions.* (1) In order to implement the International Investment and Trade in Services Survey Act, as amended (22 U.S.C. 3101 *et seq.*); and E.O. 11961, and to obtain information requested by the International Monetary Fund under the articles of agreement of the Fund pursuant to section 8(a) of the Bretton Woods Agreements Act (22 U.S.C. 286f) and E.O. 10033, persons subject to the jurisdiction of the United States are required to report information pertaining to -
+(a) *International capital transactions and positions.* (1) In order to implement the International Investment and Trade in Services Survey Act, as amended (22 U.S.C. 3101 *et seq.*); and E.O. 11961, and to obtain information requested by the International Monetary Fund under the articles of agreement of the Fund pursuant to section 8(a) of the Bretton Woods Agreements Act (22 U.S.C. 286f) and E.O. 10033, persons subject to the jurisdiction of the United States are required to report information pertaining to—
 
 (i) United States claims on, and liabilities to, foreigners;
 
@@ -8,11 +8,11 @@
 
 (iii) The monetary reserves of the United States.
 
-(2) Data pertaining to direct investment transactions are not required to be reported under this Part.
+(2) Data pertaining to direct investment transactions are not required to be reported under this part.
 
 (3) Reports shall be made in such manner and at such intervals as specified by the Secretary of the Treasury. See subpart B of this part for additional requirements concerning these reports.
 
-(b) *Foreign currency positions.* (1) In order to provide data on the nature and source of flows of mobile capital, including transactions by large United States business enterprises (as determined by the Secretary) and their foreign affiliates as required by 31 U.S.C. 5315, persons subject to the jurisdiction of the United States are required to report information pertaining to -
+(b) *Foreign currency positions.* (1) In order to provide data on the nature and source of flows of mobile capital, including transactions by large United States business enterprises (as determined by the Secretary) and their foreign affiliates as required by 31 U.S.C. 5315, persons subject to the jurisdiction of the United States are required to report information pertaining to—
 
 (i) Transactions in foreign exchange;
 

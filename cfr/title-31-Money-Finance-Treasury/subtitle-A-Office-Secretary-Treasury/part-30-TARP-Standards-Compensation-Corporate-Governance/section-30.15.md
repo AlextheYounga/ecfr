@@ -1,24 +1,24 @@
 ##### § 30.15 Q-15: What actions are necessary for a TARP recipient to comply with certification requirements of section 111(b)(4) of EESA? #####
 
-(a) *Certification Requirements* - (1) *General.* To comply with section 111(b)(4) of EESA, the PEO and the PFO of the TARP recipient must provide the following certifications with respect to the compliance of the TARP recipient with section 111 of EESA as implemented under this part:
+(a) *Certification Requirements*—(1) *General.* To comply with section 111(b)(4) of EESA, the PEO and the PFO of the TARP recipient must provide the following certifications with respect to the compliance of the TARP recipient with section 111 of EESA as implemented under this part:
 
 (2) *First Fiscal Year Certification.* (i) Within ninety days of the completion of the first annual fiscal year of the TARP recipient any portion of which is a TARP period, the PEO and the PFO of the TARP recipient must provide certifications similar to the model provided in appendix A to this section.
 
 (ii) If the first annual fiscal year of a TARP recipient any portion of which is a TARP period ends within thirty days after the closing date of the applicable agreement between the TARP recipient and Treasury, the TARP recipient shall have an additional sixty days beginning on the day after the end of the fiscal year during which it can establish the compensation committee, if not already established, and during which the compensation committee shall meet with senior risk officers to discuss, review, and evaluate the SEO compensation plans and employee compensation plans in accordance with § 30.4 (Q-4) of this part. The certifications of the PEO and the PFO of the TARP recipient must be amended to reflect the timing of the establishment and reviews of the compensation committee.
 
-(3) *Years Following First Fiscal Year Certification.* Within ninety days of the completion of each TARP fiscal year of the TARP recipient after the first TARP fiscal year, the PEO and the PFO of the TARP recipient must provide a certification similar to the model provided in Appendix B to this section.
+(3) *Years Following First Fiscal Year Certification.* Within ninety days of the completion of each TARP fiscal year of the TARP recipient after the first TARP fiscal year, the PEO and the PFO of the TARP recipient must provide a certification similar to the model provided in appendix B to this section.
 
 (4) *Location.* A TARP recipient with securities registered with the SEC pursuant to the Federal securities law must provide these certifications as an exhibit (pursuant to Item 601(b)(99)(i) of Regulation S-K under the Federal securities laws (17 CFR 229.601(b)(99)(i)) to the TARP recipient's annual report on Form 10-K and to Treasury. To the extent that the PEO or the PFO of the TARP recipient is unable to provide any of these certifications in a timely manner, the PEO or the PFO must provide Treasury an explanation of the reason such certification has not been provided. These certifications are in addition to the compensation committee certifications required by § 30.5 (Q-5) of this part.
 
-(5) *Application to private TARP recipients.* The rules provided in this section are also applicable to TARP recipients that do not have securities registered with the SEC pursuant to the Federal securities laws, except that the certifications under Appendix A, paragraph (x) and Appendix B, paragraph (x) of this section are not required for such TARP recipients. A private TARP recipient must provide these certifications to its primary regulatory agency and to Treasury.
+(5) *Application to private TARP recipients.* The rules provided in this section are also applicable to TARP recipients that do not have securities registered with the SEC pursuant to the Federal securities laws, except that the certifications under appendix A, paragraph (x) and appendix B, paragraph (x) of this section are not required for such TARP recipients. A private TARP recipient must provide these certifications to its primary regulatory agency and to Treasury.
 
 (6) *Application to TARP recipients that have never had an obligation.* For those TARP recipients that have never had an obligation, the PEO and PFO must provide the certifications pursuant to this paragraph (a) only with respect to the requirements applicable to a TARP recipient that has never had an obligation (generally certain compensation committee reviews of employee compensation plans and the issuance of, and compliance with, an excessive or luxury expenses policy).
 
 (b) *Recordkeeping requirements.* The TARP recipient must preserve appropriate documentation and records to substantiate each certification required under paragraph (a) of this section for a period of not less than six years after the date of the certification, the first two years in an easily accessible place. The TARP recipient must furnish promptly to Treasury legible, true, complete, and current copies of the documentation and records that are required to be preserved under paragraph (b) of this section that are requested by any representative of Treasury.
 
-(c) *Penalties for making or providing false or fraudulent Statements.* Any individual or entity that provides information or makes a certification to Treasury pursuant to the Interim Final Rule or as required pursuant to 31 CFR Part 30 may be subject to 18 U.S.C. 1001, which generally prohibits the making of any false or fraudulent statement in a matter within the jurisdiction of the Federal government. Upon receipt of information indicating that any individual or entity has violated any provision of title 18 of the U.S. Code or other provision of Federal law, Treasury shall refer such information to the Department of Justice and the Special Inspector General for the Troubled Asset Relief Program.
+(c) *Penalties for making or providing false or fraudulent Statements.* Any individual or entity that provides information or makes a certification to Treasury pursuant to the Interim Final Rule or as required pursuant to 31 CFR part 30 may be subject to 18 U.S.C. 1001, which generally prohibits the making of any false or fraudulent statement in a matter within the jurisdiction of the Federal government. Upon receipt of information indicating that any individual or entity has violated any provision of title 18 of the U.S. Code or other provision of Federal law, Treasury shall refer such information to the Department of Justice and the Special Inspector General for the Troubled Asset Relief Program.
 
-Appendix A to § 30.15 - Model Certification for First Fiscal Year Certification
+Appendix A to § 30.15—Model Certification for First Fiscal Year Certification
 
 “I, [identify certifying individual], certify, based on my knowledge, that:
 
@@ -60,7 +60,7 @@ Appendix A to § 30.15 - Model Certification for First Fiscal Year Certification
 
 (xvi) I understand that a knowing and willful false or fraudulent statement made in connection with this certification may be punished by fine, imprisonment, or both. (*See,* for example, 18 U.S.C. 1001.)”
 
-Appendix B to § 30.15 - Model Certification for Years Following First Fiscal Year Certification
+Appendix B to § 30.15—Model Certification for Years Following First Fiscal Year Certification
 
 “I, [identify certifying individual], certify, based on my knowledge, that:
 

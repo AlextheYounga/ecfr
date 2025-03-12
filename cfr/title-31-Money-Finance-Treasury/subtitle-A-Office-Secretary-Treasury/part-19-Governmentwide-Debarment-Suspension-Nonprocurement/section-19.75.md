@@ -1,6 +1,6 @@
 ##### § 19.75 Do terms in this part have special meanings? #####
 
-This part uses terms throughout the text that have special meaning. Those terms are defined in Subpart I of this part. For example, three important terms are -
+This part uses terms throughout the text that have special meaning. Those terms are defined in subpart I of this part. For example, three important terms are—
 
 (a) *Exclusion or excluded,* which refers only to discretionary actions taken by a suspending or debarring official under this part or the Federal Acquisition Regulation (48 CFR part 9, subpart 9.4);
 

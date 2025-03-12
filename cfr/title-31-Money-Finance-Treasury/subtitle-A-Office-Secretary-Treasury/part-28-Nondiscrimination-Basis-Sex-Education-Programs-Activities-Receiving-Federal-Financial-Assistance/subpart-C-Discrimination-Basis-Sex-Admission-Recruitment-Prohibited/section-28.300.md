@@ -1,6 +1,6 @@
 ##### § 28.300 Admission. #####
 
-(a) *General.* No person shall, on the basis of sex, be denied admission, or be subjected to discrimination in admission, by any recipient to which §§ 28.300 through §§ 28.310 apply, except as provided in §§ 28.225 and §§ 28.230.
+(a) *General.* No person shall, on the basis of sex, be denied admission, or be subjected to discrimination in admission, by any recipient to which §§ 28.300 through 28.310 apply, except as provided in §§ 28.225 and 28.230.
 
 (b) *Specific prohibitions.* (1) In determining whether a person satisfies any policy or criterion for admission, or in making any offer of admission, a recipient to which §§ 28.300 through 28.310 apply shall not:
 

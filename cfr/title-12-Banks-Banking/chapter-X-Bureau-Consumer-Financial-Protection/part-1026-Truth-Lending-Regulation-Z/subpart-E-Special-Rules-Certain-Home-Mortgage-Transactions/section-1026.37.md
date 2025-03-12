@@ -1,7 +1,5 @@
 ##### § 1026.37 Content of disclosures for certain mortgage transactions (Loan Estimate). #####
 
-Link to an amendment published at 82 FR 37769, Aug. 11, 2017.
-
 For each transaction subject to § 1026.19(e), the creditor shall disclose the information in this section:
 
 (a) *General information* - (1) *Form title.* The title of the form, “Loan Estimate,” using that term.
@@ -76,9 +74,9 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (ii) The “Rate Lock” statement required by this paragraph (a)(13) shall be accompanied by a statement that the interest rate, any points, and any lender credits may change unless the interest rate has been locked, and the date and time (including the applicable time zone) at which estimated closing costs expire.
 
-(b) *Loan terms.* A separate table under the heading “Loan Terms” that contains the following information and satisfies the following requirements:
+(b) *Loan terms.* A separate table under the heading “Loan Terms” that contains the following information and that satisfies the following requirements:
 
-(1) *Loan amount.* The amount of credit to be extended under the terms of the legal obligation, labeled “Loan Amount.”
+(1) *Loan amount.* The total amount the consumer will borrow, as reflected by the face amount of the note, labeled “Loan Amount.”
 
 (2) *Interest rate.* The interest rate that will be applicable to the transaction at consummation, labeled “Interest Rate.” For an adjustable rate transaction, if the interest rate at consummation is not known, the rate disclosed shall be the fully-indexed rate, which, for purposes of this paragraph, means the interest rate calculated using the index value and margin at the time of consummation.
 
@@ -170,7 +168,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (5) *Calculation of taxes and insurance.* For purposes of paragraphs (c)(2)(iii) and (c)(4)(ii) of this section, estimated property taxes and homeowner's insurance shall reflect:
 
-(i) The taxable assessed value of the real property securing the transaction after consummation, including the value of any improvements on the property or to be constructed on the property, if known, whether or not such construction will be financed from the proceeds of the transaction, for property taxes; and
+(i) The taxable assessed value of the real property or cooperative unit securing the transaction after consummation, including the value of any improvements on the property or to be constructed on the property, if known, whether or not such construction will be financed from the proceeds of the transaction, for property taxes; and
 
 (ii) The replacement costs of the property during the initial year after the transaction, for amounts identified in § 1026.4(b)(8).
 
@@ -194,9 +192,9 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (B) A statement referring the consumer to the location of the table required pursuant to paragraph (h) of this section for details.
 
-(2) *Optional alternative table for transactions without a seller.* For transactions that do not involve a seller, instead of the amount and statements described in paragraph (d)(1)(ii) of this section, the creditor may alternatively disclose, using the label “Cash to Close”:
+(2) *Optional alternative table for transactions without a seller or for simultaneous subordinate financing.* For transactions that do not involve a seller or for simultaneous subordinate financing, instead of the amount and statements described in paragraph (d)(1)(ii) of this section, the creditor may alternatively disclose, using the label “Cash to Close”:
 
-(i) The amount calculated in accordance with (h)(2)(iv) of this section;
+(i) The amount calculated in accordance with paragraph (h)(2)(iv) of this section;
 
 (ii) A statement of whether the disclosed estimated amount is due from or to the consumer; and
 
@@ -208,7 +206,7 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (1) *Origination charges.* Under the subheading “Origination Charges,” an itemization of each amount, and a subtotal of all such amounts, that the consumer will pay to each creditor and loan originator for originating and extending the credit.
 
-(i) The points paid to the creditor to reduce the interest rate shall be itemized separately, as both a percentage of the amount of credit extended and a dollar amount, and using the label “\_\_% of Loan Amount (Points).” If points to reduce the interest rate are not paid, the disclosure required by this paragraph (f)(1)(i) must be blank.
+(i) The points paid to the creditor to reduce the interest rate shall be itemized separately, as both a percentage of the amount of credit extended and a dollar amount, and using the label “\_\_\_\_% of Loan Amount (Points).” If points to reduce the interest rate are not paid, the disclosure required by this paragraph (f)(1)(i) must be blank.
 
 (ii) The number of items disclosed under this paragraph (f)(1), including the points disclosed under paragraph (f)(1)(i) of this section, shall not exceed 13.
 
@@ -252,13 +250,13 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (2) *Prepaids.* Under the subheading “Prepaids,” an itemization of the amounts to be paid by the consumer in advance of the first scheduled payment, and the subtotal of all such amounts, as follows:
 
-(i) On the first line, the number of months for which homeowner's insurance premiums are to be paid by the consumer at consummation and the total dollar amount to be paid by the consumer at consummation for such premiums, labeled “Homeowner's Insurance Premium ( \_\_ months).”
+(i) On the first line, the number of months for which homeowner's insurance premiums are to be paid by the consumer at consummation and the total dollar amount to be paid by the consumer at consummation for such premiums, labeled “Homeowner's Insurance Premium ( \_\_\_\_ months).”
 
-(ii) On the second line, the number of months for which mortgage insurance premiums are to be paid by the consumer at consummation and the total dollar amount to be paid by the consumer at consummation for such premiums, labeled “Mortgage Insurance Premium ( \_\_ months).”
+(ii) On the second line, the number of months for which mortgage insurance premiums are to be paid by the consumer at consummation and the total dollar amount to be paid by the consumer at consummation for such premiums, labeled “Mortgage Insurance Premium ( \_\_\_\_ months).”
 
-(iii) On the third line, the amount of prepaid interest to be paid per day, the number of days for which prepaid interest will be collected, the interest rate, and the total dollar amount to be paid by the consumer at consummation for such interest, labeled “Prepaid Interest ( \_\_\_ per day for \_\_ days @\_\_ %).”
+(iii) On the third line, the amount of prepaid interest to be paid per day, the number of days for which prepaid interest will be collected, the interest rate, and the total dollar amount to be paid by the consumer at consummation for such interest, labeled “Prepaid Interest ( \_\_\_\_\_\_ per day for \_\_\_\_ days @\_\_\_\_ %).”
 
-(iv) On the fourth line, the number of months for which property taxes are to be paid by the consumer at consummation and the total dollar amount to be paid by the consumer at consummation for such taxes, labeled “Property Taxes ( \_\_ months).”
+(iv) On the fourth line, the number of months for which property taxes are to be paid by the consumer at consummation and the total dollar amount to be paid by the consumer at consummation for such taxes, labeled “Property Taxes ( \_\_\_\_ months).”
 
 (v) If an amount is not charged to the consumer for any item for which this paragraph (g)(2) prescribes a label, each of the amounts required to be disclosed on that line must be blank.
 
@@ -266,11 +264,11 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (3) *Initial escrow payment at closing.* Under the subheading “Initial Escrow Payment at Closing,” an itemization of the amounts that the consumer will be expected to place into a reserve or escrow account at consummation to be applied to recurring periodic charges, and the subtotal of all such amounts, as follows:
 
-(i) On the first line, the amount escrowed per month, the number of months covered by an escrowed amount collected at consummation, and the total amount to be paid into the escrow account by the consumer at consummation for homeowner's insurance premiums, labeled “Homeowner's Insurance \_\_ per month for \_\_ mo.”
+(i) On the first line, the amount escrowed per month, the number of months covered by an escrowed amount collected at consummation, and the total amount to be paid into the escrow account by the consumer at consummation for homeowner's insurance premiums, labeled “Homeowner's Insurance \_\_\_\_ per month for \_\_\_\_ mo.”
 
-(ii) On the second line, the amount escrowed per month, the number of months covered by an escrowed amount collected at consummation, and the total amount to be paid into the escrow account by the consumer at consummation for mortgage insurance premiums, labeled “Mortgage Insurance \_\_ per month for \_\_ mo.”
+(ii) On the second line, the amount escrowed per month, the number of months covered by an escrowed amount collected at consummation, and the total amount to be paid into the escrow account by the consumer at consummation for mortgage insurance premiums, labeled “Mortgage Insurance \_\_\_\_ per month for \_\_\_\_ mo.”
 
-(iii) On the third line, the amount escrowed per month, the number of months covered by an escrowed amount collected at consummation, and the total amount to be paid into the escrow account by the consumer at consummation for property taxes, labeled “Property Taxes \_\_ per month for \_\_ mo.”
+(iii) On the third line, the amount escrowed per month, the number of months covered by an escrowed amount collected at consummation, and the total amount to be paid into the escrow account by the consumer at consummation for property taxes, labeled “Property Taxes \_\_\_\_ per month for \_\_\_\_ mo.”
 
 (iv) If an amount is not charged to the consumer for any item for which this paragraph (g)(3) prescribes a label, each of the amounts required to be disclosed on that line must be blank.
 
@@ -302,41 +300,43 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (h) *Calculating cash to close* - (1) *For all transactions.* Under the master heading “Closing Cost Details,” under the heading “Calculating Cash to Close,” the total amount of cash or other funds that must be provided by the consumer at consummation, with an itemization of that amount into the following component amounts:
 
-(i) *Total closing costs.* The amount disclosed under paragraph (g)(6) of this section, disclosed as a positive number, labeled “Total Closing Costs”;
+(i) *Total closing costs.* The amount disclosed under paragraph (g)(6) of this section, labeled “Total Closing Costs”;
 
 (ii) *Closing costs to be financed.* The amount of any closing costs to be paid out of loan proceeds, disclosed as a negative number, labeled “Closing Costs Financed (Paid from your Loan Amount)”;
 
-(iii) *Downpayment and other funds from borrower.* Labeled “Down Payment/Funds from Borrower”:
+(iii) *Down payment and other funds from borrower.* Labeled “Down Payment/Funds from Borrower”:
 
-(A) In a purchase transaction as defined in paragraph (a)(9)(i) of this section, the amount of the difference between the purchase price of the property and the principal amount of the loan, disclosed as a positive number; or
+(A)(*1*) In a purchase transaction as defined in paragraph (a)(9)(i) of this section, the amount determined by subtracting the sum of the loan amount disclosed under paragraph (b)(1) of this section and any amount of existing loans assumed or taken subject to that will be disclosed under § 1026.38(j)(2)(iv) from the sale price of the property disclosed under paragraph (a)(7)(i) of this section, except as required by paragraph (h)(1)(iii)(A)(*2*) of this section;
 
-(B) In all transactions other than purchase transactions as defined in paragraph (a)(9)(i) of this section, the estimated funds from the consumer as determined in accordance with paragraph (h)(1)(v) of this section;
+(*2*) In a purchase transaction as defined in paragraph (a)(9)(i) of this section that is a simultaneous subordinate financing transaction or that involves improvements to be made on the property, or when the sum of the loan amount disclosed under paragraph (b)(1) of this section and any amount of existing loans assumed or taken subject to that will be disclosed under § 1026.38(j)(2)(iv) exceeds the sale price of the property disclosed under paragraph (a)(7)(i) of this section, the amount of estimated funds from the consumer as determined in accordance with paragraph (h)(1)(v) of this section; or
+
+(B) In all transactions not subject to paragraph (h)(1)(iii)(A) of this section, the amount of estimated funds from the consumer as determined in accordance with paragraph (h)(1)(v) of this section;
 
 (iv) *Deposit.* (A) In a purchase transaction as defined in paragraph (a)(9)(i) of this section, the amount that is paid to the seller or held in trust or escrow by an attorney or other party under the terms of the agreement for the sale of the property, disclosed as a negative number, labeled “Deposit”;
 
 (B) In all transactions other than purchase transactions as defined in paragraph (a)(9)(i) of this section, the amount of $0, labeled “Deposit”;
 
-(v) *Funds for borrower.* The amount of funds for the consumer, labeled “Funds for Borrower.” The amount of funds from the consumer disclosed under paragraph (h)(1)(iii)(B) of this section, and of funds for the consumer disclosed under this paragraph (h)(1)(v) of this section, are determined by subtracting the principal amount of the credit extended (excluding any amount disclosed pursuant to paragraph (h)(1)(ii) of this section) from the total amount of all existing debt being satisfied in the transaction (except to the extent the satisfaction of such existing debt is disclosed under paragraph (g) of this section);
+(v) *Funds for borrower.* The amount of funds for the consumer, labeled “Funds for Borrower.” The amount of the down payment and other funds from the consumer disclosed under paragraph (h)(1)(iii)(A)(*2*) or (h)(1)(iii)(B) of this section, as applicable, and of funds for the consumer disclosed under this paragraph (h)(1)(v), are determined by subtracting the sum of the loan amount disclosed under paragraph (b)(1) of this section and any amount of existing loans assumed or taken subject to that will be disclosed under § 1026.38(j)(2)(iv) (excluding any closing costs financed disclosed under paragraph (h)(1)(ii) of this section) from the total amount of all existing debt being satisfied in the transaction;
 
-(A) If the calculation under this paragraph (h)(1)(v) yields an amount that is a positive number, such amount is disclosed under paragraph (h)(1)(iii)(B) of this section, and $0 is disclosed under this paragraph (h)(1)(v);
+(A) If the calculation under this paragraph (h)(1)(v) yields an amount that is a positive number, such amount is disclosed under paragraph (h)(1)(iii)(A)(*2*) or (h)(1)(iii)(B) of this section, as applicable, and $0 is disclosed under this paragraph (h)(1)(v);
 
-(B) If the calculation under this paragraph (h)(1)(v) yields an amount that is a negative number, such amount is disclosed under this paragraph (h)(1)(v) as a negative number, and $0 is disclosed under paragraph (h)(1)(iii)(B) of this section;
+(B) If the calculation under this paragraph (h)(1)(v) yields an amount that is a negative number, such amount is disclosed under this paragraph (h)(1)(v) as a negative number, and $0 is disclosed under paragraph (h)(1)(iii)(A)(*2*) or (h)(1)(iii)(B) of this section, as applicable;
 
-(C) If the calculation under this paragraph (h)(1)(v) of this section yields $0, then $0 is disclosed under paragraphs (h)(1)(iii)(B) and paragraph (h)(1)(v) of this section;
+(C) If the calculation under this paragraph (h)(1)(v) yields $0, then $0 is disclosed under paragraph (h)(1)(iii)(A)(*2*) or (h)(1)(iii)(B) of this section, as applicable, and under this paragraph (h)(1)(v);
 
 (vi) *Seller credits.* The total amount that the seller will pay for total loan costs as determined by paragraph (f)(4) of this section and total other costs as determined by paragraph (g)(5) of this section, to the extent known, disclosed as a negative number, labeled “Seller Credits”;
 
-(vii) *Adjustments and other credits.* The amount of all loan costs determined pursuant to paragraph (f) and other costs determined pursuant to paragraph (g) that are paid by persons other than the loan originator, creditor, consumer, or seller, together with any other amounts that are required to be paid by the consumer at closing pursuant to a purchase and sale contract, disclosed as a negative number, labeled “Adjustments and Other Credits”; and
+(vii) *Adjustments and other credits.* The amount of all loan costs determined under paragraph (f) of this section and other costs determined under paragraph (g) of this section that are paid by persons other than the loan originator, creditor, consumer, or seller, together with any other amounts not otherwise disclosed under paragraph (f) or (g) of this section that are required to be paid by the consumer at closing in a transaction disclosed under paragraph (h)(1)(iii)(A)(*1*) of this section or pursuant to a purchase and sale contract, labeled “Adjustments and Other Credits”; and
 
 (viii) *Estimated Cash to Close.* The sum of the amounts disclosed under paragraphs (h)(1)(i) through (vii) of this section labeled “Cash to Close.”
 
-(2) *Optional alternative calculating cash to close table for transactions without a seller.* For transactions that do not involve a seller, instead of the table described in paragraph (h)(1) above, the creditor may alternatively provide, in a separate table, under the master heading “Closing Cost Details,” under the heading “Calculating Cash to Close,” the total amount of cash or other funds that must be provided by the consumer at consummation with an itemization of that amount into the following component amounts:
+(2) *Optional alternative calculating cash to close table for transactions without a seller or for simultaneous subordinate financing.* For transactions that do not involve a seller or for simultaneous subordinate financing, instead of the table described in paragraph (h)(1) above, the creditor may alternatively provide, in a separate table, under the master heading “Closing Cost Details,” under the heading “Calculating Cash to Close,” the total amount of cash or other funds that must be provided by the consumer at consummation with an itemization of that amount into the following component amounts:
 
 (i) *Loan amount.* The amount disclosed under paragraph (b)(1) of this section, labeled “Loan Amount”;
 
-(ii) *Total closing costs.* The amount disclosed under paragraph (g)(6) of this section, disclosed as a negative number, labeled “Total Closing Costs”;
+(ii) *Total closing costs.* The amount disclosed under paragraph (g)(6) of this section, disclosed as a negative number if the amount disclosed under paragraph (g)(6) of this section is a positive number and disclosed as a positive number if the amount disclosed under paragraph (g)(6) of this section is a negative number, labeled “Total Closing Costs”;
 
-(iii) *Payoffs and payments.* The total amount of payoffs and payments to be made to third parties not otherwise disclosed pursuant to paragraphs (f) and (g) of this section, disclosed as a negative number, labeled “Total Payoffs and Payments”;
+(iii) *Payoffs and payments.* The total amount of payoffs and payments to be made to third parties not otherwise disclosed under paragraphs (f) and (g) of this section, labeled “Total Payoffs and Payments”;
 
 (iv) *Cash to or from consumer.* The amount of cash or other funds due from or to the consumer and a statement of whether the disclosed estimated amount is due from or to the consumer, calculated by the sum of the amounts disclosed under paragraphs (h)(2)(i) through (iii) of this section, labeled “Cash to Close”; and
 
@@ -444,13 +444,13 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (iii) The disclosures required by this section may be provided to the consumer in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 *et seq.*).
 
-(4) *Rounding* - (i) *Nearest dollar.* (A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per diem amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded.
+(4) *Rounding* - (i) *Nearest dollar.* (A) The dollar amounts required to be disclosed by paragraphs (b)(6) and (7), (c)(1)(iii), (c)(2)(ii) and (iii), (c)(4)(ii), (f), (g), (h), (i), and (l) of this section shall be rounded to the nearest whole dollar, except that the per-diem dollar amount required to be disclosed by paragraph (g)(2)(iii) of this section and the monthly dollar amounts required to be disclosed by paragraphs (g)(3)(i) through (iii) and (g)(3)(v) of this section shall not be rounded.
 
 (B) The dollar amount required to be disclosed by paragraph (b)(1) of this section shall not be rounded, and if the amount is a whole number then the amount disclosed shall be truncated at the decimal point.
 
 (C) The dollar amounts required to be disclosed by paragraph (c)(2)(iv) of this section shall be rounded to the nearest whole dollar, if any of the component amounts are required by paragraph (o)(4)(i)(A) of this section to be rounded to the nearest whole dollar.
 
-(ii) *Percentages.* The percentage amounts required to be disclosed under paragraphs (b)(2) and (6), (f)(1)(i), (g)(2)(iii), (j), and (l)(3) of this section shall not be rounded and shall be disclosed up to two or three decimal places. The percentage amount required to be disclosed under paragraph (l)(2) of this section shall be disclosed up to three decimal places. If the amount is a whole number then the amount disclosed shall be truncated at the decimal point.
+(ii) *Percentages.* The percentage amounts required to be disclosed under paragraphs (b)(2) and (6), (f)(1)(i), (g)(2)(iii), (j), and (l)(2) and (3) of this section shall be disclosed by rounding the exact amounts to three decimal places and then dropping any trailing zeros that occur to the right of the decimal place.
 
 (5) *Exceptions* - (i) *Unit-period.* Wherever the form or this section uses “monthly” to describe the frequency of any payments or uses “month” to describe the applicable unit-period, the creditor shall substitute the appropriate term to reflect the fact that the transaction's terms provide for other than monthly periodic payments, such as bi-weekly or quarterly payments.
 
@@ -462,4 +462,4 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 
 (v) *Administrative information.* The creditor may insert at the bottom of each page under the disclosures required by this section as illustrated by form H-24 of appendix H to this part, any administrative information, text, or codes that assist in identification of the form or the information disclosed on the form, provided that the space provided on form H-24 of appendix H to this part for any of the information required by this section is not altered.
 
-[78 FR 80113, Dec. 31, 2013, as amended at 80 FR 8776, Feb. 19, 2015]
+[78 FR 80113, Dec. 31, 2013, as amended at 80 FR 8776, Feb. 19, 2015; 82 FR 37769, Aug. 11, 2017]

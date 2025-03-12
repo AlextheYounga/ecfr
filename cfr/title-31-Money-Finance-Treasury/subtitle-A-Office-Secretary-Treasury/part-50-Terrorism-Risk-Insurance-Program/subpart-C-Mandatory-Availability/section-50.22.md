@@ -1,4 +1,4 @@
-##### § 50.22 No Material difference from other coverage. #####
+##### § 50.22 No material difference from other coverage. #####
 
 (a) *Terms, amounts, and other coverage limitations.* As provided in § 50.20(a)(2), an insurer must offer coverage for insured losses arising from an act of terrorism that does not differ materially from the terms, amounts, and other coverage limitations (including deductibles) applicable to losses arising from events other than acts of terrorism. For purposes of this requirement, “terms” excludes price.
 

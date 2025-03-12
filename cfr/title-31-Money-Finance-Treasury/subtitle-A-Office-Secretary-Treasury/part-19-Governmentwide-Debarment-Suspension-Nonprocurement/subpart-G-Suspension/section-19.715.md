@@ -1,10 +1,10 @@
 ##### § 19.715 What notice does the suspending official give me if I am suspended? #####
 
-After deciding to suspend you, the suspending official promptly sends you a Notice of Suspension advising you -
+After deciding to suspend you, the suspending official promptly sends you a Notice of Suspension advising you—
 
 (a) That you have been suspended;
 
-(b) That your suspension is based on -
+(b) That your suspension is based on—
 
 (1) An indictment;
 
@@ -20,6 +20,6 @@ After deciding to suspend you, the suspending official promptly sends you a Noti
 
 (e) That your suspension is for a temporary period pending the completion of an investigation or resulting legal or debarment proceedings;
 
-(f) Of the applicable provisions of this subpart, Subpart F of this part, and any other Department of the Treasury procedures governing suspension decision making; and
+(f) Of the applicable provisions of this subpart, subpart F of this part, and any other Department of the Treasury procedures governing suspension decision making; and
 
 (g) Of the governmentwide effect of your suspension from procurement and nonprocurement programs and activities.

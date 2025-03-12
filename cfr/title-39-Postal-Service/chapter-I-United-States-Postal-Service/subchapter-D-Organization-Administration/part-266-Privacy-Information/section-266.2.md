@@ -1,5 +1,21 @@
-##### § 266.2 Policy. #####
+##### § 266.2 Responsibility. #####
 
-It is the policy of the U.S. Postal Service to ensure that any record within its custody that identifies or describes any characteristic or provides historical information about an individual or that affords a basis for inferring personal characteristics, or things done by or to such individual, including the record of any affiliation with an organization or activity, or admission to an institution, is accurate, complete, timely, relevant, and reasonably secure from unauthorized access. Additionally, it is the policy to provide the means for individuals to know: (a) Of the existence of all Postal Service Privacy Act systems of records, (b) the recipients and usage made of such information, (c) what information is optional or mandatory to provide to the Postal Service, (d) the procedures for individuals to review and request update to all information maintained about themselves, (e) the reproduction fees for releasing records, (f) the procedures for individual legal appeal in cases of dissatisfaction; and (g) of the establishment or revision of a computer matching program.
+(a) *Privacy and Records Management Office.* The Privacy and Records Management Office will ensure Postal Service-wide compliance with this part.
 
-[45 FR 44272, July 1, 1980, as amended at 59 FR 37160, July 21, 1994]
+(b) *Records Custodian.* Records Custodians are responsible for adherence to this part within their respective units, and in particular for affording individuals their rights to inspect and obtain copies of records concerning them.
+
+(c) *Corporate Information Security Office.* This office is responsible for ensuring compliance with information security policies, including protection of information resources containing customer, employee, or other individuals' information; developing policy for safeguarding and disposing of electronic records (including emails) that are maintained in information systems (including those that are subject to legal holds); serving as the central contact for information security issues; preventing and engaging in some investigation of cybercrime and misuse of Postal Service information technology resources; and providing security consultation as requested.
+
+(d) *Data Integrity Board*—(1) *Responsibilities.* The Data Integrity Board oversees Postal Service computer matching activities. The Board's principal function is to review, approve, and maintain all written agreements for use of Postal Service records in matching programs to ensure compliance with the Privacy Act and all relevant statutes, regulations, and guidelines. In addition, the Board annually: Reviews matching programs and other matching activities in which the Postal Service has participated during the preceding year to determine compliance with applicable laws, regulations, and agreements; compiles a biennial matching report of matching activities; and performs review and advice functions relating to record accuracy, recordkeeping and disposal practices, and other computer matching activities.
+
+(2) *Composition.* The Privacy Act requires that the senior official responsible for implementation of agency Privacy Act policy and the Inspector General serve on the Board. The Chief Privacy and Records Management Officer, as administrator of Postal Service Privacy Act policy, serves as Secretary of the Board and performs the administrative functions of the Board. The Board is composed of these and other members designated by the Postmaster General, as follows:
+
+(i) General Counsel and Executive Vice President (Chairman).
+
+(ii) Chief Postal Inspector.
+
+(iii) Inspector General.
+
+(iv) Chief Human Resources Officer and Executive Vice President.
+
+(v) Chief Privacy and Records Management Officer.

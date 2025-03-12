@@ -1,19 +1,13 @@
-##### § 266.7 Appeal procedure. #####
+##### § 266.7 Schedule of fees. #####
 
-(a) *Appeal Procedure.* (1) If a request to inspect, copy, or amend a record is denied, in whole or in part, or if no determination is made within the period prescribed by this part, the requester shall appeal to the General Counsel, U.S. Postal Service, Washington, DC 20260-1100.
+(a) *Policy.* The purpose of this section is to establish fair and equitable fees to permit duplication of records for subject individuals (or authorized representatives) while recovering the full allowable direct costs incurred by the Postal Service.
 
-(2) The requester should submit his appeal in writing within thirty (30) days of the date of denial, or within ninety (90) days of such request if the appeal is from a failure of the custodian to make a determination. The letter of appeal should include, as applicable:
+(b) *Duplication.* (1) For duplicating any paper or micrographic record or publication or computer report, the fee is $.15 per page, except that the first 100 pages furnished in response to a particular request must be furnished without charge. See paragraph (c) of this section for fee limitations.
 
-(i) Reasonable identification of the record access to which or the amendment of which was requested.
+(2) The Postal Service may at its discretion make user-paid copy machines available at any location. In that event, requesters will be given the opportunity to make copies at their own expense.
 
-(ii) A statement of the Postal Service action or failure to act and of the relief sought.
+(3) The Postal Service normally will not furnish more than one copy of any record. If duplicate copies are furnished at the request of the requester; a fee of $0.15 per page is charged for each copy of each duplicate page without regard to whether the requester is eligible for free copies pursuant to § 266.7(b)(1).
 
-(iii) A copy of the request, of the notification of denial and of any other related correspondence.
+(c) *Limitations.* No fee will be charged to an individual for the process of retrieving, reviewing, or amending a record pertaining to that individual.
 
-(3) Any record found on appeal to be incomplete, inaccurate, not relevant, or not timely, shall within thirty (30) working days of the date of such findings be appropriately amended.
-
-(4) The decision of the General Counsel, constitutes the final decision of the Postal Service on the right of the requester to inspect, copy, change, or update a record. The decision on the appeal shall be in writing and in the event of a denial shall set forth the reasons for such denial and state the individual's right to obtain judicial review in a district court. An indexed file of decisions on appeals shall be maintained by the General Counsel.
-
-(b) *Submission of Statement of Disagreement.* If the final decision concerning a request for the amendment of a record does not satisfy the requester, any statement of reasonable length provided by that individual setting forth a position regarding the disputed information will be accepted and attached to the relevant personal record.
-
-[40 FR 45723, Oct. 2, 1975, as amended at 41 FR 24709, June 18, 1976; 45 FR 44273, July 1, 1980; 51 FR 26386, July 23, 1986; 60 FR 57345, Nov. 15, 1995; 64 FR 41291, July 30, 1999; 68 FR 56560, Oct. 1, 2003]
+(d) *Reimbursement.* The Postal Service may, at its discretion, require reimbursement of its costs as a condition of participation in a computer matching program or activity with another agency. The agency to be charged is notified in writing of the approximate costs before they are incurred. Costs are calculated in accordance with the schedule of fees set forth at § 265.9.

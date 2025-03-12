@@ -1,7 +1,5 @@
 ##### § 1026.19 Certain mortgage and variable-rate transactions. #####
 
-Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
-
 (a) *Mortgage transactions subject to RESPA* - (1)(i) *Time of disclosures.* In a reverse mortgage transaction subject to both § 1026.33 and the Real Estate Settlement Procedures Act (12 U.S.C. 2601 *et seq.*) that is secured by the consumer's dwelling, the creditor shall provide the consumer with good faith estimates of the disclosures required by § 1026.18 and shall deliver or place them in the mail not later than the third business day after the creditor receives the consumer's written application.
 
 (ii) *Imposition of fees.* Except as provided in paragraph (a)(1)(iii) of this section, neither a creditor nor any other person may impose a fee on a consumer in connection with the consumer's application for a reverse mortgage transaction subject to paragraph (a)(1)(i) of this section before the consumer has received the disclosures required by paragraph (a)(1)(i) of this section. If the disclosures are mailed to the consumer, the consumer is considered to have received them three business days after they are mailed.
@@ -58,7 +56,7 @@ Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
 
 (d) Information provided in accordance with variable-rate regulations of other Federal agencies may be substituted for the disclosures required by paragraph (b) of this section.
 
-(e) *Mortgage loans secured by real property - early disclosures* - (1) *Provision of disclosures* - (i) *Creditor.* In a closed-end consumer credit transaction secured by real property, other than a reverse mortgage subject to § 1026.33, the creditor shall provide the consumer with good faith estimates of the disclosures in § 1026.37.
+(e) *Mortgage loans - early disclosures* - (1) *Provision of disclosures* - (i) *Creditor.* In a closed-end consumer credit transaction secured by real property or a cooperative unit, other than a reverse mortgage subject to § 1026.33, the creditor shall provide the consumer with good faith estimates of the disclosures in § 1026.37.
 
 (ii) *Mortgage broker.* (A) If a mortgage broker receives a consumer's application, either the creditor or the mortgage broker shall provide a consumer with the disclosures required under paragraph (e)(1)(i) of this section in accordance with paragraph (e)(1)(iii) of this section. If the mortgage broker provides the required disclosures, the mortgage broker shall comply with all relevant requirements of this paragraph (e). The creditor shall ensure that such disclosures are provided in accordance with all requirements of this paragraph (e). Disclosures provided by a mortgage broker in accordance with the requirements of this paragraph (e) satisfy the creditor's obligation under this paragraph (e).
 
@@ -98,7 +96,7 @@ Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
 
 (C) The creditor permits the consumer to shop for the third-party service, consistent with paragraph (e)(1)(vi) of this section.
 
-(iii) *Variations permitted for certain charges.* An estimate of the following charges is in good faith if it is consistent with the best information reasonably available to the creditor at the time it is disclosed, regardless of whether the amount paid by the consumer exceeds the amount disclosed under paragraph (e)(1)(i) of this section:
+(iii) *Variations permitted for certain charges.* An estimate of any of the charges specified in this paragraph (e)(3)(iii) is in good faith if it is consistent with the best information reasonably available to the creditor at the time it is disclosed, regardless of whether the amount paid by the consumer exceeds the amount disclosed under paragraph (e)(1)(i) of this section. For purposes of paragraph (e)(1)(i) of this section, good faith is determined under this paragraph (e)(3)(iii) even if such charges are paid to the creditor or affiliates of the creditor, so long as the charges are bona fide:
 
 (A) Prepaid interest;
 
@@ -106,9 +104,9 @@ Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
 
 (C) Amounts placed into an escrow, impound, reserve, or similar account;
 
-(D) Charges paid to third-party service providers selected by the consumer consistent with paragraph (e)(1)(vi)(A) of this section that are not on the list provided pursuant to paragraph (e)(1)(vi)(C) of this section; and
+(D) Charges paid to third-party service providers selected by the consumer consistent with paragraph (e)(1)(vi)(A) of this section that are not on the list provided under paragraph (e)(1)(vi)(C) of this section; and
 
-(E) Charges paid for third-party services not required by the creditor. These charges may be paid to affiliates of the creditor.
+(E) Property taxes and other charges paid for third-party services not required by the creditor.
 
 (iv) *Revised estimates.* For the purpose of determining good faith under paragraph (e)(3)(i) and (ii) of this section, a creditor may use a revised estimate of a charge instead of the estimate of the charge originally disclosed under paragraph (e)(1)(i) of this section if the revision is due to any of the following reasons:
 
@@ -126,15 +124,15 @@ Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
 
 (D) *Interest rate dependent charges.* The points or lender credits change because the interest rate was not locked when the disclosures required under paragraph (e)(1)(i) of this section were provided. No later than three business days after the date the interest rate is locked, the creditor shall provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section to the consumer with the revised interest rate, the points disclosed pursuant to § 1026.37(f)(1), lender credits, and any other interest rate dependent charges and terms.
 
-(E) *Expiration.* The consumer indicates an intent to proceed with the transaction more than ten business days after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section.
+(E) *Expiration.* The consumer indicates an intent to proceed with the transaction more than 10 business days, or more than any additional number of days specified by the creditor before the offer expires, after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section.
 
-(F) *Delayed settlement date on a construction loan.* In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section, the creditor may provide revised disclosures to the consumer if the original disclosures required under paragraph (e)(1)(i) of this section state clearly and conspicuously that at any time prior to 60 days before consummation, the creditor may issue revised disclosures. If no such statement is provided, the creditor may not issue revised disclosures, except as otherwise provided in paragraph (f) of this section.
+(F) *Delayed settlement date on a construction loan.* In transactions involving new construction, where the creditor reasonably expects that settlement will occur more than 60 days after the disclosures required under paragraph (e)(1)(i) of this section are provided pursuant to paragraph (e)(1)(iii) of this section, the creditor may provide revised disclosures to the consumer if the original disclosures required under paragraph (e)(1)(i) of this section state clearly and conspicuously that at any time prior to 60 days before consummation, the creditor may issue revised disclosures. If no such statement is provided, the creditor may not issue revised disclosures, except as otherwise provided in paragraph (e)(3)(iv) of this section.
 
 (4) *Provision and receipt of revised disclosures* - (i) *General rule.* Subject to the requirements of paragraph (e)(4)(ii) of this section, if a creditor uses a revised estimate pursuant to paragraph (e)(3)(iv) of this section for the purpose of determining good faith under paragraphs (e)(3)(i) and (ii) of this section, the creditor shall provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section reflecting the revised estimate within three business days of receiving information sufficient to establish that one of the reasons for revision provided under paragraphs (e)(3)(iv)(A) through (C), (E) and (F) of this section applies.
 
 (ii) *Relationship to disclosures required under § 1026.19(f)(1)(i).* The creditor shall not provide a revised version of the disclosures required under paragraph (e)(1)(i) of this section on or after the date on which the creditor provides the disclosures required under paragraph (f)(1)(i) of this section. The consumer must receive a revised version of the disclosures required under paragraph (e)(1)(i) of this section not later than four business days prior to consummation. If the revised version of the disclosures required under paragraph (e)(1)(i) of this section is not provided to the consumer in person, the consumer is considered to have received such version three business days after the creditor delivers or places such version in the mail.
 
-(f) *Mortgage loans secured by real property - final disclosures* - (1) *Provision of disclosures* - (i) *Scope.* In a closed-end consumer credit transaction secured by real property, other than a reverse mortgage subject to § 1026.33, the creditor shall provide the consumer with the disclosures in § 1026.38 reflecting the actual terms of the transaction.
+(f) *Mortgage loans - final disclosures* - (1) *Provision of disclosures* - (i) *Scope.* In a transaction subject to paragraph (e)(1)(i) of this section, the creditor shall provide the consumer with the disclosures required under § 1026.38 reflecting the actual terms of the transaction.
 
 (ii) *Timing* - (A) *In general.* Except as provided in paragraphs (f)(1)(ii)(B), (f)(2)(i), (f)(2)(iii), (f)(2)(iv), and (f)(2)(v) of this section, the creditor shall ensure that the consumer receives the disclosures required under paragraph (f)(1)(i) of this section no later than three business days before consummation.
 
@@ -180,7 +178,7 @@ Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
 
 (*3*) If doing so is otherwise prohibited by law.
 
-(4) *Transactions involving a seller* - (i) *Provision to seller.* In a closed-end consumer credit transaction secured by real property that involves a seller, other than a reverse mortgage subject to § 1026.33, the settlement agent shall provide the seller with the disclosures in § 1026.38 that relate to the seller's transaction reflecting the actual terms of the seller's transaction.
+(4) *Transactions involving a seller* - (i) *Provision to seller.* In a transaction subject to paragraph (e)(1)(i) of this section that involves a seller, the settlement agent shall provide the seller with the disclosures in § 1026.38 that relate to the seller's transaction reflecting the actual terms of the seller's transaction.
 
 (ii) *Timing.* The settlement agent shall provide the disclosures required under paragraph (f)(4)(i) of this section no later than the day of consummation. If during the 30-day period following consummation, an event in connection with the settlement of the transaction occurs that causes disclosures required under paragraph (f)(4)(i) of this section to become inaccurate, and such inaccuracy results in a change to the amount actually paid by the seller from that amount disclosed under paragraph (f)(4)(i) of this section, the settlement agent shall deliver or place in the mail corrected disclosures not later than 30 days after receiving information sufficient to establish that such event has occurred.
 
@@ -190,13 +188,13 @@ Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
 
 (5) *No fee.* No fee may be imposed on any person, as a part of settlement costs or otherwise, by a creditor or by a servicer (as that term is defined under 12 U.S.C. 2605(i)(2)) for the preparation or delivery of the disclosures required under paragraph (f)(1)(i) of this section.
 
-(g) *Special information booklet at time of application* - (1) *Creditor to provide special information booklet.* Except as provided in paragraphs (g)(1)(ii) and (iii) of this section, the creditor shall provide a copy of the special information booklet (required pursuant to section 5 of the Real Estate Settlement Procedures Act (12 U.S.C. 2604) to help consumers applying for federally related mortgage loans understand the nature and cost of real estate settlement services) to a consumer who applies for a consumer credit transaction secured by real property.
+(g) *Special information booklet at time of application* - (1) *Creditor to provide special information booklet.* Except as provided in paragraphs (g)(1)(ii) and (iii) of this section, the creditor shall provide a copy of the special information booklet (required pursuant to section 5 of the Real Estate Settlement Procedures Act (12 U.S.C. 2604) to help consumers applying for federally related mortgage loans understand the nature and cost of real estate settlement services) to a consumer who applies for a consumer credit transaction secured by real property or a cooperative unit.
 
 (i) The creditor shall deliver or place in the mail the special information booklet not later than three business days after the consumer's application is received. However, if the creditor denies the consumer's application before the end of the three-business-day period, the creditor need not provide the booklet. If a consumer uses a mortgage broker, the mortgage broker shall provide the special information booklet and the creditor need not do so.
 
 (ii) In the case of a home equity line of credit subject to § 1026.40, a creditor or mortgage broker that provides the consumer with a copy of the brochure entitled “When Your Home is On the Line: What You Should Know About Home Equity Lines of Credit,” or any successor brochure issued by the Bureau, is deemed to be in compliance with this section.
 
-(iii) The creditor or mortgage broker need not provide the booklet to the consumer for a consumer credit transaction secured by real property, the purpose of which is not the purchase of a one-to-four family residential property, including, but not limited to, the following:
+(iii) The creditor or mortgage broker need not provide the booklet to the consumer for a transaction, the purpose of which is not the purchase of a one-to-four family residential property, including, but not limited to, the following:
 
 (A) Refinancing transactions;
 
@@ -214,4 +212,4 @@ Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
 
 (iv) The cover of the booklet may be in any form and may contain any drawings, pictures or artwork, provided that the title appearing on the cover shall not be changed. Names, addresses, and telephone numbers of the creditor or others and similar information may appear on the cover, but no discussion of the matters covered in the booklet shall appear on the cover. References to HUD on the cover of the booklet may be changed to references to the Bureau.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80108, Dec. 31, 2013; 80 FR 8776, Feb. 19, 2015]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80108, Dec. 31, 2013; 80 FR 8776, Feb. 19, 2015; 82 FR 37768, Aug. 11, 2017]

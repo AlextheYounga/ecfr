@@ -1,12 +1,10 @@
 ##### § 1026.25 Record retention. #####
 
-Link to an amendment published at 82 FR 37769, Aug. 11, 2017.
-
 (a) *General rule.* A creditor shall retain evidence of compliance with this part (other than advertising requirements under §§ 1026.16 and 1026.24, and other than the requirements under § 1026.19(e) and (f)) for two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing the regulation may require creditors under their jurisdictions to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 108 of the Act.
 
 (b) *Inspection of records.* A creditor shall permit the agency responsible for enforcing this part with respect to that creditor to inspect its relevant records for compliance.
 
-(c) *Records related to certain requirements for mortgage loans* - (1) *Records related to requirements for loans secured by real property* - (i) *General rule.* Except as provided under paragraph (c)(1)(ii) of this section, a creditor shall retain evidence of compliance with the requirements of § 1026.19(e) and (f) for three years after the later of the date of consummation, the date disclosures are required to be made, or the date the action is required to be taken.
+(c) *Records related to certain requirements for mortgage loans*—(1) *Records related to requirements for loans secured by real property or a cooperative unit*—(i) *General rule.* Except as provided under paragraph (c)(1)(ii) of this section, a creditor shall retain evidence of compliance with the requirements of § 1026.19(e) and (f) for three years after the later of the date of consummation, the date disclosures are required to be made, or the date the action is required to be taken.
 
 (ii) *Closing disclosures.* (A) A creditor shall retain each completed disclosure required under § 1026.19(f)(1)(i) or (f)(4)(i), and all documents related to such disclosures, for five years after consummation, notwithstanding paragraph (c)(1)(ii)(B) of this section.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 82 FR 37769, Aug. 11, 2017.
 
 (3) *Records related to minimum standards for transactions secured by a dwelling.* Notwithstanding paragraph (a) of this section, a creditor shall retain evidence of compliance with § 1026.43 of this regulation for three years after consummation of a transaction covered by that section.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6583, Jan. 30, 2013; 78 FR 11410, Feb. 15, 2013; 78 FR 60382, Oct. 1, 2013; 78 FR 80112, Dec. 31, 2013]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6583, Jan. 30, 2013; 78 FR 11410, Feb. 15, 2013; 78 FR 60382, Oct. 1, 2013; 78 FR 80112, Dec. 31, 2013; 82 FR 37769, Aug. 11, 2017]

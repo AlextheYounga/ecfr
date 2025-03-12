@@ -1,10 +1,8 @@
 ##### § 1026.38 Content of disclosures for certain mortgage transactions (Closing Disclosure). #####
 
-Link to an amendment published at 82 FR 37770, Aug. 11, 2017.
-
 For each transaction subject to § 1026.19(f), the creditor shall disclose the information in this section:
 
-(a) *General information* - (1) *Form title.* The title of the form, “Closing Disclosure,” using that term.
+(a) *General information*—(1) *Form title.* The title of the form, “Closing Disclosure,” using that term.
 
 (2) *Form purpose.* The following statement: “This form is a statement of final loan terms and closing costs. Compare this document with your Loan Estimate.”
 
@@ -14,7 +12,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (ii) *Closing date.* The date of consummation, labeled “Closing Date.”
 
-(iii) *Disbursement date.* The date the amounts disclosed pursuant to paragraphs (j)(3)(iii) and (k)(3)(iii) of this section are expected to be paid in a purchase transaction under § 1026.37(a)(9)(i) to the consumer and seller, respectively, as applicable, or the date the amounts disclosed pursuant to paragraphs (j)(2)(iii) or (t)(5)(vii)(B) of this section are expected to be paid to the consumer or a third party in a transaction that is not a purchase transaction under § 1026.37(a)(9)(i), labeled “Disbursement Date.”
+(iii) *Disbursement date.* The date the amount disclosed under paragraph (j)(3)(iii) (cash to close from or to borrower) or (k)(3)(iii) (cash from or to seller) of this section is expected to be paid in a purchase transaction under § 1026.37(a)(9)(i) to the consumer or seller, respectively, as applicable, except as provided in comment 38(a)(3)(iii)-1, or the date some or all of the loan amount disclosed under paragraph (b) of this section is expected to be paid to the consumer or a third party other than a settlement agent in a transaction that is not a purchase transaction under § 1026.37(a)(9)(i), labeled “Disbursement Date.”
 
 (iv) *Settlement agent.* The name of the settlement agent conducting the closing, labeled “Settlement Agent.”
 
@@ -60,7 +58,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (2) *Estimated taxes, insurance, and assessments.* A reference to the disclosure required by paragraph (l)(7) of this section.
 
-(d) *Costs at closing* - (1) *Costs at closing table.* In a separate table, under the heading “Costs at Closing”:
+(d) *Costs at closing*—(1) *Costs at closing table.* In a separate table, under the heading “Costs at Closing”:
 
 (i) Labeled “Closing Costs,” the sum of the dollar amounts disclosed pursuant to paragraphs (f)(4), (g)(5), and (h)(3) of this section, together with:
 
@@ -80,7 +78,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (B) A statement referring the consumer to the table required pursuant to paragraph (i) of this section for details.
 
-(2) *Alternative table for transactions without a seller.* For transactions that do not involve a seller and where the creditor disclosed the optional alternative table pursuant to § 1026.37(d)(2), the creditor shall disclose, with the label “Cash to Close,” instead of the sum of the dollar amounts described in paragraph (d)(1)(ii) of this section:
+(2) *Alternative table for transactions without a seller or for simultaneous subordinate financing.* For transactions that do not involve a seller or for simultaneous subordinate financing, if the creditor disclosed the optional alternative table under § 1026.37(d)(2), the creditor shall disclose, with the label “Cash to Close,” instead of the sum of the dollar amounts described in paragraph (d)(1)(ii) of this section:
 
 (i) The amount calculated in accordance with paragraph (e)(5)(ii) of this section;
 
@@ -88,7 +86,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (iii) A statement referring the consumer to the table required pursuant to paragraph (e) of this section for details.
 
-(e) *Alternative calculating cash to close table for transactions without a seller.* For transactions that do not involve a seller and where the creditor disclosed the optional alternative table pursuant to § 1026.37(h)(2), the creditor shall disclose, instead of the table described in paragraph (i) of this section, in a separate table, under the heading “Calculating Cash to Close,” together with the statement “Use this table to see what has changed from your Loan Estimate”:
+(e) *Alternative calculating cash to close table for transactions without a seller or for simultaneous subordinate financing.* For transactions that do not involve a seller or for simultaneous subordinate financing, if the creditor disclosed the optional alternative table under § 1026.37(h)(2), the creditor shall disclose, instead of the table described in paragraph (i) of this section, in a separate table, under the heading “Calculating Cash to Close,” together with the statement “Use this table to see what has changed from your Loan Estimate”:
 
 (1) *Loan amount.* Labeled “Loan Amount:”
 
@@ -106,7 +104,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (i) Under the subheading “Loan Estimate,” the amount disclosed on the Loan Estimate under § 1026.37(h)(2)(ii);
 
-(ii) Under the subheading “Final,” the amount disclosed under paragraph (h)(1) of this section, disclosed as a negative number; and
+(ii) Under the subheading “Final,” the amount disclosed under paragraph (h)(1) of this section, disclosed as a negative number if the amount disclosed under paragraph (h)(1) of this section is a positive number and disclosed as a positive number if the amount disclosed under paragraph (h)(1) of this section is a negative number; and
 
 (iii) Disclosed more prominently than the other disclosures under this paragraph (e)(2)(i) and (ii) of this section, under the subheading “Did this change?”:
 
@@ -116,7 +114,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (*2*) If the difference in the amounts disclosed under paragraphs (e)(2)(i) and (e)(2)(ii) is attributable to differences in itemized charges that are included in either or both subtotals, a statement that the consumer should see the total loan costs and total other costs subtotals disclosed under paragraphs (f)(4) and (g)(5) of this section (together with references to such disclosures), as applicable; and
 
-(*3*) If the increase exceeds the limitations on increases in closing costs under § 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess and if any refund is provided pursuant to § 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under § 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under § 1026.19(e)(3)(i) and (ii).
+(*3*) If the increase exceeds the limitations on increases in closing costs under § 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess and, if any refund is provided under § 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section or, if applicable, a statement directing the consumer to the principal reduction disclosure under paragraph (t)(5)(vii)(B) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under § 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under § 1026.19(e)(3)(i) and (ii).
 
 (B) If the amount disclosed under paragraph (e)(2)(i) of this section is equal to the amount disclosed under paragraph (e)(2)(ii) of this section, a statement of that fact.
 
@@ -136,7 +134,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (i) Under the subheading “Loan Estimate,” the total payoffs and payments disclosed on the Loan Estimate under § 1026.37(h)(2)(iii);
 
-(ii) Under the subheading “Final,” the total amount of payoffs and payments made to third parties disclosed pursuant to paragraph (t)(5)(vii)(B) of this section, to the extent known, disclosed as a negative number;
+(ii) Under the subheading “Final,” the total amount of payoffs and payments made to third parties disclosed under paragraph (t)(5)(vii)(B) of this section, to the extent known, disclosed as a negative number if the total amount disclosed under paragraph (t)(5)(vii)(B) of this section is a positive number and disclosed as a positive number if the total amount disclosed under paragraph (t)(5)(vii)(B) of this section is a negative number;
 
 (iii) Disclosed more prominently than the other disclosures under this paragraph (e)(4)(i) and (ii), under the subheading “Did this change?”:
 
@@ -166,11 +164,15 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (g) *Closing cost details; other costs.* Under the master heading “Closing Cost Details” disclosed pursuant to paragraph (f) of this section, with columns stating whether the charge was borrower-paid at or before closing, seller-paid at or before closing, or paid by others, all costs in connection with the transaction, other than those disclosed under paragraph (f) of this section, listed in a table with a heading disclosed as “Other Costs.” The table shall contain the items and amounts listed under five subheadings, described in paragraphs (g)(1) through (6) of this section.
 
-(1) *Taxes and other government fees.* Under the subheading “Taxes and Other Government Fees,” and in the applicable column as described in paragraph (g) of this section, an itemization of each amount that is expected to be paid to State and local governments for taxes and government fees and the total of all such itemized amounts that are designated borrower-paid at or before closing, as follows:
+(1) *Taxes and other government fees.* Under the subheading “Taxes and Other Government Fees,” an itemization of each amount that is expected to be paid to State and local governments for taxes and government fees and the total of all such itemized amounts that are designated borrower-paid at or before closing, as follows:
 
-(i) Recording fees and the amounts paid in the applicable columns; and
+(i) On the first line:
 
-(ii) An itemization of transfer taxes, with the name of the government entity assessing the transfer tax.
+(A) Before the columns described in paragraph (g) of this section, the total amount of fees for recording deeds and, separately, the total amount of fees for recording security instruments; and
+
+(B) In the applicable column as described in paragraph (g) of this section, the total amounts paid for recording fees (including, but not limited to, the amounts in paragraph (g)(1)(i)(A) of this section); and
+
+(ii) On subsequent lines, in the applicable column as described in paragraph (g) of this section, an itemization of transfer taxes, with the name of the government entity assessing the transfer tax.
 
 (2) *Prepaids.* Under the subheading “Prepaids” and in the applicable column as described in paragraph (g) of this section, an itemization of each amount for charges described in § 1026.37(g)(2), the name of the person ultimately receiving the payment or government entity assessing the property tax, provided that the person ultimately receiving the payment need not be disclosed for the disclosure required by § 1026.37(g)(2)(iii) when disclosed pursuant to this paragraph, and the total of all such itemized amounts that are designated borrower-paid at or before closing.
 
@@ -178,7 +180,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (4) *Other.* Under the subheading “Other” and in the applicable column as described in paragraph (g) of this section, an itemization of each amount for charges in connection with the transaction that are in addition to the charges disclosed under paragraphs (f) and (g)(1) through (3) for services that are required or obtained in the real estate closing by the consumer, the seller, or other party, the name of the person ultimately receiving the payment, and the total of all such itemized amounts that are designated borrower-paid at or before closing.
 
-(i) For any cost that is a component of title insurance services, the introductory description “Title - ” shall appear at the beginning of the label for that actual cost.
+(i) For any cost that is a component of title insurance services, the introductory description “Title —” shall appear at the beginning of the label for that actual cost.
 
 (ii) The parenthetical description “(optional)” shall appear at the end of the label for costs designated borrower-paid at or before closing for any premiums paid for separate insurance, warranty, guarantee, or event-coverage products.
 
@@ -190,7 +192,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (2) The sum of the amounts disclosed in paragraphs (f)(5) and (g)(6) of this section, designated borrower-paid at or before closing, and the sum of the costs designated seller-paid at or before closing or paid by others disclosed pursuant to paragraphs (f) and (g) of this section, labeled “Closing Costs Subtotals.”
 
-(3) The amount described in § 1026.37(g)(6)(ii) as a negative number, labeled “Lender Credits” and designated borrower-paid at closing, and if a refund is provided pursuant to § 1026.19(f)(2)(v), a statement that this amount includes a credit for an amount that exceeds the limitations on increases in closing costs under § 1026.19(e)(3), and the amount of such credit under § 1026.19(f)(2)(v).
+(3) The amount of lender credits as a negative number, labeled “Lender Credits” and designated borrower-paid at closing, and if a refund is provided pursuant to § 1026.19(f)(2)(v), a statement that this amount includes a credit for an amount that exceeds the limitations on increases in closing costs under § 1026.19(e)(3), and the amount of such credit under § 1026.19(f)(2)(v).
 
 (4) The services and costs disclosed pursuant to paragraphs (f) and (g) of this section on the Closing Disclosure shall be labeled using terminology that describes the item disclosed, in a manner that is consistent with the descriptions or prescribed labels, as applicable, used for such items on the Loan Estimate pursuant to § 1026.37. The creditor must also list the items on the Closing Disclosure in the same sequential order as on the Loan Estimate pursuant to § 1026.37.
 
@@ -208,7 +210,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (*2*) If the difference in the “Total Closing Costs” is attributable to differences in itemized charges that are included in either or both subtotals, a statement that the consumer should see the total loan costs and total other costs subtotals disclosed under paragraphs (f)(4) and (g)(5) of this section (together with references to such disclosures), as applicable; and
 
-(*3*) If the increase exceeds the limitations on increases in closing costs under § 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess, and if any refund is provided pursuant to § 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under § 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under § 1026.19(e)(3)(i) and (ii).
+(*3*) If the increase exceeds the limitations on increases in closing costs under § 1026.19(e)(3), a statement that such increase exceeds the legal limits by the dollar amount of the excess, and if any refund is provided under § 1026.19(f)(2)(v), a statement directing the consumer to the disclosure required under paragraph (h)(3) of this section or, if a principal reduction is used to provide the refund, a statement directing the consumer to the principal reduction disclosure under paragraph (j)(1)(v) of this section. Such dollar amount shall equal the sum total of all excesses of the limitations on increases in closing costs under § 1026.19(e)(3), taking into account the different methods of calculating excesses of the limitations on increases in closing costs under § 1026.19(e)(3)(i) and (ii).
 
 (B) If the amount disclosed under paragraph (i)(1)(ii) of this section is equal to the amount disclosed under paragraph (i)(1)(i) of this section, a statement of that fact.
 
@@ -236,9 +238,11 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (ii) Under the subheading “Final”:
 
-(A) In a transaction that is a purchase as defined in § 1026.37(a)(9)(i), the amount of the difference between the purchase price of the property and the principal amount of the credit extended, stated as a positive number, labeled “Down Payment/Funds from Borrower”; or
+(A)(*1*) In a purchase transaction as defined in § 1026.37(a)(9)(i), the amount determined by subtracting the sum of the loan amount disclosed under paragraph (b) of this section and any amount of existing loans assumed or taken subject to that is disclosed under paragraph (j)(2)(iv) of this section from the sale price of the property disclosed under paragraph (a)(3)(vii)(A) of this section, labeled “Down Payment/Funds from Borrower,” except as required by paragraph (i)(4)(ii)(A)(*2*) of this section;
 
-(B) In a transaction other than the type described in paragraph (i)(4)(ii)(A) of this section, the “Funds from Borrower” as determined in accordance with paragraph (i)(6)(iv) of this section, labeled “Down Payment/Funds from Borrower.”
+(*2*) In a purchase transaction as defined in § 1026.37(a)(9)(i) that is a simultaneous subordinate financing transaction or that involves improvements to be made on the property, or when the sum of the loan amount disclosed under paragraph (b) of this section and any amount of existing loans assumed or taken subject to that is disclosed under paragraph (j)(2)(iv) of this section exceeds the sale price disclosed under paragraph (a)(3)(vii)(A) of this section, the amount of funds from the consumer as determined in accordance with paragraph (i)(6)(iv) of this section labeled “Down Payment/Funds from Borrower;” or
+
+(B) In all transactions not subject to paragraph (i)(4)(ii)(A) of this section, the amount of funds from the consumer as determined in accordance with paragraph (i)(6)(iv) of this section, labeled “Down Payment/Funds from Borrower.”
 
 (iii) Under the subheading “Did this change?,” disclosed more prominently than the other disclosures under this paragraph (i)(4):
 
@@ -266,13 +270,13 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (B) If the amount disclosed under paragraph (i)(6)(ii) of this section is equal to the amount disclosed under paragraph (i)(6)(i) of this section, a statement of that fact.
 
-(iv) The “Funds from Borrower” to be disclosed under paragraph (i)(4)(ii)(B) of this section and “Funds for Borrower” to be disclosed under paragraph (i)(6)(ii) of this section are determined by subtracting the principal amount of the credit extended (excluding any amount disclosed pursuant to paragraph (i)(3)(ii) of this section) from the total amount of all existing debt being satisfied in the real estate closing and disclosed under paragraph (j)(1)(v) of this section (except to the extent the satisfaction of such existing debt is disclosed under paragraph (g) of this section).
+(iv) The “Down Payment/Funds from Borrower” to be disclosed under paragraph (i)(4)(ii)(A)(*2*) or (B) of this section, as applicable, and “Funds for Borrower” to be disclosed under paragraph (i)(6)(ii) of this section are determined by subtracting the sum of the loan amount disclosed under paragraph (b) of this section and any amount for existing loans assumed or taken subject to that is disclosed under paragraph (j)(2)(iv) of this section (excluding any closing costs financed disclosed under paragraph (i)(3)(ii) of this section) from the total amount of all existing debt being satisfied in the transaction disclosed under paragraphs (j)(1)(ii), (iii), and (v) of this section.
 
-(A) If the calculation under this paragraph (i)(6)(iv) yields an amount that is a positive number, such amount shall be disclosed under paragraph (i)(4)(ii)(B) of this section, and $0 shall be disclosed under paragraph (i)(6)(ii) of this section.
+(A) If the calculation under this paragraph (i)(6)(iv) yields an amount that is a positive number, such amount shall be disclosed under paragraph (i)(4)(ii)(A)(*2*) or (B) of this section, as applicable, and $0 shall be disclosed under paragraph (i)(6)(ii) of this section.
 
-(B) If the calculation under this paragraph (i)(6)(iv) yields an amount that is a negative number, such amount shall be disclosed under paragraph (i)(6)(ii) of this section, stated as a negative number, and $0 shall be disclosed under paragraph (i)(4)(ii)(B) of this section.
+(B) If the calculation under this paragraph (i)(6)(iv) yields an amount that is a negative number, such amount shall be disclosed under paragraph (i)(6)(ii) of this section, stated as a negative number, and $0 shall be disclosed under paragraph (i)(4)(ii)(A)(*2*) or (i)(4)(ii)(B) of this section, as applicable.
 
-(C) If the calculation under this paragraph (i)(6)(iv) yields $0, $0 shall be disclosed under paragraph (i)(4)(ii)(B) of this section and under paragraph (i)(6)(ii) of this section.
+(C) If the calculation under this paragraph (i)(6)(iv) yields $0, $0 shall be disclosed under paragraph (i)(4)(ii)(A)(*2*) or (i)(4)(ii)(B) of this section, as applicable, and under paragraph (i)(6)(ii) of this section.
 
 (7) *Seller credits.* (i) Under the subheading “Loan Estimate,” the amount disclosed under § 1026.37(h)(1)(vi), labeled “Seller Credits.”
 
@@ -280,17 +284,21 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (iii) Under the subheading “Did this change?,” disclosed more prominently than the other disclosures under this paragraph (i)(7):
 
-(A) If the amount disclosed under paragraph (i)(7)(ii) of this section is different than the amount disclosed under paragraph (i)(7)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the consumer should see the details disclosed under paragraph (j)(2)(v) of this section; or
+(A) If the amount disclosed under paragraph (i)(7)(ii) of this section is different than the amount disclosed under paragraph (i)(7)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the consumer should see the details disclosed:
+
+(*1*) Under paragraph (j)(2)(v) of this section and in the seller-paid column under paragraphs (f) and (g) of this section; or
+
+(*2*) Under either paragraph (j)(2)(v) of this section or in the seller-paid column under paragraphs (f) or (g) of this section, if the details are only disclosed under paragraph (j)(2)(v) or paragraph (f) or (g); or
 
 (B) If the amount disclosed under paragraph (i)(7)(ii) of this section is equal to the amount disclosed under paragraph (i)(7)(i) of this section, a statement of that fact.
 
-(8) *Adjustments and other credits.* (i) Under the subheading “Loan Estimate,” the amount disclosed on the Loan Estimate under § 1026.37(h)(1)(vii) rounded to the nearest whole dollar, labeled “Adjustments and Other Credits.”
+(8) *Adjustments and other credits.* (i) Under the subheading “Loan Estimate,” the amount disclosed on the Loan Estimate under § 1026.37(h)(1)(vii), labeled “Adjustments and Other Credits.”
 
-(ii) Under the subheading “Final,” the amount equal to the total of the amounts disclosed under paragraphs (j)(1)(iii) and (v) through (x) of this section reduced by the total of the amounts disclosed under paragraphs (j)(2)(vi) through (xi) of this section.
+(ii) Under the subheading “Final,” the amount equal to the total of the amounts disclosed under paragraphs (j)(1)(iii) and (v) of this section, to the extent amounts in paragraphs (j)(1)(iii) and (v) were not included in the calculation required by paragraph (i)(4) or (6) of this section, and paragraphs (j)(1)(vi) through (x) of this section, reduced by the total of the amounts disclosed under paragraphs (j)(2)(vi) through (xi) of this section.
 
 (iii) Under the subheading “Did this change?,” disclosed more prominently than the other disclosures under this paragraph (i)(8):
 
-(A) If the amount disclosed under paragraph (i)(8)(ii) of this section is different than the amount disclosed under paragraph (i)(8)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the consumer should see the details disclosed under paragraphs (j)(1)(iii) and (v) through (x) and (j)(2)(vi) through (xi) of this section; or
+(A) If the amount disclosed under paragraph (i)(8)(ii) of this section is different than the amount disclosed under paragraph (i)(8)(i) of this section (unless the difference is due to rounding), a statement of that fact, along with a statement that the consumer should see the details disclosed under paragraphs (j)(1)(iii) and (v) through (x) and (j)(2)(vi) through (xi) of this section, as applicable; or
 
 (B) If the amount disclosed under paragraph (i)(8)(ii) of this section is equal to the amount disclosed under paragraph (i)(8)(i) of this section, a statement of that fact.
 
@@ -330,7 +338,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (v) The total amount of money that the seller will provide at the real estate closing as a lump sum not otherwise itemized to pay for loan costs as determined by paragraph (f) of this section and other costs as determined by paragraph (g) of this section and any other obligations of the seller to be paid directly to the consumer, labeled “Seller Credit”;
 
-(vi) The description “Other Credits,” together with a description and amount of other items paid by or on behalf of the consumer and not otherwise disclosed pursuant to paragraphs (f), (g), (h), and (j)(2) of this section;
+(vi) Descriptions and amounts of other items paid by or on behalf of the consumer and not otherwise disclosed under paragraphs (f), (g), (h), and (j)(2) of this section, labeled “Other Credits,” and descriptions and the amounts of any additional amounts owed the consumer but payable to the seller before the real estate closing, under the heading “Adjustments”;
 
 (vii) The description “Adjustments for Items Unpaid by Seller”;
 
@@ -440,23 +448,23 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (7) *Escrow account.* Under the subheading “Escrow Account”:
 
-(i) Under the reference “For now,” a statement that an escrow account may also be called an impound or trust account, a statement of whether the creditor has established or will establish, at or before consummation, an escrow account in connection with the transaction for the costs that will be paid using escrow account funds described in paragraph (l)(7)(i)(A)(*1*) of this section:
+(i) Under the reference “For now,” a statement that an escrow account may also be called an impound or trust account, a statement of whether the creditor has established or will establish (at or before consummation) an escrow account in connection with the transaction, and the information required under paragraphs (l)(7)(i)(A) and (B) of this section:
 
-(A) A statement that the creditor may be liable for penalties and interest if it fails to make a payment for any cost for which the escrow account is established, a statement that the consumer would have to pay such costs directly in the absence of the escrow account, and a table, titled “Escrow” that contains, if an escrow account is or will be established, an itemization of the following:
+(A) A statement that the creditor may be liable for penalties and interest if it fails to make a payment for any cost for which the escrow account is established, a statement that the consumer would have to pay such costs directly in the absence of the escrow account, and a table, titled “Escrow,” that contains, if an escrow account is or will be established, an itemization of the amounts listed in paragraphs (l)(7)(i)(A)(*1*) through (*4*) of this section;
 
-(*1*) The total amount the consumer will be required to pay into an escrow account over the first year after consummation for payment of the charges described in § 1026.37(c)(4)(ii), labeled “Escrowed Property Costs over Year 1,” together with a descriptive name of each such charge, calculated as the amount disclosed under paragraph (l)(7)(i)(A)(*4*) of this section multiplied by the number of periodic payments scheduled to be made to the escrow account during the first year after consummation;
+(*1*) The total amount the consumer will be required to pay into an escrow account over the first year after consummation, labeled “Escrowed Property Costs over Year 1,” together with a descriptive name of each charge to be paid (in whole or in part) from the escrow account, calculated as the amount disclosed under paragraph (l)(7)(i)(A)(*4*) of this section multiplied by the number of periodic payments scheduled to be made to the escrow account during the first year after consummation;
 
-(*2*) The estimated amount the consumer is likely to pay during the first year after consummation for charges described in § 1026.37(c)(4)(ii) that are known to the creditor and that will not be paid using escrow account funds, labeled “Non-Escrowed Property Costs over Year 1,” together with a descriptive name of each such charge and a statement that the consumer may have to pay other costs that are not listed;
+(*2*) The estimated amount the consumer is likely to pay during the first year after consummation for the mortgage-related obligations described in § 1026.43(b)(8) that are known to the creditor and that will not be paid using escrow account funds, labeled “Non-Escrowed Property Costs over Year 1,” together with a descriptive name of each such charge and a statement that the consumer may have to pay other costs that are not listed;
 
-(*3*) The total amount disclosed pursuant to paragraph (g)(3) of this section, a statement that the payment is a cushion for the escrow account, labeled “Initial Escrow Payment,” and a reference to the information disclosed pursuant to paragraph (g)(3) of this section;
+(*3*) The total amount disclosed under paragraph (g)(3) of this section, a statement that the payment is a cushion for the escrow account, labeled “Initial Escrow Payment,” and a reference to the information disclosed under paragraph (g)(3) of this section;
 
-(*4*) The amount the consumer will be required to pay into the escrow account with each periodic payment during the first year after consummation for payment of the charges described in § 1026.37(c)(4)(ii), labeled “Monthly Escrow Payment.”
+(*4*) The amount the consumer will be required to pay into the escrow account with each periodic payment during the first year after consummation, labeled “Monthly Escrow Payment.”
 
-(*5*) A creditor complies with the requirements of paragraphs (l)(7)(i)(A)(*1*) and (l)(7)(i)(A)(*4*) of this section if the creditor bases the numerical disclosures required by those paragraphs on amounts derived from the escrow account analysis required under Regulation X, 12 CFR 1024.17.
+(*5*) A creditor complies with the requirements of paragraphs (l)(7)(i)(A)(*1*) and (*4*) of this section if the creditor bases the numerical disclosures required by those paragraphs on amounts derived from the escrow account analysis required under Regulation X, 12 CFR 1024.17.
 
 (B) A statement of whether the consumer will not have an escrow account, the reason why an escrow account will not be established, a statement that the consumer must pay all property costs, such as taxes and homeowner's insurance, directly, a statement that the consumer may contact the creditor to inquire about the availability of an escrow account, and a table, titled “No Escrow,” that contains, if an escrow account will not be established, an itemization of the following:
 
-(*1*) The estimated total amount the consumer will pay directly for charges described in § 1026.37(c)(4)(ii) during the first year after consummation that are known to the creditor and a statement that, without an escrow account, the consumer must pay the identified costs, possibly in one or two large payments, labeled “Property Costs over Year 1”; and
+(*1*) The estimated total amount the consumer will pay directly for the mortgage-related obligations described in § 1026.43(b)(8) during the first year after consummation that are known to the creditor and a statement that, without an escrow account, the consumer must pay the identified costs, possibly in one or two large payments, labeled “Property Costs over Year 1”; and
 
 (*2*) The amount of any fee the creditor imposes on the consumer for not establishing an escrow account in connection with the transaction, labeled “Escrow Waiver Fee.”
 
@@ -474,7 +482,11 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (o) *Loan calculations.* In a separate table under the heading “Loan Calculations”:
 
-(1) *Total of payments.* The “Total of Payments,” using that term and expressed as a dollar amount, and a statement that the disclosure is the total the consumer will have paid after making all payments of principal, interest, mortgage insurance, and loan costs, as scheduled.
+(1) *Total of payments.* The “Total of Payments,” using that term and expressed as a dollar amount, and a statement that the disclosure is the total the consumer will have paid after making all payments of principal, interest, mortgage insurance, and loan costs, as scheduled. The disclosed total of payments shall be treated as accurate if the amount disclosed as the total of payments:
+
+(i) Is understated by no more than $100; or
+
+(ii) Is greater than the amount required to be disclosed.
 
 (2) *Finance charge.* The “Finance Charge,” using that term and expressed as a dollar amount, and the following statement: “The dollar amount the loan will cost you.” The disclosed finance charge and other disclosures affected by the disclosed financed charge (including the amount financed and the annual percentage rate) shall be treated as accurate if the amount disclosed as the finance charge:
 
@@ -532,7 +544,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (2) If the creditor does not provide a line for the consumer's signature, the statement required to be disclosed under § 1026.37(n)(2) under the heading “Other Disclosures” required by paragraph (p) of this section.
 
-(t) *Form of disclosures* - (1) *General requirements.* (i) The creditor shall make the disclosures required by this section clearly and conspicuously in writing, in a form that the consumer may keep. The disclosures also shall be grouped together and segregated from everything else.
+(t) *Form of disclosures*—(1) *General requirements.* (i) The creditor shall make the disclosures required by this section clearly and conspicuously in writing, in a form that the consumer may keep. The disclosures also shall be grouped together and segregated from everything else.
 
 (ii) Except as provided in paragraph (t)(5), the disclosures shall contain only the information required by paragraphs (a) through (s) of this section and shall be made in the same order, and positioned relative to the master headings, headings, subheadings, labels, and similar designations in the same manner, as shown in form H-25, set forth in appendix H to this part.
 
@@ -546,7 +558,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (iii) The disclosures required by this section may be provided to the consumer in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 *et seq.*).
 
-(4) *Rounding* - (i) *Nearest dollar.* The following dollar amounts are required to be rounded to the nearest whole dollar:
+(4) *Rounding*—(i) *Nearest dollar.* The following dollar amounts are required to be rounded to the nearest whole dollar:
 
 (A) The dollar amounts required to be disclosed by paragraph (b) of this section that are required to be rounded by § 1026.37(o)(4)(i)(A) when disclosed under § 1026.37(b)(6) and (7);
 
@@ -558,17 +570,17 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (E) The dollar amounts required to be disclosed by paragraph (c) of this section that are required to be rounded by § 1026.37(o)(4)(i)(C) when disclosed under § 1026.37(c)(2)(iv).
 
-(ii) *Percentages.* The percentage amounts required to be disclosed under paragraphs (b), (f)(1), (n), and (o)(5) of this section shall not be rounded and shall be disclosed up to two or three decimal places. The percentage amount required to be disclosed under paragraph (o)(4) of this section shall not be rounded and shall be disclosed up to three decimal places. If the amount is a whole number then the amount disclosed shall be truncated at the decimal point.
+(ii) *Percentages.* The percentage amounts required to be disclosed under paragraphs (b), (f)(1), (n), and (o)(4) and (5) of this section shall be disclosed by rounding the exact amounts to three decimal places and then dropping any trailing zeros to the right of the decimal point.
 
 (iii) *Loan amount.* The dollar amount required to be disclosed by paragraph (b) of this section as required by § 1026.37(b)(1) shall be disclosed as an unrounded number, except that if the amount is a whole number then the amount disclosed shall be truncated at the decimal point.
 
-(5) *Exceptions* - (i) *Unit-period.* Wherever the form or this section uses “monthly” to describe the frequency of any payments or uses “month” to describe the applicable unit-period, the creditor shall substitute the appropriate term to reflect the fact that the transaction's terms provide for other than monthly periodic payments, such as bi-weekly or quarterly payments.
+(5) *Exceptions*—(i) *Unit-period.* Wherever the form or this section uses “monthly” to describe the frequency of any payments or uses “month” to describe the applicable unit-period, the creditor shall substitute the appropriate term to reflect the fact that the transaction's terms provide for other than monthly periodic payments, such as bi-weekly or quarterly payments.
 
 (ii) *Lender credits.* The amount required to be disclosed by paragraph (d)(1)(i)(D) of this section may be omitted from the form if the amount is zero.
 
 (iii) *Administrative information.* The creditor may insert at the bottom of each page under the disclosures required by this section as illustrated by form H-25 of appendix H to this part, any administrative information, text, or codes that assist in identification of the form or the information disclosed on the form, provided that the space provided on form H-25 for any of the information required by this section is not altered.
 
-(iv) *Closing cost details* - (A) *Additional line numbers.* Line numbers provided on form H-25 of appendix H to this part for the disclosure of the information required by paragraphs (f)(1) through (3) and (g)(1) through (4) of this section that are not used may be deleted and the deleted line numbers added to the space provided for any other of those paragraphs as necessary to accommodate the disclosure of additional items.
+(iv) *Closing cost details*—(A) *Additional line numbers.* Line numbers provided on form H-25 of appendix H to this part for the disclosure of the information required by paragraphs (f)(1) through (3) and (g)(1) through (4) of this section that are not used may be deleted and the deleted line numbers added to the space provided for any other of those paragraphs as necessary to accommodate the disclosure of additional items.
 
 (B) *Two pages.* To the extent that adding or deleting line numbers provided on form H-25 of appendix H to this part, as permitted by paragraph (t)(5)(iv)(A) of this section, does not accommodate an itemization of all information required to be disclosed by paragraphs (f) through (h) on one page, the information required to be disclosed by paragraphs (f) through (h) of this section may be disclosed on two pages, provided that the information required by paragraph (f) is disclosed on a page separate from the information required by paragraph (g). The information required by paragraph (g), if disclosed on a page separate from paragraph (f), shall be disclosed on the same page as the information required by paragraph (h).
 
@@ -582,7 +594,7 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (vi) *Modified version of the form for a seller or third-party.* The information required by paragraphs (a)(2), (a)(4)(iii), (a)(5), (b) through (d), (f), and (g) with respect to costs paid by the consumer, (i), (j), (l) through (p), (q)(1), and (r) with respect to the creditor and mortgage broker, and (s) of this section may be deleted from the form provided to the seller or a third-party, as illustrated by form H-25(I) of appendix H to this part.
 
-(vii) *Transaction without a seller.* The following modifications to form H-25 of appendix H to this part may be made for a transaction that does not involve a seller and for which the alternative tables are disclosed pursuant to paragraphs (d)(2) and (e) of this section, as illustrated by form H-25(J) of appendix H to this part:
+(vii) *Transaction without a seller or simultaneous subordinate financing transaction.* The following modifications to form H-25 of appendix H to this part may be made for a transaction that does not involve a seller or for simultaneous subordinate financing, and for which the alternative tables are disclosed under paragraphs (d)(2) and (e) of this section, as illustrated by form H-25(J) of appendix H to this part:
 
 (A) The information required by paragraph (a)(4)(ii), and paragraphs (f), (g), and (h) of this section with respect to costs paid by the seller, may be deleted.
 
@@ -594,4 +606,4 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 
 (ix) *Customary recitals and information.* An additional page may be attached to the form for the purpose of including customary recitals and information used locally in real estate settlements.
 
-[78 FR 80120, Dec. 31, 2013, as amended at 80 FR 8776, Feb. 19, 2015; 80 FR 43920, July 24, 2015]
+[78 FR 80120, Dec. 31, 2013, as amended at 80 FR 8776, Feb. 19, 2015; 80 FR 43920, July 24, 2015; 82 FR 37770, Aug. 11, 2017]

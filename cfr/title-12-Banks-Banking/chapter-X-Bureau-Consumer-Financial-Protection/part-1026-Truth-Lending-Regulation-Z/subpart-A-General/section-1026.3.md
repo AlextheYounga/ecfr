@@ -1,14 +1,12 @@
 ##### § 1026.3 Exempt transactions. #####
 
-Link to an amendment published at 82 FR 37768, Aug. 11, 2017.
-
 The following transactions are not subject to this part or, if the exemption is limited to specified provisions of this part, are not subject to those provisions:
 
 (a) *Business, commercial, agricultural, or organizational credit.* (1) An extension of credit primarily for a business, commercial or agricultural purpose.
 
 (2) An extension of credit to other than a natural person, including credit to government agencies or instrumentalities.
 
-(b) *Credit over applicable threshold amount* - (1) *Exemption* - (i) *Requirements.* An extension of credit in which the amount of credit extended exceeds the applicable threshold amount or in which there is an express written commitment to extend credit in excess of the applicable threshold amount, unless the extension of credit is:
+(b) *Credit over applicable threshold amount*—(1) *Exemption*—(i) *Requirements.* An extension of credit in which the amount of credit extended exceeds the applicable threshold amount or in which there is an express written commitment to extend credit in excess of the applicable threshold amount, unless the extension of credit is:
 
 (A) Secured by any real property, or by personal property used or expected to be used as the principal dwelling of the consumer; or
 
@@ -32,7 +30,7 @@ The following transactions are not subject to this part or, if the exemption is 
 
 (g) *Employer-sponsored retirement plans.* An extension of credit to a participant in an employer-sponsored retirement plan qualified under section 401(a) of the Internal Revenue Code, a tax-sheltered annuity under section 403(b) of the Internal Revenue Code, or an eligible governmental deferred compensation plan under section 457(b) of the Internal Revenue Code (26 U.S.C. 401(a); 26 U.S.C. 403(b); 26 U.S.C. 457(b)), provided that the extension of credit is comprised of fully vested funds from such participant's account and is made in compliance with the Internal Revenue Code (26 U.S.C. 1 *et seq.*).
 
-(h) *Partial exemption for certain mortgage loans.* The special disclosure requirements in § 1026.19(e), (f), and (g) do not apply to a transaction that satisfies all of the following criteria:
+(h) *Partial exemption for certain mortgage loans.* The special disclosure requirements in § 1026.19(g) and, unless the creditor chooses to provide the disclosures described in § 1026.19(e) and (f), in § 1026.19(e) and (f) do not apply to a transaction that satisfies all of the following criteria:
 
 (1) The transaction is secured by a subordinate lien;
 
@@ -58,14 +56,22 @@ The following transactions are not subject to this part or, if the exemption is 
 
 (iv) Deferred until the property securing the transaction is no longer the principal dwelling of the consumer;
 
-(5) The total of costs payable by the consumer in connection with the transaction at consummation is less than one percent of the amount of credit extended and includes no charges other than:
+(5)(i) The costs payable by the consumer in connection with the transaction at consummation are limited to:
 
-(i) Fees for recordation of security instruments, deeds, and similar documents;
+(A) Recording fees;
 
-(ii) A bona fide and reasonable application fee; and
+(B) Transfer taxes;
 
-(iii) A bona fide and reasonable fee for housing counseling services; and
+(C) A bona fide and reasonable application fee; and
 
-(6) The creditor complies with all other applicable requirements of this part in connection with the transaction, including without limitation the disclosures required by § 1026.18.
+(D) A bona fide and reasonable fee for housing counseling services; and
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80107, Dec. 31, 2013]
+(ii) The total of costs payable by the consumer under paragraph (h)(5)(i)(C) and (D) of this section is less than 1 percent of the amount of credit extended; and
+
+(6) The following disclosures are provided:
+
+(i) Disclosures described in § 1026.18 that comply with this part; or
+
+(ii) Alternatively, disclosures described in § 1026.19(e) and (f) that comply with this part.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80107, Dec. 31, 2013; 82 FR 37768, Aug. 11, 2017]

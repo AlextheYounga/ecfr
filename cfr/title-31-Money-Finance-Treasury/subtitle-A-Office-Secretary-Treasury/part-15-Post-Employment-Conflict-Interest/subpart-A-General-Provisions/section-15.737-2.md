@@ -1,6 +1,8 @@
 ##### § 15.737-2 Definitions. #####
 
-For the purpose of this part - (a) The term *Department* means the Department of the Treasury and includes the separate statutory agencies thereof.
+For the purpose of this part—
+
+(a) The term *Department* means the Department of the Treasury and includes the separate statutory agencies thereof.
 
 (b) The term *Director* means the Director of Practice.
 

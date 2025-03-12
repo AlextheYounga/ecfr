@@ -1,6 +1,6 @@
 ##### § 21.600 Semi-annual compilation. #####
 
-(a) The head of each agency shall collect and compile the disclosure reports (see Appendix B) and, on May 31 and November 30 of each year, submit to the Secretary of the Senate and the Clerk of the House of Representatives a report containing a compilation of the information contained in the disclosure reports received during the six-month period ending on March 31 or September 30, respectively, of that year.
+(a) The head of each agency shall collect and compile the disclosure reports (see appendix B) and, on May 31 and November 30 of each year, submit to the Secretary of the Senate and the Clerk of the House of Representatives a report containing a compilation of the information contained in the disclosure reports received during the six-month period ending on March 31 or September 30, respectively, of that year.
 
 (b) The report, including the compilation, shall be available for public inspection 30 days after receipt of the report by the Secretary and the Clerk.
 

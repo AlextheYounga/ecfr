@@ -1,5 +1,3 @@
 ##### § 266.1 Purpose and scope. #####
 
-This part is intended to protect individual privacy and affects all personal information collection and usage activities of the entire U.S. Postal Service. This includes the information interface of Postal Service employees to other employees, to individuals from the public at large, and to any private organization or governmental agency.
-
-[40 FR 45723, Oct. 2, 1975]
+This part contains the rules that the Postal Service follows under the Privacy Act of 1974, 5 U.S.C. 552a. These rules should be read together with the Privacy Act, which provides additional information about records maintained on individuals. The rules in this part apply to all records in systems of records maintained by the Postal Service that are retrieved by an individual's name or personal identifier. They describe the procedures by which individuals may request notification of or access to records about themselves, request amendment of those records, and request an accounting of disclosures of those records by the Postal Service. In addition, the Postal Service processes all Privacy Act requests for access to records under the Freedom of Information Act (FOIA), 5 U.S.C. 552, following the rules contained in 39 CFR 265, as necessary, which provides the requester with the greatest access to his or her personal records.
