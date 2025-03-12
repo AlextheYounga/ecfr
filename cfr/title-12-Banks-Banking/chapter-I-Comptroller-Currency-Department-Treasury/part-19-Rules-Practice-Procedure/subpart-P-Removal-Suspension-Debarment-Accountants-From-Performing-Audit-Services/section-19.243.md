@@ -1,5 +1,7 @@
 ##### § 19.243 Removal, suspension, or debarment. #####
 
+Link to an amendment published at 85 FR 42641, July 14, 2020.
+
 (a) *Good cause for removal, suspension, or debarment* - (1) *Individuals.* The Comptroller may remove, suspend, or debar an independent public accountant from performing audit services for insured national banks that are subject to section 36 of the FDIA if, after service of a notice of intention and opportunity for hearing in the matter, the Comptroller finds that the accountant:
 
 (i) Lacks the requisite qualifications to perform audit services;

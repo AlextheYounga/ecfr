@@ -1,5 +1,7 @@
 ##### § 4.34 Where to submit a request. #####
 
+Link to an amendment published at 85 FR 42640, July 14, 2020.
+
 (a) *A request for non-public OCC information.* A person requesting information under this subpart, requesting authentication of a record under § 4.39(d), or submitting a notification of the issuance of a subpoena or compulsory process under § 4.37, shall send the request or notification to: Office of the Comptroller of the Currency, 400 7th Street, SW., Washington, DC 20219, Attention: Director, Litigation Division.
 
 (b) *Combined requests for non-public and other OCC information.* A person requesting public OCC information and non-public OCC information under this subpart may submit a combined request for both to the address in paragraph (a) of this section. If a requester decides to submit a combined request under this section, the OCC will process the combined request under this subpart and not under subpart B of this part (FOIA).

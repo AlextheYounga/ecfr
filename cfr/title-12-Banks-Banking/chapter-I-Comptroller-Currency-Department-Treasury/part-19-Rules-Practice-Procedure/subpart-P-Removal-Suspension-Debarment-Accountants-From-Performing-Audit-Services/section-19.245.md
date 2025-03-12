@@ -1,5 +1,7 @@
 ##### § 19.245 Notice of removal, suspension or debarment. #####
 
+Link to an amendment published at 85 FR 42641, July 14, 2020.
+
 (a) *Notice to the public.* Upon the issuance of a final order for removal, suspension, or debarment of an independent public accountant or accounting firm from providing audit services, the Comptroller shall make the order publicly available and provide notice of the order to the other Federal banking agencies.
 
 (b) *Notice to the Comptroller by accountants and firms.* An accountant or accounting firm that provides audit services to a national bank must provide the Comptroller with written notice of:

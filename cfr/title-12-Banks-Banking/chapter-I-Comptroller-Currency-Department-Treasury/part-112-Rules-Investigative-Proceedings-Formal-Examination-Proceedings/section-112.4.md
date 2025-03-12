@@ -1,3 +1,5 @@
 ##### § 112.4 Transcripts. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 Transcripts or other recordings, if any, of investigative proceedings or formal examination proceedings shall be prepared solely by an official reporter or by any other person or means authorized by the designated representative. A person who has submitted documentary evidence or given testimony in an investigative proceeding or formal examination proceeding may procure a copy of his own documentary evidence or transcript of his own testimony upon payment of the cost thereof; *provided,* that a person seeking a transcript of his own testimony must file a written request with the OCC's Director for Enforcement and Compliance stating the reason he desires to procure such transcript, and said persons may for good cause deny such request. In any event, any witness (or his counsel) shall have the right to inspect the transcript of the witness' own testimony.

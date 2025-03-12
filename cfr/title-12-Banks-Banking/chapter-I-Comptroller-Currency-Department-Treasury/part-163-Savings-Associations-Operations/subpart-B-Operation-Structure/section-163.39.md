@@ -1,5 +1,7 @@
 ##### § 163.39 Employment contracts. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 (a) *General.* A Federal savings association may enter into an employment contract with its officers and other employees only in accordance with the requirements of this section. All employment contracts shall be in writing and shall be approved specifically by an association's board of directors. An association shall not enter into an employment contract with any of its officers or other employees if such contract would constitute an unsafe or unsound practice. The making of such an employment contract would be an unsafe or unsound practice if such contract could lead to material financial loss or damage to the association or could interfere materially with the exercise by the members of its board of directors of their duty or discretion provided by law, charter, bylaw or regulation as to the employment or termination of employment of an officer or employee of the association. This may occur, depending upon the circumstances of the case, where an employment contract provides for an excessive term.
 
 (b) *Required provisions.* Each employment contract shall provide that:

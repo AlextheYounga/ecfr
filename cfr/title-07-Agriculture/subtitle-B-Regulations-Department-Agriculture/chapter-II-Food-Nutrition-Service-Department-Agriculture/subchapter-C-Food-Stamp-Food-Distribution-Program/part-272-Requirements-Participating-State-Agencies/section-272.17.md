@@ -20,4 +20,4 @@
 
 (e) *State Plan of Operation.* The State agency shall include as an attachment to the annual State Plan of Operation, as required in accordance with § 272.2, the names of gaming entities with which the State agency has entered into cooperative agreements, the frequency of data matches with such entities.
 
-[84 FR 15093, June 14, 2019]=
+[84 FR 15093, June 14, 2019]

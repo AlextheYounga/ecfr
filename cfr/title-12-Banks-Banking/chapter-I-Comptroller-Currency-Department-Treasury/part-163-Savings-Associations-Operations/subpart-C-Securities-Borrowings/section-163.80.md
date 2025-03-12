@@ -1,5 +1,7 @@
 ##### § 163.80 Borrowing limitations. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 (a) *General.* Except as the appropriate Federal banking agency otherwise may permit by advice in writing, a savings association may borrow only in accordance with the provisions of this section.
 
 (b) *Amount of borrowing.* A savings association may borrow up to the amount authorized by the laws under which the savings association operates.

@@ -1,5 +1,7 @@
 ##### § 163.76 Offers and sales of securities at an office of a Federal savings association. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 (a) A Federal saving association may not offer or sell debt or equity securities issued by the association or an affiliate of the association at an office of the association; except that equity securities issued by the association or an affiliate in connection with the association's conversion from the mutual to stock form of organization in a conversion approved pursuant to part 192 of this chapter may be offered and sold at the association's offices: *Provided,* That:
 
 (1) The OCC does not object on supervisory grounds to the offer and sale of the securities at the offices of the association;

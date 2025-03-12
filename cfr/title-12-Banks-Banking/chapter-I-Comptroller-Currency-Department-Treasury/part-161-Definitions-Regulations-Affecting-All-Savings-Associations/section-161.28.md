@@ -1,5 +1,7 @@
 ##### § 161.28 Money Market Deposit Accounts. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 (a) Money Market Deposit Accounts (MMDAs) offered by Federal savings associations in accordance with 12 U.S.C. 1464(b)(1) and by state-chartered savings associations in accordance with applicable state law are savings accounts on which interest may be paid if issued subject to the following limitations:
 
 (1) The savings association shall reserve the right to require at least seven days' notice prior to withdrawal or transfer of any funds in the account; and

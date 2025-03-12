@@ -1,5 +1,7 @@
 ##### 4.2104 Waivers. #####
 
+Link to an amendment published at 85 FR 42677, July 14, 2020.
+
 (a) *Executive agencies.* The head of an executive agency may, on a one-time basis, waive the prohibition at 4.2102(a) with respect to a Government entity (*e.g.,* requirements office, contracting office) that requests such a waiver.
 
 (1) The waiver may be provided, for a period not to extend beyond August 13, 2021, if the Government entity seeking the waiver submits to the head of the executive agency -

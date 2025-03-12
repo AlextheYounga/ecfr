@@ -1,5 +1,7 @@
 ##### 4.2102 Prohibition. #####
 
+Link to an amendment published at 85 FR 42677, July 14, 2020.
+
 (a) *Prohibited equipment, systems, or services.* On or after August 13, 2019, agencies are prohibited from procuring or obtaining, or extending or renewing a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception at paragraph (b) of this section applies or the covered telecommunications equipment or services are covered by a waiver described in 4.2104.
 
 (b) *Exceptions.* This subpart does not prohibit agencies from procuring or contractors from providing -

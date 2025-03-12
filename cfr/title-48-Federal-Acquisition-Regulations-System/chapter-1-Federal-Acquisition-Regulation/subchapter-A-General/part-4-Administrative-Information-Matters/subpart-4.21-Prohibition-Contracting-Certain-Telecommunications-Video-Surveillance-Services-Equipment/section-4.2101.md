@@ -1,5 +1,7 @@
 ##### 4.2101 Definitions. #####
 
+Link to an amendment published at 85 FR 42676, July 14, 2020.
+
 As used in this subpart -
 
 *Covered foreign country* means The People's Republic of China.

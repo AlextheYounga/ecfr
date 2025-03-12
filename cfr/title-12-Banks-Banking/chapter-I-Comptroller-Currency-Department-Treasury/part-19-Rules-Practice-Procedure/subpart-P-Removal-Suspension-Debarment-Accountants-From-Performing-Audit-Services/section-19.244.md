@@ -1,5 +1,7 @@
 ##### § 19.244 Automatic removal, suspension, and debarment. #####
 
+Link to an amendment published at 85 FR 42641, July 14, 2020.
+
 (a) An independent public accountant or accounting firm may not perform audit services for insured national banks if the accountant or firm:
 
 (1) Is subject to a final order of removal, suspension, or debarment (other than a limited scope order) issued by the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the Office of Thrift Supervision under section 36 of the FDIA.

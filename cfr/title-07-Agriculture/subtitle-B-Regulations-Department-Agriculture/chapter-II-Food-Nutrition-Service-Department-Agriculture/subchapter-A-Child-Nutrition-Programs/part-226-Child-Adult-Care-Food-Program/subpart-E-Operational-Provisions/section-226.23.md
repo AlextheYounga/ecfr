@@ -102,7 +102,7 @@
 
 (v) A statement to the effect that participants having family members who become unemployed are eligible for free or reduced-price meals during the period of unemployment, provided that the loss of income causes the family income during the period of unemployment to be within the eligibility standards for those meals;
 
-(vi) An explanation that households receiving free and reduced-price meals must notify appropriate institution officials during the year of any decreases in household size or increases in income of over $50 per month or $600 per year or -
+(vi) An explanation that households receiving free and reduced-price meals must notify appropriate institution officials during the year of any decreases in household size or increases in income of over $50 per month or $600 per year or—
 
 (A) In the case of households of enrolled children that provide a SNAP, FDPIR or TANF case number to establish a child's eligibility for free meals, any termination in the child's certification to participate in the SNAP, FDPIR or TANF Programs, or
 
@@ -256,4 +256,4 @@ The reasons for ineligibility shall be properly documented and retained on file 
 
 (n) *Penalties for unauthorized disclosure or misuse of children's free and reduced price meal eligibility information.* In accordance with section 9(b)(6)(C) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(6)(C)), any individual who publishes, divulges, discloses or makes known in any manner, or to any extent not authorized by statute or this section, any information obtained under this section will be fined not more than $1,000 or imprisoned for up to 1 year, or both.
 
-[47 FR 36527, Aug. 20, 1982]Editorial Note:For Federal Register citations affecting § 226.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[47 FR 36527, Aug. 20, 1982]Editorial Note:For Federal Register citations affecting § 226.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

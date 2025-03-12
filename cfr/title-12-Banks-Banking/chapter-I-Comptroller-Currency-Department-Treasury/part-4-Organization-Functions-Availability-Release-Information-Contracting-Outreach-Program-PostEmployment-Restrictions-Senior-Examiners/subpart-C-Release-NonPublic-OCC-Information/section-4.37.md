@@ -1,5 +1,7 @@
 ##### § 4.37 Persons and entities with access to OCC information; prohibition on dissemination. #####
 
+Link to an amendment published at 85 FR 42640, July 14, 2020.
+
 (a) *Current and former OCC employees or agents; former OTS employees or agents* - (1) *Generally.* Except as authorized by this subpart or otherwise by the OCC, no current or former OCC employee or agent or former OTS employee or agent, may, in any manner, disclose or permit the disclosure of any non-public OCC information to anyone other than an employee or agent of the Comptroller for use in the performance of OCC duties.
 
 (2) *Duty of person served.* Any current or former OCC employee or agent or former OTS employee or agent, subpoenaed or otherwise requested to provide information covered by this subpart must immediately notify the OCC as provided in this paragraph. The OCC may intervene, attempt to have the compulsory process withdrawn, and register appropriate objections when a current or former OCC employee or agent or former OTS employee or agent, receives a subpoena and the subpoena requires the current or former employee or agent to appear or produce OCC information. If necessary, the current or former employee or agent must appear as required and respectfully decline to produce the information sought, citing this subpart as authority and United States ex rel. Touhy v. Ragen, 340 U.S. 462 (1951). The current or former OCC employee or agent or former OTS employee or agent, must immediately notify the OCC if subpoenaed or otherwise asked for non-public OCC information:

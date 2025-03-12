@@ -1,5 +1,7 @@
 ##### 4.2103 Procedures. #####
 
+Link to an amendment published at 85 FR 42677, July 14, 2020.
+
 (a) *Representations.* (1)(i) If the offeror selects “does not” in response to the provision at 52.204-26 or 52.212-3(v), the contracting officer may rely on the representation, unless the contracting officer has reason to question the representation. If the contracting officer has a reason to question the representation, the contracting officer shall follow agency procedures.
 
 (ii) If the offeror selects “does” in response to the provision at 52.204-26 or 52.212-3(v), the offeror must complete the representation at 52.204-24.

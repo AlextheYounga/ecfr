@@ -1,5 +1,7 @@
 ##### § 26.6 General exemption. #####
 
+Link to an amendment published at 85 FR 42642, July 14, 2020.
+
 (a) *Exemption.* The OCC may by order issued following receipt of an application, exempt an interlock from the prohibitions in § 26.3 if the OCC finds that the interlock would not result in a monopoly or substantial lessening of competition and would not present safety and soundness concerns.
 
 (b) *Presumptions.* In reviewing an application for an exemption under this section, the OCC will apply a rebuttable presumption that an interlock will not result in a monopoly or substantial lessening of competition if the depository organization seeking to add a management official:

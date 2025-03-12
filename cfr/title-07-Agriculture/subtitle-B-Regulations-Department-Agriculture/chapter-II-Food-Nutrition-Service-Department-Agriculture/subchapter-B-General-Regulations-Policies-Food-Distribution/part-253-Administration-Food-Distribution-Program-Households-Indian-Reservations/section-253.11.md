@@ -24,7 +24,7 @@
 
 (i) For a waiver based on financial inability, a summary statement and recent financial documents showing that the State agency is unable to meet the 20 percent matching requirement and that additional administrative funds are necessary for the effective operation of the program; or
 
-(ii) For a waiver based on substantial burden, a signed letter from the leadership of the State agency or, in the case of an Indian Tribal Organization, from the Tribal Council, describing why meeting the 20 percent matching requirement would impose a substantial burden on the State agency, and why additional administrative funds are necessary for the effective operation of the program, along with supporting documentation, as needed.
+(ii) For a waiver based on substantial burden, a signed letter from the leadership of the State agency or, in the case of an Indian Tribal Organization, from the leadership of the Tribal agency that oversees the Food Distribution Program, describing why meeting the 20 percent matching requirement would impose a substantial burden on the State agency, and why additional administrative funds are necessary for the effective operation of the program, along with supporting documentation, as needed.
 
 (3) The FNS Regional Office may not reduce any benefits or services to State agencies that are granted a waiver.
 
@@ -54,7 +54,7 @@
 
 (h) *Accounting for funds.* Each State agency which receives administrative funds under this section shall establish and maintain an effective system of fiscal control and accounting procedures. Expenditures and accountability of such funds shall be in accordance with the appropriate provisions of part 277. The accounting procedures maintained by the State agency shall be such as to accurately reflect the receipt, expenditure and current balance of funds provided by FNS and to facilitate the prompt preparation of reports required by FNS. The accounting procedures shall also provide for segregation of costs specifically identifiable to the Food Distribution Program from any other costs incurred by the State agency. Any budget revisions by a State agency which require the transfer of funds from an approved cost category to another shall be in accordance with the budget revision procedures set forth in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, and shall be approved by FNS prior to any transfer of funds.
 
-(i) *Return, reduction, and reallocation of funds.* (1) FNS may require State agencies to return prior to the end of the fiscal year any or all unobligated funds received under this section, and may reduce the amount it has apportioned or agreed to pay to any State agency if FNS determines that:
+(i) *Return, reduction, and reallocation of funds.* (1) FNS may require State agencies to return, during the period of performance of their administrative grant and after receipt of administrative funds, any or all unobligated funds received under this section, and may reduce the amount it has apportioned or agreed to pay to any State agency if FNS determines that:
 
 (i) The State agency is not administering the Food Distribution Program in accordance with its plan of operation approved by FNS and the provisions of this part, or
 
@@ -62,7 +62,7 @@
 
 (iii) Circumstances or conditions justify the return reallocation or transfer of funds to accomplish the purpose of this part.
 
-(2) The State agency shall return to FNS within 90 days following the close of each Federal fiscal year any funds received under this section which are unobligated at that time.
+(2) The State agency shall return to FNS, within ninety (90) days following the close of the period of performance of each administrative grant, any funds received under this section which are unobligated at that time.
 
 (j) *Records, reports, audits.* (1) The State agency shall:
 
@@ -74,4 +74,4 @@
 
 (3) The appropriate provisions of part 277 are adaptable to this section for additional guidance.
 
-(Approved by the Office of Management and Budget under control number 0584-0071)(44 U.S.C. 3506)[44 FR 35928, June 19, 1979, as amended at 47 FR 746, Jan. 7, 1982. Redesignated and amended by Amdt. 1, 47 FR 14137, Apr. 2, 1982, as amended at 62 FR 53731, Oct. 16, 1997. Redesignated at 64 FR 73385, Dec. 30, 1999, as amended at 77 FR 50907, Aug. 23, 2012; 81 FR 66498, Sept. 28, 2016; 84 FR 45877, Sept. 3, 2019]
+(Approved by the Office of Management and Budget under control number 0584-0071)(44 U.S.C. 3506)[44 FR 35928, June 19, 1979, as amended at 47 FR 746, Jan. 7, 1982. Redesignated and amended by Amdt. 1, 47 FR 14137, Apr. 2, 1982, as amended at 62 FR 53731, Oct. 16, 1997. Redesignated at 64 FR 73385, Dec. 30, 1999, as amended at 77 FR 50907, Aug. 23, 2012; 81 FR 66498, Sept. 28, 2016; 84 FR 45877, Sept. 3, 2019; 85 FR 42303, July 14, 2020]

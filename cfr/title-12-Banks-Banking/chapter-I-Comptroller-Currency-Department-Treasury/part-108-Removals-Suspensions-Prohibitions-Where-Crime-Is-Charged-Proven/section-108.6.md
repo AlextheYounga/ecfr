@@ -1,5 +1,7 @@
 ##### § 108.6 Initiation of hearing. #####
 
+Link to an amendment published at 85 FR 42642, July 14, 2020.
+
 (a) Within 10 days of the filing of a petition for hearing, the OCC shall notify the petitioner of the time and place fixed for hearing, and it shall designate one or more OCC employees to serve as presiding officer.
 
 (b) The hearing shall be scheduled to be held no later than 30 days from the date the petition was filed, unless the time is extended at the request of the petitioner.

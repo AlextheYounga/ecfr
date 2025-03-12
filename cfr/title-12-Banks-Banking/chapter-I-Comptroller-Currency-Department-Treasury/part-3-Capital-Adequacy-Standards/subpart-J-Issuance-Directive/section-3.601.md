@@ -1,5 +1,7 @@
 ##### § 3.601 Purpose and scope. #####
 
+Link to an amendment published at 85 FR 42640, July 14, 2020.
+
 (a) This subpart is applicable to proceedings by the OCC to issue a directive under 12 U.S.C. 3907(b)(2) or 12 U.S.C. 1464(s), as appropriate. A directive is an order issued to a national bank or Federal savings association that does not have or maintain capital at or above the minimum ratios set forth in subpart B of this part, or established for the national bank or Federal savings association under subpart H of this part, by a written agreement under 12 U.S.C. 1818(b), or as a condition for approval of an application. A directive may order the national bank or Federal savings association to:
 
 (1) Achieve the minimum capital ratios applicable to it by a specified date;

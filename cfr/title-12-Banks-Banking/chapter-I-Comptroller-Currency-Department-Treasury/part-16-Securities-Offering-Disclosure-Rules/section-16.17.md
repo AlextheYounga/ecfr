@@ -1,5 +1,7 @@
 ##### § 16.17 Filing requirements and inspection of documents. #####
 
+Link to an amendment published at 85 FR 42641, July 14, 2020.
+
 (a) Except as otherwise provided in this section, all registration statements, offering documents, amendments, notices, or other documents must be filed with the OCC's Securities and Corporate Practices Division electronically at *http://www.banknet.gov/.* Documents may be signed electronically using the signature provision in SEC Rule 402 (17 CFR 230.402).
 
 (b) All registration statements, offering documents, amendments, notices, or other documents relating to a national bank or Federal savings association in organization must be filed with the appropriate district office of the OCC at *http://www.banknet.gov/.*

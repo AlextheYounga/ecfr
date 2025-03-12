@@ -1,5 +1,7 @@
 ##### § 163.47 Pension plans. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 (a) *General.* No Federal savings association or service corporation thereof shall sponsor an employee pension plan which, because of unreasonable costs or any other reason, could lead to material financial loss or damage to the sponsor. For purposes of this section, an employee pension plan is defined in section 3(2) of the Employee Retirement Income Security Act of 1974, as amended. The prospective obligation or liability of a plan sponsor to each plan participant shall be stated in or determinable from the plan, and, for a defined benefit plan, shall also be based upon an actuarial estimate of future experience under the plan.
 
 (b) *Funding.* Actuarial cost methods permitted under the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1954, as amended, shall be used to determine plan funding.

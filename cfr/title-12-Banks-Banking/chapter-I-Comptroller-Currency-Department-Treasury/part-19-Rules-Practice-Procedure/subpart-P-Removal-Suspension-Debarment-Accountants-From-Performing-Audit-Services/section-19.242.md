@@ -1,5 +1,7 @@
 ##### § 19.242 Definitions. #####
 
+Link to an amendment published at 85 FR 42641, July 14, 2020.
+
 As used in this subpart, the following terms shall have the meaning given below unless the context requires otherwise:
 
 (a) *Accounting firm* means a corporation, proprietorship, partnership, or other business firm providing audit services.

@@ -1,5 +1,7 @@
 ##### § 23.6 Application of lending limits; restrictions on transactions with affiliates. #####
 
+Link to an amendment published at 85 FR 42642, July 14, 2020.
+
 All lease entered into pursuant to this part is subject to the lending limits prescribed by 12 U.S.C. 84, as implemented by 12 CFR part 32, or, if the lessee is an affiliate of the bank, to the restrictions on transactions with affiliates prescribed by 12 U.S.C. 371c and 371c-1 and Regulation W, 12 CFR part 223. The OCC may also determine that other limits or restrictions apply. The term affiliate means an affiliate as defined in 12 U.S.C. 371c or 371c-1, as implemented by Regulation W, 12 CFR part 223, as applicable. For the purpose of measuring compliance with the lending limits prescribed by 12 U.S.C. 84 as implemented by part 32, a national bank records the investment in a lease net of any nonrecourse debt the bank has incurred to finance the acquisition of the leased asset.
 
 [61 FR 66560, Dec. 18, 1996, as amended at 73 FR 22244, Apr. 24, 2008]

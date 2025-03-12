@@ -1,5 +1,7 @@
 ##### § 11.3 Filing requirements and inspection of documents. #####
 
+Link to an amendment published at 85 FR 42640, July 14, 2020.
+
 (a) *Filing requirements* - (1)(i) *In general.* Except as otherwise provided in this section, all papers required to be filed with the OCC pursuant to the Exchange Act or regulations thereunder shall be submitted to the Securities and Corporate Practices Division of the OCC electronically at *http://www.banknet.gov/.* Documents may be signed electronically using the signature provision in SEC Rule 12b-11 (17 CFR 240.12b-11).
 
 (ii) *Electronic filing exception.* If a national bank or Federal savings association experiences unanticipated technical difficulties preventing the timely preparation and submission of an electronic filing, other than the filings described in paragraph (a)(3)(ii) of this section, the bank may, upon notice to the OCC's Securities and Corporate Practices Division, file the subject filing in paper format no later than one business day after the date on which the filing was to be made. Paper filings should be submitted to the Securities and Corporate Practices Division, Office of the Comptroller of the Currency at the address provided at *www.occ.gov.*

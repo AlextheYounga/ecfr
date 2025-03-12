@@ -1,5 +1,7 @@
 ##### § 4.14 Public inspection in an electronic format. #####
 
+Link to an amendment published at 85 FR 42640, July 14, 2020.
+
 (a) *Available information.* Subject to the exemptions listed in § 4.12(b), the OCC makes the following information available for public inspection in an electronic format:
 
 (1) Any final order, agreement, or other enforceable document issued in the adjudication of an OCC enforcement case, including a final order published pursuant to 12 U.S.C. 1818(u);

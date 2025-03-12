@@ -1,5 +1,7 @@
 ##### § 161.26 Land loan. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 The term *land loan* means a loan:
 
 (a) Secured by real estate upon which all facilities and improvements have been completely installed, as required by local regulations and practices, so that it is entirely prepared for the erection of structures;

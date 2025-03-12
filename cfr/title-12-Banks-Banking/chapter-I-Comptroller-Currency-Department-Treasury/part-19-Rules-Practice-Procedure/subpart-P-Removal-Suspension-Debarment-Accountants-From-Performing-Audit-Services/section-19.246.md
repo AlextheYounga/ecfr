@@ -1,5 +1,7 @@
 ##### § 19.246 Petition for reinstatement. #####
 
+Link to an amendment published at 85 FR 42642, July 14, 2020.
+
 (a) *Form of petition.* Unless otherwise ordered by the Comptroller, a petition for reinstatement by an independent public accountant, an accounting firm, or an office of a firm that was removed, suspended, or debarred under § 19.243 may be made in writing at any time. The request shall contain a concise statement of the action requested. The Comptroller may require the applicant to submit additional information.
 
 (b) *Procedure.* A petitioner for reinstatement under this section may, in the sole discretion of the Comptroller, be afforded a hearing. The accountant or firm shall bear the burden of going forward with a petition and proving the grounds asserted in support of the petition. In reinstatement proceedings, the person seeking reinstatement shall bear the burden of going forward with an application and proving the grounds asserted in support of the application. The Comptroller may, in his sole discretion, direct that any reinstatement proceeding be limited to written submissions. The removal, suspension, or debarment shall continue until the Comptroller, for good cause shown, has reinstated the petitioner or until the suspension period has expired. The filing of a petition for reinstatement shall not stay the effectiveness of the removal, suspension, or debarment of an accountant or firm.

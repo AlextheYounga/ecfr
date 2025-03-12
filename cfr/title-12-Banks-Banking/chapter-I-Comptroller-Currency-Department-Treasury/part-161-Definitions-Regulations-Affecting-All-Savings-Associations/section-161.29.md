@@ -1,5 +1,7 @@
 ##### § 161.29 Negotiable Order of Withdrawal Accounts. #####
 
+Link to an amendment published at 85 FR 42643, July 14, 2020.
+
 (a) Negotiable Order of Withdrawal (NOW) accounts are savings accounts authorized by 12 U.S.C. 1832 on which the savings association reserves the right to require at least seven days' notice prior to withdrawal or transfer of any funds in the account.
 
 (b) For purposes of 12 U.S.C. 1832:
