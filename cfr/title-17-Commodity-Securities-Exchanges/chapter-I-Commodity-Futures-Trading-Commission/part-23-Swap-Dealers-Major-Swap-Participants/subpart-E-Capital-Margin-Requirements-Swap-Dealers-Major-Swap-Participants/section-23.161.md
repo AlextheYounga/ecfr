@@ -44,6 +44,28 @@
 
 (2) If a covered swap entity's counterparty changes its status such that an uncleared swap with that counterparty becomes subject to less strict margin requirement under §§ 23.150 through 23.161 (for example, if the counterparty's status changes from a financial end user with material swaps exposure to a financial end user without material swaps exposure), then the covered swap entity may comply with the less strict margin requirements for any uncleared swaps entered into with that counterparty after the counterparty changes its status as well as for any outstanding uncleared swap entered into after the applicable compliance date under paragraph (a) of this section and before the counterparty changed its status.
 
-(d) For purposes of determining whether an uncleared swap was entered into prior to the applicable compliance date under this section, a covered swap entity may disregard amendments to the uncleared swap that were entered into solely to comply with the requirements of 12 CFR part 47; 12 CFR part 252, subpart I; or 12 CFR part 382, as applicable.
+(d) For purposes of determining whether an uncleared swap was entered into prior to the applicable compliance date under this section, a covered swap entity may disregard:
 
-[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018]
+(1) Amendments to the uncleared swap that were entered into solely to comply with the requirements of 12 CFR part 47; 12 CFR part 252, subpart I; or 12 CFR part 382, as applicable; or
+
+(2) Amendments to the uncleared swap that were entered into in compliance with each of the following conditions:
+
+(i) The law of the European Union ceases to apply to the United Kingdom pursuant to Article 50(3) of the Treaty on European Union, without conclusion of a withdrawal agreement between the United Kingdom and the European Union pursuant to Article 50(2) thereof; and
+
+(ii) Solely in connection with a party to the swap's planning for or response to the event described in paragraph (d)(2)(i) of this section, one or both parties to the swap transfers the swap to its margin affiliate, or a branch or other authorized form of establishment of the transferor, and the parties make no other transfers of the swap; and
+
+(A) A covered swap entity is a transferee from a party to the swap; or
+
+(B) A covered swap entity is a remaining party to the swap, and the transferor represents to the covered swap entity that the transferee is a margin affiliate, or a branch or other authorized form of establishment of the transferor, and the transfer was made solely in connection with the transferor's planning for or response to the event described in paragraph (d)(2)(i) of this section; and
+
+(iii) The amendments do not modify any of the following: the payment amount calculation methods, the maturity date, or the notional amount of the swap; and
+
+(iv) The amendments take effect no earlier than the date of the event described in paragraph (d)(2)(i) of this section transpires; and
+
+(v) The amendments take effect no later than:
+
+(A) The date that is one year after the date of the event described in paragraph (d)(2)(i) of this section; or
+
+(B) Such other date permitted by transitional provisions under Article 35 of Commission Delegated Regulation (EU) No. 2016/2251, as amended.
+
+[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 84 FR 12071, Apr. 1, 2019]

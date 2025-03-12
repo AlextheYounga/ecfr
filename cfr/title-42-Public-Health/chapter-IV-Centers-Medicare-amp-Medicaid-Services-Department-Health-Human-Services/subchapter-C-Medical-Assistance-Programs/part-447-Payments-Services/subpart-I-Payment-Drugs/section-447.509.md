@@ -28,7 +28,7 @@
 
 (3) *Total rebate.* The total rebate amount for single source drugs and innovator multiple source drugs is equal to the basic rebate amount plus the additional rebate amount, if any.
 
-(4) *Treatment of new formulations.* (i) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form, the rebate obligation is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the product of all of the following:
+(4) *Treatment of new formulations.* (i) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form, the rebate obligation for the rebate periods beginning January 1, 2010 through September 30, 2018 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the product of all of the following:
 
 (A) The AMP of the line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form.
 
@@ -36,7 +36,15 @@
 
 (C) The total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
 
-(ii) The alternative rebate is required to be calculated if the manufacturer of the line extension drug also manufactures the initial brand name listed drug or has a corporate relationship with the manufacturer of the initial brand name listed drug.
+(ii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form, the rebate obligation for the rebate periods beginning on or after October 1, 2018 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:
+
+(A) The AMP of the line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form.
+
+(B) The highest additional rebate (calculated as a percentage of AMP) under this section for any strength of the original single source drug or innovator multiple source drug.
+
+(C) The total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
+
+(iii) The alternative rebate is required to be calculated if the manufacturer of the line extension drug also manufactures the initial brand name listed drug or has a corporate relationship with the manufacturer of the initial brand name listed drug.
 
 (5) *Limit on rebate.* In no case will the total rebate amount exceed 100 percent of the AMP of the drug.
 
@@ -75,3 +83,5 @@
 (3) For a drug that is a line extension of a single source or innovator multiple source drug that is an oral solid dosage form, the offset amount is the difference between the unit rebate amount (URA) calculation for the drug calculated based on the applicable rebate percentage in section 1927 of the Act prior to the Affordable Care Act and the calculation of the URA for the line extension drug, if greater, in accordance with the Affordable Care Act.
 
 (4) For noninnovator multiple source drugs, the offset amount is equal to 2.0 percent of the AMP (the difference between 13.0 percent of AMP and 11.0 percent of AMP).
+
+[81 FR 5347, Feb. 1, 2016, as amended at 84 FR 12136, Apr. 1, 2019]

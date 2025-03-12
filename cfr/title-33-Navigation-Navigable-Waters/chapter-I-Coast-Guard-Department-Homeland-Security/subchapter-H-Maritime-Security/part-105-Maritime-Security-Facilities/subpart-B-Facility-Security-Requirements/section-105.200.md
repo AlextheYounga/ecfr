@@ -1,5 +1,7 @@
 ##### § 105.200 Owner or operator. #####
 
+Link to an amendment published at 84 FR 12119, Apr. 1, 2019.
+
 (a) Each facility owner or operator must ensure that the facility operates in compliance with the requirements of this part.
 
 (b) For each facility, the facility owner or operator must -

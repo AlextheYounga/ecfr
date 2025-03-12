@@ -190,9 +190,9 @@ Buy American - Free Trade Agreements - Balance of Payments Program Certificate -
 
 *Alternate V.* As prescribed in 225.1101(9) and (9)(vi), use the following provision, which uses different paragraphs (a), (b)(2), (c)(2)(i), and (c)(2)(ii) than the basic provision:
 
-Buy American - Free Trade Agreements - Balance of Payments Program Certificate - Alternate V (NOV 2014)
+Buy American - Free Trade Agreements - Balance of Payments Program Certificate - Alternate V (APR 2019)
 
-(a) *Definitions. Bahrainian end product, commercially available off-the-shelf (COTS) item,**component, domestic end product,* “*Free Trade Agreement country, Free Trade Agreement country end product,**foreign end product, Korean end product,**Moroccan end product, Panamanian end product,**Peruvian end product, qualifying country end product,**South Caucasus/Central and South Asian (SC/CASA) state end product,* and *United States,* as used in this provision, have the meanings given in the Buy American Act - Free Trade Agreements - Balance of Payments Program - Alternate V clause of this solicitation.
+(a) *Definitions. Bahrainian end product, commercially available off-the-shelf (COTS) item,**component, domestic end product,* “*Free Trade Agreement country, Free Trade Agreement country end product,**foreign end product, Korean end product,**Moroccan end product, Panamanian end product,**Peruvian end product, qualifying country end product,**South Caucasus/Central and South Asian (SC/CASA) state end product,* and *United States,* as used in this provision, have the meanings given in the Buy American - Free Trade Agreements - Balance of Payments Program - Alternate V clause of this solicitation.
 
 (b) *Evaluation.* The Government -
 
@@ -225,4 +225,4 @@ Buy American - Free Trade Agreements - Balance of Payments Program Certificate -
 |(Line Item Number)|(Country of Origin  <br/>(If known))|
 |:----------------:|:-----------------------------------|
 
-(End of provision)[70 FR 2364, Jan. 13, 2005, as amended at 71 FR 34835, June 16, 2006; 71 FR 58543, Oct. 4, 2006; 73 FR 53156, Sept. 15, 2008; 74 FR 2423, Jan. 15, 2009; 74 FR 68384, Dec. 24, 2009; 75 FR 81919, Dec. 29, 2010; 76 FR 32843, June 6, 2011; 77 FR 30358, May 22, 2012; 77 FR 35882, June 15, 2012; 77 FR 68701, Nov. 16, 2012; 78 FR 59859, Sept. 30, 2013; 78 FR 65222, Oct. 31, 2013; 79 FR 65822, Nov. 5, 2014; 80 FR 36899, June 26, 2015]
+(End of provision)[70 FR 2364, Jan. 13, 2005, as amended at 71 FR 34835, June 16, 2006; 71 FR 58543, Oct. 4, 2006; 73 FR 53156, Sept. 15, 2008; 74 FR 2423, Jan. 15, 2009; 74 FR 68384, Dec. 24, 2009; 75 FR 81919, Dec. 29, 2010; 76 FR 32843, June 6, 2011; 77 FR 30358, May 22, 2012; 77 FR 35882, June 15, 2012; 77 FR 68701, Nov. 16, 2012; 78 FR 59859, Sept. 30, 2013; 78 FR 65222, Oct. 31, 2013; 79 FR 65822, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 84 FR 12140, Apr. 1, 2019]

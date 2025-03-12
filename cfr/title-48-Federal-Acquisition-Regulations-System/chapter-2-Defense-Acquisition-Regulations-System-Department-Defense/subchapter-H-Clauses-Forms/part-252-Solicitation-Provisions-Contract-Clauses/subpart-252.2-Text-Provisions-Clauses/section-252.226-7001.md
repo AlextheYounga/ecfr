@@ -2,7 +2,7 @@
 
 As prescribed in 226.104, use the following clause:
 
-Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns (SEP 2004)
+Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns (APR 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -32,9 +32,17 @@ Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Nati
 
 (d) In the event of a challenge to the representation of a subcontractor, the Contracting Officer will refer the matter to -
 
-(1) For matters relating to Indian organizations or Indian-owned economic enterprises: U.S. Department of the Interior, Bureau of Indian Affairs, Attn: Chief, Division of Contracting and Grants Administration, 1849 C Street NW, MS-2626-MIB, Washington, DC 20240-4000. The BIA will determine the eligibility and will notify the Contracting Officer.
+(1)(i) For matters relating to Indian organizations or Indian-owned economic enterprises:
 
-(2) For matters relating to Native Hawaiian small business concerns: Department of Hawaiian Home Lands, PO Box 1879, Honolulu, HI 96805. The Department of Hawaiian Home Lands will determine the eligibility and will notify the Contracting Officer.
+U.S. Department of the Interior, Bureau of Indian Affairs, Attn: Bureau Procurement Chief, 12220 Sunrise Valley Drive, Reston, VA 20191, Phone: 703-390-6433, Website: *https://www.bia.gov/*.
+
+(ii) The BIA will determine the eligibility and will notify the Contracting Officer.
+
+(2)(i) For matters relating to Native Hawaiian small business concerns:
+
+Department of Hawaiian Home Lands, P.O. Box 1879, Honolulu, HI 96805, Phone: 808-620-9500, Website: *http://dhhl.hawaii.gov/*.
+
+(ii) The Department of Hawaiian Home Lands will determine the eligibility and will notify the Contracting Officer.
 
 (e) No incentive payment will be made -
 
@@ -56,4 +64,4 @@ Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Nati
 
 (g) The Contractor shall insert the substance of this clause, including this paragraph (g), in all subcontracts exceeding $500,000.
 
-[68 FR 56562, Oct. 1, 2003, as amended at 69 FR 55991, Sept. 17, 2004]
+[68 FR 56562, Oct. 1, 2003, as amended at 69 FR 55991, Sept. 17, 2004; 84 FR 12142, Apr. 1, 2019]

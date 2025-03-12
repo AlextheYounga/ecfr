@@ -4,6 +4,4 @@
 
 (b) Use the clause at 252.204-7003, Control of Government Personnel Work Product, in all solicitations and contracts.
 
-(c) Use the clause at 252.204-7005, Oral Attestation of Security Responsibilities, in solicitations and contracts that include the clause at FAR 52.204-2, Security Requirements.
-
-[57 FR 14992, Apr. 23, 1992, as amended at 64 FR 45197, Aug. 19, 1999]
+[57 FR 14992, Apr. 23, 1992, as amended at 64 FR 45197, Aug. 19, 1999; 84 FR 12139, Apr. 1, 2019]

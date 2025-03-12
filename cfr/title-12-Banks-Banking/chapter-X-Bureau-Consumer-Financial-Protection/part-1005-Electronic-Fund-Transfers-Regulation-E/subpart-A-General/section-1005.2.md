@@ -1,7 +1,5 @@
 ##### § 1005.2 Definitions. #####
 
-Link to an amendment published at 81 FR 84325, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.Link to an amendment published at 83 FR 6417, Feb. 13, 2018.
-
 Except as otherwise provided in subpart B, for purposes of this part, the following definitions apply:
 
 (a)(1) “Access device” means a card, code, or other means of access to a consumer's account, or any combination thereof, that may be used by the consumer to initiate electronic fund transfers.
@@ -16,9 +14,43 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 
 (b)(1) “Account” means a demand deposit (checking), savings, or other consumer asset account (other than an occasional or incidental credit balance in a credit plan) held directly or indirectly by a financial institution and established primarily for personal, family, or household purposes.
 
-(2) The term includes a “payroll card account” which is an account that is directly or indirectly established through an employer and to which electronic fund transfers of the consumer's wages, salary, or other employee compensation (such as commissions), are made on a recurring basis, whether the account is operated or managed by the employer, a third-party payroll processor, a depository institution or any other person. For rules governing payroll card accounts, *see* § 1005.18.
+(2) The term does not include an account held by a financial institution under a bona fide trust agreement.
 
-(3) The term does not include an account held by a financial institution under a bona fide trust agreement.
+(3) The term includes a prepaid account.
+
+(i) “Prepaid account” means:
+
+(A) A “payroll card account,” which is an account that is directly or indirectly established through an employer and to which electronic fund transfers of the consumer's wages, salary, or other employee compensation (such as commissions) are made on a recurring basis, whether the account is operated or managed by the employer, a third-party payroll processor, a depository institution, or any other person; or
+
+(B) A “government benefit account,” as defined in § 1005.15(a)(2); or
+
+(C) An account that is marketed or labeled as “prepaid” and that is redeemable upon presentation at multiple, unaffiliated merchants for goods or services or usable at automated teller machines; or
+
+(D) An account:
+
+(*1*) That is issued on a prepaid basis in a specified amount or not issued on a prepaid basis but capable of being loaded with funds thereafter,
+
+(*2*) Whose primary function is to conduct transactions with multiple, unaffiliated merchants for goods or services, or at automated teller machines, or to conduct person-to-person transfers, and
+
+(*3*) That is not a checking account, share draft account, or negotiable order of withdrawal account.
+
+(ii) For purposes of paragraphs (b)(3)(i)(C) and (D) of this section, the term “prepaid account” does not include:
+
+(A) An account that is loaded only with funds from a health savings account, flexible spending arrangement, medical savings account, health reimbursement arrangement, dependent care assistance program, or transit or parking reimbursement arrangement;
+
+(B) An account that is directly or indirectly established through a third party and loaded only with qualified disaster relief payments;
+
+(C) The person-to-person functionality of an account established by or through the United States government whose primary function is to conduct closed-loop transactions on U.S. military installations or vessels, or similar government facilities;
+
+(D)(*1*) A gift certificate as defined in § 1005.20(a)(1) and (b);
+
+(*2*) A store gift card as defined in § 1005.20(a)(2) and (b);
+
+(*3*) A loyalty, award, or promotional gift card as defined in § 1005.20(a)(4), or that satisfies the criteria in § 1005.20(a)(4)(i) and (ii) and is excluded from § 1005.20 pursuant to § 1005.20(b)(4); or
+
+(*4*) A general-use prepaid card as defined in § 1005.20(a)(3) and (b) that is both marketed and labeled as a gift card or gift certificate; or
+
+(E) An account established for distributing needs-tested benefits in a program established under state or local law or administered by a state or local agency, as set forth in § 1005.15(a)(2).
 
 (c) “Act” means the Electronic Fund Transfer Act (Title IX of the Consumer Credit Protection Act, 15 U.S.C. 1693 *et seq.*).
 
@@ -48,4 +80,4 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 
 (3) By the financial institution or its employee.
 
-[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 6285, Feb. 7, 2012]
+[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 6285, Feb. 7, 2012; 81 FR 84325, Nov. 22, 2016; 83 FR 6417, Feb. 13, 2018]

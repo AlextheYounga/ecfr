@@ -1,4 +1,4 @@
-##### § 478.92 How must licensed manufacturers and licensed importers identify firearms, armor piercing ammunition, and large capacity ammunition feeding devices? #####
+##### § 478.92 Identification of firearms and armor piercing ammunition by licensed manufacturers and licensed importers. #####
 
 (a)(1) *Firearms.* You, as a licensed manufacturer or licensed importer of firearms, must legibly identify each firearm manufactured or imported as follows:
 
@@ -18,7 +18,7 @@
 
 (2) *Firearm frames or receivers.* A firearm frame or receiver that is not a component part of a complete weapon at the time it is sold, shipped, or otherwise disposed of by you must be identified as required by this section.
 
-(3) *Special markings for semiautomatic assault weapons, effective July 5, 1995.* In the case of any semiautomatic assault weapon manufactured after September 13, 1994, you must mark the frame or receiver “RESTRICTED LAW ENFORCEMENT/GOVERNMENT USE ONLY” or, in the case of weapons manufactured for export, “FOR EXPORT ONLY,” in a manner not susceptible of being readily obliterated, altered, or removed. For weapons manufactured or imported on and after January 30, 2002, the engraving, casting, or stamping (impressing) of the special markings prescribed in this paragraph (a)(3) must be to a minimum depth of .003 inch.
+(3) [Reserved]
 
 (4) *Exceptions.* (i) *Alternate means of identification.* The Director may authorize other means of identification upon receipt of a letter application from you, submitted in duplicate, showing that such other identification is reasonable and will not hinder the effective administration of this part.
 
@@ -32,22 +32,4 @@
 
 (2) *Labeling of packages.* Each licensed manufacturer or licensed importer of armor piercing ammunition shall clearly and conspicuously label each package in which armor piercing ammunition is contained, e.g., each box, carton, case, or other container. The label shall include the words “ARMOR PIERCING” in block letters at least1/4 inch in height. The lettering shall be located on the exterior surface of the package which contains information concerning the caliber or gauge of the ammunition. There shall also be placed on the same surface of the package in block lettering at least1/8 inch in height the words “FOR GOVERNMENTAL ENTITIES OR EXPORTATION ONLY.” The statements required by this subparagraph shall be on a contrasting background.
 
-(c) *Large capacity ammunition feeding devices manufactured after September 13, 1994.* (1) Each person who manufactures or imports any large capacity ammunition feeding device manufactured after September 13, 1994, shall legibly identify each such device with a serial number. Such person may use the same serial number for all large capacity ammunition feeding devices produced.
-
-(i) Additionally, in the case of a domestically made large capacity ammunition feeding device, such device shall be marked with the name, city and State (or recognized abbreviation thereof) of the manufacturer;
-
-(ii) And in the case of an imported large capacity ammunition feeding device, such device shall be marked:
-
-(A) With the name of the manufacturer, country of origin, and,
-
-(B) Effective July 5, 1995, the name, city and State (or recognized abbreviation thereof) of the importer.
-
-(iii) Further, large capacity ammunition feeding devices manufactured after September 13, 1994, shall be marked “RESTRICTED LAW ENFORCEMENT/GOVERNMENT USE ONLY” or, in the case of devices manufactured or imported for export, effective July 5, 1995, “FOR EXPORT ONLY.”
-
-(2) All markings required by this paragraph (c) shall be cast, stamped, or engraved on the exterior of the device. In the case of a magazine, the markings shall be placed on the magazine body.
-
-(3) *Exceptions* - (i) *Metallic links.* Persons who manufacture or import metallic links for use in the assembly of belted ammunition are only required to place the identification marks prescribed in paragraph (c)(1) of this section on the containers used for the packaging of the links.
-
-(ii) *Alternate means of identification.* The Director may authorize other means of identifying large capacity ammunition feeding devices upon receipt of a letter application, in duplicate, from the manufacturer or importer showing that such other identification is reasonable and will not hinder the effective administration of this part.
-
-(Approved by the Office of Management and Budget under control number 1140-0050)[T.D. ATF-270, 53 FR 10496, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17454, Apr. 6, 1995; T.D. ATF-383, 61 FR 39321, July 29, 1996; T.D. ATF-396, 63 FR 12646, Mar. 16, 1998; T.D. ATF-461, 66 FR 40600, Aug. 3, 2001; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0050)[T.D. ATF-270, 53 FR 10496, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17454, Apr. 6, 1995; T.D. ATF-383, 61 FR 39321, July 29, 1996; T.D. ATF-396, 63 FR 12646, Mar. 16, 1998; T.D. ATF-461, 66 FR 40600, Aug. 3, 2001; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008; T.D. ATF 2014R-42, 84 FR 12094, Apr. 1, 2019]

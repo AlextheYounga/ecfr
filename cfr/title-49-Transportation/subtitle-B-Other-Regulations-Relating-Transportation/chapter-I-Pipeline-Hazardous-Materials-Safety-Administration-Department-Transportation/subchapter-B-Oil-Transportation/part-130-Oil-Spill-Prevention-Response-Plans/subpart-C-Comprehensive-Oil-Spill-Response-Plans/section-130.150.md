@@ -1,0 +1,13 @@
+##### § 130.150 Approval and submission procedures. #####
+
+(a) Each railroad must submit an electronic copy in an industry standard format (e.g., Adobe Acrobat, Microsoft Word, or hypertext markup language (HTML)) of the COSRP required by this part. Copies of the response plan must be submitted via commercial carrier to: Associate Administrator for Hazardous Materials Safety, Pipeline and Hazardous Materials Safety Administration, U.S. Department of Transportation, East Building, 2nd Floor, 1200 New Jersey Avenue SE, Washington, DC 20590-0001. Alternatively, the railroad may arrange for secure electronic transfer of the file to PHMSA or email a copy of the plan to *PHMSA.OPA90@dot.gov.*
+
+(b) If PHMSA determines that a response plan requiring approval does not meet all the requirements of this part, PHMSA will notify the railroad of any alleged deficiencies and provide the railroad an opportunity to respond—including the opportunity for an informal conference—to any proposed plan revisions, as well as an opportunity to correct any deficiencies.
+
+(c) A railroad that disagrees with PHMSA's determination that a plan contains alleged deficiencies may petition PHMSA for reconsideration within 30 days from the date of receipt of PHMSA's notice. After considering all relevant material presented in writing or at an informal conference, PHMSA will notify the operator of its final decision. The railroad must comply with the final decision within 30 days of issuance, unless PHMSA allows additional time.
+
+(d) PHMSA will approve the response plan if PHMSA determines that the response plan meets all requirements of this part. PHMSA may consult with the U.S. Environmental Protection Agency (EPA) or the U.S. Coast Guard (USCG), allowing a Federal On-Scene Coordinator (OSC) to identify concerns regarding a plan's compliance with the statutory and regulatory requirements.
+
+(e) If PHMSA receives a request from a Federal OSC to review a response plan, PHMSA will give a copy of the response plan to the Federal OSC provided that any requests for the plan are referred to PHMSA. PHMSA may consider Federal OSC comments on: Response techniques; protecting fish, wildlife and environmentally sensitive environments; and consistency with the ACP. PHMSA remains the approving authority for the response plan.
+
+(f) A railroad may ask for confidential treatment in accordance with the procedures in § 105.30 of this chapter.

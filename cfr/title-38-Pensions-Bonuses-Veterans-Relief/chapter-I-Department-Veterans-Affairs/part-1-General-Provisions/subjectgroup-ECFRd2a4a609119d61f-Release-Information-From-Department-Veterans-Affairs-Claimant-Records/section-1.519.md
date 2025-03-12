@@ -1,5 +1,7 @@
 ##### § 1.519 Lists of names and addresses. #####
 
+Link to an amendment published at 84 FR 12125, Apr. 1, 2019.
+
 (a) Any organization wanting a list of names and addresses of present or former personnel of the armed services and their dependents from the Department of Veterans Affairs must make written application to the Department of Veterans Affairs Controller, except lists of educationally disadvantaged veterans should be requested from the Director of the nearest regional office. The application must:
 
 (1) Clearly identify the type or category of names and addresses sought;

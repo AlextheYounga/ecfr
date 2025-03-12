@@ -1,5 +1,1 @@
-##### § 478.153 Semiautomatic assault weapons and large capacity ammunition feeding devices manufactured or imported for the purposes of testing or experimentation. #####
-
-The provisions of § 478.40 with respect to the manufacture, transfer, or possession of a semiautomatic assault weapon, and § 478.40a with respect to large capacity ammunition feeding devices, shall not apply to the manufacture, transfer, or possession of such weapons or devices by a manufacturer or importer for the purposes of testing or experimentation as authorized by the Director. A person desiring such authorization shall submit a letter application, in duplicate, to the Director. Such application shall contain the name and addresses of the persons directing or controlling, directly or indirectly, the policies and management of the applicant, the nature or purpose of the testing or experimentation, a description of the weapons or devices to be manufactured or imported, and the source of the weapons or devices. The approved application shall be retained as part of the records required by subpart H of this part.
-
-[T.D. ATF-363, 60 FR 17456, Apr. 6, 1995]
+##### § 478.153 [Reserved] #####

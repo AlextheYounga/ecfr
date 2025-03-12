@@ -1,13 +1,10 @@
 ##### § 174.310 Requirements for the operation of high-hazard flammable trains. #####
 
-Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
-
 (a) *Applicability.* Each rail carrier operating a high-hazard flammable train (as defined in § 171.8 of this subchapter) must comply with each of the following additional safety requirements with respect to each high-hazard flammable train that it operates:
 
-(1) *Routing.* The additional planning requirements for transportation by rail in accordance with part 172, subpart I of this subchapter;
+(1) *Routing.* The additional planning requirements for transportation by rail in accordance with part 172, subpart I of this subchapter.
 
 (2) *Speed restrictions.* All trains are limited to a maximum speed of 50 mph. The train is further limited to a maximum speed of 40 mph while that train travels within the limits of high-threat urban areas (HTUAs) as defined in § 1580.3 of this title, unless all tank cars containing a Class 3 flammable liquid meet or exceed the DOT Specification 117 standards, the DOT Specification 117P performance standards, or the DOT Specification 117R retrofit standards provided in part 179, subpart D of this subchapter.
-h
 
 (3) *Braking.* Each rail carrier operating a high-hazard flammable train (as defined in § 171.8 of this subchapter) operating at a speed in excess of 30 mph must ensure the train is equipped and operated with either a two-way end-of-train (EOT) device, as defined in 49 CFR 232.5, or a distributed power (DP) system, as defined in 49 CFR 229.5.
 
@@ -29,6 +26,10 @@ h
 
 (v) Entities required to submit a report under this paragraph shall submit subsequent follow-up reports containing the information identified in this paragraph within 60 days of being notified by PHMSA and FRA.
 
+(6) *Oil spill response plans.* The additional requirements for petroleum oil transported by rail in accordance with part 130 of of this chapter.
+
+(7) *High-hazard flammable train (HHFT) information sharing notification for emergency response planning.* The additional requirements for notification in § 174.312.
+
 (b) [Reserved]
 
-[80 FR 26748, May 8, 2015, as amended at 83 FR 48401, Sept. 25, 2018]
+[80 FR 26748, May 8, 2015, as amended at 83 FR 48401, Sept. 25, 2018; 84 FR 6952, Feb. 28, 2019]

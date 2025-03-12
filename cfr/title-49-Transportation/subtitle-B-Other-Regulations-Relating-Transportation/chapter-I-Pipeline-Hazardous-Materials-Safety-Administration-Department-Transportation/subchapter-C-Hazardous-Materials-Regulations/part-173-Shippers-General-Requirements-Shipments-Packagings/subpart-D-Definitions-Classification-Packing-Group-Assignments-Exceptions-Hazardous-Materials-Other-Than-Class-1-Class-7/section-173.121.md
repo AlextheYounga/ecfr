@@ -1,7 +1,5 @@
 ##### § 173.121 Class 3 - Assignment of packing group. #####
 
-Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
-
 (a)(1) The packing group of a Class 3 material is as assigned in column 5 of the § 172.101 Table. When the § 172.101 Table provides more than one packing group for a hazardous material, the packing group must be determined by applying the following criteria:
 
 |Packing group|       Flash point (closed-cup)       |Initial boiling point|
@@ -18,9 +16,11 @@ Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
 
 (iii) Petroleum Products - Determination of Distillation Characteristics at Atmospheric Pressure (ISO 3405) (IBR; *see* § 171.7 of this subchapter);
 
-(iv) Petroleum Products - Determination of Boiling Range Distribution - Gas Chromatography Method (ISO 3924) (IBR; *see* § 171.7 of this subchapter); or
+(iv) Petroleum Products - Determination of Boiling Range Distribution - Gas Chromatography Method (ISO 3924) (IBR; *see* § 171.7 of this subchapter);
 
-(v) Volatile Organic Liquids - Determination of Boiling Range of Organic Solvents Used as Raw Materials (ISO 4626) (IBR; *see* § 171.7 of this subchapter).
+(v) Volatile Organic Liquids - Determination of Boiling Range of Organic Solvents Used as Raw Materials (ISO 4626) (IBR; *see* § 171.7 of this subchapter); or
+
+(vi) Petroleum products containing known flammable gases - Standard Test Method for Determination of Light Hydrocarbons in Stabilized Crude Oils by Gas Chromatography (ASTM D7900) (IBR; see § 171.7 of this subchapter) where the initial boiling point is the temperature at which 0.5 weight percent is eluted when determining the boiling range distribution.
 
 (b) *Criteria for inclusion of viscous Class 3 materials in Packing Group III.* (1) Viscous Class 3 materials in Packing Group II with a flash point of less than 23 °C (73 °F) may be grouped in Packing Group III provided that -
 
@@ -51,4 +51,4 @@ Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
 
 (c) *Transitional provisions.* The criteria for packing group assignments in effect on December 31, 2006, may continue to be used until January 1, 2012.
 
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-241, 59 FR 67507, Dec. 29, 1994 Amdt. 173-255, 61 FR 50625, Sept. 26, 1996; 64 FR 10777, Mar. 5, 1999; 64 FR 51918, Sept. 27, 1999; 66 FR 45381, Aug. 28, 2001; 68 FR 75744, Dec. 31, 2003; 71 FR 78631, Dec. 29, 2006; 76 FR 3372, Jan. 19, 2011; 76 FR 43529, July 20, 2011; 78 FR 1085, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015; 82 FR 15878, Mar. 30, 2017]
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-241, 59 FR 67507, Dec. 29, 1994 Amdt. 173-255, 61 FR 50625, Sept. 26, 1996; 64 FR 10777, Mar. 5, 1999; 64 FR 51918, Sept. 27, 1999; 66 FR 45381, Aug. 28, 2001; 68 FR 75744, Dec. 31, 2003; 71 FR 78631, Dec. 29, 2006; 76 FR 3372, Jan. 19, 2011; 76 FR 43529, July 20, 2011; 78 FR 1085, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015; 82 FR 15878, Mar. 30, 2017; 84 FR 6952, Feb. 28, 2019]

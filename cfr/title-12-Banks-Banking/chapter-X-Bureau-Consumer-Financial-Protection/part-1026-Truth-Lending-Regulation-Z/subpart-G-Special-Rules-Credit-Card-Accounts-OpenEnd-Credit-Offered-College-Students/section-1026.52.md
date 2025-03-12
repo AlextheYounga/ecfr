@@ -1,8 +1,6 @@
 ##### § 1026.52 Limitations on fees. #####
 
-Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
-(a) *Limitations prior to account opening and during first year after account opening* - (1) *General rule.* Except as provided in paragraph (a)(2) of this section, the total amount of fees a consumer is required to pay with respect to a credit card account under an open-end (not home-secured) consumer credit plan during the first year after account opening must not exceed 25 percent of the credit limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the consumer to engage in transactions.
+(a) *Limitations during first year after account opening* - (1) *General rule.* Except as provided in paragraph (a)(2) of this section, the total amount of fees a consumer is required to pay with respect to a credit card account under an open-end (not home-secured) consumer credit plan during the first year after account opening must not exceed 25 percent of the credit limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the consumer to engage in transactions.
 
 (2) *Fees not subject to limitations.* Paragraph (a) of this section does not apply to:
 
@@ -40,4 +38,4 @@ Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was 
 
 (ii) *Multiple fees based on a single event or transaction.* A card issuer must not impose more than one fee for violating the terms or other requirements of a credit card account under an open-end (not home-secured) consumer credit plan based on a single event or transaction. A card issuer may, at its option, comply with this prohibition by imposing no more than one fee for violating the terms or other requirements of an account during a billing cycle.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 18797, Mar. 28, 2013; 78 FR 76035, Dec. 16, 2013; 79 FR 48017, Aug. 15, 2014; 80 FR 56898, Sept. 21, 2015; 81 FR 41421, June 27, 2016; 83 FR 43505, Aug. 27, 2018]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 18797, Mar. 28, 2013; 78 FR 76035, Dec. 16, 2013; 79 FR 48017, Aug. 15, 2014; 80 FR 56898, Sept. 21, 2015; 81 FR 41421, June 27, 2016; 83 FR 43505, Aug. 27, 2018; 81 FR 84370, Nov. 22, 2016]

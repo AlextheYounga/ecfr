@@ -1,7 +1,5 @@
 ##### § 1026.6 Account-opening disclosures. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 (a) *Rules affecting home-equity plans.* The requirements of this paragraph (a) apply only to home-equity plans subject to the requirements of § 1026.40. A creditor shall disclose the items in this section, to the extent applicable:
 
 (1) *Finance charge.* The circumstances under which a finance charge will be imposed and an explanation of how it will be determined, as follows:
@@ -134,6 +132,10 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 
 (C) Charges under § 1026.4(e) disclosed as specified.
 
+(D) With regard to a covered separate credit feature and an asset feature on a prepaid account that are both accessible by a hybrid prepaid-credit card as defined in § 1026.61, any fee or charge imposed on the asset feature of the prepaid account to the extent that the amount of the fee or charge does not exceed comparable fees or charges imposed on prepaid accounts in the same prepaid account program that do not have a covered separate credit feature accessible by a hybrid prepaid-credit card.
+
+(E) With regard to a non-covered separate credit feature accessible by a prepaid card as defined in § 1026.61, any fee or charge imposed on the asset feature of the prepaid account.
+
 (4) *Disclosure of rates for open-end (not home-secured) plans.* A creditor shall disclose, to the extent applicable:
 
 (i) For each periodic rate that may be used to calculate interest:
@@ -183,3 +185,5 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 (ii) *Security interests.* The fact that the creditor has or will acquire a security interest in the property purchased under the plan, or in other property identified by item or type.
 
 (iii) *Statement of billing rights.* A statement that outlines the consumer's rights and the creditor's responsibilities under §§ 1026.12(c) and 1026.13 and that is substantially similar to the statement found in Model Form G-3(A) in appendix G to this part.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]

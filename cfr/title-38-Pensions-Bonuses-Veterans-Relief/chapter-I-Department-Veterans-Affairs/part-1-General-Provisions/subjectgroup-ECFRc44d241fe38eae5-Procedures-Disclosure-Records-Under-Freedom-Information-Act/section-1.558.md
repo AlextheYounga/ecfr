@@ -1,5 +1,7 @@
 ##### § 1.558 Business information. #####
 
+Link to an amendment published at 84 FR 12127, Apr. 1, 2019.
+
 (a) *General.* Business information received by VA from a submitter will be considered under the FOIA pursuant to this section and in accordance with the requirements set forth in § 1.557 of this part.
 
 (b) *Designation of business information.* The submitter of business information may designate that specific records or portions of records submitted are business information, at the time of submission or within a reasonable time thereafter. The submitter must use good faith efforts in designating records that the submitter claims could be expected to cause substantial competitive harm and thus warrant protection under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4). The submitter may mark the record submission as confidential or use the words “business information” or describe the specific records that contain business information. Such designation will be considered, but will not control, the FOIA Officer's decision on disclosing the material. A designation will remain in effect for a period of not more than 10 years after receipt by VA, unless the submitter provides acceptable justification for a longer period. The submitter may designate a shorter period by including an expiration date.

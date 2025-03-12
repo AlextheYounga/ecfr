@@ -16,15 +16,15 @@
 
 (f) Do not use any of the following provisions or clauses in solicitations or contracts that include the provision at 252.225-7023, the clause at 252.225-7024, or the clause at 252.225-7026:
 
-(1) 252.225-7000, Buy American Act - Balance of Payments Program Certificate.
+(1) 252.225-7000, Buy American - Balance of Payments Program Certificate.
 
-(2) 252.225-7001, Buy American Act and Balance of Payments Program.
+(2) 252.225-7001, Buy American and Balance of Payments Program.
 
 (3) 252.225-7002, Qualifying Country Sources as Subcontractors.
 
-(4) 252.225-7035, Buy American Act - Free Trade Agreements - Balance of Payments Program Certificate.
+(4) 252.225-7035, Buy American - Free Trade Agreements - Balance of Payments Program Certificate.
 
-(5) 252.225-7036, Buy American Act - Free Trade Agreements - Balance of Payments Program.
+(5) 252.225-7036, Buy American - Free Trade Agreements - Balance of Payments Program.
 
 (6) 252.225-7044, Balance of Payments Program - Construction Material.
 
@@ -36,4 +36,4 @@
 
 (2) 252.225-7021, Trade Agreements.
 
-[78 FR 59858, Sept. 30, 2013]
+[78 FR 59858, Sept. 30, 2013, as amended at 84 FR 12140, Apr. 1, 2019]

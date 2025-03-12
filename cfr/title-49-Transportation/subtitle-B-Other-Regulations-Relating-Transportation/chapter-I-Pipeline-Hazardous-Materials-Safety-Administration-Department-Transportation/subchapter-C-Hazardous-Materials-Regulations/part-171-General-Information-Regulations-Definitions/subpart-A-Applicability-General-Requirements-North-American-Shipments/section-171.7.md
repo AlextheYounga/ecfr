@@ -1,7 +1,5 @@
 ##### § 171.7 Reference material. #####
 
-Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
-
 (a) *Matter incorporated by reference* - (1) *General.* Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. Matters referenced by footnote are included as part of the regulations of this subchapter.
 
 (2) *Accessibility of materials.* All incorporated matter is available for inspection at:
@@ -66,7 +64,7 @@ Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
 
 (2) ASME B31.4-2012, Pipeline Transportation Systems for Liquids and Slurries, November 12, 2012, into § 173.5a.
 
-(h) *American Society for Testing and Materials,* 100 Barr Harbor Drive, West Conshohocken, PA 1942, telephone (610) 832-9585, *http://www.astm.org.* Copies of historical standards or standards that ASTM does not have may be purchased from: Engineering Societies Library, 354 East 47th Street, New York, NY 10017.
+(h) *ASTM International,* 100 Barr Harbor Drive, West Conshohocken, PA 1942, telephone (610) 832-9585, *http://www.astm.org.* Copies of historical standards or standards that ASTM does not have may be purchased from: Engineering Societies Library, 354 East 47th Street, New York, NY 10017.
 
 (1) ASTM A 20/A 20M-93a Standard Specification for General Requirements for Steel Plates for Pressure Vessels, 1993, into §§ 178.337-2; 179.102-4; 179.102-1; 179.102-17.
 
@@ -156,19 +154,21 @@ Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
 
 (44) ASTM D 4359-90 Standard Test Method for Determining Whether a Material is a Liquid or a Solid, 1990 into §§ 130.5, 171.8.
 
-(45) ASTM E 8-99 Standard Test Methods for Tension Testing of Metallic Materials, 1999, into § 178.36; 178.37; 178.38; 178.39; 178.44; 178.45; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.68.
+(45) ASTM D7900-13e1, Standard Test Method for Determination of Light Hydrocarbons in Stabilized Crude Oils by Gas Chromatography, Approved December 1, 2013, into § 173.121.
 
-(46) ASTM E 23-98 Standard Test Methods for Notched Bar Impact Testing of Metallic Materials, 1998, into § 178.57.
+(46) ASTM E 8-99 Standard Test Methods for Tension Testing of Metallic Materials, 1999, into § 178.36; 178.37; 178.38; 178.39; 178.44; 178.45; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.68.
 
-(47) ASTM E 112-88 Standard Test Methods for Determining Average Grain Size, 1988, into § 178.44.
+(47) ASTM E 23-98 Standard Test Methods for Notched Bar Impact Testing of Metallic Materials, 1998, into § 178.57.
 
-(48) ASTM E 112-96 Standard Test Methods for Determining Average Grain Size, 1996 Edition, into § 178.274; part 178, appendix A.
+(48) ASTM E 112-88 Standard Test Methods for Determining Average Grain Size, 1988, into § 178.44.
 
-(49) ASTM E 114-95 Standard Practice for Ultrasonic Pulse-Echo Straight-Beam Examination by the Contact Method, 1995, into § 178.45.
+(49) ASTM E 112-96 Standard Test Methods for Determining Average Grain Size, 1996 Edition, into § 178.274; part 178, appendix A.
 
-(50) ASTM E 213-98 Standard Practice for Ultrasonic Examination of Metal Pipe and Tubing, into § 178.45.
+(50) ASTM E 114-95 Standard Practice for Ultrasonic Pulse-Echo Straight-Beam Examination by the Contact Method, 1995, into § 178.45.
 
-(51) ASTM E 290-97a Standard Test Methods for Bend Testing of Material for Ductility, published February 1998, into § 178.37.
+(51) ASTM E 213-98 Standard Practice for Ultrasonic Examination of Metal Pipe and Tubing, into § 178.45.
+
+(52) ASTM E 290-97a Standard Test Methods for Bend Testing of Material for Ductility, published February 1998, into § 178.37.
 
 (i) [Reserved]
 
@@ -578,4 +578,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019]

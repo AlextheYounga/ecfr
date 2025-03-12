@@ -1,7 +1,5 @@
 ##### § 1026.4 Finance charge. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 (a) *Definition.* The finance charge is the cost of consumer credit as a dollar amount. It includes any charge payable directly or indirectly by the consumer and imposed directly or indirectly by the creditor as an incident to or a condition of the extension of credit. It does not include any charge of a type payable in a comparable cash transaction.
 
 (1) *Charges by third parties.* The finance charge includes fees and amounts charged by someone other than the creditor, unless otherwise excluded under this section, if the creditor:
@@ -24,7 +22,7 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 
 (1) Interest, time price differential, and any amount payable under an add-on or discount system of additional charges.
 
-(2) Service, transaction, activity, and carrying charges, including any charge imposed on a checking or other transaction account to the extent that the charge exceeds the charge for a similar account without a credit feature.
+(2) Service, transaction, activity, and carrying charges, including any charge imposed on a checking or other transaction account (except a prepaid account as defined in § 1026.61) to the extent that the charge exceeds the charge for a similar account without a credit feature.
 
 (3) Points, loan fees, assumption fees, finder's fees, and similar charges.
 
@@ -42,15 +40,21 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 
 (10) Charges or premiums paid for debt cancellation or debt suspension coverage written in connection with a credit transaction, whether or not the coverage is insurance under applicable law.
 
+(11) With regard to a covered separate credit feature and an asset feature on a prepaid account that are both accessible by a hybrid prepaid-credit card as defined in § 1026.61:
+
+(i) Any fee or charge described in paragraphs (b)(1) through (10) of this section imposed on the covered separate credit feature, whether it is structured as a credit subaccount of the prepaid account or a separate credit account.
+
+(ii) Any fee or charge imposed on the asset feature of the prepaid account to the extent that the amount of the fee or charge exceeds comparable fees or charges imposed on prepaid accounts in the same prepaid account program that do not have a covered separate credit feature accessible by a hybrid prepaid-credit card.
+
 (c) *Charges excluded from the finance charge.* The following charges are not finance charges:
 
 (1) Application fees charged to all applicants for credit, whether or not credit is actually extended.
 
 (2) Charges for actual unanticipated late payment, for exceeding a credit limit, or for delinquency, default, or a similar occurrence.
 
-(3) Charges imposed by a financial institution for paying items that overdraw an account, unless the payment of such items and the imposition of the charge were previously agreed upon in writing.
+(3) Charges imposed by a financial institution for paying items that overdraw an account, unless the payment of such items and the imposition of the charge were previously agreed upon in writing. This paragraph does not apply to credit offered in connection with a prepaid account as defined in § 1026.61.
 
-(4) Fees charged for participation in a credit plan, whether assessed on an annual or other periodic basis.
+(4) Fees charged for participation in a credit plan, whether assessed on an annual or other periodic basis. This paragraph does not apply to a fee to participate in a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in § 1026.61, regardless of whether this fee is imposed on the credit feature or on the asset feature of the prepaid account.
 
 (5) Seller's points.
 
@@ -70,7 +74,7 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 
 (8) Discounts offered to induce payment for a purchase by cash, check, or other means, as provided in section 167(b) of the Act.
 
-(d) *Insurance and debt cancellation and debt suspension coverage* - (1) *Voluntary credit insurance premiums.* Premiums for credit life, accident, health, or loss-of-income insurance may be excluded from the finance charge if the following conditions are met:
+(d) *Insurance and debt cancellation and debt suspension coverage*—(1) *Voluntary credit insurance premiums.* Premiums for credit life, accident, health, or loss-of-income insurance may be excluded from the finance charge if the following conditions are met:
 
 (i) The insurance coverage is not required by the creditor, and this fact is disclosed in writing.
 
@@ -107,3 +111,5 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 (3) *Taxes on security instruments.* Any tax levied on security instruments or on documents evidencing indebtedness if the payment of such taxes is a requirement for recording the instrument securing the evidence of indebtedness.
 
 (f) *Prohibited offsets.* Interest, dividends, or other income received or to be received by the consumer on deposits or investments shall not be deducted in computing the finance charge.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]

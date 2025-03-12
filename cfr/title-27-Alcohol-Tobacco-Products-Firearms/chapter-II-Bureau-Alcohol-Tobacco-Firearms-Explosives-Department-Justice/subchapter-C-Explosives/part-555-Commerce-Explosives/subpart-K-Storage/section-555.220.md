@@ -1,5 +1,7 @@
 ##### § 555.220 Table of separation distances of ammonium nitrate and blasting agents from explosives or blasting agents. #####
 
+Link to an amendment published at 84 FR 12097, Apr. 1, 2019.
+
 Table: Department of Defense Ammunition and Explosives Standards, Table 5-4.1 Extract; 4145.27 M, March 1969
 
 |Donor weight (pounds)|Minimum separation distance of acceptor from donor when barricaded (ft.)|Minimum thickness of artificial barricades (in.)|              |   |

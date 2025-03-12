@@ -1,14 +1,12 @@
 ##### § 165.164 Security Zones; Dignitary Arrival/Departure and United Nations Meetings, New York, NY. #####
 
-Link to an amendment published at 84 FR 6974, Mar. 1, 2019.
-
 (a) *Location.* The following areas are security zones:
 
 (1) *Wall Street Heliport.* All waters of the East River within the following boundaries: East of a line drawn between approximate position 40°42′01″ N, 074°00′39″ W (east of The Battery) to 40°41′36″ N, 074°00′52″ W (point north of Governors Island) and north of a line drawn from the point north of Governors Island to the southwest corner of Pier 7 North, Brooklyn; and south of a line drawn between 40°42′14.8″ N, 074°00′20.3″ W (Wall Street, Manhattan), and the northwest corner of Pier 2 North, Brooklyn (NAD 1983).
 
 (2) *Randalls and Wards Islands:* All waters of the East River between the Hell Gate Rail Road Bridge (mile 8.2), and a line drawn from a point at approximate position 40°47′27.12″ N, 073°54′35.14″ W (Lawrence Point, Queens) to a point at approximate position 40°47′52.55″ N, 073°54′35.25″ W (Port Morris Stacks), and all waters of the Bronx Kill southeast of the Bronx Kill Rail Road Bridge (mile 0.6) (NAD 1983).
 
-(3) *Marine Air Terminal, LaGuardia Airport Security Zone:* All waters of Bowery Bay, Queens, New York, south of a line drawn from the western end of LaGuardia Airport at approximate position 40°46′47″ N, 073°53′05″ W to the Rikers Island Bridge at approximate position 40°46′51″ N, 073°53′21″ W and east of a line drawn between the point at the Rikers Island Bridge to a point on the shore in Queens, New York, at approximate position 40°46′36″ N, 073°53′31″ W (NAD 1983).
+(3) *Marine Air Terminal, LaGuardia Airport Security Zone.* All waters of Bowery Bay, Queens, New York, inside of a line drawn from the start of the Rikers Island Bridge in Queens at approximate position 40°46′37″ N, 073°53′30″ W to the intersecting point on the southern side of Rikers Island at approximate position 40°47′12″ N, 073°53′06″ W, then a line drawn east to the western end of LaGuardia Airport at approximate position 40°47′00″ N, 073°52′44″ W, then a line drawn south following the shoreline back to the point of origin at 40°46′37″ N, 073°53′30″ W (NAD 1983).
 
 (4) *United Nations Manhattan Shoreline.* All waters of the East River bound by the following points: 40°44′37″ N, 073°58′16.5″ W (the base of East 35th Street, Manhattan), then east to 40°44′34.5″ N, 073°58′10.5″ W (about 180 yards offshore of Manhattan), then northeasterly to 40°45′29″ N, 073°57′26.5″ W (about 125 yards offshore of Manhattan at the Queensboro Bridge), then northwesterly to 40°45′31″ N, 073°57′30.5″ W (Manhattan shoreline at the Queensboro Bridge), then southerly along the shoreline to the starting point at 40°44′37″ N, 073°58′16.5″ W (NAD 1983).
 
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 6974, Mar. 1, 2019.
 
 (b) *Definitions.*
 
-As used in this section -
+As used in this section—
 
 *Designated representative* means any Coast Guard commissioned, warrant, or petty officer who has been designated by the COTP to act on the COTP's behalf. A designated representative may be on a Coast Guard vessel, or onboard a federal, state, or local agency vessel that is authorized to act in support of the Coast Guard.
 
@@ -32,4 +30,4 @@ As used in this section -
 
 (f) *Contact information.* Vessel operators desiring to enter or operate within a security zone shall telephone the COTP at 718-354-4356 or a designated representative via VHF channel 16 to obtain permission to do so.
 
-[USCG-2013-1009, 79 FR 78308, Dec. 30, 2014]
+[USCG-2013-1009, 79 FR 78308, Dec. 30, 2014, as amended by USCG-2017-1081, 84 FR 6974, Mar. 1, 2019]

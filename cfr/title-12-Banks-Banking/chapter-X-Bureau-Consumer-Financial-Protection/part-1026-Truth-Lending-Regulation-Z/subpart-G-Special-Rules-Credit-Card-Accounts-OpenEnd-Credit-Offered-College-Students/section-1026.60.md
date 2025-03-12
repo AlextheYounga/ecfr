@@ -1,7 +1,5 @@
 ##### § 1026.60 Credit and charge card applications and solicitations. #####
 
-Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 (a) *General rules.* The card issuer shall provide the disclosures required under this section on or with a solicitation or an application to open a credit or charge card account.
 
 (1) *Definition of solicitation.* For purposes of this section, the term *solicitation* means an offer by the card issuer to open a credit or charge card account that does not require the consumer to complete an application. A “firm offer of credit” as defined in section 603(l) of the Fair Credit Reporting Act (15 U.S.C. 1681a(l)) for a credit or charge card is a solicitation for purposes of this section.
@@ -32,7 +30,7 @@ Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was 
 
 (iii) Lines of credit accessed by check-guarantee cards or by debit cards that can be used only at automated teller machines;
 
-(iv) Lines of credit accessed solely by account numbers;
+(iv) Lines of credit accessed solely by account numbers except for a covered separate credit feature solely accessible by an account number that is a hybrid prepaid-credit card as defined in § 1026.61;
 
 (v) Additions of a credit or charge card to an existing open-end plan;
 
@@ -40,7 +38,7 @@ Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was 
 
 (vii) Consumer-initiated requests for applications.
 
-(b) *Required disclosures.* The card issuer shall disclose the items in this paragraph on or with an application or a solicitation in accordance with the requirements of paragraphs (c), (d), (e)(1) or (f) of this section. A credit card issuer shall disclose all applicable items in this paragraph except for paragraph (b)(7) of this section. A charge card issuer shall disclose the applicable items in paragraphs (b)(2), (4), (7) through (12), and (15) of this section.
+(b) *Required disclosures.* The card issuer shall disclose the items in this paragraph on or with an application or a solicitation in accordance with the requirements of paragraphs (c), (d), (e)(1), or (f) of this section. A credit card issuer shall disclose all applicable items in this paragraph except for paragraph (b)(7) of this section. A charge card issuer shall disclose the applicable items in paragraphs (b)(2), (4), (7) through (12), and (15) of this section. With respect to a covered separate credit feature that is a charge card account accessible by a hybrid prepaid-credit card as defined in § 1026.61, a charge card issuer also shall disclose the applicable items in paragraphs (b)(3), (13), and (14) of this section.
 
 (1) *Annual percentage rate.* Each periodic rate that may be used to compute the finance charge on an outstanding balance for purchases, a cash advance, or a balance transfer, expressed as an annual percentage rate (as determined by § 1026.14(b)). When more than one rate applies for a category of transactions, the range of balances to which each rate is applicable shall also be disclosed. The annual percentage rate for purchases disclosed pursuant to this paragraph shall be in at least 16-point type, except for the following: Oral disclosures of the annual percentage rate for purchases; or a penalty rate that may apply upon the occurrence of one or more specific events.
 
@@ -50,7 +48,7 @@ Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was 
 
 (iii) *Premium initial rate.* If the initial rate is temporary and is higher than the rate that will apply after the temporary rate expires, the card issuer must disclose the premium initial rate pursuant to paragraph (b)(1) of this section and the time period during which the premium initial rate will remain in effect. Consistent with paragraph (b)(1) of this section, the premium initial rate for purchases must be in at least 16-point type. The issuer must also disclose in the table the rate that will apply after the premium initial rate expires, in at least 16-point type.
 
-(iv) *Penalty rates* - (A) *In general.* Except as provided in paragraph (b)(1)(iv)(B) and (C) of this section, if a rate may increase as a penalty for one or more events specified in the account agreement, such as a late payment or an extension of credit that exceeds the credit limit, the card issuer must disclose pursuant to this paragraph (b)(1) the increased rate that may apply, a brief description of the event or events that may result in the increased rate, and a brief description of how long the increased rate will remain in effect.
+(iv) *Penalty rates*—(A) *In general.* Except as provided in paragraph (b)(1)(iv)(B) and (C) of this section, if a rate may increase as a penalty for one or more events specified in the account agreement, such as a late payment or an extension of credit that exceeds the credit limit, the card issuer must disclose pursuant to this paragraph (b)(1) the increased rate that may apply, a brief description of the event or events that may result in the increased rate, and a brief description of how long the increased rate will remain in effect.
 
 (B) *Introductory rates.* If the issuer discloses an introductory rate, as that term is defined in § 1026.16(g)(2)(ii), in the table or in any written or electronic promotional materials accompanying applications or solicitations subject to paragraph (c) or (e) of this section, the issuer must briefly disclose directly beneath the table the circumstances, if any, under which the introductory rate may be revoked, and the type of rate that will apply after the introductory rate is revoked.
 
@@ -92,13 +90,13 @@ Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was 
 
 (15) *Web site reference.* A reference to the Web site established by the Bureau and a statement that consumers may obtain on the Web site information about shopping for and using credit cards. Until January 1, 2013, issuers may substitute for this reference a reference to the Web site established by the Board of Governors of the Federal Reserve System.
 
-(c) *Direct mail and electronic applications and solicitations* - (1) *General.* The card issuer shall disclose the applicable items in paragraph (b) of this section on or with an application or solicitation that is mailed to consumers or provided to consumers in electronic form.
+(c) *Direct mail and electronic applications and solicitations*—(1) *General.* The card issuer shall disclose the applicable items in paragraph (b) of this section on or with an application or solicitation that is mailed to consumers or provided to consumers in electronic form.
 
 (2) *Accuracy.* (i) Disclosures in direct mail applications and solicitations must be accurate as of the time the disclosures are mailed. An accurate variable annual percentage rate is one in effect within 60 days before mailing.
 
 (ii) Disclosures provided in electronic form must be accurate as of the time they are sent, in the case of disclosures sent to a consumer's email address, or as of the time they are viewed by the public, in the case of disclosures made available at a location such as a card issuer's Web site. An accurate variable annual percentage rate provided in electronic form is one in effect within 30 days before it is sent to a consumer's email address, or viewed by the public, as applicable.
 
-(d) *Telephone applications and solicitations* - (1) *Oral disclosure.* The card issuer shall disclose orally the information in paragraphs (b)(1) through (7) and (b)(14) of this section, to the extent applicable, in a telephone application or solicitation initiated by the card issuer.
+(d) *Telephone applications and solicitations*—(1) *Oral disclosure.* The card issuer shall disclose orally the information in paragraphs (b)(1) through (7) and (b)(14) of this section, to the extent applicable, in a telephone application or solicitation initiated by the card issuer.
 
 (2) *Alternative disclosure.* The oral disclosure under paragraph (d)(1) of this section need not be given if the card issuer either:
 
@@ -153,3 +151,5 @@ Link to an amendment published at 81 FR 84370, Nov. 22, 2016.This amendment was 
 (3) *Previous balance.* This balance is the outstanding balance at the beginning of the billing cycle.
 
 (4) *Daily balance.* For each day in the billing cycle, this balance is figured by taking the beginning balance each day, adding any new purchases, and subtracting any payment and credits.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84370, Nov. 22, 2016]

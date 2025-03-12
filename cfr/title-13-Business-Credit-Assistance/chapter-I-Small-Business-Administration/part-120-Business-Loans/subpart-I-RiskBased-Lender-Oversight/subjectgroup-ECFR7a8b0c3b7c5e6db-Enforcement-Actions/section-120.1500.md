@@ -24,7 +24,7 @@ Upon a determination that the grounds set forth in § 120.1400 exist, SBA may un
 
 (3) *Initiate request for appointment of receiver and/or other relief.* The SBA may make application to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of an SBA Supervised Lender, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate, and/or liquidate the SBA Supervised Lender; and to such injunctive or other equitable relief as may be appropriate. Without limiting the foregoing and with SBA's written consent, the receiver may take possession of the portfolio of 7(a) loans and sell such loans to a third party, and/or take possession of servicing activities of 7(a) loans and sell such servicing rights to a third party.
 
-(4) *Civil monetary penalties for report filing failure.* SBA may seek civil penalties, in accordance with § 120.465, of not more than $5,000 a day against an SBA Supervised Lender that fails to file any regular or special report by its due date as specified by regulation or SBA written directive.
+(4) *Civil monetary penalties for report filing failure.* SBA may seek civil penalties, in accordance with § 120.465, against an SBA Supervised Lender that fails to file any regular or special report by its due date as specified by regulation or SBA written directive.
 
 (d) *Enforcement actions specific to SBLCs.* In addition to those supervisory actions listed in paragraphs (a), (b), and (c) of this section, SBA may take the following enforcement actions specific to SBLCs.
 
@@ -50,4 +50,4 @@ Upon a determination that the grounds set forth in § 120.1400 exist, SBA may un
 
 (3) Apply to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of the CDC, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate and/or liquidate the CDC; and to such injunctive or other equitable relief as may be appropriate. Without limiting the foregoing and with SBA's consent, the receiver may take possession of the portfolio of 504 loans and/or pending 504 loan applications, including for the purpose of carrying out an enforcement order under paragraph (e)(1) of this section.
 
-[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39506, Aug. 21, 2017]
+[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39506, Aug. 21, 2017; 84 FR 12061, Apr. 1, 2019]

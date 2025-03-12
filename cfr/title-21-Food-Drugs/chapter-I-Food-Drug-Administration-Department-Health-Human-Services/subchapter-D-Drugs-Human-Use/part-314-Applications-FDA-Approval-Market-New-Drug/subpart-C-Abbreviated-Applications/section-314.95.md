@@ -1,12 +1,10 @@
 ##### § 314.95 Notice of certification of invalidity, unenforceability, or noninfringement of a patent. #####
 
-Link to an amendment published at 84 FR 6673, February 28, 2019.
-
 (a) *Notice of certification.* For each patent that claims the listed drug or that claims a use for such listed drug for which the applicant is seeking approval and for which the applicant submits a paragraph IV certification, the applicant must send notice of such certification by registered or certified mail, return receipt requested, or by a designated delivery service, as defined in paragraph (g) of this section to each of the following persons:
 
 (1) Each owner of the patent that is the subject of the certification or the representative designated by the owner to receive the notice. The name and address of the patent owner or its representative may be obtained from the U.S. Patent and Trademark Office; and
 
-(2) The holder of the approved NDA under section 505(b) of the Federal Food, Drug, and Cosmetic Act for the listed drug that is claimed by the patent and for which the applicant is seeking approval, or, if the NDA holder does not reside or maintain a place of business within the United States, the NDA holder's attorney, agent, or other authorized official. The name and address of the NDA holder or its attorney, agent, or authorized official may be obtained by sending a written or electronic communication to the Orange Book Staff, Office of Generic Drugs, 7620 Standish Pl., Rockville, MD 20855 or to the Orange Book Staff at the email address listed on the Agency's Web site at *http://www.fda.gov*.
+(2) The holder of the approved NDA under section 505(b) of the Federal Food, Drug, and Cosmetic Act for the listed drug that is claimed by the patent and for which the applicant is seeking approval, or, if the NDA holder does not reside or maintain a place of business within the United States, the NDA holder's attorney, agent, or other authorized official. The name and address of the NDA holder or its attorney, agent, or authorized official may be obtained by sending a written or electronic communication to the Central Document Room, Attn: Orange Book Staff, Center for Drug Evaluation and Research, Food and Drug Administration, 5901-B Ammendale Rd., Beltsville, MD 20705-1266 or to the Orange Book Staff at the email address listed on the Agency's Web site at *http://www.fda.gov*.
 
 (3) This paragraph (a) does not apply to a method-of-use patent that does not claim a use for which the applicant is seeking approval.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 84 FR 6673, February 28, 2019.
 
 (2) FDA may periodically issue guidance regarding designated delivery services.
 
-[81 FR 69651, Oct. 6, 2016]
+[81 FR 69651, Oct. 6, 2016, as amended at 84 FR 6673, Feb. 28, 2019]

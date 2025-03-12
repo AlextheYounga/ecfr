@@ -1,7 +1,5 @@
 ##### § 402.3 Interpretation. #####
 
-Link to an amendment published at 84 FR 8985, Mar. 13, 2019.
-
 In this tariff,
 
 *Bulk cargo* means cargo consisting of goods, loose or in mass, that generally must be shoveled, pumped, blown, scooped or forked in the handling and includes:
@@ -46,7 +44,9 @@ In this tariff,
 
 *Corporation* means the Saint Lawrence Seaway Development Corporation.
 
-*Domestic cargo* means cargo the shipment of which originates at one Canadian point and terminates at another Canadian point, or originates at one United States point and terminates at another United States point, but does not include import or export cargo designated at the point of origin for transshipment by water at a point in Canada or in the United States.
+*Domestic cargo* means cargo, the shipment of which originates at one Canadian point and terminates at another Canadian point, or originates at one United States point and terminates at another United States point or originates at one Canadian or United States point in the Great Lakes Saint Lawrence Seaway System and terminates at another Canadian or United States point in the Great Lakes Saint Lawrence Seaway System but does not include import or export cargo designated at the point of origin for transshipment by water at a point in Canada or in the United States.
+
+*Duration* means the number of years negotiated between the Manager and a shipper for the application of a toll reduction under the Gateway Incentive.
 
 *Gateway incentive* means a percentage reduction, as part of an incentive program, negotiated and offered on applicable cargo tolls for shipments of a specific commodity diverted to the Seaway from a competing gateway.
 
@@ -118,4 +118,4 @@ In this tariff,
 
 *Volume rebate* means a percentage reduction, as part of an initiative program, offered on applicable cargo tolls for shipments of a specific commodity above and beyond a pre-approved historical maximum volume.
 
-[66 FR 15329, Mar. 16, 2001, as amended at 71 FR 14807, Mar. 24, 2006; 72 FR 4431, Jan. 31, 2007; 74 FR 10678, Mar. 12, 2009; 78 FR 19106, Mar. 29, 2013; 79 FR 13252, Mar. 10, 2014; 81 FR 14391, Mar. 17, 2016]
+[66 FR 15329, Mar. 16, 2001, as amended at 71 FR 14807, Mar. 24, 2006; 72 FR 4431, Jan. 31, 2007; 74 FR 10678, Mar. 12, 2009; 78 FR 19106, Mar. 29, 2013; 79 FR 13252, Mar. 10, 2014; 81 FR 14391, Mar. 17, 2016; 84 FR 8985, Mar. 13, 2019]

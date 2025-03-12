@@ -1,7 +1,5 @@
 ##### § 1026.7 Periodic statement. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 The creditor shall furnish the consumer with a periodic statement that discloses the following items, to the extent applicable:
 
 (a) *Rules affecting home-equity plans.* The requirements of paragraph (a) of this section apply only to home-equity plans subject to the requirements of § 1026.40. Alternatively, a creditor subject to this paragraph may, at its option, comply with any of the requirements of paragraph (b) of this section; however, any creditor that chooses not to provide a disclosure under paragraph (a)(7) of this section must comply with paragraph (b)(6) of this section.
@@ -68,11 +66,11 @@ The creditor shall furnish the consumer with a periodic statement that discloses
 
 (ii) *Exception.* The requirements of paragraph (b)(11)(i) of this section do not apply to the following:
 
-(A) Periodic statements provided solely for charge card accounts; and
+(A) Periodic statements provided solely for charge card accounts, other than covered separate credit features that are charge card accounts accessible by hybrid prepaid-credit cards as defined in § 1026.61; and
 
 (B) Periodic statements provided for a charged-off account where payment of the entire account balance is due immediately.
 
-(12) *Repayment disclosures* - (i) *In general.* Except as provided in paragraphs (b)(12)(ii) and (b)(12)(v) of this section, for a credit card account under an open-end (not home-secured) consumer credit plan, a card issuer must provide the following disclosures on each periodic statement:
+(12) *Repayment disclosures*—(i) *In general.* Except as provided in paragraphs (b)(12)(ii) and (b)(12)(v) of this section, for a credit card account under an open-end (not home-secured) consumer credit plan, a card issuer must provide the following disclosures on each periodic statement:
 
 (A) The following statement with a bold heading: “Minimum Payment Warning: If you make only the minimum payment each period, you will pay more in interest and it will take you longer to pay off your balance;”
 
@@ -116,7 +114,7 @@ The creditor shall furnish the consumer with a periodic statement that discloses
 
 (iii) *Format requirements.* A card issuer must provide the disclosures required by paragraph (b)(12)(i) or (b)(12)(ii) of this section in accordance with the format requirements of paragraph (b)(13) of this section, and in a format substantially similar to Samples G-18(C)(1), G-18(C)(2) and G-18(C)(3) in appendix G to this part, as applicable.
 
-(iv) *Provision of information about credit counseling services* - (A) *Required information.* To the extent available from the United States Trustee or a bankruptcy administrator, a card issuer must provide through the toll-free telephone number disclosed pursuant to paragraphs (b)(12)(i) or (b)(12)(ii) of this section the name, street address, telephone number, and Web site address for at least three organizations that have been approved by the United States Trustee or a bankruptcy administrator pursuant to 11 U.S.C. 111(a)(1) to provide credit counseling services in, at the card issuer's option, either the state in which the billing address for the account is located or the state specified by the consumer.
+(iv) *Provision of information about credit counseling services*—(A) *Required information.* To the extent available from the United States Trustee or a bankruptcy administrator, a card issuer must provide through the toll-free telephone number disclosed pursuant to paragraphs (b)(12)(i) or (b)(12)(ii) of this section the name, street address, telephone number, and Web site address for at least three organizations that have been approved by the United States Trustee or a bankruptcy administrator pursuant to 11 U.S.C. 111(a)(1) to provide credit counseling services in, at the card issuer's option, either the state in which the billing address for the account is located or the state specified by the consumer.
 
 (B) *Updating required information.* At least annually, a card issuer must update the information provided pursuant to paragraph (b)(12)(iv)(A) of this section for consistency with the information available from the United States Trustee or a bankruptcy administrator.
 
@@ -131,3 +129,5 @@ The creditor shall furnish the consumer with a periodic statement that discloses
 (13) *Format requirements.* The due date required by paragraph (b)(11) of this section shall be disclosed on the front of the first page of the periodic statement. The amount of the late payment fee and the annual percentage rate(s) required by paragraph (b)(11) of this section shall be stated in close proximity to the due date. The ending balance required by paragraph (b)(10) of this section and the disclosures required by paragraph (b)(12) of this section shall be disclosed closely proximate to the minimum payment due. The due date, late payment fee and annual percentage rate, ending balance, minimum payment due, and disclosures required by paragraph (b)(12) of this section shall be grouped together. Sample G-18(D) in appendix G to this part sets forth an example of how these terms may be grouped.
 
 (14) *Deferred interest or similar transactions.* For accounts with an outstanding balance subject to a deferred interest or similar program, the date by which that outstanding balance must be paid in full in order to avoid the obligation to pay finance charges on such balance must be disclosed on the front of any page of each periodic statement issued during the deferred interest period beginning with the first periodic statement issued during the deferred interest period that reflects the deferred interest or similar transaction. The disclosure provided pursuant to this paragraph must be substantially similar to Sample G-18(H) in appendix G to this part.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]

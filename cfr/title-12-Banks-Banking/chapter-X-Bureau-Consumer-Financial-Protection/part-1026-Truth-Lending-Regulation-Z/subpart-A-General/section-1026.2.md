@@ -1,7 +1,5 @@
 ##### § 1026.2 Definitions and rules of construction. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 (a) *Definitions.* For purposes of this part, the following definitions apply:
 
 (1) *Act* means the Truth in Lending Act (15 U.S.C. 1601 *et seq.*).
@@ -34,15 +32,19 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 
 (14) *Credit* means the right to defer payment of debt or to incur debt and defer its payment.
 
-(15)(i) *Credit card* means any card, plate, or other single credit device that may be used from time to time to obtain credit.
+(15)(i) *Credit card* means any card, plate, or other single credit device that may be used from time to time to obtain credit. The term credit card includes a hybrid prepaid-credit card as defined in § 1026.61.
 
 (ii) *Credit card account under an open-end (not home-secured) consumer credit plan* means any open-end credit account that is accessed by a credit card, except:
 
-(A) A home-equity plan subject to the requirements of § 1026.40 that is accessed by a credit card; or
+(A) A home-equity plan subject to the requirements of § 1026.40 that is accessed by a credit card;
 
-(B) An overdraft line of credit that is accessed by a debit card or an account number.
+(B) An overdraft line of credit that is accessed by a debit card; or
+
+(C) An overdraft line of credit that is accessed by an account number, except if the account number is a hybrid prepaid-credit card that can access a covered separate credit feature as defined in § 1026.61.
 
 (iii) *Charge card* means a credit card on an account for which no periodic rate is used to compute a finance charge.
+
+(iv) *Debit card* means any card, plate, or other single device that may be used from time to time to access an asset account other than a prepaid account as defined in § 1026.61. The term *debit card* does not include a prepaid card as defined in § 1026.61.
 
 (16) *Credit sale* means a sale in which the seller is a creditor. The term includes a bailment or lease (unless terminable without penalty at any time by the consumer) under which the consumer:
 
@@ -110,4 +112,4 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 
 (4) Where the word *amount* is used in this part to describe disclosure requirements, it refers to a numerical amount.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80106, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80106, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016; 81 FR 84369, Nov. 22, 2016]

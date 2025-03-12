@@ -1,5 +1,7 @@
 ##### § 1.552 General provisions. #####
 
+Link to an amendment published at 84 FR 12125, Apr. 1, 2019.
+
 (a) *Additional information.* The following Internet link will provide access to VA's information that is electronically available under the FOIA: *http://www.foia.va.gov/.*
 
 (b) *Public Liaisons.* VA has made available FOIA Public Liaisons to assist in the resolution of disputes between the agency and the requester. Contact information for VA's FOIA Public Liaisons can be found on VA's FOIA home page. See § 1.552(a) for the pertinent Internet address.

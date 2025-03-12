@@ -1,0 +1,7 @@
+##### § 130.140 Equipment testing and exercise procedures. #####
+
+(a) *Testing.* The plan must include a description of the methods used to ensure that equipment testing meets the manufacturer's minimum recommendations or equivalent.
+
+(b) *Exercises.* A railroad must implement and describe an exercise program for COSRPs following the National Preparedness for Response Exercise Program (PREP) Guidelines, which can be found using the search function on the USCG's web page (*https://homeport.uscg.mil*). These guidelines are also available from the TASC DEPT Warehouse, 33141Q 75th Avenue, Landover, MD 20875 (fax: 301-386-5394, stock number USCG-X0241). As an alternative, a railroad choosing not to follow PREP Guidelines must have an exercise program that is equivalent to PREP. The plan must include a description of the exercise procedures and programs the railroad uses to assess whether its response plan will function as planned, including the types of exercises and their frequencies.
+
+(c) *Recordkeeping.* Railroads must keep records showing the exercise dates and times, and the after action reports that accompany the response plan exercises. Railroads must provide copies of these records to Department of Transportation representatives upon request.

@@ -1,16 +1,16 @@
 ##### § 1005.17 Requirements for overdraft services. #####
 
-Link to an amendment published at 81 FR 84328, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 (a) *Definition.* For purposes of this section, the term “overdraft service” means a service under which a financial institution assesses a fee or charge on a consumer's account held by the institution for paying a transaction (including a check or other item) when the consumer has insufficient or unavailable funds in the account. The term “overdraft service” does not include any payment of overdrafts pursuant to:
 
 (1) A line of credit subject to Regulation Z (12 CFR part 1026), including transfers from a credit card account, home equity line of credit, or overdraft line of credit;
 
-(2) A service that transfers funds from another account held individually or jointly by a consumer, such as a savings account; or
+(2) A service that transfers funds from another account held individually or jointly by a consumer, such as a savings account;
 
-(3) A line of credit or other transaction exempt from Regulation Z (12 CFR part 1026) pursuant to 12 CFR 1026.3(d).
+(3) A line of credit or other transaction exempt from Regulation Z (12 CFR part 1026) pursuant to 12 CFR 1026.3(d); or
 
-(b) *Opt-in requirement* - (1) *General.* Except as provided under paragraph (c) of this section, a financial institution holding a consumer's account shall not assess a fee or charge on a consumer's account for paying an ATM or one-time debit card transaction pursuant to the institution's overdraft service, unless the institution:
+(4) A covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61; or credit extended through a negative balance on the asset feature of the prepaid account that meets the conditions of 12 CFR 1026.61(a)(4).
+
+(b) *Opt-in requirement*—(1) *General.* Except as provided under paragraph (c) of this section, a financial institution holding a consumer's account shall not assess a fee or charge on a consumer's account for paying an ATM or one-time debit card transaction pursuant to the institution's overdraft service, unless the institution:
 
 (i) Provides the consumer with a notice in writing, or if the consumer agrees, electronically, segregated from all other information, describing the institution's overdraft service;
 
@@ -28,7 +28,7 @@ Link to an amendment published at 81 FR 84328, Nov. 22, 2016.This amendment was 
 
 (3) *Same account terms, conditions, and features.* A financial institution shall provide to consumers who do not affirmatively consent to the institution's overdraft service for ATM and one-time debit card transactions the same account terms, conditions, and features that it provides to consumers who affirmatively consent, except for the overdraft service for ATM and one-time debit card transactions.
 
-(c) *Timing* - (1) *Existing account holders.* For accounts opened prior to July 1, 2010, the financial institution must not assess any fees or charges on a consumer's account on or after August 15, 2010, for paying an ATM or one-time debit card transaction pursuant to the overdraft service, unless the institution has complied with § 1005.17(b)(1) and obtained the consumer's affirmative consent.
+(c) *Timing*—(1) *Existing account holders.* For accounts opened prior to July 1, 2010, the financial institution must not assess any fees or charges on a consumer's account on or after August 15, 2010, for paying an ATM or one-time debit card transaction pursuant to the overdraft service, unless the institution has complied with § 1005.17(b)(1) and obtained the consumer's affirmative consent.
 
 (2) *New account holders.* For accounts opened on or after July 1, 2010, the financial institution must comply with § 1005.17(b)(1) and obtain the consumer's affirmative consent before the institution assesses any fee or charge on the consumer's account for paying an ATM or one-time debit card transaction pursuant to the institution's overdraft service.
 
@@ -51,3 +51,5 @@ Link to an amendment published at 81 FR 84328, Nov. 22, 2016.This amendment was 
 (f) *Continuing right to opt in or to revoke the opt-in.* A consumer may affirmatively consent to the financial institution's overdraft service at any time in the manner described in the notice required by paragraph (b)(1)(i) of this section. A consumer may also revoke consent at any time in the manner made available to the consumer for providing consent. A financial institution must implement a consumer's revocation of consent as soon as reasonably practicable.
 
 (g) *Duration and revocation of opt-in.* A consumer's affirmative consent to the institution's overdraft service is effective until revoked by the consumer, or unless the financial institution terminates the service.
+
+[76 FR 81023, Dec. 27, 2011, as amended at 81 FR 84328, Nov. 22, 2016]

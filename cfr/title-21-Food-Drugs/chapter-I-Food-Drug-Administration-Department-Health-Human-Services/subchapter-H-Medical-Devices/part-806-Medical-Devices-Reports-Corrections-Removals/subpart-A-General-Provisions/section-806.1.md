@@ -6,10 +6,10 @@
 
 (1) Actions taken by device manufacturers or importers to improve the performance or quality of a device but that do not reduce a risk to health posed by the device or remedy a violation of the act caused by the device.
 
-(2) Market withdrawals as defined in § 806.2(h).
+(2) Market withdrawal as defined in § 806.2(i)
 
-(3) Routine servicing as defined in § 806.2(k).
+(3) Routine servicing as defined in § 806.2(l).
 
-(4) Stock recoveries as defined in § 806.2(l).
+(4) Stock recovery as defined in § 806.2(m).
 
-[62 FR 27191, May 19, 1997, as amended at 63 FR 42232, Aug. 7, 1998]
+[62 FR 27191, May 19, 1997, as amended at 63 FR 42232, Aug. 7, 1998; 84 FR 12083, Apr. 1, 2019]

@@ -1,5 +1,7 @@
 ##### § 1.556 Timing of responses to requests. #####
 
+Link to an amendment published at 84 FR 12126, Apr. 1, 2019.
+
 (a) *General.* Components ordinarily shall respond to requests according to their order of receipt and within the time frames established under the FOIA. If a request for expedited processing is granted in accordance with paragraph (d) of this section, such request will be processed prior to requests in either of the tracks described in paragraph (b) of this section.
 
 (b) *Multitrack processing.* (1) VA will use two processing tracks in addressing a request for records: Simple and complex, based upon the amount of work and/or time needed to process the request, including consideration of the number of pages involved.

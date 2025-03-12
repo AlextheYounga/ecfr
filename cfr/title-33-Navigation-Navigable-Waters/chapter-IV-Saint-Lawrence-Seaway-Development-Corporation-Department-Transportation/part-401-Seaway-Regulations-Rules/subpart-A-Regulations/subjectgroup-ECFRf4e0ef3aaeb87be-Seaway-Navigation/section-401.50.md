@@ -1,7 +1,5 @@
 ##### § 401.50 Anchorage areas. #####
 
-Link to an amendment published at 84 FR 8984, Mar. 13, 2019.
-
 Except in an emergency, or unless authorized to do so by the traffic controller, no vessel shall drop anchor in any part of the Seaway except in the following designated anchorage areas:
 
 (a) Point Fortier (Lake St. Louis).
@@ -12,10 +10,12 @@ Except in an emergency, or unless authorized to do so by the traffic controller,
 
 (d) Wilson Hill Island and Morrisburg (Lake St. Lawrence).
 
-(e) Prescott and Union Park (St. Lawrence River).
+(e) Prescott, Union Park and Carleton Island (St. Lawrence River).
 
-(f) Off Port Weller (Lake Ontario).
+(f) Off Tibbetts point (Lake Ontario).
 
-(g) Off Port Colborne (Lake Erie).
+(g) Off Port Weller (Lake Ontario).
 
-[39 FR 10900, Mar. 22, 1974, as amended at 40 FR 25813, June 19, 1975; 73 FR 9954, Feb. 25, 2008]
+(h) Off Port Colborne (Lake Erie).
+
+[39 FR 10900, Mar. 22, 1974, as amended at 40 FR 25813, June 19, 1975; 73 FR 9954, Feb. 25, 2008; 84 FR 8984, Mar. 13, 2019]

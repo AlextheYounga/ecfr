@@ -1,0 +1,3 @@
+##### § 130.155 Implementation of comprehensive oil spill response plans. #####
+
+If, during transportation of oil subject to this subpart, a discharge of oil occurs—into or on the navigable waters; on the adjoining shorelines to the navigable waters; or that may affect natural resources belonging to, appertaining to, or under the exclusive management authority of, the United States—the person transporting the oil must implement the plan required by § 130.100 in a manner consistent with the National Contingency Plan, 40 CFR part 300, or as otherwise directed by the Federal On-Scene Coordinator.

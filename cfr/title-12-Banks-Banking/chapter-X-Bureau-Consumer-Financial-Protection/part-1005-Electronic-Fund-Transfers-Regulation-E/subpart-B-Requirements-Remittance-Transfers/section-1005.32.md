@@ -1,14 +1,12 @@
 ##### § 1005.32 Estimates. #####
 
-Link to an amendment published at 81 FR 84338, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 (a) *Temporary exception for insured institutions* - (1) *General.* For disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (vii), if:
 
 (i) A remittance transfer provider cannot determine the exact amounts for reasons beyond its control;
 
 (ii) A remittance transfer provider is an insured institution; and
 
-(iii) The remittance transfer is sent from the sender's account with the institution.
+(iii) The remittance transfer is sent from the sender's account with the institution; provided however, for the purposes of this paragraph, a sender's account does not include a prepaid account, unless the prepaid account is a payroll card account or a government benefit account.
 
 (2) *Sunset date.* Paragraph (a)(1) of this section expires on July 21, 2020.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 81 FR 84338, Nov. 22, 2016.This amendment was 
 
 (d) *Bases for estimates for transfers scheduled before the date of transfer.* Estimates provided pursuant to paragraph (b)(2) of this section must be based on the exchange rate or, where applicable, the estimated exchange rate based on an estimation methodology permitted under paragraph (c) of this section that the provider would have used or did use that day in providing disclosures to a sender requesting such a remittance transfer to be made on the same day. If, in accordance with this paragraph, a remittance transfer provider uses a basis described in paragraph (c) of this section but not listed in paragraph (c)(1) of this section, the provider is deemed to be in compliance with this paragraph regardless of the amount received by the designated recipient, so long as the estimation methodology is the same that the provider would have used or did use in providing disclosures to a sender requesting such a remittance transfer to be made on the same day.
 
-[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50283, Aug. 20, 2012; 78 FR 30704, May 22, 2013; 79 FR 55991, Sept. 18, 2014]
+[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50283, Aug. 20, 2012; 78 FR 30704, May 22, 2013; 79 FR 55991, Sept. 18, 2014; 81 FR 84338, Nov. 22, 2016]

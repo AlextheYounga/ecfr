@@ -1,5 +1,7 @@
 ##### § 1.557 Responses to requests. #####
 
+Link to an amendment published at 84 FR 12127, Apr. 1, 2019.
+
 (a) *Acknowledgement of requests.* When a request for records is received by a component designated to receive requests, the component's FOIA Officer will assign a request number for future reference and send the requester a written acknowledgement of receipt.
 
 (b) *Processing of requests.* Upon receipt of a perfected request by the appropriate component, the FOIA Officer will make a reasonable effort to search for records responsive to the request. The FOIA Officer ordinarily will include as responsive those records in its possession and control as of the date the search for responsive records began. This includes searching for records in electronic form or format, unless to do so would interfere significantly with the agency's automated information systems. If fees for processing the request are due under § 1.561, the FOIA Officer shall inform the requester of the amount of the fee as provided in § 1.554(e) and § 1.561. When a request is granted in part, the FOIA Officer shall mark, redact, or annotate the records to be released to show the amount of information deleted and, where technically feasible, indicate the exemption at the place of redaction unless doing so would harm an interest protected by an applicable exemption. The FOIA Officer will provide the records in the form or format sought by the requester, if readily reproducible in that form or format.

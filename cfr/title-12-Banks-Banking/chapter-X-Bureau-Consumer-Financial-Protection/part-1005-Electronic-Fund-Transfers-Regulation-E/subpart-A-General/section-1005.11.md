@@ -1,8 +1,6 @@
 ##### § 1005.11 Procedures for resolving errors. #####
 
-Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.Link to an amendment published at 83 FR 6417, Feb. 13, 2018.
-
-(a) *Definition of error* - (1) *Types of transfers or inquiries covered.* The term “error” means:
+(a) *Definition of error*—(1) *Types of transfers or inquiries covered.* The term “error” means:
 
 (i) An unauthorized electronic fund transfer;
 
@@ -26,7 +24,7 @@ Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was 
 
 (iii) A request for duplicate copies of documentation.
 
-(b) *Notice of error from consumer* - (1) *Timing; contents.* A financial institution shall comply with the requirements of this section with respect to any oral or written notice of error from the consumer that:
+(b) *Notice of error from consumer*—(1) *Timing; contents.* A financial institution shall comply with the requirements of this section with respect to any oral or written notice of error from the consumer that:
 
 (i) Is received by the institution no later than 60 days after the institution sends the periodic statement or provides the passbook documentation, required by § 1005.9, on which the alleged error is first reflected;
 
@@ -38,7 +36,7 @@ Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was 
 
 (3) *Request for documentation or clarifications.* When a notice of error is based on documentation or clarification that the consumer requested under paragraph (a)(1)(vii) of this section, the consumer's notice of error is timely if received by the financial institution no later than 60 days after the institution sends the information requested.
 
-(c) *Time limits and extent of investigation* - (1) *Ten-day period.* A financial institution shall investigate promptly and, except as otherwise provided in this paragraph (c), shall determine whether an error occurred within 10 business days of receiving a notice of error. The institution shall report the results to the consumer within three business days after completing its investigation. The institution shall correct the error within one business day after determining that an error occurred.
+(c) *Time limits and extent of investigation*—(1) *Ten-day period.* A financial institution shall investigate promptly and, except as otherwise provided in this paragraph (c), shall determine whether an error occurred within 10 business days of receiving a notice of error. The institution shall report the results to the consumer within three business days after completing its investigation. The institution shall correct the error within one business day after determining that an error occurred.
 
 (2) *Forty-five day period.* If the financial institution is unable to complete its investigation within 10 business days, the institution may take up to 45 days from receipt of a notice of error to investigate and determine whether an error occurred, provided the institution does the following:
 
@@ -46,7 +44,7 @@ Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was 
 
 (A) The institution requires but does not receive written confirmation within 10 business days of an oral notice of error; or
 
-(B) The alleged error involves an account that is subject to Regulation T of the Board of Governors of the Federal Reserve System (Securities Credit by Brokers and Dealers, 12 CFR part 220);
+(B) The alleged error involves an account that is subject to Regulation T of the Board of Governors of the Federal Reserve System (Securities Credit by Brokers and Dealers, 12 CFR part 220).
 
 (ii) Informs the consumer, within two business days after the provisional crediting, of the amount and date of the provisional crediting and gives the consumer full use of the funds during the investigation;
 
@@ -83,3 +81,5 @@ Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was 
 (ii) Notify the consumer that the institution will honor checks, drafts, or similar instruments payable to third parties and preauthorized transfers from the consumer's account (without charge to the consumer as a result of an overdraft) for five business days after the notification. The institution shall honor items as specified in the notice, but need honor only items that it would have paid if the provisionally credited funds had not been debited.
 
 (e) *Reassertion of error.* A financial institution that has fully complied with the error resolution requirements has no further responsibilities under this section should the consumer later reassert the same error, except in the case of an error asserted by the consumer following receipt of information provided under paragraph (a)(1)(vii) of this section.
+
+[76 FR 81023, Dec. 27, 2011, as amended at 81 FR 84326, Nov. 22, 2016; 83 FR 6417, Feb. 13, 2018]

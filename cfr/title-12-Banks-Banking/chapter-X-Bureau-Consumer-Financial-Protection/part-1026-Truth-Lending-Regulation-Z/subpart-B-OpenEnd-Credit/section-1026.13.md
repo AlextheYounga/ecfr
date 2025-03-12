@@ -1,7 +1,5 @@
 ##### § 1026.13 Billing error resolution. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
-
 (a) *Definition of billing error.* For purposes of this section, the term billing error means:
 
 (1) A reflection on or with a periodic statement of an extension of credit that is not made to the consumer or to a person who has actual, implied, or apparent authority to use the consumer's credit card or open-end credit plan.
@@ -72,4 +70,10 @@ Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was 
 
 (h) *Reassertion of billing error.* A creditor that has fully complied with the requirements of this section has no further responsibilities under this section (other than as provided in paragraph (g)(4) of this section) if a consumer reasserts substantially the same billing error.
 
-(i) *Relation to Electronic Fund Transfer Act and Regulation E.* If an extension of credit is incident to an electronic fund transfer, under an agreement between a consumer and a financial institution to extend credit when the consumer's account is overdrawn or to maintain a specified minimum balance in the consumer's account, the creditor shall comply with the requirements of Regulation E, 12 CFR 1005.11 governing error resolution rather than those of paragraphs (a), (b), (c), (e), (f), and (h) of this section.
+(i) *Relation to Electronic Fund Transfer Act and Regulation E.* A creditor shall comply with the requirements of Regulation E, 12 CFR 1005.11, and 1005.18(e) as applicable, governing error resolution rather than those of paragraphs (a), (b), (c), (e), (f), and (h) of this section if:
+
+(1) Except with respect to a prepaid account as defined in § 1026.61, an extension of credit that is incident to an electronic fund transfer occurs under an agreement between the consumer and a financial institution to extend credit when the consumer's account is overdrawn or to maintain a specified minimum balance in the consumer's account; or
+
+(2) With regard to a covered separate credit feature and an asset feature of a prepaid account where both are accessible by a hybrid prepaid-credit card as defined in § 1026.61, an extension of credit that is incident to an electronic fund transfer occurs when the hybrid prepaid-credit card accesses both funds in the asset feature of the prepaid account and a credit extension from the credit feature with respect to a particular transaction.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]
