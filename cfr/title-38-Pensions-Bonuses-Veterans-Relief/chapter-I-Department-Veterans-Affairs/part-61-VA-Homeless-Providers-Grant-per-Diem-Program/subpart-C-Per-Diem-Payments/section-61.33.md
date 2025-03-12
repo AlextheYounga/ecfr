@@ -1,5 +1,7 @@
 ##### § 61.33 Payment of per diem. #####
 
+Link to an amendment published at 82 FR 51160, Nov. 3, 2017.
+
 (a) *General.* VA will pay per diem to the recipient for those homeless veterans:
 
 (1) Who VA referred to the recipient; or

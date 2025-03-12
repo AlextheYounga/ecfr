@@ -1,5 +1,7 @@
 ##### § 73.151 Field strength measurements to establish performance of directional antennas. #####
 
+Link to an amendment published at 82 FR 51165, Nov. 3, 2017.
+
 The performance of a directional antenna may be verified either by field strength measurement or by computer modeling and sampling system verification.
 
 (a) In addition to the information required by the license application form, the following showing must be submitted to establish, for each mode of directional operation, that the effective measured field strength (RMS) at 1 kilometer (km) is not less than 85 percent of the effective measured field strength (RMS) specified for the standard radiation pattern, or less than that specified in § 73.189(b) for the class of station involved, whichever is the higher value, and that the measured field strength at 1 km in any direction does not exceed the field shown in that direction on the standard radiation pattern for that mode of directional operation:

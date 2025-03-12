@@ -1,12 +1,10 @@
 ##### § 91.858 Special flight authorizations for non-revenue Stage 2 operations. #####
 
-Link to an amendment published at 82 FR 46132, Oct. 4, 2017.
-
 (a) After December 31, 1999, any operator of a Stage 2 airplane over 75,000 pounds may operate that airplane in nonrevenue service in the contiguous United States only for the following purposes:
 
 (1) Sell, lease, or scrap the airplane;
 
-(2) Obtain modifications to meet Stage 3 noise levels;
+(2) Obtain modifications to meet Stage 3, Stage 4, or Stage 5 noise levels.
 
 (3) Obtain scheduled heavy maintenance or significant modifications;
 
@@ -18,4 +16,4 @@ Link to an amendment published at 82 FR 46132, Oct. 4, 2017.
 
 (b) An operator of a Stage 2 airplane that needs to operate in the contiguous United States for any of the purposes listed above may apply to FAA's Office of Environment and Energy for a special flight authorization. The applicant must file in advance. Applications are due 30 days in advance of the planned flight and must provide the information necessary for the FAA to determine that the planned flight is within the limits prescribed in the law.
 
-[Doc. No. FAA-2002-12771, 67 FR 46571, July 15, 2002]
+[Doc. No. FAA-2002-12771, 67 FR 46571, July 15, 2002, as amended by Docket FAA-2015-3782, Amdt. 91-349, 82 FR 46132, Oct. 4, 2017]

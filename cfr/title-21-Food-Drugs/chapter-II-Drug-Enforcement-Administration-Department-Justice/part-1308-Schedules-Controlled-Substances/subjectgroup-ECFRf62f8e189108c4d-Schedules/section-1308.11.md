@@ -247,7 +247,7 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 |                                                                                                     (15) [Reserved]                                                                                                     |       |
 |                                                                                                     (16) [Reserved]                                                                                                     |       |
 |                                                                                                     (17) [Reserved]                                                                                                     |       |
-|                                                                                                     (18) [Reserved]                                                                                                     |       |
+|  (18) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: FUB-AMB, MMB-FUBINACA, AMB-FUBINACA) (7021)   |       |
 |           (19) N-(2-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)propionamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: ortho-fluorofentanyl, 2-fluorofentanyl)           |(9816) |
 |              (20) N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: tetrahydrofuranyl fentanyl)              |(9843) |
 |                     (21) 2-methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: methoxyacetyl fentanyl)                     |(9825) |
@@ -257,3 +257,5 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 2. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17) effective July 14, 2017, until July 15, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(17) as paragraph (h)(14).
 
 3. At 82 FR 49508, Oct. 26, 2017, § 1308.11 was amended by adding reserved paragraphs (h)(15) through (h)(18) and (h)(19), (20) and (21) effective Oct. 26, 2017 through Oct. 28, 2019.
+
+4. At 82 FR 51558, Nov. 3, 2017, § 1308.11 was amended by adding paragraph (h)(18), effective Nov. 3, 2017 through Nov. 4, 2019.

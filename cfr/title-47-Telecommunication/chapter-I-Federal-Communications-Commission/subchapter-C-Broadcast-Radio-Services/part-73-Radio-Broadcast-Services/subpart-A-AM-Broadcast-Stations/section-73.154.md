@@ -1,5 +1,7 @@
 ##### § 73.154 AM directional antenna partial proof of performance measurements. #####
 
+Link to an amendment published at 82 FR 51165, Nov. 3, 2017.
+
 (a) A partial proof of performance consists of at least 8 field strength measurements made on each of the radials that includes a monitoring point. If the directional pattern has fewer than 4 monitored radials, the partial proof shall include measurements on those radials from the latest complete proof of performance which are adjacent to the monitored radials.
 
 (b) The measurements are to be made within 3 to 15 kilometers from the center of the antenna array. When a monitoring point as designated on the station authorization lies on a particular radial, one of the measurements must be made at that point. One of the following methods shall be used for the partial proof:

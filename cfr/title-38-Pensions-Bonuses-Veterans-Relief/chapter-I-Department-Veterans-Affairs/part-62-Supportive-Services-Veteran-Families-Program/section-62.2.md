@@ -1,5 +1,7 @@
 ##### § 62.2 Definitions. #####
 
+Link to an amendment published at 82 FR 51160, Nov. 3, 2017.
+
 For purposes of this part and any Notice of Fund Availability issued under this part:
 
 *Applicant* means an eligible entity that submits an application for a supportive services grant announced in a Notice of Fund Availability.

@@ -1,7 +1,5 @@
 ##### § 91.851 Definitions. #####
 
-Link to an amendment published at 82 FR 46132, Oct. 4, 2017.
-
 For the purposes of §§ 91.851 through 91.877 of this subpart:
 
 *Chapter 4 noise level* means a noise level at or below the maximum noise level prescribed in Chapter 4, Paragraph 4.4, Maximum Noise Levels, of the International Civil Aviation Organization (ICAO) Annex 16, Volume I, Amendment 7, effective March 21, 2002. The Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 approved the incorporation by reference of this document, which can be obtained from the International Civil Aviation Organization (ICAO), Document Sales Unit, 999 University Street, Montreal, Quebec H3C 5H7, Canada. Also, you may obtain documents on the Internet at *http://www.ICAO.int/eshop/index.cfm.* Copies may be reviewed at the U.S. Department of Transportation, Docket Operations, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590 or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
@@ -30,4 +28,8 @@ For the purposes of §§ 91.851 through 91.877 of this subpart:
 
 *Stage 4 airplane* means an airplane that has been shown not to exceed the Stage 4 noise limit prescribed in part 36 of this chapter. A Stage 4 airplane complies with all of the noise operating rules of this part.
 
-[Doc. No. 26433, 56 FR 48658, Sept. 25, 1991, as amended by Amdt. 91-252, 61 FR 66185, Dec. 16, 1996; Amdt. 91-275, 67 FR 45237, July 8, 2002; Amdt. 91-288, 70 FR 38749, July 5, 2005; 72 FR 68475, Dec. 5, 2007]
+*Stage 5 airplane* means an airplane that has been shown not to exceed the Stage 5 noise limit prescribed in part 36 of this chapter. A Stage 5 airplane complies with all of the noise operating rules of this part.
+
+*Stage 5 noise level* means a noise level at or below the Stage 5 noise limit prescribed in part 36 of this chapter.
+
+[Doc. No. 26433, 56 FR 48658, Sept. 25, 1991, as amended by Amdt. 91-252, 61 FR 66185, Dec. 16, 1996; Amdt. 91-275, 67 FR 45237, July 8, 2002; Amdt. 91-288, 70 FR 38749, July 5, 2005; 72 FR 68475, Dec. 5, 2007; Docket FAA-2015-3782, Amdt. 91-349, 82 FR 46132, Oct. 4, 2017]

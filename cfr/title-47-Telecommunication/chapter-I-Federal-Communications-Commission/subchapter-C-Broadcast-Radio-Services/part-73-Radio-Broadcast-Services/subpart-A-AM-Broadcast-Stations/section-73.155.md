@@ -1,5 +1,7 @@
 ##### § 73.155 Periodic directional antenna performance recertification. #####
 
+Link to an amendment published at 82 FR 51165, Nov. 3, 2017.
+
 A station licensed with a directional antenna pattern pursuant to a proof of performance using moment method modeling and internal array parameters as described in § 73.151(c) shall recertify the performance of that directional antenna pattern at least once within every 24 month period.
 
 (a) Measurements shall be made to verify the continuing integrity of the antenna monitor sampling system.
