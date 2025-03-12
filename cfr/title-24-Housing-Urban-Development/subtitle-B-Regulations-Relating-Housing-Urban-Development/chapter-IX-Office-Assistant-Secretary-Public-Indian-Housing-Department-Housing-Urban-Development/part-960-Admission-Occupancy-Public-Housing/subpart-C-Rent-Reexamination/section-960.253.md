@@ -1,5 +1,7 @@
 ##### § 960.253 Choice of rent. #####
 
+Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
+
 (a) *Rent options* - (1) *Annual choice by family.* Once a year, the PHA must give each family the opportunity to choose between the two methods for determining the amount of tenant rent payable monthly by the family. The family may choose to pay as tenant rent either a flat rent as determined in accordance with paragraph (b) of this section, or an income-based rent as determined in accordance with paragraph (c) of this section. Except for financial hardship cases as provided in paragraph (d) of this section, the family may not be offered this choice more than once a year.
 
 (2) *Relation to minimum rent.* Regardless of whether the family chooses to pay a flat rent or income-based rent, the family must pay at least the minimum rent as determined in accordance with § 5.630 of this title.

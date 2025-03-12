@@ -1,5 +1,7 @@
 ##### § 93.2 Definitions. #####
 
+Link to an amendment published at 88 FR 9664, Feb. 14, 2023.
+
 *1937 Act* means the United States Housing Act of 1937 (42 U.S.C. 1437 *et seq.*).
 
 *Act* means the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended (12 U.S.C. 4501 *et seq*).

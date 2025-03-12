@@ -1,5 +1,7 @@
 ##### 19.307 Protesting a firm's status as a service-disabled veteran-owned small business concern. #####
 
+Link to an amendment published at 88 FR 9737, Feb. 14, 2023.
+
 (a) [Reserved]
 
 (b)(1) For sole source acquisitions, the contracting officer or SBA may protest the apparently successful offeror's service-disabled veteran-owned small business status. For all other acquisitions, any interested party may protest the apparently successful offeror's service-disabled veteran-owned small business status.

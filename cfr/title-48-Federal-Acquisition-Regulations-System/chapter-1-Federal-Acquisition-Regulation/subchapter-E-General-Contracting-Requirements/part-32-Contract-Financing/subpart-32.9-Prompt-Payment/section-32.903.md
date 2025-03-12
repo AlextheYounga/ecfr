@@ -1,5 +1,7 @@
 ##### 32.903 Responsibilities. #####
 
+Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
+
 (a) Agency heads -
 
 (1) Must establish the policies and procedures necessary to implement this subpart;

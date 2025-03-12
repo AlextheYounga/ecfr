@@ -1,5 +1,7 @@
 ##### § 5.609 Annual income. #####
 
+Link to an amendment published at 88 FR 9657, Feb. 14, 2023.
+
 (a) *Annual income* means all amounts, monetary or not, which:
 
 (1) Go to, or on behalf of, the family head or spouse (even if temporarily absent) or to any other family member; or

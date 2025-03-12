@@ -1,4 +1,6 @@
-##### § 960.255 Self-sufficiency incentives - Disallowance of increase in annual income. #####
+##### § 960.255 Self-sufficiency incentives—Disallowance of increase in annual income. #####
+
+Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (a) *Definitions.* The following definitions apply for purposes of this section.
 
@@ -14,9 +16,9 @@
 
 (ii) Whose annual income increases as a result of increased earnings by a family member during participation in any economic self-sufficiency or other job training program; or
 
-(iii) Whose annual income increases, as a result of new employment or increased earnings of a family member, during or within six months after receiving assistance, benefits or services under any state program for temporary assistance for needy families funded under Part A of Title IV of the Social Security Act, as determined by the PHA in consultation with the local agencies administering temporary assistance for needy families (TANF) and Welfare-to-Work (WTW) programs. The TANF program is not limited to monthly income maintenance, but also includes such benefits and services as one-time payments, wage subsidies and transportation assistance - provided that the total amount over a six-month period is at least $500.
+(iii) Whose annual income increases, as a result of new employment or increased earnings of a family member, during or within six months after receiving assistance, benefits or services under any state program for temporary assistance for needy families funded under Part A of Title IV of the Social Security Act, as determined by the PHA in consultation with the local agencies administering temporary assistance for needy families (TANF) and Welfare-to-Work (WTW) programs. The TANF program is not limited to monthly income maintenance, but also includes such benefits and services as one-time payments, wage subsidies and transportation assistance—provided that the total amount over a six-month period is at least $500.
 
-(b) *Disallowance of earned income* - (1) *Initial 12-month exclusion.* During the 12-month period beginning on the date on which a member of a qualified family is first employed or the family first experiences an increase in annual income attributable to employment, the PHA must exclude from the annual income (as defined in § 5.609 of this title) of a qualified family any increase in the income of the family member as a result of employment over the baseline income of that family member.
+(b) *Disallowance of earned income*—(1) *Initial 12-month exclusion.* During the 12-month period beginning on the date on which a member of a qualified family is first employed or the family first experiences an increase in annual income attributable to employment, the PHA must exclude from the annual income (as defined in § 5.609 of this title) of a qualified family any increase in the income of the family member as a result of employment over the baseline income of that family member.
 
 (2) *Phase-in of rent increase.* Upon the expiration of the 12-month period defined in paragraph (b)(1) of this section and for the subsequent 12-month period, the PHA must exclude from the annual income of a qualified family at least 50 percent of any increase in income of such family member as a result of employment over the family member's baseline income.
 

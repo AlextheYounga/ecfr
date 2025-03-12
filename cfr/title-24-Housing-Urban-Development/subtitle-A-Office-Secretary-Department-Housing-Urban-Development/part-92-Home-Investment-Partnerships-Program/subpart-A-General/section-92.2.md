@@ -1,5 +1,7 @@
 ##### § 92.2 Definitions. #####
 
+Link to an amendment published at 88 FR 9662, Feb. 14, 2023.
+
 The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA), Public housing,**Public Housing Agency (PHA),* and *Secretary* are defined in 24 CFR 5.100.
 
 *Act* means the HOME Investment Partnerships Act at title II of the Cranston-Gonzalez National Affordable Housing Act, as amended, 42 U.S.C. 12701 *et seq.*

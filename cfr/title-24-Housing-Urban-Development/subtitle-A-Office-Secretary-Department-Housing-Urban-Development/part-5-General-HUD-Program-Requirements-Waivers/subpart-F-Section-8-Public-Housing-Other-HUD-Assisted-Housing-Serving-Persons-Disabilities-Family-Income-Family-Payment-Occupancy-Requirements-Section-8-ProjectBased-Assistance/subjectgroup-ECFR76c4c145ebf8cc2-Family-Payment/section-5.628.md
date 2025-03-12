@@ -1,5 +1,7 @@
 ##### § 5.628 Total tenant payment. #####
 
+Link to an amendment published at 88 FR 9661, Feb. 14, 2023.
+
 (a) *Determining total tenant payment (TTP).* Total tenant payment is the highest of the following amounts, rounded to the nearest dollar:
 
 (1) 30 percent of the family's monthly adjusted income;

@@ -1,8 +1,10 @@
 ##### § 93.302 Qualification as affordable housing: rental housing. #####
 
+Link to an amendment published at 88 FR 9665, Feb. 14, 2023.
+
 (a) *Eligible tenants.* The HTF-assisted units in a rental housing project must be occupied by households who are eligible families in accordance with the income targeting requirements in § 93.250.
 
-(b) *Rent limitations* - (1)(i) *Extremely low-income tenants.* The HTF rent plus utilities of an extremely low-income tenant shall not exceed the greater of 30 percent of the federal poverty line or 30 percent of the income of a family whose annual income equals 30 percent of the median income for the area, as determined by HUD, with adjustments for the number of bedrooms in the unit. HUD will publish the HTF rent limits on an annual basis.
+(b) *Rent limitations*—(1)(i) *Extremely low-income tenants.* The HTF rent plus utilities of an extremely low-income tenant shall not exceed the greater of 30 percent of the federal poverty line or 30 percent of the income of a family whose annual income equals 30 percent of the median income for the area, as determined by HUD, with adjustments for the number of bedrooms in the unit. HUD will publish the HTF rent limits on an annual basis.
 
 (ii) *Very-low income tenants.* The HTF rent plus utilities of a very low-income tenant shall not exceed 30 percent of the income of a family whose annual income equals 50 percent of the median income for the area, as determined by HUD, with adjustments for the number of bedrooms in the unit. HUD will publish the HTF rent limits on an annual basis.
 

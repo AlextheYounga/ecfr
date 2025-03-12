@@ -1,5 +1,7 @@
 ##### 49.402-3 Procedure for default. #####
 
+Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
+
 (a) When a default termination is being considered, the Government shall decide which type of termination action to take (i.e., default, convenience, or no-cost cancellation) only after review by contracting and technical personnel, and by counsel, to ensure the propriety of the proposed action.
 
 (b) The administrative contracting officer shall not issue a show cause notice or cure notice without the prior approval of the contracting office, which should be obtained by the most expeditious means.

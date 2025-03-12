@@ -1,5 +1,7 @@
 ##### § 960.259 Family information and verification. #####
 
+Link to an amendment published at 88 FR 9671, Feb. 14, 2023.
+
 (a) *Family obligation to supply information.* (1) The family must supply any information that the PHA or HUD determines is necessary in administration of the public housing program, including submission of required evidence of citizenship or eligible immigration status (as provided by part 5, subpart E of this title). “Information” includes any requested certification, release or other documentation.
 
 (2) The family must supply any information requested by the PHA or HUD for use in a regularly scheduled reexamination or an interim reexamination of family income and composition in accordance with HUD requirements.

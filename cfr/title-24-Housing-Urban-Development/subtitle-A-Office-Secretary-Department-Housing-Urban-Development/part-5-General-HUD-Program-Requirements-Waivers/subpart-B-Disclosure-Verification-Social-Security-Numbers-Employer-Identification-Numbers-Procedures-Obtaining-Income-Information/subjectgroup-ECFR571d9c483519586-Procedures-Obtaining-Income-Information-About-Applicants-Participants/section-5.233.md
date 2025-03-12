@@ -1,5 +1,7 @@
 ##### § 5.233 Mandated use of HUD's Enterprise Income Verification (EIV) System. #####
 
+Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
+
 (a) *Programs subject to this section and requirements.* (1) The requirements of this section apply to entities administering assistance under the:
 
 (i) Public Housing program under 24 CFR part 960;

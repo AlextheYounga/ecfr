@@ -1,5 +1,7 @@
 ##### § 960.601 Definitions. #####
 
+Link to an amendment published at 88 FR 9675, Feb. 14, 2023.
+
 (a) *Definitions found elsewhere* - (1) *General definitions.* The following terms are defined in part 5, subpart A of this title: *public housing, public housing agency* (PHA).
 
 (2) *Definitions concerning income and rent.* The following terms are defined in part 5, subpart F of this title: *economic self-sufficiency program, work activities.*

@@ -1,5 +1,7 @@
 ##### § 891.105 Definitions. #####
 
+Link to an amendment published at 88 FR 9668, Feb. 14, 2023.
+
 The following definitions apply, as appropriate, throughout this part. Other terms with definitions unique to the particular program are defined in §§ 891.205, 891.305, 891.505, and 891.805, as applicable.
 
 *Acquisition with or without repair* means the purchase of existing housing and related facilities.

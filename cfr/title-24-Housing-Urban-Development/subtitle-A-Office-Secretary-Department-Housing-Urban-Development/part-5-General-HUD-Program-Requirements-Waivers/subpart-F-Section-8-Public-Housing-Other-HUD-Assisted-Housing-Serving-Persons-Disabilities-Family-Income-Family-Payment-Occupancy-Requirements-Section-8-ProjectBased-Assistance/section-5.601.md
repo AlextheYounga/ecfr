@@ -1,5 +1,7 @@
 ##### § 5.601 Purpose and applicability. #####
 
+Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
+
 This subpart states HUD requirements on the following subjects:
 
 (a) Determining annual and adjusted income of families who apply for or receive assistance in the Section 8 (tenant-based and project-based) and public housing programs;

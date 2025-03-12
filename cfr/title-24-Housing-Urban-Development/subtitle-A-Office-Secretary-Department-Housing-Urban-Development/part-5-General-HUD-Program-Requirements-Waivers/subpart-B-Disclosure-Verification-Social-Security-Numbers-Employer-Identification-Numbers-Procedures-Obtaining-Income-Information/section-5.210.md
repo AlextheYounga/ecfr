@@ -1,5 +1,7 @@
 ##### § 5.210 Purpose, applicability, and Federal preemption. #####
 
+Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
+
 (a) *Purpose.* This subpart B requires applicants for and participants in covered HUD programs to disclose, and submit documentation to verify, their Social Security Numbers (SSNs). This subpart B also enables HUD and PHAs to obtain income information about applicants and participants in the covered programs through computer matches with State Wage Information Collection Agencies (SWICAs) and Federal agencies, in order to verify an applicant's or participant's eligibility for or level of assistance. The purpose of this subpart B is to enable HUD to decrease the incidence of fraud, waste, and abuse in the covered programs.
 
 (b) *Applicability.* (1) This subpart B applies to mortgage and loan insurance and coinsurance and housing assistance programs contained in chapter II, subchapter B, and chapters VIII and IX of this title.

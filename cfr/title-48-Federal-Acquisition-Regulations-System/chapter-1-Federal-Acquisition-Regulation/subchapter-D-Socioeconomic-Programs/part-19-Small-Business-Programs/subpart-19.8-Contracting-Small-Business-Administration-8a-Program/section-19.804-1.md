@@ -1,5 +1,7 @@
 ##### 19.804-1 Agency evaluation. #####
 
+Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
+
 In determining the extent to which a requirement should be offered in support of the 8(a) program, the agency should evaluate -
 
 (a) Current and future plans to acquire the specific items or work that 8(a) participants are seeking to provide, identified in terms of -

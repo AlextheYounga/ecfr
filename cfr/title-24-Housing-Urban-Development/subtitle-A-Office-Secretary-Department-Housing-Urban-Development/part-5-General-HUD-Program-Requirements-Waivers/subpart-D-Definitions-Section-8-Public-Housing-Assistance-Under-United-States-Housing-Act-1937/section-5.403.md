@@ -1,5 +1,7 @@
 ##### § 5.403 Definitions. #####
 
+Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
+
 *Annual contributions contract* (ACC) means the written contract between HUD and a PHA under which HUD agrees to provide funding for a program under the 1937 Act, and the PHA agrees to comply with HUD requirements for the program.
 
 *Applicant* means a person or a family that has applied for housing assistance.

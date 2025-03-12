@@ -1,5 +1,7 @@
 ##### § 5.520 Proration of assistance. #####
 
+Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
+
 (a) *Applicability.* This section applies to a mixed family other than a family receiving continued assistance, or other than a family who is eligible for and requests and receives temporary deferral of termination of assistance. An eligible mixed family who requests prorated assistance must be provided prorated assistance.
 
 (b) *Method of prorating assistance for Housing covered programs* - (1) *Proration under Rent Supplement Program.* If the household participates in the Rent Supplement Program, the rent supplement paid on the household's behalf shall be the rent supplement the household would otherwise be entitled to, multiplied by a fraction, the denominator of which is the number of people in the household and the numerator of which is the number of eligible persons in the household;

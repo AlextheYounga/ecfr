@@ -1,5 +1,7 @@
 ##### 19.504 Orders under multiple-award contracts. #####
 
+Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
+
 (a) *General.* In accordance with section 1331 of the Small Business Jobs Act of 2010 (15 U.S.C. 644(r)(2)), contracting officers may, at their discretion, set aside orders placed under multiple-award contracts for any of the small business concerns identified in 19.000(a)(3).
 
 (1) The contracting officer shall state in the solicitation and resulting contract whether order set-asides will be discretionary or mandatory when the conditions in 19.502-2 are met at the time of order set-aside, and the specific program eligibility requirements, as applicable, are also then met.

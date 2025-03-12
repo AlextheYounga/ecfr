@@ -1,5 +1,7 @@
 ##### § 891.520 Definitions applicable to 202/8 projects. #####
 
+Link to an amendment published at 88 FR 9669, Feb. 14, 2023.
+
 The following definitions apply to projects for eligible families receiving assistance under section 8 of the United States Housing Act of 1937 in addition to reservations under section 202 of the Housing Act of 1959 (202/8 projects):
 
 *Adjusted income* as defined in part 5, subpart F of subtitle A of this title.

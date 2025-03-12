@@ -1,5 +1,7 @@
 ##### § 5.611 Adjusted income. #####
 
+Link to an amendment published at 88 FR 9659, Feb. 14, 2023.
+
 Adjusted income means annual income (as determined by the responsible entity, defined in § 5.100 and § 5.603) of the members of the family residing or intending to reside in the dwelling unit, after making the following deductions:
 
 (a) *Mandatory deductions.* In determining adjusted income, the responsible entity must deduct the following amounts from annual income:

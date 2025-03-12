@@ -1,5 +1,7 @@
 ##### § 92.203 Income determinations. #####
 
+Link to an amendment published at 88 FR 9662, Feb. 14, 2023.
+
 (a) The HOME program has income targeting requirements for the HOME program and for HOME projects. Therefore, the participating jurisdiction must determine each family is income eligible by determining the family's annual income.
 
 (1) For families who are tenants in HOME-assisted housing and not receiving HOME tenant-based rental assistance, the participating jurisdiction must initially determine annual income using the method in paragraph (a)(1)(i) of this section. For subsequent income determinations during the period of affordability, the participating jurisdiction may use any one of the following methods in accordance with § 92.252(h):

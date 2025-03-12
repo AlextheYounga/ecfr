@@ -1,12 +1,14 @@
 ##### § 882.808 Management. #####
 
+Link to an amendment published at 88 FR 9668, Feb. 14, 2023.
+
 (a) *Outreach to homeless individuals and appropriate organizations.* (1) The HA or the owner must undertake outreach efforts to homeless individuals so that they may be brought into the program. The outreach effort should include notification to emergency shelter providers and other organizations that could provide referrals of homeless individuals. If the owner conducts the outreach effort, the owner must notify the HA so that it may provide referrals of homeless individuals.
 
 (2) *Additional outreach concerns.* If the procedures that the HA or owner intends to use to publicize the availability of this program are unlikely to reach persons of any particular race, color, religion, sex, age, national origin, or mental or physical disability who may qualify for admission to the program, the HA or owner must establish additional procedures that will ensure that such persons are made aware of the availability of the program. The HA or owner must also adopt and implement procedures to ensure that interested persons can obtain information concerning the existence and location of services and facilities that are accessible to persons with disabilities.
 
 (3) *First priority for homeless individuals.* Homeless individuals must have the first priority for occupancy of housing rehabilitated under this program.
 
-(b) *Individual participation* - (1) *Initial determination of individual eligibility.* Section 882.514(a) applies to this program.
+(b) *Individual participation*—(1) *Initial determination of individual eligibility.* Section 882.514(a) applies to this program.
 
 (2) *Owner selection of individuals.* The owner must rent all vacant units under contract to homeless individuals located through HA or owner outreach efforts and determined by the HA to be eligible. The owner is responsible for tenant selection and may refuse any individual, provided the owner does not unlawfully discriminate. If the owner rejects an individual, and the individual believes that the owner's rejection was the result of unlawful discrimination, the individual may request the assistance of the HA in resolving the issue and may also file a complaint with HUD's Office of Fair Housing and Equal Opportunity in accordance with 24 CFR 103.25. If the individual requests the assistance of the HA, and if the HA cannot resolve the complaint promptly, the HA should advise the individual that he or she may file a complaint with HUD, and provide the individual with the address of the nearest HUD Office of Fair Housing and Equal Opportunity.
 
@@ -28,7 +30,7 @@
 
 (h) *Responsibility of the individual.* Section 882.413 applies to this program.
 
-(i) *Reexamination of individual income* - (1) *Regular reexaminations.* The HA must reexamine the income of all individuals at least once every 12 months. After consultation with the individual and upon verification of the information, the HA must make appropriate adjustments in the Total Tenant Payment in accordance with 24 CFR part 5, subpart F, and verify that only one individual is occupying the unit. The HA must adjust Tenant Rent and the Housing Assistance Payment to reflect any change in Total Tenant Payment. At each regular reexamination, the HA must follow the requirements of 24 CFR part 5, subpart E concerning verification of immigration status of any new family member.
+(i) *Reexamination of individual income*—(1) *Regular reexaminations.* The HA must reexamine the income of all individuals at least once every 12 months. After consultation with the individual and upon verification of the information, the HA must make appropriate adjustments in the Total Tenant Payment in accordance with 24 CFR part 5, subpart F, and verify that only one individual is occupying the unit. The HA must adjust Tenant Rent and the Housing Assistance Payment to reflect any change in Total Tenant Payment. At each regular reexamination, the HA must follow the requirements of 24 CFR part 5, subpart E concerning verification of immigration status of any new family member.
 
 (2) *Interim reexaminations.* The individual shall supply such certification, release, information, or documentation as the PHA or HUD determines to be necessary, including submissions required for interim reexaminations of individual income and determinations as to whether only one individual is occupying the unit. In addition § 882.515(b) shall apply.
 

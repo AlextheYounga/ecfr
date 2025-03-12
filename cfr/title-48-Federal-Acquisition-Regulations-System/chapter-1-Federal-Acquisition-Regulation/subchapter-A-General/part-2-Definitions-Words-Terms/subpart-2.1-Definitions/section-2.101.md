@@ -208,7 +208,7 @@
 
 (1) Is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
-(2) Results in the call or order to, or retention on, active duty of members of the uniformed services under sections 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of title 10 of the United States Code, Chapter 15 of title 10 of the United States Code, or any other provision of law during a war or during a national emergency declared by the President or Congress.
+(2) Results in the call or order to, or retention on, active duty of members of the uniformed services under sections 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of title 10 of the United States Code, Chapter 13 of title 10 of the United States Code, and section 3713 of title 14 of the United States Code, or any other provision of law during a war or during a national emergency declared by the President or Congress.
 
 *Continued portion of the contract* means the portion of a contract that the contractor must continue to perform following a partial termination.
 

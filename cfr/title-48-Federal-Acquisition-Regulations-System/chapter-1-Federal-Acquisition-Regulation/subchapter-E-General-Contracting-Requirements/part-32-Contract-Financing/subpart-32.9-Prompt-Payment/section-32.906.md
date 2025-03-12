@@ -1,5 +1,7 @@
 ##### 32.906 Making payments. #####
 
+Link to an amendment published at 88 FR 9733, Feb. 14, 2023.
+
 (a) *General.* The Government will not make invoice payments earlier than 7 days prior to the due dates specified in the contract unless the agency head determines -
 
 (1) To make earlier payment on a case-by-case basis; or

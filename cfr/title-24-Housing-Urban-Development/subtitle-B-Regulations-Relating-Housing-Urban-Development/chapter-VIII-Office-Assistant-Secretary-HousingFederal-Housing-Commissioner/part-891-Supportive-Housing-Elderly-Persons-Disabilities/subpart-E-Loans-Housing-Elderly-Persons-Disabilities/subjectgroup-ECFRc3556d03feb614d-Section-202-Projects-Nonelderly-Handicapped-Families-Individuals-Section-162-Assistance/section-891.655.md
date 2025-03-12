@@ -1,5 +1,7 @@
 ##### § 891.655 Definitions applicable to 202/162 projects. #####
 
+Link to an amendment published at 88 FR 9669, Feb. 14, 2023.
+
 The following definitions apply to projects for eligible families receiving project assistance payments under section 202(h) of the Housing Act of 1959 in addition to reservations under section 202 (202/162 projects):
 
 *Annual income* is defined in part 813 of this chapter. In the case of an individual residing in an intermediate care facility for the mentally retarded that is assisted under Title XIX of the Social Security Act and subpart E of this part, the annual income of the individual shall exclude protected personal income as provided under that Act. For the purposes of determining the total tenant payment, the income of such individuals shall be imputed to be the amount that the family would receive if assisted under Title XVI of the Social Security Act.

@@ -1,5 +1,7 @@
 ##### § 960.257 Family income and composition: Annual and interim reexaminations. #####
 
+Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
+
 (a) *When PHA is required to conduct reexamination.* (1) For families who pay an income-based rent, the PHA must conduct a reexamination of family income and composition at least annually and must make appropriate adjustments in the rent after consultation with the family and upon verification of the information.
 
 (2) For families who choose flat rents, the PHA must conduct a reexamination of family composition at least annually, and must conduct a reexamination of family income at least once every three years in accordance with the procedures in § 960.253(f).

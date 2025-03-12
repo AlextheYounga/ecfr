@@ -1,5 +1,7 @@
 ##### § 982.516 Family income and composition: Annual and interim examinations. #####
 
+Link to an amendment published at 88 FR 9675, Feb. 14, 2023.
+
 (a) *PHA responsibility for reexamination and verification.* (1) The PHA must conduct a reexamination of family income and composition at least annually.
 
 (2) Except as provided in paragraph (a)(3) of this section, the PHA must obtain and document in the tenant file third-party verification of the following factors, or must document in the tenant file why third-party verification was not available:
@@ -18,7 +20,7 @@
 
 (ii) A PHA must obtain third-party verification of all family assets every 3 years.
 
-(b) *Streamlined income determination* - (1) *General.* A PHA may elect to apply a streamlined income determination to families receiving fixed income as described in paragraph (b)(3) of this section.
+(b) *Streamlined income determination*—(1) *General.* A PHA may elect to apply a streamlined income determination to families receiving fixed income as described in paragraph (b)(3) of this section.
 
 (2) *Definition of “fixed income”.* For purposes of this section, “fixed income” means periodic payments at reasonably predictable levels from one or more of the following sources:
 

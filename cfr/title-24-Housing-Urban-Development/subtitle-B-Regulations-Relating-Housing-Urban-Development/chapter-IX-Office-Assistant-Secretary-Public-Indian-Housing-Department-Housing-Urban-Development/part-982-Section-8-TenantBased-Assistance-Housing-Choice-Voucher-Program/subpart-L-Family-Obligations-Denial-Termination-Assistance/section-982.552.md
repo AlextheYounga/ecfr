@@ -1,5 +1,7 @@
 ##### § 982.552 PHA denial or termination of assistance for family. #####
 
+Link to an amendment published at 88 FR 9676, Feb. 14, 2023.
+
 (a) *Action or inaction by family.* (1) A PHA may deny assistance for an applicant or terminate assistance for a participant under the programs because of the family's action or failure to act as described in this section or § 982.553. The provisions of this section do not affect denial or termination of assistance for grounds other than action or failure to act by the family.
 
 (2) Denial of assistance for an applicant may include any or all of the following: denying listing on the PHA waiting list, denying or withdrawing a voucher, refusing to enter into a HAP contract or approve a lease, and refusing to process or provide assistance under portability procedures.
@@ -18,7 +20,7 @@
 
 (5) The PHA must deny or terminate assistance if any family member fails to meet the eligibility requirements concerning individuals enrolled at an institution of higher education as specified in 24 CFR 5.612.
 
-(c) *Authority to deny admission or terminate assistance* - (1) *Grounds for denial or termination of assistance.* The PHA may at any time deny program assistance for an applicant, or terminate program assistance for a participant, for any of the following grounds:
+(c) *Authority to deny admission or terminate assistance*—(1) *Grounds for denial or termination of assistance.* The PHA may at any time deny program assistance for an applicant, or terminate program assistance for a participant, for any of the following grounds:
 
 (i) If the family violates any family obligations under the program (see § 982.551). See § 982.553 concerning denial or termination of assistance for crime by family members.
 

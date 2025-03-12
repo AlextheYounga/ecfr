@@ -1,12 +1,14 @@
 ##### § 5.657 Section 8 project-based assistance programs: Reexamination of family income and composition. #####
 
+Link to an amendment published at 88 FR 9661, Feb. 14, 2023.
+
 (a) *Applicability.* This section states requirements for reexamination of family income and composition in the Section 8 project-based assistance programs, except for the moderate rehabilitation and the project-based certificate or voucher programs.
 
 (b) *Regular reexamination.* The owner must conduct a reexamination and redetermination of family income and composition at least annually.
 
 (c) *Interim reexaminations.* A family may request an interim reexamination of family income because of any changes since the last examination. The owner must make the interim reexamination within a reasonable time after the family request. The owner may adopt policies prescribing when and under what conditions the family must report a change in family income or composition.
 
-(d) *Streamlined income determination* - (1) *General.* An owner may elect to apply a streamlined income determination to families receiving fixed income as described in paragraph (d)(3) of this section.
+(d) *Streamlined income determination*—(1) *General.* An owner may elect to apply a streamlined income determination to families receiving fixed income as described in paragraph (d)(3) of this section.
 
 (2) *Definition of “fixed income”.* For purposes of this section, “fixed income” means periodic payments at reasonably predictable levels from one or more of the following sources:
 

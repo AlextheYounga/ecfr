@@ -1,5 +1,7 @@
 ##### § 960.206 Waiting list: Local preferences in admission to public housing program. #####
 
+Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
+
 (a) *Establishment of PHA local preferences.* (1) The PHA may adopt a system of local preferences for selection of families admitted to the PHA's public housing program. The PHA system of selection preferences must be based on local housing needs and priorities as determined by the PHA. In determining such needs and priorities, the PHA shall use generally accepted data sources. Such sources include public comment on the PHA plan (as received pursuant to § 903.17 of this chapter), and on the consolidated plan for the relevant jurisdiction (as received pursuant to part 91 of this title).
 
 (2) The PHA may limit the number of applicants that qualify for any local preference.

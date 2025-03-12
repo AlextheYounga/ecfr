@@ -1,5 +1,7 @@
 ##### § 960.102 Definitions. #####
 
+Link to an amendment published at 88 FR 9669, Feb. 14, 2023.
+
 (a) Definitions found elsewhere:
 
 (1) *General definitions.* The following terms are defined in 24 CFR part 5, subpart A: 1937 Act, drug, drug-related criminal activity, elderly person, federally assisted housing, guest, household, HUD, MSA, premises, public housing, public housing agency (PHA), Section 8, violent criminal activity.

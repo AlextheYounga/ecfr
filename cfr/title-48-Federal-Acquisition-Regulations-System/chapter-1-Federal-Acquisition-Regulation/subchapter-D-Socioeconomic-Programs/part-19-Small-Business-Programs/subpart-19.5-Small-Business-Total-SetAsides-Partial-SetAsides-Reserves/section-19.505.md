@@ -1,5 +1,7 @@
 ##### 19.505 Limitations on subcontracting and nonmanufacturer rule. #####
 
+Link to an amendment published at 88 FR 9738, Feb. 14, 2023.
+
 (a) *Applicability.* (1) This section applies to small business set-asides above the simplified acquisition threshold and orders issued directly to a small business in accordance with 19.504(c)(1)(ii) above the simplified acquisition threshold.
 
 (2) This section applies, regardless of dollar value, to the following awards under subparts 19.8, 19.13, 19.14, and 19.15:
