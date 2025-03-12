@@ -1,5 +1,7 @@
 ##### § 550.103 Definitions. #####
 
+Link to an amendment published at 84 FR 17939, Apr. 29, 2019.
+
 In this subpart:
 
 *Administrative workweek* means any period of 7 consecutive days (as defined in this section) designated in advance by the head of the agency under section 6101 of title 5, United States Code.

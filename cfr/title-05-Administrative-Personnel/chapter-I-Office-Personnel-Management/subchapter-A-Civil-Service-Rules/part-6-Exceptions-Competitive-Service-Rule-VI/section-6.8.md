@@ -8,4 +8,4 @@
 
 (d) Effective on July 10, 2018, the position of administrative law judge appointed under 5 U.S.C. 3105 shall be listed in Schedule E for all levels of basic pay under 5 U.S.C. 5372(b). Incumbents of this position who are, on July 10, 2018, in the competitive service shall remain in the competitive service as long as they remain in their current positions.
 
-[E.O. 11839, 40 FR 7351, Feb. 19, 1975, as amended by E.O. 11887, 40 FR 51411, Nov. 5, 1975; E.O. 12021, 42 FR 61237, Dec. 2, 1977; 47 FR 4227, Jan. 29, 1982; E.O. 13843, 83 FR 32757, July 13, 2018]
+[E.O. 11839, 40 FR 7351, Feb. 19, 1975, as amended by E.O. 11887, 40 FR 51411, Nov. 5, 1975; E.O. 12021, 42 FR 61237, Dec. 2, 1977; 47 FR 4227, Jan. 29, 1982; E.O. 13843, 83 FR 32755, July 13, 2018]

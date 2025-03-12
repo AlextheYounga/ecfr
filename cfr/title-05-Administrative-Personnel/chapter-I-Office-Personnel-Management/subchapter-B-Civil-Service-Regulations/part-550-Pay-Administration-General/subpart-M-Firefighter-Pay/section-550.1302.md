@@ -1,5 +1,7 @@
 ##### § 550.1302 Definitions. #####
 
+Link to an amendment published at 84 FR 17941, Apr. 29, 2019.
+
 In this subpart:
 
 *Annual rate of basic pay* (except as otherwise provided in §§ 550.1305 and 550.1308) means the annual rate fixed under the rate schedule applicable to the position held by the firefighter, including a locality rate schedule established under 5 U.S.C. 5304 or a special rate schedule established under 5 U.S.C. 5305, before any deductions and exclusive of additional pay of any other kind.
