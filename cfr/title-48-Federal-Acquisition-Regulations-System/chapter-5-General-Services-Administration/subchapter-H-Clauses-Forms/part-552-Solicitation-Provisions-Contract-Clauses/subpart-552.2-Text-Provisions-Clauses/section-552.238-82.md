@@ -1,65 +1,67 @@
-##### 552.238-82 Special Ordering Procedures for the Acquisition of Order-Level Materials. #####
+##### 552.238-82 Modifications (Federal Supply Schedules). #####
 
-Link to an amendment published at 84 FR 17045, Apr. 23, 2019.
+##### 552.238-82 Modifications (Federal Supply Schedules). #####
 
-As prescribed in 538.7204(b), insert the following clause:
+As prescribed in 538.273(d)(6), insert the following clause:
 
-Special Ordering Procedures for the Acquisition of Order-Level Materials (JAN 2018)
+Modifications (Federal Supply Schedules) (MAY 2019)
 
-(a) *Definitions.*
+(a) *General.* The Contractor may request a contract modification by submitting a request to the Contracting Officer for approval, except as noted in paragraph (d) of this clause. At a minimum, every request shall describe the proposed change(s) and provide the rationale for the requested change(s).
 
-*Order-level materials* means supplies and/or services acquired in direct support of an individual task or delivery order placed against a Federal Supply Schedule (FSS) contract or FSS blanket purchase agreement (BPA), when the supplies and/or services are not known at the time of Schedule contract or FSS BPA award. The prices of order-level materials are not established in the FSS contract or FSS BPA. Order-level materials acquired following the procedures in paragraph (d) are done so under the authority of the FSS program, pursuant to 41 U.S.C. 152(3), and are not open market items, which are discussed in FAR 8.402(f).
+(b) *Types of modifications* - (1) *Additional items/additional SINs.* When requesting additions, the following information must be submitted:
 
-(b) FAR 8.403(b) provides that GSA may establish special ordering procedures for a particular FSS.
+(i) Information requested in paragraphs (1) and (2) of the Commercial Sales Practice Format to add SINs.
 
-(c) The procedures in FAR subpart 8.4 apply to this contract, with the exceptions listed in this clause. If a requirement in this clause is inconsistent with FAR subpart 8.4, this clause takes precedence pursuant to FAR 8.403(b).
+(ii) Discount information for the new items(s) or new SIN(s). Specifically, submit the information requested in paragraphs 3 through 5 of the Commercial Sales Practice Format. If this information is the same as the initial award, a statement to that effect may be submitted instead.
 
-(d) Procedures for including order-level materials when placing an individual task or delivery order against an FSS contract or FSS BPA.
+(iii) Information about the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the request for proposal.
 
-(1) The procedures discussed in FAR 8.402(f) do not apply when placing task and delivery orders that include order-level materials.
+(iv) Delivery time(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the request for proposal.
 
-(2) Order-level materials are included in the definition of the term “materials” in [FAR] clause 52.212-4 Alternate I, and therefore all provisions of FAR clause 52.212-4 Alternate I that apply to “materials” also apply to order-level materials.
+(v) Production point(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted if required by FAR 52.215-6, Place of Performance.
 
-(3) Order-level materials shall only be acquired in direct support of an individual task or delivery order and not as the primary basis or purpose of the order.
+(vi) Hazardous Material information (if applicable) must be submitted as required by FAR 52.223-3 (Alternate I), Hazardous Material Identification and Material Safety Data.
 
-(4) The value of order-level materials in a task or delivery order, or the cumulative value of order-level materials in orders against an FSS BPA awarded under a FSS contract shall not exceed 33.33 percent.
+(vii) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications - Commercial Items, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act - Balance of Payments Programs - Supplies.
 
-(5) All order-level materials shall be placed under the Order-Level Materials SIN.
+(2) *Deletions.* The Contractors shall provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the contracting officer finds the higher price to be unreasonable when compared with the deleted item.
 
-(6) Prior to the placement of an order that includes order-level materials, the Ordering Activity shall follow procedures in FAR 8.404(h).
+(3) *Price reduction.* The Contractor shall indicate whether the price reduction falls under the item (i), (ii), or (iii) of paragraph (c)(1) of the Price Reductions clause at 552.238-81. If the Price reduction falls under item (i), the Contractor shall submit a copy of the dated commercial price list. If the price reduction falls under item (ii) or (iii), the Contractor shall submit a copy of the applicable price list(s), bulletins or letters or customer agreements which outline the effective date, duration, terms and conditions of the price reduction.
 
-(7) To support the price reasonableness of order-level materials,
+(c) *Effective dates.* The effective date of any modification is the date specified in the modification, except as otherwise provided in the Price Reductions clause at 552.238-81.
 
-(i) The contractor proposing order-level materials as part of a solution shall obtain a minimum of three quotes for each order-level material above the simplified acquisition threshold.
+(d) *Electronic file updates.* The Contractor shall update electronic file submissions to reflect all modifications. For additional items or SINs, the Contractor shall obtain the Contracting Officer's approval before transmitting changes. Contract modifications will not be made effective until the Government receives the electronic file updates. The Contractor may transmit price reductions, item deletions, and corrections without prior approval. However, the Contractor shall notify the Contracting Officer as set forth in the Price Reductions clause at 552.238-81.
 
-(A) One of these three quotes may include materials furnished by the contractor under FAR 52.212-4 Alt I (i)(1)(ii)(A).
+(e) *Amendments to paper Federal Supply Schedule Price Lists.* (1) The Contractor must provide supplements to its paper price lists, reflecting the most current changes. The Contractor may either:
 
-(B) If the contractor cannot obtain three quotes, the contractor shall maintain its documentation of why three quotes could not be obtained to support their determination.
+(i) Distribute a supplemental paper Federal Supply Schedule Price List within 15 workdays after the effective date of each modification.
 
-(C) A contractor with an approved purchasing system per FAR 44.3 shall instead follow its purchasing system requirement and is exempt from the requirements in 552.238-82(d)(7)(i)(A)-(B).
+(ii) Distribute quarterly cumulative supplements. The period covered by a cumulative supplement is at the discretion of the Contractor, but may not exceed three calendar months from the effective date of the earliest modification. For example, if the first modification occurs in February, the quarterly supplement must cover February-April, and every three month period after. The Contractor must distribute each quarterly cumulative supplement within 15 workdays from the last day of the calendar quarter.
 
-(ii) The Ordering Activity Contracting Officer must make a determination that prices for all order-level materials are fair and reasonable. The Ordering Activity Contracting Officer may base this determination on a comparison of the quotes received in response to the task or delivery order solicitation or other relevant pricing information available.
+(2) At a minimum, the Contractor shall distribute each supplement to those ordering activities that previously received the basic document. In addition, the Contractor shall submit two copies of each supplement to the Contracting Officer and one copy to the FSS Schedule Information Center.
 
-(iii) If indirect costs are approved per [FAR 52.212-4(i)(1)(ii)(D)(*2*) Alternate I), the Ordering Activity Contracting Officer must make a determination that all indirect costs approved for payment are fair and reasonable. Supporting data shall be submitted in a form acceptable to the Ordering Activity Contracting Officer.
+(End of clause)
 
-(8) Prior to an increase in the ceiling price of order-level materials, the Ordering Activity Contracting Officer shall follow the procedures at FAR 8.404(h)(3)(iv).
+*Alternate I (MAY 2019).* As prescribed in 538.273(d)(6)(i), add the following paragraph (f) to the basic clause:
 
-(9) In accordance with GSAR clause 552.215-71 Examination of Records by GSA, GSA has the authority to examine the Contractor's records for compliance with the pricing provisions in FAR clause 52.212-4 Alternate I, to include examination of any books, documents, papers, and records involving transactions related to the contract for overbillings, billing errors, and compliance with the IFF and the Sales Reporting clauses of the contract.
+(f) Electronic submission of modification requests is mandatory via eMod (*http://eOffer.gsa.gov*), unless otherwise stated in the electronic submission standards and requirements at the Vendor Support Center website (*http://vsc.gsa.gov*). If the electronic submissions standards and requirements information is updated at the Vendor Support Center website, Contractors will be notified prior to the effective date of the change.
 
-(10) OLMs are exempt from the following clauses:
+*Alternate II (MAY 2019).* As prescribed in 538.273(d)(6)(ii), substitute the following paragraph (b) for paragraph (b) of the basic clause:
 
-(i) 552.216-70 Economic Price Adjustment - FSS Multiple Award Schedule Contracts.
+(b) *Types of Modifications.*
 
-(ii) 552.238-71 Submission and Distribution of Authorized FSS Schedule Pricelists.
+(1) Additional items/additional SINs. When requesting additions, the Contractor must submit the following information:
 
-(iii) 552.238-75 Price Reductions.
+(i) Information about the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the instructions in the solicitation.
 
-(11) Exceptions for travel.
+(ii) Delivery time(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the request for proposal.
 
-(i) Travel costs are governed by FAR 31.205-46 and therefore the requirements in paragraph (d)(7) do not apply to travel costs.
+(iii) Production point(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted if required by FAR 52.215-6, Place of Performance.
 
-(ii) Travel costs do not count towards the 33.33% limitation described in paragraph (d)(4).
+(iv) Hazardous Material information (if applicable) must be submitted as required by FAR 52.223-3 (Alternate I), Hazardous Material Identification and Material Safety Data.
 
-(iii) Travel costs are exempt from clause 552.238-74 Industrial Funding Fee and Sales Reporting.
+(v) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications - Commercial Items, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act - Balance of Payments Programs - Supplies.
 
-(End of clause)[83 FR 3280, Jan. 24, 2018, as amended at 83 FR 40684, Aug. 16, 2018]
+(2) Deletions. The Contractor must provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the Contracting Officer determines that the higher price is unreasonable compared to the price of the deleted item.
+
+[84 FR 17045, Apr. 23, 2019]

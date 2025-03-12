@@ -32,6 +32,6 @@
 
 (7) FRA inspectors shall have physical access to visually observe all brake and freight car inspections and tests required by this section.
 
-(b) Failure to comply with any of the requirements contained in paragraph (a) of this section will be considered an improper movement of a designated priority train for which appropriate civil penalties may be assessed as outlined in appendix A to this part. Furthermore, FRA's Associate Administrator for Safety may revoke a railroad's ability to designate any or all trains as extended haul trains for repeated or willful noncompliance with any of the requirements contained in this section. Such a determination will be made in writing and will state the basis for such action.
+(b) Failure to comply with any of the requirements contained in paragraph (a) of this section will be considered an improper movement of a designated priority train for which appropriate civil penalties may be assessed as outlined in the statement of civil penalty policy on FRA's website at *www.fra.dot.gov.* Furthermore, FRA's Associate Administrator for Safety may revoke a railroad's ability to designate any or all trains as extended haul trains for repeated or willful noncompliance with any of the requirements contained in this section. Such a determination will be made in writing and will state the basis for such action.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002; 73 FR 61553, Oct. 16, 2008]
+[66 FR 4193, Jan. 17, 2001, as amended at 67 FR 17583, Apr. 10, 2002; 73 FR 61553, Oct. 16, 2008; 84 FR 23736, May 23, 2019]

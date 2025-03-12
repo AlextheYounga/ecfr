@@ -1,5 +1,7 @@
 ##### § 214.4 Denial of certification, denial of recertification or withdrawal of SEVP certification. #####
 
+Link to an amendment published at 84 FR 23979, May 23, 2019.
+
 (a) *General* - (1) *Denial of certification.* The petitioning school will be notified of the reasons and appeal rights if a petition for certification is denied, in accordance with the provisions of 8 CFR 103.3(a)(1)(iii). No fee is required with appeals related to SEVP certification. A petitioning school denied certification may file a new petition for certification at any time.
 
 (2) *Denial of recertification or withdrawal on notice.* The school must wait at least one calendar year from the date of denial of recertification or withdrawal on notice before being eligible to petition again for SEVP certification if a school's petition for recertification is denied by SEVP pursuant to 8 CFR 214.3(h)(3)(v), or its certification is withdrawn on notice pursuant to paragraph (b) of this section. Eligibility to re-petition will be at the discretion of the Director of SEVP. SEVP certification of a school or school system for the attendance of nonimmigrant students, pursuant to sections 101(a)(15)(F)(i) and/or 101(a)(15)(M)(i) of the Immigration and Nationality Act, will be withdrawn on notice subsequent to out-of-cycle review, or recertification denied, if the school or school system is determined to no longer be entitled to certification for any valid and substantive reason including, but not limited to, the following:

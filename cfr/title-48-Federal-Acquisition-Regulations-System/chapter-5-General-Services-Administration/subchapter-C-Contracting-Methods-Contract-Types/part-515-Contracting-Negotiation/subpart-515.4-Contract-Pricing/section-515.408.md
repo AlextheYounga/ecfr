@@ -1,18 +1,18 @@
 ##### 515.408 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 84 FR 17039, Apr. 23, 2019.MAS Requests for Information Other Than Cost or Pricing Data
+MAS Requests for Information Other Than Cost or Pricing Data
 
 (a) Use Alternate IV of the FAR provision at 52.215-20, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data, for MAS solicitations to provide the format for submission of information other than cost or pricing data for MAS solicitations. To provide uniformity in requests under the MAS program, insert the following in paragraph (b) of the provision:
 
 (1) An offer prepared and submitted in accordance with the clause at 552.212-70, Preparation of Offer (Multuiple Award Schedule).
 
-(2) *Commercial sales practices.* When the solicitation contains the basic clause 552.238-74 Industrial Funding Fee and Sales Reporting, the Offeror must submit information in the format provided in this solicitation in accordance with the instructions at Figure 515.4-2 of the GSA Acquisition Regulation (48 CFR 515.4-2), or submit information in the Offeror's own format.
+(2) *Commercial sales practices.* When the solicitation contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, the Offeror must submit information in the format provided in this solicitation in accordance with the instructions at Figure 515.4-2 of the GSA Acquisition Regulation (48 CFR 515.4-2), or submit information in the Offeror's own format.
 
 (3) Any additional supporting information requested by the Contracting Officer. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether the price(s) offered is fair and reasonable.
 
 (4) By submission of an offer in response to this solicitation, the Offeror grants the Contracting Officer or an authorized representative the right to examine, at any time before initial award, books, records, documents, papers, and other directly pertinent records to verify the pricing, sales and other data related to the supplies or services proposed in order to determine the reasonableness of price(s). Access does not extend to Offeror's cost or profit information of other data relevant solely to the Offeror's determination of the prices to be offered in the catalog or marketplace.
 
-(b) When the contract contains the basic clause 552.238-74 Industrial Funding Fee and Sales Reporting, insert the following format for commercial sales practices in the exhibits or attachments section of the solicitation and resulting contract (see FAR 12.303).
+(b) When the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, insert the following format for commercial sales practices in the exhibits or attachments section of the solicitation and resulting contract (see FAR 12.303).
 
 Commercial Sales Practices FormatName of Offeror \_\_\_\_\_ SIN(s) \_\_\_Note:
 
@@ -52,11 +52,11 @@ SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_
 
 (End of format)
 
-(c) When the contract contains the basic clause 552.238-74 Industrial Funding Fee and Sales Reporting, include the instructions for completing the commercial sales practices format in Figure 515.4-2 in solicitations issued under the MAS program. Offerors are not required to complete the commercial sales practices disclosure for order-level materials (See subpart 538.72).
+(c) When the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, include the instructions for completing the commercial sales practices format in Figure 515.4-2 in solicitations issued under the MAS program. Offerors are not required to complete the commercial sales practices disclosure for order-level materials (See subpart 538.72).
 
 Figure 515.4 - Instructions for Commercial Sales Practices Format
 
-If you responded “yes” to question (3), on the Commercial Sales Practices Format in paragraph (b) of this section, complete the chart in question (4)(a) for the customer(s) who receive your best discount. If you responded “no”, complete the chart in question (4)(a) showing your written policies or standard sales practices for all customers or customer categories to whom you sell at a price (discounts and concessions in combination) that is equal to or better than the price(s) offered to the Government under this solicitation or with which the Offeror has a current agreement to sell at a discount which equals or exceeds the discount(s) offered under this solicitation. Such agreement shall be in effect on the date the offer is submitted or contain an effective date during the proposed multiple award schedule contract period. If your offer is lower than your price to other customers or customers categories, you will be aligned with the customer or category of customer that receives your best price for purposes of the Price Reductions clause at 552.238-75. The Government expects you to provide information required by the format in accordance with these instructions that is, to the best of your knowledge and belief, current, accurate, and complete as of 14 calendar days prior to its submission. You must also disclose any changes in your price list(s), discounts and/or discounting policies which occur after the offer is submitted, but before the close of negotiations. If your discount practices vary by model or product line, the discount information should be by model or product line as appropriate. You may limit the number of models or product lines reported to those which exceed 75% of actual historical Government sales (commercial sales may be substituted if Government sales are unavailable) value of the special item number (SIN).
+If you responded “yes” to question (3), on the Commercial Sales Practices Format in paragraph (b) of this section, complete the chart in question (4)(a) for the customer(s) who receive your best discount. If you responded “no”, complete the chart in question (4)(a) showing your written policies or standard sales practices for all customers or customer categories to whom you sell at a price (discounts and concessions in combination) that is equal to or better than the price(s) offered to the Government under this solicitation or with which the Offeror has a current agreement to sell at a discount which equals or exceeds the discount(s) offered under this solicitation. Such agreement shall be in effect on the date the offer is submitted or contain an effective date during the proposed multiple award schedule contract period. If your offer is lower than your price to other customers or customers categories, you will be aligned with the customer or category of customer that receives your best price for purposes of the Price Reductions clause at 552.238-81. The Government expects you to provide information required by the format in accordance with these instructions that is, to the best of your knowledge and belief, current, accurate, and complete as of 14 calendar days prior to its submission. You must also disclose any changes in your price list(s), discounts and/or discounting policies which occur after the offer is submitted, but before the close of negotiations. If your discount practices vary by model or product line, the discount information should be by model or product line as appropriate. You may limit the number of models or product lines reported to those which exceed 75% of actual historical Government sales (commercial sales may be substituted if Government sales are unavailable) value of the special item number (SIN).
 
 Column 1 - Identify the Applicable Customer or Category of Customer
 
@@ -84,7 +84,7 @@ If deviations from your written policies or standard commercial sales practices 
 
 (End of figure)
 
-(d) When the contract contains the basic clause 552.238-74 Industrial Funding Fee and Sales Reporting, insert the clause at 552.215-72, Price Adjustment - Failure to Provide Accurate Information, in solicitations and contracts under the MAS program.
+(d) When the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, insert the clause at 552.215-72, Price Adjustment - Failure to Provide Accurate Information, in solicitations and contracts under the MAS program.
 
 (e) Use Alternate IV of FAR 52.215-21, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data - Modifications, to provide for submission of information other than cost or pricing data for MAS contracts. To provide for uniformity in requests under the MAS program, insert the following in paragraph (b) of the clause:
 
@@ -94,4 +94,4 @@ If deviations from your written policies or standard commercial sales practices 
 
 (3) By submitting a request for modification, the Contractor grants the Contracting Officer or an authorized representative the right to examine, at any time before agreeing to a modification, books, record, documents, papers, and other directly pertinent records to verify the pricing, sales and other data related to the supplies or services proposed in order to determine the reasonableness of price(s). Access does not extent to Contractor's cost or profit information or other data related solely to the Contractor's determination of the prices to be offered in the catalog or marketplace.
 
-[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016; 83 FR 3279, Jan. 24, 2018]
+[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016; 83 FR 3279, Jan. 24, 2018; 84 FR 17039, Apr. 23, 2019]

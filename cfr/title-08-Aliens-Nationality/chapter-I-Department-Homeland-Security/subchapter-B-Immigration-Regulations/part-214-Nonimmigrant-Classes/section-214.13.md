@@ -1,5 +1,7 @@
 ##### § 214.13 SEVIS fee for certain F, J, and M nonimmigrants. #####
 
+Link to an amendment published at 84 FR 23979, May 23, 2019.
+
 (a) *Applicability.* The following aliens are required to submit a payment in the amount indicated for their status to the Student and Exchange Visitor Program (SEVP) in advance of obtaining nonimmigrant status as an F or M student or J exchange visitor, in addition to any other applicable fees, except as otherwise provided for in this section:
 
 (1) An alien who applies for F-1 or F-3 status in order to enroll in a program of study at an SEVP-certified institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965, as amended, or in a program of study at any other SEVP-certified academic or language-training institution including private elementary and secondary schools and public secondary schools, the amount of $200;

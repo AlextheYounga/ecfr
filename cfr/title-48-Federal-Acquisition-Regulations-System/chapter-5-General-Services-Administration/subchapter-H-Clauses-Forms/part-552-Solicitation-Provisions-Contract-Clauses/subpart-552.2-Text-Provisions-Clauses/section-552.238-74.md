@@ -1,109 +1,17 @@
-##### 552.238-74 Industrial Funding Fee and Sales Reporting. #####
+##### 552.238-74 Introduction of New Supplies/Services (INSS). #####
 
-Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+As prescribed in 538.273(b)(2), insert the following provision:
 
-As prescribed in 538.273(b)(1), insert the following clause:
+Introduction of New Supplies/Services (INSS) (MAY 2019)
 
-Industrial Funding Fee and Sales Reporting (JAN *2016*)
+(a) *Definition.*
 
-(a) *Reporting of Federal Supply Schedule Sales.* The Contractor shall report all contract sales under this contract as follows:
+*Introduction of New Supplies/Services Special Item Number (INSS SIN)* means a new or improved supply or service - within the scope of the Federal Supply Schedule (FSS), but not currently available under any Federal Supply Schedule contract - that provides a new service, function, task, or attribute that may provide a more economical or efficient means for ordering activities to accomplish their missions. It may significantly improve an existing supply or service. It may be a supply or service existing in the commercial market, but not yet introduced to the Federal Government.
 
-(1) The Contractor shall accurately report the dollar value, in U.S. dollars and rounded to the nearest whole dollar, of all sales under this contract by calendar quarter (January 1-March 31, April 1-June 30, July 1-September 30, and October 1-December 31). The dollar value of a sale is the price paid by the Schedule user for products and services on a Schedule task or delivery order. The reported contract sales value shall include the Industrial Funding Fee (IFF). The Contractor shall maintain a consistent accounting method of sales reporting, based on the Contractor's established commercial accounting practice. The acceptable points at which sales may be reported include -
+(b) Offerors are encouraged to introduce new or improved supplies or services via INSS SIN at any time by clearly identify the INSS SIN item in the offer.
 
-(i) Receipt of order;
+(c) The Contracting Officer has the sole discretion to determine whether a supply or service will be accepted as an INSS SIN item. The Contracting Officer will evaluate and process the offer and may perform a technical review. The INSS SIN provides temporary placement until the Contracting Officer formally categorizes the new supply or service.
 
-(ii) Shipment or delivery, as applicable;
+(d) If the Contractor has an existing schedule contract, the Government may, at the sole discretion of the Contracting Officer, modify the existing contract to include the INSS SIN item in accordance with 552.238-81, Modifications (Federal Supply Schedules).
 
-(iii) Issuance of an invoice; or
-
-(iv) Payment.
-
-(2) Contract sales shall be reported to FSS Federal Acquisition Services (FSS) within 30 calendar days following the completion of each reporting quarter. The Contractor shall continue to furnish quarterly reports, including “zero” sales, through physical completion of the last outstanding task order or delivery order of the contract.
-
-(3) Reportable sales under the contract are those resulting from sales of contract items to authorized users unless the purchase was conducted pursuant to a separate contracting authority such as a Governmentwide Acquisition Contract (GWAC); a separately awarded FAR Part 12, FAR Part 13, FAR Part 14, or FAR Part 15 procurement; or a non-FAR contract. Sales made to state and local governments under Cooperative Purchasing authority shall be counted as reportable sales for IFF purposes.
-
-(4) The Contractor shall electronically report the quarterly dollar value of sales, including “zero” sales, by utilizing the automated reporting system at an Internet website designated by the General Services Administration (GSA)'s Federal Acquisition Service (FAS). Prior to using this automated system, the Contractor shall complete contract registration with the FAS Vendor Support Center (VSC). The website address, as well as registration instructions and reporting procedures, will be provided at the time of award. The Contractor shall report sales separately for each National Stock Number (NSN), Special Item Number (SIN), or sub-item.
-
-(5) The Contractor shall convert the total value of sales made in foreign currency to U.S. dollars using the “Treasury Reporting Rates of Exchange” issued by the U.S. Department of Treasury, Financial Management Service. The Contractor shall use the issue of the Treasury report in effect on the last day of the calendar quarter. The report is available from Financial Management Service, International Funds Branch, Telephone: (202) 874-7994, Internet: *http://www.fiscal.treasury.gov/fsreports/rpt/treasRptRateExch/treasRptRateExch\_home.htm.*
-
-(b) The Contractor shall remit the IFF at the rate set by GSA's FAS.
-
-(1) The Contractor shall remit the IFF to FAS in U.S. dollars within 30 calendar days after the end of the reporting quarter; final payment shall be remitted within 30 days after physical completion of the last outstanding task order or delivery order of the contract.
-
-(2) The IFF represents a percentage of the total quarterly sales reported. This percentage is set at the discretion of GSA's FAS. GSA's FAS has the unilateral right to change the percentage at any time, but not more than once per year. FAS will provide reasonable notice prior to the effective date of the change. The IFF reimburses FAS for the costs of operating the Federal Supply Schedules Program. FAS recoups its operating costs from ordering activities as set forth in 40 U.S.C. 321: *Acquisition Services Fund.* Net operating revenues generated by the IFF are also applied to fund initiatives benefitting other authorized FAS programs, in accordance with 40 U.S.C. 321. Offerors must include the IFF in their prices. The fee is included in the award price(s) and reflected in the total amount charged to ordering activities. FAS will post notice of the current IFF at *https://72a.gsa.gov/* or successor Web site as appropriate.
-
-(c) Within 60 days of award, an FAS representative will provide the Contractor with specific written procedural instructions on remitting the IFF. FAS reserves the unilateral right to change such instructions from time to time, following notification to the Contractor.
-
-(d) Failure to remit the full amount of the IFF within 30 calendar days after the end of the applicable reporting period constitutes a contract debt to the United States Government under the terms of FAR Subpart 32.6. The Government may exercise all rights under the Debt Collection Improvement Act of 1996, including withholding or setting off payments and interest on the debt (see FAR clause 52.232-17, Interest). Should the Contractor fail to submit the required sales reports, falsify them, or fail to timely pay the IFF, this is sufficient cause for the Government to terminate the contract for cause.
-
-*Alternate I (JUN 2016):* As prescribed in 538.273(b)(1), substitute the following paragraphs (a), (b), (c), and (d) for paragraphs (a), (b), (c), and (d) of the basic clause:
-
-(a) *Definition. Transactional data* encompasses the historical details of the products or services delivered by the Contractor during the performance of task or delivery orders issued against this contract.
-
-(b) *Reporting of Transactional Data.* The Contractor must report all transactional data under this contract as follows:
-
-(1) The Contractor must electronically report transactional data by utilizing the automated reporting system at an Internet Web site designated by the General Services Administration (GSA) or by uploading the data according to GSA instructions. GSA will post registration instructions and reporting procedures on the Vendor Support Center Web site, *https://vsc.gsa.gov.* The reporting system Web site address, as well as registration instructions and reporting procedures, will be provided at the time of award or inclusion of this clause in the contract.
-
-(2) The Contractor must provide, at no additional cost to the Government, the following transactional data elements, as applicable:
-
-(i) Contract or Blanket Purchase Agreement (BPA) Number.
-
-(ii) Delivery/Task Order Number/Procurement Instrument Identifier (PIID).
-
-(iii) Non Federal Entity.
-
-(iv) Description of Deliverable.
-
-(v) Manufacturer Name.
-
-(vi) Manufacturer Part Number.
-
-(vii) Unit Measure (each, hour, case, lot).
-
-(viii) Quantity of Item Sold.
-
-(ix) Universal Product Code.
-
-(x) Price Paid per Unit.
-
-(xi) Total Price.
-
-Note to paragraph (b)(2): The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM 507.105(c)(3).
-
-(3) The contractor must report transactional data within 30 calendar days from the last calendar day of the month. If there was no contract activity during the month, the Contractor must submit a confirmation of no reportable transactional data within 30 calendar days of the last calendar day of the month.
-
-(4) The Contractor must report the price paid per unit, total price, or any other data elements with an associated monetary value listed in (b)(2) of this section, in U.S. dollars.
-
-(5) The reported price paid per unit and total price must include the Industrial Funding Fee (IFF).
-
-(6) The Contractor must maintain a consistent accounting method of transactional data reporting, based on the Contractor's established commercial accounting practice.
-
-(7) *Reporting Points.* (i) The acceptable points at which transactional data may be reported include -
-
-(A) Issuance of an invoice; or
-
-(B) Receipt of payment.
-
-(ii) The Contractor must determine whether to report transactional data on the basis of invoices issued or payments received.
-
-(8) The Contractor must continue to furnish reports, including confirmation of no transactional data, through physical completion of the last outstanding task or delivery order of the contract.
-
-(9) Unless otherwise expressly stated by the ordering activity, orders that contain classified information or other or information that would compromise national security are exempt from this reporting requirement.
-
-(10) This clause does not exempt the Contractor from fulfilling existing reporting requirements contained elsewhere in the contract.
-
-(11) GSA reserves the unilateral right to change reporting instructions following 60 calendar days' advance notification to the Contractor.
-
-(c) *Industrial Funding Fee (IFF).* (1) This contract includes an IFF charged on orders placed against this contract. The IFF is paid by the authorized ordering activity but remitted to GSA by the Contractor. The IFF reimburses GSA for the costs of operating the Federal Supply Schedule program, as set forth in 40 U.S.C. 321: Acquisition Services Fund. Net operating revenues generated by the IFF are also applied to fund initiatives benefitting other authorized GSA programs, in accordance with 40 U.S.C. 321.
-
-(2) GSA has the unilateral right to change the fee amount at any time, but not more than once per year; GSA will provide reasonable notice prior to the effective date of any change. GSA will post notice of the current IFF on the Vendor Support Center Web site at *https://vsc.gsa.gov.*
-
-(3) Offerors must include the IFF in their prices. The fee is included in the awarded price(s) and reflected in the total amount charged to ordering activities. The fee will not be included in the price of non-contract items purchased pursuant to a separate contracting authority, such as a Governmentwide Acquisition Contract (GWAC); a separately awarded Federal Acquisition Regulation (FAR) Part 12, FAR Part 13, FAR Part 14, or FAR Part 15 procurement; or a non-FAR contract.
-
-(4) The Contractor must remit the IFF to GSA in U.S. dollars within 30 calendar days after the last calendar day of the reporting quarter; final payment must be remitted within 30 calendar days after physical completion of the last outstanding task order or delivery order issued against the contract.
-
-(5) GSA reserves the unilateral right to change remittance instructions following 60 calendar days' advance notification to the Contractor.
-
-(d) The Contractor's failure to remit the full amount of the IFF within 30 calendar days after the end of the applicable reporting period constitutes a contract debt to the United States Government under the terms of FAR Subpart 32.6. The Government may exercise all rights under the Debt Collection Improvement Act of 1996, including withholding or offsetting payments and interest on the debt (see FAR clause 52.232-17, Interest). If the Contractor fails to submit the required transactional data reports, falsifies them, or fails to timely pay the IFF, these reasons constitute sufficient cause for the Government to terminate the contract for cause.
-
-(End of clause)[68 FR 41288, July 11, 2003, as amended at 79 FR 21402, Apr. 16, 2014; 79 FR 28448, May 16, 2014; 81 FR 1533, Jan. 13, 2016; 81 FR 3731, Jan. 22, 2016; 81 FR 41138, June 23, 2016]
+(End of provision)[84 FR 17041, Apr. 23, 2019]

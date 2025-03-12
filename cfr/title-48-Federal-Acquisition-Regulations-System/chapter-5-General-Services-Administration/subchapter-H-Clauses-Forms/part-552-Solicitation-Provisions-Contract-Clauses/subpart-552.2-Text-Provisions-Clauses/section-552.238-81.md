@@ -1,69 +1,45 @@
-##### 552.238-81 Modification (Federal Supply Schedule). #####
+##### 552.238-81 Price Reductions. #####
 
-Link to an amendment published at 84 FR 17045, Apr. 23, 2019.
+As prescribed in 538.273(d)(5) insert the following clause:
 
-As prescribed in 538.273(b), insert the following clause:
+Price Reductions (MAY 2019)
 
-Modifications (Federal Supply Schedule) (APR 2014)
+(a) Before award of a contract, the Contracting Officer and the Offeror will agree upon (1) the customer (or category of customers) which will be the basis of award, and (2) the Government's price or discount relationship to the identified customer (or category of customers). This relationship shall be maintained throughout the contract period. Any change in the Contractor's commercial pricing or discount arrangement applicable to the identified customer (or category of customers) which disturbs this relationship shall constitute a price reduction.
 
-(a) *General.* The Contractor may request a contract modification by submitting a request to the Contracting Officer for approval, except as noted in paragraph (d) of this clause. At a minimum, every request shall describe the proposed change(s) and provide the rationale for the requested change(s).
+(b) During the contract period, the Contractor shall report to the Contracting Officer all price reductions to the customer (or category of customers) that was the basis of award. The Contractor's report shall include an explanation of the conditions under which the reductions were made.
 
-(b) *Types of Modifications.* (1) Additional items/additional SINs. When requesting additions, the following information must be submitted:
+(c)(1) A price reduction shall apply to purchases under this contract if, after the date negotiations conclude, the Contractor -
 
-(i) Information requested in paragraphs (1) and (2) of the Commercial Sales Practice Format to add SINs.
+(i) Revises the commercial catalog, pricelist, schedule or other document upon which contract award was predicated to reduce prices;
 
-(ii) Discount information for the new items(s) or new SIN(s). Specifically, submit the information requested in paragraphs 3 through 5 of the Commercial Sales Practice Format. If this information is the same as the initial award, a statement to that effect may be submitted instead.
+(ii) Grants more favorable discounts or terms and conditions than those contained in the commercial catalog, pricelist, schedule or other documents upon which contract award was predicated; or
 
-(iii) Information about the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the request for proposal.
+(iii) Grants special discounts to the customer (or category of customers) that formed the basis of award, and the change disturbs the price/discount relationship of the Government to the customer (or category of customers) that was the basis of award.
 
-(iv) Delivery time(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the request for proposal.
+(2) The Contractor shall offer the price reduction to the eligible ordering activity with the same effective date, and for the same time period, as extended to the commercial customer (or category of customers).
 
-(v) Production point(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted if required by FAR 52.215-6, Place of Performance.
+(d) There shall be no price reduction for sales -
 
-(vi) Hazardous Material information (if applicable) must be submitted as required by FAR 52.223-3 (Alternate I), Hazardous Material Identification and Material Safety Data.
+(1) To commercial customers under firm, fixed-price definite quantity contracts with specified delivery in excess of the maximum order threshold specified in this contract;
 
-(vii) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications - Commercial Items, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act - Balance of Payments Programs - Supplies.
+(2) To Federal agencies;
 
-(2) *Deletions.* The Contractors shall provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the contracting officer finds the higher price to be unreasonable when compared with the deleted item.
+(3) Made to Eligible Ordering Activities identified in GSAR Clause 552.238-113 when the order is placed under this contract (and the Eligible Ordering Activities identified in GSAR Clause 552.238-113 is the agreed upon customer or category of customer that is the basis of award); or
 
-(3) *Price Reduction.* The Contractor shall indicate whether the price reduction falls under the item (i), (ii), or (iii) of paragraph (c)(1) of the Price Reductions clause at 552.238-75. If the Price reduction falls under item (i), the Contractor shall submit a copy of the dated commercial price list. If the price reduction falls under item (ii) or (iii), the Contractor shall submit a copy of the applicable price list(s), bulletins or letters or customer agreements which outline the effective date, duration, terms and conditions of the price reduction.
+(4) Caused by an error in quotation or billing, provided adequate documentation is furnished by the Contractor to the Contracting Officer.
 
-(c) *Effective dates.* The effective date of any modification is the date specified in the modification, except as otherwise provided in the Price Reductions clause at 552.238-75.
+(e) The Contractor may offer the Contracting Officer a voluntary Governmentwide price reduction at any time during the contract period.
 
-(d) *Electronic File Updates.* The Contractor shall update electronic file submissions to reflect all modifications. For additional items or SINs, the Contractor shall obtain the Contracting Officer's approval before transmitting changes. Contract modifications will not be made effective until the Government receives the electronic file updates. The Contractor may transmit price reductions, item deletions, and corrections without prior approval. However, the Contractor shall notify the Contracting Officer as set forth in the Price Reductions clause at 552.238-75.
+(f) The Contractor shall notify the Contracting Officer of any price reduction subject to this clause as soon as possible, but not later than 15 calendar days after its effective date.
 
-(e) *Amendments to Paper Federal Supply Schedule Price Lists.*
+(g) The contract will be modified to reflect any price reduction which becomes applicable in accordance with this clause.
 
-(1) The Contractor must provide supplements to its paper price lists, reflecting the most current changes. The Contractor may either:
+(End of clause)
 
-(i) Distribute a supplemental paper Federal Supply Schedule Price List within 15 workdays after the effective date of each modification.
+*Alternate I (MAY 2019).* As prescribed in 538.273(d)(5), substitute the following paragraph (a) and (b) for paragraphs (a), (b), (c), (d), (e), (f) and (g) of the basic clause:
 
-(ii) Distribute quarterly cumulative supplements. The period covered by a cumulative supplement is at the discretion of the Contractor, but may not exceed three calendar months from the effective date of the earliest modification. For example, if the first modification occurs in February, the quarterly supplement must cover February-April, and every three month period after. The Contractor must distribute each quarterly cumulative supplement within 15 workdays from the last day of the calendar quarter.
+(a) The Government may request from the Contractor, and the Contractor may provide to the Government, a temporary or permanent price reduction at any time during the contract period.
 
-(2) At a minimum, the Contractor shall distribute each supplement to those ordering activities that previously received the basic document. In addition, the Contractor shall submit two copies of each supplement to the Contracting Officer and one copy to the FSS Schedule Information Center.
+(b) The Contractor may offer the Contracting Officer a voluntary price reduction at any time during the contract period.
 
-(End of Clause)
-
-*Alternate I* (JUN 2016). As prescribed in 538.273(b)(3)(i), add the following paragraph (f) to the basic clause:
-
-(f) Electronic submission of modification requests is mandatory via eMod (*http://eOffer.gsa.gov*), unless otherwise stated in the electronic submission standards and requirements at the Vendor Support Center Web site (*http://vsc.gsa.gov*). If the electronic submissions standards and requirements information is updated at the Vendor Support Center Web site, Contractors will be notified prior to the effective date of the change.
-
-*Alternate II (JUN 2016).* As prescribed in 538.273(b)(3)(ii), substitute the following paragraph (b) for paragraph (b) of the basic clause:
-
-(b) *Types of Modifications.*
-
-(1) *Additional items/additional SINs.* When requesting additions, the Contractor must submit the following information:
-
-(i) Information about the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the instructions in the solicitation.
-
-(ii) Delivery time(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted in accordance with the request for proposal.
-
-(iii) Production point(s) for the new item(s) or the item(s) under the new SIN(s) must be submitted if required by FAR 52.215-6, Place of Performance.
-
-(iv) Hazardous Material information (if applicable) must be submitted as required by FAR 52.223-3 (Alternate I), Hazardous Material Identification and Material Safety Data.
-
-(v) Any information requested by FAR 52.212-3(f), Offeror Representations and Certifications-Commercial Items, that may be necessary to assure compliance with FAR 52.225-1, Buy American Act-Balance of Payments Programs-Supplies.
-
-(2) *Deletions.* The Contractor must provide an explanation for the deletion. The Government reserves the right to reject any subsequent offer of the same item or a substantially equal item at a higher price during the same contract period, if the Contracting Officer determines that the higher price is unreasonable compared to the price of the deleted item.
-
-[79 FR 14184, Mar. 13, 2014; 79 FR 20107, Apr. 11, 2014; 79 FR 29136, May 21, 2014; 81 FR 41139, June 23, 2016]
+[84 FR 17045, Apr. 23, 2019]

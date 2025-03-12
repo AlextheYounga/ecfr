@@ -1,12 +1,12 @@
 ##### § 225.12 Rail Equipment Accident/Incident Reports alleging employee human factor as cause; Employee Human Factor Attachment; notice to employee; employee supplement. #####
 
-(a) *Rail Equipment Accident/Incident Report alleging employee human factor as cause; completion of Employee Human Factor Attachment.* If, in reporting a rail equipment accident/incident to FRA, a railroad cites an employee human factor as the primary cause or a contributing cause of the accident; then the railroad that cited such employee human factor must complete, in accordance with instructions on the form and in the current “FRA Guide for Preparing Accident/Incident Reports,” an Employee Human Factor Attachment form on the accident. For purposes of this section, “employee” is defined as a Worker on Duty - Employee, Employee not on Duty, Worker on Duty - Contractor, or Worker on Duty - Volunteer.
+(a) *Rail Equipment Accident/Incident Report alleging employee human factor as cause; completion of Employee Human Factor Attachment.* If, in reporting a rail equipment accident/incident to FRA, a railroad cites an employee human factor as the primary cause or a contributing cause of the accident; then the railroad that cited such employee human factor must complete, in accordance with instructions on the form and in the current “FRA Guide for Preparing Accident/Incident Reports,” an Employee Human Factor Attachment form on the accident. For purposes of this section, “employee” is defined as a Worker on Duty—Employee, Employee not on Duty, Worker on Duty—Contractor, or Worker on Duty—Volunteer.
 
-(b) *Notice to identified implicated employees.* Except as provided in paragraphs (e) and (f) of this section, for each employee whose act, omission, or physical condition was alleged by the railroad as the employee human factor that was the primary cause or a contributing cause of a rail equipment accident/incident and whose name was listed in the Employee Human Factor Attachment for the accident and for each such railroad employee of whose identity the railroad has actual knowledge, the alleging railroad shall -
+(b) *Notice to identified implicated employees.* Except as provided in paragraphs (e) and (f) of this section, for each employee whose act, omission, or physical condition was alleged by the railroad as the employee human factor that was the primary cause or a contributing cause of a rail equipment accident/incident and whose name was listed in the Employee Human Factor Attachment for the accident and for each such railroad employee of whose identity the railroad has actual knowledge, the alleging railroad shall—
 
 (1) Complete part I, “Notice to Railroad Employee Involved in Rail Equipment Accident/Incident Attributed to Employee Human Factor,” of Form FRA F 6180.78 with information regarding the accident, in accordance with instructions on the form and in the current “FRA Guide for Preparing Accident/Incident Reports”; and
 
-(2) Hand deliver or send by first class mail (postage prepaid) to that employee, within 45 days after the end of the month in which the rail equipment accident/incident occurred -
+(2) Hand deliver or send by first class mail (postage prepaid) to that employee, within 45 days after the end of the month in which the rail equipment accident/incident occurred—
 
 (i) A copy of Form FRA F 6180.78, “Notice to Railroad Employee Involved in Rail Equipment Accident/Incident Attributed to Employee Human Factor; Employee Statement Supplementing Railroad Accident Report,” with part I completed as to the applicable employee and accident;
 
@@ -32,8 +32,8 @@
 
 (h) *Willful false statements; penalties.* If an employee chooses to submit a Supplement to FRA, all of the employee's assertions in the Supplement must be true and correct to the best of the employee's knowledge and belief.
 
-(1) Under 49 U.S.C. 21301, 21302, and 21304, any person who willfully files a false Supplement with FRA is subject to a civil penalty. See appendix A to this part.
+(1) Under 49 U.S.C. 21301, 21302, and 21304, any person who willfully files a false Supplement with FRA is subject to a civil penalty. See FRA's website at *www.fra.dot.gov* for a statement of agency civil penalty policy.
 
 (2) Any person who knowingly and willfully files a false Supplement is subject to a $5,000 fine, or up to two years” imprisonment, or both, under 49 U.S.C. 21311.
 
-[55 FR 37827, Sept. 13, 1990; 55 FR 39538, Sept. 27, 1990, as amended at 61 FR 30969, 30973, June 18, 1996; 75 FR 68905, Nov. 9, 2010]
+[55 FR 37827, Sept. 13, 1990; 55 FR 39538, Sept. 27, 1990, as amended at 61 FR 30969, 30973, June 18, 1996; 75 FR 68905, Nov. 9, 2010; 84 FR 23735, May 23, 2019]

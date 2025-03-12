@@ -1,4 +1,4 @@
-##### § 1.965-5 Allowance of a credit or deduction for foreign income taxes. #####
+##### § 1.965-5 Allowance of credit or deduction for foreign income taxes. #####
 
 (a) *Scope.* This section provides rules for the allowance of a credit or deduction for foreign income taxes in connection with the application of section 965. Paragraph (b) of this section provides rules under section 965(g) for the allowance of a credit or deduction for foreign income taxes paid or accrued. Paragraph (c) of this section provides rules for the allowance of a credit or deduction for foreign income taxes treated as paid or accrued in connection with the application of section 965. Paragraph (d) of this section defines the term applicable percentage.
 

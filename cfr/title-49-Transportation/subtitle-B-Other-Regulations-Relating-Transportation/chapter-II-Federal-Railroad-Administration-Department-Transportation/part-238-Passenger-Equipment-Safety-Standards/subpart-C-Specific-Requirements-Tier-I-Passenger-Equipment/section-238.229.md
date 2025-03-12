@@ -1,4 +1,4 @@
-##### § 238.229 Safety appliances - general. #####
+##### § 238.229 Safety appliances—general. #####
 
 (a) Except as provided in this part, all passenger equipment continues to be subject to the safety appliance requirements contained in Federal statute at 49 U.S.C. chapter 203 and in Federal regulations at part 231 of this chapter.
 
@@ -18,7 +18,7 @@
 
 (ii) The involved safety appliance(s) on such equipment are inspected and handled pursuant to the requirements contained in paragraphs (g) through (k) of this section.
 
-(d) *Defective welded safety appliance or welded safety appliance bracket or support.* Passenger equipment with a welded safety appliance or a welded safety appliance bracket or support will be considered defective and shall be handled in accordance with § 238.17(e) if any part or portion of the weld contains a defect. Any repairs made to such equipment shall be in accordance with the inspection plan required in paragraph (g) of this section and the remedial actions identified in paragraph (j) of this section. A defect for the purposes of this section means a crack or fracture of any visibly discernible length or width. When appropriate, civil penalties for improperly using or hauling a piece of equipment with a defective welded safety appliance or safety appliance bracket or support addressed in this section will be assessed as an improperly applied safety appliance pursuant to the penalty schedule contained in Appendix A to part 231 of this chapter under the appropriate defect code contained therein.
+(d) *Defective welded safety appliance or welded safety appliance bracket or support.* Passenger equipment with a welded safety appliance or a welded safety appliance bracket or support will be considered defective and shall be handled in accordance with § 238.17(e) if any part or portion of the weld contains a defect. Any repairs made to such equipment shall be in accordance with the inspection plan required in paragraph (g) of this section and the remedial actions identified in paragraph (j) of this section. A defect for the purposes of this section means a crack or fracture of any visibly discernible length or width. When appropriate, civil penalties for improperly using or hauling a piece of equipment with a defective welded safety appliance or safety appliance bracket or support addressed in this section will be assessed as an improperly applied safety appliance pursuant to the penalty schedule on FRA's website at *www.fra.dot.gov* under the appropriate defect code contained therein.
 
 (e) *Identification of equipment.* The railroad shall submit a written list to FRA that identifies each piece of passenger equipment equipped with a welded safety appliance bracket or support by January 1, 2007. Passenger equipment placed in service prior to January 1, 2007, but not discovered until after January 1, 2007, shall be immediately added to the railroad's written list and shall be immediately inspected in accordance with paragraph (g) through (k) of this section. The written list submitted by the railroad shall contain the following:
 
@@ -50,11 +50,11 @@
 
 (1) A qualified maintenance person (QMP) with at least 4 hours of training specific to the identification of weld defects and the railroad's weld inspection procedures;
 
-(2) A current certified welding inspector (CWI) pursuant to American Welding Society Standard - AWS QC-1, Standard for AWS Certification of Welding Inspectors (1996) or its current revised equivalent;
+(2) A current certified welding inspector (CWI) pursuant to American Welding Society Standard—AWS QC-1, Standard for AWS Certification of Welding Inspectors (1996) or its current revised equivalent;
 
 (3) A person possessing a current Canadian Welding Bureau (CWB) certification pursuant to the Canadian Standards Association Standard W59 (2003) or its current revised equivalent;
 
-(4) A person possessing a current level II or level III visual inspector certification from the American Society for Non-destructive Testing pursuant to Recommended Practice SNT-TC-1A - Personnel Qualification and Certification in Nondestructive Testing (2001) or its current revised equivalent; or
+(4) A person possessing a current level II or level III visual inspector certification from the American Society for Non-destructive Testing pursuant to Recommended Practice SNT-TC-1A—Personnel Qualification and Certification in Nondestructive Testing (2001) or its current revised equivalent; or
 
 (5) A person possessing a current certification under any other nationally or internationally recognized welding qualification standard that is equivalent to those identified in paragraphs (h)(2) through (h)(4) of this section.
 
@@ -76,7 +76,7 @@
 
 (1) A defect in a weld due to crash damage (*i.e.*, impact of the safety appliance by an outside force during service or an accident) or improper construction (*i.e.*, the weld did not conform to the engineered design) shall be reattached by either mechanically fastening the safety appliance or the safety appliance bracket or support to the equipment or welding the safety appliance bracket or support to the equipment in a manner that is at least as strong as the original design or at least twice the strength of a bolted mechanical attachment, whichever is greater. If welding is used to repair the damaged appliance, bracket, or support the following requirements shall be met:
 
-(i) The repair shall be conducted in accordance with the welding procedures contained in APTA Standard SS-C&S-020-03 - Standard for Passenger Rail Vehicle Structural Repair (September 2003); or an alternative procedure approved by FRA pursuant to § 238.21. The Director of the Federal Register approves incorporation by reference of the APTA Standard SS-C&S-020-03 (September 2003), “Standard for Passenger Rail Vehicle Structural Repair,” in this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of the incorporated standard from the American Public Transportation Association, 1666 K Street, Washington, DC 20006. You may inspect a copy of the incorporated standard at the Federal Railroad Administration, Docket Clerk, 1200 New Jersey Avenue, SE., Washington, DC 20590 or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html;*
+(i) The repair shall be conducted in accordance with the welding procedures contained in APTA Standard SS-C&S-020-03—Standard for Passenger Rail Vehicle Structural Repair (September 2003); or an alternative procedure approved by FRA pursuant to § 238.21. The Director of the Federal Register approves incorporation by reference of the APTA Standard SS-C&S-020-03 (September 2003), “Standard for Passenger Rail Vehicle Structural Repair,” in this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of the incorporated standard from the American Public Transportation Association, 1666 K Street, Washington, DC 20006. You may inspect a copy of the incorporated standard at the Federal Railroad Administration, Docket Clerk, 1200 New Jersey Avenue, SE., Washington, DC 20590 or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html;*
 
 (ii) A qualified individual under paragraph (h) of this section shall inspect the weld to ensure it is free of any cracks or fractures prior to the equipment being placed in-service;
 
@@ -104,4 +104,4 @@
 
 (4) The date, time, location, identification of the person making the repair, and the nature of the repair to any welded safety appliance bracket or support identified in paragraph (e) of this section.
 
-[71 FR 61858, Oct. 19, 2006, as amended at 74 FR 25174, May 27, 2009]
+[71 FR 61858, Oct. 19, 2006, as amended at 74 FR 25174, May 27, 2009; 84 FR 23736, May 23, 2019]

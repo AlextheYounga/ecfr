@@ -1,8 +1,8 @@
 ##### § 1.932-1 Coordination of United States and Virgin Islands income taxes. #####
 
-(a) *Scope* - (1) *In general.* Section 932 and this section set forth the special rules relating to the filing of income tax returns and income tax liabilities of individuals described in paragraph (a)(2) of this section. Paragraph (h) of this section also provides special rules requiring consistent treatment of business entities in the United States and in the United States Virgin Islands (Virgin Islands).
+(a) *Scope*—(1) *In general.* Section 932 and this section set forth the special rules relating to the filing of income tax returns and income tax liabilities of individuals described in paragraph (a)(2) of this section. Paragraph (h) of this section also provides special rules requiring consistent treatment of business entities in the United States and in the United States Virgin Islands (Virgin Islands).
 
-(2) *Individuals covered.* This section will apply to any individual who -
+(2) *Individuals covered.* This section will apply to any individual who—
 
 (i) Is a bona fide resident of the Virgin Islands during the entire taxable year;
 
@@ -12,7 +12,7 @@
 
 (iii) Files a joint return for the taxable year with any individual described in paragraph (a)(2)(i) or (ii) of this section.
 
-(3) *Definitions.* For purposes of this section -
+(3) *Definitions.* For purposes of this section—
 
 (i) The rules of § 1.937-1 will apply for determining whether an individual is a bona fide resident of the Virgin Islands;
 
@@ -20,13 +20,13 @@
 
 (iii) The rules of § 1.937-3 will apply for determining whether income is effectively connected with the conduct of a trade or business within the Virgin Islands.
 
-(b) *U.S. individuals with Virgin Islands income* - (1) *Dual filing requirement.* Subject to paragraph (d) of this section, an individual described in paragraph (a)(2)(ii) of this section must make an income tax return for the taxable year to the United States and file a copy of such return with the Virgin Islands. Such individuals must also attach Form 8689, “Allocation of Individual Income Tax to the U.S. Virgin Islands,” to the U.S. income tax return and to the income tax return filed with the Virgin Islands.
+(b) *U.S. individuals with Virgin Islands income*—(1) *Dual filing requirement.* Subject to paragraph (d) of this section, an individual described in paragraph (a)(2)(ii) of this section must make an income tax return for the taxable year to the United States and file a copy of such return with the Virgin Islands. Such individuals must also attach Form 8689, “Allocation of Individual Income Tax to the U.S. Virgin Islands,” to the U.S. income tax return and to the income tax return filed with the Virgin Islands.
 
 (2) *Tax payments.* (i) Each individual to whom this paragraph (b) applies for the taxable year must pay the applicable percentage of the taxes imposed by this chapter for such taxable year (determined without regard to paragraph (b)(2)(ii) of this section) to the Virgin Islands.
 
 (ii) A credit against the tax imposed by this chapter for the taxable year will be allowed in an amount equal to the taxes that are required to be paid to the Virgin Islands under paragraph (b)(2)(i) of this section and are so paid. Such taxes will be considered creditable in the same manner as taxes paid to the United States (for example, under section 31) and not as taxes paid to a foreign government (for example, under sections 27 and 901).
 
-(iii) For purposes of this paragraph (b)(2) -
+(iii) For purposes of this paragraph (b)(2)—
 
 (A) The term *applicable percentage* means the percentage that Virgin Islands adjusted gross income bears to adjusted gross income;
 
@@ -38,7 +38,7 @@
 
 (1) *Virgin Islands filing requirements.* An individual to whom this paragraph (c) applies must file an income tax return for the taxable year with the Virgin Islands. On this return, the individual must report income from all sources and identify the source of each item of income shown on the return.
 
-(2) *U.S. filing requirements.* (i) For purposes of calculating the income tax liability to the United States of an individual to whom this paragraph (c) applies, gross income will not include any amount included in gross income on the return filed with the Virgin Islands pursuant to paragraph (c)(1) of this section, and deductions and credits allocable to such income will not be taken into account, provided that -
+(2) *U.S. filing requirements.* (i) For purposes of calculating the income tax liability to the United States of an individual to whom this paragraph (c) applies, gross income will not include any amount included in gross income on the return filed with the Virgin Islands pursuant to paragraph (c)(1) of this section, and deductions and credits allocable to such income will not be taken into account, provided that—
 
 (A) The individual fully satisfied the reporting requirements of paragraph (c)(1) of this section; and
 
@@ -50,13 +50,13 @@
 
 (d) *Joint returns.* In the case of married persons, if one or both spouses is an individual described in paragraph (a)(2) of this section and they file a joint return of income tax, the spouses must file their joint return with, and pay the tax due on such return to, the jurisdiction (or jurisdictions) where the spouse who has the greater adjusted gross income for the taxable year would be required under paragraph (b) or (c) of this section to file a return if separate returns were filed and all of their income were the income of such spouse. For this purpose, adjusted gross income of each spouse is determined under section 62 and the regulations under that section but without regard to community property laws; and, if one of the spouses dies, the taxable year of the surviving spouse will be treated as ending on the date of such death.
 
-(e) *Place for filing returns* - (1) *U.S. returns.* Except as otherwise provided for returns filed under paragraph (c)(2)(ii) of this section, a return required under the rules of paragraphs (b) and (c) of this section to be filed with the United States must be filed as directed in the applicable forms and instructions.
+(e) *Place for filing returns*—(1) *U.S. returns.* Except as otherwise provided for returns filed under paragraph (c)(2)(ii) of this section, a return required under the rules of paragraphs (b) and (c) of this section to be filed with the United States must be filed as directed in the applicable forms and instructions.
 
 (2) *Virgin Islands returns.* A return required under the rules of paragraphs (b) and (c) of this section to be filed with the Virgin Islands must be filed as directed in the applicable forms and instructions.
 
-(f) *Tax accounting standards* - (1) *In general.* A dual filing taxpayer must use the same tax accounting standards on the returns filed with the United States and the Virgin Islands. A taxpayer who has filed a return only with the United States or only with the Virgin Islands as a single filing taxpayer for a prior taxable year and is required to file a return only with the other jurisdiction as a single filing taxpayer for a later taxable year may not, for such later taxable year, use different tax accounting standards unless the second jurisdiction consents to such change. However, such change will not be effective for returns filed thereafter with the first jurisdiction unless before such later date of filing the taxpayer also obtains the consent of the first jurisdiction to make such change. Any request for consent to make a change pursuant to this paragraph (f) must be made to the office where the return is required to be filed under paragraph (e) of this section and in sufficient time to permit a copy of the consent to be attached to the return for the taxable year.
+(f) *Tax accounting standards*—(1) *In general.* A dual filing taxpayer must use the same tax accounting standards on the returns filed with the United States and the Virgin Islands. A taxpayer who has filed a return only with the United States or only with the Virgin Islands as a single filing taxpayer for a prior taxable year and is required to file a return only with the other jurisdiction as a single filing taxpayer for a later taxable year may not, for such later taxable year, use different tax accounting standards unless the second jurisdiction consents to such change. However, such change will not be effective for returns filed thereafter with the first jurisdiction unless before such later date of filing the taxpayer also obtains the consent of the first jurisdiction to make such change. Any request for consent to make a change pursuant to this paragraph (f) must be made to the office where the return is required to be filed under paragraph (e) of this section and in sufficient time to permit a copy of the consent to be attached to the return for the taxable year.
 
-(2) *Definitions.* For purposes of this paragraph (f), the terms -
+(2) *Definitions.* For purposes of this paragraph (f), the terms—
 
 (i) *Dual filing taxpayer* means a taxpayer who is required to file returns with the United States and the Virgin Islands for the same taxable year under the rules of paragraph (b) or (c) of this section;
 
@@ -64,9 +64,9 @@
 
 (iii) *Tax accounting standards* includes the taxpayer's accounting period, methods of accounting, and any election to which the taxpayer is bound with respect to the reporting of taxable income.
 
-(g) *Extension of territory* - (1) *Section 932(a) taxpayers* - (i) *General rule.* With respect to an individual to whom section 932(a) applies for a taxable year, for purposes of taxes imposed by Chapter 1 of the Internal Revenue Code (Code), the United States generally will be treated, in a geographical and governmental sense, as including the Virgin Islands. The purpose of this rule is to facilitate the coordination of the tax systems of the United States and the Virgin Islands. Accordingly, the rule will have no effect where it is manifestly inapplicable or its application would be incompatible with the intent of any provision of the Code.
+(g) *Extension of territory*—(1) *Section 932(a) taxpayers*—(i) *General rule.* With respect to an individual to whom section 932(a) applies for a taxable year, for purposes of taxes imposed by Chapter 1 of the Internal Revenue Code (Code), the United States generally will be treated, in a geographical and governmental sense, as including the Virgin Islands. The purpose of this rule is to facilitate the coordination of the tax systems of the United States and the Virgin Islands. Accordingly, the rule will have no effect where it is manifestly inapplicable or its application would be incompatible with the intent of any provision of the Code.
 
-(ii) *Application of general rule.* Contexts in which the general rule of paragraph (g)(1)(i) of this section apply include -
+(ii) *Application of general rule.* Contexts in which the general rule of paragraph (g)(1)(i) of this section apply include—
 
 (A) The characterization of taxes paid to the Virgin Islands. An individual to whom section 932(a) applies may take income tax required to be paid to the Virgin Islands under section 932(b) into account under sections 31, 6315, and 6402(b) as payments to the United States. Taxes paid to the Virgin Islands and otherwise satisfying the requirements of section 164(a) will be allowed as a deduction under that section, but income taxes required to be paid to the Virgin Islands under section 932(b) will be disallowed as a deduction under section 275(a);
 
@@ -78,7 +78,7 @@
 
 (E) The treatment of property exchanged for property of a like kind (section 1031). Thus, for example, if an individual to whom section 932(a) applies exchanges real property located in the United States for real property located in the Virgin Islands, notwithstanding the provisions of section 1031(h), such exchange may qualify as a like-kind exchange under section 1031 (provided that all the other requirements of section 1031 are satisfied).
 
-(iii) *Nonapplication of the general rule.* Contexts in which the general rule of paragraph (g)(1)(i) of this section does not apply include -
+(iii) *Nonapplication of the general rule.* Contexts in which the general rule of paragraph (g)(1)(i) of this section does not apply include—
 
 (A) The application of any rules or regulations that explicitly treat the United States and any (or all) of its possessions as separate jurisdictions (for example, sections 931 through 937, 7651, and 7654).
 
@@ -86,9 +86,9 @@
 
 (C) The characterization of a corporation for purposes other than subchapter S (for example, sections 367, 951 through 964, 1291 through 1298, 6038, and 6038B). Thus, for example, if an individual to whom section 932(a) applies transfers appreciated tangible property to a corporation created or organized in the Virgin Islands in a transaction described in section 351, he or she must recognize gain unless an exception under section 367(a) applies. Also, if a corporation created or organized in the Virgin Islands qualifies as a passive foreign investment company under sections 1297 and 1298 with respect to an individual to whom section 932(a) applies, a dividend paid to such shareholder does not constitute qualified dividend income under section 1(h)(11)(B).
 
-(2) *Section 932(c) taxpayers* - (i) *General rule.* With respect to an individual to whom section 932(c) applies for a taxable year, for purposes of the territorial income tax of the Virgin Islands (that is, mirrored sections of the Code), the Virgin Islands generally will be treated, in a geographical and governmental sense, as including the United States. The purpose of this rule is to facilitate the coordination of the tax systems of the United States and the Virgin Islands. Accordingly, the rule will have no effect where it is manifestly inapplicable or its application would be incompatible with the intent of any provision of the Code.
+(2) *Section 932(c) taxpayers*—(i) *General rule.* With respect to an individual to whom section 932(c) applies for a taxable year, for purposes of the territorial income tax of the Virgin Islands (that is, mirrored sections of the Code), the Virgin Islands generally will be treated, in a geographical and governmental sense, as including the United States. The purpose of this rule is to facilitate the coordination of the tax systems of the United States and the Virgin Islands. Accordingly, the rule will have no effect where it is manifestly inapplicable or its application would be incompatible with the intent of any provision of the Code.
 
-(ii) *Application of general rule.* Contexts in which the general rule of paragraph (g)(2)(i) of this section apply include -
+(ii) *Application of general rule.* Contexts in which the general rule of paragraph (g)(2)(i) of this section apply include—
 
 (A) The characterization of taxes paid to the United States. A taxpayer described in section 932(c)(1) may take income tax paid to the United States into account under mirrored sections 31, 6315, and 6402(b) as payments to the Virgin Islands;
 
@@ -100,7 +100,7 @@
 
 (E) The treatment of property exchanged for property of a like kind (mirrored section 1031). Thus, for example, if an individual to whom section 932(c) applies exchanges real property located in the United States for real property located in the Virgin Islands, notwithstanding the provisions of mirrored section 1031(h), such exchange may qualify as a like-kind exchange under mirrored section 1031 (provided that all the other requirements of mirrored section 1031 are satisfied).
 
-(iii) *Nonapplication of general rule.* Contexts in which the general rule of paragraph (g)(2)(i) of this section does not apply include -
+(iii) *Nonapplication of general rule.* Contexts in which the general rule of paragraph (g)(2)(i) of this section does not apply include—
 
 (A) The determination of any aspect of an individual's residency (for example, mirrored section 7701(b)). Thus, for example, an individual whose principal place of abode is in the United States is not considered to have a principal place of abode in the Virgin Islands for purposes of mirrored section 32(c).
 
@@ -108,7 +108,7 @@
 
 (C) The definition of wages (mirrored section 3401). Thus, for example, services performed by an employee for an employer in the United States do not constitute services performed in the Virgin Islands under mirrored section 3401(a)(8).
 
-(h) *Entity status consistency requirement* - (1) *In general.* Taxpayers should make consistent entity status elections (as defined in paragraph (h)(3) of this section), where applicable, in both the United States and the Virgin Islands. In the case of a business entity to which this paragraph (h) applies -
+(h) *Entity status consistency requirement*—(1) *In general.* Taxpayers should make consistent entity status elections (as defined in paragraph (h)(3) of this section), where applicable, in both the United States and the Virgin Islands. In the case of a business entity to which this paragraph (h) applies—
 
 (i) If an entity status election is filed with the Internal Revenue Service (IRS) but not with the Virgin Islands Bureau of Internal Revenue (BIR), the Director of the BIR or his delegate, at his discretion, may deem the election also to have been made for Virgin Islands tax purposes;
 
@@ -126,7 +126,7 @@
 
 (4) *Default status.* Solely for the purpose of determining classification of an eligible entity under § 301.7701-3(b) of this chapter and under that section as mirrored in the Virgin Islands, an eligible entity subject to this paragraph (h) will be classified for both Federal and Virgin Islands tax purposes using the rule that applies to domestic eligible entities.
 
-(5) *Transition rules* - (i) In the case of an election filed prior to April 11, 2005, except as provided in paragraph (h)(5)(ii) of this section, the rules of paragraph (h)(1) of this section will apply as of the first day of the first taxable year of the entity beginning after April 11, 2005.
+(5) *Transition rules.* (i) In the case of an election filed prior to April 11, 2005, except as provided in paragraph (h)(5)(ii) of this section, the rules of paragraph (h)(1) of this section will apply as of the first day of the first taxable year of the entity beginning after April 11, 2005.
 
 (ii) In the unlikely circumstance that inconsistent elections described in paragraph (h)(1)(iii) of this section are filed prior to April 11, 2005, and the entity cannot change its classification to achieve consistency because of the sixty-month limitation described in § 301.7701-3(c)(1)(iv) of this chapter, then the entity may nevertheless request permission from the Commissioner or the Director of the BIR or his delegate to change such election to avoid inconsistent treatment by the Commissioner and the Director of the BIR or his delegate.
 

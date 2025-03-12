@@ -1,61 +1,69 @@
-##### 552.238-78 Scope of Contract (Eligible Ordering Activities). #####
+##### 552.238-78 Identification of Products That Have Environmental Attributes. #####
 
-Link to an amendment published at 84 FR 17042, Apr. 23, 2019.
+As prescribed in 538.273(d)(2), insert the following clause:
 
-As prescribed in 538.7004(b), insert the following clause:
+Identification of Products That Have Environmental Attributes (MAY 2019)
 
-Scope of Contract (Eligible Ordering Activities) (JUL 2016)
+(a) Several laws, Executive orders, and Agency directives require Federal buyers to purchase products that are less harmful to the environment, when they are life cycle cost-effective (see FAR Subpart 23.7). The U.S. General Services Administration (GSA) requires contractors to highlight environmental products under Federal Supply Service schedule contracts in various communications media (e.g., publications and electronic formats).
 
-(a) This solicitation is issued to establish contracts which may be used on a nonmandatory basis by the agencies and activities named below, as a source of supply for the supplies or services described herein, for domestic and/or overseas delivery. For Special Item Number 132-53, Wireless Services ONLY, limited geographic coverage (consistent with the Offeror's commercial practice) may be proposed.
+(b) *Definitions.* As used in this clause -
 
-(1) Executive agencies (as defined in FAR Subpart 2.1) including nonappropriated fund activities as prescribed in 41 CFR 101-26.000);
+*Energy-efficient product* means a product that -
 
-(2) Government contractors authorized in writing by a Federal agency pursuant to FAR 51.1;
+(1) Meets Department of Energy and Environmental Protection Agency criteria for use of the ENERGY STAR® trademark label; or
 
-(3) Mixed ownership Government corporations (as defined in the Government Corporation Control Act);
+(2) Is in the upper 25 percent of efficiency for all similar products as designated by the Department of Energy's Federal Energy Management Program.
 
-(4) Federal Agencies, including establishments in the legislative or judicial branch of government (except the Senate, the House of Representatives and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol).
+*GSA Advantage!* is an on-line shopping mall and ordering system that provides customers with access to products and services under GSA contracts.
 
-(5) The District of Columbia;
+*Other environmental attributes* refers to product characteristics that provide environmental benefits, excluding recovered materials and energy and water efficiency. Several examples of these characteristics are biodegradable, recyclable, reduced pollutants, ozone safe, and low volatile organic compounds (VOCs).
 
-(6) Tribal governments when authorized under 25 U.S.C. 450j(k);
+*Post-consumer material* means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. Post-consumer material is part of the broader category of “recovered material.” The Environmental Protection Agency (EPA) has developed a list of EPA-designated products in their Comprehensive Procurement Guidelines (CPGs) to provide Federal agencies with purchasing recommendations on specific products in a Recovered Materials Advisory Notice (RMAN). The RMAN contains recommended recovered and post-consumer material content levels for the specific products designated by EPA (40 CFR part 247 and *http://www.epa.gov/cpg/*).
 
-(7) Tribes or tribally designated housing entities pursuant to 25 U.S.C. 4111(j);
+*Recovered materials* means waste materials and by-products recovered or diverted from solid waste, but the term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process (Executive Order 13101 and 42 U.S.C. 6903(19) and *http://www.epa.gov/cpg/*). For paper and paper products, see the definition at FAR 11.301 (42 U.S.C. 6962(h)).
 
-(8) Qualified Nonprofit Agencies as authorized under 40 U.S.C. 502(b); and
+*Remanufactured* means factory rebuilt to original specifications.
 
-(9) Organizations, other than those identified in paragraph (d) of this clause, authorized by GSA pursuant to statute or regulation to use GSA as a source of supply.
+*Renewable energy* means energy produced by solar, wind, geothermal, and biomass power.
 
-(b) *Definitions. Domestic delivery* is delivery within the 48 contiguous states, Alaska, Hawaii, Puerto Rico, Washington, DC, and U.S. territories. Domestic delivery also includes a port or consolidation point, within the aforementioned areas, for orders received from overseas activities.
+*Renewable energy technology* means -
 
-*Overseas delivery* is delivery to points outside of the 48 contiguous states, Washington, DC, Alaska, Hawaii, Puerto Rico, and U.S. territories.
+(1) Technologies that use renewable energy to provide light, heat, cooling, or mechanical or electrical energy for use in facilities or other activities; or
 
-(c) Offerors are requested to check one of the following boxes:
+(2) The use of integrated whole-building designs that rely upon renewable energy resources, including passive solar design.
 
-□ Contractor will provide domestic and overseas delivery.
+(c) *Identification requirements.* (1) The offeror must identify products that -
 
-□ Contractor will provide overseas delivery only.
+(i) Are compliant with the recovered and post-consumer material content levels recommended in the Recovered Materials Advisory Notices (RMANs) for EPA-designated products in the CPG program (*http://www.epa.gov/cpg/*);
 
-□ Contractor will provide domestic delivery only.
+(ii) Contain recovered materials that either do not meet the recommended levels in the RMANs or are not EPA-designated products in the CPG program (see FAR 23.401 and *http://www.epa.gov/cpg/*);
 
-(d) The following activities may place orders against Schedule 70 contracts:
+(iii) Are energy-efficient, as defined by either ENERGY STAR® and/or FEMP's designated top 25th percentile levels (see ENERGY STAR® at *http://www.energystar.gov/* and FEMP at *http://www.eere.energy.gov/femp/procurement/*);
 
-(1) State and local government may place orders against Schedule 70 contracts, and Consolidated Schedule contracts containing information technology Special Item Numbers, and Schedule 84 contracts, on an optional basis; PROVIDED, the Contractor accepts order(s) from such activities;
+(iv) Are water-efficient;
 
-(2) The American National Red Cross may place orders against Federal Supply Schedules for products and services in furtherance of the purposes set forth in its Federal charter (36 U.S.C. 300102); PROVIDED, the Contractor accepts order(s) from the American National Red Cross; and
+(v) Use renewable energy technology;
 
-(3) Other qualified organizations, as defined in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152), may place orders against Federal Supply Schedules for products and services determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency; PROVIDED, the Contractor accepts order(s) from such activities.
+(vi) Are remanufactured; and
 
-(4) State and local governments may place orders against Federal Supply Schedules for goods or services determined by the Secretary of Homeland Security to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121, *et seq.*) to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack; PROVIDED, the Contractor accepts order(s) from such activities.
+(vii) Have other environmental attributes.
 
-(e) Articles or services may be ordered from time to time in such quantities as may be needed to fill any requirement, subject to the Order Limitations thresholds which will be specified in resultant contracts. Overseas activities may place orders directly with schedule contractors for delivery to CONUS port or consolidation point.
+(2) These identifications must be made in each of the offeror's following mediums:
 
-(f)(1) The Contractor is obligated to accept orders received from activities within the Executive branch of the Federal Government.
+(i) The offer itself.
 
-(2) The Contractor is not obligated to accept orders received from activities outside the Executive branch; however, the Contractor is encouraged to accept such orders. If the Contractor elects to accept such orders, all provisions of the contract shall apply, including clause 552.232-79, Payment by Credit Card. If the Contractor is unwilling to accept such orders, and the proposed method of payment is not through the Credit Card, the Contractor shall return the order by mail or other means of delivery within 5 workdays from receipt. If the Contractor is unwilling to accept such orders, and the proposed method of payment is through the Credit Card, the Contractor must so advise the ordering activity within 24 hours of receipt of order. (Reference clause 552.232-79, Payment by Credit Card.) Failure to return an order or advise the ordering activity within the time frames of this paragraph shall constitute acceptance whereupon all provisions of the contract shall apply.
+(ii) Printed commercial catalogs, brochures, and pricelists.
 
-(g) The Government is obligated to purchase under each resultant contract a guaranteed minimum of $2,500 (two thousand, five hundred dollars) during the contract term.
+(iii) Online product website.
 
-(h) All users of GSA's Federal Supply Schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services. GSA encourages non-Federal users to follow the Schedule Ordering Procedures set forth in the Federal Acquisition Regulation (FAR) 8.4, but they may use different established competitive ordering procedures if such procedures are needed to satisfy their state and local acquisition regulations and/or organizational policies.
+(iv) Electronic data submission for GSA Advantage! submitted via GSA's Schedules Input Program (SIP) software or the Electronic Data Inter-change (EDI). Offerors can use the SIP or EDI methods to indicate environmental and other attributes for each product that are translated into respective icons in GSA Advantage!.
 
-(End of clause)[68 FR 24381, May 7, 2003, as amended at 69 FR 28065, May 18, 2004; 72 FR 4654, Feb. 1, 2007; 73 FR 54339, Sept. 19, 2008; 81 FR 36430, June 6, 2016]
+(d) An offeror, in identifying an item with an environmental attribute, must possess evidence or rely on a reasonable basis to substantiate the claim (see 16 CFR part 260, Guides for the Use of Environmental Marketing Claims). The Government will accept an offeror's claim of an item's environmental attribute on the basis of -
+
+(1) Participation in a Federal agency sponsored program (e.g., the EPA and DOE ENERGY STAR® product labeling program);
+
+(2) Verification by an independent organization that specializes in certifying such claims; or
+
+(3) Possession of competent and reliable evidence. For any test, analysis, research, study, or other evidence to be “competent and reliable,” it must have been conducted and evaluated in an objective manner by persons qualified to do so, using procedures generally accepted in the profession to yield accurate and reliable results.
+
+(End of clause)[84 FR 17042, Apr. 23, 2019]

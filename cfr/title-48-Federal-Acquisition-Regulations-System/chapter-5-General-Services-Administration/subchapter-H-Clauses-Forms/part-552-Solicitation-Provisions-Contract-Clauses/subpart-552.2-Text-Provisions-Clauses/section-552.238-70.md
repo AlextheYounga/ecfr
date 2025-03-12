@@ -1,17 +1,23 @@
-##### 552.238-70 Identification of Electronic Office Equipment Providing Accessibility for the Handicapped. #####
+##### 552.238-70 Cover Page for Worldwide Federal Supply Schedules. #####
 
-Link to an amendment published at 84 FR 17041, Apr. 23, 2019.
+As prescribed in 538.273(a)(1), insert the following provision:
 
-As prescribed in 538.273(a)(1), insert the following clause:
+Cover Page for Worldwide Federal Supply Schedules (MAY 2019)For All Geographic Areas
 
-Identification of Electronic Office Equipment Providing Accessibility for the Handicapped (SEP 1991)
+Solicitation No. [The contracting officer should insert the solicitation number here]\*\_\_\_\_\*
 
-(a) *Definitions.* “Electronic office equipment accessiblity” means the application/configuration of electronic office equipment (includes hardware, software and firmware) in a manner that accommodates the functional limitations of individuals with disabilities (*i.e.,* handicapped individuals) so as to promote productivity and provide access to work related and/or public information resources.
+Federal Supply Schedule Contract for All Geographic Areas [For supplies, the Contracting Officer should complete the information required by paragraph (a) and delete paragraph (b) in its entirety. For services, the Contracting Officer should complete the information required by paragraph (b) and delete (a) in its entirety. For solicitations containing both supplies and services, the Contracting Officer should complete paragraphs (a) and (b).]
 
-“Handicapped individuals” mean qualified individuals with impairments as cited in 29 CFR 1613.702(f) who can benefit from electronic office equipment accessibility.
+(a) Federal Supply Classification (FSC) GROUP \*\_\_\_\_\* PART \*\_\_\_\_\* SECTION \*\_\_\_\_\*
 
-“Special peripheral” means a special needs aid that provides access to electronic equipment that is otherwise inaccessible to a handicapped individual.
+SUPPLY: \*\_\_\_\_\* FSC CLASS(ES)/PRODUCT CODE(S)/NAICS: \*\_\_\_\_\*
 
-(b) The offeror is encouraged to identify in its offer, and include in any commercial catalogs and pricelists accepted by the Contracting Officer, office equipment, including any special peripheral, that will facilitate electronic office equipment accessibility for handicapped individuals. Identification should include the type of disability accommodated and how the users with that disability would be helped.
+(b) STANDARD INDUSTRY GROUP: \*\_\_\_\_\* SERVICE: \*\_\_\_\_\* SERVICE CODE(S)/NAICS: \*\_\_\_\_\*
 
-(End of clause)
+(End of provision)
+
+*Alternate I* (MAY 2019): As prescribed at 538.273(a)(1)(i), add the following paragraph (c) to the basic provision.
+
+(c) PERIOD: \*\_\_\_\_\* THROUGH \*\_\_\_\_\*
+
+[84 FR 17041, Apr. 23, 2019]

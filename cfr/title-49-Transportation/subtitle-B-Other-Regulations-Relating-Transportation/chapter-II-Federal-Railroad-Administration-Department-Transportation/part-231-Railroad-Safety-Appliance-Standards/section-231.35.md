@@ -28,6 +28,6 @@
 
 (3) A petition for modification, once approved, may be re-opened upon good cause shown. Good cause exists where subsequent evidence demonstrates that an approved petition does not comply with the an applicable Federal statute, that an approved petition does not comply with the requirements of this section; that the existing industry safety appliance standard does not provide at least an equivalent level of safety as the corresponding FRA regulation for the nearest railcar type(s); or that further information is required to make such a determination. When a petition is re-opened for good cause shown, it shall return to pending status and shall not be considered approved or denied.
 
-(g) *Enforcement.* Any modification of an industry standard approved pursuant to this section will be enforced against any person, as defined at 49 CFR 209.3, who violates any provision of the approved standard or causes the violation of any such provision. Civil penalties will be assessed under this part by using the applicable defect code contained in appendix A to this part.
+(g) *Enforcement.* Any modification of an industry standard approved pursuant to this section will be enforced against any person, as defined at 49 CFR 209.3, who violates any provision of the approved standard or causes the violation of any such provision. Civil penalties will be assessed under this part by using the applicable defect code in the statement of agency civil penalty policy on FRA's website at *www.fra.dot.gov.*
 
-[76 FR 23726, Apr. 28, 2011]
+[76 FR 23726, Apr. 28, 2011, as amended at 84 FR 23736, May 23, 2019]
