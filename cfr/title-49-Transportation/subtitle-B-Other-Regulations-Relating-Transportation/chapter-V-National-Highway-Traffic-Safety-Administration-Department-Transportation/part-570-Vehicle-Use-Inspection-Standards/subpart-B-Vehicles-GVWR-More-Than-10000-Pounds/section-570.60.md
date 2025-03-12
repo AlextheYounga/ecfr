@@ -4,22 +4,22 @@
 
 (1) *Inspection procedure.* With the engine on and the steering axle wheels in the straight ahead position, turn the steering wheel in one direction until there is a perceptible movement of the wheel. If a point on the steering wheel rim moves more than the value shown in Table 1 before perceptible return movement of the wheel under observation, there is excessive lash or free play in the steering system.
 
-|Steering wheel diameter (inches)|Lash (inches)|
-|--------------------------------|-------------|
-|           16 or less           |      2      |
-|               18               |    21/4     |
-|               20               |    21/2     |
-|               22               |    23/4     |
+|Steering wheel diameter (inches)|      Lash (inches)       |
+|--------------------------------|--------------------------|
+|           16 or less           |            2             |
+|               18               |2<sup>1</sup>⁄<sub>4</sub>|
+|               20               |2<sup>1</sup>⁄<sub>2</sub>|
+|               22               |2<sup>3</sup>⁄<sub>4</sub>|
 
 (b) *Linkage play.* Free play in the steering linkage shall not exceed the values shown in Table 3.
 
 (1) *Inspection procedure.* Elevate the front end of the vehicle to load the ball joints, if the vehicle is so equipped. Insure that wheel bearings are correctly adjusted. Grasp the front and rear of a tire and attempt to turn the tire and wheel assemble left and right. If the free movement at the front or rear tread of the tire exceeds the applicable value shown in Table 3, there is excessive steering linkage play.
 
-|Nominal bead diameter or rim size (inches)|Play (inches)|
-|------------------------------------------|-------------|
-|                16 or less                |     1/4     |
-|           16.01 through 18.00            |     3/8     |
-|              18.01 or more               |     1/2     |
+|Nominal bead diameter or rim size (inches)|      Play (inches)      |
+|------------------------------------------|-------------------------|
+|                16 or less                |<sup>1</sup>⁄<sub>4</sub>|
+|           16.01 through 18.00            |<sup>3</sup>⁄<sub>8</sub>|
+|              18.01 or more               |<sup>1</sup>⁄<sub>2</sub>|
 
 (c) *Free turning.* Steering wheels shall turn freely through the limit of travel in both directions.
 
