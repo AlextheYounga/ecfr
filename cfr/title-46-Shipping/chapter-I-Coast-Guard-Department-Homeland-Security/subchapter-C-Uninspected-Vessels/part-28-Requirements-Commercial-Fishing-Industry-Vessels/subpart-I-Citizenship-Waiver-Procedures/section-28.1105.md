@@ -1,6 +1,6 @@
 ##### § 28.1105 Request for a waiver. #####
 
-(a) Vessel owners, operators, or employers who desire a waiver of citizenship requirements from the Coast Guard must submit a written request to the Commandant, United States Coast Guard, 2100 Second St. SW., Stop 7581, Washington, DC 20593-7581.
+(a) Vessel owners, operators, or employers who desire a waiver of citizenship requirements from the Coast Guard must submit a written request to the Commandant (CG-CVC), United States Coast Guard Headquarters, Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501.
 
 (b) The written request required under paragraph (a) of this section must contain -
 
@@ -52,4 +52,4 @@
 
 (e) Upon receipt of a request submitted under paragraph (a) of this section and required information submitted in accordance with paragraphs (b) through (d) of this section, the Coast Guard will evaluate the information and may investigate further, as necessary, to determine the validity of the information provided.
 
-Effective Date Note:At 79 FR 8869, Feb. 14, 2014, § 28.1105 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[USCG-2010-0625, 79 FR 8869, Feb. 14, 2014, as amended by USCG-2016-0498, 82 FR 35089, July 28, 2017]Effective Date Note:At 79 FR 8869, Feb. 14, 2014, § 28.1105 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

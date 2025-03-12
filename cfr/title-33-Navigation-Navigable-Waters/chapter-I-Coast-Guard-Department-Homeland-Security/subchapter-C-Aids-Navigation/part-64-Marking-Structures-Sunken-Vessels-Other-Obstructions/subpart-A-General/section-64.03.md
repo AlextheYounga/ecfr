@@ -10,12 +10,14 @@
 
 (b) The following obstructions are exempt from the requirements of this part:
 
-(1) Dredging pipelines subject to Subchapter D of this chapter;
+(1) Dredging pipelines subject to Subchapter E of this chapter;
 
-(2) Bridges subject to Subchapter J of this chapter;
+(2) Bridges subject to subchapter J of this chapter;
 
 (3) Vessels subject to the International Regulations for preventing Collisions at Sea, 1972 (1972 COLREGS) or the Inland Navigation Rules;
 
 (4) Deepwater port facilities subject to subchapter NN of this chapter; and
 
 (5) Artificial islands and structures subject to Part 67 of this subchapter.
+
+[CGD 78-156, 48 FR 11267, Mar. 17, 1983, as amended by USCG-2016-0498, 82 FR 35079, July 28, 2017]

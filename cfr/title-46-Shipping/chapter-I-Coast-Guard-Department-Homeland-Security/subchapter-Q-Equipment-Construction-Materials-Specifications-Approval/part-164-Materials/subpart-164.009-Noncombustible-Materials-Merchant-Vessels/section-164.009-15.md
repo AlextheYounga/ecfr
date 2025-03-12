@@ -4,7 +4,7 @@
 
 (b) *Preparation of specimens.* (1) The designated laboratory prepares 5 cylindrical specimens representative of the properties of the sample submitted for testing. The dimensions of each specimen are as follows:
 
-diameter: 45( + 2/−0) mmheight: 50 ±3 mmvolume: 80 ±5 cm3
+diameter: 45(+2/−0) mmheight: 50 ±3 mmvolume: 80 ±5 cm3
 
 (2) If the height of the sample, except a composite material, is less than 47 mm, the specimens prepared consist of layers of the sample.
 

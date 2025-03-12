@@ -20,7 +20,7 @@
 
 (d) The requirements for notification of safety standards and for safety information and country of registry in promotional literature or advertising of a foreign passenger vessel of 100 gross tons or over having berth or stateroom accommodations for 50 or more passengers are contained in part 80 of this chapter.
 
-(e)Notwithstanding the other provisions of this section, foreign passenger vessels of over 100 gross tons having berth or stateroom accommodations for more than 50 persons and departing a United States port with passengers who are United States nationals and who embarked at that port shall comply with the provisions of the International Convention for Safety of Life at Sea, 1974.
+(e) Notwithstanding the other provisions of this section, foreign passenger vessels of over 100 gross tons having berth or stateroom accommodations for more than 50 persons and departing a United States port with passengers who are United States nationals and who embarked at that port shall comply with the provisions of the International Convention for Safety of Life at Sea, 1974.
 
 (f) Notwithstanding the exceptions noted in paragraph (b) of this section, each foreign vessel must report marine casualties occurring while the vessel is in the navigable waters of the United States as required by subpart 78.07.
 

@@ -1,6 +1,6 @@
 ##### § 80.502 Tom's River, NJ to Cape May, NJ. #####
 
-(a) A line drawn from the seaward tangent of Long Beach Island to the seaward tangent to Pullen Island across Beach Haven and Little Egg Inlets, thence across Brigantine Inlet to Brigantine Island.
+(a) A line drawn from the seaward tangent of Long Beach Island to the seaward tangent to Pullen Island across Beach Haven and Little Egg Inlet, thence across Brigantine Inlet to Brigantine Island.
 
 (b) A line drawn from the seaward extremity of Absecon Inlet.
 
@@ -14,4 +14,4 @@
 
 (g) A line drawn across the seaward extremity of Cape May Inlet.
 
-[USCG-2015-0433, 80 FR 44280, July 27, 2015]
+[USCG-2015-0433, 80 FR 44280, July 27, 2015, as amended by USCG-2016-0498, 82 FR 35080, July 28, 2017]

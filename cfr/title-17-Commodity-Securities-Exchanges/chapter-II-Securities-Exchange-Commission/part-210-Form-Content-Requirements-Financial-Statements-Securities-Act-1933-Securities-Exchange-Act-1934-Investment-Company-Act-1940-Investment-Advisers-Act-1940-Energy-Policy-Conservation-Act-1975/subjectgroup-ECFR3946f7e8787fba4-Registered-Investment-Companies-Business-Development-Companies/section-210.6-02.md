@@ -1,5 +1,7 @@
 ##### § 210.6-02 Definition of certain terms. #####
 
+Link to an amendment published at 81 FR 82137, Nov. 18, 2016.
+
 The following terms shall have the meaning indicated in this rule unless the context otherwise requires. (Also see § 210.1-02 of this part.)
 
 (a) *Affiliate.* The term *affiliate* means an *affiliated person* as defined in section 2(a)(3) of the Investment Company Act of 1940 unless otherwise indicated. The term *control* has the meaning in section 2(a)(9) of that Act.

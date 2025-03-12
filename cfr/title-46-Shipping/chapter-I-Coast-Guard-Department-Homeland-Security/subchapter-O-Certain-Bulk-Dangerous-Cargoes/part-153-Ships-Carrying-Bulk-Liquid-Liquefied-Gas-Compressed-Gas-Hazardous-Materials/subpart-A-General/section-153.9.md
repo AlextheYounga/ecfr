@@ -1,12 +1,12 @@
 ##### § 153.9 Foreign flag vessel endorsement application. #####
 
-(a) *Application for a vessel whose flag administration is signatory to MARPOL 73/78 and issues IMO Certificates.* A person who desires a Certificate of Compliance endorsed to carry a cargo in table 1 of this part, as described in § 153.900 of this part, must request the endorsement from the cognizant Officer in Charge, Marine Inspection and have aboard the vessel copies of IMO Certificates issued by the vessel's administration and -
+(a) *Application for a vessel whose flag administration is signatory to MARPOL 73/78 and issues IMO Certificates.* A person who desires a Certificate of Compliance endorsed to carry a cargo in table 1 of this part, as described in § 153.900 of this part, must request the endorsement from the cognizant Officer in Charge, Marine Inspection and have aboard the vessel copies of IMO Certificates issued by the vessel's administration and—
 
 (1) An additional classification society statement that the vessel complies with § 153.530 (b), (d), and (p)(1) if a person desires a Certificate of Compliance endorsed with the name of an alkylene oxide; and
 
 (2) An additional classification society statement that the vessel complies with §§ 153.370, 153.371, and 153.438 if a person desires a Certificate of Compliance endorsed with the name of a cargo whose vapor pressure exceeds 100 kPa absolute at 37.8 °C (approximately 14.7 psia at 100 °F).
 
-(b) *Application for a vessel whose flag administration does not issue IMO Certificates.* A person who desires a Certificate of Compliance endorsed with the name of a cargo in Table 1 of this part, as described in § 153.900, must submit an application, in a written or electronic format, to Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410, that includes the following information:
+(b) *Application for a vessel whose flag administration does not issue IMO Certificates.* A person who desires a Certificate of Compliance endorsed with the name of a cargo in Table 1 of this part, as described in § 153.900, must submit an application, in a written or electronic format, to Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, that includes the following information:
 
 (1) A copy of the vessel's Cargo Ship Safety Construction Certificate and Cargo Ship Safety Equipment Certificate issued under the International Convention for Safety of Life at Sea, 1974.
 
@@ -30,4 +30,4 @@
 
 (2) Correspondence with the Coast Guard and vessel information submitted under this part must be in English except IMO Certificates which may be in French.
 
-[CGD 73-96, 42 FR 49027, Sept. 26, 1977]Editorial Note:For Federal Register citations affecting § 153.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD 73-96, 42 FR 49027, Sept. 26, 1977]Editorial Note:For Federal Register citations affecting § 153.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

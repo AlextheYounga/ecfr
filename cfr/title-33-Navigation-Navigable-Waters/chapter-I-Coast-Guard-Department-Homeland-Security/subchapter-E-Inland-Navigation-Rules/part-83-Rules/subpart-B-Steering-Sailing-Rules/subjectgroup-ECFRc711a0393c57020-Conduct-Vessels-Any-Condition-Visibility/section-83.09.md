@@ -10,7 +10,7 @@
 
 (d) A vessel must not cross a narrow channel or fairway if such crossing impedes the passage of a vessel which can safely navigate only within such channel or fairway. The latter vessel must use the signal prescribed in Rule 34(d) (§ 83.34(d)) if in doubt as to the intention of the crossing vessel.
 
-(e)(i) In a narrow channel or fairway when overtaking, the power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c) (§ 83.34(c)) and take steps to permit safe passing. The power-driven vessel being overtaken, if in agreement, shall sound the same signal and may, if specifically agreed to, take steps to permit safe passing. If in doubt she shall sound the danger signal prescribed in Rule 34(d) (§ 83.34(d)).
+(e)(i) In a narrow channel or fairway when overtaking, the power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c) (§ 83.34(c)) and take steps to permit safe passing. The power-driven vessel being overtaken, if in agreement, shall sound the same signal and may, if specifically agreed to, take steps to permit safe passing. If in doubt she shall sound the signal prescribed in Rule 34(d) (§ 83.34(d)).
 
 (ii) This Rule does not relieve the overtaking vessel of her obligation under Rule 13 (§ 83.13).
 
@@ -18,4 +18,4 @@
 
 (g) Any vessel shall, if the circumstances of the case admit, avoid anchoring in a narrow channel.
 
-[79 FR 37912, July 2, 2014, as amended by USCG-2015-0433, 80 FR 44280, July 27, 2015]
+[USCG-2012-0102, 79 FR 37912, July 2, 2014, as amended by USCG-2015-0433, 80 FR 44280, July 27, 2015; USCG-2016-0498, 82 FR 35080, July 28, 2017]

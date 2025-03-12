@@ -1,6 +1,6 @@
 ##### § 162.050-7 Approval procedures. #####
 
-(a) An application for approval of equipment under this subpart must either be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 4200 Wilson Boulevard Suite 400, Arlington, VA 22203, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
+(a) An application for approval of equipment under this subpart must either be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
 
 (b) The application is examined by the Coast Guard to determine whether the item complies with the design requirements and vibration standard prescribed in this subpart and to determine what probability the item has of passing the approval tests. The applicant is notified of the results of the examination.
 
@@ -48,4 +48,4 @@
 
 (4) Any substance used in operating the alarm that requires certification under part 147 of this chapter as an article of ships' stores or supplies has been certified.
 
-[44 FR 53359, Sept. 13, 1979]Editorial Note:For Federal Register citations affecting § 160.050-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[44 FR 53359, Sept. 13, 1979]Editorial Note:For Federal Register citations affecting § 160.050-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

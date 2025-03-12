@@ -10,9 +10,9 @@
 
 (i) Requirements for approval of BWMS are found in 46 CFR part 162.060.
 
-(ii) Requests for approval of BWMS must be submitted to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard, Suite 400, Arlington, VA 20598-7410, or by email to *msc@uscg.mil.*
+(ii) Requests for approval of BWMS must be submitted to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, or by email to *msc@uscg.mil.*
 
-(4) Use only water from a U.S. public water system (PWS), as defined in 40 CFR 141.2 and that meets the requirements of 40 CFR parts 141 and 143, as ballast water. Vessels using water from a PWS as ballast must maintain a record of which PWS they received the water and a receipt, invoice, or other documentation from the PWS indicating that water came from that system. Furthermore, they must certify that they have met the conditions in paragraphs (a)(4)(i) or (ii) of this section, as applicable. Vessels using water from a PWS must use such water exclusively for all ballast water unless the usage is in accordance with § 151.1515 of this subpart. Vessels using PWS water as ballast must have either -
+(4) Use only water from a U.S. public water system (PWS), as defined in 40 CFR 141.2 and that meets the requirements of 40 CFR parts 141 and 143, as ballast water. Vessels using water from a PWS as ballast must maintain a record of which PWS they received the water and a receipt, invoice, or other documentation from the PWS indicating that water came from that system. Furthermore, they must certify that they have met the conditions in paragraphs (a)(4)(i) or (ii) of this section, as applicable. Vessels using water from a PWS must use such water exclusively for all ballast water unless the usage is in accordance with § 151.1515 of this subpart. Vessels using PWS water as ballast must have either—
 
 (i) Previously cleaned the ballast tanks (including removing all residual sediments) and not subsequently introduced ambient water; or
 
@@ -24,4 +24,4 @@
 
 (d) Unless otherwise expressly provided for in this subpart, the master, owner, operator, agent, or person in charge of vessels employing a Coast Guard-approved BWMS must meet the applicable ballast water discharge standard, found in § 151.1511 of this subpart, at all times of ballast water discharge into the waters of the United States.
 
-[CGD 91-066, 58 FR 18334, Apr. 8, 1993, as amended by CGD 94-003, 59 FR 67634, Dec. 30, 1994; USCG-1998-3423, 66 FR 58390, Nov. 21, 2001; USCG-2010-0351, 75 FR 36284, June 25, 2010; USCG-2001-10486, 77 FR 17304, Mar. 23, 2012; 77 FR 33970, June 8, 2012; USCG-2014-0410, 79 FR 38435, July 7, 2014]
+[CGD 91-066, 58 FR 18334, Apr. 8, 1993, as amended by CGD 94-003, 59 FR 67634, Dec. 30, 1994; USCG-1998-3423, 66 FR 58390, Nov. 21, 2001; USCG-2010-0351, 75 FR 36284, June 25, 2010; USCG-2001-10486, 77 FR 17304, Mar. 23, 2012; 77 FR 33970, June 8, 2012; USCG-2014-0410, 79 FR 38435, July 7, 2014; USCG-2016-0498, 82 FR 35082, July 28, 2017]

@@ -42,7 +42,7 @@
 
 (d) A casualty to a commercial fishing industry vessel must be reported to an organization that has knowledge and experience in the collection and processing of statistical insurance data and that has been accepted by the Commandant to receive and process casualty data under this part. The Commandant has accepted for this purpose:
 
-(1) Marine Index Bureau (a division of ISO Claim Search), Floor 22-8, 545 Washington Boulevard, Jersey City, NJ, 07310-1686.
+(1) Verisk Insurance Solutions, ISO Claim Search® Solutions, 545 Washington Boulevard, Jersey City, NJ 07310.
 
 (2) [Reserved]
 
@@ -50,4 +50,4 @@ Note:
 
 The Coast Guard intends to treat information collected under this section from underwriters of primary insurance as exempt from disclosure under the Freedom of Information Act because it is commercial and financial information which, if disclosed, would be likely to cause substantial harm to the competitive position of the underwriter.
 
-[CGD 88-079, 56 FR 40393, Aug. 14, 1991, as amended by CGD 96-046, 61 FR 57273, Nov. 5, 1996; USCG-2008-0906, 73 FR 56509, Sept. 29, 2008]
+[CGD 88-079, 56 FR 40393, Aug. 14, 1991, as amended by CGD 96-046, 61 FR 57273, Nov. 5, 1996; USCG-2008-0906, 73 FR 56509, Sept. 29, 2008; USCG-2016-0498, 82 FR 35089, July 28, 2017]

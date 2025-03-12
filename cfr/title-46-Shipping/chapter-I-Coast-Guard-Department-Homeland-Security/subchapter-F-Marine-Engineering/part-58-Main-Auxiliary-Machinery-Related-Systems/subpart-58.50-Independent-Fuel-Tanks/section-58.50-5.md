@@ -1,36 +1,29 @@
 ##### § 58.50-5 Gasoline fuel tanks. #####
 
-(a) *Construction* - (1) *Shape.* Tanks may be of either cylindrical or rectangular form, except that tanks for emergency electrical systems shall be of cylindrical form.
+(a) *Construction*—(1) *Shape.* Tanks may be of either cylindrical or rectangular form, except that tanks for emergency electrical systems shall be of cylindrical form.
 
-(2) *Materials and construction.* The material used and the minimum thickness allowed shall be as indicated in Table 58.50-5(a) except that consideration will be given to other materials which provide equivalent safety as indicated in § 58.50-15.
+(2) *Materials and construction.* The material used and the minimum thickness allowed shall be as indicated in Table 1 to § 58.50-5(a) except that consideration will be given to other materials which provide equivalent safety as indicated in § 58.50-15.
 
 (3) *Prohibited types.* Tanks with flanged-up top edges that may trap and hold moisture shall not be used.
 
 (4) *Openings.* Openings for fill, vent and fuel pipes, and openings for fuel level gages where used, shall be on the topmost surface of tanks. Tanks shall have no openings in bottoms, sides, or ends, except that an opening fitted with threaded plug or cap may be used for tank cleaning purposes.
 
-Table 58.50-5(a)
-
-|         Material         |ASTM specification (all incorporated by reference; see 46 CFR 58.03-1)|Thickness in inches and gage numbers<sup>1</sup> vs. tank capacities for -|                 |                |
-|--------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|----------------|
-|1- through 80-gallon tanks|           More than 80- and not more than 150-gallon tanks           |                    Over 150-gallon tanks<sup>2</sup>                     |                 |                |
-|   Aluminum<sup>5</sup>   |                    B 209, Alloy 5086<sup>6</sup>                     |                              0.250 (USSG 3)                              | 0.250 (USSG 3)  |0.250 (USSG 3). |
-|      Nickel-copper       |                   B 127, Hot rolled sheet or plate                   |                       0.037 (USSG 20).<sup>3</sup>                       | 0.050 (USSG 18) |0.107 (USSG 12).|
-|      Copper-nickel       |                          B 122, Alloy No. 5                          |                              0.045 (AWG 17)                              | 0.057 (AWG 15)  | 0.128 (AWG 8). |
-|          Copper          |                           B 152, Type ETP                            |                              0.057 (AWG 15)                              | 0.080 (AWG 12)  | 0.182 (AWG 5). |
-|      Copper-silicon      |                    B 96, alloys C65100 and C65500                    |                              0.050 (AWG 16)                              | 0.064 (AWG 14)  | 0.144 (AWG 7). |
-|Steel or iron<sup>4</sup> |                          0.0747 (MfgStd 14)                          |                            0.1046 (MfgStd 12)                            |0.179 (MfgStd 7).|                |
-
-<sup>1</sup> Gauges used are U.S. standard “USSG” for aluminum and nickel-copper; “AWG” for copper, copper-nickel and copper-silicon; and “MfgStd” for steel.
-
-<sup>2</sup> Tanks over 400 gallons shall be designed with a factor of safety of four on the ultimate strength of the material used with a design head of not less than 4 feet of liquid above the top of the tank.
-
-<sup>3</sup> Nickel-copper not less than 0.031 inch (USSG 22) may be used for tanks up to 30-gallon capacity.
-
-<sup>4</sup> Fuel tanks constructed of iron or steel, which is less than3/16-inch thick shall be galvanized inside and outside by the hot dip process.
-
-<sup>5</sup> Anodic to most common metals. Avoid dissimilar metal contact with tank body.
-
-<sup>6</sup> And other alloys acceptable to the Commandant.
+|                                                                                                     Material                                                                                                     |ASTM specification  <br/>(all incorporated by reference; see 46 CFR 58.03-1)|Thickness in inches and gage numbers <sup>1</sup> vs. tank capacities for—|                  |                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------|-----------------|
+|                                                                                            1- through 80-gallon tanks                                                                                            |              More than 80- and not more than 150-gallon tanks              |                    Over 150-gallon tanks <sup>2</sup>                    |                  |                 |
+|                                                                                              Aluminum <sup>5</sup>                                                                                               |                       B 209, Alloy 5086 <sup>6</sup>                       |                              0.250 (USSG 3)                              |  0.250 (USSG 3)  | 0.250 (USSG 3). |
+|                                                                                                  Nickel-copper                                                                                                   |                      B 127, Hot rolled sheet or plate                      |                       0.037 (USSG 20) <sup>3</sup>                       | 0.050 (USSG 18)  |0.107 (USSG 12). |
+|                                                                                                  Copper-nickel                                                                                                   |                             B 122, Alloy No. 5                             |                              0.045 (AWG 17)                              |  0.057 (AWG 15)  | 0.128 (AWG 8).  |
+|                                                                                                      Copper                                                                                                      |                              B 152, Type ETP                               |                              0.057 (AWG 15)                              |  0.080 (AWG 12)  | 0.182 (AWG 5).  |
+|                                                                                                  Copper-silicon                                                                                                  |                       B 96, alloys C65100 and C65500                       |                              0.050 (AWG 16)                              |  0.064 (AWG 14)  | 0.144 (AWG 7).  |
+|                                                                                            Steel or iron <sup>4</sup>                                                                                            |                                                                            |                            0.0747 (MfgStd 14)                            |0.1046 (MfgStd 12)|0.179 (MfgStd 7).|
+|                                                                                                    **Notes:**                                                                                                    |                                                                            |                                                                          |                  |                 |
+|                          <sup>1</sup> Gauges used are U.S. standard “USSG” for aluminum and nickel-copper; “AWG” for copper, copper-nickel and copper-silicon; and “MfgStd” for steel.                           |                                                                            |                                                                          |                  |                 |
+|<sup>2</sup> Tanks over 400 gallons will be designed with a factor of safety of four on the ultimate strength of the material used with a design head of not less than 4 feet of liquid above the top of the tank.|                                                                            |                                                                          |                  |                 |
+|                                                 <sup>3</sup> Nickel-copper not less than 0.031 inch (USSG 22) may be used for tanks up to a 30-gallon capacity.                                                  |                                                                            |                                                                          |                  |                 |
+|                              <sup>4</sup> Fuel tanks constructed of iron or steel, which is less than 3/16-inch thick must be galvanized inside and outside by the hot dip process.                              |                                                                            |                                                                          |                  |                 |
+|                                                            <sup>5</sup> Anodic to most common metals. Avoid dissimilar metal contact with tank body.                                                             |                                                                            |                                                                          |                  |                 |
+|                                                                           <sup>6</sup> And other alloys acceptable to the Commandant.                                                                            |                                                                            |                                                                          |                  |                 |
 
 (5) *Joints.* All metallic tank joints shall be welded or brazed.
 
@@ -56,4 +49,4 @@ Table 58.50-5(a)
 
 (3) All tanks not vented to atmosphere shall be constructed and tested in accordance with part 54 of this subchapter.
 
-[CGFR 68-82, 33 FR 18878, Dec. 18, 1968, as amended by CGFR 72-59R, 37 FR 6190, Mar. 25, 1972; USCG-1999-5151, 64 FR 67180, Dec. 1, 1999; USCG-2003-16630, 73 FR 65187, Oct. 31, 2008]
+[CGFR 68-82, 33 FR 18878, Dec. 18, 1968, as amended by CGFR 72-59R, 37 FR 6190, Mar. 25, 1972; USCG-1999-5151, 64 FR 67180, Dec. 1, 1999; USCG-2003-16630, 73 FR 65187, Oct. 31, 2008; USCG-2016-0498, 82 FR 35089, July 28, 2017]

@@ -12,7 +12,7 @@ As used in this part:
 
 (4) Excluding radio equipment.
 
-*Boat* means any vessel -
+*Boat* means any vessel—
 
 (1) Manufactured or used primarily for noncommercial use;
 
@@ -24,16 +24,14 @@ As used in this part:
 
 *Date of manufacture* means the month and year during which construction or assembly of a boat or item of associated equipment begins.
 
-*Manufacturer* means any person engaged in -
+*Manufacturer* means any person engaged in—
 
 (1) The manufacture, construction, or assembly of boats or associated equipment; or
 
 (2) The importation of boats, associated equipment, or the components thereof, into the United States for sale.
 
-*Model year* means the period beginning August 1 of any year and ending on July 31 of the following year. Each model year is designated by the year in which it ends.
-
 *Private label merchandiser* means any person engaged in the business of selling and distributing, under his own trade name, boats, or items of associated equipment manufactured by another.
 
 *State* means a State of the United States, Guam, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
-[CGD 96-026, 61 FR 33669, June 28, 1996; 61 FR 36786, July 12, 1996, as amended by USCG-1999;-5040, May 15, 2002; USCG-2003-14963, 77 FR 18703, Mar. 28, 2012]
+[CGD 96-026, 61 FR 33669, June 28, 1996; 61 FR 36786, July 12, 1996, as amended by USCG-1999;-5040, May 15, 2002; USCG-2003-14963, 77 FR 18703, Mar. 28, 2012; USCG-2016-0498, 82 FR 35089, July 28, 2017]

@@ -22,7 +22,7 @@
 
 (iii) Two towing lights in a vertical line.
 
-(d) A power-driven vessel to which paragraphs (a) or (c) of this Rule apply shall also comply with Rule 23(a) (i) and 23(a)(ii)(§ 83.23(a)(i) or (ii)).
+(d) A power-driven vessel to which paragraphs (a) or (c) of this Rule applies shall also comply with Rule 23(a) (i) and 23(a)(ii)(§ 83.23(a)(i) or (ii)).
 
 (e) A vessel or object other than those referred to in paragraph (g) of this Rule being towed shall exhibit:
 
@@ -54,12 +54,12 @@
 
 (h) Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
 
-(i) Notwithstanding paragraph (c) of this Rule, on the Western Rivers (except below the Huey P. Long Bridge at mile 106.1 Above Head of Passes on the Mississippi River) and on waters specified by the Secretary, a power-driven vessel when pushing ahead or towing alongside, except as paragraph (b) of this Rule applies, shall exhibit:
+(i) Where from any sufficient cause it is impracticable for a vessel not normally engaged in towing operations to display the lights prescribed by paragraph (a), (c) or (j) of this Rule, such vessel shall not be required to exhibit those lights when engaged in towing another vessel in distress or otherwise in need of assistance. All possible measures shall be taken to indicate the nature of the relationship between the towing vessel and the vessel being assisted. The searchlight authorized by Rule 36 (§ 83.36) may be used to illuminate the tow.
+
+(j) Notwithstanding paragraph (c) of this Rule, on the Western Rivers (except below the Huey P. Long Bridge at mile 106.1 Above Head of Passes on the Mississippi River) and on waters specified by the Secretary, a power-driven vessel when pushing ahead or towing alongside, except as paragraph (b) of this Rule applies, shall exhibit:
 
 (i) Sidelights; and
 
 (ii) Two towing lights in a vertical line.
 
-(j) Where from any sufficient cause it is impracticable for a vessel not normally engaged in towing operations to display the lights prescribed by paragraph (a), (c) or (i) of this Rule, such vessel shall not be required to exhibit those lights when engaged in towing another vessel in distress or otherwise in need of assistance. All possible measures shall be taken to indicate the nature of the relationship between the towing vessel and the vessel being assisted. The searchlight authorized by Rule 36 (§ 83.36) may be used to illuminate the tow.
-
-[79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68622, Nov. 18, 2014; USCG-2015-0433, 80 FR 44280, July 27, 2015]
+[79 FR 37912, July 2, 2014, as amended by USCG-2012-0102, 79 FR 68622, Nov. 18, 2014; USCG-2015-0433, 80 FR 44280, July 27, 2015; USCG-2016-0498, 82 FR 35080, July 28, 2017]

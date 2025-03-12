@@ -64,8 +64,6 @@ As used in this subchapter -
 
 (5) Other spaces with similar environmental conditions.
 
-*Marine inspector* or *inspector* means a civilian employee or military member of the Coast Guard assigned by an Officer in Charge, Marine Inspection, or the Commandant to perform duties with respect to the inspection, enforcement, and administration of vessel safety and navigation laws and regulations.
-
 *Non-hazardous* means an area in which an explosive gas atmosphere is not expected to be present in quantities that require special precautions for the construction, installation, and use of electrical equipment.
 
 *Nonsparking fan* means nonsparking fan as defined in ABS Steel Vessel Rules (incorporated by reference; see 46 CFR 110.10-1), section 4-8-3/11.
@@ -75,8 +73,6 @@ As used in this subchapter -
 *OCS activity* has the same meaning as it does in 33 CFR 140.10.
 
 *Outer Continental Shelf (OCS)* has the same meaning as it does in 33 CFR 140.10.
-
-*Qualified person* means a person who by virtue of that person's knowledge, ability, experience, specialized training, or licensing can competently and safely perform required electrical duties or functions.
 
 *Shut-off valve* is a valve that closes a pipeline and provides nominal metal-to-metal contact between the valve operating parts, including the disc and gate, and the valve body.
 
@@ -92,4 +88,4 @@ As used in this subchapter -
 
 *Zone 2* is a hazardous location in which an explosive gas or vapor in mixture with air is not likely to occur in normal operating conditions, or in which such a mixture, if it does occur, will only exist for a short time.
 
-[CGD 94-108, 61 FR 28274, June 4, 1996, as amended at 62 FR 23907, May 1, 1997; 62 FR 27659, May 20, 1997; USCG-2000-7790, 65 FR 58462, Sept. 29, 2000; USCG-2003-16630, 73 FR 65195, Oct. 31, 2008; USCG-2013-0671, 78 FR 60152, Sept. 30, 2013; USCG-2012-0208, 79 FR 48929, Aug. 18, 2014; USCG-2012-0850, 80 FR 16995, Mar. 31, 2015]
+[CGD 94-108, 61 FR 28274, June 4, 1996, as amended at 62 FR 23907, May 1, 1997; 62 FR 27659, May 20, 1997; USCG-2000-7790, 65 FR 58462, Sept. 29, 2000; USCG-2003-16630, 73 FR 65195, Oct. 31, 2008; USCG-2013-0671, 78 FR 60152, Sept. 30, 2013; USCG-2012-0208, 79 FR 48929, Aug. 18, 2014; USCG-2012-0850, 80 FR 16995, Mar. 31, 2015; USCG-2016-0498, 82 FR 35091, July 28, 2017]

@@ -4,7 +4,7 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (a) An owner or operator of any barge fleeting facility subject to this part is exempt from complying with § 105.265, Security measures for handling cargo; and § 105.270, Security measures for delivery of vessel stores and bunkers.
 
-(b) A public access area designated under § 105.106 is exempt from the requirements for screening of persons, baggage, and personal effects and identification of persons in § 105.255(c), (e)(1), (e)(3), (f)(1), and (g)(1) and § 105.285(a)(1).
+(b) A public access area designated under § 105.106 is exempt from the requirements for screening of persons, baggage, and personal effects and identification of persons in §§ 105.255(c), (f)(2) and (4), (g)(1), and (h)(1) and 105.285(a)(1).
 
 (c) An owner or operator of any general shipyard facility as defined in § 101.105 is exempt from the requirements of this part unless the facility:
 
@@ -24,4 +24,4 @@ Link to an amendment published at 81 FR 57711, Aug. 23, 2016.
 
 (e) An owner or operator of a facility is not subject to this part if the facility receives only vessels to be laid-up, dismantled, or otherwise placed out of commission provided that the vessels are not carrying and do not receive cargo or passengers at that facility.
 
-[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60540, Oct. 22, 2003]
+[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60540, Oct. 22, 2003; USCG-2016-0498, 82 FR 35080, July 28, 2017]

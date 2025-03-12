@@ -16,6 +16,6 @@
 
 (e) *Right of appeal.* Any person directly affected by a decision or action taken under this part may appeal in accordance with § 1.03 of this chapter.
 
-(f)*Rescinding an exemption letter.* Exemptions granted may be rescinded by the District Commander if it is subsequently determined that the safety of the vessel and those onboard is adversely affected.
+(f) *Rescinding an exemption letter.* Exemptions granted may be rescinded by the District Commander if it is subsequently determined that the safety of the vessel and those onboard is adversely affected.
 
 [CGD 96-046, 62 FR 46675, Sept. 4, 1997]

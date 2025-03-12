@@ -1,6 +1,6 @@
 ##### § 63.25-9 Incinerators. #####
 
-(a) *General.* Incinerators installed on or after March 26, 1998, must meet the requirements of IMO MEPC.76(40) (incorporated by reference; see 46 CFR 63.05-1). Incinerators in compliance with ISO 13617 (incorporated by reference; see 46 CFR 63.05-1), are considered to meet IMO MEPC.76(40). Incinerators in compliance with both ASTM F 1323 (incorporated by reference; see 46 CFR 63.05-1) and Annexes A1-A3 of IMO MEPC.76(40) are considered to meet IMO MEPC.76(40). An application for type approval of shipboard incinerators must be sent to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 4200 Wilson Boulevard Suite 400, Arlington, VA 22203, or they may be transmitted by mail to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410..
+(a) *General.* Incinerators installed on or after March 26, 1998 must meet the requirements of IMO MEPC.76(40) (incorporated by reference; see § 63.05-1). Incinerators in compliance with ISO 13617 (incorporated by reference; see § 63.05-1), are considered to meet IMO MEPC.76(40). Incinerators in compliance with both ASTM F 1323 (incorporated by reference; see § 63.05-1) and Annexes A1-A3 of IMO MEPC.76(40) are considered to meet IMO MEPC.76(40). An application for type approval of shipboard incinerators may be delivered to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or it may be transmitted by mail to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430.
 
 (b) *Testing.* Before type approval is granted, the manufacturer must have tests conducted, or submit evidence that such tests have been conducted by an independent laboratory acceptable to the Commandant (CG-521). The laboratory must:
 
@@ -42,4 +42,4 @@
 
 (7) ISO 10396 (incorporated by reference; see 46 CFR 63.05-1).
 
-[USCG-2003-16630, 73 FR 65191, Oct. 31, 2008, as amended by USCG-2009-0702, 74 FR 49229, Sept. 25, 2009; USCG-2013-0671, 78 FR 60149, Sept. 30, 2013]
+[USCG-2003-16630, 73 FR 65191, Oct. 31, 2008, as amended by USCG-2009-0702, 74 FR 49229, Sept. 25, 2009; USCG-2013-0671, 78 FR 60149, Sept. 30, 2013; USCG-2016-0498, 82 FR 35090, July 28, 2017]

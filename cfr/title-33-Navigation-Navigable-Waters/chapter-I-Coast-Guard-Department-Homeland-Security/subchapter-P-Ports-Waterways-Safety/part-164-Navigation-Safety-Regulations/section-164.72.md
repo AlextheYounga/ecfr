@@ -66,7 +66,7 @@
 
 (B) Applicable Notices to Navigation published by the ACOE, or Local Notices to Mariners (LNMs) published by the Coast Guard, for the area to be transited, when available; and
 
-(C) River-current tables published by the ACOE or a river authority, if available.
+(C) River-current tables published by a river authority, if available.
 
 (ii) If the vessel is engaged other than in towing exclusively on Western Rivers -
 
@@ -111,4 +111,4 @@ Notes:
 
 <sup>3</sup> A towing vessel may carry either a swing-meter or a magnetic compass.
 
-[CGD 94-020, 61 FR 35073, July 3, 1996, as amended by CGD 97-034, 62 FR 40272, July 28, 1997; USCG-1999-5832, 64 FR 34715, June 29, 1999; USCG-2001-9286, 66 FR 33641, June 25, 2001; USCG-2010-0351, 75 FR 36287, June 25, 2010; USCG-2011-0257, 76 FR 31838, June 2, 2011; USCG-2015-0433, 80 FR 44282, July 27, 2015]
+[CGD 94-020, 61 FR 35073, July 3, 1996, as amended by CGD 97-034, 62 FR 40272, July 28, 1997; USCG-1999-5832, 64 FR 34715, June 29, 1999; USCG-2001-9286, 66 FR 33641, June 25, 2001; USCG-2010-0351, 75 FR 36287, June 25, 2010; USCG-2011-0257, 76 FR 31838, June 2, 2011; USCG-2015-0433, 80 FR 44282, July 27, 2015; USCG-2016-0498, 82 FR 35088, July 28, 2017]

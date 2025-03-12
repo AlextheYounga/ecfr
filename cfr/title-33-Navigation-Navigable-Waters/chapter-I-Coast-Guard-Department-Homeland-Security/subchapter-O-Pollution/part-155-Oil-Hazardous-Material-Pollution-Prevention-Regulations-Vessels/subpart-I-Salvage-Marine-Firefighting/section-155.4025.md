@@ -16,7 +16,7 @@ For the purposes of this subpart, the following definitions apply:
 
 (ii) A written certification that the personnel, equipment, and capabilities required by this subpart are available and under the vessel owner or operator's direct control. If the planholder has personnel, equipment and capabilities under their direct control, they need not contract those items with a resource provider.
 
-(iii) An alternative approved by the Coast Guard (Commandant, Director of Prevention Policy (CG-54)) and submitted in accordance with 33 CFR 155.1065(f) and 155.5067(a).
+(iii) An alternative approved by the Coast Guard (Assistant Commandant for Response Policy (CG-5R)) and submitted in accordance with 33 CFR 155.1065(f) and 155.5067(a).
 
 (2) As part of the contract or other approved means you must develop and sign, with your resource provider, a written funding agreement. This funding agreement is to ensure that salvage and marine firefighting responses are not delayed due to funding negotiations. The funding agreement must include a statement of how long the agreement remains in effect, and must be provided to the Coast Guard for VRP approval. In addition any written agreement with a public resource provider must be included in the planholder's Vessel Response Plan (VRP).
 
@@ -74,4 +74,4 @@ For the purposes of this subpart, the following definitions apply:
 
 *Underwater vessel and bottom survey* means having salvage resources on scene that can perform examination and analysis of the vessel's hull and equipment below the water surface. These resources also include the ability to determine the bottom configuration and type for the body of water. This service can be accomplished through the use of equipment such as sonar, magnetometers, remotely operated vehicles or divers. When divers are used to perform these services, the time requirements for this service apply and not those of diving services support.
 
-[USCG-1998-3417, 73 FR 80649, Dec. 31, 2008, as amended by USCG-2008-1070, 78 FR 60124, Sept. 30, 2013]
+[USCG-1998-3417, 73 FR 80649, Dec. 31, 2008, as amended by USCG-2008-1070, 78 FR 60124, Sept. 30, 2013; USCG-2016-0498, 82 FR 35082, July 28, 2017]

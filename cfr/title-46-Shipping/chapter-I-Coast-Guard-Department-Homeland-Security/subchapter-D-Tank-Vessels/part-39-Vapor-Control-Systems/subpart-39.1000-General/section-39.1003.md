@@ -1,4 +1,4 @@
-##### § 39.1003 Definitions - TB/ALL. #####
+##### § 39.1003 Definitions—TB/ALL. #####
 
 As used in this part only:
 
@@ -32,7 +32,7 @@ As used in this part only:
 
 *Inerted* means the oxygen content of the vapor space in a cargo tank is reduced in accordance with the inert gas requirements of 46 CFR 32.53 or 33 CFR 153.500. If a cargo vapor in a cargo tank that is connected to the vapor collection system is defined as inerted at the start of cargo transfer, the oxygen content in the vapor space of the cargo tank must not exceed 60 percent by volume of the cargo's minimum oxygen concentration for combustion, or 8 percent by volume for vapor of crude oil, gasoline blends, or benzene.
 
-*Marine Safety Center (MSC)* means Commanding Officer, Marine Safety Center, U.S. Coast Guard, 4200 Wilson Boulevard Suite 400, Arlington, VA 22203 for visitors. Send all mail to Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410.
+*Marine Safety Center (MSC)* means Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593 for visitors. Send all mail to Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430.
 
 *Maximum allowable gas-freeing rate* means the maximum volumetric rate at which a barge may be gas-freed during cleaning operations.
 
@@ -60,7 +60,7 @@ As used in this part only:
 
 *Vapor processing unit* means the components of a VCS that recover, destroy, or disperse vapor collected from a vessel.
 
-*Vessel-to-vessel transfer (direct or through a shore loop)* means either -
+*Vessel-to-vessel transfer (direct or through a shore loop)* means either—
 
 (1) The transfer of a bulk liquid cargo from a tank vessel to a service vessel; or
 
@@ -68,4 +68,4 @@ As used in this part only:
 
 *Vessel vapor connection* means the point in a vessel's fixed vapor collection system where the system connects with the vapor collection hose or arm.
 
-[USCG-1999-5150, 78 FR 42642, July 16, 2013, as amended by USCG-2013-0671, 78 FR 60147, Sept. 30, 2013]
+[USCG-1999-5150, 78 FR 42642, July 16, 2013, as amended by USCG-2013-0671, 78 FR 60147, Sept. 30, 2013; USCG-2016-0498, 82 FR 35089, July 28, 2017]

@@ -74,19 +74,17 @@
 
 (o) Ampacities of wires must meet Section 310-15 of the NEC (NFPA 70), or other standard specified by the Commandant. Ampacities of cables must meet table A6 of Institute of Electrical and Electronic Engineers (IEEE) Standard 45, “Recommended Practice for Electrical Installations on Shipboard,” or other standard specified by the Commandant. Ampacities for Navy cable must meet NAVSEA Design Data Sheet (DDS) 304-2 “Electrical Cable, Ratings and Characteristics” as appropriate.
 
-(p) Conductors must be sized so that the voltage drop at the load terminals does not exceed 10 percent. Table 120.3340(p) indicates the size of conductor required for corresponding lengths and steady state (stable) values to obtain not more than this voltage drop at the load terminals of a two conductor circuit.
+(p) Conductors must be sized so that the voltage drop at the load terminals does not exceed 10 percent. Table 1 to § 120.340(p) indicates the size of conductor required for corresponding lengths and steady state (stable) values to obtain not more than this voltage drop at the load terminals of a two conductor circuit.
 
-Table 120.340(p) - Conductor Sizes for Amperes - Lengths
-
-|          Total current on circuit, amperes           |Length of conductor in meters (feet) from source of current to most distant fixture|              |              |              |               |               |               |               |               |               |   |
-|------------------------------------------------------|-----------------------------------------------------------------------------------|--------------|--------------|--------------|---------------|---------------|---------------|---------------|---------------|---------------|---|
-|                    3.1  <br/>(10)                    |                                  4.5  <br/>(15)                                   |6.1  <br/>(20)|7.6  <br/>(25)|9.2  <br/>(30)|10.7  <br/>(35)|12.2  <br/>(40)|13.7  <br/>(45)|15.2  <br/>(50)|16.8  <br/>(55)|18.3  <br/>(60)|   |
-|12 volts, 2-wire - 10 percent drop wire sizes (A.W.G.)|                                                                                   |              |              |              |               |               |               |               |               |               |   |
-|                          5                           |                                        14                                         |      14      |      14      |      14      |      14       |      14       |      14       |      14       |      12       |      12       |12 |
-|                          14                          |                                        14                                         |      14      |      14      |      12      |      12       |      12       |      10       |      10       |      10       |      10       | 8 |
-|                          15                          |                                        14                                         |      14      |      12      |      10      |      10       |      10       |       8       |       8       |       8       |       8       | 8 |
-|                          20                          |                                        12                                         |      12      |      10      |      10      |       8       |       8       |       8       |       8       |       6       |       6       | 6 |
-|                          25                          |                                        10                                         |      10      |      10      |      8       |       8       |       8       |       6       |       6       |       6       |       6       | 4 |
+|         Total current on circuit, amperes          |Length of conductor in meters (feet) from source of current to most distant fixture|              |              |              |               |               |               |               |               |               |   |
+|----------------------------------------------------|-----------------------------------------------------------------------------------|--------------|--------------|--------------|---------------|---------------|---------------|---------------|---------------|---------------|---|
+|                   3.1  <br/>(10)                   |                                  4.5  <br/>(15)                                   |6.1  <br/>(20)|7.6  <br/>(25)|9.2  <br/>(30)|10.7  <br/>(35)|12.2  <br/>(40)|13.7  <br/>(45)|15.2  <br/>(50)|16.8  <br/>(55)|18.3  <br/>(60)|   |
+|12 volts, 2-wire—10 percent drop wire sizes (A.W.G.)|                                                                                   |              |              |              |               |               |               |               |               |               |   |
+|                         5                          |                                        14                                         |      14      |      14      |      14      |      14       |      14       |      14       |      14       |      12       |      12       |12 |
+|                         14                         |                                        14                                         |      14      |      14      |      12      |      12       |      12       |      10       |      10       |      10       |      10       | 8 |
+|                         15                         |                                        14                                         |      14      |      12      |      10      |      10       |      10       |       8       |       8       |       8       |       8       | 8 |
+|                         20                         |                                        12                                         |      12      |      10      |      10      |       8       |       8       |       8       |       8       |       6       |       6       | 6 |
+|                         25                         |                                        10                                         |      10      |      10      |      8       |       8       |       8       |       6       |       6       |       6       |       6       | 4 |
 
 Other values can be computed by means of the following formula:
 
@@ -106,4 +104,4 @@ Other values can be computed by means of the following formula:
 
 (r) A portable or temporary electric cord or cable must be constructed and used in compliance with the requirements of § 111.60-13 in subchapter J of this chapter for a flexible electric cord or cable.
 
-[CGD 85-080, 61 FR 928, Jan. 10, 1996; 61 FR 20556, May 7, 1996, as amended at 62 FR 51352, Sept. 30, 1997]
+[CGD 85-080, 61 FR 928, Jan. 10, 1996; 61 FR 20556, May 7, 1996, as amended at 62 FR 51352, Sept. 30, 1997; USCG-2016-0498, 82 FR 35092, July 28, 2017]

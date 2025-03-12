@@ -1,6 +1,6 @@
 ##### § 116.202 Plans and information required. #####
 
-(a) Except as provided in § 116.210 of this part, the owner of a vessel requesting initial inspection for certification must, prior to the start of construction, submit for approval three copies of the following plans. The plans may be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 4200 Wilson Boulevard Suite 400, Arlington, VA 22203, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
+(a) Except as provided in § 116.210, the owner of a vessel requesting initial inspection for certification must, prior to the start of construction, submit for approval three copies of the following plans. The plans may be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
 
 (1) Outboard profile;
 
@@ -82,4 +82,4 @@
 
 (c) For a vessel, the construction of which was begun prior to approval of the plans and information required by paragraphs (a) and (b) of this section, the cognizant OCMI may require any additional plans and information, manufacturers' certifications of construction, testing including reasonable destructive testing, and inspections, which the OCMI determines are necessary to verify that the vessel complies with the requirements of this subchapter.
 
-[CGD 85-080, 61 FR 900, Jan. 10, 1996; 61 FR 24464, May 15, 1996; USCG-2007-29018, 72 FR 53966, Sept. 21, 2007; USCG-2009-0702, 74 FR 49234, Sept. 25, 2009; USCG-2013-0671, 78 FR 60153, Sept. 30, 2013]
+[CGD 85-080, 61 FR 900, Jan. 10, 1996; 61 FR 24464, May 15, 1996; USCG-2007-29018, 72 FR 53966, Sept. 21, 2007; USCG-2009-0702, 74 FR 49234, Sept. 25, 2009; USCG-2013-0671, 78 FR 60153, Sept. 30, 2013; USCG-2016-0498, 82 FR 35091, July 28, 2017]

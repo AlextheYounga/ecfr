@@ -4,15 +4,13 @@
 
 (b) Reporting Points.
 
-Table 161.45(b) - VTS St. Marys River Reporting Points
-
 |Designator|    Geographic name    |  Geographic description  |  Latitude/longitude   |     Notes     |
 |----------|-----------------------|--------------------------|-----------------------|---------------|
 |    1     |    Ile Parisienne     |   Ile Parisienne Light   |46°37.3′ N; 84°45.9′ W |Downbound Only.|
 |    2     |     Gros Cap Reef     |   Gros Cap Reefs Light   |46°30.6′ N; 84°37.1′ W | Upbound Only. |
 |    3     |     Round Island      |  Round Island Light 32   |46°26.9′ N; 84°31.7′W. |               |
 |    4     |     Pointe Louise     |   Pointe Louise Light    |46°27.8′ N; 84°28.2′W. |               |
-|   5\*    |   West End of Locks   |West Center Pierhead Light|46°30.2′ N; 84°22.2′ W | Upbound Only. |
+|    5     |   West End of Locks   |West Center Pierhead Light|46°30.2′ N; 84°22.2′ W | Upbound Only. |
 |    6     |   East End of Locks   |East Center Pierhead Light|46°30.1′ N; 84°20.3′ W |Downbound Only.|
 |    7     |     Mission Point     |         Light 99         |46°29.2′ N; 84°18.1′W. |               |
 |    8     |    Six Mile Point     |      Six Mile Point      |46°26.1′ N; 84°15.4′W. |               |
@@ -21,4 +19,4 @@ Table 161.45(b) - VTS St. Marys River Reporting Points
 |    11    |Munuscong Lake Junction|  Lighted Junction Buoy   |46°10.8′ N; 84°05.6′W. |               |
 |    12    |     De Tour Reef      |    De Tour Reef Light    |46°56.9′ N; 83°53.7′ W.|               |
 
-[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by CGD 95-033, 60 FR 28332, May 31, 1995; USCG-1998-3799, 63 FR 35531, June 30, 1998]
+[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by CGD 95-033, 60 FR 28332, May 31, 1995; USCG-1998-3799, 63 FR 35531, June 30, 1998; USCG-2016-0498, 82 FR 35088, July 28, 2017]

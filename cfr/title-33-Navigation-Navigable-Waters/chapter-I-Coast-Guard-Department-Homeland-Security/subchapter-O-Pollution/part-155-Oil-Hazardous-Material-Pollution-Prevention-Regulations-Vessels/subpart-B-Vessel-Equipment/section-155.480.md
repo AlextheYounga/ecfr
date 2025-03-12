@@ -6,17 +6,17 @@
 
 (1) On a tankship, each cargo tank must be equipped with an overfill device (including an independent audible alarm or visible indicator for that tank) that meets the requirements for tank overfill alarms under 46 CFR 39.20-7(b)(2) and (3), and (d)(1) through (d)(4).
 
-(2) On a tank barge, each cargo tank must be equipped with an overfill device that -
+(2) On a tank barge, each cargo tank must be equipped with an overfill device that—
 
 (i) Meets the requirements of 46 CFR 39.2007(b)(2) through (b)(4), (d)(1) through (d)(4), and 46 CFR 39.2009(a)(1) ;
 
 (ii) Is an installed automatic shutdown system that meets the requirements of 46 CFR 39.2009(a)(2); or
 
-(iii) Is an installed high-level indicating device that meets the requirements of 46 CFR 39.2003(b)(1).
+(iii) Is an installed high-level indicating device that meets the requirements of 46 CFR 39.2003(b)(1), (2), and (3).
 
 (c) Each cargo tank of a U.S. flag tank vessel must have installed on it an overfill device meeting the requirements of this section at the next scheduled cargo tank internal examination performed on the vessel under 46 CFR 31.10-21.
 
-(d) Each cargo tank of a foreign flag tank vessel must have installed on it an overfill device -
+(d) Each cargo tank of a foreign flag tank vessel must have installed on it an overfill device—
 
 (1) At the first survey that includes dry docking, as required by the vessel's flag administration, to meet the International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended, or the International Load Line Convention of 1966; or
 
@@ -26,4 +26,4 @@
 
 (f) This section does not apply to tank vessels that carry asphalt, animal fat, or vegetable oil as their only cargo.
 
-[CGD 90-071a, 59 FR 53290, Oct. 21, 1994, as amended by CGD 90-071a, 62 FR 48773, Sept. 17, 1997; USCG-2015-0433, 80 FR 44282, July 27, 2015]
+[CGD 90-071a, 59 FR 53290, Oct. 21, 1994, as amended by CGD 90-071a, 62 FR 48773, Sept. 17, 1997; USCG-2015-0433, 80 FR 44282, July 27, 2015; USCG-2016-0498, 82 FR 35082, July 28, 2017]

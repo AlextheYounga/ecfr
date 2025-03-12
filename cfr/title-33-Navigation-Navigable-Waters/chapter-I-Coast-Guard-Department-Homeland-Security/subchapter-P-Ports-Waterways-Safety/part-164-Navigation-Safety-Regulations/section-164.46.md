@@ -46,7 +46,7 @@
 
 Note to paragraph (b):
 
-Under 33 U.S.C. 1223(b)(3) and 33 CFR 160.111, a Coast Guard Captain of the Port (COTP) may restrict the operation of a vessel if he or she determines that by reason of weather, visibility, sea conditions, port congestion, other hazardous circumstances, or the condition of such vessel, the restriction is justified in the interest of safety. In certain circumstances, if a COTP is concerned that the operation of a vessel not subject to § 164.46 would be unsafe, the COTP may determine that voluntary installation of AIS by the operator would mitigate that concern.
+Under 33 U.S.C. 1223(b)(3) and 33 CFR 160.111, a Coast Guard Captain of the Port (COTP) may restrict the operation of a vessel if he or she determines that by reason of weather, visibility, sea conditions, port congestion, other hazardous circumstances, or the condition of such vessel, the restriction is justified in the interest of safety. In certain circumstances, if a COTP is concerned that the operation of a vessel not subject to § 164.46 would be unsafe, the COTP may determine that voluntary installation of AIS by the operator would mitigate that concern. Fishing industry vessels include fishing vessels, fish processing vessels, and fish tender vessels as defined in 46 U.S.C. 2101.
 
 (c) *SOLAS provisions.* The following self-propelled vessels must comply with International Convention for Safety of Life at Sea (SOLAS), as amended, Chapter V, regulation 19.2.1.6 (Positioning System), 19.2.4 (AIS Class A), and 19.2.3.5 (Transmitting Heading Device) or 19.2.5.1 (Gyro Compass) as applicable (Incorporated by reference, see § 164.03):
 
@@ -100,4 +100,4 @@ The Coast Guard has developed the “U.S. AIS Encoding Guide” to help ensure c
 
 (j) *Implementation date.* Those vessels identified in paragraphs (b) and (c) of this section that were not previously subject to AIS carriage must install AIS no later than March 1, 2016.
 
-[USCG-2005-21869, 80 FR 5335, Jan. 30, 2015, as amended at 80 FR 17327, Apr. 1, 2015]
+[USCG-2005-21869, 80 FR 5335, Jan. 30, 2015, as amended at 80 FR 17327, Apr. 1, 2015; USCG-2016-0498, 82 FR 35088, July 28, 2017]

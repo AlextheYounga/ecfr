@@ -4,7 +4,7 @@
 
 (b) Any Type III device that was installed on an existing vessel before January 30, 1975, is considered certified.
 
-(c) Any person may apply to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard, Suite 400, Arlington, VA 20598-7410 for certification of a marine sanitation device manufactured before January 30, 1976. The Coast Guard will issue a letter certifying the device if the applicant shows that the device meets § 159.53 by:
+(c) Any person may apply to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430 for certification of a marine sanitation device manufactured before January 30, 1976. The Coast Guard will issue a letter certifying the device if the applicant shows that the device meets § 159.53 by:
 
 (1) Evidence that the device meets State standards at least equal to the standards in § 159.53, or
 
@@ -18,4 +18,4 @@
 
 (e) Devices certified under this section in compliance with § 159.53 need not meet the other regulations in this part and may not be labeled under § 159.16.
 
-[CGD 73-83, 40 FR 4624, Jan. 30, 1975, as amended by CGD 75-213, 41 FR 15325, Apr. 12, 1976; CGD 82-063a, 48 FR 4776, Feb. 3, 1983; CGD 88-052, 53 FR 25122, July 1, 1988; CGD 96-026, 61 FR 33668, June 28, 1996; USCG-2001-9286, 66 FR 33641, June 25, 2001; USCG-2010-0351, 75 FR 36286, June 25, 2010; USCG-2014-0410, 79 FR 38439, July 7, 2014]
+[CGD 73-83, 40 FR 4624, Jan. 30, 1975, as amended by CGD 75-213, 41 FR 15325, Apr. 12, 1976; CGD 82-063a, 48 FR 4776, Feb. 3, 1983; CGD 88-052, 53 FR 25122, July 1, 1988; CGD 96-026, 61 FR 33668, June 28, 1996; USCG-2001-9286, 66 FR 33641, June 25, 2001; USCG-2010-0351, 75 FR 36286, June 25, 2010; USCG-2014-0410, 79 FR 38439, July 7, 2014; USCG-2016-0498, 82 FR 35083, July 28, 2017]

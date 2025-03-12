@@ -1,6 +1,6 @@
 ##### § 155.5065 Procedures for plan submission and approval. #####
 
-(a) An owner or operator of a nontank vessel, to which this subpart applies, must submit one complete English language copy of a vessel response plan (VRP) to Commandant (CG-CVC-1), Attn: Vessel Response Plans, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501. The VRP must be submitted at least 60 days before the vessel intends to operate upon the navigable waters of the United States.
+(a) An owner or operator of a nontank vessel, to which this subpart applies, must submit one complete English language copy of a vessel response plan (VRP) to Commandant (CG-MER), Attn: Vessel Response Plans, U.S. Coast Guard Stop 7516, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7516. The VRP must be submitted at least 60 days before the vessel intends to operate upon the navigable waters of the United States.
 
 (b) The owner or operator of a nontank vessel must include a statement certifying that the VRP meets the applicable requirements of this subpart and the requirements of subparts D, E, F, and G, if applicable. The vessel owner or operator must also include a statement certifying that the vessel owner or operator has ensured the availability of, through contract or other approved means, the necessary private response resources to respond, to the maximum extent practicable, to a worst case discharge or substantial threat of such a discharge from their vessel as required under this subpart. VRPs should be submitted electronically by using the Vessel Response Plan Electronic Submission Tool available at *https://homeport.uscg.mil/vrpexpress.* If vessel owners or operators submit VRPs in paper format, CG Form “Application for Approval/Revision of Vessel Pollution Response Plans” (CG-6083) located at: *http://www.uscg.mil/forms/CG/CG\_6083.pdf* meets the requirement for a VRP certification statement as required by this paragraph.
 
@@ -8,4 +8,4 @@
 
 (d) If the Coast Guard reviews the VRP and determines that it does not meet all of the requirements of this subpart, the Coast Guard will notify the vessel owner or operator of the VRP deficiencies. The vessel owner or operator must then resubmit a copy of the revised VRP or corrected portions of the VRP, within the time period specified in the written notice provided by the Coast Guard.
 
-[USCG-2008-1070, 78 FR 60124, Sept. 30, 2013, as amended by USCG-2014-0410, 79 FR 38437, July 7, 2014]
+[USCG-2008-1070, 78 FR 60124, Sept. 30, 2013, as amended by USCG-2014-0410, 79 FR 38437, July 7, 2014; USCG-2016-0498, 82 FR 35083, July 28, 2017]

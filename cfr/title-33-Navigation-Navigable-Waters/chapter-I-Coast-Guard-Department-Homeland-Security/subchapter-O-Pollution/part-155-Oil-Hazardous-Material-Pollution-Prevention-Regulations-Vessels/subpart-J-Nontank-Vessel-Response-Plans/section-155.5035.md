@@ -1,6 +1,6 @@
 ##### § 155.5035 Nontank vessel response plan requirements: Specific content. #####
 
-(a) *General information and introduction section.* This section of the vessel response plan (VRP) must include -
+(a) *General information and introduction section.* This section of the vessel response plan (VRP) must include—
 
 (1) The vessel's name, country of registry, call sign, official number, and International Maritime Organization (IMO) international number (if applicable). If the VRP covers multiple vessels, this information should be provided for each vessel;
 
@@ -12,15 +12,15 @@
 
 (5) A record of change(s) page to record information on VRP reviews, updates, or revisions.
 
-(b) *Notification procedures section.* This section of the VRP must include the following information -
+(b) *Notification procedures section.* This section of the VRP must include the following information—
 
-(1) A checklist with all notifications, including telephone or other contact numbers, in order of priority to be made by shipboard or shore-based personnel and the information needed for those notifications. Notifications should include those required by -
+(1) A checklist with all notifications, including telephone or other contact numbers, in order of priority to be made by shipboard or shore-based personnel and the information needed for those notifications. Notifications should include those required by—
 
 (i) International Convention for the Prevention of Pollution from Ships (MARPOL) 73/78 (as set forth in 33 CFR 151.26 and 33 CFR part 153); and
 
 (ii) Any applicable State;
 
-(2) Identification of the person(s) to be notified of a discharge or substantial threat of a discharge of oil. If the notifications vary due to vessel location, the persons to be notified also should be identified in a geographic-specific appendix (GSA). This section should separately identify -
+(2) Identification of the person(s) to be notified of a discharge or substantial threat of a discharge of oil. If the notifications vary due to vessel location, the persons to be notified also should be identified in a geographic-specific appendix (GSA). This section should separately identify—
 
 (i) The individual(s) or organization(s) to be notified by shipboard personnel; and
 
@@ -32,7 +32,7 @@
 
 (5) The information that is to be provided in the initial and any follow-up notifications under paragraph (b)(1) of this section;
 
-(i) The initial notification may be submitted in accordance with IMO Resolution A.851(20), “General Principles for Ship Reporting Systems and Ship Reporting Requirements, Including Guidelines for Reporting Incidents Involving Dangerous Goods, Harmful Substances and/or Marine Pollutants” (incorporated by reference, see § 155.140). However, the VRP must specify that the notification includes at least the following information -
+(i) The initial notification may be submitted in accordance with IMO Resolution A.851(20), “General Principles for Ship Reporting Systems and Ship Reporting Requirements, Including Guidelines for Reporting Incidents Involving Dangerous Goods, Harmful Substances and/or Marine Pollutants” (incorporated by reference, see § 155.140). However, the VRP must specify that the notification includes at least the following information—
 
 (A) Vessel name, country of registry, call sign, and official number (if any);
 
@@ -64,7 +64,7 @@
 
 (O) Details of Protection and Indemnity (P&I) Club and Local Correspondent, as applicable.
 
-(ii) The VRP must state that after transmission of the initial notification, as much information as possible that is essential for the protection of the marine environment will be reported to the appropriate on-scene coordinator in follow-up reports. This information must include -
+(ii) The VRP must state that after transmission of the initial notification, as much information as possible that is essential for the protection of the marine environment will be reported to the appropriate on-scene coordinator in follow-up reports. This information must include—
 
 (A) Additional details on the type of oil onboard;
 
@@ -78,9 +78,9 @@
 
 (6) Identification of the person(s) to be notified of a vessel casualty potentially affecting the seaworthiness of a vessel and the information to be provided by the vessel's crew to shore-based personnel to facilitate the assessment of damage stability and stress.
 
-(c) *Shipboard spill mitigation procedures section.* This section of the VRP must include -
+(c) *Shipboard spill mitigation procedures section.* This section of the VRP must include—
 
-(1) Procedures for the crew to mitigate or prevent any discharge or a substantial threat of a discharge of oil resulting from shipboard operational activities associated with internal or external oil transfers. Responsibilities of vessel personnel should be identified by job title and licensed/unlicensed position, if applicable. These procedures should address personnel actions in reference to -
+(1) Procedures for the crew to mitigate or prevent any discharge or a substantial threat of a discharge of oil resulting from shipboard operational activities associated with internal or external oil transfers. Responsibilities of vessel personnel should be identified by job title and licensed/unlicensed position, if applicable. These procedures should address personnel actions in reference to—
 
 (i) Internal transfer system leaks;
 
@@ -104,7 +104,7 @@
 
 (xi) Disposal of removed oil and clean-up materials;
 
-(2) Procedures in the order of priority for the crew to mitigate or prevent any discharge or a substantial threat of a discharge in the event of a casualty or emergency as listed in paragraphs (c)(2)(i) through (x) of this section. These procedures should be listed separately and reference specific vessel checklists required by the International Ship Management (ISM) Code, Section 8 (Resolution A.741(18), as amended by Resolution MSC.104(73)) (incorporated by reference, see § 155.140), or other means that will ensure consideration of all appropriate factors when addressing a specific casualty. In addition to the checklists, specific personnel assignments for anticipated tasks must be identified. Reference to existing fire control plans and muster lists is sufficient to identify personnel responsibilities in the following scenarios -
+(2) Procedures in the order of priority for the crew to mitigate or prevent any discharge or a substantial threat of a discharge in the event of a casualty or emergency as listed in paragraphs (c)(2)(i) through (x) of this section. These procedures should be listed separately and reference specific vessel checklists required by the International Ship Management (ISM) Code, Section 8 (Resolution A.741(18), as amended by Resolution MSC.104(73)) (incorporated by reference, see § 155.140), or other means that will ensure consideration of all appropriate factors when addressing a specific casualty. In addition to the checklists, specific personnel assignments for anticipated tasks must be identified. Reference to existing fire control plans and muster lists is sufficient to identify personnel responsibilities in the following scenarios—
 
 (i) Grounding or stranding;
 
@@ -130,11 +130,11 @@
 
 (4) The procedures for internal transfers of fuel in an emergency;
 
-(5) The procedures for ship-to-ship transfers of fuel in an emergency -
+(5) The procedures for ship-to-ship transfers of fuel in an emergency—
 
 (i) The format and content of the ship-to-ship transfer procedures should be consistent with the “Ship to Ship Transfer Guide (Petroleum),” published jointly by the International Chamber of Shipping and the Oil Companies International Marine Forum (OCIMF) (incorporated by reference, see § 155.140);
 
-(ii) The procedures should identify the specific response resources necessary to carry out the internal or external transfers, including -
+(ii) The procedures should identify the specific response resources necessary to carry out the internal or external transfers, including—
 
 (A) Fendering equipment (ship-to-ship only);
 
@@ -158,15 +158,15 @@
 
 (9) The crew's responsibilities, if any, to initiate a response and supervise shore-based response resources;
 
-(10) Damage stability and hull stress considerations when performing shipboard mitigation measures. This section of the VRP should identify and describe -
+(10) Damage stability and hull stress considerations when performing shipboard mitigation measures. This section of the VRP should identify and describe—
 
 (i) Activities in which the crew is trained and qualified to execute absent shore-based support or advice; and
 
 (ii) The information to be collected by the vessel's crew to facilitate shore-based assistance;
 
-(11) Location of vessel plans necessary to perform salvage, stability, and hull stress assessments -
+(11) Location of vessel plans necessary to perform salvage, stability, and hull stress assessments—
 
-(i) The vessel owner or operator should ensure that a copy of these plans is maintained ashore by either the vessel owner or operator or the vessel's recognized classification society, unless the vessel has prearranged for a shore-based damage stability and residual strength calculation program with the vessel's baseline strength and stability characteristics pre-entered. The VRP should indicate the shore location and 24-hour access procedures of the calculation program for the following plans, where available -
+(i) The vessel owner or operator should ensure that a copy of these plans is maintained ashore by either the vessel owner or operator or the vessel's recognized classification society, unless the vessel has prearranged for a shore-based damage stability and residual strength calculation program with the vessel's baseline strength and stability characteristics pre-entered. The VRP should indicate the shore location and 24-hour access procedures of the calculation program for the following plans, where available—
 
 (A) General arrangement plan;
 
@@ -182,7 +182,7 @@
 
 (ii) The VRP should identify the shore location and 24-hour access procedures for the computerized, shore-based damage stability and residual structural strength calculation programs, if available; and
 
-(12) Procedures for implementing personnel safety mitigation strategies for all personnel involved. These procedures may contain more, but must address the following -
+(12) Procedures for implementing personnel safety mitigation strategies for all personnel involved. These procedures may contain more, but must address the following—
 
 (i) Assessment and monitoring activities;
 
@@ -200,7 +200,7 @@
 
 (viii) Disposal of removed oil and clean-up materials.
 
-(d) *Shore-based response activities section.* This section of the VRP should include the following information -
+(d) *Shore-based response activities section.* This section of the VRP should include the following information—
 
 (1) The qualified individual's (QI) responsibilities and authority, including immediate communication with the Federal On-Scene Coordinator (FOSC) and notification of the oil spill removal organization(s) identified in the VRP;
 
@@ -208,7 +208,7 @@
 
 (3) The procedures for coordinating the actions of the vessel owner or operator or qualified individual with the predesignated FOSC responsible for overseeing or directing those actions;
 
-(4) The organizational structure that would be used to manage the response actions. This structure should include the following functional areas and information for key components within each functional area -
+(4) The organizational structure that would be used to manage the response actions. This structure should include the following functional areas and information for key components within each functional area—
 
 (i) Command and control;
 
@@ -228,7 +228,7 @@
 
 (5) The responsibilities and duties of, and functional job descriptions for each oil spill management team position within the organizational structure identified in paragraph (d)(4) of this section.
 
-(e) *List of contacts section.* The name, location, and 24-hour contact information for the following key individuals and organizations must be included in this section of the VRP or, if more appropriate, in a GSA, and referenced in this section of the VRP -
+(e) *List of contacts section.* The name, location, and 24-hour contact information for the following key individuals and organizations must be included in this section of the VRP or, if more appropriate, in a GSA, and referenced in this section of the VRP—
 
 (1) Vessel owner or operator;
 
@@ -240,7 +240,7 @@
 
 (5) Person(s) within the oil spill removal organization to notify for activation of that oil spill removal organization for the three spill scenarios identified in paragraph (i)(1)(v) of this section for the vessel's area of operation;
 
-(6) Person(s) within the identified response organization to notify for activating the organizations to provide -
+(6) Person(s) within the identified response organization to notify for activating the organizations to provide—
 
 (i) The required emergency lightering and fuel offloading required by §§ 155.5050(i) and 155.5052 as applicable;
 
@@ -256,7 +256,7 @@
 
 (g) *Exercise procedures section.* This section of the VRP must address the exercise program to be carried out by the vessel owner or operator to meet the requirements in § 155.5060.
 
-(h) *Plan review, update, revision, amendment, and appeal procedure section.* This section of the VRP must address the procedures the vessel owner or operator must follow -
+(h) *Plan review, update, revision, amendment, and appeal procedure section.* This section of the VRP must address the procedures the vessel owner or operator must follow—
 
 (1) To meet the requirements of §§ 155.5070 and 155.5075; and
 
@@ -264,7 +264,7 @@
 
 (i) *GSAs for each COTP zone in which a vessel operates section.* A GSA must be included for each COTP zone identified.
 
-(1) The appendices must include the following information or identify the location of such information within the VRP -
+(1) The appendices must include the following information or identify the location of such information within the VRP—
 
 (i) A list of the geographic areas (port areas, rivers and canals, Great Lakes, inland, nearshore, offshore, and open ocean areas) in which the vessel intends to handle, store, or transport oil as fuel or cargo within the applicable COTP zone;
 
@@ -274,7 +274,7 @@
 
 (iv) Identification of the QI; and
 
-(v) Identification of the oil spill removal organization(s) (OSRO) that are identified and ensured available, through contract or other approved means, and the spill management team to respond to the following spill scenarios, as applicable -
+(v) Identification of the oil spill removal organization(s) (OSRO) that are identified and ensured available, through contract or other approved means, and the spill management team to respond to the following spill scenarios, as applicable—
 
 (A) Average most probable discharge;
 
@@ -296,7 +296,7 @@
 
 (ii) Nontank vessels with a capacity less than 250 barrels need only plan for and identify salvage response resources in the VRP but do not have to ensure these resources are available by contract. Submission of a written consent for plan listing from the recognized response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, paragraph (5) of the definition of “Contract or other approved means.”
 
-(7) For nontank vessels with a capacity of 2,500 barrels or greater that carry group II through group IV petroleum oils as fuel or cargo and that operate in waters where dispersant use pre-authorization agreements exist, the GSA must also separately list the resource providers and specific resources, including appropriately trained dispersant-application personnel, necessary to provide, if appropriate, the dispersant capabilities required in this subpart. All resource providers and resources must be available by contract or other approved means. The dispersant resources to be listed within this section must include the following -
+(7) For nontank vessels with a capacity of 2,500 barrels or greater that carry group II through group IV petroleum oils as fuel or cargo and that operate in waters where dispersant use pre-authorization agreements exist, the GSA must also separately list the resource providers and specific resources, including appropriately trained dispersant-application personnel, necessary to provide, if appropriate, the dispersant capabilities required in this subpart. All resource providers and resources must be available by contract or other approved means. The dispersant resources to be listed within this section must include the following—
 
 (i) Identification of each primary dispersant staging site to be used by each dispersant-application platform to meet the requirements of § 155.5050(j) of this chapter; and
 
@@ -306,7 +306,7 @@
 
 (9) Nontank vessels with an oil capacity of 250 barrels or greater, but less than 2,500 barrels, that carry group II through group IV petroleum oils as fuel or cargo and that operate in waters where dispersant use pre-authorization agreements exist, need only plan for and identify dispersant response resources but not ensure their availability by contract. Submission of a written consent from the dispersant response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, paragraph (5) of the definition of “Contract or other approved means.”
 
-(10) For nontank vessels with a fuel and cargo capacity of 2,500 barrels or greater not operating exclusively on the inland areas of the United States, the GSA must also separately list the resource providers and specific resources necessary to provide oil spill tracking capabilities required in this subpart. The oil spill tracking resources to be listed within this section must include the following -
+(10) For nontank vessels with a fuel and cargo capacity of 2,500 barrels or greater not operating exclusively on the inland areas of the United States, the GSA must also separately list the resource providers and specific resources necessary to provide oil spill tracking capabilities required in this subpart. The oil spill tracking resources to be listed within this section must include the following—
 
 (i) The identification of a resource provider; and
 
@@ -314,13 +314,13 @@
 
 (11) Nontank vessels with a capacity of 250 barrels or greater, but less than 2,500 barrels, need only plan for and identify aerial oil spill tracking response resources in the VRP, but do not have to ensure these resources are available by contract. Submission of a written consent for plan listing from the recognized response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, “Contract or other approved means”, paragraph (5).
 
-(j) *Appendices for vessel-specific information section.* This section of the VRP must include for each vessel covered by the VRP the following information, as applicable -
+(j) *Appendices for vessel-specific information section.* This section of the VRP must include for each vessel covered by the VRP the following information, as applicable—
 
 (1) List of the vessel's principal characteristics;
 
 (2) Capacities of all cargo, fuel, lube oil, ballast, and fresh water tanks;
 
-(3) The total volume and groups of oil that would be involved in a -
+(3) The total volume and groups of oil that would be involved in a—
 
 (i) Maximum most probable discharge; and
 
@@ -340,13 +340,13 @@
 
 (10) Location of information on the name, description, physical and chemical characteristics, health and safety hazards, and spill and firefighting procedures for the fuel and cargo oil onboard the vessel. A material safety data sheet meeting the requirements of 29 CFR 1910.1200, SOLAS 74 regulation VI/5-1, cargo information required by 33 CFR 154.310, or equivalent, will meet this requirement. This information can be maintained separately.
 
-(k) *Required appendices for MARPOL 73/78 Annex I, Regulation 37, Shipboard Oil Pollution Emergency Plan (SOPEP) information.* U.S.-flag vessels not certificated for coastwise or oceans operating routes and foreign-flag vessels that are in compliance with Regulation 37 of MARPOL 73/78 Annex I are not required to comply with this paragraph. A vessel owner or operator of a U.S.-flag vessel constructed or certificated for coastwise or oceans operating routes, but that does not engage in international voyages, may request to be exempted from compliance with this paragraph through submission of a certified statement, attesting same, to Commandant (CG-CVC), Office of Commercial Vessel Compliance, which must accompany the new nontank vessel response submission or resubmission. U.S.-flag vessels that must comply with this paragraph must label the cover of their VRP as a MARPOL 73/78 Annex I, Regulation 37 Shipboard Oil Pollution Emergency Plan (SOPEP) and Coast Guard Nontank Vessel Response Plan. The following information must be submitted consistent with Regulation 37 of MARPOL 73/78 Annex I as set forth in 33 CFR 151.26 -
+(k) *Required appendices for MARPOL 73/78 Annex I, Regulation 37, Shipboard Oil Pollution Emergency Plan (SOPEP) information.* U.S.-flag vessels not certificated for coastwise or oceans operating routes and foreign-flag vessels that are in compliance with Regulation 37 of MARPOL 73/78 Annex I are not required to comply with this paragraph. A vessel owner or operator of a U.S.-flag vessel constructed or certificated for coastwise or oceans operating routes, but that does not engage in international voyages, may request to be exempted from compliance with this paragraph through submission of a certified statement, attesting same, to Commandant (CG-MER), Office of Marine Environmental Response Policy, which must accompany the new nontank vessel response submission or resubmission. U.S.-flag vessels that must comply with this paragraph must label the cover of their VRP as a MARPOL 73/78 Annex I, Regulation 37 Shipboard Oil Pollution Emergency Plan (SOPEP) and Coast Guard Nontank Vessel Response Plan. The following information must be submitted consistent with Regulation 37 of MARPOL 73/78 Annex I as set forth in 33 CFR 151.26—
 
 (1) The introductory text required by 33 CFR 151.26(b)(1);
 
 (2) The preamble statement regarding the purpose of the plans and how the plan relates to other shore-related plans as required by 33 CFR 151.26(b)(2);
 
-(3) The information on authorities or persons to be contacted in the event of an oil pollution incident as required 33 CFR 151.26(b)(3)(iii). This information must also clearly specify who will be responsible for informing the necessary parties from the coastal State contacts, the port contacts, and the ship interest contacts. This information must include -
+(3) The information on authorities or persons to be contacted in the event of an oil pollution incident as required 33 CFR 151.26(b)(3)(iii). This information must also clearly specify who will be responsible for informing the necessary parties from the coastal State contacts, the port contacts, and the ship interest contacts. This information must include—
 
 (i) An appendix containing coastal State contacts for those coastal States in which the vessel regularly transits the exclusive economic zone. The appendix should list those agencies or officials of administrations responsible for receiving and processing pollution incident reports;
 
@@ -358,4 +358,4 @@
 
 (5) Required information lists in separate appendices per 33 CFR 151.26(b)(6)(ii).
 
-[USCG-2009-1070, 78 FR 60124, Sept. 30, 2013, as amended by USCG-2010-0194, 80 FR 5933, Feb. 4, 2015]
+[USCG-2009-1070, 78 FR 60124, Sept. 30, 2013, as amended by USCG-2010-0194, 80 FR 5933, Feb. 4, 2015; USCG-2016-0498, 82 FR 35082, July 28, 2017]

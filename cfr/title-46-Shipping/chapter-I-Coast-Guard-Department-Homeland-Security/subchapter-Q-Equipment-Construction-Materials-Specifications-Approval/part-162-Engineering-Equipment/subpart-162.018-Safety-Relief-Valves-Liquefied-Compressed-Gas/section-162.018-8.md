@@ -1,6 +1,6 @@
 ##### § 162.018-8 Procedure for approval. #####
 
-(a) *General.* Safety relief valves for use on pressure vessels containing liquefied compressed gases must be approved by the Commanding Officer, U.S. Coast Guard Marine Safety Center. Applications for approval may be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 4200 Wilson Boulevard Suite 400, Arlington, VA 22203, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
+(a) *General.* Safety relief valves for use on pressure vessels containing liquefied compressed gases must be approved by the Commanding Officer, U.S. Coast Guard Marine Safety Center. Applications for approval may be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
 
 (b) *Plan submittal.* Manufacturers desiring to secure approval of a new design or type of safety relief valve shall submit in quadruplicate detail drawings showing the valve construction, and material specifications of the component parts. In the event the design is changed, amended drawings shall be submitted to the Commanding Officer, USCG Marine Safety Center, for re-approval.
 
@@ -8,4 +8,4 @@
 
 (2) Reports of conducted tests on designs of safety relief valves different from those previously approved shall be submitted by the manufacturer when requesting approval for different designs.
 
-[CGFR 52-43, 17 FR 9540, Oct. 18, 1952, as amended by CGFR 68-82, 33 FR 18908, Dec. 18, 1968; CGD 88-070, 53 FR 34536, Sept. 7, 1982; CGD 96-041, 61 FR 50734, Sept. 27, 1996; USCG-2001-10224, 66 FR 48620, Sept. 21, 2001; USCG-2007-29018, 72 FR 53967, Sept. 21, 2007; USCG-2009-0702, 74 FR 49238, Sept. 25, 2009; USCG-2013-0671, 78 FR 60160, Sept. 30, 2013]
+[CGFR 52-43, 17 FR 9540, Oct. 18, 1952, as amended by CGFR 68-82, 33 FR 18908, Dec. 18, 1968; CGD 88-070, 53 FR 34536, Sept. 7, 1982; CGD 96-041, 61 FR 50734, Sept. 27, 1996; USCG-2001-10224, 66 FR 48620, Sept. 21, 2001; USCG-2007-29018, 72 FR 53967, Sept. 21, 2007; USCG-2009-0702, 74 FR 49238, Sept. 25, 2009; USCG-2013-0671, 78 FR 60160, Sept. 30, 2013; USCG-2016-0498, 82 FR 35092, July 28, 2017]

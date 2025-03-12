@@ -12,7 +12,7 @@
 
 (2) The independent laboratory has the right to reject a proposed BWMS for type-approval testing if it does not satisfy the requirements in paragraph (a)(1) of this section, is not deemed ready for approval testing or if, for technical or logistical reasons, that independent laboratory does not have the capability to accommodate the BWMS for testing or evaluation.
 
-(3) Upon determination that the BWMS is ready for testing, the independent laboratory will notify the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410, and provide the estimated date for commencement of type-approval testing.
+(3) Upon determination that the BWMS is ready for testing, the independent laboratory will notify the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, and provide the estimated date for commencement of type-approval testing.
 
 (b) The independent laboratory must prepare a written Test Plan for each approval test to be completed, in accordance with § 162.060-24 of this subpart.
 
@@ -24,6 +24,6 @@
 
 (f) The independent laboratory or its subcontractor(s) must conduct all approval testing and evaluations in accordance with testing requirements of this subpart and within the range or rated capacity of the BWMS.
 
-(g) Upon completion of all approval tests and evaluations, the independent laboratory must follow the requirements of § 162.060-34 of this subpart and forward a complete Test Report to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7410, 4200 Wilson Boulevard Suite 400, Arlington, VA 20598-7410, or by email to *msc@uscg.mil.*
+(g) Upon completion of all approval tests and evaluations, the independent laboratory must follow the requirements of § 162.060-34 of this subpart and forward a complete Test Report to the Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, or by email to *msc@uscg.mil.*
 
-[USCG-2001-10486, 77 FR 17311, Mar. 23, 2012, as amended by 77 FR 33970, June 8, 2012; USCG-2013-0671, 78 FR 60161, Sept. 30, 2013; USCG-2015-0867, 80 FR 62470, Oct. 16, 2015]
+[USCG-2001-10486, 77 FR 17311, Mar. 23, 2012, as amended by 77 FR 33970, June 8, 2012; USCG-2013-0671, 78 FR 60161, Sept. 30, 2013; USCG-2015-0867, 80 FR 62470, Oct. 16, 2015 ; USCG-2016-0498, 82 FR 35093, July 28, 2017]

@@ -1,8 +1,8 @@
-##### § 39.2007 Tankship liquid overfill protection - T/ALL. #####
+##### § 39.2007 Tankship liquid overfill protection—T/ALL. #####
 
 (a) Each cargo tank of a tankship must be equipped with an intrinsically safe high-level alarm and a tank overfill alarm.
 
-(b) If installed after July 23, 1990, the high-level alarm and tank overfill alarm required by paragraph (a) of this section must -
+(b) If installed after July 23, 1990, the high-level alarm and tank overfill alarm required by paragraph (a) of this section must—
 
 (1) Be independent of each other;
 
@@ -12,7 +12,7 @@
 
 (4) Be able to be verified at the tank for proper operation prior to each transfer. This procedure may be achieved with the use of an electronic self-testing feature that monitors the condition of the alarm circuitry and sensor.
 
-(c) The high-level alarm required by paragraph (a) of this section must -
+(c) The high-level alarm required by paragraph (a) of this section must—
 
 (1) Activate an alarm once the cargo level reaches 95 percent of the tank capacity or higher, but before the tank overfill alarm;
 
@@ -20,7 +20,7 @@
 
 (3) Activate a visible and audible alarm so that it can be seen and heard on the vessel where cargo transfer is controlled.
 
-(d) The tank overfill alarm required by paragraph (a) of this section must -
+(d) The tank overfill alarm required by paragraph (a) of this section must—
 
 (1) Be independent of the cargo gauging system;
 
@@ -30,6 +30,8 @@
 
 (4) Activate an alarm early enough to allow the person in charge of transfer operations to stop the cargo transfer before the tank overflows.
 
-(e) If a spill valve is installed on a cargo tank fitted with a vapor collection system, it must meet the requirements of 46 CFR 39.2009(c).
+(e) If a spill valve is installed on a cargo tank fitted with a vapor collection system, it must meet the requirements of 46 CFR 39.2009(a)(3).
 
-(f) If a rupture disk is installed on a cargo tank fitted with a vapor collection system, it must meet the requirements of 46 CFR 39.2009(d).
+(f) If a rupture disk is installed on a cargo tank fitted with a vapor collection system, it must meet the requirements of 46 CFR 39.2009(a)(4).
+
+[USCG-1999-5150, 78 FR 42642, July 16, 2013, as amended by USCG-2016-0498, 82 FR 35089, July 28, 2017]
