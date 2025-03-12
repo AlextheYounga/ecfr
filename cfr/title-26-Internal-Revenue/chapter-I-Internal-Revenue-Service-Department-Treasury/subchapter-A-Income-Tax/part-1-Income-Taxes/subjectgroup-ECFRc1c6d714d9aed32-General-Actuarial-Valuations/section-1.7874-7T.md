@@ -74,4 +74,4 @@ Example 3.*Foreign acquiring corporation not common parent of EAG* - (i) *Facts.
 
 (i) *Expiration date.* The applicability of this section expires on or before April 4, 2019.
 
-[T.D. 9761, 81 FR 20900, Apr. 8, 2016 , as amended at 81 FR 40811, June 23, 2016; T.D. 9812, 82 FR 5400, 5401, Jan. 18, 2017]
+[T.D. 9761, 81 FR 20900, Apr. 8, 2016, as amended at 81 FR 40811, June 23, 2016; T.D. 9812, 82 FR 5400, 5401, Jan. 18, 2017]

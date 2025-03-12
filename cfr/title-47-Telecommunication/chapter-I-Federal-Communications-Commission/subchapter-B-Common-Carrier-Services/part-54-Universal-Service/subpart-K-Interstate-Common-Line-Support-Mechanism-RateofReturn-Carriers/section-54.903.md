@@ -20,4 +20,4 @@
 
 (4) Report quarterly to the Commission on the collection and distribution of funds under this subpart as described in § 54.702(h). Fund distribution reporting will be by state and by eligible telecommunications carrier within the state.
 
-[81 FR 24343, Apr. 25, 2016]Effective Date Note:At 81 FR 24343, Apr. 25, 2016, § 54.903 was revised. However, paragraph (a) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 24343, Apr. 25, 2016]Effective Date Note:At 81 FR 24337. Apr. 25, 2016, § 54.903 was revised. Paragraph (a) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

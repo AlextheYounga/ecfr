@@ -75,4 +75,4 @@ Where:The Loop Cap Adjustment Factor equals the lesser of 1.0 or the annualized 
 
 (m) *Minimum AALPI.* If a carrier has an AALPI that is less than $4 million in any given year, the carrier shall be allowed to increase its AALPI for that year to the lesser of $4 million or its Total Allowed Loop Plant Investment.
 
-[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017]Effective Date Note:At 81 FR 24337, Apr. 25, 2016, § 54.303 was added. However, paragraph (b) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017]
