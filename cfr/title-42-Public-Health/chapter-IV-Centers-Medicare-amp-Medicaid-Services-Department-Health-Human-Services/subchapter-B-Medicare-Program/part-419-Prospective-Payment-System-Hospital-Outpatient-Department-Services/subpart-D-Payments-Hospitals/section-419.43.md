@@ -1,5 +1,7 @@
 ##### § 419.43 Adjustments to national program payment and beneficiary copayment amounts. #####
 
+Link to an amendment published at 87 FR 72291, Nov. 23, 2022.
+
 (a) *General rule.* CMS determines national prospective payment rates for hospital outpatient department services and determines a wage adjustment factor to adjust the portion of the APC payment and national beneficiary copayment amount attributable to labor-related costs for relative differences in labor and labor-related costs across geographic regions in a budget neutral manner.
 
 (b) *Labor-related portion of payment and copayment rates for hospital outpatient services.* CMS determines the portion of hospital outpatient costs attributable to labor and labor-related costs (known as the “labor-related portion” of hospital outpatient costs) in accordance with § 419.31(c)(1).

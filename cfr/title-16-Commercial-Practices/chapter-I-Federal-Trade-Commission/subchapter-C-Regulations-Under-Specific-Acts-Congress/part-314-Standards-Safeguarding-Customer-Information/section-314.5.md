@@ -1,5 +1,7 @@
 ##### § 314.5 Effective date. #####
 
-Section 314.4(a), (b)(1), (c)(1) through (8), (d)(2), (e), (f)(3), (h), and (i) are effective as of December 9, 2022.
+Link to an amendment published at 88 FR 77509, Nov. 13, 2023.
 
-[86 FR 70308, Dec. 9, 2021]
+Sections 314.4(a), (b)(1), (c)(1) through (8), (d)(2), (e), (f)(3), (h), and (i) are effective as of June 9, 2023.
+
+[87 FR 71510, Nov. 23, 2022]

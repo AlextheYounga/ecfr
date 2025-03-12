@@ -1,5 +1,7 @@
 ##### § 413.414 Medicare secondary payer and organ acquisition costs. #####
 
+Link to an amendment published at 87 FR 72289, Nov. 23, 2022.
+
 (a) *General principle.* If a Medicare beneficiary has a primary health insurer other than Medicare and that primary health insurer has primary liability for the transplant and organ acquisition costs, the Medicare Program may share a liability for organ acquisition costs as a secondary payer to the transplant hospital that performs the transplant in certain instances. To determine whether Medicare has liability to the transplant hospital that performs the transplant as a secondary payer for organ acquisition costs, it is necessary for the transplant hospital that performs the transplant to review the transplant hospital's agreement with the primary insurer.
 
 (b) *Medicare has no secondary payer liability for organ acquisition costs.* If the primary insurer's agreement requires the transplant hospital to accept the primary insurer's payment as payment in full for the transplant and the associated organ acquisition costs, Medicare has zero liability as a secondary payer with no payment obligation for the transplantation costs or the organ acquisition costs, and the organ at issue is not a Medicare usable organ.

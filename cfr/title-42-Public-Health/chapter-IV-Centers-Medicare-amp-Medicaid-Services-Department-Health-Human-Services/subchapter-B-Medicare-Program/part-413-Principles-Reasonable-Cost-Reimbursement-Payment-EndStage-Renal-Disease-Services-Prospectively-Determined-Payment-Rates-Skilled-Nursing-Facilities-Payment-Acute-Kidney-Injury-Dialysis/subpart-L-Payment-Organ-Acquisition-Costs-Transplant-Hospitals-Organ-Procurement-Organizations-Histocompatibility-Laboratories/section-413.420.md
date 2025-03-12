@@ -1,5 +1,7 @@
 ##### § 413.420 Payment to independent organ procurement organizations and histocompatibility laboratories for kidney acquisition costs. #####
 
+Link to an amendment published at 87 FR 72290, Nov. 23, 2022.
+
 (a) *Principle.* (1) Covered services furnished after September 30, 1978, by OPOs and histocompatibility laboratories in connection with kidney acquisition and transplantation are reimbursed under the principles for determining reasonable cost contained in this part.
 
 (2) Services furnished by IOPOs and histocompatibility laboratories, that have an agreement with the Secretary in accordance with paragraph (c) of this section, are paid directly by the transplant hospital using a kidney SAC (for an IOPO) or contractor-established rates (for a histocompatibility laboratory). (The reasonable costs of services furnished by HOPOs or laboratories are reimbursed in accordance with the principles contained in §§ 413.60 and 413.64.)

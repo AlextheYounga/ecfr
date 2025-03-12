@@ -1,5 +1,7 @@
 ##### § 412.190 Overall Hospital Quality Star Rating. #####
 
+Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
+
 (a) *Purpose.* (1) The Overall Hospital Quality Star Rating (Overall Star Rating) is a summary of certain publicly reported hospital measure data for the benefit of stakeholders, such as patients, consumers, and hospitals.
 
 (2) The guiding principles of the Overall Star Rating are as follows. In developing and maintaining the Overall Star Ratings, we strive to:

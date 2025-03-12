@@ -1,5 +1,7 @@
 ##### § 489.24 Special responsibilities of Medicare hospitals in emergency cases. #####
 
+Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
+
 (a) *Applicability of provisions of this section.* (1) In the case of a hospital that has an emergency department, if an individual (whether or not eligible for Medicare benefits and regardless of ability to pay) “comes to the emergency department”, as defined in paragraph (b) of this section, the hospital must -
 
 (i) Provide an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition exists. The examination must be conducted by an individual(s) who is determined qualified by hospital bylaws or rules and regulations and who meets the requirements of § 482.55 of this chapter concerning emergency services personnel and direction; and

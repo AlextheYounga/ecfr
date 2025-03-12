@@ -1,5 +1,7 @@
 ##### § 413.198 Recordkeeping and cost reporting requirements for outpatient maintenance dialysis. #####
 
+Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
+
 (a) *Purpose and Scope.* This section implements section 1881(b)(2)(B)(i) of the Act by specifying recordkeeping and cost reporting requirements for ESRD facilities under part 494 of this chapter. The records and reports will enable CMS to determine the costs incurred in furnishing outpatient maintenance dialysis as defined in § 413.170(a).
 
 (b) *Recordkeeping and reporting requirements.* (1) Each facility must keep adequate records and submit the appropriate CMS-approved cost report in accordance with §§ 413.20 and 413.24, which provide rules on financial data and reports, and adequate cost data and cost finding, respectively.

@@ -1,5 +1,7 @@
 ##### § 413.402 Organ acquisition costs. #####
 
+Link to an amendment published at 87 FR 72288, Nov. 23, 2022.
+
 (a) *Costs related to organ acquisition.* Costs recognized in paragraph (b) of this section are costs incurred in the acquisition of organs from a living donor or a cadaveric donor, by the hospital or an organ procurement organization, as appropriate. Additionally, there are administrative and general costs that may be allowable and included on the cost report for an OPO or TH/HOPO.
 
 (b) *Types of costs.* Organ acquisition costs are as follows:

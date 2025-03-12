@@ -1,5 +1,7 @@
 ##### § 648.72 Surfclam and ocean quahog specifications. #####
 
+Link to an amendment published at 87 FR 71529, Nov. 23, 2022.
+
 (a) *Establishing catch quotas.* The amount of surfclams or ocean quahogs that may be caught annually by fishing vessels subject to these regulations will be specified for up to a 3-year period by the Regional Administrator. Specifications of the annual quotas will be accomplished in the final year of the quota period, unless the quotas are modified in the interim pursuant to paragraph (b) of this section.
 
 (1) *Quota reports.* On an annual basis, MAFMC staff will produce and provide to the MAFMC an Atlantic surfclam and ocean quahog annual quota recommendation paper based on the ABC recommendation of the SSC, the latest available stock assessment report prepared by NMFS, data reported by harvesters and processors, and other relevant data, as well as the information contained in paragraphs (a)(1)(i) through (vi) of this section. Based on that report, and at least once prior to August 15 of the year in which a multi-year annual quota specification expires, the MAFMC, following an opportunity for public comment, will recommend to the Regional Administrator annual quotas and estimates of DAH and DAP for up to a 3-year period. In selecting the annual quotas, the MAFMC shall consider the current stock assessments, catch reports, and other relevant information concerning:

@@ -1,5 +1,7 @@
 ##### § 489.2 Scope of part. #####
 
+Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
+
 (a) Subpart A of this part sets forth the basic requirements for submittal and acceptance of a provider agreement under Medicare. Subpart B of this part specifies the basic commitments and limitations that the provider must agree to as part of an agreement to provide services. Subpart C specifies the limitations on allowable charges to beneficiaries for deductibles, coinsurance, copayments, blood, and services that must be part of the provider agreement. Subpart D of this part specifies how incorrect collections are to be handled. Subpart F sets forth the circumstances and procedures for denial of payments for new admissions and for withholding of payment as an alternative to termination of a provider agreement.
 
 (b) The following providers are subject to the provisions of this part:

@@ -1,5 +1,7 @@
 ##### § 413.412 Intent to transplant, and counting en bloc, research, and discarded organs and kidneys. #####
 
+Link to an amendment published at 87 FR 72289, Nov. 23, 2022.
+
 (a) *Principle of intent to transplant for organ acquisition payment purposes.* (1) An organ is intended for transplant when the OPO or TH designates it for transplant prior to the time the donor enters the hospital's operating room for surgical excision/recovery of the organ(s).
 
 (2) OPOs and THs must identify the costs associated with the recovered and unrecovered organs and apportion those costs to the appropriate cost centers by organ type.

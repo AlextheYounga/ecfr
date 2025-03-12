@@ -1,5 +1,7 @@
 ##### § 413.416 Organ acquisition charges for kidney-paired exchanges. #####
 
+Link to an amendment published at 87 FR 72290, Nov. 23, 2022.
+
 (a) *Initial living donor evaluations.* When a recipient and donor elect to participate in a kidney paired exchange, the costs of the initial living donor evaluations are incurred by the originally intended recipient's transplant hospital, regardless of whether the living donor actually donates to their originally intended recipient, a kidney paired exchange recipient, or does not donate at all.
 
 (b) *Additional tests after a match.* In a kidney paired exchange, regardless of whether an actual donation occurs, once the donor and recipient are matched, any additional tests requested by the recipient's transplant hospital and performed by the donor's transplant hospital, are billed to the recipient's transplant hospital as charges reduced to cost (using the donor's transplant hospital's cost to charge ratio) and included as acquisition costs on the recipient transplant hospital's Medicare cost report.

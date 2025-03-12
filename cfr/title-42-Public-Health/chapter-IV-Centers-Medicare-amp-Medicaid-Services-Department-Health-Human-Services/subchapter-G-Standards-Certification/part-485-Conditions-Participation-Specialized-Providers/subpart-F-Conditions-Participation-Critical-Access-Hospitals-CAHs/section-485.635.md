@@ -1,5 +1,7 @@
 ##### § 485.635 Condition of participation: Provision of services. #####
 
+Link to an amendment published at 87 FR 72309, Nov. 23, 2022.
+
 (a) *Standard: Patient care policies.* (1) The CAH's health care services are furnished in accordance with appropriate written policies that are consistent with applicable State law.
 
 (2) The policies are developed with the advice of members of the CAH's professional healthcare staff, including one or more doctors of medicine or osteopathy and one or more physician assistants, nurse practitioners, or clinical nurse specialists, if they are on staff under the provisions of § 485.631(a)(1).

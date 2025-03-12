@@ -1,6 +1,6 @@
 ##### § 410.40 Coverage of ambulance services. #####
 
-Link to an amendment published at 87 FR 70223, Nov. 18, 2022.
+Link to an amendment published at 87 FR 70223, Nov. 18, 2022.Link to an amendment published at 87 FR 72285, Nov. 23, 2022.
 
 (a) *Definitions.* As used in this section, the following definitions apply:
 

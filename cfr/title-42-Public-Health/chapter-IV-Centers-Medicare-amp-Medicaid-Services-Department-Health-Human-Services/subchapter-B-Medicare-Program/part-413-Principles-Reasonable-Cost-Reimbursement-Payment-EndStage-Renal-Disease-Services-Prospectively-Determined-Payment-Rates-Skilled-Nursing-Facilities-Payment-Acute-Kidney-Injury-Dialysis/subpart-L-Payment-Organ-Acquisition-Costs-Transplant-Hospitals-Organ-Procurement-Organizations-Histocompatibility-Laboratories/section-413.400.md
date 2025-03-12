@@ -1,5 +1,7 @@
 ##### § 413.400 Definitions. #####
 
+Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
+
 As used in this subpart:
 
 *Histocompatibility laboratory* means a laboratory meeting the requirements set forth in § 493.1227 of this chapter and providing the services for the acquisition of kidneys or other organs for transplantation.

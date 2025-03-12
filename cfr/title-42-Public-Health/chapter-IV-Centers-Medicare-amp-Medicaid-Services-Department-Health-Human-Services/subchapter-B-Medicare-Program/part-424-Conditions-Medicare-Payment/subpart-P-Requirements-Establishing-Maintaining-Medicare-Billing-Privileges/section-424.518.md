@@ -1,6 +1,6 @@
 ##### § 424.518 Screening levels for Medicare providers and suppliers. #####
 
-Link to an amendment published at 87 FR 70231, Nov. 18, 2022.
+Link to an amendment published at 87 FR 70231, Nov. 18, 2022.Link to an amendment published at 87 FR 72293, Nov. 23, 2022.
 
 A Medicare contractor is required to screen all initial applications, including applications for a new practice location, and any applications received in response to a revalidation request based on a CMS assessment of risk and assignment to a level of “limited,” “moderate,” or “high.”
 

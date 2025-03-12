@@ -1,5 +1,7 @@
 ##### § 419.83 List of hospital outpatient department services requiring prior authorization. #####
 
+Link to an amendment published at 87 FR 72292, Nov. 23, 2022.
+
 (a) *Service categories for the list of hospital outpatient department services requiring prior authorization.* (1) The following service categories comprise the list of hospital outpatient department services requiring prior authorization beginning for service dates on or after July 1, 2020:
 
 (i) Blepharoplasty.

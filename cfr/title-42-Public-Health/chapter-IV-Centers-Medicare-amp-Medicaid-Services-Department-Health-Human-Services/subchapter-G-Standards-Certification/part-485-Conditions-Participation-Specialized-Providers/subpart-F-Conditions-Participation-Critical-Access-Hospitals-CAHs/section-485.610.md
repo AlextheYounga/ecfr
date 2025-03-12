@@ -1,5 +1,7 @@
 ##### § 485.610 Condition of participation: Status and location. #####
 
+Link to an amendment published at 87 FR 72307, Nov. 23, 2022.
+
 (a) *Standard:* Status. The facility is -
 
 (1) A currently participating hospital that meets all conditions of participation set forth in this subpart;

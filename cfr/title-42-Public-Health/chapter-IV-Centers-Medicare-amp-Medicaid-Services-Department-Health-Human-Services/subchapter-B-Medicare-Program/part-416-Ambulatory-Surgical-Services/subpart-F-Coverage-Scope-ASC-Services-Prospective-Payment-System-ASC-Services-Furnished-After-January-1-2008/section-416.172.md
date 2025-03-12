@@ -1,5 +1,7 @@
 ##### § 416.172 Adjustments to national payment rates. #####
 
+Link to an amendment published at 87 FR 72291, Nov. 23, 2022.
+
 (a) *General rule.* Contractors adjust the payment rates established for ASC services to determine Medicare program payment and beneficiary coinsurance amounts in accordance with paragraphs (b) through (g) of this section.
 
 (b) *Lesser of actual charge or geographically adjusted payment rate.* Payments to ASCs equal 80 percent of the lesser of -

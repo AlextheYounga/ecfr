@@ -1,5 +1,7 @@
 ##### § 485.631 Condition of participation: Staffing and staff responsibilities. #####
 
+Link to an amendment published at 87 FR 72308, Nov. 23, 2022.
+
 (a) *Standard: Staffing* - (1) The CAH has a professional health care staff that includes one or more doctors of medicine or osteopathy, and may include one or more physician assistants, nurse practitioners, or clinical nurse specialists.
 
 (2) Any ancillary personnel are supervised by the professional staff.

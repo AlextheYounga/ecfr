@@ -1,5 +1,7 @@
 ##### § 413.13 Amount of payment if customary charges for services furnished are less than reasonable costs. #####
 
+Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
+
 (a) *Definitions.* As used in this section -
 
 *Customary charges* means the regular rates that providers charge both beneficiaries and other paying patients for the services furnished to them.

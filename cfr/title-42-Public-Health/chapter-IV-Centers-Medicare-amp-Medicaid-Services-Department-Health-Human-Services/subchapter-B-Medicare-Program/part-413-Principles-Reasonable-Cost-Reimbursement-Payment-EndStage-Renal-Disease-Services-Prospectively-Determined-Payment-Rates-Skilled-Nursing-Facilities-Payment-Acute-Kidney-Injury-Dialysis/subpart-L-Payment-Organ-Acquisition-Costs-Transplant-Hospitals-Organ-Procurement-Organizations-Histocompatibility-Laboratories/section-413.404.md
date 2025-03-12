@@ -1,5 +1,7 @@
 ##### § 413.404 Standard acquisition charge. #####
 
+Link to an amendment published at 87 FR 72288, Nov. 23, 2022.
+
 (a) *General.* (1) Procuring an organ is not a covered service when performed independent of a Medicare covered transplant, however, the reasonable costs to procure an organ are reimbursable when billed in connection with a Medicare covered transplant.
 
 (2) The SAC represents the average of the total organ acquisition costs associated with procuring either cadaveric donor organs or living donor organs, by organ type.

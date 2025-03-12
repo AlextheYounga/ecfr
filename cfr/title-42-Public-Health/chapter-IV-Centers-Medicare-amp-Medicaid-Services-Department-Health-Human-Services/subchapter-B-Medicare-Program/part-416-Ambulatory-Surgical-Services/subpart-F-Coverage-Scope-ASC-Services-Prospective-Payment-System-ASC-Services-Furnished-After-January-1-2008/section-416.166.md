@@ -1,5 +1,7 @@
 ##### § 416.166 Covered surgical procedures. #####
 
+Link to an amendment published at 87 FR 72291, Nov. 23, 2022.
+
 (a) *Covered surgical procedures.* Effective for services furnished on or after January 1, 2022, covered surgical procedures are those procedures that meet the general standards described in paragraph (b) of this section (whether commonly furnished in an ASC or a physician's office) and are not excluded under paragraph (c) of this section.
 
 (b) *General standards.* Subject to the exclusions in paragraph (c) of this section, covered surgical procedures are surgical procedures specified by the Secretary and published in the Federal Register and/or via the internet on the CMS website that are separately paid under the OPPS, that would not be expected to pose a significant safety risk to a Medicare beneficiary when performed in an ASC, and for which standard medical practice dictates that the beneficiary would not typically be expected to require active medical monitoring and care at midnight following the procedure.

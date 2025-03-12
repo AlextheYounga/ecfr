@@ -1,5 +1,7 @@
 ##### § 413.24 Adequate cost data and cost finding. #####
 
+Link to an amendment published at 87 FR 72287, Nov. 23, 2022.
+
 (a) *Principle.* Providers receiving payment on the basis of reimbursable cost must provide adequate cost data. This must be based on their financial and statistical records which must be capable of verification by qualified auditors. The cost data must be based on an approved method of cost finding and on the accrual basis of accounting, except for -
 
 (1) Governmental institutions which operate on a cash basis method of accounting. Cost data based on such basis of accounting will be acceptable, subject to appropriate treatment of capital expenditures.
