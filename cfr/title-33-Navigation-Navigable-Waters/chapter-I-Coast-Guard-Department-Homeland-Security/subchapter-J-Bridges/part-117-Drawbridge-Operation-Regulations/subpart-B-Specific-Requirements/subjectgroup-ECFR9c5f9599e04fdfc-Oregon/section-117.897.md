@@ -1,5 +1,7 @@
 ##### § 117.897 Willamette River. #####
 
+Link to an amendment published at 87 FR 10311, Feb. 24, 2022.
+
 (a) The draws of the Union Pacific railroad bridge, mile 119.6 at Albany; and mile 164.3 near Harrisburg, need not open for the passage of vessels. However the draws shall be returned to operable condition within six months after notification by the District Commander to do so.
 
 (b) The draw of the Oregon State highway bridge, mile 132.1 at Corvallis, shall open on signal if at least seven days notice is given. However, the draw need not be opened on Saturdays, Sundays, and Federal Holidays.

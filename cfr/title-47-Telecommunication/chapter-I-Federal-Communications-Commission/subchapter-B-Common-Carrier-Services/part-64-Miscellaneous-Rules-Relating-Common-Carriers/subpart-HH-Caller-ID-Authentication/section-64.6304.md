@@ -1,8 +1,10 @@
 ##### § 64.6304 Extension of implementation deadline. #####
 
-Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
+(a) *Small voice service providers.* (1) Small voice service providers are exempt from the requirements of § 64.6301 through June 30, 2023, except that:
 
-(a) *Small voice service providers.* (1) Small voice service providers are exempt from the requirements of § 64.6301 through June 30, 2023.
+(i) A non-facilities-based small voice service provider is exempt from the requirements of § 64.6301 only until June 30, 2022; and
+
+(ii) A small voice service provider notified by the Enforcement Bureau pursuant to § 0.111(a)(27) of this chapter that fails to respond in a timely manner, fails to respond with the information requested by the Enforcement Bureau, including credible evidence that the robocall traffic identified in the notification is not illegal, fails to demonstrate that it taken steps to effectively mitigate the traffic, or if the Enforcement Bureau determines the provider violates § 64.1200(n)(2), will no longer be exempt from the requirements of § 64.6301 beginning 90 days following the date of the Enforcement Bureau's determination, unless the extension would otherwise terminate earlier pursuant to paragraph (a)(1) introductory text or (a)(1)(i), in which case the earlier deadline applies.
 
 (2) For purposes of this paragraph (a), “small voice service provider” means a provider that has 100,000 or fewer voice service subscriber lines (counting the total of all business and residential fixed subscriber lines and mobile phones and aggregated over all of the provider's affiliates).
 
@@ -16,4 +18,4 @@ Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
 
 (f) *Annual reevaluation of granted extensions.* The Wireline Competition Bureau shall, in conjunction with an assessment of burdens and barriers to implementation of caller identification authentication technology, annually review the scope of all previously granted extensions and, after issuing a Public Notice seeking comment, may extend or decline to extend each such extension, and may decrease the scope of entities subject to a further extension.
 
-[85 FR 73395, Nov. 17, 2020]
+[85 FR 73395, Nov. 17, 2020, as amended at 87 FR 3693, Jan. 25, 2022]

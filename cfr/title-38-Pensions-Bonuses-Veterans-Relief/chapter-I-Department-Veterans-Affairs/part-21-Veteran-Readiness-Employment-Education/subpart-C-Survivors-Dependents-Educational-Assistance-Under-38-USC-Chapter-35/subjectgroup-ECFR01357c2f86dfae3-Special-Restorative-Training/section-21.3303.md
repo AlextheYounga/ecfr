@@ -1,6 +1,6 @@
 ##### § 21.3303 Extent of training. #####
 
-(a) *Length of special restorative training.* Ordinarily, special restorative training may not exceed 12 months. When the counseling psychologist or vocational rehabilitation counselor, after consulting with the Vocational Rehabilitation Panel, determines that more than 12 months of training is necessary, he or she will refer the program to the Director, Vocational Rehabilitation and Employment Service for prior approval. Where the plan for a program of special restorative training itself (not in combination with the program of education) will require more than 45 months (or its equivalent in accelerated payments) the plan will be included in the recommendation to the Director, Vocational Rehabilitation and Employment Service for approval.
+(a) *Length of special restorative training.* Ordinarily, special restorative training may not exceed 12 months. When the counseling psychologist or vocational rehabilitation counselor, after consulting with the Vocational Rehabilitation Panel, determines that more than 12 months of training is necessary, he or she will refer the program to the Executive Director, Veteran Readiness and Employment (VR&E) Service for prior approval. Where the plan for a program of special restorative training itself (not in combination with the program of education) will require more than 45 months (or its equivalent in accelerated payments) the plan will be included in the recommendation to the Executive Director, VR&E Service for approval.
 
 (Authority: 38 U.S.C. 3543(b))
 
@@ -20,4 +20,4 @@
 
 (2) If the hours per week that can reasonably be devoted to restorative training will not of themselves equal the time required by paragraph (c)(1) of this section, the course will be supplemented with subject matter which will contribute toward the objective of the program of education.
 
-(Authority: 38 U.S.C. 3542, 3543)[48 FR 37973, Aug. 22, 1983, as amended at 49 FR 42726, Oct. 24, 1984; 73 FR 2425, Jan. 15, 2008]Editorial Note:At 87 FR 8743, Feb. 16, 2022, § 21.3303 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+(Authority: 38 U.S.C. 3542, 3543)[48 FR 37973, Aug. 22, 1983, as amended at 49 FR 42726, Oct. 24, 1984; 73 FR 2425, Jan. 15, 2008; 87 FR 8743, Feb. 16, 2022; 87 FR 10311, Feb. 24, 2022]

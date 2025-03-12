@@ -1,7 +1,5 @@
 ##### § 64.6305 Robocall mitigation and certification. #####
 
-Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
-
 (a) *Robocall mitigation program requirements.* (1) Any voice service provider subject to an extension granted under § 64.6304 that has not fully implemented the STIR/SHAKEN authentication framework on its entire network shall implement an appropriate robocall mitigation program as to those portions of its network on which it has not implemented the STIR/SHAKEN authentication framework.
 
 (2) Any robocall mitigation program implemented pursuant to paragraph (a)(1) of this section shall include reasonable steps to avoid originating illegal robocall traffic and shall include a commitment to respond fully and in a timely manner to all traceback requests from the Commission, law enforcement, and the industry traceback consortium, and to cooperate with such entities in investigating and stopping any illegal robocallers that use its service to originate calls.
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
 
 (v) The name, title, department, business address, telephone number, and email address of one person within the company responsible for addressing robocall mitigation-related issues.
 
-(5) A voice service provider shall update its filings within 10 business days of any change to the information it must provide pursuant to paragraphs (b)(2) through (4) of this section.
+(5) A voice service provider shall update its filings within 10 business days of any change to the information it must provide pursuant to paragraphs (b)(1) through (4) of this section.
 
 (i) A voice service provider or intermediate provider that has been aggrieved by a Governance Authority decision to revoke that voice service provider's or intermediate provider's SPC token need not update its filing on the basis of that revocation until the sixty (60) day period to request Commission review, following completion of the Governance Authority's formal review process, pursuant to § 64.6308(b)(1) expires or, if the aggrieved voice service provider or intermediate provider files an appeal, until ten business days after the Wireline Competition Bureau releases a final decision pursuant to § 64.6308(d)(1).
 
@@ -50,4 +48,4 @@ Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
 
 (c) *Intermediate provider and voice service provider obligations.* Beginning September 28, 2021, intermediate providers and voice service providers shall only accept calls directly from a voice service provider, including a foreign voice service provider that uses North American Numbering Plan resources that pertain to the United States to send voice traffic to residential or business subscribers in the United States, if that voice service provider's filing appears in the Robocall Mitigation Database in accordance with paragraph (b) of this section.
 
-[85 FR 73395, Nov. 17, 2020, as amended at 86 FR 29953, June 4, 2021; 86 FR 48520, Aug. 31, 2021]
+[85 FR 73395, Nov. 17, 2020, as amended at 86 FR 29953, June 4, 2021; 86 FR 48520, Aug. 31, 2021; 87 FR 3693, Jan. 25, 2022]

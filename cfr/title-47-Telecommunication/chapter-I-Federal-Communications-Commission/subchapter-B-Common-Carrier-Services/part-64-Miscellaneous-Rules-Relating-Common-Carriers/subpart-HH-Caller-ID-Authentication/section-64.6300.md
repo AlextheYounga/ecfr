@@ -1,7 +1,5 @@
 ##### § 64.6300 Definitions. #####
 
-Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
-
 (a) *Authenticate caller identification information.* The term “authenticate caller identification information” refers to the process by which a voice service provider attests to the accuracy of caller identification information transmitted with a call it originates.
 
 (b) *Caller identification information.* The term “caller identification information” has the same meaning given the term “caller identification information” in 47 CFR 64.1600(c) as it currently exists or may hereafter be amended.
@@ -14,17 +12,19 @@ Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
 
 (f) *Intermediate provider.* The term “intermediate provider” means any entity that carriers or processes traffic that traverses or will traverse the PSTN at any point insofar as that entity neither originates nor terminates that traffic.
 
-(g) *Robocall Mitigation Database.* The term “Robocall Mitigation Database” refers to a database accessible via the Commission's website that lists all entities that make filings pursuant to § 64.6305(b).
+(g) *Non-facilities-based small voice service provider.* The term “non-facilities-based small voice service provider” means a small voice service provider that is offering voice service to end-users solely using connections that are not sold by the provider or its affiliates.
 
-(h) *SIP call.* The term “SIP call” refers to calls initiated, maintained, and terminated using the Session Initiation Protocol signaling protocol.
+(h) *Robocall Mitigation Database.* The term “Robocall Mitigation Database” refers to a database accessible via the Commission's website that lists all entities that make filings pursuant to § 64.6305(b).
 
-(i) *SPC token.* The term “SPC token” refers to the Service Provider Code token, an authority token validly issued to an intermediate provider or voice service provider that allows the provider to authenticate and verify caller identification information consistent with the STIR/SHAKEN authentication framework in the United States.
+(i) *SIP call.* The term “SIP call” refers to calls initiated, maintained, and terminated using the Session Initiation Protocol signaling protocol.
 
-(j) *STIR/SHAKEN authentication framework.* The term “STIR/SHAKEN authentication framework” means the secure telephone identity revisited and signature-based handling of asserted information using tokens standards.
+(j) *SPC token.* The term “SPC token” refers to the Service Provider Code token, an authority token validly issued to an intermediate provider or voice service provider that allows the provider to authenticate and verify caller identification information consistent with the STIR/SHAKEN authentication framework in the United States.
 
-(k) *Verify caller identification information.* The term “verify caller identification information” refers to the process by which a voice service provider confirms that the caller identification information transmitted with a call it terminates was properly authenticated.
+(k) *STIR/SHAKEN authentication framework.* The term “STIR/SHAKEN authentication framework” means the secure telephone identity revisited and signature-based handling of asserted information using tokens standards.
 
-(l) *Voice service.* The term “voice service” -
+(l) *Verify caller identification information.* The term “verify caller identification information” refers to the process by which a voice service provider confirms that the caller identification information transmitted with a call it terminates was properly authenticated.
+
+(m) *Voice service.* The term “voice service” -
 
 (1) Means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of the Communications Act of 1934, as amended; and
 
@@ -34,4 +34,4 @@ Link to an amendment published at 87 FR 3693, Jan. 25, 2022.
 
 (ii) Without limitation, any service that enables real-time, two-way voice communications, including any service that requires internet Protocol-compatible customer premises equipment and permits out-bound calling, whether or not the service is one-way or two-way voice over internet Protocol.
 
-[85 FR 22043, Apr. 21, 2020, as amended at 85 FR 73394, Nov. 17, 2020]
+[85 FR 22043, Apr. 21, 2020, as amended at 85 FR 73394, Nov. 17, 2020; 87 FR 3693, Jan. 25, 2022]

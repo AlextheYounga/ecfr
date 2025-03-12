@@ -1,5 +1,7 @@
 ##### § 16.2 Definitions. #####
 
+Link to an amendment published at 87 FR 10309, Feb. 24, 2022.
+
 *ALJ* means an Administrative Law Judge in the authority appointed pursuant to 5 U.S.C. 3105 or detailed to the authority pursuant to 5 U.S.C. 3344.
 
 *Authority* means the Department of the Treasury.
