@@ -1,5 +1,7 @@
 ##### § 1.913 Application and notification forms; electronic and manual filing. #####
 
+Link to an amendment published at 85 FR 85529, Dec. 29, 2020.
+
 (a) *Application and notification forms.* Applicants, licensees, and spectrum lessees (see § 1.9003) shall use the following forms and associated schedules for all applications and notifications:
 
 (1) *FCC Form 601, Application for Authorization in the Wireless Radio Services.* FCC Form 601 and associated schedules are used to apply for initial authorizations, modifications to existing authorizations, amendments to pending applications, renewals of station authorizations, special temporary authority, notifications, requests for extension of time, and administrative updates.

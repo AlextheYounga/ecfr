@@ -1,5 +1,7 @@
 ##### § 1.923 Content of applications. #####
 
+Link to an amendment published at 85 FR 85530, Dec. 29, 2020.
+
 (a) *General.* Applications must contain all information requested on the applicable form and any additional information required by the rules in this chapter and any rules pertaining to the specific service for which the application is filed.
 
 (b) *Reference to material on file.* Questions on application forms that call for specific technical data, or that can be answered yes or no or with another short answer, must be answered on the form. Otherwise, if documents, exhibits, or other lengthy showings already on file with the FCC contain information required in an application, the application may incorporate such information by reference, provided that:

@@ -1,4 +1,7 @@
-##### § 412.3 Admissions. #####
+##### § 412.3 Admissions.
+- #####
+
+Link to an amendment published at 85 FR 86300, Dec. 29, 2020.
 
 (a) For purposes of payment under Medicare Part A, an individual is considered an inpatient of a hospital, including a critical access hospital, if formally admitted as an inpatient pursuant to an order for inpatient admission by a physician or other qualified practitioner in accordance with this section and §§ 482.24(c), 482.12(c), and 485.638(a)(4)(iii) of this chapter for a critical access hospital. In addition, inpatient rehabilitation facilities also must adhere to the admission requirements specified in § 412.622.
 

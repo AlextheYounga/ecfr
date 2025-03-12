@@ -1,5 +1,7 @@
 ##### § 301.86-3 Quarantined areas. #####
 
+Link to an amendment published at 85 FR 85503, Dec. 29, 2020.
+
 (a) *Designation of quarantined areas.* In accordance with the criteria listed in paragraph (c) of this section, the Administrator will designate as a quarantined area each field that has been found to be infested with pale cyst nematode, each field that has been found to be associated with an infested field, and any area that the Administrator considers necessary to quarantine because of its inseparability for quarantine enforcement purposes from infested or associated fields. The Administrator will publish the description of the quarantined area on the Plant Protection and Quarantine Web site, *http://www.aphis.usda.gov/plant\_health/plant\_pest\_info/potato/pcn.shtml.* The description of the quarantined area will include the date the description was last updated and a description of the changes that have been made to the quarantined area. The description of the quarantined area may also be obtained by request from any local office of PPQ; local offices are listed in telephone directories. After a change is made to the quarantined area, we will publish a notice in the Federal Register informing the public that the change has occurred and describing the change to the quarantined area.
 
 (b) *Designation of an area less than an entire State as a quarantined area.* Less than an entire State will be designated as a quarantined area only if the Administrator determines that:

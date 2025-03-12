@@ -1,5 +1,7 @@
 ##### § 419.66 Transitional pass-through payments: Medical devices. #####
 
+Link to an amendment published at 85 FR 86303, Dec. 29, 2020.
+
 (a) *General rule.* CMS makes a pass-through payment for a medical device that meets the requirements in paragraph (b) of this section and that is described by a category of devices established by CMS under the criteria in paragraph (c) of this section.
 
 (b) *Eligibility.* A medical device must meet the following requirements:

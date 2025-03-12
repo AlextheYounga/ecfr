@@ -1,5 +1,7 @@
 ##### § 1.1314 Environmental impact statements (EISs). #####
 
+Link to an amendment published at 85 FR 85531, Dec. 29, 2020.
+
 (a) Draft Environmental Impact Statements (DEISs) (§ 1.1315) and Final Environmental Impact Statements (FEISs) (referred to collectively as EISs) (§ 1.1317) shall be prepared by the Bureau responsible for processing the proposal when the Commission's or the Bureau's analysis of the EA (§ 1.1308) indicates that the proposal will have a significant effect upon the environment and the matter has not been resolved by an amendment.
 
 (b) As soon as practically feasible, the Bureau will publish in the Federal Register a Notice of Intent to prepare EISs. The Notice shall briefly identify the proposal, concisely describe the environmental issues and concerns presented by the subject application, and generally invite participation from affected or involved agencies, authorities and other interested persons.

@@ -1,5 +1,7 @@
 ##### § 13.9 Eligibility and application for new license or endorsement. #####
 
+Link to an amendment published at 85 FR 85531, Dec. 29, 2020.
+
 (a) If found qualified, the following persons are eligible to apply for commercial radio operator licenses:
 
 (1) Any person legally eligible for employment in the United States.

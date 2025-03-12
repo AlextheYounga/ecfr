@@ -1,5 +1,7 @@
 ##### § 1.40001 Executive branch review of applications, petitions, other filings, and existing authorizations or licenses with reportable foreign ownership. #####
 
+Link to an amendment published at 85 FR 76385, Nov. 27, 2020.
+
 (a) The Commission, in its discretion, may refer applications, petitions, and other filings to the executive branch for review for national security, law enforcement, foreign policy, and/or trade policy concerns.
 
 (1) The Commission will generally refer to the executive branch applications filed for an international section 214 authorization and submarine cable landing license as well as an application to assign, transfer control of, or modify those authorizations and licenses where the applicant has reportable foreign ownership and petitions for section 310(b) foreign ownership rulings for broadcast, common carrier wireless, and common carrier satellite earth station licenses pursuant to §§ 1.767, 63.18 and 63.24 of this chapter, and 1.5000 through 1.5004.

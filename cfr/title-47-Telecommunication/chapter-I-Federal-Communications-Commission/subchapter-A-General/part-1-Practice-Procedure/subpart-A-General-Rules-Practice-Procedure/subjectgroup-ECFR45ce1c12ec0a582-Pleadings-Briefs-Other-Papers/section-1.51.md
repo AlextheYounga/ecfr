@@ -1,5 +1,7 @@
 ##### § 1.51 Number of copies of pleadings, briefs, and other papers. #####
 
+Link to an amendment published at 85 FR 85528, Dec. 29, 2020.
+
 (a) In hearing proceedings, all pleadings, letters, documents, or other written submissions, shall be filed using the Commission's Electronic Comment Filing System, excluding confidential material as set forth in § 1.314 of these rules. Each written submission that includes confidential material shall be filed as directed by the Commission, along with an additional courtesy copy transmitted to the presiding officer.
 
 (b) In rulemaking proceedings which have not been designated for hearing, *see* § 1.419.

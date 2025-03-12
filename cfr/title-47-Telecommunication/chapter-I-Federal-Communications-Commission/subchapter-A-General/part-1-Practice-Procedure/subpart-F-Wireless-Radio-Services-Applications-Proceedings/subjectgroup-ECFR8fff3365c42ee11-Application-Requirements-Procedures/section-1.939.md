@@ -1,5 +1,7 @@
 ##### § 1.939 Petitions to deny. #####
 
+Link to an amendment published at 85 FR 85530, Dec. 29, 2020.
+
 (a) *Who may file.* Any party in interest may file with the Commission a petition to deny any application listed in a Public Notice as accepted for filing, whether as filed originally or upon major amendment as defined in § 1.929 of this part.
 
 (1) For auctionable license applications, petitions to deny and related pleadings are governed by the procedures set forth in § 1.2108 of this part.

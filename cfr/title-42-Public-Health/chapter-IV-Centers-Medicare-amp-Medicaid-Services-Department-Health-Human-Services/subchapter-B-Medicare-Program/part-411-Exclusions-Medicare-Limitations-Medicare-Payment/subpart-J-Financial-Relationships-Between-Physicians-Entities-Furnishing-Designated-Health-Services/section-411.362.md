@@ -1,5 +1,7 @@
 ##### § 411.362 Additional requirements concerning physician ownership and investment in hospitals. #####
 
+Link to an amendment published at 85 FR 86299, Dec. 29, 2020.
+
 (a) *Definitions.* For purposes of this section -
 
 *Baseline number of operating rooms, procedure rooms, and beds* means the number of operating rooms, procedure rooms, and beds for which the applicable hospital or high Medicaid facility is licensed as of March 23, 2010 (or, in the case of a hospital that did not have a provider agreement in effect as of such date, but does have a provider agreement in effect on December 31, 2010, the date of effect of such agreement).

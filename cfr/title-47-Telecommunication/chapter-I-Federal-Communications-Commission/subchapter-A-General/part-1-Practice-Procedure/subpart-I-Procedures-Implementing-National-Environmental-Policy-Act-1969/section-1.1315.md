@@ -1,5 +1,7 @@
 ##### § 1.1315 The Draft Environmental Impact Statement (DEIS); Comments. #####
 
+Link to an amendment published at 85 FR 85531, Dec. 29, 2020.
+
 (a) The DEIS shall include:
 
 (1) A concise description of the proposal, the nature of the area affected, its uses, and any specific feature of the area that has special environmental significance;

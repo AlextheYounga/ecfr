@@ -1,5 +1,7 @@
 ##### § 512.217 Identification of individual practitioners. #####
 
+Link to an amendment published at 85 FR 86304, Dec. 29, 2020.
+
 (a) *General.* Upon the start of each PY, CMS creates and provides to each Dual participant and Professional participant an individual practitioner list identifying by NPI each individual practitioner associated with the RO participant.
 
 (b) *Review of individual practitioner list.* Within 30 days of receipt of the individual practitioner list, the RO participant must review and certify the individual practitioner list, correct any inaccuracies in accordance with paragraph (d) of this section, and certify the list (as corrected, if applicable) in a form and manner specified by CMS and in accordance with paragraph (c) of this section or correct the individual practitioner list in accordance with paragraph (d) of this section.

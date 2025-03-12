@@ -1,5 +1,7 @@
 ##### § 419.45 Payment and copayment reduction for devices replaced without cost or when full or partial credit is received. #####
 
+Link to an amendment published at 85 FR 86302, Dec. 29, 2020.
+
 (a) *General rule.* CMS reduces the amount of payment for an implanted device made under the hospital outpatient prospective payment system in accordance with § 419.66 for which CMS determines that a significant portion of the payment is attributable to the cost of an implanted device, when one of the following situations occur:
 
 (1) The device is replaced without cost to the provider or the beneficiary;

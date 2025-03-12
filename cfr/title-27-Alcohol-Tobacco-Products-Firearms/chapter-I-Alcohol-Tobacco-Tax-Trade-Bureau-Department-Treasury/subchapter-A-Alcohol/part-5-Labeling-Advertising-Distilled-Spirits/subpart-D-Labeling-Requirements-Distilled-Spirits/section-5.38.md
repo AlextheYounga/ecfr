@@ -1,6 +1,6 @@
 ##### § 5.38 Net contents. #####
 
-(a) *Bottles conforming to metric standards of fill.* The net contents of distilled spirits shall be stated in the same manner and form as set forth in the standards of fill in § 5.47a.
+(a) *Standards of fill.* The net contents of distilled spirits shall be stated in metric measure. The equivalent standard U.S. measure may also be stated on the container in addition to the metric measure. *See* § 5.47a of this part for tolerances and for regulations pertaining to unreasonable shortages.
 
 (b) *Bottles not conforming to the metric standards of fill.* The net contents for distilled spirits bottled before January 1, 1980, in bottles not conforming to the metric standards of fill, shall be stated in the same manner and form as set forth in § 5.47(a), except for cordials and liqueurs, cocktails, highballs, bitters and specialties, as specified by the Administrator. The net contents for these specialty products shall be stated in U.S. measure (*i.e.*, gallons, quarts, pints, fluid ounces).
 
@@ -8,4 +8,4 @@
 
 (d) *Qualifying statements.* Words or phrases qualifying statements of net contents are prohibited.
 
-(Sec. 5, 49 Stat. 981, as amended (27 U.S.C. 205); 26 U.S.C. 5301)[T.D. ATF-146, 48 FR 43321, Sept. 23, 1983, as amended by T.D. ATF-249, 52 FR 5956, Feb. 27, 1987]
+(Sec. 5, 49 Stat. 981, as amended (27 U.S.C. 205); 26 U.S.C. 5301)[T.D. ATF-146, 48 FR 43321, Sept. 23, 1983, as amended by T.D. ATF-249, 52 FR 5956, Feb. 27, 1987; T.D. TTB-165, 85 FR 85520, Dec. 29, 2020]

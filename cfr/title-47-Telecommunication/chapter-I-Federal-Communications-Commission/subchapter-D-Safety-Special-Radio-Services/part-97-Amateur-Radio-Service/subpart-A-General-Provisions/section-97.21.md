@@ -1,5 +1,7 @@
 ##### § 97.21 Application for a modified or renewed license grant. #####
 
+Link to an amendment published at 85 FR 85532, Dec. 29, 2020.
+
 (a) A person holding a valid amateur station license grant:
 
 (1) Must apply to the FCC for a modification of the license grant as necessary to show the correct mailing address, licensee name, club name, license trustee name, or license custodian name in accordance with § 1.913 of this chapter. For a club or military recreation station license grant, the application must be presented in document form to a Club Station Call Sign Administrator who must submit the information thereon to the FCC in an electronic batch file. The Club Station Call Sign Administrator must retain the collected information for at least 15 months and make it available to the FCC upon request. A Club Station Call Sign Administrator shall not file with the Commission any application to modify a club station license grant that was submitted by a person other than the trustee as shown on the license grant, except an application to change the club station license trustee. An application to modify a club station license grant to change the license trustee name must be submitted to a Club Station Call Sign Administrator and must be signed by an officer of the club.

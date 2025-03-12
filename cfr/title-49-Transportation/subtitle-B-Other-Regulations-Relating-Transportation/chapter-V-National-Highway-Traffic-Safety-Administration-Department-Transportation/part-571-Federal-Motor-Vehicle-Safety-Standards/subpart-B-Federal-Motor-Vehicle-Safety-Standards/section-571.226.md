@@ -2,7 +2,7 @@
 
 S1. *Purpose and Scope.* This standard establishes requirements for ejection mitigation systems to reduce the likelihood of complete and partial ejections of vehicle occupants through side windows during rollovers or side impact events.
 
-S2. *Application.* This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a gross vehicle weight rating of 4,536 kg or less, except walk-in vans, modified roof vehicles and convertibles. Also excluded from this standard are law enforcement vehicles, correctional institution vehicles, taxis and limousines, if they have a fixed security partition separating the 1st and 2nd or 2nd and 3rd rows and if they are produced by more than one manufacturer or are altered (within the meaning of 49 CFR 567.7).
+S2. *Application.* This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a gross vehicle weight rating of 4,536 kg or less, except walk-in vans, modified roof vehicles, convertibles, and vehicles with no doors or with doors that are designed to be easily attached or removed so the vehicle can be operated without doors. Also excluded from this standard are law enforcement vehicles, correctional institution vehicles, taxis and limousines, if they have a fixed security partition separating the 1st and 2nd or 2nd and 3rd rows and if they are produced by more than one manufacturer or are altered (within the meaning of 49 CFR 567.7).
 
 S3. *Definitions.*
 
@@ -283,4 +283,4 @@ S8.8 For the purposes of calculating average annual production of vehicles for e
 
 (e) For the purposes of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer, each vehicle that is excluded from having to meet this standard is not counted.
 
-![](/graphics/er19ja11.025.gif)![](/graphics/er19ja11.026.gif)![](/graphics/er19ja11.027.gif)![](/graphics/er19ja11.028.gif)![](/graphics/er19ja11.029.gif)![](/graphics/er09se13.007.gif)![](/graphics/er19ja11.030.gif)[76 FR 3296, Jan. 19, 2011; 76 FR 10524, Feb. 25, 2011, as amended at 78 FR 55165, Sept. 9, 2013]
+![](/graphics/er19ja11.025.gif)![](/graphics/er19ja11.026.gif)![](/graphics/er19ja11.027.gif)![](/graphics/er19ja11.028.gif)![](/graphics/er19ja11.029.gif)![](/graphics/er09se13.007.gif)![](/graphics/er19ja11.030.gif)[76 FR 3296, Jan. 19, 2011; 76 FR 10524, Feb. 25, 2011, as amended at 78 FR 55165, Sept. 9, 2013; 85 FR 85535, Dec. 29, 2020]

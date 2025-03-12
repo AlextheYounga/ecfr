@@ -1,5 +1,7 @@
 ##### § 17.6 Responsibility for painting and lighting compliance. #####
 
+Link to an amendment published at 85 FR 85532, Dec. 29, 2020.
+
 (a) The antenna structure owner is responsible for maintaining the painting and lighting in accordance with this part. However, if a licensee or permittee authorized on an antenna structure is aware that the structure is not being maintained in accordance with the specifications set forth on the Antenna Structure Registration (FCC Form 854R) or the requirements of this part, or otherwise has reason to question whether the antenna structure owner is carrying out its responsibility under this part, the licensee or permittee must take immediate steps to ensure that the antenna structure is brought into compliance and remains in compliance. The licensee must:
 
 (1) Immediately notify the structure owner;

@@ -1,5 +1,7 @@
 ##### § 1.87 Modification of license or construction permit on motion of the Commission. #####
 
+Link to an amendment published at 85 FR 85529, Dec. 29, 2020.
+
 (a) Whenever it appears that a station license or construction permit should be modified, the Commission shall notify the licensee or permittee in writing of the proposed action and reasons therefor, and afford the licensee or permittee at least thirty days to protest such proposed order of modification, except that, where safety of life or property is involved, the Commission may by order provide a shorter period of time.
 
 (b) The notification required in paragraph (a) of this section may be effectuated by a notice of proposed rule making in regard to a modification or addition of an FM or television channel to the Table of Allotments (§§ 73.202 and 73.504) or Table of Assignments (§ 73.606). The Commission shall send a copy of any such notice of proposed rule making to the affected licensee or permittee by certified mail, return receipt requested.

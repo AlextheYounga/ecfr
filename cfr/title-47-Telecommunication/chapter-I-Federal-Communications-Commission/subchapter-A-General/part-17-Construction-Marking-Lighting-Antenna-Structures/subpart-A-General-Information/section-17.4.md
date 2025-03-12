@@ -1,5 +1,7 @@
 ##### § 17.4 Antenna structure registration. #####
 
+Link to an amendment published at 85 FR 85532, Dec. 29, 2020.
+
 (a) The owner of any proposed or existing antenna structure that requires notice of proposed construction to the Federal Aviation Administration (FAA) due to physical obstruction must register the structure with the Commission. (See § 17.7 for FAA notification requirements.) This includes those structures used as part of stations licensed by the Commission for the transmission of radio energy, or to be used as part of a cable television head end system. If a Federal Government antenna structure is to be used by a Commission licensee, the structure must be registered with the Commission. If the FAA exempts an antenna structure from notification, it is exempt from the requirement that it register with the Commission. (See § 17.7(e) for exemptions to FAA notification requirements.)
 
 (1) For a proposed antenna structure or alteration of an existing antenna structure, the owner must register the structure prior to construction or alteration.

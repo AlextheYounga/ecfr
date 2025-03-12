@@ -74,7 +74,7 @@ S6.1.1 Initial crush resistance. The initial crush resistance shall not be less 
 
 S6.1.2 Intermediate crush resistance. The intermediate crush resistance shall not be less than 15,569 N (3,500 lb).
 
-S6.1.3 Peak crush resistance. The peak crush resistance shall not be less than two times the curb weight of the vehicle or 31,138 N (7,000 lb),
+S6.1.3 *Peak crush resistance.* The peak crush resistance shall not be less than two times the curb weight of the vehicle or 31,138 N (7,000 lb), whichever is less.
 
 S6.2 With seats installed in the vehicle, and located in any horizontal or vertical position to which they can be adjusted and at any seat back angle to which they can be adjusted, each vehicle must be able to meet the requirements of S6.2.1 through S6.2.3.
 

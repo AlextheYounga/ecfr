@@ -1,5 +1,7 @@
 ##### § 512.255 Determination of participant-specific professional episode payment and participant-specific technical episode payment amounts. #####
 
+Link to an amendment published at 85 FR 86305, Dec. 29, 2020.
+
 (a) Thirty days before the start of each PY, CMS provides each RO participant its case mix and historical experience adjustments for both the PC and TC as calculated in paragraphs (c)(3) and (4) of this section. If an RO participant is not eligible to receive a historical experience adjustment or case mix adjustment as described under paragraph (c)(7) of this section, then CMS provides a zero value for those adjustments.
 
 (b) Any episode used to calculate the participant-specific professional episode payment amounts and the participant-specific technical episode payment amounts for an RO participant is subject to the exclusions described in § 512.250(b)(1) and (2).

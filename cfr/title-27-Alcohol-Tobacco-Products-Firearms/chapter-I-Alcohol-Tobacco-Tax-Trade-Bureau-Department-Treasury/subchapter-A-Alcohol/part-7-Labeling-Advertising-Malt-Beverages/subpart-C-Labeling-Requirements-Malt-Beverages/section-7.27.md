@@ -1,6 +1,6 @@
 ##### § 7.27 Net contents. #####
 
-(a) Net contents shall be stated as follows:
+(a) Net contents shall be stated in standard U.S. measure as follows, and the equivalent metric measure may also be stated:
 
 (1) If less than 1 pint, in fluid ounces, or fractions of a pint.
 
@@ -15,3 +15,5 @@
 (b) All fractions shall be expressed in their lowest denominations.
 
 (c) The net contents need not be stated on any label if the net contents are displayed by having the same blown, branded, or burned in the container in letters or figures in such manner as to be plainly legible under ordinary circumstances and such statement is not obscured in any manner in whole or in part.
+
+[T.D. 6521, 25 FR 13859, Dec. 29, 1960, as amended by T.D. TTB-165, 85 FR 85520, Dec. 29, 2020]

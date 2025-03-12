@@ -1,5 +1,7 @@
 ##### § 419.22 Hospital services excluded from payment under the hospital outpatient prospective payment system. #####
 
+Link to an amendment published at 85 FR 86302, Dec. 29, 2020.
+
 The following services are not paid for under the hospital outpatient prospective payment system (except when packaged as a part of a bundled payment):
 
 (a) Physician services that meet the requirements of § 415.102(a) of this chapter for payment on a fee schedule basis.
