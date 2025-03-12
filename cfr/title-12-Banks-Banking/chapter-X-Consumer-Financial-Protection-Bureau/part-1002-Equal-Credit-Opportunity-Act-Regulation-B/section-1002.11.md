@@ -1,5 +1,7 @@
 ##### § 1002.11 Relation to state law. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Inconsistent state laws.* Except as otherwise provided in this section, this part alters, affects, or preempts only those state laws that are inconsistent with the Act and this part and then only to the extent of the inconsistency. A state law is not inconsistent if it is more protective of an applicant.
 
 (b) *Preempted provisions of state law.* (1) A state law is deemed to be inconsistent with the requirements of the Act and this part and less protective of an applicant within the meaning of section 705(f) of the Act to the extent that the law:

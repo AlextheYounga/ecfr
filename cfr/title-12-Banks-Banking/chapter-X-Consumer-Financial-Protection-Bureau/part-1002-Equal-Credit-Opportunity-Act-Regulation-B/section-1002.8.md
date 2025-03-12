@@ -1,5 +1,7 @@
 ##### § 1002.8 Special purpose credit programs. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Standards for programs.* Subject to the provisions of paragraph (b) of this section, the Act and this part permit a creditor to extend special purpose credit to applicants who meet eligibility requirements under the following types of credit programs:
 
 (1) Any credit assistance program expressly authorized by Federal or state law for the benefit of an economically disadvantaged class of persons;

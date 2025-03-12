@@ -1,7 +1,5 @@
 ##### § 117.897 Willamette River. #####
 
-Link to an amendment published at 87 FR 10311, Feb. 24, 2022.
-
 (a) The draws of the Union Pacific railroad bridge, mile 119.6 at Albany; and mile 164.3 near Harrisburg, need not open for the passage of vessels. However the draws shall be returned to operable condition within six months after notification by the District Commander to do so.
 
 (b) The draw of the Oregon State highway bridge, mile 132.1 at Corvallis, shall open on signal if at least seven days notice is given. However, the draw need not be opened on Saturdays, Sundays, and Federal Holidays.
@@ -22,6 +20,4 @@ Link to an amendment published at 87 FR 10311, Feb. 24, 2022.
 
 (v) Hawthorne Bridge, Portland, mile 13.1, no advance notice required.
 
-(vi) Morrison Bridge, Portland, mile 12.8, will open a single leaf of the double leaf bascule bridge, upon the receipt of a telephone (503-988-3452) or VHF channel 13 radio signal to the Hawthorne Bridge, at Willamette River mile 13.1, given at least a two-hour advance notice, or four-hour advance notice if tug assist is required.
-
-[CGD13-05-023, 70 FR 73939, Dec. 14, 2005, as amended by USCG-2008-0721, 74 FR 5986, Feb. 4, 2009; USCG-2021-0778, 87 FR 10311, Feb. 24, 2022]Effective Date Note:By USCG-2021-0778, 87 FR 10311, Feb. 24, 2022, § 117.897 was amended by staying paragraph (c)(3)(iv) and adding paragraph (c)(3)(vi), effective Apr. 1, 2022, through May 31, 2023.
+[CGD13-05-023, 70 FR 73939, Dec. 14, 2005, as amended by USCG-2008-0721, 74 FR 5986, Feb. 4, 2009; USCG-2021-0778, 87 FR 10311, Feb. 24, 2022]

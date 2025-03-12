@@ -1,5 +1,7 @@
 ##### § 1002.3 Limited exceptions for certain classes of transactions. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Public utilities credit*—(1) *Definition.* Public utilities credit refers to extensions of credit that involve public utility services provided through pipe, wire, or other connected facilities, or radio or similar transmission (including extensions of such facilities), if the charges for service, delayed payment, and any discount for prompt payment are filed with or regulated by a government unit.
 
 (2) *Exceptions.* The following provisions of this part do not apply to public utilities credit:

@@ -1,5 +1,7 @@
 ##### § 1002.16 Enforcement, penalties and liabilities. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Administrative enforcement.* (1) As set forth more fully in section 704 of the Act, administrative enforcement of the Act and this part regarding certain creditors is assigned to the Comptroller of the Currency, Board of Governors of the Federal Reserve System, Board of Directors of the Federal Deposit Insurance Corporation, National Credit Union Administration, Surface Transportation Board, Civil Aeronautics Board, Secretary of Agriculture, Farm Credit Administration, Securities and Exchange Commission, Small Business Administration, Secretary of Transportation, and Bureau of Consumer Financial Protection.
 
 (2) Except to the extent that administrative enforcement is specifically assigned to some government agency other than the Bureau, and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission is authorized to enforce the requirements imposed under the Act and this part.

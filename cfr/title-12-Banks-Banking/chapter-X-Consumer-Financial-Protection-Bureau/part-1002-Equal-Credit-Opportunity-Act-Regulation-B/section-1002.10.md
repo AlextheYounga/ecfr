@@ -1,5 +1,7 @@
 ##### § 1002.10 Furnishing of credit information. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Designation of accounts.* A creditor that furnishes credit information shall designate:
 
 (1) Any new account to reflect the participation of both spouses if the applicant's spouse is permitted to use or is contractually liable on the account (other than as a guarantor, surety, endorser, or similar party); and

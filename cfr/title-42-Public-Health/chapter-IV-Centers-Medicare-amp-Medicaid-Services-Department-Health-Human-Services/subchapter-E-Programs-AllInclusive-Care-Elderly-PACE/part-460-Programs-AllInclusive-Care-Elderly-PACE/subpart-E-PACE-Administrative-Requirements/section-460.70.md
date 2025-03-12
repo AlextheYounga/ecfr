@@ -1,6 +1,6 @@
 ##### § 460.70 Contracted services. #####
 
-Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
+Link to an amendment published at 88 FR 22345, Apr. 12, 2023.Link to a correction published at 88 FR 34780, May 31, 2023.
 
 (a) *General rule.* The PACE organization must have a written contract with each outside organization, agency, or individual that furnishes administrative or care-related services not furnished directly by the PACE organization except for emergency services as described in § 460.100.
 

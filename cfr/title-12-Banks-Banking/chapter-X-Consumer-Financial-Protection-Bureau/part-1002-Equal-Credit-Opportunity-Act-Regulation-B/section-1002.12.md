@@ -1,5 +1,7 @@
 ##### § 1002.12 Record retention. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.Link to an amendment published at 88 FR 35528, May 31, 2023.
+
 (a) *Retention of prohibited information.* A creditor may retain in its files information that is prohibited by the Act or this part for use in evaluating applications, without violating the Act or this part, if the information was obtained:
 
 (1) From any source prior to March 23, 1977;

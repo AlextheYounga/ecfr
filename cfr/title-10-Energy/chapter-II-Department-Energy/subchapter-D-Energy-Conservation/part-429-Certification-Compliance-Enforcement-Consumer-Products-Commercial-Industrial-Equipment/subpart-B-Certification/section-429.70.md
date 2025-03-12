@@ -1,8 +1,8 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 88 FR 27388, May 1, 2023.Link to an amendment published at 88 FR 28835, May 4, 2023.
+Link to an amendment published at 88 FR 28835, May 4, 2023.
 
-(a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.65 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
+(a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.69 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.
 
@@ -788,4 +788,44 @@ Table 8 to Paragraph (m)(5)(viii)(A)
 
 (*4*) Obtaining DOE authorization to resume use of the AEDM.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022; 87 FR 77321, Dec. 16, 2022; 88 FR 17973, Mar. 24, 2023; 88 FR 21837 Apr. 11, 2023]
+(n) *Alternative efficiency determination method (AEDM) for fans and blowers.* (1) *Criteria an AEDM must satisfy.* A manufacturer is not permitted to apply an AEDM to a basic model of fan or blower to determine represented values pursuant to this section unless:
+
+(i) The AEDM is derived from a mathematical model that estimates the energy use characteristics of the basic model as measured by the applicable DOE test procedure and accurately represents the performance characteristics of that basic model;
+
+(ii) The AEDM is based on engineering or statistical analysis, computer simulation or modeling, or other analytic evaluation of actual performance data; and
+
+(iii) The manufacturer has validated the AEDM in accordance with paragraph (n)(2) of this section.
+
+(2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability by comparing the simulated FEI, or simulated efficacy, as applicable, to the tested FEI or tested efficacy, as applicable (determined by testing), as follows.
+
+(i) *Select basic models.* For each fan or blower validation class listed as follows: centrifugal housed fan; radial housed fan; centrifugal inline fan; centrifugal unhoused fan; centrifugal power roof ventilator exhaust fan; centrifugal power roof ventilator supply fan; axial inline fan; axial panel fan; axial centrifugal power roof ventilator fan; unhoused ACFH; axial housed ACFH; and housed centrifugal air circulating fan to which the AEDM is applied, a manufacturer must select at least two basic models compliant with any energy conservation standards in subpart J of part 431 of this chapter. In addition, at least one basic model selected for validation testing should include a motor, or a motor and controller if the AEDM is applied to a basic model with a motor or to a basic model with a motor and controller.
+
+(ii) *Apply the AEDM* to the selected basic models. Using the AEDM, calculate the simulated FEI, or efficacy, as applicable, for each of the selected basic models.
+
+(iii) *Testing.* Test a sample of units of each of the selected basic models in accordance with 10 CFR 431.174 and determine the FEI or efficacy, as applicable, in accordance with § 429.69(a)(1) and (b)(1) as applicable.
+
+(iv) *Compare.* The simulated FEI or simulated efficacy, as applicable, for each basic model must be less than or equal to 105 percent of the FEI or efficacy, as applicable, determined in paragraph (n)(2)(iii) of this section through testing.
+
+(v) *Additional AEDM requirements.* When making representations of values other than FEI (*e.g.,* FEP, fan shaft power) or efficacy (as applicable) for a basic model that relies on an AEDM, all other representations are required to be based on the same AEDM results used to generate the represented value of FEI or efficacy.
+
+(3) *Verification of an AEDM*—(i) *Periodic review*s. Each manufacturer must periodically select basic models representative of those to which it has applied an AEDM. The manufacturer must select a sufficient number of basic models to ensure the AEDM maintains its accuracy and reliability. For each basic model selected for verification: subject at least one unit to testing in accordance with 10 CFR 431.174. The provisions in paragraph (n)(2)(iv) of this section must be met.
+
+(ii) *Inspection records.* Each manufacturer that has used an AEDM under this section must have available for inspection by the Department of Energy records showing:
+
+(A) The method or methods used to develop the AEDM;
+
+(B) The mathematical model, the engineering or statistical analysis, computer simulation or modeling, and other analytic evaluation of performance data on which the AEDM is based;
+
+(C) Complete test data, equipment information, and related information that the manufacturer has generated or acquired pursuant to paragraphs (n)(2) and (3) of this section; and
+
+(D) The calculations used to determine the simulated FEI or simulated weighted-average FEI, as applicable, of each basic model to which the AEDM was applied.
+
+(iii) *Simulations.* If requested by the Department, the manufacturer must:
+
+(A) Conduct simulations to predict the performance of particular basic models of electric motors specified by the Department;
+
+(B) Provide analyses of previous simulations conducted by the manufacturer; and/or
+
+(C) Conduct testing of basic models selected by the Department.
+
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022; 87 FR 77321, Dec. 16, 2022; 88 FR 17973, Mar. 24, 2023; 88 FR 21837 Apr. 11, 2023; 88 FR 27388, May 1, 2023]

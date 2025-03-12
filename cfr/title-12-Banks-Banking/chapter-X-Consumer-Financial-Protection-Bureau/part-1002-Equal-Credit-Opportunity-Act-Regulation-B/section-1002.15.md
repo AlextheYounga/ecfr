@@ -1,5 +1,7 @@
 ##### § 1002.15 Incentives for self-testing and self-correction. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *General rules*—(1) *Voluntary self-testing and correction.* The report or results of a self-test that a creditor voluntarily conducts (or authorizes) are privileged as provided in this section. Data collection required by law or by any governmental authority is not a voluntary self-test.
 
 (2) *Corrective action required.* The privilege in this section applies only if the creditor has taken or is taking appropriate corrective action.

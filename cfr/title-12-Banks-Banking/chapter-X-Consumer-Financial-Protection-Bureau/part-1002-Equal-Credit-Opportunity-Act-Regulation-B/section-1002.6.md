@@ -1,5 +1,7 @@
 ##### § 1002.6 Rules concerning evaluation of applications. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *General rule concerning use of information.* Except as otherwise provided in the Act and this part, a creditor may consider any information obtained, so long as the information is not used to discriminate against an applicant on a prohibited basis. The legislative history of the Act indicates that the Congress intended an “effects test” concept, as outlined in the employment field by the Supreme Court in the cases of *Griggs* v. *Duke Power Co.,* 401 U.S. 424 (1971), and *Albemarle Paper Co.* v. *Moody,* 422 U.S. 405 (1975), to be applicable to a creditor's determination of creditworthiness.
 
 (b) *Specific rules concerning use of information.* (1) Except as provided in the Act and this part, a creditor shall not take a prohibited basis into account in any system of evaluating the creditworthiness of applicants.

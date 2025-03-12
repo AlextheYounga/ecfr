@@ -1,5 +1,7 @@
 ##### § 1002.13 Information for monitoring purposes. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Information to be requested.* (1) A creditor that receives an application for credit primarily for the purchase or refinancing of a dwelling occupied or to be occupied by the applicant as a principal residence, where the extension of credit will be secured by the dwelling, shall request as part of the application the following information regarding the applicant(s):
 
 (i) Ethnicity and race using either:

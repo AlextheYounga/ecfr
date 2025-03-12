@@ -34,7 +34,7 @@
 
 (3) *Lingcod.* Lingcod taken in the treaty fisheries are subject to a harvest guideline of 250 mt.
 
-(4) *Pacific whiting.* The tribal allocation for 2022 is 70,463 mt.
+(4) *Pacific whiting.* The tribal allocation for 2023 is 80,806 mt.
 
 (5) *Pacific cod.* There is a tribal harvest guideline of 500 mt of Pacific cod per year. The tribes will manage their fisheries to stay within this harvest guideline.
 
@@ -68,4 +68,4 @@
 
 (h) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 82300, Dec. 30, 2010; 76 FR 27529, May 11, 2011; 76 FR 28903, May 19, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 78 FR 26532, May 7, 2013; 79 FR 27204, May 13, 2014; 80 FR 12572, Mar. 10, 2015; 80 FR 27593, May 14, 2015; 81 FR 30208, May 16, 2016; 81 FR 36807, June 8, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 21321, May 8, 2017; 83 FR 22405, May 15, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 20584, May 10, 2019; 85 FR 36812, June 18, 2020; 85 FR 79893, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 86 FR 32809, June 23, 2021; 87 FR 33441, June 2, 2022; 87 FR 77015, Dec. 16, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 82300, Dec. 30, 2010; 76 FR 27529, May 11, 2011; 76 FR 28903, May 19, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 78 FR 26532, May 7, 2013; 79 FR 27204, May 13, 2014; 80 FR 12572, Mar. 10, 2015; 80 FR 27593, May 14, 2015; 81 FR 30208, May 16, 2016; 81 FR 36807, June 8, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 21321, May 8, 2017; 83 FR 22405, May 15, 2018; 83 FR 63991, Dec. 12, 2018; 84 FR 20584, May 10, 2019; 85 FR 36812, June 18, 2020; 85 FR 79893, Dec. 11, 2020; 86 FR 10867, Feb. 23, 2021; 86 FR 32809, June 23, 2021; 87 FR 33441, June 2, 2022; 87 FR 77015, Dec. 16, 2022; 88 FR 34787, May 31, 2023]

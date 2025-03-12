@@ -1,5 +1,7 @@
 ##### § 1002.2 Definitions. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 For the purposes of this part, unless the context indicates otherwise, the following definitions apply.
 
 (a) *Account* means an extension of credit. When employed in relation to an account, the word use refers only to open-end credit.

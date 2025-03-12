@@ -1,5 +1,7 @@
 ##### § 1002.7 Rules concerning extensions of credit. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Individual accounts.* A creditor shall not refuse to grant an individual account to a creditworthy applicant on the basis of sex, marital status, or any other prohibited basis.
 
 (b) *Designation of name.* A creditor shall not refuse to allow an applicant to open or maintain an account in a birth-given first name and a surname that is the applicant's birth-given surname, the spouse's surname, or a combined surname.

@@ -1,5 +1,7 @@
 ##### § 1002.5 Rules concerning requests for information. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *General rules*—(1) *Requests for information.* Except as provided in paragraphs (b) through (d) of this section, a creditor may request any information in connection with a credit transaction. This paragraph does not limit or abrogate any Federal or state law regarding privacy, privileged information, credit reporting limitations, or similar restrictions on obtainable information.
 
 (2) *Required collection of information.* Notwithstanding paragraphs (b) through (d) of this section, a creditor shall request information for monitoring purposes as required by § 1002.13 for credit secured by the applicant's dwelling. In addition, a creditor may obtain information required by a regulation, order, or agreement issued by, or entered into with, a court or an enforcement agency (including the Attorney General of the United States or a similar state official) to monitor or enforce compliance with the Act, this part, or other Federal or state statutes or regulations.

@@ -1,5 +1,7 @@
 ##### § 1002.4 General rules. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Discrimination.* A creditor shall not discriminate against an applicant on a prohibited basis regarding any aspect of a credit transaction.
 
 (b) *Discouragement.* A creditor shall not make any oral or written statement, in advertising or otherwise, to applicants or prospective applicants that would discourage on a prohibited basis a reasonable person from making or pursuing an application.

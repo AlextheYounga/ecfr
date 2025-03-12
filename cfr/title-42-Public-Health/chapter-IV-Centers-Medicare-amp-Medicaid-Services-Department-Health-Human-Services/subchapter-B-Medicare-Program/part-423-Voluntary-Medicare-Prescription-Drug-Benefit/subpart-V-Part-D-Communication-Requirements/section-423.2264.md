@@ -1,6 +1,6 @@
 ##### § 423.2264 Beneficiary contact. #####
 
-Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
+Link to an amendment published at 88 FR 22340, Apr. 12, 2023.Link to a correction published at 88 FR 34780, May 31, 2023.
 
 For the purpose of this section, beneficiary contact means any outreach activities to a beneficiary or a beneficiary's caregivers by the Part D sponsor or its agents and brokers.
 

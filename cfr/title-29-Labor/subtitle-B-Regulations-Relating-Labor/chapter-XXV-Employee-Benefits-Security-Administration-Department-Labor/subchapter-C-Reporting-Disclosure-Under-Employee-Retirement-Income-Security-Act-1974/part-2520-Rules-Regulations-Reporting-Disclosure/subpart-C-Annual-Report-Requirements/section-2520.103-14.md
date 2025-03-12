@@ -1,7 +1,5 @@
 ##### § 2520.103-14 Contents of the annual report for defined contribution group (DCG) reporting arrangements. #####
 
-Link to an amendment published at 88 FR 31610, May 18, 2023.
-
 (a) *General.* A defined contribution group reporting arrangement as described in § 2520.104-51(c) (“DCG reporting arrangement” or “DCG”) that files a consolidated annual report pursuant to § 2520.104-51 shall include in such report the items set forth in paragraph (b) of this section.
 
 (b) *Contents of the annual report for DCG reporting arrangement.* (1) A Form 5500 “Annual Return/Report of Employee Benefit Plan” and any statements or schedules required to be attached to the form, completed in accordance with the instructions for the form, including Schedule A (Insurance Information), Schedule C (Service Provider Information), Schedule D (DFE/Participating Plan Information), Schedule DCG (Individual Plan Information), Schedule G (Financial Transaction Schedules), Schedule H (Financial Information), and other applicable financial schedules referred to in § 2520.103-10, completed in accordance with the instructions for the form.
@@ -18,8 +16,6 @@ Link to an amendment published at 88 FR 31610, May 18, 2023.
 
 (ii) For purposes of this section, an employee pension benefit plan described in § 2520.103-1(d) will be treated as a plan that covers fewer than 100 participants as of the beginning of the plan year.
 
-(c) [Reserved]
+(c) *Electronic filing requirement.* See § 2520.104a-2 and the instructions for the Form 5500 “Annual Return/Report of Employee Benefit Plan” for electronic filing requirements. The common plan administrator for each plan whose reporting obligations are satisfied by a DCG filing under this section must maintain an original copy of the DCG filing, with all required signatures, as part of each plan's records. A single copy of the DCG consolidated Form 5500 filing, that includes all schedules and attachments maintained by the common plan administrator on behalf of all the plans will satisfy this requirement.
 
-(d) *Electronic filing requirement.* See § 2520.104a-2 and the instructions for the Form 5500 “Annual Return/Report of Employee Benefit Plan” for electronic filing requirements. The common plan administrator for each plan whose reporting obligations are satisfied by a DCG filing under this section must maintain an original copy of the DCG filing, with all required signatures, as part of each plan's records. A single copy of the DCG consolidated Form 5500 filing, that includes all schedules and attachments maintained by the common plan administrator on behalf of all the plans will satisfy this requirement.
-
-[88 FR 11811, Feb. 24, 2023]
+[88 FR 11811, Feb. 24, 2023, as amended at 88 FR 31610, May 18, 2023]

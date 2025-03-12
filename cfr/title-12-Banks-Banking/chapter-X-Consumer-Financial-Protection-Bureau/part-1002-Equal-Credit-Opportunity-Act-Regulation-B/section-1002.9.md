@@ -1,5 +1,7 @@
 ##### § 1002.9 Notifications. #####
 
+Link to an amendment published at 88 FR 35527, May 31, 2023.
+
 (a) *Notification of action taken, ECOA notice, and statement of specific reasons*—(1) *When notification is required.* A creditor shall notify an applicant of action taken within:
 
 (i) 30 days after receiving a completed application concerning the creditor's approval of, counteroffer to, or adverse action on the application;

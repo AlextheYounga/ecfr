@@ -1,6 +1,6 @@
 ##### § 422.2267 Required materials and content. #####
 
-Link to an amendment published at 88 FR 22336, Apr. 12, 2023.
+Link to an amendment published at 88 FR 22336, Apr. 12, 2023.Link to a correction published at 88 FR 34780, May 31, 2023.
 
 For information CMS deems to be vital to the beneficiary, including information related to enrollment, benefits, health, and rights, the agency may develop materials or content that are either standardized or provided in a model form. Such materials and content are collectively referred to as required.
 

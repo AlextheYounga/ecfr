@@ -1,5 +1,7 @@
 ##### § 420.41 Schedule of water charges. #####
 
+Link to an amendment published at 88 FR 34748, May 31, 2023.
+
 The schedule of water charges established in accordance with § 420.22 shall be as follows:
 
 (a) $94 per million gallons for consumptive use, subject to paragraph (c) of this section; and
