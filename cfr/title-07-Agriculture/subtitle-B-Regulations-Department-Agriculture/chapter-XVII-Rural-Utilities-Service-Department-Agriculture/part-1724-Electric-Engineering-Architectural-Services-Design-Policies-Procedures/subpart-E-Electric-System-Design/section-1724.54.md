@@ -1,18 +1,16 @@
 ##### § 1724.54 Requirements for RUS approval of plans and specifications. #####
 
-Link to an amendment published at 84 FR 32617, July 9, 2019.
-
 The provisions of this section apply only to RUS financed electric system facilities.
 
 (a) For any contract subject to RUS approval in accordance with part 1726 of this chapter, the borrower shall obtain RUS approval of the plans and specifications, as part of the proposed bid package, prior to requesting bids. RUS may require approval of other plans and specifications on a case by case basis.
 
 (b) *Distribution lines.* RUS approval of the plans and specifications for distribution line construction is not required if standard RUS drawings, specifications, RUS accepted material, and standard RUS contract forms (as required by part 1726 of this chapter) are used. Drawings, plans and specifications for nonstandard distribution construction must be submitted to RUS and receive approval prior to requesting bids on contracts or commencement of force account construction.
 
-(c) *Transmission lines.* (1) Plans and specifications for transmission construction projects which are not based on RUS approved line design data or do not use RUS standard structures must receive RUS approval prior to requesting bids on contracts or commencement of force account construction.
+(c) *Transmission lines.* (1) Plans and specifications for transmission construction projects which are not based on RUS approved line design data or do not use RUS standard structures must receive RUS design approval or RUS certification approval prior to requesting bids on contracts or commencement of force account construction.
 
 (2) Unless RUS approval is required by paragraph (a) of this section, plans and specifications for transmission construction which use previously approved design data and standard structures do not require RUS approval. Plans and specifications for related work, such as right-of-way clearing, equipment, and materials, do not require RUS approval unless required by paragraph (a) of this section.
 
-(d) *Substations.* (1)(i) Plans and specifications for all new substations must receive RUS approval prior to requesting bids on contracts or commencement of force account construction, unless:
+(d) *Substations.* (1)(i) Plans and specifications for all new substations must receive RUS design approval or RUS certification approval prior to requesting bids on contracts or commencement of force account construction, unless:
 
 (A) The substation design has been previously approved by RUS; and
 
@@ -36,4 +34,4 @@ The provisions of this section apply only to RUS financed electric system facili
 
 (h) Terms and conditions include the RUS standard form of contract, general and special conditions, and any other non-technical provisions of the contract. Terms and conditions which have received RUS approval in connection with a previous contract for a particular borrower are considered approved by RUS for that borrower.
 
-[63 FR 35314, June 29, 1998, as amended at 65 FR 63196, Oct. 23, 2000; 77 FR 3071, Jan. 23, 2012]
+[63 FR 35314, June 29, 1998, as amended at 65 FR 63196, Oct. 23, 2000; 77 FR 3071, Jan. 23, 2012; 84 FR 32617, July 9, 2019]

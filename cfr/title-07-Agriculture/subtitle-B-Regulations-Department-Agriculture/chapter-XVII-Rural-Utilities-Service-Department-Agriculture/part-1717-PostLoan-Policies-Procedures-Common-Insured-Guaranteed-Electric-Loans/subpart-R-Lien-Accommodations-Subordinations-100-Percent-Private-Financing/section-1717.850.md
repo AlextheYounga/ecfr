@@ -1,7 +1,5 @@
 ##### § 1717.850 General. #####
 
-Link to an amendment published at 84 FR 32616, July 9, 2019.
-
 (a) *Scope and applicability.* (1) This subpart R establishes policies and procedures for the accommodation, subordination or release of the Government's lien on borrower assets, including approvals of supporting documents and related loan security documents, in connection with 100 percent private sector financing of facilities and other purposes. Policies and procedures regarding lien accommodations for concurrent supplemental financing required in connection with an RUS insured loan are set forth in subpart S of this part.
 
 (2) This subpart and subpart S of this part apply only to debt to be secured under the mortgage, the issuance of which is subject to the approval of the Rural Utilities Service (RUS) by the terms of the borrower's mortgage with respect to the issuance of additional debt or the refinancing or refunding of debt. If RUS approval is not required under such terms of the mortgage itself, a lien accommodation is not required. If the loan contract or other agreement between the borrower and RUS requires RUS approval with respect to the issuance of debt or making additions to or extensions of the borrower's system, such required approvals do not by themselves result in the need for a lien accommodation.
@@ -42,7 +40,7 @@ Link to an amendment published at 84 FR 32616, July 9, 2019.
 
 (i) Remit loan advances to a separate subaccount of the Cash-Construction Fund-Trustee Account;
 
-(ii) Obtain a certification from a registered professional engineer, for each year during which funds from the separate subaccount are utilized by the borrower, that all materials and equipment purchased and facilities constructed during the year from said funds comply with RUS safety and performance standards, as required by paragraph (f) of this section, and are included in an CWP or CWP amendment approved by the borrower's board of directors;
+(ii) Obtain a certification from a registered professional engineer, for each year during which funds from the separate subaccount are utilized by the borrower, that all materials and equipment purchased and facilities constructed during the year from said funds comply with RUS safety and performance standards, as required by paragraph (f) of this section, and are included in an CWP or CWP amendment.
 
 (iii) Obtain an auditor's certification from a Certified Public Accountant, for each year during which funds are advanced to or remitted from the separate subaccount, certifying:
 
@@ -74,4 +72,4 @@ Link to an amendment published at 84 FR 32616, July 9, 2019.
 
 (n) *Liability.* It is the intent of this subpart that any failure on the part of RUS to comply with any provisions hereof, including without limitation, those provisions setting forth specified timeframes for action by RUS on applications for lien accommodations or lien subordinations, shall not give rise to liability of any kind on the part of the Government or any employees of the Government including, without limitation, liability for damages, fees, expenses or costs incurred by or on behalf of a borrower, private lender or any other party.
 
-[58 FR 53843, Oct. 19, 1993, as amended at 60 FR 67408, Dec. 29, 1995; 81 FR 11026, Mar. 2, 2016]
+[58 FR 53843, Oct. 19, 1993, as amended at 60 FR 67408, Dec. 29, 1995; 81 FR 11026, Mar. 2, 2016; 84 FR 32616, July 9, 2019]

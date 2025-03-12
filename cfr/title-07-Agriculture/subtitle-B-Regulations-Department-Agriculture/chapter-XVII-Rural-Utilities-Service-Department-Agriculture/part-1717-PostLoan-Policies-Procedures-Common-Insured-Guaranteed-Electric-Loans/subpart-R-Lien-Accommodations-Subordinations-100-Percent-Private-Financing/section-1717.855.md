@@ -1,12 +1,10 @@
 ##### § 1717.855 Application contents: Advance approval - 100 percent private financing of distribution, subtransmission and headquarters facilities, and certain other community infrastructure. #####
 
-Link to an amendment published at 84 FR 32616, July 9, 2019.
-
 Applications for a lien accommodation or subordination that meet the requirements of § 1717.854 must include the following information and documents:
 
 (a) A certification by an authorized official of the borrower that the borrower and, as applicable, the loan are in compliance with all conditions set forth in § 1717.854(c) and all applicable provisions of §§ 1717.852 and 1717.853;
 
-(b) A resolution of the borrower's board of directors requesting the lien accommodation or subordination and including the amount and maturity of the proposed loan, a general description of the facilities or other purposes to be financed, the name and address of the lender, and an attached term sheet summarizing the terms and conditions of the proposed loan;
+(b) A statement requesting the lien accommodation or subordination and including the amount and maturity of the proposed loan, a general description of the facilities or other purposes to be financed, the name and address of the lender, and an attached term sheet summarizing the terms and conditions of the proposed loan;
 
 (c) The borrower's financial and statistical report, the data in which shall not be more than 60 days old when the complete application is received by RUS;
 
@@ -18,7 +16,7 @@ Applications for a lien accommodation or subordination that meet the requirement
 
 (g) RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers, and RUS Form 740g, Application for Headquarters Buildings;
 
-(h) A CWP or CWP amendment covering the proposed project, in accordance with 7 CFR part 1710, subpart F, and subject to RUS approval, and a resolution of the borrower's board of directors adopting the CWP;
+(h) A CWP or CWP amendment covering the proposed project, in accordance with 7 CFR part 1710, subpart F, and subject to RUS approval.
 
 (i) The certification by the project architect for any buildings to be constructed, as required by § 1717.850(i);
 
@@ -32,4 +30,4 @@ Applications for a lien accommodation or subordination that meet the requirement
 
 (n) Other information that RUS may require to determine whether all of the applicable provisions of this subpart have been met.
 
-[58 FR 53843, Oct. 19, 1993, as amended at 60 FR 67410, Dec. 29, 1995; 79 FR 76003, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016]
+[58 FR 53843, Oct. 19, 1993, as amended at 60 FR 67410, Dec. 29, 1995; 79 FR 76003, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016; 84 FR 32616, July 9, 2019]

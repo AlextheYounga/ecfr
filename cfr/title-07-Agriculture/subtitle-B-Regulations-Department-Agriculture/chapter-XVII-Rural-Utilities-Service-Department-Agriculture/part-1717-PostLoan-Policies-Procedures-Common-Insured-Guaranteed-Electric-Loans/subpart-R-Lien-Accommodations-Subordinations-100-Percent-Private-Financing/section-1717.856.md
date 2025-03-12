@@ -1,7 +1,5 @@
 ##### § 1717.856 Application contents: Normal review - 100 percent private financing. #####
 
-Link to an amendment published at 84 FR 32616, July 9, 2019.
-
 Applications for a lien accommodation or subordination for 100 percent private financing for eligible purposes that do not meet the requirements of § 1717.854 must include the following information and documents:
 
 (a) A certification by an authorized official of the borrower that:
@@ -16,22 +14,14 @@ Applications for a lien accommodation or subordination for 100 percent private f
 
 (b) The information and documents set forth in § 1717.855 (b) through (n);
 
-(c) A long-range financial forecast providing financial projections for at least 10 years, which demonstrates that the borrower's system is economically viable and that the proposed loan is financially feasible, and a resolution of the borrower's board of directors adopting the long-range financial forecast. The financial forecast must comply with the requirements of 7 CFR part 1710 subpart G. RUS may, in its sole discretion, waive the requirement of this paragraph that a long range financial forecast be provided, if:
-
-(1) The borrower is current on all of its financial obligations and is in compliance with all requirements of its mortgage and loan agreement with RUS;
-
-(2) In RUS's judgment, granting a lien accommodation or subordination for the proposed loan will not adversely affect the repayment and security of outstanding debt of the borrower owed to or guaranteed by RUS;
-
-(3) The borrower has achieved the TIER and DSC and any other coverage ratios required by its mortgage or loan contract in each of the two most recent calendar years; and
-
-(4) The amount of the proposed loan does not exceed the lesser of $10 million or 10 percent of the borrower's current net utility plant;
+(c) A long-range financial forecast providing financial projections for at least 10 years, which demonstrates that the borrower's system is economically viable and that the proposed loan is financially feasible. The financial forecast must comply with the requirements of 7 CFR part 1710 subpart G. RUS may, in its sole discretion, waive the requirement of this paragraph that a long range financial forecast be provided, if:
 
 (d) [Reserved]
 
-(e) As applicable to the type of facilities being financed, a CWP, related engineering and cost studies, a power cost study, and a resolution of the borrower's board of directors adopting these documents. These documents must meet the requirements of 7 CFR part 1710, subpart F and, as applicable, subpart G;
+(e) As applicable to the type of facilities being financed, a CWP, related engineering and cost studies, a power cost study. These documents must meet the requirements of 7 CFR part 1710, subpart F and, as applicable, subpart G;
 
-(f) Unless the requirement has been waived in writing by RUS, a current, RUS-approved power requirements study, which must meet the requirements of 7 CFR part 1710, subpart E, to the same extent as if the loan were being made by RUS, and a resolution of the borrower's board of directors adopting the study; and
+(f) Unless the requirement has been waived in writing by RUS, a current load forecast, which must meet the requirements of 7 CFR part 1710, subpart E, to the same extent as if the loan were being made by RUS; and
 
 (g) A discussion of the borrower's compliance with RUS requirements on accounting, financial reporting, record keeping, and irregularities (see § 1717.854(c)(5)). RUS will review the case and determine the effect of any noncompliance on the feasibility and security of RUS's loans, and whether the requested lien accommodation or subordination can be approved.
 
-[58 FR 53843, Oct. 19, 1993, as amended at 60 FR 3735, Jan. 19, 1995; 60 FR 67410, Dec. 29, 1995]
+[58 FR 53843, Oct. 19, 1993, as amended at 60 FR 3735, Jan. 19, 1995; 60 FR 67410, Dec. 29, 1995; 84 FR 32616, July 9, 2019]

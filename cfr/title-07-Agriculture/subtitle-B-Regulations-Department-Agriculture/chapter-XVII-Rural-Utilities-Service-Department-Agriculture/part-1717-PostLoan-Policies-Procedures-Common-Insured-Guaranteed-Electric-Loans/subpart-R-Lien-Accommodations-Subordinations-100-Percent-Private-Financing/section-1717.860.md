@@ -1,7 +1,5 @@
 ##### § 1717.860 Lien accommodations and subordinations under section 306E of the RE Act. #####
 
-Link to an amendment published at 84 FR 32616, July 9, 2019.
-
 (a) *General.* Under section 306E of the RE Act, when requested by a private lender providing financing for capital investments by a borrower whose net worth exceeds 110 percent of the outstanding principal balance of all loans made or guaranteed to the borrower by RUS, the Administrator will, without delay, offer to share the government's lien on the borrower's system or subordinate the government's lien on the property financed by the private lender, provided that the security, including the assurance of repayment, for loans made or guaranteed by RUS will remain reasonably adequate. To qualify for a lien accommodation or subordination under this section, the investment must be an original capital investment, i.e., not a refinancing or refunding. (See § 1717.851 for the definition of capital investment.)
 
 (b) *Determination of net worth to RUS debt ratio.* (1) In the case of applications for a lien accommodation, a borrower's net worth will be based on the borrower's most recent financial and statistical report, the data in which shall not be more than 60 days old at the time the application is received by RUS, and the outstanding debt owed to or guaranteed by RUS will be based on latest RUS records available. The financial and statistical reports (Form 7 for distribution borrowers and Form 12a for power supply borrowers) are subject to RUS review and revision, and they must comply with RUS's system of accounts and accounting principles set forth in 7 CFR part 1767. Since sinking fund depreciation is not approved under part 1767, net worth for borrowers using sinking fund depreciation will be calculated as if the borrower had been using straight line depreciation.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 32616, July 9, 2019.
 
 (2) The application must include the following:
 
-(i) A resolution of the borrower's board of directors requesting the lien accommodation and including the amount and maturity of the proposed loan, a general description of the facilities or other purposes to be financed, the name and address of the lender, and an attached term sheet summarizing the terms and conditions of the proposed loan;
+(i) A statement from the borrower requesting the lien accommodation and including the amount and maturity of the proposed loan, a general description of the facilities or other purposes to be financed, the name and address of the lender, and an attached term sheet summarizing the terms and conditions of the proposed loan;
 
 (ii) A certification by an authorized official of the borrower that the borrower is in compliance with all requirements of its mortgage, loan agreement with RUS, and any other agreement with RUS that have not been exempted in writing by RUS;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 32616, July 9, 2019.
 
 (B) A certification by an authorized official of the borrower that flood hazard insurance will be obtained for the full value of any buildings, or other facilities susceptible to damage if flooded, that will be located in a flood hazard area;
 
-(C) Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters - Primary Covered Transactions, as required by 2 CFR part 180, adopted by USDA through 2 CFR part 417;
+(C) Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters—Primary Covered Transactions, as required by 2 CFR part 180, adopted by USDA through 2 CFR part 417;
 
 (D) A report by the borrower stating whether or not it is delinquent on any Federal debt, and if delinquent, the amount and age of the delinquency and the reasons therefor; and a certification, if not previously provided, that the borrower has been informed of the Government's collection options; and
 
@@ -40,4 +38,4 @@ Link to an amendment published at 84 FR 32616, July 9, 2019.
 
 (e) *Requirements and controls not exempted.* All requirements and limitations imposed with respect to lien accommodations and subordinations by this subpart R that are not specifically exempted by this section are not exempted and shall continue to apply according to their terms.
 
-[59 FR 3986, Jan. 28, 1994, as amended at 60 FR 3735, Jan. 19, 1995; 60 FR 67410, Dec. 29, 1995; 79 FR 76003, Dec. 19, 2014]
+[59 FR 3986, Jan. 28, 1994, as amended at 60 FR 3735, Jan. 19, 1995; 60 FR 67410, Dec. 29, 1995; 79 FR 76003, Dec. 19, 2014; 84 FR 32616, July 9, 2019]

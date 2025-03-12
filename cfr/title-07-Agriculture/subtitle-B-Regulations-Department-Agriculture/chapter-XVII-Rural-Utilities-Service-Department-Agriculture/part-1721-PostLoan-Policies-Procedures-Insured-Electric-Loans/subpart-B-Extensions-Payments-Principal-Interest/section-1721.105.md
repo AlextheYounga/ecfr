@@ -1,7 +1,5 @@
 ##### § 1721.105 Application documents. #####
 
-Link to an amendment published at 84 FR 32616, July 9, 2019.
-
 (a) *Deferments for financial hardship.* A Borrower requesting a section 12 deferment because of financial hardship must submit the following:
 
 (1) A summary of the financial position of the Borrower, based on the latest information available (usually less than 60 days old).
@@ -14,30 +12,16 @@ Link to an amendment published at 84 FR 32616, July 9, 2019.
 
 (5) A narrative description of the nature and cause of the hardship and the strategy that will be instituted to mitigate or eliminate the effects of the hardship.
 
-(b) *Deferments for energy resource conservation loans.* A Borrower requesting principal deferments for an ERC loan program must submit the following information:
+(b) *Deferments for energy resource conservation loans.* A Borrower requesting principle deferments for an ERC loan program must submit a letter from the Borrower's General Manager requesting an extension of principle payments for the purpose of offering an ERC loan program to its members and describing the details of the program.
 
-(1) A letter from the Borrower's General Manager requesting an extension of principal payments for the purpose of offering an ERC loan program to its members and describing the details of the program.
+(c) *Deferments for renewable energy projects.* A Borrower requesting principle deferments for its renewable energy project must submit a letter from the Borrower's General Manager requesting an extension of principle payments for the purpose of offering an ERC loan program to its members and describing the details of the program.
 
-(2) A copy of the board resolution establishing the ERC loan program.
+(d) *Deferments for distributed generation projects.* A Borrower requesting principle deferments for distributed generation projects must submit a letter from the Borrower's General Manager requesting an extension of principle payments for the purpose of offering an ERC loan program to its members and describing the details of the program and approval is also subject to any applicable terms and conditions of the Borrower's loan contract, mortgage, or indenture.
 
-(c) *Deferments for renewable energy projects.* A Borrower requesting principal deferments for its renewable energy project must submit the following information:
+(e) *Deferments for contribution-in-aid of construction.* A Borrower requesting principle deferments for contribution-in-aid of construction must submit the following:
 
-(1) A letter from the Borrower's General Manager requesting an extension of principal payments for the purpose of financing a renewable energy project and describing the details of the project.
+(1) A letter from the Borrower's General Manager requesting an extension of principle payments for the purpose of offering an ERC loan program to its members and describing the details of the program.
 
-(2) A copy of the board resolution establishing the renewable energy project.
+(2) A summary of the calculations used to determine the average cost per residential customer. (See § 1721.104(e)(2)).
 
-(d) *Deferments for distributed generation projects.* A Borrower requesting principal deferments for distributed generation projects must submit the following information and approval is also subject to any applicable terms and conditions of the Borrower's loan contract, mortgage, or indenture:
-
-(1) A letter from the Borrower's General Manager requesting an extension of principal payments for the purpose of financing distributed generation projects and describing the details of the project, and
-
-(2) A copy of the board resolution establishing the distributed generation projects program.
-
-(e) *Deferments for contribution-in-aid of construction.* A Borrower requesting principal deferments for contribution-in-aid of construction must submit the following information:
-
-(1) A letter from the Borrower's General Manager requesting an extension of principal payments for the purpose of offering a contribution-in-aid of construction program and describing the details of the program.
-
-(2) A copy of the board resolution establishing the contribution-in-aid of construction program.
-
-(3) A summary of the calculations used to determine the average cost per residential consumer. (See § 1721.104 (e)(2)).
-
-[67 FR 485, Jan. 4, 2002, as amended at 68 FR 37954, June 26, 2003]
+[67 FR 485, Jan. 4, 2002, as amended at 68 FR 37954, June 26, 2003; 84 FR 32616, July 9, 2019]

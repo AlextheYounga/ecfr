@@ -1,5 +1,7 @@
 ##### § 240.17a-3 Records to be made by certain exchange members, brokers and dealers. #####
 
+Link to an amendment published at 84 FR 33492, July 12, 2019.Link to an amendment published at 84 FR 33629, July 12, 2019.
+
 (a) Every member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange, and every broker or dealer who transacts a business in securities through the medium of any such member, and every broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934, as amended, (48 Stat. 895, 49 Stat. 1377, 52 Stat. 1075; 15 U.S.C. 78*o*) shall make and keep current the following books and records relating to its business:
 
 (1) Blotters (or other records of original entry) containing an itemized daily record of all purchases and sales of securities, all receipts and deliveries of securities (including certificate numbers), all receipts and disbursements of cash and all other debits and credits. Such records shall show the account for which each such transaction was effected, the name and amount of securities, the unit and aggregate purchase or sale price (if any), the trade date, and the name or other designation of the person from whom purchased or received or to whom sold or delivered.

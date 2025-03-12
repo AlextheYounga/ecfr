@@ -1,7 +1,5 @@
 ##### § 1726.35 Submission of documents to RUS. #####
 
-Link to an amendment published at 84 FR 32617, July 9, 2019.
-
 (a) *Where to send documents.* Documents required to be submitted to RUS under this part are to be sent to the office of the borrower's respective RUS Regional Director, the Power Supply Division Director, or such other office of RUS as designated by RUS (see part 1700 of this chapter.)
 
 (b) *Borrower certification.* When a borrower certification is required by this part, it must be made by the borrower's manager unless the board of directors specifically authorizes another person to make the required certification. In such case, a certified copy of the specific authorizing resolution must accompany the document or be on file with RUS.
@@ -16,17 +14,11 @@ Link to an amendment published at 84 FR 32617, July 9, 2019.
 
 (4) A certification by the borrower or chairperson of the contracting committee, as applicable, that the appropriate bidding procedures were followed as required by this part.
 
-(5) A certified copy of the board resolution awarding the contract.
+(5) Evidence of clear title to the site for substations and headquarters construction contracts, if not previously submitted.
 
-(6) Evidence of clear title to the site for substations and headquarters construction contracts, if not previously submitted.
+(6) Documentation that all reasonable measures were taken to assure competition if fewer than three bids were received.
 
-(7) Documentation that all reasonable measures were taken to assure competition if fewer than three bids were received.
-
-(d) *Contract amendments requiring RUS approval.* The borrower must submit to RUS three copies of each contract amendment (at least one copy of which must be an original signed in ink) which is subject to RUS approval under § 1726.24(b). Each contract amendment submittal to RUS must be accompanied by:
-
-(1) A certified copy of the board resolution approving the amendment; and
-
-(2) A bond extension, where necessary.
+(d) *Contract amendments requiring RUS approval.* The borrower must submit to RUS three copies of each contract amendment (at least one copy of which must be an original signed in ink) which is subject to RUS approval under § 1726.24(b). Each contract amendment submittal to RUS must be accompanied by a bond extension, where necessary.
 
 (e) *Encumbrance of loan or loan guarantee funds.* (1) For contracts subject to RUS approval, the submittals required under paragraph (c) of this section will initiate RUS action to encumber loan or loan guarantee funds for such contracts.
 
@@ -46,15 +38,13 @@ Link to an amendment published at 84 FR 32617, July 9, 2019.
 
 (vi) Borrower certification that:
 
-(A) The board of directors approved the contract;
+(A) The bidding procedures and contract award for each contract were in conformance with the requirements of Part 1726, Electric System Construction Policies and Procedures;
 
-(B) The bidding procedures and contract award for each contract were in conformance with the requirements of Part 1726, Electric System Construction Policies and Procedures;
+(B) If a RUS approved form of contract is required by this part, the terms and conditions of the RUS approved form of contract have not been altered;
 
-(C) If a RUS approved form of contract is required by this part, the terms and conditions of the RUS approved form of contract have not been altered;
+(C) If RUS has approved plans and specifications for the contract, the contract was awarded on the basis of those plans and specifications; and
 
-(D) If RUS has approved plans and specifications for the contract, the contract was awarded on the basis of those plans and specifications; and
-
-(E) No restriction has been placed on the borrower's right to assign the contract to RUS or its successors.
+(D) No restriction has been placed on the borrower's right to assign the contract to RUS or its successors.
 
 (4) *Contract amendments.* (i) For amendments subject to RUS approval, the submittals required under paragraph (c) of this section will initiate RUS action to encumber loan or loan guarantee funds for contract amendments requiring RUS approval.
 
@@ -72,8 +62,10 @@ Link to an amendment published at 84 FR 32617, July 9, 2019.
 
 (E) Borrower certification that:
 
-(*1*) The amendment was approved in accordance with the policy of the board of directors (the borrower must ensure that RUS has a certified copy of the board resolution establishing such policy);
+(*1*) The amendment was approved in accordance with the policy of the board of directors;
 
 (*2*) If a RUS approved form of contract is required by this part, the terms and conditions of the RUS approved form of contract has not been altered; and
 
 (*3*) No restriction has been placed on the borrower's right to assign the contract to RUS or its successors.
+
+[60 FR 10155, Feb. 23, 1995, as amended at 84 FR 32617, July 9, 2019]

@@ -1,10 +1,8 @@
 ##### § 1710.300 General. #####
 
-Link to an amendment published at 84 FR 32612, July 9, 2019.
-
 (a) RUS encourages borrowers to maintain a current long-range financial forecast. The forecast should be used by the board of directors and the manager to guide the system towards its financial goals.
 
-(b) A borrower must prepare, for RUS review and approval, a long-range financial forecast, approved by its board of directors, in support of its loan application. The forecast must demonstrate that the borrower's system is economically viable and that the proposed loan is financially feasible. Loan feasibility will be assessed based on the criteria set forth in § 1710.112.
+(b) A borrower must prepare, for RUS review and approval, a long-range financial forecast in support of its loan application. The forecast must demonstrate that the borrower's system is economically viable and that the proposed loan is financially feasible. Loan feasibility will be assessed based on the criteria set forth in § 1710.112.
 
 (c) The financial forecast and related projections submitted in support of a loan application shall include:
 
@@ -42,7 +40,7 @@ Link to an amendment published at 84 FR 32612, July 9, 2019.
 
 (3) RUS-approved EE Program work plan;
 
-(4) The current rate schedules or new rates already approved by the board of directors;
+(4) The current rate schedules or new rates;
 
 (5) Future plant additions and operating expenses projected at anticipated future cost levels rather than in constant dollars, with the annual rate of inflation for major items specified; and
 
@@ -50,4 +48,4 @@ Link to an amendment published at 84 FR 32612, July 9, 2019.
 
 (e) The financial forecast shall use the accrual method, as approved by RUS, for analyzing costs and revenues, and, as applicable, compare the economic results of the various alternatives on a present value basis.
 
-[57 FR 1053, Jan. 9, 1992, as amended at 63 FR 53277, Oct. 5, 1998; 78 FR 73366, Dec. 5, 2013]
+[57 FR 1053, Jan. 9, 1992, as amended at 63 FR 53277, Oct. 5, 1998; 78 FR 73366, Dec. 5, 2013; 84 FR 32612, July 9, 2019]

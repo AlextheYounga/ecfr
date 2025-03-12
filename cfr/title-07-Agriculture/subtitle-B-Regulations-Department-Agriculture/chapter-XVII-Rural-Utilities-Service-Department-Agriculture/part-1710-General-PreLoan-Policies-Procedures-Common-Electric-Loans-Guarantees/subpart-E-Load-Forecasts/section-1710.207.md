@@ -1,6 +1,4 @@
-##### § 1710.207 RUS criteria for approval of load forecasts by distribution borrowers not required to maintain an approved load forecast on an ongoing basis. #####
-
-Link to an amendment published at 84 FR 32611, July 9, 2019.
+##### § 1710.207 RUS criteria for load forecasts by distribution borrowers. #####
 
 Load forecasts submitted by distribution borrowers that are unaffiliated with a power supply borrower, or by distribution borrowers that are members of a power supply borrower that has a total utility plant less than $500 million and that is not itself a member of another power supply borrower with a total utility plant of $500 million or more must satisfy the following minimum criteria:
 
@@ -11,3 +9,5 @@ Load forecasts submitted by distribution borrowers that are unaffiliated with a 
 (c) The borrower developed an adequate supporting data base and considered a range of relevant assumptions; and
 
 (d) The borrower provided RUS with adequate documentation and assistance to allow for a thorough and independent review.
+
+[65 FR 14786, Mar. 20, 2000, as amended at 84 FR 32611, July 9, 2019]

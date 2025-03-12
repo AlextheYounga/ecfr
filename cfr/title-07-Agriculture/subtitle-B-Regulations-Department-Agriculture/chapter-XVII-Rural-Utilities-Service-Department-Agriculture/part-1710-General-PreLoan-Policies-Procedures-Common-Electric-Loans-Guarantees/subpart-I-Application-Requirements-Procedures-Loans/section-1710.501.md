@@ -1,32 +1,50 @@
 ##### § 1710.501 Loan application documents. #####
 
-Link to an amendment published at 84 FR 32613, July 9, 2019.
+(a) *All borrowers.* Borrowers may be eligible to submit their loan application via RUS' electronic application intake system instead of submitting a paper submission. Please consult your GFR in accordance with § 1710.500. All applications for electric loans shall include the documents listed in this paragraph (a).
 
-(a) *All borrowers.* All applications for electric loans shall include the documents listed in this paragraph. The first page of the application shall be a list of the documents included in the application. The borrower may use RUS Form 726, Checklist for Electric Loan Application, or a computer generated equivalent as this list.
+(1) *Loan application letter.* A letter signed by the borrower's manager indicating the actual corporate name, the borrowers RUS Designation, the borrowers RUS Loan Designation, and taxpayer identification number of the borrower and addressing the following items:
 
-(1) *Transmittal letter.* A letter signed by the borrower's manager indicating the actual corporate name and taxpayer identification number of the borrower and addressing the following items:
+(i) The amount of loan and loan type. The sources and amounts of any supplemental or other financing. For an insured loan, a statement of whether the application is for a municipal rate loan, with or without the interest rate cap, or a hardship loan. If the application is for a municipal rate loan, the board resolution must indicate whether the borrower intends to elect the prepayment option. See 7 CFR 1714.4(c);
 
-(i) The need for flood hazard insurance;
+(ii) The Maturity Date/Term of the Loan in number of years (useful life to determine maximum);
 
-(ii) Breakdown of requested loan funds by state;
+(iii) A short description of the purpose of the loan, *i.e.,* generation, distribution, transmission, energy efficiency, etc;
 
-(iii) A listing of the counties served by the borrower;
+(iv) Method of Amortization;
 
-(iv) A listing of threatened actions by third parties that could adversely affect the borrower's financial condition, including annexations or other actions affecting service territory, loads, or rates; and
+(v) The Borrower's DUNS Number;
 
-(v) A listing of pending regulatory proceedings pertaining to the borrower.
+(vi) The Borrower's Organization Number from its State Corporation Commission or similar entity;
 
-(2) *Board resolution.* This document is the formal request by the borrower's board of directors for a loan from RUS. The board resolution shall include:
+(vii) The Borrower's Exact Legal Name (please state the legal name and identify the legal document used to state the name or attach such document;
 
-(i) The requested loan type, loan amount, loan term, final maturity and method of amortization (§ 1710.110(b));
+(viii) List of current counties where real property is located;
 
-(ii) The sources and amounts of any supplemental or other financing;
+(ix) Attach current property schedule;
 
-(iii) Authorization for RUS to release appropriate information to supplemental or other lender(s), and authorization for these lenders to release appropriate information to RUS; and
+(x) Identify any new counties with property since last loan;
 
-(iv) For an insured loan, a statement of whether the application is for a municipal rate loan, with or without the interest rate cap, or a hardship loan. If the application is for a municipal rate loan, the board resolution must indicate whether the borrower intends to elect the prepayment option. See 7 CFR 1714.4(c).
+(xi) Authorized/registered place of business;
 
-(3) *RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers.* This form together with its attachments lists the construction, equipment, facilities and other cost estimates from the construction work plan or engineering and cost studies, and the sources of financing for each component. The date on page 1 of the form is the beginning date of the loan period and shall be the same as the date on the Financial and Statistical Report submitted with the application (paragraph (a)(5) of this section). Form 740c also includes the following information, exhibits, and attachments:
+(xii) Debt Limit;
+
+(xiii) Identify any State regulatory approvals needed;
+
+(xiv) List any subsidiaries;
+
+(xv) Identify any material financial or other material change since last loan, including a list of any pending litigation and where there is insurance to cover such;
+
+(xvi) Breakdown of loan funds by State;
+
+(xvii) Construction Work Plan (CWP), if not previously submitted through RD Apply or other method;
+
+(xviii) Environmental Report (ER), if not previously submitted through RD Apply or other method;
+
+(xix) Statement authorizing RUS to release appropriate information and data relating to the loan application to the FFB and any existing supplemental lenders.
+
+(2) *Special resolutions.* Included any special resolutions required by Federal or State Authorities and any others as identified and required by the RUS General Field Representative (for example, use of contractors, corrective action plans, etc.)
+
+(3) *RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers.* This form together with its attachments lists the construction, equipment, facilities and other cost estimates from the construction work plan or engineering and cost studies. The date on page 1 of the form is the beginning date of the loan period. Form 740c also includes the following information, exhibits, and attachments:
 
 (i) *Description of funds and materials.* This description details the availability of materials and equipment, any unadvanced funds from prior loans, and any general funds the borrower designates, to determine the amount of such materials and funds to be applied against the capital requirements estimated for the loan period.
 
@@ -34,41 +52,43 @@ Link to an amendment published at 84 FR 32613, July 9, 2019.
 
 (iii) *Reimbursement schedule.* This schedule lists the date, amount, and identification number of each inventory of work orders and special equipment summary that form the basis for the borrower's request for reimbursement of general funds on the RUS Form 740c. See § 1710.109. If the borrower is not requesting reimbursement, this schedule need not be submitted.
 
-(iv) *Location of consumers.* If the application is for a municipal rate loan subject to the interest rate cap, or for a loan at the hardship rate, and the average number of consumers per mile of the total electric system exceeds 17, Form 740c must include, as a note, a breakdown of funds included in the proposed loan to furnish or improve service to consumers located in an urban area. See 7 CFR 1714.7(c) and 1714.8(d). This breakdown must indicate the method used by the borrower for allocating loan funds between urban and non urban consumers.
+(iv) *Location of consumers.* If the application is for a municipal rate loan subject to the interest rate cap, or for a loan at the hardship rate, and the average number of consumers per mile of the total electric system exceeds 17, Form 740c must include, as a note, a breakdown of funds included in the proposed loan to furnish or improve service to consumers located in an urban area. See 7 CFR 1714.7(c) and 1714.8(d). This breakdown must indicate the method used by the borrower for allocating loan funds between urban and non-urban consumers.
 
 (4) *RUS Form 740g, Application for Headquarters Facilities.* This form lists the individual cost estimates from the construction work plan or other engineering study that support the need for RUS financing for any warehouse and service type facilities included, and funding requested for such facilities shown on RUS Form 740c. If no loan funds are requested for headquarters facilities, Form 740g need not be submitted.
 
-(5) *Financial and statistical report.* Distribution borrowers shall submit these data on RUS Form 7; power supply borrowers shall use RUS Form 12. The form shall contain the most recent data available, which shall not be more than 60 days old when received by RUS.
+(5) *Financial and statistical report.* RUS will use the Borrower's year end filed Financial and Operating Report Electric Distribution (formerly known as the RUS Form 7) or the Financial and Operating Report Electric Power Supply (formerly known as the RUS Form 12) unless the borrower has failed to meet its applicable financial ratios, as required by its security instrument and loan contract. The reports are required to be filed electronically in the agency's Data Collection System. If the borrower's financial requirements have not been met, RUS will require a current Financial and Operating Report to be submitted with the loan application, which shall contain the most recent data available and shall not be more than 60 days old when received by RUS. In addition, for those borrowers not meeting their financial ratios, the following information shall also be provided as part of the loan application:
 
-(6) *Pending litigation statement.* A statement from the borrower's counsel listing any pending litigation, including levels of related insurance coverage and the potential effect on the borrower. This statement and the statements from counsel required by paragraphs (a)(7) and (15) of this section may be combined into a single document.
+(i) Any other information required to be submitted by RUS;
 
-(7) *Mortgage information.* A new mortgage will be required if this is a borrower's first application for a loan under the RE Act. A restated mortgage, or a mortgage supplement will be required if there has been a material change to the real property owned by the borrower since the most recent RUS loan, loan guarantee, or lien accommodation, if the requested loan would cause the borrower to exceed its previously authorized debt limit, or if RUS otherwise determines it necessary. If there has been no material change to the real property owned by the borrower since the most recent RUS loan or loan guarantee, the borrower must submit an opinion of its counsel to that effect. If a new or restated mortgage or a mortgage supplement is required, the borrower must provide the following:
+(ii) A Plan to meet their Financial Ratios;
 
-(i) *Property schedule.* For a new or restated mortgage or for a mortgage supplement, the following information shall be submitted in a form satisfactory to RUS:
+(iii) The Date of the Borrower's last rate change and the amount/percentage of that rate change;
 
-(A) A listing of the counties where the borrower's existing electric facilities and new facilities are or will be located;
+(iv) A list of any Subsidiaries along with a brief summary identifying the purpose of each subsidiary and identify the percentage interest in each if less than 100%;
 
-(B) A listing and description of all real property owned by the borrower; and
+(v) If the issues with the Borrower not meeting its financial ratios involves the subsidiary or equity investment losses a business plan and exit strategy shall be provided;
 
-(C) An opinion of the borrower's counsel certifying that the property schedule is complete and adequate for inclusion in a security instrument to be executed by the borrower to secure an RUS loan.
+(vi) An updated Financial and Operating Report within 60 days of actual loan approval which will be requested by RUS and can be submitted later.
 
-(ii) *Maximum debt limit.* For a new mortgage, or if the proposed loan would result in the borrower's existing mortgage debt limit being exceeded, a resolution of the borrower's board of directors, and any other authorizations or certifications required by State law, certifying that a new debt limit has been legally established that is adequate to accommodate existing indebtedness and the proposed new financing, including any concurrent loans.
+(6) *Load Forecast Study.* A current Load Forecast Study will be included in the loan application which is not more than 2 years old when the loan application is submitted unless the borrower is a member of a Power Supplier which only completes a Load Forecast once every 3 years. In that case the Load Forecast shall not be more than 3 years old when the loan application is submitted.
+
+(7) *Long Range Financial Forecast and assumptions.* Along with the loan application, the borrower shall submit to RUS a Long-Range Financial Forecast (LRFF) that meets the requirements of subpart G of this part in a form acceptable to RUS. The forecast shall include any sensitivity analysis and/or analysis of alternative scenarios only if requested by the RUS General Field Representative.
 
 (8) *Rate disparity and consumer income data.* If the borrower is applying under the rate disparity and consumer income tests for either a municipal rate loan subject to the interest rate cap or a hardship rate loan, the application must provide a breakdown of residential consumers either by county or by census tract. In addition, if the borrower serves in 2 or more states, the application must include a breakdown of all ultimate consumers by state. This breakdown may be a copy of Form EIA 861 submitted by the Borrower to the Department of Energy or in a similar form. See 7 CFR 1714.7(b) and 1714.8(a). To expedite the processing of loan applications, RUS strongly encourages distribution borrowers to provide this information to the GFR prior to submitting the application.
 
 (9) *Standard Form 100 - Equal Employment Opportunity Employer Report EEO - 1.* This form, required by the Department of Labor, sets forth employment data for borrowers with 100 or more employees. A copy of this form, as submitted to the Department of Labor, is to be included in the application for an insured loan if the borrower has more than 100 employees. See § 1710.122.
 
-(10) *Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters - Primary Covered Transactions.* This statement certifies that the borrower will comply with certain regulations on debarment and suspension required by Executive Order 12549, Debarment and Suspension (3 CFR, 1986 Comp., p. 189). See 2 CFR 417, and § 1710.123.
+(10) *Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters - Primary Covered Transactions.* This statement certifies that the borrower will comply with certain regulations on debarment and suspension required by Executive Order 12549, Debarment and Suspension (3 CFR, 1986 Comp., p. 189). See 2 CFR 417, and § 1710.123 of this part.
 
 (11) *Uniform Relocation Act assurance statement.* This assurance, which need not be resubmitted if previously submitted, provides that the borrower shall comply with 49 CFR part 24, which implements the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, as amended by the Uniform Relocation Act Amendments of 1987 and 1991. See § 1710.124.
 
 (12) *Lobbying.* The following information on lobbying is required pursuant to 2 CFR 418, and § 1710.125. Borrowers applying for both insured and guaranteed financing should consult RUS before submitting this information.
 
-(13) *Federal debt delinquency requirements.* See 1710.126. The following documents are required:
+(13) *Federal debt delinquency requirements.* See § 1710.126. The following documents are required:
 
 (i) *Report on Federal debt delinquency.* This report indicates whether or not a borrower is delinquent on any Federal debt.
 
-(ii) *Certification Regarding Federal Government Collection Options.* This statement certifies that a borrower has been informed of the collection options the Federal Government may use to collect delinquent debt. The Federal Government is authorized by law to take any or all of the following actions in the event that a borrower's loan payments become delinquent or the borrower defaults on its loans:
+(ii) *Certification regarding Federal Government collection options.* This statement certifies that a borrower has been informed of the collection options the Federal Government may use to collect delinquent debt. The Federal Government is authorized by law to take any or all of the following actions in the event that a borrower's loan payments become delinquent or the borrower defaults on its loans:
 
 (A) Report the borrower's delinquent account to a credit bureau;
 
@@ -84,39 +104,51 @@ Link to an amendment published at 84 FR 32613, July 9, 2019.
 
 (G) Refer the borrower's account to the Department of Justice for collection.
 
-(14) *Articles of incorporation and bylaws.* The following are required if either document has been amended since the last loan application was submitted to RUS, or if this is a borrower's first application for a loan under the RE Act:
+(14) *Assurance regarding Felony Conviction (AD Form 3030). This form must be included with each application to document the status regarding a felony criminal violation and status of any unpaid federal tax liability;*
 
-(i) The borrower's articles of incorporation currently in effect, as filed with the appropriate state office, setting forth the borrower's corporate purpose; and
-
-(ii) The bylaws currently in effect, as adopted by the borrower's board of directors, setting forth the manner by which the borrower's organization will be governed and regulated.
-
-(15) *State regulatory approvals.* In states in which regulatory authorities have jurisdiction over the borrower's rates, the borrower must provide satisfactory evidence, pursuant to §§ 1710.105 and 1710.151(f), based on the information available, such as an opinion of counsel or of another qualified source, that the state regulatory authority will not exclude from the borrower's rate base any of the facilities included in the loan request, or otherwise prevent the borrower from charging rates sufficient to repay with interest the debt incurred for the facilities.
+(15) *RD Form 400-4, Assurance Agreement. This form provides assurance to USDA that recipients of federal financial assistance are in compliance with Title VI of the Civil Rights Act of 1964, 7 CFR part 15 and other agency regulations;*
 
 (16) *Seismic safety certifications.* This certification shall be included, if required under 7 CFR part 1792.
 
-(17) *Rates.* (i) A distribution borrower shall explain any recent or planned changes in retail rates, the status of any pending rate cases before a state regulatory authority, or other pertinent rate information.
+(17) *Other forms.* Other forms as required by law or as requested.
 
-(ii) A power supply borrower shall submit a schedule of its wholesale rates currently in effect. Any changes in this schedule are subject to RUS approval.
+(b) *New or returning borrowers.* In addition to the items in paragraph (a) of this section, applications for loans submitted by new or returning borrowers shall include the items listed in this paragraph (b).
 
-(18) *Additional supporting data.* Additional supporting data may be required by RUS depending on the individual application or conditions. Examples of such additional supporting data include information about acquisitions, headquarters facilities, generation or transmission facilities, large power loads or special loads.
+(1) A copy of the Borrower's Current Bylaws;
 
-(b) *Distribution borrowers.* In addition to the items in paragraph (a) of this section, applications for loans submitted by distribution borrowers shall include the borrower's area coverage and line extension policies. If there have been any amendments to area coverage or line extension policies since the last loan application submitted to RUS, or if this is a borrower's first application for a loan under the RE Act, the borrower shall submit the board of directors' approved policies on area coverage and line extensions. See §§ 1710.103 and 1710.151(a).
+(2) Identify the Borrower's Type of Organizational Structure and a copy of their Articles of Incorporation;
 
-(c) *Primary support documents.* In addition to the loan application, consisting of the documents required by paragraphs (a) and (b) of this section, all borrowers must also provide RUS with the following primary support documents pursuant to § 1710.152:
+(3) Provide evidence of where Borrower is registered to do business;
 
-(1) Along with the loan application, the borrower shall submit to RUS a Long-Range Financial Forecast (LRFF), that meets the requirements of subpart G of this part. The forecast shall include any sensitivity analysis or analysis of alternative scenarios required by subpart G of this part, and shall be accompanied by a certified board resolution adopting, and indicating the board of directors' approval of, the LRFF, and directing management to take whatever steps may be necessary, including the filing for rate increases, to achieve the TIER goals set forth in the LRFF.
+(4) Copies of the Borrower's Audited GAAP financials for the past 1-3 years, if available or other financial information, as requested on a case by case basis;
 
-(2) Prior to RUS's acceptance of the loan application, the borrower shall submit to RUS and receive approval of:
+(5) A list of any secured outstanding debt including the amount and name of lender;
 
-(i) Power Requirements Study (PRS) that meets the requirements of subpart E of this part, and is accompanied by a certified board resolution adopting, and indicating the board of directors' approval of, the PRS.
+(6) Evidence of Collateral and/or its ability to pledge such collateral;
 
-(ii) Construction Work Plan (CWP) and/or related engineering and cost studies that meets the requirements of subpart F of this part, and is accompanied by a certified board resolution adopting, and indicating the board of directors' approval of, the CWP and/or engineering and cost studies.
+(7) An Attorney Opinion for the Borrower including the counties served, a property schedule, the state of incorporation, any pending litigation, the corporate debt limit, the Borrower's legal name and type of legal organization, and the borrower's legal authority to pledge its collateral or other assets.
 
-(iii) Environmental review documentation in accordance with 7 CFR part 1970.
+(8) Copies of the Borrower's Power Supply Contracts and arrangements (including wholesale rate contracts);
 
-(iv) Demand Side Management Plan and/or Integrated Resource Plan, if required by subpart H of this part.
+(9) Competitive position information including its rates and rate disparity between neighboring utilities;
 
-(d) *Submission of documents.* (1) Generally, all information required by paragraphs (a), (b), and (c)(1) of this section is submitted to RUS in a single application package. The information required by paragraph (c)(2) of this section is generally submitted to, and approved by RUS before the application is submitted.
+(10) Construction Work Plan and/or Engineering Power Cost Study, if not previously submitted;
+
+(11) An Environmental Report related to the facilities for which financing is being requested, if not previously submitted.
+
+(c) *Power Supply Borrowers.* In addition to the loan application, consisting of the documents required by paragraph (a) or (b) of this section, Power Supply Borrowers must also provide RUS with the following:
+
+(1) Information on its Power Supply arrangements and/or wholesale power contracts including the maturity dates. Please note copies of the contracts may be requested on a case by cases basis;
+
+(2) A Profile of the Power Supply Borrowers' fuel supply arrangements;
+
+(3) The Borrowers Load Resource Table;
+
+(4) Information on its Transmission and Interconnection arrangements. Please note that copies of the contracts related to such arrangements may be requested on a case by case basis;
+
+(5) The Power Supply Borrowers' New/Returning membership chart profile and relationships as applicable.
+
+(d) *Submission of documents.* (1) Generally, all information required by paragraphs (a), (b), and (c) of this section is submitted to RUS in a single application. Borrowers may be eligible to submit their loan application via RUS' electronic application intake system instead of submitting hard copies of the loan applications. Please contact your respective General Field Representative or RUS Headquarters to determine if you are eligible to utilize the electronic system.
 
 (2) To facilitate loan review, RUS urges borrowers to ensure that their applications contain all of the information required by this section before submitting the application to RUS. Borrowers may consult with RUS field representatives and headquarters staff as necessary for assistance in preparing loan applications.
 
@@ -130,4 +162,4 @@ Link to an amendment published at 84 FR 32613, July 9, 2019.
 
 (g) *Interest rate category.* For pending loans, RUS will promptly notify the borrower if its eligibility for an interest rate category changes pursuant to new information from the Department of Energy or the Bureau of the Census. See 7 CFR part 1714.
 
-(Approved by the Office of Management and Budget under control numbers 0572-0017, 0572-0032 and 0572-1013)[60 FR 3731, Jan. 19, 1995. Redesignated at 78 FR 73366, Dec. 5, 2013, as amended at 79 FR 76002, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016]
+(Approved by the Office of Management and Budget under control numbers 0572-0017, 0572-0032 and 0572-1013)[60 FR 3731, Jan. 19, 1995. Redesignated at 78 FR 73366, Dec. 5, 2013, as amended at 79 FR 76002, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016; 84 FR 32613, July 9, 2019]

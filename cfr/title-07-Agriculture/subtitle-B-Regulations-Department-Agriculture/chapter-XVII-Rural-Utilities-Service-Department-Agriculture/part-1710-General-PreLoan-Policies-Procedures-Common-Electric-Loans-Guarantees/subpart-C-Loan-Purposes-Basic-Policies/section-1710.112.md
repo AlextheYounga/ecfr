@@ -1,7 +1,5 @@
 ##### § 1710.112 Loan feasibility. #####
 
-Link to an amendment published at 84 FR 32610, July 9, 2019.
-
 (a) RUS will make a loan only if there is reasonable assurance that the loan, together with all outstanding loans and other obligations of the borrower, will be repaid in full as scheduled, in accordance with the mortgage, notes, and loan contracts. The borrower must provide evidence satisfactory to the Administrator that the loan will be repaid in full as scheduled, and that all other obligations of the borrower will be met.
 
 (b) Based on evidence submitted by the borrower and other information, RUS will use the following criteria to evaluate loan feasibility:
@@ -26,6 +24,4 @@ Link to an amendment published at 84 FR 32610, July 9, 2019.
 
 (10) The borrower's projected capitalization, measured by its equity as a percentage of total assets, is adequate to enable the borrower to meet its financial needs and to provide service consistent with the RE Act. Among the factors to be considered in reviewing the borrower's projected capitalization are the economic strength of the borrower's service territory, the inherent cost of providing service to the territory, the disparity in rates between the borrower and neighboring utilities, the intensity of competition faced by the borrower from neighboring utilities and other power sources, and the relative amount of new capital investment required to serve existing or new loads.
 
-(c) RUS considers a loan to be feasible only if the borrower's electric system is year 2000 compliant, or if the borrower provides RUS with evidence, satisfactory to RUS, that it is taking measures necessary to ensure that its electric system will be year 2000 compliant on or before December 31, 1999. Year 2000 compliant means that product performance and function are not affected by dates before, during, and a reasonable time after the year 2000.
-
-[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 60 FR 3731, Jan. 19, 1995; 63 FR 51793, Sept. 29, 1998]
+[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 60 FR 3731, Jan. 19, 1995; 63 FR 51793, Sept. 29, 1998; 84 FR 32610, July 9, 2019]

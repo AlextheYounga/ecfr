@@ -1,8 +1,6 @@
-##### § 1710.208 RUS criteria for approval of all load forecasts by power supply borrowers and by distribution borrowers required to maintain an approved load forecast on an ongoing basis. #####
+##### § 1710.208 RUS criteria for load forecasts by power supply borrowers and by distribution borrowers. #####
 
-Link to an amendment published at 84 FR 32611, July 9, 2019.
-
-All load forecasts submitted by power supply borrowers and by distribution borrowers required to maintain an approved load forecast must satisfy the following criteria:
+All load forecasts submitted by power supply borrowers and by distribution borrowers must satisfy the following criteria:
 
 (a) The borrower objectively analyzed all known relevant factors that influence the consumption of electricity and the known number of customers served at the time the study was developed;
 
@@ -16,4 +14,4 @@ All load forecasts submitted by power supply borrowers and by distribution borro
 
 (f) The borrower provided RUS with adequate documentation and assistance to allow for a thorough and independent review; and
 
-(g) In the case of a power supply borrower required to maintain an approved load forecast on an ongoing basis, the borrower adequately coordinated the preparation of the load forecast work plan and load forecast with its member systems.
+[65 FR 14786, Mar. 20, 2000, as amended at 84 FR 32611, July 9, 2019]

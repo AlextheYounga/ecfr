@@ -1,8 +1,6 @@
-##### § 1710.206 Approval requirements for load forecasts prepared pursuant to approved load forecast work plans. #####
+##### § 1710.206 Requirements for load forecasts prepared pursuant to a load forecast work plan. #####
 
-Link to an amendment published at 84 FR 32611, July 9, 2019.
-
-(a) *Contents of load forecasts prepared under an approved load forecast work plan.* In addition to the minimum requirements for load forecasts under § 1710.205, load forecasts developed and submitted by borrowers required to have an approved load forecast work plan shall include the following:
+(a) *Contents of load forecasts prepared under a load forecast work plan.* In addition to the minimum requirements for load forecasts under § 1710.205, load forecasts developed and submitted by borrowers required to have a load forecast work plan shall include the following:
 
 (1) Scope of the load forecast. The narrative shall address the overall approach, time periods, and expected internal and external uses of the forecast. Examples of internal uses include providing information for developing or monitoring demand side management programs, supply resource planning, load flow studies, wholesale power marketing, retail marketing, cost of service studies, rate policy and development, financial planning, and evaluating the potential effects on electric revenues caused by competition from alternative energy sources or other electric suppliers. Examples of external uses include meeting state and Federal regulatory requirements, obtaining financial ratings, and participation in reliability council, power pool, regional transmission group, power supplier or member system forecasting and planning activities.
 
@@ -34,4 +32,6 @@ Link to an amendment published at 84 FR 32611, July 9, 2019.
 
 (8) A narrative discussing the coordination activities conducted between a power supply borrower and its members, as applicable, and between the borrower and RUS.
 
-(b) *Compliance with an approved load forecast work plan.* A borrower required to maintain an approved load forecast work plan must also be able to demonstrate that both it and its RUS borrower members are in compliance with its approved load forecast work plan for the next load forecast or update of a load forecast.
+(b) *Compliance with a load forecast work plan.* A borrower required to maintain a load forecast work plan must also be able to demonstrate that both it and its RUS borrower members are in compliance with its load forecast work plan.
+
+[65 FR 14786, Mar. 20, 2000, as amended at 84 FR 32611, July 9, 2019]

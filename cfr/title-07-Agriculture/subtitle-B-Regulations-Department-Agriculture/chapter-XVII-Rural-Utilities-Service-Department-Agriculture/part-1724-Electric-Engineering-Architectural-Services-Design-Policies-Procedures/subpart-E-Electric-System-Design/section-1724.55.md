@@ -1,7 +1,5 @@
 ##### § 1724.55 Dam safety. #####
 
-Link to an amendment published at 84 FR 32617, July 9, 2019.
-
 (a) The provisions of this section apply only to RUS financed electric system facilities.
 
 (1)(i) Any borrower that owns or operates a RUS financed dam must utilize the“Federal Guidelines for Dam Safety,”(Guidelines), as applicable. A dam, as more fully defined in the Guidelines, is generally any artificial barrier which either:
@@ -26,7 +24,7 @@ Link to an amendment published at 84 FR 32617, July 9, 2019.
 
 (6) If the reviewer disagrees with any aspect of the design or construction which could affect the safety of the dam, then the borrower must meet with the design engineer and the reviewer to resolve the disagreements.
 
-(7) *Emergency action plan.* For high hazard potential dams, the borrower must develop an emergency action plan incorporating preplanned emergency measures to be taken prior to and following a potential dam failure. The plan should be coordinated with local government and other authorities involved with the public safety and be approved by the borrower's board of directors.
+(7) *Emergency action plan.* For high hazard potential dams, the borrower must develop an emergency action plan incorporating preplanned emergency measures to be taken prior to and following a potential dam failure. The plan should be coordinated with local government and other authorities involved with the public safety.
 
 (b)(1) For more information and guidance, the following publications regarding dam safety are available from FEMA:
 
@@ -40,4 +38,4 @@ Link to an amendment published at 84 FR 32617, July 9, 2019.
 
 (2) These publications may be obtained from the Federal Emergency Management Agency, Mitigation Directorate, PO Box 2012, Jessup, MD 20794.
 
-[63 FR 35314, June 29, 1998, as amended at 69 FR 18803, Apr. 9, 2004]
+[63 FR 35314, June 29, 1998, as amended at 69 FR 18803, Apr. 9, 2004; 84 FR 32617, July 9, 2019]

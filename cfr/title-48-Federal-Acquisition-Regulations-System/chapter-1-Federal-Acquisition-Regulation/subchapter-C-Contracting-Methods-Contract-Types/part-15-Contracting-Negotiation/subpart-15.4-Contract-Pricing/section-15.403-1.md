@@ -1,7 +1,5 @@
 ##### 15.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35). #####
 
-Link to an amendment published at 84 FR 27496, June 12, 2019.
-
 (a) Certified cost or pricing data shall not be obtained for acquisitions at or below the simplified acquisition threshold.
 
 (b) *Exceptions to certified cost or pricing data requirements.* The contracting officer shall not require certified cost or pricing data to support any action (contracts, subcontracts, or modifications) (but may require data other than certified cost or pricing data as defined in FAR 2.101 to support a determination of a fair and reasonable price or cost realism) -
@@ -16,25 +14,27 @@ Link to an amendment published at 84 FR 27496, June 12, 2019.
 
 (5) When modifying a contract or subcontract for commercial items (see standards in paragraph (c)(3) of this subsection).
 
-(c) *Standards for exceptions from certified cost or pricing data requirements* - (1) *Adequate price competition.* A price is based on adequate price competition if -
+(c) *Standards for exceptions from certified cost or pricing data requirements* - (1) *Adequate price competition.* (i) A price is based on adequate price competition when -
 
-(i) Two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement and if -
+(A) Two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement;
 
-(A) Award will be made to the offeror whose proposal represents the best value (see 2.101) where price is a substantial factor in source selection; and
+(B) Award will be made to the offeror whose proposal represents the best value (see 2.101) where price is a substantial factor in source selection; and
 
-(B) There is no finding that the price of the otherwise successful offeror is unreasonable. Any finding that the price is unreasonable must be supported by a statement of the facts and approved at a level above the contracting officer;
+(C) There is no finding that the price of the otherwise successful offeror is unreasonable. Any finding that the price is unreasonable must be supported by a statement of the facts and approved at a level above the contracting officer.
 
-(ii) There was a reasonable expectation, based on market research or other assessment, that two or more responsible offerors, competing independently, would submit priced offers in response to the solicitation's expressed requirement, even though only one offer is received from a responsible offeror and if -
+(ii) For agencies other than DoD, NASA, and the Coast Guard, a price is also based on adequate price competition when-
 
-(A) Based on the offer received, the contracting officer can reasonably conclude that the offer was submitted with the expectation of competition, e.g., circumstances indicate that -
+(A) There was a reasonable expectation, based on market research or other assessment, that two or more responsible offerors, competing independently, would submit priced offers in response to the solicitation's expressed requirement, even though only one offer is received from a responsible offeror and if -
 
-(*1*) The offeror believed that at least one other offeror was capable of submitting a meaningful offer; and
+(*1*) Based on the offer received, the contracting officer can reasonably conclude that the offer was submitted with the expectation of competition, *e.g.,* circumstances indicate that -
 
-(*2*) The offeror had no reason to believe that other potential offerors did not intend to submit an offer; and
+(*i*) The offeror believed that at least one other offeror was capable of submitting a meaningful offer; and
 
-(B) The determination that the proposed price is based on adequate price competition and is reasonable has been approved at a level above the contracting officer; or
+(*ii*) The offeror had no reason to believe that other potential offerors did not intend to submit an offer; and
 
-(iii) Price analysis clearly demonstrates that the proposed price is reasonable in comparison with current or recent prices for the same or similar items, adjusted to reflect changes in market conditions, economic conditions, quantities, or terms and conditions under contracts that resulted from adequate price competition.
+(*2*) The determination that the proposed price is based on adequate price competition and is reasonable has been approved at a level above the contracting officer; or
+
+(B) Price analysis clearly demonstrates that the proposed price is reasonable in comparison with current or recent prices for the same or similar items, adjusted to reflect changes in market conditions, economic conditions, quantities, or terms and conditions under contracts that resulted from adequate price competition.
 
 (2) *Prices set by law or regulation.* Pronouncements in the form of periodic rulings, reviews, or similar actions of a governmental body, or embodied in the laws, are sufficient to set a price.
 

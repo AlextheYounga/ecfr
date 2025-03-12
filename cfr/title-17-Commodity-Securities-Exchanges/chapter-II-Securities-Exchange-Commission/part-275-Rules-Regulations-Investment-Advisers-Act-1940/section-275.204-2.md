@@ -1,5 +1,7 @@
 ##### § 275.204-2 Books and records to be maintained by investment advisers. #####
 
+Link to an amendment published at 84 FR 33630, July 12, 2019.
+
 (a) Every investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3) shall make and keep true, accurate and current the following books and records relating to its investment advisory business;
 
 (1) A journal or journals, including cash receipts and disbursements, records, and any other records of original entry forming the basis of entries in any ledger.

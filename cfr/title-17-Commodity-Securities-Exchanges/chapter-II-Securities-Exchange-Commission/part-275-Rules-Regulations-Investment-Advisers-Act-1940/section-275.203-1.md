@@ -1,5 +1,7 @@
 ##### § 275.203-1 Application for investment adviser registration. #####
 
+Link to an amendment published at 84 FR 33630, July 12, 2019.
+
 (a) *Form ADV.* To apply for registration with the Commission as an investment adviser, you must complete Form ADV [17 CFR 279.1] by following the instructions in the form and you must file Part 1A of Form ADV and the firm brochure(s) required by Part 2A of Form ADV electronically with the Investment Adviser Registration Depository (IARD) unless you have received a hardship exemption under § 275.203-3. You are not required to file with the Commission the brochure supplements required by Part 2B of Form ADV.
 
 Note to paragraph (a):

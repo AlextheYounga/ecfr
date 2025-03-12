@@ -1,7 +1,5 @@
 ##### 15.404-1 Proposal analysis techniques. #####
 
-Link to an amendment published at 84 FR 27497, June 12, 2019.
-
 (a) *General.* The objective of proposal analysis is to ensure that the final agreed-to price is fair and reasonable.
 
 (1) The contracting officer is responsible for evaluating the reasonableness of the offered prices. The analytical techniques and procedures described in this section may be used, singly or in combination with others, to ensure that the final price is fair and reasonable. The complexity and circumstances of each acquisition should determine the level of detail of the analysis required.
@@ -18,13 +16,13 @@ Link to an amendment published at 84 FR 27497, June 12, 2019.
 
 (7) The Air Force Institute of Technology (AFIT) and the Federal Acquisition Institute (FAI) jointly prepared a five-volume set of Contract Pricing Reference Guides to guide pricing and negotiation personnel. The five guides are: I Price Analysis, II Quantitative Techniques for Contract Pricing, III Cost Analysis, IV Advanced Issues in Contract Pricing, and V Federal Contract Negotiation Techniques. These references provide detailed discussion and examples applying pricing policies to pricing problems. They are to be used for instruction and professional guidance. However, they are not directive and should be considered informational only. They are available via the internet at *http://www.acq.osd.mil/dpap/*
 
-*cpic/cp/contract\_pricing\_reference\_**guides.html.*
+*cpic/cp/contract\_pricing\_reference\_guides.html.*
 
 (b) *Price analysis for commercial and non-commercial items.* (1) Price analysis is the process of examining and evaluating a proposed price without evaluating its separate cost elements and proposed profit. Unless an exception from the requirement to obtain certified cost or pricing data applies under 15.403-1(b)(1) or (b)(2), at a minimum, the contracting officer shall obtain appropriate data, without certification, on the prices at which the same or similar items have previously been sold and determine if the data is adequate for evaluating the reasonableness of the price. Price analysis may include evaluating data other than certified cost or pricing data obtained from the offeror or contractor when there is no other means for determining a fair and reasonable price. Contracting officers shall obtain data other than certified cost or pricing data from the offeror or contractor for all acquisitions (including commercial item acquisitions), if that is the contracting officer's only means to determine the price to be fair and reasonable.
 
 (2) The Government may use various price analysis techniques and procedures to ensure a fair and reasonable price. Examples of such techniques include, but are not limited to, the following:
 
-(i) Comparison of proposed prices received in response to the solicitation. Normally, adequate price competition establishes a fair and reasonable price (see 15.403-1(c)(1)(i)).
+(i) Comparison of proposed prices received in response to the solicitation. Normally, adequate price competition establishes a fair and reasonable price (see 15.403-1(c)(1)).
 
 (ii) Comparison of the proposed prices to historical prices paid, whether by the Government or other than the Government, for the same or similar items. This method may be used for commercial items including those “of a type” or requiring minor modifications.
 
@@ -130,4 +128,4 @@ Link to an amendment published at 84 FR 27497, June 12, 2019.
 
 (3) Contract actions awarded pursuant to subparts 19.5, 19.8, 19.13, 19.14, or 19.15 are exempt from the requirements of this paragraph (h) (see section 1615 of the National Defense Authorization Act for Fiscal Year 2014 (Pub. L. 113-66)).
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015; 82 FR 4713, Jan. 13, 2017]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015; 82 FR 4713, Jan. 13, 2017; 84 FR 27497, June 12, 2019]

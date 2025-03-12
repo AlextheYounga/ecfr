@@ -1,7 +1,5 @@
 ##### § 1710.2 Definitions and rules of construction. #####
 
-Link to an amendment published at 84 FR 32610, July 9, 2019.
-
 (a) *Definitions.* For the purpose of this part, the following terms shall have the following meanings:
 
 *Administrator* means the Administrator of RUS or his or her designee.
@@ -78,7 +76,7 @@ Link to an amendment published at 84 FR 32610, July 9, 2019.
 
 *Loan Guarantee* means a loan guarantee made by RUS pursuant to the RE Act.
 
-*Loan period* means the period of time during which the facilities included in a loan application will be constructed. It commences with the date shown on page 1, in the block headed “Cost Estimates as of,” of RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers, which is the same as the date on the Financial and Statistical Report submitted with the loan application. The loan period may be up to 4 years for distribution borrowers and, except in the case of a loan for new generating and associated transmission facilities, up to 4 years for the transmission facilities and improvements or replacements of generation facilities for power supply borrowers. The loan period for new generating facilities is determined on a case by case basis.
+*Loan period* means the period of time during which the facilities will be constructed not to exceed the time identified in the Loan note, as approved.
 
 *Merger* means the combining, pursuant to state law, of borrower or nonborrower organizations into an existing survivor organization that takes over the assets and assumes the liabilities of the merged organizations.
 
@@ -152,4 +150,4 @@ Link to an amendment published at 84 FR 32610, July 9, 2019.
 
 (b) *Rules of Construction.* Unless the context otherwise indicates, “includes” and “including” are not limiting, and “or” is not exclusive. The terms defined in paragraph (a) of this part include the plural as well as the singular, and the singular as well as the plural.
 
-[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 58 FR 66263, Dec. 20, 1993; 59 FR 495, Jan. 4, 1994; 59 FR 66440, Dec. 27, 1994; 60 FR 3730, Jan. 19, 1995; 60 FR 67400, Dec. 29, 1995; 65 FR 14786, Mar. 20, 2000; 68 FR 37953, June 26, 2003; 74 FR 56543, Nov. 2, 2009; 78 FR 73365, Dec. 5, 2013]
+[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 58 FR 66263, Dec. 20, 1993; 59 FR 495, Jan. 4, 1994; 59 FR 66440, Dec. 27, 1994; 60 FR 3730, Jan. 19, 1995; 60 FR 67400, Dec. 29, 1995; 65 FR 14786, Mar. 20, 2000; 68 FR 37953, June 26, 2003; 74 FR 56543, Nov. 2, 2009; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019]

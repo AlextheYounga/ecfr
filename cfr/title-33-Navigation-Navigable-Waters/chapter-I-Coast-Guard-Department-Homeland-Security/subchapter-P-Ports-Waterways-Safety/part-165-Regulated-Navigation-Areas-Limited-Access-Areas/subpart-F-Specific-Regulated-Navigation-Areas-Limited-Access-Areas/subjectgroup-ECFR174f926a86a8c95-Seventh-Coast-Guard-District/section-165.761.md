@@ -1,5 +1,7 @@
 ##### § 165.761 Security Zones; Port of Palm Beach, Port Everglades, Port of Miami, and Port of Key West, Florida. #####
 
+Link to an amendment published at 84 FR 33172, July 12, 2019.
+
 (a) *Location.* The following areas are security zones:
 
 (1) *Fixed and moving security zones around vessels in the Ports of Palm Beach, Port Everglades, Miami, and Key West, Florida.* Moving security zones are established 100 yards around all passenger vessels, vessels carrying cargoes of particular hazard, or vessels carrying liquefied hazardous gas (LHG) as defined in 33 CFR parts 120, 126 and 127 respectively, during transits entering or departing the Ports of Palm Beach, Port Everglades, Miami or Key West, Florida. These moving security zones are activated when the subject vessel passes: “LW” buoy, at approximate position 26°46.3′ N, 080°00.6′ W, when entering the Port of Palm Beach, passes “PE” buoy, at approximate position 26°05.5′ N, 080°04.8′ W, when entering Port Everglades; the “M” buoy, at approximate position 25°46.1′ N, 080°05.0′ W, when entering the Port of Miami; and “KW” buoy, at approximate position 24°27.7′ N, 081°48.1′ W, when entering the Port of Key West. Fixed security zones are established 100 yards around all passenger vessels, vessels carrying cargoes of particular hazard or liquefied hazardous gas (LHG) as defined in 33 CFR parts 120, 126 and 127 respectively, while they are docked in the Ports of Palm Beach, Port Everglades, Miami or Key West, Florida.

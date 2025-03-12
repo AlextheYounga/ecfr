@@ -1,12 +1,10 @@
 ##### § 1710.410 Application documents. #####
 
-Link to an amendment published at 84 FR 32613, July 9, 2019.
-
 The required application documentation listed in this section is not all inclusive but is specific to Eligible borrowers requesting a loan under this subpart and in most cases is supplemental to the general requirements for loan applications provided for in this part 1710:
 
 (a) A letter from the Borrower's General Manager requesting a loan under this subpart.
 
-(b) A copy of the board resolution establishing the EE Program that reflects an undertaking that funds collected in excess of then current amortization requirements for the related RUS loan will be redeployed for EE Program purposes or used to prepay the RUS loan.
+(b) A copy of the statement establishing the EE Program that reflects an undertaking that funds collected in excess of then current amortization requirements for the related RUS loan will be redeployed for EE Program purposes or used to prepay the RUS loan.
 
 (c) Current RUS-approved EE Program documentation that includes:
 
@@ -23,3 +21,5 @@ The required application documentation listed in this section is not all inclusi
 (e) A statement of whether an initial working capital advance pursuant to § 1710.409(c)(1) is included in the loan budget together with a schedule of how these funds will be used.
 
 (f) A proposed draft Schedule C pursuant to 7 CFR part 1718 that lists assets to be financed under this subpart as excepted property under the RUS mortgage, as applicable.
+
+[78 FR 73366, Dec. 5, 2013, as amended at 84 FR 32613, July 9, 2019]

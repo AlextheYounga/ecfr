@@ -1,18 +1,16 @@
 ##### § 1717.858 Lien subordination for rural development investments. #####
 
-Link to an amendment published at 84 FR 32616, July 9, 2019.
-
 (a) *Policy.* RUS encourages borrowers to consider investing in financially sound projects that are likely to have a positive effect on economic development and employment in rural areas. In addition to the guidance set forth in § 1717.651, RUS recommends that such investments be made through a subsidiary of the borrower in order to clearly separate the financial risks and the revenues and costs of the rural development enterprise from those of the borrower's electric utility business. This should reduce credit risks to the borrower's primary business, and minimize the possibility of undisclosed cross subsidization of the rural development enterprise by electric rate payers.
 
 (b) *Lien subordination.* RUS will consider subordinating or releasing its lien on the stock held by a borrower in a subsidiary whose primary business directly contributes to or supports economic development and employment in rural areas, as defined in section 13 of the RE Act, when requested by a lender to the subsidiary, other than the borrower. To be eligible for said lien subordination or release:
 
 (1) The borrower must be current on all of its financial obligations and be in compliance with all provisions of its mortgage and loan agreement with RUS; and
 
-(2) In the judgment of RUS, the borrower must be able to repay all of its outstanding debt, and the security forall outstanding loans made to the borrower by RUS, including loans guaranteed by RUS, must be adequate, after taking into account the proposed subordination or release of lien.
+(2) In the judgment of RUS, the borrower must be able to repay all of its outstanding debt, and the security for all outstanding loans made to the borrower by RUS, including loans guaranteed by RUS, must be adequate, after taking into account the proposed subordination or release of lien.
 
 (c) *Application contents.* Applications for a lien subordination or release of lien for rural development investments must include the following information and documents:
 
-(1) A resolution of the borrower's board of directors requesting the lien subordination or release of lien;
+(1) A statement from the borrower requesting the lien subordination or release of lien.
 
 (2) A certification by an authorized official of the borrower that the borrower is current on all of its financial obligations and is in compliance with all provisions of its mortgage and loan agreement with RUS;
 
@@ -32,10 +30,10 @@ Link to an amendment published at 84 FR 32616, July 9, 2019.
 
 (8) A certification by an authorized official of the borrower that flood hazard insurance will be obtained for the full value of any buildings, or other facilities susceptible to damage if flooded, that will be located in a flood hazard area;
 
-(9) Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters - Primary Covered Transactions, as required by 2 CFR part 180, as adopted by USDA through 2 CFR part 417;
+(9) Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters—Primary Covered Transactions, as required by 2 CFR part 180, as adopted by USDA through 2 CFR part 417;
 
 (10) A report by the borrower stating whether or not it is delinquent on any Federal debt, and if delinquent, the amount and age of the delinquency and the reasons therefor; and a certification, if not previously provided, that the borrower has been informed of the Government's collection options; and
 
 (11) Other information that RUS may require to determine whether all of the applicable provisions of this subpart have been met.
 
-[58 FR 53843, Oct. 19, 1993, as amended at 79 FR 76003, Dec. 19, 2014]
+[58 FR 53843, Oct. 19, 1993, as amended at 79 FR 76003, Dec. 19, 2014; 84 FR 32616, July 9, 2019]

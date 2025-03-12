@@ -1,8 +1,6 @@
 ##### § 801.3 Reporting requirements. #####
 
-Link to an amendment published at 84 FR 27199, June 12, 2019.
-
-Except for surveys subject to rulemaking in §§ 801.7, 801.8, 801.9, 801.10, and 801.11, reporting requirements for all other surveys conducted by the Bureau of Economic Analysis shall be as follows:
+Except for surveys subject to rulemaking in §§ 801.7, 801.8, 801.9, 801.10, 801.11, and 801.12 reporting requirements for all other surveys conducted by the Bureau of Economic Analysis shall be as follows:
 
 (a) Notice of specific reporting requirements, including who is required to report, the information to be reported, the manner of reporting, and the time and place of filing reports, will be published by the Director of the Bureau of Economic Analysis in the Federal Register prior to the implementation of a survey;
 
@@ -10,4 +8,4 @@ Except for surveys subject to rulemaking in §§ 801.7, 801.8, 801.9, 801.10, an
 
 (c) Persons not notified in writing of their filing obligation by the Bureau of Economic Analysis are not required to complete the survey.
 
-[83 FR 4836, Feb. 2, 2018]
+[84 FR 27199, June 12, 2019]

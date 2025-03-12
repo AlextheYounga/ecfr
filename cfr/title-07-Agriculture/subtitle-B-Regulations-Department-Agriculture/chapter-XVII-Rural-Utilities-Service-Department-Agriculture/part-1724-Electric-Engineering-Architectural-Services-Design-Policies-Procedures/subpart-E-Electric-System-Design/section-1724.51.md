@@ -1,12 +1,10 @@
 ##### § 1724.51 Design requirements. #####
 
-Link to an amendment published at 84 FR 32617, July 9, 2019.
-
 The provisions of this section apply to all borrower electric system facilities regardless of the source of financing.
 
 (a) *Distribution.* All distribution facilities must conform to the applicable RUS construction standards and utilize RUS accepted materials.
 
-(b) *Transmission lines.* (1) All transmission line design data must be approved by RUS.
+(b) *Transmission lines.* (1) All transmission line design data must be approved by RUS or a licensed professional engineer may certify that the design data, plans and profiles drawings for the electric system facilities meets all applicable RUS electric design requirements, specifications, local, state and national requirements and that RUS listed materials were used.
 
 (2) Design data consists of all significant design features, including, but not limited to, transmission line design data summary, general description of terrain, right-of-way calculations, discussion concerning conductor and structure selection, conductor sag and tension information, design clearances, span limitations due to clearances, galloping or conductor separation, design loads, structure strength limitations, insulator selection and design, guying requirements, and vibration considerations. For lines composed of steel or concrete poles, or steel towers, in which load information will be used to purchase the structures, the design data shall also include loading trees, structure configuration and selection, and a discussion concerning foundation selection.
 
@@ -18,7 +16,7 @@ The provisions of this section apply to all borrower electric system facilities 
 
 (ii) No significant NESC revisions have occurred.
 
-(c) *Substations.* (1) All substation design data must be approved by RUS.
+(c) *Substations.* (1) All substation design data must be approved by RUS or a licensed professional engineer may certify that the design data, plans and profiles drawings for the electric system facilities meets all applicable RUS electric design requirements, specifications, local, state and national requirements and that RUS listed materials were used.
 
 (2) Design data consists of all significant design features, including, but not limited to, a discussion of site considerations, oil spill prevention measures, design considerations covering voltage, capacity, shielding, clearances, number of low and high voltage phases, major equipment, foundation design parameters, design loads for line support structures and the control house, seismic considerations, corrosion, grounding, protective relaying, and AC and DC auxiliary systems. Reference to applicable safety codes and construction standards are also to be included.
 
@@ -47,3 +45,5 @@ The provisions of this section apply to all borrower electric system facilities 
 (f) *Communications and control.* (1) This section covers microwave and powerline carrier communications systems, load control, and supervisory control and data acquisition (SCADA) systems.
 
 (2) The performance considerations for a new or replacement master system must be approved by RUS. A master system includes the main controller and related equipment at the main control point. Performance considerations include all major system features and their justification, including, but not limited to, the objectives of the system, the types of parameters to be controlled or monitored, the communication media, alternatives considered, and provisions for future needs.
+
+[63 FR 35314, June 29, 1998, as amended at 84 FR 32617, July 9, 2019]
