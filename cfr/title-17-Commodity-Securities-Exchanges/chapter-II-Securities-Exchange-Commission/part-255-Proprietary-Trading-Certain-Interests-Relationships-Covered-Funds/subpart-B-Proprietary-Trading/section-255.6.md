@@ -1,7 +1,5 @@
 ##### § 255.6 Other permitted proprietary trading activities. #####
 
-Link to an amendment published at 84 FR 62244, Nov. 14, 2019.
-
 (a) *Permitted trading in domestic government obligations.* The prohibition contained in § 255.3(a) does not apply to the purchase or sale by a banking entity of a financial instrument that is:
 
 (1) An obligation of, or issued or guaranteed by, the United States;
@@ -72,32 +70,12 @@ Link to an amendment published at 84 FR 62244, Nov. 14, 2019.
 
 (3) A purchase or sale by a banking entity is permitted for purposes of this paragraph (e) if:
 
-(i) The banking entity engaging as principal in the purchase or sale (including any personnel of the banking entity or its affiliate that arrange, negotiate or execute such purchase or sale) is not located in the United States or organized under the laws of the United States or of any State;
+(i) The banking entity engaging as principal in the purchase or sale (including relevant personnel) is not located in the United States or organized under the laws of the United States or of any State;
 
-(ii) The banking entity (including relevant personnel) that makes the decision to purchase or sell as principal is not located in the United States or organized under the laws of the United States or of any State;
+(ii) The banking entity (including relevant personnel) that makes the decision to purchase or sell as principal is not located in the United States or organized under the laws of the United States or of any State; and
 
-(iii) The purchase or sale, including any transaction arising from risk-mitigating hedging related to the instruments purchased or sold, is not accounted for as principal directly or on a consolidated basis by any branch or affiliate that is located in the United States or organized under the laws of the United States or of any State;
+(iii) The purchase or sale, including any transaction arising from risk-mitigating hedging related to the instruments purchased or sold, is not accounted for as principal directly or on a consolidated basis by any branch or affiliate that is located in the United States or organized under the laws of the United States or of any State.
 
-(iv) No financing for the banking entity's purchases or sales is provided, directly or indirectly, by any branch or affiliate that is located in the United States or organized under the laws of the United States or of any State; and
+(4) For purposes of this paragraph (e), a U.S. branch, agency, or subsidiary of a foreign banking entity is considered to be located in the United States; however, the foreign bank that operates or controls that branch, agency, or subsidiary is not considered to be located in the United States solely by virtue of operating or controlling the U.S. branch, agency, or subsidiary.
 
-(v) The purchase or sale is not conducted with or through any U.S. entity, other than:
-
-(A) A purchase or sale with the foreign operations of a U.S. entity if no personnel of such U.S. entity that are located in the United States are involved in the arrangement, negotiation, or execution of such purchase or sale;
-
-(B) A purchase or sale with an unaffiliated market intermediary acting as principal, provided the purchase or sale is promptly cleared and settled through a clearing agency or derivatives clearing organization acting as a central counterparty; or
-
-(C) A purchase or sale through an unaffiliated market intermediary acting as agent, provided the purchase or sale is conducted anonymously on an exchange or similar trading facility and is promptly cleared and settled through a clearing agency or derivatives clearing organization acting as a central counterparty.
-
-(4) For purposes of this paragraph (e), a U.S. entity is any entity that is, or is controlled by, or is acting on behalf of, or at the direction of, any other entity that is, located in the United States or organized under the laws of the United States or of any State.
-
-(5) For purposes of this paragraph (e), a U.S. branch, agency, or subsidiary of a foreign banking entity is considered to be located in the United States; however, the foreign bank that operates or controls that branch, agency, or subsidiary is not considered to be located in the United States solely by virtue of operating or controlling the U.S. branch, agency, or subsidiary.
-
-(6) For purposes of this paragraph (e), *unaffiliated market intermediary* means an unaffiliated entity, acting as an intermediary, that is:
-
-(i) A broker or dealer registered with the SEC under section 15 of the Exchange Act or exempt from registration or excluded from regulation as such;
-
-(ii) A swap dealer registered with the CFTC under section 4s of the Commodity Exchange Act or exempt from registration or excluded from regulation as such;
-
-(iii) A security-based swap dealer registered with the SEC under section 15F of the Exchange Act or exempt from registration or excluded from regulation as such; or
-
-(iv) A futures commission merchant registered with the CFTC under section 4f of the Commodity Exchange Act or exempt from registration or excluded from regulation as such.
+[79 FR 5779, 5805, Jan. 31, 2014, as amended at 84 FR 62244, Nov. 14, 2019]

@@ -2,7 +2,7 @@
 
 (a) In addition to any other penalties that may be prescribed by law, the PFCRA may subject you to the following:
 
-(1) A civil penalty of not more than $11,462 for each false, fictitious or fraudulent statement or claim; and
+(1) A civil penalty of not more than $11,664 for each false, fictitious or fraudulent statement or claim; and
 
 (2) If the NEA has made any payment, transferred property, or provided services in reliance on a false claim, you are also subject to an assessment of not more than twice the amount of the false claim. This assessment is in lieu of damages sustained by the NEA because of the false claim.
 
@@ -16,4 +16,4 @@
 
 (f) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of persons.
 
-[79 FR 67081, Nov. 12, 2014, as amended at 84 FR 1404, Feb. 4, 2019]
+[79 FR 67081, Nov. 12, 2014, as amended at 84 FR 1404, Feb. 4, 2019; 85 FR 1760, Jan. 13, 2020]

@@ -1,5 +1,19 @@
-##### § 1485.35 Suspension, termination, and closeout of agreements. #####
+##### § 1485.35 Audit requirements. #####
 
-A program agreement may be suspended or terminated in accordance with the suspension and termination procedures in 2 CFR part 200. If an agreement is terminated, the applicable regulations in 2 CFR part 200 will apply to the closeout of the agreement.
+(a) Subpart F of 2 CFR part 200 applies to all Participants and subrecipients under this part other than those that are for-profit entities, foreign public entities, or foreign organizations.
 
-[79 FR 75997, Dec. 19, 2014]
+(b) A Participant or subrecipient that is a for-profit entity or a subrecipient that is a foreign organization and that expends, during its fiscal year, a total of at least the audit requirement threshold in 2 CFR 200.501 in Federal awards, is required to obtain an audit. Such a Participant or subrecipient has the following two options to satisfy this requirement:
+
+(1)(i) A financial audit of the agreement or subaward, in accordance with the Government Auditing Standards issued by the United States Government Accountability Office (GAO), if the Participant or subrecipient expends Federal awards under only one FAS program during such fiscal year; or
+
+(ii) A financial audit of all Federal awards from FAS, in accordance with GAO's Government Auditing Standards, if the Participant or subrecipient expends Federal awards under multiple FAS programs during such fiscal year; or
+
+(2) An audit that meets the requirements contained in subpart F of 2 CFR part 200.
+
+(c) A Participant or subrecipient that is a for-profit entity or a subrecipient that is a foreign organization and that expends, during its fiscal year, a total that is less than the audit requirement threshold in 2 CFR 200.501 in Federal awards, is exempt from requirements under this section for an audit for that year, except as provided in paragraphs (d) and (f) of this section, but it must make records available for review by appropriate officials of Federal agencies.
+
+(d) FAS may require an annual financial audit of an agreement or subaward when the audit requirement threshold in 2 CFR 200.501 is not met. In that case, FAS must provide funds under the agreement for this purpose, and the Participant or subrecipient, as applicable, must arrange for such audit and submit it to FAS.
+
+(e) When a Participant or subrecipient that is a for-profit entity or a subrecipiet that is a foreign organization is required to obtain a financial audit under this section, it must provide a copy of the audit to FAS within 60 days after the end of its fiscal year.
+
+(f) FAS, the USDA Office of Inspector General, or GAO may conduct or arrange for additional audits of any Participants or subrecipients, including for-profit entities and foreign organizations. Participants and subrecipients must promptly comply with all requests related to such audits. If FAS conducts or arranges for an additional audit, such as an audit with respect to a particular agreement, FAS will fund the full cost of such an audit, in accordance with 2 CFR 200.503(d).

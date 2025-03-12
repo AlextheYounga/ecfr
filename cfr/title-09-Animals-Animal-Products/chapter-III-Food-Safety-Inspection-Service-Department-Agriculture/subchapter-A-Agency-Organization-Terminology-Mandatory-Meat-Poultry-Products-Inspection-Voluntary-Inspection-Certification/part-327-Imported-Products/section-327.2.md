@@ -60,6 +60,4 @@
 
 (b) A list of countries eligible to export specific process categories of meat and meat food products is maintained at *http://www.fsis.usda.gov/importlibrary.* Meat and meat food products from listed countries must be accompanied by foreign inspection certificates of the country of origin, as required by § 327.4, and are eligible under the regulations in this subchapter for entry into the United States after inspection and marking as required by the applicable provisions of this part. Fresh, chilled, or frozen or other product from countries in which rinderpest, foot-and-mouth disease or African swine fever exist, as provided in part 94 of this title, are ineligible for importation into the United States.
 
-(c) It has been determined that product of equines from the following countries, covered by foreign meat inspection certificates of the country of origin as required by § 327.4, is eligible under the regulations in this subchapter for importation into the United States after inspection and marking as required by the applicable provisions of this part.
-
-Argentina, Canada, New Zealand, Paraguay.[35 FR 15610, Oct. 3, 1970]Editorial Note:For Federal Register citations affecting § 327.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[35 FR 15610, Oct. 3, 1970]Editorial Note:For Federal Register citations affecting § 327.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

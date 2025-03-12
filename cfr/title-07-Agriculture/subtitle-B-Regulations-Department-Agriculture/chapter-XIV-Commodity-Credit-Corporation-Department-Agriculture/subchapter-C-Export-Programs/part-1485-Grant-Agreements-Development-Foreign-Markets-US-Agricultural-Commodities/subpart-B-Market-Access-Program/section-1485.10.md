@@ -1,47 +1,15 @@
 ##### § 1485.10 General purpose and scope. #####
 
-(a) This subpart sets forth the general terms, conditions, and policies governing the Commodity Credit Corporation's (CCC) operation of the Market Access Program (MAP).
+(a) This subpart sets forth the general terms and conditions governing the Commodity Credit Corporation's (CCC) operation of the Market Access Program (MAP).
 
-(b)(1) In addition to the provisions of this subpart, other regulations of general application issued by the U. S. Department of Agriculture (USDA), including the regulations set forth in Chapter XXX of this title, “Office of the Chief Financial Officer, Department of Agriculture,” may apply to the MAP and MAP Participants, to the extent that these regulations of general application do not directly conflict with the provisions of this subpart. These include, but are not limited to:
+(b)(1) The Office of Management and Budget (OMB) issued guidance on Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards in 2 CFR part 200. In 2 CFR 400.1, the U.S. Department of Agriculture (USDA) adopted OMB's guidance in subparts A through F of 2 CFR part 200, as supplemented by 2 CFR part 400, as USDA policies and procedures for uniform administrative requirements, cost principles, and audit requirements for Federal awards.
 
-(i) 7 CFR part 1, subpart A - Official Records
+(2) The OMB guidance at 2 CFR part 200, as supplemented by 2 CFR part 400 and this subpart, applies to the Market Access Program (MAP) Program.
 
-(ii) 7 CFR part 3 - Debt Management
+(3) In addition to the provisions of this subpart, other regulations that are generally applicable to grants and cooperative agreements of USDA, including the applicable regulations set forth in 2 CFR chapters I, II, and IV, also apply to the MAP, to the extent that these regulations do not directly conflict with the provisions of this subpart. The provisions of the CCC Charter Act (15 U.S.C. 714 *et seq.*) and any other statutory or regulatory provisions that are generally applicable to CCC also apply to the MAP.
 
-(iii) 7 CFR part 15, subpart A - Nondiscrimination
-
-(iv) 2 CFR part 200 - Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards
-
-(v) 2 CFR part 417 - Government-wide Debarment and Suspension (Nonprocurement)
-
-(vi) 2 CFR part 418 - New Restrictions on Lobbying
-
-(vii) 2 CFR part 421 - Requirements for Drug-Free Workplace (Financial Assistance)
-
-(viii) 48 CFR part 31 - Contract Cost Principles and Procedures of the Federal Acquisition Regulations.
-
-(2) In addition, relevant provisions of the CCC Charter Act (15 U.S.C. 714 *et seq.*) and any other statutory provisions that are generally applicable to CCC are also applicable to the MAP and the regulations set forth in this part.
-
-(3) MAP Participants must also comply with Title VI of the Civil Rights Act of 1964 and related civil rights regulations and policies.
-
-(4) Other laws and regulations that apply to MAP Participants include, but are not limited to:
-
-(i) 2 CFR part 25 - Universal Identifier and Central Contractor Registration
-
-(ii) 2 CFR part 170 - Reporting Subaward and Executive Compensation Information
-
-(iii) 2 CFR part 175 - Award Term for Trafficking in Persons
-
-(iv) 2 CFR part 180 - OMB Guidelines to Agencies on Governmentwide Debarment and Suspension (Nonprocurement)
-
-(v) 37 CFR part 401.1 - Rights to Inventions Made by Nonprofit Organizations and Small Business Firms Under Government Grants, Contracts, and Cooperative Agreements
-
-(vi) Executive Order 13224, as amended, Blocking Property and Prohibiting Transactions with Persons Who Commit, Threaten to Commit, or Support Terrorism
-
-(c) Under the MAP, CCC may provide grants to eligible U.S. entities to conduct certain marketing and promotion activities aimed at developing, maintaining, or expanding commercial export markets for U.S. agricultural commodities and products. MAP Participants may receive assistance for either generic or brand promotion activities. While activities generally take place overseas, reimbursable activities may also take place in the United States. CCC expects all activities that occur in the United States for which MAP reimbursement is sought to develop, maintain, or expand the commercial export market for the relevant U.S. agricultural commodity in accordance with the MAP Participant's approved MAP program. When considering eligible nonprofit U.S. trade organizations, CCC gives priority to organizations that have the broadest producer representation and affiliated industry participation of the commodity being promoted.
+(c) Under the MAP, CCC may provide grants to eligible U.S. entities to conduct certain marketing and promotion activities aimed at developing, maintaining, or expanding commercial export markets for U.S. agricultural commodities. MAP Participants may receive assistance for either generic or brand promotion activities. While activities generally take place overseas, reimbursable activities may also take place in the United States. CCC expects all activities that occur in the United States for which MAP reimbursement is sought to develop, maintain, or expand the commercial export market for the relevant U.S. agricultural commodity in accordance with the MAP Participant's approved MAP program.
 
 (d) The MAP generally operates on a reimbursement basis.
 
-(e) CCC's policy is to ensure that benefits generated by MAP agreements are broadly available throughout the relevant agricultural sector and that no single entity gains an undue advantage. CCC also endeavors to enter into MAP agreements covering a broad array of agricultural commodity sectors. The MAP is administered by personnel of the Foreign Agricultural Service (FAS) acting on behalf of CCC.
-
-[77 FR 29499, May 17, 2012, as amended at 79 FR 75997, Dec. 19, 2014]
+(e) CCC's policy is to ensure that benefits generated by MAP agreements are broadly available throughout the relevant agricultural sector and that no single entity gains an undue advantage or sole benefit from program activities. CCC also endeavors to enter into MAP agreements covering a broad array of agricultural commodity sectors. The MAP is administered by the Foreign Agricultural Service (FAS) acting on behalf of CCC.

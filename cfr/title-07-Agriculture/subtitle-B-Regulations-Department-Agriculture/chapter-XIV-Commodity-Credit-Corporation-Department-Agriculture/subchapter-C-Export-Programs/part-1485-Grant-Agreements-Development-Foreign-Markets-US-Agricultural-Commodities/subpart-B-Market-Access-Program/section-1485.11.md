@@ -2,86 +2,88 @@
 
 For purposes of this subpart the following definitions apply:
 
-*Activity* - a specific foreign market development effort undertaken by a MAP Participant.
+*Activity* means a specific foreign market development effort undertaken by a MAP Participant.
 
-*Administrative expenses or costs* - expenses or costs of administering, directing, and controlling an organization that is a MAP Participant. Generally, this would include expenses or costs such as those related to:
+*Administrative expenses or costs* means expenses or costs of administering, directing, and controlling an organization that is a MAP Participant. Generally, this would include expenses or costs such as those related to:
 
-(1) Maintaining a physical office (including, but not limited to, rent, office equipment, office supplies, office décor, office furniture, computer hardware and software, maintenance, extermination, parking, business cards);
+(1) Maintaining a physical office (including, but not limited to: Rent, office equipment, office supplies, office décor, office furniture, computer hardware and software, maintenance, extermination, parking, and business cards);
 
-(2) Personnel (including, but not limited to, salaries, benefits, payroll taxes, individual insurance, training);
+(2) Personnel (including, but not limited to: Salaries, benefits, payroll taxes, individual insurance, and training);
 
-(3) Communications (including, but not limited to, phone expenses, internet, mobile phones, personal digital assistants, email, mobile email devices, postage, courier services, television, radio, walkie talkies);
+(3) Communications (including, but not limited to: Phone expenses, internet, mobile phones, personal digital assistants, email, mobile email devices, postage, courier services, television, radio, and walkie talkies);
 
-(4) Management of an organization or unit of an organization (including, but not limited to, planning, supervision, supervisory travel, teambuilding, recruiting, hiring);
+(4) Management of an organization or unit of an organization (including, but not limited to: Planning, supervision, supervisory travel, teambuilding, recruiting, and hiring);
 
-(5) Utilities (including, but not limited to, sewer, water, energy);
+(5) Utilities (including, but not limited to: Sewer, water, and energy);
 
-(6) Professional services (including, but not limited to, accounting expenses, financial services, investigatory services).
+(6) Professional services (including, but not limited to: Accounting expenses, financial services, and investigatory services).
 
-*Approval letter* - a document by which CCC informs an applicant that its MAP application for a program year has been approved for funding. This letter may also approve specific activities and contain terms and conditions in addition to the program agreement. This letter requires a countersignature by the MAP Participant before it becomes effective.
+*Affiliate* means any partnership, association, company, corporation, trust, or any other such party in which the Participant has an investment, other than a mutual fund.
 
-*Attaché/Counselor* - the FAS employee representing USDA interests in the foreign country in which promotional activities are conducted.
+*Agreement* means a legally binding grant entered into between CCC and a MAP applicant setting forth the terms and conditions to implement approved activities under the MAP program, including any subsequent amendments to such agreement.
 
-*Brand participant* - a small-sized U.S. for-profit entity, or a U.S. agricultural cooperative that owns the brand(s) of the U.S. agricultural commodity to be promoted or has the exclusive rights to use such brand(s) and that is participating in the MAP brand promotion program of another MAP Participant. This definition does not include any U.S. agricultural cooperatives that are MAP Participants that apply for MAP funds to implement their own brand programs.
+*Approval letter* means a document by which CCC informs an applicant that its MAP application for a program year has been approved for funding. This letter may also approve specific activities and contain terms and conditions in addition to the agreement. This letter requires a countersignature by the MAP Participant before it becomes effective.
 
-*Brand promotion* - an activity that involves the exclusive or predominant use of a single U.S. company name, or the logo or brand name of a single U.S. company, or the brand of a U.S. agricultural cooperative, or any activity undertaken by a MAP Participant in the brand program.
+*Attaché/Counselor* means the FAS employee representing USDA interests in the foreign country in which promotional activities are conducted.
 
-*CCC* - the Commodity Credit Corporation, including any agency or official of the United States delegated the responsibility to act on behalf of CCC.
+*Brand participant* means a small-sized U.S. for-profit entity or a U.S. agricultural cooperative that owns the brand(s) of the eligible commodity to be promoted or has the exclusive rights to use such brand(s) and that is participating in the MAP brand promotion program of another MAP Participant. This definition does not include any U.S. agricultural cooperatives that are MAP Participants that apply for MAP funds to implement their own brand programs.
 
-*Contribution* - an expenditure made by a MAP Participant, the U.S. industry, or State agency in support of an approved activity. This includes expenditures to be made by entities in the MAP Participant's industry in support of the entities' related promotion activities in the markets covered by the MAP Participant's agreement.
+*Brand promotion* means an activity that involves the exclusive or predominant use of a single U.S. company name, or the logo or brand name of a single U.S. company, or the brand of a U.S. agricultural cooperative, or any activity undertaken by a MAP Participant in the brand program.
 
-*Credit memo* - a commercial document, also known as a credit memorandum, issued by the MAP Participant to a commercial entity that owes the MAP Participant a certain sum. A credit memo is used when the MAP Participant owes the commercial entity a sum less than the amount the entity owes the Participant. The credit memo reflects an offset of the amount the MAP Participant owes the entity against the amount the entity owes to the MAP Participant.
+*Constraint* means a condition in a particular country or region that needs to be addressed in order to develop, expand, or maintain exports of a specific eligible commodity.
 
-*Demonstration projects* - activities involving the erection or construction of a structure or facility or the installation of equipment.
+*Contribution* means the funds, *e.g.,* money, personnel, materials, services, facilities, or supplies, provided by a MAP Participant, State agency or entities in the MAP Participant's industry (“U.S. industry”) in support of a MAP Participant's generic promotion program as well as funds provided by the MAP Participant, U.S. industry, or State agency in support of related promotion activities in the markets covered by the MAP Participant's agreement.
 
-*Expenditure* - either payment via the transfer of funds or offset reflected in a credit memo in lieu of a transfer of funds.
+*Cost share* means the funds, *e.g.,* money, personnel, materials, services, facilities, or supplies, provided by a MAP Participant, entities in the MAP Participant's industry, or State agency in support of an approved activity.
 
-*FAS* - Foreign Agricultural Service, USDA.
+*Credit memo* means a commercial document, also known as a credit memorandum, issued by the MAP Participant to a commercial entity that owes the MAP Participant a certain sum. A credit memo is used when the MAP Participant owes the commercial entity a sum less than the amount the entity owes the Participant. The credit memo reflects an offset of the amount the MAP Participant owes the entity against the amount the entity owes to the MAP Participant.
 
-*FAS Web site* - a Web site maintained by FAS providing information on MAP. It is currently accessible at *www.fas.usda.gov/mos/programs/map.asp.*
+*Demonstration projects* means activities involving the erection or construction of a structure or facility or the installation of equipment.
 
-*Foreign third party* - a foreign entity that a MAP Participant works with to promote the export of a U.S. agricultural commodity under the MAP program.
+*Eligible commodity* means any agricultural commodity or product thereof, excluding tobacco, that is comprised of at least 50 percent by weight, exclusive of added water, of agricultural commodities grown or raised in the United States.
 
-*Generic promotion* - an activity that is not a brand promotion but, rather, promotes a U.S. agricultural commodity generally. A generic promotion activity may include the promotion of a foreign brand (*i.e.*, a brand owned primarily by foreign interests and being used to market a commodity or product in a foreign market), if the foreign brand uses the promoted U.S. agricultural commodity or product from multiple U.S. suppliers. A generic promotion activity may also involve the use of specific U.S. company names, logos or brand names. However, in that case, the MAP Participant must ensure that all U.S. companies seeking to promote such U.S. agricultural commodity in the market have an equal opportunity to participate in the activity and that at least two U.S. companies participate. In addition, an activity that promotes separate items from multiple U.S. companies will be considered a generic promotion only if the promotion of the separate items maintains a unified theme (*i.e.*, a dominant idea or motif) and style and is subordinate to the promotion of the generic theme.
+*Expenditure* means either payment via the transfer of funds or offset reflected in a credit memo in lieu of a transfer of funds.
 
-*MAP* - the Market Access Program.
+*FAS website* means a website maintained by FAS providing information on the MAP. It is currently accessible at *www.fas.usda.gov/programs/market-access-program-map.*
 
-*MAP Notice* - Market Access Program notices are documents that CCC issues for informational purposes. These MAP notices are made available electronically at *http://www.fas.usda.gov/mos/programs/mnotice.html.* These notices have no legal effect. They are intended to alert MAP Participants of various aspects of CCC's current administration of the MAP program. For example, CCC issues MAP notices to alert MAP Participants of procedures for requesting advances, applicable federal pay scale rates, lists of economic and trade sanctions against certain foreign countries, reporting formats and computer codes to use with the UES.
+*Foreign subrecipient* means a foreign entity that a MAP Participant works with, in accordance with this subpart, to promote the export of an eligible commodity under the MAP program.
 
-*MAP Participant or Participant* - an entity that has entered into a MAP program agreement with CCC.
+*Generic promotion* means an activity that is not a brand promotion but, rather, promotes an eligible commodity generally. A generic promotion activity may include the promotion of a foreign brand (*i.e.,* a brand owned primarily by foreign interests and being used to market a commodity or product in a foreign market), if the foreign brand uses the promoted eligible commodity or product from multiple U.S. suppliers. A generic promotion activity may also involve the use of specific U.S. company names, logos, or brand names. However, in that case, the MAP Participant must ensure that all U.S. companies seeking to promote such eligible commodity in the market have an equal opportunity to participate in the activity and that at least two U.S. companies participate. In addition, an activity that promotes separate items from multiple U.S. companies will be considered a generic promotion only if the promotion of the separate items maintains a unified theme (*i.e.,* a dominant idea or motif) and style and is subordinate to the promotion of the generic theme.
 
-*Market* - the country or countries targeted by an activity.
+*MAP* is the acronym for the Market Access Program.
 
-*Notification* - a document from the MAP Participant by which the MAP Participant proposes to CCC changes to the activities and/or funding levels in an approved MAP program agreement and/or approval letter.
+*MAP Participant or Participant* means an entity that has entered into an agreement with CCC.
 
-*Product samples* - a representative part of a larger whole promoted commodity or group of promoted commodities. Product samples include all forms of a promoted commodity (e.g., fresh or processed), independent of the ultimate utilization of the sample. Product samples might be used in support of international marketing activities including, but not limited to, displays, food process testing, cooking demonstrations, or trade and consumer tastings.
+*Market* means a country or region targeted by an activity.
 
-*Program agreement* - a document entered into between CCC and a MAP Participant setting forth the terms and conditions of approved activities under MAP, including any subsequent amendments to such agreement.
+*Notification* means a document from the MAP Participant by which the MAP Participant proposes to CCC changes to the activities and/or funding levels in an approved agreement and/or approval letter.
 
-*Program year* - Unless otherwise agreed in writing between CCC and a MAP Participant, a 12-month period during which a MAP Participant can undertake activities consistent with this subpart and its program agreement and approval letter with CCC.
+*Product samples* means a representative part of a larger whole promoted commodity or group of promoted commodities. Product samples include all forms of a promoted commodity (*e.g.,* fresh or processed), independent of the ultimate utilization of the sample. Product samples might be used in support of international marketing activities including, but not limited to: Displays, food process testing, cooking demonstrations, or trade and consumer tastings.
 
-*Promoted commodity* - a U.S. agricultural commodity the sale of which is the intended result of a promotion activity.
+*Program notice* means documents that CCC issues for informational purposes. These notices are currently made available electronically through the FAS website. These notices have no legal effect. They are intended to alert MAP Participants of various aspects of CCC's current administration of the MAP program. For example, CCC issues notices to alert Participants of applicable Federal pay scale rates and lists of economic and trade sanctions against certain foreign countries.
 
-*Sales and trade relations expenditures (STRE)* - expenditures made on breakfast, lunch, dinner, receptions, and refreshments at approved activities; miscellaneous courtesies such as checkroom fees, taxi fares and tips; and decorations for a special promotional occasion.
+*Program year* means, unless otherwise agreed to in writing between CCC and a MAP Participant, a 12-month period during which a MAP Participant can undertake activities consistent with this subpart and its agreement and approval letter with CCC. This is also known as a project period, which in multiple year awards will be divided into budget periods.
 
-*Sales team* - a group of individuals engaged in an approved activity intended to result in specific sales.
+*Promoted commodity* means an eligible commodity the sale of which is the intended result of a promotional activity under the MAP.
 
-*Small-sized entity* - a U.S. commercial entity that meets the small business size standards published at 13 CFR part 121, Small Business Size Regulations.
+*Sales and trade relations expenditures* (STRE) means expenditures made on breakfast, lunch, dinner, receptions, and refreshments at approved activities; miscellaneous courtesies such as checkroom fees, taxi fares, and tips for approved activities; and decorations for a special promotional occasion that is part of an approved activity.
 
-*SRTG* - the acronym for State Regional Trade Group. An SRTG is a nonprofit association of state-funded agricultural promotion agencies.
+*Sales team* means a group of individuals engaged in an approved activity intended to result in specific sales.
 
-*Supergrade* - a salary level above the reimbursable salary range generally allowable under MAP, which CCC may approve on a case by case basis. This salary level is available only for certain non-U.S. employees who direct MAP Participants' overseas offices.
+*Small-sized entity* means a U.S. commercial entity that meets the small business size standards published at 13 CFR part 121, Small Business Size Regulations.
 
-*Temporary contractor* - a contractor, typically a consultant or other highly paid professional, that is hired on a short term basis to assist in the performance of an activity.
+*SRTG* is the acronym for State Regional Trade Group. An SRTG is a nonprofit association of state-funded agricultural promotion agencies.
 
-*Trade team* - a group of individuals engaged in an approved activity intended to promote the interests of an entire agricultural sector rather than to result in specific sales by any of its members.
+*Supergrade* means a salary level above the reimbursable salary range generally allowable under the MAP, which CCC may approve on a case by case basis. This salary level is available only for certain non-U.S. employees who direct MAP Participants' overseas offices.
 
-*UES Web site* - a Web site maintained by FAS through which applicants may apply online to MAP and any other USDA market development program. The Web site is currently accessible at *www.fas.usda.gov/mos/ues/unified.asp.*
+*Temporary contractor* means a contractor, typically a consultant or other highly paid professional, that is hired on a short-term basis to assist in the performance of an activity.
 
-*Unified Export Strategy (UES)* - is a standardized online Internet application developed by USDA and available for use by entities to apply to any USDA market development program, including the MAP.
+*Trade team* means a group of individuals engaged in an approved activity intended to promote the interests of an entire agricultural sector rather than to result in specific sales by any of its members.
 
-*U.S. agricultural commodity* - any agricultural commodity, including any food, feed, fiber, forestry product, livestock, or insect of U.S. origin or fish harvested from a U.S. aquaculture farm or harvested by a vessel as defined in Title 46 of the United States Code, in waters that are not waters (including the territorial sea) of a foreign country, and any product thereof, excluding tobacco. An agricultural commodity shall be considered to be U.S. origin if it is comprised of at least 50 percent by weight, exclusive of added water, of agricultural commodities grown or raised in the United States.
+*Unified Export Strategy (UES)* means a holistic marketing plan that outlines an applicant's proposed foreign market development activities and requested funding under each of the FAS market development programs.
 
-*USDA* - the United States Department of Agriculture.
+*Unified Export Strategy (UES) system* means an online internet system maintained by FAS through which applicants may currently apply to the MAP and other FAS market development programs. The system is currently accessible at *https://apps.fas.usda.gov/ues/webapp/.* FAS may prescribe a different system through which applicants may apply to MAP and will announce such system in the applicable Notice of Funding Opportunity (NOFO).
 
-*U.S. for-profit entity* - a firm, association, or other entity organized or incorporated, located and doing business for profit in the United States, and engaged in the export or sale of a U.S. agricultural commodity.
+*U.S. agricultural commodity* means any agricultural commodity of U.S. origin, including food, feed, fiber, forestry product, livestock, insects, and fish harvested from a U.S. aquaculture farm or harvested by a vessel (as defined in Title 46 of the United States Code) in waters that are not waters (including the territorial sea) of a foreign country, and any product thereof.
+
+*U.S. for-profit entity* means an organized or incorporated firm, association, or other entity that is located and doing business for profit in the United States and is engaged in the export or sale of an eligible commodity.
