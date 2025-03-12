@@ -2,7 +2,7 @@
 
 The following definitions shall apply to this subpart:
 
-(a) *Child* means any biological or legally-adopted child, or any stepchild, of a deceased victim, who, at the time of the victim's death, is -
+(a) *Child* means any biological or legally-adopted child, or any stepchild, of a deceased victim, who, at the time of the victim's death, is—
 
 (1) Younger than 18 years of age; or
 
@@ -16,7 +16,7 @@ The following definitions shall apply to this subpart:
 
 (e) *Dependent* has the meaning given in 26 U.S.C. 152. If the victim was not required by law to file a U.S. Federal income tax return for the year prior to the act of international terrorism, an individual shall be deemed to be a victim's dependent if he was reliant on the income of the victim for over half of his support in that year.
 
-(f) *Employee of the United States Government* means any person who -
+(f) *Employee of the United States Government* means any person who—
 
 (1) Is an employee of the United States government under Federal law; or
 
@@ -28,11 +28,11 @@ The following definitions shall apply to this subpart:
 
 (i) *Incompetent* means unable to care for oneself because of mental illness or disability, mental retardation, or dementia.
 
-(j) *International terrorism* has the meaning given in 18 U.S.C. 2331. As of the date of these regulations, the statute defines the term to mean “activities that -
+(j) *International terrorism* has the meaning given in 18 U.S.C. 2331. As of the date of these regulations, the statute defines the term to mean “activities that—
 
 (1) Involve violent acts or acts dangerous to human life that are a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State;
 
-(2) Appear to be intended -
+(2) Appear to be intended—
 
 (i) To intimidate or coerce a civilian population;
 
@@ -62,7 +62,7 @@ The following definitions shall apply to this subpart:
 
 (t) *Representative* means a family member or legal guardian authorized to file a claim on behalf of a victim who is younger than 18 years of age, incompetent, incapacitated, or deceased, except that no individual who was criminally culpable for the act of international terrorism shall be considered a representative. In the event that no family member or legal guardian is available to file a claim for an interim emergency payment on behalf of a victim, under § 94.41, a U.S. consular officer or U.S. embassy official within the country may act as a representative, consistent with any limitation on his authority contained in 22 CFR 92.81(b).
 
-(u) *Victim* has the meaning given in 42 U.S.C. 10603c(a)(3)(A), it being understood that the term “person” in that section means the following:
+(u) *Victim* has the meaning given in 34 U.S.C. 20106(a)(3)(A), it being understood that the term “person” in that section means the following:
 
 (1) (i) An individual who was present during the act of terrorism;
 
@@ -70,10 +70,12 @@ The following definitions shall apply to this subpart:
 
 (iii) An emergency responder who assisted in efforts to search for and recover other victims; and
 
-(2) The spouse, children, parents, and siblings of a victim described in paragraph (u)(1) of this Section, and other persons, at the discretion of the Director, shall be considered “victims”, when the person described in such paragraph -
+(2) The spouse, children, parents, and siblings of a victim described in paragraph (u)(1) of this Section, and other persons, at the discretion of the Director, shall be considered “victims”, when the person described in such paragraph—
 
 (i) Dies as a result of the act of terrorism;
 
 (ii) Is younger than 18 years of age (or is incompetent or incapacitated) at the time of the act of terrorism, or;
 
 (iii) Is rendered incompetent or incapacitated as a result of the act of terrorism.
+
+[71 FR 52451, Sept. 6, 2006, as amended at 88 FR 3656, Jan. 20, 2023]

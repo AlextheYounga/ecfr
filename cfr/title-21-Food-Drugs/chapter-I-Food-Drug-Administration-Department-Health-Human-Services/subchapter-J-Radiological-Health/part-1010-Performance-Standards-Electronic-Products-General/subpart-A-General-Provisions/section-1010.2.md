@@ -1,5 +1,7 @@
 ##### § 1010.2 Certification. #####
 
+Link to an amendment published at 88 FR 3653, Jan. 20, 2023.
+
 (a) Every manufacturer of an electronic product for which an applicable standard is in effect under this subchapter shall furnish to the dealer or distributor, at the time of delivery of such product, the certification that such product conforms to all applicable standards under this subchapter.
 
 (b) The certification shall be in the form of a label or tag permanently affixed to or inscribed on such product so as to be legible and readily accessible to view when the product is fully assembled for use, unless the applicable standard prescribes some other manner of certification. All such labels or tags shall be in the English language.

@@ -1,5 +1,7 @@
 ##### § 1020.10 Television receivers. #####
 
+Link to an amendment published at 88 FR 3654, Jan. 20, 2023.
+
 (a) *Applicability.* The provisions of this section are applicable to television receivers manufactured subsequent to January 15, 1970.
 
 (b) *Definitions.* (1) *External surface* means the cabinet or enclosure provided by the manufacturer as part of the receiver. If a cabinet or enclosure is not provided as part of the receiver, the external surface shall be considered to be a hypothetical cabinet, the plane surfaces of which are located at those minimum distances from the chassis sufficient to enclose all components of the receiver except that portion of the neck and socket of the cathode-ray tube which normally extends beyond the plane surfaces of the enclosure.

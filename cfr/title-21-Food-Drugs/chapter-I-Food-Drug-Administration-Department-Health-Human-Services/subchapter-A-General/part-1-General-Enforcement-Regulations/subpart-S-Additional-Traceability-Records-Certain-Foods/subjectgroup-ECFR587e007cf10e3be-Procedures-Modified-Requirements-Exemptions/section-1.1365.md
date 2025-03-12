@@ -1,0 +1,3 @@
+##### § 1.1365 When will FDA consider whether to adopt modified requirements or grant an exemption from the requirements of this subpart? #####
+
+FDA will consider modifying the requirements of this subpart applicable to a food or type of entity, or exempting a food or type of entity from the requirements of this subpart, on our own initiative or in response to a citizen petition submitted under § 10.30 of this chapter by any interested party.

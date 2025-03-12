@@ -1,5 +1,7 @@
 ##### § 1020.30 Diagnostic x-ray systems and their major components. #####
 
+Link to an amendment published at 88 FR 3654, Jan. 20, 2023.
+
 (a) *Applicability.* (1) The provisions of this section are applicable to:
 
 (i) The following components of diagnostic x-ray systems:

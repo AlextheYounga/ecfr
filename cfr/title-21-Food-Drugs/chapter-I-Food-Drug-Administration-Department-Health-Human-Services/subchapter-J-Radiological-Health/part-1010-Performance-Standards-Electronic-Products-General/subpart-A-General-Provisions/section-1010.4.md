@@ -1,5 +1,7 @@
 ##### § 1010.4 Variances. #####
 
+Link to an amendment published at 88 FR 3654, Jan. 20, 2023.
+
 (a) *Criteria for variances.* (1) Upon application by a manufacturer (including an assembler), the Director, Center for Devices and Radiological Health, Food and Drug Administration, may grant a variance from one or more provisions of any performance standard under subchapter J of this chapter for an electronic product subject to such standard when the Director determines that granting such a variance is in keeping with the purposes of Subchapter C - Electronic Product Radiation Control of the Federal Food, Drug, and Cosmetic Act (formerly the Radiation Control for Health and Safety Act of 1968), and:
 
 (i) The scope of the requested variance is so limited in its applicability as not to justify an amendment to the standard, or

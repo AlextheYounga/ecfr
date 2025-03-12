@@ -1,0 +1,3 @@
+##### § 1.1300 Who is subject to this subpart? #####
+
+Except as otherwise specified in this subpart, the requirements in this subpart apply to persons who manufacture, process, pack, or hold foods that appear on the list of foods for which additional traceability records are required in accordance with section 204(d)(2) of the FDA Food Safety Modernization Act (Food Traceability List). FDA will publish the Food Traceability List on its website, *www.fda.gov.,* in accordance with section 204(d)(2)(B) of the FDA Food Safety Modernization Act.

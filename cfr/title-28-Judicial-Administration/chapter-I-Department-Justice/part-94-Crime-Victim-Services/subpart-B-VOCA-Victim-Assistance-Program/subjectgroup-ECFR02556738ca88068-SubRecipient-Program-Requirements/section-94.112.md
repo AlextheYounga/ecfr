@@ -10,8 +10,10 @@
 
 (4) *Direct service programs run by the SAA.* SAAs may fund their own direct services programs, but, under § 94.104(f), may allocate no more than ten percent of the VOCA grant to such programs, and each such program shall adhere to the allowable/unallowable cost rules for sub-recipient projects set out in this subpart at §§ 94.119 through 94.122.
 
-(b) *Organizational capacity of the program.* For purposes of VOCA, at 42 U.S.C. 10603(b)(1)(B), the following shall apply:
+(b) *Organizational capacity of the program.* For purposes of VOCA, at 34 U.S.C. 20103(b)(1)(B), the following shall apply:
 
 (1) *Record of effective services to victims of crime and support from sources other than the Crime Victims Fund.* A program has demonstrated a record of effective direct services and support from sources other than the Crime Victims Fund when, for example, it demonstrates the support and approval of its direct services by the community, its history of providing direct services in a cost-effective manner, and the breadth or depth of its financial support from sources other than the Crime Victims Fund.
 
 (2) *Substantial financial support from sources other than the Crime Victims Fund.* A program has substantial financial support from sources other than the Crime Victims Fund when at least twenty-five percent of the program's funding in the year of, or the year preceding the award comes from such sources, which may include other federal funding programs. If the funding is non-federal (or meets the DOJ Grants Financial Guide exceptions for using federal funding for match), then a program may count the used funding to demonstrate non-VOCA substantial financial support toward its project match requirement.
+
+[81 FR 44528, July 8, 2016, as amended at 88 FR 3657, Jan. 20, 2023]

@@ -1,7 +1,5 @@
 ##### § 171.25 Additional requirements for the use of the IMDG Code. #####
 
-Link to an amendment published at 87 FR 78010, Dec. 21, 2022.
-
 (a) A hazardous material may be offered for transportation or transported to, from or within the United States by vessel, and by motor carrier and rail in accordance with the IMDG Code (IBR, see § 171.7), as authorized in § 171.22, provided all or part of the movement is by vessel. Such shipments must conform to the requirements in § 171.22, as applicable, and this section.
 
 (b) Any person who offers for transportation or transports a hazardous material in accordance with the IMDG Code must conform to the following additional conditions and requirements:
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 78010, Dec. 21, 2022.
 
 (2) For transportation by vessel, the stowage and segregation requirements in Part 7 of the IMDG Code may be substituted for the stowage and segregation requirements in part 176 of this subchapter.
 
-(3) The outside of each package containing lithium metal cells or batteries (UN3090) transported in accordance with special provision 188 of the IMDG Code must be marked “PRIMARY LITHIUM BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT” or “LITHIUM METAL BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or labeled with a CARGO AIRCRAFT ONLY label specified in § 172.448 of this subchapter. The provisions of this paragraph do not apply to packages that contain 5 kg (11 pounds) net weight or less of lithium metal cells or batteries that are packed with, or contained in, equipment.
+(3) The outside of each package containing lithium metal cells or batteries (UN3090) or lithium ion cells or batteries (UN3480) transported in accordance with special provision 188 of the IMDG Code must be appropriately marked “PRIMARY LITHIUM BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM METAL BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM ION BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or “LITHIUM BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or labeled with a CARGO AIRCRAFT ONLY label as specified in § 172.448 of this subchapter. The provisions of this paragraph also apply to packages of lithium cells or batteries packed with, or contained in, equipment that exceed 5 kg (11 pounds) net weight. When placed in an overpack, the selected marking or label must either be clearly visible through the overpack, or the marking or label must also be affixed on the outside of the overpack.
 
 (4) Material consigned under UN3166 and UN3171 (*e.g.,* Engines, internal combustion, *etc.,* Vehicles, *etc.* and Battery-powered equipment) may be prepared in accordance with the IMDG Code or this subchapter.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 87 FR 78010, Dec. 21, 2022.
 
 (2) The requirement in § 172.201(d) of this subchapter for an emergency telephone number does not apply to shipments made in accordance with the IMDG Code if the hazardous material is not offloaded from the vessel, or is offloaded between ocean vessels at a U.S. port facility without being transported by public highway.
 
-[72 FR 25172, May 3, 2007, as amended at 72 FR 44847, Aug. 9, 2007; 73 FR 57004, Oct. 1, 2008; 74 FR 2233, Jan. 14, 2009; 76 FR 3345, Jan. 19, 2011; 79 FR 46034, Aug. 6, 2014; 80 FR 1116, Jan. 8, 2015]
+[72 FR 25172, May 3, 2007, as amended at 72 FR 44847, Aug. 9, 2007; 73 FR 57004, Oct. 1, 2008; 74 FR 2233, Jan. 14, 2009; 76 FR 3345, Jan. 19, 2011; 79 FR 46034, Aug. 6, 2014; 80 FR 1116, Jan. 8, 2015; 87 FR 78010, Dec. 21, 2022]

@@ -2,7 +2,7 @@
 
 (a) *Direct services.* SAAs may use VOCA funds to provide direct services through sub-recipients or in their own projects, and to cover administrative and training costs of the SAA. SAAs have sole discretion to determine which organizations will receive funds, and in what amounts, subject to the minimum requirements set forth in VOCA and this subpart. SAAs must ensure that projects provide services to victims of federal crimes on the same basis as to victims of crimes under State or local law. SAAs may fund direct services regardless of a victim's participation in the criminal justice process. Victim eligibility under this program for direct services is not dependent on the victim's immigration status.
 
-(b) *SAA eligibility certification.* Each SAA must certify that it will meet the criteria set forth in VOCA, at 42 U.S.C. 10603(a)(2), and in this subpart . This certification shall be submitted by the chief executive of the State (or a designee) annually in such form and manner as OVC specifies from time to time. As of July 8, 2016, VOCA requires the chief executive to certify that -
+(b) *SAA eligibility certification.* Each SAA must certify that it will meet the criteria set forth in VOCA, at 34 U.S.C. 20103(a)(2), and in this subpart . This certification shall be submitted by the chief executive of the State (or a designee) annually in such form and manner as OVC specifies from time to time. As of July 8, 2016, VOCA requires the chief executive to certify that—
 
 (1) Priority will be given to programs providing assistance to victims of sexual assault, spousal abuse, or child abuse;
 
@@ -18,4 +18,6 @@
 
 (f) *Compliance with other rules and requirements.* SAAs shall comply (and ensure sub-recipient compliance) with all applicable provisions of VOCA, this subpart, and any guidance issued by OVC, as well as all applicable provisions of the DOJ Grants Financial Guide and government-wide grant rules.
 
-(g) *Access to records.* SAAs shall, upon request, and consistent with 2 CFR 200.336, permit OVC access to all records related to the use of VOCA funding.
+(g) *Access to records.* SAAs shall, upon request, and consistent with 2 CFR 200.337, permit OVC access to all records related to the use of VOCA funding.
+
+[81 FR 44528, July 8, 2016, as amended at 88 FR 3656, Jan. 20, 2023]

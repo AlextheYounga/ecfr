@@ -1,0 +1,3 @@
+##### § 1.1430 What information submitted in a petition requesting a waiver for a type of entity, or information in comments on such a petition, is publicly available? #####
+
+FDA will presume that information submitted in a petition requesting a waiver for a type of entity, as well as information in comments submitted on such a petition, does not contain information exempt from public disclosure under part 20 of this chapter and will be made public as part of the docket associated with the petition.

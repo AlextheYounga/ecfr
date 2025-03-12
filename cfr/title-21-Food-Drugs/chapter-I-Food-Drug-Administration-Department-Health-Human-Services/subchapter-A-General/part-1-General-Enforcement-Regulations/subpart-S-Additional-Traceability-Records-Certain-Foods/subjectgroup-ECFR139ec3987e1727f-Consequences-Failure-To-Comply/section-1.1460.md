@@ -1,0 +1,5 @@
+##### § 1.1460 What consequences could result from failing to comply with the requirements of this subpart? #####
+
+(a) *Prohibited act.* The violation of any recordkeeping requirement under section 204 of the FDA Food Safety Modernization Act, including the violation of any requirement of this subpart, is prohibited under section 301(e) of the Federal Food, Drug, and Cosmetic Act, except when such violation is committed by a farm.
+
+(b) *Refusal of admission.* An article of food is subject to refusal of admission under section 801(a)(4) of the Federal Food, Drug, and Cosmetic Act if it appears that the recordkeeping requirements under section 204 of the FDA Food Safety Modernization Act (other than the requirements under subsection (f) of that section), including the requirements of this subpart, have not been complied with regarding such article.

@@ -1,5 +1,7 @@
 ##### § 1030.10 Microwave ovens. #####
 
+Link to an amendment published at 88 FR 3654, Jan. 20, 2023.
+
 (a) *Applicability.* The provisions of this standard are applicable to microwave ovens manufactured after October 6, 1971.
 
 (b) *Definitions* - (1) *Microwave oven* means a device designed to heat, cook, or dry food through the application of electromagnetic energy at frequencies assigned by the Federal Communications Commission in the normal ISM heating bands ranging from 890 megahertz to 6,000 megahertz. As defined in this standard, “microwave ovens” are limited to those manufactured for use in homes, restaurants, food vending, or service establishments, on interstate carriers, and in similar facilities.

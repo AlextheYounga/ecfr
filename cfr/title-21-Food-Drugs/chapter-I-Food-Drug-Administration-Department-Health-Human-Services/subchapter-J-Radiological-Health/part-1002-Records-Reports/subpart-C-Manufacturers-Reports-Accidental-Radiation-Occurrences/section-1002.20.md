@@ -1,5 +1,7 @@
 ##### § 1002.20 Reporting of accidental radiation occurrences. #####
 
+Link to an amendment published at 88 FR 3653, Jan. 20, 2023.
+
 (a) Manufacturers of electronic products shall, where reasonable grounds for suspecting that such an incident has occurred, immediately report to the Director, Center for Devices and Radiological Health, all accidental radiation occurrences reported to or otherwise known to the manufacturer and arising from the manufacturing, testing, or use of any product introduced or intended to be introduced into commerce by such manufacturer. Reasonable grounds include, but are not necessarily limited to, professional, scientific, or medical facts or opinions documented or otherwise, that conclude or lead to the conclusion that such an incident has occurred.
 
 (b) Such reports shall be addressed to Food and Drug Administration, Center for Devices and Radiological Health, ATTN: Accidental Radiation Occurrence Reports, Document Mail Center, 10903 New Hampshire Ave., Bldg. 66, rm. G609, Silver Spring, MD 20993-0002, and the reports and their envelopes shall be distinctly marked “Report on 1002.20” and shall contain all of the following information where known to the manufacturer:

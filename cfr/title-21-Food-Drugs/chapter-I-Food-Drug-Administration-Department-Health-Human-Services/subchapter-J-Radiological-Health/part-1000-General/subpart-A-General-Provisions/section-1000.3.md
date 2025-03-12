@@ -1,5 +1,7 @@
 ##### § 1000.3 Definitions. #####
 
+Link to an amendment published at 88 FR 3652, Jan. 20, 2023.
+
 As used in this subchapter J:
 
 (a) *Accidental radiation occurrence* means a single event or series of events that has/have resulted in injurious or potentially injurious exposure of any person to electronic product radiation as a result of the manufacturing, testing, or use of an electronic product.

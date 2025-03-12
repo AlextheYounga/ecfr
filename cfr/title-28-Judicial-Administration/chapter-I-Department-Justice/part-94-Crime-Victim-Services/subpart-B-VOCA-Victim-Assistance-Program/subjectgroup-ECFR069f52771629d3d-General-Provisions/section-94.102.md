@@ -6,7 +6,7 @@ As used in this subpart:
 
 *Director* means the Director of OVC.
 
-*Direct services* or *services to victims of crime* means those services described in 42 U.S.C. 10603(d)(2), and efforts that -
+*Direct services* or *services to victims of crime* means those services described in 34 U.S.C. 20103(d)(2), and efforts that—
 
 (1) Respond to the emotional, psychological, or physical needs of crime victims;
 
@@ -35,3 +35,5 @@ As used in this subpart:
 *VOCA funds* or *VOCA funding* means grant funds (or grant funding) under this program.
 
 *VOCA grant* means the annual grant from OVC to a State under this program.
+
+[81 FR 44528, July 8, 2016, as amended at 88 FR 3656, Jan. 20, 2023]

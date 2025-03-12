@@ -1,6 +1,6 @@
 ##### § 171.12 North American Shipments. #####
 
-Link to an amendment published at 87 FR 78010, Dec. 21, 2022.Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
+Link to an amendment published at 87 FR 79765, Dec. 27, 2022.
 
 (a) *Requirements for the use of the Transport Canada TDG Regulations* - (1) *Applicability.* A hazardous material transported from Canada to the United States, from the United States to Canada, or transiting the United States to Canada or a foreign destination may be offered for transportation or transported by motor carrier and rail in accordance with the Transport Canada TDG Regulations (IBR, *see* § 171.7), an equivalency certificate (permit for equivalent level of safety), or a temporary certificate (permit in support of public interest) issued by Transport Canada as an alternative to the TDG Regulations, as authorized in § 171.22, provided the requirements in §§ 171.22 and 171.23, as applicable, and this section are met. In addition, a cylinder, pressure drum, MEGC, cargo tank motor vehicle, portable tank or rail tank car authorized by the Transport Canada TDG Regulations may be used for transportation to, from, or within the United States provided the cylinder, pressure drum, MEGC, cargo tank motor vehicle, portable tank, or rail tank car conforms to the applicable requirements of this section. Except as otherwise provided in this subpart and subpart C of this part, the requirements in parts 172, 173, and 178 of this subchapter do not apply for a material transported in accordance with the Transport Canada TDG Regulations.
 
@@ -63,7 +63,7 @@ Link to an amendment published at 87 FR 78010, Dec. 21, 2022.Link to an amendmen
 
 (5) *Class 1 (explosive) materials.* When transporting Class 1 (explosive) material, rail and motor carriers must comply with 49 CFR 1572.9 and 1572.11 to the extent the requirements apply.
 
-(6) *Lithium metal cells and batteries.* Lithium metal cells and batteries (UN3090) are forbidden for transport aboard passenger-carrying aircraft. The outside of each package that contains lithium cells or batteries meeting the conditions for exception in § 173.185(c) of this subchapter and transported in accordance with the Transport Canada TDG Regulations must be marked in accordance with § 173.185(c)(1)(iii) or (c)(1)(iv) as appropriate.
+(6) *Lithium cells and batteries.* Lithium metal cells and batteries (UN3090) and lithium ion cells and batteries (UN3480) are forbidden for transport as cargo aboard passenger-carrying aircraft. The outside of each package or overpack that contains lithium cells or batteries meeting the conditions for exception in § 173.185(c) of this subchapter and transported in accordance with the Transport Canada TDG Regulations must be marked or labeled in accordance with § 173.185(c)(1)(iii), (iv), and (vi), as appropriate.
 
 (b) *Shipments to or from Mexico.* Unless otherwise excepted, hazardous materials shipments from Mexico to the United States or from the United States to Mexico must conform to all applicable requirements of this subchapter. When a hazardous material that is a material poisonous by inhalation (see § 171.8) is transported by highway or rail from Mexico to the United States, or from the United States to Mexico, the following requirements apply:
 

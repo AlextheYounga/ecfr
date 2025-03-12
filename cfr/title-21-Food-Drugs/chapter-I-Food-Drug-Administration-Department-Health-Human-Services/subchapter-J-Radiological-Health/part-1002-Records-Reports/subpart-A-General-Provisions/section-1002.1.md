@@ -1,5 +1,7 @@
 ##### § 1002.1 Applicability. #####
 
+Link to an amendment published at 88 FR 3652, Jan. 20, 2023.
+
 The provisions of this part are applicable as follows:
 
 (a) All manufacturers of electronic products are subject to § 1002.20.

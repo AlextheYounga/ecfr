@@ -1,6 +1,6 @@
 ##### § 173.185 Lithium cells and batteries. #####
 
-Link to an amendment published at 87 FR 78010, Dec. 21, 2022.Link to an amendment published at 87 FR 79777, Dec. 27, 2022.
+Link to an amendment published at 87 FR 79777, Dec. 27, 2022.
 
 As used in this section, *consignment* means one or more packages of hazardous materials accepted by an operator from one shipper at one time and at one address, receipted for in one lot and moving to one consignee at one destination address. *Equipment* means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation. *Lithium cell(s)* or *battery(ies)* includes both lithium metal and lithium ion chemistries. *Medical device* means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
@@ -112,9 +112,9 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (ii) The lithium content may not exceed 1 g for a lithium metal cell or 2 g for a lithium metal battery.
 
-(iii) Except when lithium cells or batteries are packed with or contained in equipment in quantities not exceeding 5 kg net weight, the outer package that contains lithium cells or batteries must be appropriately marked: “PRIMARY LITHIUM BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM METAL BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM ION BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT” or labeled with a “CARGO AIRCRAFT ONLY” label specified in § 172.448 of this subchapter.
+(iii) Except when lithium cells or batteries are packed with or contained in equipment in quantities not exceeding 5 kg net weight, the outer package that contains lithium cells or batteries must be appropriately marked: “PRIMARY LITHIUM BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM METAL BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM ION BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or “LITHIUM BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or labeled with a “CARGO AIRCRAFT ONLY” label as specified in § 172.448 of this subchapter.
 
-(iv) For transportation by highway or rail only, the lithium content of the cell and battery may be increased to 5 g for a lithium metal cell or 25 g for a lithium metal battery and 60 Wh for a lithium ion cell or 300 Wh for a lithium ion battery, provided the outer package is marked: “LITHIUM BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD AIRCRAFT AND VESSEL.”
+(iv) For transportation by highway or rail only, the lithium content of the cell and battery may be increased to 5 g for a lithium metal cell or 25 g for a lithium metal battery and 60 Wh for a lithium ion cell or 300 Wh for a lithium ion battery, provided the outer package is marked: “LITHIUM BATTERIES - FORBIDDEN FOR TRANSPORT ABOARD AIRCRAFT AND VESSEL.” A package marked in accordance with this paragraph does not need to display the marking required in paragraph (c)(1)(iii) of this section.
 
 (v) The marking specified in paragraphs (c)(1)(iii) and (iv) of this section must have a background of contrasting color, and the letters in the marking must be:
 
@@ -122,7 +122,9 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (B) At least 12 mm (0.5 inch) in height on packages having a gross weight of more than 30 kg (66 pounds).
 
-(vi) Except when lithium cells or batteries are packed with, or contained in, equipment, each package must not exceed 30 kg (66 pounds) gross weight.
+(vi) When a package marked or labeled in accordance with paragraph (c)(1)(iii) or (iv) of this section is placed in an overpack, the selected marking or label must either be clearly visible through the overpack, or the marking or label must also be affixed on the outside of the overpack.
+
+(vii) Except when lithium cells or batteries are packed with, or contained in, equipment, each package must not exceed 30 kg (66 pounds) gross weight.
 
 (2) *Packaging.* Lithium cells and batteries must be packed in inner packagings that completely enclose the cell or battery then placed in a strong rigid outer package unless the cell or battery is contained in equipment and is afforded equivalent protection by the equipment in which it is contained. Except when lithium cells or batteries are contained in equipment, each package of lithium cells or batteries, or the completed package when packed with equipment, must be capable of withstanding a 1.2 meter drop test, in any orientation, without damage to the cells or batteries contained in the package, without shifting of the contents that would allow battery-to-battery (or cell-to-cell) contact, and without release of the contents of the package.
 
@@ -144,7 +146,7 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (iii) When packages are placed in an overpack, the lithium battery mark shall either be clearly visible through the overpack or be reproduced on the outside of the overpack and the overpack shall be marked with the word “OVERPACK”. The lettering of the “OVERPACK” mark shall be at least 12 mm (0.47 inches) high.
 
-(4) *Air transportation.* (i) For transportation by aircraft, lithium cells and batteries may not exceed the limits in the following Table 1 to paragraph (c)(4)(i). The limits on the maximum number of batteries and maximum net quantity of batteries in the following table may not be combined in the same package:
+(4) *Air transportation.* (i) For transportation by aircraft, lithium cells and batteries may not exceed the limits in the following Table 1 to paragraph (c)(4)(i). The limits on the maximum number of batteries and maximum net quantity of batteries in the following table may not be combined in the same package. The limits in the following table do not apply to lithium cells and batteries packed with, or contained in, equipment.
 
 Table 1 to Paragraph (c)(4)(i)
 
@@ -153,19 +155,19 @@ Table 1 to Paragraph (c)(4)(i)
 |Maximum number of cells/batteries per package|                                         No Limit                                          |                                       8 cells                                        |                                    2 batteries                                     |                                   No Limit                                    |                                     8 cells                                      |                                        2 batteries.                                         |
 |   Maximum net quantity (mass) per package   |                                          2.5 kg                                           |                                         n/a                                          |                                        n/a                                         |                                    2.5 kg                                     |                                       n/a                                        |                                            n/a.                                             |
 
-(ii) Not more than one package prepared in accordance with this paragraph (c)(4) may be placed into an overpack. When a package is required to display the “CARGO AIRCRAFT ONLY” label, the paragraph (c)(1)(iii) mark, or the paragraph (c)(3)(i) lithium battery mark and the package is placed in an overpack, the appropriate label or mark must either be clearly visible through the overpack, or the label or mark must also be affixed on the outside of the overpack, and the overpack must be marked with the word “OVERPACK”. The lettering of the “OVERPACK” mark shall be at least 12 mm (0.47 inches) high.
+(ii) Not more than one package prepared in accordance with paragraph (c)(4)(i) of this section may be placed into an overpack.
 
-(iii) A shipper is not permitted to offer for transport more than one package prepared in accordance with the provisions of this paragraph in any single consignment.
+(iii) A shipper is not permitted to offer for transport more than one package prepared in accordance with the provisions of paragraph (c)(4)(i) of this section in any single consignment.
 
 (iv) Each shipment with packages required to display the paragraph (c)(3)(i) lithium battery mark must include an indication on the air waybill of compliance with this paragraph (c)(4) (or the applicable ICAO Technical Instructions Packing Instruction), when an air waybill is used.
 
-(v) Packages and overpacks of lithium batteries prepared in accordance with this paragraph (c)(4) must be offered to the operator separately from cargo which is not subject to the requirements of this subchapter and must not be loaded into a unit load device before being offered to the operator.
+(v) Packages and overpacks of lithium batteries prepared in accordance with paragraph (c)(4)(i) of this section must be offered to the operator separately from cargo which is not subject to the requirements of this subchapter and must not be loaded into a unit load device before being offered to the operator.
 
 (vi) For lithium batteries packed with, or contained in, equipment, the number of batteries in each package is limited to the minimum number required to power the piece of equipment, plus two spare sets, and the total net quantity (mass) of the lithium cells or batteries in the completed package must not exceed 5 kg. A “set” of cells or batteries is the number of individual cells or batteries that are required to power each piece of equipment.
 
 (vii) Each person who prepares a package for transport containing lithium cells or batteries, including cells or batteries packed with, or contained in, equipment in accordance with the conditions and limitations of this paragraph (c)(4), must receive instruction on these conditions and limitations, corresponding to their functions.
 
-(viii) Lithium cells and batteries must not be packed in the same outer packaging with other hazardous materials. Packages prepared in accordance with this paragraph (c)(4) must not be placed into an overpack with packages containing hazardous materials and articles of Class 1 (explosives) other than Division 1.4S, Division 2.1 (flammable gases), Class 3 (flammable liquids), Division 4.1 (flammable solids) or Division 5.1 (oxidizers).
+(viii) Lithium cells and batteries must not be packed in the same outer packaging with other hazardous materials. Packages prepared in accordance with paragraph (c)(4)(i) of this section must not be placed into an overpack with packages containing hazardous materials and articles of Class 1 (explosives) other than Division 1.4S, Division 2.1 (flammable gases), Class 3 (flammable liquids), Division 4.1 (flammable solids), or Division 5.1 (oxidizers).
 
 (5) For transportation by aircraft, a package that exceeds the number or quantity (mass) limits in the table shown in paragraph (c)(4)(i) of this section, the overpack limit described in paragraph (c)(4)(ii) of this section, or the consignment limit described in paragraph (c)(4)(iii) of this section is subject to all applicable requirements of this subchapter, except that a package containing no more than 2.5 kg lithium metal cells or batteries or 10 kg lithium ion cells or batteries is not subject to the UN performance packaging requirements in paragraph (b)(3)(ii) of this section when the package displays both the lithium battery mark in paragraph (c)(3)(i) and the Class 9 Lithium Battery label specified in § 172.447 of this subchapter. This paragraph does not apply to batteries or cells packed with or contained in equipment.
 
@@ -235,4 +237,4 @@ Table 1 to Paragraph (c)(4)(i)
 
 (h) *Approval.* A lithium cell or battery that does not conform to the provisions of this subchapter may be transported only under conditions approved by the Associate Administrator.
 
-[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020; 87 FR 44993, July 26, 2022]
+[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020; 87 FR 44993, July 26, 2022; 87 FR 78010, Dec. 21, 2022]

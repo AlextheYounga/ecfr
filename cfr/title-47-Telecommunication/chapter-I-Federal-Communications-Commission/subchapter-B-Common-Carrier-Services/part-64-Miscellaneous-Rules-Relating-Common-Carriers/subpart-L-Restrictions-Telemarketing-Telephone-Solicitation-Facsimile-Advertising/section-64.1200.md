@@ -1,6 +1,6 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendment published at 86 FR 17735, Apr. 6, 2021.
+Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendment published at 86 FR 17735, Apr. 6, 2021.Link to an amendment published at 88 FR 3668, Jan. 20, 2023.Link to an amendment published at 88 FR 3677, Jan. 20, 2023.
 
 (a) No person or entity may:
 
@@ -28,11 +28,11 @@ Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendmen
 
 (v) Delivers a “health care” message made by, or on behalf of, a “covered entity” or its “business associate,” as those terms are defined in the HIPAA Privacy Rule, 45 CFR 160.103.
 
-(4) Use a telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine, unless -
+(4) Use a telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine, unless—
 
 (i) The unsolicited advertisement is from a sender with an established business relationship, as defined in paragraph (f)(6) of this section, with the recipient; and
 
-(ii) The sender obtained the number of the telephone facsimile machine through -
+(ii) The sender obtained the number of the telephone facsimile machine through—
 
 (A) The voluntary communication of such number by the recipient directly to the sender, within the context of such established business relationship; or
 
@@ -40,7 +40,7 @@ Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendmen
 
 (C) This clause shall not apply in the case of an unsolicited advertisement that is sent based on an established business relationship with the recipient that was in existence before July 9, 2005 if the sender also possessed the facsimile machine number of the recipient before July 9, 2005. There shall be a rebuttable presumption that if a valid established business relationship was formed prior to July 9, 2005, the sender possessed the facsimile number prior to such date as well; and
 
-(iii) The advertisement contains a notice that informs the recipient of the ability and means to avoid future unsolicited advertisements. A notice contained in an advertisement complies with the requirements under this paragraph only if -
+(iii) The advertisement contains a notice that informs the recipient of the ability and means to avoid future unsolicited advertisements. A notice contained in an advertisement complies with the requirements under this paragraph only if—
 
 (A) The notice is clear and conspicuous and on the first page of the advertisement;
 
@@ -48,7 +48,7 @@ Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendmen
 
 (C) The notice sets forth the requirements for an opt-out request under paragraph (a)(4)(v) of this section;
 
-(D) The notice includes -
+(D) The notice includes—
 
 (*1*) A domestic contact telephone number and facsimile machine number for the recipient to transmit such a request to the sender; and
 
@@ -56,7 +56,7 @@ Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendmen
 
 (E) The telephone and facsimile numbers and cost-free mechanism identified in the notice must permit an individual or business to make an opt-out request 24 hours a day, 7 days a week.
 
-(iv) A request not to send future unsolicited advertisements to a telephone facsimile machine complies with the requirements under this subparagraph only if -
+(iv) A request not to send future unsolicited advertisements to a telephone facsimile machine complies with the requirements under this subparagraph only if—
 
 (A) The request identifies the telephone number or numbers of the telephone facsimile machine or machines to which the request relates;
 
@@ -402,4 +402,4 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (4) Valid North American Numbering Plan numbers that are allocated to a provider by the North American Numbering Plan Administrator, but are unused, so long as the provider blocking the calls is the allocatee of the number and confirms that the number is unused or has obtained verification from the allocatee that the number is unused at the time of blocking.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021; 86 FR 11447, Feb. 25, 2021; 86 FR 17734,17735, Apr. 6, 2021; 86 FR 74375, Dec. 30, 2021; 87 FR 7044, Feb. 8, 2022; 87 FR 42496, July 18, 2022; 87 FR 51921, Aug. 24, 2022; 87 FR 69207, Nov. 18, 2022]Editorial Note:At 87 FR 42496, July 18, 2022, § 64.1200 was amended by adding paragraph (o), however, this amendment was delayed indefinitely.
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021; 86 FR 11447, Feb. 25, 2021; 86 FR 17734,17735, Apr. 6, 2021; 86 FR 74375, Dec. 30, 2021; 87 FR 7044, Feb. 8, 2022; 87 FR 42944, July 18, 2022; 87 FR 51921, Aug. 24, 2022; 87 FR 69207, Nov. 18, 2022]Editorial Note:At 87 FR 42944, July 18, 2022, § 64.1200 was amended by adding paragraph (o), however, this amendment was delayed indefinitely.

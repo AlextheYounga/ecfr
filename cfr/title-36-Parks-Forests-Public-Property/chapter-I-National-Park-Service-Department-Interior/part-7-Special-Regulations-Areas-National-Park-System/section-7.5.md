@@ -1,5 +1,7 @@
 ##### § 7.5 Mount Rainier National Park. #####
 
+Link to an amendment published at 88 FR 3664, Jan. 20, 2023.
+
 (a) *Fishing.* (1) The following waters are closed to fishing:
 
 (i) Tipsoo Lake.
