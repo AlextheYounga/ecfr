@@ -58,7 +58,15 @@
 
 (4) Any encryption item controlled under ECCN 5E002 is not exported or reexported to any destination listed in Country Group E:1 of supplement no. 1 of this part.
 
-(h) *Special provisions: personal protective equipment classified under ECCN 1A613.c or .d* - (1)
+(h) *Special provisions: personal protective equipment classified under ECCN 1A613.c or .d* - (1) *Exports, reexports, or in-country transfers to countries not identified in Country Group D:5.* U.S. persons may export, reexport, or transfer (in-country) one set of body armor classified under ECCN 1A613.d (which may include one helmet classified under ECCN 1A613.c) or one set of chemical or biological agent protective gear classified under ECCN 1A607.f (which may include one additional filter canister classified under ECCN 1A607.x) to countries not identified in Country Group D:5, provided that:
+
+(i) The items are with the U.S. person's baggage or effects, whether accompanied or unaccompanied (but not mailed); *and*
+
+(ii) The items are for that person's exclusive use and not for transfer of ownership unless reexported or transferred (in-country) to another U.S. person.
+
+(2) *Exports, reexports, or in-country transfers to countries identified in Country Group D:5* - (i) *Iraq.* U.S. persons may export, reexport, or transfer (in-country) one set of body armor classified under ECCN 1A613.d (which may include one helmet classified under ECCN 1A613.c) or one set of chemical or biological agent protective gear classified under ECCN 1A607.f (which may include one additional filter canister classified under ECCN 1A607.x) to Iraq, for personal use, provided that the requirements in paragraph (h)(1) of this section are met. In addition, the U.S. person must be affiliated with the U.S. Government and traveling on official business or traveling in support of a U.S. Government contract, or the U.S. person must be traveling to Iraq under a direct authorization by the Government of Iraq and engaging in activities for, on behalf of, or at the request of, the Government of Iraq. Documentation regarding direct authorization from the Government of Iraq shall include an English translation.
+
+(ii) *Other countries in Country Group D:5.* U.S. persons may export, reexport, or transfer (in-country) one set of body armor classified under ECCN 1A613.d (which may include one helmet classified under ECCN 1A613.c) or one set of chemical or biological agent protective gear classified under ECCN 1A607.f (which may include one additional filter canister classified under ECCN 1A607.x) to countries in Country Group D:5 (except Iraq), for personal use, provided that the requirements in paragraph (h)(1) of this section are met, and the U.S. person is affiliated with the U.S. Government traveling on official business or is traveling in support of a U.S. Government contract.
 
 Note to paragraph (h):
 
