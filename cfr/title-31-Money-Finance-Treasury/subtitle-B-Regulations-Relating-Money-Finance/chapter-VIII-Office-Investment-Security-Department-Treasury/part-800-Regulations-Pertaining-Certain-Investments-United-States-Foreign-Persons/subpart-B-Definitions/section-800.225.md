@@ -1,3 +1,3 @@
-##### § 800.225 United States. #####
+##### § 800.225 Hold. #####
 
-The term *United States* or *U.S.* means the United States of America, the States of the United States, the District of Columbia, and any commonwealth, territory, dependency, or possession of the United States, or any subdivision of the foregoing, and includes the Outer Continental Shelf, as defined in 43 U.S.C. 1331(a). For purposes of these regulations and their examples, an entity organized under the laws of the United States of America, one of the States, the District of Columbia, or a commonwealth, territory, dependency, or possession of the United States is an entity organized “in the United States.”
+The terms *hold(s)* and *holding* mean legal or beneficial ownership, whether direct or indirect, whether through fiduciaries, agents, or other means.

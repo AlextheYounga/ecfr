@@ -1,5 +1,7 @@
 ##### § 100.1307 Special Local Regulations, Strait Thunder Performance, Port Angeles, WA. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Regulated Areas.* (1) The *race area* encompasses all waters located inside of a line connecting the following points located near Port Angeles, Washington:
 
 Point 1: 48°07′24″ N, 123°25′32″ W;Point 2: 48°07′26″ N, 123°24′35″ W;Point 3: 48°07′12″ N, 123°25′31″ W;Point 4: 48°07′15″ N, 123°24′34″ W.[Datum: NAD 1983].

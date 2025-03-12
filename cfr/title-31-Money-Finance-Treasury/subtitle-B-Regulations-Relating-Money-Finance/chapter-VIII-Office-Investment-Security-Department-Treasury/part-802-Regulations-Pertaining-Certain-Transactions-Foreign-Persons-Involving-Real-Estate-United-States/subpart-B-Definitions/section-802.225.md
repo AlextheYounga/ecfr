@@ -1,0 +1,3 @@
+##### § 802.225 Lead agency. #####
+
+The term *lead agency* means the Department of the Treasury and any other agency designated by the Chairperson of the Committee to have primary responsibility, on behalf of the Committee, for the specific activity for which the Chairperson designates it as a lead agency, including all or a portion of an assessment, a review, an investigation, or the negotiation or monitoring of a mitigation agreement or condition.

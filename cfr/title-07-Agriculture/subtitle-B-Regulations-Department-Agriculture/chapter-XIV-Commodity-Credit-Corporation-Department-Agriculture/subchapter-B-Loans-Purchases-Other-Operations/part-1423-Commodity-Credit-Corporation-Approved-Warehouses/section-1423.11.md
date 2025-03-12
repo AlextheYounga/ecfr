@@ -16,10 +16,6 @@
 
 (1) BMAS during such week is defined as any cotton bales that have been delivered or are scheduled and ready for delivery but not picked up during such week;
 
-(i) Have been delivered, or are scheduled and ready for delivery during such week; and
-
-(ii) Were scheduled and ready for delivery in a previous week, but were not picked up by the shipper and remain available for immediate loading and another shipping date has not been established, or such bales are not subject to a restocking fee as provided in the warehouse operator's public tariff. Bales that have been available for delivery but not picked up may be counted as BMAS for no longer than the first two weeks that such bales have been made available for delivery but not yet picked up by the shipper.
-
 (2) Active shipping orders, by week; and
 
 (3) Applicable storage capacity that is the higher of CCC approved capacity or the maximum number of bales stored at any time during the applicable crop year.

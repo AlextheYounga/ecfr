@@ -1,8 +1,8 @@
 ##### § 100.801 Annual Marine Events in the Eighth Coast Guard District. #####
 
-Link to an amendment published at 85 FR 2030, Jan. 14, 2020.
+Link to an amendment published at 85 FR 8172, Feb. 13, 2020.
 
-The following regulations apply to the marine events listed in Table 1 of this section. These regulations will be effective annually, for the duration of each event listed in Table 1. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will also be published in local notices to mariners. *Sponsors of events listed in Table 1 of this section must submit an application each year in accordance with 33 CFR 100.15.*
+The regulations in this section apply to the marine events listed in Tables 1 through 7 of this section. These regulations will be effective annually, for the duration of each event listed in Tables 1 through 7. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will also be published in local notices to mariners. Sponsors of events listed in Tables 1 through 7 of this section must submit an application each year in accordance with § 100.15.
 
 (a) The Coast Guard may patrol the event area under the direction of a designated Coast Guard Patrol Commander. The Patrol Commander may be contacted on Channel 16 VHF-FM (156.8 MHz) by the call sign “PATCOM.”
 
@@ -14,15 +14,15 @@ The following regulations apply to the marine events listed in Table 1 of this s
 
 (e) The Patrol Commander may forbid and control the movement of all vessels in the regulated area. When hailed or signaled by an official patrol vessel, a vessel shall come to an immediate stop and comply with the directions given. Failure to do so may result in expulsion from the area, citation for failure to comply, or both.
 
-(f) Any spectator vessel may anchor outside the regulated area specified in Table 1 of this section, but may not anchor in, block, or loiter in a navigable channel.
+(f) Any spectator vessel may anchor outside the regulated area specified in Tables 1 through 7 of this section, but may not anchor in, block, or loiter in a navigable channel.
 
 (g) The Patrol Commander may terminate the event or the operation of any vessel at any time it is deemed necessary for the protection of life or property.
 
 (h) The Patrol Commander will terminate enforcement of the special regulations at the conclusion of the event.
 
-(i) In Table 1 to this section, where a regulated area is described by reference to miles of a river, channel or lake, the regulated area includes all waters between the indicated miles as defined by lines drawn perpendicular to shore passing through the indicated points.
+(i) In Tables 1 through 7 to this section, where a regulated area is described by reference to miles of a river, channel or lake, the regulated area includes all waters between the indicated miles as defined by lines drawn perpendicular to shore passing through the indicated points.
 
-(j) In Table 1 to this section, where alternative dates are described (“third or fourth Saturday”), the exact date and times will be advertised by the Coast Guard through Local Notices to Mariners and Broadcast Notices to Mariners.
+(j) In Tables 1 through 7 to this section, where alternative dates are described (“third or fourth Saturday”), the exact date and times will be advertised by the Coast Guard through Local Notices to Mariners and Broadcast Notices to Mariners.
 
 Table 1 to § 100.801 - Sector Ohio Valley Annual and Recurring Marine Events
 
@@ -107,20 +107,20 @@ Table 1 to § 100.801 - Sector Ohio Valley Annual and Recurring Marine Events
 |                               77. 3 days - First weekend in November                               |               Atlanta Rowing Club/Head of the Hooch Rowing Regatta                |  Chattanooga, TN   |                         Tennessee River, Mile 463.0-468.0 (Tennessee).                          |
 |                          78. 1 day - One weekend in November or December                           |                          Charleston Lighted Boat Parade                           |   Charleston, WV   |                         Kanawha River, Mile 54.3-60.3 (West Virginia).                          |
 
-Table 2 of § 100.801 - Sector Upper Mississippi River Annual and Recurring Marine Events
+Table 2 of § 100.801 - Sector Upper Mississippi River Annual And Recurring Marine Events
 
-|                    Date                     |                                 Event/sponsor                                  |Upper Mississippi River location|                        Regulated area                         |
-|---------------------------------------------|--------------------------------------------------------------------------------|--------------------------------|---------------------------------------------------------------|
-|      1. 1 day - Third Saturday in May       |Clear Lake Chapter of the ACBS/That was then, This is Now Boat Show & Exhibition|        Quad Cities, IL         |  Upper Mississippi River mile marker 454.0 to 456.0 (Iowa).   |
-|     2. 1 day - Third Saturday in March      |            Lake West Chamber of Commerce/St. Patrick's Water Parade            |     Lake of the Ozarks, MO     |    Lake of the Ozarks mile marker 5.0 to 10.0 (Missouri).     |
-|      3. 1 day - Third Saturday in July      |                             Marine Max/Aqua Plooza                             |     Lake of the Ozarks, MO     |    Lake of the Ozarks Mile marker 18.7 to 19.3 (Missouri).    |
-|      4. 2 days - Third weekend in July      |             Champboat Series LLC/Aquatennial Power Boat Grand Prix             |        Minneapolis, MN         |Upper Mississippi River mile marker 854.8 to 855.8 (Minnesota).|
-|      5. 2 days - Third weekend in June      |                  Lake City Chamber of Commerce/Water Ski Days                  |         Lake City, MN          |Upper Mississippi River mile marker 772.4 to 772.8 (Minnesota).|
-|      6. 2 days - First week of August       |                  River City Days Association/River City Days                   |          Red Wing, MN          |Upper Mississippi River mile marker 791.4 to 791.8 (Minnesota).|
-|   7. 2 days - Second weekend of September   |           St. Louis Drag Boat Association/New Athens Drag Boat Race            |         New Athens, IL         |     Kaskaskia River mile marker 28.0 to 29.0 (Illinois).      |
-|      8. 2 days - Third weekend in July      |                  Havana Chamber of Commerce/Havana Boat Races                  |           Havana, IL           |     Illinois River mile marker 120.3 to 119.7 (Illinois).     |
-|     9. 3 days - Third weekend in August     |          K.C. Aviation Expo & Air Show/K.C. Aviation Expo & Air Show           |        Kansas City, MO         |     Missouri River mile marker 366.3 to 369.8 (Missouri).     |
-|10. 3 days a week from May 4th-September 30th|             Twin City River Rats Organization/Twin City River Rats             |        Twin Cities, MN         |Upper Mississippi River mile marker 855.4 to 855.8 (Minnesota).|
+|                       Date                        |            Event             |                        City, State                         |     Regulated area      |
+|---------------------------------------------------|------------------------------|------------------------------------------------------------|-------------------------|
+|                 Kaskaskia River:                  |                              |                                                            |                         |
+|    1. 2 days - Second or Third Weekend of July    |Evansville, IL Drag Boat Races|                       Evansville, IL                       | Mile markers 11.0-10.0. |
+|                Lake of the Ozarks:                |                              |                                                            |                         |
+| 2. 2 days - The weekend before Labor Day weekend  | Lake of the Ozarks Shootout  |                     Sunrise Beach, MO                      | Mile markers 34.5-32.5. |
+|         3. 1 day - Third Saturday of July         |         Aquapalooza          |                      Osage Beach, MO                       | Mile markers 19.3-18.7. |
+|         4. 1 day - First Saturday of June         |          Lake Race           |                       Lake Ozark, MO                       |  Mile markers 4.0-0.0.  |
+|             Upper Mississippi River:              |                              |                                                            |                         |
+|5. 4 days - Either the first or second week of July|          Riverfest           |                       La Crosse, WI                        |Mile markers 698.5-697.5.|
+|       6. 2 days - Second weekend of August        |       Great River Tug        |                LeClaire, IA/Port Byron, IL                 |Mile markers 497.6-497.2.|
+|        7. 1 day - Third weekend of August         |          Floatzilla          |Bettendorf, IA/Davenport, IA/East Moline, IL/Rock Island, IL|Mile markers 491.0-479.0.|
 
 Table 3 of § 100.801 - Sector Houston-Galveston Annual and Recurring Marine Events
 
@@ -213,4 +213,4 @@ Table 7 of § 100.801 - Sector Mobile Annual and Recurring Marine Events
 |               19. 2 Days; Last weekend in April                |   Moss Point Rockin' the Riverfront Festival/Moss Point Main Street Assoc    |      Robertson Lake & O'Leary Lake, Moss Point, MS       |    Robertson Lake & O'Leary Lake, all waters enclosed by a bounded area starting at a point on the shore at approximately 30°25′11.0″ N, 088°32′24.4″ W, then east to 30°25′12.9″ N, 088°32′18.0″ W, then south to 30°24′50.9″ N, 088°32′09.6″ W, then west following the shore line back to the starting point at 30°25′11.0″ N, 088°32′24.4″ W.    |
 |                20. 1 Day; Last weekend in April                |    Jr. League of Tuscaloosa Dragon Boat Race/Junior League of Tuscaloosa     |           Black Warrior River, Tuscaloosa, AL            |                                                                                                                      Black Warrior River, all waters from river miles 340.5 to 341.0, to include the entire width of the river.                                                                                                                      |
 
-[CGD08-94-019, 60 FR 10314, Feb. 24, 1995, as amended by CGD 08-98-018, 63 FR 70654, Dec. 22, 1998; CGD 08-99-066, 65 FR 46597, July 31, 2000; CGD08-01-012, 67 FR 8195, Feb. 22, 2002; USCG-2006-25556, 72 FR 36327, July 2, 2007; USCG-2008-0386, 74 FR 22675, May 14, 2009; USCG-2013-1061, 79 FR 22387, Apr. 22, 2014; USCG-2018-0064, 83 FR 22196, May 14, 2018; USCG-2019-0014, 84 FR 18729, May 2, 2019]
+[CGD08-94-019, 60 FR 10314, Feb. 24, 1995, as amended by CGD 08-98-018, 63 FR 70654, Dec. 22, 1998; CGD 08-99-066, 65 FR 46597, July 31, 2000; CGD08-01-012, 67 FR 8195, Feb. 22, 2002; USCG-2006-25556, 72 FR 36327, July 2, 2007; USCG-2008-0386, 74 FR 22675, May 14, 2009; USCG-2013-1061, 79 FR 22387, Apr. 22, 2014; USCG-2018-0064, 83 FR 22196, May 14, 2018; USCG-2019-0014, 84 FR 18729, May 2, 2019; USCG-2018-1008, 85 FR 2030, Jan. 14, 2020]

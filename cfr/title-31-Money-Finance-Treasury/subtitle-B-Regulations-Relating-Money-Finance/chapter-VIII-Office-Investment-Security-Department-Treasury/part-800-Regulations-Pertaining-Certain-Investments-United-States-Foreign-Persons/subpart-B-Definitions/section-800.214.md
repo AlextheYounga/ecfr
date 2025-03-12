@@ -1,3 +1,3 @@
-##### § 800.214 Foreign government-controlled transaction. #####
+##### § 800.214 Critical infrastructure. #####
 
-The term *foreign government-controlled transaction* means any covered transaction that could result in control of a U.S. business by a foreign government or a person controlled by or acting on behalf of a foreign government.
+The term *critical infrastructure* means, in the context of a particular covered control transaction, systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems or assets would have a debilitating impact on national security.

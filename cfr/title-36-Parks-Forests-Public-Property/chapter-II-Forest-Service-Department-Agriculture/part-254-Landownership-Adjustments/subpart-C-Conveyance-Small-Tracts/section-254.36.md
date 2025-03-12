@@ -1,6 +1,6 @@
 ##### § 254.36 Determining public interest. #####
 
-(a) The requirements of § 254.35 and of one of § 254.32, § 254.33, or § 254.34 must be met before a determination of public interest can be made.
+(a) All pertinent requirements of this subpart must be met before a determination of public interest is made.
 
 (b) Before a conveyance is made under this subpart, such conveyance must be determined to be in the public interest.
 
@@ -19,3 +19,5 @@
 (6) Existence of structures authorized under a special use permit or easement, and
 
 (7) Applicable Federal, State, and local laws, rules, regulations, and zoning ordinances will not be violated.
+
+[49 FR 1185, Jan. 10, 1984, as amended at 85 FR 8181, Feb. 13, 2020]

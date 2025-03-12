@@ -1,5 +1,7 @@
 ##### § 110.128c Island of Kauai, Hawaii. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Nawiliwili Bay.* The waters of Nawiliwili Bay enclosed by a line beginning at 21°57′12.5″ N. latitude, 159°21′38″ W. longitude; thence to 21°57′26″ N. latitude, 159°21′39.5″ W. longitude; thence along the shoreline to the beginning point. (Datum: OHD)
 
 (b) [Reserved]

@@ -1,5 +1,3 @@
-##### § 800.207 Covered transaction. #####
+##### § 800.207 Contingent equity interest. #####
 
-The term *covered transaction* means any transaction that is proposed or pending after August 23, 1988, by or with any foreign person that could result in foreign control of any U.S. business, including such a transaction carried out through a joint venture
-
-[83 FR 51319, Oct. 11, 2018]
+The term *contingent equity interest* means a financial instrument that currently does not constitute an equity interest but is convertible into, or provides the right to acquire, an equity interest upon the occurrence of a contingency or defined event.

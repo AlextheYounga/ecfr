@@ -1,5 +1,7 @@
 ##### § 165.815 Ohio River at Louisville, KY; regulated navigation area. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) The following is a regulated navigation area: The waters of the Ohio River from the Clark Memorial (Highway) Bridge at Mile 603.5, downstream to McAlpine Dam at Mile 604.4.
 
 (b) The general regulations governing regulated navigation area contained in 33 CFR part 165, subpart B apply.

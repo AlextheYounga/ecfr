@@ -1,5 +1,7 @@
 ##### § 165.T09-0971 Safety zone; overhead cable replacement, Maumee River, Toledo, OH. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Location.* The following area is a temporary safety zone: all U.S. navigable waters of the Maumee River, Toledo, OH, starting from the CSX Railroad Bridge at River Mile Marker 1.07 and ending 700 feet down river from the CSX Railroad Bridge.
 
 (b) *Effective and enforcement period.* This regulation will be enforced from 8:30 a.m. on November 27, 2012 until 6:30 p.m. on December 7, 2012. This regulation will be enforced from 8:30 a.m. until 6:30 p.m. on each day of this period.

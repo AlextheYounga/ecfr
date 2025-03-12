@@ -1,5 +1,7 @@
 ##### § 1.05-1 Delegation of rulemaking authority. #####
 
+Link to an amendment published at 85 FR 8172, Feb. 13, 2020.
+
 (a) The Secretary of Homeland Security is empowered by various statutes to issue regulations regarding the functions, powers and duties of the Coast Guard.
 
 (b) The Secretary of Homeland Security has delegated much of this authority to the Commandant, U.S. Coast Guard, including authority to issue regulations regarding the functions of the Coast Guard and the authority to redelegate and authorize successive redelegations of that authority within the Coast Guard.

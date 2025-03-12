@@ -1,5 +1,7 @@
 ##### § 110.232 Southeast Alaska. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *The anchorage grounds* - (1) *Hassler Harbor - explosives anchorage.* The waters of Hassler Harbor within a circular area with a radius of 1,500 yards, having its center at latitude 55°12′52″ N., longitude 131°25′52″ W.
 
 (b) *The regulations.* (1) Except in an emergency, only a vessel that is transporting, loading or discharging explosives may anchor, moor, or remain within the Hassler Harbor explosives anchorage.

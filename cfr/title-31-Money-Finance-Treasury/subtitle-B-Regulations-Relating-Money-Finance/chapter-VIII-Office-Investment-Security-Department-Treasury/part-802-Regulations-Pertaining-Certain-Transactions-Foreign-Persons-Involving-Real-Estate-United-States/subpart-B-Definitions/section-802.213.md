@@ -1,0 +1,3 @@
+##### § 802.213 Entity. #####
+
+The term *entity* means any branch, partnership, group or sub-group, association, estate, trust, corporation or division of a corporation, or organization (whether or not organized under the laws of any State or foreign state); assets (whether or not organized as a separate legal entity) operated by any one of the foregoing as a business undertaking in a particular location or for particular products or services; and any government (including a foreign national or subnational government, the U.S. Government, a subnational government within the United States, and any of their respective departments, agencies, or instrumentalities).

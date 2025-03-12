@@ -1,5 +1,7 @@
 ##### § 165.809 Security Zones; Port of Port Lavaca-Point Comfort, Point Comfort, TX and Port of Corpus Christi Inner Harbor, Corpus Christi, TX. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Location.* The following area is designated as a security zone: all waters of the Corpus Christi Inner Harbor from the Inner Harbor Bridge (U.S. Hwy 181) to, and including the Viola Turning Basin.
 
 (b) *Regulations.* (1) No recreational vessels, passenger vessels, or commercial fishing vessels may enter the security zone unless specifically authorized by the Captain of the Port Corpus Christi or a designated representative.

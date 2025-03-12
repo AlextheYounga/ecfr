@@ -1,4 +1,4 @@
-##### § 254.32 Encroachments. #####
+##### § 254.32 Encroachments and other improvements. #####
 
 (a) Conveyances under this subpart are limited to tracts of 10 acres or less to resolve encroachments by persons:
 
@@ -17,3 +17,7 @@
 (4) Degree of development in the encroached upon area, and
 
 (5) Creation of an uneconomic remnant.
+
+(c) This subpart also allows conveyance of parcels that are used as a cemetery (including a parcel of not more than one acre adjacent to the parcel used as a cemetery), a landfill, or a sewage treatment plant under a special use authorization issued or otherwise authorized by a Forest Service official.
+
+[49 FR 1185, Jan. 10, 1984, as amended at 85 FR 8181, Feb. 13, 2020]

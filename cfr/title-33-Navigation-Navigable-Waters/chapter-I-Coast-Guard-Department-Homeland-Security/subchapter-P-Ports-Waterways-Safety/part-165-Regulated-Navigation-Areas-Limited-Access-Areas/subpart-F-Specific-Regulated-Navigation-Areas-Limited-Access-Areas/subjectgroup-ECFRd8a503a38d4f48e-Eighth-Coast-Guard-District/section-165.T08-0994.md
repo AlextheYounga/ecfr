@@ -1,5 +1,7 @@
 ##### § 165.T08-0994 Security Zone; Mississippi River, New Orleans, LA. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Location.* Lower Mississippi River, from mile marker 90.0 to mile marker 106.0 above head of passes, extending 100 yards in all directions of escorted vessels.
 
 (b) *Effective date.* This rule is effective in the Federal Register on February 10, 2014 and effective with actual notice for purposes of enforcement on December 31, 2013 through April 14, 2014.

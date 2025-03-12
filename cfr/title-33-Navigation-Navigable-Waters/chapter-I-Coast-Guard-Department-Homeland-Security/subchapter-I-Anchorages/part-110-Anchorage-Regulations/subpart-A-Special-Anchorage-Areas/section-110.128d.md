@@ -1,5 +1,7 @@
 ##### § 110.128d Island of Oahu, Hawaii. (Datum: OHD) #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Kaneohe Bay* (1). The waters of Kaneohe Bay enclosed by a line beginning at 21°26′28″ N. latitude, 157°46′00″ W. longitude; thence to 21°26′00″ N. latitude, 157°46′14″ W. longitude; thence to 21°26′20″ N. latitude, 157°47′24″ W. longitude; thence to 21°27′00″ N. latitude, 157°48′25″ W. longitude; thence to 21°26′46″ N. latitude, 157°48′37″ W. longitude; thence along the shoreline to the beginning point.
 
 (b) *Kaneohe Bay* (2). The waters of Kaneohe Bay enclosed by a line beginning at 21°27′28″ N. latitude, 157°49′08″ W. longitude; thence to 21°28′10″ N. latitude, 157°50′03″ W. longitude; thence to 21°29′10″ N. latitude, 157°50′40″ W. longitude; thence to 21°30′46″ N. latitude, 157°50′14″ W. longitude; thence along the shoreline to the beginning point.

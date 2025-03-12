@@ -1,7 +1,5 @@
 ##### § 801.302 Transactions that are pilot program covered transactions. #####
 
-Link to an amendment published at 85 FR 3156, Jan. 17, 2020.
-
 Transactions that are pilot program covered transactions include, without limitation:
 
 (a) A transaction that meets the requirements of § 801.209, irrespective of the percentage of voting interest acquired.
@@ -12,10 +10,10 @@ Example 1.Corporation A, a foreign person, proposes to acquire a four percent, n
 
 Example.The Committee concludes all action under section 721 with respect to a pilot program covered investment by Corporation A, a foreign person, in which Corporation A acquires a four percent, non-controlling equity interest with board observer rights in Corporation B, a pilot program U.S. business. One year later, Corporation A proposes to acquire an additional five percent equity interest in Corporation B, resulting in Corporation A holding a nine percent, non-controlling equity interest in Corporation B. Pursuant to the terms of the additional investment, Corporation A will be provided access to material nonpublic technical information in the possession of Corporation B to which Corporation A did not previously have access. The proposed transaction is a pilot program covered investment and therefore a pilot program covered transaction because the transaction involves both an acquisition of an equity interest in a pilot program U.S. business and a new right to access material nonpublic technical information.
 
-(c) A transaction that meets the requirements of § 801.209, irrespective of the fact that the critical technology produced, designed, tested, manufactured, fabricated, or developed by the pilot program U.S. business became controlled pursuant to section 1758 of the Export Control Reform Act of 2018 after the pilot program effective date, unless any of the criteria set forth in paragraphs (b)(2)(i) through (b)(2)(iii) of § 801.103 is satisfied with respect to the transaction prior to the critical technology becoming controlled pursuant to section 1758 of the Export Control Reform Act of 2018.
+(c) A transaction that meets the requirements of § 801.209, irrespective of the fact that the critical technology produced, designed, tested, manufactured, fabricated, or developed by the pilot program U.S. business became controlled pursuant to section 1758 of the Export Control Reform Act of 2018 after the pilot program effective date, unless any of the criteria set forth in paragraphs (b) through (d) of § 801.103 is satisfied with respect to the transaction prior to the critical technology becoming controlled pursuant to section 1758 of the Export Control Reform Act of 2018.
 
 Example.Corporation A, a foreign person, has executed a written agreement establishing the material terms of a proposed non-controlling investment in Corporation B, a pilot program U.S. business. The proposed investment will afford Corporation A access to material nonpublic technical information in the possession of Corporation B. The only controlled technology produced, designed, tested, manufactured, fabricated, or developed by Corporation B became controlled pursuant to section 1758 of the Export Control Reform Act of 2018 after the pilot program effective date but prior to the date upon which the written agreement establishing the material terms of the investment was executed. The proposed transaction is a pilot program covered investment and therefore a pilot program covered transaction.
 
 (d) A transaction by or with any foreign person that could result in foreign control of any pilot program U.S. business.
 
-Example.Corporation A, a foreign person, acquires a 40 percent interest and the ability to determine important matters with respect to Corporation B, a U.S. pilot program business. The proposed transaction is a pilot program covered transaction.
+Example.Corporation A, a foreign person, acquires a 40 percent interest and the ability to determine important matters with respect to Corporation B, a U.S. pilot program business. The proposed transaction is a pilot program covered transaction.[83 FR 51327, Oct. 11, 2018, as amended at 85 FR 3156, Jan. 17, 2020]

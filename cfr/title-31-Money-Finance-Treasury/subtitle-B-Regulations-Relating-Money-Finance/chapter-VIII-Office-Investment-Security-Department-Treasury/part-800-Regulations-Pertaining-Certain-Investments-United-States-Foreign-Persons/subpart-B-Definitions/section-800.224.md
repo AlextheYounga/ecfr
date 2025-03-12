@@ -1,27 +1,23 @@
-##### § 800.224 Transaction. #####
+##### § 800.224 Foreign person. #####
 
-The term *transaction* means:
+(a) The term *foreign person* means:
 
-(a) A proposed or completed merger, acquisition, or takeover, including without limitation:
+(1) Any foreign national, foreign government, or foreign entity; or
 
-(1) The acquisition of an ownership interest in an entity;
+(2) Any entity over which control is exercised or exercisable by a foreign national, foreign government, or foreign entity.
 
-(2) The acquisition or conversion of convertible voting instruments of an entity;
+(b) Any entity over which control is exercised or exercisable by a foreign person is a foreign person.
 
-(3) The acquisition of proxies from holders of a voting interest in an entity;
+(c) Examples:
 
-(4) A merger or consolidation;
+(1) *Example 1.* Corporation A is organized under the laws of a foreign state and is engaged in business only outside the United States. All of its shares are held by Corporation X, which solely controls Corporation A. Corporation X is organized in the United States and is wholly owned and controlled by U.S. nationals. Assuming no other relevant facts, Corporation A, although organized and operating only outside the United States, is not a foreign entity due to § 800.220(b) and is not a foreign person.
 
-(5) The formation of a joint venture; and
+(2) *Example 2.* Same facts as the first sentence of the example in paragraph (c)(1) of this section. The government of the foreign state under whose laws Corporation A is organized exercises control over Corporation A because a law establishing Corporation A gives the foreign state the right to appoint Corporation A's board members. Corporation A is a foreign person.
 
-(6) A long-term lease under which a lessee makes substantially all business decisions concerning the operation of a leased entity, as if it were the owner;
+(3) *Example 3.* Corporation A is organized in the United States, is engaged in interstate commerce in the United States, and is controlled by Corporation X. Corporation X is organized under the laws of a foreign state, its principal place of business is located outside the United States, and 50 percent of its shares are held by foreign nationals and 50 percent of its shares are held by U.S. nationals. Both Corporation A and Corporation X are foreign persons. Corporation A is also a U.S. business.
 
-(b) Any change in rights that a person has with respect to an entity in which that person has an investment; and
+(4) *Example 4.* Corporation A is organized under the laws of a foreign state and is owned and controlled by a foreign national. A branch of Corporation A engages in interstate commerce in the United States. Corporation A (including its branch) is a foreign person. The branch is also a U.S. business.
 
-(c) Any other transaction, transfer, agreement, or arrangement, the structure of which is designed or intended to evade or circumvent the application of section 721.
+(5) *Example 5.* Corporation A is organized under the laws of a foreign state and its principal place of business is located outside the United States. Forty-five percent of the equity interest in Corporation A is owned in equal shares by numerous unrelated foreign investors, none of whom has control. The foreign investors have no formal or informal arrangement with any other holder of equity interest in Corporation A to act in concert regarding Corporation A. Corporation A can demonstrate that the remainder of the equity interest in Corporation A is ultimately held by U.S. nationals. Assuming no other relevant facts, Corporation A is not a foreign entity or foreign person.
 
-Example.Corporation A, a foreign person, signs a concession agreement to operate the toll road business of Corporation B, a U.S. business, for 99 years. Corporation B, however, is required under the agreement to perform safety and security functions with respect to the business and to monitor compliance by Corporation A with the operating requirements of the agreement on an ongoing basis. Corporation B may terminate the agreement or impose other penalties for breach of these operating requirements. Assuming no other relevant facts, this is not a transaction.Note to § 800.224:
-
-See § 800.304 regarding factors the Committee will consider in determining whether to include the rights to be acquired by a foreign person upon the conversion of convertible voting instruments as part of the Committee's assessment of whether a transaction that involves such instruments is a covered transaction.
-
-[83 FR 51320, Oct. 11, 2018]
+(6) *Example 6.* Same facts as the example in paragraph (c)(5) of this section, except that one of the foreign investors, a foreign national, controls Corporation A. Assuming no other relevant facts, Corporation A is not a foreign entity due to § 800.220(b), but it is a foreign person under paragraph (a)(2) of this section because it is controlled by a foreign national.

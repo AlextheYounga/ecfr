@@ -1,17 +1,19 @@
 ##### § 801.103 Applicability rule. #####
 
-Link to an amendment published at 85 FR 3155, Jan. 17, 2020.
+The regulations in this part apply to any pilot program covered transaction for which the following occurred on or after November 10, 2018, and prior to February 13, 2020:
 
-(a) Except as provided in paragraph (b) of this section and otherwise in this part, the regulations in this part apply from the pilot program effective date.
+(a) The completion date, unless any of the following occurred before October 11, 2018:
 
-(b) The regulations in this part do not apply to any transaction for which:
+(1) The parties to the transaction executed a binding written agreement or other document establishing the material terms of the transaction;
 
-(1) The completion date is prior to the pilot program effective date; or
+(2) A party made a public offer to shareholders to buy shares of the pilot program U.S. business that is the subject of the transaction; or
 
-(2) The following has occurred before October 11, 2018:
+(3) A shareholder solicited proxies in connection with an election of the board of directors of the pilot program U.S. business that is the subject of the transaction;
 
-(i) The parties to the transaction have executed a binding written agreement or other document establishing the material terms of the transaction;
+(b) The parties to the transaction executed a binding written agreement or other document establishing the material terms of the transaction;
 
-(ii) A party has made a public offer to shareholders to buy shares of a pilot program U.S. business; or
+(c) A party made a public offer to shareholders to buy shares of the pilot program U.S. business that is the subject of the transaction; or
 
-(iii) A shareholder has solicited proxies in connection with an election of the board of directors of a pilot program U.S. business or has requested the conversion of convertible voting securities.
+(d) A shareholder solicited proxies in connection with an election of the board of directors of the pilot program U.S. business that is the subject of the transaction or has requested the conversion of convertible voting securities thereof.
+
+[85 FR 3155, Jan. 17, 2020]

@@ -1,5 +1,7 @@
 ##### § 165.820 Security Zone; Ohio River Mile, 34.6 to 35.1, Shippingport, Pennsylvania. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Location.* The following area is a security zone: The waters of the Ohio River, extending 200 feet from the shoreline of the left descending bank beginning from mile marker 34.6 and ending at mile marker 35.1.
 
 (b) *Regulations.* (1) Entry into or remaining in this zone is prohibited unless authorized by the Coast Guard Captain of the Port, Pittsburgh.

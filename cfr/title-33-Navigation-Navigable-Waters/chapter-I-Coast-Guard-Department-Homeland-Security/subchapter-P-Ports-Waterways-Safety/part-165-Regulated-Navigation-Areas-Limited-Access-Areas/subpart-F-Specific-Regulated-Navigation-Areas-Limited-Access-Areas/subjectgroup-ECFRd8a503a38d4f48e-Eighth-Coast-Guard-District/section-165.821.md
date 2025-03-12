@@ -1,5 +1,7 @@
 ##### § 165.821 Ohio River at Cincinnati, OH; regulated navigation area. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Location.* The following is a regulated navigation area (RNA) - The waters of the Ohio River between mile 466.0 and mile 473.0.
 
 (b) *Activation.* The restrictions in paragraphs (c) (1) through (4) are in effect from one-half hour before sunset to one-half hour after sunrise when the Cincinnati, Ohio, Ohio River Gauge is at or above the 45 foot level. The Captain of the Port, Louisville, Kentucky will publish a notice in the Local Notice to Mariners and will make announcements by Coast Guard Marine Information Broadcasts whenever the river level measured at the gauge activates or terminates the navigation restrictions in this section.

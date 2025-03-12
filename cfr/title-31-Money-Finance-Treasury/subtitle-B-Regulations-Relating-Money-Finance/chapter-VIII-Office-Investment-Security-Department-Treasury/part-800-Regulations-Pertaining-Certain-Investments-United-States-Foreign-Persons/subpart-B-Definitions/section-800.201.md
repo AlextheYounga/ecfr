@@ -1,3 +1,3 @@
-##### § 800.201 Business day. #####
+##### § 800.201 Aggregated data. #####
 
-The term *business day* means Monday through Friday, except the legal public holidays specified in 5 U.S.C. 6103 or any other day declared to be a holiday by federal statute or executive order.
+The term *aggregated data* means data that have been combined or collected together in summary or other form such that the data cannot be identified with any individual.

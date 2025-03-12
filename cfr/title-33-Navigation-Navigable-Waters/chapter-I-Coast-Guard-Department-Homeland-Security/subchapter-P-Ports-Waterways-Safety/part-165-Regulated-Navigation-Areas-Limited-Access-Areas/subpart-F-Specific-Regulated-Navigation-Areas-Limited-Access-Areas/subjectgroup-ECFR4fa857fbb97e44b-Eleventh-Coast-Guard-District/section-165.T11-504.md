@@ -1,5 +1,7 @@
 ##### § 165.T11-504 Safety zone; Independence Day Fireworks Celebration for the City of Richmond, Richmond Inner Harbor, Richmond, CA. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Location.* This temporary safety zone is established for the navigable waters of Richmond Inner Harbor near Richmond, CA as depicted in National Oceanic and Atmospheric Administration (NOAA) Chart 18649. From 9:30 p.m. until 9:50 p.m. on July 3, 2012, the temporary safety zone will encompass the navigable waters around the fireworks launch site in position 37°54′34″ N, 122°21′17″ W (NAD 83) within a radius of 420 feet.
 
 (b) *Enforcement period.* The zone described in paragraph (a) of this section will be enforced from 9:30 p.m. through 10 p.m. on July 3, 2012. The Captain of the Port San Francisco (COTP) will notify the maritime community of periods during which this zone will be enforced via Broadcast Notice to Mariners in accordance with 33 CFR 165.7.

@@ -1,5 +1,7 @@
 ##### § 165.825 Security Zones; Captain of the Port St. Louis, Missouri. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Location.* The following areas are security zones:
 
 (1) *Fort Calhoun Nuclear Power Station Security Zone, Fort Calhoun, Nebraska* - all waters of the Missouri River, extending 75 feet from the shoreline of the right descending bank beginning from mile marker 645.6 and ending at mile marker 646.0.

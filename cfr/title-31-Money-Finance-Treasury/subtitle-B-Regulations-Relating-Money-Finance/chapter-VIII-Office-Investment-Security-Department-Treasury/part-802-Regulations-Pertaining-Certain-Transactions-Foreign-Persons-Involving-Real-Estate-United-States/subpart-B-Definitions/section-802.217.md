@@ -1,0 +1,3 @@
+##### § 802.217 Extended range. #####
+
+The term *extended range* means, with respect to any military installation identified in § 802.227(h), (k), or (m), as listed in part 2 of appendix A to this part, the area that extends 99 miles outward from the outer boundary of close proximity to such military installation, but, where applicable, not exceeding the outer limit of the territorial sea of the United States.

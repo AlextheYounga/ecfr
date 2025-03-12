@@ -1,5 +1,7 @@
 ##### § 100.1306 National Maritime Week Tugboat Races, Seattle, WA. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Regulated Area.* A regulated area is established on that portion of Elliott Bay along the Seattle waterfront in Puget Sound bounded by a line beginning at: 47°37′36″ N, 122°22′42″ W; thence to 47°37′24.5″ N, 122°22′58.5″ W; thence to 47°36′08″ N, 122°20′53″ W; thence to 47°36′21″ N, 122°20′31″ W; thence returning to the origin. This regulated area resembles a rectangle measuring approximately 3,900 yards along the shoreline between Pier 57 and Pier 89, and extending approximately 650 yards into Elliott Bay. Temporary floating markers will be placed by the race sponsors to delineate the regulated area. [Datum: NAD 1983]
 
 (b) *Special Local Regulations.* (1) No person or vessel may enter or remain in the regulated area except for participants in the event, supporting personnel, vessels registered with the event organizer, and personnel or vessels authorized by the Coast Guard Patrol Commander.

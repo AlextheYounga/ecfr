@@ -1,5 +1,7 @@
 ##### § 165.756 Regulated Navigation Area; Savannah River, Georgia. #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) *Regulated Navigation Area (RNA).* The Savannah River between Fort Jackson (32°04.93′ N, 081°02.19′ W) and the Savannah River Channel Entrance Sea Buoy is a regulated navigation area when an LNG tankship in excess of heel is transiting the area or moored at the LNG facility. All coordinates are North American Datum 1983.
 
 (b) *Definitions.* The following definitions apply to this section:

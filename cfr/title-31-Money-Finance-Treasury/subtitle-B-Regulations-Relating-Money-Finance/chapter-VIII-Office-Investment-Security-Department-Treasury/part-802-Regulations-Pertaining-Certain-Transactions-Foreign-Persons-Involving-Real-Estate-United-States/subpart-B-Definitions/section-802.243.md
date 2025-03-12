@@ -1,0 +1,3 @@
+##### § 802.243 U.S. public entity. #####
+
+The term *U.S. public entity* means the U.S. Government, a subnational government of the United States, or any other body exercising governmental functions of the United States, including air and maritime port authorities. The term includes, but is not limited to, the respective departments, agencies, and instrumentalities of the U.S. Government and the subnational governments of the United States.

@@ -1,3 +1,3 @@
-##### § 800.205 Conversion. #####
+##### § 800.205 Committee; Chairperson of the Committee; Staff Chairperson. #####
 
-The term *conversion* means the exercise of a right inherent in the ownership or holding of particular financial instruments to exchange any such instruments for voting instruments.
+The term *Committee* means the Committee on Foreign Investment in the United States. The *Chairperson of the Committee* is the Secretary of the Treasury. The *Staff Chairperson* of the Committee is the Department of the Treasury official so designated by the Secretary of the Treasury or by the Secretary's designee.

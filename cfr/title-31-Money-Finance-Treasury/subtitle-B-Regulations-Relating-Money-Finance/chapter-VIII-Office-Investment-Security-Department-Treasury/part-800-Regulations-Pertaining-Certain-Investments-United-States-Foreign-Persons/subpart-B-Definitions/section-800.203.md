@@ -1,3 +1,7 @@
-##### § 800.203 Committee; Chairperson of the Committee; Staff Chairperson. #####
+##### § 800.203 Business day. #####
 
-The term *Committee* means the Committee on Foreign Investment in the United States. The *Chairperson of the Committee* is the Secretary of the Treasury. The *Staff Chairperson* of the Committee is the Department of the Treasury official so designated by the Secretary of the Treasury or by the Secretary's designee.
+The term *business day* means Monday through Friday, except the legal public holidays specified in 5 U.S.C. 6103, any day declared to be a holiday by federal statute or executive order, or any day with respect to which the U.S. Office of Personnel Management has announced that Federal agencies in the Washington, DC, area are closed. For purposes of calculating any deadline imposed by this part triggered by the submission of a party to a transaction under § 800.401(g)(2) or § 800.501(i), any submissions received after 5 p.m. Eastern Time are deemed to be submitted on the next business day.
+
+Note 1 to § 800.203:
+
+See § 800.604 regarding the tolling of deadlines during a lapse in appropriations.

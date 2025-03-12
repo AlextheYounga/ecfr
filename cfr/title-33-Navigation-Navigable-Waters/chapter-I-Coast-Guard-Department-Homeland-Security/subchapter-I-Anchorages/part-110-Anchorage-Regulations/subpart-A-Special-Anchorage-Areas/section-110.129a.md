@@ -1,5 +1,7 @@
 ##### § 110.129a Apra Harbor, Guam. (Datum: WGS 84) #####
 
+Link to an amendment published at 85 FR 8173, Feb. 13, 2020.
+
 (a) The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longtitude  |
