@@ -18,4 +18,16 @@
 
 (i) *Submitter* means any person or entity which provides confidential commercial information to the Board. The term includes, but is not limited to, corporations, state governments, and foreign governments.
 
-[55 FR 41052, Oct. 9, 1990, as amended at 79 FR 68094, Nov. 14, 2014]
+(j) *FOIA Public Liaison* means the Board official who is responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes.
+
+(k) *Requestor category* means one of the three categories that agencies place requesters in for the purpose of determining whether a requester will be charged fees for search, review, and/or duplication, including:
+
+(1) Commercial use requestors,
+
+(2) Non-commercial scientific or educational institutions or news media requesters, and
+
+(3) All other requestors.
+
+(l) *Fee waiver* means the waiver or reduction of processing fees if a requester can demonstrate that certain statutory standards are satisfied including that the information is in the public interest and is not requested for a commercial interest.
+
+[55 FR 41052, Oct. 9, 1990, as amended at 79 FR 68094, Nov. 14, 2014; 82 FR 24826, May 31, 2017]

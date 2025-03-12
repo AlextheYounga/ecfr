@@ -88,4 +88,12 @@
 
 (6) Control room team training and exercises that include both controllers and other individuals, defined by the operator, who would reasonably be expected to operationally collaborate with controllers (control room personnel) during normal, abnormal or emergency situations. Operators must comply with the team training requirements under this paragraph no later than January 23, 2018.
 
+(i) *Compliance validation.* Upon request, operators must submit their procedures to PHMSA or, in the case of an intrastate pipeline facility regulated by a State, to the appropriate State agency.
+
+(j) *Compliance and deviations.* An operator must maintain for review during inspection:
+
+(1) Records that demonstrate compliance with the requirements of this section; and
+
+(2) Documentation to demonstrate that any deviation from the procedures required by this section was necessary for the safe operation of the pipeline facility.
+
 [Amdt. 195-93, 74 FR 63329, Dec. 3, 2009, as amended at 75 FR 5537, Feb. 3, 2010; 76 FR 35135, June 16, 2011; Amdt. 195-101, 82 FR 7999, Jan. 23, 2017]

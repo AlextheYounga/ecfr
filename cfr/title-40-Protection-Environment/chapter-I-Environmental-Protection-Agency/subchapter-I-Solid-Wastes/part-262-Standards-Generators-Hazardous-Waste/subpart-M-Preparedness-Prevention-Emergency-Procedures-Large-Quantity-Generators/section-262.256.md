@@ -1,0 +1,13 @@
+##### § 262.256 Arrangements with local authorities. #####
+
+(a) The large quantity generator must attempt to make arrangements with the local police department, fire department, other emergency response teams, emergency response contractors, equipment suppliers, and local hospitals, taking into account the types and quantities of hazardous wastes handled at the facility. Arrangements may be made with the Local Emergency Planning Committee, if it is determined to be the appropriate organization with which to make arrangements.
+
+(1) A large quantity generator attempting to make arrangements with its local fire department must determine the potential need for the services of the local police department, other emergency response teams, emergency response contractors, equipment suppliers and local hospitals.
+
+(2) As part of this coordination, the large quantity generator shall attempt to make arrangements, as necessary, to familiarize the above organizations with the layout of the facility, the properties of the hazardous waste handled at the facility and associated hazards, places where personnel would normally be working, entrances to roads inside the facility, and possible evacuation routes as well as the types of injuries or illnesses which could result from fires, explosions, or releases at the facility.
+
+(3) Where more than one police or fire department might respond to an emergency, the large quantity generator shall attempt to make arrangements designating primary emergency authority to a specific fire or police department, and arrangements with any others to provide support to the primary emergency authority.
+
+(b) The large quantity generator shall maintain records documenting the arrangements with the local fire department as well as any other organization necessary to respond to an emergency. This documentation must include documentation in the operating record that either confirms such arrangements actively exist or, in cases where no arrangements exist, confirms that attempts to make such arrangements were made.
+
+(c) A facility possessing 24-hour response capabilities may seek a waiver from the authority having jurisdiction (AHJ) over the fire code within the facility's state or locality as far as needing to make arrangements with the local fire department as well as any other organization necessary to respond to an emergency, provided that the waiver is documented in the operating record.

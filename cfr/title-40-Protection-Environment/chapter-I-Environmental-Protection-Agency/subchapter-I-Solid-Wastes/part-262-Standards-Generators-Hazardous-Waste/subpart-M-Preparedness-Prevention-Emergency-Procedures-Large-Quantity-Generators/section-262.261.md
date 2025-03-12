@@ -1,0 +1,13 @@
+##### § 262.261 Content of contingency plan. #####
+
+(a) The contingency plan must describe the actions facility personnel must take to comply with §§ 262.260 and 262.265 in response to fires, explosions, or any unplanned sudden or non-sudden release of hazardous waste or hazardous waste constituents to air, soil, or surface water at the facility.
+
+(b) If the generator has already prepared a Spill Prevention, Control, and Countermeasures (SPCC) Plan in accordance with part 112 of this chapter, or some other emergency or contingency plan, it need only amend that plan to incorporate hazardous waste management provisions that are sufficient to comply with the standards of this part. The generator may develop one contingency plan that meets all regulatory standards. EPA recommends that the plan be based on the National Response Team's Integrated Contingency Plan Guidance (“One Plan”).
+
+(c) The plan must describe arrangements agreed to with the local police department, fire department, other emergency response teams, emergency response contractors, equipment suppliers, local hospitals or, if applicable, the Local Emergency Planning Committee, pursuant to § 262.256.
+
+(d) The plan must list names and emergency telephone numbers of all persons qualified to act as emergency coordinator (see § 262.264), and this list must be kept up to date. Where more than one person is listed, one must be named as primary emergency coordinator and others must be listed in the order in which they will assume responsibility as alternates. In situations where the generator facility has an emergency coordinator continuously on duty because it operates 24 hours per day, every day of the year, the plan may list the staffed position (*e.g.,* operations manager, shift coordinator, shift operations supervisor) as well as an emergency telephone number that can be guaranteed to be answered at all times.
+
+(e) The plan must include a list of all emergency equipment at the facility (such as fire extinguishing systems, spill control equipment, communications and alarm systems (internal and external), and decontamination equipment), where this equipment is required. This list must be kept up to date. In addition, the plan must include the location and a physical description of each item on the list, and a brief outline of its capabilities.
+
+(f) The plan must include an evacuation plan for generator personnel where there is a possibility that evacuation could be necessary. This plan must describe signal(s) to be used to begin evacuation, evacuation routes, and alternate evacuation routes (in cases where the primary routes could be blocked by releases of hazardous waste or fires).
