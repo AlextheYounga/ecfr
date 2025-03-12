@@ -1,7 +1,5 @@
 ##### § 1.1104 Schedule of charges for applications and other filings for media services. #####
 
-Table 1 to § 1.1104
-
 |  Full power commercial and class A television stations  |                 |                                                                                          |
 |---------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------|
 |                   Type of application                   |Payment type code|                                        Fee amount                                        |
@@ -19,15 +17,13 @@ Table 1 to § 1.1104
 |  Petition for Rulemaking for New Community of License   |       MRT       |                                     $3,790/petition.                                     |
 | Biennial Ownership Report (Full Power TV Stations Only) |       MAT       |                                       $95/station.                                       |
 
-Table 2 to § 1.1104
-
 |              Commercial AM radio stations               |                 |                   |
 |---------------------------------------------------------|-----------------|-------------------|
 |                   Type of application                   |Payment type code|    Fee amount     |
 |        New or Major Change, Construction Permit         |       MUR       |$4,440/application.|
 |        New or Major Change, Construction Permit         |       MVR       |$5,085/application.|
-|         Minor Modification, Construction Permit         |       MVU       | $720/application. |
-|                       New License                       |       MMR       | $425/application. |
+|         Minor Modification, Construction Permit         |       MVU       |$1,815/application.|
+|                       New License                       |       MMR       | $720/application. |
 |                 AM Directional Antenna                  |       MOR       |$1,405/application.|
 |                     License Renewal                     |       MGR       | $365/application. |
 | License Assignment (2100 Schedule 314 & 159 (long form) |       MPR       |  $1,120/station.  |
@@ -37,8 +33,6 @@ Table 2 to § 1.1104
 |                        Call Sign                        |       MBR       | $190/application. |
 |               Special Temporary Authority               |       MVV       | $325/application. |
 |                Biennial Ownership Report                |       MAR       |   $95/station.    |
-
-Table 3 to § 1.1104
 
 |              Commercial FM radio stations               |                 |                                                                             |
 |---------------------------------------------------------|-----------------|-----------------------------------------------------------------------------|
@@ -58,8 +52,6 @@ Table 3 to § 1.1104
 |  Petition for Rulemaking for New Community of License   |       MRR       |                              $3,550/petition.                               |
 |                Biennial Ownership Report                |       MAR       |                                $95/station.                                 |
 
-Table 4 to § 1.1104
-
 |                                 FM translators                                  |                 |                                                                             |
 |---------------------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------|
 |                               Type of application                               |Payment type code|                                 Fee amount                                  |
@@ -75,14 +67,10 @@ Table 4 to § 1.1104
 |                             FM Booster, New License                             |       MEF       |                              $200/application.                              |
 |                     FM Booster, Special Temporary Authority                     |       MWB       |                              $190/application.                              |
 
-Table 5 to § 1.1104
-
 |                           Section 310 (b)(4) Foreign Ownership Petition                            |                 |                   |
 |----------------------------------------------------------------------------------------------------|-----------------|-------------------|
 |                                        Type of application                                         |Payment type code|    Fee amount     |
 |Foreign Ownership Petition (separate and additional fee required for underlying application, if any)|       MWC       |$2,775/application.|
-
-Table 6 to § 1.1104
 
 |                 TV translators and LPTV stations                  |                 |                                                                             |
 |-------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------|
@@ -95,8 +83,6 @@ Table 6 to § 1.1104
 |License Assignment (2100 Schedule 345 & 159, 314 & 159, 316 & 159) |       MDL       |                                $375/station.                                |
 |Transfer of Control (2100 Schedule 345 & 159, 315 & 159, 316 & 159)|       MDL       |                                $375/station.                                |
 |                             Call Sign                             |       MBT       |                              $190/application.                              |
-
-Table 7 to § 1.1104
 
 |     Cable television and cars license services     |                 |          |
 |----------------------------------------------------|-----------------|----------|
@@ -112,4 +98,4 @@ Table 7 to § 1.1104
 |  Cable TV & CARS License, Registration Statement   |       TAC       |   115    |
 |Cable TV & MVPD, Aeronautical Frequency Notification|       TAB       |   100    |
 
-[88 FR 6171, Jan. 31, 2023]
+[88 FR 6171, Jan. 31, 2023, as amended at 88 FR 29544, May 8, 2023]

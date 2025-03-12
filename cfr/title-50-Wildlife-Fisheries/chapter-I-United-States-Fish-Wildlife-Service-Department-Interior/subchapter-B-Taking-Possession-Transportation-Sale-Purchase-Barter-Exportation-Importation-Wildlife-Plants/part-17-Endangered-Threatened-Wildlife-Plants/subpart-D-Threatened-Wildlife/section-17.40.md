@@ -608,7 +608,7 @@ Native, and
 
 (A) Activities necessary to maintain the minimum clearance (defensible space) requirement from any occupied dwelling, occupied structure, or to the property line, whichever is nearer, to provide reasonable fire safety and to reduce wildfire risks consistent with the State of California fire codes or local fire codes/ordinances.
 
-(B) Fire management actions (*e.g.,* prescribed burns, hazardous fuel reduction activities) on protected/preserve lands to maintain, protect, or enhance habitat occupied by Stephens' kangaroo rat. These activities are to be coordinated with and reported to the Service in writing and approved the first time an individual or agency undertakes them.
+(B) Fire management actions (e.g., prescribed burns, hazardous fuel reduction activities) on protected/preserve lands to maintain, protect, or enhance habitat occupied by Stephens' kangaroo rat. These activities are to be coordinated with and reported to the Service in writing and approved the first time an individual or agency undertakes them.
 
 (C) Maintenance of existing fuel breaks.
 

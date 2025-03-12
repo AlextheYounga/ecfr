@@ -1,11 +1,11 @@
 ##### § 1734.8 Audit requirements. #####
 
-Link to an amendment published at 88 FR 7561, Feb. 6, 2023.
-
 A recipient of financial assistance shall provide RUS with an audit for each year, beginning with the year in which a portion of the financial assistance is expended, in accordance with the following:
 
-(a) If the recipient is a for-profit entity, a Telecommunications or Electric borrower, or any other entity not covered by the following paragraph, the recipient shall provide an independent audit report in accordance with 7 CFR part 1773, “Policy on Audits of RUS Borrowers.”
+(a) If the awardee is a for-profit entity, an electric or telecommunications cooperative, or any other entity not covered by the definition of “non-Federal entity” in 2 CFR 200.1, the awardee shall provide an independent audit report in accordance with 7 CFR part 1773 and the grant agreement.
 
-(b) If the recipient is a state or local government, or non-profit organization, the recipient shall provide an audit in accordance with subpart F of 2 CFR part 200, as adopted by USDA through 2 CFR part 400.
+(b) If the awardee is a non-Federal entity, as defined in 2 CFR 200.1, the awardee shall provide an audit in accordance with subpart F of 2 CFR part 200.
 
-(c) Grantees shall comply with 2 CFR part 200, as adopted by USDA through 2 CFR part 400, and rules on the disposition of grant assets in Part 200 shall be applied regardless of the type of legal organization of the grantee.
+(c) Grant awardees shall comply with 2 CFR part 200, and rules on the disposition of grant assets in part 200 shall be applied regardless of the type of legal organization of the grantee.
+
+[82 FR 55925, Nov. 27, 2017, as amended at 88 FR 7561, Feb. 6, 2023]
