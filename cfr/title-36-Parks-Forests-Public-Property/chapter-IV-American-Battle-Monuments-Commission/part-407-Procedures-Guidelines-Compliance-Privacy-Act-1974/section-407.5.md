@@ -1,0 +1,7 @@
+##### § 407.5 Identification required when requesting access to ABMC records pertaining to an individual. #####
+
+ABMC will require reasonable identification of all individuals who request access to records in an ABMC system to ensure that records are disclosed to the proper person.
+
+(a) The amount of personal identification required will of necessity vary with the sensitivity of the record involved. In general, if you request disclosure in person, you will be required to show an identification card, such as a driver's license, containing your photograph and sample signature. However, with regard to records in ABMC systems that contain particularly sensitive and/or detailed personal information, ABMC reserves the right to require additional means of identification as are appropriate under the circumstances. These means include, but are not limited to, requiring you to sign a statement under oath as to your identity, acknowledging that you are aware of the criminal penalties for requesting or obtaining records under false pretenses or falsifying information (see 5 U.S.C. 552a(i)(3); 18 U.S.C. 1001).
+
+(b) If you request disclosure by mail, ABMC will request such information as may be necessary to ensure that you are properly identified and for a response to be sent. Authorized means to achieve this goal include, but are not limited to, requiring that a mail request include a signed, notarized statement asserting your identity or a statement signed under oath as described in paragraph (a) of this section.

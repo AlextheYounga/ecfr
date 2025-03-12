@@ -1,5 +1,7 @@
 ##### § 390.103 Eligibility requirements for medical examiner certification. #####
 
+Link to an amendment published at 83 FR 26860, June 11, 2018.
+
 (a) To receive medical examiner certification from FMCSA a person must:
 
 (1) Be licensed, certified, or registered in accordance with applicable State laws and regulations to perform physical examinations. The applicant must be an advanced practice nurse, doctor of chiropractic, doctor of medicine, doctor of osteopathy, physician assistant, or other medical professional authorized by applicable State laws and regulations to perform physical examinations.

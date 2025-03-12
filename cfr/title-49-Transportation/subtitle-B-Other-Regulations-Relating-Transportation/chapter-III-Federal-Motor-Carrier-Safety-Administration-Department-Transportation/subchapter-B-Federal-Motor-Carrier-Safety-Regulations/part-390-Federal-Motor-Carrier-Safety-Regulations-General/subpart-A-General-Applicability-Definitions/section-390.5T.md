@@ -1,6 +1,6 @@
 ##### § 390.5T Definitions. #####
 
-Link to an amendment published at 83 FR 16226, Apr. 16, 2018.Link to a correction published at 83 FR 24228, May 25, 2018.Link to an amendment published at 83 FR 22878, May 17, 2018.
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.Link to a correction published at 83 FR 24228, May 25, 2018.Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment published at 83 FR 26860, June 11, 2018.
 
 Unless specifically defined elsewhere, in this subchapter:
 

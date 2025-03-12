@@ -1,5 +1,7 @@
 ##### § 390.113 Reasons for removal from the National Registry of Certified Medical Examiners. #####
 
+Link to an amendment published at 83 FR 26860, June 11, 2018.
+
 FMCSA may remove a medical examiner from the National Registry of Certified Medical Examiners when a medical examiner fails to meet or maintain the qualifications established by this subpart, the requirements of other regulations applicable to the medical examiner, or otherwise does not meet the requirements of 49 U.S.C. 31149. The reasons for removal may include, but are not limited to:
 
 (a) The medical examiner fails to comply with the requirements for continued listing on the National Registry of Certified Medical Examiners, as described in § 390.111.

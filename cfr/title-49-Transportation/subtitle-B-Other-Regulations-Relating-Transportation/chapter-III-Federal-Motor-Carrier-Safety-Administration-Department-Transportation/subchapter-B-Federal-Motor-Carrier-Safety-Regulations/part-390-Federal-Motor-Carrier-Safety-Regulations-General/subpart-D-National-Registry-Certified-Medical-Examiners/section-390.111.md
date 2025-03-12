@@ -1,5 +1,7 @@
 ##### § 390.111 Requirements for continued listing on the National Registry of Certified Medical Examiners. #####
 
+Link to an amendment published at 83 FR 26860, June 11, 2018.
+
 (a) To continue to be listed on the National Registry of Certified Medical Examiners, each medical examiner must:
 
 (1) Continue to meet the requirements of this subpart and the applicable requirements of part 391 of this chapter.

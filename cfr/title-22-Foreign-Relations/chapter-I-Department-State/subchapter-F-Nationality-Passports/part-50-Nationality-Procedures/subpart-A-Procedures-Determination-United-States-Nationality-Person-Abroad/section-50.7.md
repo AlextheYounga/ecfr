@@ -8,4 +8,4 @@
 
 (d) A Consular Report of Birth Abroad may be cancelled in accordance with applicable provisions in 22 CFR 51.60 through 51.74.
 
-[61 FR 43312, Aug. 22, 1996, as amended at 64 FR 19714, Apr. 22, 1999; 83 FR 21874, May 11, 2018]Effective Date Note:At 83 FR 22848, May 17, 2018, § 50.7(d) was stayed until June 10, 2018.
+[61 FR 43312, Aug. 22, 1996, as amended at 64 FR 19714, Apr. 22, 1999; 83 FR 21874, May 11, 2018]

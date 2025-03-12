@@ -1,0 +1,5 @@
+##### § 64.2113 Covered provider point of contact. #####
+
+Covered providers shall make publicly available contact information for the receipt and handling of rural call completion issues. Covered providers must designate a telephone number and email address for the express purpose of receiving and responding to any rural call completion issues. Covered providers shall include this information on their websites, and the required contact information must be easy to find and use. Covered providers shall keep this information current and update it to reflect any changes within ten (10) business days. Covered providers shall ensure that any staff reachable through this contact information has the technical capability to promptly respond to and address rural call completion issues. Covered providers must respond to communications regarding rural call completion issues via the contact information required under this rule as soon as reasonably practicable and, under ordinary circumstances, within a single business day.
+
+[83 FR 21738, May 10, 2018]

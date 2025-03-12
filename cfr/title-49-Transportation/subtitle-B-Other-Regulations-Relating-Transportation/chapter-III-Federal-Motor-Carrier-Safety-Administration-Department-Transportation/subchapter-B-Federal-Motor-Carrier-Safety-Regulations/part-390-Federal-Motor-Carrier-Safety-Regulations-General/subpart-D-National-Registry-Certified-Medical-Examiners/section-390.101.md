@@ -1,3 +1,5 @@
 ##### § 390.101 Scope. #####
 
+Link to an amendment published at 83 FR 26860, June 11, 2018.
+
 The rules in this subpart establish the minimum qualifications for FMCSA certification of a medical examiner and for listing the examiner on FMCSA's National Registry of Certified Medical Examiners. The National Registry of Certified Medical Examiners Program is designed to improve highway safety and operator health by requiring that medical examiners be trained and certified to determine effectively whether an operator meets FMCSA physical qualification standards under part 391 of this chapter. One component of the National Registry Program is the registry itself, which is a national database of names and contact information for medical examiners who are certified by FMCSA to perform medical examinations of operators.

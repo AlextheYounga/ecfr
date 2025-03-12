@@ -1,5 +1,7 @@
 ##### § 391.43 Medical examination; certificate of physical examination. #####
 
+Link to an amendment published at 83 FR 26863, June 11, 2018.
+
 (a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
 
 (b) A licensed optometrist may perform so much of the medical examination as pertains to visual acuity, field of vision, and the ability to recognize colors as specified in paragraph (10) of § 391.41(b).

@@ -26,4 +26,4 @@
 
 (3) Notwithstanding paragraphs (d)(1) and (2) of this section, the Department may issue a limited validity passport for direct return to the United States.
 
-[83 FR 21874, May 11, 2018]Effective Date Note:At 83 FR 22848, May 17, 2018, § 51.62 was stayed until June 10, 2018.
+[83 FR 21874, May 11, 2018]

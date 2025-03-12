@@ -16,4 +16,4 @@
 
 (h) The purpose of the hearing is to provide the person requesting the hearing an opportunity to challenge the basis for the Department's decision to deny or revoke the passport, or cancel the Consular Report of Birth Abroad. The burden of production is on the Department, and the Department shall provide the evidence it relied upon in revoking or denying the passport, or cancelling the Consular Report of Birth Abroad, prior to the hearing. The burden of persuasion is on the person requesting the hearing, to prove by a preponderance of the evidence that the Department improperly revoked the passport or denied the passport application, or cancelled the Consular Report of Birth Abroad, based on the facts and law in effect at the time such action was taken.
 
-[83 FR 21875, May 11, 2018]Effective Date Note:At 83 FR 22848, May 17, 2018, § 51.71 was stayed until June 10, 2018.
+[83 FR 21875, May 11, 2018]

@@ -1,7 +1,5 @@
 ##### § 984.69 Assessments. #####
 
-Link to an amendment published at 83 FR 21843, May 11, 2018.
-
 (a) *Requirement for payment.* Each handler shall pay the Board, on demand, his pro rata share of the expenses authorized by the Secretary for each marketing year. Each handler's pro rata share shall be the rate of assessment per kernelweight pound of walnuts fixed by the Secretary times the kernelweight of merchantable walnuts he has certified. At any time during or after the marketing year the Secretary may increase the assessment rate as necessary to cover authorized expenses and each handler's pro rata share shall be adjusted accordingly.
 
 (b) *Reserve walnut pool expenses.* The Board is authorized temporary use of funds derived from assessments collected pursuant to paragraph (a) of this section to defray expenses incurred in disposing of reserve walnuts pooled. All such expenses shall be deducted from the proceeds obtained by the Board from the sale or other disposal of pooled reserve walnuts.
@@ -22,6 +20,6 @@ Link to an amendment published at 83 FR 21843, May 11, 2018.
 
 (iv) To meet any other such costs recommended by the Board and approved by the Secretary.
 
-(d) *Termination.* Any money collected from assessments hereunder and remaining unexpended in the possession of the Board upon termination of this part shall be distributed in such manner as the Secretary may direct.
+(d) *Advanced assessments and commercial loans.* To provide funds for the administration of the provisions of this part during the part of a fiscal period when neither sufficient operating reserve funds nor sufficient revenue from assessments on the current season's certifications are available, the Board may accept payment of assessments in advance or may borrow money from a commercial lending institution for such purposes.
 
-[27 FR 9094, Sept. 13, 1962, as amended at 41 FR 31544, July 29, 1976; 73 FR 11339, Mar. 3, 2008]
+[27 FR 9094, Sept. 13, 1962, as amended at 41 FR 31544, July 29, 1976; 73 FR 11339, Mar. 3, 2008; 83 FR 21843, June 11, 2018]

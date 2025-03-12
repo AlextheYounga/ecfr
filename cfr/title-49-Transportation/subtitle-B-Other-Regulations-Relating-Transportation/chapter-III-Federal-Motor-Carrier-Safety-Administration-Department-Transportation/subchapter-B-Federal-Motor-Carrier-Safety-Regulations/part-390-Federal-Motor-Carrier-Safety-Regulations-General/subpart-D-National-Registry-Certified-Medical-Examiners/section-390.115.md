@@ -1,6 +1,6 @@
 ##### § 390.115 Procedure for removal from the National Registry of Certified Medical Examiners. #####
 
-Link to an amendment published at 83 FR 22878, May 17, 2018.
+Link to an amendment published at 83 FR 22878, May 17, 2018.Link to an amendment published at 83 FR 26860, June 11, 2018.
 
 (a) *Voluntary removal.* To be voluntarily removed from the National Registry of Certified Medical Examiners, a medical examiner must submit a request to the FMCSA Director, Office of Carrier, Driver and Vehicle Safety Standards. Except as provided in paragraph (b) of this section, the Director, Office of Carrier, Driver and Vehicle Safety Standards will accept the request and the removal will become effective immediately. On and after the date of issuance of a notice of proposed removal from the National Registry of Certified Medical Examiners, as described in paragraph (b) of this section, however, the Director, Office of Carrier, Driver and Vehicle Safety Standards will not approve the medical examiner's request for voluntary removal from the National Registry of Certified Medical Examiners.
 
