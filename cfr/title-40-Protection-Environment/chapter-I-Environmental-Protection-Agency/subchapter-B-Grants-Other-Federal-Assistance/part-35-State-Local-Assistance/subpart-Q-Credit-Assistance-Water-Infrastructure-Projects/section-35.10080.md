@@ -1,0 +1,17 @@
+##### § 35.10080 Fees. #####
+
+(a) *Application fee.* EPA will require a non-refundable application fee for each project applying for credit assistance under the WIFIA program. An application fee will be due upon submission of the complete application. For applications for projects serving small communities (population of not more than 25,000 people), this application fee will be $25,000. For all other applications, this application fee will be $100,000. The initial application fee will be credited to the credit processing fee required under paragraph (c) of this section.
+
+(b) *Adjustment of application fee.* For each application and approval cycle, EPA may adjust the amount of the application fee described in paragraph (a) of this section based on program implementation experience and cost expectations. EPA will publish this amount in each Federal Register solicitation for letters of interest.
+
+(c) *Credit processing fee.* Except as otherwise provided in paragraph (f) of this section, EPA will require an additional credit processing fee for projects selected to receive WIFIA assistance upon closing, or in the event that the project does not proceed to closing, *e.g.,* if the application is withdrawn or denied. The proceeds of any such fees will be used to pay the remaining portion of the Agency's cost of providing credit assistance and the costs of retaining expert firms, including financial, engineering, and legal services, in the field of municipal and project finance, to assist in the underwriting of the Federal credit instrument. All of, or a portion of, this fee may be waived.
+
+(d) *Servicing fee.* EPA will require borrowers to pay a servicing fee for each credit instrument approved for funding. Separate fees may apply for each type of credit instrument (*e.g.,* a loan guarantee, a secured loan with a single disbursement, or a secured loan with multiple disbursements), depending on the costs of servicing the credit instrument as determined by the Administrator. Such fees will be set at a level sufficient to enable the EPA to recover all or a portion of the costs to the Federal Government of servicing WIFIA credit instruments.
+
+(e) *Optional supplemental fee.* If, in any given year, there is insufficient budget authority to fund the credit instrument for a qualified project that has been selected to receive assistance under WIFIA, EPA and the approved applicant may agree upon a supplemental fee to be paid by or on behalf of the approved applicant at the time of execution of the term sheet to reduce the subsidy cost of that project. No such fee may be included among eligible project costs.
+
+(f) *Reduced fees.* To the extent that Congress appropriates funds in any given year beyond those sufficient to cover internal administrative costs, EPA may utilize such appropriated funds to reduce fees that would otherwise be charged under paragraph (c) of this section.
+
+(g) *Extraordinary expenses.* EPA may require payment in full by the borrower of additional fees, in an amount determined by EPA, and of related fees and expenses of its independent consultants and outside counsel, to the extent that such fees and expenses are incurred directly by EPA and to the extent such third parties are not paid directly by the borrower, in the event that a borrower experiences difficulty relating to technical, financial, or legal matters or other events (*e.g.,* engineering failure or financial workouts) which require EPA to incur time or expenses beyond standard monitoring.
+
+[82 FR 29245, June 28, 2017]

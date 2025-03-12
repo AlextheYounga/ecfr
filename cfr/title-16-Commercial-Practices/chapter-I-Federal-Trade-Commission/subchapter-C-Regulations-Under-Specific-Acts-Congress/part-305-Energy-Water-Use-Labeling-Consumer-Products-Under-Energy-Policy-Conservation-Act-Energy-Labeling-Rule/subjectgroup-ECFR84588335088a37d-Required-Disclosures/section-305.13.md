@@ -1,6 +1,6 @@
 ##### § 305.13 Labeling for ceiling fans. #####
 
-Link to an amendment published at 81 FR 63649, Sept. 15, 2016.Link to a correction published at 81 FR 74917, Oct. 28, 2016.
+Link to an amendment published at 81 FR 63649, Sept. 15, 2016.Link to a correction published at 81 FR 74917, Oct. 28, 2016.Link to an amendment published at 82 FR 29236, June 28, 2017.
 
 (a) *Ceiling fans* - (1) *Content.* Any covered product that is a ceiling fan shall be labeled clearly and conspicuously on the principal display panel with the following information in order from top to bottom on the label:
 

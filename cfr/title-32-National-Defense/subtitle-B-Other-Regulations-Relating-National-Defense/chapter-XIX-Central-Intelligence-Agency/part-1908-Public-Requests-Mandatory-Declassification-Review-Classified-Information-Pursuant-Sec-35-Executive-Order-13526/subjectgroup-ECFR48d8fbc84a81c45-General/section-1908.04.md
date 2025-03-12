@@ -1,3 +1,3 @@
 ##### § 1908.04 Suggestions and complaints. #####
 
-The Agency welcomes suggestions or complaints with regard to its administration of the mandatory declassification review program established under Executive Order 12958. Many requesters will receive pre-paid, customer satisfaction survey cards. Letters of suggestion or complaint should identify the specific purpose and the issues for consideration. The Agency will respond to all substantive communications and take such actions as determined feasible and appropriate.
+The Agency welcomes suggestions, comments, or complaints with regard to its administration of the mandatory declassification review program established under Executive Order 13526. Members of the public shall address such communications to the CIA Information and Privacy Coordinator. The Agency will respond as determined feasible and appropriate under the circumstances.

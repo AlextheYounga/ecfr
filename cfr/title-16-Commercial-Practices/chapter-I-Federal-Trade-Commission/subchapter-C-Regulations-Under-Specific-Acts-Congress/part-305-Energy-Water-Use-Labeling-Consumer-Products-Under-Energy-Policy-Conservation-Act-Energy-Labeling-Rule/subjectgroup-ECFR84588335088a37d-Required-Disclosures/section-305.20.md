@@ -1,6 +1,6 @@
 ##### § 305.20 Paper catalogs and Web sites. #####
 
-Link to an amendment published at 80 FR 67300, Nov. 2, 2015.
+Link to an amendment published at 80 FR 67300, Nov. 2, 2015.Link to an amendment published at 82 FR 29236, June 28, 2017.
 
 (a) Covered products offered for sale on the Internet. Any manufacturer, distributor, retailer, or private labeler who advertises a covered product on an Internet Web site in a manner that qualifies as a catalog under this Part shall disclose energy information as follows:
 
