@@ -1,5 +1,7 @@
 ##### § 1926.104 Safety belts, lifelines, and lanyards. #####
 
+Link to an amendment published at 84 FR 21577, May 14, 2019.
+
 (a) Lifelines, safety belts, and lanyards shall be used only for employee safeguarding. Any lifeline, safety belt, or lanyard actually subjected to in-service loading, as distinguished from static load testing, shall be immediately removed from service and shall not be used again for employee safeguarding.
 
 (b) Lifelines shall be secured above the point of operation to an anchorage or structural member capable of supporting a minimum dead weight of 5,400 pounds.

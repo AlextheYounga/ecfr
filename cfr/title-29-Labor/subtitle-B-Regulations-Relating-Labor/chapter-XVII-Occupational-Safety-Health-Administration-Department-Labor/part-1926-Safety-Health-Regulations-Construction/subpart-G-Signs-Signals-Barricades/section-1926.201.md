@@ -1,5 +1,7 @@
 ##### § 1926.201 Signaling. #####
 
+Link to an amendment published at 84 FR 21577, May 14, 2019.
+
 (a) *Flaggers.* Signaling by flaggers and the use of flaggers, including warning garments worn by flaggers, shall conform to Part VI of the Manual on Uniform Traffic Control Devices (1988 Edition, Revision 3, or the Millennium Edition), incorporated by reference in § 1926.6.
 
 (b) *Crane and hoist signals.* Regulations for crane and hoist signaling will be found in applicable American National Standards Institute standards.

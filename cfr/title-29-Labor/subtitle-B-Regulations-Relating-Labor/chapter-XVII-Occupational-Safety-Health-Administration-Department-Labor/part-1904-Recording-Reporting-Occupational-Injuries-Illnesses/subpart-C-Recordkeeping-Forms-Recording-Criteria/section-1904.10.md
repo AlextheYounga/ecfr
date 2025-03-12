@@ -1,5 +1,7 @@
 ##### § 1904.10 Recording criteria for cases involving occupational hearing loss. #####
 
+Link to an amendment published at 84 FR 21457, May 14, 2019.
+
 (a) *Basic requirement.* If an employee's hearing test (audiogram) reveals that the employee has experienced a work-related Standard Threshold Shift (STS) in hearing in one or both ears, and the employee's total hearing level is 25 decibels (dB) or more above audiometric zero (averaged at 2000, 3000, and 4000 Hz) in the same ear(s) as the STS, you must record the case on the OSHA 300 Log.
 
 (b) *Implementation* - (1) *What is a Standard Threshold Shift?* A Standard Threshold Shift, or STS, is defined in the occupational noise exposure standard at 29 CFR 1910.95(g)(10)(i) as a change in hearing threshold, relative to the baseline audiogram for that employee, of an average of 10 decibels (dB) or more at 2000, 3000, and 4000 hertz (Hz) in one or both ears.

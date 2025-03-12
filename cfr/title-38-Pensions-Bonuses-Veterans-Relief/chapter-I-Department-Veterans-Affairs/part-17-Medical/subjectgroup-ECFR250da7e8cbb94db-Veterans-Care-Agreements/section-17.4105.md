@@ -1,0 +1,5 @@
+##### § 17.4105 Purpose and Scope. #####
+
+(a) *Purpose.* Sections 17.4100 through 17.4135 implement 38 U.S.C. 1703A, as required under section 1703A(j). Section 1703A authorizes VA to enter into and utilize Veterans Care Agreements to furnish hospital care, medical services, and extended care services to a covered individual when such individual is eligible for and requires such care or services that are not feasibly available to the covered individual through a VA facility, a contract, or a sharing agreement.
+
+(b) *Scope.* Sections 17.4100 through 17.4135 contain procedures, requirements, obligations, and limitations for: The process of certifying entities or providers under 38 U.S.C. 1703A; entering into, administering, furnishing care or services pursuant to, and discontinuing Veterans Care Agreements; and all disputes arising under or related to Veterans Care Agreements. Sections 17.4100 through 17.4135 apply to all entities and providers, where applicable, that are parties to a Veterans Care Agreement, participate in the certification process, or furnish hospital care, medical services, or extended care services pursuant to a Veterans Care Agreement.

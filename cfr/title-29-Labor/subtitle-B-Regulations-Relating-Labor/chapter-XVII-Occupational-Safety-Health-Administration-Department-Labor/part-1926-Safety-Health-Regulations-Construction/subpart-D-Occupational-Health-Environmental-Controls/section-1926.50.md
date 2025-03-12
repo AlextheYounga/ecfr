@@ -1,5 +1,7 @@
 ##### § 1926.50 Medical services and first aid. #####
 
+Link to an amendment published at 84 FR 21575, May 14, 2019.
+
 (a) The employer shall insure the availability of medical personnel for advice and consultation on matters of occupational health.
 
 (b) Provisions shall be made prior to commencement of the project for prompt medical attention in case of serious injury.

@@ -1,5 +1,7 @@
 ##### § 1926.1101 Asbestos. #####
 
+Link to an amendment published at 84 FR 21579, May 14, 2019.
+
 (a) *Scope and application.* This section regulates asbestos exposure in all work as defined in 29 CFR 1910.12(b), including but not limited to the following:
 
 (1) Demolition or salvage of structures where asbestos is present;

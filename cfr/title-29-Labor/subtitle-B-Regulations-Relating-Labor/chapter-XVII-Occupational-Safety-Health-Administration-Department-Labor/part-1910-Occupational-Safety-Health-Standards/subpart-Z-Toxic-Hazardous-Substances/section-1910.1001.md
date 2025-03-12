@@ -1,5 +1,7 @@
 ##### § 1910.1001 Asbestos. #####
 
+Link to an amendment published at 84 FR 21458, May 14, 2019.
+
 (a) *Scope and application.* (1) This section applies to all occupational exposures to asbestos in all industries covered by the Occupational Safety and Health Act, except as provided in paragraph (a)(2) and (3) of this section.
 
 (2) This section does not apply to construction work as defined in 29 CFR 1910.12(b). (Exposure to asbestos in construction work is covered by 29 CFR 1926.1101).

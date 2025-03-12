@@ -1,5 +1,7 @@
 ##### § 1926.203 Definitions applicable to this subpart. #####
 
+Link to an amendment published at 84 FR 21577, May 14, 2019.
+
 (a) *Barricade* means an obstruction to deter the passage of persons or vehicles.
 
 (b) *Signs* are the warnings of hazard, temporarily or permanently affixed or placed, at locations where hazards exist.

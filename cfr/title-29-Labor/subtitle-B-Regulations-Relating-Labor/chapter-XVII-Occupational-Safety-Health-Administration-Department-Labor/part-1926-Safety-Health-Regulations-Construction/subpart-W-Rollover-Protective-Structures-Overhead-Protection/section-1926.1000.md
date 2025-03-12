@@ -1,5 +1,7 @@
 ##### § 1926.1000 Rollover protective structures (ROPS) for material handling equipment. #####
 
+Link to an amendment published at 84 FR 21577, May 14, 2019.
+
 (a) *Coverage.* (1) This section applies to the following types of material handling equipment: To all rubber-tired, self-propelled scrapers, rubber-tired front-end loaders, rubber-tired dozers, wheel-type agricultural and industrial tractors, crawler tractors, crawler-type loaders, and motor graders, with or without attachments, that are used in construction work. This requirement does not apply to sideboom pipelaying tractors.
 
 (2) The promulgation of specific standards for rollover protective structures for compactors and rubber-tired skid-steer equipment is reserved pending consideration of standards currently being developed.

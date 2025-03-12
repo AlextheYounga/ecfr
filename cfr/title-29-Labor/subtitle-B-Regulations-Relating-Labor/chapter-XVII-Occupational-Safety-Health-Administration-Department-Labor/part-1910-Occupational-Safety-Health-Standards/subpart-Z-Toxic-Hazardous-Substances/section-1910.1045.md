@@ -1,5 +1,7 @@
 ##### § 1910.1045 Acrylonitrile. #####
 
+Link to an amendment published at 84 FR 21518, May 14, 2019.
+
 (a) *Scope and application.* (1) This section applies to all occupational exposures to acrylonitrile (AN), Chemical Abstracts Service Registry No. 000107131, except as provided in paragraphs (a)(2) and (a)(3) of this section.
 
 (2) This section does not apply to exposures which result solely from the processing, use, and handling of the following materials:

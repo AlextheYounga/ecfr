@@ -1,0 +1,3 @@
+##### § 17.4125 Review of Veterans Care Agreements. #####
+
+VA will periodically review each Veterans Care Agreement that exceeds $5,000,000 annually, to determine if it is feasible and advisable to furnish the hospital care, medical services, and extended care services that VA has furnished or anticipates furnishing under such Veterans Care Agreements through a VA facility, contract, or sharing agreement instead. If VA determines it is feasible and advisable to provide any such hospital care, medical services, or extended care services in a VA facility or by contract or sharing agreement, it will take action to do so.

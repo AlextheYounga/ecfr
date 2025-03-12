@@ -1,5 +1,7 @@
 ##### § 1910.1051 1,3-Butadiene. #####
 
+Link to an amendment published at 84 FR 21527, May 14, 2019.
+
 (a) *Scope and application.* (1) This section applies to all occupational exposures to 1,3-Butadiene (BD), Chemical Abstracts Service Registry No. 106-99-0, except as provided in paragraph (a)(2) of this section.
 
 (2)(i) Except for the recordkeeping provisions in paragraph (m)(1) of this section, this section does not apply to the processing, use, or handling of products containing BD or to other work operations and streams in which BD is present where objective data are reasonably relied upon that demonstrate the work operation or the product or the group of products or operations to which it belongs may not reasonably be foreseen to release BD in airborne concentrations at or above the action level or in excess of the STEL under the expected conditions of processing, use, or handling that will cause the greatest possible release or in any plausible accident.

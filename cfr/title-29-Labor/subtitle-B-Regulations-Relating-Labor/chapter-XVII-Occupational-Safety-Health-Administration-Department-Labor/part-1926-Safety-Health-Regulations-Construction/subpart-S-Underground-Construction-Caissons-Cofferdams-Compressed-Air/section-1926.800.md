@@ -1,5 +1,7 @@
 ##### § 1926.800 Underground construction. #####
 
+Link to an amendment published at 84 FR 21577, May 14, 2019.
+
 (a) *Scope and application.* (1) This section applies to the construction of underground tunnels, shafts, chambers, and passageways. This section also applies to cut-and-cover excavations which are both physically connected to ongoing underground construction operations within the scope of this section, and covered in such a manner as to create conditions characteristic of underground construction.
 
 (2) This section does not apply to the following:

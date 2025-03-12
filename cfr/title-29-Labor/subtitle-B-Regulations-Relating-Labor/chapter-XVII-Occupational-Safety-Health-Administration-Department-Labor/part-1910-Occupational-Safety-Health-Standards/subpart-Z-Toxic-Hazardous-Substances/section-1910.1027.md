@@ -1,5 +1,7 @@
 ##### § 1910.1027 Cadmium. #####
 
+Link to an amendment published at 84 FR 21477, May 14, 2019.
+
 (a) *Scope.* This standard applies to all occupational exposures to cadmium and cadmium compounds, in all forms, and in all industries covered by the Occupational Safety and Health Act, except the construction-related industries, which are covered under 29 CFR 1926.63.
 
 (b) *Definitions. Action level* (AL) is defined as an airborne concentration of cadmium of 2.5 micrograms per cubic meter of air (2.5 µg/m3), calculated as an 8-hour time-weighted average (TWA).

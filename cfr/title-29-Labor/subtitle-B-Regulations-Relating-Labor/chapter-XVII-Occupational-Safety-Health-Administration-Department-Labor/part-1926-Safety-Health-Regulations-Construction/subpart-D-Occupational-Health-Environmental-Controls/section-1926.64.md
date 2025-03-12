@@ -1,5 +1,7 @@
 ##### § 1926.64 Process safety management of highly hazardous chemicals. #####
 
+Link to an amendment published at 84 FR 21576, May 14, 2019.
+
 *Purpose.* This section contains requirements for preventing or minimizing the consequences of catastrophic releases of toxic, reactive, flammable, or explosive chemicals. These releases may result in toxic, fire or explosion hazards.
 
 (a) *Application.* (1) This section applies to the following:

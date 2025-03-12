@@ -1,5 +1,7 @@
 ##### § 1926.1002 Protective frames (roll-over protective structures, known as ROPS) for wheel-type agricultural and industrial tractors used in construction. #####
 
+Link to an amendment published at 84 FR 21578, May 14, 2019.
+
 (a) *General.* (1) The purpose of this section is to set forth requirements for frames used to protect operators of wheel-type agricultural and industrial tractors that will minimize the possibility of operator injury resulting from accidental upsets during normal operation. With respect to agricultural and industrial tractors, the provisions of 29 CFR 1926.1001 and 1926.1003 for rubber-tired dozers and rubber-tired loaders may be used instead of the requirements of this section.
 
 (2) The protective frame that is the subject of this standard is a structure mounted to the tractor that extends above the operator's seat and conforms generally to Figure W-14.

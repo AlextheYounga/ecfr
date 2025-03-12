@@ -1,5 +1,7 @@
 ##### § 1926.6 Incorporation by reference. #####
 
+Link to an amendment published at 84 FR 21574, May 14, 2019.
+
 (a) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (*i.e.,* provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act. The locations where these standards may be examined are as follows:
 
 (1) Offices of the Occupational Safety and Health Administration, U.S. Department of Labor, Frances Perkins Building, Washington, DC 20210.

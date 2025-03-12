@@ -1,5 +1,7 @@
 ##### § 1926.200 Accident prevention signs and tags. #####
 
+Link to an amendment published at 84 FR 21577, May 14, 2019.
+
 (a) *General.* Signs and symbols required by this subpart shall be visible at all times when work is being performed, and shall be removed or covered promptly when the hazards no longer exist.
 
 (b) *Danger signs.* (1) Danger signs shall be used only where an immediate hazard exists, and shall follow the specifications illustrated in Figure 1 of ANSI Z35.1-1968 or in Figures 1 to 13 of ANSI Z535.2-2011, incorporated by reference in § 1926.6.

@@ -1,5 +1,7 @@
 ##### § 1926.1001 Minimum performance criteria for rollover protective structures for designated scrapers, loaders, dozers, graders, and crawler tractors. #####
 
+Link to an amendment published at 84 FR 21578, May 14, 2019.
+
 (a) *General.* This section prescribes minimum performance criteria for rollover protective structures (ROPS) for rubber-tired self-propelled scrapers; rubber-tired front-end loaders and rubber-tired dozers; crawler tractors, and crawler-type loaders, and motor graders. The vehicle and ROPS as a system shall have the structural characteristics prescribed in paragraph (f) of this section for each type of machine described in this paragraph.
 
 (b) The static laboratory test prescribed herein will determine the adequacy of the structures used to protect the operator under the following conditions:

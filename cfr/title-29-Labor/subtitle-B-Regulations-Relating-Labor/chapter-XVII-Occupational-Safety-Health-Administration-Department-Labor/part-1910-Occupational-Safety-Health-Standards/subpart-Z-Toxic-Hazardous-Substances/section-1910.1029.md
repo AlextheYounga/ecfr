@@ -1,5 +1,7 @@
 ##### § 1910.1029 Coke oven emissions. #####
 
+Link to an amendment published at 84 FR 21490, May 14, 2019.
+
 (a) *Scope and application.* This section applies to the control of employee exposure to coke oven emissions, except that this section shall not apply to working conditions with regard to which other Federal agencies exercise statutory authority to prescribe or enforce standards affecting occupational safety and health.
 
 (b) *Definitions.* For the purpose of this section:

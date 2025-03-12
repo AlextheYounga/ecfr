@@ -1,5 +1,7 @@
 ##### § 1910.120 Hazardous waste operations and emergency response. #####
 
+Link to an amendment published at 84 FR 21597, May 14, 2019.
+
 (a) *Scope, application, and definitions* - (1) *Scope.* This section covers the following operations, unless the employer can demonstrate that the operation does not involve employee exposure or the reasonable possibility for employee exposure to safety or health hazards:
 
 (i) Clean-up operations required by a governmental body, whether Federal, state, local or other involving hazardous substances that are conducted at uncontrolled hazardous waste sites (including, but not limited to, the EPA's National Priority Site List (NPL), state priority site lists, sites recommended for the EPA NPL, and initial investigations of government identified sites which are conducted before the presence or absence of hazardous substances has been ascertained);

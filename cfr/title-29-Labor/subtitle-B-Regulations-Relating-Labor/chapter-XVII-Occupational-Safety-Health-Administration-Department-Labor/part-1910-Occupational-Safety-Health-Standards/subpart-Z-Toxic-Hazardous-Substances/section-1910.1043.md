@@ -1,5 +1,7 @@
 ##### § 1910.1043 Cotton dust. #####
 
+Link to an amendment published at 84 FR 21490, May 14, 2019.
+
 (a) *Scope and application.* (1) This section, in its entirety, applies to the control of employee exposure to cotton dust in all workplaces where employees engage in yarn manufacturing, engage in slashing and weaving operations, or work in waste houses for textile operations.
 
 (2) This section does not apply to the handling or processing of woven or knitted materials; to maritime operations covered by 29 CFR Parts 1915 and 1918; to harvesting or ginning of cotton; or to the construction industry.

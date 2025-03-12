@@ -1,5 +1,7 @@
 ##### § 1910.1018 Inorganic arsenic. #####
 
+Link to an amendment published at 84 FR 21476, May 14, 2019.
+
 (a) *Scope and application.* This section applies to all occupational exposures to inorganic arsenic except that this section does not apply to employee exposures in agriculture or resulting from pesticide application, the treatment of wood with preservatives or the utilization of arsenically preserved wood.
 
 (b) *Definitions. Action level* means a concentration of inorganic arsenic of 5 micrograms per cubic meter of air (5 µg/m3) averaged over any eight (8) hour period.

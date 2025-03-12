@@ -1,5 +1,7 @@
 ##### § 1926.1003 Overhead protection for operators of agricultural and industrial tractors used in construction. #####
 
+Link to an amendment published at 84 FR 21578, May 14, 2019.
+
 (a) *General* - (1) *Purpose.* When overhead protection is provided on wheel-type agricultural and industrial tractors, the overhead protection shall be designed and installed according to the requirements contained in this section. The provisions of 29 CFR 1926.1001 for rubber-tired dozers and rubber-tired loaders may be used instead of the standards contained in this section. The purpose of this standard is to minimize the possibility of operator injury resulting from overhead hazards such as flying and falling objects, and at the same time to minimize the possibility of operator injury from the cover itself in the event of accidental upset.
 
 (2) *Applicability.* This standard applies to wheel-type agricultural and industrial tractors used in construction work (see 29 CFR 1926.1002(b) and (j)). In the case of machines to which 29 CFR 1926.604 (relating to site clearing) also applies, the overhead protection may be either the type of protection provided in 29 CFR 1926.604, or the type of protection provided by this section.

@@ -1,5 +1,7 @@
 ##### § 1926.1127 Cadmium. #####
 
+Link to an amendment published at 84 FR 21597, May 14, 2019.
+
 (a) *Scope.* This standard applies to all occupational exposures to cadmium and cadmium compounds, in all forms, in all construction work where an employee may potentially be exposed to cadmium. Construction work is defined as work involving construction, alteration and/or repair, including but not limited to the following:
 
 (1) Wrecking, demolition or salvage of structures where cadmium or materials containing cadmium are present;

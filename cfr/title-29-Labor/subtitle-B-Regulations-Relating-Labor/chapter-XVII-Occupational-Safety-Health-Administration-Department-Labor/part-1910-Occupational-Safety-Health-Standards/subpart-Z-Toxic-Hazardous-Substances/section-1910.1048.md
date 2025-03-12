@@ -1,5 +1,7 @@
 ##### § 1910.1048 Formaldehyde. #####
 
+Link to an amendment published at 84 FR 21518, May 14, 2019.
+
 (a) *Scope and application.* This standard applies to all occupational exposures to formaldehyde, i.e. from formaldehyde gas, its solutions, and materials that release formaldehyde.
 
 (b) *Definitions.* For purposes of this standard, the following definitions shall apply:

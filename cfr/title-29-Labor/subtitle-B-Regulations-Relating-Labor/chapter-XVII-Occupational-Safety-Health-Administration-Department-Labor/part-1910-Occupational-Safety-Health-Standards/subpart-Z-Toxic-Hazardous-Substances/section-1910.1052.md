@@ -1,5 +1,7 @@
 ##### § 1910.1052 Methylene chloride. #####
 
+Link to an amendment published at 84 FR 21544, May 14, 2019.
+
 This occupational health standard establishes requirements for employers to control occupational exposure to methylene chloride (MC). Employees exposed to MC are at increased risk of developing cancer, adverse effects on the heart, central nervous system and liver, and skin or eye irritation. Exposure may occur through inhalation, by absorption through the skin, or through contact with the skin. MC is a solvent which is used in many different types of work activities, such as paint stripping, polyurethane foam manufacturing, and cleaning and degreasing. Under the requirements of paragraph (d) of this section, each covered employer must make an initial determination of each employee's exposure to MC. If the employer determines that employees are exposed below the action level, the only other provisions of this section that apply are that a record must be made of the determination, the employees must receive information and training under paragraph (l) of this section and, where appropriate, employees must be protected from contact with liquid MC under paragraph (h) of this section. The provisions of the MC standard are as follows:
 
 (a) *Scope and application.* This section applies to all occupational exposures to methylene chloride (MC), Chemical Abstracts Service Registry Number 75-09-2, in general industry, construction and shipyard employment.
@@ -73,9 +75,9 @@ Table 1 - Initial Determination Exposure Scenarios and Their Associated Monitori
 |                  Above the TWA and at or below the STEL                   |Monitor 8-hour TWA exposures every three months. In addition, without regard to the last sentence of the note to paragraph (d)(3), the following employers must monitor STEL exposures every three months until either the date by which they must achieve the 8-hour TWA PEL under paragraph (n) of this section or the date by which they in fact achieve the 8-hour TWA PEL, whichever comes first: employers engaged in polyurethane foam manufacturing; foam fabrication; furniture refinishing; general aviation aircraft stripping; product formulation; use of MC-based adhesives for boat building and repair, recreational vehicle manufacture, van conversion, or upholstery; and use of MC in construction work for restoration and preservation of buildings, painting and paint removal, cabinet making, or floor refinishing and resurfacing.|
 |                     Above the TWA and above the STEL                      |                                                                                                                                                                                                                                                                                                                                                                                            Monitor 8-hour TWA exposures and STEL exposures every three months.                                                                                                                                                                                                                                                                                                                                                                                             |
 
-[Note to paragraph (d)(3):
+Note to paragraph (d)(3):
 
-The employer may decrease the frequency of 8-hour TWA exposure monitoring to every six months when at least two consecutive measurements taken at least seven days apart show exposures to be at or below the 8-hour TWA PEL. The employer may discontinue the periodic 8-hour TWA monitoring for employees where at least two consecutive measurements taken at least seven days apart are below the action level. The employer may discontinue the periodic STEL monitoring for employees where at least two consecutive measurements taken at least 7 days apart are at or below the STEL.]
+The employer may decrease the frequency of 8-hour TWA exposure monitoring to every six months when at least two consecutive measurements taken at least seven days apart show exposures to be at or below the 8-hour TWA PEL. The employer may discontinue the periodic 8-hour TWA monitoring for employees where at least two consecutive measurements taken at least seven days apart are below the action level. The employer may discontinue the periodic STEL monitoring for employees where at least two consecutive measurements taken at least 7 days apart are at or below the STEL.
 
 (4) *Additional monitoring.* (i) The employer shall perform exposure monitoring when a change in workplace conditions indicates that employee exposure may have increased. Examples of situations that may require additional monitoring include changes in production, process, control equipment, or work practices, or a leak, rupture, or other breakdown.
 
@@ -95,9 +97,9 @@ The employer may decrease the frequency of 8-hour TWA exposure monitoring to eve
 
 (3) The employer shall supply a respirator, selected in accordance with paragraph (h)(3) of this section, to each person who enters a regulated area and shall require each affected employee to use that respirator whenever MC exposures are likely to exceed the 8-hour TWA PEL or STEL.
 
-[Note to paragraph (e)(3):
+Note to paragraph (e)(3):
 
-An employer who has implemented all feasible engineering, work practice and administrative controls (as required in paragraph (f) of this section), and who has established a regulated area (as required by paragraph (e)(1) of this section) where MC exposure can be reliably predicted to exceed the 8-hour TWA PEL or the STEL only on certain days (for example, because of work or process schedule) would need to have affected employees use respirators in that regulated area only on those days.]
+An employer who has implemented all feasible engineering, work practice and administrative controls (as required in paragraph (f) of this section), and who has established a regulated area (as required by paragraph (e)(1) of this section) where MC exposure can be reliably predicted to exceed the 8-hour TWA PEL or the STEL only on certain days (for example, because of work or process schedule) would need to have affected employees use respirators in that regulated area only on those days.
 
 (4) The employer shall ensure that, within a regulated area, employees do not engage in non-work activities which may increase dermal or oral MC exposure.
 
@@ -115,9 +117,9 @@ An employer who has implemented all feasible engineering, work practice and admi
 
 (ii) The employer shall ensure that all incidental leaks are repaired and that incidental spills are cleaned promptly by employees who use the appropriate personal protective equipment and are trained in proper methods of cleanup.
 
-[Note to paragraph (f)(3)(ii):
+Note to paragraph (f)(3)(ii):
 
-See appendix A of this section for examples of procedures that satisfy this requirement. Employers covered by this standard may also be subject to the hazardous waste and emergency response provisions contained in 29 CFR 1910.120 (q).]
+See appendix A of this section for examples of procedures that satisfy this requirement. Employers covered by this standard may also be subject to the hazardous waste and emergency response provisions contained in 29 CFR 1910.120 (q).
 
 (g) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
@@ -153,9 +155,9 @@ See appendix A of this section for examples of procedures that satisfy this requ
 
 (3) The employer shall be responsible for the safe disposal of such clothing and equipment.
 
-[Note to paragraph (h)(4):
+Note to paragraph (h)(4):
 
-See appendix A for examples of disposal procedures that will satisfy this requirement.]
+See appendix A for examples of disposal procedures that will satisfy this requirement.
 
 (i) *Hygiene facilities.* (1) If it is reasonably foreseeable that employees' skin may contact solutions containing 0.1 percent or greater MC (for example, through splashes, spills or improper work practices), the employer shall provide conveniently located washing facilities capable of removing the MC, and shall ensure that affected employees use these facilities as needed.
 
@@ -189,17 +191,17 @@ See appendix A for examples of disposal procedures that will satisfy this requir
 
 (5) *Content of medical surveillance* - (i) *Medical and work history.* The comprehensive medical and work history shall emphasize neurological symptoms, skin conditions, history of hematologic or liver disease, signs or symptoms suggestive of heart disease (angina, coronary artery disease), risk factors for cardiac disease, MC exposures, and work practices and personal protective equipment used during such exposures.
 
-[Note to paragraph (j)(5)(i):
+Note to paragraph (j)(5)(i):
 
-See appendix B of this section for an example of a medical and work history format that would satisfy this requirement.]
+See appendix B of this section for an example of a medical and work history format that would satisfy this requirement.
 
 (ii) *Physical examination.* Where physical examinations are provided as required above, the physician or other licensed health care professional shall accord particular attention to the lungs, cardiovascular system (including blood pressure and pulse), liver, nervous system, and skin. The physician or other licensed health care professional shall determine the extent and nature of the physical examination based on the health status of the employee and analysis of the medical and work history.
 
 (iii) *Laboratory surveillance.* The physician or other licensed health care professional shall determine the extent of any required laboratory surveillance based on the employee's observed health status and the medical and work history.
 
-[Note to paragraph (j)(5)(iii):
+Note to paragraph (j)(5)(iii):
 
-See appendix B of this section for information regarding medical tests. Laboratory surveillance may include before- and after-shift carboxyhemoglobin determinations, resting ECG, hematocrit, liver function tests and cholesterol levels.]
+See appendix B of this section for information regarding medical tests. Laboratory surveillance may include before- and after-shift carboxyhemoglobin determinations, resting ECG, hematocrit, liver function tests and cholesterol levels.
 
 (iv) *Other information or reports.* The medical surveillance shall also include any other information or reports the physician or other licensed health care professional determines are necessary to assess the employee's health in relation to MC exposure.
 
@@ -213,9 +215,9 @@ See appendix B of this section for information regarding medical tests. Laborato
 
 (iv) Laboratory surveillance, as indicated by the employee's health status.
 
-[Note to paragraph (j)(6)(iv):
+Note to paragraph (j)(6)(iv):
 
-See appendix B for examples of tests which may be appropriate.]
+See appendix B for examples of tests which may be appropriate.
 
 (7) *Additional examinations and referrals.* Where the physician or other licensed health care professional determines it is necessary, the scope of the medical examination shall be expanded and the appropriate additional medical surveillance, such as referrals for consultation or examination, shall be provided.
 
@@ -243,9 +245,9 @@ See appendix B for examples of tests which may be appropriate.]
 
 (ii) The employer shall instruct the physician or other licensed health care professional not to reveal to the employer, orally or in the written opinion, any specific records, findings, and diagnoses that have no bearing on occupational exposure to MC.
 
-[Note to paragraph (j)(9)(ii):
+Note to paragraph (j)(9)(ii):
 
-The written medical opinion may also include information and opinions generated to comply with other OSHA health standards.]
+The written medical opinion may also include information and opinions generated to comply with other OSHA health standards.
 
 (10) *Medical presumption.* For purposes of this paragraph (j) of this section, the physician or other licensed health care professional shall presume, unless medical evidence indicates to the contrary, that a medical condition is unlikely to require medical removal from MC exposure if the employee is not exposed to MC above the 8-hour TWA PEL. If the physician or other licensed health care professional recommends removal for an employee exposed below the 8-hour TWA PEL, the physician or other licensed health care professional shall cite specific medical evidence, sufficient to rebut the presumption that exposure below the 8-hour TWA PEL is unlikely to require removal, to support the recommendation. If such evidence is cited by the physician or other licensed health care professional, the employer must remove the employee. If such evidence is not cited by the physician or other licensed health care professional, the employer is not required to remove the employee.
 
@@ -391,9 +393,9 @@ The written medical opinion may also include information and opinions generated 
 
 (4) *Availability.* (i) The employer, upon written request, shall make all records required to be maintained by this section available to the Assistant Secretary and the Director for examination and copying in accordance with 29 CFR 1910.1020.
 
-[Note to paragraph (m)(4)(i):
+Note to paragraph (m)(4)(i):
 
-All records required to be maintained by this section may be kept in the most administratively convenient form (for example, electronic or computer records would satisfy this requirement).]
+All records required to be maintained by this section may be kept in the most administratively convenient form (for example, electronic or computer records would satisfy this requirement).
 
 (ii) The employer, upon request, shall make any employee exposure and objective data records required by this section available for examination and copying by affected employees, former employees, and designated representatives in accordance with 29 CFR 1910.1020.
 
@@ -405,11 +407,11 @@ All records required to be maintained by this section may be kept in the most ad
 
 (o) *Appendices.* The information contained in the appendices does not, by itself, create any additional obligations not otherwise imposed or detract from any existing obligation.
 
-[Note to paragraph (o):
+Note to paragraph (o):
 
 The requirement of 29 CFR 1910.1052(g)(1) to use respiratory protection whenever an employee's exposure to methylene chloride exceeds or can reasonably be expected to exceed the 8-hour TWA PEL is hereby stayed until August 31, 1998 for employers engaged in polyurethane foam manufacturing; foam fabrication; furniture refinishing; general aviation aircraft stripping; formulation of products containing methylene chloride; boat building and repair; recreational vehicle manufacture; van conversion; upholstery; and use of methylene chloride in construction work for restoration and preservation of buildings, painting and paint removal, cabinet making and/or floor refinishing and resurfacing.
 
-The requirement of 29 CFR 1910.1052(f)(1) to implement engineering controls to achieve the 8-hour TWA PEL and STEL is hereby stayed until December 10, 1998 for employers with more than 100 employees engaged in polyurethane foam manufacturing and for employers with more than 20 employees engaged in foam fabrication; furniture refinishing; general aviation aircraft stripping; formulation of products containing methylene chloride; boat building and repair; recreational vehicle manufacture; van conversion; upholstery; and use of methylene chloride in construction work for restoration and preservation of buildings, painting and paint removal, cabinet making and/or floor refinishing and resurfacing.]
+The requirement of 29 CFR 1910.1052(f)(1) to implement engineering controls to achieve the 8-hour TWA PEL and STEL is hereby stayed until December 10, 1998 for employers with more than 100 employees engaged in polyurethane foam manufacturing and for employers with more than 20 employees engaged in foam fabrication; furniture refinishing; general aviation aircraft stripping; formulation of products containing methylene chloride; boat building and repair; recreational vehicle manufacture; van conversion; upholstery; and use of methylene chloride in construction work for restoration and preservation of buildings, painting and paint removal, cabinet making and/or floor refinishing and resurfacing.
 
 Appendix A to Section 1910.1052 - Substance Safety Data Sheet and Technical Guidelines for Methylene ChlorideI. Substance Identification
 
