@@ -1,6 +1,6 @@
 ##### § 1026.12 Special credit card provisions. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
+Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
 
 (a) *Issuance of credit cards.* Regardless of the purpose for which a credit card is to be used, including business, commercial, or agricultural use, no credit card shall be issued to any person except:
 

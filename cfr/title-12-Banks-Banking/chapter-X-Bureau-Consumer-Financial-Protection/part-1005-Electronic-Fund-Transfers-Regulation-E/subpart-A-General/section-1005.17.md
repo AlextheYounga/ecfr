@@ -1,6 +1,6 @@
 ##### § 1005.17 Requirements for overdraft services. #####
 
-Link to an amendment published at 81 FR 84328, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
+Link to an amendment published at 81 FR 84328, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
 
 (a) *Definition.* For purposes of this section, the term “overdraft service” means a service under which a financial institution assesses a fee or charge on a consumer's account held by the institution for paying a transaction (including a check or other item) when the consumer has insufficient or unavailable funds in the account. The term “overdraft service” does not include any payment of overdrafts pursuant to:
 

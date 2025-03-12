@@ -1,6 +1,6 @@
 ##### § 1026.4 Finance charge. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
+Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
 
 (a) *Definition.* The finance charge is the cost of consumer credit as a dollar amount. It includes any charge payable directly or indirectly by the consumer and imposed directly or indirectly by the creditor as an incident to or a condition of the extension of credit. It does not include any charge of a type payable in a comparable cash transaction.
 

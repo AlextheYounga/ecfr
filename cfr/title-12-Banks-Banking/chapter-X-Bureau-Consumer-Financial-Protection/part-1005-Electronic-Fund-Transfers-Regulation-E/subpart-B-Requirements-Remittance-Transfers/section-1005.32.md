@@ -1,6 +1,6 @@
 ##### § 1005.32 Estimates. #####
 
-Link to an amendment published at 81 FR 84338, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
+Link to an amendment published at 81 FR 84338, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
 
 (a) *Temporary exception for insured institutions* - (1) *General.* For disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (vii), if:
 

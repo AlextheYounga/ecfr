@@ -1,6 +1,6 @@
 ##### § 1026.6 Account-opening disclosures. #####
 
-Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
+Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
 
 (a) *Rules affecting home-equity plans.* The requirements of this paragraph (a) apply only to home-equity plans subject to the requirements of § 1026.40. A creditor shall disclose the items in this section, to the extent applicable:
 

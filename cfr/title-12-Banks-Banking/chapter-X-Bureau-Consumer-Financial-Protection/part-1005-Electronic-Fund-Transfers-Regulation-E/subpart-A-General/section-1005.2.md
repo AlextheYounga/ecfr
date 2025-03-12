@@ -1,6 +1,6 @@
 ##### § 1005.2 Definitions. #####
 
-Link to an amendment published at 81 FR 84325, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
+Link to an amendment published at 81 FR 84325, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.Link to an amendment published at 83 FR 6417, Feb. 13, 2018.
 
 Except as otherwise provided in subpart B, for purposes of this part, the following definitions apply:
 

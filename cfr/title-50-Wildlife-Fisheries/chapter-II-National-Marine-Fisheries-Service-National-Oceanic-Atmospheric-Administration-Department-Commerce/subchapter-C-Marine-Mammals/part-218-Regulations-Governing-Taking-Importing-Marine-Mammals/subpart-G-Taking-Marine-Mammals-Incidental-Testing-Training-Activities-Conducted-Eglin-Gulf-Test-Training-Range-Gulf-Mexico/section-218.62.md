@@ -1,0 +1,3 @@
+##### § 218.62 Permissible methods of taking. #####
+
+Under a Letter of Authorization (LOA) issued pursuant to § 216.106 of this chapter and § 218.66, the Holder of the LOA (herein after Eglin AFB) may incidentally, but not intentionally, take marine mammals by Level A and Level B harassment associated with EGTTR activities within the area described in § 218.60 provided the activities are in compliance with all terms, conditions, and requirements of these regulations in this subpart and the appropriate LOA.

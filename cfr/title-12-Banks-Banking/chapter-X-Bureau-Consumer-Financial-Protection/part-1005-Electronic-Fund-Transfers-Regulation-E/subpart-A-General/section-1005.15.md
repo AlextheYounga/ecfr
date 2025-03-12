@@ -1,6 +1,6 @@
 ##### § 1005.15 Electronic fund transfer of government benefits. #####
 
-Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
+Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
 
 (a) *Government agency subject to regulation.* (1) A government agency is deemed to be a financial institution for purposes of the Act and this part if directly or indirectly it issues an access device to a consumer for use in initiating an electronic fund transfer of government benefits from an account, other than needs-tested benefits in a program established under state or local law or administered by a state or local agency. The agency shall comply with all applicable requirements of the Act and this part, except as provided in this section.
 

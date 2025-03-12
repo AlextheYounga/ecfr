@@ -52,7 +52,7 @@
 
 (2) The fees were waived or reduced in accordance with paragraph (e) of this section;
 
-(3) If the CFPB fails to comply with any time limit under §§ 1070.15 or 1070.21 of this subpart, and no unusual circumstances (as that term is defined in § 1070.16(d)) or exceptional circumstances apply to the processing of the request, then the CFPB shall not assess search fees, or if the requester is a representative of the news media or an educational or noncommercial scientific institution, then the CFPB shall not assess duplication fees. The term “exceptional circumstances” does not include a delay that results from a predictable CFPB workload of requests, unless the CFPB demonstrates reasonable progress in reducing its backlog of pending requests; or
+(3) If the CFPB fails to comply with any time limit under § 1070.15 or § 1070.21 of this subpart, and no unusual circumstances (as that term is defined in § 1070.16(d)) or exceptional circumstances apply to the processing of the request, then the CFPB shall not assess search fees, or if the requester is a representative of the news media or an educational or noncommercial scientific institution, then the CFPB shall not assess duplication fees. The term “exceptional circumstances” does not include a delay that results from a predictable CFPB workload of requests, unless the CFPB demonstrates reasonable progress in reducing its backlog of pending requests; or
 
 (4) If the CFPB determines, as a matter of administrative discretion, that waiving or reducing the fees would serve the interest of the United States Government.
 
