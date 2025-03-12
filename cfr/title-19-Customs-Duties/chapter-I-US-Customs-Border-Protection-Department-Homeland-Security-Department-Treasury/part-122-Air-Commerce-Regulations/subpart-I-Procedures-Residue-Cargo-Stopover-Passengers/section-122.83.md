@@ -2,7 +2,7 @@
 
 (a) *Traveling general declaration and manifest.* When applying for examination and release from an airport or place of entry in the U.S., the aircraft commander or agent shall file a traveling general declaration and manifest. The traveling general declaration and manifest is one certified copy of the original inward general declaration, and each air cargo manifest required when the aircraft entered. This includes air waybills that were part of the manifest.
 
-(b) *Attachments to traveling general declaration and manifest* - (1) *Crew purchase and stores list.* The crew purchase and stores list, if required when the aircraft enters under §§ 122.46 and 122.47, shall be attached to the traveling general declaration and manifest.
+(b) *Attachments to traveling general declaration and manifest*—(1) *Crew purchase and stores list.* The crew purchase and stores list, if required when the aircraft enters under §§ 122.46 and 122.47, shall be attached to the traveling general declaration and manifest.
 
 (2) *Crew purchases not listed on a crew purchase list.* A crew member's declaration shall be attached to the traveling general declaration and manifest if:
 
@@ -24,23 +24,23 @@ An abstract general declaration and manifest need not be filed at the last domes
 
 Permit To Proceed From One Airport to AnotherAirport of DepartureDate
 
-Permission is hereby given aircraft \_\_\_\_\_ to proceed to \_\_\_\_\_
+Permission is hereby given aircraft \_\_\_\_\_\_\_\_\_\_ to proceed to \_\_\_\_\_\_\_\_\_\_
 
 (Next Domestic Airport)
 
 The aircraft which has arrived from and is destined to the places shown in the general declaration, is proceeding to such places of destination to discharge residue cargo, passengers, or crew members and their purchases, as listed in the attached manifest. Bond was given at the airport of arrival for the cargo retained on board. Items of cargo manifested for delivery at this airport appear to have been landed.
 
-Number of crew members not cleared by Customs \_\_\_\_.
+Number of crew members not cleared by Customs \_\_\_\_\_\_\_\_.
 
-Number of passengers not cleared by Customs \_\_\_\_.
+Number of passengers not cleared by Customs \_\_\_\_\_\_\_\_.
 
 Number of pages of the traveling
 
-manifest \_\_\_\_.
+manifest \_\_\_\_\_\_\_\_.
 
 (Customs Officer and Title)Declaration on Entry of Aircraft at Following AirportAirport of ArrivalDate
 
-I, \_\_\_\_\_, commander or authorized agent of the aircraft identified in this document, declare and guarantee that there were not, when such aircraft departed from the airport of \_\_\_\_, nor have been since, nor now are, any more or other goods, wares, or merchandise on board than was stated in the attached manifests.
+I, \_\_\_\_\_\_\_\_\_\_, commander or authorized agent of the aircraft identified in this document, declare and guarantee that there were not, when such aircraft departed from the airport of \_\_\_\_\_\_\_\_, nor have been since, nor now are, any more or other goods, wares, or merchandise on board than was stated in the attached manifests.
 
 (Signature and Title)The permit to proceed and declaration must be stamped, mimeographed or printed on:
 

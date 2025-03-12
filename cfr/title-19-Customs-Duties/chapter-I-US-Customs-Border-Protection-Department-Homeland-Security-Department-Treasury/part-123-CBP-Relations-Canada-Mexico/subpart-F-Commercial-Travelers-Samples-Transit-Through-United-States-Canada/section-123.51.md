@@ -6,9 +6,9 @@
 
 Samples Carried in Transit Through Canada in Private Vehicle(U.S. port of exit printed here) (Date)
 
-I have checked the quantity and values of the below-listed articles carried by \_\_\_\_\_\_\_\_\_\_(Name and address of traveler) and owned by \_\_\_\_\_\_\_\_\_\_(Name and address of firm or company)
+I have checked the quantity and values of the below-listed articles carried by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name and address of traveler) and owned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name and address of firm or company)
 
-These articles are contained in \_\_\_\_ (Number) packages which have been corded and sealed for in-transit movement through Canada to \_\_\_\_ (U.S. port of reentry) in \_\_\_\_ (Year, make and license number of vehicle)(U.S. Customs Inspector)
+These articles are contained in \_\_\_\_\_\_\_\_ (Number) packages which have been corded and sealed for in-transit movement through Canada to \_\_\_\_\_\_\_\_ (U.S. port of reentry) in \_\_\_\_\_\_\_\_ (Year, make and license number of vehicle)(U.S. Customs Inspector)
 
 *Description of merchandise Value*
 

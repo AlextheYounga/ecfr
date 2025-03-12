@@ -6,7 +6,7 @@
 
 (c) The certificate to be furnished by the foreign shipper for the use of the director of the port of entry shall be in the following form:
 
-I, \_\_\_\_\_\_\_\_, of \_\_\_\_\_\_\_\_, do hereby certify that to the best of my knowledge and belief the substantial containers and holders mentioned in (the annexed invoice) (invoice No. \_\_\_\_ of \_\_\_\_, 19\_\_) \* are of the manufacture of \_\_\_\_\_\_\_\_ and were exported from the United States at the port of \_\_\_\_\_\_, per S.S. \_\_\_\_\_\_\_\_ on \_\_\_\_\_, 19\_\_, and that the same are being returned to the United States (empty) filled with \_\_\_\_) (holdings \_\_\_\_\_\_\_).\*
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do hereby certify that to the best of my knowledge and belief the substantial containers and holders mentioned in (the annexed invoice) (invoice No. \_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_, 19\_\_\_\_) \* are of the manufacture of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and were exported from the United States at the port of \_\_\_\_\_\_\_\_\_\_\_\_, per S.S. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ on \_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, and that the same are being returned to the United States (empty) filled with \_\_\_\_\_\_\_\_) (holdings \_\_\_\_\_\_\_\_\_\_\_\_\_\_).\*
 
 \* Cross out inapplicable words.
 

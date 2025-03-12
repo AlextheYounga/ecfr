@@ -6,4 +6,4 @@
 
 (c) Paragraphs (a) and (b) of this section apply only to goods entered for consumption, or withdrawn from warehouse for consumption, prior to July 1, 2020.
 
-[T.D. 96-48, 61 FR 28957, June 6, 1996, as amended at 86 FR 35582, July 6, 2021]
+[T.D. 96-48, 61 FR 28957, June 6, 1996, as amended by CBP Dec. 21-10, 86 FR 35582, July 6, 2021]

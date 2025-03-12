@@ -10,4 +10,4 @@
 
 (d) *Colonies, possessions, or protectorates.* The name of a colony, possession, or protectorate outside the boundaries of the mother country shall usually be considered acceptable marking. When the Commissioner of Customs finds that the name is not sufficiently well known to insure that the ultimate purchasers will be fully informed of the country of origin, or where the name appearing alone may cause confusion, deception, or mistake, clarifying words shall be required. In such cases, the Commissioner of Customs shall specify in decisions published in the Federal Register and the Customs Bulletin the additional wording to be used in conjunction with the name of the colony, possession, or protectorate.
 
-[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 94-1, 58 FR 69472, Dec. 30, 1993; 86 FR 35582, July 6, 2021]
+[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 94-1, 58 FR 69472, Dec. 30, 1993; CBP Dec. 21-10, 86 FR 35582, July 6, 2021]

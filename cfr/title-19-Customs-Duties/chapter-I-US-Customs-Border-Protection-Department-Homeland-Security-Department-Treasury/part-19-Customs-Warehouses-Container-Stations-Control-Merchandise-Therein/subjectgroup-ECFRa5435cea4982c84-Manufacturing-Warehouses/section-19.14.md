@@ -6,11 +6,11 @@
 
 (c) *Domestic merchandise.* When the proprietor of any bonded manufacturing warehouse desires to receive therein any domestic merchandise, except merchandise subject to internal-revenue tax, to be used in connection with the manufacturer of articles permitted to be manufactured in such warehouse, including packages, coverings, vessels, and labels used in putting up such articles, an application in the following form shall be sent to the port director for approval and after approval retained by the warehouse proprietor:
 
-Application To Receive Free MaterialsPort of\_\_\_\_\_\_\_\_\_\_, 19\_\_.
+Application To Receive Free MaterialsPort of\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 To the Port Director:
 
-Application is hereby made to receive into the bonded manufacturing warehouse known as \_\_\_\_\_\_\_\_, situated at \_\_\_\_\_\_\_\_ the following described articles and materials:
+Application is hereby made to receive into the bonded manufacturing warehouse known as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, situated at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ the following described articles and materials:
 
 |Marks|Nos.|Description|Quantity|Value|
 |-----|----|-----------|--------|-----|
@@ -18,7 +18,7 @@ Application is hereby made to receive into the bonded manufacturing warehouse kn
 |     |    |           |        |     |
 |     |    |           |        |     |
 
-(Signature)Port\_\_\_\_\_\_\_\_\_\_, 19\_\_.To the warehouse proprietor in charge of the bonded manufacturing warehouse specified above:
+(Signature)Port\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.To the warehouse proprietor in charge of the bonded manufacturing warehouse specified above:
 
 The above described articles and materials are hereby permitted to be received into the warehouse in your charge, to be used therein in connection with the manufacture of articles as authorized by law.
 

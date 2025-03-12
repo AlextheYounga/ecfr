@@ -14,21 +14,21 @@
 
 Corporate Sureties Agreement for Limitation of Liability
 
-\_\_ (name of surety), \_\_ (surety code), a surety company incorporated under laws of the State of \_\_, authorized to conduct a surety business in the State of \_\_, and having its principal place of business at \_\_ (address), and \_\_ (names of surety), \_\_ (surety code), a surety company incorporated under the laws of the State of \_\_ and having its principal place of business at \_\_ (address), as sureties, and \_\_ (name of principal), as principal, are jointly and severally obligated to the United States in the amount of \_\_ ($ ) on a bond executed on \_\_ (date of execution) with each surety jointly and severally obligate with the principal in the amounts listed below and no more:
+\_\_\_\_ (name of surety), \_\_\_\_ (surety code), a surety company incorporated under laws of the State of \_\_\_\_, authorized to conduct a surety business in the State of \_\_\_\_, and having its principal place of business at \_\_\_\_ (address), and \_\_\_\_ (names of surety), \_\_\_\_ (surety code), a surety company incorporated under the laws of the State of \_\_\_\_ and having its principal place of business at \_\_\_\_ (address), as sureties, and \_\_\_\_ (name of principal), as principal, are jointly and severally obligated to the United States in the amount of \_\_\_\_ ($ ) on a bond executed on \_\_\_\_ (date of execution) with each surety jointly and severally obligate with the principal in the amounts listed below and no more:
 
-\_\_ (name of surety) \_\_
+\_\_\_\_ (name of surety) \_\_\_\_
 
 ($ )
 
-\_\_ (name of surety) \_\_
+\_\_\_\_ (name of surety) \_\_\_\_
 
 ($ )
 
 By this agreement the principal and sureties bind themselves and agree that for the purpose of allowing a joint action against any or all of them, and for that purpose only, this agreement and the bond under which they are obligated and which is incorporated by reference into this agreement, shall be treated as the joint and several as well as the several obligation of each of the parties.
 
-Signed and sealed this \_\_\_\_\_\_ day of \_\_\_\_\_\_20\_\_
+Signed and sealed this \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_20\_\_\_\_
 
-\_\_Principal\_\_Surety\_\_Surety\_\_Authorized CBP officer
+\_\_\_\_Principal\_\_\_\_Surety\_\_\_\_Surety\_\_\_\_Authorized CBP officer
 
 (g) *Power of attorney for the agent or attorney of the surety.* Corporations may execute powers of attorney to act in their behalf in the following manner:
 

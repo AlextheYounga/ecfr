@@ -1,6 +1,6 @@
 ##### § 273.15 Procedures. #####
 
-(a) *Sale of surplus and FEPP, scrap generated from QRPS, and non-QRP scrap* - (1) *Authority and scope* - (i) *FPMR and FMR.* The provisions of this section are pursuant to 41 CFR chapters 101 and 102, also known as the FPMR and FMR, respectively.
+(a) *Sale of surplus and FEPP, scrap generated from QRPS, and non-QRP scrap*—(1) *Authority and scope*—(i) *FPMR and FMR.* The provisions of this section are pursuant to 41 CFR chapters 101 and 102, also known as the FPMR and FMR, respectively.
 
 (ii) *Additional guidance.* (A) Policy and procedures for the control of MLIs and Commerce Control List (CCL) items are contained in DoD Instruction 4160.28, DoD 4160.28-M Volumes 1-3, DoD Instruction 4140.62, “Materiel Potentially Presenting an Explosive Hazard” (available at *http://www.dtic.mil/whs/directives/corres/pdf/414062p.pdf*), the International Traffic in Arms Regulations (ITAR) in 22 CFR parts 120 through 130, and the EAR in 15 CFR parts 730 through 774, and incorporated in the provisions of DoD Instruction 2030.08.
 
@@ -82,7 +82,7 @@
 
 (xi) DoD Components will update the DoD IUID Registry when an item of personal property with a UII is declared FEPP, excess and surplus personal property and is subject to reutilization, transfer, or sale. The procedures required to update the DoD IUID Registry are in § 273.9.
 
-(4) *Responsibilities in selling personal property* - (i) *Selling agencies*. Selling agencies:
+(4) *Responsibilities in selling personal property*—(i) *Selling agencies*. Selling agencies:
 
 (A) Determine whether to sell as the holding agency or request another agency to sell on behalf of the holding agency.
 
@@ -124,7 +124,7 @@
 
 (D) Verify that personal property items marked with a UII and offered for sale have been updated in the DoD IUID Registry.
 
-(iii) *Authorized methods of sale* - (A) *General.* Sale of personal property is authorized in 41 CFR part 102-38 by the methods of sale identified in paragraphs (a)(4)(iii)(A)(*1*) through (*4*) of this section. (See § 273.12 for definitions.)
+(iii) *Authorized methods of sale*—(A) *General.* Sale of personal property is authorized in 41 CFR part 102-38 by the methods of sale identified in paragraphs (a)(4)(iii)(A)(*1*) through (*4*) of this section. (See § 273.12 for definitions.)
 
 (*1*) Sealed bid.
 
@@ -228,7 +228,7 @@
 
 (iv) Distribute sale offerings to prospective purchasers before the first day of the inspection period.
 
-(6) *Pre-sale activities* - (i) *Preparation and distribution of sale offerings* - (A) Include in the offer to sell sale date and time, method of sale, description of the property being offered, selling agency, location of property, time and place for receipt of bids, acceptable forms of bid deposits and payments, and general and special terms and conditions of sale. DLA Disposition Services sale offerings are available on the DLA Disposition Services Web site (*www.dispositionservices.dla.mil*).
+(6) *Pre-sale activities*—(i) *Preparation and distribution of sale offerings*—(A) Include in the offer to sell sale date and time, method of sale, description of the property being offered, selling agency, location of property, time and place for receipt of bids, acceptable forms of bid deposits and payments, and general and special terms and conditions of sale. DLA Disposition Services sale offerings are available on the DLA Disposition Services Web site (*www.dispositionservices.dla.mil*).
 
 (B) Establish a sales offering file that contains information about the property offered for sale from initiation to bid opening (*e.g.,* sale catalog, withdrawals prior to bid opening, agreements with holding activities).
 
@@ -370,7 +370,7 @@
 
 (v) If a SAR or SCO suspects affiliation, the SAR or SCO will contact the bidder and advise that the monies have been deposited according to the procedures in 31 U.S.C. 3711-3720E for the collection of debts owed to the United States.
 
-(10) *Bid evaluation* - (i) *Responsive bids and responsible bidders.* (A) Only responsive bids (as defined in the § 273.12) may be considered for award.
+(10) *Bid evaluation*—(i) *Responsive bids and responsible bidders.* (A) Only responsive bids (as defined in the § 273.12) may be considered for award.
 
 (B) Bidders do not have to use authorized bid forms. The bid may be considered when the bidder agrees to all of the terms and conditions and acknowledges that the offer may result in a binding contract award.
 
@@ -396,7 +396,7 @@
 
 (viii) *Protests.* Protests by bidders regarding validity of determinations made on the sale of personal property may be submitted to the DLA Disposition Services Comptroller General or comptroller general for the selling agent.
 
-(11) *Awarding sales contracts* - (i) *Selling agents.* SARs or SCOs will:
+(11) *Awarding sales contracts*—(i) *Selling agents.* SARs or SCOs will:
 
 (A) Be appointed by agency heads or their designees to act as selling agents for the USG.
 
@@ -520,7 +520,7 @@
 
 (ii) The report is submitted not later than March 31 of each year. The Secretary of Defense is required to submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate the report required by this section for the preceding fiscal year. DLA Disposition Services includes shipments made during the reporting period to its business partner.
 
-(19) *Special program sales* - (i) *Resource recovery and recycling program.* (A) All DoD installations worldwide will have recycling programs as required by DoD Instruction 4715.4 with goals for recycling as outlined in Executive Order 13514.
+(19) *Special program sales*—(i) *Resource recovery and recycling program.* (A) All DoD installations worldwide will have recycling programs as required by DoD Instruction 4715.4 with goals for recycling as outlined in Executive Order 13514.
 
 (*1*) Pursuant to 10 U.S.C. 2577 and 48 CFR subpart 209.4 of the DFARS, each installation worldwide will have or be associated with a QRP or recycling program available to the installation to appropriately dispose of all recyclable materials for all activities. This includes all DoD facilities not on a military installation, tenant, leased, and government owned-contractor operated (GOCO) space.
 
@@ -532,15 +532,13 @@
 
 (C) Continually review each QRP to identify material appropriate for waste stream diversion, explore recycling methods, and identify potential markets. Additional recyclable material includes not only material generating profit, but material whose diversion from the waste stream generate a savings to the Department of Defense in disposal costs, or when diversion is required by State or local law or regulation. Material generated from nonappropriated or personal funds (*e.g.,* post consumer wastes from installation housing, and installation concessions) may be included.
 
-Table 1 - Examples of Material That Can Be Recycled Through QRP
-
 |EXAMPLES OF MATERIAL THAT CAN BE RECYCLED THROUGH QRP|                                                                                                                                                                                                                                                                                                                                                                                        |
-|:---------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                          1                          |                                                                                                                             Typical recyclable material found in the municipal solid waste stream (glass, plastic, aluminum, newspaper, cardboard, etc.).                                                                                                                              |
 |                          2                          |                                                                                                                                                             Scrap metal from non-defense working capital fund activities.                                                                                                                                                              |
 |                          3                          |Expended small arms cartridge cases that are 50-caliber (12.7 mm) and smaller not suitable for reloading that have been mutilated or otherwise rendered unusable and gleanings made unusable for military firing e.g., crushed, shredded, annealed, or otherwise rendered unusable as originally intended prior to recycling in accordance with DoD Instruction 4715.4, except overseas.|
 |                          4                          |                                                                                                                                                              Storage and beverage containers (metal, glass, and plastic).                                                                                                                                                              |
-|                          5                          |                                                                                                                                              Office paper (high-quality, bond, computer, mixed, telephone books, and Federal Registers).                                                                                                                                               |
+|                          5                          |                                                                                                                                            Office paper (high-quality, bond, computer, mixed, telephone books, and **Federal Registers**).                                                                                                                                             |
 |                          6                          |                                                                                                                                Commissary store cardboard and exchange store wastes (cardboard), if the commissary or exchange chooses to use the QRP.                                                                                                                                 |
 |                          7                          |                                                                                                                                                                            Scrap wood and unusable pallets.                                                                                                                                                                            |
 |                          8                          |                                                                                                                                                 Rags and textile wastes that have not been contaminated with hazardous material or HW.                                                                                                                                                 |
@@ -550,10 +548,8 @@ Table 1 - Examples of Material That Can Be Recycled Through QRP
 |                         12                          |                                                                                                                                                             Office-type furniture that is broken or too costly to repair.                                                                                                                                                              |
 |                         13                          |                                                                                                                                                                       Donated privately owned personal property.                                                                                                                                                                       |
 
-Table 2 - Examples of Material That Cannot Be Recycled Through QRP
-
 |EXAMPLES OF MATERIAL THAT CANNOT BE RECYCLED THROUGH QRP|                                                                                                                                                                                                                             |
-|:------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                           1                            |                                                                                                      PM-bearing scrap.                                                                                                      |
 |                           2                            |                                                                             Scrap metal generated from a defense working capital fund activity.                                                                             |
 |                           3                            |Items, such as MLI indicated in item 10 of this table, that must be demilitarized (DEMIL) at any time during their life cycle, except for small arms and light weapons brass and gleanings as described in item 3 of Table 1.|
@@ -587,7 +583,7 @@ Table 2 - Examples of Material That Cannot Be Recycled Through QRP
 
 (C) The DLA Disposition Services is the primary office to conduct CSLA sales following the direction for pricing and disposition as specified in DoD Directive 3230.3 Sales will be by competitive bid to U.S. firms or persons having demonstrated action toward becoming a commercial launch provider. The DoD CIO and the Secretary of the U.S. Air Force (USAF) designated representative will support DLA Disposition Services, as necessary, in the sale or transfer of excess and surplus personal property to the private sector, including the identification of potential bidders and any special sales terms and conditions. The generating activity will assist, as necessary, in completing sales transactions.
 
-(b) *Security assistance or FMS* - (1) *Statutory authority.* Authority for security assistance is provided primarily under 22 U.S.C. 2751 *et seq.* (also known as the Arms Export Control Act) and annual appropriation acts for foreign operations, export financing, and related programs.
+(b) *Security assistance or FMS*—(1) *Statutory authority.* Authority for security assistance is provided primarily under 22 U.S.C. 2751 *et seq.* (also known as the Arms Export Control Act) and annual appropriation acts for foreign operations, export financing, and related programs.
 
 (2) *Security assistance program requirements.* (i) Security assistance transfers are authorized under the premise that if these transfers are essential to the security and economic well-being of friendly governments and international organizations, they are equally vital to the security and economic well-being of the United States. Security assistance programs support U.S. national security and foreign policy objectives.
 
@@ -595,7 +591,7 @@ Table 2 - Examples of Material That Cannot Be Recycled Through QRP
 
 (3) *Foreign purchased property.* Disposal initiatives and actions will be in accordance with DoD 5105.38-M or guidance provided by security assistance implementing agencies on a case-by-case basis.
 
-(4) *FMS disposal process summary* - (i) *Defense disposal services.* (A) FEPP, excess, and surplus personal property may be made available to foreign countries and international organizations designated as eligible to purchase property or services in accordance with 22 U.S.C. 2151, 2321b, 2321j, 2443, 2751, and 2778 *et seq.* Such defense articles may be made available for sale under the FMS Program. Transactions under this authority are reimbursable.
+(4) *FMS disposal process summary*—(i) *Defense disposal services.* (A) FEPP, excess, and surplus personal property may be made available to foreign countries and international organizations designated as eligible to purchase property or services in accordance with 22 U.S.C. 2151, 2321b, 2321j, 2443, 2751, and 2778 *et seq.* Such defense articles may be made available for sale under the FMS Program. Transactions under this authority are reimbursable.
 
 (B) FMS transactions are completed by use of letters of offer and acceptance and the procedures specified in DoD 5105.38-M.
 
@@ -635,7 +631,7 @@ Table 2 - Examples of Material That Cannot Be Recycled Through QRP
 
 (D) Pricing of FMS is governed by DoD 7000.14-R.
 
-(c) *Reutilization or transfer, excess screening, and issue (includes donation of DLA Disposition Services assets)* - (1) *Authority and scope.* (i) The provisions of this section are based on the guidelines of 41 CFR chapters 101 and 102.
+(c) *Reutilization or transfer, excess screening, and issue (includes donation of DLA Disposition Services assets)*—(1) *Authority and scope.* (i) The provisions of this section are based on the guidelines of 41 CFR chapters 101 and 102.
 
 (ii) The scope of this section includes the RTD screening, ordering, issuing, and shipment of DoD FEPP, excess, and surplus personal property.
 
@@ -651,7 +647,7 @@ Table 2 - Examples of Material That Cannot Be Recycled Through QRP
 
 (iii) The UII mark, if applicable, will not be removed from a personal property item offered for RTD.
 
-(3) *Screening for personal property* - (i) *Screening.* (A) DoD reutilization is accomplished electronically via MILSTRIP and DLA Transaction Services, through the DLA Disposition Services Web site.
+(3) *Screening for personal property*—(i) *Screening.* (A) DoD reutilization is accomplished electronically via MILSTRIP and DLA Transaction Services, through the DLA Disposition Services Web site.
 
 (B) At the end of the DoD exclusive internal screening cycle, DoD excess property (excluding FEPP, scrap and HW) is transmitted to the GSAXcess®, and GSA assumes control of federal agency transfer and donation screening. The property remains in DLA Disposition Services accounts and can be viewed on their Web site.
 
@@ -665,7 +661,7 @@ Table 2 - Examples of Material That Cannot Be Recycled Through QRP
 
 (G) DLA Disposition Services provides reasonable access to authorized personnel for inspection and removal of excess personal property.
 
-(ii) *CONUS screening timeline for excess personal property* - (A) *Accumulation period.* DLA Disposition Services accumulates property throughout the week as it is inspected and added to the inventory system. As property is added to the inventory system, it is visible for ordering by DoD customers only. This accumulation period ends each Friday, prior to the start of the official 42 day screening timeline.
+(ii) *CONUS screening timeline for excess personal property*—(A) *Accumulation period.* DLA Disposition Services accumulates property throughout the week as it is inspected and added to the inventory system. As property is added to the inventory system, it is visible for ordering by DoD customers only. This accumulation period ends each Friday, prior to the start of the official 42 day screening timeline.
 
 (B) *DoD and Special Programs screening Cycle (14 days).* DoD and the Special Programs identified in § 273.8 have exclusive ordering authority during the first 14 days of the screening timeline. DoD reutilization requirements have priority during this cycle, and property will not be issued to Special Programs until the end of this cycle.
 
@@ -676,8 +672,6 @@ Table 2 - Examples of Material That Cannot Be Recycled Through QRP
 (E) *Final reutilization/transfer/donation (RTD2) screening (2 days).* The final 2 days of screening are available to all RTD customers for any remaining property on a first come, first served basis.
 
 (F) Table 3 of this section summarizes the priority of issue and the timelines associated with screening and issue of property.
-
-Table 3 - Summary of Screening and Issue Timelines in Order of Issue Priority
 
 | RTD Method  |     Eligibility     |Screening period|Issuing period|
 |-------------|---------------------|----------------|--------------|
@@ -720,7 +714,7 @@ Table 3 - Summary of Screening and Issue Timelines in Order of Issue Priority
 
 (C) Orders for property during the internal screening periods will be prepared according to MILSTRIP and submitted to DLA Disposition Services.
 
-(ix) *Issues to and turn-ins by special programs and activities* - (A) *DoD HAP.* (*1*) The DoD HAP is authorized to dispose excess property through DoD DLA Disposition Services site channels.
+(ix) *Issues to and turn-ins by special programs and activities*—(A) *DoD HAP.* (*1*) The DoD HAP is authorized to dispose excess property through DoD DLA Disposition Services site channels.
 
 (*2*) Providing non-lethal DoD excess personal property for humanitarian purposes is authorized pursuant to 10 U.S.C. 2557. Preparation and transportation of this property is carried out in accordance with 10 U.S.C. 2661. HAP allows DoD to make available, prepare, and transport non-lethal, excess DoD property for distribution by DOS for humanitarian reasons. The program is managed by the DSCA Office of Humanitarian Assistance and Demining.
 
@@ -731,8 +725,6 @@ Table 3 - Summary of Screening and Issue Timelines in Order of Issue Priority
 (*1*) 10 U.S.C. 2576a authorizes the Secretary of Defense, in consultation with the Director, Office of National Drug Control Policy, and DOJ, to transfer excess DoD property, including small arms, light weapons, and ammunition, to federal and State LEAs, including counterdrug and counterterrorism activities. The federal program is known as the 1033 Program. The DLA Disposition Services has managerial responsibilities in support of such transfers and will establish business relationships with participating States by memorandum of agreement (MOA).
 
 (*2*) LEAs will return sensitive or controlled DEMIL-required property originally ordered from DLA Disposition Services when no longer needed. DEMIL-required equipment that is the responsibility of the LEA must be demilitarized in accordance with DoD 4160.28-M Volumes 1-3. Due to constant changes and development of new technology, Table 4 of this section is only a partial list of NSNs that may contain radioactive components as identified for Army Navy (AN) night vision equipment codes in DoD 4160.28-M, Volume 2. These NSNs and many others should not be transferred to DLA Disposition Services sites. The turn-in activity will verify with the DLA Disposition Services site whether equipment contains radioactive components before turning in any night vision equipment.
-
-Table 4 - NSNs With Radioactive Components
 
 |    NSN No.     |Radioactive component|
 |----------------|---------------------|
@@ -782,7 +774,7 @@ Table 4 - NSNs With Radioactive Components
 
 (*ii*) A statement if the property is to be used for display, exchange, or use (*e.g.,* property needed to maintain the museums' buildings and grounds, for day-to-day housekeeping operations, or to maintain displays).
 
-(*iii*) Only DEMIL Code “A” property is requested. Examples of DEMIL Code A items suitable for housekeeping purposes by DoD museums may include: Federal Supply Classification Groups (FSGs) 52 - hand tools; 53 - hardware; 55 - lumber; 56 - construction materials; 61 - electric wire; 62 - lighting fixtures; 71 - furniture; 72 - furnishings; 75 - office supplies; 79 - cleaning equipment; 80 - brushes and paints. Orders of property for exchange will reflect the DoDAAC of the DoD Military Department museums. An exception to this procedure applies to M151 series, M561, and M792 (Gamma Goat) vehicles. Although coded as DEMIL Code A, exchange of the vehicles is prohibited.
+(*iii*) Only DEMIL Code “A” property is requested. Examples of DEMIL Code A items suitable for housekeeping purposes by DoD museums may include: Federal Supply Classification Groups (FSGs) 52—hand tools; 53—hardware; 55—lumber; 56—construction materials; 61—electric wire; 62—lighting fixtures; 71—furniture; 72—furnishings; 75—office supplies; 79—cleaning equipment; 80—brushes and paints. Orders of property for exchange will reflect the DoDAAC of the DoD Military Department museums. An exception to this procedure applies to M151 series, M561, and M792 (Gamma Goat) vehicles. Although coded as DEMIL Code A, exchange of the vehicles is prohibited.
 
 (*5*) DLA Disposition Services sites will:
 
@@ -850,7 +842,7 @@ Table 4 - NSNs With Radioactive Components
 
 (*4*) Orders will be completed in accordance with Chapter 11 of DLM 4000.25-1 and include the DoDAAC assigned to the contractor. These orders must be processed by the MCA having cognizance of the applicable contract.
 
-(*5*) Property ordered must be authorized and listed in the DoD contract(s) for which the property will be used, recorded in the ICP's MCA responsible for the contract, and the use of the ordered property approved by the CO or CO's representative (COR) for such contract(s). Each electronic or manual order (DD Form 1348-1A) must contain the signature and title of the CO or COR authorizing the withdrawal of excess DoD property from the disposal system. Each order must also contain the certification: “For use under Contract No(s).\_\_\_.” The certification should be signed by an authorized official and should indicate his or her official title.
+(*5*) Property ordered must be authorized and listed in the DoD contract(s) for which the property will be used, recorded in the ICP's MCA responsible for the contract, and the use of the ordered property approved by the CO or CO's representative (COR) for such contract(s). Each electronic or manual order (DD Form 1348-1A) must contain the signature and title of the CO or COR authorizing the withdrawal of excess DoD property from the disposal system. Each order must also contain the certification: “For use under Contract No(s).\_\_\_\_\_.” The certification should be signed by an authorized official and should indicate his or her official title.
 
 (*6*) DLA Disposition Services sites cannot guarantee the property withdrawn meets minimum specifications and standards in terms of quality, condition, and safety.
 
@@ -1078,7 +1070,7 @@ Table 4 - NSNs With Radioactive Components
 
 (B) When a prospective donation recipient contacts a DLA Disposition Services site or military installation regarding possible acquisition of surplus property, the individual or organization will be advised to contact the applicable SASP for determination of eligibility and procedures.
 
-(4) *Orders for FEPP, excess, and surplus property from DLA Disposition Services and GSA* - (i) *General.* (A) DoD activities, FCAs, and other authorized activities are permitted to order DoD FEPP, excess, and surplus personal property based on the property status at the time the authorized screener identifies its availability from the DLA Disposition Services Web site. This property may be ordered through DLA Disposition Services or GSA.
+(4) *Orders for FEPP, excess, and surplus property from DLA Disposition Services and GSA*—(i) *General.* (A) DoD activities, FCAs, and other authorized activities are permitted to order DoD FEPP, excess, and surplus personal property based on the property status at the time the authorized screener identifies its availability from the DLA Disposition Services Web site. This property may be ordered through DLA Disposition Services or GSA.
 
 (B) DLM 4000.25-1 requires orders for property on the DLA Disposition Services site's accountable records to be prepared on DD Forms 1348-1A or 1348-2. The use of the DLA Disposition Services Web site allows orders to be processed without hard copies of DD Forms 1348-1A or 1348-2. A separate order is required for each line item on a DLA Disposition Services site's inventory (except batchlots that are grouped together). The shopper will furnish the appropriate information either electronically or by hard copy.
 
@@ -1121,8 +1113,6 @@ Table 4 - NSNs With Radioactive Components
 (B) Orders for property received during the GSAXcess® screening period must be submitted according to GSA ordering procedures.
 
 (iv) *Requests for small arms and light weapons.* Small arms and light weapons (see § 273.12) will be processed according to the guidance in DoD Manual 4160.21, Volume 4. Table 5 of this section contains a list of Military Department and Defense Agency designated control points authorized to initiate orders or through which orders must be routed for review and approval before issue can be effected.
-
-Table 5 - DoD Designated Control Points for Small Arms and Light Weapons Ordering, Reviewing, and Approving
 
 |        Service/Agency         |                                                                                        Control point                                                                                        |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1192,7 +1182,7 @@ Table 5 - DoD Designated Control Points for Small Arms and Light Weapons Orderin
 
 (viii) GSA reviews and approves each order, each in its respective screening cycle (transfer or donation).
 
-(7) *Shipment or pick-up elections by customers* - (i) *Criteria for non-RCP property.* (A) DLA Disposition Services will make arrangements for shipment of non-RCP property from Military Department orders unless notified by the DoD Component of the intent to physically pick up the property. DLA Disposition Services has been authorized to use ground services for the movement of reutilization property. The DLA Disposition Services Transportation Office will notify DLA Disposition Services sites of the authorized carrier.
+(7) *Shipment or pick-up elections by customers*—(i) *Criteria for non-RCP property.* (A) DLA Disposition Services will make arrangements for shipment of non-RCP property from Military Department orders unless notified by the DoD Component of the intent to physically pick up the property. DLA Disposition Services has been authorized to use ground services for the movement of reutilization property. The DLA Disposition Services Transportation Office will notify DLA Disposition Services sites of the authorized carrier.
 
 (B) The DoD Component and special programs have 14 calendar days (15 days from the date on the order) to remove the non-RCP property ordered during the DoD screening cycles.
 
@@ -1218,7 +1208,7 @@ Table 5 - DoD Designated Control Points for Small Arms and Light Weapons Orderin
 
 (8) *Packing, crating, and handling.* See § 273.7.
 
-(9) *Shipment and removals (transportation).* - (i) *DoD and designated DoD-supported customers.* (A) Prudence in transportation services benefits the Military Departments, Defense Agencies, MARS, CAP, National Aeronautics and Space Administration (Space Shuttle Support), National Guard Units, Reserve Units, DoD contractor when approved by the CO, Senior ROTC, and MWRA/Services when ordered through the Military Department accountable officer and DLA Disposition Services.
+(9) *Shipment and removals (transportation).*—(i) *DoD and designated DoD-supported customers.* (A) Prudence in transportation services benefits the Military Departments, Defense Agencies, MARS, CAP, National Aeronautics and Space Administration (Space Shuttle Support), National Guard Units, Reserve Units, DoD contractor when approved by the CO, Senior ROTC, and MWRA/Services when ordered through the Military Department accountable officer and DLA Disposition Services.
 
 (B) In cases where the cost of the transportation exceeds the acquisition value of the property, DLA Disposition Services sites will evaluate the commodity and its actual value; make a judgment as to its true condition and the priority of the order.
 
@@ -1268,7 +1258,7 @@ Table 5 - DoD Designated Control Points for Small Arms and Light Weapons Orderin
 
 (*3*) Quantity not available.
 
-(11) *Customer removal of ordered property* - (i) *Identification requirements.* When a customer (DoD election to pick up property ordered from the DLA Disposition Services site or an FCA or donee) makes removal arrangements, the individuals removing the property must be properly identified. Coordinate with DLA Disposition Services prior to arrival to complete and transmit documents for identification.
+(11) *Customer removal of ordered property*—(i) *Identification requirements.* When a customer (DoD election to pick up property ordered from the DLA Disposition Services site or an FCA or donee) makes removal arrangements, the individuals removing the property must be properly identified. Coordinate with DLA Disposition Services prior to arrival to complete and transmit documents for identification.
 
 (A) Upon arrival at the DLA Disposition Services site, the individuals will identify themselves, sign a DLA Disposition Services visitor and vehicle register and indicate on the register the DoDAAC represented (for DoD activities) or AAC represented (for non-DoD activities), and the purpose of the visit.
 

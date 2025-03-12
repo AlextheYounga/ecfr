@@ -4,15 +4,14 @@
 
 I hereby certify:
 
-1. That the following articles imported in the \_\_\_\_\_\_\_\_\_\_\_\_ (Name of Carrier) at the port of \_\_\_\_\_\_\_\_\_\_\_\_ (Port) on \_\_\_\_\_\_ (Date) consist of returned products which are the growth, produce, or manufacture of the United States, and have been returned to the United States without having been advanced in value or improved in condition by any process of manufacture or other means, and that no drawback has been or will be claimed on such articles, and that the articles currently belonging to and are for the further use of \_\_\_\_\_\_\_\_\_\_\_\_ (Agency or Office)
+1. That the following articles imported in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of Carrier) at the port of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Port) on \_\_\_\_\_\_\_\_\_\_\_\_ (Date) consist of returned products which are the growth, produce, or manufacture of the United States, and have been returned to the United States without having been advanced in value or improved in condition by any process of manufacture or other means, and that no drawback has been or will be claimed on such articles, and that the articles currently belonging to and are for the further use of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Agency or Office)
 
-|Number of containers|Bill of lading No.<sup>1</sup>|General description of articles|
-|--------------------|------------------------------|-------------------------------|
-|                    |                              |                               |
-|                    |                              |                               |
-|                    |                              |                               |
-
-<sup>1</sup> If shipment arrives in the United States on a commercial carrier.
+|                             Number of containers                             |Bill of lading No. <sup>1</sup>|General description of articles|
+|------------------------------------------------------------------------------|-------------------------------|-------------------------------|
+|                                                                              |                               |                               |
+|                                                                              |                               |                               |
+|                                                                              |                               |                               |
+|<sup>1</sup> If shipment arrives in the United States on a commercial carrier.|                               |                               |
 
 2. That the shipment does not contain military scrap.
 
@@ -22,7 +21,7 @@ I hereby certify:
 
  or
 
-I am an officer or official authorized by \_\_\_\_\_\_\_\_ (Agency or Office) (Whichever is applicable) to execute this certificate.
+I am an officer or official authorized by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Agency or Office) (Whichever is applicable) to execute this certificate.
 
  (Name)(Rank and branch of service or Agency or Office)
 

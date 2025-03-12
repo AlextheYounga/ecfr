@@ -16,10 +16,4 @@ As used in this subpart:
 
 (2) The DDO for a Regional Assistance Agreement Dispute is the Regional Administrator or the official designated by the Regional Administrator to issue the written decision resolving the Dispute. To provide for a fair and impartial review, the AO for the challenged Agency Decision may not serve as the Regional DDO.
 
-(f) *Review Official* is the EPA official responsible for issuing a decision resolving an Affected Entity's request for review of a DDO's Appeal decision.
-
-(1) For a Headquarters DDO Appeal decision, the Review Official is the Director of the Office of Grants and Debarment or designee.
-
-(2) For a Regional DDO Appeal decision, the Review Official is the Regional Administrator or designee.
-
-[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020; 85 FR 61574, Sept. 30, 2020]
+[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020; 85 FR 61574, Sept. 30, 2020, as amended at 87 FR 30397, May 19, 2022]

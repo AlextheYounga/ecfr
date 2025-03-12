@@ -6,7 +6,7 @@
 
 Certificate of Official Inspection of Matches
 
-I, \_\_\_\_\_\_\_\_ (Name), do hereby certify that I am the \_\_\_\_\_\_ (Official title), that according to the chemical analysis made by me the matches described below do not contain white or yellow phosphorus and that therefore they are not white phosphorus matches as defined in the Act of Congress of the United States of America approved April 9, 1912;
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name), do hereby certify that I am the \_\_\_\_\_\_\_\_\_\_\_\_ (Official title), that according to the chemical analysis made by me the matches described below do not contain white or yellow phosphorus and that therefore they are not white phosphorus matches as defined in the Act of Congress of the United States of America approved April 9, 1912;
 
 |Number of case mark|Description of matches|Name and address of manufacturer|Name of consignee and address, vessel, and date of shipment|
 |-------------------|----------------------|--------------------------------|-----------------------------------------------------------|

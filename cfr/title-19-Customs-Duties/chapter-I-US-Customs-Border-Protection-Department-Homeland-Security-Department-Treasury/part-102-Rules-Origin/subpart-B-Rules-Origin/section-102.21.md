@@ -1,20 +1,72 @@
 ##### § 102.21 Textile and apparel products. #####
 
-                                                                                                            (a) *Applicability.* Except for purposes of determining whether goods originate in Israel or are the growth, product, or manufacture of Israel, and except as otherwise provided for by statute, the provisions of this section will control the determination of the country of origin of imported textile and apparel products for purposes of the Customs laws and the administration of quantitative restrictions. The provisions of this section will apply to goods entered, or withdrawn from warehouse, for consumption on or after July 1, 1996.
+(a) *Applicability.* Except for purposes of determining whether goods originate in Israel or are the growth, product, or manufacture of Israel, and except as otherwise provided for by statute, the provisions of this section will control the determination of the country of origin of imported textile and apparel products for purposes of the Customs laws and the administration of quantitative restrictions. The provisions of this section will apply to goods entered, or withdrawn from warehouse, for consumption on or after July 1, 1996.
 
-                                                                                                            (b) *Definitions.* The following terms will have the meanings indicated when used in this section:
+(b) *Definitions.* The following terms will have the meanings indicated when used in this section:
 
-                                                                                                            (1) *Country of origin.* The term country of origin means the country, territory, or insular possession in which a good originates or of which a good is the growth, product, or manufacture.
+(1) *Country of origin.* The term country of origin means the country, territory, or insular possession in which a good originates or of which a good is the growth, product, or manufacture.
 
-                                                                                                            (2) *Fabric-making process.* A *fabric-making process* is any manufacturing operation that begins with polymers, fibers, filaments (including strips), yarns, twine, cordage, rope, or fabric strips and results in a textile fabric.
+(2) *Fabric-making process.* A *fabric-making process* is any manufacturing operation that begins with polymers, fibers, filaments (including strips), yarns, twine, cordage, rope, or fabric strips and results in a textile fabric.
 
-                                                                                                            (3) *Knit to shape.* The term *knit to shape* applies to any good of which 50 percent or more of the exterior surface area is formed by major parts that have been knitted or crocheted directly to the shape used in the good, with no consideration being given to patch pockets, appliques, or the like. Minor cutting, trimming, or sewing of those major parts will not affect the determination of whether a good is “knit to shape.”
+(3) *Knit to shape.* The term *knit to shape* applies to any good of which 50 percent or more of the exterior surface area is formed by major parts that have been knitted or crocheted directly to the shape used in the good, with no consideration being given to patch pockets, appliques, or the like. Minor cutting, trimming, or sewing of those major parts will not affect the determination of whether a good is “knit to shape.”
 
-                                                                                                            (4) *Major parts.* The term *major parts* means integral components of a good but does not include collars, cuffs, waistbands, plackets, pockets, linings, paddings, trim, accessories, or similar parts.
+(4) *Major parts.* The term *major parts* means integral components of a good but does not include collars, cuffs, waistbands, plackets, pockets, linings, paddings, trim, accessories, or similar parts.
 
-                                                                                                            (5) *Textile or apparel product.* A *textile or apparel product* is any good classifiable in Chapters 50 through 63, Harmonized Tariff Schedule of the United States (HTSUS), and any good classifiable under one of the following HTSUS headings or subheadings:
+(5) *Textile or apparel product.* A *textile or apparel product* is any good classifiable in Chapters 50 through 63, Harmonized Tariff Schedule of the United States (HTSUS), and any good classifiable under one of the following HTSUS headings or subheadings:
 
-                                                                                                            3005.903921.12.153921.13.153921.90.25504202.12.40-804202.22.40-804202.32.40-954202.92.04-084202.92.15-304202.92.60-906405.20.606406.10.776406.10.906406.99.156501650265046505.906601.10-997019.19.157019.19.287019.40-598708.2188049113.90.409404.909612.10.9010
+3005.90
+
+3921.12.15
+
+3921.13.15
+
+3921.90.2550
+
+4202.12.40-80
+
+4202.22.40-80
+
+4202.32.40-95
+
+4202.92.04-08
+
+4202.92.15-30
+
+4202.92.60-90
+
+6405.20.60
+
+6406.10.77
+
+6406.10.90
+
+6406.99.15
+
+6501
+
+6502
+
+6504
+
+6505.90
+
+6601.10-99
+
+7019.19.15
+
+7019.19.28
+
+7019.40-59
+
+8708.21
+
+8804
+
+9113.90.40
+
+9404.90
+
+9612.10.9010
 
 (6) *Wholly assembled.* The term “wholly assembled” when used with reference to a good means that all components, of which there must be at least two, preexisted in essentially the same condition as found in the finished good and were combined to form the finished good in a single country, territory, or insular possession. Minor attachments and minor embellishments (for example, appliques, beads, spangles, embroidery, buttons) not appreciably affecting the identity of the good, and minor subassemblies (for example, collars, cuffs, plackets, pockets), will not affect the status of a good as “wholly assembled” in a single country, territory, or insular possession.
 
@@ -239,4 +291,4 @@
 
 (B) If the good is not knit to shape and consists of two or more component parts, the country of origin of the good is the country, territory, or insular possession in which a change to an assembled good of HTSUS subheading 6117.10 from unassembled components occurs, provided that the change is the result of the good being wholly assembled in a single country, territory, or insular possession.
 
-[T.D. 95-69, 60 FR 46197, Sept. 5, 1995, as amended by T.D. 96-56, 61 FR 37818, July 22, 1996; T.D. 99-64, 64 FR 43266, Aug. 10, 1999; T.D. 01-36, 66 FR 21661, May 1, 2001; 66 FR 23981, May 10, 2001; T.D. 02-47, 67 FR 51752, Aug. 9, 2002; T.D. 03-08, 68 FR 8713, Feb. 25, 2003; CBP Dec. 08-42, 73 FR 64538, Oct. 30, 2008; CBP Dec. 08-42, 73 FR 66171, Nov. 7, 2008; 76 FR 54697, Sept. 2, 2011; CBP Dec. 12-15, 77 FR 58938, Sept. 25, 2012; CBP Dec. 19-03, 84 FR , Mar. 12, 2019]
+[T.D. 95-69, 60 FR 46197, Sept. 5, 1995]Editorial Note:For Federal Register citations affecting § ,102.21 see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

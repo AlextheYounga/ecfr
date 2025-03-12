@@ -42,7 +42,7 @@
 
 (2) The final appraised value of the goods imported into the customs territory of the United States, as determined in accordance with section 402 of the Tariff Act of 1930, as amended (19 U.S.C. 1401a).
 
-(e) *Direct shipment* - (1) *General.* For purposes of this section, goods will be considered to come to the United States directly from an insular possession, or to be shipped from the United States directly to an insular possession and returned from the insular possession to the United States by direct shipment, only if:
+(e) *Direct shipment*—(1) *General.* For purposes of this section, goods will be considered to come to the United States directly from an insular possession, or to be shipped from the United States directly to an insular possession and returned from the insular possession to the United States by direct shipment, only if:
 
 (i) The goods proceed directly to or from the insular possession without passing through any foreign territory or country;
 
@@ -64,7 +64,7 @@
 
 (i) A declaration by the shipper in the insular possession in substantially the following form:
 
-I, \_\_\_\_\_\_\_\_\_\_ (name) of \_\_\_\_\_\_\_\_\_\_ (organization) do hereby declare that to the best of my knowledge and belief the goods identified below were sent directly from the United States on \_\_\_\_\_\_, 20\_\_, to \_\_\_\_\_\_\_\_\_\_ (name) of \_\_\_\_\_\_\_\_\_\_ (organization) on \_\_\_\_\_\_\_\_\_\_ (insular possession) via the \_\_\_\_\_\_\_\_\_\_ (name of carrier) and that the goods remained in said insular possession until shipped by me directly to the United States via the \_\_\_\_\_\_\_\_\_\_ (name of carrier) on \_\_\_\_\_\_, 20\_\_.
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name) of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (organization) do hereby declare that to the best of my knowledge and belief the goods identified below were sent directly from the United States on \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_, to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name) of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (organization) on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (insular possession) via the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name of carrier) and that the goods remained in said insular possession until shipped by me directly to the United States via the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name of carrier) on \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.
 
 |Marks|Numbers|Quantity|Description|Value|
 |-----|-------|--------|-----------|-----|
@@ -75,13 +75,13 @@ I, \_\_\_\_\_\_\_\_\_\_ (name) of \_\_\_\_\_\_\_\_\_\_ (organization) do hereby 
 |     |       |        |           |     |
 |     |       |        |           |     |
 
-Dated at \_\_\_\_\_\_\_\_, this \_\_\_\_ day of \_\_\_\_\_\_, 20\_\_.
+Dated at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.
 
 Signature:
 
 (ii) A declaration by the importer in the United States in substantially the following form:
 
-I, \_\_\_\_\_\_\_\_\_\_ (name), of \_\_\_\_\_\_\_\_\_\_ (organization) declare that the (above) (attached) declaration by the shipper in the insular possession is true and correct to the best of my knowledge and belief, that the goods in question were previously imported into the customs territory of the United States and were shipped to the insular possession from the United States without remission, refund or drawback of any duties or taxes paid in connection with that prior importation, and that the goods arrived in the United States directly from the insular possession via the \_\_\_\_\_\_\_\_\_\_ (name of carrier) on \_\_\_\_\_\_, 20\_\_.
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name), of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (organization) declare that the (above) (attached) declaration by the shipper in the insular possession is true and correct to the best of my knowledge and belief, that the goods in question were previously imported into the customs territory of the United States and were shipped to the insular possession from the United States without remission, refund or drawback of any duties or taxes paid in connection with that prior importation, and that the goods arrived in the United States directly from the insular possession via the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name of carrier) on \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.
 
 (Date)(Signature)
 

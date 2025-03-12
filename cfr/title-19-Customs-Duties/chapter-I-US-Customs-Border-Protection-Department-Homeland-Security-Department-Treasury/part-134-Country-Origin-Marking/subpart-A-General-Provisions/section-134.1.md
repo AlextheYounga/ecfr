@@ -34,4 +34,4 @@ When used in this part, the following terms shall have the meaning indicated:
 
 (l) *USMCA.* “USMCA” means the Agreement Between the United States of America, the United Mexican States, and Canada (USMCA), entered into force by the United States, Canada and Mexico on July 1, 2020.
 
-[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 94-1, 58 FR 69471, Dec. 30, 1993; T.D. 95-68, 60 FR 46362, Sept. 6, 1995; 86 FR 35582, July 6, 2021]
+[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 94-1, 58 FR 69471, Dec. 30, 1993; T.D. 95-68, 60 FR 46362, Sept. 6, 1995; CBP Dec. 21-10, 86 FR 35582, July 6, 2021]

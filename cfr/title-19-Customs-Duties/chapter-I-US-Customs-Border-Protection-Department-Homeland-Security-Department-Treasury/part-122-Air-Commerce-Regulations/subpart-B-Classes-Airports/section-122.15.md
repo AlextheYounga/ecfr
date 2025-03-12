@@ -26,7 +26,6 @@
 |      Fresno, California       |    Fresno Yosemite International Airport.    |
 |       Gypsum, Colorado        |        Eagle County Regional Airport.        |
 |       Harlingen, Texas        |        Valley International Airport.         |
-|       Hillsboro, Oregon       |              Hillsboro Airport.              |
 |    Johnson City, New York     |         Greater Binghamton Airport.          |
 |       Lakeland, Florida       |    Lakeland Linder International Airport.    |
 |       Lansing, Michigan       |    Capital Region International Airport.     |

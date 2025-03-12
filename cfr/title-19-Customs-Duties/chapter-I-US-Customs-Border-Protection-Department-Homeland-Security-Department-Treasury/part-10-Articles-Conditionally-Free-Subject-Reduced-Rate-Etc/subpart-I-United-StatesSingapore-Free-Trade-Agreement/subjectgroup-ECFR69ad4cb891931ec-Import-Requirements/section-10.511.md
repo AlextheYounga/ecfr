@@ -30,7 +30,7 @@ I agree to maintain and present upon request, documentation necessary to support
 
 The goods originated or are considered to have originated in the territory of one or more of the Parties, and comply with the origin requirements specified for those goods in the United States-Singapore Free Trade Agreement; there has been no further production or any other operation outside the territories of the parties, other than unloading, reloading, or any other operation necessary to preserve the goods in good condition or to transport the goods to the United States; and
 
-This document consists of \_\_\_ pages, including all attachments.”
+This document consists of \_\_\_\_\_\_ pages, including all attachments.”
 
 (b) *Responsible official or agent.* The supporting statement required to be submitted under paragraph (a) of this section must be signed and dated by a responsible official of the importer or by the importer's authorized agent having knowledge of the relevant facts.
 

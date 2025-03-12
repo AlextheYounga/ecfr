@@ -36,4 +36,4 @@ The articles described or meeting the specified conditions set forth below are e
 
 (q) Goods of a NAFTA or USMCA country which are provided for in subheading 6904.10 or heading 8541 or 8542 of the Harmonized Tariff Schedule of the United States (HTSUS) (19 U.S.C. 1202).
 
-[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 73-135, 38 FR 13369, May 21, 1973; T.D. 73-175, 38 FR 17447, July 2, 1973; T.D. 94-1, 58 FR 69471, Dec. 30, 1993; T.D. 94-4, 59 FR 140, Jan. 3, 1994; T.D. 96-48, 61 FR 28980, June 6, 1996; 86 FR 35582, July 6, 2021]
+[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 73-135, 38 FR 13369, May 21, 1973; T.D. 73-175, 38 FR 17447, July 2, 1973; T.D. 94-1, 58 FR 69471, Dec. 30, 1993; T.D. 94-4, 59 FR 140, Jan. 3, 1994; T.D. 96-48, 61 FR 28980, June 6, 1996; CBP Dec. 21-10, 86 FR 35582, July 6, 2021]

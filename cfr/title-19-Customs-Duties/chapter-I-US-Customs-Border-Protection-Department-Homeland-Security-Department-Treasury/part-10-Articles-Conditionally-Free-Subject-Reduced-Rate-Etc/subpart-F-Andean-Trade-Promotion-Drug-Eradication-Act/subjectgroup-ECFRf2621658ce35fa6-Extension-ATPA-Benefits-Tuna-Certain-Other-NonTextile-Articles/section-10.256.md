@@ -18,7 +18,7 @@
 
 (c) *Correction and nonacceptance of Certificate.* If the Center director determines that a Certificate of Origin is illegible or defective or has not been completed in accordance with paragraph (b) of this section, the importer will be given a period of not less than five working days to submit a corrected Certificate. A Certificate will not be accepted in connection with subsequent importations during a period referred to in paragraph (b)(4)(ii) of this section if the Center director determined that a previously imported identical article covered by the Certificate did not qualify for preferential treatment.
 
-(d) *Certificate not required* - (1) *General.* Except as otherwise provided in paragraph (d)(2) of this section, an importer is not required to have a Certificate of Origin in his possession for:
+(d) *Certificate not required*—(1) *General.* Except as otherwise provided in paragraph (d)(2) of this section, an importer is not required to have a Certificate of Origin in his possession for:
 
 (i) An importation of an article for which the Center director has in writing waived the requirement for a Certificate of Origin because the Center director is otherwise satisfied that the article qualifies for preferential treatment;
 
@@ -30,7 +30,7 @@ I hereby certify that the article covered by this shipment qualifies for prefere
 
 Check One:
 
-( ) Producer( ) Exporter( ) Importer( ) Agent\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Name\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Title\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Address\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Signature and Date
+( ) Producer( ) Exporter( ) Importer( ) Agent\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Name\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Title\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Address\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Signature and Date
 
 (2) *Exception.* If the Center director determines that an importation described in paragraph (d)(1) of this section forms part of a series of importations that may reasonably be considered to have been undertaken or arranged for the purpose of avoiding a Certificate of Origin requirement under §§ 10.254 through 10.256, the Center director will notify the importer in writing that for that importation the importer must have in his possession a valid Certificate of Origin to support the claim for preferential treatment. The importer will have 30 calendar days from the date of the written notice to obtain a valid Certificate of Origin, and a failure to timely obtain the Certificate of Origin will result in denial of the claim for preferential treatment. For purposes of this paragraph, a “series of importations” means two or more entries covering articles arriving on the same day from the same exporter and consigned to the same person.
 

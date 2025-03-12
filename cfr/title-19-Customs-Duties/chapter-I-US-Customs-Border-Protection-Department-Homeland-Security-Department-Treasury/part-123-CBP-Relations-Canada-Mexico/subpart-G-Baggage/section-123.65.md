@@ -6,13 +6,13 @@
 
 (1) *Baggage transiting Mexico.* For baggage of domestic origin to be transported through Mexico between ports of the United States, the special in-transit tag manifest attached to each piece of baggage shall be on white cardboard not less than 21/2 × 41/2 inches in size printed in substantially the following form:
 
-United States Customsin-transit baggage manifestCarrier's Baggageman: Destroy this tag if owner has access to baggage before its return to United States.Check No. \_\_.
+United States Customsin-transit baggage manifestCarrier's Baggageman: Destroy this tag if owner has access to baggage before its return to United States.Check No. \_\_\_\_.
 
-This baggage is in transit from \_\_\_\_\_\_\_\_\_\_ (Port of exit) through foreign territory to \_\_\_\_\_\_\_\_\_\_ (Port of reentry) in the United States.
+This baggage is in transit from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Port of exit) through foreign territory to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Port of reentry) in the United States.
 
 This baggage was laden for transportation as above stated.
 
-Date \_\_\_\_
+Date \_\_\_\_\_\_\_\_
 
 (U.S. Customs Officer)
 

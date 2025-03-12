@@ -6,19 +6,19 @@
 
 Power of Attorney and Agreement(For Corporation)
 
-\_\_, (name of corporation) a corporation duly incorporated under the laws of the State of \_\_, and having its principal office in the City of \_\_, State of \_\_, as authorized by a resolution of the board of directors of the corporation, passed on the \_\_ day of \_\_, 20\_\_, a duly certified copy of which is attached, does constitute and appoint \_\_ (name and official title of bond-approving officer), and his successors in office, as attorney for said corporation, for and in the name of the corporation to collect or to sell, assign, and transfer the securities described as follows:
+\_\_\_\_, (name of corporation) a corporation duly incorporated under the laws of the State of \_\_\_\_, and having its principal office in the City of \_\_\_\_, State of \_\_\_\_, as authorized by a resolution of the board of directors of the corporation, passed on the \_\_\_\_ day of \_\_\_\_, 20\_\_\_\_, a duly certified copy of which is attached, does constitute and appoint \_\_\_\_ (name and official title of bond-approving officer), and his successors in office, as attorney for said corporation, for and in the name of the corporation to collect or to sell, assign, and transfer the securities described as follows:
 
-The securities having been deposited by it as security for the performance of the agreements undertaken in a bond with the United States, executed on the date of \_\_\_\_, 20\_\_, the terms and conditions of which are incorporated by reference into this power of attorney and agreement and made a part hereof. The undersigned agrees that in case of any default in the performance of any of the agreements the attorney shall have full power to collect the securities or any part thereof, or to sell, assign, and transfer the securities or any part thereof at public or private sale, without notice, free from any equity of redemption and without appraisement or valuation, notice and right to redeem being waived and to apply the proceeds of the sale or collection in whole or in part to the satisfaction of any obligation arising by reason of default. The undersigned further agrees that the authority granted by this agreement is irrevocable. The corporation for itself, its successors and assigns, ratifies and confirms whatever the attorney shall do by virtue of this agreement.
+The securities having been deposited by it as security for the performance of the agreements undertaken in a bond with the United States, executed on the date of \_\_\_\_\_\_\_\_, 20\_\_\_\_, the terms and conditions of which are incorporated by reference into this power of attorney and agreement and made a part hereof. The undersigned agrees that in case of any default in the performance of any of the agreements the attorney shall have full power to collect the securities or any part thereof, or to sell, assign, and transfer the securities or any part thereof at public or private sale, without notice, free from any equity of redemption and without appraisement or valuation, notice and right to redeem being waived and to apply the proceeds of the sale or collection in whole or in part to the satisfaction of any obligation arising by reason of default. The undersigned further agrees that the authority granted by this agreement is irrevocable. The corporation for itself, its successors and assigns, ratifies and confirms whatever the attorney shall do by virtue of this agreement.
 
-Witnessed, signed, and sealed, this \_\_\_ day of \_\_\_\_\_\_\_ 20\_\_.
+Witnessed, signed, and sealed, this \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_ 20\_\_\_\_.
 
-[Corporate seal.]By \_\_
+[Corporate seal.]By \_\_\_\_
 
-Before me, the undersigned, a notary public within and for the County of \_\_\_\_\_\_, in the State of \_\_\_\_\_\_ (or the District of Columbia), personally appeared \_\_\_\_\_\_\_\_\_\_\_\_ (name and title of officer) and for and in behalf of said \_\_\_\_\_\_\_\_\_\_, a corporation, acknowledged the execution of the foregoing power of attorney.
+Before me, the undersigned, a notary public within and for the County of \_\_\_\_\_\_\_\_\_\_\_\_, in the State of \_\_\_\_\_\_\_\_\_\_\_\_ (or the District of Columbia), personally appeared \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (name and title of officer) and for and in behalf of said \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, a corporation, acknowledged the execution of the foregoing power of attorney.
 
-Witness my hand and notarial seal this \_\_\_\_ day of \_\_\_\_\_\_\_, 20\_\_;.
+Witness my hand and notarial seal this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_;.
 
-[Notarial seal.]Notary Public \_\_\_\_\_\_\_\_\_\_Note:
+[Notarial seal.]Notary Public \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Note:
 
 Securities must be described by title, date of maturity, rate of interest, denomination, serial number, and whether coupon or registered. Failure to give a complete description will warrant rejection of this power of attorney.
 

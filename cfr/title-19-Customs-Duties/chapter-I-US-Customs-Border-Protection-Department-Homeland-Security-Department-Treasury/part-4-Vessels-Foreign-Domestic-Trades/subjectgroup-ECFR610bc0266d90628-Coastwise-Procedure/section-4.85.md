@@ -20,7 +20,7 @@ Date
 
 Permission is granted to proceed to the port named in item 12.
 
-\_\_\_\_
+\_\_\_\_\_\_\_\_
 
 Signature and title
 
@@ -28,7 +28,7 @@ Signature and title
 
 (c)(1) Upon the arrival of a vessel at the next and each succeeding domestic port with inward foreign cargo or passengers still on board, the master must immediately report its arrival and make entry within 48 hours. To make such entry, he must deliver to the port director the vessel's document, the permit to proceed (Customs Form 1300 endorsed in accordance with paragraph (b) of this section), the traveling manifest, and the traveling Crew's Effects Declaration (Customs Form 1304), together with the crewmembers' declarations received on departure from the previous port. The master must also present an abstract manifest consisting of a newly executed Vessel Entrance or Clearance Statement, Customs Form 1300, a Cargo Declaration, Customs Form 1302, and a Crew's Effects Declaration in duplicate of all unentered articles acquired abroad by officers and crewmembers which are still on board, a Ship's Stores Declaration, Customs Form 1303, in duplicate of the sea or ship's stores remaining on board, and if applicable, the Cargo Declaration required by § 4.86. The master must also update the data elements required on CBP Form I-418 that were electronically submitted via an electronic data interchange system approved by CBP for any passengers on board that are manifested for discharge at that port. If no inward foreign cargo or passengers are to be discharged, the Cargo Declaration or Passenger List may be omitted from the abstract manifest, and the following legend must be placed in item 15 of the Vessel Entrance or Clearance Statement:
 
-Vessel on an inward foreign voyage with residue cargo/passengers for \_\_\_\_. No cargo or passengers for discharge at this port.
+Vessel on an inward foreign voyage with residue cargo/passengers for \_\_\_\_\_\_\_\_. No cargo or passengers for discharge at this port.
 
 (2) The traveling manifest, together with a copy of the newly executed Vessel Entrance or Clearance Statement, will serve the purpose of a copy of an abstract manifest at the port where it is finally surrendered.
 
@@ -36,4 +36,4 @@ Vessel on an inward foreign voyage with residue cargo/passengers for \_\_\_\_. N
 
 (e) The traveling manifest shall be surrendered to the director of the final domestic port of discharge of the cargo, except that if residue foreign cargo remains on board for discharge at a foreign port or ports, the traveling manifest shall be surrendered at the final port of departure from the United States. However, it shall not be surrendered at the port from which the vessel departs for another United States port, via an intermediate foreign port, under § 4.89 if residue foreign cargo remains on board for discharge at a subsequent U.S. port. The traveling Crew's Effects Declaration shall be finally surrendered to the director of any port from which the vessel will depart directly for a foreign port.
 
-[T.D. 71-169, 36 FR 12604, July 2, 1971, as amended by T.D. 77-255, 42 FR 56323, Oct. 25, 1977; T.D. 83-214, 48 FR 46513, Oct. 13, 1983; T.D. 84-213, 49 FR 41164, Oct. 19, 1984; T.D. 92-74, 57 FR 35752, Aug. 11, 1992; T.D. 93-96, 58 FR 67317, Dec. 21, 1993; T.D. 94-24, 59 FR 13200, Mar. 21, 1994; T.D. 00-22, 65 FR 16516, Mar. 29, 2000; CBP Dec. 12-21, 77 FR 73308, Dec. 10, 2012; CBP Dec. No. 21-19, 86 FR 73631, Dec. 28, 2021]
+[T.D. 71-169, 36 FR 12604, July 2, 1971]Editorial Note:For Federal Register citations affecting § 4.85, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

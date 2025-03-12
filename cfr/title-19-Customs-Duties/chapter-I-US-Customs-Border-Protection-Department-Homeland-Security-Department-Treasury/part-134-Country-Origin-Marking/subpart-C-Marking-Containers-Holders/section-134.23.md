@@ -4,4 +4,4 @@
 
 (b) *Other reusable containers or holders.* Containers or holders which give the whole importation its essential character, as described in General Rule of Interpretation 5(a) (19 U.S.C. 1202), must be individually marked to clearly indicate their own origin with a marking such as, “Container made in (name of country).” Examples of the containers contemplated are mustard jars reusable as beer mugs; shaving soap containers reusable as shaving mugs; fancy cologne bottles reusable as flower vases, and other containers which have a lasting value or decorative use.
 
-[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 89-1, 53 FR 51256, Dec. 21, 1988; T.D. 94-1, 58 FR 69471, Dec. 30, 1993; 86 FR 35582, July 6, 2021]
+[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 89-1, 53 FR 51256, Dec. 21, 1988; T.D. 94-1, 58 FR 69471, Dec. 30, 1993; CBP Dec. 21-10, 86 FR 35582, July 6, 2021]

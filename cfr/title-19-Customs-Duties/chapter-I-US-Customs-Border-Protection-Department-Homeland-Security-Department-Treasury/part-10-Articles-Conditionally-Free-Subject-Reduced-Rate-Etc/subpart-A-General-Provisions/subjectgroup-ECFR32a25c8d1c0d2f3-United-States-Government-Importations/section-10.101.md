@@ -8,7 +8,7 @@
 
 (d) *Bond.* No bond shall be required in support of an immediate delivery application provided for in this section if a stipulation in the form as set forth below is filed with the port director in connection with the application:
 
-I, \_\_\_\_, \_\_\_\_ (Title), a duly authorized representative of the(Name of United States Government department or agency) stipulate and agree on behalf of such department or agency that all applicable provisions of the Tariff Act of 1930, as amended, and the regulations thereunder, and all other laws and regulations, relating to the release and entry of merchandise will be observed and complied with in all respects.(Signature)
+I, \_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_ (Title), a duly authorized representative of the(Name of United States Government department or agency) stipulate and agree on behalf of such department or agency that all applicable provisions of the Tariff Act of 1930, as amended, and the regulations thereunder, and all other laws and regulations, relating to the release and entry of merchandise will be observed and complied with in all respects.(Signature)
 
 (e) *Timely entries required.* If proper entries for consumption for importations released under these regulations are not filed within a reasonable time, appropriate steps shall be taken to insure the prompt filing of such entries.
 

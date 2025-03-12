@@ -4,4 +4,4 @@
 
 (b) *Goods of a NAFTA or USMCA country.* A good of a NAFTA or USMCA country which is to be processed in the United States in a manner that would result in the good becoming a good of the United States under the part 102 Rules is excepted from marking. Unless the good is processed by the importer or on its behalf, the outermost container of the good shall be marked in accord with this part.
 
-[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 94-1, 58 FR 69472, Dec. 30, 1993; 86 FR 35582, July 6, 2021]
+[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 94-1, 58 FR 69472, Dec. 30, 1993; CBP Dec. 21-10, 86 FR 35582, July 6, 2021]

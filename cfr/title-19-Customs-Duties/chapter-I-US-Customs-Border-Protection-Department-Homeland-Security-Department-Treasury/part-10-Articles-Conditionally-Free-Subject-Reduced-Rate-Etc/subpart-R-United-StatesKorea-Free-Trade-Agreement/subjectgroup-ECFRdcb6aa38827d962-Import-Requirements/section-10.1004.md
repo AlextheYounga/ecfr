@@ -24,7 +24,7 @@
 
 (4) Must include a statement, in substantially the following form:
 
-“I certify that:The information on this document is true and accurate and I assume the responsibility for proving such representations. I understand that I am liable for any false statements or material omissions made on or in connection with this document;I agree to maintain and present upon request, documentation necessary to support these representations;The goods comply with all requirements for preferential tariff treatment specified for those goods in the United States-Korea Free Trade Agreement; andThis document consists of \_\_ pages, including all attachments.”
+“I certify that:The information on this document is true and accurate and I assume the responsibility for proving such representations. I understand that I am liable for any false statements or material omissions made on or in connection with this document;I agree to maintain and present upon request, documentation necessary to support these representations;The goods comply with all requirements for preferential tariff treatment specified for those goods in the United States-Korea Free Trade Agreement; andThis document consists of \_\_\_\_ pages, including all attachments.”
 
 (b) *Responsible official or agent.* The certification provided for in paragraph (a) of this section must be signed and dated by a responsible official of the importer, exporter, or producer, or by the importer's, exporter's, or producer's authorized agent having knowledge of the relevant facts.
 

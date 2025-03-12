@@ -26,4 +26,4 @@ The following rules shall apply for purposes of determining the country of origi
 
 (3) If the country of origin of the good cannot be determined under paragraph (d)(1) or (d)(2) of this section, the country of origin of the good is the last country in which the good underwent production.
 
-[T.D. 96-48, 61 FR 28956, June 6, 1996, as amended at 86 FR 35581, July 6, 2021]
+[T.D. 96-48, 61 FR 28956, June 6, 1996, as amended by CBP Dec. 21-10, 86 FR 35581, July 6, 2021]
