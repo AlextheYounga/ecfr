@@ -1,7 +1,5 @@
 ##### § 1650.1 Definitions. #####
 
-Link to an amendment published at 84 FR 46420, Sept. 4, 2019.
-
 (a) Definitions generally applicable to the Thrift Savings Plan are set forth at 5 CFR 1690.1.
 
 (b) As used in this part:
@@ -10,4 +8,8 @@ Link to an amendment published at 84 FR 46420, Sept. 4, 2019.
 
 *Post-employment withdrawal* means a withdrawal from the TSP that is available to a participant who is separated from Government service.
 
-[68 FR 35503, June 13, 2003, as amended at 70 FR 32215, June 1, 2005]
+*Required beginning date* means April 1 of the year following the year in which the participant reaches 701/2 years of age or separates from Government service, whichever is later.
+
+*Required minimum distribution* means the amount required to be distributed to a participant beginning on the required beginning date and every year thereafter pursuant to Internal Revenue Code section 401(a)(9) and the regulations promulgated thereunder, as applicable.
+
+[68 FR 35503, June 13, 2003, as amended at 70 FR 32215, June 1, 2005; 84 FR 46420, Sept. 4, 2019]

@@ -1,19 +1,13 @@
-##### § 1650.16 Required withdrawal date. #####
+##### § 1650.16 Required minimum distributions. #####
 
-Link to an amendment published at 84 FR 46421, Sept. 4, 2019.
+(a) A separated participant must receive required minimum distributions from his or her account commencing no later than the required beginning date and, for each year thereafter, no later than December 31.
 
-(a) A participant must withdraw his or her account under § 1650.12, or begin receiving payments under §§ 1650.13 or 1650.14, by April 1 of the year following the year in which the participant reaches 701/2 years of age or separates from Government service, whichever is later.
+(b) A separated participant may elect to withdraw from his or her account or to begin receiving payments before the required beginning date, but is not required to do so.
 
-(b) For account balances of $200 or more, a separated participant may elect to withdraw his or her account or to begin receiving payments before the date described in paragraph (a) of this section, but is not required to do so.
+(c) In the event that a separated participant does not withdraw from his or her account an amount sufficient to satisfy his or her required minimum distribution for the year, the TSP will automatically distribute the necessary amount on or before the applicable date described in paragraph (a) of this section.
 
-(c) In the event that a participant does not withdraw his or her account or begin receiving payments in accordance with paragraph (a) of this section, the Board will transfer all of the funds in the participant's account not already invested in the Government Securities Investment (G) Fund to that fund. A notice of this action will be sent to the participant with a warning that his or her account will be declared abandoned and forfeited unless the participant comes into compliance with paragraph (a) by a date certain specified in the notice.
+(d) The TSP will disburse required minimum distributions described in paragraph (c) of this section pro rata from the participant's traditional balance and the participant's Roth balance.
 
-(d) If the participant does not take the appropriate withdrawal action described in paragraph (c) of this section, the Board will purchase an annuity for the participant after the following steps have been taken:
+(e) The rules set forth in paragraphs (a) through (d) of this section shall apply to a separated participant who reclaims an account balance that was declared abandoned.
 
-(1) The account has been declared abandoned and the funds in the account have been forfeited;
-
-(2) A notice of this action has been sent to the participant;
-
-(3) The participant reclaims the account balance that was abandoned, but decides against a withdrawal pursuant to §§ 1650.12 or 1650.13; and
-
-(4) The participant provides the information that the Board needs to purchase an annuity pursuant to § 1650.14.
+[84 FR 46421, Sept. 4, 2019]

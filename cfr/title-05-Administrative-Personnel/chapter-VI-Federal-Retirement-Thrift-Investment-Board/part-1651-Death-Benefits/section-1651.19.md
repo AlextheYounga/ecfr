@@ -1,22 +1,18 @@
 ##### § 1651.19 Beneficiary participant accounts. #####
 
-Link to an amendment published at 84 FR 46423, Sept. 4, 2019.
-
 A beneficiary participant account may be established only for a spouse of a deceased participant who is a sole or partial beneficiary of the deceased participant's TSP account. Beneficiary participant accounts are subject to the following rules and procedures:
 
 (a) *Initial investment allocation.* Regardless of the allocation of the deceased participant's account balance at the time of his or her death, each beneficiary participant account, once established, will be allocated 100 percent to the age-appropriate TSP Lifecycle Fund based on the beneficiary participant's date of birth. A beneficiary participant may redistribute his or her beneficiary participant account balance among the TSP investment funds by making an interfund transfer request described in part 1601, subpart C of this chapter.
 
 (b) *Contributions.* A beneficiary participant may not make contributions or transfers to his or her beneficiary participant account. The TSP will not accept a contribution allocation request described in part 1601, subpart B of this chapter for a beneficiary participant account.
 
-(c) *Required minimum distributions.* (1) A beneficiary participant must begin receiving annual distributions from his or her beneficiary participant account balance on or before the later of -
+(c) *Required minimum distributions.* (1) A beneficiary participant must receive required minimum distributions from his or her beneficiary participant account commencing no later than the required beginning date and, for each year thereafter, no later than December 31.
 
-(i) The end of the calendar year immediately following the calendar year in which the participant died; or
+(2) A beneficiary participant may elect to withdraw from his or her account or to begin receiving payments before the required beginning date, but is not required to do so.
 
-(ii) The end of the calendar year in which the participant would have attained age 701/2.
+(3) In the event that a beneficiary participant does not withdraw from his or her beneficiary participant account an amount sufficient to satisfy his or her required minimum distribution for the year, the TSP will automatically distribute the necessary amount on or before the applicable date described in paragraph (c)(1) of this section.
 
-(2) The TSP will ensure that the amount of the beneficiary participant's annual distributions that occur after the required minimum distribution date satisfy the applicable minimum distribution requirements of the Internal Revenue Code. The TSP will calculate minimum distributions based on the beneficiary participant account balance and the beneficiary participant's age, using the IRS Single Life Table, 26 CFR 1.401(a)(9)-9, Q&A-1.
-
-(3) The TSP will disburse minimum distributions pro rata from the beneficiary participant's traditional balance and the beneficiary participant's Roth balance.
+(4) The TSP will disburse required minimum distributions described in paragraph (c)(3) of this section pro rata from the beneficiary participant's traditional balance and the beneficiary participant's Roth balance.
 
 (d) *Withdrawal elections.* A beneficiary participant may elect any withdrawal option is available to separated participants. The provisions of § 1650.12, § 1650.13, and § 1650.14 shall apply as if all references to a participant are references to a beneficiary participant and all references to an account balance are references to a beneficiary participant account balance.
 
@@ -48,4 +44,4 @@ A beneficiary participant account may be established only for a spouse of a dece
 
 (n) *Multiple beneficiary accounts.* Each beneficiary participant account is maintained separately from all other beneficiary participant accounts. If an individual has multiple beneficiary participant accounts, each of the individual's beneficiary participant accounts will have a unique account number. A beneficiary participant must file separate interfund transfers and/or withdrawal requests and submit separate beneficiary designation forms for each beneficiary participant account that the TSP maintains for him or her. A beneficiary participant account cannot be combined with another beneficiary participant account.
 
-[75 FR 78879, Dec. 17, 2010, as amended at 77 FR 26428, May 4, 2012; 80 FR 52174, Aug. 28, 2015]
+[75 FR 78879, Dec. 17, 2010, as amended at 77 FR 26428, May 4, 2012; 80 FR 52174, Aug. 28, 2015; 84 FR 46423, Sep. 4, 2019]
