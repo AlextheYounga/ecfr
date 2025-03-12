@@ -1,6 +1,6 @@
 ##### § 192.1007 What are the required elements of an integrity management plan? #####
 
-Link to an amendment published at 86 FR 2241, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2241, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 A written integrity management plan must contain procedures for developing and implementing the following elements:
 

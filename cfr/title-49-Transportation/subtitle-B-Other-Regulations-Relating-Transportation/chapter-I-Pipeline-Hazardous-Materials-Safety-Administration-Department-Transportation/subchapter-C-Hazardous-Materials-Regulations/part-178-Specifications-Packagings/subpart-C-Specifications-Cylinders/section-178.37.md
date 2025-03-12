@@ -18,7 +18,7 @@ S = A1P/A2Where:S = tensile stress-p.s.i.;M = bending moment-inch pounds (wl2)/8
 
 (b) *Authorized steel.* Open-hearth, basic oxygen, or electric steel of uniform quality must be used. A heat of steel made under the specifications in table 1 of this paragraph (b), check chemical analysis of which is slightly out of the specified range, is acceptable, if satisfactory in all other respects, provided the tolerances shown in table 2 of this paragraph (b) are not exceeded. When a carbon-boron steel is used, a hardenability test must be performed on the first and last ingot of each heat of steel. The results of this test must be recorded on the Record of Chemical Analysis of Material for Cylinders required by § 178.35. This hardness test must be made5/16-inch from the quenched end of the Jominy quench bar and the hardness must be at least Rc 33 and no more than Rc 53. The following chemical analyses are authorized:
 
-Table 1 - Authorized Materials
+Table 1—Authorized Materials
 
 |Designation|4130X (percent) (see Note 1)|NE-8630 (percent) (see Note 1)|9115 (percent) (see Note 1)|9125 (percent) (see Note 1)|Carbon-boron (percent)|Inter- mediate manganese (percent)|
 |-----------|----------------------------|------------------------------|---------------------------|---------------------------|----------------------|----------------------------------|
@@ -35,7 +35,7 @@ Table 1 - Authorized Materials
 
 Note 1: This designation may not be restrictive and the commercial steel is limited in analysis as shown in this table.
 
-Table 2 - Check Analysis Tolerances
+Table 2—Check Analysis Tolerances
 
 |       Element        |Limit or maximum specified  <br/>(percent)|Tolerance (percent) over the maximum limit or under the minimum limit|    |
 |----------------------|------------------------------------------|---------------------------------------------------------------------|----|

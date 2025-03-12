@@ -1,6 +1,6 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 86 FR 2237, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) This part prescribes standards, or portions thereof, incorporated by reference into this part with the approval of the Director of the Federal Register in 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. To enforce any edition other than that specified in this section, PHMSA must publish a notice of change in the Federal Register.
 

@@ -1,6 +1,6 @@
 ##### § 192.491 Corrosion control records. #####
 
-Link to an amendment published at 86 FR 2241, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2241, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) Each operator shall maintain records or maps to show the location of cathodically protected piping, cathodic protection facilities, galvanic anodes, and neighboring structures bonded to the cathodic protection system. Records or maps showing a stated number of anodes, installed in a stated manner or spacing, need not show specific distances to each buried anode.
 

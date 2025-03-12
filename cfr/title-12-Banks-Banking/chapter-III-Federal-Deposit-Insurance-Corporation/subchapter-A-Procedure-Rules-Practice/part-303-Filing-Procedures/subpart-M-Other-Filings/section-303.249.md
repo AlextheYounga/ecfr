@@ -1,8 +1,6 @@
 ##### § 303.249 Management official interlocks. #####
 
-Link to an amendment published at 86 FR 8097, Feb. 3, 2021.
-
-(a) *Scope.* This section contains the procedures to be followed by an insured state nonmember bank to seek the approval of FDIC to establish an interlock pursuant to the Depository Institutions Management Interlocks Act (12 U.S.C. 3207), section 13 of the FDI Act (12 U.S.C. 1823(k)) and part 348 of this chapter (12 CFR part 348).
+(a) *Scope.* This section contains the procedures to be followed by an insured State nonmember bank or an insured State savings association to seek the approval of FDIC to establish an interlock pursuant to the Depository Institutions Management Interlocks Act (12 U.S.C. 3207), section 13 of the FDI Act (12 U.S.C. 1823(k)), and part 348 of this chapter.
 
 (b) *Where to file.* Applicants shall submit a letter application to the appropriate FDIC office.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 86 FR 8097, Feb. 3, 2021.
 
 (e) *Processing.* The FDIC will provide the applicant with written notification of the final action when the decision is rendered.
 
-[67 FR 79247, Dec. 27, 2002. Redesignated at 71 FR 20526, Apr. 21, 2006; 84 FR 2706, Feb. 8, 2019]
+[67 FR 79247, Dec. 27, 2002. Redesignated at 71 FR 20526, Apr. 21, 2006; 84 FR 2706, Feb. 8, 2019; 86 FR 8097, Feb. 3, 2021]

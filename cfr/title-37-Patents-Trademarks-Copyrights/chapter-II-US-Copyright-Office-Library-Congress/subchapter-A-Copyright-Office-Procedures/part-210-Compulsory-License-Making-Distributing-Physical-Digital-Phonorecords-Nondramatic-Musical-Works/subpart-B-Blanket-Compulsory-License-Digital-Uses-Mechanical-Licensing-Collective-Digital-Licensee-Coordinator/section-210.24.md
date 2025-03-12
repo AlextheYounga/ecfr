@@ -1,5 +1,7 @@
 ##### § 210.24 Notices of blanket license. #####
 
+Link to an amendment published at 86 FR 12826, Mar. 5, 2021.
+
 (a) *General.* This section prescribes rules under which a digital music provider completes and submits a notice of license to the mechanical licensing collective pursuant to 17 U.S.C. 115(d)(2)(A) for purposes of obtaining a statutory blanket license.
 
 (b) *Form and content.* A notice of license shall be prepared in accordance with any reasonable formatting instructions established by the mechanical licensing collective, and shall include all of the following information:

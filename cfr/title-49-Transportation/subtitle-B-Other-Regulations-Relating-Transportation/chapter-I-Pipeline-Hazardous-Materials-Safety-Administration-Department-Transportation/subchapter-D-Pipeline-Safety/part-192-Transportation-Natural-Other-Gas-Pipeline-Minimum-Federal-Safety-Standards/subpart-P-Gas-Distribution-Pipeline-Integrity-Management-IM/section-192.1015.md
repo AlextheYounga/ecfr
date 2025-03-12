@@ -1,6 +1,6 @@
 ##### § 192.1015 What must a master meter or small liquefied petroleum gas (LPG) operator do to implement this subpart? #####
 
-Link to an amendment published at 86 FR 2242, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2242, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) *General.* No later than August 2, 2011 the operator of a master meter system or a small LPG operator must develop and implement an IM program that includes a written IM plan as specified in paragraph (b) of this section. The IM program for these pipelines should reflect the relative simplicity of these types of pipelines.
 

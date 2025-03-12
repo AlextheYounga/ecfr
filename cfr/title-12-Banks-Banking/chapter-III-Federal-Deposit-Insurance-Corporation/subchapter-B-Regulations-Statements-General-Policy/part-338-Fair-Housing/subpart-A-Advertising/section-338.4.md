@@ -1,11 +1,39 @@
 ##### § 338.4 Fair housing poster. #####
 
-(a) Each bank engaged in extending loans for the purpose of purchasing, constructing, improving, repairing, or maintaining a dwelling or any loan secured by a dwelling shall conspicuously display either the Equal Housing Lender poster set forth in paragraph (b) of this section or the Equal Housing Opportunity poster prescribed by § 110.25(a) of the United States Department of Housing and Urban Development's regulations (24 CFR 110.25(a)), in a central location within the bank where deposits are received or where such loans are made in a manner clearly visible to the general public entering the area, where the poster is displayed.
+(a) Each FDIC-supervised institution engaged in extending loans for the purpose of purchasing, constructing, improving, repairing, or maintaining a dwelling or any loan secured by a dwelling shall conspicuously display either the Equal Housing Lender poster set forth in paragraph (b) of this section or the Equal Housing Opportunity poster prescribed by 24 CFR 110.25(a) of the United States Department of Housing and Urban Development's regulations, in a central location within the FDIC-supervised institution where deposits are received or where such loans are made, in a manner clearly visible to the general public entering the area, where the poster is displayed.
 
 (b) The Equal Housing Lender Poster shall be at least 11 by 14 inches in size and have the following text:
 
-![](/graphics/er07au08.000.gif)
+We Do Business in Accordance with Federal Fair Lending Laws.
 
-(c) The Equal Housing Lender Poster specified in this section was adopted under § 110.25(b) of the United States Department of Housing and Urban Development's rules and regulations as an authorized substitution for the poster required in § 110.25(a) of those rules and regulations.
+UNDER THE FEDERAL FAIR HOUSING ACT, IT IS ILLEGAL, ON THE BASIS OF RACE, COLOR, NATIONAL ORIGIN, RELIGION, SEX, HANDICAP, OR FAMILIAL STATUS (HAVING CHILDREN UNDER THE AGE OF 18) TO:
 
-[54 FR 52930, Dec. 26, 1989. Redesignated at 56 FR 50039, Oct. 3, 1991, as amended at 59 FR 52667, Oct. 19, 1994; 62 FR 36204, July 7, 1997; 73 FR 45855, Aug. 7, 2008]
+• Deny a loan for the purpose of purchasing, constructing, improving, repairing or maintaining a dwelling or to deny any loan secured by a dwelling; or
+
+• Discriminate in fixing the amount, interest rate, duration, application procedures, or other terms or conditions of such a loan or in appraising property.
+
+IF YOU BELIEVE YOU HAVE BEEN DISCRIMINATED AGAINST, YOU SHOULD SEND A COMPLAINT TO:
+
+Assistant Secretary for Fair Housing and Equal Opportunity, Department of Housing and Urban Development, Washington, DC 20410.
+
+For processing under the Federal Fair Housing Act
+
+AND TO:
+
+Federal Deposit Insurance Corporation, Consumer Response Center, [Insert address for the Consumer Response Center stated on the FDIC's website at *www.fdic.gov*]
+
+For processing under the FDIC Regulations.
+
+UNDER THE EQUAL CREDIT OPPORTUNITY ACT, IT IS ILLEGAL TO DISCRIMINATE IN ANY CREDIT TRANSACTION:
+
+• On the basis of race, color, national origin, religion, sex, marital status, or age;
+
+• Because income is from public assistance; or
+
+• Because a right has been exercised under the Consumer Credit Protection Act.
+
+IF YOU BELIEVE YOU HAVE BEEN DISCRIMINATED AGAINST, YOU SHOULD SEND A COMPLAINT TO:
+
+Federal Deposit Insurance Corporation, Consumer Response Center, [Insert address for the Consumer Response Center stated on the FDIC's website at *www.fdic.gov*]
+
+(c) The Equal Housing Lender Poster specified in this section was adopted under 24 CFR 110.25(b) of the United States Department of Housing and Urban Development's rules and regulations as an authorized substitution for the poster required in § 110.25(a) of those rules and regulations.

@@ -1,6 +1,6 @@
 ##### § 192.481 Atmospheric corrosion control: Monitoring. #####
 
-Link to an amendment published at 86 FR 2240, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2240, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) Each operator must inspect each pipeline or portion of pipeline that is exposed to the atmosphere for evidence of atmospheric corrosion, as follows:
 

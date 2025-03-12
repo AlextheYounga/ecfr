@@ -1,6 +1,6 @@
 ##### § 192.121 Design of plastic pipe. #####
 
-Link to an amendment published at 86 FR 2238, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2238, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) *Design formula.* Design formulas for plastic pipe are determined in accordance with either of the following formulas:
 

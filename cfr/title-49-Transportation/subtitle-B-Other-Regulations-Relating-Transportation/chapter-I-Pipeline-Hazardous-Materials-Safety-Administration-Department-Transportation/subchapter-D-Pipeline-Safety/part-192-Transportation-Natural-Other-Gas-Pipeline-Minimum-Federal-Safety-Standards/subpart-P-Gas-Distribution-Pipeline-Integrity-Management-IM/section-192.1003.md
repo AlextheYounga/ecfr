@@ -1,6 +1,6 @@
 ##### § 192.1003 What do the regulations in this subpart cover? #####
 
-Link to an amendment published at 86 FR 2241, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2241, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) *General.* Unless exempted in paragraph (b) of this section this subpart prescribes minimum requirements for an IM program for any gas distribution pipeline covered under this part, including liquefied petroleum gas systems. A gas distribution operator, other than a master meter operator or a small LPG operator, must follow the requirements in §§ 192.1005 through 192.1013 of this subpart. A master meter operator or small LPG operator of a gas distribution pipeline must follow the requirements in § 192.1015 of this subpart.
 

@@ -1,5 +1,7 @@
 ##### § 275.206(4)-3 Cash payments for client solicitations. #####
 
+Link to an amendment published at 86 FR 13142, Mar. 5, 2021.
+
 (a) It shall be unlawful for any investment adviser required to be registered pursuant to section 203 of the Act to pay a cash fee, directly or indirectly, to a solicitor with respect to solicitation activities unless:
 
 (1)(i) The investment adviser is registered under the Act;

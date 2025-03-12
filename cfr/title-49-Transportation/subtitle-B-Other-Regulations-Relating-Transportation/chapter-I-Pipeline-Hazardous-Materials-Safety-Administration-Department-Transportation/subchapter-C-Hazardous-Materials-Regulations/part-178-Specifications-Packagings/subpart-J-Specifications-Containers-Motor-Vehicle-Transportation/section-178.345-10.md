@@ -28,46 +28,41 @@
 
 (e) *Venting capacity of pressure relief systems.* The pressure relief system (primary and secondary, including piping) must have sufficient venting capacity to limit the cargo tank internal pressure to not more than the cargo tank test pressure. The total venting capacity, rated at not more than the cargo tank test pressure, must be at least that specified in table I, except as provided in § 178.348-4.
 
-Table I - Minimum Emergency Vent Capacity
-
-[In cubic feet free air/hour at 60 °F and 1 atm.]
-
-|Exposed area in square feet|Cubic feet free air per hour|
-|---------------------------|----------------------------|
-|            20             |           15,800           |
-|            30             |           23,700           |
-|            40             |           31,600           |
-|            50             |           39,500           |
-|            60             |           47,400           |
-|            70             |           55,300           |
-|            80             |           63,300           |
-|            90             |           71,200           |
-|            100            |           79,100           |
-|            120            |           94,900           |
-|            140            |          110,700           |
-|            160            |          126,500           |
-|            180            |          142,300           |
-|            200            |          158,100           |
-|            225            |          191,300           |
-|            250            |          203,100           |
-|            275            |          214,300           |
-|            300            |          225,100           |
-|            350            |          245,700           |
-|            400            |          265,000           |
-|            450            |          283,200           |
-|            500            |          300,600           |
-|            550            |          317,300           |
-|            600            |          333,300           |
-|            650            |          348,800           |
-|            700            |          363,700           |
-|            750            |          378,200           |
-|            800            |          392,200           |
-|            850            |          405,900           |
-|            900            |          419,300           |
-|            950            |          432,300           |
-|           1,000           |          445,000           |
-
-Note 1: Interpolate for intermediate sizes.
+|          Exposed area in square feet          |Cubic feet free air per hour|
+|-----------------------------------------------|----------------------------|
+|                      20                       |           15,800           |
+|                      30                       |           23,700           |
+|                      40                       |           31,600           |
+|                      50                       |           39,500           |
+|                      60                       |           47,400           |
+|                      70                       |           55,300           |
+|                      80                       |           63,300           |
+|                      90                       |           71,200           |
+|                      100                      |           79,100           |
+|                      120                      |           94,900           |
+|                      140                      |          110,700           |
+|                      160                      |          126,500           |
+|                      180                      |          142,300           |
+|                      200                      |          158,100           |
+|                      225                      |          191,300           |
+|                      250                      |          203,100           |
+|                      275                      |          214,300           |
+|                      300                      |          225,100           |
+|                      350                      |          245,700           |
+|                      400                      |          265,000           |
+|                      450                      |          283,200           |
+|                      500                      |          300,600           |
+|                      550                      |          317,300           |
+|                      600                      |          333,300           |
+|                      650                      |          348,800           |
+|                      700                      |          363,700           |
+|                      750                      |          378,200           |
+|                      800                      |          392,200           |
+|                      850                      |          405,900           |
+|                      900                      |          419,300           |
+|                      950                      |          432,300           |
+|                     1,000                     |          445,000           |
+|**Note 1:** Interpolate for intermediate sizes.|                            |
 
 (1) *Primary pressure relief system.* Unless otherwise specified in the applicable individual specification, the primary relief system must have a minimum venting capacity of 12,000 SCFH per 350 square feet of exposed cargo tank area, but in any case at least one fourth the required total venting capacity for the cargo tank.
 

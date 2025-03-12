@@ -1,5 +1,7 @@
 ##### § 210.25 Notices of nonblanket activity. #####
 
+Link to an amendment published at 86 FR 12826, Mar. 5, 2021.
+
 (a) *General.* This section prescribes rules under which a significant nonblanket licensee completes and submits a notice of nonblanket activity to the mechanical licensing collective pursuant to 17 U.S.C. 115(d)(6)(A) for purposes of notifying the mechanical licensing collective that the licensee has been engaging in covered activities.
 
 (b) *Form and content.* A notice of nonblanket activity shall be prepared in accordance with any reasonable formatting instructions established by the mechanical licensing collective, and shall include all of the following information:

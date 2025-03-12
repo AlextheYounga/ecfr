@@ -1,5 +1,7 @@
 ##### § 210.28 Reports of usage for significant nonblanket licensees. #####
 
+Link to an amendment published at 86 FR 12827, Mar. 5, 2021.
+
 (a) *General.* This section prescribes rules for the preparation and delivery of reports of usage for the making and distribution of phonorecords of nondramatic musical works to the mechanical licensing collective by a significant nonblanket licensee pursuant to 17 U.S.C. 115(d)(6)(A)(ii). A significant nonblanket licensee shall report to the mechanical licensing collective on a monthly basis in accordance with 17 U.S.C. 115(d)(6)(A)(ii) and this section. A significant nonblanket licensee may make adjustments to its reports of usage in accordance with this section.
 
 (b) *Definitions.* For purposes of this section, in addition to those terms defined in § 210.22:

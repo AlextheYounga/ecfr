@@ -1,5 +1,7 @@
 ##### § 210.30 Temporary exception to certain reporting requirements about certain permanent download licenses. #####
 
+Link to an amendment published at 86 FR 12827, Mar. 5, 2021.
+
 (a) Subject to paragraph (b) of this section, where a requirement of § 210.24(b)(8), § 210.25(b)(6), § 210.27(c)(5), or § 210.28(c)(5) has not been satisfied with respect to an individual download license or voluntary pass-through license, such failure shall not:
 
 (1) Render an otherwise compliant notice of license, notice of nonblanket activity, or report of usage invalid; or

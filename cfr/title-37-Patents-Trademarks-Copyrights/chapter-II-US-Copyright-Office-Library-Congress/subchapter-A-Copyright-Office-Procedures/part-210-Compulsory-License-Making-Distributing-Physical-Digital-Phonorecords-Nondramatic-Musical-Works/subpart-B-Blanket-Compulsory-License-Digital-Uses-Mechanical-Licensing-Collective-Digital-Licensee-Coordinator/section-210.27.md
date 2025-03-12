@@ -1,5 +1,7 @@
 ##### § 210.27 Reports of usage and payment for blanket licensees. #####
 
+Link to an amendment published at 86 FR 12826, Mar. 5, 2021.
+
 (a) *General.* This section prescribes rules for the preparation and delivery of reports of usage and payment of royalties for the making and distribution of phonorecords of nondramatic musical works to the mechanical licensing collective by a digital music provider operating under a blanket license pursuant to 17 U.S.C. 115(d). A blanket licensee shall report and pay royalties to the mechanical licensing collective on a monthly basis in accordance with 17 U.S.C. 115(c)(2)(I), 17 U.S.C. 115(d)(4)(A), and this section. A blanket licensee shall also report to the mechanical licensing collective on an annual basis in accordance with 17 U.S.C. 115(c)(2)(I) and this section. A blanket licensee may make adjustments to its reports of usage and royalty payments in accordance with this section.
 
 (b) *Definitions.* For purposes of this section, in addition to those terms defined in § 210.22:

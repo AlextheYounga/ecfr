@@ -1,6 +1,6 @@
 ##### § 192.619 Maximum allowable operating pressure: Steel or plastic pipelines. #####
 
-Link to an amendment published at 86 FR 2241, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2241, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) No person may operate a segment of steel or plastic pipeline at a pressure that exceeds a maximum allowable operating pressure (MAOP) determined under paragraph (c), (d), or (e) of this section, or the lowest of the following:
 

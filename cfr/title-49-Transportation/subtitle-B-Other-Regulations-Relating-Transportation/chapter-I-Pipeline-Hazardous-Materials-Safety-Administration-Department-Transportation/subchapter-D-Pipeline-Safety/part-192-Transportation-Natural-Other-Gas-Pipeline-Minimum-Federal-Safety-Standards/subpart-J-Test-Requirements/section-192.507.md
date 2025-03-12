@@ -1,6 +1,6 @@
 ##### § 192.507 Test requirements for pipelines to operate at a hoop stress less than 30 percent of SMYS and at or above 100 p.s.i. (689 kPa) gage. #####
 
-Link to an amendment published at 86 FR 2241, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2241, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 Except for service lines and plastic pipelines, each segment of a pipeline that is to be operated at a hoop stress less than 30 percent of SMYS and at or above 100 p.s.i. (689 kPa) gage must be tested in accordance with the following:
 

@@ -1,6 +1,6 @@
 ##### § 192.285 Plastic pipe: Qualifying persons to make joints. #####
 
-Link to an amendment published at 86 FR 2240, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2240, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) No person may make a plastic pipe joint unless that person has been qualified under the applicable joining procedure by:
 

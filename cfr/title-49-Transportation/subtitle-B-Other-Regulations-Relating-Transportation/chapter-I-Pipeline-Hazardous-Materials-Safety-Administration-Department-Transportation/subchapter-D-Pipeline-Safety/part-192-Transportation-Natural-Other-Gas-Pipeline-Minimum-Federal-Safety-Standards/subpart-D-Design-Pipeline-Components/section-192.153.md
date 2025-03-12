@@ -1,6 +1,6 @@
 ##### § 192.153 Components fabricated by welding. #####
 
-Link to an amendment published at 86 FR 2239, Jan. 11, 2021.
+Link to an amendment published at 86 FR 2239, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
 
 (a) Except for branch connections and assemblies of standard pipe and fittings joined by circumferential welds, the design pressure of each component fabricated by welding, whose strength cannot be determined, must be established in accordance with paragraph UG-101 of the ASME Boiler and Pressure Vessel Code (BPVC) (Section VIII, Division 1) (incorporated by reference, *see* § 192.7).
 
