@@ -1,7 +1,5 @@
 ##### 3052.101 Using part 3052. #####
 
-Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
-
 (b) Numbering.
 
 (2)(i) Provisions or clauses that supplement the FAR.
@@ -18,6 +16,6 @@ Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
 
 Note to 3052.101:
 
-The solicitation provisions and contract clauses matrix referencing all HSAR provisions and clauses is available at *http://www.dhs.gov/xopnbiz/* under Policy and Regulations, Homeland Security Acquisition Regulation (HSAR).
+The solicitation provisions and contract clauses matrix referencing all HSAR provisions and clauses is available at *https://www.dhs.gov/publication/hsar-provision-and-clause-matrix*.
 
-[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 48802, Aug. 22, 2006; 77 FR 50636, Aug. 22, 2012]
+[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 48802, Aug. 22, 2006; 77 FR 50636, Aug. 22, 2012; 86 FR 17317, Apr. 2, 2021]

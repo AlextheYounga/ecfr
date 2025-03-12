@@ -1,5 +1,7 @@
 ##### § 510.506 Downstream distribution arrangements. #####
 
+Link to an amendment published at 86 FR 23575, May 3, 2021.
+
 (a) *General.* (1) An ACO participant that is a PGP, NPPGP, or TGP and that has entered into a distribution arrangement with a CJR collaborator that is an ACO may distribute all or a portion of any distribution payment it receives from the CJR collaborator only in accordance with downstream distribution arrangement.
 
 (2) All downstream distribution arrangements must comply with the provisions of this section and all applicable laws and regulations, including the fraud and abuse laws.

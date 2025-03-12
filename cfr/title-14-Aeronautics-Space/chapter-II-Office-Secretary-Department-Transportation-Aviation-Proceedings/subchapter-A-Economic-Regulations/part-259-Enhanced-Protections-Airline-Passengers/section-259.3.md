@@ -1,5 +1,7 @@
 ##### § 259.3 Definitions. #####
 
+Link to an amendment published at 86 FR 23270, May 3, 2021.
+
 *Certificated air carrier* means a U.S. carrier holding a certificate issued under 49 U.S.C. 41102 to conduct passenger service or holding an exemption to conduct passenger operations under 49 U.S.C. 41102.
 
 *Commuter air carrier* means a U.S. carrier that has been found fit under 49 U.S.C. 41738 and is authorized to carry passengers on at least five round trips per week on at least one route between two or more points according to a published flight schedule using small aircraft as defined in 14 CFR 298.2.

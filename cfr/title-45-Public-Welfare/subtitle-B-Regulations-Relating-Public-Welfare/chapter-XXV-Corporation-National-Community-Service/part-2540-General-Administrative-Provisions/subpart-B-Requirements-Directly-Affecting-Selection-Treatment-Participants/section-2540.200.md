@@ -1,7 +1,27 @@
-##### § 2540.200 What does “you” mean in this section? #####
+##### § 2540.200 Which entities are required to comply with the National Service Criminal History Check requirements in this subpart? #####
 
-Link to an amendment published at 86 FR 11146, Feb. 24, 2021.
+The National Service Criminal History Check is a requirement for entities that are recipients or subrecipients of the following grants:
 
-As used in this section, “you” means a Corporation grantee or other entity subject to Corporation grant provisions. Unless the context otherwise requires, this includes, but is not limited to, recipients of federal financial assistance under grant programs defined in § 2510.20 of this chapter as well as projects under the Senior Companion Program, the Foster Grandparent Program, and RSVP.
+(a) Operational grants provided by AmeriCorps State and National;
 
-[77 FR 60932, Oct. 5, 2012]
+(b) Foster Grandparent Program Grants;
+
+(c) Retired and Senior Volunteer Program Grants;
+
+(d) Senior Companion Program Grants;
+
+(e) Senior Demonstration Program Grants that receive funding from CNCS;
+
+(f) Martin Luther King, Jr. Day of Service Grants;
+
+(g) September 11th Day of Service Grants;
+
+(h) Social Innovation Fund Grants;
+
+(i) Volunteer Generation Fund Grants;
+
+(j) AmeriCorps VISTA Program Grants;
+
+(k) AmeriCorps VISTA Support Grants.
+
+[86 FR 11146, Feb. 24, 2021]

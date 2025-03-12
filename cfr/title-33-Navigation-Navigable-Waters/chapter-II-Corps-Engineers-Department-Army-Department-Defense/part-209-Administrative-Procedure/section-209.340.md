@@ -20,7 +20,7 @@
 
 (1) The work will be performed on a cost reimbursable basis.
 
-(2) Work may be performed for State and local units of government, foreign governments or private firms only when it is firmly established that private commerical laboratory facilities capable of performing such work are not available, or because of location or for other reasons it is clearly impractical to utilize such private commerical laboratory services. The requesting entity must further certify that such services cannot be procured reasonably and expeditiously through ordinary business channels.
+(2) Work may be performed for State and local units of government, foreign governments or private firms only when it is firmly established that private commercial laboratory facilities capable of performing such work are not available, or because of location or for other reasons it is clearly impractical to utilize such private commercial laboratory services. The requesting entity must further certify that such services cannot be procured reasonably and expeditiously through ordinary business channels.
 
 (3) Performance of the work will not interfere with provisions of services essential to the mission of the Corps.
 

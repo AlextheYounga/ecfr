@@ -1,5 +1,7 @@
 ##### § 244.1 Definitions. #####
 
+Link to an amendment published at 86 FR 23269, May 3, 2021.
+
 *Arrival time* is the instant when the pilot sets the aircraft parking brake after arriving at the airport gate or passenger unloading area. If the parking brake is not set, record the time for the opening of the passenger door. Also, for purposes of section 244.3 carriers using a Docking Guidance System (DGS) may record the official “gate-arrival time” when the aircraft is stopped at the appropriate parking mark.
 
 *Cancelled flight* means a flight operation that was not operated, but was listed in an air carrier or a foreign air carrier's computer reservation system within seven calendar days of the scheduled departure.

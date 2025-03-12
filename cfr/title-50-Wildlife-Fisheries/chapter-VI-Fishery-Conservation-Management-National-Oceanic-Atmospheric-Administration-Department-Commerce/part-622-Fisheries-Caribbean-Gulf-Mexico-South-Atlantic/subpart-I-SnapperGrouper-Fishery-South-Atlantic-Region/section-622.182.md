@@ -1,7 +1,5 @@
 ##### § 622.182 Gear-restricted areas. #####
 
-Link to an amendment published at 86 FR 17319, Apr. 2, 2021.
-
 (a) *Special management zones (SMZs).* (1) The SMZs consist of artificial reefs and surrounding areas as follows:
 
 (i) *Paradise Reef* is bounded on the north by 33°31.59′ N. lat.; on the south by 33°30.51′ N. lat.; on the east by 78°57.55′ W. long.; and on the west by 78°58.85′ W. long.
@@ -131,5 +129,60 @@ Link to an amendment published at 86 FR 17319, Apr. 2, 2021.
 (c) [Reserved]
 
 (d) *Sea bass pot prohibited area.* A sea bass pot may not be used in the South Atlantic EEZ south of 28°35.1′ N. lat. (due east of the NASA Vehicle Assembly Building, Cape Canaveral, FL). A sea bass pot deployed in the EEZ south of 28°35.1′ N. lat. may be disposed of in any appropriate manner by the Assistant Administrator or an authorized officer.
+
+(d) [Reserved]
+
+(e) *SMZs off North Carolina.* (1) The center of each SMZ in Table 3 to this paragraph (e) is located at the given point with a radius extending the applicable distance in every direction laterally from that point to form a circle around the center point.
+
+(2) Harvest of South Atlantic snapper-grouper while in the SMZs in this paragraph (e) is permitted only by handline, rod and reel, and spearfishing gear. All harvest of South Atlantic snapper-grouper by spearfishing gear in the SMZs in this paragraph (e) is limited to the applicable recreational bag and possession limits in § 622.187.
+
+Table 3 to Paragraph (e)
+
+|Reef name|North lat.|West long.|Radius in ft  <br/>(m)|
+|---------|----------|----------|----------------------|
+| AR-130  |36°00.296′|75°31.957′|     1,500 (457)      |
+| AR-140  |35°56.718′|75°31.965′|     1,500 (457)      |
+| AR-145  |35°54.017′|75°23.883′|     1,500 (457)      |
+| AR-220  |35°08.117′|75°40.633′|     3,000 (914)      |
+| AR-225  |35°06.768′|75°39.322′|     1,500 (457)      |
+| AR-230  |35°06.133′|75°42.933′|     1,500 (457)      |
+| AR-250  |34°56.900′|75°54.860′|     1,500 (457)      |
+| AR-255  |34°55.483′|75°57.910′|     1,500 (457)      |
+| AR-285  |34°33.383′|76°26.350′|     1,500 (457)      |
+| AR-300  |34°18.517′|76°24.133′|     1,500 (457)      |
+| AR-302  |34°10.265′|76°13.703′|     1,500 (457)      |
+| AR-305  |34°16.683′|76°38.650′|     1,500 (457)      |
+| AR-330  |34°33.634′|76°51.267′|     3,000 (914)      |
+| AR-340  |34°34.319′|76°58.345′|     1,500 (457)      |
+| AR-345  |34°32.266′|76°58.508′|     1,500 (457)      |
+| AR-355  |34°21.318′|77°19.877′|     1,500 (457)      |
+| AR-362  |34°15.657′|77°30.392′|     1,500 (457)      |
+| AR-366  |34°12.950′|77°25.250′|     1,500 (457)      |
+| AR-368  |34°09.514′|77°25.782′|     1,500 (457)      |
+| AR-372  |34°06.295′|77°44.917′|     1,500 (457)      |
+| AR-376  |34°03.283′|77°39.633′|     1,500 (457)      |
+| AR-382  |33°58.581′|77°41.172′|     1,500 (457)      |
+| AR-386  |33°57.517′|77°33.400′|     1,500 (457)      |
+| AR-400  |33°29.267′|77°35.227′|     1,500 (457)      |
+| AR-420  |33°51.050′|78°06.710′|     1,500 (457)      |
+| AR-440  |33°49.800′|78°13.083′|     1,500 (457)      |
+| AR-445  |33°44.783′|78°14.100′|     1,500 (457)      |
+| AR-455  |33°47.033′|78°17.883′|     1,500 (457)      |
+| AR-460  |33°50.089′|78°22.022′|     1,500 (457)      |
+| AR-465  |33°23.423′|78°11.052′|     1,500 (457)      |
+
+(f) *Additional SMZs off South Carolina.* (1) The center of each SMZ in Table 4 to this paragraph (f) is located at the given point with a radius extending the applicable distance in every direction laterally from that point to form a circle around the center point.
+
+(2) Harvest of South Atlantic snapper-grouper while in the SMZs in this paragraph (f) is permitted only by handline, rod and reel, and spearfishing gear (excludes a powerhead). All harvest of South Atlantic snapper-grouper by the allowable gear in the SMZs in this paragraph (f) is limited to the applicable recreational bag and possession limits in § 622.187.
+
+(3) *PA-04 - Ron McManus Memorial Reef.* This SMZ is bounded by lines connecting the following corner points: northwest corner point at 33°46.400′ N, 78°36.200′ W; northeast corner point at 33°46.400′ N, 78°35.600′ W; southeast corner point at 33°45.900′ N, 78°35.600′ W; and southwest corner point at 33°45.900′ N, 78°36.200′ W.
+
+Table 4 to Paragraph (f)
+
+|       Reef name        |North lat.|West long.|Radius in ft  <br/>(m)|
+|------------------------|----------|----------|----------------------|
+|     PA-07 Pop Nash     |33°34.510′|78°51.000′|      600 (183)       |
+|PA-28 Lowcountry Anglers|32°34.300′|79°55.100′|      600 (183)       |
+|PA-34 CCA-McClellanville|32°51.800′|79°22.500′|      600 (183)       |
 
 [78 FR 22952, Apr. 17, 2013, as amended at 85 FR 36171, June 15, 2020]

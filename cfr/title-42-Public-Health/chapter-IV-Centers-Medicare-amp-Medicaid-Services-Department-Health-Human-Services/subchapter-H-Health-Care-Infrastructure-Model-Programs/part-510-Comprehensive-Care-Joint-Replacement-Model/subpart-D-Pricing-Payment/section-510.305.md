@@ -1,5 +1,7 @@
 ##### § 510.305 Determination of the NPRA and reconciliation process. #####
 
+Link to an amendment published at 86 FR 23572, May 3, 2021.
+
 (a) *General.* Providers and suppliers furnishing items and services included in the episode bill for such items and services in accordance with existing rules and as if this part were not in effect.
 
 (b) *Reconciliation.* CMS uses a series of reconciliation processes, which CMS performs as described in paragraphs (d) and (f) of this section, after the end of each performance year 1 through 4 to establish final payment amounts to participant hospitals for CJR episodes for a given performance year. Following the end of each performance year 1 through 4, CMS determines actual episode payments for each episode for the performance year (other than episodes that have been canceled in accordance with § 510.210(b)), and determines the amount of a reconciliation payment or repayment amount. Within performance year 5, CMS separately performs the reconciliation processes described in paragraphs (d) and (f) of this section for performance year subsets 5.1 and 5.2 and following the end of each performance year subset 5.1 and 5.2, CMS separately determines the actual episode payment for each episode for the subset of the performance year (other than episodes that have been canceled in accordance with § 510.210(b)) and determines the amount of a reconciliation payment or repayment for each of performance year subsets 5.1 and 5.2.

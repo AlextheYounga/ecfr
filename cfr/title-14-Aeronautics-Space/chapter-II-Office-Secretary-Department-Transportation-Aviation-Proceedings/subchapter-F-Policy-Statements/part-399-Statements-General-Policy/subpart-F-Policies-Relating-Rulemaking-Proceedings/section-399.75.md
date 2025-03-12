@@ -1,10 +1,8 @@
 ##### § 399.75 Rulemakings relating to unfair and deceptive practices. #####
 
-Link to an amendment published at 86 FR 17294, Apr. 2, 2021.
-
 (a) *General.* When issuing a proposed or final regulation declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), unless the regulation is specifically required by statute, the Department shall employ the definitions of “unfair” and “deceptive” set forth in § 399.79.
 
-(b) *Procedural requirements.* When issuing a proposed regulation under paragraph (a) of this section that is defined as high impact or economically significant within the meaning of 49 CFR 5.17(a), the Department shall follow the procedural requirements set forth in 49 CFR 5.17. When issuing a proposed regulation under paragraph (a) of this section that is not defined as high impact or economically significant within the meaning of 49 CFR 5.17(a), unless the regulation is specifically required by statute, the Department shall adhere to the following procedural requirements:
+(b) *Procedural requirements.* When issuing a proposed regulation under paragraph (a) of this section, unless the regulation is specifically required by statute, the Department shall adhere to the following procedural requirements:
 
 (1) *Request for a hearing.* Following publication of a proposed regulation, and before the close of the comment period, any interested party may file in the rulemaking docket a petition, directed to the General Counsel, to hold a hearing on the proposed regulation.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 86 FR 17294, Apr. 2, 2021.
 
 (c) *Basis for rulemaking.* When issuing a proposed or final regulation declaring a practice in air transportation or the sale of air transportation to be unfair or deceptive to consumers under the authority of 49 U.S.C. 41712(a), unless the regulation is specifically required by statute, the Department shall articulate the basis for concluding that the practice is unfair or deceptive to consumers as defined in § 399.79.
 
-[85 FR 78716, Dec. 7, 2020]
+[85 FR 78716, Dec. 7, 2020, as amended at 86 FR 17294, Apr. 2, 2021]

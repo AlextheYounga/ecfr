@@ -1,14 +1,22 @@
 ##### § 230.6 Project costs and cost share requirements. #####
 
-(a) The CFP Federal contribution cannot exceed 50 percent of the total project costs.
+(a) The Community Forest Program Federal contribution cannot exceed 50 percent of the total project costs.
 
-(b) Allowable project and cost share costs will include the purchase price and the following transactional costs associated with the acquisition: appraisals and appraisal reviews, land surveys, legal and closing costs, development of the community forest plan, and title examination. The following principles and procedures will determine allowable costs for grants:
+(b) Allowable project and cost share costs will include the purchase price and the following transactional costs associated with the acquisition:
 
-(1) For local and Indian tribal governments, refer to 2 CFR Part 225, Cost Principles for State, Local, and Indian Tribal Governments (OMB Circular A-87) .
+(1) Appraisals and appraisal reviews;
 
-(2) For qualified nonprofit organizations, refer to 2 CFR Part 230, Cost Principles for Non-Profit Organizations (OMB Circular A-122).
+(2) Land surveys;
 
-(c) Project costs do not include the following:
+(3) Legal and closing costs;
+
+(4) Development of the Community Forest Plan; and
+
+(5) Title examination.
+
+(c) The principles and procedures for determining allowable costs for grants are outlined in 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements.
+
+(d) Project costs do not include the following:
 
 (1) Long-term operations, maintenance, and management of the land;
 
@@ -18,11 +26,11 @@
 
 (4) Existing liens or taxes owed; and
 
-(5) Costs associated with preparation of the application, except any allowable project costs specified in section 230.6(b) completed as part of the application.
+(5) Costs associated with preparation of the application, except any allowable project costs specified in paragraph (b) of this section completed as part of the application.
 
-(d) Cost share contributions can include cash, in-kind services, or donations and must meet the following requirements:
+(e) Cost share contributions can include cash, in-kind services, or donations and must:
 
-(1) Be supported by grant regulations described above;
+(1) Be supported by grant regulations described in paragraphs (a) through (d) of this section;
 
 (2) Not include other Federal funds unless specifically authorized by Federal statute;
 
@@ -30,10 +38,10 @@
 
 (4) Not include funds used to satisfy mandatory or compensatory mitigation requirements under a Federal regulation, such as the Clean Water Act, the River and Harbor Act, or the Endangered Species Act;
 
-(5) Not include borrowed funds; and
+(5) Not include borrowed funds, as defined in § 230.2; and
 
 (6) Be accomplished within the grant period.
 
-(e) Cost share contributions may include the purchase or donation of lands located within the community forest as long as it is provided by an eligible entity and legally dedicated to perpetual land conservation consistent with CFP program objectives; such donations need to meet the requirements specified under § 230.8 Acquisition requirements (a)(1)(ii).
+(f) Cost share contributions may include the purchase or donation of other lands located within the community forest as long as it is provided by an eligible entity and legally dedicated to perpetual land conservation consistent with Community Forest Program and community forest objectives; such donations need to meet the acquisition requirements specified under § 230.8(a)(1)(ii).
 
-(f) For the purposes of calculating the cost share contribution, the grant recipient may request the inclusion of project due diligence costs, such as title review and appraisals, that were incurred prior to issuance of the grant. These pre-award costs may occur up to one year prior to the issuance of the grant, but cannot include the purchase of CFP land, including cost share tracts.
+(g) For purposes of calculating the cost share contribution, the grant recipient may request inclusion of project due diligence costs, such as title review and appraisals, incurred prior to issuance of the grant. These pre-award costs may have been incurred up to one year prior to the issuance of the grant, but cannot include the purchase of Community Forest Program land, including cost share tracts.

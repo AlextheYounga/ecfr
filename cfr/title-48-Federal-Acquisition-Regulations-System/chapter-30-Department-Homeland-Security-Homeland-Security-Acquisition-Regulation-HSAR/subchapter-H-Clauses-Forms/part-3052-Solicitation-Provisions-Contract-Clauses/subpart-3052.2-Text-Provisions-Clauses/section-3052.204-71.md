@@ -1,7 +1,5 @@
 ##### 3052.204-71 Contractor employee access. #####
 
-Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
-
 As prescribed in (HSAR) 48 CFR 3004.470-3(b), insert a clause substantially the same as follows with appropriate alternates:
 
 Contractor Employee Access (SEP 2012)
@@ -30,9 +28,9 @@ Contractor Employee Access (SEP 2012)
 
 *Alternate I* (SEP 2012) When the contract will require Contractor employees to have access to Information Technology (IT) resources, add the following paragraphs:
 
-(g) Before receiving access to IT resources under this contract the individual must receive a security briefing, which the Contracting Officer's Technical Representative (COTR) will arrange, and complete any nondisclosure agreement furnished by DHS.
+(g) Before receiving access to IT resources under this contract the individual must receive a security briefing, which the Contracting Officer's Representative (COR) will arrange, and complete any nondisclosure agreement furnished by DHS.
 
-(h) The Contractor shall have access only to those areas of DHS information technology resources explicitly stated in this contract or approved by the COTR in writing as necessary for performance of the work under this contract. Any attempts by Contractor personnel to gain access to any information technology resources not expressly authorized by the statement of work, other terms and conditions in this contract, or as approved in writing by the COTR, is strictly prohibited. In the event of violation of this provision, DHS will take appropriate actions with regard to the contract and the individual(s) involved.
+(h) The Contractor shall have access only to those areas of DHS information technology resources explicitly stated in this contract or approved by the COR in writing as necessary for performance of the work under this contract. Any attempts by Contractor personnel to gain access to any information technology resources not expressly authorized by the statement of work, other terms and conditions in this contract, or as approved in writing by the COR, is strictly prohibited. In the event of violation of this provision, DHS will take appropriate actions with regard to the contract and the individual(s) involved.
 
 (i) Contractor access to DHS networks from a remote location is a temporary privilege for mutual convenience while the Contractor performs business for the DHS Component. It is not a right, a guarantee of access, a condition of the contract, or Government Furnished Equipment (GFE).
 
@@ -54,4 +52,4 @@ Contractor Employee Access (SEP 2012)
 
 (h) Contractors shall identify in their proposals, the names and citizenship of all non-U.S. citizens proposed to work under the contract. Any additions or deletions of non-U.S. citizens after contract award shall also be reported to the Contracting Officer.
 
-(End of clause)[71 FR 25773, May 2, 2006, as amended at 71 FR 48802, Aug. 22, 2006; 77 FR 50636, Aug. 22, 2012; 77 FR 54836, Sept. 6, 2012]
+(End of clause)[71 FR 25773, May 2, 2006, as amended at 71 FR 48802, Aug. 22, 2006; 77 FR 50636, Aug. 22, 2012; 77 FR 54836, Sept. 6, 2012; 86 FR 17317, Apr. 2, 2021]

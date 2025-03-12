@@ -1,5 +1,7 @@
 ##### § 510.100 Episodes being tested. #####
 
+Link to an amendment published at 86 FR 23570, May 3, 2021.
+
 (a) *Initiation of an episode.* An episode is initiated when a participant hospital admits a Medicare beneficiary described in § 510.205 for an anchor hospitalization.
 
 (b) *Exclusions.* A hospital is excluded from being a participant hospital, but only so long as any of the following conditions apply:

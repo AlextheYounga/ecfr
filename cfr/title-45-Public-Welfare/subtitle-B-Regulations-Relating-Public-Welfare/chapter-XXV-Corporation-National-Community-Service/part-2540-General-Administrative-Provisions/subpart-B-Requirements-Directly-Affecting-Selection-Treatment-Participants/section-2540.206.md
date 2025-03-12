@@ -1,11 +1,19 @@
-##### § 2540.206 What documentation must I maintain regarding a National Service Criminal History Check for a covered position? #####
+##### § 2540.206 What procedural steps are required, in addition to conducting the National Service Criminal History Check described in this subpart? #####
 
-Link to an amendment published at 86 FR 11147, Feb. 24, 2021.
+(a) In addition to conducting the National Service Criminal History Check described in § 2540.204, grant recipients or subrecipients must:
 
-You must:
+(1) Obtain a person's consent before conducting the state and FBI components of the National Service Criminal History Check;
 
-(a) Document in writing that you verified the identity of the individual in a covered position by examining the individual's government-issued photo identification card, and that you conducted the required checks for the covered position; and
+(2) Provide notice that selection for work or service for a position specified in § 2540.201(a) is contingent upon the organization's review of the National Service Criminal History Check component results;
 
-(b) Maintain the results, or a results summary issued by a State or Federal government body, of the NSOPW check and the other components of each National Service Criminal History Check, unless precluded from doing so by State or Federal law or regulation. You must also document in writing that an authorized grantee representative considered the results of the National Service Criminal History Check in selecting the individual.
+(3) Provide a reasonable opportunity for the person to review and challenge the factual accuracy of a result before action is taken to exclude the person from the position;
 
-[77 FR 60933, Oct. 5, 2012]
+(4) Take reasonable steps to protect the confidentiality of any information relating to the criminal history check, consistent with authorization provided by the applicant;
+
+(5) Maintain documentation of the National Service Criminal History Check as grant records; and
+
+(6) Pay for the cost of the NSCHC. Unless specifically approved by CNCS under § 2540.207, the person who is serving or working in the covered position may not be charged for the cost of any component of a National Service Criminal History Check.
+
+(b) CNCS-approved vendors may facilitate obtaining and documenting the requirements in paragraphs (a)(1) through (5) of this section.
+
+[86 FR 11147, Feb. 24, 2021]

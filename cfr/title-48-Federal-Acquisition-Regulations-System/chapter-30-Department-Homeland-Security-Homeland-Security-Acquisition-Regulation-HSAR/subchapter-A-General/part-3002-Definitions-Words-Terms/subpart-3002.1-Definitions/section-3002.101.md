@@ -1,7 +1,5 @@
 ##### 3002.101 Definitions. #####
 
-Link to an amendment published at 86 FR 17314, Apr. 2, 2021.
-
 *Chief Information Officer (CIO)* means the Director of the Office of the CIO.
 
 *Chief of the Contracting Office (COCO)* means the individual(s) responsible for managing the contracting office(s) within a Component.
@@ -18,13 +16,15 @@ Link to an amendment published at 86 FR 17314, Apr. 2, 2021.
 
 (4) Transportation Security Administration (TSA);
 
-(5) U.S. Coast Guard (USCG);
+(5) U.S. Citizenship and Immigration Services (USCIS);
 
-(6) U.S. Customs and Border Protection (CBP);
+(6) U.S. Coast Guard (USCG);
 
-(7) U.S. Immigration and Customs Enforcement (ICE); and
+(7) U.S. Customs and Border Protection (CBP);
 
-(8) U.S. Secret Service (USSS).
+(8) U.S. Immigration and Customs Enforcement (ICE); and
+
+(9) U.S. Secret Service (USSS).
 
 *Contracting activity* includes all the contracting offices within a Component and is the same as the term “procuring activity.”
 
@@ -42,17 +42,19 @@ Link to an amendment published at 86 FR 17314, Apr. 2, 2021.
 
 (4) Chief, Procurement Division (FLETC);
 
-(5) Assistant Administrator for Acquisition (TSA);
+(5) Assistant Administrator for Contracting & Procurement (TSA);
 
-(6) Director of Contracting and Procurement (USCG);
+(6) Chief, Office of Contracting (USCIS);
 
-(7) Executive Director, Procurement (CBP);
+(7) Director of Contracting and Procurement (USCG);
 
-(8) Director, Office of Acquisition Management (ICE); and
+(8) Deputy Assistant Commissioner, Office of Acquisition (CBP);
 
-(9) Chief, Procurement Operations (USSS).
+(9) Director, Office of Acquisition Management (ICE); and
 
-*Legal counsel* means the Department of Homeland Security Office of General Counsel or Component office providing legal services to the contracting organization.
+(10) Chief, Procurement Operations (USSS).
+
+*Legal counsel* means the Department of Homeland Security Office of the General Counsel, which includes Component offices providing legal services to the contracting organization.
 
 *Legal review* means review by legal counsel.
 
@@ -60,7 +62,7 @@ Link to an amendment published at 86 FR 17314, Apr. 2, 2021.
 
 *Micro-purchase threshold* is defined as in (FAR) 48 CFR 2.101, except when (HSAR) 48 CFR 3013.7003(a) applies.
 
-*Senior Procurement Executive (SPE) for the Department of Homeland Security* means the DHS Chief Procurement Officer (CPO), who is the individual appointed pursuant to 41 U.S.C. 1702 to be responsible for management direction of the procurement system of DHS, including implementation of the unique procurement policies, regulations, and standards of DHS.
+*Senior Procurement Executive (SPE) for the Department of Homeland Security* means the individual appointed pursuant to 41 U.S.C. 1702(c). The SPE is responsible for the management direction of the procurement system of DHS, including implementation of the unique procurement policies, regulations, and standards of DHS. The DHS Chief Procurement Officer (CPO) is the SPE for DHS and is the only individual within DHS that bears the title of the CPO.
 
 *Sensitive Information,* as used in this Chapter, means any information which if lost, misused, disclosed, or, without authorization, is accessed or modified, could adversely affect the national or homeland security interest, the conduct of Federal programs, or the privacy to which individuals are entitled under 5 U.S.C. 552a (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive Order or an Act of Congress to be kept secret in the interest of national defense, homeland security or foreign policy. This definition includes the following categories of information:
 
@@ -72,4 +74,4 @@ Link to an amendment published at 86 FR 17314, Apr. 2, 2021.
 
 (4) Any information that is designated “sensitive” or subject to other controls, safeguards or protections in accordance with subsequently adopted homeland security information handling procedures.
 
-[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25767, May 2, 2006; 71 FR 48801, Aug. 22, 2006; 72 FR 1297, Jan. 11, 2007; 73 FR 30318, May 27, 2008; 75 FR 41099, \>July 15, 2010; 77 FR 50633, Aug. 22, 2012]
+[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25767, May 2, 2006; 71 FR 48801, Aug. 22, 2006; 72 FR 1297, Jan. 11, 2007; 73 FR 30318, May 27, 2008; 75 FR 41099, \>July 15, 2010; 77 FR 50633, Aug. 22, 2012; 86 FR 17314, Apr. 2, 2021]

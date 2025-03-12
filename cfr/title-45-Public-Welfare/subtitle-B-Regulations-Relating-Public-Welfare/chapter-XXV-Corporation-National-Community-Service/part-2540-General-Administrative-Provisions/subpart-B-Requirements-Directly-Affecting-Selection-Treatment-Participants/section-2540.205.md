@@ -1,29 +1,9 @@
-##### § 2540.205 What procedures must I follow in conducting a National Service Criminal History Check for a covered position? #####
+##### § 2540.205 By when must the National Service Criminal History Check be completed? #####
 
-Link to an amendment published at 86 FR 11147, Feb. 24, 2021.
+(a) The National Service Criminal History Check must be conducted, reviewed, and an eligibility determination made by the grant recipient or subrecipient based on the results of the National Service Criminal History Check *before* a person begins to work or serve in a position specified in § 2540.201(a).
 
-You are responsible for following these procedures:
+(b) If a person serves consecutive terms of service or employment with the same organization in a position specified in § 2540.201(a) and does not have a break in service or employment longer than 180 days, then no additional National Service Criminal History Check is required, as long as the original check complied with the requirements of § 2540.204. If a National Service Criminal History Check was not conducted on a person because they were under the age of 18 at the time they began their prior term(s) of service or employment in a covered position, pursuant to § 2540.201(b), a National Service Criminal History check must be conducted prior to the individual beginning a subsequent term of work or service for which the person is 18 years of age or older at the start of work or service.
 
-(a) Verify the individual's identity by examining the individual's government-issued photo identification card, such as a driver's license;
+(c) Persons working or serving in positions specified in § 2540.201(a) prior to May 1, 2021, who continue working or serving in a position specified in § 2540.201(a) on or after November 1, 2021, must have a National Service Criminal History Check conducted, reviewed, and an eligibility determination made by the grant recipient or subrecipient based on the results of the National Service Criminal History Check completed in accordance with this part. For these people, the National Service Criminal History Check must be completed no later than November 1, 2021.
 
-(b) Obtain prior, written authorization from the individual for the State registry check, for the FBI criminal history check, and for the appropriate sharing of the results of the checks within the program. Prior written authorization from the individual is not required to conduct the nationwide NSOPW check;
-
-(c) Document the individual's understanding that selection into the program is contingent upon the organization's review of the individual's National Service Criminal History Check component results, if any;
-
-(d) Ensure that screening practices comply with federal civil rights laws, including Titles VI and VII of the Civil Rights Act of 1964 (and the Corporation's implementing regulations under Title VI);
-
-(e) Provide a reasonable opportunity for the individual to review and challenge the factual accuracy of a result before action is taken to exclude the individual from the position;
-
-(f) Provide safeguards to ensure the confidentiality of any information relating to the criminal history check, consistent with authorization provided by the applicant; and
-
-(g) Ensure that an individual, for whom the results of a required state or FBI criminal history registry check are pending, is not permitted to have access to children age 17 years or younger, to individuals age 60 years or older, or to individuals with disabilities without being in the physical presence of:
-
-(1) Your authorized representative who has previously been cleared for such access;
-
-(2) A family member or legal guardian of the vulnerable individual; or
-
-(3) An individual authorized, because of his or her profession, to have recurring access to the vulnerable individual, such as an education or medical professional.
-
-(h) Unless specifically approved by the Corporation, you may not charge an individual for the cost of any component of a National Service Criminal History Check.
-
-[77 FR 60932, Oct. 5, 2012]
+[86 FR 11147, Feb. 24, 2021]

@@ -1,24 +1,22 @@
 ##### 3052.209-70 Prohibition on contracts with corporate expatriates. #####
 
-Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
-
-As prescribed at (HSAR) 48 CFR 3009.108-7005, insert the following clause:
+As prescribed at (HSAR) 48 CFR 3009.108-7005, insert the following provision:
 
 Prohibition on Contracts With Corporate Expatriates (JUN 2006)
 
-(a) *Prohibitions.* Section 835 of the Homeland Security Act, 6 U.S.C. 395, prohibits the Department of Homeland Security from entering into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation as defined in this clause, or with any subsidiary of such an entity. The Secretary shall waive the prohibition with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
+(a) *Prohibitions.* Section 835 of the Homeland Security Act, 6 U.S.C. 395, prohibits the Department of Homeland Security from entering into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation as defined in this provision, or with any subsidiary of such an entity. The Secretary shall waive the prohibition with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
 
-(b) *Definitions.* As used in this clause:
+(b) *Definitions.* As used in this provision:
 
 *Expanded Affiliated Group* means an affiliated group as defined in section 1504(a) of the Internal Revenue Code of 1986 (without regard to section 1504(b) of such Code), except that section 1504 of such Code shall be applied by substituting ‘more than 50 percent’ for ‘at least 80 percent’ each place it appears.
 
 *Foreign Incorporated Entity* means any entity which is, or but for subsection (b) of section 835 of the Homeland Security Act, 6 U.S.C. 395, would be, treated as a foreign corporation for purposes of the Internal Revenue Code of 1986.
 
-*Inverted Domestic Corporation.* A foreign incorporated entity shall be treated as an inverted domestic corporation if, pursuant to a plan (or a series of related transactions) -
+*Inverted Domestic Corporation.* A foreign incorporated entity shall be treated as an inverted domestic corporation if, pursuant to a plan (or a series of related transactions)—
 
 (1) The entity completes the direct or indirect acquisition of substantially all of the properties held directly or indirectly by a domestic corporation or substantially all of the properties constituting a trade or business of a domestic partnership;
 
-(2) After the acquisition at least 80 percent of the stock (by vote or value) of the entity is held -
+(2) After the acquisition at least 80 percent of the stock (by vote or value) of the entity is held—
 
 (i) In the case of an acquisition with respect to a domestic corporation, by former shareholders of the domestic corporation by reason of holding stock in the domestic corporation; or
 
@@ -68,4 +66,4 @@ Prohibition on Contracts With Corporate Expatriates (JUN 2006)
 
 (g) A copy of the approved waiver, if a waiver has already been granted, or the waiver request, if a waiver has been applied for, shall be attached to the bid or proposal.
 
-(End of provision)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25774, May 2, 2006; 76 FR 70661, Nov. 15, 2011]
+(End of provision)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25774, May 2, 2006; 76 FR 70661, Nov. 15, 2011; 86 FR 17317, Apr. 2, 2021]

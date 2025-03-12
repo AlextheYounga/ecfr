@@ -1,5 +1,7 @@
 ##### § 510.505 Distribution arrangements. #####
 
+Link to an amendment published at 86 FR 23575, May 3, 2021.
+
 (a) *General.* (1) An ACO, PGP, NPPGP, or TGP that has entered into a sharing arrangement with a participant hospital may distribute all or a portion of any gainsharing payment it receives from the participant hospital only in accordance with a distribution arrangement.
 
 (2) All distribution arrangements must comply with the provisions of this section and all other applicable laws and regulations, including the fraud and abuse laws.

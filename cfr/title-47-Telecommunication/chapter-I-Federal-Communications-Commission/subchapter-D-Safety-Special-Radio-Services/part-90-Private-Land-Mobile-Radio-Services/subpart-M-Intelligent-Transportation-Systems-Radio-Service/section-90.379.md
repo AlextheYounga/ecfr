@@ -1,0 +1,7 @@
+##### § 90.379 ASTM E2213-03 DSRC Standard (ASTM-DSRC Standard). #####
+
+Link to an amendment published at 86 FR 23298, May 3, 2021.
+
+Roadside Units operating in the 5850-5925 MHz band shall comply with the following technical standard, which is incorporated by reference: American Society for Testing and Materials (ASTM) E2213-03, “Standard Specification for Telecommunications and Information Exchange Between Roadside and Vehicle Systems - 5 GHz Band Dedicated Short Range Communications (DSRC) Medium Access Control (MAC) and Physical Layer (PHY) Specifications” published September 2003 (ASTM E2213-03 DSRC Standard). The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be inspected at the Federal Communications Commission, 445 12th Street, SW., Washington, DC 20554 or National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Copies of the ASTM E2213-03 DSRC Standard can be obtained from ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. Copies may also be obtained from ASTM via the Internet at *http://www.astm.org.*
+
+[69 FR 46445, Aug. 3, 2004]

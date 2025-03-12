@@ -1,5 +1,7 @@
 ##### § 510.120 CJR participant hospital CEHRT track requirements. #####
 
+Link to an amendment published at 86 FR 23570, May 3, 2021.
+
 (a) *CJR CEHRT use.* For performance years 2 through 5, CJR participant hospitals choose either of the following:
 
 (1) *CEHRT use.* Participant hospitals attest in a form and manner specified by CMS to their use of CEHRT as defined in § 414.1305 of this chapter to document and communicate clinical care with patients and other health professionals.

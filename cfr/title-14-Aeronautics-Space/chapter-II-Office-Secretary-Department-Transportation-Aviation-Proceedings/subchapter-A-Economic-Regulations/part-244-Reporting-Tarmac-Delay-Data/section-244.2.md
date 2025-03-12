@@ -1,5 +1,7 @@
 ##### § 244.2 Applicability. #####
 
+Link to an amendment published at 86 FR 23269, May 3, 2021.
+
 (a) Except as provided in paragraph (b) of this section, this part applies to U.S. certificated air carriers, U.S. commuter air carriers and foreign air carriers that operate passenger service to or from a U.S. airport with at least one aircraft that has an original manufacturer's design capacity of 30 or more seats. Covered carriers must report all passenger operations that experience a tarmac time of more than 3 hours at a U.S. airport.
 
 (b) For foreign air carriers that operate charter flights from foreign airports to U.S. airports, and return to foreign airports, and do not pick up any new passengers in the U.S., the charter flights are not flights subject to the reporting requirements of this part.

@@ -1,5 +1,7 @@
 ##### § 510.405 Beneficiary choice and beneficiary notification. #####
 
+Link to an amendment published at 86 FR 23574, May 3, 2021.
+
 (a) *Beneficiary choice.* The CJR model does not restrict Medicare beneficiaries' ability to choose any Medicare enrolled provider or supplier, or any physician or practitioner who has opted out of Medicare.
 
 (1) As part of discharge planning and referral, participant hospitals must provide a complete list of HHAs, SNFs, IRFs, or LTCHs that are participating in the Medicare program, and that serve the geographic area (as defined by the HHA) in which the patient resides, or in the case of a SNF, IRF, or LTCH, in the geographic area requested by the patient.

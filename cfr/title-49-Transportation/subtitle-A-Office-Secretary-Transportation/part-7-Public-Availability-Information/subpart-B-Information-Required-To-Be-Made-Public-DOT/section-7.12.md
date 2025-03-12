@@ -1,12 +1,10 @@
 ##### § 7.12 What records are available in reading rooms, and how are they accessed? #####
 
-Link to an amendment published at 86 FR 17295, Apr. 2, 2021.
-
 (a) *General.* Pursuant to 5 U.S.C. 552(a)(2), unless the following records are promptly published and offered for sale or published in the Federal Register, DOT and its components make the following records, and an index to the records, available in a reading room, including an electronic reading room if the records were created by DOT on or after November 1, 1996:
 
 (1) Final opinions, including concurring and dissenting opinions, as well as orders, made in the adjudication of cases;
 
-(2) Statements of policy and interpretations, including guidance documents as defined in 49 CFR 5.25(c), that have been adopted by DOT;
+(2) Statements of policy and interpretations that have been adopted by DOT;
 
 (3) Administrative staff manuals and instructions to staff that affect a member of the public; and
 
@@ -20,4 +18,4 @@ Link to an amendment published at 86 FR 17295, Apr. 2, 2021.
 
 (b) *Reading room locations.* DOT makes its reading room records and indices (in the form of lists or links) available at *https://www.transportation.gov/foia.* To the extent that DOT continues to make reading rooms available at a physical location, those locations are listed on the DOT FOIA Web site at *https://www.transportation.gov/foia.*
 
-[79 FR 16209, Mar. 25, 2014, as amended at 82 FR 21139, May 5, 2017; 84 FR 71733, Dec. 27, 2019]
+[79 FR 16209, Mar. 25, 2014, as amended at 82 FR 21139, May 5, 2017; 84 FR 71733, Dec. 27, 2019; 86 FR 17295, Apr. 2, 2021]

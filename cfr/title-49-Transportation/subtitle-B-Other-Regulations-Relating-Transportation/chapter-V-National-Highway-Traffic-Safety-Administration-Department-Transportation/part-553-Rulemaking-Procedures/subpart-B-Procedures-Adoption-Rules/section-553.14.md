@@ -1,7 +1,5 @@
 ##### § 553.14 Direct final rulemaking. #####
 
-Link to an amendment published at 86 FR 17296, Apr. 2, 2021.
-
 If the Administrator, for good cause, finds that notice is unnecessary, and incorporates that finding and a brief statement of the reasons for it in the rule, a direct final rule may be issued according to the following procedures.
 
 (a) Rules that the Administrator judges to be non-controversial and unlikely to result in adverse public comment may be published as direct final rules. These may include rules that:
@@ -18,8 +16,8 @@ If the Administrator, for good cause, finds that notice is unnecessary, and inco
 
 (c) If no written adverse comment is received by NHTSA within the specified time after the date of publication in the Federal Register, NHTSA will publish a document in the Federal Register indicating that no adverse comment was received and confirming that the rule will become effective on the date that was indicated in the direct final rule.
 
-(d) If NHTSA receives any written adverse comment within the specified time after publication of the direct final rule in the Federal Register, the agency will either publish a document withdrawing the direct final rule before it becomes effective and may issue an NPRM, or proceed by any other means permitted under the Administrative Procedure Act, consistent with procedures at 49 CFR 5.13(l).
+(d) If NHTSA receives any written adverse comment within the specified time after publication of the direct final rule in the Federal Register, the agency will either publish a document withdrawing the direct final rule before it becomes effective and may issue an NPRM, or proceed by any other means permitted under the Administrative Procedure Act.
 
 (e) An “adverse” comment, for the purpose of this subpart, means any comment that NHTSA determines is critical of any provision of the rule, suggests that the rule should not be adopted, or suggests a change that should be made in the rule. A comment suggesting that the policy or requirements of the rule should or should not also be extended to other Departmental programs outside the scope of the rule is not adverse.
 
-[80 FR 36492, June 25, 2015, as amended at 84 FR 71733, Dec. 27, 2019]
+[80 FR 36492, June 25, 2015, as amended at 84 FR 71733, Dec. 27, 2019; 86 FR 17296, Apr. 2, 2021]

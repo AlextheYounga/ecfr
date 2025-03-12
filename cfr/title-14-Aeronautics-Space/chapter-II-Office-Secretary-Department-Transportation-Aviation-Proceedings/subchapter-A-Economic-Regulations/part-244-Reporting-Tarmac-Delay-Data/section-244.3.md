@@ -1,5 +1,7 @@
 ##### § 244.3 Reporting of tarmac delay data. #####
 
+Link to an amendment published at 86 FR 23269, May 3, 2021.
+
 (a) Each covered carrier shall file BTS Form 244 “Tarmac Delay Report” with the Office of Airline Information of the Department's Bureau of Transportation Statistics setting forth the information for each of its covered flights that experienced a tarmac delay of more than 3 hours, including diverted flights and cancelled flights on which the passengers were boarded and then deplaned before the cancellation. The reports are due within 15 days after the end of any month during which the carrier experienced any reportable tarmac delay of more than 3 hours at a U.S. airport. The reports shall be made in the form and manner set forth in accounting and reporting directives issued by the Director, Office of Airline Information, and shall contain the following information:
 
 (1) Carrier code

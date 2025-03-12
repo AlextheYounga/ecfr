@@ -1,0 +1,3 @@
+##### § 1500.104 Agents. #####
+
+The Secretary may appoint agent(s) to conduct the referendum. Agent(s) may appoint any individual or individuals necessary or desirable to assist the agent in performing such agent's functions under this subpart. The agent authorizes each individual so appointed to perform any or all of the functions which, in the absence of such appointment, shall be performed by the agent.

@@ -1,7 +1,5 @@
 ##### § 389.39 Direct final rulemaking procedures. #####
 
-Link to an amendment published at 86 FR 17296, Apr. 2, 2021.
-
 A direct final rule makes regulatory changes and states that those changes will take effect on a specified date unless FMCSA receives an adverse comment by the date specified in the direct final rule published in the Federal Register.
 
 (a) *Types of actions appropriate for direct final rulemaking.* Rules that the Administrator determines to be non-controversial and unlikely to result in adverse public comments may be published in the final rule section of the Federal Register as direct final rules. These include non-controversial rules that:
@@ -28,8 +26,8 @@ A direct final rule makes regulatory changes and states that those changes will 
 
 (c) *Confirmation of effective date.* FMCSA will publish a confirmation rule document in the Federal Register, if it has not received an adverse comment by the date specified in the direct final rule. The confirmation rule document tells the public the effective date of the rule.
 
-(d) *Withdrawal of a direct final rule.* (1) If FMCSA receives an adverse comment within the comment period, it will either publish a document withdrawing the direct final rule before it becomes effective and may issue an NPRM, or proceed by any other means permitted under the Administrative Procedure Act, consistent with procedures at 49 CFR 5.13(l).
+(d) *Withdrawal of a direct final rule.* (1) If FMCSA receives an adverse comment within the comment period, it will either publish a document withdrawing the direct final rule before it becomes effective and may issue an NPRM, or proceed by any other means permitted under the Administrative Procedure Act.
 
 (2) If FMCSA withdraws a direct final rule because of an adverse comment, the Agency may issue a notice of proposed rulemaking if it decides to pursue the rulemaking.
 
-[75 FR 29916, May 28, 2010, as amended at 84 FR 71733, Dec. 27, 2019]
+[75 FR 29916, May 28, 2010, as amended at 84 FR 71733, Dec. 27, 2019; 86 FR 17296, Apr. 2, 2021]

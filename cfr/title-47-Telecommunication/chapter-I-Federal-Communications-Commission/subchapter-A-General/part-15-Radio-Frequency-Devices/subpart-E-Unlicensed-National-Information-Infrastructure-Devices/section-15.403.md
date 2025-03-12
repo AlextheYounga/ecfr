@@ -1,5 +1,7 @@
 ##### § 15.403 Definitions. #####
 
+Link to an amendment published at 86 FR 23295, May 3, 2021.
+
 *Access Point (AP).* A U-NII transceiver that operates either as a bridge in a peer-to-peer connection or as a connector between the wired and wireless segments of the network or as a relay between wireless network segments.
 
 *Automated Frequency Coordination (AFC) System.* A system that automatically determines and provides lists of which frequencies are available for use by standard power access points operating in the 5.925-6.425 GHz and 6.525-6.875 GHz bands.

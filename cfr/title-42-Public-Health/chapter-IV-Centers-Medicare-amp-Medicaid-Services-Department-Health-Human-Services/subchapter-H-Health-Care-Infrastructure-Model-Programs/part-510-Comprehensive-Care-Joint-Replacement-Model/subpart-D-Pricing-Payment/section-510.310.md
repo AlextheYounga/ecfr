@@ -1,5 +1,7 @@
 ##### § 510.310 Appeals process. #####
 
+Link to an amendment published at 86 FR 23573, May 3, 2021.
+
 (a) *Notice of calculation error (first level of appeal).* Subject to the limitations on review in subpart D of this part, if a participant hospital wishes to dispute calculations involving a matter related to payment, reconciliation amounts, repayment amounts, the use of quality measure results in determining the composite quality score, or the application of the composite quality score during reconciliation, the participant hospital is required to provide written notice of the calculation error, in a form and manner specified by CMS.
 
 (1) Unless the participant hospital provides such notice, CMS deems final the CJR reconciliation report 45 calendar days after it is issued and proceeds with the payment or repayment processes as applicable.

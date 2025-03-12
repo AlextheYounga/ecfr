@@ -1,5 +1,7 @@
 ##### § 510.600 Waiver of direct supervision requirement for certain post-discharge home visits. #####
 
+Link to an amendment published at 86 FR 23575, May 3, 2021.
+
 (a) *General.* CMS waives the requirement in § 410.26(b)(5) of this chapter that services and supplies furnished incident to a physician's service must be furnished under the direct supervision of the physician (or other practitioner) to permit home visits as specified in this section. The services furnished under this waiver are not considered to be “hospital services,” even when furnished by the clinical staff of the hospital.
 
 (b) *General supervision of qualified personnel.* The waiver of the direct supervision requirement in § 410.26(b)(5) of this chapter applies only in the following circumstances:

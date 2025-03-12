@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 86 FR 22908, Apr. 30, 2021.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -135,6 +133,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Dredge vessel,* with respect to the scallop fishery, means any fishing vessel that is equipped for fishing using dredge gear and that is capable of catching scallops.
 
 *Electronic monitoring* means a network of equipment that uses a software operating system connected to one or more technology components, including, but not limited to, cameras and recording devices to collect data on catch and vessel operations. With respect to the NE multispecies fishery, electronic monitoring means any equipment that is used to monitor area fished and the amount and identity of species kept and discarded in lieu of at-sea monitors as part of an approved Sector at-sea monitoring program.
+
+*Electronic monitoring data* means the data that are created in the collection of fishery-dependent data by electronic monitoring systems during fishing operations, including the video, images, and other sensor data, as well as the metadata that provides information (*e.g.,* trip sail date, vessel information) about the raw data.
 
 *Exempted gear,* with respect to the NE multispecies fishery, means gear that is deemed to be not capable of catching NE multispecies, and includes: Pelagic hook and line, pelagic longline, spears, rakes, diving gear, cast nets, tongs, harpoons, weirs, dipnets, stop nets, pound nets, pelagic gillnets, pots and traps, shrimp trawls (with a properly configured grate as defined under this part), and surfclam and ocean quahog dredges.
 
@@ -552,6 +552,8 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 
 *Quota-managed species* means any species of finfish managed under this part by an annual or seasonal quota, by annual target or actual TAC, or by DAH limits.
 
+*Raw,* with respect to electronic monitoring, means the original, unaltered video footage, images, and other sensor data collected by an electronic monitoring system.
+
 *Records,* with respect to records required to be kept by § 648.7, means those that include, but are not limited to, any written, recorded, graphic, electronic, or digital material; as well as other information stored in or accessible through a computer or other information retrieval system; worksheets; weighout slips; preliminary, interim, and final tally sheets; tags; notes; logbooks; statements; receipts; checks; ledgers; notebooks; diaries; spreadsheets; diagrams; graphs; charts; tapes; disks; or computer printouts.
 
 *Recreational fishing* means fishing that is not intended to, nor results in the barter, trade, or sale of fish.
@@ -719,6 +721,8 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 *Vessel length* means the length specified on the USCG documentation for a vessel or on the state registration for a vessel not required to be documented under title 46 U.S.C., if the state length is verified by an authorized officer or NMFS official.
 
 *Vessel Monitoring System (VMS)* means a vessel monitoring system or VMS unit as set forth in § 648.9 and approved by NMFS for use on Atlantic sea scallop, NE multispecies, monkfish, Atlantic herring, and Atlantic surfclam and ocean quahog vessels, as required by this part.
+
+*Video reviewer* means any electronic monitoring service provider staff approved/certified by NMFS for providing electronic monitoring video review services consistent with electronic monitoring program requirements.
 
 *VMS unit* means a device installed on board a vessel used for vessel monitoring and transmitting the vessel's position as required by this part.
 

@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 86 FR 22908, Apr. 30, 2021.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -817,9 +815,13 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (ix) Fail to comply with the reporting requirements specified in § 648.87(b)(1)(v) or (vi).
 
-(x) Leave port to begin a trip before an at-sea monitor has arrived and boarded the vessel or before electronic monitoring equipment has been properly installed if assigned to carry either an at-sea monitor or electronic monitoring equipment for that trip, as prohibited by § 648.87(b)(5)(iii)(A).
+(x) Leave port to begin a trip before an at-sea monitor has arrived and boarded the vessel if assigned to carry an at-sea monitor for that trip, or without an operational electronic monitoring system installed on board, as specified in § 648.87(b)(5)(iii)(A).
 
 (xi) Leave port to begin a trip if a vessel has failed a review of safety issues by an at-sea monitor and has not successfully resolved any identified safety deficiencies, as prohibited by § 648.87(b)(5)(iv)(A).
+
+(xii) Fail to comply with the electronic monitoring system requirements as specified in § 684.87(b)(5)(iii)(A)(*2*).
+
+(xiii) Fail to comply with the vessel monitoring plan requirements as specified in § 648.87(b)(5)(iii)(A)(*3*).
 
 (15) *Open access permit restrictions* - (i) *All persons.* (A) Violate any provision of the open access permit restrictions of § 648.88.
 

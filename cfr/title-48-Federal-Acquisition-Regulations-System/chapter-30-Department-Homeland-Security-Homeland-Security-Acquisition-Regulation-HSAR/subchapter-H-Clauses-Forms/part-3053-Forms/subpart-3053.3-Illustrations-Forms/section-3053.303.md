@@ -1,8 +1,6 @@
 ##### 3053.303 Agency forms. #####
 
-Link to an amendment published at 86 FR 17318, Apr. 2, 2021.
-
-This section illustrates agency-specified forms. To access these forms go to: *http://www.dhs.gov* (under “Business, Acquisition Information”) or *https://dhsonline.dhs.gov/portal/jhtml/general/forms.jhtml.*
+This section illustrates agency-specified forms. To access the DHS forms go to *https://www.dhs.gov/publication/acquisition-forms.*
 
 |                              Form name                               |   Form No.    |
 |----------------------------------------------------------------------|---------------|
@@ -13,4 +11,4 @@ This section illustrates agency-specified forms. To access these forms go to: *h
 |               Contractor Report of Government Property               |DHS Form 700-5.|
 |                 Report of Inventions and Subcontract                 |    DD 882.    |
 
-[71 FR 25776, May 2, 2006, as amended at 77 FR 50637, Aug. 22, 2012]
+[71 FR 25776, May 2, 2006, as amended at 77 FR 50637, Aug. 22, 2012; 86 FR 17318, Apr. 2, 2021]

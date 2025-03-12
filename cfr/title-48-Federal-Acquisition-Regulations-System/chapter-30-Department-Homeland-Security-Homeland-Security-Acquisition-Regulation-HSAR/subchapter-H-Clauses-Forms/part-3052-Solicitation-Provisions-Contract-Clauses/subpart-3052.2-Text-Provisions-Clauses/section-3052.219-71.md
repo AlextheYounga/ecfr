@@ -1,8 +1,6 @@
 ##### 3052.219-71 DHS mentor-protégé program. #####
 
-Link to an amendment published at 86 FR 17317, Apr. 2, 2021.
-
-As prescribed in (HSAR) 48 CFR 3019.708-70(b), insert the following clause:
+As prescribed in (HSAR) 48 CFR 3019.708-70(a), insert the following clause:
 
 DHS Mentor-Protégé Program (JUN 2006)
 
@@ -22,4 +20,5 @@ DHS Mentor-Protégé Program (JUN 2006)
 
 (e) Contractors interested in participating in the program are encouraged to contact the DHS OSDBU for more information.
 
-(End of clause)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25775, May 2, 2006]
+(End of clause)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25775, May 2, 2006;
+86 FR 17317, Apr. 2, 2021]

@@ -1,5 +1,7 @@
 ##### § 510.205 Beneficiary inclusion criteria. #####
 
+Link to an amendment published at 86 FR 23570, May 3, 2021.
+
 (a) Episodes tested in the CJR model include only those in which care is furnished to beneficiaries who meet all of the following criteria upon admission to the anchor hospitalization:
 
 (1) Are enrolled in Medicare Parts A and Part B.

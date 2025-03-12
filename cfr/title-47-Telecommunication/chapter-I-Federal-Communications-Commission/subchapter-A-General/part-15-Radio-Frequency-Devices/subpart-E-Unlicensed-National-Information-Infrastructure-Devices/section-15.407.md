@@ -1,5 +1,7 @@
 ##### § 15.407 General technical requirements. #####
 
+Link to an amendment published at 86 FR 23295, May 3, 2021.
+
 (a) *Power limits:*
 
 (1) For the band 5.15-5.25 GHz.

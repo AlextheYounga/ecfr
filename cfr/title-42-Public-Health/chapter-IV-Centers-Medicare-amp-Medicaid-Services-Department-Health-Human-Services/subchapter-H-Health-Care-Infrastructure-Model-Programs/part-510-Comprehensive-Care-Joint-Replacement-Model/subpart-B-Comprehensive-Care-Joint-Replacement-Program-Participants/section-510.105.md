@@ -1,5 +1,7 @@
 ##### § 510.105 Geographic areas. #####
 
+Link to an amendment published at 86 FR 23570, May 3, 2021.
+
 (a) *General.* The geographic areas for inclusion in the CJR model are obtained based on a stratified random sampling of certain MSAs in the United States.
 
 (1) All counties within each of the selected MSAs are selected for inclusion in the CJR model.
