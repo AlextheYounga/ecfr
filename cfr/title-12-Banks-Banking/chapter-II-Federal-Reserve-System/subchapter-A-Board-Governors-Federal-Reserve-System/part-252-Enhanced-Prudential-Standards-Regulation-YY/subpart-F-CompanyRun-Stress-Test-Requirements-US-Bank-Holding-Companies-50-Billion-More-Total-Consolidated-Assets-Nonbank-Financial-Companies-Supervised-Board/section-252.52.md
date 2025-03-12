@@ -1,7 +1,5 @@
 ##### § 252.52 Definitions. #####
 
-Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 For purposes of this subpart, the following definitions apply:
 
 (a) *Advanced approaches* means the risk-weighted assets calculation methodologies at 12 CFR part 217, subpart E, as applicable, and any successor regulation.
@@ -34,7 +32,19 @@ For purposes of this subpart, the following definitions apply:
 
 (l) *Pre-provision net revenue* means the sum of net interest income and non-interest income less expenses before adjusting for loss provisions.
 
-(m) *Provision for loan and lease losses* means the provision for loan and lease losses as reported by the covered company on the FR Y-9C.
+(m) *Provision for credit losses* means:
+
+(1) Until December 31, 2019:
+
+(i) With respect to a covered company that has not adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses as reported on the FR Y-9C (and as would be reported on the FR Y-9C in the current stress test cycle); and
+
+(ii) With respect to a covered company that has adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses, as would be calculated and reported on the FR Y-9C by a covered company that has not adopted the current expected credit losses methodology under GAAP; and
+
+(2) Beginning January 1, 2020:
+
+(i) With respect to a covered company that has adopted the current expected credit losses methodology under GAAP, the provision for credit losses, as would be reported by the covered company on the FR Y-9C in the current stress test cycle; and
+
+(ii) With respect to a covered company that has not adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses as would be reported by the covered company on the FR Y-9C in the current stress test cycle.
 
 (n) *Regulatory capital ratio* means a capital ratio for which the Board established minimum requirements for the company by regulation or order, including the company's tier 1 and supplementary leverage ratios as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12, as applicable, and the company's common equity tier 1, tier 1, and total risk-based capital ratios as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12 and the transition provisions at 12 CFR 217.1(f)(4) and 217.300; except that the company shall not use the advanced approaches to calculate its regulatory capital ratios.
 
@@ -48,4 +58,4 @@ For purposes of this subpart, the following definitions apply:
 
 (s) *Subsidiary* has the same meaning as in § 225.2(o) the Board's Regulation Y (12 CFR 225.2).
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9329, Feb. 3, 2017]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9329, Feb. 3, 2017; 84 FR 4246, Feb. 14, 2019]

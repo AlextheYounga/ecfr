@@ -312,7 +312,7 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 (3) Exceptions.
 
-(b) Gain or loss recognition in connection with a deferral event.
+(b) Gain and loss recognition in connection with a deferral event.
 
 (1) In general.
 
@@ -368,10 +368,10 @@ This section lists captioned paragraphs contained in §§ 1.987-1 through 1.987-
 
 (3) Adjustments in the case of an outbound loss event.
 
-(j) Effective/applicability date.
+(j) Applicability date.
 
 (1) In general.
 
 (2) Exceptions.
 
-[T.D. 9794, 81 FR 88821, Dec. 8, 2016, as amended by T.D. 9795, 81 FR 88867, Dec. 8, 2016; T.D. 9857, 84 FR 20794, May 13, 2019]
+[T.D. 9794, 81 FR 88821, Dec. 8, 2016, as amended by T.D. 9795, 81 FR 88867, Dec. 8, 2016; T.D. 9857, 84 FR 20794, May 13, 2019; 84 FR 31194, July 1, 2019]

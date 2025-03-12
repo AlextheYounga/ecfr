@@ -1,12 +1,10 @@
 ##### § 252.15 Methodologies and practices. #####
 
-Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Potential impact on capital.* In conducting a stress test under § 252.14, for each quarter of the planning horizon, a bank holding company, savings and loan holding company, or state member bank must estimate the following for each scenario required to be used:
 
-(1) Losses, pre-provision net revenue, provision for loan and lease losses, and net income; and
+(1) Losses, pre-provision net revenue, provision for credit losses, and net income; and
 
-(2) The potential impact on pro forma regulatory capital levels and pro forma capital ratios (including regulatory capital ratios and any other capital ratios specified by the Board), incorporating the effects of any capital actions over the planning horizon and maintenance of an allowance for loan losses appropriate for credit exposures throughout the planning horizon.
+(2) The potential impact on the regulatory capital levels and ratios applicable to the covered bank, and any other capital ratios specified by the Board, incorporating the effects of any capital action over the planning horizon and maintenance of an allowance for loan losses or adjusted allowance for credit losses, as appropriate, for credit exposures throughout the planning horizon.
 
 (b) *Assumptions regarding capital actions.* In conducting a stress test under § 252.14, a bank holding company or savings and loan holding company is required to make the following assumptions regarding its capital actions over the planning horizon:
 
@@ -26,4 +24,4 @@ Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was d
 
 (3) *Role of stress testing results.* The board of directors and senior management of a bank holding company, savings and loan holding company, or state member bank must consider the results of the stress test in the normal course of business, including but not limited to, the banking organization's capital planning, assessment of capital adequacy, and risk management practices.
 
-[Reg. YY, 79 FR 64045, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015]
+[Reg. YY, 79 FR 64045, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015; 84 FR 4245, Feb. 14, 2019]

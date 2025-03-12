@@ -1,0 +1,31 @@
+##### § 4231.15 Actuarial and financial information for financial assistance merger. #####
+
+A request for a financial assistance merger must include the following actuarial and financial information for the plans involved in the merger:
+
+(a) A copy of the actuarial valuation performed for each of the two plan years before the most recent actuarial valuation filed in accordance with § 4231.9(f).
+
+(b) If applicable, a copy of the plan actuary's most recent annual actuarial certification under section 305(b)(3) of ERISA, including a detailed description of the assumptions used in the certification, and the basis under which they were determined. The description must include information about the assumptions used for the projection of future contributions, withdrawal liability payments, and investment returns, and any other assumption that may have a material effect on projections.
+
+(c) A detailed statement certified by an enrolled actuary that the merger is necessary for one or more of the plans involved to avoid or postpone insolvency, including the basis for the conclusion, supporting data, calculations, assumptions, and a description of the methodology. This statement must demonstrate for each critical and declining status plan involved in the merger that the date the plan projects to become insolvent (without reflecting the merger) is earlier than the date the merged plan projects to become insolvent (the merged plan may reflect the proposed financial assistance). Include as an exhibit annual cash flow projections for each critical and declining status plan involved in the merger through the date the plan projects to become insolvent (using an open group valuation and without reflecting the merger). Annual cash flow projections must reflect the following information:
+
+(1) Fair market value of assets as of the beginning of the year.
+
+(2) Contributions and withdrawal liability payments.
+
+(3) Benefit payments organized by participant type (*e.g.,* active, retiree, terminated vested).
+
+(4) Administrative expenses.
+
+(5) Fair market value of assets as of the end of the year.
+
+(d) For each critical and declining status plan involved in the merger, a long-term projection (at least 50 to 90 years) of benefit disbursements by participant type (*e.g.,* active, retiree, terminated vested) (without reflecting the merger) reflecting reduced benefit disbursements at the PBGC-guarantee level (which may be estimated) beginning with the proposed effective date of the merger (using a closed group valuation and no accruals after the proposed effective date of the merger). Include the supporting data, calculations, assumptions, and, if applicable, a description of estimates used for this projection.
+
+(e) A detailed statement certified by an enrolled actuary that financial assistance is necessary for the merged plan to become or remain solvent, including the basis for the conclusion, supporting data, calculations, assumptions, and a description of the methodology. Include as an exhibit annual cash flow projections for the merged plan with the proposed financial assistance (based on the actuarial assumptions and methods that will be used under the merged plan). Annual cash flow projections must reflect the information listed in paragraphs (c)(1) through (5) of this section. In addition, include as an exhibit a statement certified by an enrolled actuary of whether the merged plan would be in critical status for purposes of paragraph (e)(1) or (2) of this section, including the basis for the conclusion.
+
+(1) If the merged plan would be in critical status immediately following the merger without the proposed financial assistance (as reasonably determined by the enrolled actuary or as set forth in this paragraph), the enrolled actuary's certified statement must demonstrate that the merged plan will avoid insolvency under section 305(e)(9)(D)(iv) of ERISA and the regulations thereunder (excluding stochastic projections) with the proposed financial assistance. The enrolled actuary may determine whether the merged plan would be in critical status based on the combined data and projections underlying the status certifications of each of the plans for the plan year immediately preceding the merger, including any selected updates in the data based on the experience of the plans in the immediately preceding plan year (reasonable adjustments are permitted but not required).
+
+(2) If the merged plan would not be in critical status immediately following the merger without the proposed financial assistance (as reasonably determined by the enrolled actuary or as set forth in paragraph (e)(1) of this section), the enrolled actuary's certified statement must demonstrate that the merged plan is not projected to become insolvent during the 20 plan years beginning after the proposed effective date of the merger with the proposed financial assistance (using the methodologies set forth under section 305(b)(3)(B)(iv) of ERISA and the regulations thereunder). If such a demonstration is possible without the proposed financial assistance, or if the amount of financial assistance requested exceeds the amount needed to satisfy this demonstration, the enrolled actuary's certified statement must demonstrate that financial assistance is necessary to mitigate the adverse effects of the merger on the merged plan's ability to remain solvent. The demonstration that financial assistance is necessary to mitigate the adverse effects of the merger on the merged plan's ability to remain solvent may be based on stress testing over a long-term period (and may reflect reasonable future adverse experience), using a reasonable method in accordance with generally accepted actuarial standards.
+
+(f) If applicable, a copy of the plan actuary's certification under section 305(e)(9)(C)(i) of ERISA.
+
+(g) The rules in § 4231.6(c) apply to the solvency projections described in paragraphs (c) and (e) of this section, unless section 305(e)(9)(D)(iv) of ERISA and the regulations thereunder apply and specify otherwise.

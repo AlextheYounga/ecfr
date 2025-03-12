@@ -1,0 +1,9 @@
+##### § 4281.16 Benefit valuation methods—plans closing out. #####
+
+(a) *Applicability.* For purposes of the annual valuation required by section 4281(b) of ERISA, the plan sponsor shall value the plan's benefits in accordance with paragraph (b) of this section if,—
+
+(1) *Plans closed out before valuation.* Before the time when the valuation is performed, the plan has satisfied in full all liabilities for payment of nonforfeitable benefits, in a manner consistent with the terms of the plan and applicable law, by the purchase of one or more nonparticipating irrevocable commitments from one or more insurers, with respect to all benefits payable as annuities, and by the payment of single-sum cash distributions, with respect to benefits not payable as annuities; or
+
+(2) *Plans to be closed out after valuation.* As of the time when the valuation is performed, the plan sponsor reasonably expects that the plan will close out before the next annual valuation date and the plan sponsor has a currently exercisable bid or bids to provide the irrevocable commitment(s) described in paragraph (a)(1) of this section and the total cost of the irrevocable commitment(s) under the bid, plus the total amount of the single-sum cash distributions described in paragraph (a)(1), does not exceed the value of the plan's assets, exclusive of outstanding claims for withdrawal liability, as determined under this subpart.
+
+(b) *Valuation rule.* The present value of nonforfeitable benefits under this section is the total amount of single-sum cash distributions made or to be made plus the cost of the irrevocable commitment(s) purchased or to be purchased in order to satisfy in full all liabilities of the plan for nonforfeitable benefits.

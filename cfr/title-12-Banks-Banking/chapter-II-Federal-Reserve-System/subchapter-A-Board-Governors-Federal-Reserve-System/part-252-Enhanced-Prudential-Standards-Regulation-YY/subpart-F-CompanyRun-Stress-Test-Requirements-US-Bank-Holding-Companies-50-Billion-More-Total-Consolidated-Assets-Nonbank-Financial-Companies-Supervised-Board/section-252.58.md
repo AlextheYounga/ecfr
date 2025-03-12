@@ -1,7 +1,5 @@
 ##### § 252.58 Disclosure of stress test results. #####
 
-Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Public disclosure of results* - (1) *In general.* (i) A covered company must publicly disclose a summary of the results of the stress test required under § 252.54 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 252.46(c) of this part, unless that time is extended by the Board in writing.
 
 (ii) A covered company must publicly disclose a summary of the results of the stress test required under § 252.55. This disclosure must occur in the period beginning on October 5 and ending on November 4 of the calendar year in which the stress test is performed pursuant to § 252.55, unless that time is extended by the Board in writing.
@@ -12,13 +10,13 @@ Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was d
 
 (1) A description of the types of risks included in the stress test;
 
-(2) A general description of the methodologies used in the stress test, including those employed to estimate losses, revenues, provision for loan and lease losses, and changes in capital positions over the planning horizon;
+(2) A general description of the methodologies used in the stress test, including those employed to estimate losses, revenues, provision for credit losses, and changes in capital positions over the planning horizon.
 
 (3) Estimates of -
 
 (i) Pre-provision net revenue and other revenue;
 
-(ii) Provision for loan and lease losses, realized losses or gains on available-for-sale and held-to-maturity securities, trading and counterparty losses, and other losses or gains;
+(ii) Provision for credit losses, realized losses or gains on available-for-sale and held-to-maturity securities, trading and counterparty losses or gains;
 
 (iii) Net income before taxes;
 
@@ -34,7 +32,7 @@ Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was d
 
 (i) Pre-provision net revenue and other revenue;
 
-(ii) Provision for loan and lease losses, realized losses/gains on available-for-sale and held-to-maturity securities, trading and counterparty losses, and other losses or gains;
+(ii) Provision for credit losses, realized losses/gains on available-for-sale and held-to-maturity securities, trading and counterparty losses, and other losses or gain;
 
 (iii) Net income before taxes; and
 
@@ -42,4 +40,4 @@ Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was d
 
 (2) The disclosure of pro forma regulatory capital ratios and any other capital ratios specified by the Board that is required under paragraph (b) of this section must include the beginning value, ending value, and minimum value of each ratio over the planning horizon.
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9330, Feb. 3, 2017]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 82 FR 9330, Feb. 3, 2017; 84 FR 4246, Feb. 14, 2019]

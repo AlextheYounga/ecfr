@@ -1,5 +1,7 @@
 ##### § 600.21 Updating application information. #####
 
+Link to an amendment published at 84 FR 31452, July 1, 2019.
+
 (a) *Reporting requirements.* Except as provided in paragraph (b) of this section, an eligible institution must report to the Secretary in a manner prescribed by the Secretary no later than 10 days after the change occurs, of any change in the following:
 
 (1) Its name, the name of a branch, or the name of a previously reported location.

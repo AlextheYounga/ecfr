@@ -1,12 +1,10 @@
 ##### § 252.56 Methodologies and practices. #####
 
-Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Potential impact on capital.* In conducting a stress test under §§ 252.54 and 252.55, for each quarter of the planning horizon, a covered company must estimate the following for each scenario required to be used:
 
-(1) Losses, pre-provision net revenue, provision for loan and lease losses, and net income; and
+(1) Losses, pre-provision net revenue, provision for credit losses, and net income; and
 
-(2) The potential impact on pro forma regulatory capital levels and pro forma capital ratios (including regulatory capital ratios and any other capital ratios specified by the Board), incorporating the effects of any capital actions over the planning horizon and maintenance of an allowance for loan losses appropriate for credit exposures throughout the planning horizon.
+(2) The potential impact on the regulatory capital levels and ratios applicable to the covered bank, and any other capital ratios specified by the Board, incorporating the effects of any capital action over the planning horizon and maintenance of an allowance for loan losses or adjusted allowance for credit losses, as appropriate, for credit exposures throughout the planning horizon.
 
 (b) *Assumptions regarding capital actions.* In conducting a stress test under §§ 252.54 and 252.55, a covered company is required to make the following assumptions regarding its capital actions over the planning horizon:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was d
 
 (iii) In the development or implementation of any plans of the covered company for recovery or resolution.
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 84 FR 4246, Feb. 14, 2019]

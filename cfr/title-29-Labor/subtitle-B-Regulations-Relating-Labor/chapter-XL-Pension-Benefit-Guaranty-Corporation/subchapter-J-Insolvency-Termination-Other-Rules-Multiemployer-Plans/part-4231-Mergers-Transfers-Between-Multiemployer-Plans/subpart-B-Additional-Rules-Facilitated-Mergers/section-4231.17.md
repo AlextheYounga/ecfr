@@ -1,0 +1,5 @@
+##### § 4231.17 PBGC action on a request for facilitated merger. #####
+
+(a) *General.* PBGC may approve or deny a request for a facilitated merger, including a request for a financial assistance merger, at its discretion if the requirements of section 4231 of ERISA are satisfied. PBGC will notify the plan sponsor(s) in writing of its decision on a request. If PBGC denies the request, PBGC's written decision will state the reason(s) for the denial. If PBGC approves a request for a financial assistance merger, PBGC will provide a financial assistance agreement detailing the total amount and terms of the financial assistance as soon as practicable after notifying the plan sponsor(s) in writing of its approval.
+
+(b) *Final agency action.* PBGC's decision to approve or deny a request for a facilitated merger, including a request for a financial assistance merger, is a final agency action for purposes of judicial review under the Administrative Procedure Act (5 U.S.C. 701 *et seq.*).

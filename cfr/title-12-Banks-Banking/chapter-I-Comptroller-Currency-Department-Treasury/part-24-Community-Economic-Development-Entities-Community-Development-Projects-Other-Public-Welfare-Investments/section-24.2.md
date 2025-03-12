@@ -1,7 +1,5 @@
 ##### § 24.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 For purposes of this part, the following definitions apply:
 
 (a) *Adequately capitalized* has the same meaning as adequately capitalized in 12 CFR 6.4.
@@ -10,7 +8,7 @@ For purposes of this part, the following definitions apply:
 
 (1) A bank's tier 1 and tier 2 capital calculated under the OCC's risk-based capital standards set forth in 12 CFR part 3, as applicable, as reported in the bank's Consolidated Reports of Condition and Income (Call Report) as filed under 12 U.S.C. 161; plus
 
-(2) The balance of a bank's allowance for loan and lease losses not included in the bank's tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (b)(1) of this section, as reported in the bank's Call Report as filed under 12 U.S.C. 161.
+(2) The balance of a bank's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (b)(1) of this section, as reported in the bank's Call Report.
 
 (c) *Community and economic development entity* (CEDE) means an entity that makes investments or conducts activities that primarily benefit low- and moderate-income individuals, low- and moderate-income areas, or other areas targeted by a governmental entity for redevelopment, or would receive consideration as “qualified investments” under 12 CFR 25.23. The following is a non-exclusive list of examples of the types of entities that may be CEDEs:
 
@@ -54,4 +52,4 @@ For purposes of this part, the following definitions apply:
 
 (i) *Well capitalized* has the same meaning as well capitalized in 12 CFR 6.4.
 
-[61 FR 49660, Sept. 23, 1996, as amended at 68 FR 48775, Aug. 15, 2003; 73 FR 22244, Apr. 24, 2008; 73 FR 46534, Aug. 11, 2008; 79 FR 11312, Feb. 28, 2014]
+[61 FR 49660, Sept. 23, 1996, as amended at 68 FR 48775, Aug. 15, 2003; 73 FR 22244, Apr. 24, 2008; 73 FR 46534, Aug. 11, 2008; 79 FR 11312, Feb. 28, 2014; 84 FR 4240, Feb. 14, 2019]

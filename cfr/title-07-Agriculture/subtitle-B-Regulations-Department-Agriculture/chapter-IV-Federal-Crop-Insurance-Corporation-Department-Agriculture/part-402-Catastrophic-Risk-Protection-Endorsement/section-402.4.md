@@ -1,6 +1,6 @@
 ##### § 402.4 Catastrophic Risk Protection Endorsement Provisions. #####
 
-Link to an amendment published at 84 FR 30861, June 28, 2019.Department of AgricultureFederal Crop Insurance CorporationCatastrophic Risk Protection Endorsement(This is a continuous endorsement)
+Department of AgricultureFederal Crop Insurance CorporationCatastrophic Risk Protection Endorsement(This is a continuous endorsement)
 
 If a conflict exists among the policy, the order of priority is: (1) This Endorsement; (2) Special Provisions; (3) actuarial documents; (4) the Commodity Exchange Price Provisions, if applicable; and (5) any of the policies specified in section 2, with (1) controlling (2), etc.
 
@@ -64,11 +64,11 @@ Terms and Conditions1. Definitions
 
 (b) In return for catastrophic risk protection coverage, you must pay an administrative fee and premium as specified in section 6(f) to us within 30 days after you have been billed, unless otherwise authorized in the Federal Crop Insurance Act (You will be billed by the date stated in the actuarial documents);
 
-(1) The administrative fee owed is $300 for each crop in the county unless otherwise specified in the Special Provisions.
+(1) The administrative fee owed is $655 for each crop in the county unless otherwise specified in the Special Provisions.
 
 (2) Payment of an administrative fee will not be required if you file a bona fide zero acreage report on or before the acreage reporting date for the crop (if you falsely file a zero acreage report you may be subject to criminal and administrative sanctions).
 
-(c) The administrative fee provisions of section 6(b) do not apply if you are a “beginning farmer or rancher” or a “limited resource farmer” as defined in the applicable crop policy. The administrative fee will be waived if you request it and you meet the requirements contained in the annual premium provisions of the applicable crop policy.
+(c) The administrative fee provisions of section 6(b) do not apply if you are a “beginning farmer or “rancher,” “veteran farmer or rancher,” or “limited resource farmer” as defined in the applicable crop policy. The administrative fee will be waived if you request it and you meet the requirements contained in the annual premium provisions of the applicable crop policy.
 
 (d) When a crop policy has provisions to allow you the option to separately insure individual crop types or varieties, you must pay a separate administrative fee in accordance with section 6(b) for each type or variety you elect to separately insure.
 
@@ -122,4 +122,4 @@ Notwithstanding any provision contained in any other crop insurance document, yo
 
 (b) Notwithstanding any provision contained in any other crop policy, hail and fire coverage and high-risk land may not be excluded under catastrophic risk protection.
 
-[61 FR 42985, Aug. 20, 1996, as amended at 63 FR 40631, July 30, 1998; 64 FR 40740, July 28, 1999; 65 FR 40484, June 30, 2000; 69 FR 48730, Aug. 10, 2004; 73 FR 36408, June 27, 2008; 73 FR 70864, Nov. 24, 2008; 78 FR 52835, Aug. 27, 2013; 79 FR 37161, July 1, 2014; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017]
+[61 FR 42985, Aug. 20, 1996, as amended at 63 FR 40631, July 30, 1998; 64 FR 40740, July 28, 1999; 65 FR 40484, June 30, 2000; 69 FR 48730, Aug. 10, 2004; 73 FR 36408, June 27, 2008; 73 FR 70864, Nov. 24, 2008; 78 FR 52835, Aug. 27, 2013; 79 FR 37161, July 1, 2014; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 84 FR 30861, June 28, 2019]

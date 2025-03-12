@@ -1,7 +1,5 @@
 ##### § 252.12 Definitions. #####
 
-Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 For purposes of this subpart, the following definitions apply:
 
 (a) *Advanced approaches* means the regulatory capital requirements at 12 CFR part 217, subpart E, as applicable, and any successor regulation.
@@ -32,7 +30,19 @@ For purposes of this subpart, the following definitions apply:
 
 (l) *Pre-provision net revenue* means the sum of net interest income and non-interest income less expenses before adjusting for loss provisions.
 
-(m) *Provision for loan and lease losses* means the provision for loan and lease losses as reported by the bank holding company, savings and loan holding company, or state member bank on the FR Y-9C or Call Report, as appropriate.
+(m) *Provision for credit losses* means:
+
+(1) Until December 31, 2019:
+
+(i) With respect to a bank holding company, savings and loan holding company, or state member bank that has not adopted the current expected credit losses methodology under U.S. generally accepted accounting principles (GAAP), the provision for loan and lease losses as reported on the FR Y-9C (and as would be reported on the FR Y-9C or Call Report, as appropriate, in the current stress test cycle); and,
+
+(ii) With respect to a bank holding company, savings and loan holding company, or state member bank that has adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses, as would be calculated and reported on the FR Y-9C or Call Report, as appropriate, by a bank holding company, savings and loan holding company, or state member bank that has not adopted the current expected credit losses methodology under GAAP; and
+
+(2) Beginning January 1, 2020:
+
+(i) With respect to a covered company that has adopted the current expected credit losses methodology under GAAP, the provision for credit losses, as would be reported by the bank holding company, savings and loan holding company, or state member bank on the FR Y-9C or Call Report, as appropriate, in the current stress test cycle; and
+
+(ii) With respect to a bank holding company, savings and loan holding company, or state member bank that has not adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses as would be reported by the bank holding company, savings and loan holding company, or state member bank on the FR Y-9C or Call Report, as appropriate, in the current stress test cycle.
 
 (n) *Regulatory capital ratio* means a capital ratio for which the Board established minimum requirements for the company by regulation or order, including a company's tier 1 and supplementary leverage ratio as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12, as applicable, and the company's common equity tier 1, tier 1, and total risk-based capital ratios as calculated under 12 CFR part 217, including the deductions required under 12 CFR 248.12 and the transition provisions at 12 CFR 217.1(f)(4) and 217.300; except that the company shall not use the advanced approaches to calculate its regulatory capital ratios.
 
@@ -54,4 +64,4 @@ For purposes of this subpart, the following definitions apply:
 
 (u) *Subsidiary* has the same meaning as in § 225.2(o) the Board's Regulation Y (12 CFR 225.2(o)).
 
-[Reg. YY, 79 FR 64045, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015]
+[Reg. YY, 79 FR 64045, Oct. 27, 2014, as amended at 80 FR 75425, Dec. 2, 2015; 84 FR 4245, Feb. 14, 2019]

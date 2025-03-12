@@ -1,7 +1,5 @@
 ##### § 217.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
-Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Regulatory capital components.* A Board-regulated institution's regulatory capital components are:
 
 (1) Common equity tier 1 capital;
@@ -146,7 +144,7 @@ Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was d
 
 (2) Total capital minority interest, subject to the limitations set forth in § 217.21(e), that is not included in the Board-regulated institution's tier 1 capital.
 
-(3) ALLL up to 1.25 percent of the Board-regulated institution's standardized total risk-weighted assets not including any amount of the ALLL (and excluding in the case of a market risk Board-regulated institution, its standardized market risk-weighted assets).
+(3) ALLL or AACL, as applicable, up to 1.25 percent of the Board-regulated institution's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk Board-regulated institution, its standardized market risk-weighted assets).
 
 (4) Any instrument that qualified as tier 2 capital under the Board's general risk-based capital rules under 12 CFR part 208, appendix A, 12 CFR part 225, appendix A as then in effect, that were issued under the Small Business Jobs Act of 2010,19 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.20
 
@@ -168,4 +166,4 @@ Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was d
 
 (3) After determining that a regulatory capital element may be included in a Board-regulated institution's common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the Board will make its decision publicly available, including a brief description of the material terms of the regulatory capital element and the rationale for the determination.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 78 FR 76973, Dec. 20, 2013; 79 FR 78295, Dec. 30, 2014]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 78 FR 76973, Dec. 20, 2013; 79 FR 78295, Dec. 30, 2014; 84 FR 4242, Feb. 14, 2019]

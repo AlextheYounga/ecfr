@@ -1,7 +1,5 @@
 ##### § 5.3 Definitions. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 As used in this part:
 
 (a) *Applicant* means a person or entity that submits a notice or application to the OCC under this part.
@@ -16,7 +14,7 @@ As used in this part:
 
 (1) A bank's or Federal savings association's tier 1 and tier 2 capital calculated under the OCC's risk-based capital standards set forth in 12 CFR part 3, as applicable, as reported in the bank's or savings association's Consolidated Reports of Condition and Income (Call Reports) filed under 12 U.S.C. 161 or 12 U.S.C. 1464(v), respectively; plus
 
-(2) The balance of the national bank's or Federal savings association's allowance for loan and lease losses not included in the institution's tier 2 capital, for purposes of the calculation of risk-based capital reported in the institution's Call Reports, described in paragraph (e)(1) of this section.
+(2) The balance of a national bank's or Federal savings association's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (e)(1) of this section, as reported in the Call Report.
 
 (f) *Depository institution* means any bank or savings association.
 
@@ -51,3 +49,5 @@ As used in this part:
 (2) One-mile radius of the site if the branch, main office, or home office is not located within a principal city, but is located within an MSA; or
 
 (3) Two-mile radius of the site if the branch, main office, or home office is not located within an MSA.
+
+[80 FR 28414, May 18, 2015, as amended at 84 FR 4240, Feb. 14, 2019]

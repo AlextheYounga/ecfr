@@ -1,7 +1,5 @@
 ##### § 324.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Regulatory capital deductions from common equity tier 1 capital.* An FDIC-supervised institution must deduct from the sum of its common equity tier 1 capital elements the items set forth in this paragraph (a):
 
 (1) Goodwill, net of associated deferred tax liabilities (DTLs) in accordance with paragraph (e) of this section, including goodwill that is embedded in the valuation of a significant investment in the capital of an unconsolidated financial institution in the form of common stock (and that is reflected in the consolidated financial statements of the FDIC-supervised institution), in accordance with paragraph (d) of this section;
@@ -84,7 +82,7 @@ Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was d
 
 (c) *Deductions from regulatory capital related to investments in capital instruments* -23 (1) *Investment in the FDIC-supervised institution's own capital instruments.* An FDIC-supervised institution must deduct an investment in the FDIC-supervised institution's own capital instruments as follows:
 
-23 The FDIC-supervised institution must calculate amounts deducted under paragraphs (c) through (f) of this section after it calculates the amount of ALLL includable in tier 2 capital under § 324.20(d)(3).
+23 The FDIC-supervised institution must calculate amounts deducted under paragraphs (c) through (f) of this section after it calculates the amount of ALLL or AACL, as applicable, includable in tier 2 capital under § 324.20(d)(3).
 
 (i) An FDIC-supervised institution must deduct an investment in the FDIC-supervised institution's own common stock instruments from its common equity tier 1 capital elements to the extent such instruments are not excluded from regulatory capital under § 324.20(b)(1);
 
@@ -204,4 +202,4 @@ Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was d
 
 (C) A short position in an index that is hedging a long cash or synthetic position in an FDIC-supervised institution's own capital instrument or in a capital instrument of an unconsolidated financial institution can be decomposed to provide recognition of the hedge. More specifically, the portion of the index that is composed of the same underlying instrument that is being hedged may be used to offset the long position if both the long position being hedged and the short position in the index are reported as a trading asset or trading liability (whether on- or off-balance sheet) on the FDIC-supervised institution's Call Report, and the hedge is deemed effective by the FDIC-supervised institution's internal control processes, which have not been found to be inadequate by the FDIC.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 83 FR 17740, Apr. 24, 2018]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 83 FR 17740, Apr. 24, 2018; 84 FR 4247, Feb. 14, 2019]

@@ -1,7 +1,5 @@
 ##### § 324.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
-Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Regulatory capital components.* An FDIC-supervised institution's regulatory capital components are:
 
 (1) Common equity tier 1 capital;
@@ -146,7 +144,7 @@ Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was d
 
 (2) Total capital minority interest, subject to the limitations set forth in § 324.21(e), that is not included in the FDIC-supervised institution's tier 1 capital.
 
-(3) ALLL up to 1.25 percent of the FDIC-supervised institution's standardized total risk-weighted assets not including any amount of the ALLL (and excluding in the case of a market risk FDIC-supervised institution, its standardized market risk-weighted assets).
+(3) ALLL or AACL, as applicable, up to 1.25 percent of the FDIC-supervised institution's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk FDIC-supervised institution, its standardized market risk-weighted assets).
 
 (4) Any instrument that qualified as tier 2 capital under the FDIC's general risk-based capital rules under 12 CFR part 325, appendix A (state nonmember banks) and 12 CFR part 390, appendix Z (state saving associations) as then in effect, that were issued under the Small Business Jobs Act of 2010,20 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.21
 
@@ -168,4 +166,4 @@ Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was d
 
 (3) After determining that a regulatory capital element may be included in an FDIC-supervised institution's common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the FDIC will make its decision publicly available, including a brief description of the material terms of the regulatory capital element and the rationale for the determination.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016]
+[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 4247, Feb. 14, 2019]

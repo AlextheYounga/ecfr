@@ -1,3 +1,45 @@
-##### § 3.301 xxx #####
+##### § 3.301 Current Expected Credit Losses (CECL) transition. #####
 
-Link to an amendment published at 84 FR 4239, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
+(a) *CECL transition provision criteria.* (1) A national bank or Federal savings association may elect to use a CECL transition provision pursuant to this section only if the national bank or Federal savings association records a reduction in retained earnings due to the adoption of CECL as of the beginning of the fiscal year in which the national bank or Federal savings association adopts CECL.
+
+(2) A national bank or Federal savings association that elects to use the CECL transition provision must use the CECL transition provision in the first Call Report filed by the national bank or Federal savings association after it adopts CECL.
+
+(3) A national bank or Federal savings association that does not elect to use the CECL transition provision as of the first Call Report filed as described in paragraph (a)(2) of this section may not elect to use the CECL transition provision in subsequent reporting periods.
+
+(b) *Definitions.* For purposes of this section, the following definitions apply:
+
+(1) *Transition period* means the three-year period beginning the first day of the fiscal year in which a national bank or Federal savings association adopts CECL.
+
+(2) *CECL transitional amount* means the decrease net of any DTAs, in the amount of a national bank's or Federal savings association's retained earnings as of the beginning of the fiscal year in which the national bank or Federal savings association adopts CECL from the amount of the national bank's or Federal savings association's retained earnings as of the closing of the fiscal year-end immediately prior to the national bank's or Federal savings association's adoption of CECL.
+
+(3) *DTA transitional amount* means the increase in the amount of a national bank's or Federal savings association's DTAs arising from temporary differences as of the beginning of the fiscal year in which the national bank or Federal savings association adopts CECL from the amount of the national bank's or Federal savings association's DTAs arising from temporary differences as of the closing of the fiscal year-end immediately prior to the national bank's or Federal savings association's adoption of CECL.
+
+(4) *AACL transitional amount* means the difference in the amount of a national bank's or Federal savings association's AACL as of the beginning of the fiscal year in which the national bank or Federal savings association adopts CECL and the amount of the national bank's or Federal savings association's ALLL as of the closing of the fiscal year-end immediately prior to the national bank's or Federal savings association's adoption of CECL.
+
+(5) *Eligible credit reserves transitional amount* means the increase in the amount of a national bank's or Federal savings association's eligible credit reserves as of the beginning of the fiscal year in which the national bank or Federal savings association adopts CECL from the amount of the national bank's or Federal savings association's eligible credit reserves as of the closing of the fiscal year-end immediately prior to the national bank's or Federal savings association's adoption of CECL.
+
+(c) *Calculation of CECL transition provision.* (1) For purposes of the election described in paragraph (a)(1) of this section, a national bank or Federal savings association must make the following adjustments in its calculation of regulatory capital ratios:
+
+(i) Increase retained earnings by seventy-five percent of its CECL transitional amount during the first year of the transition period, increase retained earnings by fifty percent of its CECL transitional amount during the second year of the transition period, and increase retained earnings by twenty-five percent of its CECL transitional amount during the third year of the transition period;
+
+(ii) Decrease amounts of DTAs arising from temporary differences by seventy-five percent of its DTA transitional amount during the first year of the transition period, decrease amounts of DTAs arising from temporary differences by fifty percent of its DTA transitional amount during the second year of the transition period, and decrease amounts of DTAs arising from temporary differences by twenty-five percent of its DTA transitional amount during the third year of the transition period;
+
+(iii) Decrease amounts of AACL by seventy-five percent of its AACL transitional amount during the first year of the transition period, decrease amounts of AACL by fifty percent of its AACL transitional amount during the second year of the transition period, and decrease amounts of AACL by twenty-five percent of its AACL transitional amount during the third year of the transition period;
+
+(iv) Increase average total consolidated assets as reported on the Call Report for purposes of the leverage ratio by seventy-five percent of its CECL transitional amount during the first year of the transition period, increase average total consolidated assets as reported on the Call Report for purposes of the leverage ratio by fifty percent of its CECL transitional amount during the second year of the transition period, and increase average total consolidated assets as reported on the Call Report for purposes of the leverage ratio by twenty-five percent of its CECL transitional amount during the third year of the transition period;
+
+(2) For purposes of the election described in paragraph (a)(1) of this section, an advanced approaches national bank or Federal savings association must make the following additional adjustments to its calculation of regulatory capital ratios:
+
+(i) Increase total leverage exposure for purposes of the supplementary leverage ratio by seventy-five percent of its CECL transitional amount during the first year of the transition period, increase total leverage exposure for purposes of the supplementary leverage ratio by fifty percent of its CECL transitional amount during the second year of the transition period, and increase total leverage exposure for purposes of the supplementary leverage ratio by twenty-five percent of its CECL transitional amount during the third year of the transition period; and
+
+(ii) An advanced approaches national bank or Federal savings association that has completed the parallel run process and that has received notification from the OCC pursuant to § 3.121(d) must decrease amounts of eligible credit reserves by seventy-five percent of its eligible credit reserves transitional amount during the first year of the transition period, decrease amounts of eligible credit reserves by fifty percent of its eligible credit reserves transitional amount during the second year of the transition provision, and decrease amounts of eligible credit reserves by twenty-five percent of its eligible credit reserves transitional amount during the third year of the transition provision.
+
+(3) An advanced approaches national bank or Federal savings association that has completed the parallel run process and that has received notification from the OCC pursuant to § 3.121(d), and whose amount of expected credit loss exceeded its eligible credit reserves immediately prior to the adoption of CECL, and that this has an increase in common equity tier 1 capital as of the beginning of the fiscal year in which it adopts CECL after including the first year portion of the CECL transitional amount must decrease its CECL transitional amount used in paragraph (c) of this section by the full amount of its DTA transitional amount.
+
+(4) Notwithstanding any other requirement in this section, for purposes of this paragraph, in the event of a business combination involving a national bank or Federal savings association where one or both of the national banks or Federal savings associations have elected the treatment described in this section:
+
+(i) If the acquirer national bank or Federal savings association (as determined under GAAP) elected the treatment described in this section, the acquirer national bank or Federal savings association must continue to use the transitional amounts (unaffected by the business combination) that it calculated as of the date that it adopted CECL through the end of its transition period.
+
+(ii) If the acquired insured depository institution (as determined under GAAP) elected the treatment described in this section, any transitional amount of the acquired insured depository institution does not transfer to the resulting national bank or Federal savings association.
+
+[84 FR 4239, Feb. 14, 2019]

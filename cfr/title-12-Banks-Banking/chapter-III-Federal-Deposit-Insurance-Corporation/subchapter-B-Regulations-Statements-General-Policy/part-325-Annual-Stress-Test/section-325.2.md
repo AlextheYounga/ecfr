@@ -1,7 +1,5 @@
 ##### § 325.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4249, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 *For purposes of this subpart* -
 
 (a) *Adverse scenario* means a set of conditions that affect the U.S. economy or the financial condition of a covered bank that are more adverse than those associated with the baseline scenario and may include trading or other additional components.
@@ -20,7 +18,19 @@ Link to an amendment published at 84 FR 4249, Feb. 14, 2019.This amendment was d
 
 (f) *Pre-provision net revenue* means the sum of net interest income and non-interest income, less expenses, before adjusting for loss provisions.
 
-(g) *Provision for loan and lease losses* means the provision for loan and lease losses as reported by the covered bank on its Call Report.
+(g) *Provision for credit losses* means:
+
+(1) Until December 31, 2019:
+
+(i) With respect to a state nonmember bank or state savings association that has not adopted the current expected credit losses methodology under U.S. generally accepted accounting principles (GAAP), the provision for loan and lease losses as reported on the Call Report in the current stress test cycle; and,
+
+(ii) With respect to a state nonmember bank or state savings association that has adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses, as would be calculated and reported on the Call Report by a state nonmember bank or state savings association that has not adopted the current expected credit losses methodology under GAAP; and
+
+(2) Beginning January 1, 2020:
+
+(i) With respect to a state nonmember bank or state savings association that has adopted the current expected credit losses methodology under GAAP, the provision for credit losses, as reported in the Call Report in the current stress test cycle; and
+
+(ii) With respect to a state nonmember bank or state savings association that has not adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses as would be reported in the Call Report in the current stress test cycle.
 
 (h) *Regulatory capital ratio* means a capital ratio for which the Corporation established minimum requirements by regulation or order, including the leverage ratio and tier 1 and total risk-based capital ratios applicable to that covered bank as calculated under the Corporation's regulations.
 
@@ -38,4 +48,4 @@ Link to an amendment published at 84 FR 4249, Feb. 14, 2019.This amendment was d
 
 (2) Beginning October 1, 2015, the period beginning January 1 of a calendar year and ending on December 31 of that year.
 
-[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69368, Nov. 21, 2014. Redesignated at 83 FR 17740, Apr. 24, 2018]
+[77 FR 62424, Oct. 15, 2012, as amended at 79 FR 69368, Nov. 21, 2014. Redesignated at 83 FR 17740, Apr. 24, 2018, as amended at 84 FR 4249, Feb. 14, 2019]

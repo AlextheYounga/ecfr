@@ -1,7 +1,5 @@
 ##### § 46.8 Publication of disclosures. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Publication date.* (1) *$50 billion or over covered institution.* A $50 billion or over covered institution must publish a summary of the results of its annual stress test in the period starting June 15 and ending July 15 provided:
 
 (i) Unless the OCC determines otherwise, if the $50 billion or over covered institution is a consolidated subsidiary of a bank holding company or savings and loan holding company subject to supervisory stress tests conducted by the Board of Governors of the Federal Reserve System pursuant to 12 CFR part 252, then within the June 15 to July 15 period such covered institution may not publish the required summary of its annual stress test earlier than the date that the Board of Governors of the Federal Reserve System publishes the supervisory stress test results of the covered bank's parent holding company.
@@ -18,12 +16,12 @@ Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was d
 
 (2) A summary description of the methodologies used in the stress test;
 
-(3) Estimates of aggregate losses, pre-provision net revenue, provisions for loan and lease losses, net income, and pro forma capital ratios (including regulatory and any other capital ratios specified by the OCC); and
+(3) Estimates of aggregate losses, pre-provision net revenue, provisions for credit losses, net income, and pro forma capital ratios (including regulatory and any other capital ratios specified by the OCC); and
 
 (4) An explanation of the most significant causes of the changes in regulatory capital ratios.
 
-(d) *Disclosure of estimates for the planning horizon.* (1) The disclosure of the estimates of aggregate losses, pre-provision net revenue, provisions for loan and lease losses, net income, and pro forma capital ratios (including regulatory and any other capital ratios specified by the OCC), as required by paragraph (b) of this section, must reflect the estimated cumulative effects, as well as the estimated capital ratios, at the end of the planning horizon for the severely adverse scenario.
+(d) *Disclosure of estimates for the planning horizon.* (1) The disclosure of the estimates of aggregate losses, pre-provision net revenue, provisions for credit losses, net income, and pro forma capital ratios (including regulatory and any other capital ratios specified by the OCC), as required by paragraph (b) of this section, must reflect the estimated cumulative effects, as well as the estimated capital ratios, at the end of the planning horizon for the severely adverse scenario.
 
 (2) With respect to the capital ratio disclosure required in paragraph (d)(1) of this section, the disclosure must also include the value at the beginning of the planning horizon, and the minimum over the planning horizon of the estimated quarter-end values of each ratio.
 
-[77 FR 61246, Oct. 9, 2012, as amended at 79 FR 71634, Dec. 3, 2014; 83 FR 7954, Feb. 23, 2018]
+[77 FR 61246, Oct. 9, 2012, as amended at 79 FR 71634, Dec. 3, 2014; 83 FR 7954, Feb. 23, 2018; 84 FR 4240, Feb. 14, 2019]

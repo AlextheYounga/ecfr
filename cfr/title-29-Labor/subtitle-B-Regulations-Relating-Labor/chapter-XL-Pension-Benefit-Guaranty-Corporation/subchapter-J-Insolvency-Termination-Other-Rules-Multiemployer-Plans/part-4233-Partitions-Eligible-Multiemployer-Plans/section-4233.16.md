@@ -1,0 +1,9 @@
+##### § 4233.16 Coordination of benefits under original plan and successor plan. #####
+
+(a) *Successor plan benefits.* Subject to the limitations contained in section 4022A of ERISA, the only benefit amounts payable under a successor plan are successor plan benefits as defined in § 4233.2.
+
+(b) *Guarantee of successor plan benefit.* When a participant's or beneficiary's benefit is partially or wholly transferred to a successor plan, the PBGC guarantee applicable to such benefit becomes payable under the successor plan. The benefit remaining in the original plan as of the effective date of the partition, if any, is not subject to a new guarantee, and any increase in the PBGC guarantee amount payable under the original plan will arise solely, if at all, due to an increase in the accrued benefit under a plan amendment following the effective date of the partition, or an additional accrual attributable to service after the effective date of the partition.
+
+(c) *PBGC financial assistance.* Subject to the conditions contained in section 4261 of ERISA, PBGC will provide financial assistance to the successor plan in an amount sufficient to enable the successor plan to pay only the PBGC-guaranteed amount transferred to the successor plan pursuant to the partition order, and reasonable and necessary administrative expenses if approved by PBGC. The receipt of benefits payable under a successor plan receiving financial assistance from PBGC will be treated as the receipt of guaranteed benefits under section 4022A.
+
+(d) *Payment of monthly benefits.* The plan sponsors of an original plan and a successor plan may, but are not required to, pay monthly benefits payable under the original plan and successor plan, respectively, in a single monthly payment pursuant to a written cost-sharing or expense allocation agreement between the plans.

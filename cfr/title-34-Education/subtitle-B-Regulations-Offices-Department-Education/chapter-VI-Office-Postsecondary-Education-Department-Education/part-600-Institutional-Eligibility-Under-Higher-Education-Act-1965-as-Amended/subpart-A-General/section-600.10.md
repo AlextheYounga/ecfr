@@ -1,5 +1,7 @@
 ##### § 600.10 Date, extent, duration, and consequence of eligibility. #####
 
+Link to an amendment published at 84 FR 31452, July 1, 2019.
+
 (a) *Date of eligibility.* (1) If the Secretary determines that an applicant institution satisfies all the statutory and regulatory eligibility requirements, the Secretary considers the institution to be an eligible institution as of the date -
 
 (i) The Secretary signs the institution's program participation agreement described in 34 CFR part 668, subpart B, for purposes of participating in any title IV, HEA program; and

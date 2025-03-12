@@ -1,7 +1,5 @@
 ##### § 223.3 What are the meanings of the other terms used in sections 23A and 23B and this part? #####
 
-Link to an amendment published at 84 FR 4244, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 For purposes of this part:
 
 (a) *Aggregate amount of covered transactions* means the amount of the covered transaction about to be engaged in added to the current amount of all outstanding covered transactions.
@@ -10,11 +8,11 @@ For purposes of this part:
 
 (c) “*Bank holding company*” has the same meaning as in 12 CFR 225.2.
 
-(d) “*Capital stock and surplus*” means the sum of:
+(d) *Capital stock and surplus* means the sum of:
 
-(1) A member bank's tier 1 and tier 2 capital under the risk-based capital guidelines of the appropriate Federal banking agency, based on the member bank's most recent consolidated Report of Condition and Income filed under 12 U.S.C. 1817(a)(3);
+(1) A member bank's tier 1 and tier 2 capital under the capital rule of the appropriate Federal banking agency, based on the member bank's most recent consolidated Report of Condition and Income filed under 12 U.S.C. 1817(a)(3);
 
-(2) The balance of a member bank's allowance for loan and lease losses not included in its tier 2 capital under the risk-based capital guidelines of the appropriate Federal banking agency, based on the member bank's most recent consolidated Report of Condition and Income filed under 12 U.S.C. 1817(a)(3); and
+(2) The balance of a member bank's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in its tier 2 capital under the capital rule of the appropriate Federal banking agency, based on the member bank's most recent consolidated Report of Condition and Income filed under 12 U.S.C. 1817(a)(3); and
 
 (3) The amount of any investment by a member bank in a financial subsidiary that counts as a covered transaction and is required to be deducted from the member bank's capital for regulatory capital purposes.
 
@@ -167,3 +165,5 @@ For purposes of this part:
 (kk) “*Well capitalized*” has the same meaning as in 12 CFR 225.2 and, in the case of any holding company that is not a bank holding company, “*well capitalized*” means that the holding company has and maintains at least the capital levels required for a bank holding company to be well capitalized under 12 CFR 225.2.
 
 (ll) “*Well managed*” has the same meaning as in 12 CFR 225.2.
+
+[67 FR 76604, Dec. 12, 2002, as amended at 84 FR 4244, Feb. 14, 2019]

@@ -1,7 +1,5 @@
 ##### § 457.8 The application and policy. #####
 
-Link to an amendment published at 84 FR 30861, June 28, 2019.
-
 (a) Application for insurance on a form prescribed by the Corporation, or approved by the Corporation, must be made by any person who wishes to participate in the program, to cover such person's share in the insured crop as landlord, owner-operator, crop ownership interest, or tenant. No other person's interest in the crop may be insured under an application unless that person's interest is clearly shown on the application and unless that other person's interest is insured in accordance with the procedures of the Corporation. The application must be submitted to the Corporation or the reinsured company through the crop insurance agent and must be submitted on or before the applicable sales closing date on file.
 
 (b) FCIC or the reinsured company may reject or discontinue the acceptance of applications in any county or of any individual application upon FCIC's determination that the insurance risk is excessive.
@@ -278,7 +276,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Termination date.* The calendar date contained in the Crop Provisions upon which your insurance ceases to be in effect because of nonpayment of any amount due us under the policy, including premium.
 
-*Tilled.* The termination of existing plants by plowing, disking, burning, application of chemicals, or by other means to prepare acreage for the production of an annual crop.
+*Tilled.* The termination of existing plants by plowing, disking, burning, application of chemicals, or by other means to prepare acreage for the production of a crop.
 
 *Timely planted.* Planted on or before the final planting date designated in the Special Provisions for the insured crop in the county.
 
@@ -287,6 +285,16 @@ Terms and ConditionsBasic Provisions1. Definitions
 *USDA.* United States Department of Agriculture.
 
 *Verifiable records.* Has the same meaning as the term defined in 7 CFR part 400, subpart G.
+
+*Veteran farmer or rancher.* An individual who has served active duty in the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including the reserve components, was discharged or released under conditions other than dishonorable, and:
+
+(1) Has not operated a farm or ranch;
+
+(2) Has operated a farm or ranch for not more than 5 years; or
+
+(3) First obtained status as a veteran during the most recent 5-year period.
+
+A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify as a veteran farmer or rancher. A spouse's veteran status does not impact whether an individual is considered a veteran farmer or rancher.
 
 *Void.* When the policy is considered not to have existed for a crop year.
 
@@ -368,13 +376,11 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (d) Either you or we may cancel this policy after the initial crop year by providing written notice to the other on or before the cancellation date shown in the Crop Provisions.
 
-(e) Any amount due to us for any policy authorized under the Act will be offset from any indemnity or prevented planting payment due you for this or any other crop insured with us under the authority of the Act.
+(e) Any amount owed to us for any policy authorized under the Act will be offset from any indemnity or prevented planting payment due you for this or any other crop insured with us under the authority of the Act.
 
 (1) Even if your claim has not yet been paid, you must still pay the premium and administrative fee on or before the termination date for you to remain eligible for insurance.
 
-(2) If you and we agree, your premium and administrative fees can be offset from any indemnity or prevented planting payment due you even if it is prior to the billing date of the premium and administrative fees.
-
-(3) If we offset any amount due us from an indemnity or prevented planting payment owed to you, the date of payment for the purpose of determining whether you have a delinquent debt will be the date that you submit the claim for indemnity in accordance with section 14(e) (Your Duties).
+(2) If we offset any amount due us from an indemnity or prevented planting payment owed to you, the date of payment for the purpose of determining whether you have a delinquent debt will be the date that you submit the claim for indemnity in accordance with section 14(e) (Your Duties).
 
 (f) A delinquent debt for any policy will make you ineligible to obtain crop insurance authorized under the Act for any subsequent crop year and result in termination of all policies in accordance with section 2(f)(2).
 
@@ -584,7 +590,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (f) You must report all production of the crop (insured and uninsured) to us for the previous crop year by the earlier of the acreage reporting date or 45 days after the cancellation date, unless otherwise stated in the Special Provisions or as specified in section 18:
 
-(1) If you do not provide the required production report, we will assign a yield for the previous crop year. The yield assigned by us will not be more than 75 percent of the yield used by us to determine your coverage for the previous crop year. The production report or assigned yield will be used to compute your approved yield for the purpose of determining your coverage for the current crop year.
+(1) If you do not provide the required production report, we will assign a yield. The yield assigned by us will not be more than 75 percent of the yield used by us to determine your coverage for the previous crop year. The production report or assigned yield will be used to compute your approved yield for the purpose of determining your coverage for the current crop year.
 
 (2) If you have filed a claim for any crop year, the documents signed by you which state the amount of production used to complete the claim for indemnity will be the production report for that year unless otherwise specified by FCIC.
 
@@ -598,15 +604,17 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (2) If you fail to accurately report any information or if you do not provide any required records, you will be subject to the provisions regarding misreporting contained in section 6(g), unless the information is corrected:
 
-(i) On or before the production reporting date; or
+(i) On or before the production reporting date;
 
-(ii) Because the incorrect information was the result of our error or the error of someone from USDA.
+(ii) Because the incorrect information was determined to be inadvertently reported by you (Simply stating the error was inadvertent is not sufficient to prove the error was inadvertent); or
 
-(3) If you do not have written verifiable records to support the information on your production report, you will receive an assigned yield in accordance with section 3(f)(1) and 7 CFR part 400, subpart G for those crop years for which you do not have such records.
+(iii) Because the incorrect information was the result of our error or the error of someone from USDA.
+
+(3) If you do not have written verifiable records to support the information you certified on your production report, you will receive an assigned yield in accordance with section 3(f)(1) and 7 CFR part 400, subpart G, for the applicable units, determined by us, for those crop years for which you do not have such records. If the conditions of section 34(c)(3) are not met, you will receive an assigned yield for the applicable basic unit.
 
 (4) At any time we discover you have misreported any material information used to determine your approved yield or your approved yield is not correct, the following actions will be taken, as applicable:
 
-(i) We will correct your approved yield for the crop year such information is not correct, and all subsequent crop years;
+(i) We will correct your approved yield, in accordance with FCIC procedure, by assigning a yield or by using the yield we determine to be correct, for the crop year such information is not correct, and all subsequent crop years;
 
 (ii) We will correct the unit structure, if necessary;
 
@@ -640,7 +648,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (k) The applicable premium rate, or formula to calculate the premium rate, and transitional yield will be those contained in the actuarial documents except, in the case of high-risk land, a written agreement may be requested to change such transitional yield or premium rate.
 
-(l) Notwithstanding any other provision, if you qualify as a beginning farmer or rancher and were previously involved in a farming or ranching operation, including involvement in the decision-making or physical involvement in the production of the crop or livestock on the farm, for any acreage obtained by you, you may receive a yield that is the higher of:
+(l) Notwithstanding any other provision, if you qualify as a beginning farmer or rancher, or veteran farmer or rancher and were previously involved in a farming or ranching operation, including involvement in the decision-making or physical involvement in the production of the crop or livestock on the farm, for any acreage obtained by you, you may receive a yield that is the higher of:
 
 (1) The actual production history of the previous producer of the crop or livestock on the acreage you were previously involved with; or
 
@@ -654,11 +662,11 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (c) After the contract change date, all changes specified in section 4(b) will also be available upon request from your crop insurance agent. You will be provided, in writing, a copy of the changes to the Basic Provisions, Crop Provisions, Commodity Exchange Price Provisions, if applicable, and Special Provisions not later than 30 days prior to the cancellation date for the insured crop. If available from us, you may elect to receive these documents and changes electronically. Acceptance of the changes will be conclusively presumed in the absence of notice from you to change or cancel your insurance coverage.
 
-5. Exclusion of Yields.
+(d) [Reserved]
 
-If provided in the actuarial documents, you may elect to exclude any actual yield for any crop year when FCIC determines for a county, or its contiguous counties, the per planted acre yield was at least 50 percent below the simple average of the per planted acre yield for the crop in the county for the previous 10 consecutive crop years.
+(e) Acceptance of the changes will be conclusively presumed in the absence of notice from you to change or cancel your insurance coverage.
 
-6. Report of Acreage
+5. [Reserved]6. Report of Acreage
 
 (a) An annual acreage report must be submitted to us on our form for each insured crop in the county on or before the acreage reporting date contained in the Special Provisions, except as follows:
 
@@ -784,7 +792,7 @@ If provided in the actuarial documents, you may elect to exclude any actual yiel
 
 (4) The administrative fee will be waived if you request it and:
 
-(i) You qualify as a beginning farmer or rancher;
+(i) You qualify as a beginning farmer or rancher, or veteran farmer or rancher;
 
 (ii) You qualify as a limited resource farmer; or
 
@@ -794,7 +802,7 @@ If provided in the actuarial documents, you may elect to exclude any actual yiel
 
 (f) If the amount of premium (gross premium less premium subsidy paid on your behalf by FCIC) and administrative fee you are required to pay for any acreage exceeds the liability for the acreage, coverage for those acres will not be provided (no premium or administrative fee will be due and no indemnity will be paid for such acreage).
 
-(g) If you qualify as a beginning farmer or rancher, your premium subsidy will be 10 percentage points greater than the premium subsidy that you would otherwise receive, unless otherwise specified in the Special Provisions.
+(g) If you qualify as a beginning farmer or rancher, or veteran farmer or rancher, your premium subsidy will be 10 percentage points greater than the premium subsidy that you would otherwise receive, unless otherwise specified in the Special Provisions.
 
 (h) You will be ineligible for any premium subsidy paid on your behalf by FCIC for any policy issued by us if:
 
@@ -902,13 +910,15 @@ If provided in the actuarial documents, you may elect to exclude any actual yiel
 
 (d) We may restrict the amount of acreage that we will insure to the amount allowed under any acreage limitation program established by the United States Department of Agriculture if we notify you of that restriction prior to the sales closing date.
 
-(e) Except as provided in section 9(f), in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, or South Dakota, during the first four crop years of planting on native sod acreage that has been tilled after February 7, 2014, such acreage may be insured if the requirements of section 9(a) have been met but will:
+(e) Except as provided in section 9(f), and in accordance with section 9(g), in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, or South Dakota, native sod acreage may be insured if the requirements of section 9(a) have been met but will:
 
 (1) Notwithstanding the provisions in section 3 regarding your production guarantee, receive a production guarantee (per acre) that is based on 65 percent of the transitional yield for the county; and
 
 (2) For additional coverage policies, receive a premium subsidy that is 50 percentage points less than would otherwise be provided on acreage not qualifying as native sod. If the premium subsidy applicable to these acres is less than 50 percent before the reduction, you will receive no premium subsidy.
 
 (f) Section 9(e) is not applicable to cumulative native sod acreage that is five acres or less in the county.
+
+(g) Section 9(e) is applicable during the first 4 crop years of planting on native sod acreage that has been tilled beginning on February 8, 2014, and ending on December 20, 2018. Section 9(e) is applicable during 4 cumulative crop years of insurance within the first 10 crop years after initial tillage on native sod acreage tilled after December 20, 2018.
 
 10. Share Insured
 
@@ -1942,7 +1952,17 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (a) All notices required to be given by you must be in writing and received by your crop insurance agent within the designated time unless otherwise provided by the notice requirement. Notices required to be given immediately may be by telephone or in person and confirmed in writing. Time of the notice will be determined by the time of our receipt of the written notice. If the date by which you are required to submit a report or notice falls on Saturday, Sunday, or a Federal holiday, or if your agent's office is, for any reason, not open for business on the date you are required to submit such notice or report, such notice or report must be submitted on the next business day.
 
-(b) All notices and communications required to be sent by us to you will be mailed to the address contained in your records located with your crop insurance agent. Notice sent to such address will be conclusively presumed to have been received by you. You should advise us immediately of any change of address.
+(b) All policy provisions, notices, and communications that we send to you will be:
+
+(1) Provided by electronic means, unless:
+
+(i) We do not have the ability to transmit such information to you by electronic means; or
+
+(ii) You elect to receive a paper copy of such information;
+
+(2) Sent to the location specified in your records with your crop insurance agent; and
+
+(3) Will be conclusively presumed to have been received by you.
 
 34. Units
 
@@ -2116,17 +2136,21 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (c) FSA or another USDA agency, as applicable, will determine and pay the additional amount due you for any applicable USDA program, after first considering the amount of any crop insurance indemnity.
 
-36. Substitution of Yields.
+36. Changes to Yields
 
 (a) When you have actual yields in your production history database that, due to an insurable cause of loss, are less than 60 percent of the applicable transitional yield you may elect, on an individual actual yield basis, to exclude and replace one or more of any such yields within each database.
 
-(b) Each election made in section 36(a) must be made on or before the production reporting date for the insured crop and each such election will remain in effect for succeeding years unless canceled by the production reporting date for the succeeding crop year. If you cancel an election, the actual yield will be used in the database. For example, if you elected to substitute yields in your database for the 1998 and 2000 crop year, for any subsequent crop year, you can elect to cancel the substitution for either or both years.
+(1) Each election made in section 36(a) must be made on or before the production reporting date for the insured crop and each such election will remain in effect for succeeding years unless canceled by the production reporting date for the succeeding crop year. If you cancel an election, the actual yield will be used in the database. For example, if you elected to substitute yields in your database for the 1998 and 2000 crop year, for any subsequent crop year, you can elect to cancel the substitution for either or both years.
 
-(c) Each excluded actual yield will be replaced with a yield equal to 60 percent of the applicable transitional yield for the crop year in which the yield is being replaced, unless you qualify as a beginning farmer or rancher, in which case the excluded actual yield will be replaced with a yield equal to 80 percent of the applicable transitional yield for the crop year in which the yield is being replaced. (For example, if you elect to exclude a 2001 crop year actual yield, the transitional yield in effect for the 2001 crop year in the county will be used. If you also elect to exclude a 2002 crop year actual yield, the transitional yield in effect for the 2002 crop year in the county will be used). The replacement yields will be used in the same manner as actual yields for the purpose of calculating the approved yield.
+(2) Each excluded actual yield will be replaced with a yield equal to 60 percent of the applicable transitional yield for the crop year in which the yield is being replaced, unless you qualify as a beginning farmer or rancher, or veteran farmer or rancher, in which case the excluded actual yield will be replaced with a yield equal to 80 percent of the applicable transitional yield for the crop year in which the yield is being replaced. (For example, if you elect to exclude a 2001 crop year actual yield, the transitional yield in effect for the 2001 crop year in the county will be used. If you also elect to exclude a 2002 crop year actual yield, the transitional yield in effect for the 2002 crop year in the county will be used). The replacement yields will be used in the same manner as actual yields for the purpose of calculating the approved yield.
 
-(d) Once you have elected to exclude an actual yield from the database, the replacement yield will remain in effect until such time as that crop year is no longer included in the database unless this election is canceled in accordance with section 36(b).
+(3) Once you have elected to exclude an actual yield from the database, the replacement yield will remain in effect until such time as that crop year is no longer included in the database unless this election is canceled in accordance with section 36(b).
 
-(e) Although your approved yield will be used to determine your amount of premium owed, the premium rate will be increased to cover the additional risk associated with the substitution of higher yields.
+(4) Although your approved yield will be used to determine your amount of premium owed, the premium rate will be increased to cover the additional risk associated with the substitution of higher yields.
+
+(b) If provided in the actuarial documents, you may elect to exclude any actual yield for any crop year when FCIC determines for a county, or its contiguous counties, the per planted acre yield was at least 50 percent below the simple average of the per planted acre yield for the crop in the county for the previous 10 consecutive crop years.
+
+(c) If provided in the actuarial documents, you may elect to limit a reduction to the approved APH yield to a maximum decline of 10 percent of the previous crop year's approved APH yield when such reduction is due to a decline in production resulting from a natural disaster or other insurable loss, as provided in FCIC procedures.
 
 37. Organic Farming Practices.
 
@@ -2158,4 +2182,6 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (h) In lieu of the provisions contained in section 17(f)(1) that specify prevented planting acreage within a field that contains planted acreage will be considered to be acreage of the same practice that is planted in the field, prevented planting acreage will be considered as organic practice acreage if it is identified as certified organic, transitional, or buffer zone acreage in the organic plan.
 
-[56 FR 1351, Jan. 14, 1991]Editorial Note:For Federal Register citations affecting § 457.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[56 FR 1351, Jan. 14, 1991]Editorial Notes:1. For Federal Register citations affecting § 457.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 84 FR 30861, June 28, 2019, § 457.8 was amended by revising paragraph (d) in section 4, however paragraph (d) in section 4 does not exist, so this amendment could not be incorporated.

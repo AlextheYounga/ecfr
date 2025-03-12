@@ -1,7 +1,5 @@
 ##### § 989.173 Reports. #####
 
-Link to an amendment published at 84 FR 30863, June 28, 2019.
-
 (a) *Inventory reports.* Each handler shall submit to the Committee as of the close of business on July 31 of each crop year, and not later than the following August 6, an inventory report which shall show, with respect to each varietal type of raisins held by such handler, the quantity of off-grade raisins segregated as to those for reconditioning and those for disposition as such. *Provided,* That, for the Other Seedless varietal type, handlers shall report the information required in this paragraph separately for the different types of Other Seedless raisins. Upon request by the Committee, each handler shall file at other times, and as of other dates, any of the said information which may reasonably be necessary and which the Committee shall specify in its request.
 
 (b) *Reports of raisins received or acquired* - (1) *General.* (i) Except as otherwise provided in paragraph (i) of this section, each handler shall submit to the Committee (on forms furnished by it) for each week (Sunday through Saturday or such other 7-day period for which the handler has submitted a proposal to and received approval from the Committee) and not later than the following Wednesday, the reports specified in paragraphs (b)(2), (3), (4), and (5) of this section.
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 30863, June 28, 2019.
 
 (ii) The cumulative totals of such acquisitions from the beginning of the then current crop year.
 
-(3) *Standard raisins received for memorandum storage.* Each handler shall, with respect to all standard raisins held for memorandum receipt, storage, bailment, or warehousing (raisins received other than by acquisition or interhandler transfer), report:
+(3) *Standard raisins received for memorandum storage.* Each handler shall, with respect to all standard raisins held for memorandum receipt, storage, bailment, or warehousing (raisins received other than by acquisition or inter-handler transfer), report:
 
 (i) The net weight of such standard raisins held at the start of the reporting period;
 
@@ -36,7 +34,7 @@ Link to an amendment published at 84 FR 30863, June 28, 2019.
 
 (iv) The date the lot was returned to the tenderer.
 
-(5) *Off-grade raisins received for reconditioning or disposition in eligible nonfood channels.* Each handler who is not a processor shall, with respect to all off-grade raisins received by the handler and retained by him for reconditioning or for disposition or use in eligible non-normal outlets, report for each category received or reconditioned during the reporting period:
+(5) *Off-grade raisins received for reconditioning or disposition in eligible non-food channels.* Each handler who is not a processor shall, with respect to all off-grade raisins received by the handler and retained by him for reconditioning or for disposition or use in eligible non-normal outlets, report for each category received or reconditioned during the reporting period:
 
 (i) The name of each tenderer;
 
@@ -48,9 +46,9 @@ Link to an amendment published at 84 FR 30863, June 28, 2019.
 
 (v) The name and address of each person to whom residual or off-grade lots were delivered for disposition, and the respective net weight delivered; and
 
-(vi) The total net weight (according to location) of each category of off-grade raisins held by him at the end of the reporting period.
+(vi)(A) The total net weight (according to location) of each category of off-grade raisins held by him at the end of the reporting period.
 
-Each nonacquiring handler shall report also the weight of standard raisins recovered from reconditioning, their inspection certificate number(s) and the handler or other person to whom the standard raisins were delivered.
+(B) Each non-acquiring handler shall report also the weight of standard raisins recovered from reconditioning, their inspection certificate number(s) and the handler or other person to whom the standard raisins were delivered.
 
 (6) *Monthly report of raisins received or acquired by processors.* Each processor who receives or acquires off-grade raisins, or who avail himself of the exemptions from the grade and inspection requirements provided in §§ 989.58, 989.59(f), and 989.160 and receives or acquires raisins or raisin residual material, shall submit to the Committee on or before the 7th day of each month a report of such raisins, raisin residual material, and off-grade raisins received or acquired during the preceding month. Each report shall show for each varietal type:
 
@@ -66,7 +64,7 @@ Each nonacquiring handler shall report also the weight of standard raisins recov
 
 (ii) Federal Government purchases;
 
-(iii) The varietal type of raisin, with organically produced raisins as specified in paragraph (g) of this section separated out, net weight, and condition of the raisins transferred: *Provided*, That, for the Other Seedless varietal type, handlers shall report such information for the different types of Other Seedless raisins; and
+(iii) The varietal type of raisin, with organically-produced raisins as specified in paragraph (g) of this section separated out, net weight, and condition of the raisins transferred: *Provided*, That, for the Other Seedless varietal type, handlers shall report such information for the different types of Other Seedless raisins; and
 
 (iv) Export outlets, by countries of destination; and
 
@@ -96,13 +94,13 @@ Each nonacquiring handler shall report also the weight of standard raisins recov
 
 (ii) The quantity of raisins or raisin material sold or otherwise disposed of by the processor, segregated as to specified outlets and kinds of raisins or raisin material.
 
-(d) *Reports of interhandler transfers* - (1) Any handler who transfers raisins to another handler within the State of California shall submit to the Committee not later than five calendar days following such transfer a report showing:
+(d) *Reports of inter-handler transfers* - (1) Any handler who transfers raisins to another handler within the State of California shall submit to the Committee not later than five calendar days following such transfer a report showing:
 
 (i) The date of transfer;
 
 (ii) The name(s) and address(es) of the handler or handlers and the locations of the plants;
 
-(iii) The varietal type of raisin, with organically produced raisins as specified in paragraph (g) of this section separated out, net weight, and condition of the raisins transferred: Provided, That, for the Other Seedless varietal type, handlers shall report such information for the different types of Other Seedless raisins;
+(iii) The varietal type of raisin, with organically-produced raisins as specified in paragraph (g) of this section separated out, net weight, and condition of the raisins transferred: Provided, That, for the Other Seedless varietal type, handlers shall report such information for the different types of Other Seedless raisins;
 
 (iv) If packed, the inspection certificate number in the event such raisins have been inspected prior to such transfer and a certificate issued. Two copies of such report shall be forwarded to the receiving handler at the time the report is submitted to the Committee, on one of which the receiving handler shall certify to the receipt of such raisins and submit it to the Committee within five calendar days after the raisins or the copies of such report have been received by him, whichever is later; and
 
@@ -112,7 +110,7 @@ Each nonacquiring handler shall report also the weight of standard raisins recov
 
 (e) *Report of shipments of experimental or specialty packs under exemption.* Each handler who obtains an exemption pursuant to § 989.59(g) for the shipment of experimental or specialty packs of raisins shall submit to the Committee on a copy of the approved application for exemption a report showing the quantity of raisins shipped or disposed of under such exemption. The handler shall submit the report promptly after the end of the crop year or after completion by him of all shipments of such exempted raisins, whichever is earlier.
 
-(f) *Organically produced raisins.* For purposes of this section, organically produced raisins means raisins that have been certified by an organic certification organization currently registered with the California Department of Food and Agriculture or such certifying organization accredited under the National Organic Program. Handlers of such raisins shall submit the following reports to the Committee by varietal type: *Provided:* That, for the Other Seedless varietal type, handlers shall report such information for the different types of Other Seedless raisins.
+(f) *organically-produced raisins.* For purposes of this section, organically-produced raisins means raisins that have been certified by an organic certification organization currently registered with the California Department of Food and Agriculture or such certifying organization accredited under the National Organic Program. Handlers of such raisins shall submit the following reports to the Committee by varietal type: *Provided:* That, for the Other Seedless varietal type, handlers shall report such information for the different types of Other Seedless raisins.
 
 (1) *Inventory report of organically-produced raisins.* Each handler shall submit to the Committee by the close of business on July 31 of each crop year, and not later than the following August 6, on an appropriate form provided by the Committee, a report showing, with respect to the organically-produced raisins held by such handler:
 

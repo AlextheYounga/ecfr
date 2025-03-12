@@ -1,7 +1,5 @@
 ##### § 217.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Regulatory capital deductions from common equity tier 1 capital.* A Board-regulated institution must deduct from the sum of its common equity tier 1 capital elements the items set forth in this paragraph (a):
 
 (1) Goodwill, net of associated deferred tax liabilities (DTLs) in accordance with paragraph (e) of this section, including goodwill that is embedded in the valuation of a significant investment in the capital of an unconsolidated financial institution in the form of common stock (and that is reflected in the consolidated financial statements of the Board-regulated institution), in accordance with paragraph (d) of this section;
@@ -62,7 +60,7 @@ Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was d
 
 (c) *Deductions from regulatory capital related to investments in capital instruments*23 - (1) *Investment in the Board-regulated institution's own capital instruments.* A Board-regulated institution must deduct an investment in the Board-regulated institution's own capital instruments as follows:
 
-23 The Board-regulated institution must calculate amounts deducted under paragraphs (c) through (f) of this section after it calculates the amount of ALLL includable in tier 2 capital under § 217.20(d)(3).
+23 The Board-regulated institution must calculate amounts deducted under paragraphs (c) through (f) of this section after it calculates the amount of ALLL or AACL, as applicable, includable in tier 2 capital under § 217.20(d)(3).
 
 (i) A Board-regulated institution must deduct an investment in the Board-regulated institution's own common stock instruments from its common equity tier 1 capital elements to the extent such instruments are not excluded from regulatory capital under § 217.20(b)(1);
 
@@ -182,4 +180,4 @@ Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was d
 
 (C) A short position in an index that is hedging a long cash or synthetic position in a Board-regulated institution's own capital instrument or in a capital instrument of an unconsolidated financial institution can be decomposed to provide recognition of the hedge. More specifically, the portion of the index that is composed of the same underlying instrument that is being hedged may be used to offset the long position if both the long position being hedged and the short position in the index are reported as a trading asset or trading liability (whether on- or off-balance sheet) on the Board-regulated institution's Call Report, for a state member bank, or FR Y-9C, for a bank holding company or savings and loan holding company, as applicable, and the hedge is deemed effective by the Board-regulated institution's internal control processes, which have not been found to be inadequate by the Board.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 79 FR 78295, Dec. 30, 2014; 80 FR 41419, July 15, 2015]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 79 FR 78295, Dec. 30, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019]

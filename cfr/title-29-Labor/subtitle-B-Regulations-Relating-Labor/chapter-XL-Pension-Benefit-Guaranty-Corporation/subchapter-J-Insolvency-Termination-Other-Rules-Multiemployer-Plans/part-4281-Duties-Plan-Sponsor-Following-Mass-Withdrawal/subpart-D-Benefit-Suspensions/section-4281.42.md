@@ -1,0 +1,5 @@
+##### § 4281.42 Retroactive payments. #####
+
+(a) *Erroneous resource benefit level.* If, by the end of a year in which benefits were suspended under § 4281.41, the plan sponsor determines in writing that the plan's available resources in that year could have supported benefit payments above the resource benefit level determined for that year, the plan sponsor may distribute the excess resources to each affected participant and beneficiary who received benefit payments that year on a pro rata basis. The amount distributed to each participant under this paragraph may not exceed the amount that, when added to benefit payments already made, brings the total benefit for the plan year up to the total benefit provided under the plan.
+
+(b) *Benefits paid below resource benefit level.* If, by the end of a plan year in which benefits were suspended under § 4281.41, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level that were unpaid shall be distributed to each affected participant and beneficiary on a pro rata basis to the extent possible, taking into account the plan's total available resources in that year.

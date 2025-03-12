@@ -1,7 +1,5 @@
 ##### § 217.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Minimum capital requirements.* A Board-regulated institution must maintain the following minimum capital ratios:
 
 (1) A common equity tier 1 capital ratio of 4.5 percent.
@@ -44,7 +42,7 @@ Link to an amendment published at 84 FR 4242, Feb. 14, 2019.This amendment was d
 
 (ii) The ratio of the Board-regulated institution's advanced-approaches-adjusted total capital to advanced approaches total risk-weighted assets. A Board-regulated institution's advanced-approaches-adjusted total capital is the Board-regulated institution's total capital after being adjusted as follows:
 
-(A) An advanced approaches Board-regulated institution must deduct from its total capital any allowance for loan and lease losses included in its tier 2 capital in accordance with § 217.20(d)(3); and
+(A) An advanced approaches Board-regulated institution must deduct from its total capital any allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, included in its tier 2 capital in accordance with § 217.20(d)(3); and
 
 (B) An advanced approaches Board-regulated institution must add to its total capital any eligible credit reserves that exceed the Board-regulated institution's total expected credit losses to the extent that the excess reserve amount does not exceed 0.6 percent of the Board-regulated institution's credit risk-weighted assets.
 
@@ -132,4 +130,4 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (2) A Board-regulated institution must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019]

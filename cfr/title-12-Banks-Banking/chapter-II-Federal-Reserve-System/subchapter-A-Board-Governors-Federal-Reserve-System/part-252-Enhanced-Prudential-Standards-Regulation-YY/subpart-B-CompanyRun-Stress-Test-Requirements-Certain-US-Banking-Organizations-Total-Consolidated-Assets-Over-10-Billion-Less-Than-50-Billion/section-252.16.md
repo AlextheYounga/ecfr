@@ -1,7 +1,5 @@
 ##### § 252.16 Reports of stress test results. #####
 
-Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Reports to the Board of stress test results* - (1) *General.* A bank holding company, savings and loan holding company, and state member bank must report the results of the stress test to the Board in the manner and form prescribed by the Board, in accordance with paragraphs (a)(2) and (3) of this section.
 
 (2) *Timing for the stress test cycle beginning on October 1, 2014.* For the stress test cycle beginning on October 1, 2014:
@@ -22,10 +20,12 @@ Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was d
 
 (2) A summary description of the methodologies used in the stress test; and
 
-(3) For each quarter of the planning horizon, estimates of aggregate losses, pre-provision net revenue, provision for loan and lease losses, net income, and regulatory capital ratios;
+(3) For each quarter of the planning horizon, estimates of aggregate losses, pre-provision net revenue, provision for credit losses, net income, and regulatory capital ratios;
 
 (4) An explanation of the most significant causes for the changes in regulatory capital ratios; and
 
 (5) Any other information required by the Board.
 
 (c) *Confidential treatment of information submitted.* The confidentiality of information submitted to the Board under this subpart and related materials shall be determined in accordance with applicable exemptions under the Freedom of Information Act (5 U.S.C. 552(b)) and the Board's Rules Regarding Availability of Information (12 CFR part 261).
+
+[Reg. YY, 79 FR 64045, Oct. 27, 2014, as amended at 84 FR 4245, Feb. 14, 2019]

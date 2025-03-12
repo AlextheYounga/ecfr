@@ -1,7 +1,5 @@
 ##### § 327.16 Assessment pricing methods - beginning the first assessment period after June 30, 2016, where the reserve ratio of the DIF as of the end of the prior assessment period has reached or exceeded 1.15 percent. #####
 
-Link to an amendment published at 84 FR 4249, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Established small institutions.* Beginning the first assessment period after June 30, 2016, where the reserve ratio of the DIF as of the end of the prior assessment period has reached or exceeded 1.15 percent, and for all subsequent assessment periods, an established small institution shall have its initial base assessment rate determined by using the financial ratios methods set forth in paragraph (a)(1) of this section.
 
 (1) Under the financial ratios method, each of seven financial ratios and a weighted average of CAMELS component ratings will be multiplied by a corresponding pricing multiplier. The sum of these products will be added to a uniform amount. The resulting sum shall equal the institution's initial base assessment rate; provided, however, that no institution's initial base assessment rate shall be less than the minimum initial base assessment rate in effect for established small institutions with a particular CAMELS composite rating for that assessment period nor greater than the maximum initial base assessment rate in effect for established small institutions with a particular CAMELS composite rating for that assessment period. An institution's initial base assessment rate, subject to adjustment pursuant to paragraphs (e)(1) and (2) of this section, as appropriate (resulting in the institution's total base assessment rate, which in no case can be lower than 50 percent of the institution's initial base assessment rate), and adjusted for the actual assessment rates set by the Board under § 327.10(f), will equal an institution's assessment rate. The seven financial ratios are: Leverage Ratio (%); Net Income before Taxes/Total Assets (%); Nonperforming Loans and Leases/Gross Assets (%); Other Real Estate Owned/Gross Assets (%); Brokered Deposit Ratio (%); One Year Asset Growth (%); and Loan Mix Index. The ratios and the weighted average of CAMELS component ratings are defined in paragraph (a)(1)(ii) of this section. The ratios will be determined for an assessment period based upon information contained in an institution's report of condition filed as of the last day of the assessment period as set out in paragraph (a)(2) of this section. The weighted average of CAMELS component ratings is created by multiplying each component by the following percentages and adding the products: Capital adequacy - 25%, Asset quality - 20%, Management - 25%, Earnings - 10%, Liquidity - 10%, and Sensitivity to market risk - 10%. The following tables set forth the values of the pricing multipliers:
@@ -82,7 +80,7 @@ Definitions of Measures Used in the Financial Ratios Method
 
 <sup>1</sup> The ratio of Net Income before Taxes to Total Assets is bounded below by (and cannot be less than) −25 percent and is bounded above by (and cannot exceed) 3 percent.
 
-<sup>2</sup> Gross assets are total assets plus the allowance for loan and lease financing receivable losses (ALLL).
+<sup>2</sup> Gross assets are total assets plus the allowance for loan and lease financing receivable losses (ALLL) or allowance for credit losses, as applicable.
 
 <sup>3</sup> Growth in assets is also adjusted for acquisitions of failed banks.
 
@@ -443,4 +441,4 @@ Cutoff Values for Loss Severity Measure
 
 (h) *Assessment rates for bridge depository institutions and conservatorships.* Institutions that are bridge depository institutions under 12 U.S.C. 1821(n) and institutions for which the Corporation has been appointed or serves as conservator shall, in all cases, be assessed at the minimum initial base assessment rate applicable to established small institutions, which shall not be subject to adjustment under paragraph (b)(3) or (e)(1), (2), or (3) of this section.
 
-[81 FR 32207, May 20, 2016, as amended at 83 FR 14568, Apr. 5, 2018; 84 FR 1353, Feb. 4, 2019]
+[81 FR 32207, May 20, 2016, as amended at 83 FR 14568, Apr. 5, 2018; 84 FR 1353, Feb. 4, 2019; 84 FR 4249, Feb. 14, 2019]

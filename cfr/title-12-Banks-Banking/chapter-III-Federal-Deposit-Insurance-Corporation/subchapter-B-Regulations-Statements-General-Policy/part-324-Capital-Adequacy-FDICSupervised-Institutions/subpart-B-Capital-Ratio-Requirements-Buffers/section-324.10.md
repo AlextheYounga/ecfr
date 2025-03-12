@@ -1,7 +1,5 @@
 ##### § 324.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Minimum capital requirements.* An FDIC-supervised institution must maintain the following minimum capital ratios:
 
 (1) A common equity tier 1 capital ratio of 4.5 percent.
@@ -50,7 +48,7 @@ Link to an amendment published at 84 FR 4247, Feb. 14, 2019.This amendment was d
 
 (ii) The ratio of the FDIC-supervised institution's advanced-approaches-adjusted total capital to advanced approaches total risk-weighted assets. An FDIC-supervised institution's advanced-approaches-adjusted total capital is the FDIC-supervised institution's total capital after being adjusted as follows:
 
-(A) An advanced approaches FDIC-supervised institution must deduct from its total capital any allowance for loan and lease losses included in its tier 2 capital in accordance with § 324.20(d)(3); and
+(A) An advanced approaches FDIC-supervised institution must deduct from its total capital any allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, included in its tier 2 capital in accordance with § 324.20(d)(3); and
 
 (B) An advanced approaches FDIC-supervised institution must add to its total capital any eligible credit reserves that exceed the FDIC-supervised institution's total expected credit losses to the extent that the excess reserve amount does not exceed 0.6 percent of the FDIC-supervised institution's credit risk-weighted assets.
 
@@ -154,4 +152,4 @@ E\* = max {0, [ΣEi - ΣCi] −}
 
 (B) The FDIC, in its discretion, may approve an application pursuant to the Federal Deposit Insurance Act where it is required to consider the adequacy of capital or the financial resources of the insured depository institution where it finds that the applicant has committed to and is in compliance with a reasonable plan to meet its minimum leverage capital requirements within a reasonable period of time.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 84 FR 4247, Feb. 14, 2019]

@@ -1,21 +1,79 @@
-##### § 1701.22 Exemption of Office of the National Counterintelligence Executive (ONCIX) system of records. #####
+##### § 1701.22 ODNI systems of records subject to exemption. #####
 
-(a) The ODNI exempts the following system of records from the requirements of subsections (c)(3); (d)(1), (2), (3), (4); (e)(1); (e)(4)(G), (H), (I); and (f) of the Privacy Act, to the extent that information in the system is subject to exemption pursuant to subsections (k)(1) and (k)(2) of the Act:
+(a) ODNI systems of records subject to exemption:
 
-(1) ONCIX Counterintelligence Damage Assessment Records (ODNI/ONCIX-001).
+(1) Manuscript, Presentation, and Resume Review Records (ODNI-01), 5 U.S.C. 552a(k)(1).
 
-(2) [Reserved]
+(2) Executive Secretary Action Management System Records (ODNI-02), 5 U.S.C. 552a(k)(1).
 
-(b) Exemptions from the particular subsections are justified for the following reasons:
+(3) Public Affairs Office Records (ODNI-03), 5 U.S.C. 552a(k)(1).
 
-(1) From subsection (c)(3) (accounting of disclosures) because an accounting of disclosures from records concerning the record subject would specifically reveal an investigative interest on the part of the ODNI as well as the recipient agency and could: result in release of properly classified national security or foreign policy information; compromise ongoing efforts to investigate a known or suspected terrorist; reveal sensitive investigative or surveillance techniques; or identify a confidential source. With this information, the record subject could frustrate counterintelligence measures; impede an investigation by destroying evidence or intimidating potential witnesses; endanger the physical safety of sources, witnesses, and law enforcement and intelligence personnel and their families; or evade apprehension or prosecution by law enforcement personnel.
+(4) Office of Legislative Affairs Records (ODNI-04), 5 U.S.C. 552a(k)(1).
 
-(2) From subsections (d)(1), (2), (3) and (4) (record subject's right to access and amend records) because these provisions concern individual access to and amendment of counterterrorism, investigatory and intelligence records. Affording access and amendment rights could alert the record subject to the fact and nature of an investigation or the investigative interest of intelligence or law enforcement agencies; permit the subject to frustrate such investigation, surveillance or potential prosecution; compromise sensitive information classified in the interest of national security; identify a confidential source or disclose information which would reveal a sensitive investigative or intelligence technique; and endanger the health or safety of law enforcement personnel, confidential informants, and witnesses. In addition, affording subjects access and amendment rights would impose an impossible administrative burden to continuously reexamine investigations, analyses, and reports.
+(5) ODNI Guest Speaker Records (ODNI-05), 5 U.S.C. 552a(k)(1).
 
-(3) From subsection (e)(1) (maintain only relevant and necessary records) because it is not always possible to know in advance what information will be relevant to evaluate and mitigate damage to the national security. Relevance and necessity are questions of judgment and timing, and only after information is evaluated can relevance and necessity be established. In addition, information in the system of records may relate to matters under the investigative jurisdiction of another agency, and may not readily be segregated. Furthermore, information in these systems of records, over time, aid in establishing patterns of criminal activity that can provide leads for other law enforcement agencies.
+(6) Office of General Counsel Records (ODNI-06), 5 U.S.C. 552a(k)(1), (2), and (5).
 
-(4) From subsections (e)(4)(G) and (H) (publication of procedures for notifying subjects to the existence of records about them and how they may access records and contest contents) because the system is exempted from subsection (d) provisions regarding access and amendment and from the subsection (f) requirement to promulgate agency rules. Nevertheless, the ODNI has published notice concerning notification, access, and contest procedures because it may in certain circumstances determine it appropriate to provide subjects access to all or a portion of the records about them in a system of records.
+(7) Intelligence Community Customer Registry (ODNI-09), 5 U.S.C. 552a(k)(1).
 
-(5) From subsection (e)(4)(I) (identifying sources of records in the system of records) because identifying sources could result in disclosure of properly classified national defense or foreign policy information. Additionally, exemption from this provision is necessary to protect the privacy and safety of witnesses and sources of information, including intelligence sources and methods and investigatory techniques and procedures. Notwithstanding its proposed exemption from this requirement, ODNI identifies record sources in broad categories sufficient to provide general notice of the origins of the information it maintains in its systems of records.
+(8) Office of Intelligence Community Equal Employment Opportunity and Diversity Records (ODNI-10), 5 U.S.C. 552a(k)(1), (2), and (5).
 
-(6) From subsection (f) (agency rules for notifying subjects to the existence of records about them, for accessing and amending records and for assessing fees) because the system is exempt from subsection (d) provisions regarding access and amendment of records by record subjects. Nevertheless, the ODNI has published agency rules concerning notification of a subject in response to his request if any system of records named by the subject contains a record pertaining to him and procedures by which the subject may access or amend the records. Notwithstanding exemption, the ODNI may determine it appropriate to satisfy a record subject's access request.
+(9) Office of Protocol Records (ODNI-11), 5 U.S.C. 552a(k)(1).
+
+(10) Intelligence Community Security Clearance and Access Approval Repository (ODNI-12), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(11) Security Clearance Reform Research and Oversight Records (ODNI-13), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(12) Civil Liberties and Privacy Office Complaint Records (ODNI-14), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(13) Mission Outreach and Collaboration Records (ODNI-15), 5 U.S.C. 552a(k)(1).
+
+(14) ODNI Human Resource Records (ODNI-16), 5 U.S.C. 552a(k)(1).
+
+(15) ODNI Personnel Security Records (ODNI-17), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(16) ODNI Freedom of Information Act, Privacy Act, and Mandatory Declassification Review Request Records (ODNI-18), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(17) ODNI Information Technology Systems Activity and Access Records (ODNI-19), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(18) ODNI Security Clearance Reciprocity Hotline Records (ODNI-20), 5 U.S.C. 552a(k)(1) and (5).
+
+(19) ODNI Information Technology Network Support, Administration and Analysis Records (ODNI-21), 5 U.S.C. 552a(k)(1).
+
+(20) Insider Threat Program Records (ODNI-22), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(b) ODNI/National Counterintelligence and Security Center (NCSC) systems of records:
+
+(1) Damage Assessment Records (ODNI/NCIX-001), 5 U.S.C. 552a(k)(1) and (2).
+
+(2) Counterintelligence Trends Analyses Records (ODNI/NCSC-002), 5 U.S.C. 552a(k)(1) and (2).
+
+(3) Continuous Evaluation Records (ODNI/NCSC-003), 5 U.S.C. 552a(k)(1), (2), and (5).
+
+(c) ODNI/National Counterterrorism Center (NCTC) systems of records:
+
+(1) NCTC Access Authorization Records (ODNI/NCTC-002), 5 U.S.C. 552a(k)(1).
+
+(2) NCTC Telephone Directory (ODNI/NCTC-003), 5 U.S.C. 552a(k)(1).
+
+(3) NCTC Knowledge Repository (ODNI/NCTC-004), 5 U.S.C. 552a(k)(1) and (2).
+
+(4) NCTC Current (ODNI/NCTC-005), 5 U.S.C. 552a(k)(1) and (2).
+
+(5) NCTC Partnership Management Records (ODNI/NCTC-006), 5 U.S.C. 552a(k)(1).
+
+(6) NCTC Tacit Knowledge Management Records (ODNI/NCTC-007), 5 U.S.C. 552a(k)(1).
+
+(7) NCTC Terrorism Analysis Records (ODNI/NCTC-008), 5 U.S.C. 552a(k)(1) and (2).
+
+(8) Terrorist Identities Records (ODNI/NCTC-009), 5 U.S.C. 552a(k)(1) and (2).
+
+(d) ODNI/Office of the Intelligence Community Inspector General (ICIG) systems of records:
+
+(1) OIG Human Resources Records (ODNI/OIG-001), 5 U.S.C. 552a(k)(1) and (5).
+
+(2) OIG Experts Contact Records (ODNI/OIG-002), 5 U.S.C. 552a(k)(1) and (5).
+
+(3) OIG Investigation and Interview Records (ODNI/OIG-003), 5 U.S.C. 552a(j)(2); (k)(1), (2), and (5).
+
+[84 FR 31197, July 1, 2019]

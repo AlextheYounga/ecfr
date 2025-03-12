@@ -1,10 +1,10 @@
 ##### § 324.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4246, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 324.20(c).
+
+*Adjusted allowances for credit losses (AACL)* means, with respect to an FDIC-supervised institution that has adopted CECL, valuation allowances that have been established through a charge against earnings or retained earnings for expected credit losses on financial assets measured at amortized cost and a lessor's net investment in leases that have been established to reduce the amortized cost basis of the assets to amounts expected to be collected as determined in accordance with GAAP. For purposes of this part, adjusted allowances for credit losses include allowances for expected credit losses on off-balance sheet credit exposures not accounted for as insurance as determined in accordance with GAAP. Adjusted allowances for credit losses exclude “allocated transfer risk reserves” and allowances created that reflect credit losses on purchased credit deteriorated assets and available-for-sale debt securities.
 
 *Advanced approaches FDIC-supervised institution* means an FDIC-supervised institution that is described in § 324.100(b)(1).
 
@@ -66,7 +66,7 @@ As used in this part:
 
 *Call Report* means Consolidated Reports of Condition and Income.
 
-*Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of the FDIC-supervised institution, determined in accordance with GAAP.
+*Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of the FDIC-supervised institution as determined in accordance with GAAP. For all assets other than available-for-sale debt securities or purchased credit deteriorated assets, the carrying value is not reduced by any associated credit loss allowance that is determined in accordance with GAAP.
 
 *Central counterparty (CCP)* means a counterparty (for example, a clearing house) that facilitates trades between counterparties in one or more financial markets by either guaranteeing trades or novating contracts.
 
@@ -198,6 +198,8 @@ As used in this part:
 
 *Credit union* means an insured credit union as defined under the Federal Credit Union Act (12 U.S.C. 1751 *et seq.*).
 
+*Current Expected Credit Losses (CECL)* means the current expected credit losses methodology under GAAP.
+
 *Current exposure* means, with respect to a netting set, the larger of zero or the fair value of a transaction or portfolio of transactions within the netting set that would be lost upon default of the counterparty, assuming no recovery on the value of the transactions. Current exposure is also called replacement cost.
 
 *Current exposure methodology* means the method of calculating the exposure amount for over-the-counter derivative contracts in § 324.34(a) and exposure at default (EAD) in § 324.132(c)(5) or (6), as applicable.
@@ -280,7 +282,11 @@ As used in this part:
 
 (8) If the credit derivative is a total return swap and the FDIC-supervised institution records net payments received on the swap as net income, the FDIC-supervised institution records offsetting deterioration in the value of the hedged exposure (either through reductions in fair value or by an addition to reserves).
 
-*Eligible credit reserves* means all general allowances that have been established through a charge against earnings to cover estimated credit losses associated with on- or off-balance sheet wholesale and retail exposures, including the ALLL associated with such exposures, but excluding allocated transfer risk reserves established pursuant to 12 U.S.C. 3904 and other specific reserves created against recognized losses.
+*Eligible credit reserves* means:
+
+(1) For an FDIC-supervised institution that has not adopted CECL, all general allowances that have been established through a charge against earnings to cover estimated credit losses associated with on- or off-balance sheet wholesale and retail exposures, including the ALLL associated with such exposures, but excluding allocated transfer risk reserves established pursuant to 12 U.S.C. 3904 and other specific reserves created against recognized losses; and
+
+(2) For an FDIC-supervised institution that has adopted CECL, all general allowances that have been established through a charge against earnings or retained earnings to cover expected credit losses associated with on- or off-balance sheet wholesale and retail exposures, including AACL associated with such exposures. Eligible credit reserves exclude allocated transfer risk reserves established pursuant to 12 U.S.C. 3904, allowances that reflect credit losses on purchased credit deteriorated assets and available-for-sale debt securities, and other specific reserves created against recognized losses.
 
 *Eligible guarantee* means a guarantee that:
 
@@ -528,7 +534,7 @@ As used in this part:
 
 *Identified losses* means:
 
-(1) When measured as of the date of examination of an FDIC-supervised institution, those items that have been determined by an evaluation made by a state or Federal examiner as of that date to be chargeable against income, capital and/or general valuation allowances such as the allowance for loan and lease losses (examples of identified losses would be assets classified loss, off-balance sheet items classified loss, any provision expenses that are necessary for the FDIC-supervised institution to record in order to replenish its general valuation allowances to an adequate level, liabilities not shown on the FDIC-supervised institution's books, estimated losses in contingent liabilities, and differences in accounts which represent shortages); and
+(1) When measured as of the date of examination of an FDIC-supervised institution, those items that have been determined by an evaluation made by a state or Federal examiner as of that date to be chargeable against income, capital and/or general valuation allowances such as the allowances for loan and lease losses (examples of identified losses would be assets classified loss, off-balance sheet items classified loss, any provision expenses that are necessary for the FDIC-supervised institution to record in order to replenish its general valuation allowances to an adequate level, liabilities not shown on the FDIC-supervised institution's books, estimated losses in contingent liabilities, and differences in accounts which represent shortages) or the adjusted allowances for credit losses; and
 
 (2) When measured as of any other date, those items:
 
@@ -818,7 +824,7 @@ As used in this part:
 
 (vi) For a market risk FDIC-supervised institution only, standardized market risk-weighted assets; minus
 
-(2) Any amount of the FDIC-supervised institution's allowance for loan and lease losses that is not included in tier 2 capital and any amount of allocated transfer risk reserves.
+(2) Any amount of the FDIC-supervised institution's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, that is not included in tier 2 capital and any amount of “allocated transfer risk reserves.”
 
 *State savings association* means a State savings association as defined in section 3(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3)), the deposits of which are insured by the Corporation. It includes a building and loan, savings and loan, or homestead association, or a cooperative bank (other than a cooperative bank which is a state bank as defined in section 3(a)(2) of the Federal Deposit Insurance Act) organized and operating according to the laws of the State in which it is chartered or organized, or a corporation (other than a bank as defined in section 3(a)(1) of the Federal Deposit Insurance Act) that the Board of Directors of the Federal Deposit Insurance Corporation determine to be operating substantially in the same manner as a state savings association.
 
@@ -916,4 +922,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 44124, July 30, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 82 FR 50260, Oct. 30, 2017]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 44124, July 30, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 82 FR 50260, Oct. 30, 2017; 84 FR 4246, Feb. 14, 2019]

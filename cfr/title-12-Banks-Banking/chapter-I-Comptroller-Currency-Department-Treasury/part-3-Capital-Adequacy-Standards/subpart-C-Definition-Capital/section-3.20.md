@@ -1,7 +1,5 @@
 ##### § 3.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
-Link to an amendment published at 84 FR 4238, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Regulatory capital components.* A national bank's or Federal savings association's regulatory capital components are:
 
 (1) Common equity tier 1 capital;
@@ -146,7 +144,7 @@ Link to an amendment published at 84 FR 4238, Feb. 14, 2019.This amendment was d
 
 (2) Total capital minority interest, subject to the limitations set forth in § 3.21(e), that is not included in the national bank's or Federal savings association's tier 1 capital.
 
-(3) ALLL up to 1.25 percent of the national bank's or Federal savings association's standardized total risk-weighted assets not including any amount of the ALLL (and excluding in the case of a market risk national bank or Federal savings association, its standardized market risk-weighted assets).
+(3) ALLL or AACL, as applicable, up to 1.25 percent of the national bank's or Federal savings association's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk national bank or Federal savings association, its standardized market risk-weighted assets).
 
 (4) Any instrument that qualified as tier 2 capital under the OCC's general risk-based capital rules under appendix A to this part, 12 CFR part 167 as then in effect, that were issued under the Small Business Jobs Act of 2010,19 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.20
 
@@ -167,3 +165,5 @@ Link to an amendment published at 84 FR 4238, Feb. 14, 2019.This amendment was d
 (2) When considering whether a national bank or Federal savings association may include a regulatory capital element in its common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the OCC will consult with the Federal Deposit Insurance Corporation and Federal Reserve Board.
 
 (3) After determining that a regulatory capital element may be included in a national bank's or Federal savings association's common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the OCC will make its decision publicly available, including a brief description of the material terms of the regulatory capital element and the rationale for the determination.
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 4238, Feb. 14, 2019]

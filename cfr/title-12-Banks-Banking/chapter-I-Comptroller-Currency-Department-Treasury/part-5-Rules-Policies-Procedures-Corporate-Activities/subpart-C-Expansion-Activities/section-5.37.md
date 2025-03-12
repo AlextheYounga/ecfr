@@ -1,7 +1,5 @@
 ##### § 5.37 Investment in national bank or Federal savings association premises. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Authority.* 12 U.S.C. 29, 93a, 317d, 1464(c)(2), 1464(c)(4)(B), 1828(m), and 5412(b)(2)(B).
 
 (b) *Scope.* This section addresses a national bank's or Federal savings association's investment in banking premises and other premises-related investments, loans, or indebtedness. This section also sets forth the quantitative investment limitations and procedures governing the OCC's review and approval of an application by a national bank or Federal savings association to invest in these premises.
@@ -26,7 +24,7 @@ Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was d
 
 (i) A national bank's or Federal savings association's tier 1 and tier 2 capital calculated under 12 CFR part 3, as applicable, as reported in the bank's or savings association's Consolidated Reports of Condition and Income (Call Reports) filed under 12 U.S.C. 161 or 12 U.S.C. 1464(v), respectively; plus
 
-(ii) The balance of a national bank's or Federal savings association's allowance for loan and lease losses not included in the bank's or savings association's tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (c)(3)(i) of this section, as reported in the national bank's or Federal savings association's Call Reports filed under 12 U.S.C. 161 or 1464(v), respectively.
+(ii) The balance of a national bank's or Federal savings association's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (c)(3)(i) of this section, as reported in the Call Report.
 
 (d) *Procedure* - (1) *Premises application* - (i) *When required.* A national bank or Federal savings association shall submit an application to the appropriate OCC supervisory office to invest in banking premises, or in the stock, bonds, debentures, or other such obligations of any corporation holding the premises of the national bank or Federal savings association, or to make loans to or upon the security of the stock of such corporation, if the aggregate of all such investments and loans, together with the indebtedness incurred by any such corporation that is an affiliate of the national bank or Federal savings association, as defined in 12 U.S.C. 221a or 12 U.S.C. 1462, respectively, will exceed the amount of the capital stock of the national bank or Federal savings association, or, in the case of a Federal mutual savings association the amount of retained earnings.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was d
 
 (5) *Exceptions to rules of general applicability.* Sections 5.8, 5.10, and 5.11 do not apply to this section. However, if the OCC concludes that an application presents significant or novel policy, supervisory, or legal issues, the OCC may determine that any or all parts of §§ 5.8, 5.10, and 5.11 apply.
 
-[80 FR 28449, May 18, 2015]
+[80 FR 28449, May 18, 2015, as amended at 84 FR 4240, Feb. 14, 2019]

@@ -1,7 +1,5 @@
 ##### § 211.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4241, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 Unless otherwise specified, for purposes of this subpart:
 
 (a) An *affiliate* of an organization means:
@@ -14,11 +12,11 @@ Unless otherwise specified, for purposes of this subpart:
 
 (c) *Capital and surplus* means, unless otherwise provided in this part:
 
-(1) For organizations subject to the Capital Adequacy Guidelines:
+(1) For organizations subject to Regulation Q:
 
-(i) Tier 1 and tier 2 capital included in an organization's risk-based capital (under the Capital Adequacy Guidelines); and
+(i) Tier 1 and tier 2 capital included in an organization's risk-based capital (under Regulation Q); and
 
-(ii) The balance of allowance for loan and lease losses not included in an organization's tier 2 capital for calculation of risk-based capital, based on the organization's most recent consolidated Report of Condition and Income.
+(ii) The balance of allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in an organization's tier 2 capital for calculation of risk-based capital, based on the organization's most recent consolidated Report of Condition and Income.
 
 (2) For all other organizations, paid-in and unimpaired capital and surplus, and includes undivided profits but does not include the proceeds of capital notes or debentures.
 
@@ -116,4 +114,4 @@ Unless otherwise specified, for purposes of this subpart:
 
 (z) *Well managed* means that the Edge or agreement corporation, any parent insured bank, and the bank holding company either received a composite rating of 1 or 2 or is considered satisfactory under the applicable rating system, and has at least a satisfactory rating for management if such a rating is given, at their most recent examination or review.
 
-[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 83 FR 58734, Nov. 21, 2018]
+[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 83 FR 58734, Nov. 21, 2018; 84 FR 4241, Feb. 14, 2019]

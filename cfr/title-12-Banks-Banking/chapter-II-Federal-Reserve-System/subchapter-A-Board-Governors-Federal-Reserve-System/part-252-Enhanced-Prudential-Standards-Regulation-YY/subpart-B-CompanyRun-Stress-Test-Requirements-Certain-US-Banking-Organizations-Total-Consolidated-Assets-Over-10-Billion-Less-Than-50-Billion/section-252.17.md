@@ -1,7 +1,5 @@
 ##### § 252.17 Disclosure of stress test results. #####
 
-Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Public disclosure of results* - (1) *General.* (i) A bank holding company, savings and loan holding company, and state member bank must publicly disclose a summary of the results of the stress test required under this subpart.
 
 (ii) [Reserved]
@@ -34,7 +32,7 @@ Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was d
 
 (B) Pre-provision net revenue;
 
-(C) Provision for loan and lease losses;
+(C) Provision for credit losses;
 
 (D) Net income; and
 
@@ -58,7 +56,7 @@ Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was d
 
 (B) Pre-provision net revenue
 
-(C) Provision for loan and lease losses;
+(C) Provision for credit losses;
 
 (D) Net income; and
 
@@ -66,6 +64,8 @@ Link to an amendment published at 84 FR 4245, Feb. 14, 2019.This amendment was d
 
 (iv) An explanation of the most significant causes for the changes in regulatory capital ratios.
 
-(c) *Content of results.* (1) The disclosure of aggregate losses, pre-provision net revenue, provision for loan and lease losses, and net income that is required under paragraph (b) of this section must be on a cumulative basis over the planning horizon.
+(c) *Content of results.* (1) The disclosure of aggregate losses, pre-provision net revenue, provision for credit losses, and net income that is required under paragraph (b) of this section must be on a cumulative basis over the planning horizon.
 
 (2) The disclosure of pro forma regulatory capital ratios and any other capital ratios specified by the Board that is required under paragraph (b) of this section must include the beginning value, ending value and minimum value of each ratio over the planning horizon.
+
+[Reg. YY, 79 FR 64045, Oct. 27, 2014, as amended at 84 FR 4245, Feb. 14, 2019]

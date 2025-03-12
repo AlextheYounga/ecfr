@@ -32,6 +32,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (o) Fish for, target, harvest or land a prohibited harvest species in any fishery within the EEZ off the West Coast.
 
-(p) Retain, possess or land Pacific mackerel after an announcement under § 660.511(j) that the harvest guideline has been taken or is projected to be reached soon.
-
-[64 FR 69893, Dec. 15, 1999, as amended at 72 FR 29892, May 30, 2007; 74 FR 33373, July 13, 2009; 83 FR 6473, Feb. 14, 2018; 83 FR 28784, June 21, 2018]Editorial Note:At 83 FR 28784, June 21, 2018, § 660.505 was amended by adding paragraph (p), effective July 23, 2018, through June 30, 2019.
+[64 FR 69893, Dec. 15, 1999, as amended at 72 FR 29892, May 30, 2007; 74 FR 33373, July 13, 2009; 83 FR 6473, Feb. 14, 2018; 83 FR 28784, June 21, 2018]

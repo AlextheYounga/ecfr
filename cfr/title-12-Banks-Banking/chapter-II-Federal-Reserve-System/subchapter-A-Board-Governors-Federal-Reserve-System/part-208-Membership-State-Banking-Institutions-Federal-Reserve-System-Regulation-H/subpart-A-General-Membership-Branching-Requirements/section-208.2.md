@@ -1,7 +1,5 @@
 ##### § 208.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 For the purposes of this part:
 
 (a) *Board of Directors* means the governing board of any institution performing the usual functions of a board of directors.
@@ -24,7 +22,11 @@ For the purposes of this part:
 
 (vi) A facility that is located at the site of, or is an extension of, an approved main office or branch. The Board determines whether a facility is an extension of an existing main or branch office on a case-by-case basis.
 
-(d) *Capital stock and surplus* means, unless otherwise provided in this part, or by statute, tier 1 and tier 2 capital included in a member bank's risk-based capital (as defined in § 217.2 of Regulation Q) and the balance of a member bank's allowance for loan and lease losses not included in its tier 2 capital for calculation of risk-based capital, based on the bank's most recent Report of Condition and Income filed under 12 U.S.C. 324.
+(d) *Capital stock and surplus* means, unless otherwise provided in this part, or by statute:
+
+(1) Tier 1 and tier 2 capital included in a member bank's risk-based capital (as defined in § 217.2 of Regulation Q); and
+
+(2) The balance of a member bank's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in its tier 2 capital for calculation of risk-based capital, based on the bank's most recent Report of Condition and Income filed under 12 U.S.C. 324.
 
 (e) *Eligible bank* means a member bank that:
 
@@ -42,4 +44,4 @@ For the purposes of this part:
 
 (g) *State member bank or member bank* means a state bank that is a member of the Federal Reserve System.
 
-[63 FR 37637, July 13, 1998, as amended by Reg. H, 78 FR 62281, Oct. 11, 2013; 80 FR 70672, Nov. 16, 2015]
+[63 FR 37637, July 13, 1998, as amended by Reg. H, 78 FR 62281, Oct. 11, 2013; 80 FR 70672, Nov. 16, 2015; 84 FR 4240, Feb. 14, 2019]

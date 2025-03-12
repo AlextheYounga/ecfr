@@ -15700,7 +15700,53 @@ Zuni bluehead sucker (Catostomus discobolus yarrowi)
 
 (ii) Map of Unit 1 follows:
 
-![](/graphics/er07jn16.002.gif)Bull Trout (*Salvelinus confluentus*)
+![](/graphics/er07jn16.002.gif)Spring Pygmy Sunfish (*Elassoma alabamae*)
+
+(1) Critical habitat units are depicted for Limestone and Madison Counties, Alabama, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of the spring pygmy sunfish consist of the following components:
+
+(i) *Spring system.* Springs, and connecting spring-fed reaches and wetlands, that are geomorphically stable and relatively low-gradient. This includes headwater springs with spring heads (water source), spring runs, and spring pools that filter into shallow, vegetated wetlands.
+
+(ii) *Water quality.* Yearly averages of water quality with optimal temperatures of 57.2 to 68 °F (14 to 20 °C); pH of 6.0 to 7.7; dissolved oxygen of 6.0 parts per million (ppm) or greater; low concentrations of free or suspended solids with turbidity measuring less than 15 Nephelometric Turbidity Units (NTU) and 20 milligrams per liter (mg/l) total suspended solids (TSS).
+
+(iii) *Hydrology.* A hydrologic flow regime (magnitude, frequency, duration, and seasonality of discharge over time) necessary to maintain spring habitats. The instream flow from groundwater sources (springs and seeps) maintains an adequate velocity and a continuous daily discharge from the aquifer that allows for connectivity between habitats. Instream flow is stable and does not vary during water extraction, and the aquifer recharge maintains adequate levels to supply water flow to the spring head. The flow regime does not significantly change during storm events.
+
+(iv) *Prey base, or food.* Macroinvertebrates including *Daphnia* spp., amphipods, chironomids (non-biting midges), or small snails.
+
+(v) *Vegetation.* Aquatic, emergent and semi-emergent vegetation along the margins of spring runs and submergent vegetation that is adequate for breeding, reproducing, and rearing young; providing cover and shelter from predators; and supporting the macroinvertebrate prey base. Important species include submergent filamentous vegetation such as *Ceratophyllum echinatum* (spineless hornwort), *Myriophyllum heterophyllum* (two-leaf water milfoil), and *Hydrilla verticillata* (native hydrilla); emergent vegetation such as *Sparganium* spp. (bur reed), *Polygonum* spp. (smartweed), *Nasturtium officinale* (watercress), *Juncus* spp. (rush), and *Carex* spp. (sedges); and semi-emergent vegetation such as *Nuphar luteum* (yellow pond lily), *Utricularia* spp. (bladderwort), and *Callitriche* spp. (water starwort).
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 1, 2019.
+
+(4) *Critical habitat map units.* Data layers defining map units were created on a base of U.S. Geological Survey digital topographic map quadrangle (Greenbrier and Mason Ridge) and a U.S. Department of Agriculture 2007 digital ortho-photo mosaic, in addition to National Wetland Inventory maps. The resulting critical habitat unit was then mapped using State Plane North American Datum (NAD) 83 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *http://www.fws.gov/daphne,* at *http://www.regulations.gov* at Docket No. FWS-R4-ES-2013-0010, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) *Note:* Index map follows:
+
+![](/graphics/er30my19.023.gif)
+
+(6) Unit 1: Beaverdam Spring/Creek, Limestone County, Alabama.
+
+(i) *General description.* Unit 1 consists of 342 hectares (845 acres) and includes a total of 5.2 kilometers (3.2 miles) of spring/stream complex in Limestone County, Alabama, northeast of Greenbrier. Unit 1 includes three subunits. Subunit A is a privately owned wetland, with an area of approximately 7.2 hectares (17.9 acres), located 0.38 kilometers (0.23 miles) west of Chestnut Heath Drive. Subunit B consists of 69 hectares (170.4 acres) and is located partly in Wheeler National Wildlife Refuge (36.7 hectares (90.6 acres)), north of the edge of I-565. The private portion of Subunit B (32.3 hectares (79.8 acres)) extends northward, from the northeast refuge boundary along the east side of the Beaverdam Spring complex, to 0.2 kilometers (0.12 miles) south of Old Highway 20. Subunit C is approximately 265.7 hectares (656.6 acres) and is located in Wheeler National Wildlife Refuge, extending 3.9 kilometers (2.4 miles) south from I-565. All of Subunit C is on refuge land except Thorsen Spring Pool (1.2 hectares (3.0 acres)), which is privately held. In total, the privately owned portion of Unit 1 consists of 0.8 kilometers (0.5 miles) of stream in an area of 41 hectares (101 acres).
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er30my19.024.gif)
+
+(7) Unit 2: Pryor Spring/Branch, Limestone County, Alabama.
+
+(i) *General description.* Unit 2 includes 3.4 kilometers (2.1 miles) of Pryor Spring and Pryor Branch from the spring head (water source), about 3.7 miles (5.9 kilometers) south of Tanner, Alabama, and just east of Highway 31, downstream to the bridge where it intersects with Harris Station/Thomas L. Hammons Road. This includes a total of 73.6 hectares (182 acres) in area, mostly owned by the Tennessee Valley Authority and managed by the Alabama Department of Conservation and Natural Resources as the Swan Creek Wildlife Management Area. The privately held portion of Unit 2 contains 0.24 kilometers (0.15 miles) of stream in an area of 8.1 hectares (20 acres).
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er30my19.025.gif)
+
+(8) Unit 3: Blackwell Swamp/Run, Madison County, Alabama.
+
+(i) *General description.* Unit 3 includes a total of 123 hectares (303 acres) of land and 2.3 stream kilometers (1.4 stream miles), all which is federally owned within the Wheeler National Wildlife Refuge. Unit 3 is located approximately 4.3 kilometers (2.7 miles) due west of Triana. This unit is 0.96 kilometers (0.6 miles) north of Blackwell Run's confluence with the Tennessee River; approximately 1 kilometer (0.5 miles) south of Swancott Road SW; about 1 kilometer (0.5 miles) west of Landess Circle; and just to the east of B Road/County Line Road SW.
+
+(ii) Map of Unit 3 follows:
+
+![](/graphics/er30my19.026.gif)Bull Trout (*Salvelinus confluentus*)
 
 (1) *Locations of critical habitat.* Critical habitat units are depicted in the following States and counties on the maps and as described below:
 

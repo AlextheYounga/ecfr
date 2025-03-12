@@ -1,5 +1,7 @@
 ##### § 668.8 Eligible program. #####
 
+Link to an amendment published at 84 FR 31452, July 1, 2019.
+
 (a) *General.* An eligible program is an educational program that -
 
 (1) Is provided by a participating institution; and

@@ -8,13 +8,13 @@
 
 (2) The section 987 QBU's unrecognized section 987 gain or loss for the current taxable year as determined in paragraph (d) of this section.
 
-(c) *Net accumulated unrecognized section 987 gain or loss for all prior taxable years* - (1) *In general.* A section 987 QBU's net accumulated unrecognized section 987 gain or loss for all prior taxable years is the aggregate of the amounts determined under § 1.987-4(d) for all prior taxable years to which these regulations apply, reduced by the amounts taken into account under § 1.987-5 upon remittances for all such prior taxable years.
+(c) *Net accumulated unrecognized section 987 gain or loss for all prior taxable years*—(1) *In general.* A section 987 QBU's net accumulated unrecognized section 987 gain or loss for all prior taxable years is the aggregate of the amounts determined under § 1.987-4(d) for all prior taxable years to which these regulations apply, reduced by the amounts taken into account under § 1.987-5 upon remittances for all such prior taxable years.
 
 (2) *Coordination with § 1.987-12.* For purposes of paragraph (c)(1) of this section, amounts taken into account under § 1.987-5 are determined without regard to § 1.987-12.
 
 (d) *Calculation of unrecognized section 987 gain or loss for a taxable year.* The unrecognized section 987 gain or loss of a section 987 QBU for a taxable year shall be determined under paragraphs (d)(1) through (8) of this section.
 
-(1) *Step 1: Determine the change in the owner functional currency net value of the section 987 QBU for the taxable year* - (i) *In general.* The change in the owner functional currency net value of the section 987 QBU for the taxable year shall equal -
+(1) *Step 1: Determine the change in the owner functional currency net value of the section 987 QBU for the taxable year*—(i) *In general.* The change in the owner functional currency net value of the section 987 QBU for the taxable year shall equal—
 
 (A) The owner functional currency net value of the section 987 QBU, determined in the functional currency of the owner under paragraph (e) of this section, on the last day of the taxable year; less
 
@@ -22,7 +22,7 @@
 
 (ii) *Year section 987 QBU is terminated.* If a section 987 QBU is terminated within the meaning of § 1.987-8 during an owner's taxable year, the owner functional currency net value of the section 987 QBU as provided in paragraph (d)(1)(i)(A) of this section shall be determined on the date the section 987 QBU is terminated.
 
-(2) *Step 2: Increase the amount determined in step 1 by the amount of assets transferred from the section 987 QBU to the owner* - (i) *In general.* The amount determined in paragraph (d)(1) of this section shall be increased by the total amount of assets described in paragraph (d)(2)(ii) of this section transferred from the section 987 QBU to the owner during the taxable year translated into the owner's functional currency as provided in paragraph (d)(2)(ii) of this section.
+(2) *Step 2: Increase the amount determined in step 1 by the amount of assets transferred from the section 987 QBU to the owner*—(i) *In general.* The amount determined in paragraph (d)(1) of this section shall be increased by the total amount of assets described in paragraph (d)(2)(ii) of this section transferred from the section 987 QBU to the owner during the taxable year translated into the owner's functional currency as provided in paragraph (d)(2)(ii) of this section.
 
 (ii) *Assets transferred from the section 987 QBU to the owner during the taxable year.* The assets transferred from the section 987 QBU to the owner for the taxable year shall equal the sum of:
 
@@ -30,7 +30,7 @@
 
 (B) The aggregate adjusted basis of all historic assets (as defined in § 1.987-1(e)), after taking into account § 1.988-1(a)(10), transferred to the owner during the taxable year determined in the functional currency of the section 987 QBU and translated into the owner's functional currency at the historic rate for each such asset (as defined in § 1.987-1(c)(3)).
 
-(3) *Step 3: Decrease the amount determined in steps 1 and 2 by the amount of assets transferred from the owner to the section 987 QBU* - (i) *In general.* The aggregate amount determined in paragraphs (d)(1) and (d)(2) of this section shall be decreased by the total amount of assets transferred from the owner to the section 987 QBU during the taxable year determined in the functional currency of the owner as provided in paragraph (d)(3)(ii) of this section.
+(3) *Step 3: Decrease the amount determined in steps 1 and 2 by the amount of assets transferred from the owner to the section 987 QBU*—(i) *In general.* The aggregate amount determined in paragraphs (d)(1) and (d)(2) of this section shall be decreased by the total amount of assets transferred from the owner to the section 987 QBU during the taxable year determined in the functional currency of the owner as provided in paragraph (d)(3)(ii) of this section.
 
 (ii) *Total of all amounts transferred from the owner to the section 987 QBU during the taxable year.* The total amount of assets transferred from the owner to the section 987 QBU for the taxable year shall equal the aggregate of:
 
@@ -48,7 +48,7 @@
 
 (8) *Step 8: Decrease the amount determined in steps 1 through 7 by the amount of any tax-exempt income.* The aggregate amount determined under paragraphs (d)(1) through (7) shall be decreased by the amount of any income or gain attributable to a section 987 QBU for the taxable year that is not included in computing the section 987 QBU's taxable income or loss for the year.
 
-(e) *Determination of the owner functional currency net value of a section 987 QBU* - (1) *In general.* The owner functional currency net value of a section 987 QBU on the last day of a taxable year shall equal the aggregate amount of functional currency and the adjusted basis of each asset on the section 987 QBU's balance sheet on that day, less the aggregate amount of each liability on the section 987 QBU's balance sheet on that day, in each case translated into the owner's functional currency as provided in paragraph (e)(2) of this section. Such amount shall be determined by:
+(e) *Determination of the owner functional currency net value of a section 987 QBU*—(1) *In general.* The owner functional currency net value of a section 987 QBU on the last day of a taxable year shall equal the aggregate amount of functional currency and the adjusted basis of each asset on the section 987 QBU's balance sheet on that day, less the aggregate amount of each liability on the section 987 QBU's balance sheet on that day, in each case translated into the owner's functional currency as provided in paragraph (e)(2) of this section. Such amount shall be determined by:
 
 (i) Preparing a balance sheet for the relevant date from the section 987 QBU's books and records (within the meaning of § 1.989(a)-1(d)), as recorded in the section 987 QBU's functional currency and showing all assets and liabilities reflected on such books and records as provided in § 1.987-2(b);
 
@@ -62,17 +62,17 @@
 
 (ii) *Historic item.* A historic item (as defined in § 1.987-1(e)) shall be translated into the owner's functional currency at the historic rate (as defined in § 1.987-1(c)(3)).
 
-(f) *Combinations and separations* - (1) *Combinations.* The net unrecognized section 987 gain or loss of a combined QBU (as defined in § 1.987-2(c)(9)(i)) for a taxable year is determined under paragraph (b) of this section by taking into account the net accumulated unrecognized section 987 gain or loss of each combining QBU (as defined in § 1.987-2(c)(9)(i)) for all prior taxable years to which the regulations under section 987 apply, as determined under paragraph (c) of this section, and by treating the combining QBUs as having combined immediately prior to the beginning of the taxable year of combination. See paragraph (f)(3) of this section, *Example 1,* for an illustration of this rule.
+(f) *Combinations and separations*—(1) *Combinations.* The net unrecognized section 987 gain or loss of a combined QBU (as defined in § 1.987-2(c)(9)(i)) for a taxable year is determined under paragraph (b) of this section by taking into account the net accumulated unrecognized section 987 gain or loss of each combining QBU (as defined in § 1.987-2(c)(9)(i)) for all prior taxable years to which the regulations under section 987 apply, as determined under paragraph (c) of this section, and by treating the combining QBUs as having combined immediately prior to the beginning of the taxable year of combination. See paragraph (f)(3) of this section, *Example 1,* for an illustration of this rule.
 
-(2) *Separations.* The net unrecognized section 987 gain or loss of a separated QBU (as defined in § 1.987-2(c)(9)(iii)) for a taxable year is determined under paragraph (b) of this section by taking into account the separated QBU's share of the net accumulated unrecognized section 987 gain or loss of the separating QBU (as defined in § 1.987-2(c)(9)(iii)) for all prior taxable years to which the regulations under section 987 apply, as determined under paragraph (c) of this section, and by treating the separating QBU as having separated immediately prior to the beginning of the taxable year of separation. A separated QBU's share of the separating QBU's net accumulated unrecognized section 987 gain or loss for all such prior taxable years is determined by apportioning the separating QBU's net accumulated unrecognized section 987 gain or loss for all such prior taxable years to each separated QBU in proportion to the aggregate adjusted basis of the gross assets properly reflected on the books and records of each separated QBU immediately after the separation. For purposes of determining the owner functional currency net value of the separated QBUs on the last day of the taxable year preceding the taxable year of separation under § 1.987-5(d)(1)(B) and (e), the balance sheets of the separated QBUs on that day will be deemed to reflect the assets and liabilities reflected on the balance sheet of the separating QBU on that day, apportioned between the separated QBUs in a reasonable manner that takes into account the assets and liabilities reflected on the balance sheets of the separated QBUs immediately after the separation. See paragraph (f)(3) of this section, *Example 2,* for an illustration of this rule.
+(2) *Separations.* The net unrecognized section 987 gain or loss of a separated QBU (as defined in § 1.987-2(c)(9)(iii)) for a taxable year is determined under paragraph (b) of this section by taking into account the separated QBU's share of the net accumulated unrecognized section 987 gain or loss of the separating QBU (as defined in § 1.987-2(c)(9)(iii)) for all prior taxable years to which the regulations under section 987 apply, as determined under paragraph (c) of this section, and by treating the separating QBU as having separated immediately prior to the beginning of the taxable year of separation. A separated QBU's share of the separating QBU's net accumulated unrecognized section 987 gain or loss for all such prior taxable years is determined by apportioning the separating QBU's net accumulated unrecognized section 987 gain or loss for all such prior taxable years to each separated QBU in proportion to the aggregate adjusted basis of the gross assets properly reflected on the books and records of each separated QBU immediately after the separation. For purposes of determining the owner functional currency net value of the separated QBUs on the last day of the taxable year preceding the taxable year of separation under paragraphs (d)(1)(B) and (e) of this section, the balance sheets of the separated QBUs on that day will be deemed to reflect the assets and liabilities reflected on the balance sheet of the separating QBU on that day, apportioned between the separated QBUs in a reasonable manner that takes into account the assets and liabilities reflected on the balance sheets of the separated QBUs immediately after the separation. See paragraph (f)(3) of this section, *Example 2,* for an illustration of this rule.
 
 (3) *Examples.* The following examples illustrate the rules of paragraphs (f)(1) and (2) of this section.
 
-(i) Example 1.*Combination of two section 987 QBUs that have the same owner -* (A) *Facts.* DC1, a domestic corporation, owns Entity A, a DE. Entity A conducts a business in France that constitutes a section 987 QBU (French QBU) that has the euro as its functional currency. French QBU has a net accumulated unrecognized section 987 loss from all prior taxable years to which the regulations under section 987 apply of $100. DC1 also owns Entity B, a DE. Entity B conducts a business in Germany that constitutes a section 987 QBU (German QBU) that has the euro as its functional currency. German QBU has a net accumulated unrecognized section 987 gain from all prior taxable years to which the regulations under section 987 apply of $110. During the taxable year, Entity A and Entity B merge under local law. As a result, the books and records of French QBU and German QBU are combined into a new single set of books and records. The combined entity has the euro as its functional currency.
+(i) *Example 1. Combination of two section 987 QBUs that have the same owner—*(A) *Facts.* DC1, a domestic corporation, owns Entity A, a DE. Entity A conducts a business in France that constitutes a section 987 QBU (French QBU) that has the euro as its functional currency. French QBU has a net accumulated unrecognized section 987 loss from all prior taxable years to which the regulations under section 987 apply of $100. DC1 also owns Entity B, a DE. Entity B conducts a business in Germany that constitutes a section 987 QBU (German QBU) that has the euro as its functional currency. German QBU has a net accumulated unrecognized section 987 gain from all prior taxable years to which the regulations under section 987 apply of $110. During the taxable year, Entity A and Entity B merge under local law. As a result, the books and records of French QBU and German QBU are combined into a new single set of books and records. The combined entity has the euro as its functional currency.
 
 (B) *Analysis.* Pursuant to § 1.987-2(c)(9)(i), French QBU and German QBU are combining QBUs, and their combination does not give rise to a transfer that is taken into account in determining the amount of a remittance (as defined in § 1.987-5(c)). For purposes of computing net unrecognized section 987 gain or loss under this section for the year of the combination, the combination is deemed to have occurred on the last day of the owner's prior taxable year, such that the owner functional currency net value of the combined section 987 QBU at the end of that taxable year described under paragraph (d)(1)(B) of this section takes into account items reflected on the balance sheets of both French QBU and German QBU at that time. Additionally, any transactions between French QBU and German QBU occurring during the year of the merger will not result in transfers to or from a section 987 QBU. Pursuant to paragraph (f)(1) of this section, the combined QBU will have a net accumulated unrecognized section 987 gain from all prior taxable years of $10 (the $100 loss from French QBU plus the $110 gain from German QBU).
 
-(ii) Example 2.*Separation of two section 987 QBUs that have the same owner -* (A) *Facts.* DC1, a domestic corporation, owns Entity A, a DE. Entity A conducts a business in the Netherlands that constitutes a section 987 QBU (Dutch QBU) that has the euro as its functional currency. The business of Dutch QBU consists of manufacturing and selling bicycles and scooters and is recorded on a single set of books and records. On the last day of Year 1, the adjusted basis of the gross assets of Dutch QBU is €1,000. In Year 2, the net accumulated unrecognized section 987 loss of Dutch QBU from all prior taxable years is $200. During Year 2, Entity A separates the bicycle and scooter business such that each business begins to have its own books and records and to meet the definition of a section 987 QBU under § 1.987-1(b)(2) (hereafter, “bicycle QBU” and “scooter QBU”). There are no transfers between DC1 and Dutch QBU before the separation. After the separation, the aggregate adjusted basis of bicycle QBU's assets is €600 and the aggregate adjusted basis of scooter QBU's assets is €400. Each section 987 QBU continues to have the euro as its functional currency.
+(ii) *Example 2. Separation of two section 987 QBUs that have the same owner—*(A) *Facts.* DC1, a domestic corporation, owns Entity A, a DE. Entity A conducts a business in the Netherlands that constitutes a section 987 QBU (Dutch QBU) that has the euro as its functional currency. The business of Dutch QBU consists of manufacturing and selling bicycles and scooters and is recorded on a single set of books and records. On the last day of Year 1, the adjusted basis of the gross assets of Dutch QBU is €1,000. In Year 2, the net accumulated unrecognized section 987 loss of Dutch QBU from all prior taxable years is $200. During Year 2, Entity A separates the bicycle and scooter business such that each business begins to have its own books and records and to meet the definition of a section 987 QBU under § 1.987-1(b)(2) (hereafter, “bicycle QBU” and “scooter QBU”). There are no transfers between DC1 and Dutch QBU before the separation. After the separation, the aggregate adjusted basis of bicycle QBU's assets is €600 and the aggregate adjusted basis of scooter QBU's assets is €400. Each section 987 QBU continues to have the euro as its functional currency.
 
 (B) *Analysis.* Pursuant to § 1.987-2(c)(9)(iii), bicycle QBU and scooter QBU are separated QBUs, and the separation of Dutch QBU, a separating QBU, does not give rise to a transfer taken into account in determining the amount of a remittance (as defined in § 1.987-5(c)). For purposes of computing net unrecognized section 987 gain or loss under this section for Year 2, the separation will be deemed to have occurred on the last day of the owner's prior taxable year, Year 1. Pursuant to paragraph (f)(2) of this section, bicycle QBU will have a net accumulated unrecognized section 987 loss of $120 (€600/€1,000 × $200), and scooter QBU will have a net accumulated unrecognized section 987 loss of $80 (€400/€1,000 × $200).
 
@@ -96,15 +96,15 @@ Example 1.(i) On July 1, 2021, U.S. Corp establishes Japan Branch, a section 987
 
 (C) Under paragraph (e)(2) of this section, U.S. Corp will translate these items as follows. The ¥120,000 is a marked asset and the ¥10,000 liability is a marked liability (as each is defined in § 1.987-1(d)). These items are translated into dollars on December 31, 2021, using the spot rate on December 31, 2021, of $1 = ¥120. The raw land is a historic asset (as defined in § 1.987-1(e)) and is translated into dollars under paragraph (e)(2)(ii) of this section at the historic rate, which under § 1.987-1(c)(3)(1)(A) is the yearly average exchange rate of $1 = ¥110 applicable to the year the land was transferred to the QBU. Thus, the OFCNV of Japan Branch on December 31, 2021, in dollars is $1,416.67 determined as follows:
 
-|     Assets      |Amount in ¥|          Translation rate           |Amount in $|
-|-----------------|-----------|-------------------------------------|-----------|
-|       Yen       |  120,000  |  $1 = ¥120 (spot rate - 12/31/21)   | $1,000.00 |
-|      Land       |  55,000   |1 = ¥110 (yearly average rate - 2021)|  500.00   |
-|  Total assets   |           |                                     | 1,500.00  |
-|  Liabilities:   |           |                                     |           |
-|    Bank Loan    |  10,000   |   1 = ¥120 (spot rate - 12/31/21)   |   83.33   |
-|Total liabilities|           |                                     |   83.33   |
-|2021 ending OFCNV|           |                                     | 1,416.67  |
+|     Assets      |Amount in ¥|         Translation rate          |Amount in $|
+|-----------------|-----------|-----------------------------------|-----------|
+|       Yen       |  120,000  |  $1 = ¥120 (spot rate—12/31/21)   | $1,000.00 |
+|      Land       |  55,000   |1 = ¥110 (yearly average rate—2021)|  500.00   |
+|  Total assets   |           |                                   | 1,500.00  |
+|  Liabilities:   |           |                                   |           |
+|    Bank Loan    |  10,000   |   1 = ¥120 (spot rate—12/31/21)   |   83.33   |
+|Total liabilities|           |                                   |   83.33   |
+|2021 ending OFCNV|           |                                   | 1,416.67  |
 
 (D) Under paragraph (d)(1) of this section, the change in OFCNV of Japan Branch for 2021 is equal to the OFCNV of the branch determined in dollars on December 31, 2021, ($1,416.67) less the OFCNV of the branch determined in dollars on the last day of the preceding taxable year. Because this is the first taxable year of Japan Branch, the OFCNV of Japan Branch determined in dollars on the last day of the preceding taxable year is zero under paragraph (d)(1)(i)(B) of this section. Accordingly, the change in OFCNV of Japan Branch for 2021 is $1,416.67.
 
@@ -134,33 +134,33 @@ The closing balance sheet of U.K. Branch for 2021 reflected one liability, £50 
 
 The office, truck, stock, and inventory are historic assets (as defined in § 1.987-1(e)). The £100 and long-term debt are marked items (as defined in § 1.987-1(d)). Assume that U.S. Corp translated U.K. Branch's 2021 closing balance sheet as follows:
 
-|     Assets      |Amount in £|            Translation rate            |Amount in $|
-|-----------------|-----------|----------------------------------------|-----------|
-|     Pounds      |  100.00   |£1 = $1.05 (convention rate - Dec. 2021)|  105.00   |
-|     Office      | 1,000.00  |   £1 = $0.90 (historic rate - 2020)    |  900.00   |
-|      Truck      |  200.00   |   £1 = $0.90 (historic rate - 2020)    |  180.00   |
-|      Stock      |   50.00   |   £1 = $1.00 (historic rate - 2021)    |  150.00   |
-|    Inventory    |  100.00   |   £1 = $1.00 (historic rate - 2021)    |  100.00   |
-|  Total assets   |           |                                        | 1,435.00  |
-|  Liabilities:   |           |                                        |           |
-|    Bank Loan    |   50.00   |£1 = $1.05 (convention rate - Dec. 2021)|   52.50   |
-|Total liabilities|           |                                        |   52.50   |
-|2021 ending OFCNV|           |                                        | 1,382.50  |
+|     Assets      |Amount in £|           Translation rate           |Amount in $|
+|-----------------|-----------|--------------------------------------|-----------|
+|     Pounds      |  100.00   |£1 = $1.05 (convention rate—Dec. 2021)|  105.00   |
+|     Office      | 1,000.00  |   £1 = $0.90 (historic rate—2020)    |  900.00   |
+|      Truck      |  200.00   |   £1 = $0.90 (historic rate—2020)    |  180.00   |
+|      Stock      |   50.00   |   £1 = $1.00 (historic rate—2021)    |  150.00   |
+|    Inventory    |  100.00   |   £1 = $1.00 (historic rate—2021)    |  100.00   |
+|  Total assets   |           |                                      | 1,435.00  |
+|  Liabilities:   |           |                                      |           |
+|    Bank Loan    |   50.00   |£1 = $1.05 (convention rate—Dec. 2021)|   52.50   |
+|Total liabilities|           |                                      |   52.50   |
+|2021 ending OFCNV|           |                                      | 1,382.50  |
 
 (ii) U.K. Branch uses the first-in, first-out (FIFO) method of accounting for inventory. In 2022, U.K. Branch sold 100 units of inventory for a total of £300 and purchased another 100 units of inventory for £100. There is depreciation of £33 with respect to the office and £40 with respect to the truck, and U.K. Branch incurred £30 of business expenses during 2022. Neither the depreciation nor the business expenses are inventoriable costs. All items of income earned and expenses incurred during 2022 are received and paid, respectively, in pounds. Under § 1.987-3, U.K. Branch's section 987 taxable income or loss is determined as follows:
 
-|           Item           |Amount in £|           Translation rate            |Amount in $|
-|--------------------------|-----------|---------------------------------------|-----------|
-|      Gross receipts      |  300.00   |£1 = $1.10 (yearly average rate - 2022)|  330.00   |
-|          Less:           |           |                                       |           |
-|           COGS           | (100.00)  |   £1 = $1.00 (historic rate - 2021)   | (100.00)  |
-|       Gross income       |           |                                       |  230.00   |
-|           Dep:           |           |                                       |           |
-|          Office          |  (33.00)  |   £1 = $0.90 (historic rate - 2020)   |  (29.70)  |
-|          Truck           |  (40.00)  |   £1 = $0.90 (historic rate - 2020)   |  (36.00)  |
-|      Other expenses      |  (30.00)  |£1 = $1.10 (yearly average rate - 2022)|  (33.00)  |
-|      Total expenses      |           |                                       |  (98.70)  |
-|Section 987 taxable income|           |                                       |  131.30   |
+|           Item           |Amount in £|          Translation rate           |Amount in $|
+|--------------------------|-----------|-------------------------------------|-----------|
+|      Gross receipts      |  300.00   |£1 = $1.10 (yearly average rate—2022)|  330.00   |
+|          Less:           |           |                                     |           |
+|           COGS           | (100.00)  |   £1 = $1.00 (historic rate—2021)   | (100.00)  |
+|       Gross income       |           |                                     |  230.00   |
+|           Dep:           |           |                                     |           |
+|          Office          |  (33.00)  |   £1 = $0.90 (historic rate—2020)   |  (29.70)  |
+|          Truck           |  (40.00)  |   £1 = $0.90 (historic rate—2020)   |  (36.00)  |
+|      Other expenses      |  (30.00)  |£1 = $1.10 (yearly average rate—2022)|  (33.00)  |
+|      Total expenses      |           |                                     |  (98.70)  |
+|Section 987 taxable income|           |                                     |  131.30   |
 
 Accordingly, U.K. Branch has $131.30 of section 987 taxable income in 2022.
 
@@ -170,28 +170,28 @@ Accordingly, U.K. Branch has $131.30 of section 987 taxable income in 2022.
 
 (A) *Step 1.* Under paragraph (d)(1) of this section, the change in OFCNV for the taxable year must be determined. This amount is equal to the OFCNV of U.K. Branch determined under paragraph (e) of this section on the last day of 2022, less the OFCNV of U.K. Branch determined on the last day of 2021. The OFCNV of U.K. Branch on December 31, 2022, and the change in OFCNV for 2022, are determined as follows:
 
-|     Assets      |Amount in £|            Translation rate            |Amount in $|
-|-----------------|-----------|----------------------------------------|-----------|
-|     Pounds      |  240.00   |£1 = $1.15 (convention rate - Dec. 2022)|  276.00   |
-|     Office      |  967.00   |    1 = $0.90 (historic rate - 2020)    |  870.30   |
-|      Truck      |  160.00   |   £1 = $0.90 (historic rate - 2020)    |  144.00   |
-|    Inventory    |  100.00   |   £1 = $1.10 (historic rate - 2022)    |  110.00   |
-|    Computer     |   9.09    |   £1 = $1.10 (historic rate - 2022)    |   10.00   |
-|      Stock      |  150.00   |   £1 = $1.00 (historic rate - 2021)    |  150.00   |
-|  Total assets   |           |                                        | 1,560.30  |
-|  Liabilities:   |           |                                        |           |
-|    Bank Loan    |   50.00   |£1 = $1.15 (convention rate - Dec. 2022)|   57.50   |
-|Total liabilities|           |                                        |   57.50   |
-|2022 ending OFCNV|           |                                        | 1,502.80  |
-|      Less:      |           |                                        |           |
-|2021 ending OFCNV|           |                                        |(1,382.50) |
-| Change in OFCNV |           |                                        |  120.30   |
+|     Assets      |Amount in £|           Translation rate           |Amount in $|
+|-----------------|-----------|--------------------------------------|-----------|
+|     Pounds      |  240.00   |£1 = $1.15 (convention rate—Dec. 2022)|  276.00   |
+|     Office      |  967.00   |    1 = $0.90 (historic rate—2020)    |  870.30   |
+|      Truck      |  160.00   |   £1 = $0.90 (historic rate—2020)    |  144.00   |
+|    Inventory    |  100.00   |   £1 = $1.10 (historic rate—2022)    |  110.00   |
+|    Computer     |   9.09    |   £1 = $1.10 (historic rate—2022)    |   10.00   |
+|      Stock      |  150.00   |   £1 = $1.00 (historic rate—2021)    |  150.00   |
+|  Total assets   |           |                                      | 1,560.30  |
+|  Liabilities:   |           |                                      |           |
+|    Bank Loan    |   50.00   |£1 = $1.15 (convention rate—Dec. 2022)|   57.50   |
+|Total liabilities|           |                                      |   57.50   |
+|2022 ending OFCNV|           |                                      | 1,502.80  |
+|      Less:      |           |                                      |           |
+|2021 ending OFCNV|           |                                      |(1,382.50) |
+| Change in OFCNV |           |                                      |  120.30   |
 
 (B) *Step 2.* Under paragraph (d)(2) of this section, the aggregate amount determined in step 1 must be increased by the total amount of assets described in paragraph (d)(2)(ii) of this section transferred from U.K. Branch to U.S. Corp during the taxable year, translated into U.S. Corp's functional currency as provided in paragraph (d)(2)(ii) of this section. The amount of assets transferred from U.K. Branch to U.S. Corp during 2022 is determined as follows:
 
-|Asset|Amount in £|            Translation rate            |Amount in $|
-|-----|-----------|----------------------------------------|-----------|
-| £30 |   30.00   |£1 = $1.15 (convention rate - Dec. 2022)|   34.50   |
+|Asset|Amount in £|           Translation rate           |Amount in $|
+|-----|-----------|--------------------------------------|-----------|
+| £30 |   30.00   |£1 = $1.15 (convention rate—Dec. 2022)|   34.50   |
 
 (C) *Step 3: Decrease the aggregate amount described in steps 1 and 2 by the owner's transfers to the section 987 QBU.* Under paragraph (d)(3) of this section, the aggregate amount determined in steps 1 and 2 must be decreased by the total amount of all assets transferred from U.S. Corp to U.K. Branch during the taxable year as determined in paragraph (d)(3)(ii) of this section. The amount of assets transferred from U.S. Corp to U.K. Branch during 2022 is determined as follows:
 
@@ -234,18 +234,18 @@ Thus, U.S. Corp's unrecognized section 987 gain for 2022 with respect to U.K. Br
 
 (A) *Determination of income.* Under the simplified inventory method, Business A's income for 2021 is computed as follows:
 
-|                             Item                              |Amount in €|          Translation rate          |Amount in $|
-|---------------------------------------------------------------|-----------|------------------------------------|-----------|
-|                         Sales revenue                         |    140    |€1 = $1.50 (yearly avg. rate - 2021)|    210    |
-|                    COGS before adjustments                    |    70     |€1 = $1.50 (yearly avg. rate - 2021)|    105    |
-|Adjustment for cost recovery deductions (see calculation below)|           |                                    |   (20)    |
-|           Adjustment for beginning inventory (none)           |           |                                    |     0     |
-|                         Adjusted COGS                         |           |                                    |    85     |
-|                             SG&A:                             |           |                                    |           |
-|                Depreciation on building (50%)                 |    10     | €1 = $1.00 (historic rate - 2020)  |    10     |
-|                           Salaries                            |    10     |€1 = $1.50 (yearly avg. rate - 2021)|    15     |
-|                          Total SG&A                           |           |                                    |    25     |
-|      Section 987 net income (revenue less COGS and SG&A)      |           |                                    |    100    |
+|                             Item                              |Amount in €|         Translation rate         |Amount in $|
+|---------------------------------------------------------------|-----------|----------------------------------|-----------|
+|                         Sales revenue                         |    140    |€1 = $1.50 (yearly avg. rate—2021)|    210    |
+|                    COGS before adjustments                    |    70     |€1 = $1.50 (yearly avg. rate—2021)|    105    |
+|Adjustment for cost recovery deductions (see calculation below)|           |                                  |   (20)    |
+|           Adjustment for beginning inventory (none)           |           |                                  |     0     |
+|                         Adjusted COGS                         |           |                                  |    85     |
+|                             SG&A:                             |           |                                  |           |
+|                Depreciation on building (50%)                 |    10     | €1 = $1.00 (historic rate—2020)  |    10     |
+|                           Salaries                            |    10     |€1 = $1.50 (yearly avg. rate—2021)|    15     |
+|                          Total SG&A                           |           |                                  |    25     |
+|      Section 987 net income (revenue less COGS and SG&A)      |           |                                  |    100    |
 
 *COGS Adjustments*.
 
@@ -261,46 +261,40 @@ Adjustment for cost recovery deductions included in inventoriable costs.
 
 Under the simplified inventory method, the OFCNV of Business A for 2020 and 2021 is determined under paragraph (e) of this section as follows:
 
-OFCNV - End of 2021
+|     Assets      |Amount in €|          Translation rate           |Amount in $|
+|-----------------|-----------|-------------------------------------|-----------|
+|      Euros      |    160    |€1 = $2.00 (year-end spot rate—2021) |    320    |
+|    Building     |    760    |   €1 = $1.00 (historic rate—2020)   |    760    |
+|     Machine     |    270    |   €1 = $1.00 (historic rate—2020)   |    270    |
+|    Inventory    |    40     |€1 = $1.50 (yearly average rate—2021)|    60     |
+|  Total assets   |           |                                     |   1,410   |
+|  Liabilities:   |           |                                     |           |
+|Total liabilities|           |                                     |     0     |
+|2021 ending OFCNV|           |                                     |   1,410   |
 
-|     Assets      |Amount in €|           Translation rate            |Amount in $|
-|-----------------|-----------|---------------------------------------|-----------|
-|      Euros      |    160    |€1 = $2.00 (year-end spot rate - 2021) |    320    |
-|    Building     |    760    |   €1 = $1.00 (historic rate - 2020)   |    760    |
-|     Machine     |    270    |   €1 = $1.00 (historic rate - 2020)   |    270    |
-|    Inventory    |    40     |€1 = $1.50 (yearly average rate - 2021)|    60     |
-|  Total assets   |           |                                       |   1,410   |
-|  Liabilities:   |           |                                       |           |
-|Total liabilities|           |                                       |     0     |
-|2021 ending OFCNV|           |                                       |   1,410   |
-
-OFCNV - End of 2020
-
-|     Assets      |Amount in €|           Translation rate           |Amount in $|
-|-----------------|-----------|--------------------------------------|-----------|
-|      Euros      |    100    |€1 = $1.00 (year-end spot rate - 2020)|    100    |
-|    Building     |    780    |  €1 = $1.00 (historic rate - 2020)   |    780    |
-|     Machine     |    300    |  €1 = $1.00 (historic rate - 2020)   |    300    |
-|  Total assets   |           |                                      |   1,180   |
-|  Liabilities:   |           |                                      |           |
-|Total liabilities|           |                                      |     0     |
-|2020 ending OFCNV|           |                                      |   1,180   |
+|     Assets      |Amount in €|          Translation rate          |Amount in $|
+|-----------------|-----------|------------------------------------|-----------|
+|      Euros      |    100    |€1 = $1.00 (year-end spot rate—2020)|    100    |
+|    Building     |    780    |  €1 = $1.00 (historic rate—2020)   |    780    |
+|     Machine     |    300    |  €1 = $1.00 (historic rate—2020)   |    300    |
+|  Total assets   |           |                                    |   1,180   |
+|  Liabilities:   |           |                                    |           |
+|Total liabilities|           |                                    |     0     |
+|2020 ending OFCNV|           |                                    |   1,180   |
 
 (C) *Determination of net unrecognized section 987 gain or loss.* The net unrecognized section 987 gain or loss of Business A is determined under paragraph (d) of this section as follows (relevant steps only):
 
 (*1*) *Step 1.* Under paragraph (d)(1) of this section, the change in OFCNV for the taxable year must be determined. This amount is equal to the OFCNV of Business A determined under paragraph (e) of this section on the last day of 2021, less the OFCNV of Business A determined on the last day of 2020.
 
-|                       |       |
-|-----------------------|-------|
 |   2021 ending OFCNV   |$1,410 |
+|-----------------------|-------|
 |Less: 2020 ending OFCNV|(1,180)|
 |    Change in OFCNV    |  230  |
 
 (*2*) *Step 6.* Under paragraph (d)(6) of this section, the aggregate amount determined in steps 1 through 5 must be decreased by the section 987 taxable income of Business A. The amount of Business A's taxable income for 2021, as determined above, is $100.
 
-|                                                                            |     |
-|----------------------------------------------------------------------------|-----|
 |                              Change in OFCNV                               |$230 |
+|----------------------------------------------------------------------------|-----|
 |                      Less: section 987 taxable income                      |(100)|
 |                       Unrecognized section 987 gain                        | 130 |
 |Plus: Net accumulated unrecognized section 987 gain or loss from prior years|  0  |
@@ -310,18 +304,18 @@ OFCNV - End of 2020
 
 (A) *Determination of income.* Under the simplified inventory method, Business A's income for 2022 is computed as follows:
 
-|                             Item                              |Amount in €|          Translation rate          |Amount in $|
-|---------------------------------------------------------------|-----------|------------------------------------|-----------|
-|                         Sales revenue                         |    180    |€1 = $2.50 (yearly avg. rate - 2022)|    450    |
-|                    COGS before adjustments                    |    96     |€1 = $2.50 (yearly avg. rate - 2022)|    240    |
-|Adjustment for cost recovery deductions (see calculation below)|           |                                    |   (60)    |
-|  Adjustment for beginning inventory (see calculation below)   |           |                                    |   (40)    |
-|                         Adjusted COGS                         |           |                                    |    140    |
-|                             SG&A:                             |           |                                    |           |
-|                Depreciation on building (50%)                 |    10     | €1 = $1.00 (historic rate - 2020)  |    10     |
-|                           Salaries                            |    10     |€1 = $2.50 (yearly avg. rate - 2022)|    25     |
-|                          Total SG&A                           |           |                                    |    35     |
-|      Section 987 net income (revenue less COGS and SG&A)      |           |                                    |    275    |
+|                             Item                              |Amount in €|         Translation rate         |Amount in $|
+|---------------------------------------------------------------|-----------|----------------------------------|-----------|
+|                         Sales revenue                         |    180    |€1 = $2.50 (yearly avg. rate—2022)|    450    |
+|                    COGS before adjustments                    |    96     |€1 = $2.50 (yearly avg. rate—2022)|    240    |
+|Adjustment for cost recovery deductions (see calculation below)|           |                                  |   (60)    |
+|  Adjustment for beginning inventory (see calculation below)   |           |                                  |   (40)    |
+|                         Adjusted COGS                         |           |                                  |    140    |
+|                             SG&A:                             |           |                                  |           |
+|                Depreciation on building (50%)                 |    10     | €1 = $1.00 (historic rate—2020)  |    10     |
+|                           Salaries                            |    10     |€1 = $2.50 (yearly avg. rate—2022)|    25     |
+|                          Total SG&A                           |           |                                  |    35     |
+|      Section 987 net income (revenue less COGS and SG&A)      |           |                                  |    275    |
 
 *COGS Adjustments.*
 
@@ -342,34 +336,30 @@ Adjustment for beginning inventory.
 
 (B) *Determination of OFCNV.* Under the simplified inventory method, the OFCNV of Business A for 2022 is determined under paragraph (e) of this section as follows:
 
-OFCNV - End of 2022
-
-|     Assets      |Amount in €|           Translation rate            |Amount in $|
-|-----------------|-----------|---------------------------------------|-----------|
-|      Euros      |    260    |€1 = $3.00 (year-end spot rate - 2022) |    780    |
-|    Building     |    740    |   €1 = $1.00 (historic rate - 2020)   |    740    |
-|     Machine     |    240    |   €1 = $1.00 (historic rate - 2020)   |    240    |
-|    Inventory    |    54     |€1 = $2.50 (yearly average rate - 2022)|    135    |
-|  Total assets   |           |                                       |   1,895   |
-|  Liabilities:   |           |                                       |           |
-|Total liabilities|           |                                       |     0     |
-|2022 ending OFCNV|           |                                       |   1,895   |
+|     Assets      |Amount in €|          Translation rate           |Amount in $|
+|-----------------|-----------|-------------------------------------|-----------|
+|      Euros      |    260    |€1 = $3.00 (year-end spot rate—2022) |    780    |
+|    Building     |    740    |   €1 = $1.00 (historic rate—2020)   |    740    |
+|     Machine     |    240    |   €1 = $1.00 (historic rate—2020)   |    240    |
+|    Inventory    |    54     |€1 = $2.50 (yearly average rate—2022)|    135    |
+|  Total assets   |           |                                     |   1,895   |
+|  Liabilities:   |           |                                     |           |
+|Total liabilities|           |                                     |     0     |
+|2022 ending OFCNV|           |                                     |   1,895   |
 
 (C) *Determination of net unrecognized section 987 gain or loss.* The net unrecognized section 987 gain of Business A is determined under paragraph (d) of this section as follows (relevant steps only):
 
 (*1*) *Step 1.* Under paragraph (d)(1) of this section, the change in OFCNV for the taxable year must be determined. This amount is equal to the OFCNV of Business A determined under paragraph (e) of this section on the last day of 2022, less the OFCNV of Business A determined on the last day of 2021.
 
-|                       |       |
-|-----------------------|-------|
 |   2022 ending OFCNV   |$1,895 |
+|-----------------------|-------|
 |Less: 2021 ending OFCNV|(1,410)|
 |    Change in OFCNV    |  485  |
 
 (*2*) *Step 6.* Under paragraph (d)(6) of this section, the aggregate amount determined in steps 1 through 5 must be decreased by the section 987 taxable income of Business A. The amount of Business A's taxable income for 2022, as determined above, is $275.
 
-|                                                                   |     |
-|-------------------------------------------------------------------|-----|
 |                          Change in OFCNV                          |$485 |
+|-------------------------------------------------------------------|-----|
 |                 Less: Section 987 taxable income                  |(275)|
 |                Unrecognized section 987 gain 2022                 | 210 |
 |Plus: Net accumulated unrecognized section 987 gain from prior year| 130 |
@@ -381,45 +371,41 @@ Example 4.(i) *Background.* The background facts about Business A are the same a
 
 (A) *Determination of income.* Under the simplified inventory method, Business A's income for 2021 is computed as follows:
 
-|                           Item                            |Amount in €|          Translation rate          |Amount in $|
-|-----------------------------------------------------------|-----------|------------------------------------|-----------|
-|                       Sales revenue                       |    140    |€1 = $1.50 (yearly avg. rate - 2021)|    210    |
-|                  COGS before adjustments                  |    70     |€1 = $1.50 (yearly avg. rate - 2021)|    105    |
-|Adjustment for cost recovery deductions (same as Example 1)|           |                                    |   (20)    |
-|          Adjustment for LIFO liquidation (none)           |           |                                    |     0     |
-|                       Adjusted COGS                       |           |                                    |    85     |
-|                           SG&A:                           |           |                                    |           |
-|              Depreciation on building (50%)               |    10     | €1 = $1.00 (historic rate - 2020)  |    10     |
-|                         Salaries                          |    10     |€1 = $1.50 (yearly avg. rate - 2021)|    15     |
-|                        Total SG&A                         |           |                                    |    25     |
-|    Section 987 net income (revenue less COGS and SG&A)    |           |                                    |    100    |
+|                           Item                            |Amount in €|         Translation rate         |Amount in $|
+|-----------------------------------------------------------|-----------|----------------------------------|-----------|
+|                       Sales revenue                       |    140    |€1 = $1.50 (yearly avg. rate—2021)|    210    |
+|                  COGS before adjustments                  |    70     |€1 = $1.50 (yearly avg. rate—2021)|    105    |
+|Adjustment for cost recovery deductions (same as Example 1)|           |                                  |   (20)    |
+|          Adjustment for LIFO liquidation (none)           |           |                                  |     0     |
+|                       Adjusted COGS                       |           |                                  |    85     |
+|                           SG&A:                           |           |                                  |           |
+|              Depreciation on building (50%)               |    10     | €1 = $1.00 (historic rate—2020)  |    10     |
+|                         Salaries                          |    10     |€1 = $1.50 (yearly avg. rate—2021)|    15     |
+|                        Total SG&A                         |           |                                  |    25     |
+|    Section 987 net income (revenue less COGS and SG&A)    |           |                                  |    100    |
 
 (B) *Determination of OFCNV for 2020 and 2021.* Under the simplified inventory method, the OFCNV of Business A for 2020 and 2021 is determined under paragraph (e) of this section as follows:
 
-OFCNV - End of 2021
+|     Assets      |Amount in €|          Translation rate          |Amount in $|
+|-----------------|-----------|------------------------------------|-----------|
+|      Euros      |    160    |€1 = $2.00 (year-end spot rate—2021)|    320    |
+|    Building     |    760    |  €1 = $1.00 (historic rate—2020)   |    760    |
+|     Machine     |    270    |  €1 = $1.00 (historic rate—2020)   |    270    |
+|    Inventory    |    40     |  €1 = $1.50 (historic rate—2021)   |    60     |
+|  Total assets   |           |                                    |   1,410   |
+|  Liabilities:   |           |                                    |           |
+|Total liabilities|           |                                    |     0     |
+|2021 ending OFCNV|           |                                    |   1,410   |
 
-|     Assets      |Amount in €|           Translation rate           |Amount in $|
-|-----------------|-----------|--------------------------------------|-----------|
-|      Euros      |    160    |€1 = $2.00 (year-end spot rate - 2021)|    320    |
-|    Building     |    760    |  €1 = $1.00 (historic rate - 2020)   |    760    |
-|     Machine     |    270    |  €1 = $1.00 (historic rate - 2020)   |    270    |
-|    Inventory    |    40     |  €1 = $1.50 (historic rate - 2021)   |    60     |
-|  Total assets   |           |                                      |   1,410   |
-|  Liabilities:   |           |                                      |           |
-|Total liabilities|           |                                      |     0     |
-|2021 ending OFCNV|           |                                      |   1,410   |
-
-OFCNV - End of 2020
-
-|     Assets      |Amount in €|           Translation rate           |Amount in $|
-|-----------------|-----------|--------------------------------------|-----------|
-|      Euros      |    100    |€1 = $1.00 (year-end spot rate - 2020)|    100    |
-|    Building     |    780    |  €1 = $1.00 (historic rate - 2020)   |    780    |
-|     Machine     |    300    |  €1 = $1.00 (historic rate - 2020)   |    300    |
-|  Total assets   |           |                                      |   1,180   |
-|  Liabilities:   |           |                                      |           |
-|Total liabilities|           |                                      |     0     |
-|2020 ending OFCNV|           |                                      |   1,180   |
+|     Assets      |Amount in €|          Translation rate          |Amount in $|
+|-----------------|-----------|------------------------------------|-----------|
+|      Euros      |    100    |€1 = $1.00 (year-end spot rate—2020)|    100    |
+|    Building     |    780    |  €1 = $1.00 (historic rate—2020)   |    780    |
+|     Machine     |    300    |  €1 = $1.00 (historic rate—2020)   |    300    |
+|  Total assets   |           |                                    |   1,180   |
+|  Liabilities:   |           |                                    |           |
+|Total liabilities|           |                                    |     0     |
+|2020 ending OFCNV|           |                                    |   1,180   |
 
 (C) *Determination of net unrecognized section 987 gain or loss.* The net unrecognized section 987 gain or loss of Business A for 2021 is determined under paragraph (d) of this section as follows (relevant steps only):
 
@@ -445,32 +431,30 @@ OFCNV - End of 2020
 
 (A) *Determination of income.* Business A's income for 2022 is computed as follows:
 
-|                           Item                            |Amount in €|          Translation rate          |Amount in $|
-|-----------------------------------------------------------|-----------|------------------------------------|-----------|
-|                       Sales revenue                       |    180    |€1 = $2.50 (yearly avg. rate - 2022)|    450    |
-|                  COGS before adjustments                  |   99.20   |€1 = $2.50 (yearly avg. rate - 2022)|    248    |
-|Adjustment for cost recovery deductions (same as Example 3)|           |                                    |   (60)    |
-|          Adjustment for LIFO liquidation (none)           |           |                                    |     0     |
-|                       Adjusted COGS                       |           |                                    |    188    |
-|                           SG&A:                           |           |                                    |           |
-|              Depreciation on building (50%)               |    10     | €1 = $1.00 (historic rate - 2020)  |    10     |
-|                         Salaries                          |    10     |€1 = $2.50 (yearly avg. rate - 2022)|    25     |
-|                        Total SG&A                         |           |                                    |    35     |
-|    Section 987 net income (revenue less COGS and SG&A)    |           |                                    |    227    |
+|                           Item                            |Amount in €|         Translation rate         |Amount in $|
+|-----------------------------------------------------------|-----------|----------------------------------|-----------|
+|                       Sales revenue                       |    180    |€1 = $2.50 (yearly avg. rate—2022)|    450    |
+|                  COGS before adjustments                  |   99.20   |€1 = $2.50 (yearly avg. rate—2022)|    248    |
+|Adjustment for cost recovery deductions (same as Example 3)|           |                                  |   (60)    |
+|          Adjustment for LIFO liquidation (none)           |           |                                  |     0     |
+|                       Adjusted COGS                       |           |                                  |    188    |
+|                           SG&A:                           |           |                                  |           |
+|              Depreciation on building (50%)               |    10     | €1 = $1.00 (historic rate—2020)  |    10     |
+|                         Salaries                          |    10     |€1 = $2.50 (yearly avg. rate—2022)|    25     |
+|                        Total SG&A                         |           |                                  |    35     |
+|    Section 987 net income (revenue less COGS and SG&A)    |           |                                  |    227    |
 
-OFCNV - End of 2022
-
-|     Assets      |Amount in €|           Translation rate           |Amount in $|
-|-----------------|-----------|--------------------------------------|-----------|
-|      Euros      |  260.00   |€1 = $3.00 (year-end spot rate - 2022)|    780    |
-|    Building     |  740.00   |  €1 = $1.00 (historic rate - 2020)   |    740    |
-|     Machine     |  240.00   |  €1 = $1.00 (historic rate - 2020)   |    240    |
-|    Inventory    |   10.80   |  €1 = $2.50 (historic rate - 2022)   |    27     |
-|                 |   40.00   |  €1 = $1.50 (historic rate - 2021)   |    60     |
-|  Total assets   |           |                                      |   1,847   |
-|  Liabilities:   |           |                                      |           |
-|Total liabilities|           |                                      |     0     |
-|2022 ending OFCNV|           |                                      |   1,847   |
+|     Assets      |Amount in €|          Translation rate          |Amount in $|
+|-----------------|-----------|------------------------------------|-----------|
+|      Euros      |  260.00   |€1 = $3.00 (year-end spot rate—2022)|    780    |
+|    Building     |  740.00   |  €1 = $1.00 (historic rate—2020)   |    740    |
+|     Machine     |  240.00   |  €1 = $1.00 (historic rate—2020)   |    240    |
+|    Inventory    |   10.80   |  €1 = $2.50 (historic rate—2022)   |    27     |
+|                 |   40.00   |  €1 = $1.50 (historic rate—2021)   |    60     |
+|  Total assets   |           |                                    |   1,847   |
+|  Liabilities:   |           |                                    |           |
+|Total liabilities|           |                                    |     0     |
+|2022 ending OFCNV|           |                                    |   1,847   |
 
 (B) *Determination of net unrecognized section 987 gain or loss.* The net unrecognized section 987 gain of Business A for 2022 is determined under paragraph (d) of this section as follows (relevant steps only):
 
@@ -482,7 +466,7 @@ OFCNV - End of 2022
 |Less: 2021 ending OFCNV|(1,410)|
 |    Change in OFCNV    |  437  |
 
-(*2*) *Step 6 - Decrease the aggregate amount determined in steps 1 through 5 by the section 987 taxable income of the section 987 QBU for the taxable year.* Under paragraph (d)(6) of this section, the aggregate amount determined in steps 1 through 5 must be decreased by the section 987 taxable income of Business A. The amount of Business A's taxable income for 2022, as determined above, is $227.
+(*2*) *Step 6—Decrease the aggregate amount determined in steps 1 through 5 by the section 987 taxable income of the section 987 QBU for the taxable year.* Under paragraph (d)(6) of this section, the aggregate amount determined in steps 1 through 5 must be decreased by the section 987 taxable income of Business A. The amount of Business A's taxable income for 2022, as determined above, is $227.
 
 |                                                                    |     |
 |--------------------------------------------------------------------|-----|
@@ -496,51 +480,49 @@ OFCNV - End of 2022
 
 (A) *Determination of income.* Business A's income for 2023 is computed as follows:
 
-|                             Item                              |Amount in €|          Translation rate          |Amount in $|
-|---------------------------------------------------------------|-----------|------------------------------------|-----------|
-|                         Sales revenue                         |    252    |€1 = $3.50 (yearly avg. rate - 2023)|    882    |
-|                    COGS before adjustments                    |  140.80   |€1 = $3.50 (yearly avg. rate - 2023)|  492.80   |
-|Adjustment for cost recovery deductions (see calculation below)|           |                                    | (100.00)  |
-|    Adjustment for LIFO liquidation (see calculation below)    |           |                                    |  (30.80)  |
-|                         Adjusted COGS                         |           |                                    |  362.00   |
-|                             SG&A:                             |           |                                    |           |
-|                Depreciation on building (50%)                 |    10     | €1 = $1.00 (historic rate - 2020)  |    10     |
-|                           Salaries                            |    10     |€1 = $3.50 (yearly avg. rate - 2023)|    35     |
-|                          Total SG&A                           |           |                                    |    45     |
-|                    Section 987 net income                     |           |                                    |    475    |
+|                             Item                              |Amount in €|         Translation rate         |Amount in $|
+|---------------------------------------------------------------|-----------|----------------------------------|-----------|
+|                         Sales revenue                         |    252    |€1 = $3.50 (yearly avg. rate—2023)|    882    |
+|                    COGS before adjustments                    |  140.80   |€1 = $3.50 (yearly avg. rate—2023)|  492.80   |
+|Adjustment for cost recovery deductions (see calculation below)|           |                                  | (100.00)  |
+|    Adjustment for LIFO liquidation (see calculation below)    |           |                                  |  (30.80)  |
+|                         Adjusted COGS                         |           |                                  |  362.00   |
+|                             SG&A:                             |           |                                  |           |
+|                Depreciation on building (50%)                 |    10     | €1 = $1.00 (historic rate—2020)  |    10     |
+|                           Salaries                            |    10     |€1 = $3.50 (yearly avg. rate—2023)|    35     |
+|                          Total SG&A                           |           |                                  |    45     |
+|                    Section 987 net income                     |           |                                  |    475    |
 
 *COGS Adjustments.*
 
 Adjustment for cost recovery deductions.
 
-|          Depreciation  <br/>amount          | Historic  <br/>rate|2023  <br/>yearly  <br/>avg. rate|Difference in  <br/>translation  <br/>rates|Adjustment  <br/>(depreciation  <br/>× change  <br/>in rates)|
-|---------------------------------------------|--------------------|---------------------------------|-------------------------------------------|-------------------------------------------------------------|
-|               €10 (building)                |        1.00        |              3.50               |                  (2.50)                   |                            ($25)                            |
-|                €30 (machine)                |        1.00        |              3.50               |                  (2.50)                   |                            (75)                             |
-|Total adjustment for cost recovery deductions|                    |                                 |                                           |                            (100)                            |
+|          Depreciation  <br/>amount          |Historic  <br/>rate|2023  <br/>yearly  <br/>avg. rate|Difference in  <br/>translation  <br/>rates|Adjustment  <br/>(depreciation  <br/>× change  <br/>in rates)|   |
+|---------------------------------------------|-------------------|---------------------------------|-------------------------------------------|-------------------------------------------------------------|---|
+|               €10 (building)                |       1.00        |              3.50               |                  (2.50)                   |                            ($25)                            |   |
+|                €30 (machine)                |       1.00        |              3.50               |                  (2.50)                   |                            (75)                             |   |
+|Total adjustment for cost recovery deductions|                   |                                 |                                           |                            (100)                            |   |
 
 Adjustment for LIFO liquidation.
 
-|      LIFO  <br/>liquidation  <br/>layer       |Historic  <br/>rate|2023  <br/>yearly  <br/>avg. rate|Difference in  <br/>translation  <br/>rates|Adjustment  <br/>(liquidated layer ×  <br/>change in rates)|
-|-----------------------------------------------|-------------------|---------------------------------|-------------------------------------------|-----------------------------------------------------------|
-|                 €10.80 (2022)                 |       2.50        |              3.50               |                  (1.00)                   |                         ($10.80)                          |
-|                  €10 (2021)                   |       1.50        |              3.50               |                  (2.00)                   |                          (20.00)                          |
-|Total adjustment for liquidation of LIFO layers|                   |                                 |                                           |                          (30.80)                          |
+|      LIFO  <br/>liquidation  <br/>layer       |Historic  <br/>rate|2023  <br/>yearly  <br/>avg. rate|Difference in  <br/>translation  <br/>rates|Adjustment  <br/>(liquidated layer ×  <br/>change in rates)|   |
+|-----------------------------------------------|-------------------|---------------------------------|-------------------------------------------|-----------------------------------------------------------|---|
+|                 €10.80 (2022)                 |       2.50        |              3.50               |                  (1.00)                   |                         ($10.80)                          |   |
+|                  €10 (2021)                   |       1.50        |              3.50               |                  (2.00)                   |                          (20.00)                          |   |
+|Total adjustment for liquidation of LIFO layers|                   |                                 |                                           |                          (30.80)                          |   |
 
 (B) *Determination of OFCNV.* The OFCNV of Business A for 2023 is determined under paragraph (e) of this section as follows:
 
-OFCNV - End of 2023
-
-|     Assets      |Amount in €|           Translation rate           |Amount in $|
-|-----------------|-----------|--------------------------------------|-----------|
-|      Euros      |    422    |€1 = $4.00 (year-end spot rate - 2023)|   1,688   |
-|    Building     |    720    |  €1 = $1.00 (historic rate - 2020)   |    720    |
-|     Machine     |    210    |  €1 = $1.00 (historic rate - 2020)   |    210    |
-|    Inventory    |    30     |  €1 = $1.50 (historic rate - 2021)   |    45     |
-|  Total assets   |           |                                      |   2,663   |
-|  Liabilities:   |           |                                      |           |
-|Total liabilities|           |                                      |     0     |
-|2023 ending OFCNV|           |                                      |   2,663   |
+|     Assets      |Amount in €|          Translation rate          |Amount in $|
+|-----------------|-----------|------------------------------------|-----------|
+|      Euros      |    422    |€1 = $4.00 (year-end spot rate—2023)|   1,688   |
+|    Building     |    720    |  €1 = $1.00 (historic rate—2020)   |    720    |
+|     Machine     |    210    |  €1 = $1.00 (historic rate—2020)   |    210    |
+|    Inventory    |    30     |  €1 = $1.50 (historic rate—2021)   |    45     |
+|  Total assets   |           |                                    |   2,663   |
+|  Liabilities:   |           |                                    |           |
+|Total liabilities|           |                                    |     0     |
+|2023 ending OFCNV|           |                                    |   2,663   |
 
 (C) *Determination of net unrecognized section 987 gain or loss.* The net unrecognized section 987 gain of Business A is determined under paragraph (d) of this section as follows (relevant steps only):
 
@@ -552,7 +534,7 @@ OFCNV - End of 2023
 |Less: 2022 ending OFCNV|(1,847)|
 |    Change in OFCNV    |  816  |
 
-(*2*) *Step 6 - Decrease the aggregate amount determined in steps 1 through 5 by the section 987 taxable income of the section 987 QBU for the taxable year.* Under paragraph (d)(6) of this section, the aggregate amount determined in steps 1 through 5 must be decreased by the section 987 taxable income of Business A. The amount of Business A's taxable income for 2023, as determined above, is $475.
+(*2*) *Step 6—Decrease the aggregate amount determined in steps 1 through 5 by the section 987 taxable income of the section 987 QBU for the taxable year.* Under paragraph (d)(6) of this section, the aggregate amount determined in steps 1 through 5 must be decreased by the section 987 taxable income of Business A. The amount of Business A's taxable income for 2023, as determined above, is $475.
 
 |                                                                    |     |
 |--------------------------------------------------------------------|-----|
@@ -562,8 +544,8 @@ OFCNV - End of 2023
 |Plus: net accumulated unrecognized section 987 gain from prior years| 340 |
 |                 Net unrecognized section 987 gain                  | 681 |
 
-(h) *Effective/applicability date* - (1) *In general.* Except as set forth in paragraph (h)(2) of this section, this section is applicable as specified in § 1.987-11.
+(h) *Effective/applicability date*—(1) *In general.* Except as set forth in paragraph (h)(2) of this section, this section is applicable as specified in § 1.987-11.
 
 (2) *Combinations and separations.* Paragraphs (c)(2) and (f) of this section apply to taxable years beginning on or after the day that is three years after the first day of the first taxable year following December 7, 2016. Notwithstanding the preceding sentence, if a taxpayer makes an election under § 1.987-11(b), then paragraphs (c)(2) and (f) of this section applies to taxable years to which §§ 1.987-1 through 1.987-10 apply as a result of such election.
 
-[T.D. 9794, 81 FR 88821, Dec. 8, 2016, as amended by T.D. 9795, 81 FR 88873, Dec. 8, 2016; T.D. 9857, 84 FR 20795, May 13, 2019]
+[T.D. 9794, 81 FR 88821, Dec. 8, 2016, as amended by T.D. 9795, 81 FR 88873, Dec. 8, 2016; T.D. 9857, 84 FR 20795, May 13, 2019; 84 FR 31194, July 1, 2019]

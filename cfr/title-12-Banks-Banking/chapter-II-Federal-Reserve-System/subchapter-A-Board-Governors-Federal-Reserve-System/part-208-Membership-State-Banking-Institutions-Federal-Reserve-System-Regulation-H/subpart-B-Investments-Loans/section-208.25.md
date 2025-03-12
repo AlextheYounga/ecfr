@@ -1,8 +1,6 @@
 ##### § 208.25 Loans in areas having special flood hazards. #####
 
-Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
-
-(a) *Purpose and scope* - (1) *Purpose.* The purpose of this section is to implement the requirements of the National Flood Insurance Act of 1968 and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4129).
+(a) *Purpose and scope*—(1) *Purpose.* The purpose of this section is to implement the requirements of the National Flood Insurance Act of 1968 and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4129).
 
 (2) *Scope.* This section, except for paragraphs (f) and (h) of this section, applies to loans secured by buildings or mobile homes located or to be located in areas determined by the Administrator of the Federal Emergency Management Agency to have special flood hazards. Paragraphs (f) and (h) of this section apply to loans secured by buildings or mobile homes, regardless of location.
 
@@ -20,23 +18,93 @@ Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
 
 (6) *Mobile home* means a structure, transportable in one or more sections, that is built on a permanent chassis and designed for use with or without a permanent foundation when attached to the required utilities. The term *mobile home* does not include a recreational vehicle. For purposes of this section, the term *mobile home* means a mobile home on a permanent foundation. The term *mobile home* includes a manufactured home as that term is used in the NFIP.
 
-(7) *NFIP* means the National Flood Insurance Program authorized under the Act.
+(7) *Mutual aid society* means an organization—
 
-(8) *Residential improved real estate* means real estate upon which a home or other residential building is located or to be located.
+(i) Whose members share a common religious, charitable, educational, or fraternal bond;
 
-(9) *Servicer* means the person responsible for:
+(ii) That covers losses caused by damage to members' property pursuant to an agreement, including damage caused by flooding, in accordance with this common bond; and
+
+(iii) That has a demonstrated history of fulfilling the terms of agreements to cover losses to members' property caused by flooding.
+
+(8) *NFIP* means the National Flood Insurance Program authorized under the Act.
+
+(9) *Private flood insurance* means an insurance policy that:
+
+(i) Is issued by an insurance company that is:
+
+(A) Licensed, admitted, or otherwise approved to engage in the business of insurance by the insurance regulator of the State or jurisdiction in which the property to be insured is located; or
+
+(B) Recognized, or not disapproved, as a surplus lines insurer by the insurance regulator of the State or jurisdiction in which the property to be insured is located in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property;
+
+(ii) Provides flood insurance coverage that is at least as broad as the coverage provided under an SFIP for the same type of property, including when considering deductibles, exclusions, and conditions offered by the insurer. To be at least as broad as the coverage provided under an SFIP, the policy must, at a minimum:
+
+(A) Define the term “flood” to include the events defined as a “flood” in an SFIP;
+
+(B) Contain the coverage specified in an SFIP, including that relating to building property coverage; personal property coverage, if purchased by the insured mortgagor(s); other coverages; and increased cost of compliance coverage;
+
+(C) Contain deductibles no higher than the specified maximum, and include similar non-applicability provisions, as under an SFIP, for any total policy coverage amount up to the maximum available under the NFIP at the time the policy is provided to the lender;
+
+(D) Provide coverage for direct physical loss caused by a flood and may only exclude other causes of loss that are excluded in an SFIP. Any exclusions other than those in an SFIP may pertain only to coverage that is in addition to the amount and type of coverage that could be provided by an SFIP or have the effect of providing broader coverage to the policyholder; and
+
+(E) Not contain conditions that narrow the coverage provided in an SFIP;
+
+(iii) Includes all of the following:
+
+(A) A requirement for the insurer to give written notice 45 days before cancellation or non-renewal of flood insurance coverage to:
+
+(*1*) The insured; and
+
+(*2*) The member bank that made the designated loan secured by the property covered by the flood insurance, or the servicer acting on its behalf;
+
+(B) Information about the availability of flood insurance coverage under the NFIP;
+
+(C) A mortgage interest clause similar to the clause contained in an SFIP; and
+
+(D) A provision requiring an insured to file suit not later than one year after the date of a written denial of all or part of a claim under the policy; and
+
+(iv) Contains cancellation provisions that are as restrictive as the provisions contained in an SFIP.
+
+(10) *Residential improved real estate* means real estate upon which a home or other residential building is located or to be located.
+
+(11) *Servicer* means the person responsible for:
 
 (i) Receiving any scheduled, periodic payments from a borrower under the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan; and
 
 (ii) Making payments of principal and interest and any other payments from the amounts received from the borrower as may be required under the terms of the loan.
 
-(10) *Special flood hazard area* means the land in the flood plain within a community having at least a one percent chance of flooding in any given year, as designated by the Administrator of FEMA.
+(12) *SFIP* means, for purposes of paragraph (b)(9) of this section, a standard flood insurance policy issued under the NFIP in effect as of the date private flood insurance is provided to a member bank.
 
-(11) *Table funding* means a settlement at which a loan is funded by a contemporaneous advance of loan funds and an assignment of the loan to the person advancing the funds.
+(13) *Special flood hazard area* means the land in the flood plain within a community having at least a one percent chance of flooding in any given year, as designated by the Administrator of FEMA.
 
-(c) *Requirement to purchase flood insurance where available* - (1) *In general.* A member bank shall not make, increase, extend, or renew any designated loan unless the building or mobile home and any personal property securing the loan is covered by flood insurance for the term of the loan. The amount of insurance must be at least equal to the lesser of the outstanding principal balance of the designated loan or the maximum limit of coverage available for the particular type of property under the Act. Flood insurance coverage under the Act is limited to the building or mobile home and any personal property that secures a loan and not the land itself.
+(14) *Table funding* means a settlement at which a loan is funded by a contemporaneous advance of loan funds and an assignment of the loan to the person advancing the funds.
+
+(c) *Requirement to purchase flood insurance where available*—(1) *In general.* A member bank shall not make, increase, extend, or renew any designated loan unless the building or mobile home and any personal property securing the loan is covered by flood insurance for the term of the loan. The amount of insurance must be at least equal to the lesser of the outstanding principal balance of the designated loan or the maximum limit of coverage available for the particular type of property under the Act. Flood insurance coverage under the Act is limited to the building or mobile home and any personal property that secures a loan and not the land itself.
 
 (2) *Table funded loans.* A member bank that acquires a loan from a mortgage broker or other entity through table funding shall be considered to be making a loan for the purposes of this section.
+
+(3) *Private flood insurance*—(i) *Mandatory acceptance.* A member bank must accept private flood insurance, as defined in paragraph (b)(9) of this section, in satisfaction of the flood insurance purchase requirement in paragraph (c)(1) of this section if the policy meets the requirements for coverage in paragraph (c)(1) of this section.
+
+(ii) *Compliance aid for mandatory acceptance.* A member bank may determine that a policy meets the definition of private flood insurance in paragraph (b)(9) of this section, without further review of the policy, if the following statement is included within the policy or as an endorsement to the policy: “This policy meets the definition of private flood insurance contained in 42 U.S.C. 4012a(b)(7) and the corresponding regulation.”
+
+(iii) *Discretionary acceptance.* A member bank may accept a flood insurance policy issued by a private insurer that is not issued under the NFIP and that does not meet the definition of private flood insurance in paragraph (b)(9) of this section in satisfaction of the flood insurance purchase requirement in paragraph (c)(1) of this section if the policy:
+
+(A) Provides coverage in the amount required by paragraph (c)(1) of this section;
+
+(B) Is issued by an insurer that is licensed, admitted, or otherwise approved to engage in the business of insurance by the insurance regulator of the State or jurisdiction in which the property to be insured is located; or in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property, is issued by a surplus lines insurer recognized, or not disapproved, by the insurance regulator of the State or jurisdiction where the property to be insured is located;
+
+(C) Covers both the mortgagor(s) and the mortgagee(s) as loss payees, except in the case of a policy that is provided by a condominium association, cooperative, homeowners association, or other applicable group and for which the premium is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense; and
+
+(D) Provides sufficient protection of the designated loan, consistent with general safety and soundness principles, and the member bank documents its conclusion regarding sufficiency of the protection of the loan in writing.
+
+(iv) *Mutual aid societies.* Notwithstanding the requirements of paragraph (c)(3)(iii) of this section, a member bank may accept a plan issued by a mutual aid society, as defined in paragraph (b)(7) of this section, in satisfaction of the flood insurance purchase requirement in paragraph (c)(1) of this section if:
+
+(A) The Board has determined that such plans qualify as flood insurance for purposes of the Act.
+
+(B) The plan provides coverage in the amount required by paragraph (c)(1) of this section;
+
+(C) The plan covers both the mortgagor(s) and the mortgagee(s) as loss payees; and
+
+(D) The plan provides sufficient protection of the designated loan, consistent with general safety and soundness principles, and the member bank documents its conclusion regarding sufficiency of the protection of the loan in writing.
 
 (d) *Exemptions.* The flood insurance requirement prescribed by paragraph (c) of this section does not apply with respect to:
 
@@ -52,7 +120,7 @@ Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
 
 (iii) “Serve as a residence” shall be based upon the good faith determination of the member bank that the structure is intended for use or actually used as a residence, which generally includes sleeping, bathroom, or kitchen facilities.
 
-(e) *Escrow requirement* - (1) *In general* - (i) *Applicability.* Except as provided in paragraphs (e)(1)(ii) or (e)(3) of this section, a member bank, or a servicer acting on its behalf, shall require the escrow of all premiums and fees for any flood insurance required under paragraph (c) of this section for any designated loan secured by residential improved real estate or a mobile home that is made, increased, extended, or renewed on or after January 1, 2016, payable with the same frequency as payments on the designated loan are required to be made for the duration of the loan.
+(e) *Escrow requirement*—(1) *In general*—(i) *Applicability.* Except as provided in paragraphs (e)(1)(ii) or (e)(3) of this section, a member bank, or a servicer acting on its behalf, shall require the escrow of all premiums and fees for any flood insurance required under paragraph (c) of this section for any designated loan secured by residential improved real estate or a mobile home that is made, increased, extended, or renewed on or after January 1, 2016, payable with the same frequency as payments on the designated loan are required to be made for the duration of the loan.
 
 (ii) *Exceptions.* Paragraph (e)(1)(i) of this section does not apply if:
 
@@ -80,7 +148,7 @@ Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
 
 (2) *Notice.* For any loan for which a member bank is required to escrow under paragraphs (e)(1) or (e)(3)(ii) of this section or may be required to escrow under paragraph (e)(1)(iii) of this section during the term of the loan, the member bank, or a servicer acting on its behalf, shall mail or deliver a written notice with the notice provided under paragraph (i) of this section informing the borrower that the member bank is required to escrow all premiums and fees for required flood insurance, using language that is substantially similar to model clauses on the escrow requirement in appendix A to this section.
 
-(3) *Small lender exception* - (i) *Qualification.* Except as may be required under applicable State law, paragraphs (e)(1), (2), and (4) of this section do not apply to a member bank:
+(3) *Small lender exception*—(i) *Qualification.* Except as may be required under applicable State law, paragraphs (e)(1), (2), and (4) of this section do not apply to a member bank:
 
 (A) That has total assets of less than $1 billion as of December 31 of either of the two prior calendar years; and
 
@@ -92,7 +160,7 @@ Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
 
 (ii) *Change in status.* If a member bank previously qualified for the exception in paragraph (e)(3)(i) of this section, but no longer qualifies for the exception because it had assets of $1 billion or more for two consecutive calendar year ends, the member bank must escrow premiums and fees for flood insurance pursuant to paragraph (e)(1) of this section for any designated loan made, increased, extended, or renewed on or after July 1 of the first calendar year of changed status.
 
-(4) *Option to escrow.* (i) *In general.* A member bank, or a servicer acting on its behalf, shall offer and make available to the borrower the option to escrow all premiums and fees for any flood insurance required under paragraph (c) of this section for any loan secured by residential improved real estate or a mobile home that is outstanding on January 1, 2016, or July 1 of the first calendar year in which the member bank has had a change in status pursuant to paragraph (e)(3)(ii) of this section, unless:
+(4) *Option to escrow*—(i) *In general.* A member bank, or a servicer acting on its behalf, shall offer and make available to the borrower the option to escrow all premiums and fees for any flood insurance required under paragraph (c) of this section for any loan secured by residential improved real estate or a mobile home that is outstanding on January 1, 2016, or July 1 of the first calendar year in which the member bank has had a change in status pursuant to paragraph (e)(3)(ii) of this section, unless:
 
 (A) The loan or the member bank qualifies for an exception from the escrow requirement under paragraphs (e)(1)(ii) or (e)(3) of this section, respectively;
 
@@ -104,13 +172,13 @@ Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
 
 (iii) *Timing.* The member bank or servicer must begin escrowing premiums and fees for flood insurance as soon as reasonably practicable after the member bank or servicer receives the borrower's request to escrow.
 
-(f) *Required use of standard flood hazard determination form* - (1) *Use of form.* A state member bank shall use the standard flood hazard determination form developed by the Administrator of FEMA when determining whether the building or mobile home offered as collateral security for a loan is or will be located in a special flood hazard area in which flood insurance is available under the Act. The standard flood hazard determination form may be used in a printed, computerized, or electronic manner. A state member bank may obtain the standard flood hazard determination form from FEMA's Web site at *www.fema.gov.*
+(f) *Required use of standard flood hazard determination form*—(1) *Use of form.* A state member bank shall use the standard flood hazard determination form developed by the Administrator of FEMA when determining whether the building or mobile home offered as collateral security for a loan is or will be located in a special flood hazard area in which flood insurance is available under the Act. The standard flood hazard determination form may be used in a printed, computerized, or electronic manner. A state member bank may obtain the standard flood hazard determination form from FEMA's Web site at *www.fema.gov.*
 
 (2) *Retention of form.* A state member bank shall retain a copy of the completed standard flood hazard determination form, in either hard copy or electronic form, for the period of time the state member bank owns the loan.
 
-(g) *Force placement of flood insurance* - (1) *Notice and purchase of coverage.* If a member bank, or a servicer acting on behalf of the bank, determines at any time during the term of a designated loan, that the building or mobile home and any personal property securing the designated loan is not covered by flood insurance or is covered by flood insurance in an amount less than the amount required under paragraph (c) of this section, then the member bank or its servicer shall notify the borrower that the borrower should obtain flood insurance, at the borrower's expense, in an amount at least equal to the amount required under paragraph (c) of this section, for the remaining term of the loan. If the borrower fails to obtain flood insurance within 45 days after notification, then the member bank or its servicer shall purchase insurance on the borrower's behalf. The member bank or its servicer may charge the borrower for the cost of premiums and fees incurred in purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount.
+(g) *Force placement of flood insurance*—(1) *Notice and purchase of coverage.* If a member bank, or a servicer acting on behalf of the bank, determines at any time during the term of a designated loan, that the building or mobile home and any personal property securing the designated loan is not covered by flood insurance or is covered by flood insurance in an amount less than the amount required under paragraph (c) of this section, then the member bank or its servicer shall notify the borrower that the borrower should obtain flood insurance, at the borrower's expense, in an amount at least equal to the amount required under paragraph (c) of this section, for the remaining term of the loan. If the borrower fails to obtain flood insurance within 45 days after notification, then the member bank or its servicer shall purchase insurance on the borrower's behalf. The member bank or its servicer may charge the borrower for the cost of premiums and fees incurred in purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount.
 
-(2) *Termination of force-placed insurance* - (i) *Termination and refund.* Within 30 days of receipt by a member bank, or a servicer acting on its behalf, of a confirmation of a borrower's existing flood insurance coverage, the member bank or its servicer shall:
+(2) *Termination of force-placed insurance*—(i) *Termination and refund.* Within 30 days of receipt by a member bank, or a servicer acting on its behalf, of a confirmation of a borrower's existing flood insurance coverage, the member bank or its servicer shall:
 
 (A) Notify the insurance provider to terminate any insurance purchased by the member bank or its servicer under paragraph (g)(1) of this section; and
 
@@ -118,7 +186,7 @@ Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
 
 (ii) *Sufficiency of demonstration.* For purposes of confirming a borrower's existing flood insurance coverage under paragraph (g)(2) of this section, a member bank or its servicer shall accept from the borrower an insurance policy declarations page that includes the existing flood insurance policy number and the identity of, and contact information for, the insurance company or agent.
 
-(h) *Determination fees.* - (1) *General.* Notwithstanding any Federal or State law other than the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4129), any member bank, or a servicer acting on behalf of the bank, may charge a reasonable fee for determining whether the building or mobile home securing the loan is located or will be located in a special flood hazard area. A determination fee may also include, but is not limited to, a fee for life-of-loan monitoring.
+(h) *Determination fees.*—(1) *General.* Notwithstanding any Federal or State law other than the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4129), any member bank, or a servicer acting on behalf of the bank, may charge a reasonable fee for determining whether the building or mobile home securing the loan is located or will be located in a special flood hazard area. A determination fee may also include, but is not limited to, a fee for life-of-loan monitoring.
 
 (2) *Borrower fee.* The determination fee authorized by paragraph (h)(1) of this section may be charged to the borrower if the determination:
 
@@ -160,21 +228,21 @@ Link to an amendment published at 84 FR 4970, Feb. 20, 2019.
 
 (5) *Use of sample form of notice.* A member bank will be considered to be in compliance with the requirement for notice to the borrower of this paragraph (i) of this section by providing written notice to the borrower containing the language presented in appendix A of this section within a reasonable time before the completion of the transaction. The notice presented in appendix A of this section satisfies the borrower notice requirements of the Act.
 
-(j) *Notice of servicer's identity* - (1) *Notice requirement.* When a member bank makes, increases, extends, renews, sells, or transfers a loan secured by a building or mobile home located or to be located in a special flood hazard area, the bank shall notify the Administrator of FEMA (or the Administrator's designee) in writing of the identity of the servicer of the loan. The Administrator of FEMA has designated the insurance provider to receive the member bank's notice of the servicer's identity. This notice may be provided electronically if electronic transmission is satisfactory to the Administrator of FEMA's designee.
+(j) *Notice of servicer's identity*—(1) *Notice requirement.* When a member bank makes, increases, extends, renews, sells, or transfers a loan secured by a building or mobile home located or to be located in a special flood hazard area, the bank shall notify the Administrator of FEMA (or the Administrator's designee) in writing of the identity of the servicer of the loan. The Administrator of FEMA has designated the insurance provider to receive the member bank's notice of the servicer's identity. This notice may be provided electronically if electronic transmission is satisfactory to the Administrator of FEMA's designee.
 
 (2) *Transfer of servicing rights.* The member bank shall notify the Administrator of FEMA (or the Administrator's designee) of any change in the servicer of a loan described in paragraph (j)(1) of this section within 60 days after the effective date of the change. This notice may be provided electronically if electronic transmission is satisfactory to the Administrator of FEMA's designee. Upon any change in the servicing of a loan described in paragraph (j)(1) of this section, the duty to provide notice under this paragraph (j)(2) of this section shall transfer to the transferee servicer.
 
-Appendix A to § 208.25 - Sample Form of Notice of Special Flood Hazards and Availability of Federal Disaster Relief AssistanceNotice of Special Flood Hazards and Availability of Federal Disaster Relief Assistance
+Appendix A to § 208.25—Sample Form of Notice of Special Flood Hazards and Availability of Federal Disaster Relief AssistanceNotice of Special Flood Hazards and Availability of Federal Disaster Relief Assistance
 
 We are giving you this notice to inform you that:
 
 The building or mobile home securing the loan for which you have applied is or will be located in an area with special flood hazards.
 
-The area has been identified by the Administrator of the Federal Emergency Management Agency (FEMA) as a special flood hazard area using FEMA's *Flood Insurance Rate Map* or the *Flood Hazard Boundary Map* for the following community: \_\_\_. This area has a one percent (1%) chance of a flood equal to or exceeding the base flood elevation (a 100-year flood) in any given year. During the life of a 30-year mortgage loan, the risk of a 100-year flood in a special flood hazard area is 26 percent (26%).
+The area has been identified by the Administrator of the Federal Emergency Management Agency (FEMA) as a special flood hazard area using FEMA's *Flood Insurance Rate Map* or the *Flood Hazard Boundary Map* for the following community: \_\_\_\_\_\_. This area has a one percent (1%) chance of a flood equal to or exceeding the base flood elevation (a 100-year flood) in any given year. During the life of a 30-year mortgage loan, the risk of a 100-year flood in a special flood hazard area is 26 percent (26%).
 
 Federal law allows a lender and borrower jointly to request the Administrator of FEMA to review the determination of whether the property securing the loan is located in a special flood hazard area. If you would like to make such a request, please contact us for further information.
 
-\_\_ The community in which the property securing the loan is located participates in the National Flood Insurance Program (NFIP). Federal law will not allow us to make you the loan that you have applied for if you do not purchase flood insurance. The flood insurance must be maintained for the life of the loan. If you fail to purchase or renew flood insurance on the property, Federal law authorizes and requires us to purchase the flood insurance for you at your expense.
+\_\_\_\_ The community in which the property securing the loan is located participates in the National Flood Insurance Program (NFIP). Federal law will not allow us to make you the loan that you have applied for if you do not purchase flood insurance. The flood insurance must be maintained for the life of the loan. If you fail to purchase or renew flood insurance on the property, Federal law authorizes and requires us to purchase the flood insurance for you at your expense.
 
 • At a minimum, flood insurance purchased must cover *the lesser of:*
 
@@ -196,9 +264,9 @@ Flood insurance coverage under the NFIP may be purchased through an insurance ag
 
 Federal law may require a lender or its servicer to escrow all premiums and fees for flood insurance that covers any residential building or mobile home securing a loan that is located in an area with special flood hazards. If your lender notifies you that an escrow account is required for your loan, then you must pay your flood insurance premiums and fees to the lender or its servicer with the same frequency as you make loan payments for the duration of your loan. These premiums and fees will be deposited in the escrow account, which will be used to pay the flood insurance provider.]
 
-\_\_ Flood insurance coverage under the NFIP is not available for the property securing the loan because the community in which the property is located does not participate in the NFIP. In addition, if the non-participating community has been identified for at least one year as containing a special flood hazard area, properties located in the community will not be eligible for Federal disaster relief assistance in the event of a Federally declared flood disaster.
+\_\_\_\_ Flood insurance coverage under the NFIP is not available for the property securing the loan because the community in which the property is located does not participate in the NFIP. In addition, if the non-participating community has been identified for at least one year as containing a special flood hazard area, properties located in the community will not be eligible for Federal disaster relief assistance in the event of a Federally declared flood disaster.
 
-Appendix B to § 208.25 - Sample Clause for Option to Escrow for Outstanding LoansEscrow Option Clause
+Appendix B to § 208.25—Sample Clause for Option to Escrow for Outstanding LoansEscrow Option Clause
 
 You have the option to escrow all premiums and fees for the payment on your flood insurance policy that covers any residential building or mobile home that is located in an area with special flood hazards and that secures your loan. If you choose this option:
 
@@ -212,4 +280,4 @@ To choose this option, follow the instructions below. If you have any questions 
 
 [Insert Instructions for Selecting to Escrow]
 
-[Reg. H, 80 FR 43245, July 21, 2015, as amended at 80 FR 43247, July 21, 2015]
+[Reg. H, 80 FR 43245, July 21, 2015, as amended at 80 FR 43247, July 21, 2015; 84 FR 4970, Feb. 20, 2019]

@@ -1,7 +1,5 @@
 ##### § 215.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4241, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 For purposes of this part, the following definitions apply unless otherwise specified:
 
 (a) *Affiliate* means any company of which a member bank is a subsidiary or any other subsidiary of that company.
@@ -98,9 +96,9 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 2 Where State law establishes a lending limit for a State member bank that is lower than the amount permitted in section 5200 of the Revised Statutes, the lending limit established by applicable State laws shall be the lending limit for the State member bank.
 
-(1) The bank's Tier 1 and Tier 2 capital included in the bank's risk-based capital under the capital guidelines of the appropriate Federal banking agency, based on the bank's most recent consolidated report of condition filed under 12 U.S.C. 1817(a)(3); and
+(1) The bank's tier 1 and tier 2 capital included in the bank's risk-based capital under the capital rule of the appropriate Federal banking agency, based on the bank's most recent consolidated report of condition filed under 12 U.S.C. 1817(a)(3); and
 
-(2) The balance of the bank's allowance for loan and lease losses not included in the bank's Tier 2 capital for purposes of the calculation of risk-based capital by the appropriate Federal banking agency, based on the bank's most recent consolidated report of condition filed under 12 U.S.C. 1817(a)(3)
+(2) The balance of the bank's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in the bank's tier 2 capital for purposes of the calculation of risk-based capital under the capital rule of the appropriate Federal banking agency, based on the bank's most recent consolidated reports of condition filed under 12 U.S.C. 1817(a)(3).
 
 (j) *Member bank* means any banking institution that is a member of the Federal Reserve System, including any subsidiary of a member bank. The term does not include any foreign bank that maintains a branch in the United States, whether or not the branch is insured (within the meaning of 12 U.S.C. 1813(s)) and regardless of the operation of 12 U.S.C. 1813(h) and 12 U.S.C. 1828(j)(3)(B).
 
@@ -120,4 +118,4 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (o) *Subsidiary* has the meaning given in 12 U.S.C. 1841(d), but does not include a subsidiary of a member bank.
 
-[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994, as amended at 60 FR 31054, June 13, 1995; 61 FR 57770, Nov. 8, 1996; 62 FR 13298, Mar. 20, 1997; 71 FR 71474, Dec. 11, 2006]
+[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994, as amended at 60 FR 31054, June 13, 1995; 61 FR 57770, Nov. 8, 1996; 62 FR 13298, Mar. 20, 1997; 71 FR 71474, Dec. 11, 2006; 84 FR 4241, Feb. 14, 2019]

@@ -1,10 +1,10 @@
 ##### § 3.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4237, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 3.20(c).
+
+*Adjusted allowances for credit losses (AACL)* means, with respect to a national bank or Federal savings association that has adopted CECL, valuation allowances that have been established through a charge against earnings or retained earnings for expected credit losses on financial assets measured at amortized cost and a lessor's net investment in leases that have been established to reduce the amortized cost basis of the assets to amounts expected to be collected as determined in accordance with GAAP. For purposes of this part, adjusted allowances for credit losses include allowances for expected credit losses on off-balance sheet credit exposures not accounted for as insurance as determined in accordance with GAAP. Adjusted allowances for credit losses exclude “allocated transfer risk reserves” and allowances created that reflect credit losses on purchased credit deteriorated assets and available-for-sale debt securities.
 
 *Advanced approaches national bank or Federal savings association* means a national bank or Federal savings association that is described in § 3.100(b)(1).
 
@@ -50,7 +50,7 @@ As used in this part:
 
 *Call Report* means Consolidated Reports of Condition and Income.
 
-*Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of the national bank or Federal savings association, determined in accordance with GAAP.
+*Carrying value* means, with respect to an asset, the value of the asset on the balance sheet of the national bank or Federal savings association as determined in accordance with GAAP. For all assets other than available-for-sale debt securities or purchased credit deteriorated assets, the carrying value is not reduced by any associated credit loss allowance that is determined in accordance with GAAP.
 
 *Central counterparty (CCP)* means a counterparty (for example, a clearing house) that facilitates trades between counterparties in one or more financial markets by either guaranteeing trades or novating contracts.
 
@@ -182,6 +182,8 @@ As used in this part:
 
 *Credit union* means an insured credit union as defined under the Federal Credit Union Act (12 U.S.C. 1752 *et seq.*).
 
+*Current Expected Credit Losses (CECL)* means the current expected credit losses methodology under GAAP.
+
 *Current exposure* means, with respect to a netting set, the larger of zero or the fair value of a transaction or portfolio of transactions within the netting set that would be lost upon default of the counterparty, assuming no recovery on the value of the transactions. Current exposure is also called replacement cost.
 
 *Current exposure methodology* means the method of calculating the exposure amount for over-the-counter derivative contracts in § 3.34(a) and exposure at default (EAD) in § 3.132(c)(5) or (6), as applicable.
@@ -264,7 +266,11 @@ As used in this part:
 
 (8) If the credit derivative is a total return swap and the national bank or Federal savings association records net payments received on the swap as net income, the national bank or Federal savings association records offsetting deterioration in the value of the hedged exposure (either through reductions in fair value or by an addition to reserves).
 
-*Eligible credit reserves* means all general allowances that have been established through a charge against earnings to cover estimated credit losses associated with on- or off-balance sheet wholesale and retail exposures, including the ALLL associated with such exposures, but excluding allocated transfer risk reserves established pursuant to 12 U.S.C. 3904 and other specific reserves created against recognized losses.
+*Eligible credit reserves* means:
+
+(1) For a national bank or Federal savings association that has not adopted CECL, all general allowances that have been established through a charge against earnings to cover estimated credit losses associated with on- or off-balance sheet wholesale and retail exposures, including the ALLL associated with such exposures, but excluding allocated transfer risk reserves established pursuant to 12 U.S.C. 3904 and other specific reserves created against recognized losses; and
+
+(2) For a national bank or Federal savings association that has adopted CECL, all general allowances that have been established through a charge against earnings or retained earnings to cover expected credit losses associated with on- or off-balance sheet wholesale and retail exposures, including AACL associated with such exposures. Eligible credit reserves exclude allocated transfer risk reserves established pursuant to 12 U.S.C. 3904, allowances that reflect credit losses on purchased credit deteriorated assets and available-for-sale debt securities, and other specific reserves created against recognized losses.
 
 *Eligible guarantee* means a guarantee that:
 
@@ -770,7 +776,7 @@ As used in this part:
 
 (vi) For a market risk national bank or Federal savings association only, standardized market risk-weighted assets; minus
 
-(2) Any amount of the national bank's or Federal savings association's allowance for loan and lease losses that is not included in tier 2 capital and any amount of allocated transfer risk reserves.
+(2) Any amount of a national bank's or Federal savings association's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, that is not included in tier 2 capital and any amount of “allocated transfer risk reserves.
 
 *Statutory multifamily mortgage* means a loan secured by a multifamily residential property that meets the requirements under section 618(b)(1) of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991, and that meets the following criteria:9
 
@@ -864,4 +870,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019]

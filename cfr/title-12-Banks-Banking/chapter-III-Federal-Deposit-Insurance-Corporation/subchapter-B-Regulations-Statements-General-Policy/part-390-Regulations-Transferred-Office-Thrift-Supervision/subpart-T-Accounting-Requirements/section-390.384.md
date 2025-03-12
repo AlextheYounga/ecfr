@@ -1,7 +1,5 @@
 ##### § 390.384 Financial statements for conversions, SEC filings, and offering circulars. #####
 
-Link to an amendment published at 84 FR 4250, Feb. 14, 2019.This amendment was delayed until July 1, 2019, at 84 FR 11879, Mar. 29, 2019.
-
 This section and its appendix pertain to the form and content of financial statements included as part of:
 
 (a) A conversion application under 12 CFR part 192 including financial statements in proxy statements and offering circulars,
@@ -198,9 +196,9 @@ Income statements shall comply with the following provisions:
 
 10. *Net interest income.*
 
-11. *Provision for loan losses.*
+11. Provision for loan losses or provision for credit losses, as applicable.
 
-12. *Net interest income after provision for loan losses.*
+12. *Net interest income after provision for loan losses or provision for credit losses, as applicable.*
 
 13. *Other income.* Disclose separately any of the following amounts, or any other item of other income, which exceeds 1 percent of the aggregate of total interest income and other income. The remaining amount may be shown as one amount, except for investment securities gains or losses which shall be shown separately regardless of size.
 
@@ -331,3 +329,5 @@ Condensed Financial Information
 (a) Provide condensed financial information as to financial position, changes in financial position, and results of operations of the State savings association as of the same dates and for the same periods for which audited consolidated financial statements are required. The financial information required need not be presented in greater detail than is required for condensed statement by 17 CFR 210.10-01(a) (2), (3), (4). Detailed footnote disclosure which would normally be included with complete financial statements may be omitted with the exception of disclosure regarding material contingencies, long-term obligations, and guarantees. Description of significant provisions of the state savings association's long-term obligations, mandatory dividend, or redemption requirements of redeemable stocks, and guarantees of the State savings association shall be provided along with a 5-year schedule of maturities of debt. If the material contingencies, long-term obligations, redeemable stock requirements, and guarantees of the State savings association have been separately disclosed in the consolidated statements, they need not be repeated in this schedule.
 
 (b) Disclose separately the amount of cash dividends paid to the State savings association for each of the last three fiscal years by consolidated subsidiaries, unconsolidated subsidiaries, and 50-percent- or less-owned persons accounted for by the equity method, respectively.
+
+[76 FR 47655, Aug. 5, 2011, as amended at 84 FR 4250, Feb. 14, 2019]

@@ -1,14 +1,12 @@
 ##### § 23.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Affiliate* means an affiliate as described in § 23.6.
 
 (b) *Capital and surplus* means:
 
 (1) A bank's tier 1 and tier 2 capital calculated under the OCC's risk-based capital standards set forth in 12 CFR part 3, as applicable, as reported in the bank's Consolidated Reports of Condition and Income (Call Report) filed under 12 U.S.C. 161; plus
 
-(2) The balance of a bank's allowance for loan and lease losses not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (b)(1) of this section, as reported in the bank's Consolidated Report of Condition and Income filed under 12 U.S.C. 161.
+(2) The balance of a bank's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (b)(1) of this section, as reported in the bank's Call Report.
 
 (c) *CEBA Lease* means a personal property lease authorized under 12 U.S.C. 24(Tenth).
 
@@ -42,4 +40,4 @@ Link to an amendment published at 84 FR 4240, Feb. 14, 2019.This amendment was d
 
 (h) *Section 24(Seventh) Lease* means a personal property lease authorized under 12 U.S.C. 24(Seventh).
 
-[61 FR 66560, Dec. 18, 1996, as amended at 79 FR 11312, Feb. 28, 2014]
+[61 FR 66560, Dec. 18, 1996, as amended at 79 FR 11312, Feb. 28, 2014; 84 FR 4240, Feb. 14, 2019]

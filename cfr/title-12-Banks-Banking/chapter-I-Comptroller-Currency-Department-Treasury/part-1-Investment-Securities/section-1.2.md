@@ -1,12 +1,10 @@
 ##### § 1.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4237, Feb. 14, 2019.This amendment was delayed until July 1, 2019 at 84 FR 11879, Mar. 29, 2019.
-
 (a) *Capital and surplus* means:
 
 (1) A bank's tier 1 and tier 2 capital calculated under the OCC's risk-based capital standards set forth in 12 CFR part 3, as applicable (or comparable capital guidelines of the appropriate Federal banking agency), as reported in the bank's Consolidated Reports of Condition and Income (Call Report) filed under 12 U.S.C. 161 (or under 12 U.S.C. 1817 in the case of a state member bank); plus
 
-(2) The balance of a bank's allowance for loan and lease losses not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (a)(1) of this section, as reported in the bank's Consolidated Report of Condition and Income filed under 12 U.S.C. 161 (or under 12 U.S.C. 1817 in the case of a state member bank).
+(2) The balance of a bank's allowance for loan and lease losses or adjusted allowances for credit losses, as applicable, not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (a)(1) of this section, as reported in the bank's Call Report.
 
 (b) *General obligation of a State or political subdivision* means:
 
@@ -80,4 +78,4 @@ Link to an amendment published at 84 FR 4237, Feb. 14, 2019.This amendment was d
 
 (4) Fully secured by interests in a pool of loans to numerous obligors and in which a national bank could invest directly.
 
-[61 FR 63982, Dec. 2, 1996, as amended at 66 FR 34791, July 2, 2001; 77 FR 35257, June 13, 2012; 79 FR 11309, Feb. 28, 2014]
+[61 FR 63982, Dec. 2, 1996, as amended at 66 FR 34791, July 2, 2001; 77 FR 35257, June 13, 2012; 79 FR 11309, Feb. 28, 2014; 84 FR 4237, Feb. 14, 2019]

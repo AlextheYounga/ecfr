@@ -1,5 +1,7 @@
 ##### § 668.6 Reporting and disclosure requirements for programs that prepare students for gainful employment in a recognized occupation. #####
 
+Link to an amendment published at 84 FR 31453, July 1, 2019.
+
 (a) [Reserved]
 
 (b) *Disclosures.* (1) For each program offered by an institution under this section, the institution must provide prospective students with -

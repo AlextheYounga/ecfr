@@ -1,7 +1,5 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
-Link to an amendment published at 84 FR 30861, June 28, 2019.
-
 This insurance is available for the 2017 and succeeding years.
 
 [FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
@@ -236,7 +234,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Termination date.* The calendar date contained in the Crop Provisions upon which your insurance ceases to be in effect because of nonpayment of any amount due us under the policy.
 
-*Tilled.* The termination of existing plants by plowing, disking, burning, application of chemicals, or by other means to prepare acreage for the production of an annual crop.
+*Tilled.* The termination of existing plants by plowing, disking, burning, application of chemicals, or by other means to prepare acreage for the production of a crop.
 
 *Total premium.* The amount of premium before subsidy, calculated in accordance with section 7(e)(1).
 
@@ -253,6 +251,16 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 *USDA.* United States Department of Agriculture.
 
 *Verifiable records.* Has the same meaning as the term defined in 7 CFR part 400, subpart G.
+
+*Veteran farmer or rancher.* An individual who has served on active duty in the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including the reserve components, was discharged or released under conditions other than dishonorable, and:
+
+(1) Has not operated a farm or ranch;
+
+(2) Has operated a farm or ranch for not more than 5 years; or
+
+(3) First obtained status as a veteran during the most recent 5-year period.
+
+A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify as a veteran farmer or rancher. A spouse's veteran status does not impact whether an individual is considered a veteran farmer or rancher.
 
 *Void.* When the policy is considered not to have existed for a crop year.
 
@@ -342,13 +350,11 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (i) Either you or we may cancel this policy after the initial crop year by providing written notice to the other on or before the cancellation date shown in the Crop Provisions.
 
-(j) Any amount due to us for any policy authorized under the Act will be offset from any indemnity due you for this or any other crop insured with us under the authority of the Act.
+(j) Any amount owed to us for any policy authorized under the Act will be offset from any indemnity due you for this or any other crop insured with us under the authority of the Act.
 
 (1) Even if your claim has not yet been paid, you must still pay the premium and administrative fee on or before the termination date for you to remain eligible for insurance.
 
-(2) If you and we agree, your premium and administrative fees can be offset from any indemnity due you even if it is prior to the billing date of the premium and administrative fees.
-
-(3) If we offset any amount due us from an indemnity owed to you, the date of payment for the purpose of determining whether you have a delinquent debt will be the date FCIC publishes the final county yield for the applicable crop year.
+(2) If we offset any amount due us from an indemnity owed to you, the date of payment for the purpose of determining whether you have a delinquent debt will be the date FCIC publishes the final county yield for the applicable crop year.
 
 (k) A delinquent debt for any policy will make you ineligible to obtain crop insurance authorized under the Act for any subsequent crop year and result in termination of all policies in accordance with section 2(k)(2).
 
@@ -562,13 +568,15 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (ii) The amount of insurable acreage will not exceed 100 percent of the greatest number of acres for which you provide the records required in section 5(c)(5)(i).
 
-(d) Except as provided in section 5(e), in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, and South Dakota, during the first four crop years of planting on native sod acreage that has been tilled after February 7, 2014, such acreage may be insured if the requirements of section 5(a) have been met but will:
+(d) Except as provided in section 5(e), and in accordance with section 5(f), in the states of Iowa, Minnesota, Montana, Nebraska, North Dakota, or South Dakota, native sod acreage may be insured if the requirements of section 5(a) have been met but will:
 
 (1) Notwithstanding the provisions in section 6, receive a liability that is based on 65 percent of the protection factor; and
 
 (2) For additional coverage policies, receive a premium subsidy that is 50 percentage points less than would otherwise be provided on acreage not qualifying as native sod. If the premium subsidy applicable to these acres is less than 50 percent before the reduction, you will receive no premium subsidy.
 
 (e) Section 5(d) is not applicable to cumulative native sod acreage that is five acres or less in the county.
+
+(f) Section 5(d) is applicable during the first 4 crop years of planting on native sod acreage that has been tilled beginning on February 8, 2014, and ending on December 20, 2018. Section 5(d) is applicable during 4 cumulative crop years of insurance within the first 10 crop years after initial tillage on native sod acreage tilled after December 20, 2018.
 
 6. Coverage, Coverage Levels, Protection Factor, and Policy Protection
 
@@ -638,7 +646,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (6) Will be waived if you request it and:
 
-(i) You qualify as a beginning farmer or rancher;
+(i) You qualify as a beginning farmer or rancher, or veteran farmer or rancher;
 
 (ii) You qualify as a limited resource farmer; or
 
@@ -666,7 +674,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (g) Premium or administrative fees owed by you will be offset from an indemnity due you in accordance with section 2(j).
 
-(h) If you qualify as a beginning farmer or rancher, your premium subsidy will be 10 percentage points greater than the premium subsidy that you would otherwise receive, unless otherwise specified in the Special Provisions.
+(h) If you qualify as a beginning farmer or rancher, or veteran farmer or rancher, your premium subsidy will be 10 percentage points greater than the premium subsidy that you would otherwise receive, unless otherwise specified in the Special Provisions.
 
 (i) You will be ineligible for any premium subsidy paid on your behalf by FCIC for any policy issued by us if:
 
@@ -1346,4 +1354,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019]
