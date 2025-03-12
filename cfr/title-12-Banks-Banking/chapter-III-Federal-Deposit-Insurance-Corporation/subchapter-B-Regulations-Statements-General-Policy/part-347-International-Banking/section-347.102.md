@@ -1,7 +1,5 @@
 ##### § 347.102 Definitions. #####
 
-Link to an amendment published at 83 FR 9143, Mar. 5, 2018.
-
 For the purposes of this subpart:
 
 (a) An affiliate of an insured state nonmember bank means:
@@ -44,11 +42,7 @@ For the purposes of this subpart:
 
 (n) Indirectly means investments held or activities conducted by a subsidiary of an organization.
 
-(o) Investment grade means a security that is rated in one of the four highest categories by:
-
-(1) Two or more NRSROs; or
-
-(2) One NRSRO if the security is rated by only one NRSRO.
+(o) *Investment grade* means a security issued by an entity that has adequate capacity to meet financial commitments for the projected life of the exposure. Such an entity has adequate capacity to meet financial commitments if the risk of its default is low and the full and timely repayment of principal and interest is expected.
 
 (p) Loan or extension of credit means all direct and indirect advances of funds to a person, government, or entity made on the basis of any obligation of that person, government, or entity to repay funds.
 
@@ -64,4 +58,4 @@ For the purposes of this subpart:
 
 (v) Well capitalized means well capitalized as defined in § 325.103 of this chapter or § 324.403 of this chapter, as applicable.
 
-[70 FR 17560, Apr. 6, 2005, as amended at 78 FR 55595, Sept. 10, 2013]
+[70 FR 17560, Apr. 6, 2005, as amended at 78 FR 55595, Sept. 10, 2013; 83 FR 9143, Mar. 5, 2018]

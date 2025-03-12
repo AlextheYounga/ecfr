@@ -6,7 +6,7 @@
 
 (ii) Following the agency's receipt of the accreditation body's decision to accredit a facility, or an equivalent decision by another entity designated by FDA, the agency may issue a certificate to the facility, or renew an existing certificate, if the agency determines that the facility has satisfied the requirements for certification or recertification.
 
-(2) *Provisional certificates.* (i) A new facility beginning operation after October 1, 1994, is eligible to apply for a provisional certificate. The provisional certificate will enable the facility to perform mammography and to obtain the clinical images needed to complete the accreditation process. To apply for and receive a provisional certificate, a facility must meet the requirements of 42 U.S.C. 263b(c)(2) and submit the necessary information to an approved accreditation body or other entity designated by FDA.
+(2) *Provisional certificates.* (i) A new facility beginning operation after October 1, 1994, is eligible to apply for a provisional certificate. The provisional certificate will enable the facility to perform mammography and to obtain the clinical images needed to complete the accreditation process. To apply for and receive a provisional certificate, a facility must meet the requirements of 42 U.S.C. 263b(c)(4) and submit the necessary information to an approved accreditation body or other entity designated by FDA.
 
 (ii) Following the agency's receipt of the accreditation body's decision that a facility has submitted the required information, FDA may issue a provisional certificate to a facility upon determination that the facility has satisfied the requirements of § 900.11(b)(2)(i). A provisional certificate shall be effective for up to 6 months from the date of issuance. A provisional certificate cannot be renewed, but a facility may apply for a 90-day extension of the provisional certificate.
 
@@ -45,3 +45,5 @@
 (3) After receiving the provisional certificate, the facility may lawfully resume performing mammography services while completing the requirements for certification.
 
 (4) If a facility's certificate was revoked on the basis of an act described in 41 U.S.C. 263b(i)(1), no person who owned or operated that facility at the time the act occurred may own or operate a mammography facility within 2 years of the date of revocation.
+
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 83 FR 13864, Apr. 2, 2018]

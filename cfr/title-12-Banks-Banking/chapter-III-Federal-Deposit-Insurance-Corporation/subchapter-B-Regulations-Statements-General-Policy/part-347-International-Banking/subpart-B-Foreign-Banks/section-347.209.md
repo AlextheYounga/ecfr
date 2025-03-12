@@ -1,7 +1,5 @@
 ##### § 347.209 Pledge of assets. #####
 
-Link to an amendment published at 83 FR 9143, Mar. 5, 2018.
-
 (a) *Purpose.* A foreign bank that has an insured branch must pledge assets for the benefit of the FDIC or its designee(s). Whenever the FDIC is obligated under section 11(f) of the Federal Deposit Insurance Act (12 U.S.C. 1821(f)) to pay the insured deposits of an insured branch, the assets pledged under this section must become the property of the FDIC and be used to the extent necessary to protect the Deposit Insurance Fund.
 
 (b) *Amount of assets to be pledged.* (1) For a newly insured branch, a foreign bank must pledge assets equal to at least 5 percent of the liabilities of the branch, based on the branch's projection of its liabilities at the end of each of the first three years of operations. For all other insured branches, a foreign bank must pledge assets equal to the appropriate percentage applicable to the insured branch, as determined by reference to the risk-based assessment schedule contained in this paragraph, of the insured branch's average liabilities for the last 30 days of the most recent calendar quarter.4
@@ -33,25 +31,29 @@ The appropriate asset pledge percentage will be determined based on the supervis
 
 (c) *Depository.* A foreign bank must place pledged assets for safekeeping at any depository which is located in any state. However, a depository may not be an affiliate of the foreign bank whose insured branch is seeking to use the depository. A foreign bank must obtain the FDIC's prior written approval of the depository selected, and such approval may be revoked and dismissal of the depository required whenever the depository does not fulfill any one of its obligations under the pledge agreement. A foreign bank shall appoint and constitute the depository as its attorney in fact for the sole purpose of transferring title to pledged assets to the FDIC as may be required to effectuate the provisions of paragraph (a) of this section.
 
-(d) *Assets that may be pledged.* Subject to the right of the FDIC to require substitution, a foreign bank may pledge any of the kinds of assets listed in this paragraph (d); such assets must be denominated in United States dollars. A foreign bank shall be deemed to have pledged any such assets for the benefit of the FDIC or its designee at such time as any such asset is placed with the depository, as follows:
+(d) *Assets that may be pledged.* (1) This paragraph sets forth the kinds of assets that may be pledged to satisfy the requirements of this section. A foreign bank shall be deemed to have pledged any such assets for the benefit of the FDIC or its designee at such time as any such asset is placed with the depository. The FDIC reserves the right to require the substitution of pledged assets with other assets deemed acceptable to the FDIC.
 
-(1)(i) Negotiable certificates of deposit that are payable in the United States and that are issued by any state bank, national bank, state or federal savings association, or branch of a foreign bank which has executed a valid waiver of offset agreement or similar debt instruments that are payable in the United States and that are issued by any agency of a foreign bank which has executed a valid waiver of offset agreement; provided, that the maturity of any certificate or issuance is not greater than one year; and provided further, that the issuing branch or agency of a foreign bank is not an affiliate of the pledging bank or from the same country as the pledging bank's domicile;
+(2) A foreign bank may pledge the kinds of assets set forth in this paragraph (d)(2), provided that: Such assets are denominated in United States dollars; such assets are investment grade, as that term is defined in § 347.202(r); and such assets are highly liquid, as that term is defined in § 347.202(l). Furthermore, for the purposes of calculating the amount of assets required to be pledged under paragraph (b) of this section, the assets that are eligible for pledging under this paragraph (d)(2) must be discounted at the rates set forth in Table 1 to § 347.209.
 
-(ii) Non-negotiable certificates of deposit, subject to the terms specified in paragraph (d)(1)(i) of this section other than the requirement of negotiability, that were pledged as collateral to the FDIC on March 18, 2005, until maturity according to the original terms of the existing deposit agreement.
+(i) Cash;
 
-(2) Treasury bills, interest bearing bonds, notes, debentures, or other direct obligations of or obligations fully guaranteed as to principal and interest by the United States or any agency or instrumentality thereof;
+(ii) Treasury bills, interest bearing bonds, notes, debentures, or other direct obligations of or obligations fully guaranteed as to principal and interest by the United States or any agency thereof;
 
-(3) Commercial paper that is rated P-1 or P-2, or their equivalent by a nationally recognized rating service; provided, that any conflict in a rating shall be resolved in favor of the lower rating;
+(iii) Obligations of United States government-sponsored enterprises;
 
-(4) Banker's acceptances that are payable in the United States and that are issued by any state bank, national bank, state or federal savings association, or branch or agency of a foreign bank; provided, that the maturity of any acceptance is not greater than 180 days; and provided further, that the branch or agency issuing the acceptance is not an affiliate of the pledging bank or from the same country as the pledging bank's domicile;
+(iv) Negotiable certificates of deposit that are payable in the United States and that are issued by any state bank, national bank, state or federal savings association, or branch of a foreign bank which has executed a valid waiver of offset agreement or similar debt instruments that are payable in the United States and that are issued by any agency of a foreign bank which has executed a valid waiver of offset agreement; provided, that the maturity of any certificate or issuance is not greater than one year; and provided further, that the issuing branch or agency of a foreign bank is not an affiliate of the pledging bank or from the same country as the pledging bank's domicile;
 
-(5) General obligations of any state of the United States, or any county or municipality of any state of the United States, or any agency, instrumentality, or political subdivision of the foregoing or any obligation guaranteed by a state of the United States or any county or municipality of any state of the United States; provided, that such obligations have a credit rating within the top two rating bands of a nationally recognized rating service (with any conflict in a rating resolved in favor of the lower rating);
+(v) Obligations of the African Development Bank, Asian Development Bank, Inter-American Development Bank, and the International Bank for Reconstruction and Development;
 
-(6) Obligations of the African Development Bank, Asian Development Bank, Inter-American Development Bank, and the International Bank for Reconstruction and Development;
+(vi) Commercial paper;
 
-(7) Notes issued by bank and thrift holding companies, banks, or savings associations organized under the laws of the United States or any state thereof or notes issued by United States branches or agencies of foreign banks, provided, that the notes have a credit rating within the top two rating bands of a nationally recognized rating service (with any conflict in a rating resolved in favor of the lower rating) and that they are payable in the United States, and provided further, that the issuer is not an affiliate of the foreign bank pledging the note; or
+(vii) Notes issued by bank and savings and loan holding companies, banks, or savings associations organized under the laws of the United States or any state thereof or notes issued by branches or agencies of foreign banks, provided that the notes are payable in the United States, and provided further, that the issuing branch or agency of a foreign bank is not an affiliate of the pledging bank or from the same country as the pledging bank's domicile;
 
-(8) Any other asset determined by the FDIC to be acceptable.
+(viii) Banker's acceptances that are payable in the United States and that are issued by any state bank, national bank, state or federal savings association, or branch or agency of a foreign bank; provided, that the maturity of any acceptance is not greater than 180 days; and provided further, that the branch or agency issuing the acceptance is not an affiliate of the pledging bank or from the same country as the pledging bank's domicile;
+
+(ix) General obligations of any state of the United States, or any county or municipality of any state of the United States, or any agency, instrumentality, or political subdivision of the foregoing or any obligation guaranteed by a state of the United States or any county or municipality of any state of the United States;
+
+(x) Any other asset determined by the FDIC to be acceptable.
 
 (e) *Pledge agreement.* A foreign bank shall not pledge any assets unless a pledge agreement in form and substance satisfactory to the FDIC has been executed by the foreign bank and the depository. The agreement, in addition to other terms not inconsistent with this paragraph (e), shall give effect to the following terms:
 
@@ -71,7 +73,7 @@ The appropriate asset pledge percentage will be determined based on the supervis
 
 (ii) The depository shall hold any such assets separate from all other assets of the foreign bank or the depository. Such assets may be held in book-entry form but must at all times be segregated on the records of the depository and clearly identified as assets subject to the pledge agreement.
 
-(6) *Reporting requirements of the insured branch and the depository.* (i) Initial reports. Upon the original pledge of assets as provided in paragraph (e)(1) of this section:
+(6) *Reporting requirements of the insured branch and the depository*—(i) *Initial reports.* Upon the original pledge of assets as provided in paragraph (e)(1) of this section:
 
 (A) The depository shall provide to the foreign bank and to the appropriate FDIC regional director a written report in the form of a receipt identifying each asset pledged and specifying in reasonable detail with respect to each such asset the complete title, interest rate, series, serial number (if any), principal amount (par value), maturity date and call date; and
 
@@ -103,4 +105,12 @@ The appropriate asset pledge percentage will be determined based on the supervis
 
 (13) *Waiver of terms.* The FDIC may by written order waive compliance by the foreign bank or the depository with any term or condition of the pledge agreement.
 
-[70 FR 17560, Apr. 6, 2005; 70 FR 20704, Apr. 21, 2005, as amended at 71 FR 20527, Apr. 21, 2006]
+|                 Remaining maturity                  |Haircut % assigned based on maturity and risk weight|   |    |    |
+|-----------------------------------------------------|----------------------------------------------------|---|----|----|
+|Risk weight (%) by issuer as specified in part 324.32|                                                    |   |    |    |
+|                         0%                          |                        20%                         |50%|100%|    |
+|                     ≤to 1 Year                      |                         0                          |1.0|2.0 |4.0 |
+|                \>1 Year but ≤5 Years                |                         0                          |4.0|6.0 |8.0 |
+|                      \>5 years                      |                         0                          |8.0|12.0|16.0|
+
+[70 FR 17560, Apr. 6, 2005; 70 FR 20704, Apr. 21, 2005, as amended at 71 FR 20527, Apr. 21, 2006; 83 FR 9143, Mar. 5, 2018]

@@ -14,7 +14,7 @@
 
 (3) The manufacturer of such a laser product, if manufactured after August 20, 1986:
 
-(i) Registers, and provides a listing by type of such laser products manufactured that includes the product name, model number and laser medium or emitted wavelength(s), and the name and address of the manufacturer. The manufacturer must submit the registration and listing to the Food and Drug Administration, Center for Devices and Radiological Health, Director, Office of Compliance, 10903 New Hampshire Ave., Bldg. 66, rm. 3521, Silver Spring, MD 20993-0002.
+(i) Registers, and provides a listing by type of such laser products manufactured that includes the product name, model number, and laser medium or emitted wavelength(s), and the name and address of the manufacturer. The manufacturer must submit the registration and listing to the Director, Center for Devices and Radiological Health, Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 66, Silver Spring, MD 20993-0002.
 
 (ii) Maintains and allows access to any sales, shipping, or distribution records that identify the purchaser of such a laser product by name and address, the product by type, the number of units sold, and the date of sale (shipment). These records shall be maintained and made available as specified in § 1002.31.
 
@@ -122,7 +122,7 @@
 
 (42) *Wavelength* means the propagation wavelength in air of electromagnetic radiation.
 
-(c) *Classification of laser products* - (1) *All laser products.* Each laser product shall be classified in Class I, IIa, II, IIIa, IIIb, or IV in accordance with definitions set forth in paragraphs (b) (5) through (11) of this section. The product classification shall be based on the highest accessible emission level(s) of laser radiation to which human access is possible during operation in accordance with paragraphs (d), (e), and (f)(1) of this section.
+(c) *Classification of laser products*—(1) *All laser products.* Each laser product shall be classified in Class I, IIa, II, IIIa, IIIb, or IV in accordance with definitions set forth in paragraphs (b) (5) through (11) of this section. The product classification shall be based on the highest accessible emission level(s) of laser radiation to which human access is possible during operation in accordance with paragraphs (d), (e), and (f)(1) of this section.
 
 (2) *Removable laser systems.* Any laser system that is incorporated into a laser product subject to the requirements of this section and that is capable, without modification, of producing laser radiation when removed from such laser product, shall itself be considered a laser product and shall be separately subject to the applicable requirements in this subchapter for laser products of its class. It shall be classified on the basis of accessible emission of laser radiation when so removed.
 
@@ -148,7 +148,7 @@ Notes applicable to tables I, II-A, II, III-A and III-B:
 
 (ii) The Class I accessible emission limits for integrated radiance within any range of emission duration specified in table I of this paragraph.
 
-(e) *Tests for determination of compliance* - (1) *Tests for certification.* Tests on which certification under § 1010.2 is based shall account for all errors and statistical uncertainties in the measurement process. Because compliance with the standard is required for the useful life of a product such tests shall also account for increases in emission and degradation in radiation safety with age.
+(e) *Tests for determination of compliance*—(1) *Tests for certification.* Tests on which certification under § 1010.2 is based shall account for all errors and statistical uncertainties in the measurement process. Because compliance with the standard is required for the useful life of a product such tests shall also account for increases in emission and degradation in radiation safety with age.
 
 (2) *Test conditions.* Except as provided in § 1010.13, tests for compliance with each of the applicable requirements of this section and § 1040.11 shall be made during operation, maintenance, or service as appropriate:
 
@@ -170,7 +170,7 @@ Notes applicable to tables I, II-A, II, III-A and III-B:
 
 (iii) The radiance (W cm−2 sr−1) or integrated radiance (J cm−2 sr−1) equivalent to the radiant power (W) or radiant energy (J) detectable through a circular aperture stop having a diameter of 7 millimeters and within a circular solid angle of acceptance of 1 × 10−5 steradian with collimating optics of 5 diopters or less, divided by that solid angle (sr) and by the area of the aperture stop (cm−2).
 
-(f) *Performance requirements* - (1) *Protective housing.* Each laser product shall have a protective housing that prevents human access during operation to laser and collateral radiation that exceed the limits of Class I and table VI, respectively, wherever and whenever such human access is not necessary for the product to perform its intended function. Wherever and whenever human access to laser radiation levels that exceed the limits of Class I is necessary, these levels shall not exceed the limits of the lowest class necessary to perform the intended function(s) of the product.
+(f) *Performance requirements*—(1) *Protective housing.* Each laser product shall have a protective housing that prevents human access during operation to laser and collateral radiation that exceed the limits of Class I and table VI, respectively, wherever and whenever such human access is not necessary for the product to perform its intended function. Wherever and whenever human access to laser radiation levels that exceed the limits of Class I is necessary, these levels shall not exceed the limits of the lowest class necessary to perform the intended function(s) of the product.
 
 (2) *Safety interlocks.* (i) Each laser product, regardless of its class, shall be provided with at least one safety interlock for each portion of the protective housing which is designed to be removed or displaced during operation or maintenance, if removal or displacement of the protective housing could permit, in the absence of such interlock(s), human access to laser or collateral radiation in excess of the accessible emission limit applicable under paragraph (f)(1) of this section.
 
@@ -202,7 +202,7 @@ Notes applicable to tables I, II-A, II, III-A and III-B:
 
 (6) *Beam attenuator.* (i) Each laser system classified as a Class II, III, or IV laser product shall be provided with one or more permanently attached means, other than laser energy source switch(es), electrical supply main connectors, or the key-actuated master control, capable of preventing access by any part of the human body to all laser and collateral radiation in excess of the accessible emission limits of Class I and table VI.
 
-(ii) If the configuration, design, or function of the laser product would make unnecessary compliance with the requirement in paragraph (f)(6)(i) of this section, the Director, Office of Compliance (HFZ-300), Center for Devices and Radiological Health, may, upon written application by the manufacturer, approve alternate means to accomplish the radiation protection provided by the beam attenuator.
+(ii) If the configuration, design, or function of the laser product would make unnecessary compliance with the requirement in paragraph (f)(6)(i) of this section, the Director, Center for Devices and Radiological Health, may, upon written application by the manufacturer, approve alternate means to accomplish the radiation protection provided by the beam attenuator.
 
 (7) *Location of controls.* Each Class IIa, II, III, or IV laser product shall have operational and adjustment controls located so that human exposure to laser or collateral radiation in excess of the accessible emission limits of Class I and table VI is unnecessary for operation or adjustment of such controls.
 
@@ -222,69 +222,69 @@ Notes applicable to tables I, II-A, II, III-A and III-B:
 
 (g) *Labeling requirements.* In addition to the requirements of §§ 1010.2 and 1010.3, each laser product shall be subject to the applicable labeling requirements of this paragraph.
 
-(1) *Class IIa and II designations and warnings.* (i) Each Class IIa laser product shall have affixed a label bearing the following wording: “Class IIa Laser Product - Avoid Long-Term Viewing of Direct Laser Radiation.”
+(1) *Class IIa and II designations and warnings.* (i) Each Class IIa laser product shall have affixed a label bearing the following wording: “Class IIa Laser Product—Avoid Long-Term Viewing of Direct Laser Radiation.”
 
 (ii) Each Class II laser product shall have affixed a label bearing the warning logotype A (figure 1 in this paragraph) and including the following wording:
 
-[Position I on the logotype]“LASER RADIATION - DO NOT STARE INTO BEAM”; and[Position 3 on the logotype]“CLASS II LASER PRODUCT”.![](/graphics/er01fe93.037.gif)
+[Position I on the logotype]“LASER RADIATION—DO NOT STARE INTO BEAM”; and[Position 3 on the logotype]“CLASS II LASER PRODUCT”.![](/graphics/er01fe93.037.gif)
 
 (2) *Class IIIa and IIIb designations and warnings.* (i) Each Class IIIa laser product with an irradiance less than or equal to 2.5 × 10−3 W cm2− shall have affixed a label bearing the warning logotype A (figure 1 of paragraph (g)(1)(ii) of this section) and including the following wording:
 
-[Position 1 on the logotype]“LASER RADIATION - DO NOT STARE INTO BEAM OR VIEW DIRECTLY WITH OPTICAL INSTRUMENTS”; and,[Position 3 on the logotype]“CLASS IIIa LASER PRODUCT”.
+[Position 1 on the logotype]“LASER RADIATION—DO NOT STARE INTO BEAM OR VIEW DIRECTLY WITH OPTICAL INSTRUMENTS”; and,[Position 3 on the logotype]“CLASS IIIa LASER PRODUCT”.
 
 (ii) Each Class IIIa laser product with an irradiance greater than 2.5 × 10−3 W cm−2 shall have affixed a label bearing the warning logotype B (figure 2 in this paragraph) and including the following wording:
 
-[Position 1 on the logotype]“LASER RADIATION - AVOID DIRECT EYE EXPOSURE”; and,[Position 3 on the logotype]“CLASS IIIa LASER PRODUCT”.![](/graphics/er01fe93.038.gif)
+[Position 1 on the logotype]“LASER RADIATION—AVOID DIRECT EYE EXPOSURE”; and,[Position 3 on the logotype]“CLASS IIIa LASER PRODUCT”.![](/graphics/er01fe93.038.gif)
 
 (iii) Each Class IIIb laser product shall have affixed a label bearing the warning logotype B (figure 2 of paragraph (g)(2)(ii) of this section) and including the following wording:
 
-[Position 1 on the logotype]“LASER RADIATION - AVOID DIRECT EXPOSURE TO BEAM”; and,[Position 3 on the logotype]“CLASS IIIb LASER PRODUCT”.
+[Position 1 on the logotype]“LASER RADIATION—AVOID DIRECT EXPOSURE TO BEAM”; and,[Position 3 on the logotype]“CLASS IIIb LASER PRODUCT”.
 
 (3) *Class IV designation and warning.* Each Class IV laser product shall have affixed a label bearing the warning logotype B (figure 2 of paragraph (g)(2)(ii) of this section), and including the following wording:
 
-[Position 1 on the logotype]“LASER RADIATION - AVOID EYE OR SKIN EXPOSURE TO DIRECT OR SCATTERED RADIATION”; and,[Position 3 on the logotype]“CLASS IV LASER PRODUCT”.
+[Position 1 on the logotype]“LASER RADIATION—AVOID EYE OR SKIN EXPOSURE TO DIRECT OR SCATTERED RADIATION”; and,[Position 3 on the logotype]“CLASS IV LASER PRODUCT”.
 
 (4) *Radiation output information on warning logotype.* Each Class II, III, and IV laser product shall state in appropriate units, at position 2 on the required warning logotype, the maximum output of laser radiation, the pulse duration when appropriate, and the laser medium or emitted wavelength(s).
 
 (5) *Aperture label.* Each laser product, except medical laser products and Class IIa laser products, shall have affixed, in close proximity to each aperture through which is emitted accessible laser or collateral radiation in excess of the accessible emission limits of Class I and table VI of paragraph (d) of this section, a label(s) bearing the following wording as applicable.
 
-(i) “AVOID EXPOSURE - Laser radiation is emitted from this aperture,” if the radiation emitted through such aperture is laser radiation.
+(i) “AVOID EXPOSURE—Laser radiation is emitted from this aperture,” if the radiation emitted through such aperture is laser radiation.
 
-(ii) “AVOID EXPOSURE - Hazardous electromagnetic radiation is emitted from this aperture,” if the radiation emitted through such aperture is collateral radiation described in table VI, item 1.
+(ii) “AVOID EXPOSURE—Hazardous electromagnetic radiation is emitted from this aperture,” if the radiation emitted through such aperture is collateral radiation described in table VI, item 1.
 
-(iii) “AVOID EXPOSURE - Hazardous x-rays are emitted from this aperture,” if the radiation emitted through such aperture is collateral radiation described in table VI, item 2.
+(iii) “AVOID EXPOSURE—Hazardous x-rays are emitted from this aperture,” if the radiation emitted through such aperture is collateral radiation described in table VI, item 2.
 
 (6) *Labels for noninterlocked protective housings.* For each laser product, labels shall be provided for each portion of the protective housing which has no safety interlock and which is designed to be displaced or removed during operation, maintenance, or service, and thereby could permit human access to laser or collateral radiation in excess of the limits of Class I and table VI. Such labels shall be visible on the protective housing prior to displacement or removal of such portion of the protective housing and visible on the product in close proximity to the opening created by removal or displacement of such portion of the protective housing, and shall include the wording:
 
-(i) “CAUTION - Laser radiation when open. DO NOT STARE INTO BEAM.” for Class II accessible laser radiation.
+(i) “CAUTION—Laser radiation when open. DO NOT STARE INTO BEAM.” for Class II accessible laser radiation.
 
-(ii) “CAUTION - Laser radiation when open. DO NOT STARE INTO BEAM OR VIEW DIRECTLY WITH OPTICAL INSTRUMENTS.” for Class IIIa accessible laser radiation with an irradiance less than or equal to 2.5 × 10−3 W cm−2.
+(ii) “CAUTION—Laser radiation when open. DO NOT STARE INTO BEAM OR VIEW DIRECTLY WITH OPTICAL INSTRUMENTS.” for Class IIIa accessible laser radiation with an irradiance less than or equal to 2.5 × 10−3 W cm−2.
 
-(iii) “DANGER - Laser radiation when open. AVOID DIRECT EYE EXPOSURE.” for Class IIIa accessible laser radiation with an irradiance greater than 2.5 × 10−3 W cm−2.
+(iii) “DANGER—Laser radiation when open. AVOID DIRECT EYE EXPOSURE.” for Class IIIa accessible laser radiation with an irradiance greater than 2.5 × 10−3 W cm−2.
 
-(iv) “DANGER - Laser radiation when open. AVOID DIRECT EXPOSURE TO BEAM.” for Class IIIb accessible laser radiation.
+(iv) “DANGER—Laser radiation when open. AVOID DIRECT EXPOSURE TO BEAM.” for Class IIIb accessible laser radiation.
 
-(v) “DANGER - Laser radiation when open. AVOID EYE OR SKIN EXPOSURE TO DIRECT OR SCATTERED RADIATION.” for Class IV accessible laser radiation.
+(v) “DANGER—Laser radiation when open. AVOID EYE OR SKIN EXPOSURE TO DIRECT OR SCATTERED RADIATION.” for Class IV accessible laser radiation.
 
-(vi) “CAUTION - Hazardous electromagnetic radiation when open.” for collateral radiation in excess of the accessible emission limits in table VI, item 1 of paragraph (d) of this section.
+(vi) “CAUTION—Hazardous electromagnetic radiation when open.” for collateral radiation in excess of the accessible emission limits in table VI, item 1 of paragraph (d) of this section.
 
-(vii) “CAUTION - Hazardous x-rays when open.” for collateral radiation in excess of the accessible emission limits in table VI, item 2 of paragraph (d) of this section.
+(vii) “CAUTION—Hazardous x-rays when open.” for collateral radiation in excess of the accessible emission limits in table VI, item 2 of paragraph (d) of this section.
 
 (7) *Labels for defeatably interlocked protective housings.* For each laser product, labels shall be provided for each defeatably interlocked (as described in paragraph (f)(2)(iv) of this section) portion of the protective housing which is designed to be displaced or removed during operation, maintenance, or service, and which upon interlock defeat could permit human access to laser or collateral radiation in excess of the limits of Class I or table VI. Such labels shall be visible on the product prior to and during interlock defeat and in close proximity to the opening created by the removal or displacement of such portion of the protective housing, and shall include the wording:
 
-(i) “CAUTION - Laser radiation when open and interlock defeated. DO NOT STARE INTO BEAM.” for Class II accessible laser radiation.
+(i) “CAUTION—Laser radiation when open and interlock defeated. DO NOT STARE INTO BEAM.” for Class II accessible laser radiation.
 
-(ii) “CAUTION - Laser radiation when open and interlock defeated. DO NOT STARE INTO BEAM OR VIEW DIRECTLY WITH OPTICAL INSTRUMENTS.” for Class IIIa accessible laser radiation with an irradiance less than or equal to 2.5 × 10−3 W cm−2.
+(ii) “CAUTION—Laser radiation when open and interlock defeated. DO NOT STARE INTO BEAM OR VIEW DIRECTLY WITH OPTICAL INSTRUMENTS.” for Class IIIa accessible laser radiation with an irradiance less than or equal to 2.5 × 10−3 W cm−2.
 
-(iii) “DANGER - Laser radiation when open and interlock defeated. AVOID DIRECT EYE EXPOSURE.” for Class IIIa accessible laser radiation when an irradiance greater than 2.5 × 10−3 W cm−2.
+(iii) “DANGER—Laser radiation when open and interlock defeated. AVOID DIRECT EYE EXPOSURE.” for Class IIIa accessible laser radiation when an irradiance greater than 2.5 × 10−3 W cm−2.
 
-(iv) “DANGER - Laser radiation when open and interlock defeated. AVOID DIRECT EXPOSURE TO BEAM.” for Class IIIb accessible laser radiation.
+(iv) “DANGER—Laser radiation when open and interlock defeated. AVOID DIRECT EXPOSURE TO BEAM.” for Class IIIb accessible laser radiation.
 
-(v) “DANGER - Laser radiation when open and interlock defeated. AVOID EYE OR SKIN EXPOSURE TO DIRECT OR SCATTERED RADIATION.” for Clas IV accessible laser radiation.
+(v) “DANGER—Laser radiation when open and interlock defeated. AVOID EYE OR SKIN EXPOSURE TO DIRECT OR SCATTERED RADIATION.” for Clas IV accessible laser radiation.
 
-(vi) “CAUTION - Hazardous electromagnetic radiation when open and interlock defeated.” for collateral radiation in excess of the accessible emission limits in table VI. item 1 of paragraph (d) of this section.
+(vi) “CAUTION—Hazardous electromagnetic radiation when open and interlock defeated.” for collateral radiation in excess of the accessible emission limits in table VI. item 1 of paragraph (d) of this section.
 
-(vii) “CAUTION - Hazardous x-rays when open and interlock defeated.” for collateral radiation in excess of the accesible emission limits in table VI. item 2 of paragraph (d) of this section.
+(vii) “CAUTION—Hazardous x-rays when open and interlock defeated.” for collateral radiation in excess of the accesible emission limits in table VI. item 2 of paragraph (d) of this section.
 
 (8) *Warning for visible and/or invisible radiation.* On the labels specified in this paragraph, if the laser or collateral radiation referred to is:
 
@@ -296,9 +296,9 @@ Notes applicable to tables I, II-A, II, III-A and III-B:
 
 (9) *Positioning of labels.* All labels affixed to a laser product shall be positioned so as to make unnecessary, during reading, human exposure to laser radiation in excess of the accessible emission limits of Class I radiation or the limits of collateral radiation established to table VI of paragraph (d) of this section.
 
-(10) *Label specifications.* Labels required by this section and § 1040.11 shall be permanently affixed to, or inscribed on, the laser product, legible, and clearly visible during operation, maintenance, or service, as appropriate. If the size, configuration, design, or function of the laser product would preclude compliance with the requirements for any required label or would render the required wording of such label inappropriate or ineffective, the Director, Office of Compliance (HFZ-300), Center for Devices and Radiological Health, on the Director's own initiative or upon written application by the manufacturer, may approve alternate means of providing such label(s) or alternate wording for such label(s) as applicable.
+(10) *Label specifications.* Labels required by this section and § 1040.11 shall be permanently affixed to, or inscribed on, the laser product, legible, and clearly visible during operation, maintenance, or service, as appropriate. If the size, configuration, design, or function of the laser product would preclude compliance with the requirements for any required label or would render the required wording of such label inappropriate or ineffective, the Director, Center for Devices and Radiological Health, on the Director's own initiative or upon written application by the manufacturer, may approve alternate means of providing such label(s) or alternate wording for such label(s) as applicable.
 
-(h) *Informational requirements* - (1) *User information.* Manufacturers of laser products shall provide as an integral part of any user instruction or operation manual which is regularly supplied with the product, or, if not so supplied, shall cause to be provided with each laser product:
+(h) *Informational requirements*—(1) *User information.* Manufacturers of laser products shall provide as an integral part of any user instruction or operation manual which is regularly supplied with the product, or, if not so supplied, shall cause to be provided with each laser product:
 
 (i) Adequate instructions for assembly, operation, and maintenance, including clear warnings concerning precautions to avoid possible exposure to laser and collateral radiation in excess of the accessible emission limits in tables I, II-A, II, III-A, III-B, and VI of paragraph (d) of this section, and a schedule of maintenance necessary to keep the product in compliance with this section and § 1040.11.
 
@@ -306,11 +306,11 @@ Notes applicable to tables I, II-A, II, III-A and III-B:
 
 (iii) Legible reproductions (color optional) of all labels and hazard warnings required by paragraph (g) of this section and § 1040.11 to be affixed to the laser product or provided with the laser product, including the information required for positions 1, 2, and 3 of the applicable logotype (figure 1 of paragraph (g)(1)(ii) or figure 2 or paragraph (g)(2)(ii) of this section). The corresponding position of each label affixed to the product shall be indicated or, if provided with the product, a statement that such labels could not be affixed to the product but were supplied with the product and a statement of the form and manner in which they were supplied shall be provided.
 
-(iv) A listing of all controls, adjustments, and procedures for operation and maintenance, including the warning “Caution - use of controls or adjustments or performance of procedures other than those specified herein may result in hazardous radiation exposure.”
+(iv) A listing of all controls, adjustments, and procedures for operation and maintenance, including the warning “Caution—use of controls or adjustments or performance of procedures other than those specified herein may result in hazardous radiation exposure.”
 
 (v) In the case of laser products other than laser systems, a statment of the compatibility requirements for a laser energy source that will assure compliance of the laser product with this section and § 1040.11.
 
-(vi) In the case of laser products classified with a 7 millimeter diameter aperture stop as provided in paragraph (e)(3)(i) of this section, if the use of a 50 millimeter diameter aperture stop would result in a higher classification of the product, the following warning shall be included in the user information: “CAUTION - The use of optical instruments with this product will increase eye hazard.”
+(vi) In the case of laser products classified with a 7 millimeter diameter aperture stop as provided in paragraph (e)(3)(i) of this section, if the use of a 50 millimeter diameter aperture stop would result in a higher classification of the product, the following warning shall be included in the user information: “CAUTION—The use of optical instruments with this product will increase eye hazard.”
 
 (2) *Purchasing and servicing information.* Manufacturers of laser products shall provide or cause to be provided:
 
@@ -320,4 +320,4 @@ Notes applicable to tables I, II-A, II, III-A and III-B:
 
 (i) *Modification of a certified product.* The modification of a laser product, previously certified under § 1010.2, by any person engaged in the business of manufacturing, assembling, or modifying laser products shall be construed as manufacturing under the act if the modification affects any aspect of the product's performance or intended function(s) for which this section and § 1040.11 have an applicable requirement. The manufacturer who performs such modification shall recertify and reidentify the product in accordance with the provisions of §§ 1010.2. and 1010.3.
 
-(The information collection requirements contained in paragraph (a)(3)(ii) were approved by the Office of Management and Budget under control number 0910-0176)[50 FR 33688, Aug. 20, 1985; 50 FR 42156, Oct. 18, 1985; 65 FR 17138, Mar. 31, 2000, as amended at 75 FR 20917, Apr. 22, 2010]
+(The information collection requirements contained in paragraph (a)(3)(ii) were approved by the Office of Management and Budget under control number 0910-0176)[50 FR 33688, Aug. 20, 1985; 50 FR 42156, Oct. 18, 1985; 65 FR 17138, Mar. 31, 2000, as amended at 75 FR 20917, Apr. 22, 2010; 83 FR 13864, Apr. 2, 2018]

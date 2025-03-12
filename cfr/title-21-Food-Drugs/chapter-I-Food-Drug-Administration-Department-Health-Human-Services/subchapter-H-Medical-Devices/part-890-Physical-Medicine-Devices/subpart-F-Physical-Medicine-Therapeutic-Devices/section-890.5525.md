@@ -1,16 +1,16 @@
 ##### § 890.5525 Iontophoresis device. #####
 
-(a) *Iontophoresis device intended for certain specified uses* - (1) *Identification.* An iontophoresis device is a device that is intended to use a direct current to introduce ions of soluble salts or other drugs into the body and induce sweating for use in the diagnosis of cystic fibrosis or for other uses if the labeling of the drug intended for use with the device bears adequate directions for the device's use with that drug. When used in the diagnosis of cystic fibrosis, the sweat is collected and its composition and weight are determined.
+(a) *Iontophoresis device intended for certain specified uses*—(1) *Identification.* An iontophoresis device is a device that is intended to use a direct current to introduce ions of soluble salts or other drugs into the body and induce sweating for use in the diagnosis of cystic fibrosis or for other uses if the labeling of the drug intended for use with the device bears adequate directions for the device's use with that drug. When used in the diagnosis of cystic fibrosis, the sweat is collected and its composition and weight are determined.
 
 (2) *Classification.* Class II (performance standards).
 
-(b) *Iontophoresis device intended for any other purposes* - (1) *Identification.* An iontophoresis device intended for any other purposes is a prescription device that is intended to use a current to introduce ions of drugs or non-drug solutions into the body for medical purposes other than those specified in paragraph (a) of this section, meaning that the device is not intended for use in diagnosis of cystic fibrosis, or a specific drug is not specified in the labeling of the iontophoresis device.
+(b) *Iontophoresis device intended for any other purposes*—(1) *Identification.* An iontophoresis device intended for any other purposes is a prescription device that is intended to use a current to introduce ions of drugs or non-drug solutions into the body for medical purposes other than those specified in paragraph (a) of this section, meaning that the device is not intended for use in diagnosis of cystic fibrosis, or a specific drug is not specified in the labeling of the iontophoresis device.
 
 (2) *Classification.* Class II (special controls). The device is classified as class II. The special controls for this device are:
 
 (i) The following performance testing must be conducted:
 
-(A) Testing using a drug approved for iontophoretic delivery, or a solution, if identified in the labeling, to demonstrate safe use of the device as intended;
+(A) Testing using a drug approved for iontophoretic delivery, or a solution if identified in the labeling, to demonstrate safe use of the device as intended;
 
 (B) Testing of the ability of the device to maintain a safe pH level; and
 
@@ -38,4 +38,4 @@
 
 (vii) Performance data must support the shelf life of the elements of the device that may be affected by aging by demonstrating continued package integrity and device functionality over the stated shelf life.
 
-[48 FR 53047, Nov. 23, 1983, as amended at 52 FR 17742, May 11, 1987; 81 FR 48706, July 26, 2016]
+[48 FR 53047, Nov. 23, 1983, as amended at 52 FR 17742, May 11, 1987; 81 FR 48706, July 26, 2016; 83 FR 13864, Apr. 2, 2018]

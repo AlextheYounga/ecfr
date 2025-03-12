@@ -1,6 +1,6 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 83 FR 10806, Mar. 13, 2018.Link to an amendment published at 83 FR 12861, Mar. 26, 2018.
+Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
@@ -158,11 +158,11 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.Link to an amendmen
 
 (*i*) The scallops were harvested by a vessel that has not been issued a scallop permit and fishes for scallops exclusively in state waters.
 
-(*ii*) The scallops were harvested by a vessel that has been issued and carries on board a limited access scallop permit and is properly declared into the scallop DAS or Area Access program.
+(*ii*) The scallops were harvested by a vessel that has been issued and carries on board a limited access scallop permit and is properly declared into the scallop DAS, Area Access program, or the NGOM management area.
 
 (*iii*) The scallops were harvested by a vessel that has been issued and carries on board an IFQ scallop permit and is properly declared into the IFQ scallop fishery or is properly declared into the NE multispecies, Atlantic surfclam or quahog fishery, or other fishery requiring a VMS declaration, and is not fishing in a sea scallop access area.
 
-(*iv*) The scallops were harvested by a vessel that has been issued and carries on board an NGOM or IFQ scallop permit, and is properly declared into the NGOM scallop management area, and the NGOM TAC specified in § 648.62 has been harvested.
+(*iv*) The scallops were harvested by a vessel that has been issued and carries on board an NGOM or IFQ scallop permit, and is properly declared into the NGOM scallop management area, and the LAGC portion of the NGOM TAC specified in § 648.62 has not been harvested.
 
 (*v*) [Reserved]
 
@@ -210,9 +210,9 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.Link to an amendmen
 
 (vii) *Scallop sectors.* Fail to comply with any of the requirements or restrictions for general category scallop sectors specified in § 648.63.
 
-(viii) *Scallop research.* (A) Fail to comply with any of the provisions specified in § 648.56.
+(viii) *Scallop research.* (A) Fail to comply with any of the provisions specified in § 648.56 or the conditions of a letter of authorization issued under § 648.56.
 
-(B) Fish for scallops in, or possess or land scallops from, the NGOM on a scallop research set-aside compensation trip as described in § 648.56(d).
+(B) Fish for scallops in, or possess or land scallops from the NGOM, unless allocated NGOM RSA allocation as described in § 648.56(d) and fishing on a scallop research set aside compensation trip.
 
 (ix) *Observer program.* (A) Refuse, or fail, to carry onboard an observer after being requested to by the Regional Administrator or the Regional Administrator's designee.
 
@@ -257,6 +257,8 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.Link to an amendmen
 (C) Fish for, possess, or land per trip, at any time, scallops in excess of any sea scallop possession and landing limit set by the Regional Administrator in accordance with § 648.59(b)(3) when properly declared into the Sea Scallop Area Access Program as described in § 648.59.
 
 (D) Fish for, possess, or land yellowtail flounder from a vessel on a scallop fishing trip.
+
+(E) Fish for, possess, or land scallops from the NGOM, unless on a scallop RSA compensation trip and allocated NGOM RSA allocation as described in § 648.56(d).
 
 (iv) *DAS.* (A) Fish for, possess, or land scallops after using up the vessel's annual DAS allocation and Access Area trip allocations, or when not properly declared into the DAS or an Area Access program pursuant to § 648.10, unless the vessel has been issued an LAGC scallop permit pursuant to § 648.4(a)(2)(ii) and is lawfully fishing in a LAGC scallop fishery, unless exempted from DAS allocations as provided in state waters exemption, specified in § 648.54.
 
@@ -310,9 +312,9 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.Link to an amendmen
 
 (B) Possess in-shell scallops while in possession of the maximum allowed amount of shucked scallops specified for each LAGC scallop permit category in § 648.52.
 
-(C) Declare into the NGOM scallop management area after the effective date of a notification published in the Federal Register stating that the NGOM scallop management area TAC has been harvested as specified in § 648.62, unless the vessel is fishing exclusively in state waters, declared a state-waters only NGOM trip, and is participating in an approved state waters exemption program as specified in § 648.54.
+(C) Declare into the NGOM scallop management area after the effective date of a notification published in the Federal Register stating that the LAGC portion of the NGOM scallop management area TAC has been harvested as specified in § 648.62, unless the vessel is fishing exclusively in state waters, declared a state-waters only NGOM trip, and is participating in an approved state waters exemption program as specified in § 648.54, or unless the vessel is participating in the scallop RSA program as specified in § 648.56.
 
-(D) Fish for, possess, or land scallops in or from the NGOM scallop management area after the effective date of a notification published in the Federal Register that the NGOM scallop management area TAC has been harvested, as specified in § 648.62, unless the vessel possesses or lands scallops that were harvested south of 42°20′ N. lat., the vessel is transiting the NGOM scallop management area, and the vessel's fishing gear is properly stowed and not available for immediate use in accordance with § 648.2 or unless the vessel is fishing exclusively in state waters, declared a state-waters only NGOM trip, and is participating in an approved state waters exemption program as specified in § 648.54.
+(D) Fish for, possess, or land scallops in or from the NGOM scallop management area after the effective date of a notification published in the Federal Register that the LAGC portion of the NGOM scallop management area TAC has been harvested, as specified in § 648.62, unless the vessel possesses or lands scallops that were harvested south of 42°20′ N lat., the vessel is transiting the NGOM scallop management area, and the vessel's fishing gear is properly stowed and not available for immediate use in accordance with § 648.2 or unless the vessel is fishing exclusively in state waters, declared a state-waters only NGOM trip, and is participating in an approved state waters exemption program as specified in § 648.54, or unless the vessel is participating in the scallop RSA program as specified in § 648.56.
 
 (iv) *VMS requirements.* (A) Fail to comply with any of the VMS requirements specified in §§ 648.10, 648.59, or 648.62.
 
