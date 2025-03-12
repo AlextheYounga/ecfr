@@ -1,5 +1,7 @@
 ##### § 17.607 Obligated service. #####
 
+Link to an amendment published at 85 FR 13053, Mar. 6, 2020.
+
 (a) *General.* Except as provided in paragraph (d) of this section, each participant is obligated to provide service as a Department of Veterans Affairs employee in full-time clinical practice in the participant's discipline in an assignment or location determined by the Secretary.
 
 (Authority: 38 U.S.C. 7616(a))

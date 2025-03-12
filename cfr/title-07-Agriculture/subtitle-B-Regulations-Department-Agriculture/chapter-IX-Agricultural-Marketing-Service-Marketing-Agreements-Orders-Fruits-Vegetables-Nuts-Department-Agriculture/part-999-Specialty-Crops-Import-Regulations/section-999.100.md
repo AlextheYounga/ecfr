@@ -1,5 +1,7 @@
 ##### § 999.100 Regulation governing imports of walnuts. #####
 
+Link to an amendment published at 85 FR 12996, Mar. 6, 2020.
+
 (a) *Definitions.* (1) *Walnuts* means all walnuts commonly known as English or Persian walnuts (Juglans regia).
 
 (2) *Inshell walnuts* means walnuts, the kernels or edible portions of which are contained in the shell.

@@ -2,6 +2,8 @@
 
 The terms and definitions in this section apply to NAP. The terms and definitions in part 718 of this title and part 1400 of this chapter also apply to NAP, except where those same terms are defined in this section. In that case, the terms and definitions of this section apply.
 
+*Abandoned* means to have discontinued care for a crop or provided care so insignificant as to provide no benefit to the crop, or failed to harvest in a timely manner.
+
 *Acres devoted to the eligible crop* means the total planted and considered planted (P&CP) acres of the eligible crop.
 
 *Additional coverage* means insurance coverage offered by the Federal Crop Insurance Corporation under sections 508(c) or 508(h) of the Federal Crop Insurance Act.
@@ -70,13 +72,27 @@ The terms and definitions in this section apply to NAP. The terms and definition
 
 *Harvested* means the producer has removed the crop from the field by hand, mechanically, or by grazing of livestock. The crop is considered harvested once it is removed from the field and placed in a truck or other conveyance or is consumed through the act of grazing. Crops normally placed in a truck or other conveyance and taken off the crop acreage, such as hay are considered harvested when in the bale, whether removed from the field or not.
 
+*Hemp* means the plant *Cannabis sativa L.* and any part of that plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a THC concentration of not more than 0.3 percent on a dry weight basis.
+
+*Hemp processor* means any business enterprise regularly engaged in processing hemp that possesses all licenses and permits for processing hemp required by the applicable state or Federal governing authority, and that possesses facilities, or has contractual access to such facilities with enough equipment to accept and process contracted hemp within a reasonable amount of time after harvest.
+
+*Hemp processor contract* means a legal written agreement executed between the producer and hemp processor engaged in the production and processing of hemp containing at a minimum:
+
+(1) The producer's promise to plant and grow hemp and to deliver all hemp to the hemp processor;
+
+(2) The hemp processor's promise to purchase the hemp produced by the producer; and
+
+(3) A base contract price, or method to derive a value that will be paid to the producer for the production as specified in the processor's contract.
+
+(4) For a producer who is also a hemp processor, a corporate resolution by the Board of Directors or officers of the hemp processor will be considered a hemp processor contract if it contains the required terms listed in this definition.
+
 *Industrial crop* means a commercial crop, or other agricultural commodity used in manufacturing or grown expressly for the purpose of producing a feedstock for renewable biofuel, renewable electricity, or biobased products. Industrial crops include castor beans, chia, crambe, crotalaria, cuphea, guar, guayule, hesperaloe, kenaf, lesquerella, meadowfoam, milkweed, plantago ovato, sesame, and other crops specifically designated by FSA. Industrial crops exclude any plant that FSA has determined to be either a noxious weed or an invasive species. A list of plants that are noxious weeds and invasive species will be available in the FSA county office.
 
 *Maximum dollar value for coverage sought* means the total dollar amount elected by the NAP covered participant for which buy-up coverage may be considered for a value loss crop in a coverage period. The amount is set by the NAP covered participant for each value loss crop and represents the highest amount of field market value of the crop before disaster in a coverage period.
 
 *Multiple planted* means the same crop is planted and harvested during two or more distinct planting periods in the same crop year, as determined by FSA.
 
-*Native sod* means land on which the natural state plant cover before tilling was composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing and is land that has never been tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that are provided by a producer and acceptable to FSA) for the production of an annual crop through February 7, 2014.
+*Native sod* means land on which the natural state plant cover before tilling was composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing and is land that has never been tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that are provided by a producer and acceptable to FSA).
 
 *Normal harvest date* means the date harvest of the crop is normally completed in the administrative county, as determined by FSA.
 
@@ -106,8 +122,10 @@ The terms and definitions in this section apply to NAP. The terms and definition
 
 *T-Yield* means the yield which is based on the county expected yield of the crop for the crop year and is used on an adjusted or unadjusted basis to calculate the approved yield for crops covered under the NAP when less than four years of actual, assigned, or appraised yields are available in the APH data base.
 
+*THC* means delta-9 tetrahydrocannabinol.
+
 *Transitional acreage* means acreage on which organic farming practices are being followed that does not yet qualify to be designated as organic acreage.
 
 *Transitional yield* means an estimated yield of that name provided in the Federal Crop Insurance Corporation (FCIC) actuarial table which is used to calculate an average/approved APH yield for crops insured under the Federal Crop Insurance Act when less than four years of actual, temporary, and/or assigned yields are available on a crop by county basis.
 
-[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13742, Mar. 17, 2006; 76 FR 4805, Jan. 27, 2011; 78 FR 21018, Apr. 9, 2013; 79 FR 74572, 74583, Dec. 15, 2014]
+[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13742, Mar. 17, 2006; 76 FR 4805, Jan. 27, 2011; 78 FR 21018, Apr. 9, 2013; 79 FR 74572, 74583, Dec. 15, 2014; 85 FR 12218, Mar. 2, 2020]

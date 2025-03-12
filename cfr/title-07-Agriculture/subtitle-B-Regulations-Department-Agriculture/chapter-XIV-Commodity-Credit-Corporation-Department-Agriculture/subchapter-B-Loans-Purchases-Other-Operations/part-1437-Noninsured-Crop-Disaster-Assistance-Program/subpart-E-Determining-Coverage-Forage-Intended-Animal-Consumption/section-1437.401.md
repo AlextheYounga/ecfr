@@ -14,7 +14,7 @@
 
 (1) The percentage of loss of similar mechanically-harvested forage acreage on the farm, or on similar farms in the area when approved yields have been calculated to determine loss; or
 
-(2) Where there is no similar mechanically-harvested forage acreage on the farm or similar farms in the area, the collective percentage of loss as determined by FSA for the geographical region after consideration of at least two independent assessments of grazed forage acreage conditions.
+(2) Where there is no similar mechanically-harvested forage acreage on the farm or similar farms in the area, the collective percentage of loss as determined by FSA for the geographical region after consideration of at least two independent assessments of grazed forage acreage conditions, or by alternative methods as determined by the Deputy Administrator.
 
 (i) The assessments must be completed by forage or range specialists in Federal, State, and local government agencies, educational institutions, and private companies not having a financial interest in the outcome of the assessment. Collective percentage of loss determined by FSA for the geographical region may be based on any or all the following methods as may be available and as determined appropriate by the Deputy Administrator:
 
@@ -30,4 +30,6 @@
 
 (ii) Neither the assessments themselves, nor collective loss percentages established in accordance with this section are subject to appeal. FSA's determinations of geographical area for assessments and collective grazing loss are generally applicable to all similarly situated participants farming in such defined geographical region.
 
-[79 FR 74582, Dec. 15, 2014]
+(g) For those NAP covered participants who seek to have a NAP payment determined based on paragraph (f)(2) of this section, a notice of loss under § 1437.11 will not be required; only an application for payment must be filed. Unless otherwise expressed by the NAP covered participant, FSA will presume the participant to want assistance for grazed forage determined according to paragraph (f)(2) of this section.
+
+[79 FR 74582, Dec. 15, 2014, as amended at 85 FR 12221, Mar. 2, 2020]

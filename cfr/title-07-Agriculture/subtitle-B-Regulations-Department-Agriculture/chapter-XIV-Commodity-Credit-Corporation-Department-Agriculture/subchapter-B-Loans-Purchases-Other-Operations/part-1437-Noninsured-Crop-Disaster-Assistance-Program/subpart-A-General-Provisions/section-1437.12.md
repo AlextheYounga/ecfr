@@ -12,13 +12,13 @@
 
 (b) For each crop and location (State or county or other location as determined appropriate by FSA), FSA will establish an average market price using the following method:
 
-(1) Obtaining market prices for each crop for the 5 consecutive crop years immediately preceding the crop year of coverage, if available; then
+(1) Obtaining market prices for each crop for the 5 consecutive crop years beginning with the most recent year for which price data is available; then
 
 (2) Dropping the crop years in the 5 consecutive crop years with the highest and lowest prices; and then
 
 (3) Averaging the prices for the remaining 3 crop years in the 5 consecutive crop years; and
 
-(4) If 5 crop years of data is not available for determining the average market price, FSA will use the best data available, as determined by FSA, for as many crop years of average market price data as possible within the 5 consecutive crop years immediately preceding the previous crop year and determine an average market price for the crop by computing a simple average of the prices for those years.
+(4) If 5 crop years of data is not available for determining the average market price, FSA will use the best data available, as determined by FSA, for as many crop years of average market price data as possible within the 5 consecutive crop years beginning with the most recent year for which price data is available and determine an average market price for the crop by computing a simple average of the prices for those years.
 
 (c) FSA will disregard small differences in prices for a crop based on different types or varieties or various intended uses. If FSA determines there is a significant amount of production being marketed in a location or region at significantly different prices, FSA will determine whether or not to establish different average market prices for subsequent crop years.
 
@@ -38,4 +38,4 @@
 
 (i) A final payment price will be determined by multiplying, as appropriate, the average market price determined in this section by the applicable payment factor (that is, harvested, unharvested, or prevented planting).
 
-[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13744, Mar. 17, 2006. Redesignated and amended at 79 FR 74574, 74578, 74583, Dec. 15, 2014]
+[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13744, Mar. 17, 2006. Redesignated and amended at 79 FR 74574, 74578, 74583, Dec. 15, 2014; 85 FR 12220, Mar. 2, 2020]

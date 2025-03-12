@@ -12,10 +12,4 @@
 
 (3) Provide an accurate accounting of the inventory, as required by FSA.
 
-(d) For coverage levels specified in § 1437.5(c), producers must pay a premium equal to the lesser of:
-
-(1) The producer's share, times the maximum dollar value for coverage sought, times the coverage level, times the average market price, times a 5.25 percent premium fee; or
-
-(2) A 5.25 percent premium fee times the applicable payment limitation.
-
-[67 FR 12448, Mar. 19, 2002, as amended at 78 FR 21019, Apr. 9, 2013; 79 FR 74581, 74583, Dec. 15, 2014]
+[67 FR 12448, Mar. 19, 2002, as amended at 78 FR 21019, Apr. 9, 2013; 79 FR 74581, 74583, Dec. 15, 2014; 85 FR 12221, Mar. 2, 2020]

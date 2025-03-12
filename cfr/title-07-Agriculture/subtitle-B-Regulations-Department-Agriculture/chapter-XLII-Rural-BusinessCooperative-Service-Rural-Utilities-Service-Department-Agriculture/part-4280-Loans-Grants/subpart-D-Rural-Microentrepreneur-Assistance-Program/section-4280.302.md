@@ -92,4 +92,4 @@
 
 (b) *Abbreviations.* The following abbreviations apply to the terms used in this subpart:
 
-FTE - Full-time employeeLLRF - Loan loss reserve fund.MDO - Microenterprise development organization.RMAP - Rural microentrepreneur assistance program.RMRF - Rural microloan revolving fund.TA - Technical assistance.[75 FR 30145, May 28, 2010, as amended at 75 FR 41696, July 19, 2010; 79 FR 76016, Dec. 19, 2014; 80 FR 9913, Feb. 24, 2015]]
+FTE - Full-time employeeLLRF - Loan loss reserve fund.MDO - Microenterprise development organization.RMAP - Rural microentrepreneur assistance program.RMRF - Rural microloan revolving fund.TA - Technical assistance.[75 FR 30145, May 28, 2010, as amended at 75 FR 41696, July 19, 2010; 79 FR 76016, Dec. 19, 2014; 80 FR 9913, Feb. 24, 2015]

@@ -1,5 +1,7 @@
 ##### § 648.84 Gear-marking requirements and gear restrictions. #####
 
+Link to an amendment published at 85 FR 13073, Mar. 6, 2020.
+
 (a) Bottom-tending fixed gear, including, but not limited to, gillnets and longlines designed for, capable of, or fishing for NE multispecies or monkfish, must have the name of the owner or vessel or the official number of that vessel permanently affixed to any buoys, gillnets, longlines, or other appropriate gear so that the name of the owner or vessel or the official number of the vessel is visible on the surface of the water.
 
 (b) Bottom-tending fixed gear, including, but not limited to gillnets or longline gear, must be marked so that the westernmost end (measuring the half compass circle from magnetic south through west to, and including, north) of the gear displays a standard 12-inch (30.5-cm) tetrahedral corner radar reflector and a pennant positioned on a staff at least 6 ft (1.8 m) above the buoy. The easternmost end (meaning the half compass circle from magnetic north through east to, and including, south) of the gear need display only the standard 12-inch (30.5-cm) tetrahedral radar reflector positioned in the same way.

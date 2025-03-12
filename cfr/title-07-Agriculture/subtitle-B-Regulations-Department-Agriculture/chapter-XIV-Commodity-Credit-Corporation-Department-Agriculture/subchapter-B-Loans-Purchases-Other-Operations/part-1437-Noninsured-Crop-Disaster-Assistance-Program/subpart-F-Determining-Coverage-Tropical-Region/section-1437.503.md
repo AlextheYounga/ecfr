@@ -1,6 +1,6 @@
 ##### § 1437.503 Covered losses and recordkeeping requirements for covered tropical crops. #####
 
-(a) Prevented planting coverage is not available for covered tropical crops, other than in Hawaii, Puerto Rico, and other areas approved by the Deputy Administrator, except as approved by the Deputy Administrator in special cases.
+(a) Prevented planting coverage is not available for covered tropical crops.
 
 (b) Except in Hawaii, Puerto Rico, and other areas approved by the Deputy Administrator, or as otherwise approved by the Deputy Administrator in individual cases, eligible causes of loss for covered tropical crops will only include hurricanes, typhoons, and named tropical storms.
 
@@ -10,4 +10,4 @@
 
 (2) A failure to maintain acceptable contemporaneous records throughout the crop year may be treated by FSA as grounds of ineligibility for benefits under this part.
 
-[71 FR 52739, Sept. 7, 2006, as amended at 78 FR 21019, Apr. 9, 2013; 79 FR 74583, Dec. 15, 2014]
+[71 FR 52739, Sept. 7, 2006, as amended at 78 FR 21019, Apr. 9, 2013; 79 FR 74583, Dec. 15, 2014; 85 FR 12221, Mar. 2, 2020]

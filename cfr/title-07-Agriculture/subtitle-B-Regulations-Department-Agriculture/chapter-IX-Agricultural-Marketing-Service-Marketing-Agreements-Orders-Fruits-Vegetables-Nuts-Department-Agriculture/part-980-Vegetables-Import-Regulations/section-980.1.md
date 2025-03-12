@@ -1,5 +1,7 @@
 ##### § 980.1 Import regulations; Irish potatoes. #####
 
+Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
+
 (a) *Findings and determinations with respect to imports of Irish potatoes.* (1) Pursuant to section 8e of the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601-674), it is hereby found that:
 
 (i) Grade, size, quality, and maturity regulations have been issued from time to time pursuant to the following marketing orders: No. 945 (part 945 of this chapter), No. 948 (part 948 of this chapter), No. 947 (part 947 of this chapter), No. 946 (part 946 of this chapter), and No. 953 (part 953 of this chapter).

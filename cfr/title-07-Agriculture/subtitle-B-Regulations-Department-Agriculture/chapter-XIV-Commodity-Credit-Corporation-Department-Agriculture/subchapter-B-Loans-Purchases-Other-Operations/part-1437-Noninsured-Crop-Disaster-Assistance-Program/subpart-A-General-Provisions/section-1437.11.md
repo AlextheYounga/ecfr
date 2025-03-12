@@ -1,12 +1,12 @@
 ##### § 1437.11 Notice of loss, appraisal requirements, and application for payment. #####
 
-(a) In addition to the written notice of loss requirements specified for all crops in paragraphs (b) and (c) of this section, for hand-harvested crops and for other crops determined by FSA, at least one producer having a share in the unit must notify FSA of the damage or loss through the administrative county office for the unit within 72 hours of the date damage or loss on the unit first becomes apparent. Notification required under this paragraph may be via telephone to the administrative county office during business hours or via written notice on a form prescribed by FSA as specified in paragraph (c) of this section.
+(a) In addition to the written notice of loss requirements specified for all crops in paragraphs (b) and (c) of this section, for hand-harvested or rapidly deteriorating crops and for other crops determined by FSA, at least one producer having a share in the unit must notify FSA of the damage or loss through the administrative county office for the unit within 72 hours of the date damage or loss on the unit first becomes apparent. Notification required under this paragraph may be via telephone to the administrative county office during business hours or via written notice on a form prescribed by FSA as specified in paragraph (c) of this section.
 
-(b) Unless written notice for hand-harvested crops has already been provided within 72 hours of date of damage or loss as specified in paragraphs (a) and (c) of this section, in case of damage to any NAP covered crop, at least one producer having a share in the unit must file a notice of loss in the administrative county office:
+(b) Unless written notice for hand-harvested or rapidly deteriorating crops has already been provided within 72 hours of date of damage or loss as specified in paragraphs (a) and (c) of this section, in case of damage to any NAP covered crop, at least one producer having a share in the unit must file a notice of loss in the administrative county office:
 
 (1) For prevented planting claims, within 15 days after the final planting date;
 
-(2) For low yield claims, the earlier of:
+(2) For low yield claims and value loss claims, the earlier of:
 
 (i) 15 days after the disaster occurrence or date of loss or damage to the crop first becomes apparent; or
 
@@ -56,7 +56,7 @@
 
 (i) No less than 15 calendar days before replanting or in the case of forage intended to be mechanically harvested, grazing of the crop acreage.
 
-(ii) Within 15 calendar days after the acreage is abandoned, for example, discontinued care for the crop or provided care so insignificant as to provide no benefit to the crop, as determined by FSA.
+(ii) Within 72 hours after the acreage is abandoned for hand-harvested or rapidly deteriorating crops, or within 15 calendar days after the acreage is abandoned for all other crops;
 
 (iii) No later than the normal harvest date of the crop, as determined by FSA.
 
@@ -96,4 +96,4 @@
 
 (2) The county committee or an authorized FSA representative the opportunity to determine that eligible disaster conditions caused the damage or loss.
 
-[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13743, Mar. 17, 2006. Redesignated and amended at 79 FR 74574, 74577, 74583, Dec. 15, 2014]
+[67 FR 12448, Mar. 19, 2002, as amended at 71 FR 13743, Mar. 17, 2006. Redesignated and amended at 79 FR 74574, 74577, 74583, Dec. 15, 2014; 85 FR 12220, Mar. 2, 2020]

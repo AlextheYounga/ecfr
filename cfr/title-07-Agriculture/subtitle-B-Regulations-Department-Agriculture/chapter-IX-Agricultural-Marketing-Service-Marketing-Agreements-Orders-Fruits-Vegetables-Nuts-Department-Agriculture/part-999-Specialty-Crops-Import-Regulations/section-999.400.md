@@ -1,5 +1,7 @@
 ##### § 999.400 Regulation governing the importation of filberts. #####
 
+Link to an amendment published at 85 FR 12996, Mar. 6, 2020.
+
 (a) *Definitions.* (1) *Filberts* means filberts or hazelnuts.
 
 (2) *Inshell filberts* means filberts, the kernels or edible portions of which are contained in the shell.

@@ -10,13 +10,11 @@
 
 (4) Determined by FSA to be eligible crops for which:
 
-(i) Catastrophic risk protection under the Federal Crop Insurance Act (7 U.S.C. 1508(b)) is not available;
+(i) Catastrophic risk protection and additional coverage under the Federal Crop Insurance Act (7 U.S.C. 1508(b), (c), and (h)) are not available or, if coverage is available, it is only available under a policy that provides coverage for specific intervals based on weather indexes or under a whole farm plan of insurance; or
 
-(ii) Additional coverage under the Federal Crop Insurance Act (7 U.S.C. 1508(c) or (h)) is not available (excluding pilot policies or plans of insurance) and for which the Deputy Administrator determines are appropriate for NAP coverage; or
+(ii) These specific practices for these crops are not included under the Federal Crop Insurance Act (7 U.S.C. 1508), but only when the Deputy Administrator determines in advance of a coverage period that the specific practice is appropriate for NAP coverage and is not available for coverage under Federal crop insurance.
 
-(iii) These specific practices for these crops are not included under the Federal Crop Insurance Act (7 U.S.C. 1508), but only when the Deputy Administrator determines in advance of a coverage period that the specific practice is appropriate for NAP coverage and is not available for coverage under Federal crop insurance.
-
-(iv) The producer applies good farming practices.
+(iii) The producer applies good farming practices.
 
 (b) When other conditions are met, NAP may be available for an eligible loss of:
 
@@ -48,14 +46,24 @@
 
 (x) Sea grass and sea oats.
 
-(c) Except as specified in paragraph (d) of this section, during the first 4 crop years of planting, as determined by the Secretary, native sod acreage in Iowa, Minnesota, Montana, Nebraska, North Dakota, and South Dakota that has been tilled for the production of an annual crop after February 7, 2014, will be subject to the following:
+(c) Except as specified in paragraph (e) of this section, paragraph (d) of this section will apply to native sod acreage in Iowa, Minnesota, Montana, Nebraska, North Dakota, and South Dakota that has been tilled:
+
+(1) During the first 4 crop years of planting for native sod acreage that has been tilled for the production of an annual crop during the period beginning on February 8, 2014, and ending on December 20, 2018; and
+
+(2) For not more than any 4 crop years for native sod acreage that has been tilled for the production of any crop after December 20, 2018:
+
+(i) During the first 10 crop years after the initial tillage; and
+
+(ii) For which a NAP applicant must submit a service fee or NAP premium for a crop on that acreage.
+
+(d) For acreage specified in paragraph (c) of this section:
 
 (1) The approved yield will be determined by using a yield equal to 65 percent of the producer's T-yield for the annually planted crop; and
 
 (2) The service fee or premium for the annual covered crop planted on native sod will be equal to 200 percent of the amount determined in § 1437.7, as applicable, but the premium will not exceed the maximum amount specified in § 1437.7(d)(2).
 
-(d) If the producer's total native sod acreage that is tilled in a crop year is 5 acres or less, the approved yield, service fee, and premium provisions specified in paragraph (c) of this section will not apply.
+(e) If the producer's total native sod acreage that is tilled in a crop year is 5 acres or less, the approved yield, service fee, and premium provisions specified in paragraph (d) of this section will not apply.
 
-(e) Wheat, barley, oats, or triticale crop acreage subject to an application for grazing payments under the program specified in part 1421, subpart D of this chapter, or successor program, is ineligible for NAP payments.
+(f) Wheat, barley, oats, or triticale crop acreage subject to an application for grazing payments under the program specified in part 1421, subpart D of this chapter, or successor program, is ineligible for NAP payments.
 
-[67 FR 12448, Mar. 19, 2002, as amended at 67 FR 62324, Oct. 7, 2002; 71 FR 13742, Mar. 17, 2006; 78 FR 21018, Apr. 9, 2013; 79 FR 74573, 74583, Dec. 15, 2014]
+[67 FR 12448, Mar. 19, 2002, as amended at 67 FR 62324, Oct. 7, 2002; 71 FR 13742, Mar. 17, 2006; 78 FR 21018, Apr. 9, 2013; 79 FR 74573, 74583, Dec. 15, 2014; 85 FR 12218, Mar. 2, 2020]

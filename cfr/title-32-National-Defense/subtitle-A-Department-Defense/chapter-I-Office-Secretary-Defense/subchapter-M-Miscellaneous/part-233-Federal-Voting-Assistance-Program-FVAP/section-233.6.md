@@ -90,7 +90,9 @@
 
 (4) Revise all voting assistance program instructions and procedures to incorporate the provisions of this part.
 
-(c) *Executive Department and Agency Procedures.* (1) Federal Executive departments and agencies, including, but not limited to, the Department of State, the Department of Commerce, and the Department of Health and Human Services, are encouraged to adopt regulations and procedures that conform to this part to the maximum extent practicable, consistent with their organizational missions. By doing so, the FVAP will be able to assist the Executive departments, agencies, and their voting constituencies to the maximum extent.
+(5) Establish a DoD Component-wide means to communicate effectively with and expeditiously disseminate voting information to Commanders, VAOs, and uniformed services and overseas DoD civilian members of the DoD Component and their voting age dependents. This communication effort should be coordinated with the FVAP.
+
+(c) *Executive Department and Agency Procedures.* (1) Federal Executive departments and agencies, including, but not limited to, the Department of State, the Department of Commerce, and the Department of Health and Human Services, shall enter into agreements with the Presidential designee to adopt regulations and procedures that conform to this part to the maximum extent practicable, consistent with their organizational missions. By doing so, the FVAP will be able to assist the Executive departments, agencies, and their voting constituencies to the maximum extent.
 
 (2) The head of each Government department, agency, or other entity shall distribute balloting materials and develop a non-partisan program of information and education for all employees and family members pursuant to 52 U.S.C. 20301(c).
 
@@ -106,4 +108,4 @@
 
 (vi) Department of State and the Military Service voting action officers shall assist, as requested, installation, embassy and consulate VAOs with post-election surveys of U.S. civilians outside of the United States.
 
-[77 FR 57487, Sept. 18, 2012, as amended at 84 FR 59722, Nov. 6, 2019]
+[77 FR 57487, Sept. 18, 2012, as amended at 84 FR 59722, Nov. 6, 2019; 85 FR 13047, Mar. 6, 2020]

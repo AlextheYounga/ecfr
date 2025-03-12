@@ -1,5 +1,7 @@
 ##### § 999.300 Regulation governing importation of raisins. #####
 
+Link to an amendment published at 85 FR 12996, Mar. 6, 2020.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Raisins* means grapes from which a part of the natural moisture has been removed.

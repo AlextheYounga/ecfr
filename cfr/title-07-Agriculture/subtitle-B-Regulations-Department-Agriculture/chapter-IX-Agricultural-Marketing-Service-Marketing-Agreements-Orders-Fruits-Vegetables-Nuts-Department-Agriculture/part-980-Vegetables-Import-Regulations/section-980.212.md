@@ -1,5 +1,7 @@
 ##### § 980.212 Import regulations; tomatoes. #####
 
+Link to an amendment published at 85 FR 12995, Mar. 6, 2020.
+
 (a) *Findings and determinations with respect to fresh tomatoes.* (1) Under Section 8e of the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601-674), it is hereby found that:
 
 (i) Grade, size, quality and maturity regulations have been issued from time to time under Marketing Order No. 966, as amended;

@@ -1,10 +1,8 @@
 ##### § 416.621 What is our order of preference in selecting a representative payee for you? #####
 
-Link to an amendment published at 85 FR 7665, Feb. 11, 2020.
+As a guide in selecting a representative payee, we have established categories of preferred payees. These preferences are flexible. We will consider an individual's advance designees (see § 416.618) before we consider other potential representative payees in the categories of preferred payees listed in this section. When we select a representative payee, we will choose the designee of the beneficiary's highest priority, provided that the designee is willing and able to serve, is not prohibited from serving (see § 416.622), and supports the best interest of the beneficiary (see § 416.620). The preferences are:
 
-As a guide in selecting a representative payee, categories of preferred payees have been established. These preferences are flexible. Our primary concern is to select the payee who will best serve the beneficiary's interests. The preferences are:
-
-(a) For beneficiaries 18 years old or older (except those described in paragraph (b) of this section), our preference is -
+(a) For beneficiaries 18 years old or older (except those described in paragraph (b) of this section), our preference is—
 
 (1) A legal guardian, spouse (or other relative) who has custody of the beneficiary or who demonstrates strong concern for the personal welfare of the beneficiary;
 
@@ -16,7 +14,7 @@ As a guide in selecting a representative payee, categories of preferred payees h
 
 (5) Persons other than above who are qualified to carry out the responsibilities of a payee and who are able and willing to serve as a payee for the beneficiary; e.g., members of community groups or organizations who volunteer to serve as payee for a beneficiary.
 
-(b) For individuals who are disabled and who have a drug addiction or alcoholism condition our preference is -
+(b) For individuals who are disabled and who have a drug addiction or alcoholism condition our preference is—
 
 (1) A community-based nonprofit social service agency licensed by the State, or bonded;
 
@@ -28,7 +26,7 @@ As a guide in selecting a representative payee, categories of preferred payees h
 
 (5) A family member.
 
-(c) For beneficiaries under age 18, our preference is -
+(c) For beneficiaries under age 18, our preference is—
 
 (1) A natural or adoptive parent who has custody of the beneficiary, or a guardian;
 
@@ -44,4 +42,4 @@ As a guide in selecting a representative payee, categories of preferred payees h
 
 (7) An authorized social agency or custodial institution.
 
-[47 FR 30475, July 14, 1982, as amended at 69 FR 60237, Oct. 7, 2004]
+[47 FR 30475, July 14, 1982, as amended at 69 FR 60237, Oct. 7, 2004; 85 FR 7665, Feb. 11, 2020]

@@ -1,5 +1,7 @@
 ##### § 944.401 Olive Regulation 1. #####
 
+Link to an amendment published at 85 FR 12994, Mar. 6, 2020.
+
 (a) *Definitions.* (1) *Canned ripe olives* means olives in hermetically sealed containers and heat sterilized under pressure, of the two distinct types “ripe” and “green-ripe” as defined in the current U.S. Standards for Grades of Canned Ripe Olives. The term does not include Spanish-style green olives.
 
 (2) *Spanish-style green olives* means olives packed in brine and which have been fermented and cured, otherwise known as “green olives.”

@@ -12,7 +12,7 @@
 
 (3) Misrepresented any fact affecting a program determination.
 
-(d) All amounts paid by FSA to any such producer, applicable to the crop year in which a violation of this part occurs, must be refunded to FSA together with interest and other amounts as determined appropriate to the circumstances by FSA.
+(d) All amounts paid by FSA to any such producer, applicable to the crop year in which a violation of this part occurs, must be refunded to FSA together with interest and other amounts as determined appropriate to the circumstances by FSA. FSA may assess liquidated damages of 10 percent of the projected or received NAP payment for the crop or commodity in violation. Liquidated damages are in addition to any refund of program benefits and are not considered a penalty.
 
 (e) All persons with a financial interest in the operation receiving benefits under this part are jointly and severally liable for any refund, including related charges, which is determined to be due FSA for any reason under this part.
 
@@ -42,4 +42,4 @@
 
 (p) Unpaid debt related to the failure to pay any premium satisfied by administrative offset will reinstate the eligibility of a person or legal entity from the date the offset satisfies all the unpaid premium debt with interest.
 
-[67 FR 12448, Mar. 19, 2002. Redesignated and amended at 79 FR 74574, 74579, 74583, Dec. 15, 2014]
+[67 FR 12448, Mar. 19, 2002. Redesignated and amended at 79 FR 74574, 74579, 74583, Dec. 15, 2014; 85 FR 12220, Mar. 2, 2020]

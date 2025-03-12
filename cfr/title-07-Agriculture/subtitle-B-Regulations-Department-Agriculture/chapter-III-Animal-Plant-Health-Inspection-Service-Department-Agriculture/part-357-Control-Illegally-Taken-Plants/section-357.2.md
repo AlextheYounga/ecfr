@@ -32,6 +32,28 @@
 
 (iii) Pursuant to any State law that provides for the conservation of species that are indigenous to the State and are threatened with extinction.
 
-*Plant.* Any wild member of the plant kingdom, including roots, seeds, parts or products thereof, and including trees from either natural or planted forest stands.
+*Import.* To land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+
+*Person.* Any individual, partnership, association, corporation, trust, or any officer, employee, agent, department, or instrumentality of the Federal Government or of any State or political subdivision thereof, or any other entity subject to the jurisdiction of the United States.
+
+*Plant.* Any wild member of the plant kingdom, including roots, seeds, parts or products thereof, and including trees from either natural or planted forest stands. The term plant excludes:
+
+(1) Common cultivars, except trees, and common food crops (including roots, seeds, parts, or products thereof);
+
+(2) A scientific specimen of plant genetic material (including roots, seeds, germplasm, parts, or products thereof) that is to be used only for laboratory or field research; and
+
+(3) Any plant that is to remain planted or to be planted or replanted.
+
+(4) A plant is not eligible for these exclusions if it is listed:
+
+(i) In an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (27 UST 1087; TIAS 8249);
+
+(ii) As an endangered or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 *et seq.*); or
+
+(iii) Pursuant to any State law that provides for the conservation of species that are indigenous to the State and are threatened with extinction.
+
+*Taken.* Captured, killed, or collected, and with respect to a plant, also harvested, cut, logged, or removed.
 
 *Tree.* A woody perennial plant that has a well-defined stem or stems and a continuous cambium, and that exhibits true secondary growth.
+
+[78 FR 40944, July 9, 2013, as amended at 85 FR 12212, Mar. 2, 2020]

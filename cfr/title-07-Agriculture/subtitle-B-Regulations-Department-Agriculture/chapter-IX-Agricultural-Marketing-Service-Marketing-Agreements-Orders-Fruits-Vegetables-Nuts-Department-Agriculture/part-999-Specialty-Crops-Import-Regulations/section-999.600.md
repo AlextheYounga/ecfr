@@ -1,5 +1,7 @@
 ##### § 999.600 Regulation governing the importation of pistachios. #####
 
+Link to an amendment published at 85 FR 12996, Mar. 6, 2020.
+
 (a) *Definitions.* As used in this part:
 
 (1) *Aflatoxin* is one of a group of mycotoxins produced by the molds *Aspergillus flavus* and *Aspergillus parasiticus.* Aflatoxins are naturally occurring compounds produced by molds, which can be spread in improperly processed and stored nuts, dried fruits, and grains.

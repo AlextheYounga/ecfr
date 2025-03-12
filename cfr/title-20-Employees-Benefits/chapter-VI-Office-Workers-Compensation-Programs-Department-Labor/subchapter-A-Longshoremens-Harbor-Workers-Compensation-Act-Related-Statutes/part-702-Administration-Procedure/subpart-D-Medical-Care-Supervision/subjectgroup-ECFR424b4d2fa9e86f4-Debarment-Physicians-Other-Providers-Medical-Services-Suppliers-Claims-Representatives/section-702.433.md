@@ -1,5 +1,7 @@
 ##### § 702.433 Requests for hearing. #####
 
+Link to an amendment published at 85 FR 13030, Mar. 6, 2020.
+
 (a) A request for hearing must be sent to the district director and contain a concise notice of the issues on which the physician, health care provider or claims representative desires to give evidence at the hearing with identification of witnesses and documents to be submitted at the hearing.
 
 (b) If a request for hearing is timely received by the district director, the matter must be referred to the Chief Administrative Law Judge who must assign it for hearing with the assigned administrative law judge issuing a notice of hearing for the conduct of the hearing. A copy of the hearing notice must be served on the physician, health care provider or claims representative.

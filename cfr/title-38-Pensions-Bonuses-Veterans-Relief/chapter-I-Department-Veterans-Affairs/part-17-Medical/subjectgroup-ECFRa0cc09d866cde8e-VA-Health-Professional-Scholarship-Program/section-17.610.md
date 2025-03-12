@@ -1,5 +1,7 @@
 ##### § 17.610 Failure to comply with terms and conditions of participation. #####
 
+Link to an amendment published at 85 FR 13053, Mar. 6, 2020.
+
 (a) If a participant, other than one described in paragraph (b) of this section fails to accept payment or instructs the school not to accept payment of the scholarship provided by the Secretary, the participant must, in addition to any service or other obligation incurred under the contract, pay to the United States the amount of $1,500 liquidated damages. Payment of this amount must be made within 90 days of the date on which the participant fails to accept payment of the scholarship award or instructs the school not to accept payment.
 
 (Authority: 38 U.S.C. 7617(a))

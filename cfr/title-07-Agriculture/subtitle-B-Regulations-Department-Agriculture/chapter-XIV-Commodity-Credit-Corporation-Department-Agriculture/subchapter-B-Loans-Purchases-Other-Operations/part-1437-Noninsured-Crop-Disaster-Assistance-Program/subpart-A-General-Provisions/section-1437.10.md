@@ -20,9 +20,11 @@
 
 (vii) Excessive wind;
 
-(viii) Insufficient chill hours, but only for specific crops and locations for which FSA has determined in advance of a coverage period, based on FSA's review of sufficient scientific evidence that a requisite amount of chill hours is required for the crop to produce and a lack of chill hours is adverse to the crop's production without any regard to any management. In this context, “without regard to any management” means if a crop's inability to produce due to lack of chill hours can be mitigated by any managerial practices, application of chemical, or other management intervention, the lack of chill hours will not be included as an eligible cause of loss for the crop, In cases where FSA makes the decision to include insufficient chill hours as a cause of loss by itself for a crop and location, the crop and location and subsequent crop year coverage period for which the decision will apply will be specified in a list maintained by FSA. If the crop and location is not on that list, then insufficient chill hours can only be an eligible cause of loss if the insufficient chill hours were related to a damaging weather event or an adverse natural occurrence included in paragraphs (b)(1) or (2) of this section; or
+(viii) Lightning;
 
-(ix) Any combination of paragraphs (b)(1)(i) through (viii) of this section;
+(ix) Insufficient chill hours, but only for specific crops and locations for which FSA has determined in advance of a coverage period, based on FSA's review of sufficient scientific evidence that a requisite amount of chill hours is required for the crop to produce and a lack of chill hours is adverse to the crop's production without any regard to any management. In this context, “without regard to any management” means if a crop's inability to produce due to lack of chill hours can be mitigated by any managerial practices, application of chemical, or other management intervention, the lack of chill hours will not be included as an eligible cause of loss for the crop, In cases where FSA makes the decision to include insufficient chill hours as a cause of loss by itself for a crop and location, the crop and location and subsequent crop year coverage period for which the decision will apply will be specified in a list maintained by FSA. If the crop and location is not on that list, then insufficient chill hours can only be an eligible cause of loss if the insufficient chill hours were related to a damaging weather event or an adverse natural occurrence included in paragraphs (b)(1) or (2) of this section; or
+
+(x) Any combination of paragraphs (b)(1)(i) through (viii) of this section;
 
 (2) Adverse natural occurrence, including, but not limited to:
 
@@ -40,9 +42,11 @@
 
 (iii) Disease;
 
-(iv) Insufficient chill hours; or
+(iv) Insufficient chill hours;
 
-(v) Any combination thereof.
+(v) Wildfire; or
+
+(vi) Any combination thereof.
 
 (c) The damaging weather, adverse natural occurrence, or related condition as specified in paragraph (b) of this section must occur in the coverage period before or during harvest and directly cause, accelerate, or exacerbate destruction or deterioration of the eligible crop as determined by the county committee.
 
@@ -76,10 +80,12 @@
 
 (14) For crops grown using organic farming practices, failure to comply with organic standards;
 
-(15) Contamination by application or drift of prohibited substances onto land on which crops are grown using organic farming practices; or
+(15) Contamination by application or drift of prohibited substances onto land on which crops are grown using organic farming practices;
 
-(16) Weeds.
+(16) Weeds; or
+
+(17) Failure to harvest or market the crop due to lack of a sufficient plan or resources.
 
 (e) The lack of an eligible cause of loss during a coverage period is not a compliance matter or issue. NAP will not provide assistance for crops that do not suffer from an eligible cause of loss during a coverage period. The relief provisions of these regulations and of 7 CFR part 718 cannot be used to pay producers of crops that did not suffer from an eligible cause of loss during the coverage period.
 
-[79 FR 74576, Dec. 15, 2014]
+[79 FR 74576, Dec. 15, 2014, as amended at 85 FR 12220, Mar, 2, 2020]Editorial Note:At 85 FR 12220, Mar. 2, 2020, § 1437.10 was amended; however, the amendment in paragraph (b)(1)(ix) could not be incorporated due to inaccurate amendatory instruction.
