@@ -1,7 +1,5 @@
 ##### 212.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
-Link to an amendment published at 83 FR 62499, December 4, 2018.
-
 (c) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 
 (f) The following additional provisions and clauses apply to DoD solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items. If the offeror has completed any of the following provisions listed in this paragraph electronically as part of its annual representations and certifications at *https://www.acquisition.gov,* the contracting officer shall consider this information instead of requiring the offeror to complete these provisions for a particular solicitation.
@@ -92,9 +90,9 @@ Link to an amendment published at 83 FR 62499, December 4, 2018.
 
 (I) Use the clause at 252.225-7016, Restriction on Acquisition of Ball and Roller Bearings, as prescribed in 225.7009-5, to comply with section 8065 of Pub. L. 107-117 and the same restriction in subsequent DoD appropriations acts.
 
-(J) Use the clause at 252.225-7017, Photovoltaic Devices, as prescribed in 225.7017-5(a), to comply with section 858 of Public Law 113-291).
+(J) Use the clause at 252.225-7017, Photovoltaic Devices, as prescribed in 225.7017-4(a), to comply with section 846 of Public Law 111-383.
 
-(K) Use the provision at 252.225-7018, Photovoltaic Devices - Certificate, as prescribed in 225.7017-5(b), to comply with section 858 of Public Law 113-291.
+(K) Use the provision at 252.225-7018, Photovoltaic Devices - Certificate, as prescribed in 225.7017-4(b), to comply with section 846 of Public Law 111-383.
 
 (L) Use the provision at 252.225-7020, Trade Agreements Certificate, to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 3301 note. Alternate I also implements section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
@@ -232,4 +230,4 @@ Link to an amendment published at 83 FR 62499, December 4, 2018.
 
 (H) Use the clause at 252.247-7028, Application for U.S Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018]

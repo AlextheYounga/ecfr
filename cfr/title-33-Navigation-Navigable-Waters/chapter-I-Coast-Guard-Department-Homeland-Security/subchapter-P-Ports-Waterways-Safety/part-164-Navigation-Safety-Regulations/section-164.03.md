@@ -1,8 +1,6 @@
 ##### § 164.03 Incorporation by reference. #####
 
-Link to an amendment published at 83 FR 55281, Nov. 5, 2018.
-
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of the change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* Also, it is available for inspection at the Commandant (CG-NAV), U.S. Coast Guard Stop 7418, Attn: Office of Navigation Systems, 2703 Martin Luther King Jr. Ave. SE., Washington, DC 20593-7418, and is available from the sources listed below.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of the change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For more information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* Also, it is available for inspection at the Commandant (CG-NAV), U.S. Coast Guard Stop 7418, Attn: Office of Navigation Systems, 2703 Martin Luther King Jr. Ave. SE., Washington, DC 20593-7418, telephone 202-372-1565, and is available from the sources listed below.
 
 (b) American Petroleum Institute (API), 1220 L Street NW., Washington, DC 20005-4070, 202-682-8000, *www.api.org:*
 
@@ -54,4 +52,10 @@ Link to an amendment published at 83 FR 55281, Nov. 5, 2018.
 
 (3) RTCM Paper 191-93/SC112-X, RTCM Recommended Standards for Maritime Radar Equipment Installed on Ships of 300 Tons Gross Tonnage and Upwards, Version 1.2, December 20, 1993, IBR approved for § 164.72.
 
-[USCG-2005-21869, 80 FR 5334, Jan. 30, 2015, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015]
+(h) International Electrotechnical Commission (IEC), 3, rue de Varembe, Geneva, Switzerland, +41 22 919 02 11, *http://www.iec.ch/.* Email: *info@iec.ch.*
+
+(1) IEC 62065 (IEC 62065 2002-03), Maritime navigation and radiocommunication equipment and systems—Track control systems—Operational and performance requirements, methods of testing and required test results, First Edition, dated 2002, IBR approved for § 164.13(d).
+
+(2) IEC 62065 (IEC 62065 2014-02), Maritime navigation and radiocommunication equipment and systems—Track control systems—Operational and performance requirements, methods of testing and required test results, Edition 2.0, dated 2014, IBR approved for § 164.13(d).
+
+[USCG-2005-21869, 80 FR 5334, Jan. 30, 2015, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015; USCG-2015-0926, 83 FR 55281, Nov. 5, 2018]

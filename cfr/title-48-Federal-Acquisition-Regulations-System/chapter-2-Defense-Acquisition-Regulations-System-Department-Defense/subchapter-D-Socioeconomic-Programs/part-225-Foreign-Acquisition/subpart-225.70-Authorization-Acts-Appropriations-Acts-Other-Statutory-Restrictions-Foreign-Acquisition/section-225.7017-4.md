@@ -1,19 +1,9 @@
-##### 225.7017-4 Waivers. #####
+##### 225.7017-4 Solicitation provision and contract clause. #####
 
-Link to an amendment published at 83 FR 62500, December 4, 2018.
+(a)(1) Use the clause at 252.225-7017, Photovoltaic Devices, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, for a contract expected to exceed the simplified acquisition threshold that may be a covered contract, *i.e.,* an energy savings performance contract, a utility service contract, or a private housing contract awarded by DoD, if such contract will result in DoD ownership of photovoltaic devices, by means other than DoD purchase as end products.
 
-The head of the contracting activity is authorized to waive, on a case-by-case basis, the application of the restriction in 225.7017-2 upon determination that one of the following circumstances applies (see PGI 225.7017-4 for sample determinations and findings):
+(2) Use the clause in the resultant contract, including contracts using FAR part 12 procedures for the acquisition of commercial items, if it is a covered contract.
 
-(a) *Inconsistent with the public interest.* For example, a public interest waiver may be appropriate to allow -
+(b) Use the provision at 252.225-7018, Photovoltaic Devices - Certificate, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, that contain the clause at 252.225-7017.
 
-(1) Utilization of U.S.-made photovoltaic devices if the aggregate value of the photovoltaic devices to be utilized under the contract exceeds $180,000; or
-
-(2) Utilization of photovoltaic devices from a qualifying country, regardless of dollar value.
-
-(b) *Unreasonable cost.* A determination that the cost of a domestic photovoltaic device is unreasonable may be appropriate if -
-
-(1) The aggregate value of the photovoltaic devices to be utilized under the contract does not exceed $180,000; and
-
-(2) The offeror documents that the price of the foreign photovoltaic devices plus 50 percent is less than the price of comparable domestic photovoltaic devices.
-
-[80 FR 72603, Nov. 20, 2015, as amended at 80 FR 81471, Dec. 30, 2015; 82 FR 61483, Dec. 28, 2017]
+[76 FR 78860, Dec. 20, 2011, as amended at 78 FR 37988, June 25, 2013. Redesignated and amended at 80 FR 72603, Nov. 20, 2015; Redesignated and amended at 83 FR 62500, Dec. 4, 2018]
