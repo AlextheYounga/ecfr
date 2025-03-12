@@ -1,7 +1,5 @@
 ##### § 120.862 Other economic development objectives. #####
 
-Link to an amendment published at 87 FR 38909, June 30, 2022.
-
 A Project that achieves any of the following community development or public policy goals is eligible if the CDC's overall portfolio of 504 loans, including the subject loan, meets or exceeds the CDC's required Job Opportunity average. Loan applications must indicate how the Project will meet the specified economic development objective.
 
 (a) Community Development goals:
@@ -34,8 +32,14 @@ A Project that achieves any of the following community development or public pol
 
 (8) Modernizing or upgrading facilities to meet health, safety, and environmental requirements;
 
-(9) Assisting businesses in or moving to areas affected by Federal budget reductions, including base closings, either because of the loss of Federal contracts or the reduction in revenues in the area due to a decreased Federal presence; or
+(9) Assisting businesses in or moving to areas affected by Federal budget reductions, including base closings, either because of the loss of Federal contracts or the reduction in revenues in the area due to a decreased Federal presence;
 
-(10) Reduction of rates of unemployment in labor surplus areas, as such areas are determined by the Secretary of Labor.
+(10) Reduction of rates of unemployment in labor surplus areas, as such areas are determined by the Secretary of Labor;
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999; 68 FR 57987, Oct. 7, 2003; 76 FR 63547, Oct. 12, 2011]
+(11) Reduction of energy consumption by at least 10 percent;
+
+(12) Increased use of sustainable design, including designs that reduce the use of greenhouse gas emitting fossil fuels, or low-impact design to produce buildings that reduce the use of non-renewable resources and minimize environmental impact; or
+
+(13) Plant, equipment and process upgrades of renewable energy sources such as the small-scale production of energy for individual buildings' or communities' consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers.
+
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999; 68 FR 57987, Oct. 7, 2003; 76 FR 63547, Oct. 12, 2011; 87 FR 38909, June 30, 2022]

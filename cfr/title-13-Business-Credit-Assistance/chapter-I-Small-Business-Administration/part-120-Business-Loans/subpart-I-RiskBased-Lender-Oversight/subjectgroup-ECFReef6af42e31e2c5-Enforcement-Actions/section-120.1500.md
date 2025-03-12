@@ -1,10 +1,8 @@
-##### § 120.1500 Types of formal enforcement actions - SBA Lenders. #####
-
-Link to an amendment published at 87 FR 38910, June 30, 2022.
+##### § 120.1500 Types of formal enforcement actions—SBA Lenders. #####
 
 Upon a determination that the grounds set forth in § 120.1400 exist, the D/OCRM may undertake, in his/her discretion (and with the involvement of the LOC as appropriate and consistent with its assigned responsibilities), one or more of the following formal enforcement actions for each of the types of SBA Lender listed, and is not restricted from delegating as appropriate. SBA will consider the severity or frequency of the violation or action and the circumstances triggering the ground in determining whether and what type of enforcement action to take. SBA will take formal enforcement action in accordance with procedures set forth in § 120.1600. If formal enforcement action is taken under this section and the SBA Lender fails to implement required corrective action in any material respect within the required timeframe in response to the formal enforcement action, the D/OCRM may take further enforcement action, as authorized by law. SBA's decision to take a formal enforcement action will not, by itself, invalidate a guaranty previously provided by SBA.
 
-(a) *Formal enforcement actions for all SBA Lenders.* - (1) *Imposition of portfolio guaranty dollar limit.* SBA may limit the maximum dollar amount that SBA will guarantee on the SBA Lender's SBA loans or debentures.
+(a) *Formal enforcement actions for all SBA Lenders*—(1) *Imposition of portfolio guaranty dollar limit.* SBA may limit the maximum dollar amount that SBA will guarantee on the SBA Lender's SBA loans or debentures.
 
 (2) *Suspension or revocation of delegated authority.* SBA may suspend or revoke an SBA Lender's delegated authority (including, but not limited to, PLP, SBA Express, or PCLP delegated authorities).
 
@@ -28,7 +26,35 @@ Upon a determination that the grounds set forth in § 120.1400 exist, the D/OCRM
 
 (2) *Remove Management Official.* SBA may issue an order to remove a Management Official from office. SBA may suspend a Management Official from office or prohibit a Management Official from participating in management of the SBA Supervised Lender or in reviewing, approving, closing, servicing, liquidating or litigating any 7(a) loan, or any other activities of the SBA Supervised Lender while the removal proceeding is pending in order to protect an SBA Supervised Lender or the interests of SBA or the United States.
 
-(3) *Initiate request for appointment of receiver and/or other relief.* The SBA may make application to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of an SBA Supervised Lender, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate, and/or liquidate the SBA Supervised Lender; and to such injunctive or other equitable relief as may be appropriate. Without limiting the foregoing and with SBA's written consent, the receiver may take possession of the portfolio of 7(a) loans and sell such loans to a third party, and/or take possession of servicing activities of 7(a) loans and sell such servicing rights to a third party.
+(3) *Initiate request for appointment of receiver and/or other relief.* The SBA may make application to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of an SBA Supervised Lender, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate, and/or liquidate the SBA Supervised Lender; and to such injunctive or other equitable relief as may be appropriate. Without limiting the foregoing and with SBA's written consent, the receiver may take possession of the portfolio of 7(a) loans and sell such loans to a third party, and/or take possession of servicing activities of 7(a) loans and sell such servicing rights to a third party. In deciding whether to seek the appointment of a receiver and in determining the scope of a receivership, SBA will consider the following factors, in its discretion:
+
+(i) for NFRLs:
+
+(A) the existence of fraud or false statements;
+
+(B) the NFRL's refusal to cooperate with SBA enforcement action instructions or orders;
+
+(C) the NFRL's insolvency (legal or equitable);
+
+(D) the size of the NFRL's SBA loan portfolio(s) in relation to other activities of the NFRL;
+
+(E) the dollar amount of any claims SBA may have against the NFRL;
+
+(F) the NFRL's failure to comply materially with any requirement imposed by Loan Program Requirements; and/or
+
+(G) the existence of other non-SBA enforcement actions against the NFRL;
+
+(ii) for SBLCs:
+
+(A) the existence of fraud or false statements;
+
+(B) the SBLC's refusal to cooperate with SBA enforcement action instructions or orders;
+
+(C) the SBLC's insolvency (legal or equitable);
+
+(D) the dollar amount of any claims SBA may have against the SBLC; and/or
+
+(E) the SBLC's failure to comply materially with any requirement imposed by Loan Program Requirements.
 
 (4) *Civil monetary penalties for report filing failure under § 120.465.* SBA may seek civil penalties, in accordance with § 120.465, against an SBA Supervised Lender that fails to file any regular or special report by its due date as specified by regulation or SBA written directive.
 
@@ -54,6 +80,6 @@ Upon a determination that the grounds set forth in § 120.1400 exist, the D/OCRM
 
 (2) Instruct the Central Servicing Agent to withhold payment of servicing, late and/or other fee(s) to the CDC.
 
-(3) Apply to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of the CDC, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate and/or liquidate the CDC; and to such injunctive or other equitable relief as may be appropriate. Without limiting the foregoing and with SBA's consent, the receiver may take possession of the portfolio of 504 loans and/or pending 504 loan applications, including for the purpose of carrying out an enforcement order under paragraph (e)(1) of this section.
+(3) Apply to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of the CDC, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate and/or liquidate the CDC; and to such injunctive or other equitable relief as may be appropriate. SBA will limit the scope of the receivership to the CDC's assets related to the SBA loan program(s) except where the CDC's business is almost exclusively SBA-related. SBA will only seek a receivership if there is either the existence of fraud or false statements, or if the CDC has refused to cooperate with SBA enforcement action instructions or orders. Without limiting the foregoing and with SBA's consent, the receiver may take possession of the portfolio of 504 loans and/or pending 504 loan applications, including for the purpose of carrying out an enforcement order under paragraph (e)(1) of this section.
 
-[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39506, Aug. 21, 2017; 84 FR 12061, Apr. 1, 2019; 85 FR 14783, Mar. 16, 2020; 86 FR 52957, Sept. 24, 2021; 87 FR 28758, May 11, 2022]
+[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39506, Aug. 21, 2017; 84 FR 12061, Apr. 1, 2019; 85 FR 14783, Mar. 16, 2020; 86 FR 52957, Sept. 24, 2021; 87 FR 28758, May 11, 2022; 87 FR 38910, June 30, 2022]

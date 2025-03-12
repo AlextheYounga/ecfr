@@ -1,0 +1,3 @@
+##### § 460.201 Duct system. #####
+
+Each manufactured home equipped with a duct system, which may include air handlers and filter boxes, must be sealed to limit total air leakage to less than or equal to four (4) cubic feet per minute per 100 square feet of conditioned floor area at a pressure differential of 0.1 inch w.g. (25 Pascals) across the system. Building framing cavities must not be used as ducts or plenums when directly connected to mechanical systems. The duct total air leakage requirements are adapted from section R403 of the 2021 IECC.

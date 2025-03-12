@@ -1,16 +1,14 @@
 ##### § 571.5 Matter incorporated by reference. #####
 
-Link to an amendment published at 87 FR 39309, June 30, 2022.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at NHTSA and at the National Archives and Records Administration (NARA). Contact NHTSA at: NHTSA, 1200 New Jersey Avenue SE, Washington, DC 20590, (202) 366-2588, website: *https://www.nhtsa.gov/about-nhtsa/electronic-reading-room*. For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*. The material may be obtained from the sources in the following paragraphs of this section.
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at NHTSA and at the National Archives and Records Administration (NARA). Contact NHTSA at: NHTSA, 1200 New Jersey Avenue SE, Washington, DC 20590; Phone: (202) 366-2588; website: *https://www.nhtsa.gov/about-nhtsa/electronic-reading-room.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*. The material may be obtained from the sources in the following paragraphs of this section.
-
-(b) American Association of Textile Chemists and Colorists (AATCC), 1 Davis Dr., P.O. Box 12215, Research Triangle Park, NC 27709. Web site: *http://www.aatcc.org.*
+(b) American Association of Textile Chemists and Colorists (AATCC), 1 Davis Dr., P.O. Box 12215, Research Triangle Park, NC 27709. Web site: *https://www.aatcc.org.*
 
 (1) AATCC Test Method 30-1981, “Fungicides, Evaluation on Textiles: Mildew and Rot Resistance of Textiles,” into § 571.209.
 
 (2) AATCC Gray Scale for Evaluating Change in Color into §§ 571.209; 571.213.
 
-(c) American National Standards Institute (ANSI), 1899 L St., NW., 11th floor, Washington, DC 20036. Telephone: (202) 293-8020; Fax: (202) 293-9287; Web site: *http://www.ansi.org.* Copies of ANSI/RESNA Standard WC/Vol.1-1998 Section 13 may also be obtained from Rehabilitation Engineering and Assistive Technology Society of North America (RESNA), 1700 North Moore St., Suite 1540, Arlington, VA 22209-1903. Telephone: (703) 524-6686; Web site *http://www.resna.org.*
+(c) American National Standards Institute (ANSI), 1899 L St., NW., 11th floor, Washington, DC 20036. Telephone: (202) 293-8020; Fax: (202) 293-9287; Web site: *https://www.ansi.org.* Copies of ANSI/RESNA Standard WC/Vol.1-1998 Section 13 may also be obtained from Rehabilitation Engineering and Assistive Technology Society of North America (RESNA), 1700 North Moore St., Suite 1540, Arlington, VA 22209-1903. Telephone: (703) 524-6686; Web site *https://www.resna.org.*
 
 (1) ANSI S1.11-2004, “Specification for Octave-Band and Fractional-Octave-Band Analog and Digital Filters,” approved February 19, 2004, into § 571.141.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (5) ANSI/RESNA Standard WC/Vol. 1-1998, Section 13, “Wheelchairs: Determination of Coefficient of Friction of Test Surfaces,” into § 571.403.
 
-(d) ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. Telephone: (610) 832-9500; Fax (610) 832-9555; Web site: *http://www.astm.org.*
+(d) ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. Telephone: (610) 832-9500; Fax (610) 832-9555; Web site: *https://www.astm.org.*
 
 (1) 1985 Annual Book of ASTM Standards, Vol. 05.04, “Test Methods for Rating Motor, Diesel, Aviation Fuels, A2. Reference Materials and Blending Accessories, (“ASTM Motor Fuels section”),” A2.3.2, A2.3.3, and A2.7, into §§ 571.108; 571.205(a).
 
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (11) ASTM D445-65, “Standard Method of Test for Viscosity of Transparent and Opaque Liquids (Kinematic and Dynamic Viscosities),” approved August 31, 1965, into § 571.116.
 
-(12) ASTM D471-98, “Standard Test Method for Rubber Property - Effect of Liquids,” approved November 10, 1998, into § 571.106.
+(12) ASTM D471-98, “Standard Test Method for Rubber Property—Effect of Liquids,” approved November 10, 1998, into § 571.106.
 
 (13) ASTM D484-71, “Standard Specification for Hydrocarbon Drycleaning Solvents,” effective September 15, 1971, into § 571.301.
 
@@ -54,7 +52,7 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (15) ASTM D1003-92, “Standard Test Method for Haze and Luminous Transmittance of Transparent Plastics,” approved October 15, 1992, into § 571.108.
 
-(16) ASTM D1056-07, “Standard Specification for Flexible Cellular Materials - Sponge or Expanded Rubber,” approved March 1, 2007, into § 571.213.
+(16) ASTM D1056-07, “Standard Specification for Flexible Cellular Materials—Sponge or Expanded Rubber,” approved March 1, 2007, into § 571.213.
 
 (17) ASTM D1121-67, “Standard Method of Test for Reserve Alkalinity of Engine Antifreezes and Antirusts,” accepted June 12, 1967, into § 571.116.
 
@@ -100,7 +98,7 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (38) ASTM G154-00, “Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials,” approved February 10, 2000, into § 571.106.
 
-(e) Department of Defense, DODSSP Standardization Document Order Desk, 700 Robbins Ave., Philadelphia, PA 19111-5098. Web site: *http://dodssp.daps.dla.mil/.*
+(e) Department of Defense, DODSSP Standardization Document Order Desk, 700 Robbins Ave., Philadelphia, PA 19111-5098. Web site: *https://dodssp.daps.dla.mil/.*
 
 (1) MIL-S-13192, “Military Specification, Shoes, Men's, Dress, Oxford,” October 30, 1976, into § 571.214.
 
@@ -108,41 +106,41 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (3) MIL-S-21711E, “Military Specification, Shoes, Women's,” 3 December 1982, including Amendment 2, October 14, 1994, into §§ 571.208; 571.214.
 
-(f) General Services Administration (GSA), Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402. Telephone: (202) 512-1800; Web site: *http://www.gsa.gov.*
+(f) General Services Administration (GSA), Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402. Telephone: (202) 512-1800; Web site: *https://www.gsa.gov.*
 
 (1) GSA Federal Specification L-S-300, “Sheeting and Tape, Reflective; Nonexposed Lens, Adhesive Backing,” September 7, 1965, into § 571.108.
 
 (2) [Reserved]
 
-(g) Illuminating Engineering Society of North America (IES), 120 Wall St., 7th Floor, New York, NY 10005-4001. Telephone: (212) 248-5000; Web site: *http://www.iesna.org.*
+(g) Illuminating Engineering Society of North America (IES), 120 Wall St., 7th Floor, New York, NY 10005-4001. Telephone: (212) 248-5000; Web site: *https://www.iesna.org.*
 
 (1) IES LM 45, “IES Approved Method for Electrical and Photometric Measurements of General Service Incandescent Filament Lamps,” approved April 1980, into § 571.108.
 
 (2) [Reserved]
 
-(h) International Commission on Illumination (CIE), CIE Central Bureau, Kegelgasse 27, A-1030 Vienna, Austria. *http://www.cie.co.at.*
+(h) International Commission on Illumination (CIE), CIE Central Bureau, Kegelgasse 27, A-1030 Vienna, Austria. *https://www.cie.co.at.*
 
 (1) CIE 1931 Chromaticity Diagram, developed 1931, into § 571.108.
 
 (2) [Reserved]
 
-(i) International Organization for Standardization (ISO), 1, ch. de la Voie-Creuse, CP 56, CH-1211 Geneva 20, Switzerland. Telephone: + 41 22 749 01 11. Fax: + 41 22 733 34 30. Web site: *http://www.iso.org/.*
+(i) International Organization for Standardization (ISO), 1, ch. de la Voie-Creuse, CP 56, CH-1211 Geneva 20, Switzerland. Telephone: + 41 22 749 01 11. Fax: + 41 22 733 34 30. Web site: *https://www.iso.org/.*
 
-(1) ISO 7117:1995(E), “Motorcycles - Measurement of maximum speed,” Second edition, March 1, 1995, into § 571.122.
+(1) ISO 7117:1995(E), “Motorcycles—Measurement of maximum speed,” Second edition, March 1, 1995, into § 571.122.
 
-(2) ISO 10844:1994(E) “Acoustics - Test Surface for Road Vehicle Noise Measurements,” First edition, 1994-09-01, into § 571.141.
+(2) ISO 10844:1994(E) “Acoustics—Test Surface for Road Vehicle Noise Measurements,” First edition, 1994-09-01, into § 571.141.
 
-(3) ISO 10844: 2011(E) “Acoustics - Specification of test tracks for measuring noise emitted by road vehicles and their tyres,” Second edition, 2011-02-01 into § 571.141.
+(3) ISO 10844: 2011(E) “Acoustics—Specification of test tracks for measuring noise emitted by road vehicles and their tyres,” Second edition, 2011-02-01 into § 571.141.
 
-(4) ISO 10844: 2014(E) “Acoustics - Specification of test tracks for measuring noise emitted by road vehicles and their tyres,” Third edition, 2014-05-15 into § 571.141.
+(4) ISO 10844: 2014(E) “Acoustics—Specification of test tracks for measuring noise emitted by road vehicles and their tyres,” Third edition, 2014-05-15 into § 571.141.
 
-(j) National Center for Health Statistics, Centers for Disease Control (CDC), National Division for Health Statistics, Division of Data Services, Hyattsville, MD 20782. Telephone: 1 (800) 232-4636. Web site: *http://www.cdc.gov/nchs.*
+(j) National Center for Health Statistics, Centers for Disease Control (CDC), National Division for Health Statistics, Division of Data Services, Hyattsville, MD 20782. Telephone: 1 (800) 232-4636. Web site: *https://www.cdc.gov/nchs.*
 
-(1) DHEW Publication No. (HRA) 76-1074, “Weight, Height, and Selected Body Dimensions of Adults: United States - 1960-1962,” first published as Public Health Service Publication No. 1000 Series 11-No. 8, June 1965, into § 571.3.
+(1) DHEW Publication No. (HRA) 76-1074, “Weight, Height, and Selected Body Dimensions of Adults: United States—1960-1962,” first published as Public Health Service Publication No. 1000 Series 11-No. 8, June 1965, into § 571.3.
 
 (2) [Reserved]
 
-(k) National Highway Traffic Safety Administration (NHTSA), 1200 New Jersey Ave. SE., Washington, DC 20590. Web site: *http://www.nhtsa.gov.*
+(k) National Highway Traffic Safety Administration (NHTSA), 1200 New Jersey Ave. SE., Washington, DC 20590. Web site: *https://www.nhtsa.gov.*
 
 (1) Drawing Package, “NHTSA Standard Seat Assembly; FMVSS No. 213, No. NHTSA-213-2003,” (consisting of drawings and a bill of materials), June 3, 2003, into § 571.213.
 
@@ -152,7 +150,9 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (4) “Parts List and Drawings; Ejection Mitigation Headform Drawing Package” December 2010, into § 571.226.
 
-(l) SAE International, 400 Commonwealth Drive, Warrendale, PA 15096. Telephone: (724) 776-4841; Web site: *http://www.sae.org.*
+(5) “Parts List and Drawings, NHTSA Standard Seat Assembly; FMVSS No. 213a—Side impact No. NHTSA-213a-2021, CHILD SIDE IMPACT SLED” dated December 2021; into § 571.213a.
+
+(l) SAE International, 400 Commonwealth Drive, Warrendale, PA 15096. Telephone: (724) 776-4841; Web site: *https://www.sae.org.*
 
 (1) SAE Recommended Practice J100-1995, “Class ‘A’ Vehicle Glazing Shade Bands,” revised June 1995, into § 571.205.
 
@@ -160,9 +160,9 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (3) SAE Recommended Practice J211, “Instrumentation for Impact Tests,” revised June 1980, into §§ 571.213; 571.218.
 
-(4) SAE Recommended Practice J211/1, revised March 1995, “Instrumentation for Impact Test - Part 1 - Electronic Instrumentation” into §§ 571.202a; 571.208; 571.218; 571.403.
+(4) SAE Recommended Practice J211/1, “Instrumentation for Impact Tests-Part 1—Electronic Instrumentation”; revised March 1995; into §§ 571.202a; 571.208; 571.213a; 571.218; 571.403.
 
-(5) SAE Recommended Practice J211-1 DEC2003, “Instrumentation for Impact Test - Part 1 - Electronic Instrumentation,” revised December 2003, into §§ 571.206; 571.209.
+(5) SAE Recommended Practice J211-1 DEC2003, “Instrumentation for Impact Test—Part 1—Electronic Instrumentation,” revised December 2003, into §§ 571.206; 571.209.
 
 (6) SAE Recommended Practice J227a, “Electric Vehicle Test Procedure,” revised February 1976, into §§ 571.105; 571.135.
 
@@ -224,7 +224,7 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (35) SAE Recommended Practice J942, “Passenger Car Windshield Washer Systems,” approved November 1965, into § 571.104.
 
-(36) SAE Recommended Practice J944 JUN80, “Steering Control System - Passenger Car - Laboratory Test Procedure,” revised June 1980, into § 571.203.
+(36) SAE Recommended Practice J944 JUN80, “Steering Control System—Passenger Car—Laboratory Test Procedure,” revised June 1980, into § 571.203.
 
 (37) SAE Standard J964 OCT84, “Test Procedure for Determining Reflectivity of Rear View Mirrors,” reaffirmed October 1984, into § 571.111.
 
@@ -260,4 +260,4 @@ Link to an amendment published at 87 FR 39309, June 30, 2022.
 
 (2) UNECE Regulation 48 “Uniform Provisions Concerning the Approval of Vehicles With Regard to the Installation of Lighting and Light-Signaling Devices,” E/ECE/324-E/ECE/TRANS/505, Rev.1/Add.47/Rev.1/Corr.2 (February 26, 1996), into § 571.108.
 
-[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022]
+[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022; 87 FR 39309, Aug. 1, 2022]

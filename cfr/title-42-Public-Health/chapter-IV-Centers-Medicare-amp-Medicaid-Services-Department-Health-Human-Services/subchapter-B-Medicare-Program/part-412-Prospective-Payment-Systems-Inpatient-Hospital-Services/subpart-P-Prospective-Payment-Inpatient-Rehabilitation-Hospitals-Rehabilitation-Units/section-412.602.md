@@ -1,5 +1,7 @@
 ##### § 412.602 Definitions. #####
 
+Link to an amendment published at 87 FR 47090, Aug. 1, 2022.
+
 As used in this subpart -
 
 *Assessment reference date* means the specific calendar day in the patient assessment process that sets the designated endpoint of the common patient observation period, with most patient assessment items usually referring back in time from this endpoint.

@@ -1,10 +1,8 @@
 ##### § 904.204 Duties and powers of Judge. #####
 
-Link to an amendment published at 87 FR 38938, June 30, 2022.
-
 The Judge has all powers and responsibilities necessary to preside over the parties and the hearing, to hold prehearing conferences, to conduct the hearing, and to render decisions in accordance with these regulations and 5 U.S.C. 554 through 557, including, but not limited to, the authority and duty to do the following:
 
-(a) Rule on timeliness of hearing requests pursuant to § 904.201(b);
+(a) Rule on timeliness of hearing requests pursuant to § 904.201(c);
 
 (b) Rule on a request to participate as a party in the hearing by allowing, denying, or limiting such participation (such ruling will consider views of the parties and be based on whether the requester could be directly and adversely affected by the determination and whether the requester can be expected to contribute materially to the disposition of the proceedings);
 
@@ -68,4 +66,4 @@ The Judge has all powers and responsibilities necessary to preside over the part
 
 (5) Nothing in this section shall be read as precluding the Judge from taking any other action, or imposing any restriction or sanction, authorized by applicable statute or regulation.
 
-[71 FR 12448, Mar. 10, 2006, as amended at 75 FR 35632, June 23, 2010]
+[71 FR 12448, Mar. 10, 2006, as amended at 75 FR 35632, June 23, 2010; 87 FR 38938, June 30, 2022]

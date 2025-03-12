@@ -1,7 +1,5 @@
 ##### § 904.509 Disposal of forfeited property. #####
 
-Link to an amendment published at 87 FR 38943, June 30, 2022.
-
 (a) *Delivery to Administrator.* Upon forfeiture of any fish, wildlife, parts or products thereof, or other property to the United States, including the abandonment or waiver of any claim to any such property, it will be delivered to NOAA for storage or disposal according to the provisions of this section.
 
 (b) *Disposal.* Disposal may be accomplished by one of the following means unless the property is the subject of a petition for remission or mitigation of forfeiture or disposed of by court order:
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 38943, June 30, 2022.
 
 (d) *Disposal of evidence.* Property that is evidence may be disposed of only after authorization by the NOAA Office of General Counsel. Disposal approval usually will not be given until the case involving the evidence is closed, except that perishable property may be authorized for disposal sooner.
 
-(e) *Loans* - (1) *To institutions.* Property approved for disposal may be loaned to institutions or organizations requesting such property for scientific, educational, or public display purposes. Property will be loaned only after execution of a loan agreement which provides, among other things, that the loaned property will be used only for noncommercial scientific, educational, or public display purposes, and that it will remain the property of the U.S. Government, which may demand its return at any time. Parties requesting the loan of property must demonstrate the ability to provide adequate care and security for the property. Loans may be made to responsible agencies of foreign governments in accordance with the Convention on International Trade in Endangered Species of Wild Fauna and Flora.
+(e) *Loans*—(1) *To institutions.* Property approved for disposal may be loaned to institutions or organizations requesting such property for scientific, educational, or public display purposes. Property will be loaned only after execution of a loan agreement which provides, among other things, that the loaned property will be used only for noncommercial scientific, educational, or public display purposes, and that it will remain the property of the U.S. Government, which may demand its return at any time. Parties requesting the loan of property must demonstrate the ability to provide adequate care and security for the property. Loans may be made to responsible agencies of foreign governments in accordance with the Convention on International Trade in Endangered Species of Wild Fauna and Flora.
 
 (2) *To individuals.* Property generally will not be loaned to individuals not affiliated with an institution or organization unless it is clear that the property will be used in a noncommercial manner, and for scientific, educational, or public display purposes which are in the public interest.
 
@@ -42,10 +40,12 @@ Link to an amendment published at 87 FR 38943, June 30, 2022.
 
 (g) *Destruction.* (1) Property not otherwise disposed of may be destroyed.
 
-(2) Destruction will be accomplished in accordance with the requirements of 41 CFR parts 101 through 145.
+(2) Destruction will be accomplished in accordance with the requirements of 41 CFR parts 101-1 through 101-49.
 
 (3) When destroyed, the fact, manner, and date of destruction and the type and quantity destroyed must be certified by the official actually destroying the property.
 
 (4) No duly authorized officer of NOAA shall be liable for the destruction or other disposition of property made pursuant to this section.
 
 (h) *Recordkeeping.* A disposal form will be completed each time property is disposed of pursuant to the policy and procedure established herein, and will be retained in the case file for the property. These forms will be available to the public.
+
+[71 FR 12448, Mar. 10, 2006, as amended at 87 FR 38943, June 30, 2022]

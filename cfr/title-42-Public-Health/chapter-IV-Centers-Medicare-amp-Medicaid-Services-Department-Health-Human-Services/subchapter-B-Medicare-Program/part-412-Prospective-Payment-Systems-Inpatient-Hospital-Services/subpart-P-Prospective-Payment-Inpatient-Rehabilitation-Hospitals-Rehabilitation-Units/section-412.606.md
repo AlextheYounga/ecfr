@@ -1,5 +1,7 @@
 ##### § 412.606 Patient assessments. #####
 
+Link to an amendment published at 87 FR 47090, Aug. 1, 2022.
+
 (a) *Patient assessment instrument.* An inpatient rehabilitation facility must use the CMS inpatient rehabilitation facility patient assessment instrument to assess Medicare Part A fee-for-service and Medicare Part C (Medicare Advantage) inpatients who -
 
 (1) Are admitted on or after January 1, 2002; or

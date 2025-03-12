@@ -1,8 +1,6 @@
 ##### § 904.216 Prehearing conferences. #####
 
-Link to an amendment published at 87 FR 38938, June 30, 2022.
-
-(a) Prior to any hearing or at any other time deemed appropriate, the Judge may, upon his or her own initiative, or upon the application of any party, direct the parties to appear for a conference or arrange a telephone conference. The Judge shall provide at least 24 hours notice of the conference to the parties, and shall record such conference by audio recording or court reporter, to consider:
+(a) Prior to any hearing or at any other time deemed appropriate, the Judge may, upon his or her own initiative, or upon the application of any party, direct the parties to appear for a conference or arrange a telephone conference. The Judge shall provide at least 24 hours' notice of the conference to the parties, and shall record such conference by audio recording or court reporter, to consider:
 
 (1) Simplification or clarification of the issues or settlement of the case by consent;
 
@@ -19,3 +17,5 @@ Link to an amendment published at 87 FR 38938, June 30, 2022.
 (7) Such other matters as may aid in the disposition of the administrative proceeding, including the status of settlement discussions.
 
 (b) The Judge in his or her discretion may issue an order showing the matters disposed of in such conference, and shall provide a transcript of the conference upon the request of a party.
+
+[71 FR 12448, Mar. 10, 2006, as amended at 87 FR 38938, June 30, 2022]

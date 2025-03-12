@@ -1,8 +1,6 @@
 ##### § 904.506 Remission of forfeiture and restoration of proceeds of sale. #####
 
-Link to an amendment published at 87 FR 38943, June 30, 2022.
-
-(a) *Application of this section.* (1) This section establishes procedures for filing with NOAA a petition for relief from forfeitures incurred, or alleged to have been incurred, and from potential forfeiture of seized property, under any statute administered by NOAA that authorizes the remission or mitigation of forfeitures.
+(a) *Application of this section.* (1) This section establishes procedures for filing with NOAA a petition for the return of any property which has been or may be administratively forfeited under the provisions of any statute administered by NOAA that authorizes the remission or mitigation of forfeitures.
 
 (2) Although NOAA may properly consider a petition for remission or mitigation of forfeiture and restoration of proceeds of sale along with other consequences of a violation, the remission or mitigation of a forfeiture and restoration of proceeds is not dispositive of any criminal charge filed, civil penalty assessed, or permit sanction proposed, unless NOAA expressly so states. Remission or mitigation of forfeiture and restoration of proceeds is in the nature of executive clemency and is granted in the sole discretion of NOAA only when consistent with the purposes of the particular statute involved and this section.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 38943, June 30, 2022.
 
 (4) If NOAA remits the forfeiture and the forfeited property has not been sold, then restoration may be conditioned upon payment of any applicable costs as defined in this subpart.
 
-(b) *Petition for relief from forfeiture.* (1) Any person claiming an interest in any property which has been or may be administratively forfeited under the provisions of this section may, at any time after seizure of the property, but no later than 90 days after the date of forfeiture, petition the Assistant General Counsel for Enforcement and Litigation, NOAA/GCEL, 8484 Georgia Avenue, Suite 400, Silver Spring, Maryland 20910, for a remission or mitigation of the forfeiture and restoration of the proceeds of such sale, or such part thereof as may be claimed by the petitioner.
+(b) *Petition for relief from forfeiture.* (1) Any person claiming an interest in any property which has been or may be administratively forfeited under the provisions of § 904.504 may, at any time after seizure of the property, but no later than 90 days after the date of forfeiture, petition for a remission or mitigation of the forfeiture and restoration of the proceeds of such sale, or such part thereof as may be claimed by the petitioner by serving the petition in conformance with § 904.3 on *administrative.appeals@noaa.gov* or the Chief of the Enforcement Section of the NOAA Office of General Counsel, 1315 East-West Highway, SSMC 3, Suite 15828, Silver Spring, MD 20910.
 
 (2) The petition need not be in any particular form, but must set forth the following:
 
@@ -37,3 +35,5 @@ Link to an amendment published at 87 FR 38943, June 30, 2022.
 (e) *Compliance with the determination.* A determination by NOAA to remit or mitigate the forfeiture and restore the proceeds upon stated conditions, as upon payment of a specified amount, will be effective for 60 days after the date of the determination. If the petitioner does not comply with the conditions within that period in a manner prescribed by the determination, or make arrangements satisfactory to NOAA for later compliance, the remission or mitigation and restoration of proceeds will be void, and judicial or administrative forfeiture proceedings will be instituted or resumed.
 
 (f) *Appropriated property.* If forfeited property that is the subject of a claim for restoration of proceeds has been appropriated for official use, retention by the U.S. Government will be regarded as a sale for the purposes of this section.
+
+[71 FR 12448, Mar. 10, 2006, as amended at 87 FR 38943, June 30, 2022]

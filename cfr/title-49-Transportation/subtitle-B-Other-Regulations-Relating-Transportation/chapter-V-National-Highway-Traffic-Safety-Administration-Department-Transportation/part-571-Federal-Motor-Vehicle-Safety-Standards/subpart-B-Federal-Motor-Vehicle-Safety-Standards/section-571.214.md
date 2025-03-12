@@ -812,4 +812,4 @@ S13.4 *Calculation of complying vehicles.*
 
 (e) For the purposes of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer, each vehicle that is excluded from having to meet the applicable requirement is not counted.
 
-[72 FR 51957, Sept. 11, 2007, as amended at 73 FR 32483, June 9, 2008; 75 FR 12139, Mar. 15, 2010; 77 FR 767, Jan. 6, 2012; 76 FR 52884, Aug. 24, 2011; 77 FR 70914, Nov. 28, 2012]
+[72 FR 51957, Sept. 11, 2007, as amended at 73 FR 32483, June 9, 2008; 75 FR 12139, Mar. 15, 2010; 77 FR 767, Jan. 6, 2012; 76 FR 52884, Aug. 24, 2011; 77 FR 70914, Nov. 28, 2012; 87 FR 39310, June 30, 2022]

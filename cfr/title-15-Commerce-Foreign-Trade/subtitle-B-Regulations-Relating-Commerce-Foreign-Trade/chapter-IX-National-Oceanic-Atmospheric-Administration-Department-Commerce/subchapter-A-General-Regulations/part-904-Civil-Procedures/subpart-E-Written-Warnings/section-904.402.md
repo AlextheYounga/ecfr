@@ -1,8 +1,6 @@
 ##### § 904.402 Procedures. #####
 
-Link to an amendment published at 87 FR 38942, June 30, 2022.
-
-(a) Any person authorized to enforce the laws listed in § 904.1(c) or Agency counsel may issue a written warning to a respondent as provided in § 904.3.
+(a) Any person authorized to enforce the laws listed in § 904.1(c) or Agency counsel may serve a written warning on a respondent.
 
 (b) The written warning will:
 
@@ -17,3 +15,5 @@ Link to an amendment published at 87 FR 38942, June 30, 2022.
 (c) NOAA will maintain a record of written warnings that are issued.
 
 (d) If, within 120 days of the date of the written warning, further investigation indicates that the violation is more serious than realized at the time the written warning was issued, or that the respondent previously committed a similar violation for which a written warning was issued or other enforcement action was taken, NOAA may withdraw the warning and commence other administrative or judicial proceedings.
+
+[71 FR 12448, Mar. 10, 2006, as amended at 87 FR 38942, June 30, 2022]

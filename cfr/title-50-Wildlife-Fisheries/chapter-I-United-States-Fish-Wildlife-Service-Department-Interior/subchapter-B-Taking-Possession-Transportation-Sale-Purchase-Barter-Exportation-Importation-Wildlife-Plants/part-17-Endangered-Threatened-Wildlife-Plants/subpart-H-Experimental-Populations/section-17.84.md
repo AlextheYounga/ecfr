@@ -1,7 +1,5 @@
 ##### § 17.84 Special rules - vertebrates. #####
 
-Link to an amendment published at 87 FR 39372, July 1, 2022.
-
 (a) [Reserved]
 
 (b) Colorado squawfish (*Ptychocheilus lucius*) and woundfin (*Plagopterus* argentissimus). (1) The Colorado squawfish and woundfin populations identified in paragraph (b)(6) of this section, are experimental, nonessential populations.
@@ -448,7 +446,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (k) Mexican wolf (*Canis lupus baileyi*). This paragraph (k) sets forth the provisions of a rule to establish an experimental population of Mexican wolves.
 
-(1) *Purpose of the rule.* The U.S. Fish and Wildlife Service (Service) finds that reestablishment of an experimental population of Mexican wolves into the subspecies' probable historical range will further the conservation of the Mexican wolf subspecies. The Service found that the experimental population was not essential under § 17.81(c)(2).
+(1) *Purpose of the rule.* The U.S. Fish and Wildlife Service (USFWS) finds that reestablishment of an experimental population of Mexican wolves into the subspecies' probable historical range will further the conservation and recovery of the Mexican wolf subspecies. The USFWS also finds that the experimental population is not essential under § 17.81(c)(2).
 
 (2) *Determinations.* The Mexican wolf population reestablished in the Mexican Wolf Experimental Population Area (MWEPA), identified in paragraph (k)(4) of this section, is one nonessential experimental population. This nonessential experimental population will be managed according to the provisions of this rule. The Service does not intend to change the nonessential experimental designation to essential experimental, threatened, or endangered. Critical habitat cannot be designated under the nonessential experimental classification, 16 U.S.C. 1539(j)(2)(C)(ii).
 
@@ -580,11 +578,61 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (C) Based on the Service's or a designated agency's discretion and in conjunction with a removal action authorized by the Service, the Service or designated agency may issue permits to domestic animal owners or their agents (e.g., employees, land manager, local officials) to take (including intentional harassment or killing) any Mexican wolf that is present on non-Federal land where specified in the permit. Permits issued under this provision will specify the number of days for which the permit is valid and the maximum number of Mexican wolves for which take is allowed. Take by permittees under this provision will assist the Service or designated agency in completing control actions. Domestic animal owners or their agents must report this take as specified in accordance with paragraph (k)(6) of this section.
 
+(*1*) Until the USFWS has achieved the genetic objective for the MWEPA set forth at paragraph (k)(9)(v) of this section by documenting that at least 22 released wolves have survived to breeding age in the MWEPA, the USFWS or a designated agency may issue permits only on a conditional, annual basis according to the following provisions: Either
+
+(*i*) Annual release benchmarks (for the purposes of this paragraph, the term “benchmark” means the minimum cumulative number of released wolves surviving to breeding age since January 1, 2016, as documented annually in March) have been achieved based on the following schedule:
+
+Table 1 to Paragraph (k)(7)(iv)(C)(1)(i)
+
+|Year|Benchmark|
+|----|---------|
+|2021|    7    |
+|2022|    9    |
+|2023|   11    |
+|2024|   13    |
+|2025|   14    |
+|2026|   15    |
+|2027|   16    |
+|2028|   18    |
+|2029|   20    |
+|2030|   22    |
+
+; or
+
+(*ii*) Permitted take on non-Federal land, or on Federal land under paragraph (k)(7)(v) of this section, during the previous year (April 1 to March 31) did not include the lethal take of any released wolf or wolves that were or would have counted toward the genetic objective set forth at paragraph (k)(9)(v) of this section.
+
+(*2*) After the USFWS has achieved the genetic objective set forth at paragraph (k)(9)(v) of this section, the conditional annual basis for issuing permits will no longer be in effect.
+
 (v) *Take on Federal land.* (A) Based on the Service's or a designated agency's discretion and in conjunction with a removal action authorized by the Service, the Service may issue permits to livestock owners or their agents (e.g., employees, land manager, local officials) to take (including intentional harassment or killing) any Mexican wolf that is in the act of biting, killing, or wounding livestock on Federal land where specified in the permit.
 
-(*1*) Permits issued under this provision will specify the number of days for which the permit is valid and the maximum number of Mexican wolves for which take is allowed. Take by permittees under this provision will assist the Service or designated agency in completing control actions. Livestock owners or their agents must report this take as specified in accordance with paragraph (k)(6) of this section.
+(*1*) Until the USFWS has achieved the genetic objective for the MWEPA set forth at paragraph (k)(9)(v) of this section by documenting that at least 22 released wolves have survived to breeding age, the USFWS or a designated agency may issue permits only on a conditional, annual basis according to the following provisions: Either
 
-(*2*) After the take of a Mexican wolf, the Service must be provided evidence that the wolf was in the act of biting, killing, or wounding livestock at the time of take, such as evidence of freshly wounded or killed livestock. The take of any Mexican wolf without evidence of biting, killing, or wounding domestic animals may be referred to the appropriate authorities for investigation.
+(*i*) Annual release benchmarks (for the purposes of this paragraph, the term “benchmark” means the minimum cumulative number of released wolves surviving to breeding age since January 1, 2016, as documented annually in March) have been achieved based on the following schedule:
+
+Table 2 to Paragraph (k)(7)(v)(A)(1)(i)
+
+|Year|Benchmark|
+|----|---------|
+|2021|    7    |
+|2022|    9    |
+|2023|   11    |
+|2024|   13    |
+|2025|   14    |
+|2026|   15    |
+|2027|   16    |
+|2028|   18    |
+|2029|   20    |
+|2030|   22    |
+
+; or
+
+(*ii*) Permitted take on Federal land, or on non-Federal land under paragraph (k)(7)(iv) of this section, during the previous year (April 1 to March 31) did not include the lethal take of any released wolf or wolves that were or would have counted toward the genetic objective set forth at paragraph (k)(9)(v) of this section.
+
+(*2*) After the USFWS has achieved the genetic objective set forth at paragraph (k)(9)(v) of this section, the conditional annual basis for issuing permits will no longer be in effect.
+
+(*3*) Permits issued under this provision will specify the number of days for which the permit is valid and the maximum number of Mexican wolves for which take is allowed. Take by permittees under this provision will assist the Service or designated agency in completing control actions. Livestock owners or their agents must report this take as specified in accordance with paragraph (k)(6) of this section.
+
+(*4*) After the take of a Mexican wolf, the Service must be provided evidence that the wolf was in the act of biting, killing, or wounding livestock at the time of take, such as evidence of freshly wounded or killed livestock. The take of any Mexican wolf without evidence of biting, killing, or wounding domestic animals may be referred to the appropriate authorities for investigation.
 
 (B) Take of Mexican wolves by livestock guarding dogs, when used to protect livestock on Federal lands, is allowed. If such take by a guard dog occurs, it must be reported as specified in accordance with paragraph (k)(6) of this section.
 
@@ -611,6 +659,8 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 (C) If all of the provisions above are met, the Service will, to the maximum extent allowable under the Act, make a determination providing for Mexican wolf removal. If the request is approved, the Service will include in the written determination which management action (capture and translocate in MWEPA, move to captivity, transfer to Mexico, lethally take, or no action) is most appropriate for the conservation of the Mexican wolf subspecies.
 
 (D) Because tribes are able to request the capture and removal of Mexican wolves from tribal trust lands at any time, take in response to impacts to wild ungulate herds is not applicable on tribal trust lands.
+
+(E) No requests for take in response to unacceptable impacts to a wild ungulate herd may be made by the State game and fish agency or accepted by the USFWS until the genetic objective at paragraph (k)(9)(v) of this section has been met.
 
 (vii) *Take by Service personnel or a designated agency.* The Service or a designated agency may take any Mexican wolf in the experimental population in a manner consistent with a Service-approved management plan, special management measure, biological opinion pursuant to section 7(a)(2) of the Act, conference opinion pursuant to section 7(a)(4) of the Act, section 6 of the Act as described in § 17.31 for State game and fish agencies with authority to manage Mexican wolves, or a valid permit issued by the Service through § 17.32.
 
@@ -644,7 +694,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (ii) On tribal trust land within Zones 1 and 2, as defined in paragraph (k)(3) of this section, of the MWEPA, the Service or a designated agency may develop and implement management actions in cooperation with willing tribal governments, including: occupancy by natural dispersal, initial release, and translocation of Mexican wolves onto such lands. No agreement between the Service and a Tribe is necessary for the capture and removal of Mexican wolves from tribal trust lands if requested by the tribal government.
 
-(iii) Based on end-of-year counts, we will manage for a population objective of 300 to 325 Mexican wolves in the MWEPA in Arizona and New Mexico. So as not to exceed this population objective, we will exercise all management options with preference for translocation to other Mexican wolf populations to further the conservation of the subspecies. The Service may change this provision as necessary to accommodate a new recovery plan.
+(iii) Based on end-of-year counts, we will manage to achieve and sustain a population average greater than or equal to 320 wolves in Arizona and New Mexico. This average must be achieved over an 8-year period, the population must exceed 320 Mexican wolves each of the last 3 years of the 8-year period, and the annual population growth rate averaged over the 8-year period must demonstrate a stable or increasing population, as calculated by a geometric mean.
 
 (iv) We are implementing a phased approach to Mexican wolf management within the MWEPA in western Arizona as follows:
 
@@ -668,7 +718,9 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (E) The phasing may be expedited with the concurrence of participating State game and fish agencies.
 
-(10) *Evaluation.* The Service will evaluate Mexican wolf reestablishment progress and prepare periodic progress reports and detailed annual reports. In addition, approximately 5 years after February 17, 2015, the Service will prepare a one-time overall evaluation of the experimental population program that focuses on modifications needed to improve the efficacy of this rule, reestablishment of Mexican wolves to the wild, and the contribution the experimental population is making to the recovery of the Mexican wolf.
+(v) The USFWS and designated agencies will conduct a sufficient number of releases into the MWEPA from captivity to result in at least 22 released Mexican wolves surviving to breeding age.
+
+(10) *Evaluation.* The USFWS will continue to evaluate Mexican wolf reestablishment progress and prepare periodic progress reports and detailed annual reports. In addition, approximately 5 years after August 1, 2022, the USFWS will prepare a one-time overall evaluation of the experimental population program that focuses on modifications needed to improve the efficacy of this rule and the progress the experimental population is making to the recovery of the Mexican wolf.
 
 (l) Grizzly bear (*Ursus arctos horribilis*). (1) *Where does this special rule apply?* The special rule in this paragraph (l) applies to the designated Bitterroot Grizzly Bear Experimental Population Area (Experimental Population Area), which is found within the species' historic range and is defined as follows:
 

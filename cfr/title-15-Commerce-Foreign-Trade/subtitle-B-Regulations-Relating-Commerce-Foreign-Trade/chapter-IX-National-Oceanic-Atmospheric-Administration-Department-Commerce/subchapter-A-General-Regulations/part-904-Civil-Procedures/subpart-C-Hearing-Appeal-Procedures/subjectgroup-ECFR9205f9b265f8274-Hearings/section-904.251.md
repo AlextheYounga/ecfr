@@ -1,12 +1,10 @@
 ##### § 904.251 Evidence. #####
 
-Link to an amendment published at 87 FR 38939, June 30, 2022.
-
 (a) *In general.* (1) At the hearing, every party has the right to present oral or documentary evidence in support of its case or defense, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. This paragraph may not be interpreted to diminish the powers and duties of the Judge under § 904.204.
 
 (2) All evidence that is relevant, material, reliable, and probative, and not unduly repetitious or cumulative, is admissible at the hearing. Formal rules of evidence do not necessarily apply to the administrative proceedings, and hearsay evidence is not inadmissible as such.
 
-(3) In any case involving a charged violation of law in which the respondent has admitted an allegation, evidence may be taken to establish matters of aggravation or mitigation.
+(3) In any case involving a charged violation of law in which the respondent has admitted an allegation, evidence may still be presented to establish matters of aggravation or mitigation.
 
 (b) *Objections and offers of proof.* (1) A party shall state the grounds for objection to the admission or exclusion of evidence. Rulings on all objections shall appear in the record. Only objections made before the Judge may be raised on appeal.
 
@@ -36,6 +34,8 @@ Link to an amendment published at 87 FR 38939, June 30, 2022.
 
 (2) If the Judge determines that the procedure described in paragraph (h)(1) of this section is inadequate and that classified or otherwise sensitive matters must form part of the record in order to avoid prejudice to a party, the Judge may advise the parties and provide opportunity for arrangements to permit a party or representative to have access to such matters.
 
-(i) *Foreign law.* (1) A party who intends to raise an issue concerning the law of a foreign country must give reasonable notice. The Judge, in determining foreign law, may consider any relevant material or source, whether or not submitted by a party.
+(i) *Foreign law.* A party who intends to raise an issue concerning the law of a foreign country must give reasonable notice. The Judge, in determining foreign law, may consider any relevant material or source, whether or not submitted by a party.
 
-(2) Exhibits in a foreign language must be translated into English before such exhibits are offered into evidence. Copies of both the untranslated and translated versions of the proposed exhibits, along with the name and qualifications of the translator, must be served on the opposing party at least 10 days prior to the hearing unless the parties otherwise agree.
+(j) *Foreign language exhibits.* Exhibits in a foreign language must be translated into English before such exhibits are offered into evidence. Copies of both the untranslated and translated versions of the proposed exhibits, along with the name and qualifications of the translator, must be served on the opposing party at least 10 days prior to the hearing unless the parties otherwise agree.
+
+[71 FR 12448, Mar. 10, 2006, as amended at 87 FR 38939, June 30, 2022]

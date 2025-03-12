@@ -1,5 +1,7 @@
 ##### § 412.610 Assessment schedule. #####
 
+Link to an amendment published at 87 FR 47090, Aug. 1, 2022.
+
 (a) *General.* For each Medicare Part A fee-for-service or Medicare Part C (Medicare Advantage) inpatient, an inpatient rehabilitation facility must complete a patient assessment instrument as specified in § 412.606 that covers a time period that is in accordance with the assessment schedule specified in paragraph (c) of this section.
 
 (b) *Starting the assessment schedule day count.* The first day that the Medicare Part A fee-for-service or Medicare Part C (Medicare Advantage) inpatient is furnished Medicare-covered services during his or her current inpatient rehabilitation facility hospital stay is counted as day one of the patient assessment schedule.

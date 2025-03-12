@@ -1,7 +1,5 @@
 ##### § 120.470 What are SBA's additional requirements for SBLCs? #####
 
-Link to an amendment published at 87 FR 38909, June 30, 2022.
-
 In addition to complying with SBA's requirements for SBA Lenders and SBA Supervised Lenders, an SBLC must meet the requirements contained in this regulation and the SBLC regulations that follow.
 
 (a) *Lending.* An SBLC may only make:
@@ -16,7 +14,7 @@ In addition to complying with SBA's requirements for SBA Lenders and SBA Supervi
 
 (d) *Dual control.* An SBLC must maintain dual control over disbursement of funds and withdrawal of securities.
 
-(1) An SBLC may disburse funds only by checks or wire transfers authorized by signatures of two or more officers covered by the SBLC's fidelity bond, except that checks in an amount of $1,000 or less may be signed by one bonded officer, provided that such action is permitted under the SBLC's fidelity bond.
+(1) An SBLC may disburse funds only by checks or wire transfers authorized by signatures of two or more officers covered by the SBLC's fidelity bond, except that checks in an amount of $10,000 or less may be signed by one bonded officer, provided that such action is permitted under the SBLC's fidelity bond.
 
 (2) There must be two or more bonded officers, or one bonded officer and a bonded employee to open safe deposit boxes or withdraw securities from safekeeping. The SBLC must furnish to each depository bank, custodian, or entity providing safe deposit boxes a certified copy of the resolution implementing control procedures.
 
@@ -36,4 +34,4 @@ In addition to complying with SBA's requirements for SBA Lenders and SBA Supervi
 
 (g) *Borrowed funds.* In general, an SBLC may not be capitalized with borrowed funds. Shareholders owning 10 percent or more of any class of its stock must not use personally-borrowed funds to purchase the stock unless the net worth of the shareholder is at least twice the amount borrowed or unless the shareholder receives SBA's prior written approval for a lower ratio.
 
-[73 FR 75515, Dec. 11, 2008, as amended at 85 FR 78215, Dec. 4, 2020]
+[73 FR 75515, Dec. 11, 2008, as amended at 85 FR 78215, Dec. 4, 2020; 87 FR 38909, June 30, 2022]

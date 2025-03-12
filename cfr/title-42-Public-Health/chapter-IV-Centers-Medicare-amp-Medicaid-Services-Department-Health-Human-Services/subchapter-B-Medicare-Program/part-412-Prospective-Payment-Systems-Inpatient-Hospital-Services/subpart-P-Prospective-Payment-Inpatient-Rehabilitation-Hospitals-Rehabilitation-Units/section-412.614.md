@@ -1,5 +1,7 @@
 ##### § 412.614 Transmission of patient assessment data. #####
 
+Link to an amendment published at 87 FR 47091, Aug. 1, 2022.
+
 (a) *Data format.**General rule.* The inpatient rehabilitation facility must encode and transmit data for each Medicare Part A fee-for-service and Medicare Part C (Medicare Advantage) inpatient -
 
 (1) Using the computerized version of the patient assessment instrument available from us; or

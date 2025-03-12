@@ -1,7 +1,5 @@
 ##### § 120.10 Definitions. #####
 
-Link to an amendment published at 87 FR 38908, June 30, 2022.
-
 The following terms have the same meaning wherever they are used in this part. Defined terms are capitalized wherever they appear.
 
 *Acceptable Risk Rating* is an SBA-assigned Risk Rating, currently defined by SBA as “1”, “2” or “3” on a scale of 1 to 5, which represents an acceptable level of risk as determined by SBA, and which may be revised by SBA from time to time as published in the Federal Register through notice and comment.
@@ -68,7 +66,8 @@ The following terms have the same meaning wherever they are used in this part. D
 
 *Rentable Property* is the total square footage of all buildings or facilities used for business operations.
 
-*Risk Rating* is an SBA internal composite rating assigned to individual SBA Lenders, Intermediaries, or NTAPs that reflects the risk associated with the SBA Lender's or Intermediary's portfolio of SBA loans or with the NTAP. Risk Ratings currently range from one to five, with one representing the least risk and five representing the most risk, and may be revised by SBA from time to time as published in the Federal Register through notice and comment.
+*Risk Rating* is an SBA internal composite rating assigned to individual SBA Lenders and Intermediaries that reflects the risk associated with the SBA Lender's or Intermediary's portfolio of SBA loans.
+Risk Ratings currently range from one to five, with one representing the least risk and five representing the most risk, and may be revised by SBA from time to time as published in the Federal Register through notice and comment.
 
 *Rural Area* is a political subdivision or unincorporated area in a non-metropolitan county (as defined by the Department of Agriculture), or, if in a metropolitan county, any such subdivision or area with a resident population under 20,000 which is designated by SBA as rural.
 
@@ -82,4 +81,4 @@ The following terms have the same meaning wherever they are used in this part. D
 
 *SOPs* are SBA Standard Operating Procedures, as issued and revised by SBA from time to time. SOPs are publicly available on SBA's Web site at *http://www.sba.gov* in the online library.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2117, Jan. 13, 1999; 68 FR 57980, Oct. 7, 2003; 72 FR 18360, Apr. 12, 2007; 73 FR 75510, Dec. 11, 2008; 76 FR 63545, Oct. 12, 2011; 85 FR 7647, Feb. 10, 2020; 85 FR 14780, Mar. 16, 2020; 85 FR 80588, Dec. 14, 2020]
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2117, Jan. 13, 1999; 68 FR 57980, Oct. 7, 2003; 72 FR 18360, Apr. 12, 2007; 73 FR 75510, Dec. 11, 2008; 76 FR 63545, Oct. 12, 2011; 85 FR 7647, Feb. 10, 2020; 85 FR 14780, Mar. 16, 2020; 85 FR 80588, Dec. 14, 2020; 87 FR 38908, June 30, 2022]

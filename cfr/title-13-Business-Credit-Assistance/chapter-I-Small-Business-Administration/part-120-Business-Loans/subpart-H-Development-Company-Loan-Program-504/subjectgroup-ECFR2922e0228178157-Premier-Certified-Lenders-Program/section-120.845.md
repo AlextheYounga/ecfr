@@ -1,14 +1,12 @@
 ##### § 120.845 Premier Certified Lenders Program (PCLP). #####
 
-Link to an amendment published at 87 FR 38909, June 30, 2022.
-
 (a) *General.* Under the PCLP, SBA designates qualified CDCs as PCLP CDCs and delegates to them increased authority to process, close, service, and liquidate 504 loans. SBA also may give PCLP CDCs increased authority to litigate 504 loans.
 
 (b) *Application.* A CDC must apply for PCLP status to the Lead SBA Office. The Lead SBA Office will send its written recommendation and the application to SBA's PCLP Loan Processing Center. The PCLP Loan Processing Center will review these materials and forward them to the appropriate Office of Capital Access official in accordance with Delegations of Authority for final determination.
 
 (c) *Eligibility.* In order for a CDC to be eligible to receive PCLP status, its application must show that it meets the following criteria:
 
-(1) The CDC must be an ALP CDC in substantial compliance with Loan Program Requirements or meet the criteria to be an ALP CDC set forth in § 120.841(a) through (h).
+(1) The CDC must be an ALP CDC in substantial compliance with Loan Program Requirements or meet the criteria to be an ALP CDC set forth in § 120.841(a) through (f).
 
 (2) The CDC can adequately comply with SBA liquidation and litigation requirements.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (g) *SBA approval or decline decision.* SBA will notify the CDC in writing of an approval or decline of a PCLP application. If an application is declined, SBA will notify the CDC of the reasons for the decision.
 
-[68 FR 57982, Oct. 7, 2003, as amended at 72 FR 18364, Apr. 12, 2007; 73 FR 75519, Dec. 11, 2008]
+[68 FR 57982, Oct. 7, 2003, as amended at 72 FR 18364, Apr. 12, 2007; 73 FR 75519, Dec. 11, 2008; 87 FR 38909, June 30, 2022]

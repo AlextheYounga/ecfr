@@ -1,5 +1,7 @@
 ##### § 412.604 Conditions for payment under the prospective payment system for inpatient rehabilitation facilities. #####
 
+Link to an amendment published at 87 FR 47090, Aug. 1, 2022.
+
 (a) *General requirements.* (1) Effective for cost reporting periods beginning on or after January 1, 2002, an inpatient rehabilitation facility must meet the conditions of this section to receive payment under the prospective payment system described in this subpart for inpatient hospital services furnished to Medicare Part A fee-for-service beneficiaries.
 
 (2) If an inpatient rehabilitation facility fails to comply fully with these conditions with respect to inpatient hospital services furnished to one or more Medicare Part A fee-for-service beneficiaries, CMS or its Medicare fiscal intermediary may, as appropriate -

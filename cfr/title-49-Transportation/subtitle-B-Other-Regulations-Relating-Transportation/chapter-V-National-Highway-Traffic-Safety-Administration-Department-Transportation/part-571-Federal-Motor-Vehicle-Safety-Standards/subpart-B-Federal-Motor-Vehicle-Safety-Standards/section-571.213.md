@@ -1,7 +1,5 @@
 ##### § 571.213 Standard No. 213; Child restraint systems. #####
 
-Link to an amendment published at 87 FR 39310, June 30, 2022.
-
 S1. *Scope.* This standard specifies requirements for child restraint systems used in motor vehicles and aircraft.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of children killed or injured in motor vehicle crashes and in aircraft.
@@ -60,7 +58,7 @@ S5. *Requirements.* (a) Each motor vehicle with a built-in child restraint syste
 
 (f) Each child restraint system that is equipped with an internal harness or other internal components to restrain the child need not meet this standard when attached to the lower anchors of the child restraint anchorage system on the standard seat assembly if the sum of the weight of the child restraint system (in pounds) and the average weight of child represented by the test dummy used to test the child restraint in accordance with S7 of this standard, shown in the table below, exceeds 65 pounds. Such a child restraint must meet this standard when tested using its internal harness or components to restrain such a test dummy while installed using the standard seat belt assembly specified in S5.3.2 of this standard.
 
-Table to S5(f) - Average Weight of Child Represented by Various Test Dummies
+Table to S5(f)—Average Weight of Child Represented by Various Test Dummies
 
 |         Test dummy  <br/>(specified in S7 of this  <br/>standard)         |Average weight of child represented by test dummy (pounds)|
 |---------------------------------------------------------------------------|----------------------------------------------------------|
@@ -69,6 +67,8 @@ Table to S5(f) - Average Weight of Child Represented by Various Test Dummies
 |          Hybrid III 6-year-old dummy 49 CFR Part 572, Subpart N)          |                            45                            |
 |Hybrid III 6-year-old weighted child test dummy (49 CFR Part 572 Subpart S)|                            62                            |
 |         Hybrid II 6-year-old dummy (49, CFR Part 572, Subpart I)          |                            45                            |
+
+(g) Each add-on child restraint system manufactured for use in motor vehicles, that is recommended for children in a weight range that includes weights up to 18 kilograms (40 pounds), or for children in a height range that includes heights up to 1100 millimeters, shall meet the requirements in this standard and the additional side impact protection requirements in Standard No. 213a (§ 571.213a). Excepted from Standard No. 213a are harnesses and car beds.
 
 S5.1 *Dynamic performance.*
 
@@ -84,7 +84,7 @@ S5.1.1 *Child restraint system integrity.* When tested in accordance with S6.1, 
 
 (c) If a front facing child restraint system, not allow the angle between the system's back support surfaces for the child and the system's seating surface to be less than 45 degrees at the completion of the test.
 
-S5.1.2 *Injury criteria.* When tested in accordance with S6.1 and with the test dummies specified in S7, each child restraint system manufactured before August 1, 2005, that, in accordance with S5.5.2, is recommended for use by children whose mass is more than 10 kg shall -
+S5.1.2 *Injury criteria.* When tested in accordance with S6.1 and with the test dummies specified in S7, each child restraint system manufactured before August 1, 2005, that, in accordance with S5.5.2, is recommended for use by children whose mass is more than 10 kg shall—
 
 (a) Limit the resultant acceleration at the location of the accelerometer mounted in the test dummy head as specified in part 572 such that the expression:
 
@@ -112,9 +112,9 @@ S5.1.3.1 *Child restraint systems other than rear-facing ones and car beds.* Eac
 
 (2) Neither knee pivot point shall pass through a vertical transverse plane that is 915 mm forward of point Z on the standard seat assembly, measured along the center SORL.
 
-Table to S5.1.3.1(a) - Add-On Forward-Facing Child Restraints
+Table to S5.1.3.1(a)—Add-On Forward-Facing Child Restraints
 
-|                                 When this type of child restraint                                  |         is tested in accordance with -         | these excursion limits apply |Explanatory note: In the test specified in 2nd column, the child restraint is attached to the test seat assembly in the manner described below, subject to certain conditions|
+|                                 When this type of child restraint                                  |         is tested in accordance with—          | these excursion limits apply |Explanatory note: In the test specified in 2nd column, the child restraint is attached to the test seat assembly in the manner described below, subject to certain conditions|
 |----------------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Harnesses, backless booster seats and restraints designed for use by physically handicapped children|               S6.1.2(a)(1)(i)(A)               |Head 813 mm;  <br/>Knee 915 mm|                                                Attached with lap belt; in addition, if a tether is provided, it is attached.                                                |
 |              Harnesses labeled per S5.3.1(b)(i) through S5.3.1(b)(iii) and Figure 12               |               S6.1.2(a)(1)(i)(A)               |Head 813 mm;  <br/>Knee 915 mm|                                                                       Attached with seat back mount.                                                                        |
@@ -135,9 +135,9 @@ S5.1.4 *Back support angle.* When a rear-facing child restraint system is tested
 
 S5.2 *Force distribution.*
 
-S5.2.1 *Minimum head support surface - child restraints other than car beds.*
+S5.2.1 *Minimum head support surface—child restraints other than car beds.*
 
-S5.2.1.1 Except as provided in S5.2.1.2, each child restraint system other than a car bed shall provide restraint against rearward movement of the head of the child (rearward in relation to the child) by means of a continuous seat back which is an integral part of the system and which -
+S5.2.1.1 Except as provided in S5.2.1.2, each child restraint system other than a car bed shall provide restraint against rearward movement of the head of the child (rearward in relation to the child) by means of a continuous seat back which is an integral part of the system and which—
 
 (a) Has a height, measured along the system seat back surface for the child in the vertical longitudinal plane passing through the longitudinal centerline of the child restraint systems from the lowest point on the system seating surface that is contacted by the buttocks of the seated dummy, as follows:
 
@@ -156,7 +156,7 @@ Table to S5.2.1.1(a)
 
 (c) Limits the rearward rotation of the test dummy head so that the angle between the head and torso of the dummy specified in S7. when tested in accordance with S6.1 is not more than 45 degrees greater than the angle between the head and torso after the dummy has been placed in the system in accordance with S6.1.2.3 and before the system is tested in accordance with S6.1.
 
-S5.2.1.2 The applicability of the requirements of S5.2.1.1 to a front-facing child restraint, and the conformance of any child restraint other than a car bed to those requirements, is determined using the largest of the test dummies specified in S7 for use in testing that restraint, provided that the 6-year-old dummy described in subpart I or subpart N of part 572 of this title and the 10-year-old dummy described in subpart T of part 572 of this title, are not used to determine the applicability of or compliance with S5.2.1.1. A front facing child restraint system is not required to comply with S5.2.1.1 if the target point on either side of the dummy's head is below a horizontal plane tangent to the top of -
+S5.2.1.2 The applicability of the requirements of S5.2.1.1 to a front-facing child restraint, and the conformance of any child restraint other than a car bed to those requirements, is determined using the largest of the test dummies specified in S7 for use in testing that restraint, provided that the 6-year-old dummy described in subpart I or subpart N of part 572 of this title and the 10-year-old dummy described in subpart T of part 572 of this title, are not used to determine the applicability of or compliance with S5.2.1.1. A front facing child restraint system is not required to comply with S5.2.1.1 if the target point on either side of the dummy's head is below a horizontal plane tangent to the top of—
 
 (a) The standard seat assembly, in the case of an add-on child restraint system, when the dummy is positioned in the system and the system is installed on the assembly in accordance with S6.1.2.
 
@@ -170,9 +170,9 @@ S5.2.2.1(a) The system surface provided for the support of the child's back shal
 
 (c) Each horizontal cross section of each system surface designed to restrain forward movement of the child's torso shall be flat or concave and each vertical longitudinal cross section shall be flat or convex with a radius of curvature of the underlying structure of not less than 2 inches.
 
-S5.2.2.2 Each forward-facing child restraint system shall have no fixed or movable surface -
+S5.2.2.2 Each forward-facing child restraint system shall have no fixed or movable surface—
 
-(a) Directly forward of the dummy and intersected by a horizontal line -
+(a) Directly forward of the dummy and intersected by a horizontal line—
 
 (1) Parallel to the SORL, in the case of the add-on child restraint system, or
 
@@ -218,7 +218,7 @@ S5.4 *Belts, belt buckles, and belt webbing.*
 
 S5.4.1 *Performance requirements.*
 
-S5.4.1.1 *Child restraint systems manufactured before September 1, 2007.* The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shall -
+S5.4.1.1 *Child restraint systems manufactured before September 1, 2007.* The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shall—
 
 (a) After being subjected to abrasion as specified in S5.1(d) or S5.3(c) of FMVSS 209 (§ 571.209), have a breaking strength of not less than 75 percent of the strength of the unabraded webbing when tested in accordance with S5.1(b) of FMVSS 209. A mass of 2.35 ±.05 kg shall be used in the test procedure in S5.1(d) of FMVSS 209 for webbing, including webbing used to secure a child restraint system to the tether and lower anchorages of a child restraint anchorage system, except that a mass of 1.5 ±.05 kg shall be used for webbing in pelvic and upper torso restraints of a belt assembly used in a child restraint system. The mass is shown as (B) in Figure 2 of FMVSS 209.
 
@@ -226,7 +226,7 @@ S5.4.1.1 *Child restraint systems manufactured before September 1, 2007.* The we
 
 (c) If contactable by the test dummy torso when the system is tested in accordance with S6.1, have a width of not less than 11/2 inches when measured in accordance with S5.4.1.3.
 
-S5.4.1.2 *Child restraint systems manufactured on or after September 1, 2007.* The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shall -
+S5.4.1.2 *Child restraint systems manufactured on or after September 1, 2007.* The webbing of belts provided with a child restraint system and used to attach the system to the vehicle or to restrain the child within the system shall—
 
 (a) Have a minimum breaking strength for new webbing of not less than 15,000 N in the case of webbing used to secure a child restraint system to the vehicle, including the tether and lower anchorages of a child restraint anchorage system, and not less than 11,000 N in the case of the webbing used to secure a child to a child restraint system when tested in accordance with S5.1 of FMVSS No. 209. Each value shall be not less than the 15,000 N and 11,000 N applicable breaking strength requirements, but the median value shall be used for determining the retention of breaking strength in paragraphs (b)(1), (c)(1), and (c)(2) of this section S5.4.1.2. “New webbing” means webbing that has not been exposed to abrasion, light or micro-organisms as specified elsewhere in this section.
 
@@ -248,7 +248,7 @@ S5.4.3 *Belt Restraint.*
 
 S5.4.3.1 *General.* Each belt that is part of a child restraint system and that is designed to restrain a child using the system shall be adjustable to snugly fit any child whose height and weight are within the ranges recommended in accordance with S5.5.2(f) and who is positioned in the system in accordance with the instructions required by S5.6.
 
-S5.4.3.2 *Direct restraint.* Except for belt-positioning seats, each belt that is part of a child restraint system and that is designed to restrain a child using the system and to attach the system to the vehicle, and each Type I and lap portion of a Type II vehicle belt that is used to attach the system to the vehicle shall, when tested in accordance with S6.1, impose no loads on the child that result from the mass of the system, or -
+S5.4.3.2 *Direct restraint.* Except for belt-positioning seats, each belt that is part of a child restraint system and that is designed to restrain a child using the system and to attach the system to the vehicle, and each Type I and lap portion of a Type II vehicle belt that is used to attach the system to the vehicle shall, when tested in accordance with S6.1, impose no loads on the child that result from the mass of the system, or—
 
 (a) In the case of an add-on child restraint system, from the mass of the seat back of the standard seat assembly specified in S6.1, or
 
@@ -378,33 +378,33 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (B) For forward-facing child restraints, \* is the child weight limit specified in the following table corresponding to the value CW, calculated as 65 minus child restraint weight (pounds).
 
-Table to S5.5.2(l)(3)(i)(B) - Maximum Child Weight Limit for Lower Anchor Use for Forward-Facing Child Restraint System - Rounding
+Table to S5.5.2(l)(3)(i)(B)—Maximum Child Weight Limit for Lower Anchor Use for Forward-Facing Child Restraint System—Rounding
 
-|CW = 65 - child restaint weight (pounds)|Child weight limit “\*” (pounds)|
-|----------------------------------------|--------------------------------|
-|             20 \< CW ≤ 25              |               25               |
-|             25 \< CW ≤ 30              |               30               |
-|             30 \< CW ≤ 35              |               35               |
-|             35 \< CW ≤ 40              |               40               |
-|             40 \< CW ≤ 45              |               45               |
-|             45 \< CW ≤ 50              |               50               |
-|             50 \< CW ≤ 55              |               55               |
-|             55 \< CW ≤ 60              |               60               |
+|CW = 65—child restaint weight (pounds)|Child weight limit “\*” (pounds)|
+|--------------------------------------|--------------------------------|
+|            20 \< CW ≤ 25             |               25               |
+|            25 \< CW ≤ 30             |               30               |
+|            30 \< CW ≤ 35             |               35               |
+|            35 \< CW ≤ 40             |               40               |
+|            40 \< CW ≤ 45             |               45               |
+|            45 \< CW ≤ 50             |               50               |
+|            50 \< CW ≤ 55             |               55               |
+|            55 \< CW ≤ 60             |               60               |
 
 (C) For rear-facing child restraints, \* is the child weight limit specified in the following table corresponding to the value CW, calculated as 60 minus child restraint weight (pounds).
 
-Table to S5.5.2(l)(3)(i)(C) - Maximum Child Weight Limit for Lower Anchor Use for Rear-Facing Child Restraint System - Rounding
+Table to S5.5.2(l)(3)(i)(C)—Maximum Child Weight Limit for Lower Anchor Use for Rear-Facing Child Restraint System—Rounding
 
-|CW = 60 - child restraint weight (pounds)|Child weight limit “\*” (pounds)|
-|-----------------------------------------|--------------------------------|
-|              15 \< CW ≤ 20              |               20               |
-|              20 \< CW ≤ 25              |               25               |
-|              25 \< CW ≤ 30              |               30               |
-|              30 \< CW ≤ 35              |               35               |
-|              35 \< CW ≤ 40              |               40               |
-|              40 \< CW ≤ 45              |               45               |
-|              45 \< CW ≤ 50              |               50               |
-|              50 \< CW ≤ 55              |               55               |
+|CW = 60—child restraint weight (pounds)|Child weight limit “\*” (pounds)|
+|---------------------------------------|--------------------------------|
+|             15 \< CW ≤ 20             |               20               |
+|             20 \< CW ≤ 25             |               25               |
+|             25 \< CW ≤ 30             |               30               |
+|             30 \< CW ≤ 35             |               35               |
+|             35 \< CW ≤ 40             |               40               |
+|             40 \< CW ≤ 45             |               45               |
+|             45 \< CW ≤ 50             |               50               |
+|             50 \< CW ≤ 55             |               55               |
 
 (ii) For child restraints designed to meet the requirements of this standard when installed forward-facing and rear-facing by the child restraint anchorage system according to S5.3.2, the following applies:
 
@@ -540,7 +540,7 @@ S5.6.3 *Add-on and built-in child restraint systems.* In the case of each child 
 
 S5.7 *Flammability.* Each material used in a child restraint system shall conform to the requirements of S4 of FMVSS No. 302 (571.302). In the case of a built-in child restraint system, the requirements of S4 of FMVSS No. 302 shall be met in both the “in-use” and “stowed” positions.
 
-S5.8 Information requirements - attached registration form and electronic registration form.
+S5.8 Information requirements—attached registration form and electronic registration form.
 
 S5.8.1 *Attached registration form.*
 
@@ -806,7 +806,7 @@ S10.2.1 *Newborn dummy and 12-month-old dummy.* Position the test dummy accordin
 
 S10.2.2 *Other dummies generally.* When using: (1) the Hybrid III 3-year-old (part 572, subpart P), Hybrid II 6-year-old (part 572, subpart I), and Hybrid III weighted 6-year-old (part 572, subpart S) in child restraint systems including belt-positioning seats; (2) the Hybrid III 6-year-old (part 572, subpart N) and the Hybrid III 10-year-old (part 572, subpart T) in child restraint systems other than belt-positioning seats, position the dummy in accordance with S5.6.1 or S5.6.2, while conforming to the following:
 
-(a) Holding the test dummy torso upright until it contacts the system's design seating surface, place the test dummy in the seated position within the system with the midsagittal plane of the test dummy head -
+(a) Holding the test dummy torso upright until it contacts the system's design seating surface, place the test dummy in the seated position within the system with the midsagittal plane of the test dummy head—
 
 (1) Coincident with the center SORL of the standard seating assembly, in the case of the add-on child restraint system, or
 

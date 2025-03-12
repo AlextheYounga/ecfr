@@ -1,12 +1,10 @@
-##### § 120.1400 Grounds for enforcement actions - SBA Lenders. #####
-
-Link to an amendment published at 87 FR 38909, June 30, 2022.
+##### § 120.1400 Grounds for enforcement actions—SBA Lenders. #####
 
 (a) *Agreements.* By making SBA 7(a) guaranteed loans or 504 loans, SBA Lenders automatically agree to the terms, conditions, and remedies in Loan Program Requirements, as promulgated or issued from time to time and as if fully set forth in the SBA Form 750 (Loan Guaranty Agreement), Development Company 504 Debenture, CDC Certification, Servicing Agent Agreement, or other applicable participation, guaranty, or supplemental agreement. SBA Lenders further agree that a violation of Loan Program Requirements constitutes default under their respective agreements with SBA.
 
-(1) *Additional agreements by CDCs.* By obtaining approval for 504 loans after October 20, 2017, a CDC consents to the remedies in § 120.1500(e)(3) and waives in advance any right it may have to contest the validity of the appointment of a receiver. The CDC agrees that its consent to SBA's application to a Federal court of competent jurisdiction for appointment of a receiver of SBA's choosing, an injunction or other equitable relief, and the CDC's consent in advance to the court's granting of SBA's application, may be enforced upon any basis in law or equity recognized by the court.
+(1) *Additional agreements by CDCs.* By obtaining approval for 504 loans after January 1, 2018, a CDC consents to the remedies in § 120.1500(e)(3) and waives in advance any right it may have to contest the validity of the appointment of a receiver. The CDC agrees that its consent to SBA's application to a Federal court of competent jurisdiction for appointment of a receiver of SBA's choosing, an injunction or other equitable relief, and the CDC's consent in advance to the court's granting of SBA's application, may be enforced upon any basis in law or equity recognized by the court. The CDC's consent does not preclude the CDC from contesting whether or not SBA has established the grounds for seeking the remedy of a receivership. A CDC's consent to receivership as a remedy does not require SBA to seek appointment of a receiver in any particular SBA enforcement action.
 
-(2) *Additional agreements by SBA Supervised Lenders (except Other Regulated SBLCs*). By making SBA 7(a) guaranteed loans after October 20, 2017, an SBA Supervised Lender (except an Other Regulated SBLC) consents to the remedies in § 120.1500(c)(3) and waives in advance any right it may have to contest the validity of the appointment of a receiver. The SBA Supervised Lender agrees that its consent to SBA's application to a Federal court of competent jurisdiction for appointment of a receiver of SBA's choosing, an injunction or other equitable relief, and the SBA Supervised Lender's consent in advance to the court's granting of SBA's application, may be enforced upon any basis in law or equity recognized by the court.
+(2) *Additional agreements by SBA Supervised Lenders (except Other Regulated SBLCs*). By making SBA 7(a) guaranteed loans after January 1, 2018, an SBA Supervised Lender (except an Other Regulated SBLC) consents to the remedies in § 120.1500(c)(3) and waives in advance any right it may have to contest the validity of the appointment of a receiver. The SBA Supervised Lender agrees that its consent to SBA's application to a Federal court of competent jurisdiction for appointment of a receiver of SBA's choosing, an injunction or other equitable relief, and the SBA Supervised Lender's consent in advance to the court's granting of SBA's application, may be enforced upon any basis in law or equity recognized by the court. The SBA Supervised Lender's consent does not preclude such Lender from contesting whether or not SBA has established the grounds for seeking the remedy of a receivership. The SBA Supervised Lender's consent to receivership as a remedy does not require SBA to seek appointment of a receiver in any particular SBA enforcement action.
 
 (b) *Scope.* SBA may undertake one or more of the enforcement actions listed in §§ 120.1300 and 120.1500, or as otherwise authorized by law, if SBA determines that the grounds applicable to the enforcement action exist. Paragraphs (c) through (e) of this section list the grounds that trigger enforcement actions against each type of SBA Lender. In general, the grounds listed in paragraph (c) apply to all SBA Lenders. However, certain enforcement actions against SBA Supervised Lenders require the existence of certain grounds, as set forth in paragraphs (d) and (e). In addition, paragraph (f) of this section lists two additional grounds for taking enforcement action against CDCs that do not apply to other SBA Lenders. SBA considers the severity or frequency of a violation in determining whether to take an enforcement action and the type of enforcement action to take.
 
@@ -32,13 +30,13 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (10) As otherwise authorized by law;
 
-(11) For immediate suspension of all SBA Lenders from delegated authorities - upon a determination by SBA that:
+(11) For immediate suspension of all SBA Lenders from delegated authorities—upon a determination by SBA that:
 
 (i) One or more of the grounds in paragraph (c) or (f) of this section, as applicable, exists; and
 
 (ii) Immediate action is needed to protect the interests of the Federal Government (such as where there is risk of immediate harm or loss, a significant program integrity concern, or clear evidence of conduct indicating a lack of business integrity); and
 
-(12) For immediate suspension of all SBA Lenders (except SBA Supervised Lenders, which are covered under paragraph (d)(2) of this section) from the authority to participate in the SBA loan program, including the authority to make, service, liquidate, or litigate 7(a) or 504 loans - upon a determination by SBA that:
+(12) For immediate suspension of all SBA Lenders (except SBA Supervised Lenders, which are covered under paragraph (d)(2) of this section) from the authority to participate in the SBA loan program, including the authority to make, service, liquidate, or litigate 7(a) or 504 loans—upon a determination by SBA that:
 
 (i) One or more of the grounds in paragraph (c) or (f) of this section, as applicable, exists; and
 
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (d) *Grounds required for certain enforcement actions against SBA Supervised Lenders (except Other Regulated SBLCs) or, as applicable, Other Persons.* For purposes of Subpart I, Other Person means a Management Official, attorney, accountant, appraiser, Lender Service Provider or other individual involved in the SBA Supervised Lender's operations. For the below listed SBA Supervised Lender enforcement actions, the grounds that are required to take the enforcement action are:
 
-(1) *For SBA program suspensions and revocations* -
+(1) *For SBA program suspensions and revocations*—
 
 (i) False statements knowingly made in any required written submission to SBA; or
 
@@ -58,15 +56,15 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (v) A violation of any cease and desist order of SBA.
 
-(2) *For SBA program immediate suspension* - SBA may suspend an SBA Supervised Lender, effective immediately, if in addition to meeting the grounds set forth in paragraph (d)(1) of this section, the Administrator (or the Deputy Administrator, only if the Administrator is unavailable to take such action) finds extraordinary circumstances and takes such action in order to protect the financial or legal position of the United States.
+(2) *For SBA program immediate suspension*—SBA may suspend an SBA Supervised Lender, effective immediately, if in addition to meeting the grounds set forth in paragraph (d)(1) of this section, the Administrator (or the Deputy Administrator, only if the Administrator is unavailable to take such action) finds extraordinary circumstances and takes such action in order to protect the financial or legal position of the United States.
 
-(3) *For cease and desist orders* -
+(3) *For cease and desist orders*—
 
 (i) A violation of SBA Loan Program Requirements; or
 
 (ii) Where an SBA Supervised Lender or Other Person engages in or is about to engage in any acts or practices that will violate SBA Loan Program Requirements.
 
-(4) *For an emergency cease and desist order* -
+(4) *For an emergency cease and desist order*—
 
 (i) Where grounds for cease and desist order are met,
 
@@ -74,19 +72,19 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (iii) In order to protect the financial or legal position of the United States.
 
-(5) *For transfer of Loan portfolio* -
+(5) *For transfer of Loan portfolio*—
 
 (i) Where a court has appointed a receiver; or
 
 (ii) The SBA Supervised Lender is either not in compliance with capital requirements or is insolvent. An SBA Supervised Lender is insolvent within the meaning of this provision when all of its capital, surplus, and undivided profits are absorbed in funding losses and the remaining assets are not sufficient to pay and discharge its contracts, debts, and other obligations as they come due.
 
-(6) *For transfer of servicing activity* -
+(6) *For transfer of servicing activity*—
 
 (i) Where grounds for transfer of Loan portfolio are met; or
 
 (ii) Where the SBA Supervised Lender is otherwise operating in an unsafe and unsound condition.
 
-(7) *For order to remove Management Official* - where, in the opinion of the Administrator or his/her delegatee, the Management Official -
+(7) *For order to remove Management Official*—where, in the opinion of the Administrator or his/her delegatee, the Management Official—
 
 (i) Willfully and knowingly committed a substantial violation of the Act, SBA regulation, a final cease and desist order, or any agreement by the Management Official or the SBA Supervised Lender under the Act or SBA regulations, or
 
@@ -94,11 +92,11 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (iii) The Management Official is convicted of a felony involving dishonesty or breach of trust and the conviction is no longer subject to further judicial review (excludes writ of habeas corpus).
 
-(8) *For order to suspend or prohibit participation of Management Official* (interim measure pending removal) - where SBA is undertaking enforcement action of removal of a Management Official.
+(8) *For order to suspend or prohibit participation of Management Official* (interim measure pending removal)—where SBA is undertaking enforcement action of removal of a Management Official.
 
-(9) *For order to suspend or prohibit participation of Management Official due to criminal charges* - where the Management Official is charged in any information, indictment or complaint authorized by a United States attorney with a felony involving dishonesty or breach of trust.
+(9) *For order to suspend or prohibit participation of Management Official due to criminal charges*—where the Management Official is charged in any information, indictment or complaint authorized by a United States attorney with a felony involving dishonesty or breach of trust.
 
-(e) *Grounds required for certain enforcement actions against SBLCs and Other Regulated SBLCs* - (1) *Capital directive.* If the AA/CA determines that an SBLC is capitally impaired or is otherwise being operated in an imprudent manner, the AA/CA may, in addition to any other action authorized by law, issue a directive to the SBLC to increase capital consistent with § 120.1500(d)(1).
+(e) *Grounds required for certain enforcement actions against SBLCs and Other Regulated SBLCs*—(1) *Capital directive.* If the AA/CA determines that an SBLC is capitally impaired or is otherwise being operated in an imprudent manner, the AA/CA may, in addition to any other action authorized by law, issue a directive to the SBLC to increase capital consistent with § 120.1500(d)(1).
 
 (2) *Civil action for termination.* If an SBLC violates the Act or SBA regulations, SBA may institute a civil action to terminate SBLC rights, privileges, and the franchise under § 120.1500(d)(2).
 
@@ -108,4 +106,4 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (2) For PCLP CDCs, failure to establish or maintain a LLRF as required by the PCLP.
 
-[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39505, Aug. 21, 2017; 85 FR 14782, Mar. 16, 2020]
+[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39505, Aug. 21, 2017; 85 FR 14782, Mar. 16, 2020; 87 FR 38909, June 30, 2022]

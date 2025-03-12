@@ -1,7 +1,5 @@
 ##### § 120.701 Definitions. #####
 
-Link to an amendment published at 87 FR 38909, June 30, 2022.
-
 (a) *Deposit account* is a demand, time, savings, passbook, or similar account maintained with an insured depository institution (not including an account evidenced by a Certificate of Deposit).
 
 (b) *Grant* is a Federal award of money, or property in lieu of money (including cooperative agreements) to an eligible grantee that must account for its use. The term does not include the provision of technical assistance, revenue sharing, loans, loan guarantees, interest subsidies, insurance, direct appropriations, or any fellowship or other lump sum award.
@@ -22,8 +20,6 @@ Link to an amendment published at 87 FR 38909, June 30, 2022.
 
 (f) *Non-Federal sources* are sources of funds other than the Federal Government and may include indirect costs or in-kind contributions paid for under non-Federal programs. Community Block Development Grants are considered non-Federal sources.
 
-(g) *Non-lending technical assistance provider* (NTAP) is an entity which receives grant funds from SBA to provide technical assistance to Microloan borrowers.
+(g) *Specialized Intermediary* is an Intermediary which maintains a portfolio of Microloans averaging $10,000 or less.
 
-(h) *Specialized Intermediary* is an Intermediary which maintains a portfolio of Microloans averaging $10,000 or less.
-
-[61 FR 3235, Jan. 31, 1996, as amended at 66 FR 47073, Sept. 11, 2001; 66 FR 47878, Sept. 14, 2001; 76 FR 63546, Oct. 12, 2011; 80 FR 34046, June 15, 2015]
+[61 FR 3235, Jan. 31, 1996, as amended at 66 FR 47073, Sept. 11, 2001; 66 FR 47878, Sept. 14, 2001; 76 FR 63546, Oct. 12, 2011; 80 FR 34046, June 15, 2015; 87 FR 38909, June 30, 2022]

@@ -1,7 +1,5 @@
 ##### § 370.3 Reports of use of sound recordings under statutory license for preexisting subscription services. #####
 
-Link to an amendment published at 87 FR 39001, June 30, 2022.
-
 (a) *General.* This section prescribes the rules for the maintenance and delivery of reports of use for sound recordings under section 112(e) or section 114(d)(2) of title 17 of the United States Code, or both, by preexisting subscription services.
 
 (b) *Delivery.* Reports of Use shall be delivered to Collectives that are identified in the records of the Licensing Section of the Copyright Office as having been designated by determination of the Copyright Royalty Judges. Reports of Use shall be delivered on or before the forty-fifth day after the close of each month.
@@ -58,6 +56,6 @@ Link to an amendment published at 87 FR 39001, June 30, 2022.
 
 (h) *Documentation.* All compulsory licensees shall, for a period of at least three years from the date of service or posting of the Report of Use, keep and retain a copy of the Report of Use.
 
-(i) In any case in which a preexisting subscription service has not provided a report of use required under this section for use of sound recordings under section 112(e) or section 114 of title 17 of the United States Code, or both, prior to January 1, 2010, reports of use for the corresponding calendar year filed by other preexisting subscription services shall serve as the reports of use for the non-reporting service, solely for purposes of distribution of any corresponding royalties by the Collective.
+(i) In any case in which a preexisting subscription service has not provided a report of use required under this section for use of sound recordings under section 112(e) or section 114 of title 17 of the United States Code, or both, prior to January 1, 2019, reports of use for the corresponding calendar year filed by other preexisting subscription services may serve as the reports of use for the non-reporting service, solely for purposes of distribution of any corresponding royalties by the Collective.
 
-[74 FR 52423, Oct. 13, 2009, as amended at 76 FR 45696, Aug. 1, 2011; 86 FR 32643, June 22, 2021]
+[74 FR 52423, Oct. 13, 2009, as amended at 76 FR 45696, Aug. 1, 2011; 86 FR 32643, June 22, 2021; 87 FR 39001, June 30, 2022]
