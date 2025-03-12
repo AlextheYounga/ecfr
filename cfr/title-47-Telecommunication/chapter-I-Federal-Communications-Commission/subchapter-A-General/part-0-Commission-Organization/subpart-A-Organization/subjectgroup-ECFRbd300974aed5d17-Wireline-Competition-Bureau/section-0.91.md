@@ -1,7 +1,5 @@
 ##### § 0.91 Functions of the Bureau. #####
 
-Link to an amendment published at 86 FR 48520, Aug. 31, 2021.
-
 The Wireline Competition Bureau advises and makes recommendations to the Commission, or acts for the Commission under delegated authority, in all matters pertaining to the regulation and licensing of communications common carriers and ancillary operations (other than matters pertaining exclusively to the regulation and licensing of wireless telecommunications services and facilities). The Bureau will, among other things:
 
 (a) Develop and recommend policy goals, objectives, programs and plans for the Commission in rulemaking and adjudicatory matters concerning wireline telecommunications, drawing on relevant economic, technological, legislative, regulatory and judicial information and developments. Overall objectives include meeting the present and future wireline telecommunications needs of the Nation; fostering economic growth; ensuring choice, opportunity, and fairness in the development of wireline telecommunications; promoting economically efficient investment in wireline telecommunications infrastructure; promoting the development and widespread availability of wireline telecommunications services; and developing deregulatory initiatives where appropriate.
@@ -38,4 +36,6 @@ The Wireline Competition Bureau advises and makes recommendations to the Commiss
 
 (q) Issue orders revoking a common carrier's operating authority pursuant to section 214 of the Act, and issue orders to cease and desist such operations, in cases where the presiding officer has issued a certification order to the Commission that the carrier has waived its opportunity for hearing under that section.
 
-[67 FR 13218, Mar. 21, 2002, as amended at 68 FR 13850, Mar. 21, 2003; 69 FR 55109, Sept. 13, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 49148, Aug. 13, 2013; 83 FR 63076, Dec. 7, 2018; 85 FR 63171, Oct. 6, 2020; 86 FR 12546, Mar. 4, 2021]
+(r) Review and resolve appeals of decisions by the STIR/SHAKEN authentication framework Governance Authority (as those terms are defined in § 64.6300 of this chapter) in accordance with § 64.6308 of this chapter.
+
+[67 FR 13218, Mar. 21, 2002, as amended at 68 FR 13850, Mar. 21, 2003; 69 FR 55109, Sept. 13, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 49148, Aug. 13, 2013; 83 FR 63076, Dec. 7, 2018; 85 FR 63171, Oct. 6, 2020; 86 FR 12546, Mar. 4, 2021; 86 FR 48520, Aug. 31, 2021]

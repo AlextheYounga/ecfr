@@ -1,5 +1,7 @@
 ##### § 4.104 Schedule of ratings - cardiovascular system. #####
 
+Link to an amendment published at 86 FR 54093, Sept. 30, 2021.
+
 Diseases of the Heart
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                           Rating                                           |

@@ -202,4 +202,4 @@ Note to paragraph (e):
 
 (6) Any defense articles and defense services provided in support of implementation of the Comprehensive Peace Agreement, the Agreement on the Resolution of the Conflict in the Republic of South Sudan, or any successor agreement.
 
-[58 FR 39312, July 22, 1993]Editorial Note:For Federal Register citations affecting § 126.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 60699, Sept. 28, 2020, § 126.1 was amended by revising paragraph (r), effective Oct. 1, 2020 until Sept. 30, 2021.
+[58 FR 39312, July 22, 1993]Editorial Note:For Federal Register citations affecting § 126.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 60699, Sept. 28, 2020, § 126.1 was amended by revising paragraph (r), effective Oct. 1, 2020 until Sept. 30, 2021. At 86 FR 54044, Sept. 30, 2021, the effective date was extended through Sept. 30, 2022.

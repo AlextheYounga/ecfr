@@ -1,5 +1,7 @@
 ##### § 4.115a Ratings of the genitourinary system - dysfunctions. #####
 
+Link to an amendment published at 86 FR 54085, Sept. 30, 2021.
+
 Diseases of the genitourinary system generally result in disabilities related to renal or voiding dysfunctions, infections, or a combination of these. The following section provides descriptions of various levels of disability in each of these symptom areas. Where diagnostic codes refer the decisionmaker to these specific areas dysfunction, only the predominant area of dysfunction shall be considered for rating purposes. Since the areas of dysfunction described below do not cover all symptoms resulting from genitourinary diseases, specific diagnoses may include a description of symptoms assigned to that diagnosis.
 
 |                                                                                                                                                                                                                                                                                       |Rating|

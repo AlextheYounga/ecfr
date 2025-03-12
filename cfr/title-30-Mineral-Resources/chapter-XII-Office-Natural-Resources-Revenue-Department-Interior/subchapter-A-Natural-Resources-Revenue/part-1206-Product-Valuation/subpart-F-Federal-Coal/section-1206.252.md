@@ -1,6 +1,6 @@
 ##### § 1206.252 How do I calculate royalty value for coal that I or my affiliate sell(s) under an arm's-length or non-arm's-length contract? #####
 
-Link to an amendment published at 86 FR 4657, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.
+Link to an amendment published at 86 FR 4657, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.This amendment was withdrawn effective Nov. 1, 2021, at 86 FR 54072, Sept. 30, 2021.
 
 (a) The value of coal under this section for royalty purposes is the gross proceeds accruing to you or your affiliate under the first arm's-length contract, less an applicable transportation allowance determined under §§ 1206.260 through 1206.262 and washing allowance under §§ 1206.267 through 1206.269. You must use this paragraph (a) to value coal when:
 

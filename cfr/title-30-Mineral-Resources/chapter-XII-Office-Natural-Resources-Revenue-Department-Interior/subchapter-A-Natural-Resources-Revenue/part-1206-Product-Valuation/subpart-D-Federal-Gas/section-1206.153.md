@@ -1,6 +1,6 @@
 ##### § 1206.153 How do I determine a transportation allowance if I have an arm's-length transportation contract? #####
 
-Link to an amendment published at 86 FR 4656, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.
+Link to an amendment published at 86 FR 4656, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.This amendment was further delayed until Nov. 1, 2021, at 86 FR 20032, Apr. 16, 2021.This amendment was withdrawn effective Nov. 1, 2021, at 86 FR 54072, Sept. 30, 2021.
 
 (a)(1) If you or your affiliate incur transportation costs under an arm's-length transportation contract, you may claim a transportation allowance for the reasonable, actual costs incurred, as more fully explained in paragraph (b) of this section, except as provided in § 1206.152(g) and subject to the limitation in § 1206.152(e).
 
