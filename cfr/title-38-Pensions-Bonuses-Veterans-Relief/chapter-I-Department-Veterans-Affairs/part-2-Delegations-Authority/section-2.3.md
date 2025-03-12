@@ -1,0 +1,9 @@
+##### § 2.3 Delegation of authority to employees to take affidavits, to administer oaths, etc. #####
+
+(a) An employee to whom authority is delegated by the Secretary in accordance with 38 U.S.C. 5711, or to whom authority was delegated by the Secretary in accordance with title III, Pub. L. 844, 74th Congress, section 616, Pub. L. 801, 76th Congress, and section 1211, Pub. L. 85-56, is by virtue of such delegated authority, until such authority is revoked or otherwise terminated, empowered to take affidavits, to administer oaths and affirmations, to aid claimants in the preparation and presentation of claims, and to make investigations, examine witnesses, and certify to the correctness of papers and documents upon any matter within the jurisdiction of the Department of Veterans Affairs. Such employee is not authorized to administer oaths in connection with the execution of affidavits relative to fiscal vouchers and is not authorized to take acknowledgments to policy loan agreements and applications for cash surrender value to United States Government life insurance and National Service life insurance.
+
+(b) Any such oath, affirmation, affidavit, or examination, when certified under the hand of any such employee by whom it was administered or taken and authenticated by the seal of the Department of Veterans Affairs, may be offered or used in any court of the United States and, without further proof of the identity or authority of such employee, shall have like force and effect as if administered or taken before a clerk of such court.
+
+(c) The delegated authority from the Secretary to employees to take affidavits, to administer oaths, etc., will be evidenced by VA Form 4505 series.
+
+[24 FR 10018, Dec. 11, 1959. Redesignated at 64 FR 47111, Aug. 30, 1999]

@@ -1,0 +1,3 @@
+##### § 11.96 By whom loans may be made. #####
+
+Loans will be made by the Department of Veterans Affairs, Washington, DC, to any veteran, upon his promissory note secured by his adjusted service certificate, in any amount in even dollars not less than $10 and not in excess of the loan value of the certificate at the date the loan is made. Each certificate contains on its face a table for determining the loan value of the certificate but at no time is the loan value less than fifty per centum of the face value.

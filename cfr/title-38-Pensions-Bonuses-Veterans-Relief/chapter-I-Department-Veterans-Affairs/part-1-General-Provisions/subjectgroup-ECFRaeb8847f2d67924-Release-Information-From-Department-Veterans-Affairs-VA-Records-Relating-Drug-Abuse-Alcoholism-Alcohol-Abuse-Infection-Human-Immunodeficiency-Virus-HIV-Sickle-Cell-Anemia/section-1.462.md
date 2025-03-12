@@ -1,0 +1,11 @@
+##### § 1.462 Confidentiality restrictions. #####
+
+(a) *General.* The patient records to which §§ 1.460 through 1.499 of this part apply may be disclosed or used only as permitted by these regulations and may not otherwise be disclosed or used in any civil, criminal, administrative, or legislative proceedings conducted by any Federal, State, or local authority. Any disclosure made under these regulations must be limited to that information which is necessary to carry out the purpose of the disclosure.
+
+(b) *Unconditional compliance required.* The restrictions on disclosure and use in §§ 1.460 through 1.499 of this part apply whether the person seeking the information already has it, has other means of obtaining it, is a law enforcement or other official, has obtained a subpoena, or asserts any other justification for a disclosure or use which is not permitted by §§ 1.460 through 1.499 of this part. These provisions do not prohibit VA from acting accordingly when there is no disclosure of information.
+
+(c) *Acknowledging the presence of patients: responding to requests.* (1) The presence of an identified patient in a VA facility for the treatment or other VA program activity relating to drug abuse, alcoholism or alcohol abuse, infection with the HIV, or sickle cell anemia may be acknowledged only if the patient's written consent is obtained in accordance with § 1.475 of this part or if an authorizing court order is entered in accordance with §§ 1.490 through 1.499 of this part. Acknowledgment of the presence of an identified patient in a facility is permitted if the acknowledgment does not reveal that the patient is being treated for or is otherwise involved in a VA program or activity concerning drug abuse, alcoholism or alcohol abuse, infection with the HIV, or sickle cell anemia.
+
+(2) Any answer to a request for a disclosure of patient records which is not permissible under §§ 1.460 through 1.499 of this part must be made in a way that will not affirmatively reveal that an identified individual has been, or is being diagnosed or treated for drug abuse, alcoholism or alcohol abuse, infection with the HIV, or sickle cell anemia. These regulations do not restrict a disclosure that an identified individual is not and never has been a patient.
+
+(Authority: 38 U.S.C. 7334)

@@ -1,0 +1,7 @@
+##### § 1.508 Disclosure in cases where claimants are charged with or convicted of criminal offenses. #####
+
+(a) Where incompetent claimants are charged with, or convicted of, offenses other than those growing out of their relationship with the Department of Veterans Affairs and in which it is desired to disclose information from the files and records of the Department of Veterans Affairs, the Regional Counsel, Under Secretary for Benefits, Veterans Benefits Administration, or the General Counsel if the General Counsel deems it necessary and proper, may disclose to the court having jurisdiction so much of the information from the files and records of the Department of Veterans Affairs relating to the mental condition of such beneficiaries, the same to be available as evidence, as may be necessary to show the mental condition of the accused and the time of its onset. This provision, however, does not alter the general procedure for handling offenses growing out of relations with the Department of Veterans Affairs.
+
+(b) When desired by a U.S. district court, the Regional Counsel or the General Counsel may supply information as to whether any person charged with crime served in the military or naval service of the United States and whether the Department of Veterans Affairs has a file on such person. If the file is desired either by the court or by the prosecution or defense, it may be produced only in accord with §§ 1.501 through 1.526.
+
+[21 FR 10375, Dec. 28, 1956, as amended at 32 FR 10848, July 25, 1967; 54 FR 34980, Aug. 23, 1989]

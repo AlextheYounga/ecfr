@@ -1,0 +1,3 @@
+##### § 4.44 The bones. #####
+
+The osseous abnormalities incident to trauma or disease, such as malunion with deformity throwing abnormal stress upon, and causing malalignment of joint surfaces, should be depicted from study and observation of all available data, beginning with inception of injury or disease, its nature, degree of prostration, treatment and duration of convalescence, and progress of recovery with development of permanent residuals. With shortening of a long bone, some degree of angulation is to be expected; the extent and direction should be brought out by X-ray and observation. The direction of angulation and extent of deformity should be carefully related to strain on the neighboring joints, especially those connected with weight-bearing.

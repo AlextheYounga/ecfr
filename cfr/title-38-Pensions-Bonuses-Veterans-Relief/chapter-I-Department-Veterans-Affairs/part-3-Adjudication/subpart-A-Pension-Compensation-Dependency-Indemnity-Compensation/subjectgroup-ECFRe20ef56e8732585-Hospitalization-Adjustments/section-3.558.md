@@ -1,0 +1,7 @@
+##### § 3.558 Resumption and payment of withheld benefits; incompetents with estates that equaled or exceeded statutory limit. #####
+
+(a) Payments for the veteran will be resumed and apportionment awards discontinued under the applicable provisions of § 3.556(a), (d), and (e) upon authorized absence from the hospital for 30 days or more or a regular or irregular discharge or release. Care and maintenance payments to an institution will not be made for any period the veteran is not receiving such care and maintenance.
+
+(b) Any amount not paid because of the provisions of former § 3.557(b) (as in effect prior to December 27, 2001), and any amount of compensation or retirement pay withheld pursuant to the provisions of § 3.551(b) (and/or predecessor regulatory provisions) as it was constituted prior to August 1, 1972, and not previously paid because of the provisions of former § 3.557(b) (as in effect prior to December 27, 2001), will be awarded to the veteran if he or she is subsequently rated competent by VA for a period of not less than six months.
+
+(Authority: 38 U.S.C. 5503)[27 FR 7679, Aug. 3, 1962, as amended at 36 FR 25225, Dec. 30, 1971; 38 FR 34116, Dec. 11, 1973; 40 FR 45170, Oct. 1, 1975; 41 FR 18412, May 4, 1976; 50 FR 50617, Dec. 11, 1985; 58 FR 34224, June 24, 1993; 66 FR 48560, Sept. 21, 2001; 68 FR 34542, June 10, 2003]

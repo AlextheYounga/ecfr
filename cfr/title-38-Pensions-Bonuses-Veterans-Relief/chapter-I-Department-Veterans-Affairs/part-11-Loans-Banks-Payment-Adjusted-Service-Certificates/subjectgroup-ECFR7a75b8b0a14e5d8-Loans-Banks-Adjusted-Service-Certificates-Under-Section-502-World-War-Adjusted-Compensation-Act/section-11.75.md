@@ -1,0 +1,3 @@
+##### § 11.75 Certificates. #####
+
+Adjusted service certificates are dated as of the 1st day of the month in which the applications were filed, but no certificates are dated prior to January 1, 1925. Loans on the security of such certificates may be made at any time after the date of the certificate. The fact that a certificate is stamped or marked “duplicate” does not destroy its value as security for a loan.

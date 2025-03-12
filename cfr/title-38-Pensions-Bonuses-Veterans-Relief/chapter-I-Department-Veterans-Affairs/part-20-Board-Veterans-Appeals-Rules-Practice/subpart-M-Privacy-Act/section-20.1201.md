@@ -1,0 +1,5 @@
+##### § 20.1201 Rule 1201. Amendment of appellate decisions. #####
+
+A request for amendment of an appellate decision under the Privacy Act (5 U.S.C. 552a) may be entertained. However, such a request may not be used in lieu of, or to circumvent, the procedures established under Rules 1000 through 1003 (§§ 20.1000-20.1003 of this part). The Board will review a request for correction of factual information set forth in a decision. Where the request to amend under the Privacy Act is an attempt to alter a judgment made by the Board and thereby replace the adjudicatory authority and functions of the Board, the request will be denied on the basis that the Act does not authorize a collateral attack upon that which has already been the subject of a decision of the Board. The denial will satisfy the procedural requirements of § 1.579 of this chapter. If otherwise appropriate, the request will be considered one for reconsideration under Rules 1000 through 1003 (§§ 20.1000-20.1003 of this part).
+
+(Authority: 5 U.S.C. 552a(d); 38 U.S.C. 7103, 7108)

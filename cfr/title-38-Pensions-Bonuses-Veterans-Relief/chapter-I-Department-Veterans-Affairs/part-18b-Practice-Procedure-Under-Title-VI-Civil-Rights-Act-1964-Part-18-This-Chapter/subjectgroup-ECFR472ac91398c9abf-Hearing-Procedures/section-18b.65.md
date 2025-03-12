@@ -1,0 +1,5 @@
+##### § 18b.65 Appeals from ruling of presiding officer. #####
+
+Rulings of the presiding officer may not be appealed to the reviewing authority prior to consideration of the entire proceeding except with the consent of the presiding officer and where the reviewing authority certifies on the record or in writing that the allowance of an interlocutory appeal is clearly necessary to prevent exceptional delay, expense, or prejudice to any party, or substantial detriment to the public interest. If an appeal is allowed, any party may file a brief with the reviewing authority within such period as the presiding officer directs. No oral argument will be heard unless the reviewing authority directs otherwise. At any time prior to submission of the proceeding to the reviewing authority for decision, the reviewing authority may direct the presiding officer to certify any question or the entire record to the reviewing authority for decision. Where the entire record is so certified, the presiding officer shall recommend a decision.
+
+[35 FR 10760, July 2, 1970, as amended at 51 FR 10386, Mar. 26, 1986]

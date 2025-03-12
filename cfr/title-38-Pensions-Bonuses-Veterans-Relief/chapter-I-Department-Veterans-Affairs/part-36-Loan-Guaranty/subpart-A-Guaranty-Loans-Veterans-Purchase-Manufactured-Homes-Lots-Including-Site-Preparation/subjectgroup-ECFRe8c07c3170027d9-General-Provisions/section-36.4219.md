@@ -1,0 +1,3 @@
+##### § 36.4219 Incorporation by reference. #####
+
+Department of Veterans Affairs regulations issued under 38 U.S.C. 3712, and in effect on the date of any loan which is submitted and accepted or approved for a guaranty thereunder, shall govern the rights, duties, and liabilities of the parties to such loan and any provisions of the loan instruments inconsistent with such regulations are hereby amended and supplemented to conform thereto.

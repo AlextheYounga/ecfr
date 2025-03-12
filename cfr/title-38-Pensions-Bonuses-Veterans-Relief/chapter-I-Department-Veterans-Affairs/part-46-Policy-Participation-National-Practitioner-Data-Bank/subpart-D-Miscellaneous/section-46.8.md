@@ -1,0 +1,5 @@
+##### § 46.8 Independent contractors. #####
+
+Independent contractors acting on behalf of the Department of Veterans Affairs are subject to the National Practitioner Data Bank reporting provisions of this part. In the following circumstances, VA will provide the contractor with notice that a report of a clinical privileges action will be filed with the National Practitioner Data Bank with a copy with the State Licensing Board in the State(s) in which the contractor is licensed and in which the facility is located: where VA terminates a contract for possible incompetence or improper professional conduct, thereby automatically revoking the contractor's clinical privileges, or where the contractor terminates the contract, thereby surrendering clinical privileges, either while under investigation relating to possible incompetence or improper professional conduct or in return for not conducting such an investigation or proceeding.
+
+(Authority: 38 U.S.C. 5705)

@@ -1,0 +1,7 @@
+##### § 36.4379 Payment of insurance. #####
+
+(a) Upon the continuance of a default for a period of three months, the holder may proceed to establish the net loss, after giving the notices prescribed in §§ 36.4317 and 36.4350 if security is available. The net loss shall be reported to the Secretary with proper claim, whereupon the holder shall be entitled to payment of the claim within the amount then available for such payment under the payee's related insurance account. Subject to the provisions of the paragraph (b) of this section and to § 36.4375(b) a supplemental claim for any balance of an insurance loss may be filed at any time within 5 years after the date of the original claim.
+
+(b) The basis of the claim for an insured loss shall consist in the unrealized principal or the amount paid for the obligation, if less, plus unrealized interest to the date of claim or the date of sale whichever is earlier, and those expenses, if any, allowable under § 36.4314, but subject to proper credits because of payments, set-off, proceeds of security or otherwise, provided that if there is no liquidation of security the claim shall not include an accrual of interest for a period in excess of 6 months from the date of the first uncured default.
+
+(Authority: 38 U.S.C. 3703(c)(1))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 80 FR 34319, June 16, 2015]

@@ -1,0 +1,5 @@
+##### § 14.516 Escheat and post fund cases. #####
+
+In any case in which the Department of Veterans Affairs is entitled to possession of assets or property under the escheat provisions of 38 U.S.C. 5502(e), the gifts provisions of 38 U.S.C. ch. 83 or the General Post Fund provisions of 38 U.S.C. ch. 85, the Regional Counsel will endeavor to obtain possession of such assets or property in any manner appropriate under local procedure and practice, other than litigation. This procedure would include exploratory inquiry of the person having custody or possession of the assets or property for the purpose of determining whether the person would be willing to turn over the property to the Department of Veterans Affairs without litigation. If unsuccessful in this effort, a complete report will be submitted by the Regional Counsel to the General Counsel so that appropriate action may be taken to obtain the assistance of the Department of Justice in the matter.
+
+[42 FR 41411, Aug. 17, 1977]

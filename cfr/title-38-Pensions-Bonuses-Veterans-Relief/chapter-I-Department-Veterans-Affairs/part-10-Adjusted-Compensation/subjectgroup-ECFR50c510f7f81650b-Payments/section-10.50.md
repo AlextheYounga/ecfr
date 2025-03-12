@@ -1,0 +1,3 @@
+##### § 10.50 Section 601 and section 603 payments made on first day of calendar quarter. #####
+
+Cash payments and the first installment of installment payments authorized in sections 601 and 603, respectively of title VI of the World War Adjusted Compensation Act, as amended, will be made as of the first day of the calendar quarter following the finding by the director that the applicant is a dependent entitled to the benefits of the act, but in no case shall any such payments be made before March 1, 1925: *Provided, however,* That payments authorized by section 608 of title VI of the Act, as amended, shall be paid in a lump sum to the preferred dependent without reference to payments under section 603 of title VI of the Act, as amended.

@@ -1,0 +1,3 @@
+##### § 51.31 Automatic recognition. #####
+
+Notwithstanding other provisions of this part, a facility that already is recognized by VA as a State home for nursing home care at the time this part becomes effective, automatically will continue to be recognized as a State home for nursing home care but will be subject to all of the provisions of this part that apply to facilities that have achieved recognition, including the provisions requiring that the facility meet the standards set forth in subpart D and the provisions for withholding per diem payments and withdrawal of recognition.

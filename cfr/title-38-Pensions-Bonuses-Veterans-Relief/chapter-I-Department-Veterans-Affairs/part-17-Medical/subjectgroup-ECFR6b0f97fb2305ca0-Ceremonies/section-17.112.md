@@ -1,0 +1,11 @@
+##### § 17.112 Services or ceremonies on Department of Veterans Affairs hospital or center reservations. #####
+
+(a) Services or ceremonies on Department of Veterans Affairs hospital or center reservations are subject to the following limitations:
+
+(1) All activities must be conducted with proper decorum, and not interfere with the care and treatment of patients. Organizations must provide assurance that their members will obey all rules in effect at the hospital or center involved, and act in a dignified and proper manner;
+
+(2) Partisan activities are inappropriate and all activities must be nonpartisan in nature. An activity will be considered partisan and therefore inappropriate if it includes commentary in support of, or in opposition to, or attempts to influence, any current policy of the Government of the United States or any State of the United States. If the activity is closely related to partisan activities being conducted outside the hospital or center reservations, it will be considered partisan and therefore inappropriate.
+
+(b) Requests for permission to hold services or ceremonies will be addressed to the Secretary, or the Director of the Department of Veterans Affairs hospital or center involved. Such applications will describe the proposed activity in sufficient detail to enable a determination as to whether it meets the standards set forth in paragraph (a) of this section. If permission is granted, the Director of the hospital or center involved will assign an appropriate time, and render assistance where appropriate. No organization will be given exclusive permission to use the hospital or center reservation on any particular occasion. Where several requests are received for separate activities, the Director will schedule each so as to avoid overlapping or interference, or require appropriate modifications in the scope or timing of the activity.
+
+[35 FR 2389, Feb. 3, 1970. Redesignated at 61 FR 21966, May 13, 1996, and further redesignated at 67 FR 35040, May 17, 2002]

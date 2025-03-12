@@ -1,0 +1,5 @@
+##### § 36.4706 Forced placement of flood insurance. #####
+
+If the Secretary, or a servicer acting on behalf of the Secretary, determines at any time during the term of a designated loan that the building or mobile home and any personal property securing the designated loan is not covered by flood insurance or is covered by flood insurance in an amount less than the amount required under 38 CFR 36.4702, then the Secretary or a servicer acting on behalf of the Secretary, shall notify the borrower that the borrower should obtain flood insurance, at the borrower's expense, in an amount at least equal to the amount required under 38 CFR 36.4702, for the remaining term of the loan. If the borrower fails to obtain flood insurance within 45 days after notification, then the Secretary or a servicer acting on behalf of the Secretary, shall purchase insurance on the borrower's behalf. The Secretary or a servicer acting on behalf of the Secretary, may charge the borrower for the cost of premiums and fees incurred in purchasing the insurance.
+
+(Authority: 42 U.S.C. 4012a(e))[62 FR 5533, Feb. 6, 1997]

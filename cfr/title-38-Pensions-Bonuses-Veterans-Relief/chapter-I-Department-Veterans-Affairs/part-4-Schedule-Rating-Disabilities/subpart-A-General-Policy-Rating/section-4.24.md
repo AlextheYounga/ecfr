@@ -1,0 +1,5 @@
+##### § 4.24 Correspondence. #####
+
+All correspondence relative to the interpretation of the schedule for rating disabilities, requests for advisory opinions, questions regarding lack of clarity or application to individual cases involving unusual difficulties, will be addressed to the Director, Compensation Service. A clear statement will be made of the point or points upon which information is desired, and the complete case file will be simultaneously forwarded to Central Office. Rating agencies will assure themselves that the recent report of physical examination presents an adequate picture of the claimant's condition. Claims in regard to which the schedule evaluations are considered inadequate or excessive, and errors in the schedule will be similarly brought to attention.
+
+[41 FR 11292, Mar. 18, 1976, as amended at 79 FR 2100, Jan. 13, 2014]

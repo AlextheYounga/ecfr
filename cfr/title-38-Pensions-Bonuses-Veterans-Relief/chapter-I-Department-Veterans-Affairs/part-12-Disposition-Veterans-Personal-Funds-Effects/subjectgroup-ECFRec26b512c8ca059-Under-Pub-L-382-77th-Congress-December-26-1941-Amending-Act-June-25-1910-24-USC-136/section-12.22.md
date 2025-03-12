@@ -1,0 +1,5 @@
+##### § 12.22 Disposition of personal property. #####
+
+Any assets heretofore or hereafter accruing to the benefit of the General Post Fund, including stocks, bonds, checks, bank deposits, savings certificates, money orders, and similar assets, will be sold or otherwise converted into cash, except that articles of personal adornment which are obviously of sentimental value shall, if unclaimed, be retained for 5 years from the date of death of the veteran, unless for sanitary or other reasons their retention is deemed unsafe. Possession of effects other than those located on the premises of the Department of Veterans Affairs will be obtained, except that if transportation, storage, etc., is involved, determination will be made as to whether expenditure therefor is warranted. Proceeds from the conversion or sale will be deposited to the credit of the General Post Fund. Funds on deposit in Personal Funds of Patients will be transferred to the General Post Fund. Any claims against the estate of the deceased veteran will be adjudicated and paid, if valid.
+
+[33 FR 1073, Jan. 27, 1968]

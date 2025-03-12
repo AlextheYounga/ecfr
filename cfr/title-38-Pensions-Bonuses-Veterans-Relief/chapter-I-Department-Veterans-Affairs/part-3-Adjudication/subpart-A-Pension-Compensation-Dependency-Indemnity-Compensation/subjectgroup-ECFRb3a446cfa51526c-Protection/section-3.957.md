@@ -1,0 +1,5 @@
+##### § 3.957 Service connection. #####
+
+Service connection for any disability or death granted or continued under title 38 U.S.C., which has been in effect for 10 or more years will not be severed except upon a showing that the original grant was based on fraud or it is clearly shown from military records that the person concerned did not have the requisite service or character of discharge. The 10-year period will be computed from the effective date of the Department of Veterans Affairs finding of service connection to the effective date of the rating decision severing service connection, after compliance with § 3.105(d). The protection afforded in this section extends to claims for dependency and indemnity compensation or death compensation.
+
+(Authority: 38 U.S.C. 1159)[33 FR 15286, Oct. 15, 1968]

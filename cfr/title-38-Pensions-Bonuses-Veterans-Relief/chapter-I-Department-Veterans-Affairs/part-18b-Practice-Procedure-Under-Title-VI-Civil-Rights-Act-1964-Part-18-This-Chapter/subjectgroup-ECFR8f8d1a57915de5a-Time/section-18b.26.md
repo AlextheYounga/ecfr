@@ -1,0 +1,3 @@
+##### § 18b.26 Computation. #####
+
+In computing any period of time under the rules in this part or in an order issued hereunder, the time begins with the day following the act, event, or default, and includes the last day of the period, unless it is a Saturday, Sunday, or legal holiday observed in the District of Columbia, in which event it includes the next following business day. When the period of time prescribed or allowed is less than 7 days, intermediate Saturdays, Sundays, and legal holidays shall be excluded from the computation.

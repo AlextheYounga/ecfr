@@ -1,0 +1,13 @@
+##### § 36.4503 Amount and amortization. #####
+
+(a) The original principal amount of any loan made on or after February 1, 1988, shall not exceed an amount which bears the same ratio to $33,000 as the amount of the guaranty to which the veterans is entitled under 38 U.S.C. 3710 at the time the loan is made bears to $36,000. This limitation shall not preclude the making of advances, otherwise proper, subsequent to the making of the loan pursuant to the provisions of § 36.4511. Except as to home improvement loans, loans made by VA shall near interest at the rate of 71/2 percent per annum. Loans solely for the purposes of energy conservation improvements or other alterations, improvements, or repairs shall bear interest at the rate of 9 percent per annum.
+
+(Authority: 38 U.S.C. 3711(d)(2)(A))
+
+(b) Each loan shall be repayable on the basis of approximately equal monthly installments; except that in the case of loans made for any of the purposes described in clause (2), (3), or (4) of subsection (a) of 38 U.S.C. 3710, such loans may provide for repayment in quarterly, semiannual, or annual installments, provided that such plan of repayment corresponds to the present and anticipated income of the veteran.
+
+(c) The first installment payment on a loan to construct, alter or improve a farm residence or other dwelling may be postponed for a period not exceeding 12 months from the date of the loan instruments. The first installment payment for a loan for the purchase of a dwelling or farm on which there is a farm residence may not be postponed more than 60 days from the date of loan closing: *Provided,* That if the loan is repayable in quarterly, semi-annual or annual installments, the first installment payment date may be postponed for not more than 12 months from the date of the loan instruments.
+
+(d) The final installment on any loan shall not be in excess of two times the average of the preceding installments, except that on a construction loan the final installment may be for an amount not in excess of 5 percent of the original principal amount of the loan. The limitations imposed by this paragraph on the amount of the final installment shall not apply in the case of any loan extended or recast pursuant to § 36.4505 or 36.4506.
+
+(Authority: 38 U.S.C. 501, 3703(c)(1), 3711(d)(1), 3712 (f) and (g))[15 FR 6288, Sept. 20, 1950, as amended at 24 FR 2658, Apr. 7, 1959; 52 FR 12382, Apr. 16, 1987; 52 FR 18357, May 15, 1987; 53 FR 18983, May 26, 1988; 53 FR 44401, Nov. 3, 1988; 53 FR 51551, Dec. 22, 1988; 54 FR 24557, June 8, 1989; 54 FR 30384, July 20, 1989; 55 FR 6983, Feb. 28, 1990; 55 FR 40657, Oct. 4, 1990; 57 FR 37713, Aug. 20, 1992]

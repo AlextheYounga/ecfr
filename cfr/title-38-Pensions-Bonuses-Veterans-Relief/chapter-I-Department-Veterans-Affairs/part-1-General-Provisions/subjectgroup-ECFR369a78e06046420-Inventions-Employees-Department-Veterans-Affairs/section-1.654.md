@@ -1,0 +1,5 @@
+##### § 1.654 Patenting of inventions. #####
+
+Any invention owned by the Government under the criteria as set forth in 37 CFR 501.6 should be protected by an application for a domestic patent and other necessary documents executed by the employee inventor prepared by or through the General Counsel, Deputy General Counsel or Assistant General Counsel for Professional Staff Group IV, unless some other agency has primary interest or it is decided to dedicate the invention to the public. Such dedication requires approval of the Secretary of Commerce. Applications on behalf of the Government for foreign patents may be made if determined to be in the public interest. The payment of necessary expenses in connection with any application filed or patent obtained under this section by the Department of Veterans Affairs is authorized.
+
+[31 FR 5291, Apr. 2, 1966, as amended at 54 FR 26027, June 21, 1989; 61 FR 29658, June 12, 1996; 62 FR 14822, Mar. 28, 1997]

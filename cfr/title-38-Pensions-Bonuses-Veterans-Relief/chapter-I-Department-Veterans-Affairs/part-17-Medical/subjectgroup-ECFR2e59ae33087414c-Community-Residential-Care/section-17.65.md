@@ -1,0 +1,15 @@
+##### § 17.65 Approvals and provisional approvals of community residential care facilities. #####
+
+(a) An approval of a facility meeting all of the standards in 38 CFR 17.63 based on the report of a VA inspection and any findings of necessary interim monitoring of the facility shall be for a 12-month period.
+
+(b) The approving official, based on the report of a VA inspection and on any findings of necessary interim monitoring of the facility, may provide a community residential care facility with a provisional approval if that facility does not meet one or more of the standards in 38 CFR 17.63, provided that the deficiencies do not jeopardize the health or safety of the residents, and that the facility management and VA agree to a plan of correcting the deficiencies in a specified amount of time. A provisional approval shall not be for more than 12 months and shall not be for more time than VA determines is reasonable for correcting the specific deficiencies.
+
+(c) An approval may be changed to a provisional approval or terminated under the provisions of §§ 17.66 through 17.71 because of a subsequent failure to meet the standards of § 17.63 and a provisional approval may be terminated under the provisions of §§ 17.66 through 17.71 based on failure to meet the plan of correction or failure otherwise to meet the standards of § 17.63.
+
+(d)(1) VA may waive one or more of the standards in 38 CFR 17.63 for the approval of a particular community residential care facility, provided that a VA safety expert certifies that the deficiency does not endanger the life or safety of the residents; the deficiency cannot be corrected as provided in paragraph (b) of this section for provisional approval of the community residential care facility; and granting the waiver is in the best interests of the veteran in the facility and VA's community residential care program. In order to reach the above determinations, the VA safety expert may request supporting documentation from the community residential care facility.
+
+(2) In those instances where a waiver is granted, the subject standard is deemed to have been met for purposes of approval of the community residential care facility under paragraphs (a) or (b) of this section. The waiver and date of issuance will be noted on each annual survey of the facility as long as the waiver remains valid and in place.
+
+(3) A waiver issued under this section remains valid so long as the community residential care facility operates continuously under this program without a break. VA may, on the recommendation of an approving official, rescind a waiver issued under this section if a VA inspector determines that there has been a change in circumstances and that the deficiency can now be corrected, or a VA safety expert finds that the deficiency jeopardizes the health and safety of residents.
+
+(Authority: 38 U.S.C. 1730)[74 FR 63308, Dec. 3, 2009, as amended at 78 FR 32126, May 29, 2013]

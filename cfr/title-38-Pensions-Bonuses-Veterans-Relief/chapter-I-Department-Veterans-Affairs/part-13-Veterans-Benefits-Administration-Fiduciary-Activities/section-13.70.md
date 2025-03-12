@@ -1,0 +1,9 @@
+##### § 13.70 Apportionment of benefits to dependents. #####
+
+(a) *Incompetent veterans being furnished hospital treatment, institutional or domiciliary care by United States or political subdivision thereof.* When compensation, pension or emergency officers' retirement pay is payable in behalf of a veteran who is incompetent or under other legal disability by court action, the Veterans Service Center Manager may recommend such apportionment to or in behalf of the veteran's spouse, child or dependent parent as may be necessary to provide for their needs.
+
+(b) *Dependent parents.* When the compensation of a veteran paid to his or her fiduciary includes an additional amount for a dependent parent or parents and the fiduciary neglects or refuses to make an equivalent contribution for their support, the Veterans Service Center Manager may recommend the apportionment to the parent or parents of the additional amount.
+
+(c) *Payments withheld because of fiduciary's failure to properly administer veteran's estate.* When payments of compensation, pension or emergency officers' retirement pay in behalf of a veteran have been stopped because of the fiduciary's failure or inability to properly account or otherwise administer the estate, the Veterans Service Center Manager may recommend the apportionment to the veteran's spouse, child or dependent parent of any benefit not paid under an institutional award or to a custodian-in-fact.
+
+(Authority: 38 U.S.C. 501, 512, 5502, 5503)[40 FR 54248, Nov. 21, 1975, as amended at 51 FR 26158, July 21, 1986; 66 FR 48561, Sept. 21, 2001; 68 FR 34543, June 10, 2003]

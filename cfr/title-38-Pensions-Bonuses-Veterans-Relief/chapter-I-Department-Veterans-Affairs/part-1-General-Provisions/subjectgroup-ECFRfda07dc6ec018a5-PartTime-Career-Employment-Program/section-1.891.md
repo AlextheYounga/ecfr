@@ -1,0 +1,5 @@
+##### § 1.891 Purpose of program. #####
+
+Many individuals in society possess great productive potential which goes unrealized because they cannot meet the requirements of a standard workweek. Permanent part-time employment also provides benefits to other individuals in a variety of ways, such as providing older individuals with a gradual transition into retirement, providing employment opportunities to handicapped individuals or others who requires a reduced workweek, providing parents opportunities to balance family responsibilities with the need for additional income, and assisting students who must finance their own education or vocational training. In view of this, the Department of Veterans Affairs will operate a part-time career employment program, consistent with the needs of its beneficiaries and its responsibilities.
+
+(Authority: 5 U.S.C. 3401 note)

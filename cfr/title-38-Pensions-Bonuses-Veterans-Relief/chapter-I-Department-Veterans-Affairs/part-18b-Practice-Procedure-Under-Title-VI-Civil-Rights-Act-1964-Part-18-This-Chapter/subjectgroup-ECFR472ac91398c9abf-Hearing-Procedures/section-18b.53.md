@@ -1,0 +1,3 @@
+##### § 18b.53 Exhibits. #####
+
+Proposed exhibits shall be exchanged at the prehearing conference, or otherwise prior to the hearing if the presiding officer so requires. Proposed exhibits not so exchanged may be denied admission as evidence. The authenticity of all proposed exhibits exchanged prior to hearing will be deemed admitted unless written objection thereto is filed prior to the hearing or unless good cause is shown at the hearing for failure to file such written objection.

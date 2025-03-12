@@ -1,0 +1,25 @@
+##### § 50.1 Religious organizations; general provisions. #####
+
+(a) A faith-based organization that applies for, or participates in, a social service program (as defined in Executive Order 13279) supported with Federal financial assistance (as defined in Executive Order 13279) may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance that it receives (including through a prime or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), or in any other manner prohibited by law. Direct Federal financial assistance may not be used to pay for equipment or supplies to the extent they are allocated to such activities. The use of indirect Federal financial assistance is not subject to this restriction. Nothing in this part restricts the VA's authority under applicable Federal law to fund activities, such as the provision of chaplaincy services, that can be directly funded by the Government consistent with the Establishment Clause.
+
+(b)(1) Direct Federal financial assistance or Federal financial assistance provided directly means that the government or an intermediary as defined in paragraph (d) of this section selects the provider and either purchases services from that provider (e.g., via a contract) or awards funds to that provider to carry out a service (e.g., via grant or cooperative agreement). Federal financial assistance shall be treated as direct, unless it meets the definition of indirect Federal financial assistance or Federal financial assistance provided indirectly in paragraph (b)(2) of this section.
+
+(2) Indirect Federal financial assistance or Federal financial assistance provided indirectly means that the choice of the service provider is placed in the hands of the beneficiary, and the cost of that service is paid through a voucher, certificate, or other similar means of government-funded payment.
+
+(3) Federal financial assistance provided to an organization is considered indirect when:
+
+(i) The government program through which the beneficiary receives the voucher, certificate, or other similar means of government funded payment is neutral toward religion;
+
+(ii) The organization receives the Federal financial assistance as a result of a decision of the beneficiary, not a decision of the government; and
+
+(iii) The beneficiary has at least one adequate secular option for the use of the voucher, certificate, or other similar means of government-funded payment.
+
+(c) The recipients of sub-grants that receive Federal financial assistance through State-administered programs are not considered recipients of indirect Federal financial assistance (or recipients of Federal funds provided indirectly) as those terms are used in Executive Order 13559.
+
+(d) Intermediary means an entity, including a non-governmental organization, acting under a contract, grant, or other agreement with the Federal Government or with a State or local government, that accepts Federal financial assistance and distributes that assistance to other organizations that, in turn, provide government-funded social services. In these regulations, the terms intermediary and pass-through entity may be used interchangeably.
+
+(Authority: 2 CFR 200.74)
+
+(e) If an intermediary, acting under a contract, grant, or other agreement with VA or with a State or local government that is administering a program supported by VA financial assistance, is given the authority under the contract, grant, or agreement to select non-governmental organizations to provide services funded by VA, the intermediary must select any providers to receive direct financial assistance in a manner that does not favor or disfavor organizations on the basis of religion or religious belief and ensure compliance with the provisions of Executive Order 13279, as amended by Executive Order 13559, and any implementing rules or guidance by the recipient of a contract, grant or agreement. If the intermediary is a non-governmental organization, it retains all other rights of a non-governmental organization under the program's statutory and regulatory provisions.
+
+(f) Any organization that participates in a program funded by Federal financial assistance shall not, in providing services or in outreach activities related to such services, discriminate against a program beneficiary or prospective program beneficiary on the basis of religion, religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice. However, an organization that participates in a program funded by indirect financial assistance need not modify its program activities to accommodate a beneficiary who chooses to expend the indirect aid on the organization's program.

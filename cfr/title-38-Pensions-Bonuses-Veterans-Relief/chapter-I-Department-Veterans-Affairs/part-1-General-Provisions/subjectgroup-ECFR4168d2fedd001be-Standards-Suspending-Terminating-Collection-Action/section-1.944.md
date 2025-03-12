@@ -1,0 +1,11 @@
+##### § 1.944 Discharge of indebtedness; reporting requirements. #####
+
+(a) Before discharging a delinquent debt (also referred to as a close out of the debt), VA shall take all appropriate steps to collect the debt in accordance with 31 U.S.C. 3711(g), including, as applicable, administrative offset, tax refund offset, Federal salary offset, referral to Treasury or Treasury-designated debt collection centers or private collection contractors, credit bureau reporting, wage garnishment, litigation, and foreclosure. Discharge of indebtedness is distinct from termination or suspension of collection activity under §§ 1.940 through 1.943 and is governed by the Internal Revenue Code (see 26 U.S.C. 6050P). When collection action on a debt is suspended or terminated, the debt remains delinquent and further collection action may be pursued at a later date in accordance with the standards set forth in §§ 1.900 through 1.953. When VA discharges a debt in full or in part, further collection action is prohibited. Therefore, VA should make the determination that collection action is no longer warranted before discharging a debt. Before discharging a debt, VA must terminate debt collection action.
+
+(b) Upon discharge of an indebtedness, VA must report the discharge to the Internal Revenue Service (IRS) in accordance with the requirements of 26 U.S.C. 6050P and 26 CFR 1.6050P-1. VA may request Treasury or Treasury-designated debt collection centers to file such a discharge report to the IRS on VA's behalf.
+
+(c) When discharging a debt, VA must request that any liens of record securing the debt be released.
+
+(d) 31 U.S.C. 3711(i)(2) requires agencies to sell a delinquent nontax debt upon termination of collection action if the Secretary of the Treasury determines such a sale is in the best interests of the United States. Since the discharge of a debt precludes any further collection action (including the sale of a delinquent debt), VA may not discharge a debt until the requirements of § 3711(i)(2) have been met.
+
+(Authority: 31 U.S.C. 3711; 38 U.S.C. 501)[69 FR 62200, Oct. 25, 2004]

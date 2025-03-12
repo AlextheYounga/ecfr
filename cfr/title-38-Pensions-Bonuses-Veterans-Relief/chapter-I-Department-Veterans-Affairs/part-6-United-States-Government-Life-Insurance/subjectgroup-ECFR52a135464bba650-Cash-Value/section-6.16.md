@@ -1,0 +1,5 @@
+##### § 6.16 Payment of cash value in monthly installments. #####
+
+Effective January 1, 1971, in lieu of payment of cash value in one sum, the insured may elect to receive payment in monthly installments under option 2 as set forth in the insurance contract or as a refund life income option. If the insured dies before the agreed number of monthly installments have been paid, the remaining unpaid monthly installments will be payable to the designated beneficiary in one sum, unless the insured or such beneficiary has elected to continue the installments under the option selected by the insured. If no designated beneficiary survives, the present value of any remaining unpaid installments shall be paid to the estate of the insured, provided such payment would not escheat.
+
+[61 FR 29025, June 7, 1996]

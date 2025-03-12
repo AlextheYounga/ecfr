@@ -1,0 +1,5 @@
+##### § 36.4525 Requirement of a construction warranty. #####
+
+Any commitment to make a direct loan and any approval of a direct loan application issued or made on or after May 2, 1955, shall, if the purpose of the loan is to finance the construction of a dwelling or farmhouse or to finance the purchase of a newly constructed dwelling, be subject to the express condition that the builder, seller, or the real party in interest in the transaction shall deliver to the veteran constructing or purchasing such dwelling with the aid of a direct loan a warranty, in the form prescribed by the Secretary, that the property has been completed in substantial conformity with the plans and specifications upon which the Secretary based the valuation of the property, including any modifications thereof, or changes or variations therein, approved in writing by the Secretary, and no direct loan shall be disbursed in full unless a copy of such warranty duly receipted by the purchaser is submitted to the Department of Veterans Affairs.
+
+[20 FR 2463, Apr. 14, 1955, as amended at 46 FR 43676, Aug. 31, 1981]

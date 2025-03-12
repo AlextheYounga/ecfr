@@ -1,0 +1,3 @@
+##### § 4.111 Postgastrectomy syndromes. #####
+
+There are various postgastrectomy symptoms which may occur following anastomotic operations of the stomach. When present, those occurring during or immediately after eating and known as the “dumping syndrome” are characterized by gastrointestinal complaints and generalized symptoms simulating hypoglycemia; those occurring from 1 to 3 hours after eating usually present definite manifestations of hypoglycemia.

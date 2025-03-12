@@ -1,0 +1,5 @@
+##### § 8.23 Examination in connection with total disability benefits. #####
+
+Physical examination in connection with claim for total disability benefits may be made by a medical officer of the United States Army, Navy, Air Force, or Public Health Service, or may be made at Government expense by a full-time or part-time salaried physician or physician's assistant at a regional office or medical facility of the Department of Veterans Affairs. If an insured is unable to travel, because of physical or mental condition, the Director of a regional office or of a medical facility may, on his or her own initiative or at the request of the Insurance activity concerned, authorize at Government expense examination at the residence of the insured. The Secretary of Veterans Affairs may require such further medical examination or such additional medical evidence as may be deemed necessary and proper to establish the physical and mental condition of the insured.
+
+(Authority: 38 U.S.C. 1912(b))[47 FR 11659, Mar. 18, 1982. Redesignated at 61 FR 29290, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000]

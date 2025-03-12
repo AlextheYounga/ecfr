@@ -1,0 +1,3 @@
+##### § 4.43 Osteomyelitis. #####
+
+Chronic, or recurring, suppurative osteomyelitis, once clinically identified, including chronic inflammation of bone marrow, cortex, or periosteum, should be considered as a continuously disabling process, whether or not an actively discharging sinus or other obvious evidence of infection is manifest from time to time, and unless the focus is entirely removed by amputation will entitle to a permanent rating to be combined with other ratings for residual conditions, however, not exceeding amputation ratings at the site of election.

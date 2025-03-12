@@ -1,0 +1,5 @@
+##### § 36.4523 Geographical limits. #####
+
+Any real property purchased, constructed, or improved with the proceeds of a loan under 38 U.S.C. 3711 shall be situated in the United States, which for purposes of 38 U.S.C. Chapter 37 is here defined as the several States, Territories, and possessions, and the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Northern Mariana Islands: *Provided.* That no loan shall be made pursuant to 38 U.S.C. 3711 unless the real property is located in one of the areas designated from time to time by the Department of Veterans Affairs as an area in which private capital is not available under 38 U.S.C. chapter 37 to eligible veterans for financing of the purchase, construction, repairs, alterations, or improvement of a farm residence or other dwelling, as the case may be.
+
+[46 FR 43675, Aug. 31, 1981]

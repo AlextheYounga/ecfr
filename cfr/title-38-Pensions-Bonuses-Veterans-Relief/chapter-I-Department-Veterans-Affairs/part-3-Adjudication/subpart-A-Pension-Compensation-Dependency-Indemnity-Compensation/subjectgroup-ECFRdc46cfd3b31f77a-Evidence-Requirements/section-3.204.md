@@ -1,0 +1,13 @@
+##### § 3.204 Evidence of dependents and age. #####
+
+(a)(1) Except as provided in paragraph (a)(2) of this section, VA will accept, for the purpose of determining entitlement to benefits under laws administered by VA, the statement of a claimant as proof of marriage, dissolution of a marriage, birth of a child, or death of a dependent, provided that the statement contains: the date (month and year) and place of the event; the full name and relationship of the other person to the claimant; and, where the claimant's dependent child does not reside with the claimant, the name and address of the person who has custody of the child. In addition, a claimant must provide the social security number of any dependent on whose behalf he or she is seeking benefits (see § 3.216).
+
+(2) VA shall require the types of evidence indicated in §§ 3.205 through 3.211 where: the claimant does not reside within a state; the claimant's statement on its face raises a question of its validity; the claimant's statement conflicts with other evidence of record; or, there is a reasonable indication, in the claimant's statement or otherwise, of fraud or misrepresentation of the relationship in question.
+
+(Authority: 38 U.S.C. 5124)
+
+(b) *Marriage or birth.* The classes of evidence to be furnished for the purpose of establishing marriage, dissolution of marriage, age, relationship, or death, if required under the provisions of paragraph (a)(2), are indicated in §§ 3.205 through 3.211 in the order of preference. Failure to furnish the higher class, however, does not preclude the acceptance of a lower class if the evidence furnished is sufficient to prove the point involved.
+
+(c) *Acceptability of photocopies.* Photocopies of documents necessary to establish birth, death, marriage or relationship under the provisions of §§ 3.205 through 3.215 of this part are acceptable as evidence if the Department of Veterans Affairs is satisfied that the copies are genuine and free from alteration. Otherwise, VA may request a copy of the document certified over the signature and official seal of the person having custody of such record.
+
+(Authority: 38 U.S.C. 501)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0624)[26 FR 1572, Feb. 24, 1961, as amended at 40 FR 53581, Nov. 19, 1975; 45 FR 72655, Nov. 3, 1980; 59 FR 46338, Sept. 8, 1994; 61 FR 56626, Nov. 4, 1996; 66 FR 56614, Nov. 9, 2001]

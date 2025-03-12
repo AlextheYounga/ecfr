@@ -1,0 +1,13 @@
+##### § 21.8282 Termination of a vocational training program. #####
+
+A case manager may terminate a vocational training program under this subpart for cause, including lack of cooperation, failure to pursue the individualized written plan of vocational rehabilitation, fraud, administrative error, or finding that the child no longer has a covered birth defect. An eligible child for whom a vocational goal is reasonably feasible remains eligible for the program subject to the rules of this subpart unless the child's eligibility for or entitlement to a vocational training program under this subpart resulted from fraud or administrative error or unless VA finds the child no longer has a covered birth defect. The effective date of termination will be the earliest of the following applicable dates:
+
+(a) *Fraud.* If an eligible child establishes eligibility for or entitlement to benefits under this subpart through fraud, VA will terminate the award of vocational training and rehabilitation as of the date VA first began to pay benefits.
+
+(b) *Administrative error.* If an eligible child who is not entitled to benefits under this subpart receives those benefits through VA administrative error, VA will terminate the award of benefits as of the first day of the calendar month beginning at least 60 days after notifying the child of the proposed termination. This 60-day period may not result in the entrance of the child into a new quarter, semester, or other term of training unless VA has already obligated payment for the training.
+
+(c) *Change in status as an eligible child with a covered birth defect.* If VA finds that a child no longer has a covered birth defect, VA will terminate the award of benefits effective the last day of the month in which such determination becomes final.
+
+(d) *Lack of cooperation or failure to pursue individualized written plan of vocational rehabilitation.* If reasonable VR&E efforts to motivate an eligible child do not resolve a lack of cooperation or failure to pursue an individualized written plan of vocational rehabilitation, VA will terminate the award of benefits as of the first day of the calendar month beginning at least 60 days after notifying the child of the proposed termination. This 60-day period may not result in the entrance of the child into a new quarter, semester, or other term of training. VA will deobligate payment for training in the new quarter, semester, or other term of training.
+
+(Authority: 38 U.S.C. 1804, 1814)

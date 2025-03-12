@@ -1,0 +1,9 @@
+##### § 9.9 Conversion privilege. #####
+
+(a) With respect to a member on active duty or active duty for training under a call or order to duty that specifies a period of less than 31 days, and a member insured during inactive duty training scheduled in advance by competent authority there shall be no right of conversion unless the insurance is continued in force under 38 U.S.C. 1967(b) or 1968(a) for 120 days following a period of such duty, as the result of a disability incurred or aggravated during such a period of duty.
+
+(b) The individual policy of life insurance to which an insured may convert under 38 U.S.C. 1968(b) or 1977(e) shall not have disability or other supplementary benefits and shall not be term insurance or any policy which does not provide for cash values. Term riders providing level or decreasing insurance for which an additional premium is charged may be attached to an eligible basic conversion policy, but the rider will be excluded from the conversion pool agreement under the policy.
+
+(c) The insurer will establish a conversion pool in cooperation with the reinsurers and converters in accordance with the terms of the policy. Its purpose will be to provide for the determination and maintenance of appropriate charges arising from excess mortality under individual conversion policies issued in accordance with this section and provide for the appropriate distribution of the risk of loss due to such excess mortality among the reinsurers and converters.
+
+[40 FR 4135, Jan. 28, 1975, as amended at 53 FR 17699, May 18, 1988. Redesignated and amended at 61 FR 20135, 20136, May 6, 1996]

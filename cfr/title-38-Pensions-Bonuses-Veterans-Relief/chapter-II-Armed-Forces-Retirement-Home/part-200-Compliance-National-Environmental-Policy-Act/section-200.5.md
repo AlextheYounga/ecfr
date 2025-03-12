@@ -1,0 +1,5 @@
+##### § 200.5 Coordination with other authorities. #####
+
+(a) To the maximum extent feasible, NEPA review shall be coordinated with review of proposed actions under other environmental legal authorities, including but not limited to the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA); the National Historic Preservation Act (NHPA); the Endangered Species Act (ESA); Executive Orders 11988, 11990, and 13006; and other applicable authorities.
+
+(b) In effecting such coordination, responsible AFRH officials will ensure that the substantive and procedural requirements of other environmental authorities are met, together with the requirements of NEPA. It will be explicitly understood that compliance with NEPA does not substitute for compliance with other environmental authorities, nor does compliance with such other authority substitute for compliance with NEPA.

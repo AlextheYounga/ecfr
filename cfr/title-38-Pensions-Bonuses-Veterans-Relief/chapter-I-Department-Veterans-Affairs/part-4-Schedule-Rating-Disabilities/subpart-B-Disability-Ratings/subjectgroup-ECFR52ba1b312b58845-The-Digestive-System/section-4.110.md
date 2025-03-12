@@ -1,0 +1,3 @@
+##### § 4.110 Ulcers. #####
+
+Experience has shown that the term “peptic ulcer” is not sufficiently specific for rating purposes. Manifest differences in ulcers of the stomach or duodenum in comparison with those at an anastomotic stoma are sufficiently recognized as to warrant two separate graduated descriptions. In evaluating the ulcer, care should be taken that the findings adequately identify the particular location.

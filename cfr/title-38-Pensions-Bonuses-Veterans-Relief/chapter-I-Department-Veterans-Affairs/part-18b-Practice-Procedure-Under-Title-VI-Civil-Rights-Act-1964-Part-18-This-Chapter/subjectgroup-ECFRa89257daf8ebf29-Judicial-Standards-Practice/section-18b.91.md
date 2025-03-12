@@ -1,0 +1,5 @@
+##### § 18b.91 Improper conduct. #####
+
+With respect to any proceeding it is improper for any interested person to attempt to sway the judgment of the reviewing authority by undertaking to bring pressure or influence to bear upon the reviewing authority or any officer having a responsibility for a decision in the proceeding, or decisional staff. It is improper that such interested persons or any members of the Department of Veterans Affairs's staff or the presiding officer give statements to communications media, by paid advertisement or otherwise, designed to influence the judgment of any officer having a responsibility for a decision in the proceeding, or decisional staff. It is improper for any person to solicit communications to any such officer, or decisional staff, other than proper communications by parties or amici curiae.
+
+[35 FR 10760, July 2, 1970, as amended at 51 FR 10387, Mar. 26, 1986]

@@ -1,0 +1,9 @@
+##### § 4.17 Total disability ratings for pension based on unemployability and age of the individual. #####
+
+All veterans who are basically eligible and who are unable to secure and follow a substantially gainful occupation by reason of disabilities which are likely to be permanent shall be rated as permanently and totally disabled. For the purpose of pension, the permanence of the percentage requirements of § 4.16 is a requisite. When the percentage requirements are met, and the disabilities involved are of a permanent nature, a rating of permanent and total disability will be assigned if the veteran is found to be unable to secure and follow substantially gainful employment by reason of such disability. Prior employment or unemployment status is immaterial if in the judgment of the rating board the veteran's disabilities render him or her unemployable. In making such determinations, the following guidelines will be used:
+
+(a) Marginal employment, for example, as a self-employed farmer or other person, while employed in his or her own business, or at odd jobs or while employed at less than half the usual remuneration will not be considered incompatible with a determination of unemployability, if the restriction, as to securing or retaining better employment, is due to disability.
+
+(b) Claims of all veterans who fail to meet the percentage standards but who meet the basic entitlement criteria and are unemployable, will be referred by the rating board to the Veterans Service Center Manager or the Pension Management Center Manager under § 3.321(b)(2) of this chapter.
+
+(Authority: 38 U.S.C. 1155; 38 U.S.C. 3102)[43 FR 45348, Oct. 2, 1978, as amended at 56 FR 57985, Nov. 15, 1991; 71 FR 28586, May 17, 2006; 74 FR 26959, June 5, 2009]

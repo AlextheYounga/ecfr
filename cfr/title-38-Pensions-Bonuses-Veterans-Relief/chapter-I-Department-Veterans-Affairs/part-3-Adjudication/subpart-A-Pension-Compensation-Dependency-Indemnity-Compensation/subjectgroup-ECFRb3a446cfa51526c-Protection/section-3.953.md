@@ -1,0 +1,13 @@
+##### § 3.953 Pub. L. 85-56 and Pub. L. 85-857. #####
+
+(a) *In receipt of or entitled to receive benefits on December 31, 1958.* Any person receiving or entitled to receive benefits under any public law administered by the Department of Veterans Affairs on December 31, 1958, may, except where there was fraud, clear and unmistakable error of fact or law, or misrepresentation of material facts, continue to receive such benefits as long as the conditions warranting such payment under those laws continue. The greater benefit under the previous law or the corresponding section of title 38 U.S.C., will be paid in the absence of an election to receive the lesser benefit.
+
+(Authority: Section 10, Pub. L. 85-857)
+
+(b) *Emergency officers' retirement pay.* Any person who was receiving, or entitled to receive, emergency officers' retirement pay, or other privileges or benefits as a retired emergency officer of World War I, on December 31, 1958, under the laws in effect on that day, will, except where there was fraud, clear and unmistakable error as to conclusion of fact or law, or misrepresentation of material facts, continue to receive, or be entitled to receive, emergency officers' retirement pay at the rate otherwise payable on December 31, 1958, and such other privileges and benefits, so long as the conditions warranting such pay, privileges, and benefits under those laws continue.
+
+(Authority: Section 11, Pub. L. 85-857)
+
+(c) *Service connection established under prior laws.* In the absence of fraud, misrepresentation of material facts or clear and unmistakable error, all cases where compensation was payable on December 31, 1957, for disability service connected under prior laws, repealed by Pub. L. 85-56, including those service connected under the second proviso of section 200 of the World War Veterans' Act, 1924, as amended, are protected by section 2316(b), Pub. L. 85-56 and section 10, Pub. L. 85-857 as to both service connection and rate of compensation, so long as the conditions warranting such status and rate continue. Any disability so service connected may be evaluated under the Schedule for Rating Disabilities, 1945 (looseleaf edition) and benefits awarded on the basis thereof, as well as special monthly compensation under 38 U.S.C. 1114, provided such action results in compensation payable at a rate equal to or higher than that payable on December 31, 1957. Where a changed physical condition warrants reevaluation of service-connected disabilities, compensation will be awarded under the provisions of 38 U.S.C. 1114.
+
+[26 FR 1608, Feb. 24, 1961, as amended at 26 FR 8561, Sept. 13, 1961; 26 FR 12766, Dec. 30, 1961]

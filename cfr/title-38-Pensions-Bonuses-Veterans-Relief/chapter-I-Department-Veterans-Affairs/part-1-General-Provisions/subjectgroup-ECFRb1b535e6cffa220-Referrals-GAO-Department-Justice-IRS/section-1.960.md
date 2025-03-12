@@ -1,0 +1,5 @@
+##### § 1.960 Legal and technical assistance. #####
+
+Legal questions involving a determination under § 2.6(e)(4) of this chapter will be referred to the Regional Counsel for action in accordance with delegations of the General Counsel, unless there is an existence a General Counsel's opinion or an approved Regional Counsel's opinion dispositive of the controlling legal principle. As to matters not controlled by § 2.6(e)(4) of this chapter, the Chairperson of the regional office Committee or at his/her instance, a member, may seek and obtain advice from the Regional Counsel on legal matters within his/her jurisdiction and from other division chiefs in their areas of responsibility, on any matter properly before the Committee. Guidance may also be requested from the Central Office staff.
+
+(Authority: 38 U.S.C. 501)[44 FR 59906, Oct. 17, 1979]

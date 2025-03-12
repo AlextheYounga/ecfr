@@ -1,0 +1,11 @@
+##### § 12.8 Unclaimed effects of veterans. #####
+
+(a) In the case of any property of a veteran who was in receipt of hospital or domiciliary care, heretofore or hereafter left at a Department of Veterans Affairs field facility, the owner of which is discharged or absent without leave or who has eloped and is not to be returned to a Department of Veterans Affairs field facility, or has died after departure therefrom, or in case the whereabouts or identity of any owner of any property thereat be unknown, such property, unless it shall be disposed of under the provisions of §§ 12.4 and 12.6 shall be sold, used, destroyed or otherwise disposed of as the manager or his or her designated representative shall determine the circumstances in the case may warrant. Any sale of such property shall be conditioned upon the 90-day notice provided in section 6 of the Act of June 25, 1938 (38 U.S.C. 5-16e).
+
+(b) If the circumstances are such that retention of any property as is mentioned in paragraph (a) of this section, or of any property of unknown ownership found on the premises would endanger the health or life of patients or others on the premises (by reason of contagion, infection, or otherwise) such property shall be forthwith destroyed on order of the manager or his or her designated representative, and proper record of the action taken will be made.
+
+(c) If there be no known claimant of any such property and if it may be used at the field facility for the benefit of the members or patients for such purposes as the General Post Fund is intended to serve, and if the value is inconsequential, the manager or his or her designated representative may authorize the retention and use of such property at the field facility.
+
+(d) Any such property which is not destroyed or used as provided in paragraphs (b) and (c) of this section shall be sold in the manner provided in §§ 12.9 and 12.10, after notice as therein provided unless, prior to sale, claim be made for any such property by someone legally entitled thereto.
+
+[13 FR 7129, Nov. 27, 1948]

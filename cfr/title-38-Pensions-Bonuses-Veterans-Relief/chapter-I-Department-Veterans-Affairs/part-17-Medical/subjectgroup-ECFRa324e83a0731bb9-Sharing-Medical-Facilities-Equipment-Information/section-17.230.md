@@ -1,0 +1,9 @@
+##### § 17.230 Contingency backup to the Department of Defense. #####
+
+(a) *Priority care to active duty personnel.* The Secretary, during and/or immediately following a period of war or national emergency declared by the Congress or the President that involves the use of United States Armed Forces in armed conflict, is authorized to furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty. The Secretary may give higher priority in the furnishing of such care and services in VA facilities to members of the Armed Forces on active duty than to any other group of persons eligible for such care and services with the exception of veterans with service-connected disabilities.
+
+(Authority: 38 U.S.C. 8111A, Pub. L. 97-174)
+
+(b) *Contract authority.* During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under paragraph (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements, may authorize VA facilities to enter into contracts with private facilities for the provision during such period of hospital care and medical services for certain veterans. These veterans include only those who are receiving hospital care under 38 U.S.C. 1710 or, in emergencies, for those who are eligible for treatment under that section, or who are receiving care under 38 U.S.C. 1710(g). This authorization pertains only to circumstances in which VA facilities are not capable of furnishing or continuing to furnish the care or services required because of the furnishing of care and services to members of the Armed Forces.
+
+(Authority: 38 U.S.C. 8111A)(Authority: Sec. 501 and 1720(a) of Title 38, U.S.C.)[49 FR 5617, Feb. 14, 1984. Redesignated at 61 FR 21966, May 13, 1996; 79 FR 54616, Sept. 12, 2014]

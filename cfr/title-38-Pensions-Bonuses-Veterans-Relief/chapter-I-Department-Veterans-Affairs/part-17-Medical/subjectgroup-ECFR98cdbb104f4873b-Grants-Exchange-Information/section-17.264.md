@@ -1,0 +1,5 @@
+##### § 17.264 Recoupments and releases. #####
+
+In any case where the Department of Veterans Affairs or a grantee's obligations under an exchange of information agreement implemented by grant funds are terminated, or where grant-financed equipment or facilities cease to be used for the purposes for which grant support was given, or when grant-financed property is transferred, the grantee shall return the proportionate value of such equipment or facility as was financed by the grant. When it is determined the Department of Veterans Affairs equitable interest is greater that proportionate value, then a claim in such greater amount shall be asserted. If it is determined an amount less than proportionate value or less than the Department of Veterans Affairs equitable interest should be recouped, or that the Department of Veterans Affairs should execute any releases, then a proposal concerning such a settlement or releases complete with explanations and justifications shall be submitted to the Assistant Chief Medical Director for Academic Affairs for a final determination.
+
+[42 FR 54805, Oct. 11, 1977. Redesignated at 61 FR 21966, May 13, 1996]

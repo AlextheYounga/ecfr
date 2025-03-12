@@ -1,0 +1,3 @@
+##### § 4.64 Loss of use of both buttocks. #####
+
+Loss of use of both buttocks shall be deemed to exist when there is severe damage to muscle Group XVII, bilateral (diagnostic code number 5317) and additional disability rendering it impossible for the disabled person, without assistance, to rise from a seated position and from a stooped position (fingers to toes position) and to maintain postural stability (the pelvis upon head of femur). The assistance may be rendered by the person's own hands or arms, and, in the matter of postural stability, by a special appliance.

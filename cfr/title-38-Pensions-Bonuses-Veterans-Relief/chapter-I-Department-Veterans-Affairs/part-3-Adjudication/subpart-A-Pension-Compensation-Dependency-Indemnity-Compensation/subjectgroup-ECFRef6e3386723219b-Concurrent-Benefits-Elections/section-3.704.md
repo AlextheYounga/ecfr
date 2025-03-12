@@ -1,0 +1,7 @@
+##### § 3.704 Elections within class of dependents. #####
+
+(a) *Children.* Where children are eligible to receive monthly benefits under more than one law in the same case, the election of benefits under one law by or on behalf of one child will not serve to increase the rate allowable for any other child under another law in that case. The rate payable for each child will not exceed the amount which would be paid if all children were receiving benefits under the same law. Where a child is no longer eligible to receive pension, compensation or dependency and indemnity compensation because of having elected dependents' educational assistance under 38 U.S.C. chapter 35, the child will be excluded from consideration in determining the rate payable for another child or children.
+
+(b) *Parents.* If there are two parents eligible for dependency and indemnity compensation and only one parent files claim for this benefit, the rate of dependency and indemnity compensation for that parent will not exceed the amount which would be paid to him or her if both parents had filed claim for dependency and indemnity compensation. The rate of death compensation for the other parent will not exceed the amount which would be paid if both parents were receiving this benefit.
+
+[26 FR 1602, Feb. 24, 1961, as amended at 27 FR 4993, May 29, 1962; 34 FR 839, Jan. 18, 1969; 39 FR 20205, June 7, 1974; 54 FR 34981, Aug. 23, 1989]

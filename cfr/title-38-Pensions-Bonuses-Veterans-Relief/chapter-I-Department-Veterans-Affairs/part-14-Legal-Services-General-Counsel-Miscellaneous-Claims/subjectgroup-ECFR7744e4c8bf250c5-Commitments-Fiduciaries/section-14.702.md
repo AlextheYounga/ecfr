@@ -1,0 +1,9 @@
+##### § 14.702 Medical testimony in commitment or restoration proceedings. #####
+
+(a) *Commitment.* When permissable under State law, Department of Veterans Affairs physicans, upon request of the Regional Counsel, will sign interrogatories or certificates of mental illness or insanity and, unless unavailable, as provided in paragraph (c) of this section, will testify in proceedings which the Regional Counsel is authorized to institute under § 14.701 to commit eligible veterans to the Department of Veterans Affairs.
+
+(b) *Restoration.* (1) When permissible under State law, Department of Veterans Affairs physicans, upon the request of the Regional Counsel, will testify in proceedings brought for the purpose of restoring a committed veteran to full civil rights when the veteran is a committed patient in a Department of Veterans Affairs hospital.
+
+(2) The Director of a Department of Veterans Affairs hospital or the Regional Counsel upon discharge of the veteran, may furnish a certificate of sanity or such similar certificate to the proper civil authorities.
+
+(c) *Employment of private physicians.* When testimony of Department of Veterans Affairs physicians is prohibited or is unavailable because of a duty assignment, comparative expense or other valid reason, the Director of the Department of Veterans Affairs hospital, upon recommendation of the Regional Counsel, may employ any qualified physician for preliminary examination of the veteran and for testimony in any commitment or restoration proceeding which the Regional Counsel is authorized to institute under § 14.701, and authorize the payment of a fee not to exceed the prescribed fee, or in the absence thereof, the customary fee charged for the service rendered.

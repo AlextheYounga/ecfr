@@ -1,0 +1,5 @@
+##### § 1.659 Relationship to incentive awards program. #####
+
+Procedures set out in the regulations concerning inventions by employees of the Department of Veterans Affairs are not affected by the submission or proposed submission of an employee suggestion or idea on an item which may be patentable. Consideration of an item for a determination of ownership rights and also for an incentive award will proceed simultaneously, usually on separate correspondence. An employee suggestion or copies and extracts of the file may be forwarded to the General Counsel by the reviewing or awarding authority, or by the facility head, for an ownership determination where the employee idea or suggestion involves an invention. The employee shall be directed to submit a disclosure of invention in accordance with these regulations if such has not been previously submitted.
+
+[31 FR 5291, Apr. 2, 1966, as amended at 61 FR 29659, June 12, 1996]

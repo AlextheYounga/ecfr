@@ -1,0 +1,9 @@
+##### § 3.370 Pulmonary tuberculosis shown by X-ray in active service. #####
+
+(a) *Active disease.* X-ray evidence alone may be adequate for grant of direct service connection for pulmonary tuberculosis. When under consideration, all available service department films and subsequent films will be secured and read by specialists at designated stations who should have a current examination report and X-ray. Resulting interpretations of service films will be accorded the same consideration for service-connection purposes as if clinically established, however, a compensable rating will not be assigned prior to establishment of an active condition by approved methods.
+
+(b) *Inactive disease.* Where the veteran was examined at time of entrance into active service but X-ray was not made, or if made, is not available and there was no notation or other evidence of active or inactive reinfection type pulmonary tuberculosis existing prior to such entrance, it will be assumed that the condition occurred during service and direct service connection will be in order for inactive pulmonary tuberculosis shown by X-ray evidence during service in the manner prescribed in paragraph (a) of this section, unless lesions are first shown so soon after entry on active service as to compel the conclusion, on the basis of sound medical principles, that they existed prior to entry on active service.
+
+(c) *Primary lesions.* Healed primary type tuberculosis shown at the time of entrance into active service will not be taken as evidence to rebut direct or presumptive service connection for active reinfection type pulmonary tuberculosis.
+
+[26 FR 1591, Feb. 24, 1961, as amended at 43 FR 45347, Oct. 2, 1978]

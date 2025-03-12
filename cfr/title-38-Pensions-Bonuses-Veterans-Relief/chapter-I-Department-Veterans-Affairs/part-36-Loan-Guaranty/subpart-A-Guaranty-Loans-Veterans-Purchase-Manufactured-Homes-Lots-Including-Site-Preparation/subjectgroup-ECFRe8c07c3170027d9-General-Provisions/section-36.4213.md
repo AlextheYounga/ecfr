@@ -1,0 +1,3 @@
+##### § 36.4213 Capacity of parties. #####
+
+Nothing in the § 36.4200 series shall be construed to relieve any lender of responsibility for any loss caused by lack of legal capacity of any person to contract, sell, convey or encumber, or by the existence of other legal disability or defects invalidating or rendering unenforceable in whole or in part either the loan obligation or the security therefor.

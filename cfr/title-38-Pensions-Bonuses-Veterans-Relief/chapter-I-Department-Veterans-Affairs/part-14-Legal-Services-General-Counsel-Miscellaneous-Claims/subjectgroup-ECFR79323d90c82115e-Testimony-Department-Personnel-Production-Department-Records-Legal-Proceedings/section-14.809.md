@@ -1,0 +1,5 @@
+##### § 14.809 Demands or requests in legal proceedings for records protected by confidentiality statutes. #####
+
+In addition to complying with the requirements of §§ 14.800 through 14.810, requests or demands in legal proceedings for the production of records, or for testimony of VA employees concerning information, protected by the Privacy Act, 5 U.S.C. 552a, or other confidentiality statutes, such as 38 U.S.C. 5701, 5705 and 7332, must satisfy the requirements for disclosure imposed by those statutes, and implementing regulations, such as 38 CFR 1.511, before the records may be provided or testimony given. Accordingly, the responsible VA official may first determine whether there is legal authority to provide the testimony or records sought under applicable confidentiality statutes before applying §§ 14.800 through 14.810. Where an applicable confidentiality statute mandates disclosure, §§ 14.800 through 14.810 will not apply.
+
+(Authority: 38 U.S.C. 501 (a) and (b); 5 U.S.C. 301)

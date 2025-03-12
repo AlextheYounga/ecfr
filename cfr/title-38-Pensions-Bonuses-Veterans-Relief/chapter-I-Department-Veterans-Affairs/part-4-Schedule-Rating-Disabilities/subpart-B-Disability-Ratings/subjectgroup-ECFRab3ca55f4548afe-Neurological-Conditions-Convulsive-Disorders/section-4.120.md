@@ -1,0 +1,3 @@
+##### § 4.120 Evaluations by comparison. #####
+
+Disability in this field is ordinarily to be rated in proportion to the impairment of motor, sensory or mental function. Consider especially psychotic manifestations, complete or partial loss of use of one or more extremities, speech disturbances, impairment of vision, disturbances of gait, tremors, visceral manifestations, injury to the skull, etc. In rating disability from the conditions in the preceding sentence refer to the appropriate schedule. In rating peripheral nerve injuries and their residuals, attention should be given to the site and character of the injury, the relative impairment in motor function, trophic changes, or sensory disturbances.

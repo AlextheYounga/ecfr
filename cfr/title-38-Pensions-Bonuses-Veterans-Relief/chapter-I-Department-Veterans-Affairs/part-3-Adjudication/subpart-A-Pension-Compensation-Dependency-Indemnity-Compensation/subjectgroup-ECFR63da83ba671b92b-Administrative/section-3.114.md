@@ -1,0 +1,15 @@
+##### § 3.114 Change of law or Department of Veterans Affairs issue. #####
+
+(a) *Effective date of award.* Where pension, compensation, dependency and indemnity compensation, or a monetary allowance under 38 U.S.C. chapter 18 for an individual who is a child of a Vietnam veteran or child of a veteran with covered service in Korea is awarded or increased pursuant to a liberalizing law, or a liberalizing VA issue approved by the Secretary or by the Secretary's direction, the effective date of such award or increase shall be fixed in accordance with the facts found, but shall not be earlier than the effective date of the act or administrative issue. Where pension, compensation, dependency and indemnity compensation, or a monetary allowance under 38 U.S.C. chapter 18 for an individual who is a child of a Vietnam veteran or child of a veteran with covered service in Korea is awarded or increased pursuant to a liberalizing law or VA issue which became effective on or after the date of its enactment or issuance, in order for a claimant to be eligible for a retroactive payment under the provisions of this paragraph the evidence must show that the claimant met all eligibility criteria for the liberalized benefit on the effective date of the liberalizing law or VA issue and that such eligibility existed continuously from that date to the date of claim or administrative determination of entitlement. The provisions of this paragraph are applicable to original and reopened claims as well as claims for increase.
+
+(1) If a claim is reviewed on the initiative of VA within 1 year from the effective date of the law or VA issue, or at the request of a claimant received within 1 year from that date, benefits may be authorized from the effective date of the law or VA issue.
+
+(2) If a claim is reviewed on the initiative of VA more than 1 year after the effective date of the law or VA issue, benefits may be authorized for a period of 1 year prior to the date of administrative determination of entitlement.
+
+(3) If a claim is reviewed at the request of the claimant more than 1 year after the effective date of the law or VA issue, benefits may be authorized for a period of 1 year prior to the date of receipt of such request.
+
+(Authority: 38 U.S.C. 1805, 1815, 1821, 1832, 5110(g))
+
+(b) *Discontinuance of benefits.* Where the reduction or discontinuance of an award is in order because of a change in law or a Department of Veterans Affairs issue, or because of a change in interpretation of a law or Department of Veterans Affairs issue, the payee will be notified at his or her latest address of record of the contemplated action and furnished detailed reasons therefor, and will be given 60 days for the presentation of additional evidence. If additional evidence is not received within that period, the award will be reduced or discontinued effective the last day of the month in which the 60-day period expired.
+
+(Authority: 38 U.S.C. 5112(b)(6))[27 FR 11886, Dec. 1, 1962, as amended at 55 FR 13529, Apr. 11, 1990; 62 FR 17706, Apr. 11, 1997; 65 FR 35282, June 2, 2000; 67 FR 49586, July 31, 2002; 76 FR 4247, Jan. 25, 2011]

@@ -1,0 +1,7 @@
+##### § 10.44 Evidence required to support claim of mother or father. #####
+
+The term *mother* and *father* as referred to in the order of preference as outlined in section 601 of the Act, as amended, includes stepmothers, stepfathers, mothers and fathers through adoption, and persons who, for a period of not less than one year, have stood in the place of a mother or father to the veteran at any time prior to the beginning of his service. In addition to the evidence of dependency required from a natural mother or father, a claim of a stepmother or stepfather shall be supported by evidence of marriage to the natural parent of the veteran. This evidence shall be in accordance with the requirements of proof of marriage as set forth in regulations of the Department of Veterans Affairs. A claim of a mother or father through adoption shall be supported by a certified copy of the court record of such adoption. A claim by a person who claims to have stood in the place of a mother or father shall be supported by evidence of such relationship satisfactory to the Department of Veterans Affairs. Such evidence shall comprise:
+
+(a) An affidavit of the claimant containing a complete detailed statement of the alleged relationship and
+
+(b) Affidavits of two competent witnesses to whom claimant was personally known at the time of the death of the veteran, said witnesses certifying to the truth of the statement as made by the claimant.

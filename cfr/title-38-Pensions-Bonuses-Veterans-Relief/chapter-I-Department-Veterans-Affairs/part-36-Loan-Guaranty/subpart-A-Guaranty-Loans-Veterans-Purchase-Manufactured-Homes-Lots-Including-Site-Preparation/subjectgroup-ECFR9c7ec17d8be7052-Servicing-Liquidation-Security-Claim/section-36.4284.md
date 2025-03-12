@@ -1,0 +1,15 @@
+##### § 36.4284 Computation of guaranty claims. #####
+
+(a) Subject to the limitation that the maximum amount payable shall in no event exceed the amount originally guaranteed, the amount payable on a claim for the guaranty shall be the percentage of the loan originally guaranteed applied to the indebtedness computed as of the date of claim but not later than (1) the date of judgment or of decree of foreclosure; or (2) in nonjudicial foreclosures, the date of publication of the first notice of sale; or (3) in cases in which the security is repossessed without a judgment, decree, or foreclosure, the date the holder repossesses the security; or (4) if no security is available, the date of claim but not more than 6 months after the first uncured default. Deposits or other credits or setoffs including any escrowed or earmarked funds legally applicable to the indebtedness on the date of the claim computation shall be applied in reduction of the indebtedness upon which the claim is based.
+
+(b) Credits accruing from the proceeds of a sale or other disposition of the security shall be reported to the Secretary incident to such submission, and the amount payable on the claim shall in no event exceed the remaining balance of the indebtedness.
+
+(c) Any allowable expenditures or costs, paid by the holder, and any accrued and unpaid interest to the applicable cutoff date as set forth in paragraph (a) of this section at the maximum rate allowable, may be deducted from the proceeds of the sale of the property, or may be included in the accounting to the Secretary on such loan. For loans guaranteed prior to May 8, 1984, the holder may also either deduct from sales proceeds, or include in the accounting, accrued interest at a rate of 6 percent from such cutoff date to the date of resale or other liquidation but not to exceed 60 days. For loans guaranteed on or after May 8, 1984, the holder may also either deduct from sales proceeds, or include in the accounting, accrued interest at a rate 4.75 percent below the contract interest rate from such cutoff date to the date of resale or other liquidation but not to exceed 90 days.
+
+(Authority: 38 U.S.C. 3712(g))
+
+(d) In computing the indebtedness for the purpose of filing a claim for payment of a guaranty, or in the event of a transfer of the loan under § 36.4281, or other accounting to the Secretary, the holder shall not be entitled to treat repayments theretofore made, as liquidated damages, or rentals, or otherwise than as payments on the indebtedness, notwithstanding any provision in the note, or mortgage, or otherwise, to the contrary.
+
+(e) Appropriate computation of the guaranty, proceeds of liquidation, and allowable costs for claims filed under § 36.4283(f)(4) are specified in § 36.4276(c).
+
+[36 FR 1253, Jan. 27, 1971, as amended at 49 FR 22082, May 25, 1984; 58 FR 37861, July 14, 1993]

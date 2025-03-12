@@ -1,0 +1,3 @@
+##### § 4.70 Inadequate examinations. #####
+
+If the report of examination is inadequate as a basis for the required consideration of service connection and evaluation, the rating agency may request a supplementary report from the examiner giving further details as to the limitations of the disabled person's ordinary activity imposed by the disease, injury, or residual condition, the prognosis for return to, or continuance of, useful work. When the best interests of the service will be advanced by personal conference with the examiner, such conference may be arranged through channels.

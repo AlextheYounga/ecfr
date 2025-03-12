@@ -1,0 +1,13 @@
+##### § 18.444 Academic adjustments. #####
+
+(a) *Academic requirements.* A recipient shall make necessary modifications to its academic requirements to ensure that these requirements do not discriminate or have the effect of discriminating, on the basis of handicap, against a qualified handicapped applicant or student. Modifications may include changes in the length of time permitted for the completion of degree requirements, substitution of specific courses required for the completion of degree requirements, and adaptation of the manner in which specific courses are conducted. Academic requirements that the recipient can demonstrate are essential to the instruction being pursued by the student or to any directly related licensing requirement will not be regarded as discriminatory within the meaning of this section.
+
+(b) *Other rules.* A recipient may not impose upon handicapped students other rules, such as the prohibition of tape recorders in classrooms or guide dogs in campus buildings, that have the effect of limiting the participation of handicapped students in the recipient's education program or activity.
+
+(c) *Course examinations.* In its course examinations or other procedures for evaluating students' academic achievement, a recipient shall provide methods for evaluating the achievement of students who have a handicap that impairs sensory, manual, or speaking skills that will best ensure that the results of the evaluation represent the students' achievement in the course, rather than reflect the students' impaired sensory, manual, or speaking skills (except where such skills are the factors that the test purports to measure).
+
+(d) *Auxiliary aids.* (1) A recipient shall ensure that no qualified handicapped student is denied the benefits of, excluded from participation in, or otherwise subjected to discrimination because of the absence of educational auxiliary aids for students with impaired sensory, manual, or speaking skills.
+
+(2) Auxiliary aids may include taped texts, interpreters or other effective methods of making orally delivered materials available to students with hearing impairments, readers in libraries for students with visual impairments, classroom equipment adapted for use by students with manual impairments, and other similar services and actions. Recipients need not provide attendants, individually prescribed devices, readers for personal use or study, or other devices or services of a personal nature.
+
+[45 FR 63268, Sept. 24, 1980, as amended at 68 FR 51370, Aug. 26, 2003]

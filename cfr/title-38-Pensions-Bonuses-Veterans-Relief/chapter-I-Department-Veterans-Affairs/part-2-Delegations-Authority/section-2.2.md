@@ -1,0 +1,11 @@
+##### § 2.2 Delegation of authority to employees to issue subpoenas, etc. #####
+
+(a) *Authority to issue subpoenas.* Employees occupying or acting in the positions designated in paragraph (b) of this section shall have the power to issue subpoenas for (by countersigning VA Form 2-4003) and compel the attendance of witnesses within a radius of 100 miles from the place of hearing and to require the production of books, papers, documents, and other evidence. Issuing officials shall use discretion when exercising this power.
+
+(b) *Designated positions.* The positions designated pursuant to paragraph (a) of this section are: General Counsel, Deputy General Counsel, Chairman, Board of Veterans' Appeals, Heads of Regional Offices and Centers having insurance or regional office activities, Under Secretary for Health (for income matching programs), Director, Income Verification Match Center (for income matching programs), and the Associate Director for Operations, Income Verification Match Center (for income matching programs).
+
+(c) *Means of service.* Subpoenas issued pursuant to this section may be served by registered or certified mail, return receipt requested, addressed to the witness only. Personal service by any VA employee or other authorized person may be made where authorized in writing by the issuing official.
+
+(d) *Fees and mileage; district courts of the United States.* Any person required by such subpoena to attend as a witness shall be allowed and paid the same fees and mileage as are paid witnesses in the district courts of the United States. In case of disobedience to any such subpoena, the aid of any district court of the United States may be invoked in requiring attendance and testimony of witnesses and the production of documentary evidence, and such court within the jurisdiction in which the inquiry is carried on may, in the case of contumacy or refusal to obey a subpoena issued to any officer, agent, or employee of any corporation or to any other person, issue an order requiring such corporation or other person to appear or to give evidence touching the matter in question, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+
+(Authority: 38 U.S.C.A. 501, 5711)[60 FR 40757, Aug. 10, 1995. Redesignated at 64 FR 47111, Aug. 30, 1999]

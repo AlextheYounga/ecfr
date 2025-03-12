@@ -1,0 +1,7 @@
+##### § 12.18 Disposition of funds and effects left by officers and enlisted men on the active list of the Army, Navy or Marine Corps of the United States. #####
+
+(a) The manager will notify the commanding officer of the death or absence of such patient and will deliver to the commanding officer, without expense to the Department of Veterans Affairs, the funds and effects of the deceased or absent officer, or enlisted man procuring a receipt therefor.
+
+(b) If the funds and effects are not delivered to the commanding officer within seven days after the death or absence without leave of an officer, or enlisted man, the funds will be deposited in the Personal Funds of Patients. If not disposed of at the expiration of 90 days after the date of death or absence, the funds will be transferred to the General Post Fund and the effects will be handled in accordance with regulations governing the disposition of unclaimed effects left by veterans. The funds and the proceeds derived from the sale of the personal effects will be paid to the person lawfully entitled thereto, providing claim is made within five years from the date of notice of sale, or in the case of legal disability within five years after termination of legal disability.
+
+[13 FR 7131, Nov. 27, 1948, as amended at 14 FR 4726, July 28, 1949]

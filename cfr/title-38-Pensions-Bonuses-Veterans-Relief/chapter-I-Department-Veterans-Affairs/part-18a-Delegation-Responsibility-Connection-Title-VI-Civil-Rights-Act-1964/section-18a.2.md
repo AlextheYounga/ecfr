@@ -1,0 +1,5 @@
+##### § 18a.2 Delegation to the Under Secretary for Benefits. #####
+
+The Under Secretary for Benefits is delegated responsibility for obtaining evidence of voluntary compliance for vocational rehabilitation, education, and special restorative training to implement Title VI, Civil Rights Act of 1964. Authority is delegated to the Under Secretary for Benefits and designee to take any necessary action as to programs of vocational rehabilitation, education, or special restorative training under 38 U.S.C. Chapters 31, 34, 35, and 36 for the purpose of securing evidence of voluntary compliance directly or through the agencies to whom the Secretary of Veterans Affairs has delegated responsibility for various schools or training establishments to implement part 18 of this chapter. The Under Secretary for Benefits also is delegated responsibility for obtaining evidence of voluntary compliance from recognized national organizations whose representatives are afforded space and office facilities in field facilities under jurisdiction of the Under Secretary for Benefits.
+
+[35 FR 10759, July 2, 1970, as amended at 51 FR 10386, Mar. 26, 1986; 54 FR 34984, Aug. 23, 1989]

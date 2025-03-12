@@ -1,0 +1,5 @@
+##### § 1.504 Disclosure of information to a widow, child, or other claimant. #####
+
+Information may be disclosed to a widow, widower, child, or other dependent parent or other claimant, or the duly authorized representative of any of these persons as to matters concerning such person alone when such disclosure will not be injurious to the physical or mental health of the person to whom the inquiry relates. If the person concerning whom the information is sought is deceased, matters concerning such person may be disclosed to the next of kin if the disclosures will not be injurious to the physical or mental health of the person in whose behalf the information is sought or cause repugnance or resentment toward the decedent.
+
+[13 FR 6999, Nov. 27, 1948, as amended at 54 FR 34980, Aug. 23, 1989]

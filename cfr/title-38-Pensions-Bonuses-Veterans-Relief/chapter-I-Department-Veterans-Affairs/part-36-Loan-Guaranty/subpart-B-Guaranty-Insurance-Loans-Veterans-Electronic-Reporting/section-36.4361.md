@@ -1,0 +1,31 @@
+##### § 36.4361 Acceptable ownership arrangements and documentation. #####
+
+(a) *Types of condominium ownership.* The following types of basic ownership arrangements are generally acceptable provided they are established in compliance with the applicable condominium law of the jurisdiction(s) in which the condominium is located:
+
+(1) Ownership of units by individual owners coupled with an undivided interest in all common elements.
+
+(2) Ownership of units by individual owners coupled with an undivided interest in general common elements and specified limited common elements.
+
+(3) Individual ownership of units coupled with an undivided interest in the general common elements and/or limited common elements, with title to additional property for common use vested in an association of unit owners, with mandatory membership by unit owners or owners' associations. Any such arrangement must not be precluded by applicable State law.
+
+(Authority: 38 U.S.C. 3710(a)(6))
+
+(b) *Estate of unit owner.* The legal estate of each unit owner must comply with the provisions of § 36.4354. The declaration or equivalent document shall allocate an undivided interest in the common elements to each unit. Such interest may be allocated equally to each unit, may be proportionate to that unit's relative size or value, or may be allocated according to any other specified criteria provided that the method chosen is equitable and reasonable for that condominium.
+
+(Authority: 38 U.S.C. 3703(c)(1), (d)(3), 3710(a)(6))
+
+(c) *Condominium documentation*—(1) *Compliance with applicable law.* The declaration, bylaws and other enabling documentation shall conform to the laws governing the establishment and maintenance of condominium regimes within the jurisdiction in which the condominium is located, and to all other laws which apply to the condominium.
+
+(2) *Recordation.* The declaration and all amendments or modifications thereof shall be placed of record in the manner prescribed by the appropriate jurisdiction. If recording of plats, plans, or bylaws or equivalent documents and all amendments or modifications thereof is the prevailing practice or is required by law within the jurisdiction where the project is located, then such documents shall be placed of record. If the bylaws are not recorded, then covenants, restrictions and other matters requiring record notice should be contained in the declaration or equivalent document.
+
+(3) *Availability.* The owner's association shall be required to make available to unit owners, lenders and the holders, insurers and guarantors of the first mortgage on any unit, current copies of the declaration, bylaws and other rules governing the condominium, and other books, records and financial statements of the owners' association. The owners' association also shall be required to make available to prospective purchasers current copies of the declaration, bylaws, other rules governing the condominium, and the most recent annual audited financial statement, if such is prepared. “Available” as used in this paragraph (c)(3) shall at least mean available for inspection, upon request, during normal business hours or under other reasonable circumstances.
+
+(4) *Amendments to documents after Department of Veterans Affairs project approval.* While the declarant is in control of the owners' association, amendments to the declaration, bylaws or other enabling documentation must be approved by the Secretary. The declarant should have proposed amendments reviewed prior to recordation. This provision does not apply to amendments which annex additional phases to the condominium regime in accordance with a general plan of development (§§ 36.4364(a)(3) and 36.4365(b)(6)).
+
+(Authority: 38 U.S.C. 3703(c)(1), 3710(a)(6))
+
+(d) *Real property descriptions in the declaration*—(1) *Clarity—conformity with the law of the jurisdiction.* The description of the units, common elements, any recreational facilities and other related amenities, and any limited common elements shall be clear and in conformity with the law of the jurisdiction where the project is located. Responsibility for maintenance and repair of all portions of the condominium shall be set forth clearly.
+
+(2) *Developmental plan—proposed condominiums.* The declaration or other legally enforceable and binding document must state in a reasonable manner the overall development plan of the condominium, including building types, architectural style and the size of the units for those phases of the condominium which are required to be built. Under the applicable provisions of the declaration or such other legally enforceable and binding document, the development of the required portion of the condominium must be consistent with the overall plan, except that the declarant may reserve the right to change the overall plan or decide not to construct planned units or improvements to the common elements if the declaration sets forth the conditions required to be satisfied prior to the exercise of that right the time within which the right may be exercised, and any other limitations and criteria that would be necessary or appropriate under the particular circumstances. Such conditions, time restraints and other limitations must be reasonable in light of the overall plan for the condominium. In an expandable project, additional phases which are not required to be built may be described in the development plan in very general terms, or the declaration may provide that the declarant makes no assurances concerning the construction, building types, architectural style and size of the units, etc. of these phases. However, the minimum number of units to be built should be that which would be adequate to reasonably support the common elements. (See § 36.4364(a)(6).)
+
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0448)(Authority: 38 U.S.C. 3703(c)(1), 3710(a)(6))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 80 FR 34319, June 16, 2015]

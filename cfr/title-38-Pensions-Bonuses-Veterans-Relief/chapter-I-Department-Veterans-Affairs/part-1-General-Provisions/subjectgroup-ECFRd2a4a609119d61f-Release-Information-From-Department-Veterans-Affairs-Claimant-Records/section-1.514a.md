@@ -1,0 +1,5 @@
+##### § 1.514a Disclosure to private psychologists. #####
+
+When a beneficiary elects to obtain therapy or analysis as a private patient from a private psychologist, such information in the medical record as may be pertinent may be released. Generally, only information developed and documented by Department of Veterans Affairs psychologists will be considered pertinent, although other information from the medical record may be released if it is determined to be pertinent and will serve a useful purpose to the private psychologist in rendering his or her services. Information will be released under this section upon receipt of the written authorization of the beneficiary or his or her duly authorized representative. Information will be forwarded to private psychologists directly, not through the beneficiary or representative, without charge and with the stipulation that it is released with consent of or on behalf of the patient and must be treated as confidential as is customary in regular professional practice.
+
+[34 FR 13368, Aug. 19, 1969]

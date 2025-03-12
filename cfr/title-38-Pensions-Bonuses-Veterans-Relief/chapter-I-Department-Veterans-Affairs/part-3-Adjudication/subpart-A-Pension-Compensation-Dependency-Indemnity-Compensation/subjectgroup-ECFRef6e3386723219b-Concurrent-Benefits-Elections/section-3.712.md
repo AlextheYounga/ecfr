@@ -1,0 +1,7 @@
+##### § 3.712 Improved pension elections; surviving spouses of Spanish-American War veterans. #####
+
+(a) *General.* A surviving spouse of a Spanish-American War veteran eligible for pension under 38 U.S.C. 1536 may elect to receive improved pension under 38 U.S.C. 1541. Except as provided by § 3.714, an election of improved pension is final when the payee (or the payee's fiduciary) negotiates one check for this benefit and there is no right of reelection.
+
+(b) *Aid and attendance.* A surviving spouse of a Spanish-American War veteran who is receiving or entitled to receive pension based on need for regular aid and attendance shall be paid whichever is the greater: The monthly rate authorized by 38 U.S.C. 1536 (a) and (b) and 1544 or the monthly rate authorized by 38 U.S.C. 1541 and 544, as 38 U.S.C. 1541 and 1544 were in effect on December 31, 1978, based on the surviving spouse's current income and net worth. Pension under 38 U.S.C. 1541 and 1544, as in effect on December 31, 1978, is not payable if the current size of the surviving spouse's net worth is a bar to payment under § 3.252(b) or if the surviving spouse's income exceeds the applicable limitation as in effect on December 31, 1978. Elections are not required for this purpose. The change in rate shall be effective the first day of the month in which the facts warrant such change.
+
+(Authority: 38 U.S.C. 1536)[44 FR 45943, Aug. 6, 1979, as amended at 46 FR 11661, Feb. 10, 1981; 61 FR 67950, Dec. 26, 1996]

@@ -1,0 +1,7 @@
+##### § 3.100 Delegations of authority. #####
+
+(a) Authority is delegated to the Under Secretary for Benefits and to supervisory or adjudicative personnel within the jurisdiction of the Veterans Benefits Administration designated by the Under Secretary to make findings and decisions under the applicable laws, regulations, precedents, and instructions, as to entitlement of claimants to benefits under all laws administered by the Department of Veterans Affairs governing the payment of monetary benefits to veterans and their dependents, within the jurisdiction of the Compensation Service or the Pension and Fiduciary Service.
+
+(b) Authority is delegated to the Director, Compensation Service, and the Director, Pension and Fiduciary Service, and to personnel of each service designated by its Director to determine whether a claimant or payee has forfeited the right to gratuitious benefits or to remit a prior forfeiture pursuant to the provisions of 38 U.S.C. 6103 or 6104. See § 3.905.
+
+(Authority: 38 U.S.C. 512(a))[29 FR 7547, June 12, 1964, as amended at 31 FR 14455, Nov. 10, 1966; 37 FR 10442, May 23, 1972; 53 FR 3207, Feb. 4, 1988; 60 FR 18355, Apr. 11, 1995; 61 FR 20727, May 8, 1996; 78 FR 2100, Jan. 13, 2014]

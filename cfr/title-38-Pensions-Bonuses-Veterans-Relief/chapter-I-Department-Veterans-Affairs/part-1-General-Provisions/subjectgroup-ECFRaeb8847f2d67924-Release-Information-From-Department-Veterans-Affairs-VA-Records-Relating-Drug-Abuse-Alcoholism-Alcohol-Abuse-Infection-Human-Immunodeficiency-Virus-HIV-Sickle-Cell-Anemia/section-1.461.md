@@ -1,0 +1,33 @@
+##### § 1.461 Applicability. #####
+
+(a) *General* - (1) *Restrictions on disclosure.* The restrictions on disclosure in these regulations apply to any information whether or not recorded, which:
+
+(i) Would identify a patient as an alcohol or drug abuser, an individual tested for or infected with the human immunodeficiency virus (HIV), hereafter referred to as HIV, or an individual with sickle cell anemia, either directly, by reference to other publicly available information, or through verification of such an identification by another person; and
+
+(ii) Is provided or obtained for the purpose of treating alcohol or drug abuse, infection with the HIV, or sickle cell anemia, making a diagnosis for that treatment, or making a referral for that treatment as well as for education, training, evaluation, rehabilitation and research program or activity purposes.
+
+(2) *Restriction on use.* The restriction on use of information to initiate or substantiate any criminal charges against a patient or to conduct any criminal investigation of a patient applies to any information, whether or not recorded, which is maintained for the purpose of treating drug abuse, alcoholism or alcohol abuse, infection with the HIV, or sickle cell anemia, making a diagnosis for that treatment, or making a referral for that treatment as well as for education, training, evaluation, rehabilitation, and research program or activity purposes.
+
+(b) *Period covered as affecting applicability.* The provisions of §§ 1.460 through 1.499 of this part apply to records of identity, diagnosis, prognosis, or treatment pertaining to any given individual maintained over any period of time which, irrespective of when it begins, does not end before March 21, 1972, in the case of diagnosis or treatment for drug abuse; or before May 14, 1974, in the case of diagnosis or treatment for alcoholism or alcohol abuse; or before September 1, 1973, in the case of testing, diagnosis or treatment of sickle cell anemia; or before May 20, 1988, in the case of testing, diagnosis or treatment for an infection with the HIV.
+
+(c) *Exceptions* - (1) *Department of Veterans Affairs and Armed Forces.* The restrictions on disclosure in §§ 1.460 through 1.499 of this part do not apply to communications of information between or among those components of VA who have a need for the information in connection with their duties in the provision of health care, adjudication of benefits, or in carrying out administrative responsibilities related to those functions, including personnel of the Office of the Inspector General who are conducting audits, evaluations, healthcare inspections, or non-patient investigations, or between such components and the Armed Forces. Information obtained by VA components under these circumstances may be disclosed outside of VA to prosecute or investigate a non-patient only in accordance with § 1.495 of this part. Similarly, the restrictions on disclosure in §§ 1.460 through 1.499 of this part do not apply to communications of information to the Department of Justice or U.S. Attorneys who are providing support in civil litigation or possible litigation involving VA.
+
+(2) *Contractor.* The restrictions on disclosure in §§ 1.460 through 1.499 of this part do not apply to communications between VA and a contractor of information needed by the contractor to provide his or her services.
+
+(3) *Crimes on VA premises or against VA personnel.* The restrictions on disclosure and use in §§ 1.460 through 1.499 of this part do not apply to communications from VA personnel to law enforcement officers which:
+
+(i) Are directly related to a patient's commission of a crime on the premises of the facility or against personnel of VA or to a threat to commit such a crime; and
+
+(ii) Are limited to the circumstances of the incident, including the patient status of the individual committing or threatening to commit the crime, that individual's name and address to the extent authorized by 38 U.S.C. 5701(f)(2), and that individual's last known whereabouts.
+
+(4) *Undercover agents and informants.* (i) Except as specifically authorized by a court order granted under § 1.495 of this part, VA may not knowingly employ, or admit as a patient, any undercover agent or informant in any VA drug abuse, alcoholism or alcohol abuse, HIV infection, or sickle cell anemia treatment program.
+
+(ii) No information obtained by an undercover agent or informant, whether or not that undercover agent or informant is placed in a VA drug abuse, alcoholism or alcohol abuse, HIV infection, or sickle cell anemia treatment program pursuant to an authorizing court order, may be used to criminally investigate or prosecute any patient unless authorized pursuant to the provisions of § 1.494 of this part.
+
+(iii) The enrollment of an undercover agent or informant in a treatment unit shall not be deemed a violation of this section if the enrollment is solely for the purpose of enabling the individual to obtain treatment for drug or alcohol abuse, HIV infection, or sickle cell anemia.
+
+(d) *Applicability to recipients of information* - (1) *Restriction on use of information.* In the absence of a proper § 1.494 court order, the restriction on the use of any information subject to §§ 1.460 through 1.499 of this part to initiate or substantiate any criminal charges against a patient or to conduct any criminal investigation of a patient applies to any person who obtains that information from VA, regardless of the status of the person obtaining the information or of whether the information was obtained in accordance with §§ 1.460 through 1.499 of this part. This restriction on use bars, among other things, the introduction of that information as evidence in a criminal proceeding and any other use of the information to investigate or prosecute a patient with respect to a suspected crime. Information obtained by undercover agents or informants (see paragraph (c) of this section) or through patient access (see § 1.469 of this part) is subject to the restriction on use.
+
+(2) *Restrictions on disclosures - third-party payers and others.* The restrictions on disclosure in §§ 1.460 through 1.499 of this part apply to third-party payers and persons who, pursuant to a consent, receive patient records directly from VA and who are notified of the restrictions on redisclosure of the records in accordance with § 1.476 of this part.
+
+(Authority: 38 U.S.C. 7332(e) and 7334)[60 FR 63929, Dec. 13, 1995, as amended at 76 FR 65135, Oct. 20, 2011]

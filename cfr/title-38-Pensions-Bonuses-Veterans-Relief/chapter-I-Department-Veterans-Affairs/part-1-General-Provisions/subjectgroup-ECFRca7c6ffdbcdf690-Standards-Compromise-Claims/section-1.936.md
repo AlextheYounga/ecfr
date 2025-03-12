@@ -1,0 +1,5 @@
+##### § 1.936 Mutual releases of the debtor and VA. #####
+
+In all appropriate instances, a compromise that is accepted by VA shall be implemented by means of a mutual release, in which the debtor is released from further non-tax liability on the compromised debt in consideration of payment in full of the compromise amount, and VA and its officials, past and present, are released and discharged from any and all claims and causes of action that the debtor may have arising from the same transaction. In the event a mutual release is not executed when a debt is compromised, unless prohibited by law, the debtor is still deemed to have waived any and all claims and causes of action against VA and its officials related to the transaction giving rise to the compromised debt.
+
+(Authority: 31 U.S.C. 3711; 38 U.S.C. 501, 3720)[69 FR 62198, Oct. 25, 2004]

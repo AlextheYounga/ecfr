@@ -1,0 +1,23 @@
+##### § 1.579 Amendment of records. #####
+
+(a) Any individual may request amendment of any Department of Veterans Affairs record pertaining to him or her. Not later than 10 days (excluding Saturdays, Sundays, and legal public holidays) after the date or receipt of such request, the Department of Veterans Affairs will acknowledge in writing such receipt. The Department of Veterans Affairs will complete the review to amend or correct a record as soon as reasonably possible, normally within 30 days from the receipt of the request (excluding Saturdays, Sundays, and legal public holidays) unless unusual circumstances preclude completing action within that time. The Department of Veterans Affairs will promptly either:
+
+(1) Correct any part thereof which the individual believes is not accurate, relevant, timely or complete; or
+
+(2) Inform the individual of the Department of Veterans Affairs refusal to amend the record in accordance with his or her request, the reason for the refusal, the procedures by which the individual may request a review of that refusal by the Secretary or designee, and the name and address of such official.
+
+(Authority: 5 U.S.C. 552a(d)(2))
+
+(b) The administration or staff office having jurisdiction over the records involved will establish procedures for reviewing a request from an individual concerning the amendment of any record or information pertaining to the individual, for making a determination on the request, for an appeal within the Department of Veterans Affairs of an initial adverse Department of Veterans Affairs determination, and for whatever additional means may be necessary for each individual to be able to exercise fully, his or her right under 5 U.S.C. 552a.
+
+(1) Headquarters officials designated as responsible for the amendment of records or information located in Central Office and under their jurisdiction include, but are not limited to: Secretary; Deputy Secretary, as well as other appropriate individuals responsible for the conduct of business within the various Department of Veterans Affairs administrations and staff offices. These officials will determine and advise the requester of the identifying information required to relate the request to the appropriate record, evaluate and grant or deny requests to amend, review initial adverse determinations upon request, and assist requesters desiring to amend or appeal initial adverse determinations or learn further of the provisions for judicial review.
+
+(2) The following field officials are designated as responsible for the amendment of records or information located in facilities under their jurisdiction, as appropriate: The Director of each Center, Domiciliary, Medical Center, Outpatient Clinic, Regional Office, Supply Depot, and Regional Counsels. These officials will function in the same manner at field facilities as that specified in the preceding subparagraph for headquarters officials in Central Office.
+
+(Authority: 5 U.S.C. 552a(f)(4))
+
+(c) Any individual who disagrees with the Department of Veterans Affairs refusal to amend his or her record may request a review of such refusal. The Department of Veterans Affairs will complete such review not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual request such review and make a final determination unless, for good cause shown, the Secretary extends such 30-day period. If, after review, the Secretary or designee also refuses to amend the record in accordance with the request the individual will be advised of the right to file with the Department of Veterans Affairs a concise statement setting forth the reasons for his or her disagreement with the Department of Veterans Affairs refusal and also advise of the provisions for judicial review of the reviewing official's determination. (5 U.S.C. 552a(g)(1)(A))
+
+(d) In any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (c) of this section, the Department of Veterans Affairs will clearly note any part of the record which is disputed and provide copies of the statement (and, if the Department of Veterans Affairs deems it appropriate, copies of a concise statement of the Department of Veterans Affairs reasons for not making the amendments requested) to persons or other agencies to whom the disputed record has been disclosed. (5 U.S.C. 552a(d)(4)) (38 U.S.C. 501)
+
+[47 FR 16324, Apr. 16, 1982]

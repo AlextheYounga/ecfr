@@ -1,0 +1,3 @@
+##### § 11.125 Settlement of matured adjusted service certificates. #####
+
+Where an application for final settlement of an adjusted service certificate is received in the Department of Veterans Affairs subsequent to the date of maturity of the certificate, payment will be made under the terms of the World War Adjusted Compensation Act, as amended. This Act provides for payment of the face value of the certificate less any outstanding indebtedness for loans obtained on the certificate; however, interest accrued on the loans subsequent to September 30, 1931, and unpaid will be canceled insofar as the veteran is concerned.

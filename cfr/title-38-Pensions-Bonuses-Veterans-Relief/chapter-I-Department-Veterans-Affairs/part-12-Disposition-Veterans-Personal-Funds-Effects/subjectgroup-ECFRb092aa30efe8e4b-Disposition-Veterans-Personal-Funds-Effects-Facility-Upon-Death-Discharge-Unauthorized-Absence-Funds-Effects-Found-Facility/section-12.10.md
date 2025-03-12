@@ -1,0 +1,5 @@
+##### § 12.10 Proceeds of sale. #####
+
+After proper notice as prescribed, sale of any such property which it is proper to sell, will be made by public auction by the manager (or any employee designated by him or her) at the time and place stated in the notice of sale. The property will be sold to the highest bidder (no employee except member employees of the Department of Veterans Affairs shall purchase any of this property) and forthwith delivered and the amount of the bid collected and deposited to the credit of “General Post Fund, Department of Veterans Affairs.” Care will be taken to segregate the property of each owner and separate account will be maintained as to the proceeds of sale thereof. Property not disposed of by public auction will be included in the next sale or will be used or destroyed as the value thereof warrants at the discretion of the manager.
+
+[13 FR 7130, Nov. 27, 1948]

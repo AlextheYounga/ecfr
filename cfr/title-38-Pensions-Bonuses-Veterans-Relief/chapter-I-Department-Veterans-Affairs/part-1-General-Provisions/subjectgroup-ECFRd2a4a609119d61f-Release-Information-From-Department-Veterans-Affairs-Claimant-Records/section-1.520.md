@@ -1,0 +1,5 @@
+##### § 1.520 Confidentiality of social data. #####
+
+Persons having access to social data will be conscious of the fact that the family, acquaintances, and even the veteran have been willing to reveal these data only on the promise that they will be held in complete confidence. There will be avoided direct, ill-considered references which may jeopardize the personal safety of these individuals and the relationship existing among them, the patient, and the social worker, or may destroy their mutual confidence and influence, rendering it impossible to secure further cooperation from these individuals and agencies. Physicians in talking with beneficiaries will not quote these data directly but will regard them as indicating possible directions toward which they may wish to guide the patient's self-revelations without reproaching the patient for his or her behavior or arousing natural curiosity or suspicion regarding any informant's statement. The representatives of service organizations and duly authorized representatives of veterans will be especially cautioned as to their grave responsibility in this connection.
+
+[46 FR 62059, Dec. 22, 1981]

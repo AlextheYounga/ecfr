@@ -1,0 +1,5 @@
+##### § 77.6 Amendments to grant applications. #####
+
+An applicant seeking to amend its grant application must submit a revised Standard Forms 424 (Application for Federal Assistance) and 424C (Budget Information) with a narrative description of, and justification for, the amendment. An applicant may submit an amendment after the deadline for submission of applications and prior to grant award if the amendment does not change the scope of the application. In addition, amendments submitted after the deadline and prior to grant award cannot increase the amount of the grant requested by more than a total of 10 percent.
+
+(OMB has approved the information collection requirements in this section under control number 4040-0004 for Standard Form 424 and 4040-0008 for Standard Form 424C)[79 FR 37217, July 1, 2014, as amended at 80 FR 25235, May 4, 2015]

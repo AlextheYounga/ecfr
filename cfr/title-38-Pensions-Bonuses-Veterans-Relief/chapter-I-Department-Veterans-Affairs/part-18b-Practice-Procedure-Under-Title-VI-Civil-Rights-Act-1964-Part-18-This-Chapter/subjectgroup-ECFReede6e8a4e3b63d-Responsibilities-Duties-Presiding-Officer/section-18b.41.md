@@ -1,0 +1,5 @@
+##### § 18b.41 Designation of an administrative law judge. #####
+
+The designation of the administrative law judge as presiding officer shall be in writing, and shall specify whether the administrative law judge is to make an initial decision or to certify the entire record including recommended findings and proposed decision to the reviewing authority, and may also fix the time and place of hearing. A copy of such order shall be served on all parties. After service of an order designating an administrative law judge to preside, and until such administrative law judge makes a decision, motions and petitions shall be submitted to the administrative law judge. In the case of the death, illness, disqualification or unavailability of the designated administrative law judge, another administrative law judge may be designated to take that person's place.
+
+[51 FR 10386, Mar. 26, 1986]

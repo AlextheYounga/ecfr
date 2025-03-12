@@ -1,0 +1,3 @@
+##### § 10.22 Payment to estate of decedent. #####
+
+Wherever the face value of an adjusted service certificate, issued pursuant to the World War Adjusted Compensation Act, as amended, becomes payable to the estate of any decedent and the amount thereof is not over $500 and an administrator has not been or is not to be appointed, such amount will be paid to such person or persons as would, under the laws of the State of residence of the decedent, be entitled to his personal property in case of intestacy.

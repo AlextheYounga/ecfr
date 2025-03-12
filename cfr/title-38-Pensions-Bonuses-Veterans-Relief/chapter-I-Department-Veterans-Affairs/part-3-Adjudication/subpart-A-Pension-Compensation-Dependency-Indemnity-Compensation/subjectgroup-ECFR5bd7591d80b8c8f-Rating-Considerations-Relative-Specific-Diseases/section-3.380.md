@@ -1,0 +1,5 @@
+##### § 3.380 Diseases of allergic etiology. #####
+
+Diseases of allergic etiology, including bronchial asthma and urticaria, may not be disposed of routinely for compensation purposes as constitutional or developmental abnormalities. Service connection must be determined on the evidence as to existence prior to enlistment and, if so existent, a comparative study must be made of its severity at enlistment and subsequently. Increase in the degree of disability during service may not be disposed of routinely as natural progress nor as due to the inherent nature of the disease. Seasonal and other acute allergic manifestations subsiding on the absence of or removal of the allergen are generally to be regarded as acute diseases, healing without residuals. The determination as to service incurrence or aggravation must be on the whole evidentiary showing.
+
+[26 FR 1592, Feb. 24, 1961]

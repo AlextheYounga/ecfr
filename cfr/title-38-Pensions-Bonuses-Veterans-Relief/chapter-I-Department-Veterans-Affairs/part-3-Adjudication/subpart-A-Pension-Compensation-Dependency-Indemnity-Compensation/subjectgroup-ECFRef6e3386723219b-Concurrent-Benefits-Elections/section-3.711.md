@@ -1,0 +1,5 @@
+##### § 3.711 Improved pension elections. #####
+
+Except as otherwise provided by this section and § 3.712, a person entitled to receive section 306 or old-law pension on December 31, 1978, may elect to receive improved pension under the provisions of 38 U.S.C. 1521, 1541, or 1542 as in effect on January 1, 1979. Except as provided by § 3.714, an election of improved pension is final when the payee (or the payee's fiduciary) negotiates one check for this benefit and there is no right to reelection. Any veteran eligible to make an election under this section who is married to a veteran who is also eligible to make such an election may not receive improved pension unless the veteran's spouse also elects to receive improved pension.
+
+(Authority: Sec. 306(a)(1) of Pub. L. 95-588, 92 Stat. 2497)[46 FR 11661, Feb. 10, 1981]

@@ -1,0 +1,5 @@
+##### § 20.1106 Rule 1106. Claim for death benefits by survivor—prior unfavorable decisions during veteran's lifetime. #####
+
+Except with respect to benefits under the provisions of 38 U.S.C. 1311(a)(2) and 1318, and certain cases involving individuals whose Department of Veterans Affairs benefits have been forfeited for treason or for subversive activities under the provisions of 38 U.S.C. 6104 and 6105, issues involved in a survivor's claim for death benefits will be decided without regard to any prior disposition of those issues during the veteran's lifetime. Cases in which a person substitutes for a deceased veteran under 38 U.S.C. 5121A are not claims for death benefits and are not subject to this section. Cases in which a person substitutes for a deceased death benefits claimant under 38 U.S.C. 5121A are claims for death benefits subject to this section.
+
+(Authority: 38 U.S.C. 5121A, 7104(b)).[79 FR 52984, Sept. 5, 2014]

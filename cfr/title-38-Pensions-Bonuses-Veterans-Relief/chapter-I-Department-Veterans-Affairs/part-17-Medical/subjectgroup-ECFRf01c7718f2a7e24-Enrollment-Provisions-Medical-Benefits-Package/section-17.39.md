@@ -1,0 +1,7 @@
+##### § 17.39 Certain Filipino veterans. #####
+
+(a) Any Filipino Commonwealth Army veteran, including one who was recognized by authority of the U.S. Army as belonging to organized Filipino guerilla forces, or any new Philippine Scout is eligible for hospital care, nursing home care, and outpatient medical services within the United States in the same manner and subject to the same terms and conditions as apply to U.S. veterans, if such veteran or scout resides in the United States and is a citizen or lawfully admitted to the United States for permanent residence. For purposes of these VA health care benefits, the standards described in 38 CFR 3.42(c) will be accepted as proof of U.S. citizenship or lawful permanent residence.
+
+(b) Commonwealth Army Veterans, including those who were recognized by authority of the U.S. Army as belonging to organized Filipino guerilla forces, and new Philippine Scouts are not eligible for VA health care benefits if they do not meet the residency and citizenship requirements described in § 3.42(c).
+
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0091)(Authority: 38 U.S.C. 501, 1734)[71 FR 6680, Feb. 9, 2006]

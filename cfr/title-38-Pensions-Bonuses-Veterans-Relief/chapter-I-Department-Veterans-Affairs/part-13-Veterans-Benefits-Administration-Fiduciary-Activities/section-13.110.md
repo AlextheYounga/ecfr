@@ -1,0 +1,9 @@
+##### § 13.110 Escheat; post fund. #####
+
+(a) *Escheat; 38 U.S.C. 5502(e).* Upon death of a beneficiary for whom payment of Department of Veterans Affairs benefits was made to a court-appointed fiduciary, legal custodian, custodian-in-fact, or by institutional award, the fiduciary (or the deceased beneficiary's personal representative) shall, upon request, account for and return to the Department of Veterans Affairs any remaining assets derived from Department of Veterans Affairs benefits which would under State law escheat to the State, less legal expenses of any administration necessary to determine that an escheat is in order.
+
+(b) *General Post Fund; 38 U.S.C. 5220(a).* Upon the death of a veteran intestate while a member or patient in any facility while being furnished care or treatment therein by the Department of Veterans Affairs, who is not survived by a spouse, next of kin, or heirs entitled under the laws of the veteran's domicile, the veteran's fiduciary, if any, or the veteran's personal representative shall account for and turn over to the Department of Veterans Affairs all personal property, including money and chooses in action owned by the veteran at the time of his or her death. (See also § 14.514(c) of this chapter.)
+
+(c) *Refusal of fiduciary or personal representative to cooperate.* If the fiduciary or personal representative, if any, refuses to voluntarily comply with the provisions of paragraph (a) or (b) of this section, the Veterans Service Center Manager will submit a complete report to the Regional Counsel.
+
+[36 FR 19025, Sept. 25, 1971, as amended at 40 FR 54250, Nov. 21, 1975]

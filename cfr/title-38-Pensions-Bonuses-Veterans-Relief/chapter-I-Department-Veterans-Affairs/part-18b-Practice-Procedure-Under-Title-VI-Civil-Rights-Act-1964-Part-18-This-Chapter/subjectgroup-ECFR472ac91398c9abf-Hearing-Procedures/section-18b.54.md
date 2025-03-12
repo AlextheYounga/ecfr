@@ -1,0 +1,5 @@
+##### § 18b.54 Affidavits. #####
+
+An affidavit is not inadmissible as such. Unless the presiding officer fixes other time periods affidavits shall be filed and served on the parties not later than 15 days prior to the hearing; and not less than 7 days prior to hearing a party may file and serve written objection to any affidavit on the ground that it is believed necessary to test the truth of assertions therein at hearing. In such event the assertions objected to will not be received in evidence unless the affiant is made available for cross-examination, or the presiding officer determines that cross-examination is not necessary for the full and true disclosure of facts referred to in such assertions. Notwithstanding any objection, however, affidavits may be considered in the case of any respondent who waives a hearing.
+
+[35 FR 10760, July 2, 1970, as amended at 51 FR 10386, Mar. 26, 1986]

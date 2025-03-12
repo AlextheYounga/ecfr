@@ -1,0 +1,3 @@
+##### § 4.68 Amputation rule. #####
+
+The combined rating for disabilities of an extremity shall not exceed the rating for the amputation at the elective level, were amputation to be performed. For example, the combined evaluations for disabilities below the knee shall not exceed the 40 percent evaluation, diagnostic code 5165. This 40 percent rating may be further combined with evaluation for disabilities above the knee but not to exceed the above the knee amputation elective level. Painful neuroma of a stump after amputation shall be assigned the evaluation for the elective site of reamputation.

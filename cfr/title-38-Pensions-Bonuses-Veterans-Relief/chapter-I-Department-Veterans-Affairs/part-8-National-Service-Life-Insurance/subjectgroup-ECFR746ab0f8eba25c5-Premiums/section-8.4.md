@@ -1,0 +1,15 @@
+##### § 8.4 Deduction of insurance premiums from compensation, retirement pay, or pension. #####
+
+The insured under a National Service life insurance policy which is not lapsed may authorize the monthly deduction of premiums from disability compensation, death compensation, dependency and indemnity compensation, retirement pay, disability pension, or death pension that may be due and payable to him under any laws administered by the Department of Veterans Affairs in accordance with the following provisions.
+
+(a) The authorization may be made by an insured or the insured's legal representative. If the authorization is made by the insured's legal representative, it must be in writing over the signature of the representative and forwarded to the Department of Veterans Affairs along with a copy of the document which evidences the individual's authority to act on behalf of the insured. If an insured is incompetent and has no legal representative and has a spouse to whom benefits are being paid pursuant to Part 13 of this chapter, the spouse may authorize payment of insurance premiums through the deduction system. If an insured is incompetent and has no legal representative and an institutional award has been made in his or her behalf, the authorization may be executed by the Director of the field facility in which the insured is hospitalized or receiving domiciliary care, and in appropriate cases by the chief officers of State hospitals or other institutions to whom similar awards may have been approved.
+
+(b) The monthly disability compensation, death compensation, dependency and indemnity compensation, retirement pay, disability pension, or death pension so due and payable must be equal to, or in excess of, the amount of the insurance premium figured on a monthly basis.
+
+(c) The authorization may be cancelled by the insured at any time. Such cancellation will be effective on the first day of the month following the month in which it is received by the Department of Veterans Affairs.
+
+(d) If the benefits payable to the insured are apportioned under the regulations of the Department of Veterans Affairs now in effect or hereafter issued, the deduction authorized by the insured shall be from that portion awarded to the insured under such regulations.
+
+(e) The deduction authorized by a policyholder issued insurance under 38 U.S.C. 1925 will be automatically adjusted by the Department of Veterans Affairs to take cognizance of any premium adjustment made by the Secretary on such insurance provided the benefit payments due and payable to the insured are of an amount sufficient to pay the monthly insurance premium.
+
+(Authority: 38 U.S.C. 1908)[13 FR 7110, Nov. 27, 1948, as amended at 14 FR 5241, Aug. 24, 1949; 24 FR 7327, Sept. 9, 1959; 28 FR 1542, Feb. 19, 1963; 30 FR 3645, Mar. 19, 1965; 54 FR 46231, Nov. 2, 1989. Redesignated and amended at 61 FR 29290, 29291, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000]

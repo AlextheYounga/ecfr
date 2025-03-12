@@ -1,0 +1,9 @@
+##### § 1.553 Public reading rooms and discretionary disclosures. #####
+
+(a) VA maintains a public reading room electronically at its FOIA home page on the Internet, which contains the records that the FOIA requires to be regularly made available for public inspection and copying. See § 1.552(a) for the pertinent Internet address. Information routinely provided to the public (press releases, for example) may be provided without following these sections. In addition, as a matter of policy, VA may make discretionary releases of records or information exempt from disclosure under the FOIA when permitted to do so in accordance with current law and governmental policy. Each VA component is responsible for determining which of its records are required to be made available and for making its records available electronically.
+
+(b) VA may process, in accordance with the FOIA, records that it makes publicly available. Information in a public reading room record will be redacted, for example, if its release would be a clearly unwarranted invasion of an individual's personal privacy.
+
+(c) Some VA components may also maintain physical public reading rooms. Information regarding these components and their contact information is available on VA's FOIA home page on the Internet. See § 1.552(a) for the pertinent Internet address. If the requester does not have access to the Internet and wishes to obtain information regarding publicly available information or components that have a physical reading room, he or she may write VA's Chief FOIA Officer at the following address: Department of Veterans Affairs, FOIA Service (005R1C), 810 Vermont Avenue, NW., Washington, DC 20420.
+
+[76 FR 51893, Aug. 19, 2011]

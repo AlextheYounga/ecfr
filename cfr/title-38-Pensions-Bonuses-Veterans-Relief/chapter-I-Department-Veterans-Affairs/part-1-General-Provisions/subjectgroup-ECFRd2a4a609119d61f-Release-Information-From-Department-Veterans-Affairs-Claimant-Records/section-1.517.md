@@ -1,0 +1,5 @@
+##### § 1.517 Disclosure of vocational rehabilitation and education information to educational institutions cooperating with the Department of Veterans Affairs. #####
+
+Requests from educational institutions and agencies cooperating with the Department of Veterans Affairs in the vocational rehabilitation and education of veterans for the use of vocational rehabilitation and education records for research studies will be forwarded to central office with the facility head's recommendation for review by the Under Secretary for Benefits. Where the request to conduct a research study is approved by the Under Secretary for Benefits, the facility head is authorized by this section to release information for such studies from vocational rehabilitation and education records as required: *Provided, however,* That any data or information obtained shall not be published without prior approval of the Under Secretary for Benefits and that data contained in published material shall not identify any individual veteran.
+
+[30 FR 6435, May 8, 1965]

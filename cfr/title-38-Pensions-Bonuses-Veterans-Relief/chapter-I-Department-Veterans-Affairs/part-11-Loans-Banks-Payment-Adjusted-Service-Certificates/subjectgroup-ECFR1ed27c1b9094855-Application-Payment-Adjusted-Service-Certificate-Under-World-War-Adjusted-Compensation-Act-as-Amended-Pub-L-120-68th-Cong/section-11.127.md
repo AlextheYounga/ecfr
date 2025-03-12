@@ -1,0 +1,3 @@
+##### § 11.127 Identification. #####
+
+Before payment may be made on the adjusted service certificate, the person applying therefor will be identified as the person entitled to payment for which application is made. Such identification will be accepted if made by an authorized person as stated in § 11.114; also, fingerprint impressions shall be placed in the space provided on the application in accordance with § 11.114(a).

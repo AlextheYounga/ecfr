@@ -1,0 +1,5 @@
+##### § 3.107 Awards where not all dependents apply. #####
+
+Except as provided in § 3.251(a)(4), in any case where claim has not been filed by or on behalf of all dependents who may be entitled, the awards (original or amended) for those dependents who have filed claim will be made for all periods at the rates and in the same manner as though there were no other dependents. However, if the file reflects the existence of other dependents who have not filed claim and there is potential entitlement to benefits for a period prior to the date of filing claim, the award to a person who has filed claim will be made at the rate which would be payable if all dependents were receiving benefits. If at the expiration of the period allowed, claims have not been filed for such dependents, the full rate will be authorized for the first payee.
+
+[29 FR 9564, July 15, 1964]

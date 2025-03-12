@@ -1,0 +1,17 @@
+##### § 14.665 Claims. #####
+
+(a) The claim must be presented in writing on VA Form 2-4760, Employee's Claim for Reimbursement for Personal Property Damaged or Lost Incident to Employment. It will be submitted to the personnel office where the claim originates within 2 years after it accrues except that if the claim accrues in time of war or in time of armed conflict in which any Armed Force of the United States is engaged or if such war or armed conflict intervenes within 2 years after it accrues, and if good cause is shown, the claim may be presented not later than 2 years after that cause ceases to exist. The claim must be executed and certified by the officer or the employee suffering the loss or damage, or in the event of his or her death, by the surviving spouse, children, father or mother or both, or brothers or sisters or both. Claims of survivors shall be settled and paid in the order named. All claims must contain the following:
+
+(1) The date, time, and place the loss or damage occurred and the circumstances surrounding such loss or damage, together with the supporting statements of any witnesses who can verify such facts.
+
+(2) In the event of damage, the date of acquisition, original cost, condition before damage, and at least two estimates of the cost of repair or replacement. In the event of loss, the date of acquisition, the original cost, the condition, and an estimate of the reasonable market value of the article or articles.
+
+(3) A statement as to any claims or potential claim he or she may have for indemnification of the loss or damage against other than the United States and whether he or she will assign such to the United States and cooperate in its prosecution. Where such claim or potential claim is against a carrier or insurer, evidence that a timely claim has been properly made. Where a recovery from the carrier or his or her insurer has been obtained or offered, such information shall be included.
+
+(4) In cases involving damage or destruction of personal property by patients or domiciliary members, a statement as to whether a claim was filed pursuant to 38 U.S.C. 703(a)(5) and whether such claim has been finally denied.
+
+(b) The Personnel Officer receiving the claim will forward same to the person designated to investigate accidents at the station pursuant to § 14.605 within 5 days after receipt.
+
+(c) The employee designated pursuant to § 14.605 will ascertain if such claim is complete in all respects and conduct such investigation as is necessary to establish all facts required to properly evaluate the claim both as to merit and the reasonable amount payable for the loss or damage. Where it is indicated that the claimant may have a potential claim against other than the United States, the employee designated will secure a suitable assignment of all right and title to such claim, to the extent the United States makes reimbursement, and the agreement of the claimant to furnish such evidence as may be necessary to pursue such claim. If the potential claim is against a carrier or insurer, the employee designated will ascertain that the claimant has filed a timely proper claim and procure evidence thereof. The employee designated will also include information concerning any offer of settlement the carrier may have made. The completed investigation, original claim and supporting evidence will be forwarded to the appropriate Regional Counsel.
+
+[38 FR 5475, Mar. 1, 1973, as amended at 42 FR 41421, Aug. 17, 1977]

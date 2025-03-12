@@ -1,0 +1,5 @@
+##### § 14.560 Procedure where violation of penal statutes is involved including those offenses coming within the purview of the Assimilative Crime Act (18 U.S.C. 13). #####
+
+The Department of Justice, or the U.S. Attorneys, are charged with the duty and responsibility of interpreting and enforcing criminal statutes, and the final determination as to whether the evidence in any case is sufficient to warrent prosecution is a matter solely for their determination. If the Department of Justice or U.S. Attorney decides to initiate action, the Regional Counsel will cooperate as may be requested. The Regional Counsel will promptly bring to the attention of the General Counsel any case wherein he or she is of the opinion that criminal or civil action should be initiated notwithstanding a decision by the U.S. Attorney not to bring such action; any case where action has been inordinately delayed; and any case which would cause significant publicity or notoriety.
+
+(Authority: 38 U.S.C. 501)[50 FR 24767, June 13, 1985, as amended at 68 FR 17551, Apr. 10, 2003]

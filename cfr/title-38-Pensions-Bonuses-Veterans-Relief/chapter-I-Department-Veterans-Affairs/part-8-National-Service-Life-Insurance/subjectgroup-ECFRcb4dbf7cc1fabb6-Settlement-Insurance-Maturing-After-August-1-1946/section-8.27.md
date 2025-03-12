@@ -1,0 +1,5 @@
+##### § 8.27 Conditional designation of beneficiary. #####
+
+If the insured by notice in writing to the Department of Veterans Affairs during his lifetime has provided that a designated beneficiary shall be entitled to the proceeds of National Service life insurance only if such beneficiary shall survive him for such period (not more than 30 days), as specified by the insured, no right to the insurance shall vest as to such beneficiary during that period. In the event such beneficiary fails to survive the specified period, payment of the proceeds of National Service life insurance will be made as if the beneficiary had predeceased the insured.
+
+[14 FR 7175, Nov. 29, 1949. Redesignated at 61 FR 29290, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000, and further redesignated at 67 FR 54739, Aug. 26, 2002]

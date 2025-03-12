@@ -1,0 +1,3 @@
+##### § 4.121 Identification of epilepsy. #####
+
+When there is doubt as to the true nature of epileptiform attacks, neurological observation in a hospital adequate to make such a study is necessary. To warrant a rating for epilepsy, the seizures must be witnessed or verified at some time by a physician. As to frequency, competent, consistent lay testimony emphasizing convulsive and immediate post-convulsive characteristics may be accepted. The frequency of seizures should be ascertained under the ordinary conditions of life (while not hospitalized).

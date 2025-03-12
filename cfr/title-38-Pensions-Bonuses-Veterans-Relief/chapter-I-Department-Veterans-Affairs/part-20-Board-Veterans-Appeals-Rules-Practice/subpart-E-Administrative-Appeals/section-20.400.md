@@ -1,0 +1,5 @@
+##### § 20.400 Rule 400. Action by claimant or representative on notification of administrative appeal. #####
+
+When an official of the Department of Veterans Affairs enters an administrative appeal, the claimant and his or her representative, if any, are notified and given a period of 60 days from the date of mailing of the letter of notification to join in the administrative appeal. The date of mailing of the letter of notification will be presumed to be the same as the date of the letter of notification. If the claimant, or the representative acting on his or her behalf, elects to join in the administrative appeal, it becomes a “merged appeal” and the rules governing an appeal initiated by a claimant are for application. The presentation of evidence or argument by the claimant or his or her representative in response to notification of the right to join in the administrative appeal will be construed as an election to join in the administrative appeal. If the claimant does not authorize the merger, he or she must hold such evidence or argument in abeyance until resolution of the administrative appeal.
+
+(Authority: 38 U.S.C. 7106)

@@ -1,0 +1,5 @@
+##### § 1.893 Establishing and converting part-time positions. #####
+
+Position management and other internal reviews may indicate that positions may be either converted from full-time or initially established as part-time positions. Criteria listed in § 1.892 may be used during these reviews. If a decision is made to convert to or to establish a part-time position, regular position management and classification procedures will be followed.
+
+(Authority: 5 U.S.C. 3402)

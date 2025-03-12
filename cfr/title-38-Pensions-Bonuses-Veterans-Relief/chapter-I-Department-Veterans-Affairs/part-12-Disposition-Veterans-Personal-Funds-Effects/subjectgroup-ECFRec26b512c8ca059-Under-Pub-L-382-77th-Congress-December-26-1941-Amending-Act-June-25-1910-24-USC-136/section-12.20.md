@@ -1,0 +1,7 @@
+##### § 12.20 Posting of notice provisions of Pub. L. 382. #####
+
+(a) VA Form 10-P-10, Application for Hospital Treatment or Domiciliary Care, includes notice to the applicant that the acceptance of care or treatment by any veteran shall constitute acceptance of the provisions of the act. Similar notice shall be given to each veteran receiving care as of March 26, 1942, by posting notice in a prominent place in each building wherein patients or members are housed. Such notices shall be posted immediately and kept posted.
+
+(b) Since the provisions of the law are applicable to all veterans receiving care at the expense of the Department of Veterans Affairs (whether in contract, Federal, State or private hospital) it shall be the responsibility of the Department of Veterans Affairs officer authorizing admission of a veteran to other than a Department of Veterans Affairs hospital, center or home, to cause the chief officer of such institution to post in a conspicuous place, in all buildings where veterans are housed, the provisions of § 12.19(a), or if he or she declines to post such provisions, notify the patients individually and supply a statement from each acknowledging notice. Such provisions supersede in part the provisions of Form 10-P-10, executed prior to March 26, 1942.
+
+[13 FR 7131, Nov. 27, 1948, as amended at 14 FR 243, Jan. 18, 1949]

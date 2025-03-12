@@ -1,0 +1,5 @@
+##### § 2.4 Delegation of authority to order paid advertising for use in recruitment. #####
+
+Paid advertisements may be used in recruitment for VA competitive and excepted service positions. Authority to order such advertisements is hereby delegated to Administration Heads, Assistant Secretaries, Other Key Officials (the General Counsel; the Inspector General; the Chairman, Board of Veterans' Appeals; and the Director, Office of Small and Disadvantaged Business Utilization), Deputy Assistant Secretaries, to the deputies of such officials, to the Deputy Assistant Secretary and Associate Deputy Assistant Secretary for Human Resources Management, and to field facility Directors.
+
+(Authority: 5 U.S.C. 302(b)(2); 44 U.S.C. 3702)[61 FR 20134, May 6, 1996, as amended at 72 FR 65462, Nov. 21, 2007]

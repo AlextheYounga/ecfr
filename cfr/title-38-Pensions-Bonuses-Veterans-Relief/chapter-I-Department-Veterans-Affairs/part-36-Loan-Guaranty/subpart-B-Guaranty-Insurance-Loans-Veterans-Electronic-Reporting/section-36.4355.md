@@ -1,0 +1,5 @@
+##### § 36.4355 Loans, first, second, or unsecured. #####
+
+Loans for the purchase of real property or a leasehold estate as limited in the regulations concerning guaranty or insurance of loans to veterans, or for the alteration, improvement, or repair thereof, and for more than $1,500 and more than 40 percent of the reasonable value of such property or estate prior thereto shall be secured by a first lien on the property or estate. Loans for such alteration, improvement, or repairs for more than $1,500 but 40 percent or less of the prior reasonable value of the property shall be secured by a lien reasonable and customary in the community for the type of alteration, improvement, or repair financed. Those for $1,500 or less need not be secured, and in lieu of the title examination the lender may accept a statement from the borrower that he or she has an interest in the property not less than that prescribed in § 36.4354(a).
+
+(Authority: 38 U.S.C. 3703(c)(1))[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 80 FR 34319, June 16, 2015]

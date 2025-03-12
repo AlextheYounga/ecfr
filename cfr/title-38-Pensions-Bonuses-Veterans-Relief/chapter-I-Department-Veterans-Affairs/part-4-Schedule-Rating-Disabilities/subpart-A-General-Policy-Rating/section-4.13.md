@@ -1,0 +1,5 @@
+##### § 4.13 Effect of change of diagnosis. #####
+
+The repercussion upon a current rating of service connection when change is made of a previously assigned diagnosis or etiology must be kept in mind. The aim should be the reconciliation and continuance of the diagnosis or etiology upon which service connection for the disability had been granted. The relevant principle enunciated in § 4.125, entitled “Diagnosis of mental disorders,” should have careful attention in this connection. When any change in evaluation is to be made, the rating agency should assure itself that there has been an actual change in the conditions, for better or worse, and not merely a difference in thoroughness of the examination or in use of descriptive terms. This will not, of course, preclude the correction of erroneous ratings, nor will it preclude assignment of a rating in conformity with § 4.7.
+
+[29 FR 6718, May 22, 1964, as amended at 61 FR 52700, Oct. 8, 1996]

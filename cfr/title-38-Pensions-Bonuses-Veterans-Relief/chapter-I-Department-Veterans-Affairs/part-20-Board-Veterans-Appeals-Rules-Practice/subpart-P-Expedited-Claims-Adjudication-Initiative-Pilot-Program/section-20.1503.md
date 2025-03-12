@@ -1,0 +1,13 @@
+##### § 20.1503 Rule 1503. Election, identification of evidence, and representation. #####
+
+(a) *When and how election made.* Upon the filing of a claim described in § 20.1502(c) of this part, VA will promptly notify the claimant in writing of the opportunity to participate in the Initiative and provide the claimant with an Agreement and Waiver of Rights. A claimant may elect to participate in the Initiative by filing an executed Agreement and Waiver of Rights as provided in paragraphs (b) and (c) of this section within 30 days of the date of the notice of the opportunity to participate in the Initiative. An election to participate in the Initiative can be revoked at any time in accordance with § 20.1509 of this part.
+
+(b) *Execution of agreement.* To participate in the Initiative, a claimant and his or her representative must execute an Agreement and Waiver of Rights on a form prescribed by the Secretary. The claimant will specifically identify in the Agreement and Waiver of Rights all claims he or she wishes to have processed under the Initiative.
+
+(c) *Where to file.* The executed Agreement and Waiver of Rights must be filed with the participating VA regional office that has jurisdiction over the claim.
+
+(d) *Identification of relevant evidence.* Upon executing the Agreement and Waiver of Rights, the participant will respond, within the time period prescribed in § 20.1504(a)(1), to VA notice regarding the information and evidence necessary to substantiate the claim by identifying all relevant evidence in support of his or her claim(s), providing the requested evidence, or notifying VA that no such evidence exists. Relevant evidence may include any VA records, non-VA Federal records (such as Social Security disability records), and any private records (such as treatment records from a family physician). If the participant requires assistance from VA in obtaining any identified records, the participant will provide VA, upon request, the appropriate release form so VA may attempt to promptly obtain the records on behalf of the participant. VA must receive the necessary information and evidence requested from the participant within 1 year of the date of the notice, in accordance with § 3.159(b)(1) of this chapter.
+
+(e) *Effect of change in representation on the election.* If a participant changes or terminates representation after having made a valid election to participate in the Initiative, participation in the Initiative will continue under the terms of the signed Agreement and Waiver of Rights, unless the participant indicates, in writing, pursuant to § 20.1509(b) of this part, that he or she wishes to revoke participation.
+
+(Authority: 38 U.S.C. 501(a))

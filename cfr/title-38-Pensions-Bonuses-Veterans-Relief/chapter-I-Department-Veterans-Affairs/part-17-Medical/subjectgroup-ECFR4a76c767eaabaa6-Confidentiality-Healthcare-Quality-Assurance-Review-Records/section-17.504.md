@@ -1,0 +1,7 @@
+##### § 17.504 Disclosure methods. #####
+
+(a) Disclosure of confidential and privileged quality assurance records and documents or the information contained therein outside VA, where permitted by the statute and the regulations in §§ 17.500 through 17.511, will always be by copies, abstracts, summaries, or similar records or documents prepared by the Department of Veterans Affairs and released to the requestor. The original confidential and privileged quality assurance records and documents will not be removed from the VA facility by any person, VA employee or otherwise, except in accordance with § 17.508(c) or where otherwise legally required.
+
+(b) Disclosure of confidential and privileged quality assurance records and documents to authorized individuals under either § 17.508 or § 17.509 shall bear the following statement: “These documents or records (or information contained herein) are confidential and privileged under the provisions of 38 U.S.C. 5705, which provide for fines up to $20,000 for unauthorized disclosures thereof, and the implementing regulations. This material shall not be disclosed to anyone without authorization as provided for by that law or the regulations in §§ 17.500 through 17.511.”
+
+(Authority: 38 U.S.C. 5705)

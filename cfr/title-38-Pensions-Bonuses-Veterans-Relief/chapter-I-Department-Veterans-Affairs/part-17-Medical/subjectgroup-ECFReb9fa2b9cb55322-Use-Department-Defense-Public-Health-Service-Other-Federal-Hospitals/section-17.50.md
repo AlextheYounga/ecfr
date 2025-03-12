@@ -1,0 +1,5 @@
+##### § 17.50 Use of Department of Defense, Public Health Service or other Federal hospitals with beds allocated to the Department of Veterans Affairs. #####
+
+Hospital facilities operated by the Department of Defense or the Public Health Service (or any other agency of the United States Government) may be used for the care of VA patients pursuant to agreements between VA and the department or agency operating the facility. When such an agreement has been entered into and a bed allocation for VA patients has been provided for in a specific hospital covered by the agreement, care may be authorized within the bed allocation for any veteran eligible under 38 U.S.C. 1710 or § 17.44. Care in a Federal facility not operated by VA, however, shall not be authorized for any military retiree whose sole basis for eligibility is under § 17.44, or, except in Alaska and Hawaii, for any retiree of the uniformed services suffering from a chronic disability whose entitlement is under § 17.44 or § 17.46(a)(2) regardless of whether he or she may have dual eligibility under other provisions of § 17.46.
+
+[79 FR 54615, Sept. 12, 2014]

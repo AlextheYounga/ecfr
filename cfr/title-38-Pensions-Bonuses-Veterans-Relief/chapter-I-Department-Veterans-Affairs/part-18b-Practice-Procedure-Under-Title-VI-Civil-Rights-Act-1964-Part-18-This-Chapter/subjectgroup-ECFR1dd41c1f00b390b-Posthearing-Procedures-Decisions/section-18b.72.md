@@ -1,0 +1,3 @@
+##### § 18b.72 Exceptions to initial or recommended decisions. #####
+
+Within 20 days after the mailing of an initial or recommended decision, any party may file exceptions to the decision, stating reasons therefor, with the reviewing authority. Any other party may file a response thereto within 30 days after the mailing of the decision. Upon the filing of such exceptions, the reviewing authority shall review the decision and issue its own decision thereon.

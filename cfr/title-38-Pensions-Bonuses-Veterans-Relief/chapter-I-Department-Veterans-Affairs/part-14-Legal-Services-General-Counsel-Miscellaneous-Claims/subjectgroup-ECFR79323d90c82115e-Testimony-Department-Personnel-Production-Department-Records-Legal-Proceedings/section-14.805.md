@@ -1,0 +1,5 @@
+##### § 14.805 Contents of a demand or request. #####
+
+The request or demand for testimony or production of documents shall set forth in, or be accompanied by, an affidavit, or if that is not feasible, in, or accompanied by, a written statement by the party seeking the testimony or records or by the party's attorney, a summary of the nature and relevance of the testimony or records sought in the legal proceedings containing sufficient information for the responsible VA official to determine whether VA personnel should be allowed to testify or records should be produced. Where the materials are considered insufficient to make the determination as described in § 14.807, the responsible VA official may ask the requester to provide additional information.
+
+(Authority: 38 U.S.C. 501 (a) and (b); 5 U.S.C. 301)

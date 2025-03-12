@@ -1,0 +1,7 @@
+##### § 3.308 Presumptive service connection; peacetime service before January 1, 1947. #####
+
+(a) *Chronic disease.* There is no provision for presumptive service connection for chronic disease as distinguished from tropical diseases referred to in paragraph (b) of this section based on peacetime service before January 1, 1947.
+
+(b) *Tropical disease.* In claims based on peacetime service before January 1, 1947, a veteran of 6 months or more service who contracts a tropical disease listed in § 3.309(b) or a resultant disorder or disease originating because of therapy administered in connection with a tropical disease or as a preventative, will be considered to have incurred such disability in service when it is shown to exist to the degree of 10 percent or more within 1 year after separation from active service, or at a time when standard and accepted treatises indicate that the incubation period commenced during active service unless shown by clear and unmistakable evidence not to have been of service origin. The requirement of 6 months or more service means active, continuous service, during one or more enlistment periods.
+
+(Authority: 38 U.S.C. 1133)[39 FR 34530, Sept. 26, 1974]

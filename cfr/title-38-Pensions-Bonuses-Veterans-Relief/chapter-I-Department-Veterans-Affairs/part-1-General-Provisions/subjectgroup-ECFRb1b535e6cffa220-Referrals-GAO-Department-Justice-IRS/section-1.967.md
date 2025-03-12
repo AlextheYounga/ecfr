@@ -1,0 +1,11 @@
+##### § 1.967 Refunds. #####
+
+(a) Except as provided in paragraph (c) of this section, any portion of an indebtedness resulting from participation in benefits programs administered by the Department of Veterans Affairs which has been recovered by the U.S. Government from the debtor may be considered for waiver, provided the debtor requests waiver in accordance with the time limits of § 1.963(b). If collection of an indebtness is waived as to the debtor, such portions of the indebtedness previously collected by the Department of Veterans Affairs will be refunded. In the event that waiver of collection is granted for either an education, loan guaranty, or direct loan debt, there will be a reduction in the debtor's entitlement to future benefits in the program in which the debt originated.
+
+(b) The Department of Veterans Affairs may not waive collection of the indebtedness of an educational institution found liable under 38 U.S.C. 3685. Waiver of collection of educational benefit overpayments from all or a portion of the eligible persons attending an educational institution which has been found liable under 38 U.S.C. 3685 shall not relieve the institution of its assessed liability. (See 38 CFR 21.4009(f)).
+
+(c) The regulatory provisions concerning refunds of indebtedness collected by the Department of Veterans Affairs arising from erroneous payments of pay and allowances and travel, transportation, and relocation expenses and allowances are set forth in 4 CFR Parts 91 and 92.
+
+(d) Refund of the entire amount collected may not be made when only a part of the debt is waived or when collection of the balance of a loan guaranty indebtedness by the Department of Veterans Affairs from obligors, other than a husband or wife of the person requesting waiver, will be adversely affected. Only where the amount collected exceeds the balance of the indebtedness still in existence will a refund be made in the amount of the difference between the two. Otherwise, refunds will be made in accordance with paragraph (a) of this section.
+
+(Authority: 38 U.S.C. 3685, 5302; 5 U.S.C. 5584)[48 FR 1056, Jan. 10, 1983, as amended at 60 FR 53276, Oct. 13, 1995]

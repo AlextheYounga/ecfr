@@ -1,0 +1,5 @@
+##### § 4.2 Interpretation of examination reports. #####
+
+Different examiners, at different times, will not describe the same disability in the same language. Features of the disability which must have persisted unchanged may be overlooked or a change for the better or worse may not be accurately appreciated or described. It is the responsibility of the rating specialist to interpret reports of examination in the light of the whole recorded history, reconciling the various reports into a consistent picture so that the current rating may accurately reflect the elements of disability present. Each disability must be considered from the point of view of the veteran working or seeking work. If a diagnosis is not supported by the findings on the examination report or if the report does not contain sufficient detail, it is incumbent upon the rating board to return the report as inadequate for evaluation purposes.
+
+[41 FR 11292, Mar. 18, 1976]

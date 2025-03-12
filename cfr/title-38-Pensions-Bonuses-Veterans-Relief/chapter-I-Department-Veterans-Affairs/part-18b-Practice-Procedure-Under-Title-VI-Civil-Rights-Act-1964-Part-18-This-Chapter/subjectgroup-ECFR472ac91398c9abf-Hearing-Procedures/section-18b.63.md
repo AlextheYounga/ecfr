@@ -1,0 +1,3 @@
+##### § 18b.63 Public document items. #####
+
+Whenever there is offered (in whole or in part) a public document, such as an official report, decision, opinion, or published scientific or economic statistical data issued by any of the executive departments (or their subdivisions), legislative agencies or committees, or administrative agencies of the Federal Government (including Government-owned corporations), or a similar document issued by a State or its agencies, and such document (or part thereof) has been shown by the offeror to be reasonably available to the public, such document need not be produced or marked for identification, but may be offered for official notice, as a public document item by specifying the document or relevant part thereof.

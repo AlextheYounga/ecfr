@@ -1,0 +1,5 @@
+##### § 18b.32 Amendment of notice or answer. #####
+
+The General Counsel may amend the notice of hearing or opportunity for hearing once as a matter of course before an answer thereto is served, and each respondent may amend the answer once as a matter of course not later than 10 days before the date fixed for hearing but in no event later than 20 days from the date of service of the original answer. Otherwise a notice or answer may be amended only by leave of the presiding officer. A respondent shall file the answer to an amended notice within the time remaining for filing the answer to the original notice or within 10 days after service of the amended notice, whichever period may be the longer, unless the presiding officer otherwise orders.
+
+[35 FR 10760, July 2, 1970, as amended at 51 FR 10386, Mar. 26, 1986]

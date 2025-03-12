@@ -1,0 +1,11 @@
+##### § 3.654 Active service pay. #####
+
+(a) *General.* Pension, compensation, or retirement pay will be discontinued under the circumstances stated in § 3.700(a)(1) for any period for which the veteran received active service pay. For the purposes of this section, active service pay means pay received for active duty, active duty for training or inactive duty training.
+
+(b) *Active duty.* (1) Where the veteran returns to active duty status, the award will be discontinued effective the day preceding reentrance into active duty status. If the exact date is not known, payments will be discontinued effective date of last payment and as of the correct date when the date of reentrance has been ascertained from the service department.
+
+(2) Payments, if otherwise in order, will be resumed effective the day following release from active duty if claim for recommencement of payments is received within 1 year from the date of such release: otherwise payments will be resumed effective 1 year prior to the date of receipt of a new claim. Prior determinations of service connection will not be disturbed except as provided in § 3.105. Compensation will be authorized based on the degree of disability found to exist at the time the award is resumed. Disability will be evaluated on the basis of all facts, including records from the service department relating to the most recent period of active service. If a disability is incurred or aggravated in the second period of service, compensation for that disability cannot be paid unless a claim therefor is filed.
+
+(c) *Training duty.* Prospective adjustment of awards may be made where the veteran waives his or her Department of Veterans Affairs benefit covering anticipated receipt of active service pay because of expected periods of active duty for training or inactive duty training. Where readjustment is in order because service pay was not received for expected training duty, retroactive payments may be authorized if a claim for readjustment is received within 1 year after the end of the fiscal year for which payments were waived.
+
+[27 FR 11890, Dec. 1, 1962]

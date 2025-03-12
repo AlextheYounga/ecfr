@@ -1,0 +1,3 @@
+##### § 18b.34 Consolidation. #####
+
+The reviewing authority may provide for proceedings in the Department of Veterans Affairs to be joined or consolidated for hearing with proceedings in other Federal departments or agencies, by agreement with such other departments or agencies. All parties to any proceeding consolidated subsequent to service of the notice of hearing or opportunity for hearing shall be served with notice of such consolidation.

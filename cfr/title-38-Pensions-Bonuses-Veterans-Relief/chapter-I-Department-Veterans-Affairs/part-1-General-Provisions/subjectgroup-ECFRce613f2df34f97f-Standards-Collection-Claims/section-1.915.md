@@ -1,0 +1,27 @@
+##### § 1.915 Interest, administrative costs, and penalties. #####
+
+(a) Except as otherwise provided by statute, contract, or other regulation to the contrary, and subject to 38 U.S.C. 3485(e) and 5302, VA shall assess:
+
+(1) Interest on all indebtedness to the United States arising out of participation in a VA benefit, medical care, or home loan program under authority of Title 38, U.S. Code.
+
+(2) Interest and administrative costs of collection on such debts described in paragraph (a)(1) of this section where repayment has become delinquent (as defined in 31 CFR 900.2(b)), and
+
+(3) Interest, administrative costs, and penalties in accordance with 31 CFR 901.9 on all debts other than those described in paragraph (a)(1) of this section.
+
+(b) Every party entering into an agreement with the Department of Veterans Affairs for repayment of indebtedness in installments shall be advised of the interest charges to be added to the debt. All debtors being provided notice of indebtedness, including those entering into repayment agreements, shall be advised that upon the debt becoming delinquent, or in the case of repayment of already delinquent debts, interest and the administrative costs of collection will be added to the principal amount of the debt.
+
+(c) The rate of interest charged by VA shall be based on the rate established annually by the Secretary of the Treasury in accordance with 31 U.S.C. 3717 and shall be adjusted annually by VA on the first day of the calendar year. Once the rate of interest has been determined for a particular debt, the rate shall remain in effect throughout the duration of repayment of that debt. When a debtor defaults on a repayment agreement and seeks to enter into a new agreement, VA may require payment of interest at a new rate that reflects the current value of funds to the Treasury at the time the new agreement is executed. Interest shall not be compounded, that is, interest shall not be charged on accrued interest and administrative costs required by this section. If, however, a debtor defaults on a previous repayment agreement, interest and administrative costs that accrued but were not collected under the defaulted agreement shall be added to the principal under the new agreement.
+
+(d) Interest on amounts covered by this section shall accrue from the date the initial notice of the debt is mailed to the debtor. Notification shall be considered sufficient when effected by ordinary mail, addressed to the last known address, and such notice is not returned as undeliverable by postal authorities.
+
+(e) Interest under this section shall not be charged if the debt is paid in full within 30 days of mailing of the initial notice described in paragraph (b) of this section. Once interest begins to accrue, and after expiration of the time period for payment of the debt in full to avoid assessment of interest and administrative costs, any amount received toward the payment of such debt shall be first applied to payment of outstanding administrative cost charges and then to accrued interest or costs, and then to principal, unless a different rule is prescribed by statute, contract, or other regulation.
+
+(f) All or any part of the interest and administrative costs assessed under this section are subject to consideration for waiver under section 5302 of title 38 U.S.C., and appropriate administrative procedures.
+
+(1) In general, interest and administrative costs may be waived only when the principal of the debt on which they are assessed is waived by a Committee on Waivers and Compromises. However, VA may forbear collection of interest and administrative costs, exclusive of collection of the principal of the debt on which they are assessed, as well as terminate further assessment of interest and administrative costs when the collection of such interest and costs are determined to be not in the government's best interest. Collection of interest and administrative costs shall not be considered to be in the best interest of the government when the amount of assessed interest and administrative cost is so large that there is a reasonable certainty that the original debt will never be repaid. The determination to forbear collection of interest and administrative cost, exclusive of collection of the principal of the debt, shall be made by the Chief of the Fiscal activity at the station responsible for the collection of the debt. Such a determination is not within the jurisdiction of a Committee on Waivers and Compromises.
+
+(2) [Reserved]
+
+(g) Administrative costs assessed under this section shall be the average costs of collection of similar debts, or actual collection costs as may be accurately determined in the particular case. No administrative costs of collection will be assessed under this section in any cases where the indebtedness is paid in full prior to the 30-day period specified in paragraph (e) of this section, or in any case where a repayment plan is proposed by the debtor and accepted by VA within that 30-day period, unless such repayment agreement becomes delinquent (as defined in 31 CFR 900.2(b)).
+
+(Authority: 31 U.S.C. 3717; 38 U.S.C. 501, 5302, 5315)[46 FR 62057, Dec. 22, 1981, as amended at 52 FR 42107, Nov. 3, 1987. Redesignated and amended at 69 FR 62195, Oct. 25, 2004]

@@ -1,0 +1,3 @@
+##### § 18b.20 Form of documents to be filed. #####
+
+Documents to be filed shall be dated, the original signed in ink, shall show the docket description and title of the proceeding, and shall show the title, if any, and address of the signatory. Copies need not be signed but the name of the person signing the original shall be reproduced. Documents shall be legible and shall not be more than 81/2 inches wide and 12 inches long.

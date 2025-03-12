@@ -1,0 +1,5 @@
+##### § 11.109 Settlement of unmatured adjusted service certificates. #####
+
+Where an application for final settlement of an adjusted service certificate is received in the Department of Veterans Affairs prior to the maturity date of the certificate, payment will be made under the terms of the Adjusted Compensation Payment Act, 1936. This act provides for payment of the amount due on the certificate, after deducting any unpaid loans with interest through September 30, 1931, in adjusted service bonds. These bonds will be issued by the Treasury Department in denominations of $50, in the name of the veteran only, and will bear interest at the rate of 3 percent per annum from June 15, 1936, to June 15, 1945. Any excess amount not sufficient to purchase a $50 bond will be paid by check.
+
+[19 FR 5087, Aug. 12, 1954]

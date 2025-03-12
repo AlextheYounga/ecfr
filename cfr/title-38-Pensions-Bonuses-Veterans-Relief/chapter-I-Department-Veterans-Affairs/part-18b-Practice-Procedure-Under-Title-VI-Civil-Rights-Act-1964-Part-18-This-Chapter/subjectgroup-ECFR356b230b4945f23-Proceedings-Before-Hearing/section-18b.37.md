@@ -1,0 +1,5 @@
+##### § 18b.37 Disposition of motions and petitions. #####
+
+The reviewing authority or the presiding officer may not sustain or grant a written motion or petition prior to expiration of the time for filing responses thereto, but may overrule or deny such motion or petition without awaiting response: *Provided, however,* That prehearing conferences, hearings and decisions need not be delayed pending disposition of motions or petitions. Oral motions and petitions may be ruled on immediately. Motions and petitions submitted to the reviewing authority or the presiding officer, respectively, and not disposed of in separate rulings or in their respective decisions will be deemed denied. Oral arguments shall not be held on written motions or petitions unless the presiding officer in the officer's discretion expressly so orders.
+
+[35 FR 10760, July 2, 1970, as amended at 51 FR 10386, Mar. 26, 1986]

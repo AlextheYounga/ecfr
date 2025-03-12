@@ -1,0 +1,5 @@
+##### § 13.106 Investments by court-appointed fiduciaries. #####
+
+The Veterans Service Center Manager will review and to the extent possible determine the legality and prudence of investments involving Department of Veterans Affairs income or estate. It is Department of Veterans Affairs policy to invest income or estate derived from Department of Veterans Affairs benefits only in legal investments which have safety, assured income, stability of principal and ready convertibility for the requirements of the beneficiary and his or her dependents. When notice of a contemplated or actual illegal or imprudent investment comes to the attention of the Veterans Service Center Manager, he or she will take remedial action to protect the beneficiary's estate. Cases in which it becomes necessary to institute court action will be referred to the Regional Counsel.
+
+(Authority: 38 U.S.C. 501)[40 FR 54250, Nov. 21, 1975]

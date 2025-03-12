@@ -1,0 +1,5 @@
+##### § 6.13 Policy loans. #####
+
+At any time after the first policy year and upon the execution of a loan agreement satisfactory to the Secretary the United States will lend to the insured on the sole security of his/her United States Government Life Insurance policy any amount which shall not exceed 94 percent of the cash value, and any indebtedness shall be deducted from the amount advanced on such loan. The loan shall bear interest at a rate not to exceed 5 percent per annum, payable annually, and the loan may be repaid in full or in amounts of $5 or more. Failure to pay either the amount of the loan or the interest thereon shall not void the policy unless the total indebtedness shall equal or exceed the cash value thereof. When the amount of the indebtedness equals or exceeds the cash value, the policy shall cease and become void.
+
+(Authority: 38 U.S.C. 1944)[48 FR 1963, Jan. 17, 1983. Redesignated and amended at 61 FR 29025, June 7, 1996]

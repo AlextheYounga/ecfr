@@ -1,0 +1,5 @@
+##### § 3.372 Initial grant following inactivity of tuberculosis. #####
+
+When service connection is granted initially on an original or reopened claim for pulmonary or nonpulmonary tuberculosis and there is satisfactory evidence that the condition was active previously but is now inactive (arrested), it will be presumed that the disease continued to be active for 1 year after the last date of established activity, provided there is no evidence to establish activity or inactivity in the intervening period. For a veteran entitled to receive compensation on August 19, 1968, the beginning date of graduated ratings will commence at the end of the 1-year period. For a veteran who was not receiving or entitled to receive compensation on August 19, 1968, ratings will be assigned in accordance with the Schedule for Rating Disabilities (part 4 of this chapter). This section is not applicable to running award cases.
+
+[33 FR 16275, Nov. 6, 1968]

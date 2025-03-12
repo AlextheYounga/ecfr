@@ -1,0 +1,7 @@
+##### § 13.104 Accounts of court-appointed fiduciaries. #####
+
+(a) *Requirement to account; notices of filings and hearings.* Accounts may be required from court-appointed fiduciaries as provided by State law, but in no event less frequently than once every 3 years. Arrangements will be made with the courts whereby notices of filing of all petitions, accounts, etc., and of hearings on same, relative to court-appointed fiduciary cases wherein the Department of Veterans Affairs is an interested party, will be sent to the Veterans Service Center Manager for review, distribution and such action as may be appropriate. Matters which require legal action will be referred to the Regional Counsel, and will include any matter in which the Department of Veterans Affairs has any objections to offer.
+
+(b) *Fiduciary and beneficiary in jurisdiction other than a State of the United States.* Accounts will not be required, in the discretion of the Veterans Service Center Manager, in cases where the fiduciary and beneficiary permanently reside in a jurisdiction other than a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico or the Republic of the Philippines, and the fiduciary appointment was made in said jurisdiction.
+
+[40 FR 54250, Nov. 21, 1975]

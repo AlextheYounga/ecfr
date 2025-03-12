@@ -1,0 +1,3 @@
+##### § 4.123 Neuritis, cranial or peripheral. #####
+
+Neuritis, cranial or peripheral, characterized by loss of reflexes, muscle atrophy, sensory disturbances, and constant pain, at times excruciating, is to be rated on the scale provided for injury of the nerve involved, with a maximum equal to severe, incomplete, paralysis. See nerve involved for diagnostic code number and rating. The maximum rating which may be assigned for neuritis not characterized by organic changes referred to in this section will be that for moderate, or with sciatic nerve involvement, for moderately severe, incomplete paralysis.

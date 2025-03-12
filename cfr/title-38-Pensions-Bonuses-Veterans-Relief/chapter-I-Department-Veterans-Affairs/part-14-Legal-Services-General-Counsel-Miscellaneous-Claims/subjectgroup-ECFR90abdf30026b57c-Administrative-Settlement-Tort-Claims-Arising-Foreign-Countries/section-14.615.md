@@ -1,0 +1,9 @@
+##### § 14.615 General. #####
+
+(a) *Authority.* Section 515(b), title 38 U.S.C., provides that the Secretary of Veterans Affairs may pay tort claims, in the manner authorized in the first paragraph of section 2672 of title 28 U.S.C., when such claims arise in foreign countries in connection with Department of Veterans Affairs operations abroad.
+
+(b) *Action by claimant.* Claims for property loss or damage may be filed by the owner of the property or his or her duly authorized agent or legal representative. If the property was insured and the insurer is subrogated, in whole or in part, and if both the owner and the insurer desire to file a claim for their respective losses they should join in one claim. Claims for personal injury may be filed by the injured person or his or her agent or legal representative. Claims for death may be filed by the personal representative of the decedent or any other legally qualified person. When filed by an agent or legal representative, the claim must show the title or capacity of the person representing the claimant and be accompanied by evidence of the appointment of such person as agent, legal representative, executor/executrix, administrator/administratrix, guardian, or other fiduciary.
+
+(c) *Time for filing.* A claim may not be allowed under 38 U.S.C. 515(b) unless it is presented to the Secretary or his or her designee within 2 years after the claim accrues.
+
+(Authority: 28 U.S.C 2671-2680; 38 U.S.C. 512, 515, 7316; 28 CFR part 14, appendix to part 14)[38 FR 5473, Mar. 1, 1973, as amended at 42 FR 41417, Aug. 17, 1977; 64 FR 47112, Aug. 30, 1999]

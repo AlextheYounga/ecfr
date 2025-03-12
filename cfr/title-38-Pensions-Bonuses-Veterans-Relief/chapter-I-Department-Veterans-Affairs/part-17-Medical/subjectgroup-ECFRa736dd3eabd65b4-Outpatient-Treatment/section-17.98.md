@@ -1,0 +1,7 @@
+##### § 17.98 Mental health services. #####
+
+(a) Following the death of a veteran, bereavement counseling involving services defined in 38 U.S.C. 1783, may be furnished to persons who were receiving mental health services in connection with treatment of the veteran under 38 U.S.C. 1710, 1712A, 1717, or 1781, prior to the veteran's death, but may only be furnished in instances where the veteran's death had been unexpected or occurred while the veteran was participating in a VA hospice or similar program. Bereavement counseling may be provided only to assist individuals with the emotional and psychological stress accompanying the veteran's death, and only for a limited period of time, as determined by the Medical Center Director, but not to exceed 60 days. The Medical Center Director may approve a longer period of time when medically indicated.
+
+(b) For purposes of paragraph (a) of this section, an unexpected death is one which occurs when in the course of an illness the provider of care did not or could not have anticipated the timing of the death. Ordinarily, the provider of care can anticipate the patient's death and can inform the patient and family of the immediacy and certainty of death. If that has not taken place, a death can be described as unexpected.
+
+(Authority: 38 U.S.C. 1783)[53 FR 7186, Mar. 7, 1988. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996; 79 FR 54616, Sept. 12, 2014]

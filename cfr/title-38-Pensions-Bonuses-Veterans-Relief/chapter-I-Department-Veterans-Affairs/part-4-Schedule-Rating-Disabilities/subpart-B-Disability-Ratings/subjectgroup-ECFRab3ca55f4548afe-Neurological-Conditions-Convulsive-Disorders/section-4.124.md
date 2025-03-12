@@ -1,0 +1,3 @@
+##### § 4.124 Neuralgia, cranial or peripheral. #####
+
+Neuralgia, cranial or peripheral, characterized usually by a dull and intermittent pain, of typical distribution so as to identify the nerve, is to be rated on the same scale, with a maximum equal to moderate incomplete paralysis. See nerve involved for diagnostic code number and rating. Tic douloureux, or trifacial neuralgia, may be rated up to complete paralysis of the affected nerve.

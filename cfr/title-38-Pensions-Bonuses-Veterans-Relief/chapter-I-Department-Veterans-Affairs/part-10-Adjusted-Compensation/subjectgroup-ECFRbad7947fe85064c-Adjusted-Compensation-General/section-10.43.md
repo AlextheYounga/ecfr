@@ -1,0 +1,3 @@
+##### § 10.43 Claim by guardian of child of veteran. #####
+
+A claim made by a legal guardian on behalf of his or her ward, a child of a veteran, shall be supported by an affidavit of said guardian, in the capacity of guardian, setting forth the names, ages, and addresses of all living children of the deceased veteran, or, if there be no living child other than the claimant child, statement of that fact shall be made. The signature of the guardian to such required affidavit shall be attested by the court having jurisdiction of the guardian and ward, or by two competent persons to whom the child is personally known.

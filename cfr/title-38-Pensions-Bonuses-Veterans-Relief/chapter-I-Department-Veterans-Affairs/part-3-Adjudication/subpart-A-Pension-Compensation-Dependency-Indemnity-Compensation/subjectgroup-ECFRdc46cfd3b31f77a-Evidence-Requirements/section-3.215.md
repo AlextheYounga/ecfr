@@ -1,0 +1,5 @@
+##### § 3.215 Termination of marital relationship or conduct. #####
+
+On or after January 1, 1971, benefits may be resumed to an unmarried surviving spouse upon filing of an application and submission of satisfactory evidence that the surviving spouse has ceased living with another person and holding himself or herself out openly to the public as that person's spouse or that the surviving spouse has terminated a relationship or conduct which had created an inference or presumption of remarriage or related to open or notorious adulterous cohabitation or similar conduct, if the relationship terminated prior to November 1, 1990. Such evidence may consist of, but is not limited to, the surviving spouse's certified statement of the fact.
+
+[57 FR 10426, Mar. 26, 1992, as amended at 58 FR 32445, June 10, 1993]

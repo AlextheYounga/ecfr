@@ -1,0 +1,5 @@
+##### § 61.19 Transfer of capital grants. #####
+
+In the case of a previously awarded project that can no longer provide services and/or housing and the recipient agency has decided to withdraw or the project has been terminated for failure to comply with the terms and conditions of the award, VA may transfer a capital grant or non-capital grant to another eligible entity in the same geographical area without competition, in order to prevent a loss of capacity of services and housing to homeless veterans. The new entity must meet all of the requirements to which the original grantee was subject. In the case of a capital grant transfer the new grantee will only be entitled to the funding that remains from the original capital obligation and remains responsible for all commitments made by the original grantee.
+
+(Authority: 38 U.S.C. 501, 2011)

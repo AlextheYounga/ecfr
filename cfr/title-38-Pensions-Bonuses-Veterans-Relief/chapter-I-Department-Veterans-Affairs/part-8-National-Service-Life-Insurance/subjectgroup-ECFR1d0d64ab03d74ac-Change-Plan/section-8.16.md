@@ -1,0 +1,5 @@
+##### § 8.16 Conversion of a 5-year level premium term policy as provided for under § 1904 of title 38 U.S.C. #####
+
+National Service Life Insurance on the level premium term plan which is in force may be exchanged for a permanent plan policy upon written application by the insured and the payment of the current monthly premium at the attained age for the plan of insurance selected (except where premium waiver under 38 U.S.C. 1912 is effective). The reserve (if any) on the policy will be allowed as a credit on the current monthly premium except where premium waiver is effective. Conversion to an endowment plan may not be made while the insured is totally disabled. The conversion will be made without medical examination, except when deemed necessary to determine whether an applicant for conversion to an endowment plan is totally disabled, and upon complete surrender of the term insurance while in force by payment or waiver of premium.
+
+(Authority: 38 U.S.C. 1904)[61 FR 29293, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000]

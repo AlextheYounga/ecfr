@@ -1,0 +1,5 @@
+##### § 12.24 Operation of lost and found service. #####
+
+Unless maintained by the Public Buildings Service, the lost and found service will be maintained by an employee designated by the Manager to be known as the lost and found custodian. VA Form 3771, Record of Lost or Found Article, will be used for recording articles of any personal property lost or found. Every effort will be made to determine rightful ownership of found articles and to recover items which have been reported lost. Currency, including readily negotiable instruments, found and delivered to the lost and found custodian will not be retained beyond the official closing hour. The currency or negotiable instruments will be delivered to the agent cashier before the close of business. Individuals claiming found articles will furnish complete identification and satisfy the facility authority of rightful ownership. Where more than one individual claims ownership the matter will be referred to the Manager for decision. All articles of personal property remaining unclaimed for 90 days or more will be disposed of in accordance with § 12.8.
+
+[21 FR 3875, June 6, 1956]

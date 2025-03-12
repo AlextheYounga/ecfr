@@ -1,0 +1,7 @@
+##### § 3.53 Continuous cohabitation. #####
+
+(a) *General.* The requirement that there must be continuous cohabitation from the date of marriage to the date of death of the veteran will be considered as having been met when the evidence shows that any separation was due to the misconduct of, or procured by, the veteran without the fault of the surviving spouse. Temporary separations which ordinarily occur, including those caused for the time being through fault of either party, will not break the continuity of the cohabitation.
+
+(b) *Findings of fact.* The statement of the surviving spouse as to the reason for the separation will be accepted in the absence of contradictory information. If the evidence establishes that the separation was by mutual consent and that the parties lived apart for purposes of convenience, health, business, or any other reason which did not show an intent on the part of the surviving spouse to desert the veteran, the continuity of the cohabitation will not be considered as having been broken. State laws will not control in determining questions of desertion; however, due weight will be given to findings of fact in court decisions made during the life of the veteran on issues subsequently involved in the application of this section.
+
+[41 FR 18300, May 3, 1976, as amended at 59 FR 32659, June 24, 1994]

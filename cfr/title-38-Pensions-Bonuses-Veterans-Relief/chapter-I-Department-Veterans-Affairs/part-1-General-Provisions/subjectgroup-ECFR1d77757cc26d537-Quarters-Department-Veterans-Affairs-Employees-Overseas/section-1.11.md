@@ -1,0 +1,5 @@
+##### § 1.11 Quarters for Department of Veterans Affairs employees in Government-owned or -rented buildings overseas. #####
+
+Pursuant to the provisions of 5 U.S.C. 5912, a U.S. citizen employee of the Department of Veterans Affairs permanently stationed in a foreign country may be furnished, without cost to him or her, living quarters, including heat, fuel, and light, in a Government-owned or -rented building. When in the interest of the service and when administratively feasible, an agreement may be entered into by the Under Secretary for Benefits or designee with another Federal agency, which is authorized to furnish quarters, to provide such quarters for Department of Veterans Affairs employees under the provisions of 31 U.S.C. 686. Quarters provided will be in lieu of any living quarters allowance to which the employee may otherwise be entitled.
+
+(Authority: 72 Stat. 1114; 38 U.S.C. 501)[33 FR 362, Jan. 10, 1968]

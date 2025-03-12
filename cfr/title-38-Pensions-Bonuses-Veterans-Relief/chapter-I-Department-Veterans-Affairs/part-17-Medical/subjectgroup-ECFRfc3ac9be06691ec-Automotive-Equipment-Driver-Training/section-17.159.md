@@ -1,0 +1,5 @@
+##### § 17.159 Obtaining vehicles for special driver training courses. #####
+
+The Secretary may obtain by purchase, lease, gift or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to conduct special driver training courses at Department of Veterans Affairs health care facilities. The Secretary may sell, assign, transfer or convey any such automobile, vehicle or conveyance to which the Department of Veterans Affairs holds title for such price or under such terms deemed appropriate by the Secretary. Any proceeds received from such disposition shall be credited to the applicable Department of Veterans Affairs appropriation.
+
+(Authority: 38 U.S.C. 3903(e)(3))[45 FR 6939, Jan. 31, 1980. Redesignated at 54 FR 46607, Nov. 18, 1988, and further redesignated at 61 FR 21966, May 13, 1996]

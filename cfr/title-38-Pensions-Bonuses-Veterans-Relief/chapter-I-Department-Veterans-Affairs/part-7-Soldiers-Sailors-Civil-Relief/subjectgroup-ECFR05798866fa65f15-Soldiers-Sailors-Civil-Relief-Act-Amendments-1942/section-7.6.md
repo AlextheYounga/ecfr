@@ -1,0 +1,9 @@
+##### § 7.6 Benefits. #####
+
+Any policy found to be entitled to protection under the provisions of the Act will not lapse or otherwise terminate or be forfeited for the nonpayment of a premium or the nonpayment of any indebtedness or interest during the period of military service of the insured and two years after the expiration of such service. If the insured reenters military service during the two-year period following separation from such service and the policy is under the protection of the Act on the date of reentry, such reentrance shall be deemed to be a continuation of the previous military service. In such case, in the absence of written instruction from the insured to the contrary, the protection under the Act will continue during the period of military service of the insured and two years after the expiration of such service, but the guarantee will not extend for more than two years after the date when the Act ceases to be in force.
+
+(a) For the period during which a policy is protected by the provisions of the Act, any dividends, return of premiums, or other such monetary benefits arising out of the contract or by reason thereof, will be held subject to disposal or to be applied as may be approved by the Department of Veterans Affairs.
+
+(b) A policy will not be removed from the protection of the Act by reason of a payment made to the insurer by or on behalf of the insured, but any tender of a premium (in whole or in part) shall be applied on the indebtedness established under authority of the Act against the policy: *Provided,* That nothing herein shall prevent an insured from continuing payment to the insurer of premiums to cover any additional benefits (such as double indemnity, waiver of premium, etc.) where such premiums may not be included in the amount guaranteed by the Government.
+
+[13 FR 7103, Nov. 27, 1948, as amended at 27 FR 2287, Mar. 9, 1962. Redesignated and amended at 61 FR 29026, June 7, 1996]

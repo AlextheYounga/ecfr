@@ -1,0 +1,5 @@
+##### § 18.445 Housing. #####
+
+(a) *Housing provided by a recipient.* A recipient that provides housing to its nonhandicapped students shall provide comparable, convenient, and accessible housing to qualified handicapped students at the same cost as to others. At the end of the transition period provided for in § 18.422(e), this housing shall be available in sufficient quantity and variety so that the scope of handicapped students' choice of living accommodations is, as a whole, comparable to that of nonhandicapped students.
+
+(b) *Other housing.* A recipient that assists any agency, organization, or person in making housing available to any of its students shall assure itself that such housing is, as a whole, made available in a manner that does not result in discrimination on the basis of handicap.

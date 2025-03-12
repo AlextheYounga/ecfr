@@ -1,0 +1,17 @@
+##### § 3.343 Continuance of total disability ratings. #####
+
+(a) *General.* Total disability ratings, when warranted by the severity of the condition and not granted purely because of hospital, surgical, or home treatment, or individual unemployability will not be reduced, in the absence of clear error, without examination showing material improvement in physical or mental condition. Examination reports showing material improvement must be evaluated in conjunction with all the facts of record, and consideration must be given particularly to whether the veteran attained improvement under the ordinary conditions of life, *i.e.*, while working or actively seeking work or whether the symptoms have been brought under control by prolonged rest, or generally, by following a regimen which precludes work, and, if the latter, reduction from total disability ratings will not be considered pending reexamination after a period of employment (3 to 6 months).
+
+(b) *Tuberculosis; compensation.* In service-connected cases, evaluations for active or inactive tuberculosis will be governed by the Schedule for Rating Disabilities (part 4 of this chapter). Where in the opinion of the rating board the veteran at the expiration of the period during which a total rating is provided will not be able to maintain inactivity of the disease process under the ordinary conditions of life, the case will be submitted under § 3.321.
+
+(c) *Individual unemployability.* (1) In reducing a rating of 100 percent service-connected disability based on individual unemployability, the provisions of § 3.105(e) are for application but caution must be exercised in such a determination that actual employability is established by clear and convincing evidence. When in such a case the veteran is undergoing vocational rehabilitation, education or training, the rating will not be reduced by reason thereof unless there is received evidence of marked improvement or recovery in physical or mental conditions or of employment progress, income earned, and prospects of economic rehabilitation, which demonstrates affirmatively the veteran's capacity to pursue the vocation or occupation for which the training is intended to qualify him or her, or unless the physical or mental demands of the course are obviously incompatible with total disability. Neither participation in, nor the receipt of remuneration as a result of participation in, a therapeutic or rehabilitation activity under 38 U.S.C. 1718 shall be considered evidence of employability.
+
+(Authority: 38 U.S.C. 1718(f))
+
+(2) If a veteran with a total disability rating for compensation purposes based on individual unemployability begins to engage in a substantially gainful occuption during the period beginning after January 1, 1985, the veteran's rating may not be reduced solely on the basis of having secured and followed such substantially gainful occupation unless the veteran maintains the occupation for a period of 12 consecutive months. For purposes of this subparagraph, temporary interruptions in employment which are of short duration shall not be considered breaks in otherwise continuous employment.
+
+(Authority: 38 U.S.C. 1163(a))Cross Reference:
+
+Protection, total disability. See § 3.951(b).
+
+[33 FR 16273, Nov. 6, 1968, as amended at 39 FR 14944, Apr. 29, 1974; 50 FR 52775, Dec. 26, 1985; 53 FR 23236, June 21, 1988; 55 FR 17271, Apr. 24, 1990; 57 FR 10426, Mar. 26, 1992; 58 FR 32445, June 10, 1993; 58 FR 46865, Sept. 3, 1993]

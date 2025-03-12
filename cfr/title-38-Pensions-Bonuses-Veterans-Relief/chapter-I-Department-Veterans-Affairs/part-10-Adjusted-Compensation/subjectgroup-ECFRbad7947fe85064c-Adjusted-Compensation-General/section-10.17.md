@@ -1,0 +1,3 @@
+##### § 10.17 Designation of beneficiary subsequent to cancellation of previous designation. #####
+
+The designation of a beneficiary made subsequent to the cancellation of a previous designation of beneficiary, shall be considered as a change in beneficiary, and shall be subject to the approval of the Secretary and subject to the conditions and requirements respecting change in beneficiary as outlined in § 10.16.

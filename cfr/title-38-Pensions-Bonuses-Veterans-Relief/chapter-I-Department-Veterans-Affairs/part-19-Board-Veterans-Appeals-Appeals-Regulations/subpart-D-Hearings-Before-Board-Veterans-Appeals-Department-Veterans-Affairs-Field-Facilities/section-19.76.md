@@ -1,0 +1,5 @@
+##### § 19.76 Notice of time and place of hearing before the Board of Veterans' Appeals at Department of Veterans Affairs field facilities. #####
+
+The agency of original jurisdiction will notify the appellant and his or her representative of the place and time of a hearing before the Board of Veterans' Appeals at a Department of Veterans Affairs field facility not less than 30 days prior to the hearing date. This time limitation does not apply to hearings which have been rescheduled due to a postponement requested by an appellant, or on his or her behalf, or due to the prior failure of an appellant to appear at a scheduled hearing before the Board of Veterans' Appeals at a Department of Veterans Affairs field facility with good cause. The right to notice at least 30 days in advance will be deemed to have been waived if an appellant accepts an earlier hearing date due to the cancellation of another previously scheduled hearing.
+
+(Authority: 38 U.S.C. 7107)[61 FR 20449, May 7, 1996, as amended at 61 FR 43008, Aug. 20, 1996]

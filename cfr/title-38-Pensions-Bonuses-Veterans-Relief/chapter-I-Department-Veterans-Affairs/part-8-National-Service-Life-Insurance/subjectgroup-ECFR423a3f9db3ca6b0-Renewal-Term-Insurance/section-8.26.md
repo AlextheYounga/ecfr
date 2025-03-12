@@ -1,0 +1,17 @@
+##### § 8.26 Renewal of National Service Life Insurance on the 5-year level premium term plan. #####
+
+(a) Effective July 23, 1953, all or any part of National Service Life Insurance on the 5-year level premium term plan, in any multiple of $500 and not less than $1,000, which is not lapsed at the expiration of any 5-year term period, shall be automatically renewed without application or medical examination for a successive 5-year period at the applicable level premium term rate for the then attained age of the insured: *Provided,* That on or after September 1, 1984, National Service Life Insurance “V” 5-year level premium term rates shall not exceed the renewal age 70 term premium rate, or that on or after (the date the regulation is published as final), Veterans Special Life Insurance “RS” five-year level premium term rates shall not exceed the renewal age 70 “RS” term premium rate: *Provided further,* That in any case in which the insured is shown by satisfactory evidence to be totally disabled at the expiration of the term period of his or her insurance under conditions which would entitle the insured to continued insurance protection but for such expiration, such insurance, if subject to renewal under this paragraph shall be automatically renewed for an additional period of 5 years at the applicable premium rate. The renewal of insurance for any successive 5-year period will become effective as of the day following the expiration of the preceding term period, and the premium for such renewal will be the applicable level premium term rate on that day: *Provided further,* That no insurance is subject to renewal if the policyholder has exercised the insured's right to change to another plan of insurance.
+
+(Authority: 38 U.S.C. 1905, 1906)
+
+(b) Effective June 25, 1970, a 5-year level premium term policy which lapsed for nonpayment of the premium due and subsequently expired may be renewed subsequently to the expiration of the old term period provided the insured within 5 years of the date of lapse:
+
+(1) Submits written application for reinstatement of the insurance.
+
+(2) Tenders two monthly premiums, one for the month of lapse at the rate for the expired term and the other for the month of reinstatement at the rate for the new term.
+
+(3)(i) If application for reinstatement is submitted and the premiums tendered within 6 premium months after lapse, including the premium month for which the unpaid premium was due, insurance will be reinstated provided the applicant be in as good health on the date of application and tender of premiums as he was on the last day of the grace period of the premium in default and furnishes satisfactory evidence thereof.
+
+(ii) If application for reinstatement is submitted and the premiums tendered after expiration of the 6-month period mentioned in subdivision (i) of this subparagraph, insurance will be reinstated provided applicant is in good health (§ 8.0) on the date of application and tender of premiums and furnishes satisfactory evidence thereof.
+
+[21 FR 6544, Aug. 30, 1956, as amended at 24 FR 21, Jan. 1, 1959; 30 FR 3652, Mar. 19, 1965; 33 FR 365, Jan. 10, 1968; 36 FR 4384, Mar. 5, 1971; 49 FR 34484, Aug. 31, 1984; 54 FR 5931, Feb. 7, 1989. Redesignated and amended at 61 FR 29290, 29293, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000, and further redesignated at 67 FR 54739, Aug. 26, 2002]

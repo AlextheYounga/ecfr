@@ -1,0 +1,9 @@
+##### § 61.32 Per diem application packages—rating criteria. #####
+
+(a) *Conditional selection.* Application packages for per diem only (*i.e.*, from non-capital grant applicants) in response to a Notice of Fund Availability (NOFA) will be reviewed and grouped in categories according to the funding priorities set forth in the NOFA, if any. Such applications will then be ranked within their respective funding category according to scores achieved only if the applicant scores at least 750 cumulative points out of a possible 1000 from each of the following paragraphs: (b), (c), (d), (e), (f), and (g) of § 61.13. The highest-ranked applications for which funding is available, within highest funding priority category if applicable, will be conditionally selected for eligibility to receive per diem payments or special need payment in accordance with their ranked order. If funding priorities have been established and funds are still available after selection of those applicants in the highest priority group, VA will continue to conditionally select applicants in lower priority categories in accordance with the selection method set forth in this paragraph subject to available funding. Conditional selectees will be subsequently awarded per diem, if they otherwise meet the requirements of this part, including passing the inspection required by § 61.80.
+
+(b) *Ranking applications.* In the event of a tie between applicants, VA will use the score from § 61.13(g) to determine the ranking. Note: Capital grant recipients are not required to be ranked; however, continuation of per diem payments to capital grant recipients will be subject to limitations set forth in § 61.33.
+
+(c) *Executing per diem agreements.* VA will execute per diem agreements with an applicant whose per diem application was conditionally selected under this section using the same procedures applicable to a capital grant under § 61.15.
+
+(Authority: 38 U.S.C. 501, 2012)

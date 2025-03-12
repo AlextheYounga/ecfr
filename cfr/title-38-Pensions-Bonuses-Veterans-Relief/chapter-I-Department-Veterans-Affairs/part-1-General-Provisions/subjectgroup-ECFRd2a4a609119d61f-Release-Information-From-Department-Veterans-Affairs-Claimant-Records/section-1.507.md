@@ -1,0 +1,5 @@
+##### § 1.507 Disclosures to members of Congress. #####
+
+Members of Congress shall be furnished in their official capacity in any case such information contained in the Department of Veterans Affairs files as may be requested for official use. However, in any unusual case, the request will be presented to the Secretary, Deputy Secretary, or staff or administration head for personal action. When the requested information is of a type which may not be furnished a claimant, the member of Congress shall be advised that the information is furnished to him or her confidentially in his official capacity and should be so treated by him or her. (See 38 U.S.C. 5701.) Information concerning the beneficiary designation of a United States Government Life Insurance or National Service Life Insurance policy is deemed confidential and privileged and during the insured's lifetime shall not be disclosed to anyone other than the insured or his or her duly appointed fiduciary unless the insured or the fiduciary authorizes the release of such information.
+
+[32 FR 10848, July 25, 1967]

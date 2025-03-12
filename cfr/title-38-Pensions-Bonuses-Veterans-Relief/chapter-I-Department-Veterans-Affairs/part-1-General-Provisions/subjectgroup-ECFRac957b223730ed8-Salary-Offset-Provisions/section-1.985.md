@@ -1,0 +1,11 @@
+##### § 1.985 Form, notice of, and conduct of hearing. #####
+
+(a) After an employee requests a hearing, the hearing official or administrative law judge shall notify the employee of the form of the hearing to be provided. If the hearing will be oral, the notice shall set forth the date, time, and location for the hearing. If the hearing will be paper, the employee shall be notified that he or she should submit his or her position and arguments in writing to the hearing official or administrative law judge by a specified date after which the record shall be closed. This date shall give the employee reasonable time to submit this information.
+
+(b) An employee who requests an oral hearing shall be provided an oral hearing if the hearing official or administrative law judge determines that the matter cannot be resolved by review of documentary evidence, for example, when an issue of credibility or veracity is involved. If a determination is made to provide an oral hearing, the hearing official or administrative law judge may offer the employee the opportunity for a hearing by telephone conference call. If this offer is rejected or if the hearing official or administrative law judge declines to offer a telephone conference call hearing, the employee shall be provided an oral hearing permitting the personal appearance of the employee, his or her personal representative, and witnesses. A record or transcript of every oral hearing shall be made. Witnesses shall testify under oath or affirmation. VA shall not be responsible for the payment of any expenses incident to attendance at the hearing which are incurred by either the employee, his or her representative or Counsel, or witnesses.
+
+(c) In all other cases where an employee requests a hearing, a paper hearing shall be provided. A paper hearing shall consist of a review of the written evidence of record by the administrative law judge or hearing official.
+
+(d) In any hearing under this section, the administrative law judge or hearing official may exclude from consideration evidence or testimony which is irrelevant, immaterial, or unduly repetitious.
+
+(Authority: 5 U.S.C. 5514)

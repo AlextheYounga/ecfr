@@ -1,0 +1,3 @@
+##### § 4.14 Avoidance of pyramiding. #####
+
+The evaluation of the same disability under various diagnoses is to be avoided. Disability from injuries to the muscles, nerves, and joints of an extremity may overlap to a great extent, so that special rules are included in the appropriate bodily system for their evaluation. Dyspnea, tachycardia, nervousness, fatigability, etc., may result from many causes; some may be service connected, others, not. Both the use of manifestations not resulting from service-connected disease or injury in establishing the service-connected evaluation, and the evaluation of the same manifestation under different diagnoses are to be avoided.

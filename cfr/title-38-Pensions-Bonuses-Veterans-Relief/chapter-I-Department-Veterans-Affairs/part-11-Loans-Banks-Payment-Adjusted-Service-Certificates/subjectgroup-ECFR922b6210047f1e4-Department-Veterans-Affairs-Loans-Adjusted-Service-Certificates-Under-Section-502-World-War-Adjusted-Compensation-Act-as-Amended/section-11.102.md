@@ -1,0 +1,3 @@
+##### § 11.102 Term of note. #####
+
+All loans will be for a period of one year and if not paid will be automatically extended from year to year for periods of one year in the amount of the principal plus interest accrued to the end of the immediately preceding expired loan year, which total amount shall automatically become a new principal each year provided a loan may be paid off at any time by the payment of principal and accrued interest, but in no event will interest accruing after September 30, 1931, be deducted in final settlement of a certificate except as provided in § 11.93(b).

@@ -1,0 +1,5 @@
+##### § 14.664 Scope of authority and effective date. #####
+
+Pub. L. 88-558 (78 Stat. 767), approved August 31, 1964, as amended, authorizes the Secretary or the Secretary's designee to settle and pay a claim for not more than $40,000 made by a civilian officer or employee of the Department of Veterans Affairs for damage to, or loss of personal property incident to such person's service. Authority is delegated by § 2.6(e)(5) of this chapter to the General Counsel, Deputy General Counsel, Assistant General Counsel (Professional Staff Group III), and the Deputy Assistant General Counsel, of said staff group and the Regional Counsel and those acting for them to settle and pay such claims on behalf of the Secretary, and such settlement shall be final and conclusive.
+
+(Authority: 31 U.S.C. 3721(b))[42 FR 41421, Aug. 17, 1977, as amended at 49 FR 47005, Nov. 30, 1984; 55 FR 48841, Nov. 23, 1990]

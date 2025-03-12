@@ -1,0 +1,5 @@
+##### § 18b.75 Review by the Secretary. #####
+
+Within 20 days after an initial decision becomes a final decision pursuant to § 18b.73(a), or within 20 days of the mailing of a final decision referred to in § 18b.73(b), as the case may be, a party may request the Secretary to review the final decision. The Secretary may grant or deny such request, in whole or in part, or serve notice of intent to review the decision in whole or in part upon motion. If the Secretary grants the requested review, or serves notice of intent to review upon motion, each party to the decision shall have 20 days following notice of the Secretary's proposed action within which to file exceptions to the decision and supporting briefs and memoranda, or briefs and memoranda in support of the decision. Failure of a party to request review under this section shall not be deemed a failure to exhaust administrative remedies for the purpose of obtaining judicial review.
+
+[35 FR 10760, July 2, 1970, as amended at 51 FR 10387, Mar. 26, 1986]

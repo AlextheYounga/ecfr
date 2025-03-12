@@ -1,0 +1,3 @@
+##### § 4.20 Analogous ratings. #####
+
+When an unlisted condition is encountered it will be permissible to rate under a closely related disease or injury in which not only the functions affected, but the anatomical localization and symptomatology are closely analogous. Conjectural analogies will be avoided, as will the use of analogous ratings for conditions of doubtful diagnosis, or for those not fully supported by clinical and laboratory findings. Nor will ratings assigned to organic diseases and injuries be assigned by analogy to conditions of functional origin.

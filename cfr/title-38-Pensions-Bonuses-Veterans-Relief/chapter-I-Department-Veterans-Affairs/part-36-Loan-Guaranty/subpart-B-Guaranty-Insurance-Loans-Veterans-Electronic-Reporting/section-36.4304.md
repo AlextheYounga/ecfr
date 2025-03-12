@@ -1,0 +1,5 @@
+##### § 36.4304 Deviations; changes of identity. #####
+
+A deviation of more than 5 percent between the estimates upon which a certificate of commitment has been issued and the report of final payment of the proceeds of the loan, or a change in the identity of the property upon which the original appraisal was based, will invalidate the certificate of commitment unless such deviation or change be approved by the Secretary. Any deviation in excess of 5 percent or change in the identity of the property upon which the original appraisal was based must be supported by a new or supplemental appraisal of reasonable value: Provided, That substitution of materials of equal or better quality and value approved by the veteran and the designated appraiser shall not be deemed a “change in the identity of the property” within the purview of this section. A deviation not in excess of 5 percent will not require the prior approval of the Secretary.
+
+(Authority: 38 U.S.C. 3703(c)(1))

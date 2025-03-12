@@ -1,0 +1,9 @@
+##### § 1.930 Scope and application. #####
+
+(a) The standards set forth in §§ 1.930 through 1.936 of this part apply to the compromise of debts pursuant to 31 U.S.C. 3711. VA may exercise such compromise authority when the amount of the debt due, exclusive of interest, penalties, and administrative costs, does not exceed $100,000 or any higher amount authorized by the Attorney General.
+
+(b) Unless otherwise provided by law, when the principal balance of a debt, exclusive of interest, penalties, and administrative costs, exceeds $100,000 or any higher amount authorized by the Attorney General, the authority to accept the compromise rests with the Department of Justice (DOJ). If VA receives an offer to compromise any debt in excess of $100,000, VA should evaluate the compromise offer using the same factors as set forth in § 1.931 of this part. If VA believes the offer has merit, it shall refer the debt to the Civil Division or other appropriate division in DOJ using a Claims Collection Litigation Report (CCLR). The referral shall include appropriate financial information and a recommendation for the acceptance of the compromise offer. DOJ approval is not required if VA decides to reject a compromise offer.
+
+(c) The $100,000 limit in paragraph (b) of this section does not apply to debts that arise out of participation in a VA loan program under Chapter 37 of Title 38 of the U.S. Code. VA has unlimited authority to compromise debts arising out of participation in a Chapter 37 loan program, regardless of the amount of the debt.
+
+(Authority: 31 U.S.C. 3711; 38 U.S.C 501, 3720)[69 FR 62198, Oct. 25, 2004]

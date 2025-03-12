@@ -1,0 +1,9 @@
+##### § 36.4211 Amortization—prepayment. #####
+
+(a) To be eligible for guaranty under 38 U.S.C. 3712 a loan shall be amortized fully within the term of the loan in accordance with any generally recognized plan of amortization requiring approximately equal monthly payments. The loan shall not be payable on demand or at sight or presentation, or at a time not specified or computable from the language in the evidence of indebtedness, or on a renewal basis at the option of the holder. The first payment may be deferred not longer than 2 months from the date the loan is closed.
+
+(b) No guaranteed loan security instrument shall contain any provision giving the holder a right to declare the loan due or otherwise to declare a default if the holder “shall feel insecure” or upon the occurrence of any similar condition at the holder's option, without regard to any act or omission by the debtor.
+
+(c) The debtor shall have the right, without penalty or fee, to prepay all or not less than one installment of the indebtedness at any time. Credit for any partial prepayment made on other than an installment due date may be postponed to the next installment due date. The holder and the debtor may agree at any time that any prepayment not previously applied in satisfaction of matured installments shall be reapplied for the purpose of curing or preventing any subsequent default. Any prepayment in full of the indebtedness (unpaid principal balance plus earned interest) shall be credited on the date received. In determining the amount required to prepay the indebtedness in full the holder of the loan shall exclude all unearned interest or discount.
+
+(d) Subject to paragraph (a) of this section any amounts which under the terms of a loan do not become due and payable on or before the last maturity date permissible for loans of its class under the limitations contained in § 36.4204 shall automatically fall due on such date.

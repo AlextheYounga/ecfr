@@ -1,0 +1,5 @@
+##### § 1.903 Settlement, waiver, or compromise under other statutory or regulatory authority. #####
+
+Nothing in §§ 1.900 through 1.953 precludes VA settlement, waiver, compromise, or other disposition of any claim under statutes and implementing regulations other than subchapter II of chapter 37 of Title 31 of the United States Code (Claims of the United States Government) and the standards in Title 31 CFR parts 900 through 904. See, for example, the Federal Medical Care Recovery Act (42 U.S.C. 2651 *et seq.*) and applicable regulations, 28 CFR part 43. In such cases, the laws and regulations that are specifically applicable to claims collection activities of VA generally take precedence over 31 CFR parts 900 through 904.
+
+(Authority: 31 U.S.C. 3711; 38 U.S.C. 501)[69 FR 62192, Oct. 25, 2004]

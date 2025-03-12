@@ -1,0 +1,7 @@
+##### § 62.63 Visits to monitor operations and compliance. #####
+
+(a) VA has the right, at all reasonable times, to make visits to all grantee locations where a grantee is using supportive services grant funds in order to review grantee accomplishments and management control systems and to provide such technical assistance as may be required. VA may conduct inspections of all program locations and records of a grantee at such times as are deemed necessary to determine compliance with the provisions of this part. In the event that a grantee delivers services in a participant's home, or at a location away from the grantee's place of business, VA may accompany the grantee. If the grantee's visit is to the participant's home, VA will only accompany the grantee with the consent of the participant. If any visit is made by VA on the premises of the grantee or a subcontractor under the supportive services grant, the grantee must provide, and must require its subcontractors to provide, all reasonable facilities and assistance for the safety and convenience of the VA representatives in the performance of their duties. All visits and evaluations will be performed in such a manner as will not unduly delay services.
+
+(b) The authority to inspect carries with it no authority over the management or control of any applicant or grantee under this part.
+
+(Authority: 38 U.S.C. 501, 2044)

@@ -1,0 +1,5 @@
+##### § 4.10 Functional impairment. #####
+
+The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life including employment. Whether the upper or lower extremities, the back or abdominal wall, the eyes or ears, or the cardiovascular, digestive, or other system, or psyche are affected, evaluations are based upon lack of usefulness, of these parts or systems, especially in self-support. This imposes upon the medical examiner the responsibility of furnishing, in addition to the etiological, anatomical, pathological, laboratory and prognostic data required for ordinary medical classification, full description of the effects of disability upon the person's ordinary activity. In this connection, it will be remembered that a person may be too disabled to engage in employment although he or she is up and about and fairly comfortable at home or upon limited activity.
+
+[41 FR 11292, Mar. 18, 1976]

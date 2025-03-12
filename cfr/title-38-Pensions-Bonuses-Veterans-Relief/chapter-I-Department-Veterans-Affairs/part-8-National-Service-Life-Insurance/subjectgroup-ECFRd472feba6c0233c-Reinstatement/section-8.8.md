@@ -1,0 +1,9 @@
+##### § 8.8 Health requirements. #####
+
+National Service life insurance on any plan may be reinstated if application and tender of premiums are made:
+
+(a) Within 6 premium months including the premium month for which the unpaid premium was due, provided the applicant be in as good health on the date of application and tender of premiums as he or she was on the last day of the grace period of the premium in default and furnishes satisfactory evidence thereof.
+
+(b) After expiration of the 6-month period mentioned in paragraph (a) of this section, provided applicant is in good health (§ 8.0) on the date of application and tender of premiums and furnishes satisfactory evidence. If the insurance to be reinstated was issued under 38 U.S.C. 1922(a), 1925(b), or 1925(c) and application is made within 1 year of the date of lapse, any service-connected disability existing at the time the insurance was issued will be waived for the purpose of reinstatement (including natural progression of the condition since time of issuance). If the insurance to be reinstated was issued under 38 U.S.C. 1925(a) and application is made within 1 year of the date of lapse, any nonservice-connected disability, or service-connected disability which combined with a non-service-connected disability rendered the insured uninsurable as of October 13, 1964, will be waived for the purpose of reinstatement (including natural progression).
+
+[33 FR 365, Jan. 10, 1968, as amended at 33 FR 12002, Aug. 23, 1968; 47 FR 11657, Mar. 18, 1982. Redesignated and amended at 61 FR 29290, 29292, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000]

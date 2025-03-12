@@ -1,0 +1,13 @@
+##### § 17.241 Sharing medical information services. #####
+
+(a) *Agreements for exchange of information.* Subject to such terms and conditions as the Under Secretary for Health shall prescribe, Directors of Department of Veterans Affairs medical centers, may enter into agreements with medical schools, Federal, State or local, public or private hospitals, research centers, and individual members of the medical profession, under which medical information and techniques will be freely exchanged and the medical information services of all parties to the agreement will be available for use by any party to the agreement under conditions specified in the agreement.
+
+(b) *Purpose of sharing agreements.* Agreements for the exchange of information shall be used to the maximum extent practicable to create at each Department of Veterans Affairs medical center which has entered into such an agreement, an environment of academic medicine which will help the hospital attract and retain highly trained and qualified members of the medical profession.
+
+(c) *Use of electronic equipment.* Recent developments in electronic equipment shall be utilized under information sharing programs to provide a close educational, scientific, and professional link between Department of Veterans Affairs medical centers and major medical centers.
+
+(d) *Furnishing information services on a fee basis.* The educational facilities and programs established at Department of Veterans Affairs Medical Centers and the electronic link to medical centers shall be made available for use by medical entities in the surrounding medical community which have not entered into sharing agreements with the Department of Veterans Affairs, in order to bring about utilization of all medical information in the surrounding medical community, particularly in remote areas, and to foster and encourage the widest possible cooperation and consultation among all members of the medical profession in the surrounding medical community.
+
+(e) *Establishing fees for information services.* Subject to such terms and conditions as the Under Secretary for Health shall prescribe, Directors of Department of Veterans Affairs medical centers shall charge for information and educational facilities and services made available under paragraph (d) of this section. The fee may be on an annual or other periodic basis, at rates determined, after appropriate study, to be fair and equitable. The financial status of any user of such services shall be taken into consideration in establishing the amount of the fee to be paid.
+
+[32 FR 6841, May 4, 1967, as amended at 47 FR 58250, Dec. 30, 1982. Redesignated at 61 FR 21966, May 13, 1996, as amended at 62 FR 17072, Apr. 9, 1997]

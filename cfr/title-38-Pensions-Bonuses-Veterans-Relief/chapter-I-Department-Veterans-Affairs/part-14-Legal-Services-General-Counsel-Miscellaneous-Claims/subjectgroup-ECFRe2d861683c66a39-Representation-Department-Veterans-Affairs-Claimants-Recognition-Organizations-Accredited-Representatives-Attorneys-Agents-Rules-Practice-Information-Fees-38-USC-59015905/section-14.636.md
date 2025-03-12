@@ -1,0 +1,97 @@
+##### § 14.636 Payment of fees for representation by agents and attorneys in proceedings before Agencies of Original Jurisdiction and before the Board of Veterans' Appeals. #####
+
+(a) *Applicability of rule.* The provisions of this section apply to the services of accredited agents and attorneys with respect to benefits under laws administered by VA in all proceedings before the agency of original jurisdiction or before the Board of Veterans' Appeals regardless of whether an appeal has been initiated.
+
+(b) *Who may charge fees for representation.* Only accredited agents and attorneys may receive fees from claimants or appellants for their services provided in connection with representation. Recognized organizations (including their accredited representatives when acting as such) and individuals recognized under § 14.630 of this part are not permitted to receive fees. An agent or attorney who may also be an accredited representative of a recognized organization may not receive such fees unless he or she has been properly designated as an agent or attorney in accordance with § 14.631 of this part in his or her individual capacity as an accredited agent or attorney.
+
+(c) *Circumstances under which fees may be charged.* Except as noted in paragraph (c)(2) and in paragraph (d) of this section, agents and attorneys may charge claimants or appellants for representation provided: after an agency of original jurisdiction has issued a decision on a claim or claims, including any claim to reopen under 38 CFR 3.156 or for an increase in rate of a benefit; a Notice of Disagreement has been filed with respect to that decision on or after June 20, 2007; and the agent or attorney has complied with the power of attorney requirements in § 14.631 and the fee agreement requirements in paragraph (g) of this section.
+
+(1) Agents and attorneys may charge fees for representation provided with respect to a request for revision of a decision of an agency of original jurisdiction under 38 U.S.C. 5109A or the Board of Veterans' Appeals under 38 U.S.C. 7111 based on clear and unmistakable error if a Notice of Disagreement was filed with respect to the challenged decision on or after June 20, 2007, and the agent or attorney has complied with the power of attorney requirements in § 14.631 and the fee agreement requirements in paragraph (g) of this section.
+
+(2) In cases in which a Notice of Disagreement was filed on or before June 19, 2007, agents and attorneys may charge fees only for services provided after both of the following conditions have been met:
+
+(i) A final decision was promulgated by the Board with respect to the issue, or issues, involved in the appeal; and
+
+(ii) The agent or attorney was retained not later than 1 year following the date that the decision by the Board was promulgated. (This condition will be considered to have been met with respect to all successor agents or attorneys acting in the continuous prosecution of the same matter if a predecessor was retained within the required time period.)
+
+(3) Except as noted in paragraph (i) of this section and § 14.637(d), the agency of original jurisdiction that issued the decision identified in a Notice of Disagreement shall determine whether an agent or attorney is eligible for fees under this section. The agency of original jurisdiction's eligibility determination is a final adjudicative action and may be appealed to the Board.
+
+(d) *Exceptions* - (1) *Chapter 37 loans.* With respect to services of agents and attorneys provided after October 9, 1992, a reasonable fee may be charged or paid in connection with any proceeding in a case arising out of a loan made, guaranteed, or insured under chapter 37, United States Code, even though the conditions set forth in paragraph (c) of this section are not met.
+
+(2) *Payment of fee by disinterested third party.* (i) An agent or attorney may receive a fee or salary from an organization, governmental entity, or other disinterested third party for representation of a claimant or appellant even though the conditions set forth in paragraph (c) of this section have not been met. An organization, governmental entity, or other third party is considered disinterested only if the entity or individual does not stand to benefit financially from the successful outcome of the claim. In no such case may the attorney or agent charge a fee which is contingent, in whole or in part, on whether the matter is resolved in a manner favorable to the claimant or appellant.
+
+(ii) For purposes of this part, a person shall be presumed not to be disinterested if that person is the spouse, child, or parent of the claimant or appellant, or if that person resides with the claimant or appellant. This presumption may be rebutted by clear and convincing evidence that the person in question has no financial interest in the success of the claim.
+
+(iii) The provisions of paragraph (g) of this section (relating to fee agreements) shall apply to all payments or agreements to pay involving disinterested third parties. In addition, the agreement shall include or be accompanied by the following statement, signed by the attorney or agent: “I certify that no agreement, oral or otherwise, exists under which the claimant or appellant will provide anything of value to the third-party payer in this case in return for payment of my fee or salary, including, but not limited to, reimbursement of any fees paid.”
+
+(e) *Fees permitted.* Fees permitted for services of an agent or attorney admitted to practice before VA must be reasonable. They may be based on a fixed fee, hourly rate, a percentage of benefits recovered, or a combination of such bases. Factors considered in determining whether fees are reasonable include:
+
+(1) The extent and type of services the representative performed;
+
+(2) The complexity of the case;
+
+(3) The level of skill and competence required of the representative in giving the services;
+
+(4) The amount of time the representative spent on the case;
+
+(5) The results the representative achieved, including the amount of any benefits recovered;
+
+(6) The level of review to which the claim was taken and the level of the review at which the representative was retained;
+
+(7) Rates charged by other representatives for similar services; and
+
+(8) Whether, and to what extent, the payment of fees is contingent upon the results achieved.
+
+(f) *Presumptions.* Fees which do not exceed 20 percent of any past-due benefits awarded as defined in paragraph (h)(3) of this section shall be presumed to be reasonable. Fees which exceed 331/3 percent of any past-due benefits awarded shall be presumed to be unreasonable. These presumptions may be rebutted through an examination of the factors in paragraph (e) of this section establishing that there is clear and convincing evidence that a fee which does not exceed 20 percent of any past-due benefits awarded is not reasonable or that a fee which exceeds 331/3 percent is reasonable in a specific circumstance.
+
+(g) *Fee agreements.* All agreements for the payment of fees for services of agents and attorneys (including agreements involving fees or salary paid by an organization, governmental entity or other disinterested third party) must be in writing and signed by both the claimant or appellant and the agent or attorney.
+
+(1) To be valid, a fee agreement must include the following:
+
+(i) The name of the veteran,
+
+(ii) The name of the claimant or appellant if other than the veteran,
+
+(iii) The name of any disinterested third-party payer (see paragraph (d)(2) of this section) and the relationship between the third-party payer and the veteran, claimant, or appellant,
+
+(iv) The applicable VA file number, and
+
+(v) The specific terms under which the amount to be paid for the services of the attorney or agent will be determined.
+
+(2) Fee agreements must also clearly specify if VA is to pay the agent or attorney directly out of past due benefits. A direct-pay fee agreement is a fee agreement between the claimant or appellant and an agent or attorney providing for payment of fees out of past-due benefits awarded directly to an agent or attorney. A fee agreement that does not clearly specify that VA is to pay the agent or attorney out of past-due benefits or that specifies a fee greater than 20 percent of past-due benefits awarded by VA shall be considered to be an agreement in which the agent or attorney is responsible for collecting any fees for representation from the claimant without assistance from VA.
+
+(3) A copy of a direct-pay fee agreement, as defined in paragraph (g)(2) of this section, must be filed with the agency of original jurisdiction within 30 days of its execution. A copy of any fee agreement that is not a direct-pay fee agreement must be filed with the Office of the General Counsel within 30 days of its execution by mailing the copy to the following address: Office of the General Counsel (022D), Department of Veterans Affairs, 810 Vermont Avenue NW., Washington, DC 20420. Only fee agreements that do not provide for the direct payment of fees, documents related to review of fees under paragraph (i) of this section, and documents related to review of expenses under § 14.637, may be filed with the Office of the General Counsel. All documents relating to the adjudication of a claim for VA benefits, including any correspondence, evidence, or argument, must be filed with the agency of original jurisdiction, Board of Veterans' Appeals, or other VA office as appropriate.
+
+(h) *Payment of fees by Department of Veterans Affairs directly to an agent or attorney from past-due benefits.* (1) Subject to the requirements of the other paragraphs of this section, including paragraphs (c) and (e), the claimant or appellant and an agent or attorney may enter into a fee agreement providing that payment for the services of the agent or attorney will be made directly to the agent or attorney by VA out of any past-due benefits awarded in any proceeding before VA or the United States Court of Appeals for Veterans Claims. VA will charge and collect an assessment out of the fees paid directly to agents or attorneys from past-due benefits awarded. The amount of such assessment shall be equal to five percent of the amount of the fee required to be paid to the agent or attorney, but in no event shall the assessment exceed $100. Such an agreement will be honored by VA only if the following conditions are met:
+
+(i) The total fee payable (excluding expenses) does not exceed 20 percent of the total amount of the past-due benefits awarded,
+
+(ii) The amount of the fee is contingent on whether or not the claim is resolved in a manner favorable to the claimant or appellant, and
+
+(iii) The award of past-due benefits results in a cash payment to a claimant or an appellant from which the fee may be deducted. (An award of past-due benefits will not always result in a cash payment to a claimant or an appellant. For example, no cash payment will be made to military retirees unless there is a corresponding waiver of retirement pay. (*See* 38 U.S.C. 5304(a) and 38 CFR 3.750)
+
+(2) For purposes of this paragraph (h), a claim will be considered to have been resolved in a manner favorable to the claimant or appellant if all or any part of the relief sought is granted.
+
+(3) For purposes of this paragraph (h), “past-due benefits” means a nonrecurring payment resulting from a benefit, or benefits, granted on appeal or awarded on the basis of a claim reopened after a denial by a VA agency of original jurisdiction or the Board of Veterans' Appeals or the lump sum payment that represents the total amount of recurring cash payments that accrued between the effective date of the award, as determined by applicable laws and regulations, and the date of the grant of the benefit by the agency of original jurisdiction, the Board of Veterans' Appeals, or an appellate court.
+
+(i) When the benefit granted on appeal, or as the result of the reopened claim, is service connection for a disability, the “past-due benefits” will be based on the initial disability rating assigned by the agency of original jurisdiction following the award of service connection. The sum will equal the payments accruing from the effective date of the award to the date of the initial disability rating decision. If an increased evaluation is subsequently granted as the result of an appeal of the disability evaluation initially assigned by the agency of original jurisdiction, and if the agent or attorney represents the claimant or appellant in that phase of the claim, the agent or attorney will be paid a supplemental payment based upon the increase granted on appeal, to the extent that the increased amount of disability is found to have existed between the initial effective date of the award following the grant of service connection and the date of the rating action implementing the appellate decision granting the increase.
+
+(ii) Unless otherwise provided in the fee agreement between the claimant or appellant and the agent or attorney, the agent's or attorney's fees will be determined on the basis of the total amount of the past-due benefits even though a portion of those benefits may have been apportioned to the claimant's or appellant's dependents.
+
+(iii) If an award is made as the result of favorable action with respect to several issues, the past-due benefits will be calculated only on the basis of that portion of the award which results from action taken on issues concerning which the criteria in paragraph (c) of this section have been met.
+
+(4) As required by paragraph (g)(3) of this section, the agent or attorney must file with the agency of original jurisdiction within 30 days of the date of execution a copy of the agreement providing for the direct payment of fees out of any benefits subsequently determined to be past due.
+
+(i) *Motion for review of fee agreement.* Before the expiration of 120 days from the date of the final VA action, the Office of the General Counsel may review a fee agreement between a claimant or appellant and an agent or attorney upon its own motion or upon the motion of the claimant or appellant. The Office of the General Counsel may order a reduction in the fee called for in the agreement if it finds by a preponderance of the evidence, or by clear and convincing evidence in the case of a fee presumed reasonable under paragraph (f) of this section, that the fee is unreasonable. The Office of the General Counsel may approve a fee presumed unreasonable under paragraph (f) of this section if it finds by clear and convincing evidence that the fee is reasonable. The Office of the General Counsel's review of the agreement under this paragraph will address the issues of eligibility under paragraph (c) of this section and reasonableness under paragraph (e) of this section. The Office of the General Counsel will limit its review and decision under this paragraph to the issue of reasonableness if another agency of original jurisdiction has reviewed the agreement and made an eligibility determination under paragraph (c) of this section. Motions for review of fee agreements must be in writing and must include the name of the veteran, the name of the claimant or appellant if other than the veteran, and the applicable VA file number. Such motions must set forth the reason, or reasons, why the fee called for in the agreement is unreasonable and must be accompanied by all evidence the moving party desires to submit.
+
+(1) A claimant's or appellant's motion for review of a fee agreement must be served on the agent or attorney and must be filed at the following address: Office of the General Counsel (022D), 810 Vermont Avenue, NW., Washington, DC 20420. The agent or attorney may file a response to the motion, with any relevant evidence, with the Office of the General Counsel not later than 30 days from the date on which the claimant or appellant served the motion on the agent or attorney. Such responses must be served on the claimant or appellant. The claimant or appellant then has 15 days from the date on which the agent or attorney served a response to file a reply with the Office of the General Counsel. Such replies must be served on the agent or attorney.
+
+(2) The Assistant General Counsel shall initiate the Office of the General Counsel's review of a fee agreement on its own motion by serving the motion on the agent or attorney and the claimant or appellant. The agent or attorney may file a response to the motion, with any relevant evidence, with the Office of the General Counsel (022D), 810 Vermont Avenue, NW., Washington, DC 20420, not later than 30 days from the date on which the Office of the General Counsel served the motion on the agent or attorney. Such responses must be served on the claimant or appellant.
+
+(3) The Office of the General Counsel shall close the record in proceedings to review fee agreements 15 days after the date on which the agent or attorney served a response on the claimant or appellant, or 30 days after the claimant, appellant, or the Office of the General Counsel served the motion on the agent or attorney if there is no response. The Assistant General Counsel may, for a reasonable period upon a showing of sufficient cause, extend the time for an agent or attorney to serve an answer or for a claimant or appellant to serve a reply. The Assistant General Counsel shall forward the record and a recommendation to the General Counsel for a final decision. Unless either party files a Notice of Disagreement with the Office of the General Counsel, the agent or attorney must refund any excess payment to the claimant or appellant not later than the expiration of the time within which the General Counsel's decision may be appealed to the Board of Veterans' Appeals.
+
+(j) In addition to whatever other penalties may be prescribed by law or regulation, failure to comply with the requirements of this section may result in proceedings under § 14.633 of this chapter to terminate the agent's or attorney's accreditation to practice before VA.
+
+(k) Notwithstanding provisions in this section for closing the record at the end of the 30-day period for serving a response or 15 days after the date on which the agent or attorney served a response, appeals shall be initiated and processed using the procedures in 38 CFR parts 19 and 20. Nothing in this section shall be construed to limit the Board's authority to remand a matter to the General Counsel under 38 CFR 19.9 for any action that is essential for a proper appellate decision or the General Counsel's ability to issue a Supplemental Statement of the Case under 38 CFR 19.31.
+
+(Authority: 38 U.S.C. 5902, 5904, 5905)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0605.)[73 FR 29875, May 22, 2008, as amended at 80 FR 81193, Dec. 29, 2015]

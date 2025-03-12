@@ -1,0 +1,3 @@
+##### § 0.735-10 Cross-reference to employee ethical and other conduct standards and financial disclosure regulations. #####
+
+Employees of the Department of Veterans Affairs (VA) should refer to the executive branch-wide Standards of Ethical Conduct at 5 CFR part 2635, the executive branch-wide Employee Responsibilities and Conduct at 5 CFR part 735, and the executive branch-wide financial disclosure regulation at 5 CFR part 2634.

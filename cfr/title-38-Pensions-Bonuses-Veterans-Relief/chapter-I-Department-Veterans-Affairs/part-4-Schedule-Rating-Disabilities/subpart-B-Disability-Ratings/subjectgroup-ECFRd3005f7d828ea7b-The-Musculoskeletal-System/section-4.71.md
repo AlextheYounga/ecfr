@@ -1,0 +1,5 @@
+##### § 4.71 Measurement of ankylosis and joint motion. #####
+
+Plates I and II provide a standardized description of ankylosis and joint motion measurement. The anatomical position is considered as 0°, with two major exceptions: (a) Shoulder rotation—arm abducted to 90°, elbow flexed to 90° with the position of the forearm reflecting the midpoint 0° between internal and external rotation of the shoulder; and (b) supination and pronation—the arm next to the body, elbow flexed to 90°, and the forearm in midposition 0° between supination and pronation. Motion of the thumb and fingers should be described by appropriate reference to the joints (See Plate III) whose movement is limited, with a statement as to how near, in centimeters, the tip of the thumb can approximate the fingers, or how near the tips of the fingers can approximate the proximal transverse crease of palm.
+
+![](/graphics/ec04no91.001.gif)![](/graphics/ec04no91.002.gif)[29 FR 6718, May 22, 1964, as amended at 43 FR 45349, Oct. 2, 1978; 67 FR 48785, July 26, 2002]

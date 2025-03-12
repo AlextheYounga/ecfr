@@ -1,0 +1,7 @@
+##### § 18b.51 Evidentiary purpose. #####
+
+(a) The hearing is directed to receiving factual evidence and expert opinion testimony related to the issues in the proceeding. Argument will not be received in evidence; rather it should be presented in statements, memoranda, or briefs, as determined by the presiding officer. Brief opening statements, which shall be limited to statement of the party's position and what the party intends to prove, may be made at hearings.
+
+(b) Hearings for the reception of evidence will be held only in cases where issues of fact must be resolved in order to determine whether the respondent has failed to comply with one or more applicable requirements of part 18 of this chapter. In any case where it appears from the respondent's answer to the notice of hearing or opportunity for hearing, from failure timely to answer, or from admissions or stipulations in the record, that there are no matters of material fact in dispute, the reviewing authority or presiding officer may enter an order so finding, vacating the hearing date if one has been set, and fixing the time for filing briefs under § 18b.70. Thereafter the proceedings shall go to conclusion in accordance with §§ 18b.70 through 18b.76. The presiding officer may allow an appeal from such order in accordance with § 18b.65.
+
+[35 FR 10760, July 2, 1970, as amended at 51 FR 10386, Mar. 26, 1986]

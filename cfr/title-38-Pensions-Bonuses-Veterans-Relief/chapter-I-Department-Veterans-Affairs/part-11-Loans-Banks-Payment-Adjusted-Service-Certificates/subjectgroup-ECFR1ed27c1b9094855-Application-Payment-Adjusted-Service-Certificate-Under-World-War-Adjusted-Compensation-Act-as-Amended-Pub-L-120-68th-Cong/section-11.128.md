@@ -1,0 +1,3 @@
+##### § 11.128 Veteran dies without having filed application for final settlement. #####
+
+If the veteran dies without having filed application for final settlement under the Adjusted Compensation Payment Act, 1936, and the certificate has not matured, payment will be made to the last designated beneficiary or, if no beneficiary, to his estate. If the certificate has matured, payment will be made to the veteran's estate regardless of any beneficiary designation. Payment of the amount due on a deceased veteran's certificate will be made only on an approved award based upon receipt in the Department of Veterans Affairs of an application properly executed by the person or persons entitled.

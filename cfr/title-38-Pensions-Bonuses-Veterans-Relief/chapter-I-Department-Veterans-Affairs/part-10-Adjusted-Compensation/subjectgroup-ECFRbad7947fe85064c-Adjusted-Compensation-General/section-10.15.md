@@ -1,0 +1,3 @@
+##### § 10.15 Designation of more than one beneficiary under an adjusted service certificate. #####
+
+A veteran to whom an adjusted service certificate has been issued pursuant to the provisions of section 501 of the World War Adjusted Compensation Act may name more than one beneficiary to receive the proceeds of his adjusted service certificate, and may from time to time with the approval of the Secretary change such beneficiaries. The designated beneficiaries shall share equally unless otherwise specified by the veteran. Wherever the word *beneficiary* appears in the law and Department of Veterans Affairs regulations it shall be interpreted to include beneficiaries.
