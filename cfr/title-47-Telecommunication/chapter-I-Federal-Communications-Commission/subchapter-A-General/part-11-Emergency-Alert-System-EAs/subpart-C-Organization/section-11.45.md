@@ -4,4 +4,4 @@
 
 (b) No later than twenty-four (24) hours of an EAS Participant's discovery (*i.e.,* actual knowledge) that it has transmitted or otherwise sent a false alert to the public, the EAS Participant send an email to the Commission at the FCC Ops Center at *FCCOPS@fcc.gov,* informing the Commission of the event and of any details that the EAS Participant may have concerning the event.
 
-[83 FR 39621, Aug. 10, 2018]Effective Date Note:At 83 FR 39621, Aug. 10, 2018, § 11.45 was revised. Paragraph (b) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[83 FR 39621, Aug. 10, 2018]

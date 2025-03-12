@@ -1,5 +1,7 @@
 ##### § 383.51 Disqualification of drivers. #####
 
+Link to an amendment published at 84 FR 35338, July 23, 2019.
+
 (a) *General.* (1) A person required to have a CLP or CDL who is disqualified must not drive a CMV.
 
 (2) An employer must not knowingly allow, require, permit, or authorize a driver who is disqualified to drive a CMV.

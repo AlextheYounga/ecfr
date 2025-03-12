@@ -29,7 +29,8 @@
 (l) Compliance dates and transition provisions:
 
 (1) *Pre-2018 Requirements.* (1) For purposes of this section, the *pre-2018 Requirements* means this subpart as published in the 2016 edition of the Code of Federal Regulations.
-P\>(2) *2018 Requirements.* For purposes of this section, the *2018 Requirements* means the Federal Policy for the Protection of Human Subjects requirements contained in this part. The general compliance date for the 2018 Requirements is January 21, 2019. The compliance date for § 225.114(b) (cooperative research) of the 2018 Requirements is January 20, 2020.
+
+(2) *2018 Requirements.* For purposes of this section, the *2018 Requirements* means the Federal Policy for the Protection of Human Subjects requirements contained in this part. The general compliance date for the 2018 Requirements is January 21, 2019. The compliance date for § 225.114(b) (cooperative research) of the 2018 Requirements is January 20, 2020.
 
 (3) *Research subject to pre-2018 requirements.* The pre-2018 Requirements shall apply to the following research, unless the research is transitioning to comply with the 2018 Requirements in accordance with paragraph (l)(4) of this section:
 

@@ -14,7 +14,7 @@
 
 (5) To provide for investments or loans to suppliers or customers if necessary in order to maintain the business of the corporation; or
 
-(6) To provide for the payment of reasonably anticipated product liability losses, as defined in section 172(j), § 1.172-13(b)(1), and § 1.537-1(f).
+(6) To provide for the payment of reasonably anticipated product liability losses, as defined in section 172(j), §§ 1.172-13(b)(1), and 1.537-1(f).
 
 (c) *Unreasonable accumulations of earnings and profits.* Although the following purposes are not exclusive, accumulations of earnings and profits to meet any one of such objectives may indicate that the earnings and profits of a corporation are being accumulated beyond the reasonable needs of the business:
 

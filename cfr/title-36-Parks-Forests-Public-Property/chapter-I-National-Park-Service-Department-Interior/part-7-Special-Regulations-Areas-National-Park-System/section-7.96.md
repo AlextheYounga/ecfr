@@ -2,7 +2,7 @@
 
 (a) *Applicability of regulations.* This section applies to all park areas administered by National Capital Region in the District of Columbia and in Arlington, Fairfax, Loudoun, Prince William, and Stafford Counties and the City of Alexandria in Virginia and Prince Georges, Charles, Anne Arundel, and Montgomery Counties in Maryland and to other federal reservations in the environs of the District of Columbia, policed with the approval or concurrence of the head of the agency having jurisdiction or control over such reservations, pursuant to the provisions of the act of March 17, 1948 (62 Stat. 81).
 
-(b) *Athletics* - (1) *Permits for organized games.* Playing baseball, football, croquet, tennis, and other organized games or sports except pursuant to a permit and upon the grounds provided for such purposes, is prohibited.
+(b) *Athletics*—(1) *Permits for organized games.* Playing baseball, football, croquet, tennis, and other organized games or sports except pursuant to a permit and upon the grounds provided for such purposes, is prohibited.
 
 (2) *Wet grounds.* Persons holding a permit to engage in athletics at certain times and at places authorized for this use are prohibited from exercising the privilege of play accorded by the permit if the grounds are wet or otherwise unsuitable for play without damage to the turf.
 
@@ -16,7 +16,7 @@
 
 (e) *Swimming.* Bathing, swimming or wading in any fountain or pool except where officially authorized is prohibited. Bathing, swimming or wading in the Tidal Basin, the Chesapeake and Ohio Canal, or Rock Creek, or entering from other areas covered by this section the Potomac River, Anacostia River, Washington Channel or Georgetown Channel, except for the purpose of saving a drowning person, is prohibited.
 
-(f) *Commercial vehicles and common carriers* - (1) *Operation in park areas prohibited*; *exceptions.* Commercial vehicles and common carriers, loaded or unloaded, are prohibited on park roads and bridges except on the section of Constitution Avenue east of 19th Street or on other roads and bridges designated by the Superintendent, or when authorized by a permit or when operated in compliance with paragraph (f)(2) of this section.
+(f) *Commercial vehicles and common carriers*—(1) *Operation in park areas prohibited*; *exceptions.* Commercial vehicles and common carriers, loaded or unloaded, are prohibited on park roads and bridges except on the section of Constitution Avenue east of 19th Street or on other roads and bridges designated by the Superintendent, or when authorized by a permit or when operated in compliance with paragraph (f)(2) of this section.
 
 (2) *George Washington Memorial Parkway; passenger-carrying vehicles; permits; fees.* (i) Taxicabs licensed in the District of Columbia, Maryland, or Virginia, are allowed on any portion of the George Washington Memorial Parkway without a permit or payment of fees.
 
@@ -32,7 +32,7 @@
 
 (iv) Sightseeing passenger-carrying vehicles for hire or compensation other than taxicabs may be permitted on the George Washington Memorial Parkway upon issuance of a permit by the Regional Director, to provide sightseeing service on any portion of the parkway. Permits may be issued either on an annual basis for a fee of three dollars ($3.00) for each passenger-carrying seat in such vehicle; on a quarterly basis for a fee of seventy-five cents (75) per seat; or on a daily basis at the rate of one dollar ($1.00) per vehicle per day.
 
-(3) *Taxicabs* - (i) *Operations around Memorials.* Parking, except in designated taxicab stands, or cruising on the access roads to the Washington Monument, the Lincoln Memorial, the Jefferson Memorial, and the circular roads around the same, of any taxicab or hack without passengers is prohibited. However, this section does not prohibit the operation of empty cabs responding to definite calls for hack service by passengers waiting at such Memorials, or of empty cabs which have just discharged passengers at the entrances of the Memorials, when such operation is incidental to the empty cabs' leaving the area by the shortest route.
+(3) *Taxicabs*—(i) *Operations around Memorials.* Parking, except in designated taxicab stands, or cruising on the access roads to the Washington Monument, the Lincoln Memorial, the Jefferson Memorial, and the circular roads around the same, of any taxicab or hack without passengers is prohibited. However, this section does not prohibit the operation of empty cabs responding to definite calls for hack service by passengers waiting at such Memorials, or of empty cabs which have just discharged passengers at the entrances of the Memorials, when such operation is incidental to the empty cabs' leaving the area by the shortest route.
 
 (ii) *Stands.* The Superintendent may designate taxicab stands in suitable and convenient locations to serve the public.
 
@@ -40,7 +40,7 @@
 
 (5) *Parking.* Violation of a traffic control device regulating parking is punishable by fine. In any violation of a traffic control device regulating parking, proof that the described vehicle was parked in violation, together with proof that the defendant was at the time the registered owner of the vehicle, shall constitute a prima facie presumption that the registered owner of the vehicle was the person who committed the violation.
 
-(g) *Demonstrations and special events* - (1) *Definitions.* (i) The term “demonstration” includes demonstrations, picketing, speechmaking, marching, holding vigils or religious services and all other like forms of conduct that involve the communication or expression of views or grievances, engaged in by one or more persons, the conduct of which is reasonably likely to draw a crowd or onlookers. This term does not include casual park use by visitors or tourists that is not reasonably likely to attract a crowd or onlookers.
+(g) *Demonstrations and special events*—(1) *Definitions.* (i) The term “demonstration” includes demonstrations, picketing, speechmaking, marching, holding vigils or religious services and all other like forms of conduct that involve the communication or expression of views or grievances, engaged in by one or more persons, the conduct of which is reasonably likely to draw a crowd or onlookers. This term does not include casual park use by visitors or tourists that is not reasonably likely to attract a crowd or onlookers.
 
 (ii) The term “special events” includes sports events, pageants, celebrations, historical reenactments, regattas, entertainments, exhibitions, parades, fairs, festivals and similar events (including such events presented by the National Park Service), which are not demonstrations under paragraph (g)(1)(i) of this section, and which are engaged in by one or more persons, the conduct of which has the effect, intent or propensity to draw a crowd or onlookers. This term also does not include casual park use by visitors or tourists which does not have an intent or propensity to attract a crowd or onlookers.
 
@@ -82,7 +82,7 @@
 
 (ii) *Other park areas.* Demonstrations and special events are not allowed in the following other park areas:
 
-(A) The Washington Monument, which means the area enclosed within the inner circle that surrounds the Monument's base, except for the official annual commemorative Washington birthday ceremony and for the projection of government-selected film footage and associated imagery for an official event commemorating the Apollo 11 Mission.
+(A) The Washington Monument, which means the area enclosed within the inner circle that surrounds the Monument's base, except for the official annual commemorative Washington birthday ceremony.
 
 (B) The Lincoln Memorial, which means that portion of the park area which is on the same level or above the base of the large marble columns surrounding the structure, and the single series of marble stairs immediately adjacent to and below that level, except for the official annual commemorative Lincoln birthday ceremony.
 
@@ -286,4 +286,4 @@
 
 (m) *Information collection.* The information collection requirements contained in this section have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1024-0021. The information is being collected to provide notification to park managers, United States Park Police, Metropolitan Police, and the Secret Service of the plans of organizers of large-scale demonstrations and special events in order to assist in the provision of security and logistical support. This information will be used to further those purposes. The obligation is required to obtain a benefit.
 
-[51 FR 37011, Oct. 17, 1986, as amended at 57 FR 4576, Feb. 6, 1992; 57 FR 29797, July 7, 1992; 60 FR 17649, Apr. 7, 1995; 60 FR 33351, June 28, 1995; 60 FR 55791, Nov. 3, 1995; 62 FR 30234, June 3, 1997; 62 FR 32203, June 13, 1997; 72 FR 54843, Sept. 27, 2007; 73 FR 67744, Nov. 17, 2008; 75 FR 8807, Feb. 26, 2010; 76 FR 17028, Mar. 28, 2011; 78 FR 14678, Mar. 7, 2013; 84 FR 32624, July 9, 2019]Effective Date Note:At 84 FR 32624, July 9, 2019, § 7.96(g)(3)(ii)(A) was amended, effective July 12 through July 23, 2019.
+[51 FR 37011, Oct. 17, 1986, as amended at 57 FR 4576, Feb. 6, 1992; 57 FR 29797, July 7, 1992; 60 FR 17649, Apr. 7, 1995; 60 FR 33351, June 28, 1995; 60 FR 55791, Nov. 3, 1995; 62 FR 30234, June 3, 1997; 62 FR 32203, June 13, 1997; 72 FR 54843, Sept. 27, 2007; 73 FR 67744, Nov. 17, 2008; 75 FR 8807, Feb. 26, 2010; 76 FR 17028, Mar. 28, 2011; 78 FR 14678, Mar. 7, 2013; 84 FR 32624, July 9, 2019]

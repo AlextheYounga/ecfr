@@ -1,7 +1,5 @@
 ##### § 11.61 Tests of EAS procedures. #####
 
-Link to an amendment published at 83 FR 39621, August 10, 2018.
-
 (a) EAS Participants shall conduct tests at regular intervals, as specified in paragraphs (a)(1) and (a)(2) of this section. Additional tests may be performed anytime. EAS activations and special tests may be performed in lieu of required tests as specified in paragraph (a)(4) of this section.
 
 (1) Required Monthly Tests of the EAS header codes, Attention Signal, Test Script and EOM code.
@@ -44,6 +42,16 @@ Link to an amendment published at 83 FR 39621, August 10, 2018.
 
 (4) *EAS activations and special tests.* The EAS may be activated for emergencies or special tests at the State or Local Area level by an EAS Participant instead of the monthly or weekly tests required by this section. To substitute for a monthly test, activation must include transmission of the EAS header codes, Attention Signal, emergency message and EOM code and comply with the visual message requirements in § 11.51. To substitute for the weekly test of the EAS header codes and EOM codes in paragraph (a)(2)(i) of this section, activation must include transmission of the EAS header and EOM codes. Analog and digital television broadcast stations, analog cable systems, digital cable systems, wireless cable systems, and DBS providers shall comply with the aural and visual message requirements in § 11.51. Special EAS tests at the State and Local Area levels may be conducted on daily basis following procedures in State and Local Area EAS plans.
 
+(5) *Live Code Tests.* EAS Participants may participate in no more than two (2) “Live Code” EAS Tests per calendar year that are conducted to exercise the EAS and raise public awareness for it, provided that the entity conducting the test:
+
+(i) Notifies the public before the test that live event codes will be used, but that no emergency is, in fact, occurring;
+
+(ii) To the extent technically feasible, states in the test message that the event is only a test;
+
+(iii) Coordinates the test among EAS Participants and with state and local emergency authorities, the relevant SECC (or SECCs, if the test could affect multiple states), and first responder organizations, such as PSAPs, police, and fire agencies); and,
+
+(iv) Consistent with § 11.51, provides in widely accessible formats the notification to the public required by this subsection that the test is only a test, and is not a warning about an actual emergency.
+
 (b) Entries shall be made in EAS Participant records, as specified in § 11.35(a) and 11.54(a)(3).
 
-[70 FR 71038, Nov. 25, 2005, as amended at 76 FR 12604, Mar. 8, 2011; 77 FR 16707, Mar. 22, 2012; 80 FR 37177, June 30, 2015]
+[70 FR 71038, Nov. 25, 2005, as amended at 76 FR 12604, Mar. 8, 2011; 77 FR 16707, Mar. 22, 2012; 80 FR 37177, June 30, 2015; 83 FR 39621, Aug. 10, 2018]

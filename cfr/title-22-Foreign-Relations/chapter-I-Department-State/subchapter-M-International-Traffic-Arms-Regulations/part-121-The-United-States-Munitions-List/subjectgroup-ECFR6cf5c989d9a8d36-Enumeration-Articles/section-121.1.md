@@ -3101,3 +3101,11 @@ Category XXI - Articles, Technical Data, and Defense Services Not Otherwise Enum
 [58 FR 39287, July 22, 1993]Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2 At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.
+
+Effective Date Note:At 83 FR 44229, Aug. 30, 2018, § 121.1 was amended by revising paragraph (b), effective Aug. 30, 2019. For the convenience of the user, the revised text is set forth as follows:
+
+##### § 121.1 The United States Munitions List. #####
+
+Category XI - Military Electronics
+
+\* (b) Electronic systems or equipment, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.
