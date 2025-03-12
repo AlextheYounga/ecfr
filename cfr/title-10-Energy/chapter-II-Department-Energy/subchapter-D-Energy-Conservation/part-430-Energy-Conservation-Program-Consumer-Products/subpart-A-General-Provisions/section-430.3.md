@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 82 FR 60851, Dec. 26, 2017.
-
 (a) *General.* We incorporate by reference the following standards into part 430. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources below.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -468,7 +466,7 @@ Link to an amendment published at 82 FR 60851, Dec. 26, 2017.
 
 (s) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
 
-(1) NSF/ANSI 51-2007 (“NSF/ANSI 51”), Food equipment materials, revised and adopted April 2007, IBR approved for § 430.2.
+(1) NSF/ANSI 51-2007 (“NSF/ANSI 51”), Food equipment materials, revised and adopted April 2007, IBR approved for §§ 430.2 and 430.32.
 
 (2) [Reserved]
 
@@ -492,4 +490,4 @@ Link to an amendment published at 82 FR 60851, Dec. 26, 2017.
 
 (3) UL 896-1993 (“UL 896”), Standard for Safety for Oil-Burning Stoves, Fifth Edition, dated July 29, 1993, including revisions through May 7, 2010, IBR approved for appendix O to subpart B.
 
-[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Editorial Note:At 81 FR 91446, Dec. 16, 2016, § 430.3 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 81 FR 91446, Dec. 16, 2016, § 430.3 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

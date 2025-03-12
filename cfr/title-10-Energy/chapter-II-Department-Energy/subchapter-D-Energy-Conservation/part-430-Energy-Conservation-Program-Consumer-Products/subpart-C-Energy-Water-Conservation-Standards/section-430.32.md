@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 82 FR 60851, Dec. 26, 2017.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -934,5 +932,19 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 |           C-13A-BI. Built-in compact cooler with all-refrigerator - automatic defrost           |6.52AV + 213.1|
 
 AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according to appendix A of subpart B of this part.
+
+(bb) *Rough service lamps and vibration service lamps.* (1) Rough service lamps manufactured on or after January 25, 2018 must:
+
+(i) Have a shatter-proof coating or equivalent technology that is compliant with NSF/ANSI 51 (incorporated by reference; see § 430.3) and is designed to contain the glass if the glass envelope of the lamp is broken and to provide effective containment over the life of the lamp;
+
+(ii) Have a rated wattage not greater than 40 watts; and
+
+(iii) Be sold at retail only in a package containing one lamp.
+
+(2) Vibration service lamps manufactured on or after January 25, 2018 must:
+
+(i) Have a rated wattage no greater than 40 watts; and
+
+(ii) Be sold at retail only in a package containing one lamp.
 
 [54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
