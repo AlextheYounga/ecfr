@@ -1,0 +1,3 @@
+##### § 702.41 Peer review. #####
+
+EPA will conduct peer review activities on risk evaluations conducted pursuant to 15 U.S.C. 2605(b)(4)(A). EPA expects such activities, including decisions regarding the appropriate scope and type of peer review, to be consistent with the applicable peer review policies, procedures, and methods in guidance promulgated by the Office of Management and Budget and EPA, and in accordance with 15 U.S.C. 2625(h) and (i).

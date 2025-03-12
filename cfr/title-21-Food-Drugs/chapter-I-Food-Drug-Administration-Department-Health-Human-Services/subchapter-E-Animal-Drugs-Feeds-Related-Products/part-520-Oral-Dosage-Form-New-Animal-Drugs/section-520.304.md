@@ -6,11 +6,9 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for uses as in paragraph (d) of this section.
 
-(1) No. 054771 for use of products described in paragraph (a) of this section as in paragraph (d) of this section.
+(1) Nos. 054771, 026637, 055529, and 062250 for use of products described in paragraph (a) as in paragraph (d) of this section.
 
-(2) Nos. 000859, 026637, 055529, and 062250 for use of product described in paragraph (a)(1) as in paragraph (d) of this section.
-
-(3) Nos. 026637 and 062250 for use of product described in paragraph (a)(2) of this section as in paragraph (d) of this section.
+(2) No. 000859 for use of product described in paragraph (a)(1) as in paragraph (d) of this section.
 
 (c) [Reserved]
 
@@ -20,4 +18,4 @@
 
 (3) *Limitations.* Federal Law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[61 FR 66581, Dec. 18, 1996, as amended at 64 FR 32181, June 16, 1999; 66 FR 63165, Dec. 5, 2001; 67 FR 6866, Feb. 14, 2002; 67 FR 65038, Oct. 23, 2002; 67 FR 65697, Oct. 28, 2002; 70 FR 30626, May 27, 2005; 71 FR 51995, Sept. 1, 2006; 72 FR 68478, Dec. 5, 2007; 74 FR 21768, May 11, 2009; 78 FR 52853, Aug. 27, 2013; 78 FR 66264, Nov. 5, 2013; 79 FR 28819, May 20, 2014. Redesignated and amended at 80 FR 13229, Mar. 13, 2015; 80 FR 34278, June 16, 2015; 80 FR 61296, Oct. 13, 2015]
+[61 FR 66581, Dec. 18, 1996, as amended at 64 FR 32181, June 16, 1999; 66 FR 63165, Dec. 5, 2001; 67 FR 6866, Feb. 14, 2002; 67 FR 65038, Oct. 23, 2002; 67 FR 65697, Oct. 28, 2002; 70 FR 30626, May 27, 2005; 71 FR 51995, Sept. 1, 2006; 72 FR 68478, Dec. 5, 2007; 74 FR 21768, May 11, 2009; 78 FR 52853, Aug. 27, 2013; 78 FR 66264, Nov. 5, 2013; 79 FR 28819, May 20, 2014. Redesignated and amended at 80 FR 13229, Mar. 13, 2015; 80 FR 34278, June 16, 2015; 80 FR 61296, Oct. 13, 2015; 82 FR 43484, Sept. 18, 2017]

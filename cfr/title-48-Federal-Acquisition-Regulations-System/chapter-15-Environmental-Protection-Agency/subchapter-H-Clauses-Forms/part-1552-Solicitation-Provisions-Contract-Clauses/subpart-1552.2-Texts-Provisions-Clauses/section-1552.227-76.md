@@ -1,7 +1,5 @@
 ##### 1552.227-76 Project employee confidentiality agreement. #####
 
-Link to an amendment published at 82 FR 33023, July 19, 2017.
-
 As prescribed in 1527.409, insert the following clause:
 
 Project Employee Confidentiality Agreement (MAY 1994)
@@ -14,8 +12,8 @@ Project Employee Confidentiality Agreement (MAY 1994)
 
 (d) The Contractor further agrees to insert in any subcontract or consultant agreement placed hereunder, except for subcontracts or consultant agreements for well drilling, fence erecting, plumbing, utility hookups, security guard services, or electrical services, provisions which shall conform substantially to the language of this clause, including this paragraph, unless otherwise authorized by the Contracting Officer.
 
-*Alternate I.* Contracts for other than Superfund work shall include Alternate I in this clause in lieu of paragraph (d).
+*Alternate I* (JAN 2015). Contracts for other than Superfund work shall include Alternate I in this clause in lieu of paragraph (d).
 
 (d) The Contractor agrees to insert in each subcontract or consultant agreement placed hereunder provisions which shall conform substantially to the language of this clause, including this paragraph (d), unless otherwise authorized by the Contracting Officer.
 
-(End of clause)[59 FR 18624, Apr. 19, 1994, as amended at 79 FR 76241, Dec. 22, 2014]
+(End of clause)[59 FR 18624, Apr. 19, 1994, as amended at 79 FR 76241, Dec. 22, 2014; 82 FR 33023, July 19, 2017]

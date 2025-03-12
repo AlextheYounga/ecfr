@@ -1,7 +1,5 @@
 ##### § 107.50 Definition of terms. #####
 
-Link to an amendment published at 82 FR 39340, Aug. 18, 2017.
-
 *Accumulated Prioritized Payments* has the meaning set forth in § 107.1520.
 
 *Act* means the Small Business Investment Act of 1958, as amended.
@@ -232,7 +230,7 @@ Link to an amendment published at 82 FR 39340, Aug. 18, 2017.
 
 *Investment Adviser/Manager* means any Person who furnishes advice or assistance with respect to operations of a Licensee under a written contract executed in accordance with the provisions of § 107.510.
 
-*Lending Institution* means a concern that is operating under regulations of a state or Federal licensing, supervising, or examining body, or whose shares are publicly traded and listed on a recognized stock exchange or NASDAQ and which has assets in excess of $500 million; and which, in either case, holds itself out to the public as engaged in the making of commercial and industrial loans and whose lending operations are not for the purpose of financing its own or an Associates's sales or business operations.
+*Lending Institution* means a concern that is operating under regulations of a state or Federal licensing, supervising, or examining body, or whose shares are publicly traded and listed on a recognized stock exchange or NASDAQ and which has assets in excess of $500 million; and which, in either case, holds itself out to the public as engaged in the making of commercial and industrial loans and whose lending operations are not for the purpose of financing its own or an Associate's sales or business operations.
 
 *Leverage* means financial assistance provided to a Licensee by SBA, either through the purchase or guaranty of a Licensee's Debentures or Participating Securities, or the purchase of a Licensee's Preferred Securities, and any other SBA financial assistance evidenced by a security of the Licensee.
 
@@ -350,4 +348,4 @@ Link to an amendment published at 82 FR 39340, Aug. 18, 2017.
 
 *Wind-up Plan* has the meaning set forth in § 107.590.
 
-[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014]
+[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017]

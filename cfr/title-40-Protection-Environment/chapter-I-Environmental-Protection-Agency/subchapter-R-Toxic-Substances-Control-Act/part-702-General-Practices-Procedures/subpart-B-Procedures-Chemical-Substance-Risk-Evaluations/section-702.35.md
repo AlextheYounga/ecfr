@@ -1,0 +1,7 @@
+##### § 702.35 Chemical substances subject to risk evaluation. #####
+
+(a) *Chemical substances undergoing risk evaluation.* A risk evaluation for a chemical substance designated by EPA as a High-Priority Substance pursuant to the prioritization process described in subpart A or initiated at the request of a manufacturer or manufacturers under § 702.45, will be conducted in accordance with this part, subject to § 702.31(c).
+
+(b) *Percentage requirements.* Pursuant to 15 U.S.C. 2605(b)(4)(E)(i) and in accordance with § 702.45(j)(1), EPA will ensure that the number of chemical substances for which a manufacturer-requested risk evaluation is initiated pursuant to § 702.45(e)(9) is not less than 25%and not more than 50% of the number of chemical substances for which a risk evaluation was initiated upon designation as a High-Priority Substance under subpart A.
+
+(c) *Manufacturer-requested risk evaluations for work plan chemical substances.* Manufacturer requests for risk evaluations, described in paragraph (a) of this section, for chemical substances that are drawn from the 2014 update of the TSCA Work Plan for Chemical Assessments will be granted at the discretion of EPA. Such evaluations are not subject to the percentage requirements in paragraph (b) of this section.

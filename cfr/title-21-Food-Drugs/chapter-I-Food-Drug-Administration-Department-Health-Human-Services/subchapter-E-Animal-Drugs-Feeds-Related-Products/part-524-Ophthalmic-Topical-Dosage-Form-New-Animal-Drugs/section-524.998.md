@@ -10,6 +10,10 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(2) [Reserved]
+(2) *Cats* - (i) *Amount.* Administer topically as a single dose every 12 weeks according to the label dosage schedule to provide a minimum dose of 18.2 mg/lb (40 mg/kg) body weight. May be administered every 8 weeks in case of potential exposure to *D. variabilis* ticks.
 
-[81 FR 67152, Sept. 30, 2016]
+(ii) *Indications for use.* Kills adult fleas; for the treatment and prevention of flea infestations (*C. felis*) and the treatment and control of *I. scapularis* (black-legged tick) infestations for 12 weeks in cats and kittens 6 months of age and older, and weighing 2.6 lb or greater; for the treatment and control of *D. variabilis* (American dog tick) infestations for 8 weeks in cats and kittens 6 months of age and older, and weighing 2.6 lb or greater.
+
+(iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+
+[81 FR 67152, Sept. 30, 2016, as amended at 82 FR 43485, Sept. 18, 2017]

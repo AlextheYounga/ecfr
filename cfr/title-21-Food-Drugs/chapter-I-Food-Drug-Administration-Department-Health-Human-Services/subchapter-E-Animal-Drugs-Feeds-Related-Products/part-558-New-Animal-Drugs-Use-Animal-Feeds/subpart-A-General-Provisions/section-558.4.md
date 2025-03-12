@@ -68,13 +68,13 @@ Category II
 |        Ivermectin        |                95-105                 |           1,180 g/ton (0.13%)           |                                  80-110.                                  |
 |   Maduramicin ammonium   |                90-110                 |            545 g/ton (.06%)             |                                  80-120.                                  |
 |    Morantel tartrate     |                90-110                 |           66.0 g/lb (14.52%)            |                                  85-115.                                  |
-|         Neomycin         |                80-120                 |            7.0 g/lb (1.54%)             |                                  70-125.                                  |
-|     Oxytetracycline      |                80-120                 |            10.0 g/lb (2.2%)             |                                  65-135.                                  |
+|         Neomycin         |                80-120                 |             20 g/lb (4.4%)              |                                  70-125.                                  |
 |     Neomycin sulfate     |                80-120                 |            100 g/lb (22.0%)             |                                  70-125.                                  |
 |  Nicarbazin (granular)   |                90-110                 |           5.675 g/lb (1.25%)            |                              85-115/75-125.                               |
 |         Narasin          |                90-110                 |           5.675 g/lb (1.25%)            |                              85-115/75-125.                               |
 |   Nicarbazin (powder)    |                98-106                 |           5.675 g/lb (1.25%)            |                              85-115/80-120.                               |
 |        Novobiocin        |                85-115                 |            17.5 g/lb (3.85%)            |                                  80-120.                                  |
+|     Oxytetracycline      |                80-120                 |             20 g/lb (4.4%)              |                                  65-135.                                  |
 |    Pyrantel tartrate     |                90-110                 |             36 g/lb (7.9%)              |                                  75-125.                                  |
 |        Robenidine        |                95-115                 |            1.5 g/lb (0.33%)             |                                  80-120.                                  |
 |     Sulfadimethoxine     |                90-110                 |Poultry: 5.675 g/lb  <br/>Fish: 85.1 g/lb|                              80-115/75-125.                               |

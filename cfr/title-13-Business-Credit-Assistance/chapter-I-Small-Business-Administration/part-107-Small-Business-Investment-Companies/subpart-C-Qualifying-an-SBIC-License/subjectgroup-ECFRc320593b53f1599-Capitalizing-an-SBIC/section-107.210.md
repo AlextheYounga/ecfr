@@ -1,8 +1,6 @@
 ##### § 107.210 Minimum capital requirements for Licensees. #####
 
-Link to an amendment published at 82 FR 39340, Aug. 18, 2017.
-
-(a) *Companies licensed on or after October 1, 1996.* A company licensed on or after October 1, 1996 must have Leverageable Capital of at least $2,500,000 and must meet the applicable minimum Regulatory Capital requirement:
+(a) *Companies licensed on or after October 1, 1996.* A company licensed on or after October 1, 1996, must have Leverageable Capital of at least $2,500,000 and must meet the applicable minimum Regulatory Capital requirement in this paragraph (a), unless lower Leverageable Capital and Regulatory Capital amounts are approved by SBA as part of a Wind-Up Plan in accordance with § 107.590(c):
 
 (1) *Licensees other than Participating Securities issuers and Early Stage SBICs.* Except for Participating Securities issuers and Early Stage SBICs, a Licensee must have Regulatory Capital of at least $5,000,000. As an exception to this general rule, SBA in its sole discretion and based on a showing of special circumstances and good cause may license an applicant with Regulatory Capital of at least $3,000,000, but only if the applicant:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 82 FR 39340, Aug. 18, 2017.
 
 (b) *Companies licensed before October 1, 1996.* A company licensed before October 1, 1996 must meet the minimum capital requirements applicable to such company, as required by the regulations in effect on September 30, 1996. See § 107.1120(c)(2) for Leverage eligibility requirements.
 
-[63 FR 5866, Feb. 5, 1998, as amended at 77 FR 25051, Apr. 27, 2012]
+[63 FR 5866, Feb. 5, 1998, as amended at 77 FR 25051, Apr. 27, 2012; 82 FR 39340, Aug. 18, 2017]

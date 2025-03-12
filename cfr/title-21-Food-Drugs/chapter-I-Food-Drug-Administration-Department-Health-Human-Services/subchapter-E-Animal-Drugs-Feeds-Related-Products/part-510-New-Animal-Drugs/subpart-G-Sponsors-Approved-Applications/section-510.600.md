@@ -77,8 +77,8 @@
 |                               Pegasus Laboratories, Inc., 8809 Ely Rd., Pensacola, FL 32514                                |     055246      |
 |                              Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970                               |     050057      |
 |                                 Pharmacosmos, Inc., 776 Mountain Blvd., Watchung, NJ 07069                                 |     042552      |
-|                                Pharmaq AS, Skogmo Industriomrade, N-7863 Overhalla, Norway.                                |     015331      |
-|                               Pharmgate LLC, 1015 Ashes Dr., suite 102, Wilmington, NC 28405                               |     069254      |
+|                                Pharmaq AS, Skogmo Industriomrade, N-7863 Overhalla, Norway                                 |     015331      |
+|                                  Pharmgate LLC, 1800 Sir Tyler Dr., Wilmington, NC 28405                                   |     069254      |
 |     Phibro Animal Health Corp., GlenPointe Centre East, 3d floor, 300 Frank W. Burr Blvd., suite 21, Teaneck, NJ 07666     |     066104      |
 |                           Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017                           |     066794      |
 |             Piramal Healthcare Ltd., Piramal Tower, Ganpatrao Kadam Marg, Lower Parel, Mumbai - 400 013, India             |     065085      |
@@ -200,7 +200,7 @@
 |     068330      |                            Cephazone Pharma, LLC, 250 East Bonita Ave., Pomona, CA 91767.                            |
 |     068504      |       Parnell Technologies Pty. Ltd., unit 4, 476 Gardeners Rd., Alexandria, New South Wales 2015, Australia.        |
 |     069043      |                    Cronus Pharma LLC, 2 Tower Center Blvd., suite 1101, East Brunswick, NJ 08816.                    |
-|     069254      |                           Pharmgate LLC, 1015 Ashes Dr., suite 102, Wilmington, NC 28405.                            |
+|     069254      |                               Pharmgate LLC, 1800 Sir Tyler Dr., Wilmington, NC 28405.                               |
 |     069334      |                         Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510.                         |
 |     076175      |                       Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218.                       |
 |     076475      |                           Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349.                           |

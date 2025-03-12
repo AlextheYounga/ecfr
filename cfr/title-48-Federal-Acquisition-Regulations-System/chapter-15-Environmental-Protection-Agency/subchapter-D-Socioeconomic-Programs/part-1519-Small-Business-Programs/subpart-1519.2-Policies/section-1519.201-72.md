@@ -1,8 +1,8 @@
 ##### 1519.201-72 Small business specialists. #####
 
-(a) Small Business Specialists (SBSs) shall be appointed in writing. Regional SBSs will normally be appointed from members of staffs of the appointing authority. The appointing authorities for regional SBSs are the RAMs. The SBSs for EPA headquarters, Research Triangle Park (RTP), and Cincinnati shall be appointed by the OSBP Director. The SBS is administratively responsible directly to the appointing authority and, on matters relating to small business programs activities, receives technical guidance from the OSBP Director.
+(a) Small Business Specialists (SBSs) shall be appointed in writing. Regional SBSs will normally be appointed from members of staffs of the appointing authority. The appointing authorities for regional SBSs are the RAMs. The SBSs for EPA headquarters, Research Triangle Park (RTP), and Cincinnati shall be appointed by the OSDBU Director. The SBS is administratively responsible directly to the appointing authority and, on matters relating to small business programs activities, receives technical guidance from the OSDBU Director.
 
-(b) A copy of each appointment and termination of all SBSs shall be forwarded to the OSBP Director. In addition to performing the duties outlined in paragraph (c) of this section that are normally performed in the activity to which assigned, the SBS shall perform such additional functions as may be prescribed from time to time in furtherance of overall small business programs goals. The SBS may be appointed on either a full- or part-time basis; however, when appointed on a part-time basis, small business duties shall take precedence over collateral responsibilities.
+(b) A copy of each appointment and termination of all SBSs shall be forwarded to the OSDBU Director. In addition to performing the duties outlined in paragraph (c) of this section that are normally performed in the activity to which assigned, the SBS shall perform such additional functions as may be prescribed from time to time in furtherance of overall small business programs goals. The SBS may be appointed on either a full- or part-time basis; however, when appointed on a part-time basis, small business duties shall take precedence over collateral responsibilities.
 
 (c) The SBS appointed pursuant to paragraph (a) of this section shall perform the following duties as appropriate:
 
@@ -20,6 +20,6 @@
 
 (7) Assure that adequate records are maintained, and accurate reports prepared, concerning small business participation in acquisition programs;
 
-(8) Make available to SBA copies of solicitations when so requested;
+(8) Make available to SBA copies of solicitations when so requested; and
 
 (9) Act as liaison with the appropriate SBA office or representative in connection with matters concerning the small business programs including set-asides.

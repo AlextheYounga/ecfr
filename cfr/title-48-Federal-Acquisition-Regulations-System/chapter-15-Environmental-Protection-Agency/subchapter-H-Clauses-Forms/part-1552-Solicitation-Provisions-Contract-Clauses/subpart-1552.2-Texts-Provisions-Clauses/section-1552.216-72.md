@@ -1,7 +1,5 @@
 ##### 1552.216-72 Ordering - by designated ordering officers. #####
 
-Link to an amendment published at 82 FR 33021, July 19, 2017.
-
 As prescribed in 1516.505(a), insert the subject clause, or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity type solicitations and contracts.
 
 ORDERING - BY DESIGNATED ORDERING OFFICERS (JUL 2014)
@@ -20,7 +18,7 @@ ORDERING - BY DESIGNATED ORDERING OFFICERS (JUL 2014)
 
 (End of clause)
 
-*Alternate I.* As prescribed in 1516.505(a), insert the subject clause, or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity contracts when formal input from the Contractor will not be obtained prior to order issuance.
+*Alternate I* (JUL 2014). As prescribed in 1516.505(a), insert the subject clause, or a clause substantially similar to the subject clause, in indefinite delivery/indefinite quantity contracts when formal input from the Contractor will not be obtained prior to order issuance.
 
 (a) The Government will order any supplies and services to be furnished under this contract by issuing task/delivery orders on Optional Form 347, or any agency prescribed form, from \_\_ through \_\_. In addition to the Contracting Officer, the following individuals are authorized ordering officers:
 
@@ -34,4 +32,4 @@ ORDERING - BY DESIGNATED ORDERING OFFICERS (JUL 2014)
 
 (f) Paragraphs (c), (d), and (e) of this clause apply only when services are being ordered.
 
-(End of clause)[79 FR 37960, July 3, 2014, as amended at 81 FR 31528, May 19, 2016]
+(End of clause)[79 FR 37960, July 3, 2014, as amended at 81 FR 31528, May 19, 2016; 82 FR 33021, July 19, 2017]

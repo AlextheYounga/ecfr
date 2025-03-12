@@ -1,7 +1,5 @@
 ##### § 107.610 Required certifications for Loans and Investments. #####
 
-Link to an amendment published at 82 FR 39340, Aug. 18, 2017.
-
 For each of your Loans and Investments, you must have the documents listed in this section. Except for information and documentation prepared under paragraphs (f)(2) and (3) of this section, you must keep these documents in your files and make them available to SBA upon request.
 
 (a) SBA Form 480, the Size Status Declaration, executed both by you and by the concern you are financing. By executing this document, both parties certify that the concern is a Small Business. For securities purchased from an underwriter in a public offering, you may substitute a prospectus showing that the concern is a Small Business.
@@ -44,4 +42,10 @@ For each of your Loans and Investments, you must have the documents listed in th
 
 (ii) Documentation that you have reviewed the information submitted by the concern under paragraph (f)(5)(i) of this section and have reasonably determined that 100 percent of the Financing proceeds were used for Energy Saving Activities.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 64 FR 52646, Sept. 30, 1999; 77 FR 23379, Apr. 19, 2012]
+(g) For each passive business financed under § 107.720(b)(3), a certification by you, dated as of the closing date of the Financing, as to the basis for the qualification of the Financing under § 107.720(b)(3) and identifying one or more limited partners for which a direct Financing would cause those investors:
+
+(1) To incur “unrelated business taxable income” under section 511 of the Internal Revenue Code (26 U.S.C. 511); or
+
+(2) To incur “effectively connected income” to foreign investors under sections 871 and 882 of the Internal Revenue Code (26 U.S.C. 871 and 882).
+
+[61 FR 3189, Jan. 31, 1996, as amended at 64 FR 52646, Sept. 30, 1999; 77 FR 23379, Apr. 19, 2012; 82 FR 39340, Aug. 18, 2017]

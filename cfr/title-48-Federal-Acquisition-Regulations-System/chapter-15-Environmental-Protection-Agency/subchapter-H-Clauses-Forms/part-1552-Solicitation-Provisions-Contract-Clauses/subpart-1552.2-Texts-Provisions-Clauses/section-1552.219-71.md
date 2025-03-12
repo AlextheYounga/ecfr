@@ -1,10 +1,8 @@
 ##### 1552.219-71 Procedures for Participation in the EPA Mentor-Protégé Program. #####
 
-Link to an amendment published at 82 FR 33022, July 19, 2017.
-
 As prescribed in 1519.203(b), insert the following provision:
 
-Procedures for Participation in the EPA Mentor-Protégé Program (JUL 2016)
+Procedures for Participation in the EPA Mentor-Protégé Program (SEP 2017)
 
 (a) This provision sets forth the procedures for participation in the EPA Mentor-Protégé Program (hereafter referred to as the Program). The purpose of the Program is to increase the participation of concerns owned and/or controlled by socially and economically disadvantaged individuals as subcontractors, suppliers, and ultimately as prime contractors; to establish a mutually beneficial relationship between these concerns and EPA's large business prime contractors (although small businesses may participate as Mentors); to develop the technical and corporate administrative expertise of these concerns, which will ultimately lead to greater success in competition for contract opportunities; to promote the economic stability of these concerns; and to aid in the achievement of goals for the use of these concerns in subcontracting activities under EPA contracts. If the successful offeror is accepted into the Program they shall serve as a Mentor to a Protégé firm(s), providing developmental assistance in accordance with an agreement with the Protégé firm(s).
 
@@ -40,16 +38,16 @@ Procedures for Participation in the EPA Mentor-Protégé Program (JUL 2016)
 
 (iv) A preliminary assessment of the developmental needs of the Protégé firm and the proposed developmental assistance the Mentor firm envisions providing the Protégé. The offeror shall address those needs and how their assistance will enhance the Protégé. The offeror shall develop a schedule to assess the needs of the Protégé and establish criteria to evaluate the success in the Program;
 
-(v) A statement that if the offeror or Protégé firm is suspended or debarred while performing under an approved Mentor-Protégé agreement the offeror shall promptly give notice of the suspension or debarment to the EPA Office of Small Business Programs (OSBP) and the Contracting Officer. The statement shall require the Protégé firm to notify the Contractor if it is suspended or debarred.
+(v) A statement that if the offeror or Protégé firm is suspended or debarred while performing under an approved Mentor-Protégé agreement the offeror shall promptly give notice of the suspension or debarment to the EPA Office of Small and Disadvantaged Business Utilization (OSDBU) and the Contracting Officer. The statement shall require the Protégé firm to notify the Contractor if it is suspended or debarred.
 
 (g) The application will be evaluated on the extent to which the offeror's proposal addresses the items listed in paragraphs (e) and (f) of this section. To the maximum extent possible, the application should be limited to not more than 10 single pages, double spaced. The offeror may identify more than one Protégé in its application.
 
 (h) If the offeror is determined to be in the competitive range, or is awarded a contract without discussions, the offeror will be advised by the Contracting Officer whether their application is approved or rejected. The Contracting Officer, if necessary, may request additional information in connection with the offeror's submission of its revised or best and final offer. If the successful offeror has submitted an approved application, they shall comply with the clause titled “Mentor-Protégé Program.”
 
-(i) Subcontracts of $1,000,000 or less awarded to firms approved as Protégés under the Program are exempt from the requirements for competition set forth in FAR 44.202-2(a)(5), and 52.244-5(b). However, price reasonableness must still be determined and the requirements in FAR 44.202-2(a)(8) for cost and price analysis continue to apply.
+(i) Subcontracts of $1,000,000 or less awarded to firms approved as Protégés under the Program are exempt from the requirements for competition set forth in FAR 44.202-2(a)(5) and 52.244-5(b). However, price reasonableness must still be determined and the requirements in FAR 44.202-2(a)(8) for cost and price analysis continue to apply.
 
 (j) Costs incurred by the offeror in fulfilling their agreement(s) with a Protégé firm(s) are not reimbursable as a direct cost under the contract. Unless EPA is the responsible audit agency under FAR 42.703-1, offerors are encouraged to enter into an advance agreement with their responsible audit agency on the treatment of such costs when determining indirect cost rates. Where EPA is the responsible audit agency, these costs will be considered in determining indirect cost rates.
 
-(k) *Submission of Application and Questions Concerning the Program.* The application for the Program shall be submitted to the Contracting Officer, and to the EPA Office of Small Business Programs at the following address: Socioeconomic Business Program Officer, Office of Small Business Programs, U.S. Environmental Protection Agency, William Jefferson Clinton Building (1230T), 1200 Pennsylvania Avenue NW., Washington, DC 20460, Telephone: (202) 566-2075, *Fax:* (202) 565-2473.
+(k) *Submission of Application and Questions Concerning the Program.* The application for the Program shall be submitted to the Contracting Officer, and to the EPA Office of Small and Disadvantaged Business Utilization at the following address: Office of Small and Disadvantaged Business Utilization, U.S. Environmental Protection Agency, William Jefferson Clinton North Building, Mail Code 1230A, 1200 Pennsylvania Avenue NW., Washington, DC 20460, Telephone: (202) 566-2075, *Fax:* (202) 566-0266.
 
-(End of provision)[81 FR 29797, May 13, 2016]
+(End of provision)[82 FR 33022, July 19, 2017]

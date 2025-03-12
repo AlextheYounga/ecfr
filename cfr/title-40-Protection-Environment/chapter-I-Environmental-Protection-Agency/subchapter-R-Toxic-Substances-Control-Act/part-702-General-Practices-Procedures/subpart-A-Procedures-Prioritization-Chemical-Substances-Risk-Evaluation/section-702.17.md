@@ -1,0 +1,3 @@
+##### § 702.17 Effect of designation as a high-priority substance. #####
+
+Final designation of a chemical substance as a High-Priority Substance under § 702.11 initiates a risk evaluation pursuant to subpart B of this part. Designation as a High-Priority Substance is not a final agency action and is not subject to judicial review until the date of promulgation of the associated final rule under section 6(a). Designation as a High-Priority Substance is not a finding that the chemical substance presents an unreasonable risk.

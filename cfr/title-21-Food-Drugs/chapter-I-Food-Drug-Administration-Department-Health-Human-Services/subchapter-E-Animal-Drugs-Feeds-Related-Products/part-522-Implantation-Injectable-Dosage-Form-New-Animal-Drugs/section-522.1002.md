@@ -10,7 +10,9 @@
 
 (iii) *Limitations.* For intramuscular use in cows that are not pregnant and have a normal corpus luteum. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(b)(1) *Specifications.* Each package contains 2 vials. One vial contains 700 international units (IU) porcine-pituitary derived follicle stimulating hormone (FSH) equivalent to 400 milligrams NIH-FSH-P1, as a dry powder. The other vial contains 20 milliliters (mL) of bacteriostatic sodium chloride injection. When reconstituted, each milliliter of constituted solution contains 35 IU FSH.
+(b)(1) *Specifications* - (i) *Single pack.* Each package contains 2 vials. One vial contains 700 international units (IU) porcine-pituitary-derived follicle stimulating hormone (FSH) equivalent to 400 milligrams NIH-FSH-P1, as a dry powder. The other vial contains 20 milliliters (mL) of bacteriostatic sodium chloride injection. When constituted, each milliliter of solution contains 35 IU FSH.
+
+(ii) *Dual pack.* Each package contains 2 vials. Each vial contains 700 international units (IU) porcine-pituitary-derived FSH equivalent to 400 milligrams NIH-FSH-P1, as a dry powder. Constitute with 20 mL bacteriostatic sodium chloride injection, using strict aseptic technique. When constituted, each milliliter of solution contains 35 IU FSH.
 
 (2) *Sponsor.* See No. 017030 in § 510.600(c) of this chapter.
 
@@ -20,4 +22,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[58 FR 47377, Sept. 9, 1993, as amended at 62 FR 62242, Nov. 21, 1997; 76 FR 2808, Jan. 18, 2011; 79 FR 53136, Sept. 8, 2014; 79 FR 74020, Dec. 15, 2014; 82 FR 21690, May 10, 2017]
+[58 FR 47377, Sept. 9, 1993, as amended at 62 FR 62242, Nov. 21, 1997; 76 FR 2808, Jan. 18, 2011; 79 FR 53136, Sept. 8, 2014; 79 FR 74020, Dec. 15, 2014; 82 FR 21690, May 10, 2017; 82 FR 43484, Sept. 18, 2017]

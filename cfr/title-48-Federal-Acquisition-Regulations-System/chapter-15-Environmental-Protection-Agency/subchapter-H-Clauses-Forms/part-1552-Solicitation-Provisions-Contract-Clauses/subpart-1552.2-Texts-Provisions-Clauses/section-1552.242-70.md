@@ -1,12 +1,10 @@
 ##### 1552.242-70 Indirect costs. #####
 
-Link to an amendment published at 82 FR 33023, July 19, 2017.
-
 As prescribed in 1542.705-70, insert the following clause in all cost-reimbursement and non-commercial time and materials type contracts. If ceilings are not being established, enter “not applicable” in paragraph (c) of the clause.
 
-Indirect Costs (APR 1984)
+Indirect Costs (SEP 2017)
 
-(a) In accordance with paragraph (d) of the “Allowable Cost and Payment” clause, the final indirect cost rates applicable to this contract shall be established between the Contractor and the appropriate Government representative (EPA, other Government agency, or auditor), as provided by FAR 42.703-1(a). EPA's procedures require a Contracting Officer determination of indirect cost rates for its contracts. In those cases where EPA is the cognizant agency (see FAR 42.705-1), the final rate proposal shall be submitted to the cognizant audit activity and to the following designated Contracting Officer: Environmental Protection Agency, Chief, Cost Policy and Rate Negotiation Branch (3804F), Cost Advisory and Financial Analysis Division, Washington, DC 20460.
+(a) In accordance with paragraph (d) of the “Allowable Cost and Payment” clause, the final indirect cost rates applicable to this contract shall be established between the Contractor and the appropriate Government representative (EPA, other Government agency, or auditor), as provided by FAR 42.703-1(a). EPA's procedures require a Contracting Officer determination of indirect cost rates for its contracts. In those cases where EPA is the cognizant agency (see FAR 42.705-1), the final rate proposal shall be submitted to the cognizant audit activity and to the following designated Contracting Officer: U.S. Environmental Protection Agency, Manager, Financial Analysis and Oversight Service Center, Mail Code 3802R, Policy, Training Oversight Division, 1200 Pennsylvania Avenue NW., Washington, DC 20460.
 
 Where EPA is not the cognizant agency, the final rate proposal shall be submitted to the above-cited address, to the cognizant audit agency, and to the designated Contracting Officer of the cognizant agency. Upon establishment of the final indirect cost rates, the Contractor shall submit an executed Certificate of Current Cost or Pricing Data (see FAR 15.406-2) applicable to the data furnished in connection with the final rates to the cognizant audit agency. The final rates shall be contained in a written understanding between the Contractor and the appropriate Government representative. Pursuant to the “Allowable Cost and Payment” clause, the allowable indirect costs under this contract shall be obtained by applying the final agreed upon rate(s) to the appropriate bases.
 
@@ -26,4 +24,4 @@ These billing rates may be prospectively or retroactively revised by mutual agre
 |           |      |    |    |
 |           |      |    |    |
 
-(End of clause)[49 FR 8867, Mar. 8, 1984, as amended at 59 FR 18977, Apr. 21, 1994; 64 FR 3876, Jan. 26, 1999; 81 FR 31528, May 18, 2016]
+(End of clause)[82 FR 33023, July 19, 2017]
