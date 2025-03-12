@@ -1,0 +1,3 @@
+##### § 986.56 Right of the Secretary. #####
+
+The members and alternates for members and any agent or employee appointed or employed by the Council shall be subject to removal or suspension by the Secretary at any time. Each and every regulation, decision, determination, or other act shall be subject to the continuing right of the Secretary to disapprove of the same at any time, and, upon such disapproval, shall be deemed null and void, except as to acts done in reliance thereon or in compliance therewith prior to such disapproval by the Secretary.

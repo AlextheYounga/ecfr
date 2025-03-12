@@ -1,25 +1,25 @@
 ##### § 206.31 Allowable charges and fees. #####
 
-(a) *Fees at closing.* The mortgagee may collect, either in cash at the time of closing or through an initial payment under the mortgage, the following charges and fees incurred in connection with the origination of the mortgage loan:
+(a) *Fees at closing.* The mortgagee may collect, either in cash at the time of closing or through an initial payment under the mortgage, the following charges and fees incurred in connection with the origination, processing, and closing of the mortgage loan:
 
-(1) A charge to compensate the mortgagee for expenses incurred in originating and closing the mortgage loan, which may be fully financed with the mortgage. The Secretary may establish limitations on the amount of any such charge. HUD will publish any such limit in the Federal Register at least 30 days before the limitation takes effect. The mortgagor is not permitted to pay any additional origination fee of any kind to a mortgage broker or sponsored third-party originator. A mortgage broker's fee can be included as part of the origination fee only if the mortgage broker is engaged independently by the homeowner and there is no financial interest between the mortgage broker and the mortgagee.
+(1) *Loan Origination Fee.* Mortgagees may charge a loan origination fee and may use such fee to pay for services performed by a sponsored third-party originator. The loan origination fee limit shall be the greater of $2,500 or two percent of the maximum claim amount of $200,000, plus one percent of any portion of the maximum claim amount that is greater than $200,000. Mortgagees may accept a lower origination fee. Mortgagees may pay fees for services performed by a sponsored third-party originator and these fees may be included as part of the loan origination fee. The total amount of the loan origination fee may not exceed $6,000, except that the Commissioner may through notice adjust the maximum limit in accordance with the annual percentage increase in the Consumer Price Index of the Bureau of Labor Statistics of the Department of Labor in increments of $500 only when the percentage increase in such index, when applied to the maximum origination fee, produces dollar increases that exceed $500. The loan origination fee may be fully financed with the mortgage.
 
-(2) Reasonable and customary amounts, but not more than the amount actually paid by the mortgagee, for any of the following items:
+(2) *Reasonable and customary amounts.* Reasonable and customary amounts, but not more than the amount actually paid by the mortgagee, for any of the following items:
 
 (i) Recording fees and recording taxes, or other charges incident to the recordation of the insured mortgage;
 
 (ii) Credit report;
 
-(iii) Survey, if required by the mortgagee or the mortgagor;
+(iii) Survey, if required by the mortgagee or the borrower;
 
 (iv) Title examination;
 
 (v) Mortgagee's title insurance;
 
-(vi) Fees paid to an appraiser for the initial appraisal of the property; and
+(vi) Fees paid to an appraiser for the initial appraisal of the property;
 
-(vii) Such other charges as may be authorized by the Secretary.
+(vii) Flood certifications; and
 
-(b) *Repair administration fee.* If the property requires repairs after closing in order to meet HUD requirements, the mortgagee may collect a fee as compensation for administrative duties relating to repair work pursuant to § 206.47(c), not to exceed the greater of one and one-half percent of the amount advanced for the repairs or fifty dollars. The mortgagee shall collect the repair fee by adding it to the mortgage balance.
+(viii) Such other charges as may be authorized by the Commissioner.
 
-[54 FR 24833, June 9, 1989; 54 FR 32060, Aug. 4, 1989, as amended at 69 FR 15590, Mar. 25, 2004; 77 FR 51469, Aug. 24, 2012]
+(b) *Repair administration fee.* If the property requires repairs after closing in order to meet FHA requirements, the mortgagee may collect a fee for each occurrence as compensation for administrative duties relating to repair work pursuant to § 206.47(c) and (d), not to exceed the greater of one and one-half percent of the amount advanced for the repairs or fifty dollars. The mortgagee shall collect the repair fee by adding it to the outstanding loan balance.

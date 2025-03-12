@@ -2,16 +2,14 @@
 
 (a) *Claims.* Mortgagees may submit claims for the payment of the mortgage insurance benefits if:
 
-(1) The conditions of § 206.107(a)(1) pertaining to the optional assignment of the mortgage by the mortgagee have been met and the mortgagee assigns the mortgage to the Secretary;
+(1) The conditions of § 206.107(a)(1) pertaining to the optional assignment of the mortgage by the mortgagee have been met and the mortgagee assigns the mortgage to the Commissioner;
 
-(2) The mortgagee is unable or unwilling to make the payments under the mortgage and assigns the mortgage to the Secretary pursuant to the Secretary's demand, as provided in § 206.121(b);
+(2) The mortgagee is unable or unwilling to make the payments under the mortgage and assigns the mortgage to the Commissioner pursuant to the Commissioner's demand, as provided in § 206.121(b);
 
-(3) The mortgagor sells the property for less than the mortgage balance and the mortgagee releases the mortgage of record to facilitate the sale, as provided in § 206.125(c);
+(3) The borrower or other permissible party sells the property for less than the outstanding loan balance and the mortgagee releases the mortgage of record to facilitate the sale, as provided in § 206.125(c);
 
-(4) The mortgagee acquires title to the property by foreclosure or a deed in lieu of foreclosure and sells the property as provided in § 206.125(g) for an amount which does not satisfy the mortgage balance or fails to sell the property as provided in § 206.127(a)(2); or
+(4) The mortgagee acquires title to the property by foreclosure or a deed in lieu of foreclosure and sells the property as provided in § 206.125(g) for an amount which does not satisfy the outstanding loan balance or fails to sell the property as provided in § 206.127(a)(2); or
 
-(5) The mortgagee forecloses and a bidder other than the mortgagee purchases the property for an amount that is not sufficient to satisfy the mortgage balance, as provided in § 206.125(e).
+(5) The mortgagee forecloses and a bidder other than the mortgagee purchases the property for an amount that is not sufficient to satisfy the outstanding loan balance, as provided in § 206.125(e).
 
-(b) *Expanded definition of mortgagor.* The term *mortgagor* as used in this subpart shall have the same meaning as stated in § 206.3, except that in reference to a sale by the mortgagor, the term shall also mean the mortgagor's estate or personal representative.
-
-(Approved by the Office of Management and Budget under control number 2528-0133)[54 FR 24833, June 9, 1989, as amended at 60 FR 42761, Aug. 16, 1995]
+(b) [Reserved]

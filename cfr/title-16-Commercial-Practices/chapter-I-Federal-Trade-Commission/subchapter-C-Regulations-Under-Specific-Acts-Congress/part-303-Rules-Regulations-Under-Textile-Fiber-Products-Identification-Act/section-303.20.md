@@ -1,5 +1,7 @@
 ##### § 303.20 Registered identification numbers. #####
 
+Link to an amendment published at 82 FR 43692, Sept. 19, 2017.
+
 (a) Registered numbers for use as the required identification in lieu of the name on textile fiber product labels, as provided in section 4(b)(3) of the Act, will be issued by the Commission to qualified persons residing in the United States upon receipt of an application duly executed in the form set out in paragraph (d) of this section.
 
 (b)(1) Registered identification numbers shall be used only by the person or concern to whom they are issued, and such numbers are not transferable or assignable.

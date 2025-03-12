@@ -1,1 +1,3 @@
-##### § 206.13 [Reserved] #####
+##### § 206.13 Disclosure of available HECM program options. #####
+
+At the time of initial contact, the mortgagee shall inform the prospective HECM borrower, in a manner acceptable to the Commissioner, of all products, features, and options of the HECM program that FHA will insure under this part, including: fixed interest rate mortgages with the Single Lump Sum payment option; adjustable interest rate mortgages with tenure, term, and line of credit disbursement options, or a combination of these; any other FHA insurable disbursement options; and initial mortgage insurance premium options, and how those affect the availability of other mortgage and disbursement options.

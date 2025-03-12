@@ -1,5 +1,7 @@
 ##### § 300.4 Registered identification numbers. #####
 
+Link to an amendment published at 82 FR 43691, Sept. 19, 2017.
+
 (a) A registered identification number assigned by the Federal Trade Commission under and in accordance with the provisions of this section may be used upon the stamp, tag, label, or other mark of identification required under the Act to be affixed to a wool product, as and for the name of the person to whom such number has been assigned.
 
 (b) Any manufacturer of a wool product or person subject to section 3 of the Act with respect to such wool product, residing in the United States, may apply to the Federal Trade Commission for a registered identification number for use by the applicant on the stamp, tag, label, or other mark of identification required under the Act.

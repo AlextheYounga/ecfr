@@ -12,7 +12,7 @@ In addition to provisions required for a valid and legally binding contract, any
 
 (e) *Anti-kickback.* All contracts for construction shall include a provision for compliance with the Copeland “Anti-Kickback” Act (18 U.S.C. 874). This Act provides that each contractor shall be prohibited from inducing, by any means, any person employed in the construction, completion, or repair of public work, to give up any part of the compensation to which they are otherwise entitled. The owner shall report suspected or reported violations to the Agency.
 
-(f) - (g) [Reserved]
+(f)-(g) [Reserved]
 
 (h) *Change orders.* The construction contract shall require that all contract change orders be concurred in by the Agency.
 

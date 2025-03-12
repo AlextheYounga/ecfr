@@ -1,5 +1,3 @@
 ##### § 206.116 Refunds. #####
 
-No amount of the initial MIP shall be refundable.
-
-[60 FR 42761, Aug. 16, 1995]
+No amount of the initial MIP shall be refundable except as authorized by the Commissioner.

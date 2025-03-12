@@ -1,0 +1,3 @@
+##### § 986.82 Books and other records. #####
+
+Each handler shall maintain such records of pecans received, held and disposed of by them as may be prescribed by the Council for the purpose of performing its duties under this part. Such books and records shall be retained and be available for examination by authorized representatives of the Council and the Secretary for the current fiscal year and the preceding three (3) fiscal years.

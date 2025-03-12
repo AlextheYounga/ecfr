@@ -1,5 +1,3 @@
-##### § 206.102 General Insurance Fund. #####
+##### § 206.102 Insurance Funds. #####
 
-Mortgages insured under this part shall be obligations of the General Insurance Fund.
-
-[60 FR 42761, Aug. 16, 1995]
+Loans endorsed for insurance under this part, prior to October 1, 2008, shall be obligations of the General Insurance Fund. Loans endorsed for insurance under this part, on or after October 1, 2008, shall be obligations of the MMIF.

@@ -1,0 +1,3 @@
+##### § 986.36 Sheller. #####
+
+*Sheller* refers to any person who converts inshell pecans to shelled pecans and sells the output in any and all markets in the stream of commerce, both within and outside of the production area; *Provided,* That the term “sheller” shall only include those who shell more than 1 million pounds of inshell pecans in a fiscal year. The Council may recommend changes to this definition subject to the approval of the Secretary.
