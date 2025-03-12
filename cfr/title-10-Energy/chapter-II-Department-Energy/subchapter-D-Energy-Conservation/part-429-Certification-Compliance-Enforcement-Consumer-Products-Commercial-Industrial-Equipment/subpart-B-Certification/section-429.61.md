@@ -1,5 +1,7 @@
 ##### § 429.61 Consumer miscellaneous refrigeration products. #####
 
+Link to an amendment published at 88 FR 7845, Feb. 7, 2023.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to miscellaneous refrigeration products; and
 
 (2) For each basic model of miscellaneous refrigeration product, a sample of sufficient size shall be randomly selected and tested to ensure that -
