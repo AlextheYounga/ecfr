@@ -1,0 +1,3 @@
+##### § 3.200 Effect of Transportation Security Administration notification on a certificate or any part of a certificate held by an individual. #####
+
+When the Transportation Security Administration (TSA) notifies the FAA that an individual holding a certificate or part of a certificate issued by the FAA poses, or is suspected of posing, a risk of air piracy or terrorism or a threat to airline or passenger safety, the FAA will issue an order amending, modifying, suspending, or revoking any certificate or part of a certificate issued by the FAA.

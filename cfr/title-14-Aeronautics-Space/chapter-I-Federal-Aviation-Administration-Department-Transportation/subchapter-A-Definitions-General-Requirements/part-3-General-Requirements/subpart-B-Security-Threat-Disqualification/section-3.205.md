@@ -1,0 +1,5 @@
+##### § 3.205 Effect of Transportation Security Administration notification on applications by individuals for a certificate or any part of a certificate. #####
+
+(a) When the TSA notifies the FAA that an individual who has applied for a certificate or any part of a certificate issued by the FAA poses, or is suspected of posing, a risk of air piracy or terrorism or a threat to airline or passenger safety, the FAA will hold the individual's certificate applications in abeyance pending further notification from the TSA.
+
+(b) When the TSA notifies the FAA that the TSA has made a final security threat determination regarding an individual, the FAA will deny all the individual's certificate applications. Alternatively, if the TSA notifies the FAA that it has withdrawn its security threat determination, the FAA will continue processing the individual's applications.
