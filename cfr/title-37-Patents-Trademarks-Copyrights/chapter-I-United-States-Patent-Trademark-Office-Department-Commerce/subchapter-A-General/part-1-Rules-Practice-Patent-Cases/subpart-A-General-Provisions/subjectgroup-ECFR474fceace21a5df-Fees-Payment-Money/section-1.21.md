@@ -44,9 +44,7 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (ii) For USPTO-assisted change of address: $70.00.
 
-(7) [Reserved]
-
-(8) [Reserved]
+(7)-(8) [Reserved]
 
 (9)(i) Delinquency fee: $50.00.
 
@@ -62,15 +60,11 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (3) Service charge for each month when the balance at the end of the month is below $300 for restricted subscription deposit accounts used exclusively for subscription order of patent copies as issued: $25.00.
 
-(c) [Reserved]
-
-(d) [Reserved]
+(c)-(d) [Reserved]
 
 (e) International type search reports: For preparing an international type search report of an international type search made at the time of the first action on the merits in a national patent application: $40.00.
 
-(f) [Reserved]
-
-(g) [Reserved]
+(f)-(g) [Reserved]
 
 (h) For recording each assignment, agreement, or other paper relating to the property in a patent or application, per property:
 
@@ -80,11 +74,7 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (i) Publication in Official Gazette: For publication in the Official Gazette of a notice of the availability of an application or a patent for licensing or sale: Each application or patent: $25.00.
 
-(j) [Reserved]
-
-(k) [Reserved]
-
-(l) [Reserved]
+(j)-(l) [Reserved]
 
 (m) For processing each payment refused (including a check returned “unpaid”) or charged back by a financial institution: $50.00.
 
@@ -94,17 +84,15 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (1) Submission of sequence listings in electronic form ranging in size from 300 MB to 800 MB:
 
-|                                     |        |
-|-------------------------------------|--------|
 |     By a micro entity (§ 1.29)      |$250.00 |
+|:------------------------------------|-------:|
 |    By a small entity (§ 1.27(a))    | 500.00 |
 |By other than a small or micro entity|1,000.00|
 
 (2) Submission of sequence listings in electronic form exceeding 800 MB in size:
 
-|                                     |         |
-|-------------------------------------|---------|
 |     By a micro entity (§ 1.29)      |$2,500.00|
+|:------------------------------------|--------:|
 |    By a small entity (§ 1.27(a))    |5,000.00 |
 |By other than a small or micro entity|10,000.00|
 

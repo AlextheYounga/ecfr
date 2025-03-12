@@ -40,6 +40,7 @@ Examples are provided in FCC Public Notices.
 |              Avalanche Warning              |   AVW.    |
 |               Avalanche Watch               |   AVA.    |
 |              Blizzard Warning               |   BZW.    |
+|                 Blue Alert                  |   BLU.    |
 |          Child Abduction Emergency          |   CAE.    |
 |            Civil Danger Warning             |   CDW.    |
 |           Civil Emergency Message           |   CEM.    |
@@ -86,8 +87,6 @@ Examples are provided in FCC Public Notices.
 |               Volcano Warning               |   VOW.    |
 |            Winter Storm Warning             |   WSW.    |
 |             Winter Storm Watch              |   WSA.    |
-
-(f) The All U.S. State, Territory and Offshore (Marine Area) ANSI number codes (SS) are as follows. County ANSI numbers (CCC) are contained in the State EAS Mapbook.
 
 (f) The All U.S., State, Territory and Offshore (Marine Area) ANSI number codes (SS) are as follows. County ANSI numbers (CCC) are contained in the State EAS Mapbook.
 
@@ -174,4 +173,4 @@ Examples are provided in FCC Public Notices.
 
 <sup>1</sup> The numbers assigned to the offshore marine areas listed in this table are not described under the ANSI standard, but rather are numeric codes that were assigned by the National Weather Service.
 
-[59 FR 67092, Dec. 28, 1994, as amended at 60 FR 55999, Nov. 6, 1995; 61 FR 54952, Oct. 23, 1996; 63 FR 29663, June 1, 1998; 67 FR 18508, Apr. 16, 2002; 67 FR 77174, Dec. 17, 2002; 69 FR 72031, Dec. 10, 2004; 70 FR 71033, Nov. 25, 2005; 77 FR 16701, Mar. 22, 2012; 80 FR 37174, June 30, 2015; 81 FR 53043, Aug. 11, 2016]
+[59 FR 67092, Dec. 28, 1994, as amended at 60 FR 55999, Nov. 6, 1995; 61 FR 54952, Oct. 23, 1996; 63 FR 29663, June 1, 1998; 67 FR 18508, Apr. 16, 2002; 67 FR 77174, Dec. 17, 2002; 69 FR 72031, Dec. 10, 2004; 70 FR 71033, Nov. 25, 2005; 77 FR 16701, Mar. 22, 2012; 80 FR 37174, June 30, 2015; 81 FR 53043, Aug. 11, 2016; 83 FR 2563, Jan. 18, 2018]

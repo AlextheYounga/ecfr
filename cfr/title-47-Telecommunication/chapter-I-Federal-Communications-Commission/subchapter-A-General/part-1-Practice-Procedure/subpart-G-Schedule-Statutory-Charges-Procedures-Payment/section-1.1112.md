@@ -1,5 +1,7 @@
 ##### § 1.1112 Form of payment. #####
 
+Link to an amendment published at 83 FR 2556, Jan. 18, 2018.
+
 (a) Annual and multiple year regulatory fees must be paid electronically as described in paragraph (e) of this section. Fee payments, other than annual and multiple year regulatory fee payments, should be in the form of a check, cashier's check, or money order denominated in U.S. dollars and drawn on a United States financial institution and made payable to the Federal Communications Commission or by a Visa, MasterCard, American Express, or Discover credit card. No other credit card is acceptable. Fees for applications and other filings paid by credit card will not be accepted unless the credit card section of FCC Form 159 is completed in full. The Commission discourages applicants from submitting cash and will not be responsible for cash sent through the mail. Personal or corporate checks dated more than six months prior to their submission to the Commission's lockbox bank and postdated checks will not be accepted and will be returned as deficient. Third party checks (*i.e.,* checks with a third party as maker or endorser) will not be accepted.
 
 (1) Although payments (other than annual and multiple year regulatory fee payments) may be submitted in the form of a check, cashier's check, or money order, payors of these fees are encouraged to submit these payments electronically under the procedures described in paragraph (e) of this section.

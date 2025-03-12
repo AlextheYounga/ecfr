@@ -1,5 +1,7 @@
 ##### § 61.14 Method of filing publications. #####
 
+Link to an amendment published at 83 FR 2557, Jan. 18, 2018.
+
 (a) Publications filed electronically must be addressed to “Secretary, Federal Communications Commission, Washington, DC 20554.” The Electronic Tariff Filing System will accept filings 24 hours a day, seven days a week. The official filing date of a publication received by the Electronic Tariff Filing System will be determined by the date and time the transmission ends. If the transmission ends after the close of a business day, as that term is defined in § 1.4(e)(2) of this Chapter, the filing will be date and time stamped as of the opening of the next business day.
 
 (b) In addition, except for issuing carriers filing tariffing fees electronically, for all tariff publications requiring fees as set forth in part 1, subpart G of this chapter, issuing carriers must submit the original of the cover letter (without attachments), FCC Form 159, and the appropriate fee to the address set forth in § 1.1105 of this chapter.

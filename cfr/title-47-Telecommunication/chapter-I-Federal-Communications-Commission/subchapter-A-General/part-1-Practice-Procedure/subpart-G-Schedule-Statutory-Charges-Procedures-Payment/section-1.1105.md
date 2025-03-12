@@ -1,5 +1,7 @@
 ##### § 1.1105 Schedule of charges for applications and other filings for the wireline competition services. #####
 
+Link to an amendment published at 83 FR 2556, Jan. 18, 2018.
+
 Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, Wireline Competition Bureau Applications, P.O. Box 979091, St. Louis, MO 63197-9000.
 
 |                                                                                  Service                                                                                   |FCC Form No.|Fee amount  <br/>($)|Payment  <br/>type code|

@@ -1,5 +1,7 @@
 ##### § 1.1113 Filing locations. #####
 
+Link to an amendment published at 83 FR 2556, Jan. 18, 2018.
+
 (a) Except as noted in this section, applications and other filings, with attached fees and FCC Form 159, must be submitted to the locations and addresses set forth in §§ 1.1102 through 1.1109.
 
 (1) Tariff filings shall be filed with the Secretary, Federal Communications Commission, Washington DC 20554. On the same day, the filer should submit a copy of the cover letter, the FCC Form 159, and the appropriate fee to the Commission's lockbox bank at the address established in § 1.1105.

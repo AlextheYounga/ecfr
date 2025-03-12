@@ -1,5 +1,7 @@
 ##### § 51.329 Notice of network changes: Methods for providing notice. #####
 
+Link to an amendment published at 83 FR 2557, Jan. 18, 2018.
+
 (a) In providing the required notice to the public of network changes, an incumbent LEC may use one of the following methods:
 
 (1) Filing a public notice with the Commission; or

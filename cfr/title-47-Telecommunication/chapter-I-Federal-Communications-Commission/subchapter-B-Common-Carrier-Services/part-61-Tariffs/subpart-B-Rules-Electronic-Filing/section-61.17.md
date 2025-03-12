@@ -1,5 +1,7 @@
 ##### § 61.17 Applications for special permission. #####
 
+Link to an amendment published at 83 FR 2557, Jan. 18, 2018.
+
 (a) All issuing carriers that file applications for special permission, associated documents, such as transmittal letters, requests for special permission, and supporting information, shall file those documents electronically.
 
 (b) Applications for special permission must contain:

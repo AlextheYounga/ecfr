@@ -1,5 +1,7 @@
 ##### § 0.401 Location of Commission offices. #####
 
+Link to an amendment published at 83 FR 2555, Jan. 18, 2018.
+
 The Commission maintains several offices and receipt locations. Applications and other filings not submitted in accordance with the addresses or locations set forth below will be returned to the applicant without processing. When an application or other filing does not involve the payment of a fee, the appropriate filing address or location is established elsewhere in the rules for the various types of submissions made to the Commission. The public should identify the correct filing location by reference to these rules. Applications or submissions requiring fees must be submitted in accordance with § 0.401(b) of the rules irrespective of the addresses that may be set out elsewhere in the rules for other submissions.
 
 (a) General correspondence, as well as applications and filings not requiring the fees set forth at part 1, subpart G of the rules (or not claiming an exemption, waiver or deferral from the fee requirement), should be delivered to one of the following locations.

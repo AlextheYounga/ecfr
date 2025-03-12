@@ -1,5 +1,7 @@
 ##### § 1.1119 Petitions and applications for review. #####
 
+Link to an amendment published at 83 FR 2556, Jan. 18, 2018.
+
 (a) The fees established by this subpart may be waived or deferred in specific instances where good cause is shown and where waiver or deferral of the fee would promote the public interest.
 
 (b) Requests for waivers or deferrals will only be considered when received from applicants acting in respect to their own applications. Requests for waivers or deferrals of entire classes of services will not be considered.
