@@ -1,0 +1,3 @@
+##### § 109-40.000 Scope of part. #####
+
+This part describes DOE regulations governing transportation and traffic management activities. It also covers arrangements for transportation and related services by bill of lading. These regulations are designed to ensure that all transportation and traffic management activities will be carried out in the manner most advantageous to the Government in terms of economy, efficiency, service, environment, safety and security.

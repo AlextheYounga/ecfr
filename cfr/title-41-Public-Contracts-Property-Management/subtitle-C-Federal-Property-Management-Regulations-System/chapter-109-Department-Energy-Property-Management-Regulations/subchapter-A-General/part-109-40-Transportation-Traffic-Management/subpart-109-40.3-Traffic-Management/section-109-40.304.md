@@ -1,0 +1,3 @@
+##### § 109-40.304 Rate tenders to the Government. #####
+
+Under the provisions of the Interstate Commerce Act (49 U.S.C. 10721), common carriers are permitted to submit to the Government tenders which contain rates lower than published tariff rates available to the general public. In addition, rates tenders may be applied to shipments other than those made by the Government provided the total benefits accrue to the Government; that is, provided the Government pays the charges or directly and completely reimburses the party that initially bears the freight charges (323 ICC 347 and 332 ICC 161).

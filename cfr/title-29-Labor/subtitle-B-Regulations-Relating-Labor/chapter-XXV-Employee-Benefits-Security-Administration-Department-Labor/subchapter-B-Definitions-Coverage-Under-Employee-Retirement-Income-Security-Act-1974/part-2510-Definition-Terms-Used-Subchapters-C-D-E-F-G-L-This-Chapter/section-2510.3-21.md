@@ -1,7 +1,5 @@
 ##### § 2510.3-21 Definition of “Fiduciary.” #####
 
-Link to an amendment published at 82 FR 196918, Apr. 7, 2017.
-
 (a) *Investment advice.* For purposes of section 3(21)(A)(ii) of the Employee Retirement Income Security Act of 1974 (Act) and section 4975(e)(3)(B) of the Internal Revenue Code (Code), except as provided in paragraph (c) of this section, a person shall be deemed to be rendering investment advice with respect to moneys or other property of a plan or IRA described in paragraph (g)(6) of this section if -
 
 (1) Such person provides to a plan, plan fiduciary, plan participant or beneficiary, IRA, or IRA owner the following types of advice for a fee or other compensation, direct or indirect:
@@ -180,13 +178,13 @@ Link to an amendment published at 82 FR 196918, Apr. 7, 2017.
 
 (h) *Effective and applicability dates* - (1) *Effective date.* This section is effective on June 7, 2016.
 
-(2) *Applicability date.* Paragraphs (a), (b), (c), (d), (f), and (g) of this section apply April 10, 2017.
+(2) *Applicability date.* Paragraphs (a), (b), (c), (d), (f), and (g) of this section apply June 9, 2017.
 
 (3) Until the applicability date under this paragraph (h), the prior regulation under the Act and the Code (as it appeared in the July 1, 2015 edition of 29 CFR part 2510 and the April 1, 2015 edition of 26 CFR part 54) applies.
 
 (i) *Continued applicability of State law regulating insurance, banking, or securities.* Nothing in this part shall be construed to affect or modify the provisions of section 514 of Title I of the Act, including the savings clause in section 514(b)(2)(A) for state laws that regulate insurance, banking, or securities.
 
-(j) *Temporarily applicable provisions.* (1) During the period between June 7, 2016 and April 10, 2017, this paragraph (j) shall apply.
+(j) *Temporarily applicable provisions.* (1) During the period between June 7, 2016 and June 9, 2017, this paragraph (j) shall apply.
 
 (i) A person shall be deemed to be rendering “investment advice” to an employee benefit plan, within the meaning of section 3(21)(A)(ii) of the Act, section 4975(e)(3)(B) of the Code and this paragraph (j), only if:
 
@@ -208,6 +206,6 @@ Link to an amendment published at 82 FR 196918, Apr. 7, 2017.
 
 (ii) For purposes of this paragraph (j), the term “control” means the power to exercise a controlling influence over the management or policies of a person other than an individual.
 
-(3) *Expiration date.* This paragraph (j) expires on April 10, 2017.
+(3) *Expiration date.* This paragraph (j) expires on June 9, 2017.
 
-[81 FR 20997, 21001, Apr. 8, 2016]Effective Date Note:At 81 FR 21001, Apr. 8, 2016, in § 2510.3-21, paragraph (j) was added, effective June 7, 2016 to Apr. 10, 2017.
+[81 FR 20997, 21001, Apr. 8, 2016, as amended at 82 FR 16918, Apr. 7, 2017]Effective Date Note:At 81 FR 21001, Apr. 8, 2016, in § 2510.3-21, paragraph (j) was added, effective June 7, 2016 to Apr. 10, 2017. At 82 FR 16902, Apr. 7, 2017, the effective date was extended to June 9, 2017.

@@ -1,0 +1,3 @@
+##### § 109-40.000-50 Applicability to contractors. #####
+
+DOE-PMR 109-40, Transportation and Traffic Management, should be applied to cost-type contractors' transportation and traffic management activities. Departure by cost-type contractors from the provisions of these regulations may be authorized by the contracting officer provided the practices and procedures followed are consistent with the basic policy objectives in these regulations and DOE Order 460.2, Departmental Materials Transportation and Packaging Management, except to the extent such departure is prohibited by statute or executive order.

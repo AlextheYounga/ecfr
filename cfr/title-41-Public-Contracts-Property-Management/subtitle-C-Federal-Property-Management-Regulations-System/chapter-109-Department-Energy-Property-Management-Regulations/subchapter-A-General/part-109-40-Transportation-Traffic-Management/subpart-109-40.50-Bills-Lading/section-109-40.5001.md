@@ -1,0 +1,3 @@
+##### § 109-40.5001 Policy. #####
+
+Generally DOE cost-type contractors will use commercial bills of lading in making shipments for the account of DOE. Cost-type contractors may be authorized by the contracting officer to use Government bills of lading if such use will be advantageous to the Government. Such authorizations shall be coordinated with the HQ DOE Manager, Transportation Operations and Traffic.

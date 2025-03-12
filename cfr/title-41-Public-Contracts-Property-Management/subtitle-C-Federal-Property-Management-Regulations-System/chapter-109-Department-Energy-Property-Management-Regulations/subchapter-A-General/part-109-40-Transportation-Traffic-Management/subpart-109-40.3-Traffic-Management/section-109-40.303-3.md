@@ -1,0 +1,3 @@
+##### § 109-40.303-3 Most fuel efficient carrier/mode. #####
+
+When more than one mode, or more than one carrier within a mode, can satisfy the service requirements of a specific shipment at the same lowest aggregate delivered cost, the carrier/mode determined to be the most fuel efficient will be selected. In determining the most fuel efficient carrier/mode, consideration will be given to such factors as use of the carrier's equipment in “turn around” service, proximity of carrier equipment to the shipping activity, and ability of the carrier to provide the most direct service to the destination points.

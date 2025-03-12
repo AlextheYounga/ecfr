@@ -1,0 +1,3 @@
+##### § 109-40.5101 Policy. #####
+
+Upon request of a carrier, an appropriate certification will be issued by an authorized representative of the DOE to the carrier regarding the applicability of Price-Anderson indemnity to a particular shipment. Copies of such certifications, if performed by a Field Manager or a DOE cost-type contractor, shall be provided to the HQ DOE Manager, Transportation Operations and Traffic.

@@ -1,0 +1,3 @@
+##### § 109-40.103-2 Disqualification and suspension of carriers. #####
+
+Disqualification and suspension are measures which exclude carriers from participation, for temporary periods of time, in DOE traffic. To ensure that the Government derives the benefits of full and free competition of interested carriers, disqualification and suspension shall not apply for any period of time longer than necessary to protect the interests of the Government.

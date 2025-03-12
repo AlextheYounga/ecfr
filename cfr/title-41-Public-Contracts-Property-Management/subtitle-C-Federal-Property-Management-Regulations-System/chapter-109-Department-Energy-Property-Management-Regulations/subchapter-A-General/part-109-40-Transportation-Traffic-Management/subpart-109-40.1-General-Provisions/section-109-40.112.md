@@ -1,0 +1,3 @@
+##### § 109-40.112 Transportation factors in the location of Government facilities. #####
+
+Transportation rate, charges, and commercial carrier transportation services shall be considered and evaluated prior to the selection of new site locations and during the planning and construction phases in the establishment of leased or relocated Government installations or facilities to ensure that consideration is given to the various transportation factors that may be involved in this relocation or deactivation.

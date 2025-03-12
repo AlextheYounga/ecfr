@@ -1,0 +1,3 @@
+##### § 109-40.306-3 Distribution. #####
+
+Each agency receiving rate tenders shall promptly submit one signed copy to the Transportation and Public Utilities Service (WIT), General Services Administration, Washington, DC 20407. Also, two copies (including at least one signed copy) shall be promptly submitted to the General Services Administration (TA), Chester A. Arthur Building, Washington, DC 20406.

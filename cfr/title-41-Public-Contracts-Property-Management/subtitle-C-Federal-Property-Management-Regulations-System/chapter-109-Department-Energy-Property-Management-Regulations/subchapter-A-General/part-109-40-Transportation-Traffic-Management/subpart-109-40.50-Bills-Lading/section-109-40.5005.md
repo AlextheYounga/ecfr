@@ -1,0 +1,5 @@
+##### § 109-40.5005 Description of property for shipment. #####
+
+(a) Each shipment shall be described on the bill of lading or other shipping document as specified by the governing freight classification, carrier's tariff, or rate tender. Shipments shall be described as specifically as possible. Trade names such as “Foamite” or “Formica,” or general terms such as “vehicles,” “furniture,” or “Government supplies,” shall not be used as bill of lading descriptions.
+
+(b) A shipment containing hazardous materials, such as explosives, radioactive materials, flammable liquids, flammable solids, oxidizers, or poison A or poison B, shall be prepared for shipment and described on bills of lading or other shipping documents in accordance with the Department of Transportation Hazardous Materials Regulation, 49 CFR, subchapter C.

@@ -1,0 +1,3 @@
+##### § 109-26.501-51 Used vehicles. #####
+
+Normally, DOE does not purchase or authorize contractors to purchase used motor vehicles. However, the Office of Management and Program Secretarial Officer (PSO) may authorize the purchase of used motor vehicles where justified by special circumstances, *e.g.,* when new motor vehicles are in short supply; motor vehicles are to be used for experimental or test purposes; or motor vehicles are acquired from exchange/sale. The statutory passenger motor vehicle allocation requirements shall apply to any purchase of used passenger motor vehicles except in the case of motor vehicles to be used exclusively for experimental or test purposes.

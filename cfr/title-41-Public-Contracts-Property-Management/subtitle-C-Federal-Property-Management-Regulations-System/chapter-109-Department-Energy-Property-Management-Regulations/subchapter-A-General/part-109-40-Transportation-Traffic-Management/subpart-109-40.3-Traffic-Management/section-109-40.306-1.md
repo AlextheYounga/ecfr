@@ -1,0 +1,3 @@
+##### § 109-40.306-1 Recommended rate tender format. #####
+
+Only those rate tenders which have been submitted by the carriers in writing shall be considered for use. Carriers should be encouraged to use the format “Uniform Tender of Rates and/or Charges for Transportation Services” when preparing and submitting rate tenders to the Government. Rate tenders that are ambiguous in meaning shall be resolved in favor of the Government.
