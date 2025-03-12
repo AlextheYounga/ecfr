@@ -1,5 +1,7 @@
 ##### § 810.15 Violations. #####
 
+Link to an amendment published at 88 FR 1979, Jan. 12, 2023.
+
 (a) The Atomic Energy Act provides that:
 
 (1) In accordance with section 232 of the AEA, permanent or temporary injunctions, restraining or other orders may be granted to prevent a violation of any provision of the Atomic Energy Act or any regulation or order issued thereunder.

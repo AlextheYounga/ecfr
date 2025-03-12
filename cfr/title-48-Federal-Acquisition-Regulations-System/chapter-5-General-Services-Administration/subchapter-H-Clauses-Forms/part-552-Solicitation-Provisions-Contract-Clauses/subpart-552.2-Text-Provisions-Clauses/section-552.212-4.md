@@ -1,12 +1,8 @@
-##### 552.212-4 Contract Terms and Conditions-Commercial Items (FAR DEVIATION). #####
+##### 552.212-4 Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION 52.212-4). #####
 
-Link to an amendment published at 87 FR 76112, Dec. 13, 2022.
+As prescribed in 512.301(b), replace subparagraph (g)(2), paragraph (s), and paragraph (u) of FAR clause 52.212-4. Also, add paragraph (w) to FAR clause 52.212-4.
 
-As prescribed in 512.301(e), replace subparagraph (g)(2), paragraph (s), and paragraph (u) of FAR clause 52.212-4. Also, add paragraph (w) to FAR clause 52.212-4.
-
-Contract Terms and Conditions - Commercial Products and Commercial Services (FAR DEVIATION) (JAN, 2022)
-
-*Alternate II*  (FAR Deviation) (NOV 2009). When a commercial item contract is contemplated and the contract will include the clause at FAR 52.212-4, insert this Alternate II instead of subparagraph (g)(2) of the FAR clause.
+Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION) (JAN, 2022)
 
 (g)(2) The due date for making invoice payments by the designated payment office is the later of the following two events:
 
@@ -22,7 +18,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (FAR
 
 (3) The clause at 52.212-5.
 
-(4) Addenda to this solicitation or contract, including any commercial supplier agreements as amended by the Commercial Supplier Agreements - Unenforceable Clauses provision.
+(4) Addenda to this solicitation or contract, including any commercial supplier agreements as amended by the Commercial Supplier Agreements—Unenforceable Clauses provision.
 
 (5) Solicitation provisions if this is a solicitation.
 
@@ -44,7 +40,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (FAR
 
 (2) Paragraph (u)(1) of this clause does not apply to indemnification or any other payment by the Government that is expressly authorized by statute and specifically authorized under applicable agency regulations and procedures.
 
-(w) *Commercial supplier agreements - unenforceable clauses.* When any supply or service acquired under this contract is subject to a commercial supplier agreement (as defined in 502.101), the following language shall be deemed incorporated into the commercial supplier agreement. As used herein, “this agreement” means the commercial supplier agreement:
+(w) *Commercial supplier agreements—unenforceable clauses.* When any supply or service acquired under this contract is subject to a commercial supplier agreement (as defined in 502.101), the following language shall be deemed incorporated into the commercial supplier agreement. As used herein, “this agreement” means the commercial supplier agreement:
 
 (1) Notwithstanding any other provision of this agreement, when the end user is an agency or instrumentality of the U.S. Government, the following shall apply:
 
@@ -98,4 +94,4 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (FAR
 
 (2) If any language, provision, or clause of this agreement conflicts or is inconsistent with the preceding paragraph (w)(1), the language, provisions, or clause of paragraph (w)(1) shall prevail to the extent of such inconsistency.
 
-(End of clause)[74 FR 54918, Oct. 26, 2009, as amended at 83 FR 7634, Feb. 22, 2018; 86 FR 68443, Dec. 2, 2021]
+(End of clause)[74 FR 54918, Oct. 26, 2009, as amended at 83 FR 7634, Feb. 22, 2018; 86 FR 68443, Dec. 2, 2021; 87 FR 76112, Dec. 13, 2022]
