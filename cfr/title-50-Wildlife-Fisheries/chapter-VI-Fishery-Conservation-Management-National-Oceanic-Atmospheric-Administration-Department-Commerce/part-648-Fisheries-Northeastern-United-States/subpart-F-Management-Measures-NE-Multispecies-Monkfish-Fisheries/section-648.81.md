@@ -89,32 +89,6 @@ Closed Area II Closure Area
 
 (E) Fishing for scallops within the Closed Area II Access Area defined in § 648.59(c)(3), during the season specified in § 648.59(c)(4), and pursuant to the provisions specified in § 648.60.
 
-(6) *Gillnet Closure Areas.* No fishing vessel using gillnet gear or person on a fishing vessel using gillnet gear may enter, fish, or be in the Closed Area I and Nantucket Lightship Closure Areas. Charts of the areas described in this section are available from the Regional Administrator upon request.
-
-(i) *Closed Area I Closure Area.* The Closed Area I Closure Area is defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
-
-Table 4 to Paragraph (a)(6)(i) - Closed Area I
-
-|Point|N lat.|W long.|
-|-----|------|-------|
-| CI1 |41°30′|69°23′ |
-| CI2 |40°45′|68°45′ |
-| CI3 |40°45′|68°30′ |
-| CI4 |41°30′|68°30′ |
-| CI1 |41°30′|69°23′ |
-
-(ii) *Nantucket Lightship Closure Area.* The Nantucket Lightship Closure Area is defined by straight lines, unless otherwise noted, connecting the following points in the order stated:
-
-Table 5 to Paragraph  (a)(6)(ii) - Nantucket Lightship Closed Area
-
-|Point|N lat.|W long.|
-|-----|------|-------|
-| G10 |40°50′|69°00′ |
-| CN1 |40°20′|69°00′ |
-| CN2 |40°20′|70°20′ |
-| CN3 |40°50′|70°20′ |
-| G10 |40°50′|69°00′ |
-
 (b) *Gulf of Maine spawning groundfish closures* - (1) *Restrictions.* Unless allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the spawning closure areas described in paragraphs (b)(3) and (4) of this section, during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
 
 (2) *Exemptions.* Paragraph (b)(1) of this section does not apply to a fishing vessel or person on a fishing vessel:
@@ -709,4 +683,4 @@ GOM Cod Protection Closure V
 | AB  |40°02.45′ N|70°14.10′ W|(\*)|
 | AA  |40°02.75′ N|70°16.10′ W|(\*)|
 
-[83 FR 15266, Apr. 9, 2018, as amended at 83 FR 17313, Apr. 19, 2018; 84 FR 68799, Dec. 17, 2019; 85 FR 44221, July 22, 2020]
+[83 FR 15266, Apr. 9, 2018, as amended at 83 FR 17313, Apr. 19, 2018; 84 FR 68799, Dec. 17, 2019; 85 FR 44221, July 22, 2020; 86 FR 62494, Nov. 10, 2021]

@@ -1,7 +1,5 @@
 ##### § 648.7 Recordkeeping and reporting requirements. #####
 
-Link to an amendment published at 85 FR 71576, Nov. 10, 2020.
-
 (a) *Dealers.* (1) Federally permitted dealers, and any individual acting in the capacity of a dealer, must submit to the Regional Administrator or to the official designee a detailed report of all fish purchased or received for a commercial purpose, other than solely for transport on land, within the time period specified in paragraph (f) of this section, by one of the available electronic reporting mechanisms approved by NMFS, unless otherwise directed by the Regional Administrator. The following information, and any other information required by the Regional Administrator, must be provided in each report:
 
 (i) *Required information.* All dealers issued a dealer permit under this part must provide: Dealer name; dealer permit number; name and permit number or name and hull number (USCG documentation number or state registration number, whichever is applicable) of vessel(s) from which fish are purchased or received; trip identifier for each trip from which fish are purchased or received from a commercial fishing vessel permitted under this part; date(s) of purchases and receipts; units of measure and amount by species (by market category, if applicable); price per unit by species (by market category, if applicable) or total value by species (by market category, if applicable); port landed; cage tag numbers for surfclams and ocean quahogs, if applicable; disposition of the seafood product; and any other information deemed necessary by the Regional Administrator. If no fish are purchased or received during a reporting week, a report so stating must be submitted.
@@ -28,61 +26,85 @@ Link to an amendment published at 85 FR 71576, Nov. 10, 2020.
 
 (4) [Reserved]
 
-(b) *Vessel owners or operators* - (1) *Fishing Vessel Trip Reports* - (i) *General.* If authorized in writing by the Regional Administrator, a vessel owner or operator may submit reports electronically, for example by using a VMS or other media. Except for vessel owners or operators fishing under a surfclam or ocean quahog permit, or fishing under a private recreational tilefish permit, the owner or operator of any vessel issued a valid permit or eligible to renew a limited access permit under this part must:
+(b) *Vessel owners or operators* - (1) *Fishing Vessel Trip Reports* - (1) *Fishing Vessel Trip Reports.* The owner or operator of any vessel issued a valid permit, or eligible to renew a limited access permit under this part must maintain on board the vessel, and submit, an accurate fishing log report for each fishing trip, regardless of species fished for or taken, by electronic means. This report must be entered into and submitted through a software application approved by NMFS. The reporting requirements specified in paragraph (b)(1)(i) of this section for an owner or operator of a vessel fishing for, possessing, or landing Atlantic chub mackerel are effective through December 31, 2020.
 
-(A) Maintain on board the vessel, and submit, an accurate fishing log report for each fishing trip, regardless of species fished for or taken, on forms supplied by or approved by the Regional Administrator.
+(i) *Vessel owners or operators.* With the exception of those vessel owners or operators fishing under a surfclam or ocean quahog permit, at least the following information as applicable and any other information required by the Regional Administrator must be provided:
 
-(B) If authorized in writing by the Regional Administrator, a vessel owner or operator may submit reports electronically, for example by using a VMS or other media.
+(A) Vessel name;
 
-(C) At least the following information and any other information required by the Regional Administrator must be provided:
+(B) USCG documentation number (or state registration number, if undocumented);
 
-(*1*) Vessel name;
+(C) Permit number;
 
-(*2*) USCG documentation number (or state registration number, if undocumented);
+(D) Date/time sailed;
 
-(*3*) Permit number;
+(E) Date/time landed;
 
-(*4*) Date/time sailed;
+(F) Trip type;
 
-(*5*) Date/time landed;
+(G) Number of crew;
 
-(*6*) Trip type;
+(H) Number of anglers (if a charter or party boat);
 
-(*7*) Number of crew;
+(I) Gear fished;
 
-(*8*) Number of anglers (if a charter or party boat);
+(J) Quantity and size of gear;
 
-(*9*) Gear fished;
+(K) Mesh/ring size;
 
-(*10*) Quantity and size of gear;
+(L) Chart area fished;
 
-(*11*) Mesh/ring size;
+(M) Average depth;
 
-(*12*) Chart area fished;
+(N) Latitude/longitude;
 
-(*13*) Average depth;
+(O) Total hauls per area fished;
 
-(*14*) Latitude/longitude (or loran station and bearings);
+(P) Average tow time duration;
 
-(*15*) Total hauls per area fished;
+(Q) Hail weight, in pounds (or count of individual fish, if a party or charter vessel), by species, of all species, or parts of species, such as monkfish livers, landed or discarded; and, in the case of skate discards, “small” (*i.e.,* less than 23 inches (58.42 cm), total length) or “large” (*i.e.,* 23 inches (58.42 cm) or greater, total length) skates;
 
-(*16*) Average tow time duration;
+(R) Dealer permit number;
 
-(*17*) Hail weight, in pounds (or count of individual fish, if a party or charter vessel), by species, of all species, or parts of species, such as monkfish livers, landed or discarded; and,
+(S) Dealer name;
 
-(*18*) In the case of skate discards, “small” (*i.e.,* less than 23 inches (58.42 cm), total length) or “large” (*i.e.,* 23 inches (58.42 cm) or greater, total length) skates;
+(T) Date sold, port and state landed; and
 
-(*19*) Dealer permit number;
+(U) Vessel operator's name, signature, and operator's permit number (if applicable).
 
-(*20*) Dealer name;
+(ii) *Atlantic mackerel owners or operators.* The owner or operator of a vessel issued a limited access Atlantic mackerel permit must report catch (retained and discarded) of Atlantic mackerel daily via VMS, unless exempted by the Regional Administrator. The report must include at least the following information, and any other information required by the Regional Administrator: Fishing Vessel Trip Report serial number; month, day, and year Atlantic mackerel was caught; total pounds of Atlantic mackerel retained and total pounds of all fish retained. Daily Atlantic mackerel VMS catch reports must be submitted in 24-hr intervals for each day and must be submitted by 0900 hr on the following day. Reports are required even if Atlantic mackerel caught that day have not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
 
-(*21*) Date sold, port and state landed; and
+(iii) *Surfclam and Ocean Quahog owners or operators.* The owner or operator of any vessel conducting any surfclam and ocean quahog fishing operations must provide at least the following information and any other information required by the Regional Administrator:
 
-(*22*) Vessel operator's name, signature, and operator's permit number (if applicable).
+(A) Name and permit number of the vessel;
 
-(ii) *Surfclam and ocean quahog vessel owners and operators.* The owner or operator of any vessel conducting any surfclam and ocean quahog fishing operations, except those conducted exclusively in waters of a state that requires cage tags or when he/she has surrendered the surfclam and ocean quahog fishing vessel permit, shall maintain, on board the vessel, an accurate daily fishing log for each fishing trip, on forms supplied by the Regional Administrator, showing at least: Name and permit number of the vessel, total amount in bushels of each species taken, date(s) caught, time at sea, duration of fishing time, locality fished, crew size, crew share by percentage, landing port, date sold, price per bushel, buyer, tag numbers from cages used, quantity of surfclams and ocean quahogs discarded, and allocation permit number.
+(B) Total amount in bushels of each species taken;
 
-(iii) *Charter/Party vessel permit owners and operators.* The owner or operator of any fishing vessel that holds a Federal charter/party (for-hire) permit to fish for Atlantic bluefish, black sea bass, scup, summer flounder, tilefish, Atlantic mackerel, squid, and/or butterfish, when on a trip carrying passengers for hire, must submit the required Vessel Trip Report by electronic means. This report must be submitted through a software application approved by NMFS and must contain all applicable information outlined in paragraph (b)(1)(i)(C) of this section.
+(C) Date(s) caught;
+
+(D) Time at sea;
+
+(E) Duration of fishing time;
+
+(F) Locality fished;
+
+(G) Crew size;
+
+(H) Crew share by percentage;
+
+(I) Landing port;
+
+(J) Date sold;
+
+(K) Price per bushel;
+
+(L) Buyer;
+
+(M) Tag numbers from cages used;
+
+(N) Quantity of surfclams and ocean quahogs discarded; and
+
+(O) Allocation permit number.
 
 (iv) *Private tilefish recreational vessel owners and operators.* The owner or operator of any fishing vessel that holds a Federal private recreational tilefish permit, must report for each recreational trip fishing for or retaining blueline or golden tilefish in the Tilefish Management Unit. The required Vessel Trip Report must be submitted by electronic means. This report must be submitted through a NMFS-approved electronic reporting system within 24 hours of the trip returning to port. The vessel operator may keep paper records while onboard and upload the data after landing. The report must contain the following information:
 
@@ -100,7 +122,7 @@ Link to an amendment published at 85 FR 71576, Nov. 10, 2020.
 
 (G) Number of anglers;
 
-(H) Species
+(H) Species;
 
 (I) Gear fished;
 
@@ -142,15 +164,13 @@ Link to an amendment published at 85 FR 71576, Nov. 10, 2020.
 
 (iii) *Longfin squid moratorium permit owners or operators.* The owner or operator of a vessel issued a longfin squid moratorium permit must report catch (retained and discarded) of longfin squid daily via VMS, unless exempted by the Regional Administrator. The report must include at least the following information, and any other information required by the Regional Administrator: Fishing Vessel Trip Report serial number; month, day, and year longfin squid was caught; total pounds longfin squid retained and total pounds of all fish retained. Daily longfin squid VMS catch reports must be submitted in 24-hr intervals for each day and must be submitted by 0900 hr on the following day. Reports are required even if longfin squid caught that day have not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
 
-(c) *When to fill out a log report.* Log reports required by paragraph (b)(1)(i) of this section must be filled out with all required information, except for information not yet ascertainable, prior to entering port. Information that may be considered unascertainable prior to entering port includes dealer name, dealer permit number, and date sold. Log reports must be completed as soon as the information becomes available. Log reports required by paragraph (b)(1)(ii) of this section must be filled out before landing any surfclams or ocean quahogs.
+(c) *When to fill out a vessel trip report.* Vessel trip reports required by paragraph (b)(1)(i) of this section must be filled out with all required information, except for information not yet ascertainable, prior to entering port. Information that may be considered unascertainable prior to entering port includes dealer name, dealer permit number, and date sold. Vessel trip reports must be completed as soon as the information becomes available. Vessel trip reports required by paragraph (b)(1)(iii) of this section must be filled out before landing any surfclams or ocean quahogs.
 
-(d) *Inspection.* Upon the request of an authorized officer or an employee of NMFS designated by the Regional Administrator to make such inspections, all persons required to submit reports under this part must make immediately available for inspection copies of reports, and all records upon which those reports are or will be based, that are required to be submitted or kept under this part.
+(d) *Inspection.* Upon the request of an authorized officer or an employee of NMFS designated by the Regional Administrator to make such inspections, all persons required to submit reports under this part must make immediately available for inspection reports, and all records upon which those reports are or will be based, that are required to be submitted or kept under this part.
 
 (e) *Record retention* - (1) *Dealer records.* Any record, as defined in § 648.2, related to fish possessed, received, or purchased by a dealer that is required to be reported, must be retained and made available for immediate review for a total of 3 years after the date the fish were first possessed, received, or purchased. Dealers must retain the required records and reports at their principal place of business.
 
-(2) *VTRs.* Copies of fishing log reports must be kept on board the vessel and available for review for at least 1 year, and must be retained for a total of 3 years after the date the fish were last possessed, landed, and sold.
-
-(3) *At-sea monitor reports.* Any record, as defined in § 648.2, related to fish observed by an at-sea monitor, including any reports provided to NMFS, sector managers, or another third-party service provider specified in paragraph (h) of this section, must be retained and made available for immediate review for a total of 3 years after the date the fish were first observed. At-sea monitor providers must retain the required records and reports at their principal place of business.
+(2) [Reserved]
 
 (f) *Submitting reports* - (1) *Dealer or processor reports.* (i) Detailed reports required by paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week. If no fish are purchased or received during a reporting week, the report so stating required under paragraph (a)(1)(i) of this section must be received by midnight of the first Tuesday following the end of the reporting week.
 
@@ -164,13 +184,13 @@ Link to an amendment published at 85 FR 71576, Nov. 10, 2020.
 
 (vi) Annual reports for a calendar year must be postmarked or received by February 10 of the following year. Contact the Regional Administrator (see Table 1 to § 600.502) for the address of NMFS Statistics.
 
-(2) *Fishing vessel log reports.* (i) For any vessel not issued a NE multispecies; Atlantic herring permit; or any Atlantic mackerel, longfin squid, *Illex* squid, or butterfish permit; fishing vessel log reports, required by paragraph (b)(1)(i) of this section, must be postmarked or received by NMFS within 15 days after the end of the reporting month. For any vessel issued a NE multispecies permit; Atlantic herring permit; or any Atlantic mackerel, longfin squid, *Illex* squid, or butterfish permit; fishing vessel log reports must be postmarked or received by midnight of the first Tuesday following the end of the reporting week. For the purposes of this paragraph (f)(2)(i), the date when fish are offloaded will establish the reporting week or month the VTR must be submitted to NMFS, as appropriate.
+(2) *Fishing vessel trip reports* - (i) *Timing requirements.* For any vessel issued a valid commercial or charter/party permit, or eligible to renew a limited access permit under this part, fishing vessel trip reports, required by paragraph (b)(1) of this section, must be submitted within 48 hours at the conclusion of a trip.
 
-(ii) Surfclam and ocean quahog log reports, required by paragraph (b)(1)(ii) of this section, must be postmarked or received within 3 days after the end of each reporting week.
+(ii) *Commercial trips.* For the purposes of paragraph (f)(2) of this section, the date when fish are offloaded from a commercial vessel will establish the conclusion of a commercial trip.
 
-(iii) Charter/Party vessel electronic log reports, required by paragraph (b)(1)(iii) of this section, must be submitted within 48 hours after entering port at the conclusion of a trip.
+(iii) *Charter/party trips.* For the purposes of paragraph (f)(2) of this section, the date a charter/party vessel enters port will establish the conclusion of a for-hire trip.
 
-(iv) Private recreational tilefish electronic log reports, required by paragraph (b)(1)(iv) of this section, must be submitted within 24 hours after entering port at the conclusion of a trip.
+(iv) *Private recreational tilefish trips.* Private recreational tilefish electronic log reports, required by paragraph (b)(1)(iv) of this section, must be submitted within 24 hours after entering port at the conclusion of a trip.
 
 (3) *At-sea purchasers and processors.* With the exception of the owner or operator of an Atlantic herring carrier vessel, the owner or operator of an at-sea purchaser or processor that purchases or processes any Atlantic herring, Atlantic mackerel, squid, butterfish, scup, or black sea bass at sea must submit information identical to that required by paragraph (a)(1) of this section and provide those reports to the Regional Administrator or designee by the same mechanism and on the same frequency basis.
 

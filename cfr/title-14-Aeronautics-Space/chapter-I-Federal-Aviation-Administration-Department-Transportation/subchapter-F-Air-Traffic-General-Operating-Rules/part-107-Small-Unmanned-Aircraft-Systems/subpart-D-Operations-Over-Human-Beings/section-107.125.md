@@ -1,12 +1,12 @@
 ##### § 107.125 Category 3 operations: Operating requirements. #####
 
-To conduct Category 3 operations, a remote pilot in command -
+To conduct Category 3 operations, a remote pilot in command—
 
-(a) Must use a small unmanned aircraft that -
+(a) Must use a small unmanned aircraft that—
 
 (1) Is eligible for Category 3 operations pursuant to § 107.130(a);
 
-(2) Is listed on a current declaration of compliance as eligible for Category 3 operations in accordance with § 107.160; and
+(2) Is listed on an FAA-accepted declaration of compliance as eligible for Category 3 operations in accordance with § 107.160; and
 
 (3) Is labeled as eligible for Category 3 operations in accordance with § 107.130(b)(1);
 
@@ -16,8 +16,10 @@ To conduct Category 3 operations, a remote pilot in command -
 
 (1) The operation is within or over a closed- or restricted-access site and all human beings located within the closed- or restricted-access site must be on notice that a small unmanned aircraft may fly over them; or
 
-(2) The small unmanned aircraft does not maintain sustained flight over any human being unless that human being is -
+(2) The small unmanned aircraft does not maintain sustained flight over any human being unless that human being is—
 
 (i) Directly participating in the operation of the small unmanned aircraft; or
 
 (ii) Located under a covered structure or inside a stationary vehicle that can provide reasonable protection from a falling small unmanned aircraft.
+
+[Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021, as amended by 86 FR 62473, Nov. 10, 2021]

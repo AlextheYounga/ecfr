@@ -22,7 +22,23 @@ Grantees may provide the following services which are necessary for maintaining 
 
 (7) Grantees may require participants to share in the cost of rent as a condition of receiving rental assistance.
 
-(8) Extremely low-income veteran families and very low-income veteran families who meet the criteria of § 62.11 may be eligible to receive a rental subsidy for a 2-year period without recertification. The applicable counties will be published annually in the Federal Register. A family must live in one of these applicable counties to be eligible for this subsidy. The counties will be chosen based on the cost and availability of affordable housing for both individuals and families within that county. The maximum amount of this rental subsidy is 35 percent of the applicable Fair Market Rent (FMR) published by HUD. Grantees must collaborate with their local Continuum of Care (CoC) as defined at 24 CFR 578.3 to determine the proper subsidy amounts to be used by all grantees in each applicable county. Grantees must provide a letter of support from their local CoC to the SSVF Program Office when requesting VA approval of this subsidy. The SSVF Program Office must approve all subsidy requests before the subsidy is used. Very low-income veteran families may receive this subsidy for a period of two years before certification minus the number of months in which the recipient received the rental assistance provided under paragraph (a)(1) of this section. Extremely low-income veteran families may receive this subsidy for up to a 2-year period before recertification following receipt of the paragraph (a)(1) rental assistance. For any month, the total rental payments provided to a family under this paragraph cannot be more than the total amount of rent. Payment of this subsidy by a grantee must conform to the requirements set forth in paragraphs (a)(2) through (7) of this section. The rental subsidy amount will not change for the veteran family in the second year of the two-year period, even if the annual amount published changes. A veteran family will not need to be recertified as a very low-income veteran family as provided for by § 62.36(a) during the initial two-year period. After an initial two-year period, a family receiving this subsidy, or a combination of the rental assistance under paragraph (a)(1) and this subsidy, may continue to receive rental payments under this section, but would require recertification at that time and once every two years.
+(8) Extremely low-income veteran families and very low-income veteran families who meet the criteria of § 62.11 may be eligible to receive a rental subsidy as follows:
+
+(i) For a 2-year period without recertification.
+
+(ii) The applicable counties will be published annually in the Federal Register. A family must live in one of these applicable counties to be eligible for this subsidy. The counties will be chosen based on the cost and availability of affordable housing for both individuals and families within that county.
+
+(iii) The maximum amount of this rental subsidy is 50 percent of reasonable rent as defined by paragraph (a)(4) of this section. Grantees must collaborate with their local Continuum of Care (CoC) as defined at 24 CFR 578.3 to determine the proper subsidy amounts to be used by all grantees in each applicable county.
+
+(iv) Grantees must provide a letter of support from their local CoC to the Supportive Services for Veteran Families (SSVF) Program Office when requesting VA approval of this subsidy. The SSVF Program Office must approve all subsidy requests before the subsidy is used.
+
+(v) Very low-income veteran families may receive this subsidy for a period of two years before recertification minus the number of months in which the recipient received the rental assistance provided under paragraph (a)(1) of this section.
+
+(vi) Extremely low-income veteran families may receive this subsidy for up to a 2-year period before recertification following receipt of rental assistance under paragraph (a)(1) of this section.
+
+(vii) For any month, the total rental payments provided to a family under this paragraph (a)(8) cannot be more than the total amount of rent. Payment of this subsidy by a grantee must conform to the requirements set forth in paragraphs (a)(2) through (7) of this section. The rental subsidy amount will not change for the veteran family in the second year of the two-year period, even if the annual amount published changes.
+
+(viii) A veteran family will not need to be recertified as a very low-income veteran family as provided for by § 62.36(a) during the initial two-year period. After an initial two-year period, a family receiving this subsidy, or a combination of the rental assistance under paragraph (a)(1) of this section and this subsidy, may continue to receive rental payments under this section, but would require recertification at that time and once every two years.
 
 (b) *Utility-fee payment assistance.* Payment of utility fees to help the participant to remain in permanent housing or obtain permanent housing.
 
@@ -64,7 +80,7 @@ Grantees may provide the following services which are necessary for maintaining 
 
 (e) *General housing stability assistance.* (1) A grantee may provide to a participant items necessary for a participant's life or safety on a temporary basis, in order to address a participant's emergency situation.
 
-(2) A grantee may pay directly to a third party (and not to a participant), in an amount not to exceed $1,500 per participant during any 2-year period, beginning on the date that the grantee first submits a payment to a third party, the following types of expenses:
+(2) A grantee may pay directly to a third party (and not to a participant), in an amount not to exceed $1,800, per participant during any 2-year period, beginning on the date that the grantee first submits a payment to a third party. This cap will be adjusted annually based on the Consumer Price Index for all Urban Consumers (CPI-U). This amount is for the following types of expenses:
 
 (i) Expenses associated with gaining or keeping employment, such as obtaining uniforms, tools, certifications, and licenses.
 
@@ -78,7 +94,7 @@ Grantees may provide the following services which are necessary for maintaining 
 
 (1) Placement for a single veteran may not exceed 72 hours, unless the grantee can certify that appropriate shelter beds and transitional housing are still unavailable at the end of the 72 hour period.
 
-(2) Placement for a veteran and his or her spouse with dependent(s) may not exceed 45 days.
+(2) Placement for a veteran and his or her spouse with dependent(s) may not exceed 60 days.
 
 (3) A participant may be placed in emergency housing only once during any 2-year period, beginning on the date that the grantee first pays for emergency housing on behalf of the participant.
 
@@ -88,4 +104,4 @@ Grantees may provide the following services which are necessary for maintaining 
 
 (g) *Other.* Other services as set forth in the Notice of Fund Availability or as approved by VA that are consistent with the Supportive Services for Veteran Families Program. Applicants may propose additional services in their supportive services grant application, and grantees may propose additional services by submitting a written request to modify the supportive services grant in accordance with § 62.60.
 
-(Authority: 38 U.S.C. 501, 2044)[75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9611, Feb. 24, 2015; 84 FR 45077, Aug. 28, 2019]
+(Authority: 38 U.S.C. 501, 2044)[75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9611, Feb. 24, 2015; 84 FR 45077, Aug. 28, 2019; 86 FR 62485, Nov. 10, 2021]

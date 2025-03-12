@@ -4,7 +4,7 @@
 
 (b) *Identification of the client.* In the case of a private investment company, as defined in paragraph (d)(3) of this section, an investment company registered under the Investment Company Act of 1940, or a business development company, as defined in section 202(a)(22) of the Act (15 U.S.C. 80b-2(a)(22)), each equity owner of any such company (except for the investment adviser entering into the contract and any other equity owners not charged a fee on the basis of a share of capital gains or capital appreciation) will be considered a client for purposes of paragraph (a) of this section.
 
-(c) *Transition rules* - (1) *Registered investment advisers.* If a registered investment adviser entered into a contract and satisfied the conditions of this section that were in effect when the contract was entered into, the adviser will be considered to satisfy the conditions of this section; *Provided,* however, that if a natural person or company who was not a party to the contract becomes a party (including an equity owner of a private investment company advised by the adviser), the conditions of this section in effect at that time will apply with regard to that person or company.
+(c) *Transition rules*—(1) *Registered investment advisers.* If a registered investment adviser entered into a contract and satisfied the conditions of this section that were in effect when the contract was entered into, the adviser will be considered to satisfy the conditions of this section; *Provided,* however, that if a natural person or company who was not a party to the contract becomes a party (including an equity owner of a private investment company advised by the adviser), the conditions of this section in effect at that time will apply with regard to that person or company.
 
 (2) *Registered investment advisers that were previously not registered.* If an investment adviser was not required to register with the Commission pursuant to section 203 of the Act (15 U.S.C. 80b-3) and was not registered, section 205(a)(1) of the Act will not apply to an advisory contract entered into when the adviser was not required to register and was not registered, or to an account of an equity owner of a private investment company advised by the adviser if the account was established when the adviser was not required to register and was not registered; *Provided,* however, that section 205(a)(1) of the Act will apply with regard to a natural person or company who was not a party to the contract and becomes a party (including an equity owner of a private investment company advised by the adviser) when the adviser is required to register.
 
@@ -14,11 +14,11 @@
 
 (1) The term *qualified client* means:
 
-(i) A natural person who, or a company that, immediately after entering into the contract has at least $1,000,000 under the management of the investment adviser;
+(i) A natural person who, or a company that, immediately after entering into the contract has, under the management of the investment adviser, at least the applicable dollar amount specified in the most recent order;
 
 (ii) A natural person who, or a company that, the investment adviser entering into the contract (and any person acting on his behalf) reasonably believes, immediately prior to entering into the contract, either:
 
-(A) Has a net worth (together, in the case of a natural person, with assets held jointly with a spouse) of more than $2,000,000. For purposes of calculating a natural person's net worth:
+(A) Has a net worth (together, in the case of a natural person, with assets held jointly with a spouse) of more than the applicable dollar amount specified in the most recent order. For purposes of calculating a natural person's net worth:
 
 (*1*) The person's primary residence must not be included as an asset;
 
@@ -40,7 +40,9 @@
 
 (4) The term *executive officer* means the president, any vice president in charge of a principal business unit, division or function (such as sales, administration or finance), any other officer who performs a policy-making function, or any other person who performs similar policy-making functions, for the investment adviser.
 
-(e) *Inflation adjustments.* Pursuant to section 205(e) of the Act, the dollar amounts specified in paragraphs (d)(1)(i) and (d)(1)(ii)(A) of this section shall be adjusted by order of the Commission, on or about May 1, 2016 and issued approximately every five years thereafter. The adjusted dollar amounts established in such orders shall be computed by:
+(5) The term *most recent order* means the most recently issued Commission order in accordance with paragraph (e) of this section and as published in the Federal Register.
+
+(e) *Inflation adjustments.* Pursuant to section 205(e) of the Act, the dollar amounts referenced in paragraphs (d)(1)(i) and (d)(1)(ii)(A) of this section shall be adjusted, by order of the Commission, issued on or about May 1, 2026, and approximately every five years thereafter. The adjusted dollar amounts established in such orders shall be computed by:
 
 (1) Dividing the year-end value of the Personal Consumption Expenditures Chain-Type Price Index (or any successor index thereto), as published by the United States Department of Commerce, for the calendar year preceding the calendar year in which the order is being issued, by the year-end value of such index (or successor) for the calendar year 1997;
 
@@ -48,4 +50,4 @@
 
 (3) For the dollar amount in paragraph (d)(1)(ii)(A) of this section, multiplying $1,500,000 times the quotient obtained in paragraph (e)(1) of this section and rounding the product to the nearest multiple of $100,000.
 
-[63 FR 39027, July 21, 1998, as amended at 69 FR 72088, Dec. 10, 2004; 77 FR 10368, Feb. 22, 2012]
+[63 FR 39027, July 21, 1998, as amended at 69 FR 72088, Dec. 10, 2004; 77 FR 10368, Feb. 22, 2012; 86 FR 62475, Nov. 10, 2021
