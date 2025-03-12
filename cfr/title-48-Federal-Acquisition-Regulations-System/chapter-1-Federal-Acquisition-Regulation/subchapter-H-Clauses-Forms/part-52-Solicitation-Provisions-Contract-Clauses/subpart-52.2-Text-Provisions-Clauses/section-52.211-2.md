@@ -1,5 +1,7 @@
 ##### 52.211-2 Availability of Specifications, Standards, and Data Item Descriptions Listed in the Acquisition Streamlining and Standardization Information System (ASSIST). #####
 
+Link to an amendment published at 86 FR 31075, June 10, 2021.
+
 As prescribed in 11.204(b), insert the following provision:
 
 Availability of Specifications, Standards, and Data Item Descriptions Listed in the Acquisition Streamlining and Standardization Information System (ASSIST) (APR 2014)

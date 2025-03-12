@@ -1,5 +1,7 @@
 ##### 26.201 Definitions. #####
 
+Link to an amendment published at 86 FR 31075, June 10, 2021.
+
 *Emergency response contrac*t means a contract with private entities that supports assistance activities in a major disaster or emergency area, such as debris clearance, distribution of supplies, or reconstruction.
 
 *Local firm* means a private organization, firm, or individual residing or doing business primarily in a major disaster or emergency area.

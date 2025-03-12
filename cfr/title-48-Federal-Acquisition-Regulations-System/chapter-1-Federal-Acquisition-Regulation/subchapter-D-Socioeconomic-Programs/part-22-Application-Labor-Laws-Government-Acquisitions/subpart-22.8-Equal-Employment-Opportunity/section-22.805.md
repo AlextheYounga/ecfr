@@ -1,5 +1,7 @@
 ##### 22.805 Procedures. #####
 
+Link to an amendment published at 86 FR 31074, June 10, 2021.
+
 (a) *Preaward clearances for contracts and subcontracts of $10 million or more (excluding construction).* (1) Except as provided in paragraphs (a)(4) and (a)(8) of this section, if the estimated amount of the contract or subcontract is $10 million or more, the contracting officer shall request clearance from the appropriate OFCCP regional office before -
 
 (i) Award of any contract, including any indefinite delivery contract or letter contract; or

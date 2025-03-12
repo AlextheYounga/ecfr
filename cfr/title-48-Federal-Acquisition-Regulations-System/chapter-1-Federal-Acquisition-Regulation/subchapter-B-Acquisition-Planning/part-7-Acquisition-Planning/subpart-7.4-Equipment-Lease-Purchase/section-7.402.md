@@ -1,5 +1,7 @@
 ##### 7.402 Acquisition methods. #####
 
+Link to an amendment published at 86 FR 31072, June 10, 2021.
+
 (a) *Purchase method.* (1) Generally, the purchase method is appropriate if the equipment will be used beyond the point in time when cumulative leasing costs exceed the purchase costs.
 
 (2) Agencies should not rule out the purchase method of equipment acquisition in favor of leasing merely because of the possibility that future technological advances might make the selected equipment less desirable.

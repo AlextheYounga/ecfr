@@ -26,7 +26,7 @@
 
 (d) *Independence and identity of faith-based organizations.* (1) A faith-based organization that applies for, or participates in, a HUD program or activity supported with Federal financial assistance retains its autonomy, right of expression, religious character, authority over its governance, and independence, and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs. A faith-based organization that receives Federal financial assistance from HUD does not lose the protections of law.
 
-Note 1 to Paragraph (d)(1):
+Note 1 to paragraph (d)(1):
 
 Memorandum for All Executive Departments and Agencies, From the Attorney General, “Federal Law Protections for Religious Liberty” (Oct. 6, 2017) (describing Federal law protections for religious liberty).
 
@@ -34,7 +34,7 @@ Memorandum for All Executive Departments and Agencies, From the Attorney General
 
 (e) *Explicitly religious activities.* If an organization engages in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), the explicitly religious activities must be offered separately, in time or location, from the programs or activities supported by direct Federal financial assistance and participation must be voluntary for the beneficiaries of the programs or activities that receive direct Federal financial assistance. The use of indirect Federal financial assistance is not subject to this restriction. Nothing in this part restricts HUD's authority under applicable Federal law to fund activities, that can be directly funded by the Government consistent with the Establishment Clause of the U.S. Constitution.
 
-(f) *Intermediary responsibilities to ensure equal participation of faith-based organizations in HUD programs.* If an intermediary - acting under a contract, grant, or other agreement with the Federal Government or with a State, tribal or local government that is administering a program supported by Federal financial assistance - is given the authority to select a nongovernmental organization to receive Federal financial assistance under a contract, grant, sub-grant, sub-award, or cooperative agreement, the intermediary must ensure that such organization complies with the requirements of this section. If the intermediary is a nongovernmental organization, it retains all other rights of a nongovernmental organization under the program's statutory and regulatory provisions.
+(f) *Intermediary responsibilities to ensure equal participation of faith-based organizations in HUD programs.* If an intermediary—acting under a contract, grant, or other agreement with the Federal Government or with a State, tribal or local government that is administering a program supported by Federal financial assistance—is given the authority to select a nongovernmental organization to receive Federal financial assistance under a contract, grant, sub-grant, sub-award, or cooperative agreement, the intermediary must ensure that such organization complies with the requirements of this section. If the intermediary is a nongovernmental organization, it retains all other rights of a nongovernmental organization under the program's statutory and regulatory provisions.
 
 (g) *Nondiscrimination requirements.* Any organization that receives Federal financial assistance under a HUD program or activity shall not, in providing services with such assistance or carrying out activities with such assistance, discriminate against a beneficiary or prospective beneficiary on the basis of religion, religious belief, a refusal to hold a religious belief, or a refusal to attend or participate in a religious practice. However, an organization that participates in a program funded by indirect Federal financial assistance need not modify its program or activities to accommodate a beneficiary who chooses to expend the indirect aid on the organization's program and may require attendance at all activities that are fundamental to the program.
 
@@ -50,7 +50,7 @@ Memorandum for All Executive Departments and Agencies, From the Attorney General
 
 (1) Proof that the Internal Revenue Service currently recognizes the applicant as an organization to which contributions are tax deductible under section 501(c)(3) of the Internal Revenue Code;
 
-(2) A statement from a State or other governmental taxing body or the State secretary of State certifying that -
+(2) A statement from a State or other governmental taxing body or the State secretary of State certifying that—
 
 (i) The organization is a nonprofit organization operating within the State; and
 

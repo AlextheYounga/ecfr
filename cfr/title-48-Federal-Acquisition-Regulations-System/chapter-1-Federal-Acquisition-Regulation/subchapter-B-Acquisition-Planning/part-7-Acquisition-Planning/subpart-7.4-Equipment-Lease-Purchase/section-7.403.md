@@ -1,5 +1,7 @@
 ##### 7.403 General Services Administration assistance. #####
 
+Link to an amendment published at 86 FR 31072, June 10, 2021.
+
 (a) When requested by an agency, the General Services Administration (GSA) will assist in lease or purchase decisions by providing information such as -
 
 (1) Pending price adjustments to Federal Supply Schedule contracts;

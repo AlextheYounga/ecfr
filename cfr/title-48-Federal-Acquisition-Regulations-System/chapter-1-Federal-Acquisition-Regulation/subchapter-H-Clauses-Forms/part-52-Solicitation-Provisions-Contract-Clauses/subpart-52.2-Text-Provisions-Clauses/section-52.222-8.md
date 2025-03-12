@@ -1,5 +1,7 @@
 ##### 52.222-8 Payrolls and Basic Records. #####
 
+Link to an amendment published at 86 FR 31075, June 10, 2021.
+
 As prescribed in 22.407(a), insert the following clause:
 
 Payrolls and Basic Records (AUG 2018)

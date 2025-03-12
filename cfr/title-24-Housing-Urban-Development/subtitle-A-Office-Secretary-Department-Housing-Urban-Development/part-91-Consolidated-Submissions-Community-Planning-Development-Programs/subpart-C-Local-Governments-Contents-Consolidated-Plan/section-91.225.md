@@ -1,5 +1,7 @@
 ##### § 91.225 Certifications. #####
 
+Link to an amendment published at 86 FR 30792, June 10, 2021.
+
 (a) *General.* The following certifications, satisfactory to HUD, must be included in the annual submission to HUD. (See definition of “certification” in § 91.5.)
 
 (1) *Affirmatively furthering fair housing.* Each jurisdiction is required to submit a certification that it will affirmatively further fair housing. This includes certification that the grantee will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this chapter.

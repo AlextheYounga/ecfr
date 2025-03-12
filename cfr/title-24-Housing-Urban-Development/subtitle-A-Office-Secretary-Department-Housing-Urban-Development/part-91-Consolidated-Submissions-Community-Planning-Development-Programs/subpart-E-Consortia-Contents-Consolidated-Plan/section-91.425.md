@@ -1,5 +1,7 @@
 ##### § 91.425 Certifications. #####
 
+Link to an amendment published at 86 FR 30792, June 10, 2021.
+
 (a) *Consortium certifications* - (1) *General* - (i) *Affirmatively furthering fair housing.* Each consortium must submit a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this chapter.
 
 (ii) *Anti-displacement and relocation plan.* Each consortium must certify that it has in effect and is following a residential antidisplacement and relocation assistance plan in connection with any activity assisted with funding under the HOME or CDBG program.

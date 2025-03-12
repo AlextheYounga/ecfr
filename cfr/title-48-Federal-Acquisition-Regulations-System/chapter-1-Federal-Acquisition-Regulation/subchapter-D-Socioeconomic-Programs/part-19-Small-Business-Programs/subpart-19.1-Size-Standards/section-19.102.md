@@ -1,5 +1,7 @@
 ##### 19.102 Small business size standards and North American Industry Classification System codes. #####
 
+Link to an amendment published at 86 FR 31074, June 10, 2021.
+
 (a) *Locating size standards and North American Industry Classification System codes.* (1) SBA establishes small business size standards on an industry-by-industry basis. Small business size standards and corresponding North American Industry Classification System (NAICS) codes are provided at 13 CFR 121.201. They are also available at *https://www.sba.gov/document/support - table-size-standards”*.
 
 (2) NAICS codes are updated by the Office of Management and Budget through its Economic Classification Policy Committee every five years. New NAICS codes are not available for use in Federal contracting until SBA publishes corresponding size standards. NAICS codes are available from the U.S. Census Bureau at *https://www.census.gov/eos/www/naics/*.

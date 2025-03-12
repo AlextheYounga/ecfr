@@ -1,5 +1,7 @@
 ##### 7.401 Acquisition considerations. #####
 
+Link to an amendment published at 86 FR 31072, June 10, 2021.
+
 (a) Agencies should consider whether to lease or purchase equipment based on a case-by-case evaluation of comparative costs and other factors. The following factors are the minimum that should be considered:
 
 (1) Estimated length of the period the equipment is to be used and the extent of use within that period.

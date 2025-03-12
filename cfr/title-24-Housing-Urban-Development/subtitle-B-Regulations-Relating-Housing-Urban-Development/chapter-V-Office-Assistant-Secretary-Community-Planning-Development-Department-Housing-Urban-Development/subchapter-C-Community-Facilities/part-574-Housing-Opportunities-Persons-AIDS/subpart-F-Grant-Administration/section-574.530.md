@@ -1,5 +1,7 @@
 ##### § 574.530 Recordkeeping. #####
 
+Link to an amendment published at 86 FR 30792, June 10, 2021.
+
 Each grantee must ensure that records are maintained for a 4-year period to document compliance with the provisions of this part. Grantees must maintain the following:
 
 (a) Current and accurate data on the race and ethnicity of program participants.

@@ -1,5 +1,7 @@
 ##### 19.812 Contract administration. #####
 
+Link to an amendment published at 86 FR 31074, June 10, 2021.
+
 (a) The contracting officer shall assign contract administration functions, as required, based on the location of the 8(a) contractor (see Federal Directory of Contract Administration Services Components (available via the Internet at*https://pubapp.dcma.mil/CASD/main.jsp”.*
 
 (b) The agency shall distribute copies of the contract(s) in accordance with part 4. All contracts and modifications, if any, shall be distributed to both the SBA and the 8(a) contractor in accordance with the timeframes set forth in 4.201.

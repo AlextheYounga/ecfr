@@ -1,5 +1,7 @@
 ##### 53.236-2 Architect-engineer services (SF's 252 and 330). #####
 
+Link to an amendment published at 86 FR 31075, June 10, 2021.
+
 The following forms are prescribed for use in contracting for architect-engineer and related services:
 
 (a) *SF 252 (Rev. 10/83), Architect-Engineer Contract.* SF 252 is prescribed for use in awarding fixed-price contracts for architect-engineer services, as specified in 36.702(a). [Pending issuance of a new edition of the form, Block 8, Negotiation Authority, is deleted.]

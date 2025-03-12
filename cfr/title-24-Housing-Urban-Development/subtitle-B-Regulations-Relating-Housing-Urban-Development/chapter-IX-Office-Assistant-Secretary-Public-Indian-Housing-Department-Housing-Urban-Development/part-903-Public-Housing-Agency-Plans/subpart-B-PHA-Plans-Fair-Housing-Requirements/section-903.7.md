@@ -1,5 +1,7 @@
 ##### § 903.7 What information must a PHA provide in the Annual Plan? #####
 
+Link to an amendment published at 86 FR 30792, June 10, 2021.
+
 With the exception of the first Annual Plan submitted by a PHA, the Annual Plan must include the information provided in this section. HUD will advise PHAs by separate notice, sufficiently in advance of the first Annual Plan due date, of the information, described in this section that must be part of the first Annual Plan submission, and any additional instructions or directions that may be necessary to prepare and submit the first Annual Plan. The information described in this section applies to both public housing and tenant-based assistance, except where specifically stated otherwise. The information that the PHA must submit for HUD approval under the Annual Plan includes the discretionary policies of the various plan components or elements (for example, rent policies) and not the statutory or regulatory requirements that govern these plan components and that provide no discretion on the part of the PHA in implementation of the requirements. The PHA's Annual Plan must be consistent with the goals and objectives of the PHA's 5-Year Plan.
 
 (a) *A statement of housing needs.* (1) This statement must address the housing needs of the low-income and very low-income families who reside in the jurisdiction served by the PHA, and other families who are on the public housing and Section 8 tenant-based assistance waiting lists, including:

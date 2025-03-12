@@ -1,5 +1,7 @@
 ##### 11.201 Identification and availability of specifications. #####
 
+Link to an amendment published at 86 FR 31074, June 10, 2021.
+
 (a) Solicitations citing requirements documents listed in the General Services Administration (GSA) Index of Federal Specifications, Standards and Commercial Item Descriptions, the DoD Acquisition Streamlining and Standardization Information System (ASSIST), or other agency index shall identify each document's approval date and the dates of any applicable amendments and revisions. Do not use general identification references, such as “the issue in effect on the date of the solicitation.” Contracting offices will not normally furnish these cited documents with the solicitation, except when -
 
 (1) The requirements document must be furnished with the solicitation to enable prospective contractors to make a competent evaluation of the solicitation;

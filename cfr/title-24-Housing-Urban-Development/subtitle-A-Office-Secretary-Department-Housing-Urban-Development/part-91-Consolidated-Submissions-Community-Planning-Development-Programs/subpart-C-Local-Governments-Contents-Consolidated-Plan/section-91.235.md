@@ -1,5 +1,7 @@
 ##### § 91.235 Special case; abbreviated consolidated plan. #####
 
+Link to an amendment published at 86 FR 30792, June 10, 2021.
+
 (a) *Who may submit an abbreviated plan?* A jurisdiction that is not a CDBG entitlement community under 24 CFR part 570, subpart D, and is not expected to be a participating jurisdiction in the HOME program under 24 CFR part 92, as well as an Insular Area that is a HOME or CDBG grantee, may submit an abbreviated consolidated plan that is appropriate to the types and amounts of assistance sought from HUD, instead of a full consolidated plan.
 
 (b) *When is an abbreviated plan necessary?* - (1) *Jurisdiction.* When a jurisdiction that is permitted to use an abbreviated plan applies to HUD for funds under a program that requires an approved consolidated plan (see § 91.2(b)), it must obtain approval of an abbreviated plan (or full consolidated plan) and submit a certification that the housing activities are consistent with the plan.
