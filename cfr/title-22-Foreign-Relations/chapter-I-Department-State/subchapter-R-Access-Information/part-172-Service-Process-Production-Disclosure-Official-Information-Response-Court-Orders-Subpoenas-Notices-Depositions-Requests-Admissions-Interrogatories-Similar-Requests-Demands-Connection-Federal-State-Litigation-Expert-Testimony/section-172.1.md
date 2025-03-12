@@ -1,5 +1,7 @@
 ##### § 172.1 Purpose and scope; definitions. #####
 
+Link to an amendment published at 83 FR 17489, Apr. 20, 2018.
+
 (a) This part sets forth the procedures to be followed with respect to:
 
 (1) Service of summonses and complaints or other requests or demands directed to the Department of State (Department) or to any Department employee or former employee in connection with federal or state litigation arising out of or involving the performance of official activities of the Department; and

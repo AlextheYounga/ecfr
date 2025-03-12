@@ -1,5 +1,7 @@
 ##### § 172.2 Service of summonses and complaints. #####
 
+Link to an amendment published at 83 FR 17489, Apr. 20, 2018.
+
 (a) Only the Executive Office of the Office of the Legal Adviser (L/EX) is authorized to receive and accept summonses or complaints sought to be served upon the Department or Department employees. All such documents should be delivered or addressed to: The Executive Office, Office of the Legal Adviser, Suite 5.600, 600 19th Street NW., Washington DC 20522. (Note that the suite number is 5.600.)
 
 (b) In the event any summons or complaint described in § 172.1(a) is delivered to an employee of the Department other than in the manner specified in this part, such attempted service shall be ineffective, and the recipient thereof shall either decline to accept the proffered service or return such document under cover of a written communication which directs the person attempting to make service to the procedures set forth herein.

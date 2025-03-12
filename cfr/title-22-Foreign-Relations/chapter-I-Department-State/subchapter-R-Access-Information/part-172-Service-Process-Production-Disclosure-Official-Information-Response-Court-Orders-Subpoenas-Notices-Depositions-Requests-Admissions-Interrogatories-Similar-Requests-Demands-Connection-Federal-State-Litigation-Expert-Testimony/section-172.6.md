@@ -1,5 +1,7 @@
 ##### § 172.6 Procedure when response to demand is required prior to receiving instructions. #####
 
+Link to an amendment published at 83 FR 17489, Apr. 20, 2018.
+
 (a) If a response to a demand is required before the appropriate Department official designated in § 172.4 renders a decision, the Department will request that either a Department of Justice attorney or a Department attorney designated for the purpose:
 
 (1) Appear with the employee upon whom the demand has been made;
