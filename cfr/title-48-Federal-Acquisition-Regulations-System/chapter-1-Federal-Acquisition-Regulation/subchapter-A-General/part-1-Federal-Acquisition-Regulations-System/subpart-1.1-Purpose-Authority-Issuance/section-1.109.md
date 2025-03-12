@@ -1,5 +1,7 @@
 ##### 1.109 Statutory acquisition-related dollar thresholds - adjustment for inflation. #####
 
+Link to an amendment published at 85 FR 27089, May 6, 2020.
+
 (a) 41 U.S.C. 1908 requires that the FAR Council periodically adjust all statutory acquisition-related dollar thresholds in the FAR for inflation, except as provided in paragraph (c) of this section. This adjustment is calculated every 5 years, starting in October 2005, using the Consumer Price Index (CPI) for all-urban consumers, and supersedes the applicability of any other provision of law that provides for the adjustment of such acquisition-related dollar thresholds.
 
 (b) The statute defines an acquisition-related dollar threshold as a dollar threshold that is specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of supplies or services by an executive agency, as determined by the FAR Council.

@@ -2,7 +2,7 @@
 
 As prescribed in 19.309(c)(1), insert the following clause:
 
-Post-Award Small Business Program Rerepresentation (MAR 2020)
+Post-Award Small Business Program Rerepresentation (MAY 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -24,7 +24,7 @@ Post-Award Small Business Program Rerepresentation (MAR 2020)
 
 (c) If the Contractor represented that it was any of the small business concerns identified in 19.000(a)(3) prior to award of this contract, the Contractor shall rerepresent its size and socioeconomic status according to paragraph (f) of this clause or, if applicable, paragraph (h) of this clause, when the Contracting Officer explicitly requires it for an order issued under a multiple-award contract.
 
-(d) The Contractor shall rerepresent its size status in accordance with the size standard in effect at the time of this rerepresentation that corresponds to the North American Industry Classification System (NAICS) code(s) assigned to this contract. The small business size standard corresponding to this NAICS code(s) can be found at *http://www.sba.gov/content/table-small-business-size-standards.*
+(d) The Contractor shall rerepresent its size status in accordance with the size standard in effect at the time of this rerepresentation that corresponds to the North American Industry Classification System (NAICS) code(s) assigned to this contract. The small business size standard corresponding to this NAICS code(s) can be found at *https://www.sba.gov/document/support--table-size-standards*.
 
 (e) The small business size standard for a Contractor providing a product which it does not manufacture itself, for a contract other than a construction or service contract, is 500 employees.
 
@@ -78,4 +78,4 @@ Post-Award Small Business Program Rerepresentation (MAR 2020)
 
 [Contracting Officer to insert NAICS codes.]
 
-[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020]
+[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020]

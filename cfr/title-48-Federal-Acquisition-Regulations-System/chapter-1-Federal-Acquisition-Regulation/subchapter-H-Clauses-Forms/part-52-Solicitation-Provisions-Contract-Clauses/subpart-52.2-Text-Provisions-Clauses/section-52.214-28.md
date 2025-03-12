@@ -1,5 +1,7 @@
 ##### 52.214-28 Subcontractor Certified Cost or Pricing Data - Modifications - Sealed Bidding. #####
 
+Link to an amendment published at 85 FR 27094, May 6, 2020.
+
 As prescribed in 14.201-7(c), insert the following clause:
 
 Subcontractor Certified Cost or Pricing Data - Modifications - Sealed Bidding (OCT 2010)

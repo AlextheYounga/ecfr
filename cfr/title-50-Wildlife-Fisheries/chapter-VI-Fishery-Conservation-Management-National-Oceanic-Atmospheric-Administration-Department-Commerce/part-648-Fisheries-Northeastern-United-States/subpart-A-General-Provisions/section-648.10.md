@@ -74,7 +74,7 @@ VMS Demarcation Line
 
 (7) A limited access monkfish vessel electing to fish in the Offshore Fishery Program in the SFMA, as provided in § 648.95; and
 
-(8) A vessel issued a limited access herring permit (i.e., All Areas Limited Access Permit, Areas 2 and 3 Limited Access Permit, Incidental Catch Limited Access Permit), or a vessel issued an Areas 2/3 open access herring permit, or a vessel declaring an Atlantic herring carrier trip via VMS.
+(8) A vessel issued a limited access herring permit (*i.e.,* Category A, B, or C), or a vessel issued a Category E Herring Permit, or a vessel declaring an Atlantic herring carrier trip via VMS.
 
 (9) A vessel issued a Tier 1, Tier 2, or Tier 3 limited access Atlantic mackerel permit;
 
@@ -370,9 +370,9 @@ SNE/MA Stock Area 4
 
 (l) [Reserved]
 
-(m) *Atlantic herring VMS notification requirements.* (1) A vessel issued a Limited Access Herring Permit or an Areas 2/3 Open Access Herring Permit intending to declare into the herring fishery or a vessel issued an Atlantic herring permit and intending to declare an Atlantic herring carrier trip via VMS must notify NMFS by declaring a herring trip with the appropriate gear code prior to leaving port at the start of each trip in order to harvest, possess, or land herring on that trip.
+(m) *Atlantic herring VMS notification requirements.* (1) A vessel issued a limited access herring permit (*i.e.,* Category A, B, or C) or a Category E Herring Permit intending to declare into the herring fishery or a vessel issued a herring permit and intending to declare an Atlantic herring carrier trip via VMS must notify NMFS by declaring a herring trip with the appropriate gear code prior to leaving port at the start of each trip in order to harvest, possess, or land herring on that trip.
 
-(2) A vessel issued a Limited Access Herring Permit or an Areas 2/3 Open Access Herring Permit or a vessel that declared an Atlantic herring carrier trip via VMS must notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hr prior to landing or, if fishing ends less than 6 hours before landing, as soon as the vessel stops catching fish. The Regional Administrator may adjust the prior notification minimum time through publication of a document in the Federal Register consistent with the Administrative Procedure Act.
+(2) A vessel issued a limited access herring permit (*i.e.,* Category A, B, or C) or a Category E Herring Permit or a vessel that declared an Atlantic herring carrier trip via VMS must notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hours prior to landing or, if fishing ends less than 6 hours before landing, as soon as the vessel stops catching fish. The Regional Administrator may adjust the prior notification minimum time through publication of a document in the Federal Register consistent with the Administrative Procedure Act.
 
 (n) *Limited access Atlantic mackerel VMS notification requirements.* (1) A vessel issued a limited access Atlantic mackerel permit intending to declare into the mackerel fishery must notify NMFS by declaring a mackerel trip prior to leaving port at the start of each trip in order to harvest, possess, or land mackerel on that trip.
 

@@ -1,5 +1,7 @@
 ##### 52.248-1 Value Engineering. #####
 
+Link to an amendment published at 85 FR 27097, May 6, 2020.
+
 As prescribed in 48.201, insert the following clause:
 
 Value Engineering (OCT 2010)

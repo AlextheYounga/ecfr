@@ -1,5 +1,7 @@
 ##### 52.215-11 Price Reduction for Defective Certified Cost or Pricing Data - Modifications. #####
 
+Link to an amendment published at 85 FR 27094, May 6, 2020.
+
 As prescribed in 15.408(c), insert the following clause:
 
 Price Reduction for Defective Certified Cost or Pricing Data - Modifications (AUG 2011)

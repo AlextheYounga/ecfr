@@ -1,5 +1,7 @@
 ##### 52.227-2 Notice and Assistance Regarding Patent and Copyright Infringement. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 27.201-2(b), insert the following clause:
 
 Notice and Assistance Regarding Patent and Copyright Infringement (DEC 2007)

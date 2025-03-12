@@ -1,5 +1,7 @@
 ##### 52.203-7 Anti-Kickback Procedures. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 As prescribed in 3.502-3, insert the following clause:
 
 Anti-Kickback Procedures (MAY 2014)

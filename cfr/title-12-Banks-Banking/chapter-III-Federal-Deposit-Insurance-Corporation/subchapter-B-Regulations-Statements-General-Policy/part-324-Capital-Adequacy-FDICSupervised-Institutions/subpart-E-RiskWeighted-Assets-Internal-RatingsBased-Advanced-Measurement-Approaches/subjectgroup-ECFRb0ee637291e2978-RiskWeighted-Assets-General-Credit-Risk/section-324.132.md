@@ -265,7 +265,7 @@ Table 1 to § 324.132 - Standard Supervisory Market Price Volatility Haircuts<su
 
 (*2*) As used in the formula in paragraph (c)(9)(iii)(C)(*1*) of this section:
 
-(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the FDIC-supervised institution's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one;30/\>
+(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the FDIC-supervised institution's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one;30
 
 30 In the case of a first-to-default credit derivative, there are no underlying exposures that are subordinated to the FDIC-supervised institution's exposure. In the case of a second-or-subsequent-to-default credit derivative, the smallest (n−1) notional amounts of the underlying exposures are subordinated to the FDIC-supervised institution's exposure.
 

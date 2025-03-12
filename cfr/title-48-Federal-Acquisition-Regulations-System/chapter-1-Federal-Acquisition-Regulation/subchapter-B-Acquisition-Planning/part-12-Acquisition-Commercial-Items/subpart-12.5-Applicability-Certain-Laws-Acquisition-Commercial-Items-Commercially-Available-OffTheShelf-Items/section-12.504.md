@@ -1,5 +1,7 @@
 ##### 12.504 Applicability of certain laws to subcontracts for the acquisition of commercial items. #####
 
+Link to an amendment published at 85 FR 27090, May 6, 2020.
+
 (a) The following laws are not applicable to subcontracts at any tier for the acquisition of commercial items or commercial components at any tier:
 
 (1) 10 U.S.C. 2631, Transportation of Supplies by Sea (except for the types of subcontracts listed at 47.504(d)).

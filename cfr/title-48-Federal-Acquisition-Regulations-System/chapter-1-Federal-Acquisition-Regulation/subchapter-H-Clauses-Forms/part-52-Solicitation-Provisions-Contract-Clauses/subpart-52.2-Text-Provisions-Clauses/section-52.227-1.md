@@ -1,5 +1,7 @@
 ##### 52.227-1 Authorization and Consent. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 27.201-2(a)(1), insert the following clause:
 
 Authorization and Consent (DEC 2007)

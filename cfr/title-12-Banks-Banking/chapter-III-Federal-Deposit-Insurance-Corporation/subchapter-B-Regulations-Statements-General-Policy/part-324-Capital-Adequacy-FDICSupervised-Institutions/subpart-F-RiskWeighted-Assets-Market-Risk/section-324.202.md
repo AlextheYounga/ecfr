@@ -26,11 +26,11 @@
 
 *Covered position* means the following positions:
 
-(1) A trading asset or trading liability (whether on- or off-balance sheet),32/\> as reported on Call Report, that meets the following conditions:
+(1) A trading asset or trading liability (whether on- or off-balance sheet),32 as reported on Call Report, that meets the following conditions:
 
 32 Securities subject to repurchase and lending agreements are included as if they are still owned by the lender.
 
-(i) The position is a trading position or hedges another covered position;33/\> and
+(i) The position is a trading position or hedges another covered position;33 and
 
 33 A position that hedges a trading position must be within the scope of the bank's hedging strategy as described in paragraph (a)(2) of § 324.203.
 

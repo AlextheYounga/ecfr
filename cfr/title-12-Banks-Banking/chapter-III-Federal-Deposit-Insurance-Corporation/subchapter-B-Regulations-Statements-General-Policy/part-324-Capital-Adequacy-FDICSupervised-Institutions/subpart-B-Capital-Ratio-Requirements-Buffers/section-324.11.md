@@ -1,6 +1,6 @@
 ##### § 324.11 Capital conservation buffer and countercyclical capital buffer amount. #####
 
-(a) *Capital conservation buffer.* (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
+(a) *Capital conservation buffer*—(1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
 
@@ -38,8 +38,6 @@
 
 (iv) *Prior approval.* Notwithstanding the limitations in paragraphs (a)(4)(i) through (iii) of this section, the FDIC may permit an FDIC-supervised institution to make a distribution or discretionary bonus payment upon a request of the FDIC-supervised institution, if the FDIC determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the FDIC-supervised institution. In making such a determination, the FDIC will consider the nature and extent of the request and the particular circumstances giving rise to the request.
 
-Table 1 to § 324.11 - Calculation of Maximum Payout Amount
-
 |                                                                                                                         Capital conservation buffer                                                                                                                          |       Maximum payout ratio        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 |                                                                       Greater than 2.5 percent plus 100 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount                                                                        |No payout ratio limitation applies.|
@@ -50,7 +48,7 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (v) *Other limitations on distributions.* Additional limitations on distributions may apply to an FDIC-supervised institution under 12 CFR 303.241 and subpart H of this part.
 
-(b) *Countercyclical capital buffer amount* - (1) *General.* An advanced approaches FDIC-supervised institution or a Category III FDIC-supervised institution must calculate a countercyclical capital buffer amount in accordance with paragraph (b) of this section for purposes of determining its maximum payout ratio under Table 1 to this section.
+(b) *Countercyclical capital buffer amount*—(1) *General.* An advanced approaches FDIC-supervised institution or a Category III FDIC-supervised institution must calculate a countercyclical capital buffer amount in accordance with paragraph (b) of this section for purposes of determining its maximum payout ratio under Table 1 to this section.
 
 (i) *Extension of capital conservation buffer.* The countercyclical capital buffer amount is an extension of the capital conservation buffer as described in paragraph (a) of this section.
 
@@ -64,9 +62,9 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (C) The location of a securitization exposure is the location of the underlying exposures, or, if the underlying exposures are located in more than one national jurisdiction, the national jurisdiction where the underlying exposures with the largest aggregate unpaid principal balance are located. For purposes of this paragraph (b), the location of an underlying exposure shall be the location of the borrower, determined consistent with paragraph (b)(1)(iv)(A) of this section.
 
-(2) *Countercyclical capital buffer amount for credit exposures in the United States* - (i) *Initial countercyclical capital buffer amount with respect to credit exposures in the United States.* The initial countercyclical capital buffer amount in the United States is zero.
+(2) *Countercyclical capital buffer amount for credit exposures in the United States*—(i) *Initial countercyclical capital buffer amount with respect to credit exposures in the United States.* The initial countercyclical capital buffer amount in the United States is zero.
 
-(ii) *Adjustment of the countercyclical capital buffer amount.* The FDIC will adjust the countercyclical capital buffer amount for credit exposures in the United States in accordance with applicable law.11/\>
+(ii) *Adjustment of the countercyclical capital buffer amount.* The FDIC will adjust the countercyclical capital buffer amount for credit exposures in the United States in accordance with applicable law.11
 
 11 The FDIC expects that any adjustment will be based on a determination made jointly by the Board, OCC, and FDIC.
 
@@ -74,7 +72,7 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (iv) *Adjustment determination.* The FDIC will base its decision to adjust the countercyclical capital buffer amount under this section on a range of macroeconomic, financial, and supervisory information indicating an increase in systemic risk including, but not limited to, the ratio of credit to gross domestic product, a variety of asset prices, other factors indicative of relative credit and liquidity expansion or contraction, funding spreads, credit condition surveys, indices based on credit default swap spreads, options implied volatility, and measures of systemic risk.
 
-(v) *Effective date of adjusted countercyclical capital buffer amount* - (A) *Increase adjustment.* A determination by the FDIC under paragraph (b)(2)(ii) of this section to increase the countercyclical capital buffer amount will be effective 12 months from the date of announcement, unless the FDIC establishes an earlier effective date and includes a statement articulating the reasons for the earlier effective date.
+(v) *Effective date of adjusted countercyclical capital buffer amount*—(A) *Increase adjustment.* A determination by the FDIC under paragraph (b)(2)(ii) of this section to increase the countercyclical capital buffer amount will be effective 12 months from the date of announcement, unless the FDIC establishes an earlier effective date and includes a statement articulating the reasons for the earlier effective date.
 
 (B) *Decrease adjustment.* A determination by the FDIC to decrease the established countercyclical capital buffer amount under paragraph (b)(2)(ii) of this section will be effective on the day following announcement of the final determination or the earliest date permissible under applicable law or regulation, whichever is later.
 

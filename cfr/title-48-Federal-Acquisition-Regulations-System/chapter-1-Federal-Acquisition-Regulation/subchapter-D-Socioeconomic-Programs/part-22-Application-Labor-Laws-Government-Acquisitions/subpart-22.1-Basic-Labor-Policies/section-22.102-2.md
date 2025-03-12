@@ -1,5 +1,7 @@
 ##### 22.102-2 Administration. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 (a) Agencies shall cooperate with, and encourage contractors to use to the fullest extent practicable, the DOL Employment and Training Administration (DOLETA) at *http://www.doleta.gov,* and its affiliated local offices in meeting contractors' labor requirements. These requirements may be to staff new or expanding plant facilities, including requirements for workers in all occupations and skills from local labor market areas or through the Federal-State employment clearance system.
 
 (b) Local State employment offices are operated throughout the United States, Puerto Rico, Guam, and the U.S. Virgin Islands. In addition to providing recruitment assistance to contractors, cooperation with the local State Employment Service offices will further the national program of maintaining continuous assessment of manpower requirements and resources on a national and local basis.

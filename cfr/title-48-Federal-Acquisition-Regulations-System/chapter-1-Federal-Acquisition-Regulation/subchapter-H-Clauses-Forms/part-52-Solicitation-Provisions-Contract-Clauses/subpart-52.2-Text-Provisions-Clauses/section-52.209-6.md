@@ -1,5 +1,7 @@
 ##### 52.209-6 Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, or Proposed for Debarment. #####
 
+Link to an amendment published at 85 FR 27092, May 6, 2020.
+
 As prescribed in 9.409, insert the following clause:
 
 Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, or Proposed for Debarment (OCT 2015)

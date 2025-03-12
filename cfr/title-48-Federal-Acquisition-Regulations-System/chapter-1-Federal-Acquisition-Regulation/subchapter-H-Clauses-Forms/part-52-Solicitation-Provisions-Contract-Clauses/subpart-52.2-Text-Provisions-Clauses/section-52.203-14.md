@@ -1,5 +1,7 @@
 ##### 52.203-14 Display of Hotline Poster(s). #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 As prescribed in 3.1004(b), insert the following clause:
 
 Display of Hotline Poster(s) (OCT 2015)

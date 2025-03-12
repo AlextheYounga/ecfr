@@ -1,5 +1,7 @@
 ##### 13.003 Policy. #####
 
+Link to an amendment published at 85 FR 27090, May 6, 2020.
+
 (a) Agencies shall use simplified acquisition procedures to the maximum extent practicable for all purchases of supplies or services not exceeding the simplified acquisition threshold (including purchases at or below the micro-purchase threshold). This policy does not apply if an agency can meet its requirement using -
 
 (1) Required sources of supply under part 8 (e.g., Federal Prison Industries, Committee for Purchase from People Who are Blind or Severely Disabled, and Federal Supply Schedule contracts);

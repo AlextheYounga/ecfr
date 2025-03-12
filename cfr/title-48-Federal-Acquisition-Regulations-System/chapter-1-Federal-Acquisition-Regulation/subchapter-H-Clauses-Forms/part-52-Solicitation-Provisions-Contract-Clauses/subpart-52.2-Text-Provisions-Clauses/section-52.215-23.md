@@ -1,5 +1,7 @@
 ##### 52.215-23 Limitations on Pass-Through Charges. #####
 
+Link to an amendment published at 85 FR 27095, May 6, 2020.
+
 As prescribed in 15.408(n)(2), use the following clause:
 
 Limitations on Pass-Through Charges (OCT 2009)

@@ -24,7 +24,7 @@ Minimum Fish Sizes (TL) for Commercial Vessels
 
 (3) Vessels fishing exclusively with pot gear may possess NE multispecies frames used, or to be used, as bait, that measure less than the minimum fish size, if there is a receipt for purchase of those frames on board the vessel.
 
-(4) Vessels that have an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit may possess and land haddock and other regulated species that are smaller than the minimum size specified under § 648.83, consistent with the bycatch caps specified in §§ 648.86(a)(3) and 648.86(k). Such fish may not be sold for human consumption.
+(4) Vessels that have a Category A or B Herring Permit may possess and land haddock and other regulated species that are smaller than the minimum size specified under § 648.83, consistent with the bycatch caps specified in § 648.86(a)(3) and (k). Such fish may not be sold for human consumption.
 
 (c) *Adjustments.* (1) At any time when information is available, the NEFMC will review the best available mesh selectivity information to determine the appropriate minimum size for the species listed in paragraph (a) of this section, except winter flounder, according to the length at which 25 percent of the regulated species would be retained by the applicable minimum mesh size.
 
@@ -32,4 +32,4 @@ Minimum Fish Sizes (TL) for Commercial Vessels
 
 (3) Additional adjustments or changes to the minimum fish sizes specified in paragraph (a) of this section, and exemptions specified in paragraph (b) of this section, may be made at any time after implementation of the final rule as specified under § 648.90.
 
-[69 FR 22974, Apr. 27, 2004, as amended at 71 FR 46876, Aug. 15, 2006; 72 FR 11276, Mar. 12, 2007; 75 FR 18328, Apr. 9, 2010; 76 FR 42585, July 19, 2011; 78 FR 26158, May 3, 2013]
+[69 FR 22974, Apr. 27, 2004, as amended at 71 FR 46876, Aug. 15, 2006; 72 FR 11276, Mar. 12, 2007; 75 FR 18328, Apr. 9, 2010; 76 FR 42585, July 19, 2011; 78 FR 26158, May 3, 2013; 85 FR 26885, May 6, 2020]

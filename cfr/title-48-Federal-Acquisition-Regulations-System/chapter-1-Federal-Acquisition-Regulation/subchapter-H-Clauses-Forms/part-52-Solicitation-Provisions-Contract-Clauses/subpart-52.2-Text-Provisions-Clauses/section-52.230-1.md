@@ -1,5 +1,7 @@
 ##### 52.230-1 Cost Accounting Standards Notices and Certification. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 30.201-3, insert the following provisions:
 
 Cost Accounting Standards Notices and Certification (OCT 2015)Note:

@@ -1,5 +1,7 @@
 ##### 52.230-4 Disclosure and Consistency of Cost Accounting Practices - Foreign Concerns. #####
 
+Link to an amendment published at 85 FR 27097, May 6, 2020.
+
 As prescribed in 30.201-4(c), insert the following clause:
 
 Disclosure and Consistency of Cost Accounting Practices - Foreign Concerns (OCT 2015)

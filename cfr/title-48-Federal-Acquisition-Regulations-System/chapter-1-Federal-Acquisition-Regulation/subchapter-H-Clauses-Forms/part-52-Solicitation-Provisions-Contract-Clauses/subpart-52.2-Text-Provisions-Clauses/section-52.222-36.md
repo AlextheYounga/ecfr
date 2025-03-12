@@ -1,5 +1,7 @@
 ##### 52.222-36 Equal Opportunity for Workers with Disabilities. #####
 
+Link to an amendment published at 85 FR 27095, May 6, 2020.
+
 As prescribed in 22.1408(a), insert the following clause:
 
 Equal Opportunity for Workers with Disabilities (JUL 2014)

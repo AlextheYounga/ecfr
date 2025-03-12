@@ -1,5 +1,7 @@
 ##### 52.222-17 Nondisplacement of Qualified Workers. #####
 
+Link to an amendment published at 85 FR 27088, May 6, 2020.
+
 As prescribed in 22.1207, insert the following clause:
 
 Nondisplacement of Qualified Workers (MAY 2014)

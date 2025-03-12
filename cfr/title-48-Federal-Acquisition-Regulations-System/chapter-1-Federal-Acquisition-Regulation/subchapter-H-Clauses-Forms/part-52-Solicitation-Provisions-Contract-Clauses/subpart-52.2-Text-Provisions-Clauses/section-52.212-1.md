@@ -1,5 +1,7 @@
 ##### 52.212-1 Instructions to Offerors - Commercial Items. #####
 
+Link to an amendment published at 85 FR 27092, May 6, 2020.
+
 As prescribed in 12.301(b)(1), insert the following provision:
 
 Instructions to Offerors - Commercial Items (MAR 2020)

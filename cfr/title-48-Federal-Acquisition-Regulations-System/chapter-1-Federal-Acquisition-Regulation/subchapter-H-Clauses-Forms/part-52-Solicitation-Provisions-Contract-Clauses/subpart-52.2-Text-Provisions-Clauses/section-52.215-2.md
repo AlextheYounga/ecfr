@@ -1,5 +1,7 @@
 ##### 52.215-2 Audit and Records - Negotiation. #####
 
+Link to an amendment published at 85 FR 27094, May 6, 2020.
+
 As prescribed in 15.209(b), insert the following clause:
 
 Audit and Records - Negotiation (OCT 2010)

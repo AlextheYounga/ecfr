@@ -40,7 +40,7 @@
 
 (c) *Defective requests.* The FDIC need not accept or process a request that does not reasonably describe the records requested or that does not otherwise comply with the requirements of this part. The FDIC may return a defective request, specifying the deficiency. The requester may submit a corrected request, which will be treated as a new request.
 
-(d) *Processing requests* - (1) *Receipt of requests.* Upon receipt of a request that satisfies paragraph (b) of this section, the FOIA/PA Group will acknowledge receipt of the request in writing to the requester and provide the requester with an individualized tracking number for the request. The date of receipt for such request, including one that is addressed incorrectly or that is referred by another agency, is the date the FOIA/PA Group actually receives the request.
+(d) *Processing requests*—(1) *Receipt of requests.* Upon receipt of a request that satisfies paragraph (b) of this section, the FOIA/PA Group will acknowledge receipt of the request in writing to the requester and provide the requester with an individualized tracking number for the request. The date of receipt for such request, including one that is addressed incorrectly or that is referred by another agency, is the date the FOIA/PA Group actually receives the request.
 
 (2) *Multitrack processing.* (i) The FDIC provides different levels of processing for categories of requests under this part. Requests for records that are readily identifiable by the FOIA/PA Group, and that have already been cleared for public release may qualify for fast-track processing. All other requests shall be handled under normal processing procedures, unless expedited processing has been granted pursuant to paragraph (d)(3) of this section.
 
@@ -116,7 +116,7 @@
 
 (3) By arrangement with the requester, the FDIC may elect to send the responsive records electronically if a substantial portion of the request is in electronic format. If the information requested is made pursuant to the Privacy Act of 1974, 5 U.S.C. 552a, it will not be sent by electronic means unless reasonable security measures can be provided.
 
-(f) *Fees* - (1) *General rules.* (i) Persons requesting records of the FDIC shall be charged for the direct costs of search, duplication, and review as set forth in paragraphs (f)(2) and (f)(3) of this section, unless such costs are less than the FDIC's cost of processing the requester's remittance.
+(f) *Fees*—(1) *General rules.* (i) Persons requesting records of the FDIC shall be charged for the direct costs of search, duplication, and review as set forth in paragraphs (f)(2) and (f)(3) of this section, unless such costs are less than the FDIC's cost of processing the requester's remittance.
 
 (ii) Requesters will be charged for search and review costs even if responsive records are not located or, if located, are determined to be exempt from disclosure.
 
@@ -132,7 +132,7 @@
 
 (viii) The FDIC may begin assessing interest charges on unpaid bills on the 31st day following the day on which the invoice was sent. Interest will be at the rate prescribed in section 3717 of title 31 of the United States Code and will accrue from the date of the invoice.
 
-(ix) The time limit for the FDIC to respond to a request will not begin to run until the FDIC has received the requester's written agreement under paragraph (f)(1)(iv) of this section, and advance payment under paragraph (f)(1) (v) or (vii) of this section, or payment of outstanding charges under paragraph (f)(1)(vii) or (viii) of this section.
+(ix) The time limit for the FDIC to respond to a request will not begin to run until the FDIC has received the requester's written agreement under paragraph (f)(1)(iv) of this section, and advance payment under paragraph (f)(1)(v) or (vii) of this section, or payment of outstanding charges under paragraph (f)(1)(vii) or (viii) of this section.
 
 (x) As part of the initial request, a requester may ask that the FDIC waive or reduce fees if disclosure of the records is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester. Determinations as to a waiver or reduction of fees will be made by the FOIA/PA Group, Legal Division (or designee) and the requester will be notified in writing of his/her determination. A determination not to grant a request for a waiver or reduction of fees under this paragraph may be appealed to the FDIC's General Counsel (or designee) pursuant to the procedure set forth in paragraph (i) of this section.
 
@@ -140,7 +140,7 @@
 
 (ii) Educational institutions, non-commercial scientific institutions and news media representatives shall be charged duplication costs, except for the first 100 pages.
 
-(iii) Requesters not described in paragraph (f)(2) (i) or (ii) of this section shall be charged the full reasonable direct cost of search and duplication, except for the first two hours of search time and first 100 pages of duplication.
+(iii) Requesters not described in paragraph (f)(2)(i) or (ii) of this section shall be charged the full reasonable direct cost of search and duplication, except for the first two hours of search time and first 100 pages of duplication.
 
 (3) *Fee schedule.* The dollar amount of fees which the FDIC may charge to records requesters will be established by the Chief Financial Officer of the FDIC (or designee). The FDIC may charge fees that recoup the full allowable direct costs it incurs. Fees are subject to change as costs change.
 
@@ -164,7 +164,7 @@
 
 (5) *Use of contractors.* The FDIC may contract with independent contractors to locate, reproduce, and/or disseminate records; provided, however, that the FDIC has determined that the ultimate cost to the requester will be no greater than it would be if the FDIC performed these tasks itself. In no case will the FDIC contract out responsibilities which the Freedom of Information Act (FOIA) (5 U.S.C. 552) provides that the FDIC alone may discharge, such as determining the applicability of an exemption or whether to waive or reduce fees.
 
-(g) *Exempt information.* A request for records may be denied if the requested record contains information which falls into one or more of the following categories.1/\> If the requested record contains both exempt and nonexempt information, the nonexempt portions which may reasonably be segregated from the exempt portions will be released to the requester. If redaction is necessary, the FDIC will, to the extent technically feasible, indicate the amount of material deleted at the place in the record where such deletion is made unless that indication in and of itself will jeopardize the purpose for the redaction. The categories of exempt records are as follows:
+(g) *Exempt information.* A request for records may be denied if the requested record contains information which falls into one or more of the following categories.1 If the requested record contains both exempt and nonexempt information, the nonexempt portions which may reasonably be segregated from the exempt portions will be released to the requester. If redaction is necessary, the FDIC will, to the extent technically feasible, indicate the amount of material deleted at the place in the record where such deletion is made unless that indication in and of itself will jeopardize the purpose for the redaction. The categories of exempt records are as follows:
 
 1 Classification of a record as exempt from disclosure under the provisions of this paragraph (g) shall not be construed as authority to withhold the record if it is otherwise subject to disclosure under the Privacy Act of 1974 (5 U.S.C. 552a) or other federal statute, any applicable regulation of FDIC or any other federal agency having jurisdiction thereof, or any directive or order of any court of competent jurisdiction.
 

@@ -6,7 +6,7 @@
 
 (2) *Brokered deposit* means any deposit that is obtained, directly or indirectly, from or through the mediation or assistance of a deposit broker.
 
-(3) *Capital categories.* (i) For purposes of section 29 of the Federal Deposit Insurance Act and this § 337.6, the terms *well capitalized, adequately capitalized,* and *undercapitalized*,11/\> shall have the same meaning as to each insured depository institution as provided under regulations implementing section 38 of the Federal Deposit Insurance Act issued by the appropriate federal banking agency for that institution.12/\>
+(3) *Capital categories.* (i) For purposes of section 29 of the Federal Deposit Insurance Act and this § 337.6, the terms *well capitalized, adequately capitalized,* and *undercapitalized*,11 shall have the same meaning as to each insured depository institution as provided under regulations implementing section 38 of the Federal Deposit Insurance Act issued by the appropriate federal banking agency for that institution.12
 
 11 The term *undercapitalized* includes any institution that is *significantly undercapitalized* or *critically undercapitalized* under regulations implementing section 38 of the Federal Deposit Insurance Act and issued by the appropriate federal banking agency for that institution.
 
@@ -14,7 +14,7 @@
 
 (ii) If the appropriate federal banking agency reclassifies a well capitalized insured depository institution as adequately capitalized pursuant to section 38 of the Federal Deposit Insurance Act, the institution so reclassified shall be subject to the provisions applicable to such lower capital category under this § 337.6.
 
-(iii) An insured depository institution shall be deemed to be within a given capital category for purposes of this § 337.6 as of the date the institution is notified of, or is deemed to have notice of, its capital category, under regulations implementing section 38 of the Federal Deposit Insurance Act issued by the appropriate federal banking agency for that institution.13/\>
+(iii) An insured depository institution shall be deemed to be within a given capital category for purposes of this § 337.6 as of the date the institution is notified of, or is deemed to have notice of, its capital category, under regulations implementing section 38 of the Federal Deposit Insurance Act issued by the appropriate federal banking agency for that institution.13
 
 13 The regulations implementing section 38 of the Federal Deposit Insurance Act and issued by the federal banking agencies generally provide that an insured depository institution is deemed to have been notified of its capital levels and its capital category as of the most recent date: (1) A Consolidated Report of Condition and Income is required to be filed with the appropriate federal banking agency; (2) A final report of examination is delivered to the institution; or (3) Written notice is provided by the appropriate federal banking agency to the institution of its capital category for purposes of section 38 of the Federal Deposit Insurance Act and implementing regulations or that the institution's capital category has changed. Provisions specifying the effective date of determination of capital category are generally published in the following regulations: FDIC - 12 CFR 324.402; Board of Governors of the Federal Reserve System - 12 CFR part 208, subpart D; and Office of the Comptroller of the Currency - 12 CFR 6.3.
 

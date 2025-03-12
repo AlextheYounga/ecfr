@@ -1,5 +1,7 @@
 ##### 52.226-6 Promoting excess food donation to nonprofit organizations. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 26.404, insert the following clause:
 
 Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014)

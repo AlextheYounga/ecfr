@@ -2,9 +2,9 @@
 
 As prescribed in 25.301-4, insert the following clause:
 
-Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission Outside the United States (MAR 2008)
+Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission Outside the United States (MAY 2020)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Chief of mission* means the principal officer in charge of a diplomatic mission of the United States or of a United States office abroad which is designated by the Secretary of State as diplomatic in nature, including any individual assigned under section 502(c) of the Foreign Service Act of 1980 (Pub. L. 96-465) to be temporarily in charge of such a mission or office.
 
@@ -14,9 +14,9 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 *Supporting a diplomatic or consular mission* means performing outside the United States under a contract administered by Federal agency personnel who are subject to the direction of a chief of mission.
 
-(b) *General.* (1) This clause applies when Contractor personnel are required to perform outside the United States -
+(b) *General.* (1) This clause applies when Contractor personnel are required to perform outside the United States—
 
-(i) In a designated operational area during -
+(i) In a designated operational area during—
 
 (A) Contingency operations;
 
@@ -24,9 +24,9 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (C) Other military operations; or military exercises, when designated by the Combatant Commander; or
 
-(ii) When supporting a diplomatic or consular mission -
+(ii) When supporting a diplomatic or consular mission—
 
-(A) That has been designated by the Department of State as a danger pay post (see *http://aoprals.state.gov/Web920/danger\_pay\_all.asp*); or
+(A) That has been designated by the Department of State as a danger pay post (see *https://aoprals.state.gov/*); or
 
 (B) That the Contracting Officer has indicated is subject to this clause.
 
@@ -42,7 +42,7 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (c) *Support.* Unless specified elsewhere in the contract, the Contractor is responsible for all logistical and security support required for Contractor personnel engaged in this contract.
 
-(d) *Compliance with laws and regulations.* The Contractor shall comply with, and shall ensure that its personnel in the designated operational area or supporting the diplomatic or consular mission are familiar with and comply with, all applicable -
+(d) *Compliance with laws and regulations.* The Contractor shall comply with, and shall ensure that its personnel in the designated operational area or supporting the diplomatic or consular mission are familiar with and comply with, all applicable—
 
 (1) United States, host country, and third country national laws;
 
@@ -62,13 +62,13 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (iii) All personnel have all necessary passports, visas, entry permits, and other documents required for Contractor personnel to enter and exit the foreign country, including those required for in-transit countries.
 
-(iv) All personnel have received -
+(iv) All personnel have received—
 
 (A) A country clearance or special area clearance, if required by the chief of mission; and
 
 (B) Theater clearance, if required by the Combatant Commander.
 
-(v) All personnel have received personal security training. The training must at a minimum -
+(v) All personnel have received personal security training. The training must at a minimum—
 
 (A) Cover safety and security issues facing employees overseas;
 
@@ -80,7 +80,7 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (vii) All personnel who are U.S. citizens are registered with the U.S. Embassy or Consulate with jurisdiction over the area of operations on-line at *http://www.travel.state.gov.*
 
-(3) The Contractor shall notify all personnel who are not a host country national or ordinarily resident in the host country that -
+(3) The Contractor shall notify all personnel who are not a host country national or ordinarily resident in the host country that—
 
 (i) If this contract is with the Department of Defense, or the contract relates to supporting the mission of the Department of Defense outside the United States, such employees, and dependents residing with such employees, who engage in conduct outside the United States that would constitute an offense punishable by imprisonment for more than one year if the conduct had been engaged in within the special maritime and territorial jurisdiction of the United States, may potentially be subject to the criminal jurisdiction of the United States (see the Military Extraterritorial Jurisdiction Act of 2000 (18 U.S.C. 3261 *et seq.*);
 
@@ -88,7 +88,7 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (iii) Other laws may provide for prosecution of U.S. nationals who commit offenses on the premises of United States diplomatic, consular, military or other United States Government missions outside the United States (18 U.S.C. 7(9)).
 
-(f) *Processing and departure points.* The Contractor shall require its personnel who are arriving from outside the area of performance to perform in the designated operational area or supporting the diplomatic or consular mission to -
+(f) *Processing and departure points.* The Contractor shall require its personnel who are arriving from outside the area of performance to perform in the designated operational area or supporting the diplomatic or consular mission to—
 
 (1) Process through the departure center designated in the contract or complete another process as directed by the Contracting Officer;
 
@@ -102,7 +102,7 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (h) *Contractor personnel.* The Contracting Officer may direct the Contractor, at its own expense, to remove and replace any Contractor personnel who fail to comply with or violate applicable requirements of this contract. Such action may be taken at the Government's discretion without prejudice to its rights under any other provision of this contract, including termination for default or cause.
 
-(i) *Weapons.* (1) If the Contracting Officer, subject to the approval of the Combatant Commander or the Chief of Mission, authorizes the carrying of weapons -
+(i) *Weapons.* (1) If the Contracting Officer, subject to the approval of the Combatant Commander or the Chief of Mission, authorizes the carrying of weapons—
 
 (i) The Contracting Officer may authorize an approved Contractor to issue Contractor-owned weapons and ammunition to specified employees; or
 
@@ -110,9 +110,9 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (2) The Contractor shall provide to the Contracting Officer a specific list of personnel for whom authorization to carry a weapon is requested.
 
-(3) The Contractor shall ensure that its personnel who are authorized to carry weapons -
+(3) The Contractor shall ensure that its personnel who are authorized to carry weapons—
 
-(i) Are adequately trained to carry and use them -
+(i) Are adequately trained to carry and use them—
 
 (A) Safely;
 
@@ -144,7 +144,7 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (3) The Department of Defense has primary responsibility for recovering DoD contract service employees and, when requested, will provide personnel recovery support to other agencies in accordance with DoD Directive 2310.2, Personnel Recovery.
 
-(n) *Notification and return of personal effects.* (1) The Contractor shall be responsible for notification of the employee-designated next of kin, and notification as soon as possible to the U.S. Consul responsible for the area in which the event occurred, if the employee -
+(n) *Notification and return of personal effects.* (1) The Contractor shall be responsible for notification of the employee-designated next of kin, and notification as soon as possible to the U.S. Consul responsible for the area in which the event occurred, if the employee—
 
 (i) Dies;
 
@@ -164,9 +164,9 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (p) *Changes.* In addition to the changes otherwise authorized by the Changes clause of this contract, the Contracting Officer may, at any time, by written order identified as a change order, make changes in place of performance or Government-furnished facilities, equipment, material, services, or site. Any change order issued in accordance with this paragraph shall be subject to the provisions of the Changes clause of this contract.
 
-(q) *Subcontracts.* The Contractor shall incorporate the substance of this clause, including this paragraph (q), in all subcontracts that require subcontractor personnel to perform outside the United States -
+(q) *Subcontracts.* The Contractor shall incorporate the substance of this clause, including this paragraph (q), in all subcontracts that require subcontractor personnel to perform outside the United States—
 
-(1) In a designated operational area during -
+(1) In a designated operational area during—
 
 (i) Contingency operations;
 
@@ -174,10 +174,10 @@ Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic
 
 (iii) Other military operations; or military exercises, when designated by the Combatant Commander; or
 
-(2) When supporting a diplomatic or consular mission -
+(2) When supporting a diplomatic or consular mission—
 
-(i) That has been designated by the Department of State as a danger pay post (see *http://aoprals.state.gov/Web920/danger\_pay\_all.asp*); or
+(i) That has been designated by the Department of State as a danger pay post (see *https://aoprals.state.gov/*); or
 
 (ii) That the Contracting Officer has indicated is subject to this clause.
 
-(End of clause)[73 FR 10958, Feb. 28, 2008]
+(End of clause)[73 FR 10958, Feb. 28, 2008, as amended at 85 FR 27102, May 6, 2020]

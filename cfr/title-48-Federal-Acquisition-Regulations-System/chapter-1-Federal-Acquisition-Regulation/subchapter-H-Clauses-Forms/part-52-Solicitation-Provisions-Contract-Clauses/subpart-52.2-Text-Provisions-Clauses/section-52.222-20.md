@@ -1,5 +1,7 @@
 ##### 52.222-20 Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000. #####
 
+Link to an amendment published at 85 FR 27095, May 6, 2020.
+
 As prescribed in 22.610, insert the following clause in solicitations and contracts:
 
 Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (MAY 2014)

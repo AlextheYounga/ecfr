@@ -142,6 +142,10 @@ For the purposes of this part:
 
 (4) A U.S. intermediate holding company.
 
+*Covered Federal Reserve Facility Funding* means a non-recourse loan that is extended as part of the Money Market Mutual Fund Liquidity Facility or Paycheck Protection Program Liquidity Facility authorized by the Board of Governors of the Federal Reserve System pursuant to section 13(3) of the Federal Reserve Act.1
+
+1 The Money Market Mutual Fund Liquidity Facility was authorized on March 18, 2020, and the Paycheck Protection Program Liquidity Facility was authorized on April 6, 2020.
+
 *Covered nonbank company* means a designated company that the Board of Governors of the Federal Reserve System has required by rule or order to comply with the requirements of 12 CFR part 249.
 
 *Credit facility* means a legally binding agreement to extend funds if requested at a future date, including a general working capital facility such as a revolving credit facility for general corporate or working capital purposes. A credit facility does not include a legally binding written agreement to extend funds at a future date to a counterparty that is made for the purpose of refinancing the debt of the counterparty when it is unable to obtain a primary or anticipated source of funding. *See liquidity facility.*
@@ -262,9 +266,9 @@ For the purposes of this part:
 
 (i) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
 
-(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar1/\> to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar2 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
 
-1 The FDIC expects to evaluate jointly with the Federal Reserve and the OCC whether foreign special resolution regimes meet the requirements of this paragraph.
+2 The FDIC expects to evaluate jointly with the Federal Reserve and the OCC whether foreign special resolution regimes meet the requirements of this paragraph.
 
 (B) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i)(A) of this definition; and
 
@@ -284,9 +288,9 @@ For the purposes of this part:
 
 (1) A depository institution holding company or designated company;
 
-(2) A company included in the organization chart of a depository institution holding company on the Form FR Y-6, as listed in the hierarchy report of the depository institution holding company produced by the National Information Center (NIC) website,2/\> provided that the top-tier depository institution holding company is subject to a minimum liquidity standard under 12 CFR part 249;
+(2) A company included in the organization chart of a depository institution holding company on the Form FR Y-6, as listed in the hierarchy report of the depository institution holding company produced by the National Information Center (NIC) website,3 provided that the top-tier depository institution holding company is subject to a minimum liquidity standard under 12 CFR part 249;
 
-2*http://www.ffiec.gov/nicpubweb/nicweb/NicHome.aspx.*
+3*http://www.ffiec.gov/nicpubweb/nicweb/NicHome.aspx.*
 
 (3) A depository institution; foreign bank; credit union; industrial loan company, industrial bank, or other similar institution described in section 2 of the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1841 *et seq.*); national bank, state member bank, or state non-member bank that is not a depository institution;
 
@@ -386,4 +390,4 @@ For the purposes of this part:
 
 *Wholesale deposit means* a demand or term deposit that is provided by a wholesale customer or counterparty.
 
-[79 FR 61523, Oct. 10, 2014, as amended at 81 FR 71354, Oct. 17, 2016; 82 FR 50261, Oct. 30, 2017; 82 FR 61443, Dec. 28, 2017; 83 FR 44455, Aug. 31, 2018; 84 FR 59279, Nov. 1, 2019]
+[79 FR 61523, Oct. 10, 2014, as amended at 81 FR 71354, Oct. 17, 2016; 82 FR 50261, Oct. 30, 2017; 82 FR 61443, Dec. 28, 2017; 83 FR 44455, Aug. 31, 2018; 84 FR 59279, Nov. 1, 2019; 85 FR 26841, May 6, 2020]

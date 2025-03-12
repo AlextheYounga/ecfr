@@ -1,5 +1,7 @@
 ##### 52.214-26 Audit and Records - Sealed Bidding. #####
 
+Link to an amendment published at 85 FR 27093, May 6, 2020.
+
 As prescribed in 14.201-7(a)(1), insert the following clause:
 
 Audit and Records - Sealed Bidding (OCT 2010)

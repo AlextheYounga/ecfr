@@ -1,5 +1,7 @@
 ##### 22.202 Contract clause. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 Insert the clause at 52.222-3, Convict Labor, in solicitations and contracts above the micro-purchase threshold, when the contract will be performed in the United States, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, or the U.S. Virgin Islands; unless -
 
 (a) The contract will be subject to 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (see subpart 22.6), which contains a separate prohibition against the employment of convict labor;

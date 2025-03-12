@@ -1,5 +1,7 @@
 ##### 52.230-3 Disclosure and Consistency of Cost Accounting Practices. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 30.201-4(b)(1), insert the following clause:
 
 Disclosure and Consistency of Cost Accounting Practices (OCT 2015)

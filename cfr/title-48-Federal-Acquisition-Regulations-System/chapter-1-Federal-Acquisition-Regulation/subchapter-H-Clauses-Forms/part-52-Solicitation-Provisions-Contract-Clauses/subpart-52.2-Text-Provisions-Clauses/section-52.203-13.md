@@ -1,5 +1,7 @@
 ##### 52.203-13 Contractor Code of Business Ethics and Conduct. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 As prescribed in 3.1004(a), insert the following clause:
 
 Contractor Code of Business Ethics and Conduct (OCT 2015)

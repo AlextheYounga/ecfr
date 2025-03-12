@@ -1,5 +1,7 @@
 ##### § 665.4 Annual catch limits. #####
 
+Link to an amendment published at 85 FR 26624, May 5, 2020.
+
 (a) *General.* For each fishing year, the Regional Administrator shall specify an annual catch limit, including any overage adjustments, for each stock or stock complex of management unit species defined in subparts B through F of this part, as recommended by the Council, and considering the best available scientific, commercial, and other information about the fishery for that stock or stock complex. The annual catch limit shall serve as the basis for invoking accountability measures in paragraph (f) of this section.
 
 (b) *Overage adjustments.* If landings of a stock or stock complex exceed the specified annual catch limit in a fishing year, the Council will take action in accordance with 50 CFR 600.310(g), which may include recommending that the Regional Administrator reduce the annual catch limit for the subsequent year by the amount of the overage or other measures, as appropriate.

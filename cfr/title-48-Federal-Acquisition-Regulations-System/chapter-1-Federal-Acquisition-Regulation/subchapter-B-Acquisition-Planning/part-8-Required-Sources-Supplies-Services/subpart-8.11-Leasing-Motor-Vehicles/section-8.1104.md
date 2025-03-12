@@ -1,5 +1,7 @@
 ##### 8.1104 Contract clauses. #####
 
+Link to an amendment published at 85 FR 27090, May 6, 2020.
+
 Insert the following clauses in solicitations and contracts for leasing of motor vehicles, unless the motor vehicles are leased in foreign countries:
 
 (a) The clause at 52.208-4, Vehicle Lease Payments.

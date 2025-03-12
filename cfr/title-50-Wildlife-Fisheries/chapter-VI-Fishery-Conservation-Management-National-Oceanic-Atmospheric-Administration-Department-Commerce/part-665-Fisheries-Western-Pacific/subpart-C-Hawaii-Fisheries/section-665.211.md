@@ -1,5 +1,7 @@
 ##### § 665.211 Annual Catch Limit (ACL). #####
 
+Link to an amendment published at 85 FR 26624, May 5, 2020.
+
 (a) In accordance with § 665.4, the ACL for MHI Deep 7 bottomfish for each fishing year is as follows:
 
 |Fishing year |ACL (lb)|

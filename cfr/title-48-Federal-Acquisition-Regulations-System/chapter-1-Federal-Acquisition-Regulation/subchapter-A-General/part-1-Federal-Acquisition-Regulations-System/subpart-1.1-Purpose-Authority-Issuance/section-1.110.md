@@ -1,5 +1,7 @@
 ##### 1.110 Positive law codification. #####
 
+Link to an amendment published at 85 FR 27089, May 6, 2020.
+
 (a) Public Law 107-217 revised, codified, and enacted as title 40, United States Code, Public Buildings, Property, and Works, certain general and permanent laws of the United States.
 
 (b) Public Law 111-350 revised, codified, and enacted as title 41, United States Code, Public Contracts, certain general and permanent laws of the United States.

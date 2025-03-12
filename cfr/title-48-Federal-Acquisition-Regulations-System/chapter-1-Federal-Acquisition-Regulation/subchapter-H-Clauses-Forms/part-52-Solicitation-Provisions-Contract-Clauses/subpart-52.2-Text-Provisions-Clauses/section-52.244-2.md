@@ -1,5 +1,7 @@
 ##### 52.244-2 Subcontracts. #####
 
+Link to an amendment published at 85 FR 27097, May 6, 2020.
+
 As prescribed in 44.204(a)(1), insert the following clause:
 
 Subcontracts (OCT 2010)

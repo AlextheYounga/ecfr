@@ -22,6 +22,6 @@
 
 (iii) Report slippage events on the Atlantic herring daily VMS catch report and indicate the reason for slipping catch if the vessel was issued a limited access herring permit.
 
-(iv) Comply with the measures to address slippage specified in § 648.11(m)(7)(iv) and (vi) if the vessel was issued an All Areas or Areas 2/3 Limited Access Herring Permit.
+(iv) Comply with the measures to address slippage specified in § 648.11(m)(4)(iv) and (v) if the vessel was issued a Category A or B Herring Permit.
 
-[72 FR 11277, Mar. 12, 2007, as amended at 79 FR 8816, Feb. 13, 2014; 79 FR 52580, Sept. 4, 2014; 81 FR 19054, Apr. 4, 2016; 83 FR 15275, Apr. 9, 2018; 85 FR 7442, Feb. 7, 2020]
+[72 FR 11277, Mar. 12, 2007, as amended at 79 FR 8816, Feb. 13, 2014; 79 FR 52580, Sept. 4, 2014; 81 FR 19054, Apr. 4, 2016; 83 FR 15275, Apr. 9, 2018; 85 FR 7442, Feb. 7, 2020; 85 FR 26886, May 6, 2020]

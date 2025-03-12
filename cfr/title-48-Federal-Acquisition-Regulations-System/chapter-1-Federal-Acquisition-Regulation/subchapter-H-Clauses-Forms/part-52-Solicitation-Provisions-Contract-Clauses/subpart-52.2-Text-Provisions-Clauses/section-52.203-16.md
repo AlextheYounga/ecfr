@@ -1,5 +1,7 @@
 ##### 52.203-16 Preventing Personal Conflicts of Interest. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 As prescribed in 3.1106, insert the following clause:
 
 Preventing Personal Conflicts of Interest (DEC 2011)

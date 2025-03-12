@@ -1,5 +1,7 @@
 ##### 52.203-12 Limitation on Payments to Influence Certain Federal Transactions. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 As prescribed in 3.808(b), insert the following clause:
 
 Limitation on Payments To influence Certain Federal Transactions (OCT 2010)

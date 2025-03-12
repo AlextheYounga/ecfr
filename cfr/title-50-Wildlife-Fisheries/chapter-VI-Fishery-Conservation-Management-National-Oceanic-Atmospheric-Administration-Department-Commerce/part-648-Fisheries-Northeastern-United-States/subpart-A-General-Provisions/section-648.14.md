@@ -463,7 +463,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (C) The NE multispecies were harvested in or from the EEZ by a recreational fishing vessel.
 
-(D) Any haddock, and up to 100 lb (45 kg) of other regulated NE. multispecies other than haddock, were harvested by a vessel issued an All Areas Limited Access Herring Permit and/or an Area 2 and 3 Limited Access Herring Permit on a declared herring trip, regardless of gear or area fished, or a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that fished with midwater trawl gear, pursuant to the requirements in § 648.80(d) and (e), and such fish are not sold for human consumption.
+(D) Any haddock, and up to 100 lb (45 kg) of other regulated NE multispecies other than haddock, were harvested by a vessel issued a Category A or B Herring Permit on a declared herring trip, regardless of gear or area fished, or a vessel issued a Category C, D, or E Herring Permit that fished with midwater trawl gear, pursuant to the requirements in § 648.80(d) and (e), and such fish are not sold for human consumption.
 
 (E) Otherwise specified in § 648.17.
 
@@ -1129,7 +1129,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (B) Catch, take, or harvest Atlantic herring in or from the EEZ with a U.S. vessel that exceeds the size limits specified in § 648.4(a)(10)(iii).
 
-(vi) *Area requirements.* (A) For the purposes of observer deployment, fail to notify NMFS at least 48 hr prior to departing on a declared herring trip with a vessel issued an All Areas Limited Access Herring Permit and/or an Area 2 and 3 Limited Access Herring Permit and fishing with midwater trawl or purse seine gear, or on a trip with a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that is fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3), pursuant to the requirements in § 648.80(d) and (e).
+(vi) *Area requirements.* (A) For the purposes of observer deployment, fail to notify NMFS/FSB at least 48 hr prior to departing on a declared herring trip with a vessel issued a Category A or B Herring Permit and fishing with midwater trawl or purse seine gear, or on a trip with a vessel issued a Category C, D, or E Herring Permit that is fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3), pursuant to the requirements in § 648.80(d) and (e).
 
 (B) Possess, land, transfer, receive, sell, purchase, trade, or barter; or attempt to transfer, receive, sell, purchase, trade, or barter, or sell more than 2,000 lb (907 kg) of Atlantic herring per trip taken from the Herring GOM Haddock Accountability Measure Area and/or the Herring GB Haddock Accountability Measure Area, defined in § 648.86(a)(3)(ii)(A)(*1*), by a vessel issued an Atlantic herring permit and that fished with midwater trawl gear, after the haddock cap for the area(s) has been reached pursuant to § 648.86(a)(3), unless all herring possessed or landed by the vessel was caught outside the applicable Accountability Measure Area(s).
 
@@ -1149,29 +1149,27 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (C) Fail to comply with a letter of authorization from the Regional Administrator.
 
-(D) Transit Area 1A from June 1 through September 30 with more than 2,000 lb (907.2 kg) of herring without mid-water trawl gear properly stowed and not available for immediate use as defined in § 648.2.
+(D) Transit Area 1A from June 1 through September 30 with more than 2,000 lb (907.2 kg) of herring while having on board midwater trawl gear that is not properly stowed or available for immediate use as defined in § 648.2.
 
-(E) Discard haddock at sea that has been brought on deck, or pumped into the hold, of a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit fishing on a declared herring trip, regardless of gear or area fished, or on a trip with a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit fishing with midwater trawl gear, pursuant to the requirements in § 648.80(d) and (e).
+(E) Discard haddock at sea that has been brought on deck, or pumped into the hold, of a vessel issued a Category A or B Herring Permit fishing on a declared herring trip, regardless of gear or area fished, or on a trip with a vessel issued a Category C, D, or E Herring Permit fishing with midwater trawl gear, pursuant to the requirements in § 648.80(d) and (e).
 
 (F) Transit or be in an area that has zero percent sub-ACL available for harvest specified at § 648.201(d) with herring on board, unless such herring were caught in an area or areas with an available sub-ACL specified at § 648.201(d), all fishing gear is stowed and not available for immediate use as defined in § 648.2, and the vessel is issued a vessel permit that authorizes the amount of herring on board for the area where the herring was harvested.
 
 (viii) *VMS requirements.* (A) Catch, take, or harvest Atlantic herring in or from the EEZ, if a limited access herring vessel, unless equipped with an operable VMS unit.
 
-(B) Fail to notify the NMFS Office of Law Enforcement of the time and date of landing via VMS at least 6 hr prior to landing herring at the end of a declared herring trip, if a vessel has an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit and is fishing with either midwater trawl or purse seine gear, or a Limited Access Incidental Catch Herring Permit and is fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3).
+(B) Fail to notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hours prior to landing or, if fishing ends less than 6 hours before landing, as soon as the vessel stops catching fish, if a vessel has been issued a limited access herring permit (*i.e., Category A, B, or C*) or a Category E Herring Permit or has declared an Atlantic herring carrier trip via VMS.
 
-(C) Fail to declare via VMS into the herring fishery by entering the appropriate herring fishery code and appropriate gear code prior to leaving port at the start of each trip to harvest, possess, or land herring, if a vessel has been issued a Limited Access Herring Permit or issued an Areas 2/3 Open Access Herring Permit or is intending to act as an Atlantic herring carrier.
-
-(D) Fail to notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hr prior to landing or, if fishing ends less than 6 hours before landing, as soon as the vessel stops catching fish, if a vessel has been issued a Limited Access Herring Permit or issued an Areas 2/3 Open Access Herring Permit or has declared an Atlantic herring carrier trip via VMS.
+(C) Fail to declare via VMS into the herring fishery by entering the appropriate herring fishery code and appropriate gear code prior to leaving port at the start of each trip to harvest, possess, or land herring, if a vessel has been issued a limited access herring permit (*i.e., Category A, B, or C*) or issued a Category E Herring Permit or is intending to act as an Atlantic herring carrier.
 
 (2) *Vessel and operator permit holders.* It is unlawful for any person owning or operating a vessel holding a valid Federal Atlantic herring permit, or issued an operator's permit, to do any of the following:
 
-(i) Sell, purchase, receive, trade, barter, or transfer haddock or other regulated NE. multispecies (cod, witch flounder, plaice, yellowtail flounder, pollock, winter flounder, windowpane flounder, redfish, white hake, and Atlantic wolffish); or attempt to sell, purchase, receive, trade, barter, or transfer haddock or other regulated NE. multispecies for human consumption; if the regulated NE. multispecies are landed by a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit fishing on a declared herring trip, regardless of gear or area fished, or by a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit fishing with midwater trawl gear pursuant to § 648.80(d).
+(i) Sell, purchase, receive, trade, barter, or transfer haddock or other regulated NE multispecies (cod, witch flounder, plaice, yellowtail flounder, pollock, winter flounder, windowpane flounder, redfish, white hake, and Atlantic wolffish); or attempt to sell, purchase, receive, trade, barter, or transfer haddock or other regulated NE multispecies for human consumption; if the regulated NE multispecies are landed by a vessel issued a Category A or B Herring Permit fishing on a declared herring trip, regardless of gear or area fished, or by a vessel issued a Category C, D, or E Herring Permit fishing with midwater trawl gear pursuant to § 648.80(d).
 
-(ii) Fail to comply with requirements for herring processors/dealers that handle individual fish to separate out, and retain, for at least 12 hr, all haddock offloaded from a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
+(ii) Fail to comply with requirements for herring processors/dealers that handle individual fish to separate out, and retain, for at least 12 hours, all haddock offloaded from a vessel issued a Category A or B Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Category C, D, or E Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
 
-(iii) Sell, purchase, receive, trade, barter, or transfer; or attempt to sell, purchase, receive, trade, barter, or transfer; to another person, any haddock or other regulated NE. multispecies (cod, witch flounder, plaice, yellowtail flounder, pollock, winter flounder, windowpane flounder, redfish, white hake, and Atlantic wolffish) separated out from a herring catch offloaded from a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
+(iii) Sell, purchase, receive, trade, barter, or transfer; or attempt to sell, purchase, receive, trade, barter, or transfer; to another person, any haddock or other regulated NE. multispecies (cod, witch flounder, plaice, yellowtail flounder, pollock, winter flounder, windowpane flounder, redfish, white hake, and Atlantic wolffish) separated out from a herring catch offloaded from a vessel issued a Category A or B Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Category C, D, or E Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
 
-(iv) While operating as an at-sea herring processor, fail to comply with requirements to separate out and retain all haddock offloaded from a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
+(iv) While operating as an at-sea herring processor, fail to comply with requirements to separate out and retain all haddock offloaded from a vessel issued a Category A or B Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Category C, D, or E Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
 
 (v) Fish with midwater trawl gear in any Northeast Multispecies Closed Area, as defined in § 648.81(a)(3) through (5) and (c)(3) and (4), without a NMFS-certified observer on board, if the vessel has been issued an Atlantic herring permit.
 
@@ -1181,17 +1179,17 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (viii) Slip catch, as defined at § 648.2, unless for one of the reasons specified at § 648.11(m)(7)(i).
 
-(ix) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to move 15 nm (27.78 km), as required by §§ 648.11(m)(7)(iv) and (v) and 648.202(b)(4)(iv).
+(ix) For vessels with Category A or B Herring Permits, fail to move 15 nm (27.78 km), as required by §§ 648.11(m)(7)(iv) and (v) and 648.202(b)(4)(iv).
 
-(x) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to immediately return to port, as required by §§ 648.11(m)(7)(vi) and 648.202(b)(4)(iv).
+(x) For vessels with Category A or B Herring Permits, fail to immediately return to port, as required by §§ 648.11(m)(7)(vi) and 648.202(b)(4)(iv).
 
 (xi) Fail to complete, sign, and submit a Released Catch Affidavit as required by §§ 648.11(m)(7)(iii) and 648.202(b)(4)(ii).
 
 (xii) Fail to report or fail to accurately report a slippage event on the Atlantic herring daily VMS catch report, as required by §§ 648.11(m)(7)(iii) and 648.202(b)(4)(iii).
 
-(xiii) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to comply with industry-funded monitoring requirements at § 648.11(m).
+(xiii) For vessels with Category A or B Herring Permits, fail to comply with industry-funded monitoring requirements at § 648.11(m).
 
-(xiv) For a vessel with All Areas or Areas 2/3 Limited Access Herring Permit, fail to comply with its NMFS-approved vessel monitoring plan requirements, as described at § 648.11(m).
+(xiv) For a vessel with a Category A or B Herring Permit, fail to comply with its NMFS-approved vessel monitoring plan requirements, as described at § 648.11(m).
 
 (3) *Presumption.* For purposes of this part, the following presumption applies: All Atlantic herring retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested from the EEZ, unless the preponderance of all submitted evidence demonstrates that such Atlantic herring were harvested by a vessel fishing exclusively in state waters.
 

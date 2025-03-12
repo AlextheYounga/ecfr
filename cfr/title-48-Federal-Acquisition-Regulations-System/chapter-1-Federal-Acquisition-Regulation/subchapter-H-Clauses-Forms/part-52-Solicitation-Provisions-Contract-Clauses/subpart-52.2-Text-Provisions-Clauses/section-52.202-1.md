@@ -1,5 +1,7 @@
 ##### 52.202-1 Definitions. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 As prescribed in 2.201, insert the following clause:
 
 Definitions (NOV 2013)

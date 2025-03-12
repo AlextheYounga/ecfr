@@ -20,7 +20,7 @@
 
 (iii) Each advanced approaches FDIC-supervised institution must make the public disclosures described in subpart E of this part.
 
-(d) *Reservation of authority.* (1) *Additional capital in the aggregate.* The FDIC may require an FDIC-supervised institution to hold an amount of regulatory capital greater than otherwise required under this part if the FDIC determines that the FDIC-supervised institution's capital requirements under this part are not commensurate with the FDIC-supervised institution's credit, market, operational, or other risks.
+(d) *Reservation of authority*—(1) *Additional capital in the aggregate.* The FDIC may require an FDIC-supervised institution to hold an amount of regulatory capital greater than otherwise required under this part if the FDIC determines that the FDIC-supervised institution's capital requirements under this part are not commensurate with the FDIC-supervised institution's credit, market, operational, or other risks.
 
 (2) *Regulatory capital elements.* (i) If the FDIC determines that a particular common equity tier 1, additional tier 1, or tier 2 capital element has characteristics or terms that diminish its ability to absorb losses, or otherwise present safety and soundness concerns, the FDIC may require the FDIC-supervised institution to exclude all or a portion of such element from common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, as appropriate.
 
@@ -42,13 +42,13 @@
 
 (ii) From January 1, 2014 to December 31, 2014:
 
-(A) Calculate risk-weighted assets in accordance with the general risk-based capital rules under 12 CFR part 325, appendix A, and, if applicable appendix C (state nonmember banks), or 12 CFR part 390, subpart Z and, if applicable, 12 CFR part 325, appendix C (state savings associations)1/\> and substitute such risk-weighted assets for standardized total risk-weighted assets for purposes of § 324.10;
+(A) Calculate risk-weighted assets in accordance with the general risk-based capital rules under 12 CFR part 325, appendix A, and, if applicable appendix C (state nonmember banks), or 12 CFR part 390, subpart Z and, if applicable, 12 CFR part 325, appendix C (state savings associations)1 and substitute such risk-weighted assets for standardized total risk-weighted assets for purposes of § 324.10;
 
 1 For the purpose of calculating its general risk-based capital ratios from January 1, 2014 to December 31, 2014, an advanced approaches FDIC-supervised institution shall adjust, as appropriate, its risk-weighted asset measure (as that amount is calculated under 12 CFR part 325, appendix A, (state nonmember banks), and 12 CFR part 390, subpart Z (state savings associations) in the general risk-based capital rules) by excluding those assets that are deducted from its regulatory capital under § 324.22.
 
 (B) If applicable, calculate general market risk equivalent assets in accordance with 12 CFR part 325, appendix C, section 4(a)(3) and substitute such general market risk equivalent assets for standardized market risk-weighted assets for purposes of § 324.20(d)(3); and
 
-(C) Substitute the corresponding provision or provisions of 12 CFR part 325, appendix A, and, if applicable, appendix C (state nonmember banks), and 12 CFR part 390, subpart Z and, if applicable, 12 CFR part 325, appendix C (state savings associations) for any reference to subpart D of this part in: § 324.121(c); § 324.124(a) and (b); § 324.144(b); § 324.154(c) and (d); § 324.202(b) (definition of covered position in paragraph (b)(3)(iv)); and § 324.211(b);2/\>
+(C) Substitute the corresponding provision or provisions of 12 CFR part 325, appendix A, and, if applicable, appendix C (state nonmember banks), and 12 CFR part 390, subpart Z and, if applicable, 12 CFR part 325, appendix C (state savings associations) for any reference to subpart D of this part in: § 324.121(c); § 324.124(a) and (b); § 324.144(b); § 324.154(c) and (d); § 324.202(b) (definition of covered position in paragraph (b)(3)(iv)); and § 324.211(b);2
 
 2 In addition, for purposes of § 324.201(c)(3), from January 1, 2014 to December 31, 2014, for any circumstance in which the FDIC may require an FDIC-supervised institution to calculate risk-based capital requirements for specific positions or portfolios under subpart D of this part, the FDIC will instead require the FDIC-supervised institution to make such calculations according to 12 CFR part 325, appendix A, and, if applicable, appendix C (state nonmember banks), or 12 CFR part 390, subpart Z and, if applicable, 12 CFR part 325, appendix C (state savings associations).
 
@@ -76,4 +76,4 @@
 
 (4) An FDIC-supervised institution that changes from one category of FDIC-supervised institution to another of such categories must comply with the requirements of its category in this part, including applicable transition provisions of the requirements in this part, no later than on the first day of the second quarter following the change in the FDIC-supervised institution's category.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 57448, Sept. 26, 2014; 84 FR 59277, Nov. 1, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 57748, Sept. 26, 2014; 84 FR 59277, Nov. 1, 2019]

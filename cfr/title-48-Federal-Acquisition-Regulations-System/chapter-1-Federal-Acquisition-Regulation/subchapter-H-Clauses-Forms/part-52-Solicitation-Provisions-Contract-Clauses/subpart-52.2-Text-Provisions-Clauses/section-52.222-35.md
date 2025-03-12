@@ -1,5 +1,7 @@
 ##### 52.222-35 Equal Opportunity for Veterans. #####
 
+Link to an amendment published at 85 FR 27095, May 6, 2020.
+
 As prescribed in 22.1310(a)(1), insert the following clause:
 
 Equal Opportunity for Veterans (OCT 2015)

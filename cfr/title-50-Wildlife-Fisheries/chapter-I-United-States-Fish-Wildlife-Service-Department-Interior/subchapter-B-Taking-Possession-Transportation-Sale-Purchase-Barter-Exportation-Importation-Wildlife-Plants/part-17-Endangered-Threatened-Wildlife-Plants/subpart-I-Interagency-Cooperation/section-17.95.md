@@ -19071,6 +19071,8 @@ The map provided is for informational purposes only.
 
 2. The remainder of § 17.95 appears in 50 Part 17, § 17.95(f) to end of § 17.95.
 
+Link to an amendment published at 85 FR 26818, May 5, 2020.
+
 (f) *Clams and Snails.*
 
 Appalachian Elktoe (*Alasmidonta raveneliana*)

@@ -1,5 +1,7 @@
 ##### 52.214-27 Price Reduction for Defective Certified Cost or Pricing Data - Modifications - Sealed Bidding. #####
 
+Link to an amendment published at 85 FR 27093, May 6, 2020.
+
 As prescribed in 14.201-7(b), insert the following clause:
 
 Price Reduction for Defective Certified Cost or Pricing Data - Modifications - Sealed Bidding (AUG 2011)

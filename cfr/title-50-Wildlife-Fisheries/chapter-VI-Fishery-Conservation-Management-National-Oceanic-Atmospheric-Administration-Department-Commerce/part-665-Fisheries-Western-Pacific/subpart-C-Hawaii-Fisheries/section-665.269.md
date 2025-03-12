@@ -1,5 +1,7 @@
 ##### § 665.269 Quotas. #####
 
+Link to an amendment published at 85 FR 26624, May 5, 2020.
+
 (a) *General.* The quotas limiting the amount of precious coral that may be taken in any precious coral permit area during the fishing year are listed in § 665.269(d). Only live coral is counted toward the quota. The accounting period for all quotas begins July 1, 1983.
 
 (b) *Conditional bed closure.* A conditional bed will be closed to all nonselective coral harvesting after the quota for one species of coral has been taken.

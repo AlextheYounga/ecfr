@@ -1,5 +1,7 @@
 ##### 52.232-16 Progress Payments. #####
 
+Link to an amendment published at 85 FR 27097, May 6, 2020.
+
 As prescribed in 32.502-4(a), insert the following clause:
 
 Progress Payments (APR 2012)

@@ -142,6 +142,10 @@ For the purposes of this part:
 
 (4) A U.S. intermediate holding company.
 
+*Covered Federal Reserve Facility Funding* means a non-recourse loan that is extended as part of the Money Market Mutual Fund Liquidity Facility or Paycheck Protection Program Liquidity Facility authorized by the Board of Governors of the Federal Reserve System pursuant to section 13(3) of the Federal Reserve Act.1
+
+1 The Money Market Mutual Fund Liquidity Facility was authorized on March 18, 2020, and the Paycheck Protection Program Liquidity Facility was authorized on April 6, 2020.
+
 *Covered nonbank company* means a designated company that the Board of Governors of the Federal Reserve System has required by rule or order to comply with the requirements of 12 CFR part 249.
 
 *Credit facility* means a legally binding agreement to extend funds if requested at a future date, including a general working capital facility such as a revolving credit facility for general corporate or working capital purposes. A credit facility does not include a legally binding written agreement to extend funds at a future date to a counterparty that is made for the purpose of refinancing the debt of the counterparty when it is unable to obtain a primary or anticipated source of funding. *See liquidity facility.*
@@ -376,4 +380,4 @@ For the purposes of this part:
 
 *Wholesale deposit means* a demand or term deposit that is provided by a wholesale customer or counterparty.
 
-[79 FR 61523, 61538, Oct. 10, 2014, as amended at 79 FR 78294, Dec. 30, 2014; 82 FR 56669, Nov. 29, 2017; 83 FR 44454, Aug. 31, 2018; 84 FR 59266, Nov. 1, 2019]
+[79 FR 61523, 61538, Oct. 10, 2014, as amended at 79 FR 78294, Dec. 30, 2014; 82 FR 56669, Nov. 29, 2017; 83 FR 44454, Aug. 31, 2018; 84 FR 59266, Nov. 1, 2019; 85 FR 26841, May 6, 2020]

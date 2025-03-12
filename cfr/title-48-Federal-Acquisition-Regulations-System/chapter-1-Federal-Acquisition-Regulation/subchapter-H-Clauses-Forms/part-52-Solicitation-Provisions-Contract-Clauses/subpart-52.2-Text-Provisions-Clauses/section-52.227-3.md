@@ -1,5 +1,7 @@
 ##### 52.227-3 Patent Indemnity. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 27.201-2(c)(1), insert the following clause:
 
 Patent Indemnity (APR 1984)

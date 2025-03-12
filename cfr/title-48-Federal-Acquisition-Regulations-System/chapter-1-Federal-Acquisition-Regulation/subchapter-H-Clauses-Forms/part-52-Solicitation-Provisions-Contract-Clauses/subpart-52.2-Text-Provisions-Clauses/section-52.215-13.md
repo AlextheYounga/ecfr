@@ -1,5 +1,7 @@
 ##### 52.215-13 Subcontractor Certified Cost or Pricing Data - Modifications. #####
 
+Link to an amendment published at 85 FR 27094, May 6, 2020.
+
 As prescribed in 15.408(e), insert the following clause:
 
 Subcontractor Certified Cost or Pricing Data - Modifications (OCT 2010)

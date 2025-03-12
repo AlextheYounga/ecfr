@@ -20,7 +20,7 @@
 
 *Credit valuation adjustment* (CVA) means the fair value adjustment to reflect counterparty credit risk in valuation of OTC derivative contracts.
 
-*Default* - For the purposes of calculating capital requirements under this subpart:
+*Default*—For the purposes of calculating capital requirements under this subpart:
 
 (1) *Retail.* (i) A retail exposure of an FDIC-supervised institution is in default if:
 
@@ -38,7 +38,7 @@
 
 (A) The FDIC-supervised institution determines that the obligor is unlikely to pay its credit obligations to the FDIC-supervised institution in full, without recourse by the FDIC-supervised institution to actions such as realizing collateral (if held); or
 
-(B) The obligor is past due more than 90 days on any material credit obligation(s) to the FDIC-supervised institution.29/\>
+(B) The obligor is past due more than 90 days on any material credit obligation(s) to the FDIC-supervised institution.29
 
 29 Overdrafts are past due once the obligor has breached an advised limit or been advised of a limit smaller than the current outstanding balance.
 

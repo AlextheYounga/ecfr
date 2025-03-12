@@ -1,5 +1,7 @@
 ##### 52.222-37 Employment Reports on Veterans. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 22.1310(b), insert the following clause:
 
 Employment Reports on Veterans (FEB 2016)
@@ -14,7 +16,7 @@ Employment Reports on Veterans (FEB 2016)
 
 (3) The maximum number and minimum number of employees of the Contractor or subcontractor at each hiring location during the period covered by the report.
 
-(c) The Contractor shall report the above items by filing the VETS-4212 “Federal Contractor Veterans' Employment Report” (see “VETS-4212 Federal Contractor Reporting” and “Filing Your VETS-4212 Report” at*http://www.dol.gov/vets/vets4212.htm*).
+(c) The Contractor shall report the above items by filing the VETS-4212 “Federal Contractor Veterans' Employment Report” (see “VETS-4212 Federal Contractor Reporting” and “Filing Your VETS-4212 Report” at *http://www.dol.gov/vets/vets4212.htm*).
 
 (d) The Contractor shall file VETS-4212Reports no later than September 30 of each year.
 

@@ -1,5 +1,7 @@
 ##### 52.203-6 Restrictions on Subcontractor Sales to the Government. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 As prescribed in 3.503-2, insert the following clause:
 
 Restrictions on Subcontractor Sales to the Government (SEP 2006)

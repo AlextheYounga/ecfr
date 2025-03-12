@@ -1,5 +1,7 @@
 ##### 52.228-15 Performance and Payment Bonds - Construction. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed in 28.102-3(a), insert a clause substantially as follows:
 
 Performance and Payment Bonds - Construction (OCT 2010)

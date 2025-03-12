@@ -1,5 +1,7 @@
 ##### 52.225-25 Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran - Representation and Certifications. #####
 
+Link to an amendment published at 85 FR 27096, May 6, 2020.
+
 As prescribed at 25.1103(e), insert the following provision:
 
 Prohibition on Contracting With Entities Engaging in Sanctioned Activities Relating to Iran - Representation and Certification (AUG 2018)

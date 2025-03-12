@@ -1,5 +1,7 @@
 ##### 22.1003-3 Statutory exemptions. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 The Service Contract Labor Standards statute does not apply to -
 
 (a) Any contract for construction, alteration, or repair of public buildings or public works, including painting and decorating;

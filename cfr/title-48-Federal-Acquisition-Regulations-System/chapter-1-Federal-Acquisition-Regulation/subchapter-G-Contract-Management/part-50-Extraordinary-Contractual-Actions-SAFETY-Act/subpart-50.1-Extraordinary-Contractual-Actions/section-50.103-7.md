@@ -1,5 +1,7 @@
 ##### 50.103-7 Contract requirements. #####
 
+Link to an amendment published at 85 FR 27091, May 6, 2020.
+
 (a) Pub. L. 85-804 and E.O. 10789 require that every contract entered into, amended, or modified under this Subpart 50.1 shall contain -
 
 (1) A citation of Pub. L. 85-804 and E.O. 10789;
