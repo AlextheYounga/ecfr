@@ -14,7 +14,7 @@
 
 *Aeronautical experience* means pilot time obtained in an aircraft, flight simulator, or flight training device for meeting the appropriate training and flight time requirements for an airman certificate, rating, flight review, or recency of flight experience requirements of this part.
 
-*Authorized instructor* means -
+*Authorized instructor* means—
 
 (i) A person who holds a ground instructor certificate issued under part 61 of this chapter and is in compliance with § 61.217, when conducting ground training in accordance with the privileges and limitations of his or her ground instructor certificate;
 
@@ -26,9 +26,9 @@
 
 *Complex airplane* means an airplane that has a retractable landing gear, flaps, and a controllable pitch propeller, including airplanes equipped with an engine control system consisting of a digital computer and associated accessories for controlling the engine and propeller, such as a full authority digital engine control; or, in the case of a seaplane, flaps and a controllable pitch propeller, including seaplanes equipped with an engine control system consisting of a digital computer and associated accessories for controlling the engine and propeller, such as a full authority digital engine control.
 
-*Cross-country time* means -
+*Cross-country time* means—
 
-(i) Except as provided in paragraphs (ii) through (vi) of this definition, time acquired during flight -
+(i) Except as provided in paragraphs (ii) through (vi) of this definition, time acquired during flight—
 
 (A) Conducted by a person who holds a pilot certificate;
 
@@ -38,7 +38,7 @@
 
 (D) That involves the use of dead reckoning, pilotage, electronic navigation aids, radio aids, or other navigation systems to navigate to the landing point.
 
-(ii) For the purpose of meeting the aeronautical experience requirements (except for a rotorcraft category rating), for a private pilot certificate (except for a powered parachute category rating), a commercial pilot certificate, or an instrument rating, or for the purpose of exercising recreational pilot privileges (except in a rotorcraft) under § 61.101 (c), time acquired during a flight -
+(ii) For the purpose of meeting the aeronautical experience requirements (except for a rotorcraft category rating), for a private pilot certificate (except for a powered parachute category rating), a commercial pilot certificate, or an instrument rating, or for the purpose of exercising recreational pilot privileges (except in a rotorcraft) under § 61.101 (c), time acquired during a flight—
 
 (A) Conducted in an appropriate aircraft;
 
@@ -46,19 +46,19 @@
 
 (C) That involves the use of dead reckoning, pilotage, electronic navigation aids, radio aids, or other navigation systems to navigate to the landing point.
 
-(iii) For the purpose of meeting the aeronautical experience requirements for a sport pilot certificate (except for powered parachute privileges), time acquired during a flight conducted in an appropriate aircraft that -
+(iii) For the purpose of meeting the aeronautical experience requirements for a sport pilot certificate (except for powered parachute privileges), time acquired during a flight conducted in an appropriate aircraft that—
 
 (A) Includes a point of landing at least a straight line distance of more than 25 nautical miles from the original point of departure; and
 
 (B) Involves, as applicable, the use of dead reckoning; pilotage; electronic navigation aids; radio aids; or other navigation systems to navigate to the landing point.
 
-(iv) For the purpose of meeting the aeronautical experience requirements for a sport pilot certificate with powered parachute privileges or a private pilot certificate with a powered parachute category rating, time acquired during a flight conducted in an appropriate aircraft that -
+(iv) For the purpose of meeting the aeronautical experience requirements for a sport pilot certificate with powered parachute privileges or a private pilot certificate with a powered parachute category rating, time acquired during a flight conducted in an appropriate aircraft that—
 
 (A) Includes a point of landing at least a straight line distance of more than 15 nautical miles from the original point of departure; and
 
 (B) Involves, as applicable, the use of dead reckoning; pilotage; electronic navigation aids; radio aids; or other navigation systems to navigate to the landing point.
 
-(v) For the purpose of meeting the aeronautical experience requirements for any pilot certificate with a rotorcraft category rating or an instrument-helicopter rating, or for the purpose of exercising recreational pilot privileges, in a rotorcraft, under § 61.101(c), time acquired during a flight -
+(v) For the purpose of meeting the aeronautical experience requirements for any pilot certificate with a rotorcraft category rating or an instrument-helicopter rating, or for the purpose of exercising recreational pilot privileges, in a rotorcraft, under § 61.101(c), time acquired during a flight—
 
 (A) Conducted in an appropriate aircraft;
 
@@ -66,7 +66,7 @@
 
 (C) That involves the use of dead reckoning, pilotage, electronic navigation aids, radio aids, or other navigation systems to navigate to the landing point.
 
-(vi) For the purpose of meeting the aeronautical experience requirements for an airline transport pilot certificate (except with a rotorcraft category rating), time acquired during a flight -
+(vi) For the purpose of meeting the aeronautical experience requirements for an airline transport pilot certificate (except with a rotorcraft category rating), time acquired during a flight—
 
 (A) Conducted in an appropriate aircraft;
 
@@ -74,7 +74,7 @@
 
 (C) That involves the use of dead reckoning, pilotage, electronic navigation aids, radio aids, or other navigation systems.
 
-(vii) For a military pilot who qualifies for a commercial pilot certificate (except with a rotorcraft category rating) under § 61.73 of this part, time acquired during a flight -
+(vii) For a military pilot who qualifies for a commercial pilot certificate (except with a rotorcraft category rating) under § 61.73 of this part, time acquired during a flight—
 
 (A) Conducted in an appropriate aircraft;
 
@@ -102,7 +102,7 @@
 
 *Night vision goggle operation* means the portion of a flight that occurs during the time period from 1 hour after sunset to 1 hour before sunrise where the pilot maintains visual surface reference using night vision goggles in an aircraft that is approved for such an operation.
 
-*Pilot time* means that time in which a person -
+*Pilot time* means that time in which a person—
 
 (i) Serves as a required pilot flight crewmember;
 
@@ -116,7 +116,7 @@
 
 *Set of aircraft* means aircraft that share similar performance characteristics, such as similar airspeed and altitude operating envelopes, similar handling characteristics, and the same number and type of propulsion systems.
 
-*Student pilot seeking a sport pilot certificate* means a person who has received an endorsement -
+*Student pilot seeking a sport pilot certificate* means a person who has received an endorsement—
 
 (i) To exercise student pilot privileges from a certificated flight instructor with a sport pilot rating; or
 
@@ -124,7 +124,7 @@
 
 *Technically advanced airplane (TAA)* means an airplane equipped with an electronically advanced avionics system.
 
-*Training time* means training received -
+*Training time* means training received—
 
 (i) In flight from an authorized instructor;
 
@@ -132,4 +132,4 @@
 
 (iii) In a flight simulator or flight training device from an authorized instructor.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40893, July 30, 1997 as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42372, July 15, 2013; Amdt. 61-137, 81 FR 42208, June 28, 2016; Amdt. 61-142, 83 FR 30726, June 27, 2018]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40893, July 30, 1997 as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42372, July 15, 2013; Amdt. 61-137, 81 FR 42208, June 28, 2016; Amdt. 61-142, 83 FR 30276, June 27, 2018]

@@ -36,7 +36,11 @@
 
 (2) Below the altitude of the ceiling of a Class B or Class C airspace area designated for an airport, or 10,000 feet MSL, whichever is lower.
 
-(f) Each person operating an aircraft equipped with ADS-B Out must operate this equipment in the transmit mode at all times.
+(f) Each person operating an aircraft equipped with ADS-B Out must operate this equipment in the transmit mode at all times unless -
+
+(1) Otherwise authorized by the FAA when the aircraft is performing a sensitive government mission for national defense, homeland security, intelligence or law enforcement purposes and transmitting would compromise the operations security of the mission or pose a safety risk to the aircraft, crew, or people and property in the air or on the ground; or
+
+(2) Otherwise directed by ATC when transmitting would jeopardize the safe execution of air traffic control functions.
 
 (g) Requests for ATC authorized deviations from the requirements of this section must be made to the ATC facility having jurisdiction over the concerned airspace within the time periods specified as follows:
 
@@ -50,4 +54,4 @@
 
 (2) Copies of Section 2, Equipment Performance Requirements and Test Procedures, of RTCA DO-260B, Minimum Operational Performance Standards for 1090 MHz Extended Squitter Automatic Dependent Surveillance-Broadcast (ADS-B) and Traffic Information Services-Broadcast (TIS-B), December 2, 2009 (referenced in TSO-C166b) and Section 2, Equipment Performance Requirements and Test Procedures, of RTCA DO-282B, Minimum Operational Performance Standards for Universal Access Transceiver (UAT) Automatic Dependent Surveillance-Broadcast (ADS-B), December 2, 2009 (referenced in TSO C-154c) may be obtained from RTCA, Inc., 1828 L Street, NW., Suite 805, Washington, DC 20036-5133, telephone 202-833-9339. Copies of RTCA DO-260B and RTCA DO-282B are also available on RTCA Inc.'s Web site, at*http://www.rtca.org/onlinecart/allproducts.cfm.*
 
-[Doc. No. FAA-2007-29305, 75 FR 30193, May 28, 2010; Amdt. 91-314-A, 75 FR 37712, June 30, 2010; Amdt. 91-316, 75 FR 37712, June 30, 2010; Amdt. 91-336, 80 FR 6900, Feb. 9, 2015; Amdt. 91-336A, 80 FR 11537, Mar. 4, 2015]
+[Doc. No. FAA-2007-29305, 75 FR 30193, May 28, 2010; Amdt. 91-314-A, 75 FR 37712, June 30, 2010; Amdt. 91-316, 75 FR 37712, June 30, 2010; Amdt. 91-336, 80 FR 6900, Feb. 9, 2015; Amdt. 91-336A, 80 FR 11537, Mar. 4, 2015; Amdt. 91-355, 84 FR 34287, July 18, 2019]

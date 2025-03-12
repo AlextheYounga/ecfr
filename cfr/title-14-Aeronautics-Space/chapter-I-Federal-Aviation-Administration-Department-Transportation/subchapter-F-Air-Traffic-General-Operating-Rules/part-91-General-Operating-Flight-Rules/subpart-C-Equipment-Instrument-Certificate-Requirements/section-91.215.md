@@ -22,7 +22,7 @@
 
 (ii) In the airspace from the surface to 10,000 feet MSL within a 10-nautical-mile radius of any airport listed in appendix D, section 2 of this part, excluding the airspace below 1,200 feet outside of the lateral boundaries of the surface area of the airspace designated for that airport.
 
-(c) *Transponder-on operation.* While in the airspace as specified in paragraph (b) of this section or in all controlled airspace, each person operating an aircraft equipped with an operable ATC transponder maintained in accordance with § 91.413 of this part shall operate the transponder, including Mode C equipment if installed, and shall reply on the appropriate code or as assigned by ATC.
+(c) *Transponder-on operation.* While in the airspace as specified in paragraph (b) of this section or in all controlled airspace, each person operating an aircraft equipped with an operable ATC transponder maintained in accordance with § 91.413 of this part shall operate the transponder, including Mode C equipment if installed, and shall reply on the appropriate code or as assigned by ATC, unless otherwise directed by ATC when transmitting would jeopardize the safe execution of air traffic control functions.
 
 (d) *ATC authorized deviations.* Requests for ATC authorized deviations must be made to the ATC facility having jurisdiction over the concerned airspace within the time periods specified as follows:
 
@@ -32,4 +32,4 @@
 
 (3) For operation of an aircraft that is not equipped with a transponder, the request must be made at least one hour before the proposed operation.
 
-(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34304, Aug. 18, 1989, as amended by Amdt. 91-221, 56 FR 469, Jan. 4, 1991; Amdt. 91-227, 56 FR 65660, Dec. 17, 1991; Amdt. 91-227, 7 FR 328, Jan. 3, 1992; Amdt. 91-229, 57 FR 34618, Aug. 5, 1992; Amdt. 91-267, 66 FR 21066, Apr. 27, 2001]
+(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34304, Aug. 18, 1989, as amended by Amdt. 91-221, 56 FR 469, Jan. 4, 1991; Amdt. 91-227, 56 FR 65660, Dec. 17, 1991; Amdt. 91-227, 7 FR 328, Jan. 3, 1992; Amdt. 91-229, 57 FR 34618, Aug. 5, 1992; Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-355, 84 FR 34287, July 18, 2019]
