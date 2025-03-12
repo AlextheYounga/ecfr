@@ -1,0 +1,3 @@
+##### § 413.321 Simplified cost report for SNFs. #####
+
+SNFs electing to be paid under the prospectively determined payment rate system may file a simplified cost report. The cost report contains a simplified method of cost finding to be used in lieu of cost methods described in § 413.24(d). This method is specified in the instructions for Form CMS-2540S, contained in sections 3000-3027.3 of Part 2 of the Provider Reimbursement Manual. This form may not be used by hospital-based SNFs or SNFs that are part of a health care complex. Those SNFs must file a cost report that reflects the shared services and administrative costs of the hospital and any other related facilities in the health care complex.

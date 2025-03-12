@@ -1,7 +1,5 @@
 ##### § 412.22 Excluded hospitals and hospital units: General rules. #####
 
-Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
-
 (a) *Criteria.* Subject to the criteria set forth in paragraph (e) of this section, a hospital is excluded from the prospective payment systems specified in § 412.1(a)(1) of this part if it meets the criteria for one or more of the excluded classifications described in § 412.23. For purposes of this subpart, the term “hospital” includes a critical access hospital (CAH).
 
 (b) *Cost reimbursement.* Except for those hospitals specified in paragraph (c) of this section, and § 412.20(b), (c), and (d), all excluded hospitals (and excluded hospital units, as described in § 412.23 through § 412.29) are reimbursed under the cost reimbursement rules set forth in part 413 of this chapter, and are subject to the ceiling on the rate of hospital cost increases as specified in § 413.40 of this chapter.
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
 
 (d) *Changes in hospitals' status.* For purposes of exclusion from the prospective payment systems under this subpart, the status of each currently participating hospital (excluded or not excluded) is determined at the beginning of each cost reporting period and is effective for the entire cost reporting period. Any changes in the status of the hospital are made only at the start of a cost reporting period.
 
-(e) *Hospitals-within-hospitals.* Except as provided in paragraphs (e)(1)(vi) and (f) of this section, a hospital that occupies space in a building also used by another hospital, or in one or more separate buildings located on the same campus as buildings used by another hospital, must meet the following criteria in order to be excluded from the prospective payment systems specified in § 412.1(a)(1):
+(e) *Hospitals-within-hospitals.* A hospital-within-a-hospital is a hospital that occupies space in a building also used by another hospital, or in one or more separate buildings located on the same campus as buildings used by another hospital. Prior to October 1, 2017, except as provided in paragraphs (e)(1)(vi) and (f) of this section, a hospital-within-a-hospital must meet the following criteria in order to be excluded from the prospective payment systems specified in § 412.1(a)(1). On or after October 1, 2017, except as provided in paragraphs (e)(1)(vi) and (f) of this section, a hospital-within-hospital that is excluded from the prospective payment systems specified in § 412.1(a)(1) that occupies space in a building also used by a hospital which is not excluded from the prospective payment systems specified in § 412.1(a)(1), or in one or more separate buildings located on the same campus as buildings used by a hospital not excluded from the prospective payment systems specified in § 412.1(a)(1) must meet the following criteria in order to be excluded from the prospective payment systems specified in § 412.1(a)(1).
 
 (1) Except as specified in paragraph (f) of this section, for cost reporting periods beginning on or after October 1, 1997 -
 
@@ -30,7 +28,7 @@ Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
 
 (iv) *Chief executive officer.* The hospital has a single chief executive officer through whom all administration authority flows, and who exercises control and surveillance over all administrative activities of the hospital. The chief executive officer is not employed by, or under contract with, either the hospital occupying space in the same building or on the same campus or any third entity that controls both hospitals.
 
-(v) *Performance of basic hospital functions.* The hospital meets one of the following criteria:
+(v) *Performance of basic hospital functions.* Prior to October 1, 2017, the hospital meets one of the following criteria:
 
 (A) The hospital performs the basic functions specified in §§ 482.21 through 482.27, 482.30, 482.42, 482.43, and 482.45 of this chapter through the use of employees or under contracts or other agreements with entities other than the hospital occupying space in the same building or on the same campus, or a third entity that controls both hospitals. Food and dietetic services and housekeeping, maintenance, and other services necessary to maintain a clean and safe physical environment could be obtained under contracts or other agreements with the hospital occupying space in the same building or on the same campus, or with a third entity that controls both hospitals.
 
@@ -125,5 +123,9 @@ Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
 (7) The provisions of paragraph (h)(2)(i) of this section do not apply to any long-term care hospital that is subject to the long-term care hospital prospective payment system under Subpart O of this subpart, effective for cost reporting periods occurring on or after October 1, 2002, and that elects to be paid based on 100 percent of the Federal prospective payment rate as specified in § 412.533(c), beginning with the first cost reporting period following that election, or when the LTCH is fully transitioned to 100 percent of the Federal prospective rate, or to a new long-term care hospital, as defined in § 412.23(e)(4).
 
 (8) The provisions of paragraph (h)(2)(i) of this section do not apply to any inpatient rehabilitation facility that is subject to the inpatient rehabilitation facility prospective payment system under subpart P of this part, effective for cost reporting periods beginning on or after October 1, 2003.
+
+(i)(1) *Requirements for extended neoplastic disease care hospitals.* For cost reporting periods beginning on or after January 1, 2015, an extended neoplastic disease care hospital is a hospital that was first excluded from the prospective payment system under this section in 1986 which has an average inpatient length of stay for all patients, including both Medicare and non-Medicare inpatients, of greater than 20 days and demonstrates that at least 80 percent of its annual Medicare inpatient discharges in the 12-month cost reporting period ending in fiscal year 1997 have a principal diagnosis that reflects a finding of neoplastic disease as defined in paragraph (f)(1)(iv) of this section.
+
+(2) *Payment to extended neoplastic disease care hospitals.* Payment for inpatient operating costs for hospitals classified under paragraph (i)(1) of this section is made as set forth in § 412.526(c)(3). Payment for capital costs for hospitals classified under paragraph (i)(1) of this section is made as set forth in § 412.526(c)(4).
 
 [50 FR 12741, Mar. 29, 1985]Editorial Note:For Federal Register citations affecting § 412.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

@@ -1,7 +1,5 @@
 ##### § 412.500 Basis and scope of subpart. #####
 
-Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
-
 (a) *Basis.* This subpart implements the following:
 
 (1) Section 123 of Public Law 106-113, which provides for the implementation of a prospective payment system for long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Act.
@@ -24,6 +22,20 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (ii) Requires the Secretary's review of the payment rates and regulations governing long-term care hospitals established under section 1886(d)(1)(B)(iv)(II) of the Act and application of payment adjustments based on that review.
 
+(7) Section 411 of Public Law 114-10 which revises the annual update to the LTCH PPS standard Federal payment rate in FY 2018.
+
+(8) Public Law 114-255 which at -
+
+(i) Section 15004 amended the moratorium on increasing beds in existing LTCHs and LTCH satellite facilities and amended high cost outlier payment requirements;
+
+(ii) Section 15006 amended moratoria on certain payment policies;
+
+(iii) Section 15007 amended the average length of stay requirements;
+
+(iv) Section 15009 temporally excepted certain spinal cord specialty hospitals from the site neutral payment rate; and
+
+(v) Section 15010 temporally excepted certain wound care discharges from certain LTCHs from the site neutral payment rate.
+
 (b) *Scope.* This subpart sets forth the framework for the prospective payment system for long-term care hospitals, including the methodology used for the development of payment rates and associated adjustments and related rules. Under this system, for cost reporting periods beginning on or after October 1, 2002, payment for the operating and capital-related costs of inpatient hospital services furnished by long-term care hospitals is made on the basis of prospectively determined rates and applied on a per discharge basis.
 
-[67 FR 56049, Aug. 30, 2002, as amended at 73 FR 24879, May 6, 2008; 79 FR 50355, Aug. 22, 2014]
+[67 FR 56049, Aug. 30, 2002, as amended at 73 FR 24879, May 6, 2008; 79 FR 50355, Aug. 22, 2014; 82 FR 38512, Aug. 14, 2017]

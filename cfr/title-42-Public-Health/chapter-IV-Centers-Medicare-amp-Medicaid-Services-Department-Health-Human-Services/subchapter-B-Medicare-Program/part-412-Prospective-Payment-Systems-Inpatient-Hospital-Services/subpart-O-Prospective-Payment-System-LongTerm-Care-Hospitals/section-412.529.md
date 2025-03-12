@@ -1,7 +1,5 @@
 ##### § 412.529 Special payment provision for short-stay outliers. #####
 
-Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
-
 (a) *Short-stay outlier defined.* “Short-stay outlier” means a discharge with a covered length of stay in a long-term care hospital that is up to and including five-sixths of the geometric average length of stay for each LTC-DRG.
 
 (b) *Adjustment to payment.* CMS adjusts the hospital's Federal prospective payment to account for any case that is determined to be a short-stay outlier, as defined in paragraph (a) of this section, under the methodology specified in paragraph (c) of this section.
@@ -28,7 +26,7 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (B) The blend percentage of the amount determined under paragraph (d)(4)(i) of this section is determined by subtracting the percentage determined in paragraph (A) from 100 percent.
 
-(3) *Discharges occurring on or after July 1, 2007 and before December 29, 2007 and discharges occurring on or after December 29, 2012.* For discharges from long-term care hospitals described under § 412.23(e)(2)(i) occurring on or after July 1, 2007 and before December 29, 2007 and discharges occurring on or after December 29, 2012, the LTCH prospective payment system adjusted payment amount for a short-stay outlier case is adjusted by either of the following:
+(3) *Discharges occurring on or after July 1, 2007 and before December 29, 2007 and discharges occurring on or after December 29, 2012 and on or before September 30, 2017.* For discharges from long-term care hospitals described under § 412.23(e)(2)(i) occurring on or after July 1, 2007, and on or before December 29, 2007 and discharges occurring on or after December 29, 2012, and on or before September 30, 2017, the LTCH prospective payment system adjusted payment amount for a short-stay outlier case is adjusted by either of the following:
 
 (i) If the covered length of stay of the case assigned to a particular LTC-DRG is less than or equal to one standard deviation from the geometric ALOS of the same DRG under the inpatient prospective payment system (the IPPS-comparable threshold), the LTCH prospective payment system adjusted payment amount for such a case is the least of the following amounts:
 
@@ -41,6 +39,8 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 (D) An amount payable under subpart O of this part comparable to the hospital inpatient prospective payment system per diem amount determined under paragraph (d)(4) of this section.
 
 (ii) If the covered length of stay of the case assigned to a particular LTC-DRG is greater than one standard deviation from the geometric ALOS of the same DRG under the inpatient prospective payment system (the IPPS-comparable threshold), the LTCH prospective payment system adjusted payment amount for such a case is determined under paragraph (c)(2) of this section.
+
+(4) *Discharges occurring on or after October 1, 2017.* For discharges occurring on or after October 1, 2017, short-stay outlier payments are determined according to paragraph (c)(2)(iv) of this section.
 
 (d) *Calculation of alternative payment amounts* - (1) *Determining the LTC-DRG per diem amount.* CMS calculates the LTC-DRG per diem amount for short-stay outliers for each LTC-DRG by dividing the product of the standard Federal payment rate and the LTC-DRG relative weight by the geometric average length of stay of the specific LTC-DRG multiplied by the covered days of the stay.
 
@@ -100,7 +100,7 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (C) The Federal prospective payment for the LTC-DRG determined under paragraph (d)(3) of this section.
 
-(f) *Reconciliation of short-stay outlier payments.* Payments are reconciled in accordance with one of the following:
+(f) *Reconciliation of short-stay payments.* Payments for discharges occurring before October 1, 2017 are reconciled in accordance with one of the following:
 
 (1) *Discharges occurring on or after October 1, 2002, and before August 8, 2003.* For discharges occurring on or after October 1, 2002, and before August 8, 2003, no reconciliations are made to short-stay outlier payments upon cost report settlement to account for differences between cost-to-charge ratio and the actual cost-to-charge ratio of the case.
 
@@ -126,4 +126,4 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (v) At the time of any reconciliation under paragraph (f)(4)(iv) of this section, outlier payments may be adjusted to account for the time value of any underpayments or overpayments. Any adjustment is based upon a widely available index to be established in advance by the Secretary, and is applied from the midpoint of the cost reporting period to the date of reconciliation.
 
-[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 71 FR 27899, May 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 75 FR 50416, Aug. 16, 2010; 77 FR 53679, Aug. 31, 2012]
+[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 71 FR 27899, May 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 75 FR 50416, Aug. 16, 2010; 77 FR 53679, Aug. 31, 2012; 82 FR 38513, Aug. 14, 2017]

@@ -1,16 +1,14 @@
 ##### § 412.634 Requirements under the Inpatient Rehabilitation Facility (IRF) Quality Reporting Program (QRP). #####
 
-Link to an amendment published at 82 FR 36305, Aug. 3, 2017.
-
 (a) *Participation.* (1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the Certification and Survey Provider Enhanced Reports (CASPER) system.
 
 (2) [Reserved]
 
-(b) *Submission Requirements and Payment Impact.* (1) IRFs must submit to CMS data on measures specified under section 1886(j)(7)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, as applicable. Sections 1886(j)(7)(C) and (j)(7)(F)(iii) of the Act require each IRF to submit data on the specified measures in the form and manner, and at a time, specified by the Secretary.
+(b) *Submission Requirements and Payment Impact.* (1) IRFs must submit to CMS data on measures specified under section 1886(j)(7)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, as applicable. Such data must be submitted in the form and manner, and at a time, specified by CMS.
 
 (2) As required by section 1886(j)(7)(A)(i) of the Act, any IRF that does not submit data in accordance with section 1886(j)(7)(C) and (F) of the Act for a given fiscal year will have its annual update to the standard Federal rate for discharges for the IRF during the fiscal year reduced by two percentage points.
 
-(c) *Exception and Extension Requirements.* (1) An IRF may request and CMS may grant exceptions or extensions to the quality data reporting requirements, for one or more quarters, when there are certain extraordinary circumstances beyond the control of the IRF.
+(c) *Exception and Extension Requirements.* (1) An IRF may request and CMS may grant exceptions or extensions to the measures data or standardized patient assessment data reporting requirements, for one or more quarters, when there are certain extraordinary circumstances beyond the control of the IRF.
 
 (2) An IRF must request an exception or extension within 90 days of the date that the extraordinary circumstances occurred.
 
@@ -64,10 +62,10 @@ Link to an amendment published at 82 FR 36305, Aug. 3, 2017.
 
 (2) [Reserved]
 
-(f) *Data Completion Thresholds.* (1) IRFs must meet or exceed two separate data completeness thresholds: One threshold set at 95 percent for completion of quality measures data collected using the IRF-PAI submitted through the QIES and a second threshold set at 100 percent for quality measures data collected and submitted using the CDC NHSN.
+(f) *Data Completion Thresholds.* (1) IRFs must meet or exceed two separate data completeness thresholds: One threshold set at 95 percent for completion of required quality measures data and standardized patient assessment data collected using the IRF-PAI submitted through the QIES, and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN.
 
-(2) These thresholds will apply to all measures adopted into IRF QRP.
+(2) These thresholds (95 percent for completion of required quality measures data and standardized patient assessment data on the IRF-PAI; 100 percent for CDC NHSN data) will apply to all measures and standardized patient assessment data requirements adopted into the IRF QRP.
 
 (3) An IRF must meet or exceed both thresholds to avoid receiving a 2 percentage point reduction to their annual payment update for a given fiscal year, beginning with FY 2016 and for all subsequent payment updates.
 
-[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016]
+[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016; 82 FR 36305, Aug. 3, 2017]

@@ -1,7 +1,5 @@
 ##### § 412.64 Federal rates for inpatient operating costs for Federal fiscal year 2005 and subsequent fiscal years. #####
 
-Link to an amendment published at 82 FR 38510, Aug. 14, 2017.
-
 (a) *General rule.* CMS determines a national adjusted prospective payment rate for inpatient operating costs for each inpatient hospital discharge in Federal fiscal year 2005 and subsequent fiscal years involving inpatient hospital services of a hospital in the United States subject to the prospective payment system for which payment may be made under Medicare Part A.
 
 (b) *Geographic classifications.* (1) For purposes of this section, the following definitions apply:
@@ -46,7 +44,7 @@ Link to an amendment published at 82 FR 38510, Aug. 14, 2017.
 
 (vi) For fiscal years 2015 and 2016, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraphs (d)(2) and (3) of this section, less a multifactor productivity adjustment (as determined by CMS) and less 0.2 percentage point.
 
-(vii) For fiscal year 2017, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraphs (d)(2) and (3) of this section, less a multifactor productivity adjustment (as determined by CMS) and less 0.75 percentage point.
+(vii) For fiscal years 2017 and 2018, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraphs (d)(2) and (3) of this section, less a multifactor productivity adjustment (as determined by CMS) and less 0.75 percentage point.
 
 (2)(i) In the case of a “subsection (d) hospital,” as defined under section 1886(d)(1)(B) of the Act, that does not submit quality data on a quarterly basis to CMS, in the form and manner specified by CMS, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced -
 
@@ -83,6 +81,8 @@ Link to an amendment published at 82 FR 38510, Aug. 14, 2017.
 (*2*) A hospital that closes and subsequently reopens.
 
 (*3*) A hospital that changes its status from a CAH to a hospital that is subject to the Medicare hospital inpatient prospective payment systems.
+
+(iii) *Exception for decertified EHR technology.* Beginning with the fiscal year 2019 payment adjustment year, the Secretary shall exempt an eligible hospital that is not a qualifying eligible hospital from the application of the reduction under paragraph (d)(3) of this section if the Secretary determines that compliance with the requirement for being a meaningful EHR user is not possible because the certified EHR technology used by the eligible hospital has been decertified under ONC's Health IT Certification Program. To be considered for an exception, an eligible hospital must submit an application, in the manner specified by CMS, demonstrating that the certified EHR technology was decertified during the 12-month period preceding the applicable EHR reporting period for the payment adjustment year, or during the applicable EHR reporting period for the payment adjustment year, and that the eligible hospital made a good faith effort to obtain another certified EHR technology for that EHR reporting period. (See § 495.4 of this chapter for definitions of payment adjustment year, EHR reporting period, and meaningful EHR user.) Applications requesting this exception must be submitted by July 1 of the year before the applicable payment adjustment year, or a later date specified by CMS. This exception is subject to annual renewal, but in no case may an eligible hospital be granted an exception under paragraph (d)(4) of this section for more than 5 years.
 
 (5) A State in which hospitals are paid for services under section 1814(b)(3) of the Act must -
 
@@ -122,7 +122,7 @@ Link to an amendment published at 82 FR 38510, Aug. 14, 2017.
 
 (3) For discharges occurring on or after October 1, 2004, CMS employs 62 percent as the proportion of the rate that is adjusted for the relative level of hospital wages and wage-related costs, unless employing that percentage would result in lower payments for the hospital than employing the proportion determined under the methodology described in paragraph (h)(2) of this section.
 
-(4) For discharges on or after October 1, 2004 and before October 1, 2017, CMS establishes a minimum wage index for each all-urban State, as defined in paragraph (h)(5) of this section. This minimum wage index value is computed using the following methodology:
+(4) For discharges on or after October 1, 2004 and before October 1, 2018, CMS establishes a minimum wage index for each all-urban State, as defined in paragraph (h)(5) of this section. This minimum wage index value is computed using the following methodology:
 
 (i) CMS computes the ratio of the lowest-to-highest wage index for each all-urban State;
 
@@ -134,7 +134,7 @@ Link to an amendment published at 82 FR 38510, Aug. 14, 2017.
 
 (v) The product determined under paragraph (h)(4)(iv) of this section is the minimum wage index value for the State, except as provided under paragraph (h)(4)(vi) of this section;
 
-(vi) For discharges on or after October 1, 2012 and before October 1, 2017, the minimum wage index value for the State is the higher of the value determined under paragraph (h)(4)(iv) of this section or the value computed using the following alternative methodology:
+(vi) For discharges on or after October 1, 2012 and before October 1, 2018, the minimum wage index value for the State is the higher of the value determined under paragraph (h)(4)(iv) of this section or the value computed using the following alternative methodology:
 
 (A) CMS estimates a percentage representing the average percentage increase in wage index for hospitals receiving the rural floor due to such floor.
 
@@ -158,7 +158,7 @@ Link to an amendment published at 82 FR 38510, Aug. 14, 2017.
 
 (ii) CMS will include, in its annual proposed and final notices of updates to the hospital inpatient prospective payment system, a listing of qualifying counties and the hospitals that are eligible to receive the adjustment to their wage indexes for commuting hospital employees, and the wage index increase applicable to each qualifying county.
 
-(iii) Any wage index adjustment made under this paragraph (i) is effective for a period of 3 fiscal years, except that hospitals in a qualifying county may elect to waive the application of the wage index adjustment. A hospital may waive the application of the wage index adjustment by notifying CMS in writing within 45 days after the publication of the annual notice of proposed rulemaking for the hospital inpatient prospective payment system.
+(iii) Any wage index adjustment made under this paragraph (i) is effective for a period of 3 fiscal years, except that hospitals in a qualifying county may elect to waive the application of the wage index adjustment. A hospital may waive the application of the wage index adjustment by notifying CMS in writing within 45 days of the date of public display of the annual notice of proposed rulemaking for the hospital inpatient prospective payment system at the Office of the Federal Register.
 
 (iv) A hospital in a qualifying county that receives a wage index adjustment under this paragraph (i) is not eligible for reclassification under subpart L of this part or section 1886(d)(8) of the Act.
 

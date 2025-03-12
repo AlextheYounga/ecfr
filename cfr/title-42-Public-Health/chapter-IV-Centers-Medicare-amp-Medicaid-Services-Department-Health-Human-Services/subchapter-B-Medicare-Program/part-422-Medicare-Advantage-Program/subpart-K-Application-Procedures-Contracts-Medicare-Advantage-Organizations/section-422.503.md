@@ -110,4 +110,4 @@
 
 (2) A separate contract for any such excluded plan or entity will be deemed to be in place when such a request is made.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015]Editorial Note:At 79 FR 29958, May 23, 2014, in § 422.503, paragraph (b)(4)(vi)(G)(*5* was revised; however no paragraph (b)(4)(vi)(G)(*5* exist, so it cannot be revised.
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015]Editorial Note:At 79 FR 29958, May 23, 2014, in § 422.503, paragraph (b)(4)(vi)(G)(*5* was revised; however no paragraph (b)(4)(vi)(G)(*5* exists, so it cannot be revised.

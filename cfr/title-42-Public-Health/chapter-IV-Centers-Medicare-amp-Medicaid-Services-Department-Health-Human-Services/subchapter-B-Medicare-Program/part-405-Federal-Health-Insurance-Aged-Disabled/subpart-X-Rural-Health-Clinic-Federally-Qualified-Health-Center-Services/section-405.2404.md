@@ -1,8 +1,6 @@
 ##### § 405.2404 Termination of rural health clinic agreements. #####
 
-Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
-
-(a) *Termination by RHC* - (1) *Notice to Secretary.* If the RHC wishes to terminate its agreement it shall file with the Secretary a written notice stating the intended effective date of termination.
+(a) *Termination by RHC*—(1) *Notice to Secretary.* If the RHC wishes to terminate its agreement it shall file with the Secretary a written notice stating the intended effective date of termination.
 
 (2) *Action by the Secretary.* (i) The Secretary may approve the date proposed by the RHC, or set a different date no later than 6 months after the date of the RHC's notice.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
 
 (3) *Cessation of business.* If a RHC ceases to furnish services to the community, the Secretary deems it to be a voluntary termination of the agreement by the RHC, effective on the last day of business.
 
-(b) *Termination by the Secretary* - (1) *Cause for termination.* The Secretary may terminate an agreement if he or she determines that the RHC:
+(b) *Termination by the Secretary*—(1) *Cause for termination.* The Secretary may terminate an agreement if he or she determines that the RHC:
 
 (i) No longer meets the conditions for certification under part 491 of this chapter;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
 
 (c) *Effect of termination.* Payment will not be available for RHC services furnished on or after the effective date of termination.
 
-(d) *Notice to the public.* Prompt notice of the date and effect of termination must be given to the public, through publication in local newspapers by either of the following:
+(d) *Notice to the public.* Prompt notice of the date and effect of termination must be given to the public by either of the following:
 
 (1) The RHC, after the Secretary has approved or set a termination date.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 82 FR 38509, Aug. 14, 2017.
 
 (2) Is assured that the reason for the termination will not recur.
 
-[43 FR 8261, Mar. 1, 1978, as amended at 52 FR 22454, June 12, 1987; 79 FR 25474, May 2, 2014]
+[43 FR 8261, Mar. 1, 1978, as amended at 52 FR 22454, June 12, 1987; 79 FR 25474, May 2, 2014; 82 FR 38509, Aug. 14, 2017]

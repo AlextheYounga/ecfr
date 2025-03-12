@@ -1,7 +1,5 @@
 ##### § 486.312 De-certification. #####
 
-Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
-
 (a) *Voluntary termination of agreement.* If an OPO wishes to terminate its agreement, the OPO must send CMS written notice of its intention to terminate its agreement and the proposed effective date. CMS may approve the proposed date, set a different date no later than 6 months after the proposed effective date, or set a date less than 6 months after the proposed effective date if it determines that a different date would not disrupt services to the service area. If CMS determines that a designated OPO has ceased to furnish organ procurement services to its service area, the cessation of services is deemed to constitute a voluntary termination by the OPO, effective on a date determined by CMS. CMS will de-certify the OPO as of the effective date of the voluntary termination.
 
 (b) *Involuntary termination of agreement.* During the term of the agreement, CMS may terminate an agreement with an OPO if the OPO no longer meets the requirements for certification at § 486.303. CMS may also terminate an agreement immediately in cases of urgent need, such as the discovery of unsound medical practices. CMS will de-certify the OPO as of the effective date of the involuntary termination.
@@ -10,4 +8,6 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (d) *Notice to OPO.* Except in cases of urgent need, CMS gives written notice of de-certification to an OPO at least 90 days before the effective date of the de-certification. In cases of urgent need, CMS gives written notice of de-certification to an OPO at least 3 calendar days prior to the effective date of the de-certification. The notice of de-certification states the reasons for de-certification and the effective date.
 
-(e) *Public notice.* Once CMS approves the date for a voluntary termination, the OPO must provide prompt public notice of the date of de-certification and such other information as CMS may require through publication in local newspapers in the service area. In the case of involuntary termination or non-renewal of an agreement, CMS provides public notice of the date of de-certification through publication in local newspapers in the service area. No payment under titles XVIII or XIX of the Act will be made with respect to organ procurement costs attributable to the OPO on or after the effective date of de-certification.
+(e) *Public notice.* Once CMS approves the date for a voluntary termination, the OPO must provide prompt public notice in the service area of the date of de-certification and such other information as CMS may require. In the case of involuntary termination or nonrenewal of an agreement, CMS also provides notice to the public in the service area of the date of de-certification. No payment under titles XVIII or XIX of the Act will be made with respect to organ procurement costs attributable to the OPO on or after the effective date of de-certification.
+
+[71 FR 31046, May 31, 2006, as amended at 82 FR 38515, Aug. 14, 2017]

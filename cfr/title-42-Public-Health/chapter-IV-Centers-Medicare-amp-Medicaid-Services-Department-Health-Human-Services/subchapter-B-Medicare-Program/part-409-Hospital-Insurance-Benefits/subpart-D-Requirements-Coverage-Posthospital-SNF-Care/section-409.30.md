@@ -1,8 +1,6 @@
 ##### § 409.30 Basic requirements. #####
 
-Link to an amendment published at 82 FR 36633, Aug. 4, 2017.
-
-Posthospital SNF care, including SNF-type care furnished in a hospital or CAH that has a swing-bed approval, is covered only if the beneficiary meets the requirements of this section and only for days when he or she needs and receives care of the level described in § 409.31. A beneficiary in an SNF is also considered to meet the level of care requirements of § 409.31 up to and including the assessment reference date for the 5-day assessment prescribed in § 413.343(b) of this chapter, when assigned to one of the Resource Utilization Groups that is designated (in the annual publication of Federal prospective payment rates described in § 413.345 of this chapter) as representing the required level of care. For the purposes of this section, the assessment reference date is defined in accordance with § 483.315(d) of this chapter, and must occur no later than the eighth day of posthospital SNF care.
+Posthospital SNF care, including SNF-type care furnished in a hospital or CAH that has a swing-bed approval, is covered only if the beneficiary meets the requirements of this section and only for days when he or she needs and receives care of the level described in § 409.31. A beneficiary in an SNF is also considered to meet the level of care requirements of § 409.31 up to and including the assessment reference date for the 5-day assessment prescribed in § 413.343(b) of this chapter, when correctly assigned one of the case-mix classifiers that CMS designates for this purpose as representing the required level of care. For the purposes of this section, the assessment reference date is defined in accordance with § 483.315(d) of this chapter, and must occur no later than the eighth day of posthospital SNF care.
 
 (a) *Pre-admission requirements.* The beneficiary must -
 
@@ -20,4 +18,4 @@ Posthospital SNF care, including SNF-type care furnished in a hospital or CAH th
 
 (ii) If, upon admission to the SNF, the beneficiary was enrolled in an M + C plan, as defined in § 422.4 of this chapter, offering the benefits described in § 422.101(c) of this chapter, the beneficiary will be considered to have met the requirements described in paragraphs (a) and (b) of this section, and also in § 409.31(b)(2), for the duration of the SNF stay.
 
-[48 FR 12541, Mar. 25, 1983, as amended at 51 FR 41338, Nov. 14, 1986; 58 FR 30666, 30667, May 26, 1993; 62 FR 46025, Aug. 29, 1997; 63 FR 26307, May 12, 1998; 64 FR 41681, July 30, 1999; 68 FR 50584, Aug. 22, 2003; 72 FR 43436, Aug. 3, 2007]
+[48 FR 12541, Mar. 25, 1983, as amended at 51 FR 41338, Nov. 14, 1986; 58 FR 30666, 30667, May 26, 1993; 62 FR 46025, Aug. 29, 1997; 63 FR 26307, May 12, 1998; 64 FR 41681, July 30, 1999; 68 FR 50584, Aug. 22, 2003; 72 FR 43436, Aug. 3, 2007; 82 FR 36633, Aug. 4, 2017]

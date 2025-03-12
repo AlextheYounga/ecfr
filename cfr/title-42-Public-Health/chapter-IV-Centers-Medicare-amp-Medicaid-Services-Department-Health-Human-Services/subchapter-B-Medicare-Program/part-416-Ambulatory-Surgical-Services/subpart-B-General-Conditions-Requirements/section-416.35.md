@@ -1,8 +1,6 @@
 ##### § 416.35 Termination of agreement. #####
 
-Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
-
-(a) *Termination by the ASC* - (1) *Notice to CMS.* An ASC that wishes to terminate its agreement must send CMS written notice of its intent.
+(a) *Termination by the ASC*—(1) *Notice to CMS.* An ASC that wishes to terminate its agreement must send CMS written notice of its intent.
 
 (2) *Date of termination.* The notice may state the intended date of termination which must be the first day of a calendar month.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (3) *Voluntary termination.* If an ASC ceases to furnish services to the community, that shall be deemed to be a voluntary termination of the agreement by the ASC, effective on the last day of business with Medicare beneficiaries.
 
-(b) *Termination by CMS* - (1) *Cause for termination.* CMS may terminate an agreement if it determines that the ASC -
+(b) *Termination by CMS*—(1) *Cause for termination.* CMS may terminate an agreement if it determines that the ASC—
 
 (i) No longer meets the conditions for coverage as specified under § 416.26; or
 
@@ -24,16 +22,16 @@ Link to an amendment published at 82 FR 38515, Aug. 14, 2017.
 
 (c) *Effect of termination.* Payment is not available for ASC services furnished on or after the effective date of termination.
 
-(d) *Notice to the public.* Prompt notice of the date and effect of termination is given to the public, through publication in local newspapers by -
+(d) *Notice to the public.* Prompt notice of the date and effect of termination is given to the public by—
 
 (1) The ASC, after CMS has approved or set a termination date; or
 
 (2) CMS, when it has terminated the agreement.
 
-(e) *Conditions for reinstatement after termination of agreement by CMS.* When an agreement with an ASC is terminated by CMS, the ASC may not file another agreement to participate in the Medicare program unless CMS -
+(e) *Conditions for reinstatement after termination of agreement by CMS.* When an agreement with an ASC is terminated by CMS, the ASC may not file another agreement to participate in the Medicare program unless CMS—
 
 (1) Finds that the reason for the termination of the prior agreement has been removed; and
 
 (2) Is assured that the reason for the termination will not recur.
 
-[47 FR 34094, Aug. 5, 1982, as amended at 52 FR 22454, June 12, 1987; 56 FR 8844, Mar. 1, 1991; 61 FR 40347, Aug. 2, 1996]
+[47 FR 34094, Aug. 5, 1982, as amended at 52 FR 22454, June 12, 1987; 56 FR 8844, Mar. 1, 1991; 61 FR 40347, Aug. 2, 1996; 82 FR 38515, Aug. 14, 2017]

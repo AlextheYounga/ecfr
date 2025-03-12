@@ -1,16 +1,14 @@
-##### § 412.560 Participation, data submission, and other requirements under the Long-Term Care Hospital Quality Reporting (LTCHQR) Program. #####
+##### § 412.560 Requirements under the Long-Term Care Hospital Quality Reporting Program (LTCH QRP). #####
 
-Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
+(a) *Participation in the LTCH QRP.* A long-term-care hospital must begin submitting data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act, under the LTCH QRP by no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter.
 
-(a) *Participation in the LTCHQR Program.* A long-term-care hospital must begin submitting quality data under the LTCHQR Program by no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter.
-
-(b) *Submission of data requirements and payment impact.* (1) Except as provided in paragraph (c) of this section, a long-term care hospital must submit to CMS data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, as applicable, in a form and manner, and at a time, specified by CMS.
+(b) *Data submission requirements and payment impact.* (1) Except as provided in paragraph (c) of this section, a long-term care hospital must submit to CMS data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1) and 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act. Such data must be submitted in a form and manner, and at a time, specified by CMS.
 
 (2) A long-term care hospital that does not submit data in accordance with sections 1886(m)(5)(C) and 1886(m)(5)(F) of the Act with respect to a given fiscal year will have its annual update to the standard Federal rate for discharges for the long-term care hospital during the fiscal year reduced by 2 percentage points.
 
-(c) *Exception and extension request requirements.* Upon request by a long-term care hospital, CMS may grant an exception or extension with respect to the quality data reporting requirements, for one or more quarters, in the event of certain extraordinary circumstances beyond the control of the long-term care hospital, subject to the following:
+(c) *Exception and extension request requirements.* Upon request by a long-term care hospital, CMS may grant an exception or extension with respect to the measures data and standardized patient assessment data reporting requirements, for one or more quarters, in the event of certain extraordinary circumstances beyond the control of the long-term care hospital, subject to the following:
 
-(1) A long-term care hospital that wishes to request an exception or extension with respect to quality data reporting requirements must submit its request to CMS within 90 days of the date that the extraordinary circumstances occurred.
+(1) A long-term care hospital that wishes to request an exception or extension with respect to measures data and standardized patient assessment data reporting requirements must submit its request to CMS within 90 days of the date that the extraordinary circumstances occurred.
 
 (2) A long-term care hospital must submit its request for an exception or extension to CMS via email. Email is the only form that may be used to submit to CMS a request for an exception or an extension.
 
@@ -28,15 +26,15 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (vi) Evidence of the impact of the extraordinary circumstances, including, but not limited to, photographs, newspaper articles, and other media.
 
-(vii) The date on which the long-term care hospital will be able to again submit quality data under the LTCHQR Program and a justification for the proposed date.
+(vii) The date on which the long-term care hospital will be able to again submit measures data and standardized patient assessment data under the LTCH QRP and a justification for the proposed date.
 
 (4) CMS may grant an exception or extension to a long-term care hospital that has not been requested by the long-term care hospital if CMS determines that -
 
 (i) An extraordinary circumstance affects an entire region or locale; or
 
-(ii) A systemic problem with one of CMS' data collection systems directly affected the ability of the long-term care hospital to submit quality data.
+(ii) A systemic problem with one of CMS' data collection systems directly affected the ability of the long-term care hospital to submit measures data and standardized patient assessment data.
 
-(d) *Reconsiderations of noncompliance decisions* - (1) *Written notification of noncompliance decision.* CMS will send a long-term care hospital written notification of a decision of noncompliance with the quality data reporting requirements for a particular fiscal year. CMS also will use the Quality Improvement and Evaluation system (QIES) Assessment Submission and Processing (ASAP) System to provide notification of noncompliance to the long-term care hospital.
+(d) *Reconsiderations of noncompliance decisions* - (1) *Written notification of noncompliance decision.* CMS will send a long-term care hospital written notification of a decision of noncompliance with the measures data and standardized patient assessment data reporting requirements for a particular fiscal year. CMS also will use the Quality Improvement and Evaluation system (QIES) Assessment Submission and Processing (ASAP) System to provide notification of noncompliance to the long-term care hospital.
 
 (2) *Request for reconsideration of noncompliance decision.* A long-term care hospital may request a reconsideration of CMS' decision of noncompliance no later than 30 calendar days from the date of the written notification of noncompliance. The reconsideration request by the long-term care hospital must be submitted to CMS via email and must contain the following information:
 
@@ -52,10 +50,16 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (vi) The reason for requesting reconsideration of CMS' noncompliance decision.
 
-(vii) Accompanying documentation that demonstrates compliance of the long-term care hospital with the quality reporting requirements. This documentation must be submitted electronically at the same time as the reconsideration request as an attachment to the email. Any reconsideration request that fails to provide sufficient evidence of compliance will not be reviewed.
+(vii) Accompanying documentation that demonstrates compliance of the long-term care hospital with the LTCH QRP requirements. This documentation must be submitted electronically at the same time as the reconsideration request as an attachment to the email.
 
 (3) *CMS decision on reconsideration request.* CMS will notify the long-term care hospital, in writing, of its final decision regarding any reconsideration request. CMS also will use the QIES ASAP System to provide notice of its final decision on the reconsideration request.
 
 (e) *Appeals of reconsideration requests.* A long-term care hospital that is dissatisfied with a decision made by CMS on its reconsideration request may file an appeal with the Provider Reimbursement Review Board under part 405, subpart R, of this chapter.
 
-[80 FR 49769, Aug. 17, 2015, as amended at 81 FR 57270, Aug. 22, 2016]
+(f) *Data completion thresholds.* (1) Long-term care hospitals must meet or exceed two separate data completeness thresholds: One threshold set at 80 percent for completion of measures data and standardized patient assessment data collected using the LTCH CARE Data Set submitted through the QIES ASAP System; and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN.
+
+(2) The thresholds in paragraph (f)(1) of this section apply to all data that must be submitted under paragraph (b) of this section.
+
+(3) A long-term care hospital must meet or exceed both thresholds in paragraph (f)(1) of this section to avoid receiving a 2 percentage point reduction to its annual payment update for a given fiscal year, beginning with the FY 2019 LTCH QRP.
+
+[80 FR 49769, Aug. 17, 2015, as amended at 81 FR 57270, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017]

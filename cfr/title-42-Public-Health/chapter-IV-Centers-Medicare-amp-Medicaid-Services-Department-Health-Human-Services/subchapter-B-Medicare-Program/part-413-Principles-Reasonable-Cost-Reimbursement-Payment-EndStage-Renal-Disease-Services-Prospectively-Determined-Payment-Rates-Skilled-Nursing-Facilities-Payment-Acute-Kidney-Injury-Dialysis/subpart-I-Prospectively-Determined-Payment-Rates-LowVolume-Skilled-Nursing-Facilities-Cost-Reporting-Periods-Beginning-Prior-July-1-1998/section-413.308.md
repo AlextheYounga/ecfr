@@ -1,0 +1,9 @@
+##### § 413.308 Rules governing election of prospectively determined payment rates. #####
+
+(a) *Requirements.* An SNF must notify its contractor at least 30 calendar days before the beginning of the cost reporting period for which it requests to receive such payment that it elects prospectively determined payment rates. A separate request must be made for each cost reporting period for which an SNF seeks prospectively determined payment. A newly participating SNF with no preceding cost reporting period must make its election within 30 days of its notification of approval to participate in Medicare.
+
+(b) *Contractor notice.* After evaluating an SNF's request for prospectively determined payment rates, the contractor notifies the SNF in writing as to whether the SNF meets any of the eligibility criteria described in § 413.304 and the timely election requirements under § 413.308(a). The contractor must notify the SNF of its initial and final determinations within 10 working days after it receives all the data necessary to make each determination. The contractor's determination is limited to one cost reporting period.
+
+(c) *Prohibition against revocation.* An SNF may not revoke its request after it has received the initial determination of eligibility from the contractor and the cost reporting period has begun.
+
+(d) *Revocation by contractor.* If an SNF is given tentative approval to receive a prospectively determined payment rate, and, after the start of the applicable cost reporting period, the contractor determines that the SNF does not meet the eligibility criteria, the contractor must revoke the prospectively determined payment option.

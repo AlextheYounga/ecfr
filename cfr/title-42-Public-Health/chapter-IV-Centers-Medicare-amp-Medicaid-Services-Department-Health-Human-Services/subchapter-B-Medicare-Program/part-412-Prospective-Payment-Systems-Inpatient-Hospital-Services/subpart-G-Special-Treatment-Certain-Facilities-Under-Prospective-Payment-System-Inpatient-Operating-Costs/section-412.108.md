@@ -1,7 +1,5 @@
 ##### § 412.108 Special treatment: Medicare-dependent, small rural hospitals. #####
 
-Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
-
 (a) *Criteria for classification as a Medicare-dependent, small rural hospital* - (1) *General considerations.* For cost reporting periods beginning on or after April 1, 1990, and ending before October 1, 1994, or for discharges occurring on or after October 1, 1997, and before October 1, 2017, a hospital is classified as a Medicare-dependent, small rural hospital if it is located in a rural area (as defined in subpart D of this part) and meets all of the following conditions:
 
 (i) The hospital has 100 or fewer beds as defined in § 412.105(b) during the cost reporting period.
@@ -82,7 +80,7 @@ Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
 
 (ii) Show that the decrease is due to circumstances beyond the hospital's control.
 
-(3) The intermediary determines a lump sum adjustment amount not to exceed the difference between the hospital's Medicare inpatient operating costs and the hospital's total DRG revenue for inpatient operating costs based on DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105).
+(3) The intermediary determines a lump sum adjustment amount in accordance with the methodology set forth in § 412.92(e)(3).
 
 (i) In determining the adjustment amount, the intermediary considers -
 

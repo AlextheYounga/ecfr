@@ -872,9 +872,9 @@ Patients' organic medical problems must receive appropriate concurrent managemen
 
 (*ii*) Licensed registered speech therapists (speech pathologists).
 
-(L) *Nutritionist.* A nutritionist may provide DSMT via an accredited DSMT program. The nutritionist must be licensed by the State in which the care is provided, and must be under the supervision of a physician who is overseeing the DSMT program.
+(L) *Nutritionist.* The nutritionist must be licensed by the State in which the care is provided and must be under the supervision of a physician who is overseeing the episode of treatment or the covered program of services.
 
-(M) *Registered Dietitian.* A dietitian may provide DSMT via an accredited DSMT program. The dietitian must be licensed by the State in which the care is provided, and must be under the supervision of a physician who is overseeing the DSMT program.
+(M) *Registered dietician.* The dietician must be licensed by the State in which the care is provided and must be under the supervision of a physician who is overseeing the episode of treatment or the covered program of services.
 
 (N) *TRICARE certified mental health counselor.* For the purposes of CHAMPUS, a TRICARE certified mental health counselor (TCMHC) must be licensed for independent practice in mental health counseling by the jurisdiction where practicing. In jurisdictions with two or more licenses allowing for differing scopes of independent practice, the licensed mental health counselor may only practice within the scope of the license he or she possesses. In addition, a TCMHC must meet the requirements of either paragraph (c)(3)(iii)(N)(*1*) or the requirements of paragraph (c)(3)(iii)(N)(*2*) of this section.
 

@@ -322,4 +322,4 @@ The contract between the MA organization and CMS must contain the following prov
 
 (ii) Operation of call center customer services.
 
-[63 FR 35099, June 26, 1998; 63 FR 52614, Oct. 1, 1998]Editorial Note:For Federal Register citations affecting § 422.504, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[63 FR 35099, June 26, 1998]Editorial Note:For Federal Register citations affecting § 422.504, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

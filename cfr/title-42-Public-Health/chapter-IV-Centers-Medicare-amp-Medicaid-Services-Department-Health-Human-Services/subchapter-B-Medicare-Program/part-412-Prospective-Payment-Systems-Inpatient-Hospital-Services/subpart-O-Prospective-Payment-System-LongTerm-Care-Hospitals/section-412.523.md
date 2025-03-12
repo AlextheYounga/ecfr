@@ -1,7 +1,5 @@
 ##### § 412.523 Methodology for calculating the Federal prospective payment rates. #####
 
-Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
-
 (a) *Data used.* To calculate the initial prospective payment rates for inpatient hospital services furnished by long-term care hospitals, CMS uses -
 
 (1) The best Medicare data available; and
@@ -48,6 +46,8 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (xiii) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2016, and ending September 30, 2017.* The LTCH PPS standard Federal payment rate for the long-term care hospital prospective payment system beginning October 1, 2016, and ending September 30, 2017, is the standard Federal payment rate for the previous long-term care hospital prospective payment system fiscal year updated by 1.75 percent and further adjusted, as appropriate, as described in paragraph (d) of this section.
 
+(xiv) *For long-term care hospital prospective payment system fiscal year beginning October 1, 2017, and ending September 30, 2018.* The LTCH PPS standard Federal payment rate for the long-term care hospital prospective payment system beginning October 1, 2017, and ending September 30, 2018, is the standard Federal payment rate for the previous long-term care hospital prospective payment system fiscal year updated by 1.0 percent and further adjusted, as appropriate, as described in paragraph (d) of this section.
+
 (4) *For fiscal year 2014 and subsequent fiscal years* -
 
 (i) In the case of a long-term care hospital that does not submit quality reporting data to CMS in the form and manner and at a time specified by the Secretary, the annual update to the standard Federal rate specified in paragraph (c)(3) of this section is further reduced by 2.0 percentage points.
@@ -58,7 +58,7 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (d) *Adjustments to the standard Federal rate.* The standard Federal rate described in paragraph (c)(3) of this section will be adjusted for -
 
-(1) *Outlier payments.* CMS adjusts the LTCH PPS standard Federal payment rate by a reduction factor of 8 percent, the estimated proportion of outlier payments under § 412.525(a) payable for discharges described in § 412.522(a)(2).
+(1) *Outlier payments.* CMS adjusts the LTCH PPS standard Federal payment rate by a reduction factor of 8 percent, the estimated proportion of outlier payments under § 412.525(a) payable for discharges described in § 412.522(a)(2) (notwithstanding the provisions of § 412.525(a)(2)(ii) for FY 2018 and subsequent years.
 
 (2) *Budget neutrality.* CMS adjusts the Federal prospective payment rates for FY 2003 so that aggregate payments under the prospective payment system are estimated to equal the amount that would have been paid to long-term care hospitals under part 413 of this subchapter without regard to the prospective payment system implemented under this subpart, excluding the effects of section 1886(b)(2)(E) and (b)(3)(J) of the Act.
 
@@ -70,6 +70,8 @@ Link to an amendment published at 82 FR 38513, Aug. 14, 2017.
 
 (4) *Changes to the adjustment for area wage levels.* Beginning in FY 2012, CMS adjusts the standard Federal rate by a factor that accounts for the estimated effect of any adjustments or updates to the area wage level adjustment under § 412.525(c)(1) on estimated aggregate LTCH PPS payments.
 
+(5) *Adjustment for changes to the short-stay outlier policy.* The standard Federal rate determined under paragraph (c)(3) of this section is permanently adjusted by a one-time factor so that estimated aggregate payments to LTCH PPS standard Federal rate cases in FY 2018 are projected to equal estimated aggregate payments that would have been paid for such cases without regard to the change in the short-stay outlier policy for FY 2018 under § 412.529(c)(4).
+
 (e) *Calculation of the adjusted Federal prospective payment.* For each discharge, a long-term care hospital's Federal prospective payment is computed on the basis of the Federal prospective payment rate multiplied by the relative weight of the LTC-DRG assigned for that discharge. A hospital's Federal prospective payment rate will be adjusted, as appropriate, to account for outliers and other factors as specified in § 412.525.
 
-[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34162, June 6, 2003; 71 FR 27899, May 12, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 77 FR 53678, Aug. 31, 2012; 78 FR 50968, Aug. 19, 2013; 79 FR 50355, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016]
+[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34162, June 6, 2003; 71 FR 27899, May 12, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 77 FR 53678, Aug. 31, 2012; 78 FR 50968, Aug. 19, 2013; 79 FR 50355, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017]

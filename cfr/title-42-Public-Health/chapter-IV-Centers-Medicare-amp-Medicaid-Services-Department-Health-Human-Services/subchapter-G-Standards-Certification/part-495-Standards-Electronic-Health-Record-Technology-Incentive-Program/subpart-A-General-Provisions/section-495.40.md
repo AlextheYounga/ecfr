@@ -1,7 +1,5 @@
 ##### § 495.40 Demonstration of meaningful use criteria. #####
 
-Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
-
 (a) *Demonstration by EPs.* An EP must demonstrate that he or she satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22 or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
 
 (1) For CY 2011 - (i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State), that during the EHR reporting period, the EP -
@@ -30,9 +28,9 @@ Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
 
 (E) For CYs 2015 through 2016, satisfied the required objectives and associated measures under § 495.22(e) for meaningful use.
 
-(F) For CY 2017: An EP that has successfully demonstrated it is a meaningful EHR user in any prior year may satisfy either the objectives and measures specified in § 495.22(e) for meaningful use or the objectives and measures specified in § 495.24(d) for meaningful use; an EP that has never successfully demonstrated it is a meaningful EHR user in any prior year must satisfy the objectives and measures specified in § 495.22(e) for meaningful use.
+(F) For CY 2017 and CY 2018: An EP that has successfully demonstrated it is a meaningful EHR user in any prior year may satisfy either the objectives and measures specified in § 495.22(e) for meaningful use or the objectives and measures specified in § 495.24(d) for meaningful use; an EP that has never successfully demonstrated it is a meaningful EHR user in any prior year must satisfy the objectives and measures specified in § 495.22(e) for meaningful use.
 
-(G) For CY 2018 and subsequent years, satisfied the required objectives and associated measures under § 495.24(d) for meaningful use.
+(G) For CY 2019 and subsequent years, satisfied the required objectives and associated measures under § 495.24(d) for meaningful use.
 
 (H) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the EP -
 
@@ -108,13 +106,13 @@ Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
 
 (E) For CYs 2015 through 2016, satisfied the required objectives and associated measures under § 495.22(e) for meaningful use.
 
-(F) For CY 2017:
+(F) For CY 2017 and CY 2018:
 
 (*1*) For an eligible hospital or CAH attesting to CMS: An eligible hospital or CAH that has successfully demonstrated it is a meaningful EHR user in any prior year may satisfy either the objectives and measures specified in § 495.22(f) for meaningful use or the objectives and measures specified in § 495.24(c) for meaningful use; an eligible hospital or CAH that has never successfully demonstrated it is a meaningful EHR user in any prior year must satisfy the objectives and measures specified in § 495.22(f) for meaningful use.
 
 (*2*) For an eligible hospital or CAH attesting to a State for the Medicaid EHR Incentive Program: An eligible hospital or CAH that has successfully demonstrated it is a meaningful EHR user in any prior year may satisfy either the objectives and measures specified in § 495.22(e) for meaningful use or the objectives and measures specified in § 495.24(d) for meaningful use; an eligible hospital or CAH that has never successfully demonstrated it is a meaningful EHR user in any prior year must satisfy the objectives and measures specified in § 495.22(e) for meaningful use.
 
-(G) For CY 2018:
+(G) For CY 2019:
 
 (*1*) For an eligible hospital or CAH attesting to CMS, satisfied the required objectives and associated measures under § 495.24(c) for meaningful use.
 
@@ -168,4 +166,4 @@ Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
 
 (2) All EPs, eligible hospitals, and CAHs must keep documentation supporting their demonstration of meaningful use for 6 years.
 
-[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017]
+[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017; 82 FR 38518, Aug. 14, 2017]

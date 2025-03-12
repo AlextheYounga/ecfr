@@ -1,12 +1,10 @@
 ##### § 488.30 Revisit user fee for revisit surveys. #####
 
-Link to an amendment published at 82 FR 36635, Aug. 4, 2017.
-
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 *Certification* (both initial and recertification) means those activities as defined in § 488.1.
 
-*Complaint surveys* means those surveys conducted on the basis of a substantial allegation of noncompliance, as defined in § 488.1.
+*Complaint surveys* means those surveys conducted on the basis of a substantial allegation of noncompliance, as defined in § 488.1. The requirements of sections 1819(g)(4) and 1919(g)(4) of the Social Security Act and § 488.332 apply to complaint surveys.
 
 *Provider of services, provider, or supplier* has the meaning defined in § 488.1, and ambulatory surgical centers, transplant centers, and religious nonmedical health care institutions subject to §§ 416.2, 482.70, and 403.702 [C8] of this chapter, respectively, will be subject to user fees unless otherwise exempted.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 82 FR 36635, Aug. 4, 2017.
 
 (f) *Enforcement.* If the full revisit user fee payment is not received within 30 calendar days from the date identified on the revisit user fee assessment notice, CMS may terminate the facility's provider agreement (pursuant to § 489.53(a)(16) of this chapter) and enrollment in the Medicare program or the supplier's enrollment and participation in the Medicare program (pursuant to § 424.535(a)(1) of this chapter).
 
-[72 FR 53648, Sept. 19, 2007]
+[72 FR 53648, Sept. 19, 2007, as amended at 82 FR 36635, Aug. 4, 2017]

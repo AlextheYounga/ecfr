@@ -372,6 +372,8 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (ii) *Services must be related.* Covered professional services must be rendered in connection with and directly related to a covered diagnosis or definitive set of symptoms requiring medically necessary treatment.
 
+(iii) *Telehealth services.* Health care services covered by TRICARE and provided through the use of telehealth modalities are covered services to the same extent as if provided in person at the location of the patient if those services are medically necessary and appropriate for such modalities. The Director will establish special procedures for payment for such services. Additionally, where appropriate, in order to incentive the use of telehealth services, the Director may modify the otherwise applicable beneficiary cost-sharing requirements in paragraph (f) of this section which otherwise apply.
+
 (2) *Covered services of physicians and other authorized profession providers.*
 
 (i) *Surgery.* Surgery means operative procedures, including related preoperative and postoperative care; reduction of fractures and dislocations; injection and needling procedures of the joints; laser surgery of the eye; and the following procedures:
@@ -621,11 +623,45 @@ the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Admini
 
 (*2*) In general, repairs of beneficiary owned durable equipment are covered when necessary to make the equipment serviceable and replacement of durable equipment is allowed when the durable equipment is not serviceable because of normal wear, accidental damage or when necessitated by a change in the beneficiary's condition. However, repairs of durable equipment damaged while using the equipment in a manner inconsistent with its common use, and replacement of lost or stolen rental durable equipment are excluded from coverage. In addition, repairs of deluxe, luxury, or immaterial features of durable equipment are excluded from coverage.
 
-(iii) *Medical supplies and dressings (consumables).* Medical supplies and dressings (consumables) are those that do not withstand prolonged, repeated use. Such items must be related directly to an appropriate and verified covered medical condition of the specific beneficiary for whom the item was purchased and obtained from a medical supply company, a pharmacy, or authorized institutional provider. Examples of covered medical supplies and dressings are disposable syringes for a known diabetic, colostomy sets, irrigation sets, and elastic bandages. An external surgical garment specifically designed for use following a mastectomy is considered a medical supply item.
+(iii) *Medical supplies and dressings (consumables)* - (A) *In general.* In general, medical supplies and dressings (consumables) are those that do not withstand prolonged, repeated use. Such items must be related directly to an appropriate and verified covered medical condition of the specific beneficiary for whom the item was purchased and obtained from a medical supply company, a pharmacy, or authorized institutional provider. Examples of covered medical supplies and dressings are disposable syringes for a known diabetic, colostomy sets, irrigation sets, and elastic bandages. An external surgical garment specifically designed for use follow a mastectomy is considered a medical supply item.
 
-Note:
+Note 1 to paragraph (d)(3)(iii)(A):
 
-Generally, the allowable charge of a medical supply item will be under $100. Any item over this amount must be reviewed to determine whether it would not qualify as a DME item. If it is, in fact, a medical supply item and does not represent an excessive charge, it can be considered for benefits under paragraph (d)(3)(iii) of this section.
+Generally, the allowable charge of a medical supply item will be under $100. Any item over this amount must be reviewed to determine whether it would qualify as a DME item. If it is, in fact, a medical supply item and does not represent an excessive charge, it can be considered for benefits under paragraph (d)(3)(iii) of this section.
+
+(B) *Medically necessary food and medical equipment and supplies necessary to administer such food (other than durable medical equipment and supplies) when prescribed for dietary management of a covered disease or condition.* (*1*) Medically necessary food, including a low protein modified food product or an amino acid preparation product, may be covered when:
+
+(*i*) Furnished pursuant to the prescription, order, or recommendation of a TRICARE authorized provider acting within the provider's scope of license/certificate of practice, for the dietary management of a covered disease or condition;
+
+(*ii*) Is a specifically formulated and processed product (as opposed to a naturally occurring foodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;
+
+(*iii*) Is intended for the dietary management of an individual who, because of therapeutic or chronic medical needs, has limited or impaired capacity to ingest, digest, absorb, or metabolize ordinary foodstuffs or certain nutrients, or who has other special medically determined nutrient requirements, the dietary management of which cannot be achieved by the modification of the normal diet alone;
+
+(*iv*) Is intended to be used under medical supervision, which may include in a home setting; and
+
+(*v*) Is intended only for an individual receiving active and ongoing medical supervision under which the individual requires medical care on a recurring basis for, among other things, instructions on the use of the food.
+
+(*2*) Medically necessary food does not include:
+
+(*i*) Food taken as part of an overall diet designed to reduce the risk of a disease or medical condition or as weight-loss products, even if the food is recommended by a physician or other health care professional;
+
+(*ii*) Food marketed as gluten-free for the management of celiac disease or non-celiac gluten sensitivity;
+
+(*iii*) Food marketed for the management of diabetes; or
+
+(*iv*) Such other products as the Director, Defense Health Agency determines appropriate.
+
+(*3*) Covered disease or condition under paragraph (d)(3)(iii)(B) of this section means:
+
+(*i*) Inborn errors of metabolism;
+
+(*ii*) Medical conditions of malabsorption;
+
+(*iii*) Pathologies of the alimentary tract or the gastrointestinal tract;
+
+(*iv*) A neurological or physiological condition; and
+
+(*v*) Such other diseases or conditions the Director, Defense Health Agency determines appropriate.
 
 (iv) *Oxygen.* Oxygen and equipment for its administration are covered. Benefits are limited to providing a tank unit at one location with oxygen limited to a 30-day supply at any one time. Repair and adjustment of CHAMPUS-purchased oxygen equipment also is covered.
 
@@ -652,6 +688,20 @@ The inpatient cost-sharing provisions for ambulance transfers only apply to othe
 (B) CHAMPUS benefits may not be extended for drugs not approved by the U.S. Food and Drug Administration for commercial marketing. Drugs grandfathered by the Federal Food, Drug and Cosmetic Act of 1938 may be covered under CHAMPUS as if FDA approved.
 
 (C) Over-the-counter (OTC) drugs (drugs that by United States law do not require a prescription), in general, are not covered. However, insulin is covered for a known diabetic even in states that do not require a prescription for its purchase. In addition, OTC drugs used for smoking cessation are covered when all requirements under the TRICARE smoking cessation program are met as provided in paragraph (e)(30) of this section.
+
+(D) Medically necessary vitamins used for the management of a covered disease or condition pursuant to a prescription, order, or recommendation of a TRICARE authorized provider acting within the provider's scope of license/certificate of practice. For purposes of this paragraph (d)(3)(vi)(D), the term “covered disease or condition” means:
+
+(*1*) Inborn errors of metabolism;
+
+(*2*) Medical conditions of malabsorption;
+
+(*3*) Pathologies of the alimentary tract or the gastrointestinal tract;
+
+(*4*) A neurological or physiological condition;
+
+(*5*) Pregnancy in relation to prenatal vitamins, with the limitation the prenatal vitamins that require a prescription in the United States may be covered for prenatal care only;
+
+(*6*) Such other disease or conditions the Director, Defense Health Agency determines appropriate.
 
 (vii) Prosthetics, prosthetic devices, and prosthetic supplies, as determined by the Secretary of Defense to be necessary because of significant conditions resulting from trauma, congenital anomalies, or disease. Additionally, the following are covered:
 
@@ -1303,7 +1353,9 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (iii) Well-child visits for children under 6 years of age as described in paragraph (c)(3)(xi) of this section.
 
-(iv) Health promotion and disease prevention visits (which may include all of the services provided pursuant to § 199.18(b)(2)) for beneficiaries 6 years of age or older may be provided in connection with immunizations and cancer screening examinations authorized by paragraphs (e)(28)(i) and (ii) of this section.
+(iv) Health promotion and disease prevention visits (which may include all of the services provided pursuant to § 199.17(f)(2)) for beneficiaries 6 years of age or older may be provided in connection with immunizations and cancer screening examinations authorized by paragraphs (e)(28)(i) and (ii) of this section).
+
+(v) Breastfeeding support, supplies (including breast pumps and associated equipment), and counseling.
 
 (29) *Physical examinations.* In addition to the health promotion and disease prevention visits authorized in paragraph (e)(28)(iv) of this section, the following physical examinations are specifically authorized:
 
@@ -1331,35 +1383,35 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (2) *Dependents of members of the Uniformed Services.* CHAMPUS beneficiary or sponsor liability set forth for dependents of members is as follows:
 
-(i) *Annual fiscal year deductible for outpatient services and supplies.*
+(i) *Annual calendar year deductible for outpatient services and supplies.*
 
 (A) For care rendered all eligible beneficiaries prior to April 1, 1991, or when the active duty sponsor's pay grade is E-4 or below, regardless of the date of care:
 
-(*1*) *Individual Deductible:* Each beneficiary is liable for the first fifty dollars ($50.00) of the CHAMPUS-determined allowable amount on claims for care provided in the same fiscal year.
+(*1*) *Individual Deductible:* Each beneficiary is liable for the first fifty dollars ($50.00) of the CHAMPUS-determined allowable amount on claims for care provided in the same calendar year.
 
-(*2*) *Family Deductible:* The total deductible amount for all members of a family with the same sponsor during one fiscal year shall not exceed one hundred dollars ($100.00).
+(*2*) *Family Deductible:* The total deductible amount for all members of a family with the same sponsor during one calendar year shall not exceed one hundred dollars ($100.00).
 
 (B) For care rendered on or after April 1, 1991, for all CHAMPUS beneficiaries except dependents of active duty sponsors in pay grades E-4 or below.
 
-(*1) Individual Deductible:* Each beneficiary is liable for the first one hundred and fifty dollars ($150.00) of the CHAMPUS-determined allowable amount on claims for care provided in the same fiscal year.
+(*1) Individual Deductible:* Each beneficiary is liable for the first one hundred and fifty dollars ($150.00) of the CHAMPUS-determined allowable amount on claims for care provided in the same calendar year.
 
-(*2) Family Deductible:* The total deductible amount for all members of a family with the same sponsor during one fiscal year shall not exceed three hundred dollars ($300.00).
+(*2) Family Deductible:* The total deductible amount for all members of a family with the same sponsor during one calendar year shall not exceed three hundred dollars ($300.00).
 
 (C) CHAMPUS-*approved Ambulatory Surgical Centers or Birthing Centers.* No deductible shall be applied to allowable amounts for services or items rendered to active duty for authorized NATO dependents.
 
-(D) *Allowable Amount does not exceed Deductible Amount.* If fiscal year allowable amounts for two or more beneficiary members of a family total less than $100.00 ($300.00 if paragraph (f) (2)(i)(B)(*2*) of this section applies), but more of the beneficiary members submit a claim for over $50.00 ($150.00 if paragraph (f)(2)(i)(B)(*1*) of this section applies), neither the family nor the individual deductible will have been met and no CHAMPUS benefits are payable.
+(D) *Allowable Amount does not exceed Deductible Amount.* If calendar year allowable amounts for two or more beneficiary members of a family total less than $100.00 ($300.00 if paragraph (f) (2)(i)(B)(*2*) of this section applies), but more of the beneficiary members submit a claim for over $50.00 ($150.00 if paragraph (f)(2)(i)(B)(*1*) of this section applies), neither the family nor the individual deductible will have been met and no CHAMPUS benefits are payable.
 
 (E) For any family the outpatient deductible amounts will be applied sequentially as the CHAMPUS claims are processed.
 
-(F) If the fiscal year outpatient deductible under either paragraphs (f)(2)(i)(A) or (f)(2)(i)(B) of this section has been met by a beneficiary or a family through the submission of a claim or claims to a CHAMPUS fiscal intermediary in another geographic location from the location where a current claim is being submitted, the beneficiary or sponsor must obtain a deductible certificate from the CHAMPUS fiscal intermediary where the applicable beneficiary or family fiscal year deductible was met. Such deductible certificate must be attached to the current claim being submitted for benefits. Failure to obtain a deductible certificate under such circumstances will result in a second beneficiary or family fiscal year deductible being applied. However, this second deductible may be reimbursed once appropriate documentation, as described in paragraph (f)(2)(i)(F) of this section, is supplied to the CHAMPUS fiscal intermediary applying the second deductible.
+(F) If the calendar year outpatient deductible under either paragraphs (f)(2)(i)(A) or (f)(2)(i)(B) of this section has been met by a beneficiary or a family through the submission of a claim or claims to a CHAMPUS fiscal intermediary in another geographic location from the location where a current claim is being submitted, the beneficiary or sponsor must obtain a deductible certificate from the CHAMPUS fiscal intermediary where the applicable beneficiary or family calendar year deductible was met. Such deductible certificate must be attached to the current claim being submitted for benefits. Failure to obtain a deductible certificate under such circumstances will result in a second beneficiary or family calendar year deductible being applied. However, this second deductible may be reimbursed once appropriate documentation, as described in paragraph (f)(2)(i)(F) of this section, is supplied to the CHAMPUS fiscal intermediary applying the second deductible.
 
 (G) Notwithstanding the dates specified in paragraphs (f)(2)(i)(A) and (f)(B)(2)(i) of this section in the case of dependents of active duty members of rank E-5 or above with Persian Gulf Conflict service, dependents of service members who were killed in the Gulf, or who died subsequent to Gulf service, and of members who retired prior to October 1, 1991, after having served in the Gulf War, the deductible shall be the amount specified in paragraph (f)(2)(i)(A) of this section for care rendered prior to October 1, 1991, and the amount specified in paragraph (f)(2)(i)(B) of this section for care rendered on or after October 1, 1991.
 
-(H) The Director, TRICARE Management Activity, may waive the annual individual or family fiscal year deductible for dependents of a Reserve Component member who is called or ordered to active duty for a period of more than 30 days or a National Guard member who is called or ordered to fulltime federal National Guard duty for a period of more than 30 days in support of a contingency operation (as defined in 10 U.S.C. 101(a)(13)). For purposes of this paragraph, a dependent is a lawful husband or wife of the member and a child is defined in paragraphs (b)(2)(ii)(A) through (F) and (b)(2)(ii)(H)(1), (2), and (4) of § 199.3.
+(H) The Director, TRICARE Management Activity, may waive the annual individual or family calendar year deductible for dependents of a Reserve Component member who is called or ordered to active duty for a period of more than 30 days or a National Guard member who is called or ordered to fulltime federal National Guard duty for a period of more than 30 days in support of a contingency operation (as defined in 10 U.S.C. 101(a)(13)). For purposes of this paragraph, a dependent is a lawful husband or wife of the member and a child is defined in paragraphs (b)(2)(ii)(A) through (F) and (b)(2)(ii)(H)(1), (2), and (4) of § 199.3.
 
 (ii) *Inpatient cost-sharing.* Dependents of members of the Uniformed Services are responsible for the payment of the first $25 of the allowable institutional costs incurred with each covered inpatient admission to a hospital or other authorized institutional provider (refer to § 199.6, including inpatient admission to a residential treatment center, substance use disorder rehabilitation facility residential treatment program, or skilled nursing facility), or the amount the beneficiary or sponsor would have been charged had the inpatient care been provided in a Uniformed Service hospital, whichever is greater.
 
-**Note:** The Secretary of Defense (after consulting with the Secretary of Health and Human Services and the Secretary of Transportation) prescribes the fair charges for inpatient hospital care provided through Uniformed Services medical facilities. This determination is made each fiscal year.
+**Note:** The Secretary of Defense (after consulting with the Secretary of Health and Human Services and the Secretary of Transportation) prescribes the fair charges for inpatient hospital care provided through Uniformed Services medical facilities. This determination is made each calendar year.
 
 (A) *Inpatient cost-sharing payable with each separate inpatient admission.* A separate cost-sharing amount (as described in paragraph (f)(2) of this section) is payable for each inpatient admission to a hospital or other authorized institution, regardless of the purpose of the admission (such as medical or surgical), regardless of the number of times the beneficiary is admitted, and regardless of whether or not the inpatient admissions are for the same or related conditions; except that successive inpatient admissions shall be deemed one inpatient confinement for the purpose of computing the inpatient cost-share payable, provided not more than 60 days have elapsed between the successive admissions. However, notwithstanding this provision, all admissions related to a single maternity episode shall be considered one confinement, regardless of the number of days between admissions (refer to paragraph (b) of this section).
 
@@ -1367,7 +1419,7 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (C) *Newborn patient in his or her own right.* When a newborn infant remains as an inpatient in his or her own right (usually after the mother is discharged), the newborn child becomes the beneficiary and patient and the extended inpatient stay becomes a separate inpatient admission. In such a situation, a new, separate inpatient cost-sharing amount is applied. If a multiple birth is involved (such as twins or triplets) and two or more newborn infants become patients in their own right, a separate inpatient cost-sharing amount must be applied to the inpatient stay for each newborn child who has remained as an inpatient in his or her own right.
 
-(iii) *Outpatient cost-sharing.* Dependents of members of the Uniformed Services are responsible for payment of 20 percent of the CHAMPUS-determined allowable cost or charge beyond the annual fiscal year deductible amount (as described in paragraph (f)(2)(i) of this section) for otherwise covered services or supplies provided on an outpatient basis by authorized providers.
+(iii) *Outpatient cost-sharing.* Dependents of members of the Uniformed Services are responsible for payment of 20 percent of the CHAMPUS-determined allowable cost or charge beyond the annual calendar year deductible amount (as described in paragraph (f)(2)(i) of this section) for otherwise covered services or supplies provided on an outpatient basis by authorized providers.
 
 (iv) *Ambulatory surgery.* Notwithstanding the above provisions pertaining to outpatient cost-sharing, dependents of members of the Uniformed Services are responsible for payment of $25 for surgical care that is authorized and received while in an outpatient status and that has been designated in guidelines issued by the Director, OCHAMPUS, or a designee.
 
@@ -1377,19 +1429,19 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (3) *Former members and dependents of former members.* CHAMPUS beneficiary liability set forth for former members and dependents of former members is as follows:
 
-(i) *Annual fiscal year deductible for outpatient services or supplies.* The annual fiscal year deductible for otherwise covered outpatient services or supplies provided former members and dependents of former members is the same as the annual fiscal year outpatient deductible applicable to dependents of active duty members of rank E-5 or above (refer to paragraph (f)(2)(i)(A) or (B) of this section).
+(i) *Annual calendar year deductible for outpatient services or supplies.* The annual calendar year deductible for otherwise covered outpatient services or supplies provided former members and dependents of former members is the same as the annual calendar year outpatient deductible applicable to dependents of active duty members of rank E-5 or above (refer to paragraph (f)(2)(i)(A) or (B) of this section).
 
 (ii) *Inpatient cost-sharing.* Inpatient admissions to a hospital or other authorized institutional provider (refer to § 199.6, including inpatient admission to a residential treatment center, substance use disorder rehabilitation facility residential treatment program, or skilled nursing facility) shall be cost-shared on an inpatient basis. The cost-sharing for inpatient services subject to the TRICARE DRG-based payment system and the TRICARE per diem system shall be the lesser of the respective per diem copayment amount multiplied by the total number of days in the hospital (except for the day of discharge under the DRG payment system), or 25 percent of the hospital's billed charges. For other inpatient services, the cost-share shall be 25% of the CHAMPUS-determined allowable charges.
 
-(iii) *Outpatient cost-sharing.* Former members and dependents of former members are responsible for payment of 25 percent of the CHAMPUS-determined allowable costs or charges beyond the annual fiscal year deductible amount (as described in paragraph (f)(2)(i) of this section) for otherwise covered services or supplies provided on an outpatient basis by authorized providers.
+(iii) *Outpatient cost-sharing.* Former members and dependents of former members are responsible for payment of 25 percent of the CHAMPUS-determined allowable costs or charges beyond the annual calendar year deductible amount (as described in paragraph (f)(2)(i) of this section) for otherwise covered services or supplies provided on an outpatient basis by authorized providers.
 
 (4) *Former spouses.* CHAMPUS beneficiary liability for former spouses eligible under the provisions set forth in § 199.3 of this part is as follows:
 
-(i) *Annual fiscal year deductible for outpatient services or supplies.* An eligible former spouse is responsible for the payment of the first $150.00 of the CHAMPUS-determined reasonable costs or charges for otherwise covered outpatient services or supplies provided in any one fiscal year. (Except for services received prior to April 1, 1991, the deductible amount is $50.00). The former spouse cannot contribute to, nor benefit from, any family deductible of the member or former member to whom the former spouse was married or of any CHAMPUS-eligible children.
+(i) *Annual calendar year deductible for outpatient services or supplies.* An eligible former spouse is responsible for the payment of the first $150.00 of the CHAMPUS-determined reasonable costs or charges for otherwise covered outpatient services or supplies provided in any one calendar year. (Except for services received prior to April 1, 1991, the deductible amount is $50.00). The former spouse cannot contribute to, nor benefit from, any family deductible of the member or former member to whom the former spouse was married or of any CHAMPUS-eligible children.
 
 (ii) *Inpatient cost-sharing.* Eligible former spouses are responsible for payment of cost-sharing amounts the same as those required for former members and dependents of former members.
 
-(iii) *Outpatient cost-sharing.* Eligible former spouses are responsible for payment of 25 percent of the CHAMPUS-determined reasonable costs or charges beyond the annual fiscal year deductible amount for otherwise covered services or supplies provided on an outpatient basis by authorized providers.
+(iii) *Outpatient cost-sharing.* Eligible former spouses are responsible for payment of 25 percent of the CHAMPUS-determined reasonable costs or charges beyond the annual calendar year deductible amount for otherwise covered services or supplies provided on an outpatient basis by authorized providers.
 
 (5) *Cost-Sharing under the Military-Civilian Health Services Partnership Program.* Cost-sharing is dependent upon the type of partnership program entered into, whether external or internal. (See paragraph (p) of § 199.1, for general requirements of the Military-Civilian Health Services Partnership Program.)
 
@@ -1417,13 +1469,13 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (B) Repeated noncompliance with this requirement is a basis for exclusion of a provider.
 
-(10) *Catastrophic loss protection for basic program benefits.* Fiscal year limits, or catastrophic caps, on the amounts beneficiaries are required to pay are established as follows:
+(10) *Catastrophic loss protection for basic program benefits.* Calendar year limits, or catastrophic caps, on the amounts beneficiaries are required to pay are established as follows:
 
-(i) *Dependents of active duty members.* The maximum family liability is $1,000 for deductibles and cost-shares based on allowable charges for Basic Program services and supplies received in a fiscal year.
+(i) *Dependents of active duty members.* The maximum family liability is $1,000 for deductibles and cost-shares based on allowable charges for Basic Program services and supplies received in a calendar year.
 
-(ii) *All other beneficiaries.* For all other categories of beneficiary families (including those eligible under CHAMPVA) the fiscal year cap is $3,000.
+(ii) *All other beneficiaries.* For all other categories of beneficiary families (including those eligible under CHAMPVA) the calendar year cap is $3,000.
 
-(iii) *Payment after cap is met.* After a family has paid the maximum cost-share and deductible amounts (dependents of active duty members $1,000 and all others $3,000), for a fiscal year, CHAMPUS will pay allowable amounts for remaining covered services through the end of that fiscal year.
+(iii) *Payment after cap is met.* After a family has paid the maximum cost-share and deductible amounts (dependents of active duty members $1,000 and all others $3,000), for a calendar year, CHAMPUS will pay allowable amounts for remaining covered services through the end of that calendar year.
 
 Note to paragraph (f)(10):
 
@@ -1440,6 +1492,8 @@ Under the Defense Authorization Act for Fiscal Year 2001, the cap for beneficiar
 (iii) This elimination of cost-sharing for preventive services does not apply to any beneficiary who is a Medicare-eligible beneficiary. For purposes of this section, the term “Medicare-eligible” beneficiary is defined in 10 U.S.C. 1111(b) and refers to a person eligible for Medicare Part A.
 
 (iv) Appropriate copayments and deductibles will apply for all services not listed in paragraph (e)(28) of this section, whether considered preventive in nature or not.
+
+(13) *Special transition rule for the last quarter of calendar year 2017.* In order to transition deductibles and catastrophic caps from a fiscal year basis to a calendar year basis, the deductible amount and the catastrophic cap amount specified in paragraph (f) of this section will be applicable to the 15-month period of October 1, 2016 through December 31, 2017.
 
 (g) *Exclusions and limitations.* In addition to any definitions, requirements, conditions, or limitations enumerated and described in other sections of this part, the following specifically are excluded from the Basic Program:
 
@@ -1563,7 +1617,7 @@ CHAMPUS will consider for coverage a device with an FDA-approved IDE categorized
 
 (38) *Chiropractors and naturopaths.* Services of chiropractors and naturopaths whether or not such services would be eligible for benefits if rendered by an authorized provider.
 
-(39) *Counseling.* Educational, vocational, and nutritional counseling and counseling for socioeconomic purposes, stress management, and/or lifestyle modification purposes, except that the following are not excluded:
+(39) *Counseling.* Educational, vocational, non-medical nutritional counseling, counseling for socioeconomic purposes, stress management, and/or lifestyle modification purposes, except the following are not excluded:
 
 (i) Services provided by a certified marriage and family therapist, pastoral or mental health counselor in the treatment of a mental disorder as specifically provided in paragraph (c)(3)(ix) of this section and in § 199.6.
 
@@ -1572,6 +1626,8 @@ CHAMPUS will consider for coverage a device with an FDA-approved IDE categorized
 (iii) Smoking cessation counseling and education as specifically provided in paragraph (e)(30) of this section.
 
 (iv) Services provided by alcoholism rehabilitation counselors only when rendered in a CHAMPUS-authorized treatment setting and only when the cost of those services is included in the facility's CHAMPUS-determined allowable cost rate.
+
+(v) Medical nutritional therapy (also referred to as medical nutritional counseling) required in the administration of the medically necessary foods, services and supplies authorized in paragraph (d)(3)(iii)(B) of this section, medically necessary vitamins authorized in paragraph (d)(3)(vi)(D) of this section, or when medically necessary for other authorized covered services.
 
 (40) *Acupuncture.* Acupuncture, whether used as a therapeutic agent or as an anesthetic.
 
@@ -1629,7 +1685,7 @@ In accordance with section 744 of the DoD Appropriation Act for 1981 (Pub. L. 96
 
 (56) *Clothing.* Items of clothing or shoes, even if required by virtue of an allergy (such as cotton fabric as against synthetic fabric and vegetable-dyed shoes).
 
-(57) *Food, food substitutes.* Food, food substitutes, vitamins, or other nutritional supplements, including those related to prenatal care.
+(57) *Food, food substitutes.* Food, food substitutes, vitamins, or other nutritional supplements, including those related to prenatal care, except as authorized in paragraphs (d)(3)(iii)(B) and (d)(3)(vi)(D) of this section.
 
 (58) *Enuretic.* Enuretic conditioning programs, but enuretic alarms may be cost-shared when determined to be medically necessary in the treatment of enuresis.
 

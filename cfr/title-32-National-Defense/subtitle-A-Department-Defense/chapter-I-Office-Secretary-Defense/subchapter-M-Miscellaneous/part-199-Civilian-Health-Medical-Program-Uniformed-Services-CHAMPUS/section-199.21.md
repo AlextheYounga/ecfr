@@ -160,51 +160,43 @@
 
 (i) *Cost-sharing requirements under the pharmacy benefits program* - (1) *General.* Under 10 U.S.C. 1074g(a)(6), cost-sharing requirements are established in this section for the pharmacy benefits program independent of those established under other provisions of this Part. Cost-shares under this section partially defray government costs of administering the pharmacy benefits program when collected by the government for prescriptions dispensed through the retail network pharmacies or the TRICARE Mail Order Pharmacy. The higher cost-share paid for prescriptions dispensed by a non-network retail pharmacy is established to encourage the use of the most economical venue to the government. Cost-sharing requirements are based on the classification of a pharmaceutical agent as generic, formulary, or non-formulary, in conjunction with the point of service from which the agent is acquired.
 
-(2) *Cost-sharing amounts.* Active duty members of the uniformed services do not pay cost-shares. For other categories of beneficiaries, cost-sharing amounts are as follows:
+(2) *Cost-sharing amounts.* Active duty members of the uniformed services do not pay cost-shares or annual deductibles. For other categories of beneficiaries, after applicable annual deductibles are met, cost-sharing amounts prior to October 1, 2016, are set forth in this paragraph (i)(2).
 
-(i) For pharmaceutical agents obtained from a military treatment facility, there is no co-payment.
+(i) For pharmaceutical agents obtained from a military treatment facility, there is no cost-sharing or annual deductible.
 
 (ii) For pharmaceutical agents obtained from a retail network pharmacy there is a:
 
-(A) $20.00 co-payment per prescription required for up to a 30-day supply of a formulary pharmaceutical agent.
+(A) $24.00 cost-share per prescription required for up to a 30-day supply of a formulary pharmaceutical agent.
 
-(B) $8.00 co-payment per prescription for up to a 30-day supply of a generic pharmaceutical agent.
+(B) $10.00 cost-share per prescription for up to a 30-day supply of a generic pharmaceutical agent.
 
-(C) $0.00 co-payment for vaccines/immunizations authorized as preventive care for eligible beneficiaries.
+(C) $0.00 cost-share for vaccines/immunizations authorized as preventive care for eligible beneficiaries.
 
-(iii) For formulary and generic pharmaceutical agents obtained from a retail non-network pharmacy there is a 20 percent or $20.00 co-payment (whichever is greater) per prescription for up to a 30-day supply of the pharmaceutical agent.
+(iii) For formulary and generic pharmaceutical agents obtained from a retail non-network pharmacy, except as provided in paragraph (i)(2)(vi) of this section, there is a 20 percent or $20.00 cost-share (whichever is greater) per prescription for up to a 30-day supply of the pharmaceutical agent.
 
 (iv) For pharmaceutical agents obtained under the TRICARE mail-order program there is a:
 
-(A) $16.00 co-payment per prescription for up to a 90-day supply of a formulary pharmaceutical agent.
+(A) $20 cost-share per prescription for up to a 90-day supply of a formulary pharmaceutical agent.
 
-(B) $0.00 co-payment for up to a 90-day supply of a generic pharmaceutical agent.
+(B) $0.00 cost-share for up to a 90-day supply of a generic pharmaceutical agent.
 
-(C) $46.00 co-payment for up to a 90-day supply of a non-formulary pharmaceutical agent.
+(C) $49.00 cost-share for up to a 90-day supply of a non-formulary pharmaceutical agent.
 
-(D) $ 0.00 co-payment for smoking cessation pharmaceutical agents covered under the smoking cessation program.
+(D) $0.00 cost-share for smoking cessation pharmaceutical agents covered under the smoking cessation program.
 
-(v) For pharmaceutical agents obtained under the TMOP program there is a:
+(v) [Reserved]
 
-(A) $9.00 co-payment per prescription for up to a 90-day supply of a formulary pharmaceutical agent.
+(vi) For TRICARE Prime beneficiaries there is no annual deductible applicable for pharmaceutical agents obtained from retail network pharmacies or the TRICARE mail-order program. However, for TRICARE Prime beneficiaries who obtain formulary or generic pharmaceutical agents from retail non-network pharmacies, an enrollment year deductible of $300 per person and $600 per family must be met after which there is a beneficiary cost-share of 50 percent per prescription for up to a 30-day supply of the pharmaceutical agent.
 
-(B) $3.00 co-payment for up to a 90-day supply of a generic pharmaceutical agent.
+(vii) For TRICARE Select beneficiaries the annual deductible which must be met before the cost-sharing amounts for pharmaceutical agents in paragraph (i)(2) of this section are applicable is as provided for each category of TRICARE Select enrollee in § 199.17(l)(2).
 
-(C) $22.00 co-payment for up to a 90-day supply of a non-formulary pharmaceutical agent.
-
-(D) $0.00 co-payment for smoking cessation pharmaceutical agents covered under the smoking cessation program.
-
-(vi) For TRICARE Prime beneficiaries who obtain prescriptions from retail non-network pharmacies, the enrollment year deductible for outpatient claims is $300 per individual; $600 per family; and a point of service cost-share of 50 percent thereafter applies in lieu of the 20 percent co-payment.
-
-(vii) Except as provided in paragraph (h)(2)(viii) of this section, for pharmaceutical agents acquired by TRICARE Standard beneficiaries from retail non-network pharmacies, beneficiaries are subject to the $150.00 per individual or $300.00 maximum per family annual fiscal year deductible.
-
-(viii) Under TRICARE Standard, dependents of members of the uniformed services whose pay grade is E-4 or below are subject to the $50.00 per indiviudal or $100.00 maximum per family annual fiscal year deductible.
+(viii) For TRICARE beneficiaries not otherwise qualified to enroll in TRICARE Prime or Select, the annual deductible which must be met before the cost-sharing amounts for pharmaceutical agents in paragraph (i)(2) of this section are applicable is as provided in § 199.4(f).
 
 (ix) The TRICARE catastrophic cap limits apply to pharmacy benefits program cost-sharing.
 
 (x) The per prescription co-payments established in this paragraph (i)(2) may be adjusted periodically based on experience with the uniform formulary, changes in economic circumstances, and other appropriate factors. Any such adjustment must be approved by the Assistant Secretary of Defense (Health Affairs). These additional requirements apply:
 
-(A) Beginning January 1, 2016, the amounts specified in this paragraph (i)(2) shall be increased annually by the percentage increase in the cost-of-living adjustment by which retired pay is increased under 10 U.S. Code section 1401a for the year, rounded down to the nearest dollar. However, with respect to any amount of increase that is less than $1 or any amount lost in rounding down to the nearest dollar, that amount shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over for a year is $1 or more.
+(A) Beginning October 1, 2016, the amounts specified in this paragraph (i)(2) shall be increased annually by the percentage increase in the cost-of-living adjustment by which retired pay is increased under 10 U.S.C. 1401a for the year. If the amount of the increase is equal to or greater than 50 cents, the amount of the increase shall be rounded to the nearest multiple of $1. If the amount of the increase is less than 50 cents, the increase shall not be made for that year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases for a year is equal to or greater than 50 cents.
 
 (B) Effective January 1, 2023 (unless otherwise provided by law), the Assistant Secretary of Defense for Health Affairs may adjust the amounts specified in this paragraph (i)(2) as considered appropriate. Between January 1, 2016, and January 1, 2023, the only adjustments allowed are the cost of living adjustments described in paragraph (i)(2)(x)(A) of this section, unless otherwise provided by law.
 
@@ -364,6 +356,4 @@
 
 (6) This program will remain in effect indefinitely with any adjustments or modifications required by law.
 
-[69 FR 17048, Apr. 1, 2004, as amended at 74 FR 11292, Mar. 17, 2009; 74 FR 55776, Oct. 29, 2009; 74 FR 65438, Dec. 10, 2009; 75 FR 63397, Oct. 15, 2010; 76 FR 41065, July 13, 2011; 78 FR 13241, Feb. 27, 2013; 78 FR 75247, Dec. 11, 2013; 80 FR 46798, Aug. 6, 2015; 80 FR 44272, July 27, 2015; 81 FR 76310, Nov. 2, 2016]Editorial Notes:1. At 76 FR 41065, July 13, 2011, § 199.21 was amended by adding paragraphs (h)(4) and (i)(2)(ii)(D); however, the amendment could not be incorporated because both paragraphs already existed.
-
-2. At 80 FR 44272, July 27, 2015, § 199.21 was amended by revising paragraph (i)(2)(v); however, the amendment could not be incorporated because the revised text was not provided.
+[69 FR 17048, Apr. 1, 2004, as amended at 74 FR 11292, Mar. 17, 2009; 74 FR 55776, Oct. 29, 2009; 74 FR 65438, Dec. 10, 2009; 75 FR 63397, Oct. 15, 2010; 76 FR 41065, July 13, 2011; 78 FR 13241, Feb. 27, 2013; 78 FR 75247, Dec. 11, 2013; 80 FR 46798, Aug. 6, 2015; 80 FR 44272, July 27, 2015; 81 FR 76310, Nov. 2, 2016; 82 FR 45458, Sept. 29, 2017]Editorial Note:At 76 FR 41065, July 13, 2011, § 199.21 was amended by adding paragraphs (h)(4) and (i)(2)(ii)(D); however, the amendment could not be incorporated because both paragraphs already existed.

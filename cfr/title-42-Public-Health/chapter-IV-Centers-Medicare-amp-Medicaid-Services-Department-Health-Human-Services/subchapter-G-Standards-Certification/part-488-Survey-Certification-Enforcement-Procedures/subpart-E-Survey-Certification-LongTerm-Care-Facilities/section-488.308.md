@@ -1,14 +1,12 @@
 ##### § 488.308 Survey frequency. #####
 
-Link to an amendment published at 82 FR 36635, Aug. 4, 2017.
-
 (a) *Basic period.* The survey agency must conduct a standard survey of each SNF and NF not later than 15 months after the last day of the previous standard survey.
 
 (b) *Statewide average interval.* (1) The statewide average interval between standard surveys must be 12 months or less, computed in accordance with paragraph (d) of this section.
 
 (2) CMS takes corrective action in accordance with the nature of the State survey agency's failure to ensure that the 12-month statewide average interval requirement is met. CMS's corrective action is in accordance with § 488.320.
 
-(c) *Other surveys.* The survey agency may conduct a survey as frequently as necessary to -
+(c) *Other surveys.* The survey agency may conduct a survey as frequently as necessary to—
 
 (1) Determine whether a facility complies with the participation requirements; and
 
@@ -26,10 +24,14 @@ Link to an amendment published at 82 FR 36635, Aug. 4, 2017.
 
 (iv) Director of nursing.
 
-(2) The survey agency must review all complaint allegations and conduct a standard or an abbreviated standard survey to investigate complaints of violations of requirements by SNFs and NFs if its review of the allegation concludes that -
+(2) [Reserved]
+
+(f) *Investigation of complaints.* (1) The survey agency must review all complaint allegations and conduct a standard or an abbreviated survey to investigate complaints of violations of requirements by SNFs and NFs if its review of the allegation concludes that—
 
 (i) A deficiency in one or more of the requirements may have occurred; and
 
 (ii) Only a survey can determine whether a deficiency or deficiencies exist.
 
-(3) The survey agency does not conduct a survey if the complaint raises issues that are outside the purview of Federal participation requirements.
+(2) The survey agency does not conduct a survey if the complaint raises issues that are outside the purview of Federal participation requirements.
+
+[53 FR 22859, June 17, 1988, as amended at 82 FR 36635, Aug. 4, 2017]

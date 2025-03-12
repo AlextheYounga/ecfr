@@ -1,7 +1,5 @@
 ##### § 412.522 Application of site neutral payment rate. #####
 
-Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
-
 (a) *General.* For discharges in cost reporting periods beginning on or after October 1, 2015 -
 
 (1) Except as provided for in paragraph (b) of this section, all discharges are paid based on the site neutral payment rate as determined under the provisions of paragraph (c) of this section.
@@ -34,6 +32,28 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (*2*) Located in a rural area (as defined at § 412.503) or reclassified as rural by meeting the requirements set forth in § 412.103.
 
+(3) *Temporary exception for certain severe wound discharges.* - (i) *Definitions.* For purposes of this paragraph (b)(3) the following definitions are applicable:
+
+*Severe wound* means a wound which is a stage 3 wound, stage 4 wound, unstageable wound, non-healing surgical wound, fistula, as identified by the applicable code on the claim from the long-term care hospital.
+
+*Wound* means an injury, usually involving division of tissue or rupture of the integument or mucous membrane with exposure to the external environment.
+
+(ii) *Discharges for severe wounds.* A discharge that occurs in a cost reporting period beginning during fiscal year 2018 for a patient who was treated for a severe wound that meets all of the following criteria is excluded from the site neutral payment rate specified under this section:
+
+(A) The severe wound meets the definition specified in paragraph (b)(3)(i) of this section.
+
+(B) The discharge is from a long-term care hospital that is described in § 412.23(e)(2)(i) and meets the criteria of § 412.22(f); and
+
+(C) The discharge is classified under MS-LTC-DRG 539, 540, 602, or 603.
+
+(4) *Temporary exception for certain spinal cord specialty hospitals.* For discharges in cost reporting periods beginning in fiscal years 2018 and 2019, the site neutral payment rate specified under this section does not apply if such discharge is from a long-term care hospital that meets each of the following requirements:
+
+(i) The hospital was a not-for-profit long-term care hospital on June 1, 2014, as determined by cost report data;
+
+(ii) Of the discharges in calendar year 2013 from the long-term care hospital for which payment was made under subpart O, at least 50 percent were classified under MS-LTC-DRGs 28, 29, 52, 57, 551, 573, and 963; and
+
+(iii) The long-term care hospital discharged inpatients (including both individuals entitled to, or enrolled for, benefits under Medicare Part A and individuals not so entitled or enrolled) during fiscal year 2014 who had been admitted from at least 20 of the 50 States determined by the States of residency of such inpatients.
+
 (c) *Site neutral payment rate* - (1) *General.* Subject to the provisions of paragraph (c)(2) of this section, the site neutral payment rate is the lower of -
 
 (i) The inpatient hospital prospective payment system comparable per diem amount determined under § 412.529(d)(4), including any applicable outlier payments specified in § 412.525(a); or
@@ -62,4 +82,4 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (2) CMS will inform each long-term care hospital of its discharge payment percentage, as determined under paragraph (d)(1) of this section, for each cost reporting period beginning on or after October 1, 2015.
 
-[80 FR 49768, Sept. 1, 2015, as amended at 81 FR 23438, Apr. 21, 2016; 81 FR 57269, Aug. 22, 2016]
+[80 FR 49768, Sept. 1, 2015, as amended at 81 FR 23438, Apr. 21, 2016; 81 FR 57269, Aug. 22, 2016; 82 FR 38512, Aug. 14, 2017]

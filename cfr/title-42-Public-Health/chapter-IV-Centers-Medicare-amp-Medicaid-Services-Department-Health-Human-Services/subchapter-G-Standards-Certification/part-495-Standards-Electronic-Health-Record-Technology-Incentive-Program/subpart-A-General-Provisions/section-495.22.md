@@ -1,12 +1,10 @@
-##### § 495.22 Meaningful use objectives and measures for EPs, eligible hospitals, and CAHs for 2015 through 2017. #####
+##### § 495.22 Meaningful use objectives and measures for EPs, eligible hospitals, and CAHs for 2015 through 2018. #####
 
-Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
+(a) *General rules.* (1) Subject to the provisions of paragraph (a)(2) of this section, the criteria specified in this section are applicable for EPs, eligible hospitals, and CAHs for 2015 through 2018.
 
-(a) *General rules.* (1) Subject to the provisions of paragraph (a)(2) of this section, the criteria specified in this section are applicable for EPs, eligible hospitals, and CAHs for 2015 through 2017.
+(2) For 2017 and 2018, EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year have the option to use the criteria specified for 2019 in § 495.24 instead of the criteria specified for 2017 and 2018 under paragraphs (e) and (f) of this section.
 
-(2) For 2017 only, EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year have the option to use the criteria specified for 2018 in § 495.24 instead of the criteria specified for 2017 under paragraphs (e) and (f) of this section.
-
-(b) *Criteria for EPs for 2015 through 2017* - (1) *General rule regarding criteria for meaningful use for 2015 through 2017 for EPs.* Except as specified in paragraph (b)(2) of this section, EPs must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (e) of this section to meet the definition of a meaningful EHR user.
+(b) *Criteria for EPs for 2015 through 2018* - (1) *General rule regarding criteria for meaningful use for 2015 through 2018 for EPs.* Except as specified in paragraph (b)(2) of this section, EPs must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (e) of this section to meet the definition of a meaningful EHR user.
 
 (2) *Exclusion for non-applicable objectives.* (i) An EP may exclude a particular objective contained in paragraph (e) of this section, if the EP meets all of the following requirements:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
 
 (ii) An exclusion will reduce (by the number of exclusions applicable) the number of objectives that would otherwise apply in paragraph (e) of this section.
 
-(c) *Criteria for eligible hospitals and CAHs for 2015 through 2017* - (1) *General rule regarding criteria for meaningful use for 2015 through 2017 for eligible hospitals and CAHs.* Except as specified in paragraph (c)(2) of this section, eligible hospitals and CAHs attesting to CMS must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (e) of this section to meet the definition of a meaningful EHR user in 2015 and 2016 and must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (f) of this section to meet the definition of a meaningful EHR user in 2017. Except as specified in paragraph (c)(2) of this section, eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (e) of this section to meet the definition of a meaningful EHR user in 2015 through 2017.
+(c) *Criteria for eligible hospitals and CAHs for 2015 through 2018* - (1) *General rule regarding criteria for meaningful use for 2015 through 2018 for eligible hospitals and CAHs.* Except as specified in paragraph (c)(2) of this section, eligible hospitals and CAHs attesting to CMS must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (e) of this section to meet the definition of a meaningful EHR user in 2015 and 2016 and must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (f) of this section to meet the definition of a meaningful EHR user in 2017 and 2018. Except as specified in paragraph (c)(2) of this section, eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program must meet all objectives and associated measures of the meaningful use criteria specified under paragraph (e) of this section to meet the definition of a meaningful EHR user in 2015 through 2018.
 
 (2) *Exclusion for non-applicable objectives.* (i) An eligible hospital or CAH may exclude a particular objective contained in paragraph (e) of this section, if the eligible hospital or CAH meets all of the following requirements:
 
@@ -34,7 +32,7 @@ Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
 
 (2) If the objective and associated measure does not reference this paragraph (d) of this section, then the measure must be calculated by reviewing all patient records, not just those maintained using CEHRT.
 
-(e) *Meaningful use objectives and measures for EPs for 2015 through 2017, for eligible hospitals and CAHs attesting to CMS for 2015 and 2016, and for eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program for 2015 through 2017.* - (1) *Protect patient health information* - (i) *Objective.* Protect electronic protected health information created or maintained by the CEHRT through the implementation of appropriate technical capabilities.
+(e) *Meaningful use objectives and measures for EPs for 2015 through 2018, for eligible hospitals and CAHs attesting to CMS for 2015 and 2016, and for eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program for 2015 through 2018.* - (1) *Protect patient health information* - (i) *Objective.* Protect electronic protected health information created or maintained by the CEHRT through the implementation of appropriate technical capabilities.
 
 (ii) *Measures* - (A) *EP measure.* Conduct or review a security risk analysis in accordance with the requirements in 45 CFR 164.308(a)(1), including addressing the security (to include encryption) of ePHI created or maintained by CEHRT in accordance with requirements under 45 CFR 164.312(a)(2)(iv) and 45 CFR 164.306(d)(3), and implement security updates as necessary and correct identified security deficiencies as part of the EP's risk management process.
 
@@ -206,7 +204,7 @@ Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
 
 (*i*) In 2015 and 2016, at least 1 patient seen by the EP during the EHR reporting period (or patient-authorized representative) views, downloads or transmits his or her health information to a third party during the EHR reporting period.
 
-(*ii*) In 2017, more than 5 percent of unique patients seen by the EP during the EHR reporting period (or their authorized representatives) views, downloads or transmits their health information to a third party during the EHR reporting period.
+(*ii*) In 2017 and 2018, more than 5 percent of unique patients (or patient-authorized representatives) discharged from the inpatient or emergency department (POS 21 or POS 23) of an eligible hospital or CAH during the EHR reporting period view, download or transmit to a third party their health information during the EHR reporting period.
 
 (B) *Exclusion in accordance with paragraph (b)(2) of this section* - (*1*) Any EP who neither orders nor creates any of the information listed for inclusion as part of the measure in paragraph (e)(8)(ii)(A)(*1*) or (*2*) of this section, except for “Patient name” and “Provider's name and office contact information,” is excluded from paragraphs (e)(8)(ii)(A)(*1*) and (*2*) of this section.
 
@@ -224,7 +222,7 @@ Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
 
 (*i*) In 2015 or 2016, at least 1 patient (or patient-authorized representative) who is discharged from the inpatient or emergency department (POS 21 or 23) of an eligible hospital or CAH during the EHR reporting period views, downloads or transmits to a third party his or her information during the EHR reporting period; and
 
-(*ii*) In 2017, more than 5 percent of unique patients (or patient-authorized representatives) discharged from the inpatient or emergency department (POS 21 or POS 23) of an eligible hospital or CAH during the EHR reporting period view, download or transmit to a third party their health information during the EHR reporting period.
+(*ii*) In 2017 and 2018, more than 5 percent of unique patients (or patient-authorized representatives) discharged from the inpatient or emergency department (POS 21 or POS 23) of an eligible hospital or CAH during the EHR reporting period view, download or transmit to a third party their health information during the EHR reporting period.
 
 (B) *Exclusion applicable under paragraph (c)(2) of this section.* Any eligible hospital or CAH that is located in a county that does not have 50 percent or more of its housing units with 4Mbps broadband availability according to the latest information available from the FCC on the first day of the EHR reporting period is excluded from paragraph (e)(8)(iii)(A)(*2*) of this section.
 
@@ -238,7 +236,7 @@ Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
 
 (*2*) In 2016, for at least 1 patient seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or the patient-authorized representative), or in response to a secure message sent by the patient (or the patient-authorized representative) during the EHR reporting period; and
 
-(*3*) In 2017, for more than 5 percent of unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or the patient-authorized representative), or in response to a secure message sent by the patient (or the patient-authorized representative) during the EHR reporting period.
+(*3*) In 2017 and 2018, for more than 5 percent of unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or the patient-authorized representative), or in response to a secure message sent by the patient (or the patient-authorized representative) during the EHR reporting period.
 
 (B) *Exclusion in accordance with paragraph (b)(2) of this section.* An EP may exclude from the measure if he or she -
 
@@ -330,7 +328,7 @@ Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
 
 (D) *Alternate specification.* An eligible hospital or CAH previously scheduled to be in Stage 1 in 2015 may choose from measures 1 through 4 (as specified in paragraphs (e)(10)(ii)(B)(*1*) through (*4*) of this section) and must successfully attest to any 2 measures. These measures may be met by any combination, including meeting the measures specified in paragraph (e)(10)(ii)(B)(*3*) of this section multiple times, in accordance with applicable law and practice.
 
-(f) *Meaningful use objectives and measures for eligible hospitals and CAHs attesting to CMS for 2017* - (1) *Protect patient health information* - (i) *Objective.* Protect electronic protected health information created or maintained by the CEHRT through the implementation of appropriate technical capabilities.
+(f) *Meaningful use objectives and measures for eligible hospitals and CAHs attesting to CMS for 2017 and 2018* - (1) *Protect patient health information* - (i) *Objective.* Protect electronic protected health information created or maintained by the CEHRT through the implementation of appropriate technical capabilities.
 
 (ii) *Security risk analysis measure.* Conduct or review a security risk analysis in accordance with the requirements under 45 CFR 164.308(a)(1), including addressing the security (to include encryption) of ePHI created or maintained in CEHRT in accordance with requirements under 45 CFR 164.312(a)(2)(iv) and 45 CFR 164.306(d)(3), and implement security updates as necessary, and correct identified security deficiencies as part of the eligible hospital's or CAH's risk management process.
 
@@ -414,4 +412,4 @@ Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
 
 (*3*) Operates in a jurisdiction where no public health agency has declared readiness to receive electronic reportable laboratory results from eligible hospitals or CAHs at the start of the EHR reporting period.
 
-[80 FR 62943, Oct. 16, 2015, as amended at 81 FR 11449, Mar. 4, 2016; 81 FR 79882, Nov. 14, 2016]
+[80 FR 62943, Oct. 16, 2015, as amended at 81 FR 11449, Mar. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38517, Aug. 14, 2017]

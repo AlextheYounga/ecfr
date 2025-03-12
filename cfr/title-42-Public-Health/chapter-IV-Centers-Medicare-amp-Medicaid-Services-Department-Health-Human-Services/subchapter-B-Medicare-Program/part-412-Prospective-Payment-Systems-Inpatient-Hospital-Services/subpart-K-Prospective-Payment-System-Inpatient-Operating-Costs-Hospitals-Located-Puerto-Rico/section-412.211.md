@@ -1,7 +1,5 @@
 ##### § 412.211 Puerto Rico rates for Federal fiscal year 2004 and subsequent fiscal years. #####
 
-Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
-
 (a) *General rule.* CMS determines the Puerto Rico adjusted prospective payment rate for inpatient operating costs for each inpatient hospital discharge occurring in Federal fiscal year 2004 and subsequent fiscal years that involves inpatient hospital services of a hospital in Puerto Rico subject to the prospective payment system for which payment may be made under Medicare Part A.
 
 (b) *Geographic classifications.* (1) For purposes of this section, the following definitions apply:
@@ -22,7 +20,7 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (4) For fiscal year 2012 and subsequent fiscal years, the applicable percentage increase specified in § 412.64(d).
 
-(d) *Computing Puerto Rico Federal rates for inpatient operating costs for hospitals located in all areas.* For each discharge classified within a DRG, CMS establishes for the fiscal year a Puerto Rico prospective payment rate for inpatient operating costs equal to the product of -
+(d) *Computing Puerto Rico Federal rates for inpatient operating costs for hospitals located in all areas.* For each discharge classified within a DRG, CMS establishes for the fiscal year a Puerto Rico prospective payment rate for inpatient operating costs equal to the product of—
 
 (1) The average standardized amount for the fiscal year for hospitals located in all areas; and
 
@@ -36,7 +34,7 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (3) For discharges occurring on or after October 1, 2004, CMS employs 62 percent as the proportion of the rate that is adjusted for the relative level of hospital wages and wage-related costs, unless employing that percentage would result in lower payments for the hospital than employing the proportion determined under the methodology described in paragraph (e)(2) of this section.
 
-(f) *Adjusting the wage index to account for commuting patterns of hospital workers* - (1) *General criteria.* For discharges occurring on or after October 1, 2004, CMS adjusts the hospital wage index for hospitals located in qualifying areas to recognize the commuting patterns of hospital employees. A qualifying area is an area that meets all of the following criteria:
+(f) *Adjusting the wage index to account for commuting patterns of hospital workers*—(1) *General criteria.* For discharges occurring on or after October 1, 2004, CMS adjusts the hospital wage index for hospitals located in qualifying areas to recognize the commuting patterns of hospital employees. A qualifying area is an area that meets all of the following criteria:
 
 (i) Hospital employees in the area commute to work in an MSA (or MSAs) with a wage index (or wage indices) higher than the wage index of the area.
 
@@ -50,8 +48,8 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (ii) CMS will include, in its annual proposed and final notices of updates to the hospital inpatient prospective payment system, a listing of qualifying areas and the hospitals that are eligible to receive the adjustment to their wage indexes for commuting hospital employees, and the wage index increase applicable to each qualifying area.
 
-(iii) Any wage index adjustment made under this paragraph (f) is effective for a period of 3 fiscal years, except that hospitals in a qualifying county may elect to waive the application of the wage index adjustment. A hospital may waive the application of the wage index adjustment by notifying CMS in writing within 45 days after the publication in the Federal Register of the annual notice of proposed rulemaking for the hospital inpatient prospective payment system.
+(iii) Any wage index adjustment made under this paragraph (f) is effective for a period of 3 fiscal years, except that hospitals in a qualifying county may elect to waive the application of the wage index adjustment. A hospital may waive the application of the wage index adjustment by notifying CMS in writing within 45 days of the date of public display of the annual notice of proposed rulemaking for the hospital inpatient prospective payment system at the Office of the **Federal Register.**
 
 (iv) A hospital in a qualifying area that receives a wage index adjustment under this paragraph (f) is not eligible for reclassification under Subpart L of this part.
 
-[69 FR 49248, Aug. 11, 2004, as amended at 75 FR 50414, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011]
+[69 FR 49248, Aug. 11, 2004, as amended at 75 FR 50414, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 82 FR 38512, Aug. 14, 2017]

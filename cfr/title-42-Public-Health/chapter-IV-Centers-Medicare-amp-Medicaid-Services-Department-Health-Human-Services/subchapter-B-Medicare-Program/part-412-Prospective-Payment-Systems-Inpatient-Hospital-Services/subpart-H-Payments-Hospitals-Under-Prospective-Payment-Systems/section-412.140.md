@@ -1,7 +1,5 @@
 ##### § 412.140 Participation, data submission, and validation requirements under the Hospital Inpatient Quality Reporting (IQR) Program. #####
 
-Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
-
 (a) *Participation in the Hospital IQR Program.* In order to participate in the Hospital IQR Program, a section 1886(d) of the hospital must-
 
 (1) Register on QualityNet.org, before it begins to report data;
@@ -22,13 +20,19 @@ Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
 
 (c) *Submission and validation of Hospital IQR Program data.* (1) *General rule.* Except as provided in paragraph (c)(2) of this section, subsection (d) hospitals that participate in the Hospital IQR Program must submit to CMS data on measures selected under section 1886(b)(3)(B)(viii) of the Act in a form and manner, and at a time, specified by CMS. A hospital must begin submitting data on the first day of the quarter following the date that the hospital submits a completed Notice of Participation form under paragraph (a)(3) of this section.
 
-(2) *Exception.* Upon request by a hospital, CMS may grant an extension or exemption of one or more data submission deadlines in the event of extraordinary circumstances beyond the control of the hospital. Specific requirements for submission of a request for an extension or exemption are available on QualityNet.org.
+(2) *Extraordinary circumstances exceptions.* CMS may grant an exception with respect to quality data reporting requirements in the event of extraordinary circumstances beyond the control of the hospital. CMS may grant an exception as follows:
+
+(i) For circumstances not relating to the reporting of electronic clinical quality measure data, a hospital participating in the Hospital IQR Program that wishes to request an exception with respect to quality data reporting requirements must submit its request to CMS within 90 days of the date that the extraordinary circumstances occurred. For circumstances relating to the reporting of electronic clinical quality measures, a hospital participating in the Hospital IQR Program that wishes to request an exception must submit its request to CMS by April 1 following the end of the reporting calendar year in which the extraordinary circumstances occurred. Specific requirements for submission of a request for an exception are available on QualityNet.org.
+
+(ii) CMS may grant an exception to one or more hospitals that have not requested an exception if: CMS determines that a systemic problem with CMS data collection systems directly affected the ability of the hospital to submit data; or if CMS determines that an extraordinary circumstance has affected an entire region or locale.
 
 (d) *Validation of Hospital IQR Program data.* CMS may validate one or more measures selected under section 1886(b)(3)(B)(viii) of the Act by reviewing patient charts submitted by selected participating hospitals.
 
 (1) Upon written request by CMS or its contractor, a hospital must submit to CMS a sample of patient charts that the hospital used for purposes of data submission under the program. The specific sample that a hospital must submit will be identified in the written request. A hospital must submit the patient charts to CMS or its contractor within 30 days of the date identified on the written request.
 
-(2) A hospital meets the chart-abstracted validation requirement with respect to a fiscal year if it achieves a 75-percent score, as determined by CMS.
+(2)(i) A hospital meets the chart-abstracted validation requirement with respect to a fiscal year if it achieves a 75-percent score, as determined by CMS.
+
+(ii) A hospital meets the eCQM validation requirement with respect to a fiscal year if it submits at least 75 percent of sampled eCQM measure medical records in a timely and complete manner, as determined by CMS.
 
 (e) *Reconsiderations and appeals of Hospital IQR Program decisions.* (1) A hospital may request reconsideration of a decision by CMS that the hospital has not met the requirements of the Hospital IQR Program for a particular fiscal year. Except as provided in paragraph (c)(2) of this section, a hospital must submit a reconsideration request to CMS no later than 30 days from the date identified on the Hospital Inpatient Quality Reporting Program Annual Payment Update Notification Letter provided to the hospital.
 
@@ -60,4 +64,4 @@ Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
 
 (2) CMS approves an application for an entity to administer the HCAHPS survey as an approved HCAHPS survey vendor on behalf of one or more hospitals when an applicant has met the Minimum Survey Requirements and Rules of Participation that can be found on the official HCAHPS On-Line Web site, and agree to comply with the current survey administration protocols that can be found on the official HCAHPS On-Line Web site. An entity must be an approved HCAHPS survey vendor in order to administer and submit HCAHPS data to CMS on behalf of one or more hospitals.
 
-[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016]
+[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 82 FR 38511, Aug. 14, 2017]

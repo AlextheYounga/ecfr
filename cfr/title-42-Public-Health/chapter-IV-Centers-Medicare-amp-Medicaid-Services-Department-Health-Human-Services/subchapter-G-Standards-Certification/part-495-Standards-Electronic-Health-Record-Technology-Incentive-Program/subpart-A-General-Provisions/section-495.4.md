@@ -1,8 +1,8 @@
 ##### § 495.4 Definitions. #####
 
-Link to an amendment published at 82 FR 38516, Aug. 14, 2017.
-
 In this part, unless otherwise indicated -
+
+*Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.
 
 *API* stands for application programming interface.
 
@@ -114,9 +114,9 @@ In this part, unless otherwise indicated -
 
 (D) The certification criteria that are necessary to be a Meaningful EHR User (as defined in this section), including the applicable measure calculation certification criterion at 45 CFR 170.314(g)(1) or (2) or 45 CFR 170.315(g)(1) or (2) for all certification criteria that support a meaningful use objective with a percentage-based measure.
 
-(iii) The definition for 2018 subsequent years specified in paragraph (2) of this definition.
+(iii) The definition for 2019 and subsequent years specified in paragraph (2) of this definition.
 
-(2) For 2018 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria -
+(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria -
 
 (i) At 45 CFR 170.315(a)(12) (family health history) and 45 CFR 170.315(e)(3) (patient health information capture); and
 
@@ -150,7 +150,7 @@ In this part, unless otherwise indicated -
 
 (D) For an EP seeking to demonstrate he or she is a meaningful EHR user for the Medicaid EHR incentive program for CY 2014 any continuous 90-day period within CY 2014.
 
-(ii) The following are applicable for 2015, 2016, and 2017:
+(ii) The following are applicable for 2015, 2016, 2017, and 2018:
 
 (A) For the CY 2015 payment year, any continuous 90-day period within CY 2015.
 
@@ -168,7 +168,13 @@ In this part, unless otherwise indicated -
 
 (*3*) For the EP demonstrating the Stage 3 objectives and measures at § 495.24, any continuous 90-day period within CY 2017.
 
-(iii) The following are applicable beginning with the CY 2018 payment year under the Medicaid EHR Incentive Program:
+(D) For the CY 2018 payment year under the Medicaid EHR Incentive Program:
+
+(*1*) For the EP first demonstrating he or she is a meaningful EHR user, any continuous 90-day period within CY 2018.
+
+(*2*) For the EP who has successfully demonstrated he or she is a meaningful EHR user in any prior year, any continuous 90-day period within CY 2018.
+
+(iii) The following are applicable beginning with the CY 2019 payment year under the Medicaid EHR Incentive Program:
 
 (A) For the payment year in which the EP is first demonstrating he or she is a meaningful EHR user, any continuous 90-day period within the calendar year.
 
@@ -192,7 +198,7 @@ In this part, unless otherwise indicated -
 
 (*4*) July 1, 2014 through September 30, 2014.
 
-(ii) The following are applicable for 2015, 2016, and 2017:
+(ii) The following are applicable for 2015, 2016, 2017, and 2018:
 
 (A) For the FY 2015 payment year, any continuous 90-day period within the period beginning on October 1, 2014 and ending on December 31, 2015.
 
@@ -210,7 +216,13 @@ In this part, unless otherwise indicated -
 
 (*3*) For the eligible hospital or CAH demonstrating the Stage 3 objectives and measures at § 495.24, any continuous 90-day period within CY 2017.
 
-(iii) The following are applicable beginning with the FY 2018 payment year under the Medicaid EHR Incentive Program:
+(D) For the FY 2018 payment year under the Medicaid EHR Incentive Program:
+
+(*1*) For the eligible hospital or CAH first demonstrating it is a meaningful EHR user, any continuous 90-day period within CY 2018.
+
+(*2*) For the eligible hospital or CAH that has successfully demonstrated it is a meaningful EHR user in any prior year, any continuous 90-day period within CY 2018.
+
+(iii) The following are applicable beginning with the FY 2019 payment year under the Medicaid EHR Incentive Program:
 
 (A) For the payment year in which the eligible hospital or CAH is first demonstrating it is a meaningful EHR user, any continuous 90-day period within the calendar year.
 
@@ -266,7 +278,7 @@ In this part, unless otherwise indicated -
 
 (*2*) Under this exception, the eligible hospital must successfully register for and attest to meaningful use no later than July 1 of the year before the payment adjustment year.
 
-(ii) The following are applicable for 2015, 2016, and 2017:
+(ii) The following are applicable for 2015, 2016, 2017, and 2018:
 
 (A) In 2015 as follows:
 
@@ -288,7 +300,13 @@ In this part, unless otherwise indicated -
 
 (*3*) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2017 and applies for the FY 2019 payment adjustment year.
 
-(iii) The following are applicable beginning in 2018:
+(D) In 2018 as follows:
+
+(*1*) If an eligible hospital has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 90-day period within CY 2018 and applies for the FY 2019 and 2020 payment adjustment years. For the FY 2019 payment adjustment year, the EHR reporting period must end before and the eligible hospital must successfully register for and attest to meaningful use no later than October 1, 2018.
+
+(*2*) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2018 and applies for the FY 2020 payment adjustment year.
+
+(iii) The following are applicable beginning in 2019:
 
 (A) Except as provided in paragraph (2)(iii)(B) of this definition, the EHR reporting period is the calendar year that is 2 years before the payment adjustment year.
 
@@ -302,7 +320,7 @@ In this part, unless otherwise indicated -
 
 (B) If the CAH is demonstrating it is a meaningful EHR user for the first time in the payment adjustment year, any continuous 90-day period within the Federal fiscal year that is the payment adjustment year.
 
-(ii) The following are applicable for 2015, 2016, and 2017:
+(ii) The following are applicable for 2015, 2016, 2017, and 2018:
 
 (A) In 2015 as follows:
 
@@ -324,7 +342,13 @@ In this part, unless otherwise indicated -
 
 (*3*) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2017 and applies for the FY 2017 payment adjustment year.
 
-(iii) The following are applicable beginning in 2018:
+(D) In 2018 as follows:
+
+(*1*) If a CAH has not successfully demonstrated it is a meaningful EHR user in a prior year, the EHR reporting period is any continuous 90-day period within CY 2018 and applies for the FY 2018 payment adjustment year.
+
+(*2*) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 90-day period within CY 2018 and applies for the FY 2018 payment adjustment year.
+
+(iii) The following are applicable beginning in 2019:
 
 (A) Except as provided in paragraph (3)(iii)(B) of this definition, the EHR reporting period is the calendar year that begins on the first day of second quarter of the Federal fiscal year that is the payment adjustment year.
 
@@ -386,4 +410,4 @@ In this part, unless otherwise indicated -
 
 *Qualified EHR* has the same definition as this term is defined at 45 CFR 170.102.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016]
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017]

@@ -6,7 +6,7 @@
 
 (3) A residential garage door or door operator shall be provided with complete and specific instructions for the correct adjustment of the control mechanism and the need for periodic checking and, if needed, adjustment of the control mechanism so as to maintain satisfactory operation of the door.
 
-(4) The instruction manual shall include the important instructions specified in paragraphs (b)(1) and (2) of this section. All required text shall be legible and contrast with the background. Upper case letters of required text shall be no less than5/64 inch (2.0 mm) high and lower case letters shall be no less than1/16 inch (1.6 mm) high. Heading such as “Important Installation Instructions,” “Important Safety Instructions,” “Save These Instructions” and the words “Warning - To reduce the risk of severe injury or death to persons:” shall be in letters no less than3/16 inch (4.8 mm) high.
+(4) The instruction manual shall include the important instructions specified in paragraphs (b)(1) and (2) of this section. All required text shall be legible and contrast with the background. Upper case letters of required text shall be no less than5/64 inch (2.0 mm) high and lower case letters shall be no less than1/16 inch (1.6 mm) high. Heading such as “Important Installation Instructions,” “Important Safety Instructions,” “Save These Instructions” and the words “Warning—To reduce the risk of severe injury or death to persons:” shall be in letters no less than3/16 inch (4.8 mm) high.
 
 (5) The instructions listed in paragraphs (b)(1) and (2) of this section shall be in the exact words specified or shall be in equally definitive terminology to those specified. No substitutes shall be used for the word “Warning.” The items may be numbered. The first and last items specified in paragraph (b)(2) of this section shall be first and last respectively. Other important and precautionary items considered appropriate by the manufacturer may be inserted.
 
@@ -54,7 +54,7 @@
 
 Important Installation Instructions
 
-Warning - To reduce the risk of severe injury or death:
+Warning—To reduce the risk of severe injury or death:
 
 1. Read and follow all Installation Instructions.
 
@@ -78,7 +78,7 @@ Warning - To reduce the risk of severe injury or death:
 
 (ii) In accordance with § 1211.14(a)(2), the installation instructions in paragraph (b)(1) of this section for a residential garage door operator intended for use with both sectional and one-piece door that has an unattended operation close feature shall comply with paragraph (b)(1) of this section and include:
 
-“WARNING: To reduce the risk of injury to persons - Only enable [+] feature when installed with a sectional door,” where + is the unattended operation function.
+“WARNING: To reduce the risk of injury to persons—Only enable [+] feature when installed with a sectional door,” where + is the unattended operation function.
 
 (iii) Exception: For operators that automatically sense one piece door operation, the warning in paragraph (b)(1)(ii) of this section is not required.
 
@@ -90,7 +90,7 @@ Warning - To reduce the risk of severe injury or death:
 
 IMPORTANT SAFETY INSTRUCTIONS
 
-Warning - To reduce the risk of severe injury or death:
+Warning—To reduce the risk of severe injury or death:
 
 1. READ AND FOLLOW ALL INSTRUCTIONS.
 

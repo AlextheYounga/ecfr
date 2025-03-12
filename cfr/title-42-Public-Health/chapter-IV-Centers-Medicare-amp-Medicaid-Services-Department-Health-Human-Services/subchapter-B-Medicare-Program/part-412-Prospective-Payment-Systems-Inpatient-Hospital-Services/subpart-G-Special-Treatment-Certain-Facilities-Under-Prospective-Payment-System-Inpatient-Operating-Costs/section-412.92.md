@@ -1,7 +1,5 @@
 ##### § 412.92 Special treatment: Sole community hospitals. #####
 
-Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
-
 (a) *Criteria for classification as a sole community hospital.* CMS classifies a hospital as a sole community hospital if it is located more than 35 miles from other like hospitals, or it is located in a rural area (as defined in § 412.64) and meets one of the following conditions:
 
 (1) The hospital is located between 25 and 35 miles from other like hospitals and meets one of the following criteria:
@@ -124,7 +122,7 @@ Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
 
 (ii) Show that the decrease is due to circumstances beyond the hospital's control.
 
-(3) The intermediary determines a lump sum adjustment amount not to exceed the difference between the hospital's Medicare inpatient operating costs and the hospital's total DRG revenue for inpatient operating costs based on DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105).
+(3) Effective for cost reporting periods beginning before October 1, 2017, the intermediary determines a lump sum adjustment amount not to exceed the difference between the hospital's Medicare inpatient operating costs and the hospital's total DRG revenue for inpatient operating costs based on DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105). Effective for cost reporting periods beginning on or after October 1, 2017, the MAC determines a lump sum adjustment amount equal to the difference between the hospital's fixed Medicare inpatient operating costs and the hospital's total MS-DRG revenue based on MS-DRG-adjusted prospective payment rates for inpatient operating costs (including outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made for inpatient operating costs for hospitals that serve a disproportionate share of low-income patients as determined under § 412.106 and for indirect medical education costs as determined under § 412.105) multiplied by the ratio of the hospital's fixed inpatient operating costs to its total inpatient operating costs.
 
 (i) In determining the adjustment amount, the intermediary considers -
 

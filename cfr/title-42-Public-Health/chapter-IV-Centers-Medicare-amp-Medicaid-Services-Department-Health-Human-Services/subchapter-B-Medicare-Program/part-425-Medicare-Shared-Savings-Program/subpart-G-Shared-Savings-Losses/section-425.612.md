@@ -112,10 +112,12 @@
 
 (iii) CMS identifies a program integrity issue affecting the ACO's use of the waiver.
 
+(4) CMS reserves the right to take compliance action, including termination, against an ACO for noncompliance with program rules, including misuse of a waiver under this section, as specified at §§ 425.216 and 425.218.
+
 (e) *Other rules governing use of waivers.* (1) Waivers under this section do not protect financial or other arrangements between or among ACOs, ACO participants, ACO providers/suppliers, or other individual or entities providing services to Medicare beneficiaries from liability under the fraud and abuse laws or any other applicable laws.
 
 (2) Waivers under this section do not protect any person or entity from liability for any violation of law or regulation for any conduct other than the conduct permitted by a waiver under paragraph (a) of this section.
 
 (3) ACOs must ensure compliance with all claims submission requirements, except those expressly waived under paragraph (a) of this section.
 
-[80 FR 32843, June 9, 2015, as amended at 81 FR 80557, Nov. 15, 2016]
+[80 FR 32843, June 9, 2015, as amended at 81 FR 80561, Nov. 15, 2016]

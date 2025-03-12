@@ -4,6 +4,8 @@
 
 (2) The purpose of the ECHO is to provide an additional financial resource for an integrated set of services and supplies designed to assist in the reduction of the disabling effects of the ECHO-eligible dependent's qualifying condition. Services include those necessary to maintain, minimize or prevent deterioration of function of an ECHO-eligible dependent.
 
+(3) The Government's cost-share for ECHO or ECHO home health benefits during any program year is limited as stated in this section. In order to transition the program year from a fiscal year to a calendar year basis, the Government's annual cost-share limitation specified in paragraph (f) of this section shall be prorated for the last quarter of calendar year 2018 as authorized by 10 U.S.C. 1079(f)(2)(A).
+
 (b) *Eligibility.* (1) The following categories of TRICARE/CHAMPUS beneficiaries with a qualifying condition are ECHO-eligible dependents:
 
 (i) A spouse, child, or unmarried person (as described in § 199.3(b)(2)(i), (b)(2)(ii), or (b)(2)(iv)) of a member of the Uniformed Services on active duty for a period of more than 30 days.
@@ -78,7 +80,7 @@ When one or more electronic platforms such as a desktop computer, laptop, notebo
 
 (ii) For authorized ECHO respite care, TRICARE will reimburse the allowable charges or negotiated rates.
 
-(iii) The Government's cost-share incurred for these services accrues to the fiscal year benefit limit of $36,000.
+(iii) The Government's cost-share incurred for these services accrues to the program year benefit limit of $36,000.
 
 (8) *Other services.* (i) *Assistive services.* Services of qualified personal assistants, such as an interpreter or translator for ECHO beneficiaries who are deaf or mute and readers for ECHO beneficiaries who are blind, when such services are necessary in order for the ECHO beneficiary to receive authorized ECHO benefits.
 
@@ -188,15 +190,15 @@ Table 1 - Monthly Cost-Share by Member's Pay Grade
 
 (iv) The sponsor's cost-share shown in Table 1 in paragraph (f)(2)(i) of this section does not accrue to the Basic Program's Catastrophic Loss Protection under 10 U.S.C. 1079(b)(5) as shown at §§ 199.4(f)(10) and 199.18(f).
 
-(3) *Government cost-share liability* - (i) *ECHO.* The total Government share of the cost of all ECHO benefits, except ECHO Home Health Care (EHHC) and EHHC respite care, provided in a given fiscal year to a beneficiary, may not exceed $36,000 after application of the allowable payment methodology.
+(3) *Government cost-share liability* - (i) *ECHO.* The total Government share of the cost of all ECHO benefits, except ECHO Home Health Care (EHHC) and EHHC respite care, provided in a given program year to a beneficiary, may not exceed $36,000 after application of the allowable payment methodology.
 
-(ii) *ECHO home health care.* (A) The maximum annual fiscal year Government cost-share per EHHC-eligible beneficiary for ECHO home health care, including EHHC respite care may not exceed the local wage-adjusted highest Medicare Resource Utilization Group (RUG-III) category cost for care in a TRICARE-authorized skilled nursing facility.
+(ii) *ECHO home health care.* (A) The maximum annual program year Government cost-share per EHHC-eligible beneficiary for ECHO home health care, including EHHC respite care may not exceed the local wage-adjusted highest Medicare Resource Utilization Group (RUG-III) category cost for care in a TRICARE-authorized skilled nursing facility.
 
-(B) When a beneficiary moves to a different locality within the 50 United States, the District of Columbia, Puerto Rico, the Virgin Islands, or Guam, the annual fiscal year cap will be recalculated to reflect the maximum established under paragraph (f)(3)(ii)(A) of this section for the beneficiary's new location and will apply to the EHHC benefit for the remaining portion of that fiscal year.
+(B) When a beneficiary moves to a different locality within the 50 United States, the District of Columbia, Puerto Rico, the Virgin Islands, or Guam, the annual program year cap will be recalculated to reflect the maximum established under paragraph (f)(3)(ii)(A) of this section for the beneficiary's new location and will apply to the EHHC benefit for the remaining portion of that program year.
 
 (g) *Benefit payment* - (1) *Transportation.* The allowable amount for transportation of an ECHO beneficiary is limited to the actual cost of the standard published fare plus any standard surcharge made to accommodate any person with a similar disability or to the actual cost of specialized medical transportation when non-specialized transport cannot accommodate the beneficiary's qualifying condition related needs, or when specialized transport is more economical than non-specialized transport. When transport is by private vehicle, the allowable amount is limited to the Federal government employee mileage reimbursement rate in effect on the date the transportation is provided.
 
-(2) *Equipment.* (i) The TRICARE allowable amount for DE or AT devices shall be calculated in the same manner as DME allowable through section 199.4 of this title, and accrues to the fiscal year benefit limit specified in paragraph (f)(3) of this section.
+(2) *Equipment.* (i) The TRICARE allowable amount for DE or AT devices shall be calculated in the same manner as DME allowable through section 199.4 of this title, and accrues to the program year benefit limit specified in paragraph (f)(3) of this section.
 
 (ii) Cost-share. A cost-share, as provided by paragraph (f)(2) of this section, is required for each month in which equipment or an AT device is purchased under this section. However, in no month shall a sponsor be required to pay more than one cost-share regardless of the number of benefits the sponsor's dependents received under this section.
 
@@ -232,7 +234,7 @@ Table 1 - Monthly Cost-Share by Member's Pay Grade
 
 (iv) *Authorization waiver.* The Director, TRICARE Management Activity or designee may waive the requirement for a written authorization for rendered ECHO benefits that, except for the absence of the written authorization, would be allowable as an ECHO benefit.
 
-(v) *Public facility use.* (A) An ECHO beneficiary residing within a state must demonstrate that a public facility is not available and adequate to meet the needs of their qualifying condition. Such requirements shall apply to beneficiaries who request authorization for training, rehabilitation, special education, assistive technology, and institutional care in private nonprofit, public, and state institutions and facilities, and if appropriate for beneficiaries receiving institutional care, transportation to and from such institutions and facilities. The maximum Government cost-share for services that require demonstration of public facility non-availability or inadequacy is limited to $36,000 per fiscal year per beneficiary. State-administered plans for medical assistance under Title XIX of the Social Security Act (Medicaid) are not considered available and adequate facilities for the purpose of this section.
+(v) *Public facility use.* (A) An ECHO beneficiary residing within a state must demonstrate that a public facility is not available and adequate to meet the needs of their qualifying condition. Such requirements shall apply to beneficiaries who request authorization for training, rehabilitation, special education, assistive technology, and institutional care in private nonprofit, public, and state institutions and facilities, and if appropriate for beneficiaries receiving institutional care, transportation to and from such institutions and facilities. The maximum Government cost-share for services that require demonstration of public facility non-availability or inadequacy is limited to $36,000 per program year per beneficiary. State-administered plans for medical assistance under Title XIX of the Social Security Act (Medicaid) are not considered available and adequate facilities for the purpose of this section.
 
 (B) The domicile of the beneficiary shall be the basis for the determination of public facility availability when the sponsor and beneficiary are separately domiciled due to the sponsor's move to a new permanent duty station or due to legal custody requirements.
 
@@ -254,4 +256,4 @@ Table 1 - Monthly Cost-Share by Member's Pay Grade
 
 (j) *Effective date.* All changes to this section are effective as of October 14, 2008, and claims for ECHO benefits provided on or after that date will be reprocessed retroactively to that date as necessary.
 
-[69 FR 51564, Aug. 20, 2004, as amended at 71 FR 47092, Aug. 16, 2006; 72 FR 2447, Jan. 19, 2007; 75 FR 47711, Aug. 9, 2010; 79 FR 78713, Dec. 31, 2014; 81 FR 27329, May 6, 2016]
+[69 FR 51564, Aug. 20, 2004, as amended at 71 FR 47092, Aug. 16, 2006; 72 FR 2447, Jan. 19, 2007; 75 FR 47711, Aug. 9, 2010; 79 FR 78713, Dec. 31, 2014; 81 FR 27329, May 6, 2016; 82 FR 45447, Sept. 29, 2017]

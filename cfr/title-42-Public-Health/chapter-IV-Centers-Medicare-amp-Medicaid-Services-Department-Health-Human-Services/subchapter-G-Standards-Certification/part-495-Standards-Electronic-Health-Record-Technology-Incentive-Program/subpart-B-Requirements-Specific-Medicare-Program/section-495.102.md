@@ -1,7 +1,5 @@
 ##### § 495.102 Incentive payments to EPs. #####
 
-Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
-
 (a) *General rules.* (1) Subject to paragraph (b) of this section, in addition to the amount otherwise paid under section 1848 of the Act, there must be paid to a qualifying EP (or to an employer or entity in the cases described in section 1842(b)(6)(A) of the Act) for a payment year an amount equal to 75 percent of the estimated allowed charges for covered professional services furnished by the EP during the payment year.
 
 (2) For purposes of this paragraph (a) of this section, the estimated allowed charges for the qualifying EP's covered professional services during the payment year are determined based on claims submitted no later than 2 months after the end of the payment year, and, in the case of a qualifying EP who furnishes covered professional services in more than one practice, are determined based on claims submitted for the EP's covered professional services across all such practices.
@@ -60,6 +58,10 @@ Link to an amendment published at 82 FR 38518, Aug. 14, 2017.
 
 (v) For the 2018 payment adjustment only, an EP who has not successfully demonstrated meaningful use in a prior year, intends to attest to meaningful use for an EHR reporting period in 2017 by October 1, 2017 to avoid the 2018 payment adjustment, and intends to transition to the Merit-Based Incentive Payment System (MIPS) and report on measures specified for the advancing care information performance category under the MIPS in 2017. The EP must explain in the application why demonstrating meaningful use for an EHR reporting period in 2017 would result in a significant hardship. Applications requesting this exception must be submitted no later than October 1, 2017, or a later date specified by CMS.
 
-(5) *Payment adjustments not applicable to hospital-based EPs.* No payment adjustment under paragraphs (d)(1) through (3) of this section may be made in the case of a hospital-based eligible professional, as defined in § 495.4.
+(5) *Exception for decertified EHR technology.* The Secretary shall exempt an EP from the application of the payment adjustment for CY 2018 under paragraph (d)(1) of this section if the Secretary determines that compliance with the requirement for being a meaningful EHR user is not possible because the certified EHR technology used by the EP has been decertified under ONC's Health IT Certification Program. To be considered for an exception, an EP must submit, in the manner specified by CMS, an application demonstrating that the certified EHR technology was decertified during the 12-month period preceding the applicable EHR reporting period for the CY 2018 payment adjustment year, or during the applicable EHR reporting period for the CY 2018 payment adjustment year, and that the EP made a good faith effort to obtain another certified EHR technology for that EHR reporting period. Applications requesting this exception must be submitted no later than October 1, 2017, or a later date specified by CMS.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54157, Sept. 4, 2012; 77 FR 54157, Sept. 4, 2012; 79 FR 68009, Nov. 13, 2014; 81 FR 77557, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016]
+(6) *Payment adjustments not applicable to hospital-based EPs.* No payment adjustment under paragraphs (d)(1) through (3) of this section may be made in the case of a hospital-based eligible professional, as defined in § 495.4.
+
+(7) *Payment adjustments not applicable to ambulatory surgical center-based EPs.* For the CY 2017 and CY 2018 payment adjustment years, no payment adjustment under paragraphs (d)(1) through (3) of this section may be made in the case of an ambulatory surgical center-based eligible professional, as defined in § 495.4.
+
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54157, Sept. 4, 2012; 77 FR 54157, Sept. 4, 2012; 79 FR 68009, Nov. 13, 2014; 81 FR 77557, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 38518, Aug. 14, 2017]

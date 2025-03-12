@@ -1,7 +1,5 @@
 ##### § 412.90 General rules. #####
 
-Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
-
 (a) *Sole community hospitals.* CMS may adjust the prospective payment rates for inpatient operating costs determined under subpart D or E of this part if a hospital, by reason of factors such as isolated location, weather conditions, travel conditions, or absence of other hosptials, is the sole source of inpatient hospital services reasonably available in a geographic area to Medicare beneficiaries. If a hospital meets the criteria for such an exception under § 412.92(a), its prospective payment rates for inpatient operating costs are determined under § 412.92(d).
 
 (b) *Referral center.* CMS may adjust the prospective payment rates for inpatient operating costs determined under subpart D or E of this part if a hospital acts as a referral center for patients transferred from other hospitals. Criteria for identifying such referral centers are set forth in § 412.96.
@@ -22,8 +20,8 @@ Link to an amendment published at 82 FR 38511, Aug. 14, 2017.
 
 (i) *Hospitals that receive an additional update for FYs 1998 and 1999.* For FYs 1998 and 1999, CMS makes an upward adjustment to the standardized amounts for certain hospitals that do not receive indirect medical education or disproportionate share payments and are not Medicare- dependent, small rural hospitals. The criteria for identifying these hospitals are set forth in § 412.107.
 
-(j) *Medicare-dependent, small rural hospitals.* For cost reporting periods beginning on or after April 1, 1990, and before October 1, 1994, and for discharges occurring on or after October 1, 1997, and before October 1, 2011, CMS adjusts the prospective payment rates for inpatient operating costs determined under subparts D and E of this part if a hospital is classified as a Medicare-dependent, small rural hospital.
+(j) *Medicare-dependent, small rural hospitals.* For cost reporting periods beginning on or after April 1, 1990, and before October 1, 1994, and for discharges occurring on or after October 1, 1997 and before October 1, 2017, CMS adjusts the prospective payment rates for inpatient operating costs determined under subparts D and E of this part if a hospital is classified as a Medicare-dependent, small rural hospital.
 
 (k) *Essential access community hospitals (EACHs).* If a hospital was designated as an EACH by CMS as described in § 412.109(a) and is located in a rural area as defined in § 412.109(b), CMS determines the prospective payment rate for that hospital, as it does for sole community hospitals, under § 412.92(d).
 
-[57 FR 39823, Sept. 1, 1992, as amended at 58 FR 30669, May 26, 1993; 62 FR 46028, Aug. 29, 1997; 64 FR 67051, Nov. 30, 1999; 65 FR 47047, Aug. 1, 2000; 70 FR 47485, Aug. 12, 2005; 71 FR 48138, Aug. 18, 2006]
+[57 FR 39823, Sept. 1, 1992, as amended at 58 FR 30669, May 26, 1993; 62 FR 46028, Aug. 29, 1997; 64 FR 67051, Nov. 30, 1999; 65 FR 47047, Aug. 1, 2000; 70 FR 47485, Aug. 12, 2005; 71 FR 48138, Aug. 18, 2006; 82 FR 38511, Aug. 14, 2017]

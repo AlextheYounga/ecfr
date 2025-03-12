@@ -1,6 +1,6 @@
 ##### § 423.2124 Oral argument. #####
 
-An enrollee may request to appear before the MAC to present oral argument.
+An enrollee may request to appear before the Council to present oral argument.
 
 (a) The Council grants a request for oral argument if it decides that the case raises an important question of law, policy, or fact that cannot be readily decided based on written submissions alone.
 

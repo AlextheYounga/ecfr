@@ -1,10 +1,10 @@
 ##### § 199.20 Continued Health Care Benefit Program (CHCBP). #####
 
-(a) *Purpose.* The CHCBP is a premium-based temporary health care coverage program that will be available to beneficiaries who meet the eligibility and enrollment criteria as set forth in paragraph (d)(1) of this section. The CHCBP is not part of the TRICARE program. However, as set forth in this section, it functions under similar rules and procedures of the TRICARE Standard program. Because the purpose of the CHCBP is to provide a continuation health care benefit for the Department of Defense and the other uniformed services (National Oceanic and Atmospheric Administration (NOAA), Public Health Service (PHS), and Coast Guard) beneficiaries losing eligibility, it will be administered so that it appears, to the maximum extent possible, to be part of the TRICARE Standard program. Medical coverage under this program will be the same as the benefits payable under the TRICARE Standard program. However, unlike the Standard program there is a cost for enrollment to the CHCBP and these premium costs are payable by enrollees before any care may be provided.
+(a) *Purpose.* The CHCBP is a premium-based temporary health care coverage program, authorized by 10 U.S.C. 1078a, and available to individuals who meet the eligibility and enrollment criteria as set forth in paragraph (d)(1) of this section. The CHCBP is not part of the TRICARE program. However, as set forth in this section, it functions under similar rules and procedures to the TRICARE Select program. Because the purpose of the CHCBP is to provide a continuation health care benefit for Department of Defense and the other uniformed services beneficiaries losing eligibility, it will be administered so that it appears, to the maximum extent practicable, to be part of the TRICARE Select program. Medical coverage under this program will be the same as the benefits payable under the TRICARE Select program. There is a cost for enrollment to the CHCBP and these premium costs must be paid by CHCBP enrollees before any care may be cost shared.
 
 (b) *General provisions.* Except for any provisions the Director of the TRICARE Management Activity may exclude, the general provisions of § 199.1 shall apply to the CHCBP as they do to TRICARE.
 
-(c) *Definitions.* Except as may be specifically provided in this section, to the extent terms defined in § 199.2 are relevant to the administration of the CHCBP, the definitions contained in that section shall apply to the CHCBP as they do to the TRICARE Standard program.
+(c) *Definitions.* Except as may be specifically provided in this section, to the extent terms defined in § 199.2 are relevant to the administration of the CHCBP, the definitions contained in that section shall apply to the CHCBP as they do to the TRICARE Select program.
 
 (d) *Eligibility and enrollment.* (1) *Eligibility,* Enrollment in the CHCBP is open to any individual, except as noted in this section, who:
 
@@ -76,11 +76,11 @@
 
 (C) In the case of an unremarried surviving spouse (widow or widower) (under 10 U.S.C. 1072(2)(B) or (C)) of a member or former member of the uniformed services who is not otherwise eligible for care under 10 U.S.C. chapter 55, the date which is 36 months after the date the surviving spouse becomes ineligible under 10 U.S.C chapter 55 or 10 U.S.C. 1145(a).
 
-(D) In the case of a former spouse of a retiree whose marriage was dissolved after the member retired from the service, the period of coverage under the CHCBP is unlimited, if the former spouse:
+(D) In the case of a former spouse of a member or former member (other than the former spouse whose marriage was dissolved after the separation of the member from the service unless such separation was by retirement), the period of coverage under the CHCBP is unlimited, if former spouse:
 
-(*1*) Has not remarried before the age of 55 after the marriage to the former member was dissolved; and
+(*1*) Has not remarried before age of 55 after the marriage to the member or former member was dissolved; and
 
-(*2*) Was enrolled in the CHCBP or TRICARE as the dependent of a retiree during the 18-month period before the date of the divorce, dissolution, or annulment; and
+(*2*) Was eligible for TRICARE as a dependent or enrolled in CHCBP at any time during the 18 month period before the date of the divorce, dissolution, or annulment; and
 
 (*3*) Is receiving a portion of the retired or retainer pay of a member or former member or an annuity based on the retainer pay of the member; or
 
@@ -88,7 +88,7 @@
 
 (E) For the beneficiary who becomes eligible for the CHCBP by ceasing to meet the requirements for being considered an unmarried dependent child of a member or former member, health care coverage may not extend beyond the date which is 36 months after the date the member becomes ineligible for medical and dental care under 10 U.S.C. 1074(a) and any transitional health care under 10 U.S.C. 1145(a).
 
-(e) *CHCBP benefits* - (1) *In general.* Except as provided in paragraph (e)(2) of this section, the provisions of § 199.4 shall apply to the CHCBP as they do to TRICARE.
+(e) *CHCBP benefits*—(1) *In general.* Except as provided in paragraph (e)(2) of this section, the provisions of § 199.4 shall apply to the CHCBP as they do to TRICARE Select under § 199.17.
 
 (2) *Exceptions.* The following provisions of § 199.4 are not applicable to the CHCBP:
 
@@ -96,29 +96,29 @@
 
 (ii) All provisions regarding requirements to use facilities of the uniformed services because CHCBP enrollees are not eligible to use those facilities.
 
-(3) *Beneficiary liability.* For purposes of TRICARE deductible and cost-sharing requirements and catastrophic cap limits, amounts applicable to the category of beneficiaries to which the CHCBP enrollee last belonged shall continue to apply, except that for separating active duty members, amounts applicable to dependents of active duty members shall apply.
+(3) *Beneficiary liability.* For purposes of CHCBP coverage, the beneficiary deductible, catastrophic cap and cost share provisions of the TRICARE Select plan applicable to Group B beneficiaries under § 199.17(l)(2)(ii) shall apply based on the category of beneficiary (*e.g.,* Active Duty Family Member or Retiree Family) to which the CHCBP enrollee last belonged, except that for separating active duty members, amounts applicable to TRICARE Select Active Duty Family Members shall apply. The premium under paragraph (q) of this section applies instead of any TRICARE Select plan enrollment fee under § 199.17.
 
-(f) *Authorized providers.* The provisions of § 199.6 shall apply to the CHCBP as they do to TRICARE Standard.
+(f) *Authorized providers.* The provisions of § 199.6 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(g) *Claims submission, review, and payment.* The provisions of § 199.7 shall apply to the CHCBP as they do to TRICARE Standard except no provisions regarding nonavailability statements shall apply.
+(g) *Claims submission, review, and payment.* The provisions of § 199.7 shall apply to the CHCBP as they do to TRICARE Select program except no provisions regarding nonavailability statements shall apply.
 
-(h) *Double coverage.* The provisions of § 199.8 shall apply to the CHCBP as they do to TRICARE Standard.
+(h) *Double coverage.* The provisions of § 199.8 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(i) *Administrative remedies for fraud, abuse, and conflict of interest.* The provisions of § 199.9 shall apply to the CHCBP as they do to TRICARE Standard.
+(i) *Administrative remedies for fraud, abuse, and conflict of interest.* The provisions of § 199.9 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(j) *Appeal and hearing procedures.* The provisions of § 199.10 shall apply to the CHCBP as they do to TRICARE Standard.
+(j) *Appeal and hearing procedures.* The provisions of § 199.10 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(k) *Overpayments recovery.* The provisions of § 199.11 shall apply to the CHCBP as they do to TRICARE Standard.
+(k) *Overpayments recovery.* The provisions of § 199.11 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(l) *Third party recoveries.* The provisions of § 199.12 shall apply to the CHCBP as they do to TRICARE Standard.
+(l) *Third party recoveries.* The provisions of § 199.12 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(m) *Provider reimbursement methods.* The provisions of § 199.14 shall apply to the CHCBP as they do to TRICARE Standard.
+(m) *Provider reimbursement methods.* The provisions of § 199.14 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(n) *Quality and Utilization Review Peer Review Organization Program.* The provisions of § 199.15 shall apply to the CHCBP as they do to TRICARE Standard.
+(n) *Quality and Utilization Review Peer Review Organization Program.* The provisions of § 199.15 shall apply to the CHCBP as they do to TRICARE Select program.
 
-(o) *Preferred provider organization programs available.* Any preferred provider organization program under this part that provides for reduced cost sharing for using designated providers, such as the “TRICARE Extra” option under § 199.17, shall be available to participants in the CHCBP as it is to TRICARE Standard beneficiaries.
+(o) [Reserved]
 
-(p) *Special programs not applicable* - (1) *In general.* Special programs established under this Part that are not part of the TRICARE Standard program established pursuant to 10 U.S.C. 1079 and 1086 are not, unless specifically provided in this section, available to participants in the CHCBP.
+(p) *Special programs not applicable*—(1) *In general.* Special programs established under this part that are not part of the TRICARE Select program are not, unless specifically provided in this section, available to participants in the CHCBP.
 
 (2) *Examples.* The special programs referred to in paragraph (p)(1) of this section include but are not limited to:
 
@@ -126,16 +126,14 @@
 
 (ii) The TRICARE Dental Program or Retiree Dental Program under § 199.13 and 199.22 respectively;
 
-(iii) The Supplemental Health Care Program under § 199.16;
+(iii) The Supplemental Health Care Program under § 199.16; and
 
-(iv) The TRICARE Program under § 199.17, except for TRICARE Standard and Extra programs under that section; and
+(iv) The TRICARE Prime Program under § 199.17.
 
-(v) The Uniform HMO benefit under § 199.18.
-
-(q) *Premiums* - (1) *Rates.* Premium rates will be established by the Assistant Secretary of Defense (Health Affairs) for two rate groups - individual and family. Eligible beneficiaries will select the level of coverage they require at the time of initial enrollment (either individual or family) and pay the appropriate premium payment. The rates are based on Federal Employees Health Benefits Program employee and agency contributions required for a comparable health benefits plan, plus an administrative fee. The administrative fee, not to exceed ten percent of the basic premium amount, shall be determined based on actual expected administrative costs for administration of the program. Premiums may be revised annually and shall be published when the premium amount is changed. Premiums will be paid by enrollees quarterly.
+(q) *Premiums*—(1) *Rates.* Premium rates will be established by the Assistant Secretary of Defense (Health Affairs) for two rate groups—individual and family. Eligible beneficiaries will select the level of coverage they require at the time of initial enrollment (either individual or family) and pay the appropriate premium payment. The rates are based on Federal Employees Health Benefits Program employee and agency contributions required for a comparable health benefits plan, plus an administrative fee. The administrative fee, not to exceed ten percent of the basic premium amount, shall be determined based on actual expected administrative costs for administration of the program. Premiums may be revised annually and shall be published when the premium amount is changed. Premiums will be paid by enrollees quarterly.
 
 (2) *Effects of failure to make premium payments.* Failure by enrollees to submit timely and proper premium payments will result in denial of continued enrollment and denial of payment of medical claims. Premium payments that are late thirty (30) days or more past the start of the quarter for which payment is due will result in the termination of beneficiary enrollment. Beneficiaries denied continued enrollment due to lack of premium payments will not be allowed to reenroll. In such a case, benefit coverage will cease at the end of the ninety (90) day period for which a premium payment was received. Enrollees will be held liable for medical costs incurred after losing eligibility.
 
 (r) *Procedures.* The Director, TRICARE Management Activity, may establish other rules and procedures for the administration of the CHCBP.
 
-[76 FR 57639, Sept. 16, 2011]
+[76 FR 57639, Sept. 16, 2011, as amended at 82 FR 45457, Sept. 29, 2017]

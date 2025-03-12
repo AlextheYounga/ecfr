@@ -1,7 +1,5 @@
 ##### § 412.230 Criteria for an individual hospital seeking redesignation to another rural area or an urban area. #####
 
-Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
-
 (a) *General* - (1) *Purposes.* Except as specified in paragraph (a)(5) -
 
 (i) For fiscal years prior to fiscal year 2005, an individual hospital may be redesignated from a rural area to an urban area, from a rural area to another rural area, or from an urban area to another urban area for the purposes of using the other area's standardized amount for inpatient operating costs, the wage index value, or both.
@@ -10,11 +8,11 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (2) *Proximity.* Except as provided in paragraph (a)(3) of this section, to be redesignated to another rural area or an urban area, a hospital must demonstrate a close proximity to the area to which it seeks redesignation by meeting the criteria in paragraph (b) of this section, and submitting data requested under paragraph (c) of this section.
 
-(3) *Special rules for sole community hospitals and rural referral centers.* To be redesignated under the special rules in this paragraph, a hospital must be a sole community hospital or a rural referral center as of the date of the MGCRB's review.
+(3) *Special rules for sole community hospitals and rural referral centers.* To be redesignated under the special rules in this paragraph, a hospital must be approved as a sole community hospital or a rural referral center as of the date of the MGCRB's review.
 
-(i) A hospital that is a rural referral center, a sole community hospital, or both does not have to demonstrate a close proximity to the area to which it seeks redesignation.
+(i) A hospital that is approved as a rural referral center or a sole community hospital, or both, does not have to demonstrate a close proximity to the area to which it seeks redesignation.
 
-(ii) If a hospital that is a rural referral center, a sole community hospital, or both qualifies for urban redesignation, it is redesignated to the urban area that is closest to the hospital. If the hospital is closer to another rural area than to any urban area, it may seek redesignation to either the closest rural or the closest urban area.
+(ii) If a hospital that is approved as a rural referral center or a sole community hospital, or both, qualifies for urban redesignation, it is redesignated to the urban area that is closest to the hospital or to the hospital's geographic home area. If the hospital is closer to another rural area than to any urban area, it may seek redesignation to either the closest rural area or the closest urban area.
 
 (iii) If a sole community hospital or rural referral center loses its special status as a result of redesignation, the hospital is considered to retain its special status for the purpose of applicability of the special rules in paragraph (a)(3) of this section.
 
@@ -88,9 +86,9 @@ Link to an amendment published at 82 FR 38512, Aug. 14, 2017.
 
 (v) For applications submitted for reclassification effective in FY 2009 and thereafter, a campus of a multicampus hospital that is located in a geographic area different from the area associated with the provider number of the entire multicampus hospital may seek reclassification to another CBSA using the composite wage data of the entire multicampus hospital as its hospital-specific data.
 
-(3) *Rural referral center exceptions.* (i) If a hospital was ever a rural referral center, it does not have to demonstrate that it meets the average hourly wage criterion set forth in paragraph (d)(1)(iii) of this section.
+(3) *Rural referral center exceptions.* (i) If a hospital was ever approved as a rural referral center, it does not have to demonstrate that it meets the average hourly wage criterion set forth in paragraph (d)(1)(iii) of this section.
 
-(ii) If a hospital was ever a rural referral center, it is required to meet only the criterion that applies to rural hospitals under paragraph (d)(1)(iv) of this section, regardless of its actual location in an urban or rural area.
+(ii) If a hospital was ever approved as a rural referral center, it is required to meet only the criterion that applies to rural hospitals under paragraph (d)(1)(iv) of this section, regardless of its actual location in an urban or rural area.
 
 (4) *Special dominating hospital exception.* The requirements of paragraph (d)(1)(i) and (d)(1)(iii) of this section do not apply if a hospital meets the following criteria:
 

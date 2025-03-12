@@ -1,8 +1,6 @@
-##### § 495.24 Stage 3 meaningful use objectives and measures for EPs, eligible hospitals and CAHs for 2018 and subsequent years. #####
+##### § 495.24 Stage 3 meaningful use objectives and measures for EPs, eligible hospitals and CAHs for 2019 and subsequent years. #####
 
-Link to an amendment published at 82 FR 38517, Aug. 14, 2017.
-
-The criteria specified in paragraphs (c) and (d) of this section are optional for 2017 for EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year. The criteria specified in paragraph (c) of this section are applicable for eligible hospitals and CAHs attesting to CMS for 2018. The criteria specified in paragraph (d) of this section are applicable for all EPs for 2018 and subsequent years, and for eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program for 2018.
+The criteria specified in paragraphs (c) and (d) of this section are optional for 2017 and 2018 for EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year. The criteria specified in paragraph (c) of this section are applicable for eligible hospitals and CAHs attesting to CMS for 2019. The criteria specified in paragraph (d) of this section are applicable for all EPs for 2019 and subsequent years, and for eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program for 2019.
 
 (a) *Stage 3 criteria for EPs* - (1) *General rule regarding Stage 3 criteria for meaningful use for EPs.* Except as specified in paragraphs (a)(2) and (3) of this section, EPs must meet all objectives and associated measures of the Stage 3 criteria specified in paragraph (d) of this section to meet the definition of a meaningful EHR user.
 
@@ -68,7 +66,7 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (ii) If the objective and associated measure does not reference this paragraph (b)(5) of this section, the measure must be calculated by reviewing all patient records, not just those maintained using CEHRT.
 
-(c) *Stage 3 objectives and measures for eligible hospitals and CAHs attesting to CMS for 2018* - (1) *Protect patient health information* - (i) *Objective.* Protect electronic protected health information (ePHI) created or maintained by the CEHRT through the implementation of appropriate technical, administrative, and physical safeguards.
+(c) *Stage 3 objectives and measures for eligible hospitals and CAHs attesting to CMS for 2019* - (1) *Protect patient health information* - (i) *Objective.* Protect electronic protected health information (ePHI) created or maintained by the CEHRT through the implementation of appropriate technical, administrative, and physical safeguards.
 
 (ii) *Security risk analysis measure.* Conduct or review a security risk analysis in accordance with the requirements under 45 CFR 164.308(a)(1), including addressing the security (including encryption) of data created or maintained by CEHRT in accordance with requirements under 45 CFR 164.312(a)(2)(iv) and 45 CFR 164.306(d)(3), implement security updates as necessary, and correct identified security deficiencies as part of the provider's risk management process.
 
@@ -200,7 +198,7 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*3*) Operates in a jurisdiction where no public health agency has declared readiness to receive electronic reportable laboratory results from an eligible hospital or CAH as of 6 months prior to the start of the EHR reporting period.
 
-(d) *Stage 3 objectives and measures for all EPs for 2018 and subsequent years, and for eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program for 2018* - (1) *Protect patient health information* - (i) *EP protect patient health information* - (A) *Objective.* Protect electronic protected health information (ePHI) created or maintained by the CEHRT through the implementation of appropriate technical, administrative, and physical safeguards.
+(d) *Stage 3 objectives and measures for all EPs for 2019 and subsequent years, and for eligible hospitals and CAHs attesting to a State for the Medicaid EHR Incentive Program for 2019* - (1) *Protect patient health information* - (i) *EP protect patient health information* - (A) *Objective.* Protect electronic protected health information (ePHI) created or maintained by the CEHRT through the implementation of appropriate technical, administrative, and physical safeguards.
 
 (B) *Measure.* Conduct or review a security risk analysis in accordance with the requirements under 45 CFR 164.308(a)(1), including addressing the security (including encryption) of data created or maintained by CEHRT in accordance with requirements under 45 CFR 164.312(a)(2)(iv) and 45 CFR 164.306(d)(3), implement security updates as necessary, and correct identified security deficiencies as part of the provider's risk management process.
 
@@ -304,13 +302,13 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*iii*) A combination of paragraphs (d)(6)(i)(B)(*1*)(*i*) and (*ii*) of this section.
 
-(*iv*) For an EHR reporting period in 2017 only, an EP may meet a threshold of 5 percent instead of 10 percent for the measure at paragraph (d)(6)(i)(B)(*1*) of this section.
+(*iv*) For an EHR reporting period in 2017 and 2018, an EP may meet a threshold of 5 percent instead of 10 percent for the measure at paragraph (d)(6)(i)(B)(*1*) of this section.
 
 (*2*) During the EHR reporting period -
 
-(*i*) For an EHR reporting period in 2017 only, for more than 5 percent of all unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient; or
+(*i*) For an EHR reporting period in 2017 and 2018, for more than 5 percent of all unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient; or
 
-(*ii*) For an EHR reporting period other than 2017, for more than 25 percent of all unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient.
+(*ii*) For an EHR reporting period other than 2017 and 2018, for more than 25 percent of all unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient.
 
 (*3*) Patient generated health data or data from a nonclinical setting is incorporated into the CEHRT for more than 5 percent of all unique patients seen by the EP during the EHR reporting period.
 
@@ -330,13 +328,13 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*iii*) A combination of paragraphs (d)(6)(ii)(B)(*1*)(*i*) and (*ii*) of this section.
 
-(*iv*) For an EHR reporting period in 2017, an eligible hospital or CAH may meet a threshold of 5 percent instead of 10 percent for the measure at paragraph (d)(6)(ii)(B)(*1*) of this section.
+(*iv*) For an EHR reporting period in 2017 and 2018, an eligible hospital or CAH may meet a threshold of 5 percent instead of 10 percent for the measure at paragraph (d)(6)(ii)(B)(*1*) of this section.
 
 (*2*) During the EHR reporting period -
 
-(*i*) For an EHR reporting period in 2017 only, for more than 5 percent of all unique patients discharged from the eligible hospital or CAH inpatient or emergency department (POS 21 or 23) during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient (or their authorized representatives).
+(*i*) For an EHR reporting period in 2017 and 2018, for more than 5 percent of all unique patients discharged from the eligible hospital or CAH inpatient or emergency department (POS 21 or 23) during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient (or their authorized representatives).
 
-(*ii*) For an EHR reporting period other than 2017, for more than 25 percent of all unique patients discharged from the eligible hospital or CAH inpatient or emergency department (POS 21 or 23) during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient (or their authorized representatives).
+(*ii*) For an EHR reporting period other than 2017 and 2018, for more than 25 percent of all unique patients discharged from the eligible hospital or CAH inpatient or emergency department (POS 21 or 23) during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient (or their authorized representatives).
 
 (*3*) Patient generated health data or data from a non-clinical setting is incorporated into the CEHRT for more than 5 percent of unique patients discharged from the eligible hospital or CAH inpatient or emergency department (POS 21 or 23) during the EHR reporting period.
 
@@ -512,4 +510,4 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*iii*) Operates in a jurisdiction where no public health agency has declared readiness to receive electronic reportable laboratory results from an eligible hospital or CAH as of 6 months prior to the start of the EHR reporting period.
 
-[81 FR 79884, Nov. 14, 2016]
+[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017]

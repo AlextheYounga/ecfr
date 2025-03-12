@@ -1,0 +1,7 @@
+##### § 413.60 Payments to providers: General. #####
+
+(a) The fiscal contractors will establish a basis for interim payments to each provider. This may be done by one of several methods. If an contractor is already paying the provider on a cost basis, the contractor may adjust its rate of payment to an estimate of the result under the Medicare principles of reimbursement. If no organization is paying the provider on a cost basis, the contractor may obtain the previous year's financial statement from the provider and, by applying the principles of reimbursement, compute or approximate an appropriate rate of payment. The interim payment may be related to the last year's average per diem, or to charges, or to any other ready basis of approximating costs.
+
+(b) At the end of the period, the actual apportionment, based on the cost finding and apportionment methods selected by the provider, determines the Medicare reimbursement for the actual services provided to beneficiaries during the period.
+
+(c) Basically, therefore, interim payments to providers will be made for services throughout the year, with final settlement on a retroactive basis at the end of the accounting period. Interim payments will be made as often as possible and in no event less frequently than once a month. The retroactive payments will take fully into account the costs that were actually incurred and settle on an actual, rather than on an estimated basis.

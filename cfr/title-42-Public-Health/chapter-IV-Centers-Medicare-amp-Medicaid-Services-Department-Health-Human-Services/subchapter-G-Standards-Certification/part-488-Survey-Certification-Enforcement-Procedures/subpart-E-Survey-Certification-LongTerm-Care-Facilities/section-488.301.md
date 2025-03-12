@@ -1,10 +1,8 @@
 ##### § 488.301 Definitions. #####
 
-Link to an amendment published at 82 FR 36635, Aug. 4, 2017.
+As used in this subpart—
 
-As used in this subpart -
-
-*Abbreviated standard survey* means a survey other than a standard survey that gathers information primarily through resident-centered techniques on facility compliance with the requirements for participation. An abbreviated standard survey may be premised on complaints received; a change of ownership, management, or director of nursing; or other indicators of specific concern.
+*Abbreviated standard survey* means a survey other than a standard survey that gathers information primarily through resident-centered techniques on facility compliance with the requirements for participation. An abbreviated standard survey may be premised on complaints received; a change of ownership, management, or director of nursing; or other indicators of specific concern. Abbreviated standard surveys conducted to investigate a complaint or to conduct on-site monitoring to verify compliance with participation requirements are subject to the requirements of § 488.332. Other premises for abbreviated standard surveys would follow the requirements of § 488.314.
 
 *Abuse* is the willful infliction of injury, unreasonable confinement, intimidation, or punishment with resulting physical harm, pain or mental anguish. Abuse also includes the deprivation by an individual, including a caretaker, of goods or services that are necessary to attain or maintain physical, mental, and psychosocial well-being. Instances of abuse of all residents, irrespective of any mental or physical condition, cause physical harm, pain or mental anguish. It includes verbal abuse, sexual abuse, physical abuse, and mental abuse including abuse facilitated or enabled through the use of technology. *Willful,* as used in this definition of abuse, means the individual must have acted deliberately, not that the individual must have intended to inflict injury or harm.
 
@@ -44,4 +42,4 @@ As used in this subpart -
 
 *Validation survey* means a survey conducted by the Secretary within 2 months following a standard survey, abbreviated standard survey, partial extended survey, or extended survey for the purpose of monitoring State survey agency performance.
 
-[59 FR 56238, Nov. 10, 1994, as amended at 68 FR 55539, Sept. 26, 2003; 81 FR 68871, Oct. 4, 2016]
+[59 FR 56238, Nov. 10, 1994, as amended at 68 FR 55539, Sept. 26, 2003; 81 FR 68871, Oct. 4, 2016; 82 FR 36635, Aug. 4, 2017]

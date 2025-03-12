@@ -34,6 +34,4 @@ Additional bridge openings shall be provided for commercial vessels from 6 a.m. 
 
 (j) The draw of the New York Susquehanna and Western Railroad bridge, mile 16.3, and the Midtown bridge, mile 16.5, both at Hackensack, need not be opened for the passage of vessels, however, the draws shall be restored to operable condition within 12 months after notification by the District Commander to do so.
 
-(k) The draw of the Route 1 & 9 (Lincoln Highway) Bridge, mile 2.0, between Kearny and Jersey City, shall open on signal; except that, the draw need not open for the passage of vessel traffic between 6 a.m. and 10 a.m. and between 2 p.m. and 6 p.m., Monday through Friday, except holidays. Tide dependent deep draft vessels may request bridge openings between 6 a.m. and 10 a.m. and between 2 p.m. and 6 p.m. provided at least a twelve hour advance notice is given by calling the number posted at the bridge.
-
-[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016]Effective Date Note:By USCG-2016-0173, 81 FR 62367, Sept. 9, 2016, § 117.723 was amended by adding paragraph (k), effective Oct. 11, 2016, to midnight on Sept. 30, 2017.
+[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016]

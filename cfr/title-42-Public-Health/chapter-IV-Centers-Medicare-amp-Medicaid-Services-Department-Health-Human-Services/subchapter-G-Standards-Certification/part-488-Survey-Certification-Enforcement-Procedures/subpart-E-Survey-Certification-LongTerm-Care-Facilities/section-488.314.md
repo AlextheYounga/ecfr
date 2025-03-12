@@ -1,8 +1,6 @@
 ##### § 488.314 Survey teams. #####
 
-Link to an amendment published at 82 FR 36636, Aug. 4, 2017.
-
-(a) *Team composition.* (1) Surveys must be conducted by an interdisciplinary team of professionals, which must include a registered nurse.
+(a) *Team composition.* (1) Surveys under sections 1819(g)(2) and 1919(g)(2) of the Social Security Act must be conducted by an interdisciplinary team of professionals, which must include a registered nurse.
 
 (2) Examples of professionals include, but are not limited to, physicians, physician assistants, nurse practitioners, physical, speech, or occupational therapists, registered professional nurses, dieticians, sanitarians, engineers, licensed practical nurses, or social workers.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 82 FR 36636, Aug. 4, 2017.
 
 (3) The survey agency may permit an individual who has not completed a training program to participate in a survey as a trainee if accompanied on-site by a surveyor who has successfully completed the required training and testing program.
 
-[59 FR 56238, Nov. 10, 1994; 60 FR 50118, Sept. 28, 1995]
+[59 FR 56238, Nov. 10, 1994; 60 FR 50118, Sept. 28, 1995 as amended at 82 FR 36636, Aug. 4, 2017]

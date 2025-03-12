@@ -34,18 +34,18 @@
 
 (b) *Minimum savings rate (MSR).* CMS uses a sliding scale, based on the number of beneficiaries assigned to the ACO under subpart E of this part, to establish the MSR for an ACO participating under the one-sided model. The MSR under the one-sided model for an ACO based on the number of assigned beneficiaries is as follows:
 
-|Number of beneficiaries|MSR (low end of assigned beneficiaries) (percent)|MSR  <br/>(high end  <br/>of assigned beneficiaries)  <br/>(percent)|
-|-----------------------|-------------------------------------------------|--------------------------------------------------------------------|
-|      5,000-5,999      |                       3.9                       |                                3.6                                 |
-|      6,000-6,999      |                       3.6                       |                                3.4                                 |
-|      7,000-7,999      |                       3.4                       |                                3.2                                 |
-|      8,000-8,999      |                       3.2                       |                                3.1                                 |
-|      9,000-9,999      |                       3.1                       |                                3.0                                 |
-|     10,000-14,999     |                       3.0                       |                                2.7                                 |
-|     15,000-19,999     |                       2.7                       |                                2.5                                 |
-|     20,000-49,999     |                       2.5                       |                                2.2                                 |
-|     50,000-59,999     |                       2.2                       |                                2.0                                 |
-|       60,000 +        |                       2.0                       |                                                                    |
+|Number of  <br/>beneficiaries|MSR (low end of assigned beneficiaries) (percent)|MSR  <br/>(high end  <br/>of assigned beneficiaries)  <br/>(percent)|
+|-----------------------------|-------------------------------------------------|--------------------------------------------------------------------|
+|         5,000-5,999         |                       3.9                       |                                3.6                                 |
+|         6,000-6,999         |                       3.6                       |                                3.4                                 |
+|         7,000-7,999         |                       3.4                       |                                3.2                                 |
+|         8,000-8,999         |                       3.2                       |                                3.1                                 |
+|         9,000-9,999         |                       3.1                       |                                3.0                                 |
+|        10,000-14,999        |                       3.0                       |                                2.7                                 |
+|        15,000-19,999        |                       2.7                       |                                2.5                                 |
+|        20,000-49,999        |                       2.5                       |                                2.2                                 |
+|        50,000-59,999        |                       2.2                       |                                2.0                                 |
+|          60,000 +           |                       2.0                       |                                                                    |
 
 (c) *Qualification for shared savings payment.* In order to qualify for shared savings, an ACO must meet or exceed its minimum savings rate determined under paragraph (b) of this section, meet the minimum quality performance standards established under § 425.502, and otherwise maintain its eligibility to participate in the Shared Savings Program under this part.
 

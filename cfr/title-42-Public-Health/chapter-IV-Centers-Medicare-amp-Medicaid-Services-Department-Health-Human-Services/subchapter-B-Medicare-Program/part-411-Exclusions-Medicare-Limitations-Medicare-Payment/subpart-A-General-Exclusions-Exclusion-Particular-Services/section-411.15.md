@@ -1,7 +1,5 @@
 ##### § 411.15 Particular services excluded from coverage. #####
 
-Link to an amendment published at 82 FR 36633, Aug. 4, 2017.
-
 The following services are excluded from coverage:
 
 (a) Routine physical checkups such as:
@@ -184,7 +182,7 @@ The following services are excluded from coverage:
 
 (ii) The beneficiary receives services from a Medicare-participating home health agency under a plan of care;
 
-(iii) The beneficiary receives outpatient services from a Medicare-participating hospital or CAH (but only with respect to those services that are beyond the general scope of SNF comprehensive care plans, as required under § 483.20 of this chapter); or
+(iii) The beneficiary receives outpatient services from a Medicare-participating hospital or CAH (but only for those services that CMS designates as being beyond the general scope of SNF comprehensive care plans, as required under § 483.21(b) of this chapter); or
 
 (iv) The beneficiary is formally discharged (or otherwise departs) from the SNF, unless the beneficiary is readmitted (or returns) to that or another SNF by midnight of the day of departure.
 

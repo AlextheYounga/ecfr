@@ -26,7 +26,7 @@ S4. *Definitions.*
 
 *Vacuum tubing connector* means a flexible conduit of vacuum that (i) connects metal tubing to metal tubing in a brake system, (ii) is attached without end fittings, and (iii) when installed, has an unsupported length less than the total length of those portions that cover the metal tubing.
 
-S5. *Requirements - hydraulic brake hose, brake hose assemblies, and brake hose end fittings.*
+S5. *Requirements—hydraulic brake hose, brake hose assemblies, and brake hose end fittings.*
 
 S5.1 *Construction.* (a) Each hydraulic brake hose assembly shall have permanently attached brake hose end fittings which are attached by deformation of the fitting about the hose by crimping or swaging.
 
@@ -70,15 +70,13 @@ S5.3.1 *Constriction.* Except for that part of an end fitting which does not con
 
 S5.3.2 *Expansion and burst strength.* The maximum expansion of a hydraulic brake hose assembly at 1,000 psi, 1,500 psi and 2,900 psi shall not exceed the values specified in Table I (S6.1), except that a brake hose larger than3/16 inch or 5 mm is not subject to the 2,900 psi expansion test requirements. The hydraulic brake hose assembly shall then withstand water pressure of 4,000 psi for 2 minutes without rupture, and then shall not rupture at less than 7,000 psi for a1/8 inch, 3 mm, or smaller diameter hose, or at less than 5,000 psi for a hose with a diameter larger than1/8 inch or 3 mm (S6.2).
 
-Table I - Maximum Expansion of Free Length Brake Hose, CC/FT
-
-|Hydraulic brake hose, inside diameter |        Test pressure         |                              |                                  |                                  |                              |    |
-|--------------------------------------|------------------------------|------------------------------|----------------------------------|----------------------------------|------------------------------|----|
-|              1,000 psi               |          1,500 psi           |          2,900 psi           |                                  |                                  |                              |    |
-|  Regular  <br/>expansion  <br/>hose  |Low  <br/>expansion  <br/>hose|Low  <br/>expansion  <br/>hose|Regular  <br/>expansion  <br/>hose|Regular  <br/>expansion  <br/>hose|Low  <br/>expansion  <br/>hose|    |
-|      1/8 inch, or 3mm, or less       |             0.66             |             0.33             |               0.79               |               0.42               |             1.21             |0.61|
-|\>1/8 inch or 3mm, to3/16 inch or 5 mm|             0.86             |             0.55             |               1.02               |               0.72               |             1.67             |0.91|
-|         \>3/16 inch or 5 mm          |             1.04             |             0.82             |               1.30               |               1.17               |              \*              | \* |
+|                       Hydraulic brake hose, inside diameter                       |        Test pressure         |                              |                                  |                                  |                              |    |
+|-----------------------------------------------------------------------------------|------------------------------|------------------------------|----------------------------------|----------------------------------|------------------------------|----|
+|                                     1,000 psi                                     |          1,500 psi           |          2,900 psi           |                                  |                                  |                              |    |
+|                        Regular  <br/>expansion  <br/>hose                         |Low  <br/>expansion  <br/>hose|Low  <br/>expansion  <br/>hose|Regular  <br/>expansion  <br/>hose|Regular  <br/>expansion  <br/>hose|Low  <br/>expansion  <br/>hose|    |
+|                  <sup>1</sup>⁄<sub>8</sub> inch, or 3mm, or less                  |             0.66             |             0.33             |               0.79               |               0.42               |             1.21             |0.61|
+|\><sup>1</sup>⁄<sub>8</sub> inch or 3mm, to <sup>3</sup>⁄<sub>16</sub> inch or 5 mm|             0.86             |             0.55             |               1.02               |               0.72               |             1.67             |0.91|
+|                     \><sup>3</sup>⁄<sub>16</sub> inch or 5 mm                     |             1.04             |             0.82             |               1.30               |               1.17               |              \*              | \* |
 
 S5.3.3 *Whip resistance.* A hydraulic brake hose assembly shall not rupture when run continuously on a flexing machine for 35 hours (S6.3).
 
@@ -96,6 +94,8 @@ S5.3.9 *Brake fluid compatibility, constriction, and burst strength.* Except for
 
 S5.3.10 *Ozone resistance.* A hydraulic brake hose shall not show cracks visible under 7-power magnification after exposure to ozone for 70 hours at 104 °F. (S6.8).
 
+S5.3.11 *Dynamic ozone test.* A hydraulic brake hose shall not show cracks visible without magnification after having been subjected to a 48-hour dynamic ozone test (S6.9).
+
 S5.3.12 *High temperature impulse test.* A brake hose assembly tested under the conditions in S6.10:
 
 (a) Shall withstand pressure cycling for 150 cycles, at 295 degrees Fahrenheit (146 degrees Celsius) without leakage;
@@ -106,7 +106,7 @@ S5.3.12 *High temperature impulse test.* A brake hose assembly tested under the 
 
 S5.3.13 *End fitting corrosion resistance.* After 24 hours of exposure to salt spray, a hydraulic brake hose end fitting shall show no base metal corrosion on the end fitting surface except where crimping or the application of labeling information has caused displacement of the protective coating (S6.11).
 
-S6. *Test procedures - Hydraulic brake hose, brake hose assemblies, and brake hose end fittings.*
+S6. *Test procedures—Hydraulic brake hose, brake hose assemblies, and brake hose end fittings.*
 
 S6.1. *Expansion test.*
 
@@ -124,7 +124,7 @@ S6.1.1 *Apparatus.* Utilize a test apparatus (as shown in Figure 1) which consis
 
 (f) Graduate burette with 0.05 cc increments.
 
-![](/graphics/ec01au91.006.gif)Fig. 1 - Expansion Test Apparatus
+![](/graphics/ec01au91.006.gif)Fig. 1—Expansion Test Apparatus
 
 S6.1.2 *Preparation.* (a) Measure the free length of the hose assembly.
 
@@ -170,15 +170,13 @@ S6.3.2 *Preparation.* (a) Except for the supplemental support specified in S6.3.
 
 (d) In the case of a brake hose assembly equipped with a permanent supplemental support integrally attached to the assembly, the assembly may be mounted using the supplemental support and associated means of simulating its attachment to the vehicle. Mount the supplemental support in the same vertical and horizontal planes as the stationary header end of the whip test fixture described in S6.3.1(b). Mount or attach the supplemental support so that it is positioned in accordance with the recommendation of the assembly manufacturer for attaching the supplemental support on a vehicle.
 
-Table II - Hose Lengths
-
-|Free length between end fittings, inches|        Slack, inches         |     |
-|----------------------------------------|------------------------------|-----|
-|     1/8 inch or 3 mm hose or less      |More than1/8 inch or 3 mm hose|     |
-|         8 to 151/2, inclusive          |            1.750             |     |
-|         10 to 151/2, inclusive         |                              |1,000|
-|       Over 151/2 to 19 inclusive       |            1.250             |     |
-|        Over 19 to 24, inclusive        |            0.750             |     |
+|     Free length between end fittings, inches      |                    Slack, inches                    |     |
+|---------------------------------------------------|-----------------------------------------------------|-----|
+|<sup>1</sup>⁄<sub>8</sub> inch or 3 mm hose or less|More than <sup>1</sup>⁄<sub>8</sub> inch or 3 mm hose|     |
+|    8 to 15<sup>1</sup>⁄<sub>2</sub>, inclusive    |                        1.750                        |     |
+|   10 to 15<sup>1</sup>⁄<sub>2</sub>, inclusive    |                                                     |1,000|
+| Over 15<sup>1</sup>⁄<sub>2</sub> to 19 inclusive  |                        1.250                        |     |
+|             Over 19 to 24, inclusive              |                        0.750                        |     |
 
 S6.3.3 *Operation.* (a) Apply 235 psi water pressure and bleed all gases from the system.
 
@@ -330,7 +328,7 @@ S6.12.3 *Drop ball test.* (a) Utilize a rigid spherical ball with a diameter equ
 
 (d) Release the ball. The ball shall fall under the force of gravity alone completely through all portions of the brake hose assembly containing hose, at an average rate of 1 inch per second. Failure of the ball to pass completely through all portions of the brake hose assembly containing hose, at an average rate of 1 inch per second, constitutes failure of the constriction test.
 
-S7. *Requirements - Air brake hose, brake hose assemblies, and brake hose end fittings.*
+S7. *Requirements—Air brake hose, brake hose assemblies, and brake hose end fittings.*
 
 S7.1 *Construction.* Each air brake hose assembly shall be equipped with permanently attached brake hose end fittings or reusable brake hose end fittings. Each air brake hose constructed of synthetic or natural elastomeric rubber shall conform to the dimensional requirements specified in Table III, except for brake hose manufactured in metric sizes.
 
@@ -348,31 +346,27 @@ S7.2.1 *Hose.* Each air brake hose shall be labeled, or cut from bulk hose that 
 
 (e) The type designation corresponding to the brake hose dimensions in Table III. Type A shall be labeled with the letter “A”, Type AI shall be labeled with the letters “AI”, and type AII shall be labeled with the letters “AII”. Metric air brake hose shall be labeled with the letter “A.”
 
-Table III - Air Brake Hose Dimensions - Inside Diameter (ID) and Outside Diameter (OD) Dimensions in Inches (Millimeters)
-
-|         |        Type A - Hose Size - Nominal Inside Diameter        |                  |                  |                    |                  |                  |
-|---------|------------------------------------------------------------|------------------|------------------|--------------------|------------------|------------------|
-|   1/4   |                            5/16                            |       3/8        |       7/16       |1/2 SP<sup>(1)</sup>|       5/8        |                  |
-|Min. I.D.|                     0.227  <br/>(5.8)                      |0.289  <br/>(7.3) |0.352  <br/>(8.9) | 0.407  <br/>(10.3) |0.469  <br/>(11.9)|0.594  <br/>(15.1)|
-|Max. I.D.|                     0.273  <br/>(6.9)                      |0.335  <br/>(8.5) |0.398  <br/>(10.1)| 0.469  <br/>(11.9) |0.531  <br/>(13.5)|0.656  <br/>(16.7)|
-|Min. O.D.|                     0.594  <br/>(15.1)                     |0.656  <br/>(16.7)|0.719  <br/>(18.3)| 0.781  <br/>(19.8) |0.844  <br/>(21.4)|1.031  <br/>(26.2)|
-|Max. O.D.|                     0.656  <br/>(16.7)                     |0.719  <br/>(18.3)|0.781  <br/>(19.8)| 0.843  <br/>(21.4) |0.906  <br/>(23.0)|1.094  <br/>(27.8)|
-|         |Type AI<sup>(2)</sup> - Hose Size - Nominal Inside Diameter |                  |                  |                    |                  |                  |
-|         |                            3/16                            |       1/4        |       5/16       |       13/32        |       1/2        |       5/8        |
-|Min. I.D.|                     0.188  <br/>(4.8)                      |0.250  <br/>(6.4) |0.312  <br/>(7.9) | 0.406  <br/>(10.3) |0.500  <br/>(12.7)|0.625  <br/>(15.9)|
-|Max. I.D.|                     0.214  <br/>(5.4)                      |0.281  <br/>(7.1) |0.343  <br/>(8.7) | 0.437  <br/>(11.1) |0.539  <br/>(13.7)|0.667  <br/>(16.9)|
-|Min. O.D.|                     0.472  <br/>(12.0)                     |0.535  <br/>(13.6)|0.598  <br/>(15.1)| 0.714  <br/>(18.1) |0.808  <br/>(20.5)|0.933  <br/>(23.7)|
-|Max. O.D.|                     0.510  <br/>(13.0)                     |0.573  <br/>(14.6)|0.636  <br/>(16.2)| 0.760  <br/>(19.3) |0.854  <br/>(21.7)|0.979  <br/>(24.9)|
-|         |Type AII<sup>(2)</sup> - Hose Size - Nominal Inside Diameter|                  |                  |                    |                  |                  |
-|         |                            3/16                            |       1/4        |       5/16       |       13/32        |       1/2        |       5/8        |
-|Min. I.D.|                     0.188  <br/>(4.8)                      |0.250  <br/>(6.4) |0.312  <br/>(7.9) | 0.406  <br/>(10.3) |0.500  <br/>(12.7)|0.625  <br/>(15.9)|
-|Max. I.D.|                     0.214  <br/>(5.4)                      |0.281  <br/>(7.1) |0.343  <br/>(8.7) | 0.437  <br/>(11.1) |0.539  <br/>(13.7)|0.667  <br/>(16.9)|
-|Min. O.D.|                     0.500  <br/>(12.7)                     |0.562  <br/>(14.3)|0.656  <br/>(16.7)| 0.742  <br/>(18.8) |0.898  <br/>(22.8)|1.054  <br/>(26.8)|
-|Max. O.D.|                     0.539  <br/>(13.7)                     |0.602  <br/>(15.3)|0.695  <br/>(17.7)| 0.789  <br/>(20.1) |0.945  <br/>(24.0)|1.101  <br/>(27.9)|
-
-<sup>(1)</sup> Notes: Type A, sizes3/8,7/16, and1/2 Special can be assembled with reusable end fittings. All sizes can be assembled using permanently-attached (crimped) end fittings.
-
-<sup>(2)</sup> Types AI and AII, all sizes, can be assembled with reusable or permanently-attached (crimped) end fittings.
+|                                                                                                                                                                                                                                                           |        Type A—Hose Size—Nominal Inside Diameter         |                         |                          |                                           |                         |                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------|--------------------------|-------------------------------------------|-------------------------|-------------------------|
+|                                                                                                                 <sup>1</sup>⁄<sub>4</sub>                                                                                                                 |               <sup>5</sup>⁄<sub>16</sub>                |<sup>3</sup>⁄<sub>8</sub>|<sup>7</sup>⁄<sub>16</sub>|<sup>1</sup>⁄<sub>2</sub> SP <sup>(1)</sup>|<sup>5</sup>⁄<sub>8</sub>|                         |
+|                                                                                                                         Min. I.D.                                                                                                                         |                    0.227  <br/>(5.8)                    |    0.289  <br/>(7.3)    |    0.352  <br/>(8.9)     |            0.407  <br/>(10.3)             |   0.469  <br/>(11.9)    |   0.594  <br/>(15.1)    |
+|                                                                                                                         Max. I.D.                                                                                                                         |                    0.273  <br/>(6.9)                    |    0.335  <br/>(8.5)    |    0.398  <br/>(10.1)    |            0.469  <br/>(11.9)             |   0.531  <br/>(13.5)    |   0.656  <br/>(16.7)    |
+|                                                                                                                         Min. O.D.                                                                                                                         |                   0.594  <br/>(15.1)                    |   0.656  <br/>(16.7)    |    0.719  <br/>(18.3)    |            0.781  <br/>(19.8)             |   0.844  <br/>(21.4)    |   1.031  <br/>(26.2)    |
+|                                                                                                                         Max. O.D.                                                                                                                         |                   0.656  <br/>(16.7)                    |   0.719  <br/>(18.3)    |    0.781  <br/>(19.8)    |            0.843  <br/>(21.4)             |   0.906  <br/>(23.0)    |   1.094  <br/>(27.8)    |
+|                                                                                                                                                                                                                                                           |Type AI <sup>(2)</sup>—Hose Size—Nominal Inside Diameter |                         |                          |                                           |                         |                         |
+|                                                                                                                                                                                                                                                           |               <sup>3</sup>⁄<sub>16</sub>                |<sup>1</sup>⁄<sub>4</sub>|<sup>5</sup>⁄<sub>16</sub>|        <sup>13</sup>⁄<sub>32</sub>        |<sup>1</sup>⁄<sub>2</sub>|<sup>5</sup>⁄<sub>8</sub>|
+|                                                                                                                         Min. I.D.                                                                                                                         |                    0.188  <br/>(4.8)                    |    0.250  <br/>(6.4)    |    0.312  <br/>(7.9)     |            0.406  <br/>(10.3)             |   0.500  <br/>(12.7)    |   0.625  <br/>(15.9)    |
+|                                                                                                                         Max. I.D.                                                                                                                         |                    0.214  <br/>(5.4)                    |    0.281  <br/>(7.1)    |    0.343  <br/>(8.7)     |            0.437  <br/>(11.1)             |   0.539  <br/>(13.7)    |   0.667  <br/>(16.9)    |
+|                                                                                                                         Min. O.D.                                                                                                                         |                   0.472  <br/>(12.0)                    |   0.535  <br/>(13.6)    |    0.598  <br/>(15.1)    |            0.714  <br/>(18.1)             |   0.808  <br/>(20.5)    |   0.933  <br/>(23.7)    |
+|                                                                                                                         Max. O.D.                                                                                                                         |                   0.510  <br/>(13.0)                    |   0.573  <br/>(14.6)    |    0.636  <br/>(16.2)    |            0.760  <br/>(19.3)             |   0.854  <br/>(21.7)    |   0.979  <br/>(24.9)    |
+|                                                                                                                                                                                                                                                           |Type AII <sup>(2)</sup>—Hose Size—Nominal Inside Diameter|                         |                          |                                           |                         |                         |
+|                                                                                                                                                                                                                                                           |               <sup>3</sup>⁄<sub>16</sub>                |<sup>1</sup>⁄<sub>4</sub>|<sup>5</sup>⁄<sub>16</sub>|        <sup>13</sup>⁄<sub>32</sub>        |<sup>1</sup>⁄<sub>2</sub>|<sup>5</sup>⁄<sub>8</sub>|
+|                                                                                                                         Min. I.D.                                                                                                                         |                    0.188  <br/>(4.8)                    |    0.250  <br/>(6.4)    |    0.312  <br/>(7.9)     |            0.406  <br/>(10.3)             |   0.500  <br/>(12.7)    |   0.625  <br/>(15.9)    |
+|                                                                                                                         Max. I.D.                                                                                                                         |                    0.214  <br/>(5.4)                    |    0.281  <br/>(7.1)    |    0.343  <br/>(8.7)     |            0.437  <br/>(11.1)             |   0.539  <br/>(13.7)    |   0.667  <br/>(16.9)    |
+|                                                                                                                         Min. O.D.                                                                                                                         |                   0.500  <br/>(12.7)                    |   0.562  <br/>(14.3)    |    0.656  <br/>(16.7)    |            0.742  <br/>(18.8)             |   0.898  <br/>(22.8)    |   1.054  <br/>(26.8)    |
+|                                                                                                                         Max. O.D.                                                                                                                         |                   0.539  <br/>(13.7)                    |   0.602  <br/>(15.3)    |    0.695  <br/>(17.7)    |            0.789  <br/>(20.1)             |   0.945  <br/>(24.0)    |   1.101  <br/>(27.9)    |
+|<sup>(1)</sup> Notes: Type A, sizes <sup>3</sup>⁄<sub>8</sub>, <sup>7</sup>⁄<sub>16</sub>, and <sup>1</sup>⁄<sub>2</sub> Special can be assembled with reusable end fittings. All sizes can be assembled using permanently-attached (crimped) end fittings.|                                                         |                         |                          |                                           |                         |                         |
+|                                                                <sup>(2)</sup> Types AI and AII, all sizes, can be assembled with reusable or permanently-attached (crimped) end fittings.                                                                 |                                                         |                         |                          |                                           |                         |                         |
 
 S7.2.2 *End fittings.* Except for an end fitting that is attached by deformation of the fitting about a hose by crimping or swaging, at least one component of each air brake hose fitting shall be etched, embossed, or stamped in block capital letters and numerals at least one-sixteenth of an inch high with the following information:
 
@@ -400,21 +394,15 @@ S7.3.2 *High temperature resistance.* An air brake hose shall not show external 
 
 S7.3.3 *Low temperature resistance.* The inside and outside surfaces of an air brake hose shall not show cracks as a result of conditioning at minus 40 degrees Fahrenheit (minus 40 degrees Celsius) for 70 hours when bent around a large test cylinder having the radius specified in Table IV for the size of hose tested (S8.2).
 
-Table IV - Air Brake Hose Diameters and Test Cylinder Radii
-
-|       Nominal hose inside diameter, inches<sup>1</sup>        | 3/16 |   1/4   |  5/16   |   3/8   |  13/32  |7/16,1/2|   5/8    |
-|:--------------------------------------------------------------|-----:|--------:|--------:|--------:|--------:|-------:|---------:|
-|     Nominal hose inside diameter, millimeters<sup>1</sup>     | 4, 5 |    6    |    8    |         |   10    |   12   |    16    |
-|Small test cylinder, radius in inches (millimeters)<sup>2</sup>|1 (25)|11/2 (38)|13/4 (45)|13/4 (45)|17/8 (48)| 2 (51) |21/2 (64) |
-|Large test cylinder, radius in inches (millimeters)<sup>3</sup>|2 (51)|21/2 (64)| 3 (76)  |31/2 (89)|31/2 (89)|4 (102) |41/2 (114)|
-
-Notes:
-
-<sup>1</sup> These sizes are listed to provide test cylinder radii for brake hoses manufactured in these sizes. They do not represent conversions.
-
-<sup>2</sup> Small test cylinders are used for the high temperature resistance test.
-
-<sup>3</sup> Large test cylinders are used for the low temperature resistance, ozone resistance, and adhesion of wire-reinforced hose tests.
+|                                                Nominal hose inside diameter, inches <sup>1</sup>                                                 |<sup>3</sup>⁄<sub>16</sub>|   <sup>1</sup>⁄<sub>4</sub>   |  <sup>5</sup>⁄<sub>16</sub>   |   <sup>3</sup>⁄<sub>8</sub>   |  <sup>13</sup>⁄<sub>32</sub>  |<sup>7</sup>⁄<sub>16</sub>, <sup>1</sup>⁄<sub>2</sub>|   <sup>5</sup>⁄<sub>8</sub>    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-----------------------------------------------------|--------------------------------|
+|                                              Nominal hose inside diameter, millimeters <sup>1</sup>                                              |           4, 5           |               6               |               8               |                               |              10               |                         12                          |               16               |
+|                                         Small test cylinder, radius in inches (millimeters) <sup>2</sup>                                         |          1 (25)          |1<sup>1</sup>⁄<sub>2</sub> (38)|1<sup>3</sup>⁄<sub>4</sub> (45)|1<sup>3</sup>⁄<sub>4</sub> (45)|1<sup>7</sup>⁄<sub>8</sub> (48)|                       2 (51)                        |2<sup>1</sup>⁄<sub>2</sub> (64) |
+|                                         Large test cylinder, radius in inches (millimeters) <sup>3</sup>                                         |          2 (51)          |2<sup>1</sup>⁄<sub>2</sub> (64)|            3 (76)             |3<sup>1</sup>⁄<sub>2</sub> (89)|3<sup>1</sup>⁄<sub>2</sub> (89)|                       4 (102)                       |4<sup>1</sup>⁄<sub>2</sub> (114)|
+|                                                                      Notes:                                                                      |                          |                               |                               |                               |                               |                                                     |                                |
+|<sup>1</sup> These sizes are listed to provide test cylinder radii for brake hoses manufactured in these sizes. They do not represent conversions.|                          |                               |                               |                               |                               |                                                     |                                |
+|                               <sup>2</sup> Small test cylinders are used for the high temperature resistance test.                               |                          |                               |                               |                               |                               |                                                     |                                |
+|   <sup>3</sup> Large test cylinders are used for the low temperature resistance, ozone resistance, and adhesion of wire-reinforced hose tests.   |                          |                               |                               |                               |                               |                                                     |                                |
 
 S7.3.4 *Oil resistance.* After immersion in ASTM No. 3 oil for 70 hours at 212 °F. the volume of a specimen prepared from the inner tube and cover of an air brake hose shall not increase more than 100 percent (S8.3).
 
@@ -438,7 +426,7 @@ S7.3.12 *Zinc chloride resistance.* The outer cover of an air brake hose shall n
 
 S7.3.13 *End fitting corrosion resistance.* After 24 hours of exposure to salt spray, air brake hose end fittings shall show no base metal corrosion on the end fitting surface except where crimping or the application of labeling information causes a displacement of the protective coating.
 
-S8. *Test procedures - Air brake hose, brake hose assemblies, and brake hose end fittings.*
+S8. *Test procedures—Air brake hose, brake hose assemblies, and brake hose end fittings.*
 
 S8.1 *High temperature resistance test.*
 
@@ -514,17 +502,14 @@ S8.7.1 *Apparatus.* A flex testing machine with a fixed hose assembly attachment
 
 ![](/graphics/er20de04.006.gif)
 
-Table Accompanying Figure 5 - Dimensions in Inches (Millimeters)
-
-|Free hose length|Nominal hose inside diameter|  Dimensions   |                |                |               |               |                |                |               |
-|----------------|----------------------------|---------------|----------------|----------------|---------------|---------------|----------------|----------------|---------------|
-|  Position “1”  |        Position “2”        |               |                |                |               |               |                |                |               |
-|       A        |             B              |       C       |R<sup>(1)</sup> |       A        |       B       |       C       |R<sup>(1)</sup> |                |               |
-|  10.00 (254)   |          3/16,1/4          |3.00  <br/>(76)|2.75  <br/>(70) |3.75  <br/>(95) |1.40  <br/>(34)|3.00  <br/>(76)|2.75  <br/>(70) |3.75  <br/>(95) |1.20  <br/>(30)|
-|  11.00 (279)   |       5/16,3/8,13/32       |3.00  <br/>(76)|3.50  <br/>(89) |4.50  <br/>(114)|1.70  <br/>(43)|3.00  <br/>(76)|3.50  <br/>(89) |4.50  <br/>(114)|1.30  <br/>(33)|
-|  14.00 (355)   |        7/16,1/2,5/8        |3.00  <br/>(76)|4.00  <br/>(102)|5.00  <br/>(127)|2.20  <br/>(56)|3.00  <br/>(76)|4.00  <br/>(102)|5.00  <br/>(127)|1.80  <br/>(46)|
-
-Note (1): This is an approximate average radius.
+|                  Free hose length                  |                           Nominal hose inside diameter                           |  Dimensions   |                |                |               |               |                |                |               |
+|----------------------------------------------------|----------------------------------------------------------------------------------|---------------|----------------|----------------|---------------|---------------|----------------|----------------|---------------|
+|                    Position “1”                    |                                   Position “2”                                   |               |                |                |               |               |                |                |               |
+|                         A                          |                                        B                                         |       C       |R <sup>(1)</sup>|       A        |       B       |       C       |R <sup>(1)</sup>|                |               |
+|                    10.00 (254)                     |              <sup>3</sup>⁄<sub>16</sub>, <sup>1</sup>⁄<sub>4</sub>               |3.00  <br/>(76)|2.75  <br/>(70) |3.75  <br/>(95) |1.40  <br/>(34)|3.00  <br/>(76)|2.75  <br/>(70) |3.75  <br/>(95) |1.20  <br/>(30)|
+|                    11.00 (279)                     |<sup>5</sup>⁄<sub>16</sub>, <sup>3</sup>⁄<sub>8</sub>, <sup>13</sup>⁄<sub>32</sub>|3.00  <br/>(76)|3.50  <br/>(89) |4.50  <br/>(114)|1.70  <br/>(43)|3.00  <br/>(76)|3.50  <br/>(89) |4.50  <br/>(114)|1.30  <br/>(33)|
+|                    14.00 (355)                     | <sup>7</sup>⁄<sub>16</sub>, <sup>1</sup>⁄<sub>2</sub>, <sup>5</sup>⁄<sub>8</sub> |3.00  <br/>(76)|4.00  <br/>(102)|5.00  <br/>(127)|2.20  <br/>(56)|3.00  <br/>(76)|4.00  <br/>(102)|5.00  <br/>(127)|1.80  <br/>(46)|
+|**Note (1):** This is an approximate average radius.|                                                                                  |               |                |                |               |               |                |                |               |
 
 S8.7.2 *Preparation.* (a) Lay the hose material on a flat surface in an unstressed condition. Apply a permanent marking line along the centerline of the hose on the uppermost surface.
 
@@ -566,7 +551,7 @@ S8.13 *Adhesion test for air brake hose reinforced by wire.* (a) Place a steel b
 
 S8.14 *Constriction test.* Perform the constriction test in S6.12 using an air brake hose, except that the spherical diameter “A” of the plug gauge in Figure 4, or the diameter of the rigid spherical ball in S6.12.3(a), shall be 66 percent of the nominal inside diameter of the air brake hose being tested.
 
-S9. *Requirements - vacuum brake hose, brake hose assemblies, and brake hose end fittings.*
+S9. *Requirements—vacuum brake hose, brake hose assemblies, and brake hose end fittings.*
 
 S9.1 *Labeling.*
 
@@ -624,24 +609,21 @@ S9.2.6 *Vacuum.* The collapse of the outside diameter of a vacuum brake hose und
 
 S9.2.7 *Bend.* The collapse of the outside diameter of a vacuum brake hose, other than a preformed vacuum brake hose, at the middle point of the test length when bent until the ends touch shall not exceed the values given in Table V for the size of hose tested (S10.6).
 
-Table V - Vacuum Brake Hose Test Requirements
-
-|Hose inside diameter\*|High temperature resistance|Low temperature resistance|           Bend           |Deformation - collapsed inside diameter (dimension D), inches|                          |                   |                                            |    |
-|----------------------|---------------------------|--------------------------|--------------------------|-------------------------------------------------------------|--------------------------|-------------------|--------------------------------------------|----|
-|        Inches        |        Millimeters        |   Hose length, inches    |Radius of cylinder, inches|                     Hose length, inches                     |Radius of cylinder, inches|Hose length, inches|Maximum collapse of outside diameter, inches|    |
-|         7/32         |             5             |            8             |           11/2           |                            171/2                            |            3             |         7         |                   11/64                    |3/64|
-|         1/4          |             6             |            9             |           11/2           |                            171/2                            |            3             |         8         |                    3/32                    |1/16|
-|         9/32         |                           |            9             |           13/4           |                             19                              |           31/2           |         9         |                   12/64                    |4/64|
-|        11/32         |             8             |            9             |           13/4           |                             19                              |           31/2           |        11         |                   13/64                    |5/64|
-|         3/8          |            10             |            10            |           13/4           |                             19                              |           31/2           |        12         |                    5/32                    |3/32|
-|         7/16         |                           |            11            |            2             |                            201/2                            |            4             |        14         |                   17/64                    |5/64|
-|        15/32         |                           |            11            |            2             |                            201/2                            |            4             |        14         |                   17/64                    |5/64|
-|         1/2          |            12             |            11            |            2             |                            201/2                            |            4             |        16         |                    7/32                    |1/8 |
-|         5/8          |            16             |            12            |           21/4           |                             22                              |           41/2           |        22         |                    7/32                    |5/32|
-|         3/4          |                           |            14            |           21/2           |                             24                              |            5             |        28         |                    7/32                    |3/16|
-|          1           |                           |            16            |           31/4           |                            281/2                            |           61/2           |        36         |                    9/32                    |1/4 |
-
-\*These sizes are listed to provide test values for brake hoses manufactured in these sizes. They do not represent conversions.
+|                                                    Hose inside diameter\*                                                     |High temperature resistance|Low temperature resistance|           Bend           |Deformation—collapsed inside diameter (dimension D), inches|                          |                   |                                            |                          |
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|--------------------------|-----------------------------------------------------------|--------------------------|-------------------|--------------------------------------------|--------------------------|
+|                                                            Inches                                                             |        Millimeters        |   Hose length, inches    |Radius of cylinder, inches|                    Hose length, inches                    |Radius of cylinder, inches|Hose length, inches|Maximum collapse of outside diameter, inches|                          |
+|                                                  <sup>7</sup>⁄<sub>32</sub>                                                   |             5             |            8             |1<sup>1</sup>⁄<sub>2</sub>|                17<sup>1</sup>⁄<sub>2</sub>                |            3             |         7         |        <sup>11</sup>⁄<sub>64</sub>         |<sup>3</sup>⁄<sub>64</sub>|
+|                                                   <sup>1</sup>⁄<sub>4</sub>                                                   |             6             |            9             |1<sup>1</sup>⁄<sub>2</sub>|                17<sup>1</sup>⁄<sub>2</sub>                |            3             |         8         |         <sup>3</sup>⁄<sub>32</sub>         |<sup>1</sup>⁄<sub>16</sub>|
+|                                                  <sup>9</sup>⁄<sub>32</sub>                                                   |                           |            9             |1<sup>3</sup>⁄<sub>4</sub>|                            19                             |3<sup>1</sup>⁄<sub>2</sub>|         9         |        <sup>12</sup>⁄<sub>64</sub>         |<sup>4</sup>⁄<sub>64</sub>|
+|                                                  <sup>11</sup>⁄<sub>32</sub>                                                  |             8             |            9             |1<sup>3</sup>⁄<sub>4</sub>|                            19                             |3<sup>1</sup>⁄<sub>2</sub>|        11         |        <sup>13</sup>⁄<sub>64</sub>         |<sup>5</sup>⁄<sub>64</sub>|
+|                                                   <sup>3</sup>⁄<sub>8</sub>                                                   |            10             |            10            |1<sup>3</sup>⁄<sub>4</sub>|                            19                             |3<sup>1</sup>⁄<sub>2</sub>|        12         |         <sup>5</sup>⁄<sub>32</sub>         |<sup>3</sup>⁄<sub>32</sub>|
+|                                                  <sup>7</sup>⁄<sub>16</sub>                                                   |                           |            11            |            2             |                20<sup>1</sup>⁄<sub>2</sub>                |            4             |        14         |        <sup>17</sup>⁄<sub>64</sub>         |<sup>5</sup>⁄<sub>64</sub>|
+|                                                  <sup>15</sup>⁄<sub>32</sub>                                                  |                           |            11            |            2             |                20<sup>1</sup>⁄<sub>2</sub>                |            4             |        14         |        <sup>17</sup>⁄<sub>64</sub>         |<sup>5</sup>⁄<sub>64</sub>|
+|                                                   <sup>1</sup>⁄<sub>2</sub>                                                   |            12             |            11            |            2             |                20<sup>1</sup>⁄<sub>2</sub>                |            4             |        16         |         <sup>7</sup>⁄<sub>32</sub>         |<sup>1</sup>⁄<sub>8</sub> |
+|                                                   <sup>5</sup>⁄<sub>8</sub>                                                   |            16             |            12            |2<sup>1</sup>⁄<sub>4</sub>|                            22                             |4<sup>1</sup>⁄<sub>2</sub>|        22         |         <sup>7</sup>⁄<sub>32</sub>         |<sup>5</sup>⁄<sub>32</sub>|
+|                                                   <sup>3</sup>⁄<sub>4</sub>                                                   |                           |            14            |2<sup>1</sup>⁄<sub>2</sub>|                            24                             |            5             |        28         |         <sup>7</sup>⁄<sub>32</sub>         |<sup>3</sup>⁄<sub>16</sub>|
+|                                                               1                                                               |                           |            16            |3<sup>1</sup>⁄<sub>4</sub>|                28<sup>1</sup>⁄<sub>2</sub>                |6<sup>1</sup>⁄<sub>2</sub>|        36         |         <sup>9</sup>⁄<sub>32</sub>         |<sup>1</sup>⁄<sub>4</sub> |
+|\*These sizes are listed to provide test values for brake hoses manufactured in these sizes. They do not represent conversions.|                           |                          |                          |                                                           |                          |                   |                                            |                          |
 
 S9.2.8 *Swell and adhesion.* Following exposure to Reference Fuel B (as described in ASTM D471-98 (incorporated by reference, see § 571.5)), every inside diameter of any section of a vacuum brake hose shall not be less than 75 percent of the nominal inside diameter of the hose if for heavy duty, or 70 percent of the nominal inside diameter of the hose if for light duty. The vacuum brake hose shall show no leakage in a vacuum test of 26 inches of Hg for 10 minutes. A vacuum hose that is constructed of two or more layers shall withstand a force of 6 pounds per inch of length before separation of adjacent layers. (S10.7).
 
@@ -649,7 +631,7 @@ S9.2.9 *Deformation.* A vacuum brake hose shall return to 90 percent of its orig
 
 S9.2.10 *End fitting corrosion resistance.* After 24 hours of exposure to salt spray, vacuum brake hose end fittings shall show no base metal corrosion of the end fitting surface except where crimping or the application of labeling information has caused displacement of the protective coating. (S10.10).
 
-S10. *Test procedures - Vacuum brake hose, brake hose assemblies, and brake hose end fittings.*
+S10. *Test procedures—Vacuum brake hose, brake hose assemblies, and brake hose end fittings.*
 
 S10.1 *High temperature resistance test.* (a) Measure the initial outside diameter of the hose.
 
@@ -681,7 +663,7 @@ S10.6 *Bend test.* (a) Bend a vacuum brake hose, of the length prescribed in Tab
 
 (c) The difference between the two measurements is the collapse of the hose outside diameter on bending.
 
-![](/graphics/ec01au91.008.gif)Fig. 6 - Bend Test of Vacuum Brake Hose.
+![](/graphics/ec01au91.008.gif)Fig. 6—Bend Test of Vacuum Brake Hose.
 
 S10.7 *Swell and adhesion test.* (a) Fill a specimen of vacuum brake hose 12 inches long with ASTM Reference Fuel B as described in ASTM D471-98 (incorporated by reference, see § 571.5).
 
@@ -701,28 +683,25 @@ S10.9.1 *Apparatus.* Utilize a compression device, equipped to measure force of 
 
 S10.9.2 *Operation.* (a) Position the test specimen longitudinally in the compression device with the fabric laps not in the line of the applied pressure.
 
-Table VI - Dimensions of Test Specimen and Feeler Gage For Deformation Test
-
-|Hose inside diameter \*|Specimen dimensions (see Fig. 7)|Feeler gage dimensions|             |            |                |
-|-----------------------|--------------------------------|----------------------|-------------|------------|----------------|
-|          in.          |               mm               |     Depth (inch)     |Length (inch)|Width (inch)|Thickness (inch)|
-|         7/32          |               5                |         3/64         |      1      |    1/8     |      3/64      |
-|          1/4          |               6                |         1/16         |      1      |    1/8     |      1/16      |
-|         9/32          |                                |         1/16         |      1      |    1/8     |      1/16      |
-|         11/32         |               8                |         5/64         |      1      |    3/16    |      5/64      |
-|          3/8          |               10               |         3/32         |      1      |    3/16    |      3/32      |
-|         7/16          |                                |         5/64         |      1      |    1/4     |      5/64      |
-|         15/32         |                                |         5/64         |      1      |    1/4     |      5/64      |
-|          1/2          |               12               |         1/8          |      1      |    1/4     |      1/8       |
-|          5/8          |               16               |         5/32         |      1      |    1/4     |      5/32      |
-|          3/4          |                                |         3/16         |      1      |    1/4     |      3/16      |
-|           1           |                                |         1/4          |      1      |    1/4     |      1/4       |
-
-\*These sizes are listed to provide test values for brake hoses manufactured in these sizes. They do not represent conversions.
+|                                                    Hose inside diameter \*                                                    |Specimen dimensions (see Fig. 7)|  Feeler gage dimensions  |             |                          |                          |
+|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------------------|-------------|--------------------------|--------------------------|
+|                                                              in.                                                              |               mm               |       Depth (inch)       |Length (inch)|       Width (inch)       |     Thickness (inch)     |
+|                                                  <sup>7</sup>⁄<sub>32</sub>                                                   |               5                |<sup>3</sup>⁄<sub>64</sub>|      1      |<sup>1</sup>⁄<sub>8</sub> |<sup>3</sup>⁄<sub>64</sub>|
+|                                                   <sup>1</sup>⁄<sub>4</sub>                                                   |               6                |<sup>1</sup>⁄<sub>16</sub>|      1      |<sup>1</sup>⁄<sub>8</sub> |<sup>1</sup>⁄<sub>16</sub>|
+|                                                  <sup>9</sup>⁄<sub>32</sub>                                                   |                                |<sup>1</sup>⁄<sub>16</sub>|      1      |<sup>1</sup>⁄<sub>8</sub> |<sup>1</sup>⁄<sub>16</sub>|
+|                                                  <sup>11</sup>⁄<sub>32</sub>                                                  |               8                |<sup>5</sup>⁄<sub>64</sub>|      1      |<sup>3</sup>⁄<sub>16</sub>|<sup>5</sup>⁄<sub>64</sub>|
+|                                                   <sup>3</sup>⁄<sub>8</sub>                                                   |               10               |<sup>3</sup>⁄<sub>32</sub>|      1      |<sup>3</sup>⁄<sub>16</sub>|<sup>3</sup>⁄<sub>32</sub>|
+|                                                  <sup>7</sup>⁄<sub>16</sub>                                                   |                                |<sup>5</sup>⁄<sub>64</sub>|      1      |<sup>1</sup>⁄<sub>4</sub> |<sup>5</sup>⁄<sub>64</sub>|
+|                                                  <sup>15</sup>⁄<sub>32</sub>                                                  |                                |<sup>5</sup>⁄<sub>64</sub>|      1      |<sup>1</sup>⁄<sub>4</sub> |<sup>5</sup>⁄<sub>64</sub>|
+|                                                   <sup>1</sup>⁄<sub>2</sub>                                                   |               12               |<sup>1</sup>⁄<sub>8</sub> |      1      |<sup>1</sup>⁄<sub>4</sub> |<sup>1</sup>⁄<sub>8</sub> |
+|                                                   <sup>5</sup>⁄<sub>8</sub>                                                   |               16               |<sup>5</sup>⁄<sub>32</sub>|      1      |<sup>1</sup>⁄<sub>4</sub> |<sup>5</sup>⁄<sub>32</sub>|
+|                                                   <sup>3</sup>⁄<sub>4</sub>                                                   |                                |<sup>3</sup>⁄<sub>16</sub>|      1      |<sup>1</sup>⁄<sub>4</sub> |<sup>3</sup>⁄<sub>16</sub>|
+|                                                               1                                                               |                                |<sup>1</sup>⁄<sub>4</sub> |      1      |<sup>1</sup>⁄<sub>4</sub> |<sup>1</sup>⁄<sub>4</sub> |
+|\*These sizes are listed to provide test values for brake hoses manufactured in these sizes. They do not represent conversions.|                                |                          |             |                          |                          |
 
 (b) Apply gradually increasing force to the test specimen to compress its inside diameter to that specified in Table VI (dimension D of Figure 7) for the size of hose tested.
 
-![](/graphics/ec01au91.009.gif)Fig. 7 - Deformed Specimen of Vacuum Brake Hose
+![](/graphics/ec01au91.009.gif)Fig. 7—Deformed Specimen of Vacuum Brake Hose
 
 (c) After 5 seconds release the force and record the peak load applied.
 
@@ -732,24 +711,22 @@ S10.10 *End fitting corrosion resistance test.* Conduct the test specified in S6
 
 S10.11 *Constriction test.* Perform the constriction test in S6.12 using a vacuum brake hose, except that the spherical diameter “A” of the plug gauge in Figure 4, or the diameter of the rigid spherical ball in S6.12.3(a), shall be 75 percent of the nominal inside diameter of the vacuum brake hose if it is heavy duty, or 70 percent of the nominal inside diameter of the vacuum brake hose if it is light duty.
 
-S11. *Requirements - Plastic air brake tubing, plastic air brake tubing assemblies, and plastic air brake tubing end fittings.*
+S11. *Requirements—Plastic air brake tubing, plastic air brake tubing assemblies, and plastic air brake tubing end fittings.*
 
 11.1 *Construction.* Each plastic air brake tubing assembly shall be equipped with permanently attached end fittings or reusable end fittings. Plastic air brake tubing shall conform to the dimensional requirements specified in Table VII. (S12.1)
-
-Table VII - Plastic Air Brake Tubing Dimensions
 
 |Nominal tubing outside diameter|Maximum outside diameter|Minimum outside diameter|Nominal inside diameter|Nominal wall thickness|Wall thickness tolerance|     |      |     |      |     |
 |-------------------------------|------------------------|------------------------|-----------------------|----------------------|------------------------|-----|------|-----|------|-----|
 |              mm               |         inches         |           mm           |        inches         |          mm          |         inches         | mm  |inches| mm  |inches|     |
-|           1/8 inch            |          3.25          |         0.128          |         3.10          |        0.122         |          2.01          |0.079| 0.58 |0.023| 0.08 |0.003|
-|           5/32 inch           |          4.04          |         0.159          |         3.89          |        0.153         |          2.34          |0.092| 0.81 |0.032| 0.08 |0.003|
-|           3/16 inch           |          4.83          |         0.190          |         4.67          |        0.184         |          2.97          |0.117| 0.89 |0.035| 0.08 |0.003|
-|           1/4 inch            |          6.43          |         0.253          |         6.27          |        0.247         |          4.32          |0.170| 1.02 |0.040| 0.08 |0.003|
-|           5/16 inch           |          8.03          |         0.316          |         7.82          |        0.308         |          5.89          |0.232| 1.02 |0.040| 0.10 |0.004|
-|           3/8 inch            |          9.63          |         0.379          |         9.42          |        0.371         |          6.38          |0.251| 1.57 |0.062| 0.10 |0.004|
-|           1/2 inch            |         12.83          |         0.505          |         12.57         |        0.495         |          9.55          |0.376| 1.57 |0.062| 0.10 |0.004|
-|           5/8 inch            |         16.00          |         0.630          |         15.75         |        0.620         |         11.20          |0.441| 2.34 |0.092| 0.13 |0.005|
-|           3/4 inch            |         19.18          |         0.755          |         18.92         |        0.745         |         14.38          |0.566| 2.34 |0.092| 0.13 |0.005|
+|<sup>1</sup>⁄<sub>8</sub> inch |          3.25          |         0.128          |         3.10          |        0.122         |          2.01          |0.079| 0.58 |0.023| 0.08 |0.003|
+|<sup>5</sup>⁄<sub>32</sub> inch|          4.04          |         0.159          |         3.89          |        0.153         |          2.34          |0.092| 0.81 |0.032| 0.08 |0.003|
+|<sup>3</sup>⁄<sub>16</sub> inch|          4.83          |         0.190          |         4.67          |        0.184         |          2.97          |0.117| 0.89 |0.035| 0.08 |0.003|
+|<sup>1</sup>⁄<sub>4</sub> inch |          6.43          |         0.253          |         6.27          |        0.247         |          4.32          |0.170| 1.02 |0.040| 0.08 |0.003|
+|<sup>5</sup>⁄<sub>16</sub> inch|          8.03          |         0.316          |         7.82          |        0.308         |          5.89          |0.232| 1.02 |0.040| 0.10 |0.004|
+|<sup>3</sup>⁄<sub>8</sub> inch |          9.63          |         0.379          |         9.42          |        0.371         |          6.38          |0.251| 1.57 |0.062| 0.10 |0.004|
+|<sup>1</sup>⁄<sub>2</sub> inch |         12.83          |         0.505          |         12.57         |        0.495         |          9.55          |0.376| 1.57 |0.062| 0.10 |0.004|
+|<sup>5</sup>⁄<sub>8</sub> inch |         16.00          |         0.630          |         15.75         |        0.620         |         11.20          |0.441| 2.34 |0.092| 0.13 |0.005|
+|<sup>3</sup>⁄<sub>4</sub> inch |         19.18          |         0.755          |         18.92         |        0.745         |         14.38          |0.566| 2.34 |0.092| 0.13 |0.005|
 |             6 mm              |          6.10          |         0.240          |         5.90          |        0.232         |          4.00          |0.157| 1.00 |0.039| 0.10 |0.004|
 |             8 mm              |          8.10          |         0.319          |         7.90          |        0.311         |          6.00          |0.236| 1.00 |0.039| 0.10 |0.004|
 |             10 mm             |         10.13          |         0.399          |         9.87          |        0.389         |          7.00          |0.276| 1.50 |0.059| 0.10 |0.004|
@@ -800,27 +777,24 @@ S11.3.4 *Burst Strength.* Plastic air brake tubing shall not rupture when subjec
 
 S11.3.5 *Moisture absorption and burst strength.* Plastic air brake tubing shall not rupture when subjected to 80 percent of the burst strength pressure in Table VIII, after the tubing has been dried in an oven and then conditioned in a 100 percent relative humidity atmosphere at 75 degrees Fahrenheit (24 degrees Celsius) for 100 hours. (S12.6)
 
-Table VIII - Plastic Air Brake Tubing Mechanical Properties
-
-|Nominal tubing OD|Burst strength pressure|Supported bend radius<sup>1</sup>|Unsupported bend radius<sup>2</sup>|Conditioned tensile load|      |    |    |   |
-|-----------------|-----------------------|---------------------------------|-----------------------------------|------------------------|------|----|----|---|
-|       kPa       |          Psi          |               Mm                |              inches               |           mm           |inches| N  |lbf |   |
-|    1/8 inch     |         6900          |              1000               |                9.4                |          0.37          | 9.4  |0.37|156 |35 |
-|    5/32 inch    |         8300          |              1200               |               12.7                |          0.50          | 12.7 |0.50|178 |40 |
-|    3/16 inch    |         8300          |              1200               |               19.1                |          0.75          | 19.1 |0.75|222 |50 |
-|    1/4 inch     |         8300          |              1200               |               25.4                |          1.00          | 25.4 |1.00|222 |50 |
-|    5/16 inch    |         6900          |              1000               |               31.8                |          1.25          | 38.1 |1.50|334 |75 |
-|    3/8 inch     |         9700          |              1400               |               38.1                |          1.50          | 38.1 |1.50|667 |150|
-|    1/2 inch     |         6600          |               950               |               50.8                |          2.00          | 63.5 |2.50|890 |200|
-|    5/8 inch     |         6200          |               900               |               63.5                |          2.50          | 76.2 |3.00|1446|325|
-|    3/4 inch     |         5500          |               800               |               76.2                |          3.00          | 88.9 |3.50|1557|350|
-|      6 mm       |         7600          |              1100               |               20.0                |          0.75          | 25.4 |1.00|222 |50 |
-|      8 mm       |         6200          |               900               |               31.8                |          1.25          | 38.1 |1.50|334 |75 |
-|      10 mm      |         8200          |              1200               |               38.1                |          1.50          | 38.1 |1.50|667 |150|
-|      12 mm      |         6900          |              1000               |               44.5                |          1.75          | 63.5 |2.50|890 |200|
-|      16 mm      |         6000          |               875               |               69.9                |          2.75          | 76.2 |3.00|1446|325|
-
-Notes: (1) Supported bend radius for tests specifying cylinders around which the tubing is bent. (2) Unsupported bend radius for the collapse resistance test in which the tubing is not supported by a cylinder during bending.
+|                                                                                                         Nominal tubing OD                                                                                                          |Burst strength pressure|Supported bend radius <sup>1</sup>|Unsupported bend radius <sup>2</sup>|Conditioned tensile load|      |    |    |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----------------------------------|------------------------------------|------------------------|------|----|----|---|
+|                                                                                                                kPa                                                                                                                 |          Psi          |                Mm                |               inches               |           mm           |inches| N  |lbf |   |
+|                                                                                                   <sup>1</sup>⁄<sub>8</sub> inch                                                                                                   |         6900          |               1000               |                9.4                 |          0.37          | 9.4  |0.37|156 |35 |
+|                                                                                                  <sup>5</sup>⁄<sub>32</sub> inch                                                                                                   |         8300          |               1200               |                12.7                |          0.50          | 12.7 |0.50|178 |40 |
+|                                                                                                  <sup>3</sup>⁄<sub>16</sub> inch                                                                                                   |         8300          |               1200               |                19.1                |          0.75          | 19.1 |0.75|222 |50 |
+|                                                                                                   <sup>1</sup>⁄<sub>4</sub> inch                                                                                                   |         8300          |               1200               |                25.4                |          1.00          | 25.4 |1.00|222 |50 |
+|                                                                                                  <sup>5</sup>⁄<sub>16</sub> inch                                                                                                   |         6900          |               1000               |                31.8                |          1.25          | 38.1 |1.50|334 |75 |
+|                                                                                                   <sup>3</sup>⁄<sub>8</sub> inch                                                                                                   |         9700          |               1400               |                38.1                |          1.50          | 38.1 |1.50|667 |150|
+|                                                                                                   <sup>1</sup>⁄<sub>2</sub> inch                                                                                                   |         6600          |               950                |                50.8                |          2.00          | 63.5 |2.50|890 |200|
+|                                                                                                   <sup>5</sup>⁄<sub>8</sub> inch                                                                                                   |         6200          |               900                |                63.5                |          2.50          | 76.2 |3.00|1446|325|
+|                                                                                                   <sup>3</sup>⁄<sub>4</sub> inch                                                                                                   |         5500          |               800                |                76.2                |          3.00          | 88.9 |3.50|1557|350|
+|                                                                                                                6 mm                                                                                                                |         7600          |               1100               |                20.0                |          0.75          | 25.4 |1.00|222 |50 |
+|                                                                                                                8 mm                                                                                                                |         6200          |               900                |                31.8                |          1.25          | 38.1 |1.50|334 |75 |
+|                                                                                                               10 mm                                                                                                                |         8200          |               1200               |                38.1                |          1.50          | 38.1 |1.50|667 |150|
+|                                                                                                               12 mm                                                                                                                |         6900          |               1000               |                44.5                |          1.75          | 63.5 |2.50|890 |200|
+|                                                                                                               16 mm                                                                                                                |         6000          |               875                |                69.9                |          2.75          | 76.2 |3.00|1446|325|
+|**Notes:** (1) Supported bend radius for tests specifying cylinders around which the tubing is bent. (2) Unsupported bend radius for the collapse resistance test in which the tubing is not supported by a cylinder during bending.|                       |                                  |                                    |                        |      |    |    |   |
 
 S11.3.6 *Ultraviolet light resistance.* Plastic air brake tubing shall not rupture when subjected to 80 percent of the burst strength pressure in Table VIII for the size of tubing being tested, after being exposed to ultraviolet light for 300 hours and then impacted with a one pound weight dropped from a height of 12 inches. (S12.7)
 
@@ -876,7 +850,7 @@ S11.3.23 *End fitting serviceability.* A plastic air brake end fitting that uses
 
 S11.3.24 *End fitting corrosion resistance.* After 24 hours of exposure to salt spray, air brake hose end fittings shall show no base metal corrosion on the end fitting surface except where crimping or the application of labeling information causes a displacement of the protective coating. (S12.25)
 
-S12. *Test procedures - Plastic air brake tubing, plastic air brake tubing assemblies, plastic air brake tubing end fittings.*
+S12. *Test procedures—Plastic air brake tubing, plastic air brake tubing assemblies, plastic air brake tubing end fittings.*
 
 S12.1 *Air brake tubing dimensions.* Measure the tubing dimensions including wall thickness, inside diameter, and outside diameter, using appropriate metrology apparatus such as micrometers, dial indicators and gauges, or optical comparators. To account for slight out-of-round conditions, diameter measurements may be calculated using the average of the major and minor diameters.
 
@@ -914,7 +888,7 @@ S12.6 *Moisture absorption and burst strength.* (a) Prepare a sample of tubing t
 
 (e) Calculate percentage of moisture absorption as follows:
 
-([Conditioned Weight - Initial Weight] ÷ [Initial Weight]) × 100
+([Conditioned Weight—Initial Weight] ÷ [Initial Weight]) × 100
 
 (f) Install end fittings according to the end fitting manufacturers instructions.
 
@@ -934,20 +908,18 @@ S12.7 *Ultraviolet light resistance test.* (a) *Apparatus.* An accelerated weath
 
 ![](/graphics/er20de04.007.gif)
 
-Table Accompanying Figure 8
-
 |Nominal tubing outside diameter|Hole diameter “D”|     |
 |-------------------------------|-----------------|-----|
 |              mm               |     Inches      |     |
-|           1/8 inch            |      3.96       |0.156|
-|           5/32 inch           |      4.75       |0.187|
-|           3/16 inch           |      5.54       |0.218|
-|           1/4 inch            |      7.14       |0.281|
-|           5/16 inch           |      8.71       |0.343|
-|           3/8 inch            |      10.31      |0.406|
-|           1/2 inch            |      13.49      |0.531|
-|           5/8 inch            |      16.66      |0.656|
-|           3/4 inch            |      20.32      |0.800|
+|<sup>1</sup>⁄<sub>8</sub> inch |      3.96       |0.156|
+|<sup>5</sup>⁄<sub>32</sub> inch|      4.75       |0.187|
+|<sup>3</sup>⁄<sub>16</sub> inch|      5.54       |0.218|
+|<sup>1</sup>⁄<sub>4</sub> inch |      7.14       |0.281|
+|<sup>5</sup>⁄<sub>16</sub> inch|      8.71       |0.343|
+|<sup>3</sup>⁄<sub>8</sub> inch |      10.31      |0.406|
+|<sup>1</sup>⁄<sub>2</sub> inch |      13.49      |0.531|
+|<sup>5</sup>⁄<sub>8</sub> inch |      16.66      |0.656|
+|<sup>3</sup>⁄<sub>4</sub> inch |      20.32      |0.800|
 |             6 mm              |      6.80       |0.268|
 |             8 mm              |      8.80       |0.346|
 |             10 mm             |      10.80      |0.425|
@@ -1032,7 +1004,7 @@ or
 
 (5) With the tubing still mounted to the holding device, measure the elliptical minor diameter of the tubing at the reference mark to determine the final outside diameter.
 
-(c) *Calculation.* Calculate the percentage collapse of the outside diameter of the tubing as follows: ([Initial Outside Diameter - Final Outside Diameter] ÷ [Initial Outside Diameter]) × 100
+(c) *Calculation.* Calculate the percentage collapse of the outside diameter of the tubing as follows: ([Initial Outside Diameter—Final Outside Diameter] ÷ [Initial Outside Diameter]) × 100
 
 S12.16 *Ozone resistance test.* Conduct the test specified in S6.8 using plastic air brake tubing.
 
@@ -1048,7 +1020,7 @@ S12.19 *Boiling water conditioning and tensile strength.* (a) *Apparatus.* Use a
 
 (b) *Preparation.* Prepare an air brake tubing assembly with a free length of 6 inches (six inches of exposed tubing between the end fittings), with the end fittings installed in accordance with the end fitting manufacturer's instructions. If necessary install adapters on the end fittings to permit quick attachment to the machine, to keep water from entering the tubing assembly, and to ensure that the tubing assembly is in a straight position when installed on the machine. Fill the container with distilled water such that the lower 4 inches of exposed tubing will be submerged when the brake tubing assembly is installed on the machine. Heat the water until it boils. Then quickly install the plastic air brake tubing assembly on the machine with the lower end of the tubing assembly in the boiling water. After the water has boiled continuously for 5 minutes, apply tension to the tubing assembly at a rate of 1 inch per minute travel of the moving head until either the conditioned tensile load in Table VIII for the size of tubing being tested is reached or the free length of the tubing assembly reaches 9 inches, whichever occurs first.
 
-S12.20 *Thermal conditioning and tensile strength* - (a) *Apparatus.* Use a tension testing machine as specified in S8.9.
+S12.20 *Thermal conditioning and tensile strength*—(a) *Apparatus.* Use a tension testing machine as specified in S8.9.
 
 (b) *Preparation.* Prepare an air brake tubing assembly with a free length of 6 inches (six inches of exposed tubing between the end fittings), with the end fittings installed in accordance with the end fitting manufacturer's instructions. If necessary install adapters on the end fittings to permit attachment to the machine, to keep water from entering the tubing assembly, and/or to ensure that the tubing assembly is in a straight position when installed on the machine. Subject the tubing assembly to four complete cycles of the following sequence:
 
@@ -1084,7 +1056,7 @@ S12.22 *End fitting retention test.* (a) Utilize an air brake tubing assembly or
 
 (d) Increase the pressure inside the tubing assembly at a rate of 3,000 psi per minute to the burst strength pressure for the size of tubing being tested as specified in Table VIII.
 
-S12.23 *Thermal conditioning and end fitting retention test* - (a) *Apparatus.* A source of hydraulic pressure that includes a pressure gauge or monitoring system, uses ASTM IRM 903 oil, and is constructed so that an air brake tubing assembly mounted to it can be conditioned in an environmental test chamber.
+S12.23 *Thermal conditioning and end fitting retention test*—(a) *Apparatus.* A source of hydraulic pressure that includes a pressure gauge or monitoring system, uses ASTM IRM 903 oil, and is constructed so that an air brake tubing assembly mounted to it can be conditioned in an environmental test chamber.
 
 (b) *Preparation.* Utilize an air brake tubing assembly or prepare a 12 inch length of tubing and install end fittings according to the end fitting manufacturer's instructions. Attach one end of the assembly to the hydraulic pressure supply and plug the other end of the assembly, fill the assembly with ASTM IRM 903 oil and bleed any air from the assembly, and place the tubing assembly inside an environmental chamber. Conduct the following tests:
 
@@ -1098,7 +1070,7 @@ S12.23 *Thermal conditioning and end fitting retention test* - (a) *Apparatus.* 
 
 (5) With the temperature maintained at minus 40 degrees Fahrenheit (minus 40 degrees Celsius), increase the hydraulic pressure inside the tubing assembly at a rate of 3,000 psi per minute to 450 psi, and hold this pressure for 5 minutes.
 
-S12.24 *End fitting serviceability* - (a) *Apparatus.* A source of air pressure that includes a pressure gauge or monitoring system and is equipped with a mass air flow meter.
+S12.24 *End fitting serviceability*—(a) *Apparatus.* A source of air pressure that includes a pressure gauge or monitoring system and is equipped with a mass air flow meter.
 
 (b) *Preparation.* Prepare a 12-inch length of tubing and plug one end. Assemble the end fitting with the threaded retention nut on the other end of the tubing according to the end fitting manufacturer's instructions, then disassemble the fitting. Repeat the assembly and disassembly sequence three more times, and then reassemble the end fitting (five total assembly steps).
 
@@ -1114,4 +1086,4 @@ S13.2 The brake hoses and brake hose assemblies are at least 24 hours old, and u
 
 S13.3 Specified test pressures are gauge pressures (psig).
 
-[38 FR 31303, Nov. 13, 1973]Editorial Note:For Federal Register citations affecting § 571.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[38 FR 31303, Nov. 13, 1973]Editorial Note:For Federal Register citations affecting § 571.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
