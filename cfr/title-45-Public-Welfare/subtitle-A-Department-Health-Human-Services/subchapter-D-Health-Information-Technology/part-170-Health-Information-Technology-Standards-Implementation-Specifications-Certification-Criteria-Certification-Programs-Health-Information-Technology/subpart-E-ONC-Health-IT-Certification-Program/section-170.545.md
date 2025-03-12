@@ -1,5 +1,7 @@
 ##### § 170.545 Complete EHR certification. #####
 
+Link to an amendment published at 85 FR 25952, May 1, 2020.
+
 (a) When certifying Complete EHRs, an ONC-ACB must certify in accordance with all applicable certification criteria adopted by the Secretary at subpart C of this part.
 
 (b) An ONC-ACB must provide the option for a Complete EHR to be certified solely to the applicable certification criteria adopted by the Secretary at subpart C of this part.

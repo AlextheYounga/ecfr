@@ -1,14 +1,13 @@
 ##### § 230.139b Publications or distributions of covered investment fund research reports by brokers or dealers distributing securities. #####
 
-Link to an amendment published at 83 FR 64222, Dec. 13, 2018.
-
 (a) *Registered offerings.* Under the conditions of paragraph (a)(1) or (2) of this section, the publication or distribution of a covered investment fund research report by a broker or dealer that is not an investment adviser to the covered investment fund and is not an affiliated person of the investment adviser to the covered investment fund shall be deemed for purposes of sections 2(a)(10) and 5(c) of the Act not to constitute an offer for sale or offer to sell a security that is the subject of an offering pursuant to a registration statement of the covered investment fund that is effective, even if the broker or dealer is participating or may participate in the registered offering of the covered investment fund's securities. This section does not affect the availability of any other exemption or exclusion from sections 2(a)(10) or 5(c) of the Act available to the broker or dealer.
 
 (1) *Issuer-specific research reports.* (i) At the date of reliance on this section:
 
 (A) The covered investment fund:
 
-(*1*) Has been subject to the reporting requirements of section 30 of the Investment Company Act of 1940 (the “Investment Company Act”) (15 U.S.C. 80a-29) for a period of at least 12 calendar months and has filed in a timely manner all of the reports required, as applicable, to be filed for the immediately preceding 12 calendar months on Forms N-CSR (§§ 249.331 and 274.128 of this chapter), N-Q (§§ 249.332 and 274.130 of this chapter), N-PORT (§ 274.150 of this chapter), N-MFP (§ 274.201 of this chapter), and N-CEN (§§ 249.330 and 274.101 of this chapter) pursuant to section 30 of the Investment Company Act; or
+(*1*) Has been subject to the reporting requirements of section 30 of the Investment Company Act of 1940 (the “Investment Company Act”) (15 U.S.C. 80a-29) for a period of at least 12 calendar months and has filed in a timely manner all of the reports required, as applicable, to be filed for the immediately preceding 12 calendar months on Forms N-CSR (§§ 249.331 and 274.128 of this chapter),
+N-PORT (§ 274.150 of this chapter), N-MFP (§ 274.201 of this chapter), and N-CEN (§§ 249.330 and 274.101 of this chapter) pursuant to section 30 of the Investment Company Act; or
 
 (*2*) If the covered investment fund is not a registered investment company under the Investment Company Act, has been subject to the reporting requirements of section 13 or section 15(d) of the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78m or 78o(d)) for a period of at least 12 calendar months and has filed in a timely manner all of the reports required to be filed for the immediately preceding 12 calendar months on Forms 10-K (§ 249.310 of this chapter) and 10-Q (§ 249.308a of this chapter), or 20-F (§ 249.220f of this chapter) pursuant to section 13 or section 15(d) of the Exchange Act; and
 
@@ -62,4 +61,4 @@ Link to an amendment published at 83 FR 64222, Dec. 13, 2018.
 
 (6) *Research report* means a written communication, as defined in § 230.405 that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.
 
-[83 FR 64220, Dec. 13, 2018]
+[83 FR 64220, 64222, Dec. 13, 2018]

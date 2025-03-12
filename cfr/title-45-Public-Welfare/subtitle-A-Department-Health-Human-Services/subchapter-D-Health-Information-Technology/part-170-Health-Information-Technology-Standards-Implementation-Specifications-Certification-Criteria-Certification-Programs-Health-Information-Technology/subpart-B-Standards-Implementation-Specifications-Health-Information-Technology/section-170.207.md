@@ -1,5 +1,7 @@
 ##### § 170.207 Vocabulary standards for representing electronic health information. #####
 
+Link to an amendment published at 85 FR 25940, May 1, 2020.
+
 The Secretary adopts the following code sets, terminology, and nomenclature as the vocabulary standards for the purpose of representing electronic health information:
 
 (a) *Problems.* (1) [Reserved]

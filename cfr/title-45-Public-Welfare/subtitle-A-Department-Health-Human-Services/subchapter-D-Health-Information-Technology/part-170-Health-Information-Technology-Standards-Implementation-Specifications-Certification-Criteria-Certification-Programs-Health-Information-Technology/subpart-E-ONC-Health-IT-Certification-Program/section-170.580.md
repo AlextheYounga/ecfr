@@ -1,5 +1,7 @@
 ##### § 170.580 ONC review of certified health IT. #####
 
+Link to an amendment published at 85 FR 25953, May 1, 2020.
+
 (a) *Direct review* - (1) *Purpose.* ONC may directly review certified health IT to determine whether it conforms to the requirements of the ONC Health IT Certification Program.
 
 (2) *Circumstances that may trigger review* - (i) *Unsafe conditions.* ONC may initiate direct review under this section if it has a reasonable belief that certified health IT may not conform to the requirements of the Program because the certified health IT may be causing or contributing to conditions that present a serious risk to public health or safety, taking into consideration -

@@ -1,5 +1,7 @@
 ##### § 406.26 Enrollment under State buy-in. #####
 
+Link to an amendment published at 85 FR 25632, May 1, 2020.
+
 (a) *Enrollment of QMBs under a State buy-in agreement* - (1) *Effective date.* Beginning with calendar year 1990, a State may request and be granted a modification of its buy-in agreement to include enrollment and payment of Part A premiums for QMBs (as defined in section 1905(p)(1) of the Act) who can become entitled to Medicare Part A only by paying a premium.
 
 (2) *Amount of premium.* Premiums paid under State buy-in are not subject to increase because of late enrollment or reenrollment.

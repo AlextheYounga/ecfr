@@ -1,0 +1,3 @@
+##### § 802.1106 Waiver. #####
+
+If the Staff Chairperson determines that extraordinary circumstances relating to national security warrant, the Staff Chairperson may waive the filing fee in whole or in part and will notify the parties in writing. No waiver shall be implied, even where the Staff Chairperson does not reject a voluntary notice under § 802.1108 for failure to pay the required filing fee.

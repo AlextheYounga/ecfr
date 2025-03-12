@@ -1,5 +1,7 @@
 ##### § 170.556 In-the-field surveillance and maintenance of certification for Health IT. #####
 
+Link to an amendment published at 85 FR 25952, May 1, 2020.
+
 (a) *In-the-field surveillance.* Consistent with its accreditation to ISO/IEC 17065 and the requirements of this subpart, an ONC-ACB must initiate surveillance “in the field” as necessary to assess whether a certified Complete EHR or certified Health IT Module continues to conform to the requirements of its certification once the certified Complete EHR or certified Health IT Module has been implemented and is in use in a production environment.
 
 (1) *Production environment.* An ONC-ACB's assessment of a certified capability in the field must be based on the use of the capability in a production environment, which means a live environment in which the capability has been implemented and is in use.

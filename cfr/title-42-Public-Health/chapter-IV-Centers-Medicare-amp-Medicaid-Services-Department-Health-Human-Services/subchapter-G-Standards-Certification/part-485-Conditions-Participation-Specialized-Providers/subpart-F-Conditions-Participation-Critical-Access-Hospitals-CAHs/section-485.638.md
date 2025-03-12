@@ -1,5 +1,7 @@
 ##### § 485.638 Conditions of participation: Clinical records. #####
 
+Link to an amendment published at 85 FR 25638, May 1, 2020.
+
 (a) *Standard: Records system* - (1) The CAH maintains a clinical records system in accordance with written policies and procedures.
 
 (2) The records are legible, complete, accurately documented, readily accessible, and systematically organized.

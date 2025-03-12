@@ -1,5 +1,7 @@
 ##### § 482.24 Condition of participation: Medical record services. #####
 
+Link to an amendment published at 85 FR 25637, May 1, 2020.
+
 The hospital must have a medical record service that has administrative responsibility for medical records. A medical record must be maintained for every individual evaluated or treated in the hospital.
 
 (a) *Standard: Organization and staffing.* The organization of the medical record service must be appropriate to the scope and complexity of the services performed. The hospital must employ adequate personnel to ensure prompt completion, filing, and retrieval of records.

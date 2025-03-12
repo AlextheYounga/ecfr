@@ -1,6 +1,6 @@
 ##### § 230.498 Summary Prospectuses for open-end management investment companies. #####
 
-Link to an amendment published at 83 FR 29204, June 22, 2018.
+Link to an amendment published at 83 FR 29204, June 22, 2018.Link to an amendment published at 85 FR 26094, May 1, 2020.
 
 (a) *Definitions.* For purposes of this section:
 

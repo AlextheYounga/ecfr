@@ -6,6 +6,4 @@
 
 (c) Priority Access Licensees may enter into spectrum manager leasing arrangements with approved entities as prescribed in § 1.9046 of this chapter. Priority Access Licensees may only enter into leasing arrangements for areas that are within their Service Area and outside of their PAL Protection Areas.
 
-(d) Paragraph (b) of this section contains information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (d) accordingly.
-
-[81 FR 49068, July 26, 2016, as amended at 83 FR 63096, Dec. 7, 2018]
+[81 FR 49068, July 26, 2016, as amended at 83 FR 63096, Dec. 7, 2018; 85 FR 25315, May 1, 2020]]

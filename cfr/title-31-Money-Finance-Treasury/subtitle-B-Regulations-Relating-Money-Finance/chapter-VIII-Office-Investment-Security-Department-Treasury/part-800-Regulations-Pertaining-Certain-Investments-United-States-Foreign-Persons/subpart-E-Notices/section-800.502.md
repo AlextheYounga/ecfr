@@ -1,7 +1,5 @@
 ##### § 800.502 Contents of voluntary notices. #####
 
-Link to an amendment published at 85 FR 23740, Apr. 29, 2020.
-
 (a) If the parties to a transaction file a voluntary notice, they shall provide in detail the information set out in this section, which must be accurate and complete with respect to all parties and to the transaction. (See also paragraph (l) of this section and § 800.204 regarding certification requirements.)
 
 (b) If fewer than all parties to a transaction file a voluntary notice, for example in the case of a hostile takeover, each notifying party shall provide the information set out in this section with respect to itself and, to the extent known or reasonably available to it, with respect to each non-notifying party.
@@ -30,7 +28,9 @@ Link to an amendment published at 85 FR 23740, Apr. 29, 2020.
 
 (vii) The actual or expected completion date of the transaction;
 
-(viii) A good faith approximation of the net value of the interest acquired in the U.S. business in U.S. dollars, as of the date of the notice;
+(viii)(A) The value of the transaction in U.S. dollars, as determined under § 800.1103, and the parties' assessment of the applicable fee due under § 800.1101, including an explanation of the methodology used to determine such valuation and applicable fee; and
+
+(B) If different than the value of the transaction provided in paragraph (c)(1)(viii)(A) of this section, a good faith approximation of the net value of the interest acquired in the U.S. business in U.S. dollars, as of the date of the notice.
 
 (ix) The name of any and all financial institutions involved in the transaction, including as advisors, underwriters, or sources of financing for the transaction;
 
@@ -68,7 +68,7 @@ Link to an amendment published at 85 FR 23740, Apr. 29, 2020.
 
 (B) In the case of services, it provides on behalf of, or under the name of, another entity, and the name of any such entities;
 
-(vii) For the prior three years -
+(vii) For the prior three years—
 
 (A) A list of priority rated contracts or orders under DPAS) regulation that the U.S. business that is the subject of the transaction has received and the level of priority of such contracts or orders (“DX” or “DO”); and
 
@@ -242,4 +242,4 @@ Link to an amendment published at 85 FR 23740, Apr. 29, 2020.
 
 (o) A party filing a voluntary notice may stipulate that the transaction is a covered transaction and, if the party stipulates that the transaction is a covered transaction, that the transaction is a foreign government-controlled transaction. A stipulation offered by any party under this section must be accompanied by a detailed description of the basis for the stipulation. The required description of the basis shall include discussion of all relevant information responsive to paragraphs (c)(5)(iii) through (v) of this section. A party that offers such a stipulation acknowledges that the Committee and the President are entitled to rely on such stipulation in determining whether the transaction is a covered transaction, a foreign government-controlled transaction, and/or subject to mandatory declaration or notice for the purposes of section 721 and all authorities thereunder, and waives the right to challenge any such determination. Neither the Committee nor the President is bound by any such stipulation, nor does any such stipulation limit the ability of the Committee or the President to act on any authority provided under section 721 with respect to any covered transaction.
 
-[85 FR 3124, Jan. 17, 2020; 85 FR 8747, Feb. 18, 2020]
+[85 FR 3124, Jan. 17, 2020; 85 FR 8747, Feb. 18, 2020, as amended at 85 FR 23740, Apr. 29, 2020]

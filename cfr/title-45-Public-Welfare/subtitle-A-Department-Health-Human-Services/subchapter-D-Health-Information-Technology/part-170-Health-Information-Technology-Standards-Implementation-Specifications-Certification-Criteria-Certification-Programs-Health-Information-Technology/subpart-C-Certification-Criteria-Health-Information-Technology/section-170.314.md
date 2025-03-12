@@ -1,5 +1,7 @@
 ##### § 170.314 2014 Edition electronic health record certification criteria. #####
 
+Link to an amendment published at 85 FR 25941, May 1, 2020.
+
 The Secretary adopts the following certification criteria for Complete EHRs or EHR Modules. Complete EHRs or EHR Modules must include the capability to perform the following functions electronically, unless designated as optional, and in accordance with all applicable standards and implementation specifications adopted in this part:
 
 (a) *Clinical* - (1) *Computerized provider order entry.* Enable a user to electronically record, change, and access the following order types, at a minimum:

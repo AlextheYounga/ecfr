@@ -1,5 +1,7 @@
 ##### § 170.570 Effect of revocation on the certifications issued to Complete EHRs and EHR Module(s). #####
 
+Link to an amendment published at 85 FR 25953, May 1, 2020.
+
 (a) The certified status of Complete EHRs and/or Health IT Module(s) certified by an ONC-ACB or tested by an ONC-ATL that had its status revoked will remain intact unless a Type-1 violation was committed by the ONC-ACB and/or ONC-ATL that calls into question the legitimacy of the certifications issued.
 
 (b) If the National Coordinator determines that a Type-1 violation was committed by an ONC-ACB and/or ONC-ATL that called into question the legitimacy of certifications issued to health IT, then the National Coordinator would:

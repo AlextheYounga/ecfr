@@ -1,5 +1,7 @@
 ##### § 423.910 Requirements. #####
 
+Link to an amendment published at 85 FR 25634, May 1, 2020.
+
 (a) *General rule.* Each of the 50 States and the District of Columbia is required to provide for payment to CMS a phased-down contribution to defray a portion of the Medicare drug expenditures for individuals whose projected Medicaid drug coverage is assumed by Medicare Part D.
 
 (b) *State contribution payment* -

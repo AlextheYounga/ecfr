@@ -1,5 +1,7 @@
 ##### § 170.523 Principles of proper conduct for ONC-ACBs. #####
 
+Link to an amendment published at 85 FR 25950, May 1, 2020.
+
 An ONC-ACB shall:
 
 (a) Maintain its accreditation, or if a new ONC-AA is approved by the National Coordinator, obtain accreditation from the new ONC-AA within 12 months or a reasonable period specified by the National Coordinator and maintain such accreditation;

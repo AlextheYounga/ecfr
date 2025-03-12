@@ -1,5 +1,7 @@
 ##### § 170.520 Application. #####
 
+Link to an amendment published at 85 FR 25950, May 1, 2020.
+
 (a) *ONC-ACB application.* Applicants must include the following information in an application for ONC-ACB status and submit it to the National Coordinator for the application to be considered complete.
 
 (1) The type of authorization sought pursuant to § 170.510. For authorization to perform Health IT Module certification, applicants must indicate the specific type(s) of Health IT Module(s) they seek authorization to certify. If qualified, applicants will only be granted authorization to certify the type(s) of Health IT Module(s) for which they seek authorization.

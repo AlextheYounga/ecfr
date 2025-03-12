@@ -1,5 +1,7 @@
 ##### § 170.205 Content exchange standards and implementation specifications for exchanging electronic health information. #####
 
+Link to an amendment published at 85 FR 25940, May 1, 2020.
+
 The Secretary adopts the following content exchange standards and associated implementation specifications:
 
 (a) *Patient summary record* - (1) *Standard.* Health Level Seven Clinical Document Architecture (CDA) Release 2, Continuity of Care Document (CCD) (incorporated by reference in § 170.299). *Implementation specifications.* The Healthcare Information Technology Standards Panel (HITSP) Summary Documents Using HL7 CCD Component HITSP/C32 (incorporated by reference in § 170.299).

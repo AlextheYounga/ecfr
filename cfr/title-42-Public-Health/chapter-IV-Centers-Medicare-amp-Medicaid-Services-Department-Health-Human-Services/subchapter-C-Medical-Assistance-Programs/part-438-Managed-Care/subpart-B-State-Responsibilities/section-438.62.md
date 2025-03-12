@@ -1,5 +1,7 @@
 ##### § 438.62 Continued services to enrollees. #####
 
+Link to an amendment published at 85 FR 25635, May 1, 2020.
+
 (a) The State agency must arrange for Medicaid services to be provided without delay to any Medicaid enrollee of an MCO, PIHP, PAHP, PCCM, or PCCM entity the contract of which is terminated and for any Medicaid enrollee who is disenrolled from an MCO, PIHP, PAHP, PCCM, or PCCM entity for any reason other than ineligibility for Medicaid.
 
 (b) The State must have in effect a transition of care policy to ensure continued access to services during a transition from FFS to a MCO, PIHP, PAHP, PCCM or PCCM entity or transition from one MCO, PIHP, PAHP, PCCM or PCCM entity to another when an enrollee, in the absence of continued services, would suffer serious detriment to their health or be at risk of hospitalization or institutionalization.

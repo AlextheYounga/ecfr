@@ -1,12 +1,10 @@
 ##### § 648.322 Skate allocation, possession, and landing provisions. #####
 
-Link to an amendment published at 85 FR 23242, Apr. 27, 2020.
-
 (a) *Allocation of TAL.* (1) A total of 66.5 percent of the annual skate complex TAL shall be allocated to the skate wing fishery. All skate products that are landed in wing form, for the skate wing market, or classified by Federal dealers as food as required under § 648.7(a)(1)(i), shall count against the skate wing fishery TAL. The annual skate wing fishery TAL shall be allocated in two seasonal quota periods as follows:
 
-(i) Season 1 - May 1 through August 31, 57 percent of the annual skate wing fishery TAL shall be allocated;
+(i) Season 1—May 1 through August 31, 57 percent of the annual skate wing fishery TAL shall be allocated;
 
-(ii) Season 2 - September 1 through April 30, the remainder of the annual skate wing fishery TAL not landed in Season 1 shall be allocated.
+(ii) Season 2—September 1 through April 30, the remainder of the annual skate wing fishery TAL not landed in Season 1 shall be allocated.
 
 (2) A total of 33.5 percent of the annual TAL shall be allocated to the skate bait fishery. All skate products that are landed for the skate bait market, or classified by Federal dealers as bait as required under § 648.7(a)(1)(i), shall count against the skate bait fishery TAL. The annual skate bait fishery TAL shall be allocated in three seasonal quota periods as follows:
 
@@ -16,9 +14,9 @@ Link to an amendment published at 85 FR 23242, Apr. 27, 2020.
 
 (iii) Season 3-November 1 through April 30, the remainder of the annual skate bait fishery TAL not landed in Seasons 1 or 2 shall be allocated.
 
-(b) *Skate wing possession and landing limits* - (1) *Vessels fishing under an Atlantic sea scallop, NE multispecies, or monkfish DAS.* (i) A vessel or operator of a vessel that has been issued a valid Federal skate permit under this part, and fishes under an Atlantic sea scallop, NE multispecies, or monkfish DAS as specified at §§ 648.53, 648.82, and 648.92, respectively, unless otherwise exempted under § 648.80 or paragraph (c) of this section, may fish for, possess, and/or land up to the allowable trip limits specified as follows: Up to 2,600 lb (1,179 kg) of skate wings (5,902 lb (2,677 kg) whole weight) per trip in Season 1 (May 1 through August 31), and 4,100 lb (1,860 kg) of skate wings (9,307 lb (4,222 kg) whole weight) per trip in Season 2 (September 1 through April 30), or any prorated combination of the allowable landing forms defined at paragraph (b)(5) of this section.
+(b) *Skate wing possession and landing limits*—(1) *Vessels fishing under an Atlantic sea scallop, NE multispecies, or monkfish DAS.* (i) A vessel or operator of a vessel that has been issued a valid Federal skate permit under this part, and fishes under an Atlantic sea scallop, NE multispecies, or monkfish DAS as specified at §§ 648.53, 648.82, and 648.92, respectively, unless otherwise exempted under § 648.80 or paragraph (c) of this section, may fish for, possess, and/or land up to the allowable trip limits specified as follows: Up to 3,000 lb (1,361 kg) of skate wings (6,810 lb (3,089 kg) whole weight) per trip in Season 1 (May 1 through August 31), and 5,000 lb (2,268 kg) of skate wings (11,350 lb (5,148 kg) whole weight) per trip in Season 2 (September 1 through April 30), or any prorated combination of the allowable landing forms defined at paragraph (b)(5) of this section.
 
-(ii) When fishing under the possession limits specified in paragraph (b)(1)(i) of this section, a vessel is allowed to possess and land up to 650 lb (295 kg) of barndoor skate wings (1,476 lb (670 kg) whole weight) per trip in Season 1, and 1,025 lb (465 kg) of barndoor skate wings (2,327 lb (1,056 kg) whole weight) per trip in Season 2. The possession limits for barndoor skate wings are included within the overall possession limit (*i.e.,* total pounds of skate wings on board, including barndoor skate wings, are not allowed to exceed 2,600 lb in Season 1 and 4,100 lb in Season 2). Vessels are prohibited from discarding any skate wings when in possession of barndoor skate wings. Barndoor skate wings and carcasses on board a vessel subject to this possession limit must be separated from other species of fish and stored so as to be readily available for inspection.
+(ii) When fishing under the possession limits specified in paragraph (b)(1)(i) of this section, a vessel is allowed to possess and land up to 750 lb (340 kg) of barndoor skate wings (1,702 lb (772 kg) whole weight) per trip in Season 1, and 1,250 lb (567 kg) of barndoor skate wings (2,837 lb (1,287 kg) whole weight) per trip in Season 2. The possession limits for barndoor skate wings are included within the overall possession limit (*i.e.,* total pounds of skate wings on board, including barndoor skate wings, are not allowed to exceed 3,000 lb (1,361 kg) in Season 1 and 5,000 lb (2,268 kg) in Season 2). Vessels are prohibited from discarding any skate wings when in possession of barndoor skate wings. Barndoor skate wings and carcasses on board a vessel subject to this possession limit must be separated from other species of fish and stored so as to be readily available for inspection.
 
 (2) *NE multispecies Category B DAS.* A vessel fishing on a declared NE multispecies Category B DAS described under § 648.85(b), is limited to no more than 220 lb (100 kg) of skate wings (500 lb (227 kg) whole weight) per trip, or any prorated combination of the allowable landing forms defined at paragraph (b)(5) of this section. These vessels may not possess or land barndoor skate, or any other prohibited skate species (see § 648.14(v)(2) and paragraph (g) of this section).
 
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 23242, Apr. 27, 2020.
 
 (2) The vessel owner or operator fishes for, possesses, or lands skates only for use as bait.
 
-(3) The vessel owner or operator possesses or lands no more than 25,000 lb (11,340 kg) of whole skates per trip during Seasons 1 or 2 and no more than 12,000 lb (5,443 kg) of whole skates per trip during Season 3.
+(3) The vessel owner or operator possesses or lands no more than 25,000 lb (11,340 kg) of whole skates per trip.
 
 (4) The vessel owner or operator possesses or lands only whole skates less than 23 inches (58.42 cm) total length, and does not possess or land any skate wings.
 
@@ -64,4 +62,4 @@ Link to an amendment published at 85 FR 23242, Apr. 27, 2020.
 
 (4) Retain, possess, or land smooth skates taken in or from the GOM RMA described at § 648.80(a)(1)(i).
 
-[75 FR 34060, June 16, 2010, as amended at 76 FR 28331, May 17, 2011; 77 FR 25100, Apr. 27, 2012; 81 FR 54747, Aug. 17, 2016; 83 FR 6135, Feb. 13, 2018; 83 FR 48988, Sept. 28, 2018]
+[75 FR 34060, June 16, 2010, as amended at 76 FR 28331, May 17, 2011; 77 FR 25100, Apr. 27, 2012; 81 FR 54747, Aug. 17, 2016; 83 FR 6135, Feb. 13, 2018; 83 FR 48988, Sept. 28, 2018; 85 FR 23242, Apr. 27, 2020]

@@ -1,5 +1,7 @@
 ##### § 230.159A Certain definitions for purposes of section 12(a)(2) of the Act. #####
 
+Link to an amendment published at 85 FR 26093, May 1, 2020.
+
 (a) *Definition of seller for purposes of section 12(a)(2) of the Act.* For purposes of section 12(a)(2) of the Act only, in a primary offering of securities of the issuer, regardless of the underwriting method used to sell the issuer's securities, *seller* shall include the issuer of the securities sold to a person as part of the initial distribution of such securities, and the issuer shall be considered to offer or sell the securities to such person, if the securities are offered or sold to such person by means of any of the following communications:
 
 (1) Any preliminary prospectus or prospectus of the issuer relating to the offering required to be filed pursuant to Rule 424 (§ 230.424) or Rule 497 (§ 230.497);

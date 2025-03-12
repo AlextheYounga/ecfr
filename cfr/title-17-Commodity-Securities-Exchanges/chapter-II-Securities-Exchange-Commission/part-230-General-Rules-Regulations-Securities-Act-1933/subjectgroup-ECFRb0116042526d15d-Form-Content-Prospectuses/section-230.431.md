@@ -1,5 +1,7 @@
 ##### § 230.431 Summary prospectuses. #####
 
+Link to an amendment published at 85 FR 26093, May 1, 2020.
+
 (a) A summary prospectus prepared and filed (except a summary prospectus filed by an open-end management investment company registered under the Investment Company Act of 1940) as part of a registration statement in accordance with this section shall be deemed to be a prospectus permitted under section 10(b) of the Act (15 U.S.C. 77j(b)) for the purposes of section 5(b)(1) of the Act (15 U.S.C. 77e(b)(1)) if the form used for registration of the securities to be offered provides for the use of a summary prospectus and the following conditions are met:
 
 (1)(i) The registrant is organized under the laws of the United States or any State or Territory or the District of Columbia and has its principal business operations in the United States or its territories; or

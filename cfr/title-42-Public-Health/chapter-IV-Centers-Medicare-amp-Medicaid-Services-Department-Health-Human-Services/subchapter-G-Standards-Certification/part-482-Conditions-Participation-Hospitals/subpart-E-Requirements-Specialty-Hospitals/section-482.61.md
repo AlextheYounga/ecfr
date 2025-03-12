@@ -1,5 +1,7 @@
 ##### § 482.61 Condition of participation: Special medical record requirements for psychiatric hospitals. #####
 
+Link to an amendment published at 85 FR 25637, May 1, 2020.
+
 The medical records maintained by a psychiatric hospital must permit determination of the degree and intensity of the treatment provided to individuals who are furnished services in the institution.
 
 (a) *Standard: Development of assessment/diagnostic data.* Medical records must stress the psychiatric components of the record, including history of findings and treatment provided for the psychiatric condition for which the patient is hospitalized.

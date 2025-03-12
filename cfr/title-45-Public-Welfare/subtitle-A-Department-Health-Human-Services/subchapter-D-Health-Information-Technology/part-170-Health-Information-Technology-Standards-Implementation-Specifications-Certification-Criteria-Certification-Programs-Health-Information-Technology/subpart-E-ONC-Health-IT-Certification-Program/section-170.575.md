@@ -1,5 +1,7 @@
 ##### § 170.575 Removal of the ONC-AA. #####
 
+Link to an amendment published at 85 FR 25953, May 1, 2020.
+
 (a) *Conduct violations.* The National Coordinator may remove the ONC-AA for committing a conduct violation. Conduct violations include violations of law or ONC Health IT Certification Program policies that threaten or significantly undermine the integrity of the ONC Health IT Certification Program. These violations include, but are not limited to: false, fraudulent, or abusive activities that affect the ONC Health IT Certification Program, a program administered by HHS, or any program administered by the Federal government.
 
 (b) *Performance violations.* The National Coordinator may remove the ONC-AA for failing to timely or adequately correct a performance violation. Performance violations constitute a failure to adequately perform the ONC-AA's responsibilities as specified in § 170.503(e).

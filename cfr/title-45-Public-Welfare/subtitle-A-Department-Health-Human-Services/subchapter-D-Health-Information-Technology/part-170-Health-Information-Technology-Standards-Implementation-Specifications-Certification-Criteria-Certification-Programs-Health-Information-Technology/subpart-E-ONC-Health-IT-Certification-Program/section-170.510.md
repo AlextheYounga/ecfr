@@ -1,5 +1,7 @@
 ##### § 170.510 Authorization scope for ONC-ACB status. #####
 
+Link to an amendment published at 85 FR 25950, May 1, 2020.
+
 Applicants for ONC-ACB status may seek authorization from the National Coordinator to perform the following types of certification:
 
 (a) Complete EHR certification; and/or

@@ -1,5 +1,7 @@
 ##### § 170.504 Reconsideration process for requests for ONC-AA status. #####
 
+Link to an amendment published at 85 FR 25950, May 1, 2020.
+
 (a) An accreditation organization that submits a timely request for ONC-AA status in accordance with § 170.503 and is denied may request reconsideration of the decision to deny its request for ONC-AA status.
 
 (b) *Submission requirement.* To request reconsideration, an accreditation organization is required to submit to the National Coordinator, within 15 days of receipt of a denial notice, a written statement with supporting documentation contesting the decision to deny its request for ONC-AA status. The submission must demonstrate that clear, factual errors were made in the review of its request for ONC-AA status and that the accreditation organization would have been selected as the ONC-AA pursuant to § 170.503(c) if those errors had been corrected. If the National Coordinator does not receive an accreditation organization's submission within the specified timeframe, then its request for reconsideration may be denied.

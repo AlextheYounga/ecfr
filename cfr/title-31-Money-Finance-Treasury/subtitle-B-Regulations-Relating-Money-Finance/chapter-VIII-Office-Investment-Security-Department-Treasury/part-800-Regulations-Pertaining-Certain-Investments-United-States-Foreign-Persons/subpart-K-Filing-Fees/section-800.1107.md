@@ -1,0 +1,3 @@
+##### § 800.1107 Refilings. #####
+
+The parties to a transaction shall not be required to pay an additional filing fee in the event that the Staff Chairperson permits the parties to withdraw and refile a notice under § 800.509(c)(2), unless the Staff Chairperson determines that a material change to the transaction has occurred, or a material inaccuracy or omission was made by the parties in information provided to the Committee, that requires the Committee to consider new information, in which case the Staff Chairperson will inform the parties in writing.

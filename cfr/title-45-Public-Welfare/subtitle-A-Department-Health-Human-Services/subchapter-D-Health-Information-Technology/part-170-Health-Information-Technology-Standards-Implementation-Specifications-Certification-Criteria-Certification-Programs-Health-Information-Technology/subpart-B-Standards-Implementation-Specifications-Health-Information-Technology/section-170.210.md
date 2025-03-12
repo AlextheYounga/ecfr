@@ -1,5 +1,7 @@
 ##### § 170.210 Standards for health information technology to protect electronic health information created, maintained, and exchanged. #####
 
+Link to an amendment published at 85 FR 25940, May 1, 2020.
+
 The Secretary adopts the following standards to protect electronic health information created, maintained, and exchanged:
 
 (a) *Encryption and decryption of electronic health information* - (1) *General.* Any encryption algorithm identified by the National Institute of Standards and Technology (NIST) as an approved security function in Annex A of the Federal Information Processing Standards (FIPS) Publication 140-2, (January 27, 2010) (incorporated by reference in § 170.299).

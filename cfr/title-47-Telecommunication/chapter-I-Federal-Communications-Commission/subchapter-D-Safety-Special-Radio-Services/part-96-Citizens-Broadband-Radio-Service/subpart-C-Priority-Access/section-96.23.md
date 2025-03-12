@@ -16,6 +16,4 @@
 
 (c) Records pertaining to PALs, including applications and licenses, shall be maintained by the Commission in a publicly accessible system.
 
-(d) Paragraph (a) of this section contains information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (d) accordingly.
-
-[80 FR 36222, June 23, 2015, as amended at 83 FR 63095, Dec. 7, 2018]
+[80 FR 36222, June 23, 2015, as amended at 83 FR 63095, Dec. 7, 2018; 85 FR 25315, May 1, 2020]

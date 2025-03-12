@@ -24,8 +24,6 @@
 
 (ii) *Safe harbor for fixed point-to-point service.* A Priority Access Licensee providing a fixed point-to-point service may demonstrate substantial service by showing that it has constructed and operates at least four links, either to customers or for internal use, in license areas with 134,000 population or less and in license areas with greater population, a minimum number of links equal to the population of the license area divided by 33,500 and rounded up to the nearest whole number. To satisfy this provision, such links must operate using registered Category B CBSDs.
 
-(5) *Compliance date.* Paragraph (b)(4) of this section contains information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (b)(5) accordingly.
-
 (c) *PAL Protection Areas.* PAL channels shall be made available for assignment by the SAS for General Authorized Access use only in areas outside of PAL Protection Areas consistent with this section and § 96.41(d).
 
 (1) A CBSD will be considered to be in use for purposes of calculating a PAL Protection Area once it is registered and authorized for use on a Priority Access basis by an SAS consistent with §§ 96.39, 96.53, and 96.57.
@@ -42,4 +40,4 @@
 
 (3) The PAL Protection Area may not extend beyond the boundaries of the Priority Access Licensee's Service Area.
 
-[80 FR 36222, June 23, 2015, as amended at 81 FR 49067, July 26, 2016; 83 FR 63096, Dec. 7, 2018]
+[80 FR 36222, June 23, 2015, as amended at 81 FR 49067, July 26, 2016; 83 FR 63096, Dec. 7, 2018; 85 FR 25315, May 1, 2020]]

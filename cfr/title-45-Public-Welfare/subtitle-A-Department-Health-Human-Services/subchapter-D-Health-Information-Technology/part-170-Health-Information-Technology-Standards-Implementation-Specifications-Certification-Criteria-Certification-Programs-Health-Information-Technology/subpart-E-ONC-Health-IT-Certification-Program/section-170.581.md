@@ -1,5 +1,7 @@
 ##### § 170.581 Certification ban. #####
 
+Link to an amendment published at 85 FR 25954, May 1, 2020.
+
 (a) *Ban.* The certification of any of a health IT developer's health IT is prohibited when the certification of one or more of the health IT developer's Complete EHRs or Health IT Modules is:
 
 (1) Terminated by ONC under the ONC Health IT Certification Program;

@@ -1,7 +1,5 @@
 ##### § 802.502 Contents of voluntary notices. #####
 
-Link to an amendment published at 85 FR 23742, Apr. 29, 2020.
-
 (a) If a party or the parties to a transaction file a voluntary notice, they shall provide in detail the information set out in this section, which must be accurate and complete with respect to the party or parties filing the voluntary notice and to the transaction. (See also paragraph (k) of this section regarding U.S. public entities and paragraph (h) of this section and § 802.202 regarding certification requirements.)
 
 (b) A voluntary notice filed under § 802.501 shall describe or provide, as applicable:
@@ -30,7 +28,9 @@ Link to an amendment published at 85 FR 23742, Apr. 29, 2020.
 
 (viii) The actual or expected completion date of the transaction;
 
-(ix) A good faith approximation of the fair market value of the interest acquired in the covered real estate in U.S. dollars, as of the date of the notice;
+(ix)(A) The value of the transaction in U.S. dollars, as determined under § 802.1103, and the parties' assessment of the applicable fee due under § 802.1101, including an explanation of the methodology used to determine such valuation and applicable fee; and
+
+(B) If different than the value of the transaction provided in paragraph (b)(1)(ix)(A) of this section, a good faith approximation of the fair market value of the interest acquired in the covered real estate in U.S. dollars, as of the date of the notice.
 
 (x) The name of any and all financial institutions and real estate agents/brokers involved in the transaction, including as advisors, underwriters, or sources of financing for the transaction;
 
@@ -157,3 +157,5 @@ Link to an amendment published at 85 FR 23742, Apr. 29, 2020.
 (k) In the case of a transaction where a U.S. public entity is a party to the transaction, the notifying party or parties may be the non-U.S. public entity. Each notifying party shall provide the information set out in this section with respect to itself and, to the extent known or reasonably available to it, with respect to the U.S. public entity.
 
 (l) At the conclusion of a review or investigation, each party that has filed additional information subsequent to the original notice shall file a final certification. (See § 802.202.) A sample certification may be found at the Committee's section of the Department of the Treasury website.
+
+[85 FR 3166, Jan. 17, 2020, as amended at 85 FR 23742, Apr. 29, 2020]

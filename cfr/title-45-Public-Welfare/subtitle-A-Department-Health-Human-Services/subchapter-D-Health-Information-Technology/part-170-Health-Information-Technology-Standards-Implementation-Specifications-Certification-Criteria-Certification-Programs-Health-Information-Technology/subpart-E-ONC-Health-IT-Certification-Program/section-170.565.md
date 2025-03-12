@@ -1,5 +1,7 @@
 ##### § 170.565 Revocation of ONC-ACB or ONC-ATL status. #####
 
+Link to an amendment published at 85 FR 25953, May 1, 2020.
+
 (a) *Type-1 violations.* The National Coordinator may revoke an ONC-ATL or ONC-ACB's status for committing a Type-1 violation. Type-1 violations include violations of law or ONC Health IT Certification Program policies that threaten or significantly undermine the integrity of the ONC Health IT Certification Program. These violations include, but are not limited to: False, fraudulent, or abusive activities that affect the ONC Health IT Certification Program, a program administered by HHS or any program administered by the federal government.
 
 (b) *Type-2 violations.* The National Coordinator may revoke an ONC-ATL or ONC-ACB's status for failing to timely or adequately correct a Type-2 violation. Type-2 violations constitute noncompliance with § 170.560.

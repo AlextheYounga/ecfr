@@ -1,5 +1,7 @@
 ##### § 170.599 Incorporation by reference. #####
 
+Link to an amendment published at 85 FR 25955, May 1, 2020.
+
 (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Health and Human Services must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology, 330 C Street SW., Washington, DC 20201, call ahead to arrange for inspection at 202-690-7151, and is available from the source listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) International Organization for Standardization, Case postale 56, CH·1211, Geneve 20, Switzerland, telephone +41-22-749-01-11, *http://www.iso.org.*

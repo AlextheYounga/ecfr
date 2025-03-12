@@ -1,5 +1,7 @@
 ##### § 457.700 Basis, scope, and applicability. #####
 
+Link to an amendment published at 85 FR 25635, May 1, 2020.
+
 (a) *Statutory basis.* This subpart implements -
 
 (1) Sections 2107(a), (b) and (d) of the Act, which set forth requirements for strategic planning, reports, and program budgets; and

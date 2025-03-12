@@ -1,5 +1,7 @@
 ##### § 170.503 Requests for ONC-AA status and ONC-AA ongoing responsibilities. #####
 
+Link to an amendment published at 85 FR 25950, May 1, 2020.
+
 (a) The National Coordinator may approve only one ONC-AA at a time.
 
 (b) *Submission.* The National Coordinator will publish a notice in the Federal Register to announce the 30-day period during which requests for ONC-AA status may be submitted. In order to be considered for ONC-AA status, an accreditation organization must submit a timely request in writing to the National Coordinator along with the following information to demonstrate its ability to serve as an ONC-AA:

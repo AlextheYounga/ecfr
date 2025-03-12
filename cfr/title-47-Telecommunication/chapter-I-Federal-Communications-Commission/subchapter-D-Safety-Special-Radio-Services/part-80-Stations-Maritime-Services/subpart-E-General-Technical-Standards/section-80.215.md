@@ -18,103 +18,103 @@
 
 (i) Radiotelegraphy:
 
-100-160 kHz - 80kW405-525 kHz - 40kW2035-2065 kHz - 6.6kW4000-8000 kHz - 10kW8000-9000 kHz - 20kW12000-27500 kHz - 30kW
+100-160 kHz—80kW405-525 kHz—40kW2035-2065 kHz—6.6kW4000-8000 kHz—10kW8000-9000 kHz—20kW12000-27500 kHz—30kW
 
 (ii) Radiotelephony:
 
-2000-4000 kHz - day - 800W2000-4000 kHz - night - 400W4000-27500 kHz - 10kW
+2000-4000 kHz—day—800W2000-4000 kHz—night—400W4000-27500 kHz—10kW
 
 (2) Private coast stations, except in Alaska: 1kW
 
 (3) Coast stations in Alaska, public and private:
 
-405-525 kHz - 265W1605-12000 kHz - 150W
+405-525 kHz—265W1605-12000 kHz—150W
 
 (c) *Coast station frequencies above 27500 kHz.* The maximum power must not exceed the values listed below.
 
 (1) Coast stations:
 
-156-162 MHz-50W1 2 13/\>
+156-162 MHz-50W1 2 13
 
 1 Maximum authorized power at the input terminals of the station antenna.
 
-216-220 MHz2/\>
+216-220 MHz2
 
 2 See paragraph (h) of this section.
 
 (2) Marine utility stations:
 
-156-162 MHz - 10W
+156-162 MHz—10W
 
 (d) *Ship station frequencies below 27500 kHz.* The maximum power must not exceed the values listed below:
 
-(1) Radiotelegraphy: All ships - 2kW3/\>
+(1) Radiotelegraphy: All ships—2kW3
 
-3 For passenger ships 5000 gross tons and over - 8kW. For cable-repair ships operating on radiodetermination frequencies, 15 watts; see § 80.375(b).
+3 For passenger ships 5000 gross tons and over—8kW. For cable-repair ships operating on radiodetermination frequencies, 15 watts; see § 80.375(b).
 
 (2) Radiotelephony:
 
-(i) All ships - Great Lakes and Inland Waters - 150W
+(i) All ships—Great Lakes and Inland Waters—150W
 
-(ii) All ships - Open waters; 2000-4000 kHz - 150W
+(ii) All ships—Open waters; 2000-4000 kHz—150W
 
-2182 kHz - emergency, urgency, or safety ship to shore - 400W4/\>
+2182 kHz—emergency, urgency, or safety ship to shore—400W4
 
-4 For passenger ships 5000 gross tons and over - 1kW.
+4 For passenger ships 5000 gross tons and over—1kW.
 
-(iii) All ships - Open waters; 4000-27500 kHz - 1.5kW5/\>.
+(iii) All ships—Open waters; 4000-27500 kHz—1.5kW5.
 
 5 For passenger ships 5,000 gross tons and over 3kW.
 
 (3) Digital selective calling:
 
-All ships 415-526.5 kHz - 400 WAll ships 1605-4000 kHz - 400 WAll ships 4000-27500 kHz - 1.5 kW
+All ships 415-526.5 kHz—400 WAll ships 1605-4000 kHz—400 WAll ships 4000-27500 kHz—1.5 kW
 
 (e) *Ship stations frequencies above 27500 kHz.* The maximum power must not exceed the values listed below.
 
-(1) Ship stations 156-162 MHz - 25W6 /\>
+(1) Ship stations 156-162 MHz—25W6
 
 6 Reducible to 1 watt or less, except for transmitters limited to public correspondence channels and used in an automated system.
 
-(2) Ship stations 216-220 MHz - 25W7/\>
+(2) Ship stations 216-220 MHz—25W7
 
 7 [Reserved]
 
-(3) On board stations 456-468 MHz - 4W8/\>
+(3) On board stations 456-468 MHz—4W8
 
 8 Certification based on a carrier power of 4 watts with transmitter connected to a dummy load of matching impedance. The effective radiated power must not exceed 2 watts.
 
-(4) Ship earth stations 1626.5-1646.5 MHz9/\>
+(4) Ship earth stations 1626.5-1646.5 MHz9
 
 9 See paragraph (k) of this section.
 
-(5) Ship radar stations with F3N emission - 200 mW
+(5) Ship radar stations with F3N emission—200 mW
 
-(6) EPIRB - 121.500 and 243.00 MHz10/\>
+(6) EPIRB—121.500 and 243.00 MHz10
 
 10 See subpart V of this part.
 
-(7) EPIRB - 156.750 and 156.800 MHz10
+(7) EPIRB—156.750 and 156.800 MHz10
 
 (f) *Fixed stations.* The maximum power must not exceed the values + listed below.
 
 (1) Maritime support (receiver test):
 
-R3E and J3C emission - 150WF3E emission - 50W
+R3E and J3C emission—150WF3E emission—50W
 
-(2) Operational fixed: 72-76 MHz and above 162 MHz11/\>
+(2) Operational fixed: 72-76 MHz and above 162 MHz11
 
 11 See paragraph (l) of this section.
 
-(3) Alaska - Private fixed:12/\>
+(3) Alaska—Private fixed:12
 
 12 The frequencies 156.375 MHz and 156.650 MHz are primarily intership frequencies. When authorized for coast stations on a secondary basis, the normal output power must not exceed 1 watt and the maximum output power must not exceed 10 watts.
 
-10-200 kHz - 650W405-525 kHz - 265W1605-12000 kHz - 150W
+10-200 kHz—650W405-525 kHz—265W1605-12000 kHz—150W
 
-(4) Alaska - Public fixed:
+(4) Alaska—Public fixed:
 
-405-525 kHz - 1kW1605-12000 kHz - 1kW
+405-525 kHz—1kW1605-12000 kHz—1kW
 
 (g) The carrier power of ship station radiotelephone transmitters, except portable transmitters, operating in the 156-162 MHz band must be at least 8 but not more than 25 watts. Transmitters that use 12 volt lead acid storage batteries as a primary power source must be measured with a primary voltage between 12.2 and 13.7 volts DC. Additionally, unless otherwise indicated, equipment in radiotelephone ship stations operating in the 156-162 MHz band must meet the following requirements:
 

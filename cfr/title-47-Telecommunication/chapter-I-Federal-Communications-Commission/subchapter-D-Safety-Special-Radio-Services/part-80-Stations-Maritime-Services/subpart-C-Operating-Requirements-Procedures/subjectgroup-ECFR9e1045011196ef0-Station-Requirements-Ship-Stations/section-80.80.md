@@ -8,7 +8,7 @@
 
 (3) Changing from transmission to reception and vice versa.
 
-(4) In the case of stations operating in the 156-162 MHz bands, reducing power output to one watt or less in accordance with § 80.215(e).1/\>
+(4) In the case of stations operating in the 156-162 MHz bands, reducing power output to one watt or less in accordance with § 80.215(e).1
 
 1 Ship station transmitters, except hand-held portable transmitters, manufactured after January 21, 1987 must automatically reduce the carrier power to one watt or less when turned to the frequency 156.375 MHz or 156.650 MHz. All ship station tramsmitters, except hand-held portable transmitters, used after January 21, 1997, must automatically reduce power as described above. A manual override device must be provided which when held by the operator will permit full carrier power operation on channels 13 and 67. Hand-held portable transmitters must be capable of reducing power to one watt, but need not do so automatically.
 
