@@ -1,5 +1,7 @@
 ##### § 54.318 High-cost support; limitations on high-cost support. #####
 
+Link to an amendment published at 84 FR 19877, May 7, 2019.
+
 (a) Beginning July 1, 2012, each carrier receiving high-cost support in a study area under this subpart will receive the full amount of high-cost support it otherwise would be entitled to receive if its rates for residential local service plus state regulated fees as defined in paragraph (e) of this section exceed a local urban rate floor representing the national average of local urban rates plus state regulated fees under the schedule specified in paragraph (f) of this section.
 
 (b) Carriers whose rates for residential local service plus state regulated fees offered for voice service are below the specified local urban rate floor under the schedule below plus state regulated fees shall have high-cost support reduced by an amount equal to the extent to which its rates for residential local service plus state regulated fees are below the local urban rate floor, multiplied by the number of lines for which it is receiving support.

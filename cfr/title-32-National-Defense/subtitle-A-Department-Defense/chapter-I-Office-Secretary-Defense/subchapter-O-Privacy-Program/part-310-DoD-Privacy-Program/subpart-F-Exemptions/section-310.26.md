@@ -1,7 +1,5 @@
 ##### § 310.26 Use and establishment of exemptions. #####
 
-Link to an amendment published at 84 FR 16210, Apr. 18, 2019.
-
 (a) *Types of exemptions.* (1) There are three types of exemptions permitted by the Privacy Act (5 U.S.C. 552a).
 
 (i) An access exemption that exempts records compiled in reasonable anticipation of a civil action or proceeding from the access provisions of the Act.

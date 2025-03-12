@@ -1,5 +1,7 @@
 ##### § 1312.13 Furnishing copies of tariff publications. #####
 
+Link to an amendment published at 84 FR 20296, May 9, 2019.
+
 (a) *Definitions. Subscriber,* as used in this section, means any person (other than carrier participants in a tariff) that is voluntarily furnished, or that requests that it be furnished, one or more copies of a particular tariff with or without subsequent amendments or reissues of that tariff.
 
 (b) *Sending new publications to subscribers.* (1) The publishing carrier or agent shall send each newly-issued tariff, supplement, or loose-leaf page as requested to each subscriber by first class mail, or other means requested in writing by the subscriber.

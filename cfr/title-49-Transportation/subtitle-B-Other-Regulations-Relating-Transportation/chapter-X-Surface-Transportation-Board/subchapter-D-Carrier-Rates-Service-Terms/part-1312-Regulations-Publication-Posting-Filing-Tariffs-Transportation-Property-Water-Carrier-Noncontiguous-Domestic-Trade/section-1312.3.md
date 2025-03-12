@@ -1,5 +1,7 @@
 ##### § 1312.3 Tariff contents and standards; Essential criteria. #####
 
+Link to an amendment published at 84 FR 20295, May 9, 2019.
+
 (a) *Contents.* Tariffs filed with the Board must include an accurate description of the services offered to the public; must provide the specific applicable rates (or the basis for calculating the specific applicable rates) and service terms; and must be arranged in a way that allows for the determination of the exact rate(s) and service terms applicable to any given shipment (or to any given group of shipments).
 
 (b) *Use of multiple tariffs.* All information necessary to determine applicable rates and service terms for a given shipment need not be contained in a single tariff, but if multiple tariffs are used to convey that information, the tariff containing the rates must make specific reference (by STB tariff designation) to all other tariffs required to determine applicable rates and service terms, and the carrier(s) party to the rates must participate in all of the tariffs so linked.

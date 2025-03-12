@@ -1,5 +1,7 @@
 ##### § 1312.6 Advance notice required. #####
 
+Link to an amendment published at 84 FR 20295, May 9, 2019.
+
 (a) *Notice requirement.* Unless otherwise specifically authorized by the Board, tariffs must be filed with the Board on not less than the notice shown in paragraph (b) of this section. Notice means the number of days the publication is on file with the Board prior to its effective date(s). The date the publication is received by the Board counts as the first day of notice.
 
 (b) *Length of notice.* A tariff may not become effective earlier than:

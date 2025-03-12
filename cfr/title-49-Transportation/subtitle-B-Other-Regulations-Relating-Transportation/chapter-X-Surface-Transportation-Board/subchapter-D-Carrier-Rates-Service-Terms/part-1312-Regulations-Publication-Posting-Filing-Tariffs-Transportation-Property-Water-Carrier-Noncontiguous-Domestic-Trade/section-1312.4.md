@@ -1,6 +1,6 @@
 ##### § 1312.4 Filing of tariffs. #####
 
-Link to an amendment published at 84 FR 12946, April 3, 2019.
+Link to an amendment published at 84 FR 12946, April 3, 2019.Link to an amendment published at 84 FR 20295, May 9, 2019.
 
 (a) *Filing requirements.* (1) Tariffs shall be filed in English with rates explicitly stated in U.S. dollars and cents. Two copies of each tariff publication shall be filed with the Board. Packages containing tariff filings should be prominently marked “TARIFF FILING” and addressed to: Section of Tariffs, Surface Transportation Board, 1925 K Street, NW., Washington, DC 20423-0001.
 

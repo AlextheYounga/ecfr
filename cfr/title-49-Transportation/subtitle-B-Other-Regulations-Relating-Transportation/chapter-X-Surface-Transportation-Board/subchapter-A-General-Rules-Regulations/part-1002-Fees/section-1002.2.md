@@ -1,14 +1,12 @@
 ##### § 1002.2 Filing fees. #####
 
-Link to an amendment published at 84 FR 12943, April 3, 2019.
+Link to an amendment published at 84 FR 20294, May 9, 2019.
 
-(a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing. Filing fees for tariffs, including schedules, and contract summaries, including supplements (Item 78), and filing fees for documents submitted for recording (Item 83) may be charged to accounts established by the Board in accordance with paragraph (a)(2) of this section.
+(a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing..
 
-(2) *Billing account procedure.* Form STB-1032 must be submitted to the Board's Section of Financial Services to establish STB billing accounts for filing fees for tariffs and for documents submitted for recording.
+(2) Filing fees for all e-filings must be paid via the Board's electronic payment system found on the Board's website. Filing fees for other filings may be paid via the electronic payment system, but will also be accepted payable to the Surface Transportation Board, either by check payable in United States currency drawn upon funds deposited in a United States or foreign bank or other financial institution, or by money order payable in United States currency.
 
-(3) Fees will be payable to the Surface Transportation Board, by check payable in United States currency drawn upon funds deposited in a United States or foreign bank or other financial institution, money order payable in United States currency, or by credit card.
-
-(b) Any filing that is not accompanied by the appropriate filing fee, payment via credit card or STB billing account, or a request for waiver of the fee, is deficient. However, the Board may find that a tariff which is submitted without the appropriate filing fee is deficient and reject the tariff filing, if the filer repeatedly fails to submit the appropriate filing fee after the Board has advised the filer of the proper filing fee and tariff filing procedures.
+(b) Any filing that is not accompanied by the appropriate filing fee or a request for waiver of the fee is deficient. If a filer requests a fee waiver but does not submit the appropriate fee, the filing is held for processing until a determination has been made on the fee waiver request. If the filer requests a fee waiver and submits the appropriate fee, the filing is accepted and the Board refunds the fee or a portion thereof if the fee waiver is ultimately granted.
 
 (c) *Fees not refundable.* Fees will be assessed for every filing in the type of proceeding listed in the schedule of fees contained in paragraph (f) of this section, subject to the exceptions contained in paragraphs (d) and (e) of this section. After the application, petition, notice, tariff, contract, or other document has been accepted for filing by the Board, the filing fee will not be refunded, regardless of whether the application, petition, notice, tariff, contract, or other document is granted or approved, denied, rejected before docketing, dismissed, or withdrawn. If an individual exemption proceeding becomes a matter of general applicability and is handled through the rulemaking process, the Board will refund the filing fee.
 

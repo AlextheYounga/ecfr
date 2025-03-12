@@ -1,5 +1,7 @@
 ##### § 1312.1 Scope; definitions. #####
 
+Link to an amendment published at 84 FR 20294, May 9, 2019.
+
 (a) *Applicability.* The provisions of this part address the requirements in 49 U.S.C. 13702 that carriers subject to the Board's jurisdiction under 49 U.S.C. Chapter 135 and providing transportation or service for the movement of property (except bulk cargo, forest products, recycled metal scrap, waste paper, and paper waste) by or with a water carrier in noncontiguous domestic trade shall publish and file with the Board tariffs containing the rates for such transportation.
 
 (b) *Exceptions.* The provisions of this part do not apply to:

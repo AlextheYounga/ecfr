@@ -1,5 +1,7 @@
 ##### § 1312.12 Posting requirements. #####
 
+Link to an amendment published at 84 FR 20296, May 9, 2019.
+
 (a) *General posting requirements.* (1) Each carrier shall maintain, at its principal office, a complete set of its tariffs (proposed and effective) and those to which it is a party.
 
 (2) Each carrier shall also maintain some or all of its tariffs at other locations, as may be useful. Carriers shall provide information regarding all locations where tariffs may be viewed.

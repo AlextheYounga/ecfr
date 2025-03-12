@@ -1,7 +1,5 @@
 ##### § 201.4 Recordation of transfers and other documents pertaining to copyright. #####
 
-Link to an amendment published at 84 FR 14255, Apr. 9, 2019.
-
 (a) *General.* This section prescribes conditions for the recordation of transfers of copyright ownership and other documents pertaining to a copyright under 17 U.S.C. 205. A document is eligible for recordation under this section if it meets the requirements of paragraph (d) of this section, if it is submitted in accordance with the submission procedure described in paragraph (e) of this section, and if it is accompanied by the fee specified in § 201.3(c). The date of recordation is the date when all of the elements required for recordation, including a proper document, fee, and any additional required information, are received in the Copyright Office. After recordation the document is returned to the sender with a certificate of recordation. The Office may reject any document submitted for recordation that fails to comply with 17 U.S.C. 205, the requirements of this section, or any relevant instructions or guidance provided by the Office.
 
 (b) *Documents not recordable under this section.* This section does not govern the filing or recordation of the following documents:
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 14255, Apr. 9, 2019.
 
 (2) Notices of identity and signal carriage complement, and statements of account of cable systems and satellite carriers and for digital audio recording devices and media (17 U.S.C. 111(d), 119(b), and 1003(c); see §§ 201.11, 201.17, 201.28);
 
-(3) Notices of intention to obtain a compulsory license to make and distribute phonorecords of nondramatic musical works (17 U.S.C. 115(b); see § 201.18);
+(3) Notices of use of sound recordings under statutory license and notices of intention to obtain a compulsory license to make and distribute phonorecords of nondramatic musical works (17 U.S.C. 112(e), 114, and 115(b); see §§ 201.18 and 370.2);
 
 (4) Notices of termination (17 U.S.C. 203, 304(c) and (d); see § 201.10);
 
@@ -24,13 +22,17 @@ Link to an amendment published at 84 FR 14255, Apr. 9, 2019.
 
 (9) Submission of Visual Arts Registry Statements (17 U.S.C. 113; see § 201.25);
 
-(10) Notices and correction notices of intent to enforce restored copyrights (17 U.S.C. 104A(e); see §§ 201.33, 201.34); and
+(10) Notices and correction notices of intent to enforce restored copyrights (17 U.S.C. 104A(e); see §§ 201.33, 201.34);
 
-(11) Designations of agents to receive notifications of claimed infringement (17 U.S.C. 512(c)(2); see § 201.38).
+(11) Designations of agents to receive notifications of claimed infringement (17 U.S.C. 512(c)(2); see § 201.38);
 
-(12) Notices of contact information for transmitting entities publicly performing pre-1972 sound recordings by means of digital audio transmission (17 U.S.C. 1401(f)(5)(B); see § 201.36).
+(12) Notices of contact information for transmitting entities publicly performing pre-1972 sound recordings by means of digital audio transmission (17 U.S.C. 1401(f)(5)(B); see § 201.36);
 
-(13) Schedules of pre-1972 sound recordings (17 U.S.C. 1401(f)(5)(A); see § 201.35).
+(13) Schedules of pre-1972 sound recordings (17 U.S.C. 1401(f)(5)(A); see § 201.35);
+
+(14) Notices of noncommercial use of pre-1972 sound recordings (17 U.S.C. 1401(c)(1)(B); see § 201.37); and
+
+(15) Opt-out notices of noncommercial use of pre-1972 sound recordings (17 U.S.C. 1401(c)(1)(C); see § 201.37).
 
 (c) *Definitions.* For purposes of this section:
 
@@ -76,4 +78,4 @@ Link to an amendment published at 84 FR 14255, Apr. 9, 2019.
 
 (g) *Effect of recordation.* The fact that the Office has recorded a document is not a determination by the Office of the document's validity or legal effect. Recordation of a document by the Copyright Office is without prejudice to any party claiming that the legal or formal requirements for recordation have not been met, including before a court of competent jurisdiction.
 
-[82 FR 52219, Nov. 13, 2017, as amended at 83 FR 52153, Oct. 16, 2018]
+[82 FR 52219, Nov. 13, 2017, as amended at 83 FR 52153, Oct. 16, 2018; 84 FR 14255, Apr. 9, 2019]

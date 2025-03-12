@@ -1,7 +1,5 @@
 ##### § 622.190 Quotas. #####
 
-Link to an amendment published at 84 FR 14024, Apr. 9, 2019.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
 
 (a) *South Atlantic snapper-grouper, excluding wreckfish.* The quotas apply to persons who are not subject to the bag limits. (See § 622.11 for applicability of the bag limits.) The quotas are in gutted weight, that is eviscerated but otherwise whole, except for the quotas in paragraphs (a)(4) through (7) of this section which are in both gutted weight and round weight.
@@ -26,29 +24,35 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (4) *Vermilion snapper.* (i) For the period January through June each year.
 
-(A) For the 2013 fishing year - 420,252 lb (190,623 kg), gutted weight; 466,480 lb (211,592 kg), round weight.
+(A) For the 2019 fishing year - 483,658 lb (219,384 kg), gutted weight; 536,860 lb (243,516 kg), round weight.
 
-(B) For the 2014 fishing year - 401,874 lb (182,287 kg), gutted weight; 446,080 lb (202,338 kg), round weight.
+(B) For the 2020 fishing year - 452,721 lb (205,351 kg), gutted weight; 502,520 lb (227,939 kg), round weight.
 
-(C) For the 2015 fishing year - 394,829 lb (179,091 kg), gutted weight; 438,260 lb (198,791 kg), round weight.
+(C) For the 2021 fishing year - 431,279 lb (195,625 kg), gutted weight; 478,720 lb (217,144 kg), round weight.
 
-(D) For the 2016 and subsequent fishing years - 388,703 lb (176,313 kg), gutted weight; 431,460 lb (195,707 kg), round weight.
+(D) For the 2022 fishing year - 417,189 lb (189,234 kg), gutted weight; 463,080 lb (210,050 kg), round weight.
+
+(E) For the 2023 and subsequent fishing years - 409,225 lb (185,621 kg), gutted weight; 454,240 lb (206,040 kg), round weight.
 
 (ii) For the period July through December each year.
 
-(A) For the 2013 fishing year - 420,252 lb (190,623 kg), gutted weight; 466,480 lb (211,592 kg), round weight.
+(A) For the 2019 fishing year - 483,658 lb (219,384 kg), gutted weight; 536,860 lb (243,516 kg), round weight.
 
-(B) For the 2014 fishing year - 401,874 lb (182,287 kg), gutted weight; 446,080 lb (202,338 kg), round weight.
+(B) For the 2020 fishing year - 452,721 lb (205,351 kg), gutted weight; 502,520 lb (227,939 kg), round weight.
 
-(C) For the 2015 fishing year - 394,829 lb (179,091 kg), gutted weight; 438,260 lb (198,791 kg), round weight.
+(C) For the 2021 fishing year - 431,279 lb (195,625 kg), gutted weight; 478,720 lb (217,144 kg), round weight.
 
-(D) For the 2016 and subsequent fishing years - 388,703 lb (176,313 kg), gutted weight; 431,460 lb (195,707 kg), round weight.
+(D) For the 2022 fishing year - 417,189 lb (417,189 kg), gutted weight; 463,080 lb (210,050 kg), round weight.
+
+(E) For the 2023 and subsequent fishing years - 409,225 lb (185,621 kg), gutted weight; 454,240 lb (206,040 kg), round weight.
 
 (iii) Any unused portion of the quota specified in paragraph (a)(4)(i) of this section will be added to the quota specified in paragraph (a)(4)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(4)(ii) of this section, including any addition of quota specified in paragraph (a)(4)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
 
-(5) *Black sea bass.* (i) For the 2014, 2015, and 2016 fishing years - 661,034 lb (299,840 kg), gutted weight; 780,020 lb (353,811 kg), round weight.
+(5) *Black sea bass.* (i) For the 2019 fishing year - 276,949 lb (125,622 kg), gutted weight; 326,800 lb (148,234 kg), round weight.
 
-(ii) For the 2017 fishing year and subsequent fishing years-640,063 lb (290,328 kg), gutted weight; 755,274 lb (342,587 kg), round weight.
+(ii) For the 2020 fishing year - 243,788 lb (110,580 kg), gutted weight; 287,670 lb (130,485 kg), round weight.
+
+(iii) For the 2021 fishing year and subsequent fishing years - 234,314 lb (106,283 kg), gutted weight; 276,490 lb (125,414 kg), round weight.
 
 (6) *Red porgy* - 157,692 lb (71,528 kg), gutted weight; 164,000 lb (74,389 kg), round weight.
 
@@ -90,4 +94,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019]

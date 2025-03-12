@@ -1,7 +1,5 @@
 ##### § 310.21 Conditions of disclosure. #####
 
-Link to an amendment published at 84 FR 16210, Apr. 18, 2019.
-
 (a) *Disclosures to third parties.* (1) The Privacy Act only compels disclosure of records from a system of records to the individuals to whom they pertain unless the records are contained in a system for which an exemption to the access provisions of this part has been claimed.
 
 (2) Requests by other individuals (third parties) for the records of individuals that are contained in a system of records shall be processed under 32 CFR part 286 except for requests by the parents of a minor or the legal guardian of an individual for access to the records pertaining to the minor or individual.

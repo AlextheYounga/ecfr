@@ -1,5 +1,7 @@
 ##### § 1312.2 Requirement to publish and file a tariff. #####
 
+Link to an amendment published at 84 FR 20294, May 9, 2019.
+
 (a) *Requirement for tariff.* Except when providing transportation for charitable purposes without charge, or when providing transportation or service described in § 1312.1(b), carriers subject to the Board's jurisdiction under 49 U.S.C. Chapter 135 may provide transportation or service described in § 1312.1(a) only if the rates, and related rules and practices, for such transportation or service are contained in a published tariff that is on file with the Board and in effect under this part.
 
 (b) *Adherence to tariff.* The carrier may not charge or receive a different compensation for the transportation or service than the rate specified in the tariff, whether by returning a part of that rate to a person, giving a person a privilege, allowing the use of a facility that affects the value of that transportation or service, or another device. The carrier shall keep such tariffs available for public inspection and shall make such tariffs available to subscribers as required in this part.
