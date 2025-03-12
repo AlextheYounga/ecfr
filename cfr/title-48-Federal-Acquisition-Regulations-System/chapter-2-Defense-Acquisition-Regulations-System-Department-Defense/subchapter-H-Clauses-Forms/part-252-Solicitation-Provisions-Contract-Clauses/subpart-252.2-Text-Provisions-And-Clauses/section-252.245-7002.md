@@ -2,7 +2,7 @@
 
 As prescribed in 245.107(3), use the following clause:
 
-Reporting Loss of Government Property (APR 2012)
+Reporting Loss of Government Property (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -24,7 +24,7 @@ Reporting Loss of Government Property (APR 2012)
 
 (2) For Contractor-acquired property, the cost derived from the Contractor's records that reflect consistently applied, generally acceptable accounting principles.
 
-(b) *Reporting loss of Government property.* (1) The Contractor shall use the Defense Contract Management Agency (DCMA) eTools software application for reporting loss of Government property. Reporting value shall be at unit acquisition cost. The eTools “LTDD of Government Property” toolset can be accessed from the DCMA home page External Web Access Management application at *http://www.dcma.mil/aboutetools.cfm.*
+(b) *Reporting loss of Government property.* (1) The Contractor shall use the Defense Contract Management Agency (DCMA) eTools software application for reporting loss of Government property. Reporting value shall be at unit acquisition cost. The eTools “LTDD of Government Property” toolset can be accessed from the DCMA home page External Web Access Management application at *http://www.dcma.mil/WBT/propertyloss/*
 
 (2) Unless otherwise provided for in this contract, the requirements of paragraph (b)(1) of this clause do not apply to normal and reasonable inventory adjustments, *i.e.,* losses of low-risk consumable material such as common hardware, as agreed to by the Contractor and the Government Property Administrator. Such losses are typically a product of normal process variation. The Contractor shall ensure that its property management system provides adequate management control measures, *e.g.,* statistical process controls, as a means of managing such variation.
 
@@ -40,4 +40,4 @@ Reporting Loss of Government Property (APR 2012)
 
 (4) This reporting requirement does not change any liability provisions or other reporting requirements that may exist under this contract.
 
-(End of clause)[76 FR 6008, Feb. 2, 2011, as amended at 77 FR 23632, Apr. 20, 2012]
+(End of clause)[76 FR 6008, Feb. 2, 2011, as amended at 77 FR 23632, Apr. 20, 2012; 82 FR 61481, Dec. 28, 2017]

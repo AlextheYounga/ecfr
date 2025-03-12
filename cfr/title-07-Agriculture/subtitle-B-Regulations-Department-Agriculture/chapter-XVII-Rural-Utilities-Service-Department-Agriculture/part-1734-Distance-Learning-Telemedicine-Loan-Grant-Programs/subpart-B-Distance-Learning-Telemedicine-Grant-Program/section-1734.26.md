@@ -1,0 +1,3 @@
+##### § 1734.26 Criteria for scoring grant applications. #####
+
+The criteria by which applications will be scored will be published in the RUS DLT Program application guide and/or the RUS DLT Program Web site and in the funding opportunity posted on *www.Grants.gov* Web site on an annual basis. The criteria will be used to determine and evaluate: Rurality; economic need; service need and benefit; and special considerations as determined by the Administrator

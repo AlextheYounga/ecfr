@@ -12,8 +12,8 @@ For contract actions supporting contingency operations or facilitating defense a
 
 (c) FAR 13.201(g).
 
-(d) FAR 13.500(e).
+(d) FAR 13.500(c)(1).
 
 (e) FAR 18.2.
 
-[74 FR 2407, Jan. 15, 2009. Redesignated at 76 FR 44281, July 25, 2011]
+[74 FR 2407, Jan. 15, 2009. Redesignated at 76 FR 44281, July 25, 2011; 82 FR 61480, Dec. 28, 2017]

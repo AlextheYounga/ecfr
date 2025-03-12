@@ -1,0 +1,3 @@
+##### § 1734.33 Maximum and minimum amounts. #####
+
+Applications for a combination loan and grant under this subpart will be subject to limitations on the proposed amount of loans and grants. The Administrator will establish the maximum and minimum amount of loans and grants and the portion of grant funds as a percentage of total assistance for each project to be made available to an individual recipient for each fiscal year under this subpart, by posting a funding opportunity in the RUS DLT Program Application Guide and/or the RUS DLT Program Web site and in the funding opportunity posted on *www.Grants.gov* on an annual basis.

@@ -2,7 +2,7 @@
 
 As prescribed in *211.275-3*, use the following clause:
 
-Passive Radio Frequency Identification (JUN 2016)
+Passive Radio Frequency Identification (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -40,7 +40,7 @@ Passive Radio Frequency Identification (JUN 2016)
 
 (b)(1) Except as provided in paragraph (b)(2) of this clause, the Contractor shall affix passive RFID tags, at the case- and palletized- unit-load packaging levels, for shipments of items that -
 
-(i) Are in any of the following classes of supply, as defined in DoD 4140.1-R, DoD Supply Chain Materiel Management Regulation, AP1.1.11:
+(i) Are in any of the following classes of supply, as defined in DoD Manual 4140.01, Volume 6, DoD Supply Chain Materiel Management Procedures: Materiel Returns, Retention, and Disposition:
 
 (A) Subclass of Class I - Packaged operational rations.
 
@@ -91,4 +91,4 @@ Passive Radio Frequency Identification (JUN 2016)
 
 (e) *Advance shipment notice.* The Contractor shall use Wide Area WorkFlow (WAWF), as required by DFARS 252.232-7003, Electronic Submission of Payment Requests, to electronically submit advance shipment notice(s) with the RFID tag ID(s) (specified in paragraph (d) of this clause) in advance of the shipment in accordance with the procedures at *https://wawf.eb.mil/.*
 
-(End of clause)[70 FR 53968, Sept. 13, 2005, as amended at 71 FR 29086, May 19, 2006; 72 FR 6483, Feb. 12, 2007; 81 FR 36474, June 7, 2016]
+(End of clause)[70 FR 53968, Sept. 13, 2005, as amended at 71 FR 29086, May 19, 2006; 72 FR 6483, Feb. 12, 2007; 81 FR 36474, June 7, 2016; 82 FR 61481, Dec. 28, 2017]

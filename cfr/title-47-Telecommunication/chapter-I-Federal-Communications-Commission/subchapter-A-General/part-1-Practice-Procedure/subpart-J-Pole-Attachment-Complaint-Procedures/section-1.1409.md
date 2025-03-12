@@ -1,6 +1,6 @@
 ##### § 1.1409 Commission consideration of the complaint. #####
 
-Link to an amendment published at 82 FR 20840, May 4, 2017.Link to an amendment published at 82 FR 59971, December 18, 2017.
+Link to an amendment published at 82 FR 20840, May 4, 2017.Link to an amendment published at 82 FR 59971, December 18, 2017.Link to an amendment published at 82 FR 61477, December 28, 2017.
 
 (a) In its consideration of the complaint, response, and reply, the Commission may take notice of any information contained in publicly available filings made by the parties and may accept, subject to rebuttal, studies that have been conducted. The Commission may also request that one or more of the parties make additional filings or provide additional information. Where one of the parties has failed to provide information required to be provided by these rules or requested by the Commission, or where costs, values or amounts are disputed, the Commission may estimate such costs, values or amounts it considers reasonable, or may decide adversely to a party who has failed to supply requested information which is readily available to it, or both.
 

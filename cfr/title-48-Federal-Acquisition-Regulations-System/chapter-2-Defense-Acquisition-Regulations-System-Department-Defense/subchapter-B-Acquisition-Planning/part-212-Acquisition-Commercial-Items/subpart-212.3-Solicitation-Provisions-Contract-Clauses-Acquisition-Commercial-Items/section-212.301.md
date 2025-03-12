@@ -14,7 +14,7 @@
 
 (ii) *Part 204 - Administrative Matters.* (A) Use the provision at 252.204-7008 Compliance with Safeguarding Covered Defense Information Controls, as prescribed in 204.7304(a).
 
-(B) Use the clause at 252.204-7009, Limitations on the Use or Disclosure of Third-Party Contractor Information, as prescribed in 204.7304(b).
+(B) Use the clause at 252.204-7009, Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information, as prescribed in 204.7304(b).
 
 (C) Use the provision at 252.204-7011, Alternative Line Item Structure, as prescribed in 204.7109(b).
 
@@ -226,4 +226,4 @@
 
 (H) Use the clause at 252.247-7028, Application for U.S Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017]

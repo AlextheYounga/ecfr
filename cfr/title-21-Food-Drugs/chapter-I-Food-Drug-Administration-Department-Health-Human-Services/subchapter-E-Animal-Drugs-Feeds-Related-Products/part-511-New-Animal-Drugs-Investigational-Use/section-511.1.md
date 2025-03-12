@@ -1,5 +1,7 @@
 ##### § 511.1 New animal drugs for investigational use exempt from section 512(a) of the act. #####
 
+Link to an amendment published at 82 FR 61446, Dec, 28, 2017.
+
 (a) *New animal drugs for tests in vitro and in laboratory research animals.* (1) A shipment or other delivery of a new animal drug or animal feed bearing or containing a new animal drug intended solely for tests in vitro or in animals used only for laboratory research purposes shall be exempt from section 512 (a) and (m) of the act if it is labeled as follows:
 
 *Caution.* Contains a new animal drug for investigational use only in laboratory research animals or for tests in vitro. Not for use in humans.

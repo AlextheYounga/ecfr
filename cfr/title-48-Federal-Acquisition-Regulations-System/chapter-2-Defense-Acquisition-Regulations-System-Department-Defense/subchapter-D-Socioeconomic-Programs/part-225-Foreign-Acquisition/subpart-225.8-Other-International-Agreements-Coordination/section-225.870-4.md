@@ -10,7 +10,7 @@
 
 (i) No further approval is required to request data other than certified cost or pricing data from the Canadian Commercial Corporation in the following circumstances:
 
-(A) In a solicitation for a sole source acquisition that is -
+(A) In a solicitation for a sole source acquisition that is—
 
 (*1*) Cost-reimbursement, if the contract value is expected to exceed $700,000; or
 
@@ -24,7 +24,7 @@
 
 (ii) In any circumstances other than those specified in paragraph (c)(2)(i) of this section, the contracting officer shall only require data other than certified cost or pricing data from the Canadian Commercial Corporation if the head of the contracting activity, or designee no lower than two levels above the contracting officer, determines that data other than certified cost or pricing data are needed (or in the case of modifications that it is reasonably certain that data other than certified cost or pricing data will be needed) in order to determine that the price is fair and reasonable) (see FAR 15.403-3(a).
 
-(3) The contracting officer shall use the provision at 252.215-7003, Requirement for Data Other Than Certified Cost or Pricing Data - Canadian Commercial Corporation, and the clause at 252.215-7004, Requirement for Data Other Than Certified Cost or Pricing Data - Modifications - Canadian Commercial Corporation, as prescribed at 215.408(3)(i) and (ii), respectively.
+(3) The contracting officer shall use the provision at 252.215-7003, Requirement for Submission of Data Other Than Certified Cost or Pricing Data—Canadian Commercial Corporation, and the clause at 252.215-7004, Requirement for Submission of Data Other Than Certified Cost or Pricing Data—Modifications—Canadian Commercial Corporation, as prescribed at 215.408(2)(i) and (ii), respectively.
 
 (4) Except for contracts described in 225.870-1(c)(1) through (4), Canadian suppliers will provide required data other than certified cost or pricing data exclusively through the Canadian Commercial Corporation.
 
@@ -36,10 +36,10 @@
 
 (iii) Increased cost or significant harm to the Government if award is not made.
 
-(d) Identify in the contract, the type of currency, *i.e.,* U.S. or Canadian. Contracts that provide for payment in Canadian currency shall -
+(d) Identify in the contract, the type of currency, *i.e.,* U.S. or Canadian. Contracts that provide for payment in Canadian currency shall—
 
 (1) Quote the contract price in terms of Canadian dollars and identify the amount by the initials “CN”, *e.g.,* $1,647.23CN; and
 
 (2) Clearly indicate on the face of the contract the U.S./Canadian conversion rate at the time of award and the U.S. dollar equivalent of the Canadian dollar contract amount.
 
-[68 FR 15621, Mar. 31, 2003, as amended at 77 FR 43472, July 24, 2012; 78 FR 65217, Oct. 31, 2013; 80 FR 36718, June 26, 2015]
+[68 FR 15621, Mar. 31, 2003, as amended at 77 FR 43472, July 24, 2012; 78 FR 65217, Oct. 31, 2013; 80 FR 36718, June 26, 2015; 82 FR 61480, Dec. 28, 2017; 83 FR 30825, June 29, 2018]

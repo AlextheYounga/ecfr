@@ -1,6 +1,6 @@
 ##### § 329.3 Definitions. #####
 
-Link to an amendment published at 82 FR 50261, Oct. 30, 2017.
+Link to an amendment published at 82 FR 50261, Oct. 30, 2017.Link to a correction published at 82 FR 61443, Dec. 28, 2017.
 
 For the purposes of this part:
 

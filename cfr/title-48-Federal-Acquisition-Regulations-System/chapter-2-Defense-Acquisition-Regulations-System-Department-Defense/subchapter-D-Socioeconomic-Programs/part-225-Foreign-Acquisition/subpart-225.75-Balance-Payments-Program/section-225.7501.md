@@ -8,7 +8,7 @@ Acquire only domestic end products for use outside the United States, and use on
 
 (2) The end product or particular construction material is -
 
-(i) Listed in FAR 25.104 or 225.104(a);
+(i) Listed in FAR 25.104;
 
 (ii) A petroleum product;
 
@@ -60,4 +60,4 @@ Acquire only domestic end products for use outside the United States, and use on
 
 (c) At any time during the acquisition process, the head of the agency determines that it is not in the public interest to apply the restrictions of the Balance of Payments Program to the end product or construction material.
 
-[67 FR 20694, Apr. 26, 2002, as amended at 67 FR 77939, Dec. 20, 2002; 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 73155, Dec. 9, 2005; 71 FR 58540, Oct. 4, 2006; 73 FR 53153, Sept. 15, 2008; 75 FR 81917, Dec. 29, 2010; 76 FR 76320, Dec. 7, 2011; 78 FR 59857, Sept. 30, 2013]
+[67 FR 20694, Apr. 26, 2002, as amended at 67 FR 77939, Dec. 20, 2002; 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 73155, Dec. 9, 2005; 71 FR 58540, Oct. 4, 2006; 73 FR 53153, Sept. 15, 2008; 75 FR 81917, Dec. 29, 2010; 76 FR 76320, Dec. 7, 2011; 78 FR 59857, Sept. 30, 2013; 82 FR 61481, Dec. 28, 2017]

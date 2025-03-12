@@ -2,7 +2,7 @@
 
 As prescribed in 246.870-3(b), use the following clause:
 
-SOURCES OF ELECTRONIC PARTS (OCT 2016)
+SOURCES OF ELECTRONIC PARTS (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -84,6 +84,6 @@ SOURCES OF ELECTRONIC PARTS (OCT 2016)
 
 (B) Consider an adjustment in the contract schedule to the extent that replacement of the counterfeit or suspect counterfeit electronic parts caused a delay in performance.
 
-(e) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (e), in subcontracts, including subcontracts for commercial items that are for electronic parts or assemblies containing electronic parts, unless the subcontractor is the original manufacturer.
+(e) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (e), in subcontracts, including subcontracts for commercial items, that are for electronic parts or assemblies containing electronic parts, unless the subcontractor is the original manufacturer.
 
-(End of clause)[81 FR 50649, Aug. 2, 2016, as amended at 81 FR 72738, Oct. 21, 2016]
+(End of clause)[81 FR 50649, Aug. 2, 2016, as amended at 81 FR 72738, Oct. 21, 2016; 82 FR 61481, Dec. 28, 2017]

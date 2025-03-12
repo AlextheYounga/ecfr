@@ -1,7 +1,5 @@
 ##### § 1735.30 Hardship loans. #####
 
-Link to an amendment published at 82 FR 55939, Nov. 27, 2017.
-
 (a) RUS makes hardship loans under section 305(d)(1) of the RE Act. These loans bear interest at a rate of 5 percent per year. To qualify for a hardship loan on or after November 1, 1993, a borrower must meet each of the following requirements:
 
 (1) The average number of proposed subscribers per mile of line in the service area of the borrower is not more than 4;
@@ -38,7 +36,7 @@ Link to an amendment published at 82 FR 55939, Nov. 27, 2017.
 
 (C) Conversion of service to 1-party making an entire exchange all 1-party service.
 
-(v) *Distance Learning and Medical Link Facilities.* Borrowers will receive 2 points for loan funds included in the application for the purpose of providing distance learning or medical link transmission facilities. If loan funds are included for both distance learning and medical link transmission facilities, borrowers will receive 3 points. (See 7 CFR part 1703 for definitions of distance learning and medical link.)
+(v) *Distance Learning and Medical Link Facilities.* Borrowers will receive 2 points for loan funds included in the application for the purpose of providing distance learning or medical link transmission facilities. If loan funds are included for both distance learning and medical link transmission facilities, borrowers will receive 3 points. (See 7 CFR part 1734 for definitions of distance learning and medical link.)
 
 (vi) *Time Factor.* If a borrower's application has been ranked but cannot be approved due to the lack of funds available for loans in that quarter, the borrower will receive .25 points for each quarter in which its loan is pending but not approved.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 82 FR 55939, Nov. 27, 2017.
 
 (g) Hardship loans may be made simultaneously with concurrent RUS cost-of-money and RTB loans or guaranteed loans.
 
-[58 FR 66254, Dec. 20, 1993]
+[58 FR 66254, Dec. 20, 1993, as amended at 82 FR 55939, Nov. 27, 2017]

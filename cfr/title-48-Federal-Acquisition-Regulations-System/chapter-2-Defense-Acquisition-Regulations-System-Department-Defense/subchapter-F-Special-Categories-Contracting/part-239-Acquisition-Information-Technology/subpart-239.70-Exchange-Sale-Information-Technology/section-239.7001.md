@@ -1,5 +1,5 @@
 ##### 239.7001 Policy. #####
 
-Agencies shall follow the procedures in DoD 4140.1-R, DoD Supply Chain Materiel Management Regulation, Chapter 9, Section C9.5, when considering the exchange or sale of Government-owned information technology.
+Agencies shall follow the procedures in DoD Manual 4140.01, Volume 9, DoD Supply Chain Materiel Management Procedures: Materiel Programs, when considering the exchange or sale of Government-owned information technology.
 
-[71 FR 39010, July 11, 2006]
+[71 FR 39010, July 11, 2006, as amended at 82 FR 61481, Dec. 28, 2017]

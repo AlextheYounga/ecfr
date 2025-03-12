@@ -1,0 +1,3 @@
+##### § 1734.24 Maximum and minimum grant amounts. #####
+
+Applications for grants under this subpart will be subject to limitations on the proposed amount of grant funds. The Administrator will establish the maximum and minimum amounts of a grant to be made available to an individual recipient for each fiscal year under this subpart by publishing notice of the maximum and minimum amounts in the RUS DLT Program Application Guide and/or the RUS DLT Program Web site and in the funding opportunity posted on *www.Grants.gov* on an annual basis.

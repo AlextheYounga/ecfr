@@ -1,5 +1,5 @@
-##### 245.103-73 Contracting office responsibilities. #####
+##### 245.103-73 Government property under sustainment contracts. #####
 
-See *PGI 245.103-73* for contracting office responsibilities.
+See PGI 245.103-73 for information on the reporting requirements for Government inventory held by contractors under sustainment contracts in accordance with DoD Manual 4140.01, Volume 6, DoD Supply Chain Materiel Management Procedures: Materiel Returns, Retention, and Disposition.
 
-[77 FR 76937, Dec. 31, 2012]
+[82 FR 61481, Dec. 28, 2017]

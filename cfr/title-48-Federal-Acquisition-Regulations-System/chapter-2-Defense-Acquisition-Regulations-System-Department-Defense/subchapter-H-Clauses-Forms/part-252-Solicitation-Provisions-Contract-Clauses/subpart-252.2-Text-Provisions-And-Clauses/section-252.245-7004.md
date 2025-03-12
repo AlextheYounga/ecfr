@@ -2,7 +2,7 @@
 
 As prescribed in 245.107(5), use the following clause:
 
-REPORTING, REUTILIZATION, AND DISPOSAL (SEP 2016)
+REPORTING, REUTILIZATION, AND DISPOSAL (DEC 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -28,7 +28,7 @@ REPORTING, REUTILIZATION, AND DISPOSAL (SEP 2016)
 
 (5) *Serviceable or usable property* means property with potential for reutilization or sale “as is” or with minor repairs or alterations.
 
-(b) *Inventory disposal schedules.* Unless disposition instructions are otherwise included in this contract, the Contractor shall complete SF 1428, Inventory Schedule B, within the Plant Clearance Automated Reutilization Screening System (PCARSS). Information on PCARSS can be obtained from the plant clearance officer and at *http://www.dcma.mil/DCMAIT/cbt/PCARSS/index.cfm*
+(b) *Inventory disposal schedules.* Unless disposition instructions are otherwise included in this contract, the Contractor shall complete SF 1428, Inventory Schedule B, within the Plant Clearance Automated Reutilization Screening System (PCARSS). Information on PCARSS can be obtained from the plant clearance officer and at *http://www.dcma.mil/WBT/PCARSS/*
 
 (1) The SF 1428 shall contain the following:
 
@@ -38,7 +38,7 @@ REPORTING, REUTILIZATION, AND DISPOSAL (SEP 2016)
 
 (iii) The manufacturer name, make, model number, model year, and serial number for all aircraft under FSCs 1510 and 1520.
 
-(iv) *Appropriate Federal Condition Codes.* See Appendix 2 of DLM 4000.25-2, Military Standard Transaction Reporting and Accounting Procedures (MILSTRAP) manual, edition in effect as of the date of this contract. Information on Federal Condition Codes can be obtained at *http://www2.dla.mil/j-6/dlmso/elibrary/manuals/dlm/dlm\_pubs.asp#.*
+(iv) *Appropriate Federal Condition Codes.* See Appendix 2 of DLM 4000.25-2, Military Standard Transaction Reporting and Accounting Procedures (MILSTRAP) manual, edition in effect as of the date of this contract. Information on Federal Condition Codes can be obtained at *http://www.dla.mil/HQ/InformationOperations/DLMS/elibrary/manuals/MILSTRAP/.*
 
 (2) If the schedules are acceptable, the plant clearance officer shall complete and send the Contractor a DD Form 1637, Notice of Acceptance of Inventory.
 
@@ -114,4 +114,4 @@ REPORTING, REUTILIZATION, AND DISPOSAL (SEP 2016)
 
 (C) Repossess and resell the property under similar terms and conditions. In the event this option is exercised, the Contractor shall charge the defaulting Purchaser with all costs incurred by the Contractor. The Contractor shall deduct these costs from the original purchase price and refund the balance of the purchase price, if any, to the defaulting Purchaser. Should the excess costs to the Contractor exceed the purchase price, the defaulting Purchaser hereby agrees to pay these costs to the Contractor.
 
-(End of clause)[76 FR 52143, Aug. 19, 2011, as amended at 77 FR 23632, Apr. 20, 2012; 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 80 FR 15912, Mar. 26, 2015; 81 FR 65563, Sept. 23, 2016]
+(End of clause)[76 FR 52143, Aug. 19, 2011, as amended at 77 FR 23632, Apr. 20, 2012; 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 80 FR 15912, Mar. 26, 2015; 81 FR 65563, Sept. 23, 2016; 82 FR 61481, Dec. 28, 2017]

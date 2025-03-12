@@ -1,5 +1,7 @@
 ##### § 635.15 Individual bluefin tuna quotas. #####
 
+Link to an amendment published at 82 FR 61497, Dec. 28, 2017.
+
 (a) *General.* This section establishes an IBQ Program for eligible Atlantic Tunas Longline permit holders that use pelagic longline gear under this part and addresses Atlantic Tunas Purse Seine category leasing.
 
 (1) *Overview.* Under the IBQ Program, NMFS will assign eligible Atlantic Tunas Longline permit holders initial IBQ shares equivalent to a percentage of the annual Longline category quota. Purse Seine Category quota shares are allocated separately pursuant to § 635.27(a)(4).

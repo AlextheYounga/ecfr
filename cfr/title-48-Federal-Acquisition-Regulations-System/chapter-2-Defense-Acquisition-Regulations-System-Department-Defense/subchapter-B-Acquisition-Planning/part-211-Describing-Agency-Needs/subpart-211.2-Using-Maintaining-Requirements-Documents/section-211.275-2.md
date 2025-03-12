@@ -2,7 +2,7 @@
 
 (a) Except as provided in paragraph (b) of this section, radio frequency identification (RFID), in the form of a passive RFID tag, is required for cases and palletized unit loads packaging levels and any additional consolidation level(s) deemed necessary by the requiring activity for shipments of items that -
 
-(1) Contain items in any of the following classes of supply, as defined in DoD 4140.1-R, DoD Supply Chain Materiel Management Regulation, AP1.1.11:
+(1) Contain items in any of the following classes of supply, as defined in DoD Manual 4140.01, Volume 6, DoD Supply Chain Materiel Management Procedures: Materiel Returns, Retention, and Disposition:
 
 (i) Subclass of Class I - Packaged operational rations.
 
@@ -30,4 +30,4 @@
 
 (2) Shipments to locations other than Defense Distribution Depots when the contract includes the clause at FAR 52.213-1, Fast Payment Procedures.
 
-[72 FR 6483, Feb. 12, 2007, as amended at 76 FR 58143, Sept. 20, 2011; 81 FR 36473, June 7, 2016]
+[72 FR 6483, Feb. 12, 2007, as amended at 76 FR 58143, Sept. 20, 2011; 81 FR 36473, June 7, 2016; 82 FR 61480, Dec. 28, 2017]
