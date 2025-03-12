@@ -26,7 +26,9 @@
 
 (A) No purse seine net or other fishing gear was intentionally deployed on or used to encircle dolphins during the fishing trip in which the tuna were caught, and that no dolphins were killed or seriously injured in the sets or other gear deployments in which the tuna were caught; and
 
-(B) The Captain of the vessel has completed the NMFS Tuna Tracking and Verification Program dolphin-safe captain's training course. The NMFS Tuna Tracking and Verification Program dolphin-safe captain's training course is available on the Web site of the NMFS Tuna Tracking and Verification Program at *http://www.nmfs.noaa.gov/pr/dolphinsafe.*
+(B) The Captain of the vessel has completed the NMFS Tuna Tracking and Verification Program dolphin-safe captain's training course. The NMFS Tuna Tracking and Verification Program dolphin-safe captain's training course is available on the website of the NMFS Tuna Tracking and Verification Program at *https://www.fisheries.noaa.gov/dolphin-safe.*
+
+(iv) For tuna caught in a fishery where the Assistant Administrator has determined that observers participating in a national or international observer program are qualified and authorized to issue observer statements for purposes of the dolphin-safe labeling program, and where such an observer is on board the vessel, a written statement executed by the observer, or by an authorized representative of a nation participating in the observer program based on information from the observer. Any determination by the Assistant Administrator shall be announced in a notice published in the Federal Register. Determinations under this paragraph (a)(3)(iv) will also be publicized on the website of the NMFS Tuna Tracking and Verification Program (*https://www.fisheries.noaa.gov/dolphin-safe*). The written statement shall certify:
 
 (iv) For tuna caught in a fishery where the Assistant Administrator has determined that observers participating in a national or international observer program are qualified and authorized to issue observer statements for purposes of the dolphin-safe labeling program, and where such an observer is on board the vessel, a written statement executed by the observer, or by an authorized representative of a nation participating in the observer program based on information from the observer. Any determination by the Assistant Administrator shall be announced in a notice published in the Federal Register. Determinations under this paragraph (a)(3)(iv) will also be publicized on the Web site of the NMFS Tuna Tracking and Verification Program (*http://www.nnmfs.noaa.gov/pr/dolphinsafe*). The written statement shall certify:
 
@@ -34,7 +36,7 @@
 
 (B) In purse seine fisheries, that no purse seine net was intentionally deployed on or used to encircle dolphins during the trip on which the tuna were caught.
 
-(v) For tuna caught in a fishery in which the Assistant Administrator has determined that either a regular and significant association between dolphins and tuna (similar to the association between dolphins and tuna in the ETP) or a regular and significant mortality or serious injury of dolphins is occurring, a written statement, executed by the Captain of the vessel and an observer participating in a national or international program acceptable to the Assistant Administrator, unless the Assistant Administrator determines an observer statement is unnecessary. Determinations under this paragraph (a)(3)(v) will also be publicized on the Web site of the NMFS Tuna Tracking and Verification Program (*http://www.nmfs.noaa.gov/pr/dolphinsafe*). The written statement shall certify that:
+(v) For tuna caught in a fishery in which the Assistant Administrator has determined that either a regular and significant association between dolphins and tuna (similar to the association between dolphins and tuna in the ETP) or a regular and significant mortality or serious injury of dolphins is occurring, a written statement, executed by the Captain of the vessel and an observer participating in a national or international program acceptable to the Assistant Administrator, unless the Assistant Administrator determines an observer statement is unnecessary. Determinations under this paragraph (a)(3)(v) will also be publicized on the website of the NMFS Tuna Tracking and Verification Program (*https://www.fisheries.noaa.gov/dolphin-safe*). The written statement shall certify that:
 
 (A) No fishing gear was intentionally deployed on or used to encircle dolphins during the trip on which the tuna were caught;
 
@@ -66,4 +68,4 @@
 
 (c) A tuna product that is labeled with the official mark, described in § 216.95, may not be labeled with any other label or mark that refers to dolphins, porpoises, or marine mammals.
 
-[81 FR 15448, Mar. 23, 2016, as amended at 81 FR 15449, Mar. 23, 2016]
+[81 FR 15448, Mar. 23, 2016, as amended at 81 FR 15449, Mar. 23, 2016; 83 FR 3626, Jan. 26, 2018]

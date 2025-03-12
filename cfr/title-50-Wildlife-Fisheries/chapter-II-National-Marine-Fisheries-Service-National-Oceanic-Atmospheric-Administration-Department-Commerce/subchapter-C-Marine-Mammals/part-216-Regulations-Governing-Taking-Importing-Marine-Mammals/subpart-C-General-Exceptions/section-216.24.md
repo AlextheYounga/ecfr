@@ -261,7 +261,7 @@
 
 0305.39.6080 Fish fillets, dried, salted or in brine, but not smoked, NESOI0305.41.0000 Pacific salmon (*Oncorhynchus* spp.), Atlantic salmon (*Salmo salar*), and Danube salmon (*Hucho hucho*), including fillets, smoked0305.49.4041 Fish including fillets, smoked, NESOI0305.59.0000 Fish, dried, whether or not salted but not smoked, NESOI0305.69.4000 Salmon, salted but not dried or smoked; in brine0305.69.5001 Fish in immediate containers weighing with their contents 6.8 kg or less each, salted but not dried or smoked; in brine, NESOI0305.69.6001 Fish, salted but not dried or smoked; in brine, NESOI0305.71.0000 Shark fins, dried, whether or not salted but not smoked0305.49.0010 Squid, frozen, fillets0307.49.0022 Squid, *Loligo opalescens,* frozen (except fillets), dried, salted or in brine0307.49.0024 Squid, *Loligo pealei,* frozen (except fillets), dried, salted or in brine0307.49.0029 Squid, *Loligo,* frozen (except fillets), dried, salted or in brine, NESOI0307.49.0050 Squid, other, frozen (except fillets), dried, salted or in brine, except Loligo squid0307.49.0060 Cuttle fish (*Sepia officinalis, Rossia macrosoma, Sepiola* spp.), frozen, dried, salted or in brine
 
-(3) *Disposition of Fisheries Certificates of Origin.* The FCO described in paragraph (f)(4) of this section may be obtained from the Administrator, West Coast Region, or downloaded from the Internet at *http://www.nmfs.noaa.gov/pr/dolphinsafe/noaa370.htm.*
+(3) *Disposition of Fisheries Certificates of Origin.* The FCO described in paragraph (f)(4) of this section may be obtained from the Administrator, West Coast Region, or downloaded from the internet at *https://www.fisheries.noaa.gov/national/marine-mammal-protection/noaa-form-370-fisheries-certificate-origin.*
 
 (i) A properly completed FCO, and its attached certifications and statements as described in § 216.91(a), must accompany the required CBP entry documents that are filed at the time of, or in advance of, importation.
 
@@ -621,4 +621,4 @@
 
 (12) *Consistency with international obligations.* The Assistant Administrator shall ensure, in consultation with the Department of State and the Office of the United States Trade Representative that any action taken under this section, including any action to deny a comparability finding or to prohibit imports, is consistent with the international obligations of the United States, including under the World Trade Organization Agreement.
 
-[69 FR 55297, Sept. 13, 2004, as amended at 70 FR 19008, Apr. 12, 2005; 74 FR 1613, Jan. 13, 2009; 81 FR 36184, June 6, 2016; 81 FR 51132, Aug. 3, 2016; 81 FR 54413, Aug. 15, 2016]
+[69 FR 55297, Sept. 13, 2004, as amended at 70 FR 19008, Apr. 12, 2005; 74 FR 1613, Jan. 13, 2009; 81 FR 36184, June 6, 2016; 81 FR 51132, Aug. 3, 2016; 81 FR 54413, Aug. 15, 2016; 83 FR 3625, Jan. 26, 2018]

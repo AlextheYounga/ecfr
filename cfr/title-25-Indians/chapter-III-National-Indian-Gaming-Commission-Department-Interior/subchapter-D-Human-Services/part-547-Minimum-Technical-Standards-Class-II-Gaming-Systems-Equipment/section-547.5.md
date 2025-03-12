@@ -1,90 +1,100 @@
 ##### § 547.5 How does a tribal government, TGRA, or tribal gaming operation comply with this part? #####
 
-Link to an amendment published at 82 FR 61175, Dec. 27, 2017.
+(a) *Gaming systems manufactured before November 10, 2008.* (1) Any Class II gaming system manufactured before November 10, 2008, that is not compliant with paragraph (b) of this section may be made available for use at any tribal gaming operation if:
 
-(a) *Grandfathered gaming systems:* Any Class II gaming system manufactured before November 10, 2008, that is not already certified pursuant to this sub-section or compliant with paragraph (c) of this section may be made available for use at any tribal gaming operation if:
+(i) The Class II gaming system software that affects the play of the Class II game, together with the signature verification required by § 547.8(f) was submitted to a testing laboratory within 120 days after November 10, 2008, or October 22, 2012;
 
-(1) The TGRA submits the Class II gaming system software that affects the play of the Class II game, together with the signature verification required by § 547.8(f) to a testing laboratory recognized pursuant to paragraph (f) of this section within 120 days after October 22, 2012;
+(ii) The testing laboratory tested the submission to the standards established by § 547.8(b), § 547.8(f), and § 547.14;
 
-(2) The testing laboratory tests the submission to the standards established by § 547.8(b), § 547.8(f), § 547.14, and any additional technical standards adopted by the TGRA;
+(iii) The testing laboratory provided the TGRA with a formal written report setting forth and certifying to the findings and conclusions of the test;
 
-(3) The testing laboratory provides the TGRA with a formal written report setting forth and certifying to the findings and conclusions of the test;
+(iv) The TGRA made a finding, in the form of a certificate provided to the supplier or manufacturer of the Class II gaming system, that the Class II gaming system is compliant with § 547.8(b), § 547.8(f), and § 547.14;
 
-(4) The TGRA makes a finding, in the form of a certificate provided to the supplier or manufacturer of the Class II gaming system, that the Class II gaming system qualifies for grandfather status under the provisions of this section. A TGRA may make such a finding only upon receipt of a testing laboratory's report that the Class II gaming system is compliant with § 547.8(b), § 547.8(f), § 547.14, and any other technical standards adopted by the TGRA. If the TGRA does not issue the certificate, or if the testing laboratory finds that the Class II gaming system is not compliant with § 547.8(b), § 547.8(f), § 547.14, or any other technical standards adopted by the TGRA, then the gaming system must immediately be removed from play and not be utilized.
+(v) The Class II gaming system is only used as approved by the TGRA and the TGRA transmitted its notice of that approval, identifying the Class II gaming system and its components, to the Commission;
 
-(5) The TGRA retains a copy of any testing laboratory's report so long as the Class II gaming system that is the subject of the report remains available to the public for play; and
+(vi) Remote communications with the Class II gaming system are only allowed if authorized by the TGRA; and
 
-(6) The TGRA retains a copy of any certificate of grandfather status so long as the Class II gaming system that is the subject of the certificate remains available to the public for play.
+(vii) Player interfaces of the Class II gaming system exhibit information consistent with § 547.7(d) and any other information required by the TGRA.
 
-(b) *Grandfather provisions.* All Class II gaming systems manufactured on or before November 10, 2008, that have been certified pursuant to paragraph (a) of this section, are grandfathered Class II gaming systems for which the following provisions apply:
+(2) For so long as a Class II gaming system is made available for use at any tribal gaming operation pursuant to this paragraph (a) the TGRA shall:
 
-(1) Grandfathered Class II gaming systems may continue in operation for a period of ten years from November 10, 2008.
+(i) Retain copies of the testing laboratory's report, the TGRA's compliance certificate, and the TGRA's approval of the use of the Class II gaming system;
 
-(2) Grandfathered Class II gaming systems may only be used as approved by the TGRA. The TGRA must transmit its notice of that approval, identifying the grandfathered Class II gaming system and its components, to the Commission.
+(ii) Maintain records identifying the Class II gaming system and its current components; and
 
-(3) Remote communications may only be allowed if authorized by the TGRA.
+(iii) Annually review the testing laboratory reports associated with the Class II gaming system and its current components to determine whether the Class II gaming system may be approved pursuant to paragraph (b)(1)(v) of this section. The TGRA shall make a finding identifying the Class II gaming systems reviewed, the Class II gaming systems subsequently approved pursuant to paragraph (b)(1)(v), and, for Class II gaming systems that cannot be approved pursuant to paragraph (b)(1)(v), the components of the Class II gaming system preventing such approval.
 
-(4) As permitted by the TGRA, individual hardware or software components of a grandfathered Class II gaming system may be repaired or replaced to ensure proper functioning, security, or integrity of the grandfathered Class II gaming system.
+(3) If the Class II gaming system is subsequently approved by the TGRA pursuant to paragraph (b)(1)(v) as compliant with paragraph (b) of this section, this paragraph (a) no longer applies.
 
-(5) All modifications that affect the play of a grandfathered Class II gaming system must be approved pursuant to paragraph (c) of this section, except for the following:
+(b) *Gaming system submission, testing, and approval - generally.* (1) Except as provided in paragraph (a) of this section, a TGRA may not permit the use of any Class II gaming system in a tribal gaming operation unless:
 
-(i) Any software modifications that the TGRA finds will maintain or advance the Class II gaming system's overall compliance with this part or any applicable provisions of part 543 of this chapter, after receiving a new testing laboratory report that the modifications are compliant with the standards established by § 547.4(a), § 547.8(b), § 547.14, and any other standards adopted by the TGRA;
+(i) The Class II gaming system has been submitted to a testing laboratory;
 
-(ii) Any hardware modifications that the TGRA finds will maintain or advance the Class II gaming system's overall compliance with this part or any applicable provisions of part 543 of this chapter; and
+(ii) The testing laboratory tests the submission to the standards established by:
 
-(iii) Any other modification to the software of a grandfathered Class II gaming system that the TGRA finds will not detract from, compromise or prejudice:
+(A) This part;
 
-(A) The proper functioning, security, or integrity of the Class II gaming system, and
+(B) Any applicable provisions of part 543 of this chapter that are testable by the testing laboratory; and
 
-(B) The gaming system's overall compliance with the requirements of this part or any applicable provisions of part 543 of this chapter.
+(C) The TGRA;
 
-(iv) No such modification may be implemented without the approval of the TGRA. The TGRA must maintain a record of the modification so long as the Class II gaming system that is the subject of the modification remains available to the public for play and must make the record available to the Commission upon request. The Commission will only make available for public review records or portions of records subject to release under the Freedom of Information Act, 5 U.S.C. 552; the Privacy Act of 1974, 5 U.S.C. 552a; or the Indian Gaming Regulatory Act, 25 U.S.C. 2716(a).
+(iii) The testing laboratory provides a formal written report to the party making the submission, setting forth and certifying its findings and conclusions, and noting compliance with any standard established by the TGRA pursuant to paragraph (b)(1)(ii)(C) of this section;
 
-(6) The player interface must exhibit information consistent with § 547.7(d) and any other information required by the TGRA.
+(iv) The testing laboratory's written report confirms that the operation of a player interface prototype has been certified that it will not be compromised or affected by electrostatic discharge, liquid spills, electromagnetic interference, or any other tests required by the TGRA;
 
-(7) If a grandfathered Class II gaming system is approved pursuant to paragraph (c) of this section, it ceases to be a grandfathered system and the restrictions of paragraph (a) and (b) of this section no longer apply.
+(v) Following receipt of the testing laboratory's report, the TGRA makes a finding that the Class II gaming system conforms to the standards established by:
 
-(c) *Submission, testing, and approval - generally.* Except as provided in paragraphs (b) and (d) of this section, a TGRA may not permit the use of any Class II gaming system, or any associated cashless system or voucher system or any modification thereto, in a tribal gaming operation unless:
+(A) This part;
 
-(1) The Class II gaming system, cashless system, voucher system, or modification thereto has been submitted to a testing laboratory;
+(B) Any applicable provisions of part 543 of this chapter that are testable by the testing laboratory; and
 
-(2) The testing laboratory tests the submission to the standards established by:
+(C) The TGRA.
 
-(i) This part;
+(2) For so long as a Class II gaming system is made available for use at any tribal gaming operation pursuant to this paragraph (b) the TGRA shall:
 
-(ii) Any applicable provisions of part 543 of this chapter that are testable by the testing laboratory; and
+(i) Retain a copy of the testing laboratory's report; and
 
-(iii) The TGRA;
+(ii) Maintain records identifying the Class II gaming system and its current components.
 
-(3) The testing laboratory provides a formal written report to the party making the submission, setting forth and certifying its findings and conclusions, and noting compliance with any standard established by the TGRA pursuant to paragraph (c)(2)(iii) of this section;
+(c) *Class II gaming system component repair, replacement, or modification.* (1) As permitted by the TGRA, individual hardware or software components of a Class II gaming system may be repaired or replaced to ensure proper functioning, security, or integrity of the Class II gaming system.
 
-(4) The testing laboratory's written report confirms that the operation of a player interface prototype has been certified that it will not be compromised or affected by electrostatic discharge, liquid spills, electromagnetic interference, radio frequency interference, or any other tests required by the TGRA;
+(2) A TGRA may not permit the modification of any Class II gaming system in a tribal gaming operation unless:
 
-(5) Following receipt of the testing laboratory's report, the TGRA makes a finding that the Class II gaming system, cashless system, or voucher system conforms to the standards established by:
+(i) The Class II gaming system modification has been submitted to a testing laboratory;
 
-(i) This part;
+(ii) The testing laboratory tests the submission to the standards established by:
 
-(ii) Any applicable provisions of part 543 of this chapter that are testable by the testing laboratory; and
+(A) This part;
 
-(iii) The TGRA.
+(B) Any applicable provisions of part 543 of this chapter that are testable by the testing laboratory; and
 
-(6) The TGRA retains a copy of the testing laboratory's report required by paragraph (c) of this section for as long as the Class II gaming system, cashless system, voucher system, or modification thereto that is the subject of the report remains available to the public for play in its tribal gaming operation.
+(C) The TGRA;
 
-(d) *Emergency hardware and software modifications.* (1) A TGRA, in its discretion, may permit the modification of previously approved hardware or software to be made available for play without prior laboratory testing or review if the modified hardware or software is:
+(iii) The testing laboratory provides a formal written report to the party making the submission, setting forth and certifying its findings and conclusions, and noting compliance with any standard established by the TGRA pursuant to paragraph (c)(2)(ii)(C) of this section;
+
+(iv) Following receipt of the testing laboratory's report, the TGRA makes a finding that the:
+
+(A) The modification will maintain or advance the Class II gaming system's compliance with this part and any applicable provisions of part 543 of this chapter; and
+
+(B) The modification will not detract from, compromise or prejudice the proper functioning, security, or integrity of the Class II gaming system;
+
+(3) If a TGRA authorizes a component modification under this paragraph, it must maintain a record of the modification and a copy of the testing laboratory report so long as the Class II gaming system that is the subject of the modification remains available to the public for play.
+
+(d) *Emergency Class II gaming system component modifications.* (1) A TGRA, in its discretion, may permit the modification of previously approved components to be made available for play without prior laboratory testing or review if the modified hardware or software is:
 
 (i) Necessary to correct a problem affecting the fairness, security, or integrity of a game or accounting system or any cashless system, or voucher system; or
 
 (ii) Unrelated to game play, an accounting system, a cashless system, or a voucher system.
 
-(2) If a TGRA authorizes modified software or hardware to be made available for play or use without prior testing laboratory review, the TGRA must thereafter require the hardware or software manufacturer to:
+(2) If a TGRA authorizes modified components to be made available for play or use without prior testing laboratory review, the TGRA must thereafter require the hardware or software manufacturer to:
 
-(i) Immediately advise other users of the same hardware or software of the importance and availability of the update;
+(i) Immediately advise other users of the same components of the importance and availability of the update;
 
-(ii) Immediately submit the new or modified hardware or software to a testing laboratory for testing and verification of compliance with this part and any applicable provisions of part 543 of this chapter that are testable by the testing laboratory; and
+(ii) Immediately submit the new or modified components to a testing laboratory for testing and verification of compliance with this part and any applicable provisions of part 543 of this chapter that are testable by the testing laboratory; and
 
-(iii) Immediately provide the TGRA with a software signature verification tool meeting the requirements of § 547.8(f) for any new or modified software.
+(iii) Immediately provide the TGRA with a software signature verification tool meeting the requirements of § 547.8(f) for any new or modified software component.
 
-(3) If a TGRA authorizes a software or hardware modification under this paragraph, it must maintain a record of the modification and a copy of the testing laboratory report so long as the Class II gaming system that is the subject of the modification remains available to the public for play and must make the record available to the Commission upon request. The Commission will only make available for public review records or portions of records subject to release under the Freedom of Information Act, 5 U.S.C. 552; the Privacy Act of 1974, 5 U.S.C. 552a; or the Indian Gaming Regulatory Act, 25 U.S.C. 2716(a).
+(3) If a TGRA authorizes a component modification under this paragraph, it must maintain a record of the modification and a copy of the testing laboratory report so long as the Class II gaming system that is the subject of the modification remains available to the public for play.
 
 (e) *Compliance by charitable gaming operations.* This part does not apply to charitable gaming operations, provided that:
 
@@ -116,10 +126,12 @@ Link to an amendment published at 82 FR 61175, Dec. 27, 2017.
 
 (2) The TGRA must:
 
-(i) Maintain a record of all determinations made pursuant to paragraphs (f)(1)(iii) and (f)(1)(iv) of this section for a minimum of three years and must make the records available to the Commission upon request. The Commission will only make available for public review records or portions of records subject to release under the Freedom of Information Act, 5 U.S.C. 552; the Privacy Act of 1974, 5 U.S.C. 552a; or the Indian Gaming Regulatory Act, 25 U.S.C. 2716(a).
+(i) Maintain a record of all determinations made pursuant to paragraphs (f)(1)(iii) and (f)(1)(iv) of this section for a minimum of three years.
 
 (ii) Place the testing laboratory under a continuing obligation to notify it of any adverse regulatory action in any jurisdiction where the testing laboratory conducts business.
 
 (iii) Require the testing laboratory to provide notice of any material changes to the information provided to the TGRA.
 
-[77 FR 58479, Sept. 21, 2012, as amended at 78 FR 24062, Apr. 24, 2013]
+(g) *Records.* Records required to be maintained under this section must be made available to the Commission upon request. The Commission may use the information derived therefrom for any lawful purpose including, without limitation, to monitor the use of Class II gaming systems, to assess the effectiveness of the standards required by this part, and to inform future amendments to this part. The Commission will only make available for public review records or portions of records subject to release under the Freedom of Information Act, 5 U.S.C. 552; the Privacy Act of 1974, 5 U.S.C. 552a; or the Indian Gaming Regulatory Act, 25 U.S.C. 2716(a).
+
+[82 FR 61175, Dec. 27, 2017]

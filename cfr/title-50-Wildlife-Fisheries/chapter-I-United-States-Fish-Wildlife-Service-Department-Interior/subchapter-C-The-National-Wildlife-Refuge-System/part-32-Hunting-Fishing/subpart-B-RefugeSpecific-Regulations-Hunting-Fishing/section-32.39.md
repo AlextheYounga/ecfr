@@ -20,6 +20,8 @@ Blackwater National Wildlife Refuge
 
 7. You may use trained dogs to assist in the retrieval of harvested birds.
 
+*B. Upland Game Hunting.* {Reserved}
+
 *C. Big Game Hunting.* We allow the hunting of white-tailed and sika deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
 
 1. General Hunt Regulations.
