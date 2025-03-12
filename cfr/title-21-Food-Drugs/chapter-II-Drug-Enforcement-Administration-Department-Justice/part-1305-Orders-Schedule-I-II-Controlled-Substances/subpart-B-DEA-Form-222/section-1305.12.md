@@ -1,5 +1,7 @@
 ##### § 1305.12 Procedure for executing DEA Forms 222. #####
 
+Link to an amendment published at 86 FR 38232, July 20, 2021.
+
 (a) A purchaser must prepare and execute a DEA Form 222 by use of a typewriter, computer printer, pen, or indelible pencil.
 
 (b) Only one item may be entered on each numbered line. An item must consist of one or more commercial or bulk containers of the same finished or bulk form and quantity of the same substance. The number of lines completed must be noted on that form at the bottom of the form, in the space provided. DEA Forms 222 for carfentanil, etorphine hydrochloride, and diprenorphine must contain only these substances.

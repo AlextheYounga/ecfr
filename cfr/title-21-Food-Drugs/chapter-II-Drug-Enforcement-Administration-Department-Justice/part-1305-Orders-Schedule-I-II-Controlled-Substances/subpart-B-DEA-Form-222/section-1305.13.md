@@ -1,5 +1,7 @@
 ##### § 1305.13 Procedure for filling DEA Forms 222. #####
 
+Link to an amendment published at 86 FR 38232, July 20, 2021.
+
 (a) A purchaser must make a copy of the original DEA Form 222 for its records and then submit the original to the supplier. The copy retained by the purchaser may be in paper or electronic form.
 
 (b) A supplier may fill the order, if possible and if the supplier desires to do so, and must record on the original DEA Form 222 its DEA registration number and the number of commercial or bulk containers furnished on each item and the date on which the containers are shipped to the purchaser. If an order cannot be filled in its entirety, it may be filled in part and the balance supplied by additional shipments within 60 days following the date of the DEA Form 222. No DEA Form 222 is valid more than 60 days after its execution by the purchaser, except as specified in paragraph (f) of this section.

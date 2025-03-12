@@ -1,7 +1,5 @@
 ##### § 51c.303 Project elements. #####
 
-Link to an amendment published at 85 FR 83830, Dec. 23, 2020.Link to a delay published at 86 FR 7059, Jan. 26, 2021.Link to a further delay published at 86 FR 15423, Mar. 23, 2021.
-
 A community health center supported under this subpart must:
 
 (a) Provide the health services of the center so that such services are available and accessible promptly, as appropriate, and in a manner which will assure continuity of service to the residents of the center's catchment area.
@@ -76,4 +74,26 @@ A community health center supported under this subpart must:
 
 (3) An assurance that services shall be available to all residents of the catchment area without regard to method of payment or health status.
 
-[41 FR 53205, Dec. 3, 1976, as amended at 85 FR 72908, Nov. 16, 2020]
+(w)(1) *Provision.* To the extent that an applicant for funding under Section 330(e) of the Public Health Service Act (42 U.S.C. 254b(e)) has indicated that it plans to distribute, either directly, or through a written agreement, drugs purchased through the 340B Drug Pricing Program (42 U.S.C. 256b), and to the extent that such applicant plans to make insulin and/or injectable epinephrine available to its patients, the applicant shall provide an assurance that it has established practices to provide insulin and injectable epinephrine at or below the discounted price paid by the health center grantee or subgrantee under the 340B Drug Pricing Program (plus a minimal administration fee) to health center patients with low incomes, as determined by the Secretary, who have a high cost sharing requirement for either insulin or injectable epinephrine; have a high unmet deductible; or have no health insurance.
+
+(2) *Definitions.* For purposes of this paragraph (w) exclusively:
+
+(i) *Established practices.* The health center has written policies, procedures, and/or other relevant documents that it has established practices to offer insulin and injectable epinephrine at no more than the discounted price paid by the health center under the 340B Drug Pricing Program plus a minimal administration fee. Such established practices may reflect that provision of insulin and injectable epinephrine at or below the 340B discounted price is subject to potential restrictions through contracts with third-party payors.
+
+(ii) *Health center grantee or subgrantee.* Organizations receiving an award under section 330(e) of the PHS Act (*i.e.,* health centers) directly or as subgrantees of section 330(e) grant funding.
+
+(iii) *Minimal administration fee.* The minimal administration fee includes any dispensing fee, counseling costs, and any other charges associated with the patient receiving the medication. The administration fee may not create a barrier to low-income health center patients accessing these drugs, and health centers should make every reasonable effort to keep the fee as low as possible. Health centers may refer to the Medicaid dispensing fee in their state as a reference for minimal administration fees. When there is a separate fee associated with provision of the pharmaceutical service, such as a dispensing fee, health centers must apply a sliding fee discount to that fee.
+
+(iv) *Individuals with low incomes.* Individuals and families with annual incomes no greater than 350 percent of the Federal Poverty Guidelines.
+
+(v) *High cost sharing requirement.* A cost sharing requirement that exceeds twenty percent of the amount the health center charges its patients for the drug is a high cost sharing requirement. Cost sharing refers to a patient's out-of-pocket costs, including, but not limited to, deductibles, coinsurance, and copayments, or similar charges.
+
+(vi) *High deductible.* High deductible refers to a deductible amount that is not less than the amount required for a high deductible health plan as defined in section 223(c)(2)(A) of the Internal Revenue Code, as implemented by the Internal Revenue Service.
+
+(vii) *High unmet deductible.* High unmet deductible refers to the amount a patient owes toward their high deductible at any time during a plan year in which the outstanding deductible portion exceeds 20 percent of the total deductible for the plan year.
+
+(viii) *Health insurance.* Health insurance refers to private insurance, State and exchange plans, employer-funded plans, and coverage under titles XVIII, XIX, and XXI of the Social Security Act.
+
+(ix) “*Patient.”* an individual is not be considered a “patient” of the health center if the only health care service received by the individual from the health center is the dispensing of a drug or drugs for subsequent self-administration or administration in the home setting.
+
+[41 FR 53205, Dec. 3, 1976, as amended at 85 FR 72908, Nov. 16, 2020; 85 FR 83830, Dec. 23, 2020]
