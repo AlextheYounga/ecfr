@@ -1,5 +1,7 @@
 ##### § 50-201.3 Insertion of stipulations. #####
 
+Link to an amendment published at 88 FR 2218, Jan. 13, 2023.
+
 Except as hereinafter directed, in every contract made and entered into by an executive department, independent establishment, or other agency or instrumentality of the United States, or by the District of Columbia, or by any corporation all the stock of which is beneficially owned by the United States, for the manufacture or furnishing of materials, supplies, articles, and equipment, the contracting officer shall cause to be inserted or incorporated by reference in such invitation or the specifications and in such contract, the following stipulations:
 
 Representations and Stipulations Pursuant to Public Law 846, 74th Congress, as Amended

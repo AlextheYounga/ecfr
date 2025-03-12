@@ -1,5 +1,7 @@
 ##### § 100.4 Unwarrantable failure and immediate notification. #####
 
+Link to an amendment published at 88 FR 2218, Jan. 13, 2023.
+
 (a) The minimum penalty for any citation or order issued under section 104(d)(1) of the Mine Act shall be $2,648.
 
 (b) The minimum penalty for any order issued under section 104(d)(2) of the Mine Act shall be $5,293.

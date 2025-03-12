@@ -1,5 +1,7 @@
 ##### § 5.235 Prohibited practices. #####
 
+Link to an amendment published at 88 FR 2228, Jan. 13, 2023.
+
 (a) *Restrictions.* An advertisement of distilled spirits shall not contain:
 
 (1) Any statement that is false or untrue in any material particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter tends to create a misleading impression.

@@ -1,5 +1,7 @@
 ##### § 100.5 Determination of penalty amount; special assessment. #####
 
+Link to an amendment published at 88 FR 2218, Jan. 13, 2023.
+
 (a) MSHA may elect to waive the regular assessment under § 100.3 if it determines that conditions warrant a special assessment.
 
 (b) When MSHA determines that a special assessment is appropriate, the proposed penalty will be based on the six criteria set forth in § 100.3(a). All findings shall be in narrative form.

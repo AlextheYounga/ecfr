@@ -1,5 +1,7 @@
 ##### § 655.620 Civil money penalties and other remedies. #####
 
+Link to an amendment published at 88 FR 2214, Jan. 13, 2023.
+
 (a) The Administrator may assess a civil money penalty not to exceed $10,360 for each alien crewmember with respect to whom there has been a violation of the attestation or subpart F or G of this part. The Administrator may also impose appropriate remedy(ies).
 
 (b) In determining the amount of civil money penalty to be assessed, the Administrator shall consider the type of violation committed and other relevant factors. The factors which may be considered include, but are not limited to, the following:

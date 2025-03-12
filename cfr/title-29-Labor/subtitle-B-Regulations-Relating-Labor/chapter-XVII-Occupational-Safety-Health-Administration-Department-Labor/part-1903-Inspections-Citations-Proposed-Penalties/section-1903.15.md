@@ -1,5 +1,7 @@
 ##### § 1903.15 Proposed penalties. #####
 
+Link to an amendment published at 88 FR 2217, Jan. 13, 2023.
+
 (a) After, or concurrent with, the issuance of a citation, and within a reasonable time after the termination of the inspection, the Area Director shall notify the employer by certified mail or by personal service by the Compliance Safety and Health Officer of the proposed penalty in accordance with paragraph (d) of this section, or that no penalty is being proposed. Any notice of proposed penalty shall state that the proposed penalty shall be deemed to be the final order of the Review Commission and not subject to review by any court or agency unless, within 15 working days from the date of receipt of such notice, the employer notifies the Area Director in writing that he intends to contest the citation or the notification of proposed penalty before the Review Commission.
 
 (b) The Area Director shall determine the amount of any proposed penalty, giving due consideration to the appropriateness of the penalty with respect to the size of the business of the employer being charged, the gravity of the violation, the good faith of the employer, and the history of previous violations, in accordance with the provisions of section 17 of the Act and paragraph (d) of this section.

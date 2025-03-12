@@ -40,7 +40,7 @@ Facilities meeting this definition are not contiguous with, and must be geograph
 
 *Replacement in kind* means a replacement which satisfies the design specification.
 
-*Trade secret* means any confidential formula, pattern, process, device, information or compilation of information that is used in an employer's business, and that gives the employer an opportunity to obtain an advantage over competitors who do not know or use it. *See* Appendix E to § 1910.1200 - Definition of a Trade Secret (which sets out the criteria to be used in evaluating trade secrets).
+*Trade secret* means any confidential formula, pattern, process, device, information or compilation of information that is used in an employer's business, and that gives the employer an opportunity to obtain an advantage over competitors who do not know or use it. *See* Appendix E to § 1910.1200—Definition of a Trade Secret (which sets out the criteria to be used in evaluating trade secrets).
 
 (c) *Employee participation.* (1) Employers shall develop a written plan of action regarding the implementation of the employee participation required by this paragraph.
 
@@ -58,7 +58,7 @@ Facilities meeting this definition are not contiguous with, and must be geograph
 
 (iii) Physical data;
 
-(iv) Reactivity data:
+(iv) Reactivity data;
 
 (v) Corrosivity data;
 
@@ -202,7 +202,7 @@ Safety data sheets meeting the requirements of 29 CFR 1910.1200(g) may be used t
 
 (4) The employer shall develop and implement safe work practices to provide for the control of hazards during operations such as lockout/tagout; confined space entry; opening process equipment or piping; and control over entrance into a facility by maintenance, contractor, laboratory, or other support personnel. These safe work practices shall apply to employees and contractor employees.
 
-(g) *Training* - (1) *Initial training.* (i) Each employee presently involved in operating a process, and each employee before being involved in operating a newly assigned process, shall be trained in an overview of the process and in the operating procedures as specified in paragraph (f) of this section. The training shall include emphasis on the specific safety and health hazards, emergency operations including shutdown, and safe work practices applicable to the employee's job tasks.
+(g) *Training*—(1) *Initial training.* (i) Each employee presently involved in operating a process, and each employee before being involved in operating a newly assigned process, shall be trained in an overview of the process and in the operating procedures as specified in paragraph (f) of this section. The training shall include emphasis on the specific safety and health hazards, emergency operations including shutdown, and safe work practices applicable to the employee's job tasks.
 
 (ii) In lieu of initial training for those employees already involved in operating a process on May 26, 1992, an employer may certify in writing that the employee has the required knowledge, skills, and abilities to safely carry out the duties and responsibilities as specified in the operating procedures.
 
@@ -210,7 +210,7 @@ Safety data sheets meeting the requirements of 29 CFR 1910.1200(g) may be used t
 
 (3) *Training documentation.* The employer shall ascertain that each employee involved in operating a process has received and understood the training required by this paragraph. The employer shall prepare a record which contains the identity of the employee, the date of training, and the means used to verify that the employee understood the training.
 
-(h) *Contractors* - (1) *Application.* This paragraph applies to contractors performing maintenance or repair, turnaround, major renovation, or specialty work on or adjacent to a covered process. It does not apply to contractors providing incidental services which do not influence process safety, such as janitorial work, food and drink services, laundry, delivery or other supply services.
+(h) *Contractors*—(1) *Application.* This paragraph applies to contractors performing maintenance or repair, turnaround, major renovation, or specialty work on or adjacent to a covered process. It does not apply to contractors providing incidental services which do not influence process safety, such as janitorial work, food and drink services, laundry, delivery or other supply services.
 
 (2) *Employer responsibilities.* (i) The employer, when selecting a contractor, shall obtain and evaluate information regarding the contract employer's safety performance and programs.
 
@@ -246,7 +246,7 @@ Safety data sheets meeting the requirements of 29 CFR 1910.1200(g) may be used t
 
 (iv) Training of each employee involved in operating a process has been completed.
 
-(j) *Mechanical integrity* - (1) *Application.* Paragraphs (j)(2) through (j)(6) of this section apply to the following process equipment:
+(j) *Mechanical integrity*—(1) *Application.* Paragraphs (j)(2) through (j)(6) of this section apply to the following process equipment:
 
 (i) Pressure vessels and storage tanks;
 
@@ -346,7 +346,7 @@ Safety data sheets meeting the requirements of 29 CFR 1910.1200(g) may be used t
 
 (3) Subject to the rules and procedures set forth in 29 CFR 1910.1200(i)(1) through 1910.1200(i)(12), employees and their designated representatives shall have access to trade secret information contained within the process hazard analysis and other documents required to be developed by this standard.
 
-Appendix A to § 1910.119 - List of Highly Hazardous Chemicals, Toxics and Reactives (Mandatory)
+Appendix A to § 1910.119—List of Highly Hazardous Chemicals, Toxics and Reactives (Mandatory)
 
 This appendix contains a listing of toxic and reactive highly hazardous chemicals which present a potential for a catastrophic event at or above the threshold quantity.
 
@@ -450,7 +450,7 @@ This appendix contains a listing of toxic and reactive highly hazardous chemical
 |                           Nitroaniline (para Nitroaniline                           | 100-01-6 | 5000  |
 |                                    Nitromethane                                     | 75-52-5  | 2500  |
 |                                  Nitrogen Dioxide                                   |10102-44-0|  250  |
-|                        Nitrogen Oxides (NO; NO2; N204; N203)                        |10102-44-0|  250  |
+|                  Nitrogen Oxides (NO; NO<sub>2</sub>; N204; N203)                   |10102-44-0|  250  |
 |                 Nitrogen Tetroxide (also called Nitrogen Peroxide)                  |10544-72-6|  250  |
 |                                Nitrogen Trifluoride                                 |7783-54-2 | 5000  |
 |                                  Nitrogen Trioxide                                  |10544-73-7|  250  |
@@ -489,12 +489,10 @@ This appendix contains a listing of toxic and reactive highly hazardous chemical
 |                                   Trichlorosilane                                   |10025-78-2| 5000  |
 |                               Trifluorochloroethylene                               | 79-38-9  | 10000 |
 |                                  Trimethyoxysilane                                  |2487-90-3 | 1500  |
+|                        \* Chemical Abstract Service Number.                         |          |       |
+|\*\* Threshold Quantity in Pounds (Amount necessary to be covered by this standard). |          |       |
 
-\* Chemical Abstract Service Number.
-
-\*\* Threshold Quantity in Pounds (Amount necessary to be covered by this standard).
-
-Appendix B to § 1910.119 - Block Flow Diagram and Simplified Process Flow Diagram (Nonmandatory)![](/graphics/ec27oc91.026.gif)![](/graphics/ec27oc91.027.gif)Appendix C to § 1910.119 - Compliance Guidelines and Recommendations for Process Safety Management (Nonmandatory)
+Appendix B to § 1910.119—Block Flow Diagram and Simplified Process Flow Diagram (Nonmandatory)![](/graphics/ec27oc91.026.gif)![](/graphics/ec27oc91.027.gif)Appendix C to § 1910.119—Compliance Guidelines and Recommendations for Process Safety Management (Nonmandatory)
 
 This appendix serves as a nonmandatory guideline to assist employers and employees in complying with the requirements of this section, as well as provides other helpful recommendations and information. Examples presented in this appendix are not the only means of achieving the performance goals in the standard. This appendix neither adds nor detracts from the requirements of the standard.
 
@@ -624,7 +622,7 @@ Corrective action is one of the most important parts of the audit. It includes n
 
 It is important to assure that each deficiency identified is addressed, the corrective action to be taken noted, and the audit person or team responsible be properly documented by the employer. To control the corrective action process, the employer should consider the use of a tracking system. This tracking system might include periodic status reports shared with affected levels of management, specific reports such as completion of an engineering study, and a final implementation report to provide closure for audit findings that have been through management of change, if appropriate, and then shared with affected employees and management. This type of tracking system provides the employer with the status of the corrective action. It also provides the documentation required to verify that appropriate corrective actions were taken on deficiencies identified in the audit.
 
-Appendix D to § 1910.119 - Sources of Further Information (Nonmandatory)
+Appendix D to § 1910.119—Sources of Further Information (Nonmandatory)
 
 1. Center for Chemical Process Safety, American Institute of Chemical Engineers, 345 East 47th Street, New York, NY 10017, (212) 705-7319.
 

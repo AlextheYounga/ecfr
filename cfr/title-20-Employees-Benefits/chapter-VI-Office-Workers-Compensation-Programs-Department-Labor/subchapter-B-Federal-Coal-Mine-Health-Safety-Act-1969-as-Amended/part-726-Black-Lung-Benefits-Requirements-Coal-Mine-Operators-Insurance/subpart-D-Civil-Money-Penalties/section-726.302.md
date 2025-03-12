@@ -1,5 +1,7 @@
 ##### § 726.302 Determination of penalty. #####
 
+Link to an amendment published at 88 FR 2215, Jan. 13, 2023.
+
 (a) The following method shall be used for determining the amount of any penalty assessed under this subpart.
 
 (b) The penalty shall be determined by multiplying the daily base penalty amount or amounts, determined in accordance with the formula set forth in this section, by the number of days in the period during which the operator is subject to the security requirements of section 423 of the Act and § 726.4, and fails to secure its obligations under the Act. The period during which an operator is subject to liability for a penalty for failure to secure its obligations shall be deemed to commence on the first day on which the operator met the definition of the term “operator” as set forth in § 725.101 of this subchapter. The period shall be deemed to continue even where the operator has ceased coal mining and any related activity, unless the operator secured its liability for all previous periods through a policy or policies of insurance obtained in accordance with subpart C of this part or has obtained a certification of exemption in accordance with the provisions of § 726.114.

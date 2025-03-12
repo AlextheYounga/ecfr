@@ -4,7 +4,7 @@
 
 (a) *Scope and application.* This section applies to employers who receive a citation for a violation of the Occupational Safety and Health Act.
 
-(b) *Definitions* - (1) *Abatement* means action by an employer to comply with a cited standard or regulation or to eliminate a recognized hazard identified by OSHA during an inspection.
+(b) *Definitions*—(1) *Abatement* means action by an employer to comply with a cited standard or regulation or to eliminate a recognized hazard identified by OSHA during an inspection.
 
 (2) *Abatement date* means:
 
@@ -146,11 +146,11 @@ Non-Mandatory Appendix C contains a sample tag that employers may use to meet th
 
 (iii) The Commission issues a final order vacating the citation.
 
-Appendices to § 1903.19 - Abatement VerificationNote:
+Appendices to § 1903.19—Abatement VerificationNote:
 
 Appendices A through C provide information and nonmandatory guidelines to assist employers and employees in complying with the appropriate requirements of this section.
 
-Appendix A to Section 1903.19 - Sample Abatement-Certification Letter (Nonmandatory)(Name), Area DirectorU. S. Department of Labor - OSHAAddress of the Area Office (on the citation)[Company's Name][Company's Address]
+Appendix A to Section 1903.19—Sample Abatement-Certification Letter (Nonmandatory)(Name), Area DirectorU. S. Department of Labor—OSHAAddress of the Area Office (on the citation)[Company's Name][Company's Address]
 
 The hazard referenced in Inspection Number [insert 9-digit #] for violation identified as:
 
@@ -160,7 +160,7 @@ Signature
 
 Typed or Printed Name
 
-Appendix B to Section 1903.19 - Sample Abatement Plan or Progress Report (Nonmandatory)(Name), Area DirectorU. S. Department of Labor - OSHAAddress of Area Office (on the citation)[Company's Name][Company's Address]Check one:
+Appendix B to Section 1903.19—Sample Abatement Plan or Progress Report (Nonmandatory)(Name), Area DirectorU. S. Department of Labor—OSHAAddress of Area Office (on the citation)[Company's Name][Company's Address]Check one:
 
 Abatement Plan [ ]
 
@@ -201,4 +201,4 @@ Name of primary point of contact for questions: [optional]Telephone number:
 
 \*Abatement plans or progress reports for more than one citation item may be combined in a single abatement plan or progress report if the abatement actions, proposed completion dates, and actual completion dates (for progress reports only) are the same for each of the citation items.
 
-Appendix C to Section 1903.19 - Sample Warning Tag (Nonmandatory)![](/graphics/ec27oc91.000.gif)[62 FR 15337, Mar. 31, 1997]
+Appendix C to Section 1903.19—Sample Warning Tag (Nonmandatory)![](/graphics/ec27oc91.000.gif)[62 FR 15337, Mar. 31, 1997]

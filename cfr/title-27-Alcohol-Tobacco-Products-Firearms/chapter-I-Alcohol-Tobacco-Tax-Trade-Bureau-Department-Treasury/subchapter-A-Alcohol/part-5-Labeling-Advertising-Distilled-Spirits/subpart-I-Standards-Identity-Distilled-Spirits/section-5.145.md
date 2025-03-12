@@ -1,5 +1,7 @@
 ##### § 5.145 Brandy. #####
 
+Link to an amendment published at 88 FR 2228, Jan. 13, 2023.
+
 (a) *The class brandy.* “Brandy” is spirits that are distilled from the fermented juice, mash, or wine of fruit, or from the residue thereof, distilled at less than 95 percent alcohol by volume (190° proof) having the taste, aroma, and characteristics generally attributed to the product, and bottled at not less than 40 percent alcohol by volume (80° proof).
 
 (b) *Label designations.* Brandy conforming to one of the type designations must be designated with the type name or specific designation specified in the requirements for that type. The term “brandy” without further qualification (such as “peach” or “marc”) may only be used as a designation on labels of grape brandy as defined in paragraph (c)(1) of this section. Brandy conforming to one of the type designations defined in paragraphs (c)(1) through (12) of this section must be designated on the label with the type name unless a specific designation is included in the requirements for that type. Brandy, or mixtures thereof, not conforming to any of the types defined in this section must be designated on the label as “brandy” followed immediately by a truthful and adequate statement of composition.
