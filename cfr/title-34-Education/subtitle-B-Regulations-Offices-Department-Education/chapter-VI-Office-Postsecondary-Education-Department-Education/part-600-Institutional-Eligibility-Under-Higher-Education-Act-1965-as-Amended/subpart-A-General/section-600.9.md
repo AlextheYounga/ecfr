@@ -38,4 +38,26 @@ Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
 
 (ii) Through a State authorization reciprocity agreement which designates for this purpose either the State in which the institution's enrolled students reside or the State in which the institution's main campus is located.
 
-(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016]Editorial Note:At 81 FR 92262, Dec. 19, 2016, § 600.9 was amended by revising paragraph (c) and adding paragraph (d), effective July 1, 2018. At 83 FR 31296, July 3, 2019, the revisions to paragraph (c) were delayed until July 1, 2020. At 84 FR 36471, July 29, 2019, the revisions to paragraph (c) were made effective May 26, 2019 by court order.
+(d) An additional location or branch campus of an institution that meets the requirements under paragraph (a)(1) of this section and that is located in a foreign country, *i.e.,* not in a State, must comply with §§ 600.8, 600.10, 600.20, and 600.32, and the following requirements:
+
+(1) For any additional location at which 50 percent or more of an educational program (as defined in § 600.2) is offered, or will be offered, or at a branch campus -
+
+(i) The additional location or branch campus must be legally authorized by an appropriate government authority to operate in the country where the additional location or branch campus is physically located, unless the additional location or branch campus is physically located on a U.S. military base, facility, or area that the foreign country has granted the U.S. military to use and the institution can demonstrate that it is exempt from obtaining such authorization from the foreign country;
+
+(ii) The institution must provide to the Secretary, upon request, documentation of such legal authorization to operate in the foreign country, demonstrating that the foreign governmental authority is aware that the additional location or branch campus provides postsecondary education and that the government authority does not object to those activities;
+
+(iii) The additional location or branch campus must be approved by the institution's recognized accrediting agency in accordance with §§ 602.24(a) and 602.22(a)(2)(viii), as applicable;
+
+(iv) The additional location or branch campus must meet any additional requirements for legal authorization in that foreign country as the foreign country may establish;
+
+(v) The institution must report to the State in which the main campus of the institution is located at least annually, or more frequently if required by the State, the establishment or operation of each foreign additional location or branch campus; and
+
+(vi) The institution must comply with any limitations the State places on the establishment or operation of the foreign additional location or branch campus.
+
+(2) An additional location at which less than 50 percent of an educational program (as defined in § 600.2) is offered or will be offered must meet the requirements for legal authorization in that foreign country as the foreign country may establish.
+
+(3) In accordance with the requirements of 34 CFR 668.41, the institution must disclose to enrolled and prospective students at foreign additional locations and foreign branch campuses the information regarding the student complaint process described in 34 CFR 668.43(b), of the State in which the main campus of the institution is located.
+
+(4) If the State in which the main campus of the institution is located limits the authorization of the institution to exclude the foreign additional location or branch campus, the foreign additional location or branch campus is not considered to be legally authorized by the State.
+
+(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016]

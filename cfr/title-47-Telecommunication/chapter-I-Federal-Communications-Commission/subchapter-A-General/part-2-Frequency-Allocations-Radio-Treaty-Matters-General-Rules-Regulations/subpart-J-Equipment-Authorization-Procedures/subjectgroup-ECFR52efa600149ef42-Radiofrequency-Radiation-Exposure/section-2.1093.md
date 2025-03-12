@@ -1,6 +1,6 @@
 ##### § 2.1093 Radiofrequency radiation exposure evaluation: portable devices. #####
 
-Link to an amendment published at 85 FR 18147, Apr. 1, 2020.Link to a correction of the above amendment published at 85 FR 33578, June 2, 2020.
+Link to an amendment published at 85 FR 18147, Apr. 1, 2020.Link to a correction of the above amendment published at 85 FR 33578, June 2, 2020.Link to an amendment published at 85 FR 38739, June 26, 2020.
 
 (a) Requirements of this section are a consequence of Commission responsibilities under the National Environmental Policy Act to evaluate the environmental significance of its actions. See subpart I of part 1 of this chapter, in particular § 1.1307(b).
 

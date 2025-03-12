@@ -1,5 +1,7 @@
 ##### § 2.101 Frequency and wavelength bands. #####
 
+Link to an amendment published at 85 FR 38632, June 26, 2020.
+
 (a) The radio spectrum shall be subdivided into nine frequency bands, which shall be designated by progressive whole numbers in accordance with the following table. As the unit of frequency is the hertz (Hz), frequencies shall be expressed:
 
 (1) In kilohertz (kHz), up to and including 3 000 kHz;

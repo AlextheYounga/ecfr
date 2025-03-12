@@ -1,5 +1,7 @@
 ##### 552.204-9 Personal Identity Verification requirements. #####
 
+Link to an amendment published at 85 FR 38337, June 26, 2020.
+
 As prescribed in 504.1303, insert the following clause:
 
 Personal Identity Verification Requirements (OCT 2012)

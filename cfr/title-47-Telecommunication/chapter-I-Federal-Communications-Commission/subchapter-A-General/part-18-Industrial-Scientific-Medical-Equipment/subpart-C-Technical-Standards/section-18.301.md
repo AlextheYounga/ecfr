@@ -1,5 +1,7 @@
 ##### § 18.301 Operating frequencies. #####
 
+Link to an amendment published at 85 FR 38740, June 26, 2020.
+
 ISM equipment may be operated on any frequency above 9 kHz except as indicated in § 18.303. The following frequency bands, in accordance with § 2.106 of the rules, are allocated for use by ISM equipment:
 
 |ISM frequency|Tolerance |

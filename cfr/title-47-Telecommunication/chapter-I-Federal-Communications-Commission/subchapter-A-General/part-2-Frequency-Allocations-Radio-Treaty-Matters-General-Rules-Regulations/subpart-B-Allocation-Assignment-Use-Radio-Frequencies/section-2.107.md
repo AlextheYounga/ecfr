@@ -1,5 +1,7 @@
 ##### § 2.107 Radio astronomy station notification. #####
 
+Link to an amendment published at 85 FR 38739, June 26, 2020.
+
 (a) Pursuant to No. 1492 of Article 13 and Section F of Appendix 3 to the international *Radio Regulations* (Geneva, 1982), operators of radio astronomy stations desiring international recognition of their use of specific radio astronomy frequencies or bands of frequencies for reception, should file the following information with the Commission for inclusion in the Master International Frequency Register:
 
 (1) The center of the frequency band observed, in kilohertz up to 28,000 kHz inclusive, in megahertz above 28,000 kHz to 10,500 MHz inclusive and in gigahertz above 10,500 MHz.

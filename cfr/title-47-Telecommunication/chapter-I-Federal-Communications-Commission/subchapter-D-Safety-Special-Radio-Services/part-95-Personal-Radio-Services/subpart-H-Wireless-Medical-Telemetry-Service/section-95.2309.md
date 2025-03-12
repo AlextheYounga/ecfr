@@ -1,6 +1,6 @@
 ##### § 95.2309 WMTS frequency coordination. #####
 
-Link to an amendment published at 84 FR 34799, July 19, 2019.
+Link to an amendment published at 84 FR 34799, July 19, 2019.Link to an amendment published at 85 FR 38740, June 26, 2020.
 
 Operation of WMTS devices is subject to the frequency coordination procedures in this section.
 

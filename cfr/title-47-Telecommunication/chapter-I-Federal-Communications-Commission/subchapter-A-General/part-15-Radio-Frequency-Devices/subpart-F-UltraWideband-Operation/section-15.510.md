@@ -1,5 +1,7 @@
 ##### § 15.510 Technical requirements for through D-wall imaging systems. #####
 
+Link to an amendment published at 85 FR 38740, June 26, 2020.
+
 (a) The UWB bandwidth of an imaging system operating under the provisions of this section must be below 960 MHz or the center frequency, fC, and the frequency at which the highest radiated emission occurs, fM, must be contained between 1990 MHz and 10600 MHz.
 
 (b) Operation under the provisions of this section is limited to through-wall imaging systems operated by law enforcement, emergency rescue or firefighting organizations that are under the authority of a local or state government.

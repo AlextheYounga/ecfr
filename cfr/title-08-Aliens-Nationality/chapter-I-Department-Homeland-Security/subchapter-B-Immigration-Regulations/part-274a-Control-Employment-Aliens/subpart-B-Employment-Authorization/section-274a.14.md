@@ -1,5 +1,7 @@
 ##### § 274a.14 Termination of employment authorization. #####
 
+Link to an amendment published at 85 FR 38628, June 26, 2020.
+
 (a) *Automatic termination of employment authorization.* (1) Employment authorization granted under § 274a.12(c) of this chapter shall automatically terminate upon the occurrence of one of the following events:
 
 (i) The expiration date specified by the Service on the employment authorization document is reached;

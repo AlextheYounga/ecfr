@@ -1,5 +1,7 @@
 ##### 552.238-80 Industrial Funding Fee and Sales Reporting. #####
 
+Link to an amendment published at 85 FR 38337, June 26, 2020.
+
 As prescribed in 538.273(d)(4) insert the following clause:
 
 Industrial Funding Fee and Sales Reporting (MAY 2019)

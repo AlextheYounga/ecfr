@@ -1,5 +1,7 @@
 ##### 570.306 Evaluating offers. #####
 
+Link to an amendment published at 85 FR 38337, June 26, 2020.
+
 (a) The contracting officer must evaluate offers solely in accordance with the factors and subfactors stated in the SFO.
 
 (b) Evaluate prices and document the lease file to demonstrate that the proposed contract price is fair and reasonable. The contracting officer must review the elements of the offeror's proposed rent to analyze whether the individual elements are realistic and reflect the offeror's clear understanding of the work to be performed. The contracting officer must discuss any inconsistencies with the offeror. If the offeror refuses to support or make any changes to the rent proposed, consider the risk to the Government prior to making any lease award.

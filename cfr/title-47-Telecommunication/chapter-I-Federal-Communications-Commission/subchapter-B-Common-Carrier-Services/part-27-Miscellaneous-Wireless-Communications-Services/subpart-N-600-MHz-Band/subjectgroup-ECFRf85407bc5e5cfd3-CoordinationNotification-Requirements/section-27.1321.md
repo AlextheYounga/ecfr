@@ -1,5 +1,7 @@
 ##### § 27.1321 Requirements for operation of base and fixed stations in the 600 MHz downlink band in close proximity to Radio Astronomy Observatories. #####
 
+Link to an amendment published at 85 FR 38740, June 26, 2020.
+
 (a) Licensees must make reasonable efforts to protect the radio astronomy observatory at Green Bank, WV, Arecibo, PR, and those identified in § 15.712(h)(3) of this chapter as part of the Very Long Baseline Array (VLBA) from interference.
 
 (b) 600 MHz band base and fixed stations in the 600 MHz downlink band within 25 kilometers of VLBA observatories are subject to coordination with the National Science Foundation (NSF) prior to commencing operations. The appropriate NSF contact point to initiate coordination is Electromagnetic Spectrum Manager, NSF, 4201 Wilson Blvd., Suite 1045, Arlington, VA 22203, fax 703-292-9034, email *esm@nsf.gov.*

@@ -2,9 +2,9 @@
 
 (a) *Eligible Operating Expenses.* Each study area's eligible operating expenses for purposes of calculating universal service support pursuant to subparts K and M of this part shall be adjusted as follows:
 
-(1) Total eligible annual operating expenses per location shall be limited as follows: Calculate Exp(Y/\> + 1.5 \* mean square error of the regression), where
+(1) Total eligible annual operating expenses per location shall be limited as follows: Calculate Exp(Y + 1.5 \* mean square error of the regression), where
 
-Y/\> = α/\> + β/\>1X1 + β/\>2X2 + β/\>3X3α/\>, β/\>1, β/\>2, and β/\>3 are the coefficients from the regression,X1 is the natural log of the number of housing units in the study area,X2 is the natural log of the number of density (number of housing units per square mile), andX3 is the square of the natural log of the density
+Y = α + β1X1 + β2X2 + β3X3α, β1, β2, and β3 are the coefficients from the regression,X1 is the natural log of the number of housing units in the study area,X2 is the natural log of the number of density (number of housing units per square mile), andX3 is the square of the natural log of the density
 
 (2) Eligible operating expenses are the sum of Cable and Wire Facilities Expense, Central Office Equipment Expense, Network Support and General Expense, Network Operations Expense, Limited Corporate Operations Expense, Information Origination/Termination Expense, Other Property Plant and Equipment Expenses, Customer Operations Expense: Marketing, and Customer Operations Expense: Services.
 
@@ -20,4 +20,4 @@ Y/\> = α/\> + β/\>1X1 + β/\>2X2 + β/\>3X3α/\>, β/\>1, β/\>2, and β/\>3 a
 
 (b) [Reserved]
 
-[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017; 82 FR 16127, Apr. 3, 2017; 82 FR 22903, May 19, 2017; 83 FR 18964, May 1, 2018 ;83 FR 30884, July 2, 2018; 84 FR 4730, Feb. 19, 2019]Editorial Note:At 83 FR 18950, 18964, May 1, 2018, § 54.303 was amended by adding paragraph (a)(6), however, the agency provided two different (a)(6)'s and we were not sure which one to add correctly, so the amendment could not be incorporated due to inaccurate amendatory instruction.
+[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017; 82 FR 16127, Apr. 3, 2017; 82 FR 22903, May 19, 2017; 83 FR 18964, May 1, 2018 ;83 FR 30884, July 2, 2018; 84 FR 4730, Feb. 19, 2019]

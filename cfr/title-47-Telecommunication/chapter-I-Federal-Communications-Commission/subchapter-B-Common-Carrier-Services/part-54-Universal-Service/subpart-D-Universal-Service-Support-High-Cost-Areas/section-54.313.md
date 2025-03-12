@@ -142,7 +142,3 @@ Link to an amendment published at 84 FR 59963, Nov. 7, 2019.Link to an amendment
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 3. At 80 FR 4476, Jan. 27, 2015, § 54.313 (a)(12) was added and (e) was revised. These paragraphs contain information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
-
-4. At 84 FR 4732, Feb. 19, 2019, § 54.313(f)(1)(i) was revised and (f)(5) was added. These paragraphs contain information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
-
-5. At 84 FR 8624, Mar. 11, 2019, § 54.313 (m) was added. This paragraph contains information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

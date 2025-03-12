@@ -1,5 +1,7 @@
 ##### § 2.104 International Table of Frequency Allocations. #####
 
+Link to an amendment published at 85 FR 38633, June 26, 2020.
+
 (a) The International Table of Frequency Allocations is subdivided into the Region 1 Table (column 1 of § 2.106), the Region 2 Table (column 2 of § 2.106), and the Region 3 Table (column 3 of § 2.106). The International Table is included for informational purposes only.
 
 (b) *Regions.* For the allocation of frequencies the International Telecommunication Union (ITU) has divided the world into three Regions1 as shown in Figure 1 of this section and described as follows:

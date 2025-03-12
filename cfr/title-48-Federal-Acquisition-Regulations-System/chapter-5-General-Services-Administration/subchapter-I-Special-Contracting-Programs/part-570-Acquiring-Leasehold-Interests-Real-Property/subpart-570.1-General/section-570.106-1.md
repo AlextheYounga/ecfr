@@ -1,5 +1,7 @@
 ##### 570.106-1 Synopsis of lease awards. #####
 
+Link to an amendment published at 85 FR 38337, June 26, 2020.
+
 (a) Except for lease actions described in paragraph (b) of this section, contracting officers must synopsize in *http://www.FBO.gov* awards exceeding $25,000 total contract value that are likely to result in the award of any subcontracts. However, the dollar threshold is not a prohibition against publicizing an award of a smaller amount when publicizing would be advantageous to industry or to the Government.
 
 (b) A notice is not required if -

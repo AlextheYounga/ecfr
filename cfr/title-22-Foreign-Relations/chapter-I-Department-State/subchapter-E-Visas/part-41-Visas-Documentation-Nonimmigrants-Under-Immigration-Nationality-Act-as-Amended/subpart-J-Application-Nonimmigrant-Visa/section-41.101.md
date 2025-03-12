@@ -1,6 +1,6 @@
 ##### § 41.101 Place of application. #####
 
-(a) *Application for regular visa made at jurisdictional consular office of alien's residence or physical presence.* (1) An alien applying for a nonimmigrant visa shall make application at a consular office having jurisdiction over the alien's place of residence, or if the alien is a resident of Taiwan, at the American Institute in Taiwan, unless -
+(a) *Application for regular visa made at jurisdictional consular office of alien's residence or physical presence.* (1) An alien applying for a nonimmigrant visa shall make application at a consular office having jurisdiction over the alien's place of residence, or if the alien is a resident of Taiwan, at the American Institute in Taiwan, unless—
 
 (i) The alien is physically present in the United States and is entitled to apply for issuance or reissuance of a visa under the provisions of § 41.111(b); or
 
@@ -22,12 +22,12 @@
 
 (5) An alien who possesses more than one nationality and who has, or immediately prior to the alien's last entry into the United States had, a residence in one of the countries of the alien's nationality shall apply at a consular office in the country of such residence.
 
-(d) *Definitions relevant to INA 222(g).* (1) Extraordinary circumstances - Extraordinary circumstances may be found where compelling humanitarian or national interests exist or where necessary for the effective administration of the immigration laws. Extraordinary circumstances shall not be found upon the basis of convenience or financial burden to the alien, the alien's relative, or the alien's employer.
+(d) *Definitions relevant to INA 222(g).* (1) Extraordinary circumstances—Extraordinary circumstances may be found where compelling humanitarian or national interests exist or where necessary for the effective administration of the immigration laws. Extraordinary circumstances shall not be found upon the basis of convenience or financial burden to the alien, the alien's relative, or the alien's employer.
 
-(2) Nationality - For purposes of paragraph (b) of this section, a stateless person shall be considered to be a national of the country which issued the alien's travel document.
+(2) Nationality—For purposes of paragraph (b) of this section, a stateless person shall be considered to be a national of the country which issued the alien's travel document.
 
 (e) *Regular visa defined.* “Regular visa” means a nonimmigrant visa of any classification which does not bear the title “Diplomatic” or “Official.” A nonimmigrant visa is issued as a regular visa unless the alien falls within one of the classes entitled to a diplomatic or an official visa as described in § 41.26(c) or § 41.27(c).
 
-(f) *Q-2 nonimmigrant visas.* The American Consulate General at Belfast is designated to accept applications for the Q-2 visa from residents of the geographic area of Northern Ireland. The American Embassy at Dublin is designated to accept applications for Q-2 visas from residents of the geographic area of the counties of Louth, Monaghan, Cavan, Leitrim, Sligo, and Donegal in the Republic of Ireland. Notwithstanding any other provision of this section, an applicant for a Q-2 visa may not apply at any other consular post. Consular officers at the Consulate General at Belfast and at the Embassy at Dublin have discretion to accept applications for Q-2 visas from aliens who are resident in a qualifying geographic area outside of their respective consular districts, but who are physically present in their consular district.
+(f) [Reserved]
 
-[52 FR 42597, Nov. 5, 1987; 53 FR 9112, Mar. 21, 1988, as amended at 61 FR 1522, Jan. 22, 1996; 61 FR 53058, Oct. 10, 1996; 61 FR 56439, Nov. 1, 1996; 63 FR 671, Jan. 7, 1998; 63 FR 36366, July 6, 1998; 65 FR 14771, Mar. 17, 2000; 66 FR 38542, July 25, 2001; 67 FR 66046, Oct. 30, 2002]
+[52 FR 42597, Nov. 5, 1987; 53 FR 9112, Mar. 21, 1988, as amended at 61 FR 1522, Jan. 22, 1996; 61 FR 53058, Oct. 10, 1996; 61 FR 56439, Nov. 1, 1996; 63 FR 671, Jan. 7, 1998; 63 FR 36366, July 6, 1998; 65 FR 14771, Mar. 17, 2000; 66 FR 38542, July 25, 2001; 67 FR 66046, Oct. 30, 2002; 85 FR 38321, June 26, 2020]
