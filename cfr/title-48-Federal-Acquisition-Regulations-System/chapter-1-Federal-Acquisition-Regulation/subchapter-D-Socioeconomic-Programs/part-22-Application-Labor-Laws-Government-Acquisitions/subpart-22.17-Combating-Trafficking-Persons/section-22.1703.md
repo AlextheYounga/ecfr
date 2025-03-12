@@ -1,5 +1,7 @@
 ##### 22.1703 Policy. #####
 
+Link to an amendment published at 83 FR 65477, Dec. 20, 2018.
+
 The United States Government has adopted a policy prohibiting trafficking in persons, including the trafficking-related activities below. Additional information about trafficking in persons may be found at the Web site for the Department of State's Office to Monitor and Combat Trafficking in Persons at *http://www.state.gov/j/tip*/. Government solicitations and contracts shall -
 
 (a) Prohibit contractors, contractor employees, subcontractors, subcontractor employees, and their agents from -

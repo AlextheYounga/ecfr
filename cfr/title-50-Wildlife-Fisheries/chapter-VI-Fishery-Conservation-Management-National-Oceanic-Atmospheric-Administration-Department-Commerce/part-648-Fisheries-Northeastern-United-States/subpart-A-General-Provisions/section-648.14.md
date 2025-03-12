@@ -104,7 +104,7 @@ Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
 
 (E) Possess more than 5,000 lb (2.27 mt) of butterfish, unless the vessel meets the minimum mesh requirements specified in § 648.23(a).
 
-(F) Take, retain, possess, or land mackerel after a total closure specified under § 648.24(b)(1).
+(F) [Reserved]
 
 (G) Fish for, possess, transfer, receive, or sell; or attempt to fish for, possess, transfer, receive, or sell; more than 20,000 lb (9.08 mt) of mackerel per trip; or land, or attempt to land more than 20,000 lb (9.08 mt) of mackerel per day after 95 percent of the river herring and shad cap has been harvested, if the vessel holds a valid mackerel permit.
 
@@ -1324,4 +1324,4 @@ Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
 
 (2) Fish for, possess, transfer, receive, or land; or attempt to fish for, possess, transfer, receive, or land; more than 40,000 lb (18.14 mt) of Atlantic chub mackerel per trip in or from the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(c), after the annual Atlantic chub mackerel landing limit has been harvested and notice has been provided to the public consistent with the Administrative Procedure Act. A vessel not issued a commercial permit in accordance with § 648.4 that fished exclusively in state waters or a vessel that fished in Federal waters outside of the Mid-Atlantic Forage Species Management Unit that is transiting the area with gear that is stowed and not available for immediate use is exempt from this prohibition.
 
-[74 FR 20535, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[74 FR 20535, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

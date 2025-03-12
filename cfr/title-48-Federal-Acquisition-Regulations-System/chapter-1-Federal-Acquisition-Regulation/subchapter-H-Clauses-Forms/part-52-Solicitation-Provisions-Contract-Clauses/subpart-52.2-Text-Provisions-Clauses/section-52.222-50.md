@@ -1,5 +1,7 @@
 ##### 52.222-50 Combating Trafficking in Persons. #####
 
+Link to an amendment published at 83 FR 65478, Dec. 20, 2018.
+
 As prescribed in 22.1705(a)(1), insert the following clause:
 
 Combating Trafficking in Persons (MAR 2015)

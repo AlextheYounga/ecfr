@@ -1,7 +1,5 @@
 ##### § 110.2 Definitions. #####
 
-Link to an amendment published at 83 FR 58466, Nov. 20, 2018.
-
 As used in this part,
 
 *Accelerator-produced radioactive material* means any material made radioactive by a particle accelerator.
@@ -114,11 +112,11 @@ The phrase *introduced into a hearing* means the introduction or incorporation o
 
 *Non-Proliferation Act* means the Nuclear Non-Proliferation Act of 1978 (Pub. L. 95-242).
 
-*NRC Public Document Room* means the facility at One White Flint North, 11555 Rockville Pike (first floor), Rockville, Maryland, where certain public records of the NRC that were made available for public inspection in paper or microfiche prior to the implementation of the NRC Agencywide Documents Access and Management System, commonly referred to as ADAMS, will remain available for public inspection. It is also the place where NRC makes computer terminals available to access the Publicly Available Records System (PARS) component of ADAMS on the NRC Web site, *http://www.nrc.gov,* and where copies can be viewed or ordered for a fee as set forth in § 9.35 of this chapter. The facility is staffed with reference librarians to assist the public in identifying and locating documents and in using the NRC Website and ADAMS. The NRC Public Document Room is open from 7:45 a.m. to 4:15 p.m., Monday through Friday, except on Federal holidays. Reference service and access to documents may also be requested by telephone (301-415-4737 or 800-397-4209) between 8:30 a.m. and 4:15 p.m., or by e-mail (*PDR.Resource@nrc.gov*), facsimile (301-415-3548), or letter (NRC Public Document Room, One White Flint North, 11555 Rockville Pike (first floor), Rockville, Maryland 20852-2738).
+*NRC Public Document Room* means the facility at One White Flint North, 11555 Rockville Pike (first floor), Rockville, Maryland, where certain public records of the NRC that were made available for public inspection in paper or microfiche prior to the implementation of the NRC Agencywide Documents Access and Management System, commonly referred to as ADAMS, will remain available for public inspection. It is also the place where NRC makes computer terminals available to access the Publicly Available Records System (PARS) component of ADAMS on the NRC Web site, *http://www.nrc.gov,* and where copies can be viewed or ordered for a fee as set forth in § 9.35 of this chapter. The facility is staffed with reference librarians to assist the public in identifying and locating documents and in using the NRC Website and ADAMS. The NRC Public Document Room is open from 7:45 a.m. to 4:15 p.m., Monday through Friday, except on Federal holidays. Reference service and access to documents may also be requested by telephone (301-415-4737 or 800-397-4209) between 8:00 a.m. and 4:00 p.m., or by e-mail (*PDR.Resource@nrc.gov*), facsimile (301-415-3548), or letter (NRC Public Document Room, One White Flint North, 11555 Rockville Pike (first floor), Rockville, Maryland 20852-2738).
 
 *NRC records* means any documentary material made by, in the possession of, or under the control of the Commission under Federal law or in connection with the transaction of public business as evidence of any of the Commission's activities.
 
-*NRC Web site, http://www.nrc.gov,* is the Internet uniform resource locator name for the Internet address of the Web site where NRC will ordinarily make available its public records for inspection.
+NRC Web site, *http://www.nrc.gov,* is the Internet uniform resource locator name for the Internet address of the Web site where NRC will ordinarily make available its public records for inspection.
 
 *Nuclear grade graphite for nuclear end use* means graphite having a purity level better than (*i.e.*, less than) 5 parts per million boron equivalent, as measured according to ASTM standard C1233-98 and intended for use in a nuclear reactor. (Nuclear grade graphite for non-nuclear end use is regulated by the Department of Commerce.)
 

@@ -2,7 +2,7 @@
 
 Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
 
-(a) *Atlantic mackerel.* (1) A vessel must be issued a valid limited access mackerel permit to fish for, possess, or land more than 20,000 lb (9.08 mt) of Atlantic mackerel from or in the EEZ per trip, provided that the fishery has not been closed because 90 percent of the DAH has been harvested, as specified in § 648.24(b)(1)(i).
+(a) *Atlantic mackerel.* (1) *Initial possession limits.* A vessel must be issued a valid limited access mackerel permit to fish for, possess, or land more than 20,000 lb (9.08 mt) of Atlantic mackerel from or in the EEZ per trip, provided that the fishery has not been closed, as specified in § 648.24(b)(1).
 
 (i) A vessel issued a Tier 1 Limited Access Mackerel Permit is authorized to fish for, possess, or land Atlantic mackerel with no possession restriction in the EEZ per trip, and may only land Atlantic mackerel once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours, provided that the fishery has not been closed because 95 percent of the DAH has been harvested, as specified in § 648.24(b)(1)(i).
 
@@ -14,9 +14,9 @@ Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
 
 (v) Both vessels involved in a pair trawl operation must be issued a valid mackerel permits to fish for, possess, or land Atlantic mackerel in the EEZ. Both vessels must be issued the mackerel permit appropriate for the amount of mackerel jointly possessed by both of the vessels participating in the pair trawl operation.
 
-(2) *Mackerel closure possession restrictions.* (i) *Commercial mackerel fishery.* During a closure of the commercial Atlantic mackerel fishery, including closure of the Tier 3 fishery, vessels issued a Limited Access Mackerel Permit may not fish for, possess, or land more than 20,000 lb (9.08 mt) of Atlantic mackerel per trip at any time, and may only land Atlantic mackerel once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours.
+(2) *Closure possession restrictions* - (i) *Limited access fishery.* During a closure of the commercial Atlantic mackerel fishery pursuant to § 648.24(b)(1)(i), when 95 percent of the DAH is harvested, vessels issued a limited access Atlantic mackerel permit may not take and retain, possess, or land more than 20,000 lb (9.08 mt) of Atlantic mackerel per trip at any time, and may only land Atlantic mackerel once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours. Pursuant to § 648.24(b)(1)(ii), when 90 percent of the Tier 3 allocation is harvested, vessels issued a Tier 3 limited access Atlantic mackerel permit may not take and retain, possess, or land more than 20,000 lb (9.08 mt) of Atlantic mackerel per trip at any time, and may only land Atlantic mackerel once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours
 
-(ii) [Reserved]
+(ii) *Entire commercial fishery.* During a closure of the directed commercial Atlantic mackerel fishery pursuant to § 648.24(b)(1)(i), when 100 percent of the DAH is harvested, vessels issued an open or limited access Atlantic mackerel permit may not take and retain, possess, or land more than 5,000 lb (2.26 mt) of Atlantic mackerel per trip at any time, and may only land Atlantic mackerel once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours.
 
 (b) *Longfin squid.* (1) Unless specified in paragraph (b)(2) of this section, during a closure of the directed fishery for longfin squid vessels may not fish for, possess, or land more than 2,500 lb (1.13 mt) of longfin squid per trip at any time, and may only land longfin squid once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours. If a vessel has been issued a longfin squid incidental catch permit (as specified at § 648.4(a)(5)(ii)), then it may not fish for, possess, or land more than 2,500 lb (1.13 mt) of longfin squid per trip at any time and may only land longfin squid once on any calendar day, unless such a vessel meets the criteria outlined in paragraph (b)(2) of this section.
 
@@ -30,4 +30,4 @@ Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
 
 (3) A vessels issued a longfin squid/butterfish incidental catch permit, regardless of mesh size used, may not fish for, possess, or land more than 600 lb (0.27 mt) of butterfish per trip at any time, and may only land butterfish once on any calendar day, which is defined as the 24-hr period beginning at 0001 hours and ending at 2400 hours.
 
-[76 FR 60621, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 77 FR 16480, Mar. 21, 2012; 77 FR 23636, Apr. 20, 2012; 78 FR 3354, Jan. 16, 2013; 79 FR 18843, Apr. 4, 2014; 80 FR 14875, Mar. 20, 2015; 81 FR 24509, Apr. 26, 2016]
+[76 FR 60621, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 77 FR 16480, Mar. 21, 2012; 77 FR 23636, Apr. 20, 2012; 78 FR 3354, Jan. 16, 2013; 79 FR 18843, Apr. 4, 2014; 80 FR 14875, Mar. 20, 2015; 81 FR 24509, Apr. 26, 2016; 83 FR 65315, Dec. 20, 2018]

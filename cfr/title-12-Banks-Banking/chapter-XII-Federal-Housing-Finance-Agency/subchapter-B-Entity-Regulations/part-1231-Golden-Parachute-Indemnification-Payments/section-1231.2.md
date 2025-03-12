@@ -1,5 +1,7 @@
 ##### § 1231.2 Definitions. #####
 
+Link to an amendment published at 83 FR 65289, Dec. 20, 2018.
+
 The following definitions apply to the terms used in this part:
 
 *Affiliated party* means:

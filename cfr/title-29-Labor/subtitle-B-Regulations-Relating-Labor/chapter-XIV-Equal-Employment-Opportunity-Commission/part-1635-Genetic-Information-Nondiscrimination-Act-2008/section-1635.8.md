@@ -1,5 +1,7 @@
 ##### § 1635.8 Acquisition of genetic information. #####
 
+Link to an amendment published at 83 FR 65297, Dec. 20, 2018.
+
 (a) *General prohibition.* A covered entity may not request, require, or purchase genetic information of an individual or family member of the individual, except as specifically provided in paragraph (b) of this section. “Request” includes conducting an Internet search on an individual in a way that is likely to result in a covered entity obtaining genetic information; actively listening to third-party conversations or searching an individual's personal effects for the purpose of obtaining genetic information; and making requests for information about an individual's current health status in a way that is likely to result in a covered entity obtaining genetic information.
 
 (b) *Exceptions.* The general prohibition against requesting, requiring, or purchasing genetic information does not apply:

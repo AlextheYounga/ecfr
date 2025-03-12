@@ -1,5 +1,7 @@
 ##### 22.1702 Definitions. #####
 
+Link to an amendment published at 83 FR 65477, Dec. 20, 2018.
+
 As used in this subpart -
 
 *Agent* means any individual, including a director, an officer, an employee, or an independent contractor, authorized to act on behalf of the organization.

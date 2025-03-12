@@ -1,18 +1,16 @@
 ##### § 70.38 Expiration and termination of licenses and decommissioning of sites and separate buildings or outdoor areas. #####
 
-Link to an amendment published at 83 FR 58465, Nov. 20, 2018.
-
 (a) Each specific license expires at the end of the day on the expiration date stated in the license unless the licensee has filed an application for renewal under § 70.33 not less than 30 days before the expiration date stated in the existing license. If an application for renewal has been filed at least 30 days before the expiration date stated in the existing license, the existing license expires at the end of the day on which the Commission makes a final determination to deny the renewal application or, if the determination states an expiration date, the expiration date stated in the determination.
 
 (b) Each specific license revoked by the Commission expires at the end of the day on the date of the Commission's final determination to revoke the license, or on the expiration date stated in the determination, or as otherwise provided by Commission Order.
 
-(c) Each specific license continues in effect, beyond the expiration date if necessary, with respect to possession of special nuclear material until the Commission notifies the licensee in writing that the license is terminated. During this time, the licensee shall -
+(c) Each specific license continues in effect, beyond the expiration date if necessary, with respect to possession of special nuclear material until the Commission notifies the licensee in writing that the license is terminated. During this time, the licensee shall—
 
 (1) Limit actions involving special nuclear material to those related to decommissioning; and
 
 (2) Continue to control entry to restricted areas until they are suitable for release in accordance with NRC requirements.
 
-(d) Within 60 days of the occurrence of any of the following, consistent with the administrative directions in § 70.5, each licensee shall provide notification to the NRC in writing and either begin decommissioning its site, or any separate building or outdoor area that contains residual radioactivity, so that the building or outdoor area is suitable for release in accordance with NRC requirements, or submit within 12 months of notification a decommissioning plan, if required by paragraph (g)(1) of this section, and begin decommissioning upon approval of that plan if -
+(d) Within 60 days of the occurrence of any of the following, consistent with the administrative directions in § 70.5, each licensee shall provide notification to the NRC in writing and either begin decommissioning its site, or any separate building or outdoor area that contains residual radioactivity, so that the building or outdoor area is suitable for release in accordance with NRC requirements, or submit within 12 months of notification a decommissioning plan, if required by paragraph (g)(1) of this section, and begin decommissioning upon approval of that plan if—
 
 (1) The license has expired pursuant to paragraph (a) or (b) of this section; or
 
@@ -78,11 +76,11 @@ Link to an amendment published at 83 FR 58465, Nov. 20, 2018.
 
 (5) Other site-specific factors which the Commission may consider appropriate on a case-by-case basis, such as regulatory requirements of other government agencies, lawsuits, groundwater treatment activities, monitored natural groundwater restoration, actions that could result in more environmental harm than deferred cleanup, and other factors beyond the control of the licensee.
 
-(j) As the final step in decommissioning, the licensee shall -
+(j) As the final step in decommissioning, the licensee shall—
 
 (1) Certify the disposition of all licensed material, including accumulated wastes, by submitting a completed NRC Form 314 or equivalent information; and
 
-(2) Conduct a radiation survey of the premises where the licensed activities were carried out and submit a report of the results of this survey, unless the licensee demonstrates in some other manner that the premises are suitable for release in accordance with the criteria for decommissioning in 10 CFR part 20, subpart E. The licensee shall, as appropriate -
+(2) Conduct a radiation survey of the premises where the licensed activities were carried out and submit a report of the results of this survey, unless the licensee demonstrates in some other manner that the premises are suitable for release in accordance with the criteria for decommissioning in 10 CFR part 20, subpart E. The licensee shall, as appropriate—
 
 (i) Report levels of gamma radiation in units of millisieverts (microroentgen) per hour at one meter from surfaces, and report levels of radioactivity, including alpha and beta, in units of megabecquerels (disintegrations per minute or microcuries) per 100 square centimeters removable and fixed for surfaces, megabecquerels (microcuries) per milliliter for water, and becquerels (picocuries) per gram for solids such as soils or concrete; and
 
@@ -98,6 +96,6 @@ Link to an amendment published at 83 FR 58465, Nov. 20, 2018.
 
 (ii) Other information submitted by the licensee is sufficient to demonstrate that the premises are suitable for release in accordance with the criteria for decommissioning in 10 CFR part 20, subpart E.
 
-(4) Records required by § 70.51(b)(6) have been received.
+(4) Records required by § 70.51(a) have been received.
 
-[59 FR 36037, July 15, 1994, as amended at 60 FR 38240, July 26, 1995; 61 FR 1115, Jan. 16, 1996; 61 FR 24675, May 16, 1996; 61 FR 29637, 29638, June 12, 1996; 62 FR 39091, July 21, 1997; 66 FR 24049, May 11, 2001; 73 FR 42675, July 23, 2008]
+[59 FR 36037, July 15, 1994, as amended at 60 FR 38240, July 26, 1995; 61 FR 1115, Jan. 16, 1996; 61 FR 24675, May 16, 1996; 61 FR 29637, 29638, June 12, 1996; 62 FR 39091, July 21, 1997; 66 FR 24049, May 11, 2001; 73 FR 42675, July 23, 2008; 83 FR 58465, Nov. 20, 2018]

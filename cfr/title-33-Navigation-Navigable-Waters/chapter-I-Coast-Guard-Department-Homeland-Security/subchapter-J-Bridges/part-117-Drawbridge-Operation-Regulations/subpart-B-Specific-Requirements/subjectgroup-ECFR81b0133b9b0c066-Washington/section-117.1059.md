@@ -1,5 +1,7 @@
 ##### § 117.1059 Snohomish River, Steamboat Slough, and Ebey Slough. #####
 
+Link to an amendment published at 83 FR 65301, Dec. 20, 2018.
+
 (a) Drawtenders of bridges listed in this section shall acknowledge sound signals as follows:
 
 (1) When draw can be opened immediately, two prolonged blasts followed by one short blast or three loud and distinct strokes of a bell.

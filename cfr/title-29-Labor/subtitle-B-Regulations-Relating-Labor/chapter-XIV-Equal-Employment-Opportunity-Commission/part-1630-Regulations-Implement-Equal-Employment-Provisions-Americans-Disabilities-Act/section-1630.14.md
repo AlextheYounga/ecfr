@@ -1,5 +1,7 @@
 ##### § 1630.14 Medical examinations and inquiries specifically permitted. #####
 
+Link to an amendment published at 83 FR 65296, Dec. 20, 2018.
+
 (a) *Acceptable pre-employment inquiry.* A covered entity may make pre-employment inquiries into the ability of an applicant to perform job-related functions, and/or may ask an applicant to describe or to demonstrate how, with or without reasonable accommodation, the applicant will be able to perform job-related functions.
 
 (b) *Employment entrance examination.* A covered entity may require a medical examination (and/or inquiry) after making an offer of employment to a job applicant and before the applicant begins his or her employment duties, and may condition an offer of employment on the results of such examination (and/or inquiry), if all entering employees in the same job category are subjected to such an examination (and/or inquiry) regardless of disability.

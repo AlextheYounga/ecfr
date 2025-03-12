@@ -1,5 +1,7 @@
 ##### § 1231.6 Filing instructions. #####
 
+Link to an amendment published at 83 FR 65291, Dec. 20, 2018.
+
 (a) *Scope.* This section contains the procedures to apply for the consent of the Director to make golden parachute payments under § 1231.3(b) (including entering into agreements to make such payments) or to make excess nondiscriminatory severance plan payments under paragraph (2)(v) of the term *golden parachute payment* as defined in § 1231.2.
 
 (b) *Where to file.* A regulated entity or the Office of Finance must submit a letter application to the Manager, Executive Compensation, Division of Supervision Policy and Support, or to such other person as FHFA may direct.

@@ -1,14 +1,12 @@
 ##### § 310.545 Drug products containing certain active ingredients offered over-the-counter (OTC) for certain uses. #####
 
-Link to an amendment published at 82 FR 60502, December 20, 2017.
-
 (a) A number of active ingredients have been present in OTC drug products for various uses, as described below. However, based on evidence currently available, there are inadequate data to establish general recognition of the safety and effectiveness of these ingredients for the specified uses:
 
 (1) *Topical acne drug products.*
 
 AlcloxaAlkyl isoquinolinium bromideAluminum chlorohydrexAluminum hydroxideBenzocaineBenzoic acidBoric acidCalcium polysulfideCalcium thiosulfateCamphorChloroxylenolCloxyquinCoal tarDibenzothiopheneEstroneMagnesium aluminum silicateMagnesium sulfatePhenolPhenolate sodiumPhenyl salicylatePovidone-iodinePyrilamine maleateResorcinol (as single ingredient)Resorcinol monoacetate (as single ingredient)Salicylic acid (over 2 up to 5 percent)Sodium borateSodium thiosulfateTetracaine hydrochlorideThymolVitamin EZinc oxideZinc stearateZinc sulfide
 
-(2) *Anticaries drug products* - (i) *Approved as of May 7, 1991.*
+(2) *Anticaries drug products*—(i) *Approved as of May 7, 1991.*
 
 Hydrogen fluorideSodium carbonateSodium monofluorophosphate (6 percent rinse)Sodium phosphate
 
@@ -20,7 +18,7 @@ Calcium sucrose phosphateDicalcium phosphate dihydrateDisodium hydrogen phosphat
 
 Phosphoric acid1Sodium dihydrogen phosphateSodium dihydrogen phosphate monohydrateSodium phosphate, dibasic anhydrous reagent1
 
-(3) *Antidiarrheal drug products* - (i) *Approved as of May 7, 1991.*
+(3) *Antidiarrheal drug products*—(i) *Approved as of May 7, 1991.*
 
 Aluminum hydroxideAtropine sulfateCalcium carbonateCarboxymethylcellulose sodiumGlycineHomatropine methylbromideHyoscyamine sulfateLactobacillus acidophilusLactobacillus bulgaricusOpium, powderedOpium tinctureParegoricPhenyl salicylateScopolamine hydrobromideZinc phenolsulfonate
 
@@ -28,7 +26,7 @@ Aluminum hydroxideAtropine sulfateCalcium carbonateCarboxymethylcellulose sodium
 
 Attapulgite, activatedBismuth subnitrateCalcium hydroxideCalcium polycarbophilCharcoal (activated)PectinPolycarbophilPotassium carbonateRhubarb fluidextract
 
-(4) *Antiperspirant drug products* - (i) *Ingredients* - *Approved as of May 7, 1991.*
+(4) *Antiperspirant drug products*—(i) *Ingredients*—*Approved as of May 7, 1991.*
 
 Alum, potassiumAluminum bromohydrateAluminum chloride (alcoholic solutions)Aluminum chloride (aqueous solution) (aerosol only)Aluminum sulfateAluminum sulfate, buffered (aerosol only)Sodium aluminum chlorohydroxy lactate
 
@@ -38,7 +36,7 @@ Aluminum sulfate buffered with sodium aluminum lactate
 
 (5) [Reserved]
 
-(6) *Cold, cough, allergy, bronchodilator, and antiasthmatic drug products* - (i) *Antihistamine drug products* - (A) *Ingredients.*
+(6) *Cold, cough, allergy, bronchodilator, and antiasthmatic drug products*—(i) *Antihistamine drug products*—(A) *Ingredients.*
 
 Methapyrilene hydrochlorideMethapyrilene fumarateThenyldiamine hydrochloride
 
@@ -46,7 +44,7 @@ Methapyrilene hydrochlorideMethapyrilene fumarateThenyldiamine hydrochloride
 
 Phenyltoloxamine dihydrogen citrateMethapyrilene hydrochlorideMethapyrilene fumarateThenyldiamine hydrochloride
 
-(ii) *Nasal decongestant drug products* - (A) *Approved as of May 7, 1991.*
+(ii) *Nasal decongestant drug products*—(A) *Approved as of May 7, 1991.*
 
 Allyl isothiocyanateCamphor (lozenge)Creosote, beechwood (oral)Eucalyptol (lozenge)Eucalyptol (mouthwash)Eucalyptus oil (lozenge)Eucalyptus oil (mouthwash)Menthol (mouthwash)Peppermint oil (mouthwash)Thenyldiamine hydrochlorideThymolThymol (lozenge)Thymol (mouthwash)Turpentine oil
 
@@ -60,7 +58,7 @@ Bornyl acetate (topical)Cedar leaf oil (topical)Creosote, beechwood (topical)Eph
 
 Ammonium chlorideAntimony potassium tartrateBeechwood creosoteBenzoin preparations (compound tincture of benzoin, tincture of benzoin)CamphorChloroformEucalyptol/eucalyptus oilHorehoundIodides (calcium iodide anyhydrous, hydroidic acid syrup, iodized lime, potassium iodide)IpecacIpecac fluidextractIpecac syrupMenthol/peppermint oilPine tar preparations (extract white pine compound, pine tar, syrup of pine tar, compound white pine syrup, white pine)Potassium guaiacolsulfonateSodium citrateSquill preparations (squill, squill extract)Terpin hydrate preparations (terpin hydrate, terpin hydrate elixir)Tolu preparations (tolu, tolu balsam, tolu balsam tincture)Turpentine oil (spirits of turpentine)
 
-(iv) *Bronchodilator drug products* - (A) *Approved as of October 2, 1987.*
+(iv) *Bronchodilator drug products*—(A) *Approved as of October 2, 1987.*
 
 AminophyllineBelladonna alkaloidsEuphorbia piluliferaMetaproterenol sulfateMethoxyphenamine hydrochloridePseudoephedrine hydrochloridePseudoephedrine sulfateTheophylline, anhydrousTheophylline calcium salicylateTheophylline sodium glycinate
 
@@ -74,7 +72,7 @@ AminophyllineBelladonna alkaloidsEuphorbia piluliferaMetaproterenol sulfateMetho
 
 Alkyl isoquinolinium bromideAllantoinBenzalkonium chlorideBenzethonium chlorideBoric acidCalcium undecylenateCaptanChloroxylenolColloidal oatmealCresol, saponatedEthohexadiolEucalyptolJuniper tarLauryl isoquinolinium bromideMentholMercury oleateMethylbenzethonium chlorideMethyl salicylatePhenolPhenolate sodiumPine tarPovidone-iodineResorcinolSodium borateSodium salicylateThymolUndecylenic acid
 
-(8) *Digestive aid drug products* - (i) *Approved as of May 7, 1991.*
+(8) *Digestive aid drug products*—(i) *Approved as of May 7, 1991.*
 
 Bismuth sodium tartrateCalcium carbonateCellulaseDehydrocholic acidDihydroxyaluminum sodium carbonateDuodenal substanceGarlic, dehydratedGlutamic acid hydrochlorideHemicellulaseHomatropine methylbromideMagnesium hydroxideMagnesium trisilicateOx bile extractPancreatinPancrelipasePapainPeppermint oilPepsinSodium bicarbonateSodium citrateSorbitol
 
@@ -86,7 +84,7 @@ AlcoholAluminum hydroxideAmylaseAnise seedAromatic powderAsafetidaAspergillus or
 
 (9) [Reserved]
 
-(10) *External analgesic drug products* - (i) *Analgesic and anesthetic drug products.*
+(10) *External analgesic drug products*—(i) *Analgesic and anesthetic drug products.*
 
 AspirinChloral hydrateChlorobutanolCyclomethycaine sulfateEugenolHexylresorcinolMethapyrilene hydrochlorideSalicylamideThymol
 
@@ -114,11 +112,11 @@ AlcoholAspirinBenzethonium chlorideBenzocaine (0.5 to 1.25 percent)BithionolCala
 
 (11) [Reserved]
 
-(12) *Laxative drug products* - (i)(A) *Bulk laxatives.*
+(12) *Laxative drug products*—(i)(A) *Bulk laxatives.*
 
 AgarCarrageenan (degraded)Carrageenan (native)Guar gun
 
-(i)(B) *Bulk laxatives* - *Approved as of* March 29, 2007.
+(i)(B) *Bulk laxatives*—*Approved as of* March 29, 2007.
 
 Granular dosage forms containing psyllium (hemicellulose), psyllium hydrophilic mucilloid, psyllium seed, psyllium seed (blond), psyllium seed husks, plantago husks, or plantago seed including, but not limited to, any granules that are:(*1*) Swallowed dry prior to drinking liquid,(*2*) Dispersed, suspended, or partially dissolved in liquid prior to swallowing,(*3*) Chewed, partially chewed, or unchewed, and then washed down (or swallowed) with liquid, or(*4*) Sprinkled over food.
 
@@ -130,15 +128,15 @@ Tartaric acid
 
 Poloxamer 188
 
-(iv)(A) *Stimulant laxatives - Approved as of May 7, 1991.*
+(iv)(A) *Stimulant laxatives—Approved as of May 7, 1991.*
 
 AloinBile salts/acidsCalcium pantothenateCalomelColocynthElaterin resinFrangulaGambogeIpomeaJalapOx bilePodophyllum resinPrune concentrate dehydratePrune powderRhubarb, ChineseSodium Oleate
 
-(iv)(B) *Stimulant laxatives - Approved as of January 29, 1999.*
+(iv)(B) *Stimulant laxatives—Approved as of January 29, 1999.*
 
 DanthronPhenolphthalein
 
-(C) *Stimulant laxatives* - *Approved as of* November 5, 2002.
+(C) *Stimulant laxatives*—*Approved as of* November 5, 2002.
 
 Aloe ingredients (aloe, aloe extract, aloe flower extract)Cascara sagrada ingredients (casanthranol, cascara fluidextract aromatic, cascara sagrada bark, cascara sagrada extract, cascara sagrada fluidextract).
 
@@ -148,7 +146,7 @@ Aloe ingredients (aloe, aloe extract, aloe flower extract)Cascara sagrada ingred
 
 AntipyrineCamphorCresolDibucaineDibucaine hydrochlorideEucalyptolLidocaineLidocaine hydrochlorideMethly salicylateMyrrh tincturePyrilamine maleateSorbitolSugarsTetracaineTetracaine hydrochlorideThymol
 
-(15) *Topical otic drug products* - (i) *For the prevention of swimmer's ear and for the drying of water-clogged ears, approved as of May 7, 1991.*
+(15) *Topical otic drug products*—(i) *For the prevention of swimmer's ear and for the drying of water-clogged ears, approved as of May 7, 1991.*
 
 Acetic acid
 
@@ -164,11 +162,11 @@ Ipecac fluidextractIpecac tinctureZinc sulfate
 
 Mercury, ammoniated
 
-(18) *Skin protectant drug products* - (i)(A) *Ingredients - Approved as of May 7, 1991.*
+(18) *Skin protectant drug products*—(i)(A) *Ingredients—Approved as of May 7, 1991.*
 
 Allantoin (wound healing claims only)SulfurTannic acidZinc acetate (wound healing claims only)
 
-(B) *Ingredients - Approved as of* June 4, 2004; June 6, 2005, *for products with annual sales less than $25,000.*
+(B) *Ingredients—Approved as of* June 4, 2004; June 6, 2005, *for products with annual sales less than $25,000.*
 
 BeeswaxBismuth subnitrateBoric acidCetyl alcoholGlyceryl stearateIsopropyl palmitateLive yeast cell derivativeShark liver oilStearyl alcohol
 
@@ -184,19 +182,19 @@ Aluminum hydroxideCocoa butterCysteine hydrochlorideGlycerinProtein hydrolysateR
 
 Bismuth subnitrateBoric acidPyridoxine hydrochlorideSulfurTannic acidTopical starchTrolamineZinc sulfate
 
-(v) *Insect bite and sting drug products* - (A) *Ingredients - Approved as of November 10, 1993.*
+(v) *Insect bite and sting drug products*—(A) *Ingredients—Approved as of November 10, 1993.*
 
 AlcoholAlcohol, ethoxylated alkylAmmonia solution, strongAmmonium hydroxideBenzalkonium chlorideCamphorErgot fluid extractFerric chlorideMentholPeppermint oilPhenolPyrilamine maleateSodium borateTrolamineTurpentine oilZirconium oxide
 
-(B) *Ingredients - Approved as of* June 4, 2004; June 6, 2005, *for products with annual sales less than $25,000.*
+(B) *Ingredients—Approved as of* June 4, 2004; June 6, 2005, *for products with annual sales less than $25,000.*
 
 BeeswaxBismuth subnitrateBoric acidCetyl alcoholGlyceryl stearateIsopropyl palmitateLive yeast cell derivativeShark liver oilStearyl alcohol
 
-(vi) *Poison ivy, poison oak, and poison sumac drug products* - (A) *Ingredients - Approved as of November 10, 1993.*
+(vi) *Poison ivy, poison oak, and poison sumac drug products*—(A) *Ingredients—Approved as of November 10, 1993.*
 
 AlcoholAnion and cation exchange resins bufferedBenzethonium chlorideBenzocaineBenzyl alcoholBismuth subnitrateBithionolBoric acidCamphorCetalkonium chlorideChloral hydrateChlorpheniramine maleateCreosoteDiperodon hydrochlorideDiphenhydramine hydrochlorideEucalyptus oilFerric chlorideGlycerinHectoriteHydrogen peroxideImpatiens biflora tinctureIron oxideIsopropyl alcoholLanolinLead acetateLidocaineMentholMerbrominMercuric chloridePanthenolParethoxycaine hydrochloridePhenolPhenyltoloxamine dihydrogen citratePovidone-vinylacetate copolymersSalicylic acidSimethiconeTannic acidTopical starchTrolamineTurpentine oilZirconium oxideZyloxin
 
-(B) *Ingredients - Approved as of* June 4, 2004; June 6, 2005, *for products with annual sales less than $25,000.*
+(B) *Ingredients—Approved as of* June 4, 2004; June 6, 2005, *for products with annual sales less than $25,000.*
 
 BeeswaxBismuth subnitrateBoric acidCetyl alcoholGlyceryl stearateIsopropyl palmitateLive yeast cell derivativeShark liver oilStearyl alcohol
 
@@ -238,7 +236,7 @@ AlcloxaAlum, potassiumAluminum sulfateAmyltricresols, secondaryBasic fuchsinBenz
 
 Camphorated metacresolChloroxylenol*m*-cresolNystatin
 
-(23) *Internal analgesic drug products* - (i) *Approved as of November 10, 1993.*
+(23) *Internal analgesic drug products*—(i) *Approved as of November 10, 1993.*
 
 Aminobenzoic acidAntipyrineAspirin, aluminumCalcium salicylateCodeineCodeine phosphateCodeine sulfateIodoantipyrineLysine aspirinMethapyrilene fumaratePhenacetinPheniramine maleatePyrilamine maleateQuinineSalsalateSodium aminobenzoate
 
@@ -246,7 +244,7 @@ Aminobenzoic acidAntipyrineAspirin, aluminumCalcium salicylateCodeineCodeine pho
 
 Any atropine ingredientAny ephedrine ingredient
 
-(24) *Orally administered menstrual drug products* - (i) *Approved as of November 10, 1993.*
+(24) *Orally administered menstrual drug products*—(i) *Approved as of November 10, 1993.*
 
 AlcoholAlfalfa leavesAloesAsclepias tuberosaAsparagusBarosmaBearberry (extract of uva ursi)Bearberry fluidextract (extract of bearberry)Blessed thistle (cnicus benedictus)Buchu powdered extract (extract of buchu)Calcium lactateCalcium pantothenateCapsicum oleoresinCascara fluidextract, aromatic (extract of cascara)Chlorprophenpyridamine maleateCimicifuga racemosaCodeineCollinsonia (extract stone root)Corn silkCouch grassDog grass extractEthyl nitriteFerric chlorideFerrous sulfateGentiana lutea (gentian)Glycyrrhiza (licorice)Homatropine methylbromideHydrangea, powdered extract (extract of hydrangea)Hydrastis canadensis (golden seal)Hyoscyamine sulfateJuniper oil (oil of juniper)Magnesium sulfateMethapyrilene hydrochlorideMethenamineMethylene blueNatural estrogenic hormoneNiacinamideNutmeg oil (oil of nutmeg)Oil of erigeronParsleyPeppermint spiritPepsin, essencePhenacetinPhenindamine tartratePhenyl salicylatePiscidia erythrinaPipsissewaPotassium acetatePotassium nitrateRiboflavinSaw palmettoSenecio aureusSodium benzoateSodium nitrateSucroseSulferated oils of turpentineTaraxacum officinaleTheobromine sodium salicylateTheophyllineThiamine hydrochlorideTriticumTurpentine, venice (venice turpertine)Urea
 
@@ -254,13 +252,13 @@ AlcoholAlfalfa leavesAloesAsclepias tuberosaAsparagusBarosmaBearberry (extract o
 
 Any atropine ingredientAny ephedrine ingredient
 
-(25) *Pediculicide drug products* - (i) *Approved as of November 10, 1993.*
+(25) *Pediculicide drug products*—(i) *Approved as of November 10, 1993.*
 
 BenzocaineBenzyl alcoholBenzyl benzoateChlorophenothane (dichlorodiphenyl trichloroethane)Coconut oil soap, aqueousCopper oleateDocusate sodiumFormic acidIsobornyl thiocyanoacetatePicrotoxinPropylene glycolSabadilla alkaloidsSulfur, sublimedThiocyanoacetate
 
 (ii) *Approved as of June 14, 1994.* The combination of pyrethrum extract (formerly named pyrethrins) and piperonyl butoxide in an aerosol dosage formulation.
 
-(26) *Anorectal drug products* - (i) *Anticholinergic drug products.*
+(26) *Anorectal drug products*—(i) *Anticholinergic drug products.*
 
 AtropineBelladonna extract
 
@@ -302,7 +300,7 @@ CholecalciferolCod liver oilLive yeast cell derivativePeruvian balsamShark liver
 
 (xi) *Combination drug products.* Any combination drug product containing hydrocortisone and pramoxine hydrochloride.
 
-(27) *Topical antimicrobial drug products* - (i) *First aid antiseptic drug products.*
+(27) *Topical antimicrobial drug products*—(i) *First aid antiseptic drug products.*
 
 Ammoniated mercuryCalomel (mercurous chloride)Merbromin (mercurochrome)Mercufenol chloride (ortho-chloromercuriphenol, ortho-hydroxyphenylmercuric chloride)Mercuric chloride (bichloride of mercury, mercury chloride)Mercuric oxide, yellowMercuric salicylateMercuric sulfide, redMercuryMercury oleateMercury sulfideNitromersolPara-chloromercuriphenolPhenylmercuric nitrateThimerosalVitromersolZyloxin
 
@@ -318,7 +316,25 @@ CloflucarbanFluorosalanHexachloropheneHexylresorcinolIodine complex (ammonium et
 
 CloflucarbanFluorosalanHexachloropheneHexylresorcinolIodine complex (phosphate ester of alkylaryloxy polyethylene glycol)Iodine tinctureMethylbenzethonium chlorideNonylphenoxypoly (ethyleneoxy) ethanoliodinePhenol (greater than 1.5 percent)Phenol (less than 1.5 percent)Poloxamer iodine complexPovidone-iodine (5 to 10 percent)Secondary amyltricresolsSodium oxychloroseneTribromsalanTriclocarbanTriclosanTriple DyeUndecoylium chloride iodine complex
 
-(28) *Vaginal contraceptive drug products* - (i) *Approved as of October 22, 1998.*
+(v) [Reserved]
+
+(vi) *Health care personnel hand wash drug products.* Approved as of December 20, 2018.
+
+CloflucarbanFluorosalanHexachloropheneHexylresorcinolIodine complex (ammonium ether sulfate and polyoxyethylene sorbitan monolaurate)Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol)Methylbenzethonium chlorideNonylphenoxypoly (ethyleneoxy) ethanoliodinePhenolPoloxamer-iodine complexSecondary amyltricresolsSodium oxychloroseneTribromsalanTriclocarbanTriclosanUndecoylium chloride iodine complex
+
+(vii) [Reserved]
+
+(viii) *Surgical hand scrub drug products.* Approved as of December 20, 2018.
+
+CloflucarbanFluorosalanHexachloropheneHexylresorcinolIodine complex (ammonium ether sulfate and polyoxyethylene sorbitan monolaurate)Iodine complex (phosphate ester of alkylaryloxy polyethylene glycol)Methylbenzethonium chlorideNonylphenoxypoly (ethyleneoxy) ethanoliodinePhenolPoloxamer-iodine complexSecondary amyltricresolsSodium oxychloroseneTribromsalanTriclocarbanTriclosanUndecoylium chloride iodine complex
+
+(ix) [Reserved]
+
+(x) *Patient antiseptic skin preparation drug products.* Approved as of December 20, 2018.
+
+CloflucarbanFluorosalanHexachloropheneHexylresorcinolIodine complex (phosphate ester of alkylaryloxy polyethylene glycol)Iodine tincture (USP)Iodine topical solution (USP)Mercufenol chlorideMethylbenzethonium chlorideNonylphenoxypoly (ethyleneoxy) ethanoliodinePhenolPoloxamer-iodine complexSecondary amyltricresolsSodium oxychloroseneTribromsalanTriclocarbanTriclosanTriple dyeUndecoylium chloride iodine complexCombination of calomel, oxyquinoline benzoate, triethanolamine, and phenol derivativeCombination of mercufenol chloride and secondary amyltricresols in 50 percent alcohol
+
+(28) *Vaginal contraceptive drug products*—(i) *Approved as of October 22, 1998.*
 
 Dodecaethylene glycol monolaurate (polyethylene glycol 600 monolaurate)Laureth 10SMethoxypolyoxyethyleneglycol 550 lauratePhenylmercuric acetatePhenylmercuric nitrateAny other ingredient containing mercury
 
@@ -340,7 +356,7 @@ Claims for “all-day” protection or extended wear claims citing a specific nu
 
 (c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for the OTC uses and containing any active ingredient(s) as specified in paragraph (a) of this section is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
 
-(d) Any OTC drug product that is not in compliance with this section is subject to regulatory action if initially introduced or initially delivered for introduction into interstate commerce after the dates specified in paragraphs (d)(1) through (d)(41) of this section.
+(d) Any OTC drug product that is not in compliance with this section is subject to regulatory action if initially introduced or initially delivered for introduction into interstate commerce after the dates specified in paragraphs (d)(1) through (d)(42) of this section.
 
 (1) May 7, 1991, for products subject to paragraphs (a)(1) through (a)(2)(i), (a)(3)(i), (a)(4)(i), (a)(6)(i)(A), (a)(6)(ii)(A), (a)(7) (except as covered by paragraph (d)(3) of this section), (a)(8)(i), (a)(10)(i) through (a)(10)(iii), (a)(12)(i)(A), (a)(12)(ii) through (a)(12)(iv)(A), (a)(14) through (a)(15)(i), (a)(16) through (a)(18)(i)(A), (a)(18)(ii) (except as covered by paragraph (d)(22) of this section), (a)(18)(iii), (a)(18)(iv), (a)(18)(v)(A), and (a)(18)(vi)(A) of this section.
 
@@ -424,4 +440,6 @@ Claims for “all-day” protection or extended wear claims citing a specific nu
 
 (41) September 6, 2017, for products subject to paragraph (a)(27)(iii) or (iv) of this section.
 
-[55 FR 46919, Nov. 7, 1990]Editorial Note:For Federal Register citations affecting § 310.545, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 61 FR 9571, Mar. 8, 1996, in § 310.545 in paragraph (a)(6)(ii)(B), the entry for “l-desoxyephedrine (topical)” was stayed until further notice.
+(42) December 20, 2018, for products subject to paragraphs (a)(27)(vi) through (x) of this section.
+
+[55 FR 46919, Nov. 7, 1990]Editorial Note:For Federal Register citations affecting § 310.545, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 61 FR 9571, Mar. 8, 1996, in § 310.545 in paragraph (a)(6)(ii)(B), the entry for “l-desoxyephedrine (topical)” was stayed until further notice.
