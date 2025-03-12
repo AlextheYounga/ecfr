@@ -40,8 +40,6 @@ The following definitions apply to terms used in this part:
 
 (2) At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, studio work, and other academic work leading to the award of credit hours.
 
-*Direct assessment program:* A program as described in 34 CFR 668.10.
-
 *Distance education* means education that uses one or more of the technologies listed in paragraphs (1) through (4) of this definition to deliver instruction to students who are separated from the instructor and to support regular and substantive interaction between the students and the instructor, either synchronously or asynchronously. The technologies may include -
 
 (1) The internet;

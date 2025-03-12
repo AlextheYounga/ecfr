@@ -1,5 +1,7 @@
 ##### § 61.80 General operation requirements for supportive housing and service centers. #####
 
+Link to an amendment published at 86 FR 33524, June 25, 2021.
+
 (a) Supportive housing and service centers for which assistance is provided under this part must comply with the requirements of the current edition of the Life Safety Code of the National Fire Protection Association and all applicable state and local housing codes, licensing requirements, fire and safety requirements, and any other requirements in the jurisdiction in which the project is located regarding the condition of the structure and the operation of the supportive housing or service centers. Note: All facilities are to be protected throughout by an approved automatic sprinkler system unless a facility is specifically exempted under the Life Safety Code.
 
 (b) Except for such variations as are proposed by the recipient that would not affect compliance with paragraph (a) of this section and are approved by VA, supportive housing must meet the following requirements:

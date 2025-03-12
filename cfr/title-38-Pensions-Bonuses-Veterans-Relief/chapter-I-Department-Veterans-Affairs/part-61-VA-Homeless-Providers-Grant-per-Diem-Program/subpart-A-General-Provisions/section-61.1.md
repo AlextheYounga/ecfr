@@ -1,5 +1,7 @@
 ##### § 61.1 Definitions. #####
 
+Link to an amendment published at 86 FR 33523, June 25, 2021.
+
 For purposes of this part:
 
 *Area or community* means a political subdivision or contiguous political subdivisions (such as a precinct, ward, borough, city, county, State, Congressional district, etc.) with a separately identifiable population of homeless veterans.

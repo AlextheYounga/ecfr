@@ -1,5 +1,7 @@
 ##### § 61.61 Agreement and funding actions. #####
 
+Link to an amendment published at 86 FR 33524, June 25, 2021.
+
 (a) *Agreement.* When VA selects an applicant for grant or per diem award under this part, VA will incorporate the requirements of this part into an agreement to be executed by VA and the applicant. VA will enforce the agreement through such action as may be appropriate, including temporarily withholding cash payments pending correction of a deficiency. Appropriate actions include actions in accordance with the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards under 2 CFR part 200.
 
 (b) *Obligating funds.* Upon execution of the agreement, VA will obligate funds to cover the amount of the approved grant/per diem, subject to the availability of funding. Payments will be for services rendered, contingent on submission of documentation in the form of invoices or purchase agreements and inspections, as VA deems necessary. VA will make payments on its own schedule to reimburse for amounts expended. Except for increases in the rate of per diem, VA will not increase the amount obligated for assistance under this part after the initial obligation of funds.

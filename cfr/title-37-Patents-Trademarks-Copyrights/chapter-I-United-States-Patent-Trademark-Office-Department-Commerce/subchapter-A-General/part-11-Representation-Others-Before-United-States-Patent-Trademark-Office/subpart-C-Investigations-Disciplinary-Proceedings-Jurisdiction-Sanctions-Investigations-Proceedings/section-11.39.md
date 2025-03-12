@@ -1,16 +1,14 @@
-##### § 11.39 Hearing officer; appointment; responsibilities; review of interlocutory orders; stays. #####
+##### § 11.39 Hearing officer; responsibilities; review of interlocutory orders; stays. #####
 
-Link to an amendment published at 86 FR 28461, May 26, 2021.
+(a) *Designation.* A hearing officer designated by the USPTO Director shall conduct disciplinary proceedings as provided by this part.
 
-(a) *Appointment.* A hearing officer, appointed by the USPTO Director under 5 U.S.C. 3105 or 35 U.S.C. 32, shall conduct disciplinary proceedings as provided by this Part.
+(b) *Independence of the hearing officer.* (1) A hearing officer designated in accordance with paragraph (a) of this section shall not be subject to first-level or second-level supervision by either the USPTO Director or OED Director or his or her designee.
 
-(b) *Independence of the Hearing Officer.* (1) A hearing officer appointed in accordance with paragraph (a) of this section shall not be subject to first level or second level supervision by either the USPTO Director or OED Director, or his or her designee.
+(2) A hearing officer designated in accordance with paragraph (a) of this section shall not be subject to supervision of the person(s) investigating or prosecuting the case.
 
-(2) A hearing officer appointed in accordance with paragraph (a) of this section shall not be subject to supervision of the person(s) investigating or prosecuting the case.
+(3) A hearing officer designated in accordance with paragraph (a) of this section shall be impartial, shall not be an individual who has participated in any manner in the decision to initiate the proceedings, and shall not have been employed under the immediate supervision of the practitioner.
 
-(3) A hearing officer appointed in accordance with paragraph (a) of this section shall be impartial, shall not be an individual who has participated in any manner in the decision to initiate the proceedings, and shall not have been employed under the immediate supervision of the practitioner.
-
-(4) A hearing officer appointed in accordance with paragraph (a) of this section shall be admitted to practice law and have suitable experience and training conducting hearings, reaching a determination, and rendering an initial decision in an equitable manner.
+(4) A hearing officer designated in accordance with paragraph (a) of this section shall be either an administrative law judge appointed under 5 U.S.C. 3105 or an attorney designated under 35 U.S.C. 32. The hearing officer shall possess suitable experience and training in conducting hearings, reaching a determination, and rendering an initial decision in an equitable manner.
 
 (c) *Responsibilities.* The hearing officer shall have authority, consistent with specific provisions of these regulations, to:
 
@@ -46,6 +44,8 @@ Link to an amendment published at 86 FR 28461, May 26, 2021.
 
 (2) In an extraordinary situation where the USPTO Director deems that justice requires review.
 
-(f) *Stays pending review of interlocutory order.* If the OED Director or a respondent seeks review of an interlocutory order of a hearing officer under paragraph (b)(2) of this section, any time period set by the hearing officer for taking action shall not be stayed unless ordered by the USPTO Director or the hearing officer.
+(f) *Stays pending review of interlocutory order.* If the OED Director or a respondent seeks review of an interlocutory order of a hearing officer under paragraph (e)(2) of this section, any time period set by the hearing officer for taking action shall not be stayed unless ordered by the USPTO Director or the hearing officer.
 
 (g) The hearing officer shall engage in no *ex parte* discussions with any party on the merits of the complaint, beginning with appointment and ending when the final agency decision is issued.
+
+[73 FR 47689, Aug. 14, 2008, as amended at 86 FR 28461, May 26, 2021]

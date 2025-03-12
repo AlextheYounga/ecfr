@@ -1,8 +1,6 @@
 ##### § 11.50 Evidence. #####
 
-Link to an amendment published at 86 FR 28462, May 26, 2021.
-
-(a) *Rules of evidence.* The rules of evidence prevailing in courts of law and equity are not controlling in hearings in disciplinary proceedings. However, the hearing officer shall exclude evidence that is irrelevant, immaterial, or unduly repetitious.
+(a) *Rules of evidence.* The rules of evidence prevailing in courts of law and equity are not controlling in hearings in disciplinary proceedings. However, the hearing officer shall exclude evidence that is irrelevant, immaterial, speculative, or unduly repetitious.
 
 (b) *Depositions.* Depositions of witnesses taken pursuant to § 11.51 may be admitted as evidence.
 
@@ -11,3 +9,5 @@ Link to an amendment published at 86 FR 28462, May 26, 2021.
 (d) *Exhibits.* If any document, record, or other paper is introduced in evidence as an exhibit, the hearing officer may authorize the withdrawal of the exhibit subject to any conditions the hearing officer deems appropriate.
 
 (e) *Objections.* Objections to evidence will be in short form, stating the grounds of objection. Objections and rulings on objections will be a part of the record. No exception to the ruling is necessary to preserve the rights of the parties.
+
+[73 FR 47689, Aug. 14, 2008, as amended at 86 FR 28462, May 26, 2021]

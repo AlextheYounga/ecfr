@@ -1,7 +1,5 @@
 ##### § 1.21 Miscellaneous fees and charges. #####
 
-Link to an amendment published at 86 FR 28451, May 26, 2021.
-
 The Patent and Trademark Office has established the following fees for the services indicated:
 
 (a) Registration of attorneys and agents:
@@ -14,9 +12,11 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (A) For test administration by commercial entity: $210.00
 
-(B) For test administration by the USPTO: $470.00
+(B) [Reserved]
 
 (iii) For USPTO-administered review of registration examination: $470.00
+
+(iv) Request for extension of time in which to schedule examination for registration to practice (non-refundable): $115.00
 
 (2) On registration to practice or grant of limited recognition:
 
@@ -30,9 +30,9 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (4) For certificate of good standing as an attorney or agent:
 
-(i) Standard: $40.00.
+(i) Standard: $40.00
 
-(ii) Suitable for framing: $50.00.
+(ii) Suitable for framing: $50.00
 
 (5) For review of decision:
 
@@ -44,11 +44,13 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (i) [Reserved]
 
-(ii) For USPTO-assisted change of address: $70.00.
+(ii) For USPTO-assisted change of address: $70.00
 
 (7)-(8) [Reserved]
 
-(9)(i) Delinquency fee: $50.00.
+(9) Administrative reinstatement fees:
+
+(i) Delinquency fee: $50.00
 
 (ii) Administrative reinstatement fee: $210.00
 
@@ -58,23 +60,23 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (1) [Reserved]
 
-(2) Service charge for each month when the balance at the end of the month is below $1,000: $25.00.
+(2) Service charge for each month when the balance at the end of the month is below $1,000: $25.00
 
-(3) Service charge for each month when the balance at the end of the month is below $300 for restricted subscription deposit accounts used exclusively for subscription order of patent copies as issued: $25.00.
+(3) Service charge for each month when the balance at the end of the month is below $300 for restricted subscription deposit accounts used exclusively for subscription order of patent copies as issued: $25.00
 
 (c)-(d) [Reserved]
 
-(e) International type search reports: For preparing an international type search report of an international type search made at the time of the first action on the merits in a national patent application: $40.00.
+(e) International type search reports: For preparing an international type search report of an international type search made at the time of the first action on the merits in a national patent application: $40.00
 
 (f)-(g) [Reserved]
 
 (h) For recording each assignment, agreement, or other paper relating to the property in a patent or application, per property:
 
-(1) If submitted electronically, on or after January 1, 2014: $0.00.
+(1) If submitted electronically, on or after January 1, 2014: $0.00
 
-(2) If not submitted electronically: $50.00.
+(2) If not submitted electronically: $50.00
 
-(i) Publication in Official Gazette: For publication in the Official Gazette of a notice of the availability of an application or a patent for licensing or sale: Each application or patent: $25.00.
+(i) Publication in Official Gazette: For publication in the Official Gazette of a notice of the availability of an application or a patent for licensing or sale: Each application or patent: $25.00
 
 (j) [Reserved]
 
@@ -82,7 +84,7 @@ The Patent and Trademark Office has established the following fees for the servi
 
 (l) [Reserved]
 
-(m) For processing each payment refused (including a check returned “unpaid”) or charged back by a financial institution: $50.00.
+(m) For processing each payment refused (including a check returned “unpaid”) or charged back by a financial institution: $50.00
 
 (n) For handling an application in which proceedings are terminated pursuant to § 1.53(e): $140.00
 
@@ -108,8 +110,8 @@ Table 2 to Paragraph (o)(2)
 |    By a small entity (§ 1.27(a))    |5,250.00 |
 |By other than a small or micro entity|10,500.00|
 
-(p) Additional Fee for Overnight Delivery: $40.00.
+(p) Additional Fee for Overnight Delivery: $40.00
 
-(q) Additional fee for expedited service: $170.00.
+(q) Additional fee for expedited service: $170.00
 
-[82 FR 52815, Nov. 14, 2017, as amended at 85 FR 46989, Aug. 3, 2020, 85 FR 58283, Sept. 18, 2020]
+[82 FR 52815, Nov. 14, 2017, as amended at 85 FR 46989, Aug. 3, 2020, 85 FR 58283, Sept. 18, 2020; 86 FR 28451, May 26, 2021]

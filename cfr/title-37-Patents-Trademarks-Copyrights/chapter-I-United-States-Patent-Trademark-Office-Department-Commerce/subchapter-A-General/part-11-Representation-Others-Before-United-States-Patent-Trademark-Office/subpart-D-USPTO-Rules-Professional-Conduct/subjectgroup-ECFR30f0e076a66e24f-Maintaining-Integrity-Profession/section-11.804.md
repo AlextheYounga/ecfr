@@ -1,12 +1,10 @@
 ##### § 11.804 Misconduct. #####
 
-Link to an amendment published at 86 FR 28467, May 26, 2021.
-
 It is professional misconduct for a practitioner to:
 
 (a) Violate or attempt to violate the USPTO Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;
 
-(b) Commit a criminal act that reflects adversely on the practitioner's honesty, trustworthiness or fitness as a practitioner in other respects;
+(b) Commit a criminal act that reflects adversely on the practitioner's honesty, trustworthiness, or fitness as a practitioner in other respects, or be convicted of a crime that reflects adversely on the practitioner's honesty, trustworthiness, or fitness as a practitioner in other respects;
 
 (c) Engage in conduct involving dishonesty, fraud, deceit or misrepresentation;
 
@@ -24,6 +22,8 @@ It is professional misconduct for a practitioner to:
 
 (2) The United States, or
 
-(3) The country in which the practitioner resides; or
+(3) A country having disciplinary jurisdiction over the practitioner; or
 
 (i) Engage in other conduct that adversely reflects on the practitioner's fitness to practice before the Office.
+
+[78 FR 20201, Apr. 3, 2013, as amended at 86 FR 28467, May 26, 2021]

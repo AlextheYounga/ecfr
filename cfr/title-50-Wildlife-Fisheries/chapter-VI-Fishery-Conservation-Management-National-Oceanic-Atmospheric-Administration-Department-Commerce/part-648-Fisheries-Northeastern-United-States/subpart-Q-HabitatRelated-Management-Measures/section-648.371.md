@@ -1,5 +1,7 @@
 ##### § 648.371 Dedicated Habitat Research Areas. #####
 
+Link to an amendment published at 86 FR 33558, June 25, 2021.
+
 (a) *Dedicated Habitat Research Area (DHRA) topics.* The areas defined in this section are intended to facilitate coordinated research on gear impacts, habitat recovery, natural disturbance, and productivity.
 
 (b) *Stellwagen Dedicated Habitat Research Area.* (1) The Stellwagen DHRA is defined by the straight lines connecting the following points in the order stated:

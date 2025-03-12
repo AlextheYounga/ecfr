@@ -1,7 +1,5 @@
 ##### § 703.2 Definitions. #####
 
-Link to an amendment published at 86 FR 28247, May 26, 2021.
-
 *The following definitions apply to this part:*
 
 *Adjusted trading* means selling an investment to a counterparty at a price above its current fair value and simultaneously purchasing or committing to purchase from the counterparty another investment at a price above its current fair value.
@@ -27,8 +25,6 @@ Link to an amendment published at 86 FR 28247, May 26, 2021.
 *Custodial Agreement* means a contract in which one party agrees to hold securities in safekeeping for others.
 
 *Delivery versus payment* means payment for an investment must occur simultaneously with its delivery.
-
-*Derivative* means a financial contract which derives its value from the value and performance of some other underlying financial instrument or variable, such as an index or interest rate.
 
 *Embedded option* means a characteristic of an investment that gives the issuer or holder the right to alter the level and timing of the cash flows of the investment. Embedded options include call and put provisions and interest rate caps and floors. Since a prepayment option in a mortgage is a type of call provision, a mortgage-backed security composed of mortgages that may be prepaid is an example of an investment with an embedded option.
 
@@ -104,4 +100,4 @@ Link to an amendment published at 86 FR 28247, May 26, 2021.
 
 *Zero coupon investment* means an investment that makes no periodic interest payments but instead is sold at a discount from its face value. The holder of a zero coupon investment realizes the rate of return through the gradual appreciation of the investment, which is redeemed at face value on a specified maturity date.
 
-[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014; 84 FR 1606, Feb. 5, 2019]
+[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014; 84 FR 1606, Feb. 5, 2019; 86 FR 28247, May 26, 2021]

@@ -1,6 +1,6 @@
 ##### § 701.21 Loans to members and lines of credit to members. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018. This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.Link to an amendment published at 86 FR 28247, May 26, 2021.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018. This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
 
 (a) *Statement of scope and purpose.* Section 701.21 complements the provisions of section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) authorizing Federal credit unions to make loans to members and issue lines of credit (including credit cards) to members. Section 107(5) of the Act contains limitations on matters such as loan maturity, rate of interest, security, and prepayment penalties. Section 701.21 interprets and implements those provisions. In addition, § 701.21 states the NCUA Board's intent concerning preemption of state laws, and expands the authority of Federal credit unions to enforce due-on-sale clauses in real property loans. Also, while § 701.21 generally applies to Federal credit unions only, certain provisions apply to loans made by federally insured, state-chartered credit unions as specified in § 741.203 of this chapter. Part 722 of this chapter sets forth requirements for appraisals for certain real estate secured loans made under § 701.21 and any other applicable lending authority. Finally, it is noted that § 701.21 does not apply to loans by Federal credit unions to other credit unions (although certain statutory limitations in section 107 of the Act apply), nor to loans to credit union organizations which are governed by section 107(5)(D) of the Act and part 712 of this chapter.
 
@@ -289,65 +289,5 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 (B) Loans in which neither the third-party servicer nor any of its affiliates are involved in the origination, underwriting, or insuring of the loan or the process by which the credit union acquires its interest in the loan.
 
 (iv) The term “net worth” means the retained earnings balance of the credit union at quarter end as determined under generally accepted accounting principles and as further defined in § 702.2(f) of this chapter.
-
-(i) *Put option purchases in managing increased interest-rate risk for real estate loans produced for sale on the secondary market* - (1) *Definitions.* For purposes of § 701.21(i):
-
-(i) *Financial options contract* means an agreement to make or take delivery of a standardized financial instrument upon demand by the holder of the contract at any time prior to the expiration date specified in the agreement, under terms and conditions established either by:
-
-(A) A contract market designated for trading such contracts by the Commodity Futures Trading Commission, or
-
-(B) By a Federal credit union and a primary dealer in Government securities that are counterparties in an over-the-counter transaction.
-
-(ii) *FHLMC security* means obligations or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 305 or 306 of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454 and 1455).
-
-(iii) *FNMA security* means an obligation, participation, or any instrument of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association.
-
-(iv) *GNMA security* means an obligation, participation, or any instrument of or issued by, or fully guaranteed as to principal and interest by, the Government National Mortgage Association.
-
-(v) *Long position* means the holding of a financial options contract with the option to make or take delivery of a financial instrument.
-
-(vi) *Primary dealer in Government securities* means:
-
-(A) A member of the Association of Primary Dealers in United States Government Securities; or
-
-(B) Any parent, subsidiary, or affiliated entity of such primary dealer where the member guarantees (to the satisfaction of the FCU's board of directors) over-the-counter sales of financial options contracts by the parent, subsidiary, or affiliated entity to a Federal credit union.
-
-(vii) *Put* means a financial options contract which entitles the holder to sell, entirely at the holder's option, a specified quantity of a security at a specified price at any time until the stated expiration date of the contract.
-
-(2) *Permitted options transactions.* A Federal credit union may, to manage risk of loss through a decrease in value of its commitments to originate real estate loans at specified interest rates, enter into long put positions on GNMA, FNMA, and FHLMC securities:
-
-(i) If the real estate loans are to be sold on the secondary market within ninety (90) days of closing;
-
-(ii) If the positions are entered into:
-
-(A) Through a contract market designated by the Commodity Futures Trading Commission for trading such contracts, or
-
-(B) With a primary dealer in Government securities;
-
-(iii) If the positions are entered into pursuant to written policies and procedures which are approved by the Federal credit union's board of directors, and include, at a minimum:
-
-(A) The Federal credit union's strategy in using financial options contracts and its analysis of how the strategy will reduce sensitivity to changes in price or interest rates in its commitments to originate real estate loans at specified interest rates;
-
-(B) A list of brokers or other intermediaries through which positions may be entered into;
-
-(C) Quantitative limits (e.g., position and stop loss limits) on the use of financial options contracts;
-
-(D) Identification of the persons involved in financial options contract transactions, including a description of these persons' qualifications, duties, and limits of authority, and description of the procedures for segregating these persons' duties,
-
-(E) A requirement for written reports for review by the Federal credit union's board of directors at its monthly meetings, or by a committee appointed by the board on a monthly basis, of:
-
-(*1*) The type, amount, expiration date, correlation, cost of, and current or projected income or loss from each position closed since the last board review, each position currently open and current gains or losses from such positions, and each position planned to be entered into prior to the next board review;
-
-(*2*) Compliance with limits established on the policies and procedures; and
-
-(*3*) The extent to which the positions described contributed to reduction of sensitivity to changes in prices or interest rates in the Federal credit union's commitments to originate real estate loans at a specified interest rate; and
-
-(iv) If the Federal credit union has received written permission from the appropriate NCUA Regional Director to engage in financial options contracts transactions in accordance with this § 701.21(i) and its policies and procedures as written.
-
-(3) *Recordkeeping and reporting.* (i) The reports described in § 701.21(i)(2)(iii)(E) for each month must be submitted to the appropriate NCUA Regional Office by the end of the following month. This monthly reporting requirement may be waived by the appropriate NCUA Regional Director on a case-by-case basis for those Federal credit unions with a proven record of responsible use of permitted financial options contracts.
-
-(ii) The records described in § 701.21(i)(2)(iii)(E) must be retained for two years from the date the financial options contracts are closed.
-
-(4) *Accounting.* A federal credit union must account for financial options contracts transactions in accordance with generally accepted accounting principles.
 
 [49 FR 30685, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

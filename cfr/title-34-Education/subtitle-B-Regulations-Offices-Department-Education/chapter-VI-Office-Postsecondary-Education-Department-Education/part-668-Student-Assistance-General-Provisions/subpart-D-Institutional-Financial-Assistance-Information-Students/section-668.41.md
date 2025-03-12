@@ -114,4 +114,10 @@
 
 (2) For the purposes of this paragraph (h), the following definitions apply:
 
+(i) *Class action* means a lawsuit or an arbitration proceeding in which one or more parties seeks class treatment pursuant to Federal Rule of Civil Procedure 23 or any State process analogous to Federal Rule of Civil Procedure 23.
+
+(ii) *Class action waiver* means any agreement or part of an agreement, regardless of its form or structure, between a school, or a party acting on behalf of a school, and a student that relates to the making of a Direct Loan or the provision of educational services for which the student received title IV funding and prevents an individual from filing or participating in a class action that pertains to those services.
+
+(iii) *Pre-dispute arbitration agreement* means any agreement or part of an agreement, regardless of its form or structure, between a school, or a party acting on behalf of a school, and a student requiring arbitration of any future dispute between the parties relating to the making of a Direct Loan or provision of educational services for which the student received title IV funding.
+
 (Approved by the Office of Management and Budget under control number 1845-0004)[64 FR 59066, Nov. 1, 1999, as amended at 74 FR 55942, Oct. 29, 2009; 81 FR 76070, Nov. 1, 2016; 84 FR 58932, Nov. 1, 2019; 84 FR 49910, Sept. 23, 2019]

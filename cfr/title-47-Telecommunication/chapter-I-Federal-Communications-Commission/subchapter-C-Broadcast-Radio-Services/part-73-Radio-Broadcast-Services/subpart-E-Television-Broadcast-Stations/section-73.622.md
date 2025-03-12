@@ -1483,7 +1483,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      Chicago       |    12, 19, \*21, 27, 29, 31, 43, 44, 45, \*47     |
 |      Decatur       |                      17, 22                       |
 |   East St. Louis   |                        47                         |
-|      Freeport      |                        41                         |
+|      Freeport      |                       9, 41                       |
 |     Galesburg      |                         8                         |
 |     Harrisburg     |                        34                         |
 |    Jacksonville    |                       \*15                        |

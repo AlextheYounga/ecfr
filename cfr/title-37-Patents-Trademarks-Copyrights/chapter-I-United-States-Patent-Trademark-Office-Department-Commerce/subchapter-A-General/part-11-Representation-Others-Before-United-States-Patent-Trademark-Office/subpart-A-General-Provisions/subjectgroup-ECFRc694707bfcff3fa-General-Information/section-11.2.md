@@ -1,18 +1,16 @@
 ##### § 11.2 Director of the Office of Enrollment and Discipline. #####
 
-Link to an amendment published at 86 FR 28452, May 26, 2021.
-
 (a) *Appointment.* The USPTO Director shall appoint a Director of the Office of Enrollment and Discipline (OED Director). In the event of a vacancy in the office of the OED Director, the USPTO Director may designate an employee of the Office to serve as acting OED Director. The OED Director shall be an active member in good standing of the bar of the highest court of a State.
 
 (b) *Duties.* The OED Director shall:
 
 (1) Supervise staff as may be necessary for the performance of the OED Director's duties.
 
-(2) Receive and act upon applications for registration, prepare and grade the examination provided for in § 11.7(b), maintain the register provided for in § 11.5, and perform such other duties in connection with enrollment and recognition of attorneys and agents as may be necessary.
+(2) Receive and act upon applications for registration, prepare and grade the registration examination, maintain the register provided for in § 11.5, and perform such other duties in connection with enrollment and recognition of attorneys and agents as may be necessary.
 
 (3) Conduct investigations into the moral character and reputation of any individual seeking to be registered as an attorney or agent, or of any individual seeking limited recognition, deny registration or recognition of individuals failing to demonstrate possession of good moral character and reputation, and perform such other duties in connection with enrollment matters and investigations as may be necessary.
 
-(4) Conduct investigations of matters involving possible grounds for discipline of practitioners coming to the attention of the OED Director. Except in matters meriting summary dismissal, no disposition under § 11.22(h) shall be recommended or undertaken by the OED Director until the accused practitioner shall have been afforded an opportunity to respond to a reasonable inquiry by the OED Director.
+(4) Conduct investigations of matters involving possible grounds for discipline. Except in matters meriting summary dismissal, no disposition under § 11.22(h) shall be recommended or undertaken by the OED Director until the subject of the investigation has been afforded an opportunity to respond to a reasonable inquiry by the OED Director.
 
 (5) With the consent of a panel of three members of the Committee on Discipline, initiate disciplinary proceedings under § 11.32 and perform such other duties in connection with investigations and disciplinary proceedings as may be necessary.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 86 FR 28452, May 26, 2021.
 
 (e) *Petition to USPTO Director in disciplinary matters.* A party dissatisfied with any action or notice of any employee of the Office of Enrollment and Discipline during or at the conclusion of a disciplinary investigation shall seek review of the action or notice upon petition to the OED Director. A petition from any action or notice of the staff reporting to the OED Director shall be taken to the OED Director. A party dissatisfied with the OED Director's final decision shall seek review of the final decision upon petition to the USPTO Director to invoke the supervisory authority of the USPTO Director in appropriate circumstances in disciplinary matters. Any petition under this paragraph must contain a statement of the facts involved and the point or points to be reviewed and the action requested. Briefs or memoranda, if any, in support of the petition must accompany the petition. Where facts are to be proven, the proof in the form of affidavits or declarations (and exhibits, if any) must accompany the petition. The OED Director may be directed by the USPTO Director to file a reply to the petition to the USPTO Director, supplying a copy to the petitioner. An oral hearing on petition taken to the USPTO Director will not be granted except when considered necessary by the USPTO Director. The filing of a petition under this paragraph will not stay an investigation, disciplinary proceeding, or other proceedings. Any petition under this part not filed within thirty days of the mailing date of the action or notice from which relief is requested may be dismissed as untimely. Any request for reconsideration of the decision of the OED Director or the USPTO Director may be dismissed as untimely if not filed within thirty days after the date of said decision. Only a decision of the USPTO Director regarding denial of a petition constitutes a final decision for the purpose of judicial review.
 
-[69 FR 35452, June 24, 2004, as amended at 73 FR 47687, Aug. 14, 2008; 78 FR 20198, Apr. 3, 2013]
+[69 FR 35452, June 24, 2004, as amended at 73 FR 47687, Aug. 14, 2008; 78 FR 20198, Apr. 3, 2013; 86 FR 28452, May 26, 2021]
