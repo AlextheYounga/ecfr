@@ -1,5 +1,7 @@
 ##### § 121.502 What size standards are applicable to programs for sales or leases of Government property? #####
 
+Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
+
 (a) Unless otherwise specified in this part -
 
 (1) A concern primarily engaged in manufacturing is small for sales or leases of Government property if it does not exceed 500 employees;

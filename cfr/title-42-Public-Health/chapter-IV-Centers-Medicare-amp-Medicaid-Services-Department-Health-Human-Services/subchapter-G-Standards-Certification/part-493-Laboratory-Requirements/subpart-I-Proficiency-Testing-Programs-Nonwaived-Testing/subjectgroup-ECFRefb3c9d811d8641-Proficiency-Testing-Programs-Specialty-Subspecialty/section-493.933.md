@@ -1,6 +1,6 @@
 ##### § 493.933 Endocrinology. #####
 
-Link to an amendment published at 87 FR 41239, July 11, 2022.
+Link to an amendment published at 87 FR 41239, July 11, 2022.Link to a correction published at 87 FR 68912, Nov. 17, 2022.
 
 (a) *Program content and frequency of challenge.* To be approved for proficiency testing for endocrinology, a program must provide a minimum of five samples per testing event. There must be at least three testing events at approximately equal intervals per year. The annual program must provide samples that cover the clinically relevant range of values that would be expected in patient specimens. The samples may be provided through mailed shipments or, at HHS' option, may be provided to HHS or its designee for on-site testing.
 
@@ -16,7 +16,7 @@ Analyte or TestCortisolFree ThyroxineHuman Chorionic gonadotropin (excluding uri
 
 Criteria for Acceptable Performance
 
-The criteria for acceptable performance are -
+The criteria for acceptable performance are—
 
 |                                                     Analyte or test                                                      |   Criteria for acceptable performance    |
 |--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|

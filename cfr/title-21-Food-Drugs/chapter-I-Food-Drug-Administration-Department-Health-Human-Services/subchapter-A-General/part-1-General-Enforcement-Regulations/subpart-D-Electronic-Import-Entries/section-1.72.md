@@ -1,8 +1,6 @@
 ##### § 1.72 Data elements that must be submitted in ACE for articles regulated by FDA. #####
 
-Link to an amendment published at 87 FR 62984, Oct. 18, 2022.
-
-*General.* When filing an entry in ACE, the ACE filer shall submit the following information for food contact substances, drugs, biological products, HCT/Ps, medical devices, radiation-emitting electronic products, cosmetics, and tobacco products.
+*General.* When filing an entry in ACE, the ACE filer shall submit the following information for food contact substances, drugs, biological products, HCT/Ps, medical devices, veterinary devices, radiation-emitting electronic products, cosmetics, and tobacco products.
 
 (a) *Product identifying information* for the article that is being imported or offered for import. This consists of:
 
@@ -13,3 +11,5 @@ Link to an amendment published at 87 FR 62984, Oct. 18, 2022.
 (3) *The Full Intended Use Code.*
 
 (b) *Importer of record contact information,* which is the telephone and email address of the importer of record.
+
+[81 FR 85870, Nov. 29, 2016, as amended at 87 FR 62984, Oct. 18, 2022]

@@ -1,5 +1,5 @@
 ##### § 518.14 May a tribe request a hearing on the Commission's proposal to revoke its certificate of self-regulation? #####
 
-Link to an amendment published at 87 FR 62987, Oct. 18, 2022.
+Yes. A tribe may request a hearing regarding the Office of Self-Regulation's recommendation that the Commission revoke a certificate of self-regulation. Such a request shall be filed with the Commission pursuant to part 584 of this chapter. Failure to request a hearing within the time provided by part 584 of this chapter shall constitute a waiver of the right to a hearing. At any hearing where the Commission considers revoking a certificate, the Office of Self-Regulation bears the burden of proof to support its recommendation by a preponderance of the evidence. The decision to revoke a certificate is a final agency action and is appealable to Federal District Court pursuant to 25 U.S.C. 2714.
 
-Yes. A tribe may request a hearing regarding the Commission's proposal to revoke a certificate of self-regulation. Such a request shall be filed with the Commission pursuant to part 584. Failure to request a hearing within the time provided by part 584 shall constitute a waiver of the right to a hearing.
+[87 FR 62987, Oct. 18, 2022]

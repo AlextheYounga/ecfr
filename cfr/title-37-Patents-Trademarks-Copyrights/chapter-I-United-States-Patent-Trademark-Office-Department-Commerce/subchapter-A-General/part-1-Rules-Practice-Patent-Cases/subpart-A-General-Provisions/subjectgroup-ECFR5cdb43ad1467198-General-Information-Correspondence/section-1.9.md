@@ -1,5 +1,7 @@
 ##### § 1.9 Definitions. #####
 
+Link to an amendment published at 87 FR 68904, Nov. 17, 2022.
+
 (a)(1) A national application as used in this chapter means either a U.S. application for patent which was filed in the Office under 35 U.S.C. 111, an international application filed under the Patent Cooperation Treaty in which the basic national fee under 35 U.S.C. 41(a)(1)(F) has been paid, or an international design application filed under the Hague Agreement in which the Office has received a copy of the international registration pursuant to Hague Agreement Article 10.
 
 (2) A provisional application as used in this chapter means a U.S. national application for patent filed in the Office under 35 U.S.C. 111(b).

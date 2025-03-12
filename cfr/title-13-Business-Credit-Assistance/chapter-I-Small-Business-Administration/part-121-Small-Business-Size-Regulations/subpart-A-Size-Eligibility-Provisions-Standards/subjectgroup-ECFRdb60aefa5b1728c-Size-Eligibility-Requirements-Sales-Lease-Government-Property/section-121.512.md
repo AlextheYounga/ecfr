@@ -1,5 +1,7 @@
 ##### § 121.512 What is the size standard for stockpile purchases? #####
 
+Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
+
 A concern is small for this purpose if:
 
 (a) It is primarily engaged in the purchase of materials which are not domestic products; and

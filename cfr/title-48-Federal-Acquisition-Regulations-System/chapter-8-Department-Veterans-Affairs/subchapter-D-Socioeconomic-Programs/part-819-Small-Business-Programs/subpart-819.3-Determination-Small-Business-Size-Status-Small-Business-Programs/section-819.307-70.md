@@ -1,0 +1,3 @@
+##### 819.307-70 SDVOSB/VOSB status protests. #####
+
+All protests relating to size, status, and/or whether an SDVOSB or a VOSB is a “small business” are subject to the Small Business Administration (SBA) regulations at 13 CFR part 121 and must be filed in accordance with SBA guidelines at 13 CFR part 134 (see FAR subpart 19.3). Pursuant to Public Law 114-328, SBA will hear cases related to size and status, including ownership and control challenges under the VA Veterans First Contracting Program (see 38 U.S.C. 8127(f)(8)).

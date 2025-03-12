@@ -1,5 +1,7 @@
 ##### § 124.519 Are there any dollar limits on the amount of 8(a) contracts that a Participant may receive? #####
 
+Link to an amendment published at 87 FR 69154, Nov. 17, 2022.
+
 (a) A Participant (other than one owned by an Indian Tribe, ANC, NHO, or CDC) may not receive sole source 8(a) contract awards where it has received a combined total of competitive and sole source 8(a) contracts in excess of $100,000,000 during its participation in the 8(a) BD program.
 
 (b) In determining whether a Participant has reached the limit identified in paragraph (a) of this section, SBA:

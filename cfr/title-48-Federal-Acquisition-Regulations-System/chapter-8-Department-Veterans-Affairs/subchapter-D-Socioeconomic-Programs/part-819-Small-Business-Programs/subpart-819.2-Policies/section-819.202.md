@@ -1,1 +1,3 @@
 ##### 819.202 Specific policies. #####
+
+OSDBU is responsible for reviewing procurement strategies, establishing thresholds for such reviews and making recommendations to assist contracting officers in the implementation of this part. These responsibilities shall be conducted within the VA hierarchy of small business program preferences established by 38 U.S.C. 8127(h) (see subpart 819.70), which requires VA to consider preferences for VIP-listed SDVOSBs first, then preferences for VIP-listed VOSBs. Contracting officers shall use VA Form 2268, Small Business Program and Contract Bundling Review, to document actions and recommendations.

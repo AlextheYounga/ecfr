@@ -1,12 +1,12 @@
 ##### § 668.14 Program participation agreement. #####
 
-Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
+Link to an amendment published at 87 FR 65490, Oct. 28, 2022.Link to a correction published at 87 FR 68900, Nov. 17, 2022.
 
 (a)(1) An institution may participate in any Title IV, HEA program, other than the LEAP and NEISP programs, only if the institution enters into a written program participation agreement with the Secretary, on a form approved by the Secretary. A program participation agreement conditions the initial and continued participation of an eligible institution in any Title IV, HEA program upon compliance with the provisions of this part, the individual program regulations, and any additional conditions specified in the program participation agreement that the Secretary requires the institution to meet.
 
 (2) An institution's program participation agreement applies to each branch campus and other location of the institution that meets the applicable requirements of this part unless otherwise specified by the Secretary.
 
-(b) By entering into a program participation agreement, an institution agrees that -
+(b) By entering into a program participation agreement, an institution agrees that—
 
 (1) It will comply with all statutory provisions of or applicable to Title IV of the HEA, all applicable regulatory provisions prescribed under that statutory authority, and all applicable special arrangements, agreements, and limitations entered into under the authority of statutes applicable to Title IV of the HEA, including the requirement that the institution will use funds it receives under any Title IV, HEA program and any interest or other earnings thereon, solely for the purposes specified in and in accordance with that program;
 
@@ -14,7 +14,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (3) It will not request from or charge any student a fee for processing or handling any application, form, or data required to determine a student's eligibility for, and amount of, Title IV, HEA program assistance;
 
-(4) It will establish and maintain such administrative and fiscal procedures and records as may be necessary to ensure proper and efficient administration of funds received from the Secretary or from students under the Title IV, HEA programs, together with assurances that the institution will provide, upon request and in a timely manner, information relating to the administrative capability and financial responsibility of the institution to -
+(4) It will establish and maintain such administrative and fiscal procedures and records as may be necessary to ensure proper and efficient administration of funds received from the Secretary or from students under the Title IV, HEA programs, together with assurances that the institution will provide, upon request and in a timely manner, information relating to the administrative capability and financial responsibility of the institution to—
 
 (i) The Secretary;
 
@@ -36,7 +36,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (9) It will comply with the requirements of subpart D of this part concerning institutional and financial assistance information for students and prospective students;
 
-(10) In the case of an institution that advertises job placement rates as a means of attracting students to enroll in the institution, the institution will make available to prospective students, at or before the time that those students apply for enrollment -
+(10) In the case of an institution that advertises job placement rates as a means of attracting students to enroll in the institution, the institution will make available to prospective students, at or before the time that those students apply for enrollment—
 
 (i) The most recent available data concerning employment statistics, graduation statistics, and any other information necessary to substantiate the truthfulness of the advertisements; and
 
@@ -50,13 +50,13 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (14) It will not deny any form of Federal financial aid to any eligible student solely on the grounds that the student is participating in a program of study abroad approved for credit by the institution;
 
-(15)(i) Except as provided under paragraph (b)(15)(ii) of this section, the institution will use a default management plan approved by the Secretary with regard to its administration of the FFEL or Direct Loan programs, or both for at least the first two years of its participation in those programs, if the institution -
+(15)(i) Except as provided under paragraph (b)(15)(ii) of this section, the institution will use a default management plan approved by the Secretary with regard to its administration of the FFEL or Direct Loan programs, or both for at least the first two years of its participation in those programs, if the institution—
 
 (A) Is participating in the FFEL or Direct Loan programs for the first time; or
 
 (B) Is an institution that has undergone a change of ownership that results in a change in control and is participating in the FFEL or Direct Loan programs.
 
-(ii) The institution does not have to use an approved default management plan if -
+(ii) The institution does not have to use an approved default management plan if—
 
 (A) The institution, including its main campus and any branch campus, does not have a cohort default rate in excess of 10 percent; and
 
@@ -66,13 +66,13 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (17) The Secretary, guaranty agencies and lenders as defined in 34 CFR part 682, nationally recognized accrediting agencies, the Secretary of Veterans Affairs, State agencies recognized under 34 CFR part 603 for the approval of public postsecondary vocational education, and State agencies that legally authorize institutions and branch campuses or other locations of institutions to provide postsecondary education, have the authority to share with each other any information pertaining to the institution's eligibility for or participation in the Title IV, HEA programs or any information on fraud and abuse;
 
-(18) It will not knowingly -
+(18) It will not knowingly—
 
 (i) Employ in a capacity that involves the administration of the Title IV, HEA programs or the receipt of funds under those programs, an individual who has been convicted of, or has pled *nolo contendere* or guilty to, a crime involving the acquisition, use, or expenditure of Federal, State, or local government funds, or has been administratively or judicially determined to have committed fraud or any other material violation of law involving Federal, State, or local government funds;
 
 (ii) Contract with an institution or third-party servicer that has been terminated under section 432 of the HEA for a reason involving the acquisition, use, or expenditure of Federal, State, or local government funds, or that has been administratively or judicially determined to have committed fraud or any other material violation of law involving Federal, State, or local government funds; or
 
-(iii) Contract with or employ any individual, agency, or organization that has been, or whose officers or employees have been -
+(iii) Contract with or employ any individual, agency, or organization that has been, or whose officers or employees have been—
 
 (A) Convicted of, or pled *nolo contendere* or guilty to, a crime involving the acquisition, use, or expenditure of Federal, State, or local government funds; or
 
@@ -90,7 +90,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (B) For the purpose of paragraph (b)(22) of this section, an employee who receives multiple adjustments to compensation in a calendar year and is engaged in any student enrollment or admission activity or in making decisions regarding the award of title IV, HEA program funds is considered to have received such adjustments based upon success in securing enrollments or the award of financial aid if those adjustments create compensation that is based in any part, directly or indirectly, upon success in securing enrollments or the award of financial aid.
 
-(ii) Notwithstanding paragraph (b)(22)(i) of this section, eligible institutions, organizations that are contractors to eligible institutions, and other entities may make -
+(ii) Notwithstanding paragraph (b)(22)(i) of this section, eligible institutions, organizations that are contractors to eligible institutions, and other entities may make—
 
 (A) Merit-based adjustments to employee compensation provided that such adjustments are not based in any part, directly or indirectly, upon success in securing enrollments or the award of financial aid; and
 
@@ -102,15 +102,15 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (B) *Securing enrollments or the award of financial aid* means activities that a person or entity engages in at any point in time through completion of an educational program for the purpose of the admission or matriculation of students for any period of time or the award of financial aid to students.
 
-(*1*) These activities include contact in any form with a prospective student, such as, but not limited to - contact through preadmission or advising activities, scheduling an appointment to visit the enrollment office or any other office of the institution, attendance at such an appointment, or involvement in a prospective student's signing of an enrollment agreement or financial aid application.
+(*1*) These activities include contact in any form with a prospective student, such as, but not limited to—contact through preadmission or advising activities, scheduling an appointment to visit the enrollment office or any other office of the institution, attendance at such an appointment, or involvement in a prospective student's signing of an enrollment agreement or financial aid application.
 
-(*2*) These activities do not include making a payment to a third party for the provision of student contact information for prospective students provided that such payment is not based on -
+(*2*) These activities do not include making a payment to a third party for the provision of student contact information for prospective students provided that such payment is not based on—
 
 (*i*) Any additional conduct or action by the third party or the prospective students, such as participation in preadmission or advising activities, scheduling an appointment to visit the enrollment office or any other office of the institution or attendance at such an appointment, or the signing, or being involved in the signing, of a prospective student's enrollment agreement or financial aid application; or
 
 (*ii*) The number of students (calculated at any point in time of an educational program) who apply for enrollment, are awarded financial aid, or are enrolled for any period of time, including through completion of an educational program.
 
-(C) *Entity or person engaged in any student recruitment or admission activity or in making decisions about the award of financial aid* means -
+(C) *Entity or person engaged in any student recruitment or admission activity or in making decisions about the award of financial aid* means—
 
 (*1*) With respect to an entity engaged in any student recruitment or admission activity or in making decisions about the award of financial aid, any institution or organization that undertakes the recruiting or the admitting of students or that makes decisions about and awards title IV, HEA program funds; and
 
@@ -122,15 +122,15 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (24) It will comply with the requirements of § 668.22;
 
-(25) It is liable for all -
+(25) It is liable for all—
 
 (i) Improperly spent or unspent funds received under the Title IV, HEA programs, including any funds administered by a third-party servicer; and
 
 (ii) Returns of title IV, HEA program funds that the institution or its servicer may be required to make;
 
-(26) If an educational program offered by the institution is required to prepare a student for gainful employment in a recognized occupation, the institution must -
+(26) If an educational program offered by the institution is required to prepare a student for gainful employment in a recognized occupation, the institution must—
 
-(i) Demonstrate a reasonable relationship between the length of the program and entry level requirements for the recognized occupation for which the program prepares the student. The Secretary considers the relationship to be reasonable if the number of clock hours provided in the program does not exceed the greater of -
+(i) Demonstrate a reasonable relationship between the length of the program and entry level requirements for the recognized occupation for which the program prepares the student. The Secretary considers the relationship to be reasonable if the number of clock hours provided in the program does not exceed the greater of—
 
 (A) One hundred and fifty percent of the minimum number of clock hours required for training in the recognized occupation for which the program prepares the student, as established by the State in which the institution is located, if the State has established such a requirement, or as established by any Federal agency; or
 
@@ -138,7 +138,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (ii) Establish the need for the training for the student to obtain employment in the recognized occupation for which the program prepares the student;
 
-(27) In the case of an institution participating in a Title IV, HEA loan program, the institution -
+(27) In the case of an institution participating in a Title IV, HEA loan program, the institution—
 
 (i) Will develop, publish, administer, and enforce a code of conduct with respect to loans made, insured or guaranteed under the Title IV, HEA loan programs in accordance with 34 CFR 601.21; and
 
@@ -146,7 +146,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (28) For any year in which the institution has a preferred lender arrangement (as defined in 34 CFR 601.2(b)), it will at least annually compile, maintain, and make available for students attending the institution, and the families of such students, a list in print or other medium, of the specific lenders for loans made, insured, or guaranteed under title IV of the HEA or private education loans that the institution recommends, promotes, or endorses in accordance with such preferred lender arrangement. In making such a list, the institution must comply with the requirements in 34 CFR 682.212(h) and 34 CFR 601.10;
 
-(29)(i) It will, upon the request of an enrolled or admitted student who is an applicant for a private education loan (as defined in 34 CFR 601.2(b)), provide to the applicant the self-certification form required under 34 CFR 601.11(d) and the information required to complete the form, to the extent the institution possesses such information, including -
+(29)(i) It will, upon the request of an enrolled or admitted student who is an applicant for a private education loan (as defined in 34 CFR 601.2(b)), provide to the applicant the self-certification form required under 34 CFR 601.11(d) and the information required to complete the form, to the extent the institution possesses such information, including—
 
 (A) The applicant's cost of attendance at the institution, as determined by the institution under part F of title IV of the HEA;
 
@@ -156,9 +156,9 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (ii) It will, upon the request of the applicant, discuss with the applicant the availability of Federal, State, and institutional student financial aid;
 
-(30) The institution -
+(30) The institution—
 
-(i) Has developed and implemented written plans to effectively combat the unauthorized distribution of copyrighted material by users of the institution's network, without unduly interfering with educational and research use of the network, that include -
+(i) Has developed and implemented written plans to effectively combat the unauthorized distribution of copyrighted material by users of the institution's network, without unduly interfering with educational and research use of the network, that include—
 
 (A) The use of one or more technology-based deterrents;
 
@@ -168,7 +168,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (D) Procedures for periodically reviewing the effectiveness of the plans to combat the unauthorized distribution of copyrighted materials by users of the institution's network using relevant assessment criteria. No particular technology measures are favored or required for inclusion in an institution's plans, and each institution retains the authority to determine what its particular plans for compliance with paragraph (b)(30) of this section will be, including those that prohibit content monitoring; and
 
-(ii) Will, in consultation with the chief technology officer or other designated officer of the institution -
+(ii) Will, in consultation with the chief technology officer or other designated officer of the institution—
 
 (A) Periodically review the legal alternatives for downloading or otherwise acquiring copyrighted material;
 
@@ -188,7 +188,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (v) The institution otherwise intends to cease operations.
 
-(c) In order to participate in any Title IV, HEA program (other than the LEAP and NEISP programs), the institution must certify that it -
+(c) In order to participate in any Title IV, HEA program (other than the LEAP and NEISP programs), the institution must certify that it—
 
 (1) Has in operation a drug abuse prevention program that the institution has determined to be accessible to any officer, employee, or student at the institution; and
 
@@ -212,7 +212,7 @@ Link to an amendment published at 87 FR 65490, Oct. 28, 2022.
 
 (3) If the Secretary or the institution terminates a program participation agreement under paragraph (f) of this section, the Secretary establishes the termination date.
 
-(g) An institution's program participation agreement automatically expires on the date that -
+(g) An institution's program participation agreement automatically expires on the date that—
 
 (1) The institution changes ownership that results in a change in control as determined by the Secretary under 34 CFR part 600; or
 

@@ -1,0 +1,3 @@
+##### 819.800 General. #####
+
+(e) The Small Business Administration (SBA) and the Department of Veterans Affairs (VA) have entered into a Partnership Agreement delegating SBA's contract execution and administrative functions to VA. Contracting officers shall follow the alternate procedures in the Partnership Agreement and this subpart, as applicable, to award an 8(a) contract. In the event the Partnership Agreement ceases to be in effect, contracting officers shall follow the procedures in FAR subpart 19.8.

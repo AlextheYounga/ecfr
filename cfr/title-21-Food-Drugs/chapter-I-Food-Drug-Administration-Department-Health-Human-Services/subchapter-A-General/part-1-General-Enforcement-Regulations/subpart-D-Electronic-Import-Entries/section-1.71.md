@@ -1,14 +1,12 @@
 ##### § 1.71 Definitions. #####
 
-Link to an amendment published at 87 FR 62984, Oct. 18, 2022.
-
 For purposes of subpart D:
 
 *ACE filer* means the person who is authorized to submit an electronic import entry for an FDA-regulated product in the Automated Commercial Environment or any other CBP-authorized EDI system.
 
 *Acidified food* means acidified food, as defined in § 114.3(b) of this chapter, and subject to the requirements in parts 108 and 114 of this chapter.
 
-*Automated Commercial Environment* or *ACE* means the automated and electronic system for processing commercial importations that is operated by U.S. Customs and Border Protection in accordance with the National Customs Automation Program established in Subtitle B of Title VI - Customs Modernization, in the North American Free Trade Agreement Implementation Act (Pub. L. 103-182, 107 Stat. 2057, 2170, December 8, 1993) (Customs Modernization Act), or any other CBP-authorized EDI system.
+*Automated Commercial Environment* or *ACE* means the automated and electronic system for processing commercial importations that is operated by U.S. Customs and Border Protection in accordance with the National Customs Automation Program established in Subtitle B of Title VI—Customs Modernization, in the North American Free Trade Agreement Implementation Act (Pub. L. 103-182, 107 Stat. 2057, 2170, December 8, 1993) (Customs Modernization Act), or any other CBP-authorized EDI system.
 
 *Biological product* means a biological product as defined in section 351(i)(1) of the Public Health Service Act.
 
@@ -33,3 +31,7 @@ For purposes of subpart D:
 *Radiation-emitting electronic product* means an electronic product as defined in section 531 of the Federal Food, Drug, and Cosmetic Act.
 
 *Tobacco product* means a tobacco product as defined in section 201(rr) of the Federal Food, Drug, and Cosmetic Act.
+
+*Veterinary device* means a device as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act, that is intended for use in animals.
+
+[81 FR 85870, Nov. 29, 2016, as amended at 87 FR 62984, Oct. 18, 2022]

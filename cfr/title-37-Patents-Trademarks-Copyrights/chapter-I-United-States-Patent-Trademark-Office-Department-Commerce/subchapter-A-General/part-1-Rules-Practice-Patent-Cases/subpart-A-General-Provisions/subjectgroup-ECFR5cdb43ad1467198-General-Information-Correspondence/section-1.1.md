@@ -1,5 +1,7 @@
 ##### § 1.1 Addresses for non-trademark correspondence with the United States Patent and Trademark Office. #####
 
+Link to an amendment published at 87 FR 68904, Nov. 17, 2022.
+
 (a) *In general.* Except as provided in paragraphs (a)(3)(i) and (a)(3)(ii) of this section, all correspondence intended for the United States Patent and Trademark Office must be addressed to either “Director of the United States Patent and Trademark Office, P.O. Box 1450, Alexandria, Virginia 22313-1450” or to specific areas within the Office as set out in paragraphs (a)(1) and (a)(3)(iii) of this section. When appropriate, correspondence should also be marked for the attention of a particular office or individual.
 
 (1) *Patent correspondence* - (i) *In general.* All correspondence concerning patent matters processed by organizations reporting to the Commissioner for Patents should be addressed to: Commissioner for Patents, PO Box 1450, Alexandria, Virginia 22313-1450.

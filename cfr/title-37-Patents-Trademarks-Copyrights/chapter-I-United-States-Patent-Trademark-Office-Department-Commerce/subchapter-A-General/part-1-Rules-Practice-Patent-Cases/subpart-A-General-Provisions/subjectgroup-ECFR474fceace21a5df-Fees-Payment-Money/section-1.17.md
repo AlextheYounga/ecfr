@@ -184,10 +184,10 @@ Table 16 to Paragraph (m)
 
 Table 17 to Paragraph (o)
 
-|                                                      |       |
-|------------------------------------------------------|-------|
-|By a small entity (§ 1.27(a)) or micro entity (§ 1.29)|$90.00 |
-|             By other than a small entity             |$180.00|
+|                                                      |      |
+|------------------------------------------------------|------|
+|By a small entity (§ 1.27(a)) or micro entity (§ 1.29)|$90.00|
+|             By other than a small entity             |180.00|
 
 (p) For an information disclosure statement under § 1.97(c) or (d):
 

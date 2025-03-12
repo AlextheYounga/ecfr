@@ -1,5 +1,7 @@
 ##### § 648.140 Black sea bass Annual Catch Limit (ACL). #####
 
+Link to an amendment published at 87 FR 68930, Nov. 17, 2022.
+
 (a) The Black Sea Bass Monitoring Committee shall recommend to the MAFMC separate ACLs for the commercial and recreational scup fisheries, the sum total of which shall be equal to the ABC recommended by the SSC.
 
 (1) *Sector allocations.* The commercial and recreational fishing sector ACLs will be established consistent with the allocation guidelines contained in the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan.

@@ -1,5 +1,7 @@
 ##### § 1.6 Receipt of correspondence. #####
 
+Link to an amendment published at 87 FR 68904, Nov. 17, 2022.
+
 (a) *Date of receipt and Priority Mail Express® date of deposit.* Correspondence received in the Patent and Trademark Office is stamped with the date of receipt except as follows:
 
 (1) The Patent and Trademark Office is not open for the filing of correspondence on any day that is a Saturday, Sunday, or Federal holiday within the District of Columbia. Except for correspondence transmitted by facsimile under paragraph (a)(3) of this section, or filed electronically under paragraph (a)(4) of this section, no correspondence is received in the Office on Saturdays, Sundays, or Federal holidays within the District of Columbia.

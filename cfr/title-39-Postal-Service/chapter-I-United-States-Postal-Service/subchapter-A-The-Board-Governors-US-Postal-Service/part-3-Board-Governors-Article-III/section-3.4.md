@@ -18,7 +18,7 @@ The following matters are reserved for decision by the Governors:
 
 (h) Authorization of the Postal Service to file a request with the Postal Regulatory Commission for adjustment of rates on an expedited basis due to extraordinary or exceptional circumstances, as provided in 39 U.S.C. 3622(d)(1)(E).
 
-(i) Appointment and removal of the Inspector General under 39 U.S.C. 202(e).
+(i) Appointment and removal (in conjunction with Commissioners of the Postal Regulatory Commission) of the Inspector General under 39 U.S.C. 202(e).
 
 (j) Exercise of the authority of the Governors under 5 U.S.C. App. 8G(f)(3)(A).
 
@@ -30,4 +30,8 @@ The following matters are reserved for decision by the Governors:
 
 (n) Selection of an independent, certified public accounting firm to certify the accuracy of Postal Service financial statements as required by 39 U.S.C. 2008(e).
 
-[73 FR 78983, Dec. 24, 2008, as amended at 86 FR 10012, Feb. 18, 2021]
+(o) Consideration and potential adjustment of the funding requested in the Postal Regulatory Commission's budget for the succeeding fiscal year as required by 39 U.S.C. 504(d).
+
+(p) Approval of any program established under 39 U.S.C. 3703 to enter into agreements with agencies of state, local or tribal governments to provide property or non-postal services to the public on behalf of such agencies for non-commercial purposes.
+
+[73 FR 78983, Dec. 24, 2008, as amended at 86 FR 10012, Feb. 18, 2021; 87 FR 68908, Nov. 17, 2022]

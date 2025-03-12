@@ -1,0 +1,5 @@
+##### 808.004-70 Use of other priority sources. #####
+
+(a) *Veterans contracting priority.* In order to fulfill the requirements of 38 U.S.C. 8127-8128 (see subpart 819.70), contracting officers shall award contracts (see FAR 2.101 for the definition of contracts), as well as Blanket Purchase Agreements (BPAs), and orders against VA and GSA Federal Supply Schedules (FSS), providing priority in the awarding of such contracts to VIP-listed SDVOSBs first, then VOSBs.
+
+(b) *Strategic sourcing priorities and application of the VA Rule of Two.* To provide medical supplies in Federal Supply Classification (FSC) groups 65 and 66 efficiently and effectively the VA, through previous reform initiatives, has implemented key strategic sourcing contract vehicles (*e.g.,* prime-vendor, national contracts, VA FSS). If these strategic sourcing contracts were subject to the VA Rule of Two (see 802.101), they may be determined mandatory by the head of the contracting activity. Contracting officers shall consider these priority contract vehicles before using other existing contract vehicles.

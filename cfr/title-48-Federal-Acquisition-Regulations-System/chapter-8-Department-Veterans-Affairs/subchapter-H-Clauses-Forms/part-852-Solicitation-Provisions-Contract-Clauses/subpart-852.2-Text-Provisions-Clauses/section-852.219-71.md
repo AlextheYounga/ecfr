@@ -1,25 +1,11 @@
-##### 852.219-71 VA mentor-protégé program. #####
+##### 852.219-71 Notification of Competition Limited to Eligible 8(a) Participants. #####
 
-Link to an amendment published at 87 FR 63011, Oct. 18, 2022.
+As prescribed in 819.811-370, when FAR 52.219-18, Notification of Competition Limited to Eligible 8(a) Participants, is utilized, use this clause in conjunction with the FAR clause.
 
-As prescribed in 819.7115(a), insert the following clause:
+Notification of Competition Limited to Eligible 8(A) Participants (NOV 2022)
 
-VA Mentor-Protégé Program (DEC 2009)
+Substitute paragraph (c) in FAR Clause 52.219-18 as follows:
 
-(a) Large businesses are encouraged to participate in the VA Mentor-Protégé Program for the purpose of providing developmental assistance to eligible service-disabled veteran-owned small businesses and veteran-owned small businesses to enhance the small businesses' capabilities and increase their participation as VA prime contractors and as subcontractors.
+(c) Any award resulting from this solicitation will be made directly by the Contracting Officer to the successful 8(a) offeror. Although SBA is not identified as such in the award form, SBA is still the Prime Contractor. Contractor shall comply with the limitations on subcontracting as provided in 13 CFR 125.6 and other 8(a) program requirements, as set forth in 13 CFR part 124.
 
-(b) The program consists of:
-
-(1) Mentor firms, which are contractors capable of providing developmental assistance;
-
-(2) Protégé firms, which are service-disabled veteran-owned small business concerns or veteran-owned small business concerns; and
-
-(3) Mentor-Protégé Agreements approved by the VA Office of Small and Disadvantaged Business Utilization.
-
-(c) Mentor participation in the program means providing business developmental assistance to aid protégés in developing the requisite expertise to effectively compete for and successfully perform VA prime contracts and subcontracts.
-
-(d) Large business prime contractors serving as mentors in the VA Mentor-Protégé Program are eligible for an incentive for subcontracting plan credit. VA will recognize the costs incurred by a mentor firm in providing assistance to a protégé firm and apply those costs for purposes of determining whether the mentor firm attains its subcontracting plan participation goals under a VA contract. The amount of credit given to a mentor firm for these protégé developmental assistance costs shall be calculated on a dollar-for-dollar basis and reported by the large business prime contractor via the Electronic Subcontracting Reporting System (eSRS).
-
-(e) Contractors interested in participating in the program are encouraged to contact the VA Office of Small and Disadvantaged Business Utilization for more information.
-
-(End of clause)[74 FR 64638, Dec. 8, 2009]
+(End of clause)[87 FR 63011, Oct. 18, 2022]

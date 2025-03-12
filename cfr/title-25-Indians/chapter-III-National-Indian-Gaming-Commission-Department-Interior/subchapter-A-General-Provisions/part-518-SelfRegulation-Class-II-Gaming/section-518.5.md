@@ -1,7 +1,5 @@
 ##### § 518.5 What criteria must a tribe meet to receive a certificate of self-regulation? #####
 
-Link to an amendment published at 87 FR 62986, Oct. 18, 2022.
-
 (a) The Commission shall issue a certificate of self-regulation if it determines that for a three (3)-year period, the tribe has:
 
 (1) Conducted its gaming activity in a manner that:
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 62986, Oct. 18, 2022.
 
 (iv) Prosecuting criminal or dishonest activity or referring such activity for prosecution.
 
-(b) A tribe may illustrate that it has met the criteria listed in paragraph (a) of this section by addressing factors such as those listed below. The list of factors is not all-inclusive; other factors not listed here may also be addressed and considered.
+(b) A tribe may illustrate that it has met the criteria listed in paragraph (a) of this section by addressing factors such as those listed in paragraphs (b)(1) through (9) of this section. The list of factors is not all-inclusive; other factors not listed here may also be addressed and considered.
 
 (1) The tribe adopted and is implementing minimum internal control standards which are at least as stringent as those promulgated by the Commission;
 
@@ -73,3 +71,5 @@ Link to an amendment published at 87 FR 62986, Oct. 18, 2022.
 (c) The tribe assists the Commission with access and information-gathering responsibilities during the certification process.
 
 (d) The burden of establishing self-regulation is upon the tribe filing the petition.
+
+[78 FR 20241, Apr. 4, 2013, as amended at 87 FR 62986, Oct. 18, 2022]

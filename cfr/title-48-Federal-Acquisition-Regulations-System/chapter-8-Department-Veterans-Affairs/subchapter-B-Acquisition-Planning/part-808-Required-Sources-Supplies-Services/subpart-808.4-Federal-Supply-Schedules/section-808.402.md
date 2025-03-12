@@ -1,3 +1,3 @@
 ##### 808.402 General. #####
 
-The Executive Director and Chief Operating Officer, VA National Acquisition Center, advertises, negotiates, awards, administers, and issues the Federal Supply Schedules for Federal Supply Classification Groups 62, 65, and 89 and for cost-per-test services under Group 66.
+(a) GSA has delegated authority to the VA to procure medical equipment, supplies, services and pharmaceuticals under the VA Federal Supply Schedule (FSS) program. The VA FSS program includes medical supplies in Federal Supply Classification (FSC) Groups 65 and 66 and services in FSC 621 for Professional and Allied Healthcare Staffing Services and Medical Laboratory Testing and Analysis Services.

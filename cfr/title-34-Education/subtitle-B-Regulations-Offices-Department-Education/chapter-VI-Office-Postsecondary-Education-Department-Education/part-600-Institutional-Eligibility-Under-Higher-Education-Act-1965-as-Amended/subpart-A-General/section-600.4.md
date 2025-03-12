@@ -1,12 +1,12 @@
 ##### § 600.4 Institution of higher education. #####
 
-Link to an amendment published at 87 FR 65486, Oct. 28, 2022.
+Link to an amendment published at 87 FR 65486, Oct. 28, 2022.Link to a correction published at 87 FR 68900, Nov. 17, 2022.
 
-(a) An institution of higher education is a public or private nonprofit educational institution that -
+(a) An institution of higher education is a public or private nonprofit educational institution that—
 
 (1) Is in a State, or for purposes of the Federal Pell Grant, Federal Supplemental Educational Opportunity Grant, Federal Work-Study, and Federal TRIO programs may also be located in the Federated States of Micronesia or the Marshall Islands;
 
-(2) Admits as regular students only persons who -
+(2) Admits as regular students only persons who—
 
 (i) Have a high school diploma;
 
@@ -16,7 +16,7 @@ Link to an amendment published at 87 FR 65486, Oct. 28, 2022.
 
 (3) Is legally authorized to provide an educational program beyond secondary education in the State in which the institution is physically located in accordance with § 600.9;
 
-(4)(i) Provides an educational program -
+(4)(i) Provides an educational program—
 
 (A) For which it awards an associate, baccalaureate, graduate, or professional degree;
 
@@ -26,7 +26,7 @@ Link to an amendment published at 87 FR 65486, Oct. 28, 2022.
 
 (ii) May provide a comprehensive transition and postsecondary program, as described in 34 CFR part 668, subpart O; and
 
-(5) Is -
+(5) Is—
 
 (i) Accredited or preaccredited; or
 

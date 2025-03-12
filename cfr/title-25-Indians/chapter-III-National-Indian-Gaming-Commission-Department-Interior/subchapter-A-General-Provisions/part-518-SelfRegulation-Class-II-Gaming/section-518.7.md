@@ -1,7 +1,5 @@
 ##### § 518.7 What process will the Commission use to review and certify petitions? #####
 
-Link to an amendment published at 87 FR 62986, Oct. 18, 2022.
-
 (a) Petitions for self-regulation shall be submitted by tribes to the Office of Self-Regulation.
 
 (1) Within 30 days of receipt of a tribe's petition, the Office of Self-Regulation shall conduct a review of the tribe's petition to determine whether it is complete under § 518.4.
@@ -40,8 +38,8 @@ Link to an amendment published at 87 FR 62986, Oct. 18, 2022.
 
 (e) Upon receipt of the Commission's preliminary findings, the tribe can request, in writing, a hearing before the Commission, as set forth in § 518.8. Hearing requests shall be made to the Office of Self-Regulation, and shall specify the issues to be addressed by the tribe at the hearing and any proposed oral or written testimony the tribe wishes to present.
 
-(f) The Commission shall issue a final determination 30 days after issuance of its preliminary findings or after the conclusion of a hearing, if one is held. The decision of the Commission to approve or deny a petition shall be a final agency action.
+(f) The Commission shall issue a final determination within 30 days after issuance of its preliminary findings if the tribe has informed the Commission in writing that the tribe does not request a hearing or within 30 days after the conclusion of a hearing, if one is held. The decision of the Commission to approve or deny a petition shall be a final agency action.
 
 (g) A tribe may withdraw its petition and resubmit it at any time prior to the issuance of the Commission's final determination.
 
-[78 FR 20241, Apr. 4, 2013, as amended at 78 FR 37115, June 20, 2013]
+[78 FR 20241, Apr. 4, 2013, as amended at 78 FR 37115, June 20, 2013; 87 FR 62986, Oct. 18, 2022]

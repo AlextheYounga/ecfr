@@ -1,0 +1,3 @@
+##### 819.502-2 Total small business set-asides. #####
+
+(a) If the contracting officer receives no acceptable offers from responsible small business concerns, the set-aside shall be withdrawn and the requirement, if still valid, shall be resolicited on an unrestricted basis or, if permitted in the solicitation, the contracting officer will follow the tiered set-aside evaluation procedures in 819.7010, Tiered evaluation, and proceed to the next eligible tier in the evaluation process.
