@@ -4,7 +4,7 @@
 
 (b) *18-month rule for certain small institutions.* The Federal Reserve may conduct a full-scope, on-site examination of an insured member bank at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the following conditions are satisfied:
 
-(1) The bank has total assets of less than $1 billion;
+(1) The bank has total assets of less than $3 billion;
 
 (2) The bank is well capitalized as defined in subpart D of this part (§ 208.43);
 
@@ -20,4 +20,4 @@
 
 (c) *Authority to conduct more frequent examinations.* This section does not limit the authority of the Federal Reserve to examine any member bank as frequently as the agency deems necessary.
 
-[63 FR 37655, July 13, 1998, as amended at 72 FR 17802, Apr. 10, 2007; 81 FR 10069, Feb. 29, 2016]
+[63 FR 37655, July 13, 1998, as amended at 72 FR 17802, Apr. 10, 2007; 81 FR 10069, Feb. 29, 2016; 83 FR 43965, Aug. 29, 2018]

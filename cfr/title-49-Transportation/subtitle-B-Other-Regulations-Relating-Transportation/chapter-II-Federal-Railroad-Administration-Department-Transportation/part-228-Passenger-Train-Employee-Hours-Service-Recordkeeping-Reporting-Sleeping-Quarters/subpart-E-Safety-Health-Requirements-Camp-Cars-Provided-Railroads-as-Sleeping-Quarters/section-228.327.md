@@ -1,0 +1,7 @@
+##### § 228.327 Waste collection and disposal. #####
+
+(a) *General disposal requirements.* All sweepings, solid or liquid wastes, refuse, and garbage in a camp must be removed in such a manner as to avoid creating a menace to health and as often as necessary or appropriate to maintain a sanitary condition.
+
+(b) *General waste receptacles.* Any exterior receptacle used for putrescible solid or liquid waste or refuse in a camp shall be so constructed that it does not leak and may be thoroughly cleaned and maintained in a sanitary condition. Such a receptacle must be equipped with a solid tight-fitting cover, unless it can be maintained in a sanitary condition without a cover. This requirement does not prohibit the use of receptacles designed to permit the maintenance of a sanitary condition without regard to the aforementioned requirements.
+
+(c) *Food waste disposal containers provided for the interior of camp cars.* An adequate number of receptacles constructed of smooth, corrosion resistant, easily cleanable, or disposable materials, must be provided and used for the disposal of waste food. Receptacles must be provided with a solid, tight-fitting cover unless sanitary conditions can be maintained without use of a cover. The number, size, and location of such receptacles must encourage their use and not result in overfilling. They must be emptied regularly and maintained in a clean, safe, and sanitary condition.

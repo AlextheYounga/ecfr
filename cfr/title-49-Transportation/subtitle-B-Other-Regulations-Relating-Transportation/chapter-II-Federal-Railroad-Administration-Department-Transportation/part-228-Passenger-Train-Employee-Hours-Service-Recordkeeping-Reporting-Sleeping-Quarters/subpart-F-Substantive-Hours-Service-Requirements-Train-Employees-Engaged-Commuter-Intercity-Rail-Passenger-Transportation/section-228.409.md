@@ -1,0 +1,5 @@
+##### § 228.409 Requirements for railroad-provided employee sleeping quarters during interim releases and other periods available for rest within a duty tour. #####
+
+(a) If a railroad subject to this subpart provides sleeping quarters for the use of a train employee subject to this subpart during interim periods of release as a method of mitigating fatigue identified by the analysis of work schedules required by § 228.407(a) and (d), such sleeping quarters must be “clean, safe, and sanitary,” and give the employee “an opportunity for rest free from the interruptions caused by noise under the control of the” railroad within the meaning of section 21106(a)(1) of title 49 of the United States Code.
+
+(b) Any sleeping quarters provided by a railroad that are proposed as a fatigue mitigation tool pursuant to § 228.407(b)(1)(i), are subject to the requirements of § 228.407(f), Consultation.

@@ -4,7 +4,7 @@
 
 (b) *18-month rule for certain small institutions* - (1) *Mandatory standards.* The OCC may conduct a full-scope, on-site examination at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the Federal branch or agency:
 
-(i) Has total assets of less than $1 billion;
+(i) Has total assets of less than $3 billion;
 
 (ii) Has received a composite ROCA supervisory rating (which rates risk management, operational controls, compliance, and asset quality) of 1 or 2 at its most recent examination;
 
@@ -30,4 +30,4 @@
 
 (c) *Authority to conduct more frequent examinations.* Nothing in paragraph (a) or (b) of this section limits the authority of the OCC to examine any Federal branch or agency as frequently as the OCC deems necessary.
 
-[81 FR 10068, Feb. 29, 2016]
+[81 FR 10068, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018]

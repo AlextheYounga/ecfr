@@ -24,7 +24,7 @@
 
 (2) *18-month cycle for certain small institutions* - (i) *Mandatory standards.* The Board may conduct a full-scope, on-site examination at least once during each 18-month period, rather than each 12-month period as required in paragraph (c)(1) of this section, if the branch or agency -
 
-(A) Has total assets of less than $1 billion;
+(A) Has total assets of less than $3 billion;
 
 (B) Has received a composite ROCA supervisory rating (which rates risk management, operational controls, compliance, and asset quality) of 1 or 2 at its most recent examination;
 
@@ -50,4 +50,4 @@
 
 (3) *Authority to conduct more frequent examinations.* Nothing in paragraphs (c)(1) and (2) of this section limits the authority of the Board to examine any U.S. branch or agency of a foreign bank as frequently as it deems necessary.
 
-[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 72 FR 17802, Apr. 10, 2007; 81 FR 10069, Feb. 29, 2016]
+[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 72 FR 17802, Apr. 10, 2007; 81 FR 10069, Feb. 29, 2016; 83 FR 43965, Aug. 29, 2018]

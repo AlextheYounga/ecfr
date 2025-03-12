@@ -1,6 +1,6 @@
 ##### § 10.240 Notification to new subscribers of non-participation in WEA. #####
 
-Link to an amendment published at 83 FR 8623, February 28, 2018.
+Link to an amendment published at 83 FR 8623, February 28, 2018.Link to an amendment published at 83 FR 43986, August 29, 2018.
 
 (a) A CMS provider that elects not to transmit WEA Alert Messages, in part or in whole, shall provide clear and conspicuous notice, which takes into account the needs of persons with disabilities, to new subscribers of its non-election or partial election to provide Alert messages at the point-of-sale.
 

@@ -1,5 +1,7 @@
 ##### § 1250.3 Civil money penalties. #####
 
+Link to an amendment published at 83 FR 43968, Aug. 29, 2018.
+
 (a) *In general.* If an Enterprise is determined by the Director of FHFA, or his or her designee, to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to § 1250.2, the Director of FHFA, or his or her designee, may assess civil money penalties against such Enterprise in such amount or amounts as deemed to be appropriate under paragraph (c) of this section.
 
 (b) *Notice and hearing.* A civil money penalty under this section may be assessed only after notice and an opportunity for a hearing on the record has been provided to the Enterprise.

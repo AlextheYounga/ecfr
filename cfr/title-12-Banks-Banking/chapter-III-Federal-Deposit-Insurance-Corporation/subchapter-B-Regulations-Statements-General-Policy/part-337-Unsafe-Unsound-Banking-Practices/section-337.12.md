@@ -4,7 +4,7 @@
 
 (b) *18-month rule for certain small institutions.* The FDIC may conduct a full-scope, on-site examination of an insured state nonmember bank or insured State savings association at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the following conditions are satisfied:
 
-(1) The institution has total assets of less than $1 billion;
+(1) The institution has total assets of less than $3 billion;
 
 (2) The institution is well capitalized as defined in § 324.403(b)(1) of this chapter;
 
@@ -20,4 +20,4 @@
 
 (c) *Authority to conduct more frequent examinations.* This section does not limit the authority of the FDIC to examine any insured state nonmember bank or insured State savings association as frequently as the agency deems necessary.
 
-[81 FR 10069, Feb. 29, 2016]
+[81 FR 10069, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018]

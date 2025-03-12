@@ -1,0 +1,3 @@
+##### § 228.301 Purpose and scope. #####
+
+The purpose of this subpart is to prescribe standards for the design, operation, and maintenance of camp cars that a railroad uses as sleeping quarters for its employees or MOW workers or both so as to protect the safety and health of those employees and MOW workers and give them an opportunity for rest free from the interruptions caused by noise under the control of the railroad, and provide indoor toilet facilities, potable water, and other features to protect the health and safety of the employees and MOW workers.

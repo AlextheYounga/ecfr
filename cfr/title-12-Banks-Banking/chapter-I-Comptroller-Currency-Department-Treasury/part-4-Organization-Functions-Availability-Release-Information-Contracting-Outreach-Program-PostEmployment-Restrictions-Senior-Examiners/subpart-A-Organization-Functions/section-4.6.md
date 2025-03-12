@@ -4,7 +4,7 @@
 
 (b) *18-month rule for certain small institutions.* The OCC may conduct a full-scope, on-site examination of a national bank or a Federal savings association at least once during each 18-month period, rather than each 12-month period as provided in paragraph (a) of this section, if the following conditions are satisfied:
 
-(1) The bank or Federal savings association has total assets of less than $1 billion;
+(1) The bank or Federal savings association has total assets of less than $3 billion;
 
 (2) The bank or Federal savings association is well capitalized as defined in part 6 of this chapter;
 
@@ -20,4 +20,4 @@
 
 (c) *Authority to conduct more frequent examinations.* This section does not limit the authority of the OCC to examine any national bank or Federal savings association as frequently as the agency deems necessary.
 
-[81 FR 10068, Feb. 29, 2016]
+[81 FR 10068, Feb. 29, 2016, as amended at 83 FR 43965, Aug. 29, 2018]
