@@ -76,6 +76,6 @@ The following criteria for approval apply to all agencies, MSOs, and intermediar
 
 (3) HUD will certify an individual housing counselor who has met the requirements of paragraph (n)(1) of this section upon verification that the individual works for a participating agency.
 
-(4) Participating agencies and housing counselors must be in compliance with requirements of paragraph (n) of this section by 36 months after HUD commences the administration of the certification examination by publication in the Federal Register.
+(4) Participating agencies and housing counselors must be in compliance with requirements of paragraph (n) of this section as of August 1, 2021.
 
-[72 FR 55648, Sept. 28, 2007, as amended at 80 FR 75936, Dec. 7, 2015; 81 FR 90658, Dec. 14, 2016]
+[72 FR 55648, Sept. 28, 2007, as amended at 80 FR 75936, Dec. 7, 2015; 81 FR 90658, Dec. 14, 2016; 85 FR 47303, Aug. 5, 2020]

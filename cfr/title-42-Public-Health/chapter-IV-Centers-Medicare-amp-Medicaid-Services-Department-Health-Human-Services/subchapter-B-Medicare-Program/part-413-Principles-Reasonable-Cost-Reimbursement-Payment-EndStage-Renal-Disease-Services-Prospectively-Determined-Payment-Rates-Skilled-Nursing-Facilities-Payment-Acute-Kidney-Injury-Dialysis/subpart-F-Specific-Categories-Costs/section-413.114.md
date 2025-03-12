@@ -1,5 +1,7 @@
 ##### § 413.114 Payment for posthospital SNF care furnished by a swing-bed hospital. #####
 
+Link to an amendment published at 85 FR 47633, Aug. 5, 2020.
+
 (a) *Purpose and basis.* This section implements section 1883 of the Act, which provides for payment for posthospital SNF care furnished by rural hospitals and CAHs having a swing-bed approval.
 
 (1) *Services furnished in cost reporting periods beginning prior to July 1, 2002.* Posthospital SNF care furnished in general routine inpatient beds in rural hospitals and CAHs is paid in accordance with the special rules in paragraph (c) of this section for determining the reasonable cost of this care. When furnished by rural and CAH swing-bed hospitals approved after March 31, 1988 with more than 49 beds (but fewer than 100), these services must also meet the additional payment requirements set forth in paragraph (d) of this section.
