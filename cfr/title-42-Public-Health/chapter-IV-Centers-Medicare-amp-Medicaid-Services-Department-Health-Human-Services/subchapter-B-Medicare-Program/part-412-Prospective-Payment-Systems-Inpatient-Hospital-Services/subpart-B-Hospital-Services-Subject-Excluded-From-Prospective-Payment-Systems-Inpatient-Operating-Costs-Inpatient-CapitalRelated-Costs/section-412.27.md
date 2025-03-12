@@ -1,5 +1,7 @@
 ##### § 412.27 Excluded psychiatric units: Additional requirements. #####
 
+Link to an amendment published at 83 FR 38619, Aug. 6, 2018.
+
 In order to be excluded from the prospective payment system as specified in § 412.1(a)(1), and paid under the prospective payment system as specified in § 412.1(a)(2), a psychiatric unit must meet the following requirements:
 
 (a) Admit only patients whose admission to the unit is required for active treatment, of an intensity that can be provided appropriately only in an inpatient hospital setting, of a psychiatric principal diagnosis that is listed in the Fourth Edition, Text Revision of the American Psychiatric Association's Diagnostic and Statistical Manual, or in Chapter Five (“Mental Disorders”) of the International Classification of Diseases, Ninth Revision, Clinical Modification.

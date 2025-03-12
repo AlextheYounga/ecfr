@@ -1,7 +1,5 @@
 ##### § 679.20 General limitations. #####
 
-Link to an amendment published at 83 FR 31464, July 6, 2018.
-
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
 (a) *Harvest limits* - (1) *OY* (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
@@ -380,7 +378,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*2*) Allocated to each Amendment 80 cooperative as described under § 679.91(i)(2).
 
-(2) *GOA.* Initial reserves are established for pollock, Pacific cod, flatfish, squids, octopuses, sharks, and sculpins, which are equal to 20 percent of the TACs for these species or species groups.
+(2) *GOA.* Initial reserves are established for pollock, Pacific cod, flatfish, octopuses, sharks, and sculpins, which are equal to 20 percent of the TACs for these species or species groups.
 
 (i) *Pollock inshore-offshore reapportionment.* Any amounts of the GOA reserve that are reapportioned to pollock as provided by paragraph (b) of this section must be apportioned for processing by the inshore component in the GOA and the offshore component in the GOA in the same proportions specified in paragraph (a)(6)(i) of this section.
 
@@ -562,15 +560,15 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (v) If NMFS makes any adjustment or announcement without providing a prior notification and opportunity for prior public comment, the Regional Administrator will receive public comments on the adjustment or announcement for a period of 15 days from the date of publication in the Federal Register.
 
-(i) *Forage fish and grenadiers* - (1) *Definition.* See Table 2c to this part.
+(i) *Forage fish, grenadiers, and squids.* - (1) *Definition.* See Table 2c to this part.
 
 (2) *Applicability.* The provisions of § 679.20(i) apply to all vessels fishing for groundfish in the BSAI or GOA, and to all vessels processing groundfish harvested in the BSAI or GOA.
 
-(3) *Closure to directed fishing.* Directed fishing for forage fish and grenadiers is prohibited at all times in the BSAI and GOA.
+(3) *Closure to directed fishing.* Directed fishing for forage fish, grenadiers, and squids is prohibited at all times in the BSAI and GOA.
 
-(4) *Limits on sale, barter, trade, and processing.* The sale, barter, trade, or processing of forage fish or grenadiers is prohibited, except as provided in paragraph (i)(5) of this section.
+(4) *Limits on sale, barter, trade, and processing.* The sale, barter, trade, or processing of forage fish, grenadiers, and squids is prohibited, except as provided in paragraph (i)(5) of this section.
 
-(5) *Allowable fishmeal production.* Retained catch of forage fish or grenadiers not exceeding the maximum retainable amount may be processed into fishmeal for sale, barter, or trade.
+(5) *Allowable fishmeal production.* Retained catch of forage fish, grenadiers, or squids not exceeding the maximum retainable amount may be processed into fishmeal for sale, barter, or trade.
 
 (j) *Full retention of Demersal Shelf Rockfish (DSR) in the Southeast Outside District of the GOA (SEO)* - (1) *Retention and landing requirements.* The operator of a catcher vessel that is required to have a Federal fisheries permit, or that harvests IFQ halibut with hook and line or jig gear, must retain and land all DSR that is caught while fishing for groundfish or IFQ halibut in the SEO.
 

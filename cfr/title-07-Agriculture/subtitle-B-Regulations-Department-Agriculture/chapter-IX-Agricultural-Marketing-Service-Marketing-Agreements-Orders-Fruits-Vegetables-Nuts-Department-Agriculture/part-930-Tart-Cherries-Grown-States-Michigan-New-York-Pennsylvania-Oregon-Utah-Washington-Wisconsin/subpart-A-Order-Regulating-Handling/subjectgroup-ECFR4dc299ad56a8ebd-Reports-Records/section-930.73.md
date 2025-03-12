@@ -1,0 +1,3 @@
+##### § 930.73 Confidential information. #####
+
+All reports and records furnished or submitted by handlers to the Board and its authorized agents which include data or information constituting a trade secret or disclosing trade position, financial condition, or business operations of the particular handler from whom received, shall be received by and at all times kept in the custody and under the control of one or more employees of the Board or its agent, who shall disclose such information to no person other than the Secretary.

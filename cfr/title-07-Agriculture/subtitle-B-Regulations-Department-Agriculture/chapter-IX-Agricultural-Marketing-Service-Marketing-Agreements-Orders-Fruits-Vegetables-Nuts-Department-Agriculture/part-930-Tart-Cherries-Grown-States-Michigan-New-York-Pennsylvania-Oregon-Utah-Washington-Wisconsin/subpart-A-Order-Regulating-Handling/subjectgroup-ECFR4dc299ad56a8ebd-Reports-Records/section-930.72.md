@@ -1,0 +1,3 @@
+##### § 930.72 Verification of reports and records. #####
+
+For the purpose of assuring compliance and checking and verifying the reports filed by handlers, the Secretary and the Board, through its duly authorized agents, shall have access to any premises where applicable records are maintained, where cherries are received, stored, or handled, and, at any time during reasonable business hours, shall be permitted to inspect such handlers premises and any and all records of such handlers with respect to matters within the purview of this part.

@@ -1,0 +1,3 @@
+##### § 930.15 Restricted percentage cherries. #####
+
+*Restricted percentage cherries* means that proportion of cherries handled in a crop year which must be either placed into handlers' inventories in accordance with § 930.55 or § 930.57 or otherwise diverted in accordance with § 930.59 and thereby withheld from marketing in normal commercial outlets under any volume regulation established pursuant to § 930.50 or § 930.51.

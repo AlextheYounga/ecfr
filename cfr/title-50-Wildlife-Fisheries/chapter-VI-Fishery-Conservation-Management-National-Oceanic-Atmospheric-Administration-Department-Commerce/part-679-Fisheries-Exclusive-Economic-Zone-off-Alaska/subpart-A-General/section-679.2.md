@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 83 FR 31464, July 6, 2018.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -1162,9 +1160,11 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Single geographic location* (see § 679.4(l)(5)(iii)).
 
+*Sitka Pinnacles Marine Reserve* means an area totaling 2.5 square nm in the GOA, off Cape Edgecumbe, in Statistical Area 650. See Figure 18 to this part.
+
 *Southeast Outside District* of the GOA means that part of the Eastern GOA Regulatory Area contained in Statistical Area 650 (see Figure 3 to this part).
 
-*Sitka Pinnacles Marine Reserve* means an area totaling 2.5 square nm in the GOA, off Cape Edgecumbe, in Statistical Area 650. See Figure 18 to this part.
+*Squids* (see Table 2c to this part and § 679.20(i)).
 
 *St. Lawrence Island Habitat Conservation Area* means a habitat protection area specified at Table 45 to this part.
 

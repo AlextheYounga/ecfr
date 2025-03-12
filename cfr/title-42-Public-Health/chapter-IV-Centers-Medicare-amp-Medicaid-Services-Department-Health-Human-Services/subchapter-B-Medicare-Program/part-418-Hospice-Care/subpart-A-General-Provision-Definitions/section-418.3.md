@@ -1,5 +1,7 @@
 ##### § 418.3 Definitions. #####
 
+Link to an amendment published at 83 FR 38654, August 6, 2018.
+
 For purposes of this part -
 
 *Attending physician* means a -

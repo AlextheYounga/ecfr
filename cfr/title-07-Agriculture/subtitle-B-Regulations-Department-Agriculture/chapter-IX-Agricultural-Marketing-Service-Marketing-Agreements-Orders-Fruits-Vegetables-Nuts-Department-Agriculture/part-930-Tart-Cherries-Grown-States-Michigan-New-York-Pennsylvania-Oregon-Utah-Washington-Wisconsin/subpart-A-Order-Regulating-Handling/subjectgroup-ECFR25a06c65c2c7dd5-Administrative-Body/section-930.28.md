@@ -1,0 +1,5 @@
+##### § 930.28 Alternate members. #####
+
+An alternate member of the Board, during the absence of the member for whom that member serves as an alternate, shall act in the place and stead of such member and perform such other duties as assigned. However, if a member is in attendance at a meeting of the Board, an alternate member may not act in the place and stead of such member. In the event a member and his or her alternate are absent from a meeting of the Board, such member may designate, in writing and prior to the meeting, another alternate to act in his or her place: *Provided,* that such alternate represents the same group (grower or handler) as the member. In the event of the death, removal, resignation or disqualification of a member, the alternate shall act for the member until a successor is appointed and has qualified.
+
+[67 FR 51714, Aug. 8, 2002]

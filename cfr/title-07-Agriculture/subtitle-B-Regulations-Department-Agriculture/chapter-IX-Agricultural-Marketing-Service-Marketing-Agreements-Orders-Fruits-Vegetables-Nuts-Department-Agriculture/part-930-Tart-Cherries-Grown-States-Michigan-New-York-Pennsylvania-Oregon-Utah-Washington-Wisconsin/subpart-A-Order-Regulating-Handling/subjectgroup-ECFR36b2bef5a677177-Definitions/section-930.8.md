@@ -1,0 +1,3 @@
+##### § 930.8 Free market tonnage percentage cherries. #####
+
+*Free market tonnage percentage cherries* means that proportion of cherries handled in a crop year which are free to be marketed in normal commercial outlets in that crop year under any volume regulation established pursuant to § 930.50 or § 930.51 and, in the absence of a restricted percentage being established for a crop year pursuant to § 930.50 or § 930.51, means all cherries received by handlers in that crop year.

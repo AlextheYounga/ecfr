@@ -1,0 +1,3 @@
+##### § 930.61 Handler compensation. #####
+
+Each handler handling cherries from a regulated district that is subject to volume regulations shall be compensated by the Board for inspection relating to the primary inventory reserve as the Board may deem to be appropriate. The Board, with the approval of the Secretary, may establish such rules and regulations as are necessary and incidental to the administration of this section.

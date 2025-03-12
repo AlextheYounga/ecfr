@@ -1,5 +1,7 @@
 ##### § 412.428 Publication of Updates to the inpatient psychiatric facility prospective payment system. #####
 
+Link to an amendment published at 83 FR 38619, Aug. 6, 2018.
+
 CMS will publish annually in the Federal Register information pertaining to updates to the inpatient psychiatric facility prospective payment system. This information includes:
 
 (a) A description of the methodology and data used to calculate the updated Federal per diem base payment amount.

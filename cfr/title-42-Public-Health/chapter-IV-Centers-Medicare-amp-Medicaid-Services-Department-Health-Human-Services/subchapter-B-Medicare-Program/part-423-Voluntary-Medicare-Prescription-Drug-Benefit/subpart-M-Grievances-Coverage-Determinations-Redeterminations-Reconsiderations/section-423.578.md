@@ -6,12 +6,6 @@
 
 (2) Part D plan sponsors must establish criteria that provide for a tiering exception, consistent with paragraphs (a)(3) through (6) of this section.
 
-(i) A description of the criteria a Part D plan sponsor uses to evaluate a determination made by the enrollee's prescribing physician or other prescriber under paragraph (a)(4) of this section.
-
-(ii) Consideration of whether the requested Part D drug that is the subject of the exceptions request is the therapeutic equivalent, as defined in § 423.100, of any other drug on the plan's formulary.
-
-(iii) Consideration of the number of drugs on the plan's formulary that are in the same class and category as the requested prescription drug that is the subject of the exceptions request.
-
 (3) An enrollee or the enrollee's prescribing physician or other prescriber may file a request for an exception.
 
 (4) A prescribing physician or other prescriber must provide an oral or written supporting statement that the preferred drug(s) for the treatment of the enrollee's condition -

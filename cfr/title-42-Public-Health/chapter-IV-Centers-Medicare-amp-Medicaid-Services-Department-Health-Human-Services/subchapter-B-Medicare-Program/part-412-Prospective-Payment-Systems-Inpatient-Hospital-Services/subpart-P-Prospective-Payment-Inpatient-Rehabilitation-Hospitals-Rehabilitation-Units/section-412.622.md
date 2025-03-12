@@ -1,5 +1,7 @@
 ##### § 412.622 Basis of payment. #####
 
+Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
+
 (a) *Method of payment.* (1) Under the prospective payment system, inpatient rehabilitation facilities receive a predetermined amount per discharge for inpatient services furnished to Medicare Part A fee-for-service beneficiaries.
 
 (2) The amount of payment under the prospective payment system is based on the Federal payment rate, including adjustments described in § 412.624 and, if applicable, during a transition period, on a blend of the Federal payment rate and the facility-specific payment rate described in § 412.626.

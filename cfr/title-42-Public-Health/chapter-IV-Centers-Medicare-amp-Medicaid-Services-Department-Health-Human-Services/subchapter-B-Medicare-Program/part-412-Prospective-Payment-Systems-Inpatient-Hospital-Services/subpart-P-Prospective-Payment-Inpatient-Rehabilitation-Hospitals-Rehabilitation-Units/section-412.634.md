@@ -1,5 +1,7 @@
 ##### § 412.634 Requirements under the Inpatient Rehabilitation Facility (IRF) Quality Reporting Program (QRP). #####
 
+Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
+
 (a) *Participation.* (1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the Certification and Survey Provider Enhanced Reports (CASPER) system.
 
 (2) [Reserved]

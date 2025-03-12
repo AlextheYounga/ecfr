@@ -1,5 +1,7 @@
 ##### § 412.402 Definitions. #####
 
+Link to an amendment published at 83 FR 38619, Aug. 6, 2018.
+
 As used in this subpart -
 
 *Comorbidity* means all specific patient conditions that are secondary to the patient's primary diagnosis and that coexist at the time of admission, develop subsequently, or that affect the treatment received or the length of stay or both. Diagnoses that relate to an earlier episode of care that have no bearing on the current hospital stay are excluded.

@@ -1,5 +1,7 @@
 ##### § 418.309 Hospice aggregate cap. #####
 
+Link to an amendment published at 83 FR 38655, August 6, 2018.
+
 A hospice's aggregate cap is calculated by multiplying the adjusted cap amount (determined in paragraph (a) of this section) by the number of Medicare beneficiaries, as determined by one of two methodologies for determining the number of Medicare beneficiaries for a given cap year described in paragraphs (b) and (c) of this section.
 
 (a) *Cap Amount.* The cap amount was set at $6,500 in 1983 and is updated using one of two methodologies described in paragraphs (a)(1) and (a)(2) of this section.

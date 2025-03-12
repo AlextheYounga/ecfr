@@ -1,5 +1,7 @@
 ##### § 418.304 Payment for physician and nurse practitioner services. #####
 
+Link to an amendment published at 83 FR 38655, August 6, 2018.
+
 (a) The following services performed by hospice physicians and nurse practitioners are included in the rates described in § 418.302:
 
 (1) General supervisory services of the medical director.

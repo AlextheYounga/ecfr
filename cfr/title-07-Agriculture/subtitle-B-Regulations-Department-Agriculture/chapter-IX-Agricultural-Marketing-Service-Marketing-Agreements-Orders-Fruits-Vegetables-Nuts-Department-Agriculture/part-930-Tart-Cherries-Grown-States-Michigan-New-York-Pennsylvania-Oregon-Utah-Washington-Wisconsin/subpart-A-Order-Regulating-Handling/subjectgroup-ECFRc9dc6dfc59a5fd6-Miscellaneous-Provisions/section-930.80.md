@@ -1,0 +1,3 @@
+##### § 930.80 Compliance. #####
+
+Except as provided in this part, no person may handle cherries, the handling of which has been prohibited by the Secretary under this part, and no person shall handle cherries except in conformity with the provisions of this part and the regulations issued hereunder. No person may handle any cherries for which a diversion certificate has been issued other than as provided in §§ 930.58(b) and 930.59(b).

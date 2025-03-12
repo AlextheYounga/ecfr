@@ -1,7 +1,5 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 83 FR 31464, July 6, 2018.
-
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.
@@ -27,7 +25,7 @@ Link to an amendment published at 83 FR 31464, July 6, 2018.
 
 (iv) The CDQ permit holder, CDQ hired master permit holder, or Registered Buyer must comply with the R&R requirements provided at paragraphs (e), (g), (k), and (l)(1) through (6) of this section.
 
-(3) *Fish to be recorded and reported.* The operator or manager must record and report the following information (see paragraphs (a)(3)(i) through (iv) of this section) for all groundfish (see Table 2a to this part), prohibited species (see Table 2b to this part), forage fish (see Table 2c to this part), and grenadiers (see Table 2c to this part). The operator or manager may record and report the following information (see paragraphs (a)(3)(i) through (iv) of this section) for non-groundfish (see Table 2d to this part):
+(3) *Fish to be recorded and reported.* The operator or manager must record and report the following information (see paragraphs (a)(3)(i) through (iv) of this section) for all groundfish (see Table 2a to this part), prohibited species (see Table 2b to this part), forage fish (see Table 2c to this part), grenadiers (see Table 2c to this part), and squids (see Table 2c to this part). The operator or manager may record and report the following information (see paragraphs (a)(3)(i) through (iv) of this section) for non-groundfish (see Table 2d to this part):
 
 (i) Harvest information;
 
@@ -237,7 +235,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (E) *Begin and end gear depths.* Recorded to the nearest fathom (optional, but may be required by IPHC regulations (see §§ 300.60 through 300.65 of this chapter)).
 
-(F) *Species codes.* The operator must record and report required information for all groundfish (see Table 2a to this part), prohibited species (see Table 2b to this part), forage fish (see Table 2c to this part), and grenadiers (see Table 2c to this part). The operator may record and report information for non-groundfish (see Table 2d to this part).
+(F) *Species codes.* The operator must record and report required information for all groundfish (see Table 2a to this part), prohibited species (see Table 2b to this part), forage fish (see Table 2c to this part), grenadiers (see Table 2c to this part), and squids (see Table 2c to this part). The operator may record and report information for non-groundfish (see Table 2d to this part).
 
 (G) *Target species code.* Enter the species code of the intended species to be harvested. Enter only one target species code.
 
@@ -358,7 +356,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (D) *Average sea depth and average gear depth.* Average sea depth and average gear depth; indicate whether average is reported to the nearest meter or fathom.
 
-(E) *Species codes.* The operator must record and report the required information for all groundfish (see Table 2a to this part), prohibited species (see Table 2b to this part), forage fish (see Table 2c to this part), and grenadiers (see Table 2c to this part). The operator may also record and report the required information for non-groundfish (see Table 2d to this part).
+(E) *Species codes.* The operator must record and report required information for all groundfish (see Table 2a to this part), prohibited species (see Table 2b to this part), forage fish (see Table 2c to this part), grenadiers (see Table 2c to this part), and squids (see Table 2c to this part). The operator may record and report information for non-groundfish (see Table 2d to this part).
 
 (F) *Target species code.* Enter the species code of the species to be harvested. Enter only one target species code.
 

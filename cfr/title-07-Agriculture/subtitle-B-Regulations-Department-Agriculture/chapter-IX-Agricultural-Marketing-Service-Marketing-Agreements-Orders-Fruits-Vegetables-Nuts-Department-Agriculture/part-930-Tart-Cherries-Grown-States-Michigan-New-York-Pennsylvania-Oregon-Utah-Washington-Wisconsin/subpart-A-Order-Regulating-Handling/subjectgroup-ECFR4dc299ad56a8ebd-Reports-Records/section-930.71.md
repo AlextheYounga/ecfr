@@ -1,0 +1,3 @@
+##### § 930.71 Records. #####
+
+Each handler shall maintain such records of all cherries acquired, handled, stored or sold, or otherwise disposed of as will substantiate the required reports and as may be prescribed by the Board. All such records shall be maintained for not less than two years after the termination of the fiscal year in which the transactions occurred or for such lesser period as the Board may direct with the approval of the Secretary.

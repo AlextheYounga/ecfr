@@ -1,5 +1,7 @@
 ##### § 412.606 Patient assessments. #####
 
+Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
+
 (a) *Admission orders.* At the time that each Medicare Part A fee-for-service patient is admitted, the inpatient rehabilitation facility must have physician orders for the patient's care during the time the patient is hospitalized.
 
 (b) *Patient assessment instrument.* An inpatient rehabilitation facility must use the CMS inpatient rehabilitation facility patient assessment instrument to assess Medicare Part A fee-for-service and Medicare Part C (Medicare Advantage) inpatients who -

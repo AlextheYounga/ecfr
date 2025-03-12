@@ -1,5 +1,7 @@
 ##### § 412.624 Methodology for calculating the Federal prospective payment rates. #####
 
+Link to an amendment published at 83 FR 38573, Aug. 6, 2018.
+
 (a) *Data used.* To calculate the prospective payment rates for inpatient hospital services furnished by inpatient rehabilitation facilities, we use -
 
 (1) The most recent Medicare data available, as of the date of establishing the inpatient rehabilitation facility prospective payment system, to estimate payments for inpatient operating and capital-related costs made under part 413 of this subchapter;
