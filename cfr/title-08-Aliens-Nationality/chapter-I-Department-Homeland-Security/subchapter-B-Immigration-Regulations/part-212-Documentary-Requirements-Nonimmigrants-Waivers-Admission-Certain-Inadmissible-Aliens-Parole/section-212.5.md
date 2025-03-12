@@ -1,5 +1,7 @@
 ##### § 212.5 Parole of aliens into the United States. #####
 
+Link to an amendment published at 87 FR 18220, Mar. 29, 2022.
+
 (a) The authority of the Secretary to continue an alien in custody or grant parole under section 212(d)(5)(A) of the Act shall be exercised by the Assistant Commissioner, Office of Field Operations; Director, Detention and Removal; directors of field operations; port directors; special agents in charge; deputy special agents in charge; associate special agents in charge; assistant special agents in charge; resident agents in charge; field office directors; deputy field office directors; chief patrol agents; district directors for services; and those other officials as may be designated in writing, subject to the parole and detention authority of the Secretary or his designees. The Secretary or his designees may invoke, in the exercise of discretion, the authority under section 212(d)(5)(A) of the Act.
 
 (b) The parole of aliens within the following groups who have been or are detained in accordance with § 235.3(c) of this chapter would generally be justified only on a case-by-case basis for “urgent humanitarian reasons or “significant public benefit,” provided the aliens present neither a security risk nor a risk of absconding:

@@ -16,10 +16,10 @@
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount.* Administer orally, once a month, at the recommended minimum dose of 0.54 mg/lb (1.2 mg/kg) sarolaner, 0.011 mg/lb (24 µg/kg) moxidectin, and 2.27 mg/lb (5 mg/kg) pyrantel (as pamoate salt).
+(c) *Conditions of use in dogs*—(1) *Amount.* Administer orally, once a month, at the recommended minimum dose of 0.54 mg/lb (1.2 mg/kg) sarolaner, 0.011 mg/lb (24 µg/kg) moxidectin, and 2.27 mg/lb (5 mg/kg) pyrantel (as pamoate salt).
 
-(2) *Indications for use.* For the prevention of heartworm disease caused by *Dirofilaria immitis* and for the treatment and control of roundworm (immature adult and adult *Toxocara canis* and adult *Toxascaris leonina*) and adult hookworm (*Ancylostoma caninum* and *Uncinaria stenocephala*) infections. Kills adult fleas (*Ctenocephalides felis*) and is indicated for the treatment and prevention of flea infestations, and the treatment and control of tick infestations with *Amblyomma americanum* (lone star tick), *Amblyomma maculatum* (Gulf Coast tick), *Dermacentor variabilis* (American dog tick), *Ixodes scapularis* (black-legged tick), and *Rhipicephalus sanguineus* (brown dog tick) for 1 month in dogs and puppies 8 weeks of age and older, and weighing 2.8 pounds or greater.
+(2) *Indications for use.* For the prevention of heartworm disease caused by *Dirofilaria immitis* and for the treatment and control of roundworm (immature adult and adult *Toxocara canis* and adult *Toxascaris leonina*) and hookworm (L4, immature adult, and adult *Ancylostoma caninum* and adult *Uncinaria stenocephala*) infections. Kills adult fleas (*Ctenocephalides felis*) and is indicated for the treatment and prevention of flea infestations, and the treatment and control of tick infestations with *Amblyomma americanum* (lone star tick), *Amblyomma maculatum* (Gulf Coast tick), *Dermacentor variabilis* (American dog tick), *Ixodes scapularis* (black-legged tick), and *Rhipicephalus sanguineus* (brown dog tick) for 1 month in dogs and puppies 8 weeks of age and older, and weighing 2.8 pounds or greater. For the prevention of *Borrelia burgdorferi* infections as a direct result of killing *Ixodes scapularis* vector ticks.
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[85 FR 45307, July 28, 2020, as amended at 86 FR 57997, Oct. 20, 2021]
+[85 FR 45307, July 28, 2020, as amended at 86 FR 57997, Oct. 20, 2021; 87 FR 17945, Mar. 29, 2022]

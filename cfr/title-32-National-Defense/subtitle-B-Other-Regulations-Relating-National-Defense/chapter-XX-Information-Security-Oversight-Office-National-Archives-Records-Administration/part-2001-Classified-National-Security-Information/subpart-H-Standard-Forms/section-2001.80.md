@@ -1,5 +1,7 @@
 ##### § 2001.80 Prescribed standard forms. #####
 
+Link to an amendment published at 87 FR 17952, Mar. 29, 2022.
+
 (a) *General.* The purpose of the standard forms is to promote the implementation of the government-wide information security program. Standard forms are prescribed when their use will enhance the protection of national security information and/or will reduce the costs associated with its protection. The use of the standard forms prescribed is mandatory for agencies of the executive branch that create or handle national security information. As appropriate, these agencies may mandate the use of these forms by their contractors, licensees, or grantees who are authorized access to national security information.
 
 (b) *Waivers.* Except for the SF 312, “Classified Information Nondisclosure Agreement,” and the SF 714, “Financial Disclosure Report,” (which are waiverable by the Director of National Intelligence, as the Security Executive Agent, under E.O. 13467, *Reforming Processes Related to Suitability for Government Employment, Fitness for Contractor Employees, and Eligibility for Access to Classified National Security Information*) only the Director of ISOO may grant a waiver from the use of the prescribed standard forms. To apply for a waiver, an agency must submit its proposed alternative form to the Director of ISOO along with its justification for use. The Director of ISOO will review the request and notify the agency of the decision. Waivers approved prior to December 29, 2009, remain in effect and are subject to review.

@@ -1,5 +1,7 @@
 ##### § 208.2 Jurisdiction. #####
 
+Link to an amendment published at 87 FR 18215, Mar. 29, 2022.
+
 (a) *Refugee, Asylum, and International Operations (RAIO).* Except as provided in paragraph (b) or (c) of this section, RAIO shall have initial jurisdiction over an asylum application filed by an alien physically present in the United States or seeking admission at a port-of-entry. RAIO shall also have initial jurisdiction over credible fear determinations under § 208.30 and reasonable fear determinations under § 208.31.
 
 (b) *Jurisdiction of Immigration Court in general.* Immigration judges shall have exclusive jurisdiction over asylum applications filed by an alien who has been served a Form I-221, Order to Show Cause; Form I-122, Notice to Applicant for Admission Detained for a Hearing before an Immigration Judge; or Form I-862, Notice to Appear, after the charging document has been filed with the Immigration Court. Immigration judges shall also have jurisdiction over any asylum applications filed prior to April 1, 1997, by alien crewmembers who have remained in the United States longer than authorized, by applicants for admission under the Visa Waiver Pilot Program, and by aliens who have been admitted to the United States under the Visa Waiver Pilot Program. Immigration judges shall also have the authority to review reasonable fear determinations referred to the Immigration Court under § 208.31, and credible fear determinations referred to the Immigration Court under § 208.30.

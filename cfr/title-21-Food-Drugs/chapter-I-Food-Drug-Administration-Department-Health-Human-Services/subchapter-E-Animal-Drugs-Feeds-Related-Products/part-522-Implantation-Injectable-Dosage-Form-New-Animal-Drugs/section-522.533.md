@@ -8,7 +8,7 @@
 
 (1) No. 051311 for use of product described in paragraph (a)(1) as in paragraph (c)(1) of this section.
 
-(2) No. 051330 for use of product described in paragraph (a)(2) as in paragraph (c)(2) of this section.
+(2) No. 043264 for use of product described in paragraph (a)(2) as in paragraph (c)(2) of this section.
 
 (c) *Conditions of use* - (1) *Horses and ponies* - (i) *Amount.* One implant per mare subcutaneously in the neck.
 
@@ -22,4 +22,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[75 FR 81456, Dec. 28, 2010, as amended at 79 FR 18158, Apr. 1, 2014]
+[75 FR 81456, Dec. 28, 2010, as amended at 79 FR 18158, Apr. 1, 2014; 87 FR 17945, Mar. 29, 2022]

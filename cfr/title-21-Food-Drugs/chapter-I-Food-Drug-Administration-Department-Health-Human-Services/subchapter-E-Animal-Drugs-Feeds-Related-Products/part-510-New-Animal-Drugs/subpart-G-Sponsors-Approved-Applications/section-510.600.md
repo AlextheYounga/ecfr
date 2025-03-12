@@ -51,7 +51,8 @@
 |                                                        Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria                                                        |     016592      |
 |                                                            IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                                                            |     000115      |
 |                                                                   Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940                                                                   |     000061      |
-|                                                          Ivaoes Animal Health, 4300 SW 73rd Ave., suite 110, Miami, FL 33155                                                           |     086064      |
+|                                                          Ivaoes Animal Health, 4300 SW 73rd Ave., Suite 110, Miami, FL 33155                                                           |     086064      |
+|                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104                                                         |     086149      |
 |                                                           Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia                                                            |     049480      |
 |                                                     Kindred Biosciences, Inc., 1555 Bayshore Hwy., Suite 200, Burlingame, CA 94010                                                     |     086078      |
 |                                                       Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509                                                       |     051031      |
@@ -90,7 +91,6 @@
 |                                                                   Syndel USA, 1441 W. Smith Rd., Ferndale, WA 98248                                                                    |     050378      |
 |                                                         Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532                                                          |     051672      |
 |                                                                 Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503                                                                  |     052923      |
-|                                                           Thorn Bioscience LLC, 1044 East Chestnut St., Louisville, KY 40204                                                           |     051330      |
 |                                                                 Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901                                                                 |     086106      |
 |                                                                  United-AH II LLC, 322 S Main St., Sheridan, IN 46069                                                                  |     051233      |
 |                                                            VetDC, Inc., 320 E. Vine Dr., suite 218, Fort Collins, CO 80524                                                             |     086072      |
@@ -141,7 +141,6 @@
 |     051079      |                                                        Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478.                                                        |
 |     051233      |                                                                  United-AH II LLC, 322 S Main St., Sheridan, IN 46069.                                                                  |
 |     051311      |                                                                  Virbac AH, Inc., PO Box 162059, Fort Worth, TX 76161.                                                                  |
-|     051330      |                                                           Thorn Bioscience LLC, 1044 East Chestnut St., Louisville, KY 40204.                                                           |
 |     051672      |                                                         Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532.                                                          |
 |     052483      |                                                                    Orion Corp., Orionintie 1, 02200 Espoo, Finland.                                                                     |
 |     052818      |                                                             Oasmia Pharmaceutical AB, Vallongatan 1, 75228 Uppsala, Sweden.                                                             |
@@ -196,8 +195,7 @@
 |     086121      |                                                     Anivive Lifesciences, Inc., 3250 Airflite Way, Suite 400, Long Beach, CA 90807.                                                     |
 |     086132      |                                              QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia.                                              |
 |     086134      |                               Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060.                                |
+|     086149      |                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104.                                                         |
 |     099207      |                                                       Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807.                                                       |
 
 [40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
-
-2. At 77 FR 46613, Aug. 6, 2012, § 510.600 was amended by removing the entry for “012758” in the table in paragraph (c)(2); however, the amendment could not be incorporated because “012758” didn't exist.

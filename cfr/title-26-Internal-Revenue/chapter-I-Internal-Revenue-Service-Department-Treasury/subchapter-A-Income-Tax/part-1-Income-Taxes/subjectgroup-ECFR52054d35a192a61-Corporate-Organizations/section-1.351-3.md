@@ -1,6 +1,6 @@
 ##### § 1.351-3 Records to be kept and information to be filed. #####
 
-(a) *Significant transferor.* Every significant transferor must include a statement entitled, “STATEMENT PURSUANT TO § 1.351-3(a) BY [INSERT NAME AND TAXPAYER IDENTIFICATION NUMBER (IF ANY) OF TAXPAYER], A SIGNIFICANT TRANSFEROR,” on or with such transferor's income tax return for the taxable year of the section 351 exchange. If a significant transferor is a controlled foreign corporation (within the meaning of section 957), each United States shareholder (within the meaning of section 951(b)) with respect thereto must include this statement on or with its return. The statement must include -
+(a) *Significant transferor.* Every significant transferor must include a statement entitled, “STATEMENT PURSUANT TO § 1.351-3(a) BY [INSERT NAME AND TAXPAYER IDENTIFICATION NUMBER (IF ANY) OF TAXPAYER], A SIGNIFICANT TRANSFEROR,” on or with such transferor's income tax return for the taxable year of the section 351 exchange. If a significant transferor is a controlled foreign corporation (within the meaning of section 957), each United States shareholder (within the meaning of section 951(b)) with respect thereto must include this statement on or with its return. The statement must include—
 
 (1) The name and employer identification number (if any) of the transferee corporation;
 
@@ -18,7 +18,7 @@
 
 (4) The date and control number of any private letter ruling(s) issued by the Internal Revenue Service in connection with the section 351 exchange.
 
-(b) *Transferee corporation.* Except as provided in paragraph (c) of this section, every transferee corporation must include a statement entitled, “STATEMENT PURSUANT TO § 1.351-3(b) BY [INSERT NAME AND EMPLOYER IDENTIFICATION NUMBER (IF ANY) OF TAXPAYER], A TRANSFEREE CORPORATION,” on or with its income tax return for the taxable year of the exchange. If the transferee corporation is a controlled foreign corporation (within the meaning of section 957), each United States shareholder (within the meaning of section 951(b)) with respect thereto must include this statement on or with its return. The statement must include -
+(b) *Transferee corporation.* Except as provided in paragraph (c) of this section, every transferee corporation must include a statement entitled, “STATEMENT PURSUANT TO § 1.351-3(b) BY [INSERT NAME AND EMPLOYER IDENTIFICATION NUMBER (IF ANY) OF TAXPAYER], A TRANSFEREE CORPORATION,” on or with its income tax return for the taxable year of the exchange. If the transferee corporation is a controlled foreign corporation (within the meaning of section 957), each United States shareholder (within the meaning of section 951(b)) with respect thereto must include this statement on or with its return. The statement must include—
 
 (1) The name and taxpayer identification number (if any) of every significant transferor;
 
@@ -40,13 +40,13 @@
 
 (d) *Definitions.* For purposes of this section:
 
-(1) *Significant transferor* means a person that transferred property to a corporation and received stock of the transferee corporation in an exchange described in section 351 if, immediately after the exchange, such person -
+(1) *Significant transferor* means a person that transferred property to a corporation and received stock of the transferee corporation in an exchange described in section 351 if, immediately after the exchange, such person—
 
 (i) Owned at least five percent (by vote or value) of the total outstanding stock of the transferee corporation if the stock owned by such person is publicly traded, or
 
 (ii) Owned at least one percent (by vote or value) of the total outstanding stock of the transferee corporation if the stock owned by such person is not publicly traded.
 
-(2) *Publicly traded stock* means stock that is listed on -
+(2) *Publicly traded stock* means stock that is listed on—
 
 (i) A national securities exchange registered under section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f); or
 
@@ -54,6 +54,6 @@
 
 (e) *Substantiation information.* Under § 1.6001-1(e), taxpayers are required to retain their permanent records and make such records available to any authorized Internal Revenue Service officers and employees. In connection with the exchange described in this section, these records should specifically include information regarding the amount, basis, and fair market value of all transferred property, and relevant facts regarding any liabilities assumed or extinguished as part of such exchange.
 
-(f) *Effective/applicability date.* \* \* \* Paragraphs (a)(3) and (b)(3) of this section apply with respect to exchanges under section 351 occurring on or after March 28, 2016, and also with respect to exchanges under section 351 occurring before such date as a result of an entity classification election under § 301.7701-3 of this chapter filed on or after March 28, 2016, unless such exchange is pursuant to a binding agreement that was in effect prior to March 28, 2016 and at all times thereafter.
+(f) *Effective/applicability date.* This section applies to any taxable year beginning on or after May 30, 2006. However, taxpayers may apply this section to any original Federal income tax return (including any amended return filed on or before the due date (including extensions) of such original return) timely filed on or after May 30, 2006. For taxable years beginning before May 30, 2006, see § 1.351-3 as contained in 26 CFR part 1 in effect on April 1, 2006. Paragraphs (a)(3) and (b)(3) of this section apply with respect to exchanges under section 351 occurring on or after March 28, 2016, and also with respect to exchanges under section 351 occurring before such date as a result of an entity classification election under § 301.7701-3 of this chapter filed on or after March 28, 2016, unless such exchange is pursuant to a binding agreement that was in effect prior to March 28, 2016 and at all times thereafter.
 
 [T.D. 9329, 72 FR 32798, June 14, 2007, as amended by T.D. 9759, 81 FR 17074, Mar. 28, 2016]

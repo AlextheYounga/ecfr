@@ -64,14 +64,24 @@
 
 (C) *Limitations.* Implant subcutaneously in ear only. Not for use in dairy or beef replacement heifers. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
 
-(3) *Pasture steers and heifers (slaughter, stocker, and feeder).* (i) For an implant as described in paragraph (a)(2)(ii) of this section:
+(3) *Growing beef steers and heifers fed in confinement for slaughter.* (i) For an implant as described in paragraph (a)(2)(ii) of this section:
+
+(A) *Amount.* 150 mg trenbolone acetate and 21 mg estradiol benzoate in an extended-release implant.
+
+(B) *Indications for use.* For increased rate of weight gain for up to 200 days.
+
+(C) *Limitations.* Implant pellets subcutaneously in ear only. Not approved for repeated implantation (reimplantation) with this or any other cattle ear implant within each separate production phase. Safety and effectiveness following reimplantation have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been established. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows.
+
+(ii) [Reserved]
+
+(4) *Growing beef steers and heifers on pasture (stocker, feeder, and slaughter).* (i) For an implant as described in paragraph (a)(2)(ii) of this section:
 
 (A) *Amount.* 150 mg trenbolone acetate and 21 mg estradiol benzoate in an extended release implant.
 
 (B) *Indications for use.* For increased rate of weight gain for up to 200 days.
 
-(C) *Limitations.* Implant subcutaneously in ear only. Not for use in dairy or beef replacement heifers. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(C) *Limitations.* Implant pellets subcutaneously in ear only. Not approved for repeated implantation (reimplantation) with this or any other cattle ear implant within each separate production phase. Safety and effectiveness following reimplantation have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been established. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows.
 
 (ii) [Reserved]
 
-[67 FR 78972, Dec. 27, 2002, as amended at 69 FR 67818, Nov. 22, 2004; 79 FR 16197, Mar. 25, 2014; 79 FR 64116, Oct. 28, 2014]
+[67 FR 78972, Dec. 27, 2002, as amended at 69 FR 67818, Nov. 22, 2004; 79 FR 16197, Mar. 25, 2014; 79 FR 64116, Oct. 28, 2014; 87 FR 17946, Mar. 29, 2022]

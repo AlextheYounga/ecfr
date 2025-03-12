@@ -24,6 +24,6 @@
 |      (1) 22.7 (25 ppm)      |                            |Broiler chickens: For the prevention of coccidiosis caused by Eimeria tenella, E. acervulina, E. maxima, E. brunetti, E. necatrix, and E. mitis.|Do not feed to laying hens.|066104 |
 |       (2) [Reserved]        |                            |                                                                                                                                                |                           |       |
 
-(f) Semduramycin may also be used in combination with virginiamycin as in § 558.635.
+(f) Semduramicin may also be used in combination with virginiamycin as in § 558.635.
 
-[59 FR 17477, Apr. 13, 1994, as amended at 60 FR 57928, Nov. 24, 1995; 61 FR 29481, June 11, 1996; 61 FR 43451, Aug. 23, 1996; 61 FR 66584, Dec. 18, 1996; 62 FR 66985, Dec. 23, 1997; 64 FR 48296, Sept. 3, 1999; 66 FR 47964, Sept. 17, 2001; 69 FR 13221, Mar. 22, 2004; 70 FR 41961, July 21, 2005; 73 FR 812, Jan. 4, 2008; 74 FR 41631, Aug. 18, 2009; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95013, Dec. 27, 2016; 86 FR 14826, Mar. 19, 2021]
+[59 FR 17477, Apr. 13, 1994, as amended at 60 FR 57928, Nov. 24, 1995; 61 FR 29481, June 11, 1996; 61 FR 43451, Aug. 23, 1996; 61 FR 66584, Dec. 18, 1996; 62 FR 66985, Dec. 23, 1997; 64 FR 48296, Sept. 3, 1999; 66 FR 47964, Sept. 17, 2001; 69 FR 13221, Mar. 22, 2004; 70 FR 41961, July 21, 2005; 73 FR 812, Jan. 4, 2008; 74 FR 41631, Aug. 18, 2009; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95013, Dec. 27, 2016; 86 FR 14826, Mar. 19, 2021; 87 FR 17948, Mar. 29, 2022]

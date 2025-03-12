@@ -1,7 +1,6 @@
 ##### § 170.30 Eligibility for classification as generally recognized as safe (GRAS). #####
 
-(a) General recognition of safety may be based only on the views of experts qualified by scientific training and experience to evaluate the safety of substances directly or indirectly added to food. The basis of such views may be either (1) scientific procedures or (2) in the case of a substance used in food prior to January 1, 1958, through experience based on common use in food.
-General recognition of safety requires common knowledge throughout the scientific community knowledgeable about the safety of substances directly or indirectly added to food that there is reasonable certainty that the substance is not harmful under the conditions of its intended use (see § 170.3(i)).
+(a) General recognition of safety may be based only on the views of experts qualified by scientific training and experience to evaluate the safety of substances directly or indirectly added to food. The basis of such views may be either (1) scientific procedures or (2) in the case of a substance used in food prior to January 1, 1958, through experience based on common use in food. General recognition of safety requires common knowledge throughout the scientific community knowledgeable about the safety of substances directly or indirectly added to food that there is reasonable certainty that the substance is not harmful under the conditions of its intended use (see § 170.3(i)).
 
 (b) General recognition of safety based upon scientific procedures shall require the same quantity and quality of scientific evidence as is required to obtain approval of a food additive. General recognition of safety through scientific procedures shall be based upon the application of generally available and accepted scientific data, information, or methods, which ordinarily are published, as well as the application of scientific principles, and may be corroborated by the application of unpublished scientific data, information, or methods.
 
@@ -14,6 +13,8 @@ General recognition of safety requires common knowledge throughout the scientifi
 (e) Food ingredients were listed as GRAS in part 182 of this chapter during 1958-1962 without a detailed scientific review of all available data and information relating to their safety. Beginning in 1969, the Food and Drug Administration has undertaken a systematic review of the status of all ingredients used in food based on the view that they are GRAS under the conditions of their intended use or subject to a prior sanction. All affirmations of GRAS status or determinations of food additive status or prior sanction status pursuant to this review shall be handled pursuant to §§ 170.35, 170.38, and 180.1 of this chapter. Affirmation of GRAS status shall be announced in part 184 or part 186 of this chapter.
 
 (f) [Reserved]
+
+(g) A food ingredient that is not GRAS or subject to a prior sanction requires a food additive regulation promulgated under section 409 of the act before it may be directly or indirectly added to food.
 
 (h) A food ingredient that is listed as GRAS in part 182 of this chapter or affirmed as GRAS in part 184 or part 186 of this chapter shall be regarded as GRAS only if, in addition to all the requirements in the applicable regulation, it also meets all of the following requirements:
 

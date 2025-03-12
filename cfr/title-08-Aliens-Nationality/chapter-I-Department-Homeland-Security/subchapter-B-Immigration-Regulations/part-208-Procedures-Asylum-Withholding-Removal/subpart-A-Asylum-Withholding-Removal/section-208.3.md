@@ -1,5 +1,7 @@
 ##### § 208.3 Form of application. #####
 
+Link to an amendment published at 87 FR 18216, Mar. 29, 2022.
+
 (a) An asylum applicant must file Form I-589, Application for Asylum and for Withholding of Removal, together with any additional supporting evidence in accordance with the instructions on the form. The applicant's spouse and children shall be listed on the application and may be included in the request for asylum if they are in the United States. One additional copy of the principal applicant's Form I-589 must be submitted for each dependent included in the principal's application.
 
 (b) An asylum application shall be deemed to constitute at the same time an application for withholding of removal, unless adjudicated in deportation or exclusion proceedings commenced prior to April 1, 1997. In such instances, the asylum application shall be deemed to constitute an application for withholding of deportation under section 243(h) of the Act, as that section existed prior to April 1, 1997. Where a determination is made that an applicant is ineligible to apply for asylum under section 208(a)(2) of the Act, an asylum application shall be construed as an application for withholding of removal.

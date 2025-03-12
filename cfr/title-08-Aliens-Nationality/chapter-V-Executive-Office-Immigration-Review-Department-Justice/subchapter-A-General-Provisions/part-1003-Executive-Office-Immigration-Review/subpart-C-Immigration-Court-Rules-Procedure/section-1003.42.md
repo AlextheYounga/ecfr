@@ -1,6 +1,6 @@
 ##### § 1003.42 Review of credible fear of persecution, reasonable possibility of persecution, and reasonable possibility of torture determinations. #####
 
-Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.
+Link to an amendment published at 87 FR 18220, Mar. 29, 2022.Link to an amendment published at 85 FR 84196, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.This amendment was further delayed until Dec. 31, 2022, at 86 FR 73615, Dec. 28, 2021.
 
 (a) *Referral.* Jurisdiction for an immigration judge to review a negative fear determination by an asylum officer pursuant to section 235(b)(1)(B) of the Act shall commence with the filing by DHS of the Notice of Referral to Immigration Judge. DHS shall also file with the notice of referral a copy of the written record of determination as defined in section 235(b)(1)(B)(iii)(II) of the Act, including a copy of the alien's written request for review, if any.
 

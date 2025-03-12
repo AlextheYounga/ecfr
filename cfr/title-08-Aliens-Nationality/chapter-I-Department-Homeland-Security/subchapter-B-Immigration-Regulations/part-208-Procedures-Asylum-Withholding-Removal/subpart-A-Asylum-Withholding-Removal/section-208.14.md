@@ -1,5 +1,7 @@
 ##### § 208.14 Approval, denial, referral, or dismissal of application. #####
 
+Link to an amendment published at 87 FR 18217, Mar. 29, 2022.
+
 (a) *By an immigration judge.* Unless otherwise prohibited in § 208.13(c), an immigration judge may grant or deny asylum in the exercise of discretion to an applicant who qualifies as a refugee under section 101(a)(42) of the Act.
 
 (b) *Approval by an asylum officer.* In any case within the jurisdiction of the RAIO, unless otherwise prohibited in § 208.13(c), an asylum officer may grant, in the exercise of his or her discretion, asylum to an applicant who qualifies as a refugee under section 101(a)(42) of the Act, and whose identity has been checked pursuant to section 208(d)(5)(A)(i) of the Act.
