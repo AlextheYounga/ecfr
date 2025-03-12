@@ -1,14 +1,10 @@
 ##### § 1710.2 Definitions and rules of construction. #####
 
-Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
-
 (a) *Definitions.* For the purpose of this part, the following terms shall have the following meanings:
 
 *Administrator* means the Administrator of RUS or his or her designee.
 
 *Approved load forecast* means a load forecast that RUS has determined is current for RUS purposes and has been approved by RUS pursuant to 7 CFR part 1710, subpart E.
-
-*Approved load forecast work plan* means a load forecast work plan that RUS has determined is current for RUS' purposes and has been approved pursuant to 7 CFR part 1710, subpart E.
 
 *APRR* means Average Adjusted Plant Revenue Ratio calculated as a simple average of the adjusted plant revenue ratios for 1978, 1979 and 1980 as follows:
 
@@ -74,8 +70,6 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 
 *Load forecast* means the thorough study of a borrower's electric loads and the factors that affect those loads in order to determine, as accurately as practicable, the borrower's future requirements for energy and capacity.
 
-*Load forecast work plan* means the plan that contains the resources, methods, schedules, and milestones to be used in the preparation and maintenance of a load forecast.
-
 *Loan* means any loan made or guaranteed by RUS.
 
 *Loan Contract* means the agreement, as amended, supplemented, or restated from time to time, between a borrower and RUS providing for loans made or guaranteed pursuant to the RE Act.
@@ -115,8 +109,6 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 *PRR* means Plant Revenue Ratio calculated as:
 
 ![](/graphics/ec16se91.001.gif)where:A = Total Utility Plant, which equals Part C, Line 3 of RUS Form 7;B = Operating Revenue and Patronage Capital, which equals Part A, Line 1 of RUS Form 7; andC = Cost of Power, which equals the sum of Part A, Lines 2, 3, and 4 of RUS Form 7.
-
-*PRS work plan* has the same meaning as load forecast work plan.
 
 *RE Act* means the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.).*
 
@@ -160,4 +152,4 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 
 (b) *Rules of Construction.* Unless the context otherwise indicates, “includes” and “including” are not limiting, and “or” is not exclusive. The terms defined in paragraph (a) of this part include the plural as well as the singular, and the singular as well as the plural.
 
-[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 58 FR 66263, Dec. 20, 1993; 59 FR 495, Jan. 4, 1994; 59 FR 66440, Dec. 27, 1994; 60 FR 3730, Jan. 19, 1995; 60 FR 67400, Dec. 29, 1995; 65 FR 14786, Mar. 20, 2000; 68 FR 37953, June 26, 2003; 74 FR 56543, Nov. 2, 2009; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019; 87 FR 38642, June 29, 2022; 87 FR 74497, Dec. 6, 2022]
+[57 FR 1053, Jan. 9, 1992; 57 FR 4513, Feb. 5, 1992, as amended at 58 FR 66263, Dec. 20, 1993; 59 FR 495, Jan. 4, 1994; 59 FR 66440, Dec. 27, 1994; 60 FR 3730, Jan. 19, 1995; 60 FR 67400, Dec. 29, 1995; 65 FR 14786, Mar. 20, 2000; 68 FR 37953, June 26, 2003; 74 FR 56543, Nov. 2, 2009; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019; 87 FR 38642, June 29, 2022; 87 FR 74497, Dec. 6, 2022; 87 FR 73436, Nov. 30, 2022]

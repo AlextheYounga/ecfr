@@ -1,5 +1,7 @@
 ##### § 90.175 Frequency coordinator requirements. #####
 
+Link to an amendment published at 88 FR 12570, Feb. 28, 2023.
+
 Except for applications listed in paragraph (j) of this section, each application for a new frequency assignment, for a change in existing facilities as listed in § 90.135(a), or for operation at temporary locations in accordance with § 90.137 must include a showing of frequency coordination as set forth further.
 
 (a) Frequency coordinators may request, and applicants are required to provide, all appropriate technical information, system requirements, and justification for requested station parameters when such information is necessary to identify and recommend the most appropriate frequency. Additionally, applicants bear the burden of proceeding and the burden of proof in requesting the Commission to overturn a coordinator's recommendation.

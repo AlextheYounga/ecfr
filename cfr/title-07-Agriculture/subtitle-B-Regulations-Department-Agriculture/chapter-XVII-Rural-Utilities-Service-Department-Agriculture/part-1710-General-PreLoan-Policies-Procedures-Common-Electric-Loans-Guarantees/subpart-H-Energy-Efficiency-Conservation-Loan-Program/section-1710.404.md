@@ -1,12 +1,12 @@
 ##### § 1710.404 Definitions. #####
 
-Link to an amendment published at 87 FR 73438, Nov. 30, 2022.
-
 For the purpose of this subpart, the following terms shall have the following meanings. In the event there is overlap or conflict between the definitions contained in § 1710.2, the definitions set forth below will apply for loans made or guaranteed pursuant to this subpart.
 
 *British thermal unit (Btu)* means the quantity of heat required to raise one pound of water one degree Fahrenheit.
 
-Certified energy auditor for commercial and industrial energy efficiency improvements. (1) An energy auditor shall meet one of the following criteria:
+*Certified energy auditor* means:
+
+(1) A certified energy auditor for commercial and industrial energy efficiency improvements shall mean an energy auditor who meets at least one of the following criteria:
 
 (i) An individual possessing a current commercial or industrial energy auditor certification from a national, industry-recognized organization;
 
@@ -16,7 +16,11 @@ Certified energy auditor for commercial and industrial energy efficiency improve
 
 (iv) Beginning in calendar year 2015, an energy auditor certification recognized by the Department of Energy through its Better Buildings Workforce Guidelines project.
 
-(2) For residential energy efficiency improvements, an energy auditor shall meet one of the following criteria: The workforce qualification requirements of the Home Performance with Energy Star Program, as outlined in Section 3 of the Home Performance with Energy Star Sponsor Guide; or an individual possessing a current residential energy auditor or building analyst certification from a national, industry-recognized organization.
+(2) A certified energy auditor for residential energy efficiency improvements shall mean an energy auditor that meets one of the following criteria:
+
+(i) The workforce qualification requirements of the Home Performance with Energy Star Program, as outlined in Section 3 of the Home Performance with Energy Star Sponsor Guide; or
+
+(ii) An individual possessing a current residential energy auditor or building analyst certification from a national, industry-recognized organization.
 
 *Cost effective* means the aggregate cost of an EE Program is less than the financial benefit of the program over time. The cost of a program for this purpose shall include the costs of incentives, measurement and verification activity and administrative costs, and the benefits shall include, without limitation, the value of energy saved, the value of corresponding avoided generation, transmission or distribution and reserve investments as may be displaced or deferred by program activities, and the value of corresponding avoided greenhouse gas emissions and other pollutants.
 
@@ -57,3 +61,5 @@ Certified energy auditor for commercial and industrial energy efficiency improve
 *Utility system* means an entity in the business of providing retail electric service to Consumers (distribution entity) or an entity in the business of providing wholesale electric supply to distribution entities (generation entity) or an entity in the business of providing transmission service to distribution or generation entities (transmission entity), where, in each case, the entities provide the applicable service using self-owned or controlled assets under a published tariff that the entity and any associated regulatory agency may adjust.
 
 *Watt* means the SI unit of power equal to a rate of energy transfer (or the rate at which work is done), of one joule per second.
+
+[78 FR 73366, Dec. 5, 2013, as amended at 87 FR 73438, Nov. 30, 2022]

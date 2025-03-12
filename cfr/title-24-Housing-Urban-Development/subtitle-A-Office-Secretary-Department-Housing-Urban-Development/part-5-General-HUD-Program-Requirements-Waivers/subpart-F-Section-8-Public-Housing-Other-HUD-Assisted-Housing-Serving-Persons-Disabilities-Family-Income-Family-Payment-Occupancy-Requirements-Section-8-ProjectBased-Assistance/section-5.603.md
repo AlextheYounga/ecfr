@@ -1,10 +1,10 @@
 ##### § 5.603 Definitions. #####
 
-Link to an amendment published at 88 FR 9656, Feb. 14, 2023.
+Link to an amendment published at 88 FR 9656, Feb. 14, 2023.Link to an amendment published at 88 FR 12560, Feb. 28, 2023.
 
 As used in this subpart:
 
-(a) *Terms found elsewhere in part 5* - (1) *Subpart A.* The terms *1937 Act, elderly person, public housing, public housing agency (PHA), responsible entity* and *Section 8* are defined in § 5.100.
+(a) *Terms found elsewhere in part 5*—(1) *Subpart A.* The terms *1937 Act, elderly person, public housing, public housing agency (PHA), responsible entity* and *Section 8* are defined in § 5.100.
 
 (2) *Subpart D.* The terms “disabled family”, “elderly family”, “family”, “live-in aide”, and “person with disabilities” are defined in § 5.403.
 

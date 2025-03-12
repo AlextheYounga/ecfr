@@ -1,5 +1,7 @@
 ##### § 90.1207 Licensing. #####
 
+Link to an amendment published at 88 FR 12571, Feb. 28, 2023.
+
 (a) A 4940-4990 MHz band license gives the licensee authority to operate on any authorized channel in this band within its licensed area of operation. *See* § 90.1213. A 4940-4990 MHz band license will be issued for the geographic area encompassing the legal jurisdiction of the licensee or, in case of a nongovernmental organization, the legal jurisdiction of the state or local governmental entity supporting the nongovernmental organization.
 
 (b) Subject to § 90.1209, a 4940-4990 MHz band license gives the licensee authority to construct and operate any number of base stations anywhere within the area authorized by the license, except as follows:

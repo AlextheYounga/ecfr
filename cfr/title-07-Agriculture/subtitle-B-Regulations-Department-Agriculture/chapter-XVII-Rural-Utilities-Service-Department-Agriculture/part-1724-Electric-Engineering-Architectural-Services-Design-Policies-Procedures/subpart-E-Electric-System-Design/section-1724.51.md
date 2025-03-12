@@ -1,7 +1,5 @@
 ##### § 1724.51 Design requirements. #####
 
-Link to an amendment published at 87 FR 73442, Nov. 30, 2022.
-
 The provisions of this section apply to all borrower electric system facilities regardless of the source of financing.
 
 (a) *Distribution.* All distribution facilities must conform to the applicable RUS construction standards and utilize RUS accepted materials.
@@ -34,7 +32,7 @@ The provisions of this section apply to all borrower electric system facilities 
 
 (3) The design outline will include all significant design criteria. During the early stages of the project, RUS will, in consultation with the borrower and its consulting engineer, identify the specific items which are to be included in the design outline.
 
-(e) *Headquarters* - (1) *Applicable laws.* The design and construction of headquarters facilities shall comply with all applicable Federal, State, and local laws and regulations, including, but not limited to:
+(e) *Headquarters*—(1) *Applicable laws.* The design and construction of headquarters facilities shall comply with all applicable Federal, State, and local laws and regulations, including, but not limited to:
 
 (i) Section 504 of the Rehabilitation Act of 1973, (29 U.S.C. 794), which states that no qualified individual with a handicap shall, solely by reason of their handicap, be excluded from participation in, be denied the benefits of, or be subject to discrimination under any program or activity receiving Federal financial assistance. The Uniform Federal Accessibility Standards (41 CFR part 101-19, subpart 101-19.6, appendix A) are the applicable standards for all new or altered borrower buildings, regardless of the source of financing.
 
@@ -44,8 +42,8 @@ The provisions of this section apply to all borrower electric system facilities 
 
 (2) The borrower shall provide evidence, satisfactory in form and substance to the Administrator, that each building will be designed and built in compliance with all Federal, State, and local requirements.
 
-(f) *Communications and control.* (1) This section covers microwave and powerline carrier communications systems, load control, and supervisory control and data acquisition (SCADA) systems.
+(f) *Communications and control.* (1) This section covers microwave and powerline carrier communications systems, load control, and supervisory control and data acquisition (SCADA) systems but does not include cybersecurity measures.
 
 (2) The performance considerations for a new or replacement master system must be approved by RUS. A master system includes the main controller and related equipment at the main control point. Performance considerations include all major system features and their justification, including, but not limited to, the objectives of the system, the types of parameters to be controlled or monitored, the communication media, alternatives considered, and provisions for future needs.
 
-[63 FR 35314, June 29, 1998, as amended at 84 FR 32617, July 9, 2019]
+[63 FR 35314, June 29, 1998, as amended at 84 FR 32617, July 9, 2019; 87 FR 73442, Nov. 30, 2022]

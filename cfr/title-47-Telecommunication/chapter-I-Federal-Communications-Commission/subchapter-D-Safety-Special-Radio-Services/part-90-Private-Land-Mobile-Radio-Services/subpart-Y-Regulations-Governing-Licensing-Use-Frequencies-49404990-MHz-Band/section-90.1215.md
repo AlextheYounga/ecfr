@@ -1,5 +1,7 @@
 ##### § 90.1215 Power limits. #####
 
+Link to an amendment published at 88 FR 12571, Feb. 28, 2023.
+
 The transmitting power of stations operating in the 4940-4990 MHz band must not exceed the maximum limits in this section.
 
 (a)(1) The maximum conducted output power should not exceed:

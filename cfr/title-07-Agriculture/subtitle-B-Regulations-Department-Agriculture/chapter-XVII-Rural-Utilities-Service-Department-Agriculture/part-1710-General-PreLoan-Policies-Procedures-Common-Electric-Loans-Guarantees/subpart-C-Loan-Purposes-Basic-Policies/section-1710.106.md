@@ -1,7 +1,5 @@
 ##### § 1710.106 Uses of loan funds. #####
 
-Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
-
 (a) Funds from loans made or guaranteed by RUS may be used to finance:
 
 (1) *Distribution facilities.* (i) The construction of new distribution facilities or systems, the cost of system improvements and removals less salvage value, the cost of ordinary replacements and removals less salvage value, needed to meet load growth requirements, improve the quality of service, or replace existing facilities.
@@ -12,7 +10,7 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 
 (ii) The purchase of an ownership interest in new or existing transmission or generation facilities to serve RE Act beneficiaries.
 
-(3) *Warehouse and garage facilities.* The purchase, remodeling, or construction of warehouse and garage facilities required for the operation of a borrower's system. See paragraph (b) of this section.
+(3) *Headquarters Offices, Warehouse, and garage facilities.* The purchase, remodeling, or construction of headquarters office, other headquarters facilities, warehouse, and garage facilities required for the operation of a borrower's system. *See* paragraph (b) of this section.
 
 (4) *Interest.* The payment of interest on indebtedness incurred by a borrower to finance the construction of generation and transmission facilities during the period preceding the date such facilities are placed into service, if requested by the borrower and found necessary by RUS.
 
@@ -30,19 +28,17 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 
 (b) In cases of financial hardship, as determined by the Administrator, loans may also be made to finance the following items:
 
-(1) The headquarters office and other headquarters facilities in addition to those cited in paragraph (a)(4) of this section;
+(1) General plant equipment, including furniture, office, transportation, data processing and other work equipment; and
 
-(2) General plant equipment, including furniture, office, transportation, data processing and other work equipment; and
-
-(3) Working capital required for the initial operation of a new system.
+(2) Working capital required for the initial operation of a new system.
 
 (c) RUS will not make loans to finance the following:
 
 (1) Electric facilities, equipment, appliances, or wiring located inside the premises of the consumer, except for measures related to grid security, cybersecurity, or assets financed pursuant to an eligible EE Program, and qualifying items included in a loan for demand side management or energy resource conservation programs, or renewable energy systems.
 
-(2) Facilities to serve consumers who are not RE Act beneficiaries unless those facilities are necessary and incidental to providing or improving electric service in rural areas (See § 1710.104);
+(2) Facilities to serve consumers who are not RE Act beneficiaries unless those facilities are necessary and incidental to providing or improving electric service in rural areas (*See §* 1710.104).
 
-(3) Any facilities or other purposes that a state regulatory authority having jurisdiction will not approve for inclusion in the borrower's rate base, or will not otherwise allow rates sufficient to repay with interest the debt incurred for the facilities or other purposes; and
+(3) Any facilities or other purposes that a State regulatory authority having jurisdiction will not approve for inclusion in the borrower's rate base or will not otherwise allow rates sufficient to repay with interest the debt incurred for the facilities or other purposes.
 
 (d) A distribution borrower may request a loan period of up to 4 years. Except in the case of loans for new generating and associated transmission facilities, a power supply borrower may request a loan period of not more than 4 years for transmission and substation facilities and improvements or replacements of generation facilities. The loan period for new generating facilities and DSM activities will be determined on a case-by-case basis. The Administrator may approve a loan period shorter than the period requested by the borrower, if in the Administrator's sole discretion, a loan made for the longer period would fail to meet RUS requirements for loan feasibility and loan security set forth in §§ 1710.112 and 1710.113, respectively.
 
@@ -56,4 +52,4 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 
 (g) A borrower is permitted to use up to 10 percent of the amount provided under this part to construct, improve, or acquire broadband infrastructure related to the project financed, subject to the requirements of 7 CFR part 1980, subpart M.
 
-[57 FR 1053, Jan. 9, 1992, as amended at 58 FR 66265, Dec. 20, 1993; 60 FR 3730, Jan. 19, 1995; 62 FR 7922, Feb. 21, 1997; 64 FR 33178, June 22, 1999; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019; 85 FR 57081, Sept. 15, 2020; 87 FR 74498, Dec. 6, 2022]
+[57 FR 1053, Jan. 9, 1992, as amended at 58 FR 66265, Dec. 20, 1993; 60 FR 3730, Jan. 19, 1995; 62 FR 7922, Feb. 21, 1997; 64 FR 33178, June 22, 1999; 78 FR 73365, Dec. 5, 2013; 84 FR 32610, July 9, 2019; 85 FR 57081, Sept. 15, 2020; 87 FR 74498, Dec. 6, 2022; 87 FR 73436, Nov. 30, 2022]

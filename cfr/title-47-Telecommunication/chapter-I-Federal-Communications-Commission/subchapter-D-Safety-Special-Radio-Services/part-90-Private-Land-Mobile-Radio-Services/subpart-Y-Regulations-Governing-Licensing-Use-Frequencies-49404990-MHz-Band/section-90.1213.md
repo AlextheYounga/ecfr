@@ -1,5 +1,7 @@
 ##### § 90.1213 Band plan. #####
 
+Link to an amendment published at 88 FR 12571, Feb. 28, 2023.
+
 (a) The following channel center frequencies are permitted to be aggregated for channel bandwidths of 5, 10, 15 or 20 MHz as described in paragraph (b) of this section. Channel numbers 1 through 5 and 14 through 18 are 1 MHz bandwidth channels, and channel numbers 6 through 13 are 5 MHz bandwidth channels.
 
 |Center frequency (MHz)|Bandwidth (MHz)|Channel numbers|

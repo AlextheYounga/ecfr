@@ -1,8 +1,6 @@
 ##### § 1710.101 Types of eligible borrowers. #####
 
-Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
-
-(a) RUS makes loans to corporations, states, territories, and subdivisions and agencies thereof; municipalities; people's utility districts; and cooperative, nonprofit, limited-dividend, or mutual associations that provide or propose to provide:
+(a) RUS makes loans to corporations, States, Tribes, territories, and subdivisions and agencies thereof; municipalities; people's utility districts; and cooperative, nonprofit, limited-dividend, or mutual associations that provide or propose to provide:
 
 (1) The retail electric service needs of rural areas, or
 
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 
 (3) Eligible purposes under the Rural Energy Savings Program, including energy efficiency, renewable energy, energy storage or energy conservation measures and related services, improvements, investments, financing or relending.
 
-(b) In making loans, RUS gives preference to states, territories, and subdivisions and agencies thereof; municipalities; people's utility districts; and cooperative, nonprofit, or limited-dividend associations. RUS does not make direct loans to individual consumers.
+(b) In making loans, RUS gives preference to States, Tribes, territories, and subdivisions and agencies thereof; municipalities; people's utility districts; and cooperative, nonprofit, or limited-dividend associations. RUS does not make direct loans to individual consumers.
 
 (c) For the purpose of determining eligibility of a distribution borrower not in default on the repayment of a loan made or guaranteed under the RE Act for a loan, loan guarantee, or lien accommodation, a default by a borrower from which a distribution borrower purchases wholesale power shall not:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 87 FR 73436, Nov. 30, 2022.
 
 (g) Former borrowers that have prepaid all, or portions of outstanding insured and direct loans in accordance with RUS regulations must comply with the provisions of 7 CFR part 1786 before being considered eligible to borrow additional funds from RUS.
 
-[58 FR 66264, Dec. 20, 1993, as amended at 78 FR 73365, Dec. 5, 2013; 85 FR 18418, Apr. 2, 2020]
+[58 FR 66264, Dec. 20, 1993, as amended at 78 FR 73365, Dec. 5, 2013; 85 FR 18418, Apr. 2, 2020; 87 FR 73436, Nov. 30, 2022]

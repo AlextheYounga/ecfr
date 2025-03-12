@@ -1,0 +1,5 @@
+##### § 1710.604 Amortization of principal. #####
+
+(a) Amortization of funds advanced during the first 2 years after the date of the note shall begin no later than 2 years from the date of the note. Except as set forth in paragraph (b) of this section, amortization of funds advanced 2 years or more after the date of the note shall begin with the scheduled loan payment billed in the month following the month of the advance.
+
+(b) For advances made 2 years or more after the date of the note, the Administrator may, upon written request from the borrower, authorize deferral of amortization of principal for a period of up to 2 years from the date of the advance if the Administrator determines that failure to authorize such deferral would adversely affect either the Government's financial interest or the achievement of the purposes of the Rural Electrification Act. Such deferral shall not extend the loan maturity period.

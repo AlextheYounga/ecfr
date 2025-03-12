@@ -1,0 +1,3 @@
+##### § 1710.601 Advance of funds from loans. #####
+
+The borrower shall request advances of funds as needed. Advances are subject to RUS approval and must be requested in writing on RUS Form 595 or an RUS approved equivalent form. Funds will not be advanced until the Administrator has received satisfactory evidence that the borrower has met all applicable conditions precedent to the advance of funds, including evidence that the supplemental financing required under this part concurrent loan guaranteed by RUS is available to the borrower under terms and conditions satisfactory to RUS.
