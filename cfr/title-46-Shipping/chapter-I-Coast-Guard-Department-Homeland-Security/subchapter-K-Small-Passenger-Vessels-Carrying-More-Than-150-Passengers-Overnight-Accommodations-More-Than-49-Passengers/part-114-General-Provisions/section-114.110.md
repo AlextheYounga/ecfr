@@ -1,6 +1,6 @@
 ##### § 114.110 General applicability. #####
 
-Link to an amendment published at 86 FR 73170, Dec. 27, 2021.
+Link to an amendment published at 86 FR 73170, Dec. 27, 2021.Link to an amendment published at 87 FR 3449, Jan. 24, 2022.
 
 (a) Except as in paragraph (b) of this section, this subchapter applies to each vessel of less than 100 gross tons that carries more than 150 passengers, or has overnight accommodations for more than 49 passengers, and that -
 
