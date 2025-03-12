@@ -1,5 +1,7 @@
 ##### § 422.60 Election process. #####
 
+Link to an amendment published at 84 FR 15828, April 16, 2019.
+
 (a) *Acceptance of enrollees: General rule.* (1) Except for the limitations on enrollment in an MA MSA plan provided by § 422.62(d)(1) and except as specified in paragraph (a)(2) of this section, each MA organization must accept without restriction (except for an MA RFB plan as provided by § 422.57) individuals who are eligible to elect an MA plan that the MA organization offers and who elect an MA plan during initial coverage election periods under § 422.62(a)(1), annual election periods under § 422.62(a)(2), and under the circumstances described in § 422.62(b)(1) through (b)(4).
 
 (2) MA organizations must accept elections during the open enrollment periods specified in § 422.62(a)(3) and (4) if their MA plans are open to new enrollees.

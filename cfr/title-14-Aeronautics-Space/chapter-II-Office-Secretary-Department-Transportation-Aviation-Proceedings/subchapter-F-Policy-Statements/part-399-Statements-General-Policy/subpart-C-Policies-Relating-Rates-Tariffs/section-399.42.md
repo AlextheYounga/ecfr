@@ -1,5 +1,7 @@
 ##### § 399.42 Flight equipment depreciation and residual values. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 For rate-making purposes, for air carriers receiving subsidy under section 406 of the Act, it is the policy of the Board that flight equipment depreciation will be based on the conventional straight-line method of accrual, employing the service lives and residual values set forth below:
 
 [In percent]

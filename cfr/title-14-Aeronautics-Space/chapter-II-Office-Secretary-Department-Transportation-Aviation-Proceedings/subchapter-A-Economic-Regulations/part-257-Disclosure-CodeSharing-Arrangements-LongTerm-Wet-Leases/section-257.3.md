@@ -1,5 +1,7 @@
 ##### § 257.3 Definitions. #####
 
+Link to an amendment published at 84 FR 15932, Apr. 16, 2019.
+
 As used in this part:
 
 *Air transportation* means foreign air transportation or interstate air transportation as defined in 49 U.S.C. 40102 (a)(23) and (25) respectively.

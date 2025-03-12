@@ -1,5 +1,7 @@
 ##### § 422.156 Compliance deemed on the basis of accreditation. #####
 
+Link to an amendment published at 84 FR 15829, April 16, 2019.
+
 (a) *General rule.* An MA organization is deemed to meet all of the requirements of any of the areas described in paragraph (b) of this section if -
 
 (1) The MA organization is fully accredited (and periodically reaccredited) for the standards related to the applicable area under paragraph (b) of this section by a private, national accreditation organization approved by CMS; and

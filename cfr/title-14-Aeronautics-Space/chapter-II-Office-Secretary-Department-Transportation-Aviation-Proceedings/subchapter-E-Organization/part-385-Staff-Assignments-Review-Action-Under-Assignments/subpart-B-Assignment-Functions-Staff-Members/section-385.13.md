@@ -1,5 +1,7 @@
 ##### § 385.13 Authority of the Director, Office of International Aviation. #####
 
+Link to an amendment published at 84 FR 15943, Apr. 16, 2019.
+
 The Director, Office of International Aviation, has authority to:
 
 (a) Approve or deny applications for exemptions, where the course of action is clear under current policy or precedent:

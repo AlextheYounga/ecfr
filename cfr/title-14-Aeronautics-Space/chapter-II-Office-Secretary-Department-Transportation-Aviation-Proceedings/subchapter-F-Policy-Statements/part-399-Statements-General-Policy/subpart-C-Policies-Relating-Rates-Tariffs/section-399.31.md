@@ -1,5 +1,7 @@
 ##### § 399.31 Standard industry fare level. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) *Generally.* Except as set forth in paragraph (d) of this section, the standard industry fare level (“SIFL”) for coach/standard service in a market is equal to the predominant fare in effect in that market on July 1, 1977, as adjusted by the Board for cost increases.
 
 (b) *Predominant fare.* For each market, the predominant fare in effect on July 1, 1977, is presumed to be as set forth below. The presumption may be rebutted, however, by showing that more passengers used a higher fare.

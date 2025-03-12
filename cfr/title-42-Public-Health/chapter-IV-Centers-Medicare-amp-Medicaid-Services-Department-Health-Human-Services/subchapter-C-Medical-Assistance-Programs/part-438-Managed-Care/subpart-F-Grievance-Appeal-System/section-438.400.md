@@ -1,5 +1,7 @@
 ##### § 438.400 Statutory basis, definitions, and applicability. #####
 
+Link to an amendment published at 84 FR 15844, Apr. 16, 2019.
+
 (a) *Statutory basis.* This subpart is based on the following statutory sections:
 
 (1) Section 1902(a)(3) of the Act requires that a State plan provide an opportunity for a fair hearing to any person whose claim for assistance is denied or not acted upon promptly.

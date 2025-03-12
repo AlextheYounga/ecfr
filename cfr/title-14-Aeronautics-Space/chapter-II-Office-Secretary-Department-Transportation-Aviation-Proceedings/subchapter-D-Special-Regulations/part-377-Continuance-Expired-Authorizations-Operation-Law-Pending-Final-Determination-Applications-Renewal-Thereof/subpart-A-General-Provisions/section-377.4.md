@@ -1,5 +1,7 @@
 ##### § 377.4 Certain authorizations with alternative termination dates. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 Unless granted under section 401 of the Act, an authorization that by its terms is subject to termination alternatively, either at an uncertain date upon the happening of an event or upon the arrival of a specified date:
 
 (a) Will not be considered a “license with reference to an activity of a continuing nature” within the meaning of 5 U.S.C. 558(c), if the event occurs before the specified date; and

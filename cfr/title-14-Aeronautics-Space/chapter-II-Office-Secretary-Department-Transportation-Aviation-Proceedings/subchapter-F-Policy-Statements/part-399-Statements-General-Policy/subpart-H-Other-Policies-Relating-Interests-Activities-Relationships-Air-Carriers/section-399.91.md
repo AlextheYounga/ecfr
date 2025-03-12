@@ -1,5 +1,7 @@
 ##### § 399.91 Air carrier participation in programs of technical assistance to airlines of less developed countries. #####
 
+Link to an amendment published at 84 FR 15948, Apr. 16, 2019.
+
 (a) *Applicability.* This policy shall apply to proceedings under sections 408, 409, and 412 of the Act in which the Board is required to make any determination as to the public interest or consistency with the Act of any agreement or relationship sought to be entered into by an air carrier, or officer or director thereof, with a foreign airline in connection with the performance of some activity pursuant to a technical assistance contract financed by an agency of the U.S. Government.
 
 (b) *Policy.* It is the policy of the Board that all U.S. air carriers interested in performing contracts for aviation technical assistance to foreign airlines should have equal access to information necessary to bid on such contracts, and should be given equal consideration thereafter in the award of such contracts based upon customary contracting criteria and subject to the considerations set forth below:

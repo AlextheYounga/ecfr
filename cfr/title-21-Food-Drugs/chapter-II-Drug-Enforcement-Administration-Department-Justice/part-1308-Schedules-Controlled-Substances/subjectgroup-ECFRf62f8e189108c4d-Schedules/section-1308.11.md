@@ -295,6 +295,11 @@ signation (for purposes of paragraph (b)(39) only, the term isomer includes the 
 |                             (34) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MMB-CHMICA, AMB-CHMICA)                              |(7044)|
 |                            (35) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo[2,3-b]pyridine-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-CUMYL-P7AICA)                             |(7085)|
 |                                      (36) N-Ethylpentylone, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ephylone, 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-pentan-1-one)                                      |(7543)|
+|                               (37) ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: 5F-EDMB-PINACA)                                | 7036 |
+|                                 (38) methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: 5F-MDMB-PICA)                                 | 7041 |
+|                    (39) N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (trivial names: FUB-AKB48; FUB-APINACA; AKB48 N-(4-FLUOROBENZYL))                     | 7047 |
+|                              (40) 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (trivial names: 5F-CUMYL-PINACA; SGT-25)                               | 7083 |
+|                                   (41) (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone, its optical, positional, and geometric isomers, salts and salts of isomers (trivial name: FUB-144)                                   | 7014 |
 
 [39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:At 82 FR 17123, Apr. 10, 2017, § 1308.11 was amended by adding paragraphs (h)(10) through (15), effective Apr. 10. 2017 through Apr. 10, 2019. At 84 FR 13796, Apr. 8, 2019, § 1308.11 was amended by extending the above effective date from Apr. 10, 2019 to Apr. 10, 2020.2. At 82 FR 20547, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
@@ -315,3 +320,5 @@ signation (for purposes of paragraph (b)(39) only, the term isomer includes the 
 10. At 83 FR 31882, July 10, 2018, § 1308.11 was amended by adding paragraphs (h)(31) through (h)(35) effective July 10, 2018 through July 10, 2020.
 
 11. At 83 FR 44478, Aug. 31, 2018, § 1308.11 was amended by adding paragraph (h)(36) effective Aug. 31, 2018 through Aug. 31, 2020.
+
+12. At 84 FR 15511, Apr. 16, 2019, § 1308.11 was amended by adding paragraphs (h)(37) through (h)(41) effective Apr. 16, 2019 through Apr. 16, 2021.

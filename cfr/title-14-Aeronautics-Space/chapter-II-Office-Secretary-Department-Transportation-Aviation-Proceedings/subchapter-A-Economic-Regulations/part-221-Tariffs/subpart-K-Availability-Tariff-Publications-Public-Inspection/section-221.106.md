@@ -1,5 +1,7 @@
 ##### § 221.106 Notice of limited liability for baggage; alternative consolidated notice of liability limitations. #####
 
+Link to an amendment published at 84 FR 15930, Apr. 16, 2019.
+
 (a)(1) Each air carrier and foreign air carrier which, to any extent, avails itself of limitations on liability for loss of, damage to, or delay in delivery of baggage shall cause to be displayed continuously in a conspicuous public place at each desk, station, and position in the United States which is in the charge of a person employed exclusively by it or by it jointly with another person, or by any agent employed by such air carrier or foreign air carrier to sell tickets to persons or accept baggage for checking, a sign which shall have printed thereon the following statement:
 
 Notice of Limited Liability for Baggage

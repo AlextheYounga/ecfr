@@ -1,5 +1,7 @@
 ##### § 222.4 Procedure on receipt of application for Statement of Authorization. #####
 
+Link to an amendment published at 84 FR 15930, Apr. 16, 2019.
+
 (a) After review of an application form filed under § 222.3, the Board will take one or more of the following actions:
 
 (1) Indicate by stamp on CAB Form 222 the effective date of the Statement of Authorization, and return to the carrier the duplicate copy of Form 222 as evidence of approval under this part;

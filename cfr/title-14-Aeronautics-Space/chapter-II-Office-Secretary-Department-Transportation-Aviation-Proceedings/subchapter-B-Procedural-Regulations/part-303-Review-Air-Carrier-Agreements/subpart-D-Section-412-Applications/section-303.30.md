@@ -1,5 +1,7 @@
 ##### § 303.30 General provisions concerning contents of applications. #####
 
+Link to an amendment published at 84 FR 15937, Apr. 16, 2019.
+
 A Section 412 application shall contain the following general information:
 
 (a) The name, mailing address and primary line of business of each party to the contract, agreement or request for authority to discuss a possible cooperative working arrangement.

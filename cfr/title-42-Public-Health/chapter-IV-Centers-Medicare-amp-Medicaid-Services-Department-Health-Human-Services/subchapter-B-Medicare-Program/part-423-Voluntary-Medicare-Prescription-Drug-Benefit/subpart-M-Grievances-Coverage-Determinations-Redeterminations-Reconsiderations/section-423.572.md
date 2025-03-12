@@ -1,5 +1,7 @@
 ##### § 423.572 Timeframes and notice requirements for expedited coverage determinations. #####
 
+Link to an amendment published at 84 FR 15843, April 16, 2019.
+
 (a) *Timeframe for determination and notification.* Except as provided in paragraph (b) of this section, a Part D plan sponsor that approves a request for expedited determination must make its determination and notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its decision, whether adverse or favorable, as expeditiously as the enrollee's health condition requires, but no later than 24 hours after receiving the request, or, for an exceptions request, the physician's or other prescriber's supporting statement.
 
 (b) *Confirmation of oral notice.* If the Part D plan sponsor first notifies an enrollee of an adverse or favorable expedited determination orally, it must mail written confirmation to the enrollee within 3 calendar days of the oral notification.

@@ -1,5 +1,7 @@
 ##### § 423.182 Part D Prescription Drug Plan Quality Rating System. #####
 
+Link to an amendment published at 84 FR 15841, April 16, 2019.
+
 (a) *Definitions.* In this subpart the following terms have the meanings:
 
 *CAHPS* refers to a comprehensive and evolving family of surveys that ask consumers and patients to evaluate the interpersonal aspects of health care. CAHPS surveys probe those aspects of care for which consumers and patients are the best or only source of information, as well as those that consumers and patients have identified as being important. CAHPS initially stood for the Consumer Assessment of Health Plans Study, but as the products have evolved beyond health plans the acronym now stands for Consumer Assessment of Healthcare Providers and Systems.

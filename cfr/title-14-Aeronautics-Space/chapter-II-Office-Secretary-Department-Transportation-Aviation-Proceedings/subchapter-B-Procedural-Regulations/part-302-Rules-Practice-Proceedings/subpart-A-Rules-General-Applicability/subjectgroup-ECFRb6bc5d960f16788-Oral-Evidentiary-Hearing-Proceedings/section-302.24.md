@@ -1,5 +1,7 @@
 ##### § 302.24 Evidence. #####
 
+Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
+
 (a) *Presenting evidence.* Presenting evidence at the hearing shall be limited to material evidence relevant to the issues as drawn by the pleadings or as defined in the report of prehearing conference, subject to such later modifications of the issues as may be necessary to protect the public interest or to prevent injustice, and shall not be unduly repetitious. Evidence shall be presented in such form by all parties as the administrative law judge may direct.
 
 (b) *Objections to evidence.* Objections to the admission or exclusion of evidence shall be in short form, stating the grounds of objections relied upon, and the transcript shall not include argument or debate except as ordered by the administrative law judge. Rulings on such objections shall be a part of the transcript.

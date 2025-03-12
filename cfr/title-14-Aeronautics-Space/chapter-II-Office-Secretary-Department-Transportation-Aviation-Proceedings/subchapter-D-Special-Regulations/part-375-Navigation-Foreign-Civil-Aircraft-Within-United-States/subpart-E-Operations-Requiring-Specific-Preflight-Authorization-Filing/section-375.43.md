@@ -1,5 +1,7 @@
 ##### § 375.43 Application for foreign aircraft permit. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 (a) Applications for foreign aircraft permits shall be submitted on OST Form 4509, (Appendix A), in duplicate, addressed to the Chief, Discrete Operations Branch, Licensing Division, P-45, Office of Aviation Operations. Upon a showing of good cause, applications may be made by telegram or by telephone.
 
 (b) Applications shall contain a proper identification (including citizenship) of the applicant (the operator of the aircraft concerned) and of the owner thereof (if different from the applicant), a description of the aircraft by make, model, and registration marks; and a full description of the operations for which authority is desired, indicating type and dates of operations and number of flights, and routing. In the case of cargo flights, the names of all contractors, agents, if any, and the beneficial owner of the cargo, and a description of the cargo and of the proposed operations shall be provided. In the case of passenger flights, a full identification and description of the group chartering the aircraft, and identification of the travel agent, if any, shall be provided. Applications shall also contain a statement as to whether the applicant's homeland allows operators of U.S.-registered aircraft to conduct similar operations.

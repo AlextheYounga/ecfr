@@ -1,5 +1,7 @@
 ##### Section 01 Authority Under Which Accounting and Reporting Rules and Regulations are Prescribed and Administered #####
 
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
+
 This Uniform System of Accounts and Reports for Large Certificated Air Carriers is issued, prescribed and administered under the following provisions of the Federal Aviation Act of 1958, as amended (72 Stat. 731, 49 U.S.C. 1301):
 
 General Powers

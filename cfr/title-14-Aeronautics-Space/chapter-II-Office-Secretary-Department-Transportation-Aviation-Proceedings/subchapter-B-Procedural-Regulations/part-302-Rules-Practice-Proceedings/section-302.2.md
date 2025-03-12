@@ -1,5 +1,7 @@
 ##### § 302.2 Definitions. #####
 
+Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
+
 *Administrative law judge* as used in this part means an administrative law judge appointed pursuant to 5 U.S.C. 3105.
 
 *DOT Decisionmaker* as used in this part is the official authorized to issue final decisions of the Department as set forth in § 302.18. This includes the Assistant Secretary for Aviation and International Affairs, the senior career official in the Office of the Assistant Secretary for Aviation and International Affairs, the Deputy Secretary, and the Secretary.

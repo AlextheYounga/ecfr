@@ -1,5 +1,7 @@
 ##### § 303.05 Applications requesting antitrust immunity. #####
 
+Link to an amendment published at 84 FR 15937, Apr. 16, 2019.
+
 (a) Each application must state explicitly whether or not the applicant seeks antitrust immunity under the provisions of section 414 of the Act. If antitrust immunity is requested, the application should specify whether the applicant seeks full immunity or immunity only from the provisions of sections 4, 4a and 4c of the Clayton Act, 15 U.S.C. 15, 15a, 15c. Each application seeking antitrust immunity shall contain a statement explaining why the applicant believes immunity is in the public interest and necessary in order for the transaction to proceed.
 
 (b) [Reserved]

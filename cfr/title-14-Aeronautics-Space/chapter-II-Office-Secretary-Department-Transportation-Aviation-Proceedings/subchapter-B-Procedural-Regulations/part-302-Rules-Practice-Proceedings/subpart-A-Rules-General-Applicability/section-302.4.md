@@ -1,5 +1,7 @@
 ##### § 302.4 General requirements as to documents. #####
 
+Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
+
 (a) *Contents.* (1) In case there is no rule, regulation, or order of the Department that prescribes the contents of a formal application, petition, complaint, motion or other authorized or required document, such document shall contain a proper identification of the parties concerned, a concise but complete statement of the facts relied upon and the relief sought, and, where required, such document shall be accompanied by an Energy Statement, in conformity with the provisions of part 313 of this chapter.
 
 (2)(i) Each document must include with or provide on its first page:

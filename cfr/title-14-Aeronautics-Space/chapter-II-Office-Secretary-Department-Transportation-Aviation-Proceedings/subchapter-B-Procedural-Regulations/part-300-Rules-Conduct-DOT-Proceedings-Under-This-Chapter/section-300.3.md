@@ -1,5 +1,7 @@
 ##### § 300.3 Reporting of communications. #####
 
+Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
+
 (a) *General.* The following types of substantive communication shall be reported as specified in paragraph (b) of this section:
 
 (1) Any communication in violation of § 300.2(a) of this chapter.

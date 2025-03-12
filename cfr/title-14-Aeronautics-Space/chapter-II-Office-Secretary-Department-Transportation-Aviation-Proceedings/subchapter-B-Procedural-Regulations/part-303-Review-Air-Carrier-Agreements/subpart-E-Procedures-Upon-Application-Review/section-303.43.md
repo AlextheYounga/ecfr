@@ -1,5 +1,7 @@
 ##### § 303.43 Action following the comment period. #####
 
+Link to an amendment published at 84 FR 15937, Apr. 16, 2019.
+
 (a) [Reserved]
 
 (b) *Section 412 applications.* After the period for which comments, requests for a hearing or responses to an order to show cause are due concerning a section 412 application, the Assistant Secretary may proceed by order requesting further information or justification or by order of approval or disapproval or, in appropriate cases, may proceed by order to show cause or by order instituting a full evidentiary hearing.

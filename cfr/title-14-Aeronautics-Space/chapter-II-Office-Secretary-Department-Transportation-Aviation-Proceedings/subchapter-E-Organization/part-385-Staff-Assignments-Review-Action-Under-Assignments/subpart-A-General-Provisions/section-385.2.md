@@ -1,5 +1,7 @@
 ##### § 385.2 Applicability. #####
 
+Link to an amendment published at 84 FR 15942, Apr. 16, 2019.
+
 This part describes the organization of the Department insofar as, pursuant to authority conferred on it by section 40113 of the Statute, the Department has adopted rules herein or elsewhere which make continuing assignments of authority with respect to any of its functions of making orders or other determinations, many of which are not required to be made on an evidentiary record upon notice and hearing or which are not the subject of contest, and Department personnel have been assigned to perform such functions. Delegations by the Secretary of Transportation to Secretarial Officers and the Director, Bureau of Transportation Statistics (BTS) of functions under Subparts I, II, and IV of the Statute appear in 49 CFR part 1. This part also sets forth the procedures governing discretionary review by the appropriate Reviewing Official of action taken under such assignments. Nothing in this part shall be construed as precluding the Department from issuing, by appropriate order, temporary delegations of authority with respect to any functions described in this part or with respect to any other functions which can be lawfully delegated.
 
 [Doc. No. T-1, 49 FR 50985, Dec. 31, 1984, as amended at 60 FR 66726, Dec. 26, 1995; Doc. No. OST-96-1268, 61 FR 19167, May 1, 1996]

@@ -1,5 +1,7 @@
 ##### § 302.3 Filing of documents. #####
 
+Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
+
 (a) *Filing address, date of filing, hours.* (1) Documents required by any section of this part to be filed with the Department must be filed with Department of Transportation Dockets at the Department's offices in Washington, DC. Documents may be filed either on paper or by electronic means using the process set at the DOT Dockets Management System (DMS) internet website.
 
 (2) Such documents will be deemed to be filed on the date on which they are actually received by the Department. Documents must be filed between the hours of 9:00 a.m. and 5:00 p.m., eastern standard or daylight savings time, whichever is in effect in the District of Columbia at the time, Monday to Friday, inclusive, except on legal holidays. Electronic filings may be made at any time under the process set by the Department. Electronic filings that are received after the specified Dockets Facility hours shall be deemed to be constructively received on the next Dockets Facility business day.

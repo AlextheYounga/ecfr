@@ -1,5 +1,7 @@
 ##### § 204.5 Certificated and commuter air carriers undergoing or proposing to undergo substantial change in operations, ownership, or management. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 (a) A certificated or commuter air carrier proposing a substantial change in operations, ownership or management shall file the data set forth in § 204.3. These data must be submitted in cases where:
 
 (1) The proposed change requires new or amended authority, or

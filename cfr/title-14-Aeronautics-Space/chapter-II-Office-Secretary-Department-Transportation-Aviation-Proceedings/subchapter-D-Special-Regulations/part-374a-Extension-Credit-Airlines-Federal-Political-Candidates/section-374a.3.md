@@ -1,5 +1,7 @@
 ##### § 374a.3 Definitions. #####
 
+Link to an amendment published at 84 FR 15939, Apr. 16, 2019.
+
 *Adequate security* means (a) a bond, issued by a surety meeting the standards prescribed for sureties in part 380 of this chapter, in an amount not less than one hundred and fifty percent (150%) of the credit limit established by the air carrier for the candidate, or the person acting on behalf of the candidate, as the case may be, by the terms of which bond the surety undertakes to pay to the air carrier any and all amounts (not exceeding the face amount of the bond) for which the assured candidate or the assured person acting on behalf of a candidate, as the case may be, is or may become legally liable to the air carrier for transportation, as defined in this part; or (b) collateral with a market value equal to one hundred and fifty percent (150%) of the established credit limit for such account, which collateral must be deposited in escrow and must consist of Federal, State, or municipal bonds or other negotiable securities which are publicly traded on a securities exchange.
 
 *Air carrier* means any air carrier holding a certificate of public convenience and necessity issued under section 401 of the Federal Aviation Act of 1958, as amended.

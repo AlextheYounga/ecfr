@@ -1,5 +1,7 @@
 ##### § 380.32 Specific requirements for operator-participant contracts. #####
 
+Link to an amendment published at 84 FR 15941, Apr. 16, 2019.
+
 Contracts between charter operators and charter participants shall state:
 
 (a) The name and complete mailing address of the charter operator;

@@ -1,5 +1,7 @@
 ##### § 215.4 Change of name or use of trade name. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 (a) *Registrations.* Any air carrier subject to this part that desires to change the name in which its operating authorization has been issued, or to use a trade name, or to obtain initial operating authority must register the name with the Department. The Department will construe any application for initial, reissued, or transferred authority as containing a “registration” of the intended name. A separate name registration document need not be filed. A carrier registering use of a trade name, without seeking reissuance of its underlying certificate commuter or foreign air carrier permit or exemption authority, must file a statement that complies with §§ 302.3 and 302.4 of this chapter registering its intended name with the Air Carrier Fitness Division if it is a U.S. certificated or commuter carrier, or within the Licensing Division if it is a foreign air carrier.
 
 (b) *Montreal Agreement.* Each registration under this section shall be accompanied by three copies of a counterpart to the Montreal Agreement (Agreement 18900) (OST Form 4523) signed by the carrier using the proposed name. Upon arrival of the application, the Department will place a copy of the signed OST form 4523 in Docket 17325.

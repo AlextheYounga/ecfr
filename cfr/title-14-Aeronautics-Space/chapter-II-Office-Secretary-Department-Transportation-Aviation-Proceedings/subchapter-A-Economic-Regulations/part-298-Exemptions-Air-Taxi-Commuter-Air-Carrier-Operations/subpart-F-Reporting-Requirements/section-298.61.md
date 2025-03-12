@@ -1,5 +1,7 @@
 ##### § 298.61 Reporting of traffic statistics. #####
 
+Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
+
 (a) Each commuter air carrier and small certificated air carrier shall file Schedule T-100, AU.S. Air Carrier Traffic and Capacity Data by Nonstop Segment and On-Flight Market.”
 
 (b) Schedule T-100 shall be filed monthly as set forth in “298.60.

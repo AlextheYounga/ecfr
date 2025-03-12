@@ -1,5 +1,7 @@
 ##### § 223.22 Other persons to whom free and reduced-rate transportation may be furnished. #####
 
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
+
 Air carriers and foreign air carriers are exempted from sections 403 and 404(b) of the Act and part 221 of this chapter to the extent necessary to provide free or reduced-rate foreign air transportation, including passes, to the following:
 
 (a) Directors, officers, employees, and retirees and members of their immediate families, of any carrier or of any affiliate of such carrier, subject to the requirements of § 223.25.

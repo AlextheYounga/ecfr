@@ -1,5 +1,7 @@
 ##### § 375.50 Transit flights; scheduled international air service operations. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 (a) *Requirement of notice.* Scheduled international air services proposed to be operated pursuant to the International Air Services Transit Agreement in transit across the United States may not be undertaken by foreign civil aircraft unless the operator of such aircraft, and (if other than the operator) the carrier offering such service to the public, has, not less than 30 days prior to the date of commencement of such service, filed a Notice of Proposed Transit Flights Pursuant to the International Air Services Transit Agreement in accordance with the provisions of paragraphs (b) and (c) of this section.
 
 (b) *Filing of the notice.* An original and two copies of the Notice shall be filed with the Chief, Discrete Operations Branch, Licensing Division, P-45, Office of Aviation Operations. Copies of the Notice shall be served upon the Department of State and the Administrator of the Federal Aviation Administration. The filing date shall be the date of actual receipt by the Department.

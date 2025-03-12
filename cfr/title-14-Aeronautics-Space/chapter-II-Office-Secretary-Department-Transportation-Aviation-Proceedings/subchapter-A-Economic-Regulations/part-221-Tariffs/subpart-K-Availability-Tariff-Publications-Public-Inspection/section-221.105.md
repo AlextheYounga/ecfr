@@ -1,5 +1,7 @@
 ##### § 221.105 Special notice of limited liability for death or injury under the Warsaw Convention. #####
 
+Link to an amendment published at 84 FR 15929, Apr. 16, 2019.
+
 (a)(1) In addition to the other requirements of this subpart, each air carrier and foreign air carrier which, to any extent, avails itself of the limitation on liability to passengers provided by the Warsaw Convention, shall, at the time of delivery of the ticket, furnish to each passenger whose transportation is governed by the Convention and whose place of departure or place of destination is in the United States, the following statement in writing:
 
 Advice to International Passengers on Limitations of Liability

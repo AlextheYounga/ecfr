@@ -1,5 +1,7 @@
 ##### § 303.02 Definitions. #####
 
+Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
+
 (a) The term *Act* refers to the Federal Aviation Act of 1958, as amended. (49 U.S.C. 1301 *et seq.*)
 
 (b) The term *Assistant Secretary* means the Assistant Secretary for Aviation and International Affairs, or as delegated. As provided in 49 CFR 1.43, the Secretary or Deputy Secretary may exercise any authority in lieu of the Assistant Secretary under the provisions of this part.

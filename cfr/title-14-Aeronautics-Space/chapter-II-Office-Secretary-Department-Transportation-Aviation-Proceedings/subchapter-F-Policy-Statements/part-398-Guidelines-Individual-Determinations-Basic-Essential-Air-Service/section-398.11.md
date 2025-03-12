@@ -1,5 +1,7 @@
 ##### § 398.11 Funding reductions. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) If, in any fiscal year, appropriations for payments to air carriers remain at or below the amounts estimated as necessary to maintain subsidy-supported essential air service at the places receiving such service, and Congress provides no statutory direction to the contrary, appropriations shall not be available for essential air service to otherwise eligible places within the 48 contiguous States and Puerto Rico that have a rate of subsidy per passenger in excess of $200.00, or are located:
 
 (1) Less than 70 highway miles from the nearest large or medium hub airport;

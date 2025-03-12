@@ -1,5 +1,7 @@
 ##### § 294.30 Scope of service and equipment authorized. #####
 
+Link to an amendment published at 84 FR 15934, Apr. 16, 2019.
+
 (a) Upon fulfillment of the requirements of § 294.3 of this part, the registrant will have Department authority to engage in charter air services between any point or points in Canada and any point or points in the United States using small aircraft.
 
 (b) Nothing in this part shall be construed as authorizing the operation of large aircraft in charter air service, and the exemption provided by this part to Canadian charter air taxi operators that register with the Department extends only to the direct operations of charter air service in accordance with the limitations and conditions of this part using aircraft designed to have:

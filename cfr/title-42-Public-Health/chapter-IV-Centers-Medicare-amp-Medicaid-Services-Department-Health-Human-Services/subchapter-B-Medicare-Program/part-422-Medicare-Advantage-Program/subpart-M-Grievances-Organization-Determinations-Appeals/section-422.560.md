@@ -1,5 +1,7 @@
 ##### § 422.560 Basis and scope. #####
 
+Link to an amendment published at 84 FR 15833, April 16, 2019.
+
 (a) *Statutory basis.* (1) Section 1852(f) of the Act provides that an MA organization must establish meaningful grievance procedures.
 
 (2) Section 1852(g) of the Act establishes requirements that an MA organization must meet concerning organization determinations and appeals.

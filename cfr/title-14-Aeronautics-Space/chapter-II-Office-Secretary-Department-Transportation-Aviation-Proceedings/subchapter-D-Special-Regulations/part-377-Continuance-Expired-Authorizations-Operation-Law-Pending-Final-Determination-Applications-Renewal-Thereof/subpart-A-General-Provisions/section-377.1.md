@@ -1,5 +1,7 @@
 ##### § 377.1 Definitions. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 As used in this part:
 
 *Authorization* means any agency certificate, approval, statutory exemption or other form of permission granted pursuant to sections 101(3), 401, 402, 408, 409, 412 and 416 of the Federal Aviation Act of 1958, as amended. Where any operating authorization creates more than one separate route, each of these shall be deemed a separate authorization for the purposes of this part.

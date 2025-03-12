@@ -1,5 +1,7 @@
 ##### § 399.37 Joint fares. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 There should be joint fares in all markets over all routings within the contiguous 48 states and the District of Columbia as follows:
 
 (a) *Level.* The level shall not exceed the sum of the maximum local fares permitted by this subpart minus one tax-rounded coach ceiling terminal charge for each interline connection, and in any event shall not exceed the sum of the actual local fares.

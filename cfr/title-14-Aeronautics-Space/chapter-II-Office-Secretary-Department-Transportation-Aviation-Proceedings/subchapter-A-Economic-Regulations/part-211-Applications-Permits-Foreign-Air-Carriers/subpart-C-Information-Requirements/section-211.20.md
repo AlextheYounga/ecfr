@@ -1,5 +1,7 @@
 ##### § 211.20 Initial foreign air carrier permit or transfer of a permit. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 A person applying for an initial foreign air carrier permit or the transfer of a permit shall submit the information listed below. The applicant must fully comply with this requirement. If the applicant is unable to respond to an item, the application shall contain an explanation, and include substitute information most closely approximating the information requested. The Department may require an applicant to provide additional information as necessary.
 
 (a) State the name and address of the applicant, the nature of its organization (individual, partnership, corporation, etc.), and, if other than an individual, the name of the country under the laws of which it is organized and the statutory citation of such laws, if any.

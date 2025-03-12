@@ -1,5 +1,7 @@
 ##### § 323.2 Definitions. #####
 
+Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+
 As used in this part:
 
 *Certificated carrier* means a direct air carrier holding authority to provide air transportation granted by the Department of Transportation (“DOT”) or the former Civil Aeronautics Board (“CAB”) in the form of a certificate of public convenience and necessity under section 41102 of the Title 49 of the United States Code (Transportation) (“the Statute”) or an all-cargo air transportation certificate to perform all-cargo air transportation under section 41103 of the Statute.

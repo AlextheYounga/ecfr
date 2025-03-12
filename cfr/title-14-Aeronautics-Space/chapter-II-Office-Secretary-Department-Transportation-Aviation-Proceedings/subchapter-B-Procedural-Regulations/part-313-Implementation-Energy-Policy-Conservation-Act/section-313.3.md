@@ -1,5 +1,7 @@
 ##### § 313.3 Definitions. #####
 
+Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+
 As used in this part:
 
 (a) *Energy efficiency* means the ratio of the useful output of services in air transportation to the energy consumption of such services.

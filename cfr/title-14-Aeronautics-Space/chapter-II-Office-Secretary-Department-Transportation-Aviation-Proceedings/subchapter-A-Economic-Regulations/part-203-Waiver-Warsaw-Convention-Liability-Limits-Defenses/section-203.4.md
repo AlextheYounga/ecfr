@@ -1,5 +1,7 @@
 ##### § 203.4 Montreal Agreement as part of airline-passenger contract and conditions of carriage. #####
 
+Link to an amendment published at 84 FR 15924, April 16, 2019.
+
 (a) As required by the Montreal Agreement, carriers that are otherwise generally required to file tariffs shall file with the Department's Tariffs Division a tariff that includes the provisions of the counterpart to Agreement 18900.
 
 (b) As further required by that Agreement, each participating carrier shall include the Agreement's terms as part of its conditions of carriage. The participating carrier shall give each of its passengers the notice required by the Montreal Agreement as provided in § 221.175 of this chapter.

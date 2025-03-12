@@ -1,5 +1,7 @@
 ##### § 399.32 Zone of limited suspension for domestic passenger fares. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) *Applicability.* This section sets forth the Board's policy on passenger fares for scheduled service by certificated air carriers in the following areas, except to the extent that greater flexibility is set forth in § 399.33:
 
 (1) Within the 48 contiguous States and the District of Columbia (“the Mainland”); and

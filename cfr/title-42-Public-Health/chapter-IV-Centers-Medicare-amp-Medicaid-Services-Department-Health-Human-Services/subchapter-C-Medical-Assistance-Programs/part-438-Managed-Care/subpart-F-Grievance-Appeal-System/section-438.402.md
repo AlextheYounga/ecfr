@@ -1,5 +1,7 @@
 ##### § 438.402 General requirements. #####
 
+Link to an amendment published at 84 FR 15844, Apr. 16, 2019.
+
 (a) *The grievance and appeal system.* Each MCO, PIHP, and PAHP must have a grievance and appeal system in place for enrollees. Non-emergency medical transportation PAHPs, as defined in § 438.9, are not subject to this subpart F.
 
 (b) *Level of appeals.* Each MCO, PIHP, and PAHP may have only one level of appeal for enrollees.

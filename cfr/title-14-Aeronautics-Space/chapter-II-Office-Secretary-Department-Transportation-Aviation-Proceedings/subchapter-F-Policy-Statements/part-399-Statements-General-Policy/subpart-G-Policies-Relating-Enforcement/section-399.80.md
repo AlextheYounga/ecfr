@@ -1,5 +1,7 @@
 ##### § 399.80 Unfair and deceptive practices of ticket agents. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 It is the policy of the Department to regard as an unfair or deceptive practice or unfair method of competition the practices enumerated in paragraphs (a) through (m) of this section by a ticket agent of any size and the practice enumerated in paragraph (s) by a ticket agent that sells air transportation online and is not considered a small business under the Small Business Administration's size standards set forth in 13 CFR 121.201:
 
 (a) Misrepresentations1 which may induce members of the public to believe that the ticket agent is an air carrier.

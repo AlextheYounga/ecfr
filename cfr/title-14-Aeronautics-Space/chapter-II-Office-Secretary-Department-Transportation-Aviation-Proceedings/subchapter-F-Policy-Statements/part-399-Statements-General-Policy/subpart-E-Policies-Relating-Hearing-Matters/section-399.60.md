@@ -1,5 +1,7 @@
 ##### § 399.60 Standards for determining priorities of hearing. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) *General.* This policy statement describes the general standards which will be used by the Board in determining the order in which it will designate for hearing those matters on its docket which are to be decided after notice and hearing. Among such matters are applications for certificates of public convenience and necessity or for foreign air carrier permits; applications under section 408 of the Act for approval of consolidations or acquisitions of control; complaint cases; and various rate-making proceedings.
 
 (b) *Standards.* Matters will be assigned for hearing in accordance with the degree of relative priority which each matter is entitled to on the basis of the comparative public interest involved therein. Among other things, the Board will take into account:

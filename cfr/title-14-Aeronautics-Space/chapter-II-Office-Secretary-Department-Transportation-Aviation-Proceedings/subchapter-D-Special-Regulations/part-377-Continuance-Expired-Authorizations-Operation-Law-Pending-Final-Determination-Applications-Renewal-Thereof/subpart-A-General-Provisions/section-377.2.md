@@ -1,5 +1,7 @@
 ##### § 377.2 Applicability of part. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 (a) This part implements the last sentence of 5 U.S.C. 558(c) with regard to temporary authorizations granted by the Board.
 
 Note:

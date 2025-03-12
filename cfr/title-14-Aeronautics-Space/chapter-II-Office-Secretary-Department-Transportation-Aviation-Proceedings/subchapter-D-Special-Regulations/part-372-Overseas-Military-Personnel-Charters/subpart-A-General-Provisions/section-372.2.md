@@ -1,5 +1,7 @@
 ##### § 372.2 Definitions. #####
 
+Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+
 As used in this part, unless the context otherwise requires:
 
 *Charter* means overseas military personnel charter.

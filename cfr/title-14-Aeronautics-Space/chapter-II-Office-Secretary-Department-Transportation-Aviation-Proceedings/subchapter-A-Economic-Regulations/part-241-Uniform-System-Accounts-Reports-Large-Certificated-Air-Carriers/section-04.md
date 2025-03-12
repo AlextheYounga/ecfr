@@ -1,5 +1,7 @@
 ##### Section 04 Air Carrier Groupings #####
 
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
+
 (a) All large certificated air carriers are placed into three basic air carrier groupings based upon their level of operations and the nature of these operations. In order to determine the level of operations, total operating revenues for a twelve-month period are used. The following operating revenue ranges are used to establish air carrier groupings:
 
 |Carrier Group|Total Annual Operating Revenues|

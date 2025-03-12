@@ -1,5 +1,7 @@
 ##### § 249.7 Restrictions on record destruction. #####
 
+Link to an amendment published at 84 FR 15932, Apr. 16, 2019.
+
 (a) Each carrier that has been named a party to a pending mail rate case shall retain all records remaining in its custody as of the beginning of an “open mail rate period” until the occurrence of one of the following contingencies, whichever is first:
 
 (1) Final adjudication of a DOT order fixing the final mail compensation payable for services rendered during an “open mail rate period.”

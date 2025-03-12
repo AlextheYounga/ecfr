@@ -1,5 +1,7 @@
 ##### § 423.570 Expediting certain coverage determinations. #####
 
+Link to an amendment published at 84 FR 15843, April 16, 2019.
+
 (a) *Request for expedited determination.* An enrollee or an enrollee's prescribing physician or other prescriber may request that a Part D plan sponsor expedite a coverage determination involving issues described in § 423.566(b) of this part. This does not include requests for payment of Part D drugs already furnished.
 
 (b) *How to make a request.* (1) To ask for an expedited determination, an enrollee or an enrollee's prescribing physician or other prescriber on behalf of the enrollee must submit an oral or written request directly to the Part D plan sponsor or, if applicable, to the entity responsible for making the determination, as directed by the Part D plan sponsor.

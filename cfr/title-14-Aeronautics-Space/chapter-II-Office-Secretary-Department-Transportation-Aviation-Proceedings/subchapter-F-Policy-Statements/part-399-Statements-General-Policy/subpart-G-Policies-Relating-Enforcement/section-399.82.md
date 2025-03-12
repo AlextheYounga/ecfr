@@ -1,5 +1,7 @@
 ##### § 399.82 Passing off of carrier identity by affiliation between carriers. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) *Applicability.* This policy shall apply to proceedings in which the Board, in exercising its regulatory powers with respect to air carriers and foreign air carriers, is required to determine whether carriers have engaged in unfair or deceptive practices, or unfair methods of competition. The standards herein shall not be construed to supersede any action previously taken by the Board in a particular proceeding dealing with the subject matter of this statement, but to the extent not inconsistent therewith shall provide standards which supplement, or implement such specific Board action. The limitation of this policy statement to certain affiliated carriers should not be construed as an indication that the Board will permit other carriers to pass off by means of activities which are inconsistent with the minimum safeguards set forth in paragraph (c) of this section. In such cases the Board may determine in an adjudicatory proceeding that the activities engaged in have a tendency to pass off and constitute an unfair or deceptive practice or an unfair method of competition.
 
 (b) *Definition.* For the purpose of this statement, the term *affiliation,* as between an air carrier and a foreign air carrier, shall mean that one of the carriers directly or indirectly has one of the following relationships to the other:

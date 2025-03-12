@@ -1,5 +1,7 @@
 ##### § 302.603 Contents of complaint or request for determination. #####
 
+Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
+
 (a) The complaint or request for determination shall set forth the entire grounds for requesting a determination of the reasonableness of the airport fee. The complaint or request shall include a copy of the airport owner or operator's written notice to the carrier of the imposition of the fee, a statement of position with a brief, and all supporting testimony and exhibits on which the filing party intends to rely. In lieu of submitting duplicative exhibits or testimony, the filing party may incorporate by reference testimony and exhibits already filed in the same proceeding.
 
 (b) All exhibits and briefs prepared on electronic spreadsheet or word processing programs should be accompanied by standard-format computer diskettes containing those submissions. The disk submission must be in one of the following formats, in the latest two versions, or in such other format as may be specified by notice in the Federal Register: Microsoft Word (or RTF), Word Perfect, Ami Pro, Microsoft Excel, Lotus 123, Quattro Pro, or ASCII tab-delineated files. Parties should submit three copies of each diskette to Department of Transportation Dockets: one copy for the docket, one copy for the Office of Hearings, and one copy for the Office of Aviation Analysis. Filers should ensure that files on the diskettes are unalterably locked.

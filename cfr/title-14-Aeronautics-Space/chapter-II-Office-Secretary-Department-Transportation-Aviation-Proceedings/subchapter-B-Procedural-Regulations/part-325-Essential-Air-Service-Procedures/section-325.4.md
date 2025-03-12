@@ -1,5 +1,7 @@
 ##### § 325.4 State and local participation. #####
 
+Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+
 (a) DOT, on a periodic basis, will send a questionnaire to each eligible point that is served by not more than one certificated air carrier, or is designated as an eligible point under section 419(b) of the Act, or for which DOT is reviewing its essential air service needs. The questionnaire will be addressed to:
 
 (1) The chief executive of the principal city, or other unit of local government at the affected point, that is named or has been previously named in a qualifying section 401 certificate. For points in Alaska or Hawaii that are named DOT as eligible points without having been listed on a section 401 certificate, the principal city is the most populous municipality at the point;

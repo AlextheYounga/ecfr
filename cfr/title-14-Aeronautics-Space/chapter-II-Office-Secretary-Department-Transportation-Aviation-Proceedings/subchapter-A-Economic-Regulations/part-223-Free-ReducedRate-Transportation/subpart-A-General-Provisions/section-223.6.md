@@ -1,5 +1,7 @@
 ##### § 223.6 Carrier's rules. #####
 
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
+
 (a) Each air carrier and foreign air carrier shall maintain at its principal office either a copy or all instructions to its employees and of all company rules governing its practice in connection with the issuance and interchange of free and reduced-rate transportation passes or a statement describing those practices.
 
 (b) The rules or statement required by this section shall, at a minimum, include the following:

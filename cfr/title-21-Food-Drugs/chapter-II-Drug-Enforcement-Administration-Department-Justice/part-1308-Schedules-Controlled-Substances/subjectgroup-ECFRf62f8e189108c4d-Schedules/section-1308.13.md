@@ -39,11 +39,11 @@
 |                                                                                               (14) Sulfonmethane                                                                                                |2610|
 |                                                                                (15) Tiletamine and zolazepam or any salt thereof                                                                                |7295|
 |                                                                    Some trade or other names for a tiletamine-zolazepam combination product:                                                                    |    |
-|                                                                                                    Telazol.                                                                                                     |    |
+|                                                                                                     Telazol                                                                                                     |    |
 |                                                                                    Some trade or other names for tiletamine:                                                                                    |    |
-|                                                                                   2-(ethylamino)-2-(2-thienyl)-cyclohexanone.                                                                                   |    |
+|                                                                                   2-(ethylamino)-2-(2-thienyl)-cyclohexanone                                                                                    |    |
 |                                                                                    Some trade or other names for zolazepam:                                                                                     |    |
-|                                                     4-(2-fluorophenyl)-6,8-dihydro-1,3,8-trimethylpyrazolo-[3,4-e] [1,4]-diazepin-7(1H)-one, flupyrazapon.                                                      |    |
+|                                                      4-(2-fluorophenyl)-6,8-dihydro-1,3,8-trimethylpyrazolo-[3,4-e] [1,4]-diazepin-7(1H)-one, flupyrazapon                                                      |    |
 
 (d) Nalorphine 9400.
 
@@ -63,11 +63,11 @@
 
 (f) *Anabolic Steroids.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation containing any quantity of the following substances, including its salts, esters and ethers:
 
-(1) Anabolic steroids (see § 1300.01 of this chapter) - 4000
+(1) Anabolic steroids (see § 1300.01 of this chapter)—4000
 
 (2) [Reserved]
 
-(g) *Hallucinogenic substances.* (1) Dronabinol (synthetic) in sesame oil and encapsulated in a soft gelatin capsule in a U.S. Food and Drug Administration approved product - 7369.
+(g) *Hallucinogenic substances.* (1) Dronabinol (synthetic) in sesame oil and encapsulated in a soft gelatin capsule in a U.S. Food and Drug Administration approved product—7369.
 
 [Some other names for dronabinol: (6a*R-trans*)-6a,7,8,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6*H*-dibenzo [*b,d*]pyran-1-ol] or (-)-delta-9-(*trans*)-tetrahydrocannabinol]
 

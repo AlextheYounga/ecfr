@@ -1,5 +1,7 @@
 ##### § 399.35 Special tariff permission. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) *Definition.* As used in this section, *to grant STP* means to approve a carrier's application for Special Tariff Permission to file a tariff on less than the statutory notice set forth in § 221.160(a) of this chapter.
 
 (b) *Lower fares, rates, and charges.* It is the policy of the Board to grant STP for tariffs that state lower fares, rates, or charges and any rules affecting only those lower fares, rates, or charges, except that:

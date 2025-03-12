@@ -1,5 +1,7 @@
 ##### § 380.3 General provisions. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 (a) Public Charters may be operated on a one-way or round-trip basis, with no minimum group or contract size. Public Charters may be sold on an air-only basis, or with mandatory or optional land arrangements.
 
 (b) A U.S. Public Charter operator operating a Public Charter which originates in a foreign country shall not be subject to the requirements of §§ 380.25, 380.28, 380.30 and 380.35.

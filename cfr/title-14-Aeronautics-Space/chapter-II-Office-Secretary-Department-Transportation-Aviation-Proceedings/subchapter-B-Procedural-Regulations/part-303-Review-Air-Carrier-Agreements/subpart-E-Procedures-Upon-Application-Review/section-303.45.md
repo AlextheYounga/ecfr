@@ -1,5 +1,7 @@
 ##### § 303.45 Evidentiary hearings. #####
 
+Link to an amendment published at 84 FR 15937, Apr. 16, 2019.
+
 (a) If the Assistant Secretary determines that an application, or review of a previous granted application, should be the subject of a full evidentiary hearing, he or she shall issue an order so stating. The term “full evidentiary hearing” includes any hybrid format set out in the instituting order. This order shall set forth the issues that are to be considered in such hearing.
 
 (b) After the issuance of an order for a full evidentiary hearing, the Chief Administrative Law Judge shall promptly appoint an Administrative Law Judge to conduct such hearing in accordance with section 7 of the Administrative Procedure Act, 5 U.S.C. 556, and the Rules of Practice in part 302 of this chapter.

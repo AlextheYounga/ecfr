@@ -1,5 +1,7 @@
 ##### § 422.264 Calculation of savings. #####
 
+Link to an amendment published at 84 FR 15833, April 16, 2019.
+
 (a) *Computation of risk adjusted bids and benchmarks.* (1) *The risk adjusted MA statutory non-drug monthly bid amount* is the unadjusted plan bid amount for coverage of original Medicare benefits (defined at § 422.254), adjusted using the factors described in paragraph (c) of this section for local plans and paragraph (e) of this section for regional plans.
 
 (2) The *risk adjusted MA area-specific non-drug monthly benchmark amount* is the unadjusted benchmark amount for coverage of original Medicare benefits by a local MA plan (defined at § 422.258), adjusted using the factors described in paragraph (c) of this section.

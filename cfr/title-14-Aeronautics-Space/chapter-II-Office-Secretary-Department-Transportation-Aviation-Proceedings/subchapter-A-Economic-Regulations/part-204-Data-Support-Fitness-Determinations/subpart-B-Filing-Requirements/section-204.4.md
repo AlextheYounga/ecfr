@@ -1,5 +1,7 @@
 ##### § 204.4 Carriers proposing to provide essential air service. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 Applicants proposing to provide essential air service have been divided into two categories, and are subject to differing data submission requirements as set forth in paragraphs (a) and (b) of this section. However, if a carrier has previously filed any of the required data with the Department or other Federal agency and they are available to the Department, and these data continue to reflect the current state of the carrier's fitness, the carrier may instead identify the data and provide a citation for the date and place of filing. All carriers may contact the Air Carrier Fitness Division to ascertain what information is already available to the Department and thus may not need to be resubmitted.
 
 (a) Carriers who propose to begin or expand non-subsidized essential air service when the incumbent leaves the market must file the following information:

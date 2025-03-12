@@ -1,5 +1,7 @@
 ##### § 385.19 Authority of the Director, Office of Aviation Information, Bureau of Transportation Statistics. #####
 
+Link to an amendment published at 84 FR 15944, Apr. 16, 2019.
+
 The Director, Office of Aviation Information, Bureau of Transportation Statistics (BTS) has authority to:
 
 (a) Conduct all rulemaking proceedings concerning accounting, reporting, and record retention requirements for carrying out Subparts I, II, and IV of the Statute, except the issuance of final rules and the disposition of petitions for reconsideration.

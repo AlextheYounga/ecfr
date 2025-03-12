@@ -1,5 +1,7 @@
 ##### § 399.81 Unrealistic or deceptive scheduling. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) The unrealistic scheduling of flights by any air carrier providing scheduled passenger air transportation is an unfair or deceptive practice and an unfair method of competition within the meaning of 49 U.S.C. 41712.
 
 (b) With respect to the advertising of schedule performance, it is an unfair or deceptive practice and an unfair method of competition to use any figures purporting to reflect schedule or on-time performance without indicating the basis of the calculation, the time period involved, and the pairs of points or the percentage of system-wide operations thereby represented and whether the figures include all scheduled flights or only scheduled flights actually performed.

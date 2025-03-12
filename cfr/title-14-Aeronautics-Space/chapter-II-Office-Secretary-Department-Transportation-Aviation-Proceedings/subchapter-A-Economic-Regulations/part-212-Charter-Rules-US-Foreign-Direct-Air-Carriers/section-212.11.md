@@ -1,5 +1,7 @@
 ##### § 212.11 Issuance of statement of authorization. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 (a) The Department will issue a statement of authorization if it finds that the proposed charter flight, part charter, or wet lease meets the requirements of this part and that it is in the public interest. Statements of authorization may be conditioned or limited.
 
 (b) In determining the public interest the Department will consider (but not be limited to) the following factors:

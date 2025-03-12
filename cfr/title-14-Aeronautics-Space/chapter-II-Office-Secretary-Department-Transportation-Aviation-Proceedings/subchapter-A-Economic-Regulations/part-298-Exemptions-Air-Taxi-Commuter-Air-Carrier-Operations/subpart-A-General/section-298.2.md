@@ -1,5 +1,7 @@
 ##### § 298.2 Definitions. #####
 
+Link to an amendment published at 84 FR 15934, Apr. 16, 2019.
+
 As used in this part:
 
 *Air taxi operator* means an air carrier as established by § 298.3(a).

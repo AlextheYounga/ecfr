@@ -1,5 +1,7 @@
 ##### § 372.30 Application. #####
 
+Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+
 (a) *Application.* Any person desiring to operate as an overseas military personnel charter operator may apply to the Department for an appropriate operating authorization. Contact the Office of Aviation Analysis, Special Authorities Division, for filing instructions. The application shall be certified by a responsible official of such person and shall contain the following information:
 
 (1) Date;

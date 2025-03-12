@@ -1,5 +1,7 @@
 ##### § 375.35 Free transportation. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 (a) Foreign civil aircraft may be navigated in the United States by a foreign air carrier for the transportation of persons and property specified in paragraph (b) of this section over the following non-traffic segments provided such transportation is not for compensation or hire:
 
 (1) Between two or more points in the United States;

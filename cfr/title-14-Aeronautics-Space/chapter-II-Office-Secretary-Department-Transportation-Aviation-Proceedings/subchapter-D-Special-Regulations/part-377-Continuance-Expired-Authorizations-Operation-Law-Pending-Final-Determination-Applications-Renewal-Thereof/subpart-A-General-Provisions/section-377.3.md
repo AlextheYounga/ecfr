@@ -1,5 +1,7 @@
 ##### § 377.3 Authorizations not covered by 5 U.S.C. 558(c). #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 The Board hereby determines that the following authorizations are not licenses “with reference to an activity of a continuing nature” within the meaning of 5 U.S.C. 558(c):
 
 (a) Authorizations granted for a specified period of 180 days or less; and

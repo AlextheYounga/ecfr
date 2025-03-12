@@ -1,5 +1,7 @@
 ##### § 298.21 Filing for registration by air taxi operators. #####
 
+Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
+
 (a) Every air taxi operator who plans to commence operations under this part shall register with the Department not later than 30 days prior to the commencement of such operations, unless, upon a showing of good cause satisfactory to the Manager, Program Management Branch (AFS-260), Federal Aviation Administration, registration within a lesser period of time is allowed.
 
 (b) The registration of an air taxi operator shall remain in effect until it is amended by the carrier or canceled by the Department.

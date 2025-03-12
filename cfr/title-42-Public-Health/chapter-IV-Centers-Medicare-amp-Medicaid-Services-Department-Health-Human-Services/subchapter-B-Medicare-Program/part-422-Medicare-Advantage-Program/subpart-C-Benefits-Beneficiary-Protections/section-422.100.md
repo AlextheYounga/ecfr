@@ -1,5 +1,7 @@
 ##### § 422.100 General requirements. #####
 
+Link to an amendment published at 84 FR 15828, April 16, 2019.
+
 (a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c) of this section (and, to the extent applicable, the benefits described in § 422.102) by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of § 422.100(g) and the requirements in subpart G of this part.
 
 (b) *Services of noncontracting providers and suppliers.* (1) An MA organization must make timely and reasonable payment to or on behalf of the plan enrollee for the following services obtained from a provider or supplier that does not contract with the MA organization to provide services covered by the MA plan:

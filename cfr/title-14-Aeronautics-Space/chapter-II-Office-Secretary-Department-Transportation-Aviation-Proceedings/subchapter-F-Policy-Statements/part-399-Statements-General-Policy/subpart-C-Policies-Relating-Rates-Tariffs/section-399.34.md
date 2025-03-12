@@ -1,5 +1,7 @@
 ##### § 399.34 Intra-Hawaii and Intra-Puerto Rico/Virgin Islands fare flexibility. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 For scheduled service within Hawaii, and within and between Puerto Rico and the Virgin Islands, certificated air carriers have the fare flexibility set forth in §§ 399.32 and 399.33, except that:
 
 (a) Instead of the limits set forth in § 399.32(d), the upper limit of the zone for Puerto Rico/Virgin Islands is 30 percent above the SIFL, and for Hawaii is 30 percent above the SHFL; and

@@ -1,5 +1,7 @@
 ##### § 300.20 Violations. #####
 
+Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
+
 (a) DOT may disqualify, and deny temporarily or permanently the privilege of appearing or practicing before it in any way to, any person who is found by DOT after written notice of charges and hearing to have engaged in unethical or improper professional conduct. Any violation of this part shall be deemed to be such conduct.
 
 (b) When appropriate in the public interest, DOT may deny any application or other request of a party in a proceeding subject to this part where DOT finds after hearing that such party has, in connection with any DOT proceeding, violated any of the provisions of this part or any of the provisions of Chapter 11 of Title 18 of the United States Code. DOT may also condition its further consideration of such party's application or other request or the effectiveness of any order granting such application or other request upon such party's first taking such action as DOT may deem necessary or appropriate to remedy the violation of this part or Chapter 11 of Title 18 of the United States Code to prevent or deter any repetition of such violation. DOT may in addition issue a cease and desist order against any repetition of such or similar misconduct.

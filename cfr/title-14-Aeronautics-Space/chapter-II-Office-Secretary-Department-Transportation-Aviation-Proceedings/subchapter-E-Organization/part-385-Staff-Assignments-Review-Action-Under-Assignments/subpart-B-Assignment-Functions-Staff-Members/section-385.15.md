@@ -1,5 +1,7 @@
 ##### § 385.15 Authority of the Deputy General Counsel. #####
 
+Link to an amendment published at 84 FR 15944, Apr. 16, 2019.
+
 The Deputy General Counsel has authority to:
 
 (a) Compromise any civil penalties being imposed in enforcement cases.

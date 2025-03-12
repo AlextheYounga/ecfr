@@ -1,5 +1,7 @@
 ##### § 302.7 Service of documents. #####
 
+Link to an amendment published at 84 FR 15936, Apr. 16, 2019.
+
 (a) *Who makes service* - (1) *The Department.* Formal complaints, notices, orders, and similar documents issued by the Department will be served by the Department upon all parties to the proceeding.
 
 (2) *The parties.* Answers, petitions, motions, briefs, exceptions, notices, protests, or memoranda, or any other documents filed by any party or other person with the Department shall be served by such party or other person upon all parties to the proceeding in which it is filed; including, where applicable, all persons who have petitioned for intervention in, or consolidation of applications with, such proceeding. Proof of service shall accompany all documents when they are filed. The Department may require additional service of any document(s).

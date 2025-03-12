@@ -1,5 +1,7 @@
 ##### § 422.111 Disclosure requirements. #####
 
+Link to an amendment published at 84 FR 15828, April 16, 2019.
+
 (a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
 
 (1) To each enrollee electing an MA plan it offers;

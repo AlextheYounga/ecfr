@@ -1,5 +1,7 @@
 ##### § 385.14 Authority of the General Counsel. #####
 
+Link to an amendment published at 84 FR 15944, Apr. 16, 2019.
+
 (a) The General Counsel has authority to:
 
 (1) Issue proposed or final regulations for the purpose of making editorial changes or corrections in the Department's rules and regulations to carry out Titles IV and X of the Act, with the concurrence of the staff offices primarily responsible for the parts or sections involved: *Provided,* That any final regulation so issued shall have an effective date not less than 20 days after its date of publication in the Federal Register, and shall include a brief reference to the review procedures established in subpart C of this part.

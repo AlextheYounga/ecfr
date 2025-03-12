@@ -1,5 +1,7 @@
 ##### § 325.5 Determinations and designations. #####
 
+Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+
 (a) Not later than October 24, 1979, after reviewing all information submitted, CAB issued determinations of the essential level of air service for eligible points that, on October 24, 1978, were served by not more than one direct air carrier holding a certificate under section 401 of the Act for scheduled service to the point.
 
 (b) DOT will issue a determination of the essential level of air service for a point within 6 months after each of the following events:

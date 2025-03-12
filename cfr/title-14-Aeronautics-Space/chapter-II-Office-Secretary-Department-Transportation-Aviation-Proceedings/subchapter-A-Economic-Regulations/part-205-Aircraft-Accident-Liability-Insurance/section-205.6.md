@@ -1,5 +1,7 @@
 ##### § 205.6 Prohibited exclusions of coverage. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 (a) No warranty or exclusion in the policy or plan or in any endorsement or amendment to the policy or plan, nor any violation of the policy or plan by the carrier, shall remove the liability coverage required by this part, except as specifically approved by the Department. This requirement shall not limit the right of insurers to recover from the carrier for amounts paid.
 
 (b) A policy of insurance or a self-insurance plan required by this part shall not contain the following exclusions:

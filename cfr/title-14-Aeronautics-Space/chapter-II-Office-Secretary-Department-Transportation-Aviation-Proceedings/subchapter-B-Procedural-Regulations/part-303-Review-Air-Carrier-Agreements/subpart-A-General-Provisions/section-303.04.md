@@ -1,5 +1,7 @@
 ##### § 303.04 General rules governing application content, procedure and conditions of approval. #####
 
+Link to an amendment published at 84 FR 15937, Apr. 16, 2019.
+
 (a) Unless specifically exempted by these regulations or by an order of the Assistant Secretary, a person filing an application pursuant to § 303.03 of this part shall prepare and file the application in the manner specified in this section. The application shall also contain the information required by subpart D of this part. An application may be deemed incomplete if it is not in substantial compliance with these requirements.
 
 (b) The parties to the transaction may file either separate applications or one joint application so long as all the information required herein is submitted for each party to the transaction. The Assistant Secretary or Administrative Law Judge, if the matter has been assigned to a judge, upon his or her initiative or upon application, may order the target company or other persons to submit some or all of the information required by this subpart, or other information under 14 CFR 302.25.

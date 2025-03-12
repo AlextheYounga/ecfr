@@ -1,5 +1,7 @@
 ##### § 240.1 Interpretation. #####
 
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
+
 (a) In the exercise of the authority granted by section 407(e) of the Act, the authority of any special agent or auditor to inspect and examine lands, buildings, equipment, accounts, records, memorandums, papers or correspondence shall include the authority to make such notes and copies thereof as he deems appropriate.
 
 (b) The term “special agent” and “auditor” are construed to mean any employee of the Bureau of Enforcement and any other employee of the Board specifically designated by it or by the Director, Office of Facilities and Operations.

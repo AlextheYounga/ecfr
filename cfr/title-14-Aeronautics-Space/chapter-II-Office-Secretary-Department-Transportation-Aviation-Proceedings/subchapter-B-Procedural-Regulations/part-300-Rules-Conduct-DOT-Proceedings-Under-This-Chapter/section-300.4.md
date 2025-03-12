@@ -1,5 +1,7 @@
 ##### § 300.4 Separation of functions in hearing cases. #####
 
+Link to an amendment published at 84 FR 15935, Apr. 16, 2019.
+
 (a) This section applies after the initiation of a hearing or enforcement case by the Department.
 
 (b) A DOT employee who is participating in a hearing case on behalf of an office that is a party, another DOT employee who is in fact reviewing the position taken, or who has participated in developing the position taken in that case, or, in cases involving accusatory or disciplinary issues (including all enforcement cases) such employees' supervisors within that office, shall have no substantive communication with any DOT decisionmaker, administrative law judge in the case, or other DOT employee advising them, with respect to that or any factually related hearing case, except in accordance with a published DOT rule or order. In addition, each bureau or office supervisor of a DOT employee who is participating in a hearing case on behalf of that office when it is a party shall have no substantive communication with any administrative law judge in the case, or DOT employee advising the judge, in that or any factually related hearing case, except in accordance with a published DOT rule or order. For each hearing case, bureau or office heads shall maintain a publicly available record of those employees who are participating or are in fact reviewing the position taken, or who have participated in developing the position taken in that case.

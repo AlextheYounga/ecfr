@@ -1,5 +1,7 @@
 ##### § 399.41 Zones of limited suspension for international cargo rates. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 (a) *Applicability.* This section states the Board's policy for suspending rate changes for the transportation of property in foreign air transportation. It does not affect the Board's authority to suspend any rate as unjustly discriminatory, unduly preferential, or unduly prejudicial. This section applies to rate changes by all direct air carriers and direct foreign air carriers.
 
 (b) *Standard foreign rate levels.* For each market in foreign air transportation, the standard foreign rate level for the carriage of property shall be the bulk general commodity rates in effect in that market on April 1, 1982, as adjusted in accordance with paragraph (f) of this section. However, the general commodity rate for shipments larger than 500 kg. shall be deemed to be the same as the 500 kg. rate for the purposes of this paragraph, regardless of any different rate in effect in the market.

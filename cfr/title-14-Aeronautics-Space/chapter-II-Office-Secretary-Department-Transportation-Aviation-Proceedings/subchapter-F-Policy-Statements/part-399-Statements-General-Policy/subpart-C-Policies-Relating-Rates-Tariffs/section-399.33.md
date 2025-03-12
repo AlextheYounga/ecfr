@@ -1,5 +1,7 @@
 ##### § 399.33 Additional fare flexibility. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 For scheduled service in the areas set forth in § 399.32(a), certificated air carriers have the following fare flexibility in addition to that set forth in § 399.32:
 
 (a) *First class.* Carriers may without restriction set the level of first class fares.

@@ -1,5 +1,7 @@
 ##### § 201.7 General certificate conditions. #####
 
+Link to an amendment published at 84 FR 15924, April 16, 2019.
+
 (a) It shall be a condition upon the holding of a certificate that any intentional failure by the holder to comply with any provision of Statute or any order, rule, or regulation issued thereunder or any term, condition, or limitation of such certificate shall be a failure to comply with the terms, conditions, and limitations of the certificate within the meaning of section 41110 of the Statute even though the failure to comply occurred outside the territorial limits of the United States, except to the extent that such failure shall be necessitated by an obligation, duty, or liability imposed by a foreign country.
 
 (b) Failure to file the reports required by part 241, 291, or 298 of this chapter shall be sufficient grounds to revoke a certificate.

@@ -1,5 +1,7 @@
 ##### § 212.3 General provisions. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 (a) Certificated and foreign air carriers may conduct charter flights as described in this part, and may carry charter passengers on scheduled flights, or charter cargo on scheduled or nonscheduled flights (or on the main deck or in the belly of passenger charter flights), subject to the requirements of this chapter and any orders of, or specific conditions imposed by, the Department.
 
 (b) Charter flights may be operated on a round-trip or one-way basis, with no minimum group, shipment, or contract size.

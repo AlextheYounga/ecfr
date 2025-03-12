@@ -1,8 +1,8 @@
 ##### § 21.17 Designation of applicable regulations. #####
 
-(a) Except as provided in §§ 25.2, 27.2, 29.2, and in parts 26, 34, and 36 of this subchapter, an applicant for a type certificate must show that the aircraft, aircraft engine, or propeller concerned meets -
+(a) Except as provided in §§ 25.2, 27.2, 29.2, and in parts 26, 34, and 36 of this subchapter, an applicant for a type certificate must show that the aircraft, aircraft engine, or propeller concerned meets—
 
-(1) The applicable requirements of this subchapter that are effective on the date of application for that certificate unless -
+(1) The applicable requirements of this subchapter that are effective on the date of application for that certificate unless—
 
 (i) Otherwise specified by the FAA; or
 
@@ -14,7 +14,7 @@
 
 (c) An application for type certification of a transport category aircraft is effective for 5 years and an application for any other type certificate is effective for 3 years, unless an applicant shows at the time of application that his product requires a longer period of time for design, development, and testing, and the FAA approves a longer period.
 
-(d) In a case where a type certificate has not been issued, or it is clear that a type certificate will not be issued, within the time limit established under paragraph (c) of this section, the applicant may -
+(d) In a case where a type certificate has not been issued, or it is clear that a type certificate will not be issued, within the time limit established under paragraph (c) of this section, the applicant may—
 
 (1) File a new application for a type certificate and comply with all the provisions of paragraph (a) of this section applicable to an original application; or
 
@@ -28,4 +28,4 @@
 
 (2) The noise standards of part 36 applicable to primary category aircraft.
 
-[Doc. No. 5085, 29 FR 14564, Oct. 24, 1964, as amended by Amdt. 21-19, 32 FR 17851, Dec. 13, 1967; Amdt. 21-24, 34 FR 364, Jan. 10, 1969; Amdt. 21-42, 40 FR 1033, Jan. 6, 1975; Amdt. 21-58, 50 FR 46877, Nov. 13, 1985; Amdt. 21-60, 52 FR 8042, Mar. 13, 1987; Amdt. 21-68, 55 FR 32860, Aug. 10, 1990; Amdt. 21-69, 56 FR 41051, Aug. 16, 1991; Amdt. 21-70, 57 FR 41367, Sept. 9, 1992; Amdt. 21-90, 72 FR 63404, Nov. 8, 2007; Doc. No. FAA-2015-1621, Amdt. 21-100, 81 FR 96688, Dec. 30, 2017]
+[Doc. No. 5085, 29 FR 14564, Oct. 24, 1964, as amended by Amdt. 21-19, 32 FR 17851, Dec. 13, 1967; Amdt. 21-24, 34 FR 364, Jan. 10, 1969; Amdt. 21-42, 40 FR 1033, Jan. 6, 1975; Amdt. 21-58, 50 FR 46877, Nov. 13, 1985; Amdt. 21-60, 52 FR 8042, Mar. 13, 1987; Amdt. 21-68, 55 FR 32860, Aug. 10, 1990; Amdt. 21-69, 56 FR 41051, Aug. 16, 1991; Amdt. 21-70, 57 FR 41367, Sept. 9, 1992; Amdt. 21-90, 72 FR 63404, Nov. 8, 2007; Doc. No. FAA-2015-1621, Amdt. 21-100, 81 FR 96688, Dec. 30, 2016]

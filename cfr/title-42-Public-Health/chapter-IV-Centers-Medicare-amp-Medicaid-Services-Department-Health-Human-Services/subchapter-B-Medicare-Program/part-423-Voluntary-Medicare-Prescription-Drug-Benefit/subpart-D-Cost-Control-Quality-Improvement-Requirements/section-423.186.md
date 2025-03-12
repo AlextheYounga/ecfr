@@ -1,5 +1,7 @@
 ##### § 423.186 Calculation of Star Ratings. #####
 
+Link to an amendment published at 84 FR 15842, April 16, 2019.
+
 (a) *Measure Star Ratings* - (1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
 (2) Clustering algorithm for all measures except CAHPS measures.

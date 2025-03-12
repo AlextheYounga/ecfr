@@ -1,5 +1,7 @@
 ##### § 422.752 Basis for imposing intermediate sanctions and civil money penalties. #####
 
+Link to an amendment published at 84 FR 15839, April 16, 2019.
+
 (a) *All intermediate sanctions.* For the violations listed in this paragraph, CMS may impose one or more of the sanctions specified in § 422.750(a) of this subpart on any MA organization with a contract. The MA organization may also be subject to other remedies authorized under law.
 
 (1) Fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has the substantial likelihood of adversely affecting) the individual.

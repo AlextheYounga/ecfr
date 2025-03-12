@@ -1,5 +1,7 @@
 ##### § 377.10 Requirements for, and effect of, renewal applications. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 (a) *Identification of authorization covered by renewal application.* Each renewal application shall identify the authorization or authorizations to which it is intended to relate. The application shall indicate the applicant's intention to rely upon 5 U.S.C. 558(c) as implemented by this part. In case of applications for renewal of an authorization for route service, the renewal application shall specifically identify the separate routes which the applicant proposes to continue serving pursuant to the expiring authorization, pending final determination of the renewal application.
 
 (b) *Contents of renewal application.* The application must contain all the information required by law and the Board's regulations, and meet the requirements thereof as to form. The new authorization sought need not be of the same duration as the expiring authorization. If the application relates to renewal of route authority, it must contain, as a minimum, a request for renewed authority to render route service between the terminals named in each separate route for which renewal is requested.

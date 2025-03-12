@@ -1,5 +1,7 @@
 ##### § 222.3 Application for Statement of Authorization. #####
 
+Link to an amendment published at 84 FR 15930, Apr. 16, 2019.
+
 (a) Application for a Statement of Authorization shall be filed with the Board's Regulatory Affairs Division, Bureau of International Aviation, in duplicate, on CAB Form 222 (obtainable from the Civil Aeronautics Board, Publications Services Division, Washington, D.C. 20428), attached as Appendix A. In most cases the Board will act upon applications for Statements of Authorization within 60 days.
 
 (b) Persons objecting to an application for a Statement of Authorization shall file their objections with the Regulatory Affairs Division, Bureau of International Aviation, within 28 days of the filing date of the application. The Board will list the names and nationalities of all persons applying for Statements of Authorization in its Weekly Summary of Filings.

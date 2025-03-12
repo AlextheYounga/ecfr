@@ -1,3 +1,5 @@
 ##### § 375.60 Penalties. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 The operation of a foreign aircraft within the United States or over adjacent territorial waters in violation of the provisions of this part constitutes a violation of the Federal Aviation Act and of this chapter, and may, in addition, constitute a violation of the rules of the Federal Aviation Administration. Such operation makes the person or persons responsible for the violation or violations subject to a civil penalty as provided in section 901 of the Act, and to the alteration, amendment, modification, suspension or revocation of any permit issued under this part and of any U.S. certificate involved as provided in section 609 of the Act. Engaging in air transportation as defined in the Act by a foreign aircraft without a foreign air carrier permit issued pursuant to section 402 of the Act or an exemption, or in violation of the terms of such authority constitutes not only a violation of this part but of title IV of the Act as well, which entails a criminal penalty as set forth in section 902 of the Act.

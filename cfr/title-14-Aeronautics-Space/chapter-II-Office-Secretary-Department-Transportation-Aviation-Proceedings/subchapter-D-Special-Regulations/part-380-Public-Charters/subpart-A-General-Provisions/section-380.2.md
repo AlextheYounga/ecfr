@@ -1,5 +1,7 @@
 ##### § 380.2 Definitions. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 For the purposes of this part:
 
 *Certificated air carrier* means a U.S. direct air carrier holding a certificate issued under the statute.

@@ -1,5 +1,7 @@
 ##### § 380.34 Security and depository agreements. #####
 
+Link to an amendment published at 84 FR 15941, Apr. 16, 2019.
+
 (a) Except as provided in paragraph (b) of this section, the charter operator or foreign charter operator shall furnish a security agreement in an amount for not less than the charter price for the air transportation, if only air transportation is involved, or, if the charter involves land accommodations in addition to air transportation, a security agreement in one of the following amounts dependent upon the length of the charter or series of charters:
 
 (1) For a charter or series of charters of 14 days or less, security in an amount of not less than the charter price for the air transportation to be furnished in connection with such charter or series of charters;

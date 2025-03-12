@@ -1,5 +1,7 @@
 ##### § 385.12 Authority of the Director, Office of Aviation Analysis. #####
 
+Link to an amendment published at 84 FR 15942, Apr. 16, 2019.
+
 The Director, Office of Aviation Analysis, has authority:
 
 (a) With respect to applications filed under section 41102 to engage in interstate or foreign scheduled or charter air transportation, section 41103 to engage in all-cargo air transportation, or section 41738 to engage in certain commuter air transportation:

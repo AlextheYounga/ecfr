@@ -1,5 +1,7 @@
 ##### § 218.3 Prohibition against unauthorized operations employing aircraft leased with crew. #####
 
+Link to an amendment published at 84 FR 15929, Apr. 16, 2019.
+
 (a) No foreign air carrier, or other person not a citizen of the United States, shall lease an aircraft with crew to a foreign air carrier for use by the latter in performing foreign air transportation unless either:
 
 (1) The lessor holds a foreign air carrier permit issued under section 402 of the Act or an approved registration issued under part 294 of this chapter, and any statement of authorization required by part 212 of this chapter; or

@@ -1,5 +1,7 @@
 ##### Sec. 19-7 Passenger origin-destination survey. #####
 
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
+
 (a) All U.S. large certificated air carriers conducting scheduled passenger operations (except helicopter carriers) shall participate in a Passenger Origin-Destination (O & D) Survey covering domestic and international operations, as described in the instructions manual entitled, *Instructions to Air Carriers for Collecting and Reporting Passenger Origin-Destination Survey Statistics* (Appendix A to this section), and in *Passenger Origin-Destination Directives* issued by the Department's Bureau of Transportation Statistics (BTS), Office of Airline Information (OAI). Copies of these *Instructions* and *Directives* are provided to each large carrier participating in the Survey. Copies are also available from the Office of Airline Information, K-25, U.S. Department of Transportation, 1200 New Jersey Avenue, SE., Washington, DC 20590. Copies of these *Instructions* and *Directives* are available on the BTS Web page at (*http://www.bts.gov/programs/airline\_information/*).
 
 (b) Reports required by this section shall be submitted to the Bureau of Transportation Statistics in a format specified in accounting and reporting directives issued by the Bureau of Transportation Statistics' Director of Airline Information.

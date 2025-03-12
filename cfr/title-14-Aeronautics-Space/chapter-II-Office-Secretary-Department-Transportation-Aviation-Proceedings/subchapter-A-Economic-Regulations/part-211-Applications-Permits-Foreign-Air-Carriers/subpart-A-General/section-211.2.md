@@ -1,5 +1,7 @@
 ##### § 211.2 Applicability. #####
 
+Link to an amendment published at 84 FR 15925, Apr. 16, 2019.
+
 (a) Except as provided in paragraph (b) of this section, this part applies to all foreign air carriers seeking initial foreign air carrier permits or the transfer, renewal, or amendment of an existing foreign air carrier permit.
 
 (b) Canadian charter air taxi operators, foreign indirect air carriers of property, and foreign charter operators are not required to submit applications under this part. Instead, Canadian charter air taxi operators shall register under part 294 of this chapter, foreign indirect air carriers of property shall register under part 297 of this chapter, and foreign charter operators shall register under subpart F of part 380 of this chapter.

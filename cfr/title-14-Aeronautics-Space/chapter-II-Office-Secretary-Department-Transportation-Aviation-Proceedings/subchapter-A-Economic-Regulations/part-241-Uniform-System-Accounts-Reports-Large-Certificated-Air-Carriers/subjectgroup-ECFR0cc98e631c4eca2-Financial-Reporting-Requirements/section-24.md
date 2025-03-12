@@ -1,6 +1,6 @@
 ##### Section 24 Profit and Loss Elements #####
 
-Schedule P-1.1 - Statement of Operations
+Link to an amendment published at 84 FR 15932, Apr. 16, 2019.Schedule P-1.1 - Statement of Operations
 
 (a) This schedule shall be filed semiannually by Group I air carriers with annual operating revenues below $20 million. Data reported on this schedule shall be for the overall or system operations of the air carrier.
 

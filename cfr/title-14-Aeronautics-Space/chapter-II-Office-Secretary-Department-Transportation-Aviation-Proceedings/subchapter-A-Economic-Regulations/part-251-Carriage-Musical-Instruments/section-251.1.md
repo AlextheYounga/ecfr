@@ -1,5 +1,7 @@
 ##### § 251.1 Definitions. #####
 
+Link to an amendment published at 84 FR 15932, Apr. 16, 2019.
+
 As used in this part:
 
 *Certificated air carrier* means a U.S. carrier holding a certificate issued under 49 U.S.C. 41102 to conduct passenger service or holding an exemption to conduct passenger operations under 49 U.S.C. 40109.

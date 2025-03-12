@@ -1,5 +1,7 @@
 ##### § 204.2 Definitions. #####
 
+Link to an amendment published at 84 FR 15924, April 16, 2019.
+
 As used in this part:
 
 (a) *All-cargo air carrier or section 41103 carrier* means an air carrier holding an all-cargo air transportation certificate issued under section 41103 of the Statute authorizing the transportation by aircraft in interstate air transportation of only property or only mail, or both.

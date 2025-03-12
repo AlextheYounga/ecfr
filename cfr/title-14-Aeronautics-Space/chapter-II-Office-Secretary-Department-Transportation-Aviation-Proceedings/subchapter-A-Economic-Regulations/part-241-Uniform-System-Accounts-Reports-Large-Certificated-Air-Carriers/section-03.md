@@ -1,5 +1,7 @@
 ##### Section 03 Definitions for Purposes of This System of Accounts and Reports #####
 
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.
+
 *Account, clearing.* An account used as a medium for the temporary accumulation of costs that are redistributed to appropriate applicable accounts.
 
 *Acquisition, date of.* The date on which the title to owned property or equipment (or the right to use or control the reassignment of leased property or equipment) passes to the air carrier.

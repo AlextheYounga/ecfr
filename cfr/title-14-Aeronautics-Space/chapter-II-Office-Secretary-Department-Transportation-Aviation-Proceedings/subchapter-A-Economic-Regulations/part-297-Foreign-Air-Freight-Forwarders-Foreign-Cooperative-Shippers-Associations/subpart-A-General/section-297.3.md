@@ -1,5 +1,7 @@
 ##### § 297.3 Definitions. #####
 
+Link to an amendment published at 84 FR 15934, Apr. 16, 2019.
+
 For purpose of this part:
 
 (a) *Foreign air freight forwarder* means a foreign indirect air carrier that is responsible for the transportation of property from the point of receipt to point of destination, and utilizes for the whole or any part of such transportation the services of a direct air carrier or its agent, of another foreign indirect cargo air carrier as defined in part 296 of this chapter.

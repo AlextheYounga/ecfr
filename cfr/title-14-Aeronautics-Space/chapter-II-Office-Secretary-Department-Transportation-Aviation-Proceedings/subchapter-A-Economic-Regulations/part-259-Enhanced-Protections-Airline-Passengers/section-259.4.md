@@ -1,5 +1,7 @@
 ##### § 259.4 Contingency Plan for Lengthy Tarmac Delays. #####
 
+Link to an amendment published at 84 FR 15933, Apr. 16, 2019.
+
 (a) *Adoption of Plan.* Each covered carrier shall adopt a Contingency Plan for Lengthy Tarmac Delays for its scheduled and public charter flights at each U.S. large hub airport, medium hub airport, small hub airport and non-hub airport at which it operates or markets such air service and shall adhere to its plan's terms.
 
 (b) *Contents of Plan.* Each Contingency Plan for Lengthy Tarmac Delays shall include, at a minimum, the following:

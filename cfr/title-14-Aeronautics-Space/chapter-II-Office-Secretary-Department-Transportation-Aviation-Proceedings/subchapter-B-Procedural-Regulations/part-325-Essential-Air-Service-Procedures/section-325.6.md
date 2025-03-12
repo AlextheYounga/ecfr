@@ -1,5 +1,7 @@
 ##### § 325.6 Periodic reviews. #####
 
+Link to an amendment published at 84 FR 15938, Apr. 16, 2019.
+
 (a) The Department will start a periodic review of essential air service within 1 year of the date of the previous determination of essential air service for eligible points receiving subsidized service, within 2 years of the date of the previous determination for eligible points in Alaska, and within 3 years of the date of the previous determination for eligible points without subsidized air service.
 
 (b) The review shall be conducted in accordance with the procedures in §§ 325.4, 325.5 and 325.7.

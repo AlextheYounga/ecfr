@@ -1,6 +1,6 @@
 ##### Section 12 Objective Classification - Operating Revenues and Expenses #####
 
-00 General Instructions.
+Link to an amendment published at 84 FR 15931, Apr. 16, 2019.00 General Instructions.
 
 (a) Basic objective accounts, applicable to all air carrier groups, are established for recording all revenue and expense elements. These basic accounts are in certain areas subdivided to provide greater detail for indicated air carrier groups.
 

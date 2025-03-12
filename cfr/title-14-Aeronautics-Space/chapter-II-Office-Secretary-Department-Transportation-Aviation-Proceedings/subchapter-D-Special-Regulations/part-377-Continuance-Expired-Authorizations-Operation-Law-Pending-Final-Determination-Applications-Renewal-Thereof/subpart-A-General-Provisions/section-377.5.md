@@ -1,5 +1,7 @@
 ##### § 377.5 Procedure to obtain Board interpretation. #####
 
+Link to an amendment published at 84 FR 15940, Apr. 16, 2019.
+
 (a) The Board will determine upon written request by the holder of a temporary authorization or by any competitively affected air carrier or foreign air carrier, or upon its own initiative, whether the temporary authorization is a “license with reference to an activity of a continuing nature” within the meaning of 5 U.S.C. 558(c).
 
 (b) A written request for such a Board determination shall be filed at least 60 days before the deadline set forth in § 377.10 for a timely renewal application.

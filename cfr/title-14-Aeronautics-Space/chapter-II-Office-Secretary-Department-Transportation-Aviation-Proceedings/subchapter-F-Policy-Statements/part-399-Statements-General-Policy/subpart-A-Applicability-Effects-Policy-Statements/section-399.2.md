@@ -1,5 +1,7 @@
 ##### § 399.2 Exclusions. #####
 
+Link to an amendment published at 84 FR 15947, Apr. 16, 2019.
+
 The following types of policies are generally not included in this part:
 
 (a) Policies relating solely to the internal management of the Board;
