@@ -82,28 +82,4 @@ When we review a Governor's request for major disaster assistance under the Staf
 
 (6) *Disaster related unemployment.* The number of disaster survivors who lost work or became unemployed due to a disaster and who do not qualify for standard unemployment insurance may indicate a heightened need for supplemental Federal assistance. This usually includes the self-employed, service industry workers, and seasonal workers such as those employed in tourism, fishing, or agriculture industries. The State may provide an estimate of the number of disaster survivors impacted under this paragraph as well as information regarding major employers affected.
 
-Average Amount of Assistance per Disaster
-
-[July 1994 to July 1999]
-
-|                                                           |Small states  <br/>(under 2 million pop.)|Medium states  <br/>(2-10 million pop.)|Large states  <br/>(over 10 million pop.)|
-|-----------------------------------------------------------|-----------------------------------------|---------------------------------------|-----------------------------------------|
-|           Average Population (1990 census data)           |                1,000,057                |               4,713,548               |               15,522,791                |
-|     Number of Disaster Housing Applications Approved      |                  1,507                  |                 2,747                 |                  4,679                  |
-|     Number of Homes Estimated Major Damage/Destroyed      |                   173                   |                  582                  |                   801                   |
-|            Dollar Amount of Housing Assistance            |              $2.8 million               |             $4.6 million              |              $9.5 million               |
-|Number of Individual and Family Grant Applications Approved|                   495                   |                 1,377                 |                  2,071                  |
-|  Dollar Amount of Individual and Family Grant Assistance  |               1.1 million               |              2.9 million              |               4.6 million               |
-|         Disaster Housing/IFG Combined Assistance          |               3.9 million               |              7.5 million              |              14.1 million               |
-
-Note:
-
-The high 3 and low 3 disasters, based on Disaster Housing Applications, are not considered in the averages. Number of Damaged/Destroyed Homes is estimated based on the number of owner-occupants who qualify for Eligible Emergency Rental Resources. Data source is FEMA's National Processing Service Centers. Data are only available from July 1994 to the present.
-
-*Small Size States (under 2 million population, listed in order of 1990 population):* Wyoming, Alaska, Vermont, District of Columbia, North Dakota, Delaware, South Dakota, Montana, Rhode Island, Idaho, Hawaii, New Hampshire, Nevada, Maine, New Mexico, Nebraska, Utah, West Virginia. U.S. Virgin Islands and all Pacific Island dependencies.
-
-*Medium Size States (2-10 million population, listed in order of 1990 population):* Arkansas, Kansas, Mississippi, Iowa, Oregon, Oklahoma, Connecticut, Colorado, South Carolina, Arizona, Kentucky, Alabama, Louisiana, Minnesota, Maryland, Washington, Tennessee, Wisconsin, Missouri, Indiana, Massachusetts, Virginia, Georgia, North Carolina, New Jersey, Michigan. Puerto Rico.
-
-*Large Size States (over 10 million population, listed in order of 1990 population):* Ohio, Illinois, Pennsylvania, Florida, Texas, New York, California.
-
-[64 FR 47698, Sept. 1, 1999, as amended at 84 FR 10663, Mar. 21, 2019]
+[64 FR 47698, Sept. 1, 1999, as amended at 84 FR 10663, Mar. 21, 2019; 85 FR 2039, Jan. 14, 2020]

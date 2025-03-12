@@ -1,10 +1,8 @@
 ##### § 715.2 Definitions used in this part. #####
 
-Link to an amendment published at 84 FR 53307, Oct. 7, 2019.
-
 As used in this part:
 
-(a) *Balance sheet audit* refers to the examination of a credit union's assets, liabilities, and equity under generally accepted auditing standards (GAAS) by an independent public accountant for the purpose of opining on the fairness of the presentation on the balance sheet. Credit unions required to file call reports consistent with GAAP should ensure the audited balance sheet is likewise prepared on a GAAP basis. The opinion under this type of engagement would not address the fairness of the presentation of the credit union's income statement, statement of changes in equity (including comprehensive income), or statement of cash flows.
+(a) [Reserved]
 
 (b) *Compensated person* refers to any accounting/auditing professional, excluding a credit union employee, who is compensated for performing more than one supervisory committee audit and/or verification of members' accounts per calendar year.
 
@@ -22,7 +20,7 @@ As used in this part:
 
 (i) *Reportable conditions* refers to a matter coming to the attention of the independent, compensated auditor which, in his or her judgment, represents a significant deficiency in the design or operation of the internal control structure of the credit union, which could adversely affect its ability to record, process, summarize, and report financial data consistent with the representations of management in the financial statements.
 
-(j) *Report on Examination of Internal Control over Call Reporting* refers to an engagement in which an independent, licensed, certified public accountant or public accountant, consistent with attestation standards, examines and reports on management's written assertions concerning the effectiveness of its internal control over financial reporting in its most recently filed semiannual or year-end Call Report, with a concentration in high risk areas. For credit unions, such high risk areas most often include: lending activity; investing activity; and cash handling and deposit-taking activity.
+(j) [Reserved]
 
 (k) *State-licensed person* refers to a certified public accountant or public accountant who is licensed by the State or jurisdiction where the credit union is principally located to perform accounting or auditing services for that credit union.
 
@@ -32,4 +30,4 @@ As used in this part:
 
 (n) *Working papers* refers to the principal record, in any form, of the work performed by the auditor and/or supervisory committee to support its findings and/or conclusions concerning significant matters. Examples include the written record of procedures applied, tests performed, information obtained, and pertinent conclusions reached in the engagement, proprietary audit programs, analyses, memoranda, letters of confirmation and representation, abstracts of credit union documents, reviewer's notes, if retained, and schedules or commentaries prepared or obtained in the course of the engagement.
 
-[64 FR 41035, July 29, 1999, as amended at 66 FR 65624, Dec. 20, 2001]
+[64 FR 41035, July 29, 1999, as amended at 66 FR 65624, Dec. 20, 2001; 84 FR 53307, Oct. 7, 2019]

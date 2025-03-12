@@ -1,5 +1,7 @@
 ##### § 57.6000 Definitions. #####
 
+Link to an amendment published at 85 FR 2027, Jan. 14, 2020.
+
 The following definitions apply in this subpart.
 
 *Blasting agent.* Any substance classified as a blasting agent by the Department of Transportation in 49 CFR 173.114a(a). This document is available at any MSHA Metal and Nonmetal Safety and Health district office.

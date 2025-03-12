@@ -1,5 +1,7 @@
 ##### § 57.6407 Circuit testing. #####
 
+Link to an amendment published at 85 FR 2027, Jan. 14, 2020.
+
 A blasting galvanometer or other instrument designed for testing blasting circuits shall be used to test the following:
 
 (a) In surface operations -
