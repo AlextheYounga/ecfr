@@ -8,6 +8,6 @@
 
 (2) [Reserved]
 
-(c) *Related conditions of use.* See §§ 526.464a and 526.464b of this chapter.
+(c) *Related conditions of use.* See §§ 526.464 and 526.465 of this chapter.
 
-[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020]
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020; 86 FR 13188, Mar. 8, 2021]

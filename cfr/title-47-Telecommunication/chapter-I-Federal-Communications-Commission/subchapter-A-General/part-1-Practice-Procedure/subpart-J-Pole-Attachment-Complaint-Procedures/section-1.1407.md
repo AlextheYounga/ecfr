@@ -10,4 +10,4 @@
 
 (b) If the Commission determines that access to a pole, duct, conduit, or right-of-way has been unlawfully denied or delayed, it may order that access be permitted within a specified time frame and in accordance with specified rates, terms, and conditions.
 
-[83 FR 44841,Sept. 4, 2018]
+[83 FR 44841, Sept. 4, 2018]

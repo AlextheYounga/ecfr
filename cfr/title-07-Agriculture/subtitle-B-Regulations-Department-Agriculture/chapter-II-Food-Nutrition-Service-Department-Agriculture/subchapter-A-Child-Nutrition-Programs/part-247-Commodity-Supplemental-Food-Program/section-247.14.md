@@ -6,7 +6,7 @@
 
 (2) Medical assistance provided under Title XIX of the Social Security Act (42 U.S.C. 1396 *et seq.*), including medical assistance provided to a qualified Medicare beneficiary (42 U.S.C. 1395(p) and 1396d(5)); and
 
-(3) The Supplemental Nutrition Assistance(7 U.S.C. 2011 *et seq.*).
+(3) The Supplemental Nutrition Assistance Program (7 U.S.C. 2011 *et seq.*).
 
 (b) *Is the value of CSFP benefits counted as income or resources for any other public assistance programs?* No. The value of benefits received in CSFP may not be considered as income or resources of participants or their families for any purpose under Federal, State, or local laws, including laws relating to taxation and public assistance programs.
 

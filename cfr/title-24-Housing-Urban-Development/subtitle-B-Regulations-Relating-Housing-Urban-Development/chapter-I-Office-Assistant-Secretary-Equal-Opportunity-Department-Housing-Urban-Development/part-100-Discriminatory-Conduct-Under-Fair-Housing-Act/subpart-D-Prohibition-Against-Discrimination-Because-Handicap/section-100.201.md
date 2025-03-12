@@ -1,16 +1,14 @@
 ##### § 100.201 Definitions. #####
 
-Link to an amendment published at 85 FR 78962, Dec. 8, 2020.
-
 As used in this subpart:
 
-*Accessible,* when used with respect to the public and common use areas of a building containing covered multifamily dwellings, means that the public or common use areas of the building can be approached, entered, and used by individuals with physical disabilities. The phrase “*readily accessible to and usable by*” is synonymous with accessible. A public or common use area that complies with the appropriate requirements of ICC/ANSI A117.1-2003 (incorporated by reference at § 100.201a), ICC/ANSI A117.1-1998 (incorporated by reference at § 100.201a), CABO/ANSI A117.1-1992 (incorporated by reference at § 100.201a), ANSI A117.1-1986 (incorporated by reference at § 100.201a), or a comparable standard is deemed “*accessible*” within the meaning of this paragraph.
+*Accessible* when used with respect to the public and common use areas of a building containing covered multifamily dwellings, means that the public or common use areas of the building can be approached, entered, and used by individuals with physical disabilities. The phrase “*readily accessible to and usable by*” is synonymous with accessible. A public or common use area that complies with the appropriate requirements of ICC A117.1-2009, ICC/ANSI A117.1-2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986 (all incorporated by reference, see § 100.201a) or a comparable standard is deemed “*accessible*” within the meaning of this paragraph.
 
-*Accessible route* means a continuous unobstructed path connecting accessible elements and spaces in a building or within a site that can be negotiated by a person with a severe disability using a wheelchair and that is also safe for and usable by people with other disabilities. Interior accessible routes may include corridors, floors, ramps, elevators, and lifts. Exterior accessible routes may include parking access aisles, curb ramps, walks, ramps, and lifts. A route that complies with the appropriate requirements of ICC/ANSI A117.1-2003 (incorporated by reference at § 100.201a), ICC/ANSI A117.1-1998 (incorporated by reference at § 100.201a), CABO/ANSI A117.1-1992, ANSI A117.1-1986 (incorporated by reference at § 100.201a), or a comparable standard is an “*accessible route.*”
+*Accessible route* means a continuous unobstructed path connecting accessible elements and spaces in a building or within a site that can be negotiated by a person with a severe disability using a wheelchair and that is also safe for and usable by people with other disabilities. Interior accessible routes may include corridors, floors, ramps, elevators, and lifts. Exterior accessible routes may include parking access aisles, curb ramps, walks, ramps, and lifts. A route that complies with the appropriate requirements of ICC A117.1-2009, ICC/ANSI A117.1-2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986 (all incorporated by reference, see § 100.201a) or a comparable standard is an “*accessible route*” within the meaning of this paragraph.
 
 *Building* means a structure, facility or portion thereof that contains or serves one or more dwelling units.
 
-*Building entrance on an accessible route* means an accessible entrance to a building that is connected by an accessible route to public transportation stops, to accessible parking and passenger loading zones, or to public streets or sidewalks, if available. A building entrance that complies with ICC/ANSI A117.1-2003 (incorporated by reference at § 100.201a), ICC/ANSI A117.1-1998 (incorporated by reference at § 100.201a), CABO/ANSI A117.1-1992 (incorporated by reference at § 100.201a), ANSI A117.1-1986 (incorporated by reference at § 100.201a), or a comparable standard complies with the requirements of this paragraph.
+“*Building entrance on an accessible route*” means an accessible entrance to a building that is connected by an accessible route to public transportation stops, to accessible parking and passenger loading zones, or to public streets or sidewalks, if available. A building entrance that complies with ICC A117.1-2009, ICC/ANSI A117.1-2003, ICC/ANSI A117.1-1998, CABO/ANSI A117.1-1992, ANSI A117.1-1986 (all incorporated by reference, see § 100.201a) or a comparable standard is a “*building entrance on an accessible route*” within the meaning of this paragraph.
 
 *Common use areas* means rooms, spaces or elements inside or outside of a building that are made available for the use of residents of a building or the guests thereof. These areas include hallways, lounges, lobbies, laundry rooms, refuse rooms, mail rooms, recreational areas and passageways among and between buildings.
 
@@ -58,4 +56,4 @@ As used in this subpart:
 
 *Site* means a parcel of land bounded by a property line or a designated portion of a public right or way.
 
-[54 FR 3283, Jan. 23, 1989, as amended at 69 FR 18803, Apr. 9, 2004; 73 FR 63615, Oct. 24, 2008]
+[54 FR 3283, Jan. 23, 1989, as amended at 69 FR 18803, Apr. 9, 2004; 73 FR 63615, Oct. 24, 2008; 85 FR 78962, Dec. 8, 2020]

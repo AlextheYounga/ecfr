@@ -14,4 +14,6 @@
 
 (iv) Muscle: 0.1 ppm.
 
-(c) *Related conditions of use.* See §§ 522.1044a, 520.1044b, 520.1044c, and 524.1044e of this chapter.
+(c) *Related conditions of use.* See §§ 520.1044a, 520.1044b, 520.1044c, 522.1044, 524.1044e, and 529.1044b of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 86 FR 13188, Mar. 8, 2021]

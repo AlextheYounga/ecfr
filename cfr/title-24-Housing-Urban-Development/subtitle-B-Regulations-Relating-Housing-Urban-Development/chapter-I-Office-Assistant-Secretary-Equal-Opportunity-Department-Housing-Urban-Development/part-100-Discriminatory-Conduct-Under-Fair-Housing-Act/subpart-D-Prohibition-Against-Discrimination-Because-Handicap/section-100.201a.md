@@ -1,19 +1,21 @@
 ##### § 100.201a Incorporation by reference. #####
 
-Link to an amendment published at 85 FR 78962, Dec. 8, 2020.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at Department of Housing and Urban Development, 451 Seventh Street SW, Room 5240, Washington, DC 20410-0001, telephone number 202-708-2333, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.* The phone numbers included in this section may also be reached by persons who are deaf or hard of hearing, or have speech disabilities, by dialing 711 via teletype (TTY).
 
-(a) The following standards are incorporated by reference into 24 CFR part 100 pursuant to 5 U.S.C. 552(a) and 1 CFR part 51, as though set forth in full. The incorporation by reference of these standards has been approved by the Director of the Federal Register. The effect of compliance with these standards is as stated in 24 CFR 100.205.
+(b) American National Standards Institute (ANSI), 25 West 43rd Street, 4th Floor, New York, NY 10036, 212.642.4900, *info@ansi.org. https://webstore.ansi.org.*
 
-(b) The addresses of organizations from which the referenced standards can be obtained appear below:
+(1) ANSI A117.1-1986, American National Standard for Buildings and Facilities: Providing Accessibility and Usability for Physically Handicapped People, 1986 edition, into §§ 100.201 and 100.205.
 
-(1) American National Standard: Accessible and Usable Buildings and Facilities, 2003 edition, (ICC/ANSI A117.1-2003), may be obtained from the International Code Council, 500 New Jersey Avenue, NW., 6th Floor, Washington, DC 20001-2070, telephone number 1-888-422-7233, *http://www.iccsafe.org/e/category.html.*
+(2) [Reserved]
 
-(2) American National Standard: Accessible and Usable Buildings and Facilities, 1998 edition, (ICC/ANSI A117.1-1998), may be obtained from the International Code Council, 500 New Jersey Avenue, NW., 6th Floor, Washington, DC 20001-2070, telephone number 1-888-422-7233, *http://www.iccsafe.org/e/category.html.*
+(c) International Code Council (ICC), 500 New Jersey Avenue NW, 6th Floor, Washington, DC 20001-2070, telephone number 1-888-422-7233, *http://www.iccsafe.org/e/category.html.*
 
-(3) American National Standard: Accessible and Usable Buildings and Facilities, 1992 edition, (CABO/ANSI A117.1-1992), may be obtained from the International Code Council, 500 New Jersey Avenue, NW., 6th Floor, Washington, DC 20001-2070, telephone number 1-888-422-7233, *http://www.iccsafe.org/e/category.html.*
+(1) CABO/ANSI A117.1-1992, American National Standard: Accessible and Usable Buildings and Facilities, 1992 edition, into §§ 100.201 and 100.205.
 
-(4) American National Standard for Buildings and Facilities: Providing Accessibility and Usability for Physically Handicapped People, 1986 edition, (ANSI A117.1-1986) may be obtained from Global Engineering Documents, 15 Inverness Way East, Englewood, CO 80112, telephone number 1-800-854-7179, *global.ihs.com.*
+(2) ICC/ANSI A117.1-1998, American National Standard: Accessible and Usable Buildings and Facilities, 1998 edition, into §§ 100.201 and 100.205.
 
-(c) The 1986, 1992, 1998, and 2003 editions of ANSI A117.1 may be inspected at the Department of Housing and Urban Development, 451 Seventh Street, SW., Room 5240, Washington, DC 20410-0001, telephone number 202-708-2333.
+(3) ICC/ANSI A117.1-2003, American National Standard: Accessible and Usable Buildings and Facilities, 2003 edition, into §§ 100.201 and 100.205.
 
-[73 FR 63615, Oct. 24, 2008]
+(4) ICC A117.1-2009, Accessible and Usable Buildings and Facilities, 2009 edition, approved October 20, 2010, into §§ 100.201 and 100.205.
+
+[85 FR 78962, Dec. 8, 2020]

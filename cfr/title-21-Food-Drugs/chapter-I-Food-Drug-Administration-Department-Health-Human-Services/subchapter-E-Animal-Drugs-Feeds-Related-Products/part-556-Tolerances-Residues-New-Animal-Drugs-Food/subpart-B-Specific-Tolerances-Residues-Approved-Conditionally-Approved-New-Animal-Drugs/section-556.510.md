@@ -16,6 +16,6 @@
 
 (5) *Turkeys.* Edible tissues (excluding eggs): 0.01 ppm.
 
-(c) *Related conditions of use.* See §§ 520.1696a, 522.1696a, 522.1696b, 526.1696a, 526.1696b, 526.1696c, and 526.1696d of this chapter.
+(c) *Related conditions of use.* See §§ 520.1696a, 522.1696a, 522.1696b, 526.1696, 526.1697, and 526.1698 of this chapter.
 
-[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020]
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020; 86 FR 13188, Mar. 8, 2021]

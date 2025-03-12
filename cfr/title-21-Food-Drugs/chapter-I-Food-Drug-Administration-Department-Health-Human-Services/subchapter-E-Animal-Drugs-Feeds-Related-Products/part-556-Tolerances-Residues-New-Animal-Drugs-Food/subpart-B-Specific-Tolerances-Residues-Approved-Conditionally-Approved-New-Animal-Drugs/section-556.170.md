@@ -16,4 +16,6 @@
 
 (ii) Other edible tissues (excluding milk): 2 ppm.
 
-(c) *Related conditions of use.* See §§ 520.543 and 558.195 of this chapter.
+(c) *Related conditions of use.* See §§ 520.534 and 558.195 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 86 FR 13188, Mar. 8, 2021]

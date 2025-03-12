@@ -182,15 +182,17 @@
 
 (i) Chlortetracycline as in § 558.128.
 
-(ii) Lincomycin as in § 558.325.
+(ii) Chlortetracycline and sulfamethazine as in § 558.140.
 
-(iii) Melengestrol as in § 558.342.
+(iii) Lincomycin as in § 558.325.
 
-(iv) Oxytetracycline as in § 558.450.
+(iv) Melengestrol as in § 558.342.
 
-(v) Tylosin alone or in combination with melengestrol acetate as in § 558.625.
+(v) Oxytetracycline as in § 558.450.
 
-(vi) Virginiamycin as in § 558.635.
+(vi) Tylosin alone or in combination with melengestrol acetate as in § 558.625.
+
+(vii) Virginiamycin as in § 558.635.
 
 [41 FR 44382, Oct. 8, 1976]Editorial Notes:1. For Federal Register citations affecting § 558.311, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 

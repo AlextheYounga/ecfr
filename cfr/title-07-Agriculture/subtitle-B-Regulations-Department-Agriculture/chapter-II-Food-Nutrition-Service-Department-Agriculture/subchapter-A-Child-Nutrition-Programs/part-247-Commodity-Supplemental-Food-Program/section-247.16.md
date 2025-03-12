@@ -1,6 +1,6 @@
 ##### § 247.16 Certification period. #####
 
-(a) *How long is the certification period?* (1) *Minimum certification period.* The State agency must establish certification periods that are not less than one year but not more than three years in duration. If the State agency chooses to establish a certification period that exceeds one year, the State must first receive approval from FNS by submitting a State Plan amendment. FNS shall approve State requests for a certification period exceeding one year on the condition that, on an annual basis, local agencies do the following:
+(a) *How long is the certification period*—(1) *Minimum certification period.* The State agency must establish certification periods that are not less than one year but not more than three years in duration. If the State agency chooses to establish a certification period that exceeds one year, the State must first receive approval from FNS by submitting a State Plan amendment. FNS shall approve State requests for a certification period exceeding one year on the condition that, on an annual basis, local agencies do the following:
 
 (i) Verify the address and continued interest of the participant; and
 

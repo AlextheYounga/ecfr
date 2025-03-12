@@ -8,9 +8,9 @@
 
 (ii) *Children 2 through 5 years old.* Children two through five years old must be served either unflavored low-fat (1 percent) or unflavored fat-free (skim) milk.
 
-*(iii) Children 6 years old and older.* Children 6 years old and older must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk.
+(iii) *Children 6 years old and older.* Children 6 years old and older must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk.
 
-*(iv) Adults.* Adults must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six ounces (weight) or3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
+(iv) *Adults.* Adults must be served unflavored low-fat (1 percent), unflavored fat-free (skim), or flavored fat-free (skim) milk. Six ounces (weight) or3/4 cup (volume) of yogurt may be used to fulfill the equivalent of 8 ounces of fluid milk once per day. Yogurt may be counted as either a fluid milk substitute or as a meat alternate, but not as both in the same meal.
 
 (2) *Vegetables.* A serving may contain fresh, frozen, or canned vegetables, dry beans and peas (legumes), or vegetable juice. All vegetables are credited based on their volume as served, except that 1 cup of leafy greens counts as1/2 cup of vegetables.
 

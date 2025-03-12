@@ -1,7 +1,5 @@
 ##### § 210.6-03 Special rules of general application to registered investment companies and business development companies. #####
 
-Link to an amendment published at 86 FR 807, Jan. 6, 2021.
-
 The financial statements filed for persons to which §§ 210.6-01 through 210.6-11 are applicable shall be prepared in accordance with the following special rules in addition to the general rules in §§ 210.1-01 to 210.4-10 (Articles 1, 2, 3, and 4). Where the requirements of a special rule differ from those prescribed in a general rule, the requirements of the special rule shall be met.
 
 (a) *Content of financial statements.* The financial statements shall be prepared in accordance with the requirements of this part (Regulation S-X) notwithstanding any provision of the articles of incorporation, trust indenture or other governing legal instruments specifying certain accounting procedures inconsistent with those required in §§ 210.6-01 through 210.6-11.
@@ -22,7 +20,7 @@ The financial statements filed for persons to which §§ 210.6-01 through 210.6-
 
 (ii) Not eliminated in consolidation.
 
-(d) *Valuation of investments.* The balance sheets of registered investment companies, other than issuers of face-amount certificates, and business development companies, shall reflect all investments at value, with the aggregate cost of each category of investment reported under §§ 210.6-04.1, 6-04.2, 6-04.3 and 6-04.9 or the aggregate cost of each category of investment reported under § 210.6-05.1 shown parenthetically. State in a note the methods used in determining value of investments. As required by section 28(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-28(b)), *qualified* assets of face-amount certificate companies shall be valued in accordance with certain provisions of the Code of the District of Columbia. For guidance as to valuation of securities, see §§ 404.03 to 404.05 of the Codification of Financial Reporting Policies.
+(d) *Valuation of investments.* The balance sheets of registered investment companies, other than issuers of face-amount certificates, and business development companies, shall reflect all investments at value, with the aggregate cost of each category of investment reported under § 210.6-04 subsection 1, 2, 3, and 9 or the aggregate cost of each category of investment reported under § 210.6-05 subsection 1 shown parenthetically. State in a note the methods used in determining the value of investments. As required by section 28(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-28(b)), qualified assets of face-amount certificate companies shall be valued in accordance with certain provisions of the Code of the District of Columbia.
 
 (e) *Qualified assets.* State in a note the nature of any investments and other assets maintained or required to be maintained, by applicable legal instruments, in respect of outstanding face-amount certificates. If the nature of the qualifying assets and amount thereof are not subject to the provisions of section 28 of the Investment Company Act of 1940 (15 U.S.C. 80a-28), a statement to that effect shall be made.
 
@@ -88,4 +86,4 @@ Note to paragraphs (h)(2)(i) and (ii): The information required by paragraphs (h
 
 (3) A general description of the effects of swing pricing.
 
-[81 FR 82010, Nov. 18, 2016, as amended at 81 FR 82137, Nov. 18, 2016; 83 FR 50202, Oct. 4, 2018; 85 FR 54064, Aug. 31, 2020]
+[81 FR 82010, Nov. 18, 2016, as amended at 81 FR 82137, Nov. 18, 2016; 83 FR 50202, Oct. 4, 2018; 85 FR 54064, Aug. 31, 2020; 86 FR 807, Jan. 6, 2021]

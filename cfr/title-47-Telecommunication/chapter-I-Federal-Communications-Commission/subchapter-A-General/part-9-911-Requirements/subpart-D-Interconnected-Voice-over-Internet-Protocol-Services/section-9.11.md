@@ -1,6 +1,6 @@
 ##### § 9.11 E911 Service. #####
 
-(a) *Before January 6, 2021, for fixed services and before January 6, 2022, for non-fixed services.* - (1) *Scope.* The following requirements of paragraphs (a)(1) through (5) of this section are only applicable to providers of interconnected VoIP services, except those interconnected VoIP services that fulfill each paragraphs (1)(i) through (iii) of the definition of interconnected VoIP service in § 9.3, and also permit users generally to terminate calls to the public switched telephone network. Further, the following requirements apply only to 911 calls placed by users whose Registered Location is in a geographic area served by a Wireline E911 Network (which, as defined in § 9.3, includes a selective router).
+(a) *Before January 6, 2021, for fixed services and before January 6, 2022, for non-fixed services*—(1) *Scope.* The following requirements of paragraphs (a)(1) through (5) of this section are only applicable to providers of interconnected VoIP services, except those interconnected VoIP services that fulfill each paragraphs (1)(i) through (iii) of the definition of interconnected VoIP service in § 9.3, and also permit users generally to terminate calls to the public switched telephone network. Further, the following requirements apply only to 911 calls placed by users whose Registered Location is in a geographic area served by a Wireline E911 Network (which, as defined in § 9.3, includes a selective router).
 
 (2) *E911 Service.* As of November 28, 2005:
 
@@ -26,15 +26,15 @@
 
 (ii) Obtain and keep a record of affirmative acknowledgement by every subscriber, both new and existing, of having received and understood the advisory described in paragraph (a)(5)(i) of this section; and
 
-(iii) Either -
+(iii) Either—
 
 (A) Distribute to its existing subscribers, and to each new subscriber prior to the initiation of that subscriber's service, warning stickers or other appropriate labels warning subscribers if E911 service may be limited or not available and instructing the subscriber to place them on or near the equipment used in conjunction with the interconnected VoIP service; or
 
 (B) Notify existing subscribers, and each new subscriber prior to the initiation of that subscriber's service, by other conspicuous means if E911 service may be limited or not available.
 
-(b) *On or after January 6, 2021, for fixed services, and on or after January 6, 2022,**for non-fixed services* - (1) *Scope.* The following requirements of paragraphs (b)(1) through (5) of this section are only applicable to all providers of interconnected VoIP services. Further, these requirements apply only to 911 calls placed by users whose dispatchable location is in a geographic area served by a Wireline E911 Network (which, as defined in § 9.3, includes a selective router).
+(b) *On or after January 6, 2021, for fixed services, and on or after January 6, 2022,**for non-fixed services*—(1) *Scope.* The following requirements of paragraphs (b)(1) through (5) of this section are only applicable to all providers of interconnected VoIP services. Further, these requirements apply only to 911 calls placed by users whose dispatchable location is in a geographic area served by a Wireline E911 Network (which, as defined in § 9.3, includes a selective router).
 
-(2) *E911 Service* - (i) Interconnected VoIP service providers must, as a condition of providing service to a consumer, provide that consumer with E911 service as described in this section;
+(2) *E911 Service*—(i) Interconnected VoIP service providers must, as a condition of providing service to a consumer, provide that consumer with E911 service as described in this section;
 
 (ii) Interconnected VoIP service providers must transmit the following to the PSAP, designated statewide default answering point, or appropriate local emergency authority that serves the caller's dispatchable location and that has been designated for telecommunications carriers pursuant to § 9.4:
 

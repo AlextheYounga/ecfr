@@ -18,4 +18,4 @@
 
 (d) *May CSFP foods be used in cooking demonstrations?* Yes. The State or local agency, or another agency with which it has signed an agreement, may use CSFP foods to conduct cooking demonstrations as part of the nutrition education provided to program participants, but not for other purposes.
 
-[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014; 85 FR 68721, Oct. 30, 2020]
+[70 FR 47063, Aug. 11, 2005, as amended at 79 FR 38751, July 9, 2014; 85 FR 68722, Oct. 30, 2020]

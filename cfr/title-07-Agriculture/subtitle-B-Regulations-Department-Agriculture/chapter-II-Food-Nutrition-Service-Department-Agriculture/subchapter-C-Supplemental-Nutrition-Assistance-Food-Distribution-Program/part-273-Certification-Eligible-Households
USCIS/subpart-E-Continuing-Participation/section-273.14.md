@@ -1,10 +1,8 @@
 ##### § 273.14 Recertification. #####
 
-Link to an amendment published at 86 FR 410, Jan. 5, 2021.
-
 (a) *General.* No household may participate beyond the expiration of the certification period assigned in accordance with § 273.10(f) without a determination of eligibility for a new period. The State agency must establish procedures for notifying households of expiration dates, providing application forms, scheduling interviews, and recertifying eligible households prior to the expiration of certification periods. Households must apply for recertification and comply with interview and verification requirements.
 
-(b) *Recertification process* - (1) *Notice of expiration.* (i) The State agency shall provide households certified for one month or certified in the second month of a two-month certification period a notice of expiration (NOE) at the time of certification. The State agency shall provide other households the NOE before the first day of the last month of the certification period, but not before the first day of the next-to-the-last month. Jointly processed PA and GA households need not receive a separate SNAP notice if they are recertified for SNAP benefits at the same time as their PA or GA redetermination.
+(b) *Recertification process*—(1) *Notice of expiration.* (i) The State agency shall provide households certified for one month or certified in the second month of a two-month certification period a notice of expiration (NOE) at the time of certification. The State agency shall provide other households the NOE before the first day of the last month of the certification period, but not before the first day of the next-to-the-last month. Jointly processed PA and GA households need not receive a separate SNAP notice if they are recertified for SNAP benefits at the same time as their PA or GA redetermination.
 
 (ii) Each State agency shall develop a NOE. The NOE must contain the following:
 
@@ -40,6 +38,18 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 
 (4) *Verification.* Information provided by the household shall be verified in accordance with § 273.2(f)(8)(i). The State agency shall provide the household a notice of required verification as provided in § 273.2(c)(5) and notify the household of the date by which the verification requirements must be satisfied. The household must be allowed a minimum of 10 days to provide required verification information. Any household whose eligibility is not determined by the end of its current certification period due to the time period allowed for submitting any missing verification shall receive an opportunity to participate, if eligible, within 5 working days after the household submits the missing verification and benefits cannot be prorated.
 
+(5) *Advise of available employment and training services.* (i) At the time of recertification, the State agency shall advise household members subject to the work requirements of § 273.7(a) who reside in households meeting the criteria in paragraph (b)(5)(ii) of this section of available employment and training services. This shall include, at a minimum, providing a list of available employment and training services electronically or in printed form to the household.
+
+(ii) The State agency requirement in paragraph (b)(5)(i) of this section only applies to households that meet all of the following criteria, as most recently reported by the household:
+
+(A) Contain a household member subject to the work requirements of § 273.7(a);
+
+(B) Contain at least one adult;
+
+(C) Contain no elderly or disabled individuals; and
+
+(D) Have no earned income.
+
 (c) *Timely application for recertification.* (1) Households reporting required changes in circumstances that are certified for one month or certified in the second month of a two-month certification period shall have 15 days from the date the NOE is received to file a timely application for recertification.
 
 (2) Other households reporting required changes in circumstances that submit applications by the 15th day of the last month of the certification period shall be considered to have made a timely application for recertification.
@@ -60,4 +70,4 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 
 (f) *Expedited service.* A State agency is not required to apply the expedited service provisions of § 273.2(i) at recertification if the household applies for recertification before the end of its current certification period.
 
-[Amdt. 364, 61 FR 54318, Oct. 17, 1996, as amended by Amdt. 388, 65 FR 70210, Nov. 21, 2000; 82 FR 2042, Jan. 6, 2017]
+[Amdt. 364, 61 FR 54318, Oct. 17, 1996, as amended by Amdt. 388, 65 FR 70210, Nov. 21, 2000; 82 FR 2042, Jan. 6, 2017; 86 FR 410, Jan. 5, 2021]

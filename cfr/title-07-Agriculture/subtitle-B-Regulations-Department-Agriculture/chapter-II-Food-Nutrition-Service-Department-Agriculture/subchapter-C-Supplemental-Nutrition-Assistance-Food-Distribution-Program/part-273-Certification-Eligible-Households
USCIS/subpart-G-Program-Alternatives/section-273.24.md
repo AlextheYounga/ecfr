@@ -1,7 +1,5 @@
 ##### § 273.24 Time limit for able-bodied adults. #####
 
-Link to an amendment published at 86 FR 410, Jan. 5, 2021.
-
 (a) *Definitions.* For purposes of the SNAP time limit, the terms below have the following meanings:
 
 (1) *Fulfilling the work requirement* means:
@@ -26,17 +24,15 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 
 (3) *Work Program* means:
 
-(i) A program under the Workforce Investment Act (Pub. L. 105-220);
+(i) A program under title 1 of the Workforce Innovation and Opportunity Act (WIOA) (Pub. L.113-128);
 
-(ii) A program under section 236 of the Trade Act of 1974 (19 U.S.C. 2296); or
+(ii) A program under section 236 of the Trade Act of 1974 (19 U.S.C. 2296);
 
-(iii) An employment and training program, other than a job search or job search training program, operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under § 273.7(f). Such a program may contain job search or job search training as a subsidiary component as long as such component is less than half the requirement.
+(iii) An employment and training program operated or supervised by a State or political subdivision of a State agency that meets standards approved by the Chief Executive Office, including a SNAP E&T program under § 2 73.7(e) excluding any job search, supervised job search, or job search training program. However, a program under this clause may contain job search, supervised job search, or job search training as subsidiary activities as long as such activity is less than half the requirement. Participation in job search, supervised job search, or job search training as subsidiary activities that make up less than half the requirement counts for purposes of fulfilling the work requirement under paragraph (a)(1)(ii) of this section.
 
-(4) *Workfare program* means:
+(iv) A program of employment and training for veterans operated by the Department of Labor or the Department of Veterans Affairs. For the purpose of this paragraph, any employment and training program of the Department of Labor or Veterans Affairs that serves veterans shall be an approved work program; or
 
-(i) A program under § 273.7(m); or
-
-(ii) A comparable program established by a State or political subdivision of a State.
+(v) A workforce partnership under § 273.7(n)
 
 (b) *General Rule.* Individuals are not eligible to participate in SNAP as a member of any household if the individual received SNAP benefits for more than three countable months during any three-year period, except that individuals may be eligible for up to three additional countable months in accordance with paragraph (e) of this section.
 
@@ -46,11 +42,13 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 
 (ii) Covered by a waiver under paragraph (f) of this section;
 
-(iii) Fulfilling the work requirement as defined in paragraph (a)(1) of this section; or
+(iii) Fulfilling the work requirement as defined in paragraph (a)(1) of this section;
 
-(iv) Receiving benefits that are prorated in accordance with § 273.10.
+(iv) Receiving benefits that are prorated in accordance with § 273.10; or
 
-(2) *Good cause.* As determined by the State agency, if an individual would have worked an average of 20 hours per week but missed some work for good cause, the individual shall be considered to have met the work requirement if the absence from work is temporary and the individual retains his or her job. Good cause shall include circumstances beyond the individual's control, such as, but not limited to, illness, illness of another household member requiring the presence of the member, a household emergency, or the unavailability of transportation.
+(v) In the month of notification from the State agency of a provider determination in accordance with § 273.7(c)(18)(i).
+
+(2) *Good cause.* As determined by the State agency, if an individual would have fulfilled the work requirement as defined in paragraph (a)(1) of this section, but missed some hours for good cause, the individual shall be considered to have fulfilled the work requirement if the absence from work, the work program, or the workfare program is temporary. Good cause shall include circumstances beyond the individual's control, such as, but not limited to, illness, illness of another household member requiring the presence of the member, a household emergency, or the unavailability of transportation. In addition, if the State agency grants an individual good cause under § 273.7(i) for failure or refusal to meet the mandatory E&T requirement, that good cause determination confers good cause under this paragraph, except in the case of § 273.7(i)(4), without the need for a separate good cause determination under this paragraph. Good cause granted under § 273.7(i)(4) only provides good cause to ABAWDs for failure or refusal to participate in a mandatory SNAP E&T program, and does not confer good cause for failure to fulfill the work requirement in paragraph (a)(1) of this section.
 
 (3) *Measuring the three-year period.* The State agency may measure and track the three-year period as it deems appropriate. The State agency may use either a “fixed” or “rolling” clock. If the State agency chooses to switch tracking methods it must inform FNS in writing. With respect to a State, the three-year period:
 
@@ -65,6 +63,8 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 (6) *Verification.* Verification shall be in accordance with § 273.2(f)(1) and (f)(8).
 
 (7) *Reporting.* A change in work hours below 20 hours per week, averaged monthly, is a reportable change in accordance with § 273.12(a)(1)(viii). Regardless of the type of reporting system the State agency assigns to potential ABAWDs, the State agency must adhere to the statutory requirements of time-limited benefits for individuals who are subject to the work requirement. The State agency may opt to consider work performed in a job that was not reported according to the requirements of § 273.12 “work.”
+
+(8) The State agency shall inform all ABAWDs of the ABAWD work requirement and time limit both in writing and orally in accordance with § 273.7(c)(1)(ii) and (iii).
 
 (c) *Exceptions.* The time limit does not apply to an individual if he or she is:
 
@@ -146,7 +146,7 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 
 (ii) [Reserved]
 
-(g) *15 percent exemptions.* (1) For the purpose of establishing the 15 percent exemption for each State agency, the following terms are defined:
+(g) *Discretionary exemptions.* (1) For the purpose of establishing the discretionary exemptions for each State agency, the following terms are defined:
 
 (i) *Caseload* means the average monthly number of individuals receiving SNAP benefits during the 12-month period ending the preceding June 30.
 
@@ -162,7 +162,7 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 
 (2) Subject to paragraphs (h) and (i) of this section, a State agency may provide an exemption from the 3-month time limit of paragraph (b) of this section for covered individuals. Exemptions do not count towards a State agency's allocation if they are provided to an individual who is otherwise exempt from the time limit during that month.
 
-(3) For each fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by FNS, based on FY 1996 quality control data and other factors FNS deems appropriate, and adjusted by FNS to reflect changes in:
+(3) For each fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by FNS, based on FY 1996 quality control data and other factors FNS deems appropriate, and adjusted by FNS to reflect changes in:
 
 (i) The State agency's caseload; and
 
@@ -184,4 +184,4 @@ Link to an amendment published at 86 FR 410, Jan. 5, 2021.
 
 (j) *Other Program rules.* Nothing in this section will make an individual eligible for SNAP benefits if the individual is not otherwise eligible for benefits under the other provisions of this part and the Food and Nutrition Act of 2008.
 
-[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019; 84 FR 66811, Dec. 5, 2020]
+[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019; 84 FR 66811, Dec. 5, 2020; 86 FR 410, Jan. 5, 2021]

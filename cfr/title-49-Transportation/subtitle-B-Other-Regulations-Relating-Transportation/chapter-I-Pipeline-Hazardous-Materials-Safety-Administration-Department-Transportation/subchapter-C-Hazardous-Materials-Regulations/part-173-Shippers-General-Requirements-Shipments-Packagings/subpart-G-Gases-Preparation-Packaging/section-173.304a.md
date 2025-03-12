@@ -85,7 +85,7 @@ Note 13 to paragraph (a)(2): For a refrigerant or dispersant gas that is nontoxi
 
 (c) *Verification of content in cylinder.* Except as noted in paragraph (d)(4) of this section, the amount of liquefied gas filled into a cylinder must be by weight or, when the gas is lower in pressure than required for liquefaction, a pressure-temperature chart for the specific gas may be used to ensure that the service pressure at 55 °C (131 °F) will not exceed5/4 of the service pressure at 21 °C (70 °F). The weight of liquefied gas filled into the cylinder also must be checked, after disconnecting the cylinder from the filling line, by the use of an accurate scale.
 
-(d) Requirements for liquefied petroleum gas. (1) Filling density limits are as follows:
+(d) *Requirements for liquefied petroleum gas.* (1) Filling density limits are as follows:
 
 |Minimum specific gravity of liquid material at 60 °F|Maximum the filling density in percent of the water-weight capacity of the cylinder|
 |----------------------------------------------------|-----------------------------------------------------------------------------------|

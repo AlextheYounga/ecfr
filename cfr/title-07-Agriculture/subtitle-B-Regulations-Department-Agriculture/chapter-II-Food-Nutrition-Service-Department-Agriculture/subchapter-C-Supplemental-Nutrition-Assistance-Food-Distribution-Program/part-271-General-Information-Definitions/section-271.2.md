@@ -1,7 +1,5 @@
 ##### § 271.2 Definitions. #####
 
-Link to an amendment published at 86 FR 398, Jan. 5, 2021.
-
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
 *Active case* means a household which was certified prior to, or during, the sample month and issued SNAP benefits for the sample month.
@@ -90,15 +88,19 @@ Link to an amendment published at 86 FR 398, Jan. 5, 2021.
 
 (9) In the case of homeless SNAP households, meals prepared by a restaurant which contracts with an appropriate State agency to serve meals to homeless persons at concessional (low or reduced) prices.
 
-*Employment and training (E&T) component* a work experience, work training or job search program, as described in section 6(d)(4)(B)(iv) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(2)(4)(B)) designed to help SNAP recipients move promptly into unsubsidized employment.
+*Employment and Training (E&T) component* a work experience, work training, supervised job search or other program described in section 6(d)(4)(B)(i) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)(B)(i)) designed to help SNAP participants move promptly into unsubsidized employment.
 
-*Employment and training (E&T) mandatory participant* a supplemental nutrition assistance program applicant or participant who is required to work register under 7 U.S.C. 2014(d)(1) or (2) and who the State determines should not be exempted from participation in an employment and training program.
+*Employment and Training (E&T) mandatory participant* a supplemental nutrition assistance program applicant or participant who is required to work register under 7 U.S.C. 2015(d)(1) or (2) and who the State determines should not be exempted from participation in an employment and training program and is required to participate in E&T.
 
-*Employment and training (E&T) program* a program operated by each State agency consisting of one or more work, training, education or job search components.
+*Employment and Training (E&T) participant* means an individual who meets the definition of a mandatory or voluntary E&T participant.
+
+*Employment and Training (E&T) program* means a program operated by each State agency consisting of case management and one or more E&T components.
+
+*Employment and Training (E&T) voluntary participant* means a supplemental nutrition assistance program applicant or participant who volunteers to participate in an employment and training (E&T) program.
 
 *Error* for active cases results when a determination is made by a quality control reviewer that a household which received SNAP benefits during the sample month is ineligible or received an incorrect allotment. Thus, errors in active cases involve dollar loss to either the participant or the government. For negative cases, an “error” means that the reviewer determines that the decision to deny, suspend, or terminate a household was incorrect.
 
-*Exempted* for purposes of § 273.7 excluding paragraphs (a) and (b) - this term refers to a work registered person or persons excused by the State, under the conditions in § 273.7(e) from participation in an employment and training program.
+*Exempted* for purposes of § 273.7 excluding paragraphs (a) and (b)—this term refers to a work registered person or persons excused by the State, under the conditions in § 273.7(e) from participation in an employment and training program.
 
 *Exercises governmental jurisdiction* means the active exercise of the legislative, executive or judicial powers of government by an Indian tribal organization.
 
@@ -195,8 +197,6 @@ Link to an amendment published at 86 FR 398, Jan. 5, 2021.
 *Payment error rate* means the sum of the point estimates of two component error rates: an overpayment error rate and an underpayment error rate. Each component error rate is the value of allotments either overissued or underissued expressed as a percentage of all allotments issued to completed active sample cases, excluding those cases processed by SSA personnel or participating in certain demonstration projects designated by FNS.
 
 *Personal identification number (PIN)* means a numeric code selected by or assigned to a household and used to verify the identity of an EBT cardholder when performing an EBT transaction.
-
-*Placed in an employment and training (E&T) program* means a State agency may count a person as “placed” in an E&T program when the individual commences a component.
 
 *Point-of-Sale (POS) terminal* means a range of devices deployed at authorized retail food stores for redeeming benefits by initiating electronic debits and credits of household EBT accounts and retailer bank accounts.
 
