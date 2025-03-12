@@ -127,57 +127,50 @@ Section III. Non-Section 503 Forfeitures That Are Affected by the Downward Adjus
 
 Unlike section 503 of the Act, which establishes maximum forfeiture amounts, other sections of the Act, with two exceptions, state prescribed amounts of forfeitures for violations of the relevant section. These amounts are then subject to mitigation or remission under section 504 of the Act. One exception is section 223 of the Act, which provides a maximum forfeiture per day. For convenience, the Commission will treat this amount as if it were a prescribed base amount, subject to downward adjustments. The other exception is section 227(e) of the Act, which provides maximum forfeitures per violation, and for continuing violations. The Commission will apply the factors set forth in section 503(b)(2)(E) of the Act and section III of this note to determine the amount of the penalty to assess in any particular situation. The following amounts are adjusted for inflation pursuant to the Debt Collection Improvement Act of 1996 (DCIA), 28 U.S.C. 2461. These non-section 503 forfeitures may be adjusted downward using the “Downward Adjustment Criteria” shown for section 503 forfeitures in section II of this note.
 
-|                  Violation                  |                                                Statutory amount  <br/>($)                                                 |
-|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|  Sec. 202(c) Common Carrier Discrimination  |                                                    $11,548, $577/day.                                                     |
-|     Sec. 203(e) Common Carrier Tariffs      |                                                    $11,548, $577/day.                                                     |
-|  Sec. 205(b) Common Carrier Prescriptions   |                                                         $23,095.                                                          |
-| Sec. 214(d) Common Carrier Line Extensions  |                                                        $2,309/day.                                                        |
-|     Sec. 219(b) Common Carrier Reports      |                                                        $2,309/day.                                                        |
-|Sec. 220(d) Common Carrier Records & Accounts|                                                       $11,548/day.                                                        |
-|           Sec. 223(b) Dial-a-Porn           |                                                       $119,668/day.                                                       |
-|      Sec. 227(e) Caller Identification      |$11,052/violation. $33,156/day for each day of continuing violation, up to $1,105,241 for any single act or failure to act.|
-|       Sec. 364(a) Forfeitures (Ships)       |                                                    $9,623/day (owner).                                                    |
-|       Sec. 364(b) Forfeitures (Ships)       |                                                  $1,925 (vessel master).                                                  |
-|       Sec. 386(a) Forfeitures (Ships)       |                                                    $9,623/day (owner).                                                    |
-|       Sec. 386(b) Forfeitures (Ships)       |                                                  $1,925 (vessel master).                                                  |
-|             Sec. 634 Cable EEO              |                                                         $853/day.                                                         |
+|                  Violation                  |                                       Statutory amount  <br/>($)                                       |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|  Sec. 202(c) Common Carrier Discrimination  |                                           $11,784, $589/day.                                           |
+|     Sec. 203(e) Common Carrier Tariffs      |                                           $11,784, $589/day.                                           |
+|  Sec. 205(b) Common Carrier Prescriptions   |                                                $23,566.                                                |
+| Sec. 214(d) Common Carrier Line Extensions  |                                              $2,356/day.                                               |
+|     Sec. 219(b) Common Carrier Reports      |                                              $2,356/day.                                               |
+|Sec. 220(d) Common Carrier Records & Accounts|                                              $11,784/day.                                              |
+|           Sec. 223(b) Dial-a-Porn           |                                             $122,110/day.                                              |
+|      Sec. 227(e) Caller Identification      |                                           $11,278/violation.                                           |
+|                                             |$33,833/day for each day of continuing violation, up to $1,127,799 for any single act or failure to act.|
+|       Sec. 364(a) Forfeitures (Ships)       |                                          $9,819/day (owner).                                           |
+|       Sec. 364(b) Forfeitures (Ships)       |                                        $1,964 (vessel master).                                         |
+|       Sec. 386(a) Forfeitures (Ships)       |                                          $9,819/day (owner).                                           |
+|       Sec. 386(b) Forfeitures (Ships)       |                                        $1,964 (vessel master).                                         |
+|             Sec. 634 Cable EEO              |                                               $870/day.                                                |
 
 (9) *Inflation adjustments to the maximum forfeiture amount.* (i) Pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Public Law 114-74 (129 Stat. 599-600), which amends the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, Public Law 101-410 (104 Stat. 890; 28 U.S.C. 2461 note), the statutory maximum amount of a forfeiture penalty assessed under this section shall be adjusted annually for inflation by order published no later than January 15 each year. Annual inflation adjustments will be based on the percentage (if any) by which the CPI-U for October preceding the date of the adjustment exceeds the prior year's CPI-U for October. The Office of Management and Budget (OMB) will issue adjustment rate guidance no later than December 15 each year to adjust for inflation in the CPI-U as of the most recent October.
 
 (ii) The application of the annual inflation adjustment required by the foregoing Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 results in the following adjusted statutory maximum forfeitures authorized by the Communications Act:
 
-|  U.S. Code citation  |Maximum  <br/>penalty after  <br/>2017 inflation  <br/>adjustment|
-|----------------------|-----------------------------------------------------------------|
-|   47 U.S.C. 202(c)   |                             $11,548                             |
-|                      |                               577                               |
-|   47 U.S.C. 203(e)   |                             11,548                              |
-|                      |                               577                               |
-|   47 U.S.C. 205(b)   |                             23,095                              |
-|   47 U.S.C. 214(d)   |                              2,309                              |
-|   47 U.S.C. 219(b)   |                              2,309                              |
-|   47 U.S.C. 220(d)   |                             11,548                              |
-|   47 U.S.C. 223(b)   |                             119,668                             |
-|   47 U.S.C. 227(e)   |                             11,052                              |
-|                      |                             33,156                              |
-|                      |                            1,105,241                            |
-|   47 U.S.C. 362(a)   |                              9,623                              |
-|   47 U.S.C. 362(b)   |                              1,925                              |
-|   47 U.S.C. 386(a)   |                              9,623                              |
-|   47 U.S.C. 386(b)   |                              1,925                              |
-|47 U.S.C. 503(b)(2)(A)|                             48,114                              |
-|                      |                             481,147                             |
-|47 U.S.C. 503(b)(2)(B)|                             192,459                             |
-|                      |                            1,924,589                            |
-|47 U.S.C. 503(b)(2)(C)|                             389,305                             |
-|                      |                            3,593,585                            |
-|47 U.S.C. 503(b)(2)(D)|                             19,246                              |
-|                      |                             144,344                             |
-|47 U.S.C. 503(b)(2)(F)|                             110,524                             |
-|                      |                            1,105,241                            |
-|   47 U.S.C. 507(a)   |                              1,906                              |
-|   47 U.S.C. 507(b)   |                               279                               |
-|    47 U.S.C. 554     |                               853                               |
+|  U.S. Code citation  |Maximum  <br/>penalty after 2018 inflation  <br/>adjustment|
+|----------------------|-----------------------------------------------------------|
+|   47 U.S.C. 202(c)   |                     $11,784  <br/>589                     |
+|   47 U.S.C. 203(e)   |                     11,784  <br/>589                      |
+|   47 U.S.C. 205(b)   |                          23,566                           |
+|   47 U.S.C. 214(d)   |                           2,356                           |
+|   47 U.S.C. 219(b)   |                           2,356                           |
+|   47 U.S.C. 220(d)   |                          11,784                           |
+|   47 U.S.C. 223(b)   |                          122,110                          |
+|   47 U.S.C. 227(e)   |                          11,278                           |
+|                      |                  33,833  <br/>1,127,799                   |
+|   47 U.S.C. 362(a)   |                           9,819                           |
+|   47 U.S.C. 362(b)   |                           1,964                           |
+|   47 U.S.C. 386(a)   |                           9,819                           |
+|   47 U.S.C. 386(b)   |                           1,964                           |
+|47 U.S.C. 503(b)(2)(A)|                   49,096  <br/>490,967                    |
+|47 U.S.C. 503(b)(2)(B)|                  196,387  <br/>1,963,870                  |
+|47 U.S.C. 503(b)(2)(C)|                  397,251  <br/>3,666,930                  |
+|47 U.S.C. 503(b)(2)(D)|                   19,639  <br/>147,290                    |
+|47 U.S.C. 503(b)(2)(F)|                  112,780  <br/>1,127,799                  |
+|   47 U.S.C. 507(a)   |                           1,945                           |
+|   47 U.S.C. 507(b)   |                            285                            |
+|    47 U.S.C. 554     |                            870                            |
 
 Note to paragraph (b)(9):
 
@@ -235,4 +228,4 @@ Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 
 
 (j) *Effective date.* Amendments to paragraph (b) of this section implementing Pub. L. No. 101-239 are effective December 19, 1989.
 
-[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017]
+[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018]

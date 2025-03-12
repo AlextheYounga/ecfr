@@ -12,6 +12,8 @@
 
 (iii) The state-specific modifier for Puerto Rico is 13 percent.
 
+(iv) For all geographic areas in Alaska except for the Aleutian Islands Area, the Commission will calculate a statewide per-acre value based on the average per-acre land and building values published in the NASS Census for the Kenai Peninsula Area and the Fairbanks Area. This statewide per-acre value will be reduced by the sum of the state-specific modifier and seven percent. The resulting adjusted statewide per-acre value will be applied to all projects located in Alaska, except for projects located in the Aleutian Island Area.
+
 (2) *Encumbrance factor.* The encumbrance factor is 50 percent.
 
 (3) *Rate of return.* The rate of return is 5.77 percent through payment year 2025. The rate of return will be adjusted every 10 years thereafter, and will be based on the 10-year average of the 30-year Treasury bond yield rate immediately preceding the applicable NASS Census. For example, for years 2026 through 2035, the rate of return will be based on the 10-year average (2012-2021) of the 30-year Treasury bond yield rate immediately preceding the 2022 NASS Census. If the 30-year Treasury bond yield rate is not available, the next longest term Treasury bond available should be used in its place.
@@ -22,4 +24,4 @@
 
 (e) The minimum annual charge for the use of Government lands under any license will be $25.
 
-[Order 774, 78 FR 5265, Jan. 25, 2013]
+[Order 774, 78 FR 5265, Jan. 25, 2013, as amended by Order 838, 83 FR 7, Jan. 2, 2018]
