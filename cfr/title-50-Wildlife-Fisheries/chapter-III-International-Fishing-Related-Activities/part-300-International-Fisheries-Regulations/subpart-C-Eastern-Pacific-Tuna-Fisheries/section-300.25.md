@@ -1,6 +1,6 @@
 ##### § 300.25 Fisheries management. #####
 
-Link to an amendment published at 87 FR 47942, Aug. 5, 2022.
+Link to an amendment published at 87 FR 47942, Aug. 5, 2022.Link to a correction published at 87 FR 48447, Aug. 9, 2022.
 
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on 0000 hours Coordinated Universal Time (UTC) January 1 and end either on 2400 hours UTC December 31 or when NMFS closes the fishery for a specific species.
 

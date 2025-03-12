@@ -26,7 +26,7 @@
 
 (4) [Reserved]
 
-(b) *Vessel owners or operators* - (1) *Fishing Vessel Trip Reports* - (1) *Fishing Vessel Trip Reports.* The owner or operator of any vessel issued a valid permit, or eligible to renew a limited access permit under this part must maintain on board the vessel, and submit, an accurate fishing log report for each fishing trip, regardless of species fished for or taken, by electronic means. This report must be entered into and submitted through a software application approved by NMFS. The reporting requirements specified in paragraph (b)(1)(i) of this section for an owner or operator of a vessel fishing for, possessing, or landing Atlantic chub mackerel are effective through December 31, 2020.
+(b) *Vessel owners or operators* - (1) *Fishing Vessel Trip Reports* - (1) *Fishing Vessel Trip Reports.* The owner or operator of any vessel issued a valid permit, or eligible to renew a limited access permit under this part must maintain on board the vessel, and submit, and accurate fishing log report for each fishing trip, regardless of species fished for or taken, by electronic means. This report must be entered into and submitted through a software application approved by NMFS.
 
 (i) *Vessel owners or operators.* With the exception of those vessel owners or operators fishing under a surfclam or ocean quahog permit, at least the following information as applicable and any other information required by the Regional Administrator must be provided:
 
@@ -198,4 +198,4 @@
 
 (h) *At-sea monitor/electronic monitoring reports.* Any at-sea monitor assigned to observe a sector trip and any third-party service provider analyzing data from electronic monitoring equipment deployed on a sector trip must submit reports on catch, discard, and other data elements specified by the Regional Administrator to NMFS, the sector manager, and monitoring contractor, as instructed by the Regional Administrator.
 
-[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 34968, July 3, 1996]Editorial Note:For Federal Register citations affecting § 648.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 87 FR 48448, Aug. 9, 2022, § 648.7 was amended by revising paragraph (b)(1), eff. Aug. 9, 2022 through Dec. 31, 2022.
