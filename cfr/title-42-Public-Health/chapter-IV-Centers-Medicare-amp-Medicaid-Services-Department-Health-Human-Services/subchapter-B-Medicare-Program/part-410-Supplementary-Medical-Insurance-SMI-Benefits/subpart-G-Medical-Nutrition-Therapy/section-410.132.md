@@ -1,5 +1,7 @@
 ##### § 410.132 Medical nutrition therapy. #####
 
+Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
+
 (a) *Conditions for coverage of MNT services.* Medicare Part B pays for MNT services provided by a registered dietitian or nutrition professional as defined in § 410.134 when the beneficiary is referred for the service by the treating physician. Except as provided at § 410.78, services covered consist of face-to-face nutritional assessments and interventions in accordance with nationally-accepted dietary or nutritional protocols.
 
 (b) *Limitations on coverage of MNT services.* (1) MNT services based on a diagnosis of renal disease as described in this subpart are not covered for beneficiaries receiving maintenance dialysis for which payment is made under section 1881 of the Act.

@@ -1,5 +1,7 @@
 ##### § 405.2462 Payment for RHC and FQHC services. #####
 
+Link to an amendment published at 86 FR 65660, Nov. 19, 2021.
+
 (a) *Payment to provider-based RHCs that are authorized to bill under the reasonable cost system.* A RHC that is authorized to bill under the reasonable cost system is paid in accordance with parts 405 and 413 of this subchapter, as applicable, if the RHC is -
 
 (1) An integral and subordinate part of a hospital, skilled nursing facility or home health agency participating in Medicare (that is, a provider of services); and

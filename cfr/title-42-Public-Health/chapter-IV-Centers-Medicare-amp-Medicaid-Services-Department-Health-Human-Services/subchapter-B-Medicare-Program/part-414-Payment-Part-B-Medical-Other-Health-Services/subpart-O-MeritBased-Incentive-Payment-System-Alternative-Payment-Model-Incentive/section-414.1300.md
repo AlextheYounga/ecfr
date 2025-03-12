@@ -1,5 +1,7 @@
 ##### § 414.1300 Basis and scope. #####
 
+Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
+
 (a) *Basis.* This subpart implements the following provisions of the Act:
 
 (1) Section 1833(z) - Incentive Payments for Participation in Eligible Alternative Payment Models.

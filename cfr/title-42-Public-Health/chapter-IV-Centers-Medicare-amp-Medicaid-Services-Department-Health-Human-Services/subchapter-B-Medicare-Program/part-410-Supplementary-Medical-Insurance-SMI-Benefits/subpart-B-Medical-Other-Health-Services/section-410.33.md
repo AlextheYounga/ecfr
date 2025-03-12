@@ -1,5 +1,7 @@
 ##### § 410.33 Independent diagnostic testing facility. #####
 
+Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
+
 (a) *General rule.* (1) Effective for diagnostic procedures performed on or after March 15, 1999, carriers will pay for diagnostic procedures under the physician fee schedule only when performed by a physician, a group practice of physicians, an approved supplier of portable x-ray services, a nurse practitioner, or a clinical nurse specialist when he or she performs a test he or she is authorized by the State to perform, or an independent diagnostic testing facility (IDTF). An IDTF may be a fixed location, a mobile entity, or an individual nonphysician practitioner. It is independent of a physician's office or hospital; however, these rules apply when an IDTF furnishes diagnostic procedures in a physician's office.
 
 (2) *Exceptions.* The following diagnostic tests that are payable under the physician fee schedule and furnished by a nonhospital testing entity are not required to be furnished in accordance with the criteria set forth in paragraphs (b) through (e) and (g) and (h) of this section.

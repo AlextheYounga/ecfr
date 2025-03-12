@@ -1,5 +1,7 @@
 ##### § 414.626 Data reporting by ground ambulance organizations. #####
 
+Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Data collection period* means, with respect to a year, the 12-month period that reflects the ground ambulance organization's annual accounting period.

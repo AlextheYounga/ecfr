@@ -1,5 +1,7 @@
 ##### § 425.116 Agreements with ACO participants and ACO providers/suppliers. #####
 
+Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
+
 (a) *ACO participant agreements.* For performance year 2017 and subsequent performance years, the ACO must have an ACO participant agreement with each ACO participant that complies with the following criteria:
 
 (1) The only parties to the agreement are the ACO and the ACO participant.

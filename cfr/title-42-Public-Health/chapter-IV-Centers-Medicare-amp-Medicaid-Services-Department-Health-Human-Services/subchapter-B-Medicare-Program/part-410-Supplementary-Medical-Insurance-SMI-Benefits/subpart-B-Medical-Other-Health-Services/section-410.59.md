@@ -1,5 +1,7 @@
 ##### § 410.59 Outpatient occupational therapy services: Conditions. #####
 
+Link to an amendment published at 86 FR 65664, Nov. 19, 2021.
+
 (a) *Basic rule.* Except as specified in paragraph (a)(3)(iii) of this section, Medicare Part B pays for outpatient occupational therapy services only if they are furnished by an individual meeting the qualifications in part 484 of this chapter for an occupational therapist or an appropriately supervised occupational therapy assistant but only under the following conditions:
 
 (1) They are furnished to a beneficiary while he or she is under the care of a physician who is a doctor of medicine, osteopathy, or podiatric medicine.

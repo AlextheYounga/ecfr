@@ -1,5 +1,7 @@
 ##### § 410.49 Cardiac rehabilitation program and intensive cardiac rehabilitation program: Conditions of coverage. #####
 
+Link to an amendment published at 86 FR 65663, Nov. 19, 2021.
+
 (a) *Definitions.* As used in this section:
 
 *Cardiac rehabilitation* (CR) means a physician-supervised program that furnishes physician prescribed exercise, cardiac risk factor modification, psychosocial assessment, and outcomes assessment.

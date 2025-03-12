@@ -1,5 +1,7 @@
 ##### § 414.802 Definitions. #####
 
+Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
+
 As used in this subpart, unless the context indicates otherwise -
 
 *Bona fide service fees* means fees paid by a manufacturer to an entity, that represent fair market value for a bona fide, itemized service actually performed on behalf of the manufacturer that the manufacturer would otherwise perform (or contract for) in the absence of the service arrangement, and that are not passed on in whole or in part to a client or customer of an entity, whether or not the entity takes title to the drug.

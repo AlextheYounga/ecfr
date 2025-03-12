@@ -1,5 +1,7 @@
 ##### § 410.47 Pulmonary rehabilitation program: Conditions for coverage. #####
 
+Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
+
 (a) *Definitions.* As used in this section:
 
 *Individualized treatment plan* means a written plan established, reviewed, and signed by a physician every 30 days, that describes all of the following:

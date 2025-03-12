@@ -1,5 +1,7 @@
 ##### § 425.512 Determining the ACO quality performance standard for performance years beginning on or after January 1, 2021. #####
 
+Link to an amendment published at 86 FR 65685, Nov. 19, 2021.
+
 (a) *Establishing a quality performance standard* - (1) *Overall standard.* The quality performance standard is the overall standard the ACO must meet in order to be eligible to receive shared savings for a performance year. An ACO will not qualify to share in savings in any year it fails to meet the quality performance standard.
 
 (2) *For performance year 2022 and subsequent performance years.* For the first performance year of an ACO's first agreement period under the Shared Savings Program, if the ACO meets the data completeness requirement at § 414.1340 of this chapter and case minimum requirement at § 414.1380 of this chapter on the three measures it is actively required to report and fields a CAHPS for MIPS survey via the APP, the ACO will meet the quality performance standard.

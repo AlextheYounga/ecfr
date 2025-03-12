@@ -1,5 +1,7 @@
 ##### § 405.2446 Scope of services. #####
 
+Link to an amendment published at 86 FR 65660, Nov. 19, 2021.
+
 (a) For purposes of this section, the terms rural health clinic and RHC when they appear in the cross references in paragraph (b) of this section also mean Federally qualified health centers and FQHCs.
 
 (b) FQHC services that are paid for under this subpart are outpatient services that include the following:

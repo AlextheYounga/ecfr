@@ -1,5 +1,7 @@
 ##### § 405.902 Definitions. #####
 
+Link to an amendment published at 86 FR 65659, Nov. 19, 2021.
+
 For the purposes of this subpart, the term -
 
 *ALJ* means an Administrative Law Judge of the Department of Health and Human Services.

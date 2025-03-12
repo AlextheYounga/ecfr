@@ -1,6 +1,6 @@
 ##### § 447.502 Definitions. #####
 
-Link to an amendment published at 85 FR 87101, Dec. 31, 2020.
+Link to an amendment published at 85 FR 87101, Dec. 31, 2020.Link to an amendment published at 86 FR 64825, Nov. 19, 2021.
 
 For the purpose of this subpart, the following definitions apply:
 

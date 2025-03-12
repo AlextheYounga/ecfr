@@ -1,5 +1,7 @@
 ##### § 414.1320 MIPS performance period. #####
 
+Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
+
 (a) For purposes of the 2019 MIPS payment year, the performance period for all performance categories and submission mechanisms except for the cost performance category and data for the quality performance category reported through the CMS Web Interface, for the CAHPS for MIPS survey, and for the all-cause hospital readmission measure, is a minimum of a continuous 90-day period within CY 2017, up to and including the full CY 2017 (January 1, 2017 through December 31, 2017). For purposes of the 2019 MIPS payment year, for data reported through the CMS Web Interface or the CAHPS for MIPS survey and administrative claims-based cost and quality measures, the performance period under MIPS is CY 2017 (January 1, 2017 through December 31, 2017).
 
 (b) For purposes of the 2020 MIPS payment year, the performance period for:

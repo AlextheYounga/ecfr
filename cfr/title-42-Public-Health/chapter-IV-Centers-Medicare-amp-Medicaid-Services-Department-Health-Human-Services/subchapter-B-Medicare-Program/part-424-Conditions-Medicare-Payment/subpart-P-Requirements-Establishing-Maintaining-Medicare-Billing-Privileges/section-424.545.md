@@ -1,5 +1,7 @@
 ##### § 424.545 Provider and supplier appeal rights. #####
 
+Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
+
 (a) *General.* A prospective provider or supplier that is denied enrollment in the Medicare program, or a provider or supplier whose Medicare enrollment has been revoked may appeal CMS' decision in accordance with part 498, subpart A of this chapter.
 
 (1) *Appeals resulting in the termination of a provider agreement.* (i) When revocation of billing privileges also results in the termination of a corresponding provider agreement, the provider may appeal CMS' decision in accordance with part 498 of this chapter with the final decision of the appeal applying to both the billing privileges and the provider agreement.

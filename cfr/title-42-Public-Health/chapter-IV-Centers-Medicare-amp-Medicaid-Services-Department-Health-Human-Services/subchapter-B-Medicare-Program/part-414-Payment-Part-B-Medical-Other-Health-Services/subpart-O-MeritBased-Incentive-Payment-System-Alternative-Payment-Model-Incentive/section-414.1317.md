@@ -1,5 +1,7 @@
 ##### § 414.1317 APM Entity groups. #####
 
+Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
+
 (a) *APM entity group determination.* The APM Entity group will be determined according to the requirements set forth in § 414.1425(b)(1).
 
 (1) In addition to the dates set forth in § 414.1425(b)(1), for purposes of MIPS, the APM Entity group includes an eligible clinician who is on a Participation List on December 31 of the MIPS performance period.

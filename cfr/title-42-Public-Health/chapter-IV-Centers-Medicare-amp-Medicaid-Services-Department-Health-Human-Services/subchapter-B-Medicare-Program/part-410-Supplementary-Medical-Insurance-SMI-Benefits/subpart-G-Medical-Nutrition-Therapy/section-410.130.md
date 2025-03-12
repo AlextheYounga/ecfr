@@ -1,5 +1,7 @@
 ##### § 410.130 Definitions. #####
 
+Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
+
 For the purposes of this subpart, the following definitions apply:
 
 *Chronic renal insufficiency* means the stage of renal disease associated with a reduction in renal function not severe enough to require dialysis or transplantation (glomerular filtration rate [GFR] 13-50 ml/min/1.73m2).

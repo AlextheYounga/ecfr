@@ -1,5 +1,7 @@
 ##### § 410.75 Nurse practitioners' services. #####
 
+Link to an amendment published at 86 FR 65665, Nov. 19, 2021.
+
 (a) *Definition.* As used in this section, the term “physician” means a doctor of medicine or osteopathy, as set forth in section 1861(r)(1) of the Act.
 
 (b) *Qualifications.* For Medicare Part B coverage of his or her services, a nurse practitioner must be a registered professional nurse who is authorized by the State in which the services are furnished to practice as a nurse practitioner in accordance with State law, and must meet one of the following:

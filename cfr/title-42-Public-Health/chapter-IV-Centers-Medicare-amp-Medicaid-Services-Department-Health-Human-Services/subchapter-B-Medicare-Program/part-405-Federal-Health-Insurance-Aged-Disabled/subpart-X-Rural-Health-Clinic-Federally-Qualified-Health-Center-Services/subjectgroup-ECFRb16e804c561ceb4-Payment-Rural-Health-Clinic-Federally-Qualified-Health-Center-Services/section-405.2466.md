@@ -1,5 +1,7 @@
 ##### § 405.2466 Annual reconciliation. #####
 
+Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
+
 (a) *General.* Payments made to RHCs or FQHCs that are authorized to bill under the reasonable cost system during a reporting period are subject to annual reconciliation to assure that those payments do not exceed or fall short of the allowable costs attributable to covered services furnished to Medicare beneficiaries during that period.
 
 (b) *Calculation of reconciliation for RHCs or FQHCs that are authorized to bill under the reasonable cost system.* (1) The total reimbursement amount due the RHC or FQHC for covered services furnished to Medicare beneficiaries is based on the report specified in § 405.2470(c)(2) and is calculated by the MAC as follows:

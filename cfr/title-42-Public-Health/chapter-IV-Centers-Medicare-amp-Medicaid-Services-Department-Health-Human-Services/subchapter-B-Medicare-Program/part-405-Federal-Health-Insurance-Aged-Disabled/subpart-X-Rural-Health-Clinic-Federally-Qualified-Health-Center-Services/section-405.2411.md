@@ -1,5 +1,7 @@
 ##### § 405.2411 Scope of benefits. #####
 
+Link to an amendment published at 86 FR 65660, Nov. 19, 2021.
+
 (a) The following RHC and FQHC services are reimbursable under this subpart:
 
 (1) The physicians' services specified in § 405.2412.

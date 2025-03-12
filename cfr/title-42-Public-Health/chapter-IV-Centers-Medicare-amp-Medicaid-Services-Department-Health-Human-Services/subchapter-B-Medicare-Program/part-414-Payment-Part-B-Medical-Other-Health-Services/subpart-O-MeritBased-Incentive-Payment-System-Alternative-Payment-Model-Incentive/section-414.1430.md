@@ -1,5 +1,7 @@
 ##### § 414.1430 Qualifying APM participant determination: QP and partial QP thresholds. #####
 
+Link to an amendment published at 86 FR 65681, Nov. 19, 2021.
+
 (a) *Medicare Option* - (1) *QP payment amount threshold.* The QP payment amount thresholds are the following values for the indicated payment years:
 
 (i) 2019 and 2020: 25 percent.

@@ -1,5 +1,7 @@
 ##### § 405.986 Good cause for reopening. #####
 
+Link to an amendment published at 86 FR 65660, Nov. 19, 2021.
+
 (a) *Establishing good cause.* Good cause may be established when -
 
 (1) There is new and material evidence that -

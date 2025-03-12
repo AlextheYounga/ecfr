@@ -1,5 +1,7 @@
 ##### § 414.1395 Public reporting. #####
 
+Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
+
 (a) *General.* (1) CMS posts on Physician Compare, in an easily understandable format, the following:
 
 (i) Information regarding the performance of MIPS eligible clinicians, including, but not limited to, final scores and performance category scores for each MIPS eligible clinician; and
