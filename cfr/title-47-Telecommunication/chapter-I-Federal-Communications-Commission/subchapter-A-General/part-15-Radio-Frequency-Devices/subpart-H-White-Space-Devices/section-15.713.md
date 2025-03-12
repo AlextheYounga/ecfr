@@ -1,10 +1,8 @@
 ##### § 15.713 White space database. #####
 
-Link to an amendment published at 86 FR 2295, Jan. 12, 2021.
-
 (a) *Purpose.* The white space database serves the following functions:
 
-(1) To determine and provide to a white space device, upon request, the available channels at the white space device's location in the TV bands, the 600 MHz duplex gap, the 600 MHz service band, and 608-614 MHz (channel 37). Available channels are determined based on the interference protection requirements in § 15.712. A database must provide fixed and Mode II personal portable white space devices with channel availability information that includes scheduled changes in channel availability over the course of the 48-hour period beginning at the time the white space devices make a recheck contact. In making lists of available channels available to a white space device, the white space database shall ensure that all communications and interactions between the white space database and the white space device include adequate security measures such that unauthorized parties cannot access or alter the white space database or the list of available channels sent to white space devices or otherwise affect the database system or white space devices in performing their intended functions or in providing adequate interference protections to authorized services operating in the TV bands, the 600 MHz duplex gap, the 600 MHz service band, and 608-614 MHz (channel 37). In addition, a white space database must also verify that the FCC identifier (FCC ID) of a device seeking access to its services is valid; under the requirement in this paragraph (a)(1) the white space database must also verify that the FCC ID of a Mode I device provided by a fixed or Mode II device is valid. A list of devices with valid FCC IDs and the FCC IDs of those devices is to be obtained from the Commission's Equipment Authorization System.
+(1) To determine and provide to a white space device, upon request, the available channels at the white space device's location in the TV bands, the 600 MHz duplex gap, the 600 MHz service band, and 608-614 MHz (channel 37). Available channels are determined based on the interference protection requirements in § 15.712. A database must provide fixed, mobile, and Mode II personal portable white space devices with channel availability information that includes scheduled changes in channel availability over the course of the 48-hour period beginning at the time the white space devices make a recheck contact. In making lists of available channels available to a white space device, the white space database shall ensure that all communications and interactions between the white space database and the white space device include adequate security measures such that unauthorized parties cannot access or alter the white space database or the list of available channels sent to white space devices or otherwise affect the database system or white space devices in performing their intended functions or in providing adequate interference protections to authorized services operating in the TV bands, the 600 MHz duplex gap, the 600 MHz service band, and 608-614 MHz (channel 37). In addition, a white space database must also verify that the FCC identifier (FCC ID) of a device seeking access to its services is valid; under the requirement in this paragraph (a)(1) the white space database must also verify that the FCC ID of a Mode I device provided by a fixed or Mode II device is valid. A list of devices with valid FCC IDs and the FCC IDs of those devices is to be obtained from the Commission's Equipment Authorization System.
 
 (2) To determine and provide to an unlicensed wireless microphone user, upon request, the available channels at the microphone user's location in the 600 MHz guard bands, the 600 MHz duplex gap, and the 600 MHz service band. Available channels are determined based on the interference protection requirements in § 15.236.
 
@@ -54,17 +52,19 @@ Link to an amendment published at 86 FR 2295, Jan. 12, 2021.
 
 (d) *Determination of available channels.* The white space database will determine the available channels at a location using the interference protection requirements of § 15.712, the location information supplied by a white space device, and the data for protected stations/locations in the database.
 
-(e) *White space device initialization.* (1) Fixed and Mode II white space devices must provide their location and required identifying information to the white space database in accordance with the provisions of this subpart.
+(e) *White space device initialization.*
 
-(2) Fixed and Mode II white space devices shall not transmit unless they receive, from the white space database, a list of available channels and may only transmit on the available channels on the list provided by the database.
+(1) Fixed, mobile, and Mode II white space devices must provide their location and required identifying information to the white space database in accordance with the provisions of this subpart.
 
-(3) Fixed white space devices register and receive a list of available channels from the database by connecting to the Internet, either directly or through another fixed white space device that has a direct connection to the Internet.
+(2) Fixed, mobile, and Mode II white space devices shall not transmit unless they receive, from the white space database, a list of available channels and may only transmit on the available channels on the list provided by the database.
+
+(3) Fixed and mobile white space devices register and receive a list of available channels from the database by connecting to the internet, either directly or through another fixed white space device that has a direct connection to the internet. Fixed devices must also register with the database in accordance with paragraph (g) of this section.
 
 (4) Mode II white space devices receive a list of available channels from the database by connecting to the Internet, either directly or through a fixed or Mode II white space device that has a direct connection to the Internet.
 
 (5) A fixed or Mode II white space device that provides a list of available channels to a Mode I device shall notify the database of the FCC identifier of such Mode I device and receive verification that that FCC identifier is valid before providing the list of available channels to the Mode I device.
 
-(6) A fixed device with an antenna height above ground that exceeds 30 meters or an antenna height above average terrain (HAAT) that exceeds 250 meters shall not be provided a list of available channels. The HAAT is to be calculated using computational software employing the methodology in § 73.684(d) of this chapter.
+(6) A fixed device with an antenna height above ground that exceeds 30 meters or an antenna height above average terrain (HAAT) that exceeds 250 meters generally, or 500 meters in less congested areas shall not be provided a list of available channels. The HAAT is to be calculated using computational software employing the methodology in § 73.684(d) of this chapter.
 
 (f) *Unlicensed wireless microphone database access.* Unlicensed wireless microphone users in the 600 MHz band may register with and access the database manually via a separate Internet connection. Wireless microphone users must register with and check a white space database to determine available channels prior to beginning operation at a given location. A user must re-check the database for available channels if it moves to another location.
 
@@ -92,7 +92,11 @@ Link to an amendment published at 86 FR 2295, Jan. 12, 2021.
 
 (ix) Phone number for the contact person.
 
-(h) *Mode II personal/portable device information to database.* A personal/portable device operating in Mode II shall provide the database its FCC Identifier (as required by § 2.926 of this chapter), serial number as assigned by the manufacturer, and the device's geographic coordinates (latitude and longitude (NAD 83)).
+(h) *Mode II personal/portable and mobile device information to database.* (1) A mobile device and a personal/portable device operating in Mode II shall provide the database its FCC Identifier (as required by § 2.926 of this chapter) and serial number as assigned by the manufacturer.
+
+(2) A personal/portable device operating in Mode II shall provide the database the device's geographic coordinates (latitude and longitude (NAD 83)).
+
+(3) A mobile device shall provide the database with the boundaries of the geo-fenced area in which it will operate. Alternatively, the boundaries of the geo-fenced area may be loaded from the database into the mobile device.
 
 (i) *Unlicensed wireless microphone registration.* Unlicensed wireless microphone users in the 600 MHz band shall register with the database prior to operation and include the following information:
 
@@ -240,8 +244,8 @@ Link to an amendment published at 86 FR 2295, Jan. 12, 2021.
 
 (1) Communications between white space devices and white space databases, and between different white space databases, shall be secure to prevent corruption or unauthorized interception of data. A white space database shall be protected from unauthorized data input or alteration of stored data.
 
-(2) A white space database shall verify that the FCC identification number supplied by a fixed or personal/portable white space device is for a certified device and may not provide service to an uncertified device.
+(2) A white space database shall verify that the FCC identification number supplied by a fixed, mobile, or personal/portable white space device is for a certified device and may not provide service to an uncertified device.
 
 (3) A white space database must not provide lists of available channels to uncertified white space devices for purposes of operation (it is acceptable for a white space database to distribute lists of available channels by means other than contact with white space devices to provide list of channels for operation). To implement this provision, a white space database administrator shall obtain a list of certified white space devices from the FCC Equipment Authorization System.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017; 84 FR 34799, July 19, 2019]
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017; 84 FR 34799, July 19, 2019; 86 FR 2295, Jan. 12, 2021]

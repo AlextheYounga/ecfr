@@ -1,5 +1,7 @@
 ##### § 37.1501 Chief compliance officer. #####
 
+Link to an amendment published at 86 FR 9248, Feb. 11, 2021.
+
 (a) *Definition of board of directors.* For purposes of this part, the term “board of directors” means the board of directors of a swap execution facility, or for those swap execution facilities whose organizational structure does not include a board of directors, a body performing a function similar to a board of directors.
 
 (b) *Designation and qualifications of chief compliance officer* - (1) *Chief compliance officer required.* Each swap execution facility shall establish the position of chief compliance officer and designate an individual to serve in that capacity.

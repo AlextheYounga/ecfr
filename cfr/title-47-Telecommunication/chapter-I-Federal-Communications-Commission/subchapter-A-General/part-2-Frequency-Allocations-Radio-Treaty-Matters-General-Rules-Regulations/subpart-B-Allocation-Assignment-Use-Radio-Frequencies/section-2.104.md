@@ -100,8 +100,6 @@
 
 (7) In certain cases, the names of countries appearing in the footnotes have been simplified in order to shorten the text.
 
-Figure 1 to § 2.104 - Map![](/graphics/er31ja00.000.gif)
-
 (8) The international footnotes shown in the International Table are applicable only to the relationships between the United States and other countries (unless a reference to an international footnote has been added to the United States Table of Frequency Allocations).
 
-[65 FR 4636, Jan. 31, 2000, as amended at 70 FR 46586, Aug. 10, 2005; 75 FR 62933, Oct. 13, 2010; 85 FR 38633, June 26, 2020]
+Figure 1 to § 2.104—Map![](/graphics/er31ja00.000.gif)[65 FR 4636, Jan. 31, 2000, as amended at 70 FR 46586, Aug. 10, 2005; 75 FR 62933, Oct. 13, 2010; 85 FR 38633, June 26, 2020]

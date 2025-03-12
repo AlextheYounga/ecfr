@@ -1,5 +1,7 @@
 ##### § 37.205 Audit trail. #####
 
+Link to an amendment published at 86 FR 9247, Feb. 11, 2021.
+
 A swap execution facility shall establish procedures to capture and retain information that may be used in establishing whether rule violations have occurred.
 
 (a) *Audit trail required.* A swap execution facility shall capture and retain all audit trail data necessary to detect, investigate, and prevent customer and market abuses. Such data shall be sufficient to reconstruct all indications of interest, requests for quotes, orders, and trades within a reasonable period of time and to provide evidence of any violations of the rules of the swap execution facility. An acceptable audit trail shall also permit the swap execution facility to track a customer order from the time of receipt through fill, allocation, or other disposition, and shall include both order and trade data.

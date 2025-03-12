@@ -1,5 +1,7 @@
 ##### § 249.31 Determining maturity. #####
 
+Link to an amendment published at 86 FR 9212, Feb. 11, 2021.
+
 (a) For purposes of calculating its liquidity coverage ratio and the components thereof under this subpart, a Board-regulated institution shall assume an asset or transaction matures:
 
 (1) With respect to an instrument or transaction subject to § 249.32, on the earliest possible contractual maturity date or the earliest possible date the transaction could occur, taking into account any option that could accelerate the maturity date or the date of the transaction as follows:

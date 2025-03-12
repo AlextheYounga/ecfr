@@ -1,8 +1,6 @@
 ##### § 75.305 Payment. #####
 
-Link to an amendment published at 86 FR 2278, Jan. 12, 2021.
-
-(a)(1) For states, payments are governed by Treasury-State CMIA agreements and default procedures codified at 31 CFR part 205 and TFM 4A-2000 Overall Disbursing Rules for All Federal Agencies.
+(a)(1) For States, payments are governed by Treasury-State CMIA agreements and default procedures codified at 31 CFR part 205 and TFM 4A-2000 Overall Disbursing Rules for All Federal Agencies.
 
 (2) To the extent that Treasury-State CMIA agreements and default procedures do not address expenditure of program income, rebates, refunds, contract settlements, audit recoveries and interest earned on such funds, such funds must be expended before requesting additional cash payments.
 
@@ -54,4 +52,4 @@ For ACH Returns:Routing Number: 051036706Account number: 303000Bank Name and Loc
 
 For recipients that do not have electronic remittance capability, please make check\*\* payable to:
 
-“The Department of Health and Human Services”Mail Check to Treasury approved lockbox:HHS Program Support CenterP.O. Box 530231Atlanta, GA 30353-0231(\*\* Please allow 4-6 weeks for processing of a payment by check to be applied to the appropriate PMS account)Any additional information/instructions may be found on the PMS Web site at *http://www.dpm.psc.gov/*.[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3016, Jan. 20, 2016; 81 FR 89395, Dec. 12, 2016]
+“The Department of Health and Human Services”Mail Check to Treasury approved lockbox:HHS Program Support CenterP.O. Box 530231Atlanta, GA 30353-0231(\*\* Please allow 4-6 weeks for processing of a payment by check to be applied to the appropriate PMS account)Any additional information/instructions may be found on the PMS Web site at *http://www.dpm.psc.gov/*.[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3016, Jan. 20, 2016; 81 FR 89395, Dec. 12, 2016; 86 FR 2278, Jan. 12, 2021]

@@ -1,5 +1,7 @@
 ##### § 249.30 Total net cash outflow amount. #####
 
+Link to an amendment published at 86 FR 9212, Feb. 11, 2021.
+
 (a) *Calculation of total net cash outflow amount.* As of the calculation date, a Board-regulated institution's total net cash outflow amount equals the Board-regulated institution's outflow adjustment percentage as determined under paragraph (c) of this section multiplied by:
 
 (1) The sum of the outflow amounts calculated under § 249.32(a) through (l); *minus*

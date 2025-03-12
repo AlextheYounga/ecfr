@@ -1,5 +1,7 @@
 ##### § 50.1 Purpose and applicability. #####
 
+Link to an amendment published at 86 FR 9207, Feb. 11, 2021.
+
 (a) *Purpose.* This part establishes a minimum liquidity standard for certain national banks and Federal savings associations on a consolidated basis, as set forth in this part.
 
 (b) *Applicability.* (1) A national bank or Federal savings association is subject to the minimum liquidity standard and other requirements of this part if:

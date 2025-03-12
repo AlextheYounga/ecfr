@@ -1,5 +1,7 @@
 ##### § 50.32 Outflow amounts. #####
 
+Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
+
 (a) *Retail funding outflow amount.* A national bank's or Federal savings association's retail funding outflow amount as of the calculation date includes (regardless of maturity or collateralization):
 
 (1) 3 percent of all stable retail deposits held at the national bank or Federal savings association;

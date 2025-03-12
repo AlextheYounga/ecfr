@@ -1,5 +1,7 @@
 ##### § 50.22 Requirements for eligible high-quality liquid assets. #####
 
+Link to an amendment published at 86 FR 9209, Feb. 11, 2021.
+
 (a) *Operational requirements for eligible HQLA.* With respect to each asset that is eligible for inclusion in a national bank's or Federal savings association's HQLA amount, a national bank or Federal savings association must meet all of the following operational requirements:
 
 (1) The national bank or Federal savings association must demonstrate the operational capability to monetize the HQLA by:

@@ -66,25 +66,25 @@
 
 Appendix A to § 201.39 - Required Format of Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable PriceNLA□ Check box if continuation sheets for additional works are attached.Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price
 
-1. Title of the work (or, if untitled, a brief description of the work): \_\_\_\_\_\_\_\_\_\_.
+1. Title of the work (or, if untitled, a brief description of the work): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-2. Author(s) of the work: \_\_\_\_\_\_\_\_\_\_.
+2. Author(s) of the work: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-3. Type of work (e.g. music, motion picture, book, photograph, illustration, map, article in a periodical, painting, sculpture, sound recording, etc.): \_\_\_\_\_\_\_\_\_\_.
+3. Type of work (e.g. music, motion picture, book, photograph, illustration, map, article in a periodical, painting, sculpture, sound recording, etc.): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-4. Edition, if any (e.g., first edition, second edition, teacher's edition) or version, if any (e.g., orchestral arrangement, English translation of French text). If there is no information available relating to the edition or version of the work, the Notice should state, “No information available”: \_\_\_\_\_\_\_\_\_\_.
+4. Edition, if any (e.g., first edition, second edition, teacher's edition) or version, if any (e.g., orchestral arrangement, English translation of French text). If there is no information available relating to the edition or version of the work, the Notice should state, “No information available”: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-5. Year of first publication: \_\_\_\_\_.
+5. Year of first publication: \_\_\_\_\_\_\_\_\_\_.
 
-6. Year the work first secured federal copyright through publication with notice or registration as an unpublished work: \_\_\_\_\_.
+6. Year the work first secured federal copyright through publication with notice or registration as an unpublished work: \_\_\_\_\_\_\_\_\_\_.
 
-7. Copyright renewal registration number (not required for foreign works restored under 17 U.S.C. 104A): \_\_\_\_\_.
+7. Copyright renewal registration number (not required for foreign works restored under 17 U.S.C. 104A): \_\_\_\_\_\_\_\_\_\_.
 
-8. Full legal name of the copyright owner (or the owner of exclusive rights): \_\_\_\_\_.
+8. Full legal name of the copyright owner (or the owner of exclusive rights): \_\_\_\_\_\_\_\_\_\_.
 
 9. The person or entity identified in space #8 owns:
 
-□ all rights.□ the following rights (e.g., the right to reproduce/distribute/publicly display/publicly perform the work or to prepare a derivative work): \_\_\_\_\_.
+□ all rights.□ the following rights (e.g., the right to reproduce/distribute/publicly display/publicly perform the work or to prepare a derivative work): \_\_\_\_\_\_\_\_\_\_.
 
 10. Person or entity that the Copyright Office should contact concerning the Notice:
 
@@ -94,28 +94,28 @@ Appendix A to § 201.39 - Required Format of Notice to Libraries and Archives of
 
 □ Name:□ Address:□ Telephone:□ Fax number (if any):□ E-mail address (if any):Additional Content (OPTIONAL):
 
-12. Original copyright registration number: \_\_\_\_\_\_\_\_\_\_
+12. Original copyright registration number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-13. Additional information concerning the work's normal commercial exploitation or availability at a reasonable price: \_\_\_\_\_\_\_\_\_\_
+13. Additional information concerning the work's normal commercial exploitation or availability at a reasonable price: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Declaration:
 
 I declare under penalty of perjury under the laws of the United States:
 
-□ that each work identified in this notice is subject to normal commercial exploitation.□ that a copy or phonorecord of each work identified in this notice is available at a reasonable price.Signature:Date:□ Typed or printed name:□ Title:Appendix B to § 201.39 - Required Format for Continuation SheetNLA CONPage \_\_of \_\_Pages.Continuation Sheet for NLA Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price
+□ that each work identified in this notice is subject to normal commercial exploitation.□ that a copy or phonorecord of each work identified in this notice is available at a reasonable price.Signature:Date:□ Typed or printed name:□ Title:Appendix B to § 201.39 - Required Format for Continuation SheetNLA CONPage \_\_\_\_of \_\_\_\_Pages.Continuation Sheet for NLA Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price
 
-1. Title of the work (or, if untitled, a brief description of the work): \_\_\_\_\_\_\_\_\_\_.
+1. Title of the work (or, if untitled, a brief description of the work): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-2. Type of work (e.g. music, motion picture, book, photograph, illustration, map, article in a periodical, painting, sculpture, sound recording, etc.): \_\_\_\_\_\_\_\_\_\_.
+2. Type of work (e.g. music, motion picture, book, photograph, illustration, map, article in a periodical, painting, sculpture, sound recording, etc.): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-3. Edition, if any (e.g., first edition, second edition, teacher's edition) or version, if any (e.g., orchestral arrangement, English translation of French text). If there is no information available relating to the edition or version of the work, the Notice should state, “No information available”: \_\_\_\_\_\_\_\_\_\_.
+3. Edition, if any (e.g., first edition, second edition, teacher's edition) or version, if any (e.g., orchestral arrangement, English translation of French text). If there is no information available relating to the edition or version of the work, the Notice should state, “No information available”: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-4. Copyright renewal registration number (not required for foreign works restored under 17 U.S.C. 104A): \_\_\_\_\_\_\_\_\_\_.
+4. Copyright renewal registration number (not required for foreign works restored under 17 U.S.C. 104A): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 Additional Content (OPTIONAL):
 
-5. Original copyright registration number: \_\_\_\_\_\_\_\_\_\_.
+5. Original copyright registration number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-6. Additional information concerning the work's normal commercial exploitation or availability at a reasonable price: \_\_\_\_\_\_\_\_\_\_.
+6. Additional information concerning the work's normal commercial exploitation or availability at a reasonable price: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 [63 FR 71787, Dec. 30, 1998, as amended at 66 FR 34373, June 28, 2001; 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42874, July 18, 2013; 82 FR 9359, Feb. 6, 2017; 85 FR 19667, Apr. 8, 2020]

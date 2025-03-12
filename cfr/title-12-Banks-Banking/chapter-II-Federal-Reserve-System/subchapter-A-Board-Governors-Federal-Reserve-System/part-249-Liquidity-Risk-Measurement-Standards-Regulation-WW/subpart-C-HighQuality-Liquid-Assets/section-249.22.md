@@ -1,5 +1,7 @@
 ##### § 249.22 Requirements for eligible high-quality liquid assets. #####
 
+Link to an amendment published at 86 FR 9212, Feb. 11, 2021.
+
 (a) *Operational requirements for eligible HQLA.* With respect to each asset that is eligible for inclusion in a Board-regulated institution's HQLA amount, a Board-regulated institution must meet all of the following operational requirements:
 
 (1) The Board-regulated institution must demonstrate the operational capability to monetize the HQLA by:

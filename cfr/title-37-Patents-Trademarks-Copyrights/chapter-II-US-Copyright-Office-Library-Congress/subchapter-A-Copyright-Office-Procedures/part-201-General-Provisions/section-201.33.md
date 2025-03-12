@@ -106,7 +106,7 @@ Appendix A to § 201.33 - Notice of Intent To Enforce a Copyright Restored under
 
 (If this work does not have a title, state “No title.”) OR
 
-Brief description of work (for untitled works only): \_\_\_\_
+Brief description of work (for untitled works only): \_\_\_\_\_\_\_\_
 
 2. English translation of title (if applicable):3. Alternative title(s) (if any):4. Type of work:
 

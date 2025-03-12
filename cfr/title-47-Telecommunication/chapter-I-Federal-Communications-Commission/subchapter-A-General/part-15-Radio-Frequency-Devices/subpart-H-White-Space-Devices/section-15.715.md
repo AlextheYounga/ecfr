@@ -1,7 +1,5 @@
 ##### § 15.715 White space database administrator. #####
 
-Link to an amendment published at 86 FR 2296, Jan. 12, 2021.
-
 The Commission will designate one or more entities to administer the white space database(s). The Commission may, at its discretion, permit the functions of a white space database, such as a data repository, registration, and query services, to be divided among multiple entities; however, it will designate specific entities to be a database administrator responsible for coordination of the overall functioning of a database and providing services to white space devices. Each database administrator designated by the Commission shall:
 
 (a) Maintain a database that contains the information described in § 15.713.
@@ -12,7 +10,7 @@ The Commission will designate one or more entities to administer the white space
 
 (d) Establish a process for registering facilities where part 74 low power auxiliary stations are used on a regular basis.
 
-(e) Provide accurate lists of available channels and the corresponding maximum permitted power for each available channel to fixed and personal/portable white space devices that submit to it the information required under § 15.713(e), (g), and (h) based on their geographic location and provide accurate lists of available channels and the corresponding maximum permitted power for each available channel to fixed and Mode II devices requesting lists of available channels for Mode I devices. Database administrators may allow prospective operators of white space devices to query the database and determine whether there are vacant channels at a particular location.
+(e) Provide accurate lists of available channels and the corresponding maximum permitted power for each available channel to fixed, mobile, and personal/portable white space devices that submit to it the information required under § 15.713(e), (g), and (h) based on their geographic location and provide accurate lists of available channels and the corresponding maximum permitted power for each available channel to fixed, mobile, and Mode II devices requesting lists of available channels for Mode I devices. Database administrators may allow prospective operators of white space devices to query the database and determine whether there are vacant channels at a particular location.
 
 (f) Establish protocols and procedures to ensure that all communications and interactions between the white space database and white space devices are accurate and secure and that unauthorized parties cannot access or alter the database or the list of available channels sent to a white space device consistent with the provisions of § 15.713(l).
 
@@ -38,4 +36,4 @@ The Commission will designate one or more entities to administer the white space
 
 (q) Establish procedures to allow unlicensed wireless microphone users in the 600 MHz band to register with the database and to provide lists of channels available for wireless microphones at a given location.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016]
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4975, Jan. 29, 2016; 86 FR 2296, Jan. 12, 2021]
