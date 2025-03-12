@@ -1,0 +1,17 @@
+##### § 706.22 Request categories. #####
+
+(a) A Commercial Use request is a request that asks for information for a use or a purpose that furthers a commercial, trade, or profit interest, which can include furthering those interests through litigation. OPIC's decision to place a requester in the commercial use category will be made on a case-by-case basis based on the requester's intended use of the information.
+
+(b) An Educational Use request is one made on behalf of an educational institution, defined as any school that operates a program of scholarly research. A requester in this category must show that the request is made in connection with his or her role at the educational institution. OPIC may request verification from the requester that the request is in furtherance of scholarly research.
+
+(1) *Example 1.* A request from a professor of geology at a university for records relating to soil erosion, written on letterhead of the Department of Geology, would be presumed to be from an educational institution.
+
+(2) *Example 2.* A request from the same professor of geology seeking drug information from the Food and Drug Administration in furtherance of a murder mystery he is writing would not be presumed to be an institutional request, regardless of whether it was written on institutional stationery.
+
+(3) *Example 3.* A student who makes a request in furtherance of their coursework or other school-sponsored activities and provides a copy of a course syllabus or other reasonable documentation to indicate the research purpose for the request, would qualify as part of this fee category.
+
+(c) A Noncommercial Scientific Institution Use request is a request made on behalf of a noncommercial scientific institution, defined as an institution that is not operated on a “commercial” basis, as defined in paragraph (a) of this section, and that is operated solely for the purpose of conducting scientific research, the results of which are not intended to promote any particular product or industry. A requester in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and not for a commercial use.
+
+(d) A News Media Request is a request made by a representative of the news media in that capacity. A representative of the news media is defined as any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. The term “news” means information that is about current events or that would be of current interest to the public. Examples of news media entities include television or radio stations that broadcast news to the public at large and publishers of periodicals that disseminate news and make their products available through a variety of means to the general public. A request for records that supports the news-dissemination function of the requester shall not be considered to be for a commercial use. “Freelance” journalists who demonstrate a solid basis for expecting publication through a news media entity shall be considered as a representative of the news media. A publishing contract would provide the clearest evidence that publication is expected; however, OPIC shall also consider a requester's past publication record in making this determination.
+
+(e) All other requests include any requests that do not qualify under one of the above categories.

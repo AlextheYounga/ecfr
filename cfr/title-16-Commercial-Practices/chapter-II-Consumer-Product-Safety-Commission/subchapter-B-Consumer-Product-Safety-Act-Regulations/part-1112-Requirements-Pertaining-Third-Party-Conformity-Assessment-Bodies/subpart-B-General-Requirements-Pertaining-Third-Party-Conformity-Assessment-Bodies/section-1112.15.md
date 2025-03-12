@@ -1,6 +1,6 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 82 FR 8993, Feb. 2, 2017.Link to an amendment published at 82 FR 15627, Mar. 30, 2017.
+Link to an amendment published at 82 FR 15627, Mar. 30, 2017.
 
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
@@ -104,11 +104,11 @@ Link to an amendment published at 82 FR 8993, Feb. 2, 2017.Link to an amendment 
 
 (ii) GB/T 22048-2008, “Toys and Children's Products - Determination of Phthalate Plasticizers in Polyvinyl Chloride Plastic”;
 
-(32) ASTM F963-11 “Standard Consumer Safety Specification for Toy Safety,” and section 4.27 (toy chests) from ASTM F963-07ε1 “Standard Consumer Safety Specification for Toy Safety.” The CPSC only requires certain provisions of ASTM F963-11 and Section 4.27 of ASTM F963-07ε1 to be subject to third party testing; and therefore, the CPSC only accepts the accreditation of third party conformity assessment bodies for testing under the following toy safety standards:
+(32) 16 CFR part 1250, safety standard for toys. The CPSC only requires certain provisions of ASTM F963-16 to be subject to third party testing; and therefore, the CPSC only accepts the accreditation of third party conformity assessment bodies for testing under the following toy safety standards:
 
-(i) ASTM F963-07ε1; Section 4.27 - Toy Chests (except labeling and/or instructional literature requirements);
+(i) [Reserved]
 
-(ii) ASTM F963-11:
+(ii) ASTM F963-16:
 
 (A) Section 4.3.5.1(2), Surface Coating Materials - Soluble Test for Metals
 
@@ -180,6 +180,10 @@ Link to an amendment published at 82 FR 8993, Feb. 2, 2017.Link to an amendment 
 
 (II) Section 4.39, Jaw Entrapment in Handles and Steering Wheels
 
+(JJ) Section 4.40, Expanding Materials
+
+(KK) Section 4.41, Toy Chests (except labeling and/or instructional literature requirements)
+
 (33) 16 CFR part 1218, Safety Standard for Bassinets and Cradles.
 
 (34) 16 CFR part 1225, Safety Standard for Hand-Held Infant Carriers.
@@ -202,9 +206,7 @@ Link to an amendment published at 82 FR 8993, Feb. 2, 2017.Link to an amendment 
 
 (i) ASTM F2853-10, “Standard Test Method for Determination of Lead in Paint Layers and Similar Coatings or in Substrates and Homogenous Materials by Energy Dispersive X-Ray Fluorescence Spectrometry Using Multiple Monochromatic Excitation Beams,” July 1, 2010;
 
-(ii) ASTM F963-07ε1, “Standard Consumer Safety Specification for Toy Safety,” March 15, 2007;
-
-(iii) ASTM F963-11, “Standard Consumer Safety Specification for Toy Safety,” December 1, 2011.
+(ii) ASTM F963-16, “Standard Consumer Safety Specification for Toy Safety,” August 1, 2016.
 
 (2) Code of China, Room 2118, New Fortune International Plaza, No.71 Chaoyang Road, Chaoyang District, Beijing, 100123, China: *http://www.codeofchina.com/.*
 
@@ -238,4 +240,4 @@ Link to an amendment published at 82 FR 8993, Feb. 2, 2017.Link to an amendment 
 
 (xii) CPSC “Standard Operating Procedure for Determining Lead (Pb) and its Availability in Children's Metal Jewelry”, February 3, 2005.
 
-[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016; 82 FR 8687, Jan. 30, 2017]
+[78 FR 15859, Mar. 12, 2013, as amended at 78 FR 63034, Oct. 23, 2013; 78 FR 73424, Dec. 6, 2013; 79 FR 2589, Jan. 15, 2014; 79 FR 17433, Mar. 28, 2014; 79 FR 13216, Mar. 10, 2014; 80 FR 11121, Mar. 2, 2015; 81 FR 17065, Mar. 28, 2016; 82 FR 8687, Jan. 30, 2017; 82 FR 8993, Feb. 2, 2017]

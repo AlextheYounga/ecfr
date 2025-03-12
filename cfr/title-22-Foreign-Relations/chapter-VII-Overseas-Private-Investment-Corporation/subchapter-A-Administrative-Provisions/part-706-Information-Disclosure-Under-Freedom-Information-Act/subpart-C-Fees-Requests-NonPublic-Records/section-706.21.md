@@ -1,0 +1,9 @@
+##### § 706.21 Types of fees. #####
+
+(a) Direct costs are those expenses that OPIC expends in searching for and duplicating (and, in the case of commercial-use requests, reviewing) records in order to respond to a FOIA request. For example, direct costs include the salary of the employee performing the work (*i.e.,* the basic rate of pay for the employee, plus 16 percent of that rate to cover benefits) and the cost of operating computers and other electronic equipment. Direct costs do not include overhead expenses such as the costs of space, and of heating or lighting a facility.
+
+(b) Duplication is reproducing a copy of a record or of the information contained in it, necessary to respond to a FOIA request. Copies can take the form of paper, audiovisual materials, or electronic records, among others.
+
+(c) Review is the examination of a record located in response to a request in order to determine whether any portion of it is exempt from disclosure. Review time includes processing any record for disclosure, such as doing all that is necessary to prepare the record for disclosure, including the process of redacting the record and marking the appropriate exemptions. Review costs are properly charged even if a record ultimately is not disclosed. Review time also includes time spent both obtaining and considering any formal objection to disclosure made by a confidential commercial information submitter under § 706.33(c) of this subpart, but it does not include time spent resolving general legal or policy issues regarding the application of exemptions.
+
+(d) Search is the process of looking for and retrieving records or information responsive to a request. Search time includes page-by-page or line-by-line identification of information within records; and the reasonable efforts expended to locate and retrieve information from electronic records.

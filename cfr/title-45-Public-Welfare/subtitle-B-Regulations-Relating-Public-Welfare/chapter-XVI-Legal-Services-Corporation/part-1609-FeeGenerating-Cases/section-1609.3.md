@@ -1,5 +1,7 @@
 ##### § 1609.3 General requirements. #####
 
+Link to an amendment published at 82 FR 20447, May 2, 2017.
+
 (a) Except as provided in paragraph (b) of this section, a recipient may not use Corporation funds to provide legal assistance in a fee-generating case unless:
 
 (1) The case has been rejected by the local lawyer referral service, or by two private attorneys; or
