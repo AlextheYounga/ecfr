@@ -2,7 +2,7 @@
 
 (a) *Scope and purpose.* In accordance with the authority of sections 503 and 505 of the Employee Retirement Income Security Act of 1974 (ERISA or the Act), 29 U.S.C. 1133, 1135, this section sets forth minimum requirements for employee benefit plan procedures pertaining to claims for benefits by participants and beneficiaries (hereinafter referred to as claimants). Except as otherwise specifically provided in this section, these requirements apply to every employee benefit plan described in section 4(a) and not exempted under section 4(b) of the Act.
 
-(b) *Obligation to establish and maintain reasonable claims procedures.* Every employee benefit plan shall establish and maintain reasonable procedures governing the filing of benefit claims, notification of benefit determinations, and appeal of adverse benefit determinations (hereinafter collectively referred to as claims procedures). The claims procedures for a plan will be deemed to be reasonable only if -
+(b) *Obligation to establish and maintain reasonable claims procedures.* Every employee benefit plan shall establish and maintain reasonable procedures governing the filing of benefit claims, notification of benefit determinations, and appeal of adverse benefit determinations (hereinafter collectively referred to as claims procedures). The claims procedures for a plan will be deemed to be reasonable only if—
 
 (1) The claims procedures comply with the requirements of paragraphs (c), (d), (e), (f), (g), (h), (i), and (j) of this section, as appropriate, except to the extent that the claims procedures are deemed to comply with some or all of such provisions pursuant to paragraph (b)(6) of this section;
 
@@ -14,9 +14,9 @@
 
 (5) The claims procedures contain administrative processes and safeguards designed to ensure and to verify that benefit claim determinations are made in accordance with governing plan documents and that, where appropriate, the plan provisions have been applied consistently with respect to similarly situated claimants.
 
-(6) In the case of a plan established and maintained pursuant to a collective bargaining agreement (other than a plan subject to the provisions of section 302(c)(5) of the Labor Management Relations Act, 1947 concerning joint representation on the board of trustees) -
+(6) In the case of a plan established and maintained pursuant to a collective bargaining agreement (other than a plan subject to the provisions of section 302(c)(5) of the Labor Management Relations Act, 1947 concerning joint representation on the board of trustees)—
 
-(i) Such plan will be deemed to comply with the provisions of paragraphs (c) through (j) of this section if the collective bargaining agreement pursuant to which the plan is established or maintained sets forth or incorporates by specific reference -
+(i) Such plan will be deemed to comply with the provisions of paragraphs (c) through (j) of this section if the collective bargaining agreement pursuant to which the plan is established or maintained sets forth or incorporates by specific reference—
 
 (A) Provisions concerning the filing of benefit claims and the initial disposition of benefit claims, and
 
@@ -26,11 +26,11 @@
 
 (7) In the case of a plan providing disability benefits, the plan must ensure that all claims and appeals for disability benefits are adjudicated in a manner designed to ensure the independence and impartiality of the persons involved in making the decision. Accordingly, decisions regarding hiring, compensation, termination, promotion, or other similar matters with respect to any individual (such as a claims adjudicator or medical or vocational expert) must not be made based upon the likelihood that the individual will support the denial of benefits.
 
-(c) *Group health plans.* The claims procedures of a group health plan will be deemed to be reasonable only if, in addition to complying with the requirements of paragraph (b) of this section -
+(c) *Group health plans.* The claims procedures of a group health plan will be deemed to be reasonable only if, in addition to complying with the requirements of paragraph (b) of this section—
 
 (1)(i) The claims procedures provide that, in the case of a failure by a claimant or an authorized representative of a claimant to follow the plan's procedures for filing a pre-service claim, within the meaning of paragraph (m)(2) of this section, the claimant or representative shall be notified of the failure and the proper procedures to be followed in filing a claim for benefits. This notification shall be provided to the claimant or authorized representative, as appropriate, as soon as possible, but not later than 5 days (24 hours in the case of a failure to file a claim involving urgent care) following the failure. Notification may be oral, unless written notification is requested by the claimant or authorized representative.
 
-(ii) Paragraph (c)(1)(i) of this section shall apply only in the case of a failure that -
+(ii) Paragraph (c)(1)(i) of this section shall apply only in the case of a failure that—
 
 (A) Is a communication by a claimant or an authorized representative of a claimant that is received by a person or organizational unit customarily responsible for handling benefit matters; and
 
@@ -60,17 +60,17 @@
 
 (e) *Claim for benefits.* For purposes of this section, a claim for benefits is a request for a plan benefit or benefits made by a claimant in accordance with a plan's reasonable procedure for filing benefit claims. In the case of a group health plan, a claim for benefits includes any pre-service claims within the meaning of paragraph (m)(2) of this section and any post-service claims within the meaning of paragraph (m)(3) of this section.
 
-(f) *Timing of notification of benefit determination* - (1) *In general.* Except as provided in paragraphs (f)(2) and (f)(3) of this section, if a claim is wholly or partially denied, the plan administrator shall notify the claimant, in accordance with paragraph (g) of this section, of the plan's adverse benefit determination within a reasonable period of time, but not later than 90 days after receipt of the claim by the plan, unless the plan administrator determines that special circumstances require an extension of time for processing the claim. If the plan administrator determines that an extension of time for processing is required, written notice of the extension shall be furnished to the claimant prior to the termination of the initial 90-day period. In no event shall such extension exceed a period of 90 days from the end of such initial period. The extension notice shall indicate the special circumstances requiring an extension of time and the date by which the plan expects to render the benefit determination.
+(f) *Timing of notification of benefit determination*—(1) *In general.* Except as provided in paragraphs (f)(2) and (f)(3) of this section, if a claim is wholly or partially denied, the plan administrator shall notify the claimant, in accordance with paragraph (g) of this section, of the plan's adverse benefit determination within a reasonable period of time, but not later than 90 days after receipt of the claim by the plan, unless the plan administrator determines that special circumstances require an extension of time for processing the claim. If the plan administrator determines that an extension of time for processing is required, written notice of the extension shall be furnished to the claimant prior to the termination of the initial 90-day period. In no event shall such extension exceed a period of 90 days from the end of such initial period. The extension notice shall indicate the special circumstances requiring an extension of time and the date by which the plan expects to render the benefit determination.
 
 (2) *Group health plans.* In the case of a group health plan, the plan administrator shall notify a claimant of the plan's benefit determination in accordance with paragraph (f)(2)(i), (f)(2)(ii), or (f)(2)(iii) of this section, as appropriate.
 
-(i) *Urgent care claims.* In the case of a claim involving urgent care, the plan administrator shall notify the claimant of the plan's benefit determination (whether adverse or not) as soon as possible, taking into account the medical exigencies, but not later than 72 hours after receipt of the claim by the plan, unless the claimant fails to provide sufficient information to determine whether, or to what extent, benefits are covered or payable under the plan. In the case of such a failure, the plan administrator shall notify the claimant as soon as possible, but not later than 24 hours after receipt of the claim by the plan, of the specific information necessary to complete the claim. The claimant shall be afforded a reasonable amount of time, taking into account the circumstances, but not less than 48 hours, to provide the specified information. Notification of any adverse benefit determination pursuant to this paragraph (f)(2)(i) shall be made in accordance with paragraph (g) of this section. The plan administrator shall notify the claimant of the plan's benefit determination as soon as possible, but in no case later than 48 hours after the earlier of -
+(i) *Urgent care claims.* In the case of a claim involving urgent care, the plan administrator shall notify the claimant of the plan's benefit determination (whether adverse or not) as soon as possible, taking into account the medical exigencies, but not later than 72 hours after receipt of the claim by the plan, unless the claimant fails to provide sufficient information to determine whether, or to what extent, benefits are covered or payable under the plan. In the case of such a failure, the plan administrator shall notify the claimant as soon as possible, but not later than 24 hours after receipt of the claim by the plan, of the specific information necessary to complete the claim. The claimant shall be afforded a reasonable amount of time, taking into account the circumstances, but not less than 48 hours, to provide the specified information. Notification of any adverse benefit determination pursuant to this paragraph (f)(2)(i) shall be made in accordance with paragraph (g) of this section. The plan administrator shall notify the claimant of the plan's benefit determination as soon as possible, but in no case later than 48 hours after the earlier of—
 
 (A) The plan's receipt of the specified information, or
 
 (B) The end of the period afforded the claimant to provide the specified additional information.
 
-(ii) *Concurrent care decisions.* If a group health plan has approved an ongoing course of treatment to be provided over a period of time or number of treatments -
+(ii) *Concurrent care decisions.* If a group health plan has approved an ongoing course of treatment to be provided over a period of time or number of treatments—
 
 (A) Any reduction or termination by the plan of such course of treatment (other than by plan amendment or termination) before the end of such period of time or number of treatments shall constitute an adverse benefit determination. The plan administrator shall notify the claimant, in accordance with paragraph (g) of this section, of the adverse benefit determination at a time sufficiently in advance of the reduction or termination to allow the claimant to appeal and obtain a determination on review of that adverse benefit determination before the benefit is reduced or terminated.
 
@@ -86,7 +86,7 @@
 
 (4) *Calculating time periods.* For purposes of paragraph (f) of this section, the period of time within which a benefit determination is required to be made shall begin at the time a claim is filed in accordance with the reasonable procedures of a plan, without regard to whether all the information necessary to make a benefit determination accompanies the filing. In the event that a period of time is extended as permitted pursuant to paragraph (f)(2)(iii) or (f)(3) of this section due to a claimant's failure to submit information necessary to decide a claim, the period for making the benefit determination shall be tolled from the date on which the notification of the extension is sent to the claimant until the date on which the claimant responds to the request for additional information.
 
-(g) *Manner and content of notification of benefit determination.* (1) Except as provided in paragraph (g)(2) of this section, the plan administrator shall provide a claimant with written or electronic notification of any adverse benefit determination. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv), or with the standards imposed by 29 CFR 2520.104b-31 (for pension benefit plans). The notification shall set forth, in a manner calculated to be understood by the claimant -
+(g) *Manner and content of notification of benefit determination.* (1) Except as provided in paragraph (g)(2) of this section, the plan administrator shall provide a claimant with written or electronic notification of any adverse benefit determination. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv), or with the standards imposed by 29 CFR 2520.104b-31 (for pension benefit plans). The notification shall set forth, in a manner calculated to be understood by the claimant—
 
 (i) The specific reason or reasons for the adverse determination;
 
@@ -96,7 +96,7 @@
 
 (iv) A description of the plan's review procedures and the time limits applicable to such procedures, including a statement of the claimant's right to bring a civil action under section 502(a) of the Act following an adverse benefit determination on review;
 
-(v) In the case of an adverse benefit determination by a group health plan -
+(v) In the case of an adverse benefit determination by a group health plan—
 
 (A) If an internal rule, guideline, protocol, or other similar criterion was relied upon in making the adverse determination, either the specific rule, guideline, protocol, or other similar criterion; or a statement that such a rule, guideline, protocol, or other similar criterion was relied upon in making the adverse determination and that a copy of such rule, guideline, protocol, or other criterion will be provided free of charge to the claimant upon request; or
 
@@ -104,15 +104,15 @@
 
 (vi) In the case of an adverse benefit determination by a group health plan concerning a claim involving urgent care, a description of the expedited review process applicable to such claims.
 
-(vii) In the case of an adverse benefit determination with respect to disability benefits -
+(vii) In the case of an adverse benefit determination with respect to disability benefits—
 
 (A) A discussion of the decision, including an explanation of the basis for disagreeing with or not following:
 
-*(i)* The views presented by the claimant to the plan of health care professionals treating the claimant and vocational professionals who evaluated the claimant;
+(*i*) The views presented by the claimant to the plan of health care professionals treating the claimant and vocational professionals who evaluated the claimant;
 
-*(ii)* The views of medical or vocational experts whose advice was obtained on behalf of the plan in connection with a claimant's adverse benefit determination, without regard to whether the advice was relied upon in making the benefit determination; and
+(*ii*) The views of medical or vocational experts whose advice was obtained on behalf of the plan in connection with a claimant's adverse benefit determination, without regard to whether the advice was relied upon in making the benefit determination; and
 
-*(iii)* A disability determination regarding the claimant presented by the claimant to the plan made by the Social Security Administration;
+(*iii*) A disability determination regarding the claimant presented by the claimant to the plan made by the Social Security Administration;
 
 (B) If the adverse benefit determination is based on a medical necessity or experimental treatment or similar exclusion or limit, either an explanation of the scientific or clinical judgment for the determination, applying the terms of the plan to the claimant's medical circumstances, or a statement that such explanation will be provided free of charge upon request;
 
@@ -124,9 +124,9 @@
 
 (2) In the case of an adverse benefit determination by a group health plan concerning a claim involving urgent care, the information described in paragraph (g)(1) of this section may be provided to the claimant orally within the time frame prescribed in paragraph (f)(2)(i) of this section, provided that a written or electronic notification in accordance with paragraph (g)(1) of this section is furnished to the claimant not later than 3 days after the oral notification.
 
-(h) *Appeal of adverse benefit determinations* - (1) *In general.* Every employee benefit plan shall establish and maintain a procedure by which a claimant shall have a reasonable opportunity to appeal an adverse benefit determination to an appropriate named fiduciary of the plan, and under which there will be a full and fair review of the claim and the adverse benefit determination.
+(h) *Appeal of adverse benefit determinations*—(1) *In general.* Every employee benefit plan shall establish and maintain a procedure by which a claimant shall have a reasonable opportunity to appeal an adverse benefit determination to an appropriate named fiduciary of the plan, and under which there will be a full and fair review of the claim and the adverse benefit determination.
 
-(2) *Full and fair review.* Except as provided in paragraphs (h)(3) and (h)(4) of this section, the claims procedures of a plan will not be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless the claims procedures -
+(2) *Full and fair review.* Except as provided in paragraphs (h)(3) and (h)(4) of this section, the claims procedures of a plan will not be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless the claims procedures—
 
 (i) Provide claimants at least 60 days following receipt of a notification of an adverse benefit determination within which to appeal the determination;
 
@@ -136,7 +136,7 @@
 
 (iv) Provide for a review that takes into account all comments, documents, records, and other information submitted by the claimant relating to the claim, without regard to whether such information was submitted or considered in the initial benefit determination.
 
-(3) *Group health plans.* The claims procedures of a group health plan will not be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless, in addition to complying with the requirements of paragraphs (h)(2)(ii) through (iv) of this section, the claims procedures -
+(3) *Group health plans.* The claims procedures of a group health plan will not be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless, in addition to complying with the requirements of paragraphs (h)(2)(ii) through (iv) of this section, the claims procedures—
 
 (i) Provide claimants at least 180 days following receipt of a notification of an adverse benefit determination within which to appeal the determination;
 
@@ -148,19 +148,19 @@
 
 (v) Provide that the health care professional engaged for purposes of a consultation under paragraph (h)(3)(iii) of this section shall be an individual who is neither an individual who was consulted in connection with the adverse benefit determination that is the subject of the appeal, nor the subordinate of any such individual; and
 
-(vi) Provide, in the case of a claim involving urgent care, for an expedited review process pursuant to which -
+(vi) Provide, in the case of a claim involving urgent care, for an expedited review process pursuant to which—
 
 (A) A request for an expedited appeal of an adverse benefit determination may be submitted orally or in writing by the claimant; and
 
 (B) All necessary information, including the plan's benefit determination on review, shall be transmitted between the plan and the claimant by telephone, facsimile, or other available similarly expeditious method.
 
-(4) *Plans providing disability benefits.* The claims procedures of a plan providing disability benefits will not, with respect to claims for such benefits, be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless, in addition to complying with the requirements of paragraphs (h)(2)(ii) through (iv) and (h)(3)(i) through (v) of this section, the claims procedures -
+(4) *Plans providing disability benefits.* The claims procedures of a plan providing disability benefits will not, with respect to claims for such benefits, be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless, in addition to complying with the requirements of paragraphs (h)(2)(ii) through (iv) and (h)(3)(i) through (v) of this section, the claims procedures—
 
 (i) Provide that before the plan can issue an adverse benefit determination on review on a disability benefit claim, the plan administrator shall provide the claimant, free of charge, with any new or additional evidence considered, relied upon, or generated by the plan, insurer, or other person making the benefit determination (or at the direction of the plan, insurer or such other person) in connection with the claim; such evidence must be provided as soon as possible and sufficiently in advance of the date on which the notice of adverse benefit determination on review is required to be provided under paragraph (i) of this section to give the claimant a reasonable opportunity to respond prior to that date; and
 
 (ii) Provide that, before the plan can issue an adverse benefit determination on review on a disability benefit claim based on a new or additional rationale, the plan administrator shall provide the claimant, free of charge, with the rationale; the rationale must be provided as soon as possible and sufficiently in advance of the date on which the notice of adverse benefit determination on review is required to be provided under paragraph (i) of this section to give the claimant a reasonable opportunity to respond prior to that date.
 
-(i) *Timing of notification of benefit determination on review* - (1) *In general.* (i) Except as provided in paragraphs (i)(1)(ii), (i)(2), and (i)(3) of this section, the plan administrator shall notify a claimant in accordance with paragraph (j) of this section of the plan's benefit determination on review within a reasonable period of time, but not later than 60 days after receipt of the claimant's request for review by the plan, unless the plan administrator determines that special circumstances (such as the need to hold a hearing, if the plan's procedures provide for a hearing) require an extension of time for processing the claim. If the plan administrator determines that an extension of time for processing is required, written notice of the extension shall be furnished to the claimant prior to the termination of the initial 60-day period. In no event shall such extension exceed a period of 60 days from the end of the initial period. The extension notice shall indicate the special circumstances requiring an extension of time and the date by which the plan expects to render the determination on review.
+(i) *Timing of notification of benefit determination on review*—(1) *In general.* (i) Except as provided in paragraphs (i)(1)(ii), (i)(2), and (i)(3) of this section, the plan administrator shall notify a claimant in accordance with paragraph (j) of this section of the plan's benefit determination on review within a reasonable period of time, but not later than 60 days after receipt of the claimant's request for review by the plan, unless the plan administrator determines that special circumstances (such as the need to hold a hearing, if the plan's procedures provide for a hearing) require an extension of time for processing the claim. If the plan administrator determines that an extension of time for processing is required, written notice of the extension shall be furnished to the claimant prior to the termination of the initial 60-day period. In no event shall such extension exceed a period of 60 days from the end of the initial period. The extension notice shall indicate the special circumstances requiring an extension of time and the date by which the plan expects to render the determination on review.
 
 (ii) In the case of a plan with a committee or board of trustees designated as the appropriate named fiduciary that holds regularly scheduled meetings at least quarterly, paragraph (i)(1)(i) of this section shall not apply, and, except as provided in paragraphs (i)(2) and (i)(3) of this section, the appropriate named fiduciary shall instead make a benefit determination no later than the date of the meeting of the committee or board that immediately follows the plan's receipt of a request for review, unless the request for review is filed within 30 days preceding the date of such meeting. In such case, a benefit determination may be made by no later than the date of the second meeting following the plan's receipt of the request for review. If special circumstances (such as the need to hold a hearing, if the plan's procedures provide for a hearing) require a further extension of time for processing, a benefit determination shall be rendered not later than the third meeting of the committee or board following the plan's receipt of the request for review. If such an extension of time for review is required because of special circumstances, the plan administrator shall provide the claimant with written notice of the extension, describing the special circumstances and the date as of which the benefit determination will be made, prior to the commencement of the extension. The plan administrator shall notify the claimant, in accordance with paragraph (j) of this section, of the benefit determination as soon as possible, but not later than 5 days after the benefit determination is made.
 
@@ -182,7 +182,7 @@
 
 (5) *Furnishing documents.* In the case of an adverse benefit determination on review, the plan administrator shall provide such access to, and copies of, documents, records, and other information described in paragraphs (j)(3), (j)(4), and (j)(5) of this section as is appropriate.
 
-(j) *Manner and content of notification of benefit determination on review.* The plan administrator shall provide a claimant with written or electronic notification of a plan's benefit determination on review. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv), or with the standards imposed by 29 CFR 2520.104b-31 (for pension benefit plans).In the case of an adverse benefit determination, the notification shall set forth, in a manner calculated to be understood by the claimant -
+(j) *Manner and content of notification of benefit determination on review.* The plan administrator shall provide a claimant with written or electronic notification of a plan's benefit determination on review. Any electronic notification shall comply with the standards imposed by 29 CFR 2520.104b-1(c)(1)(i), (iii), and (iv), or with the standards imposed by 29 CFR 2520.104b-31 (for pension benefit plans). In the case of an adverse benefit determination, the notification shall set forth, in a manner calculated to be understood by the claimant—
 
 (1) The specific reason or reasons for the adverse determination;
 
@@ -194,7 +194,7 @@
 
 (ii) In the case of a plan providing disability benefits, in addition to the information described in paragraph (j)(4)(i) of this section, the statement of the claimant's right to bring an action under section 502(a) of the Act shall also describe any applicable contractual limitations period that applies to the claimant's right to bring such an action, including the calendar date on which the contractual limitations period expires for the claim.
 
-(5) In the case of a group health plan -
+(5) In the case of a group health plan—
 
 (i) If an internal rule, guideline, protocol, or other similar criterion was relied upon in making the adverse determination, either the specific rule, guideline, protocol, or other similar criterion; or a statement that such rule, guideline, protocol, or other similar criterion was relied upon in making the adverse determination and that a copy of the rule, guideline, protocol, or other similar criterion will be provided free of charge to the claimant upon request;
 
@@ -202,7 +202,7 @@
 
 (iii) The following statement: “You and your plan may have other voluntary alternative dispute resolution options, such as mediation. One way to find out what may be available is to contact your local U.S. Department of Labor Office and your State insurance regulatory agency.”
 
-(6) In the case of an adverse benefit decision with respect to disability benefits -
+(6) In the case of an adverse benefit decision with respect to disability benefits—
 
 (i) A discussion of the decision, including an explanation of the basis for disagreeing with or not following:
 
@@ -224,7 +224,7 @@
 
 (ii) The State law procedures described in paragraph (k)(2)(i) of this section are not part of the full and fair review required by section 503 of the Act. Claimants therefore need not exhaust such State law procedures prior to bringing suit under section 502(a) of the Act.
 
-(l) *Failure to establish and follow reasonable claims procedures* - (1) *In general.* Except as provided in paragraph (l)(2) of this section, in the case of the failure of a plan to establish or follow claims procedures consistent with the requirements of this section, a claimant shall be deemed to have exhausted the administrative remedies available under the plan and shall be entitled to pursue any available remedies under section 502(a) of the Act on the basis that the plan has failed to provide a reasonable claims procedure that would yield a decision on the merits of the claim.
+(l) *Failure to establish and follow reasonable claims procedures*—(1) *In general.* Except as provided in paragraph (l)(2) of this section, in the case of the failure of a plan to establish or follow claims procedures consistent with the requirements of this section, a claimant shall be deemed to have exhausted the administrative remedies available under the plan and shall be entitled to pursue any available remedies under section 502(a) of the Act on the basis that the plan has failed to provide a reasonable claims procedure that would yield a decision on the merits of the claim.
 
 (2) *Plans providing disability benefits.* (i) In the case of a claim for disability benefits, if the plan fails to strictly adhere to all the requirements of this section with respect to a claim, the claimant is deemed to have exhausted the administrative remedies available under the plan, except as provided in paragraph (l)(2)(ii) of this section. Accordingly, the claimant is entitled to pursue any available remedies under section 502(a) of the Act on the basis that the plan has failed to provide a reasonable claims procedure that would yield a decision on the merits of the claim. If a claimant chooses to pursue remedies under section 502(a) of the Act under such circumstances, the claim or appeal is deemed denied on review without the exercise of discretion by an appropriate fiduciary.
 
@@ -232,7 +232,7 @@
 
 (m) *Definitions.* The following terms shall have the meaning ascribed to such terms in this paragraph (m) whenever such term is used in this section:
 
-(1)(i) A “claim involving urgent care” is any claim for medical care or treatment with respect to which the application of the time periods for making non-urgent care determinations -
+(1)(i) A “claim involving urgent care” is any claim for medical care or treatment with respect to which the application of the time periods for making non-urgent care determinations—
 
 (A) Could seriously jeopardize the life or health of the claimant or the ability of the claimant to regain maximum function, or,
 
@@ -288,7 +288,7 @@
 
 (4) With respect to claims for disability benefits filed under a plan from January 18, 2017 through April 1, 2018, this paragraph (p)(4) shall apply instead of paragraphs (g)(1)(vii), (g)(1)(viii), (h)(4), (j)(6) and (j)(7).
 
-(i) In the case of a notification of benefit determination and a notification of benefit determination on review by a plan providing disability benefits, the notification shall set forth, in a manner calculated to be understood by the claimant -
+(i) In the case of a notification of benefit determination and a notification of benefit determination on review by a plan providing disability benefits, the notification shall set forth, in a manner calculated to be understood by the claimant—
 
 (A) If an internal rule, guideline, protocol, or other similar criterion was relied upon in making the adverse determination, either the specific rule, guideline, protocol, or other similar criterion; or a statement that such a rule, guideline, protocol, or other similar criterion was relied upon in making the adverse determination and that a copy of such rule, guideline, protocol, or other criterion will be provided free of charge to the claimant upon request; and
 

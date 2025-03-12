@@ -1,5 +1,7 @@
 ##### § 20.100 Applicability; cross-reference to other regulations. #####
 
+Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
+
 (a) The provisions set forth in this subpart or cross-referenced in paragraph (c) of this section state the way in which specific categories of Food and Drug Administration records are handled upon a request for public disclosure. The exemptions established in subpart D of this part and the limitations on exemptions established in subpart E of this part shall be applicable to all Food and Drug Administration records, as provided in §§ 20.60 and 20.80. Accordingly, a record that is ordinarily available for public disclosure in accordance with this part or under other regulations is not available for such disclosure to the extent that it falls within an exemption contained in subpart D of this part except as provided by the limitations on exemptions specified in subpart E of this part.
 
 (b) The Commissioner, on his own initiative or on the petition of any interested person, may amend this subpart or promulgate and cross-reference additional regulations to state the status of additional categories of documents to settle pending questions or to reflect court decisions.

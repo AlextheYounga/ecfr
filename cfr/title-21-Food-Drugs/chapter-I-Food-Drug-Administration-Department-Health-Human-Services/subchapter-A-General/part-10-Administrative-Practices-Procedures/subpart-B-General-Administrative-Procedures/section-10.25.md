@@ -1,5 +1,7 @@
 ##### § 10.25 Initiation of administrative proceedings. #####
 
+Link to an amendment published at 86 FR 52409, Sept. 21, 2021.
+
 An administrative proceeding may be initiated in the following three ways:
 
 (a) An interested person may petition the Commissioner to issue, amend, or revoke a regulation or order, or to take or refrain from taking any other form of administrative action. A petition must be either:

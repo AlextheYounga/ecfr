@@ -1,5 +1,7 @@
 ##### § 25.20 Actions requiring preparation of an environmental assessment. #####
 
+Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
+
 Any proposed action of a type specified in this section normally requires at least the preparation of an EA, unless it is an action in a specific class that qualifies for exclusion under §§ 25.30, 25.31, 25.32, 25.33, 25.34, or 25.35:
 
 (a) Major recommendations or reports made to Congress on proposals for legislation in instances where the agency has primary responsibility for the subject matter involved.

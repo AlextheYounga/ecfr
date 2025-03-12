@@ -1,5 +1,7 @@
 ##### § 500.88 Regulatory method. #####
 
+Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
+
 (a) The sponsor shall submit for evaluation and validation a regulatory method developed to monitor compliance with FDA's operational definition of no residue.
 
 (b) The regulatory method must be able to confirm the identity of the marker residue in the target tissue at a minimum concentration corresponding to the Rm. FDA will determine the LOD from the submitted analytical method validation data.

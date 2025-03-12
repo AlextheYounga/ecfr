@@ -4,7 +4,7 @@
 
 (b) *General.* Except as provided in paragraph (c) of this section, a person's information year is the fiscal year of the person. A filer is not required to change its fiscal year or the plan year of a plan, to report financial information for any accounting period other than an existing fiscal year, or to report actuarial information for any plan year other than an existing plan year.
 
-(c) *Controlled group members with different fiscal years* - If members of a controlled group (disregarding any exempt entity) report financial information on the basis of different fiscal years, the information year is the calendar year. (If any two members of the controlled group report financial information on the basis of different fiscal years, the determination of whether an entity is an exempt entity is based on a calendar year information year for purposes of this paragraph (c) and § 4010.4(c).)
+(c) *Controlled group members with different fiscal years.* If members of a controlled group (disregarding any exempt entity) report financial information on the basis of different fiscal years, the information year is the calendar year. (If any two members of the controlled group report financial information on the basis of different fiscal years, the determination of whether an entity is an exempt entity is based on a calendar year information year for purposes of this paragraph (c) and § 4010.4(c).)
 
 (d) *Examples.* The following examples illustrate the rule in paragraph (c) of this section.
 

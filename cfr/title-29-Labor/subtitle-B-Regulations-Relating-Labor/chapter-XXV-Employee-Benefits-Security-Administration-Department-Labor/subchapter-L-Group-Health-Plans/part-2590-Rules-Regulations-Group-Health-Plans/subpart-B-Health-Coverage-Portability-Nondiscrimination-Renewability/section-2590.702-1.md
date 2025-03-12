@@ -4,7 +4,7 @@
 
 (1) *Collect* means, with respect to information, to request, require, or purchase such information.
 
-(2) *Family member* means, with respect to an individual -
+(2) *Family member* means, with respect to an individual—
 
 (i) A dependent (as defined for purposes of § 2590.701-2 of this Part) of the individual; or
 
@@ -18,7 +18,9 @@
 
 (D) Fourth-degree relatives include great-great grandparents, great-great grandchildren, and children of first cousins.
 
-(3) *Genetic information* means - (i) Subject to paragraphs (a)(3)(ii) and (a)(3)(iii) of this section, with respect to an individual, information about -
+(3) *Genetic information* means—
+
+(i) Subject to paragraphs (a)(3)(ii) and (a)(3)(iii) of this section, with respect to an individual, information about—
 
 (A) The individual's genetic tests (as defined in paragraph (a)(5) of this section);
 
@@ -30,13 +32,13 @@
 
 (ii) The term *genetic information* does not include information about the sex or age of any individual.
 
-(iii) The term *genetic information* includes -
+(iii) The term *genetic information* includes—
 
 (A) With respect to a pregnant woman (or a family member of the pregnant woman), genetic information of any fetus carried by the pregnant woman; and
 
 (B) With respect to an individual (or a family member of the individual) who is utilizing an assisted reproductive technology, genetic information of any embryo legally held by the individual or family member.
 
-(4) *Genetic services* means -
+(4) *Genetic services* means—
 
 (i) A genetic test, as defined in paragraph (a)(5) of this section;
 
@@ -78,7 +80,7 @@ Example 5.(i) *Facts.* Same facts as *Example 4,* except that *C* exhibits addit
 
 (7) *Underwriting purposes* has the meaning given in paragraph (d)(1) of this section.
 
-(b) *No group-based discrimination based on genetic information* - (1) *In general.* For purposes of this section, a group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not adjust premium or contribution amounts for the plan, or any group of similarly situated individuals under the plan, on the basis of genetic information. For this purpose, “similarly situated individuals” are those described in § 2590.702(d) of this Part.
+(b) *No group-based discrimination based on genetic information*—(1) *In general.* For purposes of this section, a group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not adjust premium or contribution amounts for the plan, or any group of similarly situated individuals under the plan, on the basis of genetic information. For this purpose, “similarly situated individuals” are those described in § 2590.702(d) of this Part.
 
 (2) *Rule of construction.* Nothing in paragraph (b)(1) of this section (or in paragraph (d)(1) or (d)(2) of this section) limits the ability of a health insurance issuer offering health insurance coverage in connection with a group health plan to increase the premium for a group health plan or a group of similarly situated individuals under the plan based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such a case, however, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members to further increase the premium for a group health plan or a group of similarly situated individuals under the plan.
 
@@ -92,7 +94,7 @@ Example 2.(i) *Facts.* An employer sponsors a group health plan that provides co
 
 (ii) *Conclusion.* In this *Example 2,* the issuer violates the provisions of this paragraph (b) because, by taking the likelihood that *A'*s children may develop polycystic kidney disease into account in computing the rate for the plan, the issuer adjusts the premium based on genetic information relating to a condition that has not been manifested in *A'*s children. However, it is permissible for the issuer to increase the premium based on *A'*s claims experience.
 
-(c) *Limitation on requesting or requiring genetic testing* - (1) *General rule.* Except as otherwise provided in this paragraph (c), a group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not request or require an individual or a family member of the individual to undergo a genetic test.
+(c) *Limitation on requesting or requiring genetic testing*—(1) *General rule.* Except as otherwise provided in this paragraph (c), a group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not request or require an individual or a family member of the individual to undergo a genetic test.
 
 (2) *Health care professional may recommend a genetic test.* Nothing in paragraph (c)(1) of this section limits the authority of a health care professional who is providing health care services to an individual to request that the individual undergo a genetic test.
 
@@ -106,17 +108,17 @@ Example 2.(i) *Facts.* Individual *B* is covered by a health maintenance organiz
 
 (ii) *Conclusion.* In this *Example 2,* even though the physician is employed by the HMO, the physician is nonetheless a health care professional who is providing health care services to *B.* Therefore, the physician's recommendation that *B* undergo the genetic test does not violate this paragraph (c).
 
-(4) *Determination regarding payment* - (i) *In general.* As provided in this paragraph (c)(4), nothing in paragraph (c)(1) of this section precludes a plan or issuer from obtaining and using the results of a genetic test in making a determination regarding payment. For this purpose, “payment” has the meaning given such term in 45 CFR 164.501 of the privacy regulations issued under the Health Insurance Portability and Accountability Act. Thus, if a plan or issuer conditions payment for an item or service based on its medical appropriateness and the medical appropriateness of the item or service depends on the genetic makeup of a patient, then the plan or issuer is permitted to condition payment for the item or service on the outcome of a genetic test. The plan or issuer may also refuse payment if the patient does not undergo the genetic test.
+(4) *Determination regarding payment*—(i) *In general.* As provided in this paragraph (c)(4), nothing in paragraph (c)(1) of this section precludes a plan or issuer from obtaining and using the results of a genetic test in making a determination regarding payment. For this purpose, “payment” has the meaning given such term in 45 CFR 164.501 of the privacy regulations issued under the Health Insurance Portability and Accountability Act. Thus, if a plan or issuer conditions payment for an item or service based on its medical appropriateness and the medical appropriateness of the item or service depends on the genetic makeup of a patient, then the plan or issuer is permitted to condition payment for the item or service on the outcome of a genetic test. The plan or issuer may also refuse payment if the patient does not undergo the genetic test.
 
 (ii) *Limitation.* A plan or issuer is permitted to request only the minimum amount of information necessary to make a determination regarding payment. The minimum amount of information necessary is determined in accordance with the minimum necessary standard in 45 CFR 164.502(b) of the privacy regulations issued under the Health Insurance Portability and Accountability Act.
 
-(iii) *Examples. See* paragraph (e) of this section for examples illustrating the rules of this paragraph (c)(4), as well as other provisions of this section.
+(iii) *Examples.**See* paragraph (e) of this section for examples illustrating the rules of this paragraph (c)(4), as well as other provisions of this section.
 
 (5) *Research exception.* Notwithstanding paragraph (c)(1) of this section, a plan or issuer may request, but not require, that a participant or beneficiary undergo a genetic test if all of the conditions of this paragraph (c)(5) are met:
 
 (i) *Research in accordance with Federal regulations and applicable State or local law or regulations.* The plan or issuer makes the request pursuant to research, as defined in 45 CFR 46.102(d), that complies with 45 CFR Part 46 or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
-(ii) *Written request for participation in research.* The plan or issuer makes the request in writing, and the request clearly indicates to each participant or beneficiary (or, in the case of a minor child, to the legal guardian of the beneficiary) that -
+(ii) *Written request for participation in research.* The plan or issuer makes the request in writing, and the request clearly indicates to each participant or beneficiary (or, in the case of a minor child, to the legal guardian of the beneficiary) that—
 
 (A) Compliance with the request is voluntary; and
 
@@ -126,9 +128,9 @@ Example 2.(i) *Facts.* Individual *B* is covered by a health maintenance organiz
 
 (iv) *Notice to Federal agencies.* The plan or issuer completes a copy of the “Notice of Research Exception under the Genetic Information Nondiscrimination Act” authorized by the Secretary and provides the notice to the address specified in the instructions thereto.
 
-(d) *Prohibitions on collection of genetic information* - (1) *For underwriting purposes* - (i) *General rule.* A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not collect (as defined in paragraph (a)(1) of this section) genetic information for underwriting purposes. *See* paragraph (e) of this section for examples illustrating the rules of this paragraph (d)(1), as well as other provisions of this section.
+(d) *Prohibitions on collection of genetic information*—(1) *For underwriting purposes*—(i) *General rule.* A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not collect (as defined in paragraph (a)(1) of this section) genetic information for underwriting purposes. *See* paragraph (e) of this section for examples illustrating the rules of this paragraph (d)(1), as well as other provisions of this section.
 
-(ii) *Underwriting purposes defined.* Subject to paragraph (d)(1)(iii) of this section, *underwriting purposes* means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan -
+(ii) *Underwriting purposes defined.* Subject to paragraph (d)(1)(iii) of this section, *underwriting purposes* means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
 
 (A) Rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the plan or coverage as described in § 2590.702(b)(1)(ii) of this Part (including changes in deductibles or other cost-sharing mechanisms in return for activities such as completing a health risk assessment or participating in a wellness program);
 
@@ -140,9 +142,9 @@ Example 2.(i) *Facts.* Individual *B* is covered by a health maintenance organiz
 
 (iii) *Medical appropriateness.* If an individual seeks a benefit under a group health plan or health insurance coverage, the plan or coverage may limit or exclude the benefit based on whether the benefit is medically appropriate, and the determination of whether the benefit is medically appropriate is not within the meaning of underwriting purposes. Accordingly, if an individual seeks a benefit under the plan and the plan or issuer conditions the benefit based on its medical appropriateness and the medical appropriateness of the benefit depends on genetic information of the individual, then the plan or issuer is permitted to condition the benefit on the genetic information. A plan or issuer is permitted to request only the minimum amount of genetic information necessary to determine medical appropriateness. The plan or issuer may deny the benefit if the patient does not provide the genetic information required to determine medical appropriateness. If an individual is not seeking a benefit, the medical appropriateness exception of this paragraph (d)(1)(iii) to the definition of underwriting purposes does not apply. *See* paragraph (e) of this section for examples illustrating the medical appropriateness provisions of this paragraph (d)(1)(iii), as well as other provisions of this section.
 
-(2) *Prior to or in connection with enrollment* - (i) *In general.* A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not collect genetic information with respect to any individual prior to that individual's effective date of coverage under that plan or coverage, nor in connection with the rules for eligibility (as defined in § 2590.702(b)(1)(ii) of this Part) that apply to that individual. Whether or not an individual's information is collected prior to that individual's effective date of coverage is determined at the time of collection.
+(2) *Prior to or in connection with enrollment*—(i) *In general.* A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, must not collect genetic information with respect to any individual prior to that individual's effective date of coverage under that plan or coverage, nor in connection with the rules for eligibility (as defined in § 2590.702(b)(1)(ii) of this Part) that apply to that individual. Whether or not an individual's information is collected prior to that individual's effective date of coverage is determined at the time of collection.
 
-(ii) *Incidental collection exception* - (A) *In general.* If a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, obtains genetic information incidental to the collection of other information concerning any individual, the collection is not a violation of this paragraph (d)(2), as long as the collection is not for underwriting purposes in violation of paragraph (d)(1) of this section.
+(ii) *Incidental collection exception*—(A) *In general.* If a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, obtains genetic information incidental to the collection of other information concerning any individual, the collection is not a violation of this paragraph (d)(2), as long as the collection is not for underwriting purposes in violation of paragraph (d)(1) of this section.
 
 (B) *Limitation.* The incidental collection exception of this paragraph (d)(2)(ii) does not apply in connection with any collection where it is reasonable to anticipate that health information will be received, unless the collection explicitly states that genetic information should not be provided.
 

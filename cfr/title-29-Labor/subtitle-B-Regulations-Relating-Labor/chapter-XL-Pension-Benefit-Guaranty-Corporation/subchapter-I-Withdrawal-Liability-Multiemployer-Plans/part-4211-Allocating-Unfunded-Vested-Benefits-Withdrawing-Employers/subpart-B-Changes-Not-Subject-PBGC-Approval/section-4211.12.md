@@ -14,13 +14,13 @@
 
 (1) The plan sponsor of a plan using the presumptive, modified presumptive or rolling-5 method may amend the plan to provide that only the contributions of significant withdrawn employers are excluded from the denominators of the fractions used in those methods.
 
-(2) For purposes of this paragraph (c), “significant withdrawn employer” means -
+(2) For purposes of this paragraph (c), “significant withdrawn employer” means—
 
 (i) An employer to which the plan has sent a notice of withdrawal liability under section 4219 of ERISA; or
 
 (ii) A withdrawn employer that in any plan year used to determine the denominator of a fraction contributed at least $250,000 or, if less, 1 percent of all contributions made by employers for that year.
 
-(3) If a group of employers withdraw in a concerted withdrawal, the plan sponsor must treat the group as a single employer in determining whether the members are significant withdrawn employers under paragraph (c)(2) of this section. A “concerted withdrawal” means a cessation of contributions to the plan during a single plan year -
+(3) If a group of employers withdraw in a concerted withdrawal, the plan sponsor must treat the group as a single employer in determining whether the members are significant withdrawn employers under paragraph (c)(2) of this section. A “concerted withdrawal” means a cessation of contributions to the plan during a single plan year—
 
 (i) By an employer association;
 
@@ -28,7 +28,7 @@
 
 (iii) By all or substantially all of the employers covered by agreements with a single labor organization.
 
-(d) *“Fresh start” rules under presumptive method.* (1) The plan sponsor of a plan using the presumptive method (including a plan that primarily covers employees in the building and construction industry) may amend the plan to provide that -
+(d) *“Fresh start” rules under presumptive method.* (1) The plan sponsor of a plan using the presumptive method (including a plan that primarily covers employees in the building and construction industry) may amend the plan to provide that—
 
 (i) A designated plan year ending after September 26, 1980, will substitute for the plan year ending before September 26, 1980, in applying section 4211(b)(1)(B), section 4211(b)(2)(B)(ii)(I), section 4211(b)(2)(D), section 4211(b)(3), and section 4211(b)(3)(B) of ERISA; and
 
@@ -38,7 +38,7 @@
 
 (3) In the case of a plan that primarily covers employees in the building and construction industry, the plan year designated by a plan amendment pursuant to paragraph (d)(1) of this section must be a plan year for which the plan has no unfunded vested benefits determined in accordance with section 4211 of ERISA without regard to § 4211.6.
 
-(e) *“Fresh start” rules under modified presumptive method.* (1) The plan sponsor of a plan using the modified presumptive method may amend the plan to provide -
+(e) *“Fresh start” rules under modified presumptive method.* (1) The plan sponsor of a plan using the modified presumptive method may amend the plan to provide—
 
 (i) A designated plan year ending after September 26, 1980, will substitute for the plan year ending before September 26, 1980, in applying section 4211(c)(2)(B)(i) and section 4211(c)(2)(B)(ii)(I) and (II) of ERISA; and
 
@@ -46,4 +46,4 @@
 
 (2) A plan amendment made pursuant to paragraph (e)(1) of this section must provide that the plan's unfunded vested benefits for plan years ending after the designated plan year are reduced by the value of all outstanding claims for withdrawal liability that can reasonably be expected to be collected from employers that had withdrawn from the plan as of the end of the designated plan year.
 
-[86 FR 1271, Jan. 8, 2021]
+[86 FR 1272, Jan. 8, 2021]

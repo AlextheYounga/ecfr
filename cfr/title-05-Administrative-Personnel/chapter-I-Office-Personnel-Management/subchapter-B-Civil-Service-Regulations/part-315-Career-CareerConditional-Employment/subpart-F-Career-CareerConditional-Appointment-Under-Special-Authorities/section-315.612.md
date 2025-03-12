@@ -1,5 +1,7 @@
 ##### § 315.612 Noncompetitive appointment of certain military spouses. #####
 
+Link to an amendment published at 86 FR 52396, Sept. 21, 2021.
+
 (a) *Agency authority.* In accordance with the provisions of this section, an agency may appoint noncompetitively a spouse of a member of the armed forces serving on active duty who has orders specifying a permanent change of station (not for training), a spouse of a 100 percent disabled service member injured while on active duty, or the un-remarried widow or widower of a service member who was killed while performing active duty.
 
 (b) *Definitions.* (1) *Active duty* means full-time duty in the armed forces, including full-time National Guard duty, except that for Reserve Component members the term “active duty” does not include training duties or attendance at service schools.

@@ -1,5 +1,7 @@
 ##### § 1205.28 Counting. #####
 
+Link to an amendment published at 86 FR 52399, Sept. 21, 2021.
+
 County FSA offices and FSA, Deputy Administrator for Field Operations (DAFO), shall begin counting requests no later than July 2, 2021.
 FSA shall determine the number of eligible persons who favor the conduct of a continuance referendum.
 

@@ -1,5 +1,7 @@
 ##### § 500.82 Definitions. #####
 
+Link to an amendment published at 86 FR 52410, Sept. 21, 2021.
+
 (a) The definitions and interpretations contained in section 201 of the act apply to those terms when used in this subpart.
 
 (b) The following definitions apply to this subpart:
