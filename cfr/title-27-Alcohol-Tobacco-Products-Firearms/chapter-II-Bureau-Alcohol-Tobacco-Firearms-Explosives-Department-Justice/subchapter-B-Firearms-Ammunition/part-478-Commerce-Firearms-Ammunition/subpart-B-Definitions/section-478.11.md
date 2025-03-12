@@ -1,5 +1,7 @@
 ##### § 478.11 Meaning of terms. #####
 
+Link to an amendment published at 87 FR 193, Jan. 4, 2022.
+
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Act.* 18 U.S.C. Chapter 44.

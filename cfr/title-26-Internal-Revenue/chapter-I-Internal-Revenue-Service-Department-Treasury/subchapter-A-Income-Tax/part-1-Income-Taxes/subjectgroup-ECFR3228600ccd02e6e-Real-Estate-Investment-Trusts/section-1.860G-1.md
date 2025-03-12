@@ -1,5 +1,7 @@
 ##### § 1.860G-1 Definition of regular and residual interests. #####
 
+Link to an amendment published at 87 FR 175, Jan. 4, 2022.
+
 (a) *Regular interest* - (1) *Designation as a regular interest.* For purposes of section 860G(a)(1), a REMIC designates an interest as a regular interest by providing to the Internal Revenue Service the information specified in § 1.860D-1(d)(2)(ii) in the time and manner specified in § 1.860D-1(d)(2).
 
 (2) *Specified portion of the interest payments on qualified mortgages* - (i) *In general.* For purposes of section 860G(a)(1)(B)(ii), a specified portion of the interest payments on qualified mortgages means a portion of the interest payable on qualified mortgages, but only if the portion can be expressed as -

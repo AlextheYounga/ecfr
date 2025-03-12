@@ -1,5 +1,7 @@
 ##### § 1.861-20 Allocation and apportionment of foreign income taxes. #####
 
+Link to an amendment published at 87 FR 327, Jan. 4, 2022.
+
 (a) *Scope.* This section provides rules for the allocation and apportionment of foreign income taxes, including allocating and apportioning foreign income taxes to separate categories for purposes of the foreign tax credit. The rules of this section apply except as modified under the rules for an operative section (as described in § 1.861-8(f)(1)). See, for example, §§ 1.704-1(b)(4)(viii)(*d*)(*1*), 1.904-6, 1.960-1(d)(3)(ii), and 1.965-5(b)(2). Paragraph (b) of this section provides definitions for the purposes of this section. Paragraph (c) of this section provides the general rule for allocation and apportionment of foreign income taxes. Paragraph (d) of this section provides rules for assigning foreign gross income to statutory and residual groupings. Paragraph (e) of this section provides rules for allocating and apportioning foreign law deductions to foreign gross income in the statutory and residual groupings. Paragraph (f) of this section provides rules for apportioning foreign income taxes among statutory and residual groupings. Paragraph (g) of this section provides examples that illustrate the application of this section. Paragraph (h) of this section provides the applicability date for this section.
 
 (b) *Definitions.* The following definitions apply for purposes of this section.

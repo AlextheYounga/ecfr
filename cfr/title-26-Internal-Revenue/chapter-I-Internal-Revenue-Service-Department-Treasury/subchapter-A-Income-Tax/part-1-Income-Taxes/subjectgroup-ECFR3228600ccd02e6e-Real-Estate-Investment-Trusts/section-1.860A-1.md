@@ -1,5 +1,7 @@
 ##### § 1.860A-1 Effective dates and transition rules. #####
 
+Link to an amendment published at 87 FR 175, Jan. 4, 2022.
+
 (a) *In general.* Except as otherwise provided in paragraph (b) of this section, the regulations under sections 860A through 860G are effective only for a qualified entity (as defined in § 1.860D-1(c)(3)) whose startup day (as defined in section 860G(a)(9) and § 1.860G-2(k)) is on or after November 12, 1991.
 
 (b) *Exceptions* - (1) *Reporting regulations.* (i) Sections 1.860D-1(c) (1) and (3), and § 1.860D-1(d) (1) through (3) are effective after December 31, 1986.

@@ -1,5 +1,7 @@
 ##### § 1.861-10 Special allocations of interest expense. #####
 
+Link to an amendment published at 87 FR 326, Jan. 4, 2022.
+
 (a)-(d) [Reserved]
 
 (e) *Treatment of certain related group indebtedness* - (1) *In general.* If, for any taxable year beginning after December 31, 1991, a U.S. shareholder (as defined in paragraph (e)(5)(i) of this section) has both -

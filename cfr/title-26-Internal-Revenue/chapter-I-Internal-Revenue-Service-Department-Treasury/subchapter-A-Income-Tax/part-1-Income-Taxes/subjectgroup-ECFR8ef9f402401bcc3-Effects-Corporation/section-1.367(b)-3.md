@@ -1,5 +1,7 @@
 ##### § 1.367(b)-3 Repatriation of foreign corporate assets in certain nonrecognition transactions. #####
 
+Link to an amendment published at 87 FR 325, Jan. 4, 2022.
+
 (a) *Scope.* This section applies to an acquisition by a domestic corporation (the domestic acquiring corporation) of the assets of a foreign corporation (the foreign acquired corporation) in a liquidation described in section 332 or an asset acquisition described in section 368(a)(1).
 
 (b) *Exchange of stock owned directly by a United States shareholder or by certain foreign corporate shareholders - (1) Scope.* This paragraph (b) applies in the case of an exchanging shareholder that is either -

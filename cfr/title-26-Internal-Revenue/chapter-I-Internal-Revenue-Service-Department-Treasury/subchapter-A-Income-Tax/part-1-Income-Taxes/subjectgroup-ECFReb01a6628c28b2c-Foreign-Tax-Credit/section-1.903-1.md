@@ -1,5 +1,7 @@
 ##### § 1.903-1 Taxes in lieu of income taxes. #####
 
+Link to an amendment published at 87 FR 357, Jan. 4, 2022.
+
 (a) *In general.* Section 903 provides that the term “income, war profits, and excess profits taxes” shall include a tax paid in lieu of a tax on income, war profits, or excess profits (“income tax”) otherwise generally imposed by any foreign country. For purposes of this section and §§ 1.901-2 and 1.901-2A, such a tax is referred to as a “tax in lieu of an income tax”; and the terms “paid” and “foreign country” are defined in § 1.901-2(g). A foreign levy (within the meaning of § 1.901-2(g)(3)) is a tax in lieu of an income tax if and only if -
 
 (1) It is a tax within the meaning of § 1.901-2(a)(2); and

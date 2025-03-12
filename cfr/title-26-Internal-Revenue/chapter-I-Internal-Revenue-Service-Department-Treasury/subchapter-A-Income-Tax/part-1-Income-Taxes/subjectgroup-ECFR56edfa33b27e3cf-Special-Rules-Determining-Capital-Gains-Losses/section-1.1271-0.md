@@ -1,5 +1,7 @@
 ##### § 1.1271-0 Original issue discount; effective date; table of contents. #####
 
+Link to an amendment published at 87 FR 182, Jan. 4, 2022.
+
 (a) *Effective date.* Except as otherwise provided, §§ 1.1271-1 through 1.1275-5 apply to debt instruments issued on or after April 4, 1994. Taxpayers, however, may rely on these sections (as contained in 26 CFR part 1 revised April 1, 1996) for debt instruments issued after December 21, 1992, and before April 4, 1994.
 
 (b) *Table of contents.* This section lists captioned paragraphs contained in §§ 1.1271-1 through 1.1275-7.

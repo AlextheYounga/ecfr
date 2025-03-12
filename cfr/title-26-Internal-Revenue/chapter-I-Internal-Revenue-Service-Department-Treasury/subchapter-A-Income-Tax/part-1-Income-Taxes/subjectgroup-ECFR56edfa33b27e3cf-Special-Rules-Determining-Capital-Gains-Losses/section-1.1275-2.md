@@ -1,5 +1,7 @@
 ##### § 1.1275-2 Special rules relating to debt instruments. #####
 
+Link to an amendment published at 87 FR 182, Jan. 4, 2022.
+
 (a) *Payment ordering rule* - (1) *In general.* Except as provided in paragraph (a)(2) of this section, each payment under a debt instrument is treated first as a payment of OID to the extent of the OID that has accrued as of the date the payment is due and has not been allocated to prior payments, and second as a payment of principal. Thus, no portion of any payment is treated as prepaid interest.
 
 (2) *Exceptions.* The rule in paragraph (a)(1) of this section does not apply to -

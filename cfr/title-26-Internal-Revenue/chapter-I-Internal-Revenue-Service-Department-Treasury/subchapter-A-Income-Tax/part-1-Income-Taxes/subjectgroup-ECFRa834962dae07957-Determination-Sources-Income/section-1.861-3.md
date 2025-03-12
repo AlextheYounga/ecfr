@@ -1,5 +1,7 @@
 ##### § 1.861-3 Dividends. #####
 
+Link to an amendment published at 87 FR 325, Jan. 4, 2022.
+
 (a) *General* - (1) *Dividends included in gross income.* Gross income from sources within the United States includes a dividend described in subparagraph (2), (3), (4), or (5) of this paragraph. For purposes of subparagraphs (2), (3), and (4) of this paragraph, the term “dividend” shall have the same meaning as set forth in section 316 and the regulations thereunder. See subparagraph (5) of this paragraph for special rules with respect to certain dividends from a DISC or former DISC. See also paragraph (a)(6) of this section for special rules concerning substitute dividend payments received pursuant to a securities lending transaction.
 
 (2) *Dividend from a domestic corporation.* A dividend described in this paragraph (a)(2) is a dividend from a domestic corporation other than a corporation that has an election in effect under section 936. See paragraph (a)(5) of this section for the treatment of certain dividends from a DISC or former DISC.

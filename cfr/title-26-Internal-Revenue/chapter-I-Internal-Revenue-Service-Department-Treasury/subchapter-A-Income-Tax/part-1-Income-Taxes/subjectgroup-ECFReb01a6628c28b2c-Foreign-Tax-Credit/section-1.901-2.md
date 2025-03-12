@@ -1,5 +1,7 @@
 ##### § 1.901-2 Income, war profits, or excess profits tax paid or accrued. #####
 
+Link to an amendment published at 87 FR 335, Jan. 4, 2022.
+
 (a) *Definition of income, war profits, or excess profits tax* - (1) *In general.* Section 901 allows a credit for the amount of income, war profits or excess profits tax (referred to as “income tax” for purposes of this section and §§ 1.901-2A and 1.903-1) paid to any foreign country. Whether a foreign levy is an income tax is determined independently for each separate foreign levy. A foreign levy is an income tax if and only if -
 
 (i) It is a tax; and

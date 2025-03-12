@@ -198,15 +198,15 @@
 
 (53) *National securities exchange* means any exchange registered pursuant to section 6 of the Act (15 U.S.C. 78f).
 
-(47) *NMS security* means any security or class of securities for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan, or an effective national market system plan for reporting transactions in listed options.
+(54) *NMS security* means any security or class of securities for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan, or an effective national market system plan for reporting transactions in listed options.
 
-(54) *NMS stock* means any NMS security other than an option.
+(55) *NMS stock* means any NMS security other than an option.
 
-(55) *Non-directed order* means any order from a customer other than a directed order.
+(56) *Non-directed order* means any order from a customer other than a directed order.
 
-(56) *Non-marketable limit order* means any limit order other than a marketable limit order.
+(57) *Non-marketable limit order* means any limit order other than a marketable limit order.
 
-(57) *Odd-lot* means an order for the purchase or sale of an NMS stock in an amount less than a round lot.
+(58) *Odd-lot* means an order for the purchase or sale of an NMS stock in an amount less than a round lot.
 
 (59) *Odd-lot information* means:
 

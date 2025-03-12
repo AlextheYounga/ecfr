@@ -1,5 +1,7 @@
 ##### § 1.164-2 Deduction denied in case of certain taxes. #####
 
+Link to an amendment published at 87 FR 317, Jan. 4, 2022.
+
 This section and § 1.275 describe certain taxes for which no deduction is allowed. In the case of taxable years beginning before January 1, 1964, the denial is provided for by section 164(b) (prior to being amended by section 207 of the Revenue Act of 1964 (78 Stat. 40)). In the case of taxable years beginning after December 31, 1963, the denial is governed by sections 164 and 275. No deduction is allowed for the following taxes:
 
 (a) *Federal income taxes.* Federal income taxes, including the taxes imposed by section 3101, relating to the tax on employees under the Federal Insurance Contributions Act (chapter 21 of the Code); sections 3201 and 3211, relating to the taxes on railroad employees and railroad employee representatives; section 3402, relating to the tax withheld at source on wages; and by corresponding provisions of prior internal revenue laws.

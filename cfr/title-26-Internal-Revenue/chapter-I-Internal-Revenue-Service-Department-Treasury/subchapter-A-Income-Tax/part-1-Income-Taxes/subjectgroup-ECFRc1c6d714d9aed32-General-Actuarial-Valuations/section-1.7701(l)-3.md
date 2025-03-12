@@ -1,5 +1,7 @@
 ##### § 1.7701(l)-3 Recharacterizing financing arrangements involving fast-pay stock. #####
 
+Link to an amendment published at 87 FR 182, Jan. 4, 2022.
+
 (a) *Purpose and scope.* This section is intended to prevent the avoidance of tax by persons participating in fast-pay arrangements (as defined in paragraph (b)(1) of this section) and should be interpreted in a manner consistent with this purpose. This section applies to all fast-pay arrangements. Paragraph (c) of this section recharacterizes certain fast-pay arrangements to ensure the participants are taxed in a manner reflecting the economic substance of the arrangements. Paragraph (f) of this section imposes reporting requirements on certain participants.
 
 (b) *Definitions* - (1) *Fast-pay arrangement.* A fast-pay arrangement is any arrangement in which a corporation has fast-pay stock outstanding for any part of its taxable year.

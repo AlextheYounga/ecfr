@@ -1,5 +1,7 @@
 ##### § 1.901-1 Allowance of credit for taxes. #####
 
+Link to an amendment published at 87 FR 334, Jan. 4, 2022.
+
 (a) *In general.* Citizens of the United States, domestic corporations, and certain aliens resident in the United States or Puerto Rico may choose to claim a credit, as provided in section 901, against the tax imposed by chapter 1 of the Internal Revenue Code (Code) for taxes paid or accrued to foreign countries and possessions of the United States, subject to the conditions prescribed in paragraphs (a)(1) through (a)(3) and paragraph (b) of this section.
 
 (1) *Citizen of the United States.* A citizen of the United States, whether resident or nonresident, may claim a credit for -

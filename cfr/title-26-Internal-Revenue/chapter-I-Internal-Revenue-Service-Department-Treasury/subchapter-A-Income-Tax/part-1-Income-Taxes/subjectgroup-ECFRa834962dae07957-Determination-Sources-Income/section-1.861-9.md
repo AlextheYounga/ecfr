@@ -1,5 +1,7 @@
 ##### § 1.861-9 Allocation and apportionment of interest expense and rules for asset-based apportionment. #####
 
+Link to an amendment published at 87 FR 326, Jan. 4, 2022.
+
 (a) *In general.* For further guidance, see § 1.861-9T(a).
 
 (b) *Interest equivalent* - (1) *Certain expenses and losses* - (i) *General rule.* Any expense or loss (to the extent deductible) incurred in a transaction or series of integrated or related transactions in which the taxpayer secures the use of funds for a period of time is subject to allocation and apportionment under the rules of this section and § 1.861-9T(b) if such expense or loss is substantially incurred in consideration of the time value of money. However, the allocation and apportionment of a loss under this paragraph (b) and § 1.861-9T(b) does not affect the characterization of such loss as capital or ordinary for any purpose other than for purposes of the section 861 regulations (as defined in § 1.861-8(a)(1)).

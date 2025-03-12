@@ -1,5 +1,7 @@
 ##### § 1.338-9 International aspects of section 338. #####
 
+Link to an amendment published at 87 FR 324, Jan. 4, 2022.
+
 (a) *Scope.* This section provides guidance regarding international aspects of section 338. As provided in § 1.338-2(c)(18), a foreign corporation, a DISC, or a corporation for which a section 936 election has been made is considered a target affiliate for all purposes of section 338. In addition, stock described in section 338(h)(6)(B)(ii) held by a target affiliate is not excluded from the operation of section 338.
 
 (b) *Application of section 338 to foreign targets* - (1) *In general.* For purposes of subtitle A, the deemed sale tax consequences, as defined in § 1.338-2(c)(7), of a foreign target for which a section 338 election is made (FT), and the corresponding earnings and profits, are taken into account in determining the taxation of FT and FT's direct and indirect shareholders. See, however, section 338(h)(16). For example, the income and earnings and profits of FT are determined, for purposes of sections 551, 951, 1248, and 1293, by taking into account the deemed sale tax sentence consequences.

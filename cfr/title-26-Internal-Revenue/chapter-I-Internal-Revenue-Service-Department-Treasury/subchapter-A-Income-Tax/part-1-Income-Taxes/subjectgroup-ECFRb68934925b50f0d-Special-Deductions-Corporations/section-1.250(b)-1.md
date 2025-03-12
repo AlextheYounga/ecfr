@@ -1,5 +1,7 @@
 ##### § 1.250(b)-1 Computation of foreign-derived intangible income (FDII). #####
 
+Link to an amendment published at 87 FR 324, Jan. 4, 2022.
+
 (a) *Scope.* This section provides rules for computing FDII. Paragraph (b) of this section defines FDII. Paragraph (c) of this section provides definitions that are relevant for computing FDII. Paragraph (d) of this section provides rules for computing gross income and allocating and apportioning deductions for purposes of computing deduction eligible income (DEI) and foreign-derived deduction eligible income (FDDEI). Paragraph (e) of this section provides rules for computing the DEI and FDDEI of a domestic corporate partner. Paragraph (f) of this section provides a rule for computing the FDII of a member of a consolidated group. Paragraph (g) of this section provides a rule for computing the FDII of a tax-exempt corporation.
 
 (b) *Definition of FDII.* Subject to the provisions of this section, the term *FDII* means, with respect to a domestic corporation for a taxable year, the corporation's deemed intangible income for the year multiplied by the corporation's foreign-derived ratio for the year.

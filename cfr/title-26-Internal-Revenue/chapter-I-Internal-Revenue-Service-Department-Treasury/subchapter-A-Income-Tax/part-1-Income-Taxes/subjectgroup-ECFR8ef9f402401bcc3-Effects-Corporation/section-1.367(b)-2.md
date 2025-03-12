@@ -1,5 +1,7 @@
 ##### § 1.367(b)-2 Definitions and special rules. #####
 
+Link to an amendment published at 87 FR 325, Jan. 4, 2022.
+
 (a) *Controlled foreign corporation.* The term *controlled foreign corporation* means a controlled foreign corporation as defined in section 957 (taking into account section 953(c)).
 
 (b) *Section 1248 shareholder.* The term *section 1248 shareholder* means any United States person that satisfies the ownership requirements of section 1248 (a)(2) or (c)(2) with respect to a foreign corporation.

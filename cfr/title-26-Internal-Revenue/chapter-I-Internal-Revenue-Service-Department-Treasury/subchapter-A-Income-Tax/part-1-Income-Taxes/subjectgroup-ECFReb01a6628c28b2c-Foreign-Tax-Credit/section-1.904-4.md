@@ -1,5 +1,7 @@
 ##### § 1.904-4 Separate application of section 904 with respect to certain categories of income. #####
 
+Link to an amendment published at 87 FR 360, Jan. 4, 2022.
+
 (a) *In general.* A taxpayer is required to compute a separate foreign tax credit limitation for income received or accrued in a taxable year that is described in section 904(d)(1)(A) (section 951A category income), 904(d)(1)(B) (foreign branch category income), 904(d)(1)(C) (passive category income), 904(d)(1)(D) (general category income), or paragraph (m) of this section (specified separate categories). For purposes of this section, the definitions in § 1.904-5(a)(4) apply.
 
 (b) *Passive category income* - (1) *In general.* The term *passive category income* means passive income and specified passive category income.

@@ -1,5 +1,7 @@
 ##### § 1.367(b)-10 Acquisition of parent stock or securities for property in triangular reorganizations. #####
 
+Link to an amendment published at 87 FR 325, Jan. 4, 2022.
+
 (a) *In general* - (1) *Scope.* Except as provided in paragraphs (a)(2)(i) through (iii) of this section, this section applies to a triangular reorganization if P or S (or both) is a foreign corporation and, in connection with the reorganization, S acquires in exchange for property all or a portion of the P stock or P securities (P acquisition) that are used to acquire the stock, securities or property of T in the triangular reorganization. This section applies to a triangular reorganization regardless of whether P controls (within the meaning of section 368(c)) S at the time of the P acquisition.
 
 (2) *Exceptions.* This section shall not apply if -

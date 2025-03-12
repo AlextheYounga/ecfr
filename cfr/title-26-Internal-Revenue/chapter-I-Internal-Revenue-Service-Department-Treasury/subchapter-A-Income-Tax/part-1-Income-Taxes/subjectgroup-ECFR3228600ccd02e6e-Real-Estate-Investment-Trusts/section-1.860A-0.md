@@ -1,5 +1,7 @@
 ##### § 1.860A-0 Outline of REMIC provisions. #####
 
+Link to an amendment published at 87 FR 175, Jan. 4, 2022.
+
 This section lists the paragraphs contained in §§ 1.860A-1 through 1.860G-3.
 
 Section 1.860A-1 Effective dates and transition rules.
