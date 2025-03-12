@@ -1,5 +1,7 @@
 ##### § 11.58 Duties of disciplined or resigned practitioner, or practitioner on disability inactive status. #####
 
+Link to an amendment published at 86 FR 28464, May 26, 2021.
+
 (a) An excluded, suspended or resigned practitioner, or practitioner transferred to disability inactive status shall not engage in any practice of patent, trademark and other non-patent law before the Office. An excluded, suspended or resigned practitioner will not be automatically reinstated at the end of his or her period of exclusion or suspension. An excluded, suspended or resigned practitioner, or practitioner transferred to disability inactive status must comply with the provisions of this section and § 11.60 to be reinstated. Failure to comply with the provisions of this section may constitute both grounds for denying reinstatement or readmission; and cause for further action, including seeking further exclusion, suspension, and for revocation of any pending probation.
 
 (b) Unless otherwise ordered by the USPTO Director, any excluded, suspended or resigned practitioner, or practitioner transferred to disability inactive status shall:

@@ -1,5 +1,7 @@
 ##### § 11.55 Appeal to the USPTO Director. #####
 
+Link to an amendment published at 86 FR 28463, May 26, 2021.
+
 (a) Within thirty days after the date of the initial decision of the hearing officer under §§ 11.25 or 11.54, either party may appeal to the USPTO Director. The appeal shall include the appellant's brief. If more than one appeal is filed, the party who files the appeal first is the appellant for purpose of this rule. If appeals are filed on the same day, the respondent is the appellant. If an appeal is filed, then the OED Director shall transmit the entire record to the USPTO Director. Any cross-appeal shall be filed within fourteen days after the date of service of the appeal pursuant to § 11.42, or thirty days after the date of the initial decision of the hearing officer, whichever is later. The cross-appeal shall include the cross-appellant's brief. Any appellee or cross-appellee brief must be filed within thirty days after the date of service pursuant to § 11.42 of an appeal or cross-appeal. Any reply brief must be filed within fourteen days after the date of service of any appellee or cross-appellee brief.
 
 (b) An appeal or cross-appeal must include exceptions to the decisions of the hearing officer and supporting reasons for those exceptions. Any exception not raised will be deemed to have been waived and will be disregarded by the USPTO Director in reviewing the initial decision.

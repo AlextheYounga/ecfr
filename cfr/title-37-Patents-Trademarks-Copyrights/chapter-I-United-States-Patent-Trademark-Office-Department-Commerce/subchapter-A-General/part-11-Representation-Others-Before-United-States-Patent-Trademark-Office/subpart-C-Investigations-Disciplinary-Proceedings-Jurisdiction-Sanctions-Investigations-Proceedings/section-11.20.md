@@ -1,5 +1,7 @@
 ##### § 11.20 Disciplinary sanctions; Transfer to disability inactive status. #####
 
+Link to an amendment published at 86 FR 28457, May 26, 2021.
+
 (a) *Types of discipline.* The USPTO Director, after notice and opportunity for a hearing, and where grounds for discipline exist, may impose on a practitioner the following types of discipline:
 
 (1) Exclusion from practice before the Office;

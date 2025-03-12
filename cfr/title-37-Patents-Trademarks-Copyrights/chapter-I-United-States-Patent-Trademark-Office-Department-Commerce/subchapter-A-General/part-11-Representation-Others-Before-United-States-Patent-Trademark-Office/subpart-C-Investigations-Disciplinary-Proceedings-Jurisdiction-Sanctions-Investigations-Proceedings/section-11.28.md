@@ -1,5 +1,7 @@
 ##### § 11.28 Incapacitated practitioners in a disciplinary proceeding. #####
 
+Link to an amendment published at 86 FR 28459, May 26, 2021.
+
 (a) *Holding in abeyance a disciplinary proceeding because of incapacitation due to a current disability or addiction* - (1) *Practitioner's motion.* In the course of a disciplinary proceeding under § 11.32, but before the date set by the hearing officer for a hearing, the practitioner may file a motion requesting the hearing officer to enter an order holding such proceeding in abeyance based on the contention that the practitioner is suffering from a disability or addiction that makes it impossible for the practitioner to adequately defend the charges in the disciplinary proceeding.
 
 (i) *Content of practitioner's motion.* The practitioner's motion shall, in addition to any other requirement of § 11.43, include or have attached thereto:

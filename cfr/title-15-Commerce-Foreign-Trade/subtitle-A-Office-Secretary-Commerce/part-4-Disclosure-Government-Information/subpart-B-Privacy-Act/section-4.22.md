@@ -1,7 +1,5 @@
 ##### § 4.22 Definitions. #####
 
-Link to an amendment published at 86 FR 21935, Apr. 26, 2021.
-
 (a) All terms used in this subpart which are defined in 5 U.S.C. 552a shall have the same meaning herein.
 
 (b) As used in this subpart:
@@ -18,8 +16,12 @@ Link to an amendment published at 86 FR 21935, Apr. 26, 2021.
 
 (6) *Person* means any human being and also shall include, but is not limited to, corporations, associations, partnerships, trustees, receivers, personal representatives, and public or private organizations.
 
-(7) *Privacy Officer* means those officials, identified in Appendix B to this part, who are authorized to receive and act upon inquiries, requests for access, and requests for correction or amendment.
+(7) *Privacy Act Officer* means those officials, identified in Appendix B to this part, who are authorized to receive and act upon inquiries, requests for access, and requests for correction or amendment.
 
 (8) *Request for access* means a request from an individual or an individual's parent or guardian to see a record pertaining to that individual in a particular system of records.
 
 (9) *Request for correction or amendment* means a request from an individual or an individual's parent or guardian that the Department change (by correction, amendment, addition or deletion) a particular record pertaining to that individual in a system of records.
+
+(10) *Un-redacted SSN Mailed Documents Listing (USMDL)* means the Department approved list, as posted at *www.commerce.gov/privacy,* designating those documents for which the inclusion of SSN is determined to be necessary to fulfill a compelling Department business need when the documents are requested by individuals outside the Department or other Federal agencies, as determined jointly by the Senior Agency Official for Privacy and the Departmental Privacy Act Officer.
+
+[66 FR 65632, Dec. 20, 2001, as amended at 86 FR 21935, Apr. 26, 2021]

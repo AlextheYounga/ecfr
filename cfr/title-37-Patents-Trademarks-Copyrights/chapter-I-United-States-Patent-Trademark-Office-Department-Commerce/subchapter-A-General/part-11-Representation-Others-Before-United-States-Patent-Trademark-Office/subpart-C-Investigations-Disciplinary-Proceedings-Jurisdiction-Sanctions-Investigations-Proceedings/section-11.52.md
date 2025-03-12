@@ -1,5 +1,7 @@
 ##### § 11.52 Discovery. #####
 
+Link to an amendment published at 86 FR 28462, May 26, 2021.
+
 Discovery shall not be authorized except as follows:
 
 (a) After an answer is filed under § 11.36 and when a party establishes that discovery is reasonable and relevant, the hearing officer, under such conditions as he or she deems appropriate, may order an opposing party to:

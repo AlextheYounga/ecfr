@@ -46,7 +46,7 @@
 
 (3) *Proportionate interests.* Each participating account in a collective investment fund must have a proportionate interest in all the fund's assets.
 
-(4) *Valuation* - (i) *Frequency of valuation.* A bank administering a collective investment fund shall determine the value of the fund's readily marketable assets at least once every three months. A bank shall determine the value of the fund's assets that are not readily marketable at least once a year.
+(4) *Valuation*—(i) *Frequency of valuation.* A bank administering a collective investment fund shall determine the value of the fund's readily marketable assets at least once every three months. A bank shall determine the value of the fund's assets that are not readily marketable at least once a year.
 
 (ii) *General method of valuation.* Except as provided in paragraph (b)(4)(iii) of this section, a bank shall value each fund asset at mark-to-market value as of the date set for valuation, unless the bank cannot readily ascertain mark-to-market value, in which case the bank shall use a fair value determined in good faith.
 
@@ -130,7 +130,7 @@
 
 (C) The OCC will publish the administrative order on *www.occ.gov* and through other methods, as appropriate.
 
-(5) *Admission and withdrawal of accounts* - (i) *In general.* A bank administering a collective investment fund shall admit an account to or withdraw an account from the fund only on the basis of the valuation described in paragraph (b)(4) of this section.
+(5) *Admission and withdrawal of accounts*—(i) *In general.* A bank administering a collective investment fund shall admit an account to or withdraw an account from the fund only on the basis of the valuation described in paragraph (b)(4) of this section.
 
 (ii) *Prior request or notice.* A bank administering a collective investment fund may admit an account to or withdraw an account from a collective investment fund only if the bank has approved a request for or a notice of intention of taking that action on or before the valuation date on which the admission or withdrawal is based. No requests or notices may be canceled or countermanded after the valuation date.
 
@@ -146,7 +146,7 @@
 
 (*3*) The bank's board of directors, or a committee authorized by the board of directors, determines that the extended withdrawal period is consistent with 12 CFR part 9 and applicable law;
 
-(*4*) The bank's board of directors, or a committee authorized by the board of directors, commits that the bank will act upon any withdrawal request as soon as practicable; and
+(*4*) The bank's board of directors, or a committee authorized by the board of directors, represents that the bank will act upon any withdrawal request as soon as practicable and consistent with its fiduciary duties; and
 
 (*5*) Any other condition imposed by the OCC, if the OCC determines that the condition is necessary or appropriate to protect the interests of fund participants.
 
@@ -156,7 +156,7 @@
 
 (v) *Segregation of investments.* If an investment is withdrawn in kind from a collective investment fund for the benefit of all participants in the fund at the time of the withdrawal but the investment is not distributed ratably in kind, the bank shall segregate and administer it for the benefit ratably of all participants in the collective investment fund at the time of withdrawal.
 
-(6) *Audits and financial reports* - (i) *Annual audit.* At least once during each 12-month period, a bank administering a collective investment fund shall arrange for an audit of the collective investment fund by auditors responsible only to the board of directors of the bank.4
+(6) *Audits and financial reports*—(i) *Annual audit.* At least once during each 12-month period, a bank administering a collective investment fund shall arrange for an audit of the collective investment fund by auditors responsible only to the board of directors of the bank.4
 
 4 If a fund, the assets of which consist solely of Individual Retirement Accounts, Keogh Accounts, or other employee benefit accounts that are exempt from taxation, is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*), the fund will not be deemed in violation of this paragraph (b)(6)(i) as a result of its compliance with section 10(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-10(c)), if the bank has access to the audit reports of the fund.
 
@@ -222,4 +222,4 @@
 
 (iv) The manner in which the proposed fund addresses the rights and interests of participating accounts.
 
-[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012; 82 FR 8105, Jan. 23, 2017; 85 FR 16892, Mar. 25, 2020; 85 FR 49232, Aug. 13, 2020]
+[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012; 82 FR 8105, Jan. 23, 2017; 85 FR 16892, Mar. 25, 2020; 85 FR 49232, Aug. 13, 2020; 86 FR 28241, May 26, 2021]

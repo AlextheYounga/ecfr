@@ -1,0 +1,80 @@
+##### § 11.11 Administrative suspension, inactivation, resignation, reinstatement, and revocation. #####
+
+Link to an amendment published at 86 FR 28455, May 26, 2021.
+
+(a) *Contact information.*
+
+(1) A registered practitioner, or person granted limited recognition under § 11.9(b), must notify the OED director of the postal address for their office, at least one and up to three email addresses where they receive email, and a business telephone number, as well as every change to each of said addresses and telephone number within thirty days of the date of the change. A registered practitioner, or person granted limited recognition under § 11.9(b), shall, in addition to any notice of change of address and telephone number filed in individual patent applications, separately file written notice of the change of address or telephone number with the OED director. A registered practitioner, or person granted limited recognition under § 11.9(b), who is an attorney in good standing with the bar of the highest court of one or more states shall provide the OED director with the identification number associated with each bar membership. The OED director shall publish a list containing the name, postal business addresses, business telephone number, registration number or limited recognition number, and registration status as an attorney or agent of each registered practitioner, or person granted limited recognition under 11.9(b), recognized to practice before the Office in patent matters. The OED director may also publish the continuing legal education certification status of each registered practitioner, or person granted limited recognition under § 11.9(b).
+
+(2) Biennially, registered practitioners and persons granted limited recognition may be required to file a registration statement with the OED director for the purpose of ascertaining whether such practitioner desires to remain in an active status. Any registered practitioner, or person granted limited recognition under § 11.9(b), failing to file the registration statement or give any information requested by the OED director within a time limit specified shall be subject to administrative suspension under paragraph (b) of this section.
+
+(3)(i) A registered practitioner, or person granted limited recognition under § 11.9(b), who has completed, in the past 24 months, five hours of continuing legal education credits in patent law and practice and one hour of continuing legal education credit in ethics, may certify such completion to the OED director.
+
+(ii) A registered practitioner, or person granted limited recognition under § 11.9(b), may earn up to two of the five hours of continuing legal education credit in patent law and practice by providing patent *pro bono* legal services through the USPTO Patent Pro Bono Program. One hour of continuing legal education credit in patent law and practice may be earned for every three hours of patent *pro bono* legal service.
+
+(b) *Administrative suspension.* (
+(1) Whenever it appears that a registered practitioner, or person granted limited recognition under § 11.9(b), has failed to comply with paragraph (a)(2) of this section, the OED director shall publish and send a notice to the registered practitioner, or person granted limited recognition, advising of the noncompliance, the consequence of being administratively suspended set forth in paragraph (b)(6) of this section if noncompliance is not timely remedied, and the requirements for reinstatement under paragraph (f) of this section. The notice shall be published and sent to the registered practitioner, or person granted limited recognition, by mail to the last postal address furnished under paragraph (a) of this section or by email addressed to the last email address furnished under paragraph (a) of this section. The notice shall demand compliance and payment of a delinquency fee set forth in § 1.21(a)(9)(i) of this chapter within 60 days after the date of such notice.
+
+(2) In the event a registered practitioner or person granted limited recognition fails to comply with the notice of paragraph (b)(1) of this section within the time allowed, the OED Director shall publish and send in the manner provided for in paragraph (b)(1) of this section to the registered practitioner or person granted limited recognition a Rule to Show Cause why his or her registration or recognition should not be administratively suspended, and he or she no longer be permitted to practice before the Office in patent matters or in any way hold himself or herself out as being registered or authorized to practice before the Office in patent matters. The OED Director shall file a copy of the Rule to Show Cause with the USPTO Director.
+
+(3) Within 30 days of the OED Director's sending the Rule to Show Cause identified in paragraph (b)(2) of this section, the registered practitioner or person granted limited recognition may file a response to the Rule to Show Cause with the USPTO Director. The response must set forth the factual and legal bases why the person should not be administratively suspended. The registered practitioner or person granted limited recognition shall serve the OED Director with a copy of the response at the time it is filed with the USPTO Director. Within ten days of receiving a copy of the response, the OED Director may file a reply with the USPTO Director that includes documents demonstrating that the notice identified in paragraph (b)(1) of this section was published and sent to the practitioner in accordance with paragraph (b)(1) of this section. A copy of the reply by the OED Director shall be served on the registered practitioner or person granted limited recognition. When acting on the Rule to Show Cause, if the USPTO Director determines that there are no genuine issues of material fact regarding the Office's compliance with the notice requirements under this section or the failure of the person to pay the requisite fees, the USPTO Director shall enter an order administratively suspending the registered practitioner or person granted limited recognition. Otherwise, the USPTO Director shall enter an appropriate order dismissing the Rule to Show Cause. Nothing herein shall permit an administratively suspended registered practitioner or person granted limited recognition to seek a stay of the administrative suspension during the pendency of any review of the USPTO Director's final decision.
+
+(4) [Reserved]
+
+(5) An administratively suspended registered practitioner or person granted limited recognition is subject to investigation and discipline for his or her conduct prior to, during, or after the period he or she was administratively suspended.
+
+(6) An administratively suspended registered practitioner or person granted limited recognition is prohibited from practicing before the Office in patent cases while administratively suspended. A registered practitioner or person granted limited recognition who knows he or she has been administratively suspended under this section will be subject to discipline for failing to comply with the provisions of this paragraph (b).
+
+(c) *Administrative inactivation.* (1) Any registered practitioner who shall become employed by the Office shall comply with § 11.116 for withdrawal from the applications, patents, and trademark matters wherein he or she represents an applicant or other person, and notify the OED Director in writing of said employment on the first day of said employment. The name of any registered practitioner employed by the Office shall be endorsed on the roster as administratively inactive. Upon separation from the Office, the administratively inactive practitioner may request reactivation by completing and filing an application, Data Sheet, signing a written undertaking required by § 11.10, and paying the fee set forth in § 1.21(a)(1)(i) of this subchapter. An administratively inactive practitioner remains subject to the provisions of the USPTO Rules of Professional Conduct and to proceedings and sanctions under §§ 11.19 through 11.58 for conduct that violates a provision of the USPTO Rules of Professional Conduct prior to or during employment at the Office. If, within 30 days after separation from the Office, the registered practitioner does not request active status or another status, the registered practitioner will be endorsed on the roster as voluntarily inactive and be subject to the provisions of paragraph (d) of this section.
+
+(2) Any registered practitioner who is a judge of a court of record, full-time court commissioner, U.S. bankruptcy judge, U.S. magistrate judge, or a retired judge who is eligible for temporary judicial assignment and is not engaged in the practice of law may request, in writing, that his or her name be endorsed on the roster as administratively inactive. Upon acceptance of the request, the OED Director shall endorse the name of the practitioner as administratively inactive. Following separation from the bench, the practitioner may request restoration to active status by completing and filing an application, Data Sheet, and signing a written undertaking required by § 11.10.
+
+(d) *Voluntary inactivation.* (1) Except as provided in paragraph (d)(4) of this section, any registered practitioner may voluntarily enter inactive status by filing a request, in writing, that his or her name be endorsed on the roster as voluntarily inactive. Upon acceptance of the request, the OED Director shall endorse the name as voluntarily inactive.
+
+(2) [Reserved]
+
+(3) A registered practitioner who seeks or enters into voluntary inactive status is subject to investigation and discipline for his or her conduct prior to, during, or after the period of his or her inactivation.
+
+(4) [Reserved]
+
+(5) A registered practitioner in voluntary inactive status is prohibited from practicing before the Office in patent cases while in voluntary inactive status. A registered practitioner in voluntary inactive status will be subject to discipline for failing to comply with the provisions of this paragraph. Upon acceptance of the request for voluntary inactive status, the practitioner must comply with the provisions of § 11.116.
+
+(6) Any registered practitioner whose name has been endorsed as voluntarily inactive pursuant to paragraph (d)(1) of this section and is not under investigation and not subject to a disciplinary proceeding may be restored to active status on the register as may be appropriate provided that the practitioner files a written request for restoration, a completed application for registration on a form supplied by the OED Director furnishing all requested information and material, including information and material pertaining to the practitioner's moral character and reputation under § 11.7(a)(2)(i) during the period of inactivation, a declaration or affidavit attesting to the fact that the practitioner has read the most recent revisions of the patent laws and the rules of practice before the Office, and pays the fees set forth in § 1.21(a)(7)(iii) and (iv) of this subchapter.
+
+(e) *Resignation.* A registered practitioner who is not under investigation under § 11.22 for a possible violation of the USPTO Rules of Professional Conduct, is not subject to discipline under § 11.24 or § 11.25, or against whom probable cause has not been found by a panel of the Committee on Discipline under § 11.23(b), may resign by notifying the OED director in writing that they desire to resign. Upon acceptance in writing by the OED director of such notice, that registered practitioner shall no longer be eligible to practice before the Office in patent matters but shall continue to file a change of address for five years thereafter in order that they may be located in the event information regarding the practitioner's conduct comes to the attention of the OED director or any grievance is made about their conduct while they engaged in practice before the Office. The name of any registered practitioner whose resignation is accepted shall be removed from active status, endorsed as resigned, and notice thereof published in the Official Gazette. Upon acceptance of the resignation by the OED director, the resigned practitioner must comply with the provisions of § 11.116. A resigned practitioner is subject to investigation and discipline for their conduct that occurred prior to, during, or after the period of their resignation.
+
+(f) *Administrative reinstatement.*(1)(i) Any administratively suspended registered practitioner, or person granted limited recognition under § 11.9(b), may be reinstated provided the practitioner:
+
+(A) Is not the subject of a disciplinary investigation or a party to a disciplinary proceeding;
+
+(B) Has applied for reinstatement on an application form supplied by the OED director;
+
+(C) Has demonstrated good moral character and reputation and competence in advising and assisting patent applicants in the presentation and prosecution of their applications before the Office;
+
+(D) Has submitted a declaration or affidavit attesting to the fact that the practitioner has read the most recent revisions of the patent laws and the rules of practice before the Office;
+
+(E) Has paid the fees set forth in § 1.21(a)(9)(ii) of this chapter; and
+
+(F) Has paid all applicable delinquency fees as set forth in § 1.21(a)(9)(i) of this chapter.
+
+(ii) Any administratively suspended registered practitioner, or person granted limited recognition, who applies for reinstatement more than five years after the effective date of the administrative suspension, additionally shall be required to file a petition to the OED director requesting reinstatement and providing objective evidence that they continue to possess the necessary legal qualifications to render valuable service to patent applicants.
+
+(2) Any registered practitioner whose registration has been administratively inactivated pursuant to paragraph (c) of this section may be reinstated to the register as may be appropriate provided within two years after his or her employment with the Office ceases or within two years after his or her employment in a judicial capacity ceases the following is filed with the OED Director: a request for reinstatement, a completed application for registration on a form supplied by the OED Director furnishing all requested information and material, and the fee set forth in § 1.21(a)(9)(ii) of this subchapter. Any registered practitioner inactivated or reinstated is subject to investigation and discipline for his or her conduct before, during, or after the period of his or her inactivation.
+
+(3)(i) Any registered practitioner who has been endorsed as resigned pursuant to paragraph (e) of this section may be reinstated on the register provided the practitioner:
+
+(A) Is not the subject of a disciplinary investigation or a party to a disciplinary proceeding;
+
+(B) Has applied for reinstatement on an application form supplied by the OED director;
+
+(C) Has demonstrated good moral character and reputation and competence in advising and assisting patent applicants in the presentation and prosecution of their applications before the Office;
+
+(D) Has submitted a declaration or affidavit attesting to the fact that the practitioner has read the most recent revisions of the patent laws and the rules of practice before the Office;
+
+(E) Has paid the fees set forth in § 1.21(a)(9)(ii) of this chapter; and
+
+(F) Has paid all applicable delinquency fees as set forth in § 1.21(a)(9)(i) of this chapter.
+
+(ii) Any resigned registered practitioner who applies for reinstatement more than five years after the effective date of the resignation additionally shall be required to file a petition to the OED director requesting reinstatement and providing objective evidence that they continue to possess the necessary legal qualifications to render valuable service to patent applicants.
+
+[73 FR 67757, Nov. 17, 2008, as amended at 78 FR 20198, Apr. 3, 2013; 85 FR 46992, Aug. 3, 2020]

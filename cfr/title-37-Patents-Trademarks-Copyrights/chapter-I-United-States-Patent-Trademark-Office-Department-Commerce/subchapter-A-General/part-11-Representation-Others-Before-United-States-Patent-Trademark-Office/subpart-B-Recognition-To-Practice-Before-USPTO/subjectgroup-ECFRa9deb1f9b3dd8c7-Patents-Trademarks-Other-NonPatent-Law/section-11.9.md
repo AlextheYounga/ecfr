@@ -1,0 +1,11 @@
+##### § 11.9 Limited recognition in patent matters. #####
+
+Link to an amendment published at 86 FR 28453, May 26, 2021.
+
+(a) Any individual not registered under § 11.6 may, upon a showing of circumstances which render it necessary or justifiable, and that the individual is of good moral character and reputation, be given limited recognition by the OED Director to prosecute as attorney or agent a specified patent application or specified patent applications. Limited recognition under this paragraph shall not extend further than the application or applications specified. Limited recognition shall not be granted while individuals who have passed the examination or for whom the examination has been waived are awaiting registration to practice before the Office in patent matters.
+
+(b) A nonimmigrant alien residing in the United States and fulfilling the provisions of § 11.7(a) and (b) may be granted limited recognition if the nonimmigrant alien is authorized by the United States Government to be employed or trained in the United States in the capacity of representing a patent applicant by presenting or prosecuting a patent application. Limited recognition shall be granted for a period consistent with the terms of authorized employment or training. Limited recognition shall not be granted or extended to a non-United States citizen residing abroad. If granted, limited recognition shall automatically expire upon the nonimmigrant alien's departure from the United States.
+
+(c) An individual not registered under § 11.6 may, if appointed by an applicant, prosecute an international patent application only before the United States International Searching Authority and the United States International Preliminary Examining Authority, provided that the individual has the right to practice before the national office with which the international application is filed as provided in PCT Art. 49, Rule 90 and § 1.455 of this subchapter, or before the International Bureau when the USPTO is acting as Receiving Office pursuant to PCT Rules 83.1 bis and 90.1.
+
+[69 FR 35452, June 24, 2004, as amended at 78 FR 20198, Apr. 3, 2013]

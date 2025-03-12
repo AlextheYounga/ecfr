@@ -1,5 +1,7 @@
 ##### § 11.35 Service of complaint. #####
 
+Link to an amendment published at 86 FR 28460, May 26, 2021.
+
 (a) A complaint may be served on a respondent in any of the following methods:
 
 (1) By delivering a copy of the complaint personally to the respondent, in which case the individual who gives the complaint to the respondent shall file an affidavit with the OED Director indicating the time and place the complaint was delivered to the respondent.

@@ -1,5 +1,7 @@
 ##### § 11.56 Decision of the USPTO Director. #####
 
+Link to an amendment published at 86 FR 28464, May 26, 2021.
+
 (a) The USPTO Director shall decide an appeal from an initial decision of the hearing officer. On appeal from the initial decision, the USPTO Director has authority to conduct a de novo review of the factual record. The USPTO Director may affirm, reverse, or modify the initial decision or remand the matter to the hearing officer for such further proceedings as the USPTO Director may deem appropriate. In making a final decision, the USPTO Director shall review the record or the portions of the record designated by the parties. The USPTO Director shall transmit a copy of the final decision to the OED Director and to the respondent.
 
 (b) A final decision of the USPTO Director may dismiss a disciplinary proceeding, reverse or modify the initial decision, reprimand a practitioner, or may suspend or exclude the practitioner from practice before the Office. A final decision suspending or excluding a practitioner shall require compliance with the provisions of § 11.58. The final decision may also condition the reinstatement of the practitioner upon a showing that the practitioner has taken steps to correct or mitigate the matter forming the basis of the action, or to prevent recurrence of the same or similar conduct.

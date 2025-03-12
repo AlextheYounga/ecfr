@@ -46,6 +46,6 @@
 
 (3) 5 U.S.C. 552a(g) authorizes civil action by an individual and requires disclosure by the Department to the court.
 
-(c) The Privacy Officer shall make an accounting of each disclosure by him of any record contained in a system of records in accordance with 5 U.S.C. 552a(c)(1) and (2). Except for a disclosure made under 5 U.S.C. 552a(b)(7), the Privacy Officer shall make such accounting available to any individual, insofar as it pertains to that individual, upon any request submitted in accordance with § 4.24. The Privacy Officer shall make reasonable efforts to notify any individual when any record in a system of records is disclosed to any person under compulsory legal process, promptly upon being informed that such process has become a matter of public record.
+(c) The Privacy Act Officer shall make an accounting of each disclosure by him of any record contained in a system of records in accordance with 5 U.S.C. 552a(c)(1) and (2). Except for a disclosure made under 5 U.S.C. 552a(b)(7), the Privacy Act Officer shall make such accounting available to any individual, insofar as it pertains to that individual, upon any request submitted in accordance with § 4.24. The Privacy Act Officer shall make reasonable efforts to notify any individual when any record in a system of records is disclosed to any person under compulsory legal process, promptly upon being informed that such process has become a matter of public record.
 
 [66 FR 65632, Dec. 20, 2001, as amended at 67 FR 60282, Sept. 25, 2002]

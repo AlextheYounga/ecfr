@@ -1,5 +1,7 @@
 ##### § 11.804 Misconduct. #####
 
+Link to an amendment published at 86 FR 28467, May 26, 2021.
+
 It is professional misconduct for a practitioner to:
 
 (a) Violate or attempt to violate the USPTO Rules of Professional Conduct, knowingly assist or induce another to do so, or do so through the acts of another;

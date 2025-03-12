@@ -1,5 +1,7 @@
 ##### § 11.27 Exclusion on consent. #####
 
+Link to an amendment published at 86 FR 28459, May 26, 2021.
+
 (a) *Required affidavit.* The OED Director may confer with a practitioner concerning possible violations by the practitioner of the Rules of Professional Conduct whether or not a disciplinary proceeding has been instituted. A practitioner who is the subject of an investigation or a pending disciplinary proceeding based on allegations of grounds for discipline, and who desires to resign, may only do so by consenting to exclusion and delivering to the OED Director an affidavit declaring the consent of the practitioner to exclusion and stating:
 
 (1) That the practitioner's consent is freely and voluntarily rendered, that the practitioner is not being subjected to coercion or duress, and that the practitioner is fully aware of the implications of consenting to exclusion;

@@ -1,5 +1,7 @@
 ##### § 11.702 Advertising. #####
 
+Link to an amendment published at 86 FR 28466, May 26, 2021.
+
 (a) Subject to the requirements of §§ 11.701 and 11.703, a practitioner may advertise services through written, recorded or electronic communication, including public media.
 
 (b) A practitioner shall not give anything of value to a person for recommending the practitioner's services except that a practitioner may:

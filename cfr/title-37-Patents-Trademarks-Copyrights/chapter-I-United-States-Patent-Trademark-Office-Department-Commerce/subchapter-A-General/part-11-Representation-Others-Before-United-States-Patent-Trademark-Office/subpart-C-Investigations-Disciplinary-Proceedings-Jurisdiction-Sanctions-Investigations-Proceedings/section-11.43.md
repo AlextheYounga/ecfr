@@ -1,3 +1,5 @@
 ##### § 11.43 Motions. #####
 
+Link to an amendment published at 86 FR 28461, May 26, 2021.
+
 Motions, including all prehearing motions commonly filed under the Federal Rules of Civil Procedure, shall be filed with the hearing officer. The hearing officer will determine whether replies to responses will be authorized and the time period for filing such a response. No motion shall be filed with the hearing officer unless such motion is supported by a written statement by the moving party that the moving party or attorney for the moving party has conferred with the opposing party or attorney for the opposing party in an effort in good faith to resolve by agreement the issues raised by the motion and has been unable to reach agreement. If, prior to a decision on the motion, the parties resolve issues raised by a motion presented to the hearing officer, the parties shall promptly notify the hearing officer.

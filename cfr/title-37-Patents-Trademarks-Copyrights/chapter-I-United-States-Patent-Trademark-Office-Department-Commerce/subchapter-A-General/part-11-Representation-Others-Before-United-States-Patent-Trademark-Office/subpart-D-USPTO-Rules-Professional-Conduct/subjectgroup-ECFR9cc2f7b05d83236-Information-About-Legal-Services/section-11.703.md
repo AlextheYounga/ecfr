@@ -1,5 +1,7 @@
 ##### § 11.703 Direct contact with prospective clients. #####
 
+Link to an amendment published at 86 FR 28467, May 26, 2021.
+
 (a) A practitioner shall not by in-person, live telephone or real-time electronic contact solicit professional employment from a prospective client when a significant motive for the practitioner's doing so is the practitioner's pecuniary gain, unless the person contacted:
 
 (1) Is a practitioner; or

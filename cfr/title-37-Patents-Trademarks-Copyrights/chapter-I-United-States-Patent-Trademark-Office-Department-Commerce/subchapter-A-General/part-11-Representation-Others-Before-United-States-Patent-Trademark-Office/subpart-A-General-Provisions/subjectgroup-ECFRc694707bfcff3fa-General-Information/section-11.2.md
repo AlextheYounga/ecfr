@@ -1,5 +1,7 @@
 ##### § 11.2 Director of the Office of Enrollment and Discipline. #####
 
+Link to an amendment published at 86 FR 28452, May 26, 2021.
+
 (a) *Appointment.* The USPTO Director shall appoint a Director of the Office of Enrollment and Discipline (OED Director). In the event of a vacancy in the office of the OED Director, the USPTO Director may designate an employee of the Office to serve as acting OED Director. The OED Director shall be an active member in good standing of the bar of the highest court of a State.
 
 (b) *Duties.* The OED Director shall:

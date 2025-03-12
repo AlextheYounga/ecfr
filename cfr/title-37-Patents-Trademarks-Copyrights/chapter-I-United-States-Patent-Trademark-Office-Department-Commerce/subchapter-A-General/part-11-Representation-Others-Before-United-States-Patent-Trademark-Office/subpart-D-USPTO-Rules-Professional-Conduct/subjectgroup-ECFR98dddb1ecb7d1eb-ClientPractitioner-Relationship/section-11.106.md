@@ -1,5 +1,7 @@
 ##### § 11.106 Confidentiality of information. #####
 
+Link to an amendment published at 86 FR 28466, May 26, 2021.
+
 (a) A practitioner shall not reveal information relating to the representation of a client unless the client gives informed consent, the disclosure is impliedly authorized in order to carry out the representation, the disclosure is permitted by paragraph (b) of this section, or the disclosure is required by paragraph (c) of this section.
 
 (b) A practitioner may reveal information relating to the representation of a client to the extent the practitioner reasonably believes necessary:

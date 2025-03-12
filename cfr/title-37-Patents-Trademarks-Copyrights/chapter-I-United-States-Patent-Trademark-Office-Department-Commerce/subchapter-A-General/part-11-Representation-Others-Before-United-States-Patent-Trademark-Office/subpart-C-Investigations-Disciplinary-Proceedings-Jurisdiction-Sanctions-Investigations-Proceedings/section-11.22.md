@@ -1,5 +1,7 @@
 ##### § 11.22 Disciplinary investigations. #####
 
+Link to an amendment published at 86 FR 28458, May 26, 2021.
+
 (a) The OED Director is authorized to investigate possible grounds for discipline. An investigation may be initiated when the OED Director receives a grievance, information or evidence from any source suggesting possible grounds for discipline. Neither unwillingness nor neglect by a grievant to prosecute a charge, nor settlement, compromise, or restitution with the grievant, shall in itself justify abatement of an investigation.
 
 (b) Any person possessing information or evidence concerning possible grounds for discipline of a practitioner may report the information or evidence to the OED Director. The OED Director may request that the report be presented in the form of an affidavit or declaration.

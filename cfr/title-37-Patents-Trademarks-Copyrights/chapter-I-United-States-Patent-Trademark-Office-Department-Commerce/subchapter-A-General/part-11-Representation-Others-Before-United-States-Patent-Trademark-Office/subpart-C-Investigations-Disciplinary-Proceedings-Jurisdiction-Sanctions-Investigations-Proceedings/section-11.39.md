@@ -1,5 +1,7 @@
 ##### § 11.39 Hearing officer; appointment; responsibilities; review of interlocutory orders; stays. #####
 
+Link to an amendment published at 86 FR 28461, May 26, 2021.
+
 (a) *Appointment.* A hearing officer, appointed by the USPTO Director under 5 U.S.C. 3105 or 35 U.S.C. 32, shall conduct disciplinary proceedings as provided by this Part.
 
 (b) *Independence of the Hearing Officer.* (1) A hearing officer appointed in accordance with paragraph (a) of this section shall not be subject to first level or second level supervision by either the USPTO Director or OED Director, or his or her designee.

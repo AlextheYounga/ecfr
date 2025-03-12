@@ -1,5 +1,7 @@
 ##### § 11.29 Reciprocal transfer or initial transfer to disability inactive status. #####
 
+Link to an amendment published at 86 FR 28459, May 26, 2021.
+
 (a) *Notification of OED Director.* (1) Transfer to disability inactive status in another jurisdiction as grounds for reciprocal transfer by the Office. Within thirty days of being transferred to disability inactive status in another jurisdiction, a practitioner subject to the disciplinary jurisdiction of the Office shall notify the OED Director in writing of the transfer. Upon notification from any source that a practitioner subject to the disciplinary jurisdiction of the Office has been transferred to disability inactive status in another jurisdiction, the OED Director shall obtain a certified copy of the order. The OED Director shall file with the USPTO Director:
 
 (i) The order;

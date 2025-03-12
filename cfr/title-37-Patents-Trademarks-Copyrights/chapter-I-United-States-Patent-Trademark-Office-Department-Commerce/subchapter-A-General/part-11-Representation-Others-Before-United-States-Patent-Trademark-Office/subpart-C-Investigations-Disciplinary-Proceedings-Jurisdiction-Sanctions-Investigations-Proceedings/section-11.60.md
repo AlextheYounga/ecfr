@@ -1,5 +1,7 @@
 ##### § 11.60 Petition for reinstatement. #####
 
+Link to an amendment published at 86 FR 28465, May 26, 2021.
+
 (a) *Restrictions on reinstatement.* An excluded, suspended or resigned practitioner shall not resume practice of patent, trademark, or other non-patent law before the Office until reinstated by order of the OED Director or the USPTO Director.
 
 (b) *Petition for reinstatement.* An excluded or suspended practitioner shall be eligible to apply for reinstatement only upon expiration of the period of suspension or exclusion and the practitioner's full compliance with § 11.58. An excluded practitioner shall be eligible to apply for reinstatement no earlier than at least five years from the effective date of the exclusion. A resigned practitioner shall be eligible to petition for reinstatement and must show compliance with § 11.58 no earlier than at least five years from the date the practitioner's resignation is accepted and an order is entered excluding the practitioner on consent.

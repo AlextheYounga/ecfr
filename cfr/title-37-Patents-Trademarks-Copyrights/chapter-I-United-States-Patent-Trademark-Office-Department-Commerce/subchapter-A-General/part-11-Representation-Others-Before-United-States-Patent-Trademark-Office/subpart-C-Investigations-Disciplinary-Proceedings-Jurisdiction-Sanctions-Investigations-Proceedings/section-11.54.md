@@ -1,5 +1,7 @@
 ##### § 11.54 Initial decision of hearing officer. #####
 
+Link to an amendment published at 86 FR 28463, May 26, 2021.
+
 (a) The hearing officer shall make an initial decision in the case. The decision will include:
 
 (1) A statement of findings of fact and conclusions of law, as well as the reasons or bases for those findings and conclusions with appropriate references to the record, upon all the material issues of fact, law, or discretion presented on the record, and
