@@ -1,5 +1,7 @@
 ##### § 622.206 Area and seasonal closures. #####
 
+Link to an amendment published at 85 FR 67310, Oct. 22, 2020.
+
 (a) *South Atlantic shrimp cold weather closure.* (1) Pursuant to the procedures and criteria established in the FMP for the Shrimp Fishery of the South Atlantic Region, when Florida, Georgia, North Carolina, or South Carolina closes all or a portion of its waters of the South Atlantic to the harvest of brown, pink, and white shrimp, the Assistant Administrator may concurrently close the South Atlantic EEZ adjacent to the closed state waters by filing a notification of closure with the Office of the Federal Register. Closure of the adjacent EEZ will be effective until the ending date of the closure in state waters, but may be ended earlier based on the state's request. In the latter case, the Assistant Administrator will terminate a closure of the EEZ by filing a notification to that effect with the Office of the Federal Register.
 
 (2) During a closure, as specified in paragraph (a)(1) of this section -
