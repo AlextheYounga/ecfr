@@ -1,10 +1,8 @@
 ##### § 412.60 DRG classification and weighting factors. #####
 
-Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
-
 (a) *Diagnosis-related groups.* CMS establishs a classification of inpatient hospital discharges by Diagnosis-Related Groups (DRGs).
 
-(b) *DRG weighting factors.* CMS assigns, for each DRG, an appropriate weighting factor that reflects the estimated relative cost of hospital resources used with respect to discharges classified within that group compared to discharges classified within other groups.
+(b) *DRG weighting factors.* CMS assigns, for each DRG, an appropriate weighting factor that reflects the estimated relative cost of hospital resources used with respect to discharges classified within that group compared to discharges classified within other groups, subject to a maximum ten percent reduction to the weighting factor for a DRG as compared to the weighting factor for the same DRG for the prior fiscal year.
 
 (c) *Assignment of discharges to DRGs.* CMS establishs a methodology for classifying specific hospital discharges within DRGs which ensures that each hospital discharge is appropriately assigned to a single DRG based on essential data abstracted from the inpatient bill for that discharge.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (e) *Revision of DRG classification and weighting factors.* Beginning with discharges in fiscal year 1988, CMS adjusts the classifications and weighting factors established under paragraphs (a) and (b) of this section at least annually to reflect changes in treatment patterns, technology, and other factors that may change the relative use of hospital resources.
 
-[50 FR 12741, Mar. 29, 1985, as amended at 52 FR 33057, Sept. 1, 1987; 57 FR 39821, Sept. 1, 1992; 59 FR 45397, Sept. 1, 1994]
+[50 FR 12741, Mar. 29, 1985, as amended at 52 FR 33057, Sept. 1, 1987; 57 FR 39821, Sept. 1, 1992; 59 FR 45397, Sept. 1, 1994; 87 FR 49403, Aug. 10, 2022]

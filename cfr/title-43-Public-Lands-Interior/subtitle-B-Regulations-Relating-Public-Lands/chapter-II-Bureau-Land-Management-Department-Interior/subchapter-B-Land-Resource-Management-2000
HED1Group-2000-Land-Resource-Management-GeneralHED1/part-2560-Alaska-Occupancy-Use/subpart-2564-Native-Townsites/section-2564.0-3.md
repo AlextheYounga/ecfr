@@ -1,0 +1,3 @@
+##### § 2564.0-3 Authority. #####
+
+The Act of May 25, 1926, (44 Stat. 629; 43 U.S.C. 733-736) provides for the townsite survey and disposition of public lands set apart or reserved for the benefit of Indian or Eskimo occupants in trustee townsites in Alaska and for the survey and disposal of the lands occupied as native towns or villages. The Act of February 26, 1948 (62 Stat. 35; 43 U.S.C. 737), provides for the issuance of an unrestricted deed to any competent native for a tract of land claimed and occupied by him within any such trustee townsite.

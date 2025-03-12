@@ -1,14 +1,16 @@
 ##### § 483.90 Physical environment. #####
 
-Link to an amendment published at 87 FR 47618, Aug. 3, 2022.
-
 The facility must be designed, constructed, equipped, and maintained to protect the health and safety of residents, personnel and the public.
 
-(a) *Life safety from fire.* (1) Except as otherwise provided in this section -
+(a) *Life safety from fire.* (1) Except as otherwise provided in this section—
 
 (i) The LTC facility must meet the applicable provisions and must proceed in accordance with the Life Safety Code (NFPA 101 and Tentative Interim Amendments TIA 12-1, TIA 12-2, TIA 12-3, and TIA 12-4.)
 
 (ii) Notwithstanding paragraph (a)(1)(i) of this section, corridor doors and doors to rooms containing flammable or combustible materials must be provided with positive latching hardware. Roller latches are prohibited on such doors.
+
+(iii) If a facility is Medicare- or Medicaid-certified before July 5, 2016 and the facility has previously used the Fire Safety Evaluation System for compliance, the facility may use the scoring values in the following Mandatory Values Chart:
+
+![](/graphics/er03au22.033.gif)
 
 (2) In consideration of a recommendation by the State survey agency or Accrediting Organization or at the discretion of the Secretary, may waive, for periods deemed appropriate, specific provisions of the Life Safety Code, which would result in unreasonable hardship upon a long-term care facility, but only if the waiver will not adversely affect the health and safety of the patients.
 
@@ -68,7 +70,7 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (2) When life support systems are used, the facility must provide emergency electrical power with an emergency generator (as defined in NFPA 99, Health Care Facilities) that is located on the premises.
 
-(d) *Space and equipment.* The facility must -
+(d) *Space and equipment.* The facility must—
 
 (1) Provide sufficient space and equipment in dining, health services, recreation, living, and program areas to enable staff to provide residents with needed services as required by these standards and as identified in each resident's assessment and plan of care;
 
@@ -78,7 +80,7 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (e) *Resident rooms.* Resident rooms must be designed and equipped for adequate nursing care, comfort, and privacy of residents.
 
-(1) Bedrooms must -
+(1) Bedrooms must—
 
 (i) Accommodate no more than four residents. For facilities that receive approval of construction or reconstruction plans by State and local authorities or are newly certified after November 28, 2016, bedrooms must accommodate no more than two residents.
 
@@ -94,7 +96,7 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (vii) Have a floor at or above grade level.
 
-(2) The facility must provide each resident with -
+(2) The facility must provide each resident with—
 
 (i) A separate bed of proper size and height for the safety and convenience of the resident;
 
@@ -104,7 +106,7 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (iv) Functional furniture appropriate to the resident's needs, and individual closet space in the resident's bedroom with clothes racks and shelves accessible to the resident.
 
-(3) CMS, or in the case of a nursing facility the survey agency, may permit variations in requirements specified in paragraphs (d)(1) (i) and (ii) of this section relating to rooms in individual cases when the facility demonstrates in writing that the variations -
+(3) CMS, or in the case of a nursing facility the survey agency, may permit variations in requirements specified in paragraphs (d)(1) (i) and (ii) of this section relating to rooms in individual cases when the facility demonstrates in writing that the variations—
 
 (i) Are in accordance with the special needs of the residents; and
 
@@ -112,13 +114,13 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (f) *Bathroom facilities.* Each resident room must be equipped with or located near toilet and bathing facilities. For facilities that receive approval of construction from State and local authorities or are newly certified after November 28, 2016, each resident room must have its own bathroom equipped with at least a commode and sink.
 
-(g) *Resident call system.* The facility must be adequately equipped to allow residents to call for staff assistance through a communication system which relays the call directly to a staff member or to a centralized staff work area from -
+(g) *Resident call system.* The facility must be adequately equipped to allow residents to call for staff assistance through a communication system which relays the call directly to a staff member or to a centralized staff work area from—
 
 (1) Each resident's bedside; and
 
 (2) Toilet and bathing facilities.
 
-(h) *Dining and resident activities.* The facility must provide one or more rooms designated for resident dining and activities. These rooms must -
+(h) *Dining and resident activities.* The facility must provide one or more rooms designated for resident dining and activities. These rooms must—
 
 (1) Be well lighted;
 
@@ -128,7 +130,7 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (4) Have sufficient space to accommodate all activities.
 
-(i) *Other environmental conditions.* The facility must provide a safe, functional, sanitary, and comfortable environment for the residents, staff and the public. The facility must -
+(i) *Other environmental conditions.* The facility must provide a safe, functional, sanitary, and comfortable environment for the residents, staff and the public. The facility must—
 
 (1) Establish procedures to ensure that water is available to essential areas when there is a loss of normal water supply;
 
@@ -168,4 +170,4 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (2) [Reserved]
 
-[56 FR 48876, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992; 68 FR 1386, Jan. 10, 2003; 69 FR 49268, Aug. 11, 2004; 70 FR 15238, Mar. 25, 2005; 71 FR 55340, Sept. 22, 2006; 73 FR 47091, Aug. 13, 2008; 79 FR 27155, May 12, 2014; 81 FR 26899, May 4, 2016; 81 FR 42548, June 30, 2016. Redesignated and amended at 81 FR 68861, 68870, Oct. 4, 2016; 82 FR 32259, July 13, 2017; 86 FR 42524, Aug. 4, 2021]
+[56 FR 48876, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992; 68 FR 1386, Jan. 10, 2003; 69 FR 49268, Aug. 11, 2004; 70 FR 15238, Mar. 25, 2005; 71 FR 55340, Sept. 22, 2006; 73 FR 47091, Aug. 13, 2008; 79 FR 27155, May 12, 2014; 81 FR 26899, May 4, 2016; 81 FR 42548, June 30, 2016. Redesignated and amended at 81 FR 68861, 68870, Oct. 4, 2016; 82 FR 32259, July 13, 2017; 86 FR 42524, Aug. 4, 2021; 87 FR 47618, Aug. 3, 2022]

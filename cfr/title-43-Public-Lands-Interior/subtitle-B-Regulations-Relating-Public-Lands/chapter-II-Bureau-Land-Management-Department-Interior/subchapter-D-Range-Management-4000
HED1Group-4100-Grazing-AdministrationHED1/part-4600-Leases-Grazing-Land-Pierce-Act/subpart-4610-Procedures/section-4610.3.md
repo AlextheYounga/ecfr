@@ -1,0 +1,3 @@
+##### § 4610.3 Payment of rental. #####
+
+The carrying capacity of the lands will be taken into consideration in negotiating the rental to be paid. Payment of rentals will be made annually by the United States at the end of the period for which licenses or permits to graze on the lands involved have been granted, or as soon thereafter as the moneys collected by the United States from its licensees or permittees for the use of such lands have been appropriated by the Congress in accordance with the provisions of the Pierce Act, and made available for such purpose, or moneys for the payment of such rentals have been made available through contributions under section 9 of the Taylor Grazing Act (48 Stat. 1273; 43 U.S.C. 315h).

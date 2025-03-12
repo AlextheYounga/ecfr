@@ -1,0 +1,3 @@
+##### § 2450.2 Preliminary determination. #####
+
+Upon the filing of a petition-application, the authorized officer shall make a preliminary determination as to whether it is regular upon its face and, where there is no apparent defect, shall proceed to investigate and classify the land for which it has been filed. No further consideration will be given to the merits of an application or the qualifications of an applicant unless or until the land has been classified for the purpose for which the petition-application has been filed.

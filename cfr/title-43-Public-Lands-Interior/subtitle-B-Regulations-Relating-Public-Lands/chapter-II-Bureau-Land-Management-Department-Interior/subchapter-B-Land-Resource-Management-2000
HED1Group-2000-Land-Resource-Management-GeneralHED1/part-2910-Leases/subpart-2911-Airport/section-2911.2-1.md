@@ -1,0 +1,3 @@
+##### § 2911.2-1 Preapplication activity. #####
+
+Persons seeking to lease public lands under this subpart shall first consult with the authorized officer in the District or Resource Area Office in which the lands are located. Such consultation is necessary to determine land availability and conformity of proposed use with approved land use plans, explain associated statutory and regulatory requirements, familiarize the potential applicant with respective management responsibilities, set forth the application processing procedures for the proposed action, and identify potential conflicts. Upon completion of the consultation, persons seeking to lease public lands for a public airport may submit an application for consideration by the authorized officer.

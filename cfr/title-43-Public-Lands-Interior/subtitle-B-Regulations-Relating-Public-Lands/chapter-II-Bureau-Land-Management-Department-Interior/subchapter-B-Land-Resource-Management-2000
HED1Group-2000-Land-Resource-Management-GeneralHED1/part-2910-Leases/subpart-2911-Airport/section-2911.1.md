@@ -1,0 +1,15 @@
+##### § 2911.1 Terms and conditions. #####
+
+(a) The lessee shall, within 1 year from the date of issuance of the lease, equip the airport as required by the Administrator and file a report thereof in the Bureau of Land Management District office having jurisdiction over the lands under lease.
+
+(b) At any time during the term of the lease, the Administrator may have an inspection made of the airport, and if the airport does not comply with the ratings set by the Federal Aviation Administration, the Administrator shall submit a written statement describing the deficiencies to the Bureau of Land Management District office having jurisdiction over the lands under lease for appropriate action.
+
+(c) The authorized officer may cancel, in whole or in part, a lease issued under the Act for any of the following reasons: Lessee failure to use the leased premises or any part thereof for a period of at least 6 months; use of the property or any part thereof for a purpose other than the authorized use; failure to pay the annual rental in full on or before the date due; failure to maintain the premises according to the ratings set by the Federal Aviation Administration; failure to comply with the regulations in this part or the terms of the lease.
+
+(d) Leases under the Act shall be for a period not to exceed 20 years and may be renewed for like periods.
+
+(e) Annual rental for leases to any citizen of the United States, any group or association of citizens, or any corporation organized under the laws of the United States or any State shall be at appraised fair market rental, with a minimum annual rental payment of $100. State or political subdivisions thereof, including counties and municipalities, shall pay to the lessor an annual rental calculated at the appraised fair market value of the rental of the property less 50%, with a minimum annual rental payment of $100. In fixing the rentals, consideration shall be given to all pertinent facts and circumstances, including use of the airport by government departments and agencies. Rental of each lease shall be reconsidered and revised at 5-year intervals to reflect current appraised fair market value. The first annual rental payment shall be made prior to issuance of the lease. All subsequent payments shall be paid on or before the anniversary date of issuance of the lease.
+
+(f) The lessee shall agree that all departments and agencies of the United States operating aircraft shall have free and unrestricted use of the airport and, with the approval of the authorized officer, such departments or agencies shall have the right to erect and install therein such structures and improvements as are deemed advisable by the heads of such departments and agencies. Whenever the President may deem it necessary for military purposes, the Secretary of the Army may assume full control of the airport.
+
+(g) The lessee shall submit to the Administrator for approval regulations governing operations of the airport.

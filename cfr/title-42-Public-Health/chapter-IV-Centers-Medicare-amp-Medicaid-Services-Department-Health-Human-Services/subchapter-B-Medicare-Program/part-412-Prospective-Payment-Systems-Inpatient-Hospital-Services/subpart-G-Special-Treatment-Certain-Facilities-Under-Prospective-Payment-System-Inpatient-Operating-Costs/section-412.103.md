@@ -1,7 +1,5 @@
 ##### § 412.103 Special treatment: Hospitals located in urban areas and that apply for reclassification as rural. #####
 
-Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
-
 (a) *General criteria.* A prospective payment hospital that is located in an urban area (as defined in subpart D of this part) may be reclassified as a rural hospital if it submits an application in accordance with paragraph (b) of this section and meets any of the following conditions:
 
 (1) The hospital is located in a rural census tract of a Metropolitan Statistical Area (MSA) as determined under the most recent version of the Goldsmith Modification, the Rural-Urban Commuting Area codes, as determined by the Office of Rural Health Policy (ORHP) of the Health Resources and Services Administration, which is available via the ORHP Web site at: *http://www.ruralhealth.hrsa.gov* or from the U.S. Department of Health and Human Services, Health Resources and Services Administration, Office of Rural Health Policy, 5600 Fishers Lane, Room 9A-55, Rockville, MD 20857.
@@ -18,7 +16,9 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (7) For a hospital with a main campus and one or more remote locations under a single provider agreement where services are provided and billed under the inpatient hospital prospective payment system and that meets the provider-based criteria at § 413.65 of this chapter as a main campus and a remote location of a hospital, the hospital is required to demonstrate that the main campus and its remote location(s) each independently satisfy the location conditions specified in paragraphs (a)(1) and (2) of this section.
 
-(b) *Application requirements* - (1) *Written application.* A hospital seeking reclassification under this section must submit a complete application in writing to CMS in accordance with paragraphs (b)(2) and (b)(3) of this section.
+(8) For a hospital with a main campus and one or more remote locations under a single provider agreement where services are provided and billed under the inpatient hospital prospective payment system and that meets the provider-based criteria at § 413.65 of this chapter as a main campus and a remote location of a hospital, approved rural reclassification status applies to the main campus and any remote location located in an urban area (as defined in § 412.64(b) and including a main campus or any remote location deemed urban under section 1886(d)(8)(B) of the Act).
+
+(b) *Application requirements*—(1) *Written application.* A hospital seeking reclassification under this section must submit a complete application in writing to CMS in accordance with paragraphs (b)(2) and (b)(3) of this section.
 
 (2) *Contents of application.* An application is complete if it contains an explanation of how the hospital meets the condition that constitutes the basis of the request for reclassification set forth in paragraph (a) of this section, including data and documentation necessary to support the request.
 
@@ -40,7 +40,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (f) *Duration of classification.* An approved reclassification under this section remains in effect without need for reapproval unless there is a change in the circumstances under which the classification was approved.
 
-(g) *Cancellation of classification* - (1) *Hospitals other than rural referral centers.* Except as provided in paragraph (g)(2) of this section -
+(g) *Cancellation of classification*—(1) *Hospitals other than rural referral centers.* Except as provided in paragraph (g)(2) of this section—
 
 (i) A hospital may cancel its rural reclassification by submitting a written request to the CMS Regional Office not less than 120 days prior to the end of its current cost reporting period.
 
@@ -48,7 +48,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (iii) The provisions of paragraphs (g)(1)(i) and (ii) of this section are effective for all written requests submitted by hospitals before October 1, 2019 to cancel rural reclassifications.
 
-(2) *Hospitals classified as rural referral centers.* For a hospital that was classified as a rural referral center under § 412.96 based on rural reclassification under this section -
+(2) *Hospitals classified as rural referral centers.* For a hospital that was classified as a rural referral center under § 412.96 based on rural reclassification under this section—
 
 (i) A hospital may cancel its rural reclassification by submitting a written request to the CMS Regional Office not less than 120 days prior to the end of a Federal fiscal year and after being paid as rural for at least one 12-month cost reporting period.
 
@@ -62,4 +62,4 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (5) *Special rule for hospitals that opt to receive county out-migration adjustment.* A rural reclassification will be considered canceled effective for the next Federal fiscal year when a hospital, by submitting a request to CMS within 45 days of the date of public display of the proposed rule for the next Federal fiscal year at the Office of the Federal Register, opts to accept and receives its county out-migration wage index adjustment determined under section 1886(d)(13) of the Act in lieu of its geographic reclassification described under section 1886(d)(8)(B) of the Act.
 
-[65 FR 47048, Aug. 1, 2000, as amended at 69 FR 49244, Aug. 11, 2004; 69 FR 60252, Oct. 7, 2004; 70 FR 47486, Aug. 12, 2005; 72 FR 47411, Aug. 22, 2007; 74 FR 43997, Aug. 27, 2009; 79 FR 50353, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 83 FR 41703, Aug. 17, 2018; 84 FR 42613, Aug. 16, 2019; 86 FR 45519, Aug. 13, 2021]
+[65 FR 47048, Aug. 1, 2000, as amended at 69 FR 49244, Aug. 11, 2004; 69 FR 60252, Oct. 7, 2004; 70 FR 47486, Aug. 12, 2005; 72 FR 47411, Aug. 22, 2007; 74 FR 43997, Aug. 27, 2009; 79 FR 50353, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 83 FR 41703, Aug. 17, 2018; 84 FR 42613, Aug. 16, 2019; 86 FR 45519, Aug. 13, 2021; 87 FR 49403, Aug. 10, 2022]

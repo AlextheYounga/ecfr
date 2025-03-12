@@ -1,0 +1,5 @@
+##### § 2812.1-3 Unauthorized use, occupancy, or development. #####
+
+Any use, occupancy, or development of the Revested Oregon and California Railroad and Reconveyed Coos Bay Wagon Road Grant Lands (O&C) lands (as is defined in 43 CFR 2812.0-5(e)), for tramroads without an authorization pursuant to this subpart, or which is beyond the scope and specific limitations of such an authorization, or that cause unnecessary or undue degradation, is prohibited and shall constitute a trespass as defined in § 2808.10 of this chapter. Anyone determined by the authorized officer to be in violation of this section shall be notified of such trespass in writing and shall be liable to the United States for all costs and payments determined in the same manner as set forth in subpart 2808 of this chapter.
+
+[70 FR 21078, Apr. 22, 2005]

@@ -1,5 +1,7 @@
 ##### § 635.69 Vessel monitoring systems. #####
 
+Link to an amendment published at 87 FR 60007, Oct. 3, 2022.
+
 (a) *Applicability.* To facilitate enforcement of time/area and fishery closures, enhance reporting, and support the IBQ Program (§ 635.15), an owner or operator of a commercial vessel permitted, or required to be permitted, to fish for Atlantic HMS under § 635.4 and that fishes with pelagic or bottom longline, gillnet, or purse seine gear, is required to install a NMFS-approved enhanced mobile transmitting unit (E-MTU) vessel monitoring system (VMS) on board the vessel and operate the VMS unit under the circumstances listed in paragraphs (a)(1) through (a)(4) of this section. For purposes of this section, a NMFS-approved E-MTU VMS is one that has been approved by NMFS as satisfying its type approval listing for E-MTU VMS units. Those requirements are published in the Federal Register and may be updated periodically.
 
 (1) Whenever the vessel has pelagic longline or purse seine gear on board;

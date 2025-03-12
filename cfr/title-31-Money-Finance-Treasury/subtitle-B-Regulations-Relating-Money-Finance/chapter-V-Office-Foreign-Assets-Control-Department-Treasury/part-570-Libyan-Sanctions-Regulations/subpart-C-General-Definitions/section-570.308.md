@@ -1,3 +1,3 @@
-##### § 570.308 Person. #####
+##### § 570.308 Interest. #####
 
-The term *person* means an individual or entity.
+Except as otherwise provided in this part, the term *interest,* when used with respect to property (*e.g.,* “an interest in property”), means an interest of any nature whatsoever, direct or indirect.

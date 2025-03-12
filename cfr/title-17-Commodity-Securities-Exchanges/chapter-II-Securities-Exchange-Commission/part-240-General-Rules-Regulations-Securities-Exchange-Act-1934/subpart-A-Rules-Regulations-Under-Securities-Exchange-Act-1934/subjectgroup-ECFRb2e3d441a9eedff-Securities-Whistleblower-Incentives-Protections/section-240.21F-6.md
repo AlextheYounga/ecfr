@@ -1,7 +1,5 @@
 ##### § 240.21F-6 Criteria for determining amount of award. #####
 
-Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
-
 In exercising its discretion to determine the appropriate award, the Commission may consider the following factors (and only the following factors) in relation to the facts and circumstances of each case in setting the dollar or percentage amount of the award. In the event that awards are determined for multiple whistleblowers in connection an action, these factors will be used to determine the relative allocation of awards among the whistleblowers.
 
 (a) *Factors that may increase the amount of a whistleblower's award.* In determining whether to increase the amount of an award, the Commission will consider the following factors, which are not listed in order of importance.
@@ -94,4 +92,6 @@ In exercising its discretion to determine the appropriate award, the Commission 
 
 (3) Notwithstanding § 240.21F-6(c)(2), if two or more claimants qualify for an award in connection with any covered action or related action and at least one of those claimant's award applications qualifies under § 240.21F-6(c)(1), the aggregate amount awarded to all meritorious claimants will be the statutory maximum. In allocating that amount among the meritorious claimants, the Commission will consider whether an individual claimant's award application satisfies §§ 240.21F-6(c)(1)(ii) and 240.21F-6(c)(1)(iii).
 
-[76 FR 34363, June 13, 2011, as amended at 85 FR 70943, Nov. 5, 2020]
+(d) *Consideration of the dollar amount of an award.* When applying the award factors specified in paragraphs (a) and (b) of this section, the Commission may consider the dollar amount of a potential award for the limited purpose of increasing the award amount. The Commission shall not, however, use the dollar amount of a potential award as a basis to lower a potential award, including when applying the factors specified in paragraphs (a) and (b) of this section.
+
+[76 FR 34363, June 13, 2011, as amended at 85 FR 70943, Nov. 5, 2020; 87 FR 54150, Sept. 2, 2022]

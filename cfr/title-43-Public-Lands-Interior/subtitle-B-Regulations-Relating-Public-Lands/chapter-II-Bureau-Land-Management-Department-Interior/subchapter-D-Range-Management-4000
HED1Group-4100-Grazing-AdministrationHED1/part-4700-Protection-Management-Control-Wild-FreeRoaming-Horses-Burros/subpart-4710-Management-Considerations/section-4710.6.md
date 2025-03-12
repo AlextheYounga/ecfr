@@ -1,0 +1,3 @@
+##### § 4710.6 Removal of unauthorized livestock in or near areas occupied by wild horses or burros. #####
+
+The authorized officer may establish conditions for the removal of unauthorized livestock from public lands adjacent to or within areas occupied by wild horses or burros to prevent undue harassment of the wild horses or burros. Liability and compensation for damages from unauthorized use shall be determined in accordance with subpart 4150 of this title.

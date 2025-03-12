@@ -1,0 +1,3 @@
+##### § 2932.13 How will I know if individual use of a special area requires a Special Recreation Permit? #####
+
+BLM will publish notification of the requirement to obtain a Special Recreation Permit to enter a special area in the Federal Register and local and regional news media. We will post permit requirements at major access points for the special area and provide information at the local BLM office.

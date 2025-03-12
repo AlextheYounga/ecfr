@@ -1,0 +1,3 @@
+##### § 2613.0-3 Authority. #####
+
+The Act approved February 14, 1920 (41 Stat. 407; 43 U.S.C. 644), provides that upon restoration of Carey Act lands from segregation, the Secretary is authorized, in his discretion, to allow a preference right of entry under other applicable land laws to any Carey Act entryman on any such lands which such person had entered under and pursuant to the State laws providing for the administration of the grant and upon which such person had established actual, *bona fide* residence or had made substantial and permanent improvements.

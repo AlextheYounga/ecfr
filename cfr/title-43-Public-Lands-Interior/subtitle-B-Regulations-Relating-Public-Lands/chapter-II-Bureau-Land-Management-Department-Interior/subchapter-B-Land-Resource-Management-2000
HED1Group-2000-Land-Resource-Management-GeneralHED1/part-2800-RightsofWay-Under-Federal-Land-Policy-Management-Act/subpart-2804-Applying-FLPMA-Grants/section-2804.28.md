@@ -1,0 +1,5 @@
+##### § 2804.28 What processing fees must I pay for a BLM grant application associated with Federal Energy Regulatory Commission (FERC) licenses or re-license applications under part I of the Federal Power Act (FPA)? #####
+
+(a) You must reimburse BLM for the costs which the United States incurs in processing your grant application associated with a FERC project, other than those described at § 2801.6(b)(7) of this part. BLM also requires reimbursement for processing a grant application associated with a FERC project licensed before October 24, 1992, that involves the use of additional public lands outside the original area reserved under section 24 of the FPA.
+
+(b) BLM will determine the amount you must pay by using the processing fee categories described at § 2804.14 of this subpart and bill you for the costs. FERC will address other costs associated with processing a FERC license or relicense (*see* 18 CFR chapter I).

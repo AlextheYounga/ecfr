@@ -1,0 +1,9 @@
+##### § 2650.5-4 Village surveys. #####
+
+(a) Only the exterior boundaries of contiguous entitlements for each village corporation will be surveyed. Where land within the outer perimeter of a selection is not selected, the boundaries along the area excluded shall be deemed exterior boundaries. The survey will be made after the total acreage entitlement of the village has been selected.
+
+(b) Surveys will be made within the village corporation selections to delineate those tracts required by law to be conveyed by the village corporations pursuant to section 14(c) of the Act.
+
+(c) (1) The boundaries of the tracts described in paragraph (b) of this section shall be posted on the ground and shown on a map which has been approved in writing by the affected village corporation and submitted to the Bureau of Land Management. Conflicts arising among potential transferees identified in section 14(c) of the Act, or between the village corporation and such transferees, will be resolved prior to submission of the map. Occupied lots to be surveyed will be those which were occupied as of December 18, 1971.
+
+(2) Lands shown by the records of the Bureau of Land Management as not having been conveyed to the village corporation will be excluded by adjustments on the map by the Bureau of Land Management. No surveys shall begin prior to final written approval of the map by the village corporation and the Bureau of Land Management. After such written approval, the map will constitute a plan of survey. Surveys will then be made in accordance with the plan of survey. No further changes will be made to accommodate additional section 14(c) transferees, and no additional survey work desired by the village corporation or municipality within the area covered by the plan of survey or immediately adjacent thereto will be performed by the Secretary.

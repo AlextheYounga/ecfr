@@ -1,5 +1,7 @@
 ##### § 660.12 General groundfish prohibitions. #####
 
+Link to an amendment published at 87 FR 59728, Oct. 3, 2022.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to:
 
 (a) *General.* (1) Retain any prohibited or protected species caught by means of fishing gear authorized under this subpart, unless otherwise authorized. Except as otherwise authorized, prohibited and protected species must be returned to the sea as soon as practicable with a minimum of injury when caught and brought on board.

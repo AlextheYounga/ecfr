@@ -1,0 +1,3 @@
+##### § 210.15 Direct presentment of certain warrants. #####
+
+If a Reserve Bank elects to present direct to the payor a bill, note, or warrant that is issued and payable by a State or a political subdivision and that is a cash item not payable or collectible through a bank: (a) Sections 210.9, 210.12, and 210.13 and the operating circulars of the Reserve Banks apply to the payor as if it were a paying bank; (b) § 210.14 applies to the payor as if it were a bank; and (c) under § 210.9 each day on which the payor is open for the regular conduct of its affairs or the accommodation of the public is considered a banking day.

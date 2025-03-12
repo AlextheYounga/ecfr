@@ -1,0 +1,3 @@
+##### § 2091.0-1 Purpose. #####
+
+The purpose of this subpart is to provide a general restatement of the regulatory provisions in title 43 of the Code of Federal Regulations dealing with the segregation and opening of public lands administered by the Secretary of the Interior through the Bureau of Land Management and summarize the existing procedures covering opening and closing of lands as they relate to the filing of applications. The provisions of this subpart do not replace or supersede any provisions of title 43 covering opening and closing of public lands.

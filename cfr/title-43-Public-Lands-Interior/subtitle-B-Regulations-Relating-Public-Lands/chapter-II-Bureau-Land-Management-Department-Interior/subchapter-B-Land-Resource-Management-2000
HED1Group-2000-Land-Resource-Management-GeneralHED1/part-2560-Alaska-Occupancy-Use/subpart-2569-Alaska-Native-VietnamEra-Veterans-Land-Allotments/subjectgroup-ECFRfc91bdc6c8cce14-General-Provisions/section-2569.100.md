@@ -1,0 +1,3 @@
+##### § 2569.100 What is the purpose of this subpart? #####
+
+The purpose of this subpart is to implement section 1119 of the John D. Dingell, Jr. Conservation, Management, and Recreation Act of March 12, 2019, Public Law 116-9, codified at 43 U.S.C. 1629g-1, which allows Eligible Individuals to receive an allotment of a single parcel of available Federal lands in Alaska containing not less than 2.5 acres and not more than 160 acres.

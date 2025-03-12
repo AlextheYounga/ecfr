@@ -1,0 +1,3 @@
+##### § 2547.7 Coordination with State and local governments. #####
+
+At least 60 days prior to offering land for sale, the authorized officer shall notify the Governor of the State within which the lands are located and the head of the governing body of any political subdivision of the State having zoning or other land use regulatory jurisdiction in the geographical area within which the lands are located that the lands are being offered for sale. The authorized officer shall also promptly notify such public officials of the issuance of the patent for such lands.

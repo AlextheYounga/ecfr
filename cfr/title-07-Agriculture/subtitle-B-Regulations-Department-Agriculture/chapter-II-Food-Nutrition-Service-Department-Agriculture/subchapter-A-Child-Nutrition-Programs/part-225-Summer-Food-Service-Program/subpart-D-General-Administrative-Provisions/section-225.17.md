@@ -28,4 +28,4 @@
 
 (f) All contracts in excess of $10,000 must contain a clause allowing termination for cause or for convenience by the sponsor including the manner by which it will be effected and the basis for settlement.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 71 FR 39518, July 13, 2006; 76 FR 22607, Apr. 22, 2011; 81 FR 66492, Sept. 28, 2016; 83 FR 25361, June 1, 2018]
+[54 FR 18208, Apr. 27, 1989, as amended at 71 FR 39518, July 13, 2006; 76 FR 22607, Apr. 22, 2011; 81 FR 66492, Sept. 28, 2016; 83 FR 25361, June 1, 2018; 87 FR 57365, Sept. 19, 2022]

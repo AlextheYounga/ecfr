@@ -1,0 +1,7 @@
+##### § 2806.22 When and how does the Per Acre Rent Schedule change? #####
+
+(a) Each calendar year the BLM will adjust the per acre rent values in § 2806.20 for all types of linear right-of-way facilities in each zone based on the average annual change in the IPD-GDP for the 10-year period immediately preceding the year that the NASS Census data becomes available. For example, the average annual change in the IPD-GDP from 1994 to 2003 (the 10-year period immediately preceding the year (2004) that the 2002 National Agricultural Statistics Service Census data became available) was 1.9 percent. This annual adjustment factor is applied to years 2006 through 2015 of the Per Acre Rent Schedule. Likewise, the average annual change in the IPD-GDP from 2004 to 2013 (the 10-year period immediately preceding the year (2014) when the 2012 NASS Census data will become available) will be applied to years 2016 through 2025 of the Per Acre Rent Schedule.
+
+(b) The BLM will review the NASS Census data from the 2012 NASS Census, and each subsequent 10-year period, and as appropriate, revise the number of county zones and the per acre zone values. Any revision must include 100 percent of the number of counties and listed geographical areas for all states and the Commonwealth of Puerto Rico and must reasonably reflect the increases or decreases in the average per acre land and building values contained in the NASS Census.
+
+[73 FR 65072, Oct. 31, 2008, as amended at 81 FR 92216, Dec. 19, 2016]

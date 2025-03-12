@@ -1,0 +1,15 @@
+##### § 2430.5 Additional criteria for classification of lands valuable for residential, commercial, agricultural, or industrial purposes. #####
+
+(a) Lands which have value for residential, commercial, agricultural, or industrial purposes, or for more than one of such purposes, will be considered chiefly valuable for that purpose which represents the *highest and best use* of the lands, i.e., their most profitable legal use in private ownership.
+
+(b) Lands may be classified for sale pursuant to the Public Land Sale Act as being chiefly valuable for residential, commercial, agricultural, or industrial uses or development (other than grazing use or use for raising native forage crops), if (1) adequate zoning regulations are in effect, and, where the lands also are needed for urban or suburban development, (2) adequate local governmental comprehensive plans have been adopted.
+
+(c) Lands determined to be valuable for residential, commercial, agricultural, or industrial purposes may be classified for disposal under any appropriate authority other than the Public Land Sale Act if (1) disposal under such other authority would be consistent with local governmental comprehensive plans, or (2) in the absence of such plans, with the views of local governmental authorities.
+
+(d) Lands outside of Alaska may be classified as suitable for homestead entry under part 2510 of this chapter if they are (1) chiefly valuable for agricultural purposes, and (2) suitable for development as a home and farm for a man and his family, and (3) the anticipated return from agricultural use of the land would support the residents. If it is determined that the irrigation of land otherwise suitable for homestead entry would endanger the supply of adequate water for existing users or cause the dissipation of water reserves, such land will not be classified for entry. Land may be classified for homestead entry only if rainfall is adequate, or if under State law, there is available to the land sufficient irrigation water, to permit agricultural development of its cultivable portions.
+
+(e) Lands may be classified as suitable for desert land entry under part 2520 of this chapter if (1) the lands are chiefly valuable for agricultural purposes, and (2) all provisions concerning irrigation water set forth in § 2430.5(d) are met.
+
+(f) Lands outside of Alaska may be classified as suitable for Indian allotment under part 2530 of this chapter if (1) the lands are valuable for agricultural purposes, and (2) the lands are on the whole suitable for a home for an Indian and his family, and (3) the anticipated return from agricultural use of the land would support the residents, and (4) the requirements for water supplies set forth in § 2430.5(d) are met.
+
+(g) Lands determined to be valuable for purposes other than public purposes may be determined to be suitable for exchange if the acquisition of the offered lands, the disposition of the public lands, and the anticipated costs of consummating the exchange will not disrupt governmental operations.

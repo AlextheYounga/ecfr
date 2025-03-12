@@ -1,0 +1,3 @@
+##### § 5511.3-3 Conservation practices. #####
+
+All free-use timber disposed of under the act shall be severed, or removed in accordance with sound forestry and conservation practices so as to preserve to the maximum extent feasible all scenic, recreational, watershed and other values of the land and resources. In the free-use disposal of timber, cutting and removal shall be accomplished in such a manner as to leave the stand in condition for continuous production.

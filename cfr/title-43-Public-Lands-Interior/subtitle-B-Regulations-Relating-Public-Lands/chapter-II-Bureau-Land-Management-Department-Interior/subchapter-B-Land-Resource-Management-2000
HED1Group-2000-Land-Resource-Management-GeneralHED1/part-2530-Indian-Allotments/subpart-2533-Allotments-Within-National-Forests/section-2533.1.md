@@ -1,0 +1,3 @@
+##### § 2533.1 Application. #####
+
+An Indian who desires to apply for an allotment within a national forest under this act must submit the application to the supervisor of the particular forest affected, by whom it will be forwarded with appropriate report, through the district forester and Chief, Forest Service, to the Secretary of Agriculture, in order that he may determine whether the land applied for is more valuable for agriculture or grazing than for the timber found thereon.

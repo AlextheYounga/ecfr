@@ -1,7 +1,5 @@
 ##### § 225.2 Definitions. #####
 
-Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
-
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
 
 *Act* means the National School Lunch Act, as amended.
@@ -14,19 +12,21 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 *Areas in which poor economic conditions exist* means:
 
-(a) The attendance area of a school in which at least 50 percent of the enrolled children have been determined eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program;
+(1) The attendance area of a school in which at least 50 percent of the enrolled children have been determined eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program;
 
-(b) A geographic area where, based on the most recent census data available or information provided from a department of welfare or zoning commission, at least 50 percent of the children residing in that area are eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program;
+(2) A geographic area where, based on the most recent census data available or information provided from a department of welfare or zoning commission, at least 50 percent of the children residing in that area are eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program;
 
-(c) A geographic area where a site demonstrates, based on other approved sources, that at least 50 percent of the children enrolled at the site are eligible for free or reduced-price meals under the National School Lunch Program and the School Breakfast Program; or
+(3) A geographic area where a site demonstrates, based on other approved sources, that at least 50 percent of the children enrolled at the site are eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program; or
 
-(d) A closed enrolled site.
+(4) A closed enrolled site in which at least 50 percent of the enrolled children at the site are eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program, as determined by approval of applications in accordance with § 225.15(f).
 
 *Camps* means residential summer camps and nonresidential day camps which offer a regularly scheduled food service as part of an organized program for enrolled children. Nonresidential camp sites shall offer a continuous schedule of organized cultural or recreational programs for enrolled children between meal services.
 
 *Children* means (a) persons 18 years of age and under, and (b) persons over 18 years of age who are determined by a State educational agency or a local public educational agency of a State to be mentally or physically handicapped and who participate in a public or nonprofit private school program established for the mentally or physically handicapped.
 
-*Closed enrolled site* means a site which is open only to enrolled children, as opposed to the community at large, and in which at least 50 percent of the enrolled children at the site are eligible for free or reduced price school meals under the National School Lunch Program and the School Breakfast Program, as determined by approval of applications in accordance with § 225.15(f).
+*Children's Health Insurance Program (CHIP)* means the State medical assistance program under title XXI of the Social Security Act (42 U.S.C. 1397aa *et seq.*).
+
+*Closed enrolled site* means a site which is open only to enrolled children, as opposed to the community at large, and in which at least 50 percent of the enrolled children at the site are eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program, as determined by approval of applications in accordance with § 225.15(f), or on the basis of documentation that the site meets paragraph (1), (2), or (3) of the definition of “Areas in which poor economic conditions exist” as provided in this section.
 
 *Continuous school calendar* means a situation in which all or part of the student body of a school is (a) on a vacation for periods of 15 continuous school days or more during the period October through April and (b) in attendance at regularly scheduled classes during most of the period May through September.
 
@@ -42,19 +42,19 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 (a) The completion of the following information on a free meal application:
 
-(1) Names of all household members;
+(1)(i) Names of all household members;
 
-(2) Income received by each household member, identified by source of income (such as earnings, wages, welfare, pensions, support payments, unemployment compensation, social security and other cash income);
+(ii) Income received by each household member, identified by source of income (such as earnings, wages, welfare, pensions, support payments, unemployment compensation, social security and other cash income);
 
-(3) The signature of an adult household member; and
+(iii) The signature of an adult household member; and
 
-(4) The last four digits of the social security number of the adult household member who signs the application, or an indication that the adult does not possess a social security number; or
+(iv) The last four digits of the social security number of the adult household member who signs the application, or an indication that the adult does not possess a social security number; or
 
 (b) For a child who is a member of a household receiving SNAP, FDPIR, or TANF benefits, “documentation” means completion of only the following information on a free meal application:
 
-(1) The name(s) and appropriate SNAP, FDPIR, or TANF case number(s) for the child(ren); and
+(2)(i) The name(s) and appropriate SNAP, FDPIR, or TANF case number(s) for the child(ren); and
 
-(2) the signature of an adult member of the household.
+(ii) the signature of an adult member of the household.
 
 *Excess funds* means the difference between any advance funding and reimbursement funding, when advance funds received by a sponsor are greater than the reimbursement amount earned by a sponsor.
 
@@ -88,11 +88,17 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 *Milk* means whole milk, lowfat milk, skim milk, and buttermilk. All milk must be fluid and pasteurized and must meet State and local standards for the appropriate type of milk. Milk served may be flavored or unflavored. In Alaska, Hawaii, American Samoa, Guam, Puerto Rico, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands of the United States, if a sufficient supply of such types of fluid milk cannot be obtained, reconstituted or recombined milk may be used. All milk should contain Vitamins A and D at the levels specified by the Food and Drug Administration and at levels consistent with State and local standards for such milk.
 
-*Needy children* means children from families whose incomes are equal to or below the Secretary's Guidelines for Determining Eligibility for Reduced Price School Meals.
+*Needy children* means children from families whose incomes are equal to or below the Secretary's published Child Nutrition Programs: Income Eligibility Guidelines.
+
+*Net cash resources* means all monies, as determined in accordance with the State agency's established accounting system that are available to or have accrued to a sponsor's nonprofit food service at any given time, less cash payable. Such monies may include, but are not limited to, cash on hand, cash receivable, earnings on investments, cash on deposit and the value of stocks, bonds, or other negotiable securities.
 
 *New site* means a site which did not participate in the Program in the prior year, or, as determined by the State agency, a site which has experienced significant staff turnover from the prior year.
 
 *New sponsor* means a sponsor which did not participate in the Program in the prior year, or, as determined by the State agency, a sponsor which has experienced significant staff turnover from the prior year.
+
+*Nonprofit food service* means all food service operations conducted by the sponsor principally for the benefit of children, all of the revenue from which is used solely for the operation or improvement of such food services.
+
+*Nonprofit food service account* means the restricted account in which all of the revenue from all food service operations conducted by the sponsor principally for the benefit of children is retained and used only for the operation or improvement of the nonprofit food service. This account must include, as appropriate, non-Federal funds used to support program operations, and proceeds from non-program foods.
 
 *NYSP* means the National Youth Sports Program administered by the National Collegiate Athletic Association.
 
@@ -100,7 +106,7 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 *OIG* means the Office of the Inspector General of the Department.
 
-*Open site* means a site at which meals are made available to all children in the area and which is located in an area in which at least 50 percent of the children are from households that would be eligible for free or reduced price school meals under the National School Lunch Program and the School Breakfast Program, as determined in accordance with paragraph (a) of the definition of *Areas in which poor economic conditions exist.*
+*Open site* means a site at which meals are made available to all children in the area and which is located in an area in which at least 50 percent of the children are from households that would be eligible for free or reduced price school meals under the National School Lunch Program and the School Breakfast Program, as determined in accordance with paragraph (1), (2), or (3) of the definition of “Areas in which poor economic conditions exist.”
 
 *Operating costs* means the cost of operating a food service under the Program,
 
@@ -128,7 +134,7 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 *Program payments* means financial assistance in the form of start-up payments, advance payments, or reimbursement paid to sponsors for operating and administrative costs.
 
-*Restricted open site* means a site which is initially open to broad community participation, but at which the sponsor restricts or limits attendance for reasons of security, safety or control. Site eligibility for a restricted open site shall be documented in accordance with paragraph (a) of the definition of *Areas in which poor economic conditions exist.*
+*Restricted open site* means a site which is initially open to broad community participation, but at which the sponsor restricts or limits attendance for reasons of security, safety or control. Site eligibility for a restricted open site shall be documented in accordance with paragraph (1), (2), or (3) of the definition of “Areas in which poor economic conditions exist.”
 
 *Rural* means (a) any area in a county which is not a part of a Metropolitan Statistical Area or (b) any “pocket” within a Metropolitan Statistical Area which, at the option of the State agency and with FNSRO concurrence, is determined to be geographically isolated from urban areas.
 
@@ -136,11 +142,15 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 *Secretary* means the Secretary of Agriculture.
 
+*Self-preparation site* means a site that prepares the majority of meals that will be served at its site or receives meals that are prepared at its sponsor's central kitchen. The site does not contract with a food service management company for unitized meals, with or without milk, or for management services.
+
 *Self-preparation sponsor* means a sponsor which prepares the meals that will be served at its site(s) and does not contract with a food service management company for unitized meals, with or without milk, or for management services.
 
 *Session* means a specified period of time during which an enrolled group of children attend camp.
 
 *Site* means a physical location at which a sponsor provides a food service for children and at which children consume meals in a supervised setting.
+
+*Site supervisor* means the individual on site for the duration of the meal service, who has been trained by the sponsor, and is responsible for all administrative and management activities at the site, including, but not limited to: maintaining documentation of meal deliveries, ensuring that all meals served are safe, and maintaining accurate point of service meal counts.
 
 *SNAP household* means any individual or group of individuals which is currently certified to receive assistance as a household from SNAP, the Supplemental Nutrition Assistance Program, as defined in § 245.2 of this chapter.
 
@@ -154,9 +164,11 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 *State agency* means the State educational agency or an alternate agency that has been designated by the Governor or other appropriate executive or legislative authority of the State and which has been approved by the Department to administer the Program within the State, or, in States where FNS administers the Program, FNSRO.
 
-*State Children's Health Insurance Program (SCHIP)* means the State medical assistance program under title XXI of the Social Security Act (42 U.S.C. 1397aa *et seq.*).
-
 *TANF* means the State funded program under part A of title IV of the Social Security Act that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995. This program is commonly referred to as Temporary Assistance for Needy Families, although States may refer to the program by another name.
+
+*Unaffiliated site* means a site that is legally distinct from the sponsor.
+
+*Unanticipated school closure* means any period from October through April (or any time of the year in an area with a continuous school calendar) during which children who are not in school due to a natural disaster, building repair, court order, labor-management disputes, or, when approved by the State agency, similar cause, may be served meals at non-school sites through the Summer Food Service Program.
 
 *Unit of local, municipal, county or State government* means an entity which is so recognized by the State constitution or State laws, such as the State administrative procedures act, tax laws, or other applicable State laws which delineate authority for government responsibility in the State.
 
@@ -164,8 +176,16 @@ Link to an amendment published at 87 FR 57355, Sept. 19, 2022.
 
 *Unused reimbursement* means the difference between the amount of reimbursement earned and received and allowable costs, when reimbursement exceeds costs.
 
+*Vended site* means a site that serves unitized meals, with or without milk, that are procured through a formal agreement or contract with:
+
+(1) Public agencies or entities, such as a school food authority;
+
+(2) Private, nonprofit organizations; or
+
+(3) Private, for-profit companies, such as a commercial food distributor or food service management company.
+
 *Vended sponsor* means a sponsor which purchases from a food service management company the unitized meals, with or without milk, which it will serve at its site(s), or a sponsor which purchases management services, subject to the limitations set forth in § 225.15, from a food service management company.
 
 *Yogurt* means commercially prepared coagulated milk products obtained by the fermentation of specific bacteria, that meet milk fat or milk solid requirements and to which flavoring foods or ingredients may be added. These products are covered by the Food and Drug Administration's Standard of Identity for yogurt, lowfat yogurt, and nonfat yogurt, (21 CFR 131.200), (21 CFR 131.203), (21 CFR 131.206), respectively.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018]
+[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018; 87 FR 57355, Sept. 19, 2022]

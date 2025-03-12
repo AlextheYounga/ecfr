@@ -1,0 +1,7 @@
+##### § 8341.2 Special rules. #####
+
+(a) Notwithstanding the consultation provisions in § 8342.2(a), where the authorized officer determines that off-road vehicles are causing or will cause considerable adverse effects upon soil, vegetation, wildlife, wildlife habitat, cultural resources, historical resources, threatened or endangered species, wilderness suitability, other authorized uses, or other resources, the authorized officer shall immediately close the areas affected to the type(s) of vehicle causing the adverse effect until the adverse effects are eliminated and measures implemented to prevent recurrence. Such closures will not prevent designation in accordance with procedures in subpart 8342 of this part, but these lands shall not be opened to the type(s) of off-road vehicle to which it was closed unless the authorized officer determines that the adverse effects have been eliminated and measures implemented to prevent recurrence.
+
+(b) Each State director is authorized to close portions of the public lands to use by off-road vehicles, except those areas or trails which are suitable and specifically designated as open to such use pursuant to subpart 8342 of this part.
+
+[44 FR 34836, June 15, 1979, as amended at 53 FR 31003, Aug. 17, 1988]

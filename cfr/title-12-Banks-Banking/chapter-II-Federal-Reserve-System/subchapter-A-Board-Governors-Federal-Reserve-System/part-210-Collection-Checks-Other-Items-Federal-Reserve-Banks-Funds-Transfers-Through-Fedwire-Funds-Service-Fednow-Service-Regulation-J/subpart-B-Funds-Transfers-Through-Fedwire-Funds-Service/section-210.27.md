@@ -1,0 +1,5 @@
+##### § 210.27 Reliance on identifying number. #####
+
+(a) *Reliance by a Federal Reserve Bank on number to identify an intermediary bank or beneficiary's bank.* A Federal Reserve Bank may rely on the number in a payment order that identifies the intermediary bank or beneficiary's bank, even if it identifies a bank different from the bank identified by name in the payment order, if the Federal Reserve Bank does not know of such an inconsistency in identification. A Federal Reserve Bank has no duty to detect any such inconsistency in identification.
+
+(b) *Reliance by a Federal Reserve Bank on number to identify beneficiary.* A Federal Reserve Bank, acting as a beneficiary's bank, may rely on the number in a payment order that identifies the beneficiary, even if it identifies a person different from the person identified by name in the payment order, if the Federal Reserve Bank does not know of such an inconsistency in identification. A Federal Reserve Bank has no duty to detect any such inconsistency in identification.

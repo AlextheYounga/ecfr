@@ -1,7 +1,9 @@
 ##### § 570.302 Effective date. #####
 
-The term *effective date* refers to the effective date of the applicable prohibitions and directives contained in this part as follows:
+(a) The term *effective date* refers to the effective date of the applicable prohibitions and directives contained in this part as follows:
 
-(a) With respect to the Government of Libya, as defined in § 570.304, or a person listed in the Annex to Executive Order 13566, 8 p.m. eastern standard time, February 25, 2011; or
+(1) With respect to the Government of Libya or any person whose property and interests in property are blocked pursuant to § 570.201(a)(1) or (2), 8:00 p.m. eastern standard time, February 25, 2011; and
 
-(b) With respect to a person whose property and interests in property are otherwise blocked pursuant to Executive Order 13566, the earlier of the date of actual or constructive notice that such person's property and interests in property are blocked.
+(2) With respect to a person whose property and interests in property are otherwise blocked pursuant to § 570.201, the earlier of the date of actual or constructive notice that such person's property and interests in property are blocked.
+
+(b) For the purposes of this section, c*onstructive notice* is the date that a notice of the blocking of the relevant person's property and interests in property is published in the Federal Register.

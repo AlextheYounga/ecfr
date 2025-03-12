@@ -1,0 +1,3 @@
+##### § 2920.3 Bureau of Land Management initiated land use proposals. #####
+
+Where, as a result of the land use planning process, the desirability of allowing use of the public lands or providing increased service to the public from such use of the public lands is demonstrated, the authorized officer may identify a use for the public land and notify the public that proposals for utilizing the land through a lease, permit or easement will be considered.

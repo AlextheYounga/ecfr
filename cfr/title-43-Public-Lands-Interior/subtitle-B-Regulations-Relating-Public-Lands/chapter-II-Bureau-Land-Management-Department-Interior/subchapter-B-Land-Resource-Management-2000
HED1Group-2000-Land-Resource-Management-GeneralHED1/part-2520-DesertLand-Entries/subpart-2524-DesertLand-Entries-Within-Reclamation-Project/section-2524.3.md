@@ -1,0 +1,3 @@
+##### § 2524.3 Time extended to make final proof. #####
+
+When the time for submitting final proof has arrived and the entryman is unable, by reason of the withdrawal of the land, to make such proof, upon proper showing, he will be excused and the time during which it is shown that he has been hindered or delayed on account of the withdrawal of the land will not be computed in determining the time within which final proof must be made.

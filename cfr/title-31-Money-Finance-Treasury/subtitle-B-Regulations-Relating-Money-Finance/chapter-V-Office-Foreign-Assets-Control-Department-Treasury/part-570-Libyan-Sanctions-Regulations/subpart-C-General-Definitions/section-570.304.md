@@ -1,19 +1,3 @@
-##### § 570.304 Government of Libya. #####
+##### § 570.304 Financial, material, logistical, or technical support; financial, material, logistical, or technological support. #####
 
-The term *Government of Libya* includes:
-
-(a) The state and the Government of Libya, as well as any political subdivision, agency, or instrumentality thereof, and the Central Bank of Libya;
-
-(b) Any entity owned or controlled, directly or indirectly, by the foregoing;
-
-(c) Any person to the extent that such person is, or has been, or to the extent that there is reasonable cause to believe that such person is, or has been, since the effective date, acting or purporting to act directly or indirectly on behalf of any of the foregoing; and
-
-(d) Any other person determined by the Office of Foreign Assets Control to be included within paragraphs (a) through (c) of this section.
-
-Note 1 to § 570.304:
-
-The names of some of the persons that fall within this definition are published in the Federal Register and incorporated into the Office of Foreign Assets Control's Specially Designated Nationals and Blocked Persons List (“SDN List”) with the identifier “[LIBYA2].” The SDN List is accessible through the following page on OFAC's Web site: *http://www.treasury.gov/sdn.* However, the property and interests in property of persons falling within the definition of the term *Government of Libya* are blocked pursuant to § 570.201 regardless of whether the names of such persons are published in the Federal Register or incorporated into the SDN List.
-
-Note 2 to § 570.304:
-
-Section 501.807 of this chapter describes the procedures to be followed by persons seeking administrative reconsideration of their status as the Government of Libya.
+The terms financial, material, logistical, or technical support, and financial, material, logistical, or technological support, as used, respectively, in § 570.201(a)(3)(iv) and § 570.201(a)(4)(vi), mean any property, tangible or intangible, including currency, financial instruments, securities, or any other transmission of value; weapons or related materiel; chemical or biological agents; explosives; false documentation or identification; communications equipment; computers; electronic or other devices or equipment; technologies; lodging; safe houses; facilities; vehicles or other means of transportation; or goods. “Technologies” as used in this section means specific information necessary for the development, production, or use of a product, including related technical data such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, or other recorded instructions.

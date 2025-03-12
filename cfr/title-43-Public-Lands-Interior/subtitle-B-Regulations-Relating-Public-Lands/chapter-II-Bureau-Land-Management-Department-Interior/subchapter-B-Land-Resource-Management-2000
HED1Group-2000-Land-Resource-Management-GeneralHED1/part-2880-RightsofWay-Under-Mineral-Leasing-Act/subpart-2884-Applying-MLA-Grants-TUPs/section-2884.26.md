@@ -1,0 +1,3 @@
+##### § 2884.26 When will BLM issue a grant or TUP when the lands are managed by two or more Federal agencies? #####
+
+If the application involves lands managed by two or more Federal agencies, BLM will not issue or renew the grant or TUP until the heads of the agencies administering the lands involved have concurred. Where concurrence is not reached, the Secretary of the Interior, after consultation with these agencies, may issue or renew the grant or TUP, but not through lands within a Federal reservation where doing so would be inconsistent with the purposes of the reservation.

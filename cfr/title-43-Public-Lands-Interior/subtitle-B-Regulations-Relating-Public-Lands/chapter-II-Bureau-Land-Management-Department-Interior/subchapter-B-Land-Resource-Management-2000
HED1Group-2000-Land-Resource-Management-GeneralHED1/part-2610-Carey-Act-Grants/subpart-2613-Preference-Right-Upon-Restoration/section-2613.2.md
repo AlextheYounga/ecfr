@@ -1,0 +1,9 @@
+##### § 2613.2 Applications. #####
+
+(a) Applications for preference rights under the Act of February 14, 1920, shall be filed within 90 days of the publication of the restoration order.
+
+(b) Applications shall be on a form approved by the Director and shall set forth sufficient facts to show that the applicant is qualified under the act and these regulations. The application must be subscribed and sworn to before a notary public.
+
+(c) *Persons qualified.* The Act of February 14, 1920, applies only to cases of entries in good faith in compliance with the requirements of State law, with a view to reclaiming the land and procuring title pursuant to the provisions of the Carey Act; the act does not apply to cases where persons have settled on or improved the segregated land, either with the approval of the State authorities or otherwise, not pursuant to State law or not in anticipation of reclaiming the lands and procuring title under the Carey Act but in anticipation of initiating some kind of a claim to the land on its restoration because of failure of the project or cancellation of the segregation.
+
+(d) *Persons not qualified.* The Act of February 14, 1920, does not apply to cases where the applicant's entry has been canceled by the State or forfeited for failure to perfect the entry according to State law, unless the failure is the result of conditions which culminated in the elimination of the lands from the project if the State has allowed a subsequent entry for the same lands, this shall be conclusive evidence that the default was the fault of the State entryman whose entry was forfeited or canceled.

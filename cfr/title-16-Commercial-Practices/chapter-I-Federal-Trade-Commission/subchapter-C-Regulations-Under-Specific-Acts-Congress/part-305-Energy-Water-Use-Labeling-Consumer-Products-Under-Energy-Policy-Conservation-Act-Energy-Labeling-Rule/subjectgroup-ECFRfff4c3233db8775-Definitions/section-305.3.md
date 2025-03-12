@@ -1,8 +1,6 @@
 ##### § 305.3 Description of appliances and consumer electronics. #####
 
-Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
-
-(a) *Refrigerators and refrigerator-freezers* - (1) *Electric refrigerator* means a cabinet designed for the refrigerated storage of food, designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and having a source of refrigeration requiring single phase, alternating current electric energy input only. An electric refrigerator may include a compartment for the freezing and storage of food at temperatures below 32 °F (0 °C), but does not provide a separate low temperature compartment designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C).
+(a) *Refrigerators and refrigerator-freezers*—(1) *Electric refrigerator* means a cabinet designed for the refrigerated storage of food, designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and having a source of refrigeration requiring single phase, alternating current electric energy input only. An electric refrigerator may include a compartment for the freezing and storage of food at temperatures below 32 °F (0 °C), but does not provide a separate low temperature compartment designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C).
 
 (2) *Electric refrigerator-freezer* means a cabinet which consists of two or more compartments with at least one of the compartments designed for the refrigerated storage of food and designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and with at least one of the compartments designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C) which may be adjusted by the user to a temperature of 0 °F (−17.8 °C) or below. The source of refrigeration requires single phase, alternating current electric energy input only.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (2) [Reserved]
 
-(d) *Water heater* means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including -
+(d) *Water heater* means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
 (1) Storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
 
@@ -38,4 +36,6 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (i) *Pool heater* means an appliance designed for heating nonpotable water contained at atmospheric pressure, including heating water in swimming pools, spas, hot tubs and similar applications.
 
-[84 FR 58028, Oct. 30, 2019]
+(j) *Portable air conditioner* means a portable encased assembly, other than a packaged terminal air conditioner, room air conditioner, or dehumidifier, that delivers cooled, conditioned air to an enclosed space, and is powered by single-phase electric current. It includes a source of refrigeration and may include additional means for air circulation and heating.
+
+[84 FR 58028, Oct. 30, 2019, as amended at 86 FR 9282, Feb. 12, 2021]

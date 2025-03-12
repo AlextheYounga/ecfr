@@ -1,0 +1,5 @@
+##### § 2932.22 When do I apply for a Special Recreation Permit? #####
+
+(a) For all uses requiring a Special Recreation Permit, except private, noncommercial use of special areas (see paragraph (b) of this section), you must apply to the local BLM office at least 180 days before you intend your use to begin. Through publication in the local media and on-site posting as necessary, a BLM office may require applications for specific types of use more than 180 days before your intended use. A BLM office may also authorize shorter application times for activities or events that do not require extensive environmental documentation or consultation.
+
+(b) BLM field offices will establish Special Recreation Permit application procedures for private noncommercial individual use of special areas, including when to apply. As you begin to plan your use, you should call the field office with jurisdiction.

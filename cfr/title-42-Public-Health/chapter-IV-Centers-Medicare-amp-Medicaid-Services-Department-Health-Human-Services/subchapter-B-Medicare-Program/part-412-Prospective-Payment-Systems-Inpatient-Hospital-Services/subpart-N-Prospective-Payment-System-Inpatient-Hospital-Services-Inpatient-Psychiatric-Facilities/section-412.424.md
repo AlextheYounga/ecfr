@@ -1,7 +1,5 @@
 ##### § 412.424 Methodology for calculating the Federal per diem payment amount. #####
 
-Link to an amendment published at 87 FR 46878, July 29, 2022.
-
 (a) *Data sources.* (1) To calculate the Federal per diem base rate (as specified in paragraph (b) of this section for inpatient psychiatric facilities, as specified in paragraph (b) of this section, CMS uses the following data sources:
 
 (2) The best Medicare data available to estimate the average inpatient operating and capital-related costs per day made as specified in part 413 of this chapter.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 46878, July 29, 2022.
 
 (b) *Determining the average per diem cost of inpatient psychiatric facilities for FY 2002.* CMS determines the average inpatient operating, ancillary, and capital-related per diem cost for which payment is made to each inpatient psychiatric facility, using the available data described in paragraph (a) of this section.
 
-(c) *Determining the Federal per diem base rate for cost reporting periods beginning on or after January 1, 2005 through June 30, 2006* - (1) *General.* Payment under the inpatient psychiatric facility prospective payment system is based on a standardized per diem payment referred to as the Federal per diem base rate. The Federal per diem base rate is the adjusted cost for 1 day of inpatient hospital services in an inpatient psychiatric facility in a base year as described in paragraph (b) of this section. The adjusted cost per day is adjusted in accordance with paragraphs (c)(2) through (c)(5) of this section.
+(c) *Determining the Federal per diem base rate for cost reporting periods beginning on or after January 1, 2005 through June 30, 2006*—(1) *General.* Payment under the inpatient psychiatric facility prospective payment system is based on a standardized per diem payment referred to as the Federal per diem base rate. The Federal per diem base rate is the adjusted cost for 1 day of inpatient hospital services in an inpatient psychiatric facility in a base year as described in paragraph (b) of this section. The adjusted cost per day is adjusted in accordance with paragraphs (c)(2) through (c)(5) of this section.
 
 (2) *Update of the average per diem cost.* CMS applies the increase factor described in paragraph (a)(2)(iii) of this section to the updated average per diem cost to the midpoint of the January 1, 2005 through June 30, 2006, under the update methodology described in section 1886(b)(3)(B)(ii) of the Act.
 
@@ -34,7 +32,11 @@ Link to an amendment published at 87 FR 46878, July 29, 2022.
 
 (d) *Determining the Federal per diem payment amount.* The Federal per diem payment amount is the product of the Federal per diem base rate established under paragraph (c) of this section, the facility-level adjustments applicable to the inpatient psychiatric facility, patient-level adjustments and other policy adjustments applicable to the case.
 
-(1) *Facility-level adjustments* - (i) *Adjustment for wages.* CMS adjusts the labor portion of the Federal per diem base rate to account for geographic differences in the area wage levels using an appropriate wage index. The application of the wage index is made on the basis of the location of the inpatient psychiatric facility in an urban or rural area as defined in § 412.402.
+(1) *Facility-level adjustments*— (i) *Adjustment for wages.* CMS adjusts the labor portion of the Federal per diem base rate to account for geographic differences in the area wage levels using an appropriate wage index.
+
+(A) The application of the wage index is made on the basis of the location of the inpatient psychiatric facility in an urban or rural area as defined in § 412.402.
+
+(B) Beginning October 1, 2022, CMS applies a cap on decreases to the wage index, such that the wage index applied to an inpatient psychiatric facility is not less than 95 percent of the wage index applied to that inpatient psychiatric facility in the prior fiscal year.
 
 (ii) *Rural location.* CMS adjusts the Federal per diem base rate for inpatient psychiatric facilities located in a rural area as defined in § 412.402.
 
@@ -50,7 +52,7 @@ Link to an amendment published at 87 FR 46878, July 29, 2022.
 
 (E) The teaching adjustment is made on a claim basis as an interim payment, and the final payment in full for the claim is made during the final settlement of the cost report.
 
-(F) *Closure of an IPF or IPF residency training program* - (*1*) *Closure of an IPF.* For cost reporting periods beginning on or after July 1, 2011, an IPF may receive a temporary adjustment to its FTE cap to reflect displaced residents added because of another IPF's closure if the IPF meets the following criteria:
+(F) *Closure of an IPF or IPF residency training program*—(*1*) *Closure of an IPF.* For cost reporting periods beginning on or after July 1, 2011, an IPF may receive a temporary adjustment to its FTE cap to reflect displaced residents added because of another IPF's closure if the IPF meets the following criteria:
 
 (*i*) The IPF is training additional displaced residents from an IPF that closed on or after July 1, 2011.
 
@@ -102,4 +104,4 @@ Link to an amendment published at 87 FR 46878, July 29, 2022.
 
 (iv) Payment for electroconvulsive therapy treatments. CMS provides an additional payment to reflect the cost of electroconvulsive therapy treatments received by a patient during an inpatient psychiatric facility stay in a manner specified by CMS.
 
-[69 FR 66977, Nov. 15, 2004; 70 FR 16729, Apr. 1, 2005, as amended at 71 FR 27086, May 9, 2006; 76 FR 26465, May 6, 2011; 77 FR 53678, Aug. 31, 2012; 86 FR 42678, Aug. 4, 2021]
+[69 FR 66977, Nov. 15, 2004; 70 FR 16729, Apr. 1, 2005, as amended at 71 FR 27086, May 9, 2006; 76 FR 26465, May 6, 2011; 77 FR 53678, Aug. 31, 2012; 86 FR 42678, Aug. 4, 2021; 87 FR 46878, July 29, 2022]

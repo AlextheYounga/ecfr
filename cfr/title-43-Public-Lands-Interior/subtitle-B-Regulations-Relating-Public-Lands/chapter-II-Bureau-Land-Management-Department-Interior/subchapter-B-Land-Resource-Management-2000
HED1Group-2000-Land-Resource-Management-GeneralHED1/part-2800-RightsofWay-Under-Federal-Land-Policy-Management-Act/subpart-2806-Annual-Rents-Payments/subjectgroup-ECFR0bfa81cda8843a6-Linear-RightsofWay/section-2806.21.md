@@ -1,0 +1,5 @@
+##### § 2806.21 When and how are counties or other geographical areas assigned to a County Zone Number and Per Acre Zone Value? #####
+
+Counties (or other geographical areas) are assigned to a County Zone Number and Per Acre Zone Value based upon 80 percent of their average per acre land and building value published in the Census of Agriculture (Census) by the National Agricultural Statistics Service (NASS). The initial assignment of counties to the zones will cover years 2006 through 2010 of the Per Acre Rent Schedule and is based upon data contained in the most recent NASS Census (2002). Subsequent re-assignments of counties will occur every 5 years (in 2011 based upon 2007 NASS Census data, in 2016 based upon 2012 NASS Census data, and so forth) following the publication of the NASS Census.
+
+[73 FR 65071, Oct. 31, 2008]

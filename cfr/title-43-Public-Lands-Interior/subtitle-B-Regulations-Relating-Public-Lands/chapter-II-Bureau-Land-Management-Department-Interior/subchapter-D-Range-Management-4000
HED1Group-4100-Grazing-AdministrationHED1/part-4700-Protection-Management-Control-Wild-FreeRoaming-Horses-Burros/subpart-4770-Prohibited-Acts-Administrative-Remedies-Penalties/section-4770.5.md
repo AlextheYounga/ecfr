@@ -1,0 +1,3 @@
+##### § 4770.5 Criminal penalties. #####
+
+Any person who commits any act prohibited in § 4770.1 of these regulations shall be subject to a fine of not more than $2,000 or imprisonment for not more than 1 year, or both, for each violation. Any person so charged with such violation by the authorized officer may be tried and sentenced by a United States Commissioner or magistrate, designated for that purpose by the court by which he/she was appointed, in the same manner and subject to the same conditions as provided in 18 U.S.C. 3401.

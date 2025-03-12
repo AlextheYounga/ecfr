@@ -1,8 +1,6 @@
 ##### § 413.337 Methodology for calculating the prospective payment rates. #####
 
-Link to an amendment published at 87 FR 47616, Aug. 3, 2022.
-
-(a) *Data used.* (1) To calculate the prospective payment rates, CMS uses -
+(a) *Data used.* (1) To calculate the prospective payment rates, CMS uses—
 
 (i) Medicare data on allowable costs from freestanding and hospital-based SNFs for cost reporting periods beginning in fiscal year 1995. SNFs that received “new provider” exemptions under § 413.30(e)(2) are excluded from the data base used to compute the Federal payment rates. In addition, allowable costs related to exceptions payments under § 413.30(f) are excluded from the data base used to compute the Federal payment rates;
 
@@ -14,13 +12,19 @@ Link to an amendment published at 87 FR 47616, Aug. 3, 2022.
 
 (v) Medicare Part B SNF claims data reflecting amounts payable under Part B for covered SNF services (other than those services described in § 411.15(p)(2) of this chapter) furnished during SNF cost reporting periods beginning in fiscal year 1995 to individuals who were residents of SNFs and receiving Part A covered services.
 
-(b) *Methodology for calculating the per diem Federal payment rates* - (1) *Determining SNF costs.* In calculating the initial unadjusted Federal rates applicable for services provided during the period beginning July 1, 1998 through September 30, 1999, CMS determines each SNF's costs by summing its allowable costs for the cost reporting period beginning in fiscal year 1995 and its estimate of Part B payments (described in paragraphs (a)(1)(i) and (a)(1)(v) of this section).
+(b) *Methodology for calculating the per diem Federal payment rates*—(1) *Determining SNF costs.* In calculating the initial unadjusted Federal rates applicable for services provided during the period beginning July 1, 1998 through September 30, 1999, CMS determines each SNF's costs by summing its allowable costs for the cost reporting period beginning in fiscal year 1995 and its estimate of Part B payments (described in paragraphs (a)(1)(i) and (a)(1)(v) of this section).
 
 (2) *Use of market basket index.* The SNF market basket index is used to adjust the SNF cost data to reflect cost increases occurring between cost reporting periods represented in the data and the initial period (beginning July 1, 1998 and ending September 30, 1999) to which the payment rates apply. For each year, the cost data are updated by a factor equivalent to the annual market basket index percentage minus 1 percentage point.
 
 (3) *Calculation of the per diem cost.* For each SNF, the per diem cost is computed by dividing the cost data for each SNF by the corresponding number of Medicare days.
 
-(4) *Standardization of data for variation in area wage levels and case-mix.* The cost data described in paragraph (b)(2) of this section are standardized to remove the effects of geographic variation in wage levels and facility variation in case-mix. The cost data are standardized for geographic variation in wage levels using the wage index. The cost data are standardized for facility variation in case-mix using the case-mix indices and other data that indicate facility case-mix.
+(4) *Standardization of data for variation in area wage levels and case-mix.* The cost data described in paragraph (b)(2) of this section are standardized to remove the effects of geographic variation in wage levels and facility variation in case-mix.
+
+(i) The cost data are standardized for geographic variation in wage levels using the wage index. The application of the wage index is made on the basis of the location of the facility in an urban or rural area as defined in § 413.333.
+
+(ii) Starting on October 1, 2022, CMS applies a cap on decreases to the wage index such that the wage index applied to a SNF is not less than 95 percent of the wage index applied to that SNF in the prior FY.
+
+(iii) The cost data are standardized for facility variation in case-mix using the case-mix indices and other data that indicate facility case-mix.
 
 (5) *Calculation of unadjusted Federal payment rates.* CMS calculates the national per diem unadjusted payment rates by urban and rural classification in the following manner:
 
@@ -58,7 +62,7 @@ Link to an amendment published at 87 FR 47616, Aug. 3, 2022.
 
 (3) *Multifactor productivity (MFP) adjustment.* For fiscal year 2012 and each subsequent fiscal year, the SNF market basket index percentage change for the fiscal year (as modified by any applicable forecast error adjustment under paragraph (d)(2) of this section) shall be reduced by the MFP adjustment described in section 1886(b)(3)(B)(xi)(II) of the Act. The reduction of the market basket index percentage change by the MFP adjustment may result in the market basket index percentage change being less than zero for a fiscal year, and may result in the unadjusted Federal payment rates for a fiscal year being less than such payment rates for the preceding fiscal year.
 
-(4) *Penalty for failure to report quality data.* For fiscal year 2018 and subsequent fiscal years -
+(4) *Penalty for failure to report quality data.* For fiscal year 2018 and subsequent fiscal years—
 
 (i) In the case of a SNF that does not meet the requirements in § 413.360, for a fiscal year, the SNF market basket index percentage change for the fiscal year (as specified in paragraph (d)(1)(v) of this section, as modified by any applicable forecast error adjustment under paragraph (d)(2) of this section, reduced by the MFP adjustment specified in paragraph (d)(3) of this section, and as specified for FY 2018 in section 1888(e)(5)(B)(iii) of the Act), is further reduced by 2.0 percentage points.
 
@@ -70,4 +74,4 @@ Link to an amendment published at 87 FR 47616, Aug. 3, 2022.
 
 (f) *Adjustments to payment rates under the SNF Value-Based Purchasing Program.* Beginning with payment for services furnished on October 1, 2018, the adjusted Federal per diem rate (as defined in § 413.338(a)(2)) otherwise applicable to a SNF for the fiscal year is reduced by the applicable percent (as defined in § 413.338(a)(3)). The resulting amount is then adjusted by the value-based incentive payment amount (as defined in § 413.338(a)(14)) based on the SNF's performance score for that fiscal year under the SNF Value-Based Purchasing Program, as calculated under § 413.338.
 
-[63 FR 26309, May 12, 1998, as amended at 66 FR 39600, July 31, 2001; 68 FR 46070, Aug. 4, 2003; 76 FR 48539, Aug. 8, 2011; 82 FR 36633, Aug. 4, 2017; 83 FR 39289, Aug. 8, 2018]
+[63 FR 26309, May 12, 1998, as amended at 66 FR 39600, July 31, 2001; 68 FR 46070, Aug. 4, 2003; 76 FR 48539, Aug. 8, 2011; 82 FR 36633, Aug. 4, 2017; 83 FR 39289, Aug. 8, 2018; 87 FR 47616, Aug. 3, 2022]

@@ -1,0 +1,3 @@
+##### § 2562.2 Qualifications of applicant. #####
+
+An application must show that the applicant is a citizen of the United States and 21 years of age, and that he has not theretofore applied for land as a trade and manufacturing site. If such site has been applied for and the application not completed, the facts must be shown. If the application is made for an association of citizens or a corporation, the qualifications of each member of the organization must be shown. In the case of a corporation, proof of incorporation must be established by the certificate of the officer having custody of the records of incorporation at the place of its formation and it must be shown that the corporation is authorized to hold land in Alaska.

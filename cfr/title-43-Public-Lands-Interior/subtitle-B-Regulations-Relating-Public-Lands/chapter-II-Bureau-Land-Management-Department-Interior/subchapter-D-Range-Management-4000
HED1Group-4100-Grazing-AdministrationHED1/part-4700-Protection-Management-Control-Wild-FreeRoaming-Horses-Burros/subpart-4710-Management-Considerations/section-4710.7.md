@@ -1,0 +1,3 @@
+##### § 4710.7 Maintenance of wild horses and burros on privately controlled lands. #####
+
+Individuals controlling lands within areas occupied by wild horses and burros may allow wild horses or burros to use these lands. Individuals who maintain wild free-roaming horses and burros on their land shall notify the authorized officer and shall supply a reasonable estimate of the number of such animals so maintained. Individuals shall not remove or entice will horses or burros from the public lands.

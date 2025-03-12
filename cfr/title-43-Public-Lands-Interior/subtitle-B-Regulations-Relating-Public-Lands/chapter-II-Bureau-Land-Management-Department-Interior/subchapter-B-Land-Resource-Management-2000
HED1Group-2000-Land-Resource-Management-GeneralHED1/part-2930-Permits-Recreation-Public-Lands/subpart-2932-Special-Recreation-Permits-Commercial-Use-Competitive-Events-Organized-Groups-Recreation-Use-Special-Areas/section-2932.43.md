@@ -1,0 +1,5 @@
+##### § 2932.43 What insurance requirements pertain to Special Recreation Permits? #####
+
+(a) All commercial and competitive applicants for Special Recreation Permits, except vendors, must obtain a property damage, personal injury, and public liability insurance policy that BLM judges sufficient to protect the public and the United States. Your policy must name the U.S. Government as additionally insured or co-insured and stipulate that you or your insurer will notify BLM 30 days in advance of termination or modification of the policy.
+
+(b) We may also require vendors and other applicants, such as organized groups, to obtain and submit such a policy. BLM may waive the insurance requirement if we find that the vending or group activity will not cause appreciable environmental degradation or risk to human health or safety.

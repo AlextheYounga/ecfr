@@ -1,0 +1,3 @@
+##### § 2812.2-3 Construction in advance of permit. #####
+
+The authorized officer may grant an applicant authority to construct improvements on a proposed right-of-way prior to a determination whether the permit should issue. Such advance authority shall not be construed as any representation or commitment that a permit will issue. Upon demand by the authorized officer, the applicant will fully and promptly comply with all the requirements imposed under and by this paragraph. Advance construction will not be authorized unless and until applicant has complied with §§ 2812.1-1, 2812.1-2, 2812.3-1 and 2812.5-1.

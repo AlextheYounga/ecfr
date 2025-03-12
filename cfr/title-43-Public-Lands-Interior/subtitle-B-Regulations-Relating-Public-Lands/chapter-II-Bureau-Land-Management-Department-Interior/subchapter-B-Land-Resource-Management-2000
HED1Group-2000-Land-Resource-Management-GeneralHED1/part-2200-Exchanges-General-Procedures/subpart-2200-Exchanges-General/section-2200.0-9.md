@@ -1,0 +1,5 @@
+##### § 2200.0-9 Information collection. #####
+
+(a) The collection of information contained in part 2200 of Group 2200 has been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1004-0056. The information will be used to initiate and complete land exchanges with the Bureau of Land Management. Responses are required to obtain benefits in accordance with the Federal Land Policy and Management Act of 1976, as amended.
+
+(b) Public reporting burden for this information is estimated to average 4 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, should be sent to the Division of Information Resources Management (870), Bureau of Land Management, 1849 C Street, NW., Washington, DC 20240; and the Paperwork Reduction Project (1004-0056), Office of Management and Budget, Washington, DC 20503.

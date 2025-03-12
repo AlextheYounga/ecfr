@@ -1,0 +1,9 @@
+##### § 210.44 Agreement of receiving bank. #####
+
+(a) *Payment.* A receiving bank (other than a Federal Reserve Bank) that receives a payment order from its Federal Reserve Bank authorizes that Federal Reserve Bank to pay for the payment order by crediting, or causing any other Federal Reserve Bank on whose books the settlement account is maintained to credit, the amount of the payment order to the settlement account.
+
+(b) *Funds availability.* (1) A beneficiary's bank (other than a Federal Reserve Bank) that accepts a payment order over the FedNow Service is obliged to pay the amount of the order to the beneficiary of the order immediately after its acceptance of the payment order, by crediting an account of the beneficiary in accordance with section 4A-405(a) of Article 4A. The rights and obligations with respect to the availability of funds are also governed by the Expedited Funds Availability Act and the Board's Regulation CC, Availability of Funds and Collection of Checks.
+
+(2) Nothing in paragraph (b)(1) of this section or any Operating Circular issued hereunder shall create any rights that the beneficiary or any party other than a Federal Reserve Bank may assert against the beneficiary's bank, or affect any liability of the beneficiary's bank to the beneficiary or any party other than a Federal Reserve Bank under Article 4A or other law.
+
+(3) In circumstances where the beneficiary's bank (other than a Federal Reserve Bank) has reasonable cause to believe that the beneficiary is not entitled or permitted to receive payment, the beneficiary's bank may notify its Federal Reserve Bank that it requires additional time to determine whether to accept the payment order. In the event the beneficiary's bank gives such notice to its Federal Reserve Bank, for purposes of this subpart and Article 4A the beneficiary's bank does not accept the payment order upon its receipt of payment in the amount of the payment order by a Federal Reserve Bank.

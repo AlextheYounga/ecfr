@@ -1,14 +1,12 @@
 ##### § 413.75 Direct GME payments: General requirements. #####
 
-Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
-
-(a) *Statutory basis and scope* - (1) *Basis.* This section and §§ 413.76 through 413.83 implement section 1886(h) of the Act by establishing the methodology for Medicare payment of the cost of direct graduate medical educational activities.
+(a) *Statutory basis and scope*—(1) *Basis.* This section and §§ 413.76 through 413.83 implement section 1886(h) of the Act by establishing the methodology for Medicare payment of the cost of direct graduate medical educational activities.
 
 (2) *Scope.* This section and §§ 413.76 through 413.83 apply to Medicare payments to hospitals and hospital-based providers for the costs of approved residency programs in medicine, osteopathy, dentistry, and podiatry for cost reporting periods beginning on or after July 1, 1985.
 
 (b) *Definitions.* For purposes of this section and §§ 413.76 through 413.83, the following definitions apply:
 
-*All or substantially all of the costs for the training program in the nonhospital setting* means -
+*All or substantially all of the costs for the training program in the nonhospital setting* means—
 
 (1) Effective on or after January 1, 1999 and for cost reporting periods beginning before July 1, 2007, the residents' salaries and fringe benefits (including travel and lodging where applicable) and the portion of the cost of teaching physicians' salaries and fringe benefits attributable to direct graduate medical education (GME); and
 
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 *Emergency Medicare GME affiliated group* means at least one home hospital and one or more host hospitals, as those terms are defined below, that meet the requirements at § 413.79(f)(6). For purposes of an emergency Medicare GME affiliated group, the following definitions apply:
 
-(1) *Home hospital* means a hospital that -
+(1) *Home hospital* means a hospital that—
 
 (i) Is located in section 1135 emergency area;
 
@@ -52,7 +50,7 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (ii) *Out-of-State host hospital* means a host hospital located in a different State from the home hospital.
 
-(3) *Section 1135 emergency area or section 1135 emergency period* mean, respectively, a geographic area in which, or a period during which, there exists -
+(3) *Section 1135 emergency area or section 1135 emergency period* mean, respectively, a geographic area in which, or a period during which, there exists—
 
 (i) An emergency or disaster declared by the President pursuant to the National Emergencies Act or the Robert T. Stafford Disaster Relief and Emergency Assistance Act; and
 
@@ -74,11 +72,11 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 *GME* stands for graduate medical education.
 
-*Medicare GME affiliated group* means -
+*Medicare GME affiliated group* means—
 
 (1) Two or more hospitals that are located in the same urban or rural area (as those terms are defined in subpart D of Part 412 of this subchapter) or in a contiguous area and meet the rotation requirements in § 413.79(f)(2).
 
-(2) Two or more hospitals that are not located in the same or in a contiguous urban or rural area, but meet the rotation requirement in § 413.79(f)(2), and are jointly listed -
+(2) Two or more hospitals that are not located in the same or in a contiguous urban or rural area, but meet the rotation requirement in § 413.79(f)(2), and are jointly listed—
 
 (i) As the sponsor, primary clinical site, or major participating institution for one or more programs as these terms are used in the most current publication of the *Graduate Medical Education Directory;* or
 
@@ -86,7 +84,7 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (3) Two or more hospitals that are under common ownership and, effective for all Medicare GME affiliation agreements beginning July 1, 2003, meet the rotation requirement in § 413.79(f)(2).
 
-*Medicare GME affiliation agreement* means a written, signed, and dated agreement by responsible representatives of each respective hospital in a Medicare GME affiliated group, as defined in this section, that specifies -
+*Medicare GME affiliation agreement* means a written, signed, and dated agreement by responsible representatives of each respective hospital in a Medicare GME affiliated group, as defined in this section, that specifies—
 
 (1) The term of the Medicare GME affiliation agreement (which, at a minimum is 1 year), beginning on July 1 of a year;
 
@@ -116,11 +114,33 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 *Rural track or integrated rural track* means, for programs started in cost reporting periods prior to October 1, 2022, an approved medical residency training program established by an urban hospital in which residents train for a portion of the program at the urban hospital and then rotate for a portion of the program to a rural hospital(s) or a rural nonhospital site(s).
 
+*Rural track Medicare GME affiliated group* means an urban hospital and a rural hospital that—
+
+(i) Participate in a rural track program defined in this paragraph (b);
+
+(ii) Have rural track FTE limitations in effect prior to October 1, 2022; and
+
+(iii) Comply with the regulations at § 413.79(f)(1) through (6) for Medicare GME affiliated groups.
+
+*Rural track Medicare GME affiliation agreement* means a written, signed, and dated agreement by responsible representatives of each respective hospital in a rural track Medicare GME affiliated group, as defined in this paragraph (b), that specifies all of the following:
+
+(i) A statement attesting that each participating hospital's FTE counts and rural track FTE limitations in the agreement do not reflect FTE residents nor FTE caps associated with programs other than the rural track program.
+
+(ii) The term of the rural track Medicare GME affiliation agreement (which, at a minimum is 1 year), beginning on July 1 of a year.
+
+(iii) Each participating hospital's direct and indirect GME rural track FTE limitations in effect prior to the rural track Medicare GME affiliation.
+
+(iv) The total adjustment to each hospital's rural track FTE limitations in each year that the rural track Medicare GME affiliation agreement is in effect, for both direct GME and indirect medical education (IME), that reflects a positive adjustment to one hospital's direct and indirect rural track FTE limitations that is offset by a negative adjustment to the other hospital's (or hospitals') direct and indirect rural track FTE limitations of at least the same amount.
+
+(v) The adjustment to each participating hospital's FTE counts resulting from the FTE resident's (or residents') participation in a shared rotational arrangement at each hospital participating in the rural track Medicare GME affiliated group for each year the Medicare GME affiliation agreement is in effect. This adjustment to each participating hospital's FTE count is also reflected in the total adjustment to each hospital's rural track FTE limitations (in accordance with paragraph (iii) of this definition).
+
+(vi) The names of the participating hospitals and their Medicare provider numbers.
+
 *Rural Track Program* means, effective for cost reporting periods beginning on or after October 1, 2022, an ACGME-accredited program in which residents/fellows gain both urban and rural experience with more than half of the education and training for a resident/fellow taking place in a rural area as defined at 42 CFR 412.62(f)(iii).
 
 *Shared rotational arrangement* means a residency training program under which a resident(s) participates in training at two or more hospitals in that program.
 
-(c) *Payment for GME costs - General rule.* Beginning with cost reporting periods starting on or after July 1, 1985, hospitals, including hospital-based providers, are paid for the costs of approved GME programs as described in §§ 413.76 through 413.83.
+(c) *Payment for GME costs—General rule.* Beginning with cost reporting periods starting on or after July 1, 1985, hospitals, including hospital-based providers, are paid for the costs of approved GME programs as described in §§ 413.76 through 413.83.
 
 (d) *Documentation requirements.* To include a resident in the FTE count for a particular cost reporting period, the hospital must furnish the following information. The information must be certified by an official of the hospital and, if different, an official responsible for administering the residency program.
 
@@ -138,4 +158,4 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (7) The name of the employer paying the resident's salary.
 
-[69 FR 49254, Aug. 11, 2004, as amended at 70 FR 47489, Aug. 12, 2005; 71 FR 18666, Apr. 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 47412, Aug. 22, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 50418, Aug. 16, 2010; 75 FR 72262, Nov. 24, 2010; 79 FR 50357, Aug. 22, 2014; 86 FR 73512, Dec. 27, 2021]
+[69 FR 49254, Aug. 11, 2004, as amended at 70 FR 47489, Aug. 12, 2005; 71 FR 18666, Apr. 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 47412, Aug. 22, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 50418, Aug. 16, 2010; 75 FR 72262, Nov. 24, 2010; 79 FR 50357, Aug. 22, 2014; 86 FR 73512, Dec. 27, 2021; 87 FR 49405, Aug. 10, 2022]

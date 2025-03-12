@@ -1,0 +1,3 @@
+##### § 9239.2-5 Settlement and free passage over public lands not to be obstructed. #####
+
+Section 3 of the Act of February 25, 1885 (23 Stat. 322; 43 U.S.C. 1063), provides that no person by force, threats, intimidation, or by any fencing or enclosing or any other unlawful means shall prevent or obstruct or shall combine or confederate with others to prevent or obstruct any person from peaceably entering upon or establishing a settlement or residence upon any tract of public land subject to settlement or entry under the public land laws of the United States or shall prevent or obstruct free passage or transit over or through the public lands.

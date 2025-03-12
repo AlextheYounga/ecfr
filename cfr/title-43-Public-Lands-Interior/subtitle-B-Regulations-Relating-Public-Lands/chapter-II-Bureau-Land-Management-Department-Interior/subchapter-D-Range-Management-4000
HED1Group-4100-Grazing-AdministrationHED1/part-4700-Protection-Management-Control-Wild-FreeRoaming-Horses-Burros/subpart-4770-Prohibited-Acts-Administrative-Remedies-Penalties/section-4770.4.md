@@ -1,0 +1,3 @@
+##### § 4770.4 Arrest. #####
+
+The Director of the Bureau of Land Management may authorize an employee who witnesses a violation of the Act or these regulations to arrest without warrant any person committing the violation, and to take the person immediately for examination or trial before an officer or court of competent jurisdiction. Any employee so authorized shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of the Act or these regulations.

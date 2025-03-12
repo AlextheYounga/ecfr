@@ -1,6 +1,4 @@
-##### § 305.18 Label content for room air conditioners. #####
-
-Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
+##### § 305.18 Label content for room air conditioners and portable air conditioners. #####
 
 (a) *Label content.* (1) Headlines and texts, as illustrated in the prototype and sample labels in appendix L to this part, are standard for all labels.
 
@@ -18,13 +16,13 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (8) Labels must contain the model's estimated annual energy consumption as determined in accordance with this part and as indicated on the sample labels in appendix L. Labels must contain the model's energy efficiency rating, as applicable, as determined in accordance with this part and as indicated on the sample labels in appendix L to this part.
 
-(9) Labels must contain a statement as illustrated in the prototype labels in appendix L and specified as follows (fill in the blanks with the appropriate model type, year, energy type, and energy cost figure):
+(9) Labels must contain a statement as illustrated in the prototype labels in appendix L of this part and specified as follows (fill in the blanks with the appropriate model type, year, energy type, and energy cost figure):
 
 Your costs will depend on your utility rates and use.
 
-Cost range based only on models [of similar capacity without reverse cycle and with louvered sides; of similar capacity without reverse cycle and without louvered sides; with reverse cycle and with louvered sides; or with reverse cycle and without louvered sides].
+Cost range based only on models [of similar capacity; of similar capacity without reverse cycle and with louvered sides; of similar capacity without reverse cycle and without louvered sides; with reverse cycle and with louvered sides; or with reverse cycle and without louvered sides].
 
-Estimated annual energy cost is based on a national average electricity cost of \_\_\_\_ cents per kWh and a seasonal use of 8 hours use per day over a 3 month period.
+Estimated annual energy cost is based on a national average electricity cost of \_\_\_\_ cents per kWh and a seasonal use of 8 hours use per day over a 3-month period.
 
 For more information, visit *www.ftc.gov/energy.*
 
@@ -40,4 +38,4 @@ Federal law prohibits removal of this label before consumer purchase.
 
 (3) The manufacturer or private labeler may include the ENERGY STAR logo on the bottom right corner of the label for certified products. The logo must be 1 inch by 1 inch in size. Only manufacturers that have signed a Memorandum of Understanding with the Department of Energy or the Environmental Protection Agency may add the ENERGY STAR logo to labels on certified covered products; such manufacturers may add the ENERGY STAR logo to labels only on those covered products that are contemplated by the Memorandum of Understanding.
 
-[84 FR 58036, Oct. 30, 2019]
+[84 FR 58036, Oct. 30, 2019, as amended at 86 FR 9282, Feb. 12, 2021]

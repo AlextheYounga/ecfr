@@ -1,7 +1,5 @@
 ##### § 485.640 Condition of participation: Infection prevention and control and antibiotic stewardship programs. #####
 
-Link to an amendment published at 87 FR 49410, Aug. 10, 2022.
-
 The CAH must have active facility-wide programs, for the surveillance, prevention, and control of HAIs and other infectious diseases and for the optimization of antibiotic use through stewardship. The programs must demonstrate adherence to nationally recognized infection prevention and control guidelines, as well as to best practices for improving antibiotic use where applicable, and for reducing the development and transmission of HAIs and antibiotic-resistant organisms. Infection prevention and control problems and antibiotic use issues identified in the programs must be addressed in coordination with the facility-wide quality assessment and performance improvement (QAPI) program.
 
 (a) *Standard: Infection prevention and control program organization and policies.* The CAH must demonstrate that:
@@ -60,13 +58,39 @@ The CAH must have active facility-wide programs, for the surveillance, preventio
 
 (iv) Competency-based training and education of CAH personnel and staff, including medical staff, and, as applicable, personnel providing contracted services in the CAHs, on the practical applications of antibiotic stewardship guidelines, policies, and procedures.
 
-(d) *COVID-19 reporting.* During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information in accordance with a frequency as specified by the Secretary on COVID-19 in a standardized format specified by the Secretary. This report must include, but not be limited to, the following data elements:
+(d) *COVID-19 reporting.* (1) During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information in accordance with a frequency as specified by the Secretary on COVID-19 in a standardized format specified by the Secretary. This report must include, but not be limited to, the following data elements:
 
-(1) The CAH's current inventory supplies of any COVID-19-related therapeutics that have been distributed and delivered to the CAH under the authority and direction of the Secretary; and
+(i) The CAH's current inventory supplies of any COVID-19-related therapeutics that have been distributed and delivered to the CAH under the authority and direction of the Secretary; and
 
-(2) The CAH's current usage rate for any COVID-19-related therapeutics that have been distributed and delivered to the CAH under the authority and direction of the Secretary.
+(ii) The CAH's current usage rate for any COVID-19-related therapeutics that have been distributed and delivered to the CAH under the authority and direction of the Secretary.
 
-(e) *Standard: Reporting of Acute Respiratory Illness, including Seasonal Influenza Virus, Influenza-like Illness, and Severe Acute Respiratory Infection.* During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information, in accordance with a frequency as specified by the Secretary, on Acute Respiratory Illness (including, but not limited to, Seasonal Influenza Virus, Influenza-like Illness, and Severe Acute Respiratory Infection) in a standardized format specified by the Secretary.
+(2) Beginning at the conclusion of the COVID-19 Public Health Emergency, as defined in § 400.200 of this chapter, and continuing until April 30, 2024, except when the Secretary specifies an earlier end date for the requirements of this paragraph (d)(2), the CAH must electronically report information about COVID-19 in a standardized format specified by the Secretary. To the extent as required by the Secretary, this report must include the following data elements:
+
+(i) Confirmed COVID-19 infections among patients.
+
+(ii) Total deaths among patients.
+
+(iii) Personal protective equipment and testing supplies.
+
+(iv) Ventilator use, capacity, and supplies.
+
+(v) Total bed and intensive care unit bed census and capacity.
+
+(vi) Staffing shortages.
+
+(vii) COVID-19 vaccine administration data of patients and staff.
+
+(viii) Relevant therapeutic inventories or usage, or both.
+
+(e) *Standard: Reporting of acute respiratory illness, including seasonal influenza virus, influenza-like illness, and severe acute respiratory infection.* (1) During the Public Health Emergency, as defined in § 400.200 of this chapter, the CAH must report information, in accordance with a frequency as specified by the Secretary, on Acute Respiratory Illness (including, but not limited to, Seasonal Influenza Virus, Influenza-like Illness, and Severe Acute Respiratory Infection) in a standardized format specified by the Secretary.
+
+(2) Beginning at the conclusion of the COVID-19 Public Health Emergency, as defined in § 400.200 of this chapter, and continuing until April 30, 2024, except when the Secretary specifies an earlier end date for the requirements of this paragraph (e)(2), the CAH must electronically report information about seasonal influenza in a standardized format specified by the Secretary. To the extent as required by the Secretary, this report must include the following data elements:
+
+(i) Confirmed influenza infections among patients.
+
+(ii) Total deaths among patients.
+
+(iii) Confirmed co-morbid influenza and COVID-19 infections among patients.
 
 (f) *Standard: COVID-19 Vaccination of CAH staff.* The CAH must develop and implement policies and procedures to ensure that all staff are fully vaccinated for COVID-19. For purposes of this section, staff are considered fully vaccinated if it has been 2 weeks or more since they completed a primary vaccination series for COVID-19. The completion of a primary vaccination series for COVID-19 is defined here as the administration of a single-dose vaccine, or the administration of all required doses of a multi-dose vaccine.
 
@@ -112,4 +136,4 @@ The CAH must have active facility-wide programs, for the surveillance, preventio
 
 (x) Contingency plans for staff who are not fully vaccinated for COVID-19.
 
-[84 FR 51827, Sept. 30, 2019, as amended at 85 FR 54873, Sept. 2, 2020; 85 FR 86304, Dec. 29, 2020; 86 FR 61623, Nov. 5, 2021]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[84 FR 51827, Sept. 30, 2019, as amended at 85 FR 54873, Sept. 2, 2020; 85 FR 86304, Dec. 29, 2020; 86 FR 61623, Nov. 5, 2021; 87 FR 49410, Aug. 10, 2022]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

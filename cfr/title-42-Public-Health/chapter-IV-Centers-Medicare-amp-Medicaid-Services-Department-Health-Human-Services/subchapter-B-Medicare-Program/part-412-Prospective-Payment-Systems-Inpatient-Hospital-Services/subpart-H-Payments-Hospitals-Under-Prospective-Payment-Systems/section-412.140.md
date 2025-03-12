@@ -1,7 +1,5 @@
 ##### § 412.140 Participation, data submission, and validation requirements under the Hospital Inpatient Quality Reporting (IQR) Program. #####
 
-Link to an amendment published at 87 FR 49404, Aug. 10, 2022.
-
 (a) *Participation in the Hospital IQR Program.* In order to participate in the Hospital IQR Program, a section 1886(d) of the hospital must-
 
 (1) Register on QualityNet website, before it begins to report data;
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 49404, Aug. 10, 2022.
 
 (ii) A hospital that has received a new CCN and would like to participate in the program must submit a completed Notice of Participation Form to CMS no later than 180 days from the date identified as the open date on the approved CMS Quality Improvement Evaluation System (QIES).
 
-(b) *Withdrawal from the Hospital IQR Program.* CMS will accept Hospital IQR Program withdrawal forms from hospitals on or before -
+(b) *Withdrawal from the Hospital IQR Program.* CMS will accept Hospital IQR Program withdrawal forms from hospitals on or before—
 
 (1) Prior to the FY 2016 payment determination, August 15 of the fiscal year preceding the fiscal year for which a Hospital IQR determination will be made.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 49404, Aug. 10, 2022.
 
 (2)(i) A hospital meets the chart-abstracted validation requirement with respect to a fiscal year if it achieves a 75-percent score, as determined by CMS.
 
-(ii) A hospital meets the eCQM validation requirement with respect to a fiscal year if it submits at least 75 percent of sampled eCQM measure medical records in a timely and complete manner, as determined by CMS.
+(ii) A hospital meets the eCQM validation requirement with respect to a fiscal year if it submits at 100 percent of sampled eCQM measure medical records in a timely and complete manner, as determined by CMS.
 
 (e) *Reconsiderations and appeals of Hospital IQR Program decisions.* (1) A hospital may request reconsideration of a decision by CMS that the hospital has not met the requirements of the Hospital IQR Program for a particular fiscal year. Except as provided in paragraph (c)(2) of this section, a hospital must submit a reconsideration request to CMS no later than 30 days from the date identified on the Hospital Inpatient Quality Reporting Program Annual Payment Update Notification Letter provided to the hospital.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 87 FR 49404, Aug. 10, 2022.
 
 (2) CMS approves an application for an entity to administer the HCAHPS survey as an approved HCAHPS survey vendor on behalf of one or more hospitals when an applicant has met the Minimum Survey Requirements and Rules of Participation that can be found on the official HCAHPS On-Line Web site, and agree to comply with the current survey administration protocols that can be found on the official HCAHPS On-Line Web site. An entity must be an approved HCAHPS survey vendor in order to administer and submit HCAHPS data to CMS on behalf of one or more hospitals.
 
-[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 82 FR 38511, Aug. 14, 2017; 86 FR 45520, Aug. 13, 2021]
+[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 82 FR 38511, Aug. 14, 2017; 86 FR 45520, Aug. 13, 2021; 87 FR 49404, Aug. 10, 2022]

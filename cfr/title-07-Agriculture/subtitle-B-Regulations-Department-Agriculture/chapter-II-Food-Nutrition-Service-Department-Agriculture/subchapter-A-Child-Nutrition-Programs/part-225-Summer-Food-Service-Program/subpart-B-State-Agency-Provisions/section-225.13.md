@@ -1,7 +1,5 @@
 ##### § 225.13 Appeal procedures. #####
 
-Link to an amendment published at 87 FR 57364, Sept. 19, 2022.
-
 (a) Each State agency shall establish a procedure to be followed by an applicant appealing: A denial of an application for participation; a denial of a sponsor's request for an advance payment; a denial of a sponsor's claim for reimbursement (except for late submission under § 225.9(d)(6)); a State agency's refusal to forward to FNS an exception request by the sponsor for payment of a late claim or a request for an upward adjustment to a claim; a claim against a sponsor for remittance of a payment; the termination of the sponsor or a site; a denial of a sponsor's application for a site; a denial of a food service management company's application for registration, if applicable; or the revocation of a food service management company's registration, if applicable. Appeals shall not be allowed on decisions made by FNS with respect to late claims or upward adjustments under § 225.9(d)(6).
 
 (b) At a minimum, appeal procedures shall provide that:
@@ -30,8 +28,8 @@ Link to an amendment published at 87 FR 57364, Sept. 19, 2022.
 
 (12) The determination by the State review official is the final administrative determination to be afforded to the appellant.
 
-(c) The State agency shall send written notification of the complete appeal procedures and of the actions which are appealable, as specified in paragraph (a) of this section, to each potential sponsor applying to participate and to each food service management company applying to register in accordance with § 225.6(g).
+(c) The State agency shall send written notification of the complete appeal procedures and of the actions which are appealable, as specified in paragraph (a) of this section, to each potential sponsor applying to participate and to each food service management company applying to register in accordance with § 225.6(k).
 
 (d) A record regarding each review shall be kept by the State agency, as required under § 225.8(a). The record shall document the State agency's compliance with these regulations and shall include the basis for its decision.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 64 FR 72486, Dec. 28, 1999; 78 FR 13450, Feb. 28, 2013; 83 FR 25360, June 1, 2018]
+[54 FR 18208, Apr. 27, 1989, as amended at 64 FR 72486, Dec. 28, 1999; 78 FR 13450, Feb. 28, 2013; 83 FR 25360, June 1, 2018; 87 FR 57364, Sept. 19, 2022]

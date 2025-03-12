@@ -1,0 +1,9 @@
+##### § 2530.0-3 Authority. #####
+
+(a) *General Allotment Act of February 8, 1887.* Section 4 of the General Allotment Act of February 8, 1887 (24 Stat. 389; 25 U.S.C. 334), as amended by the Act of February 28, 1891 (26 Stat. 794), and section 17 of the Act of June 25, 1910 (36 Stat. 859; 25 U.S.C. 336), provides that where any Indian entitled to allotment under existing laws shall make settlement upon any surveyed or unsurveyed lands of the United States not otherwise appropriated, he or she shall be entitled, upon application to the proper office for the district in which the lands are located, to have the same allotted to him or her and to his or her children in manner as provided by law for allotments to Indians residing upon reservations, and that such allotments to Indians on the public domain shall not exceed 40 acres of irrigable land, or 80 acres of nonirrigable agricultural land or 160 acres of nonirrigable grazing land to any one Indian.
+
+(b) *Act of March 1, 1933.* The Act of March 1, 1933 (47 Stat. 1418; 43 U.S.C. 190a) provides that no further allotments of lands to Indians on the public domain shall be made in San Juan County, Utah.
+
+(c) *Executive Orders 6910 and 6964, Taylor Grazing Act of June 28, 1934.* Public land withdrawn by Executive Orders 6910 and 6964 of November 26, 1934, and February 5, 1935, respectively, and land within grazing districts established under section 1 of the Taylor Grazing Act of June 28, 1934 (43 U.S.C. 315), is not subject to settlement under section 4 of the General Allotment Act of February 8, 1887, as amended, until such settlement has been authorized by classification. See parts 2410, 2420, and 2430 of this chapter.
+
+[35 FR 9589, June 13, 1970, as amended at 37 FR 23184, Oct. 31, 1972]

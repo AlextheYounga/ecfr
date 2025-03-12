@@ -1,0 +1,5 @@
+##### § 2310.1-4 Cancellation of withdrawal applications or withdrawal proposals and denial of applications. #####
+
+(a) Withdrawal or extension applications and proposals shall be amended promptly to cancel the application or proposal, in whole or in part, with respect to any lands which the applicant, in the case of applications, or the office, in the case of proposals, determines are no longer needed in connection with a requested or proposed action. The filing of a cancellation notice in each such case shall result in the termination of the segregation of the public lands that are to be eliminated from the withdrawal application or withdrawal proposal. (See § 2310.2-1 of this title)
+
+(b) The Secretary may deny an application if the costs (as defined in section 304(b) of the Act (43 U.S.C. 1734(b)) estimated to be incurred by the Department of the Interior would, in the judgment of the Secretary, be excessive in relation to available funds appropriated for processing applications requesting a discretionary withdrawal, or a modification or extension of a withdrawal.

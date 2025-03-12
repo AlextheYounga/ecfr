@@ -1,0 +1,3 @@
+##### § 4720.2-1 Removal of strayed animals from private lands. #####
+
+Upon written request from the private landowner to any representative of the Bureau of Land Management, the authorized officer shall remove stray wild horses and burros from private lands as soon as practicable. The private landowner may also submit the written request to a Federal marshal, who shall notify the authorized officer. The request shall indicate the numbers of wild horses or burros, the date(s) the animals were on the land, legal description of the private land, and any special conditions that should be considered in the gathering plan.

@@ -1,0 +1,3 @@
+##### § 2091.7-2 Segregative effect and opening: Taylor Grazing Act. #####
+
+Lands classified under section 7 of the Act of June 28, 1934, as amended (43 U.S.C. 315f), are segregated to the extent described in the classification notice. The segregative effect for Desert Land entries, Indian allotments, State selections (exclusive of Alaska) and Carey Act grants made after the effective date of these regulations remains in effect until terminated by publication in the Federal Register of an opening order specifying the date and time of opening or upon issuance of a patent or other document of conveyance,

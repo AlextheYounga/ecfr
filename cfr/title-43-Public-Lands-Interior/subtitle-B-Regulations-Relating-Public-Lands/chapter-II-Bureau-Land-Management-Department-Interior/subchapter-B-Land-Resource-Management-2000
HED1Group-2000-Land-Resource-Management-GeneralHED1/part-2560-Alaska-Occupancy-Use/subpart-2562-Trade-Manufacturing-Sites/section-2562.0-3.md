@@ -1,0 +1,3 @@
+##### § 2562.0-3 Authority. #####
+
+Section 10 of the Act of May 14, 1898 (30 Stat. 413, as amended August 23, 1958 (72 Stat. 730; 43 U.S.C. 687a), authorizes the sale at the rate of $2.50 per acre of not exceeding 80 acres of land in Alaska possessed and occupied in good faith as a trade and manufacturing site. The lands must be nonmineral in character, except that lands that may be valuable for coal, oil, or gas deposits are subject to disposition under the Act of March 8, 1922 (42 Stat. 415; 48 U.S.C. 376-377), as amended, and the regulations of § 2093.4 of this chapter.

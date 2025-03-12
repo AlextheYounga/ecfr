@@ -1,0 +1,3 @@
+##### § 2546.1 Offers of lands for sale. #####
+
+Before any lands may be sold under the Act, the authorized officer of the Bureau of Land Management shall publish in the Federal Register and in at least one newspaper of general circulation within the State of Idaho a notice that the lands will be offered for sale, which notice shall specify a period of time not less than 30 days in duration during which citizens may file with the proper office at Boise, Idaho, a notice of their intention to apply to purchase all or part of the lands as qualified preference-right claimants.

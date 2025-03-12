@@ -1,0 +1,5 @@
+##### § 2450.6 Effect of final order. #####
+
+(a) A final order of the Secretary shall continue in full force and effect so long as the lands remain subject to classification under the authorities cited in subpart 2400 until an authorized officer revokes or modifies it. Until it is so revoked or modified, all applications and petition-applications for the lands not consistent with the classification of the lands will not be allowed. Any payments submitted therewith will be returned. If the order is revoked or modified, the land will be opened to entry on an equal-opportunity basis after public notice in accordance with applicable regulations for the purpose for which it may be classified.
+
+(b) Nothing in this section, however, shall prevent the Secretary of the Interior, personally and not through a delegate, from vacating or modifying a final order of the Secretary. In the event that the Secretary vacates or modifies a final order within sixty days of the date it became final, any preference right of a petitioner-applicant will be restored.

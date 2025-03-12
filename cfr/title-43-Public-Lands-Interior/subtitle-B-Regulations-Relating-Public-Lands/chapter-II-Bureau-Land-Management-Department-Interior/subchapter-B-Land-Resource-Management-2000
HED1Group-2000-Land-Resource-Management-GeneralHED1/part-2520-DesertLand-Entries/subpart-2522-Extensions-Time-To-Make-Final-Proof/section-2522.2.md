@@ -1,0 +1,5 @@
+##### § 2522.2 Procedure on applications for extensions of time, where contest is pending. #####
+
+(a) A pending contest against a desert-land entry will not prevent the allowance of an application for extension of time, where the contest affidavit does not charge facts tending to overcome the prima facie showing of right to such extension (41 L.D. 603).
+
+(b) Consideration of an application for extension of time will not be deferred because of the pendency of a contest against the entry in question unless the contest charges be sufficient, if proven, to negative the right of the entryman to an extension of time for making final proof. If the contest charges be insufficient, the application for extension, where regular in all respects, will be allowed and the contest dismissed subject to the right of appeal, but without prejudice to the contestant's right to amend his charges.

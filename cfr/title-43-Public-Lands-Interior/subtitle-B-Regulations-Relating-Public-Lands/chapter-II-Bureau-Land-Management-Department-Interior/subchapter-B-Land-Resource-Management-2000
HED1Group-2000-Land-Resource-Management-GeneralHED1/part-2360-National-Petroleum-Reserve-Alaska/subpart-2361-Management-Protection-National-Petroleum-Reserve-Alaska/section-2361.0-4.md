@@ -1,0 +1,5 @@
+##### § 2361.0-4 Responsibility. #####
+
+(a) The Bureau of Land Management (BLM) is responsible for the surface management of the reserve and protection of the surface values from environmental degradation, and to prepare rules and regulations necessary to carry out surface management and protection duties.
+
+(b) The U.S. Geological Survey is responsible for management of the continuing exploration program during the interim between the transfer of jurisdiction from the U.S. Navy to the U.S. Department of the Interior and the effective date of any legislation for a permanent development and production program to enforce regulations and stipulations which relate to the exploration of petroleum resources of the Reserve, and to operate the South Barrow gas field or such other fields as may be necessary to supply gas at reasonable and equitable rates to the Native village of Barrow and other communities and installations at or near Point Barrow, Alaska, and to installations of the Department of Defense and other agencies of the U.S. located at or near Point Barrow, Alaska.

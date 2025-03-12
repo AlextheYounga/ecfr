@@ -1,14 +1,10 @@
 ##### § 413.360 Requirements under the Skilled Nursing Facility (SNF) Quality Reporting Program (QRP). #####
 
-Link to an amendment published at 87 FR 47618, Aug. 3, 2022.
-
 (a) *Participation start date.* Beginning with the FY 2018 program year, a SNF must begin reporting data in accordance with paragraph (b) of this section no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the SNF as operating in the CMS designated data submission system. For purposes of this section, a program year is the fiscal year in which the market basket percentage described in § 413.337(d) is reduced by two percentage points if the SNF does not report data in accordance with paragraph (b) of this section.
 
 (b) *Data submission requirement.* (1) Except as provided in paragraph (c) of this section, and for a program year, SNFs must submit to CMS data on measures specified under sections 1899B(c)(1) and 1899B(d)(1) of the Social Security Act and standardized resident assessment data in accordance with section 1899B(b)(1) of the Social Security Act, in the form and manner, and at a time, specified by CMS.
 
-(2) CMS will consider a SNF to have complied with paragraph (b)(1) of this section for a program year if the SNF reports: 100 percent of the required data elements on at least 80 percent of the MDS assessments submitted for that program year.
-
-(3) CMS may remove a quality measure from the SNF QRP based on one or more of the following factors:
+(2) CMS may remove a quality measure from the SNF QRP based on one or more of the following factors:
 
 (i) Measure performance among SNFs is so high and unvarying that meaningful distinctions in improvements in performance can no longer be made.
 
@@ -76,4 +72,10 @@ Link to an amendment published at 87 FR 47618, Aug. 3, 2022.
 
 (e) *Appeals.* A SNF that is dissatisfied with CMS' decision on a request for reconsideration may file an appeal with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
 
-[82 FR 36634, Aug. 4, 2017, as amended at 83 FR 39290, Aug. 8, 2018; 84 FR 38832, Aug. 7, 2019]
+(f) *Data completion threshold.* (1) SNFs must meet or exceed two separate data completeness thresholds: One threshold set at 80 percent for completion of required quality measures data and standardized patient assessment data collected using the MDS submitted through the CMS designated data submission system; beginning with FY 2018 and for all subsequent payment updates; and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN, beginning with FY 2023 and for all subsequent payment updates.
+
+(2) These thresholds (80 percent for completion of required quality measures data and standardized patient assessment data on the MDS; 100 percent for CDC NHSN data) will apply to all measures and standardized patient assessment data requirements adopted into the SNF QRP.
+
+(3) A SNF must meet or exceed both thresholds to avoid receiving a 2-percentage point reduction to their annual payment update for a given fiscal year.
+
+[82 FR 36634, Aug. 4, 2017, as amended at 83 FR 39290, Aug. 8, 2018; 84 FR 38832, Aug. 7, 2019; 87 FR 47618, Aug. 3, 2022]

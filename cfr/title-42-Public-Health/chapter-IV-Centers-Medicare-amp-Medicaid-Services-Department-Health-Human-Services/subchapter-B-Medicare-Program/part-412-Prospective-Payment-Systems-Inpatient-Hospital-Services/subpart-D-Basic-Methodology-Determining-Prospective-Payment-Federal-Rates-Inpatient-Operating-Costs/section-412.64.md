@@ -1,14 +1,12 @@
 ##### § 412.64 Federal rates for inpatient operating costs for Federal fiscal year 2005 and subsequent fiscal years. #####
 
-Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
-
 (a) *General rule.* CMS determines a national adjusted prospective payment rate for inpatient operating costs for each inpatient hospital discharge in Federal fiscal year 2005 and subsequent fiscal years involving inpatient hospital services of a hospital in the United States subject to the prospective payment system for which payment may be made under Medicare Part A.
 
 (b) *Geographic classifications.* (1) For purposes of this section, the following definitions apply:
 
 (i) The term *region* means one of the 9 metropolitan divisions comprising the 50 States and the District of Columbia, established by the Executive Office of Management and Budget for statistical and reporting purposes.
 
-(ii) The term *urban area* means -
+(ii) The term *urban area* means—
 
 (A) A Metropolitan Statistical Area or a Metropolitan division (in the case where a Metropolitan Statistical Area is divided into Metropolitan Divisions), as defined by the Executive Office of Management and Budget; or
 
@@ -28,11 +26,11 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (c) *Computing the standardized amount.* CMS computes an average standardized amount that is applicable to all hospitals located in all areas, updated by the applicable percentage increase specified in paragraph (d) of this section. CMS standardizes the average standardized amount by excluding an estimate of indirect medical education payments.
 
-(d) *Applicable percentage change for fiscal year 2005 and for subsequent fiscal years.* (1) The applicable percentage change for updating the standardized amount for all hospitals in all areas is -
+(d) *Applicable percentage change for fiscal year 2005 and for subsequent fiscal years.* (1) The applicable percentage change for updating the standardized amount for all hospitals in all areas is—
 
 (i) For fiscal year 2005 through fiscal year 2009, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraph (d)(2) of this section.
 
-(ii) For fiscal year 2010, for discharges -
+(ii) For fiscal year 2010, for discharges—
 
 (A) On or after October 1, 2009 and before April 1, 2010, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraph (d)(2) of this section; and
 
@@ -50,7 +48,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (viii) For fiscal year 2020 and subsequent fiscal years, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraphs (d)(2) and (3) of this section, less a multifactor productivity adjustment (as determined by CMS).
 
-(2)(i) In the case of a “subsection (d) hospital,” as defined under section 1886(d)(1)(B) of the Act, that does not submit quality data on a quarterly basis to CMS, in the form and manner specified by CMS, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced -
+(2)(i) In the case of a “subsection (d) hospital,” as defined under section 1886(d)(1)(B) of the Act, that does not submit quality data on a quarterly basis to CMS, in the form and manner specified by CMS, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced—
 
 (A) For fiscal years 2005 and 2006, by 0.4 percentage points; and
 
@@ -60,7 +58,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (ii) Any reduction pursuant to this paragraph (d)(2) will apply only to the fiscal year involved and will not be taken into account in computing the applicable percentage change for a subsequent fiscal year.
 
-(3)(i) Beginning fiscal year 2015, in the case of a “subsection (d) hospital,” as defined under section 1886(d)(1)(B) of the Act, that is not a meaningful electronic health record (EHR) user as defined in part 495 of this chapter for the applicable EHR reporting period and does not receive an exception, three-fourths of the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced -
+(3)(i) Beginning fiscal year 2015, in the case of a “subsection (d) hospital,” as defined under section 1886(d)(1)(B) of the Act, that is not a meaningful electronic health record (EHR) user as defined in part 495 of this chapter for the applicable EHR reporting period and does not receive an exception, three-fourths of the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced—
 
 (A) For fiscal year 2015, by 331/3 percent;
 
@@ -68,7 +66,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (C) For fiscal year 2017 and subsequent fiscal years, by 100 percent.
 
-(ii) Beginning fiscal year 2022, in the case of a “subsection (d) Puerto Rico hospital,” as defined under section 1886(d)(9)(A) of the Act, that is not a meaningful EHR user as defined in part 495 of this chapter for the applicable EHR reporting period and does not receive an exception, three-fourths of the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced -
+(ii) Beginning fiscal year 2022, in the case of a “subsection (d) Puerto Rico hospital,” as defined under section 1886(d)(9)(A) of the Act, that is not a meaningful EHR user as defined in part 495 of this chapter for the applicable EHR reporting period and does not receive an exception, three-fourths of the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced—
 
 (A) For fiscal year 2022, by 331/3 percent;
 
@@ -76,7 +74,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (C) For fiscal year 2024 and subsequent fiscal years, by 100 percent.
 
-(4) *Exception* - (i) *General rules.* The Secretary may, on a case-by-case basis, exempt an eligible hospital that is not a qualifying eligible hospital from the application of the reduction under paragraph (d)(3) of this section if the Secretary determines that compliance with the requirement for being a meaningful EHR user would result in a significant hardship for the eligible hospital.
+(4) *Exception*—(i) *General rules.* The Secretary may, on a case-by-case basis, exempt an eligible hospital that is not a qualifying eligible hospital from the application of the reduction under paragraph (d)(3) of this section if the Secretary determines that compliance with the requirement for being a meaningful EHR user would result in a significant hardship for the eligible hospital.
 
 (ii) To be considered for an exception, a hospital must submit an application, in the manner specified by CMS, demonstrating that it meets one or more than one of the criteria specified in this paragraph (d)(4) of this section. These types of exceptions are subject to annual renewal, but in no case may a hospital be granted this type of exception for more than 5 years. (See § 495.4 for definitions of payment adjustment year, EHR reporting period, and meaningful EHR user.)
 
@@ -96,13 +94,13 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (iii) *Exception for decertified EHR technology.* Beginning with the fiscal year 2019 payment adjustment year, the Secretary shall exempt an eligible hospital that is not a qualifying eligible hospital from the application of the reduction under paragraph (d)(3) of this section if the Secretary determines that compliance with the requirement for being a meaningful EHR user is not possible because the certified EHR technology used by the eligible hospital has been decertified under ONC's Health IT Certification Program. To be considered for an exception, an eligible hospital must submit an application, in the manner specified by CMS, demonstrating that the certified EHR technology was decertified during the 12-month period preceding the applicable EHR reporting period for the payment adjustment year, or during the applicable EHR reporting period for the payment adjustment year, and that the eligible hospital made a good faith effort to obtain another certified EHR technology for that EHR reporting period. (See § 495.4 of this chapter for definitions of payment adjustment year, EHR reporting period, and meaningful EHR user.) Applications requesting this exception must be submitted by July 1 of the year before the applicable payment adjustment year, or a later date specified by CMS. This exception is subject to annual renewal, but in no case may an eligible hospital be granted an exception under paragraph (d)(4) of this section for more than 5 years.
 
-(5) A State in which hospitals are paid for services under section 1814(b)(3) of the Act must -
+(5) A State in which hospitals are paid for services under section 1814(b)(3) of the Act must—
 
 (i) Adjust the payments to each eligible hospital in the State that is not a meaningful EHR user in a manner that is designed to result in an aggregate reduction in payments to hospitals in the State that is equivalent to the aggregate reduction that would have occurred if payments had been reduced to each eligible hospital in the State in a manner comparable to the reduction under paragraph (d)(3) of this section; and
 
 (ii) Provide to the Secretary, by January 1, 2013, a report on the method that it proposes to employ in order to make the requisite payment adjustment described in paragraph (d)(5)(i) of this section.
 
-(e) *Maintaining budget neutrality.* (1) CMS makes an adjustment to the standardized amount to ensure that -
+(e) *Maintaining budget neutrality.* (1) CMS makes an adjustment to the standardized amount to ensure that—
 
 (i) Changes to the DRG classifications and recalibrations of the DRG relative weights are made in a manner so that aggregate payments to hospitals are not affected; and
 
@@ -163,7 +161,9 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (6) If a new rural hospital that is subject to the hospital inpatient prospective payment system opens in a State that has an imputed rural floor and has rural areas, CMS uses the imputed floor as the hospital's wage index until the hospital's first cost report as an inpatient prospective payment system provider is contemporaneous with the cost reporting period being used to develop a given fiscal year's wage index.
 
-(i) *Adjusting the wage index to account for commuting patterns of hospital workers* - (1) *General criteria.* For discharges occurring on or after October 1, 2004, CMS adjusts the hospital wage index for hospitals located in qualifying counties to recognize the commuting patterns of hospital employees. A qualifying county is a county that meets all of the following criteria:
+(7) Beginning with fiscal year 2023, if CMS determines that a hospital's wage index value for a fiscal year would decrease by more than 5 percent as compared to the hospital's wage index value for the prior fiscal year, CMS limits the decrease to 5 percent for the fiscal year.
+
+(i) *Adjusting the wage index to account for commuting patterns of hospital workers*—(1) *General criteria.* For discharges occurring on or after October 1, 2004, CMS adjusts the hospital wage index for hospitals located in qualifying counties to recognize the commuting patterns of hospital employees. A qualifying county is a county that meets all of the following criteria:
 
 (i) Hospital employees in the county commute to work in an MSA (or MSAs) with a wage index (or wage indices) higher than the wage index of the MSA or rural statewide area in which the county is located.
 
@@ -189,7 +189,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (2) CMS will assign a rural referral center that meets the conditions of paragraph (j)(1) of this section the wage index value of the MSA to which it was reclassified by the MGCRB in FY 2004. The wage index assignment is applicable for discharges occurring during the 3-year period beginning October 1, 2004 and ending September 30, 2007.
 
-(k) *Midyear corrections to the wage index.* (1) CMS makes a midyear correction to the wage index for an area only if a hospital can show that -
+(k) *Midyear corrections to the wage index.* (1) CMS makes a midyear correction to the wage index for an area only if a hospital can show that—
 
 (i) The intermediary or CMS made an error in tabulating its data; and
 
@@ -197,7 +197,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (2)(i) Except as provided in paragraph (k)(2)(ii) of this section, a midyear correction to the wage index is effective prospectively from the date the change is made to the wage index.
 
-(ii) Effective October 1, 2005, a change to the wage index may be made retroactively to the beginning of the Federal fiscal year, if, for the fiscal year in question, CMS determines all of the following -
+(ii) Effective October 1, 2005, a change to the wage index may be made retroactively to the beginning of the Federal fiscal year, if, for the fiscal year in question, CMS determines all of the following—
 
 (A) The fiscal intermediary or CMS made an error in tabulating data used for the wage index calculation;
 
@@ -207,7 +207,7 @@ Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
 
 (l) *Judicial decision.* If a judicial decision reverses a CMS denial of a hospital's wage data revision request, CMS pays the hospital by applying a revised wage index that reflects the revised wage data as if CMS's decision had been favorable rather than unfavorable.
 
-(m) *Adjusting the wage index to account for the Frontier State floor* - (1) *General criteria.* For discharges occurring on or after October 1, 2010, CMS adjusts the hospital wage index for hospitals located in qualifying States to recognize the wage index floor established for frontier States. A qualifying frontier State meets both of the following criteria:
+(m) *Adjusting the wage index to account for the Frontier State floor*—(1) *General criteria.* For discharges occurring on or after October 1, 2010, CMS adjusts the hospital wage index for hospitals located in qualifying States to recognize the wage index floor established for frontier States. A qualifying frontier State meets both of the following criteria:
 
 (i) At least 50 percent of counties located within the State have a reported population density less than 6 persons per square mile.
 

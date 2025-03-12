@@ -1,0 +1,9 @@
+##### § 2564.7 Determination of competency or noncompetency; issuance of unrestricted deed. #####
+
+(a) Upon a determination by the Bureau of Indian Affairs that the applicant is competent to manage his own affairs, and in the absence of any conflict or other valid objection, the townsite trustee will issue an unrestricted deed to the applicant. Thereafter all restrictions as to sale, encumbrance, or taxation of the land applied for shall be removed, but the said land shall not be liable to the satisfaction of any debt, except obligations owed to the Federal Government, contracted prior to the issuance of such deed. Any adverse action under this section by the townsite trustee shall be subject to appeal to the Board of Land Appeals, Office of the Secretary, in accordance with part 4 of 43 CFR Subtitle A.
+
+(b) In the event the Area Director determines that the applicant is not competent to manage his own affairs, he shall so inform the applicant, and such applicant shall have a right of appeal from such finding or decision to the Commissioner of Indian Affairs, within 60 days from the date of notification of such finding or decision. The appeal shall be filed with the Area Director. Should the Commissioner uphold the decision of the Area Director, he shall notify the applicant of such action, informing him of his right of appeal to the Secretary of the Interior.
+
+(c) Except as provided in this section, the townsite trustee shall not issue other than restricted deeds to Indian or other Alaska natives.
+
+(43 U.S.C. 733-735, 737)[35 FR 9601, June 13, 1970, as amended at 41 FR 29122, July 15, 1976]

@@ -78,7 +78,9 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (22) Ceiling fans.
 
-(23) Any other type of consumer product that the Department of Energy classifies as a covered product under section 322(b) of the Act (42 U.S.C. 6292).
+(23) Portable air conditioners.
+
+(24) Any other type of consumer product that the Department of Energy classifies as a covered product under section 322(b) of the Act (42 U.S.C. 6292).
 
 (m) *Correlated color temperature* for lamps means the absolute temperature of a blackbody whose chromaticity most nearly resembles that of the light source.
 
@@ -132,4 +134,4 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (hh) *Wattage* for lamps means the total electrical power consumed by a lamp in watts, after an initial seasoning period and including, for fluorescent lamps, arc watts plus cathode watts.
 
-[72 FR 49965, Aug. 29, 2007, as amended at 73 FR 39225, July 9, 2008; 73 FR 63066, Oct. 23, 2008; 83 FR 7596, Feb. 22, 2018; 84 FR 58028, Oct. 30, 2019]
+[72 FR 49965, Aug. 29, 2007, as amended at 73 FR 39225, July 9, 2008; 73 FR 63066, Oct. 23, 2008; 83 FR 7596, Feb. 22, 2018; 84 FR 58028, Oct. 30, 2019; 86 FR 9282, Feb. 12, 2021]

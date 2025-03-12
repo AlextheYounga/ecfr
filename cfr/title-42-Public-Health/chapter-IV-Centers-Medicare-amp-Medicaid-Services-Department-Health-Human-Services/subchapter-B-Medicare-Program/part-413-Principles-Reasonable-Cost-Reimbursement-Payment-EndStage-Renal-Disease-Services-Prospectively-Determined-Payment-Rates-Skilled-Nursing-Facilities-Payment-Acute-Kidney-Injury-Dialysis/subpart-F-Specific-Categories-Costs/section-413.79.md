@@ -1,7 +1,5 @@
 ##### § 413.79 Direct GME payments: Determination of the weighted number of FTE residents. #####
 
-Link to an amendment published at 87 FR 49406, Aug. 10, 2022.
-
 Subject to the provisions in § 413.80, CMS determines a hospital's number of FTE residents by applying a weighting factor to each resident and then summing the resulting numbers that represent each resident. The weighting factor is determined as follows:
 
 (a) *Initial residency period.* Generally, for purposes of this section, effective July 1, 1995, an initial residency period is defined as the minimum number of years required for board eligibility.
@@ -20,7 +18,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (7) For residency programs in osteopathy, dentistry, and podiatry, the minimum requirement for certification in a specialty or subspecialty is the minimum number of years of formal training necessary to satisfy the requirements of the appropriate approving body listed in § 415.152 of this chapter.
 
-(8) For residency programs in geriatric medicine, accredited by the appropriate approving body listed in § 415.152 of this chapter, these programs are considered approved programs on the later of -
+(8) For residency programs in geriatric medicine, accredited by the appropriate approving body listed in § 415.152 of this chapter, these programs are considered approved programs on the later of—
 
 (i) The starting date of the program within a hospital; or
 
@@ -34,7 +32,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (2) If the resident is not in an initial residency period, the weighting factor is 1.00 during the period beginning on or after July 1, 1985 and before July 1, 1986, .75 during the period beginning on or after July 1, 1986 and before July 1, 1987, and .50 thereafter without regard to the hospital's cost reporting period.
 
-(c) *Unweighted FTE counts* - (1) *Definitions.* As used in this paragraph (c):
+(c) *Unweighted FTE counts*—(1) *Definitions.* As used in this paragraph (c):
 
 (i) *Otherwise applicable resident cap* refers to a hospital's FTE resident cap that is determined for a particular cost reporting period under paragraph (c)(2) of this section.
 
@@ -44,19 +42,19 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (iii) *Resident level* refers to the number of unweighted allopathic and osteopathic FTE residents who are training in a hospital in a particular cost reporting period.
 
-(2) *Determination of the FTE resident cap.* Subject to the provisions of paragraphs (c)(3) through (6) and (m) through (p) of this section and § 413.81, for purposes of determining direct GME payment -
+(2) *Determination of the FTE resident cap.* Subject to the provisions of paragraphs (c)(3) through (6) and (m) through (p) of this section and § 413.81, for purposes of determining direct GME payment—
 
 (i) For cost reporting periods beginning on or after October 1, 1997, a hospital's resident level may not exceed the hospital's unweighted FTE count (or, effective for cost reporting periods beginning on or after April 1, 2000, 130 percent of the unweighted FTE count for a hospital located in a rural area) for these residents for the most recent cost reporting period ending on or before December 31, 1996.
 
 (ii) If a hospital's number of FTE residents in a cost reporting period beginning on or after October 1, 1997, and before October 1, 2001, exceeds the limit described in this section, the hospital's total weighted FTE count (before application of the limit) will be reduced in the same proportion that the number of FTE residents for that cost reporting period exceeds the number of FTE residents for the most recent cost reporting period ending on or before December 31, 1996.
 
-(iii) If the hospital's number of FTE residents in a cost reporting period beginning on or after October 1, 2001 exceeds the limit described in this section, the hospital's weighted FTE count (before application of the limit) for primary care and obstetrics and gynecology residents and nonprimary care residents, respectively, will be reduced in the same proportion that the number of FTE residents for that cost reporting period exceeds the number of FTE residents for the most recent cost reporting period ending on or before December 31, 1996.
+(iii) Effective for cost reporting periods beginning on or after October 1, 2001, if the hospital's unweighted number of FTE residents exceeds the limit described in this section, and the number of weighted FTE residents in accordance with paragraph (b) of this section also exceeds that limit, the respective primary care and obstetrics and gynecology weighted FTE counts and other weighted FTE counts are adjusted to make the total weighted FTE count equal the limit. If the number of FTE residents weighted in accordance with paragraph (b) of this section does not exceed that limit, then the allowable weighted FTE count is the actual weighted FTE count.
 
 (iv) Hospitals that are part of the same Medicare GME affiliated group or the same emergency Medicare GME affiliated group (as described under § 413.75(b)) may elect to apply the limit on an aggregate basis as described under paragraph (f) of this section.
 
 (v) The contractor may make appropriate modifications to apply the provisions of this paragraph (c) of this section based on the equivalent of a 12-month cost reporting period.
 
-(3) *Determination of the reduction to the FTE resident cap due to unused FTE resident slots under section 422 of Public Law 108-173.* If a hospital's reference resident level is less than its otherwise applicable FTE resident cap as determined under paragraph (c)(2) of this section or paragraph (e) of this section in the reference cost reporting period (as described under paragraph (c)(3)(ii) of this section), for portions of cost reporting periods beginning on or after July 1, 2005, the hospital's otherwise applicable FTE resident cap is reduced by 75 percent of the difference between the otherwise applicable FTE resident cap and the reference resident level. Under this provision -
+(3) *Determination of the reduction to the FTE resident cap due to unused FTE resident slots under section 422 of Public Law 108-173.* If a hospital's reference resident level is less than its otherwise applicable FTE resident cap as determined under paragraph (c)(2) of this section or paragraph (e) of this section in the reference cost reporting period (as described under paragraph (c)(3)(ii) of this section), for portions of cost reporting periods beginning on or after July 1, 2005, the hospital's otherwise applicable FTE resident cap is reduced by 75 percent of the difference between the otherwise applicable FTE resident cap and the reference resident level. Under this provision—
 
 (i) *Exemption for certain rural hospitals.* A rural hospital, as defined at subpart D of part 412 of this subchapter, with less than 250 beds (as determined at § 412.105(b)) in its most recent cost reporting period ending on or before September 30, 2002, is exempt from any reduction to the otherwise applicable FTE resident cap limit under paragraph (c)(3) of this section.
 
@@ -90,13 +88,13 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (6) *FTE resident caps for rural hospitals that are redesignated as urban.* A rural hospital redesignated as urban after September 30, 2004, as a result of the most recent census data and implementation of the new MSA definitions announced by OMB on June 6, 2003, may retain the increases to its FTE resident cap that it received under paragraphs (c)(2)(i), (e)(1)(iii), and (e)(3) of this section while it was located in a rural area. Effective October 1, 2014, if a rural hospital is redesignated as urban due to the most recent OMB standards for delineating statistical areas adopted by CMS, the redesignated urban hospital may retain any existing increases to its FTE resident cap that it had received prior to when the redesignation became effective. Effective October 1, 2014, if a rural hospital is redesignated as urban due to the most recent OMB standards for delineating statistical areas adopted by CMS, the redesignated urban hospital may receive an increase to its FTE resident cap for a new program, in accordance with paragraph (e) of this section, if it received a letter of accreditation for the new program and/or started training residents in the new program prior to the redesignation becoming effective.
 
-(d) *Weighted FTE counts.* Subject to the provisions of § 413.81, for purposes of determining direct GME payment -
+(d) *Weighted FTE counts.* Subject to the provisions of § 413.81, for purposes of determining direct GME payment—
 
 (1) For the hospital's first cost reporting period beginning on or after October 1, 1997, the hospital's weighted FTE count is equal to the average of the weighted FTE count for the payment year cost reporting period and the preceding cost reporting period.
 
 (2) For cost reporting periods beginning on or after October 1, 1998, and before October 1, 2001, the hospital's weighted FTE count is equal to the average of the weighted FTE count for the payment year cost reporting period and the preceding two cost reporting periods.
 
-(3) For cost reporting periods beginning on or after October 1, 2001, the hospital's weighted FTE count for primary care and obstetrics and gynecology residents is equal to the average of the weighted primary care and obstetrics and gynecology counts for the payment year cost reporting period and the preceding two cost reporting periods, and the hospital's weighted FTE count for nonprimary care residents is equal to the average of the weighted nonprimary care FTE counts for the payment year cost reporting period and the preceding two cost reporting periods.
+(3) For cost reporting periods beginning on or after October 1, 2001, the hospital's weighted FTE count for primary care and obstetrics and gynecology residents is equal to the average of the weighted primary care and obstetrics and gynecology counts for the payment year cost reporting period and the preceding two cost reporting periods, and the hospital's weighted FTE count for nonprimary care residents is equal to the average of the weighted nonprimary care FTE counts for the payment year cost reporting period and the preceding two cost reporting periods. For cost reporting periods beginning on or after October 1, 2001, the hospital's weighted FTE counts for the preceding two cost reporting periods are calculated in accordance with the payment formula in paragraph (c)(2)(iii) of this section.
 
 (4) The contractor may make appropriate modifications to apply the provisions of this paragraph (d) based on the equivalent of 12-month cost reporting periods.
 
@@ -160,7 +158,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (6) Effective for a cost reporting period beginning on or after December 27, 2020, FTE resident caps must be established when the hospital trains 1.0 or more FTE residents in a new medical residency program (as defined under paragraph (l) of this section).
 
-(f) *Medicare GME affiliated group.* A hospital may receive a temporary adjustment to its FTE cap, which is subject to the averaging rules under paragraph (d) of this section, to reflect residents added or subtracted because the hospital is participating in a Medicare GME affiliated group (as defined under § 413.75(b)). Under this provision -
+(f) *Medicare GME affiliated group.* A hospital may receive a temporary adjustment to its FTE cap, which is subject to the averaging rules under paragraph (d) of this section, to reflect residents added or subtracted because the hospital is participating in a Medicare GME affiliated group (as defined under § 413.75(b)). Under this provision—
 
 (1) Except as provided in paragraph (f)(6) of this section, each hospital in the Medicare GME affiliated group must submit the Medicare GME affiliation agreement, as defined under § 413.75(b) of this section, to the CMS contractor or MAC servicing the hospital and send a copy to the CMS Central Office no later than July 1 of the residency program year during which the Medicare GME affiliation agreement will be in effect.
 
@@ -184,7 +182,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (C) List each participating hospital's IME and direct GME FTE caps in effect before the emergency Medicare GME affiliation agreement (including any adjustments to those caps in effect as a result of other Medicare GME affiliation agreements but not including any slots gained under § 413.79(c)(4)).
 
-(D) Specify the total adjustment to each participating hospital's FTE caps in each academic year that the emergency Medicare GME affiliation agreement is in effect, for both direct GME and IME, that reflects a positive adjustment to the host hospital's direct and indirect FTE caps that is offset by a negative adjustment to the home hospital's (or hospitals') direct and indirect FTE caps of at least the same amount subject to the following -
+(D) Specify the total adjustment to each participating hospital's FTE caps in each academic year that the emergency Medicare GME affiliation agreement is in effect, for both direct GME and IME, that reflects a positive adjustment to the host hospital's direct and indirect FTE caps that is offset by a negative adjustment to the home hospital's (or hospitals') direct and indirect FTE caps of at least the same amount subject to the following—
 
 (*1*) The sum total of adjustments to all the participating hospitals' FTE caps under the emergency Medicare GME affiliation agreement may not exceed the aggregate adjusted FTE caps of the hospitals participating in the emergency Medicare GME affiliated group.
 
@@ -220,7 +218,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (g) *Newly constructed hospitals.* A hospital that began construction of its facility prior to August 5, 1997, and sponsored new medical residency training programs on or after January 1, 1995, and on or before August 5, 1997, that either received initial accreditation by the appropriate accrediting body or temporarily trained residents at another hospital(s) until the facility was completed, may receive an adjustment to its FTE cap.
 
-(1) The newly constructed hospital's FTE cap is equal to the lesser of -
+(1) The newly constructed hospital's FTE cap is equal to the lesser of—
 
 (i) The product of the highest number of residents in any program year during the third year of the newly established program and the number of years in which residents are expected to complete the programs based on the minimum accredited length for each type of program; or
 
@@ -234,13 +232,13 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (5) The provisions of this paragraph (g) are applicable during portions of cost reporting periods occurring on or after October 1, 1999.
 
-(h) *Closure of hospital or hospital residency program* - (1) *Definitions.* For purposes of this section -
+(h) *Closure of hospital or hospital residency program*—(1) *Definitions.* For purposes of this section—
 
 (i) *Closure of a hospital* means the hospital terminates its Medicare agreement under the provisions of § 489.52 of this chapter.
 
 (ii) *Closure of a hospital residency training program* means the hospital ceases to offer training for residents in a particular approved medical residency training program.
 
-(iii) *Displaced resident* means a resident who -
+(iii) *Displaced resident* means a resident who—
 
 (A) Leaves a program after the hospital or program closure is publicly announced, but before the actual hospital or program closure;
 
@@ -260,13 +258,13 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (3) *Closure of a hospital's residency training program.* If a hospital that closes its residency training program voluntarily agrees to temporarily reduce its FTE cap according to the criteria specified in paragraph (h)(3)(ii) of this section, another hospital(s) may receive a temporary adjustment to its FTE cap to reflect residents added because of the closure of the residency training program if the criteria specified in paragraph (h)(3)(i) of this section are met.
 
-(i) *Receiving hospital(s).* A hospital may receive a temporary adjustment to its FTE cap to reflect residents added because of the closure of another hospital's residency training program if -
+(i) *Receiving hospital(s).* A hospital may receive a temporary adjustment to its FTE cap to reflect residents added because of the closure of another hospital's residency training program if—
 
 (A) The hospital is training additional residents from the residency training program of a hospital that closed a program; and
 
 (B) No later than 60 days after the hospital begins to train the residents, the hospital submits to its contractor a request for a temporary adjustment to its FTE cap, documents that it is eligible for this temporary adjustment by identifying the residents who have come from another hospital's closed program and have caused the hospital to exceed its cap, specifies the length of time the adjustment is needed, and submits to its contractor a copy of the FTE reduction statement by the hospital that closed its program, as specified in paragraph (h)(3)(ii)(B) of this section.
 
-(ii) *Hospital that closed its program(s).* A hospital that agrees to train residents who have been displaced by the closure of another hospital's program may receive a temporary FTE cap adjustment only if the hospital with the closed program -
+(ii) *Hospital that closed its program(s).* A hospital that agrees to train residents who have been displaced by the closure of another hospital's program may receive a temporary FTE cap adjustment only if the hospital with the closed program—
 
 (A) Temporarily reduces its FTE cap based on the FTE residents in each program year training in the program at the time of the program's closure. This yearly reduction in the FTE cap will be determined based on the number of those residents who would have been training in the program during that year had the program not closed; and
 
@@ -300,9 +298,9 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (i) For rural track programs started prior to October 1, 2012, for the first 3 years of the rural track's existence, the rural track FTE limitation for each urban hospital will be the actual number of FTE residents, subject to the rolling average specified in paragraph (d)(7) of this section, training in the rural track at the urban hospital and the rural nonprovider site(s). For rural track programs started on or after October 1, 2012, and before October 1, 2022, prior to the start of the urban hospital's cost reporting period that coincides with or follows the start of the sixth program year of the rural track's existence, the rural track FTE limitation for each urban hospital will be the actual number of FTE residents, subject to the rolling average specified in paragraph (d)(7) of this section, training in the rural track at the urban hospital and the rural nonprovider site(s). For Rural Track Programs prior to the start of the urban or rural hospital's cost reporting period that coincides with or follows the start of the sixth program year of the rural track's existence, the rural track FTE limitation for each respective hospital will be the actual number of FTE residents training in the Rural Track Program at the hospital and, subject to the requirements under § 413.78(g), in the rural nonprovider site(s).
 
-(ii)(A) For rural track programs started prior to October 1, 2012, beginning with the fourth year of the rural track's existence, the rural track FTE limitation is equal to the product of -
+(ii)(A) For rural track programs started prior to October 1, 2012, beginning with the fourth year of the rural track's existence, the rural track FTE limitation is equal to the product of—
 
-(*1*) The highest number of residents in any program year who, during the third year of the rural track's existence, are training in the rural track at -
+(*1*) The highest number of residents in any program year who, during the third year of the rural track's existence, are training in the rural track at—
 
 (*i*) The urban hospital and are designated at the beginning of their training to be rotated to a rural nonprovider site(s) for at least two-thirds of the duration of the program for cost reporting periods beginning on or after April 1, 2000 and before October 1, 2003, or for more than one-half of the duration of the program for cost reporting periods beginning on or after October 1, 2003; and
 
@@ -318,7 +316,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (A) For the first 3 years of the rural track's existence, the rural track FTE limitation for the urban hospital will be the actual number of FTE residents, subject to the rolling average specified in paragraph (d)(7) of this section, training in the rural track at the rural nonprovider site(s).
 
-(B) Beginning with the fourth year of the rural track's existence, the rural track FTE limitation is equal to the product of -
+(B) Beginning with the fourth year of the rural track's existence, the rural track FTE limitation is equal to the product of—
 
 (*1*) The highest number of residents in any program year who, during the third year of the rural track's existence, are training in the rural track at the rural nonprovider site(s) or are designated at the beginning of their training to be rotated to the rural nonprovider site(s) for a period that is less than two-thirds of the duration of the program for cost reporting periods beginning on or after April 1, 2002, and before October 1, 2003, or for one-half or less than one-half of the duration of the program for cost reporting periods beginning on or after October 1, 2003; and
 
@@ -330,7 +328,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (A) Prior to the start of the urban hospital's cost reporting period that coincides with or follows the start of the sixth program year of the rural track's existence, the rural track FTE limitation for the urban hospital will be the actual number of FTE residents, subject to the rolling average specified in paragraph (d)(7) of this section, training in the rural track at the rural nonprovider site(s).
 
-(B) Beginning with the start of the urban hospital's cost reporting period that coincides with or follows the start of the sixth program year of the rural track's existence, the rural track FTE limitation is equal to the product of -
+(B) Beginning with the start of the urban hospital's cost reporting period that coincides with or follows the start of the sixth program year of the rural track's existence, the rural track FTE limitation is equal to the product of—
 
 (*1*) The highest number of residents in any program year who, during the fifth year of the rural track's existence, are training in the rural track at the rural nonprovider site(s) or are designated at the beginning of their training to be rotated to the rural nonprovider site(s) for a period that is for one-half or less than one-half of the duration of the program; and
 
@@ -362,7 +360,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (l) For purposes of this section, a new medical residency training program means a medical residency that receives initial accreditation by the appropriate accrediting body or begins training residents on or after January 1, 1995.
 
-(m) *Determination of the reduction to the FTE resident cap due to unused FTE resident slots under section 5503 of Public Law 111-148.* If a hospital's reference resident level, as defined under paragraph (c)(1)(ii)(B) of this section is less than its otherwise applicable FTE resident cap as determined under paragraph (c)(2) of this section or paragraph (e) of this section in the reference cost reporting period (as described under paragraph (m)(6) of this section), for portions of cost reporting periods beginning on or after July 1, 2011, the hospital's otherwise applicable FTE resident cap is reduced by 65 percent of the difference between the otherwise applicable FTE resident cap and the reference resident level. The reduction shall take into account the hospital's FTE resident cap as reduced under paragraph (c)(3) of this section. Under this provision -
+(m) *Determination of the reduction to the FTE resident cap due to unused FTE resident slots under section 5503 of Public Law 111-148.* If a hospital's reference resident level, as defined under paragraph (c)(1)(ii)(B) of this section is less than its otherwise applicable FTE resident cap as determined under paragraph (c)(2) of this section or paragraph (e) of this section in the reference cost reporting period (as described under paragraph (m)(6) of this section), for portions of cost reporting periods beginning on or after July 1, 2011, the hospital's otherwise applicable FTE resident cap is reduced by 65 percent of the difference between the otherwise applicable FTE resident cap and the reference resident level. The reduction shall take into account the hospital's FTE resident cap as reduced under paragraph (c)(3) of this section. Under this provision—
 
 (1) *Exemption for certain rural hospitals.* A rural hospital, as defined at subpart D of part 412 of this subchapter, with fewer than 250 beds (as determined at § 412.105(b)) in its most recent cost reporting period ending on or before March 23, 2010, for which a cost report has been either settled or submitted (subject to audit) to the Medicare contractor by March 23, 2010, is exempt from any reduction to its otherwise applicable FTE resident cap under paragraph (m) of this section.
 
@@ -406,7 +404,7 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (n) *Determination of an increase in the otherwise applicable resident cap under section 5503 of Public Law 111-148.* (1) For portions of cost reporting periods beginning on or after July 1, 2011, a hospital may receive an increase in its otherwise applicable FTE resident cap (as determined by CMS) of not more than 75 additional FTEs if the hospital meets the requirements and qualifying criteria of section 1886(h)(8) of the Act and implementing instructions issued by CMS and if the hospital submits an application to CMS within the timeframe specified by CMS.
 
-(2) A hospital that receives an increase in the otherwise applicable FTE resident cap under paragraph (n)(1) of this section must ensure, during the 5-year period beginning on July 1, 2011 and ending on June 30, 2016, that -
+(2) A hospital that receives an increase in the otherwise applicable FTE resident cap under paragraph (n)(1) of this section must ensure, during the 5-year period beginning on July 1, 2011 and ending on June 30, 2016, that—
 
 (i) The number of FTE primary care residents, as defined in § 413.75(b), excluding any additional positions under this paragraph, is not less than the average number of FTE primary care residents (as so determined) during the three most recent cost reporting periods ending prior to March 23, 2010 (and submitted to the Medicare contractor by March 23, 2010); and not less than 75 percent of the positions attributable to such increase are in a primary care or general surgery residency programs.
 

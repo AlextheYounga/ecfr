@@ -1,7 +1,5 @@
 ##### § 225.11 Corrective action procedures. #####
 
-Link to an amendment published at 87 FR 57364, Sept. 19, 2022.
-
 (a) *Purpose.* The provisions in this section shall be used by the State agency to improve Program performance.
 
 (b) *Investigations.* Each State agency shall promptly investigate complaints received or irregularities noted in connection with the operation of the Program, and shall take appropriate action to correct any irregularities. The State agency shall maintain on file all evidence relating to such investigations and actions. The State agency shall inform the appropriate FNSRO of any suspected fraud or criminal abuse in the Program which would result in a loss or misuse of Federal funds. The Department may make investigations at the request of the State agency, or where the Department determines investigations are appropriate.
@@ -44,7 +42,7 @@ If this action results in children not receiving meals under the Program, the St
 
 (2) If the State agency observes meal service violations during the conduct of a site review, the State agency shall disallow as meals served to children all of the meals observed to be in violation.
 
-(3) The State agency shall also disallow children's meals which are in excess of a site's approved level established under § 225.6(d)(2).
+(3) The State agency shall also disallow children's meals which are in excess of a site's approved level established under § 225.6(h)(2).
 
 (f) *Corrective action and termination of sites.* (1) Whenever the State agency observes violations during the course of a site review, it shall require the sponsor to take corrective action. If the State agency finds a high level of meal service violations, the State agency shall require a specific immediate corrective action plan to be followed by the sponsor and shall either conduct a follow-up visit or in some other manner verify that the specified corrective action has been taken.
 
@@ -56,4 +54,4 @@ If this action results in children not receiving meals under the Program, the St
 
 (g) *Technical assistance for improved meal service.* If the State agency finds that a sponsor is operating a program with poor quality meal service and is operating below the reimbursement level, the State agency should provide technical assistance to the sponsor to improve the meal service.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 83 FR 25360, June 1, 2018]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 83 FR 25360, June 1, 2018; 87 FR 57364, Sept. 19, 2022]

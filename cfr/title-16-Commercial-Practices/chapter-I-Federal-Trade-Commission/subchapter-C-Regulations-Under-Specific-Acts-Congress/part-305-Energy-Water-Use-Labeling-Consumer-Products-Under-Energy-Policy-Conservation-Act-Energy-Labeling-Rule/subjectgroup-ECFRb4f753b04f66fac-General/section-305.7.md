@@ -1,7 +1,5 @@
 ##### § 305.7 Prohibited acts. #####
 
-Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
-
 (a) It shall be unlawful and subject to the enforcement penalties of section 333 of the Act, as adjusted for inflation pursuant to § 1.98 of this chapter, for each unit of any new covered product to which the part applies:
 
 (1) For any manufacturer or private labeler knowingly to distribute in commerce any new covered product unless such covered product is marked and/or labeled in accordance with this part with a marking, label, hang tag, or energy fact sheet which conforms to the provisions of the Act and this part.
@@ -36,10 +34,12 @@ Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
 
 (2) Televisions manufactured before May 10, 2011.
 
+(3) The requirements of this part shall not apply to any portable air conditioner produced before October 1, 2022.
+
 (f) As used in paragraphs (a) and (b) of this section, the term *knowingly* means:
 
 (1) The having of actual knowledge, or
 
 (2) The presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exercise of due care.
 
-[52 FR 46894, Dec. 10, 1987, as amended at 54 FR 28035, July 5, 1989; 58 FR 54964, Oct. 25, 1993; 59 FR 49563, Sept. 28, 1994; 59 FR 67526, Dec. 29, 1994; 61 FR 54549, Oct. 21, 1996; 72 FR 49966, Aug. 29, 2007; 76 FR 1050, Jan. 6, 2011; 78 FR 2207, Jan. 10, 2013. Redesignated at 84 FR 58029, Oct. 30, 2019, as amended at 84 FR 58032, Oct. 30, 2019]
+[52 FR 46894, Dec. 10, 1987, as amended at 54 FR 28035, July 5, 1989; 58 FR 54964, Oct. 25, 1993; 59 FR 49563, Sept. 28, 1994; 59 FR 67526, Dec. 29, 1994; 61 FR 54549, Oct. 21, 1996; 72 FR 49966, Aug. 29, 2007; 76 FR 1050, Jan. 6, 2011; 78 FR 2207, Jan. 10, 2013. Redesignated at 84 FR 58029, Oct. 30, 2019, as amended at 84 FR 58032, Oct. 30, 2019; 86 FR 9282, Feb. 12, 2021]

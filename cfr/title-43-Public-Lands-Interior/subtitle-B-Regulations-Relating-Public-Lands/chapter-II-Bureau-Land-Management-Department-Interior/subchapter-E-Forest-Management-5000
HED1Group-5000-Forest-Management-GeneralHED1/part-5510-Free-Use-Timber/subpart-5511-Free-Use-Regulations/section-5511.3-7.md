@@ -1,0 +1,3 @@
+##### § 5511.3-7 Permits to nonprofit organizations. #####
+
+A free-use permit issued to a nonprofit association or corporation may not provide for the disposition of more than $100 worth of timber to the permittee during any one calendar year. Such permittee is granted a right to remove timber as against a subsequent applicant who may wish to obtain the same timber by purchase. The timber may not be removed by the permittee after the land has been included in a valid claim by reason of settlement, entry, or similar rights obtained under the public land laws.

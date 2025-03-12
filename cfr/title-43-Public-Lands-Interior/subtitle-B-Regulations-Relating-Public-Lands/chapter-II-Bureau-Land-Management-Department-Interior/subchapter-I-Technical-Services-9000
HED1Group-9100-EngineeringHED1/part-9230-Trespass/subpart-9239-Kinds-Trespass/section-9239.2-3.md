@@ -1,0 +1,3 @@
+##### § 9239.2-3 Responsibility for execution of law. #####
+
+The execution of this law devolves primarily upon the officers of the Department of Justice, but as it is the purpose to free the public lands from unlawful enclosures and obstructions, it is deemed incumbent upon the officers of the Department of the Interior to furnish the officers of the Department of Justice with the evidence necessary to a successful prosecution of the law.

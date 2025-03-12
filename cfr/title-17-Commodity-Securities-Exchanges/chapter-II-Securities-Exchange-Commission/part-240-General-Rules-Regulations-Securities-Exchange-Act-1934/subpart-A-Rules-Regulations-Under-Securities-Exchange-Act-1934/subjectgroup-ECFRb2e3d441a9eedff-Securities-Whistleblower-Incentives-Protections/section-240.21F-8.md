@@ -1,7 +1,5 @@
 ##### § 240.21F-8 Eligibility and forms. #####
 
-Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
-
 (a) To be eligible for a whistleblower award, you must give the Commission information in the form and manner that the Commission requires. The procedures for submitting information and making a claim for an award are described in § 240.21F-9 through § 240.21F-11 of this chapter. You should read these procedures carefully because you need to follow them in order to be eligible for an award, except that the Commission may, in its sole discretion, waive any of these procedures based upon a showing of extraordinary circumstances.
 
 (b) In addition to any forms required by these rules, the Commission may also require that you provide certain additional information. You may be required to:
@@ -66,6 +64,6 @@ Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
 
 (B) You made a materially false, fictitious, or fraudulent statement or representation or used a false writing or document in violation of paragraph (c)(7) of this section prior to the effective date of this section (e).
 
-(ii) If, within 30 days of the Office of the Whistleblower providing the foregoing notification, you withdraw the relevant award application(s), the withdrawn award application(s) will not be considered by the Commission in determining whether to exercise its authority under paragraph (e). Further, the procedures specified in paragraph (e)(3)(i) through (iii) of this section shall apply to any award application that is pending as of the effective date of this rule that is determined to be a frivolous or noncolorable application.
+(ii) If, within 30 calendar days of the Office of the Whistleblower providing the foregoing notification, you withdraw the relevant award application(s), the withdrawn award application(s) will not be considered by the Commission in determining whether to exercise its authority under paragraph (e) of this section.
 
-[76 FR 34363, June 13, 2011, as amended at 85 FR 70944, Nov. 5, 2020]
+[76 FR 34363, June 13, 2011, as amended at 85 FR 70944, Nov. 5, 2020; 87 FR 54151, Sept. 2, 2022]

@@ -1,5 +1,7 @@
 ##### § 272.1 General terms and conditions. #####
 
+Link to an amendment published at 87 FR 59650, Oct. 3, 2022.
+
 (a) *Coupons do not reduce benefits.* The coupon allotment provided any eligible household shall not be considered income or resources for any purpose under any Federal, State, or local laws including, but not limited to, laws on taxation, welfare, and public assistance programs. No participating State or political subdivision shall decrease any assistance otherwise provided an individual or individuals because of the receipt of a coupon allotment.
 
 (b) *No sales taxes on SNAP purchases.* (1) A State shall not participate in SNAP if State or local sales taxes or other taxes or fees, including but not limited to excise taxes, are collected within the State on purchases made with SNAP coupons. “Purchases made with food coupons” for purposes of this provision shall refer to purchases of “eligible foods” as defined in § 271.2. Where the total value of groceries being bought by the recipient is larger than the amount of coupons being presented by the recipient, only the portion of the sale made in exchange for SNAP benefits must be exempt from taxation in order for a State to satisfy the requirements of this provision. Although a SNAP recipient may use a combination of cash and SNAP benefits in making a food purchase, only the dollar amount represented by the food coupons needs to be exempt from taxation.

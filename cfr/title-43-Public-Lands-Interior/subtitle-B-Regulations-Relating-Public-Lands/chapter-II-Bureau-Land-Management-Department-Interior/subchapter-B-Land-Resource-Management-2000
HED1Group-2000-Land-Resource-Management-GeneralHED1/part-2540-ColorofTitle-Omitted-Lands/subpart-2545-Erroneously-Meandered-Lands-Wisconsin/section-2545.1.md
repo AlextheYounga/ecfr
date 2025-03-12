@@ -1,0 +1,5 @@
+##### § 2545.1 Qualifications of applicants. #####
+
+(a) To qualify under the Act of 1954, a person, or his predecessors in interest, (1) must have been issued, prior to January 21, 1953, a patent for lands lying along the meander line as originally determined, and (2) must have held in good faith and in peaceful, adverse possession since the date of issuance of said patent adjoining public lands lying between the original meander line and the resurveyed meander line.
+
+(b) To qualify under the Act of 1925, a person must either (1) be the owner in good faith of land, acquired prior to February 27, 1925, shown by the official public land surveys to be bounded in whole or in part by such public lands or (2) be a citizen of the United States who, in good faith under color of title or claiming as a riparian owner, had, prior to February 27, 1925, placed valuable improvements upon or reduced to cultivation any of such public lands.

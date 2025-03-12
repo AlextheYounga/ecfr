@@ -1,5 +1,7 @@
 ##### § 635.9 Electronic monitoring. #####
 
+Link to an amendment published at 87 FR 59998, Oct. 3, 2022.
+
 (a) *Applicability.* An owner or operator of a commercial vessel permitted or required to be permitted in the Atlantic Tunas Longline category under § 635.4, and that has pelagic longline gear on board, is required to have installed, operate, and maintain an electronic monitoring (EM) system on the vessel, as specified in this section. Vessel owner or operators can contact NMFS or a NMFS-approved contractor for more details on procuring an EM system.
 
 (b) *EM Installation.* (1) NMFS or a NMFS-approved contractor will assess individual Atlantic Tunas Longline permitted vessels that are currently eligible for IBQ share, install and test all EM systems; provide training to vessel owners or operators or their designees; and develop in consultation with vessel owners or operators or their designees required operational plans (Vessel Monitoring Plan or VMP) for the EM systems, as described in paragraph (e)(2) of this section.

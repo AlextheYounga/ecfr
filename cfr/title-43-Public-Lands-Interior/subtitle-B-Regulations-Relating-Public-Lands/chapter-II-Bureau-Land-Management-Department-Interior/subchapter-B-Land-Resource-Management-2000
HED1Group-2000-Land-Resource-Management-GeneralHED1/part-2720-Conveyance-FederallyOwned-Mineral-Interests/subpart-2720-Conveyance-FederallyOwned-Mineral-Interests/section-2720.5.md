@@ -1,0 +1,3 @@
+##### § 2720.5 Appeals. #####
+
+An applicant adversely affected by a decision of the authorized officer made pursuant to the provisions of this subpart shall have a right of appeal pursuant to part 4 of this title. Decisions of the authorized officer under this subpart shall be subject to reversal only if found to be arbitrary, capricious, and abuse of discretion or otherwise not in accordance with law.

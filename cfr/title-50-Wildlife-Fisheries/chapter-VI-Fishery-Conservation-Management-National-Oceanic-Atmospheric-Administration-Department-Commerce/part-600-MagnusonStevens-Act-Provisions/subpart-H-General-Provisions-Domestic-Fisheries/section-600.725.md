@@ -1,6 +1,6 @@
 ##### § 600.725 General prohibitions. #####
 
-Link to an amendment published at 87 FR 56213, Sept. 13, 2022.
+Link to an amendment published at 87 FR 56213, Sept. 13, 2022.Link to an amendment published at 87 FR 59997, Oct. 3, 2022.
 
 It is unlawful for any person to do any of the following:
 

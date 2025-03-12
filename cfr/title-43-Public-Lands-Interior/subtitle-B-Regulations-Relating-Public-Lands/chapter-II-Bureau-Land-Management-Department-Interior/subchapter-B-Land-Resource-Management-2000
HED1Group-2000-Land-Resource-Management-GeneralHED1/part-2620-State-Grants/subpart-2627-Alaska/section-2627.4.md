@@ -1,0 +1,11 @@
+##### § 2627.4 All grants. #####
+
+(a) *State preference right of selection: waivers.* (1) The Act of July 7, 1958 (see § 2627.3(a)), provide that upon the revocation of any order of withdrawal in Alaska, the order of revocation shall provide for a period of not less than 90 days before the date on which it otherwise becomes effective during which period the State of Alaska shall have a preferred right of selection under the acts of 1956 and 1958, except as against prior existing valid rights, equitable claims subject to allowance and confirmation and other preferred rights of application conferred by law.
+
+(2) Where the proper selecting agent of the State files in writing in the proper office a waiver of the preference provisions of paragraph (a) of this section in connection with the proposed revocation of an order of withdrawal, the order affecting such revocation will not provide for such preference.
+
+(b) *Segregative effect of applications.* Lands desired by the State under the regulations of this part will be segregated from all appropriations based upon application or settlement and location, including locations under the mining laws, when the state files its application for selection in the proper office properly describing the lands as provided in § 2627.3(c)(1) (iii), (iv), and (v). Such segregation will automatically terminate unless the State publishes first notice as provided by paragraph (c) of this section within 60 days of service of such notice by the appropriate officer of the Bureau of Land Management.
+
+(c) *Publications and protests.* (1) The State will be required to publish once a week for five consecutive weeks in accordance with § 1824.4 of this chapter, at its own expense, in a designated newspaper, and in a designated form, a notice allowing all persons claiming the land adversely to file in the appropriate office their objections to the issuance of patent or certification for lands selected under the regulations of this part. A protestant must serve on the State a copy of the objections and furnish evidence of service to the proper office.
+
+(2) The State must file a statement of the publisher, accompanied by a copy of the notice published, showing that publication has been had for the required time.

@@ -1,0 +1,3 @@
+##### § 4610.2-1 Form of lease. #####
+
+Leases under the Pierce Act should conform in general to a form approved by the Director. This form is believed adaptable for use in all of the States within which grazing districts have been established under the Taylor Grazing Act. Leases under the Pierce Act must be executed by the lessor in the manner prescribed by the laws of the State within which the lands leased are situated.

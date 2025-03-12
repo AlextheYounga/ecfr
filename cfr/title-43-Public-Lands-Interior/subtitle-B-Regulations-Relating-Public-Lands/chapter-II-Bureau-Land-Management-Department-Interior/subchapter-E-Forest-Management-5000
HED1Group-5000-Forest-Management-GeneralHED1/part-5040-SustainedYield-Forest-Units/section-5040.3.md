@@ -1,0 +1,3 @@
+##### § 5040.3 How does BLM establish sustained-yield forest units? #####
+
+After a public hearing, BLM will publish a notice in a newspaper of general circulation in the county or counties affected by the proposed units, stating whether or not the BLM Director has decided to establish the units. If the BLM Director determines that the units should be established, BLM will include in its notice information on the geographical description of the sustained-yield forest units, how the public may review the BLM document that will establish the units, and the date the units will become effective. BLM will publish the notice before the units are established.

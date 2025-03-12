@@ -1,5 +1,7 @@
 ##### § 660.13 Recordkeeping and reporting. #####
 
+Link to an amendment published at 87 FR 59713, Oct. 3, 2022.Link to an amendment published at 87 FR 59728, Oct. 3, 2022.
+
 (a) This subpart recognizes that catch and effort data necessary for implementing the PCGFMP are collected by the States of Washington, Oregon, and California under existing state data collection requirements.
 
 (1) *Trawl logbook.* In the absence of a state trawl logbook requirement based on the port of landing, the authorized representative of the commercial trawl fishing vessel registered to a limited entry permit with a trawl gear endorsement participating in the Shorebased IFQ Program groundfish trawl fisheries must keep and submit a complete and accurate record of fishing activities in the trawl logbook form. The following requirements apply:

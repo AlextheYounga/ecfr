@@ -1,5 +1,7 @@
 ##### § 273.13 Notice of adverse action. #####
 
+Link to an amendment published at 87 FR 59652, Oct. 3, 2022.
+
 (a) *Use of notice.* Prior to any action to reduce or terminate a household's benefits within the certification period, the State agency shall, except as provided in paragraph (b) of this section, provide the household timely and adequate advance notice before the adverse action is taken.
 
 (1) The notice of adverse action shall be considered timely if the advance notice period conforms to that period of time defined by the State agency as an adequate notice period for its public assistance caseload, provided that the period includes at least 10 days from the date the notice is mailed to the date upon which the action becomes effective. Also, if the adverse notice period ends on a weekend or holiday, and a request for a fair hearing and continuation of benefits is received the day after the weekend or holiday, the State agency shall consider the request timely received.

@@ -1,20 +1,24 @@
 ##### § 412.602 Definitions. #####
 
-Link to an amendment published at 87 FR 47090, Aug. 1, 2022.
-
-As used in this subpart -
+As used in this subpart—
 
 *Assessment reference date* means the specific calendar day in the patient assessment process that sets the designated endpoint of the common patient observation period, with most patient assessment items usually referring back in time from this endpoint.
+
+*Closure of an IRF* has the same meaning as “closure of a hospital” as defined in § 413.79(h)(1)(i) as applied to an IRF meeting the requirements of § 412.604(b) for the purposes of accounting for indirect teaching costs.
+
+*Closure of an IRF's residency training program* has the same meaning as “closure of a hospital residency training program” as defined in § 413.79(h)(1)(ii) as applied to an IRF meeting the requirements of § 412.604(b) for the purposes of accounting for indirect teaching costs.
 
 *CMS* stands for the Centers for Medicare & Medicaid Services.
 
 *Comorbidity* means a specific patient condition that is secondary to the patient's principal diagnosis that is the primary reason for the inpatient rehabilitation stay.
 
-*Discharge.* A Medicare patient in an inpatient rehabilitation facility is considered discharged when -
+*Discharge.* A Medicare patient in an inpatient rehabilitation facility is considered discharged when—
 
 (1) The patient is formally released from the inpatient rehabilitation facility; or
 
 (2) The patient dies in the inpatient rehabilitation facility.
+
+*Displaced resident* has the same meaning as a “displaced resident” as defined in § 413.79(h)(1)(iii) as applied to an IRF, for purposes of accounting for indirect teaching costs.
 
 *Encode* means entering data items into the fields of the computerized patient assessment software program.
 
@@ -32,4 +36,4 @@ As used in this subpart -
 
 *Urban area* means: For cost-reporting periods beginning on or after January 1, 2002, with respect to discharges occurring during the period covered by such cost reports but before October 1, 2005, an area as defined in § 412.62(f)(1)(ii). For discharges occurring on or after October 1, 2005, urban area means an area as defined in §§ 412.64(b)(1)(ii)(A) and 412.64(b)(1)(ii)(B).
 
-[66 FR 41388, Aug. 7, 2001, as amended at 67 FR 44077, July 1, 2002; 68 FR 45699, Aug. 1, 2003; 70 FR 47952, Aug. 15, 2005]
+[66 FR 41388, Aug. 7, 2001, as amended at 67 FR 44077, July 1, 2002; 68 FR 45699, Aug. 1, 2003; 70 FR 47952, Aug. 15, 2005; 87 FR 47090, Aug. 1, 2022]

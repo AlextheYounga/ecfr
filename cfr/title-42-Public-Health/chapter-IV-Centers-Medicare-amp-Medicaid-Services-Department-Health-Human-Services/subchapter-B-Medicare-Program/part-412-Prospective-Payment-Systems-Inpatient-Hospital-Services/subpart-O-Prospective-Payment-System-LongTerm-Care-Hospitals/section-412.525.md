@@ -1,7 +1,5 @@
 ##### § 412.525 Adjustments to the Federal prospective payment. #####
 
-Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
-
 (a) *Adjustments for high-cost outliers.* (1) CMS provides for an additional payment to a long-term care hospital if its estimated costs for a patient exceed the applicable long-term care hospital prospective payment system payment plus an applicable fixed-loss amount. For each long-term care hospital prospective payment system payment year, CMS annually establishes a fixed-loss amount that is the maximum loss that a long-term care hospital would incur under the long-term care hospital prospective payment system for a case with unusually high costs before receiving an additional payment.
 
 (2)(i) The fixed loss-amount for discharges from a long-term care hospital described under § 412.522(a)(2) is determined for the long-term care hospital prospective payment system payment year, using the LTC-DRG relative weights that are in effect at the start of the applicable long-term care hospital prospective payment system payment year.
@@ -34,9 +32,9 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (E) At the time of any reconciliation under paragraph (a)(4)(iv)(D) of this section, outlier payments may be adjusted to account for the time value of any underpayments or overpayments. Any adjustment is based upon a widely available index to be established in advance by the Secretary, and is applied from the midpoint of the cost reporting period to the date of reconciliation.
 
-(5) For purposes of this paragraph (a) -
+(5) For purposes of this paragraph (a)—
 
-(i) *Applicable long-term care hospital prospective payment system payment* means -
+(i) *Applicable long-term care hospital prospective payment system payment* means—
 
 (A) The site neutral payment rate established under § 412.522(c) for long-term care hospital discharges described under § 412.522(a)(1);
 
@@ -44,7 +42,7 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (C) The standard Federal prospective payment rates established under § 412.523 for discharges occurring on or after October 1, 2015, in a long-term care hospital cost reporting period that begins before October 1, 2015.
 
-(ii) *Applicable fixed-loss amount* means -
+(ii) *Applicable fixed-loss amount* means—
 
 (A) For long-term care hospital discharges described under § 412.522(a)(1), the fixed-loss amount established for such cases as provided at § 412.522(c)(2)(i);
 
@@ -54,11 +52,17 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (b) *Adjustments for Alaska and Hawaii.* CMS adjusts the Federal prospective payment for the effects of a higher cost of living for hospitals located in Alaska and Hawaii.
 
-(c) *Adjustments for area wage levels.* (1) The labor portion of a long-term care hospital's Federal prospective payment is adjusted to account for geographical differences in the area wage levels using an appropriate wage index (established by CMS), which reflects the relative level of hospital wages and wage-related costs in the geographic area (that is, urban or rural area as determined in accordance with the definitions set forth in § 412.503) of the hospital compared to the national average level of hospital wages and wage-related costs. The appropriate wage index that is established by CMS is updated annually. The labor portion of a long-term care hospital's Federal prospective payment is established by CMS and is updated annually.
+(c) *Adjustments for area wage levels.* (1) The labor portion of a long-term care hospital's Federal prospective payment is adjusted to account for geographical differences in the area wage levels using an appropriate wage index (established by CMS), which reflects the relative level of hospital wages and wage-related costs in the geographic area (that is, urban or rural area as determined in accordance with the definitions set forth in § 412.503) of the hospital compared to the national average level of hospital wages and wage-related costs.
+
+(i)(A) The appropriate wage index that is established by CMS is updated annually.
+
+(B) Beginning in fiscal year 2023, if CMS determines that an LTCH's wage index value for a fiscal year would decrease by more than 5 percent as compared to the LTCH's wage index value for the prior fiscal year, CMS limits the decrease to 5 percent for the fiscal year.
+
+(ii) The labor portion of a long-term care hospital's Federal prospective payment is established by CMS and is updated annually.
 
 (2) Beginning in FY 2012, any adjustments or updates to the area wage level adjustment under this paragraph (c) will be made in a budget neutral manner such that estimated aggregate LTCH PPS payments are not affected.
 
-(d) *Special payment provisions.* CMS adjusts the Federal prospective payment to account for -
+(d) *Special payment provisions.* CMS adjusts the Federal prospective payment to account for—
 
 (1) Short-stay outliers, as provided for in § 412.529.
 
@@ -70,4 +74,4 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (5) Long-term care hospitals and satellites of long-term care hospitals that discharged Medicare patients admitted from a hospital not located in the same building or on the same campus as the long-term care hospital or satellite of the long-term care hospital, as provided in § 412.536.
 
-[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 69 FR 25721, May 7, 2004; 70 FR 24222, May 6, 2005; 71 FR 48140, Aug. 18, 2006; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 79 FR 50356, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017; 83 FR 41705, Aug. 17, 2018]
+[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 69 FR 25721, May 7, 2004; 70 FR 24222, May 6, 2005; 71 FR 48140, Aug. 18, 2006; 73 FR 26839, May 9, 2008; 74 FR 43998, Aug. 27, 2009; 75 FR 50416, Aug. 16, 2010; 76 FR 51783, Aug. 18, 2011; 79 FR 50356, Aug. 22, 2014; 80 FR 49769, Aug. 17, 2015; 81 FR 57269, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017; 83 FR 41705, Aug. 17, 2018; 87 FR 49405, Aug. 10, 2022]

@@ -1,0 +1,3 @@
+##### § 2812.2-1 Nonexclusive license. #####
+
+Permits for rights-of-way for tramroads, do not constitute easements, and do not confer any rights on the permittee to any material for construction or other purposes except, in accordance with the provisions of §§ 2812.6-2 and 2812.8-3, such materials as may have been placed on such lands by a permittee. The permits are merely nonexclusive licenses to transport forest products owned by the permittee. Such permits may be canceled pursuant to § 2812.8.

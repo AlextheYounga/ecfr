@@ -1,29 +1,29 @@
-##### § 570.508 Libyan diplomatic missions in the United States. #####
+##### § 570.508 Payments for legal services from funds originating outside the United States. #####
 
-(a) The provision of goods or services in the United States to the diplomatic missions of the Government of Libya to the United States and the United Nations is authorized, provided that:
+(a) *Professional fees and incurred expenses.* (1) Receipt of payment of professional fees and reimbursement of incurred expenses for the provision of legal services authorized pursuant to § 570.507(a) to or on behalf of any person whose property and interests in property are blocked pursuant to § 570.201, is authorized from funds originating outside the United States, provided that the funds do not originate from:
 
-(1) The goods or services are for the conduct of the official business of the missions, or for personal use of the employees of the missions, and are not for resale;
+(i) A source within the United States;
 
-(2) The transaction does not involve the purchase, sale, financing, or refinancing of real property;
+(ii) Any source, wherever located, within the possession or control of a U.S. person; or
 
-(3) The transaction is not otherwise prohibited by law; and
+(iii) Any individual or entity, other than the person on whose behalf the legal services authorized pursuant to § 570.507(a) are to be provided, whose property and interests in property are blocked pursuant to any part of this chapter or any Executive order or statute.
 
-(4) The transaction is conducted through an account at a U.S. financial institution specifically licensed by OFAC.
+(2) Nothing in this paragraph (a) authorizes payments for legal services using funds in which any other person whose property and interests in property are blocked pursuant to § 570.201, any other part of this chapter, or any Executive order or statute has an interest.
 
-Note to paragraph (a)(4) of § 570.508:
+(b) *Reports.* (1) U.S. persons who receive payments pursuant to paragraph (a) of this section must submit annual reports no later than 30 days following the end of the calendar year during which the payments were received providing information on the funds received. Such reports shall specify:
 
-U.S. financial institutions are required to obtain specific licenses to operate accounts for, or extend credit to, the diplomatic missions of the Government of Libya to the United States and the United Nations.
+(i) The individual or entity from whom the funds originated and the amount of funds received; and
 
-(b) The provision of goods or services in the United States to the employees of the diplomatic missions of the Government of Libya to the United States and the United Nations is authorized, provided that:
+(ii) If applicable:
 
-(1) The goods or services are for personal use of the employees of the missions, and are not for resale; and
+(A) The names of any individuals or entities providing related services to the U.S. person receiving payment in connection with authorized legal services, such as private investigators or expert witnesses;
 
-(2) The transaction is not otherwise prohibited by law.
+(B) A general description of the services provided; and
 
-Note 1 to § 570.508:
+(C) The amount of funds paid in connection with such services.
 
-See § 570.404 for authorization, with certain exceptions, of any transaction ordinarily incident to a licensed transaction and necessary to give effect thereto.
+(2) The reports, which must reference this section, are to be submitted to OFAC using one of the following methods:
 
-Note 2 to § 570.508:
+(i) Email (preferred method): *OFACreport@treasury.gov;* or
 
-Effective July 1, 2011, this section replaces and supersedes General License No. 2, dated March 1, 2011, which was issued pursuant to Executive Order 13566 and posted on OFAC's Web site.
+(ii) U.S. mail: OFAC Regulations Reports, Office of Foreign Assets Control, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220.

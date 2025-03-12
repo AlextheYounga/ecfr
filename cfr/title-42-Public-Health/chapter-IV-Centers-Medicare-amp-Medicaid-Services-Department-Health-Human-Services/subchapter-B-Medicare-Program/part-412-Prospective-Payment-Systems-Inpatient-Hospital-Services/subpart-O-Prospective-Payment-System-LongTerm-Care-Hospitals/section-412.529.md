@@ -1,12 +1,10 @@
 ##### § 412.529 Special payment provision for short-stay outliers. #####
 
-Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
-
 (a) *Short-stay outlier defined.* “Short-stay outlier” means a discharge with a covered length of stay in a long-term care hospital that is up to and including five-sixths of the geometric average length of stay for each LTC-DRG.
 
 (b) *Adjustment to payment.* CMS adjusts the hospital's Federal prospective payment to account for any case that is determined to be a short-stay outlier, as defined in paragraph (a) of this section, under the methodology specified in paragraph (c) of this section.
 
-(c) *Method for determining the payment amount* - (1) *Discharges occurring before July 1, 2006.* For discharges from long-term care hospitals described under § 412.23(e)(2)(i), occurring before July 1, 2006, the LTCH prospective payment system adjusted payment amount for a short-stay outlier case is the least of the following amounts:
+(c) *Method for determining the payment amount*—(1) *Discharges occurring before July 1, 2006.* For discharges from long-term care hospitals described under § 412.23(e)(2)(i), occurring before July 1, 2006, the LTCH prospective payment system adjusted payment amount for a short-stay outlier case is the least of the following amounts:
 
 (i) One hundred and twenty (120) percent of the LTC-DRG specific per diem amount determined under paragraph (d)(1) of this section.
 
@@ -44,13 +42,13 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (4) *Discharges occurring on or after October 1, 2017.* For discharges occurring on or after October 1, 2017, short-stay outlier payments are determined according to paragraph (c)(2)(iv) of this section.
 
-(d) *Calculation of alternative payment amounts* - (1) *Determining the LTC-DRG per diem amount.* CMS calculates the LTC-DRG per diem amount for short-stay outliers for each LTC-DRG by dividing the product of the standard Federal payment rate and the LTC-DRG relative weight by the geometric average length of stay of the specific LTC-DRG multiplied by the covered days of the stay.
+(d) *Calculation of alternative payment amounts*—(1) *Determining the LTC-DRG per diem amount.* CMS calculates the LTC-DRG per diem amount for short-stay outliers for each LTC-DRG by dividing the product of the standard Federal payment rate and the LTC-DRG relative weight by the geometric average length of stay of the specific LTC-DRG multiplied by the covered days of the stay.
 
 (2) *Determining the estimated cost of a case.* To determine the estimated cost of a case, CMS multiplies the hospital-specific cost-to-charge ratio by the Medicare allowable charges for the case.
 
 (3) *Determining the Federal prospective payment for the LTC-DRG.* CMS calculates the Federal prospective payment for the LTC-DRG by multiplying the adjusted standard Federal payment rate by the LTC-DRG relative weight.
 
-(4) *Determining the amount comparable to the hospital inpatient prospective payment system per diem amount* - (i) *General.* Under subpart O, CMS calculates -
+(4) *Determining the amount comparable to the hospital inpatient prospective payment system per diem amount*—(i) *General.* Under subpart O, CMS calculates—
 
 (A) An amount comparable to what would otherwise be paid under the hospital inpatient prospective payment system based on the sum of the applicable operating inpatient prospective payment system standardized amount and the capital inpatient prospective payment system Federal rate in effect at the time of the LTCH discharge.
 
@@ -58,19 +56,25 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (C) The payment amount specified under paragraph (d)(4)(i)(B) of this section may not exceed the full amount comparable to what would otherwise be paid under the hospital inpatient prospective payment system determined under paragraph (d)(4)(i)(A) of this section.
 
-(ii) *Hospital inpatient prospective payment system operating standardized amount.* The hospital inpatient prospective payment system operating standardized amount -
+(ii) *Hospital inpatient prospective payment system operating standardized amount.* The hospital inpatient prospective payment system operating standardized amount—
 
 (A) Is adjusted for the applicable hospital inpatient prospective payment system DRG weighting factors.
 
-(B) Is adjusted for different area wage levels based on the geographic classifications set forth at § 412.503 and the applicable hospital inpatient prospective payment system labor-related share, using the applicable hospital inpatient prospective payment system wage index value for nonreclassified hospitals. For LTCHs located in Alaska and Hawaii, this amount is also adjusted by the applicable hospital inpatient prospective payment system cost of living adjustment factors.
+(B)(*1*) Is adjusted for different area wage levels based on the geographic classifications set forth at § 412.503 and the applicable hospital inpatient prospective payment system (IPPS) labor-related share, using the applicable hospital inpatient prospective payment system wage index value for nonreclassified hospitals (an LTCH's applicable IPPS wage index).
+
+(*2*) Beginning in fiscal year 2023, if CMS determines that an LTCH's applicable IPPS wage index value for a fiscal year would decrease by more than 5 percent as compared to the LTCH's applicable IPPS wage index value for the prior fiscal year, CMS limits the decrease to 5 percent for the fiscal year.
+
+(*3*) For LTCHs located in Alaska and Hawaii, the amount specified in paragraph (d)(4)(ii) of this section is also adjusted by the applicable hospital inpatient prospective payment system cost of living adjustment factors.
 
 (C) Includes, where applicable, adjustments for indirect medical education costs and the costs of serving a disproportionate share of low-income patients.
 
-(iii) *Hospital inpatient prospective payment system capital Federal rate.* The hospital inpatient prospective payment system capital Federal rate -
+(iii) *Hospital inpatient prospective payment system capital Federal rate.* The hospital inpatient prospective payment system capital Federal rate—
 
 (A) Is adjusted for the applicable inpatient prospective payment system DRG weighting factors.
 
-(B) Is adjusted for the applicable geographic adjustment factors, including local cost variation based on the geographic classifications set forth at § 412.503 and the applicable full hospital inpatient prospective payment system wage index value for nonreclassified hospitals and, applicable large urban location cost of living adjustment factors for LTCHs in Alaska and Hawaii, if applicable.
+(B)(*1*) Is adjusted for the applicable geographic adjustment factors, including local cost variation based on the geographic classifications set forth at § 412.503 and the applicable full hospital inpatient prospective payment system (IPPS) wage index value for nonreclassified hospitals (an LTCH's applicable IPPS wage index) and applicable cost of living adjustment factors for LTCHs in Alaska and Hawaii.
+
+(*2*) Beginning in fiscal year 2023, if CMS determines that an LTCH's applicable IPPS wage index value for a fiscal year would decrease by more than 5 percent as compared to the LTCH's applicable IPPS wage index value for the prior fiscal year, CMS limits the decrease to 5 percent for the fiscal year.
 
 (C) Includes, where applicable, adjustments for indirect medical education costs and the costs of serving a disproportionate share of low-income patients.
 
@@ -128,4 +132,4 @@ Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
 
 (v) At the time of any reconciliation under paragraph (f)(4)(iv) of this section, outlier payments may be adjusted to account for the time value of any underpayments or overpayments. Any adjustment is based upon a widely available index to be established in advance by the Secretary, and is applied from the midpoint of the cost reporting period to the date of reconciliation.
 
-[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 71 FR 27899, May 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 75 FR 50416, Aug. 16, 2010; 77 FR 53679, Aug. 31, 2012; 82 FR 38513, Aug. 14, 2017]
+[67 FR 56049, Aug. 30, 2002, as amended at 68 FR 34163, June 6, 2003; 68 FR 34515, June 9, 2003; 71 FR 27899, May 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26991, May 11, 2007; 73 FR 24880, May 6, 2008; 73 FR 26839, May 9, 2008; 75 FR 50416, Aug. 16, 2010; 77 FR 53679, Aug. 31, 2012; 82 FR 38513, Aug. 14, 2017; 87 FR 49405, Aug. 10, 2022]

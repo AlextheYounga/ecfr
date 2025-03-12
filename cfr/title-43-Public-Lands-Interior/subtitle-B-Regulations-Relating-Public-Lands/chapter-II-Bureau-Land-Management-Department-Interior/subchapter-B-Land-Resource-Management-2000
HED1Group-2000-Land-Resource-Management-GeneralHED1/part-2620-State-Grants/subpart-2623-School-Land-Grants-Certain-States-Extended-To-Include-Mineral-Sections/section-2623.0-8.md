@@ -1,0 +1,15 @@
+##### § 2623.0-8 Lands subject to selection. #####
+
+(a) *Lands included in grant.* (1) Section 2 of the Act of January 25, 1927 (44 Stat. 1027; 43 U.S.C. 871) reads as follows:
+
+Sec. 2. That nothing herein contained is intended or shall be held or construed to increase, diminish, or affect the rights of States under grants other than for the support of common or public schools by numbered school sections in place, and this Act shall not apply to indemnity of lieu selections or exchanges or the right hereafter to select indemnity for numbered school sections in place lost to the State under the provisions of this or other Acts, and all existing laws governing such grants and indemnity or lieu selections and exchanges are hereby continued in full force and effect.
+
+(2) The only grants affected in any way by the provisions of the Act of January 25, 1927, are those of numbered sections of land in place made to the States for the support of common or public schools. The adjudication of claims to land asserted under other grants, for indemnity or lieu lands and exchanges of lands, will proceed as theretofore, being governed by the provisions of existing laws applicable thereto. The States will be afforded full opportunity, however, if the facts and conditions are such as to authorize such action, either to assign new base in support of or to withdraw pending unapproved indemnity school land selections in support of which mineral school-section lands have been tendered as base.
+
+(b) *Lands excluded from grant.* (1) Subsection (c) of section 1 of the Act of January 25, 1927, provides:
+
+That any lands included within the limits of existing reservations of or by the United States, or specifically reserved for waterpower purposes, or included in any pending suit or proceedings in the courts of the United States, or subject to or included in any valid application, claim, or right initiated or held under any of the existing laws of the United States, unless or until such application, claim, or right is relinquished or canceled, and all lands in the Territory of Alaska are excluded from the provisions of this act.
+
+(2) School-section lands included within the limits of existing reservations of or by the United States, specifically reserved for waterpower purposes, or included in any suit or proceedings in the courts of the United States, prior to January 25, 1927, and all lands in Alaska are excluded from the provisions of the Act. (§ 2623.4)
+
+(3) The words *existing reservation* as used in subsection (c) are construed generally and subject to specific determination in particular cases if the need therefor shall arise, as including Indian and military reservations, naval and petroleum reserves, national parks, national forests, stock driveways, reservations established under the Act of June 25, 1910 (36 Stat. 847; 43 U.S.C. 141-143), as amended by the Act of August 24, 1912 (37 Stat. 497; 43 U.S.C. 142), and all forms of Executive withdrawal recognized and construed by the Department of the Interior as reservations, existent prior to January 25, 1927.

@@ -1,0 +1,7 @@
+##### § 2740.0-9 Information collection. #####
+
+The collection of information contained in part 2740 of Group 2700 has been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1004-0012. This information will be used to determine the suitability of public lands for lease and/or disposal to States or their political subdivisions, and to nonprofit corporations and associations, for recreational and public purposes. Responses are required to obtain benefits in accordance with the Recreation and Public Purposes Act.
+
+Public reporting burden for this information is estimated to average 47 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, should be sent to the Division of Information Resources Management (770), Bureau of Land Management, 1849 C Street NW., Washington, DC 20240; and the Paperwork Reduction Project (1004-0012), Office of Management and Budget, Washington, DC 20503.
+
+[57 FR 32732, July 23, 1992]

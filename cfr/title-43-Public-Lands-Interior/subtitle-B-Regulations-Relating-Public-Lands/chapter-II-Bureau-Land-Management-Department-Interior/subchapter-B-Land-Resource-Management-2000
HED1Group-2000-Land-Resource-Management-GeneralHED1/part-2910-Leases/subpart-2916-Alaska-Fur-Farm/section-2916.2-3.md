@@ -1,0 +1,3 @@
+##### § 2916.2-3 Renewal of leases. #####
+
+Upon an application filed in the proper office within 90 days preceding the expiration date of the lease, if it is determined that a renewal lease should be granted, the lessee will be offered such lease by the authorized officer, upon such terms and conditions and for such duration as may be fixed, not exceeding 10 years. The filing of an application for renewal does not confer on the lessee any preference right to a renewal. The timely filing of an application will, however authorize the exclusive fur-farming use of the lands by the lessee in accordance with the terms of the prior lease pending final action on the renewal application.

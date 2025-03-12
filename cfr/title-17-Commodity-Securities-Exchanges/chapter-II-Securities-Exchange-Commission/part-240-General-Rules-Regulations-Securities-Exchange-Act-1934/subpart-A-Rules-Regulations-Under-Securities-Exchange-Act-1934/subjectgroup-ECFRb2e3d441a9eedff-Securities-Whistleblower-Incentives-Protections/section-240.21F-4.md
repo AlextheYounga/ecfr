@@ -1,7 +1,5 @@
 ##### § 240.21F-4 Other definitions. #####
 
-Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
-
 (a) *Voluntary submission of information.* (1) Your submission of information is made *voluntarily* within the meaning of §§ 240.21F-1 through 240.21F-17 of this chapter if you provide your submission before a request, inquiry, or demand that relates to the subject matter of your submission is directed to you or anyone representing you (such as an attorney):
 
 (i) By the Commission;
@@ -66,7 +64,7 @@ Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
 
 (1) You gave the Commission original information that was sufficiently specific, credible, and timely to cause the staff to commence an examination, open an investigation, reopen an investigation that the Commission had closed, or to inquire concerning different conduct as part of a current examination or investigation, and the Commission brought a successful judicial or administrative action based in whole or in part on conduct that was the subject of your original information; or
 
-(2) You gave the Commission original information about conduct that was already under examination or investigation by the Commission, the Congress, any other authority of the federal government, a state Attorney General or securities regulatory authority, any self-regulatory organization, or the PCAOB (except in cases where you were an original source of this information as defined in paragraph (b)(5) of this section), and your submission significantly contributed to the success of the action.
+(2) You gave the Commission original information about conduct that was already under examination or investigation by the Commission, the Congress, any other authority of the Federal Government, a state attorney general or securities regulatory authority, any self-regulatory organization, or the PCAOB (except in cases where you were an original source of this information as defined in paragraph (b)(5) of this section), and your submission significantly contributed to the success of the action; or
 
 (3) You reported original information through an entity's internal whistleblower, legal, or compliance procedures for reporting allegations of possible violations of law before or at the same time you reported them to the Commission; the entity later provided your information to the Commission, or provided results of an audit or investigation initiated in whole or in part in response to information you reported to the entity; and the information the entity provided to the Commission satisfies either paragraph (c)(1) or (c)(2) of this section. Under this paragraph (c)(3), you must also submit the same information to the Commission in accordance with the procedures set forth in § 240.21F-9 within 120 days of providing it to the entity.
 
@@ -98,4 +96,4 @@ Link to an amendment published at 87 FR 54151, Sept. 2, 2022.
 
 (h) *Self-regulatory organization* means any national securities exchange, registered securities association, registered clearing agency, the Municipal Securities Rulemaking Board, and any other organizations that may be defined as self-regulatory organizations under Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26)).
 
-[76 FR 34363, June 13, 2011, as amended at 85 FR 70943, Nov. 5, 2020]
+[76 FR 34363, June 13, 2011, as amended at 85 FR 70943, Nov. 5, 2020; 87 FR 54151, Sept. 2, 2022]
