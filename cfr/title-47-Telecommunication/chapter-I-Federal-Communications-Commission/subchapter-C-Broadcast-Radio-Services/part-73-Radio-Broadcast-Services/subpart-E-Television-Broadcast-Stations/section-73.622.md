@@ -1718,7 +1718,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |    Grand Island    |                      11, 16                       |
 |      Hastings      |                      5, \*28                      |
 |    Hayes Center    |                         6                         |
-|      Kearney       |                        13                         |
+|      Kearney       |                        18                         |
 |     Lexington      |                       \*26                        |
 |      Lincoln       |                  8, 10, \*12, 15                  |
 |       McCook       |                        12                         |

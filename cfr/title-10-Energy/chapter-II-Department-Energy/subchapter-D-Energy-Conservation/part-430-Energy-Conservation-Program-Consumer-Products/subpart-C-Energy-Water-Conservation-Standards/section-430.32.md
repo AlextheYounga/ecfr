@@ -376,7 +376,7 @@ av = Total adjusted volume, expressed in Liters.
 |(E) Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)|                    2.55                    |
 |         (F) Ventless Electric, Combination Washer-Dryer          |                    2.08                    |
 
-(ii) Vented, electric standard clothes dryers and vented gas clothes dryers with a cycle time of less than 30 minutes are not currently subject to energy conservation standards.
+(ii) Vented, electric standard clothes dryers and vented gas clothes dryers with a cycle time of less than 30 minutes, when tested according to appendix D2 in subpart B of this part, are not currently subject to energy conservation standards.
 
 (i) *Direct heating equipment.* (1) Vented home heating equipment manufactured on or after January 1, 1990 and before April 16, 2013, shall have an annual fuel utilization efficiency no less than:
 

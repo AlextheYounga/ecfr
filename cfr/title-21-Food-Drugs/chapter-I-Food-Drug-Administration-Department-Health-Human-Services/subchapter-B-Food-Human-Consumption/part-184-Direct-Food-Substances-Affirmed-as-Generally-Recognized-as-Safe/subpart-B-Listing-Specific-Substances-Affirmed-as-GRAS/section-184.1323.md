@@ -1,6 +1,6 @@
 ##### § 184.1323 Glyceryl monooleate. #####
 
-(a) Glyceryl monooleate is prepared by esterification of commerical oleic acid that is derived either from edible sources or from tall oil fatty acids meeting the requirements of § 172.862 of this chapter. It contains glyceryl monooleate (C21H40O4, CAS Reg. No. 25496-72-4) and glyceryl esters of fatty acids present in commercial oleic acid.
+(a) Glyceryl monooleate is prepared by esterification of commercial oleic acid that is derived either from edible sources or from tall oil fatty acids meeting the requirements of § 172.862 of this chapter. It contains glyceryl monooleate (C21H40O4, CAS Reg. No. 25496-72-4) and glyceryl esters of fatty acids present in commercial oleic acid.
 
 (b) The ingredient must be of a purity suitable for its intended use.
 

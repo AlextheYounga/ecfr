@@ -1,6 +1,6 @@
 ##### § 679.82 Rockfish Program use caps and sideboard limits. #####
 
-(a) Use caps - (1) *General.* (i) Use caps limit the amount of rockfish QS that may be held or used by a rockfish eligible harvester and the amount of CQ that may be held or used by a rockfish cooperative, harvested by a vessel, or received or processed by a rockfish processor.
+(a) *Use caps*—(1) *General.* (i) Use caps limit the amount of rockfish QS that may be held or used by a rockfish eligible harvester and the amount of CQ that may be held or used by a rockfish cooperative, harvested by a vessel, or received or processed by a rockfish processor.
 
 (ii) Use caps do not apply to halibut PSC CQ.
 
@@ -32,13 +32,13 @@
 
 (iv) The amount of aggregate rockfish primary species, Pacific cod, or sablefish CQ assigned to the catcher vessel sector that is received by a rockfish processor is calculated based on the sum of all landings made with CQ received or processed by that rockfish processor and the CQ received or processed by any person affiliated with that rockfish processor as that term is defined in § 679.2.
 
-(6) *Use cap exemptions* - (i) *Rockfish QS.* A rockfish QS holder may receive an initial allocation of aggregate rockfish QS in excess of the use cap in that sector only if that rockfish QS is assigned to LLP license(s) held by that rockfish eligible harvester prior to June 14, 2010, and continuously through the time of application for rockfish QS.
+(6) *Use cap exemptions*—(i) *Rockfish QS.* A rockfish QS holder may receive an initial allocation of aggregate rockfish QS in excess of the use cap in that sector only if that rockfish QS is assigned to LLP license(s) held by that rockfish eligible harvester prior to June 14, 2010, and continuously through the time of application for rockfish QS.
 
 (ii) *Transfer limitations.* A rockfish eligible harvester that receives an initial allocation of aggregate rockfish QS that exceeds the use cap listed in paragraph (a)(2) of this section shall not receive any rockfish QS by transfer (except by operation of law) unless and until that harvester's holdings of aggregate rockfish QS in that sector are reduced to an amount below the use cap specified in paragraph (a)(2) of this section.
 
 (b) *Opt-out.* Any vessel named on an LLP license that is not named on an approved Annual Application for Cooperative Fishing Quota, may not fish with any vessel named on the opted-out LLP license during that fishing year in any directed fishery for any rockfish primary species in the Central GOA and waters adjacent to the Central GOA when the rockfish primary species caught by that vessel is deducted from the Federal TAC specified under § 679.20.
 
-(c) *Sideboard limitations* - *General.* The regulations in this section restrict the vessels and holders of LLP licenses with rockfish legal landings that could generate rockfish QS from using the increased flexibility provided by the Rockfish Program to expand their level of participation in other GOA groundfish fisheries. These limitations are commonly known as “sideboards.”
+(c) *Sideboard limitations*—*General.* The regulations in this section restrict the vessels and holders of LLP licenses with rockfish legal landings that could generate rockfish QS from using the increased flexibility provided by the Rockfish Program to expand their level of participation in other GOA groundfish fisheries. These limitations are commonly known as “sideboards.”
 
 (1) *Classes of sideboard restrictions.* Three types of sideboard restrictions apply under the Rockfish Program:
 
@@ -54,7 +54,7 @@
 
 (4) *Duration of sideboard limits.* Unless otherwise specified, all sideboard limitations established under paragraph (e) of this section only apply from July 1 through July 31 of each year.
 
-(d) *Sideboard provisions for catcher vessels* - (1) *Vessels subject to catcher vessel sideboard limits.* Any vessel not specified in paragraph (d)(2) of this section that NMFS has determined meets any of the following criteria is subject to the provisions under this paragraph (d):
+(d) *Sideboard provisions for catcher vessels*—(1) *Vessels subject to catcher vessel sideboard limits.* Any vessel not specified in paragraph (d)(2) of this section that NMFS has determined meets any of the following criteria is subject to the provisions under this paragraph (d):
 
 (i) Any vessel whose rockfish legal landings could be used to generate rockfish QS for the catcher vessel sector; and,
 
@@ -72,7 +72,7 @@
 
 (4) *Prohibition for directed fishing in the specific GOA flatfish fisheries during July.* Vessels subject to the provisions in this paragraph (d) may not participate in directed fishing for arrowtooth flounder, deep-water flatfish, and rex sole in the GOA (or in waters adjacent to the GOA when arrowtooth flounder, deep-water flatfish, and rex sole caught by that vessel is deducted from the Federal TAC as specified under § 679.20) from July 1 through July 31.
 
-(e) *Rockfish and halibut PSC sideboard provisions for catcher/processor vessels* - (1) *Vessels subject to catcher/processor sideboard limits.* Any vessel that NMFS has determined meets any of the following criteria is subject to the provisions under this paragraph (e):
+(e) *Rockfish and halibut PSC sideboard provisions for catcher/processor vessels*—(1) *Vessels subject to catcher/processor sideboard limits.* Any vessel that NMFS has determined meets any of the following criteria is subject to the provisions under this paragraph (e):
 
 (i) Any vessel whose rockfish legal landings could be used to generate rockfish QS for the catcher/processor sector in the Rockfish Program; or
 
@@ -140,7 +140,7 @@
 
 (iv) *Halibut PSC accounting.* Any halibut mortality occurring under a CQ permit from July 1 through July 31 will not apply against the halibut PSC sideboard limits established in paragraph (e)(5) of this section.
 
-(f) *Sideboard provisions - catcher/processor opt-out provisions* - (1) *Vessels subject to opt-out sideboard provisions.* In addition to the sideboards for opt-out vessels in paragraphs (e)(7) and (e)(10) of this section, any catcher/processor opt-out vessel that NMFS has determined meets any of the following criteria is subject to the provisions under this paragraph (f):
+(f) *Sideboard provisions—catcher/processor opt-out provisions*—(1) *Vessels subject to opt-out sideboard provisions.* In addition to the sideboards for opt-out vessels in paragraphs (e)(7) and (e)(10) of this section, any catcher/processor opt-out vessel that NMFS has determined meets any of the following criteria is subject to the provisions under this paragraph (f):
 
 (i) Any vessel whose legal rockfish landings could be used to generate rockfish QS for the catcher/processor sector that is not assigned to a rockfish cooperative; or,
 

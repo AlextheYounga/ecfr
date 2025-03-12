@@ -1,7 +1,5 @@
 ##### § 1.80 Forfeiture proceedings. #####
 
-Link to an amendment published at 86 FR 18159, Apr. 7, 2021.
-
 (a) *Persons against whom and violations for which a forfeiture may be assessed.* A forfeiture penalty may be assessed against any person found to have:
 
 (1) Willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument of authorization issued by the Commission;
@@ -46,45 +44,44 @@ A forfeiture penalty assessed under this section is in addition to any other pen
 
 Table 1 to Paragraph (b)(10) - Base Amounts for Section 503 Forfeitures
 
-|                                               Forfeitures                                                |Violation  <br/>amount|
-|----------------------------------------------------------------------------------------------------------|----------------------|
-|                                     Misrepresentation/lack of candor                                     |    (<sup>1</sup>)    |
-|           Construction and/or operation without an instrument of authorization for the service           |       $10,000        |
-|                        Failure to comply with prescribed lighting and/or marking                         |        10,000        |
-|                                      Violation of public file rules                                      |        10,000        |
-|Violation of political rules: Reasonable access, lowest unit charge, equal opportunity, and discrimination|        9,000         |
-|                               Unauthorized substantial transfer of control                               |        8,000         |
-|             Violation of children's television commercialization or programming requirements             |        8,000         |
-|                     Violations of rules relating to distress and safety frequencies                      |        8,000         |
-|                                      False distress communications                                       |        8,000         |
-|                                EAS equipment not installed or operational                                |        8,000         |
-|                                        Alien ownership violation                                         |        8,000         |
-|                                       Failure to permit inspection                                       |        7,000         |
-|                                Transmission of indecent/obscene materials                                |        7,000         |
-|                                               Interference                                               |        7,000         |
-|                            Importation or marketing of unauthorized equipment                            |        7,000         |
-|                                  Exceeding of authorized antenna height                                  |        5,000         |
-|                                    Fraud by wire, radio or television                                    |        5,000         |
-|                                  Unauthorized discontinuance of service                                  |        5,000         |
-|                                      Use of unauthorized equipment                                       |        5,000         |
-|                                          Exceeding power limits                                          |        4,000         |
-|                             Failure to respond to Commission communications                              |        4,000         |
-|                                 Violation of sponsorship ID requirements                                 |        4,000         |
-|                                          Unauthorized emissions                                          |        4,000         |
-|                                       Using unauthorized frequency                                       |        4,000         |
-|                           Failure to engage in required frequency coordination                           |        4,000         |
-|                            Construction or operation at unauthorized location                            |        4,000         |
-|              Violation of requirements pertaining to broadcasting of lotteries or contests               |        4,000         |
-|                        Violation of transmitter control and metering requirements                        |        3,000         |
-|                              Failure to file required forms or information                               |        3,000         |
-|                   Failure to make required measurements or conduct required monitoring                   |        2,000         |
-|                                      Failure to provide station ID                                       |        1,000         |
-|                                Unauthorized pro forma transfer of control                                |        1,000         |
-|                                   Failure to maintain required records                                   |        1,000         |
+|                                                  Forfeitures                                                   |Violation  <br/>amount|
+|----------------------------------------------------------------------------------------------------------------|----------------------|
+|                                        Misrepresentation/lack of candor                                        |         (1)          |
+|Failure to file required DODC required forms, and/or filing materially inaccurate or incomplete DODC information|       $15,000        |
+|              Construction and/or operation without an instrument of authorization for the service              |        10,000        |
+|                           Failure to comply with prescribed lighting and/or marking                            |        10,000        |
+|                                         Violation of public file rules                                         |        10,000        |
+|   Violation of political rules: Reasonable access, lowest unit charge, equal opportunity, and discrimination   |        9,000         |
+|                                  Unauthorized substantial transfer of control                                  |        8,000         |
+|                Violation of children's television commercialization or programming requirements                |        8,000         |
+|                        Violations of rules relating to distress and safety frequencies                         |        8,000         |
+|                                         False distress communications                                          |        8,000         |
+|                                   EAS equipment not installed or operational                                   |        8,000         |
+|                                           Alien ownership violation                                            |        8,000         |
+|                                          Failure to permit inspection                                          |        7,000         |
+|                                   Transmission of indecent/obscene materials                                   |        7,000         |
+|                                                  Interference                                                  |        7,000         |
+|                               Importation or marketing of unauthorized equipment                               |        7,000         |
+|                                     Exceeding of authorized antenna height                                     |        5,000         |
+|                                       Fraud by wire, radio or television                                       |        5,000         |
+|                                     Unauthorized discontinuance of service                                     |        5,000         |
+|                                         Use of unauthorized equipment                                          |        5,000         |
+|                                             Exceeding power limits                                             |        4,000         |
+|                                Failure to respond to Commission communications                                 |        4,000         |
+|                                    Violation of sponsorship ID requirements                                    |        4,000         |
+|                                             Unauthorized emissions                                             |        4,000         |
+|                                          Using unauthorized frequency                                          |        4,000         |
+|                              Failure to engage in required frequency coordination                              |        4,000         |
+|                               Construction or operation at unauthorized location                               |        4,000         |
+|                 Violation of requirements pertaining to broadcasting of lotteries or contests                  |        4,000         |
+|                           Violation of transmitter control and metering requirements                           |        3,000         |
+|                                 Failure to file required forms or information                                  |        3,000         |
+|                      Failure to make required measurements or conduct required monitoring                      |        2,000         |
+|                                         Failure to provide station ID                                          |        1,000         |
+|                                   Unauthorized pro forma transfer of control                                   |        1,000         |
+|                                      Failure to maintain required records                                      |        1,000         |
 
-<sup>1</sup> Statutory Maximum for each Service.
-
-Table 2 to Paragraph (b)(10) - Violations Unique to the Service
+Table 2 to Paragraph (b) (10) - Violations Unique to the Service
 
 |                             Violation                              |Services affected|Amount |
 |--------------------------------------------------------------------|-----------------|-------|
@@ -103,7 +100,7 @@ Table 2 to Paragraph (b)(10) - Violations Unique to the Service
 |     Broadcasting telephone conversations without authorization     |    Broadcast    | 4,000 |
 |          Violation of enhanced underwriting requirements           |    Broadcast    | 2,000 |
 
-Table 3 to Paragraph (b)(10) - Adjustment Criteria for Section 503 Forfeitures
+Table 3 to Paragraph (b) (10) - Adjustment Criteria for Section 503 Forfeitures
 
 |                                             |
 |---------------------------------------------|
@@ -236,4 +233,4 @@ Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 
 
 (k) *Effective date.* Amendments to paragraph (b) of this section implementing Pub. L. No. 101-239 are effective December 19, 1989.
 
-[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020; 85 FR 22029, Apr. 21, 2020; 85 FR 38333, June 26, 2020; 85 FR 63172, Oct. 6, 2020; 86 FR 3830, Jan. 15, 2021; 86 FR 15797, Mar. 25, 2021]
+[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020; 85 FR 22029, Apr. 21, 2020; 85 FR 38333, June 26, 2020; 85 FR 63172, Oct. 6, 2020; 86 FR 3830, Jan. 15, 2021; 86 FR 15797, Mar. 25, 2021; 86 FR 18159, Apr. 7, 2021]

@@ -6,4 +6,4 @@ The number of generations through which a variety may be multiplied shall be lim
 
 (b) The production of an additional generation of the Certified class may be permitted on a 1-year basis only, when an emergency is declared by any official seed certifying agency stating that the Foundation and Registered seed supplies are not adequate to plant the needed Certified acreage of the variety. The additional generation of Certified seed to meet the emergency need is ineligible for recertification.
 
-[38 FR 25662, Sept. 14, 1973; 38 FR 26800, Sept. 26, 1973, as amended at 46 FR 53639, Oct. 29, 1981]
+[38 FR 25662, Sept. 14, 1973; 38 FR 26800, Sept. 26, 1973, as amended at 46 FR 53639, Oct. 29, 1981; 86 FR 40853, July 7, 2020]

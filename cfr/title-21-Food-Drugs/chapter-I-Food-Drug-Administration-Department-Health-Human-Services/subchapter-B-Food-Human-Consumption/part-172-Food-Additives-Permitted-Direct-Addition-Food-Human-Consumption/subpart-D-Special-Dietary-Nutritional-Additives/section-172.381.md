@@ -1,4 +1,4 @@
-##### § 172.381 Vitamin D2. #####
+##### § 172.381 Vitamin D2 bakers yeast. #####
 
 Vitamin D2 bakers yeast may be used safely in foods as a source of vitamin D2 and as a leavening agent in accordance with the following prescribed conditions:
 

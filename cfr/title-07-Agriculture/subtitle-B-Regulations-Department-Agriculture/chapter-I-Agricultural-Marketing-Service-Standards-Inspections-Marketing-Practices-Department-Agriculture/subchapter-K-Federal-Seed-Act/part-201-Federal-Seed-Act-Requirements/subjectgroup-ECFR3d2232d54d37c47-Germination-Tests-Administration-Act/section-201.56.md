@@ -10,4 +10,4 @@
 
 (e) Standard guides for seedling interpretation shall include the following descriptions for specific kinds and groups. The “General Description” for each group of crop kinds describes a seedling without defects. While such a seedling is clearly normal, seedlings with some defects may also be classified as normal, provided the defects do not impair the functioning of the structure. The “Abnormal seedling description” is to be followed when judging the severity of defects.
 
-[20 FR 7931, Oct. 21, 1955, as amended at 25 FR 8771, Sept. 13, 1960; 59 FR 64500, Dec. 14, 1994; 85 FR 40581, July 7, 2020]
+[20 FR 7931, Oct. 21, 1955, as amended at 25 FR 8771, Sept. 13, 1960; 59 FR 64500, Dec. 14, 1994; 85 FR 40582, July 7, 2020]

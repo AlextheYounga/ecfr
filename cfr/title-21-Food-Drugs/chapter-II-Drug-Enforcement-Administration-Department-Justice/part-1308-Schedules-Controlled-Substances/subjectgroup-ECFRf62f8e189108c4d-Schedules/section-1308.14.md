@@ -94,9 +94,10 @@
 |               (8) Pemoline (including organometallic complexes and chelates thereof)                |1530|
 |                                           (9) Phentermine                                           |1640|
 |                                           (10) Pipradrol                                            |1750|
-|                                          (11) Sibutramine                                           |1675|
-|(12) Solriamfetol (2-amino-3-phenylpropyl carbamate; benzenepropanol, beta-amino-, carbamate (ester))|1650|
-|                         (13) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)                          |1635|
+|                                     (11) Serdexmethylphenidate                                      |1729|
+|                                          (12) Sibutramine                                           |1675|
+|(13) Solriamfetol (2-amino-3-phenylpropyl carbamate; benzenepropanol, beta-amino-, carbamate (ester))|1650|
+|                         (14) SPA ((-)-1-dimethylamino- 1,2-diphenylethane)                          |1635|
 
 (g) *Other substances.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances, including its salts:
 

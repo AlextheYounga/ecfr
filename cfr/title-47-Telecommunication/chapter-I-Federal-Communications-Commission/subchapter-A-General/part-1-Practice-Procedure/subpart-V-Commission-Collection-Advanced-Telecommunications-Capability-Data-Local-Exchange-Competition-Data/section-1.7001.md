@@ -1,7 +1,5 @@
 ##### § 1.7001 Scope and content of filed reports. #####
 
-Link to an amendment published at 86 FR 18159, Apr. 7, 2021.
-
 (a) *Definitions.* Terms used in this subpart have the following meanings:
 
 (1) *Broadband connection.* A wired line, wireless channel, or satellite service that terminates at an end user location or mobile device and enables the end user to receive information from and/or send information to the internet at information transfer rates exceeding 200 kilobits per second (kbps) in at least one direction.
@@ -44,7 +42,7 @@ Link to an amendment published at 86 FR 18159, Apr. 7, 2021.
 
 (15) *Propagation model.* A mathematical formulation for the characterization of radio wave propagation as a function of frequency, distance, and other conditions.
 
-(16) *Provider.* A provider of fixed or mobile broadband internet access service.
+(16) *Provider.* A facilities-based provider of fixed or mobile broadband internet access service.
 
 (17) *Quality of service.* With respect to broadband internet access service, the download and upload speeds, and latency if applicable, with respect to that service, as determined by, and to the extent otherwise collected by, the Commission.
 
@@ -92,4 +90,4 @@ Link to an amendment published at 86 FR 18159, Apr. 7, 2021.
 
 (f) Failure to file the FCC Form 477 in accordance with the Commission's rules and the instructions to the Form 477 may lead to enforcement action pursuant to the Act and any other applicable law.
 
-[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019; 85 FR 838, Jan. 8, 2020; 85 FR 50907, Aug. 18, 2020]
+[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019; 85 FR 838, Jan. 8, 2020; 85 FR 50907, Aug. 18, 2020; 86 FR 18159, Apr. 7, 2021]
