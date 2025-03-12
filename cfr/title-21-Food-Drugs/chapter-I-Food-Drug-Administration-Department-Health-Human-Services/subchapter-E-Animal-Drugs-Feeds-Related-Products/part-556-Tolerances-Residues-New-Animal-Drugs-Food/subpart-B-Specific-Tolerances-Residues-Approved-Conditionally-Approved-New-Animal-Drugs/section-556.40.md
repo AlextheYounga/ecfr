@@ -8,4 +8,6 @@
 
 (2) *Swine.* Edible tissues: 0.01 ppm.
 
-(c) *Related conditions of use.* See §§ 520.90e, 520.90f, 522.90a, and 522.90b of this chapter.
+(c) *Related conditions of use.* See §§ 520.90c, 522.90a, and 522.90b of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18120, Apr. 1, 2020]

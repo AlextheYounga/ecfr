@@ -1,5 +1,7 @@
 ##### § 103.20 Election procedures and blocking charges; filing of blocking charges; simultaneous filing of offer of proof; prompt furnishing of witnesses. #####
 
+Link to an amendment published at 85 FR 18399, Apr. 1, 2020.This amended delayed until July 31, 2020 at 85 FR 20156, Apr. 10, 2020.
+
 Whenever any party to a representation proceeding files an unfair labor practice charge together with a request that it block the processing of the petition to the election, or whenever any party to a representation proceeding requests that its previously filed unfair labor practice charge block the further processing of a petition, the party shall simultaneously file, but not serve on any other party, a written offer of proof in support of the charge. The offer of proof shall provide the names of the witnesses who will testify in support of the charge and a summary of each witness's anticipated testimony. The party seeking to block the processing of a petition shall also promptly make available to the regional director the witnesses identified in its offer of proof. If the regional director determines that the party's offer of proof does not describe evidence that, if proven, would interfere with employee free choice in an election or would be inherently inconsistent with the petition itself, and thus would require that the processing of the petition be held in abeyance absent special circumstances, the regional director shall continue to process the petition and conduct the election where appropriate.
 
 [79 FR 74490, Dec. 15, 2014]

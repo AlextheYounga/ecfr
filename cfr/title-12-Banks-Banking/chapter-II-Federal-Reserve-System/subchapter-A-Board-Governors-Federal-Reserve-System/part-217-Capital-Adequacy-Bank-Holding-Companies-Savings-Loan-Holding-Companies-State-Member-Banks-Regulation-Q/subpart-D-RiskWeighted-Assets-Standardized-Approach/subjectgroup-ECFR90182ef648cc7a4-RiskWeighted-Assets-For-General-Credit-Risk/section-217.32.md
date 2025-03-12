@@ -1,7 +1,5 @@
 ##### § 217.32 General risk weights. #####
 
-Link to an amendment published at 85 FR 4417, Jan. 24, 2020.
-
 (a) *Sovereign exposures* - (1) *Exposures to the U.S. government.* (i) Notwithstanding any other requirement in this subpart, a Board-regulated institution must assign a zero percent risk weight to:
 
 (A) An exposure to the U.S. government, its central bank, or a U.S. government agency; and
@@ -128,7 +126,11 @@ Table 4 to § 217.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (6) A Board-regulated institution must assign a 150 percent risk weight to a PSE exposure immediately upon determining that an event of sovereign default has occurred in a PSE's home country or if an event of sovereign default has occurred in the PSE's home country during the previous five years.
 
-(f) *Corporate exposures.* A Board-regulated institution must assign a 100 percent risk weight to all its corporate exposures.
+(f) *Corporate exposures.* (1) A Board-regulated institution must assign a 100 percent risk weight to all its corporate exposures, except as provided in paragraph (f)(2) of this section.
+
+(2) A Board-regulated institution must assign a 2 percent risk weight to an exposure to a QCCP arising from the Board-regulated institution posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 217.35(b)(3)(i)(A) and a 4 percent risk weight to an exposure to a QCCP arising from the Board-regulated institution posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 217.35(b)(3)(i)(B).
+
+(3) A Board-regulated institution must assign a 2 percent risk weight to an exposure to a QCCP arising from the Board-regulated institution posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 217.35(c)(3)(i).
 
 (g) *Residential mortgage exposures.* (1) A Board-regulated institution must assign a 50 percent risk weight to a first-lien residential mortgage exposure that:
 
@@ -188,4 +190,4 @@ Table 4 to § 217.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (2) *Policy loans.* A bank holding company or savings and loan holding company must assign a 20 percent risk weight to a policy loan.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 84 FR 35264, July 22, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 84 FR 35264, July 22, 2019; 85 FR 4417, Jan. 24, 2020]

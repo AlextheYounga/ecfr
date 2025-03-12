@@ -1,7 +1,5 @@
 ##### § 324.202 Definitions. #####
 
-Link to an amendment published at 85 FR 4434, Jan. 24, 2020.
-
 (a) Terms set forth in § 324.2 and used in this subpart have the definitions assigned thereto in § 324.2.
 
 (b) For the purposes of this subpart, the following terms are defined as follows:
@@ -28,13 +26,13 @@ Link to an amendment published at 85 FR 4434, Jan. 24, 2020.
 
 *Covered position* means the following positions:
 
-(1) A trading asset or trading liability (whether on- or off-balance sheet),31 as reported on Call Report, that meets the following conditions:
+(1) A trading asset or trading liability (whether on- or off-balance sheet),32 as reported on Call Report, that meets the following conditions:
 
-31 Securities subject to repurchase and lending agreements are included as if they are still owned by the lender.
+32 Securities subject to repurchase and lending agreements are included as if they are still owned by the lender.
 
-(i) The position is a trading position or hedges another covered position;32 and
+(i) The position is a trading position or hedges another covered position;33 and
 
-32 A position that hedges a trading position must be within the scope of the bank's hedging strategy as described in paragraph (a)(2) of § 324.203.
+33 A position that hedges a trading position must be within the scope of the bank's hedging strategy as described in paragraph (a)(2) of § 324.203.
 
 (ii) The position is free of any restrictive covenants on its tradability or the FDIC-supervised institution is able to hedge the material risk elements of the position in a two-way market;
 
@@ -144,4 +142,4 @@ Link to an amendment published at 85 FR 4434, Jan. 24, 2020.
 
 *Value-at-Risk (VaR)* means the estimate of the maximum amount that the value of one or more positions could decline due to market price or rate movements during a fixed holding period within a stated confidence interval.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 35280, July 22, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 35280, July 22, 2019; 85 FR 4434, Jan. 24, 2020]

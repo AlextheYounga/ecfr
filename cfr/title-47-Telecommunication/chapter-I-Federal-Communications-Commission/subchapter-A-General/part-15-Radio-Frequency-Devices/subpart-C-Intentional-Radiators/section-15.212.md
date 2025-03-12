@@ -1,5 +1,7 @@
 ##### § 15.212 Modular transmitters. #####
 
+Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
+
 (a) Single modular transmitters consist of a completely self-contained radiofrequency transmitter device that is typically incorporated into another product, host or device. Split modular transmitters consist of two components: a radio front end with antenna (or radio devices) and a transmitter control element (or specific hardware on which the software that controls the radio operation resides). All single or split modular transmitters are approved with an antenna. All of the following requirements apply, except as provided in paragraph (b) of this section.
 
 (1) Single modular transmitters must meet the following requirements to obtain a modular transmitter approval.

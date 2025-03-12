@@ -1,7 +1,5 @@
 ##### § 648.53 Overfishing limit (OFL), acceptable biological catch (ABC), annual catch limits (ACL), annual catch targets (ACT), annual projected landings (APL), DAS allocations, and individual fishing quotas (IFQ). #####
 
-Link to an amendment published at 85 FR 17762, Mar. 31, 2020.
-
 (a) The following determinations and allocations for the sea scallop rotational areas are defined as follows and shall be established through the specifications or framework adjustment process:
 
 (1) *OFL.* OFL shall be based on an updated scallop resource and fishery assessment provided by either the Scallop PDT or a formal stock assessment. OFL shall include all sources of scallop mortality and shall include an upward adjustment to account for catch of scallops in state waters by vessels not issued Federal scallop permits. The fishing mortality rate (*i.e.* F) associated with OFL shall be the threshold F, above which overfishing is occurring in the scallop fishery. The F associated with OFL shall be used to derive specifications for ABC, ACL, and ACT, as defined in paragraph (a) of this section.
@@ -28,32 +26,32 @@ Link to an amendment published at 85 FR 17762, Mar. 31, 2020.
 
 (7) *Scallop incidental catch target TAC.* The annual incidental catch target TAC is the catch available for harvest for vessels with incidental catch scallop permits. This incidental catch target will be removed from the ABC/ACL defined in paragraph (a)(3) of this section prior to establishing the limited access and LAGC IFQ sub-ACLs and sub-ACTs defined in paragraphs (a)(5) and (6) of this section.
 
-(8) The following catch limits will be effective for the 2019 and 2020 fishing years:
+(8) *Scallop fishery catch limits.* The following catch limits will be effective for the 2020 and 2021 fishing years:
 
-Scallop Fishery Catch Limits
+Table 1 to Paragraph (a)(8) - Scallop Fishery Catch Limits
 
-|                                 Catch limits                                  |2019 (mt)|2020 (mt)<sup>1</sup>|
-|-------------------------------------------------------------------------------|---------|---------------------|
-|                               Overfishing Limit                               | 73,421  |       59,447        |
-|              Acceptable Biological Catch/ACL (discards removed)               | 57,003  |       46,028        |
-|                               Incidental Catch                                |   23    |         23          |
-|                           Research Set-Aside (RSA)                            |   567   |         567         |
-|                              Observer Set-Aside                               |   570   |         460         |
-|                                ACL for fishery                                | 55,843  |       44,978        |
-|                              Limited Access ACL                               | 52,772  |       42,504        |
-|                                LAGC Total ACL                                 |  3,071  |        2,474        |
-|                        LAGC IFQ ACL (5 percent of ACL)                        |  2,792  |        2,249        |
-|             Limited Access with LAGC IFQ ACL (0.5 percent of ACL)             |   279   |         225         |
-|                              Limited Access ACT                               | 47,598  |       38,337        |
-|                        APL (after set-asides removed)                         | 27,209  |   (<sup>1</sup>)    |
-|            Limited Access Projected Landings (94.5 percent of APL)            | 25,713  |   (<sup>1</sup>)    |
-|         Total IFQ Annual Allocation (5.5 percent of APL)<sup>2</sup>          |  1,497  |        1,122        |
-|           LAGC IFQ Annual Allocation (5 percent of APL)<sup>2</sup>           |  1,360  |        1,020        |
-|Limited Access with LAGC IFQ Annual Allocation (0.5 percent of APL)<sup>2</sup>|   136   |         102         |
+|                                 Catch limits                                  |2020  <br/>(mt)|2021  <br/>(mt)<sup>1</sup>|
+|-------------------------------------------------------------------------------|---------------|---------------------------|
+|                               Overfishing Limit                               |    56,186     |          47,503           |
+|              Acceptable Biological Catch/ACL (discards removed)               |    45,414     |          36,435           |
+|                               Incidental Catch                                |      23       |            23             |
+|                           Research Set-Aside (RSA)                            |      567      |            567            |
+|                              Observer Set-Aside                               |      454      |            364            |
+|                                ACL for fishery                                |    44,370     |          35,481           |
+|                              Limited Access ACL                               |    41,930     |          33,530           |
+|                                LAGC Total ACL                                 |     2,440     |           1,951           |
+|                        LAGC IFQ ACL (5 percent of ACL)                        |     2,219     |           1,774           |
+|             Limited Access with LAGC IFQ ACL (0.5 percent of ACL)             |      222      |            177            |
+|                              Limited Access ACT                               |    37,819     |          30,242           |
+|                        APL (after set-asides removed)                         |    22,370     |            (1)            |
+|            Limited Access Projected Landings (94.5 percent of APL)            |    21,140     |            (1)            |
+|         Total IFQ Annual Allocation (5.5 percent of APL)<sup>2</sup>          |     1,230     |            923            |
+|           LAGC IFQ Annual Allocation (5 percent of APL)<sup>2</sup>           |     1,119     |            839            |
+|Limited Access with LAGC IFQ Annual Allocation (0.5 percent of APL)<sup>2</sup>|      112      |            84             |
 
-<sup>1</sup> The catch limits for the 2020 fishing year are subject to change through a future specifications action or framework adjustment. This includes the setting of an APL for 2020 that will be based on the 2019 annual scallop surveys. The 2020 default allocations for the limited access component are defined for DAS in paragraph (b)(3) of this section and for access areas in § 648.59(b)(3)(i)(B).
+<sup>1</sup> The catch limits for the 2021 fishing year are subject to change through a future specifications action or framework adjustment. This includes the setting of an APL for 2021 that will be based on the 2020 annual scallop surveys. The 2021 default allocations for the limited access component are defined for DAS in paragraph (b)(3) of this section and for access areas in § 648.59(b)(3)(i)(B).
 
-<sup>2</sup> As specified in (a)(6)(iii)(B) of this section, the 2020 IFQ annual allocations are set at 75 percent of the 2019 IFQ Annual Allocations.
+<sup>2</sup> As specified in paragraph (a)(6)(iii)(B) of this section, the 2021 IFQ annual allocations are set at 75 percent of the 2020 IFQ Annual Allocations.
 
 (b) *DAS specifications and allocations.* DAS specifications and allocations for limited access scallop trips in open areas are defined as follows and shall be specified through the specifications or framework adjustment processes defined in § 648.55, as follows:
 
@@ -63,17 +61,17 @@ Scallop Fishery Catch Limits
 
 (ii) Subject to the vessel permit application requirements specified in § 648.4, for each fishing year, each vessel issued a limited access scallop permit shall be assigned to the DAS category (full-time, part-time, or occasional) it was assigned to in the preceding year, except as provided under the small dredge program specified in § 648.51(e).
 
-(3) The DAS allocations for limited access scallop vessels for fishing years 2019 and 2020 are as follows:
+(3) *DAS allocations.* The DAS allocations for limited access scallop vessels for fishing years 2020 and 2021 are as follows:
 
-Scallop Open Area DAS Allocations
+Table 2 to Paragraph (b)(3) - Scallop Open Area DAS Allocations
 
-|Permit  <br/>category|2019 |2020<sup>1</sup>|
-|---------------------|-----|----------------|
-|      Full-Time      |24.00|     18.00      |
-|      Part-Time      |9.60 |      7.20      |
-|     Occasional      |2.00 |      1.5       |
+|Permit category|2020 |2021<sup>1</sup>|
+|---------------|-----|----------------|
+|   Full-Time   |24.00|     18.00      |
+|   Part-Time   |9.60 |      7.20      |
+|  Occasional   |2.00 |      1.5       |
 
-<sup>1</sup> The DAS allocations for the 2020 fishing year are subject to change through a future specifications action or framework adjustment. The 2020 DAS allocations are set at 75 percent of the 2019 allocation as a precautionary measure.
+<sup>1</sup> The DAS allocations for the 2021 fishing year are subject to change through a future specifications action or framework adjustment. The 2021 DAS allocations are set at 75 percent of the 2020 allocation as a precautionary measure.
 
 (4) Standardized default DAS allocations. Unless otherwise specified by the Council through the framework adjustment or specifications process defined in § 648.55, after the first-year allocations expire, the second-year default limited access DAS allocations, as described in § 648.55(a), shall be set at 75 percent of the first-year allocation. After the second-year default allocation expires, the third year allocation would be set to zero until replaced by subsequent allocations.
 
@@ -175,7 +173,7 @@ Scallop Open Area DAS Allocations
 
 (iii) *Payment compliance.* An IFQ scallop permit holder that has incurred an IFQ cost recovery fee must pay the fee to NMFS within 60 days from the date of mailing. If the cost recovery payment, as determined by NMFS, is not made within 60 days from the date of mailing, NMFS may deny the renewal of the IFQ scallop permit until full payment is received. If, upon preliminary review of the accuracy and completeness of a fee payment, NMFS determines the IFQ scallop permit holder has not paid the full amount due, NMFS shall notify the IFQ scallop permit holder by letter. NMFS shall explain the discrepancy and provide the IFQ scallop permit holder 30 days to either pay the amount specified by NMFS or to provide evidence that the amount paid was correct. If the IFQ scallop permit holder submits evidence in support of his/her payment, NMFS shall determine if there is any remaining disagreement as to the appropriate IFQ fee, and prepare a Final Administrative Determination (FAD). The FAD shall set out the facts, discuss those facts within the context of the relevant agency policies and regulations, and decide as to the appropriate disposition of the matter. A FAD shall be the final agency action, and, if the FAD determines that the IFQ scallop permit holder is out of compliance, the FAD shall require payment within 30 days. If a FAD is not issued until after the start of the fishing year, the IFQ scallop permit holder may be authorized to fish temporarily by the Regional Administrator until the FAD is issued, at which point the permit holder shall have 30 days to comply with the terms of the FAD or the IFQ scallop permit shall not be issued until such terms are met. If NMFS determines that the IFQ scallop permit holder owes additional fees for the previous cost recovery period, and the IFQ scallop permit has already been renewed, NMFS shall issue a FAD, at which point the permit holder shall have 30 days to comply with the terms of the FAD or NMFS may withdraw the issuance of the IFQ scallop permit until such terms are met. If such payment is not received within 30 days of issuance of the FAD, NMFS shall refer the matter to the appropriate authorities within the U.S. Department of the Treasury for purposes of collection, and no IFQ permit held by the permit holder may be renewed until the terms of the FAD are met. If NMFS determines that the conditions of the FAD have been met, the IFQ permit holder may renew the IFQ scallop permit(s). If NMFS does not receive full payment prior to the end of the fishing year, the IFQ scallop permit shall be considered voluntarily abandoned, pursuant to § 648.4(a)(2)(ii)(K), unless otherwise determined by the Regional Administrator.
 
-(5) *Transferring IFQ* - (i) *Temporary IFQ transfers.* Subject to the restrictions in paragraph (h)(5)(iii) of this section, the owner of an IFQ scallop vessel (and/or IFQ scallop permit in confirmation of permit history) not issued a limited access scallop permit may temporarily transfer (*e.g.,* lease) its entire IFQ allocation, or a portion of its IFQ allocation, to another IFQ scallop vessel. Temporary IFQ transfers shall be effective only for the fishing year in which the temporary transfer is requested and processed. IFQ, once temporarily transferred, cannot be temporarily transferred again to another vessel. IFQ can be temporarily transferred more than once (*i.e.,* re-transferred). For example, if a vessel temporarily transfers IFQ to a vessel, the transferee vessel may re-transfer any portion of that IFQ to another vessel. There is no limit on how many times IFQ can be re-transferred in a fishing year. The Regional Administrator has final approval authority for all temporary IFQ transfer requests.
+(5) *Transferring IFQ* - (i) *Temporary IFQ transfers.* Subject to the restrictions in paragraph (h)(5)(iii) of this section, the owner of an IFQ scallop vessel (and/or IFQ scallop permit in confirmation of permit history) not issued a limited access scallop permit may temporarily transfer (*e.g.,* lease) its entire IFQ allocation, or a portion of its IFQ allocation, to another IFQ scallop vessel. Temporary IFQ transfers shall be effective only for the fishing year in which the temporary transfer is requested and processed. IFQ can be temporarily transferred more than once (*i.e.,* re-transferred). For example, if a vessel temporarily transfers IFQ to a vessel, the transferee vessel may re-transfer any portion of that IFQ to another vessel. There is no limit on how many times IFQ can be re-transferred in a fishing year. The Regional Administrator has final approval authority for all temporary IFQ transfer requests.
 
 (ii) *Permanent IFQ transfers.* (A) Subject to the restrictions in paragraph (h)(5)(iii) of this section, the owner of an IFQ scallop vessel (and/or IFQ scallop permit in confirmation of permit history) not issued a limited access scallop permit may transfer IFQ permanently to or from another IFQ scallop vessel. Any such transfer cannot be limited in duration and is permanent as to the transferee, unless the IFQ is subsequently permanently transferred to another IFQ scallop vessel. IFQ may be permanently transferred to a vessel and then be re-transferred (temporarily transferred (*i.e.,* leased) or permanently transferred) by such vessel to another vessel in the same fishing year. There is no limit on how many times IFQ can be re-transferred in a fishing year.
 

@@ -1,7 +1,5 @@
 ##### § 3.134 Guarantees and credit derivatives: PD substitution and LGD adjustment approaches. #####
 
-Link to an amendment published at 85 FR 4405, Jan. 24, 2020.
-
 (a) *Scope.* (1) This section applies to wholesale exposures for which:
 
 (i) Credit risk is fully covered by an eligible guarantee or eligible credit derivative; or
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 4405, Jan. 24, 2020.
 
 (ii) The reference exposure and the hedged exposure are exposures to the same legal entity, and legally enforceable cross-default or cross-acceleration clauses are in place to assure payments under the credit derivative are triggered when the obligor fails to pay under the terms of the hedged exposure.
 
-(c) *Risk parameters for hedged exposures* - (1) *PD substitution approach* - (i) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the EAD of the hedged exposure, a national bank or Federal savings association may recognize the guarantee or credit derivative in determining the national bank's or Federal savings association's risk-based capital requirement for the hedged exposure by substituting the PD associated with the rating grade of the protection provider for the PD associated with the rating grade of the obligor in the risk-based capital formula applicable to the guarantee or credit derivative in Table 1 of § 3.131 and using the appropriate LGD as described in paragraph (c)(1)(iii) of this section. If the national bank or Federal savings association determines that full substitution of the protection provider's PD leads to an inappropriate degree of risk mitigation, the national bank or Federal savings association may substitute a higher PD than that of the protection provider.
+(c) *Risk parameters for hedged exposures*—(1) *PD substitution approach*—(i) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the EAD of the hedged exposure, a national bank or Federal savings association may recognize the guarantee or credit derivative in determining the national bank's or Federal savings association's risk-based capital requirement for the hedged exposure by substituting the PD associated with the rating grade of the protection provider for the PD associated with the rating grade of the obligor in the risk-based capital formula applicable to the guarantee or credit derivative in Table 1 of § 3.131 and using the appropriate LGD as described in paragraph (c)(1)(iii) of this section. If the national bank or Federal savings association determines that full substitution of the protection provider's PD leads to an inappropriate degree of risk mitigation, the national bank or Federal savings association may substitute a higher PD than that of the protection provider.
 
 (ii) *Partial coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and P of the guarantee or credit derivative is less than the EAD of the hedged exposure, the national bank or Federal savings association must treat the hedged exposure as two separate exposures (protected and unprotected) in order to recognize the credit risk mitigation benefit of the guarantee or credit derivative.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 4405, Jan. 24, 2020.
 
 (B) The LGD of the guarantee or credit derivative, if the guarantee or credit derivative does not provide the national bank or Federal savings association with the option to receive immediate payout upon triggering the protection.
 
-(2) *LGD adjustment approach* - (i) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the EAD of the hedged exposure, the national bank's or Federal savings association's risk-based capital requirement for the hedged exposure is the greater of:
+(2) *LGD adjustment approach*—(i) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the EAD of the hedged exposure, the national bank's or Federal savings association's risk-based capital requirement for the hedged exposure is the greater of:
 
 (A) The risk-based capital requirement for the exposure as calculated under § 3.131, with the LGD of the exposure adjusted to reflect the guarantee or credit derivative; or
 
@@ -64,9 +62,9 @@ Link to an amendment published at 85 FR 4405, Jan. 24, 2020.
 
 (2) A maturity mismatch occurs when the residual maturity of a credit risk mitigant is less than that of the hedged exposure(s).
 
-(3) The residual maturity of a hedged exposure is the longest possible remaining time before the obligor is scheduled to fulfil its obligation on the exposure. If a credit risk mitigant has embedded options that may reduce its term, the national bank or Federal savings association (protection purchaser) must use the shortest possible residual maturity for the credit risk mitigant. If a call is at the discretion of the protection provider, the residual maturity of the credit risk mitigant is at the first call date. If the call is at the discretion of the national bank or Federal savings association (protection purchaser), but the terms of the arrangement at origination of the credit risk mitigant contain a positive incentive for the national bank or Federal savings association to call the transaction before contractual maturity, the remaining time to the first call date is the residual maturity of the credit risk mitigant.30
+(3) The residual maturity of a hedged exposure is the longest possible remaining time before the obligor is scheduled to fulfil its obligation on the exposure. If a credit risk mitigant has embedded options that may reduce its term, the national bank or Federal savings association (protection purchaser) must use the shortest possible residual maturity for the credit risk mitigant. If a call is at the discretion of the protection provider, the residual maturity of the credit risk mitigant is at the first call date. If the call is at the discretion of the national bank or Federal savings association (protection purchaser), but the terms of the arrangement at origination of the credit risk mitigant contain a positive incentive for the national bank or Federal savings association to call the transaction before contractual maturity, the remaining time to the first call date is the residual maturity of the credit risk mitigant.31
 
-30 For example, where there is a step-up in cost in conjunction with a call feature or where the effective cost of protection increases over time even if credit quality remains the same or improves, the residual maturity of the credit risk mitigant will be the remaining time to the first call.
+31 For example, where there is a step-up in cost in conjunction with a call feature or where the effective cost of protection increases over time even if credit quality remains the same or improves, the residual maturity of the credit risk mitigant will be the remaining time to the first call.
 
 (4) A credit risk mitigant with a maturity mismatch may be recognized only if its original maturity is greater than or equal to one year and its residual maturity is greater than three months.
 
@@ -109,3 +107,5 @@ Pc = Pr x (1 − HFX),where:
 (iii) The internal models methodology in § 3.132(d).
 
 (3) A national bank or Federal savings association must adjust HFX calculated in paragraph (f)(2) of this section upward if the national bank or Federal savings association revalues the guarantee or credit derivative less frequently than once every ten business days using the square root of time formula provided in § 3.132(b)(2)(iii)(A)(*2*).
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 85 FR 4405, Jan. 24, 2020]

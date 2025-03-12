@@ -10,4 +10,6 @@
 
 (3) *Swine.* Edible tissues: Not required.
 
-(c) *Related conditions of use.* See §§ 522.1077, 522.1079, and 522.1081 of this chapter.
+(c) *Related conditions of use.* See §§ 522.1079 and 522.1081 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020]

@@ -8,7 +8,7 @@ CS - Annex to the Constitution of the International Telecommunication Union (ITU
 
 (c) The following terms and definitions are issued:
 
-*Accepted Interference.*1/\> Interference at a higher level than defined as permissible interference and which has been agreed upon between two or more administrations without prejudice to other administrations. (RR)
+*Accepted Interference.*1 Interference at a higher level than defined as permissible interference and which has been agreed upon between two or more administrations without prejudice to other administrations. (RR)
 
 1 The terms *permissible interference* and *accepted interference* are used in the coordination of frequency assignments between administrations.
 
@@ -122,7 +122,7 @@ For most practical purposes associated with the ITU *Radio Regulations*, UTC is 
 
 *Direct Sequence Systems.* A spread spectrum system in which the carrier has been modulated by a high speed spreading code and an information data stream. The high speed code sequence dominates the “modulating function” and is the direct cause of the wide spreading of the transmitted signal.
 
-*Duplex Operation.* Operating method in which transmission is possible simultaneously in both directions of a telecommunication channel.3/\> (RR)
+*Duplex Operation.* Operating method in which transmission is possible simultaneously in both directions of a telecommunication channel.3 (RR)
 
 3 In general, duplex operation and semi-duplex operation require two frequencies in radiocommunication; simplex operation may use either one or two.
 
@@ -330,7 +330,7 @@ Unless otherwise specified in an ITU-R Recommendation for the appropriate class 
 
 *Period (of a satellite).* The time elapsing between two consecutive passages of a satellite through a characteristic point on its orbit. (RR)
 
-*Permissible Interference.*3/\> Observed or predicted interference which complies with quantitative interference and sharing criteria contained in these [ITU Radio] Regulations or in ITU-R Recommendations or in special agreements as provided for in these Regulations. (RR)
+*Permissible Interference.*3 Observed or predicted interference which complies with quantitative interference and sharing criteria contained in these [ITU Radio] Regulations or in ITU-R Recommendations or in special agreements as provided for in these Regulations. (RR)
 
 3 See footnote under Accepted Interference.
 
@@ -456,7 +456,7 @@ In these [international] Radio Regulations, unless otherwise stated, any radioco
 
 *Semi-Duplex Operation.*4 A method which is simplex operation on one end of the circuit and duplex operation at the other. (RR)
 
-*Simplex Operation.*4/\> Operating method in which transmission is made possible alternatively in each direction of a telecommunication channel, for example, by means of manual control.
+*Simplex Operation.*4 Operating method in which transmission is made possible alternatively in each direction of a telecommunication channel, for example, by means of manual control.
 
 4*See* footnote under Duplex Operation.
 
@@ -468,7 +468,7 @@ In these [international] Radio Regulations, unless otherwise stated, any radioco
 
 *Ship Station.* A mobile station in the maritime mobile service located on board a vessel which is not permanently moored, other than a survival craft station. (RR)
 
-*Simplex Operation.* Operating method in which transmission is made possible alternatively in each direction of a telecommunication channel, for example, by means of manual control.5/\> (RR)
+*Simplex Operation.* Operating method in which transmission is made possible alternatively in each direction of a telecommunication channel, for example, by means of manual control.5 (RR)
 
 5 (See footnote under Duplex Operations.)
 
@@ -536,7 +536,7 @@ Note:
 
 In this definition the term telegraphy has the same general meaning as defined in the Convention.
 
-*Telegraphy.*5/\> A form of telecommunication in which the transmitted information is intended to be recorded on arrival as a graphic document; the transmitted information may sometimes be presented in an alternative form or may be stored for subsequent use. (CS)
+*Telegraphy.*5 A form of telecommunication in which the transmitted information is intended to be recorded on arrival as a graphic document; the transmitted information may sometimes be presented in an alternative form or may be stored for subsequent use. (CS)
 
 5 A graphic document records information in a permanent form and is capable of being filed and consulted; it may take the form of written or printed matter or of a fixed image.
 

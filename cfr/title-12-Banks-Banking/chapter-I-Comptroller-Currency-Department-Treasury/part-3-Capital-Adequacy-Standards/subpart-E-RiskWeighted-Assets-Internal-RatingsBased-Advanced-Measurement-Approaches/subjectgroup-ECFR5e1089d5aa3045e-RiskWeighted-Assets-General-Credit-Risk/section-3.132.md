@@ -1,7 +1,5 @@
 ##### § 3.132 Counterparty credit risk of repo-style transactions, eligible margin loans, and OTC derivative contracts. #####
 
-Link to an amendment published at 85 FR 4405, Jan. 24, 2020.
-
 (a) *Methodologies for collateral recognition.* (1) Instead of an LGD estimation methodology, a national bank or Federal savings association may use the following methodologies to recognize the benefits of financial collateral in mitigating the counterparty credit risk of repo-style transactions, eligible margin loans, collateralized OTC derivative contracts and single product netting sets of such transactions, and to recognize the benefits of any collateral in mitigating the counterparty credit risk of repo-style transactions that are included in a national bank's or Federal savings association's VaR-based measure under subpart F of this part:
 
 (i) The collateral haircut approach set forth in paragraph (b)(2) of this section;
@@ -65,19 +63,19 @@ Table 1 to § 3.132 - Standard Supervisory Market Price Volatility Haircuts<sup>
 
 (*2*) For currency mismatches, a national bank or Federal savings association must use a haircut for foreign exchange rate volatility (Hfx) of 8 percent, as adjusted in certain circumstances as provided in paragraphs (b)(2)(ii)(A)(*3*) and (*4*) of this section.
 
-(*3*) For repo-style transactions, a national bank or Federal savings association may multiply the supervisory haircuts provided in paragraphs (b)(2)(ii)(A)(*1*) and (*2*) of this section by the square root of1/2 (which equals 0.707107).
+(*3*) For repo-style transactions and client-facing derivative transactions, a national bank or Federal savings association may multiply the supervisory haircuts provided in paragraphs (b)(2)(ii)(A)(*1*) and (*2*) of this section by the square root of1/2 (which equals 0.707107). If the national bank or Federal savings association determines that a longer holding period is appropriate for client-facing derivative transactions, then it must use a larger scaling factor to adjust for the longer holding period pursuant to paragraph (b)(2)(ii)(A)(*6*) of this section.
 
-(*4*) A national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a holding period longer than ten business days (for eligible margin loans) or five business days (for repo-style transactions) where the following conditions apply. If the number of trades in a netting set exceeds 5,000 at any time during a quarter, a national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a holding period of twenty business days for the following quarter (except when a national bank or Federal savings association is calculating EAD for a cleared transaction under § 3.133). If a netting set contains one or more trades involving illiquid collateral or an OTC derivative that cannot be easily replaced, a national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a holding period of twenty business days. If over the two previous quarters more than two margin disputes on a netting set have occurred that lasted more than the holding period, then the national bank or Federal savings association must adjust the supervisory haircuts upward for that netting set on the basis of a holding period that is at least two times the minimum holding period for that netting set. A national bank or Federal savings association must adjust the standard supervisory haircuts upward using the following formula:
+(*4*) A national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a holding period longer than ten business days (for eligible margin loans) or five business days (for repo-style transactions), using the formula provided in paragraph (b)(2)(ii)(A)(*6*) of this section where the conditions in this paragraph (b)(2)(ii)(A)(*4*) apply. If the number of trades in a netting set exceeds 5,000 at any time during a quarter, a national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a minimum holding period of twenty business days for the following quarter (except when a national bank or Federal savings association is calculating EAD for a cleared transaction under § 3.133). If a netting set contains one or more trades involving illiquid collateral, a national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a minimum holding period of twenty business days. If over the two previous quarters more than two margin disputes on a netting set have occurred that lasted longer than the holding period, then the national bank or Federal savings association must adjust the supervisory haircuts upward for that netting set on the basis of a minimum holding period that is at least two times the minimum holding period for that netting set.
 
-![](/graphics/er11oc13.030.gif)
+(*5*)(*i*) A national bank or Federal savings association must adjust the supervisory haircuts upward on the basis of a holding period longer than ten business days for collateral associated with derivative contracts (five business days for client-facing derivative contracts) using the formula provided in paragraph (b)(2)(ii)(A)(*6*) of this section where the conditions in this paragraph (b)(2)(ii)(A)(*5*)(*i*) apply. For collateral associated with a derivative contract that is within a netting set that is composed of more than 5,000 derivative contracts that are not cleared transactions, a national bank or Federal savings association must use a minimum holding period of twenty business days. If a netting set contains one or more trades involving illiquid collateral or a derivative contract that cannot be easily replaced, a national bank or Federal savings association must use a minimum holding period of twenty business days.
 
-(*i*) TM equals a holding period of longer than 10 business days for eligible margin loans and derivative contracts or longer than 5 business days for repo-style transactions;
+(*ii*) Notwithstanding paragraph (b)(2)(ii)(A)(*1*) or (*3*) or (b)(2)(ii)(A)(*5*)(*i*) of this section, for collateral associated with a derivative contract in a netting set under which more than two margin disputes that lasted longer than the holding period occurred during the previous two quarters, the minimum holding period is twice the amount provided under paragraph (b)(2)(ii)(A)(*1*) or (*3*) or (b)(2)(ii)(A)(*5*)(*i*) of this section.
 
-(*ii*) Hs equals the standard supervisory haircut; and
+(*6*) A national bank or Federal savings association must adjust the standard supervisory haircuts upward, pursuant to the adjustments provided in paragraphs (b)(2)(ii)(A)(*3*) through (*5*) of this section, using the following formula:
 
-(*iii*) Ts equals 10 business days for eligible margin loans and derivative contracts or 5 business days for repo-style transactions.
+![](/graphics/er24ja20.013.gif)Where:TM equals a holding period of longer than 10 business days for eligible margin loans and derivative contracts other than client-facing derivative transactions or longer than 5 business days for repo-style transactions and client-facing derivative transactions;HS equals the standard supervisory haircut; andTS equals 10 business days for eligible margin loans and derivative contracts other than client-facing derivative transactions or 5 business days for repo-style transactions and client-facing derivative transactions.
 
-(*5*) If the instrument a national bank or Federal savings association has lent, sold subject to repurchase, or posted as collateral does not meet the definition of financial collateral, the national bank or Federal savings association must use a 25.0 percent haircut for market price volatility (Hs).
+(*7*) If the instrument a national bank or Federal savings association has lent, sold subject to repurchase, or posted as collateral does not meet the definition of financial collateral, the national bank or Federal savings association must use a 25.0 percent haircut for market price volatility (HS).
 
 (iii) *Own internal estimates for haircuts.* With the prior written approval of the OCC, a national bank or Federal savings association may calculate haircuts (Hs and Hfx) using its own internal estimates of the volatilities of market prices and foreign exchange rates.
 
@@ -131,9 +129,31 @@ Table 1 to § 3.132 - Standard Supervisory Market Price Volatility Haircuts<sup>
 
 (iv) If the number of trades in a netting set exceeds 5,000 at any time during a quarter, a national bank or Federal savings association must use a twenty-business-day holding period for the following quarter (except when a national bank or Federal savings association is calculating EAD for a cleared transaction under § 3.133). If a netting set contains one or more trades involving illiquid collateral, a national bank or Federal savings association must use a twenty-business-day holding period. If over the two previous quarters more than two margin disputes on a netting set have occurred that lasted more than the holding period, then the national bank or Federal savings association must set its PFE for that netting set equal to an estimate over a holding period that is at least two times the minimum holding period for that netting set.
 
-(c) *EAD for OTC derivative contracts* - (1) *OTC derivative contracts not subject to a qualifying master netting agreement.* A national bank or Federal savings association must determine the EAD for an OTC derivative contract that is not subject to a qualifying master netting agreement using the current exposure methodology in paragraph (c)(5) of this section or using the internal models methodology described in paragraph (d) of this section. A national bank or Federal savings association may reduce the EAD calculated according to paragraph (c)(5) of this section by the credit valuation adjustment that the national bank or Federal savings association has recognized in its balance sheet valuation of any OTC derivative contracts in the netting set. For purposes of this paragraph (c)(1), the credit valuation adjustment does not include any adjustments to common equity tier 1 capital attributable to changes in the fair value of the national bank's or Federal savings association's liabilities that are due to changes in its own credit risk since the inception of the transaction with the counterparty.
+(c) *EAD for derivative contracts* - (1) *Options for determining EAD.* A national bank or Federal savings association must determine the EAD for a derivative contract using the standardized approach for counterparty credit risk (SA-CCR) under paragraph (c)(5) of this section or using the internal models methodology described in paragraph (d) of this section. If a national bank or Federal savings association elects to use SA-CCR for one or more derivative contracts, the exposure amount determined under SA-CCR is the EAD for the derivative contract or derivative contracts. A national bank or Federal savings association must use the same methodology to calculate the exposure amount for all its derivative contracts and may change its election only with prior approval of the OCC. A national bank or Federal savings association may reduce the EAD calculated according to paragraph (c)(5) of this section by the credit valuation adjustment that the national bank or Federal savings association has recognized in its balance sheet valuation of any derivative contracts in the netting set. For purposes of this paragraph (c)(1), the credit valuation adjustment does not include any adjustments to common equity tier 1 capital attributable to changes in the fair value of the national bank's or Federal savings association's liabilities that are due to changes in its own credit risk since the inception of the transaction with the counterparty.
 
-(2) *OTC derivative contracts subject to a qualifying master netting agreement.* A national bank or Federal savings association must determine the EAD for multiple OTC derivative contracts that are subject to a qualifying master netting agreement using the current exposure methodology in paragraph (c)(6) of this section or using the internal models methodology described in paragraph (d) of this section. A national bank or Federal savings association may reduce the EAD calculated according to paragraph (c)(6) of this section by the credit valuation adjustment that the national bank or Federal savings association has recognized in its balance sheet valuation of any OTC derivative contracts in the netting set. For purposes of this paragraph (c)(2), the credit valuation adjustment does not include any adjustments to common equity tier 1 capital attributable to changes in the fair value of the national bank's or Federal savings association's liabilities that are due to changes in its own credit risk since the inception of the transaction with the counterparty.
+(2) *Definitions.* For purposes of this paragraph (c) of this section, the following definitions apply:
+
+(i) *End date* means the last date of the period referenced by an interest rate or credit derivative contract or, if the derivative contract references another instrument, by the underlying instrument, except as otherwise provided in paragraph (c) of this section.
+
+(ii) *Start date* means the first date of the period referenced by an interest rate or credit derivative contract or, if the derivative contract references the value of another instrument, by underlying instrument, except as otherwise provided in paragraph (c) of this section.
+
+(iii) *Hedging set* means:
+
+(A) With respect to interest rate derivative contracts, all such contracts within a netting set that reference the same reference currency;
+
+(B) With respect to exchange rate derivative contracts, all such contracts within a netting set that reference the same currency pair;
+
+(C) With respect to credit derivative contract, all such contracts within a netting set;
+
+(D) With respect to equity derivative contracts, all such contracts within a netting set;
+
+(E) With respect to a commodity derivative contract, all such contracts within a netting set that reference one of the following commodity categories: Energy, metal, agricultural, or other commodities;
+
+(F) With respect to basis derivative contracts, all such contracts within a netting set that reference the same pair of risk factors and are denominated in the same currency; or
+
+(G) With respect to volatility derivative contracts, all such contracts within a netting set that reference one of interest rate, exchange rate, credit, equity, or commodity risk factors, separated according to the requirements under paragraphs (c)(2)(iii)(A) through (E) of this section.
+
+(H) If the risk of a derivative contract materially depends on more than one of interest rate, exchange rate, credit, equity, or commodity risk factors, the OCC may require a national bank or Federal savings association to include the derivative contract in each appropriate hedging set under paragraphs (c)(2)(iii)(A) through (E) of this section.
 
 (3) *Credit derivatives.* Notwithstanding paragraphs (c)(1) and (c)(2) of this section:
 
@@ -143,47 +163,195 @@ Table 1 to § 3.132 - Standard Supervisory Market Price Volatility Haircuts<sup>
 
 (4) *Equity derivatives.* A national bank or Federal savings association must treat an equity derivative contract as an equity exposure and compute a risk-weighted asset amount for the equity derivative contract under §§ 3.151-3.155 (unless the national bank or Federal savings association is treating the contract as a covered position under subpart F of this part). In addition, if the national bank or Federal savings association is treating the contract as a covered position under subpart F of this part, and under certain other circumstances described in § 3.155, the national bank or Federal savings association must also calculate a risk-based capital requirement for the counterparty credit risk of an equity derivative contract under this section.
 
-(5) *Single OTC derivative contract.* Except as modified by paragraph (c)(7) of this section, the EAD for a single OTC derivative contract that is not subject to a qualifying master netting agreement is equal to the sum of the national bank's or Federal savings association's current credit exposure and potential future credit exposure (PFE) on the derivative contract.
+(5) *Exposure amount.* (i) The exposure amount of a netting set, as calculated under paragraph (c) of this section, is equal to 1.4 multiplied by the sum of the replacement cost of the netting set, as calculated under paragraph (c)(6) of this section, and the potential future exposure of the netting set, as calculated under paragraph (c)(7) of this section.
 
-(i) *Current credit exposure.* The current credit exposure for a single OTC derivative contract is the greater of the mark-to-fair value of the derivative contract or zero; and
+(ii) Notwithstanding the requirements of paragraph (c)(5)(i) of this section, the exposure amount of a netting set subject to a variation margin agreement, excluding a netting set that is subject to a variation margin agreement under which the counterparty to the variation margin agreement is not required to post variation margin, is equal to the lesser of the exposure amount of the netting set calculated under paragraph (c)(5)(i) of this section and the exposure amount of the netting set calculated as if the netting set were not subject to a variation margin agreement.
 
-(ii) *PFE.* The PFE for a single OTC derivative contract, including an OTC derivative contract with a negative mark-to-fair value, is calculated by multiplying the notional principal amount of the derivative contract by the appropriate conversion factor in Table 2 to § 3.132. For purposes of calculating either the PFE under paragraph (c)(5) of this section or the gross PFE under paragraph (c)(6) of this section for exchange rate contracts and other similar contracts in which the notional principal amount is equivalent to the cash flows, the notional principal amount is the net receipts to each party falling due on each value date in each currency. For any OTC derivative contract that does not fall within one of the specified categories in Table 2 to § 3.132, the PFE must be calculated using the “other” conversion factors. A national bank or Federal savings association must use an OTC derivative contract's effective notional principal amount (that is, its apparent or stated notional principal amount multiplied by any multiplier in the OTC derivative contract) rather than its apparent or stated notional principal amount in calculating PFE. PFE of the protection provider of a credit derivative is capped at the net present value of the amount of unpaid premiums.
+(iii) Notwithstanding the requirements of paragraph (c)(5)(i) of this section, the exposure amount of a netting set that consists of only sold options in which the premiums have been fully paid by the counterparty to the options and where the options are not subject to a variation margin agreement is zero.
 
-Table 2 to § 3.132 - Conversion Factor Matrix for OTC Derivative Contracts<sup>1</sup>
+(iv) Notwithstanding the requirements of paragraph (c)(5)(i) of this section, the exposure amount of a netting set in which the counterparty is a commercial end-user is equal to the sum of replacement cost, as calculated under paragraph (c)(6) of this section, and the potential future exposure of the netting set, as calculated under paragraph (c)(7) of this section.
 
-|Remaining maturity<sup>2</sup>|Interest rate|Foreign  <br/>exchange rate and gold|Credit (investment-grade reference asset)<sup>3</sup>|Credit (non-  <br/>investment-grade  <br/>reference asset)|Equity|Precious  <br/>metals  <br/>(except gold)|Other|
-|------------------------------|-------------|------------------------------------|-----------------------------------------------------|----------------------------------------------------------|------|-----------------------------------------|-----|
-|       One year or less       |    0.00     |                0.01                |                        0.05                         |                           0.10                           | 0.06 |                  0.07                   |0.10 |
-|    Over one to five years    |    0.005    |                0.05                |                        0.05                         |                           0.10                           | 0.08 |                  0.07                   |0.12 |
-|       Over five years        |    0.015    |               0.075                |                        0.05                         |                           0.10                           | 0.10 |                  0.08                   |0.15 |
+(v) For purposes of the exposure amount calculated under paragraph (c)(5)(i) of this section and all calculations that are part of that exposure amount, a national bank or Federal savings association may elect, at the netting set level, to treat a derivative contract that is a cleared transaction that is not subject to a variation margin agreement as one that is subject to a variation margin agreement, if the derivative contract is subject to a requirement that the counterparties make daily cash payments to each other to account for changes in the fair value of the derivative contract and to reduce the net position of the contract to zero. If a national bank or Federal savings association makes an election under this paragraph (c)(5)(v) for one derivative contract, it must treat all other derivative contracts within the same netting set that are eligible for an election under this paragraph (c)(5)(v) as derivative contracts that are subject to a variation margin agreement.
 
-<sup>1</sup> For an OTC derivative contract with multiple exchanges of principal, the conversion factor is multiplied by the number of remaining payments in the derivative contract.
+(vi) For purposes of the exposure amount calculated under paragraph (c)(5)(i) of this section and all calculations that are part of that exposure amount, a national bank or Federal savings association may elect to treat a credit derivative contract, equity derivative contract, or commodity derivative contract that references an index as if it were multiple derivative contracts each referencing one component of the index.
 
-<sup>2</sup> For an OTC derivative contract that is structured such that on specified dates any outstanding exposure is settled and the terms are reset so that the fair value of the contract is zero, the remaining maturity equals the time until the next reset date. For an interest rate derivative contract with a remaining maturity of greater than one year that meets these criteria, the minimum conversion factor is 0.005.
+(6) *Replacement cost of a netting set* - (i) *Netting set subject to a variation margin agreement under which the counterparty must post variation margin.* The replacement cost of a netting set subject to a variation margin agreement, excluding a netting set that is subject to a variation margin agreement under which the counterparty is not required to post variation margin, is the greater of:
 
-<sup>3</sup> A national bank or Federal savings association must use the column labeled “Credit (investment-grade reference asset)” for a credit derivative whose reference asset is an outstanding unsecured long-term debt security without credit enhancement that is investment grade. A national bank or Federal savings association must use the column labeled “Credit (non-investment-grade reference asset)” for all other credit derivatives.
+(A) The sum of the fair values (after excluding any valuation adjustments) of the derivative contracts within the netting set less the sum of the net independent collateral amount and the variation margin amount applicable to such derivative contracts;
 
-(6) *Multiple OTC derivative contracts subject to a qualifying master netting agreement.* Except as modified by paragraph (c)(7) of this section, the EAD for multiple OTC derivative contracts subject to a qualifying master netting agreement is equal to the sum of the net current credit exposure and the adjusted sum of the PFE exposure for all OTC derivative contracts subject to the qualifying master netting agreement.
+(B) The sum of the variation margin threshold and the minimum transfer amount applicable to the derivative contracts within the netting set less the net independent collateral amount applicable to such derivative contracts; or
 
-(i) *Net current credit exposure.* The net current credit exposure is the greater of:
+(C) Zero.
 
-(A) The net sum of all positive and negative fair values of the individual OTC derivative contracts subject to the qualifying master netting agreement; or
+(ii) *Netting sets not subject to a variation margin agreement under which the counterparty must post variation margin.* The replacement cost of a netting set that is not subject to a variation margin agreement under which the counterparty must post variation margin to the national bank or Federal savings association is the greater of:
 
-(B) Zero; and
+(A) The sum of the fair values (after excluding any valuation adjustments) of the derivative contracts within the netting set less the sum of the net independent collateral amount and variation margin amount applicable to such derivative contracts; or
 
-(ii) *Adjusted sum of the PFE.* The adjusted sum of the PFE, Anet, is calculated as
+(B) Zero.
 
-Anet = (0.4 × Agross) + (0.6 × NGR × Agross),where:
+(iii) *Multiple netting sets subject to a single variation margin agreement.* Notwithstanding paragraphs (c)(6)(i) and (ii) of this section, the replacement cost for multiple netting sets subject to a single variation margin agreement must be calculated according to paragraph (c)(10)(i) of this section.
 
-(A) Agross = the gross PFE (that is, the sum of the PFE amounts (as determined under paragraph (c)(5)(ii) of this section) for each individual derivative contract subject to the qualifying master netting agreement); and
+(iv) *Netting set subject to multiple variation margin agreements or a hybrid netting set.* Notwithstanding paragraphs (c)(6)(i) and (ii) of this section, the replacement cost for a netting set subject to multiple variation margin agreements or a hybrid netting set must be calculated according to paragraph (c)(11)(i) of this section.
 
-(B) NGR = the net to gross ratio (that is, the ratio of the net current credit exposure to the gross current credit exposure). In calculating the NGR, the gross current credit exposure equals the sum of the positive current credit exposures (as determined under paragraph (c)(6)(i) of this section) of all individual derivative contracts subject to the qualifying master netting agreement.
+(7) *Potential future exposure of a netting set.* The potential future exposure of a netting set is the product of the PFE multiplier and the aggregated amount.
 
-(7) *Collateralized OTC derivative contracts.* A national bank or Federal savings association may recognize the credit risk mitigation benefits of financial collateral that secures an OTC derivative contract or single-product netting set of OTC derivatives by factoring the collateral into its LGD estimates for the contract or netting set. Alternatively, a national bank or Federal savings association may recognize the credit risk mitigation benefits of financial collateral that secures such a contract or netting set that is marked-to-market on a daily basis and subject to a daily margin maintenance requirement by estimating an unsecured LGD for the contract or netting set and adjusting the EAD calculated under paragraph (c)(5) or (c)(6) of this section using the collateral haircut approach in paragraph (b)(2) of this section. The national bank or Federal savings association must substitute the EAD calculated under paragraph (c)(5) or (c)(6) of this section for ∑E in the equation in paragraph (b)(2)(i) of this section and must use a ten-business day minimum holding period (TM = 10) unless a longer holding period is required by paragraph (b)(2)(iii)(A)(*3*) of this section.
+(i) *PFE multiplier.* The PFE multiplier is calculated according to the following formula:
 
-(8) *Clearing member national bank's or Federal savings association's EAD.* A clearing member national bank's or Federal savings association's EAD for an OTC derivative contract or netting set of OTC derivative contracts where the national bank or Federal savings association is either acting as a financial intermediary and enters into an offsetting transaction with a QCCP or where the national bank or Federal savings association provides a guarantee to the QCCP on the performance of the client equals the exposure amount calculated according to paragraph (c)(5) or (6) of this section multiplied by the scaling factor 0.71. If the national bank or Federal savings association determines that a longer period is appropriate, it must use a larger scaling factor to adjust for a longer holding period as follows:
+![](/graphics/er24ja20.014.gif)Where:*V* is the sum of the fair values (after excluding any valuation adjustments) of the derivative contracts within the netting set;*C* is the sum of the net independent collateral amount and the variation margin amount applicable to the derivative contracts within the netting set; and*A* is the aggregated amount of the netting set.
 
-![](/graphics/er11oc13.032.gif)whereH = the holding period greater than five days. Additionally, the OCC may require the national bank or Federal savings association to set a longer holding period if the OCC determines that a longer period is appropriate due to the nature, structure, or characteristics of the transaction or is commensurate with the risks associated with the transaction.
+(ii) *Aggregated amount.* The aggregated amount is the sum of all hedging set amounts, as calculated under paragraph (c)(8) of this section, within a netting set.
+
+(iii) *Multiple netting sets subject to a single variation margin agreement.* Notwithstanding paragraphs (c)(7)(i) and (ii) of this section and when calculating the potential future exposure for purposes of total leverage exposure under § 3.10(c)(4)(ii)(B), the potential future exposure for multiple netting sets subject to a single variation margin agreement must be calculated according to paragraph (c)(10)(ii) of this section.
+
+(iv) *Netting set subject to multiple variation margin agreements or a hybrid netting set.* Notwithstanding paragraphs (c)(7)(i) and (ii) of this section and when calculating the potential future exposure for purposes of total leverage exposure under § 3.10(c)(4)(ii)(B), the potential future exposure for a netting set subject to multiple variation margin agreements or a hybrid netting set must be calculated according to paragraph (c)(11)(ii) of this section.
+
+(8) *Hedging set amount* - (i) *Interest rate derivative contracts.* To calculate the hedging set amount of an interest rate derivative contract hedging set, a national bank or Federal savings association may use either of the formulas provided in paragraphs (c)(8)(i)(A) and (B) of this section:
+
+(A) Formula 1 is as follows:
+
+![](/graphics/er24ja20.015.gif)
+
+(B) Formula 2 is as follows:
+
+*Hedging set amount* = |*AddOn*TB1IR|
++ |*AddOn*TB2IR| + |*AddOn*TB3IR|.Where in paragraphs (c)(8)(i)(A) and (B) of this section:*AddOn*TB1IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of less than one year from the present date*;**AddOn*TB2IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of one to five years from the present date; and*AddOn*TB3IR is the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set with an end date of more than five years from the present date.
+
+(ii) *Exchange rate derivative contracts.* For an exchange rate derivative contract hedging set, the hedging set amount equals the absolute value of the sum of the adjusted derivative contract amounts, as calculated under paragraph (c)(9) of this section, within the hedging set.
+
+(iii) *Credit derivative contracts and equity derivative contracts.* The hedging set amount of a credit derivative contract hedging set or equity derivative contract hedging set within a netting set is calculated according to the following formula:
+
+![](/graphics/er24ja20.016.gif)Where:*k* is each reference entity within the hedging set.*K* is the number of reference entities within the hedging set.*AddOn*(*Ref*k) equals the sum of the adjusted derivative contract amounts, as determined under paragraph (c)(9) of this section, for all derivative contracts within the hedging set that reference reference entity *k*.*ρ*k equals the applicable supervisory correlation factor, as provided in Table 2 to this section.
+
+(iv) *Commodity derivative contracts.* The hedging set amount of a commodity derivative contract hedging set within a netting set is calculated according to the following formula:
+
+![](/graphics/er24ja20.017.gif)Where:*k* is each commodity type within the hedging set.*K* is the number of commodity types within the hedging set.*AddOn*(*Type*k) equals the sum of the adjusted derivative contract amounts, as determined under paragraph (c)(9) of this section, for all derivative contracts within the hedging set that reference reference commodity type *k*.*ρ* equals the applicable supervisory correlation factor, as provided in Table 2 to this section.
+
+(v) *Basis derivative contracts and volatility derivative contracts.* Notwithstanding paragraphs (c)(8)(i) through (iv) of this section, a national bank or Federal savings association must calculate a separate hedging set amount for each basis derivative contract hedging set and each volatility derivative contract hedging set. A national bank or Federal savings association must calculate such hedging set amounts using one of the formulas under paragraphs (c)(8)(i) through (iv) of this section that corresponds to the primary risk factor of the hedging set being calculated.
+
+(9) *Adjusted derivative contract amount* - (i) *Summary.* To calculate the adjusted derivative contract amount of a derivative contract, a national bank or Federal savings association must determine the adjusted notional amount of derivative contract, pursuant to paragraph (c)(9)(ii) of this section, and multiply the adjusted notional amount by each of the supervisory delta adjustment, pursuant to paragraph (c)(9)(iii) of this section, the maturity factor, pursuant to paragraph (c)(9)(iv) of this section, and the applicable supervisory factor, as provided in Table 2 to this section.
+
+(ii) *Adjusted notional amount.* (A)(*1*) For an interest rate derivative contract or a credit derivative contract, the adjusted notional amount equals the product of the notional amount of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation, and the supervisory duration, as calculated by the following formula:
+
+![](/graphics/er24ja20.018.gif)Where:*S* is the number of business days from the present day until the start date of the derivative contract, or zero if the start date has already passed; and*E* is the number of business days from the present day until the end date of the derivative contract.
+
+(*2*) For purposes of paragraph (c)(9)(ii)(A)(*1*) of this section:
+
+(*i*) For an interest rate derivative contract or credit derivative contract that is a variable notional swap, the notional amount is equal to the time-weighted average of the contractual notional amounts of such a swap over the remaining life of the swap; and
+
+(*ii*) For an interest rate derivative contract or a credit derivative contract that is a leveraged swap, in which the notional amount of all legs of the derivative contract are divided by a factor and all rates of the derivative contract are multiplied by the same factor, the notional amount is equal to the notional amount of an equivalent unleveraged swap.
+
+(B)(*1*) For an exchange rate derivative contract, the adjusted notional amount is the notional amount of the non-U.S. denominated currency leg of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation. If both legs of the exchange rate derivative contract are denominated in currencies other than U.S. dollars, the adjusted notional amount of the derivative contract is the largest leg of the derivative contract, as measured in U.S. dollars using the exchange rate on the date of the calculation.
+
+(*2*) Notwithstanding paragraph (c)(9)(ii)(B)(*1*) of this section, for an exchange rate derivative contract with multiple exchanges of principal, the national bank or Federal savings association must set the adjusted notional amount of the derivative contract equal to the notional amount of the derivative contract multiplied by the number of exchanges of principal under the derivative contract.
+
+(C)(*1*) For an equity derivative contract or a commodity derivative contract, the adjusted notional amount is the product of the fair value of one unit of the reference instrument underlying the derivative contract and the number of such units referenced by the derivative contract.
+
+(*2*) Notwithstanding paragraph (c)(9)(ii)(C)(*1*) of this section, when calculating the adjusted notional amount for an equity derivative contract or a commodity derivative contract that is a volatility derivative contract, the national bank or Federal savings association must replace the unit price with the underlying volatility referenced by the volatility derivative contract and replace the number of units with the notional amount of the volatility derivative contract.
+
+(iii) *Supervisory delta adjustments.* (A) For a derivative contract that is not an option contract or collateralized debt obligation tranche, the supervisory delta adjustment is 1 if the fair value of the derivative contract increases when the value of the primary risk factor increases and −1 if the fair value of the derivative contract decreases when the value of the primary risk factor increases.
+
+(B)(*1*) For a derivative contract that is an option contract, the supervisory delta adjustment is determined by the following formulas, as applicable:
+
+![](/graphics/er24ja20.019.gif)
+
+(*2*) As used in the formulas in Table 2 to this section:
+
+(*i*) Φ is the standard normal cumulative distribution function;
+
+(*ii*) P equals the current fair value of the instrument or risk factor, as applicable, underlying the option;
+
+(*iii*) K equals the strike price of the option;
+
+(*iv*) T equals the number of business days until the latest contractual exercise date of the option;
+
+(*v*) λ equals zero for all derivative contracts except interest rate options for the currencies where interest rates have negative values. The same value of λ must be used for all interest rate options that are denominated in the same currency. To determine the value of λ for a given currency, a national bank or Federal savings association must find the lowest value L of P and K of all interest rate options in a given currency that the national bank or Federal savings association has with all counterparties. Then, λ is set according to this formula: λ = *max*{−*L* + 0.1%, 0}; and
+
+(*vi*) σ equals the supervisory option volatility, as provided in Table 3 to of this section.
+
+(C)(*1*) For a derivative contract that is a collateralized debt obligation tranche, the supervisory delta adjustment is determined by the following formula:
+
+![](/graphics/er24ja20.020.gif)
+
+(*2*) As used in the formula in paragraph (c)(9)(iii)(C)(*1*) of this section:
+
+(*i*) A is the attachment point, which equals the ratio of the notional amounts of all underlying exposures that are subordinated to the national bank's or Federal savings association's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one;30
+
+30 In the case of a first-to-default credit derivative, there are no underlying exposures that are subordinated to the national bank's or Federal savings association's exposure. In the case of a second-or-subsequent-to-default credit derivative, the smallest (n−1) notional amounts of the underlying exposures are subordinated to the national bank's or Federal savings association's exposure.
+
+(*ii*) D is the detachment point, which equals one minus the ratio of the notional amounts of all underlying exposures that are senior to the national bank's or Federal savings association's exposure to the total notional amount of all underlying exposures, expressed as a decimal value between zero and one; and
+
+(*iii*) The resulting amount is designated with a positive sign if the collateralized debt obligation tranche was purchased by the national bank or Federal savings association and is designated with a negative sign if the collateralized debt obligation tranche was sold by the national bank or Federal savings association.
+
+(iv) *Maturity factor.* (A)(*1*) The maturity factor of a derivative contract that is subject to a variation margin agreement, excluding derivative contracts that are subject to a variation margin agreement under which the counterparty is not required to post variation margin, is determined by the following formula:
+
+![](/graphics/er24ja20.021.gif)
+
+Where MPOR refers to the period from the most recent exchange of collateral covering a netting set of derivative contracts with a defaulting counterparty until the derivative contracts are closed out and the resulting market risk is re-hedged.
+
+(*2*) Notwithstanding paragraph (c)(9)(iv)(A)(*1*) of this section:
+
+(*i*) For a derivative contract that is not a client-facing derivative transaction, MPOR cannot be less than ten business days plus the periodicity of re-margining expressed in business days minus one business day;
+
+(*ii*) For a derivative contract that is a client-facing derivative transaction, MPOR cannot be less than five business days plus the periodicity of re-margining expressed in business days minus one business day; and
+
+(*iii*) For a derivative contract that is within a netting set that is composed of more than 5,000 derivative contracts that are not cleared transactions, or a netting set that contains one or more trades involving illiquid collateral or a derivative contract that cannot be easily replaced, MPOR cannot be less than twenty business days.
+
+(*3*) Notwithstanding paragraphs (c)(9)(iv)(A)(*1*) and (*2*) of this section, for a netting set subject to two or more outstanding disputes over margin that lasted longer than the MPOR over the previous two quarters, the applicable floor is twice the amount provided in (c)(9)(iv)(A)(*1*) and (*2*) of this section.
+
+(B) The maturity factor of a derivative contract that is not subject to a variation margin agreement, or derivative contracts under which the counterparty is not required to post variation margin, is determined by the following formula:
+
+![](/graphics/er24ja20.022.gif)
+
+Where M equals the greater of 10 business days and the remaining maturity of the contract, as measured in business days.
+
+(C) For purposes of paragraph (c)(9)(iv) of this section, if a national bank or Federal savings association has elected pursuant to paragraph (c)(5)(v) of this section to treat a derivative contract that is a cleared transaction that is not subject to a variation margin agreement as one that is subject to a variation margin agreement, the national bank or Federal savings association must treat the derivative contract as subject to a variation margin agreement with maturity factor as determined according to (c)(9)(iv)(A) of this section, and daily settlement does not change the end date of the period referenced by the derivative contract.
+
+(v) *Derivative contract as multiple effective derivative contracts.* A national bank or Federal savings association must separate a derivative contract into separate derivative contracts, according to the following rules:
+
+(A) For an option where the counterparty pays a predetermined amount if the value of the underlying asset is above or below the strike price and nothing otherwise (binary option), the option must be treated as two separate options. For purposes of paragraph (c)(9)(iii)(B) of this section, a binary option with strike K must be represented as the combination of one bought European option and one sold European option of the same type as the original option (put or call) with the strikes set equal to 0.95 \* K and 1.05 \* K so that the payoff of the binary option is reproduced exactly outside the region between the two strikes. The absolute value of the sum of the adjusted derivative contract amounts of the bought and sold options is capped at the payoff amount of the binary option.
+
+(B) For a derivative contract that can be represented as a combination of standard option payoffs (such as collar, butterfly spread, calendar spread, straddle, and strangle), a national bank or Federal savings association must treat each standard option component as a separate derivative contract.
+
+(C) For a derivative contract that includes multiple-payment options, (such as interest rate caps and floors), a national bank or Federal savings association may represent each payment option as a combination of effective single-payment options (such as interest rate caplets and floorlets).
+
+(D) A national bank or Federal savings association may not decompose linear derivative contracts (such as swaps) into components.
+
+(10) *Multiple netting sets subject to a single variation margin agreement* - (i) *Calculating replacement cost.* Notwithstanding paragraph (c)(6) of this section, a national bank or Federal savings association shall assign a single replacement cost to multiple netting sets that are subject to a single variation margin agreement under which the counterparty must post variation margin, calculated according to the following formula:
+
+*Replacement Cost = max*{ΣNS*max*{*V*NS; 0} − *max*{*C*MA; 0}; 0} + *max*{ΣNS*min*{*V*NS; 0} − *min*{*C*MA; 0}; 0}Where:*NS* is each netting set subject to the variation margin agreement *MA*.*V*NS is the sum of the fair values (after excluding any valuation adjustments) of the derivative contracts within the netting set *NS*.*C*MA is the sum of the net independent collateral amount and the variation margin amount applicable to the derivative contracts within the netting sets subject to the single variation margin agreement.
+
+(ii) *Calculating potential future exposure.* Notwithstanding paragraph (c)(5) of this section, a national bank or Federal savings association shall assign a single potential future exposure to multiple netting sets that are subject to a single variation margin agreement under which the counterparty must post variation margin equal to the sum of the potential future exposure of each such netting set, each calculated according to paragraph (c)(7) of this section as if such nettings sets were not subject to a variation margin agreement.
+
+(11) *Netting set subject to multiple variation margin agreements or a hybrid netting set* - (i) *Calculating replacement cost.* To calculate replacement cost for either a netting set subject to multiple variation margin agreements under which the counterparty to each variation margin agreement must post variation margin, or a netting set composed of at least one derivative contract subject to variation margin agreement under which the counterparty must post variation margin and at least one derivative contract that is not subject to such a variation margin agreement, the calculation for replacement cost is provided under paragraph (c)(6)(i) of this section, except that the variation margin threshold equals the sum of the variation margin thresholds of all variation margin agreements within the netting set and the minimum transfer amount equals the sum of the minimum transfer amounts of all the variation margin agreements within the netting set.
+
+(ii) *Calculating potential future exposure.* (A) To calculate potential future exposure for a netting set subject to multiple variation margin agreements under which the counterparty to each variation margin agreement must post variation margin, or a netting set composed of at least one derivative contract subject to variation margin agreement under which the counterparty to the derivative contract must post variation margin and at least one derivative contract that is not subject to such a variation margin agreement, a national bank or Federal savings association must divide the netting set into sub-netting sets (as described in paragraph (c)(11)(ii)(B) of this section) and calculate the aggregated amount for each sub-netting set. The aggregated amount for the netting set is calculated as the sum of the aggregated amounts for the sub-netting sets. The multiplier is calculated for the entire netting set.
+
+(B) For purposes of paragraph (c)(11)(ii)(A) of this section, the netting set must be divided into sub-netting sets as follows:
+
+(*1*) All derivative contracts within the netting set that are not subject to a variation margin agreement or that are subject to a variation margin agreement under which the counterparty is not required to post variation margin form a single sub-netting set. The aggregated amount for this sub-netting set is calculated as if the netting set is not subject to a variation margin agreement.
+
+(*2*) All derivative contracts within the netting set that are subject to variation margin agreements in which the counterparty must post variation margin and that share the same value of the MPOR form a single sub-netting set. The aggregated amount for this sub-netting set is calculated as if the netting set is subject to a variation margin agreement, using the MPOR value shared by the derivative contracts within the netting set.
+
+Table 3 to § 3.132 - Supervisory Option Volatility, Supervisory Correlation Parameters, and Supervisory Factors for Derivative Contracts
+
+|    Asset class    |      Category       |   Type    |Supervisory  <br/>option  <br/>volatility  <br/>(percent)|Supervisory  <br/>correlation  <br/>factor  <br/>(percent)|Supervisory  <br/>factor 1  <br/>(percent)|
+|-------------------|---------------------|-----------|---------------------------------------------------------|----------------------------------------------------------|------------------------------------------|
+|   Interest rate   |         N/A         |    N/A    |                           50                            |                           N/A                            |                   0.50                   |
+|   Exchange rate   |         N/A         |    N/A    |                           15                            |                           N/A                            |                   4.0                    |
+|Credit, single name|  Investment grade   |    N/A    |                           100                           |                            50                            |                   0.46                   |
+|                   |  Speculative grade  |    N/A    |                           100                           |                            50                            |                   1.3                    |
+|                   |Sub-speculative grade|    N/A    |                           100                           |                            50                            |                   6.0                    |
+|   Credit, index   |  Investment Grade   |    N/A    |                           80                            |                            80                            |                   0.38                   |
+|                   |  Speculative Grade  |    N/A    |                           80                            |                            80                            |                   1.06                   |
+|Equity, single name|         N/A         |    N/A    |                           120                           |                            50                            |                    32                    |
+|   Equity, index   |         N/A         |    N/A    |                           75                            |                            80                            |                    20                    |
+|     Commodity     |       Energy        |Electricity|                           150                           |                            40                            |                    40                    |
+|                   |                     |   Other   |                           70                            |                            40                            |                    18                    |
+|                   |       Metals        |    N/A    |                           70                            |                            40                            |                    18                    |
+|                   |    Agricultural     |    N/A    |                           70                            |                            40                            |                    18                    |
+|                   |        Other        |    N/A    |                           70                            |                            40                            |                    18                    |
+
+<sup>1</sup> The applicable supervisory factor for basis derivative contract hedging sets is equal to one-half of the supervisory factor provided in this Table 3, and the applicable supervisory factor for volatility derivative contract hedging sets is equal to 5 times the supervisory factor provided in this Table 3.
 
 (d) *Internal models methodology.* (1)(i) With prior written approval from the OCC, a national bank or Federal savings association may use the internal models methodology in this paragraph (d) to determine EAD for counterparty credit risk for derivative contracts (collateralized or uncollateralized) and single-product netting sets thereof, for eligible margin loans and single-product netting sets thereof, and for repo-style transactions and single-product netting sets thereof.
 
@@ -321,11 +489,11 @@ Anet = (0.4 × Agross) + (0.6 × NGR × Agross),where:
 
 (iii) The national bank's or Federal savings association's dollar risk-based capital requirement under the internal models methodology equals the larger of Kunstressed and Kstressed. A national bank's or Federal savings association's risk-weighted assets amount for IMM exposures is equal to the capital requirement multiplied by 12.5, plus risk-weighted assets for IMM exposures with specific wrong-way risk in paragraph (d)(8) of this section and those in paragraph (d)(10) of this section.
 
-(10) *Other measures of counterparty exposure.* (i) With prior written approval of the OCC, a national bank or Federal savings association may set EAD equal to a measure of counterparty credit risk exposure, such as peak EAD, that is more conservative than an alpha of 1.4 (or higher under the terms of paragraph (d)(7)(iv)(C) of this section) times the larger of EPEunstressed and EPEstressed for every counterparty whose EAD will be measured under the alternative measure of counterparty exposure. The national bank or Federal savings association must demonstrate the conservatism of the measure of counterparty credit risk exposure used for EAD. With respect to paragraph (d)(10)(i) of this section:
+(10) *Other measures of counterparty exposure.* (i) With prior written approval of the OCC, a national bank or Federal savings association may set EAD equal to a measure of counterparty credit risk exposure, such as peak EAD, that is more conservative than an alpha of 1.4 times the larger of EPEunstressed and EPEstressed for every counterparty whose EAD will be measured under the alternative measure of counterparty exposure. The national bank or Federal savings association must demonstrate the conservatism of the measure of counterparty credit risk exposure used for EAD. With respect to paragraph (d)(10)(i) of this section:
 
-(A) For material portfolios of new OTC derivative products, the national bank or Federal savings association may assume that the current exposure methodology in paragraphs (c)(5) and (c)(6) of this section meets the conservatism requirement of this section for a period not to exceed 180 days.
+(A) For material portfolios of new OTC derivative products, the national bank or Federal savings association may assume that the standardized approach for counterparty credit risk pursuant to paragraph (c) of this section meets the conservatism requirement of this section for a period not to exceed 180 days.
 
-(B) For immaterial portfolios of OTC derivative contracts, the national bank or Federal savings association generally may assume that the current exposure methodology in paragraphs (c)(5) and (c)(6) of this section meets the conservatism requirement of this section.
+(B) For immaterial portfolios of OTC derivative contracts, the national bank or Federal savings association generally may assume that the standardized approach for counterparty credit risk pursuant to paragraph (c) of this section meets the conservatism requirement of this section.
 
 (ii) To calculate risk-weighted assets for purposes of the approach in paragraph (d)(10)(i) of this section, the national bank or Federal savings association must insert the assigned risk parameters for each counterparty and netting set into the appropriate formula specified in Table 1 of § 3.131, multiply the output of the formula by the EAD for the exposure as specified above, and multiply by 12.5.
 
@@ -347,11 +515,11 @@ Anet = (0.4 × Agross) + (0.6 × NGR × Agross),where:
 
 ![](/graphics/er11oc13.035.gif)
 
-(A) *w*i = the weight applicable to counterparty *i* under Table 3 to § 3.132;
+(A) *w*i = the weight applicable to counterparty *i* under Table 4 to this section;
 
 (B) *M*i = the EAD-weighted average of the effective maturity of each netting set with counterparty *i* (where each netting set's effective maturity can be no less than one year.)
 
-(C) *EAD*itotal = the sum of the EAD for all netting sets of OTC derivative contracts with counterparty *i* calculated using the current exposure methodology described in paragraph (c) of this section or the internal models methodology described in paragraph (d) of this section. When the national bank or Federal savings association calculates EAD under paragraph (c) of this section, such EAD may be adjusted for purposes of calculating *EAD*itotal by multiplying EAD by (1-exp(−0.05 × *M*i))/(0.05 × *M*i), where “exp” is the exponential function. When the national bank or Federal savings association calculates EAD under paragraph (d) of this section, *EAD*itotal equals *EAD*unstressed.
+(C) *EAD*itotal = the sum of the EAD for all netting sets of OTC derivative contracts with counterparty *i* calculated using the standardized approach for counterparty credit risk methodology described in paragraph (c) of this section or the internal models methodology described in paragraph (d) of this section. When the national bank or Federal savings association calculates EAD under paragraph (c) of this section, such EAD may be adjusted for purposes of calculating *EAD*itotal by multiplying EAD by (1-exp(−0.05 × *M*i))/(0.05 × *M*i), where “exp” is the exponential function. When the national bank or Federal savings association calculates EAD under paragraph (d) of this section, *EAD*itotal equals *EAD*unstressed.
 
 (D) *M*ihedge = the notional weighted average maturity of the hedge instrument.
 
@@ -361,11 +529,11 @@ Anet = (0.4 × Agross) + (0.6 × NGR × Agross),where:
 
 (G) *B*ind = the notional amount of one or more CDSind purchased to hedge CVA risk for counterparty *i* multiplied by (1-exp(−0.05 × *M*ind))/(0.05 × *M*ind)
 
-(H) *w*ind = the weight applicable to the CDSind based on the average weight of the underlying reference names that comprise the index under Table 3 to § 3.132.
+(H) *w*ind = the weight applicable to the CDSind based on the average weight of the underlying reference names that comprise the index under Table 4 to this section.
 
 (ii) The national bank or Federal savings association may treat the notional amount of the index attributable to a counterparty as a single name hedge of counterparty *i* (*B*i,) when calculating KCVA, and subtract the notional amount of *B*i from the notional amount of the CDSind. A national bank or Federal savings association must treat the CDSind hedge with the notional amount reduced by *B*i as a CVA hedge.
 
-Table 3 to § 3.132 - Assignment of Counterparty Weight
+Table 4 to § 3.132 - Assignment of Counterparty Weight
 
 |Internal PD  <br/>(in percent)|Weight wi  <br/>(in percent)|
 |------------------------------|----------------------------|
@@ -380,7 +548,7 @@ Table 3 to § 3.132 - Assignment of Counterparty Weight
 
 (A) The VaR model must incorporate only changes in the counterparties' credit spreads, not changes in other risk factors. The VaR model does not need to capture jump-to-default risk;
 
-(B) A national bank or Federal savings association that qualifies to use the advanced CVA approach must include in that approach any immaterial OTC derivative portfolios for which it uses the current exposure methodology in paragraph (c) of this section according to paragraph (e)(6)(viii) of this section; and
+(B) A national bank or Federal savings association that qualifies to use the advanced CVA approach must include in that approach any immaterial OTC derivative portfolios for which it uses the standardized approach for counterparty credit risk methodology in paragraph (c) of this section according to paragraph (e)(6)(viii) of this section; and
 
 (C) A national bank or Federal savings association must have the systems capability to calculate the CVA capital requirement for a counterparty on a daily basis (but is not required to calculate the CVA capital requirement on a daily basis).
 
@@ -430,10 +598,10 @@ Table 3 to § 3.132 - Assignment of Counterparty Weight
 
 (vii) For purposes of paragraph (e)(6) of this section, the national bank's or Federal savings association's VaR model must capture the basis between the spreads of any CDSind that is used as the hedging instrument and the hedged counterparty exposure over various time periods, including benign and stressed environments. If the VaR model does not capture that basis, the national bank or Federal savings association must reflect only 50 percent of the notional amount of the CDSind hedge in the VaR model.
 
-(viii) If a national bank or Federal savings association uses the current exposure methodology described in paragraphs (c)(5) and (c)(6) of this section to calculate the EAD for any immaterial portfolios of OTC derivative contracts, the national bank or Federal savings association must use that EAD as a constant EE in the formula for the calculation of CVA with the maturity equal to the maximum of:
+(viii) If a national bank or Federal savings association uses the standardized approach for counterparty credit risk pursuant to paragraph (c) of this section to calculate the EAD for any immaterial portfolios of OTC derivative contracts, the national bank or Federal savings association must use that EAD as a constant EE in the formula for the calculation of CVA with the maturity equal to the maximum of:
 
-(A) Half of the longest maturity of a transaction in the netting set, and
+(A) Half of the longest maturity of a transaction in the netting set; and
 
 (B) The notional weighted average maturity of all transactions in the netting set.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 80 FR 41417, July 15, 2015]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 80 FR 41417, July 15, 2015; 85 FR 4405, Jan. 24, 2020]

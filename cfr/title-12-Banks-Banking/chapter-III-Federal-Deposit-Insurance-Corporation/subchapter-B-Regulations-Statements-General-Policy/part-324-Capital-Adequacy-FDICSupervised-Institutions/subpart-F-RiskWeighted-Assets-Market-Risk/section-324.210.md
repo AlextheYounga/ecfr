@@ -1,7 +1,5 @@
 ##### § 324.210 Standardized measurement method for specific risk. #####
 
-Link to an amendment published at 85 FR 4434, Jan. 24, 2020.
-
 (a) *General requirement.* An FDIC-supervised institution must calculate a total specific risk add-on for each portfolio of debt and equity positions for which the FDIC-supervised institution's VaR-based measure does not capture all material aspects of specific risk and for all securitization positions that are not modeled under § 324.209. An FDIC-supervised institution must calculate each specific risk add-on in accordance with the requirements of this section. Notwithstanding any other definition or requirement in this subpart, a position that would have qualified as a debt position or an equity position but for the fact that it qualifies as a correlation trading position under paragraph (2) of the definition of correlation trading position in § 324.2, shall be considered a debt position or an equity position, respectively, for purposes of this § 324.210.
 
 (1) The specific risk add-on for an individual debt or securitization position that represents sold credit protection is capped at the notional amount of the credit derivative contract. The specific risk add-on for an individual debt or securitization position that represents purchased credit protection is capped at the current fair value of the transaction plus the absolute value of the present value of all remaining payments to the protection seller under the transaction. This sum is equal to the value of the protection leg of the transaction.
@@ -179,9 +177,9 @@ Table 5 to § 324.210 - Specific Risk-weighting Factors for Corporate Debt Posit
 
 (e) *Equity positions.* The total specific risk add-on for a portfolio of equity positions is the sum of the specific risk add-ons of the individual equity positions, as computed under this section. To determine the specific risk add-on of individual equity positions, an FDIC-supervised institution must multiply the absolute value of the current fair value of each net long or net short equity position by the appropriate specific risk-weighting factor as determined under this paragraph (e):
 
-(1) The FDIC-supervised institution must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent.33
+(1) The FDIC-supervised institution must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent.34
 
-33 A portfolio is well-diversified if it contains a large number of individual equity positions, with no single position representing a substantial portion of the portfolio's total fair value.
+34 A portfolio is well-diversified if it contains a large number of individual equity positions, with no single position representing a substantial portion of the portfolio's total fair value.
 
 (2) For equity positions arising from the following futures-related arbitrage strategies, an FDIC-supervised institution may apply a 2.0 percent specific risk-weighting factor to one side (long or short) of each position with the opposite side exempt from an additional capital requirement:
 
@@ -207,4 +205,4 @@ Table 5 to § 324.210 - Specific Risk-weighting Factors for Corporate Debt Posit
 
 (ii) On an on-going basis (no less frequently than quarterly), evaluating, reviewing, and updating as appropriate the analysis required under paragraph (f)(1) of this section for each securitization position.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20761, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016; 84 FR 35280, July 22, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20761, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016; 84 FR 35280, July 22, 2019; 85 FR 4434, Jan. 24, 2020]

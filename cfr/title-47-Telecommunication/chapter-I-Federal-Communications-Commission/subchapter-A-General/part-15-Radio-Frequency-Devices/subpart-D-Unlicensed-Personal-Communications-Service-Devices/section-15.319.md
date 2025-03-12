@@ -1,5 +1,7 @@
 ##### § 15.319 General technical requirements. #####
 
+Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
+
 (a) [Reserved]
 
 (b) All transmissions must use only digital modulation techniques. Both asynchronous and isochronous operations are permitted within the 1920-1930 MHz band.

@@ -14,4 +14,8 @@
 
 (3) *Swine.* Liver, kidney, fat, and muscle: 0.2 ppm.
 
+(4) *Honey.* 500 ppb.
+
 (c) *Related conditions of use.* See §§ 520.2640, 522.2640, 558.625, and 558.630 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020]

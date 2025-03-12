@@ -14,6 +14,6 @@
 
 (iii) Muscle: 0.1 ppm.
 
-(4) *Turkeys.* Edible tissues (excluding eggs): Not required.
-
 (c) *Related conditions of use.* See § 558.635 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020]

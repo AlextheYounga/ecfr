@@ -1,5 +1,7 @@
 ##### § 25.149 Application requirements for ancillary terrestrial components in Mobile-Satellite Service networks operating in the 1.5./1.6 GHz and 1.6/2.4 GHz Mobile-Satellite Service. #####
 
+Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
+
 (a) Applicants for ancillary terrestrial component authority shall demonstrate that the applicant does or will comply with the following through certification or explanatory technical exhibit, as appropriate:
 
 (1) ATC shall be deployed in the forward-band mode of operation whereby the ATC mobile terminals transmit in the MSS uplink bands and the ATC base stations transmit in the MSS downlink bands in portions of the 1626.5-1660.5 MHz/1525-1559 MHz bands (L-band) and the 1610-1626.5 MHz/2483.5-2500 MHz bands.

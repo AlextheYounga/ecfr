@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 85 FR 7441, Feb. 7, 2020.Link to an amendment published at 85 FR 17761, Mar. 31, 2020.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -195,6 +193,10 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (*iv*) The scallops were harvested by a vessel that has been issued and carries on board an IFQ scallop permit, is carrying an at-sea observer, and is authorized by the Regional Administrator to have, and the vessel does not exceed, an increased possession limit to compensate for the cost of carrying the observer.
 
+(*4*) Fish for, possess, or retain scallops in Federal waters of the NGOM management area on a vessel that has been issued and carries on board a NGOM permit and has declared into the state waters fishery of the NGOM management area.
+
+(*5*) Fish for, possess, or retain scallops in the Stellwagen Bank Scallop Closed Area, as described in § 648.62(e), unless transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
+
 (iv) *Transfer and purchase.* (A) Land, offload, remove, or otherwise transfer; or attempt to land, offload, remove or otherwise transfer; scallops from one vessel to another, unless that vessel has not been issued a scallop permit and fishes exclusively in state waters.
 
 (B) Sell, barter, or trade, or otherwise transfer scallops from a vessel; or attempt to sell, barter or trade, or otherwise transfer scallops from a vessel; for a commercial purpose, unless the vessel has been issued a valid scallop permit pursuant to § 648.4(a)(2), or the scallops were harvested by a vessel that has not been issued a scallop permit and fishes for scallops exclusively in state waters.
@@ -202,8 +204,6 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 (C) Purchase, possess, or receive for commercial purposes; or attempt to purchase or receive for commercial purposes; scallops from a vessel other than one issued a valid limited access or LAGC scallop permit, unless the scallops were harvested by a vessel that has not been issued a Federal scallop permit and fishes for scallops exclusively in state waters.
 
 (D) Sell or transfer to another person for a commercial purpose, other than solely for transport on land, any scallops harvested from the EEZ by a vessel issued a Federal scallop permit, unless the transferee has a valid scallop dealer permit.
-
-(E) Fish for, possess, or retain scallops in Federal waters of the NGOM management area on a vessel that has been issued and carries on board a NGOM permit and has declared into the state waters fishery of the NGOM management area.
 
 (v) *Ownership cap.* Have an ownership interest in more than 5 percent of the total number of vessels issued limited access scallop permits and confirmations of permit history, except as provided in § 648.4(a)(2)(i)(M).
 
@@ -311,7 +311,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (i) *Permit requirements.* (A) Fail to comply with the LAGC scallop permit restrictions as specified in § 648.4(a)(2)(ii)(G) through (O).
 
-(B) Fish for, possess, or land scallops on a vessel that is declared out of scallop fishing unless the vessel has been issued an Incidental scallop permit, or is an IFQ scallop vessel that is properly declared into the IFQ scallop, NE multispecies, Atlantic surfclam or quahog, or other fishery requiring a VMS declaration.
+(B) [Reserved]
 
 (ii) *Gear requirements.* (A) Possess or use trawl gear that does not comply with any of the provisions or specifications in § 648.51(a), unless the vessel is fishing under the Northeast multispecies or monkfish DAS program.
 
@@ -359,7 +359,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (F) Fish for, possess, or land scallops in excess of a vessel's IFQ.
 
-(G) Fish for, possess, or land more than 40 lb (18.1 kg) of shucked scallops, or 5 bu (1.76 hL) of in-shell scallops shoreward of the VMS Demarcation Line, or 10 bu (3.52 hL) of in-shell scallops seaward of the VMS Demarcation Line, when the vessel is not declared into the IFQ scallop fishery, unless the vessel is fishing in compliance with all of the requirements of the State waters exemption program, specified at § 648.54.
+(G) Fish for, possess, or land more than 40 lb (18.1 kg) of shucked scallops, or 5 bu (1.76 hL) of in-shell scallops shoreward of the VMS Demarcation Line, or 10 bu (3.52 hL) of in-shell scallops seaward of the VMS Demarcation Line, when the vessel is not declared into the IFQ scallop fishery, unless the vessel is fishing in compliance with all of the requirements of the state waters exemption program, specified at § 648.54, or on a properly declared NE multispecies, surfclam, or ocean quahog trip (or other fishery requiring a VMS declaration) and not fishing in a scallop access area.
 
 (H) Land scallops more than once per calendar day.
 
@@ -1129,7 +1129,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (B) Catch, take, or harvest Atlantic herring in or from the EEZ with a U.S. vessel that exceeds the size limits specified in § 648.4(a)(10)(iii).
 
-(vi) *Area requirements.* (A) For the purposes of observer deployment, fail to notify NMFS at least 72 hr prior to departing on a declared herring trip with a vessel issued an All Areas Limited Access Herring Permit and/or an Area 2 and 3 Limited Access Herring Permit and fishing with midwater trawl or purse seine gear, or on a trip with a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that is fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3), pursuant to the requirements in § 648.80(d) and (e).
+(vi) *Area requirements.* (A) For the purposes of observer deployment, fail to notify NMFS at least 48 hr prior to departing on a declared herring trip with a vessel issued an All Areas Limited Access Herring Permit and/or an Area 2 and 3 Limited Access Herring Permit and fishing with midwater trawl or purse seine gear, or on a trip with a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that is fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3), pursuant to the requirements in § 648.80(d) and (e).
 
 (B) Possess, land, transfer, receive, sell, purchase, trade, or barter; or attempt to transfer, receive, sell, purchase, trade, or barter, or sell more than 2,000 lb (907 kg) of Atlantic herring per trip taken from the Herring GOM Haddock Accountability Measure Area and/or the Herring GB Haddock Accountability Measure Area, defined in § 648.86(a)(3)(ii)(A)(*1*), by a vessel issued an Atlantic herring permit and that fished with midwater trawl gear, after the haddock cap for the area(s) has been reached pursuant to § 648.86(a)(3), unless all herring possessed or landed by the vessel was caught outside the applicable Accountability Measure Area(s).
 
@@ -1173,21 +1173,25 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (iv) While operating as an at-sea herring processor, fail to comply with requirements to separate out and retain all haddock offloaded from a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
 
-(v) Fish with midwater trawl gear in any Northeast Multispecies Closed Area, as defined in § 648.81(a)(3) through (5) and (c)(3) and (4), without a NMFS-approved observer on board, if the vessel has been issued an Atlantic herring permit.
+(v) Fish with midwater trawl gear in any Northeast Multispecies Closed Area, as defined in § 648.81(a)(3) through (5) and (c)(3) and (4), without a NMFS-certified observer on board, if the vessel has been issued an Atlantic herring permit.
 
 (vi) Slip or operationally discard catch, as defined at § 648.2, unless for one of the reasons specified at § 648.202(b)(2), if fishing any part of a tow inside the Northeast Multispecies Closed Areas, as defined at § 648.81(a)(3) through (5) and (c)(3) and (4).
 
 (vii) Fail to immediately leave the Northeast Multispecies Closed Areas or comply with reporting requirements after slipping catch or operationally discarding catch, as required by § 648.202(b)(4).
 
-(viii) Slip catch, as defined at § 648.2, unless for one the reasons specified at § 648.11(m)(4)(i).
+(viii) Slip catch, as defined at § 648.2, unless for one of the reasons specified at § 648.11(m)(7)(i).
 
-(ix) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to move 15 nm (27.78 km), as required by § 648.11(m)(4)(iv) and § 648.202(b)(4)(iv).
+(ix) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to move 15 nm (27.78 km), as required by §§ 648.11(m)(7)(iv) and (v) and 648.202(b)(4)(iv).
 
-(x) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to immediately return to port, as required by § 648.11(m)(4)(v) and § 648.202(b)(4)(iv).
+(x) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to immediately return to port, as required by §§ 648.11(m)(7)(vi) and 648.202(b)(4)(iv).
 
-(xi) Fail to complete, sign, and submit a Released Catch Affidavit as required by § 648.11(m)(4)(iii) and § 648.202(b)(4)(ii).
+(xi) Fail to complete, sign, and submit a Released Catch Affidavit as required by §§ 648.11(m)(7)(iii) and 648.202(b)(4)(ii).
 
-(xii) Fail to report or fail to accurately report a slippage event on the Atlantic herring daily VMS catch report, as required by § 648.11(m)(4)(iii) and § 648.202(b)(4)(iii).
+(xii) Fail to report or fail to accurately report a slippage event on the Atlantic herring daily VMS catch report, as required by §§ 648.11(m)(7)(iii) and 648.202(b)(4)(iii).
+
+(xiii) For vessels with All Areas or Areas 2/3 Limited Access Herring Permits, fail to comply with industry-funded monitoring requirements at § 648.11(m).
+
+(xiv) For a vessel with All Areas or Areas 2/3 Limited Access Herring Permit, fail to comply with its NMFS-approved vessel monitoring plan requirements, as described at § 648.11(m).
 
 (3) *Presumption.* For purposes of this part, the following presumption applies: All Atlantic herring retained or possessed on a vessel issued any permit under § 648.4 are deemed to have been harvested from the EEZ, unless the preponderance of all submitted evidence demonstrates that such Atlantic herring were harvested by a vessel fishing exclusively in state waters.
 

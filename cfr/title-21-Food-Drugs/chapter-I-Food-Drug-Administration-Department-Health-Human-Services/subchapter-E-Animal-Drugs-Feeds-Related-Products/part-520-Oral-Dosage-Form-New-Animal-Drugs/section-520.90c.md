@@ -1,19 +1,15 @@
-##### § 520.90c Ampicillin capsules. #####
+##### § 520.90c Ampicillin boluses. #####
 
-(a) *Specifications.* Each capsule contains ampicillin trihydrate equivalent to 125, 250, or 500 milligrams of ampicillin.
+(a) *Specifications.* Each bolus contains ampicillin trihydrate equivalent to 400 milligrams of ampicillin.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use* - (1) *Dogs* - (i) *Amount.* 5 to 10 milligrams per pound of body weight two or three times daily. In severe or acute conditions, 10 milligrams per pound of body weight, three times daily. Administer 1 to 2 hours prior to feeding.
+(c) *Related tolerances.* See § 556.40 of this chapter.
 
-(ii) *Indications for use.* Treatment against strains of gram-negative and gram-positive organisms sensitive to ampicillin and associated with respiratory tract infections (tracheobronchitis and tonsillitis); urinary tract infections (cystitis); bacterial gastroenteritis; generalized infections (septicemia) associated with abscesses, lacerations, and wounds; and bacterial dermatitis.
+(d) *Conditions of use in nonruminating calves*—(1) *Amount.* 5 milligrams per pound of body weight twice daily not to exceed 4 days.
 
-(iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(2) *Indications for use.* Oral treatment of bacterial enteritis (colibacillosis) caused by *E. coli.*
 
-(2) *Cats* - (i) *Amount.* 10 to 30 milligrams per pound of body weight or three times daily. Administer 1 to 2 hours prior to feeding.
+(3) *Limitations.* Treated calves must not be slaughtered for food during treatment and for 7 days after the last treatment. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(ii) *Indications for use.* Treatment against strains of gram-negative and gram-positive organisms sensitive to ampicillin and associated with respiratory tract infections (bacterial pneumonia); urinary tract infections (cystitis); and generalized infections (septicemia) associated with abscesses, lacerations, and wounds.
-
-(iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
-
-[57 FR 37321, Aug. 18, 1992, as amended at 58 FR 61016, Nov. 19, 1993; 79 FR 28818, May 20, 2014]
+[57 FR 37322, Aug. 18, 1992, as amended at 58 FR 61016, Nov. 19, 1993; 60 FR 55659, Nov. 2, 1995; 79 FR 28818, May 20, 2014. Redesignated and amended at 85 FR 18118, Apr. 1, 2020]

@@ -332,7 +332,125 @@
 
 (vi) Perform periodic review of monitoring program for effectiveness.
 
-(m) [Reserved]
+(m) *Atlantic herring monitoring coverage* - (1) *Monitoring requirements.* (i) In addition to the requirement for any vessel holding an Atlantic herring permit to carry a NMFS-certified observer described in paragraph (a) of this section, vessels issued an All Areas or Areas 2/3 Limited Access Herring Permit are subject to industry-funded monitoring (IFM) requirements on declared Atlantic herring trips, unless the vessel is carrying a NMFS-certified observer to fulfill Standard Bycatch Reporting Methodology requirements. An owner of a midwater trawl vessel, required to carry a NMFS-certified observer when fishing in Northeast Multispecies Closed Areas at § 648.202(b), may purchase an IFM high volume fisheries (HVF) observer to access Closed Areas on a trip-by-trip basis. General requirements for IFM programs in New England Council FMPs are specified in paragraph (g) of this section. Possible IFM monitoring for the Atlantic herring fishery includes NMFS-certified observers, at-sea monitors, and electronic monitoring and portside samplers, as defined in § 648.2.
+
+(A) IFM HVF observers shall collect the following information:
+
+(*1*) Fishing gear information (*e.g.,* size of nets, mesh sizes, and gear configurations);
+
+(*2*) Tow-specific information (*e.g.,* depth, water temperature, wave height, and location and time when fishing begins and ends);
+
+(*3*) Species, weight, and disposition of all retained and discarded catch (fish, sharks, crustaceans, invertebrates, and debris) on observed hauls;
+
+(*4*) Species, weight, and disposition of all retained catch on unobserved hauls;
+
+(*5*) Actual catch weights whenever possible, or alternatively, weight estimates derived by sub-sampling;
+
+(*6*) Whole specimens, photos, length information, and biological samples (*e.g.,* scales, otoliths, and/or vertebrae from fish, invertebrates, and incidental takes);
+
+(*7*) Information on interactions with protected species, such as sea turtles, marine mammals, and sea birds; and
+
+(*8*) Vessel trip costs (*i.e.,* operational costs for trip including food, fuel, oil, and ice).
+
+(B) IFM HVF at-sea monitors shall collect the following information:
+
+(*1*) Fishing gear information (*e.g.,* size of nets, mesh sizes, and gear configurations);
+
+(*2*) Tow-specific information (*e.g.,* depth, water temperature, wave height, and location and time when fishing begins and ends);
+
+(*3*) Species, weight, and disposition of all retained and discarded catch (fish, sharks, crustaceans, invertebrates, and debris) on observed hauls;
+
+(*4*) Species, weight, and disposition of all retained catch on unobserved hauls;
+
+(*5*) Actual catch weights whenever possible, or alternatively, weight estimates derived by sub-sampling;
+
+(*6*) Length data, along with whole specimens and photos to verify species identification, on retained and discarded catch;
+
+(*7*) Information on and biological samples from interactions with protected species, such as sea turtles, marine mammals, and sea birds; and
+
+(*8*) Vessel trip costs (*i.e.,* operational costs for trip including food, fuel, oil, and ice).
+
+(*9*) The New England Council may recommend that at-sea monitors collect additional biological information upon request. Revisions to the duties of an at-sea monitor, such that additional biological information would be collected, may be done via a framework adjustment. At-sea monitor duties may also be revised to collect additional biological information by considering the issue at a public meeting, where public comment is accepted, and requesting NMFS to publish a notice or rulemaking revising the duties for at-sea monitors. NMFS shall implement revisions to at-sea monitor duties in accordance with the APA.
+
+(C) IFM Portside samplers shall collect the following information:
+
+(*1*) Species, weight, and disposition of all retained catch (fish, sharks, crustaceans, invertebrates, and debris) on sampled trips;
+
+(*2*) Actual catch weights whenever possible, or alternatively, weight estimates derived by sub-sampling; and
+
+(*3*) Whole specimens, photos, length information, and biological samples (*i.e.,* scales, otoliths, and/or vertebrae from fish, invertebrates, and incidental takes).
+
+(ii) Vessels issued an All Areas or Areas 2/3 Limited Access Herring Permit are subject to IFM at-sea monitoring coverage. If the New England Council determines that electronic monitoring, used in conjunction with portside sampling, is an adequate substitute for at-sea monitoring on vessels fishing with midwater trawl gear, and it is approved by the Regional Administrator as specified in (m)(1)(iii), then owners of vessels issued an All Areas or Areas 2/3 Limited Access Herring Permit may choose either IFM at-sea monitoring coverage or IFM electronic monitoring and IFM portside sampling coverage, pursuant with requirements in paragraphs (h) and (i) of this section. Once owners of vessels issued an All Areas or Areas 2/3 Limited Access Herring Permit may choose an IFM monitoring type, vessel owners must select one IFM monitoring type per fishing year and notify NMFS of their selected IFM monitoring type via selection form six months in advance (October 31) of the beginning of the SBRM year. NMFS will provide vessels owners with selection forms no later than September 1 in advance of the beginning of the SBRM year.
+
+(A) In a future framework adjustment, the New England Council may consider if electronic monitoring and portside sampling coverage is an adequate substitute for at-sea monitoring coverage for Atlantic herring vessels that fish with purse seine and/or bottom trawl gear.
+
+(B) IFM coverage targets for the Atlantic herring fishery are calculated by NMFS, in consultation with New England Council staff.
+
+(C) If IFM coverage targets do not match for the Atlantic herring and Atlantic mackerel fisheries, then the higher IFM coverage target would apply on trips declared into both fisheries.
+
+(D) Vessels intending to land less than 50 mt of Atlantic herring are exempt from IFM requirements, provided that the vessel requests and is issued a waiver prior to departing on that trip, consistent with paragraphs (m)(2)(iii)(B) and (m)(3) of this section. Vessels issued a waiver must land less than 50 mt of Atlantic herring on that trip.
+
+(E) A wing vessel (*i.e.,* midwater trawl vessel pair trawling with another midwater trawl vessel) is exempt from IFM requirements on a trip, provided the wing vessel does not possess or land any fish on that trip and requests and is issued a waiver prior to departing on that trip, consistent with paragraphs (m)(2)(iii)(C) and (m)(3) of this section.
+
+(F) Two years after implementation of IFM in the Atlantic herring fishery, the New England Council will examine the results of any increased coverage in the Atlantic herring fishery and consider if adjustments to the IFM coverage targets are warranted.
+
+(iii) Electronic monitoring and portside sampling coverage may be used in place of at-sea monitoring coverage in the Atlantic herring fishery, if the electronic monitoring technology is deemed sufficient by the New England Council. The Regional Administrator, in consultation with the New England Council, may approve the use of electronic monitoring and portside sampling for the Atlantic herring fishery in a manner consistent with the Administrative Procedure Act, with final measures published in the Federal Register. A vessel electing to use electronic monitoring and portside sampling in lieu of at-sea monitoring must develop a vessel monitoring plan to implement an electronic monitoring and portside sampling program that NMFS determines is sufficient for monitoring catch, discards and slippage events. The electronic monitoring and portside sampling program shall be reviewed and approved by NMFS as part of a vessel's monitoring plan on a yearly basis in a manner consistent with the Administrative Procedure Act.
+
+(iv) Owners, operators, or managers of vessels issued an All Areas Limited Access Herring Permit or Areas 2/3 Limited Access Herring Permit are responsible for their vessel's compliance with IFM requirements. When NMFS notifies a vessel owner, operator, or manager of the requirement to have monitoring coverage on a specific declared Atlantic herring trip, that vessel may not fish for, take, retain, possess, or land any Atlantic herring without the required monitoring coverage. Vessels may only embark on a declared Atlantic herring trip without the required monitoring coverage if the vessel owner, operator, and/or manager has been notified that the vessel has received a waiver for the required monitoring coverage for that trip, pursuant to paragraphs (m(2)(iii)(B) and (C) and (m)(3) of this section.
+
+(v) To provide the required IFM coverage aboard declared Atlantic herring trips, NMFS-certified observers and monitors must hold a high volume fisheries certification from NMFS/FSB. See details of high volume certification at *https://www.nefsc.noaa.gov/fsb/training/.*
+
+(2) *Pre-trip notification.* (i) At least 48 hr prior to the beginning of any trip on which a vessel may harvest, possess, or land Atlantic herring, the owner, operator, or manager of a vessel issued a Limited Access Herring Permit, or a vessel issued an Areas 2/3 Open Access Herring Permit, or a vessel issued an All Areas Open Access Herring Permit fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3), or a vessel acting as a herring carrier must notify NMFS/FSB of the trip.
+
+(ii) The notification to NMFS/FSB must include the following information: Vessel name or permit number; email and telephone number for contact; the date, time, and port of departure; trip length; and gear type.
+
+(iii) For vessels issued an All Areas Limited Access Herring Permit or Areas 2/3 Limited Access Herring Permit, the trip notification must also include the following requests, if appropriate:
+
+(A) For IFM NMFS-certified observer coverage aboard vessels fishing with midwater trawl gear to access the Northeast Multispecies Closed Areas, consistent with requirements at § 648.202(b), at any point during the trip;
+
+(B) For a waiver of IFM requirements on a trip that shall land less than 50 mt of Atlantic herring; and
+
+(C) For a waiver of IFM requirements on trip by a wing vessel as described in paragraph (m)(ii)(E) of this section.
+
+(iv) Trip notification must be provided no more than 10 days in advance of each fishing trip. The vessel owner, operator, or manager must notify NMFS/FSB of any trip plan changes at least 12 hr prior to vessel departure from port.
+
+(3) *Selection of trips for monitoring coverage.* NMFS shall notify the owner, operator, and/or manager of a vessel with an Atlantic herring permit whether a declared Atlantic herring trip requires coverage by a NMFS-funded observer or whether a trip requires IFM coverage. NMFS shall also notify the owner, operator, and/or manager of vessel if a waiver has been granted, either for the NMFS-funded observer or for IFM coverage, as specified in paragraph (m)(2) of this section. All waivers for monitoring coverage shall be issued to the vessel by VMS so that there is an on-board verification of the waiver. A waiver is invalid if the fishing behavior on that trip is inconsistent with the terms of the waiver.
+
+(4) *Procurement of monitoring services by Atlantic herring vessels.* (i) An owner of an Atlantic herring vessel required to have monitoring under paragraph (m)(3) of this section must arrange for monitoring by an individual certified through training classes operated by the NMFS/FSB and from a monitoring service provider approved by NMFS under paragraph (h) of this section. The owner, operator, or vessel manager of a vessel selected for monitoring must contact a monitoring service provider prior to the beginning of the trip and the monitoring service provider will notify the vessel owner, operator, or manager whether monitoring is available. A list of approved monitoring service providers shall be posted on the NMFS/FSB website at *https://www.nefsc.noaa.gov/femad/fsb/.*
+
+(ii) An owner, operator, or vessel manager of a vessel that cannot procure monitoring due to the unavailability of monitoring may request a waiver from NMFS/FSB from the requirement for monitoring on that trip, but only if the owner, operator, or vessel manager has contacted all of the available monitoring service providers to secure monitoring and no monitoring is available. NMFS/FSB shall issue a waiver, if the conditions of this paragraph (m)(4)(ii) are met. A vessel without monitoring coverage may not begin a declared Atlantic herring trip without having been issued a waiver.
+
+(iii) Vessel owners shall pay service providers for monitoring services within 45 days of the end of a fishing trip that was monitored.
+
+(5) *Vessels working cooperatively.* When vessels issued limited access herring permits are working cooperatively in the Atlantic herring fishery, including pair trawling, purse seining, and transferring herring at-sea, each vessel must provide to observers or monitors, when requested, the estimated weight of each species brought on board and the estimated weight of each species released on each tow.
+
+(6) *Sampling requirements for NMFS-certified observer and monitors.* In addition to the requirements at § 648.11(d)(1) through (7), an owner or operator of a vessel issued a limited access herring permit on which a NMFS-certified observer or monitor is embarked must provide observers or monitors:
+
+(i) A safe sampling station adjacent to the fish deck, including: A safety harness, if footing is compromised and grating systems are high above the deck; a safe method to obtain samples; and a storage space for baskets and sampling gear.
+
+(ii) Reasonable assistance to enable observers or monitors to carry out their duties, including but not limited to assistance with: Obtaining and sorting samples; measuring decks, codends, and holding bins; collecting bycatch when requested by the observers or monitors; and collecting and carrying baskets of fish when requested by the observers or monitors.
+
+(iii) Advance notice when pumping will be starting; when sampling of the catch may begin; and when pumping is coming to an end.
+
+(iv) Visual access to the net, the codend of the net, and the purse seine bunt and any of its contents after pumping has ended and before the pump is removed from the net. On trawl vessels, the codend including any remaining contents must be brought on board, unless bringing the codend on board is not possible. If bringing the codend on board is not possible, the vessel operator must ensure that the observer or monitor can see the codend and its contents as clearly as possible before releasing its contents.
+
+(7) *Measures to address slippage.* (i) No vessel issued a limited access herring permit may slip catch, as defined at § 648.2, except in the following circumstances:
+
+(A) The vessel operator has determined, and the preponderance of available evidence indicates that, there is a compelling safety reason; or
+
+(B) A mechanical failure, including gear damage, precludes bringing some or all of the catch on board the vessel for inspection; or
+
+(C) The vessel operator determines that pumping becomes impossible as a result of spiny dogfish clogging the pump intake. The vessel operator shall take reasonable measures, such as strapping and splitting the net, to remove all fish which can be pumped from the net prior to release.
+
+(ii) Vessels may make test tows without pumping catch on board if the net is re-set without releasing its contents provided that all catch from test tows is available to the observer to sample when the next tow is brought on board for sampling.
+
+(iii) If a vessel issued any limited access herring permit slips catch, the vessel operator must report the slippage event on the Atlantic herring daily VMS catch report and indicate the reason for slipping catch. Additionally, the vessel operator must complete and sign a Released Catch Affidavit detailing: The vessel name and permit number; the VTR serial number; where, when, and the reason for slipping catch; the estimated weight of each species brought on board or slipped on that tow. A completed affidavit must be submitted to NMFS within 48 hr of the end of the trip.
+
+(iv) If a vessel issued an All Areas or Areas 2/3 Limited Access Herring permit slips catch for any of the reasons described in paragraph (m)(7)(i) of this section when an observer or monitor is aboard, the vessel operator must move at least 15 nm (27.78 km) from the location of the slippage event before deploying any gear again, and must stay at least 15 nm (27.78 km) away from the slippage event location for the remainder of the fishing trip.
+
+(v) If a vessel issued an All Areas or Areas 2/3 Limited Access Herring permit slips catch for any reason on a trip selected by NMFS for portside sampling, pursuant to paragraph (m)(3) of this section, the vessel operator must move at least 15 nm (27.78 km) from the location of the slippage event before deploying any gear again, and must stay at least 15 nm (27.78 km) away from the slippage event location for the remainder of the fishing trip.
+
+(vi) If catch is slipped by a vessel issued an All Areas or Areas 2/3 Limited Access Herring permit for any reason not described in paragraph (m)(7)(i) of this section when an observer or monitor is aboard, the vessel operator must immediately terminate the trip and return to port. No fishing activity may occur during the return to port.
 
 (n) *Atlantic mackerel, squid, and butterfish observer coverage* - (1) *Pre-trip notification.* (i) A vessel issued a limited access Atlantic mackerel permit, as specified at § 648.4(a)(5)(iii), must, for the purposes of observer deployment, have a representative provide notice to NMFS of the vessel name, vessel permit number, contact name for coordination of observer deployment, telephone number or email address for contact; and the date, time, port of departure, gear type, and approximate trip duration, at least 48 hr, but no more than 10 days, prior to beginning any fishing trip, unless it complies with the possession restrictions in paragraph (n)(1)(iii) of this section.
 

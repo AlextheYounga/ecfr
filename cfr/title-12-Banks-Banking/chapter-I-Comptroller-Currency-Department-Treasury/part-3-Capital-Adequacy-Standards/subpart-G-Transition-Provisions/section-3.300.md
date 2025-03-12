@@ -1,7 +1,5 @@
 ##### § 3.300 Transitions. #####
 
-Link to an amendment published at 85 FR 4414, Jan. 24, 2020.
-
 (a) *Capital conservation and countercyclical capital buffer.* (1) From January 1, 2014 through December 31, 2015, a national bank or Federal savings association is not subject to limits on distributions and discretionary bonus payments under § 3.11 of subpart B of this part notwithstanding the amount of its capital conservation buffer or any applicable countercyclical capital buffer amount.
 
 (2) Beginning January 1, 2016 through December 31, 2018 a national bank's or Federal savings association's maximum payout ratio shall be determined as set forth in Table 1 to § 3.300.
@@ -58,4 +56,8 @@ Table 9 to § 3.300
 
 (f) A national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association may apply the treatment under §§ 3.21 and 3.22(c)(2), (5), (6), and (d)(2) applicable to an advanced approaches national bank or Federal savings association during the calendar quarter beginning January 1, 2020. During the quarter beginning January 1, 2020, a national bank or Federal savings association that makes such an election must deduct 80 percent of the amount otherwise required to be deducted under § 3.22(d)(2) and must apply a 100 percent risk weight to assets not deducted under § 3.22(d)(2). In addition, during the quarter beginning January 1, 2020, a national bank or Federal savings association that makes such an election must include in its regulatory capital 20 percent of any minority interest that exceeds the amount of minority interest includable in regulatory capital under § 3.21 as it applies to an advanced approaches national bank or Federal savings association. A national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association must apply the treatment under §§ 3.21 and 3.22 applicable to a national bank or Federal savings association that is not an advanced approaches national bank or Federal savings association beginning April 1, 2020, and thereafter.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 82 FR 55315, Nov. 21, 2017; 84 FR 35258, July 22, 2019; 84 FR 61807, Nov. 13, 2019]
+(g) *SA-CCR.* An advanced approaches national bank or Federal savings association may use CEM rather than SA-CCR for purposes of §§ 3.34(a) and 3.132(c) until January 1, 2022. An advanced approaches national bank or Federal savings association must provide prior notice to the OCC if it decides to begin using SA-CCR before January 1, 2022. On January 1, 2022, and thereafter, an advanced approaches national bank or Federal savings association must use SA-CCR for purposes of §§ 3.34(a), 3.132(c), and 3.133(d). Once an advanced approaches national bank or Federal savings association has begun to use SA-CCR, the advanced approaches national bank or Federal savings association may not change to use CEM.
+
+(h) *Default fund contributions.* Prior to January 1, 2022, a national bank or Federal savings association that calculates the exposure amounts of its derivative contracts under the standardized approach for counterparty credit risk in § 3.132(c) may calculate the risk-weighted asset amount for a default fund contribution to a QCCP under either method 1 under § 3.35(d)(3)(i) or method 2 under § 3.35(d)(3)(ii), rather than under § 3.133(d).
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 82 FR 55315, Nov. 21, 2017; 84 FR 35258, July 22, 2019; 84 FR 61807, Nov. 13, 2019; 85 FR 4414, Jan. 24, 2020]

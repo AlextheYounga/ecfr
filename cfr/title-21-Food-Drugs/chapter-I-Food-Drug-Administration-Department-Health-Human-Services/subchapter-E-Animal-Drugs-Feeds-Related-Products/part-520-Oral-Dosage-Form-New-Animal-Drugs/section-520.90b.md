@@ -1,13 +1,19 @@
-##### § 520.90b Ampicillin tablets. #####
+##### § 520.90b Ampicillin capsules. #####
 
-(a) *Specifications.* Each tablet contains ampicillin trihydrate equivalent to 50 or 100 milligrams of ampicillin.
+(a) *Specifications.* Each capsule contains ampicillin trihydrate equivalent to 125, 250, or 500 milligrams of ampicillin.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount.* 5 milligrams per pound of body weight, at 8-hour intervals, 1 to 2 hours prior to feeding, to be continued 36 to 48 hours after all symptoms have subsided. If no improvement is seen within 5 days, stop treatment, reevaluate diagnosis, and change therapy.
+(c) *Conditions of use*—(1) *Dogs*—(i) *Amount.* 5 to 10 milligrams per pound of body weight two or three times daily. In severe or acute conditions, 10 milligrams per pound of body weight, three times daily. Administer 1 to 2 hours prior to feeding.
 
-(2) *Indications for use.* Oral treatment of infections caused by susceptible organisms as follows: Upper respiratory infections, tonsillitis, and bronchitis due to *Streptococcus* spp., *Staphylococcus* spp., *Escherichia coli, Proteus mirabilis,* and *Pasteurella* spp., urinary tract infections (cystitis) due to *Streptococcus* spp., *Staphylococcus* spp., *E., coli, P. mirabilis,* and *Enterococcus* spp.; gastrointestinal infections due to *Staphylococcus* spp., *Streptococcus* spp., *Enterococcus* spp., and *E. coli.* ; infections associated with abscesses, lacerations, and wounds caused by *Staphylococcus* spp., and *Streptococcus* spp.
+(ii) *Indications for use.* Treatment against strains of gram-negative and gram-positive organisms sensitive to ampicillin and associated with respiratory tract infections (tracheobronchitis and tonsillitis); urinary tract infections (cystitis); bacterial gastroenteritis; generalized infections (septicemia) associated with abscesses, lacerations, and wounds; and bacterial dermatitis.
 
-(3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[57 FR 37321, Aug. 18, 1992, as amended at 60 FR 55659, Nov. 2, 1995; 79 FR 28818, May 20, 2014]
+(2) *Cats*—(i) *Amount.* 10 to 30 milligrams per pound of body weight or three times daily. Administer 1 to 2 hours prior to feeding.
+
+(ii) *Indications for use.* Treatment against strains of gram-negative and gram-positive organisms sensitive to ampicillin and associated with respiratory tract infections (bacterial pneumonia); urinary tract infections (cystitis); and generalized infections (septicemia) associated with abscesses, lacerations, and wounds.
+
+(iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+
+[57 FR 37321, Aug. 18, 1992, as amended at 58 FR 61016, Nov. 19, 1993; 79 FR 28818, May 20, 2014. Redesignated at 85 FR 18118, Apr. 1, 2020]

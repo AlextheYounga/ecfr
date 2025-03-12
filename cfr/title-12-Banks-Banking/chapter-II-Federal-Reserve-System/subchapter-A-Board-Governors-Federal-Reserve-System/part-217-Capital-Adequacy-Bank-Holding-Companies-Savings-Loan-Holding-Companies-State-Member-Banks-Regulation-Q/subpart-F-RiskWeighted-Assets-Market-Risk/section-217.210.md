@@ -1,7 +1,5 @@
 ##### § 217.210 Standardized measurement method for specific risk. #####
 
-Link to an amendment published at 85 FR 4419, Jan. 24, 2020.
-
 (a) *General requirement.* A Board-regulated institution must calculate a total specific risk add-on for each portfolio of debt and equity positions for which the Board-regulated institution's VaR-based measure does not capture all material aspects of specific risk and for all securitization positions that are not modeled under § 217.209. A Board-regulated institution must calculate each specific risk add-on in accordance with the requirements of this section. Notwithstanding any other definition or requirement in this subpart, a position that would have qualified as a debt position or an equity position but for the fact that it qualifies as a correlation trading position under paragraph (2) of the definition of correlation trading position in § 217.2, shall be considered a debt position or an equity position, respectively, for purposes of this section 210 of this subpart.
 
 (1) The specific risk add-on for an individual debt or securitization position that represents sold credit protection is capped at the notional amount of the credit derivative contract. The specific risk add-on for an individual debt or securitization position that represents purchased credit protection is capped at the current fair value of the transaction plus the absolute value of the present value of all remaining payments to the protection seller under the transaction. This sum is equal to the value of the protection leg of the transaction.
@@ -42,10 +40,8 @@ Link to an amendment published at 85 FR 4419, Jan. 24, 2020.
 
 (i) *Sovereign debt positions.* (A) In accordance with Table 1 to § 217.210, a Board-regulated institution must assign a specific risk-weighting factor to a sovereign debt position based on the CRC applicable to the sovereign, and, as applicable, the remaining contractual maturity of the position, or if there is no CRC applicable to the sovereign, based on whether the sovereign entity is a member of the OECD. Notwithstanding any other provision in this subpart, sovereign debt positions that are backed by the full faith and credit of the United States are treated as having a CRC of 0.
 
-Table 1 to § 217.210 - Specific Risk-Weighting Factors for Sovereign Debt Positions
-
 |                           |                          Specific risk-weighting factor                          |    |
-|:--------------------------|:--------------------------------------------------------------------------------:|----|
+|---------------------------|----------------------------------------------------------------------------------|----|
 |                           |                                   (in percent)                                   |    |
 |           CRC:            |                                                                                  |    |
 |            0-1            |                                       0.0                                        |    |
@@ -78,10 +74,8 @@ Table 1 to § 217.210 - Specific Risk-Weighting Factors for Sovereign Debt Posit
 
 (iv) *Depository institution, foreign bank, and credit union debt positions.* (A) Except as provided in paragraph (b)(2)(iv)(B) of this section, a Board-regulated institution must assign a specific risk-weighting factor to a debt position that is an exposure to a depository institution, a foreign bank, or a credit union, in accordance with Table 2 to § 217.210, based on the CRC that corresponds to that entity's home country or the OECD membership status of that entity's home country if there is no CRC applicable to the entity's home country, and, as applicable, the remaining contractual maturity of the position.
 
-Table 2 to § 217.210 - Specific Risk-Weighting Factors for Depository Institution, Foreign Bank, and Credit Union Debt Positions
-
 |                                  |                          Specific risk-weighting factor                          |    |
-|:---------------------------------|:--------------------------------------------------------------------------------:|----|
+|----------------------------------|----------------------------------------------------------------------------------|----|
 |                                  |                                   (in percent)                                   |    |
 |CRC 0-2 or OECD Member with No CRC|                Remaining contractual maturity of 6 months or less                |0.25|
 |                                  |Remaining contractual maturity of greater than 6 and up to and including 24 months|1.0 |
@@ -105,10 +99,8 @@ Table 2 to § 217.210 - Specific Risk-Weighting Factors for Depository Instituti
 
 (C) A Board-regulated institution must assign a 12.0 percent specific risk-weighting factor to a PSE debt position immediately upon determination that a default by the PSE's home country has occurred or if a default by the PSE's home country has occurred within the previous five years.
 
-Table 3 to § 217.210 - Specific Risk-Weighting Factors for PSE General Obligation Debt Positions
-
 |                                  |                General obligation specific risk-weighting factor                 |    |
-|:---------------------------------|:--------------------------------------------------------------------------------:|----|
+|----------------------------------|----------------------------------------------------------------------------------|----|
 |                                  |                                   (in percent)                                   |    |
 |CRC 0-2 or OECD Member with No CRC|                Remaining contractual maturity of 6 months or less                |0.25|
 |                                  |Remaining contractual maturity of greater than 6 and up to and including 24 months|1.0 |
@@ -118,10 +110,8 @@ Table 3 to § 217.210 - Specific Risk-Weighting Factors for PSE General Obligati
 |   Non-OECD Member with No CRC    |                                       8.0                                        |    |
 |        Sovereign Default         |                                       12.0                                       |    |
 
-Table 4 to § 217.210 - Specific Risk-Weighting Factors for PSE Revenue Obligation Debt Positions
-
 |                                  |                Revenue obligation specific risk-weighting factor                 |    |
-|:---------------------------------|:--------------------------------------------------------------------------------:|----|
+|----------------------------------|----------------------------------------------------------------------------------|----|
 |                                  |                                   (in percent)                                   |    |
 |CRC 0-1 or OECD Member with No CRC|                Remaining contractual maturity of 6 months or less                |0.25|
 |                                  |Remaining contractual maturity of greater than 6 and up to and including 24 months|1.0 |
@@ -134,8 +124,6 @@ Table 4 to § 217.210 - Specific Risk-Weighting Factors for PSE Revenue Obligati
 (vi) *Corporate debt positions.* Except as otherwise provided in paragraph (b)(2)(vi)(B) of this section, a Board-regulated institution must assign a specific risk-weighting factor to a corporate debt position in accordance with the investment grade methodology in paragraph (b)(2)(vi)(A) of this section.
 
 (A) *Investment grade methodology.* (*1*) For corporate debt positions that are exposures to entities that have issued and outstanding publicly traded instruments, a Board-regulated institution must assign a specific risk-weighting factor based on the category and remaining contractual maturity of the position, in accordance with Table 5 to § 217.210. For purposes of this paragraph (b)(2)(vi)(A)(*1*), the Board-regulated institution must determine whether the position is in the investment grade or not investment grade category.
-
-Table 5 to § 217.210 - Specific Risk-Weighting Factors for Corporate Debt Positions Under the Investment Grade Methodology
 
 |      Category      |         Remaining contractual maturity         |Specific risk-weighting factor  <br/>(in percent)|
 |--------------------|------------------------------------------------|-------------------------------------------------|
@@ -150,7 +138,7 @@ Table 5 to § 217.210 - Specific Risk-Weighting Factors for Corporate Debt Posit
 
 (*2*) A Board-regulated institution shall not assign a corporate debt position a specific risk-weighting factor that is lower than the specific risk-weighting factor that corresponds to the CRC of the issuer's home country, if applicable, in table 1 of this section.
 
-(vii) *Securitization positions* - (A) *General requirements.* (*1*) A Board-regulated institution that is not an advanced approaches Board-regulated institution or is a U.S. intermediate holding company that is required to be established or designated pursuant to 12 CFR 252.153 and that is not calculating risk-weighted assets according to Subpart E must assign a specific risk-weighting factor to a securitization position using either the simplified supervisory formula approach (SSFA) in paragraph (b)(2)(vii)(C) of this section (and § 217.211) or assign a specific risk-weighting factor of 100 percent to the position.
+(vii) *Securitization positions*—(A) *General requirements.* (*1*) A Board-regulated institution that is not an advanced approaches Board-regulated institution or is a U.S. intermediate holding company that is required to be established or designated pursuant to 12 CFR 252.153 and that is not calculating risk-weighted assets according to Subpart E must assign a specific risk-weighting factor to a securitization position using either the simplified supervisory formula approach (SSFA) in paragraph (b)(2)(vii)(C) of this section (and § 217.211) or assign a specific risk-weighting factor of 100 percent to the position.
 
 (*2*) A Board-regulated institution that is an advanced approaches Board-regulated institution or is a U.S. intermediate holding company that is required to be established or designated pursuant to 12 CFR 252.153 and that is calculating risk-weighted assets according to Subpart E must calculate a specific risk add-on for a securitization position in accordance with paragraph (b)(2)(vii)(B) of this section if the Board-regulated institution and the securitization position each qualifies to use the SFA in § 217.143. A Board-regulated institution that is an advanced approaches Board-regulated institution or is a U.S. intermediate holding company that is required to be established or designated pursuant to 12 CFR 252.153 and that is calculating risk-weighted assets according to Subpart E with a securitization position that does not qualify for the SFA under paragraph (b)(2)(vii)(B) of this section may assign a specific risk-weighting factor to the securitization position using the SSFA in accordance with paragraph (b)(2)(vii)(C) of this section or assign a specific risk-weighting factor of 100 percent to the position.
 
@@ -184,9 +172,9 @@ Table 5 to § 217.210 - Specific Risk-Weighting Factors for Corporate Debt Posit
 
 (e) *Equity positions.* The total specific risk add-on for a portfolio of equity positions is the sum of the specific risk add-ons of the individual equity positions, as computed under this section. To determine the specific risk add-on of individual equity positions, a Board-regulated institution must multiply the absolute value of the current fair value of each net long or net short equity position by the appropriate specific risk-weighting factor as determined under this paragraph (e):
 
-(1) The Board-regulated institution must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent.33
+(1) The Board-regulated institution must multiply the absolute value of the current fair value of each net long or net short equity position by a specific risk-weighting factor of 8.0 percent. For equity positions that are index contracts comprising a well-diversified portfolio of equity instruments, the absolute value of the current fair value of each net long or net short position is multiplied by a specific risk-weighting factor of 2.0 percent.34
 
-33 A portfolio is well-diversified if it contains a large number of individual equity positions, with no single position representing a substantial portion of the portfolio's total fair value.
+34 A portfolio is well-diversified if it contains a large number of individual equity positions, with no single position representing a substantial portion of the portfolio's total fair value.
 
 (2) For equity positions arising from the following futures-related arbitrage strategies, a Board-regulated institution may apply a 2.0 percent specific risk-weighting factor to one side (long or short) of each position with the opposite side exempt from an additional capital requirement:
 
@@ -212,4 +200,4 @@ Table 5 to § 217.210 - Specific Risk-Weighting Factors for Corporate Debt Posit
 
 (ii) On an on-going basis (no less frequently than quarterly), evaluating, reviewing, and updating as appropriate the analysis required under paragraph (f)(1) of this section for each securitization position.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 78295, Dec. 30, 2014; 84 FR 35269, July 22, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 78295, Dec. 30, 2014; 84 FR 35269, July 22, 2019; 85 FR 4419, Jan. 24, 2020]

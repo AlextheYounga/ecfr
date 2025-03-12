@@ -55,4 +55,10 @@
 |         (i) 159          |                            |Growing pheasants: For the prevention of coccidiosis caused by Eimeria colchici, E. duodenalis, and E. phasiani|Feed continuously as sole ration. Use as sole source of amprolium|016592 |
 |     (ii) [Reserved]      |                            |                                                                                                               |                                                                 |       |
 
+(5) *Permitted combinations.* Amprolium may also be used in combination with:
+
+(i) Virginiamycin as in § 558.635.
+
+(ii) [Reserved]
+
 [41 FR 10985, Mar. 15, 1976]Editorial Note:For Federal Register citations affecting § 558.55, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -108,31 +108,43 @@ Link to an amendment published at 84 FR 66811, Dec. 5, 2019.
 
 (e) *Additional three-month eligibility.* An individual who regained eligibility under paragraph (d) of this section and who is no longer fulfilling the work requirement as defined in paragraph (a) of this section is eligible for a period of three consecutive countable months (as defined in paragraph (b) of this section), starting on the date the individual first notifies the State agency that he or she is no longer fulfilling the work requirement, unless the individual has been satisfying the work requirement by participating in a work or workfare program, in which case the period starts on the date the State agency notifies the individual that he or she is no longer meeting the work requirement. An individual shall not receive benefits under this paragraph (e) more than once in any three-year period.
 
-(f) *Waivers* - (1) *General.* On the request of a State agency, FNS may waive the time limit for a group of individuals in the State if we determine that the area in which the individuals reside:
+(f) *Waivers* - (1) *General.* The State agency, with the support of the chief executive officer of the State, may request FNS approval to temporarily waive the time limit for a group of individuals in the State in the area in which the individuals reside. To be considered for approval, the request must be supported by corresponding data or evidence demonstrating that the requested area:
 
 (i) Has an unemployment rate of over 10 percent; or
 
 (ii) Does not have a sufficient number of jobs to provide employment for the individuals.
 
-(2) *Required data.* The State agency may submit whatever data it deems appropriate to support its request. However, to support waiver requests based on unemployment rates or labor force data, States must submit data that relies on standard Bureau of Labor Statistics (BLS) data or methods. A non-exhaustive list of the kinds of data a State agency may submit follows:
+(2) *Core standards.* FNS will approve waiver requests under paragraphs (f)(1)(i) and (ii) of this section that are supported by any one of the following:
 
-(i) To support a claim of unemployment over 10 percent, a State agency may submit evidence that an area has a recent 12 month average unemployment rate over 10 percent; a recent three month average unemployment rate over 10 percent; or an historical seasonal unemployment rate over 10 percent; or
+(i) Data from the Bureau of Labor Statistics (BLS) or a BLS-cooperating agency that shows an area has a recent 12-month average unemployment rate over 10 percent; or
 
-(ii) To support a claim of lack of sufficient jobs, a State may submit evidence that an area: is designated as a Labor Surplus Area (LSA) by the Department of Labor's Employment and Training Administration (ETA); is determined by the Department of Labor's Unemployment Insurance Service as qualifying for extended unemployment benefits; has a low and declining employment-to-population ratio; has a lack of jobs in declining occupations or industries; is described in an academic study or other publications as an area where there are lack of jobs; has a 24-month average unemployment rate 20 percent above the national average for the same 24-month period. This 24-month period may not be any earlier than the same 24-month period the ETA uses to designate LSAs for the current fiscal year.
+(ii) Data from the BLS or a BLS-cooperating agency that shows an area has a 24-month average unemployment rate 20 percent or more above the national rate for a recent 24-month period, but in no case may the 24-month average unemployment rate of the requested area be less than 6 percent. In order for the 24-month data period to be considered recent, the number of months from the end of the last month of the 24-month data period through the last month that the waiver would be effective must not exceed 21 months.
 
-(3) *Waivers that are readily approvable.* FNS will approve State agency waivers where FNS confirms:
+(3) *Other data and evidence in an exceptional circumstance.* FNS may approve waiver requests that are supported by data or evidence other than those listed under paragraph (f)(2) of this section if the request demonstrates an exceptional circumstance in an area. The request must demonstrate that the exceptional circumstance has caused a lack of sufficient jobs or an unemployment rate over 10 percent, for example data from the BLS or a BLS-cooperating agency that shows an area has a most recent three-month average unemployment rate over 10 percent. In addition, the request must demonstrate that the impact of the exceptional circumstance is ongoing at the time of the request. Supporting unemployment data provided by the State must rely on standard BLS data or methods.
 
-(i) Data from the BLS or the BLS cooperating agency that shows an area has a most recent 12 month average unemployment rate over 10 percent;
+(4) *Definition of area.* For the purposes of this paragraph, “area” means:
 
-(ii) Evidence that the area has been designated a Labor Surplus Area by the ETA for the current fiscal year; or
+(i) An area considered a Labor Market Area (LMA) by DOL. The State agency must support a waiver for an LMA using corresponding LMA data from the BLS. If such corresponding data is unavailable, the State agency may obtain corresponding data by combining data from sub-LMA areas that are collectively considered to be a LMA by DOL;
 
-(iii) Data from the BLS or the BLS cooperating agency that an area has a 24 month average unemployment rate that exceeds the national average by 20 percent for any 24-month period no earlier than the same period the ETA uses to designate LSAs for the current fiscal year.
+(ii) The intrastate part of an interstate LMA. Intrastate parts of interstate LMAs may qualify for waivers based on data from the entire interstate LMA. If the State Agency's geographic boundaries are entirely within one interstate LMA, such as the District of Columbia, the entire State may qualify for a waiver based on data from the entire interstate LMA;
 
-(4) *Effective date of certain waivers.* In areas for which the State certifies that data from the BLS or the BLS cooperating agency show a most recent 12 month average unemployment rate over 10 percent; or the area has been designated as a Labor Surplus Area by the Department of Labor's Employment and Training Administration for the current fiscal year, the State may begin to operate the waiver at the time the waiver request is submitted. FNS will contact the State if the waiver must be modified.
+(iii) A reservation area or a U.S. Territory. Each of these is considered to be an area for the purposes of waivers.
 
-(5) *Duration of waiver.* In general, waivers will be approved for one year. The duration of a waiver should bear some relationship to the documentation provided in support of the waiver request. FNS will consider approving waivers for up to one year based on documentation covering a shorter period, but the State agency must show that the basis for the waiver is not a seasonal or short term aberration. We reserve the right to approve waivers for a shorter period at the State agency's request or if the data is insufficient. We reserve the right to approve a waiver for a longer period if the reasons are compelling.
+(5) *Duration of waiver approvals.* In general, FNS will approve waivers for one year. FNS may approve waivers for a shorter period at the State agency's request. Waivers under paragraph (f)(2)(ii) of this section will be approved in accordance with paragraph (f)(2)(ii).
 
-(6) *Areas covered by waivers.* States may define areas to be covered by waivers. We encourage State agencies to submit data and analyses that correspond to the defined area. If corresponding data does not exist, State agencies should submit data that corresponds as closely to the area as possible.
+(6) *Areas with limited data or evidence.* Waiver requests for an area for which standard BLS data or data from a BLS-cooperating agency is limited or unavailable, such as a reservation area or U.S. Territory, are not required to conform to the criteria for approval under paragraphs (f)(2), (3), and (5) of this section. The supporting data or evidence provided by the State must be recent and must correspond to the requested area.
+
+(i) FNS may approve waivers for these areas if the requests are supported by sufficient data or evidence, such as:
+
+(A) Estimated unemployment rate based on available data from BLS and the U.S. Census Bureau;
+
+(B) A low and declining employment-to-population ratio;
+
+(C) A lack of jobs in declining occupations or industries; or
+
+(D) An academic study or other publication describing the area as lacking a sufficient number of jobs to provide employment for its residents.
+
+(ii) [Reserved]
 
 (g) *15 percent exemptions.* (1) For the purpose of establishing the 15 percent exemption for each State agency, the following terms are defined:
 
@@ -172,4 +184,4 @@ Link to an amendment published at 84 FR 66811, Dec. 5, 2019.
 
 (j) *Other Program rules.* Nothing in this section will make an individual eligible for SNAP benefits if the individual is not otherwise eligible for benefits under the other provisions of this part and the Food and Nutrition Act of 2008.
 
-[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006]
+[Amdt. 379, 64 FR 48257, Sept. 3, 1999, as amended at 66 FR 4469, Jan. 17, 2001; 67 FR 41618, June 19, 2002; 71 FR 33384, June 9, 2006; 84 FR 66811, Dec. 5, 2019]

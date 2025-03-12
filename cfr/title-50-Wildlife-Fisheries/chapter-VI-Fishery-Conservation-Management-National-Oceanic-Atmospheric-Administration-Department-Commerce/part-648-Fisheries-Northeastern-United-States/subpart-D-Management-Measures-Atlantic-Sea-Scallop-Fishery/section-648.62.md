@@ -1,7 +1,5 @@
 ##### § 648.62 Northern Gulf of Maine (NGOM) Management Program. #####
 
-Link to an amendment published at 85 FR 17766, Mar. 31, 2020.
-
 (a) The NGOM scallop management area is the area north of 42°20′ N lat. and within the boundaries of the Gulf of Maine Scallop Dredge Exemption Area as specified in § 648.80(h)(3)(i). To fish for or possess scallops in the NGOM scallop management area, a vessel must have been issued a scallop permit as specified in § 648.4(a)(2).
 
 (1) If a vessel has been issued a NGOM scallop permit, the vessel is restricted to fishing for or possessing scallops only in the NGOM scallop management area.
@@ -16,14 +14,16 @@ Link to an amendment published at 85 FR 17766, Mar. 31, 2020.
 
 (b) *Total allowable catch.* The total allowable catch for the NGOM scallop management area shall be specified through the framework adjustment process. The total allowable catch for the NGOM scallop management area shall be based on the Federal portion of the scallop resource in the NGOM. The total allowable catch shall be determined by historical landings until additional information on the NGOM scallop resource is available, for example through an NGOM resource survey and assessment. The ABC/ACL as defined in § 648.53(a) shall not include the total allowable catch for the NGOM scallop management area, and landings from the NGOM scallop management area shall not be counted against the ABC/ACL defined in § 648.53(a). The total allowable catch shall be divided between the limited access and the LAGC fleets.
 
-(1) *NGOM annual hard TACs.* The LAGC and the limited access portions of the annual hard TAC for the NGOM 2019 and 2020 fishing years are as follows:
+(1) The LAGC and the limited access portions of the annual hard TAC for the NGOM 2020 and 2021 fishing years are as follows:
 
-|    Fleet     | 2019  |2020 (default)|       |      |
-|--------------|-------|--------------|-------|------|
-|      lb      |  kg   |      lb      |  kg   |      |
-|     LAGC     |137,500|    62,369    |120,000|54,431|
-|Limited access|67,500 |    30,617    |50,000 |22,680|
-|    Total     |205,000|    92,986    |170,000|77,111|
+Table 1 to Paragraph (b)(1)
+
+|    Fleet     | 2020  |2021  <br/>(default)|       |       |
+|--------------|-------|--------------------|-------|-------|
+|      lb      |  kg   |         lb         |  kg   |       |
+|     LAGC     |206,282|       93,567       |167,500|75,977 |
+|Limited access|140,000|       63,503       |97,500 |44,225 |
+|    Total     |346,282|      157,071       |265,000|120,202|
 
 (2) Unless a vessel has fished for scallops outside of the NGOM scallop management area and is transiting the NGOM scallop management area with all fishing gear stowed and not available for immediate use as defined in § 648.2, no vessel issued an LAGC or limited access scallop permit pursuant to § 648.4(a)(2) may possess, retain, or land scallops in the NGOM scallop management area once the Regional Administrator has provided notification in the Federal Register that the vessel's respective portion(s) of the NGOM scallop total allowable catch in accordance with paragraph (b)(1) of this section has been reached, unless the vessel is participating in the scallop RSA program as specified in § 648.56, has been allocated NGOM RSA pounds, and the limited access portion of the NGOM TAC has not been reached. Once the NGOM hard TAC is reached, a vessel issued a NGOM permit may no longer declare a state-only NGOM scallop trip and fish for scallops exclusively in state waters within the NGOM, unless participating in the state waters exemption program as specified in § 648.54. A vessel that has not been issued a Federal scallop permit that fishes exclusively in state waters is not subject to the closure of the NGOM scallop management area.
 
@@ -33,4 +33,18 @@ Link to an amendment published at 85 FR 17766, Mar. 31, 2020.
 
 (d) *Gear restrictions.* Except scallop vessels issued a limited access scallop permit pursuant to § 648.4(a)(2)(i) that have properly declared a NGOM trip under the scallop RSA program, the combined dredge width in use by, or in possession on board, LAGC scallop vessels fishing in the NGOM scallop management area may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
 
-[73 FR 20131, Apr. 14, 2008, as amended at 75 FR 36576, June 28, 2010; 76 FR 43770, 43797, July 21, 2011; 77 FR 20741, Apr. 6, 2012; 78 FR 27108, May 9, 2013; 79 FR 52580, Sept. 4, 2014; 81 FR 26786, May 4, 2016; 81 FR 76529, Nov. 3, 2016; 82 FR 15163, Mar. 27, 2017; 83 FR 12862, Mar. 26, 2018; 84 FR 11445, Apr. 1, 2019; 85 FR 2324, Jan. 15, 2020]
+(e) *Stellwagen Bank Scallop Closed Area.* (1) From April 1, 2020 through March 31, 2022, unless a vessel has fished for scallops outside of the Stellwagen Bank scallop management area and is transiting the area with all fishing gear stowed and not available for immediate use as defined in § 648.2, no vessel issued a Federal scallop permit pursuant to § 648.4(a)(2) may possess, retain, or land scallops in the Stellwagen Bank Scallop Closed Area.
+
+(2) From April 1, 2020 through March 31, 2022, the Stellwagen Bank Scallop Closed Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
+
+Table 2 to Paragraph (e)(2)
+
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+| SB1 |  42°26′  |  70°27′   |
+| SB2 |  42°26′  |  70°15′   |
+| SB3 |  42°20′  |  70°15′   |
+| SB4 |  42°20′  |  70°27′   |
+| SB1 |  42°26′  |  70°27′   |
+
+[73 FR 20131, Apr. 14, 2008, as amended at 75 FR 36576, June 28, 2010; 76 FR 43770, 43797, July 21, 2011; 77 FR 20741, Apr. 6, 2012; 78 FR 27108, May 9, 2013; 79 FR 52580, Sept. 4, 2014; 81 FR 26786, May 4, 2016; 81 FR 76529, Nov. 3, 2016; 82 FR 15163, Mar. 27, 2017; 83 FR 12862, Mar. 26, 2018; 84 FR 11445, Apr. 1, 2019; 85 FR 2324, Jan. 15, 2020; 85 FR 17766, Mar. 31, 2020]

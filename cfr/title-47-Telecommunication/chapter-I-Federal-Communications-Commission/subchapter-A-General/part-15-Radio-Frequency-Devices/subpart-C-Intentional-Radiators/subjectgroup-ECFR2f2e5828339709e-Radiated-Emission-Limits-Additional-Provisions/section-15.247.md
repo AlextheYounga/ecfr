@@ -1,5 +1,7 @@
 ##### § 15.247 Operation within the bands 902-928 MHz, 2400-2483.5 MHz, and 5725-5850 MHz. #####
 
+Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
+
 (a) Operation under the provisions of this Section is limited to frequency hopping and digitally modulated intentional radiators that comply with the following provisions:
 
 (1) Frequency hopping systems shall have hopping channel carrier frequencies separated by a minimum of 25 kHz or the 20 dB bandwidth of the hopping channel, whichever is greater. Alternatively, frequency hopping systems operating in the 2400-2483.5 MHz band may have hopping channel carrier frequencies that are separated by 25 kHz or two-thirds of the 20 dB bandwidth of the hopping channel, whichever is greater, provided the systems operate with an output power no greater than 125 mW. The system shall hop to channel frequencies that are selected at the system hopping rate from a pseudo randomly ordered list of hopping frequencies. Each frequency must be used equally on the average by each transmitter. The system receivers shall have input bandwidths that match the hopping channel bandwidths of their corresponding transmitters and shall shift frequencies in synchronization with the transmitted signals.

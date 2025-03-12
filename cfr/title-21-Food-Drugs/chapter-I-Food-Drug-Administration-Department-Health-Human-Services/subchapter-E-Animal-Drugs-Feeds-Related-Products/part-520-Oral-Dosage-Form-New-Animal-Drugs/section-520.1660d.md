@@ -94,7 +94,7 @@
 
 (i) *Amount.* 200 milligrams per colony, administered via either a 1:1 sugar syrup (equal parts of sugar and water weight to weight) or dusting with a powdered sugar mixture. The drug is administered in 3 applications of sugar syrup or 3 dustings at 4- to 5-day intervals.
 
-(ii) *Indications for use.* For control of American foulbrood caused by *Paenibacillus larvae* and European foulbrood caused by *Streptococcus pluton* susceptible to oxytetracycline.
+(ii) *Indications for use.* For control of American foulbrood caused by *Paenibacillus larvae*.
 
 (iii) The drug should be fed early in the spring or fall and consumed by the bees before main honey flow begins to avoid contamination of production honey. Remove at least 6 weeks prior to main honey flow. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 

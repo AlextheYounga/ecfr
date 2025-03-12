@@ -1,7 +1,5 @@
 ##### § 324.32 General risk weights. #####
 
-Link to an amendment published at 85 FR 4431, Jan. 24, 2020.
-
 (a) *Sovereign exposures* - (1) *Exposures to the U.S. government.* (i) Notwithstanding any other requirement in this subpart, an FDIC-supervised institution must assign a zero percent risk weight to:
 
 (A) An exposure to the U.S. government, its central bank, or a U.S. government agency; and
@@ -125,7 +123,11 @@ Table 4 to § 324.32 - Risk Weights for non-U.S. PSE Revenue Obligations
 
 (6) An FDIC-supervised institution must assign a 150 percent risk weight to a PSE exposure immediately upon determining that an event of sovereign default has occurred in a PSE's home country or if an event of sovereign default has occurred in the PSE's home country during the previous five years.
 
-(f) *Corporate exposures.* An FDIC-supervised institution must assign a 100 percent risk weight to all its corporate exposures.
+(f) *Corporate exposures.* (1) A FDIC-supervised institution must assign a 100 percent risk weight to all its corporate exposures, except as provided in paragraph (f)(2) of this section.
+
+(2) A FDIC-supervised institution must assign a 2 percent risk weight to an exposure to a QCCP arising from the FDIC-supervised institution posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 324.35(b)(3)(i)(A) and a 4 percent risk weight to an exposure to a QCCP arising from the FDIC-supervised institution posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 324.35(b)(3)(i)(B).
+
+(3) A FDIC-supervised institution must assign a 2 percent risk weight to an exposure to a QCCP arising from the FDIC-supervised institution posting cash collateral to the QCCP in connection with a cleared transaction that meets the requirements of § 324.35(c)(3)(i).
 
 (g) *Residential mortgage exposures.* (1) An FDIC-supervised institution must assign a 50 percent risk weight to a first-lien residential mortgage exposure that:
 
@@ -177,4 +179,4 @@ Table 4 to § 324.32 - Risk Weights for non-U.S. PSE Revenue Obligations
 
 (ii) The risks associated with the asset are substantially similar to the risks of assets that are otherwise assigned to a risk weight category of less than 100 percent under this subpart.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 84 FR 35275, July 22, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20759, Apr. 14, 2014; 84 FR 35275, July 22, 2019; 85 FR 4431, Jan. 24, 2020]

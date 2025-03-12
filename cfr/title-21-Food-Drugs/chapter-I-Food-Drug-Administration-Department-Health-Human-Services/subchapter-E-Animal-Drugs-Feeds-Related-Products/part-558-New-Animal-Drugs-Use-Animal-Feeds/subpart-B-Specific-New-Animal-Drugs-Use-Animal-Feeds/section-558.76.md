@@ -48,15 +48,15 @@
 
 (vi) Diclazuril as in § 558.198.
 
-(vii) Fenbendazole as in § 588.258.
+(vii) Fenbendazole as in § 558.258.
 
-(viii) Halofuginone hydrobromide as in § 558.265.
+(viii) Halofuginone as in § 558.265.
 
 (ix) Ivermectin as in § 558.300.
 
 (x) Lasalocid as in § 558.311.
 
-(xi) Monensin as in § 588.355.
+(xi) Monensin as in § 558.355.
 
 (xii) Narasin as in § 558.363.
 

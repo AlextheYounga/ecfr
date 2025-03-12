@@ -16,7 +16,7 @@
 
 (b)(1) *Specifications. n*-Butyl chloride capsules contain 221, 442, 884, or 1,768 milligrams or 4.42 grams of *n*-butyl chloride in each capsule.
 
-(2) *Sponsors.* See No. 023851 in § 510.600(c) of this chapter for 221, 442, 884, or 1,768 milligram or 4.42 gram capsules; No. 038782 for 884 or 1,768 milligram or 4.42 gram capsules; and No. 054771 for 221 milligram capsules.
+(2) *Sponsors.* See No. 023851 in § 510.600(c) of this chapter for 221, 442, 884, or 1,768 milligram or 4.42 gram capsules; and No. 054771 for 221 milligram capsules.
 
 (3) *Conditions of use.* (i) It is used for the removal of ascarids (*Toxocara canis* and *Toxascaris leonina*) and hookworms (*Ancylostoma caninum, Ancylostoma braziliense,* and *Uncinaria stenocephala*) from dogs.
 
@@ -26,4 +26,4 @@
 
 (iii) A veterinarian should be consulted before using in severely debilitated dogs.
 
-[40 FR 13838, Mar. 27, 1975, as amended at 40 FR 39858, Aug. 29, 1975; 44 FR 10059, Feb. 16, 1979; 54 FR 38515, Sept. 19, 1989; 55 FR 24556, June 18, 1990; 64 FR 15684, Apr. 1, 1999; 70 FR 50182, Aug. 26, 2005; 78 FR 14669, Mar. 7, 2013; 79 FR 28818, May 20, 2014]Editorial Note:At 78 FR 14669, Mar. 7, 2013, § 520.260 was amended by adding paragraphs (b)(1) through (3); however, the amendment could not be incorporated because (b)(1) through (3) already existed.
+[40 FR 13838, Mar. 27, 1975, as amended at 40 FR 39858, Aug. 29, 1975; 44 FR 10059, Feb. 16, 1979; 54 FR 38515, Sept. 19, 1989; 55 FR 24556, June 18, 1990; 64 FR 15684, Apr. 1, 1999; 70 FR 50182, Aug. 26, 2005; 78 FR 14669, Mar. 7, 2013; 79 FR 28818, May 20, 2014; 85 FR 18119, Apr. 1, 2020]Editorial Note:At 78 FR 14669, Mar. 7, 2013, § 520.260 was amended by adding paragraphs (b)(1) through (3); however, the amendment could not be incorporated because (b)(1) through (3) already existed.

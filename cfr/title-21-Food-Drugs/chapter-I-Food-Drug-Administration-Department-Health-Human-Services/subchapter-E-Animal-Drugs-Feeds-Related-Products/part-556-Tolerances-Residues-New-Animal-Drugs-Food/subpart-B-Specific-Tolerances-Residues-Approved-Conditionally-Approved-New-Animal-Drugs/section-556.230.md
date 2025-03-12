@@ -12,6 +12,6 @@
 
 (ii) Eggs: 0.025 ppm.
 
-(3) *Swine.* Edible tissues: 0.1 ppm.
-
 (c) *Related conditions of use.* See §§ 520.823, 522.820, 526.820, and 558.248 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020]

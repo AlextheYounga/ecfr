@@ -1,15 +1,13 @@
-##### § 520.1696b Penicillin G powder. #####
+##### § 520.1696b Penicillin V powder. #####
 
-(a) *Specifications.* Each gram of powder contains penicillin G potassium equivalent to 1.54 million units of penicillin G.
+(a) *Specifications.* When reconstituted, each milliliter contains 25 milligrams (40,000 units) of penicillin V.
 
-(b) *Sponsors.* See Nos. 010515, 016592, 054771, 061133 and 076475 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See § 556.510 of this chapter.
+(c) *Conditions of use in dogs and cats*—(1) *Amount.* 10 to 15 milligrams per pound of body weight every 6 to 8 hours.
 
-(d) *Conditions of use in turkeys* - (1) *Amount.* 1,500,000 units per gallon drinking water for 5 days.
+(2) *Indications for use.* Treatment of respiratory, urogenital, skin, and soft tissue infections and septicemia caused by pathogens susceptible to penicillin V potassium.
 
-(2) *Indications for use.* Treatment of erysipelas caused by *Erysipelothrix rhusiopathiae.*
+(3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(3) *Limitations.* Discontinue treatment at least 1 day prior to slaughter. Not for use in turkeys producing eggs for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
-
-[57 FR 37326, Aug. 18, 1992, as amended at 59 FR 42493, Aug. 18, 1994; 60 FR 26359, May 17, 1995; 62 FR 55160, Oct. 23, 1997; 65 FR 10705, Feb. 29, 2000; 66 FR 14073, Mar. 9, 2001; 68 FR 4914, Jan. 31, 2003; 68 FR 26204, May 15, 2003; 69 FR 9946, Mar. 3, 2004; 69 FR 41428, July 9, 2004; 77 FR 20988, Apr. 9, 2012; 78 FR 28825, May 20, 2014; 81 FR 22523, Apr. 18, 2016; 81 FR 36789, June 8, 2016; 81 FR 94990, Dec. 27, 2016; 84 FR 8973, Mar. 13, 2019]
+[57 FR 37326, Aug. 18, 1992; 57 FR 42623, Sept. 15, 1992; 77 FR 20988, Apr. 9, 2012; 78 FR 28826, May 20, 2014; 84 FR 39183, Aug. 9, 2019. Redesignated at 85 FR 18119, Apr. 1, 2020]

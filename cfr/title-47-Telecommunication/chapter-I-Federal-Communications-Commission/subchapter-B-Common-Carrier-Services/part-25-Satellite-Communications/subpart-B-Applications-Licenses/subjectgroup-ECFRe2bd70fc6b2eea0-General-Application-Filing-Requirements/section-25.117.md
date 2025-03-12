@@ -1,5 +1,7 @@
 ##### § 25.117 Modification of station license. #####
 
+Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
+
 (a) Except as provided for in § 25.118 (Modifications not requiring prior authorization), no modification of a radio station governed by this part which affects the parameters or terms and conditions of the station authorization shall be made except upon application to and grant of such application by the Commission.
 
 (b) Both earth station and space station modification applications must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.

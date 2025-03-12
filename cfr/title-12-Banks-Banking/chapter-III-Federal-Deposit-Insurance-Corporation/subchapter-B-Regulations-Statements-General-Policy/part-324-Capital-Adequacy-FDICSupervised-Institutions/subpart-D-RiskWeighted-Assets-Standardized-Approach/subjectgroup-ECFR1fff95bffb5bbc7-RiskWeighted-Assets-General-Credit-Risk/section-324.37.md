@@ -1,7 +1,5 @@
 ##### § 324.37 Collateralized transactions. #####
 
-Link to an amendment published at 85 FR 4433, Jan. 24, 2020.
-
 (a) *General.* (1) To recognize the risk-mitigating effects of financial collateral, an FDIC-supervised institution may use:
 
 (i) The simple approach in paragraph (b) of this section for any exposure; or
@@ -77,11 +75,11 @@ Table 1 to § 324.37 - Standard Supervisory Market Price Volatility Haircuts<sup
 
 (ii) For currency mismatches, an FDIC-supervised institution must use a haircut for foreign exchange rate volatility (Hfx) of 8.0 percent, as adjusted in certain circumstances under paragraphs (c)(3)(iii) and (iv) of this section.
 
-(iii) For repo-style transactions, an FDIC-supervised institution may multiply the standard supervisory haircuts provided in paragraphs (c)(3)(i) and (ii) of this section by the square root of 1/2 (which equals 0.707107).
+(iii) For repo-style transactions and client-facing derivative transactions, a FDIC-supervised institution may multiply the standard supervisory haircuts provided in paragraphs (c)(3)(i) and (ii) of this section by the square root of1/2 (which equals 0.707107). For client-facing derivative transactions, if a larger scaling factor is applied under § 324.34(f), the same factor must be used to adjust the supervisory haircuts.
 
 (iv) If the number of trades in a netting set exceeds 5,000 at any time during a quarter, an FDIC-supervised institution must adjust the supervisory haircuts provided in paragraphs (c)(3)(i) and (ii) of this section upward on the basis of a holding period of twenty business days for the following quarter except in the calculation of the exposure amount for purposes of § 324.35. If a netting set contains one or more trades involving illiquid collateral or an OTC derivative that cannot be easily replaced, an FDIC-supervised institution must adjust the supervisory haircuts upward on the basis of a holding period of twenty business days. If over the two previous quarters more than two margin disputes on a netting set have occurred that lasted more than the holding period, then the FDIC-supervised institution must adjust the supervisory haircuts upward for that netting set on the basis of a holding period that is at least two times the minimum holding period for that netting set. An FDIC-supervised institution must adjust the standard supervisory haircuts upward using the following formula:
 
-![](/graphics/er10se13.020.gif)(A) TM equals a holding period of longer than 10 business days for eligible margin loans and derivative contracts or longer than 5 business days for repo-style transactions;(B) HS equals the standard supervisory haircut; and(C) TS equals 10 business days for eligible margin loans and derivative contracts or 5 business days for repo-style transactions.
+![](/graphics/er10se13.020.gif)(A) TM equals a holding period of longer than 10 business days for eligible margin loans and derivative contracts other than client-facing derivative transactions or longer than 5 business days for repo-style transactions and client-facing derivative transactions;(B) HS equals the standard supervisory haircut; and(C) TS equals 10 business days for eligible margin loans and derivative contracts other than client-facing derivative transactions or 5 business days for repo-style transactions and client-facing derivative transactions.
 
 (v) If the instrument an FDIC-supervised institution has lent, sold subject to repurchase, or posted as collateral does not meet the definition of financial collateral, the FDIC-supervised institution must use a 25.0 percent haircut for market price volatility (Hs).
 
@@ -91,9 +89,9 @@ Table 1 to § 324.37 - Standard Supervisory Market Price Volatility Haircuts<sup
 
 (A) An FDIC-supervised institution must use a 99th percentile one-tailed confidence interval.
 
-(B) The minimum holding period for a repo-style transaction is five business days and for an eligible margin loan is ten business days except for transactions or netting sets for which paragraph (c)(4)(i)(C) of this section applies. When an FDIC-supervised institution calculates an own-estimates haircut on a TN-day holding period, which is different from the minimum holding period for the transaction type, the applicable haircut (HM) is calculated using the following square root of time formula:
+(B) The minimum holding period for a repo-style transaction and client-facing derivative transaction is five business days and for an eligible margin loan and a derivative contract other than a client-facing derivative transaction is ten business days except for transactions or netting sets for which paragraph (c)(4)(i)(C) of this section applies. When a FDIC-supervised institution calculates an own-estimates haircut on a TN-day holding period, which is different from the minimum holding period for the transaction type, the applicable haircut (HM) is calculated using the following square root of time formula:
 
-![](/graphics/er10se13.021.gif)(*1*) TM equals 5 for repo-style transactions and 10 for eligible margin loans;(*2*) TN equals the holding period used by the FDIC-supervised institution to derive HN; and(*3*) HN equals the haircut based on the holding period TN.
+![](/graphics/er10se13.021.gif)(*1*) TM equals 5 for repo-style transactions and client-facing derivative transactions and 10 for eligible margin loans and derivative contracts other than client-facing derivative transactions;(*2*) TN equals the holding period used by the FDIC-supervised institution to derive HN; and(*3*) HN equals the haircut based on the holding period TN.
 
 (C) If the number of trades in a netting set exceeds 5,000 at any time during a quarter, an FDIC-supervised institution must calculate the haircut using a minimum holding period of twenty business days for the following quarter except in the calculation of the exposure amount for purposes of § 324.35. If a netting set contains one or more trades involving illiquid collateral or an OTC derivative that cannot be easily replaced, an FDIC-supervised institution must calculate the haircut using a minimum holding period of twenty business days. If over the two previous quarters more than two margin disputes on a netting set have occurred that lasted more than the holding period, then the FDIC-supervised institution must calculate the haircut for transactions in that netting set on the basis of a holding period that is at least two times the minimum holding period for that netting set.
 
@@ -121,4 +119,4 @@ Table 1 to § 324.37 - Standard Supervisory Market Price Volatility Haircuts<sup
 
 (v) An FDIC-supervised institution's own estimates of market price and foreign exchange rate volatilities may not take into account the correlations among securities and foreign exchange rates on either the exposure or collateral side of a transaction (or netting set) or the correlations among securities and foreign exchange rates between the exposure and collateral sides of the transaction (or netting set).
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014; 84 FR 35277, July 22, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014; 84 FR 35277, July 22, 2019; 85 FR 4433, Jan. 24, 2020]

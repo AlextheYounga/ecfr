@@ -1,7 +1,5 @@
 ##### § 3.2 Definitions. #####
 
-Link to an amendment published at 84 FR 68031, Dec. 13, 2019.Link to an amendment published at 85 FR 4400, Jan. 24, 2020.Link to an amendment published at 85 FR 4577, Jan. 27, 2020.
-
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 3.20(c).
@@ -49,6 +47,8 @@ As used in this part:
 *Bank Holding Company Act* means the Bank Holding Company Act of 1956, as amended (12 U.S.C. 1841 *et seq.*).
 
 *Bankruptcy remote* means, with respect to an entity or asset, that the entity or asset would be excluded from an insolvent entity's estate in receivership, insolvency, liquidation, or similar proceeding.
+
+*Basis derivative contract* means a non-foreign-exchange derivative contract (*i.e.,* the contract is denominated in a single currency) in which the cash flows of the derivative contract depend on the difference between two risk factors that are attributable solely to one of the following derivative asset classes: Interest rate, credit, equity, or commodity.
 
 *Call Report* means Consolidated Reports of Condition and Income.
 
@@ -144,6 +144,8 @@ As used in this part:
 
 *Clearing member client* means a party to a cleared transaction associated with a CCP in which a clearing member acts either as a financial intermediary with respect to the party or guarantees the performance of the party to the CCP.
 
+*Client-facing derivative transaction* means a derivative contract that is not a cleared transaction where the national bank or Federal savings association is either acting as a financial intermediary and enters into an offsetting transaction with a qualifying central counterparty (QCCP) or where the national bank or Federal savings association provides a guarantee on the performance of a client on a transaction between the client and a QCCP.
+
 *Collateral agreement* means a legal contract that specifies the time when, and circumstances under which, a counterparty is required to pledge collateral to a national bank or Federal savings association for a single financial contract or for all financial contracts in a netting set and confers upon the national bank or Federal savings association a perfected, first-priority security interest (notwithstanding the prior security interest of any custodial agent), or the legal equivalent thereof, in the collateral posted by the counterparty under the agreement. This security interest must provide the national bank or Federal savings association with a right to close-out the financial positions and liquidate the collateral upon an event of default of, or failure to perform by, the counterparty under the collateral agreement. A contract would not satisfy this requirement if the national bank's or Federal savings association's exercise of rights under the agreement may be stayed or avoided:
 
 (1) Under applicable law in the relevant jurisdictions, other than:
@@ -155,6 +157,22 @@ As used in this part:
 (ii) Where the agreement is subject by its terms to any of the laws referenced in paragraph (1)(i) of this definition; or
 
 (2) Other than to the extent necessary for the counterparty to comply with the requirements of part 47, subpart I of part 252, and part 382 of this title 12, as applicable.
+
+*Commercial end-user* means an entity that:
+
+(1)(i) Is using derivative contracts to hedge or mitigate commercial risk; and
+
+(ii)(A) Is not an entity described in section 2(h)(7)(C)(i)(I) through (VIII) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(C)(i)(I) through (VIII)); or
+
+(B) Is not a “financial entity” for purposes of section 2(h)(7) of the Commodity Exchange Act (7 U.S.C. 2(h)) by virtue of section 2(h)(7)(C)(iii) of the Act (7 U.S.C. 2(h)(7)(C)(iii)); or
+
+(2)(i) Is using derivative contracts to hedge or mitigate commercial risk; and
+
+(ii) Is not an entity described in section 3C(g)(3)(A)(i) through (viii) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(3)(A)(i) through (viii)); or
+
+(3) Qualifies for the exemption in section 2(h)(7)(A) of the Commodity Exchange Act (7 U.S.C. 2(h)(7)(A)) by virtue of section 2(h)(7)(D) of the Act (7 U.S.C. 2(h)(7)(D)); or
+
+(4) Qualifies for an exemption in section 3C(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(1)) by virtue of section 3C(g)(4) of the Act (15 U.S.C. 78c-3(g)(4)).
 
 *Commitment* means any legally binding arrangement that obligates a national bank or Federal savings association to extend credit or to purchase assets.
 
@@ -254,11 +272,13 @@ As used in this part:
 
 *Current Expected Credit Losses (CECL)* means the current expected credit losses methodology under GAAP.
 
-*Current exposure* means, with respect to a netting set, the larger of zero or the fair value of a transaction or portfolio of transactions within the netting set that would be lost upon default of the counterparty, assuming no recovery on the value of the transactions. Current exposure is also called replacement cost.
+*Current exposure* means, with respect to a netting set, the larger of zero or the fair value of a transaction or portfolio of transactions within the netting set that would be lost upon default of the counterparty, assuming no recovery on the value of the transactions.
 
-*Current exposure methodology* means the method of calculating the exposure amount for over-the-counter derivative contracts in § 3.34(a) and exposure at default (EAD) in § 3.132(c)(5) or (6), as applicable.
+*Current exposure methodology* means the method of calculating the exposure amount for over-the-counter derivative contracts in § 3.34(b).
 
 *Custodian* means a financial institution that has legal custody of collateral provided to a CCP.
+
+*Custody bank* means a national bank or Federal savings association that is a subsidiary of a depository institution holding company that is a custodial banking organization under 12 CFR 217.2.
 
 *Default fund contribution* means the funds contributed or commitments made by a clearing member to a CCP's mutualized loss sharing arrangement.
 
@@ -472,6 +492,8 @@ As used in this part:
 
 *Federal Deposit Insurance Corporation Improvement Act* means the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4401).
 
+*Fiduciary or custodial and safekeeping account* means, for purposes of § 3.10(c)(4)(ii)(J), an account administered by a custody bank for which the custody bank provides fiduciary or custodial and safekeeping services, as authorized by applicable Federal or state law.
+
 *Financial collateral* means collateral:
 
 (1) In the form of:
@@ -490,7 +512,7 @@ As used in this part:
 
 (vii) Money market fund shares and other mutual fund shares if a price for the shares is publicly quoted daily; and
 
-(2) In which the national bank or Federal savings association has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof (with the exception of cash on deposit and notwithstanding the prior security interest of any custodial agent).
+(2) In which the national bank and Federal savings association has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof (with the exception of cash on deposit; and notwithstanding the prior security interest of any custodial agent or any priority security interest granted to a CCP in connection with collateral posted to that CCP).
 
 *Federal savings association* means an insured Federal savings association or an insured Federal savings bank chartered under section 5 of the Home Owners' Loan Act of 1933.
 
@@ -562,27 +584,63 @@ As used in this part:
 
 *Guarantee* means a financial guarantee, letter of credit, insurance, or other similar financial instrument (other than a credit derivative) that allows one party (beneficiary) to transfer the credit risk of one or more specific exposures (reference exposure) to another party (protection provider).
 
-*High volatility commercial real estate (HVCRE) exposure* means a credit facility that, prior to conversion to permanent financing, finances or has financed the acquisition, development, or construction (ADC) of real property, unless the facility finances:
+*High volatility commercial real estate (HVCRE) exposure* means:
 
-(1) One- to four-family residential properties;
+(1) A credit facility secured by land or improved real property that, prior to being reclassified by the depository institution as a non-HVCRE exposure pursuant to paragraph (6) of this definition -
 
-(2) Real property that:
+(i) Primarily finances, has financed, or refinances the acquisition, development, or construction of real property;
 
-(i) Would qualify as an investment in community development under 12 U.S.C. 338a or 12 U.S.C. 24 (Eleventh), as applicable, or as a “qualified investment” under 12 CFR parts 25 (national banks) and 195 (Federal savings associations), and
+(ii) Has the purpose of providing financing to acquire, develop, or improve such real property into income-producing real property; and
 
-(ii) Is not an ADC loan to any entity described in 12 CFR 25.12(g)(3) (national banks) and 12 CFR 195.12(g)(3) (Federal savings associations), unless it is otherwise described in paragraph (1), (2)(i), (3) or (4) of this definition;
+(iii) Is dependent upon future income or sales proceeds from, or refinancing of, such real property for the repayment of such credit facility;
 
-(3) The purchase or development of agricultural land, which includes all land known to be used or usable for agricultural purposes (such as crop and livestock production), provided that the valuation of the agricultural land is based on its value for agricultural purposes and the valuation does not take into consideration any potential use of the land for non-agricultural commercial development or residential development; or
+(2) An HVCRE exposure does not include a credit facility financing -
 
-(4) Commercial real estate projects in which:
+(i) The acquisition, development, or construction of properties that are -
 
-(i) The loan-to-value ratio is less than or equal to the applicable maximum supervisory loan-to-value ratio in the OCC's real estate lending standards at 12 CFR part 34, subpart D (national banks) and 12 CFR part 160, subparts A and B (Federal savings associations);
+(A) One- to four-family residential properties. Credit facilities that do not finance the construction of one- to four-family residential structures, but instead solely finance improvements such as the laying of sewers, water pipes, and similar improvements to land, do not qualify for the one- to four-family residential properties exclusion;
 
-(ii) The borrower has contributed capital to the project in the form of cash or unencumbered readily marketable assets (or has paid development expenses out-of-pocket) of at least 15 percent of the real estate's appraised “as completed” value; and
+(B) Real property that would qualify as an investment in community development; or
 
-(iii) The borrower contributed the amount of capital required by paragraph (4)(ii) of this definition before the national bank or Federal savings association advances funds under the credit facility, and the capital contributed by the borrower, or internally generated by the project, is contractually required to remain in the project throughout the life of the project. The life of a project concludes only when the credit facility is converted to permanent financing or is sold or paid in full. Permanent financing may be provided by the national bank or Federal savings association that provided the ADC facility as long as the permanent financing is subject to the national bank's or Federal savings association's underwriting criteria for long-term mortgage loans.
+(C) Agricultural land;
+
+(ii) The acquisition or refinance of existing income-producing real property secured by a mortgage on such property, if the cash flow being generated by the real property is sufficient to support the debt service and expenses of the real property, in accordance with the national bank's or Federal savings association's applicable loan underwriting criteria for permanent financings;
+
+(iii) Improvements to existing income-producing improved real property secured by a mortgage on such property, if the cash flow being generated by the real property is sufficient to support the debt service and expenses of the real property, in accordance with the national bank's or Federal savings association's applicable loan underwriting criteria for permanent financings; or
+
+(iv) Commercial real property projects in which -
+
+(A) The loan-to-value ratio is less than or equal to the applicable maximum supervisory loan-to-value ratio as determined by the OCC;
+
+(B) The borrower has contributed capital of at least 15 percent of the real property's appraised, `as completed' value to the project in the form of -
+
+(*1*) Cash;
+
+(*2*) Unencumbered readily marketable assets;
+
+(*3*) Paid development expenses out-of-pocket; or
+
+(*4*) Contributed real property or improvements; and
+
+(C) The borrower contributed the minimum amount of capital described under paragraph (2)(iv)(B) of this definition before the national bank or Federal savings association advances funds (other than the advance of a nominal sum made in order to secure the national bank's or Federal savings association's lien against the real property) under the credit facility, and such minimum amount of capital contributed by the borrower is contractually required to remain in the project until the HVCRE exposure has been reclassified by the national bank or Federal savings association as a non-HVCRE exposure under paragraph (6) of this definition;
+
+(3) An HVCRE exposure does not include any loan made prior to January 1, 2015; and
+
+(4) An HVCRE exposure does not include a credit facility reclassified as a non-HVCRE exposure under paragraph (6) of this definition.
+
+(5) Value of contributed real property: For the purposes of this HVCRE exposure definition, the value of any real property contributed by a borrower as a capital contribution shall be the appraised value of the property as determined under standards prescribed pursuant to section 1110 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3339), in connection with the extension of the credit facility or loan to such borrower.
+
+(6) Reclassification as a non-HVCRE exposure: For purposes of this HVCRE exposure definition and with respect to a credit facility and a national bank or Federal savings association, a national bank or Federal savings association may reclassify an HVCRE exposure as a non-HVCRE exposure upon -
+
+(i) The substantial completion of the development or construction of the real property being financed by the credit facility; and
+
+(ii) Cash flow being generated by the real property being sufficient to support the debt service and expenses of the real property, in accordance with the national bank's or Federal savings association's applicable loan underwriting criteria for permanent financings.
+
+(7) For purposes of this definition, a national bank or Federal savings association is not required to reclassify a credit facility that was originated on or after January 1, 2015 and prior to April 1, 2020.
 
 *Home country* means the country where an entity is incorporated, chartered, or similarly established.
+
+*Independent collateral* means financial collateral, other than variation margin, that is subject to a collateral agreement, or in which a national bank and Federal savings association has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof (with the exception of cash on deposit; notwithstanding the prior security interest of any custodial agent or any prior security interest granted to a CCP in connection with collateral posted to that CCP), and the amount of which does not change directly in response to the value of the derivative contract or contracts that the financial collateral secures.
 
 *Indirect exposure* means an exposure that arises from the national bank's or Federal savings association's investment in an investment fund which holds an investment in the national bank's or Federal savings association's own capital instrument or an investment in the capital of an unconsolidated financial institution.
 
@@ -616,6 +674,8 @@ As used in this part:
 
 *Market risk national bank or Federal savings association* means a national bank or Federal savings association that is described in § 3.201(b).
 
+*Minimum transfer amount* means the smallest amount of variation margin that may be transferred between counterparties to a netting set pursuant to the variation margin agreement.
+
 *Money market fund* means an investment fund that is subject to 17 CFR 270.2a-7 or any foreign equivalent thereof.
 
 *Mortgage servicing assets (MSAs)* means the contractual rights owned by a national bank or Federal savings association to service for a fee mortgage loans that are owned by others.
@@ -624,7 +684,9 @@ As used in this part:
 
 *National Bank Act* means the National Bank Act (12 U.S.C. 24).
 
-*Netting set* means a group of transactions with a single counterparty that are subject to a qualifying master netting agreement or a qualifying cross-product master netting agreement. For purposes of calculating risk-based capital requirements using the internal models methodology in subpart E of this part, this term does not cover a transaction:
+*Net independent collateral amount* means the fair value amount of the independent collateral, as adjusted by the standard supervisory haircuts under § 3.132(b)(2)(ii), as applicable, that a counterparty to a netting set has posted to a national bank or Federal savings association less the fair value amount of the independent collateral, as adjusted by the standard supervisory haircuts under § 3.132(b)(2)(ii), as applicable, posted by the national bank or Federal savings association to the counterparty, excluding such amounts held in a bankruptcy remote manner or posted to a QCCP and held in conformance with the operational requirements in § 3.3.
+
+*Netting set* means a group of transactions with a single counterparty that are subject to a qualifying master netting agreement. For derivative contracts, netting set also includes a single derivative contract between a national bank or Federal savings association and a single counterparty. For purposes of the internal model methodology under § 3.132(d), netting set also includes a group of transactions with a single counterparty that are subject to a qualifying cross-product master netting agreement and does not include a transaction:
 
 (1) That is not subject to such a master netting agreement; or
 
@@ -689,6 +751,18 @@ As used in this part:
 (ii) Provides a liquid, two-way market for the instrument in question.
 
 *Public sector entity (PSE)* means a state, local authority, or other governmental subdivision below the sovereign level.
+
+*Qualifying central bank* means:
+
+(1) A Federal Reserve Bank;
+
+(2) The European Central Bank; and
+
+(3) The central bank of any member country of the OECD, if:
+
+(i) Sovereign exposures to the member country would receive a zero percent risk-weight under § 3.32; and
+
+(ii) The sovereign debt of the member country is not in default or has not been in default during the previous 5 years.
 
 *Qualifying central counterparty (QCCP)* means a central counterparty that:
 
@@ -832,6 +906,8 @@ As used in this part:
 
 (2) The counterparty and the reference asset of the transaction, are affiliates or are the same entity.
 
+*Speculative grade* means the reference entity has adequate capacity to meet financial commitments in the near term, but is vulnerable to adverse economic conditions, such that should economic conditions deteriorate, the reference entity would present an elevated default risk.
+
 *Standardized market risk-weighted assets* means the standardized measure for market risk calculated under § 3.204 multiplied by 12.5.
 
 *Standardized total risk-weighted assets* means:
@@ -867,6 +943,8 @@ As used in this part:
 (5) Annual net operating income (before making any payment on the loan) generated by the property securing the loan during its most recent fiscal year must not be less than 120 percent of the loan's current annual debt service (or 115 percent of current annual debt service if the loan is based on an interest rate that changes over the term of the loan) or, in the case of a cooperative or other not-for-profit housing project, the property must generate sufficient cash flow to provide comparable protection to the national bank or Federal savings association; and
 
 (6) The loan is not more than 90 days past due, or on nonaccrual.
+
+*Sub-speculative grade* means the reference entity depends on favorable economic conditions to meet its financial commitments, such that should such economic conditions deteriorate the reference entity likely would default on its financial commitments.
 
 *Subsidiary* means, with respect to a company, a company controlled by that company.
 
@@ -942,6 +1020,16 @@ As used in this part:
 
 *Value-at-Risk (VaR)* means the estimate of the maximum amount that the value of one or more exposures could decline due to market price or rate movements during a fixed holding period within a stated confidence interval.
 
+*Variation margin* means financial collateral that is subject to a collateral agreement provided by one party to its counterparty to meet the performance of the first party's obligations under one or more transactions between the parties as a result of a change in value of such obligations since the last time such financial collateral was provided.
+
+*Variation margin agreement* means an agreement to collect or post variation margin.
+
+*Variation margin amount* means the fair value amount of the variation margin, as adjusted by the standard supervisory haircuts under § 3.132(b)(2)(ii), as applicable, that a counterparty to a netting set has posted to a national bank or Federal savings association less the fair value amount of the variation margin, as adjusted by the standard supervisory haircuts under § 3.132(b)(2)(ii), as applicable, posted by the national bank or Federal savings association to the counterparty.
+
+*Variation margin threshold* means the amount of credit exposure of a national bank or Federal savings association to its counterparty that, if exceeded, would require the counterparty to post variation margin to the national bank or Federal savings association pursuant to the variation margin agreement.
+
+*Volatility derivative contract* means a derivative contract in which the payoff of the derivative contract explicitly depends on a measure of the volatility of an underlying risk factor to the derivative contract.
+
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019; 84 FR 61792, Nov. 13, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019; 84 FR 61792, Nov. 13, 2019; 84 FR 68031, Dec. 13, 2019; 85 FR 4400, Jan. 24, 2020; 85 FR 4577, Jan. 27, 2020]

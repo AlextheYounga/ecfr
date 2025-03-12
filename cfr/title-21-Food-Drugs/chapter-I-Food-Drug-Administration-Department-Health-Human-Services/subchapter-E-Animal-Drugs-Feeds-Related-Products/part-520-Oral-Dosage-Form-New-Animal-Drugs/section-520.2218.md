@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See No. 016592 in § 510.600(c) of this chapter.
 
-(c) *Related tolerances.* See §§ 556.670 and 556.685 of this chapter.
+(c) *Related tolerances.* See §§ 556.660, 556.670, and 556.685 of this chapter.
 
 (d) *Conditions of use* - (1) *Chickens* - (i) *Amounts and indications for use* - (A) As an aid in the control of coccidiosis caused by *Eimeria tenella* and *E. necatrix* susceptible to sulfamerazine, sulfamethazine, and sulfaquinoxaline: Provide medicated water (0.04 percent solution) for 2 to 3 days, then plain water for 3 days, then medicated water (0.025 percent solution) for 2 days. If bloody droppings appear, repeat at 0.025 percent level for 2 more days. Do not change litter.
 
@@ -18,4 +18,4 @@
 
 (ii) *Limitations.* Do not treat turkeys within 14 days of slaughter for food. Do not medicate turkeys producing eggs for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[71 FR 13001, Mar. 14, 2006, as amended at 79 FR 28829, May 20, 2014; 80 FR 34278, June 16, 2015; 81 FR 22523, Apr. 18, 2016; 81 FR 94990, Dec. 27, 2016]
+[71 FR 13001, Mar. 14, 2006, as amended at 79 FR 28829, May 20, 2014; 80 FR 34278, June 16, 2015; 81 FR 22523, Apr. 18, 2016; 81 FR 94990, Dec. 27, 2016; 85 FR 18119, Apr. 1, 2020]

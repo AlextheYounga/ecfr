@@ -1,5 +1,7 @@
 ##### § 1.1310 Radiofrequency radiation exposure limits. #####
 
+Link to an amendment published at 85 FR 18145, Apr. 1, 2020.
+
 (a) Specific absorption rate (SAR) shall be used to evaluate the environmental impact of human exposure to radiofrequency (RF) radiation as specified in § 1.1307(b) within the frequency range of 100 kHz to 6 GHz (inclusive).
 
 (b) The SAR limits for occupational/controlled exposure are 0.4 W/kg, as averaged over the whole body, and a peak spatial-average SAR of 8 W/kg, averaged over any 1 gram of tissue (defined as a tissue volume in the shape of a cube). Exceptions are the parts of the human body treated as extremities, such as hands, wrists, feet, ankles, and pinnae, where the peak spatial-average SAR limit for occupational/controlled exposure is 20 W/kg, averaged over any 10 grams of tissue (defined as a tissue volume in the shape of a cube). Exposure may be averaged over a time period not to exceed 6 minutes to determine compliance with occupational/controlled SAR limits.

@@ -1,12 +1,8 @@
 ##### § 324.300 Transitions. #####
 
-Link to an amendment published at 85 FR 4443, Jan. 24, 2020.
-
 (a) *Capital conservation and countercyclical capital buffer.* (1) From January 1, 2014, through December 31, 2015, an FDIC-supervised institution is not subject to limits on distributions and discretionary bonus payments under § 324.11 notwithstanding the amount of its capital conservation buffer or any applicable countercyclical capital buffer amount.
 
 (2) Beginning January 1, 2016, through December 31, 2018, an FDIC-supervised institution's maximum payout ratio shall be determined as set forth in Table 1 to § 324.300.
-
-Table 1 to § 324.300
 
 |Transition period |                                                                                                Capital conservation buffer                                                                                                 |Maximum payout ratio (as a percentage of eligible retained income)|
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
@@ -34,8 +30,6 @@ Table 1 to § 324.300
 
 (3) The amount of non-qualifying capital instruments that cannot be included in additional tier 1 capital under this section may be included in tier 2 capital without limitation, provided that the instruments meet the criteria for tier 2 capital instruments under § 324.20(d).
 
-Table 8 to § 324.300
-
 |Transition period  <br/>(calendar year)|Percentage of non-qualifying capital instruments includable in additional tier 1 or tier 2 capital|
 |---------------------------------------|--------------------------------------------------------------------------------------------------|
 |          Calendar year 2014           |                                                80                                                |
@@ -54,4 +48,8 @@ Table 8 to § 324.300
 
 (f) An FDIC-supervised institution that is not an advanced approaches FDIC-supervised institution may apply the treatment under §§ 324.21 and 324.22(c)(2), (5), (6), and (d)(2) applicable to an advanced approaches FDIC-supervised institution during the calendar quarter beginning January 1, 2020. During the quarter beginning January 1, 2020, an FDIC-supervised institution that makes such an election must deduct 80 percent of the amount otherwise required to be deducted under § 324.22(d)(2) and must apply a 100 percent risk weight to assets not deducted under § 324.22(d)(2). In addition, during the quarter beginning January 1, 2020, an FDIC-supervised institution that makes such an election must include in its regulatory capital 20 percent of any minority interest that exceeds the amount of minority interest includable in regulatory capital under § 324.21 as it applies to an advanced approaches FDIC-supervised institution. An FDIC-supervised institution that is not an advanced approaches institution must apply the treatment under §§ 324.21 and 324.22 applicable to an FDIC-supervised institution that is a non-advanced approaches institution beginning April 1, 2020, and thereafter.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 82 FR 55317, Nov. 21, 2017; 84 FR 35280, July 22, 2019; 84 FR 61808, Nov. 13, 2019]
+(g) *SA-CCR.* An advanced approaches FDIC-supervised institution may use CEM rather than SA-CCR for purposes of §§ 324.34(a) and 324.132(c) until January 1, 2022. A FDIC-supervised institution must provide prior notice to the FDIC if it decides to begin using SA-CCR before January 1, 2022. On January 1, 2022, and thereafter, an advanced approaches FDIC-supervised institution must use SA-CCR for purposes of §§ 324.34(a), 324.132(c), and 324.133(d). Once an advanced approaches FDIC-supervised institution has begun to use SA-CCR, the advanced approaches FDIC-supervised institution may not change to use CEM.
+
+(h) *Default fund contributions.* Prior to January 1, 2022, a FDIC-supervised institution that calculates the exposure amounts of its derivative contracts under the standardized approach for counterparty credit risk in § 324.132(c) may calculate the risk-weighted asset amount for a default fund contribution to a QCCP under either method 1 under § 324.35(d)(3)(i) or method 2 under § 324.35(d)(3)(ii), rather than under § 324.133(d).
+
+[78 FR 55471, Sept. 10, 2013, as amended at 82 FR 55317, Nov. 21, 2017; 84 FR 35280, July 22, 2019; 84 FR 61808, Nov. 13, 2019; 85 FR 4443, Jan. 24, 2020]

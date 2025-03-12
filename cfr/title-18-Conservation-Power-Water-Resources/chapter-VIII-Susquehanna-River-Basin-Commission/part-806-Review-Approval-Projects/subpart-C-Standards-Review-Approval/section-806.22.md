@@ -1,18 +1,16 @@
 ##### § 806.22 Standards for consumptive uses of water. #####
 
-Link to an amendment published at 85 FR 16546, Mar. 24, 2020.
-
 (a) The project sponsors of all consumptive water uses subject to review and approval under § 806.4, § 806.5 or § 806.6 of this part shall comply with this section.
 
 (b) *Mitigation.* All project sponsors whose consumptive use of water is subject to review and approval under § 806.4, § 806.5, § 806.6, or § 806.17 shall mitigate such consumptive use. Except to the extent that the project involves the diversion of the waters out of the basin, public water supplies shall be exempt from the requirements of this section regarding consumptive use; provided, however, that nothing in this section shall be construed to exempt individual consumptive users connected to any such public water supply from the requirements of this section. Mitigation may be provided by one or a combination of the following:
 
 (1) During low flow periods as may be designated by the Commission for consumptive use mitigation.
 
-(i) Reduce withdrawal from the approved source(s), in an amount equal to the project's total consumptive use, and withdraw water from alternative surface water storage or aquifers or other underground storage chambers or facilities approved by the Commission, from which water can be withdrawn for a period of 90 days without impact to surface water flows.
+(i) Reduce withdrawal from the approved source(s), in an amount equal to the project's consumptive use, and withdraw water from alternative surface water storage or aquifers or other underground storage chambers or facilities approved by the Commission, from which water can be withdrawn for a period of 45 continuous days such that impacts to nearby surface waters will not likely be at a magnitude or in a timeframe that would exacerbate present low flow conditions.
 
-(ii) Release water for flow augmentation, in an amount equal to the project's total consumptive use, from surface water storage or aquifers, or other underground storage chambers or facilities approved by the Commission, from which water can be withdrawn for a period of 90 days without impact to surface water flows.
+(ii) Release water for flow augmentation, in an amount equal to the project's consumptive use, from surface water storage or aquifers, or other underground storage chambers or facilities approved by the Commission, from which water can be withdrawn for a period of 45 continuous days such that impacts to nearby surface waters will not likely be at a magnitude or in a timeframe that would exacerbate present low flow conditions.
 
-(iii) Discontinue the project's consumptive use, except that reduction of project sponsor's consumptive use to less than 20,000 gpd during periods of low flow shall not constitute discontinuance.
+(iii) Discontinue the project's consumptive use, which may include reduction of the project sponsor's consumptive use to less than 20,000 gpd during periods of low flow. In any case of failure to provide the specified discontinuance, such project shall provide mitigation in accordance with paragraph (b)(3) of this section, for the calendar year in which such failure occurs, after which the Commission will reevaluate the continued acceptability of the discontinuance.
 
 (2) Use, as a source of consumptive use water, surface storage that is subject to maintenance of a conservation release acceptable to the Commission. In any case of failure to provide the specified conservation release, such project shall provide mitigation in accordance with paragraph (3), below, for the calendar year in which such failure occurs, and the Commission will reevaluate the continued acceptability of the conservation release.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 16546, Mar. 24, 2020.
 
 (d) *Quality of water released for mitigation.* The physical, chemical and biological quality of water released for mitigation shall at all times meet the quality required for the purposes listed in § 806.2, as applicable.
 
-(e) *Approval by rule for consumptive uses* - (1) *General rule.* Except with respect to projects involving hydrocarbon development subject to the provisions of paragraph (f) of this section, any project who is solely supplied water for consumptive use by public water supply may be approved by the Executive Director under this paragraph (e) in accordance with the following, unless the Executive Director determines that the project cannot be adequately regulated under this approval by rule.
+(e) *Approval by rule for consumptive uses* - (1) *General rule.* Except with respect to projects involving hydrocarbon development subject to the provisions of paragraph (f) of this section, any project that is solely supplied water for consumptive use by public water supply, stormwater, wastewater, or other reused or recycled water, or any combination thereof, may be approved by the Executive Director under this paragraph (e) in accordance with the following, unless the Executive Director determines that the project cannot be adequately regulated under this approval by rule.
 
 (2) *Notification of intent.* Prior to undertaking a project or increasing a previously approved quantity of consumptive use, the project sponsor shall submit a notice of intent (NOI) on forms prescribed by the Commission, and the appropriate application fee, along with any required attachments.
 
@@ -80,4 +78,4 @@ Link to an amendment published at 85 FR 16546, Mar. 24, 2020.
 
 (15) The project sponsor shall provide a copy of any registration or source approval issued pursuant to this section to the appropriate agency of the applicable member jurisdiction. The project sponsor shall record on a daily basis, and report quarterly on a form and in a manner prescribed by the Commission, the quantity of water obtained from any source registered or approved hereunder. Any source approval issued hereunder shall also be subject to such monitoring and reporting requirements as may be contained in such approval or otherwise required by this part.
 
-[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 78620, Dec. 23, 2008; 74 FR 49812, Sept. 29, 2009; 75 FR 60621, Oct. 1, 2010; 77 FR 8099, Feb. 14, 2012; 79 FR 75430, Dec. 18, 2014; 82 FR 29393, June 29, 2017]
+[71 FR 78579, Dec. 29, 2006, as amended at 73 FR 78620, Dec. 23, 2008; 74 FR 49812, Sept. 29, 2009; 75 FR 60621, Oct. 1, 2010; 77 FR 8099, Feb. 14, 2012; 79 FR 75430, Dec. 18, 2014; 82 FR 29393, June 29, 2017; 85 FR 16546, Mar. 24, 2020]

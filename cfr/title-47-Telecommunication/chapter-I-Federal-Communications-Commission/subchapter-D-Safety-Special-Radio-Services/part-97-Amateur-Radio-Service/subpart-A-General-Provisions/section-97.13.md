@@ -1,5 +1,7 @@
 ##### § 97.13 Restrictions on station location. #####
 
+Link to an amendment published at 85 FR 18151, Apr. 1, 2020.
+
 (a) Before placing an amateur station on land of environmental importance or that is significant in American history, architecture or culture, the licensee may be required to take certain actions prescribed by §§ 1.1305-1.1319 of this chapter.
 
 (b) A station within 1600 m (1 mile) of an FCC monitoring facility must protect that facility from harmful interference. Failure to do so could result in imposition of operating restrictions upon the amateur station pursuant to § 97.121. Geographical coordinates of the facilities that require protection are listed in § 0.121(c) of this chapter.

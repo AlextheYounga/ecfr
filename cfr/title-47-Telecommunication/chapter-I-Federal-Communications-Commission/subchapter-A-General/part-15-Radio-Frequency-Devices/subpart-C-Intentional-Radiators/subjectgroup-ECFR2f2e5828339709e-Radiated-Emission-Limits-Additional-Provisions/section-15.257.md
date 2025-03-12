@@ -1,5 +1,7 @@
 ##### § 15.257 Operation within the band 92-95 GHz. #####
 
+Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
+
 (a) Operation of devices under the provisions of this section is limited to indoor use;
 
 (1) Devices operating under the provisions of this section, by the nature of their design, must be capable of operation only indoors. The necessity to operate with a fixed indoor infrastructure, e.g., a transmitter that must be connected to the AC power lines, may be considered sufficient to demonstrate this.
