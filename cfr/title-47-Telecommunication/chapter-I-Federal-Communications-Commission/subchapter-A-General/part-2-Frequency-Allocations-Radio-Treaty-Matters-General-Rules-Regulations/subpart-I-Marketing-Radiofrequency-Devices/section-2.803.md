@@ -1,7 +1,5 @@
 ##### § 2.803 Marketing of radio frequency devices prior to equipment authorization. #####
 
-Link to an amendment published at 86 FR 52099, Sept. 20, 2021.
-
 (a) Marketing, as used in this section, includes sale or lease, or offering for sale or lease, including advertising for sale or lease, or importation, shipment, or distribution for the purpose of selling or leasing or offering for sale or lease.
 
 (b) *General rule.* No person may market a radio frequency device unless:
@@ -18,7 +16,29 @@ Link to an amendment published at 86 FR 52099, Sept. 20, 2021.
 
 (2) Limited marketing is permitted, as described in the following text, for devices that could be authorized under the current rules; could be authorized under waivers of such rules that are in effect at the time of marketing; or could be authorized under rules that have been adopted by the Commission but that have not yet become effective. These devices may not be operated unless permitted by § 2.805.
 
-(i) Conditional sales contracts (including agreements to produce new devices manufactured in accordance with designated specifications) are permitted between manufacturers and wholesalers or retailers provided that delivery is made contingent upon compliance with the applicable equipment authorization and technical requirements.
+(i) Conditional sales contracts (including agreements to produce new devices manufactured in accordance with designated specifications), and advertisements for such sales, are permitted under the following conditions:
+
+(A) The initiating party must provide to the prospective buyer at the time of marketing, through a prominent disclosure:
+
+(*1*) Notification that the equipment is subject to the FCC rules and delivery to the end user is conditional upon successful completion of the applicable equipment authorization process;
+
+(*2*) Notification that FCC rules do not address the applicability of consumer protection, contractual, or other provisions under federal or state law; and
+
+(*3*) Notification of any responsibility of the initiating party to the buyer in the event that the applicable equipment authorization process is not successfully completed, including information regarding any applicable refund policy.
+
+(B) For devices subject to Supplier Declaration of Conformity procedures under subpart J of this chapter, physical transfer of equipment from the initiating party to other entities, including delivery to the end user, prior to successful completion of the equipment authorization process is prohibited.
+
+(C) For devices subject to Certification procedures under subpart J of this chapter, delivery to the end user prior to successful completion of the equipment authorization process is prohibited; transfer of physical possession of devices to other entities for the sole purpose of pre-sale activity is permitted only after compliance testing by an FCC-recognized accredited testing laboratory is completed and an application for Certification is submitted to an FCC-recognized Telecommunication Certification Body pursuant to § 2.911. Pre-sale activity includes packaging and transferring physical possession of devices to distribution centers and retailers. Pre-sale activity does not include display or demonstration of devices.
+
+(*1*) Each device, or its packaging, physically transferred for the purpose of pre-sale activity must prominently display a visible temporary removable label stating: “This device cannot be delivered to end users, displayed, or operated until the device receives certification from the FCC. Under penalty of law, this label must not be removed prior to receiving an FCC certification grant.”
+
+(*2*) The first party to initiate a conditional sales contract under paragraph (c)(2)(i) of this section or to physically transfer devices must have processes in place to retrieve the equipment in the event that the equipment is not successfully certified and must complete such retrieval immediately after a determination is made that the equipment certification cannot be successfully completed.
+
+(D) Notwithstanding § 2.926, radiofrequency devices marketed pursuant to paragraph (c)(2)(i) of this section may include the expected FCC ID if obscured by the temporary label described in paragraph (c)(2)(i)(C)(*1*) of this section or, in the case of electronic labeling, if the expected FCC ID cannot be viewed prior to authorization.
+
+(E) All radiofrequency devices marketed under paragraph (c)(2)(i) of this section must remain under legal ownership of the first party to initiate a conditional sales contract.
+
+(F) The first party to initiate a conditional sales contract or any party that physically transfers devices under paragraph (c)(2)(i) of this section must maintain, for a period of sixty (60) months, records of each conditional sale contract. Such records must identify the device name and product identifier, the quantity conditionally sold, the date on which the device authorization was sought, the expected FCC ID number, and the identity of the conditional buyer, including contact information. The first party to initiate a conditional sales contract or any party that physically transfers devices under paragraph (c)(2)(i) of this section must provide these records upon the request of Commission personnel.
 
 (ii) [Reserved]
 
@@ -46,4 +66,4 @@ FCC NOTICE: This kit is designed to allow:
 
 (d) *Importation.* The provisions of subpart K of this part continue to apply to imported radio frequency devices.
 
-[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015; 82 FR 50825, Nov. 2, 2017; 84 FR 25689, June 4, 2019; 86 FR 52099, Sept. 20, 2021]
+[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015; 82 FR 50825, Nov. 2, 2017; 84 FR 25689, June 4, 2019; 86 FR 52099, Sept. 20, 2021; 87 FR 21580, Apr. 12, 2022]

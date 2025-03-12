@@ -7,7 +7,8 @@
 (2) A landowner will participate in HFRP by agreeing to the implementation of an HFRP restoration plan, the effect of which is to restore, protect, enhance, maintain, and manage the habitat conditions necessary to increase the likelihood of recovery of listed species under the ESA, or measurably improve the well-being of species that are candidates for such listing, that is a candidate for listing under section 4 of ESA, State-listed species or species deemed of greatest conservation need by a State wildlife action plan, or species identified by the Chief for special consideration for funding.
 
 (3) NRCS may provide cost-share assistance for the activities that promote the restoration, protection, enhancement, maintenance, and management of forest ecosystem functions and values. Specific restoration, protection, enhancement, maintenance, and management activities may be undertaken by the landowner or other NRCS designee.
-P\>(b) *Landowner eligibility.* To be eligible to enroll an easement in the HFRP, an individual or entity must:
+
+(b) *Landowner eligibility.* To be eligible to enroll an easement in the HFRP, an individual or entity must:
 
 (1) Be the landowner of eligible land for which enrollment is sought; and
 
