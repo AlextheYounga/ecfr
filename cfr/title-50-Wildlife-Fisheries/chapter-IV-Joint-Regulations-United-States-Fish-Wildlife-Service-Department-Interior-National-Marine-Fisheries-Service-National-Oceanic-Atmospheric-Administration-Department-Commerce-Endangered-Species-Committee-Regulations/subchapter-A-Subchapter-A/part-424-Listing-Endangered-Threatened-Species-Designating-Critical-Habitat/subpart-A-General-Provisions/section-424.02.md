@@ -1,5 +1,7 @@
 ##### § 424.02 Definitions. #####
 
+Link to an amendment published at 84 FR 45052, Aug. 27, 2019.
+
 The definitions contained in the Act and parts 17, 222, and 402 of this title apply to this part, unless specifically modified by one of the following definitions. Definitions contained in part 17 of this title apply only to species under the jurisdiction of the U.S. Fish and Wildlife Service. Definitions contained in part 222 of this title apply only to species under the jurisdiction of the National Marine Fisheries Service.
 
 *Candidate.* Any species being considered by the Secretary for listing as an endangered or threatened species, but not yet the subject of a proposed rule.

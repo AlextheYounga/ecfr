@@ -1,5 +1,7 @@
 ##### § 80.60 What is the relationship between the Basic Hunter Education and Safety subprogram and the Enhanced Hunter Education and Safety program? #####
 
+Link to an amendment published at 84 FR 44787, August 27, 2019.
+
 The relationship between the Basic Hunter Education and Safety subprogram (Basic Hunter Education) and the Enhanced Hunter Education and Safety program (Enhanced Hunter Education) is as follows:
 
 |                                                                            |                                                                                                                             Basic Hunter Education funds                                                                                                                              |                                                                                                                             Enhanced Hunter Education funds                                                                                                                              |

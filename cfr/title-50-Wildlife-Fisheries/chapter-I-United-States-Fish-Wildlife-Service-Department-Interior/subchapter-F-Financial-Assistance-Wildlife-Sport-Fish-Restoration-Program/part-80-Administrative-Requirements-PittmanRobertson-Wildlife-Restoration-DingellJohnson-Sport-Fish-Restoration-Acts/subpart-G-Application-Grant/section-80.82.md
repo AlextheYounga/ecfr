@@ -1,5 +1,7 @@
 ##### § 80.82 What must an agency submit when applying for a project-by-project grant? #####
 
+Link to an amendment published at 84 FR 44787, August 27, 2019.
+
 A State fish and wildlife agency must submit the following documents when applying for a project-by-project grant:
 
 (a) The standard form for an application for Federal assistance in a mandatory grant program.

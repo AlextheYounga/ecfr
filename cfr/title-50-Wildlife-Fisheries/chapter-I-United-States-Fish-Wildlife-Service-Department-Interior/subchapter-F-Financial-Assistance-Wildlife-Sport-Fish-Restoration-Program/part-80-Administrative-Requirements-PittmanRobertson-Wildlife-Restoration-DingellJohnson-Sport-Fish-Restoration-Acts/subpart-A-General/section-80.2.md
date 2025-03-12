@@ -1,5 +1,7 @@
 ##### § 80.2 What terms do I need to know? #####
 
+Link to an amendment published at 84 FR 44784, August 27, 2019.
+
 The terms in this section pertain only to the regulations in this part.
 
 *Acts* means the Pittman-Robertson Wildlife Restoration Act of September 2, 1937, as amended (16 U.S.C. 669-669k), and the Dingell-Johnson Sport Fish Restoration Act of August 9, 1950, as amended (16 U.S.C. 777-777n, except 777e-1 and g-1).

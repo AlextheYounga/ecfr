@@ -1,5 +1,7 @@
 ##### § 220.12 Commission final report. #####
 
+Link to an amendment published at 84 FR 44693, Aug. 27, 2019.
+
 (a) The Commission will submit its final report on each petition for a duty suspension or reduction specified in the preliminary report to the Committees not later than 60 days after the Commission submits its preliminary report. The final report will contain the following information -
 
 (1) The information required to be included in a preliminary report under section 3(b)(3)(C)(i)-(ii) of the Act and updated as appropriate after considering any information submitted by the Committees under section 3(b)(3)(D) of the Act.

@@ -1,5 +1,7 @@
 ##### § 80.50 What activities are eligible for funding under the Pittman-Robertson Wildlife Restoration Act? #####
 
+Link to an amendment published at 84 FR 44786, August 27, 2019.
+
 The following activities are eligible for funding under the Pittman-Robertson Wildlife Restoration Act:
 
 (a) *Wildlife Restoration program.* (1) Restore and manage wildlife for the benefit of the public.

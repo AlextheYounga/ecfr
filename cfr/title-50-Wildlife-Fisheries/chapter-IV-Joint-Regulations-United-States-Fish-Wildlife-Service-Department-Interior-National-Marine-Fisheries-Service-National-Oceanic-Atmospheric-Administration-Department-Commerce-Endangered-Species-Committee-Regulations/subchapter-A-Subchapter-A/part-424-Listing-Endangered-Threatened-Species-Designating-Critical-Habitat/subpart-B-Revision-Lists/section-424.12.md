@@ -1,5 +1,7 @@
 ##### § 424.12 Criteria for designating critical habitat. #####
 
+Link to an amendment published at 84 FR 45053, Aug. 27, 2019.
+
 (a) To the maximum extent prudent and determinable, we will propose and finalize critical habitat designations concurrent with issuing proposed and final listing rules, respectively. If designation of critical habitat is not prudent or if critical habitat is not determinable, the Secretary will state the reasons for not designating critical habitat in the publication of proposed and final rules listing a species. The Secretary will make a final designation of critical habitat on the basis of the best scientific data available, after taking into consideration the probable economic, national security, and other relevant impacts of making such a designation in accordance with § 424.19.
 
 (1) A designation of critical habitat is not prudent when any of the following situations exist:

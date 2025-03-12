@@ -1,5 +1,7 @@
 ##### § 80.120 What is program income? #####
 
+Link to an amendment published at 84 FR 44787, August 27, 2019.
+
 (a) Program income is gross income received by the grantee or subgrantee and earned only as a result of the grant during the grant period.
 
 (b) Program income includes revenue from:

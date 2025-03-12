@@ -1,5 +1,7 @@
 ##### § 80.137 What if real property is no longer useful or needed for its original purpose? #####
 
+Link to an amendment published at 84 FR 44788, August 27, 2019.
+
 If the director of the State fish and wildlife agency and the Regional Director jointly decide that grant-funded real property is no longer useful or needed for its original purpose under the grant, the director of the agency must:
 
 (a) Propose another eligible purpose for the real property under the grant program and ask the Regional Director to approve this proposed purpose, or

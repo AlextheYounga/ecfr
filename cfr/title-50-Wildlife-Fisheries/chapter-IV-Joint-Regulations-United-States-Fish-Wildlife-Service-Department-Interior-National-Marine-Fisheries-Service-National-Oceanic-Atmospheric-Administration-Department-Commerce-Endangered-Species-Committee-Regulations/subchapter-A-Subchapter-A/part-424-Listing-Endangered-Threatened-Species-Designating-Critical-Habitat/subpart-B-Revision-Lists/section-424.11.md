@@ -1,5 +1,7 @@
 ##### § 424.11 Factors for listing, delisting, or reclassifying species. #####
 
+Link to an amendment published at 84 FR 45052, Aug. 27, 2019.
+
 (a) Any species or taxonomic group of species (e.g., genus, subgenus) as defined in § 424.02(k) is eligible for listing under the Act. A taxon of higher rank than species may be listed only if all included species are individually found to be endangered or threatened. In determining whether a particular taxon or population is a species for the purposes of the Act, the Secretary shall rely on standard taxonomic distinctions and the biological expertise of the Department and the scientific community concerning the relevant taxonomic group.
 
 (b) The Secretary shall make any determination required by paragraphs (c) and (d) of this section *solely* on the basis of the best available scientific and commercial information regarding a species' status, without reference to possible economic or other impacts of such determination.

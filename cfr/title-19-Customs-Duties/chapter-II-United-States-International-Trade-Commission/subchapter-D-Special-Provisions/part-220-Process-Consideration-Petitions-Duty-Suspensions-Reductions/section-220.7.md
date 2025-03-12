@@ -1,5 +1,7 @@
 ##### § 220.7 Properly filed petition. #####
 
+Link to an amendment published at 84 FR 44693, Aug. 27, 2019.
+
 (a) *In general.* A petition will not be considered to be properly filed unless the petition and the Commission disclosure form are filed in accordance with and contain the information required by §§ 220.3 through 220.5
 
 (b) *Identical and overlapping petitions.* (1) A petition will not be considered to be properly filed if the petitioner has previously filed, and has not withdrawn, a petition for duty suspension or reduction during the current filing cycle:

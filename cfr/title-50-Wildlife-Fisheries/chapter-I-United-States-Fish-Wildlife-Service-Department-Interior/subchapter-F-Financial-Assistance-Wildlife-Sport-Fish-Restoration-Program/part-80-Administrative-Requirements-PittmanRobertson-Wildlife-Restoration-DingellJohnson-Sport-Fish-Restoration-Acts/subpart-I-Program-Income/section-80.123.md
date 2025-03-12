@@ -1,5 +1,7 @@
 ##### § 80.123 How may an agency use program income? #####
 
+Link to an amendment published at 84 FR 44787, August 27, 2019.
+
 (a) A State fish and wildlife agency may choose any of the three methods listed in paragraph (b) of this section for applying program income to Federal and non-Federal outlays. The agency may also use a combination of these methods. The method or methods that the agency chooses will apply to the program income that it earns during the grant period and to the program income that any subgrantee earns during the grant period. The agency must indicate the method that it wants to use in the project statement that it submits with each application for Federal assistance.
 
 (b) The three methods for applying program income to Federal and non-Federal outlays are in the following table:

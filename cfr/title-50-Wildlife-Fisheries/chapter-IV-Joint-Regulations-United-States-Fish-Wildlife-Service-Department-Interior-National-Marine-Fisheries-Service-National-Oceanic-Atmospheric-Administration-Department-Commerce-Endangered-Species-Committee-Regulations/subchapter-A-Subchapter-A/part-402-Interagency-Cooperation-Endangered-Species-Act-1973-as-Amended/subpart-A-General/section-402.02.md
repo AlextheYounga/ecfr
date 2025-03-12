@@ -1,5 +1,7 @@
 ##### § 402.02 Definitions. #####
 
+Link to an amendment published at 84 FR 45016, Aug. 27, 2019.
+
 *Act* means the Endangered Species Act of 1973, as amended, 16 U.S.C. 1531 *et seq.*
 
 *Action* means all activities or programs of any kind authorized, funded, or carried out, in whole or in part, by Federal agencies in the United States or upon the high seas. Examples include, but are not limited to:

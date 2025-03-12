@@ -1,5 +1,7 @@
 ##### § 220.13 Confidential business information. #####
 
+Link to an amendment published at 84 FR 44693, Aug. 27, 2019.
+
 (a) *In general.* The Commission will not release information which the Commission considers to be confidential business information within the meaning of § 201.6(a) of this chapter unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information.
 
 (b) *Exceptions.* (1) In calculating the estimated revenue loss required under the Act, the Commission may base its estimates in whole or in part on the estimated values of imports submitted by petitioners in their petitions.

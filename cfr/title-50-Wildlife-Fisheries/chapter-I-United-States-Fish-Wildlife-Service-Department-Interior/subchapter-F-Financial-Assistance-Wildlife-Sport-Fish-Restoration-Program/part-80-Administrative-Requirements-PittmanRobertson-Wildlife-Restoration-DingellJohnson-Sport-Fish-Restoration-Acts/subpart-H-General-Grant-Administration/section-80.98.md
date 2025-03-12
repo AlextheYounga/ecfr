@@ -1,5 +1,7 @@
 ##### § 80.98 How must an agency report barter transactions? #####
 
+Link to an amendment published at 84 FR 44787, August 27, 2019.
+
 (a) A State fish and wildlife agency must follow the requirements in the following table when reporting barter transactions in the Federal financial report:
 
 |                                                                 If \* \* \*                                                                  |                                                                                                                            Then the agency \* \* \*                                                                                                                             |

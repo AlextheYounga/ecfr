@@ -1,6 +1,8 @@
 ##### § 402.14 Formal consultation. #####
 
-(a) Requirement for formal consultation. Each Federal agency shall review its actions at the earliest possible time to determine whether any action may affect listed species or critical habitat. If such a determination is made, formal consultation is required, except as noted in paragraph (b) of this section. The Director may request a Federal agency to enter into consultation if he identifies any action of that agency that may affect listed species or critical habitat and for which there has been no consultation. When such a request is made, the Director shall forward to the Federal agency a written explanation of the basis for the request.
+Link to an amendment published at 84 FR 45016, Aug. 27, 2019.
+
+(a) *Requirement for formal consultation.* Each Federal agency shall review its actions at the earliest possible time to determine whether any action may affect listed species or critical habitat. If such a determination is made, formal consultation is required, except as noted in paragraph (b) of this section. The Director may request a Federal agency to enter into consultation if he identifies any action of that agency that may affect listed species or critical habitat and for which there has been no consultation. When such a request is made, the Director shall forward to the Federal agency a written explanation of the basis for the request.
 
 (b) *Exceptions.* (1) A Federal agency need not initiate formal consultation if, as a result of the preparation of a biological assessment under § 402.12 or as a result of informal consultation with the Service under § 402.13, the Federal agency determines, with the written concurrence of the Director, that the proposed action is not likely to adversely affect any listed species or critical habitat.
 
@@ -31,7 +33,6 @@ Formal consultation shall not be initiated by the Federal agency until any requi
 (2) The information that is required to complete the consultation, and
 
 (3) The estimated date on which the consultation will be completed.
-
 A consultation involving an applicant cannot be extended for more than 60 days without the consent of the applicant. Within 45 days after concluding formal consultation, the Service shall deliver a biological opinion to the Federal agency and any applicant.
 
 (f) *Additional data.* When the Service determines that additional data would provide a better information base from which to formulate a biological opinion, the Director may request an extension of formal consultation and request that the Federal agency obtain additional data to determine how or to what extent the action may affect listed species or critical habitat. If formal consultation is extended by mutual agreement according to § 402.14(e), the Federal agency shall obtain, to the extent practicable, that data which can be developed within the scope of the extension. The responsibility for conducting and funding any studies belongs to the Federal agency and the applicant, not the Service. The Service's request for additional data is not to be construed as the Service's opinion that the Federal agency has failed to satisfy the information standard of section 7(a)(2) of the Act. If no extension of formal consultation is agreed to, the Director will issue a biological opinion using the best scientific and commercial data available.

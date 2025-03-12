@@ -1,5 +1,7 @@
 ##### § 402.40 Definitions. #####
 
+Link to an amendment published at 84 FR 45018, Aug. 27, 2019.
+
 The definitions in § 402.02 are applicable to this subpart. In addition, the following definitions are applicable only to this subpart.
 
 (a) *Alternative consultation agreement* is the agreement described in § 402.45.

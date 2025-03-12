@@ -1,5 +1,7 @@
 ##### § 80.51 What activities are eligible for funding under the Dingell-Johnson Sport Fish Restoration Act? #####
 
+Link to an amendment published at 84 FR 44786, August 27, 2019.
+
 The following activities are eligible for funding under the Dingell-Johnson Sport Fish Restoration Act:
 
 (a) *Sport Fish Restoration program.* (1) Restore and manage sport fish for the benefit of the public.

@@ -1,5 +1,7 @@
 ##### § 220.11 Commission preliminary report. #####
 
+Link to an amendment published at 84 FR 44693, Aug. 27, 2019.
+
 (a) Not later than 150 days after the Commission publishes the petitions and Commission disclosure forms submitted, the Commission will submit a preliminary report on the petitions filed to the Committees. The report will include the following information for each petition filed -
 
 (1) The HTS heading or subheading in which each article that is the subject of a petition is classified, as identified by documentation supplied to the Commission and any supporting information obtained by the Commission.

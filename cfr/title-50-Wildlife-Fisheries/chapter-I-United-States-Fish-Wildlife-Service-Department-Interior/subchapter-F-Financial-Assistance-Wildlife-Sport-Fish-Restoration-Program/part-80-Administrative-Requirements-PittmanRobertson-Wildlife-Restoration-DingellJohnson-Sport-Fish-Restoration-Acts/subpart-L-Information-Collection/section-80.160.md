@@ -1,5 +1,7 @@
 ##### § 80.160 What are the information collection requirements of this part? #####
 
+Link to an amendment published at 84 FR 44788, August 27, 2019.
+
 (a) This part requires each State fish and wildlife agency to provide the following information to the Service. The State agency must:
 
 (1) Certify the number of people who have paid licenses to hunt and the number of people who have paid licenses to fish in a State during the State-specified certification period (OMB control number 1018-0007).
