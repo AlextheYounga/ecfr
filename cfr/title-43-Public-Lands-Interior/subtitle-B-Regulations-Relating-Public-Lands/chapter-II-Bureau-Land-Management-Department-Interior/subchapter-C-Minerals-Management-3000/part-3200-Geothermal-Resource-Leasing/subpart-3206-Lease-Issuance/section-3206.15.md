@@ -1,0 +1,3 @@
+##### § 3206.15 How will BLM charge acreage holdings if the United States owns only a fractional interest in the geothermal resources in a lease? #####
+
+Where the United States owns only a fractional interest in the geothermal resources of the lands in a lease, BLM will only charge you with the part owned by the United States as acreage holdings. For example, if you own 100 percent of record title in a 100 acre lease, and the United States owns 50 percent of the mineral estate, you are charged with 50 acres.

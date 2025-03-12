@@ -1,0 +1,3 @@
+##### § 3815.1 Mineral locations. #####
+
+Under authority of the provisions of the Act of January 29, 1929 (45 Stat. 1144; 43 U.S.C. 300), the rules, regulations, and restrictions in this section are prescribed for prospecting for minerals of the kinds subject to the United States mining laws, and the locating of mining claims upon discovery of such minerals in lands within stock driveway withdrawals made before or after May 4, 1929.

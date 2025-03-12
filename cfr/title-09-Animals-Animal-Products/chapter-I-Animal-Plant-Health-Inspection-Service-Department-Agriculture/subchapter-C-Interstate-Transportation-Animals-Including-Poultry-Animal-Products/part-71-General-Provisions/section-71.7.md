@@ -1,0 +1,9 @@
+##### § 71.7 Means of conveyance, facilities, premises, and cages and other equipment; methods of cleaning and disinfecting. #####
+
+(a) Railroad cars, trucks, aircraft, or other means of conveyance, except boats, required by the regulations in this subchapter to be cleaned and disinfected shall be treated in the following manner: Remove all litter and manure from all portions of the conveyance, including any external ledges and framework; clean the exterior and interior of the conveyance; and saturate the entire interior surface, including the inner surface of the doors of the conveyance, with a permitted disinfectant specified in §§ 71.10 through 71.12.
+
+(b) Boats required by the regulations in this subchapter to be cleaned and disinfected shall be treated in the following manner: Remove all litter and manure from the decks and stalls, and all other parts of the boat occupied or traversed by any poultry or other animals and from the portable chutes or other appliances or fixtures used in loading and unloading the animals, and saturate with a permitted disinfectant the entire surface of the deck, stalls, or other parts of the boat occupied or traversed by any animals or with which they may come in contact or which have contained litter or manure.
+
+(c) Yards, pens, chutes, alleys, cages, and other equipment required by the regulations in this subchapter to be disinfected shall be treated in the following manner: Empty all troughs, racks, or other feeding or watering appliances; remove all litter and manure from the floors, posts, or other parts; and saturate the entire surface of the fencing, troughs, chutes, floors, walls, and other parts with a permitted disinfectant specified in §§ 71.10 through 71.12.
+
+[34 FR 15642, Oct. 9, 1969, as amended at 61 FR 56883, Nov. 5, 1996]

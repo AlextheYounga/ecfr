@@ -1,0 +1,3 @@
+##### § 3830.97 What if I pay only part of the service charges for a notice of intent to locate mining claims on SRHA lands? #####
+
+For notices of intent to locate mining claims (NOITL) under the Stockraising Homestead Act (see part 3838 of this chapter for information regarding the Stockraising Homestead Act and NOITLs), BLM will not accept a NOITL unless we receive your payment of the required service charges. BLM will return the NOITL to you without taking any further action. See § 3830.21 of this part for the amount of the service charge for a NOITL.

@@ -1,0 +1,21 @@
+##### § 419.4 What specific provisions govern operations of the reservoirs? #####
+
+The specific provisions governing operations of the Truckee River Reservoirs and other reservoirs are contained in the TROA (incorporated by reference at § 419.1). The following table shows the location of the provisions in the TROA.
+
+|                                                                     Provisions governing . . .                                                                     |  Are in the following sections of the TROA . . .   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|                                                                       Recitals, Definitions                                                                        |Recitals 1 through 9. Definitions (1) through (106).|
+|Satisfaction of provisions of law, general operational principles, protection of water rights, imported water, remaining water of the Truckee River, and emergencies|             Sections 1.A through 1.F.              |
+|                                                                           Administration                                                                           |             Sections 2.A through 2.C.              |
+|                                                         Accounting, reporting, forecasting, and monitoring                                                         |             Sections 3.A through 3.E.              |
+|                                            Incorporation of certain provisions of the preliminary settlement agreement                                             |             Sections 4.A through 4.G.              |
+|                                                           Operation of Floriston Rate and Project Water                                                            |             Sections 5.A through 5.E.              |
+|                                                    Truckee River and Lake Tahoe Basin Allocation and Accounting                                                    |             Sections 6.A through 6.E.              |
+|                                                        Credit Water Establishment, Storage, and Conversion                                                         |             Sections 7.A through 7.H.              |
+|                                  Priorities and Rules for Operations Following Impoundment or Accumulation of Water in Reservoirs                                  |             Sections 8.A through 8.V.              |
+|                                              Beneficial Uses of Water for Instream Flows and Recreation in California                                              |             Sections 9.A through 9.F.              |
+|                                                   Design of Water Wells in the Truckee River Basin in California                                                   |            Sections 10.A through 10.H.             |
+|                                                                             Scheduling                                                                             |            Sections 11.A through 11.H.             |
+|                                                                     Effectiveness of the TROA                                                                      |              Sections 12.A and 12.B.               |
+|                                       Relation of TROA to Settlement Act, Adjustments to Operations and Changes to Agreement                                       |            Sections 13.A through 13.E.             |
+|                                                                        Miscellaneous areas                                                                         |            Sections 14.A through 14.Q.             |

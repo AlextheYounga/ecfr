@@ -1,0 +1,3 @@
+##### § 3509.41 For what lands may BLM issue fractional interest prospecting permits and leases? #####
+
+We issue them for lands where the United States owns less than 100 per cent of the mineral interest and where we have determined it is in the public interest to grant the permit or lease. We will only grant fractional interest permits or leases with the consent of the surface managing agency. If we believe a mineral deposit exists but do not know, we may issue a noncompetitive fractional interest lease.

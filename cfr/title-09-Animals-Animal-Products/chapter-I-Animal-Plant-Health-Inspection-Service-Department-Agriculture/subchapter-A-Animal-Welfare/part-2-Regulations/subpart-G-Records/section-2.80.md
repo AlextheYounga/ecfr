@@ -1,0 +1,5 @@
+##### § 2.80 Records, disposition. #####
+
+(a) No dealer, exhibitor, broker, operator of an auction sale, carrier, or intermediate handler shall, for a period of 1 year, destroy or dispose of, without the consent in writing of the Administrator, any books, records, documents, or other papers required to be kept and maintained under this part.
+
+(b) Unless otherwise specified, the records required to be kept and maintained under this part shall be held for 1 year after an animal is euthanized or disposed of and for any period in excess of one year as necessary to comply with any applicable Federal, State, or local law. Whenever the Administrator notifies a dealer, exhibitor, broker, operator of an auction sale, carrier, or intermediate handler in writing that specified records shall be retained pending completion of an investigation or proceeding under the Act, the dealer, exhibitor, broker, operator of an auction sale, carrier, or intermediate handler shall hold those records until their disposition is authorized by the Administrator.

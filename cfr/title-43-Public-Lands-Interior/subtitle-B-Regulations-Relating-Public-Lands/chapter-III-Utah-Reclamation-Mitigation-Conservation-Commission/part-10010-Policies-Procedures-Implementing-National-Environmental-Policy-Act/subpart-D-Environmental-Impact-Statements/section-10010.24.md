@@ -1,0 +1,3 @@
+##### § 10010.24 Page limits. #####
+
+An EIS should be as brief as possible and still convey the required information. Normally this should be accomplished in less than 150 pages, though documents of up to 300 pages are acceptable for more comprehensive issues. Where the text of an EIS for a complex proposal or group of proposals appears to require more than the normally prescribed limit of 300 pages, the Commission will ensure that the length of such statements is no greater than necessary to comply with NEPA, the CEQ regulations, and this part.

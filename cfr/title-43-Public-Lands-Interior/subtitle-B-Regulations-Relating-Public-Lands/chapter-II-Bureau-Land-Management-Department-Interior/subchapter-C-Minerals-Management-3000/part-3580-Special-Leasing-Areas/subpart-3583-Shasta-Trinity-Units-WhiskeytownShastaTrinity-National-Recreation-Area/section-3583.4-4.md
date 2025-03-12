@@ -1,0 +1,3 @@
+##### § 3583.4-4 Duration of lease. #####
+
+Leases shall be issued for period of 5 years. Any lease in good standing, upon which production in paying quantities has been obtained, shall be subject to renewal for successive 5 year terms on such reasonable terms as may be prescribed by the Secretary. An application for renewal shall be filed in triplicate in the proper BLM office at least 90 days prior to the expiration of the current lease term unless the lands included in the lease have been withdrawn at the expiration of such term.

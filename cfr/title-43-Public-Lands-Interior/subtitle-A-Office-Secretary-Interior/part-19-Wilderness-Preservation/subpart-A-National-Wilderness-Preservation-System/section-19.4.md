@@ -1,0 +1,5 @@
+##### § 19.4 Liaison with other governmental agencies and submission of views by interested persons. #####
+
+(a) When a review is initiated under the provisions of section 3(c) of the Wilderness Act and the sections of this part, arrangements shall be made for appropriate consideration of problems of mutual concern with other Federal agencies and with regional, State, and local governmental agencies.
+
+(b) Any person desiring to submit recommendations as to the suitability or nonsuitability for preservation as wilderness of any roadless area in any unit of the National Park System, or of any such area or any roadless island in any unit of the National Wildlife Refuge System, may submit such recommendations at any time to the superintendent or manager in charge of the unit. Such recommendations will be accorded careful consideration and shall be forwarded with the report of review to the Office of the Secretary.

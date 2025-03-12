@@ -1,0 +1,5 @@
+##### § 3813.3 Provisions of the mineral patent. #####
+
+(a) Each patent issued under the Act of July 20, 1956, shall specifically name the discovered mineral deposit which had been reserved to the United States under the Act of July 17, 1914, and shall recite that, in accordance with the reservation in the land patent, the mineral patentee and its successors (or his heirs and assigns, if a person) shall have the right to prospect for, mine and remove the mineral deposit for which the patent is issued.
+
+(b) If, when it is determined that mineral deposit is subject to patenting under the mining laws pursuant to the Act of July 20, 1956, there is a subsisting mineral lease or permit covering such deposit, the mineral patent shall be issued subject to the mineral lease or permit for so long as rights under the lease or permit shall exist, the patentee being substituted for the United States as lessor or permittor and the patentee being entitled to all revenues derived subsequent to the issuance of patent from any such lease or permit.

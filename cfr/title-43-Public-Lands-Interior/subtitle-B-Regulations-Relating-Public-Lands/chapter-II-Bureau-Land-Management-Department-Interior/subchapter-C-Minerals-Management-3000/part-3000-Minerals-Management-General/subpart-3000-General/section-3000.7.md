@@ -1,0 +1,3 @@
+##### § 3000.7 Multiple development. #####
+
+The granting of a permit or lease for the prospecting, development or production of deposits of any one mineral shall not preclude the issuance of other permits or leases for the same lands for deposits of other minerals with suitable stipulations for simultaneous operation, nor the allowance of applicable entries, locations or selections of leased lands with a reservation of the mineral deposits to the United States.

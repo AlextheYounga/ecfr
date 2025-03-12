@@ -1,0 +1,3 @@
+##### § 310.8 Passing and marking of carcasses and parts. #####
+
+Carcasses and parts found to be sound, healthful, wholesome, and otherwise not adulterated shall be passed and marked as provided in part 316 of this subchapter. In all cases where carcasses showing localized lesions are passed for food or for cooking and “U.S. Retained” tags are attached to the carcasses, the affected tissues shall be removed and condemned before the tags are removed. “U.S. Retained” tags shall be removed only by a Program employee.

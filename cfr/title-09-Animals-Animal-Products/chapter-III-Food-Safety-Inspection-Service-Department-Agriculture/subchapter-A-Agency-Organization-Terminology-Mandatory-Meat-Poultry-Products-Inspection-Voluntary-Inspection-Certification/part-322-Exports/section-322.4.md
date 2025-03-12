@@ -1,0 +1,5 @@
+##### § 322.4 Clearance of vessels and transportation without certificate prohibited; exceptions. #####
+
+No clearance shall be given to any vessel having on board any product destined to any foreign country, and no person operating any vessel, and no railroad or other carrier, shall receive for transportation or transport from the United States to any foreign country, any products, unless and until an official export certificate covering the same has been issued and delivered as provided in this part; except in the case of inspected and passed ship stores and not more than 50 pounds of inspected and passed product for the exclusive personal use of the consignee and not for sale or distribution, and except for exempted product eligible for exportation under the provisions of the Act and the regulations in this subchapter and inedible product that is not capable of use as human food and is eligible for exportation under other provisions of said regulations.
+
+[38 FR 18868, July 16, 1973]

@@ -1,0 +1,11 @@
+##### § 95.23 Bones, horns, and hoofs; importations permitted subject to restrictions. #####
+
+Bones, horns, and hoofs offered for importation which do not meet the conditions or requirements of § 95.22 shall be handled and treated in the following manner after arrival at the port of entry:
+
+(a) They shall be consigned from the coast or border port of arrival to an approved establishment having facilities for their disinfection or their conversion into products customarily made from bones, horns, or hoofs: *Provided, however,* That I. T. or in-bond shipments of bones, horns, or hoofs may go forward under customs seals from a coast or border port of arrival, with the approval of an inspector at said port, to another port for consumption entry subject to the other provisions of this section.
+
+(b) They shall be moved from the coast or border port of arrival or, in case of I. T. or in-bond shipments, from the interior port to the establishment in cars or trucks with no other materials contained therein, sealed with seals of the Department, which shall not be broken except by inspectors or other persons authorized by the Deputy Administrator, Veterinary Services so to do, or without sealing as aforesaid and with other freight when packed in tight cases or casks acceptable to an inspector at the port of entry.
+
+(c) They shall be handled at the establishment under the direction of an inspector in a manner to guard against the dissemination of anthrax, foot-and-mouth disease, rinderpest, highly pathogenic avian influenza, and Newcastle disease, and the bags, burlap, or other containers thereof, before leaving the establishment, shall be disinfected by heat or otherwise, as directed by the Deputy Administrator, Veterinary Services or burned at the establishment. They shall not be removed therefrom except upon special permission of the Deputy Administrator, Veterinary Services and upon compliance with all the conditions and requirements of this section relative to the movement of the said bones, horns, and hoofs.
+
+(Approved by the Office of Management and Budget under control number 0579-0015)[28 FR 5981, June 13, 1963, as amended at 59 FR 67134, Dec. 29, 1994. Redesignated at 78 FR 73003, 73007, Dec. 4, 2013; 79 FR 71007, Dec. 1, 2014]

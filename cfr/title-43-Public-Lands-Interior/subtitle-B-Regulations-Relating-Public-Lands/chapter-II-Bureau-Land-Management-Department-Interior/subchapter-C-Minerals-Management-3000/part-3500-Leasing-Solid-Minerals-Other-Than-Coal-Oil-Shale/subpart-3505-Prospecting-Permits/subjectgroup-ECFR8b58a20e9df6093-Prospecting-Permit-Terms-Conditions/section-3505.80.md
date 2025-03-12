@@ -1,0 +1,3 @@
+##### § 3505.80 What happens when my permit expires? #####
+
+Your permit will expire at the end of its initial or extended term, as applicable, without notice. BLM may open the lands to new applications 60 days after your permit expires. However, if you timely filed for an extension under § 3505.64 of this part, the 60 day period would begin to run on the date BLM denies your extension request. If you timely filed for a preference right lease under § 3507.15 of this part, the 60 day period only would begin to run on the date BLM denies your lease application.

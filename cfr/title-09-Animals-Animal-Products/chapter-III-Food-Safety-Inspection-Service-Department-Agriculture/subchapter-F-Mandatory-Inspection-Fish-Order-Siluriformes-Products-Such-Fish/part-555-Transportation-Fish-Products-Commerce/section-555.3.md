@@ -1,0 +1,3 @@
+##### § 555.3 Unmarked, inspected fish product transported under official seal between official establishments for further processing; certificate. #####
+
+The requirements governing transportation of fish product that has been inspected and passed, but not so marked, from one official establishment to another official establishment are the same as those in § 325.5 of this chapter that apply to unmarked inspected meat products.

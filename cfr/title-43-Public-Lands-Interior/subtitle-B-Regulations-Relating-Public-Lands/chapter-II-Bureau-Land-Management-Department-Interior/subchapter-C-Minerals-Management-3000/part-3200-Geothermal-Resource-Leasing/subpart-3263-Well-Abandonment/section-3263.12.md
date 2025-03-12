@@ -1,0 +1,5 @@
+##### § 3263.12 How will BLM review my Sundry Notice to abandon my well and notify me of their decision? #####
+
+(a) When BLM receives your Sundry Notice, we will make sure it is complete and review it for compliance with the requirements of § 3200.4. We will notify you if we need more information or require additional procedures. If we need any further information to complete our review, we will contact you in writing and suspend our review until we receive the information. If we approve your Sundry Notice, we will send you an approved copy once our review is complete. Do not start abandonment of the well until we approve your Sundry Notice.
+
+(b) BLM may orally approve plugging procedures for a well requiring immediate action. If we do, you must submit the information required in § 3263.11 within 48 hours after we give oral approval.

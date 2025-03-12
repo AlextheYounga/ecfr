@@ -1,0 +1,3 @@
+##### § 3195.10 What is the purpose of these regulations? #####
+
+The purpose of these regulations is to establish procedures governing the sale of helium to Federal agencies with major helium requirements. In order to sell a major helium requirement to a Federal agency, a Federal helium supplier must be under contract with BLM to purchase from BLM an amount of crude helium equivalent to the amount of refined helium it has supplied to the Federal agency.

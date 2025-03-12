@@ -1,0 +1,3 @@
+##### § 404.45 What will be included in the appraisal report prepared by Reclamation? #####
+
+The appraisal report prepared by Reclamation will include Reclamation's finding as to whether or not it is appropriate to proceed to a feasibility study, based on Reclamation's review of the appraisal investigation and application of the criteria set forth in § 404.44, and the reasons supporting that finding.

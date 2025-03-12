@@ -1,0 +1,5 @@
+##### § 46.170 Environmental effects abroad of major Federal actions. #####
+
+(a) In order to facilitate informed decision-making, the Responsible Official having ultimate responsibility for authorizing and approving proposed actions encompassed by the provisions of Executive Order (EO) 12114 shall follow the provisions and procedures of that EO. EO 12114 “represents the United States government's exclusive and complete determination of the procedural and other actions to be taken by Federal agencies to further the purpose of the National Environmental Policy Act, with respect to the environment outside the United States, its territories and possessions.”
+
+(b) When implementing EO 12114, bureaus shall coordinate with the Department. The Department shall then consult with the Department of State, which shall coordinate all communications by the Department with foreign governments concerning environmental agreements and other arrangements in implementing EO 12114.

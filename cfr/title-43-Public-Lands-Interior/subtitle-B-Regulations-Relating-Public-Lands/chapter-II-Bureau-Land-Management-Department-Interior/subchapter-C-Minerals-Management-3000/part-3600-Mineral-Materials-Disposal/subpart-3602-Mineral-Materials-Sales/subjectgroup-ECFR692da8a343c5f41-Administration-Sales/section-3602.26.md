@@ -1,0 +1,3 @@
+##### § 3602.26 If I assign my contract, when do my obligations under the contract end? #####
+
+When BLM approves your assignment, you are released from any further liability under the contract for actions the assignee may take after the effective date of the assignment. You continue to be responsible for obligations that accrued before the approval date, whether or not you knew of them at the time of the transfer.

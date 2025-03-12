@@ -1,0 +1,5 @@
+##### § 418.31 Conservation measures. #####
+
+(a) Specific conservation actions will be needed for the District and its members to achieve a reasonable efficiency of operation as required by this part. The District is best able to determine the particular conservation measures that meet the needs of its water users. This ensures that the measures reflect the priorities and collective judgment of the water users; and will be practical, understandable and supported. The District also has the discretion to make changes in the measures they adopt as conditions or results dictate.
+
+(b) The District will keep the Bureau informed of the measures they expect to utilize during each year. This will enable the Bureau to stay apprised of any helpful information that may, in turn, help the Bureau assist other irrigation districts. The Bureau will work cooperatively in support of the District's selection of measures and methods of implementation.

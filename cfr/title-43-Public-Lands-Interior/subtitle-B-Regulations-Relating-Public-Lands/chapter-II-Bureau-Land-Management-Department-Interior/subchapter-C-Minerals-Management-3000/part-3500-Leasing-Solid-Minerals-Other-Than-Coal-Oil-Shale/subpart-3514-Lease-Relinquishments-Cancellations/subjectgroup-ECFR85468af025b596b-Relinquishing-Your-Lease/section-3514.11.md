@@ -1,0 +1,3 @@
+##### § 3514.11 May I relinquish my lease or any part of my lease? #####
+
+If you can show, to BLM's satisfaction, that the public interest will not be impaired, you may relinquish your entire lease or any legal subdivision of it. Notify us in writing that you intend to relinquish all or part of your lease. Include your original signature and date. If we approve your relinquishment, you are required to pay all accrued rentals and royalties, and to perform any reclamation of the leased lands that BLM may require. In some cases, BLM may require you to preserve any mines, productive works or permanent improvements on the leased lands in accordance with the terms of your lease.

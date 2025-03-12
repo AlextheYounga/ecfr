@@ -1,0 +1,5 @@
+##### § 9180.1-1 Meridians. #####
+
+(a) *Alaska.* The public land surveys in Alaska are governed by three principal meridians established as follows: The Seward Meridian, initiated just north of Resurrection Bay and extending to the Matanuska coal fields; the Fairbanks Meridian, commencing near the town of Fairbanks and controlling the surveys in that vicinity, including the Nenana coal fields; and the Copper River Meridian which lies in the valley of the Copper River and from which surveys have been executed as far north as the Tanana River and south to the Bering River coal fields and the Gulf of Alaska.
+
+(b) *Copies of records.* Copies of plats of surveys in Alaska, or other records of the Public Survey Office, will be sold at the cost of production, in accordance with section 1 of the Act of August 24, 1912 (37 Stat. 497), as amended (5 U.S.C. 488), and § 2.3 of this title.

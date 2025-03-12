@@ -1,0 +1,5 @@
+##### § 3809.336 What if I abandon my notice-level operations? #####
+
+(a) BLM may consider your operations to be abandoned if, for example, you leave inoperable or non-mining related equipment in the project area, remove equipment and facilities from the project area other than for purposes of completing reclamation according to your reclamation plan, do not maintain the project area, discharge local workers, or there is no sign of activity in the project area over time.
+
+(b) If BLM determines that you abandoned your operations without completing reclamation, BLM may initiate forfeiture under § 3809.595. If the amount of the financial guarantee is inadequate to cover the cost of reclamation, BLM may complete the reclamation, and the operator and all other responsible persons are liable for the cost of reclamation.

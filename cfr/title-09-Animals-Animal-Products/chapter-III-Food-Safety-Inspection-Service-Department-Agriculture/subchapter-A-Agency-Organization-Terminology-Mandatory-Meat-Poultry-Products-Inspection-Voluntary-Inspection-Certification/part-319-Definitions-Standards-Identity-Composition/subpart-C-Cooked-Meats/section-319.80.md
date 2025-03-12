@@ -1,0 +1,3 @@
+##### § 319.80 Barbecued meats. #####
+
+Barbecued meats, such as product labeled “Beef Barbecue” or “Barbecued Pork,” shall be cooked by the direct action of dry heat resulting from the burning of hard wood or the hot coals therefrom for a sufficient period to assume the usual characteristics of a barbecued article, which include the formation of a brown crust on the surface and the rendering of surface fat. The product may be basted with a sauce during the cooking process. The weight of barbecued meat shall not exceed 70 percent of the weight of the fresh uncooked meat.

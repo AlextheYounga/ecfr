@@ -1,0 +1,3 @@
+##### § 1882.7 Inspection and audit. #####
+
+Upon receipt of a loan under this subpart, the grantee of the loan shall establish accounts and related records necessary to record the transactions relating to receipt and disposition of such loan. These accounts and related records shall be sufficiently detailed to provide an adequate inspection and audit by the Secretary and the Comptroller General of the United States. The loan funds shall not be commingled with other funds of the recipient.

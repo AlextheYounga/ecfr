@@ -1,0 +1,3 @@
+##### § 3101.2-2 Acquired lands. #####
+
+An acreage limitation separate from, but equal to the acreage limitation for public domain lands described in § 3101.2-1 of this title, applies to acquired lands. Where the United States owns only a fractional interest in the mineral resources of the lands involved in a lease, only that part owned by the United States shall be charged as acreage holdings. The acreage embraced in a future interest lease shall not be charged as acreage holdings until the lease for the future interest becomes effective.

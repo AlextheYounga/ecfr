@@ -1,0 +1,3 @@
+##### § 3585.1 Lands to which applicable. #####
+
+The lands subject to the regulations in this subpart are within the White Mountains National Recreation Area—Alaska which have been opened to mineral leasing and development pursuant to the findings in the land use plan for the area that such use and development would be compatible with, or would not significantly impair, public recreation and conservation of the scenic, scientific, historic, fish and wildlife or other values contributing to public enjoyment. The land use plan is on file and available for public inspection in the Bureau's Fairbanks District Office.

@@ -1,0 +1,3 @@
+##### § 3.15 Persons who may apprehend or cause to be arrested. #####
+
+All persons duly authorized by the Secretaries of Agriculture, Army and Interior may apprehend or cause to be arrested, as provided in the Act of February 6, 1905 (33 Stat. 700) any person or persons who appropriate, excavate, injure, or destroy any historic or prehistoric ruin or monument, or any object of antiquity on lands under the supervision of the Secretaries of Agriculture, Army, and Interior, respectively.

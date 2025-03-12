@@ -1,0 +1,3 @@
+##### § 355.7 Inauguration of inspection. #####
+
+When an application for inspection, certification, and identification is granted, the circuit supervisor shall, at or prior to the inauguration of inspection, inform the owner or operator of the plant of the requirements of the regulations contained in this part. Inspection shall not be begun if a plant is not in a sanitary condition. The applicant shall adopt and enforce all necessary measures and shall comply with all such directions as the circuit supervisor may prescribe for carrying out the purposes of this part.

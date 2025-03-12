@@ -1,0 +1,3 @@
+##### § 3105.4-2 Purpose. #####
+
+Upon obtaining approval of the authorized officer, lessees may combine their interests in leases for the purpose of constructing and carrying on the business of a refinery or of establishing and constructing as a common carrier a pipeline or lines or railroads to be operated and used by them jointly in the transportation of oil or gas from their wells or from the wells of other lessees.

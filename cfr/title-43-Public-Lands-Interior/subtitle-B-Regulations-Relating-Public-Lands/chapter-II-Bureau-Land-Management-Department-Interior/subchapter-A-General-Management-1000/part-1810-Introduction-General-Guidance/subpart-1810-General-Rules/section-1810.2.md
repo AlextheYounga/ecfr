@@ -1,0 +1,5 @@
+##### § 1810.2 Communications by mail; when mailing requirements are met. #####
+
+(a) Where the regulations in this chapter provide for communication by mail by the authorized officer, the requirement for mailing is met when the communication, addressed to the addressee at his last address of record in the appropriate office of the Bureau of Land Management, is deposited in the mail.
+
+(b) Where the authorized officer uses the mails to send a notice or other communication to any person entitled to such a communication under the regulations of this chapter, that person will be deemed to have received the communication if it was delivered to his last address of record in the appropriate office of the Bureau of Land Management, regardless of whether it was in fact received by him. An offer of delivery which cannot be consummated at such last address of record because the addressee had moved therefrom without leaving a forwarding address or because delivery was refused or because no such address exists will meet the requirements of this section where the attempt to deliver is substantiated by post office authorities.

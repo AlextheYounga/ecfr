@@ -1,0 +1,3 @@
+##### § 3504.66 Must I restore my bond to the full amount if payment has been made from my bond? #####
+
+Yes. After any default, BLM will notify you of the amount you must pay to restore your bond. We will give you no more than six months to post a new bond or increase the existing bond to its pre-default level. You may elect to file separate or substitute bonds for each permit or lease. If you do not replace your bond, BLM may take action to cancel the leases or permits covered by the bond.

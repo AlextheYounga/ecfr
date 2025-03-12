@@ -1,0 +1,3 @@
+##### § 3581.4-2 Rate of royalty; investment determined. #####
+
+If the authorized officer finds the application sufficient to authorize the issuance of a lease, he/she shall establish a rate of royalty of not less than 5 percent or more than 121/2 percent of the value of the output of gold, silver or quicksilver at the mine and also shall establish the amount of investment required under the lease.

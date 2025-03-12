@@ -1,0 +1,11 @@
+##### § 95.19 Wool, hair, and bristles; importations permitted subject to restrictions. #####
+
+Wool, hair, or bristles offered for importation which do not meet the conditions or requirements of § 95.18 shall be handled and treated in the following manner after arrival at the port of entry:
+
+(a) Such wool, hair, or bristles shall be consigned from the coast or border port of arrival to an approved establishment: *Provided, however,* That upon permission by the Deputy Administrator, Veterinary Services such wool, hair, or bristles may be stored for a temporary period in approved warehouses under bond and under the supervision of an inspector: *And provided further,* That I. T. on in-bond shipments of wool, hair, or bristles may go forward under customs seals from a coast or border port of arrival, with the approval of an inspector at said port, to another port for consumption entry, subject to the other provisions of this section.
+
+(b) Such wool, hair, or bristles shall be moved from the coast or border port of arrival or, in the case of I. T. or in-bond shipments, from the interior port to the establishment in cars or trucks or in vessel compartments with no other materials contained therein, sealed with seals of the Department, which shall not be broken except by inspectors or other persons authorized by the Deputy Administrator, Veterinary Services so to do, or without sealing as aforesaid and with other freight when packed in tight cases acceptable to an inspector.
+
+(c) Such wool, hair, or bristles shall be handled at the establishment under the direction of an inspector in a manner approved by the Deputy Administrator, Veterinary Services to guard against the dissemination of foot-and-mouth disease and rinderpest. Such products shall not be removed therefrom except upon special permission of the Deputy Administrator, Veterinary Services and upon compliance with all the conditions and requirements of this section relative to the movement of the said wool, hair, or bristles from the port of arrival to the said establishment.
+
+(Approved by the Office of Management and Budget under control number 0579-0015)[28 FR 5981, June 13, 1963, as amended at 59 FR 67134, Dec. 29, 1994. Redesignated and amended at 78 FR 73003, 73007, Dec. 4, 2013]

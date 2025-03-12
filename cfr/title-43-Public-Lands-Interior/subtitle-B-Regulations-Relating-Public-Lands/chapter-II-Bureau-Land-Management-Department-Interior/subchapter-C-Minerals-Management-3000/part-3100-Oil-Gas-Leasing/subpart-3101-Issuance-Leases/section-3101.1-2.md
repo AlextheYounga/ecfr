@@ -1,0 +1,5 @@
+##### § 3101.1-2 Surface use rights. #####
+
+A lessee shall have the right to use so much of the leased lands as is necessary to explore for, drill for, mine, extract, remove and dispose of all the leased resource in a leasehold subject to: Stipulations attached to the lease; restrictions deriving from specific, nondiscretionary statutes; and such reasonable measures as may be required by the authorized officer to minimize adverse impacts to other resource values, land uses or users not addressed in the lease stipulations at the time operations are proposed. To the extent consistent with lease rights granted, such reasonable measures may include, but are not limited to, modification to siting or design of facilities, timing of operations, and specification of interim and final reclamation measures. At a minimum, measures shall be deemed consistent with lease rights granted provided that they do not: require relocation of proposed operations by more than 200 meters; require that operations be sited off the leasehold; or prohibit new surface disturbing operations for a period in excess of 60 days in any lease year.
+
+[53 FR 17352, May 16, 1988]

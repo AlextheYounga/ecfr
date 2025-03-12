@@ -1,0 +1,17 @@
+##### § 325.8 Transportation and other transactions concerning certain undenatured lungs or lung lobes from official establishments or in commerce; provisions and restrictions. #####
+
+(a) Lungs or lung lobes, other than those condemned under § 310.16(b) of this subchapter, that are prepared at any official establishment, may be sold, transported, offered for sale or transportation, or received for transportation from the establishment, in commerce or otherwise, without denaturing as prescribed in § 314.1 or § 314.3 of this subchapter: *Provided:*
+
+(1) The lungs or lung lobes are sold, transported, or offered for sale or transportation to, or received for transportation by: An animal food manufacturer for use in manufacturing animal food; a zoo, mink farm, or other establishment for use as animal food without further processing; a warehouse in the United States for storage and subsequent movement to such a manufacturer or establishment in the United States, or from one warehouse to another for the account of and subsequent movement to such a manufacturer or establishment, or for export, for nonhuman food purposes.
+
+(2) The boxes or other containers used for shipping the undenatured lungs or lung lobes are closed with nylon filament tape, metallic on nonmetallic straps, round wire, or other similar materials that securely effect closure of such containers, and the containers are permanently identified in at least 2-inch (5 cm) high lettering with the statement “(Species) Lungs—Not Intended for Human Food.” In lieu of securely closing the immediate container with any of the above materials, a 1-inch (2.5 cm) wide bright orange band, imprinted around the length and width of the container may be used.
+
+(3) The name and place of business of the packer or distributor shall be shown on the immediate container of the product. In addition, the country of origin shall be shown on the immediate container of imported lungs or lung lobes.
+
+(b) Lungs or lung lobes, other than those condemned under a State law or regulation at least equal to § 310.16(b) of this subchapter, that are prepared at any State inspected establishment may be sold, transported, offered for sale, or transportation or received for transportation from that establishment, in commerce, without denaturing as prescribed under section 201 of the Act, provided the State law or regulations permit such disposition and provided there is compliance with the provisions of paragraph (a) of this section.
+
+(c) Foreign establishments shall be eligible to export lungs or lung lobes, other than those condemned for reasons set forth in § 310.16(b) of this subchapter, to the United States from such foreign country under this section, only if such establishments are certified and approved for export of products to the United States under part 327 of this subchapter, and such product complies with the applicable regulations for preventing the introduction into the United States of diseases (9 CFR 94), in addition to the requirements of paragraph (a) of this section.
+
+(d) All such lungs or lung lobes, if intended for animal food, are subject to the Federal Food, Drug, and Cosmetic Act.
+
+[43 FR 43445, Sept. 26, 1978]

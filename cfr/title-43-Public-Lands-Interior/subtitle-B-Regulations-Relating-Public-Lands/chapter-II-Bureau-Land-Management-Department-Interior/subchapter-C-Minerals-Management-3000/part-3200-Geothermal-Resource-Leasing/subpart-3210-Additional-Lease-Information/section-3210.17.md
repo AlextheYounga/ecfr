@@ -1,0 +1,3 @@
+##### § 3210.17 What will BLM do if I do not protect my lease from drainage? #####
+
+BLM will determine the amount of geothermal resources drained from your lease. MMS will bill you for a compensatory royalty based on our findings. This royalty will equal the amount you would have paid for producing those resources. All interest owners in a lease are jointly and severally liable for drainage protection and any compensatory royalties.

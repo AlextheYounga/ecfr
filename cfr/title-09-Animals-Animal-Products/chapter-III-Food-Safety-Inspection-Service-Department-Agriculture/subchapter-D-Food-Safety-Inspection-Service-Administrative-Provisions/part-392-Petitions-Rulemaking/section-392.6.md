@@ -1,0 +1,7 @@
+##### § 392.6 Public display. #####
+
+(a) All rulemaking petitions filed with FSIS, along with any documentation submitted in support of a petition, will be available for public inspection in the FSIS docket room and will be posted on the FSIS Web site at *http://www.fsis.usda.gov/.*
+
+(b) If FSIS cannot readily determine whether information submitted in support of a petition is privileged or confidential business information, FSIS will request that the petitioner submit a written statement that certifies that the petition does not contain confidential information that should not be put on public display. If the petitioner fails to submit the certification within a time specified by FSIS, the Agency will consider the information to be confidential.
+
+(c) If FSIS determines that a petition, or any documentation submitted in support of a petition, contains information that is exempt from public disclosure under the Freedom of Information Act (5 U.S.C. 552 *et seq.*) or any other applicable laws or regulations, and that the information would provide the basis for granting the petition, FSIS will inform the petitioner in writing. FSIS will provide the petitioner an opportunity to withdraw the petition or supporting documentation, or modify the supporting documentation to permit public disclosure.

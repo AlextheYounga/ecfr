@@ -1,0 +1,3 @@
+##### § 1824.10 What is publication? #####
+
+Publication means publishing a notice announcing an event or a proposed action in the Federal Register, a local newspaper of established character and general circulation in the vicinity of the land affected or other appropriate periodical. BLM's purpose in publishing or requiring the publication of such information is to advise you and other interested parties that some action will occur and that the public is invited either to participate or to comment.

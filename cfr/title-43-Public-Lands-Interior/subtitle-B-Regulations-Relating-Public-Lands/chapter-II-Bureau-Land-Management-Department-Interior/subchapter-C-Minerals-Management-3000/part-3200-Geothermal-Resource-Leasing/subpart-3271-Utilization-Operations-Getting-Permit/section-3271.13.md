@@ -1,0 +1,3 @@
+##### § 3271.13 How do I obtain approval to build pipelines and facilities connecting the well field to utilization facilities not located on Federal lands leased for geothermal resources? #####
+
+Before constructing pipelines and well field facilities on Federal lands leased for geothermal resources, you as lessee, unit operator, or facility operator must submit to BLM a utilization plan and facility construction permit addressing any pipelines or facilities. Do not start construction of your pipelines or facilities until BLM approves your facility construction permit.

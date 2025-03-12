@@ -1,0 +1,5 @@
+##### § 3484.2 Completion of operations and permanent abandonment. #####
+
+(a) Before permanent abandonment of exploration operations, all openings and excavations shall be closed, backfilled, or otherwise permanently dealt with in accordance with sound engineering practices and according to the approved exploration plan. Drill holes, trenches, and other excavations for exploration shall be abandoned in such a manner as to protect the surface and not endanger any present or future underground operation, or any deposit of coal, oil, gas, mineral resources, or ground water. Areas disturbed by exploration operations will be graded, drained, and revegetated.
+
+(b) Upon permanent abandonment of mining operations, the authorized officer will require that the unmined recoverable coal reserves and other resources be adequately protected. Upon completion of abandonment, the authorized officer will inform the responsible office of the surface managing agency and regulatory authority as to whether the abandonment has been completed in compliance with the rules of this part.

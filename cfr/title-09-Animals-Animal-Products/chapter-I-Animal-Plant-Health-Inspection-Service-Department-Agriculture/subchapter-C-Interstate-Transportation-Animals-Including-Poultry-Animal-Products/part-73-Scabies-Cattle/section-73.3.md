@@ -1,0 +1,5 @@
+##### § 73.3 Shipment for purposes other than slaughter; conditions under which permitted. #####
+
+Cattle affected with scabies may be shipped interstate for any purpose if dipped twice in a permitted dip, 10 to 14 days apart, under the supervision of an APHIS inspector or State inspector, and so certified by such inspector, or such cattle may be so shipped if dipped once in a permitted dip under APHIS supervision or State supervision at the point of origin, provided arrangements have been made for the second dipping, under APHIS supervision, en route or at destination within 10 to 14 days after the first dipping. If shipped in the latter manner the means of conveyance containing the cattle shall be placarded and the billing shall be marked “Treated Scabby Cattle,” in accordance with § 73.6.
+
+[28 FR 5945, June 13, 1963, as amended at 41 FR 5384, Feb. 6, 1976; 49 FR 10530, Mar. 20, 1984; 49 FR 33120, Aug. 21, 1984; 56 FR 52463, Oct. 21, 1991; 66 FR 21062, Apr. 27, 2001]

@@ -1,0 +1,3 @@
+##### § 3864.1-3 Millsites for quartz mills or reduction works. #####
+
+In case the owner of a quartz mill or reduction works is not the owner or claimant of a vein or lode claim the law permits him to make application therefor in the same manner prescribed for mining claims, and after due notice and proceedings, in the absence of a valid adverse filing, to enter and receive a patent for his millsite at the price named in the preceding section.

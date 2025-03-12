@@ -1,0 +1,5 @@
+##### § 122.2 Permits required. #####
+
+No organisms or vectors shall be imported into the United States or transported from one State or Territory or the District of Columbia to another State or Territory or the District of Columbia without a permit issued by the Secretary and in compliance with the terms thereof: *Provided,* That no permit shall be required under this section for importation of organisms for which an import permit has been issued pursuant to part 102 of this subchapter or for transportation of organisms produced at establishments licensed under part 102 of this subchapter. As a condition of issuance of permits under this section, the permittee shall agree in writing to observe the safeguards prescribed by the Administrator for public protection with respect to the particular importation or transportation.
+
+(Approved by the Office of Management and Budget under control number 0579-0015)[28 FR 7896, Aug. 2, 1963. Redesignated at 31 FR 81, Jan. 5, 1966 and amended at 48 FR 57473, Dec. 30, 1983; 57 FR 30899, July 13, 1992; 59 FR 67134, Dec. 29, 1994]

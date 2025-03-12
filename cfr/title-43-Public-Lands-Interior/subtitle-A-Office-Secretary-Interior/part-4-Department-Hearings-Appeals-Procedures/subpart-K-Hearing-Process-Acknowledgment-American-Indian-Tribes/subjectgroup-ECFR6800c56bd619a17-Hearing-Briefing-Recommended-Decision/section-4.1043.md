@@ -1,0 +1,3 @@
+##### § 4.1043 What are the methods for testifying? #####
+
+Oral examination of a witness in a hearing, including on cross-examination or redirect, must be conducted under oath with an opportunity for all parties to question the witness. The witness must testify in the presence of the ALJ unless the ALJ authorizes the witness to testify by telephonic conference call. The ALJ may issue a subpoena under § 4.1035 directing a witness to testify by telephonic conference call.

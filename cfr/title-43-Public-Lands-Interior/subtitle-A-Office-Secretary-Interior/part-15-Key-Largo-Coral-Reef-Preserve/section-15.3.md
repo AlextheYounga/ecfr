@@ -1,0 +1,3 @@
+##### § 15.3 Dredging, filling, excavating and building activities. #####
+
+No dredging, excavating, or filling operations of any kind are permitted in the Preserve and no materials of any sort may be deposited in or on the waters thereof. No building or structure of any kind, whether permanent or temporary, may be constructed or built, and no public service facility may be constructed or extended into, upon or across the Preserve.

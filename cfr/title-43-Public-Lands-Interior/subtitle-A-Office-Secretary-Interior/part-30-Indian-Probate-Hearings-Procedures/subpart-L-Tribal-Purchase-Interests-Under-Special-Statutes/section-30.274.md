@@ -1,0 +1,3 @@
+##### § 30.274 What happens to income from land interests during pendency of the probate? #####
+
+During the pendency of the probate, there may be income received or accrued from the land interests purchased by the tribe, including the payment from the tribe. This income will be credited to the estate and paid to the heirs. For purposes of this section, pendency of the probate ends on the date of transfer of title to the United States in trust for the tribe under § 30.273.

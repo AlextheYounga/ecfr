@@ -1,0 +1,5 @@
+##### § 2.281 What is the Department's policy on granting requests for employee testimony or Department records? #####
+
+(a) Except for proceedings covered by § 2.80(c) and (d), it is the Department's general policy not to allow its employees to testify or to produce Department records either upon request or by subpoena. However, if you request in writing, the Department will consider whether to allow testimony or production of records under this subpart. The Department's policy ensures the orderly execution of its mission and programs while not impeding any proceeding inappropriately.
+
+(b) No Department employee may testify or produce records in any proceeding to which this subpart applies unless authorized by the Department under §§ 2.80 through 2.90 *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

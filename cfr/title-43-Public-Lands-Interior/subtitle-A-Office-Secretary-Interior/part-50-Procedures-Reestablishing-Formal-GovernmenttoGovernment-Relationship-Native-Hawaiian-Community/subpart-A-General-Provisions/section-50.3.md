@@ -1,0 +1,3 @@
+##### § 50.3 May the Native Hawaiian community reorganize itself based on island or other geographic, historical, or cultural ties? #####
+
+The Secretary will reestablish a formal government-to-government relationship with only one sovereign Native Hawaiian government, which may include political subdivisions with limited powers of self-governance defined in the Native Hawaiian government's governing document.

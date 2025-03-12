@@ -1,0 +1,5 @@
+##### § 390.8 Agency response to requests. #####
+
+(a) The response to Freedom of Information requests and appeals by officials named in §§ 390.5 and 390.7 of this part shall be governed by and made in accordance with 7 CFR 1.7 and the regulations in this part.
+
+(b) If requests for records and information are received by field offices, the field office will immediately notify the FOIA Coordinator or designee by telephone and transmit the request to the FOIA office. In rare instances, the FOIA Coordinator or designee will authorize a release of the requested records to the field office receiving the request. The request will be considered as having been received on the date of arrival in the office of the Coordinator or designee. Any person whose request for records has been granted may inspect and copy the records (or copies) at the office listed in § 390.4 of this part in accordance with the provisions of that section and with § 390.6. Copies also may be obtained by mail.

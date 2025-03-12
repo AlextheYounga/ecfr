@@ -1,0 +1,3 @@
+##### § 1864.3 Issuance of document of disclaimer. #####
+
+Upon receipt of the payment required by §§ 1864.1-2(b), 1864.1-3(c) and 1864.2 of this title and following, by not less than 90 days, the publication required by § 1864.2 of this title, the authorized officer shall make a decision upon the application, and if the application is allowed, shall issued to the applicant an instrument of disclaimer.

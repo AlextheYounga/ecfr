@@ -1,0 +1,3 @@
+##### § 93.313 Appearance of disease among horses in quarantine. #####
+
+If any contagious disease appears among horses during the quarantine period special precautions shall be taken to prevent spread of the infection to other animals in the quarantine station or to those outside the grounds. The affected horses shall be disposed of as the Administrator may direct, depending upon the nature of the disease.

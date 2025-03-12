@@ -1,0 +1,7 @@
+##### § 3931.40 Exploration. #####
+
+To conduct exploration operations under an exploration license or on a lease after lease issuance, but prior to approval of the POD, the following rules apply:
+
+(a) Except for casual use, before conducting any exploration operations on federally-leased or federally-licensed lands, the operator or lessee must submit to the proper BLM office for approval 3 copies of the exploration plan or a copy of the plan in an acceptable electronic format. Contact the proper BLM office for detailed information on submitting copies electronically. As used in this paragraph, casual use means activities that do not cause appreciable surface disturbance or damage to lands or other resources and improvements. Casual use does not include use of heavy equipment, explosives, or vehicular movement off established roads and trails.
+
+(b) The exploration activities must be consistent with the requirements of the underlying Federal lease or exploration license, and address protection of recoverable oil shale reserves and other resources and reclamation of the surface of the lands affected by the exploration operations. The exploration plan must meet the requirements of § 3931.20 and must show how reclamation will be an integral part of the proposed operations and that reclamation will progress as contemporaneously as practicable with operations.

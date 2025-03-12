@@ -1,0 +1,5 @@
+##### § 3106.3 Fees. #####
+
+Each transfer of record title or of operating rights (sublease) for each lease must include payment of the processing fee for assignments and transfers found in the fee schedule in § 3000.12 of this chapter. Each request for a transfer to an heir or devisee, request for a change of name, or notification of a corporate merger under § 3106.8, must include payment of the processing fee for name changes, corporate mergers or transfers to heir/devisee found in the fee schedule in § 3000.12 of this chapter. Each transfer of overriding royalty or payment out of production must include payment of the processing fee for overriding royalty transfers or payments out of productions found in the fee schedule in § 3000.12 of this chapter for each lease to which it applies.
+
+[70 FR 58874, Oct. 7, 2005]

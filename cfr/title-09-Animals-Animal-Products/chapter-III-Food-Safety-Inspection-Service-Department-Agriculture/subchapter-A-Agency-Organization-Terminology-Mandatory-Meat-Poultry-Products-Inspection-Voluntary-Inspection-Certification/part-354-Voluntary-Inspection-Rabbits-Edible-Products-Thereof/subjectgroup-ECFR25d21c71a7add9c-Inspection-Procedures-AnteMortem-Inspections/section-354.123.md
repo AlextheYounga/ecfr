@@ -1,0 +1,3 @@
+##### § 354.123 Segregation of suspects on ante-mortem inspection. #####
+
+All rabbits which, on ante-mortem inspection, do not plainly show, but are suspected of being affected with any disease or condition that under §§ 354.129 to 354.131, inclusive, may cause condemnation in whole or in part on post-mortem inspection, shall be segregated from the other rabbits and held for separate slaughter, evisceration, and post-mortem inspection. The inspector shall be notified when such segregated lots are presented for post-mortem inspection and inspection of such rabbits shall be conducted separately. Such procedure for the correlation of ante-mortem and post-mortem findings by the inspector, as may be prescribed or approved by the Administrator, shall be carried out.

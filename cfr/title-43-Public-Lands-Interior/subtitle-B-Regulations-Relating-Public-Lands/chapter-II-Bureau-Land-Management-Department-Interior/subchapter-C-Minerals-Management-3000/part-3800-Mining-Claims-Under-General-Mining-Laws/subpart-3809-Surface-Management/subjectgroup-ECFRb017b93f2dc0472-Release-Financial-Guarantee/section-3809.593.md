@@ -1,0 +1,3 @@
+##### § 3809.593 What happens to my financial guarantee if I transfer my operations? #####
+
+You remain responsible for obligations or conditions created while you conducted operations unless a transferee accepts responsibility under § 3809.116, and BLM accepts an adequate replacement financial guarantee. Therefore, your financial guarantee must remain in effect until BLM determines that you are no longer responsible for all or part of the operation. BLM can release your financial guarantee on an incremental basis. The new operator must provide a financial guarantee before BLM will allow the new operator to conduct operations.

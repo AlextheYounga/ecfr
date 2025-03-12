@@ -1,0 +1,11 @@
+##### § 11.91 How does the authorized official seek recovery of the assessed damages from the potentially responsible party? #####
+
+(a) At the conclusion of the assessment, the authorized official must present to the potentially responsible party a demand in writing for the damages determined in accordance with this part and the reasonable cost of the assessment. [See § 11.92(b) to determine how the authorized official must adjust damages if he or she plans to place recovered funds in a non-interest-bearing account.] The authorized official must deliver the demand in a manner that establishes the date of receipt. The demand shall adequately identify the Federal or State agency or Indian tribe asserting the claim, the general location and description of the injured resource, the type of discharge or release determined to have resulted in the injuries, and the damages sought from that party.
+
+(b) *Report of assessment.* The demand letter shall include the Report of Assessment as an attachment.
+
+(c) *Rebuttable presumption.* When performed by a Federal or State official in accordance with this part, the natural resource damage assessment and the resulting Damage Determination supported by a complete administrative record of the assessment including the Report of Assessment as described in § 11.90 of this part shall have the force and effect of a rebuttable presumption on behalf of any Federal or State claimant in any judicial or adjudicatory administrative proceeding under CERCLA, or section 311 of the CWA.
+
+(d) *Potentially responsible party response.* The authorized official should allow at least 60 days from receipt of the demand by the potentially responsible party, with reasonable extensions granted as appropriate, for the potentially responsible party to acknowledge and respond to the demand, prior to filing suit. In cases governed by section 113(g) of CERCLA, the authorized official may include a notice of intent to file suit and must allow at least 60 days from receipt of the demand by the potentially responsible party, with reasonable extensions granted as appropriate, for the potentially responsible party to acknowledge and respond to the demand, prior to filing suit.
+
+[53 FR 5176, Feb. 22, 1988, as amended at 59 FR 14287, Mar. 25, 1994; 61 FR 20612, May 7, 1996; 73 FR 57268, Oct. 2, 2008]

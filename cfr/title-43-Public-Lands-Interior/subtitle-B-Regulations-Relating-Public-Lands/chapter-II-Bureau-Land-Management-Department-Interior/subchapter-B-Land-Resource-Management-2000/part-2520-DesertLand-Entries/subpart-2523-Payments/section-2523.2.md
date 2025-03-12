@@ -1,0 +1,5 @@
+##### § 2523.2 Amounts to be paid. #####
+
+No fees or commissions are required of persons making entry under the desert land laws except such fees as are paid to the officers for taking the affidavits and proofs. Unless the entry be perfected under the Act of February 14, 1934 (48 Stat. 349; 43 U.S.C. 339), the only payments made to the Government are the original payment of 25 cents an acre at the time of making the application and the final payment of $1 an acre, to be paid at the time of making the final proof. On all final proofs made before the authorizing officer, the claimant must pay to the authorizing officer the costs of reducing the testimony to writing, as determined by the authorizing officer. No proof shall be accepted or approved until all charges have been paid.
+
+[35 FR 9588, June 13, 1970]

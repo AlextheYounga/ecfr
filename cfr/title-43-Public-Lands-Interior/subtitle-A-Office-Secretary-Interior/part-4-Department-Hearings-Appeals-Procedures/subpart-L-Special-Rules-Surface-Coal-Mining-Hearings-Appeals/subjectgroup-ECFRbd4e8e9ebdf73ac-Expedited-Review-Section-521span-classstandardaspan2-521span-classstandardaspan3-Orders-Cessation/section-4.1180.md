@@ -1,0 +1,3 @@
+##### § 4.1180 Purpose. #####
+
+The purpose of §§ 4.1180-4.1187 is to govern applications filed under section 525(b) of the act for expedited review of orders of cessation for which temporary relief has not been granted under section 525(c) or section 526(c) of the act. If a person is qualified to receive a 30-day decision under these regulations, he may waive that right and file an application under § 4.1164, and the procedures in § 4.1160 *et seq.* shall apply. If there is a waiver as set forth in § 4.1186, the final administrative decision shall be issued within 120 days of the filing of the application.

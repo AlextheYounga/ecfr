@@ -1,0 +1,5 @@
+##### § 3933.52 Continuing responsibility under assignment and sublease. #####
+
+(a) The assignor and its surety are responsible for the performance of any obligation under the lease or license that accrues prior to the effective date of the BLM's approval of the assignment. After the effective date of the BLM's approval of the assignment, the assignee and its surety are responsible for the performance of all lease or license obligations that accrue after the effective date of the BLM's approval of the assignment, notwithstanding any terms in the assignment to the contrary. If the BLM does not approve the assignment, the purported assignor's obligation to the United States continues as though no assignment had been filed.
+
+(b) After the effective date of approval of a sublease, the sublessor and sublessee are jointly and severally liable for the performance of all lease obligations, notwithstanding any terms in the sublease to the contrary.

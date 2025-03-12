@@ -1,0 +1,3 @@
+##### § 7.34 Procedural information for securing permits. #####
+
+Information about procedures to secure a permit to excavate or remove archaeological resources from public lands or Indian lands can be obtained from the appropriate Indian tribal authorities, the Federal land manager of the bureau that administers the specific area of the public lands or Indian lands for which a permit is desired, or from the state, regional, or national office of that bureau.

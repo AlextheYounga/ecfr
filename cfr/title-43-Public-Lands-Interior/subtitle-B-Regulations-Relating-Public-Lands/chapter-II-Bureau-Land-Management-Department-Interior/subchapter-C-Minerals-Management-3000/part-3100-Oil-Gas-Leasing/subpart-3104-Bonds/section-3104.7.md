@@ -1,0 +1,7 @@
+##### § 3104.7 Default. #####
+
+(a) Where, upon a default, the surety makes a payment to the United States of an obligation incurred under a lease, the face amount of the surety bond or personal bonds and the surety's liability thereunder shall be reduced by the amount of such payment.
+
+(b) After default, where the obligation in default equals or is less than the face amount of the bond(s), the principal shall either post a new bond or restore the existing bond(s) to the amount previously held or a larger amount as determined by the authorized officer. In lieu thereof, the principal may file separate or substitute bonds for each lease covered by the deficient bond(s). Where the obligation incurred exceeds the face amount of the bond(s), the principal shall make full payment to the United States for all obligations incurred that are in excess of the face amount of the bond(s) and shall post a new bond in the amount previously held or such larger amount as determined by the authorized officer. The restoration of a bond or posting of a new bond shall be made within 6 months or less after receipt of notice from the authorized officer. Failure to comply with these requirements may subject all leases covered by such bond(s) to cancellation under the provisions of § 3108.3 of this title.
+
+[48 FR 33662, July 22, 1983, as amended at 53 FR 17354, May 16, 1988]

@@ -1,0 +1,3 @@
+##### § 530.2 FSIS organization for inspection of fish and fish products. #####
+
+The Food Safety and Inspection Service, U.S. Department of Agriculture, administers an inspection program for fish and fish products. The organization of FSIS and the principal offices of FSIS and their functions are described, and organizational terms defined, in 9 CFR part 300, subchapter A of this chapter. Section 300.3 lists the FSIS district offices and the geographic areas of the districts.

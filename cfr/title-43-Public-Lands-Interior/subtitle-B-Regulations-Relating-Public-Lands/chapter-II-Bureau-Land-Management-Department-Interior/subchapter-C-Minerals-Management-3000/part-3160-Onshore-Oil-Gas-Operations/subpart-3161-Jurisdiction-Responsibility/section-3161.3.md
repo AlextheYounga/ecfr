@@ -1,0 +1,7 @@
+##### § 3161.3 Inspections. #####
+
+(a) The authorized officer shall establish procedures to ensure that each Federal and Indian lease site which is producing or is expected to produce significant quantities of oil or gas in any year or which has a history of noncompliance with applicable provisions of law or regulations, lease terms, orders or directives shall be inspected at least once annually. Similarly, each lease site on non-Federal or non-Indian lands subject to a formal agreement such as a unit or communitization agreement which has been approved by the Department of the Interior and in which the United States or the Indian lessors share in production shall be inspected annually whenever any of the foregoing criteria are applicable.
+
+(b) In accomplishing the inspections, the authorized officer may utilize Bureau personnel, may enter into cooperative agreements with States or Indian Tribes, may delegate the inspection authority to any State, or may contract with any non-Federal Government entities. Any cooperative agreement, delegation or contractual arrangement shall not be effective without concurrence of the Secretary and shall include applicable provisions of the Federal Oil and Gas Royalty Management Act.
+
+[49 FR 37363, Sept. 21, 1984, as amended at 52 FR 5391, Feb. 20, 1987]

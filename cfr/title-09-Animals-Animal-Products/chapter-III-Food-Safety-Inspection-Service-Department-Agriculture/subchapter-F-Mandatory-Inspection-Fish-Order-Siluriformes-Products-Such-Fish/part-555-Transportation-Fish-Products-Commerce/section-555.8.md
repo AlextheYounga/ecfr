@@ -1,0 +1,3 @@
+##### § 555.8 Loading or unloading of fish products in sealed transport conveyances. #####
+
+The requirements in 9 CFR 325.17 governing the unloading of any meat or meat food product from an officially sealed railroad car, truck, or other means of conveyance containing any unmarked product or loading any means of conveyance after the product leaves an official establishment are applicable to fish and fish products.

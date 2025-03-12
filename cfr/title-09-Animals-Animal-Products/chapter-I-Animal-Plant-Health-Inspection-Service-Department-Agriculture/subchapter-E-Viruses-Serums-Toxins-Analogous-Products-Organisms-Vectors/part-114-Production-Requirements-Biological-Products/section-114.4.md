@@ -1,0 +1,3 @@
+##### § 114.4 Identification of biological products. #####
+
+Suitable tags or labels of a distinct design shall be used for identifying all ingredients used in the preparation of biological products, all component parts to be combined to form a biological product, all biological products while in the course of preparation and all completed biological products held in storage at licensed establishments: *Provided,* That, if such ingredients, components, or biological products are not so identified, they shall be disposed of as provided in § 114.15.

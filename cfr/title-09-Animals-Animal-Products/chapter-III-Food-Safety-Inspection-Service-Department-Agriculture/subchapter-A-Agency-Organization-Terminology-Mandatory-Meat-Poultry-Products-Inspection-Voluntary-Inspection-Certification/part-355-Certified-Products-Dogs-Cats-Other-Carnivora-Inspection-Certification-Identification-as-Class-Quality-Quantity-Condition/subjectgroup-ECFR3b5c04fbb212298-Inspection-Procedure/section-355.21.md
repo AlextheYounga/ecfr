@@ -1,0 +1,3 @@
+##### § 355.21 Products entering inspected plants. #####
+
+All products of a kind certified under this part or materials to be used in the preparation of such products when brought into an inspected plant shall be identified and inspected at the time of receipt and be subject to further inspection in such manner and at such time as may be deemed necessary. If, upon inspection, any such article is found to be unsound or otherwise unfit, it shall be handled as provided in § 355.28.

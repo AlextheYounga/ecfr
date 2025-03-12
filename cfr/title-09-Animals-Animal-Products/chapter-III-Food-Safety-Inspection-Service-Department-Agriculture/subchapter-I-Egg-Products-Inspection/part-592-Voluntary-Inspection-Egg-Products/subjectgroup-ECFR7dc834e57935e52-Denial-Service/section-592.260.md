@@ -1,0 +1,3 @@
+##### § 592.260 Reuse of containers bearing official identification prohibited. #####
+
+The reuse, by any person, of containers bearing official identification is prohibited unless such identification is applicable in all respects to product being packed therein. In such instances, the container and label may be used provided the packaging is accomplished under the supervision of inspection program personnel or program employee, and the container is in clean, sound condition and lined with a suitable inner liner.

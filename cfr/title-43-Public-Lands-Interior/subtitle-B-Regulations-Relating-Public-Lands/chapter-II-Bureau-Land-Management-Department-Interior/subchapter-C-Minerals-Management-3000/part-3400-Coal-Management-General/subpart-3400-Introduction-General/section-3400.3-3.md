@@ -1,0 +1,3 @@
+##### § 3400.3-3 Department of Agriculture lands. #####
+
+Subject to the provisions of § 3400.3-1, the Secretary may issue leases that authorize surface coal mining operations on Federal lands within the National Forest System, provided that such leases may not be issued on lands within a national forest unless the tract is assessed to be acceptable for all or certain stipulated methods of surface coal mining operations under the provisions of Criterion No. 1 in § 3461.1 of this title.

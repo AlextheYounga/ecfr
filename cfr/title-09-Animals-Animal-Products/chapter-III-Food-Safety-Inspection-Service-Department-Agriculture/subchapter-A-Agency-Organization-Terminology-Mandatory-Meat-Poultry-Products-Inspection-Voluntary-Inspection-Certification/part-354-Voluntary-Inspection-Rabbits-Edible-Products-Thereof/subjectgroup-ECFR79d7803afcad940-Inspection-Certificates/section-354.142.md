@@ -1,0 +1,5 @@
+##### § 354.142 Food product inspection certificates; issuance and disposition. #####
+
+(a) Upon the request of an interested party, any inspector is authorized to issue a food product inspection certificate with respect to any inspected and certified edible product after suitable examination of the product has been made by the inspector.
+
+(b) The original of each food product inspection certificate, and not to exceed two copies thereof, if requested, shall, immediately upon issuance, be delivered or mailed to the applicant or person designated by him. Another copy shall be filed in the office of the regional supervisor serving the area in which such certificate was issued, and one copy shall be forwarded to the Administrator. The last named two copies shall be retained until otherwise ordered by the Administrator.

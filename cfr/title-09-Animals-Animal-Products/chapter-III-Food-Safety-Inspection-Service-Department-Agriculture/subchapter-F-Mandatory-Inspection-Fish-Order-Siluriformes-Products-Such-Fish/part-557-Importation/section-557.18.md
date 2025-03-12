@@ -1,0 +1,3 @@
+##### § 557.18 Fish or fish products offered for entry and entered to be handled and transported as domestic; exception. #####
+
+The regulations in 9 CFR 327.18 governing the offer for entry into the United States of meat and meat food products apply with respect to fish and fish products. Products that fail to meet these regulatory requirements are subject to penalties as administered by the U.S. Port Director of Customs and Border Protection. Likewise, the products may be subject to detention and to being proceeded against as determined by the Administrator.

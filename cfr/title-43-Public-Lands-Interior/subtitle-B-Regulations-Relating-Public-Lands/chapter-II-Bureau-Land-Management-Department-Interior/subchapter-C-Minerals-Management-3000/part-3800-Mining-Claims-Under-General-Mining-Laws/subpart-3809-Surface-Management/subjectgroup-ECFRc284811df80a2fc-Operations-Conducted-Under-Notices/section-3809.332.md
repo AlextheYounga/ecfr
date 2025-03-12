@@ -1,0 +1,3 @@
+##### § 3809.332 How long does my notice remain in effect? #####
+
+If you filed your complete notice on or after January 20, 2001, it remains in effect for 2 years, unless extended under § 3809.333, or unless you notify BLM beforehand that operations have ceased and reclamation is complete. BLM will conduct an inspection to verify whether you have met your obligations, will notify you promptly in writing, and terminate your notice, if appropriate.

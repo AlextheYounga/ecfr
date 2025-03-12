@@ -1,0 +1,5 @@
+##### § 3281.17 What information must be provided in the Plan of Development? #####
+
+(a) The Plan of Development must state the types of and timeframes for activities the unit operator will conduct in diligent pursuit of unit exploration and development. The Plan may address those activities that will be conducted until the minimum initial unit obligation is met, or it may address all activities that will occur through the term of the unit agreement.
+
+(b) The Plan of Development may specify that the activities will be conducted in phases during the term of the unit agreement. For example, the number, location, and depth of temperature gradient wells, and the timeframe for the completion of these wells, may be the first phase. A second phase may include drilling of observation or slim-hole wells to a greater depth than that specified in the first phase. Completion of the unit well may be the third phase. In all cases, the Plan of Development must include the completion of at least one unit well.

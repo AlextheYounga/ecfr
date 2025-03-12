@@ -1,0 +1,3 @@
+##### § 381.213 Notification of governmental authorities having jurisdiction over article detained; form of written notification. #####
+
+Within 48 hours after the detention of any poultry or other article pursuant to § 381.211, an authorized representative of the Secretary shall give oral or written notification of such detention to any Federal authorities not connected with the Inspection Service, and any State or other governmental authorities, having jurisdiction over such article. In the event notification is given orally, it shall be confirmed in writing, as promptly as circumstances permit.

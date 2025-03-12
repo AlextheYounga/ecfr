@@ -1,0 +1,5 @@
+##### § 95.11 Specified risk materials. #####
+
+Notwithstanding any other provisions of this part, the importation of specified risk materials from controlled-risk regions or undetermined-risk regions for BSE, and any commodities containing such materials, is prohibited, unless the Administrator determines that the materials or other commodities will not come into contact with ruminants in the United States and can be imported under conditions that will prevent the introduction of BSE into the United States, and the person importing the materials or other commodities has obtained a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors. To apply for a permit, file a permit application on VS Form 16-3 (available from APHIS, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20737-1231, or electronically at *http://www.aphis.usda.gov/animal\_health/permits/*). The application for such a permit must state the intended use of the materials and other commodities and the name and address of the consignee in the United States.
+
+[78 FR 73003, Dec. 4, 2013]

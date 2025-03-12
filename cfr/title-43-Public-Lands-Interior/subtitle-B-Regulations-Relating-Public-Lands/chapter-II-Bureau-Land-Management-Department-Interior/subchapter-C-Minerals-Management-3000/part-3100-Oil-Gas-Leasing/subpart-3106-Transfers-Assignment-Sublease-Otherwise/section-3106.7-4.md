@@ -1,0 +1,3 @@
+##### § 3106.7-4 Effective date of transfer. #####
+
+The signature of the authorized officer on the official form shall constitute approval of the transfer of record title or of operating rights (sublease) which shall take effect as of the first day of the lease month following the date of filing in the proper BLM office of all documents and statements required by this subpart and an appropriate bond, if one is required.

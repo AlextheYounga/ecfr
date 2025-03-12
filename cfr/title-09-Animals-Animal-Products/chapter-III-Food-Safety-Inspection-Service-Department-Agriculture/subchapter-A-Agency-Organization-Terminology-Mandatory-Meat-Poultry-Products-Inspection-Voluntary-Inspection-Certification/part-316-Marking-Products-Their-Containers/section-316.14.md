@@ -1,0 +1,5 @@
+##### § 316.14 Marking tank cars and tank trucks used in transportation of edible products. #####
+
+Each tank car and each tank truck carrying inspected and passed product from an official establishment shall bear a label containing the name of the product in accordance with § 317.2 of this subchapter, the official inspection legend containing the number of the official establishment and the words “date of loading,” followed by a suitable space in which the date the tank car or tank truck is loaded shall be inserted. The label shall be located conspicuously and shall be printed on material of such character and so affixed as to preclude detachment or effacement upon exposure to the weather. Before the car or truck is removed from the place where it is unloaded, the carrier shall remove or obliterate such label.
+
+[53 FR 28634, July 29, 1988]

@@ -1,0 +1,3 @@
+##### § 2610.0-7 Background. #####
+
+The Carey Act authorizes the Secretary of the Interior, with the approval of the President, to contract and agree to grant and patent to States, in which there are desert lands, not exceeding 1 million acres of such lands to each State, as the State may cause to be reclaimed. The State shall also cause not less than 20 acres of each 160 acre tract to be cultivated by actual settlers. A number of amendments allowed additional acreages for certain States. Colorado, Nevada and Wyoming were allowed up to 2 million acres. Idaho was allowed up to 3 million acres.

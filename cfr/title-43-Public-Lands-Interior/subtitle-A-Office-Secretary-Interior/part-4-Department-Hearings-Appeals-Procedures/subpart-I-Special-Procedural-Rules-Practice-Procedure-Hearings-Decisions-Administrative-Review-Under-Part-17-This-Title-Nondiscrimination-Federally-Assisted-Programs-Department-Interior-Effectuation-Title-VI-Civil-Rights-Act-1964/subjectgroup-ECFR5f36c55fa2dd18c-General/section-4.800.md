@@ -1,0 +1,5 @@
+##### § 4.800 Scope and construction of rules. #####
+
+(a) The rules of procedure in this subpart I supplement part 17 of this title and are applicable to the practice and procedure for hearings, decisions, and administrative review conducted by the Department of the Interior, pursuant to title VI of the Civil Rights Act of 1964 (section 602, 42 U.S.C. 2000d-1) and part 17 of this title, concerning nondiscrimination in Federally-assisted programs in connection with which Federal financial assistance is extended under laws administered in whole or in part by the Department of the Interior.
+
+(b) These regulations shall be liberally construed to secure the just, prompt, and inexpensive determination of all proceedings consistent with adequate consideration of the issues involved and full protection of the rights of all interested parties including the Government.

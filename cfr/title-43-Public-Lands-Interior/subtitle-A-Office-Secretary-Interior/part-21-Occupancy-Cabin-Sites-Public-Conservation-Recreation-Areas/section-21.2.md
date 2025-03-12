@@ -1,0 +1,9 @@
+##### § 21.2 Scope of regulations. #####
+
+The provisions of this part apply to all recreation or conservation areas administered by the Department of the Interior, including recreation or conservation areas leased or transferred for administration to other Federal and non-Federal public agencies, wherever the Department of the Interior retains jurisdiction over the issuance of cabin site permits by such other agencies. The provisions of this part do not modify or cancel any existing arrangement whereby the Department of the Interior or bureau or office thereof has leased, or turned over for administration, a public recreation or conservation area to another Federal or non-Federal public agency. The provisions of this part will also provide policy guidelines for the Departmental handling of assignments, amendments, or modifications of existing permits or agreements, but do not apply to areas transferred by deed where the United States retains a reversionary interest, nor to areas of the National Park System other than those where private cabin sites are located.
+
+(a) The policies set out in this part shall not affect occupancy by private persons who have private rights, or rights of occupancy adjudicated or confirmed by court action, statute, or pursuant to a contract by which they conveyed to the Government the land on which a cabin or other substantial improvement is located.
+
+(b) The policies set out in this part shall not apply to any concession contract or to any other permit or occupancy primarily granted to serve public rather than private or individual purposes—such as, permits granted to groups who assist in maintaining historic trails, or permits for youth and church group camp facilities, etc.
+
+(c) The regulations in this part shall not supersede or substantially contravene the implementation of the Lower Colorado River Land Use Plan.

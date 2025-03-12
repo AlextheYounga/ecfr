@@ -1,0 +1,9 @@
+##### § 166.2 General restrictions. #####
+
+(a) No person shall feed or permit the feeding of garbage to swine unless the garbage is treated to kill disease organisms, pursuant to this part, at a facility operated by a person holding a valid license for the treatment of garbage; except that the treatment and license requirements shall not apply to the feeding or the permitting of the feeding to swine of garbage only because the garbage consists of any of the following: Processed products; rendered products; bakery waste; candy waste; eggs; domestic dairy products (including milk); fish from the Atlantic Ocean within 200 miles of the continental United States or Canada; or fish from inland waters of the United States or Canada which do not flow into the Pacific Ocean.
+
+(b) No person operating such a facility may be licensed to treat garbage unless he or she meets the requirements of this part designed to prevent the introduction or dissemination of any infectious or communicable disease of animals and unless the facility is so constructed that swine are unable to have access to untreated garbage or equipment and material coming in contact with untreated garbage.
+
+(c) The regulations of this part shall not be construed to repeal or supersede State laws that prohibit feeding of garbage to swine or to prohibit any State from enforcing requirements relating to the treatment of garbage that is to be fed to swine or the feeding thereof which are more stringent than the requirements contained in this part. In a State which prohibits the feeding of garbage to swine, a license under the Act will not be issued to any applicant.
+
+[47 FR 49945, Nov. 3, 1982, as amended at 49 FR 14497, Apr. 12, 1984; 52 FR 4890, Feb. 18, 1987; 66 FR 21064, Apr. 27, 2001; 74 FR 15218, Apr. 3, 2009]

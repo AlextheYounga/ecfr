@@ -1,0 +1,3 @@
+##### § 329.4 Notification of governmental authorities having jurisdiction over article or livestock detained; form of written notification. #####
+
+Within 48 hours after the detention of any livestock or article pursuant to this part, an authorized representative of the Secretary shall give oral or written notification of such detention to any Federal authorities not connected with the Program, and any State or other governmental authorities, having jurisdiction over such livestock or article. In the event notification is given orally, it shall be confirmed in writing, as promptly as circumstances permit.

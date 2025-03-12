@@ -1,0 +1,3 @@
+##### § 354.72 Packaging. #####
+
+No container which bears or may bear any official identification or any abbreviation or copy or representation thereof may be filled in whole or in part except with edible products which were inspected and certified and are, at the time of such filing, sound, wholesome, and fit for human food. All such filling of containers shall be under the supervision of an inspector.

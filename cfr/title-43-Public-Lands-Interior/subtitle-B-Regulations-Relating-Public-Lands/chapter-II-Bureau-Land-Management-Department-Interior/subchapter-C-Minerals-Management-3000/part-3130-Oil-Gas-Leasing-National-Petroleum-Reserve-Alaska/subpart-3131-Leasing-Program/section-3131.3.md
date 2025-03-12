@@ -1,0 +1,3 @@
+##### § 3131.3 Special stipulations. #####
+
+Special stipulations shall be developed to the extent the authorized officer deems necessary and appropriate for mitigating reasonably foreseeable and significant adverse impacts on the surface resources. Special Areas stipulations for exploration or production shall be developed in accordance with section 104 of the Naval Petroleum Reserves Production Act of 1976. Any special stipulations and conditions shall be set forth in the notice of sale and shall be attached to and made a part of the lease, if issued. Additional stipulations needed to protect surface resources and special areas may be imposed at the time the surface use plan and permit to drill are approved.

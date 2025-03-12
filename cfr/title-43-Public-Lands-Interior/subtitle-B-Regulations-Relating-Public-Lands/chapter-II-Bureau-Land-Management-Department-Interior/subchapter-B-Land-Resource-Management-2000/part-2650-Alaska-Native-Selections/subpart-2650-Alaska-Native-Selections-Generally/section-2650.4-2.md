@@ -1,0 +1,3 @@
+##### § 2650.4-2 Succession of interest. #####
+
+Upon issuance of any conveyance under this authority, the grantee thereunder shall succeed and become entitled to any and all interests of the State of Alaska or of the United States as lessor, contractor, permitter, or grantor, in any such lease, contract, permit, right-of-way, or easement covering the estate conveyed, subject to the provisions of section 14(g) of the Act.

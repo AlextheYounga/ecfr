@@ -1,0 +1,3 @@
+##### § 355.17 Tagging equipment “U.S. rejected.” #####
+
+When necessary, inspectors shall attach a “U.S. rejected” tag to any equipment or utensil which is unclean or the use of which would be in conflict with the provisions of this part. No equipment or utensil so tagged shall again be used until made acceptable under this part and until removal of the tag. Such tag shall not be removed from the equipment or utensil by anyone other than an inspector.

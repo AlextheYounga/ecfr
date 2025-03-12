@@ -1,0 +1,3 @@
+##### § 2812.3-3 Form of grant to the United States, recordation. #####
+
+Any grant of rights to the United States under this section shall be executed on a form prescribed by the Director which shall constitute and form a part of any permit issued upon the application involved. The applicant shall record such agreement in the office of land records of the county or counties in which the roads, rights-of-way, or lands, subject to the agreement are located, and submit evidence of such recordation to the appropriate district manager.

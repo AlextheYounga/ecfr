@@ -1,0 +1,3 @@
+##### § 1784.4-1 Calls for nominations. #####
+
+Except where otherwise provided, candidates for appointment to advisory committees are sought through public calls for public nominations. Such calls shall be published in the Federal Register and are made through media releases and systematic contacts with individuals and organizations interested in the use and management of public lands and resources.

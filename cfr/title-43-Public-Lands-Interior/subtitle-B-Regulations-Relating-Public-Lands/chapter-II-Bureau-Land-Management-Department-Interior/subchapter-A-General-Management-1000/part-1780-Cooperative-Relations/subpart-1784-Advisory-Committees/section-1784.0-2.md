@@ -1,0 +1,3 @@
+##### § 1784.0-2 Objectives. #####
+
+The objective of advisory committees established under these regulations is to make available to the Department of the Interior and Bureau of Land Management the expert counsel of concerned, knowledgeable citizens and public officials regarding both the formulation of operating guidelines and the preparation and execution of plans and programs for the use and management of public lands, their natural and cultural resources, and the environment.

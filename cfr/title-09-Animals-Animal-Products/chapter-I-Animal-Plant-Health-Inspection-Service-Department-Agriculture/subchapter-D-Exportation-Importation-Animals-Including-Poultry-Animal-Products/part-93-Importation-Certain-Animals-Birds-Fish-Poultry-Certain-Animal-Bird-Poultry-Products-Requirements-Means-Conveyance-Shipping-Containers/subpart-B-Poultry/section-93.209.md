@@ -1,0 +1,7 @@
+##### § 93.209 Quarantine requirements. #####
+
+(a) Poultry, other than eggs for hatching, imported, except as provided in § 93.216 of this part, shall be quarantined for not less than 30 days, counting from the date of arrival at the port of entry. During their quarantine, such poultry shall be subject to any inspections, disinfections, and tests as may be required by the Administrator, to determine their freedom from communicable diseases of poultry, and their freedom from exposure to such diseases.
+
+(b) Poultry eggs for hatching imported, except from regions designated in § 94.6(a) of this subchapter as free of Newcastle disease and highly pathogenic avian influenza, shall be quarantined from time of arrival at the port of entry until hatched and the poultry from such eggs shall remain quarantined for not less than 30 days following hatch. During their quarantine, such eggs for hatching and poultry from such eggs shall be subject to any inspections, disinfections, and tests as may be required by the Administrator, to determine their freedom from communicable diseases of poultry.
+
+[55 FR 31495, Aug. 2, 1990, as amended at 61 FR 56891, Nov. 5, 1996. Redesignated and amended at 62 FR 56012, 56015, Oct. 28, 1997; 76 FR 4054, Jan. 24, 2011; 78 FR 19083, Mar. 29, 2013]

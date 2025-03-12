@@ -1,0 +1,3 @@
+##### § 381.115 Containers of inspected and passed poultry products required to be labeled. #####
+
+Except as may be authorized in specific cases by the Administrator with respect to shipment of poultry products between official establishments, each shipping container and each immediate container of any inspected and passed poultry product shall at the time it leaves the official establishment bear a label which contains information, and has been approved, in accordance with this subpart.

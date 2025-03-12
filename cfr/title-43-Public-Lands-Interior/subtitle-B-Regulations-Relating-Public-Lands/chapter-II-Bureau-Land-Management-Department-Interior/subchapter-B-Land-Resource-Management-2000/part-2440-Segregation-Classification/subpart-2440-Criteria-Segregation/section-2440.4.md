@@ -1,0 +1,3 @@
+##### § 2440.4 Specific criteria for segregative effect of classification for disposal. #####
+
+Public lands classified or proposed to be classified for disposal will be segregated from those forms of disposal which, if the lands remained open thereto, could interfere with the orderly disposal of the lands pursuant to appropriate law. Public lands classified or proposed to be classified for sale under the Public Land Sale Act (78 Stat. 988, 43 U.S.C. 1411-18) will be segregated from all forms of disposal under the mining and mineral leasing laws.

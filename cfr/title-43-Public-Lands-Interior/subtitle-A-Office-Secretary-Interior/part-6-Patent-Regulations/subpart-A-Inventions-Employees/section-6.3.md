@@ -1,0 +1,9 @@
+##### § 6.3 Action by supervisory officials. #####
+
+(a) The preparation of an invention report and other official correspondence on patent matters is one of the regular duties of an employee who has made an invention and the supervisor of such employee shall see that he is allowed sufficient time from his other duties to prepare such documents. The supervisor shall ascertain that the invention report and other papers are prepared in conformity with the regulations of this part; and, before transmitting the invention report to the head of the bureau or office, shall check its accuracy and completeness, especially with respect to the circumstances in which the invention was developed, and shall add whatever comments he may deem to be necessary or desirable. The supervisor shall add to the file whatever information he may have concerning the governmental and commercial value of the invention.
+
+(b) The head of the bureau or office shall make certain that the invention report is as complete as circumstances permit. He shall report whatever information may be available in his agency concerning the governmental and commercial value of the invention, and the foreign countries in which it is likely that the invention would be most useful and would have the greatest commercial value.
+
+(c) If the employee inventor requests that the Solicitor determine his rights in the invention, the head of the bureau or office shall state his conclusions with respect to such rights.
+
+(d) The head of the bureau or office shall indicate whether, in his judgment, the invention is liable to be used in the public interest, and he shall set out the facts supporting his conclusion whenever the employee's invention report does not contain sufficient information on this point.

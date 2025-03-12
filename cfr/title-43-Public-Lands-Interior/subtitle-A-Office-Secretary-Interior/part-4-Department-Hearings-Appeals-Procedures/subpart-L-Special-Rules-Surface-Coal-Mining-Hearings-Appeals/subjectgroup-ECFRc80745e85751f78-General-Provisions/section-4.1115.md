@@ -1,0 +1,3 @@
+##### § 4.1115 Waiver of right to hearing. #####
+
+Any person entitled to a hearing before an administrative law judge under the act may waive such right in writing. Where parties are directed by any rule in these regulations to file a responsive pleading on or before a specified time, any party who fails to file such responsive pleading by the time specified, may be deemed to have waived his right to a hearing. Unless all parties to a proceeding who are entitled to a hearing waive, or are deemed to have waived such right, a hearing will be held.

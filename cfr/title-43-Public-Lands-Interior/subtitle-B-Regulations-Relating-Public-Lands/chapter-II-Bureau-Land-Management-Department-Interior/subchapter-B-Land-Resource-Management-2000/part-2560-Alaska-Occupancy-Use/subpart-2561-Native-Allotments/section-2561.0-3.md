@@ -1,0 +1,3 @@
+##### § 2561.0-3 Authority. #####
+
+The Act of May 17, 1906 (34 Stat. 197), as amended August 2, 1956 (70 Stat. 954; 43 U.S.C. 270-1 to 270-3), authorizes the Secretary of the Interior to allot not to exceed 160 acres of vacant, unappropriated, and unreserved nonmineral land in Alaska or, subject to the provisions of the Act of March 8, 1922 (42 Stat. 415; 48 U.S.C. 376-377), of vacant, unappropriated, and unreserved public land in Alaska that may be valuable for coal, oil, or gas deposits, or, under certain conditions, of national forest lands in Alaska, to any Indian, Aleut or Eskimo of full or mixed blood who resides in and is a native of Alaska, and who is the head of a family, or is twenty-one years of age.

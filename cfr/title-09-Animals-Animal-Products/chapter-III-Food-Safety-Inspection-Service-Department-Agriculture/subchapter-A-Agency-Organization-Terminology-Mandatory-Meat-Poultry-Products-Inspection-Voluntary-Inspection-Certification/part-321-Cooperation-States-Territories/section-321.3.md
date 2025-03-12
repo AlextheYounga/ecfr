@@ -1,0 +1,11 @@
+##### § 321.3 Cooperation of States for the interstate shipment of carcasses, parts of carcasses, meat, and meat food products. #####
+
+(a) The Administrator is authorized under 21 U.S.C. 683(b) to coordinate with States that have meat inspection programs as provided in § 321.1 of this part to select certain establishments operating under these programs to participate in a cooperative program to ship carcasses, parts of carcasses, meat, and meat food products in interstate commerce. A cooperative program for this purpose is called a “cooperative interstate shipment program.”
+
+(b) Establishments selected to participate in a cooperative interstate shipment program described in this section must receive inspection services from designated State personnel that have been trained in the enforcement of the Act. If the designated personnel determine that the carcasses, parts of carcasses, meat, and meat food products prepared in establishments selected to participate in the cooperative interstate shipment program comply with all requirements under the Act, these items will bear an official Federal mark of inspection and may be shipped in interstate commerce. The Administrator will assign an FSIS “selected establishment coordinator,” who will be an FSIS employee, to each State that participates in a cooperative interstate shipment program to provide Federal oversight of the program and enforcement of the program's requirements. The Federal contribution for inspection services provided by States that enter into a cooperative interstate shipment program under this section will be at least 60 percent of eligible State costs. Eligible State costs are those costs that a State has justified and FSIS has approved as necessary for the State to provide inspection services to selected establishments in the State.
+
+(c) Part 332 of this subchapter prescribes conditions under which States and establishments may participate in the cooperative interstate shipment program.
+
+(d) The Administrator will terminate a cooperative interstate shipment agreement with a State if the Administrator determines that the State is not conducting inspection at selected establishments in a manner that complies with the Act and the implementing regulations in this chapter.
+
+[76 FR 24752, May 2, 2011]

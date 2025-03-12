@@ -1,0 +1,7 @@
+##### § 50.7 Destruction of animals. #####
+
+(a) *Slaughter or disposal.* Livestock to be destroyed because of tuberculosis must be shipped direct to slaughter under permit to a Federal or State inspected slaughtering establishment or be disposed of by rendering, burial, or incinerating in an approved manner under supervision of an APHIS or State employee.
+
+(b) *Time limit for destruction of animals.* Livestock for which Federal indemnity may be paid because of tuberculosis must be destroyed and carcass disposal completed within 15 days after the date of appraisal, except that the appropriate Veterinarian in Charge, for reasons satisfactory to him, may extend the time limit for slaughter to 30 days when request for such extension is received by him prior to the expiration of the original 15-day period allowed, and the Administrator may extend the time limit for slaughter beyond 30 days, upon request in specific cases and for reasons satisfactory to him.
+
+(Approved by the Office of Management and Budget under control number 0579-0051)[40 FR 27009, June 26, 1975, as amended at 45 FR 32287, May 16, 1980; 52 FR 39614, Oct. 23, 1987; 56 FR 36998, Aug. 2, 1991; 60 FR 37809, July 24, 1995; 63 FR 34264, June 24, 1998; 67 FR 7591, Feb. 20, 2002]

@@ -1,0 +1,5 @@
+##### § 156.5 Availability of service. #####
+
+Subject to § 156.8, service under this part will be furnished, upon application, within the limits of available Department personnel and facilities, at any plant the operator of which applies for or endorses the application for the service if the Administrator finds that: the forms of certificates desired by the applicant require the certification of class, quality, quantity, or condition; the plant and its methods of processing, handling and storage of the products intended for certification are adequate to warrant the issuance of the desired certificates; the requirements of part 130 of this title are met; and the requirements of § 156.7 are met.
+
+[23 FR 10111, Dec. 23, 1958, as amended at 57 FR 30899, July 13, 1992; 62 FR 19040, Apr. 18, 1997; 72 FR 70766, Dec. 13, 2007]

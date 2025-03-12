@@ -1,0 +1,13 @@
+##### § 46.20 How to use this part. #####
+
+(a) This part supplements, and is to be used in conjunction with, the CEQ regulations except where it is inconsistent with other statutory requirements. The following table shows the corresponding CEQ regulations for the sections in subparts A—E of this part. Some sections in those subparts do not have a corresponding CEQ regulation.
+
+Subpart A 40 CFR46.10 Parts 1500-150846.20 No corresponding CEQ regulation46.30 No corresponding CEQ regulationSubpart B46.100 1508.14, 1508.18, 1508.2346.105 1506.546.110 No corresponding CEQ regulation46.115 1508.746.120 1502.9, 1502.20, 1502.21, 1506.346.125 1502.2246.130 1502.1446.135 1502.2146.140 1502.2046.145 No corresponding CEQ regulation46.150 1506.1146.155 1502.25, 1506.246.160 1506.146.170 No corresponding CEQ regulationSubpart C46.200 1501.246.205 1508.446.210 1508.446.215 1508.446.220 1501.546.225 1501.646.230 1501.646.235 1501.746.240 1501.8Subpart D46.300 1501.346.305 1501.7, 1506.646.310 1508.946.315 No corresponding CEQ regulation46.320 1506.346.325 1501.4Subpart E46.400 1502.546.405 1502.746.415 1502.1046.420 1502.1446.425 1502.1446.430 1502.2546.435 150346.440 1506.246.445 1506.846.450 1505.2
+
+(b) The Responsible Official will ensure that the decision making process for proposals subject to this part includes appropriate NEPA review.
+
+(c) During the decision making process for each proposal subject to this part, the Responsible Official shall consider the relevant NEPA documents, public and agency comments (if any) on those documents, and responses to those comments, as part of consideration of the proposal and, except as specified in paragraphs 46.210(a) through (j), shall include such documents, including supplements, comments, and responses as part of the administrative file.
+
+(d) The Responsible Official's decision on a proposed action shall be within the range of alternatives discussed in the relevant environmental document. The Responsible Official's decision may combine elements of alternatives discussed in the relevant environmental document if the effects of such combined elements of alternatives are reasonably apparent from the analysis in the relevant environmental document.
+
+(e) For situations involving an applicant, the Responsible Official should initiate the NEPA process upon acceptance of an application for a proposed Federal action. The Responsible Official must publish or otherwise provide policy information and make staff available to advise potential applicants of studies or other information, such as costs, foreseeably required for later Federal action.

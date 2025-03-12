@@ -1,0 +1,7 @@
+##### § 3871.5 Termination of adverse suit. #####
+
+(a) Where an adverse claim has been filed and suit thereon commenced within the statutory period and final judgment rendered determining the right of possession, it will not be sufficient to file with the authorized officer a certificate of the clerk of the court setting forth the facts as to such judgment, but the successful party must, before he is allowed to make entry, file a certified copy of the judgment roll, together with the other evidence required by R.S. 2326 (30 U.S.C. 30), and a certificate of the clerk of the court under the seal of the court showing, in accord with the record facts of the case, that the judgment mentioned and described in the judgment roll aforesaid is a final judgment; that the time for appeal therefrom has, under the law, expired, and that no such appeal has been filed, or that the defeated party has waived his right to appeal. Other evidence showing such waiver or an abandonment of the litigation may be filed.
+
+(b) Where such suit has been dismissed, a certificate of the clerk of the court to that effect or a certified copy of the order of dismissal will be sufficient.
+
+(c) After an adverse claim has been filed and suit commenced, a relinquishment or other evidence of abandonment of the adverse claim will not be accepted, but the case must be terminated and proof thereof furnished as required by the last two paragraphs.

@@ -1,0 +1,3 @@
+##### § 5.9 How long will it take to process my request? #####
+
+We will process applications for commercial filming and still photography permits in a timely manner. Processing times will vary depending on the complexity of the proposed activity. A pre-application meeting with agency personnel is encouraged and may assist us in processing your request for a permit more quickly. For information on application procedures contact the appropriate agency field office.

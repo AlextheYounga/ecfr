@@ -1,0 +1,5 @@
+##### § 2201.3-1 Appraiser qualifications. #####
+
+(a) A qualified appraiser(s) shall provide to the authorized officer appraisals estimating the market value of Federal and non-Federal properties involved in an exchange. A qualified appraiser may be an employee or a contractor to the Federal or non-Federal exchange parties. At a minimum, a qualified appraiser shall be an individual, approved by the authorized officer, who is competent, reputable, impartial, and has training and experience in appraising property similar to the property involved in the appraisal assignment.
+
+(b) Qualified appraisers shall possess qualifications consistent with State regulatory requirements that meet the intent of title XI of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) (12 U.S.C. 3331). In the event a State does not have approved policies, practices and procedures regulating the activities of appraisers, the Bureau of Land Management may establish appraisal qualification standards commensurate with those adopted by other States meeting the requirements of FIRREA.

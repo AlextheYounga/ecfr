@@ -1,0 +1,5 @@
+##### § 2653.7 Sitka-Kenai-Juneau-Kodiak selections. #####
+
+(a) The corporations representing the Natives residing in Sitka, Kenai, Juneau, and Kodiak, who incorporate under the laws of the State of Alaska, may each select the surface estate of up to 23,040 acres of lands of similar character located in reasonable proximity to those municipalities.
+
+(b) The corporations representing the Natives residing in Sitka, Kenai, Juneau, and Kodiak, shall nominate not less than 92,160 acres of lands within 50 miles of each of the four named cities which are similar in character to the lands in which each of the cities is located. After review and public hearings, the Secretary shall withdraw up to 46,080 acres near each of the cities from the lands nominated. Each corporation representing the Native residents of the four named cities may select not more than one-half the area withdrawn for selection by that corporation. The Secretary shall convey the area selected.

@@ -1,0 +1,3 @@
+##### § 381.77 Carcasses held for further examination. #####
+
+Each carcass, including all parts thereof, in which there is any lesion of disease, or other condition which might render such carcass or any part thereof adulterated and with respect to which a final decision cannot be made on first examination by the inspector, shall be held for further examination. The identity of each such carcass, including all parts thereof, shall be maintained until a final examination has been completed.

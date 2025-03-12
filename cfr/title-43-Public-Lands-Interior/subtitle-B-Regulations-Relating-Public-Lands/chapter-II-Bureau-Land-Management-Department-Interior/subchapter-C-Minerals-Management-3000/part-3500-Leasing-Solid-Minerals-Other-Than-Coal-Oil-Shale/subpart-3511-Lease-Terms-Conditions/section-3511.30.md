@@ -1,0 +1,3 @@
+##### § 3511.30 If I appeal BLM's proposed new terms, must I continue paying royalties or rentals while my appeal is pending? #####
+
+Yes. Continue to pay royalties and rentals at the original rate. Your obligation to pay any increased readjusted royalties, minimum royalties and rentals will be suspended while your appeal is considered. However, any increased charges accrue beginning with the effective date of the readjustment or renewal, while final action on your appeal is pending. If the increased charges are sustained on appeal, you must pay the accrued balance, plus interest at the rate MMS specifies for late payment in 30 CFR part 218.

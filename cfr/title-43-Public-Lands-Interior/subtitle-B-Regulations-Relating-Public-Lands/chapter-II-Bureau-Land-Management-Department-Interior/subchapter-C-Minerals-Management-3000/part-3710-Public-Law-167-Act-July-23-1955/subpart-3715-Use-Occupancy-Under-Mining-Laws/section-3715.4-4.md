@@ -1,0 +1,3 @@
+##### § 3715.4-4 What if there is a dispute over the fee simple title to the lands on which my existing occupancy is located? #####
+
+BLM may defer a determination of concurrence or non-concurrence with your occupancy until the underlying fee simple title to the land has been finally determined by the Department of the Interior. During this time, your existing occupancy may continue, subject to § 3715.5(a).

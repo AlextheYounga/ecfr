@@ -1,0 +1,3 @@
+##### § 3902.29 Other parties in interest. #####
+
+If there is more than one party in interest in an application for a lease, include with the application the names of all other parties who hold or will hold any interest in the application or in the lease. All interested parties who wish to hold an interest in a lease must provide to the BLM the information required by this subpart to qualify to hold a lease interest.

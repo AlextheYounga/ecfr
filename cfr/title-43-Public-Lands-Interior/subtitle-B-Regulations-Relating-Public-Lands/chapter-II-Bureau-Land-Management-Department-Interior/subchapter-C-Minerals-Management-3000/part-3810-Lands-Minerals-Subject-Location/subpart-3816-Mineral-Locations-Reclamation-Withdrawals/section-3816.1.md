@@ -1,0 +1,3 @@
+##### § 3816.1 Mineral locations. #####
+
+The Act of April 23, 1932 (47 Stat. 136; 43 U.S.C. 154), authorizes the Secretary of the Interior in his discretion to open to location, entry and patent under the general mining laws with reservation of rights, ways and easements, public lands of the United States which are known or believed to contain valuable deposits of minerals and which are withdrawn from development and acquisition because they are included within the limits of withdrawals made pursuant to section 3 of the reclamation Act of June 17, 1902 (32 Stat. 388; 43 U.S.C. 416).

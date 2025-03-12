@@ -1,0 +1,3 @@
+##### § 354.232 Restrictions on use. #####
+
+Equipment and utensils used in the official plant shall not be used outside the official plant except under such conditions as may be prescribed or approved by the national supervisor, and equipment used in the preparation of any article (including, but not being limited to, animal food) from inedible material shall not be used outside of the inedible products department except under such conditions as may be prescribed or approved by the national supervisor.

@@ -1,0 +1,5 @@
+##### § 204.4 Public inspection and copying. #####
+
+(a) Facilities for public inspection and copying of the indexes and materials required to be made available under 7 CFR 1.2(a) will be provided by the Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs) during normal hours of operation. Requests for this information should be made to the Freedom of Information Act Officer, Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs, United States Department of Agriculture, Washington, DC 20250.
+
+(b) Copies of such materials may be obtained in person or by mail. Applicable fees for copies will be charged in accordance with the regulations prescribed by the Director of Information, Office of Governmental and Public Affairs, USDA.

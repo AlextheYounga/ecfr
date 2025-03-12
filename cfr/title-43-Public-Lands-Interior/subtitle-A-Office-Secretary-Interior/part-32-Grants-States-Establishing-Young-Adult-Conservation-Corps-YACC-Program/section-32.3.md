@@ -1,0 +1,3 @@
+##### § 32.3 Program purpose and objectives. #####
+
+It is the purpose of the Young Adult Conservation Corps to provide employment and other benefits to youths of both sexes from all social, economic and racial classifications who would not otherwise be currently productively employed. The youths will be employed for a period of service during which they engage in useful conservation work which would otherwise be accomplished if adequate funding were made available.

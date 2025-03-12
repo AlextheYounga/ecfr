@@ -1,0 +1,3 @@
+##### § 3862.7-1 Resumption of patent proceedings after suspension due to adverse claim or protest. #####
+
+The proceedings necessary to the completion of an application for patent to a mining claim, against which an adverse claim or protest has been filed, if taken by the applicant at the first opportunity afforded therefor under the law and departmental practice, will be as effective as if taken at the date when, but for the adverse claim or protest, the proceedings on the application could have been completed.

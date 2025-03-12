@@ -1,0 +1,3 @@
+##### § 29.13 Termination. #####
+
+Upon termination of operations of the Pipeline, the full disposition of all claims, and the expiration of time for the filing of claims against the Fund, all assets remaining in the Fund shall be placed in a temporary trust fund account within the State of Alaska. The terms of the trust arrangement shall be determined by the Secretary. During the next succeeding session of Congress, the Secretary shall request that Congress provide for final disposition of the Fund. If Congress at any time establishes a comprehensive oil pollution liability fund which supersedes or repeals the Fund, the Fund assets and any pending claims shall be disposed of as Congress or the Secretary shall direct.

@@ -1,0 +1,3 @@
+##### § 4.1291 Where to file; time for filing. #####
+
+The petition for an award of costs and expenses including attorneys' fees must be filed with the administrative law judge who issued the final order, or if the final order was issued by the Board, with the Board, within 45 days of receipt of such order. Failure to make a timely filing of the petition may constitute a waiver of the right to such an award.

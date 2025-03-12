@@ -1,0 +1,3 @@
+##### § 381.186 Cooperation of States and other jurisdictions in Federal programs. #####
+
+Under the “Talmadge-Aiken Act” of September 28, 1962 (7 U.S.C. 450), the Administrator is authorized under stated conditions to utilize employees and facilities of any State in carrying out Federal functions under the Poultry Products Inspection Act. A cooperative program for this purpose is called a Federal-State program. Under paragraph (a) of section 5 of the Poultry Products Inspection Act, the Administrator is also authorized to conduct examinations, investigations, and inspections under the Act through any officer or employee of any State or territory or the District of Columbia commissioned by him for such purpose.

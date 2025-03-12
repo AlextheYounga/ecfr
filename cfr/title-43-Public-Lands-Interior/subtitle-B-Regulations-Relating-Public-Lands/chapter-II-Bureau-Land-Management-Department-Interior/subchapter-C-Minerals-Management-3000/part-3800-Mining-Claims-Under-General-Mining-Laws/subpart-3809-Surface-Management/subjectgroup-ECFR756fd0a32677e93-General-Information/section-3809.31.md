@@ -1,0 +1,15 @@
+##### § 3809.31 Are there any special situations that affect what submittals I must make before I conduct operations? #####
+
+(a) Where the cumulative effects of casual use by individuals or groups have resulted in, or are reasonably expected to result in, more than negligible disturbance, the State Director may establish specific areas as he/she deems necessary where any individual or group intending to conduct activities under the mining laws must contact BLM 15 calendar days before beginning activities to determine whether the individual or group must submit a notice or plan of operations. (See § 3809.300 through 3809.336 and § 3809.400 through 3809.434.) BLM will notify the public via publication in the Federal Register of the boundaries of such specific areas, as well as through posting in each local BLM office having jurisdiction over the lands.
+
+(b) *Suction dredges.* (1) If your operations involve the use of a suction dredge, the State requires an authorization for its use, and BLM and the State have an agreement under § 3809.200 addressing suction dredging, then you need not submit to BLM a notice or plan of operations, unless otherwise provided in the agreement between BLM and the State.
+
+(2) For all uses of a suction dredge not covered by paragraph (b)(1) of this section, you must contact BLM before beginning such use to determine whether you need to submit a notice or a plan to BLM, or whether your activities constitute casual use. If your proposed suction dredging is located within any lands or waters known to contain Federally proposed or listed threatened or endangered species or their proposed or designated critical habitat, regardless of the level of disturbance, you must not begin operations until BLM completes consultation the Endangered Species Act requires.
+
+(c) If your operations require you to occupy or use a site for activities “reasonably incident” to mining, as defined in § 3715.0-5 of this title, whether you are operating under a notice or a plan of operations, you must also comply with part 3710, subpart 3715, of this title.
+
+(d) If your operations are located on lands patented under the Stock Raising Homestead Act and you do not have the written consent of the surface owner, then you must submit a plan of operations and obtain BLM's approval. Where you have surface-owner consent, you do not need a notice or a plan of operations under this subpart. See part 3810, subpart 3814, of this title.
+
+(e) For other than Stock Raising Homestead Act lands, if your proposed operations are located on lands conveyed by the United States which contain minerals reserved to the United States, then you must submit a plan of operations under § 3809.11 and obtain BLM's approval or a notice under § 3809.21.
+
+[65 FR 70112, Nov. 21, 2000, as amended at 66 FR 54860, Oct. 30, 2001]

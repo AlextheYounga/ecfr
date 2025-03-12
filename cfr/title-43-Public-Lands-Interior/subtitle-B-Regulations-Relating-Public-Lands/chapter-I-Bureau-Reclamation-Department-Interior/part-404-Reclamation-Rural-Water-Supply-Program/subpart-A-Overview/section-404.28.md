@@ -1,0 +1,3 @@
+##### § 404.28 Is it possible to expedite the completion of an appraisal investigation or feasibility study? #####
+
+Yes. If Reclamation determines that a community or groups of communities to be served by a proposed rural water supply project has urgent and compelling water needs, Reclamation will, to the maximum extent practicable, expedite appraisal investigations and reports and feasibility studies and reports conducted under this program.

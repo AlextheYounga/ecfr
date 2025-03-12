@@ -1,0 +1,5 @@
+##### § 3816.2 Application to open lands to location. #####
+
+Application to open lands to location under the Act may be filed by a person, association or corporation qualified to locate and purchase claims under the general mining laws. The application must be executed in duplicate and filed in the proper office, must describe the land the applicant desires to locate, by legal subdivision if surveyed, or by metes and bounds if unsurveyed, and must set out the facts upon which is based the knowledge or belief that the lands contain valuable mineral deposits, giving such detail as the applicant may be able to furnish as to the nature of the formation, kind and character of the mineral deposits. Each application must be accompanied by the filing fee for application to open lands to location found in the fee schedule in § 3000.12 of this chapter.
+
+[35 FR 9744, June 13, 1970, as amended at 72 FR 50889, Sept. 5, 2007]

@@ -1,0 +1,5 @@
+##### § 3821.2 Requirements for filing notices of locations of claims; descriptions. #####
+
+The owner of any unpatented mining claim, mill site, or tunnel site located on land described in § 3821.1 shall file all notices or certificates of location, amended notices or certificates, and transfers of interest in the proper State Office of the Bureau of Land Management pursuant to part 3833 of this chapter of this title and shall pay the applicable maintenance, location, and service fees required by parts 3830 through 3839 of this chapter. The notice or certificate of location, or amendment thereto, shall be marked by the owner as being filed under the Act of April 8, 1948, and, if located on powersite lands, also the Act of August 11, 1955, as prescribed by §§ 3734.1 and part 3833 of this chapter.
+
+[59 FR 44857, Aug. 30, 1994, as amended at 68 FR 61064, Oct. 24, 2003]

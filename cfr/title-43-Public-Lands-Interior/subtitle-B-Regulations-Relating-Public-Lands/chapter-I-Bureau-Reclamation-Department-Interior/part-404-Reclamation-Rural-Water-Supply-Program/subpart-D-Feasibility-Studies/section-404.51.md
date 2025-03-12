@@ -1,0 +1,3 @@
+##### § 404.51 Are proposed projects under the Rural Water Supply Program reviewed by the Administration? #####
+
+Yes. The Administration will review all projects proposed for funding under the Reclamation's Rural Water Supply Program. This includes review under Executive Order 12322 to determine whether the project is consistent with the policies and programs of the President. This review will occur before the feasibility report is finalized.

@@ -1,0 +1,3 @@
+##### § 4.450-1 By whom private contest may be initiated. #####
+
+Any person who claims title to or an interest in land adverse to any other person claiming title to or an interest in such land or who seeks to acquire a preference right pursuant to the Act of May 14, 1880, as amended (43 U.S.C. 185), or the Act of March 3, 1891 (43 U.S.C. 329), may initiate proceedings to have the claim of title or interest adverse to his claim invalidated for any reason not shown by the records of the Bureau of Land Management. Such a proceeding will constitute a private contest and will be governed by the regulations herein.

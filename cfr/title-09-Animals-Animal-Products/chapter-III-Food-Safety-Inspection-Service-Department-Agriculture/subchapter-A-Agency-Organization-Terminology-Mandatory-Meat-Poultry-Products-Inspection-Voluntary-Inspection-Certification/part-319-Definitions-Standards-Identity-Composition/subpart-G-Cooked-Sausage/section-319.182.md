@@ -1,0 +1,7 @@
+##### § 319.182 Braunschweiger and liver sausage or liverwurst. #####
+
+(a) “Braunschweiger” is a cooked sausage made from fresh, cured, and/or frozen pork, beef, and/or veal and at least 30 percent pork, beef, and/or veal livers computed on the weight of the fresh livers. It may also contain pork and/or beef fat. Mechanically Separated (Species) may be used in accordance with § 319.6. Binders and extenders may be used as permitted in § 319.140. The product may have a smoked taste characteristic, which may be imparted by use of smoked meats, smoke flavoring or smoking. If prepared from components of a single species, the product name may reflect the species, e.g., “Beef Braunschweiger.” Braunschweiger may also be labeled as any of the following: “Braunschweiger—A Liver Sausage,” “Braunschweiger—A Liverwurst,” or “Braunschweiger (Liver Sausage)” or “Braunschweiger (Liverwurst).”
+
+(b) “Liver Sausage” or “Liverwurst” is a cooked sausage made from fresh, cured, and/or frozen pork, beef, and/or veal and at least 30 percent pork, beef, veal, sheep, and/or goat livers computed on the weight of the fresh livers. It may also contain pork and/or beef byproducts. Mechanically Separated (Species) may be used in accordance with § 319.6. Binders and extenders maybe used as permitted in § 319.140. If prepared from components of a single species, the product name may reflect that species, e.g., “Pork Liver Sausage.”
+
+[47 FR 36108, Aug. 19, 1982]

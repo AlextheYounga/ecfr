@@ -1,0 +1,3 @@
+##### § 329.7 Procedure for seizure, condemnation, and disposition. #####
+
+Any article or livestock subject to seizure and condemnation under this part shall be liable to be proceeded against and seized and condemned, and disposed of, at any time, on an appropriate pleading in any United States district court, or other proper court specified in section 404 of the Act, within the jurisdiction of which the article or livestock is found.

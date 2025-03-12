@@ -1,0 +1,3 @@
+##### § 4750.3-4 Approval or disapproval of applications. #####
+
+If an application is approved, the authorized officer shall offer the individual an opportunity to select the appropriate number, sex, age and species of animals from those available. If the authorized officer disapproves an application for private maintenance because the applicant lacks adequate facilities or transport, the individual may correct the shortcoming and file a new application.

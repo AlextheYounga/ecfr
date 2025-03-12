@@ -1,0 +1,3 @@
+##### § 404.56 If a financial assistance agreement is entered into for a rural water supply project that benefits more than one Indian tribe, is the approval of each Indian tribe required? #####
+
+Yes. When a financial assistance agreement is entered into with an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe is a prerequisite to entering into the financial assistance agreement.

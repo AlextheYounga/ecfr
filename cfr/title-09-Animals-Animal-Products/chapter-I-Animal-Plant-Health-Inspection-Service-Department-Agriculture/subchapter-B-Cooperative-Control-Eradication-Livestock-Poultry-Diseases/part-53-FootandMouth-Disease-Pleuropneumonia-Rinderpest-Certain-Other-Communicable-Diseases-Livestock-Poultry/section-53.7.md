@@ -1,0 +1,5 @@
+##### § 53.7 Disinfection of premises, conveyances, and materials. #####
+
+All premises, including barns, corrals, stockyards and pens, and all cars, vessels, aircraft, and other conveyances, and the materials thereon, shall be cleaned and disinfected under supervision of an APHIS employee whenever necessary for the control and eradication of disease. Expenses incurred in connection with such cleaning and disinfection shall be shared according to the agreement reached under § 53.2 with the State in which the work is done. In the case of low pathogenic avian influenza related to the 2002 disease situations in Virginia and Texas associated with the H5 or H7 virus, premises may not be restocked with poultry until at least 7 days following such cleaning and disinfection, unless the Administrator determines that a shorter or longer period of time is adequate or necessary to protect new poultry against infection.
+
+[68 FR 42569, July 18, 2003]

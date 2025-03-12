@@ -1,0 +1,3 @@
+##### § 3601.22 What rights remain with the United States when BLM sells or issues a permit for mineral materials? #####
+
+Your sale contract or use permit is subject to the continuing right of the United States to issue leases, permits, and licenses for the use and occupancy of the lands, if such use would not endanger or materially interfere with the production or removal of materials under contract or permit.

@@ -1,0 +1,3 @@
+##### § 557.8 Import fish and fish products; equipment and means of conveyance used in handling to be maintained in sanitary condition. #####
+
+Compartments of ocean vessels, railroad cars, and other means of conveyance transporting any fish or fish product to the United States, and all trucks, chutes, platforms, racks, tables, tools, utensils, and all other devices used in moving and handling any fish or fish product offered for importation into the United States, shall be maintained in a sanitary condition.

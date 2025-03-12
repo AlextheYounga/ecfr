@@ -1,0 +1,3 @@
+##### § 3861.7-1 Plat and notice to be posted on claim. #####
+
+The claimant is required to post a copy of the plat of survey in a conspicuous place upon the claim, together with notice of his intention to apply for a patent therefor, which notice will give the date of posting, the name of the claimant, the name of the claim, the number of the survey, the mining district and county, and the names of adjoining and conflicting claims as shown by the plat of survey.

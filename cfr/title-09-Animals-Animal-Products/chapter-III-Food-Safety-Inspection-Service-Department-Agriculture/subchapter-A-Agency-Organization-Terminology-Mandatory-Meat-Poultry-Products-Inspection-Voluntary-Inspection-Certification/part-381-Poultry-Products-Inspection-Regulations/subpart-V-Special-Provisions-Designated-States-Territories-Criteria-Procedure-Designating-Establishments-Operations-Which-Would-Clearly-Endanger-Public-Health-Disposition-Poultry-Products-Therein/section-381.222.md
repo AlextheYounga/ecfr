@@ -1,0 +1,27 @@
+##### § 381.222 States designated under paragraph 5(c) of the Act; application of regulations. #####
+
+The provisions of the regulations in this part apply to operations and transactions wholly within each State designated in § 381.221 under paragraph 5(c) of the Act, except as otherwise provided in this section. (The provisions of the regulations apply in all respects to operations and transactions in or for commerce.)
+
+(a) Each establishment located in such a designated State, shall be granted inspection required under § 381.6(b) only if it is found, upon a combined evaluation of its premises, facilities, and operating procedures, to be capable of producing products that are not adulterated or misbranded.
+
+(b) Section 381.26 will apply to establishments required to have inspection under § 381.6(b), except that existing interconnections between official and unofficial establishments or between official establishments will be permitted if it is determined in specific cases that the interconnections are such that transfer of inedible poultry product into the official establishment would be difficult or unusual, and any such transfers are strictly prohibited, except as permitted under other provisions of the regulations. It is essential that separation of facilities be maintained to the extent necessary to assure that inedible poultry product does not enter the official establishment contrary to the regulations.
+
+(c) Sections 381.49 and 381.51 shall apply to such establishments, except that separate facilities for men and women workers will not be required when the majority of the workers in the establishment are related by blood or marriage, provided that this will not conflict with municipal or State requirements; and except that separation of toilet soil lines from house drainage lines to a point outside the buildings will not be required in existing construction when positive acting backflow devices are installed.
+
+(d) Subpart N of this part shall apply to such establishments except as provided in this paragraph (d).
+
+(1) The operator of each such establishment shall, prior to the inauguration of inspection, identify all labeling and marking devices in use, or proposed for use (upon the date of inauguration of inspection) to the Front Line Supervisor in which the establishment is located. Temporary approval, pending formal approval under § 412.1 of this chapter, will be granted by the Front Line Supervisor for labeling and marking devices that he determines are neither false nor misleading, provided the official inspection legend bearing the official establishment number is applied to the principal display panel of each label, either by a mechanical printing device or a self-destructive pressure sensitive sticker, and provided the label shows the true product name, an accurate ingredient statement, the name and address of the manufacturer, packer, or distributor, and any other features required by section 4(h) of the Act.
+
+(2) The Front Line Supervisor will forward one copy of each item of labeling and a description of each marking device for which he has granted temporary approval to the FSIS Labeling and Program Delivery Staff and will retain one copy in a temporary approval file for the establishment.
+
+(3) The operator of the official establishment shall promptly forward a copy of each item of labeling and a description of each marking device for which temporary approval has been granted by the Front Line Supervisor (showing any modifications required by the Front Line Supervisor) to the FSIS Labeling and Program Delivery Staff at headquarters, accompanied by the formula and details of preparation and packaging for each product. Within 90 days after inauguration of inspection, all labeling material and marking devices temporarily approved by the Front Line Supervisor must receive approval as required by § 412.1 or their use must be discontinued.
+
+(4) The Front Line Supervisor will also review all shipping containers to ensure that they do not have any false or misleading labeling and are otherwise not misbranded. Modifications of unacceptable information on labeling material by the use of pressure sensitive tape of a type that cannot be removed without visible evidence of such removal, or by blocking out with an ink stamp will be authorized on a temporary basis to permit the maximum allowable use of all labeling materials on hand. All unacceptable labeling material which is not modified to comply with the requirements of the regulations must be destroyed or removed from the official establishment.
+
+(e) Sections 381.175 through 381.179 apply to operations and transactions not in or for commerce in a State designated under paragraph 5(c) only if the State is also designated under section 11 of the Act and if such provisions are applicable as shown in § 381.224.
+
+(f) Section 381.185(a) will not apply to States designated under paragraph 5(c) of the Act.
+
+(g) Provisions of this part relating to exports and imports do not apply to operations and transactions solely in or for intrastate commerce.
+
+[37 FR 9706, May 16, 1972, as amended at 39 FR 4569, Feb. 5, 1974; 62 FR 45027, Aug. 25, 1997; 78 FR 66838, Nov. 7, 2013]

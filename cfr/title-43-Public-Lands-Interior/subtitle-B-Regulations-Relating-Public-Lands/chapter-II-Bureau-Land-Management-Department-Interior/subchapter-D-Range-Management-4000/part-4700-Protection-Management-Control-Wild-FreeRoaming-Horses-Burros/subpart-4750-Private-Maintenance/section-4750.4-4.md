@@ -1,0 +1,3 @@
+##### § 4750.4-4 Replacement animals. #####
+
+The authorized officer shall replace an animal, upon request by the adopter, if (a) within 6 months of the execution of the Private Maintenance and Care Agreement the animal dies or is required to be destroyed due to a condition that existed at the time of placement with the adopter; and (b) the adopter provides, within a reasonable time, a statement by a veterinarian certifying that reasonable care and treatment would not have corrected the condition. Transportation of the replacement animal shall be the responsibility of the adopter.

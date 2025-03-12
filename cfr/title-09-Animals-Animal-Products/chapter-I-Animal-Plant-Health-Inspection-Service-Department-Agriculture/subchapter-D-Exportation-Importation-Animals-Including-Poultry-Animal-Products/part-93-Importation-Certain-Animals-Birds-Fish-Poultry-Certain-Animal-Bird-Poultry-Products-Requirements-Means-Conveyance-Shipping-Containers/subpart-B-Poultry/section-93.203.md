@@ -1,0 +1,13 @@
+##### § 93.203 Ports designated for the importation of poultry. #####
+
+(a) *Air and ocean ports.* The following ports have APHIS inspection and quarantine facilities necessary for quarantine stations and all poultry shall be entered into the United States through these stations, except as provided in paragraphs (b), (c), (d) and (e) of this section: Los Angeles, California; Miami, Florida; and Newburgh, New York.
+
+(b) *Canadian border ports.* The following land border ports are designated as having the necessary inspection facilities for the entry of poultry from Canada: Eastport, Idaho; Houlton and Jackman, Maine; Detroit, Port Huron, and Sault Ste. Marie, Michigan; Baudette, Minnesota; Opheim, Raymond, and Sweetgrass, Montana; Alexandria Bay, Buffalo, and Champlain, New York; Dunseith, Pembina, and Portal, North Dakota; Derby Line and Highgate Springs, Vermont; Oroville and Sumas, Washington.
+
+(c) *Mexican border ports.* The following land border ports are designated as having the necessary inspection facilities for the entry of poultry from Mexico: Brownsville, Hidalgo, Laredo, Eagle Pass, Del Rio, Presidio, and El Paso, Texas; Douglas, Naco, Nogales, Sasabe, and San Luis, Arizona; Calexico and San Ysidro, California; and Antelope Wells, and Columbus, New Mexico.
+
+(d) *Limited ports.* The following ports are designated as having inspection facilities for the entry of poultry and poultry products such as poultry test specimens, or hatching eggs and day old chicks which do not appear to require restraint and holding inspection facilities: Anchorage and Fairbanks, Alaska; San Diego, California; Jacksonville, Port Canaveral, St. Petersburg-Clearwater, and Tampa, Florida; Atlanta, Georgia; Honolulu, Hawaii; Chicago, Illinois; New Orleans, Louisiana; Portland, Maine; Baltimore, Maryland; Minneapolis, Minnesota; Great Falls, Montana; Portland, Oregon; San Juan, Puerto Rico; Galveston and Houston, Texas; and Seattle, Spokane, and Tacoma, Washington.
+
+(e) *Designation of other ports.* The Secretary of the Treasury has approved the designation as quarantine stations of the ports specified in this section. In special cases other ports may be designated as quarantine stations under this section by the Administrator, with the concurrence of the Secretary of the Treasury.
+
+[55 FR 31495, Aug. 2, 1990, as amended at 58 FR 37642, July 13, 1993; 60 FR 16045, Mar. 29, 1995; 60 FR 25120, May 11, 1995. Redesignated at 56012, Oct. 28, 1997, as amended at 65 FR 38178, June 20, 2000; 67 FR 6370, Feb. 12, 2002; 67 FR 68022, Nov. 8, 2002]

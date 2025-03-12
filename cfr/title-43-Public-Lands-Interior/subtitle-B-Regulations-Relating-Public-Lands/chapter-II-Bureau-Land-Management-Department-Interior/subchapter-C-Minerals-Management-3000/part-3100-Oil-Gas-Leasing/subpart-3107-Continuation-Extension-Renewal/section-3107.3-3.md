@@ -1,0 +1,3 @@
+##### § 3107.3-3 20-year lease or any renewal thereof. #####
+
+Any lease issued for a term of 20 years, or any renewal thereof, committed to a cooperative or unit plan approved by the Secretary, or any portion of such lease so committed, shall continue in force so long as committed to the plan, beyond the expiration date of its primary term. This provision does not apply to that portion of any such lease which is not included in the cooperative or unit plan unless the lease was so committed prior to August 8, 1946.

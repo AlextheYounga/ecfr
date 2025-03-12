@@ -1,0 +1,5 @@
+##### § 3435.3-5 Notice of public hearing. #####
+
+After the lessee or lease applicant and the Secretary agree on an exchange proposal, notice of the exchange proposal shall be published in the Federal Register and in at least 1 newspaper of general circulation in each county or equivalent political subdivision where both the offered and selected lands are located. The notice shall announce that, upon request, at least 1 public hearing shall be held in a city or cities located near each tract involved. The notice shall also contain the Secretary's preliminary findings why the proposed exchange is in the public interest. Any notice of the availability of a draft environmental assessment or environmental impact statement on the exchange may be used to comply with this section.
+
+[47 FR 33144, July 30, 1982]

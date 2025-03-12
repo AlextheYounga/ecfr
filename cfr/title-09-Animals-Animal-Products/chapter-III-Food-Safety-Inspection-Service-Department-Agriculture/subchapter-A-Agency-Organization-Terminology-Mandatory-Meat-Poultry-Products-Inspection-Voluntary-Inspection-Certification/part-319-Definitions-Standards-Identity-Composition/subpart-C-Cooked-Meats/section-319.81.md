@@ -1,0 +1,5 @@
+##### § 319.81 Roast beef parboiled and steam roasted. #####
+
+“Roast Beef Parboiled and Steam Roasted” shall be prepared so that the weight of the finished product, excluding salt and flavoring material, shall not exceed 70 percent of the fresh beef weight. Transglutaminase enzyme at levels of up to 65 ppm may be used as a binder in such product. Beef cheek meat and beef head meat from which the overlying glandular and connective tissues have been removed, and beef heart meat, exclusive of the heart cap may be used individually or collectively to the extent of 5 percent of the meat ingredients in the preparation of canned product labeled “Roast Beef Parboiled and Steam Roasted.” When beef cheek meat, beef head meat, or beef heart meat is used in the preparation of this product, its presence shall be reflected in the statement of ingredients required by part 317 of this subchapter.
+
+[35 FR 15597, Oct. 3, 1970, as amended at 38 FR 29215, Oct. 23, 1973; 66 FR 54916, Oct. 31, 2001]

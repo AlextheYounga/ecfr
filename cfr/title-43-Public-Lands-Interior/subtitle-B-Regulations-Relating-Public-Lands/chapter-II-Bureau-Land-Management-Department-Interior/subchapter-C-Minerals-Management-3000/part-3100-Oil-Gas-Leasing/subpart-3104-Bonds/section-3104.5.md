@@ -1,0 +1,7 @@
+##### § 3104.5 Increased amount of bonds. #####
+
+(a) When an operator desiring approval of an Application for Permit to Drill has caused the Bureau to make a demand for payment under a bond or other financial guarantee within the 5-year period prior to submission of the Application for Permit to Drill, due to failure to plug a well or reclaim lands completely in a timely manner, the authorized officer shall require, prior to approval of the Application for Permit to Drill, a bond in an amount equal to the costs as estimated by the authorized officer of plugging the well and reclaiming the disturbed area involved in the proposed operation, or in the minimum amount as prescribed in this subpart, whichever is greater.
+
+(b) The authorized officer may require an increase in the amount of any bond whenever it is determined that the operator poses a risk due to factors, including, but not limited to, a history of previous violations, a notice from the Service that there are uncollected royalties due, or the total cost of plugging existing wells and reclaiming lands exceeds the present bond amount based on the estimates determined by the authorized officer. The increase in bond amount may be to any level specified by the authorized officer, but in no circumstances shall it exceed the total of the estimated costs of plugging and reclamation, the amount of uncollected royalties due to the Service, plus the amount of monies owed to the lessor due to previous violations remaining outstanding.
+
+[53 FR 22839, June 17, 1988]

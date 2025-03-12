@@ -1,0 +1,3 @@
+##### § 402.3 Power to sell. #####
+
+The Commissioner of Reclamation may, in accordance with the regulations in this subpart, sell lands under each of the three statutes listed in § 402.1. An Assistant Commissioner or an official in charge of an office, region, division, district, or project of the Bureau of Reclamation, if authorized in writing by the Commissioner of Reclamation, may also sell lands under the statutes mentioned in accordance with this subpart, and whenever the term “Commissioner” is used in this subpart, it includes any official so authorized.

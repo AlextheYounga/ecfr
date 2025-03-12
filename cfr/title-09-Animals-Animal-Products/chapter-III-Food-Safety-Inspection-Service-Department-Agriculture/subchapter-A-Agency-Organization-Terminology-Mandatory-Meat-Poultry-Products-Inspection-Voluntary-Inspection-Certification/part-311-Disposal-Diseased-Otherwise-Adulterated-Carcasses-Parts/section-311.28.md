@@ -1,0 +1,3 @@
+##### § 311.28 Carcasses of young calves, pigs, kids, lambs, and foals. #####
+
+Carcasses of young calves, pigs, kids, lambs, and foals are unwholesome and shall be condemned if (a) the meat has the appearance of being water-soaked, is loose, flabby, tears easily, and can be perforated with the fingers; or (b) its color is grayish-red; or (c) good muscular development as a whole is lacking, especially noticeable on the upper shank of the leg, where small amounts of serous infiltrates or small edematous patches are sometimes present between the muscles; or (d) the tissue which later develops as the fat capsule of the kidneys is edematous, dirty yellow, or grayish-red, tough, and intermixed with islands of fat.

@@ -1,0 +1,3 @@
+##### § 327.19 Specimens for laboratory examination and similar purposes. #####
+
+The provisions in this part do not apply to specimens of products for laboratory examination, research, or similar purposes when authorized importation by the Administrator under conditions specified by him in specific cases, including requirements of denaturing or other identification to deter their use for human food. Authorization will not be given for the importation of any products contrary to the provisions of part 94 of this chapter.

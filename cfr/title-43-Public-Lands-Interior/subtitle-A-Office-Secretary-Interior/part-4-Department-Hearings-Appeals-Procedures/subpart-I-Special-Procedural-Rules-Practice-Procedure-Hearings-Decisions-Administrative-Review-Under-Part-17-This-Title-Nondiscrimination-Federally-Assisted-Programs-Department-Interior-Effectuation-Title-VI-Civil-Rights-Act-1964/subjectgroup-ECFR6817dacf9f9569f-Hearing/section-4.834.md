@@ -1,0 +1,7 @@
+##### § 4.834 Purpose. #####
+
+(a) The hearing is directed primarily to receiving factual evidence and expert opinion testimony related to the issues in the proceeding. A hearing will be held only in cases where issues of fact must be resolved in order to determine whether the applicant or recipient has failed to comply with one or more applicable requirements of title VI of the Civil Rights Act of 1964 (sec. 602, 42 U.S.C. 2000d-1) and part 17 of this title. However, this shall not prevent the parties from entering into a stipulation of the facts.
+
+(b) If all facts are stipulated, the proceedings shall go to conclusion in accordance with part 17 of this title and the rules in this subpart.
+
+(c) In any case where it appears from the answer of the applicant or recipient to the notice of hearing or notice of opportunity to request a hearing, from his failure timely to answer, or from his admissions or stipulations in the record that there are no matters of material fact in dispute, the administrative law judge may enter an order so finding, vacating the hearing date if one has been set, and fixing the time for the submission of evidence by the Government for the record. Thereafter, the proceedings shall go to conclusion in accordance with part 17 of this title and the rules in this subpart. An appeal from such order may be allowed in accordance with the rules for interlocutory appeal in § 4.823.

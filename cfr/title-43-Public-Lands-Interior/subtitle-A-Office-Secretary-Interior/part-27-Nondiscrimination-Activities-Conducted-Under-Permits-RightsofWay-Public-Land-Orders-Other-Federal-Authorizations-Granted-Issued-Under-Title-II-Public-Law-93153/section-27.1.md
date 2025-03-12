@@ -1,0 +1,3 @@
+##### § 27.1 Purpose. #####
+
+The purpose of this part is to effectuate section 403 of Public Law 93-153 (87 Stat. 576) to the end that no person shall on the grounds of race, creed, color, national origin, or sex, be excluded from receiving, or participating in any activity conducted under, any permit, right-of-way, public land order, or other Federal authorization granted or issued under title II of Public Law 93-153, 87 Stat. 584, the Trans-Alaska Pipeline Authorization Act.

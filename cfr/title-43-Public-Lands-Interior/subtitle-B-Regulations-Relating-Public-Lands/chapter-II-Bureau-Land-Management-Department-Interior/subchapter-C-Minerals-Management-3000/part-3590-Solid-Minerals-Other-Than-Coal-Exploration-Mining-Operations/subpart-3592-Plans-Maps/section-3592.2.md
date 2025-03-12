@@ -1,0 +1,3 @@
+##### § 3592.2 Maps of underground workings and surface operations. #####
+
+Maps of underground workings and surface operations shall be drawn to a scale acceptable to the authorized officer. All maps shall be appropriately marked with reference to Government land marks or lines and elevations with reference to sea level. When required by the authorized officer, vertical projections and cross sections shall accompany plan views. Maps shall be based on accurate surveys and certified by a professional engineer, professional land surveyor or other professionally qualified person. Accurate copies of such maps or reproductive material or prints thereof shall be furnished by the operator to the authorized officer when and as required.

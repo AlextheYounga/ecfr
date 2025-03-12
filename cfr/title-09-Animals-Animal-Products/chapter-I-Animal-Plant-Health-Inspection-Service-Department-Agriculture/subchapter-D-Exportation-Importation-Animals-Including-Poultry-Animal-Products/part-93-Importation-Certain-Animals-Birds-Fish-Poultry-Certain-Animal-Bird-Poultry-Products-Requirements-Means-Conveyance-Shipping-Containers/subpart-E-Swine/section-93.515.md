@@ -1,0 +1,3 @@
+##### § 93.515 Appearance of disease among swine in quarantine. #####
+
+If any contagious disease appears among swine during the quarantine period special precautions shall be taken to prevent spread of the infection to other animals in the quarantine station or to those outside the grounds. The affected swine shall be disposed of as the Administrator may direct, depending upon the nature of the disease.

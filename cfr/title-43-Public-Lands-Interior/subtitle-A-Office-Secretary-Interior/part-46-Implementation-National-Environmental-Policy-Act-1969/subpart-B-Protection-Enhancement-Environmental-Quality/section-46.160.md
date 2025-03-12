@@ -1,0 +1,3 @@
+##### § 46.160 Limitations on actions during the NEPA analysis process. #####
+
+During the preparation of a program or plan NEPA document, the Responsible Official may undertake any major Federal action in accordance with 40 CFR 1506.1 when that action is within the scope of, and analyzed in, an existing NEPA document supporting the current plan or program, so long as there is adequate NEPA documentation to support the individual action.

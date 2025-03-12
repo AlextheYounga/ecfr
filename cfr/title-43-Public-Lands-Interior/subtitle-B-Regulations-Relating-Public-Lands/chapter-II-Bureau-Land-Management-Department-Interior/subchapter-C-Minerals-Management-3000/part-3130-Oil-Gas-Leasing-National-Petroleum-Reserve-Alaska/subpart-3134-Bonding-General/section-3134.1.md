@@ -1,0 +1,13 @@
+##### § 3134.1 Bonding. #####
+
+(a) Prior to issuance of an oil and gas lease, the successful bidder shall furnish the authorized officer a surety or personal bond in accordance with the provisions of § 3104.1 of this title in the sum of $100,000 conditioned on compliance with all the lease terms, including rentals and royalties, conditions and any stipulations. The bond shall not be required if the bidder already maintains or furnishes a bond in the sum of $300,000 conditioned on compliance with the terms, conditions and stipulations of all oil and gas leases held by the bidder within NPR-A, or maintains or furnishes a nationwide bond as set forth in § 3104.3(b) of this title and furnishes a rider thereto sufficient to bring total coverage to $300,000 to cover all oil and gas leases held within NPR-A.
+
+(b) A bond in the sum of $100,000 or $300,000, or a nationwide bond as provided in § 3104.3(b) of this title with a rider thereto sufficient to bring total coverage to $300,000 to cover all oil and gas leases within NPR-A, may be provided by an operating rights owner (sublessee) or operator in lieu of a bond furnished by the lessee, and shall assume the responsibilities and obligations of the lessee for the entire leasehold in the same manner and to the extent as though he/she were the lessee.
+
+(c) If as a result of a default, the surety on a bond makes payment to the United States of any indebtedness under a lease secured by the bond, the face amount of such bond and the surety's liability shall be reduced by the amount of such payment.
+
+(d) A new bond in the amount previously held or a larger amount as determined by the authorized officer shall be posted within 6 months or such shorter period as the authorized officer may direct after a default. In lieu thereof, separate or substitute bonds for each lease covered by the prior bond may be filed. The authorized officer may cancel a lease(s) covered by a deficient bond(s), in accordance with § 3136.3 of this title. Where a bond is furnished by an operator, suit may be brought thereon without joining the lessee when such lessee is not a party to the bond.
+
+(e) Except as provided in this subpart, the bonds required for NPR-A leases are in addition to any other bonds the successful bidder may have filed or be required to file under §§ 3104.2, 3104.3(a) and 3154.1 and subparts 3206 and 3209 of this title.
+
+[46 FR 55497, Nov. 9, 1981, as amended at 53 FR 17358, May 16, 1988; 53 FR 22846, June 17, 1988]

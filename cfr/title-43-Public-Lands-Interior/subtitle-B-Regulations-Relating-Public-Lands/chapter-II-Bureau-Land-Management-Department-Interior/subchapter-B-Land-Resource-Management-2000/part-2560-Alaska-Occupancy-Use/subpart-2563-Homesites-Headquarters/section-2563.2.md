@@ -1,0 +1,1 @@
+##### § 2563.2 Purchase of tracts not exceeding 5 acres, without showing as to employment or business (Act of May 26, 1934). #####

@@ -1,0 +1,3 @@
+##### § 3838.2 How are SRHA lands different from other Federal lands? #####
+
+SRHA lands are different from other Federal lands in that the United States owns the mineral estate of SRHA lands, but not the surface estate. Patents issued under the SRHA, and Homestead Act entries patented under the SRHA, reserved the mineral estate to the United States along with the right to enter, mine, and remove any reserved minerals that may be present in the mineral estate.

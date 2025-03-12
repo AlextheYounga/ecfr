@@ -1,0 +1,3 @@
+##### § 4.1368 Determination by the Administrative Law Judge. #####
+
+Unless all parties agree in writing to an extension or waiver, the Administrative Law Judge shall issue a written decision in accordance with § 4.1127 within 30 days of the date the hearing record is closed by the Administrative Law Judge. An agreement to waive the time limit for issuing a decision may specify the length of the extension agreed to.

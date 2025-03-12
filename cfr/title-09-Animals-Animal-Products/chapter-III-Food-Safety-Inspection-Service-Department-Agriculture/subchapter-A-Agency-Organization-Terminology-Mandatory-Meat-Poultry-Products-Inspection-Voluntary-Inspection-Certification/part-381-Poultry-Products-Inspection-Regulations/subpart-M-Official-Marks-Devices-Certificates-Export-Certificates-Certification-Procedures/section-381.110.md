@@ -1,0 +1,3 @@
+##### § 381.110 Erasures or alterations made on certificates. #####
+
+Erasures or alterations not initialed by the issuing inspector shall not be permitted on any official certificate or any copy thereof. All certificates rendered useless through clerical error or otherwise and all certificates canceled for whatever cause shall be voided and initialed, and one copy shall be retained in the inspector's file; and the original and all other copies shall be forwarded to the appropriate program supervisor.

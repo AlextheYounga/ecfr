@@ -1,0 +1,3 @@
+##### § 3266.10 Will BLM disclose information I submit under these regulations? #####
+
+All Federal and Indian data and information submitted to the BLM are subject to part 2 of this title. Part 2 includes the Department of the Interior regulations covering public disclosure of data and information contained in Department records. Certain mineral information not protected from disclosure under part 2 of this title may be made available for inspection without a Freedom of Information Act (FOIA) request. BLM will not treat surface location, surface elevation, or well status information as confidential.

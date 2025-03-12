@@ -1,0 +1,7 @@
+##### § 52.2 Payment of indemnity. #####
+
+(a) Except as provided in paragraph (b) of this section, the Administrator is authorized to agree on the part of the Department to pay indemnity to the owner of herds of swine destroyed because the herds are known to be infected with pseudorabies, or individual breeding sows destroyed because they are known to be infected with pseudorabies. The amount of indemnity paid, together with the amount for net salvage the owner receives when the animals are slaughtered, shall not exceed the fair market value of the swine. Such swine must be sent directly to slaughter under permit in a conveyance closed with an official seal applied and removed by either an APHIS employee, a State representative, an accredited veterinarian, or an individual authorized for this purpose by an APHIS employee. The swine must be sent to a recognized slaughtering establishment.
+
+(b) If swine from herds that are destroyed because the herds are known to be infected with pseudorabies are not accepted at a recognized slaughtering establishment, or the owner and an APHIS employee or State representative agree they will not be accepted by a recognized slaughtering establishment, the Administrator is authorized to pay 100 percent of the expenses of the purchase, destruction, and disposition of such swine.
+
+(Approved by the Office of Management and Budget under control number 0579-0151)[65 FR 20711, Apr. 18, 2000]

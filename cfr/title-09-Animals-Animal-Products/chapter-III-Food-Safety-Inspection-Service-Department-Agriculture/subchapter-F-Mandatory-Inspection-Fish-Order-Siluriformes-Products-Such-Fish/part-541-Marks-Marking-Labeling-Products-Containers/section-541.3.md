@@ -1,0 +1,3 @@
+##### § 541.3 Official seals for transportation of products. #####
+
+The official mark for use in sealing railroad cars, cargo containers, or other means of conveyance as prescribed in part 555 of this subchapter must be the inscription and serial number shown in 9 CFR 312.5 or another official mark approved by the Administrator. Any seal approved by the Administrator for applying the official mark is an official device for the purposes of the Act. The seal must be attached to the means of conveyance only by a Program employee, who shall also affix a “Warning Tag” (Form MP-408-3 or similar official form).

@@ -1,0 +1,3 @@
+##### § 534.2 Water quality for food fish. #####
+
+Farmers of fish should monitor the water in which the fish are raised for the presence of suspended solids, organic matter, nutrients, heavy metals, pesticides, fertilizers, and industrial chemicals that may contaminate fish. FSIS will collect samples of feed, fish, and water from producers, at intervals to be determined by the Administrator, for the purpose of verifying that fish are being raised under conditions that will yield safe, wholesome products.

@@ -1,0 +1,5 @@
+##### § 532.4 Inspection at official establishments; relation to other authorities. #####
+
+(a) Requirements within the scope of the Act with respect to premises, facilities, and operations of any official establishment that are in addition to or different than those made under this subchapter may not be imposed by any State or local jurisdiction except that the State or local jurisdiction may impose recordkeeping and other requirements within the scope of § 550.1 of this subchapter, if consistent with those requirements, with respect to the establishment.
+
+(b) Labeling, packaging, or ingredient requirements in addition to or different than those made under this subchapter, the Federal Food, Drug, and Cosmetic Act and Fair Packaging and Labeling Act may not be imposed by any State or local jurisdiction with respect to any fish or fish products processed at any official establishment in accordance with the requirements under this subchapter and those Acts.

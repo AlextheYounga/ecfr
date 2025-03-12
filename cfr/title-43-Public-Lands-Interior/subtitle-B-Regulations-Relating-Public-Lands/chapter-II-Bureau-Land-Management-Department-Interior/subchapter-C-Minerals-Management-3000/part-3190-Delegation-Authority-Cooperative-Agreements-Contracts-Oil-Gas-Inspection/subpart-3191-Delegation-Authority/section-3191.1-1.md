@@ -1,0 +1,3 @@
+##### § 3191.1-1 Petition. #####
+
+The Governor or other authorized official of any eligible State may request in writing that the Director delegate all or part of his/her authority and responsibility for inspection, enforcement and investigation on oil and gas leases on Federal lands within the State and on Indian lands within the State where the affected Indian tribe or Indian allottee has given written permission for such inspection, enforcement and investigation. Requests by a State for delegation of other activities may be granted by the Director with the approval of the Secretary.

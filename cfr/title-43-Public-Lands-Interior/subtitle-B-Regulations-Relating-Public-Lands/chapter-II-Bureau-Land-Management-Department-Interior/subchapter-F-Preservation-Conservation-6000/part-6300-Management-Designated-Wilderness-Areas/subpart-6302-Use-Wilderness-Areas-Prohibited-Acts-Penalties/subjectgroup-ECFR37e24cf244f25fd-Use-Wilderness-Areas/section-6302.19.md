@@ -1,0 +1,3 @@
+##### § 6302.19 When may BLM close or restrict use of wilderness areas? #####
+
+When necessary to carry out the provisions of the Wilderness Act and other Federal laws, BLM may close or restrict the use of lands or waters within the boundaries of a BLM wilderness area, using the procedures in § 8364.1 of this chapter. BLM will limit any such closure to affect the smallest area necessary for the shortest time necessary.

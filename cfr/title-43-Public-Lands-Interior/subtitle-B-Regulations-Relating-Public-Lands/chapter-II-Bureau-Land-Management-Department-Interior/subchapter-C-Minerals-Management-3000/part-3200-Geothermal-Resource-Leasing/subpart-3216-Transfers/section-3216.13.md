@@ -1,0 +1,3 @@
+##### § 3216.13 What are my responsibilities after I transfer my interest? #####
+
+After you transfer an interest in a lease you are still responsible for rents, royalties, compensatory royalties, and other obligations that accrued before your transfer became effective. You also remain responsible for plugging and abandoning any wells that were drilled or existing on the lease while you held your interest. You must carry out this responsibility upon the BLM's determination at any future time that the wells must be plugged and abandoned.

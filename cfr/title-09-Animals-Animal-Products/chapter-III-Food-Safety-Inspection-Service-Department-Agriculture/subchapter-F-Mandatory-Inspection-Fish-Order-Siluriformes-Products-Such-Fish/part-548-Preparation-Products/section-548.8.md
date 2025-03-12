@@ -1,0 +1,3 @@
+##### § 548.8 Polluted water contamination at establishment. #####
+
+In the event that there is polluted water (including but not limited to flood water) in an official establishment, all products and ingredients for use in the preparation of the products that have been rendered adulterated by the water must be condemned. After the polluted water has receded from the establishment, the establishment must follow the cleaning and sanitizing procedures in § 318.4 of this chapter.

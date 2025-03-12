@@ -1,0 +1,3 @@
+##### § 3120.3-3 Minimum bid and rental remittance. #####
+
+Nominations filed in response to a List of Lands Available for Competitive Nominations shall be accompanied by a single remittance. Failure to submit either a separate remittance with each form or an amount sufficient to cover all the parcels nominated on each form shall cause the entire filing to be deemed unacceptable with all moneys refunded.

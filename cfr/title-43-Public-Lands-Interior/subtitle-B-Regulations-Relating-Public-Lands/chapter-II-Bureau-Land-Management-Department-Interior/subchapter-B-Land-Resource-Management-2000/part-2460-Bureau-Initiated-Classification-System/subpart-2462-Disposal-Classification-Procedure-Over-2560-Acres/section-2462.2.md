@@ -1,0 +1,3 @@
+##### § 2462.2 Publication of notice of classification. #####
+
+After having considered the comments received as the result of publication, the authorized officer may classify the lands any time after the expiration of 60 days following the publication of the proposed classification in the Federal Register. The authorized officer shall publicize the classification in the same manner as the proposed classification was publicized, indicating in the notice the differences, if any, between the proposed classification and the classification.

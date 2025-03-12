@@ -1,0 +1,21 @@
+##### § 3160.0-9 Information collection. #####
+
+(a) The information collection requirements contained in §§ 3162.3, 3162.3-1, 3162.3-2, 3162.3-3, 3162.3-4, 3162.4-1, 3162.4-2, 3162.5-1, 3162.5-2, 3162.5-3, 3162.6, 3162.7-1, 3162.7-2, 3162.7-3, 3162.7-5, 3164.3, 3165.1, and 3165.3 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance Number 1004-0134. The information may be collected from some operators either to provide data so that proposed operations may be approved or to enable the monitoring of compliance with granted approvals. The information will be used to grant approval to begin or alter operations or to allow operations to continue. The obligation to respond is required to obtain benefits under the lease.
+
+(b) Public reporting burden for this information is estimated to average 0.4962 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Information Collection Clearance Officer (783), Bureau of Land Management, Washington, DC 20240, and the Office of Management and Budget, Paperwork Reduction Project, 1004-0134, Washington, DC 20503.
+
+(c)(1) The information collection requirements contained in part 3160 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned the following Clearance Numbers:
+
+|Form No.|                                   Name and filing date                                    | OMB No. |
+|--------|-------------------------------------------------------------------------------------------|---------|
+| 3160-3 |Application for Permit to Drill, Deepen, or Plug Back—Filed 30 days prior to planned action|1004-0136|
+| 3160-4 |     With Completion of Recompletion Report and Log—Due 30 days after well completion      |1004-0137|
+| 3160-5 |Sundry Notice and Reports on Wells—Subsequent report due 30 days after operations completed|1004-0135|
+
+The information will be used to manage Federal and Indian oil and gas leases. It will be used to allow evaluation of the technical, safety, and environmental factors involved with drilling and producing oil and gas on Federal and Indian oil and gas leases. Response is mandatory only if the operator elects to initiate drilling, completion, or subsequent operations on an oil and gas well, in accordance with 30 U.S.C. 181 *et seq.*
+
+(2) Public reporting burden for this information is estimated to average 25 minutes per response for clearance number 1004-0135, 30 minutes per response for clearance number 1004-0136, and 1 hour per response for clearance number 1004-0137, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Information Collection Clearance Officer (783), Bureau of Land Management, Washington, DC 20240, and the Office of Management and Budget, Paperwork Reduction Project, 1004-0135, 1004-0136, or 1004-0137, as appropriate, Washington, DC 20503.
+
+(d) There are many leases and agreements currently in effect, and which will remain in effect, involving both Federal and Indian oil and gas leases which specifically refer to the United States Geological Survey, USGS, Minerals Management Service, MMS, or Conservation Division. These leases and agreements also often specifically refer to various officers such as Supervisor, Conservation Manager, Deputy Conservation Manager, Minerals Manager, and Deputy Minerals Manager. In addition, many leases and agreements specifically refer to 30 CFR part 221 or specific sections thereof, which has been redesignated as 43 CFR part 3160. Those references shall now be read in the context of Secretarial Order 3087 and now mean either the Bureau of Land Management or Minerals Management Service, as appropriate.
+
+[57 FR 3024, Jan. 27, 1992]

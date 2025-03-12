@@ -1,0 +1,3 @@
+##### § 3830.9 What will happen if I file a document with BLM that I know contains false, erroneous, or fictitious information or statements? #####
+
+If you file a document that you know contains false, erroneous, or fictitious information or statements, you may be subject to criminal penalties under 18 U.S.C. 1001 and 43 U.S.C. 1212. The maximum penalty is 5 years in prison and/or a fine of $250,000.

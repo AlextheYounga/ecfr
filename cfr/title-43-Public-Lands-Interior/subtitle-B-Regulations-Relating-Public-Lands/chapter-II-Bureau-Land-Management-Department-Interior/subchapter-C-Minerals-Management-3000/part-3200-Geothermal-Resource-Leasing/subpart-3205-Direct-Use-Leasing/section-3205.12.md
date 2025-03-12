@@ -1,0 +1,3 @@
+##### § 3205.12 How will BLM respond to direct use lease applications on lands managed by another agency? #####
+
+BLM will respond to a direct use lease application on lands managed by another surface management agency by forwarding the application to that agency for its review. If that agency consents to lease issuance and recommends that the lands are appropriate for direct use operations, without sale, for purposes other than commercial generation of electricity, BLM will consider that consent and recommendation in determining whether to issue the lease. BLM may not issue a lease without the consent of the surface management agency.

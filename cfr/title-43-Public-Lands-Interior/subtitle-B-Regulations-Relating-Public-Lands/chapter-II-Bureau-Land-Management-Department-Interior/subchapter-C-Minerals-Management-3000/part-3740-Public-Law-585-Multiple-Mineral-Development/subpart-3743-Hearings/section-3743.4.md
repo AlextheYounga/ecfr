@@ -1,0 +1,3 @@
+##### § 3743.4 Effect of decision affirming a mining claimant's rights. #####
+
+If, pursuant to a hearing held as provided in the regulations of this part, the final decision rendered in the matter shall affirm the validity and effectiveness of any mining claimant's right or interest under a mining claim as to Leasing Act minerals, then no subsequent proceedings under section 7 of the Act and the regulations of this part shall have any force or effect upon the so-affirmed right or interest of such mining claimant under such mining claim.

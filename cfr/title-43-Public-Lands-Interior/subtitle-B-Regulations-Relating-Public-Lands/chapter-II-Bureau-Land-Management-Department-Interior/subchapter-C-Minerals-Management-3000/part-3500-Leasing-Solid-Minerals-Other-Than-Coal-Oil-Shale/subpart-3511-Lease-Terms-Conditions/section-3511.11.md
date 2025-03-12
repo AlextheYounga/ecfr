@@ -1,0 +1,3 @@
+##### § 3511.11 If I am mining calcium chloride, may I obtain a noncompetitive mineral lease to produce the commingled sodium chloride? #####
+
+Yes. If you are producing calcium chloride in paying quantities from an existing mine which you control, you may apply to BLM for a noncompetitive lease to produce the commingled sodium chloride. You must already have authorization, under part 3800 of this chapter, for the locatable minerals. You must also meet the other requirements of this part for the commingled leasable minerals.

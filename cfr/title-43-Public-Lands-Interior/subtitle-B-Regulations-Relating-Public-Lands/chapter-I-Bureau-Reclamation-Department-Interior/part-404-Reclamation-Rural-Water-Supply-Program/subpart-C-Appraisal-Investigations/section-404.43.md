@@ -1,0 +1,9 @@
+##### § 404.43 What process will Reclamation follow to determine if an appraisal investigation is ready for review? #####
+
+(a) Reclamation will evaluate whether the appraisal investigation adequately addresses all of the items required in Reclamation's standards for conducting appraisal investigations, and is, therefore ready for review. Reclamation standards and requirements for the content of an appraisal investigation are available at your local Reclamation office. Reclamation will notify you in writing of the outcome of this determination within 90 business days from the date of Reclamation's receipt of the appraisal investigation;
+
+(b) If the appraisal investigation does not include the required information, you will be notified in writing of the reasons why, and you will have an opportunity to make changes and re-submit the corrected appraisal investigation to Reclamation for additional review. As appropriate, Reclamation will work with you to suggest approaches to correct the appraisal investigation;
+
+(c) Once Reclamation determines that the appraisal investigation includes all of the required information, Reclamation will review the investigation to determine, based on an application of the criteria set forth in § 404.44, whether or not it is appropriate to proceed to a feasibility study. Reclamation will document its findings in an appraisal report, as described in § 404.45;
+
+(d) Reclamation's review of an appraisal investigation will take no longer than 180 business days from its receipt of the appraisal investigation to its completion of the appraisal report, excluding time when Reclamation is waiting for additional information from the project sponsor.

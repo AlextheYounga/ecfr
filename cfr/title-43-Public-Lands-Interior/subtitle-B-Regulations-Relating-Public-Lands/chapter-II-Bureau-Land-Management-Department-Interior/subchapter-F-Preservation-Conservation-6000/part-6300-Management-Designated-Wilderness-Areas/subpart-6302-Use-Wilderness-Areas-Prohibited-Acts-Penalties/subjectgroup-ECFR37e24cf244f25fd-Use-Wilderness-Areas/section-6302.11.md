@@ -1,0 +1,3 @@
+##### § 6302.11 How may I use wilderness areas? #####
+
+Unless otherwise provided by BLM, the Wilderness Act, or the Act of Congress designating the area as wilderness, all wilderness areas will be open to uses consistent with the preservation of their wilderness character and their future use and enjoyment as wilderness. In subpart 6304 you will find provisions implementing the special provisions of the Wilderness Act that allow specific uses of wilderness areas. In § 6302.20 you will find a list of acts that are explicitly prohibited within wilderness areas.

@@ -1,0 +1,5 @@
+##### § 354.141 Issuance and disposition of rabbits inspection certificates. #####
+
+(a) Upon the request of an interested party, any inspector is authorized to issue a rabbit inspection certificate with respect to any lot of rabbits inspected by him. Each certificate shall be signed by the inspector who made the inspection covered by the certificate, and if more than one inspector participated in the inspection of the lot of rabbits, each such inspector shall sign the certificate with respect to such lot.
+
+(b) The original and a copy of each inspection certificate, issued pursuant to §§ 354.140 to 354.144, and not to exceed two additional copies thereof if requested by the applicant prior to issuance, shall, immediately upon issuance, be delivered or mailed to the applicant or person designated by him. One copy shall be filed in the office of the area supervisor serving the area in which the inspection was performed, and the remaining copies shall be disposed of in such manner as the Administrator may approve. Additional copies of any such certificate may be furnished to any interested party as provided in § 354.105.

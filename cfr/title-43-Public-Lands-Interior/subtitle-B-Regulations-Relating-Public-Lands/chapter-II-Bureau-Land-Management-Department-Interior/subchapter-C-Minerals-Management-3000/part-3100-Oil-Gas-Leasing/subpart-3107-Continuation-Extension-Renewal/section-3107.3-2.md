@@ -1,0 +1,5 @@
+##### § 3107.3-2 Segregation of leases committed in part. #####
+
+Any lease committed after July 29, 1954, to any cooperative or unit plan, which covers lands within and lands outside the area covered by the plan, shall be segregated, as of the effective date of unitization, into separate leases; one covering the lands committed to the plan, the other lands not committed to the plan. The segregated lease covering the nonunitized portion of the lands shall continue in force and effect for the term of the lease or for 2 years from the date of segregation, whichever is longer. However, for any lease segregated from a unit, if the public interest requirement for the unit is not satisfied, such segregation shall be declared invalid by the authorized officer. Further, the segregation shall be conditioned to state that no operations shall be approved on the segregated portion of the lease past the expiration date of the original lease until the public interest requirement of the unit has been satisfied.
+
+[48 FR 33662, July 22, 1983, as amended at 53 FR 17357, May 16, 1988]

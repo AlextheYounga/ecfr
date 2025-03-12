@@ -1,0 +1,7 @@
+##### § 116.5 Reports. #####
+
+(a) When required by the Administrator, reports containing accurate and complete information concerning biological products, including but not limited to, product development and preparation, and market suspensions and recalls, shall be prepared and submitted to the Animal and Plant Health Inspection Service by the licensee, permittee, or foreign manufacturer (whose products are being imported or offered for importation). Unless otherwise authorized by the Administrator, records necessary to make such reports shall be maintained in each establishment.
+
+(b) If, at any time, there are indications that raise questions regarding the purity, safety, potency, or efficacy of a product, or if it appears that there may be a problem regarding the preparation, testing, or distribution of a product, the licensee, permittee, or foreign manufacturer must immediately notify the Animal and Plant Health Inspection Service concerning the circumstances and the action taken, if any. Notification may be made by mail to Director, Center for Veterinary Biologics, Inspection and Compliance, 1920 Dayton Avenue, P.O. Box 844, Ames, IA 50010; by electronic mail to (*cvb@aphis.usda.gov*); by fax to (515) 337-6120; or by telephone to (515) 337-6100.
+
+(Approved by the Office of Management and Budget under control number 0579-0013)[61 FR 52874, Oct. 9, 1996, as amended at 64 FR 43045, Aug. 9, 1999; 75 FR 20773, Apr. 21, 2010]

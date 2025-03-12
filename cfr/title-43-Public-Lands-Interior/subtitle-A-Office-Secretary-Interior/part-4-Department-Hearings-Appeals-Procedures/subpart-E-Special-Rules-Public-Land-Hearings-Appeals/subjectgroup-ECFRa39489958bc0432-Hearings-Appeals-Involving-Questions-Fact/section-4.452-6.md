@@ -1,0 +1,5 @@
+##### § 4.452-6 Evidence. #####
+
+(a) All oral testimony shall be under oath and witnesses shall be subject to cross-examination. The administrative law judge may question any witness. Documentary evidence may be received if pertinent to any issue. The administrative law judge will summarily stop examination and exclude testimony which is obviously irrelevant and immaterial.
+
+(b) Objections to evidence will be ruled upon by the administrative law judge. Such rulings will be considered, but need not be separately ruled upon, by the Board in connection with its decision. Where a ruling of an administrative law judge sustains an objection to the admission of evidence, the party affected may insert in the record, as a tender of proof, a summary written statement of the substance of the excluded evidence, and the objecting party may then make an offer of proof in rebuttal.

@@ -1,0 +1,3 @@
+##### § 4.808 Participation by a party. #####
+
+Subject to the provisions contained in part 1 of this subtitle, a party may appear in person, by representative, or by counsel, and participate fully in any proceeding held pursuant to part 17 of this title and these regulations. A State agency or any instrumentality thereof, a political subdivision of the State or instrumentality thereof, or a corporation may appear by any of its officers or employees duly authorized to appear on its behalf.

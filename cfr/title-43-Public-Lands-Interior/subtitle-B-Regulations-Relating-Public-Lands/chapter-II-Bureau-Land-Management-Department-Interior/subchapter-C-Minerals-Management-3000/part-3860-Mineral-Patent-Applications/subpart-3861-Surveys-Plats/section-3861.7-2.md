@@ -1,0 +1,3 @@
+##### § 3861.7-2 Proof of posting on the claim. #####
+
+After posting the said plat and notice upon the premises the claimant will file with the proper manager two copies of such plat and the field notes of survey of the claim, accompanied by two copies of the statement of at least two credible witnesses that such plat and notice are posted conspicuously upon the claim, giving the date and place of such posting, and two copies of the notice so posted to be attached to and form a part of said statement.

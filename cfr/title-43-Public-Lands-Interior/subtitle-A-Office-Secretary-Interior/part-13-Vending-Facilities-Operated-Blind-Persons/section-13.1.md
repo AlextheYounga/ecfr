@@ -1,0 +1,3 @@
+##### § 13.1 Authority and purpose. #####
+
+The Randolph-Sheppard Vending Stand Act of June 20, 1936, as amended by section 4 of the Act of August 3, 1954 (68 Stat. 663; 20 U.S.C. 107), directs that, insofar as practicable, preference shall be given to blind persons in the operation of vending stands and machines on any Federal property. The regulations in this part prescribe the policies and procedures to achieve and protect that preference on property, including land, owned or leased by the United States and controlled by the Department of the Interior.

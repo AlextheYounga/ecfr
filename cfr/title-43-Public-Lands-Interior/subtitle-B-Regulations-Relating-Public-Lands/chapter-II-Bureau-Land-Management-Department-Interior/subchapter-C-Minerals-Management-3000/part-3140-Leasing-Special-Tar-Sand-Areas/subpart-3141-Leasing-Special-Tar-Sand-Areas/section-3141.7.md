@@ -1,0 +1,3 @@
+##### § 3141.7 Award of lease. #####
+
+After determining the highest responsible qualified bidder, the authorized officer shall send 3 copies of the lease on a form approved by the Director, and any necessary stipulations, to the successful bidder. The successful bidder shall, not later than the 30th day after receipt of the lease, execute the lease, pay the balance of the bid and the first year's rental, and file a bond as required in subpart 3104 of this title. Failure to comply with this section shall result in rejection of the lease.

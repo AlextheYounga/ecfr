@@ -1,0 +1,3 @@
+##### § 47.35 Must lands exchanged be of equal value? #####
+
+Hawaiian home lands to be exchanged must be of equal or lesser value than the lands to be received in the exchange, as determined by the appraisal. Once the market value is established by an approved appraisal, an administrative determination as to the equity of the exchange can be made based on the market value reflected in the approved appraisal.

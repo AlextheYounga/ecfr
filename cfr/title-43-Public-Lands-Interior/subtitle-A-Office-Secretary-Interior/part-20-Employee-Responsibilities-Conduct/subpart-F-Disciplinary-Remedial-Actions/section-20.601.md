@@ -1,0 +1,3 @@
+##### § 20.601 General. #####
+
+This subpart deals with disciplinary actions and remedial actions for violations, or potential violations, of conflict of interest laws or of the regulations in this part or in 5 CFR part 2635 or 5 CFR part 3501. Disciplinary action may include oral or written warning or admonishment, reprimand, suspension, reduction in grade or pay, removal from position or removal from office. Such action shall be taken in accordance with Departmental policies and procedures, applicable statutes, Executive Orders, regulations, and any applicable collective bargaining agreement provisions. Disciplinary action may be imposed independently from and without prior application of remedial actions, including those remedial actions listed in § 20.602.

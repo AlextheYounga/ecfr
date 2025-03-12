@@ -1,0 +1,3 @@
+##### § 590.22 Basis of service. #####
+
+These regulations provide for inspection services pursuant to the Egg Products Inspection Act. Eggs and egg products shall be inspected in accordance with such standards, methods, and instructions as may be issued or approved by the Administrator. Inspection services shall be subject to supervision at all times by the applicable Federal-State supervisor, egg products supervisor, Regional Director, and National Supervisor.

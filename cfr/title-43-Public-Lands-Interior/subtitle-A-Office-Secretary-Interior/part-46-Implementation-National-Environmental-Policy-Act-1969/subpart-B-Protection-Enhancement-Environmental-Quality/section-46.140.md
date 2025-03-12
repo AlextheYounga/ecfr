@@ -1,0 +1,9 @@
+##### § 46.140 Using tiered documents. #####
+
+A NEPA document that tiers to another broader NEPA document in accordance with 40 CFR 1508.28 must include a finding that the conditions and environmental effects described in the broader NEPA document are still valid or address any exceptions.
+
+(a) Where the impacts of the narrower action are identified and analyzed in the broader NEPA document, no further analysis is necessary, and the previously prepared document can be used for purposes of the pending action.
+
+(b) To the extent that any relevant analysis in the broader NEPA document is not sufficiently comprehensive or adequate to support further decisions, the tiered NEPA document must explain this and provide any necessary analysis.
+
+(c) An environmental assessment prepared in support of an individual proposed action can be tiered to a programmatic or other broader-scope environmental impact statement. An environmental assessment may be prepared, and a finding of no significant impact reached, for a proposed action with significant effects, whether direct, indirect, or cumulative, if the environmental assessment is tiered to a broader environmental impact statement which fully analyzed those significant effects. Tiering to the programmatic or broader-scope environmental impact statement would allow the preparation of an environmental assessment and a finding of no significant impact for the individual proposed action, so long as any previously unanalyzed effects are not significant. A finding of no significant impact other than those already disclosed and analyzed in the environmental impact statement to which the environmental assessment is tiered may also be called a “finding of no *new* significant impact.”

@@ -1,0 +1,9 @@
+##### § 72.18 Movement interstate; specification by the Deputy Administrator, Veterinary Services of treatment required when dipping facilities unavailable. #####
+
+(a) *Tick-infested cattle.* Cattle of the free area which are tick-infested may be moved interstate for any purpose after they have been treated in the same manner as cattle under § 72.6: *Provided, however,* That when dipping equipment is not available at the place where the cattle are, said treatment shall be given at a place and in the manner specified by the Administrator, APHIS.
+
+(b) *Tick-exposed cattle.* Cattle of the free area which have been exposed to tick infestation may be moved interstate for any purpose after they have been treated in the same manner as cattle under § 72.7: *Provided, however,* That when dipping equipment is not available at the place where the cattle are, said treatment shall be given at a place and in the manner specified by the Administrator, APHIS.
+
+(c) *Cattle moved contrary to regulations.* Cattle which have been moved from the quarantined area to the free area without first having been treated in the manner provided in either § 72.6 or § 72.7 or inspected in the manner provided in § 72.8 shall not be shipped or moved interstate until they have been treated in the same manner as cattle under § 72.6: *Provided, however,* That when dipping equipment is not available at the place where the cattle are, said treatment shall be given at a place and in the manner specified by the Administrator, APHIS.
+
+[28 FR 5940, June 13, 1963, as amended at 50 FR 430, Jan. 4, 1985; 56 FR 51974, Oct. 17, 1991]

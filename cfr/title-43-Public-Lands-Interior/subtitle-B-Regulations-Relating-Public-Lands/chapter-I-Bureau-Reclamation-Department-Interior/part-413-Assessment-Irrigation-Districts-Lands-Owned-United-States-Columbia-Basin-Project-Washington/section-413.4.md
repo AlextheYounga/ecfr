@@ -1,0 +1,7 @@
+##### § 413.4 Assessment of other project act lands and rights of way. #####
+
+(a) A district shall, as to other project act lands and rights of way the title to which passes to the United States on or after January 1 of any year and before the district has levied its assessments for that year, immediately remove the lands from its assessment rolls and shall not thereafter take any proceedings to complete or enforce the assessments. Any such removal from the rolls shall be effective as of January 1 of the year in which title passes to the United States Action so to remove shall be taken promptly after the giving of written notice by the Project Manager to the district as to the lands involved, and the district shall provide the United States with a certificate stating that the lands have not been and will not be assessed so long as title thereto remains in the United States.
+
+(b) There is no authority in law for the assessment of rights of way owned by the United States. Accordingly, a district shall make no assessment thereof while title thereto remains in the United States.
+
+(c) Other project act lands while title thereto remains in the United States shall not be assessed for any district charge so long as they are in the “other project act lands” category.

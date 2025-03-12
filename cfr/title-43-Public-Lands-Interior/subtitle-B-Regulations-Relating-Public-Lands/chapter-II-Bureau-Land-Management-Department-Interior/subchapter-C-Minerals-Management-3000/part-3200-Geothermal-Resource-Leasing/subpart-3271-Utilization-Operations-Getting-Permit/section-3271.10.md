@@ -1,0 +1,3 @@
+##### § 3271.10 What do I need to start preparing a site and building and testing a utilization facility on Federal land leased for geothermal resources? #####
+
+In order to use Federal land to produce geothermal power, you must obtain a site license and construction permit from BLM before you start preparing the site. Send BLM a plan that shows what you want to do, and draft a proposed site license agreement that you think is fair and reasonable. We will review your proposal and decide whether to give you a permit and license to proceed with work on the site.

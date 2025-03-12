@@ -1,0 +1,3 @@
+##### § 3204.10 What payment must I submit with my noncompetitive lease application? #####
+
+Submit the processing fee for noncompetitive lease applications found in the fee schedule in § 3000.12 of this chapter for each lease application, and an advance rent in the amount of $1 per acre (or fraction of an acre). BLM will refund the advance rent if we reject the lease application or if you withdraw the lease application before BLM accepts it. If the advance rental payment you send is less than 90 percent of the correct amount, BLM will reject the lease application.

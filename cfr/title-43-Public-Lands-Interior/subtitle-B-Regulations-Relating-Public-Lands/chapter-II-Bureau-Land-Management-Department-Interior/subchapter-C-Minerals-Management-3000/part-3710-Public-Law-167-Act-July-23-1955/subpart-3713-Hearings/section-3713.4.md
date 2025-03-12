@@ -1,0 +1,5 @@
+##### § 3713.4 Effect of decision affirming a mining claimant's rights. #####
+
+(a) If the final decision rendered in any hearing held pursuant to section 5 of the Act shall affirm the validity and effectiveness of any mining claimant's right or interest under a mining claim asserted in accordance with the provisions of that section, then no subsequent proceedings under section 5 of the act shall have any force or effect upon the so-affirmed right or interest of such mining claimant under such mining claim.
+
+(b) If it is finally determined as the result of such a hearing that the claimant has no right or title to or interest in or under his mining claim which he may assert contrary to or in conflict with the limitations and restrictions specified in section 4 of the act, then those limitations and restrictions shall apply with respect to such mining claim.

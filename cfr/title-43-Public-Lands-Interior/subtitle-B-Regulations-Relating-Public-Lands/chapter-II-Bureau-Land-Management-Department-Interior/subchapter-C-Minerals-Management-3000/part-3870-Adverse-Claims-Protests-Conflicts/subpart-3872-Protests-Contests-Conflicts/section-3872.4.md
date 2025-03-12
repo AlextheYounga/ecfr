@@ -1,0 +1,7 @@
+##### § 3872.4 Procedure to dispute record character of land. #####
+
+(a) When lands returned as mineral are sought to be entered as agricultural under laws which require the submission of final proof after due notice by publication and posting, the filing of the proper nonmineral statement in the absence of allegations that the land is mineral will be deemed sufficient as a preliminary requirement. A satisfactory showing as to character of land must be made when final proof is submitted.
+
+(b) In case of application to enter, locate, or select such lands as agricultural, under laws in which the submission of final proof after due publication and posting is not required, notice thereof must first be given by publication for 60 days and posting in the local office during the same period, and affirmative proof as to the character of the land submitted. In the absence of allegations that the land is mineral, and upon compliance with this requirement, the entry location, or selection will be allowed, if otherwise regular.
+
+(c) Where as against the claimed right to enter such lands as agricultural it is alleged that the same are mineral, or are applied for as mineral lands, the proceedings in this class of cases will be in the nature of a contest, and the practice will be governed by the rules in force in contest cases.

@@ -1,0 +1,11 @@
+##### § 316.10 Marking of meat food products with official inspection legend and ingredient statement. #####
+
+(a) Inspected and passed sausages and other products in casings or in link form, of the ordinary “ring” variety or larger shall be marked with the official inspection legend and list of ingredients in accordance with part 317 of this subchapter. The official marks required by this section shall be branded near each end of the sausage or similar product prepared in casings when the product is of a size larger than that customarily sold at retail intact.
+
+(b) Inspected and passed sausage and other products, in casings or in link form, of the smaller varieties, shall bear one or more official inspection legends and one or more lists of ingredients in accordance with part 317 of this subchapter on each kilogram (2.205 lbs.) of product, except where such products leave the official establishment completely enclosed in properly labeled immediate containers having a capacity of 5 kilograms (11.025 lbs.) or less and containing a single kind of product: *Provided,* That such products in properly labeled closed containers exceeding 5 kilograms (11.025 lbs.) capacity, when shipped to another official establishment for further processing or to a governmental agency, need only have the official inspection legend and list of ingredients shown twice throughout the contents of the container. When such products are shipped to another official establishment for further processing, the inspector in charge at the point of origin shall identify the shipment to the inspector in charge at destination by means of Form MP 408-1.
+
+(c) The list of ingredients may be applied by stamping, printing, using paper bands, tags, or tissue strips, or other means approved by the Administrator in specific cases.
+
+(d) All cured products shall be marked with the list of ingredients in accordance with part 317 of this subchapter.
+
+[35 FR 15577, Oct. 3, 1970, as amended at 37 FR 16863, Aug. 22, 1972; 38 FR 4385, Feb. 14, 1973; 39 FR 36000, Oct. 7, 1974; 44 FR 67088, Nov. 23, 1979]

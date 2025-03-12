@@ -1,0 +1,5 @@
+##### § 2565.9 Disposition of records on completion of trust. #####
+
+The trustee's duties having been completed, the books of accounts of all his receipts and expenditures, together with a record of his proceedings as provided in § 2565.8 of this part with all papers, other books, and everything pertaining to such townsite in his possession and all evidence of his official acts shall be transmitted to the Bureau of Land Management to become a part of the records thereof, excepting from such papers, however, in case the town is incorporated, the subdivisional plat of the townsite, which he will deliver to the municipal authorities of the town, together with a copy of the townsite tract book or books, taking a receipt therefore to be transmitted to the Bureau of Land Management.
+
+(Sec. 11, 26 Stat. 1099; 48 U.S.C. 355)

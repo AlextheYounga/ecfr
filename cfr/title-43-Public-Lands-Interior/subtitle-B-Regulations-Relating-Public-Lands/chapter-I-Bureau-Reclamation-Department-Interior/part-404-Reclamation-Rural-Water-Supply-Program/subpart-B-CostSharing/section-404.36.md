@@ -1,0 +1,3 @@
+##### § 404.36 Will Reclamation reimburse me for the cost of an appraisal investigation or a feasibility study that was not completed under § 404.11(a) or (b)? #####
+
+No. The cost-share provisions described in this rule only apply to appraisal investigations and feasibility studies that are completed under the program pursuant to § 404.11(a) or (b). Reclamation will not reimburse you or provide program funding for any expenses related to an appraisal investigation or a feasibility study that is completed without assistance from Reclamation.

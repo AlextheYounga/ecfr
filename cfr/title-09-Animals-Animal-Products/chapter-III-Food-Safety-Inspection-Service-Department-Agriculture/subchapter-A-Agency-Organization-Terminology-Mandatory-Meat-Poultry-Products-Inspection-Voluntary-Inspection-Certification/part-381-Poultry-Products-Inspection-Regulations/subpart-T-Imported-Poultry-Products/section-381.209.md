@@ -1,0 +1,3 @@
+##### § 381.209 Returned United States inspected and marked poultry products; exemption. #####
+
+Poultry products which have been inspected and passed by the U.S. Department of Agriculture and are so marked, and are returned from foreign countries, may be imported if they are not adulterated or misbranded at the time of such return. Such products are exempted from further requirements under this part. Such returned shipments shall be reported to the Administrator by letter prior to arrival at the United States port of entry.

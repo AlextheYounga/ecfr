@@ -1,0 +1,3 @@
+##### § 6302.17 When may I use a wheelchair in BLM wilderness? #####
+
+If you have a disability that requires the use of a wheelchair, you may use a wheelchair in a wilderness. Consistent with the Wilderness Act and the Americans with Disabilities Act of 1990 (42 U.S.C. 12207), BLM is not required to facilitate such use by building any facilities or modifying any conditions of lands within a wilderness area.

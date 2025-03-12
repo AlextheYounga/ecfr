@@ -1,0 +1,5 @@
+##### § 10.16 Review committee. #####
+
+(a) *General.* The Review Committee will advise Congress and the Secretary on matters relating to these regulations and the Act, including, but not limited to, monitoring the performance of museums and Federal agencies in carrying out their responsibilities, facilitating and making recommendations on the resolution of disputes as described further in § 10.17, and compiling a record of culturally unidentifiable human remains that are in the possession or control of museums and Federal agencies and recommending actions for their disposition.
+
+(b) *Recommendations.* Any recommendation, finding, report, or other action of the Review Committee is advisory only and not binding on any person. Any records and findings made by the Review Committee may be admissible as evidence in actions brought by persons alleging a violation of the Act.

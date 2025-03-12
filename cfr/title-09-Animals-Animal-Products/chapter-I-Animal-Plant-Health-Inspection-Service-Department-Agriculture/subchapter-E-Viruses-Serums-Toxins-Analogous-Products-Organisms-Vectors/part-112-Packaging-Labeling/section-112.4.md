@@ -1,0 +1,13 @@
+##### § 112.4 Subsidiaries, divisions, distributors, and permittees. #####
+
+Labels used by subsidiaries, divisions, distributors, and permittees shall be affixed by the licensee in a licensed establishment where the product is produced. Such labels shall comply with requirements for their review, approval, and filing as provided in the regulations.
+
+(a) *Subsidiaries.* Labels to be used on a licensed biological product prepared by a subsidiary operating in a licensed establishment shall be submitted in accordance with § 112.5. Only labels approved for use on such product shall be used by the subsidiary.
+
+(b) *Divisions.* Labels to be used on a licensed biological product prepared in a licensed establishment for distribution by a division or marketing unit of the licensee shall be submitted in accordance with § 112.5. The name, address, and license number of the licensee shall be prominently placed on such labels. The relationship of the division or marketing unit to the licensee shall appear prominently on the label by use of the term “division of” or equivalent.
+
+(c) *Distributors.* The name and address of the distributor or any statement, design, or device shall not be placed on the labels or containers of a licensed biological product in a manner which could be false or misleading or which could indicate that the distributor is the manufacturer of such product or operating under the license number shown on the label. The manufacturer shall be identified by name, address, and license number with the term “manufactured by,” “produced by,” or an equivalent term prominently placed in connection therewith. The name and address of the distributor may be placed on labels or containers if the term “distributor,” or “distributed by,” or an equivalent term is prominently placed in connection therewith.
+
+(d) *Permittees.* The name and address of the permittee and any statement, design, or device shall not be placed on the labels or containers of a biological product imported for sale and distribution in accordance with § 104.5 in a manner which could be false or misleading or which could falsely indicate that the permittee is the manufacturer of such product. The manufacturer shall be identified by name and address with the term “manufactured by,” “produced by,” or an equivalent term prominently placed in connection therewith. Reference to the permittee shall be made by name, address, and permit number with the term “imported by,” “produced for,” or an equivalent term prominently placed in connection therewith.
+
+[50 FR 46417, Nov. 8, 1985, as amended at 59 FR 43445, Aug. 24, 1994]

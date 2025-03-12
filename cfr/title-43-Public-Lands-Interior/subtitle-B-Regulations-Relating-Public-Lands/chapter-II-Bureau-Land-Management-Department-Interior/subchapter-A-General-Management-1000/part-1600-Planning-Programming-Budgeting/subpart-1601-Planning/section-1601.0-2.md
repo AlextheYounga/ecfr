@@ -1,0 +1,3 @@
+##### § 1601.0-2 Objective. #####
+
+The objective of resource management planning by the Bureau of Land Management is to maximize resource values for the public through a rational, consistently applied set of regulations and procedures which promote the concept of multiple use management and ensure participation by the public, state and local governments, Indian tribes and appropriate Federal agencies. Resource management plans are designed to guide and control future management actions and the development of subsequent, more detailed and limited scope plans for resources and uses.

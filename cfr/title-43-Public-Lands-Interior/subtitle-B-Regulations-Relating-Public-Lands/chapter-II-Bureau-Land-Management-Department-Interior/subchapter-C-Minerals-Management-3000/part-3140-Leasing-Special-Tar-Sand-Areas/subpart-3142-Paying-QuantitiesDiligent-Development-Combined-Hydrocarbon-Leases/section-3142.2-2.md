@@ -1,0 +1,7 @@
+##### § 3142.2-2 Advance royalties in lieu of production. #####
+
+(a) Failure to meet the minimum annual tar sand production schedule level in any year shall result in the assessment of an advance royalty in lieu of production which shall be credited to future production royalty assessments applicable to the lease or unit.
+
+(b) If there is no production during the lease year, and the lessee has reason to believe that there shall be no production during the remainder of the lease year, the lessee shall submit to the authorized officer a request for suspension of production at least 90 days prior to the end of that lease year and a payment sufficient to cover any advance royalty due and owing as a result of the failure to produce. Upon receipt of the request for suspension of production and the accompanying payment, the authorized officer shall approve a suspension of production for that lease year and the lease shall not expire during that year for lack of production.
+
+(c) If there is production on the lease or unit during the lease year, but such production fails to meet the minimum production schedule required by the plan of operations for that lease or unit, the lessee shall pay an advance royalty within 60 days of the end of the lease year in an amount sufficient to cover the difference between such actual production and the production schedule required by the plan of operations for that lease or unit and the authorized officer shall direct a suspension of production for those periods during which no production occurred.

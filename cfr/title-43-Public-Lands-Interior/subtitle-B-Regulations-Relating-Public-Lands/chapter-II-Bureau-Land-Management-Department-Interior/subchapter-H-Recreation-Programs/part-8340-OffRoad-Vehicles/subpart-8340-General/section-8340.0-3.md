@@ -1,0 +1,3 @@
+##### § 8340.0-3 Authority. #####
+
+The provisions of this part are issued under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 *et seq.*); the Taylor Grazing Act (43 U.S.C. 315a); the Endangered Species Act (16 U.S.C. 1531 *et seq.*); the Wild and Scenic Rivers Act (16 U.S.C. 1281c); the Act of September 15, 1960, as amended (16 U.S.C. 670 *et seq.*); the Land and Water Conservation Fund Act (16 U.S.C. 460 l-6a); the National Trails System Act (16 U.S.C. 1241 *et seq.*) and E.O. 11644 (Use of Off-Road Vehicles on the Public Lands), 37 FR 2877, 3 CFR part 74, 332, as amended by E.O. 11989 42 FR 26959 (May 25, 1977).

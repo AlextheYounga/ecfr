@@ -1,0 +1,3 @@
+##### § 3832.32 How much land may I include in my mill site? #####
+
+The maximum size of an individual mill site is 5 acres. You may locate more than one mill site per mining claim if you use each site for at least one of the purposes described in § 3832.34 of this part. You may locate only that amount of mill site acreage that is reasonably necessary to be used or occupied for efficient and reasonably compact mining or milling operations.

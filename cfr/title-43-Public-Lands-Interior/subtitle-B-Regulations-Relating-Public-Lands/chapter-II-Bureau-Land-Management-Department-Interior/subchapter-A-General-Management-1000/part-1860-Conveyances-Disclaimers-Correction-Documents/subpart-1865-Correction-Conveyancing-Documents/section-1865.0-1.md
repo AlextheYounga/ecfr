@@ -1,0 +1,3 @@
+##### § 1865.0-1 Purpose. #####
+
+The purpose of these regulations is to implement section 316 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1746), which affords to the Secretary of the Interior discretionary authority to correct errors in patents and other documents of conveyance pertaining to the disposal of the public lands of the United States under laws administered through the Bureau of Land Management or its predecessors.

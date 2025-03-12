@@ -1,0 +1,5 @@
+##### § 73.9 Owners assume responsibility; must execute agreement prior to dipping or treatment waiving all claims against United States. #####
+
+When the cattle are to be dipped under APHIS supervision or control, the owner of the cattle offered for shipment, or his agent duly authorized thereto, shall first execute and deliver to an APHIS inspector an application for inspection and supervised dipping wherein he shall agree to waive all claims against the United States for any loss or damage to said cattle occasioned by or resulting from dipping or other treatment under this part, or resulting from any subsequent treatment prior to their interstate shipment, or resulting from the fact that they are later found to be still scabies infested, and also for all subsequent loss or damage to any other cattle in the possession or control of such owner which may come into contact with the cattle so dipped or treated.
+
+[41 FR 4012, Jan. 28, 1976, as amended at 56 FR 52463, Oct. 21, 1991]

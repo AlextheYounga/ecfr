@@ -1,0 +1,3 @@
+##### § 3715.5-1 What standards apply to ending my use or occupancy? #####
+
+Unless BLM expressly allows them in writing to remain on the public lands, you must remove all permanent structures, temporary structures, material, equipment, or other personal property placed on the public lands during authorized use or occupancy under this subpart. You have 90 days after your operations end to remove these items. If BLM concurs in writing, this provision will not apply to seasonal operations that are temporarily suspended for less than one year and expected to continue during the next operating season or to operations that are suspended for no longer than one year due to market or labor conditions.

@@ -1,0 +1,3 @@
+##### § 10010.41 Commission responsibility. #####
+
+A Commission sponsored environmental document may be prepared by the Commission, a joint-lead agency, a contractor selected or approved by the Commission, or, when appropriate, a cooperating agency. Regardless, the Commission has the responsibility to independently evaluate and draw appropriate conclusions. Following the Commission's preparation or independent evaluation of and assumption of responsibility for an environmental document, an applicant may print it provided the applicant is bearing the cost of the document pursuant to other laws.

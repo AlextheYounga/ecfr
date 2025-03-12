@@ -1,0 +1,5 @@
+##### § 10010.55 Organization for environmental quality. #####
+
+(a) Executive Director. The Executive Director is responsible for providing advice and assistance to the Commission on matters pertaining to environmental quality and for overseeing and coordinating the Commission's compliance with NEPA, Executive Order 11514 as amended by Executive Order 11991, the CEQ regulations, and this part.
+
+(b) NEPA Coordinator. The Executive Director will designate organizational elements or individuals, as appropriate, to be responsible for overseeing matters pertaining to the environmental effects of the Commission's plans and programs. The individual(s) assigned these responsibilities should have management experience or potential, understand the Commission's planning and decision making processes, and be well trained in environmental matters, including the Commission's policies and procedures so that his/her/their advice has significance in the Commission's planning and decisions.

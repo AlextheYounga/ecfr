@@ -1,0 +1,3 @@
+##### § 21.1 Purpose. #####
+
+This part establishes (a) when, and by what standards, use of conservation and recreation areas under private cabin permits must be modified or discontinued so as to allow the public use of such areas and (b) the procedures for renewing, extending, phasing out, or terminating private cabin permits. No current permits or any valid existing rights, are, per se, canceled by the provisions of this part. However, permits may be canceled for cause, or pursuant to termination provisions within the permit itself.

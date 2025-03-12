@@ -1,0 +1,3 @@
+##### § 590.660 Inspection of exempted plants. #####
+
+Duly authorized representatives of the Administrator shall make such periodic inspections of exempted plants and records thereof as the Administrator may require to ascertain if any of the provisions of the Act or these regulations applicable to exempted plants have been violated. Such representatives shall be afforded access, at any reasonable time, to any plant or place of business subject to inspection under the provisions of the Act.

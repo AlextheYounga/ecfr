@@ -1,0 +1,11 @@
+##### § 381.91 Contamination. #####
+
+(a) Carcasses of poultry contaminated by volatile oils, paints, poisons, gases, scald vat water in the air sac system, or other substances which render the carcasses adulterated shall be condemned. Any organ or other part of a carcass which has been accidentally multilated in the course of processing shall be condemned, and if the whole carcass is affected, the whole carcass shall be condemned.
+
+(b) Any carcass of poultry accidentally contaminated during slaughter with digestive tract contents need not be condemned if promptly reprocessed under the supervision of an inspector and thereafter found not to be adulterated. Contaminated surfaces that are cut must be removed only by trimming. Contaminated inner surfaces that are not cut may be cleaned by trimming alone or may be re-processed as provided in subparagraph (b)(1) or (2) of this section.
+
+(1) *Online reprocessing.* Poultry carcasses accidentally contaminated with digestive tract contents may be cleaned by applying an online reprocessing antimicrobial intervention to all carcasses after evisceration and before the carcasses enter the chiller if the parameters for use of the antimicrobial intervention system have been approved by the Administrator. Establishments must incorporate procedures for the use of any online reprocessing antimicrobial intervention system into their HACCP plans, or sanitation SOPs, or other prerequisite programs.
+
+(2) *Offline reprocessing.* Contaminated inner surfaces that are not cut may be cleaned at an approved reprocessing station away from the main processing line by any method that will remove the contamination, such as vacuuming, washing, and trimming, singly or in combination. All visible specks of contamination must be removed, and if the inner surfaces are reprocessed other than solely by trimming, all surfaces of the carcass must be treated with chlorinated water containing 20 ppm to 50 ppm available chlorine or another approved antimicrobial substance in accordance with the parameters approved by the Administrator. Establishments must incorporate procedures for the use of any offline reprocessing into their HACCP plans, or sanitation SOPs, or other prerequisite programs.
+
+[37 FR 9706, May 16, 1972, as amended at 43 FR 12847, Mar. 28, 1978; 79 FR 49636, Aug. 21, 2014]

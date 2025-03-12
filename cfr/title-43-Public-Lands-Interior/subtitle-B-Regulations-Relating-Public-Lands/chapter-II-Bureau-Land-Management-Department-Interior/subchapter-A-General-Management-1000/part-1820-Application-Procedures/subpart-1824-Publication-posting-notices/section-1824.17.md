@@ -1,0 +1,3 @@
+##### § 1824.17 If I must post a notice on the land, what are the requirements? #####
+
+The posted notice must be visible throughout the time period for posting specified in the regulations governing the relevant program. BLM or its regulations may require additional posting, such as in a post office or city hall. For any additional posting requirements, you should see applicable Federal and State law, the regulations of the particular BLM resource program and any additional BLM requirements associated with your application.

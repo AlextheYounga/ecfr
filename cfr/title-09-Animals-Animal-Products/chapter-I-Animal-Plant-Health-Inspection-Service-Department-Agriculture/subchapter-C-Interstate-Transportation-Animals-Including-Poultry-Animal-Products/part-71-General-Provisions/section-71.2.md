@@ -1,0 +1,5 @@
+##### § 71.2 Secretary to issue rule governing quarantine and interstate movement of diseased animals, including poultry. #####
+
+When the Secretary of Agriculture shall determine the fact that poultry or other animals in any State, Territory, or the District of Columbia are affected with any contagious, infectious, or communicable disease of livestock or poultry for which, in his opinion, a quarantine should be established or that other basis for a quarantine exists, notice will be given of that fact, and a rule will be issued accordingly, placing in quarantine such State, Territory, or the District of Columbia, or specified portion thereof. This rule will either absolutely forbid the interstate movement of the quarantined animals from the quarantined area or will indicate the regulations under which interstate movements may be made.
+
+[34 FR 15641, Oct. 9, 1969]

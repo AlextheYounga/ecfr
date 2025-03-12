@@ -1,0 +1,3 @@
+##### § 3816.4 Recommendations as to reservations and contract form. #####
+
+If in the opinion of the Bureau of Reclamation the lands may be opened under the Act without prejudice to the rights of the United States, the report will recommend the reservation of such ways, rights and easements considered necessary or appropriate, and/or the form of contract to be executed by the intending locator or entryman as a condition precedent to the vesting of any rights in him, which may be necessary for the protection of the irrigation interests.

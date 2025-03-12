@@ -1,0 +1,3 @@
+##### § 3100.2-1 Compensation for drainage. #####
+
+Upon a determination by the authorized officer that lands owned by the United States are being drained of oil or gas by wells drilled on adjacent lands, the authorized officer may execute agreements with the owners of adjacent lands whereby the United States and its lessees shall be compensated for such drainage. Such agreements shall be made with the consent of any lessee affected by an agreement. Such lands may also be offered for lease in accordance with part 3120 of this title.

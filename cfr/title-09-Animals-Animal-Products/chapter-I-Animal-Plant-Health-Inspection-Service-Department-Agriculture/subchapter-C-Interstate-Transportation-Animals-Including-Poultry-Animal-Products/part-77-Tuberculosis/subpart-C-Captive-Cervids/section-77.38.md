@@ -1,0 +1,3 @@
+##### § 77.38 Interstate movement from herds that are not accredited, qualified, or monitored. #####
+
+The Administrator may, with the concurrence of the cooperating State animal health officials of the State of destination, and upon request in specific cases, permit the movement of captive cervids not otherwise provided for in this part which have not been classified as reactors and are not otherwise known to be affected with tuberculosis, under such conditions as the Administrator may prescribe in each specific case to prevent the spread of tuberculosis. The Administrator shall promptly notify the appropriate cooperating State animal health officials of the State of destination of any such action.

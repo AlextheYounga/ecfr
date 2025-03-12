@@ -1,0 +1,3 @@
+##### § 3508.11 What lands are available for competitive leasing? #####
+
+BLM may issue a competitive lease on unleased lands where we know that a valuable mineral deposit exists. In such areas, before issuing a lease we may issue you an exploration license, but not a prospecting permit. However, BLM may offer competitive leases for lands where no prospecting or exploratory work is needed to determine the existence or workability of a valuable mineral deposit. In addition, we may offer competitive leases for asphalt on any lands available for asphalt leasing, whether or not we know that a valuable mineral deposit exists.

@@ -1,0 +1,3 @@
+##### § 1784.0-6 Policy. #####
+
+As part of the Department's program for public participation, it is the policy of the Secretary to establish and employ committees representative of major citizens' interests, or where required by law, of special citizen interests, to advise the Secretary and Director regarding policy formulation, program planning, decisionmaking, attainment of program objectives, and achievement of improved program coordination and economies in the management of public lands and resources; to regularly ensure that such committees are being optimally employed; and to limit the number of advisory committees to that essential to the conduct of the public's business.

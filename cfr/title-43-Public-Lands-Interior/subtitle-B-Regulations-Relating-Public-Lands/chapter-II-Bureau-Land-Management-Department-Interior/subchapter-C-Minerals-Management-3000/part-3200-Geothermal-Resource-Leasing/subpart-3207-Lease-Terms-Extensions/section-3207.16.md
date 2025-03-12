@@ -1,0 +1,3 @@
+##### § 3207.16 When may my lease be renewed? #####
+
+You have a preferential right to renew your lease for a second term of up to 55 years, under such terms and conditions as BLM deems appropriate, if at the end of the production extension you are producing or utilizing geothermal resources in commercial quantities and the lands are not needed for any other purpose. The renewal term will continue for up to 55 years if you produce or utilize geothermal resources in commercial quantities and satisfy other terms and conditions BLM imposes.

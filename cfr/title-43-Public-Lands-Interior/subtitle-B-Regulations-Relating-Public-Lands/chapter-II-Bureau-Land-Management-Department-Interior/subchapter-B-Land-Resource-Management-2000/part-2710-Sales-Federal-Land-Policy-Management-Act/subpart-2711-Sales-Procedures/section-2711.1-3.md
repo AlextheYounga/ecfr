@@ -1,0 +1,5 @@
+##### § 2711.1-3 Sales requiring grazing permit or lease cancellations. #####
+
+When lands are identified for disposal and such disposal will preclude livestock grazing, the sale shall not be made until the permittees and lessees are given 2 years prior notification, except in cases of emergency, that their grazing permit or grazing lease and grazing preference may be cancelled in accordance with § 4110.4-2(b) of this title. A sale may be made of such identified lands if the sale is conditioned upon continued grazing by the current permittee/lessee until such time as the current grazing permit or lease would have expired or terminated. A permittee or lessee may unconditionally waive the 2-year prior notification. The publication of a notice of realty action as provided in § 2711.1-2(c) of this title shall constitute notice to the grazing permittee or lessee if such notice has not been previously given.
+
+[49 FR 29015, July 17, 1984]

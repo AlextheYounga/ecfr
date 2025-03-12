@@ -1,0 +1,3 @@
+##### § 311.14 Abrasions, bruises, abscesses, pus, etc. #####
+
+All slight, well-limited abrasions on the tongue and inner surface of the lips and mouth, when without lymph node involvement, shall be carefully excised, leaving only sound, normal tissue, which may be passed for human food. Any organ or other part of a carcass which is badly bruised or which is affected by an abscess, or a suppurating sore shall be condemned; and when the lesions are of such character or extent as to affect the whole carcass, the whole carcass shall be condemned. Portions of carcasses which are contaminated by pus or other diseased material shall be condemned.

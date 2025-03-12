@@ -1,0 +1,11 @@
+##### § 2812.4-4 Arbitration procedure. #####
+
+(a) Within 10 days after the delivery of a written request for arbitration under § 2812.4-1 or § 2812.4-3 of this subpart each of the parties to the disagreement shall appoint an arbitrator and the two arbitrators thus appointed shall select a third arbitrator. If either party fails to appoint an arbitrator as provided herein, the other party may apply to a court of record of the State of Oregon for the appointment of such an arbitrator, as provided by the laws of such State. If within ten days of the appointment of the second of them, the original two arbitrators are unable to agree upon a third arbitrator who will accept the appointment, either party may petition such a court of record of the State of Oregon for the appointment of a third arbitrator. Should any vacancy occur by reason of the resignation, death or inability of one or more of the arbitrators to serve, the vacancy shall be filled according to the procedures applicable to the appointment of the arbitrator whose death, disability, or other inability to serve, created the vacancy.
+
+(b) By mutual agreement, the parties may submit to a single arbitration proceeding controversies arising under both §§ 2812.4-1 and 2812.4-3.
+
+(c) The arbitrators shall hear and determine the controversy and make, file, and serve their award in accordance with the substantive standards prescribed in §§ 2812.4-1 and 2812.4-3, for the type of controversy involved and in accordance with the procedures established by the laws of the State of Oregon pertaining to arbitration proceedings. A copy of the award shall also be served at the same time upon the authorized officer or the State Director, either personally or by registered mail.
+
+(d) Costs of the arbitration proceedings shall be assessed by the arbitrators against either or both of the parties, as may appear equitable to the arbitrators, taking into account the original contentions of the parties, the ultimate decision of the arbitrators and such other matter as may appear relevant to the arbitrators.
+
+[35 FR 9638, June 13, 1970, as amended at 41 FR 21642, May 27, 1976]

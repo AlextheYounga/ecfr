@@ -1,0 +1,13 @@
+##### § 3742.3-1 Request for publication of notice of Leasing Act filing; supporting instruments. #####
+
+(a) Having complied with the requirement of § 3742.2 the applicant, offeror, permittee or lessee may file a Request for Publication of notice of such party's application, offer, permit or lease. Such request for publication shall be filed in the proper office. No Request for Publication, or publication, may include lands in more than one District.
+
+(b) The filing of a Request for Publication must be accompanied by the following:
+
+(1) A certified copy of the Notice of Application, offer, permit or lease setting forth the date of recordation thereof. The date of recordation shall be presumed to have been the date when the notice was filed for record unless the certified copy of the notice shows otherwise or is accompanied by an affidavit of the person filing the request for publication showing that the notice was filed for record on a date prior to the date of recordation.
+
+(2) An affidavit or affidavits of a person or persons over 21 years of age, setting forth that the affiant or affiants have examined the lands involved in a reasonable effort to ascertain whether any person or persons were in actual possession of or engaged in the working of the lands covered by such request or any part thereof. If no person or persons were found to be in actual possession of or engaged in the working of said lands or any part thereof, on the date of such examination, such affidavit or affidavits shall set forth such fact. If any person or persons were so found to be in actual possession or engaged in such working on the date of such examination, such affidavit or affidavits shall set forth the name and address of each such person unless the affiant shall have been unable, through reasonable inquiry, to obtain information as to the name and address of such person; in which event, the affidavit or affidavits shall set forth fully the nature and the results of such inquiry.
+
+(3) The certificate of a title or abstract company, or of a title abstractor, or of an attorney, based upon such company's, abstractor's or attorney's examination of the instruments affecting the lands involved, of record in the public records of the county in which said lands are situated as shown by the indices of the public records in the county office of record for said county, setting forth the name of any person disclosed by said instruments to have an interest in said lands under any unpatented mining claim located prior to enactment of the Act on August 13, 1954, together with the address of such person if disclosed by such instruments of record.
+
+(4) A nonrefundable $10 remittance to cover service charge.

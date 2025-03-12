@@ -1,0 +1,7 @@
+##### § 3101.2-4 Excess acreage. #####
+
+(a) Where, as the result of the termination or contraction of a unit or cooperative plan, the elimination of a lease from an operating, drilling or development contract a party holds or controls excess accountable acreage, said party shall have 90 days from that date to reduce the holdings to the prescribed limitation and to file proof of the reduction in the proper BLM office. Where as a result of a merger or the purchase of the controlling interest in a corporation, acreage in excess of the amount permitted is acquired, the party holding the excess acreage shall have 180 days from the date of the merger or purchase to divest the excess acreage. If additional time is required to complete the divestiture of the excess acreage, a petition requesting additional time, along with a full justification for the additional time, may be filed with the authorized officer prior to the termination of the 180-day period provided herein.
+
+(b) If any person or entity is found to hold accountable acreage in violation of the provisions of these regulations, lease(s) or interests therein shall be subject to cancellation or forfeiture in their entirety, until sufficient acreage has been eliminated to comply with the acreage limitation. Excess acreage or interest shall be cancelled in the inverse order of acquisition.
+
+[48 FR 33662, July 22, 1983, as amended at 53 FR 17353, May 16, 1988]

@@ -1,0 +1,5 @@
+##### § 46.430 Environmental review and consultation requirements. #####
+
+(a) Any environmental impact statement that also addresses other environmental review and consultation requirements must clearly identify and discuss all the associated analyses, studies, or surveys relied upon by the bureau as a part of that review and consultation. The environmental impact statement must include these associated analyses, studies, or surveys, either in the text or in an appendix or indicate where such analysis, studies or surveys may be readily accessed by the public.
+
+(b) The draft environmental impact statement must list all Federal permits, licenses, or approvals that must be obtained to implement the proposal. The environmental analyses for these related permits, licenses, and approvals should be integrated and performed concurrently. The bureau, however, need not unreasonably delay its NEPA analysis in order to integrate another agency's analyses. The bureau may complete the NEPA analysis before all approvals by other agencies are in place.

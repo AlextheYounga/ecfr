@@ -1,0 +1,9 @@
+##### § 50.20 Claims for payment. #####
+
+Claims for payment, other than for reimbursement of relocation expenses of the reverse osmosis dairy plant, must be presented on payment claim forms furnished by APHIS.3 On the claim form, the owner must certify that the animals or other property are, or are not, subject to any mortgage. If the owner states that there is a mortgage, the claim form must be signed by the owner and by each person holding a mortgage on the cattle or other property, who must agree that the person specified on the claim form may receive any payment due. The APHIS veterinarian in charge or the official designated by him or her will record on the claim form the amount of payment that appears to be due to the owner, and the owner will be furnished a copy of the APHIS payment claim form. The veterinarian in charge or official designated by him or her will then forward the APHIS payment claim form to the appropriate APHIS official for further action on the claim. The Department will not pay any costs arising from the holding of the cattle pending slaughter, or for trucking and other transportation costs, yardage, commission, slaughtering charges, or for any other costs related to having the cattle slaughtered. The owner of the reverse osmosis plant must submit copies of the relevant documentation for relocation of equipment to the veterinarian in charge.
+
+1 2 [Reserved]
+
+3 Claim forms may obtained from the veterinarian in charge. The location of the veterinarian in charge may be obtained by writing to National Animal Health Program VS, APHIS, 4700 River Road Unit 43, Riverdale, MD 20737, or by referring to the local telephone book.
+
+(Approved by the Office of Management and Budget under control number 0579-0193)

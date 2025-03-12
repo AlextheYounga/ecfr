@@ -1,0 +1,3 @@
+##### § 204.1 Introduction. #####
+
+The Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs) hereby describes its central and field organization; indicates the established places at which, and methods whereby, the public may secure information; directs attention to the general course and method by which its functions are channeled; and sets forth the procedures governing the availability of opinions, orders, and other records in the files of said Administration.

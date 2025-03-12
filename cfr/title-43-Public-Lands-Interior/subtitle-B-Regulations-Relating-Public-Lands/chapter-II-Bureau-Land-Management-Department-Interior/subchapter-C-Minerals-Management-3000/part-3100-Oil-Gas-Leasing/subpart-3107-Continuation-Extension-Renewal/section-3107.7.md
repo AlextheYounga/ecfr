@@ -1,0 +1,5 @@
+##### § 3107.7 Exchange leases: 20-year term. #####
+
+Any lease which issued for a term of 20 years, or any renewal thereof, or which issued in exchange for a 20-year lease prior to August 8, 1946, may be exchanged for a new lease. Such new lease shall be issued for a primary term of 5 years. The lessee must file an application to exchange a lease for a new lease, in triplicate, at the proper BLM office. The application must show full compliance by the applicant with the terms of the lease and applicable regulations, and must include payment of the processing fee for lease renewal or exchange found in the fee schedule in § 3000.12 of this chapter. Execution of the exchange lease by the applicant is certification of compliance with § 3102.5 of this title.
+
+[48 FR 33662, July 22, 1983, as amended at 53 FR 22840, June 17, 1988; 70 FR 58874, Oct. 7, 2005]

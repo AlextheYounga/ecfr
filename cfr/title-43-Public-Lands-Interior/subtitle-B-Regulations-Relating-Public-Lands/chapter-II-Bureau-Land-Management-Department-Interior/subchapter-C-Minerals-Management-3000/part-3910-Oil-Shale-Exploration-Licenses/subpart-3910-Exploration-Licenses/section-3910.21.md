@@ -1,0 +1,3 @@
+##### § 3910.21 Lands subject to exploration. #####
+
+The BLM may issue oil shale exploration licenses for all Federal lands subject to leasing under § 3900.10 of this chapter, except lands that are in an existing oil shale lease or in preference right leasing areas under the R, D and D program. The BLM may issue exploration licenses for lands in preference right lease areas only to the R, D and D lessee.

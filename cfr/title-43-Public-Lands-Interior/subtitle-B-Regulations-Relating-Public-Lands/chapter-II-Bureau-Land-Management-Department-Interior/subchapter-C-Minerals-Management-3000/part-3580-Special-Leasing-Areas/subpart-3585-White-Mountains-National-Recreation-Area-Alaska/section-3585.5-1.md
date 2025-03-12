@@ -1,0 +1,3 @@
+##### § 3585.5-1 Exploration license. #####
+
+Private parties, jointly or severally, may apply for exploration licenses to explore known hardrock mineral deposits which are not under lease or within an area subject to application and lease under § 3585.3 of this title to obtain geologic, environmental and other pertinent data concerning such deposits. Exploration licenses do not grant the licensee any preference right to a lease.

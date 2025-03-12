@@ -1,0 +1,3 @@
+##### § 3206.17 What will BLM do if my holdings exceed the maximum acreage limits? #####
+
+BLM will notify you in writing if your acreage holdings exceed the limit in § 3206.13. You have 90 days from the date you receive the notice to reduce your holdings to within the limit. If you do not comply, BLM will cancel your leases, beginning with the lease most recently issued, until your holdings are within the limit.

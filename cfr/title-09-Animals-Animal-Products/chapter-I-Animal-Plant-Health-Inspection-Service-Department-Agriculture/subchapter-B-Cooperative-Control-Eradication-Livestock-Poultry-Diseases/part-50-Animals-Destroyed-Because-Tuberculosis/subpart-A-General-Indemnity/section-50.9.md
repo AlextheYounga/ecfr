@@ -1,0 +1,9 @@
+##### § 50.9 Appraisals. #####
+
+(a) Livestock to be destroyed because of tuberculosis under § 50.3 must be appraised within 15 days after being classified as infected with tuberculosis, except that the veterinarian in charge may extend the time limit for appraisal to 30 days when he or she receives a request for such an extension before the end of the expiration date of the original 15-day period allowed and circumstances beyond the control of the owner warrant such an extension, and the Administrator may extend the time limit for appraisal beyond 30 days upon request in specific cases when circumstances beyond the control of the owner warrant such an extension.
+
+(b) Animals for which indemnity is to be paid under this part must be appraised at their fair market value by an appraiser selected by APHIS. APHIS may decline to accept any appraisal that appears to it to be unreasonable or out of proportion to the value of like animals of a like quality. Should the appraisal made by the appraiser selected by APHIS be deemed inadequate by the owner of the animals, the owner will have 15 days from the receipt of the appraisal to submit to the Administrator a request for a review of the appraisal, along with the reasons why the animals should be appraised at a higher value. The decision by the Administrator regarding the value of the animals is final.
+
+(c) When livestock to be destroyed because of tuberculosis are appraised, due consideration will be given to their breeding value as well as to their dairy or meat value. Livestock presented for payment as registered must be accompanied by their registration papers. If the registration papers are temporarily not available, or if the livestock are less than 3 years old and unregistered, the veterinarian in charge may grant a reasonable time for the presentation of their registration papers.
+
+[67 FR 7591, Feb. 20, 2002]

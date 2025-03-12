@@ -1,0 +1,3 @@
+##### § 3210.11 Does a lease segregated from an agreement or plan receive any benefits from unitization of the committed portion of the original lease? #####
+
+The new segregated lease stands alone and does not receive any of the benefits provided to the portion committed to the unit. We will not give you an extension for the eliminated portion of the lease based on status of the lands committed to the unit, including production in commercial quantities or the existence of a producible well.

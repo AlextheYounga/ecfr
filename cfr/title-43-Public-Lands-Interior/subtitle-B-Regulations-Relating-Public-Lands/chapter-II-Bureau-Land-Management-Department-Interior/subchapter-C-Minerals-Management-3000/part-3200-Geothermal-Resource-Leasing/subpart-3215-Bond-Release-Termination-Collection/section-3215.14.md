@@ -1,0 +1,3 @@
+##### § 3215.14 When BLM releases my bond, does that end my responsibilities? #####
+
+When BLM releases your bond, we relinquish the security but we continue to hold the lessee or operator responsible for noncompliance with applicable requirements under the lease. Specifically, we do not waive any legal claim we may have against any person under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 *et seq.*), or other laws and regulations.

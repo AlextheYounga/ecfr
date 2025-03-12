@@ -1,0 +1,3 @@
+##### § 10010.32 Tiering. #####
+
+An environmental document prepared by or for the Commission may incorporate by reference, either in part or in its entirety, an earlier environmental impact statement or environmental assessment when the subject matter of the earlier document is directly applicable. The Commission may also choose to prepare, or cause to have prepared, a broad environmental document to cover an entire program or, alternatively, a series of projects within a distinct geographic area, with the intent of later undertaking project-specific documentation and “tiering” to the more general statement or assessment.

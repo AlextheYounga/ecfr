@@ -1,0 +1,3 @@
+##### § 354.125 Evisceration. #####
+
+No viscera or any part thereof shall be removed from any rabbits which are to be processed under inspection in any official plant, except at the time of evisceration and inspection. Each carcass to be eviscerated shall be opened so as to expose the organs and the body cavity for proper examination by the inspector and shall be prepared immediately after inspection as ready-to-cook rabbit.

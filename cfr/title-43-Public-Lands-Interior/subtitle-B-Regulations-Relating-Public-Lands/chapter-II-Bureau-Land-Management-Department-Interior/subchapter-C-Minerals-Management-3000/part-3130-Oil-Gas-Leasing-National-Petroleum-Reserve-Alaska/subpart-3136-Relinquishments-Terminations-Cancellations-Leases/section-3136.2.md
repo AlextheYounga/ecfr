@@ -1,0 +1,3 @@
+##### § 3136.2 Terminations. #####
+
+Any lease on which there is no well capable of producing oil or gas in paying quantities shall terminate if the lessee fails to pay the annual rental in full on or before the anniversary date of such lease and such failure continues for more than 30 days after the notice of delinquent rental has been delivered by registered or certified mail to the lease owner's record post office address.

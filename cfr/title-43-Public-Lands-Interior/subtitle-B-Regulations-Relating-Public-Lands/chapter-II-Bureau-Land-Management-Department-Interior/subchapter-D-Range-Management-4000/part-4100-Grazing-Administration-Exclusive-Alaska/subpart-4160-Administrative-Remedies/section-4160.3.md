@@ -1,0 +1,9 @@
+##### § 4160.3 Final decisions. #####
+
+(a) In the absence of a protest, the proposed decision will become the final decision of the authorized officer without further notice unless otherwise provided in the proposed decision.
+
+(b) Upon the timely filing of a protest, the authorized officer shall reconsider her/his proposed decision in light of the protestant's statement of reasons for protest and in light of other information pertinent to the case. At the conclusion to her/his review of the protest, the authorized officer shall serve her/his final decision on the protestant or her/his agent, or both, and the interested public.
+
+(c) Notwithstanding the provisions of § 4.21(a) of this title pertaining to the period during which a final decision will not be in effect, the authorized officer may provide that the final decision shall be effective upon issuance or on a date established in the decision, and shall remain in effect pending the decision on appeal unless a stay is granted by the Office of Hearings and Appeals when the authorized officer has made a determination in accordance with §§ 4110.3-3(b), 4130.6-2(b), 4150.2(d), or 4190.1(a). Nothing in this section shall affect the authority of the Director of the Office of Hearings and Appeals, the Interior Board of Land Appeals, or an administrative law judge to provide that the decision becomes effective immediately as provided in §§ 4.21(a)(1) and 4.479(c) of this title.
+
+[43 FR 29067, July 5, 1978, as amended at 46 FR 5791, Jan. 19, 1981; 47 FR 41713, Sept. 21, 1982; 47 FR 46702, Oct. 20, 1982; 49 FR 6455, Feb. 21, 1984; 49 FR 12705, Mar. 30, 1984; 60 FR 9969, Feb. 22, 1995; 61 FR 4227, Feb. 5, 1996; 71 FR 39508, July 12, 2006]

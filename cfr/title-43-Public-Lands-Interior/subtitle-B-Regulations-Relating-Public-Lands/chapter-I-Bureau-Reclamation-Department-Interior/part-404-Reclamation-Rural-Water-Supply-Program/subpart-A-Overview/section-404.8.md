@@ -1,0 +1,3 @@
+##### § 404.8 Are there any exceptions that would allow a community with greater than 50,000 inhabitants to be part of an eligible rural water supply project? #####
+
+Yes. A town or community with a population in excess of 50,000 inhabitants may participate in or be served by an eligible rural water supply project under this program if Reclamation determines that the town or community is a critical partner whose involvement substantially contributes to the financial viability of the proposed project. Such a community could be expected to bear a greater proportionate share of the planning, design, and construction costs than other project sponsors, consistent with their capability to pay and the benefits they derive from the project.

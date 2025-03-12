@@ -1,0 +1,5 @@
+##### § 3140.7 Lands within the National Park System. #####
+
+Conversions of existing oil and gas leases and valid claims based on mineral locations to combined hydrocarbon leases within units of the National Park System shall be allowed only where mineral leasing is permitted by law and where the lands covered by the lease or claim proposed for conversion are open to mineral resource disposition in accordance with any applicable minerals management plan. (See 43 CFR 3100.0-3 (g)(4)). In order to consent to any conversion or any subsequent development under a combined hydrocarbon lease requiring further approval, the Regional Director of the National Park Service shall find that there will be no resulting significant adverse impacts on the resources and administration of such areas or on other contiguous units of the National Park System in accordance with § 3109.2(b) of this title.
+
+[47 FR 22478, May 24, 1982, as amended at 48 FR 33682, July 22, 1983; 55 FR 12351, Apr. 3, 1990]

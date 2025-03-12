@@ -1,0 +1,5 @@
+##### § 3101.1-4 Modification or waiver of lease terms and stipulations. #####
+
+A stipulation included in an oil and gas lease shall be subject to modification or waiver only if the authorized officer determines that the factors leading to its inclusion in the lease have changed sufficiently to make the protection provided by the stipulation no longer justified or if proposed operations would not cause unacceptable impacts. If the authorized officer has determined, prior to lease issuance, that a stipulation involves an issue of major concern to the public, modification or waiver of the stipulation shall be subject to public review for at least a 30-day period. In such cases, the stipulation shall indicate that public review is required before modification or waiver. If subsequent to lease issuance the authorized officer determines that a modification or waiver of a lease term or stipulation is substantial, the modification or waiver shall be subject to public review for at least a 30-day period.
+
+[53 FR 22836, June 17, 1988; 53 FR 31958, Aug. 22, 1988]

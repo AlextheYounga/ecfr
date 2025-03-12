@@ -1,0 +1,7 @@
+##### § 3212.25 Can I convert the royalty rate terms of my lease in effect before August 8, 2005, to the terms of the Geothermal Steam Act, as amended by the Energy Policy Act of 2005? #####
+
+(a) If a lease was in effect before August 8, 2005, the lessee may submit to BLM a request to modify the royalty rate terms of your lease to the applicable royalty rate or direct use fee terms prescribed in the Geothermal Steam Act as amended by the Energy Policy Act of 2005. You may withdraw your request before it is granted, but once you accept the new terms, you may not revert to the earlier royalty rates. If your request to modify is granted, the new royalty rate or direct use fees will apply to all geothermal resources produced from your lease for as long as your lease remains in effect. A modification under this section does not affect the royalty rate for byproducts.
+
+(b)(1) The royalty rate for leases whose terms are modified and production from which is used for commercial generation of electricity is prescribed in § 3211.17(b).
+
+(2) The direct use fees or royalty rate for leases whose terms are modified and production from which is used directly for purposes other than commercial generation of electricity is prescribed in § 3211.18(a) of this part and MMS regulations at 30 CFR 206.356.

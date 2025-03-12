@@ -1,0 +1,3 @@
+##### § 3601.9 Information collection. #####
+
+The Office of Management and Budget has approved the information collection requirements in part 3600 under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1004-0103. BLM is collecting the information to allow us to determine if you are qualified to purchase or have free use of mineral materials on the public lands. You must respond to obtain a benefit.

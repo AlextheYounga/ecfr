@@ -1,0 +1,3 @@
+##### § 202.121 Rule 21: Intervention. #####
+
+At any time after docketing of a proceeding and before commencement of a hearing, oral or written, therein, the presiding officer may, upon petition, and for good cause shown, permit any person to intervene therein. The petition shall state with preciseness and particularity: (a) The petitioner's relationship to the matters involved in the proceeding; (b) the nature of the material the petitioner intends to present in evidence; (c) the nature of the argument the petitioner intends to make; and (d) the reasons why the petitioner should be allowed to intervene. Any such petition, and notice of the order thereon, shall be served on the parties and made a part of the record in the proceeding.

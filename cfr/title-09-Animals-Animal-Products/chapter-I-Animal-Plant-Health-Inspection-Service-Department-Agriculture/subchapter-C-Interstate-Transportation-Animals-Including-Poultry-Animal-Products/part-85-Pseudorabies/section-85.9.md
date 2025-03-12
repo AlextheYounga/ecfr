@@ -1,0 +1,5 @@
+##### § 85.9 Other interstate movements. #####
+
+The Administrator may, upon request in specific cases, permit the interstate movement of livestock not otherwise provided for in this part under such conditions as he may prescribe to prevent the spread of pseudorabies. The Animal and Plant Health Inspection Service intends that such authority be used only in situations and under circumstances presenting problems that could not have been reasonably anticipated in advance and in unique situations. The Animal and Plant Health Inspection Service does not intend that such authority be used repeatedly to cover the same problem, but that the regulation be amended to conform with needed changes as they come to light.
+
+[44 FR 10309, Feb. 16, 1979, as amended at 54 FR 21049, May 16, 1989. Redesignated at 55 FR 19253, May 9, 1990]

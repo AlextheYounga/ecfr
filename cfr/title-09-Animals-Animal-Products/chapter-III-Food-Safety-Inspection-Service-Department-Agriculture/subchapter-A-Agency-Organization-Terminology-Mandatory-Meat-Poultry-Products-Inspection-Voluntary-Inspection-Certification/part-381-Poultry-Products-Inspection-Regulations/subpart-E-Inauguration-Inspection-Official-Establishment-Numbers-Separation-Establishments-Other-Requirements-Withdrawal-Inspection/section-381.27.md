@@ -1,0 +1,3 @@
+##### § 381.27 Inauguration of service; notification concerning regulations; status of uninspected poultry products. #####
+
+The inspector in charge or his supervisor shall, upon or prior to the inauguration of service, inform the operator of the establishment of the requirements of the regulations. If the establishment at the time service is inaugurated contains any poultry product which has not been inspected and marked in compliance with the regulations, its identity shall be maintained, and it shall not be represented or dealt with as a product which has been inspected. Such products may not be shipped in commerce unless such products are eligible for such shipment under an exemption from inspection under subpart C and comply with all requirements of said subpart.

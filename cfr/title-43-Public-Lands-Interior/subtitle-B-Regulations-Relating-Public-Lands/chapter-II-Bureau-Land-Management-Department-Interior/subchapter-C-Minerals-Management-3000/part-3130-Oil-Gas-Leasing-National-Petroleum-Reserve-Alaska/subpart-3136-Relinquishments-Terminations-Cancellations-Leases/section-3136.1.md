@@ -1,0 +1,5 @@
+##### § 3136.1 Relinquishment of leases or parts of leases. #####
+
+A lease may be surrendered in whole or in part by the lessee by filing a written relinquishment, in triplicate, with the Alaska State Office of the Bureau. No filing fee is required. In the case of partial relinquishments, neither the relinquished lands nor the retained lands shall be less than a compact tract of not less than 640 acres. A relinquishment shall take effect on the date it is filed subject to the continued obligation of lessee and the surety to make all payments due, including any accrued rental, royalties and deferred bonuses and to abandon all wells, and condition or remove other facilities on the lands to be relinquished to the satisfaction of the authorized officer.
+
+[46 FR 55497, Nov. 9, 1981, as amended at 53 FR 17359, May 16, 1988]

@@ -1,0 +1,27 @@
+##### § 7.37 Civil penalty hearings procedures. #####
+
+(a) *Requests for hearings.* Any person wishing to request a hearing on a notice of assessment of civil penalty, pursuant to § 7.15(g) of this part, may file a written, dated request for a hearing with the Hearing Division, Office of Hearings and Appeals, U.S. Department of the Interior, 801 North Quincy Street, Arlington, Virginia 22203-1923. The respondent shall enclose a copy of the notice of violation and the notice of assessment. The request shall state the relief sought, the basis for challenging the facts used as the basis for charging the violation and fixing the assessment, and respondent's preference as to the place and date for a hearing. A copy of the request shall be served upon the Solicitor of the Department of the Interior personally or by registered or certified mail (return receipt requested), at the address specified in the notice of assessment. Hearings shall be conducted in accordance with 43 CFR part 4, subparts A and B.
+
+(b) *Waiver of right to a hearing.* Failure to file a written request for a hearing within 45 days of the date of service of a notice of assessment shall be deemed a waiver of the right to a hearing.
+
+(c) *Commencement of hearing procedures.* Upon receipt of a request for a hearing, the Hearing Division shall assign an administrative law judge to the case. Notice of assignment shall be given promptly to the parties, and thereafter, all pleadings, papers, and other documents in the proceeding shall be filed directly with the administrative law judge, with copies served on the opposing party.
+
+(d) *Appearance and practice.* (1) Subject to the provisions of 43 CFR 1.3, the respondent may appear in person, by representative, or by counsel, and may participate fully in those proceedings. If respondent fails to appear and the administrative law judge determines such failure is without good cause, the administrative law judge may, in his/her discretion, determine that such failure shall constitute a waiver of the right to a hearing and consent to the making of a decision on the record made at the hearing.
+
+(2) Departmental counsel, designated by the Solicitor of the Department, shall represent the Federal land manager in the proceedings. Upon notice to the Federal land manager of the assignment of an administrative law judge to the case, said counsel shall enter his/her appearance on behalf of the Federal land manager and shall file all petitions and correspondence exchanges by the Federal land manager and the respondent pursuant to § 7.15 of this part which shall become part of the hearing record. Thereafter, service upon the Federal land manager shall be made to his/her counsel.
+
+(e) *Hearing administration.* (1) The administrative law judge shall have all powers accorded by law and necessary to preside over the parties and the proceedings and to make decisions in accordance with 5 U.S.C. 554-557.
+
+(2) The transcript of testimony, the exhibits, and all papers, documents and requests filed in the proceedings, shall constitute the record for decision. The administrative law judge shall render a written decision upon the record, which shall set forth his/her findings of fact and conclusions of law, and the reasons and basis therefor, and an assessment of a penalty, if any.
+
+(3) Unless a notice of appeal is filed in accordance with paragraph (f) of this section, the administrative law judge's decision shall constitute the final administrative determination of the Secretary in the matter and shall become effective 30 calendar days from the date of this decision.
+
+(4) In any such hearing, the amount of civil penalty assessed shall be determined in accordance with this part, and shall not be limited by the amount assessed by the Federal land manager under § 7.15 of this part or any offer of mitigation or remission made by the Federal land manager.
+
+(f) *Appeal.* (1) Either the respondent or the Federal land manager may appeal the decision of an administrative law judge by the filing of a “Notice of Appeal” with the Director, Office of Hearings and Appeals, U.S. Department of the Interior, 801 North Quincy Street, Arlington, Virginia 22203-1923, within 30 calendar days of the date of the administrative law judge's decision. Such notice shall be accompanied by proof of service on the administrative law judge and the opposing party.
+
+(2) Upon receipt of such a notice, the Director, Office of Hearings and Appeals, shall appoint an *ad hoc* appeals board to hear and decide an appeal. To the extent they are not inconsistent herewith, the provision of the Department of Hearings and Appeals Procedures in 43 CFR part 4, subparts A, B, and G shall apply to appeal proceedings under this subpart. The decision of the board on the appeal shall be in writing and shall become effective as the final administrative determination of the Secretary in the proceeding on the date it is rendered, unless otherwise specified therein.
+
+(g) *Report service.* Copies of decisions in civil penalty proceedings instituted under the Act may be obtained by letter of request addressed to the Director, Office of Hearings and Appeals, U.S. Department of the Interior, 801 North Quincy Street, Arlington, Virginia 22203-1923. Fees for this service shall be as established by the Director of that Office.
+
+[52 FR 9168, Mar. 23, 1987, as amended at 67 FR 4368, Jan. 30, 2002]

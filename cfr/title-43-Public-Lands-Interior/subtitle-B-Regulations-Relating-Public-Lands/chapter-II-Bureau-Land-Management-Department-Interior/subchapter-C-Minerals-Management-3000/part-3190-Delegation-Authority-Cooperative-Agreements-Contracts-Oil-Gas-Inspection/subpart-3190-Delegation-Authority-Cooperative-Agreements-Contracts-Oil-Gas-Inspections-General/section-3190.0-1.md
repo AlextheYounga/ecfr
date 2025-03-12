@@ -1,0 +1,3 @@
+##### § 3190.0-1 Purpose. #####
+
+The purpose of the part is to provide procedures for approval, implementation and administration of delegations of authority, cooperative agreements and contracts for inspection, enforcement and investigative activities related to oil and gas production operations on Federal and Indian lands under the provisions of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 *et seq.*).

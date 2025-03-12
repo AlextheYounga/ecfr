@@ -1,0 +1,3 @@
+##### § 2.54 Lost tags. #####
+
+Each dealer or exhibitor shall be held accountable for all official tags acquired. In the event an official tag is lost from a dog or cat while in the possession of a dealer or exhibitor, the dealer or exhibitor shall make a diligent effort to locate and reapply the tag to the proper animal. If the lost tag is not located, the dealer or exhibitor shall affix another official tag to the animal in the manner prescribed in § 2.50, and record the tag number on the official records.

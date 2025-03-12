@@ -1,0 +1,3 @@
+##### § 429.16 How much is the application fee and when should it be paid? #####
+
+You must remit a nonrefundable application fee of $100 to cover costs associated with our initial review of your application, unless the payment is waived pursuant to subpart F of this part. This initial review will determine if your requested use is appropriate for consideration and not likely to interfere with Reclamation project purposes or operations.

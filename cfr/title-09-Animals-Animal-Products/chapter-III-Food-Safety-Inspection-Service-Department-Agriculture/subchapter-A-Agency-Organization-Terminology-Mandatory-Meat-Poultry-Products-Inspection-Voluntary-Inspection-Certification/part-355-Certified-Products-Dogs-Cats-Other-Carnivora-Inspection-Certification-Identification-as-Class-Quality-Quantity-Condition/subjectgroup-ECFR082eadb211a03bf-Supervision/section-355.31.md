@@ -1,0 +1,3 @@
+##### § 355.31 Supervision by inspector. #####
+
+No container which bears or is to bear a label as provided for under this part shall be filled in whole or in part except with certified products which have been inspected in compliance with this part, which are sound, healthful, wholesome, and otherwise fit for dogs, cats, and other carnivora, and which are strictly in accordance with the statements on the label. No such container shall be filled in whole or in part and no such label shall be affixed thereto except under the supervision of an inspector.

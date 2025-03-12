@@ -1,0 +1,5 @@
+##### § 4.477 Findings and conclusions; decision by administrative law judge. #####
+
+As promptly as possible after the time allowed for presenting proposed findings and conclusions, the administrative law judge will make findings of fact and conclusions of law, unless waiver has been stipulated, and will render a decision upon all issues of material fact and law presented on the record. In doing so, he or she may adopt the findings of fact and conclusions of law proposed by one or more of the parties if they are correct. The reasons for the findings, conclusions, and decision made will be stated, and along with the findings, conclusions, and decision, will become a part of the record in any further appeal. A copy of the decision must be sent by certified mail to all the parties.
+
+[75 FR 64669, Oct. 20, 2010]

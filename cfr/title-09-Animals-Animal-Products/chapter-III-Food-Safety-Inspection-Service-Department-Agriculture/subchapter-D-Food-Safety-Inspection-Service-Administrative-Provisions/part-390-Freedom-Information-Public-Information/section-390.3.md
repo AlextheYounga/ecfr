@@ -1,0 +1,7 @@
+##### § 390.3 Indexes, reference guide, and handbook. #####
+
+(a) Pursuant to the regulations in 7 CFR 1.4(c), FSIS will maintain and make available for public inspection and copying an index providing identifying information regarding the materials required to be published or made available under the Freedom of Information Act (5 U.S.C. 552(a)(2)). The Agency will make the index available by computer telecommunications by December 31, 1999. Quarterly publication of the index is unnecessary and impractical, since the material is voluminous and does not change often enough to justify the expense of quarterly publication. The Agency will provide copies of any index, upon request, at a cost not to exceed direct cost of duplication.
+
+(b) FSIS is responsible for preparing reference material or a guide for requesting records or information from the Agency. This guide also will include an index of all major information systems and a description of major information and record locator systems.
+
+(c) FSIS will prepare a handbook for obtaining information from the Agency. The handbook will be available on paper and through electronic means, and will discuss how the public can use it to access Agency FOIA annual reports. Similarly, the annual reports will refer to the handbook and how to obtain it.

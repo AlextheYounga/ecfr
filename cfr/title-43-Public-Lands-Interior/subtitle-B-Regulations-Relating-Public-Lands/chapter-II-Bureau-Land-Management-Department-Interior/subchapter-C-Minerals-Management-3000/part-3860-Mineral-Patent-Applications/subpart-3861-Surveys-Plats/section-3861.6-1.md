@@ -1,0 +1,3 @@
+##### § 3861.6-1 Payment of charges of the public survey office. #####
+
+With regard to the platting of the claim and other office work in the Bureau of Land Management office, including the preparation of the copies of the plat and field notes to be furnished the claimant, that office will make an estimate of the cost thereof, which amount the claimant will deposit with it to be passed to the credit of the fund created by “Deposits by Individuals for Surveying Public Lands.”

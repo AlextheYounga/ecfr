@@ -1,0 +1,3 @@
+##### § 3281.8 Must a unit operator provide working interests within the designated unit area the opportunity to join the unit? #####
+
+After BLM designates a unit area, the unit operator must invite all owners of mineral rights (leased or unleased) and lease interests (record title and operating rights) in the designated unit area to join the unit. The unit operator must provide the lease interests and mineral rights owners 30 days to respond. If an interest or owner does not respond, the unit operator must provide BLM with written evidence that all the interests or owners were invited to join the unit. BLM will not approve a unit agreement proposal if this evidence is not submitted.

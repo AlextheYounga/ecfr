@@ -1,0 +1,7 @@
+##### § 3861.2-5 Amended mineral surveys. #####
+
+(a) Inasmuch as amended surveys are ordered only by special instructions from the Bureau of Land Management, and the conditions and circumstances peculiar to each separate case and the object sought by the required amendment, alone govern all special matters relative to the manner of making such survey and the form and subject matter to be embraced in the field notes thereof, but few general rules applicable to all cases can be laid down.
+
+(b) The expense of amended surveys, including amendment of plat and field notes, and office work in the Bureau of Land Management office will be borne by the claimant.
+
+(c) The amended survey must be made in strict conformity with, or be embraced within, the lines of the original survey. If the amended and original surveys are identical, that fact must be clearly and distinctly stated in the field notes. If not identical, a bearing and distance must be given from each established corner of the amended survey to the corresponding corner of the original survey. The lines of the original survey, as found upon the ground, must be laid down upon the preliminary plat in such manner as to contrast and show their relation to the lines of the amended survey.

@@ -1,0 +1,3 @@
+##### § 10010.6 Public involvement. #####
+
+The Commission will develop and utilize procedures to ensure the fullest practicable provision of timely public information and understanding of its plans and programs including information on the environmental impacts of alternative courses of action. These procedures will include, wherever appropriate, provision for public meetings or hearings in order to obtain the views of interested parties. The Commission will also encourage State and local agencies and Indian tribal governments to adopt similar procedures for informing the public concerning their activities affecting the quality of the environment.

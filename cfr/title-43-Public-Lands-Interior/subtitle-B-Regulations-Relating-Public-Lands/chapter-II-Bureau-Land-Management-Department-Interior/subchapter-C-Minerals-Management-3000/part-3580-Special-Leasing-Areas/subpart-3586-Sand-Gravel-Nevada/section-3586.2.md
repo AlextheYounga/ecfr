@@ -1,0 +1,5 @@
+##### § 3586.2 Existing leases. #####
+
+Existing sand and gravel leases may be renewed at the expiration of their initial term, and at the end of each successive 5-year period thereafter, for an additional term of 5 years, under such terms and conditions as the authorized officer determines to be reasonable. An application for renewal must be filed in triplicate in the proper BLM office within 90 days prior to the expiration of the lease term and be accompanied by the filing fee for renewal of existing sand and gravel leases in Nevada found in the fee schedule in § 3000.12 of this chapter. Prior to renewal of a lease, the lessee shall be required to file a new bond and remit advance rental for the first year of the renewal lease at the rate prescribed by the authorized officer. The rental payment shall not be less than $20. The lease shall be renewed only upon application of the lessee of record. The authorized officer shall not renew any lease that is not producing sand and gravel or is not part of an existing sand and gravel mining operation.
+
+[51 FR 15213, Apr. 22, 1986, as amended at 72 FR 50889, Sept. 5, 2007]

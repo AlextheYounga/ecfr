@@ -1,0 +1,3 @@
+##### § 20.510 Fraud or false statements in a Government matter. #####
+
+An employees shall not, in any matter within the jurisdiction of any department or agency of the United States, knowingly or willfully falsify, conceal or cover up by any trick, scheme, or device a material fact, or make any false, fictitious, fraudulent statements or representations, or make or use any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry (18 U.S.C. 1001). Special attention is required in the certification of time and attendance reports, applications for employment, request for travel reimbursement, and purchase orders and receiving forms.

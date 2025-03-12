@@ -1,0 +1,5 @@
+##### § 1784.1-2 Duration, termination, and renewal. #####
+
+(a) An advisory committee not mandated by statute, i.e., established at the discretion of the Secretary, shall terminate not later than 2 years after its establishment unless, prior to that time, it is rechartered by the Secretary and copies of the new charter are filed with the appropriate committees of the Senate and House of Representatives. Any committee so renewed shall continue for not more than 2 additional years unless, prior to expiration of such period, it is again rechartered.
+
+(b) Any advisory committee mandated by statute shall terminate not later than 2 years after the date of its establishment unless its duration is otherwise provided by law. Upon the expiration of each successive two-year period following date of establishment, a new charter shall be prepared and, after Secretarial approval, filed with the appropriate committees of the Senate and House of Representatives for any statutory advisory committee being continued.

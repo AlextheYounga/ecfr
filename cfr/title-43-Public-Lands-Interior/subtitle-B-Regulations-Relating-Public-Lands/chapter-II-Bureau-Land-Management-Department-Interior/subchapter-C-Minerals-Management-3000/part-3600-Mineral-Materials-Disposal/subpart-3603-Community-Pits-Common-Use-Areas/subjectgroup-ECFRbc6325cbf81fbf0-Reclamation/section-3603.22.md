@@ -1,0 +1,5 @@
+##### § 3603.22 What fees must I pay to cover the cost of reclamation of community pits and common use areas? #####
+
+(a) You must pay a reclamation fee based on the amount of mineral materials you extract from the community pit or common use area, unless you make an alternative arrangement under paragraph (b) of this section. The reclamation fee you pay is a proportionate share of the total estimated cost of reclamation, determined by using the ratio of the material that you extract under your permit or contract to the total volume of the material BLM estimates will be extracted from the site.
+
+(b) BLM may, at our discretion, allow purchasers and permittees to perform interim or final reclamation, where needed, in lieu of paying reclamation charges. If BLM allows you to perform reclamation in lieu of paying a fee, we may also require you to post a bond under § 3602.14.

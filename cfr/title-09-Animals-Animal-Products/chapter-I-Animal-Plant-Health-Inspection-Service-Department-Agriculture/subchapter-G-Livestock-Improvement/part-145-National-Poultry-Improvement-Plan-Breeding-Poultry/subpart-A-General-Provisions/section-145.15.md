@@ -1,0 +1,7 @@
+##### § 145.15 Diagnostic surveillance program for low pathogenic avian influenza. #####
+
+(a) The Official State Agency must develop a diagnostic surveillance program for H5/H7 low pathogenic avian influenza for all poultry in the State. The exact provisions of the program are at the discretion of the States. The Service will use the standards in paragraph (b) of this section in assessing individual State plans for adequacy, including the specific provisions that the State developed. The standards should be used by States in developing those plans.
+
+(b) Avian influenza must be a disease reportable to the responsible State authority (State veterinarian, etc.) by all licensed veterinarians. To accomplish this, all laboratories (private, State, and university laboratories) that perform diagnostic procedures on poultry must examine all submitted cases of unexplained respiratory disease, egg production drops, and mortality for avian influenza by both an approved serological test and an approved antigen detection test. Memoranda of understanding or other means must be used to establish testing and reporting criteria (including criteria that provide for reporting H5 and H7 low pathogenic avian influenza directly to the Service) and approved testing methods. In addition, States should conduct outreach to poultry producers, especially owners of smaller flocks, regarding the importance of prompt reporting of clinical symptoms consistent with avian influenza.
+
+[74 FR 14715, Apr. 1, 2009]

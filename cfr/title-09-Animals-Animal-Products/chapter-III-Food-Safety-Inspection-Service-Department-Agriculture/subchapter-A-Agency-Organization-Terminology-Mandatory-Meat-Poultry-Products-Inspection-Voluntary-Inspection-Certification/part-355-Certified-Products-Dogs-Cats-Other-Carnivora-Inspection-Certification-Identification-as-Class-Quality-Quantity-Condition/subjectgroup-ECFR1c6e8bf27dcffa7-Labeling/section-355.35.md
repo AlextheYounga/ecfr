@@ -1,0 +1,3 @@
+##### § 355.35 Label information to be displayed on principal panel. #####
+
+The label information required by § 355.32 shall be displayed on the principal panel or panels of the label except that label information other than the name of the product and the ingredient statement may be displayed on a panel immediately adjacent to the principal panel or panels if such supplemental panel consists of at least 20 percent of the label and is reserved exclusively for required labeling information.

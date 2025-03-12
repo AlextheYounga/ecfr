@@ -1,0 +1,3 @@
+##### § 381.124 Dietary food claims. #####
+
+If a product purports to be or is represented for any special dietary use by man, its label shall bear a statement concerning its vitamin, mineral, and other dietary properties upon which the claim for such use is based in whole or in part and shall be in conformity with regulations (21 CFR part 125) established pursuant to sections 403 and 701 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343, 371).

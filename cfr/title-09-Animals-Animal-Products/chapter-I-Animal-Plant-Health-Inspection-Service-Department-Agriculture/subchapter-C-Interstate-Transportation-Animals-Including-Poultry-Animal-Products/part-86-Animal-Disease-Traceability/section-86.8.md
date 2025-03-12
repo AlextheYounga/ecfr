@@ -1,0 +1,3 @@
+##### § 86.8 Preemption. #####
+
+State, Tribal, and local laws and regulations may not specify an official identification device or method that would have to be used if multiple devices or methods may be used under this part for a particular species, nor may the State or Tribe of destination impose requirements that would otherwise cause the State or Tribe from which the shipments originate to have to develop a particular kind of traceability system or change its existing system in order to meet the requirements of the State or Tribe of destination.

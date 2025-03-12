@@ -1,0 +1,3 @@
+##### § 3210.13 Who may lease or locate other minerals on the same lands as my geothermal lease? #####
+
+Anyone may lease or locate other minerals on the same lands as your geothermal lease. The United States reserves the ownership of and the right to extract helium, oil, and hydrocarbon gas from all geothermal steam and associated geothermal resources. In addition, BLM allows mineral leasing or location on the same lands that are leased for geothermal resources, provided that operations under the mineral leasing or mining laws do not unreasonably interfere with or endanger your geothermal operations.

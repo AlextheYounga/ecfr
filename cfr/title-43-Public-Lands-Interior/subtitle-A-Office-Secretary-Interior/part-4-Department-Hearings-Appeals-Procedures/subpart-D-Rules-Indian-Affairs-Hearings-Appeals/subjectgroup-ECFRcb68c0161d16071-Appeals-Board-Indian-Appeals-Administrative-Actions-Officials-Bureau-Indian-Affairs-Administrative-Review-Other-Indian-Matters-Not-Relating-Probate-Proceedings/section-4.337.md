@@ -1,0 +1,5 @@
+##### § 4.337 Action by the Board. #####
+
+(a) The Board may make a final decision, or where the record indicates a need for further inquiry to resolve a genuine issue of material fact, the Board may require a hearing. All hearings shall be conducted by an administrative law judge of the Office of Hearings and Appeals. The Board may, in its discretion, grant oral argument before the Board.
+
+(b) Where the Board finds that one or more issues involved in an appeal or a matter referred to it were decided by the Bureau of Indian Affairs based upon the exercise of discretionary authority committed to the Bureau, and the Board has not otherwise been permitted to adjudicate the issue(s) pursuant to § 4.330(b) of this part, the Board shall dismiss the appeal as to the issue(s) or refer the issue(s) to the Assistant Secretary—Indian Affairs for further consideration.

@@ -1,0 +1,7 @@
+##### § 427.1 Water conservation. #####
+
+(a) *In general.* The Secretary shall encourage the full consideration and incorporation of prudent and responsible water conservation measures in all districts and for the operations by non-Federal recipients of irrigation and municipal and industrial (M&I) water from Federal Reclamation projects.
+
+(b) *Development of a plan.* Districts that have entered into repayment contracts or water service contracts according to Federal reclamation law or the Water Supply Act of 1958, as amended (43 U.S.C. 390b), shall develop and submit to the Bureau of Reclamation a water conservation plan which contains definite objectives which are economically feasible and a time schedule for meeting those objectives. In the event the contractor also has provisions for the supply of M&I water under the authority of the Water Supply Act of 1958 or has invoked a provision of that act, the water conservation plan shall address both the irrigation and M&I water supply activities.
+
+(c) *Federal assistance.* The Bureau of Reclamation will cooperate with the district, to the extent possible, in studies to identify opportunities to augment, utilize, or conserve the available water supply.

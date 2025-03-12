@@ -1,0 +1,3 @@
+##### § 418.3 Preparation and maintenance of written recall procedures. #####
+
+Each official establishment must prepare and maintain written procedures for the recall of any meat, meat food, poultry, or poultry product produced and shipped by the official establishment. These written procedures must specify how the official establishment will decide whether to conduct a product recall, and how the establishment will effect the recall, should it decide that one is necessary.

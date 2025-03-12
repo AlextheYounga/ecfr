@@ -1,0 +1,7 @@
+##### § 3504.25 Do I have to produce a certain amount per year? #####
+
+(a) If your mineral lease was issued, renewed or readjusted any time after April 22, 1986, you must either produce a minimum amount or pay a minimum royalty in lieu of production each lease year. This requirement begins in the sixth lease year or the first full year of a renewed or readjusted lease, whichever comes first. The minimum royalty payment is $3 per acre or fraction of an acre. For phosphate, sulphur, gilsonite and hardrock leases, pay the minimum royalty in advance before the lease anniversary date. For sodium, potassium and asphalt leases the minimum royalty is due in advance before January 1 of each year.
+
+(b) MMS will credit any lease rental payment (see § 3504.16(d) of this part) against the minimum royalty payment amount due under paragraph (a) of this section. MMS then will credit your minimum royalty as specified under paragraph (a) to your production royalties for that year only. For example, if you pay $1,000 in rental and you owe $3,000 in minimum royalties, you will pay a total of $3,000 for both. If during the lease year you accrue $10,000 in production royalties, MMS will credit $3,000 against that amount.
+
+(c) Hardrock mineral leases or development or operating agreements subject to escalating rentals are exempt from minimum production and minimum royalty requirements.

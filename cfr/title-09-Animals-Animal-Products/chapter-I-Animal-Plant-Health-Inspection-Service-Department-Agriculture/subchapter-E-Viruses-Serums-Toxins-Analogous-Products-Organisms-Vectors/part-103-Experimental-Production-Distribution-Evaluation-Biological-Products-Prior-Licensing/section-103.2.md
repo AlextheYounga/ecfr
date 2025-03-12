@@ -1,0 +1,11 @@
+##### § 103.2 Disposition of animals administered experimental biological products or live organisms. #####
+
+Safeguards as herein provided shall be established by the research investigator or research sponsor to control disposition of all animals administered experimental biological products or live organisms.
+
+(a) Surviving test animals (including challenged control animals) shall not be removed from the premises on which the tests are conducted for at least 14 days after administration of an experimental biological product or live organisms: *Provided, however,* That this holding period may be increased or decreased as permitted or requested by the Administrator following review of all relevant information or data available.
+
+(b) All animals administered experimental biological products which are to be slaughtered at establishments subject to the Federal Meat Inspection Act, as amended and extended (21 U.S.C. 601 *et. seq.*) are subject to the applicable requirements of § 309.16 of this title (Meat Inspection Regulations).
+
+(c) Except as otherwise provided in this paragraph, the research investigator or research sponsor shall maintain adequate records relative to the disposition of each animal administered experimental biological products. These records shall be maintained for a minimum period of two years from the date that an experimental product was administered to such animal, and shall show the name and address of the owner; number, species, class and location of the animals; and if sold, the name and address of the consignee, buyer, commission, firm or abattoir: *Provided, however,* That a research investigator or research sponsor may be exempted from these recordkeeping requirements by the Administrator on the basis of acceptable data demonstrating that use of the experimental biological product will not result in the presence of any unwholesome condition in the edible parts of animals subsequently presented for slaughter.
+
+(Approved by the Office of Management and Budget under control number 0579-0059)[30 FR 11848, Sept. 16, 1965, as amended at 48 FR 57473, Dec. 30, 1983; 56 FR 66783, Dec. 26, 1991; 66 FR 21063, Apr. 27, 2001]

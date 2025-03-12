@@ -1,0 +1,3 @@
+##### § 316.7 Marking devices not to be false or misleading; style and size of lettering; approval required. #####
+
+No brand or other marking device shall be false or misleading. The letters and figures thereon shall be of such style and type as will make a clear and legible impression. All markings to be applied to products in an official establishment shall be approved prior to use by the Administrator as provided for in § 317.3 of this subchapter, except that official markings prescribed by the Federal meat grading regulations (7 CFR 53.19) need not be submitted to the Administrator for approval.

@@ -1,0 +1,7 @@
+##### § 418.27 Distribution system operation. #####
+
+(a) The District must permit only its authorized employees or agents to open and close individual turnouts and operate the distribution system facilities. After obtaining Bureau approval, the District may appoint agents to operate individual headgates on a specific lateral if it can be shown that the water introduced to the lateral by a District employee is completely scheduled and can be fully accounted for with a reasonable allowance for seepage and evaporation losses.
+
+(b) If agents need to adjust the scheduled delivery of water to the lateral to accommodate variable field conditions, weather, etc., they must immediately notify the District so proper adjustments can be made in the distribution system. Each agent must keep an accurate record of start and stop times for each delivery and the flow during delivery. This record will be given to the District for proper accounting of water delivered.
+
+(c) The program of using agents to operate individual headgates will be reviewed on a regular basis by the District and the Bureau. If it is found that problems such as higher than normal losses, water not accounted for, etc., have developed on an individual lateral, the program will be suspended and the system operated by District employees until the problems are resolved.

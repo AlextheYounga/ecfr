@@ -1,0 +1,3 @@
+##### § 3281.18 What action will BLM take in reviewing the Plan of Development? #####
+
+BLM will review the Plan of Development to ensure that the types of activities and the timeframes for their completion meet public interest requirements. If BLM determines that the Plan of Development does not meet these requirements, BLM will negotiate with the prospective unit operator to revise the proposed activities. BLM will not designate a unit area until the Plan of Development meets applicable requirements.

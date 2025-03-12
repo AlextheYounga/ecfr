@@ -1,0 +1,7 @@
+##### § 309.1 Ante-mortem inspection on premises of official establishments. #####
+
+(a) All livestock offered for slaughter in an official establishment shall be examined and inspected on the day of and before slaughter unless, because of unusual circumstances, prior arrangements acceptable to the Administrator have been made in specific cases by the circuit supervisor for such examination and inspection to be made on a different day before slaughter.
+
+(b) Such ante-mortem inspection shall be made on the premises of the establishment at which the livestock are offered for slaughter before the livestock shall be allowed to enter into any department of the establishment where they are to be slaughtered or dressed or in which edible products are handled. When the holding pens of an official establishment are located in a public stockyard and are reserved for the exclusive use of the establishment, such pens shall be regarded as part of the premises of that establishment and the operator of the establishment shall be responsible for compliance with all requirements of the regulations in this subchapter with respect to such pens.
+
+[35 FR 15563, Oct. 3, 1970, as amended at 81 FR 46577, July 18, 2016]

@@ -1,0 +1,3 @@
+##### § 3902.21 Filing of qualification evidence. #####
+
+Applicants must file with the BLM a statement and evidence that the qualification requirements in this subpart are met. These may be filed separately from the lease application, but must be filed in the same office as the application. After the BLM accepts the applicant's qualifications, any additional information may be provided to the same BLM office by referring to the serial number of the record in which the evidence is filed. All changes to the qualifications statement must be in writing. The evidence provided must be current, accurate, and complete.

@@ -1,0 +1,3 @@
+##### § 310.10 Carcasses with skin or hide on; cleaning before evisceration; removal of larvae of Hypodermae, external parasites and other pathological skin conditions. #####
+
+When a carcass is to be dressed with the skin or hide left on, the skin or hide shall be thoroughly washed and cleaned before any incision is made for the purpose of removing any part thereof or evisceration, except that where calves are slaughtered by the kosher method, the heads shall be removed from the carcasses, before washing of the carcasses. The skin shall be removed at the time of post-mortem inspection from any calf carcass infested with the larvae of the “oxwarble” fly (Hypoderma lineata and Hypoderma bovis), or external parasites, or affected with other pathological skin conditions.

@@ -1,0 +1,3 @@
+##### § 2933.11 When must I obtain a Recreation Use Permit? #####
+
+You must obtain a Recreation Use Permit for individual or group use of fee areas. These are sites where we provide or administer specialized facilities, equipment, or services related to outdoor recreation. You may visit these areas for the uses and time periods BLM specifies. We will post these uses and limits at the entrance to the area or site, and provide this information in the local BLM office with jurisdiction over the area or site. You may contact this office for permit information when planning your visit.

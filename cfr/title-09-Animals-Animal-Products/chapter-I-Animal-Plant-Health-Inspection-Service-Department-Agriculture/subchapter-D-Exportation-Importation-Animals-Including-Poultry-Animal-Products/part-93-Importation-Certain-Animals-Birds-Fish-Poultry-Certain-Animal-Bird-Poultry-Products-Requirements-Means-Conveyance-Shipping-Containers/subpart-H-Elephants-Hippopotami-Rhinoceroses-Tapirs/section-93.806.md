@@ -1,0 +1,5 @@
+##### § 93.806 Animals refused entry. #####
+
+Any elephant, hippopotamus, rhinoceros, or tapir refused entry into the United States for noncompliance with the requirements of this part shall be removed from the United States within a time period specified by the Administrator or shall be considered abandoned by the importer, and pending removal or abandonment, the animal shall be subject to such safeguards as the inspector determines necessary to prevent the possible introduction of ectoparasites into the United States. If such animal is not removed from the United States within such time period or is abandoned, it may be seized, destroyed, or otherwise disposed of as the Administrator determines necessary to prevent the possible introduction of ectoparasites into the United States.
+
+[52 FR 29502, Aug. 10, 1987, as amended at 57 FR 23049, June 1, 1992. Redesignated at 62 FR 56012, Oct. 28, 1997]

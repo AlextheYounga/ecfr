@@ -1,0 +1,251 @@
+##### § 3.104 Space requirements. #####
+
+(a) *General.* Marine mammals must be housed in primary enclosures that comply with the minimum space requirements prescribed by this part. These enclosures must be constructed and maintained so that the animals contained within are provided sufficient space, both horizontally and vertically, to be able to make normal postural and social adjustments with adequate freedom of movement, in or out of the water. (An exception to these requirements is provided in § 3.110(b) for isolation or separation for medical treatment and/or medical training.) Enclosures smaller than required by the standards may be temporarily used for nonmedical training, breeding, holding, and transfer purposes. If maintenance in such enclosures for nonmedical training, breeding, or holding is to last longer than 2 weeks, such extension must be justified in writing by the attending veterinarian on a weekly basis. If maintenance in such enclosures for transfer is to last longer than 1 week, such extension must be justified in writing by the attending veterinarian on a weekly basis. Any enclosure that does not meet the minimum space requirement for primary enclosures (including, but not limited to, medical pools or enclosures, holding pools or enclosures, and gated side pools smaller than the minimum space requirements) may not be used for permanent housing purposes. Rotating animals between enclosures that meet the minimum space requirements and enclosures that do not is not an acceptable means of complying with the minimum space requirements for primary enclosures.
+
+(b) *Cetaceans.* Primary enclosures housing cetaceans shall contain a pool of water and may consist entirely of a pool of water. In determining the minimum space required in a pool holding cetaceans, four factors must be satisfied. These are MHD, depth, volume, and surface area. For the purposes of this subpart, cetaceans are divided into Group I cetaceans and Group II cetaceans as shown in Table III in this section.
+
+(1)(i) *The required minimum horizontal dimension* (MHD) of a pool for Group I cetaceans shall be 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein (as measured in a parallel or horizontal line, from the tip of its upper jaw, or from the most anterior portion of the head in bulbous headed animals, to the notch in the tail fluke8), whichever is greater; except that such MHD measurement may be reduced from the greater number by up to 20 percent if the amount of the reduction is added to the MHD at the 90-degree angle and if the minimum volume and surface area requirements are met based on an MHD of 7.32 meters (24.0 feet) or two times the average adult length of the longest species of Group I cetacean housed therein, whichever is greater.
+
+8 The body length of a *Monodon monoceros* (narwhale) is measured from the tip of the upper incisor tooth to the notch in the tail fluke. If the upper incisor is absent or does not extend beyond the front of the head, then it is measured like other cetaceans, from the tip of the upper jaw to the notch in the tail fluke. Immature males should be anticipated to develop the “tusk” (usually left incisor tooth) beginning at sexual maturity.
+
+(ii) The MHD of a pool for Group II cetaceans shall be 7.32 meters (24.0 feet) or four times the average adult length of the longest species of cetacean to be housed therein (as measured in a parallel or horizontal line from the tip of its upper jaw, or from the most anterior portion of the head in bulbous headed animals, to the notch in the tail fluke), whichever is greater; except that such MHD measurement may be reduced from the greater number by up to 20 percent if the amount of the reduction is added to the MHD at the 90-degree angle and if the minimum volume and surface area requirements are met based on an MHD of 7.32 meters (24.0 feet) or four times the average adult length of the longest species of Group II cetacean housed therein, whichever is greater.
+
+(iii) In a pool housing a mixture of Group I and Group II cetaceans, the MHD shall be the largest required for any cetacean housed therein.
+
+(iv) Once the required MHD has been satisfied, the pool size may be required to be adjusted to increase the surface area and volume when cetaceans are added. Examples of MHD and volume requirements for Group I cetaceans are shown in Table I, and for Group II cetaceans in Table II.
+
+Table I - Group I Cetaceans<sup>1</sup>
+
+|Representative average adult lengths|Minimum horizontal dimension (MHD)|Minimum required  <br/>depth|Volume of water required for each additional cetacean in excess of two|      |     |            |         |
+|------------------------------------|----------------------------------|----------------------------|----------------------------------------------------------------------|------|-----|------------|---------|
+|               Meters               |               Feet               |           Meters           |                                 Feet                                 |Meters|Feet |Cubic meters|  feet   |
+|                1.68                |               5.5                |            7.32            |                                  24                                  | 1.83 |  6  |    8.11    | 284.95  |
+|                2.29                |               7.5                |            7.32            |                                  24                                  | 1.83 |  6  |   15.07    | 529.87  |
+|                2.74                |               9.0                |            7.32            |                                  24                                  | 1.83 |  6  |   21.57    | 763.02  |
+|                3.05                |               10.0               |            7.32            |                                  24                                  | 1.83 |  6  |   26.73    | 942.00  |
+|                3.51                |               11.5               |            7.32            |                                  24                                  | 1.83 |  6  |   35.40    |1,245.79 |
+|                3.66                |               12.0               |            7.32            |                                  24                                  | 1.83 |  6  |   38.49    |1,356.48 |
+|                4.27                |               14.0               |            8.53            |                                  28                                  | 2.13 |  7  |   60.97    |2,154.04 |
+|                5.49                |               18.0               |           10.97            |                                  36                                  | 2.74 |  9  |   129.65   |4,578.12 |
+|                5.64                |               18.5               |           11.28            |                                  37                                  | 2.82 |9.25 |   140.83   |4,970.33 |
+|                5.79                |               19.0               |           11.58            |                                  38                                  | 2.90 |9.50 |   152.64   |5,384.32 |
+|                6.71                |               22.0               |           13.41            |                                  44                                  | 3.36 | 11  |   237.50   |8,358.68 |
+|                6.86                |               22.5               |           13.72            |                                  45                                  | 3.43 |11.25|   253.42   |8,941.64 |
+|                7.32                |               24.0               |           14.63            |                                  48                                  | 3.66 | 12  |   307.89   |10,851.84|
+|                8.53                |               28.0               |           17.07            |                                  56                                  | 4.27 | 14  |   487.78   |17,232.32|
+
+<sup>1</sup> All calculations are rounded off to the nearest hundredth. In converting the length of cetaceans from feet to meters, 1 foot equals .3048 meter. Due to rounding of meter figures as to the length of the cetacean, the correlation of meters to feet in subsequent calculations of MHD and additional volume of water required per cetacean, over two, may vary slightly from a strict feet to meters ratio. Cubic meters is based on: 1 cubic foot = 0.0283 cubic meter.
+
+Table II - Group II Cetaceans<sup>1</sup>
+
+|Representative average adult length|Minimum horizontal dimension (MHD)|Minimum required  <br/>depth|Volume of water required for each additional cetacean in excess of four|      |    |                        |          |
+|-----------------------------------|----------------------------------|----------------------------|-----------------------------------------------------------------------|------|----|------------------------|----------|
+|              Meters               |               Feet               |           Meters           |                                 Feet                                  |Meters|Feet|Cubic meters<sup>1</sup>|Cubic feet|
+|               1.52                |               5.0                |            7.32            |                                  24                                   | 1.83 | 6  |         13.28          |  471.00  |
+|               1.68                |               5.5                |            7.32            |                                  24                                   | 1.83 | 6  |         16.22          |  569.91  |
+|               1.83                |               6.0                |            7.32            |                                  24                                   | 1.83 | 6  |         19.24          |  678.24  |
+|               2.13                |               7.0                |            8.53            |                                  28                                   | 1.83 | 6  |         26.07          |  923.16  |
+|               2.29                |               7.5                |            9.14            |                                  30                                   | 1.83 | 6  |         30.13          | 1,059.75 |
+|               2.44                |               8.0                |            9.75            |                                  32                                   | 1.83 | 6  |         34.21          | 1,205.76 |
+|               2.59                |               8.5                |           10.36            |                                  34                                   | 1.83 | 6  |         38.55          | 1,361.19 |
+|               2.74                |               9.0                |           10.97            |                                  36                                   | 1.83 | 6  |         43.14          | 1,526.04 |
+
+<sup>1</sup> Converting cubic feet to cubic meters is based on: 1 cubic foot = 0.0283 of a cubic meter.
+
+Table III - Average Adult Lengths of Marine Mammals Maintained in Captivity<sup>1</sup>
+
+|           Species           |        Common name         |Average adult length|    |
+|-----------------------------|----------------------------|--------------------|----|
+|          In meters          |          In feet           |                    |    |
+|     Group I Cetaceans:      |                            |                    |    |
+| Balaenoptera acutorostrata  |        Minke whale         |        8.50        |27.9|
+| Cephalorhynchus commersonii |    Commerson's dolphin     |        1.52        |5.0 |
+|    Delphinapterus leucas    |        Beluga whale        |        4.27        |14.0|
+|      Monodon monoceros      |          Narwhale          |        3.96        |13.0|
+|    Globicephala melaena     |  Long-finned pilot whale   |        5.79        |19.0|
+| Globicephala macrorhynchus  |  Short-finned pilot whale  |        5.49        |18.0|
+|       Grampus griseus       |      Risso's dolphin       |        3.66        |12.0|
+|        Orcinus orca         |        Killer whale        |        7.32        |24.0|
+|    Pseudorca carassidens    |     False killer whale     |        4.35        |14.3|
+|Tursiops truncatus (Atlantic)|     Bottlenose dolphin     |        2.74        |9.0 |
+|Tursiops truncatus (Pacific) |     Bottlenose dolphin     |        3.05        |10.0|
+|      Inia geoffrensis       |      Amazon porpoise       |        2.44        |8.0 |
+|      Phocoena phocoena      |      Harbor porpoise       |        1.68        |5.5 |
+|   Pontoporia blainvillei    |        Franciscana         |        1.52        |5.0 |
+|     Sotalia fluviatilis     |           Tucuxi           |        1.68        |5.5 |
+|   Platanista, all species   |       River dolphin        |        2.44        |8.0 |
+|     Group II Cetaceans:     |                            |                    |    |
+|      Delphinus delphis      |       Common dolphin       |        2.59        |8.5 |
+|      Feresa attenuata       |     Pygmy killer whale     |        2.44        |8.0 |
+|       Kogia breviceps       |     Pygmy sperm whale      |        3.96        |13.0|
+|         Kogia simus         |     Dwarf sperm whale      |        2.90        |9.5 |
+|    Lagenorhynchus acutus    |Atlantic white-sided dolphin|        2.90        |9.5 |
+|   Lagenorhynchus cruciger   |     Hourglass dolphin      |        1.70        |5.6 |
+| Lagenorhynchus obliquidens  |Pacific white-sided dolphin |        2.29        |7.5 |
+| Lagenorhynchus albirostris  |    White-beaked dolphin    |        2.74        |9.0 |
+|   Lagenorhynchus obscurus   |       Duskey dolphin       |        2.13        |7.0 |
+|    Lissodelphis borealis    |Northern right whale dolphin|        2.74        |9.0 |
+|  Neophocaena phocaenoides   |      Finless porpoise      |        1.83        |6.0 |
+|    Peponocephala electra    |     Melon-headed whale     |        2.74        |9.0 |
+|     Phocoenoides dalli      |      Dall's porpoise       |        2.00        |6.5 |
+|    Stenella longirostris    |      Spinner dolphin       |        2.13        |7.0 |
+|    Stenella coeruleoalba    |      Striped dolphin       |        2.29        |7.5 |
+|     Stenella attenuata      |      Spotted dolphin       |        2.29        |7.5 |
+|     Stenella plagiodon      |      Spotted dolphin       |        2.29        |7.5 |
+|      Steno bredanensis      |   Rough-toothed dolphin    |        2.44        |8.0 |
+
+<sup>1</sup> This table contains the species of marine mammals known by the Department to be presently in captivity or that are likely to become captive in the future. Anyone who is subject to the Animal Welfare Act having species of marine mammals in captivity which are not included in this table should consult the Deputy Administrator with regard to the average adult length of such animals.
+
+|          Species           |       Common name       |Average adult length|      |    |    |
+|----------------------------|-------------------------|--------------------|------|----|----|
+|         In meters          |         In feet         |                    |      |    |    |
+|            Male            |         Female          |        Male        |Female|    |    |
+|     Group I Pinnipeds:     |                         |                    |      |    |    |
+| Arctocephalus gazella\*\*  |   Antarctic Fur Seal    |        1.80        | 1.20 |5.9 |3.9 |
+|Arctocephalus tropicalis\*\*|Amsterdam Island Fur Seal|        1.80        | 1.45 |5.9 |4.75|
+|Arctocephalus australis\*\* | South American Fur Seal |        1.88        | 1.42 |6.2 |4.7 |
+| Arctocephalus pusillis\*\* |      Cape Fur Seal      |        2.73        | 1.83 |8.96|6.0 |
+|  Callorhinus ursinus\*\*   |    Northern Fur Seal    |        2.20        | 1.45 |7.2 |4.75|
+|   Eumetopias jubatus\*\*   |   Steller's Sea Lion    |        2.86        | 2.40 |9.4 |7.9 |
+|     Hydrurga leptonyx      |      Leopard Seal       |        2.90        | 3.30 |9.5 |10.8|
+|Mirounga angustirostris\*\* | Northern Elephant Seal  |        3.96        | 2.49 |13.0|8.2 |
+|    Mirounga leonina\*\*    | Southern Elephant Seal  |        4.67        | 2.50 |15.3|8.2 |
+|   Odobenus rosmarus\*\*    |         Walrus          |        3.15        | 2.60 |10.3|8.5 |
+|   Otaria flavescens\*\*    | South American Sea Lion |        2.40        | 2.00 |7.9 |6.6 |
+|       Phoca caspica        |      Caspian Seal       |        1.45        | 1.40 |4.75|4.6 |
+|       Phoca fasciata       |       Ribbon Seal       |        1.75        | 1.68 |5.7 |5.5 |
+|        Phoca larga         |       Harbor Seal       |        1.70        | 1.50 |5.6 |4.9 |
+|       Phoca vitulina       |       Habor Seal        |        1.70        | 1.50 |5.6 |4.9 |
+|   Zalophus californianus   |   California Sea Lion   |        2.24        | 1.75 |7.3 |5.7 |
+|   Halichoerus grypus\*\*   |        Grar Seal        |        2.30        | 1.95 |7.5 |6.4 |
+|       Phoca sibirica       |       Baikal Seal       |        1.70        | 1.85 |5.6 |6.1 |
+|     Phoca groenlandica     |        Harp Seal        |        1.85        | 1.85 |6.1 |6.1 |
+| Leptonychotes weddelli\*\* |      Weddell Seal       |        2.90        | 3.15 |9.5 |10.3|
+| Lobodon carcinophagus\*\*  |     Crabeater Seal      |        2.21        | 2.21 |7.3 |7.3 |
+|   Ommatophoca rossi\*\*    |        Ross Seal        |        1.99        | 2.13 |6.5 |7.0 |
+|    Group II Pinnipeds:     |                         |                    |      |    |    |
+|    Erignathus barbatus     |      Bearded Seal       |        2.33        | 2.33 |7.6 |7.6 |
+|       Phoca hispida        |       Ringed Seal       |        1.35        | 1.30 |4.4 |4.3 |
+|    Cystophora cristata     |       Hooded Seal       |        2.60        | 2.00 |8.5 |6.6 |
+
+Note. \*\*Any Group I animals maintained together will be considered as Group II when the animals maintained together include two or more sexually mature males from species marked with a double asterisk (\*\*) regardless of whether the sexually mature males from the same species.
+
+|      Species      |    Common name    |Average adult length|    |
+|-------------------|-------------------|--------------------|----|
+|     In meters     |      In feet      |                    |    |
+|     Sirenia:      |                   |                    |    |
+|   Dugong dugong   |      Dugong       |        3.35        |11.0|
+|Trichechus manatus |West Indian Manatee|        3.51        |11.5|
+|Trichechus inunguis|  Amazon Manatee   |        2.44        |8.0 |
+|    Mustelidae:    |                   |                    |    |
+|  Enhydra lutris   |     Sea Otter     |        1.25        |4.1 |
+
+(2) *The minimum depth requirement* for primary enclosure pools for all cetaceans shall be one-half the average adult length of the longest species to be housed therein, regardless of Group I or Group II classification, or 1.83 meters (6.0 feet), whichever is greater, and can be expressed as d = L/2 or 6 feet, whichever is greater. Those parts of the primary enclosure pool which do not meet the minimum depth requirement cannot be included when calculating space requirements for cetaceans.
+
+(3) *Pool volume.* A pool of water housing cetaceans which satisfies the MHD and which meets the minimum depth requirement, will have sufficient volume and surface area to hold up to two Group I cetaceans or up to four Group II cetaceans. If additional cetaceans are to be added to the pool, the volume as well as the surface area may have to be adjusted to allow for additional space necessary for such cetaceans. See Tables I, II, and IV for volumes and surface area requirements. The additional volume needed shall be based on the number and kind of cetaceans housed therein and shall be determined in the following manner.
+
+(i) The minimum volume of water required for up to two Group I cetaceans is based upon the following formula:
+
+![](/graphics/ec14no91.010.gif)When there are more than two Group I cetaceans housed in a primary enclosure pool, the additional volume of water required for each additional Group I cetacean in excess of two is based on the following formula:![](/graphics/ec14no91.011.gif)See Table I for required volumes.
+
+(ii) The minimum volume of water required for up to four Group II cetaceans is based upon the following formula:
+
+![](/graphics/ec14no91.012.gif)When there are more than four Group II cetaceans housed in a primary enclosure pool, the additional volume of water required for each additional Group II cetacean in excess of four is based on the following formula:Volume = (Average Adult Length)2 × 3.14 × depthSee Table II for required volumes.
+
+(iii) When a mixture of both Group I and Group II cetaceans are housed together, the MHD must be satisfied as stated in § 3.104(b)(1), and the minimum depth must be satisfied as stated in § 3.104(b)(2). Based on these figures, the resulting volume must then be calculated
+
+![](/graphics/ec14no91.013.gif)Then the volume necessary for the cetaceans to be housed in the pool must be calculated (by obtaining the sum of the volumes required for each animal). If this volume is greater than that obtained by using the MHD and depth figures, then the additional volume required may be added by enlarging the pool in its lateral dimensions or by increasing its depth, or both. The minimum surface area requirements discussed next must also be satisfied.
+
+(4)(i) *The minimum surface area* requirements for each cetacean housed in a pool, regardless of Group I or Group II classification, are calculated as follows:
+
+![](/graphics/ec14no91.014.gif)In a pool containing more than two Group I cetaceans or more than four Group II cetaceans,9 the additional surface area which may be required when animals are added must be calculated for each such animal.
+
+9 A pool containing up to two Group I cetaceans or up to four Group II cetaceans which meets the required MHD and depth will have the necessary surface area and volume required for the animals contained therein.
+
+(ii) When a mixture of Group I and Group II cetaceans are to be housed in a pool, the required MHD, depth, and volume must be met. Then the required surface area must be determined for each animal in the pool. The sum of these surface areas must then be compared to the surface area which is obtained by a computation based on the required MHD of the pool.10 The larger of the two figures represents the surface area which is required for a pool housing a mixture of Group I and Group II cetaceans. Pool surfaces where the depth does not meet the minimum requirements cannot be used in determining the required surface area.
+
+10 Since the MHD represents the diameter of a circle, the surface area based on the MHD is calculated by use of the following formula:
+
+SA = π × (MHD / 2).2
+
+(iii) Surface area requirements are given in Table IV.
+
+Table IV - Minimum Surface Area Required for Each Cetacean
+
+|Average adult length of each cetacean|Surface area required for each cetacean|                      |        |
+|-------------------------------------|---------------------------------------|----------------------|--------|
+|               Meters                |                 Feet                  |Sq. meters<sup>1</sup>|Sq. feet|
+|                1.68                 |                  5.5                  |         3.31         | 33.62  |
+|                2.13                 |                  7.0                  |         5.36         | 57.70  |
+|                2.29                 |                  7.5                  |         6.15         | 66.23  |
+|                2.59                 |                  8.5                  |         7.90         | 85.07  |
+|                2.74                 |                  9.0                  |         8.86         | 95.38  |
+|                3.05                 |                 10.0                  |        10.94         | 117.75 |
+|                3.51                 |                 11.5                  |        14.47         | 155.72 |
+|                3.66                 |                 12.0                  |        15.75         | 169.56 |
+|                4.27                 |                 14.0                  |        21.44         | 230.79 |
+|                5.49                 |                 18.0                  |        35.44         | 381.51 |
+|                5.64                 |                 18.5                  |        37.43         | 403.00 |
+|                5.79                 |                 19.0                  |        39.49         | 425.08 |
+|                6.71                 |                 22.0                  |        52.94         | 569.91 |
+|                6.86                 |                 22.5                  |        55.38         | 596.11 |
+|                7.32                 |                 24.0                  |        63.01         | 678.24 |
+|                8.53                 |                 28.0                  |        85.76         | 923.16 |
+
+<sup>1</sup> Square meter = square feet/9 × 0.8361.
+
+(c) *Sirenians.* Primary enclosures housing sirenians shall contain a pool of water and may consist entirely of a pool of water.
+
+(1) The required MHD of a primary enclosure pool for sirenians shall be two times the average adult length of the longest species of sirenian to be housed therein. Calculations shall be based on the average adult length of such sirenians as measured in a horizontal line from the tip of the muzzle to the notch in the tail fluke of dugongs and from the tip of the muzzle to the most distal point in the rounded tail of the manatee.
+
+(2) The minimum depth requirements for primary enclosure pools for all sirenians shall be one-half the average adult length of the longest species to be housed therein, or 1.52 meters (5.0 feet), whichever is greater. Those parts of the primary enclosure pool which do not meet the minimum depth requirements cannot be included when calculating space requirements for sirenians.
+
+(3) A pool which satisfies the required MHD and depth shall be adequate for one or two sirenians. Volume and surface area requirements for additional animals shall be calculated using the same formula as for Group I cetaceans, except that the figure for depth requirement for sirenians shall be one-half the average adult length or 1.52 meters (5.0 feet), whichever is greater.
+
+(d) *Pinnipeds.* (1) Primary enclosures housing pinnipeds shall contain a pool of water and a dry resting or social activity area that must be close enough to the surface of the water to allow easy access for entering or leaving the pool. For the purposes of this subpart, pinnipeds have been divided into Group I pinnipeds and Group II pinnipeds as shown in Table III in this section. In certain instances some Group I pinnipeds shall be considered as Group II pinnipeds. (See Table III).
+
+(2) The minimum size of the dry resting or social activity area of the primary enclosure for pinnipeds (exclusive of the pool of water) shall be based on the average adult length of each pinniped contained therein, as measured in a horizontal or extended position in a straight line from the tip of its nose to the tip of its tail. The minimum size of the dry resting or social activity area shall be computed using the following methods:
+
+(i) *Group I pinnipeds.* Square the average adult length of each pinniped to be contained in the primary enclosure. Add the figures obtained for each of the pinnipeds in the primary enclosure to determine the dry resting or social activity area required for such pinnipeds. If only a single Group I pinniped is maintained in the primary enclosure, the minimum dry resting or social activity area shall be twice the square of the average adult length of that single Group I pinniped. Examples:
+
+(average adult length)2 of 1st Group I pinniped + (average adult length)2 of 2nd Group I pinniped = Total DRA for two pinnipedsDRA for one pinniped = 2 × (average adult length of Group I pinniped)2
+
+(ii) *Group II pinnipeds.* List all pinnipeds contained in a primary enclosure by average adult length in descending order from the longest species of pinniped to the shortest species of pinniped. Square the average adult length of each pinniped. Multiply the average adult length squared of the longest pinniped by 1.5, the second longest by 1.4, the third longest by 1.3, the fourth longest by 1.2, and the fifth longest by 1.1, as indicated in the following example. Square the average adult length of the sixth pinniped and each additional pinniped. Add the figures obtained for all the pinnipeds in the primary enclosure to determine the required minimum dry resting or social activity area required for such pinnipeds. If only a single Group II pinniped is maintained in the primary enclosure, the minimum dry resting or social activity area must be computed for a minimum of two pinnipeds.
+
+Examples: DRA for 1 Group II Pinniped = [(Average adult length)2 × 1.5] + [(Average adult length)2 × 1.4]
+
+|                1st pinniped (avg. adult length)<sup>2</sup> × 1.5 = social and DRA required                |
+|:-----------------------------------------------------------------------------------------------------------|
+|                2nd pinniped (avg. adult length)<sup>2</sup> × 1.4 = social and DRA required                |
+|                3rd pinniped (avg. adult length)<sup>1</sup> × 1.3 = social and DRA required                |
+|                4th pinniped (avg. adult length)<sup>2</sup> × 1.2 = social and DRA required                |
+|                5th pinniped (avg. adult length)<sup>2</sup> × 1.1 = social and DRA required                |
+|               Each pinniped over 5 (avg. adult length)<sup>2</sup> = social and DRA required               |
+|Total minimum social activity and dry resting area required for all pinnipeds housed in a primary enclosure.|
+
+If all the pinnipeds in the primary enclosure are of the same species, the same descending order of calculation shall apply. Example: Hooded seal - average adult length of male = 8.5 feet and female = 6.6 feet. In a primary enclosure containing 2 males and 2 females, the social or DRA required would be the sum of [(8.5)2 × 1.5] + [(8.5)2 × 1.4] + [(6.6)2 × 1.3] + [(6.6)2 × 1.2].If two or more sexually mature males are maintained together in a primary enclosure, the dry resting or social activity area shall be divided into two or more separate areas with sufficient visual barriers (such as fences, rocks, or foliage) to provide relief from aggressive animals.
+
+(iii) *Mixture of Group I and Group II pinnipeds.* In a primary enclosure where a mixture of Group I and Group II pinnipeds is to be housed, the dry resting or social activity area shall be calculated as for Group II pinnipeds. The dry resting or social activity area shall be divided into two or more separate areas with sufficient visual barriers (such as fences, rocks, or foliage) to provide relief from aggressive animals.
+
+(3)(i) The minimum surface area of a pool of water for pinnipeds shall be at least equal to the dry resting or social activity area required.
+
+(ii) The MHD of the pool shall be at least one and one-half (1.5) times the average adult length of the largest species of pinniped to be housed in the enclosure; except that such MHD measurement may be reduced by up to 20 percent if the amount of the reduction is added to the MHD at the 90-degree angle.
+
+(iii) The pool of water shall be at least 0.91 meters (3.0 feet) deep or one-half the average adult length of the longest species of pinniped contained therein, whichever is greater. Parts of the pool that do not meet the minimum depth requirement cannot be used in the calculation of the dry resting and social activity area, or as part of the MHD or required surface area of the pool.
+
+(e) *Polar bears.* Primary enclosures housing polar bears shall consist of a pool of water, a dry resting and social activity area, and a den. A minimum of 37.16 square meters (400 square feet) of dry resting and social activity area shall be provided for up to two polar bears, with an additional 3.72 square meters (40 square feet) of dry resting and social activity area for each additional polar bear. The dry resting and social activity area shall be provided with enough shade to accommodate all of the polar bears housed in such primary enclosure at the same time. The pool of water shall have an MHD of not less than 2.44 meters (8.0 feet) and a surface area of at least 8.93 square meters (96.0 square feet) with a minimum depth of 1.52 meters (5.0 feet) with the exception of any entry and exit area. This size pool shall be adequate for two polar bears. For each additional bear, the surface area of the pool must be increased by 3.72 square meters (40 square feet). In measuring this additional surface area, parts of the pool which do not meet minimum depth cannot be considered. The den shall be at least 1.83 meters (6 feet) in width and depth and not less than 1.52 meters (5 feet) in height. It will be so positioned that the viewing public shall not be visible from the interior of the den. A separate den shall be provided for each adult female of breeding age which is permanently housed in the same primary enclosure with an adult male of breeding age. Female polar bears in traveling acts or shows must be provided a den when pregnancy has been determined.
+
+(f) *Sea otters.* (1) Primary enclosures for sea otters shall consist of a pool of water and a dry resting area. The MHD of the pool of water for sea otters shall be at least three times the average adult length of the sea otter contained therein (measured in a horizontal line from the tip of its nose to the tip of its tail) and the pool shall be not less than .91 meters (3.0 feet) deep. When more than two sea otters are housed in the same primary enclosure, additional dry resting area as well as pool volume is required to accommodate the additional sea otters. (See Table V).
+
+(2) The minimum volume of water required for a primary enclosure pool for sea otters shall be based on the sea otter's average adult length. The minimum volume of water required in the pool shall be computed using the following method: Multiply the square of the sea otter's average adult length by 3.14 and then multiply the total by 0.91 meters (3.0 feet). This volume is satisfactory for one or two otters. To calculate the additional volume of water for each additional sea otter above two in a primary enclosure, multiply one-half of the square of the sea otter's average adult length by 3.14, then multiply by 0.91 meters (3.0 feet). (See Table V).
+
+(3) The minimum dry resting area required for one or two sea otters shall be based on the sea otter's average adult length. The minimum dry resting area for one or two sea otters shall be computed using the following method: Square the average adult length of the sea otter and multiply the total by 3.14. When the enclosure is to contain more than two sea otters, the dry resting area for each additional animal shall be computed by multiplying one-half of the sea otter's average adult length by 3.14. Using 1.25 meters or 4.1 feet (the average adult length of a sea otter), the calculations for additional space will result in the following figures:
+
+Table V - Additional Space Required for Each Sea Otter When More Than Two in a Primary Enclosure
+
+|Average adult length of sea otter|Resting area| Pool Volume |           |            |          |
+|---------------------------------|------------|-------------|-----------|------------|----------|
+|             Meters              |    Feet    |Square meters|Square Feet|Cubic meters|Cubic feet|
+|              1.25               |    4.1     |    1.96     |   6.44    |    2.23    |  79.17   |
+
+[44 FR 36874, June 22, 1979, as amended at 45 FR 63261, Sept. 24, 1980; 49 FR 26682, 26685, June 28, 1984; 49 FR 27922, July 9, 1984; 63 FR 2, Jan. 2, 1998; 63 FR 47148, Sept. 4, 1998; 66 FR 252, Jan. 3, 2001]

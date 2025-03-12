@@ -1,0 +1,3 @@
+##### § 548.9 Accreditation of non-Federal chemistry laboratories. #####
+
+A non-Federal analytical laboratory that has met the requirements for accreditation specified in 9 CFR part 439 and hence, at an establishment's discretion, may be used in lieu of an FSIS laboratory for analyzing official regulatory samples. Payment for the analysis of regulatory samples is to be made by the establishment using the accredited laboratory.

@@ -1,0 +1,3 @@
+##### § 4.316 Remands from courts. #####
+
+Whenever any matter is remanded from any Federal court to the Board for further proceedings, the Board will remand the matter to an administrative law judge, an Indian probate judge, or BIA. In the alternative, to the extent the court's directive and time limitations permit, the parties will be allowed an opportunity to submit to the Board a report recommending procedures for it to follow to comply with the court's order. The Board will enter special orders governing matters on remand.

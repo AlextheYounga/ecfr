@@ -1,0 +1,3 @@
+##### § 3.12 Employees. #####
+
+Each person subject to the Animal Welfare regulations (9 CFR parts 1, 2, and 3) maintaining dogs and cats must have enough employees to carry out the level of husbandry practices and care required in this subpart. The employees who provide for husbandry and care, or handle animals, must be supervised by an individual who has the knowledge, background, and experience in proper husbandry and care of dogs and cats to supervise others. The employer must be certain that the supervisor and other employees can perform to these standards.

@@ -1,0 +1,3 @@
+##### § 3261.22 How do I get approval for subsequent well operations? #####
+
+Send BLM a Sundry Notice describing your proposed operation. For some routine work, such as cleanouts, surveys, or general maintenance (see § 3264.11(b)), we may waive the Sundry Notice requirement. Contact your local BLM office to ask about waivers for subsequent well operations. Unless you receive a waiver, you must submit a Sundry Notice. Do not start your operations until we grant a waiver or approve the Sundry Notice.

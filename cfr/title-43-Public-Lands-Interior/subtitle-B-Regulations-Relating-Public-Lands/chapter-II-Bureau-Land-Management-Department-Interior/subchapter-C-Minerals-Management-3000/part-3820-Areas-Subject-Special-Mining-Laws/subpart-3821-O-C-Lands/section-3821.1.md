@@ -1,0 +1,5 @@
+##### § 3821.1 General provisions. #####
+
+(a) The Act of April 8, 1948 (62 Stat. 162) reopens the revested Oregon and California Railroad and Reconveyed Coos Bay Wagon Road Grant Lands (hereinafter referred to in this section as the O. and C. lands) in Oregon, except power sites, to exploration, location, entry, and disposition under the United States Mining Laws. The Act also validates mineral claims, if otherwise valid, located on the O. and C. lands during the period from August 28, 1937 to April 8, 1948.
+
+(b) The procedure in the locating of mining claims, performance of annual labor, and the prosecution of mineral patent proceedings in connection with O. and C. lands is the same as provided by the United States Mining Laws and the general regulations in this part, and is also subject to the additional conditions and requirements hereinafter set forth.

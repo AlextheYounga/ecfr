@@ -1,0 +1,3 @@
+##### § 309.6 Epithelioma of the eye. #####
+
+Any animal found on ante-mortem inspection to be affected with epithelioma of the eye and the orbital region in which the eye has been destroyed or obscured by neoplastic tissue and which shows extensive infection, suppuration, and necrosis, usually accompanied with foul odor, or any animal affected with epithelioma of the eye or of the orbital region which, regardless of extent, is accompanied with cachexia shall be identified as U.S. Condemned and disposed of in accordance with § 309.13.

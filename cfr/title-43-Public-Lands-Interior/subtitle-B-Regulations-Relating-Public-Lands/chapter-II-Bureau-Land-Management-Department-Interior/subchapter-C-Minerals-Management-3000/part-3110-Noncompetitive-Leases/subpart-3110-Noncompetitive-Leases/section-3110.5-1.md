@@ -1,0 +1,3 @@
+##### § 3110.5-1 Parcel number description. #####
+
+From the first day following the end of a competitive process until the end of that same month, the only acceptable description for a noncompetitive lease offer for the lands covered by that competitive process shall be the parcel number on the List of Lands Available for Competitive Nominations or the Notice of Competitive Lease Sale, whichever is appropriate. Each such offer shall contain only a single parcel. Thereafter, the description of the lands shall be made in accordance with the remainder of this section.

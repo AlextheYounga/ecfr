@@ -1,0 +1,3 @@
+##### § 3150.0-3 Authority. #####
+
+The Mineral Leasing Act of 1920, as amended and supplemented, (30 U.S.C. 181 *et seq.*), the Mineral Leasing Act for Acquired Lands of 1947, as amended (30 U.S.C. 351-359), the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 *et seq.*), the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 *et seq.*), the Independent Offices Appropriations Act of 1952 (31 U.S.C. 483a), the Naval Petroleum Reserves Production Act of 1976 (42 U.S.C. 6504) and the Department of the Interior Appropriations Act, Fiscal Year 1981 (42 U.S.C. 6508).

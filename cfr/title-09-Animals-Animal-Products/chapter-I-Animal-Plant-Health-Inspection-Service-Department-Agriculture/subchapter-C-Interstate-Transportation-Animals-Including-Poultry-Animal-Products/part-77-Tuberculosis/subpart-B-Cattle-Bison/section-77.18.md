@@ -1,0 +1,3 @@
+##### § 77.18 Other movements. #####
+
+The Administrator may, with the concurrence of the State animal health official of the State of destination, upon request in specific cases, allow the interstate movement of cattle or bison not otherwise provided for in this part that have not been classified as reactor cattle or bison and are not otherwise known to be affected with tuberculosis, under such conditions as the Administrator may prescribe in each specific case to prevent the spread of tuberculosis. The Administrator shall promptly notify the appropriate State animal health official of the State of destination of any such action.

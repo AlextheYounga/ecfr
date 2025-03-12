@@ -1,0 +1,3 @@
+##### § 204.5 Indexes. #####
+
+Pursuant to the regulations in 7 CFR 1.4(b), the Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs) will maintain and make available for public inspection and copying current indexes of all material required to be made available in 7 CFR 1.2(a). Notice is hereby given that publication of these indexes is unnecessary and impractical, since the material is voluminous and does not change often enough to justify the expense of publication.

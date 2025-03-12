@@ -1,0 +1,3 @@
+##### § 592.80 Political activity. #####
+
+All inspection program personnel are forbidden during the period of their respective appointments, to take an active part in political management or in political campaigns. Political activity in city, county, State, or national elections, whether primary or regular, or in behalf of any party or candidate is prohibited, except as authorized by law or regulation of the Department. This applies to all appointees, including, but not being limited to, temporary and cooperative employees and employees on leave of absence with or without pay. Willful violation of this section will constitute grounds for dismissal.

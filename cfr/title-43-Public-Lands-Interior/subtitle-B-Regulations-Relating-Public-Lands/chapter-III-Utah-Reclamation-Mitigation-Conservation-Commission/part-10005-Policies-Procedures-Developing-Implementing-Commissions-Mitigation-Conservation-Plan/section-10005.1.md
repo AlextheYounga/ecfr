@@ -1,0 +1,3 @@
+##### § 10005.1 Purpose. #####
+
+The planning rule in this part establishes the Commission's policies regarding the mitigation and conservation plan required by the Central Utah Project Completion Act, Public Law 102- 575, 106 Stat. 4600, 4625, October 30, 1992. It defines the procedures that the Commission will follow in preparing and implementing the plan and provides information to other agencies and the public regarding how they might participate.

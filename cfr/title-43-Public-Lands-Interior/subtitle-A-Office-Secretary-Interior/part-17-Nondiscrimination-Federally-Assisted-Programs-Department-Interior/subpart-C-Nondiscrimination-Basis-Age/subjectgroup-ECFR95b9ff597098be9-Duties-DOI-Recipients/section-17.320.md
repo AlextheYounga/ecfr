@@ -1,0 +1,3 @@
+##### § 17.320 General responsibilities. #####
+
+Each DOI recipient has primary responsibility to ensure that its programs or activities are in compliance with the Act and these regulations, and shall take steps to eliminate violations of the Act. A recipient also has responsibility to maintain records, provide information, and to afford DOI access to its records to the extent DOI finds necessary to determine whether the recipient is in compliance with the Act and these regulations.

@@ -1,0 +1,5 @@
+##### § 6.11 Condition of employment. #####
+
+(a) The regulations in this subpart shall be a condition of employment of all employees of the Department and shall be effective as to all their inventions. These regulations shall be effective without regard to any existing or future contracts to the contrary entered into by any employee of the Department with any person other than the Government.
+
+(b) If a patent application is filed upon an invention which has been made by an employee of the Department under circumstances that entitle the Government to the entire domestic right, title and interest in and to the invention, but which has not been reported to the Solicitor pursuant to the regulations in this subpart, title to such invention shall immediately vest in the Government, as represented by the Secretary, and the contract of employment shall be considered an assignment of such rights.

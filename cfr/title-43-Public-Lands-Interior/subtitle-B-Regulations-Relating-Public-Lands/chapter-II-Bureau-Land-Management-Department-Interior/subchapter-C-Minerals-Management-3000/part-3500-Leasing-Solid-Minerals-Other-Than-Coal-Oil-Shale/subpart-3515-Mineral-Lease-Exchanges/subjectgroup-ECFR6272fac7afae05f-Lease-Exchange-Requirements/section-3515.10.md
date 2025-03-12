@@ -1,0 +1,3 @@
+##### § 3515.10 May I exchange my lease or lease right for another mineral lease or lease right? #####
+
+Yes. BLM may determine that operations on your lease or lands for which you have a preference right to a lease are not in the public interest. If you or BLM identify other lands for exchange, you may relinquish your current lease or preference right in exchange for a mineral lease of other lands of equal value.

@@ -1,0 +1,11 @@
+##### § 113.25 Culture media for detection of bacteria and fungi. #####
+
+(a) Ingredients for which standards are prescribed in the United States Pharmacopeia, or elsewhere in this part, shall conform to such standards. In lieu of preparing the media from the individual ingredients, they may be made from dehydrated mixtures which, when rehydrated with purified water, have the same or equivalent composition as such media and have growth-promoting buffering, and oxygen tension-controlling properties equal to or better than such media. The formulas for the composition of the culture media prescribed in §§ 113.26 and 113.27 are set forth in the United States Pharmacopeia, 19th Edition.
+
+(b) The licensee shall test each quantity of medium prepared at one time from individual ingredients and the first quantity prepared from each lot of commercial dehydrated medium for growth-promoting qualities. If any portion of a lot of commercial dehydrated medium is held for 90 days or longer after being so tested, it shall be retested before use. Two or more strains of micro-organisms that are exacting in their nutritive requirements shall be used. More than one dilution shall be used to demonstrate the adequacy of the medium to support the growth of a minimum number of micro-organisms.
+
+(c) The sterility of the medium shall be confirmed by incubating an adequate number of test vessels and examining each for growth. Additional control may be used by incubation of representative uninoculated test vessels for the required incubation period during each test.
+
+(d) A determination shall be made by the licensee for each biological product of the ratio of inoculum to medium which shall result in sufficient dilution of such product to prevent bacteriostatic and fungistatic activity. The determination may be made by tests on a representative biological product for each group of comparable products containing identical preservatives at equal or lower concentrations. Inhibitors or neutralizers of preservatives, approved by the Administrator, may be considered in determining the proper ratio.
+
+[35 FR 16039, Oct. 13, 1970, as amended at 37 FR 2430, Feb. 1, 1972; 41 FR 27715, July 6, 1976; 56 FR 66784, Dec. 26, 1991]

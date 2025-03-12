@@ -1,0 +1,5 @@
+##### § 381.13 Suspension or termination of exemptions. #####
+
+(a) The Administrator may, by order, in accordance with the applicable rules of practice suspend or terminate any exemption under § 381.10(a) with respect to any person whenever he finds that such action will aid in effectuating the purposes of the Act. Failure to comply with the conditions of the exemption, including, but not limited to, failure to process poultry and poultry products under clean and sanitary conditions may result in termination of an exemption, in addition to any other penalties provided by law.
+
+(b) Except as provided in § 381.10(c), the Administrator may extend the requirements of the Act to any establishment in any State or organized territory at which poultry products are processed for distribution solely within such jurisdiction if he determines in accordance with the provisions of subparagraph 5(c)(1) of the Act that the establishment is producing adulterated poultry products which would clearly endanger the public health.

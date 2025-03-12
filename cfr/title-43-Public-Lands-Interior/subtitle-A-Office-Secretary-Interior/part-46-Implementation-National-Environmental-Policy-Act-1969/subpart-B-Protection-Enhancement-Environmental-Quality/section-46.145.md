@@ -1,0 +1,3 @@
+##### § 46.145 Using adaptive management. #####
+
+Bureaus should use adaptive management, as appropriate, particularly in circumstances where long-term impacts may be uncertain and future monitoring will be needed to make adjustments in subsequent implementation decisions. The NEPA analysis conducted in the context of an adaptive management approach should identify the range of management options that may be taken in response to the results of monitoring and should analyze the effects of such options. The environmental effects of any adaptive management strategy must be evaluated in this or subsequent NEPA analysis.

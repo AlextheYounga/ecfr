@@ -1,0 +1,3 @@
+##### § 3602.15 What will happen to my bond if I transferred all of my interests or operations to another bonded party? #####
+
+BLM will cancel your bond obligations following approval of the transfer of your interests or operations if the transferee provides a bond that assumes all of your existing liabilities as required in § 3602.24. However, under § 3602.26, you remain liable for any reclamation or other obligation that accrued during the time you held your interest.

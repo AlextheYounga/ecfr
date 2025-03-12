@@ -1,0 +1,3 @@
+##### § 3400.3-1 Consent or conditions of surface management agency. #####
+
+Leases for land, the surface of which is under the jurisdiction of any Federal agency other than the Department of the Interior, may be issued only with the consent of the head or other appropriate official of the other agency having jurisdiction over the lands containing the coal deposits, and subject to such conditions as that officer may prescribe to insure the use and protection of the lands for the primary purpose for which they were acquired or are being administered.

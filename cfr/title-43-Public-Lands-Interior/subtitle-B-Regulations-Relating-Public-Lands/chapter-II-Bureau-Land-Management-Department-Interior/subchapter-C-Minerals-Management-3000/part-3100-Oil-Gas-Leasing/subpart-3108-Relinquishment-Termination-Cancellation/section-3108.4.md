@@ -1,0 +1,5 @@
+##### § 3108.4 Bona fide purchasers. #####
+
+A lease or interest therein shall not be cancelled to the extent that such action adversely affects the title or interest of a *bona fide* purchaser even though such lease or interest, when held by a predecessor in title, may have been subject to cancellation. All purchasers shall be charged with constructive notice as to all pertinent regulations and all Bureau records pertaining to the lease and the lands covered by the lease. Prompt action shall be taken to dismiss as a party to any proceedings with respect to a violation by a predecessor of any provisions of the act, any person who shows the holding of an interest as a *bona fide* purchaser without having violated any provisions of the Act. No hearing shall be necessary upon such showing unless prima facie evidence is presented that the purchaser is not a *bona fide* purchaser.
+
+[48 FR 33662, July 22, 1983; 48 FR 39225, Aug. 30, 1983, as amended at 53 FR 17357, May 16, 1988]

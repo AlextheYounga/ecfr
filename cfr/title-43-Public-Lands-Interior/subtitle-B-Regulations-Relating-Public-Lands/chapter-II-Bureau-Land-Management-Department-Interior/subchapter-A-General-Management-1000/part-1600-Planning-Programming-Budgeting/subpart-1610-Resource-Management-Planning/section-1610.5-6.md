@@ -1,0 +1,3 @@
+##### § 1610.5-6 Revision. #####
+
+A resource management plan shall be revised as necessary, based on monitoring and evaluation findings (§ 1610.4-9), new data, new or revised policy and changes in circumstances affecting the entire plan or major portions of the plan. Revisions shall comply with all of the requirements of these regulations for preparing and approving an original resource management plan.

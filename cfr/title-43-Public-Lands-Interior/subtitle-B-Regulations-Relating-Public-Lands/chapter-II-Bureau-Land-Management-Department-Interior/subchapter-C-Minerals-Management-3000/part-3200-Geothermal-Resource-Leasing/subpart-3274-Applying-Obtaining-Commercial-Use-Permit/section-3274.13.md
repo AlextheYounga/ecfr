@@ -1,0 +1,3 @@
+##### § 3274.13 May I get a permit even if I cannot currently demonstrate I can operate within required standards? #####
+
+Yes, but we may limit your operations to a prescribed set of activities and a set period of time, during which we will give you a chance to show you can operate within environmental and operational standards, based on actual facility and well data you collect. Send us a Sundry Notice to get BLM approval for extending your permit. If during this set time period you still cannot demonstrate your ability to operate within the required standards, we will terminate your authorization. You must then stop all operations and restore the surface to the standards we set in the termination notice.

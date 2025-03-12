@@ -1,0 +1,3 @@
+##### § 402.7 Notice of sale. #####
+
+The sale of lands at public auction under this part shall be administered by the Commissioner. Notice of such sales shall be given by publication in a newspaper of general circulation in the vicinity of the lands to be sold for either not less than 30 days or once a week for five consecutive weeks prior to the date fixed for any such sale. Under the Act of May 20, 1920 (41 Stat. 605; 43 U.S.C. 375) notice of sales of lands appraised at more than $300 shall also be given by posting upon the land. In the case of all sales under this subpart notice may be given by such other means as the Commissioner may deem appropriate. Where lands are to be sold at private sale, no public notice shall be required.

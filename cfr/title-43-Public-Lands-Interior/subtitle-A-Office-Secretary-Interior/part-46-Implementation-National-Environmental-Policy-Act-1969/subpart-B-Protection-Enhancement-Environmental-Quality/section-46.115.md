@@ -1,0 +1,3 @@
+##### § 46.115 Consideration of past actions in the analysis of cumulative effects. #####
+
+When considering the effects of past actions as part of a cumulative effects analysis, the Responsible Official must analyze the effects in accordance with 40 CFR 1508.7 and in accordance with relevant guidance issued by the Council on Environmental Quality, such as “The Council on Environmental Quality Guidance Memorandum on Consideration of Past Actions in Cumulative Effects Analysis” dated June 24, 2005, or any superseding Council on Environmental Quality guidance.

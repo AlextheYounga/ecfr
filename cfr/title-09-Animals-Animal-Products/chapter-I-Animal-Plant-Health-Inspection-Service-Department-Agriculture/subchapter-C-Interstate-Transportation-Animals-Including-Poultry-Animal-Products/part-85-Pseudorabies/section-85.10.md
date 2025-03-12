@@ -1,0 +1,5 @@
+##### § 85.10 Interstate movement of swine semen and swine embryos for insemination of or implantation into swine. #####
+
+Swine semen and swine embryos moved interstate for insemination of swine or implantation into swine shall be accompanied by a document issued by an accredited veterinarian stating that the donor swine are not known to be infected with or exposed to pseudorabies, were negative to an official pseudorabies serologic test within 30 days prior to the collection of the semen or embryos or were members of a qualified pseudorabies negative herd, and had not been exposed to pseudorabies within 30 days prior to the collection of the semen or embryos.
+
+(Approved by the Office of Management and Budget under control number 0579-0032)[44 FR 10309, Feb. 16, 1979, as amended at 50 FR 47353, Nov. 15, 1985. Redesignated at 55 FR 19253, May 9, 1990; 59 FR 67133, Dec. 29, 1994]

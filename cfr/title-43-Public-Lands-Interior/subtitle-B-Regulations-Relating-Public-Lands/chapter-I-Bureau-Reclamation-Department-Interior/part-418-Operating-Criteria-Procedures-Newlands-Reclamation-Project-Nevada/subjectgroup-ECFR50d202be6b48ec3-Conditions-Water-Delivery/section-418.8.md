@@ -1,0 +1,7 @@
+##### § 418.8 Types of eligible land. #####
+
+(a) *Eligible land actually irrigated.* During each year, the District, in cooperation with the Bureau, must identify and report to the Bureau the location and number of acres of eligible land irrigated in the Project. Possible irrigation of ineligible land will also be identified. The Bureau will review data to ensure compliance with this part. The District, in cooperation with the Bureau, will be responsible for field checking potential violations and immediately stopping delivery of Project water to any ineligible land. The Bureau may also audit as appropriate.
+
+(b) *Eligible land with transferred water rights.* The District water rights maps dated August 1981 through January 1983 will be used as the basis for determining which lands have a valid water right. The original maps will be maintained by the District. The District must provide copies of the maps to the Bureau. The District will alter the maps and the copies to account for water right transfers as the transfers are approved by the Nevada State Engineer.
+
+(c) *Other eligible land.* The Bureau will also identify eligible land that was not irrigated during the prior irrigation season.

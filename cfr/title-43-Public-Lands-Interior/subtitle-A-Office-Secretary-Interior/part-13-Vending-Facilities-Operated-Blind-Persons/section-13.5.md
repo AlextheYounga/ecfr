@@ -1,0 +1,9 @@
+##### § 13.5 Protection from competition. #####
+
+(a) The head of the Interior bureau or office shall protect the blind operator of the vending facility against direct competition from other vendors or vending machines on property which the head of the Interior bureau or office controls. Other vendors or vending machines shall be considered in direct competition with vending facilities permitted under the regulations in this part if they sell or dispense articles which are similar or identical to those on sale at the vending facilities in such proximity to the vending facility as to attract customers who might otherwise patronize the vending facilities.
+
+(b) After a permit has been issued under the regulations in this part to a State licensing agency for operation of a vending facility, the head of the Interior bureau or office, except as provided in paragraphs (c) and (d) of this section, shall take action to terminate, as soon as possible and with minimum interruption to the service afforded customers, any existing competitive arrangement for the sale of any articles similar to or identical to those sold or to be sold under the permit. Notice of such termination shall be given as required under the terms of the existing arrangement, or if none is provided, a notice of not less than 30 days shall be given in writing.
+
+(c) Existing arrangements with respect to vending machines need not be terminated if such vending machines are moved at the expense of their operators to locations elsewhere on the property which are noncompetitive with a blind-operated vending facility, or if the income from such machines is assigned to the blind operator.
+
+(d) This section shall not apply to the sale and service of food and other articles considered as food and usually sold in connection with meals by cafeterias, restaurants, or similar food dispensing establishments.

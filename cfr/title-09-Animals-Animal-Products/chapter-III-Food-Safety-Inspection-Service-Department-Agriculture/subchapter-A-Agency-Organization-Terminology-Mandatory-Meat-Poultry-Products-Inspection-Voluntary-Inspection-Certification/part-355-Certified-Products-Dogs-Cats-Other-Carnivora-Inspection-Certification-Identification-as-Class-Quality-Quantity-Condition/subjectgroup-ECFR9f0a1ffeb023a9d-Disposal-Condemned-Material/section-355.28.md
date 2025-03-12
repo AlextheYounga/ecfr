@@ -1,0 +1,3 @@
+##### § 355.28 Unfit material to be condemned. #####
+
+Subject to § 355.41, any certified products, or ingredients intended for use therein, which are decomposed or adulterated or otherwise unsound or unfit for use shall be condemned and destroyed, except that if the adulteration is such as will not preclude their legitimate use for some purpose other than the preparation of the certified products, they may be released by authorized inspectors for such other purpose for disposition under the supervision of the proper local, State, or Federal official. The operator of the inspected plant shall make such arrangement as may be necessary with the proper officials for the disposition of the article.

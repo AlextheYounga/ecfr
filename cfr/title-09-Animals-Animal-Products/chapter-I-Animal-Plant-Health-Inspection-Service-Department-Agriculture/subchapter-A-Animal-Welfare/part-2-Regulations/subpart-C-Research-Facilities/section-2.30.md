@@ -1,0 +1,19 @@
+##### § 2.30 Registration. #####
+
+(a) *Requirements and procedures.* (1) Each research facility other than a Federal research facility, shall register with the Secretary by completing and filing a properly executed form which will be furnished, upon request, by the AC Regional Director. The registration form shall be filed with the AC Regional Director for the State in which the research facility has its principal place of business, and shall be updated every 3 years by the completion and filing of a new registration form which will be provided by the AC Regional Director. Except as provided in paragraph (a)(2) of this section, where a school or department of a university or college uses or intends to use live animals for research, tests, experiments, or teaching, the university or college rather than the school or department will be considered the research facility and will be required to register with the Secretary. An official who has the legal authority to bind the parent organization shall sign the registration form.
+
+(2) In any situation in which a school or department of a university or college demonstrates to the Secretary that it is a separate legal entity and its operations and administration are independent of those of the university or college, the school or department will be registered rather than the university or college.
+
+(3) A subsidiary of a business corporation, rather than the parent corporation, will be registered as a research facility unless the subsidiary is under such direct control of the parent corporation that the Secretary determines that it is necessary that the parent corporation be registered to effectuate the purposes of the Act.
+
+(b) *Acknowledgment of regulations and standards.* APHIS will supply a copy of the regulations and standards in this subchapter with each registration form. The research facility shall acknowledge receipt of and shall agree to comply with the regulations and standards by signing a form provided for this purpose by APHIS, and by filing it with the AC Regional Director.
+
+(c) *Notification of change of operation.* (1) A research facility shall notify the AC Regional Director by certified mail of any change in the name, address, or ownership, or other change in operations affecting its status as a research facility, within 10 days after making such change.
+
+(2) A research facility which has not used, handled, or transported animals for a period of at least 2 years may be placed in an inactive status by making a written request to the AC Regional Director. A research facility shall file an annual report of its status (active or inactive). A research facility shall notify the AC Regional Director in writing at least 10 days before using, handling, or transporting animals again after being in an inactive status.
+
+(3) A research facility which goes out of business or which ceases to function as a research facility, or which changes its method of operation so that it no longer uses, handles, or transports animals, and which does not plan to use, handle, or transport animals at any time in the future, may have its registration canceled by making a written request to the AC Regional Director. The research facility is responsible for reregistering and demonstrating its compliance with the Act and regulations should it start using, handling, or transporting animals at any time after its registration is canceled.
+
+(d) No research facility shall interfere with, threaten, abuse (including verbally abuse), or harass any APHIS official who is in the course of carrying out his or her duties.
+
+[54 FR 36147, Aug. 31, 1989, as amended at 63 FR 62926, Nov. 10, 1998; 69 FR 42101, July 14, 2004]

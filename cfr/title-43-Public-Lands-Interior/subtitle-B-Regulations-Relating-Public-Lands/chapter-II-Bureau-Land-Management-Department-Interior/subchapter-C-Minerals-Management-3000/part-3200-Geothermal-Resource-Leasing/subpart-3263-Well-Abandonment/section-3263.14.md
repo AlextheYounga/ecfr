@@ -1,0 +1,3 @@
+##### § 3263.14 May BLM require me to abandon a well? #####
+
+If we determine that your well is no longer needed for geothermal resource production, injection, or monitoring, or if we determine that the well is not mechanically sound, BLM may order you to abandon the well. In either case, if you disagree you may explain to us why the well should not be abandoned. We will consider your reasons before we issue any final order.

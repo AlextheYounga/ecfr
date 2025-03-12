@@ -1,0 +1,3 @@
+##### § 355.26 Samples of certified products, ingredients, etc., to be taken for examination. #####
+
+Samples of certified products, water, chemicals, flavorings or other articles in an inspected plant shall be taken without cost to the Program for an examination as often as may be deemed necessary for the efficient conduct of the inspection. The frequency of sampling shall be determined by the needs of the inspection.

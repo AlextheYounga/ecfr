@@ -1,0 +1,5 @@
+##### § 3861.2-2 Certificate of expenditures and improvements. #####
+
+(a) The claimant at the time of filing the application for patent, or at any time within the 60 days of publication, is required to file with the authorized officer a certificate of the office cadastral engineer that not less than $500 worth of labor has been expended or improvements made, by the applicant or his grantors, upon each location embraced in the application, or if the application embraces several contiguous locations held in common, that an amount equal to $500 for each location has been so expended upon, and for the benefit of, the entire group; that the plat filed by the claimant is correct; that the field notes of the survey, as filed, furnish such an accurate description of the claim as will, if incorporation in a patent, serve to identify the premises fully, and that such reference is made therein to natural objects or permanent monuments as will perpetuate and fix the locus thereof.
+
+(b) In case of a lode and mill-site claim in the same survey the expenditure of $500 must be shown upon the lode claim.

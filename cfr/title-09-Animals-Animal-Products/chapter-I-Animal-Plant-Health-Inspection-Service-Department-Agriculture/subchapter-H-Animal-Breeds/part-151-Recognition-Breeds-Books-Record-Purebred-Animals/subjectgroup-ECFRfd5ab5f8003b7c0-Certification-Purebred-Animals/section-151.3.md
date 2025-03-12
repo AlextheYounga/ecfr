@@ -1,0 +1,5 @@
+##### § 151.3 Application for certificate of pure breeding. #####
+
+An application for a certificate of pure breeding executed by the owner, agent, or importer of an animal shall be made on ANH Form 17-338 (available from the collector of customs) before the animal will be examined as provided in § 151.7. Such application shall be made to the inspector at the port of entry for all animals: *Provided, however,* That the application for a certificate of pure breeding for dogs, other than those regulated under § 92.600 of this chapter, and cats may be made to the inspector either at the port of entry or at any other port where customs entry is made. An agent shall show the inspector written authorization from the owner or importer authorizing him to act for the owner or importer in connection with the application for a certificate of pure breeding.
+
+(Approved by the Office of Management and Budget under control number 0579-0011)[26 FR 6072, July 7, 1961, as amended at 36 FR 23356, Dec. 9, 1971; 48 FR 57473, Dec. 30, 1983; 55 FR 31562, Aug. 2, 1990]

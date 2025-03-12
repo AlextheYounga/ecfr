@@ -1,0 +1,5 @@
+##### § 319.305 Tamales. #####
+
+“Tamales” shall be prepared with at least 25 percent meat computed on the weight of the uncooked fresh meat in relation to all ingredients of the tamales. When tamales are packed in sauce or gravy, the name of the product shall include a prominent reference to the sauce or gravy; for example, “Tamales With Sauce” or “Tamales With Gravy.” Product labeled “Tamales With Sauce” or “Tamales With Gravy” shall contain not less than 20 percent meat, computed on the weight of the uncooked fresh meat in relation to the total ingredients making up the tamales and sauce or the tamales and gravy. Mechanically Separated (Species) may be used in accordance with § 319.6.
+
+[35 FR 15597, Oct. 3, 1970, as amended at 43 FR 26425, June 20, 1978; 47 FR 28257, 28258, June 29, 1982]

@@ -1,0 +1,5 @@
+##### § 99.1 Scope and applicability of rules of practice. #####
+
+The Uniform Rules of Practice for the Department of Agriculture promulgated in subpart H of part 1, subtitle A, title 7, Code of Federal Regulations, are the Rules of Practice applicable to adjudicatory, administrative proceedings under the following statutory provisions:
+
+Act of May 29, 1884, commonly known as the Animal Industry Act, section 7, as amended (21 U.S.C. 117),Act of August 30, 1890, section 6, as amended (21 U.S.C. 104),Act of February 2, 1903, commonly known as the Cattle Contagious Diseases Act of 1903, section 3, as amended (21 U.S.C. 122),Act of July 2, 1962, section 6(a), as amended (21 U.S.C. 134e),Act of May 6, 1970, section 2, as amended (21 U.S.C. 135a).The Animal Health Protection Act, section 10414 (7 U.S.C. 8313)In addition, the Supplemental Rules of Practice set forth in subpart B of this part shall be applicable to such proceedings.[48 FR 30095, June 30, 1983. Redesignated at 52 FR 29502, Aug. 10, 1987, as amended at 68 FR 6345, Feb. 7, 2003]

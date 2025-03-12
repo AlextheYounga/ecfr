@@ -1,0 +1,3 @@
+##### § 3503.15 May I lease the gold or silver reserved to the United States on land I hold under a private land claim in New Mexico? #####
+
+If you hold the remaining record title interest or operating rights interest in confirmed private land grants in New Mexico, you may obtain a lease for gold and silver reserved to the United States. See parts 3580 and 3581 of this chapter for leasing requirements.

@@ -1,0 +1,3 @@
+##### § 19.6 Regulations respecting administration and uses of wilderness areas under jurisdiction of the Secretary. #####
+
+Regulations respecting administration and use of areas under the jurisdiction of the Secretary which may be designated as wilderness areas by statute shall be developed with a view to protecting such areas and preserving their wilderness character for the use and enjoyment of the American people in such manner as will leave them unimpaired for future use and enjoyment as wilderness, with inconsistent uses held to a minimum.

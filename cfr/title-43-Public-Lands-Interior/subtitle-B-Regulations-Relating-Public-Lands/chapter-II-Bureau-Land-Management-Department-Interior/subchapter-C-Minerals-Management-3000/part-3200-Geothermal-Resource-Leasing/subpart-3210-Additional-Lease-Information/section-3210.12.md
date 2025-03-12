@@ -1,0 +1,3 @@
+##### § 3210.12 May I consolidate leases? #####
+
+BLM may approve your consolidation of two or more adjacent leases that have the same ownership and same lease terms, including expiration dates, if the combined leases do not exceed the size limitations in § 3206.12. We may consolidate leases that have different stipulations if all other lease terms are the same. You must include the processing fee for lease consolidations found in the fee schedule in § 3000.12 of this chapter with your request to consolidate leases.

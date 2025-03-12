@@ -1,0 +1,11 @@
+##### § 46.110 Incorporating consensus-based management. #####
+
+(a) Consensus-based management incorporates direct community involvement in consideration of bureau activities subject to NEPA analyses, from initial scoping to implementation of the bureau decision. It seeks to achieve agreement from diverse interests on the goals of, purposes of, and needs for bureau plans and activities, as well as the methods anticipated to carry out those plans and activities. For the purposes of this Part, consensus-based management involves outreach to persons, organizations or communities who may be interested in or affected by a proposed action with an assurance that their input will be given consideration by the Responsible Official in selecting a course of action.
+
+(b) In incorporating consensus-based management in the NEPA process, bureaus should consider any consensus-based alternative(s) put forth by those participating persons, organizations or communities who may be interested in or affected by the proposed action. While there is no guarantee that any particular consensus-based alternative will be considered to be a reasonable alternative or be identified as the bureau's preferred alternative, bureaus must be able to show that the reasonable consensus-based alternative, if any, is reflected in the evaluation of the proposed action and discussed in the final decision. To be selected for implementation, a consensus-based alternative must be fully consistent with NEPA, the CEQ regulations, and all applicable statutory and regulatory provisions, as well as Departmental and bureau written policies and guidance.
+
+(c) The Responsible Official must, whenever practicable, use a consensus-based management approach to the NEPA process.
+
+(d) If the Responsible Official determines that the consensus-based alternative, if any, is not the preferred alternative, he or she must state the reasons for this determination in the environmental document.
+
+(e) When practicing consensus-based management in the NEPA process, bureaus must comply with all applicable laws, including any applicable provisions of the Federal Advisory Committee Act (FACA).

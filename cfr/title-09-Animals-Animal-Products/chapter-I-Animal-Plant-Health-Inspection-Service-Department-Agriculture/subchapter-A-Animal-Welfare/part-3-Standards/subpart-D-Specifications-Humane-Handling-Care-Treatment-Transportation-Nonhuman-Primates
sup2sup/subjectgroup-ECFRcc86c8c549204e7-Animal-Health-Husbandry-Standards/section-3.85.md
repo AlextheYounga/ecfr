@@ -1,0 +1,3 @@
+##### § 3.85 Employees. #####
+
+Every person subject to the Animal Welfare regulations (9 CFR parts 1, 2, and 3) maintaining nonhuman primates must have enough employees to carry out the level of husbandry practices and care required in this subpart. The employees who provide husbandry practices and care, or handle nonhuman primates, must be trained and supervised by an individual who has the knowledge, background, and experience in proper husbandry and care of nonhuman primates to supervise others. The employer must be certain that the supervisor can perform to these standards.

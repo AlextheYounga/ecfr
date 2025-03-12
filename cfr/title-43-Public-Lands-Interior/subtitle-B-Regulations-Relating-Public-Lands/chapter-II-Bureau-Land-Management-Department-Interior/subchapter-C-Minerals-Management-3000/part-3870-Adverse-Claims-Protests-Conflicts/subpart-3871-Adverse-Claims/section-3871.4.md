@@ -1,0 +1,3 @@
+##### § 3871.4 Patent proceedings stayed when adverse claim is filed; exception. #####
+
+When an adverse claim is filed as aforesaid, the authorized officer will endorse upon the same the precise date of filing and preserve a record of the date of notifications issued thereon; and thereafter all proceedings on the application for patent will be stayed with the exception of the completion of the publication and posting of notices and plat and the filing of the necessary proof thereof, until the controversy shall have been finally adjudicated in court or the adverse claim waiver or withdrawn.

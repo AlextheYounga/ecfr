@@ -1,0 +1,5 @@
+##### § 314.6 Inedible fats from outside official establishments. #####
+
+Except as provided in § 325.11(b) of this subchapter, inedible fats from outside the premises of any official establishment shall not be received into an official establishment except into the tank room provided for inedible products, and then only when they have been denatured in accordance with § 314.5 and are marked in accordance with § 316.15 of this subchapter, and when their receipt into the tank room produces no insanitary condition on the premises; nor shall such fats be received in such volume as interferes with prompt disposal of condemned or other inedible material produced at the establishment. When received, they shall not enter any room or compartment used for edible products.
+
+[35 FR 15575, Oct. 3, 1970, as amended at 53 FR 24679, June 30, 1988]

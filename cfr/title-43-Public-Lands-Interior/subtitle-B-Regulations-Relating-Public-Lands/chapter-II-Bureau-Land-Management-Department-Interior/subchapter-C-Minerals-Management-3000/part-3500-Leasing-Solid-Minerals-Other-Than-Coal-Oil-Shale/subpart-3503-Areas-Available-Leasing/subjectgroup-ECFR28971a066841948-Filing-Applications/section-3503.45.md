@@ -1,0 +1,3 @@
+##### § 3503.45 How will BLM administer information concerning other Indian minerals? #####
+
+For information concerning Indian minerals not covered by § 3503.44 of this part, BLM will withhold such records as may be withheld under an exemption to the Freedom of Information Act (FOIA) (5 U.S.C. 552) when it receives a request for information related to tribal or Indian minerals held in trust or subject to restrictions on alienation.

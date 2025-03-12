@@ -1,0 +1,3 @@
+##### § 319.102 Corned beef round and other corned beef cuts. #####
+
+In preparing “Corned Beef Round” and other corned beef cuts, except “Corned Beef Briskets,” the curing solution shall be applied to pieces of beef weighing not less than one pound and such application shall not result in an increased weight of the cured beef product of more than 10 percent over the weight of the fresh uncured beef cut. If the product is cooked, the weight of the finished product shall not exceed the weight of the fresh uncured beef cut.

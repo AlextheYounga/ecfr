@@ -1,0 +1,3 @@
+##### § 429.15 Is Reclamation required to issue a use authorization? #####
+
+No. The issuance of a use authorization is at Reclamation's discretion. At a minimum, the criteria listed at § 429.14 must be considered prior to issuance of any use authorizations. Not all requests will be authorized. If issued, Reclamation will provide only the least estate, right, or possessory interest needed to accommodate the approved use.

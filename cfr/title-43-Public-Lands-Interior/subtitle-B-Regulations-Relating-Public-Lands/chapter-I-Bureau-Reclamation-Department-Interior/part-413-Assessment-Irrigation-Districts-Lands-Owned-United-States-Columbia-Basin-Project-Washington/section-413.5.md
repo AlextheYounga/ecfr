@@ -1,0 +1,3 @@
+##### § 413.5 Reports on status of settlement lands. #####
+
+The Project Manager will furnish each district prior to its annual levy every year a list of all the settlement lands owned by the United States for which water is available and which are not under contract of sale or exchange and therefore are not to be assessed by the district, except for construction charge obligation installments under § 413.3(c) when such charges are required to be levied.

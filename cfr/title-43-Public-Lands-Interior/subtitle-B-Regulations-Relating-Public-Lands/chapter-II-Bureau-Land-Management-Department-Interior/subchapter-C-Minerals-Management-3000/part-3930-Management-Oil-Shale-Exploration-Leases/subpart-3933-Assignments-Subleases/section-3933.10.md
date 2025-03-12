@@ -1,0 +1,3 @@
+##### § 3933.10 Leases or licenses subject to assignment or sublease. #####
+
+Any lease may be assigned or subleased and any exploration license may be assigned in whole or in part to any person, association, or corporation that meets the qualification requirements in subpart 3902 of this chapter. The BLM may approve or disapprove assignments and subleases. A licensee proposing to transfer or assign a license must first offer, in writing, to all other participating parties in the license, the opportunity to acquire the license (the right of first refusal).

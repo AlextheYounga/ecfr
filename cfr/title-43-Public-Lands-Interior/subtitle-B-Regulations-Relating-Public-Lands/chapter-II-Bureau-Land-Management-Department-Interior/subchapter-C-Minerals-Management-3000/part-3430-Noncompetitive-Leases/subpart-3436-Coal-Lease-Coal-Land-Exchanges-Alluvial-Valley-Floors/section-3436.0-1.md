@@ -1,0 +1,3 @@
+##### § 3436.0-1 Purpose. #####
+
+The purpose of this subpart is to establish criteria and procedures for the exchange of coal leases and for the exchange of fee held coal for unleased federally-owned coal in cases where surface coal mining operations on the lands that are covered by an existing coal lease or that are fee held would interrupt, discontinue or preclude farming on alluvial valley floors west of the 100th Meridian, west longitude, or materially damage the quantity or quality of water in surface or underground systems that supply those alluvial valley floors.

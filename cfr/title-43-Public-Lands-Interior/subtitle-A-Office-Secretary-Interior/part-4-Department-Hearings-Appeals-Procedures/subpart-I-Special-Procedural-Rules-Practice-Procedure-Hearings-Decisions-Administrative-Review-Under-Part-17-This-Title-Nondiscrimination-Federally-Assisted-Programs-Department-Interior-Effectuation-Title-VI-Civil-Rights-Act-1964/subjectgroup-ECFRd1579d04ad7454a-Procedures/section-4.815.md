@@ -1,0 +1,3 @@
+##### § 4.815 How proceedings are commenced. #####
+
+Proceedings are commenced by the Director by mailing to an applicant or recipient a notice of alleged noncompliance with the Act and the regulations thereunder. The notice shall include either a notice of hearing fixing a date therefor or a notice of an opportunity for a hearing as provided in § 17.8 of this title. The notice shall advise the applicant or recipient of the action proposed to be taken, the specific provisions of part 17 of this title under which the proposed action is to be taken, and the matters of fact or law asserted as the basis of the action.

@@ -1,0 +1,3 @@
+##### § 6301.3 What is a BLM wilderness area? #####
+
+A BLM wilderness area is an area of public lands that Congress has designated for BLM to manage as a component of the National Wilderness Preservation System in accordance with the Wilderness Act of 1964. The Wilderness Act provides a detailed definition of wilderness that applies to BLM wilderness areas. See 16 U.S.C. 1131(c) and 43 U.S.C. 1702(i).

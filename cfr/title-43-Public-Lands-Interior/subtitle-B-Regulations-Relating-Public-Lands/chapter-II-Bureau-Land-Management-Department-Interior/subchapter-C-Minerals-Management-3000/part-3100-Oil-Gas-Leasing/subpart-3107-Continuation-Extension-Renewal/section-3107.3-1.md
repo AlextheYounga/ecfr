@@ -1,0 +1,3 @@
+##### § 3107.3-1 Leases committed to plan. #####
+
+Any lease or portion of a lease, except as described in § 3107.3-3 of this title, committed to a cooperative or unit plan that contains a general provision for allocation of oil or gas shall continue in effect so long as the lease or portion thereof remains subject to the plan; *Provided,* That there is production of oil or gas in paying quantities under the plan prior to the expiration date of such lease.

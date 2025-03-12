@@ -1,0 +1,3 @@
+##### § 310.3 Carcasses and parts in certain instances to be retained. #####
+
+Each carcass, including all detached organs and other parts, in which any lesion or other condition is found that might render the meat or any part unfit for food purposes, or otherwise adulterated, and which for that reason would require a subsequent inspection, shall be retained by the Program employee at the time of inspection. The identity of every such retained carcass, detached organ, or other part shall be maintained until the final inspection has been completed. Retained carcasses shall not be washed or trimmed unless authorized by the Program employee.

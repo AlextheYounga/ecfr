@@ -1,0 +1,3 @@
+##### § 3501.20 If BLM approves my application for a use authorization under this part, when does it become effective? #####
+
+Your lease, permit, or other use authorization is effective the first day of the month after BLM signs it, unless you request in writing and BLM agrees to make it effective the first day of the month in which it is approved. This applies to all leases, licenses, permits, transfers and assignments in this part, unless a specific regulation provides otherwise.

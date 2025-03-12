@@ -1,0 +1,3 @@
+##### § 17.220 Preschool, elementary, and secondary education. #####
+
+This section applies to preschool, elementary, secondary, and adult education programs or activities that receive Federal financial assistance, and to recipients that operate, or that receive Federal financial assistance for the operation of such programs or activities. For the purposes of this section, recipients shall comply with the Section 504 requirements promulgated by the Department of Education at 34 CFR part 104, subpart D.

@@ -1,0 +1,5 @@
+##### § 2720.0-6 Policy. #####
+
+As required by the Federal Land Policy and Management Act, the Bureau of Land Management may convey a federally owned mineral interest only when the authorized officer determines that it has no known mineral value, or that the mineral reservation is interfering with or precluding appropriate nonmineral development of the lands and that nonmineral development is a more beneficial use than mineral development. Allegation, hypothesis or speculation that such conditions could or may exist at some future time shall not be sufficient basis for conveyance. Failure to establish by convincing factual evidence that the requisite conditions of interference or preclusion presently exist, and that nonmineral development is a more beneficial use, shall result in the rejection of an application.
+
+[51 FR 9657, Mar. 20, 1986, as amended at 60 FR 12711, Mar. 8, 1995]

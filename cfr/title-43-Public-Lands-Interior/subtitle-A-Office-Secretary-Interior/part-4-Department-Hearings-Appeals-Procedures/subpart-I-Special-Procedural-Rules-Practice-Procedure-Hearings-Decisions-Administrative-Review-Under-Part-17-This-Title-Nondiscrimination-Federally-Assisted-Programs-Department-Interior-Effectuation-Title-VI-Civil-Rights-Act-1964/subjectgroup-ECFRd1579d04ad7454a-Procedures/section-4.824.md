@@ -1,0 +1,3 @@
+##### § 4.824 Exhibits. #####
+
+Proposed exhibits shall be exchanged at the prehearing conference, or otherwise prior to the hearing, if the administrative law judge so directs. Proposed exhibits not so exchanged in accordance with the administrative law judge's order may be denied admission as evidence. The authenticity of all exhibits submitted prior to the hearing, under direction of the administrative law judge, will be deemed admitted unless written objection thereto is filed and served on all parties, or unless good cause is shown for failure to file such written objection.

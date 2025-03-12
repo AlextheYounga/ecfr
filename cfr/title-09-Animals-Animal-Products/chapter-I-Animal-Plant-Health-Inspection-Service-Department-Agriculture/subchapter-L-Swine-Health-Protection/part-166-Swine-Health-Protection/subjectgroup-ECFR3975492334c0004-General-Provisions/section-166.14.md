@@ -1,0 +1,17 @@
+##### § 166.14 Cleaning and disinfecting. #####
+
+(a) *Disinfectants to be used.* Disinfection required under the regulations in this Part shall be performed with one of the following:
+
+(1) A permitted brand of sodium orthophenylphenate that is used in accordance with directions on the Environmental Protection Agency (EPA) approved label.
+
+(2) A permitted cresylic disinfectant that is used in accordance with directions on the EPA-approved label, provided such disinfectant also meets the requirements set forth in §§ 71.10(b) and 71.11 of this chapter.
+
+(3) Distinfectants which are registered under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 *et seq.*), with tuberculocidal claims and labeled as efficacious against any species within the viral genus *Herpes,* that are used for purposes of this Part in accordance with directions on the EPA-approved label.
+
+(b) All premises at which garbage has been fed to swine in violation of the Act or regulations in this part shall, prior to continued use for swine feeding purposes, be cleaned and disinfected under the supervision of an inspector or an accredited veterinarian as defined in Part 160 of this chapter as follows: Empty all troughs and other feeding and watering appliances, remove all litter, garbage, manure, and other organic material from the floors, posts, or other parts of such equipment, and handle such litter, garbage, manure, and other organic material in such manner as not to allow animal contact with such material; clean all surfaces with water and detergent and saturate the entire surface of the equipment, fencing, troughs, chutes, floors, walls, and all other parts of the facilities, with a disinfectant prescribed in paragraph (a) of this section. An exemption to the requirements of this paragraph may be given by the Administrator or, in States with primary enforcement responsibility, by the State animal health official, when it is determined that a threat to the swine industry does not exist.
+
+(c) Any vehicle or other means of conveyance and its associated equipment which has been used by the licensee to move garbage, except any vehicle or other means of conveyance which also has been used to treat the garbage so moved, shall, prior to use for livestock-related or treated garbage hauling purposes, be cleaned and disinfected as follows: Remove all litter, garbage, manure, and other organic material from all portions of each means of conveyance, including all ledges and framework inside and outside, and handle such litter, garbage, manure, and other organic material in such manner as not to allow animal contact with such material; clean the interior and the exterior of such vehicle or other means of conveyance and its associated equipment with water and detergent; and saturate the entire interior surface, including all doors, endgates, portable chutes, and similar equipment with a disinfectant prescribed in paragraph (a) of this section.
+
+(d) The owner of such facilities and vehicles shall be responsible for cleaning and disinfecting as required under this section, and the cleaning and disinfecting shall be done without expense to the United States Department of Agriculture.
+
+[47 FR 49945, Nov. 3, 1982. Redesignated and amended at 52 FR 4891, Feb. 18, 1987; 56 FR 26899, June 12, 1991; 68 FR 6346, Feb. 7, 2003]

@@ -1,0 +1,5 @@
+##### § 1882.2 Qualifications. #####
+
+(a) Any State receiving payments from the Federal Government under the provisions of section 35 of the Act or any political subdivision of such a State that can document to the satisfaction of the Director that it has suffered or will suffer adverse social and economic impacts as a result of the leasing and development of Federal mineral deposits under the provisions of the Act shall be considered qualified to receive loans made under this subpart.
+
+(b) A loan to a qualified political subdivision of a State receiving payment from the Federal Government under the provisions of section 35 of the Act shall be conditioned upon a showing of proof, satisfactory to the Director, by the political subdivision that it has legal authority to pledge funds payable to the State under section 35 of the Act in sufficient amounts to secure the payment of the loan.

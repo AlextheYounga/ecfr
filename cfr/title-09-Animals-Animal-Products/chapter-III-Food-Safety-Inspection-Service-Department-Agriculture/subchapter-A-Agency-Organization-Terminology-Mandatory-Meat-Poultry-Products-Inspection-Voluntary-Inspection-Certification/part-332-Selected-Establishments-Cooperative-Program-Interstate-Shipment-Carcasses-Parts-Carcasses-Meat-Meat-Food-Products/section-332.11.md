@@ -1,0 +1,5 @@
+##### § 332.11 Transition to official establishment. #####
+
+(a) If an establishment is deselected from a cooperative interstate shipment program as provided in § 332.10 of this part, FSIS, in coordination with the State where the establishment is located, will develop and implement a plan to transition the establishment to become an official establishment. Except that an establishment that was deselected from a cooperative interstate shipment program because it is located in a State whose agreement for such a program was terminated may either transition to become an official establishment or transition to become a State-inspected establishment under the cooperative State meat inspection program.
+
+(b) An establishment that has been deselected from a cooperative interstate shipment program and successfully transitioned to become an official establishment may withdraw from the Federal inspection program and resume operations under the cooperative State meat inspection program after operating as an official establishment in full compliance with the Act for a year.

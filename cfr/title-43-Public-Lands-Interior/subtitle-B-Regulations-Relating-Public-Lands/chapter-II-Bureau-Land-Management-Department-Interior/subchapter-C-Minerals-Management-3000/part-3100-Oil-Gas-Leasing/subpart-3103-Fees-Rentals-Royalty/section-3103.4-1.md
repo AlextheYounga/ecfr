@@ -1,0 +1,13 @@
+##### § 3103.4-1 Royalty reductions. #####
+
+(a) In order to encourage the greatest ultimate recovery of oil or gas and in the interest of conservation, the Secretary, upon a determination that it is necessary to promote development or that the leases cannot be successfully operated under the terms provided therein, may waive, suspend or reduce the rental or minimum royalty or reduce the royalty on an entire leasehold, or any portion thereof.
+
+(b)(1) An application for the benefits under paragraph (a) of this section must be filed by the operator/payor in the proper BLM office. The application must contain the serial number of the leases, the names of the record title holders, operating rights owners (sublessees), and operators for each lease, the description of lands by legal subdivision and a description of the relief requested.
+
+(2) Each application shall show the number, location and status of each well drilled, a tabulated statement for each month covering a period of not less than 6 months prior to the date of filing the application of the aggregate amount of oil or gas subject to royalty, the number of wells counted as producing each month and the average production per well per day.
+
+(3) Every application shall contain a detailed statement of expenses and costs of operating the entire lease, the income from the sale of any production and all facts tending to show whether the wells can be successfully operated upon the fixed royalty or rental. Where the application is for a reduction in royalty, full information shall be furnished as to whether overriding royalties, payments out of production, or similar interests are paid to others than the United States, the amounts so paid and efforts made to reduce them. The applicant shall also file agreements of the holders to a reduction of all other royalties or similar payments from the leasehold to an aggregate not in excess of one-half the royalties due the United States.
+
+(c) Petition may be made for reduction of royalty under § 3108.2-3(f) for leases reinstated under § 3108.2-3 of this title and under § 3108.2-4(i) for noncompetitive leases issued under § 3108.2-4 of this title. Petitions to waive, suspend or reduce rental or minimum royalty for leases reinstated under § 3108.2-3 of this title or for leases issued under § 3108.2-4 of this title may be made under this section.
+
+[48 FR 33662, July 22, 1983; 48 FR 39225, Aug. 30, 1983, as amended at 49 FR 30448, July 30, 1984; 53 FR 17354, May 16, 1988; 57 FR 35973, Aug. 11, 1992; 61 FR 4750, Feb. 8, 1996; 75 FR 61626, Oct. 6, 2010]

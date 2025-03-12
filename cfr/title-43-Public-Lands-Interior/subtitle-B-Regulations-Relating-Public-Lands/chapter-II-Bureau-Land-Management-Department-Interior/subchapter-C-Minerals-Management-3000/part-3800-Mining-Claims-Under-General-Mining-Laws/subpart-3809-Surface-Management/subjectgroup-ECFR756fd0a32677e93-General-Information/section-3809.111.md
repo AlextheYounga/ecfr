@@ -1,0 +1,3 @@
+##### § 3809.111 Will BLM disclose to the public the information I submit under this subpart? #####
+
+Part 2 of this title applies to all information and data you submit under this subpart. If you submit information or data under this subpart that you believe is exempt from disclosure, you must mark each page clearly “CONFIDENTIAL INFORMATION.” You must also separate it from other materials you submit to BLM. BLM will keep confidential information or data marked in this manner to the extent required by part 2 of this title. If you do not mark the information as confidential, BLM, without notifying you, may disclose the information to the public to the full extent allowed under part 2 of this title.

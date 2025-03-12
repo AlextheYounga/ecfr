@@ -1,0 +1,5 @@
+##### § 124.33 Standard of due diligence. #####
+
+(a) In determining the due diligence of an applicant, APHIS will examine the facts and circumstances of the applicant's actions during the regulatory review period to determine whether the applicant exhibited the degree of attention, continuous directed effort, and timeliness as may reasonably be expected from, and are ordinarily exercised by, a person during a regulatory review period. APHIS will take into consideration all relevant factors, such as the amount of time between the approval of an experimental use permit and licensure of the veterinary biological product.
+
+(b) For purposes of this Part, the actions of the marketing applicant shall be imputed to the applicant for patent term restoration. The actions of an agent, attorney, contractor, employee, licensee, or predecessor in interest of the marketing applicant shall be imputed to the applicant for patent term restoration.

@@ -1,0 +1,7 @@
+##### § 13.2 Application for permit. #####
+
+(a) State licensing agencies designated by the Department of Health, Education, and Welfare under the Randolph-Sheppard Vending Stand Act may apply for permits to establish and maintain vending facilities, including both vending stands and machines, to be operated by blind persons licensed by the State agencies. Application for a permit shall be made, in writing, by the State licensing agency to the head of the Interior bureau or office having control of the property in question. In the regulations in this part the term “head of the Interior bureau or office” includes the authorized representatives of that bureau or office.
+
+(b) The head of the Interior bureau or office may deny an application if he determines that the issuance of a permit would unduly inconvenience the bureau or office or adversely affect the interests of the United States. Such determination shall be in writing and shall state the reasons on which it is based. The fact that a permit will be without charge for rent shall not constitute a basis for denying an application.
+
+(c) In considering applications for permits, due regard shall be given to the terms of any existing contractual arrangements.

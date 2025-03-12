@@ -1,0 +1,7 @@
+##### § 319.1 Labeling and preparation of standardized products. #####
+
+(a) Labels for products for which standards of identity or composition are prescribed in this part shall show the appropriate product name, an ingredient statement, and other label information in accordance with the special provisions, if any, in this part, and otherwise in accordance with the general labeling provisions in part 317 of this subchapter, and such products shall be prepared in accordance with the special provisions, if any, in this part and otherwise in accordance with the general provisions in this subchapter. Any product for which there is a common or usual name must consist of ingredients and be prepared by the use of procedures common or usual to such products insofar as specific ingredients or procedures are not prescribed or prohibited by the provisions of this subchapter.
+
+(b) Any binder or antimicrobial agent that has been found to be safe and suitable by the Food and Drug Administration and the Food Safety and Inspection Service may be used in the production of meat products with standards of identity in this part, where the product standards and applicable Federal regulations already permit the use of these types of ingredients.
+
+[35 FR 15597, Oct. 3, 1970, as amended at 68 FR 22578, Apr. 29, 2003]

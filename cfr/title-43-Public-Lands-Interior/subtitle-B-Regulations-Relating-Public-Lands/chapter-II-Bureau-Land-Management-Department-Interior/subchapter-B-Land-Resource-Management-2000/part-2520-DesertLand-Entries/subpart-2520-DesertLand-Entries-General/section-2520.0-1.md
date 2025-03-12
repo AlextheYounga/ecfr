@@ -1,0 +1,3 @@
+##### § 2520.0-1 Purpose. #####
+
+(a) It is the purpose of the statutes governing desert-land entries to encourage and promote the reclamation, by irrigation, of the arid and semiarid public lands of the Western States through individual effort and private capital, it being assumed that settlement and occupation will naturally follow when the lands have thus been rendered more productive and habitable.

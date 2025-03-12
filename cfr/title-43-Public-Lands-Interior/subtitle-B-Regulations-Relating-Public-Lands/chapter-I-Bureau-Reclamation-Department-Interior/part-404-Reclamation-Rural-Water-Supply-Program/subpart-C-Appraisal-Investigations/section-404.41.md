@@ -1,0 +1,3 @@
+##### § 404.41 How will an appraisal investigation be conducted under this program? #####
+
+Appraisal investigations will be conducted in accordance with Reclamation-approved standards governing the approach, process and content of the appraisal investigation. You can obtain information about Reclamation's standards and requirements for conducting an appraisal investigation by contacting your local Reclamation office.

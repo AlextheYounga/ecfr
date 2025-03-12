@@ -1,0 +1,5 @@
+##### § 4.338 Submission by administrative law judge of proposed findings, conclusions and recommended decision. #####
+
+(a) When an evidentiary hearing pursuant to § 4.337(a) of this part is concluded, the administrative law judge shall recommend findings of fact and conclusions of law, stating the reasons for such recommendations. A copy of the recommended decision shall be sent to each party to the proceeding, the Bureau official involved, and the Board. Simultaneously, the entire record of the proceedings, including the transcript of the hearing before the administrative law judge, shall be forwarded to the Board.
+
+(b) The administrative law judge shall advise the parties at the conclusion of the recommended decision of their right to file exceptions or other comments regarding the recommended decision with the Board in accordance with § 4.339 of this part.

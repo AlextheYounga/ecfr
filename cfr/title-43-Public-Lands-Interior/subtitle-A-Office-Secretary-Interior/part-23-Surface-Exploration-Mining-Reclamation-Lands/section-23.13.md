@@ -1,0 +1,3 @@
+##### § 23.13 Consultation. #####
+
+Whenever the lands included in a permit, lease, or contract are under the jurisdiction of an agency other than the Department of the Interior or under the jurisdiction of a bureau of the Department of the Interior other than the Bureau of Land Management, the mining supervisor or the district manager, as appropriate, shall consult the authorized officer of such agency before taking any final action under §§ 23.7, 23.8, 23.10 (c) and (d) (2) and (3), and 23.11(c).

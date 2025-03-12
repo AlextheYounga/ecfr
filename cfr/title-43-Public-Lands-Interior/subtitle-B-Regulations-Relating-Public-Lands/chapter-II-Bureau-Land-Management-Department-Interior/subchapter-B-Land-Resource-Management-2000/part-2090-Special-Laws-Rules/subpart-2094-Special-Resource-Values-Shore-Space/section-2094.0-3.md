@@ -1,0 +1,3 @@
+##### § 2094.0-3 Authority. #####
+
+Section 1 of the Act of May 14, 1898 (30 Stat. 409) as amended by the Acts of March 3, 1903 (32 Stat. 1028) and August 3, 1955 (69 Stat. 444; 48 U.S.C. 371) provides that no entry shall be allowed extending more than 160 rods along the shore of any navigable water. Section 10 of the Act of May 14, 1898, as amended by the Acts of March 3, 1927 (44 Stat. 1364), May 26, 1934 (48 Stat. 809), and August 3, 1955 (69 Stat. 444), provides that trade and manufacturing sites, rights-of-way for terminals and junction points, and homesites and headquarters sites may not extend more than 80 rods along the shores of any navigable water.

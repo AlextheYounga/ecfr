@@ -1,0 +1,3 @@
+##### § 3596.1 Milling. #####
+
+The operator/lessee shall conduct milling operations in accordance with the established requirements. The operator/lessee shall use due diligence in the reduction, concentration or separation of mineral substances by mechanical or chemical processes or other means so that the percentage of salts, concentrates, or other mineral substances recovered and waste generated shall be in accordance with the approved practices.

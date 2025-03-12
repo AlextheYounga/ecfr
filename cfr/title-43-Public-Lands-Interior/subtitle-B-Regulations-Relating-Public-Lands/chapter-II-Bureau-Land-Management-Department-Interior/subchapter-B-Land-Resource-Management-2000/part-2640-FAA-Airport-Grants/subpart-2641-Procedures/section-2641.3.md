@@ -1,0 +1,9 @@
+##### § 2641.3 Publication and payment. #####
+
+(a) Prior to issuance of a conveyance document, the authorized officer shall publish a notice of realty action in the Federal Register and in a newspaper of general circulation in the area of the lands to be conveyed. The notice shall identify the lands proposed for conveyance and contain the terms, covenants, conditions and reservations to be included in the conveyance document. The notice shall provide public comment period of 45 days from the date of publication in the Federal Register. Comments shall be sent to the Bureau of Land Management office issuing the notice.
+
+(b) The notice of realty action may segregate the lands or interests in lands to be conveyed to the extent that they will not be subject to appropriation under the public land laws, including the mining laws. The segregative effect of the notice of realty action shall terminate either upon the issuance of a document of conveyance or 1 year after the date of publication, whichever occurs first.
+
+(c) The determination concerning the granting or denial of an application shall be sent by the authorized officer to the applicant and to any party who commented on the application.
+
+(d) The authorized officer shall advise the applicant whether any balance is due on the payments required of the applicant and of the time within which payment shall be made. Failure to pay the required amount within the allotted time shall constitute grounds for rejection of the application. If the applicant has deposited with the authorized officer an amount in excess of the payments required, the authorized officer shall so advise the applicant and return the excess payment.

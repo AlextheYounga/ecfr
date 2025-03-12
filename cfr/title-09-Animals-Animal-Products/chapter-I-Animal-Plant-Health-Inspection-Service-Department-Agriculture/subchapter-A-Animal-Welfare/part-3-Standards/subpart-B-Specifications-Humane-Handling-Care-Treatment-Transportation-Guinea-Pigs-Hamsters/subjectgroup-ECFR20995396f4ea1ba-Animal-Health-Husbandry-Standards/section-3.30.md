@@ -1,0 +1,3 @@
+##### § 3.30 Watering. #####
+
+Unless food supplements consumed by guinea pigs or hamsters supply them with their normal water requirements, potable water shall be provided daily except as might otherwise be required to provide adequate veterinary care. Open containers used for dispensing water to guinea pigs or hamsters shall be so placed in or attached to the primary enclosure as to minimize contamination from excreta. All watering receptacles shall be sanitized when dirty: *Provided, however,* That such receptacles shall be sanitized at least once every 2 weeks.

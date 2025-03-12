@@ -1,0 +1,5 @@
+##### § 381.75 Poultry used for research. #####
+
+(a) No poultry used in any research investigation involving an experimental biological product, drug, or chemical shall be eligible for slaughter at an official establishment unless the operator of such establishment, the sponsor of the investigation, or the investigator has submitted to the Inspection Service, or the Veterinary Biologics unit of Veterinary Services, Animal and Plant Health Inspection Service of the Department or the Environmental Protection Agency, or the Food and Drug Administration of the Department of Health, Education, and Welfare, data or a summary evaluation of the data which demonstrates that the use of such biological product, drug, or chemical will not result in the products of such poultry being adulterated, and the Administrator has approved such slaughter.
+
+[37 FR 9706, May 16, 1972, as amended at 39 FR 4569, Feb. 5, 1974]

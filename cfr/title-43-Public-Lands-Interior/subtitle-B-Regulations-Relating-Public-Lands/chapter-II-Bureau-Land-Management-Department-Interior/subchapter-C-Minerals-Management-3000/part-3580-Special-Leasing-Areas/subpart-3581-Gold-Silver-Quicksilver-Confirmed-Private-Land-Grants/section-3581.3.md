@@ -1,0 +1,7 @@
+##### § 3581.3 Application for lease. #####
+
+(a) Applications for leases shall be filed in triplicate in the proper BLM office and may include all or any part of the grant for which the applicant holds title on the date of the application. No specific form is required.
+
+(b) Applications shall set forth the name and address of the applicant, describe the lands in which the deposits occur by legal subdivision of the public surveys, if so surveyed, otherwise by metes and bounds; or if for the entire area in the grant, the name of the grant, area and date of patent shall suffice. The mineral deposits also shall be fully described, giving character, mode of occurrence, nature of the formation, kind and character of associated minerals, if any, proposed mining methods, estimate of amount of investment necessary for successful operation of the mine(s) contemplated, estimated amount of production of gold, silver and quicksilver, or any of them, and such other pertinent information as the applicant may desire to set forth, including what he/she considers a reasonable royalty rate under the lease.
+
+(c) The applicant also shall file with his/her application a duly authenticated abstract of title showing present ownership of the lands or a certificate of the county recorder of deeds that the record title stands in the applicant's name.

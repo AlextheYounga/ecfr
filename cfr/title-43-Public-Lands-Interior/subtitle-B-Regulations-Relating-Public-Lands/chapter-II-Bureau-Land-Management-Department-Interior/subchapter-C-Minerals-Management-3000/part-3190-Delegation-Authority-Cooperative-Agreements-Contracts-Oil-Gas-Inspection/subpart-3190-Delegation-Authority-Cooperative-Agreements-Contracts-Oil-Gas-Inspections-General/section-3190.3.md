@@ -1,0 +1,3 @@
+##### § 3190.3 Sharing of civil penalties. #####
+
+Fifty percent of any civil penalty collected by the United States as a result of activities carried out by a State under a delegation of authority or a State or Indian tribe under a cooperative agreement shall be payable to that State or Indian tribe upon receipt by the United States. Such amount shall be deducted from compensation due to the State or Indian tribe by the United States under the delegation of authority or cooperative agreement.

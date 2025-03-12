@@ -1,0 +1,1 @@
+##### § 3830.20 Payment of service charges, location fees, initial maintenance fees, annual maintenance fees and oil shale fees. #####

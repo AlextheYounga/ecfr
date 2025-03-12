@@ -1,0 +1,7 @@
+##### § 1610.5-1 Resource management plan approval and administrative review. #####
+
+(a) The proposed resource management plan or revision shall be submitted by the Field Manager to the State Director for supervisory review and approval. When the review is completed the State Director shall either publish the proposed plan and file the related environmental impact statement or return the plan to the Field Manager with a written statement of the problems to be resolved before the proposed plan can be published.
+
+(b) No earlier than 30 days after the Environmental Protection Agency publishes a notice of the filing of the final environmental impact statement in the Federal Register, and pending final action on any protest that may be filed, the State Director shall approve the plan. Approval shall be withheld on any portion of a plan or amendment being protested until final action has been completed on such protest. Before such approval is given, there shall be public notice and opportunity for public comment on any significant change made to the proposed plan. The approval shall be documented in a concise public record of the decision, meeting the requirements of regulations for the National Environmental Policy Act of 1969 (40 CFR 1505.2).
+
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]

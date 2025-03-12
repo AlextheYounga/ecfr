@@ -1,0 +1,15 @@
+##### § 3599.1 Late payment or underpayment charges. #####
+
+(a) The failure to make timely or proper payments of any monies due pursuant to leases, permits, and contracts subject to these regulations will result in the collection by the Minerals Management Service (MMS) of the amount past due plus a late payment charge. Exceptions to this late payment charge may be granted when estimated payments have already been made timely and otherwise in accordance with instructions provided by MMS to the payor. However, late payment charges assessed with respect to any Indian lease, permit, or contract shall be collected and paid to the Indian or tribe to which the overdue amount is owed.
+
+(b) Late payment charges are assessed on any late payment or underpayment from the date that the payment was due until the date on which the payment is received in the appropriate MMS accounting office. Payments received after 4 p.m. local time on the date due will be acknowledged as received on the following workday.
+
+(c) Late payment charges are calculated on the basis of a percentage assessment rate. In the absence of a specific lease, permit, license, or contract provision prescribing a different rate, this percentage assessment rate is prescribed by the Department of the Treasury as the “Treasury Current Value of Funds Rate.”
+
+(d) This rate is available in the Treasury Fiscal Requirements Manual Bulletins that are published prior to the first day of each calendar quarter for application to overdue payments or underpayments in that new calendar quarter. The rate is also published in the Notices section of the Federal Register and indexed under “Fiscal Service/Notices/Funds Rate; Treasury Current Value.”
+
+(e) Late payment charges apply to all underpayments and payments received after the date due. These charges include rentals; production, minimum, or advance royalties; assessments for liquidated damages; administrative fees and payments by purchaser of royalty taken-in-kind or any other payments, fees, or assessments that a lessee/operator/permittee/payor/or purchaser of royalty taken-in-kind is required to pay by a specified date. The failure to pay past due amounts, including late payment charges, will result in the initiation of other enforcement proceedings.
+
+[47 FR 22528, May 25, 1982. Redesignated at 48 FR 36588, Aug. 12, 1983. Redesignated at 51 FR 15212, Apr. 22, 1986]Group 3600—Mineral Materials DisposalNote:
+
+The information collection requirements contained in parts 3600, 3610 and 3620 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1004-0103. The information is being collected to allow the authorized officer to determine if the applicant is qualified to purchase or have free use of mineral materials on the public lands. The obligation to respond is required to obtain a benefit.

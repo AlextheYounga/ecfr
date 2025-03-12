@@ -1,0 +1,3 @@
+##### § 3510.11 If I already have a Federal lease, or the mineral rights on adjacent private lands, may I lease adjoining Federal lands that contain the same deposits without competitive bidding? #####
+
+Yes. If the adjoining Federal lands are available for leasing, you may lease them noncompetitively, even if they are known to contain a deposit of the mineral you are interested in leasing. We will either issue a new lease for these lands (fringe acreage) or add the lands to your existing Federal lease (modification).

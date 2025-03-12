@@ -1,0 +1,5 @@
+##### § 73.4 Interstate shipment of exposed but not visibly diseased cattle from a quarantined or nonquarantined area; conditions under which permitted. #####
+
+Cattle not visibly diseased with scabies, but which are known to be part of a diseased herd or to have come in contact with diseased cattle or infectious means of conveyance or premises, may be shipped interstate for any purpose if dipped at the point of origin, under the supervision of an APHIS inspector or State inspector, in a permitted dip, or the cattle may be dipped en route by special permission first had and obtained from the Administrator; but in such event the means of conveyance shall be placarded and the billing shall be marked “Cattle Exposed to Scabies,” in accordance with § 73.6, and the cattle shall not be permitted to mingle with other cattle until disposed of in accordance with the regulations in this part.
+
+[28 FR 5945, June 13, 1963, as amended at 41 FR 5384, Feb. 6, 1976; 56 FR 52463, Oct. 21, 1991]

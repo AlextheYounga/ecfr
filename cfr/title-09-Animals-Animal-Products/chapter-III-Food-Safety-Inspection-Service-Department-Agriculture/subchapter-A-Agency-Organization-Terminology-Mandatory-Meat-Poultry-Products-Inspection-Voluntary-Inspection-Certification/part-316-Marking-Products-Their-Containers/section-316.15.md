@@ -1,0 +1,5 @@
+##### § 316.15 Marking outside containers of inedible grease, etc. #####
+
+(a) Outside containers of inedible grease, inedible tallow, or other inedible animal fat, or mixture of any such articles, resulting from operations at any official establishment shall be marked conspicuously with the word “inedible” prior to removal from the point of filling. Containers, such as tierces, barrels, and half barrels shall have both ends painted white with durable paint, if necessary, to provide a contrasting background, and the word “inedible” shall be marked thereon in letters not less than 2 inches high, while on tank cars and tank trucks the letters shall be not less than 4 inches high.
+
+(b) Inspected rendered animal fat which is intended not to be used for human food may also be marked “inedible” if handled as provided in paragraph (a) of this section and part 314 of this subchapter.

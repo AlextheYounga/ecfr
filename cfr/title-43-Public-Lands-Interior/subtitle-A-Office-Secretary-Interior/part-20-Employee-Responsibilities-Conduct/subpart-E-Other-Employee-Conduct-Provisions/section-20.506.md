@@ -1,0 +1,7 @@
+##### § 20.506 Appropriations, legislation and lobbying. #####
+
+(a) Unless expressly authorized by Congress, employees are prohibited from using any part of the money appropriated by any enactment of Congress to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, to favor or oppose, by vote or otherwise, any legislation or appropriation by Congress, whether before or after the introduction of any bill or resolution proposing such legislation or appropriation; this prohibition does not prevent any employee from communicating to Members of Congress on the request of any Member or through proper official channels, requests for legislation or appropriations which they deem necessary for the efficient conduct of the public business (18 U.S.C. 1913).
+
+(b) When acting in their official capacity, employees are required to refrain from promoting or opposing legislation relating to programs of the Department without the official sanction of the property Departmental authority.
+
+(c) The rights of employees, individually or collectively, to otherwise petition Congress, or to a Committee or Member thereof, shall not be interfered with or denied (5 U.S.C. 7211).

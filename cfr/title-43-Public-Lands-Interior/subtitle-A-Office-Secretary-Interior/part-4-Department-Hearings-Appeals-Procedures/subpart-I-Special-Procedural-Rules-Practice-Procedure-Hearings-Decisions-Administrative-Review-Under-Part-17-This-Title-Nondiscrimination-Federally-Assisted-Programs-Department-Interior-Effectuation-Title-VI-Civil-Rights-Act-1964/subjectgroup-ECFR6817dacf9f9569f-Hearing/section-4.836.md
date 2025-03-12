@@ -1,0 +1,3 @@
+##### § 4.836 Official notice. #####
+
+Whenever a party offers a public document, or part thereof, in evidence, and such document, or part thereof, has been shown by the offeror to be reasonably available to the public, such document need not be produced or marked for identification, but may be offered for official notice as a public document item by specifying the document or relevant part thereof. Official notice may also be taken of other matters, at the discretion of the administrative law judge.

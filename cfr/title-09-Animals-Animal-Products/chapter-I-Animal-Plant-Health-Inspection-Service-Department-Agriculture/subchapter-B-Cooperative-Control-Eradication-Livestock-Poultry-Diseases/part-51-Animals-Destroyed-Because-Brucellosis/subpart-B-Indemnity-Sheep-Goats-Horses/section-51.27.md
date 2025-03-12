@@ -1,0 +1,5 @@
+##### § 51.27 Identification of goats, sheep, and horses to be destroyed. #####
+
+The claimant must ensure that any goats, sheep, and horses for which indemnity is claimed are marked with unique, individually numbered identification showing they are to be destroyed. This must be done within 15 days after the animals are condemned. The Veterinarian in Charge may extend the time limit to 30 days when the Veterinarian in Charge receives a request for extension prior to the expiration date of the original 15-day period, and when the Veterinarian in Charge determines that the extension will not adversely affect the brucellosis eradication program. However, the Administrator may extend the time limit beyond 30 days when unusual or unforeseen circumstances occur that prevent or hinder the identification of the animal within 30 days, such as, but not limited to, floods, storms, or other Acts of God, which are beyond the control of the owner, or when identification is delayed due to requirements of another Federal agency.
+
+(Approved by the Office of Management and Budget under control number 0579-0185)

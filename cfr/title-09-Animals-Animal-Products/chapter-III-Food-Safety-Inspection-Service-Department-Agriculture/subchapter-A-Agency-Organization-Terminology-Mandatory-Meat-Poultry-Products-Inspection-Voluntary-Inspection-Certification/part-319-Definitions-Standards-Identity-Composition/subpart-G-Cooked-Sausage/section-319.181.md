@@ -1,0 +1,5 @@
+##### § 319.181 Cheesefurters and similar products. #####
+
+“Cheesefurters” and similar products are products in casings which resemble frankfurters except that they contain sufficient cheese to give definite characteristics to the finished article. They may contain binders and extenders as provided in § 424.21(c) of subchapter E. Limits on use as provided in § 424.21 are intended to be exclusive of the cheese constituent. When any such substance is added to these products, the substance shall be designated in the ingredients statement by its common or usual name in order of predominance. These products shall contain no more than 40 percent of a combination of fat and added water, and no more than 30 percent fat and shall comply with the other provisions for cooked sausages that are in this subchapter.
+
+[55 FR 34683, Aug. 24, 1990, as amended at 56 FR 41448, Aug. 21, 1991; 76 FR 82078, Dec. 30, 2011]

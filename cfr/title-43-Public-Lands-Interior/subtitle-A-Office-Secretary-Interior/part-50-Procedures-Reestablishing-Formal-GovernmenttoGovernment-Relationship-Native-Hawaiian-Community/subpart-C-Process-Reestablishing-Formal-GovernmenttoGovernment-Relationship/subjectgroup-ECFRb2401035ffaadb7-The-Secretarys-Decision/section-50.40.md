@@ -1,0 +1,3 @@
+##### § 50.40 When will the Secretary issue a decision? #####
+
+The Secretary will apply the criteria described in § 50.16 and endeavor to either grant or deny a request within 120 days of determining that the requester's submission is complete and after receiving all the information described in §§ 50.30 and 50.31. The Secretary may request additional documentation and explanation from the requester or the public with respect to the material submitted, including whether the request is consistent with this part. If the Secretary is unable to act within 120 days, the Secretary will provide notice to the requester, and include an explanation of the need for more time and an estimate of when the decision will issue.

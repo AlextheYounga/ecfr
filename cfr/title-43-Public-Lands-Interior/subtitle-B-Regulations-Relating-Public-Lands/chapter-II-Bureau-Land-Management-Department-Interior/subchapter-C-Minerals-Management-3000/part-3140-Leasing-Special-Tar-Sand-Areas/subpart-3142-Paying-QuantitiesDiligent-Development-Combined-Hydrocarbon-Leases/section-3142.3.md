@@ -1,0 +1,3 @@
+##### § 3142.3 Expiration. #####
+
+Failure of the lessee to pay advance royalty within the time prescribed by the authorized officer, or failure of the lessee to comply with any other provisions of this subpart following the end of the primary term of the lease, shall result in the automatic expiration of the lease as of the first of the month following notice to the lessee of its failure to comply. The lessee shall remain subject to the requirement of applicable laws, regulations and lease terms which have not been met at the expiration of the lease.

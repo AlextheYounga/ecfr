@@ -1,0 +1,3 @@
+##### § 13.3 Cooperation in selection of facilities. #####
+
+Upon request from a State licensing agency, the Interior bureau or office shall cooperate in selecting locations and arranging accommodations for vending facilities to be operated by blind persons. In making such selection, due consideration shall be given to the requirements of occupant agencies, availability of suitable space, and requirements for preparation and maintenance of the space.

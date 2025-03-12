@@ -1,0 +1,7 @@
+##### § 78.2 Handling of certificates, permits, and “S” brand permits for interstate movement of animals. #####
+
+(a) Any ICVI, other interstate movement document used in lieu of an ICVI, permit, or “S” brand permit required by this part for the interstate movement of animals shall be delivered to the person moving the animals by the shipper or shipper's agent at the time the animals are delivered for movement and shall accompany the animals to their destination and be delivered to the consignee or the person receiving the animals.
+
+(b) The APHIS representative, State representative, Tribal representative, or accredited veterinarian issuing an ICVI or other interstate movement document used in lieu of an ICVI or a permit, except for permits for entry and “S” brand permits, that is required for the interstate movement of animals under this part shall forward a copy of the ICVI, other interstate movement document used in lieu of an ICVI, or permit to the State animal health official of the State of origin within 5 working days. The State animal health official of the State of origin shall forward a copy of the ICVI, other interstate movement document used in lieu of an ICVI, or permit to the State animal health official of the State of destination within 5 working days.
+
+(Approved by the Office of Management and Budget under control number 0579-0047)[78 FR 2069, Jan. 9, 2013]

@@ -1,0 +1,3 @@
+##### § 2711.4-2 Other private improvements. #####
+
+Where public lands to be sold under this part contain authorized private improvements, other than those identified in § 2711.4-1 of this subpart or those subject to a patent reservation, the owner of such improvements shall be given an opportunity to remove them if such owner has not been declared the purchaser of the lands sold, or the prospective purchaser may compensate the owner of such authorized private improvements and submit proof of compensation to the authorized officer.

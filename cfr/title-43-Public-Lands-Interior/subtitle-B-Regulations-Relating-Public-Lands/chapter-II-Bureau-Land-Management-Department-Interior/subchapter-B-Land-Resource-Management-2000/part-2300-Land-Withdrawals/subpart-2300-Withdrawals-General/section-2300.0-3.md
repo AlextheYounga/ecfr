@@ -1,0 +1,31 @@
+##### § 2300.0-3 Authority. #####
+
+(a)(1) Section 204 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1714) gives the Secretary of the Interior general authority to make, modify, extend or revoke withdrawals, but only in accordance with the provisions and limitations of that section. Among other limitations, the Federal Land Policy and Management Act of 1976 provides that the Secretary of the Interior does not have authority to:
+
+(i) Make, modify or revoke any withdrawal created by an Act of Congress;
+
+(ii) Make a withdrawal which can be made only by an Act of Congress;
+
+(iii) Modify or revoke any withdrawal creating national monuments under the Act of June 8, 1906 (16 U.S.C. 431-433), sometimes referred to as the Antiquities Act;
+
+(iv) Modify or revoke any withdrawal which added lands to the National Wildlife Refuge System prior to October 21, 1976, the date of approval of the Federal Land Policy and Management Act of 1976 or which thereafter adds lands to that System under the terms of that Act. In this connection, nothing in the Federal Land Policy and Management Act of 1976 is intended to modify or change any provision of the Act of February 27, 1976 (16 U.S.C. 668 dd(a)).
+
+(2) Executive Order 10355 of May 26, 1952 (17 FR 4831), confers on the Secretary of the Interior all of the delegable authority of the President to make, modify and revoke withdrawals and reservations with respect to lands of the public domain and other lands owned and controlled by the United States in the continental United States or Alaska.
+
+(3) The Act of February 28, 1958 (43 U.S.C. 155-158), sometimes referred to as the Engle Act, places on the Secretary of the Interior the responsibility to process Department of Defense applications for national defense withdrawals, reservations or restrictions aggregating 5,000 acres or more for any one project or facility. These withdrawals, reservations or restrictions may only be made by an act of Congress, except in time of war or national emergency declared by the President or the Congress and except as otherwise expressly provided in the Act of February 28, 1958.
+
+(4) Section 302(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1732(b)) authorizes the Secretary of the Interior to regulate the management of the public lands as defined in the Act through instruments, such as memorandum of understanding, which the Secretary deems appropriate.
+
+(5) Section 1326(a) of the Alaska National Interest Lands Conservation Act (Pub. L. 96-487), authorizes the President and the Secretary to make withdrawals exceeding 5,000 acres, in the aggregate, in the State of Alaska subject to the provisions that such withdrawals shall not become effective until notice is provided in the Federal Register and to both Houses of the Congress and such withdrawals shall terminate unless Congress passes a Joint Resolution of approval within one year after the notice of withdrawal has been submitted to the Congress.
+
+(b) The following references do not afford either withdrawal application processing or withdrawal authority but are provided as background information.
+
+(1) Executive Order 6910 of November 26, 1934, and E.O. 6964 of February 5, 1935, as modified, withdrew sizable portions of the public lands for classification and conservation. These lands and the grazing districts estalished under the Taylor Grazing Act of 1934, as amended, are subject to the classification and opening procedures of section 7 of the Taylor Grazing Act of June 28, 1934, as amended (43 U.S.C. 315f); however, they are not closed to the operation of the mining or mineral leasing laws unless separately withdrawn or reserved, classified for retention from disposal, or precluded from mineral leasing or mining location under other authority.
+
+(2) The Classification and Multiple Use Act of September 19, 1964 (43 U.S.C. 1411-1418), authorized the Secretary of the Interior through the Bureau of Land Management for retention or disposal under Federal ownership and management. Numerous classification decisions based upon this statutory authority were made by the Secretary of the Interior. For the effect of these classification with regard to the disposal and leasing laws of the United States, see subparts 2440 and 2461 of this title.
+
+(3) Section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) provides for land use planning and resultant management decisions which may operate to totally eliminate a particular land use, including one or more *principal or major uses,* as defined in the Act. Withdrawals made pursuant to section 204 of the Federal Land Policy and Management Act of 1976 may be used in appropriate cases, to carry out management decisions, except that *public lands,* as defined in the Act, can be removed from or restored to the operation of the Mining Law of 1872, as amended, or transferred to another department, agency or office, only by withdrawal action pursuant to section 204 of the Federal Land Policy and Management Act of 1976 or other action pursuant to applicable law.
+
+(4) The first proviso of section 302(b) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1732(b)) provides, in part, that unless otherwise provided for by law, the Secretary of the Interior may permit Federal departments and agencies to use, occupy and develop public lands *only* through rights-of-way under section 507 of the Act (43 U.S.C. 1767); withdrawals under section 204 of the Act (43 U.S.C. 1714); and, where the proposed use and development are similar or closely related to the programs of the Secretary for the public lands involved, cooperative agreements under section 307(b) of the Act (43 U.S.C. 1737(b)).
+
+(5) Section 701(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 note) provides that all withdrawals, reservations, classifications and designations in effect on October 21, 1976, the effective date of the Act, shall remain in full force and effect until modified under the provisions of the Act or other applicable law.

@@ -1,0 +1,13 @@
+##### § 381.307 Record review and maintenance. #####
+
+(a) *Process records.* Charts from temperature/time recording devices shall be identified by production date, container code, processing vessel number or other designation and other data as necessary to enable correlation with the records required in § 381.306. Each entry on a record shall be made at the time the specific event occurs, and the recording individual shall sign or initial each record form. No later than 1 working day after the actual process, the establishment shall review all processing and production records to ensure completeness and to determine if all product received the process schedule. All records, including the temperature/time recorder charts and critical factor control records, shall be signed or initialed and dated by the person conducting the review. All processing and production records required in this subpart shall be made available to Program employees for review.
+
+(b) *Automated process monitoring and recordkeeping.* Automated process monitoring and recordkeeping systems shall be designed and operated in a manner which will ensure compliance with the applicable requirements of § 381.306.
+
+(c) *Container closure records.* Written records of all container closure examinations shall specify the container code, the date and time of container closure examination, the measurement(s) obtained, and any corrective actions taken. Records shall be signed or initialed by the container closure technician and shall be reviewed and signed by the establishment within 1 working day after the actual production to ensure that the records are complete and that the closing operations have been properly controlled. All container closure examination records required in this subpart shall be made available to Program employees for review.
+
+(d) *Distribution of product.* Records shall be maintained by the establishment identifying initial distribution of the finished product to facilitate, if necessary, the segregation of specific production lots that may have been contaminated or are otherwise unsound for their intended use.
+
+(e) *Retention of records.* Copies of all processing and production records required in § 381.306 shall be retained for no less than 1 year at the establishment, and for an additional 2 years at the establishment or other location from which the records can be made available to Program employees within 3 working days.
+
+(Approved by the Office of Management and Budget under control number 0583-0015)[51 FR 45634, Dec. 19, 1986, as amended at 65 FR 34390, May 30, 2000]

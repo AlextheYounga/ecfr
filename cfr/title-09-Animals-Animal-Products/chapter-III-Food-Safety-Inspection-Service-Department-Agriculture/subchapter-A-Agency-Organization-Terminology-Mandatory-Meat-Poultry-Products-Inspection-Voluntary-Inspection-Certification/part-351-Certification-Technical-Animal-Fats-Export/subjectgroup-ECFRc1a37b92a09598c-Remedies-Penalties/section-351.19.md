@@ -1,0 +1,3 @@
+##### § 351.19 Refusal of certification for specific lots. #####
+
+If an inspector has reason to believe that a lot of technical animal fat is ineligible for certification under § 351.3, or any materials to be used in a lot of technical animal fat would make the technical animal fat ineligible for such certification, certification of the lot shall be withheld pending final determination by the circuit supervisor. The operator of the plant shall be afforded an opportunity to demonstrate the eligibility of the lot for certification before the final determination is made.

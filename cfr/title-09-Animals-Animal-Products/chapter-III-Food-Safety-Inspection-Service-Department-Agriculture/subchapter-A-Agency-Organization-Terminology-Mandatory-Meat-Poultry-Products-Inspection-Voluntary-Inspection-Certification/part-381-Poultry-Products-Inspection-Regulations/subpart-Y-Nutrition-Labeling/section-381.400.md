@@ -1,0 +1,7 @@
+##### § 381.400 Nutrition labeling of poultry products. #####
+
+(a) Nutrition labeling must be provided for all poultry products intended for human consumption and offered for sale, except single-ingredient, raw poultry products that are not ground or chopped poultry products described in § 381.401 and are not major cuts of single-ingredient, raw poultry products identified in § 381.444, unless the product is exempted under § 381.500. Nutrition labeling must be provided for the major cuts of single-ingredient, raw poultry products identified in § 381.444, either in accordance with the provisions of § 381.409 for nutrition labels, or in accordance with the provisions of § 381.445 for point-of-purchase materials, except as exempted under § 381.500. For all other products that require nutrition labeling, including ground or chopped poultry products described in § 381.401, nutrition labeling must be provided in accordance with the provisions of § 381.409, except as exempted under § 381.500.
+
+(b) Nutrition labeling may be provided for single-ingredient, raw poultry products that are not ground or chopped poultry products described in § 381.401 and that are not major cuts of single-ingredient, raw poultry products identified in § 381.444, either in accordance with the provisions of § 381.409 for nutrition labels, or in accordance with the provisions of § 381.445 for point-of-purchase materials.
+
+[75 FR 82166, Dec. 29, 2010]

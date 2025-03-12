@@ -1,0 +1,5 @@
+##### § 51.4 Record of tests. #####
+
+The claimant shall be responsible for providing information to an APHIS representative, State representative, or accredited veterinarian so that a complete test record may be made by such person on an APHIS approved form for each herd known to be affected, including the reactor tag number of each brucellosis reactor animal and the registration name and number of each brucellosis reactor registered animal. A copy of the applicable test record shall be given to the owner of any such herd, and one copy of each such record shall be furnished to the appropriate State veterinarian's office by such person who completes the test record.
+
+(Approved by the Office of Management and Budget under control number 0579-0047)[42 FR 64336, Dec. 23, 1977, as amended at 48 FR 57472, Dec. 30, 1983; 54 FR 32435, Aug. 8, 1989; 56 FR 18506, Apr. 23, 1991]

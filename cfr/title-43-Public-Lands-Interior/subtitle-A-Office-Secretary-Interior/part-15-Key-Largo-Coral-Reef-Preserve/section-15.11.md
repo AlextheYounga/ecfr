@@ -1,0 +1,3 @@
+##### § 15.11 Explosives and dangerous weapons. #####
+
+No person shall carry, use or possess within the Preserve firearms of any description, air rifles, spring guns, bows and arrows, slings, spear guns, harpoons, or any other kind of weapon potentially harmful to the reef structure. The use of such weapons from beyond the boundaries of the Preserve and aimed or directed into the Preserve is forbidden. The use or possession of explosives within the Preserve is prohibited.

@@ -1,0 +1,3 @@
+##### § 3105.2-2 Purpose. #####
+
+When a lease or a portion thereof cannot be independently developed and operated in conformity with an established well-spacing or well-development program, the authorized officer may approve communitization or drilling agreements for such lands with other lands, whether or not owned by the United States, upon a determination that it is in the public interest. Operations or production under such an agreement shall be deemed to be operations or production as to each lease committed thereto.

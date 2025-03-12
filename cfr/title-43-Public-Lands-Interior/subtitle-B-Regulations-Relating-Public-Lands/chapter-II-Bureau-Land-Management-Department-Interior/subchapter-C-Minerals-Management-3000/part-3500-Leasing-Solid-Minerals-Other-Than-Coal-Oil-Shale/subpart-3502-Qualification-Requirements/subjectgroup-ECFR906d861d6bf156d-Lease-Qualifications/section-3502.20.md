@@ -1,0 +1,3 @@
+##### § 3502.20 Will BLM issue a lease to me if I am not complying with the diligence requirements of the Mineral Leasing Act? #####
+
+BLM will not issue you a lease or renew your lease, or approve a transfer of any lease or interest in a lease for you unless you are complying with section 2(a)(2)(A) of the Mineral Leasing Act (30 U.S.C. 201(2)(A)) for any of your existing leases that are subject to that provision. For Federal coal leases, BLM will determine compliance under § 3472.1-2(e) of this title. If BLM issues you a lease when you are in violation of section 2(a)2(A), BLM must void your lease under § 3514.30(b).

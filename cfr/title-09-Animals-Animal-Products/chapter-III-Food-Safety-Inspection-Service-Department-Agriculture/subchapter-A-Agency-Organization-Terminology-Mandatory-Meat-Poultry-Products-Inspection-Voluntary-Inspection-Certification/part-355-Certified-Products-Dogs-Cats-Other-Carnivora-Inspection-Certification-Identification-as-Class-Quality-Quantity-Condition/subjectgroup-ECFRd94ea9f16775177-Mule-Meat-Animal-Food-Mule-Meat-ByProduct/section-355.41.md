@@ -1,0 +1,9 @@
+##### § 355.41 Antemortem and postmortem inspection for mules. #####
+
+(a)(1) An antemortem examination and inspection shall be made of all mules about to be slaughtered for use in the preparation of products under this part, before their slaughter shall be allowed for such use. Such inspection shall be made on the day of slaughter.
+
+(2) Mules found on such inspection to show symptoms of disease shall be set apart and slaughtered separately. Those found to be affected with strangles, purpura hemorrhagica, azoturia, infectious equine encephalomyelitis, toxic encephalomyelitis (forage poisoning), infectious anemia (swamp fever), dourine, acute influenza, generalized osteoporosis, glanders, farcy, or other malignant disorder, acute inflammatory lameness or extensive fistula, shall be condemned and destroyed. Any mule which is suspected on antemortem inspection of being infected with glanders shall be tested with mallein, and any mule which on physical examination is suspected of being affected with dourine shall be held for further examination or for such test as the Administrator may prescribe.
+
+(b)(1) A careful postmortem examination and inspection shall be made of all carcasses and parts thereof of all mules inspected under this section, at the time of slaughter. All carcasses and parts of mules found to be affected with any disease listed under paragraph (a) of this section shall be condemned and destroyed.
+
+(2) Other carcasses and parts of mules found abnormal or diseased upon inspection under this section shall be disposed of in accordance with such provisions of the Meat Inspection Regulations (subchapter A of this chapter) as are deemed applicable by the Administrator.

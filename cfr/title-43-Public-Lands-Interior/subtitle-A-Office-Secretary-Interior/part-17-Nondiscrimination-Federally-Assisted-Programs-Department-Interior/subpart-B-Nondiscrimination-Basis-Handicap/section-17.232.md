@@ -1,0 +1,3 @@
+##### § 17.232 Postsecondary education. #####
+
+This section applies to postsecondary education and activities, including postsecondary vocational education programs or activities, that receive Federal financial assistance and to recipients that operate, or that receive Federal financial assistance for the operation of such programs or activities. For the purposes of this section, all recipients shall comply with the section 504 requirements promulgated by the Department of Education at 34 CFR part 104, subpart E.

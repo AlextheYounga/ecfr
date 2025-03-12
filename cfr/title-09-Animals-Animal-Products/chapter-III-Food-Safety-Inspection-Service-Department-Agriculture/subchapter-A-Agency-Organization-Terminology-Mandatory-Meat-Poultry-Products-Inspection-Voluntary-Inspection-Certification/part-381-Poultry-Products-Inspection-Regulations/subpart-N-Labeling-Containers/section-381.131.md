@@ -1,0 +1,15 @@
+##### § 381.131 Preparation of labeling or other devices bearing official inspection marks without advance approval prohibited; exceptions. #####
+
+(a) Except for the purposes of preparing and submitting a sample or samples of the same to the Administrator for approval, no brand manufacturer, printer, or other person shall cast, print, lithograph, or otherwise make any marking device containing any official mark or simulation thereof, or any label bearing any such mark or simulation, without the written authority therefor of the Administrator. However, when any such sample label, or other marking device, is approved by the Administrator, additional supplies of the approved label, or marking device, may be made for use in accordance with the regulations in this subchapter, without further approval by the Administrator. The provisions of this paragraph do not apply to marking devices containing the official inspection legend shown in Figure 5 of § 381.102.
+
+(b) No brand manufacturer or other person shall cast or otherwise make, without an official certificate issued in quadruplicate by a Program employee, a marking device containing the official inspection legend shown in Figure 5 of § 381.102 or any simulation of that legend.
+
+(1) The certificate is a Food Safety and Inspection Service form for signature by a Program employee and the official establishment ordering the marking device, bearing a certificate serial number and a letterhead and the seal of the United States Department of Agriculture. The certificate authorizes the making of only the devices of the type and quantity listed on the certificate.
+
+(2) After signing the certificate, the Program employee and the establishment shall each keep a copy, and the remaining two copies shall be given to the marking device manufacturer.
+
+(3) The manufacturer of the marking devices shall engrave or otherwise mark each marking device with a permanent identifying serial number unique to it. The manufacturer shall list on each of the two copies of the certificate given to the manufacturer the number of each marking device authorized by the certificate. The manufacturer shall retain one copy of the certificate for the manufacturer's records and return the remaining copy with the marking devices to the Program employee whose name and address are given on the certificate as the recipient.
+
+(4) In order that all such marking devices bear identifying numbers, within one year after June 24, 1985, an establishment shall either replace each such marking device that does not bear an identifying number, or, under the direction of the inspector-in-charge, mark such marking device with a permanent identifying number.
+
+(Recordkeeping requirements approved by the Office of Management and Budget under control number 0583-0015)[50 FR 21423, May 24, 1985]

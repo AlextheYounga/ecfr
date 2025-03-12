@@ -1,0 +1,3 @@
+##### § 418.11 Valid headgate deliveries. #####
+
+The valid water deliveries at the headgate are set by the product of eligible land actually irrigated multiplied by the appropriate water duty in accordance with §§ 418.8 and 418.10. The District will regularly monitor all water deliveries and report in accordance with § 418.9. No amount of water will be delivered in excess of the individual water user's headgate entitlement. In the event excess deliveries should occur, such amount will be automatically reflected in the efficiency deficit adjustment to the Lahontan storage. Water delivered in excess of entitlements must not be considered valid for purposes of computing project efficiency.

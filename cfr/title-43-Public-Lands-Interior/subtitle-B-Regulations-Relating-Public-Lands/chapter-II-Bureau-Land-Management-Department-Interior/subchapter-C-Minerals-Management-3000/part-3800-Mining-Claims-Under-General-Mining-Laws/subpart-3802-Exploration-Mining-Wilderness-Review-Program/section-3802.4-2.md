@@ -1,0 +1,5 @@
+##### § 3802.4-2 Access. #####
+
+(a) An operator is entitled to non-exclusive access to his mining operations consistent with provisions of the United States mining laws and Departmental regulations.
+
+(b) In approving access as part of a plan of operations, the authorized officer shall specify the location of the access route, the design, construction, operation and maintenance standards, means of transportation, and other conditions necessary to prevent impairment of wilderness suitability, protect the environment, the public health or safety, Federal property and economic interests, and the interests of other lawful users of adjacent lands or lands traversed by the access route. The authorized officer may also require the operator to utilize existing access routes in order to minimize the number of separate rights-of-way, and, if practicable, to construct access routes within a designated transportation and utility corridor. When commercial hauling is involved and the use of an existing access route is required, the authorized officer may require the operator to make appropriate arrangements for use and maintenance.

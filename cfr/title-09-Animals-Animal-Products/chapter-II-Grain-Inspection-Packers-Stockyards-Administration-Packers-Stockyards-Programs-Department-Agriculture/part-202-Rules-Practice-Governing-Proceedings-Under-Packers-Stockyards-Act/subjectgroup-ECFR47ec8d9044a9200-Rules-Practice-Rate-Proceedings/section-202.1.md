@@ -1,0 +1,3 @@
+##### § 202.1 Applicability of other rules. #####
+
+The Rules of Practice Governing Formal Adjudicatory Proceedings Instituted by the Secretary Under Various Statutes, 7 CFR part 1, subpart H, are applicable to all rate proceedings under Sections 304, 305, 306, 307 and 310 of the Packers and Stockyards Act, 1921, as amended, 7 U.S.C. 205, 206, 207, 208 and 211, except insofar as those Rules are in conflict with any provision herein.

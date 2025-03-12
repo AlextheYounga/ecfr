@@ -1,0 +1,5 @@
+##### § 3140.1-1 Existing rights. #####
+
+(a) The owner of an oil and gas lease issued prior to November 16, 1981, or the owner of a valid claim based on a mineral location situated within a Special Tar Sand Area may convert that portion of the lease or claim so situated to a combined hydrocarbon lease, provided that such conversion is consistent with the provisions of this subpart.
+
+(b) Owners of oil and gas leases in Special Tar Sand Areas who elect not to convert their leases to a combined hydrocarbon lease do not acquire the rights to any hydrocarbon resource except oil and gas as those terms were defined prior to the enactment of the Combined Hydrocarbon Leasing Act of 1981. The failure to file an application to convert a valid claim based on a mineral location within the time herein provided shall have no effect on the validity of the mining claim nor the right to maintain that claim.

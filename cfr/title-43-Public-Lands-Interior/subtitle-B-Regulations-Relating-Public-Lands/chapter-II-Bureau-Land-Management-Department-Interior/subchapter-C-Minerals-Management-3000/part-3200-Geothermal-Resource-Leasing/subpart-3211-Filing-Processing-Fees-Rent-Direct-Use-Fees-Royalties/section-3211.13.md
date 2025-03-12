@@ -1,0 +1,3 @@
+##### § 3211.13 When is my annual rental payment due? #####
+
+Your rent is always due in advance. MMS must receive your annual rental payment by the anniversary date of the lease each year. See the MMS regulations at 30 CFR part 218, which explain when MMS considers a payment as received. If less than a full year remains on a lease, you must still pay a full year's rent by the anniversary date of the lease. For example, the rent on a 2,000-acre lease for the 11th year, would be $10,000 ($5 per acre), due prior to the 10th anniversary of the lease.

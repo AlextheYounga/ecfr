@@ -1,0 +1,11 @@
+##### § 3100.0-9 Information collection. #####
+
+(a)(1) The collections of information contained in § 3103.4-1(b) have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and are among the collections assigned clearance number 1004-0145. The information will be used to determine whether an oil and gas operator or owner may obtain a reduction in the royalty rate. Response is required to obtain a benefit in accordance with 30 U.S.C. 181, *et seq.,* and 30 U.S.C. 351-359.
+
+(2) Public reporting burden for the information collections assigned clearance number 1004-0145 is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Information Collection Clearance Officer (783), Bureau of Land Management, Washington, DC 20240, and the Office of Management and Budget, Paperwork Reduction Project, 1004-0145, Washington, DC 20503.
+
+(b)(1) The collections of information contained in § 3103.4-1(c) and (d) have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1010-0090. The information will be used to determine whether an oil and gas lessee may obtain a reduction in the royalty rate. Response is required to obtain a benefit in accordance with 30 U.S.C. 181, *et seq.,* and 30 U.S.C. 351-359.
+
+(2) Public reporting burden for this information is estimated to average1/2 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Information Collection Clearance Officer, Minerals Management Service (Mail Stop 2300), 381 Elden Street, Herndon, VA 22070-4817, and the Office of Management and Budget, Paperwork Reduction Project, 1010-0090, Washington, DC 20503.
+
+[57 FR 35973, Aug. 11, 1992]

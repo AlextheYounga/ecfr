@@ -1,0 +1,11 @@
+##### § 314.1 Disposition of condemned products at official establishments having tanking facilities; sealing of tanks. #####
+
+(a) Carcasses, parts of carcasses, and other products condemned at official establishments having facilities for tanking shall, except as provided in paragraph (c) of this section or elsewhere in this part, be disposed of by tanking as follows:
+
+(1) The lower opening of the tank shall first be sealed securely by a Program employee, except when permanently connected with a blow line; then the condemned products shall be placed in the tank in his presence, after which the upper opening shall also be sealed securely by such employee, who shall then see that the contents of the tank are subjected to sufficient heating for sufficient time to effectively destroy the contents for human food purposes.
+
+(2) The use of equipment such as crushers or hashers for pretanking preparation of condemned products in the inedible products department has been found to give inedible character and appearance to the material. Accordingly, if condemned products are so crushed or hashed, conveying systems, rendering tanks, and other equipment used in the further handling of crushed or hashed material need not be locked or sealed during the tanking operations. If the rendering tanks or other equipment contain condemned material not so crushed or hashed, the equipment shall be sealed as prescribed in paragraph (a)(1) of this section. If the crushed or hashed material is not rendered in the establishment where produced, it shall be denatured as provided for in § 314.3 before leaving such establishment.
+
+(b) The seals of tanks shall be broken only by a Program employee and only after the contents of the tanks have been treated as provided in paragraph (a) of this section. The rendered fat derived from condemned material shall be held until a Program employee shall have had an opportunity to determine whether it conforms with the requirements of this section. Samples shall be taken by Program employees as often as is necessary to determine whether the rendered fat is effectually denatured.
+
+(c) Carcasses of animals condemned under § 309.3 of this subchapter may be disposed of as provided in § 314.3, in lieu of tanking, with the approval of the inspector.

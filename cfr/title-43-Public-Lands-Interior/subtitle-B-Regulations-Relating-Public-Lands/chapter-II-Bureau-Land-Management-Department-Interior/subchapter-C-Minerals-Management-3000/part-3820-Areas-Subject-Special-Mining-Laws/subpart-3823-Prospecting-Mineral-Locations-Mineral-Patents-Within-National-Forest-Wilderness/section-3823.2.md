@@ -1,0 +1,7 @@
+##### § 3823.2 Mineral locations within National Forest Wilderness. #####
+
+(a) Until midnight, December 31, 1983, the mining laws of the United States and the regulations of this chapter pertaining thereto, including any amendments thereto effective during such period, shall to the same extent as applicable before September 3, 1964, extend to National Forest Wilderness, subject to the provisions of such regulations as may be prescribed by the Secretary of Agriculture pursuant to section 4(d)(3) of the Wilderness Act.
+
+(b) All mineral locations established after September 3, 1964, and lying within the National Forest Wilderness, shall be held and used solely for mining or processing operations and uses incident thereto, and such locations shall carry with them no rights in excess of those rights which may be patented under the provisions of § 3823.3 of this chapter.
+
+(c) All persons wishing to carry on any activity under the mining laws on lands within National Forest Wilderness, on or after September 3, 1964, should make inquiry of the officer in charge of the National Forest in which the lands are located concerning the regulations of the Secretary of Agriculture governing activities to be performed thereon in connection with the locations of mining claims.

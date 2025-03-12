@@ -1,0 +1,3 @@
+##### § 533.1 Separation of establishments. #####
+
+Each official establishment shall be separate and distinct from any unofficial establishment and from any other official establishment, except an establishment preparing products under the FMIA, the PPIA, or the EPIA, or under State fish inspection requirements and authorities that are deemed to be at least equal to those provided under the FMIA. Further, doorways, or other openings, may be permitted between establishments at the discretion of the Administrator and under such conditions as he may prescribe. An official establishment that is not separate and distinct from another official or unofficial establishment must ensure that no sanitary hazards are created by the lack of separation.

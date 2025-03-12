@@ -1,0 +1,27 @@
+##### § 77.35 Interstate movement from accredited herds. #####
+
+(a) *Qualifications.* To be recognized as an accredited herd:
+
+(1) All captive cervids in the herd eligible for testing in accordance with § 77.33(f) must have tested negative to at least two consecutive official tuberculosis tests, conducted at 9-15 month intervals. However, captive cervids under 1 year of age that are not natural additions to the herd do not have to be tested if they were born in and originate from an accredited herd.
+
+(2) The owner of the herd must have a document issued by cooperating State or Federal animal health officials stating that the herd has met the requirements in paragraph (a)(1) of this section and is classified as an accredited herd.
+
+(b) *Movement allowed.* Except as provided in § 77.23 with regard to captive cervids that originate in an accredited-free State or zone, and except as provided in § 77.31 with regard to captive cervids that originate in a nonaccredited State or zone, a captive cervid from an accredited herd may be moved interstate without further tuberculosis testing only if it is officially identified and is accompanied by an ICVI, as provided in § 77.32(c), that includes a statement that the captive cervid is from an accredited herd. If a group of captive cervids from an accredited herd is being moved interstate together to the same destination, all captive cervids in the group may be moved under one ICVI.
+
+(c) *Herd additions allowed.* No captive cervid may be added to an accredited herd except in accordance with paragraphs (c)(4) and (c)(5), and either paragraph (c)(1), (c)(2), or (c)(3) of this section, as follows:
+
+(1) The captive cervid to be added must be moved directly from an accredited herd;
+
+(2) The captive cervid to be added must be moved directly from a qualified or monitored herd and must have tested negative to an official tuberculosis test conducted within 90 days prior to movement to the premises of the accredited herd. Any captive cervid moved from a qualified or monitored herd must also be isolated from all members of the accredited herd until it tests negative to an official tuberculosis test conducted at least 90 days following the date of arrival at the premises of the accredited herd. If a group of captive cervids is being moved together, the entire group must be isolated from all other livestock during the testing period, but captive cervids in the group need not be isolated from each other during that period. Such herd additions will not receive status as members of the accredited herd for purposes of interstate movement until they have tested negative to an official tuberculosis test and have been released from isolation; or
+
+(3) If the captive cervid to be added is not being moved directly from a classified herd, the captive cervid must be isolated from all other members of the herd of origin and must test negative to two official tuberculosis tests. The isolation must begin at the time of the first official tuberculosis test. The tests must be conducted at least 90 days apart, and the second test must be conducted within 90 days prior to movement to the premises of the accredited herd. The captive cervid must also be isolated from all members of the accredited herd until it tests negative to an official tuberculosis test conducted at least 90 days following the date of arrival at the premises of the accredited herd. If a group of captive cervids is being moved together, the entire group must be isolated from all other animals during the testing period, but captive cervids in the group need not be isolated from each other during that period. Such herd additions will not receive status as members of the accredited herd for purposes of interstate movement until they have tested negative to an official tuberculosis test and have been released from isolation.
+
+(4) A captive cervid to be added must not have been exposed during the 90 days prior to its movement to either:
+
+(i) A captive cervid from a herd with a lower classification status than its own; or
+
+(ii) Any tuberculous livestock.
+
+(d) *Maintenance of accredited herd status.* To maintain status as an accredited herd, the herd must test negative to an official tuberculosis test within 33-39 months from the anniversary date of the second consecutive test with no evidence of tuberculosis disclosed (that is, the test on which the herd was recognized as accredited or the accrediting test). Each time the herd is tested for reaccreditation, it must be tested 33-39 months from the anniversary date of the accrediting test, not from the last date of reaccreditation (for example, if a herd is accredited on January 1 of a given year, the anniversary date will be January 1 of every third year). Accredited herd status is valid for 36 months (1,095 days) from the anniversary date of the accrediting test. If the herd is tested between 36 and 39 months after the anniversary date, its accredited herd status will be suspended for the interim between the anniversary date and the reaccreditation test. During the suspension period, the herd will be considered “unclassified” and captive cervids may be moved interstate from the herd only in accordance with the movement requirements for the State or zone in which the herd is located.
+
+[65 FR 63517, Oct. 23, 2000, as amended at 71 FR 24806, Apr. 27, 2006; 78 FR 2067, Jan. 9, 2013]

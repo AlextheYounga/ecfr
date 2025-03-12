@@ -1,0 +1,3 @@
+##### § 78.3 Handling in transit of cattle and bison moved interstate. #####
+
+Cattle and bison moving interstate, except cattle and bison moved directly to a recognized slaughtering establishment, approved intermediate handling facility, or quarantined feedlot, shall be moved only in a means of conveyance which has been cleaned in accordance with §§ 71.5, 71.7, 71.10, and 71.11 of this chapter and, if unloaded in the course of such movement, shall be handled only in pens cleaned in accordance with the provisions of §§ 71.4, 71.7, 71.10, and 71.11 of this chapter.

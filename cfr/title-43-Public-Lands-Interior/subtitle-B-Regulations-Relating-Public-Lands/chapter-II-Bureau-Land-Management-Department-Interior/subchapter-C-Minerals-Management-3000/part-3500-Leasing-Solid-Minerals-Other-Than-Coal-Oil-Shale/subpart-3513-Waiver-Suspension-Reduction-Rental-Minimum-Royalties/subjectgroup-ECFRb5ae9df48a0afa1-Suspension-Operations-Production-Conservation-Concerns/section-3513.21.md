@@ -1,0 +1,3 @@
+##### § 3513.21 What is the effect of a suspension of operations and production (conservation concerns)? #####
+
+BLM will extend your lease term by any periods of suspension of operations and production (conservation concerns). We will reduce the minimum annual production requirements of your lease proportionately for that time during a lease year in which a suspension of operations and production is effective. You do not have to pay rental and minimum annual production royalties starting with the first day of the next lease month after the suspension becomes effective. However, if the suspension is effective on the first day of the lease month, you may stop paying rentals and royalties that same day.

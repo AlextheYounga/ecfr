@@ -1,0 +1,3 @@
+##### § 404.35 Is there a different non-Federal cost-share requirement for feasibility studies that involve a community greater than 50,000 inhabitants? #####
+
+Yes. If the feasibility study involves a rural water supply system that will serve a community with a population in excess of 50,000 inhabitants, pursuant to the exception provided in § 404.8, you may be required to pay more than 50 percent of the costs of the study. Determination of the appropriate amount of the non-Federal cost-share will be based on the same criteria used to evaluate your capability to pay the non-Federal share of construction costs, set forth in § 404.39.

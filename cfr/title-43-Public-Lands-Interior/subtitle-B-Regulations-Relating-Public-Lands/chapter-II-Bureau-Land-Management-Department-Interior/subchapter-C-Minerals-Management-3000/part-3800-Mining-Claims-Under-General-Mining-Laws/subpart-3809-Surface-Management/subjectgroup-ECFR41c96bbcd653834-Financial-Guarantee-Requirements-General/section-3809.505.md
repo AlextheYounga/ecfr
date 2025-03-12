@@ -1,0 +1,5 @@
+##### § 3809.505 How do the financial guarantee requirements of this subpart apply to my existing plan of operations? #####
+
+For each plan of operations approved before January 20, 2001, for which you or your predecessor in interest posted a financial guarantee under the regulations in force before that date, you must post a financial guarantee according to the requirements of this subpart no later than November 20, 2001, at the local BLM office with jurisdiction over the lands involved. You do not need to post a new financial guarantee if your existing financial guarantee satisfies this subpart. If you are conducting operations under a plan of operations approved before January 20, 2001, but you have not provided a financial guarantee, you must post a financial guarantee under § 3809.551 by September 13, 2001.
+
+[66 FR 32575, June 15, 2001]

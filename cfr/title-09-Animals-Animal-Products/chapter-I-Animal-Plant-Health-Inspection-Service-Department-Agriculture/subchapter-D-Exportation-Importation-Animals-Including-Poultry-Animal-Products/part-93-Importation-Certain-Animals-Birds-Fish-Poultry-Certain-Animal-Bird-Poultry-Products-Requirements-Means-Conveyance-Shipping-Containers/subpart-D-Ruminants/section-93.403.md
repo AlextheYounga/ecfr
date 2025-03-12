@@ -1,0 +1,17 @@
+##### § 93.403 Ports designated for the importation of ruminants. #####
+
+(a) *Air and ocean ports.* The following ports have APHIS inspection and quarantine facilities necessary for quarantine stations and all ruminants shall be entered into the United States through these stations, except as provided in paragraphs (b), (c), (d), (e), and (f) of this section; Miami, Florida; and Newburgh, New York.
+
+(b) *Canadian border ports.* The following land border ports are designated as having the necessary inspection facilities for the entry of ruminants from Canada: Eastport, Idaho; Houlton and Jackman, Maine; Detroit, Port Huron, and Sault Ste. Marie, Michigan; Baudette, Minnesota; Opheim, Raymond, and Sweetgrass, Montana; Alexandria Bay, Buffalo, and Champlain, New York; Dunseith, Pembina, and Portal, North Dakota; Derby Line and Highgate Springs, Vermont; Oroville and Sumas, Washington.
+
+(c) *Mexican border ports.* The following land border ports are designated as having the necessary inspection facilities for the entry of ruminants from Mexico: Brownsville, Hidalgo, Laredo, Eagle Pass, Del Rio, and Presidio, Texas: Douglas, Naco, Nogales, Sasabe, and San Luis, Arizona; Calexico and San Ysidro, California; and Antelope Wells, Columbus, and Santa Teresa, New Mexico.
+
+(d) *Special ports.* Charlotte Amalie, St. Thomas, and Christiansted, St. Croix, in the United States Virgin Islands, are hereby designated as quarantine stations for the entry of ruminants from the British Virgin Islands into the United States Virgin Islands for immediate slaughter.
+
+(e) *Limited ports.* The following ports are designated as having inspection facilities for the entry of ruminants and ruminant products such as ruminant test specimens which do not appear to require restraint and holding inspection facilities: Anchorage and Fairbanks, Alaska; San Diego, California; Jacksonville, St. Petersburg-Clearwater, and Tampa, Florida; Atlanta, Georgia; Honolulu, Hawaii, Chicago, Illinois; New Orleans, Louisiana; Portland, Maine; Baltimore, Maryland; Boston, Massachusetts; Minneapolis, Minnesota; Great Falls, Montana; Portland, Oregon; San Juan, Puerto Rico; Memphis, Tennessee (no live animals); El Paso, Galveston, and Houston, Texas; and Seattle, Spokane, and Tacoma, Washington.
+
+(f) *Designation of other ports.* The Secretary of the Treasury has approved the designation as quarantine stations of the ports specified in this section. In special cases other ports may be designated as quarantine stations under this section by the Administrator, with the concurrence of the Secretary of the Treasury.
+
+(g) *Ports and privately owned quarantine facilities.* Ruminants may be imported into the United States at any port specified in paragraph (a) of this section, or at any other port designated as an international port or airport by the Bureau of Customs and Border Protection, and quarantined at an APHIS-approved privately owned quarantine facility, provided the applicable provisions of §§ 93.401, 93.404(a), 93.407, 93.408, and 93.412 are met.
+
+[55 FR 31495, Aug. 2, 1990, as amended at 57 FR 2010, Jan. 17, 1992; 58 FR 38283, July 16, 1993; 60 FR 16045, Mar. 29, 1995; 60 FR 25120, May 11, 1995. Redesignated and amended at 62 FR 56012, 56017, Oct. 28, 1997; 64 FR 23179, Apr. 30, 1999; 65 FR 38178, June 20, 2000; 67 FR 68022, Nov. 8, 2002; 71 FR 29773, May 24, 2006]

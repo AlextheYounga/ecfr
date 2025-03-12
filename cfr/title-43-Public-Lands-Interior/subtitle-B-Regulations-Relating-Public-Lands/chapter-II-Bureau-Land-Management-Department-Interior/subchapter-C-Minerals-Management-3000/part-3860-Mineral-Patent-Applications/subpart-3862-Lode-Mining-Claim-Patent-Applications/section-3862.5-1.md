@@ -1,0 +1,3 @@
+##### § 3862.5-1 Allowance of entry; transfers subsequent to application not recognized. #####
+
+No entry will be allowed until the authorized officer has satisfied himself, by careful examination, that proper proofs have been filed upon the points indicated in the law and official regulations. Transfers made subsequent to the filing of the application for patent will not be considered, but entry will be allowed and patent issued in all cases in the name of the applicant for patent, the title conveyed by the patent, of course, in each instance inuring to the transferee of such applicant where a transfer has been made pending the application for patent.

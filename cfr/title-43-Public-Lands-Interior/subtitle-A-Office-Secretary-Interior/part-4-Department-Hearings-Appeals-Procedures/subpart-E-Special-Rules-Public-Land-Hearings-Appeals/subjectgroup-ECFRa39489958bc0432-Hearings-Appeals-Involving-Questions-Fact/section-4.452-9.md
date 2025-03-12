@@ -1,0 +1,3 @@
+##### § 4.452-9 Appeal to Board. #####
+
+Any party, including the Government, adversely affected by the decision of the administrative law judge may appeal to the Board as provided in § 4.410, and the general rules in Subpart B of this part. No further hearing will be allowed in connection with the appeal to the Board but the Board, after considering the evidence, may remand any case for further hearing if it considers such action necessary to develop the facts.

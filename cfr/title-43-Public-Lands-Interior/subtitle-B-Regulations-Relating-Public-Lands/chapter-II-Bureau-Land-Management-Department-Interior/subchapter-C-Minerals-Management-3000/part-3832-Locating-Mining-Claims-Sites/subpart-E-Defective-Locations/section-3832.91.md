@@ -1,0 +1,5 @@
+##### § 3832.91 How do I amend a mining claim or site location if it exceeds the size limitations? #####
+
+(a) You may correct defects in your location of a mining claim, mill site, or tunnel site by filing an amended notice of location (see § 3833.20 of this chapter on conditions allowing amendments and how to record them.)
+
+(b) For placer claims or mill sites that you located using an irregular survey or lotting of irregular sections, you may use the “Rule of Approximation” to determine allowable acreage. The Rule of Approximation applies only to surveyed public lands. It was developed to determine maximum allowable acreage for land entries (placer claims in this part) where the excess acreage is less than the difference would be if the smallest legal subdivision is excluded from the location or entry. In no case may you use the rule to obtain more acreage than allowed under the applicable law. (See *Henry C. Tingley,* 8 Pub. Lands Dec. 205 (1889)).

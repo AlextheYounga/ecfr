@@ -1,0 +1,3 @@
+##### § 3273.10 When do I need a site license for a utilization facility? #####
+
+You must obtain a site license approved by BLM, unless your facility will be located on lands leased as described in § 3273.11. Do not start building or testing your utilization facility on public lands leased for geothermal resources until BLM has approved both your facility construction permit (see § 3272.14) and your site license. The facility operator must apply for the license.

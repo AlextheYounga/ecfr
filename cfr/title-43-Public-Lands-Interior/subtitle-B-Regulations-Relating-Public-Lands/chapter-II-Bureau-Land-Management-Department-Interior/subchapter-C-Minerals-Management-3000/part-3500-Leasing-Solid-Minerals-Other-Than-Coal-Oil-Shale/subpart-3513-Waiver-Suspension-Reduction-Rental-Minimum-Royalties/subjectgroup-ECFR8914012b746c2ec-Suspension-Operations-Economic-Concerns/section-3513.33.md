@@ -1,0 +1,3 @@
+##### § 3513.33 When will my suspension of operations (economic concerns) take effect? #####
+
+Your suspension will be effective on the date BLM specifies. You do not have to pay royalty on minimum annual production beginning on the first day of the next lease month after the suspension becomes effective. If the effective date is the first of the month, you may stop paying royalty on minimum annual production on that day.

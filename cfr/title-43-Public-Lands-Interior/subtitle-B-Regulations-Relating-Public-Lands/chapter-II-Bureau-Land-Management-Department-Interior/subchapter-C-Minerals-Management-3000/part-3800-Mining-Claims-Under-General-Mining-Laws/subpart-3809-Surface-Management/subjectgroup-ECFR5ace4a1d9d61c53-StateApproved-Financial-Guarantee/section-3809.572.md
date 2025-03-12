@@ -1,0 +1,3 @@
+##### § 3809.572 What happens if BLM rejects a financial instrument in my State-approved financial guarantee? #####
+
+If BLM rejects a submitted financial instrument in an existing State-approved financial guarantee, BLM will notify you and the State in writing, with a complete explanation of the reasons for the rejection within 30 calendar days of BLM's receipt of the evidence of State-approved financial guarantee. You must provide BLM with a financial guarantee acceptable under this subpart at least equal to the amount of the rejected financial instrument.

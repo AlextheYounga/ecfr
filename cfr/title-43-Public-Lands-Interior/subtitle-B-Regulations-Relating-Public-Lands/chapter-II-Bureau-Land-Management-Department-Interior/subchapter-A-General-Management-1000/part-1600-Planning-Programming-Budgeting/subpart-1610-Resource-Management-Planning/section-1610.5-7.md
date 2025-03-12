@@ -1,0 +1,11 @@
+##### § 1610.5-7 Situations where action can be taken based on another agency's plan, or a land use analysis. #####
+
+These regulations authorize the preparation of a resource management plan for whatever public land interests exist in a given land area. There are situations of mixed ownership where the public land estate is under non-Federal surface, or administration of the land is shared by the Bureau of Land Management with another Federal agency. The Field Manager may use the plans or the land use analysis of other agencies when split or shared estate conditions exist in any of the following situations:
+
+(a) Another agency's plan (Federal, State, or local) may be used as a basis for an action only if it is comprehensive and has considered the public land interest involved in a way comparable to the manner in which it would have been considered in a resource management plan, including the opportunity for public participation.
+
+(b) After evaluation and review, the Bureau of Land Management may adopt another agency's plan for continued use as a resource management plan if an agreement is reached between the Bureau of Land Management and the other agency to provide for maintenance and amendment of the plan, as necessary, to comply with law and policy applicable to public lands.
+
+(c) A land use analysis may be used to consider a coal lease when there is no Federal ownership interest in the surface or when coal resources are insufficient to justify plan preparation costs. The land use analysis process, as authorized by the Federal Coal Leasing Amendments Act, consists of an environmental assessment or impact statement, public participation as required by § 1610.2 of this title, the consultation and consistency determinations required by § 1610.3 of this title, the protest procedure prescribed by § 1610.5-2 of this title and a decision on the coal lease proposal. A land use analysis meets the planning requirements of section 202 of the Federal Land Policy and Management Act. The decision to approve the land use analysis and to lease coal is made by the Departmental official who has been delegated the authority to issue coal leases.
+
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]

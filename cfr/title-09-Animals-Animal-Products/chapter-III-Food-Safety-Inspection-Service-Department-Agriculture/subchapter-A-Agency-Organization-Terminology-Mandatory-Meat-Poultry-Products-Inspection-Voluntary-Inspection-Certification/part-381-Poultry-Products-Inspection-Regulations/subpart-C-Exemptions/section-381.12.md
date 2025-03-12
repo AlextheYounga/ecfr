@@ -1,0 +1,3 @@
+##### § 381.12 Effect of religious dietary laws exemptions on other persons. #####
+
+Whenever a slaughterer or processor is granted an exemption under § 381.11 with respect to the slaughtering or processing of any poultry or poultry products under this part, under specified conditions, the sale, offer for sale, transportation and other handling in commerce by any person of such poultry and poultry products in accordance with such conditions is hereby authorized, except as restricted by the Act.

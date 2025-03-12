@@ -1,0 +1,3 @@
+##### § 3503.16 May I obtain permits or leases for sand and gravel in Nevada under the terms of this part? #####
+
+You may not get new leases or permits under these regulations; BLM will consider any new applications for sand and gravel under the regulations at part 3600 of this chapter. Also, beginning January 1, 2000, BLM will not renew any existing sand and gravel lease for certain lands the United States received under an exchange with the State of Nevada.

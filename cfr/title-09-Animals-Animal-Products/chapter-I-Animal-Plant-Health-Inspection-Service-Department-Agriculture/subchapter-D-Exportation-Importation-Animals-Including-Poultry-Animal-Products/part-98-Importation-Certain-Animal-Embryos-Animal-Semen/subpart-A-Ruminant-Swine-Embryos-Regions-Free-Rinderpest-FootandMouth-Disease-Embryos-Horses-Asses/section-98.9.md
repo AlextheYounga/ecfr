@@ -1,0 +1,5 @@
+##### § 98.9 Embryos refused entry. #####
+
+Any embryo refused entry into the United States for noncompliance with the requirements of this subpart shall be removed from the United States within a time period specified by the Administrator or abandoned by the importer for destruction, and pending such action shall be subject to such safeguards as the inspector determines necessary to prevent the possible introduction into the United States of infectious animal diseases. If such embryo is not removed from the United States within such time period, or abandoned for destruction, it may be seized, destroyed, or otherwise disposed of as the inspector determines necessary to prevent the possible introduction into the United States of infectious animal diseases.
+
+[50 FR 43563, Oct. 25, 1985, as amended at 56 FR 55809, Oct. 30, 1991; 57 FR 29194, July 1, 1992]

@@ -1,0 +1,5 @@
+##### § 3486.2 Notices and orders. #####
+
+(a) *Address of responsible party.* Before beginning operations, the operator/lessee shall inform the authorized officer in writing of the operator/lessee's post office address and the name and post office address of the superintendent or designated agent who will be in charge of the operations and who will act as the local representative of the operator/lessee. Thereafter, the authorized officer shall be informed of any changes.
+
+(b) *Receipt of notices and orders.* The operator/lessee shall be construed to have received all notices and orders that are mailed by certified mail, return receipt requested, to the mine office or handed to a responsible official connected with the mine or exploration site for transmittal to the operator/lessee or his local representative.

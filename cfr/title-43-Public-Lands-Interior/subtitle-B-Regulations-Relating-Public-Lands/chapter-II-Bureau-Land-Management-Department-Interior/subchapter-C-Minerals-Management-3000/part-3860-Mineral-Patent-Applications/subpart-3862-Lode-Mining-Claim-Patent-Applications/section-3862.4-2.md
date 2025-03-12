@@ -1,0 +1,3 @@
+##### § 3862.4-2 Contents of published notice. #####
+
+The notices published as required by the preceding section must embrace all the data given in the notice posted upon the claim. In addition to such data the published notice must further indicate the locus of the claim by giving the connecting line, as shown by the field notes and plat, between a corner of the claim and a United States mineral monument or a corner of the public survey, and thence the boundaries of the claim by courses and distances.

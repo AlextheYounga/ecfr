@@ -1,0 +1,5 @@
+##### § 429.18 When do I have to pay the administrative costs? #####
+
+(a) Following the initial review, you will be notified in writing whether your application appears to be appropriate for further processing. At that time, Reclamation will give you an initial estimate of administrative costs required to continue processing your application.
+
+(b) You must pay these initial, estimated administrative costs before Reclamation can continue to process your application, unless you are granted a waiver of administrative costs under subpart F of this part. If payment is not received within 90 days after the estimate is provided to you, Reclamation may close your file. If this occurs and you later wish to proceed, you must submit both a new application and another $100 nonrefundable application fee.

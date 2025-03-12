@@ -1,0 +1,3 @@
+##### § 3715.8-1 What happens if I make false statements to BLM? #####
+
+You are subject to arrest and trial before a United States District Court if, in any matter under this subpart, you knowingly and willfully falsify, conceal or cover up by any trick, scheme or device a material fact, or make any false, fictitious or fraudulent statements or representations, or make or use any false writings or document knowing the same to contain any false, fictitious or fraudulent statement or entry. If you are convicted, you will be fined not more than $250,000 or the alternative fine provided for in the applicable provisions of 18 U.S.C. 3571, or imprisoned not more than 5 years, or both.

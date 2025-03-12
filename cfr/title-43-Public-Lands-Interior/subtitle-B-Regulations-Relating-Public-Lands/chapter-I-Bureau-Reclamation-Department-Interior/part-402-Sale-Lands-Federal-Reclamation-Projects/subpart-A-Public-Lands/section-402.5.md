@@ -1,0 +1,5 @@
+##### § 402.5 Procedures within the Department. #####
+
+(a) Before offering any land for sale under any of the statutes listed in § 402.1, the Commissioner should determine that the sale will be in the best interest of the project in which the lands are located and, if the lands sold are to be irrigated, that there is a sufficient water supply for such irrigation.
+
+(b) When a decision is made to offer lands for sale under any of the statutes listed in § 402.1: (1) The Commissioner should notify the State Supervisor of the Bureau of Land Management in whose State the lands are located, (2) a report showing the status of the lands should be obtained from the Manager of the appropriate office of the Bureau of Land Management, and (3) a report should be obtained from the Geological Survey with respect to the mineral resources of the lands. A copy of the report of the Geological Survey should be furnished to the Manager of the appropriate land office of the Bureau of Land Management for his use in preparing the final certificate.

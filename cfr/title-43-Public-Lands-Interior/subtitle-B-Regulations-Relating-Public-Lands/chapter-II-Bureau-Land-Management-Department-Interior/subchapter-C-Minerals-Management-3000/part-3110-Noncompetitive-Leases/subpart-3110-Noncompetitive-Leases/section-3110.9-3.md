@@ -1,0 +1,3 @@
+##### § 3110.9-3 Fractional present and future interest. #####
+
+Where the United States owns both a present fractional interest and a future fractional interest in the minerals in the same tract, the lease, when issued, shall cover both the present and future interests in the lands. The effective date and primary term of the present interest lease is unaffected by the vesting of a future fractional interest. The lease for the future fractional interest, when such interest vests in the United States, shall have the same primary term and anniversary date as the present fractional interest lease.

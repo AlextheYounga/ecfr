@@ -1,0 +1,5 @@
+##### § 351.17 Identification required. #####
+
+Certified technical animal fats being exported directly from a certified plant or transferred between certified plants for storage for export are subject to the requirements of § 325.11 of this chapter. In addition, such shipments between certified plants shall be accompanied by MP Form 85 (Declaration to Accompany Technical Animal Fats Between Certified Technical Animal Fat Plants)2 prepared by the operator of the certified plant from which shipment is made, certifying that the product has been obtained by rendering raw materials derived from federally or State inspected and passed carcasses, or parts of carcasses. Technical animal fat described on MP Form 85 as tallow must meet the definition of “Tallow” in § 351.2.
+
+2 Copy filed as part of the original document.

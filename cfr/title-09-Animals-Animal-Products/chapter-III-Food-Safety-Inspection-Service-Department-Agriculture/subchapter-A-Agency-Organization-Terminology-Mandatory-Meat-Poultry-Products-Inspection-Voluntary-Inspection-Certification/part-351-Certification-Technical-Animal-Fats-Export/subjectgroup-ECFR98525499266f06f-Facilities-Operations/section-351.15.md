@@ -1,0 +1,3 @@
+##### § 351.15 Reports of violations. #####
+
+Inspectors shall report to the circuit supervisor any apparent violations of the regulations in this part or the Federal Meat Inspection Act or regulations thereunder (subchapter A of this chapter) which occur at certified plants, or elsewhere, within their knowledge. The circuit supervisor shall report such actions to the Administrator through appropriate channels.

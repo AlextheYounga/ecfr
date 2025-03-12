@@ -1,0 +1,3 @@
+##### § 4.28 Interlocutory appeals. #####
+
+There shall be no interlocutory appeal from a ruling of an administrative law judge unless permission is first obtained from an Appeals Board and an administrative law judge has certified the interlocutory ruling or abused his discretion in refusing a request to so certify. Permission will not be granted except upon a showing that the ruling complained of involves a controlling question of law and that an immediate appeal therefrom may materially advance the final decision. An interlocutory appeal shall not operate to suspend the hearing unless otherwise ordered by the Board.

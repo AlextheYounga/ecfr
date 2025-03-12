@@ -1,0 +1,3 @@
+##### § 3183.3 Executed agreements. #####
+
+Where a duly executed agreement is submitted for final approval, a minimum of four signed counterparts should be filed. The number of counterparts to be filed for supplementing, modifying, or amending an existing agreement, including change of unit operator, designation of new unit operator, establishment or revision of a participating area, and termination shall be prescribed by the authorized officer.

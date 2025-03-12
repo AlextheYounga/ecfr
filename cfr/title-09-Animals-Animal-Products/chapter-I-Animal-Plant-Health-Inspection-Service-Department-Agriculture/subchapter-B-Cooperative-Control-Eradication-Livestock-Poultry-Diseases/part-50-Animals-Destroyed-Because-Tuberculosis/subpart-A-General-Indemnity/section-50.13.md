@@ -1,0 +1,5 @@
+##### § 50.13 Disinfection of premises, conveyances, and materials. #####
+
+All premises, including all structures, holding facilities, conveyances, or materials which are determined by the appropriate Veterinarian in Charge to constitute a health hazard to humans or animals because of tuberculosis shall be properly cleaned and disinfected, in accordance with procedures approved by the Department, within 15 days after the removal of tuberculosis infected or exposed livestock except that the Veterinarian in Charge, for reasons satisfactory to him, may extend the time limit for disinfection to 30 days when request for such extension is received by him prior to the expiration date of the original 15-day period allowed.
+
+[40 FR 27009, June 26, 1975, as amended at 52 FR 39614, Oct. 23, 1987; 60 FR 37809, July 24, 1995; 67 FR 7592, Feb. 20, 2002]

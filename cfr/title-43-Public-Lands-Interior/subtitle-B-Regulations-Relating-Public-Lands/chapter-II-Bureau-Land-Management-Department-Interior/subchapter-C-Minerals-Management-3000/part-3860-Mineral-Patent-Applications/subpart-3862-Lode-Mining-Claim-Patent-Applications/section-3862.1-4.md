@@ -1,0 +1,3 @@
+##### § 3862.1-4 Evidence relating to destroyed or lost records. #####
+
+In the event of the mining records in any case having been destroyed by fire or otherwise lost, a statement of the fact should be made, and secondary evidence of possessory title will be received, which may consist of the statement of the claimant, supported by those of any other parties cognizant of the facts relative to his location, occupancy, possession, improvements, etc.; and in such case of lost records, any deeds, certificates of location or purchase, or other evidence which may be in the claimant's possession and tend to establish his claim, should be filed.

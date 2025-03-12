@@ -1,0 +1,3 @@
+##### § 4.423 Subpoena power and witness provisions. #####
+
+The administrative law judge is authorized to issue subpoenas directing the attendance of witnesses at hearings to be held before him or at the taking of depositions to be held before himself or other officers, for the purpose of taking testimony but not for discovery. The issuance of subpoenas, service, attendance fees, and similar matters shall be governed by the Act of January 31, 1903 (43 U.S.C. 102-106), and 28 U.S.C. 1821.

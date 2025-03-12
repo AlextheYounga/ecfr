@@ -1,0 +1,3 @@
+##### § 404.47 How will a feasibility study be conducted under this program? #####
+
+Feasibility studies will be conducted in accordance with Reclamation's standards governing the approach, process and content of the feasibility study, including the Principles and Guidelines (incorporated by reference at § 404.4). You can obtain information about Reclamation's standards and requirements for conducting feasibility studies by contacting your local Reclamation office.

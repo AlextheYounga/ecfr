@@ -1,0 +1,5 @@
+##### § 95.24 Bone meal for use as fertilizer or as feed for domestic animals; requirements for entry. #####
+
+Steamed or degelatinized or special steamed bone meal, which, in the normal process of manufacture, has been prepared by heating bone under a minimum of 20 pounds steam pressure for at least one hour at a temperature of not less than 250 °Fahrenheit (121 °Centigrade), may be imported without further restrictions for use as fertilizer or as feed for domestic animals if such products are free from pieces of bone, hide, flesh, and sinew and contain no more than traces of hair and wool. Bone meal for use as fertilizer or as feed for domestic animals which does not meet these requirements will not be eligible for entry.
+
+[28 FR 5981, June 13, 1963. Redesignated at 78 FR 73003, Dec. 4, 2013]

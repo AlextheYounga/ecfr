@@ -1,0 +1,5 @@
+##### § 3601.8 Public availability of information. #####
+
+(a) All data and information concerning Federal and Indian minerals that you submit under this part are subject to part 2 of this title. Part 2 of this title includes the regulations of the Department of the Interior covering the public disclosure of data and information contained in Department of the Interior records. BLM may make available for inspection certain mineral information not protected from disclosure under part 2 of this title without a Freedom of Information Act (FOIA) (5 U.S.C. 552) request.
+
+(b) When you submit data and information under this part that you believe to be exempt from public disclosure, and that you wish BLM to withhold from such disclosure, you must clearly mark each page that you believe includes confidential information. BLM will keep all data and information confidential to the extent allowed by § 2.13(c) of this title.

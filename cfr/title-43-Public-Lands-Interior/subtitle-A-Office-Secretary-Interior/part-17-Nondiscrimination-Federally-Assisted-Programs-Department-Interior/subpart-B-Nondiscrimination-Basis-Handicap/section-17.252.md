@@ -1,0 +1,3 @@
+##### § 17.252 Education of institutionalized persons. #####
+
+A recipient that operates or supervises a program or activity that provides aid, benefits, or services for persons who are institutionalized because of handicap shall ensure that each qualified handicapped person, as defined in § 17.202(d)(2), in its program or activity is provided an appropriate education, as defined in the regulation set forth by the Department of Education at 34 CFR 104.33(b). Nothing in this section shall be interpreted as altering in any way the obligations of recipients under § 17.216.

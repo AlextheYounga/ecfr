@@ -1,0 +1,3 @@
+##### § 14.2 Filing of petitions. #####
+
+Under the Administrative Procedure Act, any person may petition for the issuance, amendment, or repeal of a rule (5 U.S.C. 553(e)). The petition will be addressed to the Secretary of the Interior, U.S. Department of the Interior, Washington, DC 20240. It will identify the rule requested to be repealed or provide the text of a proposed rule or amendment and include reasons in support of the petition.

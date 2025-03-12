@@ -1,0 +1,3 @@
+##### § 10010.1 Purpose. #####
+
+This Subpart establishes the Commission's policies for complying with Title 1 of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321-4347) (NEPA); Section 2 of Executive Order 11514, Protection and Enhancement of Environmental Quality, as amended by Executive Order 11991; and the regulations of the Council on Environmental Quality (CEQ) implementing the procedural provisions of NEPA (40 CFR parts 1500 through 1508).

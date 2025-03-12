@@ -1,0 +1,3 @@
+##### § 3213.12 May BLM accept a partial relinquishment if it will reduce my lease to less than 640 acres? #####
+
+Except for direct use leases, lands remaining in your lease must contain at least 640 acres, or all of your leased lands must be in one section, whichever is less. Otherwise, we will not accept your partial relinquishment. BLM will only allow an exception if it will further development of the resource. The size of direct use leases is addressed in § 3205.07.

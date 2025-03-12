@@ -1,0 +1,5 @@
+##### § 592.24 Basis of service. #####
+
+(a) Products shall be inspected in accordance with such standards, methods, and instructions as may be issued or approved by the Administrator. All service shall be subject to supervision at all times by the applicable FSIS designated supervisor. Whenever the supervisor of an inspection program person has evidence that such inspection program employee incorrectly inspected a product, such supervisor shall take such action as is necessary to correct the inspection and to cause any improper official identification that appears on the product or containers thereof to be corrected prior to shipment of the product from the place of the initial inspection.
+
+(b) Whenever service is performed on a sample basis, such sample shall be drawn in accordance with the instructions as issued by the Administrator.

@@ -1,0 +1,3 @@
+##### § 3182.1 Qualifications of unit operator. #####
+
+A unit operator must qualify as to citizenship in the same manner as those holding interests in Federal oil and gas leases under the regulations at subpart 3102 of this title. The unit operator may be an owner of a working interest in the unit area or such other party as may be selected by the owners of working interests. The unit operator shall execute an acceptance of the duties and obligations imposed by the agreement. No designation of or change in a unit operator will become effective until approved by the authorized officer, and no such approval will be granted unless the successor unit operator is deemed qualified to fulfill the duties and obligations prescribed in the agreement.

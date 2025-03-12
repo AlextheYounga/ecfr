@@ -1,0 +1,17 @@
+##### § 3.78 0utdoor housing facilities. #####
+
+(a) *Acclimation.* Only nonhuman primates that are acclimated, as determined by the attending veterinarian, to the prevailing temperature and humidity at the outdoor housing facility during the time of year they are at the facility, and that can tolerate the range of temperatures and climatic conditions known to occur at the facility at that time of year without stress or discomfort, may be kept in outdoor facilities.
+
+(b) *Shelter from the elements.* Outdoor housing facilities for nonhuman primates must provide adequate shelter from the elements at all times. It must provide protection from the sun, rain, snow, wind, and cold, and from any weather conditions that may occur. The shelter must safely provide heat to the nonhuman primates to prevent the ambient temperature from falling below 45 °F (7.2 °C), except as directed by the attending veterinarian and in accordance with generally accepted professional and husbandry practices.
+
+(c) *Capacity: multiple shelters.* The shelter must be sufficiently large to comfortably provide protection for each nonhuman primate housed in the facility. If aggressive or dominant animals are housed in the facility with other animals there must be multiple shelters, or other means to ensure protection for each nonhuman primate housed in the facility.
+
+(d) *Perimeter fence.* On and after February 15, 1994, an outdoor housing facility must be enclosed by a fence that is of sufficient height to keep unwanted species out. Fences less than 6 feet high must be approved by the Administrator. The fence must be constructed so that it protects nonhuman primates by restricting unauthorized humans, and animals the size of dogs, skunks, and raccoons from going through it or under it and having contact with the nonhuman primates. It must be of sufficient distance from the outside wall or fence of the primary enclosure to prevent physical contact between animals inside the enclosure and outside the perimeter fence. Such fences less than 3 feet in distance from the primary enclosure must be approved by the Administrator. A perimeter fence is not required if:
+
+(1) The outside walls of the primary enclosure are made of a sturdy, durable material such as concrete, wood, plastic, metal, or glass, and are high enough and constructed in a manner that restricts contact with or entry by humans and animals that are outside the housing facility; or
+
+(2) The housing facility is surrounded by a natural barrier that restricts the nonhuman primates to the housing facility and protects them from contact with unauthorized humans and animals that are outside the housing facility, and the Administrator gives written permission.
+
+(e) *Public barriers.* Fixed public exhibits housing nonhuman primates, such as zoos, must have a barrier between the primary enclosure and the public at any time the public is present, in order to restrict physical contact between the public and the nonhuman primates. Nonhuman primates used in trained animal acts or in uncaged public exhibits must be under the direct control and supervision of an experienced handler or trainer at all times when the public is present. Trained nonhuman primates may be allowed physical contact with the public, but only if they are under the direct control and supervision of an experienced handler or trainer at all times during the contact.
+
+(Approved by the Office of Management and Budget under control number 0579-0093)

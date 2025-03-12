@@ -1,0 +1,3 @@
+##### § 3862.4-6 Payment of purchase price and statement of charges and fees. #####
+
+Upon the filing of the statement required by the preceding section, the authorized officer will, if no adverse claim was filed in his office during the period of publication, and no other objection appears, permit the claimant to pay for the land to which he is entitled at the rate of $5 for each acre and $5 for each fractional part of an acre, except as otherwise provided by law, issuing the usual receipt therefor. The claimant will also make a statement of all charges and fees paid by him for publication and surveys, together with all fees and money paid the authorized officer of the proper office, and a patent shall be issued thereon if found regular.

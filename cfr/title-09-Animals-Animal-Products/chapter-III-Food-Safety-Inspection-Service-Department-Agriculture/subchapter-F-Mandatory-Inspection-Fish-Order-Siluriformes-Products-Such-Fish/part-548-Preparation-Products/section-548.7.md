@@ -1,0 +1,3 @@
+##### § 548.7 Use of new animal drugs. #####
+
+Edible tissues of fish with residues exceeding tolerance levels specified in 21 CFR part 556 or established in an import tolerance under 21 U.S.C. 360b(a)(6) are adulterated within the meaning of section 402(a)(2)(C)(ii) of the Federal Food, Drug, and Cosmetic Act because they bear or contain a new animal drug that is unsafe within the meaning of section 512 of the Federal Food, Drug, and Cosmetic Act.

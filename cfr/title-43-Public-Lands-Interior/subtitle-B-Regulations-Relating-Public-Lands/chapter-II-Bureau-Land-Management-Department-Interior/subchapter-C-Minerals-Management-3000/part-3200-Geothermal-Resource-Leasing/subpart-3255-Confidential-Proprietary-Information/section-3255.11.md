@@ -1,0 +1,3 @@
+##### § 3255.11 When I submit confidential, proprietary information, how can I help ensure it is not available to the public? #####
+
+When you submit data and information that you believe to be exempt from disclosure by 43 CFR part 2, you must clearly mark each page that you believe contains confidential information. BLM will keep all data and information confidential to the extent allowed by 43 CFR 2.13(c).

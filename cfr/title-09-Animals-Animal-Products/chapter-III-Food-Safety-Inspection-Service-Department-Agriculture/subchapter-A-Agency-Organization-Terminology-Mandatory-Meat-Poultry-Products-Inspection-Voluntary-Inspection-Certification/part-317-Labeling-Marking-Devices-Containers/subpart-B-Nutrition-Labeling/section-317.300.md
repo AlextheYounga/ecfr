@@ -1,0 +1,7 @@
+##### § 317.300 Nutrition labeling of meat and meat food products. #####
+
+(a) Nutrition labeling must be provided for all meat and meat food products intended for human consumption and offered for sale, except single-ingredient, raw meat products that are not ground or chopped meat products described in § 317.301 and are not major cuts of single-ingredient, raw meat products identified in § 317.344, unless the product is exempted under § 317.400 . Nutrition labeling must be provided for the major cuts of single-ingredient, raw meat products identified in § 317.344, either in accordance with the provisions of § 317.309 for nutrition labels, or in accordance with the provisions of § 317.345 for point-of-purchase materials, except as exempted under § 317.400. For all other products for which nutrition labeling is required, including ground or chopped meat products described in § 317.301, nutrition labeling must be provided in accordance with the provisions of § 317.309, except as exempted under § 317.400.
+
+(b) Nutrition labeling may be provided for single-ingredient, raw meat products that are not ground or chopped meat products described in § 317.301 and that are not major cuts of single-ingredient, raw meat products identified in § 317.344, either in accordance with the provisions of § 317.309 for nutrition labels, or in accordance with the provisions of § 317.345 for point-of-purchase materials.
+
+[75 FR 82164, Dec. 29, 2010]

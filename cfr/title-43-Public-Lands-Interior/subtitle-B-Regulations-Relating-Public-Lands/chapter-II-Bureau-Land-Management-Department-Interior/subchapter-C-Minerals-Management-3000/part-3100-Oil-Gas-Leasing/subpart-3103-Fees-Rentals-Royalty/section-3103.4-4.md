@@ -1,0 +1,15 @@
+##### § 3103.4-4 Suspension of operations and/or production. #####
+
+(a) A suspension of all operations and production may be directed or consented to by the authorized officer only in the interest of conservation of natural resources. A suspension of operations only or a suspension of production only may be directed or consented to by the authorized officer in cases where the lessee is prevented from operating on the lease or producing from the lease, despite the exercise of due care and diligence, by reason of *force majeure,* that is, by matters beyond the reasonable control of the lessee. Applications for any suspension shall be filed in the proper BLM office. Complete information showing the necessity of such relief shall be furnished.
+
+(b) The term of any lease shall be extended by adding thereto the period of the suspension, and no lease shall be deemed to expire during any suspension.
+
+(c) A suspension shall take effect as of the time specified in the direction or assent of the authorized officer, in accordance with the provisions of § 3165.1 of this title.
+
+(d) Rental and minimum royalty payments shall be suspended during any period of suspension of all operations and production directed or assented to by the authorized officer beginning with the first day of the lease month in which the suspension of all operations and production becomes effective, or if the suspension of all operations and production becomes effective on any date other than the first day of a lease month, beginning with the first day of the lease month following such effective date. Rental and minimum royalty payments shall resume on the first day of the lease month in which the suspension of all operations and production is terminated. Where rentals are creditable against royalties and have been paid in advance, proper credit shall be allowed on the next rental or royalty due under the terms of the lease. Rental and minimum royalty payments shall not be suspended during any period of suspension of operations only or suspension of production only.
+
+(e) Where all operations and production are suspended on a lease on which there is a well capable of producing in paying quantities and the authorized officer approves resumption of operations and production, such resumption shall be regarded as terminating the suspension, including the suspension of rental and minimum royalty payments, as provided in paragraph (d) of this section.
+
+(f) The relief authorized under this section also may be obtained for any Federal lease included within an approved unit or cooperative plan of development and operation. Unit or cooperative plan obligations shall not be suspended by relief obtained under this section but shall be suspended only in accordance with the terms and conditions of the specific unit or cooperative plan.
+
+[53 FR 17354, May 16, 1988. Redesignated at 61 FR 4750, Feb. 8, 1996]

@@ -1,0 +1,3 @@
+##### § 429.25 How long do I have to submit my payment for the use fee and accept the offered use authorization? #####
+
+You have 90 days to accept and return the use authorization and required fees, otherwise Reclamation may consider the offer to be rejected by you and your file may be closed. If this occurs and you later wish to proceed, you must submit a new application and another $100 nonrefundable application fee. You may not commence your use of Reclamation's land, facilities, or waterbodies until Reclamation has issued a use authorization to you. A use authorization will only be issued upon receipt by Reclamation of all required costs and fees, and the use authorization signed by you.

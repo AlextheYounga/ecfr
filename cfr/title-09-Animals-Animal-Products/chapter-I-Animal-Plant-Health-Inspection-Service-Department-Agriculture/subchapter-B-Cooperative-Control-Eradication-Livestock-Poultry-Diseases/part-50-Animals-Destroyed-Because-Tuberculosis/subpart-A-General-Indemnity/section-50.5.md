@@ -1,0 +1,5 @@
+##### § 50.5 Record of tests. #####
+
+When any cattle, bison, or captive cervid in a herd is classified by an APHIS or State representative or accredited veterinarian as a reactor to a test for tuberculosis, a complete test record shall be made for such herd, including the reactor tag number of each reacting animal and the registration name and number of each reacting registered animal. VS Form 6-22 or an equivalent State form shall be used for the record of any herd having any reactor to a tuberculin test. A copy of the applicable test record shall be given to the owner of any such herd, and one copy of each such record shall be furnished to the appropriate State veterinarian's office.
+
+[40 FR 27009, June 26, 1975, as amended at 52 FR 39614, Oct. 23, 1987; 56 FR 36998, Aug. 2, 1991; 60 FR 37809, July 24, 1995; 63 FR 34264, June 24, 1998]

@@ -1,0 +1,3 @@
+##### § 325.14 Certificates, retention by carrier. #####
+
+All original certificates delivered to a carrier in accordance with this part shall be filed separate and apart from all its other papers and records or identified in such a manner as to be readily checked by Department employees. Every certificate required to be maintained under this part shall be retained for a period of 2 years after December 31 of the year in which the transaction has occurred.

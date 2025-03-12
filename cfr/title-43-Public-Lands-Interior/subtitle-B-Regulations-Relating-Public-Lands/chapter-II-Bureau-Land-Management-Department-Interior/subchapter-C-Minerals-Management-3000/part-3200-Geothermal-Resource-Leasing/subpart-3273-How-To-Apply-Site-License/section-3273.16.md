@@ -1,0 +1,3 @@
+##### § 3273.16 What is the annual rent for a site license? #####
+
+BLM will specify the annual rent in your license and the date you must pay it, if you are required to pay rent (see § 3273.18). Your rent will be at least $100 per acre or fraction thereof for an electrical generation facility, and at least $10 per acre or fraction thereof for a direct use facility. Send the first year's rent to BLM, and all subsequent rental payments to MMS under 30 CFR part 218.

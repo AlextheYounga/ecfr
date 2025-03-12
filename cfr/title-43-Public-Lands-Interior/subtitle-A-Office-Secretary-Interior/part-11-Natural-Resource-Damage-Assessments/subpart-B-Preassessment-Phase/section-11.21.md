@@ -1,0 +1,11 @@
+##### § 11.21 Emergency restorations. #####
+
+(a) *Reporting requirements and definition.* (1) In the event of a natural resource emergency, the natural resource trustee shall contact the National Response Center (800/424-8802) to report the actual or threatened discharge or release and to request that an immediate response action be taken.
+
+(2) An emergency is any situation related to a discharge or release requiring immediate action to avoid an irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources, or a situation in which there is a similar need for emergency action.
+
+(b) *Emergency actions.* If no immediate response actions are taken at the site of the discharge or release by the EPA or the U.S. Coast Guard within the time that the natural resource trustee determines is reasonably necessary, or if such actions are insufficient, the natural resource trustee should exercise any existing authority he may have to take on-site response actions. The natural resource trustee shall determine whether the potentially responsible party, if his identity is known, is taking or will take any response action. If no on-site response actions are taken, the natural resource trustee may undertake limited off-site restoration action consistent with its existing authority to the extent necessary to prevent or reduce the immediate migration of the oil or hazardous substance onto or into the resource for which the Federal or State agency or Indian tribe may assert trusteeship.
+
+(c) *Limitations on emergency actions.* The natural resource trustee may undertake only those actions necessary to abate the emergency situation, consistent with its existing authority. The normal procedures provided in this part must be followed before any additional restoration actions other than those necessary to abate the emergency situation are undertaken. The burden of proving that emergency restoration was required and that restoration costs were reasonable and necessary based on information available at the time rests with the natural resource trustee.
+
+[51 FR 27725, Aug. 1, 1986, as amended at 53 FR 5173, Feb. 22, 1988]

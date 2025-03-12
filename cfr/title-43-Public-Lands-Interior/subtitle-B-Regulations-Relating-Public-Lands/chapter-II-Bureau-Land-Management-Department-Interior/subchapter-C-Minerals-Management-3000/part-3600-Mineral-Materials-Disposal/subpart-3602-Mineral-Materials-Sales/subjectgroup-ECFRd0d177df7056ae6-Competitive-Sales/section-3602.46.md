@@ -1,0 +1,3 @@
+##### § 3602.46 What is the term of a competitive contract? #####
+
+The term of the contract will be in the sales notice. BLM will not issue a competitive contract for the sale of mineral materials for a term exceeding 10 years. However, the 10-year period does not include any contract extension under § 3602.27, any contract renewal under § 3602.47, and any periods for removal of equipment and improvements under § 3601.52 of this part.

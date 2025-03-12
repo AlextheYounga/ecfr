@@ -1,0 +1,3 @@
+##### § 50.43 What does it mean for the Secretary to grant a request? #####
+
+When a decision granting a request takes effect, the requester will immediately be identified as the Native Hawaiian Governing Entity (or the official name stated in that entity's governing document), the special political and trust relationship between the United States and the Native Hawaiian community will be reaffirmed, and a formal government-to-government relationship will be reestablished with the Native Hawaiian Governing Entity as the sole representative sovereign government of the Native Hawaiian community.

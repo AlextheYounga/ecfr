@@ -1,0 +1,3 @@
+##### § 3921.40 Comments from governors, local governments, and interested Indian tribes. #####
+
+After the BLM receives responses to the call for expression of leasing interest, the BLM will notify the appropriate state governor's office, local governments, and interested Indian tribes and allow them an opportunity to provide comments regarding the responses and other issues related to oil shale leasing. The BLM will only consider those comments it receives within 60 calendar days after the notification requesting comments.

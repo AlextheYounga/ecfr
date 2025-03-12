@@ -1,0 +1,7 @@
+##### § 3425.3 Environmental analysis. #####
+
+(a) Before a lease sale may be held under this subpart, the authorized officer shall prepare an environmental assessment or environmental impact statement of the proposed lease area in accordance with 40 CFR parts 1500 through 1508. BLM will publish a notice in the Federal Register, and at least once per week for two consecutive weeks in a newspaper of general circulation in the area of the sale, announcing the availability of the environmental assessment or draft environmental impact statement and the hearing required by § 3425.4(a)(1). BLM also will mail to the surface owner a notice of any lands to be offered for sale and to any person who has requested notice of sales in the area.
+
+(b) For lease applications involving lands in the National Forest System, the authorized officer shall submit the lease application to the Secretary of Agriculture for consent, for completion or consideration of an environmental assessment and for the attachment of appropriate lease stipulations, and for the making of any other findings prerequisite to lease issuance. (43 CFR 3400.3, 3461.1(a))
+
+[44 FR 42615, July 19, 1979, as amended at 47 FR 33141, July 30, 1982; 64 FR 52243, Sept. 28, 1999]

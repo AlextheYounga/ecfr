@@ -1,0 +1,5 @@
+##### § 3862.4-1 Newspaper publication. #####
+
+Upon the receipt of applications for mineral patent and accompanying papers, if no reason appears for rejecting the application, the authorized officer will, at the expense of the claimant (who must furnish the agreement of the publisher to hold applicant for patent alone responsible for charges of publication), publish a notice of such application for the period of 60 days in a newspaper published nearest to the claim. If the notice is published in a daily paper, it shall be published in the Wednesday issue for nine consecutive weeks; if weekly, in nine consecutive issues; if semiweekly or triweekly, in the issue of the same day of each week for nine consecutive weeks. In all cases the first day of issues shall be excluded in estimating the period of 60 days.
+
+[35 FR 9756, June 13, 1970, as amended at 41 FR 21642, May 27, 1976]

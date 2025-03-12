@@ -1,0 +1,13 @@
+##### § 23.9 Performance bond. #####
+
+(a)(1) Upon approval of an exploration plan or mining plan, the operator shall be required to file a suitable performance bond of not less than $2,000 with satisfactory surety, payable to the Secretary of the Interior, and the bond shall be conditioned upon the faithful compliance with applicable regulations, the terms and conditions of the permit, lease, or contract, and the exploration or mining plan as approved, amended or supplemented. The bond shall be in an amount sufficient to satisfy the reclamation requirements of an approved exploration or mining plan, or an approved partial or supplemental plan. In determining the amount of the bond consideration shall be given to the character and nature of the reclamation requirements and the estimated costs of reclamation in the event that the operator forfeits his performance bond.
+
+(2) In lieu of a performance bond an operator may elect to deposit cash or negotiable bonds of the U.S. Government. The cash deposit or the market value of such securities shall be equal at least to the required sum of the bond.
+
+(b) A bond may be a nationwide or statewide bond which the operator has filed with the Department under the provisions of the applicable leasing regulations in subchapter C of chapter II of this title, if the terms and conditions thereof are sufficient to comply with the regulations in this part.
+
+(c) The district manager shall set the amount of a bond and take the necessary action for an increase or for a complete or partial release of a bond. He shall take action with respect to bonds for leases or permits only after consultation with the mining supervisor.
+
+(d) Performance bonds will not be required of Federal, State, or other governmental agencies. Where the exploration or mining is actually performed for such Federal, State, or governmental agencies by a contractor who would have to post a bond under the terms of paragraph (a) of this section if he were the operator, such agencies shall require the contractor to furnish a bond payable to the United States which meets the requirements of paragraph (a) of this section. If, for some other purpose, the contractor furnishes a performance bond, an amendment to that bond which meets the requirements of paragraph (a) of this section will be acceptable in lieu of an additional or separate bond.
+
+[34 FR 852, Jan. 18, 1969, as amended at 35 FR 11237, July 14, 1970]

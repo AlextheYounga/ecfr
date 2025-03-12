@@ -1,0 +1,3 @@
+##### § 424.1 Purpose and scope. #####
+
+This part of the regulations prescribes rules for the preparation of meat and the processing of poultry products. The rules in this part further the purposes of the Federal Meat Inspection Act (FMIA) and the Poultry Products Inspection Act (PPIA) by, among other things, preventing the adulteration or misbranding of meat and poultry products at official establishments. 9 CFR Chapter III, Subchapter A, Parts 318 and 319, Subpart C of this part, and 21 CFR Chapter I, Subchapter A or Subchapter B, specify rules for the use of certain food ingredients (e.g., food additives and color additives) and sources of radiation that may render meat or poultry products adulterated or misbranded.

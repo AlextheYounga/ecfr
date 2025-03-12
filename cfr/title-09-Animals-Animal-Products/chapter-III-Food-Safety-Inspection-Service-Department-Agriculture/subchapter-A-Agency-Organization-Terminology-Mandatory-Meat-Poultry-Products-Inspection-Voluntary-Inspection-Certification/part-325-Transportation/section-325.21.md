@@ -1,0 +1,7 @@
+##### § 325.21 Means of conveyance in which dead, dying, disabled, or diseased livestock and parts of carcasses thereof shall be transported. #####
+
+All vehicles and other means of conveyance used by persons subject to § 325.20 for transporting in commerce or importing, any dead, dying, disabled, and diseased livestock or parts of carcasses of livestock that died otherwise than by slaughter shall be leak-proof and so constructed and equipped as to permit thorough cleaning and sanitizing. The means of conveyance so used in conveying such livestock, or parts thereof, shall be cleaned and disinfected prior to use in the transportation of any product intended for use as human food. The cleaning procedure shall include the complete removal from the means of conveyance of any fluid, parts, or product of such dead, dying, disabled, or diseased livestock and the thorough application of a disinfectant to the interior surfaces of the cargo space. Substances permitted for such use are:
+
+(a) “Liquified phenol” (U.S.P. strength 87 percent phenol) in the proportion of at least 6 fluid ounces to 1 gallon of water.
+
+(b) “Cresylic disinfectant” in the proportion of not less than 4 fluid ounces to 1 gallon of water; and such other disinfectants as are approved by the Administrator in specific cases. The use of “cresylic disinfectant” is permitted subject to the conditions prescribed in § 71.10(b) of this title.

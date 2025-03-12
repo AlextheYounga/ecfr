@@ -1,0 +1,3 @@
+##### § 1882.5-3 Limitation on amount of loans. #####
+
+Total outstanding loans under this program for qualified States or their political subdivisions shall not exceed the total amount of the qualified State's projected mineral revenues under the Act for the 10 years following. The total outstanding loans shall be the sum of the unpaid balance on all such loans made to a qualified State and all of its qualified political subdivisions.

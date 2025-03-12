@@ -1,0 +1,5 @@
+##### § 3583.3 Applications for hardrock mineral leases. #####
+
+No specific form is required. An application shall include the applicant's name and address, a statement of holdings in accordance with subpart 3502 of this title, a description of the lands in accordance with subpart 3501 of this title, and the name of the mineral for which the lease is desired. The applicant shall state whether the mineral applied for can be developed in paying quantities, stating the reasons therefor, and shall furnish such facts as are available to him/her respecting the known occurrence of the mineral, the character of such occurrence and its probable value as evidencing the existence of a workable deposit of such mineral. Each application must be filed in triplicate in the proper BLM office and must be accompanied by the filing fee for Shasta and Trinity hardrock mineral leases found in the fee schedule in § 3000.12 of this chapter.
+
+[51 FR 15213, Apr. 22, 1986, as amended at 72 FR 50888, Sept. 5, 2007]

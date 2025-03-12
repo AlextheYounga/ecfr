@@ -1,0 +1,3 @@
+##### § 4.702 Transmittal of appeal file. #####
+
+Within 10 days after receipt of a copy of the notice of appeal, the Departmental official whose action or decision is being appealed shall transmit to the Office of the Director the entire official file in the matter, including all records, documents, transcripts of testimony, and other information compiled during the proceedings leading to the decision being appealed.

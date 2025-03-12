@@ -1,0 +1,3 @@
+##### § 404.31 What forms of non-Federal cost-share payment are acceptable? #####
+
+The non-Federal cost-share for an appraisal investigation or a feasibility study may be provided in the form of money or in-kind services that Reclamation determines are necessary and reasonable for the conduct and completion of the investigation or study. The determination of allowability, allocability, and reasonableness is governed by the Cost Principles of the Office of Management and Budget, codified at 2 CFR 220, 225, and 230, and in the Federal Acquisitions Regulations, Part 312.

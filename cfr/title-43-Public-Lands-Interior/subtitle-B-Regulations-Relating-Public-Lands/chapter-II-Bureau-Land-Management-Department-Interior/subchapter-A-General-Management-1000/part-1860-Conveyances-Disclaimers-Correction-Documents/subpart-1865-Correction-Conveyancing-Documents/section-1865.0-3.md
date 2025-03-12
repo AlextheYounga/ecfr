@@ -1,0 +1,3 @@
+##### § 1865.0-3 Authority. #####
+
+Section 316 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1746) authorizes the Secretary of the Interior to correct patents and other documents of conveyance issued at any time pursuant to the laws relating to the disposal of the public lands where the Secretary of the Interior deems it necessary or appropriate to do so in order to eliminate errors.

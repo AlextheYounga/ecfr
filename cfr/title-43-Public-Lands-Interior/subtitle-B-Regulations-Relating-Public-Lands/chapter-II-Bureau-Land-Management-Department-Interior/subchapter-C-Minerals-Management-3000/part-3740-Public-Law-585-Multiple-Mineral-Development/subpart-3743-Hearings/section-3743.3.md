@@ -1,0 +1,3 @@
+##### § 3743.3 Stipulation between parties. #####
+
+If at any time prior to a hearing the person requesting publication of notice and any person filing a verified statement pursuant to such notice shall so stipulate, then to the extent so stipulated, but only to such extent, no hearing shall be held with respect to rights asserted under that verified statement, and to the extent defined by the stipulation the rights asserted under that verified statement shall be deemed to be unaffected by the notice published pursuant to that request.

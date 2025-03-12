@@ -1,0 +1,3 @@
+##### § 51.24 Maximum per-head indemnity amounts. #####
+
+Owners of the types of animals listed in § 51.22 of this subpart are eligible to receive Federal indemnity for their animals. All animals must be individually appraised to determine their fair market value. The indemnity amount will be the appraised value minus the salvage value of the animal, up to a maximum of $20,000 per animal in the case of horses. An independent appraiser selected by the Administrator will conduct appraisals. APHIS will pay the cost of appraisals.

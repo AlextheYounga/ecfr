@@ -1,0 +1,3 @@
+##### § 3205.7 How much acreage should I apply for in a direct use lease? #####
+
+You should apply for only the amount of acreage that is necessary for your intended operation. A direct use lease may not cover more than the quantity of acreage that BLM determines is reasonably necessary for the proposed use. In no case may a direct use lease exceed 5,120 acres, unless the area to be leased includes an irregular subdivision.

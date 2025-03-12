@@ -1,0 +1,5 @@
+##### § 381.119 Declaration of artificial flavoring or coloring. #####
+
+(a) When an artificial smoke flavoring or a smoke flavoring is added as an ingredient in the formula of any poultry product, there shall appear on the label, in prominent letters and contiguous to the name of the product, a statement such as “Artificial Smoke Flavoring Added” or “Smoke Flavoring Added,” as applicable, and the ingredient statement shall identify any artificial smoke flavoring or smoke flavoring added as an ingredient in the formula of the poultry product.
+
+(b) Any poultry product which bears or contains any artificial flavoring other than an artificial smoke flavoring or a smoke flavoring, or bears or contains any artificial coloring shall bear a statement stating that fact on the immediate container or, if there is none, on the product.

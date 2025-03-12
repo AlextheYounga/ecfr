@@ -1,0 +1,3 @@
+##### § 3204.15 May I withdraw my application for a noncompetitive lease? #####
+
+During the 30-day period after the competitive lease sale, BLM will only accept a withdrawal of the entire application. Following that 30-day period, you may withdraw your noncompetitive lease application in whole or in part at any time before BLM issues the lease. If a partial withdrawal causes your lease application to contain less than the minimum acreage required under § 3206.12, BLM will reject the application.

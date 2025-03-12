@@ -1,0 +1,15 @@
+##### § 381.517 Federal oversight of a cooperative interstate shipment program. #####
+
+(a) The FSIS selected establishment coordinator for a State that has entered into an agreement for a cooperative interstate shipment program will visit each selected establishment in the State on a regular basis to verify that the establishment is operating in a manner that is consistent with the Act and the implementing regulations in this chapter. The frequency with which the SEC will visit selected establishments under the SEC's jurisdiction will be based on factors that include, but are not limited to, the complexity of the operations conducted at the selected establishment, the establishment's schedule of operations, and the establishment's performance under the cooperative interstate shipment program. If necessary, the selected establishment coordinator, in consultation with the District Manager that covers the State, may designate qualified FSIS personnel to visit a selected establishment on behalf of the selected establishment coordinator.
+
+(b) The selected establishment coordinator, in coordination with the State, will verify that selected establishments in the State are receiving the necessary inspection services from designated personnel, and that these establishments are eligible, and remain eligible, to participate in a cooperative interstate shipment program. The selected establishment coordinator's verification activities may include:
+
+(1) Verifying that each selected establishment employs, and continues to employ, 25 or fewer employees, on average, as required under § 381.513(a) of this part, unless the establishment is transitioning to become an official establishment;
+
+(2) Verifying that the designated personnel are providing inspection services to selected establishments in a manner that complies with the Act and the implementing regulations in this chapter;
+
+(3) Verifying that that the State staffing levels for each selected establishments are appropriate to carry out the required inspection activities; and
+
+(4) Assessing each selected establishment's compliance with the Act and implementing regulations in this chapter.
+
+(c) If the selected establishment coordinator determines that designated personnel are providing inspection services to selected establishments in the State in a manner that is inconsistent with the Acts and the implementing regulations in this chapter, the Administrator will provide an opportunity for the State to develop and implement a corrective action plan to address inspection deficiencies identified by the selected establishment coordinator. If the State fails to develop a corrective action plan, or the selected establishment coordinator for the State determines that the corrective action plan is inadequate, the Administrator will terminate the agreement for the cooperative interstate shipment program as provided in § 381.187(d) of this part.

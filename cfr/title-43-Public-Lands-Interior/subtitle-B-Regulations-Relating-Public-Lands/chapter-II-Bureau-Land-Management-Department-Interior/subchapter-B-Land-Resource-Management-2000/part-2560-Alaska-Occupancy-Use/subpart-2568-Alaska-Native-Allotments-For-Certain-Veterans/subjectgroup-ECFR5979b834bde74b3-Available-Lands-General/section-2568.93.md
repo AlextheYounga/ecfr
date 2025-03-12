@@ -1,0 +1,3 @@
+##### § 2568.93 Is there a limit to how much water frontage my allotment can include? #####
+
+Yes, in some cases. You will normally be limited to a half-mile (referred to as 160 rods in the regulations at 43 CFR part 2094) along the shore of a navigable water body. If you apply for land that extends more than a half-mile, BLM will treat your application as a request to waive this limitation. As explained in 43 CFR 2094.2, BLM can waive the half-mile limitation if it determines the land is not needed for a harborage, wharf, or boat landing area, and that a waiver would not harm the public interest.

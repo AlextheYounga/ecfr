@@ -1,0 +1,3 @@
+##### § 27.2 Application. #####
+
+This part applies to all activities, including contracting, employment, services, financial aids, and other benefits, conducted under permits, rights-of-way, public land orders, and other Federal authorizations granted or issued under title II of the Act by recipients of those authorizations, their agents, contractors, and subcontractors at each of their facilities conducting such activities.

@@ -1,0 +1,3 @@
+##### § 2912.3 Substitution of a new lease. #####
+
+A lessee may apply for a new lease at any time. Applications for new leases shall be accompanied by consent of the lessee to cancellation of the existing lease upon the issuance of the new lease and by three copies of a statement showing (a) the need for a new lease and (b) any changes in the use or management of the lands or the terms and conditions of the lease which the applicant desires.

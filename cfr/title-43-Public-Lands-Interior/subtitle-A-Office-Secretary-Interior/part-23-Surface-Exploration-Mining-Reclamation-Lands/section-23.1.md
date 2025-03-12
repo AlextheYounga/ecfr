@@ -1,0 +1,3 @@
+##### § 23.1 Purpose. #####
+
+It is the policy of this Department to encourage the development of the mineral resources under its jurisdiction where mining is authorized. However, the public interest requires that, with respect to the exploration for, and the surface mining of, such minerals, adequate measures be taken to avoid, minimize, or correct damage to the environment—land, water, and air—and to avoid, minimize, or correct hazards to the public health and safety. The regulations in this part prescribe procedures to that end.

@@ -1,0 +1,11 @@
+##### § 351.14 Processes to be supervised; extent of examinations. #####
+
+(a) All processes used in the preparation of certified technical animal fats at any certified plant shall be subject to supervision by an inspector. Certified plants shall not prepare any technical animal fat for certification under the regulations in this part, except in accordance with such regulations.
+
+(b) Supervision, ranging from full-time coverage of an entire process to one or more reviews per month, to determine a plant's compliance with the regulations in this part will be maintained. A circuit supervisor may increase the frequency of reviews whenever he deems necessary to assure the validity of certifications under the regulations in this part. Usual coverage of individual rendering plants will be as follows:
+
+(1) Coverage shall be at least once a month if the plant consistently handles only raw materials acceptable under § 351.3 for the preparation of certified technical animal fat and the plant operator, in writing, certifies that he is maintaining this procedure.
+
+(2) Coverage shall be at least once a week if the plant consistently handles some raw materials that are acceptable, and some that are unacceptable, under § 351.3, for the preparation of certified technical animal fat, uses separate equipment for processing, and uses separate rooms, compartments, and equipment for receiving and storing the respective types of raw materials and technical animal fats, and the plant operator, in writing, certifies that he is maintaining this complete physical separation procedure.
+
+(3) Coverage shall be fulltime during receiving of raw materials and their preparation into certified technical animal fat, if the plant handles some raw materials that are acceptable, and some that are unacceptable, under § 351.3, for the preparation of certified technical animal fat, and uses the same rooms, compartments, and equipment, with only time separation between receiving, processing, and storing the respective types of raw materials and technical animal fats.

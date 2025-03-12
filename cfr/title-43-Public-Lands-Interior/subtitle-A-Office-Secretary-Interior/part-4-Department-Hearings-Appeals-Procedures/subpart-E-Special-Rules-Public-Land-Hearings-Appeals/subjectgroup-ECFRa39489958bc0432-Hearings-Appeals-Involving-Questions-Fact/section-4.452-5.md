@@ -1,0 +1,3 @@
+##### § 4.452-5 Conduct of hearing. #####
+
+So far as not inconsistent with a prehearing order, the administrative law judge may seek to obtain stipulations as to material facts and the issues involved and may state any other issues on which he may wish to have evidence presented. He may exclude irrelevant issues. The contestant will then present his case following which the other parties (and in private contests the Bureau, if it intervenes) will present their cases.

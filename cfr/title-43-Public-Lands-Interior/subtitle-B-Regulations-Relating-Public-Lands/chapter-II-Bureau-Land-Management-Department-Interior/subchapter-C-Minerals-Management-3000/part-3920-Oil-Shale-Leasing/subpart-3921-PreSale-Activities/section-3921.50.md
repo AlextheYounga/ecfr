@@ -1,0 +1,3 @@
+##### § 3921.50 Determining the geographic area for receiving applications to lease. #####
+
+After analyzing expressions of leasing interest received under § 3921.30 and complying with the procedures at § 3921.40 of this chapter, the State Director may determine a geographic area for receiving applications to lease. The BLM may also include additional geographic areas available for lease in addition to lands identified in expressions of interest to lease.

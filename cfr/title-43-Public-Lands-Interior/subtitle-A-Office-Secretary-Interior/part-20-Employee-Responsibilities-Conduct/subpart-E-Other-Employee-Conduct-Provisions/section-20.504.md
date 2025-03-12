@@ -1,0 +1,3 @@
+##### § 20.504 Selling or soliciting. #####
+
+Employees and other persons are prohibited from selling or soliciting for personal gain within any building or on any lands occupied or used by the Department. Exception is granted for Department-authorized operations, including, but not limited to, the Interior Department Recreation Association, the Indian Arts and Crafts store, and for cafeteria, newsstand, snack bar and vending machine operations which are authorized by the Department of the benefit of employees or the public.

@@ -1,0 +1,3 @@
+##### § 381.444 Identification of major cuts of poultry products. #####
+
+The major cuts of single-ingredient, raw poultry products are: Whole chicken (without neck and giblets), chicken breast, chicken wing, chicken drumstick, chicken thigh, whole turkey (without necks and giblets; separate nutrient panels for white and dark meat permitted as an option), turkey breast, turkey wing, turkey drumstick, and turkey thigh.

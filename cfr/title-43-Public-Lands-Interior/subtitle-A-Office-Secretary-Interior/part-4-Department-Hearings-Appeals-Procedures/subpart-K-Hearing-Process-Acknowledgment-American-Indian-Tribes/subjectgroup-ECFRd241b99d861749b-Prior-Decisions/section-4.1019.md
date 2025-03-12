@@ -1,0 +1,3 @@
+##### § 4.1019 How may a party submit prior Departmental final decisions? #####
+
+A party may submit as an appendix to a motion, brief, or other filing a prior Departmental final decision in support of a finding that the evidence or methodology is sufficient to satisfy one or more criteria for Federal acknowledgment of the petitioner because the Department found that evidence or methodology sufficient to satisfy the same criteria in the prior decision.

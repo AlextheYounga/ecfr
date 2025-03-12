@@ -1,0 +1,3 @@
+##### § 20.101 Cross-references to ethical conduct, financial disclosure and other applicable regulations. #####
+
+In addition to the rules in this part, employees of the Department of the Interior also should refer to the Standards of Ethical Conduct for Employees of the Executive Branch, at 5 CFR part 2635; the Department's regulations that supplement those executive branch-wide standards at 5 CFR part 3501; the employee responsibilities and conduct regulations at 5 CFR part 735; and the executive branch financial disclosure regulations at 5 CFR part 2634.

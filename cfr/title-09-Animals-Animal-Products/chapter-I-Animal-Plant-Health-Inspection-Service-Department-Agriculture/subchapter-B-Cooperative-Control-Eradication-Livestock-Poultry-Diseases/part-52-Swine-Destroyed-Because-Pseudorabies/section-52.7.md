@@ -1,0 +1,5 @@
+##### § 52.7 Disinfection of premises, conveyances, and materials. #####
+
+All premises, including barns, stockyards and pens, and all cars and other conveyances, and the materials on any premises or conveyances used to house or transport swine for which indemnity is paid under this part must be cleaned and disinfected under the supervision of an APHIS employee after removal of the swine from the known infected herd. Premises may be restocked with swine 30 days following an approved cleaning and disinfection, unless an official pseudorabies epidemiologist determines that a shorter or longer period of time is adequate or necessary to protect new animals against infection. The owner to whom the indemnity is paid will be responsible for expenses incurred in connection with the cleaning and disinfection, except for cleaning and disinfection of the conveyances used to transport the swine to the location of disposal.
+
+[64 FR 13065, Mar. 17, 1999. Redesignated at 65 FR 20711, Apr. 18, 2000]

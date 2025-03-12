@@ -1,0 +1,5 @@
+##### § 3107.4 Extension by elimination. #####
+
+Any lease eliminated from any approved or prescribed cooperative or unit plan or from any communitization or drilling agreement authorized by the Act and any lease in effect at the termination of such plan or agreement, unless relinquished, shall continue in effect for the original term of the lease or for 2 years after its elimination from the plan or agreement or after the termination of the plan or agreement, whichever is longer, and for so long thereafter as oil or gas is produced in paying quantities. No lease shall be extended if the public interest requirement for an approved cooperative or unit plan or a communitization agreement has not been satisifed as determined by the authorized officer.
+
+[48 FR 33662, July 22, 1983, as amended at 53 FR 17357, May 16, 1988]

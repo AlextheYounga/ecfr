@@ -1,0 +1,9 @@
+##### § 3162.1 General requirements. #####
+
+(a) The operating rights owner or operator, as appropriate, shall comply with applicable laws and regulations; with the lease terms, Onshore Oil and Gas Orders, NTL's; and with other orders and instructions of the authorized officer. These include, but are not limited to, conducting all operations in a manner which ensures the proper handling, measurement, disposition, and site security of leasehold production; which protects other natural resources and environmental quality; which protects life and property; and which results in maximum ultimate economic recovery of oil and gas with minimum waste and with minimum adverse effect on ultimate recovery of other mineral resources.
+
+(b) The operator shall permit properly identified authorized representatives to enter upon, travel across and inspect lease sites and records normally kept on the lease pertinent thereto without advance notice. Inspections normally will be conducted during those hours when responsible persons are expected to be present at the operation being inspected. Such permission shall include access to secured facilities on such lease sites for the purpose of making any inspection or investigation for determining whether there is compliance with the mineral leasing laws, the regulations in this part, and any applicable orders, notices or directives.
+
+(c) For the purpose of making any inspection or investigation, the Secretary or his authorized representative shall have the same right to enter upon or travel across any lease site as the operator has acquired by purchase, condemnation or otherwise.
+
+[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983; 49 FR 37364, Sept. 21, 1984; 53 FR 17363, May 16, 1988]

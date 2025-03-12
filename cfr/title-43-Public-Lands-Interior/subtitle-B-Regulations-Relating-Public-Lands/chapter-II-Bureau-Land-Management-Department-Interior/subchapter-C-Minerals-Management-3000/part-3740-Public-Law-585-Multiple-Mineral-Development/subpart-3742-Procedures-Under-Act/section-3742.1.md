@@ -1,0 +1,3 @@
+##### § 3742.1 Procedure to determine claims to Leasing Act minerals under unpatented mining locations. #####
+
+Section 7 of the Act provides a procedure whereby a Leasing Act applicant, offeror, permittee or lessee may have determined the existence and validity of claims to Leasing Act minerals asserted under unpatented mining locations made prior to August 13, 1954, affecting lands embraced within such application, offer, permit or lease. This procedure is described in the succeeding regulations, and involves the prior recording of notice of such application, offer, permit or lease and the filing of a request for publication of notice of the same.

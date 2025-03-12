@@ -1,0 +1,9 @@
+##### § 327.21 Inspection procedures for chilled fresh and frozen boneless manufacturing meat. #####
+
+(a) *Definitions; sampling; standards.* (1) Frozen boneless manufacturing meat is meat, frozen in the fresh state from cattle, sheep, swine, goats, horses, mules, or other equines that has all bone removed and is cut into pieces or trimmings, frozen into a compact block of any shape and suitable for slicing or chopping in the manufacturing of meat food products. As used in this section, the term “frozen” includes “chilled fresh,” and “lot” means any amount of frozen boneless manufacturing meat of one species, similarly packaged, shipped from one establishment, and offered for import inspection under one or more foreign inspection certificates.
+
+(2) Imported frozen boneless manufacturing meat shall be sampled as required by § 327.6(a) of this part, and the samples defrosted for inspection. The Program import inspector, or in the case of Canadian product subject to procedures described in § 327.5(d)(1), the Canadian representative will select from a lot the appropriate number of cartons specified by the table of sampling plans. The total sample for inspection will consist of the necessary number of 12-pound units drawn from these cartons. The 12-pound units selected will be completely defrosted and examined.
+
+(b) *Lots refused entry.* Reinspection (including resampling) will be provided for any lot of frozen boneless manufacturing meat which was refused entry under this section on the basis of the original evaluation of the sample thereof, upon appeal from the inspector's initial decision.
+
+[35 FR 15610, Oct. 3, 1970, as amended at 49 FR 36819, Sept. 20, 1984; 51 FR 44901, Dec. 15, 1986; 54 FR 275, Jan. 5, 1989; 57 FR 27906, June 23, 1992]

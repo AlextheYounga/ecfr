@@ -1,0 +1,3 @@
+##### § 1822.13 May I file electronically? #####
+
+For certain types of applications, BLM will accept your electronic filing if an original signature is not required. If BLM requires your signature, you must file your application or document by delivery or by mailing. If you have any questions regarding which types of applications can be electronically filed, you should check with the BLM office where you intend to file your application. When you file an application electronically, it will not be considered filed until BLM receives it.

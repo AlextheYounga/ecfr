@@ -1,0 +1,5 @@
+##### § 93.413 Quarantine stations, visiting restricted; sales prohibited. #####
+
+Visitors are not permitted in the quarantine enclosures during any time that ruminants are in quarantine unless the APHIS representative or inspector in charge specifically grants access under such conditions and restrictions as may be imposed by the APHIS representative or inspector in charge. An importer (or his or her accredited agent or veterinarian) may be admitted to the yards and buildings containing his or her quarantined ruminants at such intervals as may be deemed necessary, and under such conditions and restrictions as may be imposed, by the APHIS representative or the inspector in charge of the quarantine facility or station. On the last day of the quarantine period, owners, officers, or registry societies, and others having official business or whose services may be necessary in the removal of the ruminants may be admitted upon written permission from the APHIS representative or inspector in charge. No exhibition or sale shall be allowed within the quarantine grounds.
+
+[71 FR 29779, May 24, 2006]

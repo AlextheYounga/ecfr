@@ -1,0 +1,5 @@
+##### § 2.30 How and when may a submitter object to the disclosure of confidential information? #####
+
+(a) If a submitter has any objections to the disclosure of confidential information, the submitter should provide a detailed written statement to the bureau that specifies all grounds for withholding the particular information under any FOIA exemption (see § 2.31 of this subpart for further discussion of Exemption 4 objection statements).
+
+(b) A submitter who does not respond within the time period specified under § 2.28(d) of this subpart will be considered to have no objection to disclosure of the information. Responses received by the bureau after this time period will not be considered by the bureau unless the appropriate bureau FOIA contact determines, in his or her sole discretion, that good cause exists to accept the late response.

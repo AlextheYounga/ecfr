@@ -1,0 +1,3 @@
+##### § 3503.31 How should I describe lands in states which are part of the Public Land Survey System but have not been surveyed and are not shown on a protraction or amended protraction diagram? #####
+
+Describe such lands by metes and bounds in accordance with BLM standard survey practices for the public lands. Connect your description by courses and distances between successive angle points to an official corner of the public land survey system or, for accreted lands, to an angle point that connects to a point on an official corner of the public land survey system to which the accretions belong.

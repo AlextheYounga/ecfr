@@ -1,0 +1,3 @@
+##### § 3512.18 Will BLM approve my assignment or sublease if I have outstanding liabilities? #####
+
+Before we will approve your assignment of a permit or lease, your account must be in good standing. We will also approve the assignment if the assignee and his or her surety provides written acceptance of your outstanding liabilities under the permit or lease. In addition, the assignee must either furnish a new bond equivalent to your existing bond or obtain consent of the surety on your bond to substitute the assignee as the principal.

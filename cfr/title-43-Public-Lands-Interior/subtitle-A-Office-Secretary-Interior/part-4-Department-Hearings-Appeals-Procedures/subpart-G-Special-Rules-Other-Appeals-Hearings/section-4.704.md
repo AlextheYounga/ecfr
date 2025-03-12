@@ -1,0 +1,5 @@
+##### § 4.704 Decisions on appeals. #####
+
+The Director, or an Ad Hoc Appeals Board appointed by the Director to consider and decide the particular appeal, will review the record and take such action as the circumstances call for. The Director or the Ad Hoc Appeals Board may direct a hearing on the entire matter or specified portions thereof, may decide the appeal forthwith upon the record already made, or may make other disposition of the case. Upon request and for good cause shown, the Director or an Ad Hoc Appeals Board may grant an opportunity for oral argument. Any hearing on such appeals shall be conducted by the Ad Hoc Appeals Board or a member or members thereof, or by an administrative law judge of the Office of Hearings and Appeals and shall be governed insofar as practicable by the regulations applicable to other hearings under this part.
+
+[36 FR 7186, Apr. 15, 1971, as amended at 39 FR 2366, Jan. 21, 1974]

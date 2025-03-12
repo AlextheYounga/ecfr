@@ -1,0 +1,7 @@
+##### § 3809.204 Does this subpart cancel an existing agreement between BLM and a State? #####
+
+(a) No, this subpart doesn't cancel a Federal/State agreement or memorandum of understanding in effect on January 20, 2001. A Federal/State agreement or memorandum of understanding will continue while BLM and the State perform a review to determine whether revisions are required under this subpart. BLM and the State must complete the review and make necessary revisions no later than one year from January 20, 2001.
+
+(b) The BLM State Director may extend the review period described in paragraph (a) of this section for one more year upon the written request of the Governor of the State or the delegated representative of the Governor, and if necessary, for a third year upon another written request. The existing agreement or memorandum of understanding terminates no later than one year after January 20, 2001 if this review and any necessary revision does not occur, unless extended under this paragraph.
+
+(c) This subpart applies during the review period described in paragraphs (a) and (b) of this section. Where a portion of a Federal/State agreement or memorandum of understanding existing on January 20, 2001 is inconsistent with this subpart, that portion continues in effect until the agreement or memorandum of understanding is revised under this subpart or terminated.

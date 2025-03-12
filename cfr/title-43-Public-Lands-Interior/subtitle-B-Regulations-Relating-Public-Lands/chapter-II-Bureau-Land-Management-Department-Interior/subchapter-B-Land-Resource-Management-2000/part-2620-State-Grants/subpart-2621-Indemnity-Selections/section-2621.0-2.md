@@ -1,0 +1,5 @@
+##### § 2621.0-2 Objectives and background. #####
+
+Generally, grants made by Statehood Acts to the various States of school sections 16 and 36, and in addition, sections 2 and 32 in Arizona, New Mexico, and Utah, attach to a school sections on the date of acceptance or approval of the plat of survey thereof. If the acceptance or approval was prior to the granting act, or to the date of admission of the State into the Union, the grant attaches either on the date of approval of the act or the date of admission into the Union, whichever is the later date. However, if on the date the grant would otherwise attach, the land is appropriated under some applicable public land law, the grant does not attach, and the State is entitled to indemnity therefor as provided in the regulations in this subpart.
+
+[35 FR 9607, June 13, 1970]

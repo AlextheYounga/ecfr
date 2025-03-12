@@ -1,0 +1,5 @@
+##### § 151.4 Pedigree certificate. #####
+
+A pedigree certificate for an animal of a breed listed in § 151.9 issued by the custodian of the appropriate book of record listed in said section and on which there has been entered in accordance with the rules of entry of the registry association, a complete record of transfers of ownership from the breeder to and including the United States importer, or a complete record of transfers of ownership from the breeder to and including the person who owns the animal when it is imported into the United States and the name of the United States importer (for example, a lessee), shall be furnished by the owner, agent, or importer to the inspector at the time of the examination of the animal as provided in § 151.7. The inspector will return the document to the party who submitted it. A verbatim translation of the description relating to color and markings shall appear in English in the pedigree certificate for the animal or in a separate certificate appended to the pedigree certificate.
+
+[26 FR 6072, July 7, 1961]

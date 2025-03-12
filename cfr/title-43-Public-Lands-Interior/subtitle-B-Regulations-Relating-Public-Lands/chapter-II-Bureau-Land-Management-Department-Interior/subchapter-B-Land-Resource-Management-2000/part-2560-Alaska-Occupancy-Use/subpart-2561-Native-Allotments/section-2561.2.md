@@ -1,0 +1,5 @@
+##### § 2561.2 Proof of use and occupancy. #####
+
+(a) An allotment will not be made until the lands are surveyed by the Bureau of Land Management, and until the applicant or the authorized officer of the Bureau of Indian Affairs has made satisfactory proof of substantially continuous use and occupancy of the land for a period of five years by the applicant. Such proof shall be made on a form approved by the Director, Bureau of Land Management, and filed in the proper land office. If made by the applicant, it must be signed by him, but if he is unable to write his name, his mark or thumb print shall be impressed on the statement and witnessed by two persons. This proof may be submitted with the application for allotment if the applicant has then used and occupied the land for five years, or may be made at any time within six years after the filing of the application when the requirements have been met.
+
+(b) [Reserved]

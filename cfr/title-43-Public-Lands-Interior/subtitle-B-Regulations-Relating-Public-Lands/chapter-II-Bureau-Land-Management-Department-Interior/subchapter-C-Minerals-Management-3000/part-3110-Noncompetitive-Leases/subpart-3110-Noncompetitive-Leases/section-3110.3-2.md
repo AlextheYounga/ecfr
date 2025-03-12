@@ -1,0 +1,3 @@
+##### § 3110.3-2 Dating of leases. #####
+
+All noncompetitive leases shall be considered issued when signed by the authorized officer. Noncompetitive leases, except future interest leases issued under § 3110.9 of this title, shall be effective as of the first day of the month following the date the leases are issued. A lease may be made effective on the first day of the month within which it is issued if a written request is made prior to the date of signature of the authorized officer. Future interest leases issued under § 3110.9 of this title shall be effective as of the date the mineral interests vest in the United States.

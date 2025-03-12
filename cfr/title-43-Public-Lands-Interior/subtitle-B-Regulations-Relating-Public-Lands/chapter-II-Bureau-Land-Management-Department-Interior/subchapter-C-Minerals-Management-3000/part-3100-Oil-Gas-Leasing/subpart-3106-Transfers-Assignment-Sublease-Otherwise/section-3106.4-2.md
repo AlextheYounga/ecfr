@@ -1,0 +1,5 @@
+##### § 3106.4-2 Transfers of other interests, including royalty interests and production payments. #####
+
+(a) Each transfer of overriding royalty interest, payment out of production or similar interests created or reserved in a lease in conjunction with a transfer of record title or of operating rights (sublease) shall be described for each lease on the current form when filed.
+
+(b) Each transfer of overriding royalty interest, payment out of production or similar interests created or reserved in a lease independently of a transfer of record title or of operating rights (sublease), if not filed on the current form, shall be described and shall include the transferee's executed statement as to his/her qualifications under subpart 3102 of this title. A single executed copy of each such transfer of other interests for each lease shall be filed with the proper BLM office.

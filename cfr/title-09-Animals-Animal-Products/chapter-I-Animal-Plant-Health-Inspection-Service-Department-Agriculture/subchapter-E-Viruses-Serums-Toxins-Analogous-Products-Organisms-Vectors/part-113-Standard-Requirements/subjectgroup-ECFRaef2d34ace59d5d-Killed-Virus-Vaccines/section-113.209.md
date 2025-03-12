@@ -1,0 +1,47 @@
+##### § 113.209 Rabies Vaccine, Killed Virus. #####
+
+Rabies Vaccine (Killed Virus) shall be prepared from virus-bearing cell cultures or nerve tissues obtained from animals that have developed rabies infection following injection with rabies virus. Only Master Seed Virus which has been established as pure, safe, and immunogenic shall be used for preparing the production seed virus for vaccine production. All serials of vaccine shall be prepared from the first through the fifth passage from the Master Seed Virus.
+
+(a) The Master Seed Virus shall meet the applicable requirements prescribed in § 113.200 and the requirements prescribed in this section.
+
+(1) Each lot of Master Seed Virus propagated in tissue or cells of avian origin shall also be tested for extraneous pathogens by procedures prescribed in § 113.37.
+
+(2) Each lot of Master Seed Virus propagated in primary cell cultures of mouse or hamster origin or brain tissues of mouse origin shall be tested for lymphocytic choriomeningitis (LCM) virus by the procedure prescribed in § 113.42. If LCM virus is detected, the Master Seed Virus is unsatisfactory.
+
+(b) The immunogenicity of vaccine prepared with virus at the highest passage from the Master Seed shall be established in each species for which the vaccine is recommended. Tests shall be conducted in accordance with a protocol filed with Animal and Plant Health Inspection Service before initiation of the tests. The vaccine shall be prepared using methods prescribed in the Outline of Production. If Rabies Vaccine is to be in combination with other fractions, the product to be tested shall include all fractions to be tested.
+
+(1) The preinactivation virus titer must be established as soon as possible after harvest by at least five separate virus titrations. A mean relative potency value of the vaccine to be used in the host animal potency test must be established by at least five replicate potency tests conducted in accordance with the standard NIH test for potency in chapter 37 of “Laboratory Techniques in Rabies,” Fourth Edition (1996), edited by F.X. Meslin, M.M. Kaplan, and H. Koprowski, World Health Organization, Geneva, Switzerland (ISBN 92 4 154479 1). The provisions of chapter 37 of “Laboratory Techniques in Rabies,” Fourth Edition (1996), are the minimum standards for achieving compliance with this section and are incorporated by reference. These provisions state that the challenge virus standard to be used as the challenge in the NIH test and the reference vaccine for the test are available from the national control authority. In the United States, that authority is the Animal and Plant Health Inspection Service's Center for Veterinary Biologics Laboratory, located at 1920 Dayton Avenue, P.O. Box 844, Ames, IA 50010; phone (515) 337-6100; fax (515) 337-6120. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the World Health Organization Publications Center USA, 49 Sheridan Avenue, Albany, NY 12210. Copies may be inspected at the Animal and Plant Health Inspection Service, Center for Veterinary Biologics, Policy, Evaluation, and Licensing, 1920 Dayton Avenue, P.O. Box 844, Ames, IA 50010, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(2) The dose of vaccine to be used in the immunogenicity test shall be no more than the amount which, on the basis of The NIH Test For Potency, has been diluted to the proposed minimum acceptable potency value.1
+
+(3) Test animals shall be uniform and have no neutralizing antibodies to rabies as determined by serum-neutralization (SN) tests.
+
+(i) Twenty-five or more animals shall be used as vaccinates. Each shall be administered a dose of vaccine at the proposed minimum potency level and by the method specified in the Outline of Production.
+
+(ii) Ten or more additional animals shall be held as controls.
+
+(iii) On or about 30, 90, 180, 270, and 365 days postvaccination, all test animals shall be bled and individual serum samples tested for neutralizing antibodies to rabies virus.
+
+(iv) All surviving test animals shall be challenged intramuscularly with virulent rabies virus furnished or approved by Animal and Plant Health Inspection Service 1 year after vaccinations, except as provided in (b)(4) of this section. The challenged animals shall be observed each day for 90 days as prescribed in § 113.5(b). The brain of each test animal that dies following challenges shall be examined for rabies by the fluorescent antibody test or other method acceptable to Animal and Plant Health Inspection Service.
+
+(v) Requirements for acceptance in challenge tests shall be death due to rabies in at least 80 percent of the controls while at least 22 of 25 or 26 of 30 or a statistically equivalent number of the vaccinates remain well for a period of 90 days.
+
+(4) An alternative to challenging all surviving test animals in accordance with paragraph (b)(3)(iv) of this section may be used when the test animals are of species other than carnivores. Vaccinates shall be challenged at 1 year postvaccination. These shall include five vaccinates with the lowest SN titers at the 270th-day bleeding, five vaccinates with the lowest SN titers at the 365th-day bleeding, and all vaccinates with SN titers below 1:10 by the mouse SN test or below 1:16 by the rapid-fluorescent-focus-inhibition test at any bleeding. At least five SN-negative controls of each species shall be challenged at the same time as the vaccinates. All SN titers shall be titrated to an endpoint. All of the challenged vaccinates must remain well for a period of 90 days, and at least 80 percent of the controls must die of rabies for a satisfactory test without further challenge. If one or more of the vaccinates die from rabies, all the remaining vaccines, regardless of titer, along with the five controls shall be challenged. The cumulative results from the two challenges shall be evaluated for acceptance as specified in paragraph (b)(3)(v) of this section.
+
+(5) An Outline of Production change shall be made before authority for use a new lot of Master Seed Virus shall be granted by Animal and Plant Health Inspection Service.
+
+(c) If more than 1 year duration of immunity is to be claimed, a duration of immunity test for the additional time shall be conducted and interpreted as prescribed in paragraph (b) of this section for the 1 year test. The test animals shall be monitored serologically at least every 180 days. The time of challenge may be adjusted accordingly.
+
+(d) Test requirements for release: Each serial and each subserial shall meet the general requirements prescribed in § 113.200 and special requirements in this paragraph.
+
+(1) *Purity test.* Primary cell cultures of hamster origin or brain tissues of mouse origin used in vaccine production shall be tested for LCM virus as prescribed in § 113.42. Hamster origin cells shall be disrupted and undiluted cell fluids from each lot shall be tested. Where mouse brains are used in production, at least five mice which have not been injected with rabies virus shall be sacrificed and a 10 percent suspension of brain material shall be prepared and tested.
+
+(2) *Safety tests.* Bulk samples from each serial shall be tested for virus inactivation and safety as follows:
+
+(i) At the end of the inactivation period, each of 20 12 to 16 gram mice shall be injected intracerebrally with 0.03 ml and two rabbits shall be injected into each cerebral hemisphere with 0.25 ml and observed each day for 21 days. The brains of animals dying between the fourth and 21st day post-injection shall be checked for rabies virus. Material from each brain recovered shall be injected into each of five mice and the mice observed each day for 14 days. The fluorescent antibody test or serum neutralization test shall be used to confirm the presence or absence or live rabies virus. If live rabies virus is confirmed, the serial is unsatisfactory unless reprocessed in accordance with § 114.18.
+
+(ii) A test for safety in three young seronegative animals of the most susceptible species for which the vaccine is recommended shall be conducted. Each shall in injected intramuscularly with one recommended dose of vaccine. If unfavorable reactions attributable to the product occur during a 28 day observation period, the serial is unsatisfactory.
+
+(3) *Potency test.* Bulk or final container samples of completed product from each serial must be tested for potency by tests conducted in accordance with the standard NIH test for potency in Chapter 37 of “Laboratory Techniques in Rabies,” Fourth Edition (1996), which is incorporated by reference at paragraph (b)(1) of this section. The relative potency of each serial must be at least equal to that used in an approved host animal immunogenicity test.
+
+[39 FR 44715, Dec. 27, 1974, as amended at 42 FR 6794, Feb. 4, 1977; 43 FR 49528, Oct. 24, 1978; 50 FR 20090, May 14, 1985. Redesignated at 55 FR 35562, Aug. 31, 1990; 56 FR 66784, 66786, Dec. 26, 1991; 61 FR 31823, June 21, 1996; 64 FR 45420, Aug. 20, 1999; 69 FR 18803, Apr. 9, 2004; 75 FR 20773, Apr. 21, 2010]

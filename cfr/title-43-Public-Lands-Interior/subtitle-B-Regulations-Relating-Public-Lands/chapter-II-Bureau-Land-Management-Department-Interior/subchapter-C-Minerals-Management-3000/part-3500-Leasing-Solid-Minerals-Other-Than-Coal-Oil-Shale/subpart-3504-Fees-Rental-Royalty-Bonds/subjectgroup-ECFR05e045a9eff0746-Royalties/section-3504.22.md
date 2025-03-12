@@ -1,0 +1,3 @@
+##### § 3504.22 How will I know what the royalty rate is on my lease production? #####
+
+BLM determines the rate for each lease before we offer it. If BLM offered the lease competitively, the rates are in the notice of lease sale. If you applied for a noncompetitive lease, BLM will send you a royalty rate schedule for your concurrence and signature before we issue you the lease. BLM attaches royalty rates to, and makes them a part of, all leases.

@@ -1,0 +1,5 @@
+##### § 2091.07 Principles. #####
+
+(a) Generally, segregated lands are not available for application, selection, sale, location, entry, claim or settlement under the public land laws, including the mining laws, but may be open to the operation of the discretionary mineral leasing laws, the material disposal laws and the Geothermal Steam Act, if so specified in the document that segregates the lands. The segregation is subject to valid existing rights and is, in most cases, for a limited period which is specified in regulations or in the document that segregates the lands. Where there is an administrative appeal or review action on an application pursuant to part 4 or other subparts of this title, the segregative period continues in effect until publication of an opening order.
+
+(b) Opening orders may be issued at any time but are required when the opening date is not specified in the document creating the segregation, or when an action is taken to terminate the segregative effect and open the lands prior to the specified opening date.

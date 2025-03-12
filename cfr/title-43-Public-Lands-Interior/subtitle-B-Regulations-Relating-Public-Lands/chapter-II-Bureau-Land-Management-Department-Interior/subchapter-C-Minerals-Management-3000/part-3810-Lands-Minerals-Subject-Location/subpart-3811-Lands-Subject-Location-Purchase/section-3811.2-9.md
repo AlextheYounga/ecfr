@@ -1,0 +1,3 @@
+##### § 3811.2-9 Lands under Color of Title Act. #####
+
+Lands patented under the Color of Title Act (43 U.S.C. 1068), by exchange under the Taylor Grazing Act (43 U.S.C. 415g) and by Forest Exchanges (16 U.S.C. 485) with mineral reservation to the United States, are subject to appropriation under the mining or mineral leasing laws for the reserved materials. See Group 2200 and subpart 2540 of this chapter. Minerals in acquired lands of the United States are not subject to mining location but the minerals therein may be acquired in accordance with the regulations contained in part 3500.

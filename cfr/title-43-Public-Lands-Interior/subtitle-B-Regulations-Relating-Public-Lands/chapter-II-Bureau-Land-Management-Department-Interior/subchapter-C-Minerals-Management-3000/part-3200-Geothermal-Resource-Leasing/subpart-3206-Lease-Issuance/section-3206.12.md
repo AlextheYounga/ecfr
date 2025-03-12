@@ -1,0 +1,3 @@
+##### § 3206.12 What are the minimum and maximum lease sizes? #####
+
+Other than for direct use leases (the size for which is addressed in § 3205.7), the smallest lease we will issue is 640 acres, or all lands available for leasing in the section, whichever is less. The largest lease we will issue is 5,120 acres, unless the area to be leased includes an irregular subdivision. A lease must embrace a reasonably compact area.

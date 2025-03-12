@@ -1,0 +1,5 @@
+##### § 354.143 Export certificates; issuance and disposition. #####
+
+(a) Upon the request of an exporter, any inspector is authorized to issue an export certificate with respect to the shipment to any foreign country of any inspected and certified edible product after suitable examination of the product has been made by the inspector.
+
+(b) Each export certificate shall be issued in quintuplicate; the original shall be delivered to the exporter who requested such certificate, and the duplicate copy shall be delivered to the agent of the railroad or other carrier transporting such products from the United States. The triplicate copy of such export certificate shall be forwarded to the Administrator; the quadruplicate copy shall be filed in the office of the regional supervisor serving the area in which such export certificate was issued, and the memorandum copy shall be retained by the inspector for filing. The last named three copies shall be retained until otherwise ordered by the Administrator.

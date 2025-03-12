@@ -1,0 +1,5 @@
+##### § 9180.0-2 Objectives. #####
+
+(a) *Alaska; existing surveys and extension thereof.* The surveys up to the present time have been confined to known agricultural areas, the coal fields, and such other lands as have been considered to be suitable for development by settlers or otherwise. The extensions of the surveys to other areas will be governed largely by the character of the lands and their suitability for use, development, and administration under the public land laws applicable to Alaska.
+
+(b) *Resurveys.* The real interest of the Government in the resurvey of the public lands is well stated in the said Act of March 3, 1909, “to properly mark the boundaries of the public lands remaining undisposed of.” Its duty being thus defined, the Bureau of Land Management will refrain from attempting to do more in the relocation of the corners of privately owned lands in a township being resurveyed than to reestablish such corners from the best available evidence of the original survey.

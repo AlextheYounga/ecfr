@@ -1,0 +1,25 @@
+##### § 381.190 Transactions in slaughtered poultry and other poultry products restricted; vehicle sanitation requirements. #####
+
+(a) No person shall sell, transport, offer for sale or transportation, or receive for transportation, in commerce or from any official establishment, any slaughtered poultry from which the blood, feathers, feet, head, or viscera have not been removed in accordance with the regulations.
+
+(b)(1) No person shall sell, transport, offer for sale or transportation, or receive for transportation, in commerce, any slaughtered poultry or other poultry product which is capable of use as human food and is adulterated or fails to bear an official inspection legend or is otherwise misbranded at the time of such sale, transportation, offer or receipt, except as otherwise provided in this paragraph (b) and subpart C or T.
+
+(2)(i) Poultry heads and feet that are collected and handled at an official establishment in an acceptable manner may be shipped from the official establishment directly for export as human food, if they have been examined and found to be suitable for such purpose, by an inspector and are labeled as prescribed in this paragraph.
+
+(ii) The containers of all such products shall bear a label showing: (A) The name of the products; (B) the name and address of the packer or distributor, and, when the name of the distributor is shown, it shall be qualified by such terms as “packed for,” “distributed by,” or “distributors”; and (C) the official establishment number of the establishment where packed.
+
+(iii) Such products shall not bear the official inspection legend.
+
+(3)(i) Poultry heads and feet that are collected and handled at an official establishment in an acceptable manner may be shipped from the official establishment and in commerce directly to another official establishment for processing before export, provided the receiving establishment maintains records that:
+
+(A) Identify the source of the incoming undenatured poultry product;
+
+(B) Identify the location of the product at all times during processing and preparation for export; and
+
+(C) Contain a written certification from an official of the receiving establishment that the undenatured poultry product intended for export has not been, and will not be, commingled with any product intended for consumption in the United States.
+
+(ii) The receiving establishment may only ship the undenatured poultry product intended for export in accordance with the inspection and labeling requirements of paragraph (b)(2) of this section.
+
+(c) No person, engaged in the business of buying, selling, freezing, storing, or transporting, in or for commerce, poultry products capable of use as human food, or importing such articles, shall transport, offer for transportation, or receive for transportation, in commerce or in any State designated under § 381.221, any poultry product which is capable of use as human food and is not wrapped, packaged, or otherwise enclosed to prevent adulteration by airborne contaminants, unless the railroad car, truck, or other means of conveyance in which the product is contained or transported is completely enclosed with tight fitting doors or other covers for all openings. In all cases, the means of conveyance shall be reasonably free of foreign matter (such as dust, dirt, rust, or other articles or residues), and free of chemical residues, so that product placed therein will not become adulterated. Any cleaning compound, lye, soda solution, or other chemical used in cleaning the means of conveyance must be thoroughly removed from the means of conveyance prior to its use. Such means of conveyance onto which product is loaded, being loaded, or intended to be loaded, shall be subject to inspection by an inspector at any official establishment. The decision whether or not to inspect a means of conveyance in a specific case, and the type and extent of such inspection shall be at the Inspection Service's discretion and shall be adequate to determine if poultry product in such conveyance is, or when moved could become, adulterated.
+
+Circumstances of transport that can be reasonably anticipated shall be considered in making said determination. These include, but are not limited to, weather conditions, duration and distance of trip, nature of product covering, and effect of restowage at stops en route. Any means of conveyance found upon such inspection to be in such condition that poultry product placed therein could become adulterated shall not be used until such condition which could cause adulteration is corrected. Poultry product placed in any means of conveyance that is found by the inspector to be in such condition that the poultry product may have become adulterated shall be removed from the means of conveyance and handled in accordance with § 381.145(b).[37 FR 9706, May 16, 1972, as amended at 39 FR 4569, Feb. 5, 1974; 40 FR 42338, Sept. 12, 1975; 41 FR 23700, June 11, 1976; 60 FR 43358, Aug. 21, 1995]

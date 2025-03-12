@@ -1,0 +1,3 @@
+##### § 319.701 Mixed fat shortening. #####
+
+Shortening prepared with a mixture of meat fats and vegetable oils may be identified either as “Shortening Prepared with Meat Fats and Vegetable Oils” or “Shortening Prepared with Vegetable Oils and Meat Fats” depending on the predominance of the fat and oils used, or the product may be labeled “Shortening” when accompanied by an ingredient statement with ingredients listed in descending order of predominance.

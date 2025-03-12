@@ -1,0 +1,3 @@
+##### § 404.14 How will Reclamation provide notice of opportunities for assistance under the program? #####
+
+Notice of opportunities for assistance to conduct an appraisal investigation or a feasibility study under § 404.11(a) or (b) will be posted as a program announcement on the required government-wide Web site for announcement of Federal assistance opportunities. Opportunities for assistance will also be advertised locally by Reclamation regional and area offices. You are encouraged to contact your local Reclamation office to find out about upcoming program announcements and to discuss your interest in the program.

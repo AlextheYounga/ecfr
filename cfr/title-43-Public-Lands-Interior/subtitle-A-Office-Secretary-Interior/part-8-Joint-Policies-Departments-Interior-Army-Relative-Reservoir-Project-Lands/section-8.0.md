@@ -1,0 +1,3 @@
+##### § 8.0 Acquisition of lands for reservoir projects. #####
+
+In so far as permitted by law, it is the policy of the Departments of the Interior and of the Army to acquire, as a part of reservoir project construction, adequate interest in lands necessary for the realization of optimum values for all purposes including additional land areas to assure full realization of optimum present and future outdoor recreational and fish and wildlife potentials of each reservoir.

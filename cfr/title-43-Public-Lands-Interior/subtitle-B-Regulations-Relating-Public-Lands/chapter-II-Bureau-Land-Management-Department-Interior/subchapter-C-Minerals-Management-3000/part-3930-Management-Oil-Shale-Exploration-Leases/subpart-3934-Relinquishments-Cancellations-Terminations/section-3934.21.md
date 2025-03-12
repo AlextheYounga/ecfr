@@ -1,0 +1,3 @@
+##### § 3934.21 Written notice of default. #####
+
+The BLM will provide the lessee or licensee written notice of any default, breach, or cause of forfeiture, and provide a time period of 30 calendar days to correct the default, to request an extension of time in which to correct the default, or to submit evidence showing why the BLM is in error and why the lease should not be canceled or exploration license terminated.

@@ -1,0 +1,17 @@
+##### § 29.3 Fund administration. #####
+
+(a) The Fund shall be administered by a Board of Trustees designated by the Permittees and the Secretary as provided in paragraph (b) of this section.
+
+(b)(1) The Board of Trustees shall be comprised of one member designated by each Permittee and three members designated by the Secretary. At least one member designated by the Secretary shall be chosen from persons nominated by the Governor of the State of Alaska. Each member shall serve for a period of three years and may succeed himself or herself. Each member shall have the right to vote. If additional persons become holders of rights-of-way, each such additional Permittee shall have the right to designate a trustee, and if any holder of right-of-way sells the interest in such right-of-way, such holder's designated trustee shall resign from the Board. The Board shall elect by a majority vote a Chairman and a Secretary annually.
+
+(2) Where any activity of the Fund creates a conflict of interest, or the appearance of a conflict of interest, on the part of any member of the Board of Trustees, the member involved shall excuse himself or herself from any consideration of such activity by the Board of Trustees.
+
+(c) The Board of Trustees by a majority vote shall select an Administrator to direct the day-to-day operations of the Fund.
+
+(d) The Board of Trustees shall hold meetings every six months, or more frequently when necessary to consider pressing matters, including pending claims under § 29.9.
+
+(e)(1) Each Board Member and officer of the Fund now or hereafter serving as such, shall be indemnified by the Fund against any and all claims and liabilities to which he or she has or shall become subject by reason of serving or having served as such Board Member or officer, or by reason of any action alleged to have been taken, omitted, or neglected by him or her as such Board Member or officer; and the Fund shall reimburse each such person for all legal expenses reasonably incurred by him or her in connection with any such claim or liability: *Provided,* however, That no such person shall be indemnified against, or be reimbursed for any expenses incurred in connection with, any claim or liability arising out of his or her own willful misconduct or gross negligence.
+
+(2) The amount paid to any officer or Board Member by way of indemnification shall not exceed his or her actual liabilities and actual, reasonable, and necessary expenses incurred in connection with the matter involved. Expenses incurred in defending a civil or criminal action, suit, or proceeding may be paid by the Fund in advance of the final disposition of such action, suit, or proceeding as authorized by the Board in the specific case upon receipt of an undertaking by or on behalf of the Board Member or officer to repay such amount if it shall ultimately be determined that he or she is not entitled to be indemnified by the Fund as authorized herein.
+
+(3) The indemnification provided by this section shall continue as to a person who has ceased to be a Board Member or officer and shall inure to the benefit of the heirs, executors, and administrators of such a person. The right of indemnification hereinabove provided for shall not be exclusive of any rights to which any Board Member or officer of the Fund may otherwise be entitled by law.

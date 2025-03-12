@@ -1,0 +1,3 @@
+##### § 3873.1 Segregation of mineral from non-mineral land. #####
+
+Where a survey is necessary to set apart mineral from non-mineral land the appropriate authorized officer will have special instructions prepared outlining the procedure to be followed in the required survey. The survey will be executed at the expense of the United States. Where, in stock-raising homestead entries, it has been satisfactorily established that there are existent prior unpatented mining claims, the segregation of the latter is not strictly a segregation of mineral from non-mineral land, but rather the procedure adopted to define the boundaries of and provide a legal description for that part of the homestead entry which is not within the segregated mining claims.

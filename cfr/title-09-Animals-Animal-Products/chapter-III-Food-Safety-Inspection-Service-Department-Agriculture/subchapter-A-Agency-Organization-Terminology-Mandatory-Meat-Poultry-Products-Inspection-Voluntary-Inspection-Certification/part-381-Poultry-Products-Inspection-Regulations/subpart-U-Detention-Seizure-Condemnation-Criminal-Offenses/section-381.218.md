@@ -1,0 +1,3 @@
+##### § 381.218 Criminal offenses. #####
+
+The Act contains criminal provisions with respect to numerous offenses specified in the Act, including but not limited to forcible assaults on, or other interference with, any person while engaged in, or on account of the performance of, his official duties under the Act. Criminal provisions with respect to gifts or offers of bribes to such persons and related offenses are contained in the general criminal code (18 U.S.C. 201).

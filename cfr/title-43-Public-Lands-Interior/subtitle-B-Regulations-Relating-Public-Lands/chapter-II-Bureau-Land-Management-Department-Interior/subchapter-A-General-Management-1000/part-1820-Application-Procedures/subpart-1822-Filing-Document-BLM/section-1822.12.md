@@ -1,0 +1,3 @@
+##### § 1822.12 Where do I file my application or other required documents? #####
+
+You should file your application or other required documents at the BLM office having jurisdiction over the lands or records involved. The specific BLM office where you are to file your application is usually referenced in the BLM regulations which pertain to the filing you are making. If the regulations do not name the specific office, or if you have questions as to where you should file your application or other required documents, contact your local BLM office for information and we will tell you which BLM office to file your application.

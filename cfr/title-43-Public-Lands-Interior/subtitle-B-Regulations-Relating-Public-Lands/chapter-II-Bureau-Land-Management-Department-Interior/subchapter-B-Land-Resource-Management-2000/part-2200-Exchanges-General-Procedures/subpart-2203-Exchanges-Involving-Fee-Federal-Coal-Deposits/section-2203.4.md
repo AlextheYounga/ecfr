@@ -1,0 +1,9 @@
+##### § 2203.4 Consultation with the Attorney General. #####
+
+(a) The authorized officer shall, at the conclusion of the comment period and public meeting provided for in § 2203.3 of this title, forward to the Attorney General copies of the comments received in response to the request for public comments and the transcript and copies of the written comments received at the public meeting.
+
+(b) The authorized officer shall allow the Attorney General 90 days within which the Attorney General may advise, in writing, on the anti-trust consequences of the proposed exchange.
+
+(c) If the Attorney General requests additional information concerning the proposed exchange, the authorized officer shall request, in writing, such information from the person proposing the exchange, allowing a maximum period of 30 days for the submission of the requested information. The 90-day period provided in paragraph (b) of this section shall be extended for the period required to obtain and submit the requested information, or 30 days, whichever is sooner.
+
+(d) If the Attorney General notifies the authorized officer, in writing, that additional time is needed to review the anti-trust consequences of the proposed exchange, the time provided in paragraph (b) of this section, including any additional time provided under paragraph (c) of this section, shall be extended for the period requested by the Attorney General. If the Attorney General has not responded to the request for anti-trust review within the time granted for such review, including any extensions thereof, the authorized officer may proceed with the exchange without the advice of the Attorney General.

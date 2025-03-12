@@ -1,0 +1,5 @@
+##### § 10010.36 Environmental review and consultation requirements. #####
+
+(a) The Commission will maintain a list of applicable environmental review and consultation requirements pursuant to other federal or state laws and regulations and will make this available to interested parties.
+
+(b) If the EIS is intended to serve as the vehicle to fully or partially comply with the requirements of other federal or state laws and regulations, the associated analyses, studies, or surveys will be identified as such and discussed in the text of the EIS and the cover sheet will so indicate. Any supporting analyses or reports to the NEPA documents will be incorporated by reference or included as an appendix and shall be sent to reviewing agencies as appropriate in accordance with applicable regulations or procedures.

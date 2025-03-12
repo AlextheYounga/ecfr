@@ -1,0 +1,5 @@
+##### § 3109.1-2 Application. #####
+
+No approved form is required for an application to lease oil and gas deposits underlying a right-of-way. The right-of-way owner or his/her transferee must file the application in the proper BLM office. Include the processing fee for leasing under right-of-way found in the fee schedule in § 3000.12 of this chapter. If the transferee files an application, it must also include an executed transfer of the right to obtain a lease. The application shall detail the facts as to the ownership of the right-of-way, and of the transfer if the application is filed by a transferee; the development of oil or gas in adjacent or nearby lands, the location and depth of the wells, the production and the probability of drainage of the deposits in the right-of-way. A description by metes and bounds of the right-of-way is not required but each legal subdivision through which a portion of the right-of-way desired to be leased extends shall be described.
+
+[53 FR 17357, May 16, 1988; 53 FR 22840, June 17, 1988; 70 FR 58874, Oct. 7, 2005]

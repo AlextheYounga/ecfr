@@ -1,0 +1,3 @@
+##### § 534.4 Transportation to processing plant. #####
+
+A vehicle used to transport fish from a producer's premises to a processing establishment must be equipped with vats or other containers for holding the fish. The vats or other containers must be maintained in a sanitary condition. Sufficient water and sufficient oxygen must be provided to the vats that hold the fish to ensure that fish delivered to the processing establishment will not be adulterated. Any fish that are dead, dying, diseased, or contaminated with substances that may adulterate fish products are subject to condemnation at the official fish processing establishments.

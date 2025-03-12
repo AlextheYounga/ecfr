@@ -1,0 +1,7 @@
+##### § 3802.4-1 Noncompliance. #####
+
+(a) An operator who conducts mining operations undertaken either without an approved plan of operations or without taking actions specified in a notice of noncompliance within the time specified therein may be enjoined by an appropriate court order from continuing such operations and be liable for damages for such unlawful acts.
+
+(b) Whenever the authorized officer determines that an operator is failing or has failed to comply with the requirements of an approved plan of operations, or with the provisions of these regulations and that noncompliance is causing impairment of wilderness suitability or unnecessary and undue degradation of the resources of the lands involved, the authorized officer shall serve a notice of noncompliance upon the operator by delivery in person to the operator or the operator's authorized agent, or by certified mail addressed to the operator's last known address.
+
+(c) A notice of noncompliance shall specify in what respects the operator is failing or has failed to comply with the requirements of the plan of operations of the provisions of applicable regulations, and shall specify the actions which are in violation of the plan or regulations and the actions which shall be taken to correct the noncompliance and the time limits, not to exceed 30 days, within which corrective action shall be taken.

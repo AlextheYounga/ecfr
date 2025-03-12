@@ -1,0 +1,3 @@
+##### § 4.452-4 Authority of administrative law judge. #####
+
+The administrative law judge is vested with general authority to conduct the hearing in an orderly and judicial manner, including authority to subpoena witnesses and to take and cause depositions to be taken for the purpose of tasking testimony but not for discovery in accordance with the act of January 31, 1903 (43 U.S.C. 102-106), to administer oaths, to call and question witnesses, and to make a decision. The issuance of subpoenas, the attendance of witnesses and the taking of depositions shall be governed by §§ 4.423 and 4.26 of the general rules in subpart B of this part.

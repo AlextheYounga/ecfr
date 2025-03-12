@@ -1,0 +1,7 @@
+##### § 3452.2-1 Cause for cancellation. #####
+
+(a) The authorized officer, after compliance with § 3452.2-2 of this title, may take the appropriate steps to institute proceedings in a court of competent jurisdiction for the cancellation of the lease if the lessee: (1) Fails to comply with the provisions of the Mineral Leasing Act of 1920, as amended; (2) fails to comply with any applicable general regulations; or (3) defaults in the performance of any of the terms, covenants, and stipulations of the lease.
+
+(b) Any lease issued before August 4, 1976, on which the lessee does not meet the diligent development requirements or any lease whenever issued on which the lessee does not meet the continued operation requirements shall be subject to cancellation in whole or in part. In deciding whether to initiate lease cancellation proceedings under this subsection, the Secretary shall not consider adverse circumstances which arise out of (1) normally foreseeable costs of compliance with requirements for environmental protection; (2) commonly experienced delays in delivery of supplies or equipment; or (3) inability to obtain sufficient sales.
+
+[44 FR 42635, July 19, 1979, as amended at 47 FR 33147, July 30, 1982]

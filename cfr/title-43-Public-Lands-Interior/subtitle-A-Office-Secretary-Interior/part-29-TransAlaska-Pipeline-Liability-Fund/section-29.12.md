@@ -1,0 +1,3 @@
+##### § 29.12 Borrowing. #####
+
+In the event the Fund is unable to satisfy a claim determined to be justified, or is in need of money with which to initiate the operation of the Fund, the Fund may borrow the money needed from any commercial credit source at the lowest available rate of interest. If the amount to be borrowed is $500,000 or less, the Administrator may arrange to pledge the credit of the Fund pursuant to a resolution of the Board of Trustees. If the proposed borrowing exceeds $500,000, the Administrator shall, prior to issuance of a note or other security pledging the credit of the Fund, secure the approval of the Secretary. No money may be borrowed from any of the Permittees or their affiliates.

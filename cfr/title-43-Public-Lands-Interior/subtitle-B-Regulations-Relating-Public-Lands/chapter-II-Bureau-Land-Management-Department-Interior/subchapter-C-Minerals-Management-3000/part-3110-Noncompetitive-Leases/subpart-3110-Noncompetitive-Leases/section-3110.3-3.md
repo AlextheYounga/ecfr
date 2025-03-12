@@ -1,0 +1,11 @@
+##### § 3110.3-3 Lease offer size. #####
+
+(a) Lease offers for public domain minerals shall not be made for less than 640 acres or 1 full section, whichever is larger, where the lands have been surveyed under the rectangular survey system or are within an approved protracted survey, except where the offer includes all available lands within a section and there are no contiguous lands available for lease. Such public domain lease offers in Alaska shall not be made for less than 2,560 acres or 4 full contiguous sections, whichever is larger, where the lands have been surveyed under the rectangular survey system or are within an approved protracted survey, except where the offer includes all available lands within the subject section and there are no contiguous lands available for lease. Where an offer exceeds the minimum 640-acre provision of this paragraph, the offer may include less than all available lands in any given section. Cornering lands are not considered contiguous lands. This paragraph shall not apply to offers made under § 3108.2-4 of this title or where the offer is filed on an entire parcel as it was offered by the Bureau in a competitive sale during that period specified under § 3110.5-1 of this title.
+
+(b) An offer to lease public domain or acquired lands may not include more than 10,240 acres. The lands in an offer shall be entirely within an area of 6 miles square or within an area not exceeding 6 surveyed sections in length or width measured in cardinal directions. An offer to lease acquired lands may exceed the 6 mile square limit if:
+
+(1) The lands are not surveyed under the rectangular survey system of public land surveys and are not within the area of the public land surveys; and
+
+(2) The tract desired is described by the acquisition or tract number assigned by the acquiring agency and less than 50 percent of the tract lies outside the 6 mile square area, and such acquisition or tract number is provided in accordance with § 3110.5-2(d) of this title in lieu of any other description.
+
+(c) If an offer exceeds the 10,240 acre maximum by not more than 160 acres, the offeror shall be granted 30 days from notice of the excess to withdraw the excess acreage from the offer, failing which the offer shall be rejected and priority lost.

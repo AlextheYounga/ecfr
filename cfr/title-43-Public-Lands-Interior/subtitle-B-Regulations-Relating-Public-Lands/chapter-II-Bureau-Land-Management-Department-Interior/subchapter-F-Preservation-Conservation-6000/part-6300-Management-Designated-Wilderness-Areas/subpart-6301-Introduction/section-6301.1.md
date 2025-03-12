@@ -1,0 +1,3 @@
+##### § 6301.1 Purpose. #####
+
+This part governs the management of BLM wilderness areas outside of Alaska. It tells you what wilderness areas are, how BLM manages them, and how you can use them. These regulations also tell you what activities BLM does not allow in wilderness areas, the penalties for performing prohibited acts, and the special provisions for some uses and access that the Wilderness Act explicitly allows.

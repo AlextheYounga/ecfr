@@ -1,0 +1,13 @@
+##### § 4160.4 Appeals. #####
+
+(a) Any person whose interest is adversely affected who wishes to appeal or seek a stay of a final BLM grazing decision must follow the requirements set forth in § 4.472 of this title. The appeal and any petition for stay must be filed with the BLM office that issued the decision within 30 days after its receipt or within 30 days after the proposed decision becomes final as provided in § 4160.3(a).
+
+(b) When OHA stays all or a portion of a BLM grazing decision that affects a grazing permit or lease, BLM will authorize grazing use as follows:
+
+(1) When OHA stays implementation of all or part of a grazing decision that cancels or suspends a permit or lease, changes any term or condition of a permit or lease during its current term, or renews a permit or lease, BLM will continue to authorize grazing under the permit or lease, or the relevant term or condition thereof, that was in effect immediately before the decision was issued, subject to any relevant provisions of the stay order. This continued authorization will expire upon the resolution of the administrative appeal. Such continued authorization is not subject to protest or appeal.
+
+(2) When OHA stays implementation of a grazing decision that issues or denies issuance of a permit or lease to a preference transferee, BLM will issue the preference applicant a permit or lease with terms and conditions that are the same as the terms and conditions of the most recent permit or lease applicable to the allotment or portion of the allotment in question, subject to any relevant provisions of the stay order. This temporary permit will expire upon the resolution of the administrative appeal. Issuance of the temporary permit is not a decision subject to protest or appeal.
+
+(3) When OHA stays implementation of a grazing decision that issues a permit or lease to a preference transferee with terms and conditions different from terms and conditions of the most recent permit or lease applicable to the allotment or portion of the allotment in question, BLM will issue the preference applicant a permit or lease that, with respect to any stayed term or condition, is the same as the terms and conditions of the most recent permit or lease applicable to the allotment or portion of the allotment in question, subject to any relevant provisions of the stay order. This temporary permit will expire upon the resolution of the administrative appeal. Issuance of the temporary permit is not a decision subject to protest or appeal.
+
+[71 FR 39508, July 12, 2006]

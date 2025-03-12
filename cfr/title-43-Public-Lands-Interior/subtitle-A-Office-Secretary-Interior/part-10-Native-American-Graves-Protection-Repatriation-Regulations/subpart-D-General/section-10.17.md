@@ -1,0 +1,5 @@
+##### § 10.17 Dispute resolution. #####
+
+(a) *Formal and informal resolutions.* Any person who wishes to contest actions taken by museums, Federal agencies, Indian tribes, or Native Hawaiian organizations with respect to the repatriation and disposition of human remains, funerary objects, sacred objects, or objects of cultural patrimony is encouraged to do so through informal negotiations to achieve a fair resolution of the matter. The Review Committee may aid in this regard as described below. In addition, the United States District Courts have jurisdiction over any action brought that alleges a violation of the Act.
+
+(b) *Review Committee Role.* The Review Committee may facilitate the informal resolution of disputes relating to these regulations among interested parties that are not resolved by good faith negotiations. Review Committee actions may include convening meetings between parties to disputes, making advisory findings as to contested facts, and making recommendations to the disputing parties or to the Secretary as to the proper resolution of disputes consistent with these regulations and the Act.

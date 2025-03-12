@@ -1,0 +1,3 @@
+##### § 2932.21 Why should I contact BLM before submitting an application? #####
+
+If you wish to apply for a Special Recreation Permit, we strongly urge you to contact the appropriate BLM office before submitting your application. You may need early consultation to become familiar with BLM practices and responsibilities, and the terms and conditions that we may require in a Special Recreation Permit. Because of the lead time involved in processing Special Recreation Permit applications, you should contact BLM in sufficient time to complete a permit application ahead of the 180 day requirement (see § 2932.22(a)).

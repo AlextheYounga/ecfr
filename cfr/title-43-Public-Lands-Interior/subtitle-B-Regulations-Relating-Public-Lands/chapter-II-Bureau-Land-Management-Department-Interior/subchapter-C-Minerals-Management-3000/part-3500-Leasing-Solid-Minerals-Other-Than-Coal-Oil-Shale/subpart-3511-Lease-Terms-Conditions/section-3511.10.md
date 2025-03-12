@@ -1,0 +1,3 @@
+##### § 3511.10 Do certain leases allow me to mine other commodities as well? #####
+
+Yes. Sodium leases authorize you to mine potassium compounds as related products, and potassium leases authorize mining associated sodium compounds and related products. A phosphate lease allows you to use deposits of silica, limestone or other rock on the lease for use in the processing or refining of phosphate, phosphate rock, and associated minerals mined from the leased lands. You must pay royalty on these materials as specified in your lease.

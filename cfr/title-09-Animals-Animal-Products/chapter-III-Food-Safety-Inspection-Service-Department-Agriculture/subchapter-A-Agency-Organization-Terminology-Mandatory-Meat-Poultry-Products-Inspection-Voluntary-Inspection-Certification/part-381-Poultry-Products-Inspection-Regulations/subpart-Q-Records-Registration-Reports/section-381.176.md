@@ -1,0 +1,3 @@
+##### § 381.176 Place of maintenance of records. #####
+
+Every person engaged in any business described in § 381.175(a) shall maintain the records required by § 381.175 at the place of business where such business is conducted, except that, if such person conducts such business at multiple locations, he may maintain such records at his headquarters' office. When not in actual use, all such records shall be kept in a safe place at the prescribed location in accordance with good commercial practices.

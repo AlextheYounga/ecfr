@@ -1,0 +1,11 @@
+##### § 2562.1 Initiation of claim. #####
+
+(a) *Notice.* Any qualified person, association, or corporation initiating a claim on or after April 29, 1950, under section 10 of the Act of May 14, 1898, by the occupation of vacant and unreserved public land in Alaska for the purposes of trade, manufacture, or other productive industry, must file notice of the claim for recordation in the proper office for the district in which the land is situated, within 90 days after such initiation. Where on April 29, 1950, such a claim was held by a qualified person, association, or corporation, the claimant must file notice of the claim in the proper office, within 90 days from that date.
+
+(b) *Form of notice.* The notice must be filed on a form approved by the Director in triplicate if the land is unsurveyed, or in duplicate if surveyed, and shall contain:
+
+(1) The name and address of the claimant, (2) age and citizenship, (3) date of occupancy, and (4) the description of the land by legal subdivisions, section, township and range, if surveyed, or, if unsurveyed, by metes and bounds with reference to some natural object or permanent monument, giving, if desired, the approximate latitude and longitude. The notice must designate the kind of trade, manufacture, or other productive industry in connection with which the site is maintained or desired.
+
+(c) *Failure to file notice.* Unless a notice of the claim is filed within the time prescribed in paragraph (a) of this section no credit shall be given for occupancy of the site prior to filing of notice in the proper office, or application to purchase, whichever is earlier.
+
+(d) *Recording fee.* The notice of the claim must be accompanied by a remittance of $10.00, which will be earned and applied as a service charge for recording the notice, and will not be returnable, except in cases where the notice is not acceptable to the proper office for recording, because the land is not subject to the form of disposition specified in the notice.

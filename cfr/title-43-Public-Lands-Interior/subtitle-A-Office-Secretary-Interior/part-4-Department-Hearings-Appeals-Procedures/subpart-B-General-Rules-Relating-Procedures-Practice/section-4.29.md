@@ -1,0 +1,3 @@
+##### § 4.29 Remands from courts. #####
+
+Whenever any matter is remanded from any court for further proceedings, and to the extent the court's directive and time limitations will permit, the parties shall be allowed an opportunity to submit to the appropriate Appeals Board, a report recommending procedures to be followed in order to comply with the court's order. The Board will review the reports and enter special orders governing the handling of matters remanded to it for further proceedings by any court.

@@ -1,0 +1,5 @@
+##### § 311.27 Injured animals slaughtered at unusual hours. #####
+
+When it is necessary for humane reasons to slaughter an injured animal at night or on Sunday or a holiday when the inspector cannot be obtained, the carcass and all parts of all livestock except for cattle shall be kept for inspection, with the head and all viscera except the stomach, bladder, and intestines held by the natural attachments. If all parts are not so kept for inspection, the carcass shall be condemned. If, on inspection of a carcass slaughtered in the absence of an inspector, any lesion or other evidence is found indicating that the animal was sick or diseased, or affected with any other condition requiring condemnation of the animal on ante-mortem inspection, or if there is lacking evidence of the condition which rendered emergency slaughter necessary, the carcass shall be condemned. The parts and carcasses of cattle slaughtered in the absence of an inspector shall not be used for human food.
+
+[35 FR 15569, Oct. 3, 1970, as amended at 69 FR 1874, Jan. 12, 2004]

@@ -1,0 +1,3 @@
+##### § 1882.1 Loan fund, general. #####
+
+Funds appropriated by Congress for loans for relief of adverse social and economic impacts resulting from the development of Federal mineral deposits leased and developed under the Act may be loaned to those States and their political subdivisions who qualify under this subpart. Such loans may be used for: (a) Planning, (b) construction and maintenance of public facilities, and (c) provisions for public services.

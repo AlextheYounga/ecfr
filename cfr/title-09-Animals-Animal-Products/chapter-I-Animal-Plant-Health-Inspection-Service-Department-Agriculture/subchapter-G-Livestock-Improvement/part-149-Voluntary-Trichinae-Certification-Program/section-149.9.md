@@ -1,0 +1,3 @@
+##### § 149.9 Pilot program sites. #####
+
+Pork production sites participating in an APHIS-approved trichinae pilot program at the time of implementation of the Trichinae Certification Program on November 10, 2008 will maintain their same program status as either a Stage I enrolled, Stage II certified, or Stage III certified site, as well as their same program anniversary date for purposes of completing a site audit and submitting the completed audit form and payment.

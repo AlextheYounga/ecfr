@@ -1,0 +1,3 @@
+##### § 592.140 Application for inspection in official plants; approval. #####
+
+Any person desiring to process products under inspection service must receive approval of such plant and facilities as an official plant prior to the installation of such service. The initial survey, drawings, and specifications to be submitted, changes and revisions in the official plant, and final survey and procedure for plant approval shall be in accordance with and conform to the applicable provisions of Part 590 of this chapter.

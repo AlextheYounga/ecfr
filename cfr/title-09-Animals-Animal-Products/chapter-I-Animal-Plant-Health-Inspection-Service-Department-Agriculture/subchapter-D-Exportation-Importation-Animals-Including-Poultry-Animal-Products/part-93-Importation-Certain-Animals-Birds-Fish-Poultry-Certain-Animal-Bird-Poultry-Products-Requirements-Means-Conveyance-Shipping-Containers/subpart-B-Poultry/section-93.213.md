@@ -1,0 +1,3 @@
+##### § 93.213 Appearance of disease among poultry in quarantine. #####
+
+If any contagious disease appears among poultry during the quarantine period special precautions shall be taken to prevent spread of the infection to other poultry in the quarantine station or to those outside the grounds. The affected poultry shall be disposed of as the Administrator may direct, depending upon the nature of the disease.

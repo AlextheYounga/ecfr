@@ -1,0 +1,5 @@
+##### § 3106.8-3 Corporate merger. #####
+
+Where a corporate merger affects leases situated in a State where the transfer of property of the dissolving corporation to the surviving corporation is accomplished by operation of law, no transfer of any affected lease interest is required. A notification of the merger shall be furnished with a list, by serial number, of all lease interests affected. Include the processing fee for corporate merger found in the fee schedule in § 3000.12 of this chapter with your notification of a corporate merger. A bond rider or replacement bond conditioned to cover the obligations of all affected corporations may be required by the authorized officer as a prerequisite to recognition of the merger.
+
+[53 FR 17355, May 16, 1988, as amended at 70 FR 58874, Oct. 7, 2005]

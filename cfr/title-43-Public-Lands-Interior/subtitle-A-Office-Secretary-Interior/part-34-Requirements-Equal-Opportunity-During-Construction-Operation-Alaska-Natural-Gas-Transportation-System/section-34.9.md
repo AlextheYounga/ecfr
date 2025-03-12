@@ -1,0 +1,9 @@
+##### § 34.9 Compliance reporting. #####
+
+(a) *Records, reports, and access to books.* Each recipient, contractor, or subcontractor to which these regulations apply shall submit to the Federal Inspector reports in the form and manner that the Federal Inspector determines to be necessary to insure compliance with the rules, regulations, and orders implementing section 17 and Condition 11 of the President's *Decision.*
+
+(b) *Access to sources of information.* Each person to whom this part applies shall permit access by the Federal Inspector during normal business hours to books, records, accounts, and other sources of information, and to facilities, as the Federal Inspector determines to be necessary to insure compliance with the rules, regulations, and orders implementing section 17 and the President's *Decision.*
+
+(c) *Failure to submit reports.* Failure to file timely, complete, and accurate reports, or failure to permit access to sources of information as required constitutes non-compliance with the Equal Opportunity Clause and with these regulations and, therefore, constitutes grounds for action by the Federal Inspector, recipient, contractor, or subcontractor to enforce compliance or levy sanctions as authorized by ANGTA, by the implementing rules, regulations, and orders thereunder, by contractual agreement, or by any other means authorized by law.
+
+(d) *Information for beneficiaries and participants.* Each recipient or other entity required to develop an affirmative action plan pursuant to these regulations shall make the plan available for inspection by employees, participants, beneficiaries, local, State, and Federal government officials, and members of the public upon request. A copy of the plan shall be maintained at each place of employment, and a notice posted at each such place to advise employees and members of the public that the plan is available for inspection upon request.

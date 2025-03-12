@@ -1,0 +1,3 @@
+##### § 3742.3-6 Service of copies; failure to comply. #####
+
+If any applicant, offeror, permittee or lessee requesting publication of notice under these regulations shall fail to comply with the requirements of section 7(a) of the Act as to personal delivery or mailing of a copy of the published notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice shall in no manner affect, diminish, prejudice or bar any rights of that person.

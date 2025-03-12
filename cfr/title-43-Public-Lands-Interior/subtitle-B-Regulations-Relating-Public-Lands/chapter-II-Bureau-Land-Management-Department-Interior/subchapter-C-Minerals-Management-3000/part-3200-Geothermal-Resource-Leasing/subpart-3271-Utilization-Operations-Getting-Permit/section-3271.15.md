@@ -1,0 +1,3 @@
+##### § 3271.15 How do I get a permit to begin commercial operations? #####
+
+Before using Federal geothermal resources, you as lessee, operator, or facility operator must send us a completed commercial use permit (see § 3274.11). This also applies when you use Federal resources allocated through any form of agreement. Do not start any commercial use operations until BLM approves your commercial use permit.

@@ -1,0 +1,3 @@
+##### § 3204.13 How will BLM process noncompetitive lease applications pending on August 8, 2005? #####
+
+Noncompetitive lease applications pending on August 8, 2005, will be processed under policies and procedures existing on that date unless the applicant notifies BLM in writing that it elects for the lease application to be subject to the competitive leasing process specified in this subpart, in which case the application will be considered a nomination for future competitive lease offerings for the lands in the application.

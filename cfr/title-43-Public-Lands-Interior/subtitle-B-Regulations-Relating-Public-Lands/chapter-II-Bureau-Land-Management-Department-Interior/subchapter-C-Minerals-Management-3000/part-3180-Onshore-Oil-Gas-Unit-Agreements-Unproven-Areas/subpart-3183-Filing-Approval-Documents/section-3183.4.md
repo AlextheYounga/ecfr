@@ -1,0 +1,9 @@
+##### § 3183.4 Approval of executed agreement. #####
+
+(a) A unit agreement shall be approved by the authorized officer upon a determination that such agreement is necessary or advisable in the public interest and is for the purpose of more properly conserving natural resources. Such approval shall be incorporated in a Certification-Determination document appended to the agreement (see § 3186.1 of this part for an example), and the unit agreement shall not be deemed effective until the authorized officer has executed the Certification-Determination document. No such agreement shall be approved unless the parties signatory to the agreement hold sufficient interests in the unit area to provide reasonably effective control of operations.
+
+(b) The public interest requirement of an approved unit agreement for unproven areas shall be satisfied only if the unit operator commences actual drilling operations and thereafter diligently prosecutes such operations in accordance with the terms of said agreement. If an application is received for voluntary termination of a unit agreement for an unproven area during its fixed term or such an agreement automatically expires at the end of its fixed term without the public interest requirement having been satisfied, the approval of that agreement by the authorized officer and lease segregations and extensions under § 3107.3-2 of this title shall be invalid, and no Federal lease shall be eligible for extensions under § 3107.4 of this title.
+
+(c) Any modification of an approved agreement shall require the prior approval of the authorized officer.
+
+[53 FR 17365, May 16, 1988, as amended at 58 FR 58633, Nov. 2, 1993]

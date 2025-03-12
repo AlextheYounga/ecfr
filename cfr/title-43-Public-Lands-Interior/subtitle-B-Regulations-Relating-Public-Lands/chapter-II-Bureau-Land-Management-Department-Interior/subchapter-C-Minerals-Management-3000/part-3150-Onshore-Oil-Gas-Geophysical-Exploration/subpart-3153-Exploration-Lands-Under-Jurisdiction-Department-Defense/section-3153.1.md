@@ -1,0 +1,3 @@
+##### § 3153.1 Geophysical permit requirements. #####
+
+Except in unusual circumstances, permits for geophysical exploration on unleased lands under the jurisdiction of the Department of Defense shall be issued by the appropriate agency of that Department. In the event an agency of the Department of Defense refers an application for exploration to the Bureau for issuance, the provisions of subpart 3152 of this title shall apply. Geophysical exploration on lands under the jurisdiction of the Department of Defense shall be authorized only with the consent of, and subject to such terms and conditions as may be required by, the Department of Defense.

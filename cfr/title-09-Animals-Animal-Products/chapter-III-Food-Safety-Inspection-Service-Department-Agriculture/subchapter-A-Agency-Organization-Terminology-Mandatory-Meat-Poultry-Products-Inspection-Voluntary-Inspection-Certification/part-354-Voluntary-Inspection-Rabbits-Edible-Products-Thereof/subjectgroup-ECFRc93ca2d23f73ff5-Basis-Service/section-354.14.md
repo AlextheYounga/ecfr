@@ -1,0 +1,3 @@
+##### § 354.14 Authority to waive provisions of § 354.12. #####
+
+The Administrator is authorized to waive the provisions of § 354.12 which pertain to the entry of uninspected edible products into official plants in specific instances where rabbits are to be brought into compliance with a law under the provisions of a court order. Such rabbits shall be handled in an official plant in accordance with such procedures as the Administrator may prescribe to insure proper segregation and identity of the rabbits or rabbit products until they are shipped from the official plant.

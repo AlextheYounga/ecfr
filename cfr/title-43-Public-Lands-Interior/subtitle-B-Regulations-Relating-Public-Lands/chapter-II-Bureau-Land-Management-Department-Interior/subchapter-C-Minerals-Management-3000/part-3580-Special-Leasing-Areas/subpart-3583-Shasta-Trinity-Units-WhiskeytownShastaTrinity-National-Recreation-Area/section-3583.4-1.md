@@ -1,0 +1,3 @@
+##### § 3583.4-1 Leasing units. #####
+
+Leasing units may not exceed 640 acres consisting, if the lands are surveyed, of legal subdivisions in reasonably compact form or, if the lands are not surveyed, of a square or rectangular area with north and south and east and west boundaries so as to approximate legal subdivisions, described by metes and bounds and connected to a corner of the public survey by courses and distances. The authorized officer may prescribe a lesser area for any mineral deposit if such lesser area is adequate for an economic mining operation.

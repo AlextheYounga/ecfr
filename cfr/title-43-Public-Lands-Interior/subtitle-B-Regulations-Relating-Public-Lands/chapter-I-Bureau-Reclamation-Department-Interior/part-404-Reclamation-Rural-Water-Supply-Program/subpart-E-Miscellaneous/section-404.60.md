@@ -1,0 +1,3 @@
+##### § 404.60 Does this rule contain an information collection that requires approval by the Office of Management and Budget (OMB)? #####
+
+Yes. This rule does contain an information collection that is approved by OMB, under Control Number 1006-0029. The Paperwork Reduction Act provides that an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid OMB control number.

@@ -1,0 +1,3 @@
+##### § 80.4 Segregation of animals positive to an official Johne's disease test during interstate movement. #####
+
+Animals that are positive to an official Johne's disease test may not be moved interstate in a railroad car, boat, truck, or other vehicle containing healthy animals susceptible to Johne's disease unless all of the animals are for immediate slaughter, or unless the positive animals are kept separate from the other animals by a partition that is securely affixed to the sides of the vehicle and prevents the transfer of fecal matter from the animals positive to an official Johne's disease test to the healthy animals in the vehicle.

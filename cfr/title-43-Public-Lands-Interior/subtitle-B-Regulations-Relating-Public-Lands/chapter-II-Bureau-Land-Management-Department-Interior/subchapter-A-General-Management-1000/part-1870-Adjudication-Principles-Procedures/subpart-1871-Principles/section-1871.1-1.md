@@ -1,0 +1,5 @@
+##### § 1871.1-1 Cases subject to equitable adjudication. #####
+
+The cases subject to equitable adjudication by the Director, Bureau of Land Management, cover the following:
+
+(a) *Substantial compliance:* All classes of entries in connection with which the law has been substantially complied with and legal notice given, but the necessary citizenship status not acquired, sufficient proof not submitted, or full compliance with law not effected within the period authorized by law, or where the final proof testimony, or affidavits of the entryman or claimant were executed before an officer duly authorized to administer oaths but outside the county or land district, in which the land is situated, and special cases deemed proper by the Director, Bureau of Land Management, where the error or informality is satisfactorily explained as being the result of ignorance, mistake, or some obstacle over which the party had no control, or any other sufficient reason not indicating bad faith there being no lawful adverse claim.

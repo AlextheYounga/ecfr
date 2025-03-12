@@ -1,0 +1,7 @@
+##### § 3141.6-2 Publication of a notice of competitive lease offering. #####
+
+(a) *Combined Hydrocarbon Leases.* Where a determination to offer lands for competitive leasing is made, a notice shall be published of the lease sale in the Federal Register and a newspaper of general circulation in the area in which the lands to be leased are located. The publication shall appear once in the Federal Register and at least once a week for 3 consecutive weeks in a newspaper, or for other such periods deemed necessary. The notice shall specify the time and place of sale; the manner in which the bids may be submitted; the description of the lands; the terms and conditions of the lease, including the royalty and rental rates; the amount of the minimum bid; and shall state that the terms and conditions of the leases are available for inspection and designate the proper BLM office where bid forms may be obtained.
+
+(b) *Tar Sand Leases or Oil and Gas Leases.* At least 45 days prior to conducting a competitive auction, lands to be offered for a competitive lease sale shall be posted in the proper BLM office having jurisdiction over the lands as specified in § 1821.10 of this chapter, and shall be made available for posting to surface managing agencies having jurisdiction over any of the included lands.
+
+[70 FR 58616, Oct. 7, 2005, as amended at 71 FR 28779, May 18, 2006]

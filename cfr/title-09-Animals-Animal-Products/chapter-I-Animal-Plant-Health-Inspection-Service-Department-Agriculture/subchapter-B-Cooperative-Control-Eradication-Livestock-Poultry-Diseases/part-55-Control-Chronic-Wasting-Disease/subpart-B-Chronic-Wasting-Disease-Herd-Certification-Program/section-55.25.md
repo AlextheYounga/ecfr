@@ -1,0 +1,5 @@
+##### § 55.25 Animal identification. #####
+
+Each animal required to be identified by this subpart must have at least two forms of animal identification attached to the animal. One of the animal identifications must be official animal identification as defined in this part, with a nationally unique animal identification number that is linked to that animal in the CWD National Database or in an approved State database. The second animal identification must be unique for the individual animal within the herd and also must be linked to that animal and herd in the CWD National Database or in an approved State database. The means of animal identification must be approved for this use by APHIS, and must be an electronic implant, flank tattoo, ear tattoo, tamper-resistant ear tag, or other device approved by APHIS.
+
+(Approved by the Office of Management and Budget under control number 0579-0237)

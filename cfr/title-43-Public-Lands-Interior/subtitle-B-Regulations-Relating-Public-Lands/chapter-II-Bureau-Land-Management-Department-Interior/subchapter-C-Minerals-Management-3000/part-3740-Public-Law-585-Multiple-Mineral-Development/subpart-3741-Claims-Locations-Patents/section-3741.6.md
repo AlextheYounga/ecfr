@@ -1,0 +1,3 @@
+##### § 3741.6 Acquisition of Leasing Act minerals in lands covered by mining claims and millsites. #####
+
+The Leasing Act minerals in lands covered by mining claims and millsites located after the date of the Act or validated pursuant to the Act may be acquired under the mineral leasing laws, upon appropriate application therefor being filed prior to the issuance of patent to such mining claims or millsites, or after the issuance of patent, if the patent contains a reservation of Leasing Act minerals to the United States as provided in section 4 of the Act.

@@ -1,0 +1,3 @@
+##### § 3106.7-1 Failure to qualify. #####
+
+No transfer of record title or of operating rights (sublease) shall be approved if the transferee or any other parties in interest are not qualified to hold the transferred interest(s), or if the bond, should one be required, is insufficient. Transfers are approved for administrative purposes only. Approval does not warrant or certify that either party to a transfer holds legal or equitable title to a lease.

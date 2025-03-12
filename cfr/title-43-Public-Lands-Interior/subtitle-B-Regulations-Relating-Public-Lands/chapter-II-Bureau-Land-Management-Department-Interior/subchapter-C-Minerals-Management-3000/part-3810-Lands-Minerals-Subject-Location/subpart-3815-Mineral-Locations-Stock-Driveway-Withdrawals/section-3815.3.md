@@ -1,0 +1,3 @@
+##### § 3815.3 Surface limitation. #####
+
+While a mining location will be made in accordance with the usual procedure for locating mining claims, and will describe a tract of land, having due regard to the limitations of area fixed by the mining laws, the locator will be limited under his location to the right to the minerals discovered in the land and to mine and remove the same, and to occupy so much of the surface of the claim as may be required for all purposes reasonably incident to the mining and removal of the minerals.

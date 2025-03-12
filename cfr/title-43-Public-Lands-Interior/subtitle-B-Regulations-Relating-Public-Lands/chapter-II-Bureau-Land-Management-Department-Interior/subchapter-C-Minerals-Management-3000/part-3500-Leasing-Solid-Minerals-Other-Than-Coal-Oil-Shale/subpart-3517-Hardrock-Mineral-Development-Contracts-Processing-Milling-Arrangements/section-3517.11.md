@@ -1,0 +1,3 @@
+##### § 3517.11 Are permits and leases covered by approved agreements exempt from the acreage limitations? #####
+
+Hardrock mineral permits and leases committed to development contracts or processing or milling arrangements approved by BLM are exempt from state and nationwide acreage limitations. We will not count them toward your maximum acreage holdings. However, individual hardrock mineral leases committed to a development contract or lease may not exceed 2560 acres in size.

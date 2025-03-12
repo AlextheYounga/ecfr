@@ -1,0 +1,3 @@
+##### § 3900.20 Appealing the BLM's decision. #####
+
+Any party adversely affected by a BLM decision made under this part or parts 3910 through 3930 of this chapter may appeal the decision under part 4 of this title. All decisions and orders by the BLM under these parts remain effective pending appeal unless the BLM decides otherwise. A petition for the stay of a decision may be filed with the Interior Board of Land Appeals (IBLA).

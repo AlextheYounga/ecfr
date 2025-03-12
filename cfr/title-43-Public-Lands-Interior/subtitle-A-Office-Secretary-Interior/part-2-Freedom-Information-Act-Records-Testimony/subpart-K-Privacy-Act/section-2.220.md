@@ -1,0 +1,5 @@
+##### § 2.220 Purpose and scope. #####
+
+This subpart contains the regulations of the Department of the Interior implementing section 3 of the Privacy Act. Sections 2.47 through 2.57 describe the procedures and policies of the Department concerning maintenance of records which are subject to the Act. Sections 2.60 through 2.66 describe the procedure under which individuals may determine whether systems of records subject to the Act contain records relating to them and the procedure under which they may seek access to existing records. Sections 2.70 through 2.77 describe the procedure under which individuals may petition for amendment of records subject to the Act relating to them. Section 2.79 lists records systems that have been exempted from certain requirements of the Act.
+
+[48 FR 56583, Dec. 22, 1983]

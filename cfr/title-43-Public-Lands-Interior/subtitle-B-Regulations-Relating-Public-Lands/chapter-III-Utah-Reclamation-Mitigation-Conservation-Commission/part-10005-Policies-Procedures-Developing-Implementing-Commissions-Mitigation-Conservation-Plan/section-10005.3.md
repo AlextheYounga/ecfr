@@ -1,0 +1,5 @@
+##### § 10005.3 Policy. #####
+
+(a) As directed in section 301(a) of the Act, the Commission was established “to coordinate the implementation of the mitigation and conservation provisions of this Act among the Federal and State fish, wildlife, and recreation agencies. The United States Senate Committee on Energy and Natural Resources report accompanying the Act provided further clarification of Congressional intent: “Focusing of such authority into a single entity is intended to eliminate past dispersion among several Federal and State resource management agencies of the responsibility, and therefore accountability, for reclamation mitigation in Utah.”
+
+(b) It is the policy of the Commission that the mitigation and conservation plan, in tandem with the Act, serve as the principal guidance for the Commission in fulfilling its mitigation and conservation responsibilities. Further, the Commission will use the development of the plan, and subsequent amendment processes, as the primary means to involve agencies and the public in the Commission's decision making process.

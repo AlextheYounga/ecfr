@@ -1,0 +1,7 @@
+##### § 314.9 Specimens for educational, research, and other nonfood purposes; permits for, required. #####
+
+(a) Specimens of condemned or other inedible materials, including embryos and specimens of animal parasites, may be released for educational, research, or other nonfood purposes under permit issued by the inspector in charge: *Provided,* That the person desiring such specimens makes a written application to the inspector in charge for such permit on Form MP-403-10 and arranges with and receives permission from the official establishment to obtain the specimens. Permits shall be issued for a period not longer than 1 year. The permit may be revoked by the inspector in charge if the specimens are not used as stated in the application, or if the collection or handling of the specimens interferes with inspection or the maintenance of sanitary conditions in the establishment.
+
+(b) The specimens referred to in paragraph (a) of this section shall be collected and handled only at such time and place and in such manner as not to interfere with the inspection or to cause any objectionable condition and shall be identified as inedible when they leave the establishment.
+
+[35 FR 15575, Oct. 3, 1970, as amended at 38 FR 18665, July 13, 1973; 39 FR 36000, Oct. 7, 1974]

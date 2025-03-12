@@ -1,0 +1,3 @@
+##### § 3101.5-4 Stipulations. #####
+
+Leases shall be issued subject to stipulations prescribed by the Fish and Wildlife Service as to the time, place, nature and condition of such operations in order to minimize impacts to fish and wildlife populations and habitat and other refuge resources on the areas leased. The specific conduct of lease activities on any refuge lands shall be subject to site-specific stipulations prescribed by the Fish and Wildlife Service.

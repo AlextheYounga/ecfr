@@ -1,0 +1,3 @@
+##### § 3513.34 When and how does my suspension of operations (economic concerns) expire or terminate? #####
+
+The suspension of operations (economic concerns) ends on the expirations date that BLM specifies in the decision approving the suspension, or on the first day of the lease month in which you resume operations, whichever occurs first. Your obligation for minimum annual production resumes at this time.

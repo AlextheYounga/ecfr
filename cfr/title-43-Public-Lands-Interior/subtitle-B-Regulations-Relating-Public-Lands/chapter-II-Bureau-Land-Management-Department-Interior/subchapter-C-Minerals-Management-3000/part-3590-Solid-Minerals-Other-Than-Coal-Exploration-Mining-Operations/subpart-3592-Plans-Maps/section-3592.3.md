@@ -1,0 +1,7 @@
+##### § 3592.3 Production maps. #####
+
+(a) The operator shall prepare maps which show mineral production from the leased lands. All excavations in each separate bed or deposit shall be shown in such a manner that the production of minerals for any royalty period can be accurately ascertained. Maps submitted for in situ or solution mining shall show pipelines, meter locations, or other points of measurement necessary for production verification. Production maps shall be submitted to the authorized officer at the end of each royalty reporting period or on a schedule determined by the authorized officer. As appropriate or required by the authorized officer, production maps also shall show surface boundaries, lease boundaries and topography, including subsidence resulting from mining activities.
+
+(b) In the event of failure of the operator to furnish the maps required by this section, the authorized officer shall employ a licensed mine surveyor to make a survey and maps of the mine, and the cost thereof shall be charged to and promptly paid by the operator/lessee.
+
+(c) If the authorized officer believes any map submitted by an operator/lessee is incorrect, the authorized officer may cause a survey to be made, and if the survey shows the map submitted by the operator/lessee to be substantially incorrect in whole or in part, the cost of making the survey and preparing the map shall be charged to and promptly paid by the operator/lessee.

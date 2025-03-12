@@ -1,0 +1,7 @@
+##### § 354.133 Reinspection of edible products; ingredients. #####
+
+(a) Any inspected and certified edible product may be brought into an official plant only if the container of such product is marked for identification in the manner prescribed in § 354.71(b) and the product is reinspected by an inspector at the time it is brought into such plant. Upon reinspection, if any such product or portion thereof is found to be unsound, unwholesome, or otherwise unfit for human food, such product, or portion thereof, shall be condemned and shall receive treatment as provided in § 354.127.
+
+(b) Any product which is prepared under inspection in an official plant shall be inspected in such plant as often as the inspector deems it necessary in order to ascertain whether such product is sound, wholesome, and fit for human food at the time such product leaves such plant. Upon any such inspection, if any such product or portion thereof is found to be unsound, unwholesome, or otherwise unfit for human food, such product or portion thereof shall be condemned and shall receive treatment as provided in § 354.127.
+
+(c) All substances and ingredients used in the manufacture or preparation of any edible product shall be clean, sound, wholesome, and fit for human food. Liquid and frozen egg products used in the preparation of any edible product shall have been prepared under continuous inspection of the Department.

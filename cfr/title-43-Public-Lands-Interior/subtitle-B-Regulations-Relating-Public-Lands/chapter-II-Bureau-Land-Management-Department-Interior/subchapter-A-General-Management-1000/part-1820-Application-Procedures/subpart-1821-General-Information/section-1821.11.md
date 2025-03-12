@@ -1,0 +1,3 @@
+##### § 1821.11 During what hours may I file an application? #####
+
+You may file applications or other documents or inspect official records during BLM office hours. Each BLM office will prominently display a notice of the hours during which that particular office will be open. Except for offices which are open periodically, for example, every Wednesday or the 3rd Wednesday of the month, all offices will be open Monday through Friday, excluding Federal holidays, at least from 9 a.m. to 3 p.m., local time.

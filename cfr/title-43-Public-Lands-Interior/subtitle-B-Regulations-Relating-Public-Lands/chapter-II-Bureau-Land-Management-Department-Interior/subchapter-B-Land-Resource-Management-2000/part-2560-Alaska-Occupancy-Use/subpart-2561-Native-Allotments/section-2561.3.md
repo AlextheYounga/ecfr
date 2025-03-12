@@ -1,0 +1,5 @@
+##### § 2561.3 Effect of allotment. #####
+
+(a) Land allotted under the Act is the property of the allottee and his heirs in perpetuity, and is inalienable and nontaxable. However, a native of Alaska who received an allotment under the Act, or his heirs, may with the approval of the Secretary of the Interior or his authorized representative, convey the complete title to the allotted land by deed. The allotment shall thereafter be free of any restrictions against alienation and taxation unless the purchaser is a native of Alaska who the Secretary determines is unable to manage the land without the protection of the United States and the conveyance provides for a continuance of such restrictions.
+
+(b) Application by an allottee or his heirs for approval to convey title to land allotted under the Allotment Act shall be filed with the appropriate officer of the Bureau of Indian Affairs.

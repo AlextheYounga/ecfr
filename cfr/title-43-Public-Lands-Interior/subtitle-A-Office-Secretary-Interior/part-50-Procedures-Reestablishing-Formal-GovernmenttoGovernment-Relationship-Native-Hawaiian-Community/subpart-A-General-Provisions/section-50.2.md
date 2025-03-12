@@ -1,0 +1,3 @@
+##### § 50.2 How will reestablishment of this formal government-to-government relationship occur? #####
+
+A Native Hawaiian government seeking to reestablish a formal government-to-government relationship with the United States under this part must submit to the Secretary a request as described in § 50.10. Reestablishment of a formal government-to-government relationship will occur if the Secretary grants the request as described in §§ 50.40 through 50.43.

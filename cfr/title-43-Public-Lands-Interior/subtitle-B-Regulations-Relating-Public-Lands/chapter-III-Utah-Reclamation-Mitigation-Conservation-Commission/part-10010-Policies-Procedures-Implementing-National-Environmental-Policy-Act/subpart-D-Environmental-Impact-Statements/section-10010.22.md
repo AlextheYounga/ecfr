@@ -1,0 +1,3 @@
+##### § 10010.22 Statutory requirements. #####
+
+NEPA requires that an EIS be prepared by the responsible Federal official. This official is normally the lowest-level official who has overall responsibility for formulating, reviewing, or proposing an action or, alternatively, has been delegated the authority or responsibility to develop, approve, or adopt a proposal or action. Preparation at this level will ensure that the NEPA process will be incorporated into the planning process and that the EIS will accompany the proposal through existing review processes.

@@ -1,0 +1,19 @@
+##### § 77.7 Accredited-free States or zones. #####
+
+(a) The following are accredited-free States: Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, the Virgin Islands of the United States, Washington, West Virginia, Wisconsin, and Wyoming.
+
+(b) The following are accredited-free zones:
+
+(1) All of the State of Michigan except for the zone that comprises those counties in Michigan described in § 77.11(b)(1).
+
+(2) [Reserved]
+
+(c) If an affected herd is detected in a State or zone classified as accredited-free, and the herd is depopulated and an epidemiologic investigation is completed within 90 days of the detection of the affected herd with no evidence of the spread of tuberculosis, the State or zone may retain its accredited-free status. If two or more affected herds are detected in an accredited-free State or zone within a 48-month period, the State or zone will be removed from the list of accredited-free States or zones and will be reclassified as modified accredited advanced.
+
+(d) If any livestock other than cattle or bison are included in a newly assembled herd on a premises where a tuberculous herd has been depopulated, the State or zone must apply the herd test requirements contained in the “Uniform Methods and Rules - Bovine Tuberculosis Eradication” (January 22, 1999, edition), which is incorporated by reference at § 77.1, to those other livestock in the same manner as to cattle and bison. Failure to do so will result in reclassification of the State or zone as modified accredited advanced.
+
+(e) If tuberculosis is diagnosed within an accredited-free State or zone in an animal not specifically regulated by this part and a risk assessment conducted by APHIS determines that the outbreak poses a tuberculosis risk to livestock within the State or zone, the State or zone must implement a tuberculosis management plan, approved jointly by the State animal health official and the Administrator, within 6 months of the diagnosis. The management plan must include provisions for immediate investigation of tuberculosis in animals held for exhibition and in livestock and wildlife; the prevention of the spread of the disease to other animals held for exhibition and to livestock and wildlife; increased surveillance for tuberculosis in animals held for exhibition and wildlife; eradication of tuberculosis from individual herds; a timeline for tuberculosis eradication; and performance standards by which to measure yearly progress toward eradication. If a State or zone does not implement such a plan within the required 6 months, the State or zone will lose its accredited-free status and will be reclassified as modified accredited advanced.
+
+(f) Accredited-free State or zone status must be renewed annually. To qualify for renewal of accredited-free State or zone status, a State must submit an annual report to APHIS certifying that the State or zone within the State complies with the provisions of the “Uniform Methods and Rules - Bovine Tuberculosis Eradication.” The report must be submitted to APHIS each year between October 1 and November 30.
+
+(Approved by the Office of Management and Budget under control number 0579-0146)[65 FR 63517, Oct. 23, 2000]Editorial Note:For Federal Register citations affecting § 77.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

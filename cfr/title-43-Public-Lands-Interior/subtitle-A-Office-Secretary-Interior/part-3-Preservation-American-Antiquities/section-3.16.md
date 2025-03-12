@@ -1,0 +1,3 @@
+##### § 3.16 Seizure. #####
+
+Any object of antiquity taken, or collection made, on lands owned or controlled by the United States, without a permit, as prescribed by the act and this part, or there taken or made, contrary to the terms of the permit, or contrary to the act and this part, may be seized wherever found and at any time, by the proper field officer or by any person duly authorized by the Secretary having jurisdiction, and disposed of as the Secretary shall determine, by deposit in the proper national depository or otherwise.

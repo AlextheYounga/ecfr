@@ -1,0 +1,3 @@
+##### § 3110.6 Withdrawal of offer. #####
+
+An offer for noncompetitive lease under this subpart may be withdrawn in whole or in part by the offeror. However, a withdrawal of an offer made in accordance with § 3110.1(b) of this title may be made only if the withdrawal is received by the proper BLM office after 60 days from the date of filing of such offer. No withdrawal may be made once the lease, an amendment of the lease, or a separate lease, whichever covers the lands so described in the withdrawal, has been signed on behalf of the United States. If a public domain offer is partially withdrawn, the lands retained in the offer shall comply with § 3110.3-3(a) of this title.

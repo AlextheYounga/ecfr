@@ -1,0 +1,5 @@
+##### § 317.344 Identification of major cuts of meat products. #####
+
+The major cuts of single-ingredient, raw meat products are: Beef chuck blade roast, beef loin top loin steak, beef rib roast large end, beef round eye round steak, beef round top round steak, beef round tip roast, beef chuck arm pot roast, beef loin sirloin steak, beef round bottom round steak, beef brisket (whole, flat half, or point half), beef rib steak small end, beef loin tenderloin steak, pork loin chop, pork loin country style ribs, pork loin top loin chop boneless, pork loin rib chop, pork spareribs, pork loin tenderloin, pork loin sirloin roast, pork shoulder blade steak, pork loin top roast boneless, lamb shank, lamb shoulder arm chop, lamb shoulder blade chop, lamb rib roast, lamb loin chop, lamb leg (whole, sirloin half, or shank half), veal shoulder arm steak, veal shoulder blade steak, veal rib roast, veal loin chop, and veal cutlets.
+
+[58 FR 664, Jan. 6, 1993, as amended at 59 FR 45196, Sept. 1, 1994; 75 FR 82165, Dec. 29, 2010]

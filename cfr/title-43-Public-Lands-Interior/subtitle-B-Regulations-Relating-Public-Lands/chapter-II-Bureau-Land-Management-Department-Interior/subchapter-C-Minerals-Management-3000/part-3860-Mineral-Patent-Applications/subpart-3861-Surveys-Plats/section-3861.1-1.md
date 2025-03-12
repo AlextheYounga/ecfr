@@ -1,0 +1,5 @@
+##### § 3861.1-1 Application for survey. #####
+
+The claimant is required, in the first place, to have a correct survey of his claim made under authority of the proper cadastral engineer, such survey to show with accuracy the exterior surface boundaries of the claim, which boundaries are required to be distinctly marked by monuments on the ground. He is required to have a correct survey where patent is applied for and where the mining claim is in vein or lode formation, or covers lands not surveyed in accordance with the U.S. system of rectangular surveys, or where the mining claim fails to conform with the legal subdivisions of the federal surveys. Application for authorization of survey should be made to the appropriate land office (see § 1821.2-1 of this chapter).
+
+[Circ. 2220, 31 FR 16785, Dec. 31, 1966]

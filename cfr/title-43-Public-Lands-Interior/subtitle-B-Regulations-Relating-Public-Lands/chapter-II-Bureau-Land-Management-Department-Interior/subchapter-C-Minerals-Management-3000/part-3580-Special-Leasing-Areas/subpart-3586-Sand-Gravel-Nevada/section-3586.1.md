@@ -1,0 +1,3 @@
+##### § 3586.1 Applicable law and regulations. #####
+
+The Act of June 8, 1926 (44 Stat. 708), authorizes the Secretary to dispose of the reserved minerals in certain lands patented to the State of Nevada under such conditions and under such rules and regulations as he/she may prescribe. Mineral materials, including deposits of sand and gravel, in such lands shall, except for leases granted and renewed under this subpart, be subject to disposal only under the regulations in Group 3600 of this title which implement the Materials Act of 1947, as amended (30 U.S.C. 601 *et seq.*).

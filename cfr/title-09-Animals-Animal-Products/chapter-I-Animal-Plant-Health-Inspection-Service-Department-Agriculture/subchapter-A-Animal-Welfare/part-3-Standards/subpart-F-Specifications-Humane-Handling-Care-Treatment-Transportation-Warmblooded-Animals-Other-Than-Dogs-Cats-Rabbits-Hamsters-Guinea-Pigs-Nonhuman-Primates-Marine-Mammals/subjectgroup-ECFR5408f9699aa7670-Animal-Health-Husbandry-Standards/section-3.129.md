@@ -1,0 +1,5 @@
+##### § 3.129 Feeding. #####
+
+(a) The food shall be wholesome, palatable, and free from contamination and of sufficient quantity and nutritive value to maintain all animals in good health. The diet shall be prepared with consideration for the age, species, condition, size, and type of the animal. Animals shall be fed at least once a day except as dictated by hibernation, veterinary treatment, normal fasts, or other professionally accepted practices.
+
+(b) Food, and food receptacles, if used, shall be sufficient in quantity and located so as to be accessible to all animals in the enclosure and shall be placed so as to minimize contamination. Food receptacles shall be kept clean and sanitary at all times. If self-feeders are used, adequate measures shall be taken to prevent molding, contamination, and deterioration or caking of food.

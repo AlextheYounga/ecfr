@@ -1,0 +1,9 @@
+##### § 3162.3-4 Well abandonment. #####
+
+(a) The operator shall promptly plug and abandon, in accordance with a plan first approved in writing or prescribed by the authorized officer, each newly completed or recompleted well in which oil or gas is not encountered in paying quantities or which, after being completed as a producing well, is demonstrated to the satisfaction of the authorized officer to be no longer capable of producing oil or gas in paying quantities, unless the authorized officer shall approve the use of the well as a service well for injection to recover additional oil or gas or for subsurface disposal of produced water. In the case of a newly drilled or recompleted well, the approval to abandon may be written or oral with written confirmation.
+
+(b) Completion of a well as plugged and abandoned may also include conditioning the well as water supply source for lease operations or for use by the surface owner or appropriate Government Agency, when authorized by the authorized officer. All costs over and above the normal plugging and abandonment expense will be paid by the party accepting the water well.
+
+(c) No well may be temporarily abandoned for more than 30 days without the prior approval of the authorized officer. The authorized officer may authorize a delay in the permanent abandonment of a well for a period of 12 months. When justified by the operator, the authorized officer may authorize additional delays, no one of which may exceed an additional 12 months. Upon the removal of drilling or producing equipment from the site of a well which is to be permanently abandoned, the surface of the lands disturbed in connection with the conduct of operations shall be reclaimed in accordance with a plan first approved or prescribed by the authorized officer.
+
+[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 53 FR 17363, May 16, 1988; 53 FR 22847, June 17, 1988]

@@ -1,0 +1,3 @@
+##### § 3712.2-4 Publication. #####
+
+If the request for publication and the accompanying papers conform to the requirements of the Act, the Authorized officer or the Director, as may be appropriate, at the expense of the requesting department or agency, shall cause notice to mining claimants to be published in a newspaper having general circulation in the county in which the lands involved are situated. If the notice is published in a daily newspaper it shall be published in the Wednesday issue for nine consecutive weeks, if in a weekly paper, in nine consecutive issues, or if in a semi-weekly or tri-weekly paper, in the issue of the same day of each week for nine consecutive weeks.

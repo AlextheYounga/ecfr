@@ -1,0 +1,3 @@
+##### § 1882.6 Loan renegotiation. #####
+
+The Secretary may, upon application of a qualified State or one of its qualified political subdivisions, take any steps he determines necessary and justified by the failure of anticipated mineral development or related revenues to materialize as expected when the loan was made under this subpart to renegotiate the loan, including restructuring of the loan. All applications submitted under this section shall set forth in detail the basis for the renegotiation of the loan. The renegotiated loan shall meet the requirements of this subpart to the extent possible.

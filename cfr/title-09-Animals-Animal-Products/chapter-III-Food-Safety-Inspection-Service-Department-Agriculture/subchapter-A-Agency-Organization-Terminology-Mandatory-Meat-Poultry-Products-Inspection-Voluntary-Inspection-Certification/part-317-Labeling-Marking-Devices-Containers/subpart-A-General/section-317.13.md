@@ -1,0 +1,3 @@
+##### § 317.13 Storage and distribution of labels and containers bearing official marks. #####
+
+Labels, wrappers, and containers bearing any official marks, with or without the establishment number, may be transported from one official establishment to any other official establishment provided such shipments are made with the prior authorization of the inspector in charge at point of origin, who will notify the inspector in charge at destination concerning the date of shipment, quantity, and type of labeling material involved. No such material shall be used at the establishment to which it is shipped unless such use conforms with the requirements of this subchapter.

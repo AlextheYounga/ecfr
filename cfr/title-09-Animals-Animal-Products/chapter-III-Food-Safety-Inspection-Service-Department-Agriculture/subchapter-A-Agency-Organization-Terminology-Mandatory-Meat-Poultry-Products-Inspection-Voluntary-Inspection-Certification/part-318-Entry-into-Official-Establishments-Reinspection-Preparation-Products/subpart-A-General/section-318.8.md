@@ -1,0 +1,21 @@
+##### § 318.8 Preservatives and other substances permitted in product for export only; handling; such product not to be used for domestic food purposes. #####
+
+(a) Preservatives and other substances not permitted in domestic product under the regulations in this subchapter may be used in the preparation and packing of product intended for export provided the product (1) accords to the specifications or directions of the foreign purchaser; (2) is not in conflict with the laws of the country to which it is intended for export; and (3) is labeled on the outside container to show that it is intended for export, and is otherwise labeled as required by this subchapter for such export product.
+
+(b) The preparation and packing of export product as provided for in paragraph (a) of this section shall be done in a manner acceptable to the inspector in charge so that the identity of the export product is maintained conclusively and the preparation of domestic product is adequately protected. The preservatives and other substances not permitted in domestic product shall be stored in a room or compartment separate from areas used to store other supplies and shall be held under Program lock. Use of the preservatives or other substances shall be under the direct supervision of a Program employee.
+
+(c) The packing of all articles under paragraph (a) of this section shall be conducted under the direct supervision of a Program employee.
+
+(d) No article prepared or packed for export under paragraph (a) of this section shall be sold or offered for sale for domestic use or consumption, but unless exported shall be destroyed for food purposes under the direct supervision of a Program employee.
+
+(e) The contents of the container of any article prepared or packed for export under paragraph (a) of this section shall not be removed, in whole or in part, from such container prior to exportation, except under the supervision of a Program employee. If such contents are removed prior to exportation, then the article shall be either repacked, in accordance with the provisions of paragraphs (b) and (c) of this section, or destroyed for food purposes under the direct supervision of a Program employee.
+
+(f) Permission must be obtained from the Administrator before meats packed in borax are shipped from one official establishment to another or to an unofficial establishment for storage, except such meat prepared for the account of Federal agencies.
+
+(g) At all times, the identity of meat to which borax has been added shall be effectively maintained. In no case shall such meat, nor any trimmings or fat derived from such meat, whether unwashed or washed, or otherwise treated, be diverted to domestic use.
+
+(h) Salt used for bulking meat previously packed in borax may not again be used in an edible products department other than in connection with the packing of meat in borax. Only metal equipment should be used for handling such meat. Particularly effective cleansing will be required if wooden equipment such as trucks, washing vats, etc., is used. Boxes from which boraxed meat has been removed may be used for repacking meat in borax, but their use as containers for other meat will be dependent upon the effective removal of all traces of borax.
+
+(i) The following instructions pertain to export cured pork packed in borax for the account of Federal agencies. The meat may be packed in borax in a room in which there is borax-free meat, provided proper care is taken to see that the borax-free meat is not affected by the borax. Under the same condition, meat packed in borax may be received, unpacked, defrosted, soaked, washed, smoked, and repacked in a room where there is other meat. However, meat originally packed in borax shall at all times be subject to the restrictions of meat so packed, even though repacked without borax. After packing or repacking, borax packed meat may be stored in a room with meat not packed in borax, provided a reasonable degree of separation is maintained between the two classes of product.
+
+[35 FR 15586, Oct. 3, 1970; 36 FR 11903, June 23, 1971, as amended at 38 FR 29214, Oct. 23, 1973]

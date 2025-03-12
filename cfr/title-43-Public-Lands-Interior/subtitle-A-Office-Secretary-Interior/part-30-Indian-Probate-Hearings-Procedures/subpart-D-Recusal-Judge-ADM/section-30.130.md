@@ -1,0 +1,3 @@
+##### § 30.130 How does a judge or ADM recuse himself or herself from a probate case? #####
+
+If a judge or ADM must recuse himself or herself from a probate case under § 4.27(c) of this title, the judge or ADM must immediately file a certificate of recusal in the file of the case and notify the Chief ALJ, all interested parties, any counsel in the case, and the affected BIA agencies. The judge or ADM is not required to state the reason for recusal.

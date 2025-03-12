@@ -1,0 +1,5 @@
+##### § 6.4 Action by Solicitor. #####
+
+(a) If an employee inventor requests pursuant to § 6.2(e), that such determination be made, the Solicitor shall determine the respective rights of the employee and of the Government in and to the invention. His determination shall be subject to review by the Commissioner in proper cases under Executive Orders 10096 and 10930 and the rules and regulations issued by the Commissioner with the approval of the President.
+
+(b) If the Government is entitled to obtain the entire domestic right, title and interest in and to an invention made by an employee of the Department, the Solicitor, subject to review by the Commissioner in proper cases, may take such action respecting the invention as he deems necessary or advisable to protect the interests of the United States.

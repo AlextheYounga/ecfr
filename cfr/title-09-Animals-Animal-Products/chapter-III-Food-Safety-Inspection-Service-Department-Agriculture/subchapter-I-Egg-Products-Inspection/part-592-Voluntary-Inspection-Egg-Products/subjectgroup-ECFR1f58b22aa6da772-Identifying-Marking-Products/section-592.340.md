@@ -1,0 +1,7 @@
+##### § 592.340 Supervision of marking and packaging. #####
+
+(a) Evidence of label approval. Inspection program personnel shall authorize the use of official identification on any inspected product when they have evidence that such official identification or packaging material bearing such official identification has been approved in accordance with the provisions of § 592.300.
+
+(b) Affixing of official identification. No official identification may be affixed to or placed on or caused to be affixed to or placed on any product or container thereof except by an inspection program employee or under the supervision of an inspection program employee or other person authorized by the Administrator. All such products shall have been inspected in accordance with the regulations in this part. Inspection program personnel shall have supervision over the use and handling of all material bearing any official identification.
+
+(c) Labels for products sold under Government contract. Inspectors-in-charge may approve labels for containers of product sold under a contract specification to governmental agencies when such product is not offered for resale to the general public: Provided, that the contract specifications include complete specific requirements with respect to labeling, and are made available to inspection program personnel.

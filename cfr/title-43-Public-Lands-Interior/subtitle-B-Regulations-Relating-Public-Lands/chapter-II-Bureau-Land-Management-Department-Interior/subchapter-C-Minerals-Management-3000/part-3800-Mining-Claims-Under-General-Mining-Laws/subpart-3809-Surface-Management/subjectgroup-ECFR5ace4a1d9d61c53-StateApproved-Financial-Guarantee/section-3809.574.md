@@ -1,0 +1,5 @@
+##### § 3809.574 What happens if I have an existing corporate guarantee? #####
+
+(a) If you have an existing corporate guarantee on January 20, 2001 that applies to public lands under an approved BLM and State agreement, your corporate guarantee will continue in effect. BLM will not accept any new corporate guarantees or increases to existing corporate guarantees. You may not transfer your existing corporate guarantee to another operator.
+
+(b) If the State revises existing corporate guarantee criteria or requirements that apply to a corporate guarantee existing on January 20, 2001, the BLM State Director will review the revisions to ensure that adequate financial coverage continues. If the BLM State Director determines it is in the public interest to do so, the State Director may terminate a revised corporate guarantee and require an acceptable replacement financial guarantee after due notice and a reasonable time to obtain a replacement.

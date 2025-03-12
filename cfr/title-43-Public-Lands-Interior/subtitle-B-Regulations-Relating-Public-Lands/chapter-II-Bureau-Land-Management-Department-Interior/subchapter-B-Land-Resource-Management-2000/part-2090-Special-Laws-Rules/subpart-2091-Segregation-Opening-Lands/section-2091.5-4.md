@@ -1,0 +1,5 @@
+##### § 2091.5-4 Segregative effect and opening: Water power withdrawals. #####
+
+(a) Lands covered by powersite reserves, powersite classifications, and powersite designations are considered withdrawn and are segregated from operation of the public land laws, but are not withdrawn and segregated from the operation of the mineral laws.
+
+(b) These lands may be opened to operation of the public land laws after a revocation or cancellation order issued by the Department of the Interior or after a determination to open the lands is made by the Federal Energy Regulatory Commission under section 24 of the Federal Power Act. (See subpart 2320) Mining claims may be located on such lands under procedures in subpart 3730 of this title. These lands are opened by publication in the Federal Register of an opening order specifying the extent, date and time of opening.

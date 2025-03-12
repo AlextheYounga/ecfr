@@ -1,0 +1,9 @@
+##### § 355.34 Labels, approval of, by Administrator. #####
+
+(a) Except as provided in paragraph (c) of this section, no label shall be used on any container of certified products until it has been approved by the Administrator. For the convenience of the inspected plant, sketches or proofs of proposed labels may be submitted in triplicate to the Administrator for approval, and the preparation of the finished labels deferred until such approval is obtained. All finished labels shall be submitted in quadruplicate to the Administrator for approval. In the case of lithographed labels, paper take-offs in lieu of sections of the metal containers shall be submitted for approval. Such paper take-offs shall not be in the form of a negative but shall be a complete reproduction of the label as it will appear on the package, including any color scheme involved.
+
+(b) Inserts, tags, liners, pasters, and like devices containing printed or graphic matter for use on, or to be placed within, containers and coverings of certified products shall be submitted for approval in the same manner as provided for labels in paragraph (a) of this section, except that inspectors in charge may permit the use of such devices if they contain no reference to the certified products and bear no misleading feature.
+
+(c) Stencils, labels, box dies, and brands may be used on shipping containers, including tierces, barrels, drums, boxes, crates, and large-size fiberboard containers, without approval by the Administrator, provided the markings are applicable to the certified products, are not false or deceptive, and are used with the approval of the circuit supervisor.
+
+(d) No certified product and no container thereof shall be labeled with any false or deceptive term, and no statement, word, picture, design, or device which conveys any false impression or gives any false indication of the origin, quality, or quantity of the product shall appear on any label.

@@ -1,0 +1,5 @@
+##### § 4.1002 What is the purpose of this subpart? #####
+
+(a) The purpose of this subpart is to establish rules of practice and procedure for the hearing process available under 25 CFR 83.38(a)(1) and 83.39 to a petitioner for Federal acknowledgment that receives from OFA a negative proposed finding on Federal acknowledgment and elects to have a hearing before an ALJ. This subpart includes provisions governing prehearing conferences, discovery, motions, an evidentiary hearing, briefing, and issuance by the ALJ of a recommended decision on Federal acknowledgment for consideration by the Assistant Secretary—Indian Affairs (AS-IA).
+
+(b) This subpart will be construed and applied to each hearing process to achieve a just and speedy determination, consistent with adequate consideration of the issues involved.

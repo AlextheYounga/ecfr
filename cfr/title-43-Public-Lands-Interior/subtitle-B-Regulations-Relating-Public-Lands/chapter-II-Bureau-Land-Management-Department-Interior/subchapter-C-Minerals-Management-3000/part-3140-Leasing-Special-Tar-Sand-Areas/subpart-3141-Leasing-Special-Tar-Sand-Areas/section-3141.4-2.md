@@ -1,0 +1,7 @@
+##### § 3141.4-2 Consultation with others. #####
+
+(a) Where the surface is administered by an agency other than the Bureau of Land Management, including lands patented or leased under the provisions of the Recreation and Public Purposes Act, as amended (43 U.S.C. 869 *et seq.*), all leasing under this subpart shall be in accordance with the consultation requirements of subpart 3100 of this title.
+
+(b) The issuance of combined hydrocarbon leases, oil and gas leases, and tar sand leases within special tar sand areas in units of the National Park System shall be allowed only where mineral leasing is permitted by law and where the lands are open to mineral resource disposition in accordance with any applicable Minerals Management Plan. In order to consent to any issuance of a combined hydrocarbon lease, oil and gas lease, tar sand lease, or subsequent development of hydrocarbon resources within a unit of National Park System, the Regional Director of the National Park Service shall find that there will be no resulting significant adverse impacts to the resources and administration of the unit or other contiguous units of the National Park System in accordance with § 3109.2 (b) of this title.
+
+[48 FR 7422, Feb. 18, 1983, as amended at 55 FR 12351, Apr. 3, 1990; 70 FR 58615, Oct. 7, 2005]

@@ -1,0 +1,3 @@
+##### § 3195.27 What do I do if my helium requirement becomes a major helium requirement after the initial determination has been made? #####
+
+As soon as you determine that your forecasted demand of helium for a particular helium use location will become a major helium requirement, you must purchase your helium (for that helium use location) from an authorized Federal helium supplier for the remainder of the purchase order/contract as a major helium requirement.

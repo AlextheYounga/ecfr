@@ -1,0 +1,3 @@
+##### § 557.12 Foreign canned or packaged fish and fish products bearing trade labels; sampling and inspection. #####
+
+Foreign canned or packaged fish and fish products bearing on their immediate containers trade labels that have or have not been approved in accordance with the regulations in § 541.7 of this subchapter are to be sampled and inspected in the same manner as provided by § 327.12 of this chapter for foreign canned meat food products.

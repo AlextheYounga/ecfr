@@ -1,0 +1,15 @@
+##### § 46.420 Terms used in an environmental impact statement. #####
+
+The following terms are commonly used to describe concepts or activities in an environmental impact statement:
+
+(a) *Statement of purpose and need.* In accordance with 40 CFR 1502.13, the statement of purpose and need briefly indicates the underlying purpose and need to which the bureau is responding.
+
+(1) In some instances it may be appropriate for the bureau to describe its “purpose” and its “need” as distinct aspects. The “need” for the action may be described as the underlying problem or opportunity to which the agency is responding with the action. The “purpose” may refer to the goal or objective that the bureau is trying to achieve, and should be stated to the extent possible, in terms of desired outcomes.
+
+(2) When a bureau is asked to approve an application or permit, the bureau should consider the needs and goals of the parties involved in the application or permit as well as the public interest. The needs and goals of the parties involved in the application or permit may be described as background information. However, this description must not be confused with the bureau's purpose and need for action. It is the bureau's purpose and need for action that will determine the range of alternatives and provide a basis for the selection of an alternative in a decision.
+
+(b) *Reasonable alternatives.* In addition to the requirements of 40 CFR 1502.14, this term includes alternatives that are technically and economically practical or feasible and meet the purpose and need of the proposed action.
+
+(c) *Range of alternatives.* This term includes all reasonable alternatives, or when there are potentially a very large number of alternatives then a reasonable number of examples covering the full spectrum of reasonable alternatives, each of which must be rigorously explored and objectively evaluated, as well as those other alternatives that are eliminated from detailed study with a brief discussion of the reasons for eliminating them. 40 CFR 1502.14. The Responsible Official must not consider alternatives beyond the range of alternatives discussed in the relevant environmental documents, but may select elements from several alternatives discussed. Moreover, the Responsible Official must, in fact, consider all the alternatives discussed in an environmental impact statement. 40 CFR 1505.1 (e).
+
+(d) *Preferred alternative.* This term refers to the alternative which the bureau believes would best accomplish the purpose and need of the proposed action while fulfilling its statutory mission and responsibilities, giving consideration to economic, environmental, technical, and other factors. It may or may not be the same as the bureau's proposed action, the non-Federal entity's proposal or the environmentally preferable alternative.

@@ -1,0 +1,7 @@
+##### § 3872.1 Protest against mineral applications. #####
+
+(a) At any time prior to the issuance of patent, protest may be filed against the patenting of the claim as applied for, upon any ground tending to show that the applicant has failed to comply with the law in any matter essential to a valid entry under the patent proceedings. Such protest cannot, however, be made the means of preserving a surface conflict lost by failure to adverse or lost by the judgment of the court in an adverse suit. One holding a present joint interest in a mineral location included in an application for patent who is excluded from the application, so that his interest would not be protected by the issue of patent thereon, may protest against the issuance of a patent as applied for, setting forth in such protest the nature and extent of his interest in such location, and such a protestant will be deemed a party in interest entitled to appeal. This results from the holding that a co-owner excluded from an application for patent does not have an “adverse” claim within the meaning of R.S. 2325 and 2326 (30 U.S.C. 29, 30). (See Turner v. Sawyer, 150 U.S. 578-586, 37 L. ed. 1189-1191.)
+
+(b) A protest by any party, except a Federal agency, must include the processing fee for protests found in the fee schedule in § 3000.12 of this chapter.
+
+[35 FR 9760, June 13, 1970, as amended at 70 FR 58880, Oct. 7, 2005]

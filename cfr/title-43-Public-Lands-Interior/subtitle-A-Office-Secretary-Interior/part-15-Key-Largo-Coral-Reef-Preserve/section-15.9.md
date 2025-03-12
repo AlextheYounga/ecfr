@@ -1,0 +1,3 @@
+##### § 15.9 Collection of scientific specimens. #####
+
+Collection of natural objects and marine life for educational purposes and for scientific and industrial research shall be done only in accordance with the terms of written permits granted by the Director of the Florida Board of Parks and Historic Memorials. Such permits shall be issued only to persons representing reputable scientific, research, or educational institutions. No permits will be granted for specimens the removal of which would disturb the remaining natural features or mar their appearance. All permits are subject to cancellation without notice at the discretion of the issuing official. Permits shall be for a limited term and may be renewed at the discretion of the issuing official.

@@ -1,0 +1,5 @@
+##### § 3101.2-5 Computation. #####
+
+The accountable acreage of a party owning an undivided interest in a lease shall be the party's proportionate part of the total lease acreage. The accountable acreage of a party who is the beneficial owner of more than 10 percent of the stock of a corporation which holds Federal oil and gas leases shall be the party's proportionate part of the corporation's accountable acreage. Parties to a contract for development of leased lands and co-parties, except those operating, drilling or development contracts subject to § 3101.2-3 of this title, shall be charged with their proportionate interests in the lease. No holding of acreage in common by the same persons in excess of the maximum acreage specified in the laws for any one party shall be permitted.
+
+[48 FR 33662, July 22, 1983, as amended at 49 FR 2113, Jan. 18, 1984; 53 FR 17353, May 16, 1988]

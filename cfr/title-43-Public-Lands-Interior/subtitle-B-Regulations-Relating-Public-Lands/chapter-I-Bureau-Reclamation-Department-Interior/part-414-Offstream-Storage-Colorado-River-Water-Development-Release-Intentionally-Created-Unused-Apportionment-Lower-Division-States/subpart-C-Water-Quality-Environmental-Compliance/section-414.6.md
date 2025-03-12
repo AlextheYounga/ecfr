@@ -1,0 +1,7 @@
+##### § 414.6 Environmental compliance and funding of Federal costs. #####
+
+(a) *Ensuring environmental compliance.* The Secretary will complete environmental compliance documentation, compliance with the National Environmental Policy Act of 1969, as amended, and the Endangered Species Act of 1973, as amended; and will integrate the requirements of other statutes, laws, and executive orders as required for Federal actions to be taken under this part.
+
+(b) *Responsibility for environmental compliance work.* Authorized entities seeking to enter into a Storage and Interstate Release Agreement under this part may prepare the appropriate documentation and compliance document for a proposed Federal action, such as execution of a proposed Storage and Interstate Release Agreement. The compliance documents must meet the standards set forth in Reclamation's national environmental policy guidance before they can be adopted.
+
+(c) *Responsibility for funding of Federal costs.* All costs incurred by the United States in evaluating, processing, and/or executing a Storage and Interstate Release Agreement under this part must be funded in advance by the authorized entities that are party to that agreement.

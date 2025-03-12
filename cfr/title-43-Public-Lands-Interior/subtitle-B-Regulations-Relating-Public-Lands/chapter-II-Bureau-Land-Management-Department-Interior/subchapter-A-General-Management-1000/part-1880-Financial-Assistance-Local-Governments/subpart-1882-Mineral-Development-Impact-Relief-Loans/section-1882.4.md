@@ -1,0 +1,3 @@
+##### § 1882.4 Allocation of funds. #####
+
+If applications for loans exceed the funds appropriated for such purpose, loans shall be allocated among the States and their political subdivisions in a fair and equitable manner, after consultation with the Governors of the affected States, giving priority to those States and political subdivisions suffering the most severe social and economic impacts. The allocation of funds under this section shall be the final action of the Department of the Interior.

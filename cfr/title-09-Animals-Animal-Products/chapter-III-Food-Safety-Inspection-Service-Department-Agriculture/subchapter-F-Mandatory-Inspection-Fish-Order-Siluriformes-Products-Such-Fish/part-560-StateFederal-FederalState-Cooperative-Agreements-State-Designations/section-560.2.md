@@ -1,0 +1,3 @@
+##### § 560.2 Cooperation of States in Federal programs. #####
+
+Under the “Talmadge-Aiken Act” of September 28, 1962 (7 U.S.C. 450), the Administrator is authorized to utilize employees and facilities of any State in carrying out Federal functions under the FMIA, including functions relating to the inspection of fish and fish products. A cooperative program for this purpose is called a Federal-State program.

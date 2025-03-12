@@ -1,0 +1,3 @@
+##### § 3927.30 Lease duration and notification requirement. #####
+
+Leases issue for a period of 20 years and continue as long as there is annual minimum production or as long as there are payments in lieu of production (see § 3903.51 of this chapter). The BLM may initiate procedures to cancel a lease under subpart 3934 of this chapter for not maintaining annual minimum production, for not making the payment in lieu of production, or for not complying with the lease terms, including the diligent development milestones (*see* § 3930.30 of this chapter). The operator or lessee must notify the BLM of any change of address or operator or lessee name.

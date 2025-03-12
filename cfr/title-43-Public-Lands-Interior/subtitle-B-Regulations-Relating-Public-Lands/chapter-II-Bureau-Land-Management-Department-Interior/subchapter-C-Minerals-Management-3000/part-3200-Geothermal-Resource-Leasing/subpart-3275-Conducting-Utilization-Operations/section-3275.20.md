@@ -1,0 +1,3 @@
+##### § 3275.20 What will BLM do if I waste geothermal resources? #####
+
+We will determine the amount of any resources you have lost through waste. If you did not take all reasonable precautions to prevent waste, we will require you to pay compensation based on the value of the lost production. If BLM finds that you have not adequately corrected the situation, we will follow the noncompliance procedures in § 3277.12.

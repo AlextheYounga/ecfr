@@ -1,0 +1,3 @@
+##### § 4.340 Disposition of the record. #####
+
+Subsequent to a decision by the Board, the record filed with the Board and all documents added during the appeal proceedings, including the Board's decision, shall be forwarded to the official of the Bureau of Indian Affairs whose decision was appealed for proper disposition in accordance with rules and regulations concerning treatment of Federal records.

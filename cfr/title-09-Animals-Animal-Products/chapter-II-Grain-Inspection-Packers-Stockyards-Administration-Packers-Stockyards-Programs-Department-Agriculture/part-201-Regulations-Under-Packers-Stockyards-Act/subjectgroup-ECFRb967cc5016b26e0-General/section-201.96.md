@@ -1,0 +1,5 @@
+##### § 201.96 Unauthorized disclosure of business information prohibited. #####
+
+No agent or employee of the United States shall, without the consent of the stockyard owner, market agency, dealer, packer, swine contractor, or live poultry dealer concerned, divulge or make known in any manner, any facts or information regarding the business of such person acquired through any examination or inspection of the business or records of the stockyard owner, market agency, dealer, packer, swine contractor, or live poultry dealer, or through any information given by the stockyard owner, market agency, dealer, packer, swine contractor, or live poultry dealer pursuant to the Act and regulations, except to such other agents or employees of the United States as may be required to have such knowledge in the regular course of their official duties or except insofar as they may be directed by the Administrator or by a court of competent jurisdiction, or except as they may be otherwise required by law.
+
+[73 FR 62440, Oct. 21, 2008]

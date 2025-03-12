@@ -1,0 +1,13 @@
+##### § 3162.5-1 Environmental obligations. #####
+
+(a) The operator shall conduct operations in a manner which protects the mineral resources, other natural resources, and environmental quality. In that respect, the operator shall comply with the pertinent orders of the authorized officer and other standards and procedures as set forth in the applicable laws, regulations, lease terms and conditions, and the approved drilling plan or subsequent operations plan. Before approving any Application for Permit to Drill submitted pursuant to § 3162.3-1 of this title, or other plan requiring environmental review, the authorized officer shall prepare an environmental record of review or an environmental assessment, as appropriate. These environmental documents will be used in determining whether or not an environmental impact statement is required and in determining any appropriate terms and conditions of approval of the submitted plan.
+
+(b) The operator shall exercise due care and diligence to assure that leasehold operations do not result in undue damage to surface or subsurface resources or surface improvements. All produced water must be disposed of by injection into the subsurface, by approved pits, or by other methods which have been approved by the authorized officer. Upon the conclusion of operations, the operator shall reclaim the disturbed surface in a manner approved or reasonably prescribed by the authorized officer.
+
+(c) All spills or leakages of oil, gas, produced water, toxic liquids, or waste materials, blowouts, fires, personal injuries, and fatalities shall be reported by the operator in accordance with these regulations and as prescribed in applicable order or notices. The operator shall exercise due diligence in taking necessary measures, subject to approval by the authorized officer, to control and remove pollutants and to extinguish fires. An operator's compliance with the requirements of the regulations in this part shall not relieve the operator of the obligation to comply with other applicable laws and regulations.
+
+(d) When reasonably required by the authorized officer, a contingency plan shall be submitted describing procedures to be implemented to protect life, property, and the environment.
+
+(e) The operator's liability for damages to third parties shall be governed by applicable law.
+
+[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 53 FR 17363, May 16, 1988; 53 FR 22847, June 17, 1988]

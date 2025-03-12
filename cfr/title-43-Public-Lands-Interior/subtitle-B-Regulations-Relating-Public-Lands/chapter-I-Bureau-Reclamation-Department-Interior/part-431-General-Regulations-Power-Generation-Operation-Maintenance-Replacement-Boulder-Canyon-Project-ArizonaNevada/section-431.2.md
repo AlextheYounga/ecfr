@@ -1,0 +1,3 @@
+##### § 431.2 Scope. #####
+
+These General Regulations shall be effective on June 1, 1987, and shall apply to power generation, operation, maintenance, and replacement activities at the Boulder Canyon Project after May 31, 1987. “General Regulations for the Charges for the Sale of Power from the Boulder Canyon Project” are the subject of a separate rule, under 10 CFR part 904, by the Secretary of Energy, acting by and through the Administrator of Western. The “General Regulations for Generation and Sale of Power in Accordance with the Boulder Canyon Project Adjustment Act,” dated May 20, 1941, and the “General Regulations for Lease of Power,” dated April 25, 1930, terminate May 31, 1987.

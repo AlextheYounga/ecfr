@@ -1,0 +1,3 @@
+##### § 3505.70 May I relinquish my prospecting permit? #####
+
+Yes. You may relinquish the entire prospecting permit or any legal subdivision of it. A partial relinquishment must clearly describe the exact acreage you want to relinquish. BLM will not accept a relinquishment if you are not in compliance with the requirements of your permit. Once we accept the request, your relinquishment is effective as of the date you filed it with BLM. We will then note the relinquishment on the land status records. We may then open the lands to any new applications. If you relinquish part or all of your permit, you lose any right to any preference right lease to the lands covered by the relinquishment.

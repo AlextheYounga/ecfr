@@ -1,0 +1,3 @@
+##### § 1823.13 Is additional documentation needed when a third party requests a refund? #####
+
+Yes. When refund requests are made by heirs, executors, administrators, assignees, or mortgagees, BLM may require additional documentation sufficient to establish your entitlement to a refund. If you are an heir, executor, administrator, assignee or mortgagee, you should contact the BLM office where you will file your refund application for information regarding appropriate documentation.

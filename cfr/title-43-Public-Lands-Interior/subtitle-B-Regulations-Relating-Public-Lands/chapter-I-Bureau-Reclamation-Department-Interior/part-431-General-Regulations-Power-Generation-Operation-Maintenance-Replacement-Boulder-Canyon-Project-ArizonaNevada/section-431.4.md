@@ -1,0 +1,11 @@
+##### § 431.4 Power generation responsibilities. #####
+
+(a) Power generation, and the associated operation, maintenance, and making of replacements, however necessitated, of facilities and equipment at the Hoover Powerplant, are the responsibilities of Reclamation.
+
+(b) Subject to the statutory requirement that Hoover Dam and Lake Mead shall be used: First, for river regulation, improvement of navigation and flood control; second, for irrigation and domestic uses and satisfaction of present perfected rights mentioned in section 6 of the Project Act; and third, for power, Reclamation shall release water, make available generating capacity, and generate energy, in such quantities, and at such times, as are necessary for the delivery of the capacity and energy to which Contractors are entitled.
+
+(c) Reclamation reserves the right to reschedule, temporarily discontinue, reduce, or increase the delivery of water for the generation of electrical energy at any time for the purpose of maintenance, repairs, and/or replacements, and for investigations and inspections necessary thereto, or to allow for changing reservoir and river conditions, or for changes in kilowatthours generation per acre-foot, or by reason of compliance with the statutory requirement as referred to in paragraph (b) of this section; *Provided, however,* That Reclamation shall, except in case of emergency, give Western reasonable notice in advance of any change in delivery of water, and that Reclamation shall make such inspections and perform such maintenance and repair work at such times and in such manner as to cause the least inconvenience possible to Contractors and that Reclamation shall prosecute such work with diligence and, without unnecessary delay, resume delivery of water as scheduled.
+
+(d) Should a Contractor have concerns regarding power generation and related matters and request a meeting in writing, including a description of areas of concern, Reclamation shall convene such meeting within 10 days of receipt of such request and shall notify all Contractors and Western of the date and location of the meeting, and the areas of concern to be discussed.
+
+[51 FR 23962, July 1, 1986; 51 FR 24531, July 7, 1986]

@@ -1,0 +1,3 @@
+##### § 2812.5-3 Bonds in connection with existing roads. #####
+
+An applicant for permit or a permittee desiring to use an existing road owned or controlled by the United States, shall prior to such use post a bond on a form prescribed by the Director. The amount of the bond shall be determined by the authorized officer but in no event less than five hundred dollars ($500) per mile or fraction thereof. The bond shall be executed by an approved corporate surety, or the permittee may deposit an equivalent amount in cash or negotiable securities of the United States and the bond shall be conditioned upon compliance with subpart 2812 and the terms and conditions of the permit.

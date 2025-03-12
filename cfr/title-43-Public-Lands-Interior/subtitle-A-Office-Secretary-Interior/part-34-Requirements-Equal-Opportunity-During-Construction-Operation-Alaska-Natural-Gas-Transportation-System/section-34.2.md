@@ -1,0 +1,3 @@
+##### § 34.2 Applicability. #####
+
+These regulations apply to all activities including, but not limited to, contracting for goods and services, employment, and any other benefits that flow from activities conducted under permits, rights-of-way, public land orders, and other Federal authorizations granted or issued pursuant to ANGTA, by recipients of those authorizations, their agents, contractors, and subcontractors, including labor unions or other persons.

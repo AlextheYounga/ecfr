@@ -1,0 +1,9 @@
+##### § 7.36 Permit reviews and disputes. #####
+
+(a) Any affected person disputing the decision of a Federal land manager with respect to the issuance or denial of a permit, the inclusion of specific terms and conditions in a permit, or the modification, suspension, or revocation of a permit may request the Federal land manager to review the disputed decision and may request a conference to discuss the decision and its basis.
+
+(b) The disputant, if unsatisfied with the outcome of the review or conference, may request that the decision be reviewed by the head of the bureau involved.
+
+(c) Any disputant unsatisfied with the higher level review, and desiring to appeal the decision, pursuant to § 7.11 of this part, should consult with the appropriate Federal land manager regarding the existence of published bureau appeal procedures. In the absence of published bureau appeal procedures, the review by the head of the bureau involved will constitute the final decision.
+
+(d) Any affected person may request a review by the Departmental Consulting Archeologist of any professional issues involved in a bureau permitting decision, such as professional qualifications, research design, or other professional archaeological matters. The Departmental Consulting Archeologist shall make a final professional recommendation to the head of the bureau involved. The head of the bureau involved will consider the recommendation, but may reject it, in whole or in part, for good cause. This request should be in writing, and should state the reasons for the request. See § 7.33(f) for the address of the Departmental Consulting Archeologist.

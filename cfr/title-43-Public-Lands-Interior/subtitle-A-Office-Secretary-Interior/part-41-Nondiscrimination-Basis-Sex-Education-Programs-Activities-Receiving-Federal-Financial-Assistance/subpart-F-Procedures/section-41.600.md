@@ -1,0 +1,3 @@
+##### § 41.600 Notice of covered programs. #####
+
+Within 60 days of September 29, 2000, each Federal agency that awards Federal financial assistance shall publish in the Federal Register a notice of the programs covered by these Title IX regulations. Each such Federal agency shall periodically republish the notice of covered programs to reflect changes in covered programs. Copies of this notice also shall be made available upon request to the Federal agency's office that enforces Title IX.

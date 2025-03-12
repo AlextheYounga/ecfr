@@ -1,0 +1,3 @@
+##### § 2524.8 Cancellation of entries for nonpayment of water-right charges. #####
+
+All homestead and desert-land entrymen holding land under the reclamation law must, in addition to paying the water-right charges, reclaim the land as required by the reclamation law. Homestead entrymen must reside upon, cultivate, and improve the lands embraced in their entries for not less than the period required by the homestead laws. Desert-land entrymen must comply with the provisions of the desert-land laws as amended by the reclamation law. Failure to make payment of any water-right charges due for more than 1 year, will render the entry subject to cancellation and the money paid subject to forfeiture, whether water-tight application has been made or not.

@@ -1,0 +1,3 @@
+##### § 404.29 Can the level of effort needed to complete an appraisal investigation or feasibility study be scaled to be proportional to the size and cost of the proposed project? #####
+
+Yes. In general, the level of effort for an appraisal investigation or feasibility study should be scaled to take into consideration the total size, cost, and complexity of the proposed rural water supply project in order to reduce the total cost of the investigation or study. However, the effort to scale the appraisal investigation or feasibility study must not diminish the quality of the data, the analysis, or the overall completeness of the investigation or study.

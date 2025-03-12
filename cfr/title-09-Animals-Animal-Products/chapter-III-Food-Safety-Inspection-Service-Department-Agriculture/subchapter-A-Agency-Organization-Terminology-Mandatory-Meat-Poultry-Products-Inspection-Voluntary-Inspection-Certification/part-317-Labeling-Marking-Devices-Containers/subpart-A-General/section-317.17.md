@@ -1,0 +1,13 @@
+##### § 317.17 Interpretation and statement of labeling policy for cured products; special labeling requirements concerning nitrate and nitrite. #####
+
+(a) With respect to sections 1(n) (7), (9), and (12) of the Act and § 317.2, any substance mixed with another substance to cure a product must be identified in the ingredients statement on the label of such product. For example, curing mixtures composed of such ingredients as water, salt, sugar, sodium phosphate, sodium nitrate, and sodium nitrite or other permitted substances which are added to any product, must be identified on the label of the product by listing each such ingredient in accordance with the provisions of § 317.2.
+
+(b) Any product, such as bacon and pepperoni, which is required to be labeled by a common or usual name or descriptive name in accordance with § 317.2(c)(1) and to which nitrate or nitrite is permitted or required to be added may be prepared without nitrate or nitrite and labeled with such common or usual name or descriptive name when immediately preceded with the term “Uncured” as part of the product name in the same size and style of lettering as the product name, provided that the product is found by the Administrator to be similar in size, flavor, consistency, and general appearance to such product as commonly prepared with nitrate or nitrite, or both.
+
+(c)(1) Products described in paragraph (b) of this section or § 319.2 of this subchapter, which contain no nitrate or nitrite shall bear the statement “No Nitrate or Nitrite Added.” This statement shall be adjacent to the product name in lettering of easily readable style and at least one-half the size of the product name.
+
+(2) Products described in paragraph (b) of this section and § 319.2 of this subchapter shall bear, adjacent to the product name in lettering of easily readable style and at least one-half the size of the product name, the statement “Not Preserved—Keep Refrigerated Below 40 °F. At All Times” unless they have been thermally processed to Fo 3 or more; they have been fermented or pickled to pH of 4.6 or less; or they have been dried to a water activity of 0.92 or less.
+
+(3) Products described in paragraph (b) of this section and § 319.2 of this subchapter shall not be subject to the labeling requirements of paragraphs (b) and (c) of this section if they contain an amount of salt sufficient to achieve a brine concentration of 10 percent or more.
+
+[37 FR 16863, Aug. 22, 1972, as amended at 44 FR 48961, Aug. 21, 1979]

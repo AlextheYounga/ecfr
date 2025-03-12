@@ -1,0 +1,3 @@
+##### § 1610.5-4 Maintenance. #####
+
+Resource management plans and supporting components shall be maintained as necessary to reflect minor changes in data. Such maintenance is limited to further refining or documenting a previously approved decision incorporated in the plan. Maintenance shall not result in expansion in the scope of resource uses or restrictions, or change the terms, conditions, and decisions of the approved plan. Maintenance is not considered a plan amendment and shall not require the formal public involvement and interagency coordination process described under §§ 1610.2 and 1610.3 of this title or the preparation of an environmental assessment or environmental impact statement. Maintenance shall be documented in plans and supporting records.

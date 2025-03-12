@@ -1,0 +1,39 @@
+##### § 161.6 Suspension or revocation of veterinary accreditation and reaccreditation; criminal and civil penalties. #####
+
+(a) The Administrator is authorized to suspend for a given period of time, or to revoke, the accreditation of a veterinarian when he or she determines that the accredited veterinarian has not complied with the “Standards for Accredited Veterinarian Duties” as set forth in § 161.4 of this part or with any of the other regulations in this subchapter, or is otherwise found to be unfit to be accredited. Veterinarians who perform duties that only accredited veterinarians are authorized to perform while their accredited status is suspended or revoked will be subject to such criminal and civil penalties as are provided by the Animal Health Protection Act (7 U.S.C. 8301 *et seq.*) or other applicable Federal statutes or regulations. Performing accredited duties while accreditation status is suspended or revoked will be considered grounds for the Administrator to suspend accreditation, revoke accreditation, or deny application for reaccreditation, as circumstances warrant. A veterinarian whose accreditation has been suspended or revoked or whose application for reaccreditation has been denied may request a hearing under § 162.13 to challenge the Administrator's decision.
+
+(b) *Reinstatement after suspension.* A veterinarian whose accreditation has been suspended for less than 6 months (other than a summary suspension that is changed to a revocation as a result of an adjudicatory proceeding) will be automatically reinstated as an accredited veterinarian upon completion of the suspension. A veterinarian whose accreditation has been suspended for 6 months or more must complete a reaccreditation orientation program in accordance with paragraph (c)(2)(ii) of this section before accreditation will be reinstated.
+
+(c) *Reaccreditation after revocation.* A veterinarian whose accreditation has been revoked may apply for reaccreditation by completing an application for reaccreditation and submitting it to the Veterinarian-in-Charge of the State or area where he or she wishes to perform accredited work. The application may be submitted when the revocation has been in effect for not less than 2 years, unless the revocation order specifies that the veterinarian whose accreditation has been revoked may not submit an application for reaccreditation until the revocation has been in effect for a period of time longer than 2 years.
+
+(1) Completed applications for reaccreditation received by a Veterinarian-in-Charge shall be reviewed by the State Animal Health Official for the State in which the veterinarian wishes to perform accredited duties. Within 14 days after receiving an application, the State Animal Health Official shall either endorse the application or send a written statement to the Administrator explaining why it was not endorsed; but if the State Animal Health Official fails to take one of these actions within 14 days, the Veterinarian-in-Charge shall proceed to review the application. The Administrator will review the application and the written statement, if any, and determine whether the applicant meets the requirements for reaccreditation contained in this part.
+
+(2) Once a veterinarian whose accreditation has been revoked has correctly applied for reaccreditation in accordance with the requirements of paragraph (c) of this section, the Administrator will determine whether to reaccredit or to deny reaccreditation. This determination will be based on whether the veterinarian has fulfilled the following conditions:
+
+(i) The veterinarian is licensed or legally able to practice veterinary medicine in the State in which the veterinarian wishes to perform accredited duties;
+
+(ii) The veterinarian has completed a reaccreditation orientation program approved by the Veterinarian-in-Charge for the State in which the veterinarian wishes to perform accredited work, and upon completion of the orientation, has signed a written statement listing the date and place of orientation, the subjects covered in the orientation, and any written materials provided to the veterinarian at the orientation. The Veterinarian-in-Charge shall also give the State Animal Health Official an opportunity to review the contents of the reaccreditation orientation, and invite him or her to participate in developing orientation materials and conducting the orientation. The orientation program shall include topics addressing the subject areas which led to loss of accreditation for the applicant, and subject areas which have changed since the applicant lost accreditation; and
+
+(iii) The professional integrity and reputation of the applicant support a conclusion that the applicant will faithfully fulfill the duties of an accredited veterinarian in the future. In making this conclusion, the Administrator shall review all available information about the applicant, including recommendations of the State Animal Health Official, and shall consider:
+
+(A) Any criminal conviction records indicating that the applicant may lack the honesty, integrity, and reliability to appropriately and effectively perform accredited duties and to uphold the integrity of the National Veterinary Accreditation Program;
+
+(B) Official records of the applicant's actions participating in Federal, State, or local veterinary programs;
+
+(C) Judicial determinations in civil litigation adversely reflecting on the honesty, integrity, and reliability of the applicant; and
+
+(D) Any other evidence reflecting on the honesty, professional integrity, reliability and reputation of the applicant.
+
+(3)(i) If a veterinarian is reaccredited under paragraph (c)(2) of this section, the veterinarian may begin performing accredited duties again upon receipt of notification from the Administrator that he or she is eligible to do so.
+
+(ii) If an application for reaccreditation is denied under paragraph (c)(2) of this section, the veterinarian may apply for reaccreditation in accordance with this paragraph (c) not less than 2 years after the application was last denied, unless the decision specifies that the veterinarian may not reapply for reaccreditation until a period of time longer than 2 years has passed.
+
+(d) Accreditation shall be automatically terminated when an accredited veterinarian is not licensed or legally able to practice veterinary medicine in at least one State.
+
+(e) Accreditation shall be automatically revoked when an accredited veterinarian is convicted of a crime in either State or Federal court, if such conviction is based on the performance or nonperformance of any act required of the veterinarian in his or her capacity as an accredited veterinarian.
+
+(f) Any accredited veterinarian who knowingly issues or signs a false, incorrect, or mislabeled animal health or inspection certificate, blood sample, official brucellosis vaccination certificate, or official tuberculin test certificate in accordance with this chapter, shall be subject to such civil penalties and such criminal liabilities as are provided by 7 U.S.C. 8313, 18 U.S.C. 1001, or other applicable Federal statutes. Such action may be in addition to, or in lieu of, suspension or revocation of accredited veterinarian status in accordance with this section.
+
+(g) *Notice of warning.* In lieu of suspension or revocation, the Administrator is authorized to issue a written notice of warning to an accredited veterinarian when the Administrator determines a notice of warning will be adequate to attain compliance with the Standards for Accredited Veterinarian Duties in § 161.4 of this part.
+
+[57 FR 54912, Nov. 23, 1992, as amended at 68 FR 6346, Feb. 7, 2003. Redesignated and amended at 74 FR 65011, 65012, Dec. 9, 2009]

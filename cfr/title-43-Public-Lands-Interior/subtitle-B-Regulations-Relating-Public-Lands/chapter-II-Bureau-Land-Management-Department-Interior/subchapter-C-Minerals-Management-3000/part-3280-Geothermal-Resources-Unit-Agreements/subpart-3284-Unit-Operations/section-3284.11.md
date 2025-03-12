@@ -1,0 +1,3 @@
+##### § 3284.11 Must the unit operator develop and operate on every lease or tract in the unit to comply with the obligations in the underlying leases or agreements? #####
+
+The unit operator is not required to develop and operate on every lease or tract in the unit agreement to comply with the obligations in the underlying leases or agreement. The development and operation on any lands subject to a unit agreement is considered full performance of all obligations for development and operation for every separately owned lease or tract in the unit, regardless of whether there is development of any particular tract of the unit area.

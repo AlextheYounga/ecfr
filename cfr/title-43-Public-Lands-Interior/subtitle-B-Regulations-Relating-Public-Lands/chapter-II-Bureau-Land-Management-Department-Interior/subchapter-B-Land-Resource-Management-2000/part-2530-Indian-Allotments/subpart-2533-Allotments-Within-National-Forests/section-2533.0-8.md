@@ -1,0 +1,3 @@
+##### § 2533.0-8 Land subject to allotment. #####
+
+An allotment under this section may be made for lands containing coal and oil and gas with reservation of the mineral contents to the United States, but not for lands valuable for metalliferous minerals. The rules governing the conduct of fourth-section applications under the Act of February 8, 1887 as amended, apply equally to applications under said section 31.

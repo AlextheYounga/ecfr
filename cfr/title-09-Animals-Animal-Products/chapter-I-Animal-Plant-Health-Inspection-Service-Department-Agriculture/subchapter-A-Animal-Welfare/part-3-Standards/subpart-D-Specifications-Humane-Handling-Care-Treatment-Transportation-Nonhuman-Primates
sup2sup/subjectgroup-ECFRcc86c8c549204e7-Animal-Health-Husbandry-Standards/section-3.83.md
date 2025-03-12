@@ -1,0 +1,5 @@
+##### § 3.83 Watering. #####
+
+Potable water must be provided in sufficient quantity to every nonhuman primate housed at the facility. If potable water is not continually available to the nonhuman primates, it must be offered to them as often as necessary to ensure their health and well-being, but no less than twice daily for at least l hour each time, unless otherwise required by the attending veterinarian, or as required by the research proposal approved by the Committee at research facilities. Water receptacles must be kept clean and sanitized in accordance with methods provided in § 3.84(b)(3) of this subpart at least once every 2 weeks or as often as necessary to keep them clean and free from contamination. Used water receptacles must be sanitized before they can be used to provide water to a different nonhuman primate or social grouping of nonhuman primates.
+
+(Approved by the Office of Management and Budget under control number 0579-0093)

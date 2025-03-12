@@ -1,0 +1,9 @@
+##### § 3712.2-1 Request for publication of notice to mining claimant. #####
+
+(a) The Act in the first paragraph of section 5(a) provides as follows:
+
+The head of a Federal department or agency which has the responsibility for administering surface resources of any lands belonging to the United States may file as to such lands in the office of the Secretary of the Interior, or in such office as the Secretary of the Interior may designate, a request for publication of notice to mining claimants, for determination of surface rights, which request shall contain a description of the lands covered thereby, showing the section or sections of the public land surveys which embrace the lands covered by such request, or if such lands are unsurveyed, either the section or sections which would probably embrace such lands when the public land surveys are extended to such lands or a tie by courses and distances to an approved United States mineral monument.
+
+The “request for publication of notice to mining claimants” authorized to be filed by the above-quoted portion of the act can be filed by the Federal department or agency which has the responsibility for administering surface resources of the lands to which the requested notice would relate. It must describe the land covered by the request by section, township, range, and meridian or, if the land is unsurveyed, either the section or sections which would probably embrace such lands when the public land surveys are extended to such lands, or by a metes and bounds description of such area with a tie to a United States mineral monument.
+
+(b) A request for publication of notice under this subsection shall be filed with the proper office of the Bureau of Land Management. No request for publication may include lands in more than one district.

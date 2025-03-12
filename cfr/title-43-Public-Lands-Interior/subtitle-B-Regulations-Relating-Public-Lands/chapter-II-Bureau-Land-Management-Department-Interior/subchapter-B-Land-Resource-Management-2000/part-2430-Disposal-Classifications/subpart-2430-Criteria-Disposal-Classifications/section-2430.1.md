@@ -1,0 +1,3 @@
+##### § 2430.1 Use of criteria. #####
+
+In addition to the general criteria in subpart 2410 the following criteria will govern classifications under the authorities listed in § 2400.0-3 for sale, selection, grant or other disposal under the Public Land Sale Act (78 Stat. 988, 43 U.S.C. 1421-1427) and other laws authorizing the Secretary of the Interior to dispose of public lands. The criteria are set forth in terms of land use classes. Where appropriate, the applicability of specific disposal laws to lands in each use class is discussed.

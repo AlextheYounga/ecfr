@@ -1,0 +1,3 @@
+##### § 557.13 Foreign fish and fish products offered for importation; reporting of findings to Customs. #####
+
+Program inspectors are to report their findings as to any fish or fish products that have been inspected in accordance with this part in the same manner as that provided by § 327.13 of this chapter for meat products. Fish and fish products that are refused entry are to be handled in the same manner as provided by § 327.13 of this chapter for meat products that are refused entry. Import personnel will identify to the Port Director of U.S. Customs and Border Protection and the Importer of record any products refused entry into the United States.

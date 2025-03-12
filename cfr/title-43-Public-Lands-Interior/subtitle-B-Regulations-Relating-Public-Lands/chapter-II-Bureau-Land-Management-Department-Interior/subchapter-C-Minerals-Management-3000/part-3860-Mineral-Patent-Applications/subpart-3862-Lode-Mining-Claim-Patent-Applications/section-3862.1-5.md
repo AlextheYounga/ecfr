@@ -1,0 +1,3 @@
+##### § 3862.1-5 Statement required that land is unreserved, unoccupied, unimproved, and unappropriated. #####
+
+Each person making application for patent under the mining laws, for lands in Alaska, must furnish a duly corroborated statement showing that no portion of the land applied for is occupied or reserved by the United States, so as to prevent its acquisition under said laws; that the land is not occupied or claimed by natives of Alaska; and that the land is unoccupied, unimproved and unappropriated by any person claiming the same other than the applicant.

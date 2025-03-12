@@ -1,0 +1,7 @@
+##### § 4.452-8 Findings and conclusions; decision by administrative law judge. #####
+
+(a) At the conclusion of the testimony the parties at the hearing shall be given a reasonable time by the administrative law judge, considering the number and complexity of the issues and the amount of testimony, to submit to the administrative law judge proposed findings of fact and conclusions of law and reasons in support thereof or to stipulate to a waiver of such findings and conclusions.
+
+(b) As promptly as possible after the time allowed for presenting proposed findings and conclusions, the administrative law judge shall make findings of fact and conclusions of law (unless waiver has been stipulated), giving the reasons therefor, upon all the material issues of fact, law, or discretion presented on the record. The administrative law judge may adopt the findings of fact and conclusions of law proposed by one or more of the parties if they are correct. He must rule upon each proposed finding and conclusion submitted by the parties and such ruling shall be shown in the record. The administrative law judge will render a written decision in the case which shall become a part of the record and shall include a statement of his findings and conclusions, as well as the reasons or basis therefor, and his rulings upon the findings and conclusions proposed by the parties if such rulings do not appear elsewhere in the record. A copy of the decision will be served upon all parties to the case.
+
+[36 FR 7186, Apr. 15, 1971, as amended at 75 FR 64669, Oct. 20, 2010]

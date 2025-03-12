@@ -1,0 +1,3 @@
+##### § 3202.13 What happens if the applicant dies before the lease is issued? #####
+
+If the applicant dies before the lease is issued, BLM will issue the lease to either the administrator or executor of the estate or the heirs. If the heirs are minors, BLM will issue the lease to either a legal guardian or trustee, provided that the legal guardian or trustee is qualified to hold a lease under § 3202.10.

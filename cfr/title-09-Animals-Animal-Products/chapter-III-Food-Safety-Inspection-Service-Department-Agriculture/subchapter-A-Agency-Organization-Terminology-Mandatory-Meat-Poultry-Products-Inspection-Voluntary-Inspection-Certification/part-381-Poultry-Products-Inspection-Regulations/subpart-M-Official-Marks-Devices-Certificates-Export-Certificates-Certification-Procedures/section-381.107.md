@@ -1,0 +1,5 @@
+##### § 381.107 Special procedures as to certification of poultry products for export to certain countries. #####
+
+When export certificates are required by any foreign country for poultry products exported to such country, the Administrator shall in specific cases prescribe or approve the form of export certificate to be used and the methods and procedures he deems appropriate with respect to the processing of such products, in order to comply with requirements specified by the foreign country regarding the export products. Inspectors shall satisfy themselves that all such requirements are met before issuing such an export certificate. It shall be the responsibility of the exporter to provide any unofficial documentation needed to meet the foreign requirements, before the export certificate will be issued. Such certificates may also cover articles exempted from definition as a poultry product under § 381.15 if they have been inspected and are certified under the regulations in part 362 of this chapter.
+
+[37 FR 9706, May 16, 1972, as amended at 39 FR 4569, Feb. 5, 1974; 41 FR 23702, June 11, 1976]

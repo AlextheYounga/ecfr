@@ -1,0 +1,3 @@
+##### § 48.50 Can the State of Hawai'i amend the Hawaiian Homes Commission Act without Secretarial review? #####
+
+The Secretary must review all proposed amendments to the Hawaiian Homes Commission Act. Any proposed amendments to any terms or provisions of the Hawaiian Homes Commission Act by the State must also specifically state that the proposed amendment proposes to amend the Hawaiian Homes Commission Act. Any state enactment that impacts any of the criteria in § 48.20 shall have no effect on the provisions of the HHCA or administration of the Trust, except pursuant to this part.

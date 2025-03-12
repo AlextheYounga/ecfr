@@ -1,0 +1,3 @@
+##### § 592.320 Products that may bear the inspection mark. #####
+
+Products that are permitted to bear the inspection mark shall be processed in an official plant from edible shell eggs or other edible egg products eligible to bear the inspection mark and may contain other edible ingredients. The official mark, when used, shall be printed or lithographed and applied as a part of the principal display panel of the container, but shall not be applied to a detachable cover.

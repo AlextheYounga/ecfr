@@ -1,0 +1,3 @@
+##### § 310.14 Handling of bruised parts. #####
+
+When only a portion of a carcass is to be condemned on account of slight bruises, either the bruised portion shall be removed immediately and disposed of in accordance with part 314 of this subchapter, or the carcass shall be promptly placed in a retaining room and kept until chilled and the bruised portion shall then be removed and disposed of as provided in part 314 of this subchapter.

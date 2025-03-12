@@ -1,0 +1,3 @@
+##### § 534.3 Standards for use of drugs in the raising of fish. #####
+
+New animal drugs that are the subject of an approved new animal drug application (NADA) or abbreviated new animal drug application (ANADA) under section 512 of the Federal Food, Drug, and Cosmetic Act (the Act) (21 U.S.C. 360b), or a conditional approval under section 571 of the Act (21 U.S.C. 360ccc), or an investigational exemption under section 512(j) of the Act (21 U.S.C. 360b(j)) may be used in the raising of fish. New animal drugs approved under section 512 of the Act may be used in an extra-label manner if such use complies with section 512(a)(4) of the Act and FDA regulations found at 21 CFR part 530.

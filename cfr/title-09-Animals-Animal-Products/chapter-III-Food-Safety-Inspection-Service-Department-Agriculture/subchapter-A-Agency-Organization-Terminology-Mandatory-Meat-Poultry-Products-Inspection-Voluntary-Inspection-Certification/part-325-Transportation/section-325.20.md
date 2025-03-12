@@ -1,0 +1,17 @@
+##### § 325.20 Transportation and other transactions concerning dead, dying, disabled, or diseased livestock, and parts of carcasses of livestock that died otherwise than by slaughter. #####
+
+No person engaged in the business of buying, selling, or transporting in commerce, or importing any dead, dying, disabled or diseased animals or parts of the carcasses of any animals that died otherwise than by slaughter shall:
+
+(a) Buy, sell, transport, or offer for sale or transportation, in commerce, or import any dead livestock if its hide or skin has been removed;
+
+(b) Sell, transport, offer for sale or transportation, or receive for transportation, in commerce, any dead, dying, disabled, or diseased livestock, or parts of the carcasses of any livestock that died otherwise than by slaughter, unless such livestock and parts are consigned and delivered, without avoidable delay, to establishments of animal food manufacturers, renderers, or collection stations that are registered as required by part 320 of this subchapter, or to official establishments that operate under Federal inspection, or to establishments that operate under a State or Territorial inspection system approved by the Secretary as one that imposes requirements at least equal to the Federal requirements for purposes of paragraph 301(c) of the Act;4
+
+4 A list of such registrants, States, and amendments thereof, will be published in the Federal Register, and information concerning the registration status of particular animal food manufacturers, renderers, or collection stations, or the status of particular States or Territories may also be obtained from the Director, Administrative Management Staff, Food Safety and Inspection Service, U.S. Department of Agriculture, Washington, DC 20250.
+
+(c) Buy in commerce or import any dead, dying, disabled, or diseased livestock or parts of the carcasses of any livestock that died otherwise than by slaughter, unless he is an animal food manufacturer or renderer and is registered as required by part 320 of this subchapter, or is the operator of an establishment inspected as required by paragraph (b) of this section and such livestock or parts of carcasses are to be delivered to establishments eligible to receive them under paragraph (b) of this section;
+
+(d) Unload en route to any establishment eligible to receive them under paragraph (b) of this section, any dead, dying, disabled, or diseased livestock or parts of the carcasses of any livestock that died otherwise than by slaughter, which are transported in commerce or imported by any such person: *Provided,* That any such dead, dying, disabled, or diseased livestock, or parts of carcasses may be unloaded from a means of conveyance en route where necessary in case of a wreck or otherwise extraordinary emergency, and may be reloaded into another means of conveyance; but in all such cases, the carrier shall immediately report the facts by telegraph or telephone to the Compliance Staff, Meat and Poultry Inspection Field Operations, Food Safety and Inspection Service, U.S. Department of Agriculture, Washington, DC 20250.
+
+(e) Load into any means of conveyance containing any dead, dying, disabled, or diseased livestock, or parts of the carcasses of any livestock that died otherwise than by slaughter, while in the course of importation or other transportation in commerce any livestock or parts of carcasses not within the foregoing description or any other products or other commodities.
+
+[35 FR 15605, Oct. 3, 1970, as amended at 42 FR 42309, Aug. 23, 1977]

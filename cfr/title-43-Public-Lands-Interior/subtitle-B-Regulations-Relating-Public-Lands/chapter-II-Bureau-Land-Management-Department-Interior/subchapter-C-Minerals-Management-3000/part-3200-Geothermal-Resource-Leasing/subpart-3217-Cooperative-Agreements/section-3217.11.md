@@ -1,0 +1,3 @@
+##### § 3217.11 What are communitization agreements? #####
+
+Under communitization agreements (also called drilling agreements), operators who cannot independently develop separate tracts due to well-spacing or well development programs may cooperatively develop such tracts. Lessees may ask BLM to approve a communitization agreement or, in some cases, we may require the lessees to enter into such an agreement.

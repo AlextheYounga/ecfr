@@ -1,0 +1,5 @@
+##### § 1610.4-5 Formulation of alternatives. #####
+
+At the direction of the Field Manager, in collaboration with any cooperating agencies, BLM will consider all reasonable resource management alternatives and develop several complete alternatives for detailed study. Nonetheless, the decision to designate alternatives for further development and analysis remains the exclusive responsibility of the BLM. The alternatives developed shall reflect the variety of issues and guidance applicable to the resource uses. In order to limit the total number of alternatives analyzed in detail to a manageable number for presentation and analysis, all reasonable variations shall be treated as subalternatives. One alternative shall be for no action, which means continuation of present level or systems of resource use. The plan shall note any alternatives identified and eliminated from detailed study and shall briefly discuss the reasons for their elimination.
+
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]

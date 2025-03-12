@@ -1,0 +1,3 @@
+##### § 3504.20 What are the requirements for paying royalties on production? #####
+
+You must pay royalties on any production from your lease in accordance with the terms specified in the lease. See § 3504.21 of this part for minimum royalty rates. Your royalty rate will be a percentage of the quantity or gross value of the output of the produced commodity. Apply the royalty rate to the value of the production determined under MMS regulations in Title 30. For asphalt, the minimum royalty is calculated on a cents-per-ton basis. You may not pay your royalty in quantity without BLM's prior approval.

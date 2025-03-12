@@ -1,0 +1,5 @@
+##### § 1610.4-9 Monitoring and evaluation. #####
+
+The proposed plan shall establish intervals and standards, as appropriate, for monitoring and evaluation of the plan. Such intervals and standards shall be based on the sensitivity of the resource to the decisions involved and shall provide for evaluation to determine whether mitigation measures are satisfactory, whether there has been significant change in the related plans of other Federal agencies, State or local governments, or Indian tribes, or whether there is new data of significance to the plan. The Field Manager shall be responsible for monitoring and evaluating the plan in accordance with the established intervals and standards and at other times as appropriate to determine whether there is sufficient cause to warrant amendment or revision of the plan.
+
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]

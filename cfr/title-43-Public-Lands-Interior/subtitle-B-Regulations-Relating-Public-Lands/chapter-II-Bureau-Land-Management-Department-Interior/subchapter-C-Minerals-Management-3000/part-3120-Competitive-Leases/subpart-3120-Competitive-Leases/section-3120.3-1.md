@@ -1,0 +1,3 @@
+##### § 3120.3-1 General. #####
+
+The Director may elect to accept nominations requiring submission of the national minimum acceptable bid, as set forth in this section, as part of the competitive process required by the act, or elect to accept informal expressions of interest. A List of Lands Available for Competitive Nominations may be posted in accordance with § 3120.4 of this title, and nominations in response to this list shall be made in accordance with instructions contained therein and on a form approved by the Director. Those parcels receiving nominations shall be included in a Notice of Competitive Lease Sale, unless the parcel is withdrawn by the Bureau.

@@ -1,0 +1,3 @@
+##### § 3513.26 When and how does my suspension of operations and production (conservation concerns) expire or terminate? #####
+
+Your suspension ends on the expiration date that BLM specifies in the decision or order approving the suspension, or on the first day of the lease month in which you resume operations or production, whichever occurs first. All lease terms and obligations resume on this date. MMS will allow credit towards future rentals or royalties due, if you paid rent for the period of suspension of operations and production.

@@ -1,0 +1,3 @@
+##### § 4300.52 Can other persons use the land in my permit for mineral exploration or production? #####
+
+Yes. Unless the land is otherwise withdrawn, the land in your permit is subject to lease or leasing under the mineral leasing laws and under the Geothermal Steam Act, and mineral materials disposal under the Materials Act. Also, it can be prospected, located, and purchased under the mining laws and applicable regulations at 43 CFR Group 3800.

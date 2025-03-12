@@ -1,0 +1,3 @@
+##### § 89.2 Two or more feedings at same station. #####
+
+When livestock are held at a feeding station 12 hours after the last previous feed has been substantially consumed, they should again be fed the ration prescribed by § 89.1(a) for that station: *Provided, however,* That they may be held without such feeding for a period longer than 12 hours if the time they are so held, added to the time required to reach the next feeding station or destination, whichever is closer, would not ordinarily exceed 40 hours.

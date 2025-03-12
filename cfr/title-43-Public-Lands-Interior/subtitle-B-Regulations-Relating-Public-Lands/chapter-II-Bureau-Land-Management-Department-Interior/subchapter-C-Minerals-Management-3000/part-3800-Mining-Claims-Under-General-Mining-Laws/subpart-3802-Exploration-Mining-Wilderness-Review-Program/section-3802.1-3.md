@@ -1,0 +1,3 @@
+##### § 3802.1-3 Operations existing on October 21, 1976. #####
+
+A plan of operations shall not be required for operations that were being conducted on October 21, 1976, unless the operation is undergoing changes that exceed the manner and degree of operations on October 21, 1976. However, if the authorized officer determines that operations in the same manner and degree are causing undue or unnecessary degradation of lands and resources or adverse environmental effects, an approved plan containing protective measures may be required. Any changes planned in an existing operation that would result in operations exceeding the present manner and degree shall be delayed until the plan is processed under provisions of § 3802.1-5 of this title.

@@ -1,0 +1,3 @@
+##### § 418.2 Notification. #####
+
+Each official establishment must promptly notify the local FSIS District Office within 24 hours of learning or determining that an adulterated or misbranded meat, meat food, poultry, or poultry product received by or originating from the official establishment has entered commerce, if the official establishment believes or has reason to believe that this has happened. The official establishment must inform the District Office of the type, amount, origin, and destination of the adulterated or misbranded product.

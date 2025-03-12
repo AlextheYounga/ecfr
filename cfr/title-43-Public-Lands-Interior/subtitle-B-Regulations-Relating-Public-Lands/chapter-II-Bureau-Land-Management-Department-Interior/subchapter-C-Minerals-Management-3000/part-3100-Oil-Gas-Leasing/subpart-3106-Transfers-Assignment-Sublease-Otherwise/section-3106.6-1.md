@@ -1,0 +1,3 @@
+##### § 3106.6-1 Lease bond. #####
+
+Where a lease bond is maintained by the lessee or operating rights owner (sublessee) in connection with a particular lease, the transferee of record title interest or operating rights in such lease shall furnish, if bond coverage continues to be required, either a proper bond or consent of the surety under the existing bond to become co-principal on such bond if the transferor's bond does not expressly contain such consent. Where bond coverage is provided by an operator, the new operator shall furnish an appropriate replacement bond or provide evidence of consent of the surety under the existing bond to become co-principal on such bond.

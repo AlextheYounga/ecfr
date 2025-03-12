@@ -1,0 +1,3 @@
+##### § 3151.2 Notice of completion of operations. #####
+
+Upon completion of exploration, there shall be filed with the District Manager a Notice of Completion of Oil and Gas Exploration Operations. Within 30 days after this filing, the authorized officer shall notify the party whether rehabilitation of the lands is satisfactory or whether additional rehabilitation is necessary, specifying the nature and extent of actions to be taken by the operator.

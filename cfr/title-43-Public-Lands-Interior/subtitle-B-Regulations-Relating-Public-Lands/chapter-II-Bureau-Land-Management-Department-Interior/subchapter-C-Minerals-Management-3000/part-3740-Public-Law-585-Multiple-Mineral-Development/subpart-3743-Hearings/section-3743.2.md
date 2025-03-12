@@ -1,0 +1,3 @@
+##### § 3743.2 Hearing: Time and place. #####
+
+If any verified statement shall be filed by a mining claimant then the authorized officer of the proper office, or the Director, as may be appropriate, shall fix a time and place for a hearing to determine the validity and effectiveness of the mining claimant's asserted right or interest in Leasing Act minerals. Such place of hearing shall be in the county where the lands in question, or part thereof, are located, unless the mining claimant agrees otherwise.

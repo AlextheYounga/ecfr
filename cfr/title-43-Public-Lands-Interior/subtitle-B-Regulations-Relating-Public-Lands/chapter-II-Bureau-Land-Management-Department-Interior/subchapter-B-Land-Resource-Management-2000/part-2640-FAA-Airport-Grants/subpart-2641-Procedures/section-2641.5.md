@@ -1,0 +1,3 @@
+##### § 2641.5 Reversion. #####
+
+A conveyance shall be made only on the condition that, at the option of the Administrator, the property interest conveyed shall revert to the United States in the event that the lands in question are not developed for airport or airway purposes or are used in a manner inconsistent with the terms of the conveyance. If only a part of the property interest conveyed is not developed for airport purposes, or is used in a manner inconsistent with the terms of the conveyance, only that particular part shall, at the option of the Administrator, revert to the United States.

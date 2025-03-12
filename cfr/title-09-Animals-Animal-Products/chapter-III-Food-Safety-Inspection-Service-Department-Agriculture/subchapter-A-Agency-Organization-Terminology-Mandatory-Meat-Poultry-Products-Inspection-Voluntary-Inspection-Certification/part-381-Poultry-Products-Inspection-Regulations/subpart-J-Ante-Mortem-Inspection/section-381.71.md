@@ -1,0 +1,15 @@
+##### § 381.71 Condemnation on ante mortem inspection. #####
+
+(a) Birds plainly showing on ante mortem inspection any disease or condition, that under §§ 381.80 to 381.93, inclusive, would cause condemnation of their carcasses on post mortem inspection, shall be condemned. Birds which on ante mortem inspection are condemned shall not be dressed, nor shall they be conveyed into any department of the official establishment where poultry products are prepared or held. Poultry which has been condemned on ante mortem inspection and has been killed or died otherwise shall under the supervision of an inspector of the Inspection Service, be disposed of as provided in § 381.95.
+
+(b) Dead-on-arrival ratites and ratites condemned on ante mortem inspection will be tagged “U.S. Condemned” by an establishment employee under FSIS supervision and disposed of by one of the methods prescribed in § 381.95.
+
+(c) All seriously crippled ratites and non-ambulatory ratites, commonly termed “downers,” shall be identified as “U.S. Suspects.”
+
+(d) Ratites exhibiting signs of drug or chemical poisoning shall be withheld from slaughter.
+
+(e) Ratites identified as “U.S. Suspects” or “U.S. Condemned” may be set aside for treatment. The “U.S. Suspect” or “U.S. Condemned” identification device will be removed by an establishment employee under FSIS supervision following treatment if the bird is found to be free of disease. Such a bird found to have recovered from the condition for which it was treated may be released for slaughter or for purposes other than slaughter, provided that in the latter instance permission is first obtained from the local, State, or Federal sanitary official having jurisdiction over movement of such birds.
+
+(f) When it is necessary for humane reasons to slaughter an injured ratite at night or Sunday or a holiday, and the Agency veterinary medical officer cannot be obtained, the carcass and all parts shall be kept for inspection, with the head and all viscera except the gastrointestinal tract held by the natural attachment. If all parts are not so kept for inspection, the carcass shall be condemned. If on inspection of a carcass slaughtered in the absence of an inspector, any lesion or other evidence is found indicating that the bird was sick or diseased, or affected with any other condition requiring condemnation of the animal on ante mortem inspection, or if there is lacking evidence of the condition that rendered emergency slaughter necessary, the carcass shall be condemned. Ratites that are sick, dying, or that have been treated with a drug or chemical and presented for slaughter before the required withdrawal period, are not covered by emergency slaughter provisions.
+
+[37 FR 9706, May 16, 1972, as amended at 66 FR 22906, May 7, 2001; 67 FR 13258, Mar. 22, 2002]

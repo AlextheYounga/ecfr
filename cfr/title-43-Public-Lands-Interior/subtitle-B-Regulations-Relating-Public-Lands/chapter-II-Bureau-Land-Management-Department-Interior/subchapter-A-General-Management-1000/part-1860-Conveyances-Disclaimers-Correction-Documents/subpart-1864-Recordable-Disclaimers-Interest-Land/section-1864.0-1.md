@@ -1,0 +1,3 @@
+##### § 1864.0-1 Purpose. #####
+
+The Secretary of the Interior has been granted discretionary authority by section 315 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1745) to issue recordable disclaimers of interests in lands. In general, a disclaimer may be issued if the disclaimer will help remove a cloud on the title to lands and there is a determination that such lands are not lands of the United States or that the United States does not hold a valid interest in the lands. These regulations implement this statutory authority of the Secretary.

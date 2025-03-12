@@ -1,0 +1,3 @@
+##### § 354.49 Interfering with an inspector or employee of Service. #####
+
+Any interference with or obstruction or any attempted interference or obstruction of or assault upon any inspector or employee of the Service in the performance of his duties. The giving or offering directly or indirectly of any money, loan, gift, or anything of value to an employee of the Service or the making or offering of any contribution to or in any way supplementing the salary, compensation, or expenses of an employee of the Service, or the offering or entering into a private contract or agreement with an employee of the Service for any services to be rendered while employed by the Service.

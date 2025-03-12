@@ -1,0 +1,3 @@
+##### § 3922.30 Application—Additional information. #####
+
+At any time during processing of the application, or the environmental or similar assessments of the application, the BLM may request additional information from the applicant. Failure to provide the best available and most accurate information may result in suspension or termination of processing of the application, or in a decision to deny the application.

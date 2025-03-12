@@ -1,0 +1,3 @@
+##### § 3712.2-5 Proof of publication. #####
+
+After the period of newspaper publication has expired, the department or agency requesting the publication shall obtain from the office of the newspaper or publication a sworn statement that the notice was published at the time and in accordance with the requirements under the regulations of this part, and shall file such sworn statement in the office where the Request for Publication was filed.

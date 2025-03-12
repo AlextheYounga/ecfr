@@ -1,0 +1,3 @@
+##### § 3862.3-2 Certificate of court required. #####
+
+There should likewise be filed a certificate, under seal of the court having jurisdiction of mining cases within the judicial district embracing the claim, that no suit or action of any character whatever involving the right of possession to any portion of the claim applied for is pending, and that there has been no litigation before said court affecting the title to said claim or any part thereof for a period equal to the time fixed by the statute of limitations for mining claims in the State as aforesaid other than that which has been finally decided in favor of the claimant.

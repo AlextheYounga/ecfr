@@ -1,0 +1,3 @@
+##### § 2568.94 Can I receive an allotment of land that is valuable for minerals? #####
+
+BLM can convey an allotment that is known to be or believed to be valuable for coal, oil, or gas, but the ownership of these minerals remains with the Federal government. BLM cannot convey to you land valuable for other kinds of minerals such as gold, silver, sand or gravel. If BLM conveys an allotment that is valuable for coal, oil, or gas, the allottee owns all minerals in the land except those expressly reserved to the United States in the conveyance.

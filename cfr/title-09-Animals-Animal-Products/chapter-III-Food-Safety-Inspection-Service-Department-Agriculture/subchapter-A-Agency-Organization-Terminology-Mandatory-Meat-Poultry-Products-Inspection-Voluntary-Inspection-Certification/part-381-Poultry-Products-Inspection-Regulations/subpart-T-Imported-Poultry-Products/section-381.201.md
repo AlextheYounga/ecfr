@@ -1,0 +1,3 @@
+##### § 381.201 Means of conveyance and equipment used in handling poultry products offered for entry to be maintained in sanitary condition. #####
+
+Compartments of steamships, railroad cars, and other means of conveyance transporting any poultry product to the United States, and all chutes, platforms, racks, tables, tools, utensils, and all other devices used in moving and handling any poultry product offered for entry into the United States, shall be maintained in a sanitary condition.

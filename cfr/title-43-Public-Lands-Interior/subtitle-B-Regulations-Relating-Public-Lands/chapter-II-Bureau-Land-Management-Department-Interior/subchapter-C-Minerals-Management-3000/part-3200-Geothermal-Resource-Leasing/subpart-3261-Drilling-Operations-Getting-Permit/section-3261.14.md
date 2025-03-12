@@ -1,0 +1,3 @@
+##### § 3261.14 When must I give BLM my operations plan? #####
+
+Send us a complete operations plan before you begin any surface disturbance on a lease. You do not need to submit an operations plan for subsequent well operations or altering existing production equipment, unless these activities will cause more surface disturbance than originally approved, or we notify you that you must submit an operations plan. Do not start any activities that will result in surface disturbance until we approve your drilling permit or Sundry Notice.

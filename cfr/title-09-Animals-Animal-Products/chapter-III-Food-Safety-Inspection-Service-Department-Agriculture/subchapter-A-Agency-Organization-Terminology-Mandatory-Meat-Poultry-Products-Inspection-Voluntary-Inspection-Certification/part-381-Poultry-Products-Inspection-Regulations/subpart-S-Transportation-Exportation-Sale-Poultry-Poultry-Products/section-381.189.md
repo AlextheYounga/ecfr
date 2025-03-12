@@ -1,0 +1,11 @@
+##### § 381.189 Provisions inapplicable to specimens for laboratory examination, etc., or to naturally inedible articles. #####
+
+The provisions of this subpart do not apply:
+
+(a) To dead, dying, disabled or diseased poultry and specimens of undenatured, uninspected or adulterated carcasses, parts, or products of poultry sent to or by the Department of Agriculture or divisions thereof in Washington, DC, or elsewhere, for laboratory examination, exhibition purposes, or other official use;
+
+(b) To dead, dying, disabled or diseased poultry and specimens of undenatured, uninspected or adulterated carcasses, parts, or products of poultry thereof for educational, research, or other nonfood purposes shipped under permit issued by the inspector in charge upon his determination that collection and movement thereof will not interfere with inspection or sanitary conditions at the establishment, and the specimens are for nonfood purposes. The person desiring such specimens shall make a written application to the inspector in charge for such permit on Form MP-112 and shall obtain permission from the operator of the official establishment to obtain the specimens. Permits shall be issued for a period not longer than one year. The permit may be revoked by the inspector in charge if he determines after notice and opportunity to present views is afforded to the permittee that any such specimens were not used as stated in the application, or if the collection or handling of the specimens interferes with inspection or the maintenance of sanitary conditions in the establishment. The specimens referred to in this paragraph shall be collected and handled only at such time and place and in such manner as not to interfere with the inspection or to cause any objectionable condition and shall be identified as inedible when they leave the establishment.
+
+(c) To parts of poultry carcasses that are naturally inedible by humans, such as entrails and feathers in their natural state.
+
+[40 FR 55310, Nov. 28, 1975]

@@ -1,0 +1,3 @@
+##### § 4710.3-1 Herd management areas. #####
+
+Herd management areas shall be established for the maintenance of wild horse and burro herds. In delineating each herd management area, the authorized officer shall consider the appropriate management level for the herd, the habitat requirements of the animals, the relationships with other uses of the public and adjacent private lands, and the constraints contained in § 4710.4. The authorized officer shall prepare a herd management area plan, which may cover one or more herd management areas.

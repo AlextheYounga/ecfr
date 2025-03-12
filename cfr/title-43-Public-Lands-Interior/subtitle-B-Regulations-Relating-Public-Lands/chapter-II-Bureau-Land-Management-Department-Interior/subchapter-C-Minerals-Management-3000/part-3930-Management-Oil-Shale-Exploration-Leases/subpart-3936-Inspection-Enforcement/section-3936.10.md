@@ -1,0 +1,3 @@
+##### § 3936.10 Inspection of underground and surface operations and facilities. #####
+
+Operators, licensees, or lessees must allow the BLM, at any time, either day or night, to inspect or investigate underground and surface mining, in situ, or exploration operations to determine compliance with lease or license terms and conditions, compliance with the approved exploration or development plans, and to verify production.

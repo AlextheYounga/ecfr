@@ -1,0 +1,11 @@
+##### § 404.15 How can I request assistance under the program? #####
+
+This table summarizes the requirements for requesting assistance under the program. The requirements are described in more detail in the sections that follow.
+
+|                                                     Type of assistance requested                                                      |                                                          How to request assistance                                                          |
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|                                     1. Request Reclamation to conduct an appraisal investigation                                      |Submit a statement of interest as described in § 404.16. Reclamation will then advise you whether you are eligible to submit a full proposal.|
+|                       2. Request funding to conduct an appraisal investigation yourself or through a contractor                       |Submit a statement of interest as described in § 404.16. Reclamation will then advise you whether you are eligible to submit a full proposal.|
+|                                         3. Request Reclamation to conduct a feasibility study                                         |                                              Submit a full proposal as described in § 404.20.                                               |
+|                          4. Request funding to conduct a feasibility study yourself or through a contractor                           |                                              Submit a full proposal as described in § 404.20.                                               |
+|5. Request Reclamation to review and approve an appraisal investigation or a feasibility study completed without Reclamation assistance|              Submit the investigation or study and a cover letter to your local Reclamation office, as described in § 404.25.               |

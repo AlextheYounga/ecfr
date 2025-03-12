@@ -1,0 +1,3 @@
+##### § 3862.4-5 Proof by applicant of publication and posting. #####
+
+After the 60-day period of newspaper publication has expired, the claimant will furnish from the office of publication a sworn statement that the notice was published for the statutory period, giving the first and last day of such publication, and his own statement showing that the plat and notice aforesaid remained conspicuously posted upon the claim sought to be patented during said 60-day publication, giving the dates.

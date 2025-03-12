@@ -1,0 +1,3 @@
+##### § 167.1 Scope and applicability of rules of practice. #####
+
+The Uniform Rules of Practice for the Department of Agriculture promulgated in subpart H of part 1, subtitle A, title 7, Code of Federal Regulations, are the Rules of Practice applicable to adjudicatory, administrative proceedings under sections 5 and 6 of the Swine Health Protection Act (7 U.S.C. 3804, 3805). In addition, the Supplemental Rules of Practice set forth in subpart B of this part shall be applicable to such proceedings.

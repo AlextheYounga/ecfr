@@ -1,0 +1,13 @@
+##### § 354.2 Designation of official certificates, memoranda, marks, other identifications, and devices for purposes of the Agricultural Marketing Act. #####
+
+Subsection 203(h) of the Agricultural Marketing Act of 1946, as amended by Pub. L. 272, 84th Congress, provides criminal penalties for various specified offenses relating to official certificates, memoranda, marks or other identifications, and devices for making such marks or identifications, issued or authorized under section 203 of said Act, and certain misrepresentations concerning the inspection of agricultural products under said section. For the purposes of said subsection and the provisions in this part, the terms listed in this section shall have the respective meanings specified:
+
+(a) *Official certificate* means any form of certification, either written or printed, used under this part to certify with respect to the inspection or class or condition of products.
+
+(b) *Official memorandum* means any initial record of findings made by an authorized person in the process of inspecting or sampling, pursuant to this part, any processing or plant operation report made by an authorized person in connection with inspecting or sampling under this part, and any report made by an authorized person of services performed pursuant to this part.
+
+(c) *Official mark* means the inspection mark, and any other mark, or any variations in such marks, approved by the Administrator and authorized to be affixed to any product, or affixed to or printed on the packaging material of any product, stating that the product was inspected, or indicating the condition of the product, or for the purpose of maintaining the identity of products inspected under this part, including, but not limited to, that set forth in § 354.65.
+
+(d) *Official identification* means any symbol, stamp, label, or seal indicating that the product has been officially inspected and/or indicating the class or condition of the product approved by the Administrator and authorized to be affixed to any product, or affixed to or printed on the packaging material of any product.
+
+(e) *Official device* means a stamping appliance, branding device, stencil, printed label, or any other mechanically or manually operated tool that is approved by the Administrator for the purpose of applying any official mark or other identification to any product or the packaging material thereof.

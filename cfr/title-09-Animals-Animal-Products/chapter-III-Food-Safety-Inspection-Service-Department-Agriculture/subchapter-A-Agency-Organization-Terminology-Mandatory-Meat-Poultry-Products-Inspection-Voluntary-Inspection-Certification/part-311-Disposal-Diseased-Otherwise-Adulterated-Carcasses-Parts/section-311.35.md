@@ -1,0 +1,7 @@
+##### § 311.35 Muscular inflammation, degeneration, or infiltration. #####
+
+(a) If muscular lesions are found to be distributed in such a manner or to be of such character that removal is impractical, the carcass shall be condemned.
+
+(b) If muscular lesions are found to be distributed in such a manner or to be of such character that removal is practical, the following rules shall govern the disposal of the carcasses, edible organs, and other parts of carcasses showing such muscular lesions. If the lesions are localized in such a manner and are of such a character that the affected tissues can be removed, the nonaffected parts of the carcass may be passed for human food after the removal and condemnation of the affected portion. If a part of the carcass shows numerous lesions, or if the character of the lesion is such that complete extirpation is difficult and uncertainly accomplished, or if the lesion renders the part in any way unfit for human food, the part shall be condemned.
+
+(c) If the lesions are slight or of such character as to be insignificant from a standpoint of wholesomeness, the carcass or parts may be passed for use in the manufacture of comminuted cooked product, after removal and condemnation of the visibly affected portions.

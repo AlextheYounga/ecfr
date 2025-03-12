@@ -1,0 +1,3 @@
+##### § 3204.12 How may I acquire a noncompetitive lease for lands subject to a mining claim? #####
+
+If you hold a mining claim for which you have a current approved plan of operations, you may file a noncompetitive lease application for lands within the mining claim, on a form available from BLM. Submit two (2) executed copies of the applicable form to BLM, together with documentation of mining claim ownership and the current approved plan of operations for the mine. At least one form must have an original signature. We will accept only exact copies of the form on one 2-sided page.

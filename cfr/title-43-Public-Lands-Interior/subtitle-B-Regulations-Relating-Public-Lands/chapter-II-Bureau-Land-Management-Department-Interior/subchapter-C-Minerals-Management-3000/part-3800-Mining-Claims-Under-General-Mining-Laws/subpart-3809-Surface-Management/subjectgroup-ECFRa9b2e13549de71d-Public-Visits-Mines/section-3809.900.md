@@ -1,0 +1,7 @@
+##### § 3809.900 Will BLM allow the public to visit mines on public lands? #####
+
+(a) If requested by any member of the public, BLM may sponsor and schedule a public visit to a mine on public land once each year. The purpose of the visit is to give the public an opportunity to view the mine site and associated facilities. Visits will include surface areas and surface facilities ordinarily made available to visitors on public tours. BLM will schedule visits during normal BLM business hours at the convenience of the operator to avoid disruption of operations.
+
+(b) Operators must allow the visit and must not exclude persons whose participation BLM authorizes. BLM may limit the size of a group for safety reasons. An operator's representative must accompany the group on the visit. Operators must make available any necessary safety training that they provide to other visitors. BLM will provide the necessary safety equipment if the operator is unable to do so.
+
+(c) Members of the public must provide their own transportation to the mine site, unless provided by BLM. Operators don't have to provide transportation within the project area, but if they don't, they must provide access for BLM-sponsored transportation.

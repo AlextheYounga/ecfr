@@ -1,0 +1,3 @@
+##### § 3217.10 What are unit agreements? #####
+
+Under unit agreements, lessees unite with each other, or jointly or separately with others, in collectively adopting and operating under agreements to conserve the resources of any geothermal reservoir, field, or like area, or any part thereof. BLM will only approve unit agreements that we determine are in the public interest. Unit agreement application procedures are provided in part 3280 of this chapter.

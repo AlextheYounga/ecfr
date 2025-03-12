@@ -1,0 +1,3 @@
+##### § 429.21 If I overpay Reclamation's administrative costs, can I get a refund? #####
+
+If, in reviewing your application, Reclamation uses all the monies you have paid, you will not receive a refund regardless of whether you receive a use authorization. If the money collected from you exceeds administrative costs, a refund of the excess amount will be made to you consistent with Reclamation's financial policies.

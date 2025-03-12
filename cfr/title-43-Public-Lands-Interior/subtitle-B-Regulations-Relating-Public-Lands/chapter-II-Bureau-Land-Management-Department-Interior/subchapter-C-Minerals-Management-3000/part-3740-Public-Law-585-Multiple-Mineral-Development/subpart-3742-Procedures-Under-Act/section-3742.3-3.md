@@ -1,0 +1,5 @@
+##### § 3742.3-3 Publication. #####
+
+(a) Upon receipt of a Request for Publication and accompanying instruments, if all is found regular, the Authorized officer, or the Director, as may be appropriate, at the expense of the requesting person (who prior to the commencement of publication must furnish the agreement of the publisher to hold such requesting person alone responsible for charges of publication), shall cause notice of the application, offer, permit or lease to be published in a newspaper, to be designated by the Authorized officer, or the Director, as may be appropriate, having general circulation in the county in which the lands involved are situated.
+
+(b) If such notice is published in a daily paper, it shall be published in the Wednesday issue for 9 consecutive weeks, or, if in a weekly paper, in 9 consecutive issues, or, if in a semi-weekly or tri-weekly paper, in the issue of the same day of each week for 9 consecutive weeks.

@@ -1,0 +1,3 @@
+##### § 3502.34 What must I submit if there are other parties in interest? #####
+
+If you are not the sole party in interest in an application for a permit or lease, include with your application the names of all other parties who hold or will hold any interest in the application or in the permit or lease when BLM issues it. All interested parties must show they are qualified to hold permit or lease interests.

@@ -1,0 +1,3 @@
+##### § 2568.102 Is the process by which the managing agency decides whether my allotment is not inconsistent with the CSU the same as other such determination processes? #####
+
+No. This process is unique to this regulation. It should not be confused with any similar process under any other act, including the incompatibility process under the National Wildlife Refuge System Improvement Act of 1997.

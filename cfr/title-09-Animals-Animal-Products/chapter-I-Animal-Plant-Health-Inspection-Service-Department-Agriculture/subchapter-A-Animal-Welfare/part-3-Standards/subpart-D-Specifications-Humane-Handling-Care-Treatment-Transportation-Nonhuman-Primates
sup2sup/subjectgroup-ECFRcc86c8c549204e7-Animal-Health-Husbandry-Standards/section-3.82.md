@@ -1,0 +1,9 @@
+##### § 3.82 Feeding. #####
+
+(a) The diet for nonhuman primates must be appropriate for the species, size, age, and condition of the animal, and for the conditions in which the nonhuman primate is maintained, according to generally accepted professional and husbandry practices and nutritional standards. The food must be clean, wholesome, and palatable to the animals. It must be of sufficient quantity and have sufficient nutritive value to maintain a healthful condition and weight range of the animal and to meet its normal daily nutritional requirements.
+
+(b) Nonhuman primates must be fed at least once each day except as otherwise might be required to provide adequate veterinary care. Infant and juvenile nonhuman primates must be fed as often as necessary in accordance with generally accepted professional and husbandry practices and nutritional standards, based upon the animals' age and condition.
+
+(c) Food and food receptacles, if used, must be readily accessible to all the nonhuman primates being fed. If members of dominant nonhuman primate or other species are fed together with other nonhuman primates, multiple feeding sites must be provided. The animals must be observed to determine that all receive a sufficient quantity of food.
+
+(d) Food and food receptacles, if used, must be located so as to minimize any risk of contamination by excreta and pests. Food receptacles must be kept clean and must be sanitized in accordance with the procedures listed in § 3.84(b)(3) of this subpart at least once every 2 weeks. Used food receptacles must be sanitized before they can be used to provide food to a different nonhuman primate or social grouping of nonhuman primates. Measures must be taken to ensure there is no molding, deterioration, contamination, or caking or wetting of food placed in self-feeders.

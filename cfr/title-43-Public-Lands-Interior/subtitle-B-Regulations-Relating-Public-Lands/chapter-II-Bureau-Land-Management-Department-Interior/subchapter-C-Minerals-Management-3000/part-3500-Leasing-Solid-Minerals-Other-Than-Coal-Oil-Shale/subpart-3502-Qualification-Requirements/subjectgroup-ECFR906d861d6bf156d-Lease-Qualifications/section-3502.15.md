@@ -1,0 +1,3 @@
+##### § 3502.15 Are there any additional restrictions on holding leases or interests in leases? #####
+
+Yes. If you are a member of Congress or an employee of the Department of the Interior, except as provided in part 20 of this title, you may not acquire or hold any Federal lease, or lease interest. (Officer, agent or employee of the Department-see part 20 of this title; Member of Congress-see R.S. 3741; 41 U.S.C. 22; 18 U.S.C. 431-433). Also, BLM may not issue any lease or permit which causes a conflict of interest. See 5 CFR part 2635.

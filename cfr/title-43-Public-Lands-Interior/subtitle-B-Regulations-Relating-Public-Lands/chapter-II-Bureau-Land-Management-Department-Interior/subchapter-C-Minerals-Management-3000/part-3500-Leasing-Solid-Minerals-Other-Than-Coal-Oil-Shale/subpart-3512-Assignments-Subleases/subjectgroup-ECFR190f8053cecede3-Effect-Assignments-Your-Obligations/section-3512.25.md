@@ -1,0 +1,3 @@
+##### § 3512.25 If I assign my permit or lease, when do my obligations under the permit or lease end? #####
+
+You and your surety remain responsible for the performance of all obligations under the permit or lease until the date we approve the assignment. You will continue to be responsible for obligations that accrued prior to the date of our approval of the assignment, whether or not they were identified at the time of the transfer.

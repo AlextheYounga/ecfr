@@ -1,0 +1,3 @@
+##### § 3821.5 Applications for final certificates and patents. #####
+
+Applications for patents and final certificates in connection with mining claims located upon O. and C. lands on or after August 28, 1937 must be noted “Mining claims on O. and C. lands, under the Act of April 8, 1948.” All patents issued on such claims located on or after August 28, 1937, shall contain an appropriate reference to the Act of April 8, 1948, and shall indicate that the patent is issued subject to the conditions and limitations of the Act.

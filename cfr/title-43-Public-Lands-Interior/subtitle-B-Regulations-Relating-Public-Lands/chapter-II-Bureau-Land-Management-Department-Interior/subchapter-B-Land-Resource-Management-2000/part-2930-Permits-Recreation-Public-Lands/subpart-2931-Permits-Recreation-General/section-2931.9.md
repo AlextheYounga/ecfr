@@ -1,0 +1,3 @@
+##### § 2931.9 Information collection. #####
+
+The information collection requirements in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1004-0119. BLM will use the information to determine whether we should grant permits to applicants for Special Recreation Permits on public lands. You must respond to requests for information to obtain a benefit.

@@ -1,0 +1,11 @@
+##### § 309.13 Disposition of condemned livestock. #####
+
+(a) Except as otherwise provided in this part, livestock identified as U.S. Condemned shall be killed by the official establishment, if not already dead. Such animals shall not be taken into the official establishment to be slaughtered or dressed; nor shall they be conveyed into any department of the establishment used for edible products; but they shall be disposed of in the manner provided for condemned carcasses in part 314 of this subchapter. The official U.S. Condemned tag shall not be removed from, but shall remain on the carcass until it goes into the tank, or is otherwise disposed of as prescribed in part 314 of this subchapter, at which time such tag may be removed by a Program employee only. The number of such tag shall be reported to the veterinary medical officer by the inspector who affixed it, and also by the inspector who supervised the tanking of the carcass.
+
+(b) Any livestock condemned on account of ketosis, swine erysipelas, vesicular diseases, grass tetany, transport tetany, parturient paresis, anasarca, anaplasmosis, leptospirosis, listeriosis, or inflammatory condition including pneumonia, enteritis, and peritonitis may be set apart and held for treatment under supervision of a Program employee or official designated by the area supervisor. The U.S. Condemned identification tag will be removed by a Program employee following treatment under such supervision if the animal is found to be free from any such disease.
+
+(c) Livestock previously affected with listeriosis, including those released for slaughter after treatment under paragraph (b) of this section, shall be identified as U.S. Suspect.
+
+(d) When livestock under the provisions of this section is to be released for a purpose other than slaughter, the operator of the official establishment or the owner of the livestock shall first obtain permission for the movement of such livestock from the local, State, or Federal livestock sanitary official having jurisdiction.
+
+[35 FR 15563, Oct. 3, 1970, as amended at 72 FR 38729, July 13, 2007; 81 FR 46577, July 18, 2016]

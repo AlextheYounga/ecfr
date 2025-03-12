@@ -1,0 +1,15 @@
+##### § 381.171 Definition and standard for “Turkey Ham.” #####
+
+(a) “Turkey Ham” shall be fabricated from boneless, turkey thigh meat with skin and the surface fat attached to the skin removed. The thighs shall be that cut of poultry described in § 381.170(b)(5) of this part.
+
+(b) The product may or may not be smoked, and shall be cured using one or more of the approved curing agents as provided in a regulation permitting that use in this subchapter or 9 CFR Chapter III, Subchapter E, or in 21 CFR Chapter I, Subchapter A or Subchapter B. The product may also contain cure accelerators, phosphates, and flavoring agents as provided in a regulation permitting that use in this subchapter or 9 CFR Chapter III, Subchapter E, or in 21 CFR Chapter I, Subchapter A or Subchapter B; common salt, sugars, spices, spice extractives, dehydrated garlic, and dehydrated onions; and water for purpose of dissolving and dispersing the substances specified above.
+
+(c) The cooked finished product weight shall be no more than the original weight of the turkey thigh meat used prior to curing.
+
+(d) The product name on the label shall show the word “Turkey” in the same size, style, color, and with the same background as the word “Ham” and shall precede and be adjacent to it.
+
+(e) The product name shall be qualified with the statement “Cured Turkey Thigh Meat.” The qualifying statement shall be contiguous to the product name, without intervening type or designs, shall be not less than one-half the size of the product name but not less than one-eighth inch in height, and shall be in the same style and color and with the same background as the product name.
+
+(f) If the product is fabricated from pieces of turkey thigh meat that result from the cutting through the muscle (as opposed the whole thighs intact or whole thighs with some incidental separation of muscle tissue during removal of the bone), the product name shall be further qualified by a descriptive statement. The product name of product fabricated from such pieces of turkey thigh meat equivalent in size to a one-half inch cube or greater shall be further qualified to specify that the product is “Chunked and Formed.” The product name of product fabricated from such pieces of turkey thigh meat smaller than the equivalent of a one-half inch cube shall be further qualified to specify that the product is “Ground and Formed” or “Chopped and Formed” as appropriate. The qualifying statement shall immediately follow and be contiguous to the statement required in paragraph (e) of this section, and shall be not less than one-half the size of the product name but not less than one-eighth inch in height, and shall be in the same style and color and with the same background as the product name.
+
+[44 FR 51190, Aug. 31, 1979; 64 FR 72175, Dec. 23, 1999]

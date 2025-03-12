@@ -1,0 +1,13 @@
+##### § 309.3 Dead, dying, disabled, or diseased and similar livestock. #####
+
+(a) Livestock found to be dead or in a dying condition on the premises of an official establishment shall be identified as U.S. Condemned and disposed of in accordance with § 309.13.
+
+(b) Livestock plainly showing on ante-mortem inspection any disease or condition that, under part 311 of this subchapter, would cause condemnation of their carcasses on post-mortem inspection shall be identified as U.S. Condemned and disposed of in accordance with § 309.13.
+
+(c) Any swine having a temperature of 106 °F. or higher and any cattle, sheep, goats, horses, mules, or other equines having a temperature of 105 °F. or higher shall be identified as U.S. Condemned. In case of doubt as to the cause of the high temperature, or when for other reasons a Program employee deems such action warranted, any such livestock may be held for a reasonable time under the supervision of a Program employee for further observation and taking of temperature before final disposition of such livestock is determined. Any livestock so held shall be reinspected on the day it is slaughtered. If, upon such reinspection, or when not held for further observation and taking of temperature, then on the original inspection, the animal has a temperature of 106 °F. or higher in the case of swine, or 105 °F. or higher in the case of other livestock, it shall be condemned and disposed of in accordance with § 309.13.
+
+(d) Any livestock found in a comatose or semicomatose condition or affected with any condition not otherwise covered in this part, which would preclude release of the animal for slaughter for human food, shall be identified “U.S. Condemned” and disposed of in accordance with § 309.13, except that such animal may be set apart and held for further observation or treatment under supervision of a Program employee or other official designated by the area supervisor and for final disposition in accordance with this part.
+
+(e) Establishment personnel must notify FSIS inspection personnel when cattle become non-ambulatory disabled after passing ante-mortem inspection. Non-ambulatory disabled cattle that are offered for slaughter must be condemned and promptly disposed of in accordance with § 309.13.
+
+[35 FR 15563, Oct. 3, 1970, as amended at 69 FR 1873, Jan. 12, 2004; 72 FR 38729, July 13, 2007; 74 FR 11466, Mar. 18, 2009; 81 FR 46577, July 18, 2016]

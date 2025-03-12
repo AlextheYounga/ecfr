@@ -1,0 +1,5 @@
+##### § 3261.10 How do I get approval to begin well pad construction? #####
+
+(a) If you do not have an approved geothermal drilling permit, Form 3260-2, apply using a completed and signed Sundry Notice, Form 3260-3, to build well pads and access roads. Send us a complete operations plan (see § 3261.12) and an acceptable bond with your Sundry Notice. You may start well pad construction after we approve your Sundry Notice.
+
+(b) If you already have an approved drilling permit and you have provided an acceptable bond, you do not need any further permission from BLM to start well pad construction, unless you intend to change something in the approved permit. If you propose a change in an approved permit, send us a completed and signed Sundry Notice so we may review your proposed change. Do not proceed with the change until we approve your Sundry Notice.

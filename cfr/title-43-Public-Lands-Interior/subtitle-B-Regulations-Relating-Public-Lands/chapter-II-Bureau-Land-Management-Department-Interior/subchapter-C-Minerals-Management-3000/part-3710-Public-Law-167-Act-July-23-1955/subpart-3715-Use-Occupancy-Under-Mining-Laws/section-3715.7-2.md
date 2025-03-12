@@ -1,0 +1,3 @@
+##### § 3715.7-2 What happens if I do not comply with a BLM order? #####
+
+If you do not comply with a BLM order issued under § 3715.7-1, the Department of the Interior may request the United States Attorney to institute a civil action in United States District Court for an injunction or order to prevent you from using or occupying the public lands in violation of the regulations of this subpart. This relief may be in addition to the enforcement actions described in § 3715.7-1 and the penalties described in § 3715.8.

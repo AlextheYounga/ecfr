@@ -1,0 +1,3 @@
+##### § 3910.23 Requirements for conducting exploration activities. #####
+
+Exploration activities on Federal lands require an exploration license or oil shale lease. Activities on a license or lease without an approved plan of operation must be conducted pursuant to an approved exploration plan under § 3931.40 of this chapter. The licensee may not remove any oil shale for sale, but may remove a reasonable amount of oil shale for analysis and study.

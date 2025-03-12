@@ -1,0 +1,3 @@
+##### § 1825.12 When does relinquished land become available again for other application or appropriation? #####
+
+Relinquished land may not again become available until BLM notes the filed relinquishment of an interest on the land records maintained by the BLM office having jurisdiction over the lands involved. If you have any questions regarding the availability of a particular tract of land, you should contact the BLM office having jurisdiction over the lands or records.

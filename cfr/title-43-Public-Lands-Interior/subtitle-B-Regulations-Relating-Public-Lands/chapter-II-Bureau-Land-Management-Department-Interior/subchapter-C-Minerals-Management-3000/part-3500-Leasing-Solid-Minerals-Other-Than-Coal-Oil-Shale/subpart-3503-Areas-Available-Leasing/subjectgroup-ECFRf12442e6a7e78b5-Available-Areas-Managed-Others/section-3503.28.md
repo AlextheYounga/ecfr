@@ -1,0 +1,3 @@
+##### § 3503.28 Does BLM incorporate any special requirements to protect the lands and resources? #####
+
+BLM will specify permit or lease stipulations to adequately use and protect the lands and their resources. This may include stipulations which are required by the surface managing agency, or which are recommended by the surface managing agency or non-federal surface owner and accepted by BLM. (See also part 3580 of this chapter.)

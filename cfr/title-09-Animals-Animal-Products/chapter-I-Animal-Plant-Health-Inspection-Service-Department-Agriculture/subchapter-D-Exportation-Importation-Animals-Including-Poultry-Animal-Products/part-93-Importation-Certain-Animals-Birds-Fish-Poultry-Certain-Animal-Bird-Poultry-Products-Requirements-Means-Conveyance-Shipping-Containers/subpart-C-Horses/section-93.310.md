@@ -1,0 +1,5 @@
+##### § 93.310 Quarantine stations, visiting restricted; sales prohibited. #####
+
+Visitors are not permitted in the quarantine enclosure during any time that the horses are in quarantine unless an APHIS representative specifically grants access under such conditions and restrictions as may be imposed by APHIS. An importer (or his or her agent or accredited veterinarian) may be admitted to the lot-holding area(s) containing his or her quarantined horses at such intervals as may be deemed necessary, and under such conditions and restrictions as may be imposed, by an APHIS representative. On the last day of the quarantine period, owners, officers or registry societies, and others having official business or whose services may be necessary in the removal of the horses may be admitted upon written permission from an APHIS representative. No exhibition or sale shall be allowed within the quarantine grounds.
+
+[74 FR 31601, July 2, 2009]

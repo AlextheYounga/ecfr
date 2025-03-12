@@ -1,0 +1,3 @@
+##### § 3152.4 Relinquishment of exploration permit. #####
+
+Subject to the continued obligations of the permittee and the surety to comply with the terms and conditions of the exploration permit and the regulations, the permittee may relinquish an exploration permit for all or any portion of the lands covered by it. Such relinquishment shall be filed with the District Manager of the proper BLM office.

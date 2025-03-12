@@ -1,0 +1,7 @@
+##### § 201.61 Market agencies selling or purchasing livestock on commission; relationships with dealers. #####
+
+(a) *Market agencies selling on commission.* No market agency selling consigned livestock shall enter into any agreement, relationship or association with dealers or other buyers which has a tendency to lessen the loyalty of the market agency to its consignors or impair the quality of the market agency's selling services. No market agency selling livestock on commission shall provide clearing services for any independent dealer who purchases livestock from consignment to such market agency without disclosing, on the account of sale to the consignor, the name of the buyer and the nature of the financial relationship between the buyer and the market agency.
+
+(b) *Market agencies buying on commission.* No market agency purchasing livestock on commission shall enter into any agreement, relationship, or association with dealers or others which will impair the quality of the buying services furnished to its principals. No market agency purchasing livestock on commission shall, in filling orders, purchase livestock from a dealer whose operations it clears or finances without disclosing the relationship between the market agency and dealer to its principals on the accountings furnished to the principals.
+
+(Approved by the Office of Management and Budget under control number 0580-0015)(7 U.S.C. 228, 7 U.S.C. 222, and 15 U.S.C. 46)[49 FR 6085, Feb. 17, 1984, as amended at 60 FR 42779, Aug. 17, 1995; 68 FR 75388, Dec. 31, 2003]

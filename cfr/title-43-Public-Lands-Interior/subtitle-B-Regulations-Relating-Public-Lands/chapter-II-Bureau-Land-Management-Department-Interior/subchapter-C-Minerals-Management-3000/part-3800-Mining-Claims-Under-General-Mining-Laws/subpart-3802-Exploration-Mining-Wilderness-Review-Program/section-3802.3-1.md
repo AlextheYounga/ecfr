@@ -1,0 +1,7 @@
+##### § 3802.3-1 Environmental assessment. #####
+
+(a) When a plan of operations or significant modification is filed, the authorized officer shall make an environmental assessment to identify the impacts of the proposed mining operations upon the environment and to determine whether the proposed activity will impair the suitability of the area for preservation as wilderness or cause unnecessary and undue degradation and whether an environmental impact statement is required.
+
+(b) Following completion of the environmental assessment or the environmental impact statement, the authorized officer shall develop measures deemed necessary for inclusion in the plan of operations that will prevent impairment of wilderness suitability and undue or unnecessary degradation of land and resources.
+
+(c) If as a result of the environment assessment, the authorized officer determines that there is substantial public interest in the proposed mining operations, the operator may be notified that an additional period of time is required to consider public comments. The period shall not exceed the additional 60 days provided for approval of a plan in § 3802.1-4 of this title except as provided for cases requiring an environmental impact statement, a cultural resource inventory or section 7 of the Endangered Species Act.

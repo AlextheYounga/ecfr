@@ -1,0 +1,3 @@
+##### § 381.26 Separation of establishments. #####
+
+Each official establishment shall be separate and distinct from any other official establishment and from any unofficial establishment except an establishment preparing meat products under the Federal Meat Inspection Act or under State meat inspection. Further, doorways, or other openings, may be permitted between establishments at the discretion of the Administrator and under such conditions as he may prescribe.

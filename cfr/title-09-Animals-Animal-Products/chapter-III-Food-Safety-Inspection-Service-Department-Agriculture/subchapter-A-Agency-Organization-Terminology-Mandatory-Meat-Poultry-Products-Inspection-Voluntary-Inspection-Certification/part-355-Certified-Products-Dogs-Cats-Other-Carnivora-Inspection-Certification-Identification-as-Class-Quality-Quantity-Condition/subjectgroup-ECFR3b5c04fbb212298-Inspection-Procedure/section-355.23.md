@@ -1,0 +1,3 @@
+##### § 355.23 Tagging products “U.S. retained.” #####
+
+A “U.S. Retained” tag shall be placed by an inspector at the time of inspection on all certified products, materials to be used in the preparation of certified products, or containers thereof, whenever such certified products, materials, or containers are suspected of being unsound or otherwise unfit or not in conformity with the requirements contained in this part. Such tags so placed shall not be removed by anyone other than an inspector.

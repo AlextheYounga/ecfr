@@ -1,0 +1,3 @@
+##### § 3910.44 Collection and submission of data. #####
+
+Upon the BLM's request, the licensee must provide copies of all data obtained under the exploration license in the format requested by the BLM. To the extent authorized by the Freedom of Information Act, the BLM will consider the data confidential and proprietary until the BLM determines that public access to the data will not damage the competitive position of the licensee or the lands involved have been leased, whichever comes first. The licensee must submit to the proper BLM office all data obtained under the exploration license.

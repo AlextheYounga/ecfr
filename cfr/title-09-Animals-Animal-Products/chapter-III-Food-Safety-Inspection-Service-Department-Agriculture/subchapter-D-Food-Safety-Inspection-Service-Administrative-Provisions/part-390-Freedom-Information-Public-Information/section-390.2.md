@@ -1,0 +1,3 @@
+##### § 390.2 Published materials. #####
+
+FSIS rules and regulations relating to its regulatory responsibilities and administrative procedures are published and made available to the public in the Federal Register and codified in chapter III, title 9, of the Code of Federal Regulations. FSIS also issues numerous publications relating to Agency programs, which implement the laws listed in the Delegation of Authority, 7 CFR 2.15(a). Most of these publications are available free from the USDA Publications Division, Office of Governmental and Public Affairs, or at established rates from the Superintendent of Documents, U.S. Government Printing Office, Washington, 20402-9328.

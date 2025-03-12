@@ -1,0 +1,3 @@
+##### § 10010.40 Combining documents. #####
+
+Incorporating documentation requirements of other environmental regulations into an EIS is both acceptable and desirable. If the EIS is combined with another planning or decision making document, the section which analyzes the environmental consequences of the proposal and its alternatives will be clearly and separately identified and not interwoven into other portions of or spread throughout the document.

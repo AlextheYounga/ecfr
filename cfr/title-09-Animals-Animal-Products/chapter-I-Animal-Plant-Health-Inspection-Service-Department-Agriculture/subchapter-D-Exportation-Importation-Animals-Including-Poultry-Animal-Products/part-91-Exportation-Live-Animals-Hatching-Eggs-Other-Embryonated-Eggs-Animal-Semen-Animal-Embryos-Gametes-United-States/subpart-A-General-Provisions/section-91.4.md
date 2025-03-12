@@ -1,0 +1,3 @@
+##### § 91.4 Prohibited exports. #####
+
+No animal, animal semen, animal embryos, hatching eggs, other embryonated eggs, or gametes under Federal, State, or local government quarantine or movement restrictions for animal health reasons may be exported from the United States unless the importing country issues an import permit or other written instruction allowing entry of the animal, animal semen, animal embryos, hatching eggs, other embryonated eggs, or gametes, and APHIS concurs with the export of the animal, animal semen, animal embryos, hatching eggs, other embryonated eggs, or gametes.

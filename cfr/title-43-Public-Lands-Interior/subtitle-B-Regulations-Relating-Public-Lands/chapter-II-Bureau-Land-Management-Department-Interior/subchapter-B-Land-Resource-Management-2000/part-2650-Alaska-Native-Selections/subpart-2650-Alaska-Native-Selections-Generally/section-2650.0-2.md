@@ -1,0 +1,3 @@
+##### § 2650.0-2 Objectives. #####
+
+The program of the Secretary is to implement such provisions in keeping with the congressional declaration of policy that the settlement of the Natives' aboriginal land claims be fair and just and that it be accomplished rapidly, with certainty, in conformity with the real economic and social needs of Natives, without litigation and with maximum participation by Natives in decisions affecting their rights and property.

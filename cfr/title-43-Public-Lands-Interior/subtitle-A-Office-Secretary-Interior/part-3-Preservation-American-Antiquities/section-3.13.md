@@ -1,0 +1,3 @@
+##### § 3.13 Report of field officer. #####
+
+The field officer in charge of land owned or controlled by the Government of the United States shall, from time to time, inquire and report as to the existence, on or near such lands, of ruins and archaeological sites, historic or prehistoric ruins or monuments, objects of antiquity, historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest.

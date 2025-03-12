@@ -1,0 +1,5 @@
+##### § 592.95 Facilities and equipment to be furnished for use of inspection program personnel in performing service. #####
+
+(a) Facilities and equipment for proper sampling, weighing, examination of products, and monitoring processing procedures shall be furnished by the official plant for use by inspection program personnel. Such facilities and equipment shall include but not be limited to a room or area suitable for sampling product and stationary or adequately secured storage box or cage (capable of being locked only by inspection program personnel) for holding official samples.
+
+(b) Acceptable furnished office space and equipment, including but not being limited to, a desk, lockers or cabinets (equipped with a satisfactory locking device) suitable for the protection and storage of supplies, and with facilities for inspection program personnel to change clothing.

@@ -1,0 +1,3 @@
+##### § 3715.2-2 How do I justify occupancy by a caretaker or watchman? #####
+
+If you assert the need for a watchman or caretaker to occupy the public lands to protect valuable or hazardous property, equipment, or workings, you must show that the need for the occupancy is both reasonably incident and continual. You must show that a watchman or caretaker is required to be present either whenever the operation is not active or whenever you or your workers are not present on the site.

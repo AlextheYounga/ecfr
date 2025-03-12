@@ -1,0 +1,5 @@
+##### § 26.1 Introduction. #####
+
+(a) The Youth Conservation Corps (YCC) is a program of summer employment for young men and women, aged 15 through 18, who work, earn, and learn together by doing projects which further the development and conservation of the natural resources of the United States. The corps is open to youth of both sexes, and youth of all social, economic, and racial classifications who are permanent residents of the United States, its territories, possessions, trust territories or commonwealths.
+
+(b) The Youth Conservation Corps Act of 1970 (Pub. L. 91-378) provided for a 3-year pilot program to be carried out on lands and waters under the jurisdiction of the Secretary of Agriculture or the Secretary of the Interior. Public Law 92-597 amended the 1970 Act to include a pilot program (beginning in fiscal year 1974) of grants to States to assist them in meeting the cost of Youth Conservation Corps projects on non-Federal public lands and waters within the States. Public Law 93-408 made the Youth Conservation Corps program permanent.

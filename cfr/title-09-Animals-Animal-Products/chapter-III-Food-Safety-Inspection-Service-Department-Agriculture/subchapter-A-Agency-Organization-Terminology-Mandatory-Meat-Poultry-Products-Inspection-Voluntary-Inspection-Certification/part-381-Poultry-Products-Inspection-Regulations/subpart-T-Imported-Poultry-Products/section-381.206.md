@@ -1,0 +1,5 @@
+##### § 381.206 Labeling of shipping containers of poultry products offered for entry. #####
+
+Shipping containers of imported poultry products are required to bear in a prominent and legible manner the name of the product, the name of the country of origin, the foreign inspection system establishment number of the establishment in which the product was processed, and the inspection mark of the country of origin. Labeling on shipping containers shall be examined at the time of inspection in the United States and if found to be false or misleading, the product shall be refused entry. All labeling used with a shipping container of imported poultry products must be approved in accordance with subpart N of this part.
+
+[37 FR 9706, May 16, 1972, as amended at 54 FR 41050, Oct. 5, 1989; 60 FR 67458, Dec. 29, 1995]

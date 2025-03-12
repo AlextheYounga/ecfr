@@ -1,0 +1,3 @@
+##### § 1825.10 If I relinquish my interest (such as a claim or lease) in public lands, am I relieved of all further responsibility associated with that interest? #####
+
+No. You are still responsible for fulfilling any regulatory, statutory, lease, permit and other contractual obligations that apply, such as performance of reclamation and payment of rentals accruing before the time of relinquishment. You should see the regulations relating to the specific BLM resource program involved for more detailed information.

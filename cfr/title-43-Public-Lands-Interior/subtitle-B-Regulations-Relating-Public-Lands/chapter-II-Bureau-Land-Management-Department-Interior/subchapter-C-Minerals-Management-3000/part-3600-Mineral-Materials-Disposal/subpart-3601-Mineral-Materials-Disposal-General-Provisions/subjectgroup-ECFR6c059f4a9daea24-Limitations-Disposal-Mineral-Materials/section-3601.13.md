@@ -1,0 +1,3 @@
+##### § 3601.13 How can I obtain mineral materials from Federal lands that have been withdrawn to aid a function of another Federal agency or of a State or local government agency? #####
+
+If you wish to obtain mineral materials from lands withdrawn to aid a function of another Federal agency or of a State or local government agency, you may apply to BLM. BLM will dispose of the mineral materials only with the consent of that agency.

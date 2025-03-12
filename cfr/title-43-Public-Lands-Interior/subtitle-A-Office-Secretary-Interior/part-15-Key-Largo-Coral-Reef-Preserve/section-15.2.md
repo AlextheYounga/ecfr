@@ -1,0 +1,3 @@
+##### § 15.2 Removal or destruction of natural features and marine life. #####
+
+No person shall destroy, injure, deface, mar, move, dig, harmfully disturb or remove from the Preserve any beach sand, gravel or minerals, corals, sea feathers and fans, shells and shell fish starfishes or other marine invertebrates, seaweeds, grasses, or any soil, rock, artifacts, stones or other materials. No person shall cut, carve, injure, mutilate, move, displace or break off any bottom formation or growth. Nor shall any person dig in, or in any other way injure or impair the natural beauty or usefulness of this Preserve. No rope, wire or other contrivance shall be attached to any coral, rock or other formation, whether temporary or permanent in character or use.

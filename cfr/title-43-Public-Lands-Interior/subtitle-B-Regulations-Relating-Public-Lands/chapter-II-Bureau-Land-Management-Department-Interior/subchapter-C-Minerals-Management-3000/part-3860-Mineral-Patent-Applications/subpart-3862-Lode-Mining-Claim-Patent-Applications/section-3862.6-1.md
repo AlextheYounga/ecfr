@@ -1,0 +1,3 @@
+##### § 3862.6-1 Failure to prosecute application with diligence. #####
+
+The failure of an applicant for patent to a mining claim to prosecute his application to completion, by filing the necessary proofs and making payment for the land, within a reasonable time after the expiration of the period of publication of notice of the application, or after the termination of adverse proceedings in the courts, constitutes a waiver by the applicant of all rights obtained by the earlier proceedings upon the application.

@@ -1,0 +1,11 @@
+##### § 381.155 General. #####
+
+(a) *Authorization to establish specifications.* (1) The Administrator is authorized to establish specifications or definitions and standards of identity or composition, covering the principal constituents of any poultry product with respect to which a specified name of the product or other labeling terminology may be used, whenever he determines such action is necessary to prevent sale of the product under false or misleading labeling. Further, the Administrator is authorized to prescribe definitions and standards of identity or composition for poultry products whenever he determines such action is otherwise necessary for the protection of the public. The requirements of this subpart are hereby found to be necessary for these purposes and standards are hereby established as set forth in this subpart.
+
+(2) Where cooked poultry meat is specified in this subpart as an ingredient of poultry products, this means poultry meat derived from poultry processed, cooked, and cooled in a manner approved by the Administrator in specific cases without use of liquid or moisture in direct contact with the poultry meat following the cooking and cooling of the poultry.
+
+(3) If, following cooking and cooling of poultry meat to be used in poultry products, liquid or moisture is used in direct contact with such poultry meat and the percentage of solids, excluding salt, in the poultry meat is found to be below 34 percent when such poultry meat is tested by acceptable methods, the percentage of poultry meat required by this section for any poultry product shall be increased in proportion to the deficiency, or the meat shall be so processed as to raise the solids content, excluding salt, to 34 percent. The official establishment shall furnish adequate facilities for such testing.
+
+(b) Any binder or antimicrobial agent that has been found to be safe and suitable by the Food and Drug Administration and the Food Safety and Inspection Service may be used in the production of poultry products with standards of identity in this part, where the product standards and applicable Federal regulations already permit the use of these types of ingredients.
+
+[37 FR 9706, May 16, 1972, as amended at 68 FR 22578, Apr. 29, 2003]

@@ -1,0 +1,3 @@
+##### § 4610.4-1 Computation of fees. #####
+
+The aggregate of the grazing fees collected for the use of the lands leased under the provisions of the Pierce Act must be sufficient to insure a return to the United States of an amount equal to the aggregate of the rentals paid for such lands and the aggregate of the grazing fees collected for the use of all the lands leased in any one State must be at least equal to the aggregate of the rentals paid in that State.

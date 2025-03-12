@@ -1,0 +1,3 @@
+##### § 310.4 Identification of carcasses and parts; tagging. #####
+
+Such devices and methods as may be approved by the Administrator may be used for the temporary identification of retained carcasses, organs, and other parts. In all cases, the identification shall be further established by affixing “U.S. Retained” tags as soon as practicable and before final inspection. These tags shall not be removed except by a Program employee.

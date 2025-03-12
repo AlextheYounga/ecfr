@@ -1,0 +1,3 @@
+##### § 3202.11 Must I prove I am qualified to hold a lease when filing an application to lease? #####
+
+You do not need to submit proof that you are qualified to hold a lease under § 3202.10 at the time you submit an application to lease, but BLM may ask you in writing for information about your qualifications at any time. You must submit the additional information to BLM within 30 days after you receive the request.

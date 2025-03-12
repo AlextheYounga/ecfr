@@ -1,0 +1,5 @@
+##### § 418.10 Determining the amount of water duty to be delivered. #####
+
+(a) Eligible land may receive no more than the amount of water in acre-feet per year established as maximum farm headgate delivery allowances by the decrees. All water use is limited to that amount reasonably necessary for economical and beneficial use under the decrees.
+
+(b) The annual water duty as assigned by the decrees is a maximum of 4.5 AF per acre for bench lands and a maximum of 3.5 AF per acre for bottom lands. The water duty for fields with a mixture of bench and bottom lands must be the water duty of the majority acreage. Bench and bottom land designations as finally approved by the United States District Court for the District of Nevada will be used in determining the maximum water duty for any parcel of eligible land. The annual water duty for pasture land established by contract is 1.5 AF per acre.

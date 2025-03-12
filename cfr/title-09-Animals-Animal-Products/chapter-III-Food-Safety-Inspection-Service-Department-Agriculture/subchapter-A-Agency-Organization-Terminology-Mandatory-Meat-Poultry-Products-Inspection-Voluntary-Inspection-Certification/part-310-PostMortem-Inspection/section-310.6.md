@@ -1,0 +1,3 @@
+##### § 310.6 Carcasses and parts passed for cooking; marking. #####
+
+Carcasses and parts passed for cooking shall be marked conspicuously on the surface tissues thereof by a Program employee at the time of inspection, “U.S. Passed for Cooking.” All such carcasses and parts shall be cooked in accordance with part 315 of this subchapter, and until so cooked shall remain in the custody of a Program employee.

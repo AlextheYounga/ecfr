@@ -1,0 +1,3 @@
+##### § 592.380 Disposition of certificates. #####
+
+The original and a copy of each certificate issued pursuant to § 592.370, and not to exceed two additional copies thereof if requested by the applicant prior to issuance, shall, immediately upon issuance, be delivered or mailed to the applicant or designee. Other copies shall be filed and retained in accordance with the disposition schedule for inspection program records.

@@ -1,0 +1,3 @@
+##### § 3583.2 Consent of Secretary of Agriculture. #####
+
+Any mineral lease for lands subject to this subpart shall be issued only with the consent of the Secretary of Agriculture and subject to such conditions as he/she may prescribe after he/she finds that such disposition would not have significant adverse effects on the purpose of the Central Valley Project or the administration of the recreation area.

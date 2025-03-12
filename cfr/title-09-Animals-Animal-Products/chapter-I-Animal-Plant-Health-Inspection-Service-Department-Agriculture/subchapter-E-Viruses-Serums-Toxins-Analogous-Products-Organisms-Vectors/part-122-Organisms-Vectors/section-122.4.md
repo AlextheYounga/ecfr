@@ -1,0 +1,7 @@
+##### § 122.4 Suspension or revocation of permits. #####
+
+(a) Any permit for the importation or transportation of organisms or vectors issued under this part may be formally suspended or revoked after opportunity for hearing has been accorded the permittee, as provided in part 123 of this subchapter, if the Secretary finds that the permittee has failed to observe the safeguards and instructions prescribed by the Administrator with respect to the particular importation or transportation or that such importation or transportation for any other reason may result in the introduction or dissemination from a foreign country into the United States, or from one State, Territory or the District of Columbia to another, of the contagion of any contagious, infectious or communicable disease of animals (including poultry).
+
+(b) In cases of wilfulness or where the public health, interest or safety so requires, however, the Secretary may without hearing informally suspend such a permit upon the grounds set forth in paragraph (a) of this section, pending determination of formal proceedings under part 123 of this subchapter for suspension or revocation of the permit.
+
+[23 FR 10065, Dec. 23, 1958. Redesignated at 31 FR 81, Jan. 5, 1966, and amended at 57 FR 30899, July 13, 1992]

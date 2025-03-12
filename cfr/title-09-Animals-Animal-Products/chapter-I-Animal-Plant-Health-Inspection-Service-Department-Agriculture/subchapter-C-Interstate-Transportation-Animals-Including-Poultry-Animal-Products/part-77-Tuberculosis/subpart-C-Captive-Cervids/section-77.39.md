@@ -1,0 +1,61 @@
+##### § 77.39 Other interstate movements. #####
+
+(a) *Herds containing a suspect*—(1) *The suspect.* (i) A captive cervid classified as a suspect on the SCT test must be quarantined until it is slaughtered or retested by the CCT test and found negative for tuberculosis. Retesting must be as follows:
+
+(A) The first CCT test must be administered within the first 10 days following the SCT test or, if not, must be administered at least 90 days after the SCT test. If the CCT test is administered within 10 days of the SCT test, the injection must be on the side of the neck opposite the injection for the SCT test.
+
+(B) [Reserved]
+
+(ii) A captive cervid classified as a suspect on the first CCT test must be quarantined until the following has occurred:
+
+(A) A suspect on the first CCT test is tested with a second CCT test at least 90 days after the first CCT test and is found negative for tuberculosis.
+
+(B) [Reserved]
+
+(iii) A captive cervid classified as a suspect on an initial DPP® test must be slaughtered or otherwise must be quarantined until it is retested using the DPP® test. A captive cervid that has negative test results to this second DPP® test may be released from quarantine. A captive cervid that has non-negative test results to this second DPP® test must be classified as a reactor and may only be moved in accordance with paragraph (b) of this section.
+
+(2) *The remainder of the herd.* Any herd containing a suspect to an official tuberculosis test must be quarantined until the suspect is retested by the CCT test, DPP® test, or the BTB test and found negative for tuberculosis, or the suspect is inspected at slaughter or necropsied and found negative for tuberculosis after histopathology and culture of selected tissues. If the suspect is found negative for tuberculosis upon testing, or after slaughter inspection or necropsy and histopathology and culture of selected tissues, the herd may be released from quarantine and will return to the herd classification status in effect before the herd was quarantined. If the suspect is classified as a reactor upon testing, or after slaughter inspection or necropsy and histopathology and/or culture of selected tissues, the herd may be released from quarantine only in accordance with paragraph (b) of this section for herds containing a reactor.
+
+(b) *Herds containing a reactor.* The following requirements apply to herds containing a reactor, except for herds that have received captive cervids from an affected herd. Herds that have received captive cervids from an affected herd must be quarantined and tested in accordance with paragraph (e) of this section.
+
+(1) *The reactor.* Captive cervids classified as reactors must be quarantined.
+
+(2) *The remainder of the herd.* Any herd containing reactors must be quarantined until the reactors are slaughtered or necropsied in accordance with § 77.40 and:
+
+(i) If, upon slaughter inspection or necropsy, any reactors exhibit lesions compatible with or suggestive of tuberculosis, found by histopathology, without the isolation of *M. bovis,* the remainder of the herd may be released from quarantine in accordance with the provisions of paragraph (c) of this section.
+
+(ii) If *M. bovis* is isolated from any reactors, the remainder of the herd will be considered an affected herd, and will be subject to the provisions for affected herds in paragraph (d) of this section.
+
+(iii) If upon slaughter inspection or necropsy all reactors exhibit no gross lesions (NGL) of tuberculosis and no evidence of tuberculosis infection is found by histopathology and culture of *M. bovis* on specimens taken from the NGL animals, the remainder of the herd may be released from quarantine, and captive cervids from the herd may be moved interstate in accordance with the herd classification status in effect before the herd was quarantined if one of the following conditions is met:
+
+(A) The remainder of the herd is given a whole herd test and is found negative for tuberculosis.
+
+(B) The remainder of the herd is given a whole herd test, and all reactors to the whole herd test exhibit no gross lesions (NGL) of tuberculosis upon slaughter inspection or necropsy and no evidence of tuberculosis infection is found by histopathology or culture of *M. bovis* on specimens taken from the NGL animals.
+
+(iv) If no evidence of tuberculosis is found in any reactor upon slaughter inspection or necropsy, but it is not possible to conduct a whole herd test on the remainder of the herd, the herd will be evaluated, based on criteria such as the testing history of the herd and the State history of tuberculosis infection, by APHIS to determine whether the herd may be released from quarantine.
+
+(c) *Herds found to have only lesions of tuberculosis.* A herd in which captive cervids with lesions compatible with or suggestive of tuberculosis are found by histopathology without the isolation of *M. bovis* may be released from quarantine and return to the herd classification status in effect before the herd was quarantined, with the concurrence of APHIS, if the herd tests negative to tuberculosis on a whole herd test conducted 90 days following the removal of the lesioned captive cervid, provided the herd has not been exposed to *M. bovis* during the 90 days. To maintain its herd classification status, the herd must test negative to two annual whole herd tests beginning 10-12 months after the herd is released from quarantine. If any captive cervids in the herd respond to one of the tests, the herd will be subject to the provisions of paragraph (a) or (b) of this section. If the herd is not given the two annual whole herd tests, it will become an unclassified herd.
+
+(d) *Affected herds.* A herd determined to be an affected herd must be quarantined until the herd has tested negative to three whole herd tests in succession, with the first test given 90 days or more after the last test yielding a reactor and the last two tests given at intervals of not less than 180 days. If the herd tests negative to the three whole herd tests, it will be released from quarantine, but will be considered an unclassified herd, and captive cervids may only be moved interstate from the herd in accordance with the movement requirements for the State or zone in which the herd is located. In addition, the herd must be given five consecutive annual whole herd tests after release from quarantine. (These five tests will count toward qualifying the herd for herd classification.) As an alternative to testing, the herd may be depopulated.
+
+(e) *Herds that have received captive cervids from an affected herd.* If a herd has received captive cervids from an affected herd, the captive cervids from the affected herd of origin will be considered exposed to tuberculosis. The exposed captive cervids and the receiving herd must be quarantined. The exposed captive cervids must be slaughtered, necropsied, or tested with the SCT test by a veterinarian employed by the State in which the test is administered or employed by USDA, or tested with the DPP® test. Any exposed captive cervid that responds to the SCT test must be classified as a reactor and must be inspected at slaughter or necropsied. Any exposed captive cervid that has non-negative test results to the DPP® test must be classified as a reactor and must be inspected at slaughter or necropsied. Any exposed captive cervid that tests negative to the SCT or DPP® test will be considered as part of the affected herd of origin for purposes of testing, quarantine, and the five annual whole herd tests required for affected herds in paragraph (d) of this section.
+
+(1) If bovine tuberculosis is confirmed in any of the exposed captive cervids by bacterial isolation of *M. bovis,* the receiving herd will be classified as an affected herd and will be subject to the provisions for affected herds in paragraph (d) of this section.
+
+(2) If any of the exposed captive cervids are found to exhibit lesions compatible with or suggestive of tuberculosis, found by histopathology, without the isolation of *M. bovis,* the receiving herd will be subject to appropriate testing as determined by APHIS.
+
+(3) If all the exposed captive cervids test negative for tuberculosis, the receiving herd will be released from quarantine if it is given a whole herd test and is found negative for tuberculosis and will return to the herd classification in effect before the herd was quarantined. In addition, the receiving herd will must be retested with the SCT or DPP® test 1 year after release from quarantine in order for captive cervids from the herd to continue to be moved interstate. Supplemental diagnostic tests may be used if any captive cervids in the herd show a response to the SCT test or have non-negative test results to the DPP® test.
+
+(f) *Source herds.* A herd suspected of being the source of tuberculous captive cervids based on a slaughter traceback investigation must be quarantined upon notification (by the person conducting the investigation) to the USDA area veterinarian in charge for the State in which the herd resides, and a herd test must be scheduled. If the herd is suspected of being the source of slaughter captive cervids having lesions of tuberculosis, the herd test must be done by a veterinarian employed by the State in which the test is administered or employed by USDA.
+
+(1) If the herd is identified as the source of captive cervids having lesions of tuberculosis and *M. bovis* has been confirmed by bacterial isolation from the slaughter animal, all captive cervids in the herd that respond to the SCT must be classified as reactors. All captive cervids in the herd that respond to the DPP® test must be classified as reactors. If none respond to the SCT test or have non-negative test results to the DPP® test, the herd may be released from quarantine and will return to the herd classification status in effect before the herd was quarantined, unless APHIS determines that additional testing is appropriate to ensure the herd's freedom from tuberculosis.
+
+(2) If the herd is identified as the source of captive cervids that exhibit lesions compatible with or suggestive of tuberculosis, found by histopathology, without the isolation of *M. bovis,* all captive cervids in the herd that respond to the SCT test or the DPP® test must be classified as suspects, and supplemental tests must be applied.
+
+(3) If the herd is not identified as the source herd, the herd will be released from quarantine if the herd is given a whole herd test and is found negative for tuberculosis. The herd will then return to the herd classification status in effect before the herd was quarantined.
+
+(g) *Newly assembled herds.* (1) A newly assembled herd will be classified as having the herd status of the herd from which the captive cervids originated. If the herd is assembled from captive cervids from more than one herd, it will be classified as having the herd status of the originating herd with the lowest status. A newly assembled herd will also assume the testing schedule of the herd status it is given. Captive cervids in the herd must have no exposure to captive cervids from a herd of lesser status than the herd of origin determining the status of the newly assembled herd or to any tuberculous livestock.
+
+(2) A herd newly assembled on premises where a tuberculous herd has been depopulated must be given two consecutive annual whole herd tests. The first test must be administered at least 6 months after the assembly of the new herd. If the whole herd tests are not conducted within the indicated timeframe, the herd will be quarantined. If the herd tests negative to the two whole herd tests, there are no further requirements. If any captive cervid in the herd responds on one of the whole herd tests, the herd will be subject to the provisions of paragraph (a) or (b) of this section. If the premises has been vacant for more than 1 year preceding the assembly of the new herd on the premises, these requirements may be waived if the risk of tuberculosis transmission to the newly assembled herd is deemed negligible by cooperating State and Federal animal health officials.
+
+[65 FR 63517, Oct. 23, 2000, as amended at 71 FR 24806, Apr. 27, 2006; 78 FR 1723, Jan. 9, 2013; 79 FR 43926, July 29, 2014]

@@ -1,0 +1,3 @@
+##### § 2.153 Dogs refused entry. #####
+
+Any dog refused entry into the continental United States or Hawaii for noncompliance with the requirements of this subpart may be removed from the continental United States or Hawaii or may be seized and the person intending to import the dog shall provide for the care (including appropriate veterinary care), forfeiture, and adoption of the dog, at his or her expense.

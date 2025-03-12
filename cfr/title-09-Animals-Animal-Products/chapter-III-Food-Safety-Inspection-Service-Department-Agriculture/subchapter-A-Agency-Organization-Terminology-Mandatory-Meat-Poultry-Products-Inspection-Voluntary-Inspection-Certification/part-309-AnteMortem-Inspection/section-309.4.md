@@ -1,0 +1,7 @@
+##### § 309.4 Livestock showing symptoms of certain metabolic, toxic, nervous, or circulatory disturbances, nutritional imbalances, or infectious or parasitic diseases. #####
+
+(a) All livestock showing, on ante-mortem inspection, symptoms of anaplasmosis, ketosis, leptospirosis, listeriosis, parturient paresis, pseudorabies, rabies, scrapie, tetanus, grass tetany, transport tetany, strangles, purpura hemorrhagica, azoturia, infectious equine encephalomyelitis, toxic encephalomyelitis (forage poisoning), dourine, acute influenza, generalized osteoporosis, glanders (farcy), acute inflammatory lameness or extensive fistula shall be identified as U.S. Condemned and disposed of in accordance with § 309.13.
+
+(b) If any equine is suspected on ante-mortem inspection of being infected with glanders or dourine, the nearest Veterinary Services unit of the Animal and Plant Health Inspection Service shall be so informed by a Program employee. Tests shall be performed by said unit to determine whether the animal is, in fact, infected with such disease. If it is found on such tests to be infected, the animal shall be disposed of in accordance with paragraph (a) of this section. Otherwise, the animal shall be identified as a U.S. Suspect and disposed of as provided in § 311.10 of this subchapter.
+
+[35 FR 15563, Oct. 3, 1970, as amended at 38 FR 29214, Oct. 23, 1973]

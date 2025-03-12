@@ -1,0 +1,5 @@
+##### § 72.2 Restrictions on movement of cattle. #####
+
+Notice is hereby given that the contagious, infectious, and communicable disease known as bovine piroplasmosis, bovine babesiosis, redwater, or splenetic, southern, cattle, Texas or tick fever exists in cattle in portions of the State of Texas and the Virgin Islands of the United States. Notice is also hereby given that ticks which are vectors of said disease exist in the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the Island of Guam. Therefore, portions of the State of Texas, the Virgin Islands of the United States, the Northern Mariana Islands, the Commonwealth of Puerto Rico and the Island of Guam are hereby quarantined as provided in §§ 72.3 and 72.5, and the movement of cattle therefrom into any other State or Territory or the District of Columbia shall be made only in accordance with the provisions of this part and part 71 of this chapter.
+
+[43 FR 60864, Dec. 29, 1978, as amended at 78 FR 8960, Feb. 7, 2013]

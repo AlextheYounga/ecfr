@@ -1,0 +1,5 @@
+##### § 327.11 Receipts to importers for import product samples. #####
+
+In order that importers may be assured that samples of foreign products collected for laboratory examination are to be used exclusively for that purpose, official receipts shall be issued and delivered to importers, or their agents, by inspectors for all samples of foreign products collected. The official receipt shall be prepared in duplicate, over the signature of the inspector who collects the samples, and shall show the name of the importer, country of origin, quantity and kind of product collected, date of collection, and that the sample was collected for laboratory examination. The duplicate copy of the receipt shall be retained by the inspectors as their office record.
+
+[35 FR 15610, Oct. 3, 1970, as amended at 51 FR 37707, Oct. 24, 1986]

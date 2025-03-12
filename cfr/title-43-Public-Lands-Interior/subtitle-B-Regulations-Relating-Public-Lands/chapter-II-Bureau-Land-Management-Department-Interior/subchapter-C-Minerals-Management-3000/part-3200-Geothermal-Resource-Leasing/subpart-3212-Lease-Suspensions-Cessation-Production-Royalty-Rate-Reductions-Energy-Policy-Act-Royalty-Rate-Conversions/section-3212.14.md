@@ -1,0 +1,3 @@
+##### § 3212.14 What happens when the suspension ends? #####
+
+When the suspension ends, you must resume rental and royalty payments that were suspended, beginning on the first day of the lease month after BLM terminates the suspension. You must pay the full rental amount due on or before the next lease anniversary date. If you do not make the rental payments on time, BLM will refund your balance and terminate the lease.

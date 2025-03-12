@@ -1,0 +1,7 @@
+##### § 3131.2 Tentative tract selection. #####
+
+(a) The State Director Alaska, Bureau of Land Management, shall issue calls for Nominations and Comments on tracts for leasing for oil and gas in specified areas. The call for Nominations and Comments shall be published in the Federal Register and may be published in other publications as desired by the State Director. Nominations and Comments on tracts shall be addressed to the State Director Alaska, Bureau of Land Management. The State Director shall also request comments on tracts which should receive special concern and analysis.
+
+(b) The State Director, after completion of the required environmental analysis (see 40 CFR 1500-1508), shall select tracts to be offered for sale. In making the selection, the State Director shall consider available environmental information, multiple-use conflicts, resource potential, industry interest, information from appropriate Federal agencies and other available information. The State Director shall develop measures to mitigate adverse impacts, including lease stipulations and information to lessees. These mitigating measures shall be made public in the notice of sale.
+
+[46 FR 55497, Nov. 9, 1981, as amended at 53 FR 17358, May 16, 1988]

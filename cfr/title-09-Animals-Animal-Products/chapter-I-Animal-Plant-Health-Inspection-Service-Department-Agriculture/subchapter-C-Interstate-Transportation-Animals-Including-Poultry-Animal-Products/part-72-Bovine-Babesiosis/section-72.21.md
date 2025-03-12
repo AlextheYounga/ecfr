@@ -1,0 +1,3 @@
+##### § 72.21 Animals infested with or exposed to ticks subject to same restrictions as cattle. #####
+
+Animals other than cattle which are infested with ticks [Boophilus annulatus (Margaropus annulatus), Boophilus microplus, or Rhipicephalus evertsi evertsi] or exposed to tick infestation shall not be moved interstate unless they are treated, handled, and moved in accordance with the requirements specified in §§ 72.9 through 72.15 and § 72.18 of this part governing the interstate movement of cattle.

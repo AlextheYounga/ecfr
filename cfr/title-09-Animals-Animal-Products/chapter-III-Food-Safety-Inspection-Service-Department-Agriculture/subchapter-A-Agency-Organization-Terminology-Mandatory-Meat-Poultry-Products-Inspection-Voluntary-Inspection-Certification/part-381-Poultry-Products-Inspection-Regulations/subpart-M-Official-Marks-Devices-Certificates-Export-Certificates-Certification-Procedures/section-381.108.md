@@ -1,0 +1,7 @@
+##### § 381.108 Official poultry inspection certificates; issuance and disposition. #####
+
+(a) Upon the request of an interested party, any veterinary inspector is authorized to issue an official poultry inspection certificate with respect to any lot of slaughtered poultry inspected by him. At any official establishment each such certificate shall be signed by the inspector who made the inspection covered by the certificate, and if more than one inspector participated in the inspection of the lot of poultry, each such inspector shall sign the certificate with respect to such lot. If the inspection of a lot covered by a certificate was made by a food inspector, such certificate shall also be signed by the inspector in charge when such inspection was made. Any inspector is authorized to issue a poultry inspection certificate with respect to any other poultry product inspected by him.
+
+(b) The original and one copy of each poultry inspection certificate shall be issued to the applicant who requested such certificate, and one copy shall be retained by the inspector for filing. The inspector who issues any inspection certificate is authorized to furnish an additional copy of such certificate upon the request of an interested party. The person who sold the live poultry involved to the official establishment is an interested party for purposes of this section.
+
+[37 FR 9706, May 16, 1972, as amended at 39 FR 36000, Oct. 7, 1974]

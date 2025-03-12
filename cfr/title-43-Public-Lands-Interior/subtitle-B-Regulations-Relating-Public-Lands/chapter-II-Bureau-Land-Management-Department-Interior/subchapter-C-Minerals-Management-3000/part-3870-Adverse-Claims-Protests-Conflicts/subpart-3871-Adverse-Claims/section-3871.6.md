@@ -1,0 +1,3 @@
+##### § 3871.6 Certificate required when no suit commenced. #####
+
+Where an adverse claim has been filed but no suit commenced against the applicant for patent within the statutory period, a certificate to that effect by the clerk of the State court having jurisdiction in the case, and also by the clerk of the district court of the United States for the district in which the claim is situated, will be required.

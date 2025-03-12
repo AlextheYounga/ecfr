@@ -1,0 +1,3 @@
+##### § 557.17 Returned U.S. inspected and marked fish and fish products. #####
+
+U.S. inspected and passed and so marked fish products exported to and returned from foreign countries will be admitted into the United States without compliance with this part upon notification of and approval by the Assistant Administrator, Office of Field Operations, Food Safety and Inspection Service, U.S. Department of Agriculture, Washington, DC 20250, in specific cases.

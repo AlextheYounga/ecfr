@@ -1,0 +1,3 @@
+##### § 332.14 Voluntary withdrawal. #####
+
+A selected establishment that is in full compliance with the requirements in this part may voluntarily end its participation in a cooperative interstate shipment program and operate under the cooperative State meat inspection program. Establishments that voluntarily end their participation in the cooperative may re-apply for the program after operating under the cooperative State meat inspection program for one year.

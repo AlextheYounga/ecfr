@@ -1,0 +1,3 @@
+##### § 404.23 How will Reclamation determine whether you or your contractor is qualified to conduct an appraisal investigation or a feasibility study? #####
+
+If you are requesting funding under § 404.11(b) to conduct an appraisal investigation or a feasibility study yourself or though a contractor, Reclamation will evaluate whether you, your technical staff, or contractor are qualified to perform the appraisal investigation or feasibility study based on their demonstrated qualifications and experience in performing or managing similar activities. Areas of expertise needed may include, but are not limited to, water management planning, engineering, hydrology, biology, demography, finance, and economics.

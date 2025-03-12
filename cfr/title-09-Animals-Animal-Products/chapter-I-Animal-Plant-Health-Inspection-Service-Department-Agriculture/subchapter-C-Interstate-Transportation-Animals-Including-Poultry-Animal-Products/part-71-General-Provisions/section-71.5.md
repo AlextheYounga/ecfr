@@ -1,0 +1,5 @@
+##### § 71.5 Unsanitary railroad cars, trucks, boats, aircraft or other means of conveyance; interstate movement restricted. #####
+
+No person who receives notice from an APHIS representative that a railroad car, truck, boat, aircraft or other means of conveyance owned or operated by such person is not in a clean and sanitary condition in accordance with good animal husbandry practices, shall thereafter use such means of conveyance in connection with the interstate movement of livestock or poultry, or move said means of conveyance interstate, until it has been cleaned and disinfected under the supervision of an APHIS or State representative or an accredited veterinarian in accordance with §§ 71.7 and 71.10 through 71.12.
+
+[34 FR 15641, Oct. 9, 1969, as amended at 55 FR 11156, Mar. 27, 1990; 55 FR 15320, Apr. 23, 1990; 62 FR 27933, May 22, 1997]

@@ -1,0 +1,3 @@
+##### § 10010.56 Approval of EISs. #####
+
+The Chairman of the Commission (Chairman), acting on the part of the full Commission, is authorized to approve an EIS. The Chairman may further assign the authority to approve the EIS if he or she chooses. The Executive Director will make certain that there are adequate safeguards to assure that EISs and other environmental documents comply with NEPA, the CEQ regulations, this part, and other relevant Commission procedures.

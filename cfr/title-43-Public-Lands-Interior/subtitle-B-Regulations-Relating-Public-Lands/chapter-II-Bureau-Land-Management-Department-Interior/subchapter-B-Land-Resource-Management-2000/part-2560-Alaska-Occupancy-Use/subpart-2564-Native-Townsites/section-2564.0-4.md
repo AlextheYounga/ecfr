@@ -1,0 +1,5 @@
+##### § 2564.0-4 Responsibility. #####
+
+(a) *Administration of Indian possessions in trustee towns.* As to Indian possessions in trustee townsites in Alaska established under authority of section 11 of the Act of March 3, 1891 (26 Stat. 1009; 43 U.S.C. 732), and for which the townsite trustee has closed his accounts and been discharged as trustee, and as to such possessions in other trustee townsites in Alaska, such person as may be designated by the Secretary of the Interior will perform all necessary acts and administer the necessary trusts in connection with the Act of May 25, 1926.
+
+(b) *Administration of native towns.* The trustee for any and all native towns in Alaska which may be established and surveyed under authority of section 3 of the said Act of May 25, 1926 (44 Stat. 630; 43 U.S.C. 735), will take such action as may be necessary to accomplish the objects sought to be accomplished by that section.

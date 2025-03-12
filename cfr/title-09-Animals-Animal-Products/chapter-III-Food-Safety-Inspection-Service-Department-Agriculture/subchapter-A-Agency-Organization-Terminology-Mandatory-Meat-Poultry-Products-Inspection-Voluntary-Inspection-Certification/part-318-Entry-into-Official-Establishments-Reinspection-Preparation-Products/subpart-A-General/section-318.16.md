@@ -1,0 +1,7 @@
+##### § 318.16 Pesticide chemicals and other residues in products. #####
+
+(a) *Nonmeat ingredients.* Residues of pesticide chemicals, food additives and color additives or other substances in or on ingredients (other than meat, meat byproducts, and meat food products) used in the formulation of products shall not exceed the levels permitted under the Federal Food, Drug, and Cosmetic Act, and such nonmeat ingredients must otherwise be in compliance with the requirements under that Act.
+
+(b) *Products, and meat, meat byproduct, or other meat food product ingredients.* Products, and products used as ingredients of products, shall not bear or contain any pesticide chemical, food additives, or color additive residue in excess of the level permitted under the Federal Food, Drug, and Cosmetic Act and the regulations in this subchapter, or any other substance that is prohibited by such regulations or that otherwise makes the products adulterated.
+
+(c) *Standards and procedures.* Instructions specifying the standards and procedures for determining when ingredients of finished products are in compliance with this section shall be issued to the inspectors by the Administrator. Copies of such instructions will be made available to interested persons upon request made to the Administrator.

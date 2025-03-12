@@ -1,0 +1,3 @@
+##### § 3584.4 Notice of application. #####
+
+The authorized officer shall notify the surface owner of each application received. Notice of any proposed competitive lease sale shall be given to the surface owner prior to publication of notice of sale. Should the surface owner object to leasing of any tract for reasons determined by the authorized officer to be satisfactory, the application shall be rejected and the lands shall not be offered for lease sale.

@@ -1,0 +1,3 @@
+##### § 354.162 Determining compliance with § 354.161. #####
+
+A qualified veterinary supervisor of the rabbit inspection service shall investigate the manner of operation of the inspection system to determine the adequacy of the post-mortem examination and the compliance with the requirements contained in §§ 354.160 to 354.162 prior to approving the official plant for the inspection of ready-to-cook rabbits. This supervisor, as well as any official graders who may be stationed in the official plant, shall periodically observe the inspection operations in the official plant to determine that the requirements of §§ 354.160 to 354.162 are being met.

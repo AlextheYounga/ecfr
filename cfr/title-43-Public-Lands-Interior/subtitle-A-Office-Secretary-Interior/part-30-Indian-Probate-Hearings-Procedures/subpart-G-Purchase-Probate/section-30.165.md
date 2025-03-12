@@ -1,0 +1,10 @@
+##### § 30.165 Who will OHA notify of a request to purchase at probate? #####
+
+OHA will provide notice of a request to purchase at probate as shown in the following table:
+
+|                         OHA will provide notice to . . .                         |                                                                                               By . . .                                                                                                |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(a) The heirs or devisees and the Indian tribe with jurisdiction over the interest|                                                                                           First class mail.                                                                                           |
+|              (b) The BIA agency with jurisdiction over the interest              |                                                                                           First class mail.                                                                                           |
+|        (c) All parties who have submitted a written request for purchase         |                                                                                           First class mail.                                                                                           |
+|                       (d) To all other eligible purchasers                       |Posting written notice in:  <br/>(1) At least five conspicuous places in the vicinity of the place of the hearing; and  <br/>(2) One conspicuous place at the agency with jurisdiction over the parcel.|

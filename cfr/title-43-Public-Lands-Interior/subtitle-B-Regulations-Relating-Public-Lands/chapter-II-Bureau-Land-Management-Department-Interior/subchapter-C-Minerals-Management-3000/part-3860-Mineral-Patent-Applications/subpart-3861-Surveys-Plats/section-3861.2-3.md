@@ -1,0 +1,7 @@
+##### § 3861.2-3 Mineral surveyor's report of expenditures and improvements. #####
+
+(a) In the mineral surveyor's report of the value of the improvements all actual expenditures and mining improvements made by the claimant or his grantors, having a direct relation to the development of the claim, must be included in the estimate.
+
+(b) The expenditures required may be made from the surface or in running a tunnel, drifts, or crosscuts for the development of the claim. Expenditures for drill holes for the purpose of prospecting and securing data upon which further development of a group of lode mining claims held in common may be based are available toward meeting the statutory provision requiring an expenditure of $500 as a basis for patent as to all of the claims of the group situated in close proximity to such common improvement. Improvements of any other character, such as buildings, machinery, or roadways, must be excluded from the estimate, unless it is shown clearly that they are associated with actual excavations, such as cuts, tunnels, shafts, etc., are essential to the practical development of and actually facilitate the extraction of mineral from the claim.
+
+(c) Improvements made by a former locator who has abandoned his claim cannot be included in the estimate, but should be described and located in the notes and plat.

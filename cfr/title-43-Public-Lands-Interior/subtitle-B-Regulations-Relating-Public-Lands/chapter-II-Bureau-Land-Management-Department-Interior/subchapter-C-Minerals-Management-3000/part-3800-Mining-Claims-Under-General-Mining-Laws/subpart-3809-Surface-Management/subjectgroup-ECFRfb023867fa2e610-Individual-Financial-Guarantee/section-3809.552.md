@@ -1,0 +1,7 @@
+##### § 3809.552 What must my individual financial guarantee cover? #####
+
+(a) If you conduct operations under a notice or a plan of operations and you provide an individual financial guarantee, it must cover the estimated cost as if BLM were to contract with a third party to reclaim your operations according to the reclamation plan, including construction and maintenance costs for any treatment facilities necessary to meet Federal and State environmental standards. The financial guarantee must also cover any interim stabilization and infrastructure maintenance costs needed to maintain the area of operations in compliance with applicable environmental requirements while third-party contracts are developed and executed.
+
+(b) BLM will periodically review the estimated cost of reclamation and the adequacy of any funding mechanism established under paragraph (c) of this section and require increased coverage, if necessary.
+
+(c) When BLM identifies a need for it, you must establish a trust fund or other funding mechanism available to BLM to ensure the continuation of long-term treatment to achieve water quality standards and for other long term, post-mining maintenance requirements. The funding must be adequate to provide for construction, long-term operation, maintenance, or replacement of any treatment facilities and infrastructure, for as long as the treatment and facilities are needed after mine closure. BLM may identify the need for a trust fund or other funding mechanism during plan review or later.

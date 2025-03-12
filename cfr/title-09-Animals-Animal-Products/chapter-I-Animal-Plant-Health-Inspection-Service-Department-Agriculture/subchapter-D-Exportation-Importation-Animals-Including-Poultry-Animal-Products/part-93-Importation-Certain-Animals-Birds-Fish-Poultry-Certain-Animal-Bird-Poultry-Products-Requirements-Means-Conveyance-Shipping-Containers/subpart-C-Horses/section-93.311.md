@@ -1,0 +1,3 @@
+##### § 93.311 Milk from quarantined horses. #####
+
+Milk or cream from horses quarantined under the provisions of this part shall not be used by any person other than those in charge of such horses, nor be fed to any animals other than those within the same enclosure, without permission of the inspector in charge of the quarantine station and subject to such restrictions as he or she may consider necessary to each instance. No milk or cream shall be removed from the quarantine premises except in compliance with all State and local regulations.

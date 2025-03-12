@@ -1,0 +1,3 @@
+##### § 325.6 Shipment of paunches between official establishments under official seal; certificate. #####
+
+Cattle and sheep paunches which have been made clean and from which the mucous membrane has not been removed may be transported from one official establishment to another official establishment for further processing, only under an official seal of the Department as prescribed in § 312.5(a) of this subchapter.

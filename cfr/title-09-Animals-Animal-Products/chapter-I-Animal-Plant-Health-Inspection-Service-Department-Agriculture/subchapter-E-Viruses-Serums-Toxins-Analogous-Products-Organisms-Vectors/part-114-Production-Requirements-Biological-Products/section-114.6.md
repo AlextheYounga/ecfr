@@ -1,0 +1,3 @@
+##### § 114.6 Mixing biological products. #####
+
+Each biological product, when in liquid form, shall be mixed thoroughly in a single container. During bottling operations, the product shall be constantly mixed sufficient to maintain physical uniformity of the entire fill. A serial number, with any other markings that may be necessary for ready identification of the serial, shall be applied to identify it with the records of preparation and labeling.

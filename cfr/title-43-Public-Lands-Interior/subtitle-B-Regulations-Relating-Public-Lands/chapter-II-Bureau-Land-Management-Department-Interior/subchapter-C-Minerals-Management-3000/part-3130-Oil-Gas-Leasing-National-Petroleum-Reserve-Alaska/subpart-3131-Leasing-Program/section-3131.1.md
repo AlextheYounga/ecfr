@@ -1,0 +1,3 @@
+##### § 3131.1 Receipt and consideration of nominations; public notice and participation. #####
+
+During preparation of a proposed leasing schedule, the Secretary shall invite and consider suggestions and relevant information for such program from the Governor of Alaska, local governments, Native corporations, industry, other Federal agencies, including the Attorney General and all interested parties, including the general public. This request for information shall be issued as a notice in the Federal Register.

@@ -1,0 +1,3 @@
+##### § 4.840 Offer of proof. #####
+
+An offer of proof made in connection with an objection taken to any ruling of the administrative law judge excluding proffered oral testimony shall consist of a statement of the substance of the evidence which counsel contends would be adduced by such testimony. If the excluded evidence consists of evidence in written form or consists of reference to documents, a copy of such evidence shall be marked for identification and shall accompany the record as the offer of proof.

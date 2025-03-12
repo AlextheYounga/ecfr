@@ -1,0 +1,5 @@
+##### § 50.8 Payment of expenses for transporting and disposing of infected, exposed, and suspect animals. #####
+
+The Department may pay, when approved in advance in writing by the Veterinarian in Charge, one half the expenses of transporting infected, exposed, or suspect livestock to slaughter or to the point where disposal will take place, and one half the expenses of destroying, burying, incinerating, rendering, or otherwise disposing of infected, exposed, or suspect livestock; *Provided that,* the Department may pay more than one-half of the expenses when the Administrator determines that doing so will contribute to the tuberculosis eradication program. For reimbursement to be made, the owner of the animals must present the Veterinarian in Charge with a copy of either a receipt for expenses paid or a bill for services rendered. Any bill for services rendered by the owner must not be greater than the normal fee for similar services provided by a commercial hauler or renderer.
+
+[62 FR 49592, Sept. 23, 1997, as amended at 63 FR 34264, June 24, 1998; 67 FR 7591, Feb. 20, 2002]

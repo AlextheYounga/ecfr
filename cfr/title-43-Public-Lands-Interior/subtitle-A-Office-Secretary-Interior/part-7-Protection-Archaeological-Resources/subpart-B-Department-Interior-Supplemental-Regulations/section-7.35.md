@@ -1,0 +1,9 @@
+##### § 7.35 Permitting procedures for Indian lands. #####
+
+(a) If the lands involved in a permit application are Indian lands, the consent of the appropriate Indian tribal authority or individual Indian landowner is required by the Act and these regulations.
+
+(b) When Indian tribal lands are involved in an application for a permit or a request for extension or modification of a permit, the consent of the Indian tribal government must be obtained. For Indian allotted lands outside reservation boundaries, consent from only the individual landowner is needed. When multiple-owner allotted lands are involved, consent by more than 50 percent of the ownership interest is sufficient. For Indian allotted lands within reservation boundaries, consent must be obtained from the Indian tribal government and the individual landowner(s).
+
+(c) The applicant should consult with the Bureau of Indian Affairs concerning procedures for obtaining consent from the appropriate Indian tribal authorities and submit the permit application to the area office of the Bureau of Indian Affairs that is responsible for the administration of the lands in question. The Bureau of Indian Affairs shall insure that consultation with the appropriate Indian tribal authority or individual Indian landowner regarding terms and conditions of the permit occurs prior to detailed evaluation of the application. Permits shall include terms and conditions requested by the Indian tribe or Indian landowner pursuant to § 7.9 of this part.
+
+(d) The issuance of a permit under this part does not remove the requirement for any other permit required by Indian tribal law.

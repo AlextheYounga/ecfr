@@ -1,0 +1,7 @@
+##### § 3471.2-2 Effect of conveyance to state or local entity. #####
+
+(a) If the United States has conveyed the title to, or otherwise transferred control of the land surface containing the coal deposits to (1) any state or political subdivision, agency, or its instrumentality, (2) a college, any other educational corporation, or association, or (3) to a charitable or religious corporation or association, the transferee shall be notified by certified mail of the application for the license to mine or lease, or the scheduling of a lease sale. The transferee shall be given a reasonable period of time within which to suggest any stipulations necessary for the protection of existing surface improvements or uses to be included in the license or lease and state the supporting facts, or to file any objections to its issuance and state the supporting facts.
+
+(b) Opposition by the state or local entity is not a bar to issuance of the license to mine or lease for the reserved minerals in the lands. (See, however, § 3461.1(b).) In each case, the final determination on whether to issue the license to mine or lease is based on the best interests of the public.
+
+[44 FR 42643, July 19, 1979, as amended at 47 FR 33149, July 30, 1982]

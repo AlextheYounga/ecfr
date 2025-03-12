@@ -1,0 +1,3 @@
+##### § 3585.3-1 Who may obtain a mining claimant preference right lease. #####
+
+Where, consistent with the land use plan, the Secretary has opened the area to mineral leasing and development, the holder of an unperfected mining claim within the White Mountains National Recreation Area—Alaska which was, prior to November 16, 1978, located, recorded and maintained in accordance with applicable Federal and State laws on lands located within the recreation area is entitled to a lease for the removal of the hardrock minerals from the mining claim(s), provided such mining claimant submits a timely application.

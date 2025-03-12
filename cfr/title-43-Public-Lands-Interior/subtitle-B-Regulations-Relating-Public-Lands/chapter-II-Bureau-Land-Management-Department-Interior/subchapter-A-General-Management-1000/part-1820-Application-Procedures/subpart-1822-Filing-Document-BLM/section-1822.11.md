@@ -1,0 +1,3 @@
+##### § 1822.11 What must I do to make an official filing with BLM? #####
+
+You must file your application and any other required documents during regular office hours at the appropriate BLM office having jurisdiction over the lands or records involved. You must file any document with BLM through personal delivery or by mailing via the United States Postal Service or other delivery service, except for those applications that may be filed electronically under § 1822.13, unless a more specific regulation or law specifies the mode of delivery. The date of mailing is not the date of filing.

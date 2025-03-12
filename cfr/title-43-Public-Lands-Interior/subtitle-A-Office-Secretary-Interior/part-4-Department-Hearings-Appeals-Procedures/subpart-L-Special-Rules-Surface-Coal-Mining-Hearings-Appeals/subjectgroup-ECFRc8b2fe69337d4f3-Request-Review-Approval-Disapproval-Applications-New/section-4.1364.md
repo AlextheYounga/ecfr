@@ -1,0 +1,3 @@
+##### § 4.1364 Time for hearing; notice of hearing; extension of time for hearing. #####
+
+Unless all parties agree in writing to an extension or waiver, the Administrative Law Judge shall commence a hearing within 30 days of the date of the filing of the request for review or amended request for review and shall simultaneously notify the applicant or permittee and all interested parties of the time and place of such hearing before the hearing commences. The hearing shall be of record and governed by 5 U.S.C. 554. An agreement to waive the time limit for commencement of a hearing may specify the length of the extension agreed to.

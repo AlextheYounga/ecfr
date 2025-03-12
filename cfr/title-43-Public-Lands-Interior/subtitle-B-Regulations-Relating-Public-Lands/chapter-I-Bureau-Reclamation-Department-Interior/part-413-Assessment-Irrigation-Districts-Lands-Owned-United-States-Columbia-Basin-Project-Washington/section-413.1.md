@@ -1,0 +1,3 @@
+##### § 413.1 Purpose. #####
+
+The provisions of this part shall govern the levy and enforcement of assessments by or on behalf of irrigation districts against lands owned by the United States within the Columbia Basin Project, pursuant to the provisions of subsection 5 (b) and section 8 of the Columbia Basin Project Act (57 Stat. 14; 16 U. S. C. 835c-1 and 835c-4) and in keeping with the provisions of section 14, Chapter 275, Laws of Washington, 1943. (Section 89.12.120, Revised Code of Washington).

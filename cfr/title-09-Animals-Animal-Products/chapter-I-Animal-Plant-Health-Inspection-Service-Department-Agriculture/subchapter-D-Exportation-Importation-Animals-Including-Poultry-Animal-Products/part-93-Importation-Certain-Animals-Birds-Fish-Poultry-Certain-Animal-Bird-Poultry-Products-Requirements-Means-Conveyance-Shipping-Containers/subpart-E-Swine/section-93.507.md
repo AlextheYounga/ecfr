@@ -1,0 +1,5 @@
+##### § 93.507 Inspection at the port of entry. #####
+
+Inspection shall be made at the port of entry of all swine imported from any part of the world except as provided in § 93.519. All swine found to be free from communicable disease and not to have been exposed thereto within 60 days prior to their exportation to the United States shall be admitted subject to the other provisions in this part; all other swine shall be refused entry. Swine refused entry, unless exported within a time fixed in each case by the Administrator, and in accordance with other provisions he or she may require in each case for their handling shall be disposed of as the Administrator may direct. Such portions of the transporting vessel, and of its cargo, which have been exposed to any such swine or their emanations shall be disinfected in such manner as may be considered necessary by the inspector in charge at the port of entry, to prevent the introduction or spread of livestock or poultry disease, before the cargo is allowed to land.
+
+[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 62 FR 56012, 56020, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003]

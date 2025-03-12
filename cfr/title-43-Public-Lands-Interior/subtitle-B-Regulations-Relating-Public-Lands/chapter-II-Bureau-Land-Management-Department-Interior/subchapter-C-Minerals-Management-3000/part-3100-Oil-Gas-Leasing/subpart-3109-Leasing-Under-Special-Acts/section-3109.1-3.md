@@ -1,0 +1,3 @@
+##### § 3109.1-3 Notice. #####
+
+After the Bureau of Land Management has determined that a lease of a right-of-way or any portion thereof is consistent with the public interest, either upon consideration of an application for lease or on its own motion, the authorized officer shall serve notice on the owner or lessee of the oil and gas rights of the adjoining lands. The adjoining land owner or lessee shall be allowed a reasonable time, as provided in the notice, within which to submit a bid for the amount or percent of compensatory royalty, the owner or lessee shall pay for the extraction of the oil and gas underlying the right-of-way through wells on such adjoining lands. The owner of the right-of-way shall be given the same time period to submit a bid for the lease.

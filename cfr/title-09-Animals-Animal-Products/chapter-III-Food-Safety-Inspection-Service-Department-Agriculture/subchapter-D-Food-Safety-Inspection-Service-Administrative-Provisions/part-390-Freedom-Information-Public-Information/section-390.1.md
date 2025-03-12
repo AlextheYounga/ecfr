@@ -1,0 +1,3 @@
+##### § 390.1 Scope and purpose. #####
+
+This part is issued pursuant to the Freedom of Information Act (FOIA) as amended (5 U.S.C. 552), and in accordance with the directives of the Department of Agriculture regulations in part 1, subpart A, of Title 7. The availability of records, including electronic records created on or after November 1, 1996, of the Food Safety and Inspection Service (FSIS), and the procedures by which the public may request such information, will be governed by the FOIA and by the Department regulations as implemented and supplemented by the regulations in this part.

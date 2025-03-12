@@ -1,0 +1,5 @@
+##### § 351.11 Identification and separation of technical animal fats for certification and materials for use therein; removal of wrappers, etc.; cleaning of equipment. #####
+
+(a) All technical animal fat to be offered for certification under this part and materials to be used in the preparation of such fat, and all certified technical animal fat, shall be identified and kept separate from other products from the time of receipt at a certified plant and throughout processing or handling at such plant. All wrappers and packaging shall be removed from the source materials to the fullest extent practicable before the materials are rendered at the plant.
+
+(b) If a plant's operations are within the provisions of § 351.14(b)(3), all equipment shall be cleaned before it is used for receiving, preparation, or storage of certified technical animal fats or material to be used in preparation of such fats. Such cleaning shall be done in such manner as to prevent contamination of such certified fats or source material with materials that are unacceptable under § 351.3.

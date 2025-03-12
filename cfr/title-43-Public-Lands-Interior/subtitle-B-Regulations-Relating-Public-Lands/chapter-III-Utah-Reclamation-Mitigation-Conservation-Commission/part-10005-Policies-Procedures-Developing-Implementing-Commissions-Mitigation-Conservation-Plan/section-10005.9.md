@@ -1,0 +1,9 @@
+##### § 10005.9 Relationship of the plan to congressional appropriations and Commission expenditures. #####
+
+(a) The plan itself does not constitute a commitment of resources for any given project. The commitment to expend resources is dependent upon Congressional appropriation, and, following this, Commission approval of specific projects.
+
+(b) The Commission will rely on the plan as the primary source of information for the development of the agency's annual budget. For each fiscal year, projects identified in the plan will be arranged into a series of programs based on project type or ecological and geographical associations. These programs will serve as the basis for the agency's budget request.
+
+(c) Once the budget request is formulated and submitted to the Congress, the request may be altered or reformulated by the Congress before the appropriation statute is finally approved. The appropriation statute will then control the implementation of the plan. In light of the controlling nature of the appropriation statute over the implementation of the plan, the plan must maintain sufficient flexibility to allow adjustments to comply with appropriations. The amendment process described in § 10005.21 provides the mechanism for modifying the plan to correspond to changes in Congressional appropriations. Changes to the annual project portfolio will, in most instances, constitute a “substantive” amendment as described in § 10005.21.
+
+(d) Once appropriations have been approved by the Congress, the plan will serve as the principal guidance to the Commission in entering into agreements and approving the expenditure of funds for specific projects.

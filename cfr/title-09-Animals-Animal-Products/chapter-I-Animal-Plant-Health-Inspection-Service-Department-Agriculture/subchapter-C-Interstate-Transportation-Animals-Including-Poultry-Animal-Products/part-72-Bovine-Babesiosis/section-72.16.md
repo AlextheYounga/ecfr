@@ -1,0 +1,5 @@
+##### § 72.16 Designated dipping stations to be approved by the Administrator, APHIS on recommendations of State authorities; facilities. #####
+
+When deemed advisable and upon recommendation by the proper livestock sanitary authorities, designated dipping stations may be approved by the Administrator, APHIS as points at which cattle of the quarantined area of the State in which said station is located may be inspected, dipped, and certified for interstate movement. The facilities furnished shall include proper dipping equipment, noninfectious pens constructed in accordance with § 72.17 and a roofed or covered section of pens of sufficient size to protect all dipped animals from exposure to rain or hot sun. All alleys, chutes, and pens shall be paved or properly floored.
+
+[28 FR 5940, June 13, 1963, as amended at 50 FR 430, Jan. 4, 1985; 56 FR 51974, Oct. 17, 1991]

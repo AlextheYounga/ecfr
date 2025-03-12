@@ -1,0 +1,3 @@
+##### § 3284.12 When must the unit operator notify BLM of any changes of lease and tract commitment status? #####
+
+The unit operator must provide updated documentation of commitment status (see §§ 3281.8 through 3281.10) of all leases and tracts to BLM whenever a change in commitment, such as the expiration of a private lease, occurs. The unit operator must submit the documentation to BLM within 30 days after the change occurs. The unit operator must also notify all lessees and mineral interest owners of these changes.

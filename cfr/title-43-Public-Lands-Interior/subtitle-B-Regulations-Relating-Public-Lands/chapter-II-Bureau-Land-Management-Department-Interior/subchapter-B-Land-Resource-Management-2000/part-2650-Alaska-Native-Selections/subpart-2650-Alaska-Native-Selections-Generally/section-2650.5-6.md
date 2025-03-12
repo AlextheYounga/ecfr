@@ -1,0 +1,3 @@
+##### § 2650.5-6 Adjustment to plat of survey. #####
+
+All conveyances issued for lands not covered by officially approved surveys of the Bureau of Land Management shall note that upon the filing of an official plat of survey, the boundary of the selected area, described in terms of protraction diagrams or by metes and bounds, shall be redescribed in accordance with the plats of survey. However, no change will be made in the land selected.

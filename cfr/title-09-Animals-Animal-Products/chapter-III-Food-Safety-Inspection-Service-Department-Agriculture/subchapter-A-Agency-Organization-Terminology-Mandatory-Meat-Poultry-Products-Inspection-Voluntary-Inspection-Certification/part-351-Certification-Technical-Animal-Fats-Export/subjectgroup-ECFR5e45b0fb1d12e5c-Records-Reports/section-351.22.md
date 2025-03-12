@@ -1,0 +1,7 @@
+##### § 351.22 Certified plants to maintain records and make reports; access to records. #####
+
+(a) Each day a certified plant prepares, receives, or ships certified technical animal fat or receives material for use in such product, the operator of the plant shall prepare records identifying the kinds and quantities of such materials and technical animal fats received, the number of pounds of certified technical animal fat prepared or shipped, and an up-to-date inventory of certified technical animal fats in storage. The operator of each certified plant shall include in the records required by this section all MP Forms 85 which he receives with shipments of certified technical animal fat from any other certified plant. These records shall be maintained by the operator of each certified plant and made available to an inspector, upon request, for examination and copying, for a period of 1 year after the date of the transaction involved.
+
+(b) The operator of each certified plant shall provide such relevant information as any inspector may request to enable him to determine whether any technical animal fats are eligible for certification and whether the plant is eligible for certification service under the regulations in this part.
+
+(Approved by the Office of Management and Budget under control number 0583-0036)[40 FR 58627, Dec. 18, 1975, as amended at 47 FR 746, Jan. 7, 1982]

@@ -1,0 +1,3 @@
+##### § 404.30 How much Federal funding can Reclamation provide for the completion of an appraisal investigation? #####
+
+In general, Reclamation will be responsible for 100 percent of the cost of an appraisal investigation conducted under § 404.11(a) or (b), up to $200,000. If the cost of the appraisal investigation exceeds $200,000, your cost-share will be 50 percent of the amount exceeding $200,000.

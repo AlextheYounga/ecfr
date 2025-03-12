@@ -1,0 +1,5 @@
+##### § 10005.4 Planning rule authority. #####
+
+(a) The Commission is required to adopt administrative rules pursuant to the Administrative Procedures Act. The Commission adopts the rule in this part pursuant to that authority and to Section 301(g)(3)(A) and (C) of the Act, which provide for establishment of a rule to guide applicants in making recommendations to the Commission, and to ensure appropriate public involvement.
+
+(b) Adoption of the planning rule constitutes a policy decision on the part of the Commission and, as such, requires formal public notification and approval by the Commission according to established procedures. The planning rule is a component of the administrative rules of the Commission and has the authority accorded to such administrative rules, as described in the Administrative Procedures Act.

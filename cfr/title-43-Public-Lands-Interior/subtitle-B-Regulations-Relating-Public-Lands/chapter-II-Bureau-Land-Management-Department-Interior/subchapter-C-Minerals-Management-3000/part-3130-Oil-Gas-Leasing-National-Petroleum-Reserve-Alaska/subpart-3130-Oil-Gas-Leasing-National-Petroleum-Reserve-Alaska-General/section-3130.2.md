@@ -1,0 +1,3 @@
+##### § 3130.2 Limitation on time to institute suit to contest a Secretary's decision. #####
+
+Any action seeking judicial review of the adequacy of any programmatic or site-specific environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) concerning oil and gas leasing in NPR-A shall be barred unless brought in the appropriate District Court within 60 days after notice of availability of such statement is published in the Federal Register.

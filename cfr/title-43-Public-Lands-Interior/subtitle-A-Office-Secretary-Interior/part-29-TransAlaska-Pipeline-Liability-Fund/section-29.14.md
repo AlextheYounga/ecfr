@@ -1,0 +1,3 @@
+##### § 29.14 Information collection. #####
+
+The information collection requirements contained in 43 CFR 29.9 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned approval No. 1084-0026. The information being collected is the information required to substantiate claims submitted to the Fund. The information will be used to determine whether the claims are appropriate for payment by the Fund. Submission of this information is required of claimants before a claim can be considered.

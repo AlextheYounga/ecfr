@@ -1,0 +1,1 @@
+##### § 3862.1 Lode claim patent applications: General. #####

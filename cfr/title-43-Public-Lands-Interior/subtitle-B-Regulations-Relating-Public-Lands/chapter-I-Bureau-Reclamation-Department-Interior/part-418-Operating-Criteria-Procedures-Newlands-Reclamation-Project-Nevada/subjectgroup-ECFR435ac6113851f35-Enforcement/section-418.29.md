@@ -1,0 +1,3 @@
+##### § 418.29 Project management. #####
+
+In addition to the provisions of § 418.28, if the District is found to be operating Project facilities or any part thereof in substantial violation of this part, then, upon the determination by the Bureau, the Bureau may take over from the District the care, operation, maintenance, and management of the diversion and outlet works (Derby Dam and Lahontan Dam/Reservoir) or any or all of the transferred works by giving written notice to the District of the determination and its effective date. Following written notification from the Bureau, the care, operation, and maintenance of the works may be retransferred to the District.

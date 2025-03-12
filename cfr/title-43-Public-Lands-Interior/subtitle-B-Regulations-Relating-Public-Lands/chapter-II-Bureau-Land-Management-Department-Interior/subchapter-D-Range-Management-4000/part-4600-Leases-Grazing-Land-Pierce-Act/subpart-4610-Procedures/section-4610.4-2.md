@@ -1,0 +1,3 @@
+##### § 4610.4-2 Disposition of receipts. #####
+
+All moneys received in the administration of lands leased under the Pierce Act will be deposited in the Treasury of the United States as provided in section 4 of that Act and will be available when appropriated by the Congress for the leasing of lands. Distribution of such receipts, therefore, will not be made as provided in sections 10 and 11 of the Taylor Grazing Act (48 Stat. 1273; 43 U.S.C. 315i, 315j).

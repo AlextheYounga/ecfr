@@ -1,0 +1,3 @@
+##### § 23.6 Basis for denial of a permit, lease, or contract. #####
+
+An application or offer for a permit, lease, or contract to conduct exploratory or extractive operations may be denied any applicant or offeror who has forfeited a required bond because of failure to comply with an exploration or mining plan. However, a permit, lease, or contract may not be denied an applicant or offeror because of the forfeiture of a bond if the lands disturbed under his previous permit, lease, or contract have subsequently been reclaimed without cost to the Federal Government.

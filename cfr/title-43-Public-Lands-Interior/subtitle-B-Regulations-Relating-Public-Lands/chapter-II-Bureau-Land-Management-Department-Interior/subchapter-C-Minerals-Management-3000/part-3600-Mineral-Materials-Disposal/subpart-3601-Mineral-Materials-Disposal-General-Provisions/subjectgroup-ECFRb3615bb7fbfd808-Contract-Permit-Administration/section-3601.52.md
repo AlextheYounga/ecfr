@@ -1,0 +1,3 @@
+##### § 3601.52 After I finish my operations, when must I remove improvements and equipment? #####
+
+After your contract or permit period expires, or after cancellation of your permit or contract, BLM will allow you up to 90 days, excluding periods of inclement weather, to remove the equipment, personal property, and any other improvements that you placed on the public lands. You may leave in place improvements such as roads, culverts, and bridges if BLM consents. If you fail to remove equipment, personal property, or any other improvement, it becomes the property of the United States. However, you remain liable for the cost of its removal and for restoration of the site.

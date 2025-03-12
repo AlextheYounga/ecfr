@@ -1,0 +1,3 @@
+##### § 4.23 Transcript of hearings. #####
+
+Hearings will be recorded verbatim and transcripts thereof shall be made when requested by interested parties, costs of transcripts to be borne by the requesting parties. Fees for transcripts prepared from recordings by Office of Hearings and Appeals employees will be at rates which cover the cost of manpower, machine use and materials, plus 25 percent, adjusted to the nearest 5 cents. If the reporting is done pursuant to a contract between the reporter and the Department of the Interior Agency or office which is involved in the proceeding, or the Office of Hearings and Appeals, fees for transcripts will be at rates established by the contract.

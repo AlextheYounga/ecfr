@@ -1,0 +1,5 @@
+##### § 3000.8 Management of Federal minerals from reserved mineral estates. #####
+
+Where nonmineral public land disposal statutes provide that in conveyances of title all or certain minerals shall be reserved to the United States together with the right to prospect for, mine and remove the minerals under applicable law and regulations as the Secretary may prescribe, the lease or sale, and administration and management of the use of such minerals shall be accomplished under the regulations of Groups 3000 and 3100 of this title. Such mineral estates include, but are not limited to, those that have been or will be reserved under the authorities of the Small Tract Act of June 1, 1938, as amended (43 U.S.C. 682(b)) and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 *et seq.*).
+
+[53 FR 17351, May 16, 1988]

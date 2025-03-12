@@ -1,0 +1,5 @@
+##### § 72.9 Interstate movements of cattle; inspection and certification by APHIS inspector required. #####
+
+All interstate movements of inspected and certified and dipped and certified cattle shall be accompanied to final destination by a certificate of an APHIS inspector (which certificate shall show that the cattle so being moved have been dipped as required by § 72.6 or by § 72.7 and are free of ticks, or have been inspected as required by § 72.8 and are free of ticks); all such certificates shall be handled, delivered, kept, and preserved in accordance with the provisions of § 72.16; and all such cattle shall be handled through noninfectious pens, alleys, and chutes, and when shipped shall be loaded into clean and disinfected cars or trucks, and shall not be unloaded in the quarantined area except at such points reserved for noninfested cattle as may from time to time be authorized by APHIS.
+
+[28 FR 5940, June 13, 1963, as amended at 56 FR 51975, Oct. 17, 1991]

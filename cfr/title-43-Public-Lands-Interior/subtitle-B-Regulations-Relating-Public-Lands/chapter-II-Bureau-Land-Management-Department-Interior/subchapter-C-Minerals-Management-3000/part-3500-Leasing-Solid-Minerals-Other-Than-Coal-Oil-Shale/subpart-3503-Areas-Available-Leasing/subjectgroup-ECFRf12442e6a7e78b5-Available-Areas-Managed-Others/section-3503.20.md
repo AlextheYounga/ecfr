@@ -1,0 +1,7 @@
+##### § 3503.20 What if another Federal agency manages the lands I am interested in? #####
+
+(a) *Public domain lands.* BLM will issue a permit or lease for public domain lands where the surface is administered by another Federal agency only after consulting with the surface management agency. Some laws applicable to public domain lands require us to obtain the consent of the surface management agency before we issue a lease or permit.
+
+(b) *Acquired lands.* For all lands not subject to paragraph (a) of this section where the surface is managed by another Federal agency, we must have written consent from the surface management agency before we issue permits or leases. The surface management agency may request further information about surface disturbance and reclamation before granting its consent.
+
+(c) *Appeal.* If a surface management agency refuses to consent or imposes conditions on your permit or lease, you may appeal its decision under that agency's appeal provisions. If you notify BLM within 30 days after receiving BLM's decision denying or conditioning your permit or lease that you have appealed the surface management agency's decision, we will suspend the time for filing an appeal under 43 CFR parts 4 and 1840 until the surface management agency's decision is final and not subject to further administrative or judicial review.

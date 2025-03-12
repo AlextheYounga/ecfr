@@ -1,0 +1,3 @@
+##### § 429.30 May use authorizations be transferred or assigned to others? #####
+
+Your use authorization may not be transferred or assigned to others without prior written approval of Reclamation, unless specifically provided for in your use authorization or as provided under subpart H of this part for existing private exclusive recreational and residential uses. Should you wish to transfer or assign your use authorization to another individual or entity, you must contact the Reclamation office that issued your use authorization prior to taking such action.

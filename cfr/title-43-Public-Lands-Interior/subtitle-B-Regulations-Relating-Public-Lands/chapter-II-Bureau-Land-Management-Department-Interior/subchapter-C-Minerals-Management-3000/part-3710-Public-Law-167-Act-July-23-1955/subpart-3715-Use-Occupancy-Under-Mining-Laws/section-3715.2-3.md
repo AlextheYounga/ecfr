@@ -1,0 +1,3 @@
+##### § 3715.2-3 Under what circumstances will BLM allow me to temporarily occupy a site for more than 14 days? #####
+
+BLM may allow temporary occupancy at a single site to extend beyond the 14-day period described in § 3715.1 if you need to secure the site beyond 14 days through the use of a watchman as allowed by § 3715.2-2, and you have begun consultation with BLM under § 3715.3. If BLM decides not to concur in the occupancy, the temporary occupancy must stop.
