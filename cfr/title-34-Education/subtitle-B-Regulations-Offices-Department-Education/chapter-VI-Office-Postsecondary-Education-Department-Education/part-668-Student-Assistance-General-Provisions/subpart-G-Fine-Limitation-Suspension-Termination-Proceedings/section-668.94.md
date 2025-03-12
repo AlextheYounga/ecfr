@@ -1,7 +1,5 @@
 ##### § 668.94 Limitation. #####
 
-Link to an amendment published at 81 FR 76072, Nov. 1, 2016.
-
 A limitation may include, as appropriate to the Title IV, HEA program in question -
 
 (a) A limit on the number or percentage of students enrolled in an institution who may receive Title IV, HEA program funds;

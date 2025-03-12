@@ -20,15 +20,15 @@
 |                                                             size can.                                                             |                               |             |             |              |
 |                                       Lot inspection: Sample size (number of sample units)                                        |               6               |     13      |     21      |      29      |
 
-|                                     Container size group                                     |Lot size (number of containers)|            |             |              |
-|----------------------------------------------------------------------------------------------|-------------------------------|------------|-------------|--------------|
-|                                                                                              |                               |            |             |              |
-|                  Group 1: Any type of container of 1 lb or less net weight                   |         9,600 or less         |9,601-31,200|31,201-67,200|67,201-116,000|
-|Group 2: Any type of container over 1 lb but not over 2<sup>1</sup>⁄<sub>2</sub> lb net weight|         4,800 or less         |4,801-15,600|15,601-33,600|33,601-58,000 |
-|                             Group 3: Any type of container over                              |                               |            |             |              |
-|  Convert to equivalent number of 2<sup>1</sup>⁄<sub>2</sub>-lb. containers and use group 2   |                               |            |             |              |
-|                               2<sup>1</sup>⁄<sub>2</sub> lbs.                                |                               |            |             |              |
-|                     Lot inspection: Sample size (number of sample units)                     |               6               |     13     |     21      |      29      |
+|                          Container size group                          |Lot size (number of containers)|            |             |              |
+|------------------------------------------------------------------------|-------------------------------|------------|-------------|--------------|
+|                                                                        |                               |            |             |              |
+|       Group 1: Any type of container of 1 lb or less net weight        |         9,600 or less         |9,601-31,200|31,201-67,200|67,201-116,000|
+|Group 2: Any type of container over 1 lb but not over 21/2 lb net weight|         4,800 or less         |4,801-15,600|15,601-33,600|33,601-58,000 |
+|                  Group 3: Any type of container over                   |                               |            |             |              |
+|  Convert to equivalent number of 21/2-lb. containers and use group 2   |                               |            |             |              |
+|                               21/2 lbs.                                |                               |            |             |              |
+|          Lot inspection: Sample size (number of sample units)          |               6               |     13     |     21      |      29      |
 
 |                         Container size group                         |Lot size (number of containers)|             |              |               |
 |----------------------------------------------------------------------|-------------------------------|-------------|--------------|---------------|

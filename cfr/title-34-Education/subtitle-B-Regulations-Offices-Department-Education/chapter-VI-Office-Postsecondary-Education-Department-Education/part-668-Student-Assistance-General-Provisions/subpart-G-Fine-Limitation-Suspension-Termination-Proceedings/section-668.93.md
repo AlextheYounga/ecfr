@@ -1,6 +1,6 @@
 ##### § 668.93 Fines. #####
 
-This amendment was delayed until further notice at 82 FR 27621, June 16, 2017
+Link to an amendment published at 82 FR 76072, November 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017.
 
 (a) In determining the amount of a fine, the designated department official, hearing official, and Secretary take into account -
 

@@ -1,8 +1,10 @@
 ##### § 20.1 International Mail Manual; incorporation by reference. #####
 
-(a) Section 552(a) of title 5, U.S.C., relating to the public information requirements of the Administrative Procedure Act, provides in pertinent part that matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register. In conformity with that provision and 39 U.S.C. 410(b)(1), and as provided in this part, the Postal Service hereby incorporates by reference its *International Mail Manual* (IMM), issued July 11, 2016. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+(a) Section 552(a) of title 5, U.S.C., relating to the public information requirements of the Administrative Procedure Act, provides in pertinent part that matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register. In conformity with that provision and 39 U.S.C. 410(b)(1), and as provided in this part, the Postal Service hereby incorporates by reference its *International Mail Manual* (IMM), issued January 22, 2017. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
 
 (b) The current Issue of the IMM is incorporated by reference in paragraph (a) of this section. Successive Issues of the IMM are listed in Table 1:
+
+Table 1 to Paragraph (b)
 
 |International Mail Manual| Date of issuance  |
 |-------------------------|-------------------|
@@ -43,5 +45,6 @@
 |           IMM           |  June 24, 2012.   |
 |           IMM           | January 26, 2015. |
 |           IMM           |  July 11, 2016.   |
+|           IMM           | January 22, 2017. |
 
-[75 FR 34017, June 16, 2010, as amended at 76 FR 50414, Aug. 15, 2011; 77 FR 64724, Oct. 23, 2012; 80 FR 13493, Mar. 16, 2015; 81 FR 66822, Sept. 29, 2016]
+[75 FR 34017, June 16, 2010, as amended at 76 FR 50414, Aug. 15, 2011; 77 FR 64724, Oct. 23, 2012; 80 FR 13493, Mar. 16, 2015; 81 FR 66822, Sept. 29, 2016; 82 FR 29005, June 27, 2017]

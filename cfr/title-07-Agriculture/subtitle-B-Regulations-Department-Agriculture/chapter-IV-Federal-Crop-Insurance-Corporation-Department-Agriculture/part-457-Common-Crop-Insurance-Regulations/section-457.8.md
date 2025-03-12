@@ -214,7 +214,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Policy.* The agreement between you and us to insure an agricultural commodity and consisting of the accepted application, these Basic Provisions, the Crop Provisions, the Special Provisions, the Commodity Exchange Price Provisions, if applicable, other applicable endorsements or options, the actuarial documents for the insured agricultural commodity, the Catastrophic Risk Protection Endorsement, if applicable, and the applicable regulations published in 7 CFR chapter IV. Insurance for each agricultural commodity in each county will constitute a separate policy.
 
-*Practical to replant.* Our determination, after loss or damage to the insured crop, based on all factors, including, but not limited to moisture availability, marketing window, condition of the field, and time to crop maturity, that replanting the insured crop will allow it to attain maturity prior to the calendar date for the end of the insurance period. It will be considered practical to replant within or prior to the late planting period, or on or prior to the final planting date if no late planting period is applicable, unless we determine it is physically impossible to replant the acreage or there is no chance of seed germination, emergence, and formation of a healthy plant.
+*Practical to replant.* Our determination, after loss or damage to the insured crop, that you are able to replant to the same crop in such areas and under such circumstances as it is customary to replant and that replanting the insured crop will allow the crop to attain maturity prior to the calendar date for the end of the insurance period. We may consider circumstances as to whether: (1) It is physically possible to replant the acreage; (2) seed germination, emergence, and formation of a healthy plant is likely; (3) field, soil, and growing conditions allow for proper planting and growth of the replanted crop to reach maturity; or (4) other conditions exist, as provided by the Crop Provisions or Special Provisions. Unless we determine it is not practical to replant, based on the circumstances listed above, it will be considered practical to replant through: (1) The final planting date if no late planting period is applicable; (2) the end of the late planting period if the late planting period is less than 10 days; or (3) the 10th day after the final planting date if the crop has a late planting period of 10 days or more. We will consider it practical to replant regardless of the availability of seed or plants, or the input costs necessary to produce the insured crop such as seed or plants, irrigation water, etc.
 
 *Premium billing date.* The earliest date upon which you will be billed for insurance coverage based on your acreage report. The premium billing date is contained in the Special Provisions.
 
@@ -230,7 +230,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Projected price.* The price for each crop determined in accordance with the Commodity Exchange Price Provisions. The applicable projected price is used for each crop for which revenue protection is available, regardless of whether you elect to obtain revenue protection or yield protection for such crop.
 
-*Replanted crop.* The same agricultural commodity replanted on the same acreage as the first insured crop for harvest in the same crop year if the replanting is specifically made optional by the policy and you elect to replant the crop and insure it under the policy covering the first insured crop, or replanting is required by the policy.
+*Replanted crop.* The same agricultural commodity replanted on the same acreage as the insured crop for harvest in the same crop year if: (1) The replanting is specifically made optional by the policy and you elect to replant the crop and insure it under the policy covering the insured crop; or (2) Replanting is required by the policy. The crop will be considered a replanted insured crop and no replanting payment will be paid if we have determined it is not practical to replant the insured crop and you choose to plant the acreage to the same insured crop.
 
 *Replanting.* Performing the cultural practices necessary to prepare the land to replace the seed or plants of the damaged or destroyed insured crop and then replacing the seed or plants of the same crop in the same insured acreage. The same crop does not necessarily mean the same type or variety of the crop unless different types or varieties constitute separate crops or it is otherwise specified in the policy.
 
@@ -1208,21 +1208,19 @@ Our Duties -
 
 (5) You provide records, acceptable to us, of acreage and production specific to the double cropped acreage proving that:
 
-(i) You have double cropped acreage in at least two of the last four crop years in which the first insured crop was planted; if you acquired additional acreage, you may apply the percentage of acres that you have previously double cropped to the total acreage now in your operation using the following calculation:
+(i) You have double cropped acreage in at least two of the last four crop years in which the first insured crop was planted and incur an insurable loss or the first insured crop is prevented from being planted and a second crop is planted. If you acquired additional land for the current crop year you may apply the percentage of acres that you have previously double cropped to the total cropland acres that you are farming this year (if greater) using the following calculation:
 
-(A) Determine the number of acres of the first insured crop that were double cropped in each of the years for which records are provided (For example, records are provided showing: 100 acres of wheat planted in 2015 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2016 and 70 of those acres were double cropped with soybeans);
+(A) Determine the number of acres of the first insured crop that were double cropped in each of the years for which double cropping records are provided (For example, records are provided showing: 100 acres of wheat planted in 2016 and 50 of those acres were double cropped with soybeans; and 100 acres of wheat planted in 2017 and 70 of those acres were double cropped with soybeans);
 
-(B) Divide each result of section 15(h)(5)(i)(A) by the number of acres of the first insured crop that were planted in each respective year (In the example above, 50 divided by 100 equals 50 percent of the first insured crop acres were double cropped in 2015 and 70 divided by 100 equals 70 percent were double cropped in 2016);
+(B) Divide each result of section 15(h)(5)(i)(A) by the number of acres of the first insured crop that were planted in each respective year (In the example above, 50 divided by 100 equals 50 percent of the first insured crop acres that were double cropped in 2016 and 70 divided by 100 equals 70 percent of the first insured crop acres that were double cropped in 2017);
 
 (C) Add the results of section 15(h)(5)(i)(B) and divide by the number of years the first insured crop was double cropped (In the example above, 50 plus 70 equals 120 divided by 2 equals 60 percent); and
 
-(D) Multiply the result of 15(h)(5)(i)(C) by the number of insured acres of the first insured crop (In the example above, 60 percent of the wheat acres insured in 2017 and 60 percent of the second crop acres insured in 2017 are eligible for double cropping history);
-
-or
+(D) Multiply the result of 15(h)(5)(i)(C) by the number of insured acres of the first insured crop (In the example above, 60 percent multiplied by the number of wheat acres insured in 2018); or
 
 (ii) The applicable acreage was double cropped (by one or more other producers, and the producer(s) will allow you to use their records) for at least two of the last four crop years in which the first insured crop was grown on it; and
 
-(6) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 15(h)(5), but instead have records that combine production from acreage you double cropped with records of production you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped.
+(6) If you do not have records of acreage and production specific to the double cropped acreage, as required in section 15(h)(5), but instead have records that combine production from acreage you double cropped with records of production from acreage you did not double crop, we will allocate the first and second crop production to the specific acreage in proportion to the liability for the acreage that was and was not double cropped.
 
 (i) If you provided acceptable records in accordance with section 15(h), your double cropping history is based on the acres historically cropped:
 
