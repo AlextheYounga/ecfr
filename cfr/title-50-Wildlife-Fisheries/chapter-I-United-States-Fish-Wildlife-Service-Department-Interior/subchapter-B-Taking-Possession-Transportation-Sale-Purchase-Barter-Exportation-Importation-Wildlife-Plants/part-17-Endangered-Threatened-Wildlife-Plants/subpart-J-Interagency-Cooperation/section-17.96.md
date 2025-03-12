@@ -1,7 +1,5 @@
 ##### § 17.96 Critical habitat - plants. #####
 
-Link to an amendment published at 87 FR 35456, June 10, 2022.Link to an amendment published at 87 FR 36245, June 16, 2022.
-
 (a) *Flowering plants.*
 
 Family Agavaceae: *Agave eggersiana* (No Common Name)
@@ -148,9 +146,7 @@ Family Alliaceae: *Allium munzii* (Munz's onion)
 
 (ii) Map of Unit 2 follows:
 
-![](/graphics/er10jn22.011.gif)
-
-*Lilaeopsis schaffneriana* var. *recurva* (Huachuca water umbel).
+![](/graphics/er10jn22.011.gif)Family Apiaceae: *Lilaeopsis schaffneriana* var. *recurva* (Huachuca water umbel).
 
 Critical habitat includes the stream courses identified in the legal descriptions below, and includes adjacent areas out to the beginning of upland vegetation. Within these areas, the primary constituent elements include, but are not limited to, the habitat components which provide - (1) Sufficient perennial base flows to provide a permanently or nearly permanently wetted substrate for growth and reproduction of *Lilaeopsis;* (2) A stream channel that is relatively stable, but subject to periodic flooding that provides for rejuvenation of the riparian plant community and produces open microsites for *Lilaeopsis* expansion; (3) A riparian plant community that is relatively stable over time and in which nonnative species do not exist or are at a density that has little or no adverse effect on resources available for *Lilaeopsis* growth and reproduction; and (4) In streams and rivers, refugial sites in each watershed and in each reach, including but not limited to springs or backwaters of mainstem rivers, that allow each population to survive catastrophic floods and recolonize larger areas.
 
@@ -6096,7 +6092,45 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) Map of Unit 5 for *Cordylanthus mollis* ssp. *mollis* (Map 5) follows:
 
-![](/graphics/er12ap07.006.gif)Family Sterculiaceae: *Fremontodendron mexicanum* (Mexican flannelbush)
+![](/graphics/er12ap07.006.gif)Family Solanaceae: *Solanum conocarpum* (marron bacora)
+
+(1) Critical habitat units are depicted for St. John, U.S. Virgin Islands, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of marron bacora consist of the following components:
+
+(i) Native forest within the subtropical dry forest life zone in St. John.
+
+(ii) Dry scrubland, deciduous forest, and semi-deciduous forest vegetation at elevations lower than 150 meters (492 feet).
+
+(iii) Continuous native forest cover with low abundance of exotic plant species (e.g., *Leucaena leucocephala* and *Megathyrsus maximus*) and that provides the availability of pollinators to secure cross-pollination between populations.
+
+(iv) Habitat quality evidenced by the presence of regional endemic plant species, including *Zanthoxylum thomasianum, Peperomia wheeleri,**Eugenia earhartii, Eugenia sessiliflora,**Cordia rickseckeri, Croton fishlockii,**Malpighia woodburyana, Bastardiopsis eggersii,**Machaonia woodburyana,* and *Agave missionum.*
+
+(v) Open understory with appropriate microhabitat conditions, including shaded conditions and moisture availability, to support seed germination and seedling recruitment.
+
+(3) Critical habitat does not include human-made structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on July 18, 2022.
+
+(4) Data layers defining map units were created using ArcMap version 10.6.1 (Environmental Systems Research Institute, Inc.), a Geographic Information Systems program on a base of USA Topo Map and the program world imagery. Critical habitat units were then mapped using NAD 1983, State Plane Puerto Rico and Virgin Islands FIPS 5200 coordinates. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/caribbean-ecological-services/library,* at *https://www.regulations.gov* at Docket No. FWS-R4-ES-2019-0050, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Note: Index map follows:
+
+![](/graphics/er16jn22.000.gif)
+
+(6) Unit 1: South Unit, St. John, U.S. Virgin Islands.
+
+(i) Unit 1 consists of 1,704 acres (ac) (690 hectares (ha)) in estates Rustenberg & Adventure, Sieben, Mollendal & Little Reef Bay, Hope, Reef Bay, Lameshur Complex, Mandal, Concordia A, Concordia B, St. Quaco & Zimmerman, Hard Labor, Johns Folly and Friis. Lands are composed of 1,634 ac (661 ha) of Federal lands managed by the U.S. National Park Service and 70 ac (28 ha) of privately owned lands.
+
+(ii) Map of Unit 1 follows:
+
+![](/graphics/er16jn22.001.gif)
+
+(7) Unit 2: North Unit, St. John, U.S. Virgin Islands.
+
+(i) Unit 2 consists of 844 ac (341 ha) in estates Leinster Bay, Browns Bay, Zootenvaal, Hermitage, Mt. Pleasant and Retreat, Haulover, and Turner Point. The unit is composed entirely of Federal lands managed by the U.S. National Park Service.
+
+(ii) Map of Unit 2 follows:
+
+![](/graphics/er16jn22.002.gif)Family Sterculiaceae: *Fremontodendron mexicanum* (Mexican flannelbush)
 
 (1) Critical habitat units are depicted for San Diego County, California, on the maps below.
 

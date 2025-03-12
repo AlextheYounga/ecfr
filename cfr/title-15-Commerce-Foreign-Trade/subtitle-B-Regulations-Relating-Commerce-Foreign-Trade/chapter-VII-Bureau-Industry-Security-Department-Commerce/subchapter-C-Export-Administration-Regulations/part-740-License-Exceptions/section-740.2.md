@@ -1,7 +1,5 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
-Link to an amendment published at 87 FR 32986, June 1, 2022.
-
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.
@@ -97,6 +95,8 @@ Item-specific license exception availability is specific to each ECCN 0Y521 entr
 (21) The reexport or transfer (in-country) of firearms classified under ECCNs 0A501 or 0A502 if a part or component that is not “subject to the ITAR,” but would otherwise meet the criteria in USML Category I(h)(2) (*i.e.,* parts and components specially designed for conversion of a semiautomatic firearm to a fully automatic firearm) is incorporated into the firearm or is to be reexported or transferred (in-country) with the firearm with “knowledge” the part or component will be subsequently incorporated into the firearm. (*See* USML Category I(h)(2)). In such instances, no license exceptions are available except for License Exception GOV (§ 740.11(b)(2)(ii)).
 
 (22) The export, reexport, or transfer (in-country) of any item classified under a 0x5zz ECCN when a party to the transaction is designated on the Department of the Treasury, Office of Foreign Assets Control (OFAC), Specially Designated Nationals and Blocked Persons (SDN) list under the designation [SDNT], pursuant to the Narcotics Trafficking Sanctions Regulations, 31 CFR part 536, or under the designation [SDNTK], pursuant to the Foreign Narcotics Kingpin Sanctions Regulations, 31 CFR part 598.
+
+(23) Exports of semiautomatic firearms controlled by ECCN 0A501.a sold under a contract or otherwise part of an export that includes $4,000,000 or more of such items are not eligible for any license exceptions except to personnel and agencies of the U.S. Government under License Exception GOV (§ 740.11(b) of the EAR), for official use by an agency of NATO, or where a license exception would otherwise be available for the export of such items to a country listed in Country Groups A:5 or A:6 (see supplement no. 1 to part 740 of the EAR) except Mexico, South Africa, or Turkey.
 
 Note to paragraph (a):
 

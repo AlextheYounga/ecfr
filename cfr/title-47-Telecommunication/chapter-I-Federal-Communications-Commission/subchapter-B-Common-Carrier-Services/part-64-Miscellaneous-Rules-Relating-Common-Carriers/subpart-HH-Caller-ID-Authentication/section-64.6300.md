@@ -1,5 +1,7 @@
 ##### § 64.6300 Definitions. #####
 
+Link to an amendment published at 87 FR 42946, July 18, 2022.
+
 (a) *Authenticate caller identification information.* The term “authenticate caller identification information” refers to the process by which a voice service provider attests to the accuracy of caller identification information transmitted with a call it originates.
 
 (b) *Caller identification information.* The term “caller identification information” has the same meaning given the term “caller identification information” in 47 CFR 64.1600(c) as it currently exists or may hereafter be amended.

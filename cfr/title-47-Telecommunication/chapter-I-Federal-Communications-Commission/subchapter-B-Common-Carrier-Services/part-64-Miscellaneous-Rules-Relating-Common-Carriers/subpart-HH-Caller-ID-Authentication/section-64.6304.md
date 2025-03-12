@@ -1,5 +1,7 @@
 ##### § 64.6304 Extension of implementation deadline. #####
 
+Link to an amendment published at 87 FR 42946, July 18, 2022.
+
 (a) *Small voice service providers.* (1) Small voice service providers are exempt from the requirements of § 64.6301 through June 30, 2023, except that:
 
 (i) A non-facilities-based small voice service provider is exempt from the requirements of § 64.6301 only until June 30, 2022; and
