@@ -1,5 +1,7 @@
 ##### § 124.1008 When will SBA not decide an SDB protest? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) SBA will not decide a protest as to disadvantaged status of any concern other than the apparent successful offeror.
 
 (b) SBA will not normally consider a post award protest. SBA may consider a post award protest in its discretion where it determines that a protest decision after award would have a practical effect (e.g., where the contracting officer agrees to terminate the contract if the protest is sustained).

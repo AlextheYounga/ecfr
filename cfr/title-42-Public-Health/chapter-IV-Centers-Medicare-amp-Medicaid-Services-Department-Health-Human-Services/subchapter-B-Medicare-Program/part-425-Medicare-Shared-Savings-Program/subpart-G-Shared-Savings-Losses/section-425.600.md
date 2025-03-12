@@ -32,7 +32,9 @@
 
 (*ii*) Exception for new legal entity identified as a low revenue ACO. An exception is available for a low revenue ACO that is a new legal entity and is not identified as a re-entering ACO that enters the BASIC track's glide path at Level A under paragraph (a)(4)(i)(A)(*1*) of this section, and is automatically advanced to Level B under paragraph (a)(4)(i)(A)(*2*) of this section for performance year 2 (or performance 3 in the case of ACOs entering an agreement period beginning on July 1, 2019). Prior to the automatic advancement of the ACO to Level C under paragraph (a)(4)(i)(A)(*3*) of this section, the ACO may elect to remain in Level B under paragraph (a)(4)(i)(A)(*2*) of this section for performance year 3 (performance year 4 in the case of ACOs entering an agreement period beginning on July 1, 2019). In the case of an ACO that elects to remain in Level B for an additional performance year pursuant to the second sentence of paragraph (a)(4)(i)(B)(*2*)(*ii*) of this section, the ACO is automatically advanced to Level E under paragraph (a)(4)(i)(A)(*5*) of this section at the start of performance year 4 (or performance year 5 in the case of ACOs entering an agreement period beginning on July 1, 2019).
 
-(*iii*) Prior to entering performance-based risk, an ACO must meet all requirements to participate under performance-based risk, including establishing an adequate repayment mechanism as specified under § 425.204(f) and selecting a MSR/MLR from the options specified under § 425.605(b).
+(*iii*) Exception for ACOs participating in the BASIC track's glide path that elect to maintain their participation level for performance year 2021. Prior to the automatic advancement for performance year 2021, an ACO that is participating in the BASIC track's glide path for performance year 2020 may elect to remain in the same level of the BASIC track's glide path that it entered for the 2020 performance year, for performance year 2021. For performance year 2022, the ACO is automatically advanced to the level of the BASIC track's glide path to which the ACO would have automatically advanced absent the election to maintain its participation level for performance year 2021, unless the ACO elects to transition to a higher level of risk and potential reward within the BASIC track's glide path as provided in § 425.226(a)(2)(i). A voluntary election by an ACO under this paragraph must be made in the form and manner and by a deadline established by CMS.
+
+(*iv*) Prior to entering performance-based risk, an ACO must meet all requirements to participate under performance-based risk, including establishing an adequate repayment mechanism as specified under § 425.204(f) and selecting a MSR/MLR from the options specified under § 425.605(b).
 
 (*3*) If the ACO fails to meet the requirements to participate under performance-based risk under paragraph (a)(4)(i)(B)(*2*)(*iii*) of this section, the agreement is terminated.
 
@@ -104,4 +106,4 @@
 
 (iii) The use of equal weights to weight each benchmark year as specified in § 425.601(e).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020]

@@ -1,8 +1,6 @@
 ##### § 986.175 Handler inventory. #####
 
-Link to an amendment published at 85 FR 19654, Apr. 8, 2020.
-
-(a) Handlers shall submit to the Council a year-end inventory report following August 31 each fiscal year. Handlers shall file such reports by September 10. Should September 10 fall on a weekend, reports are due by the first business day following September 10. Such reports shall be reported to the Council on APC Form 7. For the purposes of this form, “crop year” is the same as the “fiscal year.” The report shall include:
+(a) Handlers shall submit to the Council a year-end inventory report following August 31 each fiscal year. Handlers shall file such reports by September 10. Should September 10 fall on a weekend, reports are due by the first business day following September 10. Such reports shall be reported to the Council on APC Form 5 and include:
 
 (1) The name and address of the handler;
 
@@ -26,4 +24,4 @@ Link to an amendment published at 85 FR 19654, Apr. 8, 2020.
 
 (b) [Reserved]
 
-[82 FR 56155, Nov. 28, 2017, as amended at 84 FR 8411, Mar. 8, 2019]
+[82 FR 56155, Nov. 28, 2017, as amended at 84 FR 8411, Mar. 8, 2019; 85 FR 19654, Apr. 8, 2020]

@@ -1,5 +1,7 @@
 ##### § 124.1001 General applicability. #####
 
+Link to an amendment published at 85 FR 27292, May 8, 2020.
+
 (a) This subpart defines a Small Disadvantaged Business (SDB). It also establishes procedures by which SBA determines whether a particular concern qualifies as an SDB in response to a protest challenging the concern's status as disadvantaged. Unless specifically stated otherwise, the phrase “socially and economically disadvantaged individuals” in this subpart includes, Indian tribes, ANCs, CDCs, and NHOs.
 
 (b) In order for a concern to represent that it is an SDB in order to receive a benefit as a prime contractor on a Federal Government procurement, it must:

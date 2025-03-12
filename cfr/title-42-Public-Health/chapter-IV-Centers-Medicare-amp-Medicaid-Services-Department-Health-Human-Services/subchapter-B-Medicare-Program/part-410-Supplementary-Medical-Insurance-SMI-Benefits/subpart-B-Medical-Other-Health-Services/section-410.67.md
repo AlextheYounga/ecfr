@@ -24,7 +24,7 @@
 
 (6) Intake activities, including initial medical examination services required under § 8.12(f)(2) of this title and initial assessment services required under § 8.12(f)(4) of this title.
 
-(7) Periodic assessment services required under § 8.12(f)(4) of this title.
+(7) Periodic assessment services required under § 8.12(f)(4) of this title. During the Public Health Emergency for the COVID-19 pandemic, as defined in § 400.200 of this chapter, these periodic assessments can be furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all other applicable requirements. In cases where a beneficiary does not have access to two-way audio-video communications technology, periodic assessments can be furnished using audio-only telephone calls rather than via two-way interactive audio-video communication technology if all other applicable requirements are met.
 
 (c) *Requirements for opioid treatment programs.* To participate in the Medicare program and receive payment, an opioid treatment program must meet all of the following:
 
@@ -98,4 +98,4 @@
 
 (e) *Beneficiary cost-sharing.* A beneficiary copayment amount of zero will apply.
 
-[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020]
+[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020]

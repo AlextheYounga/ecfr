@@ -1,5 +1,7 @@
 ##### § 124.1007 Who may protest the disadvantaged status of a concern? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) In connection with a requirement for which the apparent successful offeror has invoked an SDB evaluation adjustment or an SDB set-aside, the following entities may protest the disadvantaged status of the apparent successful offeror:
 
 (1) Any other concern which submitted an offer for that requirement, unless the contracting officer has found the concern to be non-responsive or outside the competitive range, or SBA has previously found the protesting concern to be ineligible for the requirement at issue;

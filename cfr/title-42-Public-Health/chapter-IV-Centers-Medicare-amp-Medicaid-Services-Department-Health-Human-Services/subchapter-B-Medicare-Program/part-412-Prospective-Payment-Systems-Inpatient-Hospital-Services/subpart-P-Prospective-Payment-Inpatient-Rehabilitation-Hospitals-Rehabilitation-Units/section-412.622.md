@@ -6,16 +6,15 @@
 
 (3) *IRF coverage criteria.* In order for an IRF claim to be considered reasonable and necessary under section 1862(a)(1) of the Act, there must be a reasonable expectation that the patient meets all of the following requirements at the time of the patient's admission to the IRF -
 
-(i) Requires the active and ongoing therapeutic intervention of multiple therapy disciplines (physical therapy, occupational therapy, speech-language pathology, or prosthetics/orthotics therapy), one of which must be physical or occupational therapy.
+(i) Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge during the Public Health Emergency, as defined in § 400.200 of this chapter, requires the active and ongoing therapeutic intervention of multiple therapy disciplines (physical therapy, occupational therapy, speech-language pathology, or prosthetics/orthotics therapy), one of which must be physical or occupational therapy.
 
-(ii) Generally requires and can reasonably be expected to actively participate in, and benefit from, an intensive rehabilitation therapy program. Under current industry standards, this intensive rehabilitation therapy program generally consists of at least 3 hours of therapy (physical therapy, occupational therapy, speech-language pathology, or prosthetics/orthotics therapy) per day at least 5 days per week. In certain well-documented cases, this intensive rehabilitation therapy program might instead consist of at least 15 hours of intensive rehabilitation therapy within a 7 consecutive day period, beginning with the date of admission to the IRF. Benefit from this intensive rehabilitation therapy program is demonstrated by measurable improvement that will be of practical value to the patient in improving the patient's functional capacity or adaptation to impairments. The required therapy treatments must begin within 36 hours from midnight of the day of admission to the IRF.
+(ii) Except during the emergency period described in section 1135(g)(1)(B) of the Act, generally requires and can reasonably be expected to actively participate in, and benefit from, an intensive rehabilitation therapy program. Under current industry standards, this intensive rehabilitation therapy program generally consists of at least 3 hours of therapy (physical therapy, occupational therapy, speech-language pathology, or prosthetics/orthotics therapy) per day at least 5 days per week. In certain well-documented cases, this intensive rehabilitation therapy program might instead consist of at least 15 hours of intensive rehabilitation therapy within a 7-consecutive-day period, beginning with the date of admission to the IRF. Benefit from this intensive rehabilitation therapy program is demonstrated by measurable improvement that will be of practical value to the patient in improving the patient patient's functional capacity or adaptation to impairments. The required therapy treatments must begin within 36 hours from midnight of the day of admission to the IRF.
 
-(iii) Is sufficiently stable at the time of admission to the IRF to be able to actively participate in the intensive rehabilitation therapy program that is described in paragraph (a)(3)(ii) of this section.
-]
+(iii) Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge during the Public Health Emergency, as defined in § 400.200 of this chapter, is sufficiently stable at the time of admission to the IRF to be able to actively participate in the intensive rehabilitation therapy program that is described in paragraph (a)(3)(ii) of this section.
 
-(iv) Requires physician supervision by a rehabilitation physician. The requirement for medical supervision means that the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient's stay in the IRF to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process, except that during a Public Health Emergency, as defined in § 400.200 of this chapter, such visits may be conducted using telehealth services (as defined in section 1834(m)(4)(F) of the Act). The post-admission physician evaluation described in paragraph (a)(4)(ii) of this section may count as one of the face-to-face visits.
+(iv) Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge during the Public Health Emergency, as defined in § 400.200 of this chapter, requires physician supervision by a rehabilitation physician. The requirement for medical supervision means that the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient 's stay in the IRF to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process except that during the Public Health Emergency, as defined in § 400.200 of this chapter, for the COVID-19 pandemic such visits may be conducted using telehealth services (as defined in section 1834(m)(4)(F) of the Act).The post-admission physician evaluation described in paragraph (a)(4)(ii) of this section may count as one of the face-to-face visits.
 
-(4) *Documentation.* To document that each patient for whom the IRF seeks payment is reasonably expected to meet all of the requirements in paragraph (a)(3) of this section at the time of admission, the patient's medical record at the IRF must contain the following documentation -
+(4) *Documentation.* Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge during the Public Health Emergency, as defined in § 400.200 of this chapter, to document that each patient for whom the IRF seeks payment is reasonably expected to meet all of the requirements in paragraph (a)(3) of this section at the time of admission, the patient's medical record at the IRF must contain the following documentation -
 
 (i) A comprehensive preadmission screening that meets all of the following requirements -
 
@@ -43,7 +42,7 @@
 
 (B) It is retained in the patient's medical record at the IRF.
 
-(5) *Interdisciplinary team approach to care.* In order for an IRF claim to be considered reasonable and necessary under section 1862(a)(1) of the Act, the patient must require an interdisciplinary team approach to care, as evidenced by documentation in the patient's medical record of weekly interdisciplinary team meetings that meet all of the following requirements -
+(5) *Interdisciplinary team approach to care.* Except for care furnished to patients in a freestanding IRF hospital solely to relieve acute care hospital capacity in a state (or region, as applicable) that is experiencing a surge during the Public Health Emergency, as defined in § 400.200 of this chapter, in order for an IRF claim to be considered reasonable and necessary under section 1862(a)(1) of the Act, the patient must require an interdisciplinary team approach to care, as evidenced by documentation in the patients' medical record of weekly interdisciplinary team meetings that meet all of the following requirements -
 
 (i) The team meetings are led by a rehabilitation physician and further consist of a registered nurse with specialized training or experience in rehabilitation; a social worker or case manager (or both); and a licensed or certified therapist from each therapy discipline involved in treating the patient. All team members must have current knowledge of the patient's medical and functional status. The rehabilitation physician may lead the interdisciplinary team meeting remotely via a mode of communication such as video or telephone conferencing.
 
@@ -63,4 +62,18 @@
 
 *Rehabilitation physician* means a licensed physician who is determined by the IRF to have specialized training and experience in inpatient rehabilitation.
 
-[66 FR 41388, Aug. 7, 2001, as amended at 70 FR 47952, Aug. 15, 2005; 74 FR 39811, Aug. 7, 2009; 83 FR 38573,Aug. 6, 2018; 84 FR 39172, Aug. 8, 2019; 85 FR 19287, Apr. 6, 2020]
+*State (or region, as applicable) that is experiencing a surge* means a state (or region, as applicable) that is in phase 1 of the President's Guidelines for Opening Up America Again (*https://www.whitehouse.gov/openingamerica/*), specifically, a state (or region, as applicable) that satisfies all of the following, as determined by applicable state and local officials:
+
+(i) All vulnerable individuals continue to shelter in place.
+
+(ii) Individuals continue social distancing.
+
+(iii) Individuals avoid socializing in groups of more than 10.
+
+(iv) Non-essential travel is minimized.
+
+(v) Visits to senior living facilities and hospitals are prohibited.
+
+(vi) Schools and organized youth activities remain closed.
+
+[66 FR 41388, Aug. 7, 2001, as amended at 70 FR 47952, Aug. 15, 2005; 74 FR 39811, Aug. 7, 2009; 83 FR 38573,Aug. 6, 2018; 84 FR 39172, Aug. 8, 2019; 85 FR 19287, Apr. 6, 2020; 85 FR 27622, May 8, 2020]

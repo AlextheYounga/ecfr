@@ -4,9 +4,9 @@ To qualify for Medicare coverage of home health services, a beneficiary must mee
 
 (a) *Confined to the home.* The beneficiary must be confined to the home or in an institution that is not a hospital, SNF or nursing facility as defined in section 1861(e)(1), 1819(a)(1) or 1919(a)(1) of the Act, respectively.
 
-(b) *Under the care of a physician.* The beneficiary must be under the care of a physician who establishes the plan of care. A doctor of podiatric medicine may establish a plan of care only if that is consistent with the functions he or she is authorized to perform under State law.
+(b) *Under the care of a physician or allowed practitioner, as defined at § 484.2 of this chapter.* The beneficiary must be under the care of a physician or allowed practitioner, as defined at § 484.2 of this chapter who establishes the plan of care. A doctor of podiatric medicine may establish a plan of care only if that is consistent with the functions he or she is authorized to perform under State law.
 
-(c) *In need of skilled services.* The beneficiary must need at least one of the following skilled services as certified by a physician in accordance with the physician certification and recertification requirements for home health services under § 424.22 of this chapter.
+(c) *In need of skilled services.* The beneficiary must need at least one of the following skilled services as certified by a physician or allowed practitioner, as defined at § 484.2 of this chapter in accordance with the certification and recertification requirements for home health services under § 424.22 of this chapter.
 
 (1) Intermittent skilled nursing services that meet the criteria for skilled services and the need for skilled services found in § 409.32. (Also see § 409.33(a) and (b) for a description of examples of skilled nursing and rehabilitation services.) These criteria are subject to the following limitations in the home health setting:
 
@@ -24,4 +24,4 @@ To qualify for Medicare coverage of home health services, a beneficiary must mee
 
 (e) *By whom the services must be furnished.* The home health services must be furnished by, or under arrangements made by, a participating HHA.
 
-[59 FR 65494, Dec. 20, 1994; 60 FR 39122, Aug. 1, 1995, as amended at 74 FR 58133, Nov. 10, 2009; 76 FR 68606, Nov. 4, 2011]
+[59 FR 65494, Dec. 20, 1994; 60 FR 39122, Aug. 1, 1995, as amended at 74 FR 58133, Nov. 10, 2009; 76 FR 68606, Nov. 4, 2011; 85 FR 27619, May 8, 2020]

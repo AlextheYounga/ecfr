@@ -2,7 +2,7 @@
 
 Each patient must receive, and an HHA must provide, a patient-specific, comprehensive assessment. For Medicare beneficiaries, the HHA must verify the patient's eligibility for the Medicare home health benefit including homebound status, both at the time of the initial assessment visit and at the time of the comprehensive assessment.
 
-(a) *Standard: Initial assessment visit.* (1) A registered nurse must conduct an initial assessment visit to determine the immediate care and support needs of the patient; and, for Medicare patients, to determine eligibility for the Medicare home health benefit, including homebound status. The initial assessment visit must be held either within 48 hours of referral, or within 48 hours of the patient's return home, or on the physician-ordered start of care date.
+(a) *Standard: Initial assessment visit.* (1) A registered nurse must conduct an initial assessment visit to determine the immediate care and support needs of the patient; and, for Medicare patients, to determine eligibility for the Medicare home health benefit, including homebound status. The initial assessment visit must be held either within 48 hours of referral, or within 48 hours of the patient's return home, or on the physician or allowed practitioner-ordered start of care date.
 
 (2) When rehabilitation therapy service (speech language pathology, physical therapy, or occupational therapy) is the only service ordered by the physician who is responsible for the home health plan of care, and if the need for that service establishes program eligibility, the initial assessment visit may be made by the appropriate rehabilitation skilled professional.
 
@@ -10,7 +10,7 @@ Each patient must receive, and an HHA must provide, a patient-specific, comprehe
 
 (2) Except as provided in paragraph (b)(3) of this section, a registered nurse must complete the comprehensive assessment and for Medicare patients, determine eligibility for the Medicare home health benefit, including homebound status.
 
-(3) When physical therapy, speech-language pathology, or occupational therapy is the only service ordered by the physician, a physical therapist, speech-language pathologist or occupational therapist may complete the comprehensive assessment, and for Medicare patients, determine eligibility for the Medicare home health benefit, including homebound status. The occupational therapist may complete the comprehensive assessment if the need for occupational therapy establishes program eligibility.
+(3) When physical therapy, speech-language pathology, or occupational therapy is the only service ordered by the physician or allowed practitioner, a physical therapist, speech-language pathologist or occupational therapist may complete the comprehensive assessment, and for Medicare patients, determine eligibility for the Medicare home health benefit, including homebound status. The occupational therapist may complete the comprehensive assessment if the need for occupational therapy establishes program eligibility.
 
 (c) *Standard: Content of the comprehensive assessment.* The comprehensive assessment must accurately reflect the patient's status, and must include, at a minimum, the following information:
 
@@ -44,6 +44,8 @@ Each patient must receive, and an HHA must provide, a patient-specific, comprehe
 
 (iii) Discharge and return to the same HHA during the 60-day episode.
 
-(2) Within 48 hours of the patient's return to the home from a hospital admission of 24 hours or more for any reason other than diagnostic tests, or on physician-ordered resumption date;
+(2) Within 48 hours of the patient's return to the home from a hospital admission of 24 hours or more for any reason other than diagnostic tests, or on physician or allowed practitioner-ordered resumption date;
 
 (3) At discharge.
+
+[82 FR 4578, Jan. 13, 2017, as amended at 85 FR 27628, May 8, 2020]

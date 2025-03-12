@@ -28,7 +28,7 @@
 
 (B) An amount equal to the actuarial value of the coverage of services described in paragraph (d)(1) of this section.
 
-(ii) Beginning on or before the first billing cycle following June 27, 2020, to satisfy the obligation in paragraph (e)(2)(i) of this section -
+(ii) Beginning on or before the first billing cycle following August 26, 2020, to satisfy the obligation in paragraph (e)(2)(i) of this section -
 
 (A) Send to each policy holder of a QHP monthly bills for each of the amounts specified in paragraphs (e)(2)(i)(A) and (B) of this section, either by sending separate paper bills which may be in the same envelope or mailing, or by sending separate bills electronically, which must be in separate emails or electronic communications; and
 
@@ -86,4 +86,4 @@
 
 (i) *Application of emergency services laws.* Nothing in the Affordable Care Act shall be construed to relieve any health care provider from providing emergency services as required by State or Federal law, including section 1867 of the Act (popularly known as “EMTALA”).
 
-[77 FR 18469, Mar. 27, 2012, as amended at 84 FR 71710, Dec. 27, 2019; 85 FR 2888, Jan. 17, 2020]
+[77 FR 18469, Mar. 27, 2012, as amended at 84 FR 71710, Dec. 27, 2019; 85 FR 2888, Jan. 17, 2020; 85 FR 27629, May 8, 2020]

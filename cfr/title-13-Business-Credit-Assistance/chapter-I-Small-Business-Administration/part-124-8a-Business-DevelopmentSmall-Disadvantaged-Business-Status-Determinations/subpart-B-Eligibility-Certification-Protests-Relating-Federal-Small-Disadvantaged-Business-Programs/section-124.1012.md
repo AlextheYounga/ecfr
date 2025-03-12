@@ -1,5 +1,7 @@
 ##### § 124.1012 What will SBA do when it receives an SDB protest? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) Upon receipt of a protest challenging the disadvantaged status of a concern, the DC/SDBCE, or designee, will immediately notify the protestor and the contracting officer of the date the protest was received and whether it will be processed or dismissed for lack of timeliness or specificity.
 
 (b) In cases where the protest is timely and sufficiently specific, the DC/SDBCE, or designee, will also immediately advise the protested concern of the protest and forward a copy of it to the protested concern.

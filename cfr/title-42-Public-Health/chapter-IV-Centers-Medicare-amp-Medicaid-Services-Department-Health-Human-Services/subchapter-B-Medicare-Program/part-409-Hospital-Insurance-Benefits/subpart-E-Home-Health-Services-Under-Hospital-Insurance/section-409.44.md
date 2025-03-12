@@ -24,9 +24,9 @@
 
 (c) *Physical therapy, speech-language pathology services, and occupational therapy.* To be covered, physical therapy, speech-language pathology services, and occupational therapy must satisfy the criteria in paragraphs (c)(1) and (2) of this section.
 
-(1) Speech-language pathology services and physical or occupational therapy services must relate directly and specifically to a treatment regimen (established by the physician, after any needed consultation with the qualified therapist) that is designed to treat the beneficiary's illness or injury. Services related to activities for the general physical welfare of beneficiaries (for example, exercises to promote overall fitness) do not constitute physical therapy, occupational therapy, or speech-language pathology services for Medicare purposes. To be covered by Medicare, all of the requirements apply as follows:
+(1) Speech-language pathology services and physical or occupational therapy services must relate directly and specifically to a treatment regimen (established by the physician or allowed practitioner) after any needed consultation with the qualified therapist, that is designed to treat the beneficiary's illness or injury. Services related to activities for the general physical welfare of beneficiaries (for example, exercises to promote overall fitness) do not constitute physical therapy, occupational therapy, or speech-language pathology services for Medicare purposes. To be covered by Medicare, all of the requirements apply as follows:
 
-(i) The patient's plan of care must describe a course of therapy treatment and therapy goals which are consistent with the evaluation of the patient's function, and both must be included in the clinical record. The therapy goals must be established by a qualified therapist in conjunction with the physician.
+(i) The patient's plan of care must describe a course of therapy treatment and therapy goals which are consistent with the evaluation of the patient's function, and both must be included in the clinical record. The therapy goals must be established by a qualified therapist in conjunction with the physician or allowed practitioner.
 
 (ii) The patient's clinical record must include documentation describing how the course of therapy treatment for the patient's illness or injury is in accordance with accepted professional standards of clinical practice.
 
@@ -52,7 +52,7 @@
 
 (D) If the criteria for maintenance therapy, described at § 409.44(c)(2)(iii)(B) and (C) of this section are not met, the following criteria must also be met for subsequent therapy visits to be covered:
 
-(*1*) If the objective measurements of the reassessment do not reveal progress toward goals, the qualified therapist together with the physician must determine whether the therapy is still effective or should be discontinued.
+(*1*) If the objective measurements of the reassessment do not reveal progress toward goals, the qualified therapist together with the physician or allowed practitioner must determine whether the therapy is still effective or should be discontinued.
 
 (*2*) If therapy is to be continued in accordance with § 409.44(c)(2)(iv)(B)(*1*) of this section, the clinical record must document with a clinically supportable statement why there is an expectation that the goals are attainable in a reasonable and generally predictable period of time.
 
@@ -64,7 +64,7 @@
 
 (*2*) Plans for continuing or discontinuing treatment with reference to evaluation results and or treatment plan revisions;
 
-(*3*) Changes to therapy goals or an updated plan of care that is sent to the physician for signature or discharge;
+(*3*) Changes to therapy goals or an updated plan of care that is sent to the physician or allowed practitioner for signature or discharge;
 
 (*4*) Documentation of objective evidence or a clinically supportable statement of expectation that the patient can continue to progress toward the treatment goals and is responding to therapy in a reasonable and generally predictable period of time; or in the case of maintenance therapy, the patient is responding to therapy and can meet the goals in a predictable period of time.
 
@@ -72,7 +72,7 @@
 
 (iii) For therapy services to be covered in the home health setting, one of the following three criteria must be met:
 
-(A) There must be an expectation that the beneficiary's condition will improve materially in a reasonable (and generally predictable) period of time based on the physician's assessment of the beneficiary's restoration potential and unique medical condition.
+(A) There must be an expectation that the beneficiary's condition will improve materially in a reasonable (and generally predictable) period of time based on the physician's or allowed practitioner's assessment of the beneficiary's restoration potential and unique medical condition.
 
 (*1*) Material improvement requires that the clinical record demonstrate that the patient is making improvement towards goals when measured against his or her condition at the start of treatment.
 
@@ -86,20 +86,20 @@
 
 (*2*) The maintenance program must be established by a qualified therapist (and not an assistant).
 
-(C) The unique clinical condition of a patient may require the specialized skills of a qualified therapist or therapist assistant to perform a safe and effective maintenance program required in connection with the patient's specific illness or injury. Where the clinical condition of the patient is such that the complexity of the therapy services required -
+(C) The unique clinical condition of a patient may require the specialized skills of a qualified therapist or therapist assistant to perform a safe and effective maintenance program required in connection with the patient's specific illness or injury. Where the clinical condition of the patient is such that the complexity of the therapy services required—
 
 (*1*) Involve the use of complex and sophisticated therapy procedures to be delivered by the therapist or the therapist assistant in order to maintain function or to prevent or slow further deterioration of function; or
 
 (*2*) To maintain function or to prevent or slow further deterioration of function must be delivered by the therapist or the therapist assistant in order to ensure the patient's safety and to provide an effective maintenance program, then those reasonable and necessary services must be covered.
 
-(iv) The amount, frequency, and duration of the services must be reasonable and necessary, as determined by a qualified therapist and/or physician, using accepted standards of clinical practice.
+(iv) The amount, frequency, and duration of the services must be reasonable and necessary, as determined by a qualified therapist and/or physician or allowed practitioner, using accepted standards of clinical practice.
 
 (A) Where factors exist that would influence the amount, frequency or duration of therapy services, such as factors that may result in providing more services than are typical for the patient's condition, those factors must be documented in the plan of care and/or functional assessment.
 
-(B) Clinical records must include documentation using objective measures that the patient continues to progress towards goals. If progress cannot be measured, and continued progress towards goals cannot be expected, therapy services cease to be covered except when -
+(B) Clinical records must include documentation using objective measures that the patient continues to progress towards goals. If progress cannot be measured, and continued progress towards goals cannot be expected, therapy services cease to be covered except when—
 
 (*1*) Therapy progress regresses or plateaus, and the reasons for lack of progress are documented to include justification that continued therapy treatment will lead to resumption of progress toward goals; or
 
 (*2*) Maintenance therapy as described in § 409.44(c)(2)(iii)(B) or (C) is needed.
 
-[59 FR 65494, Dec. 20, 1994, as amended at 74 FR 58133, Nov. 10, 2009; 75 FR 70461, Nov. 17, 2010; 76 FR 68606, Nov. 4, 2011; 77 FR 67162, Nov. 8, 2012; 79 FR 66116, Nov. 6, 2014; 82 FR 4578, Jan. 13, 2017; 84 FR 60642, Nov. 8, 2019]
+[59 FR 65494, Dec. 20, 1994, as amended at 74 FR 58133, Nov. 10, 2009; 75 FR 70461, Nov. 17, 2010; 76 FR 68606, Nov. 4, 2011; 77 FR 67162, Nov. 8, 2012; 79 FR 66116, Nov. 6, 2014; 82 FR 4578, Jan. 13, 2017; 84 FR 60642, Nov. 8, 2019; 85 FR 27619, May 8, 2020]

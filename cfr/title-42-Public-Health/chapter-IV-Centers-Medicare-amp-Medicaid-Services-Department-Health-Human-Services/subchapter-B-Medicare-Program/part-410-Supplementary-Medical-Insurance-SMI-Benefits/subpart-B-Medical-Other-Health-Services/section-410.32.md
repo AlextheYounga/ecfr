@@ -1,12 +1,14 @@
 ##### § 410.32 Diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests: Conditions. #####
 
-(a) *Ordering diagnostic tests.* All diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests must be ordered by the physician who is treating the beneficiary, that is, the physician who furnishes a consultation or treats a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. Tests not ordered by the physician who is treating the beneficiary are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
+(a) *Ordering diagnostic tests.* Except as otherwise provided in this section, all diagnostic x-ray tests, diagnostic laboratory tests, and other diagnostic tests must be ordered by the physician who is treating the beneficiary, that is, the physician who furnishes a consultation or treats a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. Tests not ordered by the physician who is treating the beneficiary are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (1) *Mammography exception.* A physician who meets the qualification requirements for an interpreting physician under section 354 of the Public Health Service Act as provided in § 410.34(a)(7) may order a diagnostic mammogram based on the findings of a screening mammogram even though the physician does not treat the beneficiary.
 
 (2) *Application to nonphysician practitioners.* Nonphysician practitioners (that is, clinical nurse specialists, clinical psychologists, clinical social workers, nurse-midwives, nurse practitioners, and physician assistants) who furnish services that would be physician services if furnished by a physician, and who are operating within the scope of their authority under State law and within the scope of their Medicare statutory benefit, may be treated the same as physicians treating beneficiaries for the purpose of this paragraph.
 
-(b) *Diagnostic x-ray and other diagnostic tests* - (1) *Basic rule.* Except as indicated in paragraph (b)(2) of this section, all diagnostic x-ray and other diagnostic tests covered under section 1861(s)(3) of the Act and payable under the physician fee schedule must be furnished under the appropriate level of supervision by a physician as defined in section 1861(r) of the Act. Services furnished without the required level of supervision are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
+(3) *Public Health Emergency exception.* During the Public Health Emergency, as defined in § 400.200 of this chapter, for the COVID-19 pandemic, the order of a physician or NPP is not required for otherwise covered diagnostic laboratory tests for COVID-19 and for otherwise covered diagnostic laboratory tests for influenza virus or similar respiratory condition needed to obtain a final COVID-19 diagnosis when performed in conjunction with COVID-19 diagnostic laboratory test in order to discount influenza virus or related diagnosis. FDA-authorized COVID-19 serology tests are included as covered tests during the Public Health Emergency, as defined in § 400.20 of this chapter, for the COVID-19 pandemic, as they are reasonable and necessary under section 1862(a)(1)(A) of the Act for beneficiaries with known current or known prior COVID-19 infection or suspected current or suspected prior COVID-19 infection.
+
+(b) *Diagnostic x-ray and other diagnostic tests* - (1) *Basic rule.* Except as indicated in paragraph (b)(2) of this section, all diagnostic x-ray and other diagnostic tests covered under section 1861(s)(3) of the Act and payable under the physician fee schedule must be furnished under the appropriate level of supervision by a physician as defined in section 1861(r) of the Act or, during the Public Health Emergency as defined in § 400.200 of this chapter, for the COVID-19 pandemic, by a nurse practitioner, clinical nurse specialist, physician assistant or a certified nurse-midwife to the extent that they are authorized to do so under applicable state law. Services furnished without the required level of supervision are not reasonable and necessary (see § 411.15(k)(1) of this chapter).
 
 (2) *Exceptions.* The following diagnostic tests payable under the physician fee schedule are excluded from the basic rule set forth in paragraph (b)(1) of this section:
 
@@ -18,7 +20,7 @@
 
 (A) Personally furnished by a clinical psychologist or an independently practicing psychologist as defined in program instructions; or
 
-(B) Furnished under the general supervision of a physician or a clinical psychologist.
+(B) Furnished under the general supervision of a physician, clinical psychologist, or during the Public Health Emergency, as defined in § 400.200 of this chapter, for the COVID-19 pandemic, by a nurse practitioner, clinical nurse specialist, physician assistant or a certified nurse-midwife, to the extent that they are authorized to perform the tests under applicable State law.
 
 (iv) Diagnostic tests (as established through program instructions) personally performed by a physical therapist who is certified by the American Board of Physical Therapy Specialties as a qualified electrophysiologic clinical specialist and permitted to provide the service under State law.
 
@@ -28,7 +30,9 @@
 
 (vii) Diagnostic tests performed by a certified nurse-midwife authorized to perform the tests under applicable State laws.
 
-(3) *Levels of supervision.* Except where otherwise indicated, all diagnostic x-ray and other diagnostic tests subject to this provision and payable under the physician fee schedule must be furnished under at least a general level of physician supervision as defined in paragraph (b)(3)(i) of this section. In addition, some of these tests also require either direct or personal supervision as defined in paragraphs (b)(3)(ii) or (b)(3)(iii) of this section, respectively. (However, diagnostic tests performed by a physician assistant (PA) that the PA is legally authorized to perform under State law require only a general level of physician supervision.) When direct or personal supervision is required, physician supervision at the specified level is required throughout the performance of the test.
+(viii) During the COVID-19 Public Health Emergency as defined in § 400.200 of this chapter, diagnostic tests performed by a physician assistant authorized to perform the tests under applicable State law.
+
+(3) *Levels of supervision.* Except where otherwise indicated, all diagnostic x-ray and other diagnostic tests subject to this provision and payable under the physician fee schedule must be furnished under at least a general level of supervision as defined in paragraph (b)(3)(i) of this section. In addition, some of these tests also require either direct or personal supervision as defined in paragraph (b)(3)(ii) or (iii) of this section, respectively. When direct or personal supervision is required, supervision at the specified level is required throughout the performance of the test.
 
 (i) *General supervision* means the procedure is furnished under the physician's overall direction and control, but the physician's presence is not required during the performance of the procedure. Under general supervision, the training of the nonphysician personnel who actually perform the diagnostic procedure and the maintenance of the necessary equipment and supplies are the continuing responsibility of the physician.
 
@@ -70,9 +74,11 @@
 
 (vii) An SNF to its resident under § 411.15(p) of this chapter, either directly (in accordance with § 483.75(k)(1)(i) of this chapter) or under an arrangement (as defined in § 409.3 of this chapter) with another entity described in this paragraph.
 
-(2) *Documentation and recordkeeping requirements* - (i) *Ordering the service.* The physician or (qualified nonphysican practitioner, as defined in paragraph (a)(2) of this section), who orders the service must maintain documentation of medical necessity in the beneficiary's medical record.
+(2) *Documentation and recordkeeping requirements* -
 
-(ii) *Submitting the claim.* The entity submitting the claim must maintain the following documentation:
+(i) *Ordering the service.* Except for tests described in paragraph (a)(3) of this section, the physician (or qualified nonphysician practitioner, as defined in paragraph (a)(2) of this section), who orders the service must maintain documentation of medical necessity in the beneficiary's medical record.
+
+(ii) *Submitting the claim.* Except for tests described in paragraph (a)(3) of this section, the entity submitting the claim must maintain the following documentation:
 
 (A) The documentation that it receives from the ordering physician or nonphysician practitioner.
 
@@ -80,7 +86,9 @@
 
 (iii) *Requesting additional information.* The entity submitting the claim may request additional diagnostic and other medical information to document that the services it bills are reasonable and necessary. If the entity requests additional documentation, it must request material relevant to the medical necessity of the specific test(s), taking into consideration current rules and regulations on patient confidentiality.
 
-(3) *Claims review.* (i) *Documentation requirements.* Upon request by CMS, the entity submitting the claim must provide the following information:
+(3) *Claims review.*
+
+(i) *Documentation requirements.* Except for tests described in paragraph (a)(3) introductory text, upon request by CMS, the entity submitting the claim must provide the following information:
 
 (A) Documentation of the order for the service billed (including information sufficient to enable CMS to identify and contact the ordering physician or nonphysician practitioner).
 
@@ -104,4 +112,4 @@
 
 (e) *Diagnostic laboratory tests furnished in hospitals and CAHs.* The provisions of paragraphs (a) and (d)(2) through (d)(4) of this section, inclusive, of this section apply to all diagnostic laboratory test furnished by hospitals and CAHs to outpatients.
 
-[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020]
+[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020]

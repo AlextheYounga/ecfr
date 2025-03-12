@@ -1,5 +1,7 @@
 ##### § 124.1002 What is a Small Disadvantaged Business (SDB)? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) *Reliance on 8(a) criteria.* In determining whether a firm qualifies as an SDB, the criteria of social and economic disadvantage and other eligibility requirements established in subpart A of this part apply, including the requirements of ownership and control and disadvantaged status, unless otherwise provided in this subpart. Qualified Private Certifiers must use the 8(a) criteria applicable to ownership and control in determining whether a particular firm is actually owned and controlled by one or more individuals claiming disadvantaged status.
 
 (b) *SDB eligibility criteria.* A small disadvantaged business (SDB) is a concern:

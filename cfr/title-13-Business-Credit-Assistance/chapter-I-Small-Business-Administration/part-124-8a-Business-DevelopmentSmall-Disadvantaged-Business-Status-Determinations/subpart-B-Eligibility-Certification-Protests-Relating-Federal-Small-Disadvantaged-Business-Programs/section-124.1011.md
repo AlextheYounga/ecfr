@@ -1,5 +1,7 @@
 ##### § 124.1011 What format, degree of specificity, and basis does SBA require to consider an SDB protest? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) *Format.* An SDB protest need not be in any specific format in order for SBA to consider it.
 
 (b) *Specificity.* A protest must be sufficiently specific to provide reasonable notice as to all grounds upon which the protested concern's disadvantaged status is challenged.

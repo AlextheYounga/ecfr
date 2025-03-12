@@ -1,5 +1,7 @@
 ##### § 124.1010 What procedures apply to disadvantaged status protests? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) *General.* The protest procedures described in this section are separate and distinct from those governing size protests and appeals. All protests relating to whether a concern is a “small” business for purposes of any Federal program, including SDB set-asides and SDB evaluation adjustments, must be filed and processed pursuant to part 121 of this title.
 
 (b) *Filing.* (1) All protests challenging the disadvantaged status of a concern with respect to a particular Federal procurement requirement must be submitted in writing to the procuring activity contracting officer, except in cases where the contracting officer or SBA initiates a protest.

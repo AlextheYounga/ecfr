@@ -1,5 +1,7 @@
 ##### § 124.1003 How does a firm become certified as an SDB? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) All firms that are current Participants in SBA's 8(a) BD program are automatically deemed to be certified SDBs.
 
 (b) Any firm seeking to be certified as an SDB in order to represent that it qualifies and is eligible to obtain a benefit on a federal prime contract as an SDB may apply to the procuring agency for such certification.

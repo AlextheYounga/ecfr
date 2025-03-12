@@ -1,5 +1,7 @@
 ##### § 124.1014 Appeals of disadvantaged status determinations. #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) *Who may appeal.* Appeals of protest determinations may be filed with the SBA's AA/GC&BD by the protested concern, the protestor, or the contracting officer.
 
 (b) *Timeliness of appeal.* An appeal must be in writing and must be received by the AA/GC&BD no later than 5 working days after the date of receipt of the protest determination. SBA will dismiss any appeal received after the five-day time period.

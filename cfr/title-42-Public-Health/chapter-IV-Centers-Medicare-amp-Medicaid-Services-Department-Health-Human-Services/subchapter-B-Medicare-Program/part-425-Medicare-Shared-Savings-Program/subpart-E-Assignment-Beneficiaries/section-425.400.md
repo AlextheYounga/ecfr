@@ -143,4 +143,18 @@
 
 (*7*) G0443 (code for alcohol misuse counseling service).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018]
+(2) For the performance year starting on January 1, 2020, and for any subsequent performance year that starts during the COVID-19 Public Health Emergency defined in § 400.200, in determining beneficiary assignment, we use the primary care service codes identified in paragraph (c)(1) of this section, and additional primary care service codes as follows:
+
+(i) CPT codes:
+
+(A) 99421, 99422, and 99423 (codes for online digital evaluation and management services).
+
+(B) 99441, 99442, and 99443 (codes for telephone evaluation and management services).
+
+(ii) HCPCS codes:
+
+(A) G2010 (code for remote evaluation of patient video/images).
+
+(B) G2012 (code for virtual check-in).
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020]

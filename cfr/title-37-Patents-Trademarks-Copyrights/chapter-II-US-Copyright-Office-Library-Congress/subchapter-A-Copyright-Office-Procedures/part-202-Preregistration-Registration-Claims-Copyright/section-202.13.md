@@ -4,7 +4,7 @@
 
 (b) *Definitions.* For purposes of this section -
 
-(1) A *secure test* is a nonmarketed test administered under supervision at specified centers on scheduled dates, all copies of which are accounted for and either destroyed or returned to restricted locked storage following each administration.
+(1) A *secure test* is a nonmarketed test administered under supervision at specified centers on scheduled dates, all copies of which are accounted for and either destroyed or returned to restricted locked storage or secure electronic storage following each administration. A test otherwise meeting the requirements of this paragraph shall be considered a secure test if it normally is administered at specified centers but is being administered online during the national emergency concerning the COVID-19 pandemic, provided the test administrator employs measures to maintain the security and integrity of the test that it reasonably determines to be substantially equivalent to the security and integrity provided by in-person proctors.
 
 (2) A test is *nonmarketed* if copies of the test are not sold, but instead are distributed and used in such a manner that the test sponsor or publisher retains ownership and control of the copies.
 
@@ -46,4 +46,4 @@
 
 (5) All the works in the group must have the same author or authors, and the copyright claimant for each work must be the same. Claims in the selection, coordination, or arrangement of the group as a whole will not be permitted on the application. Each item in the group must be separately copyrightable or must be excluded from the group.
 
-[82 FR 26854, June 12, 2017, as amended at 82 FR 52228, Nov. 13, 2017]
+[82 FR 26854, June 12, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 85 FR 27298, May 8, 2020]

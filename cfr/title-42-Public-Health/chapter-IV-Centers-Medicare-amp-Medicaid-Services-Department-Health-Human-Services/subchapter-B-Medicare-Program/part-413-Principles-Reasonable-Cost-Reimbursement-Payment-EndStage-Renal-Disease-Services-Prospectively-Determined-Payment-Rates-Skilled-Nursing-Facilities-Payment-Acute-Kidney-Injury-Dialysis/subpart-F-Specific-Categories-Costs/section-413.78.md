@@ -4,7 +4,7 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (a) Residents in an approved program working in all areas of the hospital complex may be counted.
 
-(b) No individual may be counted as more than one FTE. A hospital cannot claim the time spent by residents training at another hospital. Except as provided in paragraphs (c), (d), and (e) of this section, if a resident spends time in more than one hospital or in a nonprovider setting, the resident counts as partial FTE based on the proportion of time worked at the hospital to the total time worked. A part-time resident counts as a partial FTE based on the proportion of allowable time worked compared to the total time necessary to fill a full-time internship or residency slot.
+(b) No individual may be counted as more than one FTE. A hospital cannot claim the time spent by residents training at another hospital, except as provided in paragraph (i) of this section. Except as provided in paragraphs (c), (d), and (e) of this section, if a resident spends time in more than one hospital or in a nonprovider setting, the resident counts as partial FTE based on the proportion of time worked at the hospital to the total time worked. A part-time resident counts as a partial FTE based on the proportion of allowable time worked compared to the total time necessary to fill a full-time internship or residency slot.
 
 (c) On or after July 1, 1987, and for portions of cost reporting periods occurring before January 1, 1999, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs is not excluded in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met -
 
@@ -92,4 +92,12 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (h) Effective for cost reporting periods beginning on or after January 1, 1983, the time spent by a resident in an approved medical residency program on vacation, sick leave, or other approved leave that does not prolong the total time the resident is participating in the approved program beyond the normal duration of the program is countable. This provision cannot be applied in a manner that would require the reopening of settled cost reports, except those cost reports on which there is a jurisdictionally proper appeal pending on direct GME or IME payments as of March 23, 2010.
 
-[69 FR 49254, Aug. 11, 2004, as amended at 71 FR 48142, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 72262, Nov. 24, 2010; 78 FR 50968, Aug. 19, 2013; 79 FR 50357, Aug. 22, 2014]
+(i) For the time frame that the Public Health Emergency (as defined in § 400.200 of this chapter) associated with COVID-19 was in effect, a sending hospital can include FTE residents training at another hospital in its FTE count if all of the following conditions are met.
+
+(1) The sending hospital sends the resident to the other hospital in response to the COVID-19 pandemic.
+
+(2) The time spent by the resident training at the other hospital is in lieu of time that would have been spent in approved training at the sending hospital.
+
+(3) The time that the resident spent training immediately prior to and/or subsequent to the time frame that the Public Health Emergency (as defined in § 400.200 of this chapter) associated with COVID-19 was in effect is included in the FTE count for the sending hospital.
+
+[69 FR 49254, Aug. 11, 2004, as amended at 71 FR 48142, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 72262, Nov. 24, 2010; 78 FR 50968, Aug. 19, 2013; 79 FR 50357, Aug. 22, 2014; 85 FR 27623, May 8, 2020]

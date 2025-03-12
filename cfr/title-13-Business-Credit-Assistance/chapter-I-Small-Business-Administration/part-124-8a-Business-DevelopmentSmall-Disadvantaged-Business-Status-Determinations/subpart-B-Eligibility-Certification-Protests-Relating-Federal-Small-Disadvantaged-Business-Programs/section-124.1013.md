@@ -1,5 +1,7 @@
 ##### § 124.1013 How does SBA make disadvantaged status determinations in considering an SDB protest? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) *General.* The DC/SDBCE, or designee, will determine a protested concern's disadvantaged status within 15 working days after receipt of a protest.
 
 (b) *Award of contract.* (1) The contracting officer may award a contract after receipt of a protest if the contracting officer determines in writing that an award must be made to protect the public interest. Notwithstanding such a determination, the provisions of paragraph (h) of this section apply to the procurement in question.

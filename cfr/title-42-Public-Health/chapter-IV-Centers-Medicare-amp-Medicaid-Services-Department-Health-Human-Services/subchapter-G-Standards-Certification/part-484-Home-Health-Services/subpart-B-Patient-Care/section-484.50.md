@@ -86,11 +86,11 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (d) *Standard: Transfer and discharge.* The patient and representative (if any), have a right to be informed of the HHA's policies for transfer and discharge. The HHA may only transfer or discharge the patient from the HHA if:
 
-(1) The transfer or discharge is necessary for the patient's welfare because the HHA and the physician who is responsible for the home health plan of care agree that the HHA can no longer meet the patient's needs, based on the patient's acuity. The HHA must arrange a safe and appropriate transfer to other care entities when the needs of the patient exceed the HHA's capabilities;
+(1) The transfer or discharge is necessary for the patient's welfare because the HHA and the physician or allowed practitioner who is responsible for the home health plan of care agree that the HHA can no longer meet the patient's needs, based on the patient's acuity. The HHA must arrange a safe and appropriate transfer to other care entities when the needs of the patient exceed the HHA's capabilities;
 
 (2) The patient or payer will no longer pay for the services provided by the HHA;
 
-(3) The transfer or discharge is appropriate because the physician who is responsible for the home health plan of care and the HHA agree that the measurable outcomes and goals set forth in the plan of care in accordance with § 484.60(a)(2)(xiv) have been achieved, and the HHA and the physician who is responsible for the home health plan of care agree that the patient no longer needs the HHA's services;
+(3) The transfer or discharge is appropriate because the physician or allowed practitioner who is responsible for the home health plan of care and the HHA agree that the measurable outcomes and goals set forth in the plan of care in accordance with § 484.60(a)(2)(xiv) have been achieved, and the HHA and the physician or allowed practitioner who is responsible for the home health plan of care agree that the patient no longer needs the HHA's services;
 
 (4) The patient refuses services, or elects to be transferred or discharged;
 
@@ -122,10 +122,10 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (2) Any HHA staff (whether employed directly or under arrangements) in the normal course of providing services to patients, who identifies, notices, or recognizes incidences or circumstances of mistreatment, neglect, verbal, mental, sexual, and/or physical abuse, including injuries of unknown source, or misappropriation of patient property, must report these findings immediately to the HHA and other appropriate authorities in accordance with state law.
 
-*(f) Standard: Accessibility.* Information must be provided to patients in plain language and in a manner that is accessible and timely to -
+(f) *Standard: Accessibility.* Information must be provided to patients in plain language and in a manner that is accessible and timely to -
 
 (1) Persons with disabilities, including accessible Web sites and the provision of auxiliary aids and services at no cost to the individual in accordance with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act.
 
 (2) Persons with limited English proficiency through the provision of language services at no cost to the individual, including oral interpretation and written translations.
 
-[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019]
+[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019; 85 FR 27628, May 8, 2020]

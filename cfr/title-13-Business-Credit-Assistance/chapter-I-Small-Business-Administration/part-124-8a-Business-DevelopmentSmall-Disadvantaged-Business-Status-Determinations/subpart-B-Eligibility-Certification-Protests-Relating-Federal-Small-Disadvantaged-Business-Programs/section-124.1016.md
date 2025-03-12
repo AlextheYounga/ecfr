@@ -1,5 +1,7 @@
 ##### § 124.1016 What must a concern do in order to be identified as a SDB in any Federal procurement database? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) In order to be identified as a SDB in the System for Award Management (SAM) database (or any successor thereto), a concern must certify its SDB status in connection with specific eligibility requirements at least annually.
 
 (b) If a firm identified as a SDB in SAM fails to certify its status within one year of a status certification, the firm will not be listed as a SDB in SAM, unless and until the firm recertifies its SDB status.

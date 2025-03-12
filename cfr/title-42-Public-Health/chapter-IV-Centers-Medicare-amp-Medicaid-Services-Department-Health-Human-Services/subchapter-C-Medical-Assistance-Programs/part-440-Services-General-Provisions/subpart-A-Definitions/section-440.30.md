@@ -1,6 +1,6 @@
 ##### § 440.30 Other laboratory and X-ray services. #####
 
-Other laboratory and X-ray services means professional and technical laboratory and radiological services -
+Other laboratory and X-ray services means professional and technical laboratory and radiological services—
 
 (a) Ordered and provided by or under the direction of a physician or other licensed practioner of the healing arts within the scope of his practice as defined by State law or ordered by a physician but provided by referral laboratory;
 
@@ -8,4 +8,6 @@ Other laboratory and X-ray services means professional and technical laboratory 
 
 (c) Furnished by a laboratory that meets the requirements of part 493 of this chapter.
 
-[46 FR 42672, Aug. 24, 1981, as amended at 57 FR 7135, Feb. 28, 1992]
+(d) During the Public Health Emergency defined in 42 CFR 400.200 or any future Public Health Emergency resulting from an outbreak of communicable disease, and during any subsequent period of active surveillance (as defined in this paragraph), Medicaid coverage is available for laboratory tests and X-ray services that do not meet conditions specified in paragraph (a) or (b) of this section, if the purpose of such laboratory and X-ray services is to diagnose or detect SARS-CoV-2, antibodies to SARS-CoV-2, COVID-19, or the communicable disease named in the Public Health Emergency or its causes, and if the deviation from the conditions specified in paragraph (a) or (b) of this section is intended to avoid transmission of the communicable disease. For purposes of this paragraph, a period of active surveillance is defined as an outbreak of communicable disease during which no approved treatment or vaccine is widely available, and it ends on the date the Secretary terminates it, or the date that is two incubation periods after the last known case of the communicable disease, whichever is sooner. Additionally, during the Public Health Emergency defined in 42 CFR 400.200 or any future Public Health Emergency resulting from an outbreak of communicable disease, and during any subsequent period of active surveillance (as defined in this paragraph), Medicaid coverage is available for laboratory processing of self-collected laboratory test systems that are authorized by the FDA for home use, if available to diagnose or detect SARS-CoV-2, antibodies to SARS-CoV-2, COVID-19, or the communicable disease named in the Public Health Emergency or its causes, even if those self-collected tests would not otherwise meet the requirements of paragraph (a) or (b) of this section, provided that the self-collection of the test is intended to avoid transmission of the communicable disease. If, pursuant to this paragraph, a laboratory processes a self-collected test system that is authorized by the FDA for home use, and the test system does not meet the conditions in paragraph (a) of this section, the laboratory must notify the patient and the patient's physician or other licensed non-physician practitioner (if known by the laboratory), of the results.
+
+[46 FR 42672, Aug. 24, 1981, as amended at 57 FR 7135, Feb. 28, 1992; 85 FR 27626, May 8, 2020]

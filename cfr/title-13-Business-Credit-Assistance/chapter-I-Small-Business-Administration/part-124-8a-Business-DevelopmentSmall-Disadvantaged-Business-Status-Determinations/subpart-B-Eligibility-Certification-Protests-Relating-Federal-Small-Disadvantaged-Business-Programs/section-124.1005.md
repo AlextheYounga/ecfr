@@ -1,5 +1,7 @@
 ##### § 124.1005 How long does an SDB certification last? #####
 
+Link to an amendment published at 85 FR 27293, May 8, 2020.
+
 (a) A firm that is certified to be an SDB will generally be certified for a period of three years from the date of the certification.
 
 (b) A firm's SDB certification will extend beyond three years where SBA finds the firm to be an SDB:

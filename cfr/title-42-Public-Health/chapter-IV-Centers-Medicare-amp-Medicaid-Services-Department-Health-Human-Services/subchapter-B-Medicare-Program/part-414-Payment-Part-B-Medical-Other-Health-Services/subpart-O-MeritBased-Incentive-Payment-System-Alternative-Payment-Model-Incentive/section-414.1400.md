@@ -104,9 +104,9 @@
 
 (B) QCDR Measures that address significant variation in performance.
 
-(C) Beginning with the 2021 performance period, all QCDR measures must be fully developed and tested, with complete testing results at the clinician level, prior to submitting the QCDR measure at the time of self-nomination.
+(C) Beginning with the 2022 performance period, all QCDR measures must be fully developed and tested, with complete testing results at the clinician level, prior to submitting the QCDR measure at the time of self-nomination.
 
-(D) Beginning with the 2021 performance period, QCDRs are required to collect data on a QCDR measure, appropriate to the measure type, prior to submitting the QCDR measure for CMS consideration during the self-nomination period.
+(D) Beginning with the 2022 performance period, QCDRs are required to collect data on a QCDR measure, appropriate to the measure type, prior to submitting the QCDR measure for CMS consideration during the self-nomination period.
 
 (E) Beginning with the 2022 MIPS payment year, CMS may provisionally approve the individual QCDR measures for 1 year with the condition that QCDRs address certain areas of duplication with other approved QCDR measures in order to be considered for the program in subsequent years. If the QCDR measures are not harmonized, CMS may reject the duplicative QCDR measure.
 
@@ -206,4 +206,4 @@
 
 (3) For the purposes of auditing, CMS may request any records or data retained for the purposes of MIPS for up to 6 years from the end of the MIPS performance period.
 
-[83 FR 60088, Nov. 23, 2018, as amended at 84 FR 63198, Nov. 15, 2019]
+[83 FR 60088, Nov. 23, 2018, as amended at 84 FR 63198, Nov. 15, 2019; 85 FR 27623, May 8, 2020]

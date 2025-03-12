@@ -26,7 +26,15 @@
 
 (i) The start date is January 1 of that year; and
 
-(ii) The term of the participation agreement is 3 years, except for an ACO whose first agreement period in Track 1 began in 2014 or 2015, in which case the term of the ACO's initial agreement period under Track 1 (as described under § 425.604) may be extended, at the ACO's option, for an additional year for a total of 4 performance years if the conditions specified in paragraph (e) of this section are met.
+(ii) The term of the participation agreement is 3 years, except as follows:
+
+(A) For an ACO whose first agreement period in Track 1 began in 2014 or 2015, in which case the term of the ACO's initial agreement period under Track 1 (as described under § 425.604) may be extended, at the ACO's option, for an additional year for a total of 4 performance years if the conditions specified in paragraph (e) of this section are met.
+
+(B) For an ACO whose agreement period started on January 1, 2018, the term of the participation agreement is extended by 12 months if both of the following conditions are met:
+
+(*1*) The ACO elects to extend the participation agreement for a fourth performance year until December 31, 2021.
+
+(*2*) The ACO's election to extend its agreement period is made in the form and manner and by a deadline established by CMS.
 
 (4) *For 2019.* (i) The start date is January 1, 2019, and the term of the participation agreement is 3 years for ACOs whose first agreement period began in 2015 and who deferred renewal of their participation agreement under paragraph (e) of this section; or
 
@@ -66,4 +74,4 @@
 
 (ii) Not eligible to participate in the Shared Savings Program again until after the date on which the term of that second agreement period would have expired if the ACO had not terminated its participation, consistent with § 425.222.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 38013, June 10, 2016; 83 FR 60092, Nov. 23, 2018; 83 FR 68063, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 38013, June 10, 2016; 83 FR 60092, Nov. 23, 2018; 83 FR 68063, Dec. 31, 2018; 85 FR 27625, May 8, 2020]
