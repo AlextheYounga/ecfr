@@ -1,6 +1,6 @@
 ##### § 1.170A-13 Recordkeeping and return requirements for deductions for charitable contributions. #####
 
-(a) *Charitable contributions of money made in taxable years beginning after December 31, 1982* - (1) *In general.* If a taxpayer makes a charitable contribution of money in a taxable year beginning after December 31, 1982, the taxpayer shall maintain for each contribution one of the following:
+(a) *Charitable contributions of money made in taxable years beginning after December 31, 1982*—(1) *In general.* If a taxpayer makes a charitable contribution of money in a taxable year beginning after December 31, 1982, the taxpayer shall maintain for each contribution one of the following:
 
 (i) A cancelled check.
 
@@ -8,7 +8,7 @@
 
 (iii) In the absence of a canceled check or receipt from the donee charitable organization, other reliable written records showing the name of the donee, the date of the contribution, and the amount of the contribution.
 
-(2) *Special rules* - (i) *Reliability of records.* The reliability of the written records described in paragraph (a)(1)(iii) of this section is to be determined on the basis of all of the facts and circumstances of a particular case. In all events, however, the burden shall be on the taxpayer to establish reliability. Factors indicating that the written records are reliable include, but are not limited to:
+(2) *Special rules*—(i) *Reliability of records.* The reliability of the written records described in paragraph (a)(1)(iii) of this section is to be determined on the basis of all of the facts and circumstances of a particular case. In all events, however, the burden shall be on the taxpayer to establish reliability. Factors indicating that the written records are reliable include, but are not limited to:
 
 (A) The contemporaneous nature of the writing evidencing the contribution.
 
@@ -20,7 +20,7 @@
 
 (3) *Taxpayer option to apply paragraph (d)(1) to pre-1985 contribution.* See paragraph (d)(1) of this section with regard to contributions of money made on or before December 31, 1984.
 
-(b) *Charitable contributions of property other than money made in taxable years beginning after December 31, 1982* - (1) *In general.* Except in the case of certain charitable contributions of property made after December 31, 1984, to which paragraph (c) of this section applies, any taxpayer who makes a charitable contribution of property other than money in a taxable year beginning after December 31, 1982, shall maintain for each contribution a receipt from the donee showing the following information:
+(b) *Charitable contributions of property other than money made in taxable years beginning after December 31, 1982*—(1) *In general.* Except in the case of certain charitable contributions of property made after December 31, 1984, to which paragraph (c) of this section applies, any taxpayer who makes a charitable contribution of property other than money in a taxable year beginning after December 31, 1982, shall maintain for each contribution a receipt from the donee showing the following information:
 
 (i) The name of the donee.
 
@@ -30,7 +30,7 @@
 
 A letter or other written communication from the donee acknowledging receipt of the contribution, showing the date of the contribution, and containing the required description of the property contributed constitutes a receipt for purposes of this paragraph. A receipt is not required if the contribution is made in circumstances where it is impractical to obtain a receipt (*e.g.,* by depositing property at a charity's unattended drop site). In such cases, however, the taxpayer shall maintain reliable written records with respect to each item of donated property that include the information required by paragraph (b)(2)(ii) of this section.
 
-(2) *Special rules* - (i) *Reliability of records.* The rules described in paragraph (a)(2)(i) of this section also apply to this paragraph (b) for determining the reliability of the written records described in paragraph (b)(1) of this section
+(2) *Special rules*—(i) *Reliability of records.* The rules described in paragraph (a)(2)(i) of this section also apply to this paragraph (b) for determining the reliability of the written records described in paragraph (b)(1) of this section
 
 (ii) *Content of records.* The written records described in paragraph (b)(1) of this section shall include the following information and such information shall be stated in the taxpayers income tax return if required by the return form or its instructions:
 
@@ -54,7 +54,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (*3*) Earmarks donated property for a particular use.
 
-(3) *Deductions in excess of $500 claimed for a charitable contribution of property other than money* - (i) *In general.* In addition to the information required under paragraph (b)(2)(ii) of this section, if a taxpayer makes a charitable contribution of property other than money in a taxable year beginning after December 31, 1982, and claims a deduction in excess of $500 in respect of the contribution of such item, the taxpayer shall maintain written records that include the following information with respect to such item of donated property, and shall state such information in his or her income tax return if required by the return form or its instructions:
+(3) *Deductions in excess of $500 claimed for a charitable contribution of property other than money*—(i) *In general.* In addition to the information required under paragraph (b)(2)(ii) of this section, if a taxpayer makes a charitable contribution of property other than money in a taxable year beginning after December 31, 1982, and claims a deduction in excess of $500 in respect of the contribution of such item, the taxpayer shall maintain written records that include the following information with respect to such item of donated property, and shall state such information in his or her income tax return if required by the return form or its instructions:
 
 (A) The manner of acquisition, as for example by purchase, gift bequest, inheritance, or exchange, and the approximate date of acquisition of the property by the taxpayer or, if the property was created, produced, or manufactured by or for the taxpayer, the approximate date the property was substantially completed.
 
@@ -64,11 +64,11 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (4) *Taxpayer option to apply paragraph (d) (1) and (2) to pre-1985 contributions.* See paragraph (d) (1) and (2) of this section with regard to contributions of property made on or before December 31, 1984.
 
-(c) *Deductions in excess of $5,000 for certain charitable contributions of property made after December 31, 1984* - (1) *General Rule* - (i) *In general.* This paragraph applies to any charitable contribution made after December 31, 1984, by an individual, closely held corporation, personal service corporation, partnership, or S corporation of an item of property (other than money and publicly traded securities to which § 1.170A-13(c)(7)(xi)(B) does not apply if the amount claimed or reported as a deduction under section 170 with respect to such item exceeds $5,000. This paragraph also applies to charitable contributions by C corporations (as defined in section 1361(a)(2) of the Code) to the extent described in paragraph (c)(2)(ii) of this section. No deduction under section 170 shall be allowed with respect to a charitable contribution to which this paragraph applies unless the substantiation requirements described in paragraph (c)(2) of this section are met. For purposes of this paragraph (c), the amount claimed or reported as a deduction for an item of property is the aggregate amount claimed or reported as a deduction for a charitable contribution under section 170 for such items of property and all similar items of property (as defined in paragraph (c)(7)(iii) of this section) by the same donor for the same taxable year (whether or not donated to the same donee).
+(c) *Deductions in excess of $5,000 for certain charitable contributions of property made after December 31, 1984*—(1) *General Rule*—(i) *In general.* This paragraph applies to any charitable contribution made after December 31, 1984, by an individual, closely held corporation, personal service corporation, partnership, or S corporation of an item of property (other than money and publicly traded securities to which § 1.170A-13(c)(7)(xi)(B) does not apply if the amount claimed or reported as a deduction under section 170 with respect to such item exceeds $5,000. This paragraph also applies to charitable contributions by C corporations (as defined in section 1361(a)(2) of the Code) to the extent described in paragraph (c)(2)(ii) of this section. No deduction under section 170 shall be allowed with respect to a charitable contribution to which this paragraph applies unless the substantiation requirements described in paragraph (c)(2) of this section are met. For purposes of this paragraph (c), the amount claimed or reported as a deduction for an item of property is the aggregate amount claimed or reported as a deduction for a charitable contribution under section 170 for such items of property and all similar items of property (as defined in paragraph (c)(7)(iii) of this section) by the same donor for the same taxable year (whether or not donated to the same donee).
 
 (ii) *Special rule for property to which section 170(e) (3) or (4) applies.* For purposes of this paragraph (c), in computing the amount claimed or reported as a deduction for donated property to which section 170(e) (3) or (4) applies (pertaining to certain contributions of inventory and scientific equipment) there shall be taken into account only the amount claimed or reported as a deduction in excess of the amount which would have been taken into account for tax purposes by the donor as costs of goods sold if the donor had sold the contributed property to the donee. For example, assume that a donor makes a contribution from inventory of clothing for the care of the needy to which section 170(e)(3) applies. The cost of the property to the donor was $5,000, and, pursuant to section 170(e)(3)(B), the donor claims a charitable contribution deduction of $8,000 with respect to the property. Therefore, $3,000 ($8,000-$5,000) is the amount taken into account for purposes of determining whether the $5,000 threshold of this paragraph (c)(1) is met.
 
-(2) *Substantiation requirements* - (i) *In general.* Except as provided in paragraph (c)(2)(ii) of this section, a donor who claims or reports a deduction with respect to a charitable contribution to which this paragraph (c) applies must comply with the following three requirements:
+(2) *Substantiation requirements*—(i) *In general.* Except as provided in paragraph (c)(2)(ii) of this section, a donor who claims or reports a deduction with respect to a charitable contribution to which this paragraph (c) applies must comply with the following three requirements:
 
 (A) Obtain a qualified appraisal (as defined in paragraph (c) (3) of this section) for such property contributed. If the contributed property is a partial interest, the appraisal shall be of the partial interest.
 
@@ -86,7 +86,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (*3*) The contribution of an item of property or of similar items of property described in paragraph (c)(1) of this section made after June 6, 1988, by a C corporation (as defined in section 1361(a)(2) of the Code), other than a closely held corporation or a personal service corporation.
 
-(3) *Qualified appraisal* - (i) *In general.* For purposes of this paragraph (c), the term “qualified appraisal” means an appraisal document that -
+(3) *Qualified appraisal*—(i) *In general.* For purposes of this paragraph (c), the term “qualified appraisal” means an appraisal document that—
 
 (A) Relates to an appraisal that is made not earlier than 60 days prior to the date of contribution of the appraised property nor later than the date specified in paragraph (c)(3)(iv)(B) of this section;
 
@@ -104,7 +104,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (C) The date (or expected date) of contribution to the donee;
 
-(D) The terms of any agreement or understanding entered into (or expected to be entered into) by or on behalf of the donor or donee that relates to the use, sale, or other disposition of the property contributed, including, for example, the terms of any agreement or understanding that -
+(D) The terms of any agreement or understanding entered into (or expected to be entered into) by or on behalf of the donor or donee that relates to the use, sale, or other disposition of the property contributed, including, for example, the terms of any agreement or understanding that—
 
 (*1*) Restricts temporarily or permanently a donee's right to use or dispose of the donated property,
 
@@ -128,7 +128,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (iii) *Effect of signature of the qualified appraiser.* Any appraiser who falsely or fraudulently overstates the value of the contributed property referred to in a qualified appraisal or appraisal summary (as defined in paragraphs (c) (3) and (4), respectively, of this section) that the appraiser has signed may be subject to a civil penalty under section 6701 for aiding and abetting an understatement of tax liability and, moreover, may have appraisals disregarded pursuant to 31 U.S.C. 330(c).
 
-(iv) *Special rules* - (A) *Number of qualified appraisals.* For purposes of paragraph (c)(2)(i)(A) of this section, a separate qualified appraisal is required for each item of property that is not included in a group of similar items of property. See paragraph (c)(7)(iii) of this section for the definition of similar items of property. Only one qualified appraisal is required for a group of similar items of property contributed in the same taxable year of the donor, although a donor may obtain separate qualified appraisals for each item of property. A qualified appraisal prepared with respect to a group of similar items of property shall provide all the information required by paragraph (c)(3)(ii) of this section for each item of similar property, except that the appraiser may select any items whose aggregate value is appraised at $100 or less and provide a group description of such items.
+(iv) *Special rules*—(A) *Number of qualified appraisals.* For purposes of paragraph (c)(2)(i)(A) of this section, a separate qualified appraisal is required for each item of property that is not included in a group of similar items of property. See paragraph (c)(7)(iii) of this section for the definition of similar items of property. Only one qualified appraisal is required for a group of similar items of property contributed in the same taxable year of the donor, although a donor may obtain separate qualified appraisals for each item of property. A qualified appraisal prepared with respect to a group of similar items of property shall provide all the information required by paragraph (c)(3)(ii) of this section for each item of similar property, except that the appraiser may select any items whose aggregate value is appraised at $100 or less and provide a group description of such items.
 
 (B) *Time of receipt of qualified appraisal.* The qualified appraisal must be received by the donor before the due date (including extensions) of the return on which a deduction is first claimed (or reported in the case of a donor that is a partnership or S corporation) under section 170 with respect to the donated property, or, in the case of a deduction first claimed (or reported) on an amended return, the date on which the return is filed.
 
@@ -136,7 +136,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (D) *Appraisal disregarded pursuant to 31 U.S.C. 330(c).* If an appraisal is disregarded pursuant to 31 U.S.C. 330(c) it shall have no probative effect as to the value of the appraised property. Such appraisal will, however, otherwise constitute a “qualified appraisal” for purposes of this paragraph (c) if the appraisal summary includes the declaration described in paragraph (c)(4)(ii)(L)(*2*) and the taxpayer had no knowledge that such declaration was false as of the time described in paragraph (c)(4)(i)(B) of this section.
 
-(4) *Appraisal summary* - (i) *In general.* For purposes of this paragraph (c), except as provided in paragraph (c)(4)(iv)(A) of this section, the term *appraisal summary* means a summary of a qualified appraisal that -
+(4) *Appraisal summary*—(i) *In general.* For purposes of this paragraph (c), except as provided in paragraph (c)(4)(iv)(A) of this section, the term *appraisal summary* means a summary of a qualified appraisal that—
 
 (A) Is made on the form prescribed by the Internal Revenue Service;
 
@@ -170,7 +170,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (K) The declaration by the appraiser described in paragraph (c)(5)(i) of this section;
 
-(L) A declaration by the appraiser stating that -
+(L) A declaration by the appraiser stating that—
 
 (*1*) The fee charged for the appraisal is not of a type prohibited by paragraph (c)(6) of this section; and
 
@@ -180,7 +180,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (iii) *Signature of the original donee.* The person who signs the appraisal summary for the donee shall be an official authorized to sign the tax or information returns of the donee, or a person specifically authorized to sign appraisal summaries by an official authorized to sign the tax or information returns of such done. In the case of a donee that is a governmental unit, the person who signs the appraisal summary for such donee shall be the official authorized by such donee to sign appraisal summaries. The signature of the donee on the appraisal summary does not represent concurrence in the appraised value of the contributed property. Rather, it represents acknowledgment of receipt of the property described in the appraisal summary on the date specified in the appraisal summary and that the donee understands the information reporting requirements imposed by section 6050L and § 1.6050L-1. In general, § 1.6050L-1 requires the donee to file an information return with the Internal Revenue Service in the event the donee sells, exchanges, consumes, or otherwise disposes of the property (or any portion thereof) described in the appraisal summary within 2 years after the date of the donor's contribution of such property.
 
-(iv) *Special rules* - (A) *Content of appraisal summary required in certain cases.* With respect to contributions of nonpublicly traded stock described in paragraph (c)(2)(ii)(B)(*1*) of this section, contributions of securities described in paragraph (c)(7)(xi)(B) of this section, and contributions by C corporations described in paragraph (c)(2)(ii)(B)(*3*) of this section, the term *appraisal summary* means a document that -
+(iv) *Special rules*—(A) *Content of appraisal summary required in certain cases.* With respect to contributions of nonpublicly traded stock described in paragraph (c)(2)(ii)(B)(*1*) of this section, contributions of securities described in paragraph (c)(7)(xi)(B) of this section, and contributions by C corporations described in paragraph (c)(2)(ii)(B)(*3*) of this section, the term *appraisal summary* means a document that—
 
 (*1*) Complies with the requirements of paragraph (c)(4)(i) (A) and (B) of this section,
 
@@ -206,7 +206,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (H) *Failure to attach appraisal summary.* In the event that a donor fails to attach to the donor's return an appraisal summary as required by paragraph (c)(2)(i)(B) of this section, the Internal Revenue Service may request that the donor submit the appraisal summary within 90 days of the request. If such a request is made and the donor complies with the request within the 90-day period, the deduction under section 170 shall not be disallowed for failure to attach the appraisal summary, provided that the donor's failure to attach the appraisal summary was a good faith omission and the requirements of paragraph (c) (3) and (4) of this section are met (including the completion of the qualified appraisal prior to the date specified in paragraph (c)(3)(iv)(B) of this section).
 
-(5) *Qualified appraiser* - (i) *In general.* The term *qualified appraiser* means an individual (other than a person described in paragraph (c)(5)(iv) of this section) who includes on the appraisal summary (described in paragraph (c)(4) of this section), a declaration that -
+(5) *Qualified appraiser*—(i) *In general.* The term *qualified appraiser* means an individual (other than a person described in paragraph (c)(5)(iv) of this section) who includes on the appraisal summary (described in paragraph (c)(4) of this section), a declaration that—
 
 (A) The individual either holds himself or herself out to the public as an appraiser or performs appraisals on a regular basis;
 
@@ -234,7 +234,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (F) An appraiser who is regularly used by any person described in paragraph (c)(5)(iv) (A), (B), or (C) of this section and who does not perform a majority of his or her appraisals made during his or her taxable year for other persons.
 
-(6) *Appraisal fees* - (i) *In general.* Except as otherwise provided in paragraph (c)(6)(ii) of this section, no part of the fee arrangement for a qualified appraisal can be based, in effect, on a percentage (or set of percentages) of the appraised value of the property. If a fee arrangement for an appraisal is based in whole or in part on the amount of the appraised value of the property, if any, that is allowed as a deduction under section 170, after Internal Revenue Service examination or otherwise, it shall be treated as a fee based on a percentage of the appraised value of the property. For example, an appraiser's fee that is subject to reduction by the same percentage as the appraised value may be reduced by the Internal Revenue Service would be treated as a fee that violates this paragraph (c)(6).
+(6) *Appraisal fees*—(i) *In general.* Except as otherwise provided in paragraph (c)(6)(ii) of this section, no part of the fee arrangement for a qualified appraisal can be based, in effect, on a percentage (or set of percentages) of the appraised value of the property. If a fee arrangement for an appraisal is based in whole or in part on the amount of the appraised value of the property, if any, that is allowed as a deduction under section 170, after Internal Revenue Service examination or otherwise, it shall be treated as a fee based on a percentage of the appraised value of the property. For example, an appraiser's fee that is subject to reduction by the same percentage as the appraised value may be reduced by the Internal Revenue Service would be treated as a fee that violates this paragraph (c)(6).
 
 (ii) *Exception.* Paragraph (c)(6)(i) of this section does not apply to a fee paid to a generally recognized association that regulates appraisers provided all of the following requirements are met:
 
@@ -244,7 +244,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (C) The fee arrangement is not based in whole or in part on the amount of the appraised value of the donated property, if any, that is allowed as a deduction under section 170 after Internal Revenue Service examination or otherwise.
 
-(7) *Meaning of terms.* For purposes of this paragraph (c) -
+(7) *Meaning of terms.* For purposes of this paragraph (c)—
 
 (i) *Closely held corporation.* The term *closely held corporation* means any corporation (other than an S corporation) with respect to which the stock ownership requirement of paragraph (2) of section 542(a) of the Code is met.
 
@@ -254,7 +254,7 @@ A letter or other written communication from the donee acknowledging receipt of 
 
 (iv) *Donor.* The term *donor* means a person or entity (other than an organization described in section 170(c) to which the donated property was previously contributed) that makes a charitable contribution of property.
 
-(v) *Donee.* The term *donee* means -
+(v) *Donee.* The term *donee* means—
 
 (A) Except as provided in paragraph (c)(7)(v) (B) and (C) of this section, an organization described in section 170(c) to which property is contributed,
 
@@ -274,7 +274,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (x) *Nonpublicly traded stock.* The term *nonpublicly traded stock* means any stock of a corporation (evidence by a stock certificate) which is not a publicly traded security. The term stock does not include a debenture or any other evidence of indebtedness.
 
-(xi) *Publicly traded securities* - (A) *In general.* Except as provided in paragraph (c)(7)(xi)(C) of this section, the term *publicly traded securities* means securities (within the meaning of section 165(g)(2) of the Code) for which (as of the date of the contribution) market quotations are readily available on an established securities market. For purposes of this section, market quotations are readily available on an established securities market with respect to a security if:
+(xi) *Publicly traded securities*—(A) *In general.* Except as provided in paragraph (c)(7)(xi)(C) of this section, the term *publicly traded securities* means securities (within the meaning of section 165(g)(2) of the Code) for which (as of the date of the contribution) market quotations are readily available on an established securities market. For purposes of this section, market quotations are readily available on an established securities market with respect to a security if:
 
 (*1*) The security is listed on the New York Stock Exchange, the American Stock Exchange, or any city or regional exchange in which quotations are published on a daily basis, including foreign securities listed on a recognized foreign, national, or regional exchange in which quotations are published on a daily basis;
 
@@ -284,7 +284,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (If the market value of an issue of a security is reflected only on an interdealer quotation system, the issue shall not be considered to be publicly traded unless the special rule described in paragraph (c)(7)(xi)(B) of this section is satisfied.)
 
-(B) *Special rule* - (*1*) *In General.* An issue of a security that does not satisfy the requirements of paragraph (c)(7)(xi)(A) (*1*), (*2*), or (*3*) of this section shall nonetheless be considered to have market quotations readily available on an established securities market for purposes of paragraph (c)(7)(xi)(A) of this section if all of the following five requirements are met:
+(B) *Special rule*—(*1*) *In General.* An issue of a security that does not satisfy the requirements of paragraph (c)(7)(xi)(A) (*1*), (*2*), or (*3*) of this section shall nonetheless be considered to have market quotations readily available on an established securities market for purposes of paragraph (c)(7)(xi)(A) of this section if all of the following five requirements are met:
 
 (*i*) The issue is regularly traded during the computational period (as defined in paragraph (c)(7)(xi)(B)(*2*)(*iv*) of this section) in a market that is reflected by the existence of an interdealer quotation system for the issue,
 
@@ -296,7 +296,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (*v*) The issuer or its agent permits the Internal Revenue Service to review the books and records described in paragraph (c)(7)(xi)(B)(*1*)(*iv*) of this section with respect to transactions during the computational period upon giving reasonable notice to the issuer or agent.
 
-(*2*) *Definitions.* For purposes of this paragraph (c)(7)(xi)(B) -
+(*2*) *Definitions.* For purposes of this paragraph (c)(7)(xi)(B)—
 
 (*i*) *Issue of a security.* The term *issue of a security* means a class of debt securities with the same obligor and identical terms except as to their relative denominations (amounts) or a class of stock having identical rights.
 
@@ -306,7 +306,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (*iv*) *Computational period.* For calendar quarters beginning on or after June 6, 1988, the term *computational period* means weekly during October through December (beginning with the first Monday in October and ending with the first Sunday following the last Monday in December) and monthly during January through September (beginning January 1). For calendar quarters beginning before June 6, 1988, the term *computational period* means weekly during October through December and monthly during January through September.
 
-(C) *Exception.* Securities described in paragraph (c)(7)(xi) (A) or (B) of this section shall not be considered publicly traded securities if -
+(C) *Exception.* Securities described in paragraph (c)(7)(xi) (A) or (B) of this section shall not be considered publicly traded securities if—
 
 (*1*) The securities are subject to any restrictions that materially affect the value of the securities to the donor or prevent the securities from being freely traded, or
 
@@ -314,7 +314,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (D) *Market quotations and fair market value.* The fair market value of a publicly traded security, as defined in this paragraph (c)(7)(xi), is not necessarily equal to its market quotation, its average trading price (as defined in paragraph (c)(7)(xi)(B)(*2*)(*iii*) of this section), or its face value, if any. See section 1.170A-1(c)(2) for the definition of *fair market value.*
 
-(d) *Charitable contributions; information required in support of deductions for taxable years beginning before January 1, 1983* - (1) *In general.* This paragraph (d)(1) shall apply to deductions for charitable contributions made in taxable years beginning before January 1, 1983. At the option of the taxpayer the requirements of this paragraph (d)(1) shall also apply to all charitable contributions made on or before December 31, 1984 (in lieu of the requirements of paragraphs (a) and (b) of this section). In connection with claims for deductions for charitable contributions, taxpayers shall state in their income tax returns the name of each organization to which a contribution was made and the amount and date of the actual payment of each contribution. If a contribution is made in property other than money, the taxpayer shall state the kind of property contributed, for example, used clothing, paintings, or securities, the method utilized in determining the fair market value of the property at the time the contribution was made, and whether or not the amount of the contribution was reduced under section 170(e). If a taxpayer makes more than one cash contribution to an organization during the taxable year, then in lieu of listing each cash contribution and the date of payment the taxpayer may state the total cash payments made to such organization during the taxable year. A taxpayer who elects under paragraph (d)(2) of § 1.170A-8 to apply section 170(e)(1) to his contributions and carryovers of 30-percent capital gain property must file a statement with his return indicating that he has made the election and showing the contributions in the current year and carryovers from preceding years to which it applies. For the definition of the term *30-percent capital gain property,* see paragraph (d)(3) of § 1.170A-8.
+(d) *Charitable contributions; information required in support of deductions for taxable years beginning before January 1, 1983*—(1) *In general.* This paragraph (d)(1) shall apply to deductions for charitable contributions made in taxable years beginning before January 1, 1983. At the option of the taxpayer the requirements of this paragraph (d)(1) shall also apply to all charitable contributions made on or before December 31, 1984 (in lieu of the requirements of paragraphs (a) and (b) of this section). In connection with claims for deductions for charitable contributions, taxpayers shall state in their income tax returns the name of each organization to which a contribution was made and the amount and date of the actual payment of each contribution. If a contribution is made in property other than money, the taxpayer shall state the kind of property contributed, for example, used clothing, paintings, or securities, the method utilized in determining the fair market value of the property at the time the contribution was made, and whether or not the amount of the contribution was reduced under section 170(e). If a taxpayer makes more than one cash contribution to an organization during the taxable year, then in lieu of listing each cash contribution and the date of payment the taxpayer may state the total cash payments made to such organization during the taxable year. A taxpayer who elects under paragraph (d)(2) of § 1.170A-8 to apply section 170(e)(1) to his contributions and carryovers of 30-percent capital gain property must file a statement with his return indicating that he has made the election and showing the contributions in the current year and carryovers from preceding years to which it applies. For the definition of the term *30-percent capital gain property,* see paragraph (d)(3) of § 1.170A-8.
 
 (2) *Contribution by individual of property other than money.* This paragraph (d)(2) shall apply to deductions for charitable contributions made in taxable years beginning before January 1, 1983. At the option of the taxpayer, the requirements of this paragraph (d)(2) shall also apply to contributions of property made on or before December 31, 1984 (in lieu of the requirements of paragraph (b) of this section). If an individual taxpayer makes a charitable contribution of an item of property other than money and claims a deduction in excess of $200 in respect of his contribution of such item, he shall attach to his income tax return the following information with respect to such item:
 
@@ -346,9 +346,9 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (e) [Reserved]
 
-(f) *Substantiation of charitable contributions of $250 or more* - (1) *In general.* No deduction is allowed under section 170(a) for all or part of any contribution of $250 or more unless the taxpayer substantiates the contribution with a contemporaneous written acknowledgment from the donee organization. A taxpayer who makes more than one contribution of $250 or more to a donee organization in a taxable year may substantiate the contributions with one or more contemporaneous written acknowledgments. Section 170(f)(8) does not apply to a payment of $250 or more if the amount contributed (as determined under § 1.170A-1(h)) is less than $250. Separate contributions of less than $250 are not subject to the requirements of section 170(f)(8), regardless of whether the sum of the contributions made by a taxpayer to a donee organization during a taxable year equals $250 or more.
+(f) *Substantiation of charitable contributions of $250 or more*—(1) *In general.* No deduction is allowed under section 170(a) for all or part of any contribution of $250 or more unless the taxpayer substantiates the contribution with a contemporaneous written acknowledgment from the donee organization. A taxpayer who makes more than one contribution of $250 or more to a donee organization in a taxable year may substantiate the contributions with one or more contemporaneous written acknowledgments. Section 170(f)(8) does not apply to a payment of $250 or more if the amount contributed (as determined under § 1.170A-1(h)) is less than $250. Separate contributions of less than $250 are not subject to the requirements of section 170(f)(8), regardless of whether the sum of the contributions made by a taxpayer to a donee organization during a taxable year equals $250 or more.
 
-(2) *Written acknowledgment.* Except as otherwise provided in paragraphs (f)(8) through (f)(11) and (f)(13) of this section, a written acknowledgment from a donee organization must provide the following information -
+(2) *Written acknowledgment.* Except as otherwise provided in paragraphs (f)(8) through (f)(11) and (f)(13) of this section, a written acknowledgment from a donee organization must provide the following information—
 
 (i) The amount of any cash the taxpayer paid and a description (but not necessarily the value) of any property other than cash the taxpayer transferred to the donee organization;
 
@@ -358,7 +358,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (iv) If the donee organization provides any intangible religious benefits, a statement to that effect.
 
-(3) *Contemporaneous.* A written acknowledgment is contemporaneous if it is obtained by the taxpayer on or before the earlier of -
+(3) *Contemporaneous.* A written acknowledgment is contemporaneous if it is obtained by the taxpayer on or before the earlier of—
 
 (i) The date the taxpayer files the original return for the taxable year in which the contribution was made; or
 
@@ -370,13 +370,13 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (6) *In consideration for.* A donee organization provides goods or services in consideration for a taxpayer's payment if, at the time the taxpayer makes the payment to the donee organization, the taxpayer receives or expects to receive goods or services in exchange for that payment. Goods or services a donee organization provides in consideration for a payment by a taxpayer include goods or services provided in a year other than the year in which the taxpayer makes the payment to the donee organization.
 
-(7) *Good faith estimate.* For purposes of this section, good faith estimate means a donee organization's estimate of the fair market value of any goods or services, without regard to the manner in which the organization in fact made that estimate. See § 1.170A-1(h)(5) for rules regarding when a taxpayer may treat a donee organization's estimate of the value of goods or services as the fair market value.
+(7) *Good faith estimate.* For purposes of this section, good faith estimate means a donee organization's estimate of the fair market value of any goods or services, without regard to the manner in which the organization in fact made that estimate. See § 1.170A-1(h)(6) for rules regarding when a taxpayer may treat a donee organization's estimate of the value of goods or services as the fair market value.
 
-(8) *Certain goods or services disregarded* - (i) *In general.* For purposes of section 170(f)(8), the following goods or services are disregarded -
+(8) *Certain goods or services disregarded*—(i) *In general.* For purposes of section 170(f)(8), the following goods or services are disregarded—
 
 (A) Goods or services that have insubstantial value under the guidelines provided in Revenue Procedures 90-12, 1990-1 C.B. 471, 92-49, 1992-1 C.B. 987, and any successor documents. (See § 601.601(d)(2)(ii) of the Statement of Procedural Rules, 26 CFR part 601.); and
 
-(B) Annual membership benefits offered to a taxpayer in exchange for a payment of $75 or less per year that consist of -
+(B) Annual membership benefits offered to a taxpayer in exchange for a payment of $75 or less per year that consist of—
 
 (*1*) Any rights or privileges, other than those described in section 170(l), that the taxpayer can exercise frequently during the membership period. Examples of such rights and privileges may include, but are not limited to, free or discounted admission to the organization's facilities or events, free or discounted parking, preferred access to goods or services, and discounts on the purchase of goods or services; and
 
@@ -386,7 +386,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 Example 1. Membership benefits disregarded.Performing Arts Center *E* is an organization described in section 170(c). In return for a payment of $75, *E* offers a package of basic membership benefits that includes the right to purchase tickets to performances one week before they go on sale to the general public, free parking in *E*'s garage during evening and weekend performances, and a 10% discount on merchandise sold in *E*'s gift shop. In return for a payment of $150, *E* offers a package of preferred membership benefits that includes all of the benefits in the $75 package as well as a poster that is sold in *E*'s gift shop for $20. The basic membership and the preferred membership are each valid for twelve months, and there are approximately 50 performances of various productions at *E* during a twelve-month period. *E*'s gift shop is open for several hours each week and at performance times. *F,* a patron of the arts, is solicited by *E* to make a contribution. *E* offers *F* the preferred membership benefits in return for a payment of $150 or more. *F* makes a payment of $300 to *E. F* can satisfy the substantiation requirement of section 170(f)(8) by obtaining a contemporaneous written acknowledgment from *E* that includes a description of the poster and a good faith estimate of its fair market value ($20) and disregards the remaining membership benefits.Example 2. Contemporaneous written acknowledgment need not mention rights or privileges that can be disregarded.The facts are the same as in Example 1, except that *F* made a payment of $300 and received only a basic membership. *F* can satisfy the section 170(f)(8) substantiation requirement with a contemporaneous written acknowledgment stating that no goods or services were provided.Example 3. Rights or privileges that cannot be exercised frequently.Community Theater Group *G* is an organization described in section 170(c). Every summer, *G* performs four different plays. Each play is performed two times. In return for a membership fee of $60, *G* offers its members free admission to any of its performances. Non-members may purchase tickets on a performance by performance basis for $15 a ticket. *H,* an individual who is a sponsor of the theater, is solicited by *G* to make a contribution. *G* tells *H* that the membership benefit will be provided in return for any payment of $60 or more. *H* chooses to make a payment of $350 to *G* and receives in return the membership benefit. *G*'s membership benefit of free admission is not described in paragraph (f)(8)(i)(B) of this section because it is not a privilege that can be exercised frequently (due to the limited number of performances offered by *G*). Therefore, to meet the requirements of section 170(f)(8), a contemporaneous written acknowledgment of *H*'s $350 payment must include a description of the free admission benefit and a good faith estimate of its value.Example 4. Multiple memberships.In December of each year, *K,* an individual, gives each of her six grandchildren a junior membership in Dinosaur Museum, an organization described in section 170(c). Each junior membership costs $50, and *K* makes a single payment of $300 for all six memberships. A junior member is entitled to free admission to the museum and to weekly films, slide shows, and lectures about dinosaurs. In addition, each junior member receives a bi-monthly, non-commercial quality newsletter with information about dinosaurs and upcoming events. *K*'s contemporaneous written acknowledgment from Dinosaur Museum may state that no goods or services were provided in exchange for *K*'s payment.
 
-(9) *Goods or services provided to employees or partners of donors* - (i) *Certain goods or services disregarded.* For purposes of section 170(f)(8), goods or services provided by a donee organization to employees of a donor, or to partners of a partnership that is a donor, in return for a payment to the organization may be disregarded to the extent that the goods or services provided to each employee or partner are the same as those described in paragraph (f)(8)(i) of this section.
+(9) *Goods or services provided to employees or partners of donors*—(i) *Certain goods or services disregarded.* For purposes of section 170(f)(8), goods or services provided by a donee organization to employees of a donor, or to partners of a partnership that is a donor, in return for a payment to the organization may be disregarded to the extent that the goods or services provided to each employee or partner are the same as those described in paragraph (f)(8)(i) of this section.
 
 (ii) *No good faith estimate required for other goods or services.* If a taxpayer makes a contribution of $250 or more to a donee organization and, in return, the donee organization offers the taxpayer's employees or partners goods or services other than those described in paragraph (f)(9)(i) of this section, the contemporaneous written acknowledgment of the taxpayer's contribution is not required to include a good faith estimate of the value of such goods or services but must include a description of those goods or services.
 
@@ -394,11 +394,11 @@ Example 1. Membership benefits disregarded.Performing Arts Center *E* is an orga
 
 Example.Museum *J* is an organization described in section 170(c). For a payment of $40, *J* offers a package of basic membership benefits that includes free admission and a 10% discount on merchandise sold in *J*'s gift shop. *J*'s other membership categories are for supporters who contribute $100 or more. Corporation *K* makes a payment of $50,000 to *J* and, in return, *J* offers *K*'s employees free admission for one year, a tee-shirt with *J*'s logo that costs *J* $4.50, and a gift shop discount of 25% for one year. The free admission for *K*'s employees is the same as the benefit made available to holders of the $40 membership and is otherwise described in paragraph (f)(8)(i)(B) of this section. The tee-shirt given to each of *K*'s employees is described in paragraph (f)(8)(i)(A) of this section. Therefore, the contemporaneous written acknowledgment of *K*'s payment is not required to include a description or good faith estimate of the value of the free admission or the tee-shirts. However, because the gift shop discount offered to *K*'s employees is different than that offered to those who purchase the $40 membership, the discount is not described in paragraph (f)(8)(i) of this section. Therefore, the contemporaneous written acknowledgment of *K*'s payment is required to include a description of the 25% discount offered to *K*'s employees.
 
-(10) *Substantiation of out-of-pocket expenses.* A taxpayer who incurs unreimbursed expenditures incident to the rendition of services, within the meaning of § 1.170A-1(g), is treated as having obtained a contemporaneous written acknowledgment of those expenditures if the taxpayer -
+(10) *Substantiation of out-of-pocket expenses.* A taxpayer who incurs unreimbursed expenditures incident to the rendition of services, within the meaning of § 1.170A-1(g), is treated as having obtained a contemporaneous written acknowledgment of those expenditures if the taxpayer—
 
 (i) Has adequate records under paragraph (a) of this section to substantiate the amount of the expenditures; and
 
-(ii) Obtains by the date prescribed in paragraph (f)(3) of this section a statement prepared by the donee organization containing -
+(ii) Obtains by the date prescribed in paragraph (f)(3) of this section a statement prepared by the donee organization containing—
 
 (A) A description of the services provided by the taxpayer;
 
@@ -406,7 +406,7 @@ Example.Museum *J* is an organization described in section 170(c). For a payment
 
 (C) The information required by paragraphs (f)(2) (iii) and (iv) of this section.
 
-(11) *Contributions made by payroll deduction* - (i) *Form of substantiation.* A contribution made by means of withholding from a taxpayer's wages and payment by the taxpayer's employer to a donee organization may be substantiated, for purposes of section 170(f)(8), by both -
+(11) *Contributions made by payroll deduction*—(i) *Form of substantiation.* A contribution made by means of withholding from a taxpayer's wages and payment by the taxpayer's employer to a donee organization may be substantiated, for purposes of section 170(f)(8), by both—
 
 (A) A pay stub, Form W-2, or other document furnished by the employer that sets forth the amount withheld by the employer for the purpose of payment to a donee organization; and
 
@@ -424,7 +424,7 @@ Example.Museum *J* is an organization described in section 170(c). For a payment
 
 (16) *Purchase of an annuity.* If a taxpayer purchases an annuity from a charitable organization and claims a charitable contribution deduction of $250 or more for the excess of the amount paid over the value of the annuity, the contemporaneous written acknowledgment must state whether any goods or services in addition to the annuity were provided to the taxpayer. The contemporaneous written acknowledgment is not required to include a good faith estimate of the value of the annuity. See § 1.170A-1(d)(2) for guidance in determining the value of the annuity.
 
-(17) *Substantiation of matched payments* - (i) *In general.* For purposes of section 170, if a taxpayer's payment to a donee organization is matched, in whole or in part, by another payor, and the taxpayer receives goods or services in consideration for its payment and some or all of the matching payment, those goods or services will be treated as provided in consideration for the taxpayer's payment and not in consideration for the matching payment.
+(17) *Substantiation of matched payments*—(i) *In general.* For purposes of section 170, if a taxpayer's payment to a donee organization is matched, in whole or in part, by another payor, and the taxpayer receives goods or services in consideration for its payment and some or all of the matching payment, those goods or services will be treated as provided in consideration for the taxpayer's payment and not in consideration for the matching payment.
 
 (ii) *Example.* The following example illustrates the rules of this paragraph (f)(17).
 
@@ -432,4 +432,4 @@ Example.Taxpayer makes a $400 payment to Charity *L,* a donee organization. Purs
 
 (18) *Effective date.* This paragraph (f) applies to contributions made on or after December 16, 1996. However, taxpayers may rely on the rules of this paragraph (f) for contributions made on or after January 1, 1994.
 
-[T.D. 8002, 49 FR 50664, 50666, Dec. 31, 1984, as amended by T.D. 8003, 49 FR 50659, Dec. 31, 1984; T.D. 8199, 53 FR 16080, May 5, 1988; 53 FR 18372, May 23, 1988; T.D. 8623, 60 FR 53128, Oct. 12, 1995; T.D. 8690, 61 FR 65952, Dec. 16, 1996; T.D. 9864, 84 FR 27530, June 13, 2019]
+[T.D. 8002, 49 FR 50664, 50666, Dec. 31, 1984, as amended by T.D. 8003, 49 FR 50659, Dec. 31, 1984; T.D. 8199, 53 FR 16080, May 5, 1988; 53 FR 18372, May 23, 1988; T.D. 8623, 60 FR 53128, Oct. 12, 1995; T.D. 8690, 61 FR 65952, Dec. 16, 1996; T.D. 9864, 84 FR 27530, June 13, 2019; T.D. 9907, 85 FR 48474, Aug. 11, 2020]

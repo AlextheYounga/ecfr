@@ -138,7 +138,7 @@ The Department is making explicit its preexisting understanding of § 251.56(a)(
 
 (*3*) The authorized officer has failed to respond to the request in accordance with the specified timeframe in the approved operating plan or agreement.
 
-(B) *Emergency vegetation management.* Emergency vegetation management does not require prior written approval from the authorized officer. The owner or operator shall notify the authorized officer in writing of the location and quantity of the emergency vegetation management within 24 hours of completion;
+(B) *Emergency vegetation management.* Emergency vegetation management does not require prior written approval from the authorized officer. The owner or operator shall notify the authorized officer in writing of the location and quantity of the emergency vegetation management within 24 hours of initiating the response;
 
 (ix) Include the following procedures for modification of an approved operating plan or agreement:
 
@@ -180,4 +180,4 @@ The Department is making explicit its preexisting understanding of § 251.56(a)(
 
 (vi) Provide for prompt and timely review of requests to conduct routine vegetation management.
 
-[45 FR 38327, June 6, 1980, as amended at 49 FR 46895, Nov. 29, 1984; 54 FR 22594, May 25, 1989; 60 FR 45294, Aug. 30, 1995; 63 FR 65967, Nov. 30, 1998; 64 FR 48960, Sept. 9, 1999; 85 FR 41393, July 10, 2020]
+[45 FR 38327, June 6, 1980, as amended at 49 FR 46895, Nov. 29, 1984; 54 FR 22594, May 25, 1989; 60 FR 45294, Aug. 30, 1995; 63 FR 65967, Nov. 30, 1998; 64 FR 48960, Sept. 9, 1999; 85 FR 41393, July 10, 2020; 85 FR 48476, Aug. 11, 2020]

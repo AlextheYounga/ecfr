@@ -28,7 +28,7 @@
 
 *Lease -* a type of special use authorization (usually granted for uses other than linear rights-of-way) that is used when substantial capital investment is required and when conveyance of a conditional and transferable interest in National Forest System lands is necessary or desirable to serve or facilitate authorized long-term uses, and that may be revocable and compensable according to its terms.
 
-*Linear right-of-way* - an authorized right-of-way for a linear facility, such as a road, trail, pipeline, electric transmission line, fence, water transmission facility, or fiber optic cable, whose linear boundary is delineated by its legal description.
+*Linear right-of-way* - an authorized right-of-way for a linear facility, such as a road, trail, pipeline, powerline facility, fence, water transmission facility, or fiber optic cable, whose linear boundary is delineated by its legal description.
 
 *Maintenance.* (1) *Emergency maintenance* - immediate repair or replacement of any component of a powerline facility that is necessary to prevent imminent loss, or to redress the loss, of electric service due to equipment failure in accordance with applicable reliability and safety standards and as identified in an approved operating plan or agreement.
 
@@ -92,4 +92,4 @@
 
 (2) *Non-emergency (routine) vegetation management* - planned actions as described in an operating plan or agreement periodically taken to remove vegetation, in whole or in part, on National Forest System lands within the linear boundary of a special use authorization for a powerline facility and on abutting National Forest System lands to remove or prune hazard trees to ensure normal powerline facility operations and to prevent wildfire in accordance with applicable reliability and safety standards and as identified in an approved operating plan or agreement.
 
-[45 FR 38327, June 6, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22593, May 25, 1989; 60 FR 45293, Aug. 30, 1995; 60 FR 54409, Oct. 23, 1995; 63 FR 65964, Nov. 30, 1998; 69 FR 41965, July 13, 2004; 70 FR 68290, Nov. 9, 2005; 71 FR 8913, Feb. 21, 2006; 71 FR 16621, Apr. 3, 2006; 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 78 FR 38843, June 28, 2013; 85 FR 41392, July 10, 2020]
+[45 FR 38327, June 6, 1980, as amended at 49 FR 25449, June 21, 1984; 53 FR 16550, May 10, 1988; 54 FR 22593, May 25, 1989; 60 FR 45293, Aug. 30, 1995; 60 FR 54409, Oct. 23, 1995; 63 FR 65964, Nov. 30, 1998; 69 FR 41965, July 13, 2004; 70 FR 68290, Nov. 9, 2005; 71 FR 8913, Feb. 21, 2006; 71 FR 16621, Apr. 3, 2006; 74 FR 68381, Dec. 24, 2009; 78 FR 33725, June 5, 2013; 78 FR 38843, June 28, 2013; 85 FR 41392, July 10, 2020; 85 FR 48476, Aug. 11, 2020]
