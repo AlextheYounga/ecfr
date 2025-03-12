@@ -1,7 +1,5 @@
 ##### § 17.73 Special rules—flowering plants. #####
 
-Link to an amendment published at 88 FR 30057, May 10, 2023.
-
 (a) *Graptopetalum bartramii* (Bartram's stonecrop)—(1) *Prohibitions.* The following prohibitions apply to *Graptopetalum bartramii,* except as provided under paragraph (a)(2) of this section:
 
 (i) *Import or export.* It is unlawful to import or to export any *Graptopetalum bartramii.* Any shipment in transit through the United States is an importation and an exportation, whether or not it has entered the country for customs purposes.
@@ -68,7 +66,13 @@ Link to an amendment published at 88 FR 30057, May 10, 2023.
 
 (ii) Any employee or agent of the Service or of a State conservation agency that is operating a conservation program pursuant to the terms of a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by that agency for such purposes, may, when acting in the course of official duties, remove and reduce to possession from areas under Federal jurisdiction members of the Wright's marsh thistle that are covered by an approved cooperative agreement to carry out conservation programs.
 
-(d) [Reserved]
+(d) *Pedicularis furbishiae* (Furbish's lousewort)—(1) *Prohibitions.* Except as provided under paragraph (d)(2) of this section, you may not remove and reduce to possession the species from areas under Federal jurisdiction; maliciously damage or destroy the species on any such area; or remove, cut, dig up, or damage or destroy the species on any other area in knowing violation of any law or regulation of any State or in the course of any violation of a State criminal trespass law.
+
+(2) *Exceptions from prohibitions.* The following exceptions from the prohibitions apply to this species:
+
+(i) You may conduct activities authorized by permit under § 17.72.
+
+(ii) Qualified employees or agents of the Service or a State conservation agency may conduct activities authorized under § 17.71(b).
 
 (e) *Eugenia woodburyana* (no common name).
 
@@ -152,4 +156,4 @@ Link to an amendment published at 88 FR 30057, May 10, 2023.
 
 (iii) You may engage in any act prohibited under paragraph (h)(1) of this section with seeds of cultivated specimens, provided that a statement that the seeds are of “cultivated origin” accompanies the seeds or their container.
 
-[86 FR 48568, Aug. 31, 2021, as amended at 87 FR 18738, Mar. 31, 2022; 87 FR 40114, July 6, 2022; 87 FR 66607, Nov. 4, 2022; 87 FR 74012, Dec. 2, 2022; 88 FR 21866, Apr. 11, 2023; 88 FR 25238, Apr. 25, 2023]
+[86 FR 48568, Aug. 31, 2021, as amended at 87 FR 18738, Mar. 31, 2022; 87 FR 40114, July 6, 2022; 87 FR 66607, Nov. 4, 2022; 87 FR 74012, Dec. 2, 2022; 88 FR 21866, Apr. 11, 2023; 88 FR 25238, Apr. 25, 2023; 88 FR 30057, May 10, 2023]

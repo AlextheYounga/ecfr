@@ -2,22 +2,16 @@
 
 As prescribed in 225.7022-5(b), use the following clause:
 
-Prohibition on Certain Procurements From the Xinjiang Uyghur Autonomous Region (JAN 2023)
+Prohibition on Certain Procurements From the Xinjiang Uyghur Autonomous Region (Jun 2023)
 
 (a) *Definitions.* As used in this clause—
 
-*Forced Labor* means all work or service which is exacted from any person under the menace of any penalty for its nonperformance and for which the worker does not offer themselves voluntarily.
+*Forced labor* means any work or service that is exacted from any person under the menace of any penalty for nonperformance and that the worker does not offer to perform (10 U.S.C. 2496).
 
-*Person* means—
+*XUAR* means the Xinjiang Uyghur Autonomous Region of the People's Republic of China (10 U.S.C. 2496).
 
-(1) A natural person, corporation, company, business association, partnership, society, trust, or any other nongovernmental entity, organization, or group; or
+(b) *Prohibition.* In accordance with 10 U.S.C. 4661, none of the funds appropriated or otherwise made available for DoD may be used to knowingly procure any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR. The Contractor shall make a good faith effort to determine that forced labor from XUAR will not be used in the performance of this contract (section 855, Pub. L. 117-263).
 
-(2) Any successor, subunit, parent entity, or subsidiary of, or any entity under common ownership or control with, any entity described in paragraph (1) of this definition.
+(c) *Subcontracts.* The Contractor shall insert this clause, including this paragraph (c), without alteration other than to identify the appropriate parties, in subcontracts including subcontracts for commercial products, commercial services, and commercially available off-the-shelf items.
 
-*XUAR* means the Xinjiang Uyghur Autonomous Region of the People's Republic of China.
-
-(b) *Prohibition.* The Contractor shall not provide any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR as part of any forced labor programs throughout the entire period of performance of the contract.
-
-(c) *Subcontracts.* The Contractor shall insert this clause, including this paragraph (c), without alteration other than to identify the appropriate parties, in subcontracts including subcontracts for commercial products, commercially available off-the-shelf items, and commercial services.
-
-(End of clause)[87 FR 76984, Dec. 16, 2022, as amended at 88 FR 6593, Jan. 31, 2023]
+(End of clause)[87 FR 76984, Dec. 16, 2022, as amended at 88 FR 6593, Jan. 31, 2023; 88 FR 37797, June 9, 2023]
