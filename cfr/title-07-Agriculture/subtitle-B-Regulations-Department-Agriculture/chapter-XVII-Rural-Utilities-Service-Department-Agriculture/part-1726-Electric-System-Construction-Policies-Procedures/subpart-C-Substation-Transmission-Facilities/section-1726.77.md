@@ -1,5 +1,7 @@
 ##### § 1726.77 Substation and transmission line construction. #####
 
+Link to an amendment published at 86 FR 36198, July 9, 2021.
+
 (a) *Contract forms.* The borrower must use RUS Form 830, Electric System Construction Contract - Project Construction, for construction of substations, except for minor modifications or improvements.
 
 (b) *Procurement procedures.* (1) It is the responsibility of each borrower to determine the procurement method that best meets its needs to award contracts not requiring RUS approval in amounts of up to a cumulative total of $750,000 or one percent of NUP (not to exceed $5,000,000), whichever is greater, per calendar year of substation and transmission line construction (including minor modifications or improvements), exclusive of the cost of owner furnished materials and equipment.

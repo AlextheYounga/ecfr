@@ -50,9 +50,7 @@ Prohibition on the Acquisition of Covered Defense Telecommunications Equipment o
 
 (c) *Procedures.* The Contractor shall review the list of excluded parties in the System for Award Management (SAM) at *https://www.sam.gov* for entities that are excluded when providing any equipment, system, or service, to carry out covered missions, that uses covered defense telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless a waiver is granted.
 
-(d) *Reporting.*
-
-(1) In the event the Contractor identifies covered defense telecommunications equipment or services used as a substantial or essential component of any system, or as critical technology as part of any system, during contract performance, the Contractor shall report at *https://dibnet.dod.mil* the information in paragraph (d)(2) of this clause.
+(d) *Reporting.* (1) In the event the Contractor identifies covered defense telecommunications equipment or services used as a substantial or essential component of any system, or as critical technology as part of any system, during contract performance, the Contractor shall report at *https://dibnet.dod.mil* the information in paragraph (d)(2) of this clause.
 
 (2) The Contractor shall report the following information pursuant to paragraph (d)(1) of this clause:
 

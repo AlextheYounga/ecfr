@@ -1,5 +1,7 @@
 ##### § 1717.154 Transitional assistance in connection with new loans. #####
 
+Link to an amendment published at 86 FR 36197, July 9, 2021.
+
 Requests for transitional assistance in connection with new loans may be submitted to RUS no later than the loan application.
 
 (a) *Loan processing priority.* (1) RUS loans are generally processed in chronological order based on the date the complete application is received in the regional or division office. At the borrower's request, RUS may offer loan processing priority for the first loan to a successor, provided that the loan is approved by RUS not later than 5 years after the effective date of the merger. In considering the request, the Administrator will take into account, among other factors, the amount of the loan application, whether there is a significant backlog in pending loan applications, the impact that loan priority would have on the backlog, the savings and efficiencies to be realized from the merger and the relative importance of loan priority to facilitating the merger. The Administrator may, in his or her sole discretion, grant or decline to grant priority, or grant priority for a limited amount of the loan application while deferring for later consideration the remainder of the application.

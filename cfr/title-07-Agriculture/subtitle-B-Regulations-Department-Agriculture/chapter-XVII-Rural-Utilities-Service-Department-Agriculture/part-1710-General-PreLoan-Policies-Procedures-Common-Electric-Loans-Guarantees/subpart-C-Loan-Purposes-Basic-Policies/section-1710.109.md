@@ -1,5 +1,7 @@
 ##### § 1710.109 Reimbursement of general funds and interim financing. #####
 
+Link to an amendment published at 86 FR 36196, July 9, 2021.
+
 (a) Borrowers may request that a loan include funds to reimburse general funds and/or replace interim financing used to finance equipment and facilities that were included in an RUS-approved construction work plan, energy efficiency and conservation program work plan, work plan amendment or other RUS-approved plan, and for which loan funds have not been provided by RUS. Such reimbursement and/or replacement of interim financing may include the direct costs of procurement and construction, as well as the related cost of engineering, architectural, environmental and other studies and plans needed to support the project, when such cost is capitalized as part of the cost of the facilities.
 
 (b) If procurement and/or construction of the equipment and facilities was completed prior to the current loan period, reimbursement, including replacement of interim financing, will be limited, except in cases of extreme financial hardship as determined by the Administrator, to the cost of procurement and construction completed during the period immediately preceding the current loan period, as specified in paragraph (c) of this section. As defined in § 1710.2, the loan period begins on the date shown on page 1 of RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers.

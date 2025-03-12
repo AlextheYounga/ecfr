@@ -1,5 +1,7 @@
 ##### § 1726.150 Headquarters buildings. #####
 
+Link to an amendment published at 86 FR 36198, July 9, 2021.
+
 This section includes headquarters buildings such as warehouses and equipment service type buildings. Generating plant buildings are covered under subpart D of this part.
 
 (a) *Contract forms.* The borrower must use RUS Form 257, Contract to Construct Buildings, for all contracts for construction of new headquarters facilities, and additions to, or modifications of existing headquarters facilities (except for minor modifications or improvements).

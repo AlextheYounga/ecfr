@@ -1,5 +1,7 @@
 ##### § 1726.35 Submission of documents to RUS. #####
 
+Link to an amendment published at 86 FR 36197, July 9, 2021.
+
 (a) *Where to send documents.* Documents required to be submitted to RUS under this part are to be sent to the office of the borrower's respective RUS Regional Director, the Power Supply Division Director, or such other office of RUS as designated by RUS (see part 1700 of this chapter.)
 
 (b) *Borrower certification.* When a borrower certification is required by this part, it must be made by the borrower's manager unless the board of directors specifically authorizes another person to make the required certification. In such case, a certified copy of the specific authorizing resolution must accompany the document or be on file with RUS.

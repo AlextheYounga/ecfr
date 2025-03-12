@@ -4,7 +4,7 @@
 
 (2) If any part of the applicant's PFSA is ineligible, RUS, in its sole discretion, may request that an applicant modify its application, if RUS believes the modification is feasible. Otherwise, RUS will reject the application.
 
-(b) *Ineligible service areas.* (1) *Overlapping service areas.* RUS will not fund more than one project that serves any one given geographic area. Invariably, however, applicants will propose service areas that overlap, varying from small *de minimis* areas of the territory, but which may be significant with respect to households involved, to larger areas of the service territory, but which may contain few households or businesses, if any. As a result, devising a procedure that will cover every overlap circumstance is not practicable. Nevertheless, it is the agency's intent to make as many eligible applications viable for consideration as possible. That may mean the agency may:
+(b) *Ineligible service areas*—(1) *Overlapping service areas.* RUS will not fund more than one project that serves any one given geographic area. Invariably, however, applicants will propose service areas that overlap, varying from small *de minimis* areas of the territory, but which may be significant with respect to households involved, to larger areas of the service territory, but which may contain few households or businesses, if any. As a result, devising a procedure that will cover every overlap circumstance is not practicable. Nevertheless, it is the agency's intent to make as many eligible applications viable for consideration as possible. That may mean the agency may:
 
 (i) Determine the overlap to be so insignificant that no agency action is necessary;
 

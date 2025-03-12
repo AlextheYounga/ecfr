@@ -1,5 +1,7 @@
 ##### § 1767.41 Accounting methods and procedures required of all RUS borrowers. #####
 
+Link to an amendment published at 86 FR 36199, July 9, 2021.
+
 All RUS borrowers shall maintain and keep their books of accounts and all other books and records which support the entries in such books of accounts in accordance with the accounting principles prescribed in this section. Interpretations Nos. 133, 134, 137, 403, 404, 602, 606, 618, 627, 628, and 629 adopt and implement the provisions of standards issued by the Financial Accounting Standards Board (FASB). Each interpretation includes a synopsis of the requirements of the standard as well as specific accounting requirements and interpretations required by RUS. The synopsis provides general information to assist borrowers in determining whether the standard applies to an individual cooperative's operations. The synopsis is not intended to change the requirements of the FASB standards unless it is set forth in the section entitled RUS Accounting Requirements in each interpretation. If a particular borrower believes a conflict exists between the FASB standard and an RUS interpretation, the borrower shall contact the Director, PASD, to seek resolution of the issue.
 
 Numerical Index

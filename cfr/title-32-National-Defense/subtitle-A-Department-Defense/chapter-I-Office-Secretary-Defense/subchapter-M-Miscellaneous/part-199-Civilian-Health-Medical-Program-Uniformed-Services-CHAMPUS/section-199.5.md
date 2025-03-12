@@ -1,5 +1,7 @@
 ##### § 199.5 TRICARE Extended Care Health Option (ECHO). #####
 
+Link to an amendment published at 86 FR 36217, July 9, 2021.
+
 (a) *General.* (1) The TRICARE ECHO is essentially a supplemental program to the TRICARE Basic Program. It does not provide acute care nor benefits available through the TRICARE Basic Program.
 
 (2) The purpose of the ECHO is to provide an additional financial resource for an integrated set of services and supplies designed to assist in the reduction of the disabling effects of the ECHO-eligible dependent's qualifying condition. Services include those necessary to maintain, minimize or prevent deterioration of function of an ECHO-eligible dependent.

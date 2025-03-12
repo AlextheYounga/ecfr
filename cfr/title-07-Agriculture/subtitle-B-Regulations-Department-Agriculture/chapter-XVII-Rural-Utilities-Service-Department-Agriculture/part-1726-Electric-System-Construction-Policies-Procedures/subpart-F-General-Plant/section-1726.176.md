@@ -1,5 +1,7 @@
 ##### § 1726.176 Communications and control facilities. #####
 
+Link to an amendment published at 86 FR 36198, July 9, 2021.
+
 This section covers the purchase of microwave and power line carrier communications systems, load control, and supervisory control and data acquisition (SCADA) systems. Mobile radio systems are covered as general plant materials in § 1726.175.
 
 (a) *Power line carrier systems.* Power line carrier equipment will frequently be purchased as part of a substation and will be included in the complete substation plans and specifications. When purchased in this manner, the requirements of subpart C of this part, Substation and Transmission Facilities, will apply. If obtained under a contract for only a power line carrier system, the requirements of paragraph (b) of this section apply.

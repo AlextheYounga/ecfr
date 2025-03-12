@@ -1,5 +1,7 @@
 ##### § 1717.854 Advance approval - 100 percent private financing of distribution, subtransmission and headquarters facilities, and certain other community infrastructure. #####
 
+Link to an amendment published at 86 FR 36197, July 9, 2021.
+
 (a) *Policy.* Requests for a lien accommodation or subordination from distribution borrowers for 100 percent private financing of distribution, subtransmission and headquarters facilities, and for community infrastructure listed in § 1717.852(a)(3), qualify for advance approval by RUS if they meet the conditions of this section and all other applicable provisions of this subpart. Advance approval means RUS will approve these requests once RUS is satisfied that the conditions of this section and all other applicable provisions of this subpart have been met.
 
 (b) *Eligible purposes.* Lien accommodations or subordinations for the financing of distribution, subtransmission, and headquarters facilities and community infrastructure listed in § 1717.852(a)(3) are eligible for advance approval, except those that involve the purchase of existing facilities and associated service territory.

@@ -1,5 +1,7 @@
 ##### § 1710.251 Construction work plans - distribution borrowers. #####
 
+Link to an amendment published at 86 FR 36196, July 9, 2021.
+
 (a) All distribution borrowers must maintain a current CWP covering all new construction, improvements, replacements, and retirements of distribution and transmission plant, and improvements replacements, and retirements of any generation plant. Construction of new generation capacity need not be included in a CWP but must be specified and supported by specific engineering and cost studies. (See § 1710.253.)
 
 (b) A distribution borrower's CWP shall cover a construction period of between 2 and 4 years, and include all facilities to be constructed which are eligible for RUS financing, whether or not RUS financial assistance will be sought or be available for certain facilities. Any RUS financing provided for the facilities will be limited to a 4 year loan period. The construction period covered by a CWP in support of a loan application shall not be shorter than the loan period requested for financing of the facilities.

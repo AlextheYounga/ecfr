@@ -1,6 +1,4 @@
-##### § 17.43 Special rules - amphibians. #####
-
-Link to an amendment published at 86 FR 30728, June 9, 2021.
+##### § 17.43 Special rules—amphibians. #####
 
 (a) San Marcos salamander (*Eurycea nana*). (1) All provisions of § 17.31 apply to this species, except that it may be taken in accordance with applicable State law.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 86 FR 30728, June 9, 2021.
 
 (xi) Control and management of noxious weeds.
 
-(d) California red-legged frog (*Rana aurora draytonii*) - (1) *Which populations of the California red-legged frog are covered by this special rule?* This rule covers the California red-legged frog (*Rana aurora draytonii*) rangewide.
+(d) California red-legged frog (*Rana aurora draytonii*)—(1) *Which populations of the California red-legged frog are covered by this special rule?* This rule covers the California red-legged frog (*Rana aurora draytonii*) rangewide.
 
 (2) *What activities are prohibited?* Except as noted in paragraph (d)(3) of this section, all prohibitions of § 17.31 will apply to the California red-legged frog.
 
@@ -76,4 +74,62 @@ Link to an amendment published at 86 FR 30728, June 9, 2021.
 
 (2) *Exemptions from prohibitions.* Incidental take of the Georgetown salamander will not be considered a violation of section 9 of the Act if the take occurs on non-Federal land from regulated activities that are conducted consistent with the water quality protection measures contained in chapter 11.07 and Appendix A of the City of Georgetown (Texas) Unified Development Code (UDC), as endorsed by the U.S. Fish and Wildlife Service.
 
-[40 FR 44415, Sept. 26, 1975, as amended at 45 FR 47363, July 14, 1980; 67 FR 40811, June 13, 2002; 69 FR 47248, Aug. 4, 2004; 71 FR 19293, Apr. 13, 2006; 77 FR 16375, Mar. 20, 2012; 80 FR 47428, Aug. 7, 2015]
+(f) Neuse River waterdog (*Necturus lewisi*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Neuse River waterdog. Except as provided under paragraph (f)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Species restoration efforts by State wildlife agencies, including collection of broodstock, tissue collection for genetic analysis, captive propagation, and subsequent stocking into currently occupied and unoccupied areas within the historical range of the species, and follow-up monitoring.
+
+(B) Channel restoration projects that create natural, physically stable, ecologically functioning streams (or stream and wetland systems) that are reconnected with their groundwater aquifers. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with low shear stress (force of water moving against the channel); bank heights that enable reconnection to the floodplain; a reconnection of surface and groundwater systems, resulting in perennial flows in the channel; riffles and pools composed of existing soil, rock, and wood instead of large imported materials; low compaction of soils within adjacent riparian areas; and inclusion of riparian wetlands. Second- to third-order, headwater streams reconstructed in this way offer suitable habitats for the Neuse River waterdog and contain stable channel features, such as pools, glides, runs, and riffles, which could be used by the species for spawning, rearing, growth, feeding, migration, and other normal behaviors. Prior to restoration action, surveys to determine presence of Neuse River waterdog must be performed, and if located, waterdogs must be relocated prior to project implementation.
+
+(C) Bank stabilization projects that use bioengineering methods to replace pre-existing, bare, eroding stream banks with vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the species. Following these bioengineering methods, stream banks may be stabilized using native species live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native species live fascines (live branch cuttings, usually willows, bound together into long, cigar shaped bundles), or native species brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Native species vegetation includes woody and herbaceous species appropriate for the region and habitat conditions. These methods will not include the sole use of quarried rock (rip-rap) or the use of rock baskets or gabion structures.
+
+(D) Forestry-related activities, including silvicultural practices, forest management work, and fire control tactics, that implement State-approved best management practices. In order for this exception to apply to forestry-related activities, these best management practices must achieve all of the following:
+
+(*1*) Establish a streamside management zone alongside the margins of each waterway.
+
+(*2*) Restrain visible sedimentation caused by the forestry-related activity from entering the waterway.
+
+(*3*) Maintain native groundcover within the streamside management zone of the waterway, and promptly re-establish native groundcover if disturbed.
+
+(*4*) Limit installation of vehicle or equipment crossings of the waterway to only where necessary for the forestry-related activity. Such crossings must:
+
+(*i*) Have erosion and sedimentation control measures installed to divert surface runoff away and restrain visible sediment from entering the waterway;
+
+(*ii*) Allow for movement of aquatic organisms within the waterway; and
+
+(*iii*) Have native groundcover applied and maintained through completion of the forestry-related activity.
+
+(*5*) Prohibit the use of tracked or wheeled vehicles for reforestation site preparation within the streamside management zone of the waterway.
+
+(*6*) Prohibit locating log decks, skid trails, new roads, and portable mill sites in the streamside management zone of the waterway.
+
+(*7*) Prohibit obstruction and impediment of the flow of water within the waterway, caused by direct deposition of debris or soil by the forestry-related activity.
+
+(*8*) Maintain shade over the waterway similar to that observed prior to the forestry-related activity.
+
+(*9*) Prohibit discharge of any solid waste, petroleum, pesticide, fertilizer, or other chemical into the waterway.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+[40 FR 44415, Sept. 26, 1975, as amended at 45 FR 47363, July 14, 1980; 67 FR 40811, June 13, 2002; 69 FR 47248, Aug. 4, 2004; 71 FR 19293, Apr. 13, 2006; 77 FR 16375, Mar. 20, 2012; 80 FR 47428, Aug. 7, 2015; 86 FR 30728, June 9, 2021]

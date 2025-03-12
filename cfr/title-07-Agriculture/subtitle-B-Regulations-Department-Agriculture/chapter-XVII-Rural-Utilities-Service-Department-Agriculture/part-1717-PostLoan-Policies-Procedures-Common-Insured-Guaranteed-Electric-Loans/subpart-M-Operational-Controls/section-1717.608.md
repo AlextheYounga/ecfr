@@ -1,5 +1,7 @@
 ##### § 1717.608 RUS approval of contracts. #####
 
+Link to an amendment published at 86 FR 36197, July 9, 2021.
+
 (a) *Construction contracts and architectural and engineering contracts.* RUS approval of contracts for construction and procurement and for architectural and engineering services is required only when such construction, procurement or services are financed by RUS. Detailed requirements regarding RUS approval of such contracts are set forth in 7 CFR part 1724 for architectural and engineering services, and in 7 CFR part 1726 for construction and procurement.
 
 (b) *Large retail power contracts.* RUS approval of contracts to sell electric power to retail customers is required only if the contract is for longer than 2 years and the kWh sales or kW demand for any year covered by the contract exceeds 25 percent of the borrower's total kWh sales or maximum kW demand for the year immediately preceding execution of the contract. This requirement applies regardless of the source of funding of any plant extensions, additions or improvements that may be involved in connection with the contract.
