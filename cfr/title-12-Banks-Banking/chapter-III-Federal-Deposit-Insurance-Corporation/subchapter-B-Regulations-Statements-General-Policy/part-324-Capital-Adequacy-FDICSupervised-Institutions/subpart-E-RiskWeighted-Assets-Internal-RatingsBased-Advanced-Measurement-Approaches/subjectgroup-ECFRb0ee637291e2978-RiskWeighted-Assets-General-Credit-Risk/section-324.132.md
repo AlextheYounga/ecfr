@@ -1,5 +1,7 @@
 ##### § 324.132 Counterparty credit risk of repo-style transactions, eligible margin loans, and OTC derivative contracts. #####
 
+Link to an amendment published at 85 FR 4434, Jan. 24, 2020.
+
 (a) *Methodologies for collateral recognition.* (1) Instead of an LGD estimation methodology, an FDIC-supervised institution may use the following methodologies to recognize the benefits of financial collateral in mitigating the counterparty credit risk of repo-style transactions, eligible margin loans, collateralized OTC derivative contracts and single product netting sets of such transactions, and to recognize the benefits of any collateral in mitigating the counterparty credit risk of repo-style transactions that are included in an FDIC-supervised institution's VaR-based measure under subpart F of this part:
 
 (i) The collateral haircut approach set forth in paragraph (b)(2) of this section;

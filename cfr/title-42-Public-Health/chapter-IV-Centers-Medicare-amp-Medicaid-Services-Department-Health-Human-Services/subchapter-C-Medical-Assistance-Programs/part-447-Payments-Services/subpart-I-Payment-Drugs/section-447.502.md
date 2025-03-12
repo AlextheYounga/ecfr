@@ -1,7 +1,5 @@
 ##### § 447.502 Definitions. #####
 
-Link to an amendment published at 84 FR 64786, Nov. 25, 2019.
-
 For the purpose of this subpart, the following definitions apply:
 
 *Actual acquisition cost (AAC)* means the agency's determination of the pharmacy providers' actual prices paid to acquire drug products marketed or sold by specific manufacturers.
@@ -124,10 +122,10 @@ For the purpose of this subpart, the following definitions apply:
 
 *Single source drug* means a covered outpatient drug that is produced or distributed under an original NDA approved by FDA and has an approved NDA number issued by FDA, including a drug product marketed by any cross-licensed producers or distributors operating under the NDA. It also includes a covered outpatient drug approved under a biologics license application (BLA), product license application (PLA), establishment license application (ELA), or antibiotic drug application (ADA). For purposes of this definition and the MDR program, an original NDA means an NDA, other than an ANDA, approved by the FDA for marketing, unless CMS determines that a narrow exception applies.
 
-*States* means the 50 States and the District of Columbia and, beginning April 1, 2020, also includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands and American Samoa.
+*States* means the 50 States and the District of Columbia and, beginning April 1, 2022, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands and American Samoa.
 
-*United States* means the 50 States and the District of Columbia and, beginning April 1, 2020, also includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands and American Samoa.
+*United States* means the 50 States and the District of Columbia and, beginning April 1, 2022, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands and American Samoa.
 
 *Wholesaler* means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including but not limited to manufacturers, repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including manufacturer's and distributor's warehouses, chain drug warehouses, and wholesale drug warehouses), independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
 
-[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016]
+[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016; 84 FR 64786, Nov. 25, 2019]

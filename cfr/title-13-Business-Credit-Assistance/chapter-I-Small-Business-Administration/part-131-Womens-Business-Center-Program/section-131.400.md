@@ -1,0 +1,3 @@
+##### § 131.400 Grant administration and cost principles. #####
+
+Upon approval of a WBC's initial or renewal application, the SBA will enter into a cooperative agreement with the recipient organization, setting forth the programmatic and fiscal responsibilities of the recipient organization and the SBA, the scope of the project to be funded, and the budget for the period covered by the cooperative agreement. The WBC program adopts and implements Office of Management and Budget regulations as published and amended in 2 CFR part 200. Additional qualifications or clarifications may be promulgated through the program announcement, a revised notice of award, or the regulatory process.

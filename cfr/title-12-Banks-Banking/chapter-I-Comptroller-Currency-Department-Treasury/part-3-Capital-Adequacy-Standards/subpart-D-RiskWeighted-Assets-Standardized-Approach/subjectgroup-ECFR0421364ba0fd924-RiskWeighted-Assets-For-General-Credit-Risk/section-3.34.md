@@ -1,5 +1,7 @@
 ##### § 3.34 OTC derivative contracts. #####
 
+Link to an amendment published at 85 FR 4402, Jan. 24, 2020.
+
 (a) *Exposure amount* - (1) *Single OTC derivative contract.* Except as modified by paragraph (b) of this section, the exposure amount for a single OTC derivative contract that is not subject to a qualifying master netting agreement is equal to the sum of the national bank's or Federal savings association's current credit exposure and potential future credit exposure (PFE) on the OTC derivative contract.
 
 (i) *Current credit exposure.* The current credit exposure for a single OTC derivative contract is the greater of the mark-to-fair value of the OTC derivative contract or zero.

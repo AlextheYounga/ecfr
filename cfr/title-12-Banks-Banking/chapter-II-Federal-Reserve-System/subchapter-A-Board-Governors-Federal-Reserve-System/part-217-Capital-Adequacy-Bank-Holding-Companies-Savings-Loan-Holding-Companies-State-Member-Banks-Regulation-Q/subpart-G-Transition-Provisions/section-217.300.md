@@ -1,5 +1,7 @@
 ##### § 217.300 Transitions. #####
 
+Link to an amendment published at 85 FR 4429, Jan. 24, 2020.
+
 (a) *Capital conservation and countercyclical capital buffer.* (1) From January 1, 2014 through December 31, 2015, a Board-regulated institution is not subject to limits on distributions and discretionary bonus payments under § 217.11 of subpart B of this part notwithstanding the amount of its capital conservation buffer or any applicable countercyclical capital buffer amount.
 
 (2) Notwithstanding § 217.11, beginning January 1, 2016 through December 31, 2018 a Board-regulated institution's maximum payout ratio shall be determined as set forth in Table 1 to § 217.300.

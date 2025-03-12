@@ -1,5 +1,7 @@
 ##### § 217.134 Guarantees and credit derivatives: PD substitution and LGD adjustment approaches. #####
 
+Link to an amendment published at 85 FR 4419, Jan. 24, 2020.
+
 (a) *Scope.* (1) This section applies to wholesale exposures for which:
 
 (i) Credit risk is fully covered by an eligible guarantee or eligible credit derivative; or

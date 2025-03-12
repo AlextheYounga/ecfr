@@ -2,7 +2,11 @@
 
 (a) *Specifications.* Type A medicated articles containing 45, 60, 90.7, or 110 grams monensin, USP, per pound.
 
-(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (f) of this section.
+
+(1) No. 058198 for use as in paragraph (f) of this section.
+
+(2) No. 016592 for use of a Type A medicated article containing 90.7 grams monensin, USP, per pound as in paragraphs (f)(3), (f)(4)(vi), and (f)(6) of this section.
 
 (c) *Related tolerances.* See § 556.420 of this chapter.
 
@@ -173,7 +177,7 @@
 
 |Monensin in  <br/>grams/ton|                                           Indications for use                                           |                                                                              Limitations                                                                              |Sponsor|
 |---------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-|          (i) 20           |For the prevention of coccidiosis caused by Eimeria crandallis, E. christenseni, and E. ninakohlyakimovae|Feed only to goats being fed in confinement. Do not feed to lactating goats. See paragraph (d)(13) of this section for provisions for monensin liquid Type C goat feeds|058198 |
+|          (i) 20           |For the prevention of coccidiosis caused by Eimeria crandallis, E. christenseni, and E. ninakohlyakimovae|Feed only to goats being fed in confinement. Do not feed to lactating goats. See paragraph (d)(11) of this section for provisions for monensin liquid Type C goat feeds|058198 |
 |      (ii) [Reserved]      |                                                                                                         |                                                                                                                                                                       |       |
 
 (7) Monensin may also be used in combination with:

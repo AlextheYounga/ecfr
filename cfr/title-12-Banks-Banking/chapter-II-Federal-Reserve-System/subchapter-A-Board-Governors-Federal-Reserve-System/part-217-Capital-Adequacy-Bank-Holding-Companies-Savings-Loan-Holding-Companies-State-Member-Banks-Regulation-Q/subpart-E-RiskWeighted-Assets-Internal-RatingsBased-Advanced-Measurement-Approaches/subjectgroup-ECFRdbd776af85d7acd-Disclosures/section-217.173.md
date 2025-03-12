@@ -1,5 +1,7 @@
 ##### § 217.173 Disclosures by certain advanced approaches Board-regulated institutions and Category III Board-regulated institutions. #####
 
+Link to an amendment published at 85 FR 4428, Jan. 24, 2020.
+
 (a)(1) An advanced approaches Board-regulated institution described in § 217.172(b) must make the disclosures described in Tables 1 through 12 to § 217.173.
 
 (2) An advanced approaches Board-regulated institution and a Category III Board-regulated institution that is required to publicly disclose its supplementary leverage ratio pursuant to § 217.172(d) must make the disclosures required under Table 13 to this section unless the Board-regulated institution is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosure requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.

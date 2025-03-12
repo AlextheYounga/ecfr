@@ -1,5 +1,7 @@
 ##### § 217.10 Minimum capital requirements. #####
 
+Link to an amendment published at 85 FR 4416, Jan. 24, 2020.
+
 (a) *Minimum capital requirements.* (1) A Board-regulated institution must maintain the following minimum capital ratios:
 
 (i) A common equity tier 1 capital ratio of 4.5 percent.
@@ -10,8 +12,7 @@
 
 (iv) A leverage ratio of 4 percent.
 
-(v) For advanced approaches Board-regulated institutions or, for Category III
-Board-regulated institutions, a supplementary leverage ratio of 3 percent.
+(v) For advanced approaches Board-regulated institutions or, for Category III Board-regulated institutions, a supplementary leverage ratio of 3 percent.
 
 (2) A qualifying community banking organization (as defined in § 217.12), that is subject to the community bank leverage ratio framework (as defined § 217.12), is considered to have met the minimum capital requirements in this paragraph (a) of this section.
 

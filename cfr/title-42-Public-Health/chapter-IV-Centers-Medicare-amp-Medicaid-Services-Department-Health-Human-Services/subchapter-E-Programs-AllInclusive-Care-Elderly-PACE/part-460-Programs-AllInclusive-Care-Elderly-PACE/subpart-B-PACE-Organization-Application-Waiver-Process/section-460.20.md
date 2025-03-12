@@ -22,4 +22,4 @@
 
 (e) *Date of submission.* For purposes of the time limits described in this section, the date that an application is submitted to CMS is the date on which the application is delivered to the address designated by CMS.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25671, June 3, 2019]
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25672, June 3, 2019]

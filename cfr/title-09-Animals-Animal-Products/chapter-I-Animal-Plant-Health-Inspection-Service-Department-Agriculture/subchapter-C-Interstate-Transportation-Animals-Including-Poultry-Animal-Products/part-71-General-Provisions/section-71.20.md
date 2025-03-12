@@ -1,5 +1,7 @@
 ##### § 71.20 Approval of livestock facilities. #####
 
+Link to an amendment published at 85 FR 4194, Jan. 24, 2020.
+
 (a) To qualify for approval by the Administrator as an approved livestock facility7 and to retain such designation, the individual legally responsible for the day-to-day operations of the livestock facility shall execute the following agreement:
 
 7 A list of approved livestock facilities may be obtained by writing to National Animal Health Programs, VS, APHIS, 4700 River Road Unit 36, Riverdale, MD 20737-1231.

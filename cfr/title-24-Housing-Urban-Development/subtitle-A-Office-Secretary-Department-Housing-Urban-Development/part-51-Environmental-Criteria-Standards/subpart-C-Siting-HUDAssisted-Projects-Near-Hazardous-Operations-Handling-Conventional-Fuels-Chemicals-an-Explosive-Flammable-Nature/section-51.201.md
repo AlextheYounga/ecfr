@@ -1,5 +1,7 @@
 ##### § 51.201 Definitions. #####
 
+Link to an amendment published at 85 FR 4228, Jan. 24, 2020.
+
 The terms *Department* and *Secretary* are defined in 24 CFR part 5.
 
 *Acceptable separation distance (ASD)* - means the distance beyond which the explosion or combustion of a hazard is not likely to cause structures or individuals to be subjected to blast overpressure or thermal radiation flux levels in excess of the safety standards in § 51.203. The ASD is determined by applying the safety standards established by this subpart C to the guidance set forth in HUD Guidebook, “Siting of HUD-Assisted Projects Near Hazardous Facilities.”

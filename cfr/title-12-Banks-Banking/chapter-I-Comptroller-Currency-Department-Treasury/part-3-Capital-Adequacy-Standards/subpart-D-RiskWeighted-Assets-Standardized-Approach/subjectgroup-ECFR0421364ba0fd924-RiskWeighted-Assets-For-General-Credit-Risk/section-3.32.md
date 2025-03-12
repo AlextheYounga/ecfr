@@ -1,5 +1,7 @@
 ##### § 3.32 General risk weights. #####
 
+Link to an amendment published at 85 FR 4402, Jan. 24, 2020.
+
 (a) *Sovereign exposures* - (1) *Exposures to the U.S. government.* (i) Notwithstanding any other requirement in this subpart, a national bank or Federal savings association must assign a zero percent risk weight to:
 
 (A) An exposure to the U.S. government, its central bank, or a U.S. government agency; and

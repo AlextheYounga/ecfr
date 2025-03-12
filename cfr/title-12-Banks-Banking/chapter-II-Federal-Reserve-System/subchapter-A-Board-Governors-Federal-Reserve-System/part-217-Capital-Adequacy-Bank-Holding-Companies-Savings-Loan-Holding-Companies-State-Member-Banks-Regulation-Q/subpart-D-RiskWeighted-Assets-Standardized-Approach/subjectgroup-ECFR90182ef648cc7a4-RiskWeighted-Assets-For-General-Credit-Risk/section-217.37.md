@@ -1,5 +1,7 @@
 ##### § 217.37 Collateralized transactions. #####
 
+Link to an amendment published at 85 FR 4419, Jan. 24, 2020.
+
 (a) *General.* (1) To recognize the risk-mitigating effects of financial collateral, a Board-regulated institution may use:
 
 (i) The simple approach in paragraph (b) of this section for any exposure; or

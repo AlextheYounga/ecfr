@@ -44,4 +44,4 @@
 
 (f) *Effect of failure to provide timely notice.* If the MA organization fails to provide the enrollee with timely notice of an organization determination as specified in this section, this failure itself constitutes an adverse organization determination and may be appealed.
 
-[65 FR 40329, June 29, 2000, as amended at 70 FR 4739, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 75 FR 19812, Apr. 15, 2010; 75 FR 32859, June 10, 2010; 80 FR 7961, Feb. 12, 2015; 84 FR 15843, Apr. 16, 2019; 84 FR 23880, May 23, 2019]
+[65 FR 40329, June 29, 2000, as amended at 70 FR 4739, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 75 FR 19812, Apr. 15, 2010; 75 FR 32859, June 10, 2010; 80 FR 7961, Feb. 12, 2015; 84 FR 23880, May 23, 2019]

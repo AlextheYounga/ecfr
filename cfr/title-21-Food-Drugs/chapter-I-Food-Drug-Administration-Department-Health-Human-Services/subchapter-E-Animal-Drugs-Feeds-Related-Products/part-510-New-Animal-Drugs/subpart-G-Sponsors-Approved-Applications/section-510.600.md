@@ -1,5 +1,7 @@
 ##### § 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications. #####
 
+Link to an amendment published at 85 FR 4207, Jan. 24, 2020.
+
 (a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs.
 
 (b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act.
@@ -18,12 +20,10 @@
 |                                                Akorn Animal Health, Inc., 1925 West Field Ct., suite 300, Lake Forest, IL 60045                                                |     059399      |
 |                                                       Alaco, Inc., 1500 North Wilmot Rd., suite 290-C, Tucson, AZ 85712                                                        |     064146      |
 |                                                      Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510                                                       |     069334      |
-|                                             American Pharmaceuticals and Cosmetics, Inc., 1401 Joel East Rd., Fort Worth, TX 76140                                             |     065531      |
 |                                                        American Regent, Inc., Animal Health Division, Shirley, NY 11967                                                        |     010797      |
 |                                                       Anika Therapeutics Inc., 236 West Cummings Park, Woburn, MA 01801                                                        |     060865      |
 |                                                Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043                                                 |     086073      |
 |                                                AquaBounty Technologies, Inc., 2 Mill and Main Pl., Suite 395, Maynard, MA 01754                                                |     086053      |
-|                                                   Aratana Therapeutics, Inc., 11400 Tomahawk Creek Pkwy., Leawood, KS 66211                                                    |     086026      |
 |                                                    Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218                                                     |     076175      |
 |                                                  Aurora Pharmaceutical, Inc., 1196 Highway 3 South, Northfield, MN 55057-3009                                                  |     051072      |
 |                                               Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France                                                |     086009      |
@@ -39,7 +39,6 @@
 |                                                          Cooperative Research Farms, Box 69, Charlotteville, NY 12036                                                          |     051267      |
 |Cronus Pharma Specialities India Private Ltd., Sy No: 99/1, M/s GMR Hyderabad Aviation SEZ L, Mamidipalli Village, Shamshabad Mandal, Ranga, Hyderabad, Telangana, 501218, India|     069043      |
 |                                   Dechra, Ltd., Snaygill Industrial Estate, Keighley Rd., Skipton, North Yorkshire, BD23 2RW, United Kingdom                                   |     043264      |
-|                                                    Dragon Fire Holding Co., Inc., 2619 Skyway Dr., Grand Prairie, TX 75052                                                     |     076033      |
 |                                                                  ECO LLC, 344 Nassau St., Princeton, NJ 08540                                                                  |     066916      |
 |                                                           Elanco US Inc., 2500 Innovation Way, Greenfield, IN 46140                                                            |     058198      |
 |                                                        Farnam Companies, Inc., 301 West Osborn, Phoenix, AZ 85013-3928                                                         |     017135      |
@@ -48,7 +47,7 @@
 |                                                Fougera Pharmaceuticals, Inc., P.O. Box 2006, 60 Baylis Rd., Melville, NY 11747                                                 |     025463      |
 |                                                       G. C. Hanford Manufacturing Co., P.O. Box 1017, Syracuse, NY 13201                                                       |     010515      |
 |                                                      GTC Biotherapeutics, Inc., 175 Crossing Blvd., Framingham, MA 01702                                                       |     042976      |
-|                                                     Halocarbon Products Corp., 887 Kinderkamack Rd., River Edge, NJ 07661                                                      |     012164      |
+|                                           Halocarbon Products Corp., 6525 The Corners Pkwy., Suite 200, Peachtree Corners, GA 30092                                            |     012164      |
 |                                                                     Happy Jack, Inc., Snow Hill, NC 28580                                                                      |     023851      |
 |                                                    Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964                                                    |     063075      |
 |                                                           Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525                                                            |     063604      |
@@ -98,6 +97,7 @@
 |                                                     Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532                                                      |     051672      |
 |                                                             Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503                                                              |     052923      |
 |                                                       Thorn Bioscience LLC, 1044 East Chestnut St., Louisville, KY 40204                                                       |     051330      |
+|                                                             Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901                                                             |     086106      |
 |                                                              United-AH II LLC, 322 S Main St., Sheridan, IN 46069                                                              |     051233      |
 |                                                        VetDC, Inc., 320 E. Vine Dr., suite 218, Fort Collins, CO 80524                                                         |     086072      |
 |                                                  Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5                                                  |     059320      |
@@ -117,7 +117,7 @@
 |     000859      |                                             Bayer HealthCare LLC, Animal Health Division, P.O. Box 390, Shawnee Mission, KS 66201.                                              |
 |     010515      |                                                       G. C. Hanford Manufacturing Co., P.O. Box 1017, Syracuse, NY 13201.                                                       |
 |     010797      |                                                        American Regent, Inc., Animal Health Division, Shirley, NY 11967.                                                        |
-|     012164      |                                                     Halocarbon Products Corp., 887 Kinderkamack Rd., River Edge, NJ 07661.                                                      |
+|     012164      |                                           Halocarbon Products Corp., 6525 The Corners Pkwy., Suite 200, Peachtree Corners, GA 30092.                                            |
 |     012286      |                                                     ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115.                                                     |
 |     012578      |                                                       Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium.                                                       |
 |     013744      |                                                    Ceva Sante Animale, 10 Avenue de la Ballastière, 33500 Libourne, France.                                                     |
@@ -186,7 +186,6 @@
 |     063604      |                                                           Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525.                                                            |
 |     064146      |                                                       Alaco, Inc., 1500 North Wilmot Rd., suite 290-C, Tucson, AZ 85712.                                                        |
 |     065085      |                    Piramal Enterprises Ltd., Ananta, Agastya Corporate Park, Opp Fire Brigade, Kamani Junction, LBS Mag Kurla (West), Mumbai, 400070, India.                    |
-|     065531      |                                             American Pharmaceuticals and Cosmetics, Inc., 1401 Joel East Rd., Fort Worth, TX 76140.                                             |
 |     066104      |                               Phibro Animal Health Corp., GlenPointe Centre East, 3d floor, 300 Frank W. Burr Blvd., suite 21, Teaneck, NJ 07666.                               |
 |     066794      |                                                     Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017.                                                     |
 |     066916      |                                                                  ECO LLC, 344 Nassau St., Princeton, NJ 08540.                                                                  |
@@ -197,17 +196,16 @@
 |     069043      |Cronus Pharma Specialities India Private Ltd., Sy No: 99/1, M/s GMR Hyderabad Aviation SEZ L, Mamidipalli Village, Shamshabad Mandal, Ranga, Hyderabad, Telangana, 501218, India.|
 |     069254      |                                                           Pharmgate, Inc., 1800 Sir Tyler Dr., Wilmington, NC 28405.                                                            |
 |     069334      |                                                      Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510.                                                       |
-|     076033      |                                                    Dragon Fire Holding Co., Inc., 2619 Skyway Dr., Grand Prairie, TX 75052.                                                     |
 |     076175      |                                                    Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218.                                                     |
 |     076475      |                                                        Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349.                                                         |
 |     086009      |                                               Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France.                                                |
-|     086026      |                                                   Aratana Therapeutics, Inc., 11400 Tomahawk Creek Pkwy., Leawood, KS 66211.                                                    |
 |     086047      |                                                            LFB USA, Inc., 175 Crossing Blvd., Framingham, MA 01702.                                                             |
 |     086053      |                                                AquaBounty Technologies, Inc., 2 Mill and Main Pl., Suite 395, Maynard, MA 01754.                                                |
 |     086064      |                                                      Ivaoes Animal Health, 4300 SW 73rd Ave., suite 110, Miami, FL 33155.                                                       |
 |     086072      |                                                         VetDC, Inc., 320 E Vine Dr., suite 218, Fort Collins, CO 80524.                                                         |
 |     086073      |                                                Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043.                                                 |
 |     086078      |                                                 Kindred Biosciences, Inc., 1555 Bayshore Hwy., Suite 200, Burlingame, CA 94010.                                                 |
+|     086106      |                                                             Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901.                                                             |
 |     099207      |                                                   Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807.                                                   |
 
 [40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

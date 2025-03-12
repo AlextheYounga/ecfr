@@ -1,0 +1,3 @@
+##### § 131.510 SBA review authority. #####
+
+To ensure compliance and the effectiveness of WBCs, OWBO staff will coordinate with SBA district offices to provide periodic programmatic site visits on behalf of OWBO. Prior to conducting such visits, SBA district office personnel will coordinate with and provide written notice to the WBC Program Director. The SBA's district office personnel may inspect WBC records and client files to analyze and assess WBC activities, and, if necessary, make recommendations for improved service delivery to the OWBO Program Analyst. Periodic district office site visits do not supersede or replace OWBO site visits.

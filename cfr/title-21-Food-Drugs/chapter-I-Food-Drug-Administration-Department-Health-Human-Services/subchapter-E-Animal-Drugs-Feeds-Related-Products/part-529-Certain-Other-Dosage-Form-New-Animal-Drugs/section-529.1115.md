@@ -1,5 +1,7 @@
 ##### § 529.1115 Halothane. #####
 
+Link to an amendment published at 85 FR 4208, Jan. 24, 2020.
+
 (a) *Specifications.* The drug is a colorless, odorless, nonflammable, nonexplosive, heavy liquid containing 0.01 percent thymol as a preservative.
 
 (b) *Sponsor.* See Nos. 012164 and 054771 in § 510.600(c) of this chapter.

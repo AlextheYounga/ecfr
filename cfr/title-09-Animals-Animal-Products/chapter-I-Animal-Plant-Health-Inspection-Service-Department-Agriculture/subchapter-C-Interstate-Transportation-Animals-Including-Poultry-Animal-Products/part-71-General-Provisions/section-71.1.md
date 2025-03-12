@@ -1,5 +1,7 @@
 ##### § 71.1 Definitions. #####
 
+Link to an amendment published at 85 FR 4194, Jan. 24, 2020.
+
 As used in this part, the following terms shall have the meanings set forth in this section.
 
 *Accredited veterinarian.* A veterinarian who is approved by the Administrator, in accordance with part 161 of this chapter, to perform official animal health work of the Animal and Plant Health Inspection Service specified in subchapters A, B, C, and D of this chapter and to perform work required by cooperative State-Federal disease control and eradication programs.

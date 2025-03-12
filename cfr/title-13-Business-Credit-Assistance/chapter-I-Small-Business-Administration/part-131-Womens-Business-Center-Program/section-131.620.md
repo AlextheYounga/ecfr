@@ -1,0 +1,3 @@
+##### § 131.620 Revisions and amendments to cooperative agreements. #####
+
+During a project period, the WBC may request, in writing, one or more revisions to the cooperative agreement. The request must be submitted by the recipient organization's authorized official. Revisions will normally relate to changes in scope, work, or funding during the specified budget period. No proposed revision will be implemented without the prior approval from the OWBO Program Analyst. Revisions that require an amendment include the prior approval items set forth in 2 CFR 200.308 and 200.407.

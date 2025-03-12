@@ -1,5 +1,7 @@
 ##### § 93.303 Ports designated for the importation of horses. #####
 
+Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
+
 (a) *Air and ocean ports.* The following ports have APHIS inspection and quarantine facilities necessary for quarantine stations and all horses shall be entered into the United States through these stations, except as provided in paragraphs (b), (c), (d), (e), and (f) of this section, §§ 93.308(a), (b) and (c) and 93.317: Los Angeles, California; Miami, Florida; and Newburgh, New York.
 
 (b) *Canadian border ports.* (1) The following land border ports are designated as having the necessary inspection facilities for the entry of horses from Canada: Eastport, Idaho; Houlton and Jackman, Maine; Detroit, Port Huron, and Sault Ste. Marie, Michigan; Baudette, Minnesota; Opheim, Raymond, and Sweetgrass, Montana; Alexandria Bay, Buffalo, and Champlain, New York; Dunseith, Pembina, and Portal, North Dakota; Derby Line and Highgate Springs, Vermont; Oroville and Sumas, Washington.

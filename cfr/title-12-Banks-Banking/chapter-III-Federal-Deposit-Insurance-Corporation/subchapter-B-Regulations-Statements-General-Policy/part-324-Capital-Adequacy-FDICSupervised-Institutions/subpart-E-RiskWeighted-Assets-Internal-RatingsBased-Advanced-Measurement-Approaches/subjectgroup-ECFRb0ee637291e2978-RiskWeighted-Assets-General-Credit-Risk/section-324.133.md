@@ -1,5 +1,7 @@
 ##### § 324.133 Cleared transactions. #####
 
+Link to an amendment published at 85 FR 4440, Jan. 24, 2020.
+
 (a) *General requirements.* (1) An FDIC-supervised institution that is a clearing member client must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
 
 (2) An FDIC-supervised institution that is a clearing member must use the methodologies described in paragraph (c) of this section to calculate its risk-weighted assets for cleared transactions and paragraph (d) of this section to calculate its risk-weighted assets for its default fund contribution to a CCP.

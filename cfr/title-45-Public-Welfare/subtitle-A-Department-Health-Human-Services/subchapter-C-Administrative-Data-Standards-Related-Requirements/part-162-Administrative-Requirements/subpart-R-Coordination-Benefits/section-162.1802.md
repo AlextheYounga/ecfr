@@ -1,5 +1,7 @@
 ##### § 162.1802 Standards for coordination of benefits information transaction. #####
 
+Link to an amendment published at 85 FR 4242, Jan. 24, 2020.
+
 The Secretary adopts the following standards for the coordination of benefits information transaction.
 
 (a) For the period from October 16, 2003 through March 16, 2009:

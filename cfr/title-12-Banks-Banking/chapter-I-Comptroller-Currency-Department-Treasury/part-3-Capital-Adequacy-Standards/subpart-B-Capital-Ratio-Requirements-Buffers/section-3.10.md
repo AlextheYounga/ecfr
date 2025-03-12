@@ -1,5 +1,7 @@
 ##### § 3.10 Minimum capital requirements. #####
 
+Link to an amendment published at 85 FR 4401, Jan. 24, 2020.
+
 (a) *Minimum capital requirements.* (1) A national bank or Federal savings association must maintain the following minimum capital ratios:
 
 (i) A common equity tier 1 capital ratio of 4.5 percent.

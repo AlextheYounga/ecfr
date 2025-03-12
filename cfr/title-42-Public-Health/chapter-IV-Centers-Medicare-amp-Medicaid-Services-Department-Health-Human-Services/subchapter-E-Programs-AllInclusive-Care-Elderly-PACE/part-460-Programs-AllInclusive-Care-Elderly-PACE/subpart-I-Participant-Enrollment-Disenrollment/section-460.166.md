@@ -14,4 +14,4 @@
 
 (2) The PACE organization must continue to furnish all needed services.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25677, June 3, 2019]
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25676, June 3, 2019]

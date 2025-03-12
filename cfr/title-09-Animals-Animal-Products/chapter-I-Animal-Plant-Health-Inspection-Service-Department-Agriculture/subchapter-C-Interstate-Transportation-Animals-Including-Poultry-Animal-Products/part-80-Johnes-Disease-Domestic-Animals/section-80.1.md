@@ -1,5 +1,7 @@
 ##### § 80.1 Definitions. #####
 
+Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
+
 The following definitions apply to this part:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.

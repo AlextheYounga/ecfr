@@ -1,5 +1,7 @@
 ##### § 75.4 Interstate movement of equine infectious anemia reactors and approval of laboratories, diagnostic facilities, and research facilities. #####
 
+Link to an amendment published at 85 FR 4195, Jan. 24, 2020.
+
 (a) *Definitions.* For the purpose of this section, the following terms have the meanings set forth in this paragraph.
 
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this title to perform functions specified in parts 1, 2, 3, and 11 of subchapter A, and subchapters B, C and D of this chapter, and to perform functions required by cooperative State-Federal disease control and eradication programs.

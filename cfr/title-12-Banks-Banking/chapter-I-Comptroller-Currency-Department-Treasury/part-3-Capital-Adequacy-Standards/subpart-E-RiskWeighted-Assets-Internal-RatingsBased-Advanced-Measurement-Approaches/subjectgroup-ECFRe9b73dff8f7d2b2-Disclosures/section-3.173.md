@@ -1,5 +1,7 @@
 ##### § 3.173 Disclosures by certain advanced approaches national banks or Federal savings associations and Category III national banks or Federal savings associations. #####
 
+Link to an amendment published at 85 FR 4413, Jan. 24, 2020.
+
 (a)(1) An advanced approaches national bank or Federal savings association described in § 3.172(b) must make the disclosures described in Tables 1 through 12 to § 3.173.
 
 (2) An advanced approaches national bank or Federal savings association and a Category III national bank or Federal savings association that is required to publicly disclose its supplementary leverage ratio pursuant to § 3.172(d) must make the disclosures required under Table 13 to this section unless the national bank or Federal savings association is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosure requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.

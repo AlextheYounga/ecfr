@@ -1,6 +1,6 @@
 ##### § 3.2 Definitions. #####
 
-Link to an amendment published at 84 FR 68031, Dec. 13, 2019.
+Link to an amendment published at 84 FR 68031, Dec. 13, 2019.Link to an amendment published at 85 FR 4400, Jan. 24, 2020.
 
 As used in this part:
 

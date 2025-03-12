@@ -1,0 +1,3 @@
+##### § 131.420 Carryover of Federal funds. #####
+
+The AA/OWBO will approve requests for carryover on a case-by-case basis. In doing so, the AA/OWBO will take into account the amount of carryover requested, whether the WBC currently has any funds carried over from prior years, the WBC's record of utilizing all of its awarded funding or providing the required level of match, and any factors beyond the WBC's control that impeded its ability to conduct project activities as originally proposed.

@@ -1,5 +1,7 @@
 ##### § 520.1807 Piperazine. #####
 
+Link to an amendment published at 85 FR 4208, Jan. 24, 2020.
+
 (a) *Specifications.* A soluble powder or liquid containing piperazine dihydrochloride or dipiperazine sulfate, equivalent to 17, 34, or 230 grams of piperazine per pound or 100 milliliters.
 
 (b) *Sponsor.* See No. 015565 in § 510.600(c) of this chapter.

@@ -4,7 +4,7 @@
 
 (b) *Substances, vegetable origin or chemical synthesis.* Unless specifically excepted or unless listed in another schedule, any of the following substances whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
-(1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, naldemedine, nalmefene, naloxegol, naloxone, and naltrexone, and their respective salts, but including the following:
+(1) Opium and opiate, and any salt, compound, derivative, or preparation of opium or opiate excluding apomorphine, thebaine-derived butorphanol, dextrorphan, nalbuphine, naldemedine, nalmefene, naloxegol, naloxone, 6β-naltrexol and naltrexone, and their respective salts, but including the following:
 
 |        (i) Codeine         |9050|
 |:---------------------------|---:|

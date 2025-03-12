@@ -1,0 +1,3 @@
+##### § 131.410 Maximum grant. #####
+
+No individual WBC project will receive a WBC grant in any fiscal year under a cooperative agreement in excess of the amount authorized by statute. While an individual WBC project cannot exceed the statutory limit, a recipient organization is not limited from establishing multiple WBC projects as long as the projects are distinct from each other and are serving distinct populations that would not otherwise be served.

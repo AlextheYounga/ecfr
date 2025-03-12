@@ -1,5 +1,7 @@
 ##### § 32.9 Credit exposure arising from derivative and securities financing transactions. #####
 
+Link to an amendment published at 85 FR 4414, Jan. 24, 2020.
+
 (a) *Scope.* This section sets forth the rules for calculating the credit exposure arising from a derivative transaction or a securities financing transaction entered into by a national bank or savings association for purposes of determining the bank's or savings association's lending limit pursuant to 12 U.S.C. 84 or 12 U.S.C. 1464(u), as applicable, and this part.
 
 (b) *Derivative transactions* - (1) *Non-credit derivatives.* Subject to paragraphs (b)(2), (b)(3) and (b)(4) of this section, a national bank or savings association shall calculate the credit exposure to a counterparty arising from a derivative transaction by one of the following methods. Subject to paragraph (b)(4) of this section, a national bank or savings association shall use the same method for calculating counterparty credit exposure arising from all of its derivative transactions.
