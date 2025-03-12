@@ -1,5 +1,7 @@
 ##### § 35.51 Training for an authorized medical physicist. #####
 
+Link to an amendment published at 83 FR 33105, July 16, 2018.
+
 Except as provided in § 35.57, the licensee shall require the authorized medical physicist to be an individual who -
 
 (a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraphs (b)(2) and (c) of this section. (The names of board certifications which have been recognized by the Commission or an Agreement State will be posted on the NRC's Web page.) To have its certification process recognized, a specialty board shall require all candidates for certification to:

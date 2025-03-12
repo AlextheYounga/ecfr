@@ -1,5 +1,7 @@
 ##### § 802.41 Corporations or unincorporated entities at time of formation. #####
 
+Link to an amendment published at 83 FR 32771, July 16, 2018.
+
 Whenever any person(s) contributing to the formation of an entity are subject to the requirements of the Act by reason of § 801.40 or § 801.50 of this chapter, the new entity need not file the notification required by the Act and § 803.1 of this chapter.
 
 Examples:1. Corporations A and B, each having sales of in excess of $100 million (as adjusted), each propose to contribute in excess of $50 million (as adjusted) in cash in exchange for 50 percent of the voting securities of a new corporation, N. Under this section, the new corporation need not file notification, although both “A” and “B” must do so and observe the waiting period prior to receiving any voting securities of N.

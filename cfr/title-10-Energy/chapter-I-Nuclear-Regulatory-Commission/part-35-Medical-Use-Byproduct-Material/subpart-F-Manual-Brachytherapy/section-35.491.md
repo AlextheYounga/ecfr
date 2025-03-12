@@ -1,5 +1,7 @@
 ##### § 35.491 Training for ophthalmic use of strontium-90. #####
 
+Link to an amendment published at 83 FR 33109, July 16, 2018.
+
 Except as provided in § 35.57, the licensee shall require the authorized user of strontium-90 for ophthalmic radiotherapy to be a physician who -
 
 (a) Is an authorized user under § 35.490 or equivalent Agreement State requirements; or

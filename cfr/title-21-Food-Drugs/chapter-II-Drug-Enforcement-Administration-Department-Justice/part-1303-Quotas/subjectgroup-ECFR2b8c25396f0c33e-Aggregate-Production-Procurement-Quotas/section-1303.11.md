@@ -1,5 +1,7 @@
 ##### § 1303.11 Aggregate production quotas. #####
 
+Link to an amendment published at 83 FR 32789, July 16, 2018.
+
 (a) The Administrator shall determine the total quantity of each basic class of controlled substance listed in Schedule I or II necessary to be manufactured during the following calendar year to provide for the estimated medical, scientific, research and industrial needs of the United States, for lawful export requirements, and for the establishment and maintenance of reserve stocks.
 
 (b) In making his determinations, the Administrator shall consider the following factors:

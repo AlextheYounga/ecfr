@@ -1,7 +1,5 @@
 ##### 39.101 Policy. #####
 
-Link to an amendment published at 83 FR 28144, June 15, 2018.
-
 (a)(1) In acquiring information technology, agencies shall identify their requirements pursuant to -
 
 (i) OMB Circular A-130, including consideration of security of resources, protection of privacy, national security and emergency preparedness, accommodations for individuals with disabilities, and energy efficiency;
@@ -20,4 +18,6 @@ Link to an amendment published at 83 FR 28144, June 15, 2018.
 
 (d) When acquiring information technology using Internet Protocol, agencies must include the appropriate Internet Protocol compliance requirements in accordance with 11.002(g).
 
-[61 FR 41470, Aug. 8, 1996, as amended at 64 FR 32748, June 17, 1999; 64 FR 72446, Dec. 27, 1999; 70 FR 57452, Sept. 30, 2005; 72 FR 73217, Dec. 26, 2007; 73 FR 10968, Feb. 28, 2008; 74 FR 65607, Dec. 10, 2009; 76 FR 31401, May 31, 2011; 79 FR 70344, Nov. 25, 2014; 80 FR 26427, May 7, 2015]
+(e) Contracting officers shall not purchase any hardware, software, or services developed or provided by Kaspersky Lab that the Government will use on or after October 1, 2018. (See 4.2002.)
+
+[61 FR 41470, Aug. 8, 1996, as amended at 64 FR 32748, June 17, 1999; 64 FR 72446, Dec. 27, 1999; 70 FR 57452, Sept. 30, 2005; 72 FR 73217, Dec. 26, 2007; 73 FR 10968, Feb. 28, 2008; 74 FR 65607, Dec. 10, 2009; 76 FR 31401, May 31, 2011; 79 FR 70344, Nov. 25, 2014; 80 FR 26427, May 7, 2015; 83 FR 28144, June 15, 2018]

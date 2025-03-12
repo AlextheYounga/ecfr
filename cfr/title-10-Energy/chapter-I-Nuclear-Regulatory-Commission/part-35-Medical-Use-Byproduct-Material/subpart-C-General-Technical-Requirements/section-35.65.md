@@ -1,5 +1,7 @@
 ##### § 35.65 Authorization for calibration, transmission, and reference sources. #####
 
+Link to an amendment published at 83 FR 33106, July 16, 2018.
+
 Any person authorized by § 35.11 for medical use of byproduct material may receive, possess, and use any of the following byproduct material for check, calibration, transmission, and reference use.
 
 (a) Sealed sources, not exceeding 1.11 GBq (30 mCi) each, manufactured and distributed by a person licensed under § 32.74 of this chapter or equivalent Agreement State regulations.

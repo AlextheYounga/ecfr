@@ -1,5 +1,7 @@
 ##### § 1211.14 Unattended operation requirements. #####
 
+Link to an amendment published at 83 FR 32570, July 13, 2018.
+
 (a) *General requirements.* (1) A residential garage door operator or system may permit unattended operation to close a garage door, provided the operator system complies with the additional requirements of paragraphs (b) through (e) of this section.
 
 (2) Unattended operation shall not be permitted on one-piece garage doors or swinging garage doors. An operator intended for use with both sectional doors and one-piece or swinging doors that have an unattended operation close feature shall identify that the unattended operation closing feature is only permitted to be enabled when installed with a sectional door by complying with:

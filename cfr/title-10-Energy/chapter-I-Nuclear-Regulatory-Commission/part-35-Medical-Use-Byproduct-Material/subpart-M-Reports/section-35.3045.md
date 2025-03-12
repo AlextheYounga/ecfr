@@ -1,5 +1,7 @@
 ##### § 35.3045 Report and notification of a medical event. #####
 
+Link to an amendment published at 83 FR 33111, July 16, 2018.
+
 (a) A licensee shall report any event, except for an event that results from patient intervention, in which the administration of byproduct material or radiation from byproduct material results in -
 
 (1) A dose that differs from the prescribed dose or dose that would have resulted from the prescribed dosage by more than 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin; and

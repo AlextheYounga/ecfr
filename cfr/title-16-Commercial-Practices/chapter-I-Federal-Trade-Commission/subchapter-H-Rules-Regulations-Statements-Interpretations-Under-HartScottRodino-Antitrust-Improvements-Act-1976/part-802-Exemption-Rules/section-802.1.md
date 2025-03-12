@@ -1,5 +1,7 @@
 ##### § 802.1 Acquisitions of goods and realty in the ordinary course of business. #####
 
+Link to an amendment published at 83 FR 32770, July 16, 2018.
+
 Pursuant to section 7A(c)(1), acquisitions of goods and realty transferred in the ordinary course of business are exempt from the notification requirements of the act. This section identifies certain acquisitions of goods that are exempt as transfers in the ordinary course of business. This section also identifies certain acquisitions of goods and realty that are not in the ordinary course of business and, therefore, do not qualify for the exemption.
 
 (a) *Operating unit.* An acquisition of all or substantially all the assets of an operating unit is not an acquisition in the ordinary course of business. *Operating unit* means assets that are operated by the acquired person as a business undertaking in a particular location or for particular products or services, even though those assets may not be organized as a separate legal entity.

@@ -1,5 +1,7 @@
 ##### § 35.300 Use of unsealed byproduct material for which a written directive is required. #####
 
+Link to an amendment published at 83 FR 33107, July 16, 2018.
+
 A licensee may use any unsealed byproduct material prepared for medical use and for which a written directive is required that is -
 
 (a) Obtained from:

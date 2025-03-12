@@ -1,5 +1,7 @@
 ##### § 35.14 Notifications. #####
 
+Link to an amendment published at 83 FR 33103, July 16, 2018.
+
 (a) A licensee shall provide the Commission a copy of the board certification and the written attestation(s), signed by a preceptor, the Commission or Agreement State license, the permit issued by a Commission master material licensee, the permit issued by a Commission or Agreement State licensee of broad scope, the permit issued by a Commission master material license broad scope permittee, or documentation that only accelerator-produced radioactive materials, discrete sources of radium-226, or both, were used for medical use or in the practice of nuclear pharmacy at a Government agency or Federally recognized Indian Tribe before November 30, 2007 or at all other locations of use before August 8, 2009, or an earlier date as noticed by the NRC, and for each individual no later than 30 days after the date that the licensee permits the individual to work as an authorized user, an authorized nuclear pharmacist, or an authorized medical physicist, under § 35.13(b). For individuals permitted to work under § 35.13(b)(4), within the same 30-day time frame, the licensee shall also provide, as appropriate, verification of completion of;
 
 (1) Any additional case experience required in § 35.390(b)(1)(ii)(G) for an authorized user under § 35.300;

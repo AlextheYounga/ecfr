@@ -1,5 +1,7 @@
 ##### § 1211.10 Requirements for all entrapment protection devices. #####
 
+Link to an amendment published at 83 FR 32569, July 13, 2018.
+
 (a) *General requirements.* (1) An external entrapment protection device shall perform its intended function when tested in accordance with paragraphs (a)(2) through (4) of this section.
 
 (2) The device is to be installed in the intended manner and its terminals connected to circuits of the door operator as indicated by the installation instructions.

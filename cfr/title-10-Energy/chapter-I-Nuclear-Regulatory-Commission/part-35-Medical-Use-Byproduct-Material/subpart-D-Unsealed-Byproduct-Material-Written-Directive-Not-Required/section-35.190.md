@@ -1,5 +1,7 @@
 ##### § 35.190 Training for uptake, dilution, and excretion studies. #####
 
+Link to an amendment published at 83 FR 33106, July 16, 2018.
+
 Except as provided in § 35.57, the licensee shall require an authorized user of unsealed byproduct material for the uses authorized under § 35.100 to be a physician who -
 
 (a) Is certified by a medical specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraph (c)(2) of this section. (The names of board certifications which have been recognized by the Commission or an Agreement State will be posted on the NRC's Web page.) To have its certification process recognized, a specialty board shall require all candidates for certification to:

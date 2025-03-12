@@ -1,5 +1,7 @@
 ##### § 1211.12 Requirements for edge sensors. #####
 
+Link to an amendment published at 83 FR 32569, July 13, 2018.
+
 (a) *Normal operation test.* (1) When installed on a representative residential door edge, an edge sensor shall actuate upon the application of a 15 pounds (66.7 N) or less force in the direction of the application. For an edge sensor intended to be used on a sectional door, the force is to be applied by the longitudinal edge of a 17/8 inch (47.6 mm) diameter cylinder placed across the switch so that the axis is perpendicular to the plane of the door. For an edge sensor intended to be used on a one piece door, the force is to be applied so that the axis is at an angle 30 degrees from the direction perpendicular to the plane of the door. See figure 6 to subpart A.
 
 (2) With respect to the test of paragraph (a)(1) of this section, the test is to be repeated at various representative points of the edge sensor across the width of the door.

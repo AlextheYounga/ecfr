@@ -1,5 +1,7 @@
 ##### § 1303.32 Purpose of hearing. #####
 
+Link to an amendment published at 83 FR 32790, July 16, 2018.
+
 (a) The Administrator may, in his sole discretion, hold a hearing for the purpose of receiving factual evidence regarding any one or more issues (to be specified by him) involved in the determination or adjustment of any aggregate production quota.
 
 (b) If requested by a person applying for or holding a procurement quota or an individual manufacturing quota, the Administrator shall hold a hearing for the purpose of receiving factual evidence regarding the issues involved in the issuance, adjustment, suspension, or denial of such quota to such person, but the Administrator need not hold a hearing on the suspension of a quota pursuant to § 1301.36 of this chapter separate from a hearing on the suspension of registration pursuant to those sections.

@@ -1,5 +1,7 @@
 ##### § 1211.8 Secondary entrapment protection requirements. #####
 
+Link to an amendment published at 83 FR 32569, July 13, 2018.
+
 (a)(1) For a vertically moving door operator, a secondary entrapment protection device supplied with, or as an accessory to, an operator shall consist of:
 
 (i) An external photoelectric sensor that when activated results in an operator that is closing a door to reverse direction of the door, returns the door to, and stops the door at the fully open position, and the sensor prevents an operator from closing an open door,

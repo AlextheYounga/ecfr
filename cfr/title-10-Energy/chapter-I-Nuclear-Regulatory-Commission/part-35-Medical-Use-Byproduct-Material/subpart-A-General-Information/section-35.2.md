@@ -1,5 +1,7 @@
 ##### § 35.2 Definitions. #####
 
+Link to an amendment published at 83 FR 33102, July 16, 2018.
+
 *Address of use* means the building or buildings that are identified on the license and where byproduct material may be received, prepared, used, or stored.
 
 *Agreement State* means any State with which the Commission or the Atomic Energy Commission has entered into an effective agreement under subsection 274b of the Atomic Energy Act of 1954, as amended.

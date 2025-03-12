@@ -1,5 +1,7 @@
 ##### § 35.12 Application for license, amendment, or renewal. #####
 
+Link to an amendment published at 83 FR 33102, July 16, 2018.
+
 (a) An application must be signed by the applicant's or licensee's management.
 
 (b) An application for a license for medical use of byproduct material as described in §§ 35.100, 35.200, 35.300, 35.400, 35.500, 35.600, and 35.1000 must be made by -

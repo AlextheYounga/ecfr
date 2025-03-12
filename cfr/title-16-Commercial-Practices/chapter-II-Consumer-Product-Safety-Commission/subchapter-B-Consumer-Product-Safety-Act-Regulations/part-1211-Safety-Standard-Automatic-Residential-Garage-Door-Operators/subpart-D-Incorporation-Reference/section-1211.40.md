@@ -1,5 +1,7 @@
 ##### § 1211.40 Incorporation by reference. #####
 
+Link to an amendment published at 83 FR 32579, July 13, 2018.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at Consumer Product Safety Commission, Office of the Secretary, 4330 East-West Highway, Bethesda, MD 20814, telephone 302-504-7923 and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) Door and Access Systems Manufacturers' Association, International (DASMA), 1300 Sumner Avenue, Cleveland, OH 44115-2851, Telephone: (216) 241-7333, *http://www.dasma.com/dasma-pages/D-AS-standards.asp.*

@@ -1,5 +1,7 @@
 ##### § 803.5 Affidavits required. #####
 
+Link to an amendment published at 83 FR 32771, July 16, 2018.
+
 (a)(1) *Section 801.30 acquisitions.* For acquisitions to which § 801.30 applies, the notification required by the act from each acquiring person shall contain an affidavit, attached to the front of the notification, or with the DVD submission, attesting that the issuer whose voting securities are to be acquired has received notice in writing by certified or registered mail, by wire or by hand delivery, at its principal executive offices, of:
 
 (i) The identity of the acquiring person;

@@ -1,5 +1,7 @@
 ##### § 30.68 Section 8 owners. #####
 
+Link to an amendment published at 83 FR 32793, July 16, 2018.
+
 (a) *Definitions.* The following definitions apply to this section only:
 
 *Agent employed to manage the property that has an identity of interest* and *identity of interest agent.* An entity:

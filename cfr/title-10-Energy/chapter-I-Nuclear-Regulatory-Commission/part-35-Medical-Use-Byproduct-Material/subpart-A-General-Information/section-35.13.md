@@ -1,5 +1,7 @@
 ##### § 35.13 License amendments. #####
 
+Link to an amendment published at 83 FR 33102, July 16, 2018.
+
 A licensee shall apply for and must receive a license amendment -
 
 (a) Before it receives, prepares, or uses byproduct material for a type of use that is permitted under this part, but is not authorized on the licensee's current license issued under this part; except that -

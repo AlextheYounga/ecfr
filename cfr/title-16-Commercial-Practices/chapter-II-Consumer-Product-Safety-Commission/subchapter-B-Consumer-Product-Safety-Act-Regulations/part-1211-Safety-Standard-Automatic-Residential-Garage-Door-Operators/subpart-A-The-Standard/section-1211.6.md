@@ -1,5 +1,7 @@
 ##### § 1211.6 General entrapment protection requirements. #####
 
+Link to an amendment published at 83 FR 32569, July 13, 2018.
+
 (a) A residential garage door operator system shall be provided with inherent primary entrapment protection that complies with the requirements as specified in § 1211.7.
 
 (b) In addition to the inherent primary entrapment protection as required by paragraph (a) of this section, a vertically moving residential garage door operator shall comply with one of the following:

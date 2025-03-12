@@ -1,5 +1,7 @@
 ##### § 1303.13 Adjustments of aggregate production quotas. #####
 
+Link to an amendment published at 83 FR 32790, July 16, 2018.
+
 (a) The Administrator may at any time increase or reduce the aggregate production quota for a basic class of controlled substance listed in Schedule I or II which he has previously fixed pursuant to § 1303.11.
 
 (b) In determining to adjust the aggregate production quota, the Administrator shall consider the following factors:

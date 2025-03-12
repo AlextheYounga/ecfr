@@ -1,5 +1,7 @@
 ##### § 35.40 Written directives. #####
 
+Link to an amendment published at 83 FR 33103, July 16, 2018.
+
 (a) A written directive must be dated and signed by an authorized user before the administration of I-131 sodium iodide greater than 1.11 megabecquerels (MBq) (30 microcuries (µCi)), any therapeutic dosage of unsealed byproduct material or any therapeutic dose of radiation from byproduct material.
 
 (1) If, because of the emergent nature of the patient's condition, a delay in order to provide a written directive would jeopardize the patient's health, an oral directive is acceptable. The information contained in the oral directive must be documented as soon as possible in writing in the patient's record. A written directive must be prepared within 48 hours of the oral directive.

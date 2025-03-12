@@ -1,5 +1,7 @@
 ##### § 1211.7 Inherent primary entrapment protection requirements. #####
 
+Link to an amendment published at 83 FR 32569, July 13, 2018.
+
 (a) *General requirements.* A vertically moving residential garage door operator system shall be supplied with inherent primary entrapment protection that complies with the requirements as specified in paragraph (b) of this section. A horizontally sliding residential garage door operator system shall be supplied with inherent primary entrapment protection that complies with the requirements as specified in paragraph (c) of this section.
 
 (b) *Inherent primary entrapment protection, vertically moving doors.* (1)(i) For a vertically moving residential garage door operator system, other than for the first 1 foot (305mm) of door travel from the full upmost position both with and without any secondary external entrapment protection device functional, the operator of a downward moving residential garage door shall initiate reversal of the door within 2 seconds of contact with the obstruction as specified in subparagraph (b)(3) of this section. After reversing the door, the operator shall return the door to, and stop at, the full upmost position. Compliance shall be determined in accordance with paragraphs (b)(3) through (10) of this section.

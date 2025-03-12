@@ -1,5 +1,7 @@
 ##### § 1211.5 General testing parameters. #####
 
+Link to an amendment published at 83 FR 32568, July 13, 2018.
+
 (a) The following test parameters are to be used in the investigation of the circuit covered by § 1211.4(c) for compliance with the Standard for Safety for Tests for Safety-Related Controls Employing Solid-State Devices, UL 991, second edition, dated June 23, 1995, as incorporated by reference in paragraph (b)(3) of this section:
 
 (1) With regard to electrical supervision of critical components, an operator being inoperative with respect to closing movement of the door meets the criteria for trouble indication.

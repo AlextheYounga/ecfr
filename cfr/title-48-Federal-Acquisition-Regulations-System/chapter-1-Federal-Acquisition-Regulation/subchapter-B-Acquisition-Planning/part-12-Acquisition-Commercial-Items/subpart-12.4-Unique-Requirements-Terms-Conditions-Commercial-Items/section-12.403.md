@@ -30,4 +30,4 @@
 
 (2) Generally, the parties should mutually agree upon the requirements of the termination proposal. The parties must balance the Government's need to obtain sufficient documentation to support payment to the contractor against the goal of having a simple and expeditious settlement.
 
-[60 FR 48241, Sept. 18, 1995, as amended at 71 FR 74677, Dec. 12, 2006; 75 FR 60260, Sept. 29, 2010; 78 FR 46787, Aug. 1, 2013; 78 FR 46787, Aug. 1, 2013]
+[60 FR 48241, Sept. 18, 1995, as amended at 71 FR 74677, Dec. 12, 2006; 75 FR 60260, Sept. 29, 2010; 78 FR 46787, Aug. 1, 2013]

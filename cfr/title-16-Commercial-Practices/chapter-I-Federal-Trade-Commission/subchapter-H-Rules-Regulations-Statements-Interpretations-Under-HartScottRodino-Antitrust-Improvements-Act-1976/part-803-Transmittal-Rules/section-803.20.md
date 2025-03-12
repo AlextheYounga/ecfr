@@ -1,5 +1,7 @@
 ##### § 803.20 Requests for additional information or documentary material. #####
 
+Link to an amendment published at 83 FR 32772, July 16, 2018.
+
 (a)(1) *Persons and individuals subject to request.* Pursuant to section 7A(e)(1), the submission of additional information or documentary material relevant to the acquisition may be required from one or more persons required to file notification, and, with respect to each such person, from one or more entities included therein, or from one or more officers, directors, partners, agents, or employees thereof, if so required by the same request.
 
 Example:A request for additional information may require a corporation and, in addition, a named officer or employee to provide certain information or documents, if both the corporation and the officer or employee are named in the same request. See subparagraph (b)(3) of this section.

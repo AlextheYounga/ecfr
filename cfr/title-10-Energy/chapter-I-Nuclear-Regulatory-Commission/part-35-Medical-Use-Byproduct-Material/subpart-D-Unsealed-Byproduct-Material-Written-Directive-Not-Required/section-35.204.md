@@ -1,5 +1,7 @@
 ##### § 35.204 Permissible molybdenum-99, strontium-82, and strontium-85 concentrations. #####
 
+Link to an amendment published at 83 FR 33106, July 16, 2018.
+
 (a) A licensee may not administer to humans a radiopharmaceutical that contains:
 
 (1) More than 0.15 kilobecquerel of molybdenum-99 per megabecquerel of technetium-99m (0.15 microcurie of molybdenum-99 per millicurie of technetium-99m); or

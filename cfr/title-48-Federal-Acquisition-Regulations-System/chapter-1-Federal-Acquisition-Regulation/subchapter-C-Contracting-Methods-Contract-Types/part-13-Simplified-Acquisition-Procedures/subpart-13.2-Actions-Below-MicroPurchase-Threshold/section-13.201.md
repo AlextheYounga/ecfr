@@ -1,7 +1,5 @@
 ##### 13.201 General. #####
 
-Link to an amendment published at 83 FR 28144, June 15, 2018.
-
 (a) Agency heads are encouraged to delegate micro-purchase authority (see 1.603-3).
 
 (b) The Governmentwide commercial purchase card shall be the preferred method to purchase and to pay for micro-purchases (see 2.101).
@@ -23,5 +21,7 @@ Link to an amendment published at 83 FR 28144, June 15, 2018.
 (2) Purchases using this authority must have a clear and direct relationship to the support of a contingency operation or the defense against or recovery from nuclear, biological, chemical, or radiological attack.
 
 (h) When using the Governmentwide commercial purchase card as a method of payment, purchases at or below the micro-purchase threshold are exempt from verification in the System for Award Management database as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP).
+
+(i) Do not purchase any hardware, software, or services developed or provided by Kaspersky Lab that the Government will use on or after October 1, 2018. (See 4.2002.)
 
 [62 FR 64917, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting section 13.201, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

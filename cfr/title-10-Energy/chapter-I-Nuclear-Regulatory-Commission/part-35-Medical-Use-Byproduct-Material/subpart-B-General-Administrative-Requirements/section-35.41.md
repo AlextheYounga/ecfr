@@ -1,5 +1,7 @@
 ##### § 35.41 Procedures for administrations requiring a written directive. #####
 
+Link to an amendment published at 83 FR 33104, July 16, 2018.
+
 (a) For any administration requiring a written directive, the licensee shall develop, implement, and maintain written procedures to provide high confidence that:
 
 (1) The patient's or human research subject's identity is verified before each administration; and

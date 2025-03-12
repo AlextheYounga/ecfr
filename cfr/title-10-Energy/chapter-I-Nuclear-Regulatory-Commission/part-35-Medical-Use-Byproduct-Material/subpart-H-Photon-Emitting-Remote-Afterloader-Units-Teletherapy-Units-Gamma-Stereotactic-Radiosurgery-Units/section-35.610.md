@@ -1,5 +1,7 @@
 ##### § 35.610 Safety procedures and instructions for remote afterloader units, teletherapy units, and gamma stereotactic radiosurgery units. #####
 
+Link to an amendment published at 83 FR 33110, July 16, 2018.
+
 (a) A licensee shall -
 
 (1) Secure the unit, the console, the console keys, and the treatment room when not in use or unattended;

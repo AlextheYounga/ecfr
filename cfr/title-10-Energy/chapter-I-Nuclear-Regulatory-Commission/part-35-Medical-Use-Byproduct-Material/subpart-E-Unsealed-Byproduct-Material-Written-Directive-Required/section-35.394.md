@@ -1,5 +1,7 @@
 ##### § 35.394 Training for the oral administration of sodium iodide I-131 requiring a written directive in quantities greater than 1.22 gigabecquerels (33 millicuries). #####
 
+Link to an amendment published at 83 FR 33108, July 16, 2018.
+
 Except as provided in § 35.57, the licensee shall require an authorized user for the oral administration of sodium iodide I-131 requiring a written directive in quantities greater than 1.22 Gigabecquerels (33 millicuries), to be a physician who -
 
 (a) Is certified by a medical specialty board whose certification process includes all of the requirements in paragraphs (c)(1) and (c)(2) of this section, and whose certification has been recognized by the Commission or an Agreement State, and who meets the requirements in paragraph (c)(3) of this section. (The names of board certifications which have been recognized by the Commission or an Agreement State will be posted on the NRC's Web page.); or

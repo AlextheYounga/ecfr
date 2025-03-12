@@ -1,5 +1,7 @@
 ##### § 35.396 Training for the parenteral administration of unsealed byproduct material requiring a written directive. #####
 
+Link to an amendment published at 83 FR 33108, July 16, 2018.
+
 Except as provided in § 35.57, the licensee shall require an authorized user for the parenteral administration requiring a written directive, to be a physician who -
 
 (a) Is an authorized user under § 35.390 for uses listed in §§ 35.390(b)(1)(ii)(G)(*3*) or 35.390(b)(1)(ii)(G)(*4*), or equivalent Agreement State requirements; or

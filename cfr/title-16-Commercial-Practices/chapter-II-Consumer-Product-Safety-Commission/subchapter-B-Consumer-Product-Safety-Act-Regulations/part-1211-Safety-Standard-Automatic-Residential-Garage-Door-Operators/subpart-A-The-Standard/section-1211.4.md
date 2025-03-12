@@ -1,5 +1,7 @@
 ##### § 1211.4 General requirements for protection against risk of injury. #####
 
+Link to an amendment published at 83 FR 32568, July 13, 2018.
+
 (a) If an automatically reset protective device is employed, automatic restarting of a motor shall not result in a risk of injury to persons.
 
 (b) A residential garage door operator is considered to comply with the requirement in paragraph (a) of this section if some means is provided to prevent the motor from restarting when the protector closes.

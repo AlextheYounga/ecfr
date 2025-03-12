@@ -1,5 +1,7 @@
 ##### § 30.65 Failure to disclose lead-based paint hazards. #####
 
+Link to an amendment published at 83 FR 32793, July 16, 2018.
+
 (a) *General.* The Director of the Office of Lead Hazard Control and Healthy Homes, or his or her designee, may initiate a civil money penalty action against any person who knowingly violates 42 U.S.C. 4852d.
 
 (b) *Amount of penalty.* The maximum penalty is $17,047 for each violation.

@@ -1,5 +1,7 @@
 ##### § 35.15 Exemptions regarding Type A specific licenses of broad scope. #####
 
+Link to an amendment published at 83 FR 33103, July 16, 2018.
+
 A licensee possessing a Type A specific license of broad scope for medical use, issued under Part 33 of this chapter, is exempt from -
 
 (a) The provisions of § 35.12(d) regarding the need to file an amendment to the license for medical use of byproduct material, as described in § 35.1000;

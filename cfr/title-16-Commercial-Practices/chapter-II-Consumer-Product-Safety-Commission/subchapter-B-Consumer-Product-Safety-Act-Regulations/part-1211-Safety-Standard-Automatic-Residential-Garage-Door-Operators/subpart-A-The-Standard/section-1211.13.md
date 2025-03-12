@@ -1,5 +1,7 @@
 ##### § 1211.13 Inherent force activated secondary door sensors. #####
 
+Link to an amendment published at 83 FR 32570, July 13, 2018.
+
 (a) *General.* (1) A force activated door sensor of a door system installed according to the installation instructions shall actuate in accordance with paragraphs (b) through (f) of this section, which are to be conducted in sequence on a single system sample, except for the separate test sequences of paragraph (a)(2) of this section.
 
 (2) The system shall actuate with the maximum and minimum specifications of the door, operator, and hardware.

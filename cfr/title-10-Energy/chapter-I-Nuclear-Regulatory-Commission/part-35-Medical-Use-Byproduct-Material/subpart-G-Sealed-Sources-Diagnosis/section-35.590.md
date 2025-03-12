@@ -1,5 +1,7 @@
 ##### § 35.590 Training for use of sealed sources for diagnosis. #####
 
+Link to an amendment published at 83 FR 33110, July 16, 2018.
+
 Except as provided in § 35.57, the licensee shall require the authorized user of a diagnostic sealed source for use in a device authorized under § 35.500 to be a physician, dentist, or podiatrist who -
 
 (a) Is certified by a specialty board whose certification process includes all of the requirements in paragraphs (b) and (c) of this section and whose certification has been recognized by the Commission or an Agreement State. (The names of board certifications which have been recognized by the Commission or an Agreement State will be posted on the NRC's Web page.); or

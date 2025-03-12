@@ -1,5 +1,7 @@
 ##### § 30.34 Terms and conditions of licenses. #####
 
+Link to an amendment published at 83 FR 33101, July 16, 2018.
+
 (a) Each license issued pursuant to the regulations in this part and the regulations in parts 31 through 36 and 39 of this chapter shall be subject to all the provisions of the Act, now or hereafter in effect, and to all valid rules, regulations and orders of the Commission.
 
 (b)(1) No license issued or granted pursuant to the regulations in this part and parts 31 through 36, and 39 nor any right under a license shall be transferred, assigned or in any manner disposed of, either voluntarily or involuntarily, directly or indirectly, through transfer of control of any license to any person, unless the Commission shall, after securing full information, find that the transfer is in accordance with the provisions of the Act and shall give its consent in writing.

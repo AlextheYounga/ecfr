@@ -1,5 +1,7 @@
 ##### § 35.24 Authority and responsibilities for the radiation protection program. #####
 
+Link to an amendment published at 83 FR 33103, July 16, 2018.
+
 (a) In addition to the radiation protection program requirements of § 20.1101 of this chapter, a licensee's management shall approve in writing -
 
 (1) Requests for a license application, renewal, or amendment before submittal to the Commission;

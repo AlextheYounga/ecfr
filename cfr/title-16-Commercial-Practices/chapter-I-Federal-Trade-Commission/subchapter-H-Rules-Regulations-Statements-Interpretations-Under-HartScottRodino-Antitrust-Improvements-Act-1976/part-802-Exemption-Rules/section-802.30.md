@@ -1,5 +1,7 @@
 ##### § 802.30 Intraperson transactions. #####
 
+Link to an amendment published at 83 FR 32771, July 16, 2018.
+
 (a) An acquisition (other than the formation of a corporation or unincorporated entity under § 801.40 or § 801.50 of this chapter) in which the acquiring and at least one of the acquired persons are, the same person by reason of § 801.1(b)(1) of this chapter, or in the case of a not-for-profit corporation which has no outstanding voting securities, by reason of § 801.1(b)(2) of this chapter, is exempt from the requirements of the Act.
 
 Examples to paragraph (a):1. A and B each have the right to 50% of the profits of partnership X. A also holds 100% of the voting securities of corporation Y. A pays B in excess of $50 million in cash (as adjusted) and transfers certain assets of X to Y. Because A is the acquiring person through its control of Y, pursuant to § 801.1(b)(1)(i), and one of the acquired persons through its control of X pursuant to § 801.1(b)(1)(ii), the acquisition of assets is exempt under § 802.30(a).

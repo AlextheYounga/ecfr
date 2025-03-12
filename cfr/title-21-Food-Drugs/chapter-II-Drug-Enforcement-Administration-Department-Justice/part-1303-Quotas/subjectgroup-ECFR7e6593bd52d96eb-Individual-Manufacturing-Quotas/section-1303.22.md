@@ -1,5 +1,7 @@
 ##### § 1303.22 Procedure for applying for individual manufacturing quotas. #####
 
+Link to an amendment published at 83 FR 32790, July 16, 2018.
+
 Any person who is registered to manufacture any basic class of controlled substance listed in Schedule I or II and who desires to manufacture a quantity of such class shall apply on DEA Form 189 for a manufacturing quota for such quantity of such class. Copies of DEA Form 189 may be obtained from, and shall be filed (on or before May 1 of the year preceding the calendar year for which the manufacturing quota is being applied) with, the UN Reporting and Quota Section, Diversion Control Division. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. A separate application must be made for each basic class desired to be manufactured. The applicant shall state:
 
 (a) The name and Administration Controlled Substances Code Number, as set forth in part 1308 of this chapter, of the basic class.

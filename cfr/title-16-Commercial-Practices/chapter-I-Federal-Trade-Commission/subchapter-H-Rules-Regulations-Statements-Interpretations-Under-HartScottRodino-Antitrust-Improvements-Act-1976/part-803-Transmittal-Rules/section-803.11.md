@@ -1,5 +1,7 @@
 ##### § 803.11 Termination of waiting period. #####
 
+Link to an amendment published at 83 FR 32771, July 16, 2018.
+
 (a) Except as provided in paragraph (c) of this section, no waiting period shall be terminated pursuant to section 7A(b)(2) unless -
 
 (1) All notifications required to be filed with respect to the acquisition by the act and these rules (or, if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance in accordance with § 803.3) have been received,
