@@ -42,7 +42,7 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 (15) Unadjusted basis immediately after the acquisition of qualified property (UBIA of qualified property).
 
-(16) W-2 Wages.
+(16) W-2 wages.
 
 (c) Computation of the section 199A deduction for individuals with taxable income not exceeding threshold amount.
 
@@ -498,4 +498,4 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 (ii) Non-calendar year RPE.
 
-[T.D. 9847, 84 FR 2988, Feb. 8, 2019]
+[T.D. 9847, 84 FR 2988, Feb. 8, 2019; T.D. 9847, 84 FR 15954, Apr. 17, 2019]Editorial Note:At 84 FR 15954, Apr. 17, 2019, § 1.199A-0 was amended be adding an entry for § 1.199A-2(b)(2)(iv), however, this paragraph already exists and the amendment could not be incorporated due to inaccurate amendatory instruction.

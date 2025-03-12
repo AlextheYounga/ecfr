@@ -1,5 +1,7 @@
 ##### § 273.7 Work provisions. #####
 
+Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
+
 (a) *Work requirements.* (1) As a condition of eligibility for food stamps, each household member not exempt under paragraph (b)(1) of this section must comply with the following SNAP work requirements:
 
 (i) Register for work or be registered by the State agency at the time of application and every 12 months after initial registration. The member required to register need not complete the registration form.

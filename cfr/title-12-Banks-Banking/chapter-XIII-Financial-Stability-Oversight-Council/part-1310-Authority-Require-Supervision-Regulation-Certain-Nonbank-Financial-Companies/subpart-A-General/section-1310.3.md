@@ -1,3 +1,5 @@
-##### § 1310.3 xxx #####
+##### § 1310.3 Amendments. #####
 
-Link to an amendment published at 84 FR 8959, Mar. 13, 2019.
+The Council shall not amend or rescind appendix A to this part without providing the public with notice and an opportunity to comment in accordance with the procedures applicable to legislative rules under 5 U.S.C. 553.
+
+[84 FR 8959, Mar. 13, 2019]

@@ -1,6 +1,6 @@
 ##### § 273.11 Action on households with special circumstances. #####
 
-Link to an amendment published at 84 FR 4680, Feb. 19, 2019.
+Link to an amendment published at 84 FR 4680, Feb. 19, 2019.Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (a) *Self-employment income.* The State agency must calculate a household's self-employment income as follows:
 

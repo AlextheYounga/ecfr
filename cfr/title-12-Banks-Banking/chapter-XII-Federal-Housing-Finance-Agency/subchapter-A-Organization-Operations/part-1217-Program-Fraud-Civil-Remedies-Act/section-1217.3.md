@@ -1,8 +1,6 @@
 ##### § 1217.3 Basis for civil penalties and assessments. #####
 
-Link to an amendment published at 84 FR 9704, Mar. 18, 2019.
-
-(a) *False, fictitious or fraudulent claims.* (1) A civil penalty of not more than $11,181 may be imposed upon a person who makes a claim to FHFA for property, services, or money where the person knows or has reason to know that the claim:
+(a) *False, fictitious or fraudulent claims.* (1) A civil penalty of not more than $11,463 may be imposed upon a person who makes a claim to FHFA for property, services, or money where the person knows or has reason to know that the claim:
 
 (i) Is false, fictitious, or fraudulent;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 9704, Mar. 18, 2019.
 
 (6) If the FHFA has made any payment, transferred property, or provided services for a claim, then FHFA may make an assessment against a person found liable in an amount of up to twice the amount of the claim or portion of the claim that is determined to be in violation of paragraph (a)(1) of this section. This assessment is in addition to the amount of any civil penalty imposed.
 
-(b) *False, fictitious or fraudulent statements.* (1) A civil penalty of up to $11,181 may be imposed upon a person who makes a written statement to FHFA with respect to a claim, contract, bid or proposal for a contract, or benefit from FHFA that:
+(b) *False, fictitious or fraudulent statements.* (1) A civil penalty of up to $11,463 may be imposed upon a person who makes a written statement to FHFA with respect to a claim, contract, bid or proposal for a contract, or benefit from FHFA that:
 
 (i) The person knows or has reason to know:
 
@@ -40,4 +38,4 @@ Link to an amendment published at 84 FR 9704, Mar. 18, 2019.
 
 (c) *Joint and several liability.* A civil penalty or assessment may be imposed jointly and severally if more than one person is determined to be liable.
 
-[81 FR 43034, July 1, 2016, as amended at 83 FR 43968, Aug. 29, 2018]
+[81 FR 43034, July 1, 2016, as amended at 83 FR 43968, Aug. 29, 2018; 84 FR 9704, Mar. 18, 2019]

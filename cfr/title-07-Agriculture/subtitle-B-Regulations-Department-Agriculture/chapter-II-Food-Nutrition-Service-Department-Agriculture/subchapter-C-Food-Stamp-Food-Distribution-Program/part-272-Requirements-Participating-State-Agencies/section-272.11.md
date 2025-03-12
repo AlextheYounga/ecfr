@@ -1,5 +1,7 @@
 ##### § 272.11 Systematic Alien Verification for Entitlements (SAVE) Program. #####
 
+Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
+
 (a) *General.* A State agency may participate in the SAVE Program established by the Immigration and Naturalization Service (INS), in order to verify the validity of documents provided by aliens applying for SNAP benefits with the central data files maintained by INS.
 
 (b) *Agreements.* (1) Prior to implementing the SAVE Program, the State agency shall execute an agreement with INS. The agreement shall specify the information to be exchanged and the procedures which will be used in the exchange of information.

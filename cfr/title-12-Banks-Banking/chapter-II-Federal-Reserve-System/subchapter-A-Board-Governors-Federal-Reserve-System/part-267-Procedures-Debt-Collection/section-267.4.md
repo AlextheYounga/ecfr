@@ -1,0 +1,3 @@
+##### § 267.4 Administrative wage garnishment. #####
+
+The Board may collect debts, or refer debts for collection, from the wages of persons employed outside of the Federal Government by administrative wage garnishment in accordance with the requirements of 31 U.S.C. 3720D. Prior to such garnishment, the debtor will be provided a hearing in accordance with the procedures described at 31 CFR 285.11(f).

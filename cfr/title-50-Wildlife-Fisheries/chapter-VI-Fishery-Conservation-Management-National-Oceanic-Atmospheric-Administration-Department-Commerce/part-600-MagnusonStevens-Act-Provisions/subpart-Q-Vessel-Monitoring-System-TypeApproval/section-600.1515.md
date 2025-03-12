@@ -1,9 +1,7 @@
-##### § 600.1515 Type-approval revocation appeals process. #####
+##### § 600.1515 Litigation support. #####
 
-(a) If a type-approval holder receives a Revocation Letter pursuant to § 600.1514, the type-approval holder may file an appeal of the revocation to the NMFS Assistant Administrator.
+(a) All technical aspects of a type-approved EMTU, EMTU-C, MTU, MCS, or bundle are subject to being admitted as evidence in a court of law, if needed. The reliability of all technologies utilized in the EMTU, EMTU-C, MTU, MCS, or bundle may be analyzed in court for, inter alia, testing procedures, error rates, peer review, technical processes and general industry acceptance.
 
-(b) An appeal must be filed within 14 calendar days of the date of the Revocation Letter. A type-approval holder may not request an extension of time to file an appeal.
+(b) The type-approval holder must, as a requirement of the holder's type-approval, provide technical and expert support for litigation to substantiate the EMTU/EMTU-C, MCS, or bundle capabilities to establish NMFS Office of Law Enforcement cases against violators, as needed. If the technologies have previously been subject to such scrutiny in a court of law, the type-approval holder must provide NMFS with a brief summary of the litigation and any court findings on the reliability of the technology.
 
-(c) An appeal must include a complete copy of the Revocation Letter and its attachments and a written statement detailing any facts or circumstances explaining and refuting the failures summarized in the Revocation Letter.
-
-(d) The NMFS Assistant Administrator may, in his or her discretion, affirm, vacate, or modify the Revocation Letter and will send a letter to the type-approval holder explaining his or her determination, within 21 calendar days of receipt of the appeal. The NMFS Assistant Administrator's determination constitutes the final agency decision.
+(c) The type-approval holder will be required to sign a non-disclosure agreement limiting the release of certain information that might compromise the effectiveness of the VMS operations.

@@ -1,9 +1,13 @@
-##### § 600.1516 Revocation effective date and notification to vessel owners. #####
+##### § 600.1516 Reimbursement opportunities for revoked Vessel Monitoring System type-approval products. #####
 
-(a) Following issuance of a Revocation Letter pursuant to § 600.1514 and any appeal pursuant to § 600.1515, NMFS will provide notice to all vessel owners impacted by the type-approval revocation via letter and Federal Register notice. NMFS will provide information to impacted vessel owners on:
+(a) Subject to the availability of funds, vessel owners may be eligible for reimbursement payments for a replacement EMTU/EMTU-C if:
 
-(1) The next steps vessel owners should take to remain in compliance with regional and/or national VMS requirements;
+(1) All eligibility and process requirements specified by NMFS are met as described in NMFS Policy Directive 06-102; and
 
-(2) The date, 60-90 calendar days from the notice date, on which the type-approval revocation will become effective;
+(2) The replacement type-approved EMTU/EMTU-C is installed on the vessel, and reporting to NMFS Office of Law Enforcement; and
 
-(3) Reimbursement of the cost of a new type-approved EMTU, should funding for reimbursement be available pursuant to § 600.1518.
+(3) The type-approval for the previously installed EMTU/EMTU-C has been revoked by NMFS; or
+
+(4) NMFS requires the vessel owner to purchase a new EMTU/EMTU-C prior to the end of an existing unit's service life.
+
+(b) The cap for individual reimbursement payments is subject to change. If this occurs, NMFS Office of Law Enforcement will publish a notice in the Federal Register announcing the change.

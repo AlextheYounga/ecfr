@@ -1,5 +1,7 @@
 ##### § 273.5 Students. #####
 
+Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
+
 (a) *Applicability.* An individual who is enrolled at least half-time in an institution of higher education shall be ineligible to participate in SNAP unless the individual qualifies for one of the exemptions contained in paragraph (b) of this section. An individual is considered to be enrolled in an institution of higher education if the individual is enrolled in a business, technical, trade, or vocational school that normally requires a high school diploma or equivalency certificate for enrollment in the curriculum or if the individual is enrolled in a regular curriculum at a college or university that offers degree programs regardless of whether a high school diploma is required.
 
 (b) *Student Exemptions.* To be eligible for the program, a student as defined in paragraph (a) of the section must meet at least one of the following criteria.

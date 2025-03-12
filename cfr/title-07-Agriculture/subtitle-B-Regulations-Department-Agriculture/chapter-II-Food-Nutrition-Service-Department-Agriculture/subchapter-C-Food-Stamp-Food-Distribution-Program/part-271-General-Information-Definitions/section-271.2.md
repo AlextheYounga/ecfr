@@ -1,5 +1,7 @@
 ##### § 271.2 Definitions. #####
 
+Link to an amendment published at 84 FR 15092, Apr. 15, 2019.
+
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
 *Active case* means a household which was certified prior to, or during, the sample month and issued SNAP benefits for the sample month.

@@ -1,5 +1,7 @@
 ##### § 273.1 Household concept. #####
 
+Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
+
 (a) *General household definition.* A household is composed of one of the following individuals or groups of individuals, unless otherwise specified in paragraph (b) of this section:
 
 (1) An individual living alone;
