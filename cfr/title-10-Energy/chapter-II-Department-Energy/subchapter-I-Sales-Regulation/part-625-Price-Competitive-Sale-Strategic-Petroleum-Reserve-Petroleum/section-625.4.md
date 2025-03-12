@@ -1,5 +1,7 @@
 ##### § 625.4 Publication of the Standard Sales Provisions. #####
 
+Link to an amendment published at 84 FR 8794, Mar. 12, 2019.
+
 (a) *Publication.* The Standard Sales Provisions shall be published in the Federal Register and in the Code of Federal Regulations as an appendix to this rule.
 
 (b) *Revisions of the Standard Sales Provisions.* The Standard Sales Provisions shall be reviewed periodically and republished in the Federal Register, with any revisions.

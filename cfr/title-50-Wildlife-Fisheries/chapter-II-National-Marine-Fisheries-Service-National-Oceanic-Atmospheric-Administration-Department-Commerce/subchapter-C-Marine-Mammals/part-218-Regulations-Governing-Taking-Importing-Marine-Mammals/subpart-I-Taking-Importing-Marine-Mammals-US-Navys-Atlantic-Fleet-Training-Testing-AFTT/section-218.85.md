@@ -1,171 +1,129 @@
 ##### § 218.85 Requirements for monitoring and reporting. #####
 
-(a) As outlined in the AFTT Study Area Stranding Communication Plan, the Holder of the Authorization must notify NMFS immediately (or as soon as clearance procedures allow) if the specified activity identified in § 218.80 is thought to have resulted in the mortality or injury of any marine mammals, or in any take of marine mammals not identified in § 218.81.
+(a) *Unauthorized take.* The Navy must notify NMFS immediately (or as soon as operational security considerations allow) if the specified activity identified in § 218.80 is thought to have resulted in the mortality or serious injury of any marine mammals, or in any Level A or Level B harassment take of marine mammals not identified in this subpart.
 
-(b) The Holder of the LOA must conduct all monitoring and required reporting under the LOA, including abiding by the AFTT Monitoring Plan.
+(b) *Monitoring and reporting under the LOAs.* The Navy must conduct all monitoring and required reporting under the LOAs, including abiding by the AFTT Study Area monitoring program. Details on program goals, objectives, project selection process, and current projects are available at *www.navymarinespeciesmonitoring.us.*
 
-(c) General Notification of Injured or Dead Marine Mammals - Navy personnel shall ensure that NMFS (regional stranding coordinator) is notified immediately (or as soon as clearance procedures allow) if an injured or dead marine mammal is found during or shortly after, and in the vicinity of a Navy training or testing activity utilizing mid- or high-frequency active sonar or underwater explosive detonations. The Navy shall provide NMFS with species identification or description of the animal(s), the condition of the animal(s) (including carcass condition if the animal is dead), location, time of first discovery, observed behaviors (if alive), and photo or video (if available). The Navy shall consult the Stranding Response Plan to obtain more specific reporting requirements for specific circumstances.
+(c) *Notification of injured, live stranded, or dead marine mammals.* The Navy must consult the Notification and Reporting Plan, which sets out notification, reporting, and other requirements when dead, injured, or live stranded marine mammals are detected. The Notification and Reporting Plan is available at *www.fisheries.noaa.gov/national/marine-mammal-protection/incidental-take-authorizations-military-readiness-activities.*
 
-(d) Annual AFTT Monitoring Plan Report - The Navy shall submit an annual report of the AFTT Monitoring Plan on April 1 of each year describing the implementation and results from the previous calendar year. Data collection methods will be standardized across range complexes and study areas to allow for comparison in different geographic locations. Although additional information will be gathered, the protected species observers collecting marine mammal data pursuant to the AFTT Monitoring Plan shall, at a minimum, provide the same marine mammal observation data required in § 218.85. As an alternative, the Navy may submit a multi-Range Complex annual Monitoring Plan report to fulfill this requirement. Such a report would describe progress of knowledge made with respect to monitoring plan study questions across all Navy ranges associated with the ICMP. Similar study questions shall be treated together so that progress on each topic shall be summarized across all Navy ranges. The report need not include analyses and content that do not provide direct assessment of cumulative progress on the monitoring plan study questions.
+(d) *Annual AFTT Study Area marine species monitoring report.* The Navy must submit an annual report of the AFTT Study Area monitoring describing the implementation and results from the previous calendar year. Data collection methods must be standardized across range complexes and study areas to allow for comparison in different geographic locations. The report must be submitted to the Director, Office of Protected Resources of NMFS either 90 days after the calendar year, or 90 days after the conclusion of the monitoring year to be determined by the Adaptive Management process. This report will describe progress of knowledge made with respect to monitoring plan study questions across all Navy ranges associated with the Integrated Comprehensive Monitoring Program. Similar study questions must be treated together so that progress on each topic can be summarized across all Navy ranges. The report need not include analyses and content that does not provide direct assessment of cumulative progress on the monitoring plan study questions.
 
-(e) Vessel Strike - In the event that a Navy vessel strikes a whale, the Navy shall do the following:
+(e) *Annual AFTT Study Area training and testing reports.* Each year, the Navy must submit a preliminary report (Quick Look Report) detailing the status of authorized sound sources within 21 days after the anniversary of the date of issuance of each LOA to the Director, Office of Protected Resources, NMFS. Each year, the Navy must submit a detailed report within 3 months after the anniversary of the date of issuance of each LOA to the Director, Office of Protected Resources, NMFS. The annual reports must contain information on Major Training Exercises (MTEs), Sinking Exercise (SINKEX) events, and a summary of all sound sources used, including within specified mitigation reporting areas, as described in paragraph (e)(3) of this section. The analysis in the detailed report must be based on the accumulation of data from the current year's report and data collected from the previous report. The detailed reports must contain information identified in paragraphs (e)(1) through (5) of this section.
 
-(1) Immediately report to NMFS (pursuant to the established Communication Protocol) the:
+(1) *MTEs.* This section of the report must contain the following information for MTEs conducted in the AFTT Study Area:
 
-(i) Species identification if known;
-
-(ii) Location (latitude/longitude) of the animal (or location of the strike if the animal has disappeared);
-
-(iii) Whether the animal is alive or dead (or unknown); and
-
-(iv) The time of the strike.
-
-(2) As soon as feasible, the Navy shall report to or provide to NMFS, the:
-
-(i) Size, length, and description (critical if species is not known) of animal;
-
-(ii) An estimate of the injury status (e.g., dead, injured but alive, injured and moving, blood or tissue observed in the water, status unknown, disappeared, etc.);
-
-(iii) Description of the behavior of the whale during event, immediately after the strike, and following the strike (until the report is made or the animal is no long sighted);
-
-(iv) Vessel class/type and operation status;
-
-(v) Vessel length
-
-(vi) Vessel speed and heading; and
-
-(vii) To the best extent possible, obtain
-
-(3) Within 2 weeks of the strike, provide NMFS:
-
-(i) A detailed description of the specific actions of the vessel in the 30-minute timeframe immediately preceding the strike, during the event, and immediately after the strike (e.g., the speed and changes in speed, the direction and changes in the direction, other maneuvers, sonar use, etc., if not classified); and
-
-(ii) A narrative description of marine mammal sightings during the event and immediately after, and any information as to sightings prior to the strike, if available; and
-
-(iii) Use established Navy shipboard procedures to make a camera available to attempt to capture photographs following a ship strike.
-
-(f) Annual AFTT Exercise and Testing Report - The Navy shall submit “quick-look” reports detailing the status of authorized sound sources within 21 days after the end of the annual authorization cycle. The Navy shall submit detailed reports 3 months after the anniversary of the date of issuance of the LOA. The annual reports shall contain information on Major Training Exercises (MTE), Sinking Exercise (SINKEX) events, and a summary of sound sources used, as described in paragraphs (f)(2)(i)(A) through (C) of this section. The analysis in the reports will be based on the accumulation of data from the current year's report and data collected from previous reports. These reports shall contain information identified in paragraphs (e)(1) through (5) of this section.
-
-(1) Major Training Exercises/SINKEX -
-
-(i) This section shall contain the reporting requirements for Coordinated and Strike Group exercises and SINKEX. Coordinated and Strike Group Major Training Exercises:
-
-(A) Sustainment Exercise (SUSTAINEX).
-
-(B) Integrated ASW Course (IAC).
-
-(C) Joint Task Force Exercises (JTFEX).
-
-(D) Composite Training Unit Exercises (COMPTUEX).
-
-(ii) Exercise information for each MTE:
+(i) Exercise Information (for each MTE):
 
 (A) Exercise designator.
 
 (B) Date that exercise began and ended.
 
-(C) Location (operating area).
+(C) Location.
 
-(D) Number of items or hours (per the LOA) of each sound source bin (impulsive and non-impulsive) used in the exercise.
+(D) Number and types of active sonar sources used in the exercise.
 
-(E) Number and types of vessels, aircraft, etc., participating in exercise.
+(E) Number and types of passive acoustic sources used in exercise.
 
-(F) Individual marine mammal sighting information for each sighting when mitigation occurred during each MTE:
+(F) Number and types of vessels, aircraft, and other platforms, participating in exercise.
 
-(*1*) Date/time/location of sighting.
+(G) Total hours of all active sonar source operation.
 
-(*2*) Species (if not possible, indication of whale/dolphin/pinniped).
+(H) Total hours of each active sonar source bin.
 
-(*3*) Number of individuals.
+(I) Wave height (high, low, and average) during exercise.
 
-(*4*) Initial detection sensor.
+(ii) Individual marine mammal sighting information for each sighting in each exercise when mitigation occurred:
 
-(*5*) Indication of specific type of platform the observation was made from (including, for example, what type of surface vessel or testing platform).
+(A) Date/Time/Location of sighting.
 
-(*6*) Length of time observers maintained visual contact with marine mammal(s).
+(B) Species (if not possible, indication of whale/dolphin/pinniped).
 
-(*7*) Sea state.
+(C) Number of individuals.
 
-(*8*) Visibility.
+(D) Initial Detection Sensor (*e.g.,* sonar, Lookout).
 
-(*9*) Sound source in use at the time of sighting.
+(E) Indication of specific type of platform observation made from (including, for example, what type of surface vessel or testing platform).
 
-(*10*) Indication of whether animal is \<200 yd, 200-500 yd, 500-1,000 yd, 1,000-2,000 yd, or \>2,000 yd from sound source.
+(F) Length of time observers maintained visual contact with marine mammal.
 
-(*11*) Mitigation implementation - whether operation of sonar sensor was delayed, or sonar was powered or shut down, and how long the delay was; or whether navigation was changed or delayed.
+(G) Sea state.
 
-(*12*) If source in use is a hull-mounted sonar, relative bearing of animal from ship and estimation of animal's motion relative to ship (opening, closing, parallel).
+(H) Visibility.
 
-(*13*) Observed behavior - watchstanders shall report, in plain language and without trying to categorize in any way, the observed behavior of the animal(s) (such as closing to bow ride, paralleling course/speed, floating on surface and not swimming, etc.), and if any calves present.
+(I) Sound source in use at the time of sighting.
 
-(G) An evaluation (based on data gathered during all of the MTEs) of the effectiveness of mitigation measures designed to minimize the received level to which marine mammals may be exposed. This evaluation shall identify the specific observations that support any conclusions the Navy reaches about the effectiveness of the mitigation.
+(J) Indication of whether animal was less than 200 yd, 200 to 500 yd, 500 to 1,000 yd, 1,000 to 2,000 yd, or greater than 2,000 yd from sonar source.
 
-(iii) Exercise information for each SINKEX:
+(K) Mitigation implementation. Whether operation of sonar sensor was delayed, or sonar was powered or shut down, and how long the delay was.
 
-(A) List of the vessels and aircraft involved in the SINKEX.
+(L) If source in use was hull-mounted, true bearing of animal from the vessel, true direction of vessel's travel, and estimation of animal's motion relative to vessel (opening, closing, parallel).
 
-(B) Location (operating area).
+(M) Observed behavior. Lookouts must report, in plain language and without trying to categorize in any way, the observed behavior of the animal(s) (such as animal closing to bow ride, paralleling course/speed, floating on surface and not swimming, etc.) and if any calves were present.
 
-(C) Chronological list of events with times, including time of sunrise and sunset, start and stop time of all marine species surveys that occur before, during, and after the SINKEX, and ordnance used.
+(iii) An evaluation (based on data gathered during all of the MTEs) of the effectiveness of mitigation measures designed to minimize the received level to which marine mammals may be exposed. This evaluation must identify the specific observations that support any conclusions the Navy reaches about the effectiveness of the mitigation.
 
-(D) Visibility and/or weather conditions, wind speed, cloud cover, etc. throughout exercise if it changes.
+(2) *SINKEXs.* This section must include the following information for each SINKEX completed that year:
 
-(E) Aircraft used in the surveys, flight altitude, and flight speed and the area covered by each of the surveys, given in coordinates, map, or square miles.
+(i) Exercise information (gathered for each SINKEX):
 
-(F) Passive acoustic monitoring details (number of sonobuoys, detections of biologic activity, etc.).
+(A) Location.
 
-(G) Individual marine mammal sighting info for each sighting that required mitigation to be implemented:
+(B) Date and time exercise began and ended.
 
-(*1*) Date/time/location of sighting.
+(C) Total hours of observation by Lookouts before, during, and after exercise.
 
-(*2*) Species (if not possible, indication of whale/dolphin/pinniped).
+(D) Total number and types of explosive source bins detonated.
 
-(*3*) Number of individuals.
+(E) Number and types of passive acoustic sources used in exercise.
 
-(*4*) Initial detection sensor.
+(F) Total hours of passive acoustic search time.
 
-(*5*) Indication of specific type of platform the observation was made from (including, for example what type of surface vessel or platform).
+(G) Number and types of vessels, aircraft, and other platforms participating in exercise.
 
-(*6*) Length of time observers maintained visual contact with marine mammal(s).
+(H) Wave height in feet (high, low, and average) during exercise.
 
-(*7*) Sea state.
+(J) Narrative description of sensors and platforms utilized for marine mammal detection and timeline illustrating how marine mammal detection was conducted.
 
-(*8*) Visibility.
+(ii) Individual marine mammal observation (by Navy Lookouts) information (gathered for each marine mammal sighting) for each sighting where mitigation was implemented:
 
-(*9*) Indication of whether animal is \<200 yd, 200-500 yd, 500-1,000 yd, 1,000-2,000 yd, or \>2,000 yd from the target.
+(A) Date/Time/Location of sighting.
 
-(*10*) Mitigation implementation - whether the SINKEX was stopped or delayed and length of delay.
+(B) Species (if not possible, indicate whale, dolphin, or pinniped).
 
-(*11*) Observed behavior - watchstanders shall report, in plain language and without trying to categorize in any way, the observed behavior of the animals (such as animal closing to bow ride, paralleling course/speed, floating on surface and not swimming, etc.), and if any calves present.
+(C) Number of individuals.
 
-(H) List of the ordnance used throughout the SINKEX and net explosive weight (NEW) of each weapon and the combined ordnance NEW.
+(D) Initial detection sensor (*e.g.,* sonar or Lookout).
 
-(2) Summary of Sources Used.
+(E) Length of time observers maintained visual contact with marine mammal.
 
-(i) This section shall include the following information summarized from the authorized sound sources used in all training and testing events:
+(F) Sea state.
 
-(A) Total annual hours or quantity (per the LOA) of each bin of sonar or other non-impulsive source.
+(G) Visibility.
 
-(B) Total annual expended/detonated rounds (missiles, bombs, etc.) for each explosive bin.
+(H) Whether sighting was before, during, or after detonations/exercise, and how many minutes before or after.
 
-(C) Improved Extended Echo-Ranging System (IEER)/sonobuoy summary, including:
+(I) Distance of marine mammal from actual detonations: Less than 200 yd, 200 to 500 yd, 500 to 1,000 yd, 1,000 to 2,000 yd, or greater than 2,000 yd (or target spot if not yet detonated).
 
-(*1*) Total expended/detonated rounds (buoys).
+(J) Observed behavior. Lookouts must report, in plain language and without trying to categorize in any way, the observed behavior of the animal(s) (such as animal closing to bow ride, paralleling course/speed, floating on surface and not swimming etc.), including speed and direction and if any calves were present.
 
-(*2*) Total number of self-scuttled IEER rounds.
+(K) Resulting mitigation implementation. The report must indicate whether explosive detonations were delayed, ceased, modified, or not modified due to marine mammal presence and for how long.
 
-(3) Sonar Exercise Notification - The Navy shall submit to NMFS (specific contact information to be provided in LOA) either an electronic (preferably) or verbal report within fifteen calendar days after the completion of any major exercise indicating:
+(L) If observation occurred while explosives were detonating in the water, indicate munition type in use at time of marine mammal detection.
 
-(i) Location of the exercise.
+(3) *Summary of sources used.* This section must include the following information summarized from the authorized sound sources used in all training and testing events:
 
-(ii) Beginning and end dates of the exercise.
+(i) Total annual hours or quantity (per the LOA) of each bin of sonar or other acoustic sources (pile driving and air gun activities); and
+
+(ii) Total annual expended/detonated ordnance (missiles, bombs, sonobuoys, etc.) for each explosive bin.
+
+(4) *Geographic information presentation.* The reports must present an annual (and seasonal, where practical) depiction of training and testing bin usage (as well as pile driving activities) geographically across the AFTT Study Area.
+
+(5) *Sonar exercise notification.* The Navy must submit to NMFS (contact as specified in the LOA) an electronic report within fifteen calendar days after the completion of any MTE indicating:
+
+(i) Location of the exercise;
+
+(ii) Beginning and end dates of the exercise; and
 
 (iii) Type of exercise.
 
-(4) Geographic Information Presentation - The reports shall present an annual (and seasonal, where practical) depiction of training exercises and testing bin usage geographically across the Study Area.
-
-(g) 5-yr Close-out Exercise and Testing Report - This report will be included as part of the 2019 annual exercise or testing report. This report will provide the annual totals for each sound source bin with a comparison to the annual allowance and the 5-year total for each sound source bin with a comparison to the 5-year allowance. Additionally, if there were any changes to the sound source allowance, this report will include a discussion of why the change was made and include the analysis to support how the change did or did not result in a change in the FEIS and final rule determinations. The report will be submitted April 1 following the expiration of the rule. NMFS will submit comments on the draft close-out report, if any, within 3 months of receipt. The report will be considered final after the Navy has addressed NMFS' comments, or 3 months after the submittal of the draft if NMFS does not provide comments.
-
-(h) Ship Shock Trial Report - The reporting requirements will be developed in conjunction with the individual test-specific mitigation plan for each ship shock trial. This will allow both the Navy and NMFS to take into account specific information regarding location, assets, species, and seasonality.
-
-[78 FR 73065, Dec. 4, 2013, as amended at 80 FR 73622, Nov. 24, 2015]
+(f) *Five-year close-out comprehensive training and testing report.* This report must be included as part of the 2023 annual training and testing report. This report must provide the annual totals for each sound source bin with a comparison to the annual allowance and the five-year total for each sound source bin with a comparison to the five-year allowance. Additionally, if there were any changes to the sound source allowance, this report must include a discussion of why the change was made and include the analysis to support how the change did or did not result in a change in the EIS and final rule determinations. The draft report must be submitted three months after the expiration of this subpart to the Director, Office of Protected Resources, NMFS. NMFS must submit comments on the draft close-out report, if any, within three months of receipt. The report will be considered final after the Navy has addressed NMFS' comments, or 3 months after the submittal of the draft if NMFS does not provide comments.
