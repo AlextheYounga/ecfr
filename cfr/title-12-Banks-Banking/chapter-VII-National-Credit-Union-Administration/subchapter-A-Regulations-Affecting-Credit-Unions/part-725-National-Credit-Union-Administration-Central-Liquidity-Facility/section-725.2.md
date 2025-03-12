@@ -32,13 +32,23 @@ As used in this part:
 
 (7) Balances maintained by federally insured credit unions in a Federal Reserve bank, or in a pass-through account to a Federal Reserve bank, pursuant to the requirements of section 19(b) of the Federal Reserve Act (12 U.S.C. 461(b)).
 
-(i) *Liquidity needs* means the needs of credit unions for:
+(i) *Liquidity needs* means:
 
-(1) Short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
+(1) From April 29, 2020 to December 31, 2021, the needs of credit unions for:
 
-(2) Seasonal credit available for longer periods to assist in meeting seasonal needs for funds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
+(i) Short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
-(3) Protracted adjustment credit available in the event of unusual or emergency circumstances of a longer term nature resulting from national, regional or local difficulties.
+(ii) Seasonal credit available for longer periods to assist in meeting seasonal needs for funds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
+
+(iii) Protracted adjustment credit available in the event of unusual or emergency circumstances of a longer-term nature resulting from national, regional or local difficulties.
+
+(2) After December 31, 2021, the needs of credit unions primarily serving natural persons for:
+
+(i) Short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
+
+(ii) Seasonal credit available for longer periods to assist in meeting seasonal needs for funds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
+
+(iii) Protracted adjustment credit available in the event of unusual or emergency circumstances of a longer-term nature resulting from national, regional or local difficulties.
 
 (j) *Management policies* means policies of a credit union with respect to membership, shares, deposits, dividends, interest rates, lending, investing, borrowing, safeguarding of assets, hiring, training and supervision of employees, and general operating and control practices and procedures.
 
@@ -58,4 +68,4 @@ As used in this part:
 
 (p) *Stock subscription* means the stock subscription required for membership in the Facility. “Total subscribed Facility stock” is the sum of all members' stock subscriptions.
 
-[44 FR 49437, Aug. 23, 1979, as amended at 53 FR 22472, June 16, 1988; 66 FR 65624, Dec. 20, 2001; 78 FR 32545, May 31, 2013; 84 FR 1608, Feb. 5, 2019; 85 FR 23735, Apr. 29, 2020]
+[44 FR 49437, Aug. 23, 1979, as amended at 53 FR 22472, June 16, 1988; 66 FR 65624, Dec. 20, 2001; 78 FR 32545, May 31, 2013; 84 FR 1608, Feb. 5, 2019; 85 FR 23735, Apr. 29, 2020; 86 FR 15571, Mar. 24, 2021]

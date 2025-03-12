@@ -14,7 +14,7 @@
 
 (iii) Such other demonstrable liquidity needs as the NCUA Board may specify; or
 
-(iv) The applicant Agent's own liquidity needs.
+(iv) For the period beginning April 29, 2020, and ending on December 31, 2021, the applicant Agent's own liquidity needs. After the aforementioned period, an Agent is prohibited from submitting an application for an extension for its own liquidity needs.
 
 (3) An Agent shall not submit an application to the Facility based on the liquidity needs of any member natural person credit union which has not agreed to the repayment, security and credit reporting terms prescribed by the Facility for Agent loans;
 
@@ -26,4 +26,4 @@
 
 (d) Applications of Regular and Agent members shall be filed with a Facility lending officer. Each application for credit which is completed and properly filed will be approved or denied within five working days after the day of receipt.
 
-[44 FR 49437, Aug. 23, 1979, as amended at 47 FR 1371, Jan. 13, 1982; 85 FR 23735, Apr. 29, 2020]
+[44 FR 49437, Aug. 23, 1979, as amended at 47 FR 1371, Jan. 13, 1982; 85 FR 23735, Apr. 29, 2020; 86 FR 15572, Mar. 24, 2021]
