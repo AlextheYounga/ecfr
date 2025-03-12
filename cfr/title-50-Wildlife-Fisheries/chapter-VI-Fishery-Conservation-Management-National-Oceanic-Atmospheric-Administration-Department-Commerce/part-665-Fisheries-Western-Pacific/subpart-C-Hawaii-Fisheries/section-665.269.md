@@ -1,5 +1,7 @@
 ##### § 665.269 Annual Catch Limits (ACL). #####
 
+Link to an amendment published at 88 FR 14082, Mar. 7, 2023.
+
 (a) *General.* The ACLs limiting the amount of precious coral that may be taken in any precious coral permit area during the fishing year are listed in paragraph (c) of this section. Only live coral is counted toward the ACL. The accounting period for each fishing year for all precious coral ACLs begins July 1 and ends June 30 of the following year.
 
 (b) *Reserves and reserve release.* The ACL for exploratory area X-P-H will be held in reserve for harvest by vessels of the United States in the following manner:
@@ -16,20 +18,20 @@
 
 Table 1 to Paragraph (c)
 
-|Type of  <br/>coral bed|     Area and coral  <br/>group     |2019 ACL  <br/>(lb)|2020 ACL  <br/>(lb)|2021 ACL  <br/>(lb)|
-|-----------------------|------------------------------------|-------------------|-------------------|-------------------|
-|    Established bed    |     Auau Channel - Black coral     |       5,512       |       5,512       |       5,512       |
-|                       |  Makapuu Bed - Pink and red coral  |       2,205       |       2,205       |       2,205       |
-|                       |     Makapuu Bed - Bamboo coral     |        551        |        551        |        551        |
-|   Conditional Beds    |180 Fathom Bank - Pink and red coral|        489        |        489        |        489        |
-|                       |   180 Fathom Bank - Bamboo coral   |        123        |        123        |        123        |
-|                       |  Brooks Bank - Pink and red coral  |        979        |        979        |        979        |
-|                       |     Brooks Bank - Bamboo coral     |        245        |        245        |        245        |
-|                       |Kaena Point Bed - Pink and red coral|        148        |        148        |        148        |
-|                       |   Kaena Point Bed - Bamboo coral   |        37         |        37         |        37         |
-|                       |  Keahole Bed - Pink and red coral  |        148        |        148        |        148        |
-|                       |     Keahole Bed - Bamboo coral     |        37         |        37         |        37         |
-|   Exploratory Area    |      Hawaii - precious coral       |       2,205       |       2,205       |       2,205       |
+|Type of  <br/>coral bed|    Area and coral  <br/>group    |2019 ACL  <br/>(lb)|2020 ACL  <br/>(lb)|2021 ACL  <br/>(lb)|
+|-----------------------|----------------------------------|-------------------|-------------------|-------------------|
+|    Established bed    |     Auau Channel—Black coral     |       5,512       |       5,512       |       5,512       |
+|                       |  Makapuu Bed—Pink and red coral  |       2,205       |       2,205       |       2,205       |
+|                       |     Makapuu Bed—Bamboo coral     |        551        |        551        |        551        |
+|   Conditional Beds    |180 Fathom Bank—Pink and red coral|        489        |        489        |        489        |
+|                       |   180 Fathom Bank—Bamboo coral   |        123        |        123        |        123        |
+|                       |  Brooks Bank—Pink and red coral  |        979        |        979        |        979        |
+|                       |     Brooks Bank—Bamboo coral     |        245        |        245        |        245        |
+|                       |Kaena Point Bed—Pink and red coral|        148        |        148        |        148        |
+|                       |   Kaena Point Bed—Bamboo coral   |        37         |        37         |        37         |
+|                       |  Keahole Bed—Pink and red coral  |        148        |        148        |        148        |
+|                       |     Keahole Bed—Bamboo coral     |        37         |        37         |        37         |
+|   Exploratory Area    |      Hawaii—precious coral       |       2,205       |       2,205       |       2,205       |
 
 Note 1 to § 665.269:
 

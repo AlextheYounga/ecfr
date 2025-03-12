@@ -1,5 +1,7 @@
 ##### § 665.253 Annual Catch Limits (ACL) and Annual Catch Targets (ACT). #####
 
+Link to an amendment published at 88 FR 14082, Mar. 7, 2023.
+
 (a) *Deepwater Shrimp.* (1) In accordance with § 665.4, the ACLs for each fishing year are as follows:
 
 Table 1 to Paragraph (a)(1)
