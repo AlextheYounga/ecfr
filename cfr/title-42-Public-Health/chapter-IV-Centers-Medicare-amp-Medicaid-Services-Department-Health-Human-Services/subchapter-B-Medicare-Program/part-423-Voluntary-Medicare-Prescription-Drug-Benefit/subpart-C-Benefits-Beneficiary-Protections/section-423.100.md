@@ -8,13 +8,13 @@ As used in this part, unless otherwise specified-
 
 *Affected enrollee* means a Part D enrollee who is currently taking a covered Part D drug that is either being removed from a Part D plan's formulary, or whose preferred or tiered cost-sharing status is changing and such drug removal or cost-sharing change affects the Part D enrollee's access to the drug during the current plan year.
 
-*Alternative prescription drug coverage* means coverage of Part D drugs, other than standard prescription drug coverage that meets the requirements of § 423.104(e). The term alternative prescription drug coverage must be either -
+*Alternative prescription drug coverage* means coverage of Part D drugs, other than standard prescription drug coverage that meets the requirements of § 423.104(e). The term alternative prescription drug coverage must be either—
 
 (1) *Basic alternative coverage* (alternative coverage that is actuarially equivalent to defined standard coverage, as determined through processes and methods established under § 423.265(d)(2)); or
 
 (2) *Enhanced alternative coverage* (alternative coverage that meets the requirements of § 423.104(f)(1)).
 
-*Applicable beneficiary* means an individual who, on the date of dispensing a covered Part D drug -
+*Applicable beneficiary* means an individual who, on the date of dispensing a covered Part D drug—
 
 (1) Is enrolled in a prescription drug plan or an MA-PD plan;
 
@@ -26,7 +26,7 @@ As used in this part, unless otherwise specified-
 
 (5) Has not incurred costs for covered part D drugs in the year equal to the annual out-of-pocket threshold specified in section 1860D-2(b)(4)(B) of the Act; and
 
-(6) Has a claim that -
+(6) Has a claim that—
 
 (i) Is within the coverage gap;
 
@@ -36,7 +36,7 @@ As used in this part, unless otherwise specified-
 
 (iv) Spans the coverage gap from the initial coverage period and exceeds the annual out-of-pocket threshold.
 
-*Applicable drug* means a Part D drug that is -
+*Applicable drug* means a Part D drug that is—
 
 (1)(i) Approved under a new drug application under section 505(b) of the Federal Food, Drug, and Cosmetic Act (FDCA); or
 
@@ -48,9 +48,9 @@ As used in this part, unless otherwise specified-
 
 (iii) Is provided to a particular applicable beneficiary through an exception or appeal for that particular applicable beneficiary.
 
-*At-risk beneficiary* means a Part D eligible individual -
+*At-risk beneficiary* means a Part D eligible individual—
 
-(1) Who is -
+(1) Who is—
 
 (i) Identified using clinical guidelines (as defined in this section);
 
@@ -64,7 +64,7 @@ As used in this part, unless otherwise specified-
 
 *Bioequivalent* has the meaning given such term in section 505(j)(8) of the Food, Drug, and Cosmetic Act.
 
-*Clinical guidelines,* for the purposes of a drug management program under § 423.153(f), are criteria -
+*Clinical guidelines,* for the purposes of a drug management program under § 423.153(f), are criteria—
 
 (1) To identify potential at-risk beneficiaries who may be determined to be at-risk beneficiaries under such programs; and
 
@@ -76,7 +76,7 @@ As used in this part, unless otherwise specified-
 
 *Covered Part D* drug means a Part D drug that is included in a Part D plan's formulary, or treated as being included in a Part D plan's formulary as a result of a coverage determination or appeal under §§ 423.566, 423.580, and 423.600, 423.610, 423,620, and 423.630, and obtained at a network pharmacy or an out-of-network pharmacy in accordance with § 423.124.
 
-*Daily cost-sharing rate* means, as applicable, the established -
+*Daily cost-sharing rate* means, as applicable, the established—
 
 (1) Monthly copayment under the enrollee's Part D plan, divided by the number of days in the approved month's supply for the drug dispensed and rounded to the nearest cent; or
 
@@ -90,7 +90,7 @@ As used in this part, unless otherwise specified-
 
 (3) Do not include administrative costs incurred by the Part D plan in the operation of the Part D benefit, including systems costs for interfacing with pharmacies.
 
-*Exempted beneficiary* means with respect to a drug management program, an enrollee who -
+*Exempted beneficiary* means with respect to a drug management program, an enrollee who—
 
 (1) Has elected to receive hospice care or is receiving palliative or end-of-life care;
 
@@ -122,13 +122,13 @@ As used in this part, unless otherwise specified-
 
 *Group health plan,* for purposes of applying the definition of incurred costs in § 423.100, has the meaning given such term in 29 U.S.C. 1167(1), but specifically excludes a personal health savings vehicle, as used in this subpart.
 
-*Incurred costs* means costs incurred by a Part D enrollee for -
+*Incurred costs* means costs incurred by a Part D enrollee for—
 
 (1)(i) Covered Part D drugs that are not paid for under the Part D plan as a result of application of any annual deductible or other cost-sharing rules for covered Part D drugs prior to the Part D enrollee satisfying the out-of-pocket threshold under § 423.104(d)(5)(iii), including any price differential for which the Part D enrollee is responsible under § 423.124(b); or
 
 (ii) Nominal cost-sharing paid by or on behalf of an enrollee, which is associated with drugs that would otherwise be covered Part D drugs, as defined in § 423.100, but are instead paid for, with the exception of said nominal cost-sharing, by a patient assistance program providing assistance outside the Part D benefit, provided that documentation of such nominal cost-sharing has been submitted to the Part D plan consistent with the plan processes and instructions for the submission of such information; and
 
-(2) That are paid for -
+(2) That are paid for—
 
 (i) By the Part D enrollee or on behalf of the Part D enrollee by another person, and the Part D enrollee (or person paying on behalf of the Part D enrollee) is not reimbursed through insurance or otherwise, a group health plan, or other third party payment arrangement, or the person paying on behalf of the Part D enrollee is not paying under insurance or otherwise, a group health plan, or third party payment arrangement;
 
@@ -172,9 +172,9 @@ As used in this part, unless otherwise specified-
 
 *Out-of-network pharmacy* means a licensed pharmacy that is not under contract with a Part D sponsor to provide negotiated prices to Part D plan enrollees.
 
-*Part D drug* means -
+*Part D drug* means—
 
-(1) Unless excluded under paragraph (2) of this definition, any of the following if used for a medically accepted indication (as defined in section 1860D-2(e)(4) of the Act) -
+(1) Unless excluded under paragraph (2) of this definition, any of the following if used for a medically accepted indication (as defined in section 1860D-2(e)(4) of the Act)—
 
 (i) A drug that may be dispensed only upon a prescription and that is described in sections 1927(k)(2)(A)(i) through (iii) of the Act.
 
@@ -200,7 +200,7 @@ As used in this part, unless otherwise specified-
 
 *Person* means a natural person, corporation, mutual company, unincorporated association, partnership, joint venture, limited liability company, trust, estate, foundation, not-for-profit corporation, unincorporated organization, government or governmental subdivision or agency.
 
-*Personal health savings vehicle* means a vehicle through which individuals can set aside their own funds to pay for health care expenses, including covered Part D drugs, on a tax-free basis including any of the following -
+*Personal health savings vehicle* means a vehicle through which individuals can set aside their own funds to pay for health care expenses, including covered Part D drugs, on a tax-free basis including any of the following—
 
 (1) A Health Savings Account (as defined under section 220 of the Internal Revenue Code);
 
@@ -210,13 +210,13 @@ As used in this part, unless otherwise specified-
 
 *Plan allowance* means the amount Part D plans that offer coverage other than defined standard coverage may use to determine their payment and Part D enrollees' cost-sharing for covered Part D drugs purchased at an out-of-network pharmacy or in a physician's office in accordance with the requirements of § 423.124(b).
 
-*Potential at-risk beneficiary* means a Part D eligible individual who is not an exempted beneficiary (as defined in this section) and -
+*Potential at-risk beneficiary* means a Part D eligible individual who is not an exempted beneficiary (as defined in this section) and—
 
 (1) Who is identified using clinical guidelines (as defined in this section); or
 
 (2) With respect to whom a Part D plan sponsor receives a notice upon the beneficiary's enrollment in such sponsor's plan that the beneficiary was identified as a potential at-risk beneficiary (as defined in paragraph (1) of this definition) under the prescription drug plan in which the beneficiary was most recently enrolled and such identification had not been terminated upon disenrollment.
 
-*Preclusion list* means a CMS compiled list of prescribers who -
+*Preclusion list* means a CMS compiled list of prescribers who—
 
 (1) Meet all of the following requirements:
 
@@ -256,11 +256,13 @@ As used in this part, unless otherwise specified-
 
 *Preferred pharmacy* means a network pharmacy that offers covered Part D drugs at negotiated prices to Part D enrollees at lower levels of cost-sharing than apply at a non-preferred pharmacy under its pharmacy network contract with a Part D plan.
 
+*Price concession* means any form of discount, direct or indirect subsidy, or rebate received by the Part D sponsor or its intermediary contracting organization from any source that serves to decrease the costs incurred under the Part D plan by the Part D sponsor. Examples of price concessions include but are not limited to: Discounts, chargebacks, rebates, cash discounts, free goods contingent on a purchase agreement, coupons, free or reduced-price services, and goods in kind.
+
 *Program size* means the estimated population of potential at-risk beneficiaries in drug management programs (described in § 423.153(f)) operated by Part D plan sponsors that the Secretary determines can be effectively managed by such sponsors as part of the process to develop clinical guidelines.
 
 *Qualified prescription drug coverage* means any standard prescription drug coverage or alternative prescription drug coverage
 
-*Required prescription drug coverage* means coverage of Part D drugs under an MA-PD plan that consists of either -
+*Required prescription drug coverage* means coverage of Part D drugs under an MA-PD plan that consists of either—
 
 (1) Basic prescription drug coverage; or
 
@@ -270,7 +272,7 @@ As used in this part, unless otherwise specified-
 
 *Rural* means a five-digit ZIP code in which the population density is less than 1,000 individuals per square mile.
 
-*Standard prescription drug coverage* means coverage of Part D drugs that meets the requirements of § 423.104(d). The term standard prescription drug coverage must be either -
+*Standard prescription drug coverage* means coverage of Part D drugs that meets the requirements of § 423.104(d). The term standard prescription drug coverage must be either—
 
 (1) *Defined standard coverage* (standard prescription drug coverage that provides for cost-sharing as described in § 423.104(d)(2)(i)(A) and (d)(5)(i)); or
 
@@ -290,4 +292,4 @@ As used in this part, unless otherwise specified-
 
 *Valid prescription* means a prescription that complies with all applicable State law requirements constituting a valid prescription.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021; 87 FR 27899, May 9, 2022]

@@ -1,7 +1,5 @@
 ##### § 423.2267 Required materials and content. #####
 
-Link to an amendment published at 87 FR 27901, May 9, 2022.
-
 For information CMS deems to be vital to the beneficiary, including information related to enrollment, benefits, health, and rights, the agency may develop materials or content that are either standardized or provided in a model form. Such materials and content are collectively referred to as required.
 
 (a) *Standards for required materials and content.* All required materials and content, regardless of categorization as standardized in paragraph (b) of this section or model in paragraph (c) of this section, must meet the following:
@@ -30,7 +28,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (vii) A Notice of Privacy Practices as required under the HIPAA Privacy Rule (45 CFR 164.520).
 
-(2) When CMS issues standardized content, Part D sponsors -
+(2) When CMS issues standardized content, Part D sponsors—
 
 (3) The Part D sponsor may develop accompanying language for standardized material or content, provided that language does not conflict with the standardized material or content. For example, CMS may issue standardized content associated with an appeal notification and Part D sponsor may draft a letter that includes the standardized content in the body of the letter; the remaining language in the letter is at the sponsor's discretion, provided it does not conflict with the standardized content or other regulatory standards.
 
@@ -244,7 +242,43 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (31) *Appointment of Representative (AOR).* This is a standardized material used to assign an individual to act on behalf of a beneficiary for the purpose of an appeal, grievance, or coverage determination.
 
-(32) *Federal Contracting Statement.* This is model content through which plans must convey that they have a contract with Medicare and that enrollment in the plan depends on contract renewal.
+(32) *Member ID card.* The member ID card is a model communications material that plans must provide to enrollees as required under § 423.128(d)(2). The member ID card—
+
+(i) Must be provided to new enrollees within 10 calendars days from receipt of CMS confirmation of enrollment or by the last day of month prior to the plan effective date, whichever is later;
+
+(ii) Must include the Part D sponsor's—
+
+(A) Website address;
+
+(B) Customer service number (the member ID card is excluded from the hours of operations requirement under § 423.2262(c)(1)(i)); and
+
+(C) Contract/PBP number;
+
+(iii) Must include, if issued for a preferred provider organization (PPO) and PFFS plan, the phrase “Medicare limiting charges apply.”;
+
+(iv) May not use a member's Social Security number (SSN), in whole or in part;
+
+(v) Must be updated whenever information on a member's existing card changes; in such cases an updated card must be provided to the member;
+
+(vi) Is excluded from the translation requirement under paragraph (a)(2) of this section; and
+
+(vii) Is excluded from the 12-point font size requirement under paragraph (a)(1) of this section.
+
+(33) *Multi-language insert (MLI).* This is a standardized communications material which states, “We have free interpreter services to answer any questions you may have about our health or drug plan. To get an interpreter, just call us at [1-xxx-xxx-xxxx]. Someone who speaks [language] can help you. This is a free service.” in the following languages: Spanish, Chinese, Tagalog, French, Vietnamese, German, Korean, Russian, Arabic, Italian, Portuguese, French Creole, Polish, Hindi, and Japanese.
+
+(i) Additional languages that meet the 5-percent service area threshold, as required under paragraph (a)(2) of this section, must be added to the MLI used in that service area. A plan may also opt to include in the MLI any additional language that do not meet the 5-percent service area threshold, where it determines that this inclusion would be appropriate.
+
+(ii) The MLI must be provided with all required materials under paragraph (e) of this section.
+
+(iii) The MLI may be included as a part of the required material or as a standalone material in conjunction with the required material.
+
+(iv) When used as a standalone, the MLI may include organization name and logo.
+
+(v) When mailing multiple required materials together, only one MLI is required.
+
+(vi) The MLI may be provided electronically when a required material is provided electronically as permitted under paragraph (d)(2) of this section.
+
+(34) *Federal Contracting Statement.* This is model content through which plans must convey that they have a contract with Medicare and that enrollment in the plan depends on contract renewal.
 
 (i) The Federal Contracting Statement must include all of the following:
 
@@ -268,7 +302,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (E) Envelopes
 
-(33) *Star Ratings Disclaimer.* This is model content through which plans must:
+(35) *Star Ratings Disclaimer.* This is model content through which plans must:
 
 (i) Convey that plan sponsors are evaluated yearly by Medicare
 
@@ -276,7 +310,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iii) Include the model content in disclaimer form or within the material whenever Star Ratings are mentioned in marketing materials, with the exception of when Star Ratings are published on small objects (that is, a give-away items such as a pens or rulers).
 
-(34) *Accommodations Disclaimer.* This is model content through which plans must:
+(36) *Accommodations Disclaimer.* This is model content through which plans must:
 
 (i) Convey that accommodations for persons with special needs is available
 
@@ -284,7 +318,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iii) Include the model content in disclaimer form or within the body of the material on any advertisement of invitation to all events as described under § 423.2264(c).
 
-(35) *Mailing Statements.* This is standardized content. It consists of statements on envelopes that Part D sponsor must include when mailing information to current members, as follows:
+(37) *Mailing Statements.* This is standardized content. It consists of statements on envelopes that Part D sponsor must include when mailing information to current members, as follows:
 
 (i) Part D sponsors must include the following statement when mailing information about the enrollee's current plan: “Important [Insert Plan Name] information.”
 
@@ -294,12 +328,30 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iv) Delegated or sub-contracted entities and downstream entities that conduct mailings on behalf of a multiple Part D sponsors must also comply with this requirement, however, they do not have to include a plan name.
 
-(36) *Promotional Give-Away Disclaimer.* This is model content. The disclaimer consists of a statement that must make clear that there is no obligation to enroll in a plan, and must be included when offering a promotional give-away such as a drawing, prizes, or a free gift.
+(38) *Promotional Give-Away Disclaimer.* This is model content. The disclaimer consists of a statement that must make clear that there is no obligation to enroll in a plan, and must be included when offering a promotional give-away such as a drawing, prizes, or a free gift.
 
-(37) *Provider Co-Branded Material Disclaimer.* This is model content through which Part D sponsors must:
+(39) *Provider Co-Branded Material Disclaimer.* This is model content through which Part D sponsors must:
 
 (i) Convey, as applicable, that other pharmacies, physicians or providers are available in the plan's network.
 
 (ii) Include the model content in disclaimer form or within the material whenever co-branding relationships with network provider are mentioned.
 
-[86 FR 6126, Jan. 19, 2021, as amended at 86 FR 29528, June 2, 2021]
+(40) *Limited access to preferred cost-sharing pharmacies.* This is standardized content that must—
+
+(i) Be used on all materials mentioning preferred pharmacies when there is limited access to preferred pharmacies; and
+
+(ii) Include the following language: “\<insert organization/plan name\>'s pharmacy network includes limited lower-cost, preferred pharmacies in \<insert geographic area type(s) and state(s) for which plan is an outlier)\>. The lower costs advertised in our plan materials for these pharmacies may not be available at the pharmacy you use. For up-to-date information about our network pharmacies, including whether there are any lower-cost preferred pharmacies in your area, please call \<insert Member Services phone number and TTY\> or consult the online pharmacy directory at \<insert website\>.”
+
+(41) *Third-party marketing organization disclaimer.* This is standardized content. The disclaimer consists of the statement: “We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-MEDICARE to get information on all of your options.” The Part D sponsor must ensure that the disclaimer is as follows:
+
+(i) Used by any TPMO, as defined under § 423.2260, that sells plans on behalf of more than one Part D sponsor unless the TPMO sells all commercially available Part D plans in a given service area.
+
+(ii) Verbally conveyed within the first minute of a sales call.
+
+(iii) Electronically conveyed when communicating with a beneficiary through email, online chat, or other electronic means of communication.
+
+(iv) Prominently displayed on TPMO websites.
+
+(v) Included in any TPMO marketing materials, including print materials and television advertising.
+
+[86 FR 6126, Jan. 19, 2021, as amended at 86 FR 29528, June 2, 2021; 87 FR 27901, May 9, 2022]

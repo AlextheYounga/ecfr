@@ -1,6 +1,4 @@
-##### § 422.2274 Agent, broker, and other third party requirements. #####
-
-Link to an amendment published at 87 FR 27899, May 9, 2022.
+##### § 422.2274 Agent, broker, and other third-party requirements. #####
 
 If an MA organization uses agents and brokers to sell its Medicare plans, the requirements in paragraphs (a) through (e) of this section are applicable. If an MA organization makes payments to third parties, the requirements in paragraph (f) of this section are applicable.
 
@@ -182,4 +180,30 @@ If an MA organization uses agents and brokers to sell its Medicare plans, the re
 
 (f) *Payments for referrals.* Payments may be made to individuals for the referral (including a recommendation, provision, or other means of referring beneficiaries) to an agent, broker or other entity for potential enrollment into a plan. The payment may not exceed $100 for a referral into an MA or MA-PD plan and $25 for a referral into a PDP plan.
 
-[86 FR 6112, Jan. 19, 2021]
+(g) *TPMO oversight.* In addition to any applicable FDR requirements under § 422.504(i), when doing business with a TPMO, either directly or indirectly through a downstream entity, MA plans must implement the following as a part of their oversight of TPMOs:
+
+(1) When a TPMO is not otherwise an FDR, the MA organization is responsible for ensuring that the TPMO adheres to any requirements that apply to the MA plan.
+
+(2) Contracts, written arrangements, and agreements between the TPMO and an MA plan, or between the TPMO and an MA plan's FDR, must ensure the TPMO:
+
+(i) Discloses to the MA organization any subcontracted relationships used for marketing, lead generation, and enrollment.
+
+(ii) Records all calls with beneficiaries in their entirety, including the enrollment process.
+
+(iii) Reports to plans monthly any staff disciplinary actions or violations of any requirements that apply to the MA plan associated with beneficiary interaction to the plan.
+
+(iv) Uses the TPMO disclaimer as required under § 422.2267(e)(41).
+
+(3) Ensure that the TPMO, when conducting lead generating activities, either directly or indirectly for an MA organization, must, when applicable:
+
+(i) Disclose to the beneficiary that his or her information will be provided to a licensed agent for future contact. This disclosure must be provided as follows:
+
+(A) Verbally when communicating with a beneficiary through telephone.
+
+(B) In writing when communicating with a beneficiary through mail or other paper.
+
+(C) Electronically when communicating with a beneficiary through email, online chat, or other electronic messaging platform.
+
+(ii) Disclose to the beneficiary that he or she is being transferred to a licensed agent who can enroll him or her into a new plan.
+
+[86 FR 6112, Jan. 19, 2021, as amended at 87 FR 27899, May 9, 2022]

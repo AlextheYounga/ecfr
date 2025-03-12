@@ -1,16 +1,14 @@
 ##### § 422.504 Contract provisions. #####
 
-Link to an amendment published at 87 FR 27896, May 9, 2022.
-
 The contract between the MA organization and CMS must contain the following provisions:
 
-(a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees -
+(a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees—
 
 (1) To accept new enrollments, make enrollments effective, process voluntary disenrollments, and limit involuntary disenrollments, as provided in subpart B of this part.
 
 (2) That it will comply with the prohibition in § 422.110 on discrimination in beneficiary enrollment.
 
-(3) To provide -
+(3) To provide—
 
 (i) The basic benefits as required under § 422.101 and, to the extent applicable, supplemental benefits under § 422.102; and
 
@@ -52,7 +50,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (c) *Prompt payment.* The MA organization must comply with the prompt payment provisions of § 422.520 and with instructions issued by CMS, as they apply to each type of plan included in the contract.
 
-(d) *Maintenance of records.* The MA organization agrees to maintain for 10 years books, records, documents, and other evidence of accounting procedures and practices that -
+(d) *Maintenance of records.* The MA organization agrees to maintain for 10 years books, records, documents, and other evidence of accounting procedures and practices that—
 
 (1) Are sufficient to do the following:
 
@@ -94,7 +92,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (e) *Access to facilities and records.* The MA organization agrees to the following:
 
-(1) HHS, the Comptroller General, or their designee may evaluate, through inspection, audit, or other means -
+(1) HHS, the Comptroller General, or their designee may evaluate, through inspection, audit, or other means—
 
 (i) The quality, appropriateness, and timeliness of services furnished to Medicare enrollees under the contract;
 
@@ -108,7 +106,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (3) The MA organization agrees to make available, for the purposes specified in paragraph (d) of this section, its premises, physical facilities and equipment, records relating to its Medicare enrollees, and any additional relevant information that CMS may require.
 
-(4) HHS, the Comptroller General, or their designee's right to inspect, evaluate, and audit extends through 10 years from the end of the final contract period or completion of audit, whichever is later unless -
+(4) HHS, the Comptroller General, or their designee's right to inspect, evaluate, and audit extends through 10 years from the end of the final contract period or completion of audit, whichever is later unless—
 
 (i) CMS determines there is a special need to retain a particular record or group of records for a longer period and notifies the MA organization at least 30 days before the normal disposition date;
 
@@ -116,7 +114,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (iii) CMS determines that there is a reasonable possibility of fraud or similar fault, in which case CMS may inspect, evaluate, and audit the MA organization at any time.
 
-(f) *Disclosure of information.* The MA organization agrees to submit -
+(f) *Disclosure of information.* The MA organization agrees to submit—
 
 (1) To CMS, certified financial information that must include the following:
 
@@ -132,7 +130,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (iii) The service area and continuation area, if any, of each plan and the enrollment capacity of each plan;
 
-(iv) Plan quality and performance indicators for the benefits under the plan including -
+(iv) Plan quality and performance indicators for the benefits under the plan including—
 
 (A) Disenrollment rates for Medicare enrollees electing to receive benefits through the plan for the previous 2 years;
 
@@ -154,13 +152,13 @@ The contract between the MA organization and CMS must contain the following prov
 
 (g) *Beneficiary financial protections.* The MA organization agrees to comply with the following requirements:
 
-(1) Effective January 1, 2010, each MA organization must adopt and maintain arrangements satisfactory to CMS to protect its enrollees from incurring liability (for example, as a result of an organization's insolvency or other financial difficulties) for payment of any fees that are the legal obligation of the MA organization. To meet this requirement, the MA organization must -
+(1) Effective January 1, 2010, each MA organization must adopt and maintain arrangements satisfactory to CMS to protect its enrollees from incurring liability (for example, as a result of an organization's insolvency or other financial difficulties) for payment of any fees that are the legal obligation of the MA organization. To meet this requirement, the MA organization must—
 
 (i) Ensure that all contractual or other written arrangements with providers prohibit the organization's providers from holding any enrollee liable for payment of any such fees;
 
 (ii) Indemnify the enrollee for payment of any fees that are the legal obligation of the MA organization for services furnished by providers that do not contract, or that have not otherwise entered into an agreement with the MA organization, to provide services to the organization's enrollees; and
 
-(iii) For all MA organizations with enrollees eligible for both Medicare and Medicaid, specify in contracts with providers that such enrollees will not be held liable for Medicare Part A and B cost sharing when the State is responsible for paying such amounts, and inform providers of Medicare and Medicaid benefits, and rules for enrollees eligible for Medicare and Medicaid. The MA plans may not impose cost-sharing that exceeds the amount of cost-sharing that would be permitted with respect to the individual under title XIX if the individual were not enrolled in such a plan. The contracts must state that providers will -
+(iii) For all MA organizations with enrollees eligible for both Medicare and Medicaid, specify in contracts with providers that such enrollees will not be held liable for Medicare Part A and B cost sharing when the State is responsible for paying such amounts, and inform providers of Medicare and Medicaid benefits, and rules for enrollees eligible for Medicare and Medicaid. The MA plans may not impose cost-sharing that exceeds the amount of cost-sharing that would be permitted with respect to the individual under title XIX if the individual were not enrolled in such a plan. The contracts must state that providers will—
 
 (A) Accept the MA plan payment as payment in full, or
 
@@ -174,13 +172,13 @@ The contract between the MA organization and CMS must contain the following prov
 
 (B) The provider will hold financial liability for services, items, and drugs that are furnished, ordered, or prescribed after this 60-day period, at which point the provider and the beneficiary will have already received notification of the preclusion.
 
-(2) The MA organization must provide for continuation of enrollee health care benefits -
+(2) The MA organization must provide for continuation of enrollee health care benefits—
 
 (i) For all enrollees, for the duration of the contract period for which CMS payments have been made; and
 
 (ii) For enrollees who are hospitalized on the date its contract with CMS terminates, or, in the event of an insolvency, through discharge.
 
-(3) In meeting the requirements of this paragraph, other than the provider contract requirements specified in paragraph (g)(1)(i) of this section, the MA organization may use -
+(3) In meeting the requirements of this paragraph, other than the provider contract requirements specified in paragraph (g)(1)(i) of this section, the MA organization may use—
 
 (i) Contractual arrangements;
 
@@ -198,7 +196,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (i) *MA organization relationship with first tier, downstream, and related entities.* (1) Notwithstanding any relationship(s) that the MA organization may have with first tier, downstream, and related entities, the MA organization maintains ultimate responsibility for adhering to and otherwise fully complying with all terms and conditions of its contract with CMS.
 
-(2) The MA organization agrees to require all first tier, downstream, and related entities to agree that -
+(2) The MA organization agrees to require all first tier, downstream, and related entities to agree that—
 
 (i) HHS, the Comptroller General, or their designees have the right to audit, evaluate, collect, and inspect any books, contracts, computer or other electronic systems, including medical records and documentation of the first tier, downstream, and entities related to CMS' contract with the MA organization.
 
@@ -226,7 +224,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (iii) Each and every contract must specify that the performance of the parties is monitored by the MA organization on an ongoing basis.
 
-(iv) Each and every contract must specify that either -
+(iv) Each and every contract must specify that either—
 
 (A) The credentials of medical professionals affiliated with the party or parties will be either reviewed by the MA organization; or
 
@@ -238,7 +236,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (j) *Additional contract terms.* The MA organization agrees to include in the contract such other terms and conditions as CMS may find necessary and appropriate in order to implement requirements in this part.
 
-(k) *Severability of contracts.* The contract must provide that, upon CMS's request -
+(k) *Severability of contracts.* The contract must provide that, upon CMS's request—
 
 (1) The contract will be amended to exclude any MA plan or State-licensed entity specified by CMS; and
 
@@ -256,13 +254,41 @@ The contract between the MA organization and CMS must contain the following prov
 
 (5) *Certification of accuracy of data for overpayments.* The CEO, CFO, or COO must certify (based on best knowledge, information, and belief) that the information provided for purposes of reporting and returning of overpayments under § 422.326 is accurate, complete, and truthful.
 
-(m)(1) CMS may determine that an MA organization is out of compliance with a Part C requirement when the organization fails to meet performance standards articulated in the Part C statutes, regulations, or guidance.
+(m) *Issuance of compliance actions for failure to comply with the terms of the contract.* The MA organization acknowledges that CMS may take compliance actions as described in this section or intermediate sanctions as defined in subpart O of this part.
 
-(2) If CMS has not already articulated a measure for determining noncompliance, CMS may determine that a MA organization is out of compliance when its performance in fulfilling Part C requirements represents an outlier relative to the performance of other MA organizations.
+(1) CMS may take compliance actions as described in paragraph (m)(3) of this section if it determines that the MA organization has not complied with the terms of a current or prior Part C contract with CMS.
 
-(n) *Acknowledgements of CMS release of data* - (1) *Summary CMS payment data.* The contract must provide that the MA organization acknowledges that CMS releases to the public summary reconciled CMS payment data after the reconciliation of Part C and Part D payments for the contract year as follows:
+(i) CMS may determine that an MA organization is out of compliance with a Part C requirement when the organization fails to meet performance standards articulated in the Part C statutes, regulations in this chapter, or guidance.
 
-(i) For Part C, the following data -
+(ii) If CMS has not already articulated a measure for determining noncompliance, CMS may determine that an MA organization is out of compliance when its performance in fulfilling Part C requirements represents an outlier relative to the performance of other MA organizations.
+
+(2) CMS bases its decision on whether to issue a compliance action and what level of compliance action to take on an assessment of the circumstances surrounding the noncompliance, including all of the following:
+
+(i) The nature of the conduct.
+
+(ii) The degree of culpability of the MA organization.
+
+(iii) The adverse effect to beneficiaries which resulted or could have resulted from the conduct of the MA organization.
+
+(iv) The history of prior offenses by the MA organization or its related entities.
+
+(v) Whether the noncompliance was self-reported.
+
+(vi) Other factors which relate to the impact of the underlying noncompliance or the lack of the MA organization's oversight of its operations that contributed to the noncompliance.
+
+(3) CMS may take one of three types of compliance actions based on the nature of the noncompliance.
+
+(i) *Notice of noncompliance.* A notice of noncompliance may be issued for any failure to comply with the requirements of the MA organization's current or prior Part C contract with CMS, as described in paragraph (m)(1) of this section.
+
+(ii) *Warning letter.* A warning letter may be issued for serious and/or continued noncompliance with the requirements of the MA organization's current or prior Part C contract with CMS, as described in paragraph (m)(1) of this section and as assessed in accordance with paragraph (m)(2) of this section.
+
+(iii) *Corrective action plan.* (A) Corrective action plans are requested for particularly serious or continued noncompliance with the requirements of the MA organization's current or prior Part C contract with CMS, as described in paragraph (m)(1) of this section and as assessed in accordance with paragraph (m)(2) of this section.
+
+(B) CMS issues a corrective action plan if CMS determines that the MA organization has repeated or not corrected noncompliance identified in prior compliance actions, has substantially impacted beneficiaries or the program with its noncompliance, or must implement a detailed plan to correct the underlying causes of the noncompliance.
+
+(n) *Acknowledgements of CMS release of data*—(1) *Summary CMS payment data.* The contract must provide that the MA organization acknowledges that CMS releases to the public summary reconciled CMS payment data after the reconciliation of Part C and Part D payments for the contract year as follows:
+
+(i) For Part C, the following data—
 
 (A) Average per member per month CMS payment amount for A/B (original Medicare) benefits for each MA plan offered, standardized to the 1.0 (average risk score) beneficiary.
 

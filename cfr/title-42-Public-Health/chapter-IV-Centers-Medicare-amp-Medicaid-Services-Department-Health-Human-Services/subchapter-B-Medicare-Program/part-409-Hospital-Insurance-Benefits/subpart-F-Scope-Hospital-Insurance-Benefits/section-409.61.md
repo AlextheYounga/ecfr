@@ -1,6 +1,6 @@
 ##### § 409.61 General limitations on amount of benefits. #####
 
-(a) *Inpatient hospital or inpatient CAH services* - (1) *Regular benefit days.* Up to 90 days are available in each benefit period, subject to the limitations on days for psychiatric hospital services set forth in §§ 409.62 and 409.63.
+(a) *Inpatient hospital or inpatient CAH services*—(1) *Regular benefit days.* Up to 90 days are available in each benefit period, subject to the limitations on days for psychiatric hospital services set forth in §§ 409.62 and 409.63.
 
 (i) For the first 60 days (referred to in this subpart as *full benefit days*), Medicare pays the hospital or CAH for all covered services furnished the beneficiary, except for a deductible which is the beneficiary's responsibility. (Section 409.82 specifies the requirements for the inpatient hospital deductible.)
 
@@ -20,7 +20,7 @@
 
 (c) *Renewal of inpatient benefits.* The beneficiary's full entitlement to the 90 inpatient hospital or inpatient CAH regular benefit days, and the 100 SNF benefit days, is renewed each time he or she begins a benefit period. However, once lifetime reserve days are used, they can never be renewed.
 
-(d) *Home health services.* Medicare Part A pays for all covered home health services1/\> with no deductible, and subject to the following limitations on payment for durable medical equipment (DME):
+(d) *Home health services.* Medicare Part A pays for all covered home health services1 with no deductible, and subject to the following limitations on payment for durable medical equipment (DME):
 
 1 Before July 1, 1981, Medicare Part A paid for not more than 100 home health visits during one year following the beneficiary's most recent discharge from a hospital or a SNF.
 

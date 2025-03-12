@@ -1,7 +1,5 @@
 ##### § 422.100 General requirements. #####
 
-Link to an amendment published at 87 FR 27893, May 9, 2022.
-
 (a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c)(1) of this section (except that additional telehealth benefits may be, but are not required to be, offered by the MA plan) and, to the extent applicable, supplemental benefits as described in paragraph (c)(2) of this section, by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of this section and the requirements in subpart G of this part.
 
 (b) *Services of noncontracting providers and suppliers.* (1) An MA organization must make timely and reasonable payment to or on behalf of the plan enrollee for the following services obtained from a provider or supplier that does not contract with the MA organization to provide services covered by the MA plan:
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (2) Supplemental benefits are benefits offered under § 422.102.
 
-(i) Supplemental benefits consist of -
+(i) Supplemental benefits consist of—
 
 (A) Mandatory supplemental benefits are services not covered by Medicare that an MA enrollee must purchase as part of an MA plan that are paid for in full, directly by (or on behalf of) Medicare enrollees, in the form of premiums or cost sharing.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (C) The benefits are not covered by Medicare (This specifically includes Medicare Parts A, B, and D).
 
-(d) *Availability and structure of plans.* An MA organization offering an MA plan must offer it -
+(d) *Availability and structure of plans.* An MA organization offering an MA plan must offer it—
 
 (1) To all Medicare beneficiaries residing in the service area of the MA plan;
 
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (3) *Other requirements.* Benefit design meets other MA program requirements.
 
-(4) *In-network MOOP limit.* Except as provided in paragraph (f)(5) of this section, MA local plans (as defined in § 422.2) must have an enrollee in-network maximum out-of-pocket (MOOP) amount for basic benefits that is no greater than the annual limit calculated by CMS using Medicare Fee-for-Service (FFS) data projections. With respect to a private fee-for-service (PFFS) plan, the in-network MOOP limits specified in this paragraph (f)(4) apply. MA organizations are responsible for tracking out-of-pocket spending incurred by the enrollee, and must alert enrollees and contracted providers when the plan's in-network MOOP amount is reached.
+(4) *In-network MOOP limit.* Except as provided in paragraph (f)(5) of this section, MA local plans (as defined in § 422.2) must have an enrollee in-network maximum out-of-pocket (MOOP) amount for basic benefits that is no greater than the annual limit calculated by CMS using Medicare Fee-for-Service (FFS) data projections. With respect to a private fee-for-service (PFFS) plan, the in-network MOOP limits specified in this paragraph (f)(4) apply. MA organizations are responsible for tracking out-of-pocket spending accrued by the enrollee, and must alert enrollees and contracted providers when the plan's in-network MOOP amount is reached.
 
 (i) *Medicare FFS data projections in CMS MOOP limit calculations.* For each year beginning on or after January 1, 2023, CMS calculates three MOOP limits using Medicare FFS data projections. For purposes of this paragraph (f)(4) and calculating actuarially equivalent copayments as described in paragraph (f)(7) of this section, the term *Medicare FFS data projections* means the projections of beneficiary out-of-pocket costs for the applicable contract year, based on recent Medicare FFS data, including data for beneficiaries with and without diagnoses of ESRD, that are consistent with generally accepted actuarial principles and practices as outlined in paragraph (f)(7)(i) of this section. The dollar ranges for the three MOOP limits are as follows:
 
@@ -96,7 +94,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (ii) *In-network and combined MOOP type.* The type of in-network MOOP limit dictates the type of combined MOOP limit the MA plan may use. MA PPO plans must have the same MOOP type (lower, intermediate, or mandatory) for the in-network MOOP limit and combined limit on in-network and out-of-network out-of-pocket expenditures.
 
-(iii) *MOOP limit attainment.* MA organizations are responsible for tracking out-of-pocket spending incurred by the enrollee and must alert enrollees and contracted providers when the combined MOOP amount is reached.
+(iii) *MOOP limit attainment.* MA organizations are responsible for tracking out-of-pocket spending accrued by the enrollee and must alert enrollees and contracted providers when the combined MOOP amount is reached.
 
 (6) *General cost sharing limits.* Cost sharing for basic benefits specified by CMS does not exceed levels annually determined by CMS to be discriminatory for such services. For each year beginning on or after January 1, 2023, a MA organization must establish cost sharing for basic benefits that complies with the cost sharing limits in this paragraph (f)(6), paragraph (j) of this section, and § 422.113(b)(2), which are in addition to any other limits and rules applicable to MA cost sharing, including the requirement in § 422.254(b)(4) that overall MA cost sharing for basic benefits be actuarially equivalent to Medicare FFS cost sharing. Cost sharing may be a coinsurance or copayment; a cost sharing limit is calculated for a plan benefit package service category or for a reasonable group of benefits covered under the plan. For purposes of cost sharing evaluation, the analysis is completed at the plan (or segment) level. An MA plan must not charge an enrollee a copayment for a basic benefit that is greater than the cost of the covered service(s).
 
@@ -210,7 +208,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (i) *Provider networks.* The MA plans offered by an MA organization may share a provider network as long as each MA plan independently meets the access and availability standards described at § 422.112, as determined by CMS.
 
-(j) *Cost sharing and actuarial equivalence standards for basic benefits* - (1) *Specific benefits for which cost sharing may not exceed cost sharing under original Medicare.* (i) *General rule.* For each year beginning on or after January 1, 2023, in-network cost sharing established by an MA plan for the basic benefits listed in this paragraph may not exceed the cost sharing required under original Medicare. When an MA plan uses coinsurance, the coinsurance must not exceed the coinsurance charged in original Medicare. When an MA plan uses copayments, the copayment must not exceed the actuarially equivalent value calculated using the rules in paragraph (j)(1)(ii) of this section. The benefits listed in this paragraph are as follows:
+(j) *Cost sharing and actuarial equivalence standards for basic benefits*—(1) *Specific benefits for which cost sharing may not exceed cost sharing under original Medicare.* (i) *General rule.* For each year beginning on or after January 1, 2023, in-network cost sharing established by an MA plan for the basic benefits listed in this paragraph may not exceed the cost sharing required under original Medicare. When an MA plan uses coinsurance, the coinsurance must not exceed the coinsurance charged in original Medicare. When an MA plan uses copayments, the copayment must not exceed the actuarially equivalent value calculated using the rules in paragraph (j)(1)(ii) of this section. The benefits listed in this paragraph are as follows:
 
 (A) Chemotherapy administration services to include chemotherapy/radiation drugs and radiation therapy integral to the treatment regimen.
 
@@ -246,7 +244,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (k) *Cost sharing for in-network preventive services.* MA organizations may not charge deductibles, copayments, or coinsurance for in-network Medicare-covered preventive services (as defined in § 410.152(l)).
 
-(l) Coverage of DME. MA organizations -
+(l) Coverage of DME. MA organizations—
 
 (1) Must cover and ensure enrollees have access to all categories of DME covered under Part B; and
 
@@ -270,7 +268,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (vii) It provides full coverage, without limitation on brand and manufacturer, to all DME categories or subcategories annually determined by CMS to require full coverage.
 
-(m) *Special requirements during a disaster or emergency.* (1) When a state of disaster is declared as described in paragraph (m)(2) of this section, an MA organization offering an MA plan must, until one of the conditions described in paragraph (m)(3) of this section occurs, ensure access to benefits in the following manner:
+(m) *Special requirements during a disaster or emergency.* (1) When a disaster or emergency is declared as described in paragraph (m)(2) of this section and there is disruption of access to health care as described in paragraph (m)(6) of this section, an MA organization offering an MA plan must, until the end date specified in paragraph (m)(3) of this section occurs, ensure access to covered benefits in the following manner:
 
 (i) Cover Medicare Parts A and B services and supplemental Part C plan benefits furnished at non-contracted facilities subject to § 422.204(b)(3).
 
@@ -280,7 +278,7 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (iv) Make changes that benefit the enrollee effective immediately without the 30-day notification requirement at § 422.111(d)(3).
 
-(2) *Declarations of disasters.* A declaration of disaster will identify the geographic area affected by the event and may be made as one of the following:
+(2) *Declarations of disasters.* A declaration of a disaster or emergency will identify the geographic area affected by the event and may be made as one of the following:
 
 (i) Presidential declaration of a disaster or emergency under the either of the following:
 
@@ -288,28 +286,28 @@ Link to an amendment published at 87 FR 27893, May 9, 2022.
 
 (B) National Emergencies Act.
 
-(ii)(A) Secretarial declaration of a public health emergency under section 319 of the Public Health Service Act.
-
-(B) If the President has declared a disaster as described in paragraph (m)(2)(i) or (ii) of this section, then the Secretary may also authorize waivers or modifications under section 1135 of the Act.
+(ii) Secretarial declaration of a public health emergency under section 319 of the Public Health Service Act.
 
 (iii) Declaration by the Governor of a State or Protectorate.
 
-(3) *End of the disaster.* The public health emergency or state of disaster ends when any of the following occur:
+(3) *End of the special requirements for the disaster or emergency.* An MA organization must continue furnishing access to benefits as specified in paragraphs (m)(1)(i) through (iv) of this section for 30 days after the conditions described in paragraph (m)(3)(i) or (ii) of this section occur with respect to all applicable emergencies or after the condition described in paragraph (m)(3)(iii) of this section occurs, whichever is earlier:
 
-(i) The source that declared the public health emergency or state of disaster declares an end.
+(i) All sources that declared a disaster or emergency that include the service area declare an end.
 
-(ii) The CMS declares an end of the public health emergency or state of disaster.
+(ii) No end date was identified as described in paragraph (m)(3)(i) of this section, and all applicable emergencies or disasters declared for the area have ended, including through expiration of the declaration or any renewal of such declaration.
 
-(iii) Thirty days have elapsed since the declaration of the public health emergency or state of disaster and no end date was identified in paragraph (m)(3)(i) or (ii) of this section.
+(iii) There is no longer a disruption of access to health care as defined in paragraph (m)(6) of this section.
 
-(4) *MA plans unable to operate.* An MA plan that cannot resume normal operations by the end of the public health emergency or state of disaster must notify CMS.
+(4) *MA plans unable to operate.* An MA plan that cannot resume normal operations by the end of the disaster or emergency as described in paragraph (m)(3)(i) or (ii) of this section must notify CMS.
 
 (5) *Disclosure.* In addition to other requirements of annual disclosure under § 422.111, an organization must do all of the following:
 
-(i) Indicate the terms and conditions of payment during the public health emergency or disaster for non-contracted providers furnishing benefits to plan enrollees residing in the state-of-disaster area.
+(i) Indicate the terms and conditions of payment during the disaster or emergency for non-contracted providers furnishing benefits to plan enrollees residing in the affected service area(s).
 
 (ii) Annually notify enrollees of the information listed in paragraphs (m)(1) through (3) and (m)(5) of this section.
 
 (iii) Provide the information described in paragraphs (m)(1), (2), and (3) and (m)(5)(i) of this section on its website.
 
-[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 22423, Apr. 14, 2022]
+(6) *Disruption of access to health care.* A disruption of access to health care for the purpose of paragraph (m) of this section is an interruption or interference in the service area (as defined at § 422.2) such that enrollees do not have the ability to access contracted providers or contracted providers do not have the ability to provide needed services to enrollees, resulting in MA plans failing to meet the normal prevailing patterns of community health care delivery in the service area under § 422.112(a).
+
+[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 22423, Apr. 14, 2022; 87 FR 27893, May 9, 2022]

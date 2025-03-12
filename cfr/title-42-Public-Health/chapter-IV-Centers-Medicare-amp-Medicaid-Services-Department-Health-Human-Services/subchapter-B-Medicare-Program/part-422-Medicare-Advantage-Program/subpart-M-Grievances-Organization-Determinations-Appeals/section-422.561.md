@@ -1,16 +1,30 @@
 ##### § 422.561 Definitions. #####
 
-Link to an amendment published at 87 FR 27897, May 9, 2022.
-
-As used in this subpart, unless the context indicates otherwise -
+As used in this subpart, unless the context indicates otherwise—
 
 *Appeal* means any of the procedures that deal with the review of adverse organization determinations on the health care services the enrollee believes he or she is entitled to receive, including delay in providing, arranging for, or approving the health care services (such that a delay would adversely affect the health of the enrollee), or on any amounts the enrollee must pay for a service, as defined under § 422.566(b). These procedures include reconsiderations by the MA organization, and if necessary, an independent review entity, hearings before ALJs, review by the Medicare Appeals Council (Council), and judicial review.
 
-*Applicable integrated plan* means:
+*Applicable integrated plan* means either of the following:
 
-(1) A fully integrated dual eligible special needs plan with exclusively aligned enrollment or a highly integrated dual eligible special needs plan with exclusively aligned enrollment, and
+(1) *Before January 1, 2023.* (i) A fully integrated dual eligible special needs plan with exclusively aligned enrollment or a highly integrated dual eligible special needs plan with exclusively aligned enrollment; and
 
-(2) The Medicaid managed care organization, as defined in section 1903(m) of the Act, through which such dual eligible special needs plan, its parent organization, or another entity that is owned and controlled by its parent organization covers Medicaid services for dually eligible individuals enrolled in such dual eligible special needs plan and such Medicaid managed care organization.
+(ii) The Medicaid managed care organization, as defined in section 1903(m) of the Act, through which such dual eligible special needs plan, its parent organization, or another entity that is owned and controlled by its parent organization covers Medicaid services for dually eligible individuals enrolled in such dual eligible special needs plan and such Medicaid managed care organization.
+
+(2) *On or after January 1, 2023.* (i)(A) A fully integrated dual eligible special needs plan or highly integrated dual eligible special needs plan with exclusively aligned enrollment; and
+
+(B) The Medicaid managed care organization, as defined in section 1903(m) of the Act, through which such dual eligible special needs plan, its parent organization, or another entity that is owned and controlled by its parent organization covers Medicaid services for dually eligible individuals enrolled in such dual eligible special needs plan and such Medicaid managed care organization; or
+
+(ii) A dual eligible special needs plan and affiliated Medicaid managed care plan where—
+
+(A) The dual special needs plan, by State policy, has enrollment limited to those beneficiaries enrolled in a Medicaid managed care organization as described in paragraph (2)(ii)(B) of this definition;
+
+(B) There is a capitated contract between the MA organization, the MA organization's parent organization, or another entity that is owned and controlled by its parent organization; and
+
+(*1*) A Medicaid agency; or
+
+(*2*) A Medicaid managed care organization as defined in section 1903(m) of the Act that contracts with the Medicaid agency; and
+
+(C) Through the capitated contract described in paragraph (2)(ii)(B) of this definition, Medicaid benefits including primary care and acute care, including Medicare cost-sharing as defined in section 1905(p)(3)(B), (C), and (D) of the Act, without regard to the limitation of that definition to qualified Medicare beneficiaries, and at a minimum, one of the following: Home health services as defined in § 440.70 of this chapter, medical supplies, equipment, and appliances as described in § 440.70(b)(3) of this chapter, or nursing facility services are covered for the enrollees.
 
 *Enrollee* means an MA eligible individual who has elected an MA plan offered by an MA organization.
 
@@ -28,4 +42,4 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Representative* means an individual appointed by an enrollee or other party, or authorized under State or other applicable law, to act on behalf of an enrollee or other party involved in the grievance or appeal. Unless otherwise stated in this subpart, the representative will have all the rights and responsibilities of an enrollee or party in filing a grievance, and in obtaining an organization determination or in dealing with any of the levels of the appeals process, subject to the applicable rules described in part 405 of this chapter.
 
-[63 FR 35067, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 68 FR 16667, Apr. 4, 2003; 70 FR 4738, Jan. 28, 2005; 75 FR 19812, Apr. 15, 2010; 82 FR 5124, Jan. 17, 2017; 84 FR 15833, Apr. 16, 2019; 84 FR 26579, June 7, 2019]
+[63 FR 35067, June 26, 1998, as amended at 65 FR 40328, June 29, 2000; 68 FR 16667, Apr. 4, 2003; 70 FR 4738, Jan. 28, 2005; 75 FR 19812, Apr. 15, 2010; 82 FR 5124, Jan. 17, 2017; 84 FR 15833, Apr. 16, 2019; 84 FR 26579, June 7, 2019; 87 FR 27897, May 9, 2022]

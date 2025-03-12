@@ -1,7 +1,5 @@
 ##### § 423.2260 Definitions. #####
 
-Link to an amendment published at 87 FR 27901, May 9, 2022.
-
 The definitions in this section apply for this subpart unless the context indicates otherwise.
 
 *Advertisement (Ad) means* a read, written, visual, oral, watched, or heard bid for, or call to attention. Advertisements can be considered communication or marketing based on the intent and content of the message.
@@ -34,4 +32,6 @@ The definitions in this section apply for this subpart unless the context indica
 
 *Outdoor advertising (ODA)* means outdoor material intended to capture the attention of a passing audience (for example, billboards, signs attached to transportation vehicles). ODA may be a communication or marketing material.
 
-[86 FR 6121, Jan. 19, 2021]
+*Third-party marketing organization (TPMO)* are organizations and individuals, including independent agents and brokers, who are compensated to perform lead generation, marketing, sales, and enrollment related functions as a part of the chain of enrollment (the steps taken by a beneficiary from becoming aware of a Part D plan or plans to making an enrollment decision). TPMOs may be a first tier, downstream or related entity (FDRs), as defined under § 423.4, but may also be entities that are not FDRs but provide services to a Part D sponsor or a Part D sponsor's FDR.
+
+[86 FR 6121, Jan. 19, 2021, as amended at 87 FR 27901, May 9, 2022]

@@ -1,12 +1,10 @@
 ##### § 422.101 Requirements relating to basic benefits. #####
 
-Link to an amendment published at 87 FR 27894, May 9, 2022.
-
 Except as specified in § 422.318 (for entitlement that begins or ends during a hospital stay) and § 422.320 (with respect to hospice care), each MA organization must meet the following requirements:
 
 (a) Provide coverage of, by furnishing, arranging for, or making payment for, all services that are covered by Part A and Part B of Medicare (if the enrollee is entitled to benefits under both parts) or by Medicare Part B (if entitled only under Part B) and that are available to beneficiaries residing in the plan's service area. Services may be provided outside of the service area of the plan if the services are accessible and available to enrollees.
 
-(b) Comply with -
+(b) Comply with—
 
 (1) CMS's national coverage determinations;
 
@@ -56,7 +54,7 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (iii) An MA organization must establish the total catastrophic MOOP amount (mandatory, intermediate, or lower) within the dollar range specified in paragraphs (d)(3)(ii)(A) through (C) of this section for purposes of paragraph (d) of this section and §§ 422.100(f)(6), (j)(1), and 422.113(b)(2)(v).
 
-(4) *Tracking of deductible and catastrophic limits and notification.* MA regional plans are required to track the deductible (if any) and catastrophic limits in paragraphs (d)(1) through (d)(3) of this section based on incurred out-of-pocket beneficiary costs for original Medicare covered services, and are also required to notify members and health care providers when the deductible (if any) or a limit has been reached.
+(4) *Tracking of deductible and catastrophic limits and notification.* MA regional plans are required to track the deductible (if any) and catastrophic limits in paragraphs (d)(1) through (3) of this section based on accrued out-of-pocket beneficiary costs for original Medicare covered services, and are also required to notify members and health care providers when the deductible (if any) or a limit has been reached.
 
 (e) *Other rules for MA regional plans.* (1) MA regional plans are required to provide reimbursement for all covered benefits, regardless of whether those benefits are provided within or outside of the network of contracted providers.
 
@@ -64,7 +62,13 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (f) *Special needs plan model of care.*(1) MA organizations offering special needs plans (SNP) must implement an evidence-based model of care with appropriate networks of providers and specialists designed to meet the specialized needs of the plan's targeted enrollees. The MA organization must, with respect to each individual enrolled, do all of the following:
 
-(i) Conduct a comprehensive initial health risk assessment of the individual's physical, psychosocial, and functional needs as well as annual health risk reassessment, using a comprehensive risk assessment tool that CMS may review during oversight activities, and ensure that results from the initial assessment and annual reassessment conducted for each individual enrolled in the plan are addressed in the individual's individualized care plan as required under paragraph (f)(1)(ii) of this section.
+(i) Conduct a comprehensive initial health risk assessment of the individual's physical, psychosocial, and functional needs as well as annual health risk reassessment, using a comprehensive risk assessment tool that CMS may review during oversight activities, and ensure that the results from the initial assessment and annual reassessment conducted for each individual enrolled in the plan are addressed in the individuals' individualized care plan as required under paragraph (f)(1)(ii) of this section. Beginning in 2024, the comprehensive risk assessment tool must include one or more questions from a list of screening instruments specified by CMS in sub-regulatory guidance on each of the following domains:
+
+(A) Housing stability;
+
+(B) Food security; and
+
+(C) Access to transportation.
 
 (ii) Develop and implement a comprehensive individualized plan of care through an interdisciplinary care team in consultation with the beneficiary, as feasible, identifying goals and objectives including measurable outcomes as well as specific services and benefits to be provided.
 
@@ -96,4 +100,4 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (iii) Each element of the model of care of a plan must meet a minimum benchmark score of 50 percent, and a plan's model of care will only be approved if each element of the model of care meets the minimum benchmark.
 
-[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022]
+[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021; 87 FR 22427, Apr. 14, 2022; 87 FR 27894, May 9, 2022]

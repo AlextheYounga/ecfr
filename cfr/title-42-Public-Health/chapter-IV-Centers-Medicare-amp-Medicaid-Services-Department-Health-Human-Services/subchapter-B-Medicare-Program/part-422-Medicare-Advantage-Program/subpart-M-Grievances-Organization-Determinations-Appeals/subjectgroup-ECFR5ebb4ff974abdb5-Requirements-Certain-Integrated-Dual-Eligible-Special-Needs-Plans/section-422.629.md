@@ -1,14 +1,20 @@
 ##### § 422.629 General requirements for applicable integrated plans. #####
 
-Link to an amendment published at 87 FR 27897, May 9, 2022.
-
 (a) *Scope.* The provisions in this section and in §§ 422.630 through 422.634 set forth requirements for unified appeals and grievance processes with which applicable integrated plans must comply. Beginning January 1, 2021, these provisions apply to an applicable integrated plan in lieu of §§ 422.564, 422.566(c) and (d), and 422.568 through 422.590, and 422.618(a) and §§ 438.404 through 438.424 of this chapter; provisions governing Part B drugs in §§ 422.568(b)(2), 422.570(d)(2), 422.572(a)(2), 422.584(d)(1), 422.590(c), and 422.590(e)(2) apply to an applicable integrated plan.
 
 (b) *General process.* An applicable integrated plan must create integrated processes for enrollees for integrated grievances, integrated organization determinations, and integrated reconsiderations.
 
 (c) *State flexibilities.* A State may, at its discretion, implement standards for timeframes or notice requirements that are more protective for the enrollee than required by this section and §§ 422.630 through 422.634. The contract under § 422.107 must include any standards that differ from the standards set forth in this section.
 
-(d) *Evidence.* The applicable integrated plan must provide the enrollee a reasonable opportunity, in person and in writing, to present evidence and testimony and make legal and factual arguments for integrated grievances, and integrated reconsiderations. The applicable integrated plan must inform the enrollee of the limited time available for presenting evidence sufficiently in advance of the resolution timeframe for appeals as specified in this section if the case is being considered under an expedited timeframe for the integrated grievance or integrated reconsideration.
+(d) *Evidence.* The applicable integrated plan must do the following:
+
+(1) Provide the enrollee—
+
+(i) A reasonable opportunity, in person and in writing, to present evidence and testimony and make legal and factual arguments for integrated grievances, and integrated reconsiderations; and
+
+(ii) Information on how evidence and testimony should be presented to the plan.
+
+(2) Inform the enrollee of the limited time available for presenting evidence sufficiently in advance of the resolution timeframe for appeals as specified in this section if the case is being considered under an expedited timeframe for the integrated grievance or integrated reconsideration.
 
 (e) *Assistance.* In addition to the requirements in § 422.562(a)(5), the applicable integrated plan must provide an enrollee reasonable assistance in completing forms and taking other procedural steps related to integrated grievances and integrated appeals.
 
@@ -46,9 +52,9 @@ Link to an amendment published at 87 FR 27897, May 9, 2022.
 
 (3) The availability of assistance in the filing process.
 
-(k) *Review decision-making requirements* - (1) *General rules.* Individuals making decisions on integrated appeals and grievances must take into account all comments, documents, records, and other information submitted by the enrollee or their representative without regard to whether such information was submitted or considered in the initial adverse integrated organization determination.
+(k) *Review decision-making requirements*—(1) *General rules.* Individuals making decisions on integrated appeals and grievances must take into account all comments, documents, records, and other information submitted by the enrollee or their representative without regard to whether such information was submitted or considered in the initial adverse integrated organization determination.
 
-(2) *Integrated grievances.* Individuals making decisions on integrated grievances must be individuals who -
+(2) *Integrated grievances.* Individuals making decisions on integrated grievances must be individuals who—
 
 (i) Were neither involved in any previous level of review or decision-making nor a subordinate of any such individual; and
 
@@ -60,24 +66,26 @@ Link to an amendment published at 87 FR 27897, May 9, 2022.
 
 (3) *Integrated organization determinations.* If the applicable integrated plan expects to issue a partially or fully adverse medical necessity (or any substantively equivalent term used to describe the concept of medical necessity) decision based on the initial review of the request, the integrated organization determination must be reviewed by a physician or other appropriate health care professional with sufficient medical and other expertise, including knowledge of Medicare and Medicaid coverage criteria, before the applicable integrated plan issues the integrated organization determination. Any physician or other health care professional who reviews an integrated organization determination must have a current and unrestricted license to practice within the scope of his or her profession.
 
-(4) *Integrated reconsideration determinations.* Individuals making an integrated reconsideration determination must be individuals who -
+(4) *Integrated reconsideration determinations.* Individuals making an integrated reconsideration determination must be individuals who—
 
 (i) Were neither involved in any previous level of review or decision-making nor a subordinate of any such individual; and
 
-(ii) If deciding an appeal of a denial that is based on lack of medical necessity (or any substantively equivalent term used to describe the concept of medical necessity), are a physician or other appropriate health care professional who have the appropriate clinical expertise in treating the enrollee's condition or disease, and knowledge of Medicare and Medicaid coverage criteria, before the applicable integrated plan issues the integrated organization determination decision.
+(ii) If deciding an appeal of a denial that is based on lack of medical necessity (or any substantively equivalent term used to describe the concept of medical necessity), are a physician or other appropriate health care professional who have the appropriate clinical expertise in treating the enrollee's condition or disease, and knowledge of Medicare and Medicaid coverage criteria, before the applicable integrated plan issues the integrated reconsideration determination.
 
 (l) *Parties.* (1) The following individuals or entities can request an integrated grievance, integrated organization determination, and integrated reconsideration, and are parties to the case:
 
-(i) The enrollee or his or her representative;
+(i) The enrollee.
 
-(ii) An assignee of the enrollee (that is, a physician or other provider who has furnished or intends to furnish a service to the enrollee and formally agrees to waive any right to payment from the enrollee for that service), or any other provider or entity (other than the applicable integrated plan) who has an appealable interest in the proceeding;
-
-(iii) The legal representative of a deceased enrollee's estate; or
-
-(iv) Subject to paragraph (l)(3) of this section, any provider that furnishes, or intends to furnish, services to the enrollee. If the provider requests that the benefits continue while the appeal is pending, pursuant to § 422.632 and consistent with State law, the provider must obtain the written consent of the enrollee to request the appeal on behalf of the enrollee.
+(ii) The enrollee's representative, including any person authorized under State law.
 
 (2) When the term “enrollee” is used throughout §§ 422.629 through 422.634, it includes providers that file a request and authorized representatives consistent with this paragraph, unless otherwise specified.
 
 (3) A provider who is providing treatment to the enrollee may, upon providing notice to the enrollee, request a standard or expedited pre-service integrated reconsideration on behalf of an enrollee.
 
-[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 86 FR 6102, Jan. 19, 2021]
+(4) The following individuals or entities may request an integrated reconsideration and are parties to the case:
+
+(i) An assignee of the enrollee (that is, a physician or other provider who has furnished or intends to furnish a service to the enrollee and formally agrees to waive any right to payment from the enrollee for that service).
+
+(ii) Any other provider or entity (other than the applicable integrated plan) who has an appealable interest in the proceeding.
+
+[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 86 FR 6102, Jan. 19, 2021; 87 FR 27897, May 9, 2022]

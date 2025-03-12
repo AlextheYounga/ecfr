@@ -1,10 +1,8 @@
 ##### § 422.116 Network adequacy. #####
 
-Link to an amendment published at 87 FR 27895, May 9, 2022.
+(a) *General rules*—(1) *Access.* (i) A network-based MA plan, as described in § 422.114(a)(3)(ii) but not including MSA plans, must demonstrate that it has an adequate contracted provider network that is sufficient to provide access to covered services in accordance with access standards described in section 1852(d)(1) of the Act and in §§ 422.112(a) and 422.114(a)(1) and by meeting the standard in paragraph (a)(2) of this section. When required by CMS, an MA organization must attest that it has an adequate network for access and availability of a specific provider or facility type that CMS does not independently evaluate in a given year.
 
-(a) *General rules* - (1) *Access.* (i) A network-based MA plan, as described in § 422.114(a)(3)(ii) but not including MSA plans, must demonstrate that it has an adequate contracted provider network that is sufficient to provide access to covered services in accordance with access standards described in section 1852(d)(1) of the Act and in §§ 422.112(a) and 422.114(a)(1) and by meeting the standard in paragraph (a)(2) of this section. When required by CMS, an MA organization must attest that it has an adequate network for access and availability of a specific provider or facility type that CMS does not independently evaluate in a given year.
-
-(ii) CMS does not require information, other than an attestation, regarding compliance with § 422.116 as part of an application for a new or expanding service area and will not deny application on the basis of an evaluation of the applicant's network for the new or expanding service area.
+(ii) Beginning with contract year 2024, an applicant for a new or expanding service area must demonstrate compliance with this section as part of its application for a new or expanding service area and CMS may deny an application on the basis of an evaluation of the applicant's network for the new or expanding service area.
 
 (2) *Standards.* An MA plan must meet maximum time and distance standards and contract with a specified minimum number of each provider and facility-specialty type.
 
@@ -70,9 +68,9 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 (xiv) Neurosurgery.
 
-(xv) Oncology - Medical, Surgical.
+(xv) Oncology—Medical, Surgical.
 
-(xvi) Oncology - Radiation/Radiation Oncology.
+(xvi) Oncology—Radiation/Radiation Oncology.
 
 (xvii) Ophthalmology.
 
@@ -104,7 +102,7 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 (iii) Cardiac Catheterization Services.
 
-(iv) Critical Care Services - Intensive Care Units (ICU).
+(iv) Critical Care Services—Intensive Care Units (ICU).
 
 (v) Surgical Services (Outpatient or ASC).
 
@@ -162,7 +160,7 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 (5) *Counties with extreme access considerations (CEAC).* For any population size with a population density of less than 10 persons per square mile.
 
-(d) *Maximum time and distance standards* - (1) *General rule.* CMS determines and annually publishes maximum time and distance standards for each combination of provider or facility specialty type and each county type in accordance with paragraphs (d)(2) and (3) of this section.
+(d) *Maximum time and distance standards*—(1) *General rule.* CMS determines and annually publishes maximum time and distance standards for each combination of provider or facility specialty type and each county type in accordance with paragraphs (d)(2) and (3) of this section.
 
 (i) Time and distance metrics measure the relationship between the approximate locations of beneficiaries and the locations of the network providers and facilities.
 
@@ -172,49 +170,49 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 Table 1 to Paragraph (d)(2)
 
-|              Provider/Facility type               |Large  <br/>metro |    Metro     |      Micro       |    Rural     |       CEAC       |              |                  |              |                  |   |
-|---------------------------------------------------|------------------|--------------|------------------|--------------|------------------|--------------|------------------|--------------|------------------|---|
-|                  Max  <br/>time                   |Max  <br/>distance|Max  <br/>time|Max  <br/>distance|Max  <br/>time|Max  <br/>distance|Max  <br/>time|Max  <br/>distance|Max  <br/>time|Max  <br/>distance|   |
-|                   Primary Care                    |        10        |      5       |        15        |      10      |        30        |      20      |        40        |      30      |        70        |60 |
-|              Allergy and Immunology               |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
-|                    Cardiology                     |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
-|                   Chiropractor                    |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
-|                    Dermatology                    |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|                   Endocrinology                   |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|                ENT/Otolaryngology                 |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
-|                 Gastroenterology                  |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|                  General Surgery                  |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
-|                Gynecology, OB/GYN                 |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
-|                Infectious Diseases                |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|                    Nephrology                     |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
-|                     Neurology                     |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|                   Neurosurgery                    |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|           Oncology - Medical, Surgical            |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|      Oncology - Radiation/Radiation Oncology      |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|                   Ophthalmology                   |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
-|                Orthopedic Surgery                 |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
-|        Physiatry, Rehabilitative Medicine         |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
-|                  Plastic Surgery                  |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|                     Podiatry                      |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|                    Psychiatry                     |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|                    Pulmonology                    |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|                   Rheumatology                    |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|                      Urology                      |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
-|                 Vascular Surgery                  |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|              Cardiothoracic Surgery               |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
-|             Acute Inpatient Hospitals             |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
-|              Cardiac Surgery Program              |        30        |      15      |        60        |      40      |       160        |     120      |       145        |     120      |       155        |140|
-|         Cardiac Catheterization Services          |        30        |      15      |        60        |      40      |       160        |     120      |       145        |     120      |       155        |140|
-|Critical Care Services - Intensive Care Units (ICU)|        20        |      10      |        45        |      30      |       160        |     120      |       145        |     120      |       155        |140|
-|       Surgical Services (Outpatient or ASC)       |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
-|            Skilled Nursing Facilities             |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |        95        |85 |
-|               Diagnostic Radiology                |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
-|                    Mammography                    |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
-|                 Physical Therapy                  |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
-|               Occupational Therapy                |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
-|                  Speech Therapy                   |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
-|      Inpatient Psychiatric Facility Services      |        30        |      15      |        70        |      45      |       100        |      75      |        90        |      75      |       155        |140|
-|         Outpatient Infusion/Chemotherapy          |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|             Provider/Facility type              |Large  <br/>metro |    Metro     |      Micro       |    Rural     |       CEAC       |              |                  |              |                  |   |
+|-------------------------------------------------|------------------|--------------|------------------|--------------|------------------|--------------|------------------|--------------|------------------|---|
+|                 Max  <br/>time                  |Max  <br/>distance|Max  <br/>time|Max  <br/>distance|Max  <br/>time|Max  <br/>distance|Max  <br/>time|Max  <br/>distance|Max  <br/>time|Max  <br/>distance|   |
+|                  Primary Care                   |        10        |      5       |        15        |      10      |        30        |      20      |        40        |      30      |        70        |60 |
+|             Allergy and Immunology              |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
+|                   Cardiology                    |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
+|                  Chiropractor                   |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
+|                   Dermatology                   |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|                  Endocrinology                  |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|               ENT/Otolaryngology                |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
+|                Gastroenterology                 |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|                 General Surgery                 |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
+|               Gynecology, OB/GYN                |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
+|               Infectious Diseases               |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|                   Nephrology                    |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
+|                    Neurology                    |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|                  Neurosurgery                   |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|           Oncology—Medical, Surgical            |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|      Oncology—Radiation/Radiation Oncology      |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|                  Ophthalmology                  |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
+|               Orthopedic Surgery                |        20        |      10      |        30        |      20      |        50        |      35      |        75        |      60      |        95        |85 |
+|       Physiatry, Rehabilitative Medicine        |        30        |      15      |        45        |      30      |        80        |      60      |        90        |      75      |       125        |110|
+|                 Plastic Surgery                 |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|                    Podiatry                     |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|                   Psychiatry                    |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|                   Pulmonology                   |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|                  Rheumatology                   |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|                     Urology                     |        20        |      10      |        45        |      30      |        60        |      45      |        75        |      60      |       110        |100|
+|                Vascular Surgery                 |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|             Cardiothoracic Surgery              |        30        |      15      |        60        |      40      |       100        |      75      |       110        |      90      |       145        |130|
+|            Acute Inpatient Hospitals            |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|             Cardiac Surgery Program             |        30        |      15      |        60        |      40      |       160        |     120      |       145        |     120      |       155        |140|
+|        Cardiac Catheterization Services         |        30        |      15      |        60        |      40      |       160        |     120      |       145        |     120      |       155        |140|
+|Critical Care Services—Intensive Care Units (ICU)|        20        |      10      |        45        |      30      |       160        |     120      |       145        |     120      |       155        |140|
+|      Surgical Services (Outpatient or ASC)      |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|           Skilled Nursing Facilities            |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |        95        |85 |
+|              Diagnostic Radiology               |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|                   Mammography                   |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|                Physical Therapy                 |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|              Occupational Therapy               |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|                 Speech Therapy                  |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
+|     Inpatient Psychiatric Facility Services     |        30        |      15      |        70        |      45      |       100        |      75      |        90        |      75      |       155        |140|
+|        Outpatient Infusion/Chemotherapy         |        20        |      10      |        45        |      30      |        80        |      60      |        75        |      60      |       110        |100|
 
 (3) *By customization.* When necessary due to utilization or supply patterns, CMS may set maximum time and distance standards for provider or facility types for specific counties by customization in accordance with the following rules:
 
@@ -260,9 +258,11 @@ Table 1 to Paragraph (d)(2)
 
 (6) *State Certificate of Need (CON) laws.* In a State with CON laws, or other state imposed anti-competitive restrictions that limit the number of providers or facilities in the State or a county in the State, CMS will award the MA organization a 10-percentage point credit towards the percentage of beneficiaries residing within published time and distance standards for affected providers and facilities in paragraph (b) of this section or, when necessary due to utilization or supply patterns, customize the base time and distance standards.
 
+(7) *New or expanding service area applicants.* Beginning with contract year 2024, an applicant for a new or expanding service area receives a 10-percentage point credit towards the percentage of beneficiaries residing within published time and distance standards for the contracted network in the pending service area, at the time of application and for the duration of the application review. In addition, applicants may use a Letter of Intent (LOI), signed by both the MA organization (MAO) and the provider or facility with which the MAO has started or intends to negotiate, in lieu of a signed contract at the time of application and for the duration of the application review, to meet network standards. As part of the network adequacy review process, applicants must notify CMS of their use of LOIs to meet network standards in lieu of a signed contract and submit copies upon request and in the form and manner directed by CMS. At the beginning of the applicable contract year, the credit and the use of LOIs no longer apply and if the application is approved, the MA organization must be in full compliance with this section, including having signed contracts with the provider or facility.
+
 (e) *Minimum number standard.* CMS annually determines the minimum number standard for each provider and facility-specialty type as follows:
 
-(1) *General rule.* The provider or facility must -
+(1) *General rule.* The provider or facility must—
 
 (i) Be within the maximum time and distance of at least one beneficiary in order to count towards the minimum number standard (requirement); and
 
@@ -286,36 +286,36 @@ Table 1 to Paragraph (d)(2)
 
 Table 2 to Paragraph (e)(3)(i)(C)
 
-|             Minimum ratio             |Large metro|Metro|Micro|Rural|CEAC|
-|---------------------------------------|-----------|-----|-----|-----|----|
-|             Primary Care              |   1.67    |1.67 |1.42 |1.42 |1.42|
-|        Allergy and Immunology         |   0.05    |0.05 |0.04 |0.04 |0.04|
-|              Cardiology               |   0.27    |0.27 |0.23 |0.23 |0.23|
-|             Chiropractor              |   0.10    |0.10 |0.09 |0.09 |0.09|
-|              Dermatology              |   0.16    |0.16 |0.14 |0.14 |0.14|
-|             Endocrinology             |   0.04    |0.04 |0.03 |0.03 |0.03|
-|          ENT/Otolaryngology           |   0.06    |0.06 |0.05 |0.05 |0.05|
-|           Gastroenterology            |   0.12    |0.12 |0.10 |0.10 |0.10|
-|            General Surgery            |   0.28    |0.28 |0.24 |0.24 |0.24|
-|          Gynecology, OB/GYN           |   0.04    |0.04 |0.03 |0.03 |0.03|
-|          Infectious Diseases          |   0.03    |0.03 |0.03 |0.03 |0.03|
-|              Nephrology               |   0.09    |0.09 |0.08 |0.08 |0.08|
-|               Neurology               |   0.12    |0.12 |0.10 |0.10 |0.10|
-|             Neurosurgery              |   0.01    |0.01 |0.01 |0.01 |0.01|
-|     Oncology - Medical, Surgical      |   0.19    |0.19 |0.16 |0.16 |0.16|
-|Oncology - Radiation/Radiation Oncology|   0.06    |0.06 |0.05 |0.05 |0.05|
-|             Ophthalmology             |   0.24    |0.24 |0.20 |0.20 |0.20|
-|          Orthopedic Surgery           |   0.20    |0.20 |0.17 |0.17 |0.17|
-|  Physiatry, Rehabilitative Medicine   |   0.04    |0.04 |0.03 |0.03 |0.03|
-|            Plastic Surgery            |   0.01    |0.01 |0.01 |0.01 |0.01|
-|               Podiatry                |   0.19    |0.19 |0.16 |0.16 |0.16|
-|              Psychiatry               |   0.14    |0.14 |0.12 |0.12 |0.12|
-|              Pulmonology              |   0.13    |0.13 |0.11 |0.11 |0.11|
-|             Rheumatology              |   0.07    |0.07 |0.06 |0.06 |0.06|
-|                Urology                |   0.12    |0.12 |0.10 |0.10 |0.10|
-|           Vascular Surgery            |   0.02    |0.02 |0.02 |0.02 |0.02|
-|        Cardiothoracic Surgery         |   0.01    |0.01 |0.01 |0.01 |0.01|
-|       Acute Inpatient Hospitals       |   12.2    |12.2 |12.2 |12.2 |12.2|
+|            Minimum ratio            |Large metro|Metro|Micro|Rural|CEAC|
+|-------------------------------------|-----------|-----|-----|-----|----|
+|            Primary Care             |   1.67    |1.67 |1.42 |1.42 |1.42|
+|       Allergy and Immunology        |   0.05    |0.05 |0.04 |0.04 |0.04|
+|             Cardiology              |   0.27    |0.27 |0.23 |0.23 |0.23|
+|            Chiropractor             |   0.10    |0.10 |0.09 |0.09 |0.09|
+|             Dermatology             |   0.16    |0.16 |0.14 |0.14 |0.14|
+|            Endocrinology            |   0.04    |0.04 |0.03 |0.03 |0.03|
+|         ENT/Otolaryngology          |   0.06    |0.06 |0.05 |0.05 |0.05|
+|          Gastroenterology           |   0.12    |0.12 |0.10 |0.10 |0.10|
+|           General Surgery           |   0.28    |0.28 |0.24 |0.24 |0.24|
+|         Gynecology, OB/GYN          |   0.04    |0.04 |0.03 |0.03 |0.03|
+|         Infectious Diseases         |   0.03    |0.03 |0.03 |0.03 |0.03|
+|             Nephrology              |   0.09    |0.09 |0.08 |0.08 |0.08|
+|              Neurology              |   0.12    |0.12 |0.10 |0.10 |0.10|
+|            Neurosurgery             |   0.01    |0.01 |0.01 |0.01 |0.01|
+|     Oncology—Medical, Surgical      |   0.19    |0.19 |0.16 |0.16 |0.16|
+|Oncology—Radiation/Radiation Oncology|   0.06    |0.06 |0.05 |0.05 |0.05|
+|            Ophthalmology            |   0.24    |0.24 |0.20 |0.20 |0.20|
+|         Orthopedic Surgery          |   0.20    |0.20 |0.17 |0.17 |0.17|
+| Physiatry, Rehabilitative Medicine  |   0.04    |0.04 |0.03 |0.03 |0.03|
+|           Plastic Surgery           |   0.01    |0.01 |0.01 |0.01 |0.01|
+|              Podiatry               |   0.19    |0.19 |0.16 |0.16 |0.16|
+|             Psychiatry              |   0.14    |0.14 |0.12 |0.12 |0.12|
+|             Pulmonology             |   0.13    |0.13 |0.11 |0.11 |0.11|
+|            Rheumatology             |   0.07    |0.07 |0.06 |0.06 |0.06|
+|               Urology               |   0.12    |0.12 |0.10 |0.10 |0.10|
+|          Vascular Surgery           |   0.02    |0.02 |0.02 |0.02 |0.02|
+|       Cardiothoracic Surgery        |   0.01    |0.01 |0.01 |0.01 |0.01|
+|      Acute Inpatient Hospitals      |   12.2    |12.2 |12.2 |12.2 |12.2|
 
 (ii)(A) *Number of beneficiaries required to cover.* (*1*) The number of beneficiaries required to cover is calculated by multiplying the 95th percentile base population ratio by the total number of Medicare beneficiaries residing in a county.
 
@@ -345,7 +345,7 @@ Table 2 to Paragraph (e)(3)(i)(C)
 
 (ii) The MA plan has contracted with other providers and facilities that may be located beyond the limits in the time and distance criteria, but are currently available and accessible to most enrollees, consistent with the local pattern of care.
 
-(2) In evaluating exception requests, CMS considers whether -
+(2) In evaluating exception requests, CMS considers whether—
 
 (i) The current access to providers and facilities is different from the HSD reference and Provider Supply files for the year;
 
@@ -353,4 +353,4 @@ Table 2 to Paragraph (e)(3)(i)(C)
 
 (iii) Approval of the exception is in the best interests of beneficiaries.
 
-[85 FR 33904, June 2, 2020]
+[85 FR 33904, June 2, 2020, as amended at 87 FR 27895, May 9, 2022]

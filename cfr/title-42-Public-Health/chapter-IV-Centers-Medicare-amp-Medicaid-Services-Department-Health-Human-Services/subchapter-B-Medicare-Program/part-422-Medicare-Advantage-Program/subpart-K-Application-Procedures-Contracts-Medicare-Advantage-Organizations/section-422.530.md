@@ -1,8 +1,6 @@
 ##### § 422.530 Plan crosswalks. #####
 
-Link to an amendment published at 87 FR 27896, May 9, 2022.
-
-(a) *General rules* - (1) *Definition of crosswalk.* A crosswalk is the movement of enrollees from one plan (or plan benefit package (PBP)) to another plan (or PBP) under a contract between the MA organization and CMS. To crosswalk enrollees from one PBP to another is to change the enrollment from the first PBP to the second.
+(a) *General rules*—(1) *Definition of crosswalk.* A crosswalk is the movement of enrollees from one plan (or plan benefit package (PBP)) to another plan (or PBP) under a contract between the MA organization and CMS. To crosswalk enrollees from one PBP to another is to change the enrollment from the first PBP to the second.
 
 (2) *Prohibitions.* Except as described in paragraph (c) of this section, crosswalks are prohibited between different contracts or different plan types (for example, HMO to PPO).
 
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 27896, May 9, 2022.
 
 (vi) MSA plans.
 
-(b) *Allowable crosswalk types* - (1) *All MA plans.* An MA organization may perform a crosswalk in the following circumstances:
+(b) *Allowable crosswalk types*—(1) *All MA plans.* An MA organization may perform a crosswalk in the following circumstances:
 
 (i) *Renewal.* A plan in the following contract year that links to a current contract year plan and retains the entire service area from the current contract year. The following contract year plan must retain the same plan ID as the current contract year plan.
 
@@ -66,7 +64,11 @@ Link to an amendment published at 87 FR 27896, May 9, 2022.
 
 (3) When a renewing D-SNP with a multi-state service area reduces its service area or, in the case of a D-SNP in an MA regional plan contract, nonrenews and creates state-specific local preferred provider organization plans in its place to accommodate state contracting efforts in the service area, enrollees who are no longer in the service area may be moved into one or more new or renewing D-SNPs, offered under the same parent organization (even if the D-SNPs are offered by two different MA organizations), and for which the enrollees are eligible, as CMS determines is necessary to accommodate changes to the contracts between the state and D-SNP under § 422.107. For this crosswalk exception, CMS will permit enrollees to be moved between different contracts.
 
-(4) When a renewing D-SNP has another new or renewing D-SNP, and the two D-SNPs are offered to different populations, enrollees who are no longer eligible for their current D-SNP may be moved into the other new or renewing D-SNP offered by the same MA organization if they meet the eligibility criteria for the new or renewing D-SNP and CMS determines it is in the best interest of the enrollees to move to the new or renewing D-SNP in order to promote access to and continuity of care for enrollees relative to the absence of a crosswalk exception. For this crosswalk exception, CMS will not permit enrollees to be moved between different contracts.
+(4) When—
+
+(i) A renewing D-SNP has another new or renewing D-SNP, and the two D-SNPs are offered to different populations, enrollees who are no longer eligible for their current D-SNP may be moved into the other new or renewing D-SNP offered by the same MA organization if they meet the eligibility criteria for the new or renewing D-SNP and CMS determines it is in the best interest of the enrollees to move to the new or renewing D-SNP in order to promote access to and continuity of care for enrollees relative to the absence of a crosswalk exception. For the crosswalk exception in this paragraph (c)(4)(i), CMS does not permit enrollees to be moved between different contracts; or
+
+(ii) An MA organization creates a new MA contract when required by a State as described in § 422.107(e), eligible enrollees may be moved from the existing D-SNP that is non-renewing, reducing its service area, or has its eligible population newly restricted by a State, to a D-SNP offered under the D-SNP-only contract, which must be of the same plan type operated by the same parent organization. For the crosswalk exception in this paragraph (c)(4)(ii), CMS permits enrollees to be moved between different contracts.
 
 (5) Renewing C-SNP with a grouping of multiple conditions that is transitioning eligible enrollees into another C-SNP with one of the chronic conditions from that grouping.
 
@@ -74,4 +76,4 @@ Link to an amendment published at 87 FR 27896, May 9, 2022.
 
 (2) An MA organization must submit all crosswalk exception requests in paragraph (c)(1) of this section in writing through the crosswalk exceptions process in HPMS by the crosswalk exception request deadline announced by CMS annually. CMS verifies the requests and notifies requesting MA organizations of the approval or denial after the crosswalk exception request deadline.
 
-[86 FR 6099, Jan. 19, 2021]
+[86 FR 6099, Jan. 19, 2021, as amended at 87 FR 27896, May 9, 2022]

@@ -1,7 +1,5 @@
 ##### § 410.142 CMS process for approving national accreditation organizations. #####
 
-Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
-
 (a) *General rule.* CMS may approve and recognize a nonprofit or not-for-profit organization with demonstrated experience in representing the interest of individuals with diabetes to accredit entities to furnish training.
 
 (b) *Required information and materials.* An organization requesting CMS's approval and recognition of its accreditation program must furnish to CMS the following information and materials:
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 
 (c) *Onsite visit.* CMS may visit the prospective organization's offices to verify information in the organization's application, including, but not limited to, review of documents, and interviews with the organization's staff.
 
-(d) *Notice and comment* - (1) *Proposed notice.* CMS publishes a proposed notice in the Federal Register announcing its intention to approve an organization's request for CMS approval and recognition of its accreditation program and the standards it uses to accredit entities to furnish training. The notice includes the following information:
+(d) *Notice and comment*—(1) *Proposed notice.* CMS publishes a proposed notice in the Federal Register announcing its intention to approve an organization's request for CMS approval and recognition of its accreditation program and the standards it uses to accredit entities to furnish training. The notice includes the following information:
 
 (i) The basis for approving the organization.
 
@@ -101,3 +99,7 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 (i) *Withdrawal.* An organization requesting CMS approval and recognition of its accreditation program to accredit entities may withdraw its application at any time.
 
 (j) *Applying for continued CMS approval.* At least 6 months before the expiration of CMS's approval and recognition of the organization's program, an organization must request from CMS continued approval and recognition.
+
+(k) *Change of ownership.* An accreditation organization whose accreditation program(s) is (are) approved and recognized by CMS that wishes to undergo a change of ownership is subject to the requirements set out at § 488.5(f) of this chapter.
+
+[65 FR 83148, Dec. 29, 2000, as amended at 87 FR 25427, Apr. 29, 2022]

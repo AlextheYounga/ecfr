@@ -1,7 +1,5 @@
 ##### § 493.553 Approval process (application and reapplication) for accreditation organizations and State licensure programs. #####
 
-Link to an amendment published at 87 FR 25429, Apr. 29, 2022.
-
 (a) *Information required.* An accreditation organization that applies or reapplies to CMS for deeming authority, or a State licensure program that applies or reapplies to CMS for exemption from CLIA program requirements of licensed or approved laboratories within the State, must provide the following information:
 
 (1) A detailed comparison of the individual accreditation, or licensure or approval requirements with the comparable condition-level requirements; that is, a crosswalk.
@@ -39,3 +37,7 @@ Link to an amendment published at 87 FR 25429, Apr. 29, 2022.
 (c) *Duration of approval.* CMS approval may not exceed 6 years.
 
 (d) *Withdrawal of application.* The accreditation organization or State licensure program may withdraw its application at any time before official notification, specified at § 493.553(b)(3).
+
+(e) *Change of ownership.* An accrediting organization that wishes to undergo a change of ownership is subject to the requirements set out at § 488.5(f) of this chapter.
+
+[63 FR 26732, May 14, 1998, as amended at 87 FR 25429, Apr. 29, 2022]

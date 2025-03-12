@@ -1,7 +1,5 @@
 ##### § 488.1030 Ongoing review of home infusion therapy accrediting organizations. #####
 
-Link to an amendment published at 87 FR 25428, Apr. 29, 2022.
-
 (a) *Performance review.* CMS evaluates the performance of each CMS-approved home infusion therapy accreditation program on an ongoing basis. This review includes the review of the following:
 
 (1) The home infusion therapy accrediting organization's survey activity.
@@ -77,3 +75,7 @@ Link to an amendment published at 87 FR 25428, Apr. 29, 2022.
 (e) *Immediate jeopardy.* If at any time CMS determines that the continued approval of a CMS-approved home infusion therapy accreditation program of any home infusion therapy accrediting organization poses an immediate jeopardy to the patients of the suppliers accredited under the program, or the continued approval otherwise constitutes a significant hazard to the public health, CMS may immediately withdraw the approval of a CMS-approved home infusion therapy accreditation program of that home infusion therapy accrediting organization and publish a notice of the removal, including the reasons for it, in the Federal Register.
 
 (f) *Notification to home infusion therapy suppliers of withdrawal of CMS approval status.* A home infusion therapy accrediting organization whose CMS approval of its home infusion therapy accreditation program has been withdrawn must notify each of its accredited home infusion therapy suppliers, in writing, of the withdrawal of CMS approval status no later than 30 calendar days after the notice is published in the Federal Register. The notification to the accredited home infusion therapy suppliers must inform them of the implications for their payment status once their current term of accreditation expires.
+
+(g) *Change of ownership.* An accrediting organization that wishes to undergo a change of ownership is subject to the requirements set out at § 488.5(f).
+
+[83 FR 56631, Nov. 13, 2018, as amended at 87 FR 25428, Apr. 29, 2022]

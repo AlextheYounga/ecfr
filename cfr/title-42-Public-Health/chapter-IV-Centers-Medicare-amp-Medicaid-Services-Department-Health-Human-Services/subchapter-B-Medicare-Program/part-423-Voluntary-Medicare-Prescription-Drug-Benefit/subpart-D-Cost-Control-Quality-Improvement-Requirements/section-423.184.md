@@ -1,7 +1,5 @@
 ##### § 423.184 Adding, updating, and removing measures. #####
 
-Link to an amendment published at 87 FR 27899, May 9, 2022.
-
 (a) *General.* CMS adds, updates, and removes measures used to calculate the Star Ratings as provided in this section. CMS lists the measures used for a particular Star Rating each year in the Technical Notes or similar guidance document with publication of the Star Ratings.
 
 (b) *Review of data quality.* CMS reviews the quality of the data on which performance, scoring and rating of a measure is based before using the data to score and rate performance or in calculating a Star Rating. This includes review of variation in scores among MA organizations and Part D plan sponsors, and the accuracy, reliability, and validity of measures and performance data before making a final determination about inclusion of measures in each year's Star Ratings.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 27899, May 9, 2022.
 
 (4) A measure will remain on the display page for longer than 2 years if CMS finds reliability or validity issues with the measure specification.
 
-(d) *Updating measures* - (1) *Non-substantive updates.* For measures that are already used for Star Ratings, CMS will update measures so long as the changes in a measure are not substantive. CMS will announce non-substantive updates to measures that occur (or are announced by the measure steward) during or in advance of the measurement period through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act. Non-substantive measure specification updates include those that -
+(d) *Updating measures*—(1) *Non-substantive updates.* For measures that are already used for Star Ratings, CMS will update measures so long as the changes in a measure are not substantive. CMS will announce non-substantive updates to measures that occur (or are announced by the measure steward) during or in advance of the measurement period through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act. Non-substantive measure specification updates include those that—
 
 (i) Narrow the denominator or population covered by the measure;
 
@@ -124,6 +122,6 @@ Link to an amendment published at 87 FR 27899, May 9, 2022.
 
 (2) A Part D plan sponsor may request that CMS review its' contract's Complaints Tracking Module (CTM) data provided that the request is received by the annual deadline set by CMS for the applicable Star Ratings year.
 
-(i) *Special rule for 2021 Star Ratings only.* In the event that the threat to health and safety posed by the COVID-19 pandemic compromises the quality of the data, or ability to validate such data, for all plans, used to calculate a particular measure, CMS will substitute and use the 2021 Star Ratings measure score and Star Ratings with the 2020 Star Ratings measure score and Star Rating.
+(i) [Reserved]
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 86 FR 6118, Jan. 19, 2021]
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 86 FR 6118, Jan. 19, 2021; 87 FR 27899, May 9, 2022]

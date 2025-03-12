@@ -1,12 +1,10 @@
 ##### § 422.2 Definitions. #####
 
-Link to an amendment published at 87 FR 27893, May 9, 2022.
-
-As used in this part -
+As used in this part—
 
 *Aligned enrollment* refers to the enrollment in a dual eligible special needs plan of full-benefit dual eligible individuals whose Medicaid benefits are covered under a Medicaid managed care organization contract under section 1903(m) of the Act between the applicable State and: the dual eligible special needs plan's (D-SNP's) MA organization, the D-SNP's parent organization, or another entity that is owned and controlled by the D-SNP's parent organization. When State policy limits a D-SNP's membership to individuals with aligned enrollment, this condition is referred to as exclusively aligned enrollment.
 
-*Arrangement* means a written agreement between an MA organization and a provider or provider network, under which -
+*Arrangement* means a written agreement between an MA organization and a provider or provider network, under which—
 
 (1) The provider or provider network agrees to furnish for a specific MA plan(s) specified services to the organization's MA enrollees;
 
@@ -30,7 +28,7 @@ As used in this part -
 
 *Downstream entity* means any party that enters into a written arrangement, acceptable to CMS, with persons or entities involved with the MA benefit, below the level of the arrangement between an MA organization (or applicant) and a first tier entity. These written arrangements continue down to the level of the ultimate provider of both health and administrative services.
 
-*Dual eligible special needs plan* or D-SNP means a specialized MA plan for special needs individuals who are entitled to medical assistance under a State plan under title XIX of the Act that -
+*Dual eligible special needs plan* or D-SNP means a specialized MA plan for special needs individuals who are entitled to medical assistance under a State plan under title XIX of the Act that—
 
 (1) Coordinates the delivery of Medicare and Medicaid services for individuals who are eligible for such services;
 
@@ -50,23 +48,47 @@ As used in this part -
 
 *Fiscally sound operation* means an operation which at least maintains a positive net worth (total assets exceed total liabilities).
 
-*Fully integrated dual eligible special needs plan* means a dual eligible special needs plan -
+*Fully integrated dual eligible special needs plan* means a dual eligible special needs plan—
 
 (1) That provides dual eligible individuals access to Medicare and Medicaid benefits under a single entity that holds both an MA contract with CMS and a Medicaid managed care organization contract under section 1903(m) of the Act with the applicable State;
 
-(2) Whose capitated contract with the State Medicaid agency provides coverage, consistent with State policy, of specified primary care, acute care, behavioral health, and long-term services and supports, and provides coverage of nursing facility services for a period of at least 180 days during the plan year;
+(2) Whose capitated contract with the State Medicaid agency requires coverage of the following benefits, to the extent Medicaid coverage of such benefits is available to individuals eligible to enroll in a fully integrated dual eligible special needs plan (FIDE SNP) in the State, except as approved by CMS under § 422.107(g) and (h):
 
-(3) That coordinates the delivery of covered Medicare and Medicaid services using aligned care management and specialty care network methods for high-risk beneficiaries; and
+(i) Primary care and acute care, and for plan year 2025 and subsequent years including Medicare cost-sharing as defined in section 1905(p)(3)(B), (C), and (D) of the Act, without regard to the limitation of that definition to qualified Medicare beneficiaries;
 
-(4) That employs policies and procedures approved by CMS and the State to coordinate or integrate beneficiary communication materials, enrollment, communications, grievance and appeals, and quality improvement.
+(ii) Long-term services and supports, including coverage of nursing facility services for a period of at least 180 days during the plan year;
+
+(iii) For plan year 2025 and subsequent years, behavioral health services;
+
+(iv) For plan year 2025 and subsequent years, home health services as defined in § 440.70 of this chapter; and
+
+(v) For plan year 2025 and subsequent years, medical supplies, equipment, and appliances, as described in § 440.70(b)(3) of this chapter;
+
+(3) That coordinates the delivery of covered Medicare and Medicaid services using aligned care management and specialty care network methods for high-risk beneficiaries;
+
+(4) That employs policies and procedures approved by CMS and the State to coordinate or integrate beneficiary communication materials, enrollment, communications, grievance and appeals, and quality improvement;
+
+(5) For plan year 2025 and subsequent years, that has exclusively aligned enrollment; and
+
+(6) For plan year 2025 and subsequent years, whose capitated contract with the State Medicaid agency covers the entire service area for the dual eligible special needs plan.
 
 *Hierarchical condition categories (HCC)* means disease groupings consisting of disease codes (currently ICD-9-CM codes) that predict average healthcare spending. HCCs represent the disease component of the enrollee risk score that are applied to MA payments.
 
-*Highly integrated dual eligible special needs plan* means a dual eligible special needs plan offered by an MA organization that provides coverage, consistent with State policy, of long-term services and supports, behavioral health services, or both, under a capitated contract that meets one of the following arrangements -
+*Highly integrated dual eligible special needs plan* means a dual eligible special needs plan offered by an MA organization that provides coverage of Medicaid benefits under a capitated contract that meets the following requirements—
 
-(1) The capitated contract is between the MA organization and the Medicaid agency; or
+(1) The capitated contract is between the State Medicaid agency and—
 
-(2) The capitated contract is between the MA organization's parent organization (or another entity that is owned and controlled by its parent organization) and the Medicaid agency.
+(i) The MA organization; or
+
+(ii) The MA organization's parent organization, or another entity that is owned and controlled by its parent organization;
+
+(2) The capitated contract requires coverage of the following benefits, to the extent Medicaid coverage of such benefits is available to individuals eligible to enroll in a highly integrated dual eligible special needs plan (HIDE SNP) in the State, except as approved by CMS under § 422.107(g) or (h):
+
+(i) Long-term services and supports, including community-based long-term services and supports and some days of coverage of nursing facility services during the plan year; or
+
+(ii) Behavioral health services; and
+
+(3) For plan year 2025 and subsequent years, the capitated contract covers the entire service area for the dual eligible special needs plan.
 
 *Institutionalized* means, for the purposes of defining a special needs individual and for the open enrollment period for institutionalized individuals at § 422.62(a)(4), an MA eligible individual who continuously resides or is expected to continuously reside for 90 days or longer in one of the following long-term care facility settings:
 
@@ -90,7 +112,7 @@ As used in this part -
 
 (ii) Whose residents have similar needs and healthcare status as residents of one or more facilities listed in paragraphs (1) through (7) of this definition.
 
-*Institutionalized-equivalent* means for the purpose of defining a special needs individual, an MA eligible individual who is living in the community but requires an institutional level of care. The determination that the individual requires an institutional level of care (LOC) must be made by -
+*Institutionalized-equivalent* means for the purpose of defining a special needs individual, an MA eligible individual who is living in the community but requires an institutional level of care. The determination that the individual requires an institutional level of care (LOC) must be made by—
 
 (1) The use of a State assessment tool from the State in which the individual resides; and
 
@@ -120,7 +142,7 @@ As used in this part -
 
 *MSA* stands for medical savings account.
 
-*MSA trustee* means a person or business with which an enrollee establishes an MA MSA. A trustee may be a bank, an insurance company, or any other entity that -
+*MSA trustee* means a person or business with which an enrollee establishes an MA MSA. A trustee may be a bank, an insurance company, or any other entity that—
 
 (1) Is approved by the Internal Revenue Service to be a trustee or custodian of an individual retirement account (IRA); and
 
@@ -136,7 +158,7 @@ As used in this part -
 
 *Point of service (POS)* means a benefit option that an MA HMO plan can offer to its Medicare enrollees as a mandatory supplemental, or optional supplemental benefit. Under the POS benefit option, the HMO plan allows members the option of receiving specified services outside of the HMO plan's provider network. In return for this flexibility, members typically have higher cost-sharing requirements for services received and, when offered as a mandatory or optional supplemental benefit, may also be charged a premium for the POS benefit option.
 
-*Preclusion list* means a CMS compiled list of individuals and entities that -
+*Preclusion list* means a CMS compiled list of individuals and entities that—
 
 (1) Meet all of the following requirements:
 
@@ -164,7 +186,7 @@ As used in this part -
 
 (C) Any other evidence that CMS deems relevant to its determination; or
 
-(3) The individual or entity, regardless of whether they are or were enrolled in Medicare, has been convicted of a felony under Federal or State law within the previous 10 years that CMS deems detrimental to the best interests of the Medicare program. Factors that CMS considers in making such a determination under this paragraph (3) are -
+(3) The individual or entity, regardless of whether they are or were enrolled in Medicare, has been convicted of a felony under Federal or State law within the previous 10 years that CMS deems detrimental to the best interests of the Medicare program. Factors that CMS considers in making such a determination under this paragraph (3) are—
 
 (i) The severity of the offense;
 
@@ -176,7 +198,7 @@ As used in this part -
 
 *Prescription drug plan (PDP) sponsor.* A prescription drug plan sponsor has the definition set forth in § 423.4 of this chapter.
 
-*Provider* means -
+*Provider* means—
 
 (1) Any individual who is engaged in the delivery of health care services in a State and is licensed or certified by the State to engage in that activity in the State; and
 
@@ -194,7 +216,7 @@ As used in this part -
 
 (3) Leases real property or sells materials to the MA organization at a cost of more than $2,500 during a contract period.
 
-*Religious Fraternal benefit (RFB) society* means an organization that -
+*Religious Fraternal benefit (RFB) society* means an organization that—
 
 (1) Is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of that Act; and
 
@@ -204,7 +226,7 @@ As used in this part -
 
 *Risk adjustment data validation (RADV) audit* means a payment audit of a MA organization administered by the Secretary that ensures the integrity and accuracy of risk adjustment payment data.
 
-*Senior housing facility plan* means an MA coordinated care plan that -
+*Senior housing facility plan* means an MA coordinated care plan that—
 
 (1) Restricts enrollment to individuals who reside in a continuing care retirement community as defined in § 422.133(b)(2);
 
@@ -234,4 +256,4 @@ As used in this part -
 
 *Step therapy* means a utilization management policy for coverage of drugs that begins medication for a medical condition with the most preferred or cost effective drug therapy and progresses to other drug therapies if medically necessary.
 
-[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018; 84 FR 15827, Apr. 16, 2019; 84 FR 23879, May 23, 2019; 86 FR 6094, Jan. 19, 2021]
+[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018; 84 FR 15827, Apr. 16, 2019; 84 FR 23879, May 23, 2019; 86 FR 6094, Jan. 19, 2021; 87 FR 27893, May 9, 2022]

@@ -1,7 +1,5 @@
 ##### § 422.252 Terminology. #####
 
-Link to an amendment published at 87 FR 27895, May 9, 2022.
-
 *Annual MA capitation rate* means a county payment rate for an MA local area (county) for a calendar year. The terms “per capita rate” and “capitation rate” are used interchangeably to refer to the annual MA capitation rate.
 
 *Low enrollment contract* means a contract that could not undertake Healthcare Effectiveness Data and Information Set (HEDIS) and Health Outcome Survey (HOS) data collections because of a lack of a sufficient number of enrollees to reliably measure the performance of the health plan.
@@ -26,11 +24,7 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 (3) The amount for provision of supplemental health care benefits (if any).
 
-*New MA plan* means a plan that meets the following:
-
-(1) Offered under a new MA contract.
-
-(2) Offered under an MA contract that is held by a parent organization defined at § 422.2 that has not had an MA contract in the prior 3 years. For purposes of this definition, the parent organization is identified as of April of the calendar year before the payment year to which the final QBP rating applies, and contracts associated with that parent organization are also evaluated using contracts in existence as of April of the 3 calendar years before the payment year to which the final QBP rating applies. For purposes of 2022 quality bonus payments based on 2021 Star Ratings only, new MA plan means an MA contract offered by a parent organization that has not had another MA contract in the previous 4 years.
+*New MA plan* means a MA contract offered by a parent organization that has not had another MA contract in the previous 3 years. For purposes of 2022 quality bonus payments based on 2021 Star Ratings only, new MA plan means an MA contract offered by a parent organization that has not had another MA contract in the previous 4 years.
 
 *Plan basic cost sharing* means cost sharing that would be charged by a plan for basic benefits as defined in § 422.100(c)(1) before any reductions resulting from mandatory supplemental benefits.
 
@@ -40,4 +34,4 @@ Link to an amendment published at 87 FR 27895, May 9, 2022.
 
 *Unadjusted MA statutory non-drug monthly bid amount* means a plan's estimate of its average monthly required revenue to provide coverage of basic benefits as defined in § 422.100(c)(1) to an MA eligible beneficiary with a nationally average risk profile for the risk factors CMS applies to payment calculations as set forth at § 422.308(c).
 
-[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 76 FR 21564, Apr. 15, 2011; 84 FR 15832, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 86 FR 6098, Jan. 19, 2021]
+[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 76 FR 21564, Apr. 15, 2011; 84 FR 15832, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 86 FR 6098, Jan. 19, 2021; 87 FR 27895, May 9, 2022]

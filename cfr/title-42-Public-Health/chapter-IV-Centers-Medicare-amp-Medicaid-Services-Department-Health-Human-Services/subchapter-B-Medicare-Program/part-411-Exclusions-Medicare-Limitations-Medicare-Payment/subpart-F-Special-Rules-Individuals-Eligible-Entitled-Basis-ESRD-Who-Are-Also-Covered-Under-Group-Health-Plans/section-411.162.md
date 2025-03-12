@@ -1,10 +1,10 @@
 ##### § 411.162 Medicare benefits secondary to group health plan benefits. #####
 
-(a) *General provisions* - (1) *Basic rule.* Except as provided in § 411.163 (with respect to certain individuals who are also entitled on the basis of age or disability), Medicare is secondary to any GHP (including a retirement plan), with respect to benefits that are payable to an individual who is entitled to Medicare on the basis of ESRD, for services furnished during any coordination period determined in accordance with paragraphs (b) and (c) of this section. (No Medicare benefits are payable on behalf of an individual who is eligible but not yet entitled.)
+(a) *General provisions*—(1) *Basic rule.* Except as provided in § 411.163 (with respect to certain individuals who are also entitled on the basis of age or disability), Medicare is secondary to any GHP (including a retirement plan), with respect to benefits that are payable to an individual who is entitled to Medicare on the basis of ESRD, for services furnished during any coordination period determined in accordance with paragraphs (b) and (c) of this section. (No Medicare benefits are payable on behalf of an individual who is eligible but not yet entitled.)
 
 (2) *Medicare benefits secondary without regard to size of employer and beneficiary's employment status.* The size of employer and employment status requirements of the MSP provisions for the aged and disabled do not apply with respect to ESRD beneficiaries.
 
-(3) *COBRA continuation coverage.* Medicare is secondary payer for benefits that a GHP -
+(3) *COBRA continuation coverage.* Medicare is secondary payer for benefits that a GHP—
 
 (i) Is required to keep in effect under COBRA continuation requirements (as explained in the footnote to § 411.161(a)(3)), even after the individual becomes entitled to Medicare; or
 
@@ -12,11 +12,11 @@
 
 (4) *Medicare payments during the coordination period.* During the coordination period, CMS makes Medicare payments as follows:
 
-(i) Primary payments only for Medicare covered services that are -
+(i) Primary payments only for Medicare covered services that are—
 
 (A) Furnished to Medicare beneficiaries who have declined to enroll in the GHP;
 
-(B) Not covered under the plan;1/\>
+(B) Not covered under the plan;1
 
 1 CMS does not pay if noncoverage of services constitutes differentiation as prohibited by § 411.161(b).
 
@@ -26,13 +26,13 @@
 
 (ii) Secondary payments, within the limits specified in §§ 411.32 and 411.33, to supplement the amount paid by the GHP if that plan pays only a portion of the charge for the services.
 
-(b) *Beginning of coordination period.* (1) For individuals who start a course of maintenance dialysis or who receive a kidney transplant before December 1989, the coordination period begins with the earlier of -
+(b) *Beginning of coordination period.* (1) For individuals who start a course of maintenance dialysis or who receive a kidney transplant before December 1989, the coordination period begins with the earlier of—
 
 (i) The month in which the individual initiated a regular course of renal dialysis; or
 
 (ii) In the case of an individual who received a kidney transplant, the first month in which the individual became entitled to Medicare, or, if earlier, the first month for which the individual would have been entitled to Medicare benefits if he or she had filed an application for such benefits.
 
-(2) For individuals other than those specified in paragraph (b)(1) of this section, the coordination period begins with the earlier of -
+(2) For individuals other than those specified in paragraph (b)(1) of this section, the coordination period begins with the earlier of—
 
 (i) The first month in which the individual becomes entitled to Medicare part A on the basis of ESRD; or
 

@@ -1,7 +1,5 @@
 ##### § 422.2265 Websites. #####
 
-Link to an amendment published at 87 FR 27898, May 9, 2022.
-
 As required under § 422.111(h)(2), MA organizations must have a website.
 
 (a) *General website requirements.* (1) MA organization websites must meet all of the following requirements:
@@ -54,6 +52,10 @@ As required under § 422.111(h)(2), MA organizations must have a website.
 
 (ii) “Tax publications are available on the IRS website at *http://www.irs.gov* or from 1-800-TAX-FORM (1-800-829-3676).”
 
+(13) Instructions on how to appoint a representative including a link to the downloadable version of the CMS Appointment of Representative Form (CMS Form-1696).
+
+(14) Enrollment instructions and forms.
+
 (c) *Required posted materials.* MA organization's website must provide access to the following materials, in a printable format, within the timeframes specified in paragraphs (c)(1) and (2) of this section.
 
 (1) The following materials for each plan year must be posted on the website by October 15 prior to the beginning of the plan year:
@@ -78,4 +80,4 @@ As required under § 422.111(h)(2), MA organizations must have a website.
 
 (iv) CMS Star Ratings document, which must be posted within 21 days after its release on the Medicare Plan Finder.
 
-[86 FR 6107, Jan. 19, 2021]
+[86 FR 6107, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022]

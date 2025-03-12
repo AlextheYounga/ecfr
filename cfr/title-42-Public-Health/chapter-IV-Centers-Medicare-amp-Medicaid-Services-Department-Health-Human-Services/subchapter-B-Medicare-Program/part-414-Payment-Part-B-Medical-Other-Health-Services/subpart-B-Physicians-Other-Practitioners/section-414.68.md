@@ -1,7 +1,5 @@
 ##### § 414.68 Imaging accreditation. #####
 
-Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
-
 (a) *Scope and purpose.* Section 1834(e) of the Act requires the Secretary to designate and approve independent accreditation organizations for purposes of accrediting suppliers furnishing the technical component (TC) of advanced diagnostic imaging services and establish procedures to ensure that the criteria used by an accreditation organization is specific to each imaging modality. Suppliers of the TC of advanced diagnostic imaging services for which payment is made under the fee schedule established in section 1848(b) of the Act must become accredited by an accreditation organization designated by the Secretary beginning January 1, 2012.
 
 (b) *Definitions.* As used in this section, the following definitions are applicable:
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 
 (c) *Application and reapplication procedures for accreditation organizations.* An independent accreditation organization applying for approval or reapproval of authority to survey suppliers for purposes of accrediting suppliers furnishing the TC of advanced diagnostic imaging services is required to furnish CMS with all of the following:
 
-(1) A detailed description of how the organization's accreditation criteria satisfy the statutory standards authorized by section 1834(e)(3) of the Act, specifically -
+(1) A detailed description of how the organization's accreditation criteria satisfy the statutory standards authorized by section 1834(e)(3) of the Act, specifically—
 
 (i) Qualifications of medical personnel who are not physicians and who furnish the TC of advanced diagnostic imaging services;
 
@@ -152,7 +150,7 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 
 (B) When conducted in response to an allegation, CMS audits any standards that CMS determines are related to the allegations.
 
-(2) *Notice of intent to withdraw approval.* (i) If, during the audit specified in paragraph (h)(1) of this section, CMS identifies any accreditation programs for which validation audit results indicate -
+(2) *Notice of intent to withdraw approval.* (i) If, during the audit specified in paragraph (h)(1) of this section, CMS identifies any accreditation programs for which validation audit results indicate—
 
 (A) A 10 percent or greater rate of disparity between findings by the accreditation organization and findings by CMS on standards that do not constitute immediate jeopardy to patient health and safety if unmet; or
 
@@ -162,7 +160,7 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 
 (ii) CMS may also provide the organization written notice of its intent to withdraw approval if an equivalency review, onsite observation, or CMS' daily experience with the accreditation organization suggests that the accreditation organization is not meeting the requirements of this section.
 
-(3) *Withdrawal of approval.* CMS may withdraw its approval of an accreditation organization at any time if CMS determines that -
+(3) *Withdrawal of approval.* CMS may withdraw its approval of an accreditation organization at any time if CMS determines that—
 
 (i) Accreditation by the organization no longer adequately assures that the suppliers furnishing the technical component of advanced diagnostic imaging service are meeting the established industry standards for each modality and that failure to meet those requirements could jeopardize the health or safety of Medicare beneficiaries and could constitute a significant hazard to the public health; or
 
@@ -176,7 +174,7 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 
 (iii) A requestor may withdraw its request for reconsideration at any time before the issuance of a reconsideration determination.
 
-(2) *CMS response to a filing request.* In response to a request for reconsideration, CMS provides the accreditation organization with -
+(2) *CMS response to a filing request.* In response to a request for reconsideration, CMS provides the accreditation organization with—
 
 (i) The opportunity for an informal hearing to be conducted by a hearing officer appointed by the Administrator of CMS and provide the accreditation organization the opportunity to present, in writing and in person, evidence or documentation to refute the determination to deny approval, or to withdraw or not renew designation; and
 
@@ -186,7 +184,7 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 
 (A) CMS.
 
-(B) The organization requesting the reconsideration including -
+(B) The organization requesting the reconsideration including—
 
 (*1*) Authorized representatives;
 
@@ -206,4 +204,6 @@ Link to an amendment published at 87 FR 25427, Apr. 29, 2022.
 
 (vii) The hearing officer's decision is final.
 
-[74 FR 62006, Nov. 25, 2009]
+(j) *Change of ownership.* An accreditation organization whose accreditation program(s) is (are) approved and recognized by CMS that wishes to undergo a change of ownership are subject to the requirements set out at § 488.5(f) of this chapter.
+
+[74 FR 62006, Nov. 25, 2009, as amended at 87 FR 25427, Apr. 29, 2022]

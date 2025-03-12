@@ -1,7 +1,5 @@
 ##### § 422.2267 Required materials and content. #####
 
-Link to an amendment published at 87 FR 27898, May 9, 2022.
-
 For information CMS deems to be vital to the beneficiary, including information related to enrollment, benefits, health, and rights, the agency may develop materials or content that are either standardized or provided in a model form. Such materials and content are collectively referred to as required.
 
 (a) *Standards for required materials and content.* All required materials and content, regardless of categorization as standardized in paragraph (b) of this section or model in paragraph (c) of this section, must meet the following:
@@ -274,7 +272,43 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (29) *Notice of Dismissal of Appeal.* This is a model communications material used to convey the rationale by an MA organization to dismiss beneficiary's appeal.
 
-(30) *Federal Contracting Statement.* This is model content through which plans must convey that they have a contract with Medicare and that enrollment in the plan depends on contract renewal.
+(30) *Member ID card.* The member ID card is a model communications material that plans must provide to enrollees as required under § 422.111(i). The member ID card—
+
+(i) Must be provided to new enrollees within ten calendars days from receipt of CMS confirmation of enrollment or by the last day of the month prior to the plan effective date, whichever is later;
+
+(ii) Must include the plan's—
+
+(A) Website address;
+
+(B) Customer service number (the member ID card is excluded from the hours of operations requirement under § 422.2262(c)(1)(i)); and
+
+(C) Contract/PBP number;
+
+(iii) Must include, if issued for a PPO and PFFS plan, the phrase “Medicare limiting charges apply.”;
+
+(iv) May not use a member's Social Security number (SSN), in whole or in part;
+
+(v) Must be updated whenever information on a member's existing card changes; in such cases an updated card must be provided to the member;
+
+(vi) Is excluded from the translation requirement under paragraph (a)(2) of this section; and
+
+(vii) Is excluded from the 12-point font size requirement under paragraph (a)(1) of this section.
+
+(31) *Multi-language insert (MLI).* This is a standardized communications material which states, “We have free interpreter services to answer any questions you may have about our health or drug plan. To get an interpreter, just call us at [1-xxx-xxx-xxxx]. Someone who speaks [language] can help you. This is a free service.” in the following languages: Spanish, Chinese, Tagalog, French, Vietnamese, German, Korean, Russian, Arabic, Italian, Portuguese, French Creole, Polish, Hindi, and Japanese.
+
+(i) Additional languages that meet the 5-percent service area threshold, as required under paragraph (a)(2) of this section, must be added to the MLI used in that service area. A plan may also opt to include in the MLI any additional language that do not meet the 5-percent service area threshold, where it determines that this inclusion would be appropriate.
+
+(ii) The MLI must be provided with all required materials under paragraph (e) of this section.
+
+(iii) The MLI may be included as a part of the required material or as a standalone material in conjunction with the required material.
+
+(iv) When used as a standalone material, the MLI may include organization name and logo.
+
+(v) When mailing multiple required materials together, only one MLI is required.
+
+(vi) The MLI may be provided electronically when a required material is provided electronically as permitted under paragraph (d)(2) of this section.
+
+(32) *Federal Contracting Statement.* This is model content through which plans must convey that they have a contract with Medicare and that enrollment in the plan depends on contract renewal.
 
 (i) The Federal Contracting Statement must include all of the following:
 
@@ -298,7 +332,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (E) Envelopes.
 
-(31) *Star Ratings Disclaimer.* This is model content through which plans must:
+(33) *Star Ratings Disclaimer.* This is model content through which plans must:
 
 (i) Convey that MA organizations are evaluated yearly by Medicare.
 
@@ -306,7 +340,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iii) Include the model content in disclaimer form or within the material whenever Star Ratings are mentioned in marketing materials, with the exception of when Star Ratings are published on small objects (that is, a give-away items such as a pens or rulers).
 
-(32) *SSBCI Disclaimer.* This is model content through which MA organizations must:
+(34) *SSBCI Disclaimer.* This is model content through which MA organizations must:
 
 (i) Convey the benefits mentioned are a part of special supplemental benefits.
 
@@ -314,7 +348,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iii) Include the model content in the material copy which mentions SSBCI benefits.
 
-(33) *Accommodations Disclaimer.* This is model content through which MA organizations must:
+(35) *Accommodations Disclaimer.* This is model content through which MA organizations must:
 
 (i) Convey that accommodations for persons with special needs are available.
 
@@ -322,7 +356,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iii) Include the model content in disclaimer form or within the body of the material on any advertisement of invitation to all events described under § 422.2264(c).
 
-(34) *Mailing Statements.* This is standardized content. It consists of statements on envelopes that MA organizations must include when mailing information to current members, as follows:
+(36) *Mailing Statements.* This is standardized content. It consists of statements on envelopes that MA organizations must include when mailing information to current members, as follows:
 
 (i) MA organizations must include the following statement when mailing information about the enrollee's current plan: “Important [Insert Plan Name] information.”
 
@@ -332,17 +366,17 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iv) Delegated or sub-contracted entities and downstream entities that conduct mailings on behalf of a multiple MA organizations must also comply with this requirement; however, they do not have to include a plan name.
 
-(35) *Promotional Give-Away Disclaimer.* This is model content. The disclaimer consists of a statement that must make clear that there is no obligation to enroll in a plan, and must be included when offering a promotional give-away such as a drawing, prizes, or a free gift.
+(37) *Promotional Give-Away Disclaimer.* This is model content. The disclaimer consists of a statement that must make clear that there is no obligation to enroll in a plan, and must be included when offering a promotional give-away such as a drawing, prizes, or a free gift.
 
-(36) *Provider Co-branded Material Disclaimer.* This is model content through which MA organizations must:
+(38) *Provider Co-branded Material Disclaimer.* This is model content through which MA organizations must:
 
 (i) Convey, as applicable, that other pharmacies, physicians or providers are available in the plan's network.
 
 (ii) Include the model content in disclaimer form or within the material whenever co-branding relationships with network provider are mentioned, unless the co-branding is with a provider network or health system that represents 90 percent or more of the network as a whole.
 
-(37) *Out of Network Non-Contracted Provider Disclaimer.* This is standardized content. The disclaimer consists of the statement: “Out-of-network/non-contracted providers are under no obligation to treat Plan members, except in emergency situations. Please call our customer service number or see your Evidence of Coverage for more information, including the cost-sharing that applies to out-of-network services,” and must be included whenever materials reference out-of-network/non-contracted providers.
+(39) *Out of Network Non-Contracted Provider Disclaimer.* This is standardized content. The disclaimer consists of the statement: “Out-of-network/non-contracted providers are under no obligation to treat Plan members, except in emergency situations. Please call our customer service number or see your Evidence of Coverage for more information, including the cost-sharing that applies to out-of-network services,” and must be included whenever materials reference out-of-network/non-contracted providers.
 
-(38) *NCQA SNP Approval Statement.* This is model content and must be used by SNPs who have received NCQA approval. MA organizations must:
+(40) *NCQA SNP Approval Statement.* This is model content and must be used by SNPs who have received NCQA approval. MA organizations must:
 
 (i) Convey that MA organization has been approved by the National Committee for Quality Assurance (NCQA) to operate as a Special Needs Plan (SNP).
 
@@ -352,4 +386,16 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (iv) Not include numeric SNP approval scores.
 
-[86 FR 6108, Jan. 19, 2021]
+(41) *Third-party marketing organization disclaimer.* This is standardized content. The disclaimer consists of the statement: “We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. Please contact Medicare.gov or 1-800-MEDICARE to get information on all of your options.” The MA organization must ensure that the disclaimer is as follows:
+
+(i) Used by any TPMO, as defined under § 422.2260, that sells plans on behalf of more than one MA organization unless the TPMO sells all commercially available MA plans in a given service area.
+
+(ii) Verbally conveyed within the first minute of a sales call.
+
+(iii) Electronically conveyed when communicating with a beneficiary through email, online chat, or other electronic means of communication.
+
+(iv) Prominently displayed on TPMO websites.
+
+(v) Included in any marketing materials, including print materials and television advertisements, developed, used or distributed by the TPMO.
+
+[86 FR 6108, Jan. 19, 2021, as amended at 87 FR 27898, May 9, 2022]

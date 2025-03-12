@@ -1,7 +1,5 @@
 ##### § 423.2265 Websites. #####
 
-Link to an amendment published at 87 FR 27901, May 9, 2022.
-
 As required under § 423.128(d)(2), Part D sponsors must have a website.
 
 (a) *General website requirements.* (1) Part D sponsor websites must meet all of the following requirements:
@@ -56,6 +54,10 @@ As required under § 423.128(d)(2), Part D sponsors must have a website.
 
 (ii) Information on how to obtain information about the MTM program, including how the member will know they are eligible and enrolled into the MTM program, the comprehensive medication review and targeted medication reviews, a description of how reviews are conducted and delivered, including time commitments and materials beneficiaries will receive.
 
+(14) Instructions on how to appoint a representative including a link to the downloadable version of the CMS Appointment of Representative Form (CMS Form-1696).
+
+(15) Enrollment instructions and forms.
+
 (c) *Required posted materials.* A Part D sponsor's website must provide access to the following materials, in a printable format, within the timeframes specified in paragraphs (c)(1) and (2) of this section.
 
 (1) The following materials for each plan year must be posted on the website by October 15 prior to the beginning of the plan year:
@@ -82,4 +84,4 @@ As required under § 423.128(d)(2), Part D sponsors must have a website.
 
 (iv) CMS Star Ratings document, which must be posted within 21 days after its release on the Medicare Plan Finder.
 
-[86 FR 6125, Jan. 19, 2021]
+[86 FR 6125, Jan. 19, 2021, as amended at 87 FR 27901, May 9, 2022]

@@ -1,10 +1,8 @@
 ##### § 423.505 Contract provisions. #####
 
-Link to an amendment published at 87 FR 27900, May 9, 2022.
-
 (a) *General rule.* The contract between the Part D plan sponsor and CMS must contain the provisions specified in paragraph (b) of this section.
 
-(b) *Requirements for contracts.* The Part D plan sponsor agrees to -
+(b) *Requirements for contracts.* The Part D plan sponsor agrees to—
 
 (1) All the applicable requirements and conditions set forth in this part and in general instructions.
 
@@ -112,7 +110,7 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (e) *Access to facilities and records.* The Part D plan sponsor agrees to the following:
 
-(1) HHS, the Comptroller General, or their designee may evaluate, through audit, inspection, or other means -
+(1) HHS, the Comptroller General, or their designee may evaluate, through audit, inspection, or other means—
 
 (i) The quality, appropriateness, and timeliness of services furnished to Medicare enrollees under the contract;
 
@@ -126,7 +124,7 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (3) The Part D plan sponsor agrees to make available, for the purposes specified in paragraph (d) of this section, its premises, physical facilities and equipment, records relating to its Medicare enrollees, and any additional relevant information that CMS may require.
 
-(4) HHS, the Comptroller General, or their designee's right to inspect, evaluate, and audit extends through 10 years from the end of the final contract period or completion of audit, whichever is later unless -
+(4) HHS, the Comptroller General, or their designee's right to inspect, evaluate, and audit extends through 10 years from the end of the final contract period or completion of audit, whichever is later unless—
 
 (i) CMS determines there is a special need to retain a particular record or group of records for a longer period and notifies the Part D plan sponsor at least 30 days before the normal disposition date;
 
@@ -134,7 +132,7 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (iii) CMS determines that there is a reasonable possibility of fraud or similar fault, in which case CMS may inspect, evaluate, and audit the Part D plan sponsor at any time.
 
-(f) *Disclosure of information.* The Part D plan sponsor agrees to submit to CMS -
+(f) *Disclosure of information.* The Part D plan sponsor agrees to submit to CMS—
 
 (1) Certified financial information that must include the following:
 
@@ -150,7 +148,7 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (iii) The service area of each plan.
 
-(iv) Plan quality and performance indicators for the benefits under the plan including -
+(iv) Plan quality and performance indicators for the benefits under the plan including—
 
 (A) Disenrollment rates for Medicare enrollees electing to receive benefits through the plan for the previous 2 years;
 
@@ -190,13 +188,13 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (g) *Beneficiary financial protections.* The Part D plan sponsor agrees to comply with the following requirements:
 
-(1) Each Part D plan sponsor must adopt and maintain arrangements satisfactory to CMS to protect its enrollees from incurring liability for payment of any fees that are the legal obligation of the Part D sponsor. To meet this requirement, the Part D plan sponsor must -
+(1) Each Part D plan sponsor must adopt and maintain arrangements satisfactory to CMS to protect its enrollees from incurring liability for payment of any fees that are the legal obligation of the Part D sponsor. To meet this requirement, the Part D plan sponsor must—
 
 (i) Ensure that all contractual or other written arrangements prohibit the sponsor's contracting agents from holding any beneficiary enrollee liable for payment of any such fees; and
 
 (ii) Indemnify the beneficiary enrollee for payment of any fees that are the legal obligation of the Part D plan sponsor for covered prescription drugs furnished by non-contracting pharmacists, or that have not otherwise entered into an agreement with the Part D plan sponsor, to provide services to the organization's beneficiary enrollees.
 
-(2) In meeting the requirements of this paragraph, other than the provider contract requirements specified in paragraph (g)(1)(i) of this section, the Part D plan sponsor may use -
+(2) In meeting the requirements of this paragraph, other than the provider contract requirements specified in paragraph (g)(1)(i) of this section, the Part D plan sponsor may use—
 
 (i) Contractual arrangements;
 
@@ -206,7 +204,7 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (iv) Any other arrangement acceptable to CMS.
 
-(h) *Requirements of other laws and regulations.* The Part D plan sponsor agrees to comply with -
+(h) *Requirements of other laws and regulations.* The Part D plan sponsor agrees to comply with—
 
 (1) Federal laws and regulations designed to prevent fraud, waste, and abuse, including, but not limited to applicable provisions of Federal criminal law, the False Claims Act (31 U.S.C. 3729 *et seq.*), and the anti-kickback statute (section 1128B(b) of the Act).
 
@@ -214,7 +212,7 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (i) *Relationship with first tier, downstream, and related entities.* (1) Notwithstanding any relationship(s) that the Part D plan sponsor may have with first tier, downstream, and related entities, the Part D sponsor maintains ultimate responsibility for adhering to and otherwise fully complying with all terms and conditions of its contract with CMS.
 
-(2) The Part D sponsor agrees to require all first tier, downstream, and related entities to agree that -
+(2) The Part D sponsor agrees to require all first tier, downstream, and related entities to agree that—
 
 (i) HHS, the Comptroller General, or their designees have the right to audit, evaluate, collect, and inspect any books, contracts, computer or other electronic systems, including medical records and documentation of the first tier, downstream, and related entities related to CMS' contract with the Part D sponsor.
 
@@ -254,7 +252,7 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (j) *Additional contract terms.* The Part D plan sponsor agrees to include in the contract other terms and conditions as CMS may find necessary and appropriate in order to implement requirements in this part.
 
-(k) *Certification of data that determine payment* - (1) *General rule.* As a condition for receiving a monthly payment under subpart G of this part (or for fallback entities, payment under subpart Q of this part),, the Part D plan sponsor agrees that its chief executive officer (CEO), chief financial officer (CFO), or an individual delegated the authority to sign on behalf of one of these officers, and who reports directly to the officer, must request payment under the contract on a document that certifies (based on best knowledge, information, and belief) the accuracy, completeness, and truthfulness of all data related to payment. The data may include specified enrollment information, claims data, bid submission data, and other data that CMS specifies.
+(k) *Certification of data that determine payment*—(1) *General rule.* As a condition for receiving a monthly payment under subpart G of this part (or for fallback entities, payment under subpart Q of this part),, the Part D plan sponsor agrees that its chief executive officer (CEO), chief financial officer (CFO), or an individual delegated the authority to sign on behalf of one of these officers, and who reports directly to the officer, must request payment under the contract on a document that certifies (based on best knowledge, information, and belief) the accuracy, completeness, and truthfulness of all data related to payment. The data may include specified enrollment information, claims data, bid submission data, and other data that CMS specifies.
 
 (2) *Certification of enrollment and payment information.* The CEO, CFO, or an individual delegated the authority to sign on behalf of one of these officers, and who reports directly to the officer, must certify (based on best knowledge, information, and belief) that each enrollee for whom the organization is requesting payment is validly enrolled in a program offered by the organization and the information CMS relies on in determining payment is accurate, complete, and truthful and acknowledge that this information will be used for the purposes of obtaining Federal reimbursement.
 
@@ -296,11 +294,39 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (ii) The Congressional Research Service is considered an external entity when it is not acting on behalf of a Congressional committee in accordance with 2 U.S.C. 166(d)(1) for the purposes of paragraph (m)(1) of this section.
 
-(n)(1) CMS may determine that a Part D plan sponsor is out of compliance with a Part D requirement when the sponsor fails to meet performance standards articulated in the Part D statutes, regulations, or guidance.
+(n) *Issuance of compliance actions for failure to comply with the terms of the contract.* The Part D plan sponsor acknowledges that CMS may take compliance actions as described in this section or intermediate sanctions as defined in subpart O of this part.
 
-(2) If CMS has not already articulated a measure for determining noncompliance, CMS may determine that a Part D sponsor is out of compliance when its performance in fulfilling Part D requirements represents an outlier relative to the performance of other Part D sponsors.
+(1) CMS may take compliance actions as described in paragraph (n)(3) of this section if it determines that the Part D plan sponsor has not complied with the terms of a current or prior Part D contract with CMS.
 
-(o) *Acknowledgements of CMS release of data* - (1) *Summary CMS payment data.* The contract must provide that the Part D sponsor acknowledges that CMS releases to the public summary reconciled Part D payment data after the reconciliation of Part D payments for the contract year as follows:
+(i) CMS may determine that a Part D plans sponsor is out of compliance with a Part D requirement when the organization fails to meet performance standards articulated in the Part D statutes, regulations in this chapter, or guidance.
+
+(ii) If CMS has not already articulated a measure for determining noncompliance, CMS may determine that a Part D plan sponsor is out of compliance when its performance in fulfilling Part D requirements represents an outlier relative to the performance of other Part D plan sponsors.
+
+(2) CMS bases its decision on whether to issue a compliance action and what level of compliance action to take on an assessment of the circumstances surrounding the noncompliance, including all of the following:
+
+(i) The nature of the conduct.
+
+(ii) The degree of culpability of the Part D plan sponsor.
+
+(iii) The adverse effect to beneficiaries which resulted or could have resulted from the conduct of the Part D plan sponsor.
+
+(iv) The history of prior offenses by the Part D plan sponsor or its related entities.
+
+(v) Whether the noncompliance was self-reported.
+
+(vi) Other factors which relate to the impact of the underlying noncompliance or the lack of the Part D plan sponsor's oversight of its operations that contributed to the noncompliance.
+
+(3) CMS may take one of three types of compliance actions based on the nature of the noncompliance.
+
+(i) *Notice of noncompliance.* A notice of noncompliance may be issued for any failure to comply with the requirements of the Part D plan sponsor's current or prior Part D contract with CMS, as described in paragraph (n)(1) of this section.
+
+(ii) *Warning letter.* A warning letter may be issued for serious and/or continued noncompliance with the requirements of the Part D plan sponsor's current or prior Part D contract with CMS, as described in paragraph (n)(1) of this section and as assessed in accordance with paragraph (n)(2) of this section.
+
+(iii) *Corrective action plan.* (A) Corrective action plans are issued for particularly serious and/or continued noncompliance with the requirements of the Part D plan sponsors' current or prior Part D contract with CMS, as described in paragraph (n)(1) of this section and as assessed in accordance with paragraph (n)(2) of this section.
+
+(B) CMS issues a corrective action plan if CMS determines that the Part D plan sponsor has repeated or not corrected noncompliance identified in prior compliance actions, has substantially impacted beneficiaries or the program with its noncompliance, and/or must implement a detailed plan to correct the underlying causes of the noncompliance.
+
+(o) *Acknowledgements of CMS release of data*—(1) *Summary CMS payment data.* The contract must provide that the Part D sponsor acknowledges that CMS releases to the public summary reconciled Part D payment data after the reconciliation of Part D payments for the contract year as follows:
 
 (i) The average per member per month Part D direct subsidy standardized to the 1.0 (average risk score) beneficiary for each Part D plan offered.
 
@@ -372,4 +398,4 @@ Link to an amendment published at 87 FR 27900, May 9, 2022.
 
 (v) Operation of call center customer services.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016; 83 FR 16750, Apr. 16, 2018; 86 FR 6119, Jan. 19, 2021]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016; 83 FR 16750, Apr. 16, 2018; 86 FR 6119, Jan. 19, 2021; 87 FR 27900, May 9, 2022]

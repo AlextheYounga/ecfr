@@ -2,11 +2,11 @@
 
 (a) *Basic rule.* Coordination of benefits is governed by this section if an individual is eligible for or entitled to Medicare on the basis of ESRD and also entitled on the basis of age or disability.
 
-(b) *Specific rules.*1/\> (1) *Coordination period ended before August 1993.* If the first 18 months of ESRD-based eligibility or entitlement ended before August 1993, Medicare was primary payer from the first month of dual eligibility or entitlement, regardless of when dual eligibility or entitlement began.
+(b) *Specific rules.*1 (1) *Coordination period ended before August 1993.* If the first 18 months of ESRD-based eligibility or entitlement ended before August 1993, Medicare was primary payer from the first month of dual eligibility or entitlement, regardless of when dual eligibility or entitlement began.
 
 1 A lawsuit was filed in United States District Court for the District of Columbia on May 5, 1995 (*National Medical Care, Inc.* v. *Shalala,* Civil Action No. 95-0860), challenging the implementation of one aspect of the OBRA '93 provisions with respect to group health plan retirement coverage. The court issued a preliminary injunction order on June 6, 1995, which enjoins the Secretary from applying the rule contained in § 411.163(b)(4) for items and services furnished between August 10, 1993 and April 24, 1995, pending the court's decision on the merits. CMS will modify the rules, if required, based on the final ruling by the court.
 
-(2) *First month of ESRD-based eligibility or entitlement and first month of dual eligibility/entitlement after February 1992 and before August 10, 1993.* Except as provided in paragraph (b)(4) of this section, if the first month of ESRD-based eligibility or entitlement and first month of dual eligibility/entitlement were after February 1992 and before August 10, 1993, Medicare -
+(2) *First month of ESRD-based eligibility or entitlement and first month of dual eligibility/entitlement after February 1992 and before August 10, 1993.* Except as provided in paragraph (b)(4) of this section, if the first month of ESRD-based eligibility or entitlement and first month of dual eligibility/entitlement were after February 1992 and before August 10, 1993, Medicare—
 
 (i) Is primary payer from the first month of dual eligibility/entitlement through August 9, 1993;
 
@@ -14,7 +14,7 @@
 
 (iii) Again becomes primary payer after the 18th month of ESRD-based eligibility or entitlement.
 
-(3) *First month of ESRD-based eligibility or entitlement after February 1992 and first month of dual eligibility/entitlement after August 9, 1993.* Except as provided in paragraph (b)(4) of this section, if the first month of ESRD-based eligibility or entitlement is after February 1992, and the first month of dual eligibility/entitlement is after August 9, 1993, the rules of § 411.162(b) and (c) apply; that is, Medicare -
+(3) *First month of ESRD-based eligibility or entitlement after February 1992 and first month of dual eligibility/entitlement after August 9, 1993.* Except as provided in paragraph (b)(4) of this section, if the first month of ESRD-based eligibility or entitlement is after February 1992, and the first month of dual eligibility/entitlement is after August 9, 1993, the rules of § 411.162(b) and (c) apply; that is, Medicare—
 
 (i) Is secondary payer during the first 18 months of ESRD-based eligibility or entitlement; and
 

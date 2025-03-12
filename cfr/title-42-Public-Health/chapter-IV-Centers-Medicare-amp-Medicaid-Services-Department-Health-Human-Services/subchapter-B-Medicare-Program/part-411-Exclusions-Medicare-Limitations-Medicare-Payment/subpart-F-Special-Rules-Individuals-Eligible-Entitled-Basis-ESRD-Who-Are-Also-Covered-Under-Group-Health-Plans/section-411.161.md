@@ -1,10 +1,10 @@
 ##### § 411.161 Prohibition against taking into account Medicare eligibility or entitlement or differentiating benefits. #####
 
-(a) *Taking into account* - (1) *Basic rule.* A GHP may not take into account that an individual is eligible for or entitled to Medicare benefits on the basis of ESRD during the coordination period specified in § 411.162(b) and (c). Examples of actions that constitute taking into account Medicare entitlement are listed in § 411.108(a).
+(a) *Taking into account*—(1) *Basic rule.* A GHP may not take into account that an individual is eligible for or entitled to Medicare benefits on the basis of ESRD during the coordination period specified in § 411.162(b) and (c). Examples of actions that constitute taking into account Medicare entitlement are listed in § 411.108(a).
 
 (2) *Applicability.* This prohibition applies for ESRD-based Medicare eligibility to the same extent as for ESRD-based Medicare entitlement. An individual who has ESRD but who has not filed an application for entitlement to Medicare on that basis is eligible for Medicare based on ESRD for purposes of paragraphs (b)(2) and (c)(2) through (c)(4) of § 411.162 if the individual meets the other requirements of § 406.13 of this chapter.
 
-(3) *Relation to COBRA continuation coverage.* This rule does not prohibit the termination of GHP coverage under title X of COBRA when termination of that coverage is expressly permitted, upon entitlement to Medicare, under 26 U.S.C. 4980B(f)(2)(B)(iv); 29 U.S.C. 1162.(2)(D); or 42 U.S.C. 300bb-2.(2)(D).1/\> (Situations in which Medicare is secondary to COBRA continuation coverage are set forth in § 411.162(a)(3).)
+(3) *Relation to COBRA continuation coverage.* This rule does not prohibit the termination of GHP coverage under title X of COBRA when termination of that coverage is expressly permitted, upon entitlement to Medicare, under 26 U.S.C. 4980B(f)(2)(B)(iv); 29 U.S.C. 1162.(2)(D); or 42 U.S.C. 300bb-2.(2)(D).1 (Situations in which Medicare is secondary to COBRA continuation coverage are set forth in § 411.162(a)(3).)
 
 1 COBRA requires that certain group health plans offer continuation of plan coverage for 18 to 36 months after the occurrence of certain “qualifying events,” including loss of employment or reduction of employment hours. Those are events that otherwise would result in loss of group health plan coverage unless the individual is given the opportunity to elect, and does so elect, to continue plan coverage at his or her own expense. With one exception, the COBRA amendments expressly permit termination of continuation coverage upon entitlement to Medicare. The exception is that the plan may not terminate continuation coverage of an individual (and his or her qualified dependents) if the individual retires on or before the date the employer substantially eliminates regular plan coverage by filing for Chapter 11 bankruptcy (26 U.S.C. 4980B(g)(1)(D) and 29 U.S.C. 1167.(3)(C)).
 
@@ -26,7 +26,7 @@
 
 (d) *Benefits secondary to Medicare.* (1) The prohibition against differentiation of benefits does not preclude a plan from paying benefits secondary to Medicare after the expiration of the coordination period described in § 411.162(b) and (c), but a plan may not otherwise differentiate, as described in paragraph (b) of this section, in the benefits it provides.
 
-(2) Example -
+(2) Example—
 
 Mr. Smith works for employer A, and he and his wife are covered through employer A's GHP (Plan A). Neither is eligible for Medicare nor has ESRD. Mrs. Smith works for employer B, and is also covered by employer B's plan (Plan B). Plan A is more comprehensive than Plan B and covers certain items and services which Plan B does not cover, such as prescription drugs. If Mrs. Smith obtains a medical service, Plan B pays primary and Plan A pays secondary. That is, Plan A covers Plan B copayment amounts and items and services that Plan A covers but that Plan B does not.
 
